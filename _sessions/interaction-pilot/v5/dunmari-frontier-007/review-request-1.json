@@ -1,0 +1,422 @@
+{
+  "inputDigest": "bf1773a9959813d0b51ca6d9cf57efac26b238e06f07726fbdf5939ee66fd4bd",
+  "criticalMetadata": {
+    "campaign": "dufr",
+    "session": 7,
+    "realWorldDate": "2020-08-16",
+    "pcs": [
+      "People/PCs/Dunmar Fellowship/Kenzo.md",
+      "People/PCs/Dunmar Fellowship/Wellby.md",
+      "People/PCs/Dunmar Fellowship/Delwath.md",
+      "People/PCs/Dunmar Fellowship/Seeker.md",
+      "People/PCs/Dunmar Fellowship/Riswynn.md"
+    ],
+    "dateStart": "1748-04-07",
+    "dateEnd": "1748-04-11",
+    "locations": [
+      "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+      "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    ]
+  },
+  "entityEvidence": [
+    {
+      "target": "entity:runic-die",
+      "record": {
+        "id": "runic-die",
+        "kind": "item",
+        "label": "Seeker’s runic stone die",
+        "aiSummary": "Seeker displays a six-sided stone die and proposes using it to settle the party’s travel pace.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "die-introduction"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0039",
+          "endUid": "u0118"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0590",
+          "endUid": "u0592"
+        }
+      ]
+    },
+    {
+      "target": "entity:ravens-hold-maps",
+      "record": {
+        "id": "ravens-hold-maps",
+        "kind": "item",
+        "label": "Riswynn’s maps of Raven’s Hold",
+        "aiSummary": "Two maps drawn by Riswynn’s uncle guide discussion of the fortress, dwarven outpost, and possible escape-route entrance.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "maps-introduction"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0374",
+          "endUid": "u0489"
+        }
+      ]
+    },
+    {
+      "target": "entity:ander",
+      "record": {
+        "id": "ander",
+        "kind": "npc",
+        "label": "Ander Charmheart",
+        "aiSummary": "The party recalls Ander’s limited exploration inside Raven’s Hold’s outer wall and his strange movement toward the earlier battle.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Halflings/Ander Charmheart.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0398",
+          "endUid": "u0437"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0634",
+          "endUid": "u0650"
+        }
+      ]
+    },
+    {
+      "target": "entity:spyglass",
+      "record": {
+        "id": "spyglass",
+        "kind": "item",
+        "label": "Wellby’s spyglass",
+        "aiSummary": "Wellby and Kenzo arrange a 100-gold spyglass purchase, and Wellby uses its modest magnification to inspect approaching travelers.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "spyglass-description"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0668",
+          "endUid": "u0741"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2430",
+          "endUid": "u2436"
+        }
+      ]
+    },
+    {
+      "target": "entity:shani",
+      "record": {
+        "id": "shani",
+        "kind": "npc",
+        "label": "Shani",
+        "aiSummary": "A Dunmari goat herder fleeing with her family warns the party about gnolls and a vast stationary storm. She agrees to report their progress if she reaches Tokra.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Dunmari/Shani.md",
+        "aiSuggestedFeaturedQuotes": [
+          "shani-introduction",
+          "shani-storm",
+          "shani-gnolls",
+          "shani-warning"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0803",
+          "endUid": "u1012"
+        }
+      ]
+    },
+    {
+      "target": "entity:wounded-herder",
+      "record": {
+        "id": "wounded-herder",
+        "kind": "npc",
+        "label": "Herder with a broken arm",
+        "aiSummary": "An unnamed member of Shani’s traveling group lost his horse and suffered a broken arm in the attack. Seeker heals him, prompting gratitude and surprise.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "herder-healed"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0861",
+          "endUid": "u0888"
+        }
+      ]
+    },
+    {
+      "target": "entity:maw-book",
+      "record": {
+        "id": "maw-book",
+        "kind": "item",
+        "label": "Book describing the maw creatures",
+        "aiSummary": "Riswynn recalls Seeker’s book identifying the maw creatures as coming from another world.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1018",
+          "endUid": "u1025"
+        }
+      ]
+    },
+    {
+      "target": "entity:disc-coin",
+      "record": {
+        "id": "disc-coin",
+        "kind": "item",
+        "label": "Floating Disc Coin",
+        "aiSummary": "Seeker transforms the coin into a floating platter bearing rabbit bait during the gnoll ambush.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Floating Disc Coin.md",
+        "aiSuggestedFeaturedQuotes": [
+          "disc-transformation"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1414",
+          "endUid": "u1890"
+        }
+      ]
+    },
+    {
+      "target": "entity:gnoll-leader",
+      "record": {
+        "id": "gnoll-leader",
+        "kind": "npc",
+        "label": "Gnoll leader with poisoned arrows",
+        "aiSummary": "A gnoll archer uses poison and communicates with its companions during the camp ambush. After the attackers are defeated, the party notices its necklace of bloody goat knucklebones.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "gnoll-leader-introduction"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1244",
+          "endUid": "u2108"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2113",
+          "endUid": "u2143"
+        }
+      ]
+    },
+    {
+      "target": "entity:vulture",
+      "record": {
+        "id": "vulture",
+        "kind": "npc",
+        "label": "Vulture questioned at breakfast",
+        "aiSummary": "A hungry vulture eats a fallen gnoll and answers Seeker’s questions about movement near Raven’s Hold and flight near the storm.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "vulture-introduction",
+          "vulture-no-food",
+          "vulture-storm"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2180",
+          "endUid": "u2283"
+        }
+      ]
+    },
+    {
+      "target": "entity:chamutte",
+      "record": {
+        "id": "chamutte",
+        "kind": "npc",
+        "label": "Cha’mutte",
+        "aiSummary": "Cha’mutte is discussed when recalling centaur participation in the war and distinguishing dragons from beings created through belief.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Extraplanar Powers/Cha'mutte.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2469",
+          "endUid": "u2475"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2697",
+          "endUid": "u2707"
+        }
+      ]
+    },
+    {
+      "target": "entity:tharandros",
+      "record": {
+        "id": "tharandros",
+        "kind": "npc",
+        "label": "Tharandros",
+        "aiSummary": "A centaur leader warns of spreading poisoned water, an Abyssal tether, and the party’s own planar connections. Persuaded by Karawa’s dreamwalking knowledge, he agrees to carry a warning south.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Nonhumans/Tharandros.md",
+        "aiSuggestedFeaturedQuotes": [
+          "tharandros-abyss",
+          "tharandros-shadow",
+          "tharandros-spreading-poison",
+          "tharandros-agreement"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2507",
+          "endUid": "u2970"
+        }
+      ]
+    },
+    {
+      "target": "entity:centaur-herd",
+      "record": {
+        "id": "centaur-herd",
+        "kind": "organization",
+        "label": "Tharandros’s herd",
+        "aiSummary": "A migrating herd flees poisoned water from the east and changes course toward Karawa after its leader speaks with the party.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "herd-introduction"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2395",
+          "endUid": "u2970"
+        }
+      ]
+    },
+    {
+      "target": "entity:draconic-staff",
+      "record": {
+        "id": "draconic-staff",
+        "kind": "item",
+        "label": "Staff inscribed with Draconic runes",
+        "aiSummary": "Kenzo confirms that he still carries the found staff while correcting a confusion between Draconic and Drankorian.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2762",
+          "endUid": "u2770"
+        }
+      ]
+    },
+    {
+      "target": "entity:karawa-mystai",
+      "record": {
+        "id": "karawa-mystai",
+        "kind": "organization",
+        "label": "Mystai remaining in Karawa",
+        "aiSummary": "The party describes the mystai staying fortified in Karawa as a possible refuge and later directs Tharandros toward the people preserving its deeper magic.",
+        "review": {
+          "confidence": "medium",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0947",
+          "endUid": "u0950"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2839",
+          "endUid": "u2949"
+        }
+      ]
+    }
+  ],
+  "optionalReviewHints": [
+    "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-beats.json",
+    "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-beat-facts.json"
+  ],
+  "instructions": "Separately verify each critical record against transcript context and vault identities. Inspect dates, attendance, locations and omissions across the session. Beats are optional review hints, never sole evidence. No validation-only promotion. Return reviewer, inputDigest, attempt (0 or 1), decisions with target, confidence, reason, evidence."
+}

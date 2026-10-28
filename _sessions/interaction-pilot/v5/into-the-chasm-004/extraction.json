@@ -1,0 +1,2114 @@
+{
+  "schemaVersion": 5,
+  "campaign": "itc",
+  "session": 4,
+  "realWorldDate": "2026-01-08",
+  "pcs": [
+    "People/PCs/Other PCs/Into the Chasm/Finnan Oakstride.md",
+    "People/PCs/Other PCs/Into the Chasm/Jrain Fanlish.md",
+    "People/PCs/Other PCs/Into the Chasm/Eolo.md",
+    "People/PCs/Other PCs/Into the Chasm/Ekko.md",
+    "People/PCs/Other PCs/Into the Chasm/Justas Rhostrin.md"
+  ],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
+      "sha256": "2ffed842f62ec04ee50288c24195e5276d7b8e40b4899fbab408fd01219855c0"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md",
+    "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Realm.md",
+    "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0027",
+        "endUid": "u0227"
+      },
+      "type": "exploration",
+      "locationDetail": "Khaled and Nura’s hut, during the rest period",
+      "aiSummary": "Jrain sees Kalima leave with an unknown companion while soldiers search houses; the party chooses to finish resting.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0228",
+        "endUid": "u0509"
+      },
+      "type": "conversation",
+      "locationDetail": "Khaled and Nura’s hut, after resting",
+      "aiSummary": "Taquin speaks through baby Samir; Nura explains the remembered souls, and Finnan’s ring reveals facts about the realm.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0510",
+        "endUid": "u0642"
+      },
+      "type": "travel",
+      "locationDetail": "Village paths and salmon pool",
+      "aiSummary": "The party crosses the village toward the dissidents, observing marked doors, the portal guardian, and the salmon pool.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0643",
+        "endUid": "u1093"
+      },
+      "type": "conversation",
+      "locationDetail": "Iskander’s hut",
+      "aiSummary": "Iskander explains failed escapes and Zahara’s group, then carries a warning while the party plans to approach Malquin.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1094",
+        "endUid": "u1146"
+      },
+      "type": "travel",
+      "locationDetail": "Former bridge landing near the salmon pool",
+      "aiSummary": "The party approaches the palace landing while Eolo considers materials for his magical quiver.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1147",
+        "endUid": "u1197"
+      },
+      "type": "exploration",
+      "locationDetail": "Metal rift and giant ice wolf",
+      "aiSummary": "Eolo retrieves a dangerous metal shard for his quiver and draws the ice wolf’s attention.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1198",
+        "endUid": "u1238"
+      },
+      "type": "conversation",
+      "locationDetail": "Bridge landing near the salmon pool",
+      "aiSummary": "The group regathers and Jrain calls in Sylvan for an audience about the planar rifts.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1239",
+        "endUid": "u1263"
+      },
+      "type": "travel",
+      "locationDetail": "Narrow ice bridge and palace entrance",
+      "aiSummary": "An ice bridge extends and the party cautiously crosses to Malquin’s palace.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Realm.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1264",
+        "endUid": "u1639"
+      },
+      "type": "conversation",
+      "locationDetail": "Malquin’s palace audience chamber",
+      "aiSummary": "Malquin’s shifting moods complicate a bargain to carry his necklace outside and return with proof of the world beyond.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Realm.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1640",
+        "endUid": "u1734"
+      },
+      "type": "travel",
+      "locationDetail": "Palace bridge and chasm portal",
+      "aiSummary": "The ice wolf permits passage; Jrain announces their return, and the party anchors a rope before crossing the portal.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1735",
+        "endUid": "u1867"
+      },
+      "type": "exploration",
+      "locationDetail": "Floating stone near the portal",
+      "aiSummary": "Eolo moves a floating platform to rescue the others, and Finnan’s clairvoyance finds Eidrikas sustaining a damaged mechanism.",
+      "time": "early to mid-afternoon",
+      "location": "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md",
+      "dateStart": "1730-01-29",
+      "dateEnd": "1730-01-29"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1868",
+        "endUid": "u1935"
+      },
+      "type": "conversation",
+      "locationDetail": "Lower platform with damaged mechanism",
+      "aiSummary": "Ekko reunites with Eidrikas, who reports Pakrinek’s death and asks for a stolen stone piece to repair the mechanism.",
+      "time": "afternoon",
+      "location": "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md",
+      "dateStart": "1730-01-29",
+      "dateEnd": "1730-01-29"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1936",
+        "endUid": "u1994"
+      },
+      "type": "conversation",
+      "locationDetail": "Upper floating platform",
+      "aiSummary": "Ekko reports back; the party learns four outside days have passed and decides to retrieve the stolen piece before nightfall.",
+      "time": "afternoon",
+      "location": "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md",
+      "dateStart": "1730-01-29",
+      "dateEnd": "1730-01-29"
+    }
+  ],
+  "entities": [
+    {
+      "id": "nura",
+      "kind": "npc",
+      "label": "Nura",
+      "aiSummary": "Nura explains the infant’s remembered soul and her fear that Samir cannot survive, then directs the party toward dissidents and other sources of knowledge.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Zimkovans/Nura.md",
+      "aiSuggestedFeaturedQuotes": [
+        "nura-fate",
+        "nura-change"
+      ]
+    },
+    {
+      "id": "khaled",
+      "kind": "npc",
+      "label": "Khaled",
+      "aiSummary": "Khaled shelters the party with Nura, takes the speaking infant aside, and supports Nura during the morning conversation.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Zimkovans/Khaled.md",
+      "aiSuggestedFeaturedQuotes": [
+        "khaled-baby"
+      ]
+    },
+    {
+      "id": "samir",
+      "kind": "npc",
+      "label": "Samir",
+      "aiSummary": "The infant Samir watches the party during the night and speaks with an older soul’s voice in the morning. Nura fears that the remembered soul prevents Samir from developing independently.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Zimkovans/Samir.md",
+      "aiSuggestedFeaturedQuotes": [
+        "samir-voice"
+      ]
+    },
+    {
+      "id": "taquin",
+      "kind": "npc",
+      "label": "Taquin",
+      "aiSummary": "A soul calling itself Taquin speaks through Samir, identifies Zahara as its child, and shares a last memory of falling toward the labyrinth.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Zimkovans/Taquin.md",
+      "aiSuggestedFeaturedQuotes": [
+        "taquin-memory",
+        "taquin-name"
+      ]
+    },
+    {
+      "id": "kalima",
+      "kind": "npc",
+      "label": "Kalima",
+      "aiSummary": "Jrain sees Kalima leave secretly during the rest period; Taquin identifies her companion as Zahara, and Iskander says she is hidden in the cliffside mines.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Sembarans/Kalima.md"
+    },
+    {
+      "id": "zahara",
+      "kind": "npc",
+      "label": "Zahara",
+      "aiSummary": "Zahara secretly takes Kalima to safety and is described as leader of the dissidents seeking escape. The party sends a warning through Iskander without visiting Zahara’s hideout.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Zimkovans/Zahara.md"
+    },
+    {
+      "id": "iskander",
+      "kind": "npc",
+      "label": "Iskander",
+      "aiSummary": "Iskander describes the realm’s failed escapes, the dissidents’ goals, and Malquin’s defenses. He carries the party’s warning to prepare for a possible opportunity to flee.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Zimkovans/Iskander.md",
+      "aiSuggestedFeaturedQuotes": [
+        "iskander-dreamers",
+        "iskander-prison",
+        "iskander-exit",
+        "iskander-ready"
+      ]
+    },
+    {
+      "id": "malquin",
+      "kind": "npc",
+      "label": "Forquarion / Malquin",
+      "aiSummary": "The ruler’s manner shifts between courtesy, confusion, and threats as the party negotiates passage. He gives Finnan a necklace to expose to the outside night and return, promising aid if they prove the outside real and safe.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Extraplanar Powers/Forquarion.md",
+      "aiSuggestedFeaturedQuotes": [
+        "malquin-intro",
+        "malquin-fear",
+        "malquin-stars",
+        "malquin-promise"
+      ]
+    },
+    {
+      "id": "wolf",
+      "kind": "npc",
+      "label": "Giant ice wolf guardian",
+      "aiSummary": "A forty-foot ice wolf blocks the apparently safe portal, turns toward Eolo at the metal rift, and later permits the party to pass under Malquin’s instructions.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "wolf-awakens"
+      ]
+    },
+    {
+      "id": "eidrikas",
+      "kind": "npc",
+      "label": "Eidrikas",
+      "aiSummary": "Ekko’s missing mentor is found painfully using his body to bridge a damaged planar mechanism. He reports Pakrinek’s death and asks the party to recover the stone piece taken by fleeing orcs.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Sembarans/Eidrikas.md",
+      "aiSuggestedFeaturedQuotes": [
+        "eidrikas-effort",
+        "eidrikas-reunion-quote",
+        "eidrikas-need",
+        "eidrikas-command"
+      ]
+    },
+    {
+      "id": "pakrinek",
+      "kind": "npc",
+      "label": "Pakrinek",
+      "aiSummary": "The party recalls Pakrinek’s expedition with Eidrikas, who later reports that orcs killed the kenku warrior at the mechanism.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Sembarans/Pakrinek.md"
+    },
+    {
+      "id": "sama",
+      "kind": "npc",
+      "label": "Sama, village elder",
+      "aiSummary": "Nura cites Sama as one of the elders who teach that children born with remembering souls cannot survive.",
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "aram",
+      "kind": "npc",
+      "label": "Aram, village elder",
+      "aiSummary": "Nura cites Aram as one of the elders whose explanation attributes the infants’ condition to souls that still remember.",
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "zeyfa",
+      "kind": "npc",
+      "label": "Zeyfa",
+      "aiSummary": "The villagers’ belief that they inhabit Zeyfa’s realm is challenged by the party’s knowledge of the West Wind and Kestavo traditions.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Kestavo/Zeyfa.md"
+    },
+    {
+      "id": "melua",
+      "kind": "npc",
+      "label": "Melua",
+      "aiSummary": "Finnan recalls an ancient story of a waterfall where the Kestavo Melua was worshipped.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Kestavo/Melua.md"
+    },
+    {
+      "id": "dissidents",
+      "kind": "organization",
+      "label": "Zahara’s dissident circle",
+      "aiSummary": "Iskander describes seven trusted dissidents seeking escape, with additional sympathizers, and agrees to warn them to be ready.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "vejo",
+      "kind": "organization",
+      "label": "Vejo Vaikai",
+      "aiSummary": "The party recalls that the Vejo Vaikai sent Eidrikas to investigate the chasm’s unnatural disturbances.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Groups/Vejo Vaikai.md"
+    },
+    {
+      "id": "kemeko",
+      "kind": "organization",
+      "label": "Kemeko Monastery",
+      "aiSummary": "Pakrinek is recalled as a warrior of Kemeko who accompanied Eidrikas into the chasm.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md"
+    },
+    {
+      "id": "ring",
+      "kind": "item",
+      "label": "Finnan’s divination ring",
+      "aiSummary": "Finnan spends the ring’s charges to learn the realm’s temporal separation, boundaries, and Malquin’s control of the sky.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "ring-facts-quote"
+      ]
+    },
+    {
+      "id": "head",
+      "kind": "item",
+      "label": "Severed head of the labyrinth beast",
+      "aiSummary": "Justas carries the beast’s head and presents it to Malquin, whose reaction suggests an unexplained bond to the beast.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "head-reaction"
+      ]
+    },
+    {
+      "id": "book",
+      "kind": "item",
+      "label": "Finnan’s collected Zimkovan tales and songs",
+      "aiSummary": "Finnan shows Iskander his collected tales to distinguish traditional Kestavo from Malquin.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "quiver",
+      "kind": "item",
+      "label": "Eolo’s giant’s quiver",
+      "aiSummary": "Eolo places a shard from the metal rift into his magical quiver, which produces arrows related to its contents after a short rest.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "metal",
+      "kind": "item",
+      "label": "Metal shard from the rift",
+      "aiSummary": "Eolo injures his hand retrieving an exceptionally sharp, multicolored metal shard and puts it in his quiver.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "metal-description"
+      ]
+    },
+    {
+      "id": "necklace",
+      "kind": "item",
+      "label": "Malquin’s necklace",
+      "aiSummary": "Malquin gives Finnan an icy necklace to carry outside, expose to the night, and return as proof the outside world is real.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "necklace-transfer"
+      ]
+    },
+    {
+      "id": "ice-sword",
+      "kind": "item",
+      "label": "Malquin’s sword of ice",
+      "aiSummary": "Malquin manifests, plants, and recalls a glittering ice sword while threatening the party during negotiations.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "sword-ice"
+      ]
+    },
+    {
+      "id": "platform",
+      "kind": "item",
+      "label": "Movable carved stone platform",
+      "aiSummary": "Eolo pushes a floating, geometrically carved stone to the portal so the party can step off its rope onto solid footing.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "mechanism",
+      "kind": "item",
+      "label": "Damaged planar mechanism",
+      "aiSummary": "A carved stone mechanism channels planar energy but sparks where it is damaged; Eidrikas bridges the break to prevent greater instability.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "missing-piece",
+      "kind": "item",
+      "label": "Missing stone piece of the mechanism",
+      "aiSummary": "Eidrikas says fleeing orcs took the stone block needed to repair the damaged mechanism, making its recovery the party’s next objective.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "piece-needed"
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "id": "nura-night",
+      "entity": "nura",
+      "scenes": [
+        1
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "aiSummary": "Nura sleeps while the party keeps watch and Kalima leaves.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0027",
+            "endUid": "u0227"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "nura-morning",
+      "entity": "nura",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Nura describes the danger of remembering souls and directs the party toward Zahara, the elders, or Malquin.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0228",
+            "endUid": "u0509"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "nura-fate",
+          "type": "color",
+          "text": "Those born with… with souls that still remember? Cannot grow into their own person. the… the two… the… The soul that is stuck in them is…",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0331",
+            "endUid": "u0333"
+          }
+        },
+        {
+          "id": "nura-change",
+          "type": "color",
+          "text": "yes, maybe… maybe you will bring change. We have never seen somebody like you before.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0345",
+            "endUid": "u0345"
+          }
+        }
+      ]
+    },
+    {
+      "id": "khaled-night",
+      "entity": "khaled",
+      "scenes": [
+        1
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "aiSummary": "Khaled sleeps in the hut while the party watches for trouble.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0027",
+            "endUid": "u0227"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "khaled-morning",
+      "entity": "khaled",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Khaled and Nura offer food, and he takes the baby aside as the party discusses its strange speech.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0228",
+            "endUid": "u0378"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "khaled-baby",
+          "type": "whole",
+          "text": "And the parents are looking quite disturbed, like, you know, obviously having a baby talking. the baby's not old enough to talk. It's disturbing the parents a little bit, but they don't look surprised. They look more… nervous. What's happening here? I'll ask them. I've never heard a baby speak like that. So, there are sort of… Pallad sort of takes the… takes the baby away, the father kind of takes the baby away, and… and… Nora says this…",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0268",
+            "endUid": "u0274"
+          }
+        }
+      ]
+    },
+    {
+      "id": "samir-night",
+      "entity": "samir",
+      "scenes": [
+        1
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Jrain notices the baby awake and staring as Kalima leaves.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0133",
+            "endUid": "u0180"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "samir-morning",
+      "entity": "samir",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Finnan contacts the infant, whose unexpected speech leads Nura to explain her fears for Samir.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0249",
+            "endUid": "u0345"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "samir-voice",
+          "type": "introduction",
+          "text": "The baby… This way. the… The baby says, The baby actually, when you say that, Telepathically, you… you… Hear a… not very childlike voice. respond. Fast. Out loud. Zahara. came… For her. They… They are my… and then the baby stops for a minute, like, it's kind of weird, but they are… Wow. They weren't. And then stops again, like, not quite sure how to finish this. Koema will be safe. And the parents are looking quite disturbed, like, you know, obviously having a baby talking. the baby's not old enough to talk. It's disturbing the parents a little bit, but they don't look surprised. They look more… nervous.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0253",
+            "endUid": "u0269"
+          }
+        }
+      ]
+    },
+    {
+      "id": "taquin-talk",
+      "entity": "taquin",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The soul speaking through Samir identifies itself as Taquin and shares its last memory of Zahara.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0249",
+            "endUid": "u0305"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "The older soul speaking through Samir",
+      "quotes": [
+        {
+          "id": "taquin-memory",
+          "type": "whole",
+          "text": "You get an image of a… person, sort of androgynous, like, non-binary. standing looking… over the… Chasm with a… the perspective is, like, from somebody falling? like, you asked for the last thing they remember from their old… yeah, their perspective is from somebody falling, right? Looking up towards the edge of the chasm where the village is. And there's, like, this person, looking down at them with tears coming down their face and muttering something and, like. Tears, but also, like, . sent, like, a look of determination. And you get the idea, this person who's falling, who's falling towards the labyrinth. Is saying… Zahara, my child. Referring to the person standing. What was your name? Taquin?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0293",
+            "endUid": "u0302"
+          }
+        },
+        {
+          "id": "taquin-name",
+          "type": "color",
+          "text": "Taquin?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0302",
+            "endUid": "u0302"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kalima-departure",
+      "entity": "kalima",
+      "scenes": [
+        1
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Jrain sees Kalima secretly leave with a companion while soldiers search the village.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0062",
+            "endUid": "u0174"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "kalima-morning",
+      "entity": "kalima",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The infant identifies Zahara as Kalima’s companion, and Nura directs the party toward the dissidents.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0249",
+            "endUid": "u0378"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "kalima-hidden",
+      "entity": "kalima",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Iskander reports that Zahara hid Kalima in the cliffside mines because sacrifices are not supposed to return.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0811",
+            "endUid": "u0837"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "zahara-seen",
+      "entity": "zahara",
+      "scenes": [
+        1
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Jrain sees an unidentified person leaving secretly with Kalima.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0140",
+            "endUid": "u0174"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "knownAs": "Unrecognized companion of Kalima"
+    },
+    {
+      "id": "zahara-family",
+      "entity": "zahara",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Taquin identifies Zahara as its child and Kalima’s escort; Nura describes the dissidents.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0249",
+            "endUid": "u0378"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "zahara-plans",
+      "entity": "zahara",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Iskander describes Zahara’s hiding places and leadership and agrees to carry the party’s warning.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0811",
+            "endUid": "u1036"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "iskander-talk",
+      "entity": "iskander",
+      "scenes": [
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Iskander explains the prison, escape attempts, and dissident plans, then agrees to warn Zahara’s group.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0643",
+            "endUid": "u1036"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "iskander-dreamers",
+          "type": "color",
+          "text": "Impossible Dreamers.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0665",
+            "endUid": "u0665"
+          }
+        },
+        {
+          "id": "iskander-prison",
+          "type": "color",
+          "text": "Well… The elders say, he says. Here is, Zeyfa's… realm? We've been brought here for sins of the ancient past, and… We are stuck forever. Hoosins? Nope, nope. our… our ancestors, I guess, the story says, although… Nobody's ever been able to tell us what those sins are, exactly. It is just… He kind of looks at it as just, some people are born unlucky. The elders say it is us, all of us, who are perpetually born unlucky in this place, and we will never… Change does not come here.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0675",
+            "endUid": "u0684"
+          }
+        },
+        {
+          "id": "iskander-exit",
+          "type": "color",
+          "text": "we are… I mean, he… he says we're… We would like to go through. We think that's the way out. Wherever this place is, We don't believe that leaving here will cause our souls to be eaten. But… I would say… maybe another… 20 or 30? Don't think we're wrong. But many are convinced by the elders who do believe our souls will be eaten if we leave.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0841",
+            "endUid": "u0846"
+          }
+        },
+        {
+          "id": "iskander-ready",
+          "type": "color",
+          "text": "We'll be ready to run. If an opportunity presents.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1035",
+            "endUid": "u1036"
+          }
+        }
+      ]
+    },
+    {
+      "id": "malquin-morning",
+      "entity": "malquin",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Nura identifies Malquin as a possible source of knowledge, and Finnan learns that the ruler controls the sky.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0274",
+            "endUid": "u0509"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Malquin"
+    },
+    {
+      "id": "malquin-iskander",
+      "entity": "malquin",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Iskander describes Malquin’s appearance, guards, and insistence that leaving would destroy villagers’ souls.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0698",
+            "endUid": "u1019"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Malquin the Vaqar"
+    },
+    {
+      "id": "malquin-audience",
+      "entity": "malquin",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party negotiates a reciprocal bargain to return Malquin’s necklace with proof of the outside and secure his aid and passage.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1264",
+            "endUid": "u1639"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Malquin the Vaqar",
+      "quotes": [
+        {
+          "id": "malquin-intro",
+          "type": "color",
+          "text": "You are here. about the cracks. in the wall. In reality, I am Malquin the Vaqar, ruler of this place. What do you know?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1307",
+            "endUid": "u1310"
+          }
+        },
+        {
+          "id": "malquin-fear",
+          "type": "color",
+          "text": "The whispers say I would end. How do I know they are not correct? Ending is the worst of all fates. I could not have that.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1386",
+            "endUid": "u1389"
+          }
+        },
+        {
+          "id": "malquin-stars",
+          "type": "color",
+          "text": "I… He says. I remember… Moonlight. Moonlight. I remember… The stars? There are no stars here. How do I remember such things?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1505",
+            "endUid": "u1511"
+          }
+        },
+        {
+          "id": "malquin-promise",
+          "type": "color",
+          "text": "But if you can prove, if you… if you bring news of safety, elsewhere. I would not wish to impede those who I would not wish to impede those who to… wish… To take advantage of it. it is, So, yes, I can… I could accept that bargain. proof of… the real… If you return, when you return with proof that the outside world is real. I could… Help you. to close this… These cracks and… and… as you see fit, with what aid I can give.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1600",
+            "endUid": "u1608"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wolf-seen",
+      "entity": "wolf",
+      "scenes": [
+        3
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The giant ice wolf visibly guards the crack that resembles the chasm.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0514",
+            "endUid": "u0578"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "wolf-discussed",
+      "entity": "wolf",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Iskander recounts the guardian’s arrival, and the party debates distracting or fighting it.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0781",
+            "endUid": "u0987"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "wolf-eolo",
+      "entity": "wolf",
+      "scenes": [
+        6
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The wolf turns and opens its eyes as Eolo works near the metal rift.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1177",
+            "endUid": "u1193"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "wolf-awakens",
+          "type": "whole",
+          "text": "The wolf's head turns to look at you. It still looks like it's ice, but it's… you notice… Say telepathically to Eolo, just wave at it, don't shoot at it. With my crossbow, I assume you mean. I wave with my crossbow. It's eyes open.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1177",
+            "endUid": "u1181"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wolf-passage",
+      "entity": "wolf",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The wolf remains still as Finnan approaches and Justas anchors a rope to its leg for crossing.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1644",
+            "endUid": "u1734"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "eidrikas-missing",
+      "entity": "eidrikas",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party recalls Ekko’s missing mentor and his investigation of the chasm’s disturbances.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0930",
+            "endUid": "u1005"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "eidrikas-seen",
+      "entity": "eidrikas",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "aiSummary": "Finnan’s clairvoyance reveals Eidrikas painfully conducting energy through his body to hold a broken mechanism together.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1811",
+            "endUid": "u1867"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "eidrikas-effort",
+          "type": "introduction",
+          "text": "Human, right, with, long black hair and, like, green eyes and, you know, hazel green eyes and, and, wearing what, at this point, like, what used to be… seemed to be, you know, nice robes, but they look tattered at this point. And they're… they're sitting, like. Cross-legged, like, where you can see there's, like, a blackened area, of the… of the, of the, stone. And this person is, like, sitting, and, like, their arm… their arms are, like. Holding on to two pieces of the light. like, to two sections where the light is flowing, and you can actually see, like, these… the light is, like, moving, right? Like, it's not stable, they're, like, holding two sections, and, like. every once in a while, like, it'll flow through their body, and, like, it'll spark. And, like, you can see them, like, grimacing, and, like. Bearing down their teeth, like, when the light flows through them, like… like… And you notice when that happens, like, you see the white flow through the person, and at the same moment, like, you see in the distance a… a sheet of iron, maybe, 100 feet wide, just appear in the sky and start falling. And then, like, you actually see, like, like, the person, like, is, is, is, like. Tightens the grip, almost, on the white. And, like, is, like, holding on to something. Looks like they're holding on to something.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1821",
+            "endUid": "u1834"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eidrikas-reunion",
+      "entity": "eidrikas",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Ekko reunites with Eidrikas, who asks him to recover the stolen stone piece while he keeps the mechanism stable.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1868",
+            "endUid": "u1935"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "eidrikas-reunion-quote",
+          "type": "color",
+          "text": "Ekko. How did you come to… be here.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1871",
+            "endUid": "u1872"
+          }
+        },
+        {
+          "id": "eidrikas-need",
+          "type": "color",
+          "text": "When we… when we surprise them. If you could… and I could not… I cannot give chase for… I, it is… And again, I am doing what I can to prevent it from getting worse. But we cannot repair it without retrieving the peace. If you have companions who can chase them. I can only hold this together for so long.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1909",
+            "endUid": "u1914"
+          }
+        },
+        {
+          "id": "eidrikas-command",
+          "type": "color",
+          "text": "Go find them.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1934",
+            "endUid": "u1934"
+          }
+        }
+      ]
+    },
+    {
+      "id": "eidrikas-report",
+      "entity": "eidrikas",
+      "scenes": [
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Ekko reports Eidrikas’s predicament and the group plans recovery while allowing time to fulfill Malquin’s bargain.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1936",
+            "endUid": "u1994"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "pakrinek-missing",
+      "entity": "pakrinek",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Pakrinek is recalled as the Kemeko warrior who accompanied Eidrikas and failed to return.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0930",
+            "endUid": "u1002"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "pakrinek-death",
+      "entity": "pakrinek",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Eidrikas reports that Pakrinek died fighting the orcs at the damaged mechanism.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1892",
+            "endUid": "u1926"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "sama-teaching",
+      "entity": "sama",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Nura cites Sama among the elders who teach that souls which remember prevent an infant’s survival.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0318",
+            "endUid": "u0339"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "aram-teaching",
+      "entity": "aram",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Nura cites Aram among the elders explaining the condition of remembering souls.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0318",
+            "endUid": "u0339"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "zeyfa-morning",
+      "entity": "zeyfa",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party compares the realm’s ruler with Kestavo traditions and the stories of Zeyfa.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0415",
+            "endUid": "u0461"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "zeyfa-iskander",
+      "entity": "zeyfa",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Finnan challenges the villagers’ belief that Malquin is Zeyfa’s lieutenant, explaining that the West Wind is warded off.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0675",
+            "endUid": "u0758"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "melua-story",
+      "entity": "melua",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Finnan cites an old story of Melua’s waterfall worship.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0349",
+            "endUid": "u0353"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "dissident-talk",
+      "entity": "dissidents",
+      "scenes": [
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Through Iskander, the party learns the dissidents’ escape aims and asks them to prepare for an opening.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0643",
+            "endUid": "u1036"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "vejo-expedition",
+      "entity": "vejo",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The group recalls the Vejo Vaikai’s concern and Eidrikas’s expedition to investigate the chasm.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0930",
+            "endUid": "u1002"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "kemeko-expedition",
+      "entity": "kemeko",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Pakrinek’s role as a Kemeko warrior accompanying the investigation is recalled.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0940",
+            "endUid": "u1002"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "ring-facts",
+      "entity": "ring",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Finnan’s ring reveals the realm’s bounds, sky control, and temporal separation; the DM finally clarifies that time runs slower here.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0379",
+            "endUid": "u0490"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "ring-facts-quote",
+          "type": "whole",
+          "text": "the… this place… The boundaries of this place are… What you can see. There's nothing past the mists. Or beneath the mists. And the… the… the… the sky… that, lord… Lord Farraquin. the… the frostbinder… frost… frostbinder controls the… Controls the sky.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0400",
+            "endUid": "u0406"
+          }
+        }
+      ]
+    },
+    {
+      "id": "head-check",
+      "entity": "head",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Finnan confirms that Justas still carries the beast’s severed head.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0407",
+            "endUid": "u0414"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "head-audience",
+      "entity": "head",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Justas presents the head, Malquin handles it in distress, and Justas eventually puts it away.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1357",
+            "endUid": "u1499"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "head-reaction",
+          "type": "whole",
+          "text": "Creature's head from you, and, like, holds it up, sort of looking at it, like, and says, my… My other, my… My curse, my… Are you… You cannot be. And he sort of starts grabbing at the… at the base, like, trying to feel, like, is it connected to something? Like, you cannot be separated. You must come back to us. and he sort of… Takes it, and is, like, sort of staring, like, he's almost locked, like, he's… he seems like, like… lost, like, you must… You must be… And then he sort of… he… he… He drops it and appears back at the throne.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1366",
+            "endUid": "u1373"
+          }
+        }
+      ]
+    },
+    {
+      "id": "book-evidence",
+      "entity": "book",
+      "scenes": [
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Finnan uses his book of collected tales to argue that Malquin is not a Kestavo.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0745",
+            "endUid": "u0761"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "quiver-shard",
+      "entity": "quiver",
+      "scenes": [
+        5,
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Eolo chooses a planar metal shard for his quiver; its new arrows require a later short rest.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1116",
+            "endUid": "u1197"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "metal-retrieval",
+      "entity": "metal",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Eolo accepts a badly cut hand to retrieve the unusual metal and load his quiver.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1147",
+            "endUid": "u1173"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "metal-description",
+          "type": "introduction",
+          "text": "Okay. So, you stuck your hand into, like, a swirling whirlwind, basically, and, like, this… these blades, this, like, sharp piece of metal came flying and kind of started shredding your arm. You pulled it back quite quickly, and are left with, like, this weirdly shimmering, like, piece of metal. Like, it's hard to know what kind of metal it is. It… it's, like, it's black on one side, green in the middle, like, a dull, like, coppery green in the middle, and… and white on the other side, and it's, like, sharper than almost anything you've ever felt before.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1166",
+            "endUid": "u1168"
+          }
+        }
+      ]
+    },
+    {
+      "id": "necklace-bargain",
+      "entity": "necklace",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Malquin gives Finnan a necklace to expose to the outside night and return under the negotiated bargain.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1505",
+            "endUid": "u1639"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "necklace-transfer",
+          "type": "whole",
+          "text": "Takes a… takes a, like, a… a piece of, like, he's wearing a lot of, like, this, like, there's, like, these icy, like. ropes, like, around his neck. He takes, like, a… basically a necklace. And… and tosses it to you. he tosses it towards one of, like, whoever is standing, like, Finnit, I guess. Take this. and… Bring it to the knight on the other side. And return it to me.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1524",
+            "endUid": "u1529"
+          }
+        }
+      ]
+    },
+    {
+      "id": "necklace-plan",
+      "entity": "necklace",
+      "scenes": [
+        11,
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party plans to expose the necklace to nightfall and return it before repairing the mechanism might close the portals.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1790",
+            "endUid": "u1806"
+          },
+          "relevance": "primary"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1936",
+            "endUid": "u1994"
+          },
+          "relevance": "supporting"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "sword-threat",
+      "entity": "ice-sword",
+      "scenes": [
+        9
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Malquin threatens the party with an appearing sword, plants it in the floor, and recalls it during his final argument.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1488",
+            "endUid": "u1634"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "sword-ice",
+          "type": "whole",
+          "text": "But… He… he… he… he vanishes for a minute, and Again, appears standing on the far side of the room. like, not by the door, but behind the throne, like, in the far corner. And he draws this glittering sword again, and, like, glittering sword of ice, and, like, stabs it into the floor, and he just screams, you will not. And then he disappears again. And it appears back on the throne.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1516",
+            "endUid": "u1521"
+          }
+        }
+      ]
+    },
+    {
+      "id": "platform-move",
+      "entity": "platform",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Eolo pushes a floating carved platform to the portal so the others can step onto it.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1768",
+            "endUid": "u1806"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "mechanism-sight",
+      "entity": "mechanism",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "aiSummary": "The party sees a damaged patterned platform and discovers through clairvoyance that Eidrikas is bridging its energy flow.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1735",
+            "endUid": "u1867"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "mechanism-visit",
+      "entity": "mechanism",
+      "scenes": [
+        12
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "aiSummary": "Ekko sees Eidrikas sustaining the damaged mechanism and learns it helps keep the chasm from collapsing into chaos.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1868",
+            "endUid": "u1935"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "mechanism-plan",
+      "entity": "mechanism",
+      "scenes": [
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party considers recovering the missing piece before nightfall while delaying repair until their return to Malquin.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1936",
+            "endUid": "u1994"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "piece-request",
+      "entity": "missing-piece",
+      "scenes": [
+        12,
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "Eidrikas identifies the stolen stone block, and the party decides to pursue the orcs to recover it.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1892",
+            "endUid": "u1994"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "piece-needed",
+          "type": "whole",
+          "text": "the orcs fled with a… with a… with a piece. You could describe a piece as, like, a large stone block, basically. You can see there's, like, a piece… a place where the… where the… where the stone is broken, right? There's a large stone, and you're like, this stone that's carved here is all, like. different… I mean, it's like, it's not just, like, granite, like, there's different pieces of stone, it's like this complex stone mechanism, right? Yeah, yeah. And he says, if we could… if we could find this piece that goes here. Right? You could probably repair.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1926",
+            "endUid": "u1929"
+          }
+        }
+      ]
+    }
+  ],
+  "review": {
+    "confidence": "medium",
+    "status": "unreviewed"
+  },
+  "sceneReview": {
+    "confidence": "medium",
+    "status": "unreviewed"
+  },
+  "dateStart": "1730-01-26",
+  "dateEnd": "1730-01-29"
+}

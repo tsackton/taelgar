@@ -1,0 +1,80 @@
+{
+  "inputDigest": "67f19868b1c5050d3f64c24f12a312b48500d40bc0cbf1e6b5dba66467e9311d",
+  "reviewer": "Codex sequential semantic review pass",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Removed the unsupported exact end date after rechecking the three-to-four-week montage, same-night awakening, and prospective next week. Start date remains a manifest anchor; the transcript cannot establish an exact closing date, so aggregate metadata stays provisional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1082",
+          "endUid": "u1109"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1719",
+          "endUid": "u1744"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1844",
+          "endUid": "u1848"
+        }
+      ]
+    },
+    {
+      "target": "entity:hutsu-vine",
+      "confidence": "medium",
+      "reason": "Context confirms a speaking individual vine but explicitly denies an identity apart from Hutsu; eligibility remains a model question after the targeted recheck.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0690",
+          "endUid": "u0704"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0797",
+          "endUid": "u0888"
+        }
+      ]
+    },
+    {
+      "target": "entity:jades",
+      "confidence": "medium",
+      "reason": "Rechecked both fragments in the dream; the transcript supplies no separate identities for assigning the singular jade reference page. Keep the collective item unlinked.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1256",
+          "endUid": "u1294"
+        }
+      ]
+    },
+    {
+      "target": "entity:tharzen",
+      "confidence": "medium",
+      "reason": "The reference identifies four divine faces venerated collectively, not an ordinary organization; keep the type provisional rather than silently inventing a new schema kind.",
+      "evidence": [
+        {
+          "vaultPath": "Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Tharzen Anzinakoa.md"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1128",
+          "endUid": "u1146"
+        }
+      ]
+    }
+  ]
+}

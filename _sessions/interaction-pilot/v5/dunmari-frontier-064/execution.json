@@ -1,0 +1,65 @@
+{
+  "method": "Independent full transcript semantic review; digest-bound first pass and one targeted correction round.",
+  "extractionAgent": "du064_chasm",
+  "reviewAgent": "du058",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 2390,
+  "reviewerReadCoverage": {
+    "startUid": "u0001",
+    "endUid": "u2390",
+    "utterances": 2390
+  },
+  "sourceCoverage": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0036",
+      "reason": "Opening recap of prior play and restatement of current situation; no new event."
+    },
+    {
+      "startUid": "u2304",
+      "endUid": "u2390",
+      "reason": "Post-session election discussion and scheduling; speculative future campaign setup is not enacted play."
+    }
+  ],
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 2390,
+    "sceneUtterances": 2267,
+    "unassignedUtterances": 123,
+    "metadataReady": false,
+    "readyEntities": 24,
+    "provisionalEntities": 0
+  },
+  "reviewScope": "All critical metadata, all entities, all interactions, exact quotation voices, scene boundaries, and full-source omission check; canonical identity pages and metadata index only.",
+  "sampling": "Full review included unflagged tree conversation, three dream wounds, Grash identity discussion, item uses, and final transport; omissions of Apollyon and Bhishma corrected.",
+  "corrections": [
+    "Trimmed three mixed-speaker color quotes.",
+    "Removed unsupported scene calendar dates while retaining provisional aggregate manifest anchors.",
+    "Narrowed Enari aftermath record to explicit presence and removed unqualified departure claim.",
+    "Added explicit cameo mentions of Apollyon and Bhishma."
+  ],
+  "issues": [
+    {
+      "target": "session",
+      "reason": "Exact 1748-11-06 through 1748-11-13 in-world dates remain manifest anchors; transcript speaks only of unspecified days in a seemingly timeless place."
+    }
+  ],
+  "retainedUncertainty": "The subject of the narrated return to the village at u2234 is damaged; canonical Enari identity context suggests him, but the draft no longer claims that event unqualified.",
+  "deliberateExclusions": [
+    "Generic Gidari species lore and nameless monsters are not entities.",
+    "Nimessa occurs only inside a tower place name.",
+    "Order of the Awakened Soul is a self-identifying title, with no distinct organization action.",
+    "No character events are imported from speculative post-session discussion or later vault lore."
+  ],
+  "queue": [
+    {
+      "target": "session",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "reason": "Critical session metadata is provisional."
+    }
+  ]
+}

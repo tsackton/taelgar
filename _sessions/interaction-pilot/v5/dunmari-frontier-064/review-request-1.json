@@ -1,0 +1,724 @@
+{
+  "inputDigest": "f7d33ba27ea9f41b804a5a9ac9881feed61d17a95d606d5d0367fbc70557c4de",
+  "criticalMetadata": {
+    "campaign": "dufr",
+    "session": 64,
+    "realWorldDate": "2022-11-09",
+    "pcs": [
+      "People/PCs/Dunmar Fellowship/Kenzo.md",
+      "People/PCs/Dunmar Fellowship/Guests/Izzarak.md"
+    ],
+    "dateStart": "1748-11-06",
+    "dateEnd": "1748-11-13",
+    "locations": [
+      "Gazetteer/Faraway Places/Azta Lekua.md",
+      "Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls.md",
+      "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md"
+    ]
+  },
+  "entityEvidence": [
+    {
+      "target": "entity:enari",
+      "record": {
+        "id": "enari",
+        "kind": "npc",
+        "label": "Enari",
+        "aiSummary": "Enari heals and guides the party through the flooded jungle, rescues Kenzo, and fights shadows while Motua is healed.",
+        "review": {
+          "confidence": "medium",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Lizardfolk/Enari.md",
+        "aiSuggestedFeaturedQuotes": [
+          "enari-intro",
+          "enari-help",
+          "enari-swim",
+          "enari-shadows"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0037",
+          "endUid": "u1331"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1332",
+          "endUid": "u2005"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2181",
+          "endUid": "u2191"
+        }
+      ]
+    },
+    {
+      "target": "entity:tree",
+      "record": {
+        "id": "tree",
+        "kind": "npc",
+        "label": "Ancient emergent tree",
+        "aiSummary": "Kenzo gives an ancient tree a voice and learns how flooding threatens it and Allua’s home; it supplies a sensory trail to its daughter’s tree.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "tree-voice",
+          "tree-distress",
+          "tree-spirits"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0479",
+          "endUid": "u0643"
+        }
+      ]
+    },
+    {
+      "target": "entity:allua",
+      "record": {
+        "id": "allua",
+        "kind": "npc",
+        "label": "Allua",
+        "aiSummary": "The dryad Allua identifies the babies as potential successors to Lengau and explains how to approach Motua beyond the vortex. Her own tree is threatened by the current.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "allua-intro",
+          "allua-warning",
+          "allua-spirit",
+          "allua-pain"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0702",
+          "endUid": "u1084"
+        }
+      ]
+    },
+    {
+      "target": "entity:babies",
+      "record": {
+        "id": "babies",
+        "kind": "npc",
+        "label": "Lengau’s two children",
+        "aiSummary": "The two shapeshifting young spirits travel under Izzarak’s protection and provide Lengau a route back into the forest. Their bond with Izzarak fixes their present lizardfolk forms.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "babies-depth",
+          "babies-choice"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0083",
+          "endUid": "u1331"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1392",
+          "endUid": "u1527"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2124",
+          "endUid": "u2235"
+        }
+      ]
+    },
+    {
+      "target": "entity:motua",
+      "record": {
+        "id": "motua",
+        "kind": "npc",
+        "label": "Motua",
+        "aiSummary": "Kenzo heals Motua’s three spiritual wounds by helping the souls within them, while companions fight the released chains. Motua explains Kenzo’s curse and blesses his staff.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Nonhumans/Motua.md",
+        "aiSuggestedFeaturedQuotes": [
+          "motua-intro",
+          "motua-eternal",
+          "motua-names",
+          "motua-restoration"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0247",
+          "endUid": "u0304"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0517",
+          "endUid": "u0552"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0859",
+          "endUid": "u1084"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1233",
+          "endUid": "u1331"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1332",
+          "endUid": "u2005"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2006",
+          "endUid": "u2191"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2241"
+        }
+      ]
+    },
+    {
+      "target": "entity:lengau",
+      "record": {
+        "id": "lengau",
+        "kind": "npc",
+        "label": "Lengau",
+        "aiSummary": "Allua identifies Lengau as the missing guardian who entrusted Izzarak with the babies. Lengau returns after Motua’s healing, blesses Kenzo’s staff, and sends him to the Feywild.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Nonhumans/Lengau.md",
+        "aiSuggestedFeaturedQuotes": [
+          "lengau-account",
+          "lengau-door",
+          "lengau-welcome",
+          "lengau-stay"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0780",
+          "endUid": "u1064"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2100",
+          "endUid": "u2191"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2275"
+        }
+      ]
+    },
+    {
+      "target": "entity:warrior",
+      "record": {
+        "id": "warrior",
+        "kind": "npc",
+        "label": "Forgotten warrior in the first wound",
+        "aiSummary": "A nameless human warrior fears being forgotten; Kenzo records his story and heals the first of Motua’s wounds.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "warrior-forgotten",
+          "warrior-story"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1400",
+          "endUid": "u1498"
+        }
+      ]
+    },
+    {
+      "target": "entity:traveler",
+      "record": {
+        "id": "traveler",
+        "kind": "npc",
+        "label": "Dying traveler in the second wound",
+        "aiSummary": "A nameless traveler dying in a desert asks Kenzo to preserve a final loving message to her family.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "traveler-letter",
+          "traveler-farewell"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1629",
+          "endUid": "u1699"
+        }
+      ]
+    },
+    {
+      "target": "entity:paladin",
+      "record": {
+        "id": "paladin",
+        "kind": "npc",
+        "label": "Fearful paladin in the third wound",
+        "aiSummary": "A former thief fears damnation while holding off monsters so others can escape. Kenzo shares strength and his own history to restore the paladin’s hope.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "paladin-fear",
+          "paladin-hopeless",
+          "paladin-hope"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1739",
+          "endUid": "u1954"
+        }
+      ]
+    },
+    {
+      "target": "entity:priest",
+      "record": {
+        "id": "priest",
+        "kind": "npc",
+        "label": "Priest in the paladin’s memory",
+        "aiSummary": "A priest appears in the paladin’s remembered past, assuring him that the Wildling accepts sincere repentance.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "priest-forgiveness"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1882",
+          "endUid": "u1902"
+        }
+      ]
+    },
+    {
+      "target": "entity:grash",
+      "record": {
+        "id": "grash",
+        "kind": "npc",
+        "label": "Grash",
+        "aiSummary": "Motua’s memories reveal the skeletal attacker using a scroll, dark ring, and glaive to wound Motua and steal souls from the Land of the Dead. The DM identifies the attacker as Grash.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Nonhumans/Grash.md",
+        "aiSuggestedFeaturedQuotes": [
+          "grash-intro",
+          "grash-souls"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1485",
+          "endUid": "u1983"
+        }
+      ]
+    },
+    {
+      "target": "entity:wildling",
+      "record": {
+        "id": "wildling",
+        "kind": "npc",
+        "label": "The Wildling",
+        "aiSummary": "The priest in the paladin’s memory invokes the Wildling’s acceptance of those who honestly seek forgiveness.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wildling.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1882",
+          "endUid": "u1902"
+        }
+      ]
+    },
+    {
+      "target": "entity:cloudspinner",
+      "record": {
+        "id": "cloudspinner",
+        "kind": "npc",
+        "label": "Cloudspinner",
+        "aiSummary": "Lengau describes the vanished Queen of Sunset whose disappearance left Amberglow in decay.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
+        "aiSuggestedFeaturedQuotes": [
+          "cloudspinner-description"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2262",
+          "endUid": "u2274"
+        }
+      ]
+    },
+    {
+      "target": "entity:somi",
+      "record": {
+        "id": "somi",
+        "kind": "npc",
+        "label": "Somi-nai",
+        "aiSummary": "The party recalls Somi-nai’s staff mark, and Allua names the fire spirit among those who raise the forest’s young guardians.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Fey/Somi-nai.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0062",
+          "endUid": "u0071"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0889",
+          "endUid": "u0912"
+        }
+      ]
+    },
+    {
+      "target": "entity:staff",
+      "record": {
+        "id": "staff",
+        "kind": "item",
+        "label": "Staff of the Forest Soul",
+        "aiSummary": "Kenzo uses his staff to speak with the ancient tree and record the wounded souls’ stories. Motua and Lengau imbue it with spiritual gifts, whose powers Kenzo studies during his stay.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul.md",
+        "aiSuggestedFeaturedQuotes": [
+          "staff-light",
+          "staff-lengau"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0479",
+          "endUid": "u0643"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1455",
+          "endUid": "u1946"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2073",
+          "endUid": "u2191"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2227"
+        }
+      ]
+    },
+    {
+      "target": "entity:jump-ring",
+      "record": {
+        "id": "jump-ring",
+        "kind": "item",
+        "label": "Kenzo’s ring of jumping",
+        "aiSummary": "Kenzo uses his ring to leap across the lava and attempts to jump around the vortex.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0110",
+          "endUid": "u0195"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1111",
+          "endUid": "u1207"
+        }
+      ]
+    },
+    {
+      "target": "entity:message-stone",
+      "record": {
+        "id": "message-stone",
+        "kind": "item",
+        "label": "Kenzo’s message stone",
+        "aiSummary": "Kenzo exchanges messages with Wellby while resting and later asks where they should reunite.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "Things/Magic Items/Drankorian Message Stone.md",
+        "aiSuggestedFeaturedQuotes": [
+          "stone-reply"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0116",
+          "endUid": "u0218"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2254",
+          "endUid": "u2260"
+        }
+      ]
+    },
+    {
+      "target": "entity:chains",
+      "record": {
+        "id": "chains",
+        "kind": "item",
+        "label": "Motua’s spiritual chains",
+        "aiSummary": "Nine chains emerge from Motua’s wounds; most are destroyed, but one binds Kenzo’s soul and imposes a lingering curse.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "chain-curse"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1334",
+          "endUid": "u2005"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2016",
+          "endUid": "u2203"
+        }
+      ]
+    },
+    {
+      "target": "entity:scroll",
+      "record": {
+        "id": "scroll",
+        "kind": "item",
+        "label": "Grash’s ancient scroll",
+        "aiSummary": "A vision shows Grash consuming an ancient scroll in dark fire to empower his ring and glaive.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "scroll-burns"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1686",
+          "endUid": "u1699"
+        }
+      ]
+    },
+    {
+      "target": "entity:dark-ring",
+      "record": {
+        "id": "dark-ring",
+        "kind": "item",
+        "label": "Grash’s burning ring",
+        "aiSummary": "The ring seen in Motua’s memories empowers Grash’s weapon and draws souls through cuts in the fabric of the Land of the Dead.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1493",
+          "endUid": "u1983"
+        }
+      ]
+    },
+    {
+      "target": "entity:glaive",
+      "record": {
+        "id": "glaive",
+        "kind": "item",
+        "label": "Grash’s glaive",
+        "aiSummary": "Grash uses a glaive wreathed in dark fire to cut planar marks and wound Motua in the witnessed memories.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1493",
+          "endUid": "u1983"
+        }
+      ]
+    },
+    {
+      "target": "entity:horn",
+      "record": {
+        "id": "horn",
+        "kind": "item",
+        "label": "Kenzo’s Dunmari horn",
+        "aiSummary": "Kenzo offers his horn as the personally meaningful sacrifice for a future restoration spell, but Motua cannot cast that spell.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "horn-meaning"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2038",
+          "endUid": "u2060"
+        }
+      ]
+    },
+    {
+      "target": "entity:apollyon",
+      "record": {
+        "id": "apollyon",
+        "kind": "npc",
+        "label": "Apollyon",
+        "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+        "aiSummary": "Apollyon is proposed and immediately rejected as the identity of the skeletal attacker in Motua’s memory.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1955",
+          "endUid": "u1960"
+        }
+      ]
+    },
+    {
+      "target": "entity:bhishma",
+      "record": {
+        "id": "bhishma",
+        "kind": "npc",
+        "label": "Bhishma",
+        "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md",
+        "aiSummary": "Kenzo identifies himself as a monk of Bhishma when offering to preserve the forgotten warrior’s story.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1422",
+          "endUid": "u1425"
+        }
+      ]
+    }
+  ],
+  "optionalReviewHints": [],
+  "instructions": "Separately verify each critical record against transcript context and vault identities. Inspect dates, attendance, locations and omissions across the session. Beats are optional review hints, never sole evidence. No validation-only promotion. Return reviewer, inputDigest, attempt (0 or 1), decisions with target, confidence, reason, evidence."
+}

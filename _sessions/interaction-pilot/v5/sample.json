@@ -1,0 +1,1653 @@
+{
+  "seed": 20261028,
+  "method": "One random session per available transcript campaign, then random remaining sessions without replacement; sorted input population.",
+  "population": [
+    {
+      "id": "dragonets-001",
+      "campaign": "dgnt",
+      "session": 1,
+      "manifest": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+      "source": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-source-cleaned.md",
+      "sha256": "da2705a128532585d1c23ba3c4277ad7154ab5c17018d101b46ee153ce7a6747",
+      "words": 38272
+    },
+    {
+      "id": "dragonets-002",
+      "campaign": "dgnt",
+      "session": 2,
+      "manifest": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+      "source": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-source-cleaned.md",
+      "sha256": "a5895a4ac5d8c4583ab27d452a96ad8c5f7bb1bc3123c8aedf790d53df4cb551",
+      "words": 41270
+    },
+    {
+      "id": "dragonets-003",
+      "campaign": "dgnt",
+      "session": 3,
+      "manifest": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+      "source": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-source-cleaned.md",
+      "sha256": "508f6bef36dedae9bb165793f83d05cbea1ce6debab2dbd771f3808aa6bc3e59",
+      "words": 41810
+    },
+    {
+      "id": "dunmari-frontier-001",
+      "campaign": "dufr",
+      "session": 1,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-source-cleaned.md",
+      "sha256": "58c9c455687ef6a3d4befb66b09e5493038435823eb943f6fbbba88e6b57da48",
+      "words": 40915
+    },
+    {
+      "id": "dunmari-frontier-002",
+      "campaign": "dufr",
+      "session": 2,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-source-cleaned.md",
+      "sha256": "165242ab04bc3816cc2f67a74c8cb8b75dd03e0d19da745e8fa7cfb57ca3fb9d",
+      "words": 49962
+    },
+    {
+      "id": "dunmari-frontier-003",
+      "campaign": "dufr",
+      "session": 3,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-source-cleaned.md",
+      "sha256": "3d937d44334655eaf72aa939b8f4400b7a9e0c403b3e5f00d7a2a07a0552bb38",
+      "words": 41257
+    },
+    {
+      "id": "dunmari-frontier-004",
+      "campaign": "dufr",
+      "session": 4,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-source-cleaned.md",
+      "sha256": "fd2724c1643c66d0519e04893c60fdc4128f0b2fed7ec5f689ba43cfb7d17368",
+      "words": 32197
+    },
+    {
+      "id": "dunmari-frontier-005",
+      "campaign": "dufr",
+      "session": 5,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-source-cleaned.md",
+      "sha256": "f145d6bcf57dc4fdece07228fdc7593d58e138f949f72fcfbc905853e2c8a491",
+      "words": 43649
+    },
+    {
+      "id": "dunmari-frontier-006",
+      "campaign": "dufr",
+      "session": 6,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-source-cleaned.md",
+      "sha256": "6413fa09c53a10db056ed8cf44169e9cd415f05d62ef674297f3f780c16cbe62",
+      "words": 50317
+    },
+    {
+      "id": "dunmari-frontier-007",
+      "campaign": "dufr",
+      "session": 7,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md",
+      "sha256": "9a879c80191471a464bb47623429dd1c6c2dab4ae8336b3979d44365f5453eb5",
+      "words": 38291
+    },
+    {
+      "id": "dunmari-frontier-008",
+      "campaign": "dufr",
+      "session": 8,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-source-cleaned.md",
+      "sha256": "4404bf20f27dadf6f28b6a781119166242cddc01084aa97e7d93ebd8940f82a6",
+      "words": 39942
+    },
+    {
+      "id": "dunmari-frontier-009",
+      "campaign": "dufr",
+      "session": 9,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-source-cleaned.md",
+      "sha256": "536febf5277dc15c6cfd3d86b0225cc6b6208c4f389978ec716e0da523f9b646",
+      "words": 36255
+    },
+    {
+      "id": "dunmari-frontier-010",
+      "campaign": "dufr",
+      "session": 10,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+      "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+      "words": 39876
+    },
+    {
+      "id": "dunmari-frontier-011",
+      "campaign": "dufr",
+      "session": 11,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-source-cleaned.md",
+      "sha256": "9454c2d5b3d0340c9820c038a9b56e42def36e1b0c024ccdec460ba4aa87f81c",
+      "words": 38277
+    },
+    {
+      "id": "dunmari-frontier-012",
+      "campaign": "dufr",
+      "session": 12,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+      "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31",
+      "words": 35186
+    },
+    {
+      "id": "dunmari-frontier-013",
+      "campaign": "dufr",
+      "session": 13,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-source-cleaned.md",
+      "sha256": "ef0306befe6aad8019ba13bc7bc6c9719774423093e8482857c5d0fb30c3b2c3",
+      "words": 36781
+    },
+    {
+      "id": "dunmari-frontier-014",
+      "campaign": "dufr",
+      "session": 14,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-source-cleaned.md",
+      "sha256": "ad56419a29f6d24e308e98f87c6cb31fde8934557687bbf3e4f96802239a9d00",
+      "words": 35386
+    },
+    {
+      "id": "dunmari-frontier-015",
+      "campaign": "dufr",
+      "session": 15,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-source-cleaned.md",
+      "sha256": "b0f252a28b6512df9e9922ae9663f195d0ba50969ab99ee7de94a2aa6658f481",
+      "words": 34689
+    },
+    {
+      "id": "dunmari-frontier-016",
+      "campaign": "dufr",
+      "session": 16,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-source-cleaned.md",
+      "sha256": "b005ed6085891b5db5bbf8be4527200a57cb99491541371b3be5d28083d163a6",
+      "words": 36495
+    },
+    {
+      "id": "dunmari-frontier-017",
+      "campaign": "dufr",
+      "session": 17,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-source-cleaned.md",
+      "sha256": "8ac1af34adf173ee9b2ae0f356bb76e307f2a5b162fc4a57af16dc67212de50f",
+      "words": 34946
+    },
+    {
+      "id": "dunmari-frontier-018",
+      "campaign": "dufr",
+      "session": 18,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-source-cleaned.md",
+      "sha256": "dbf1ecdf6b95d71711ae85a4120a2f8ec290b39936c77d1ef792ee954fd31afd",
+      "words": 42823
+    },
+    {
+      "id": "dunmari-frontier-019",
+      "campaign": "dufr",
+      "session": 19,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-source-cleaned.md",
+      "sha256": "a3bde1b3cb2a912482b01a7a317a7f243e06fcc96cee26b0bbd3ac2db4f3d84b",
+      "words": 47706
+    },
+    {
+      "id": "dunmari-frontier-020",
+      "campaign": "dufr",
+      "session": 20,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-source-cleaned.md",
+      "sha256": "d132731c66434eded7d9255582eaee28d30c1b54717a1f1fb0890f1b8464dc7e",
+      "words": 32410
+    },
+    {
+      "id": "dunmari-frontier-021",
+      "campaign": "dufr",
+      "session": 21,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-source-cleaned.md",
+      "sha256": "1eb3e688f757d2a30606a8f7684d3b43a9693b1ea5ee5040932e29f2bc60dbc7",
+      "words": 31023
+    },
+    {
+      "id": "dunmari-frontier-022",
+      "campaign": "dufr",
+      "session": 22,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-source-cleaned.md",
+      "sha256": "34bda940db077e71d0f416ec094d9efdc13063030d54dae4dfd75118429f851d",
+      "words": 44548
+    },
+    {
+      "id": "dunmari-frontier-023",
+      "campaign": "dufr",
+      "session": 23,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-source-cleaned.md",
+      "sha256": "3c847318fe6fab417c8c1ce5b82adde42789334844f72fd0ee1fecfe6219a132",
+      "words": 43192
+    },
+    {
+      "id": "dunmari-frontier-024",
+      "campaign": "dufr",
+      "session": 24,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-source-cleaned.md",
+      "sha256": "4be912e03e4f3e87abfdc5d0067728cf1393b41bf2d063573ceded58c50f99df",
+      "words": 36962
+    },
+    {
+      "id": "dunmari-frontier-025",
+      "campaign": "dufr",
+      "session": 25,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-source-cleaned.md",
+      "sha256": "45f068b3b84bfb181eb0a9c248e1f8f0b42b52d98f0d2019591f817b4f2bfb6d",
+      "words": 32795
+    },
+    {
+      "id": "dunmari-frontier-026",
+      "campaign": "dufr",
+      "session": 26,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-source-cleaned.md",
+      "sha256": "0afcd25714194eecd9e2b2b4afaa9b5803399b1c1a6f41d6105a40a94b962bdb",
+      "words": 39107
+    },
+    {
+      "id": "dunmari-frontier-027",
+      "campaign": "dufr",
+      "session": 27,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-source-cleaned.md",
+      "sha256": "1ac51c78e47f9c0c71ec3d7bb04841207684535f61b3444774315bd4c55e65a0",
+      "words": 35314
+    },
+    {
+      "id": "dunmari-frontier-028",
+      "campaign": "dufr",
+      "session": 28,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-source-cleaned.md",
+      "sha256": "1ea421bc6c91325a57e93d8a85744b7cc237b1111f622ca832464fd6b7a52192",
+      "words": 49872
+    },
+    {
+      "id": "dunmari-frontier-029",
+      "campaign": "dufr",
+      "session": 29,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-source-cleaned.md",
+      "sha256": "276666b83d33a5d12ab65e459999ed53a495d18f8be95d704f8275aa4d50088c",
+      "words": 49233
+    },
+    {
+      "id": "dunmari-frontier-030",
+      "campaign": "dufr",
+      "session": 30,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-source-cleaned.md",
+      "sha256": "bea646f0cecc9d21c50757863faf90b952d34db5ed0a019a567d3313ba793b25",
+      "words": 47651
+    },
+    {
+      "id": "dunmari-frontier-031",
+      "campaign": "dufr",
+      "session": 31,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-source-cleaned.md",
+      "sha256": "2ab6b6e804ae101c1423e43f6bf8995dfd5e04b97531144c70246bd20c708086",
+      "words": 55370
+    },
+    {
+      "id": "dunmari-frontier-033",
+      "campaign": "dufr",
+      "session": 33,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-source-cleaned.md",
+      "sha256": "67ab2e17d0f452f621ea60cecb321cd5fb3df73e19fa36909dacf551dd493f42",
+      "words": 32150
+    },
+    {
+      "id": "dunmari-frontier-034",
+      "campaign": "dufr",
+      "session": 34,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-source-cleaned.md",
+      "sha256": "20a4f04b16468293362147f789a725ed816245c48043bf14ba8b6675dbfefbf0",
+      "words": 42394
+    },
+    {
+      "id": "dunmari-frontier-035",
+      "campaign": "dufr",
+      "session": 35,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-source-cleaned.md",
+      "sha256": "62d0a763fd2745a9812c5ef380c815b88336e6c444badcdea8f504a53f17bb55",
+      "words": 41596
+    },
+    {
+      "id": "dunmari-frontier-036",
+      "campaign": "dufr",
+      "session": 36,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-source-cleaned.md",
+      "sha256": "0434d1a41886ce22d6793eaeb4d3aaaed7b9222b74d5a3b1448fe79751f39eb4",
+      "words": 46782
+    },
+    {
+      "id": "dunmari-frontier-037",
+      "campaign": "dufr",
+      "session": 37,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-source-cleaned.md",
+      "sha256": "1a76db2aa04d48ea09804f5326eaf70e90ba738609488424d629e6343c72d21c",
+      "words": 49857
+    },
+    {
+      "id": "dunmari-frontier-038",
+      "campaign": "dufr",
+      "session": 38,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-source-cleaned.md",
+      "sha256": "22efe99ec9527e28f05b3e053e46c7a576df2c86cdd8d7c70a020025064cb750",
+      "words": 40210
+    },
+    {
+      "id": "dunmari-frontier-039",
+      "campaign": "dufr",
+      "session": 39,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-source-cleaned.md",
+      "sha256": "0c3b62f12c5ecc895ef98a684caef38065988b9c138c01b19c1107abf5db42d9",
+      "words": 36601
+    },
+    {
+      "id": "dunmari-frontier-040",
+      "campaign": "dufr",
+      "session": 40,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-source-cleaned.md",
+      "sha256": "0de477e3241958f7f6079fcb7ff8e063daa705c32a1c660ba3c1afd11726e578",
+      "words": 37917
+    },
+    {
+      "id": "dunmari-frontier-041",
+      "campaign": "dufr",
+      "session": 41,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-source-cleaned.md",
+      "sha256": "903e7b5f008ff10a87d2ee9c611cb54166354cc00ded9503dd435733be535563",
+      "words": 32475
+    },
+    {
+      "id": "dunmari-frontier-042",
+      "campaign": "dufr",
+      "session": 42,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-source-cleaned.md",
+      "sha256": "1ad861769d8877b232e43b5923f19b0b6b4e6258103a33d76a4eaf745a14b680",
+      "words": 36769
+    },
+    {
+      "id": "dunmari-frontier-043",
+      "campaign": "dufr",
+      "session": 43,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-source-cleaned.md",
+      "sha256": "b65e2ac51c6ceae78f7aa3255351a692a8650faeaf612691c533637fd8b2828a",
+      "words": 53095
+    },
+    {
+      "id": "dunmari-frontier-044",
+      "campaign": "dufr",
+      "session": 44,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-source-cleaned.md",
+      "sha256": "ae6bc40566436df34a869419feada71b2560f9cc836d13cff169a4fa63bea421",
+      "words": 56425
+    },
+    {
+      "id": "dunmari-frontier-045",
+      "campaign": "dufr",
+      "session": 45,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-source-cleaned.md",
+      "sha256": "a3211b9a47791382c4fdcadf3bc0741ff05dfeaa045e1a54efb302794e512bf4",
+      "words": 18859
+    },
+    {
+      "id": "dunmari-frontier-046",
+      "campaign": "dufr",
+      "session": 46,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-source-cleaned.md",
+      "sha256": "850a54f61b3ee2603e42899f7bb41b43e2fc3cbe3926f97d3df2f4e511336c71",
+      "words": 46729
+    },
+    {
+      "id": "dunmari-frontier-047",
+      "campaign": "dufr",
+      "session": 47,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-source-cleaned.md",
+      "sha256": "964682ed01c438cf0aaa9f43d6223c1cce1fb346eaf022cf761e2a30edb56b38",
+      "words": 36288
+    },
+    {
+      "id": "dunmari-frontier-048",
+      "campaign": "dufr",
+      "session": 48,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-source-cleaned.md",
+      "sha256": "9bb882a826fe683e6f1dfd90ec40ce989e02edd5c80d960b799f183092ccf2ce",
+      "words": 47028
+    },
+    {
+      "id": "dunmari-frontier-049",
+      "campaign": "dufr",
+      "session": 49,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-source-cleaned.md",
+      "sha256": "bea097b765c93bbab145c7fbb8e1fd1537ccac50f516611fd452753985cb5ffa",
+      "words": 55780
+    },
+    {
+      "id": "dunmari-frontier-053",
+      "campaign": "dufr",
+      "session": 53,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-source-cleaned.md",
+      "sha256": "4006f56a9b25225a85e3d04e5df551894111b5c24b4594782dff7e4ded34f8b0",
+      "words": 8166
+    },
+    {
+      "id": "dunmari-frontier-054",
+      "campaign": "dufr",
+      "session": 54,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-source-cleaned.md",
+      "sha256": "2e8a17bce71fc1498ff950b00ff170c481a302bd284aa318123d561ba1a370d3",
+      "words": 43552
+    },
+    {
+      "id": "dunmari-frontier-055",
+      "campaign": "dufr",
+      "session": 55,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-source-cleaned.md",
+      "sha256": "3abe7be15d858e5a9ee86706b1e3ab6e51b2d88c597f3544a81c33d3961c1bd6",
+      "words": 36715
+    },
+    {
+      "id": "dunmari-frontier-056",
+      "campaign": "dufr",
+      "session": 56,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-source-cleaned.md",
+      "sha256": "1d48229c3782187d876884e02206f9896322df0f9a223936eed6b69fdebaf3c9",
+      "words": 29999
+    },
+    {
+      "id": "dunmari-frontier-057",
+      "campaign": "dufr",
+      "session": 57,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-source-cleaned.md",
+      "sha256": "4036b509a3c9f98740cbac8506ce469f99fb1fb64cad12ff08b9f7bec60d9865",
+      "words": 25857
+    },
+    {
+      "id": "dunmari-frontier-058",
+      "campaign": "dufr",
+      "session": 58,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md",
+      "sha256": "4f5189ddd9676c4c720f2bcebd875bc930b04ff059687f2ee6558127ff668d9b",
+      "words": 38007
+    },
+    {
+      "id": "dunmari-frontier-059",
+      "campaign": "dufr",
+      "session": 59,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+      "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+      "words": 30514
+    },
+    {
+      "id": "dunmari-frontier-060",
+      "campaign": "dufr",
+      "session": 60,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-source-cleaned.md",
+      "sha256": "83268a8e4fa8e6753b6f6e35dfd4d48ae5c100fd6519f92eb5b8cc805f9ab6a5",
+      "words": 16417
+    },
+    {
+      "id": "dunmari-frontier-061",
+      "campaign": "dufr",
+      "session": 61,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-source-cleaned.md",
+      "sha256": "7575b46678762ae792c9c105ecf207ec8e9672abb34eb866b296eb5dcf94b264",
+      "words": 16168
+    },
+    {
+      "id": "dunmari-frontier-062",
+      "campaign": "dufr",
+      "session": 62,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-source-cleaned.md",
+      "sha256": "03422cb4ef4c4712f3782fbef898548af6ecc3a741d98bc8865fc54ef7800e50",
+      "words": 48451
+    },
+    {
+      "id": "dunmari-frontier-063",
+      "campaign": "dufr",
+      "session": 63,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-source-cleaned.md",
+      "sha256": "5fc45c0e081512da0fe30baced24fd5f68bbf2680f697b575a98ad7af9c64204",
+      "words": 36197
+    },
+    {
+      "id": "dunmari-frontier-064",
+      "campaign": "dufr",
+      "session": 64,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-cleaned.md",
+      "sha256": "91702a033ae9f1dd703fbe9c4ce0e57f38118eee30cf085ae64c2e3068d23729",
+      "words": 33180
+    },
+    {
+      "id": "dunmari-frontier-065",
+      "campaign": "dufr",
+      "session": 65,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-source-cleaned.md",
+      "sha256": "262cdeb5339b844829b0d51751f69e6b89a9cda78f19d223287192d6ba1966f1",
+      "words": 30601
+    },
+    {
+      "id": "dunmari-frontier-066",
+      "campaign": "dufr",
+      "session": 66,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-source-cleaned.md",
+      "sha256": "9592fc36101de86c3b18e157d16c32f880b54723e1a401b28397f462cab89ade",
+      "words": 43447
+    },
+    {
+      "id": "dunmari-frontier-067",
+      "campaign": "dufr",
+      "session": 67,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-source-cleaned.md",
+      "sha256": "a395bdbcc962aebbd308257e5c3419caa9c5c1ee67392f4a94fad3cbdfc19fc7",
+      "words": 40415
+    },
+    {
+      "id": "dunmari-frontier-068",
+      "campaign": "dufr",
+      "session": 68,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-source-cleaned.md",
+      "sha256": "9d48ac2db1053435e257a351b28200adb42a3aa41510ff0a99471404be8c3190",
+      "words": 44440
+    },
+    {
+      "id": "dunmari-frontier-069",
+      "campaign": "dufr",
+      "session": 69,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-source-cleaned.md",
+      "sha256": "beb1045ac0dbe4f6ab1df3eb34122e43e43143b653912d51979de08ef620e530",
+      "words": 31783
+    },
+    {
+      "id": "dunmari-frontier-070",
+      "campaign": "dufr",
+      "session": 70,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-source-cleaned.md",
+      "sha256": "85ce97897875e777f10a58651df41cf21ceb5a8d6267a2b8402f890cdec7f379",
+      "words": 34352
+    },
+    {
+      "id": "dunmari-frontier-071",
+      "campaign": "dufr",
+      "session": 71,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-source-cleaned.md",
+      "sha256": "d2cf84ab4a90b33ddc18f86f336d0facd6e9d3d602020b1e3c3c7086f14a79b5",
+      "words": 31086
+    },
+    {
+      "id": "dunmari-frontier-072",
+      "campaign": "dufr",
+      "session": 72,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-source-cleaned.md",
+      "sha256": "5a79c99e302c1c003f66e8ff14ff96c14c5f52d98ab5f74dbe65c186d7b07a42",
+      "words": 34346
+    },
+    {
+      "id": "dunmari-frontier-073",
+      "campaign": "dufr",
+      "session": 73,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-source-cleaned.md",
+      "sha256": "f62794252d62868b2c0475ce18bcaa9d51b7b49cba36d8e41c827ebb705e6268",
+      "words": 34710
+    },
+    {
+      "id": "dunmari-frontier-074",
+      "campaign": "dufr",
+      "session": 74,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-source-cleaned.md",
+      "sha256": "b9f4c38750c99787e386d28c14253f66add045066205017b9fa9d7a29d06e98e",
+      "words": 33221
+    },
+    {
+      "id": "dunmari-frontier-075",
+      "campaign": "dufr",
+      "session": 75,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-source-cleaned.md",
+      "sha256": "5b564eb6f890391a0ec491f877a2636a5a12dbc3123a7971d2aef18691b88ff0",
+      "words": 29699
+    },
+    {
+      "id": "dunmari-frontier-076",
+      "campaign": "dufr",
+      "session": 76,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-source-cleaned.md",
+      "sha256": "21f3ba26f1ae85a4833b8247e388c5711d9e8bc189cd2e470013460db1db73e9",
+      "words": 37379
+    },
+    {
+      "id": "dunmari-frontier-077",
+      "campaign": "dufr",
+      "session": 77,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-source-cleaned.md",
+      "sha256": "3da391a0a71581eaa3980f35b6a0aefc17e054a6a8851a9b33926b63a85a164b",
+      "words": 41098
+    },
+    {
+      "id": "dunmari-frontier-078",
+      "campaign": "dufr",
+      "session": 78,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-source-cleaned.md",
+      "sha256": "5212d67f0201a262dc122fcdf905909e832094838aa428ed108138504ac191bb",
+      "words": 41767
+    },
+    {
+      "id": "dunmari-frontier-079",
+      "campaign": "dufr",
+      "session": 79,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-source-cleaned.md",
+      "sha256": "bf9d7eb74e3047131046d11a826f2a8b8e344c560299f8a11716a7b553c59041",
+      "words": 40231
+    },
+    {
+      "id": "dunmari-frontier-082",
+      "campaign": "dufr",
+      "session": 82,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-source-cleaned.md",
+      "sha256": "77a680cf3935959a60f3321cdaba8541f81a6bc405c1fdbb04ad7597684339bc",
+      "words": 32527
+    },
+    {
+      "id": "dunmari-frontier-083",
+      "campaign": "dufr",
+      "session": 83,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-source-cleaned.md",
+      "sha256": "d73f3d4b7f57ee730394666c3e471da4cd674258d8d4124b85a36bf0a3d82cf8",
+      "words": 34227
+    },
+    {
+      "id": "dunmari-frontier-084",
+      "campaign": "dufr",
+      "session": 84,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-source-cleaned.md",
+      "sha256": "252f8295e2a3b175f129185da32f567521daf4d2f750d148cb8cf3a1dbd4299b",
+      "words": 27920
+    },
+    {
+      "id": "dunmari-frontier-085",
+      "campaign": "dufr",
+      "session": 85,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-source-cleaned.md",
+      "sha256": "bd467e71b9223f1dfe7c427717f7625fe915f9f241f9da91aab2bac2127bf6c2",
+      "words": 35515
+    },
+    {
+      "id": "dunmari-frontier-086",
+      "campaign": "dufr",
+      "session": 86,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-source-cleaned.md",
+      "sha256": "3188764d22121c1e3d94eb97abc6bc317dc3c738857522b54c9aabf94b803094",
+      "words": 37838
+    },
+    {
+      "id": "dunmari-frontier-087",
+      "campaign": "dufr",
+      "session": 87,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-source-cleaned.md",
+      "sha256": "81fb72bd8346be7d35867180bfe23ea3c84a01770fec6b5bc0120f1ba21d8c7c",
+      "words": 34843
+    },
+    {
+      "id": "dunmari-frontier-088",
+      "campaign": "dufr",
+      "session": 88,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-source-cleaned.md",
+      "sha256": "1c68cafc686b75748180c0407d73de2570664ffcc843db67e577fcadae0da663",
+      "words": 37476
+    },
+    {
+      "id": "dunmari-frontier-089",
+      "campaign": "dufr",
+      "session": 89,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-source-cleaned.md",
+      "sha256": "50311dc2f7ca140aaeb44ca110a21c7e478c03418142606e2764fa9e3c6ed466",
+      "words": 29251
+    },
+    {
+      "id": "dunmari-frontier-090",
+      "campaign": "dufr",
+      "session": 90,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-source-cleaned.md",
+      "sha256": "db805b06f659a55d0d1d3e6c63a1b613ac4f1dd000e68f42556027c330b1fc41",
+      "words": 32105
+    },
+    {
+      "id": "dunmari-frontier-091",
+      "campaign": "dufr",
+      "session": 91,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-source-cleaned.md",
+      "sha256": "701b09ce2dca1848ea0d0c5d0e1d4b51ffda8be628c6e126cbdab0312769cbef",
+      "words": 35225
+    },
+    {
+      "id": "dunmari-frontier-092",
+      "campaign": "dufr",
+      "session": 92,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-source-cleaned.md",
+      "sha256": "83c441274d6b1dee3b624010f583a1ae28ba8178450133d559362479c8f4a3fa",
+      "words": 31921
+    },
+    {
+      "id": "dunmari-frontier-093",
+      "campaign": "dufr",
+      "session": 93,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-source-cleaned.md",
+      "sha256": "9f8158cbc1a7c798be6c438d3f5d657f0ad032a912449aa0d5b11551984ae395",
+      "words": 36685
+    },
+    {
+      "id": "dunmari-frontier-094",
+      "campaign": "dufr",
+      "session": 94,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-source-cleaned.md",
+      "sha256": "9e80ab82762ba7560f65178727dfc42e9a4432b0e1ebc85de4ccafc85f2df92e",
+      "words": 35512
+    },
+    {
+      "id": "dunmari-frontier-095",
+      "campaign": "dufr",
+      "session": 95,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-source-cleaned.md",
+      "sha256": "64bed47dea3cfcd8c74f4a109fd22f9f41718ace96df77b591a99482ea1e78a3",
+      "words": 41864
+    },
+    {
+      "id": "dunmari-frontier-097",
+      "campaign": "dufr",
+      "session": 97,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-source-cleaned.md",
+      "sha256": "58d0b4c2ac1c363c12a9aa63cbaa022c367ea19e0fd90c17315e547e7973abef",
+      "words": 46419
+    },
+    {
+      "id": "dunmari-frontier-098",
+      "campaign": "dufr",
+      "session": 98,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-source-cleaned.md",
+      "sha256": "852c6dbbb48f6c530d7620edd5a30125c1c38d48f49fbe39493ab8412b2d0f5d",
+      "words": 41914
+    },
+    {
+      "id": "dunmari-frontier-099",
+      "campaign": "dufr",
+      "session": 99,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-source-cleaned.md",
+      "sha256": "aca790f3c009473bb8154f10765ef3ad901fe0c1c1e499b5ae43df8a2d36af13",
+      "words": 37754
+    },
+    {
+      "id": "dunmari-frontier-100",
+      "campaign": "dufr",
+      "session": 100,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-source-cleaned.md",
+      "sha256": "a439aa041fa8239675b1817c294e7326e48b9e99082bfe72e99cd35c35a142cd",
+      "words": 39600
+    },
+    {
+      "id": "dunmari-frontier-101",
+      "campaign": "dufr",
+      "session": 101,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-source-cleaned.md",
+      "sha256": "7b2781ec861ee63e4cea3938303a8e5fd3c2208b819c3d972c889669be4a7d1b",
+      "words": 47748
+    },
+    {
+      "id": "dunmari-frontier-102",
+      "campaign": "dufr",
+      "session": 102,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-source-cleaned.md",
+      "sha256": "1af85b61b1df4f8a9cce1881f38db8aee6d020c9ac60cdf8a2f8499b8dc48671",
+      "words": 47999
+    },
+    {
+      "id": "dunmari-frontier-103",
+      "campaign": "dufr",
+      "session": 103,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-source-cleaned.md",
+      "sha256": "fb1c1213d51ff789bed3679b6e09310bcc56481f17a8dafcf455036ed012af48",
+      "words": 37441
+    },
+    {
+      "id": "dunmari-frontier-104",
+      "campaign": "dufr",
+      "session": 104,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-source-cleaned.md",
+      "sha256": "035e3e8abf58079101089829ca74d875127257ee4f0da2c418442f95e9bde354",
+      "words": 46023
+    },
+    {
+      "id": "dunmari-frontier-105",
+      "campaign": "dufr",
+      "session": 105,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-source-cleaned.md",
+      "sha256": "7e6562793600d94a9279fcdf0c051d5eb0cfbcbe8e65e4f02b8f3d3afa3ed9bb",
+      "words": 41327
+    },
+    {
+      "id": "dunmari-frontier-106",
+      "campaign": "dufr",
+      "session": 106,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-source-cleaned.md",
+      "sha256": "2297f5b79da2bd06c6222e6fe47f006d7fa45ebb31d7a92f996ab51b3cb34ec8",
+      "words": 36591
+    },
+    {
+      "id": "dunmari-frontier-108",
+      "campaign": "dufr",
+      "session": 108,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-source-cleaned.md",
+      "sha256": "f62634fc266a98cf745e034dd0d0647d37f0d30667bbb81a0806139f6496b4ab",
+      "words": 68214
+    },
+    {
+      "id": "dunmari-frontier-109",
+      "campaign": "dufr",
+      "session": 109,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-source-cleaned.md",
+      "sha256": "2cd8887c987e1742c02101f78392ac574c9584e0c975f93b5d5cd4485cff41d3",
+      "words": 112564
+    },
+    {
+      "id": "dunmari-frontier-110",
+      "campaign": "dufr",
+      "session": 110,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-source-cleaned.md",
+      "sha256": "910a7da8c53fd85a3d6962e8101dce734820fa6325000edb0431491bfdc345a3",
+      "words": 169748
+    },
+    {
+      "id": "dunmari-frontier-111",
+      "campaign": "dufr",
+      "session": 111,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-source-cleaned.md",
+      "sha256": "6b3c32ccce961510a17902649a63839ce0c511ae0d8f2cc5a866c380c204663f",
+      "words": 43427
+    },
+    {
+      "id": "dunmari-frontier-112",
+      "campaign": "dufr",
+      "session": 112,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-source-cleaned.md",
+      "sha256": "dff71df334c48fccea6159a555d03e9b8a89ff271c7cc6a9da28f889d190fb5c",
+      "words": 48801
+    },
+    {
+      "id": "dunmari-frontier-113",
+      "campaign": "dufr",
+      "session": 113,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-source-cleaned.md",
+      "sha256": "df97a43e33b5cc5d34821f446c03b2f774d77b69ad2cacbad726406f314608b9",
+      "words": 38613
+    },
+    {
+      "id": "dunmari-frontier-114",
+      "campaign": "dufr",
+      "session": 114,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-source-cleaned.md",
+      "sha256": "8be189d3452952e8b8a72453311b4e78ba198d665f7d178721208c7d5b042d1f",
+      "words": 29932
+    },
+    {
+      "id": "dunmari-frontier-115",
+      "campaign": "dufr",
+      "session": 115,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-source-cleaned.md",
+      "sha256": "1043debdf90d08455eaf797061b870d158942d3d9e675504b32744eae1a4ad29",
+      "words": 38899
+    },
+    {
+      "id": "dunmari-frontier-116",
+      "campaign": "dufr",
+      "session": 116,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-source-cleaned.md",
+      "sha256": "1626ff4d2d607f8d6e7b4cc87cdfdf185dfd05259442378868ac4fdbc7af6c7c",
+      "words": 49444
+    },
+    {
+      "id": "dunmari-frontier-117",
+      "campaign": "dufr",
+      "session": 117,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-source-cleaned.md",
+      "sha256": "b01744d8d98b8eb4208b0d2dc987569df34d68fa2d757eef35acffc0ac2715ac",
+      "words": 48582
+    },
+    {
+      "id": "dunmari-frontier-118",
+      "campaign": "dufr",
+      "session": 118,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-source-cleaned.md",
+      "sha256": "6159aaa89545a083d7e9ff66cba42112da792e5750a3abacba7972885a9b17bb",
+      "words": 32211
+    },
+    {
+      "id": "dunmari-frontier-119",
+      "campaign": "dufr",
+      "session": 119,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-source-cleaned.md",
+      "sha256": "ad654db00ded48523f49c5288ab034e4c7ca52e75750219d4c540bccca03a998",
+      "words": 21889
+    },
+    {
+      "id": "dunmari-frontier-120",
+      "campaign": "dufr",
+      "session": 120,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-source-cleaned.md",
+      "sha256": "fc4e06f92705039cd91c7c8100eb101c8174d8e72e0bd0efaef0d5b3e2b0025a",
+      "words": 34899
+    },
+    {
+      "id": "dunmari-frontier-121",
+      "campaign": "dufr",
+      "session": 121,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-source-cleaned.md",
+      "sha256": "e8853c9a407ca021fdcdd8b73f4303548f5e745d65690b04f65fbc2a9e21824e",
+      "words": 36745
+    },
+    {
+      "id": "dunmari-frontier-122",
+      "campaign": "dufr",
+      "session": 122,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-source-cleaned.md",
+      "sha256": "6358e0b58ca6b8c13eb7b806c5c35c7ae3a2c588a7c99335e66f1f9a84661b4d",
+      "words": 37246
+    },
+    {
+      "id": "dunmari-frontier-123",
+      "campaign": "dufr",
+      "session": 123,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-source-cleaned.md",
+      "sha256": "585b021cc985e38f9bcfc5a9bc7de520f8a1de3f7332e5649f4e75865bc2014e",
+      "words": 18983
+    },
+    {
+      "id": "dunmari-frontier-124",
+      "campaign": "dufr",
+      "session": 124,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-source-cleaned.md",
+      "sha256": "539a45810cec99c22beed9d01d3cd868aed960d87edd1c92e2f95fa48b4739f9",
+      "words": 31364
+    },
+    {
+      "id": "dunmari-frontier-125",
+      "campaign": "dufr",
+      "session": 125,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-source-cleaned.md",
+      "sha256": "32db73dc2f3a1086adcdb0ad75445992ebe21750a3a6c0a3234aaeb54e374a92",
+      "words": 40146
+    },
+    {
+      "id": "dunmari-frontier-126",
+      "campaign": "dufr",
+      "session": 126,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-source-cleaned.md",
+      "sha256": "a9485ed44fa1b8e82543dcd1771b6dd80b7bb466be551066ce4fa47ea0abb298",
+      "words": 36196
+    },
+    {
+      "id": "dunmari-frontier-127",
+      "campaign": "dufr",
+      "session": 127,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-source-cleaned.md",
+      "sha256": "bf575416f5683fcd06a2b014df8267f3b7a60a364bd953776942ad035d48643a",
+      "words": 32662
+    },
+    {
+      "id": "dunmari-frontier-128",
+      "campaign": "dufr",
+      "session": 128,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-source-cleaned.md",
+      "sha256": "8b183441a1ea1274bfb4f4934e5fb1a737e6ce02e2da0a18152d22ed63c143d1",
+      "words": 48666
+    },
+    {
+      "id": "dunmari-frontier-129",
+      "campaign": "dufr",
+      "session": 129,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-source-cleaned.md",
+      "sha256": "a335e7ac349f02f5a31924fef14a7bbda42d656c3fc327587bef7ed01cf98162",
+      "words": 38766
+    },
+    {
+      "id": "dunmari-frontier-130",
+      "campaign": "dufr",
+      "session": 130,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-source-cleaned.md",
+      "sha256": "93b0ff0bb117aa8da5c148b51cabba7133bda380953e70e61417f93b197dba91",
+      "words": 36454
+    },
+    {
+      "id": "dunmari-frontier-131",
+      "campaign": "dufr",
+      "session": 131,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-source-cleaned.md",
+      "sha256": "3930ded2de8fd2e54ec5eee2102c01d18f088a74169b70cb15a213e078f766b9",
+      "words": 42965
+    },
+    {
+      "id": "dunmari-frontier-132",
+      "campaign": "dufr",
+      "session": 132,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-source-cleaned.md",
+      "sha256": "248e9f1d7ba7de5b1c8225d1929b26743d5256a50a24683efdba30a2908b4841",
+      "words": 40511
+    },
+    {
+      "id": "dunmari-frontier-133",
+      "campaign": "dufr",
+      "session": 133,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-source-cleaned.md",
+      "sha256": "729fe3b748a4c223cb4c98512d6d99b6864dad7825cb58b3f3478ccebcfd4361",
+      "words": 35905
+    },
+    {
+      "id": "dunmari-frontier-134",
+      "campaign": "dufr",
+      "session": 134,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-source-cleaned.md",
+      "sha256": "37c805d8e56ff44c476594b0291b133d8e9a0717d823433905976bef7c19db47",
+      "words": 22231
+    },
+    {
+      "id": "dunmari-frontier-136",
+      "campaign": "dufr",
+      "session": 136,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-source-cleaned.md",
+      "sha256": "7b88ed713d690c9a37db9500a6e4ec31f53c0f4255d9380d39e758e2b2829fbb",
+      "words": 111670
+    },
+    {
+      "id": "dunmari-frontier-137",
+      "campaign": "dufr",
+      "session": 137,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-source-cleaned.md",
+      "sha256": "a07ed72db92aecb13114517ea7496456a90b40155e6c7ad0c4b7209a63ac4f91",
+      "words": 65784
+    },
+    {
+      "id": "dunmari-frontier-138",
+      "campaign": "dufr",
+      "session": 138,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-source-cleaned.md",
+      "sha256": "532763020125d5bcf3048a048926e73fef105a50f598578cfb4d80bb25892072",
+      "words": 46470
+    },
+    {
+      "id": "dunmari-frontier-139",
+      "campaign": "dufr",
+      "session": 139,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-source-cleaned.md",
+      "sha256": "69225b79619729d37d73724643b2d1b11b02ade66cb220c54c7b0e9893f6dd23",
+      "words": 67072
+    },
+    {
+      "id": "lost-in-the-feywild-001",
+      "campaign": "feywild",
+      "session": 1,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md",
+      "sha256": "af76c13971f857d047a51016402fb82e775ba010ef9dfbe94da0b0a5f2723754",
+      "words": 34736
+    },
+    {
+      "id": "lost-in-the-feywild-002",
+      "campaign": "feywild",
+      "session": 2,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-source-cleaned.md",
+      "sha256": "ecf8fed7ab88b304bdb54aa25a6b6c12b95ab3ede67e7f7ad14d7f66a68d9f07",
+      "words": 33277
+    },
+    {
+      "id": "lost-in-the-feywild-003",
+      "campaign": "feywild",
+      "session": 3,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-source-cleaned.md",
+      "sha256": "a7be1f725fd8e451a0c02ba194a81c181c976a83f579172a4efd30a7950b15bf",
+      "words": 37420
+    },
+    {
+      "id": "lost-in-the-feywild-004",
+      "campaign": "feywild",
+      "session": 4,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-source-cleaned.md",
+      "sha256": "bef4c891c04304dd1fd0b52b298d84ffa4cf55a65bff1a4965d0016b60f6d402",
+      "words": 37888
+    },
+    {
+      "id": "lost-in-the-feywild-005",
+      "campaign": "feywild",
+      "session": 5,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-source-cleaned.md",
+      "sha256": "d6cbb1374f95ecd73355db0c9ef1e30d649fd00b55d71b2b11293cfeb3e14368",
+      "words": 31741
+    },
+    {
+      "id": "lost-in-the-feywild-006",
+      "campaign": "feywild",
+      "session": 6,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-source-cleaned.md",
+      "sha256": "8193c88087cc2e237fb5e0e668d35853af9661e9ef3a9776858712e9bbb1a95c",
+      "words": 18347
+    },
+    {
+      "id": "lost-in-the-feywild-007",
+      "campaign": "feywild",
+      "session": 7,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-source-cleaned.md",
+      "sha256": "53793c55917dca91df05e6c11cba35505147cfbfee042f298f7f1fda702026cb",
+      "words": 42137
+    },
+    {
+      "id": "into-the-chasm-001",
+      "campaign": "itc",
+      "session": 1,
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+      "source": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md",
+      "sha256": "efef83692eb5d8234dcfd8e470152ff0b62a9c9aa74a4adb8ea2c61274ba1117",
+      "words": 32392
+    },
+    {
+      "id": "into-the-chasm-002",
+      "campaign": "itc",
+      "session": 2,
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+      "source": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-source-cleaned.md",
+      "sha256": "fa60114353b5f5bcfcfb1d50abb9121171a284ce2291951fc0a56815a1c991c6",
+      "words": 28463
+    },
+    {
+      "id": "into-the-chasm-003",
+      "campaign": "itc",
+      "session": 3,
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+      "source": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md",
+      "sha256": "d8f186c7a58ce04ac6ebcef3bdad2e09f89a10f8b77b5ac0070c633fafafab57",
+      "words": 36515
+    },
+    {
+      "id": "into-the-chasm-004",
+      "campaign": "itc",
+      "session": 4,
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+      "source": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
+      "sha256": "2ffed842f62ec04ee50288c24195e5276d7b8e40b4899fbab408fd01219855c0",
+      "words": 30273
+    },
+    {
+      "id": "into-the-chasm-005",
+      "campaign": "itc",
+      "session": 5,
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+      "source": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-source-cleaned.md",
+      "sha256": "407124030c5cf6ee873ca3085934e0db3dbf5ea7c7e269abcf7f1bb46e4c36e3",
+      "words": 39371
+    },
+    {
+      "id": "into-the-chasm-006",
+      "campaign": "itc",
+      "session": 6,
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+      "source": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-source-cleaned.md",
+      "sha256": "02cab3053f866cd26bdd4b8944e08e4614b52c542601e54eb56cfab69112e34a",
+      "words": 31208
+    },
+    {
+      "id": "labyrinths-of-the-lost-001",
+      "campaign": "lablost",
+      "session": 1,
+      "manifest": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
+      "source": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-source-cleaned.md",
+      "sha256": "1ce18342c00174c8ed96f7c327bc735a48bb6b14b3ab220635ffba3efd67cc76",
+      "words": 35100
+    },
+    {
+      "id": "labyrinths-of-the-lost-002",
+      "campaign": "lablost",
+      "session": 2,
+      "manifest": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
+      "source": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md",
+      "sha256": "cb8831bfabc8491e6c300a681ec3d091e568d49ca15e1ddb53d4d604ea321718",
+      "words": 29286
+    },
+    {
+      "id": "labyrinths-of-the-lost-003",
+      "campaign": "lablost",
+      "session": 3,
+      "manifest": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+      "source": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-source-cleaned.md",
+      "sha256": "0cc835d5e144783274ef9536307bb64940b0433f3e49c233e79e55dd7e888f41",
+      "words": 33823
+    },
+    {
+      "id": "mawar-adventures-002",
+      "campaign": "mawar",
+      "session": 2,
+      "manifest": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+      "source": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-source-cleaned.md",
+      "sha256": "2ea337d9ca62730209b581da6fff28ffb51a4dcc7ef955087d1491d42ecb801a",
+      "words": 50084
+    },
+    {
+      "id": "mawar-adventures-003",
+      "campaign": "mawar",
+      "session": 3,
+      "manifest": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+      "source": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md",
+      "sha256": "886e83dd592653718896a2c1f3116d8330214983554678a9b4aedcfdabdd632f",
+      "words": 50754
+    },
+    {
+      "id": "mawar-adventures-004",
+      "campaign": "mawar",
+      "session": 4,
+      "manifest": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+      "source": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-cleaned.md",
+      "sha256": "235f312ce8ebed6744c685538ccbb7679e47ac6d5d76dd4319553e822614fc7a",
+      "words": 44270
+    },
+    {
+      "id": "mawar-adventures-005",
+      "campaign": "mawar",
+      "session": 5,
+      "manifest": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+      "source": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-source-cleaned.md",
+      "sha256": "bd6152a43144dbdcfd2efc8dfead100939f90b53d732f118cd304ef611a6737b",
+      "words": 37505
+    }
+  ],
+  "excluded": [
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-001/cleaned/cleenseau-001-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-002/cleaned/cleenseau-002-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-003/cleaned/cleenseau-003-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-004/cleaned/cleenseau-004-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-005/cleaned/cleenseau-005-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-006/cleaned/cleenseau-006-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-007/cleaned/cleenseau-007-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-008/cleaned/cleenseau-008-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-009/cleaned/cleenseau-009-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-010/cleaned/cleenseau-010-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-011/cleaned/cleenseau-011-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-011.1/cleaned/cleenseau-011.1-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-012/cleaned/cleenseau-012-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-012.1/cleaned/cleenseau-012.1-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-013/cleaned/cleenseau-013-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-013.1/cleaned/cleenseau-013.1-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-014/cleaned/cleenseau-014-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-015/cleaned/cleenseau-015-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-016/cleaned/cleenseau-016-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-017/cleaned/cleenseau-017-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-018/cleaned/cleenseau-018-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-019/cleaned/cleenseau-019-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-020/cleaned/cleenseau-020-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-021/cleaned/cleenseau-021-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-022/cleaned/cleenseau-022-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-023/cleaned/cleenseau-023-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-024/cleaned/cleenseau-024-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-025/cleaned/cleenseau-025-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-026/cleaned/cleenseau-026-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-027/cleaned/cleenseau-027-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-028/cleaned/cleenseau-028-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-029.1/cleaned/cleenseau-029.1-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-031/cleaned/cleenseau-031-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-032/cleaned/cleenseau-032-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-033/cleaned/cleenseau-033-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-034/cleaned/cleenseau-034-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-035/cleaned/cleenseau-035-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-036/cleaned/cleenseau-036-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-096/cleaned/dunmari-frontier-096-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-session.yaml",
+      "reason": "Not an available supported transcript"
+    },
+    {
+      "manifest": "_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-session.yaml",
+      "reason": "Not an available supported transcript"
+    }
+  ],
+  "selected": [
+    {
+      "id": "labyrinths-of-the-lost-002",
+      "campaign": "lablost",
+      "session": 2,
+      "manifest": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
+      "source": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md",
+      "sha256": "cb8831bfabc8491e6c300a681ec3d091e568d49ca15e1ddb53d4d604ea321718",
+      "words": 29286
+    },
+    {
+      "id": "mawar-adventures-003",
+      "campaign": "mawar",
+      "session": 3,
+      "manifest": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+      "source": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md",
+      "sha256": "886e83dd592653718896a2c1f3116d8330214983554678a9b4aedcfdabdd632f",
+      "words": 50754
+    },
+    {
+      "id": "dragonets-002",
+      "campaign": "dgnt",
+      "session": 2,
+      "manifest": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+      "source": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-source-cleaned.md",
+      "sha256": "a5895a4ac5d8c4583ab27d452a96ad8c5f7bb1bc3123c8aedf790d53df4cb551",
+      "words": 41270
+    },
+    {
+      "id": "lost-in-the-feywild-001",
+      "campaign": "feywild",
+      "session": 1,
+      "manifest": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+      "source": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md",
+      "sha256": "af76c13971f857d047a51016402fb82e775ba010ef9dfbe94da0b0a5f2723754",
+      "words": 34736
+    },
+    {
+      "id": "into-the-chasm-004",
+      "campaign": "itc",
+      "session": 4,
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+      "source": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
+      "sha256": "2ffed842f62ec04ee50288c24195e5276d7b8e40b4899fbab408fd01219855c0",
+      "words": 30273
+    },
+    {
+      "id": "dunmari-frontier-064",
+      "campaign": "dufr",
+      "session": 64,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-cleaned.md",
+      "sha256": "91702a033ae9f1dd703fbe9c4ce0e57f38118eee30cf085ae64c2e3068d23729",
+      "words": 33180
+    },
+    {
+      "id": "dunmari-frontier-058",
+      "campaign": "dufr",
+      "session": 58,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md",
+      "sha256": "4f5189ddd9676c4c720f2bcebd875bc930b04ff059687f2ee6558127ff668d9b",
+      "words": 38007
+    },
+    {
+      "id": "dunmari-frontier-007",
+      "campaign": "dufr",
+      "session": 7,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md",
+      "sha256": "9a879c80191471a464bb47623429dd1c6c2dab4ae8336b3979d44365f5453eb5",
+      "words": 38291
+    },
+    {
+      "id": "dragonets-001",
+      "campaign": "dgnt",
+      "session": 1,
+      "manifest": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+      "source": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-source-cleaned.md",
+      "sha256": "da2705a128532585d1c23ba3c4277ad7154ab5c17018d101b46ee153ce7a6747",
+      "words": 38272
+    },
+    {
+      "id": "dunmari-frontier-057",
+      "campaign": "dufr",
+      "session": 57,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-source-cleaned.md",
+      "sha256": "4036b509a3c9f98740cbac8506ce469f99fb1fb64cad12ff08b9f7bec60d9865",
+      "words": 25857
+    }
+  ]
+}

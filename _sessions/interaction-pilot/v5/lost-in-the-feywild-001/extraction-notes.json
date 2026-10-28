@@ -1,0 +1,72 @@
+{
+  "extractor": "fey001 extraction agent; transcript-only semantic pass",
+  "sourceUtterances": 2156,
+  "readCoverage": {
+    "complete": true,
+    "ranges": [
+      [
+        1,
+        280
+      ],
+      [
+        281,
+        570
+      ],
+      [
+        571,
+        850
+      ],
+      [
+        851,
+        1120
+      ],
+      [
+        1121,
+        1400
+      ],
+      [
+        1401,
+        1680
+      ],
+      [
+        1681,
+        1950
+      ],
+      [
+        1951,
+        2156
+      ]
+    ]
+  },
+  "excludedNonplayRanges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0033",
+      "reason": "Audio/music setup and opening table chatter."
+    },
+    {
+      "startUid": "u2151",
+      "endUid": "u2156",
+      "reason": "End-of-session thanks and scheduling transition."
+    }
+  ],
+  "unassignedPlayedRanges": [],
+  "unresolvedCriticalFields": [],
+  "semanticCaveats": [
+    "Dates use the manifest starting anchor 1740-10-03, checked against the explicit overnight at u0698–u0699 and long rest at u2011–u2017; no arrival beyond the root tunnel occurs.",
+    "The initial forest and campsite are unnamed in the transcript, so their vault locations remain absent; Dandelion House and Dandelion Root Portal are resolved from canonical place descriptions.",
+    "All five manifest PCs speak and act in play; Mossfoot is an NPC companion despite having a player field and living in the PCs directory.",
+    "Alden and Colden are described only as apparent human servants; later fungal identities and later fates in their vault pages are not imported.",
+    "The unnamed lord beyond the doorway remains unlinked: the transcript does not establish a name, despite retrospective information on Hulda’s reference page.",
+    "Hulda’s future histories, the author of the deed, the portal destination, and who closes the door are not established as events here; the draft does not import those later explanations.",
+    "A private Detect Thoughts message is referenced at u0671 but its contents are absent; only publicly narrated surface imagery and emotions are used.",
+    "DM-labeled lines often include other players’ speech; quotations were chosen from unambiguous local narration or NPC speech, not speaker-label assumptions.",
+    "The spoken architectural history at u1039–u1041 is explicitly retconned to the outdoor approach; it remains within the continuous outdoor scene.",
+    "The brief break at u1412–u1415 and incidental table chatter remain inside the ongoing kitchen conversation scene.",
+    "The Night Queen is represented as a named non-PC entity with mentioned interactions only; no response or physical divine presence is asserted.",
+    "Generic monsters, backstory relatives and crowds, routine weapons and clothing, goodberries, and a stolen spoon are excluded as entity cards; their played context remains in scenes.",
+    "Kitchen cupboard and icebox share one collection card because their joint narrative role is the provision of dinner; the cleaning bar has its own interaction.",
+    "No beats, beat-facts, or authored session recap narratives were consulted during extraction; canonical reference notes were read only for identity and place resolution."
+  ],
+  "validation": "Initial schema/source/range/path/quote validation passed; all statuses unreviewed."
+}

@@ -1,0 +1,65 @@
+{
+  "session": "mawar-adventures-003",
+  "method": "Dedicated extraction agent followed by separate independent semantic-review agent; one targeted correction round.",
+  "extractionAgent": "mawar003",
+  "reviewAgent": "du007",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 3819,
+  "extractionReadAttestation": "Extractor attests complete u0001-u3819 reading in extraction-notes.json.",
+  "reviewScope": "Reviewer independently read u0001-u3819 in bounded ranges, repairing truncated tool outputs with narrower reads; checked metadata, all 23 final entities, all 48 final interactions, scene division, every quote voice, linked identities/locations, and unflagged omissions.",
+  "reviewSourceUtterancesRead": 3819,
+  "coverage": {
+    "sourceUtterances": 3819,
+    "sceneUtterances": 3793,
+    "excludedRanges": [
+      {
+        "startUid": "u0001",
+        "endUid": "u0005",
+        "reason": "Music/startup and asking the player character name before framing play."
+      },
+      {
+        "startUid": "u3799",
+        "endUid": "u3819",
+        "reason": "Post-distribution jokes, session feedback, repeated future-hook reminder, and farewells; no new played event."
+      }
+    ]
+  },
+  "beatsConsulted": [
+    "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-beats.json"
+  ],
+  "beatUsage": "Read existing beat dates and evidence only during independent review; they explicitly import Oct26 tomb arrival from a campaign timeline, so that note-only date was not substituted for the transcript’s Oct25 count.",
+  "correctionAttempts": 1,
+  "corrections": [
+    "Added Wazir to participating PC characters for his concrete DM-portrayed epilogue contribution; did not claim player attendance or expedition participation.",
+    "Changed statue encounter to interacted because a note is placed on it.",
+    "Trimmed guardian introduction quote to the corrected DM description.",
+    "Added Trok’s unfinished family letter and drafting interaction after omission review."
+  ],
+  "contextRechecks": [
+    "Independently inspected Hiyasa-treasure-map.png: three marked sites support the unique sketch/map match.",
+    "Kept the merfolk artifact broadly described with no subtype or page match; uncertain ASR form does not undermine its clear inclusion.",
+    "Rechecked exact date conflict and retained medium aggregate confidence."
+  ],
+  "checks": {
+    "sourceUtterances": 3819,
+    "sceneUtterances": 3793,
+    "unassignedUtterances": 26,
+    "metadataReady": false,
+    "readyEntities": 23,
+    "provisionalEntities": 0
+  },
+  "counts": {
+    "scenes": 21,
+    "entities": 23,
+    "interactions": 48
+  },
+  "issues": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Exact endpoint 1747-10-28 is manifest-supported but only approximately anchored by a few days of return travel and eventual item identification; existing note/beat tomb date Oct26 differs from transcript-counted Oct25."
+    }
+  ],
+  "schemaFeedback": "The pcs array cannot distinguish player attendance, expedition membership, and a campaign PC portrayed by the DM in a later scene; this report records that distinction explicitly. No new fields were added.",
+  "noHumanReview": true
+}

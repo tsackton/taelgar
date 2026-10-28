@@ -1,0 +1,816 @@
+{
+  "inputDigest": "e270524c715b96e7cb69339562311fc65c264393ff7851d53a40d07887c20d68",
+  "criticalMetadata": {
+    "campaign": "itc",
+    "session": 4,
+    "realWorldDate": "2026-01-08",
+    "pcs": [
+      "People/PCs/Other PCs/Into the Chasm/Finnan Oakstride.md",
+      "People/PCs/Other PCs/Into the Chasm/Jrain Fanlish.md",
+      "People/PCs/Other PCs/Into the Chasm/Eolo.md",
+      "People/PCs/Other PCs/Into the Chasm/Ekko.md",
+      "People/PCs/Other PCs/Into the Chasm/Justas Rhostrin.md"
+    ],
+    "dateStart": "1730-01-26",
+    "dateEnd": "1730-01-29",
+    "locations": [
+      "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md",
+      "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Realm.md",
+      "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md"
+    ]
+  },
+  "entityEvidence": [
+    {
+      "target": "entity:nura",
+      "record": {
+        "id": "nura",
+        "kind": "npc",
+        "label": "Nura",
+        "aiSummary": "Nura explains the infant’s remembered soul and her fear that Samir cannot survive, then directs the party toward dissidents and other sources of knowledge.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Zimkovans/Nura.md",
+        "aiSuggestedFeaturedQuotes": [
+          "nura-fate",
+          "nura-change"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0027",
+          "endUid": "u0227"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0228",
+          "endUid": "u0509"
+        }
+      ]
+    },
+    {
+      "target": "entity:khaled",
+      "record": {
+        "id": "khaled",
+        "kind": "npc",
+        "label": "Khaled",
+        "aiSummary": "Khaled shelters the party with Nura, takes the speaking infant aside, and supports Nura during the morning conversation.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Zimkovans/Khaled.md",
+        "aiSuggestedFeaturedQuotes": [
+          "khaled-baby"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0027",
+          "endUid": "u0227"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0228",
+          "endUid": "u0378"
+        }
+      ]
+    },
+    {
+      "target": "entity:samir",
+      "record": {
+        "id": "samir",
+        "kind": "npc",
+        "label": "Samir",
+        "aiSummary": "The infant Samir watches the party during the night and speaks with an older soul’s voice in the morning. Nura fears that the remembered soul prevents Samir from developing independently.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Zimkovans/Samir.md",
+        "aiSuggestedFeaturedQuotes": [
+          "samir-voice"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0133",
+          "endUid": "u0180"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0345"
+        }
+      ]
+    },
+    {
+      "target": "entity:taquin",
+      "record": {
+        "id": "taquin",
+        "kind": "npc",
+        "label": "Taquin",
+        "aiSummary": "A soul calling itself Taquin speaks through Samir, identifies Zahara as its child, and shares a last memory of falling toward the labyrinth.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Zimkovans/Taquin.md",
+        "aiSuggestedFeaturedQuotes": [
+          "taquin-memory",
+          "taquin-name"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0305"
+        }
+      ]
+    },
+    {
+      "target": "entity:kalima",
+      "record": {
+        "id": "kalima",
+        "kind": "npc",
+        "label": "Kalima",
+        "aiSummary": "Jrain sees Kalima leave secretly during the rest period; Taquin identifies her companion as Zahara, and Iskander says she is hidden in the cliffside mines.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Sembarans/Kalima.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0062",
+          "endUid": "u0174"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0378"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0811",
+          "endUid": "u0837"
+        }
+      ]
+    },
+    {
+      "target": "entity:zahara",
+      "record": {
+        "id": "zahara",
+        "kind": "npc",
+        "label": "Zahara",
+        "aiSummary": "Zahara secretly takes Kalima to safety and is described as leader of the dissidents seeking escape. The party sends a warning through Iskander without visiting Zahara’s hideout.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Zimkovans/Zahara.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0140",
+          "endUid": "u0174"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0378"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0811",
+          "endUid": "u1036"
+        }
+      ]
+    },
+    {
+      "target": "entity:iskander",
+      "record": {
+        "id": "iskander",
+        "kind": "npc",
+        "label": "Iskander",
+        "aiSummary": "Iskander describes the realm’s failed escapes, the dissidents’ goals, and Malquin’s defenses. He carries the party’s warning to prepare for a possible opportunity to flee.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Zimkovans/Iskander.md",
+        "aiSuggestedFeaturedQuotes": [
+          "iskander-dreamers",
+          "iskander-prison",
+          "iskander-exit",
+          "iskander-ready"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0643",
+          "endUid": "u1036"
+        }
+      ]
+    },
+    {
+      "target": "entity:malquin",
+      "record": {
+        "id": "malquin",
+        "kind": "npc",
+        "label": "Forquarion / Malquin",
+        "aiSummary": "The ruler’s manner shifts between courtesy, confusion, and threats as the party negotiates passage. He gives Finnan a necklace to expose to the outside night and return, promising aid if they prove the outside real and safe.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Extraplanar Powers/Forquarion.md",
+        "aiSuggestedFeaturedQuotes": [
+          "malquin-intro",
+          "malquin-fear",
+          "malquin-stars",
+          "malquin-promise"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0274",
+          "endUid": "u0509"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0698",
+          "endUid": "u1019"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1264",
+          "endUid": "u1639"
+        }
+      ]
+    },
+    {
+      "target": "entity:wolf",
+      "record": {
+        "id": "wolf",
+        "kind": "npc",
+        "label": "Giant ice wolf guardian",
+        "aiSummary": "A forty-foot ice wolf blocks the apparently safe portal, turns toward Eolo at the metal rift, and later permits the party to pass under Malquin’s instructions.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "wolf-awakens"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0514",
+          "endUid": "u0578"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0781",
+          "endUid": "u0987"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1177",
+          "endUid": "u1193"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1644",
+          "endUid": "u1734"
+        }
+      ]
+    },
+    {
+      "target": "entity:eidrikas",
+      "record": {
+        "id": "eidrikas",
+        "kind": "npc",
+        "label": "Eidrikas",
+        "aiSummary": "Ekko’s missing mentor is found painfully using his body to bridge a damaged planar mechanism. He reports Pakrinek’s death and asks the party to recover the stone piece taken by fleeing orcs.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Sembarans/Eidrikas.md",
+        "aiSuggestedFeaturedQuotes": [
+          "eidrikas-effort",
+          "eidrikas-reunion-quote",
+          "eidrikas-need",
+          "eidrikas-command"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0930",
+          "endUid": "u1005"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1811",
+          "endUid": "u1867"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1868",
+          "endUid": "u1935"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "entity:pakrinek",
+      "record": {
+        "id": "pakrinek",
+        "kind": "npc",
+        "label": "Pakrinek",
+        "aiSummary": "The party recalls Pakrinek’s expedition with Eidrikas, who later reports that orcs killed the kenku warrior at the mechanism.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "People/Sembarans/Pakrinek.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0930",
+          "endUid": "u1002"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1892",
+          "endUid": "u1926"
+        }
+      ]
+    },
+    {
+      "target": "entity:sama",
+      "record": {
+        "id": "sama",
+        "kind": "npc",
+        "label": "Sama, village elder",
+        "aiSummary": "Nura cites Sama as one of the elders who teach that children born with remembering souls cannot survive.",
+        "review": {
+          "confidence": "medium",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0318",
+          "endUid": "u0339"
+        }
+      ]
+    },
+    {
+      "target": "entity:aram",
+      "record": {
+        "id": "aram",
+        "kind": "npc",
+        "label": "Aram, village elder",
+        "aiSummary": "Nura cites Aram as one of the elders whose explanation attributes the infants’ condition to souls that still remember.",
+        "review": {
+          "confidence": "medium",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0318",
+          "endUid": "u0339"
+        }
+      ]
+    },
+    {
+      "target": "entity:zeyfa",
+      "record": {
+        "id": "zeyfa",
+        "kind": "npc",
+        "label": "Zeyfa",
+        "aiSummary": "The villagers’ belief that they inhabit Zeyfa’s realm is challenged by the party’s knowledge of the West Wind and Kestavo traditions.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "Gods and Religions/Gods/Kestavo/Zeyfa.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0415",
+          "endUid": "u0461"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0675",
+          "endUid": "u0758"
+        }
+      ]
+    },
+    {
+      "target": "entity:melua",
+      "record": {
+        "id": "melua",
+        "kind": "npc",
+        "label": "Melua",
+        "aiSummary": "Finnan recalls an ancient story of a waterfall where the Kestavo Melua was worshipped.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "Gods and Religions/Gods/Kestavo/Melua.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0349",
+          "endUid": "u0353"
+        }
+      ]
+    },
+    {
+      "target": "entity:dissidents",
+      "record": {
+        "id": "dissidents",
+        "kind": "organization",
+        "label": "Zahara’s dissident circle",
+        "aiSummary": "Iskander describes seven trusted dissidents seeking escape, with additional sympathizers, and agrees to warn them to be ready.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0643",
+          "endUid": "u1036"
+        }
+      ]
+    },
+    {
+      "target": "entity:vejo",
+      "record": {
+        "id": "vejo",
+        "kind": "organization",
+        "label": "Vejo Vaikai",
+        "aiSummary": "The party recalls that the Vejo Vaikai sent Eidrikas to investigate the chasm’s unnatural disturbances.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "Groups/Vejo Vaikai.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0930",
+          "endUid": "u1002"
+        }
+      ]
+    },
+    {
+      "target": "entity:kemeko",
+      "record": {
+        "id": "kemeko",
+        "kind": "organization",
+        "label": "Kemeko Monastery",
+        "aiSummary": "Pakrinek is recalled as a warrior of Kemeko who accompanied Eidrikas into the chasm.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "note": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0940",
+          "endUid": "u1002"
+        }
+      ]
+    },
+    {
+      "target": "entity:ring",
+      "record": {
+        "id": "ring",
+        "kind": "item",
+        "label": "Finnan’s divination ring",
+        "aiSummary": "Finnan spends the ring’s charges to learn the realm’s temporal separation, boundaries, and Malquin’s control of the sky.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "ring-facts-quote"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0379",
+          "endUid": "u0490"
+        }
+      ]
+    },
+    {
+      "target": "entity:head",
+      "record": {
+        "id": "head",
+        "kind": "item",
+        "label": "Severed head of the labyrinth beast",
+        "aiSummary": "Justas carries the beast’s head and presents it to Malquin, whose reaction suggests an unexplained bond to the beast.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "head-reaction"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0407",
+          "endUid": "u0414"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1357",
+          "endUid": "u1499"
+        }
+      ]
+    },
+    {
+      "target": "entity:book",
+      "record": {
+        "id": "book",
+        "kind": "item",
+        "label": "Finnan’s collected Zimkovan tales and songs",
+        "aiSummary": "Finnan shows Iskander his collected tales to distinguish traditional Kestavo from Malquin.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0745",
+          "endUid": "u0761"
+        }
+      ]
+    },
+    {
+      "target": "entity:quiver",
+      "record": {
+        "id": "quiver",
+        "kind": "item",
+        "label": "Eolo’s giant’s quiver",
+        "aiSummary": "Eolo places a shard from the metal rift into his magical quiver, which produces arrows related to its contents after a short rest.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1116",
+          "endUid": "u1197"
+        }
+      ]
+    },
+    {
+      "target": "entity:metal",
+      "record": {
+        "id": "metal",
+        "kind": "item",
+        "label": "Metal shard from the rift",
+        "aiSummary": "Eolo injures his hand retrieving an exceptionally sharp, multicolored metal shard and puts it in his quiver.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "metal-description"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1147",
+          "endUid": "u1173"
+        }
+      ]
+    },
+    {
+      "target": "entity:necklace",
+      "record": {
+        "id": "necklace",
+        "kind": "item",
+        "label": "Malquin’s necklace",
+        "aiSummary": "Malquin gives Finnan an icy necklace to carry outside, expose to the night, and return as proof the outside world is real.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "necklace-transfer"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1505",
+          "endUid": "u1639"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1790",
+          "endUid": "u1806"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "entity:ice-sword",
+      "record": {
+        "id": "ice-sword",
+        "kind": "item",
+        "label": "Malquin’s sword of ice",
+        "aiSummary": "Malquin manifests, plants, and recalls a glittering ice sword while threatening the party during negotiations.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "sword-ice"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1488",
+          "endUid": "u1634"
+        }
+      ]
+    },
+    {
+      "target": "entity:platform",
+      "record": {
+        "id": "platform",
+        "kind": "item",
+        "label": "Movable carved stone platform",
+        "aiSummary": "Eolo pushes a floating, geometrically carved stone to the portal so the party can step off its rope onto solid footing.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1768",
+          "endUid": "u1806"
+        }
+      ]
+    },
+    {
+      "target": "entity:mechanism",
+      "record": {
+        "id": "mechanism",
+        "kind": "item",
+        "label": "Damaged planar mechanism",
+        "aiSummary": "A carved stone mechanism channels planar energy but sparks where it is damaged; Eidrikas bridges the break to prevent greater instability.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1867"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1868",
+          "endUid": "u1935"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "entity:missing-piece",
+      "record": {
+        "id": "missing-piece",
+        "kind": "item",
+        "label": "Missing stone piece of the mechanism",
+        "aiSummary": "Eidrikas says fleeing orcs took the stone block needed to repair the damaged mechanism, making its recovery the party’s next objective.",
+        "review": {
+          "confidence": "high",
+          "status": "unreviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "piece-needed"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1892",
+          "endUid": "u1994"
+        }
+      ]
+    }
+  ],
+  "optionalReviewHints": [
+    "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-beats.json",
+    "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-beat-facts.json"
+  ],
+  "instructions": "Separately verify each critical record against transcript context and vault identities. Inspect dates, attendance, locations and omissions across the session. Beats are optional review hints, never sole evidence. No validation-only promotion. Return reviewer, inputDigest, attempt (0 or 1), decisions with target, confidence, reason, evidence."
+}

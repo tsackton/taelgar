@@ -1,0 +1,1140 @@
+{
+  "reviewer": "du058-independent-semantic-review-du064",
+  "inputDigest": "a666cc8581ee81f6b5f3f9ef5c622b8fe22bd428636a42b2d08c6519f2c62634",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Manifest and recording identify this session and real-world date; Kenzo and Izzarak actively play, while Wellby is a remote message speaker. Azta Lekua and the Feywild side of Lastlight Falls/Amberglow are visited; exact November 6–13 dates are manifest anchors only, with unspecified days passing.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0037",
+          "endUid": "u0100"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0218",
+          "endUid": "u0218"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2228",
+          "endUid": "u2235"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2254",
+          "endUid": "u2279"
+        },
+        {
+          "vaultPath": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "medium",
+      "reason": "Ordered contiguous scenes follow lava crossing, flooded-jungle encounters, vortex passage, Motua healing combat, aftermath, training, and Feywild arrival; exact dates on individual scenes exceed spoken chronology.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0186",
+          "endUid": "u0197"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0684",
+          "endUid": "u0715"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1085",
+          "endUid": "u1225"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1332",
+          "endUid": "u1403"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2003",
+          "endUid": "u2015"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2235"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2275",
+          "endUid": "u2280"
+        }
+      ]
+    },
+    {
+      "target": "entity:enari",
+      "confidence": "medium",
+      "reason": "The named lizardfolk hunter heals, scouts, rescues, and fights; his presence during thanksgiving is explicit, but the later departure sentence has an ASR-missing subject and should not be asserted unqualified.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0037",
+          "endUid": "u0047"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0101",
+          "endUid": "u0109"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1150",
+          "endUid": "u1158"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2185",
+          "endUid": "u2188"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2230",
+          "endUid": "u2235"
+        },
+        {
+          "vaultPath": "People/Lizardfolk/Enari.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:tree",
+      "confidence": "high",
+      "reason": "The particular ancient emergent tree answers Kenzo and provides a sensory trail; it is a clearly individualized unnamed NPC, and no unsupported canonical tree match is supplied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0469",
+          "endUid": "u0508"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0553",
+          "endUid": "u0614"
+        }
+      ]
+    },
+    {
+      "target": "entity:allua",
+      "confidence": "high",
+      "reason": "The dryad is explicitly named Allua, linked to this submerged tree, and conducts a sustained conversation; no established canonical page is necessary for her inclusion.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0725",
+          "endUid": "u0758"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0802",
+          "endUid": "u0867"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1025",
+          "endUid": "u1066"
+        }
+      ]
+    },
+    {
+      "target": "entity:babies",
+      "confidence": "high",
+      "reason": "Two continuously protected infants are revealed as unfixed young forest spirits and remain with Izzarak; a joint card avoids adopting the uncertain suggested names.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0083",
+          "endUid": "u0096"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0692",
+          "endUid": "u0715"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0889",
+          "endUid": "u0915"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0975",
+          "endUid": "u1004"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2129",
+          "endUid": "u2137"
+        }
+      ]
+    },
+    {
+      "target": "entity:motua",
+      "confidence": "high",
+      "reason": "The named wounded feathered serpent, soul guardian, healing recipient, and later teacher matches the canonical Motua identity; events and gifts are directly spoken.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1332",
+          "endUid": "u1390"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1485",
+          "endUid": "u1499"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2006",
+          "endUid": "u2117"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Motua.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:lengau",
+      "confidence": "high",
+      "reason": "Allua explicitly identifies the missing shapeshifting guardian as Lengau; the returning jaguar names and role match that identity and the later transport.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0829",
+          "endUid": "u0851"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2100",
+          "endUid": "u2156"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2252",
+          "endUid": "u2276"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Lengau.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:warrior",
+      "confidence": "high",
+      "reason": "The first wound contains a distinct unnamed human warrior who directly tells Kenzo his forgotten life story; no physical visit or invented name is implied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1403",
+          "endUid": "u1491"
+        }
+      ]
+    },
+    {
+      "target": "entity:traveler",
+      "confidence": "high",
+      "reason": "The second wound contains an individualized dying woman whose requested family letter is preserved through Kenzo’s staff.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1633",
+          "endUid": "u1685"
+        }
+      ]
+    },
+    {
+      "target": "entity:paladin",
+      "confidence": "high",
+      "reason": "The third wound establishes a distinct fearful holy warrior, his remembered life as a thief, and his renewed decision to protect the fleeing people.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1739",
+          "endUid": "u1795"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1824",
+          "endUid": "u1902"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1925",
+          "endUid": "u1954"
+        }
+      ]
+    },
+    {
+      "target": "entity:priest",
+      "confidence": "high",
+      "reason": "The priest is a particular speaking person in the paladin’s remembered conversion, observed by Kenzo rather than directly encountered in the present.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1882",
+          "endUid": "u1902"
+        }
+      ]
+    },
+    {
+      "target": "entity:grash",
+      "confidence": "high",
+      "reason": "The DM moves from an initially unidentified skeleton to explicitly naming Grash during the attack; the card preserves that identification stage and does not claim Kenzo independently recognized him.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1493",
+          "endUid": "u1497"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1955",
+          "endUid": "u1983"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Grash.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:wildling",
+      "confidence": "high",
+      "reason": "The priest explicitly invokes the Wildling; this is a mention of the deity, with no direct appearance claimed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1882",
+          "endUid": "u1902"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wildling.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:cloudspinner",
+      "confidence": "high",
+      "reason": "Lengau explicitly names Cloudspinner and the Queen of Sunset in explaining Amberglow’s decay; it is a historical mention only.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2262",
+          "endUid": "u2274"
+        },
+        {
+          "vaultPath": "People/Extraplanar Powers/Archfey/Cloudspinner.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:somi",
+      "confidence": "high",
+      "reason": "The fire spirit is recalled through the staff mark and explicitly named by Allua as a guardian caretaker; his earlier encounter is not represented as current presence.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0062",
+          "endUid": "u0071"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0889",
+          "endUid": "u0912"
+        },
+        {
+          "vaultPath": "People/Fey/Somi-nai.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:staff",
+      "confidence": "high",
+      "reason": "Kenzo names the Staff of the Forest Soul and repeatedly uses this same staff for tree communion, storytelling, and new gifts; the canonical page identifies Kenzo’s object.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0056",
+          "endUid": "u0071"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0490",
+          "endUid": "u0497"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1455",
+          "endUid": "u1520"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2104",
+          "endUid": "u2156"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2227"
+        },
+        {
+          "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:jump-ring",
+      "confidence": "high",
+      "reason": "Kenzo explicitly identifies and uses his ring of jumping at both crossings; the card correctly has no speculative link to another campaign’s ring.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0110",
+          "endUid": "u0124"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1111",
+          "endUid": "u1118"
+        }
+      ]
+    },
+    {
+      "target": "entity:message-stone",
+      "confidence": "high",
+      "reason": "Kenzo explicitly uses a message stone twice to speak to Wellby; the note is the matching Message Stone reference, without importing item history or range claims.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0116",
+          "endUid": "u0119"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0218",
+          "endUid": "u0218"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2254",
+          "endUid": "u2260"
+        },
+        {
+          "vaultPath": "Things/Magic Items/Drankorian Message Stone.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:chains",
+      "confidence": "high",
+      "reason": "Nine nonphysical spiritual chains emerge from the three wounds and become consequential hazards; one explicitly binds Kenzo’s soul while the others are destroyed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1341",
+          "endUid": "u1342"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1375",
+          "endUid": "u1389"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1502",
+          "endUid": "u1508"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1984",
+          "endUid": "u2005"
+        }
+      ]
+    },
+    {
+      "target": "entity:scroll",
+      "confidence": "high",
+      "reason": "Motua describes a specific ancient scroll consumed in dark fire; it is observed through the vision, without a speculative artifact identity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1686",
+          "endUid": "u1699"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1964",
+          "endUid": "u1968"
+        }
+      ]
+    },
+    {
+      "target": "entity:dark-ring",
+      "confidence": "high",
+      "reason": "A distinctive burning ring appears in successive memories and pulls souls through planar wounds; no unspoken canonical name or future lore is imported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1493",
+          "endUid": "u1497"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1689",
+          "endUid": "u1698"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1975",
+          "endUid": "u1978"
+        }
+      ]
+    },
+    {
+      "target": "entity:glaive",
+      "confidence": "high",
+      "reason": "The same witnessed weapon channels the ring’s fire, cuts planar marks, and wounds Motua; the observed classification is appropriate.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1493",
+          "endUid": "u1497"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1689",
+          "endUid": "u1698"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1955",
+          "endUid": "u1968"
+        }
+      ]
+    },
+    {
+      "target": "entity:horn",
+      "confidence": "high",
+      "reason": "Kenzo physically offers his Dunmari horn as the meaningful sacrifice but Motua explicitly cannot perform restoration; no completed sacrifice is claimed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2038",
+          "endUid": "u2060"
+        }
+      ]
+    },
+    {
+      "target": "interaction:enari-guide",
+      "confidence": "low",
+      "reason": "The continuous guided journey and rescue are supported, but color quote enari-help includes Kenzo’s reply at u0108 and must be narrowed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0037",
+          "endUid": "u1331"
+        }
+      ]
+    },
+    {
+      "target": "interaction:enari-fight",
+      "confidence": "high",
+      "reason": "Enari expressly fights the shadows while the others handle Motua’s wounds and chains.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1332",
+          "endUid": "u2005"
+        }
+      ]
+    },
+    {
+      "target": "interaction:enari-depart",
+      "confidence": "medium",
+      "reason": "Thanksgiving affirms Enari’s aftermath presence; the departure subject at u2234 is damaged and the definite return claim needs narrowing.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2185",
+          "endUid": "u2235"
+        }
+      ]
+    },
+    {
+      "target": "interaction:tree-talk",
+      "confidence": "low",
+      "reason": "The entire tree conversation is one appropriate unit, but tree-voice includes Kenzo’s greeting and tree-spirits includes Kenzo’s questions, violating color-quote attribution.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0479",
+          "endUid": "u0643"
+        }
+      ]
+    },
+    {
+      "target": "interaction:allua-talk",
+      "confidence": "high",
+      "reason": "One continuous conversation retains the argument about babysitting, guardian history, Motua, and the vortex; selected color quotes are Allua’s own speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0702",
+          "endUid": "u1084"
+        }
+      ]
+    },
+    {
+      "target": "interaction:babies-journey",
+      "confidence": "high",
+      "reason": "Continuous travel and Allua’s visit establish carrying, protecting, feeding, and sensing the same two infants.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0083",
+          "endUid": "u1331"
+        }
+      ]
+    },
+    {
+      "target": "interaction:babies-combat",
+      "confidence": "high",
+      "reason": "Izzarak explicitly holds the babies safe while chains reach toward them; passive present is supported without inventing infant actions.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1392",
+          "endUid": "u1527"
+        }
+      ]
+    },
+    {
+      "target": "interaction:babies-stay",
+      "confidence": "high",
+      "reason": "Lengau offers a choice and Izzarak chooses continued guardianship; the whole quote includes the actual offer and answer.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2124",
+          "endUid": "u2235"
+        }
+      ]
+    },
+    {
+      "target": "interaction:motua-rest",
+      "confidence": "high",
+      "reason": "The lava-bank discussion concerns Motua and Gidari lore without his presence.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0247",
+          "endUid": "u0304"
+        }
+      ]
+    },
+    {
+      "target": "interaction:motua-tree",
+      "confidence": "high",
+      "reason": "Kenzo asks the tree about Motua, who is discussed but not present.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0517",
+          "endUid": "u0552"
+        }
+      ]
+    },
+    {
+      "target": "interaction:motua-allua",
+      "confidence": "high",
+      "reason": "Allua describes Motua’s pain and route without a direct meeting in this conversation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0859",
+          "endUid": "u1084"
+        }
+      ]
+    },
+    {
+      "target": "interaction:motua-glimpse",
+      "confidence": "high",
+      "reason": "Feathers, slithering movement, and sounds precede the direct appearance, supporting observed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1233",
+          "endUid": "u1331"
+        }
+      ]
+    },
+    {
+      "target": "interaction:motua-heal",
+      "confidence": "high",
+      "reason": "The three wounds and parallel chain combat form one continuous healing encounter; the quoted memories are Motua’s speech after the dream figures recede.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1332",
+          "endUid": "u2005"
+        }
+      ]
+    },
+    {
+      "target": "interaction:motua-thanks",
+      "confidence": "high",
+      "reason": "After combat Motua thanks the party, explains restoration, and blesses Kenzo’s staff; complementary color quotes are correctly attributed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2006",
+          "endUid": "u2191"
+        }
+      ]
+    },
+    {
+      "target": "interaction:motua-training",
+      "confidence": "high",
+      "reason": "The explicit days-long training follows the immediate conversation, justifying a later interaction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2241"
+        }
+      ]
+    },
+    {
+      "target": "interaction:lengau-allua",
+      "confidence": "high",
+      "reason": "Allua supplies the guardian’s identity and role in one conversation; the whole quotation is her description, not mislabeled Lengau speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0780",
+          "endUid": "u1064"
+        }
+      ]
+    },
+    {
+      "target": "interaction:lengau-return",
+      "confidence": "high",
+      "reason": "The jaguar’s arrival, dialogue, blessing, and offer of transport are a continuous encounter before the days-long training.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2100",
+          "endUid": "u2191"
+        }
+      ]
+    },
+    {
+      "target": "interaction:lengau-train",
+      "confidence": "high",
+      "reason": "Training and departure follow the time skip; Lengau’s warning and actual transport are supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2275"
+        }
+      ]
+    },
+    {
+      "target": "interaction:warrior-dream",
+      "confidence": "high",
+      "reason": "Kenzo directly reassures the forgotten warrior and records his story; the selected color quotes are the warrior’s words.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1400",
+          "endUid": "u1498"
+        }
+      ]
+    },
+    {
+      "target": "interaction:traveler-dream",
+      "confidence": "high",
+      "reason": "Kenzo directly offers writing help and records the traveler’s farewell; the color quotations preserve her speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1629",
+          "endUid": "u1699"
+        }
+      ]
+    },
+    {
+      "target": "interaction:paladin-dream",
+      "confidence": "high",
+      "reason": "The paladin’s fight, despair, remembered conversion, and restored hope remain one encounter despite cuts to the outside combat.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1739",
+          "endUid": "u1954"
+        }
+      ]
+    },
+    {
+      "target": "interaction:priest-memory",
+      "confidence": "high",
+      "reason": "The priest appears in a witnessed past conversation and speaks the forgiveness passage himself; observed is correct.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1882",
+          "endUid": "u1902"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wildling-memory",
+      "confidence": "high",
+      "reason": "The deity is invoked by the priest without appearing or speaking.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1882",
+          "endUid": "u1902"
+        }
+      ]
+    },
+    {
+      "target": "interaction:grash-memory",
+      "confidence": "high",
+      "reason": "Successive visions reveal a single historical attack, correctly recorded as observed; the DM explicitly names Grash after rejecting Apollyon.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1485",
+          "endUid": "u1983"
+        }
+      ]
+    },
+    {
+      "target": "interaction:cloudspinner-warning",
+      "confidence": "high",
+      "reason": "Lengau’s named account is a mention of the former ruler, not her appearance.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2262",
+          "endUid": "u2274"
+        }
+      ]
+    },
+    {
+      "target": "interaction:somi-mark",
+      "confidence": "high",
+      "reason": "The DM recalls a prior mark from the fire spirit, not a present meeting.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0062",
+          "endUid": "u0071"
+        }
+      ]
+    },
+    {
+      "target": "interaction:somi-caregiver",
+      "confidence": "high",
+      "reason": "Allua names Somi-nai among caretakers in her ongoing explanation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0889",
+          "endUid": "u0912"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-tree",
+      "confidence": "high",
+      "reason": "The staff is inserted into the tree’s roots, used for communion, and carved to honor the encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0479",
+          "endUid": "u0643"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-stories",
+      "confidence": "high",
+      "reason": "Kenzo explicitly carves the warrior, traveler, paladin, and Motua stories during the ongoing healing encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1455",
+          "endUid": "u1946"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-gifts",
+      "confidence": "high",
+      "reason": "Motua’s communion and Lengau’s touch impart the narrated spiritual marks in one aftermath scene.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2073",
+          "endUid": "u2191"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-training",
+      "confidence": "high",
+      "reason": "The DM explains the new powers during Kenzo’s explicitly chosen training period; no later item abilities are imported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2227"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jump-lava",
+      "confidence": "high",
+      "reason": "The ring and ki are explicitly combined before Kenzo successfully jumps while carrying one baby.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0110",
+          "endUid": "u0195"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jump-vortex",
+      "confidence": "high",
+      "reason": "The ring is expressly used in the jumping approach, followed by a slip and Enari’s rescue.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1111",
+          "endUid": "u1207"
+        }
+      ]
+    },
+    {
+      "target": "interaction:stone-first",
+      "confidence": "high",
+      "reason": "Kenzo initiates the message before crossing and receives Wellby’s reply during the rest, so one interaction correctly spans scenes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0116",
+          "endUid": "u0218"
+        }
+      ]
+    },
+    {
+      "target": "interaction:stone-destination",
+      "confidence": "high",
+      "reason": "A later message exchange specifically chooses the reunion destination.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2254",
+          "endUid": "u2260"
+        }
+      ]
+    },
+    {
+      "target": "interaction:chains-fight",
+      "confidence": "high",
+      "reason": "The released chains are attacked in the continuous combat; the final surviving chain binds Kenzo and gives the stated curse.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1334",
+          "endUid": "u2005"
+        }
+      ]
+    },
+    {
+      "target": "interaction:chains-cure",
+      "confidence": "high",
+      "reason": "The curse remedy and later option to expend the staff gift are discussed, not enacted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2016",
+          "endUid": "u2203"
+        }
+      ]
+    },
+    {
+      "target": "interaction:scroll-vision",
+      "confidence": "high",
+      "reason": "The scroll’s burning and effect occur within Motua’s memory, so observed rather than used by the party is correct.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1686",
+          "endUid": "u1699"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ring-vision",
+      "confidence": "high",
+      "reason": "The ring is witnessed in the same attack and soul theft across the unfolding memories.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1493",
+          "endUid": "u1983"
+        }
+      ]
+    },
+    {
+      "target": "interaction:glaive-vision",
+      "confidence": "high",
+      "reason": "The weapon’s cuts and resulting wounds are witnessed in the historical vision.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1493",
+          "endUid": "u1983"
+        }
+      ]
+    },
+    {
+      "target": "interaction:horn-offer",
+      "confidence": "high",
+      "reason": "Kenzo offers the horn and Motua refuses the requested magic; the summary does not invent the spell or consumption.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2038",
+          "endUid": "u2060"
+        }
+      ]
+    }
+  ]
+}

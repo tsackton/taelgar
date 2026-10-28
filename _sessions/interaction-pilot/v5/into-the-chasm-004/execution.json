@@ -1,0 +1,71 @@
+{
+  "method": "Independent full transcript semantic review with digest-bound first pass and one targeted correction round.",
+  "extractionAgent": "du064_chasm",
+  "reviewAgent": "du058",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 2002,
+  "reviewerReadCoverage": {
+    "startUid": "u0001",
+    "endUid": "u2002",
+    "utterances": 2002
+  },
+  "sourceCoverage": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0026",
+      "reason": "Audio setup and opening recap of prior play."
+    },
+    {
+      "startUid": "u1995",
+      "endUid": "u2002",
+      "reason": "Closing joke and farewells after next-session plan."
+    }
+  ],
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 2002,
+    "sceneUtterances": 1968,
+    "unassignedUtterances": 34,
+    "metadataReady": false,
+    "readyEntities": 29,
+    "provisionalEntities": 0
+  },
+  "reviewScope": "All critical metadata, every entity and interaction, quotation voices, full scene boundaries and source-wide omission scan; canonical notes and metadata index used for identity/place resolution only.",
+  "sampling": "Full review included apparently unflagged Samir/Taquin dialogue, Iskander and Malquin audiences, metal/quiver action, portal rope, and Eidrikas reunion.",
+  "corrections": [
+    "Trimmed three color quotes to exclude PC interjections or narrator setup.",
+    "Removed unsupported absolute dates from the final three scenes while retaining afternoon timing.",
+    "Changed wolf/Eolo encounter to interacted based on direct waving.",
+    "Added the consequential portal safety rope and its continuous crossing interaction."
+  ],
+  "issues": [
+    {
+      "target": "session",
+      "reason": "Exact 1730-01-26 through 1730-01-29 remains provisional: four elapsed material-plane days are explicit, but no absolute date is spoken."
+    }
+  ],
+  "contextualResolutions": [
+    "Sama and Aram are explicitly named village elders and confidently included without speculative vault links.",
+    "The DM explicitly confirms Zahara was Kalima’s escort after the initially unidentified observation.",
+    "Moonlight, stars, explicit night, and later nightfall plans resolve knight ASR in the necklace bargain without rewriting quotations.",
+    "The DM’s final time clarification is slower local time; his final sky clarification is afternoon.",
+    "Samir the infant remains distinct from Taquin, the remembered soul."
+  ],
+  "deliberateExclusions": [
+    "Belsa and Braubel are illustrative deity morphology in a rules/worldbuilding aside; no encounter or substantive session involvement is asserted.",
+    "Unnamed crowds, soldiers, and the fisherman are generic background people.",
+    "No physical visit to the labyrinth, fruit island, cattle island, or dangerous rift destinations is inferred.",
+    "No later evacuation or repaired mechanism is imported from canonical-page hindsight."
+  ],
+  "queue": [
+    {
+      "target": "session",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "reason": "Critical session metadata is provisional."
+    }
+  ]
+}

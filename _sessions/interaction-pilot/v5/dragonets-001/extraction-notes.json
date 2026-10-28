@@ -1,0 +1,75 @@
+{
+  "method": "Complete sequential transcript read in seven bounded chunks; semantic extraction authored independently of recaps and beats.",
+  "transcriptRead": {
+    "startUid": "u0001",
+    "endUid": "u2203",
+    "utterances": 2203
+  },
+  "coverage": {
+    "sceneRanges": [
+      [
+        1,
+        1381
+      ],
+      [
+        1397,
+        2137
+      ]
+    ],
+    "excludedRanges": [
+      {
+        "startUid": "u1382",
+        "endUid": "u1396",
+        "reason": "Out-of-character discussion of session length and rap performance."
+      },
+      {
+        "startUid": "u2138",
+        "endUid": "u2203",
+        "reason": "Session closing and post-play discussion."
+      }
+    ],
+    "allPlayedPassagesCovered": true
+  },
+  "attendance": {
+    "present": [
+      "Heska",
+      "Sculpit",
+      "Little Tony",
+      "Zeno"
+    ],
+    "evidence": [
+      "u0035-u0037",
+      "u0047-u0139",
+      "u0147-u0241",
+      "u1961-u1984"
+    ],
+    "unresolvedVaultPages": [
+      "Heska",
+      "Sculpit",
+      "Little Tony",
+      "Zeno"
+    ],
+    "pcsEmptyMeans": "No resolvable individual PC page, not absence of PCs."
+  },
+  "metadata": {
+    "realWorldDate": "Manifest 2026-09-17; transcript recording crosses UTC date but use session local date.",
+    "calendarDates": "Manifest unknown and no in-world calendar dates spoken; dateStart/dateEnd omitted.",
+    "locations": "Circular Island explicitly named u0004, with statue communities and Great Temple subplaces; vision geography is not recorded as physical travel."
+  },
+  "identitySearch": "Searched filenames, full reusable vault names/aliases, and anchored name/aliases fields for PC and named NPC spellings; no matches. Circular Island page used for identity/place resolution only; other temporal lore not incorporated.",
+  "uncertainties": [
+    "The purple dragonet and jade-hand man remain unidentified because the transcript supplies appearance but no names.",
+    "Egg is an item despite apparently communicating a concept; no separate NPC duplicate.",
+    "No precise time or date assigned to opening character vignettes; later festival is the same recorded day through night."
+  ],
+  "choices": [
+    "Xena’s entire preparation conversation spans the rehearsal location change in one interaction.",
+    "Zare’s negotiation and Rosca’s entire contest each remain one interaction.",
+    "Ceremonial offerings and selected jewelry each grouped as one consequential collection.",
+    "Named backstory NPCs Glenda and Horseshoe Crab retained as mentions.",
+    "Generic monsters, routine inventory and food, incidental talking objects, and unnamed festival crowds excluded as entities.",
+    "Divine statue names are location/background descriptions here, not appearances of the gods themselves.",
+    "Wanderer eye illumination is preserved in the final scene; not treated as a separate person or object."
+  ],
+  "reviewState": "All records unreviewed; aggregate confidence low due to unresolved PC links."
+}

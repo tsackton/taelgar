@@ -1,0 +1,827 @@
+{
+  "inputDigest": "1bdaa06fcac7d590d68801a8443cc23f2cd09092fa908f2f49e72f11a6a4da1d",
+  "reviewer": "Codex sequential semantic review pass",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Campaign, session, recording date and sole participating PC agree with the prepared manifest and transcript; other companions appear only in narration or remote sensing. Orekatu, Bedez and the spirit realms are experienced locations. The manifest end date is not established by the transcript: the training montage gives approximately three to four weeks, followed by a single night, and the final week is prospective.",
+      "evidence": [
+        {
+          "vaultPath": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0005",
+          "endUid": "u0059"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0263",
+          "endUid": "u0289"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0942",
+          "endUid": "u0980"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1082",
+          "endUid": "u1109"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1157",
+          "endUid": "u1168"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1719",
+          "endUid": "u1744"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1844",
+          "endUid": "u1848"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "medium",
+      "reason": "The whole transcript was read; divisions preserve the combat, overnight council, training montage, sacred cave and spirit journey. Some boundaries within the spirit vision are interpretive, especially the return from the Dreamworld into the wider Plane of Souls. Only opening recording chatter is excluded.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0005",
+          "endUid": "u0210"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0938",
+          "endUid": "u1157"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1234",
+          "endUid": "u1327"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1513",
+          "endUid": "u1591"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1719",
+          "endUid": "u1848"
+        }
+      ]
+    },
+    {
+      "target": "entity:elazar",
+      "confidence": "high",
+      "reason": "The rescued lizardfolk explicitly names himself, hosts and teaches Kenzo, and is the sole interlocutor of the selected color lines; the Elazar page matches role and village.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0263",
+          "endUid": "u0268"
+        },
+        {
+          "vaultPath": "People/Lizardfolk/Elazar.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:arrosa",
+      "confidence": "high",
+      "reason": "The DM names Arrosa as the village matriarch and later council leader; her reference page matches both roles.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0971",
+          "endUid": "u0978"
+        },
+        {
+          "vaultPath": "People/Lizardfolk/Arrosa.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:hutsu-vine",
+      "confidence": "medium",
+      "reason": "A specific vine is an active speaking interlocutor, but Hutsu is also a plant/energy category, not an individual personal name; retain as a provisional entity eligibility example.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0690",
+          "endUid": "u0704"
+        }
+      ]
+    },
+    {
+      "target": "entity:wounded-spirit",
+      "confidence": "high",
+      "reason": "A single specific quest-driving presence is described and later sensed, justifying an unnamed entity; no later identity has been imported or vault match asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0811",
+          "endUid": "u0840"
+        }
+      ]
+    },
+    {
+      "target": "entity:staff",
+      "confidence": "high",
+      "reason": "The existing unique staff page identifies Kenzo’s staff and its communion powers; the transcript independently supplies this session’s communion and new growth.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1720",
+          "endUid": "u1729"
+        },
+        {
+          "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:jades",
+      "confidence": "medium",
+      "reason": "Two fragments are explicitly seen attached to the staff; a singular named jade page exists, but assigning that one page to both fragments is not yet justified.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1256",
+          "endUid": "u1273"
+        }
+      ]
+    },
+    {
+      "target": "entity:rai",
+      "confidence": "high",
+      "reason": "Kenzo explicitly seeks Rai and the DM attributes the door vision to Rai’s confused dreaming; no conscious conversation is invented.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1235",
+          "endUid": "u1294"
+        },
+        {
+          "vaultPath": "People/PCs/Great War/Rai.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:dimitaur",
+      "confidence": "high",
+      "reason": "The DM explicitly names Dimitaur in the dream; this is a vision rather than physical presence, reflected in observed and the summary.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1284",
+          "endUid": "u1294"
+        },
+        {
+          "vaultPath": "People/PCs/Great War/Companions/Dimitaur.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:apollyon",
+      "confidence": "high",
+      "reason": "Initial attribution is qualified as Kenzo’s belief, and the later passage names Apollyon directly and describes the gaze; the known lich identity matches the vault.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1581"
+        },
+        {
+          "vaultPath": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:grash",
+      "confidence": "high",
+      "reason": "The search for named Grash fails; mentioned correctly avoids claiming he was located or present, and the undead context matches the reference.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1478",
+          "endUid": "u1511"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Grash.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:candrosa",
+      "confidence": "high",
+      "reason": "Both references explicitly name Candrosa in past journeys; neither is turned into a current encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1162",
+          "endUid": "u1164"
+        },
+        {
+          "vaultPath": "People/Dunmari/Candrosa.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:eudomes",
+      "confidence": "high",
+      "reason": "Eudomes is explicitly named only as the tower owner in the recalled rendezvous message; the record remains a cameo mention.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0011",
+          "endUid": "u0012"
+        },
+        {
+          "vaultPath": "People/Historical Figures/Eudomes.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:bakar",
+      "confidence": "high",
+      "reason": "Bakar is explicitly named in Elazar’s creation account; no speculative equivalence with another vault divinity is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1128",
+          "endUid": "u1146"
+        }
+      ]
+    },
+    {
+      "target": "entity:tharzen",
+      "confidence": "medium",
+      "reason": "The named collective matches the reference page, but organization is a questionable model category for a divine collective; leave this classification visible for feedback.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0907",
+          "endUid": "u0923"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Tharzen Anzinakoa.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:bhishma",
+      "confidence": "high",
+      "reason": "The transcript names Bhishma and later the divine songs; summaries distinguish sensed echoes from meeting the deity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1400",
+          "endUid": "u1417"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:laka",
+      "confidence": "high",
+      "reason": "Laka is named among the divine songs; the DM explicitly says Kenzo cannot see or reach the gods.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1591",
+          "endUid": "u1619"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:shakun",
+      "confidence": "high",
+      "reason": "Shakun is named among the divine songs; the DM explicitly says Kenzo cannot see or reach the gods.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1591",
+          "endUid": "u1619"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:jinnik",
+      "confidence": "high",
+      "reason": "Jinnik is named as the former lycanthropic connection, and the severed tendril is what is observed, not a meeting with the god.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1691",
+          "endUid": "u1705"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Embodied Gods/Jinnik.md"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-rescue",
+      "confidence": "high",
+      "reason": "The rescue, first conversation and ongoing walk are kept as one developing encounter across scene boundaries; the later vine communion is a substantive interruption.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0060",
+          "endUid": "u0599"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-witness",
+      "confidence": "high",
+      "reason": "Elazar accompanies Kenzo to the grove and reacts immediately after the communion; he is present while the vine is the active interlocutor.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0600",
+          "endUid": "u0890"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-interpretation",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0891",
+          "endUid": "u0937"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-welcome",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic. Quote voice was checked in context; exact ASR wording is retained, including awkward fragments.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0964",
+          "endUid": "u1043"
+        }
+      ]
+    },
+    {
+      "target": "interaction:arrosa-welcome",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic. Quote voice was checked in context; exact ASR wording is retained, including awkward fragments.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0971",
+          "endUid": "u0978"
+        }
+      ]
+    },
+    {
+      "target": "interaction:arrosa-council",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1044",
+          "endUid": "u1066"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-council",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1044",
+          "endUid": "u1081"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-teaching",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1082",
+          "endUid": "u1106"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-initiation",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic. Quote voice was checked in context; exact ASR wording is retained, including awkward fragments.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1107",
+          "endUid": "u1156"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elazar-return",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic. Quote voice was checked in context; exact ASR wording is retained, including awkward fragments.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1781"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hutsu-conversation",
+      "confidence": "medium",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic. Quote voice was checked in context; exact ASR wording is retained, including awkward fragments.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0600",
+          "endUid": "u0888"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wounded-mentioned",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0811",
+          "endUid": "u0937"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wounded-sensed",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1218",
+          "endUid": "u1234"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wounded-plan",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1778"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-communion",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0600",
+          "endUid": "u0888"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-spirit",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1195",
+          "endUid": "u1210"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-harmonics",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1352",
+          "endUid": "u1435"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-growth",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic. Quote voice was checked in context; exact ASR wording is retained, including awkward fragments.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1720",
+          "endUid": "u1840"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jades-dream",
+      "confidence": "medium",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1256",
+          "endUid": "u1273"
+        }
+      ]
+    },
+    {
+      "target": "interaction:rai-dream",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1235",
+          "endUid": "u1303"
+        }
+      ]
+    },
+    {
+      "target": "interaction:dimitaur-vision",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1284",
+          "endUid": "u1294"
+        }
+      ]
+    },
+    {
+      "target": "interaction:apollyon-vision",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1284",
+          "endUid": "u1303"
+        }
+      ]
+    },
+    {
+      "target": "interaction:apollyon-gaze",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic. Quote voice was checked in context; exact ASR wording is retained, including awkward fragments.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1514",
+          "endUid": "u1586"
+        }
+      ]
+    },
+    {
+      "target": "interaction:grash-search",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1478",
+          "endUid": "u1511"
+        }
+      ]
+    },
+    {
+      "target": "interaction:candrosa-memory",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1162",
+          "endUid": "u1164"
+        }
+      ]
+    },
+    {
+      "target": "interaction:candrosa-portal",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1782",
+          "endUid": "u1791"
+        }
+      ]
+    },
+    {
+      "target": "interaction:eudomes-rendezvous",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0011",
+          "endUid": "u0012"
+        }
+      ]
+    },
+    {
+      "target": "interaction:bakar-story",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1128",
+          "endUid": "u1146"
+        }
+      ]
+    },
+    {
+      "target": "interaction:tharzen-footsteps",
+      "confidence": "medium",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0903",
+          "endUid": "u0935"
+        }
+      ]
+    },
+    {
+      "target": "interaction:tharzen-creation",
+      "confidence": "medium",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1128",
+          "endUid": "u1146"
+        }
+      ]
+    },
+    {
+      "target": "interaction:bhishma-echo",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1400",
+          "endUid": "u1417"
+        }
+      ]
+    },
+    {
+      "target": "interaction:bhishma-song",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1591",
+          "endUid": "u1619"
+        }
+      ]
+    },
+    {
+      "target": "interaction:laka-song",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1591",
+          "endUid": "u1619"
+        }
+      ]
+    },
+    {
+      "target": "interaction:shakun-song",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1591",
+          "endUid": "u1619"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jinnik-trace",
+      "confidence": "high",
+      "reason": "Rechecked the cited passage against the whole-session reading: interaction mode and summary preserve the observed/remembered/participating distinction and do not split one conversation by topic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1691",
+          "endUid": "u1705"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1455 @@
+{
+  "schemaVersion": 5,
+  "campaign": "dgnt",
+  "session": 1,
+  "realWorldDate": "2026-09-17",
+  "pcs": [],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-source-cleaned.md",
+      "sha256": "da2705a128532585d1c23ba3c4277ad7154ab5c17018d101b46ee153ce7a6747"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Drankorian Hinterland/Circular Island.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0001",
+        "endUid": "u0139"
+      },
+      "type": "conversation",
+      "locationDetail": "The Wanderer's palm",
+      "aiSummary": "The island and eight communities are introduced; Little Tony and Sculpit share their secluded refuge.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0140",
+        "endUid": "u0241"
+      },
+      "type": "conversation",
+      "locationDetail": "Dark Lady community",
+      "aiSummary": "Zeno and Heska introduce their friendship, prospective club, hunting, and pranks.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0242",
+        "endUid": "u0556"
+      },
+      "type": "conversation",
+      "locationDetail": "Great Temple festival rehearsal tents",
+      "aiSummary": "Xena demands better jewelry and Heska as her duet partner; the four dragonets negotiate preparations.",
+      "time": "Morning and daytime before Jubilee opening",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0557",
+        "endUid": "u0709"
+      },
+      "type": "conversation",
+      "locationDetail": "Quiet rehearsal area beside the festival tents",
+      "aiSummary": "Sculpit coaches Heska's aerial whip routine; Xena approves and sends Zeno and Little Tony for jewelry.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0710",
+        "endUid": "u0847"
+      },
+      "type": "conversation",
+      "locationDetail": "Zare's festival stall",
+      "aiSummary": "Little Tony and Zeno select jewelry and trade Edmund the pebble to Zare.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0848",
+        "endUid": "u0912"
+      },
+      "type": "conversation",
+      "locationDetail": "Great Temple central circle",
+      "aiSummary": "The party returns with jewelry and watches the elders unite the eight communities in the Jubilee opening ceremony.",
+      "time": "Sunset",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0913",
+        "endUid": "u1033"
+      },
+      "type": "conversation",
+      "locationDetail": "Great Temple performance arena",
+      "aiSummary": "Xena dazzles the audience; Heska accidentally whips her and hides in fog, while she salvages the finale.",
+      "time": "After opening ceremony",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1034",
+        "endUid": "u1118"
+      },
+      "type": "conversation",
+      "locationDetail": "Great Temple festival crowd",
+      "aiSummary": "The friends discuss Heska's mishap, and Xena gives him a teasing kiss.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1119",
+        "endUid": "u1381"
+      },
+      "type": "conversation",
+      "locationDetail": "Jubilee call-and-response circle",
+      "aiSummary": "Zeno defeats Rosca in a two-round spoken-word contest with his friends' support.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1397",
+        "endUid": "u1421"
+      },
+      "type": "exploration",
+      "locationDetail": "Great Feast food stalls and route to overlook",
+      "aiSummary": "The group collects dinner and withdraws from the festival.",
+      "time": "Night",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1422",
+        "endUid": "u1581"
+      },
+      "type": "conversation",
+      "locationDetail": "Overlook above the Great Temple",
+      "aiSummary": "Dinner and reflection give way to unnatural silence, a beautiful note, Sculpit's teleportation, and a distant flying shadow.",
+      "time": "Night",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1582",
+        "endUid": "u1713"
+      },
+      "type": "travel",
+      "locationDetail": "Air above the Great Temple",
+      "aiSummary": "The dragonets compare their perceptions and follow a sound and silence toward the Wanderer.",
+      "time": "Night",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1714",
+        "endUid": "u1776"
+      },
+      "type": "travel",
+      "locationDetail": "Approach to the Wanderer's palm",
+      "aiSummary": "A hovering glow draws the party toward the palm, then dims as they approach.",
+      "time": "Night",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1777",
+        "endUid": "u1990"
+      },
+      "type": "exploration",
+      "locationDetail": "The Wanderer's palm",
+      "aiSummary": "The party examines a mysterious egg; embracing it produces light, sacred feelings of home, and a shared consciousness.",
+      "time": "Night",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 15,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1991",
+        "endUid": "u2065"
+      },
+      "type": "exploration",
+      "locationDetail": "Shared vision: burning sky, dying dragonet, and flight home",
+      "aiSummary": "The party experiences a dying purple dragonet, memories of home, and a journey through strange geometry to the island."
+    },
+    {
+      "index": 16,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2066",
+        "endUid": "u2137"
+      },
+      "type": "exploration",
+      "locationDetail": "The Wanderer's palm",
+      "aiSummary": "The party awakens with brief extraordinary abilities; the egg darkens and the Wanderer’s eye lights blue.",
+      "time": "Night",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    }
+  ],
+  "entities": [
+    {
+      "id": "glenda",
+      "kind": "npc",
+      "label": "Glenda the Seagull",
+      "aiSummary": "Little Tony describes his former familiar's romantic attachment and his elaborate efforts to let her down gently.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "glenda-intro"
+      ]
+    },
+    {
+      "id": "horseshoe-crab",
+      "kind": "npc",
+      "label": "Horseshoe Crab",
+      "aiSummary": "Little Tony names his tide-pool contact as part of the network that helps him find unusual things.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "fiddler-shell",
+      "kind": "item",
+      "label": "Giant fiddler crab shell",
+      "aiSummary": "Heska describes his spectacular crab catch and offers its rainbow-patterned shell as decoration for Zeno's future club.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "shell-intro"
+      ]
+    },
+    {
+      "id": "xena",
+      "kind": "npc",
+      "label": "Xena",
+      "aiSummary": "Sculpit's demanding performer and Zeno's clutchmate recruits Heska for an aerial duet and needs Little Tony to find jewelry. She rescues the show after Heska's accident and later kisses him.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "xena-intro",
+        "xena-advisor",
+        "xena-rocks",
+        "xena-duet"
+      ]
+    },
+    {
+      "id": "zare",
+      "kind": "npc",
+      "label": "Zare",
+      "aiSummary": "Zeno's tailor trades a fine set of jewelry for Little Tony's prize pebble Edmund and promises to care for it.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "zare-recognition",
+        "zare-offer",
+        "zare-promise"
+      ]
+    },
+    {
+      "id": "edmund",
+      "kind": "item",
+      "label": "Edmund the pebble",
+      "aiSummary": "Little Tony trades his third-prize butt-shaped pebble to Zare after securing a promise of care. Edmund's narrated perspective frames the exchange as a small but touching moment in his long existence.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "edmund-intro",
+        "edmund-history"
+      ]
+    },
+    {
+      "id": "costume-jewelry",
+      "kind": "item",
+      "label": "Xena's costume jewelry",
+      "aiSummary": "Little Tony converses with Zare’s jewels and selects a coordinated set, including a highlighted ruby, for Xena’s aerial performance.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "jewels-voices",
+        "ruby-intro",
+        "jewels-set"
+      ]
+    },
+    {
+      "id": "eight-communities",
+      "kind": "organization",
+      "label": "Eight dragonet communities",
+      "aiSummary": "The island's eight statue-centered communities gather at the Jubilee, where their elders affirm their unity and honor their clutches.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "one-family"
+      ]
+    },
+    {
+      "id": "brightface-elder",
+      "kind": "npc",
+      "label": "Eldest elder of Brightface",
+      "aiSummary": "The painted Brightface elder leads the eightfold ceremony with a gem-topped staff and the call of eight homes and eight roads.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "elder-intro",
+        "elder-call"
+      ]
+    },
+    {
+      "id": "ceremonial-offerings",
+      "kind": "item",
+      "label": "Eight ceremonial offerings",
+      "aiSummary": "The elders array community-blessed objects, including a feather, fruit, mirror, ring, glass, ancient stone, sprig, and die, at the ceremony's center.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "offerings-intro"
+      ]
+    },
+    {
+      "id": "rosca",
+      "kind": "npc",
+      "label": "Rosca",
+      "aiSummary": "Zeno's friendly archrival challenges the party at the Jubilee and loses the spoken-word contest. He acknowledges Zeno's skill and embraces him.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "rosca-challenge",
+        "rosca-burn",
+        "rosca-concedes"
+      ]
+    },
+    {
+      "id": "rosca-crew",
+      "kind": "organization",
+      "label": "Rosca's crew",
+      "aiSummary": "Rosca’s performance crew supplies a musical setting for his Jubilee showdown with Zeno.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "mysterious-egg",
+      "kind": "item",
+      "label": "Mysterious engraved egg",
+      "aiSummary": "A large egg-like object on the Wanderer’s palm draws the party through sound and silence, responds to affectionate contact, and shares a vision. After their embrace it briefly grants extraordinary abilities before going dark.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "egg-intro",
+        "egg-home",
+        "egg-embrace"
+      ]
+    },
+    {
+      "id": "dying-dragonet",
+      "kind": "npc",
+      "label": "Dying purple dragonet in the vision",
+      "aiSummary": "The party's shared vision enters a mortally wounded purple dragonet beneath a burning sky, then follows a light and memories of home.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "dragonet-intro"
+      ]
+    },
+    {
+      "id": "jade-hand-man",
+      "kind": "npc",
+      "label": "Man with a jade hand in the vision",
+      "aiSummary": "A man with a jade hand appears in the shared vision as a comforting figure associated with scratches and home.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "jade-man-intro"
+      ]
+    }
+  ],
+  "interactions": [
+    {
+      "id": "glenda-story",
+      "entity": "glenda",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Little Tony explains his invented girlfriend and Sculpit's role in managing Glenda's expectations.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0066",
+            "endUid": "u0138"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "glenda-intro",
+          "type": "introduction",
+          "text": "he's a druid, and his former familiar, who is now his ex-familiar, Glenda the Seagull, like, fell in love with him, and he had to convince her.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0066",
+            "endUid": "u0066"
+          }
+        }
+      ]
+    },
+    {
+      "id": "horseshoe-contact",
+      "entity": "horseshoe-crab",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Little Tony mentions Horseshoe Crab as a useful source for unusual finds.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0079",
+            "endUid": "u0083"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "shell-story",
+      "entity": "fiddler-shell",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Heska promises the decorated shell for Zeno's club once the club has a name.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0196",
+            "endUid": "u0206"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "shell-intro",
+          "type": "introduction",
+          "text": "The thing people talk about the most is… a giant fiddler crab, twice the size of any dragonet, with a claw nearly the size of Heska's Like, torso and head. That he brought back and cooked up in a very nice crab boil. But the shell is, like, decorated in this, like, swirling rainbow that looks like crashing waves, and… He keeps promising Zeno, once you finally settle on a name, you can decorate your club with… with the… Giant fiddler crab shell.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0200",
+            "endUid": "u0206"
+          }
+        }
+      ]
+    },
+    {
+      "id": "xena-preparation",
+      "entity": "xena",
+      "scenes": [
+        3,
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party works through Xena's costume demands and crush on Heska to develop and rehearse the duet.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0248",
+            "endUid": "u0709"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "xena-intro",
+          "type": "introduction",
+          "text": "with, Little Tony, who Sculpit has brought by, as a part of this preparation. And Xena is lovely. Xena is such a talent an incredible flyer and acrobat, that's part of why she's so famous, but also an incredible vocalist, which is a very, very rare combination. Often in these dragonet parties and these dragonet sing-offs and these competitions that happen. Usually, it's around one skill, and Xena is a particular talent because she can both, has this incredible body control and dexterity and physical performance, but also can sing.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0259",
+            "endUid": "u0261"
+          }
+        },
+        {
+          "id": "xena-advisor",
+          "type": "color",
+          "text": "I know, I know that you're the advisor, and that I know that the goal here is for me to listen to your advice, but in this situation, it's more like, you're gonna do exactly what I say, and that is we're gonna have Heska be my partner. What do you think about that?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0408",
+            "endUid": "u0409"
+          }
+        },
+        {
+          "id": "xena-rocks",
+          "type": "color",
+          "text": "If little… if little man here shows up with a bunch of rocks. Sculpit, we are gonna have some big fucking problems. If this little man shows up with rocks.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0684",
+            "endUid": "u0686"
+          }
+        },
+        {
+          "id": "xena-duet",
+          "type": "color",
+          "text": "You know what? Normally, I agree that all of the eyes should be on me, but in this particular case, I don't mind. This sounds great.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0650",
+            "endUid": "u0650"
+          }
+        }
+      ]
+    },
+    {
+      "id": "xena-return",
+      "entity": "xena",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party returns with the jewelry, delighting Xena before the ceremony.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0848",
+            "endUid": "u0856"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "xena-performance",
+      "entity": "xena",
+      "scenes": [
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Sculpit inspires Xena and Heska joins her aerial performance, accidentally striking her before she confidently salvages the finale.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0913",
+            "endUid": "u1033"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "xena-launch",
+          "type": "introduction",
+          "text": "23. Okay, so Xena launches up, and Xena now is adorned and bedazzled. She has got emerald earrings, belly ring, like, piercings on her nose, like, puts a claw in the air, like, launches herself up straight in the air, and also trailing behind her. You don't know how or why this is happening, but there's, like, green smoke. There's, like, a rainbow smoke trail, like, almost like she's a jet with a wake, you know, like a rainbow wake behind her. She launches up in the air. And it's, like, doing just incredible swirls and twists. And then, you know, again, who knows exactly how this is happening, if there's an illusionist or whatever, but these artifacts start appearing, like, these different spinning, like, circles that she's, like, flying through, and she is diving, and Sculpit, you are, like, she is killing it. Because right now, all of the various kind of choreographies, and even, like, a couple of things that you didn't quite plan, you know, she was only supposed to do a single loop and ends up doing, like, a double-triple loop around it, but she's, like, feeling it. And you are… you are very, very happy at your pupil right now, that she's… she's really, really nailing it.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0964",
+            "endUid": "u0969"
+          }
+        },
+        {
+          "id": "xena-recovery",
+          "type": "whole",
+          "text": "As y'all are talking, the fog is, like, slowly starting to dissipate. Xena, who's also a pro. She's, like, takes advantage of the fog, like, somehow, and manages, like, to shoot out from the top of the fog, and, like, hovers over it, and… just, like, gives this big, like… even though, like, no… whether it was bad or not, she just acts like she won, like, the greatest competition in Sing-off. In the history of the dragonets. And just, like, you know, shouts and is, like, puts out a victory sign, and her energy around that is, like, positive enough that, like, whatever they people saw, they just kind of remember her confidence at the moment, like, on top of this fog, just, like. I am the greatest. And the dragonets, they still let out a big cheer. There's still, like, a lot of, like, you know, just, like, stoke. The stoke is still incredibly high. And, Heska, you are able to escape. You are able to, like, sneak out. And whether, you know, the lasting image of you, you know, like, unceremoniously, like, whipping Xena in a kind of, you know, obviously, like, failure way. lasts in everybody's minds for how long? We'll see, because everybody did kind of see that, but Xena, at least, with her own kind of sense of pride and her own sense of, like, I gotta rescue this. Is able to at least, you know, kind of restore some calm to the end of the performance.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1026",
+            "endUid": "u1033"
+          }
+        }
+      ]
+    },
+    {
+      "id": "xena-after",
+      "entity": "xena",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Xena finds Heska, teases him about the performance, and kisses his cheek.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1107",
+            "endUid": "u1114"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "xena-cute",
+          "type": "color",
+          "text": "I'm never gonna forgive you for that. But good thing you're still cute.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1110",
+            "endUid": "u1111"
+          }
+        }
+      ]
+    },
+    {
+      "id": "xena-dinner",
+      "entity": "xena",
+      "scenes": [
+        11
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Sculpit admires Xena’s recovery while regretting that he did not coach Heska more closely.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1469",
+            "endUid": "u1478"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "zare-trade",
+      "entity": "zare",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Zeno and Little Tony negotiate with Zare, exchanging Edmund for costume jewelry and a promise of care.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0710",
+            "endUid": "u0847"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "zare-recognition",
+          "type": "color",
+          "text": "You're Little Tony, right? Yeah, man! This is THE Little Tony. Wait! I heard of him, you know? Oh, wait, wait, wait! Do you have… A pebble butt?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0779",
+            "endUid": "u0785"
+          }
+        },
+        {
+          "id": "zare-offer",
+          "type": "color",
+          "text": "You get… 5 of whatever you want here, if I can get this pebble butt.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0811",
+            "endUid": "u0811"
+          }
+        },
+        {
+          "id": "zare-promise",
+          "type": "color",
+          "text": "Edmund? I promise to take care of you.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0823",
+            "endUid": "u0824"
+          }
+        }
+      ]
+    },
+    {
+      "id": "edmund-background",
+      "entity": "edmund",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Little Tony describes the butt-shaped pebble that placed third in the previous year’s competition.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0208",
+            "endUid": "u0216"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Pebble butt"
+    },
+    {
+      "id": "edmund-trade",
+      "entity": "edmund",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Little Tony introduces Edmund and entrusts him to Zare in exchange for jewelry.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0779",
+            "endUid": "u0844"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "edmund-intro",
+          "type": "introduction",
+          "text": "Okay, look, ordinarily, I use this bag of pebbles. This is my everyday bag of pebbles, but for you. I'm gonna bust out the fancy pebble bag. He pulls out another sack, and opens this up, and fishes deeply in it, and pulls out a pebble. Which, like, if we're being honest, it doesn't look that much like a butt, but it kinda looks like a butt. Sort of understand why a person would say that. And he, like, reverently lays it down. Zare's looking at it, and is like, is this the one that won the third place in the competition last year? Yeah, this is Edmund.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0794",
+            "endUid": "u0801"
+          }
+        },
+        {
+          "id": "edmund-history",
+          "type": "whole",
+          "text": "Everything that's unfolded… Like, with Edmund, the butt-shaped pebble, like, all of this is the briefest blink of an eye in, like, a life and epic journey that has gone on for thousands of years. God, like… Ever since he was a portion of a statue crafted by the first inhabitants of Taelgar ages ago. And, like, the things that he's seen, how the world has changed, is just a blink, and like. So for Edmund. You know, this isn't the weighty, momentous occasion it is for Little Tony, but… but there's something touching even to Edmund, after all these centuries, about the care that these two dragonets are bringing, and Edmund feels good about this.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0837",
+            "endUid": "u0843"
+          }
+        }
+      ]
+    },
+    {
+      "id": "edmund-missing",
+      "entity": "edmund",
+      "scenes": [
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Little Tony insists his story with Edmund is not over after Zeno jokes about his loss.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1730",
+            "endUid": "u1734"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "jewelry-selection",
+      "entity": "costume-jewelry",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Little Tony asks the gems to form a team and acquires the chosen jewelry through his trade with Zare.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0729",
+            "endUid": "u0847"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "jewels-voices",
+          "type": "color",
+          "text": "Pick me! Pick me! I'm cute! Pick me!",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0750",
+            "endUid": "u0752"
+          }
+        },
+        {
+          "id": "ruby-intro",
+          "type": "introduction",
+          "text": "And there's, like, a one kind of platter that's got, like, a row of, like, you know, 25 of them, so, like, 3 or 4 per row, and they're all… you feel energetically all of them kind of, like, pointing towards this one, like, beautiful 8-sided ruby that's, like, sitting in the middle, right there. And, like, that one kind of starts pulsing a little bit, and the ones that are around it are, like. We think this is the one.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0760",
+            "endUid": "u0762"
+          }
+        },
+        {
+          "id": "jewels-set",
+          "type": "whole",
+          "text": "And so, Little Tony, you work with, Zeno, and with your incredible communication and connection with, the various artifacts that are part of, Zare's collection, find five immaculate pieces. And Zare actually, in the end, is so grateful, he throws in a couple extra. So, you have… in a legitimate, objective way, at least as verified by Zeno and his taste. a fucking sick set of really cool jewelry. Like, kind of a belly, a belly, bracelet, like a piercing, like, you've got a really cool collection that you are now able to bring back over to, to Zeno and Heska and to Xena.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0845",
+            "endUid": "u0847"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jewelry-return",
+      "entity": "costume-jewelry",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The jewelry is brought back to Xena for her costume.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0848",
+            "endUid": "u0849"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "jewelry-performance",
+      "entity": "costume-jewelry",
+      "scenes": [
+        7
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The jewels adorn Xena and swirl from her costume during the duet.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0964",
+            "endUid": "u1017"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "communities-intro",
+      "entity": "eight-communities",
+      "scenes": [
+        1,
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The opening narration describes the eight communities and their statue homes.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0004",
+            "endUid": "u0027"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "communities-jubilee",
+      "entity": "eight-communities",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party joins their communities in the ceremonial declaration of one family.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0851",
+            "endUid": "u0905"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "one-family",
+          "type": "whole",
+          "text": "and says, 8 homes. 8 roads… And then, you know, kind of looks at everybody, because everybody knows what the call and response answer is going to be. And then everybody lets out this huge yell of one family. And there's a big, big, just kind of cheer, and everybody's, like, you know, hugging each other, and, like, just so fucking stoked to be there, and to be with everyone in this moment of, celebration and unity for this very, very special island.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0898",
+            "endUid": "u0901"
+          }
+        }
+      ]
+    },
+    {
+      "id": "elder-ceremony",
+      "entity": "brightface-elder",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party joins the collective response to the Brightface elder’s ceremonial call.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0887",
+            "endUid": "u0905"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "elder-intro",
+          "type": "introduction",
+          "text": "And the eldest elder From Brightface, steps forward with paint on their face, ceremonial in red and green and blue. And steps forward and has, a small staff with a gem on the top. And looks around at all of the 8 families and all of the 8 communities.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0887",
+            "endUid": "u0890"
+          }
+        },
+        {
+          "id": "elder-call",
+          "type": "color",
+          "text": "and says, 8 homes. 8 roads…",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0898",
+            "endUid": "u0899"
+          }
+        }
+      ]
+    },
+    {
+      "id": "offerings-ceremony",
+      "entity": "ceremonial-offerings",
+      "scenes": [
+        6
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The party watches the blessed objects assembled, and Little Tony recognizes the exceptional age of the stone.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0864",
+            "endUid": "u0897"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "offerings-intro",
+          "type": "introduction",
+          "text": "And as they make their way towards the center, You can see these objects, the feather, the piece of fruit, the polished mirror, an iron ring, a colored glass. A stone? Little Tony, you recognize the stone. This is… and this one, it's interesting, because of your knowledge, is one of the oldest stones that you have felt on this island as being represented here. A living sprig, a die. Much like Heska, you know how you were playing with the dice earlier, there's a, there's a die that's, brought in.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0881",
+            "endUid": "u0886"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rosca-battle",
+      "entity": "rosca",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Zeno wins both rounds against Rosca, whose elaborate props survive Heska’s attempted interference before he concedes warmly.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1121",
+            "endUid": "u1381"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "rosca-challenge",
+          "type": "color",
+          "text": "I see you, Zeno. Where are you, Zeno? Bring it, my friend. Zeno, I've been waiting all year for this call and response battle with you. And now… You are going down. And he looks at the whole crew, and your whole crew is all going down. Are they all part of this, too?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1155",
+            "endUid": "u1160"
+          }
+        },
+        {
+          "id": "rosca-burn",
+          "type": "color",
+          "text": "So Rosca's like, Zeno, gonna burn you to the ground! You're lost and found! You're like a little mound! Of dirt! That I walk on! And I jump on! And I piss on! Because you're dirt! And I'm Rosca! And I'm the best!",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1289",
+            "endUid": "u1296"
+          }
+        },
+        {
+          "id": "rosca-concedes",
+          "type": "whole",
+          "text": "like, everybody, like, erupts, and, like, Rosca… Rosca just, like, looks at you, and he's like… he gets down on a knee, and he's like… He's just like, game recognizes game, that's it. He's like, I'm done. And then, like, Rosca, like, comes over and gives you, like, a big hug, and he's like, dude, you killed that. That was crazy. That was crazy. And everybody is just like…",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1374",
+            "endUid": "u1376"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rosca-reflection",
+      "entity": "rosca",
+      "scenes": [
+        11
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Zeno anticipates Rosca’s motivated return next year while the friends discuss their new crew.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1494",
+            "endUid": "u1504"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "crew-showdown",
+      "entity": "rosca-crew",
+      "scenes": [
+        9
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The party encounters Rosca and his crew at the call-and-response circle.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1124",
+            "endUid": "u1205"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "egg-approach",
+      "entity": "mysterious-egg",
+      "scenes": [
+        13
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The party approaches a hovering glow that dims as Little Tony’s ordinary hearing returns and Zeno’s note ceases.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1714",
+            "endUid": "u1776"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Glowing object"
+    },
+    {
+      "id": "egg-contact",
+      "entity": "mysterious-egg",
+      "scenes": [
+        14,
+        15,
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party investigates and embraces the egg, experiences a shared vision of home, and awakens with briefly heightened gifts.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1777",
+            "endUid": "u2133"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "egg-intro",
+          "type": "introduction",
+          "text": "As you land on the palm, You're looking at what looks like a huge egg. It's, it's like a… it's like a giant, like, yeah. It looks like, like, you know, again, the palm is dark, the whole area around here, you know, you're up super, super high up, and it's dark and windy. But the egg, it's like a larger oval, and there's these engravings in it as well, but everything is still, like, dark right now. Like, it's no longer lit, like what you saw from before, but it looks like there are these different etchings that are forming these, like, really interesting patterns, like, all around the outside of this egg. But it's silent.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1777",
+            "endUid": "u1780"
+          }
+        },
+        {
+          "id": "egg-home",
+          "type": "whole",
+          "text": "And as you talk to the egg, and, you know, kind of say, like, hey, you know, what's your deal, da-da-da-da. You hear a word in your mind that captures to you At the tip of your tongue, like. this feeling. That had been… been missing, that you've been trying to kind of find this whole time? And… The word that comes into your mind is home.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1882",
+            "endUid": "u1887"
+          }
+        },
+        {
+          "id": "egg-embrace",
+          "type": "whole",
+          "text": "As you all hug the egg. The patterns on the egg begin to glow, and all of you experience, again, this… it's hard to describe it other than, like, the most sacred experience you've ever had in your lives. Like, this is, like, this is, like, a very, very powerful, sacred moment. And as you touch it, the egg… begins to… Whoa. glow. And light up. And these 8 points of light start to appear across the egg. As all of you are touching it, Holding it. And just feeling this deep, deep sense of being moved. By. This embrace of each other, but then also the embrace of the egg. And as you touch it, and as it lights up. you feel also, in some weird way, that your consciousness is merging together. Like, you're hugging it as kind of, like, four distinct entities, but the longer you hug it, the more that it feels like you're actually just one entity.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1971",
+            "endUid": "u1984"
+          }
+        }
+      ]
+    },
+    {
+      "id": "dragonet-vision",
+      "entity": "dying-dragonet",
+      "scenes": [
+        15
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "aiSummary": "The party experiences the dying dragonet’s perspective as a bright light arrives and transforms the vision.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1991",
+            "endUid": "u2065"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "dragonet-intro",
+          "type": "introduction",
+          "text": "You realize that, lying on the ground, There's a dragonet there. And the dragonet. is… broken. is… Wounded severely. And it's a… it's a purple dragonet. It's an older one. You've never seen this one before, huh But it's got some, you know, silvery fur, and it's got some… Amethyst-looking skin and scales. But one of its wings is folded back on itself. broken. And it's lying in a pool of blood. Deep, deep, dark blood. And as you get closer to this dragonet, You realize it's dying. And not only is it dying, it's, like, gonna die. Very, very soon, that these are his last breaths.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2010",
+            "endUid": "u2024"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jade-man-vision",
+      "entity": "jade-hand-man",
+      "scenes": [
+        15
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The vision includes remembered affection from a man with a jade hand.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2043",
+            "endUid": "u2048"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "jade-man-intro",
+          "type": "introduction",
+          "text": "And it's images of… A man with a jade hand, and you're feeling like getting yourself getting scratched on the chin, oh, you fucking love this, getting scratched on the chin so much, this is, like, the best shit ever. You feel yourself getting scratched on the belly. You're like, oh, this is the, like, the best shit ever. And you see other figures, too. Other friends, other beings that you've called family, and have felt the sensation of home.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2045",
+            "endUid": "u2048"
+          }
+        }
+      ]
+    }
+  ],
+  "review": {
+    "confidence": "low",
+    "status": "automatedReviewed"
+  },
+  "sceneReview": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  }
+}

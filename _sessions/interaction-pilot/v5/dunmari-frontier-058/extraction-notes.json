@@ -1,0 +1,103 @@
+{
+  "executionMethod": "Agent semantic extraction after complete sequential transcript read; helper used only to serialize authored decisions and copy exact source quotations.",
+  "agent": "du058",
+  "completeReadCoverage": {
+    "utterances": 3074,
+    "range": [
+      "u0001",
+      "u3074"
+    ],
+    "boundedChunks": [
+      [
+        "u0001",
+        "u0410"
+      ],
+      [
+        "u0411",
+        "u0800"
+      ],
+      [
+        "u0801",
+        "u1200"
+      ],
+      [
+        "u1201",
+        "u1600"
+      ],
+      [
+        "u1601",
+        "u2000"
+      ],
+      [
+        "u2001",
+        "u2400"
+      ],
+      [
+        "u2401",
+        "u2800"
+      ],
+      [
+        "u2801",
+        "u3074"
+      ]
+    ]
+  },
+  "excludedRanges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0067",
+      "reason": "Previous-session oral recap and PC introductions; introductions were read and used to verify actual attendance, not represented as newly played encounters."
+    },
+    {
+      "startUid": "u1609",
+      "endUid": "u1637",
+      "reason": "Break, Zoom interface discussion, and map-art generation discussion."
+    },
+    {
+      "startUid": "u3074",
+      "endUid": "u3074",
+      "reason": "Closing thanks after the explicit end of the adventure."
+    }
+  ],
+  "coverage": {
+    "sceneUtterances": 2977,
+    "excludedUtterances": 97,
+    "unexplainedUtterances": 0,
+    "scenes": 18,
+    "entities": 15,
+    "interactions": 38
+  },
+  "metadataEvidence": {
+    "campaign": "Registry resolves Dunmari Frontier alias to dufr.",
+    "attendance": "Riswynn u0034-u0046, Rothfis u0047-u0048, Thror u0049-u0058, Merash u0059-u0067 introduce themselves and all four act throughout both combats and the farewells.",
+    "realWorldDate": "2022-09-26 from the prepared session manifest and recording filename.",
+    "dateStart": "1748-08-25 retained only as a provisional manifest anchor; no calendar date is spoken in the transcript.",
+    "dateEnd": "Set null: the manifest's 1748-11-15 is unsupported by the recorded play; u2962-u3073 shows emergence and immediate farewells, without a calendar date or an autumn journey.",
+    "locations": "Morkalan explicitly frames the adventure and all shadow scenes; Muddy River is the domain's crossed river; the real stoneborn statue north of Tokra is explicitly recognized as Dunmar at u2971-u2979.",
+    "locationRestraint": "Bleakhold itself is not listed as visited: u0565-u0568 stops short of its guards; the real Stoneborn Statue Dungeon is used only for the final emergence beside the actual statue, never for its shadow fortress counterpart. No Chardon, Tharn Todor, Ardith, or Tokra town visit is inferred."
+  },
+  "uncertainties": [
+    "Aggregate in-world date confidence remains medium because no explicit calendar date verifies either manifest anchor and Shadowfell time is expressly unclear at u1644-u1649.",
+    "Magerson at u0264 is a probable transcript rendering of Odim Mavdyrson: the canonical public identity is the fire giant son who attacked Hagrim and Nora's refugee expedition; entity and interaction remain medium confidence.",
+    "Del Firebrand / the mad priest resolves to Delig Firebrand through the public identity paragraph naming Hagrim's memory-impaired cousin trapped in Morkalan; knownAs preserves Del.",
+    "The return tokens are described as personalized slivers at u0433-u0443; the final departures are explicitly offered as the return option but the exact token forms and gestures differ and remain unspecified.",
+    "No distinct speaker identity is assigned to the faint question from the chalice at u2945-u2950; it remains part of the chalice encounter, with no invented god match."
+  ],
+  "choices": [
+    "Nora's full conversation includes the party's route debate and Tak's interjections; Del's whole visit spans conversation and the short rest rather than fragmenting topic shifts.",
+    "Tak's guidance and escort form one interaction across three scenes; Hagrim's brief confrontation and the ensuing combat are separate interactions at a combat boundary.",
+    "Memory spirits form one distinctive collective entity because their shapes are recognizable manifestations around Hagrim's fortress; individual beer, bell, warrior, and waterfall spirits are not separate cards.",
+    "Generic spirit troll, skeletal swarm, wraith commanders, specters, guards, crowds of refugees, hypothetical mind flayers, and unnamed historical mages are omitted as entity cards; their played scenes are fully covered.",
+    "Routine healing potions, mundane hand axes, ale, and unused gaseous-form potion are omitted; the two transformative potions, named magical weapons, flying boots, return tokens, and central chalice receive item cards.",
+    "Only eligible NPC/item/organization entities are represented; gods collectively, locations, species, and the campaign PCs do not become cards.",
+    "All review statuses remain unreviewed; mechanical validation did not promote them."
+  ],
+  "sourceDiscipline": {
+    "beatsRead": false,
+    "beatFactsRead": false,
+    "authoredRecapsRead": false,
+    "vaultUsedFor": "Name/identity and place matching only.",
+    "noteOnlyMaterialExcluded": "Public reference notes contained later history, exact-date claims, lint proposals, and embedded nonpublic planning comments; none supplied events, presence, quotes, or dates to this draft. No private DM file or SECRET payload was opened."
+  },
+  "validation": "v5 validator passes: 3074 source utterances, 2977 assigned, 97 explained exclusions; metadataReady false; all 15 entities provisional."
+}

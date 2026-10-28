@@ -1,0 +1,60 @@
+{
+  "method": "Separate extraction and independent source-based semantic review, followed by one bounded context recheck; no narrative claim changed.",
+  "extractionAgent": "du058",
+  "reviewAgent": "dragonets",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 3074,
+  "sourceCoverage": {
+    "excludedRanges": [
+      {
+        "startUid": "u0001",
+        "endUid": "u0067",
+        "reason": "Previous-session oral recap and PC introductions; introductions were read and used to verify actual attendance, not represented as newly played encounters."
+      },
+      {
+        "startUid": "u1609",
+        "endUid": "u1637",
+        "reason": "Break, Zoom interface discussion, and map-art generation discussion."
+      },
+      {
+        "startUid": "u3074",
+        "endUid": "u3074",
+        "reason": "Closing thanks after the explicit end of the adventure."
+      }
+    ],
+    "unassignedPlayedRanges": []
+  },
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 3074,
+    "sceneUtterances": 2977,
+    "unassignedUtterances": 97,
+    "metadataReady": false,
+    "readyEntities": 14,
+    "provisionalEntities": 1
+  },
+  "reviewScope": {
+    "critical": "All aggregate attendance/locations/date claims and every entity inclusion, identity and link checked independently.",
+    "sceneCollection": "Entire transcript independently read in bounded windows; all transitions and exclusions assessed.",
+    "interactions": "Nora’s whole conversation, Del’s whole visit, Hagrim’s combat, and chalice redemption reviewed individually; other interactions retain unreviewed status.",
+    "sourceWindows": "u0001-u3074, fully read; review also inspected every summary and quote against the source context.",
+    "omissionSampling": "Independently examined scouting, troll combat, rest item mechanics, fortress tactics and blocked-door plans: unused gaseous-form potion, unnamed routine sorcery item and generic enemies appropriately excluded.",
+    "referenceLimits": "Matched vault pages were used for identities and places; later history, lint proposals and embedded planning were not used to add events or precise dates. No beats or recap files consulted."
+  },
+  "issues": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Provisional 1748-08-25 start is manifest-only; elapsed time is unclear and no source calendar date supports an end."
+    },
+    {
+      "target": "entity:magerson",
+      "confidence": "medium",
+      "reason": "Magerson probably refers to Odim Mavdyrson, but exact name/alias is unconfirmed."
+    }
+  ],
+  "corrections": [
+    "No source-supported claim change required; session dates and Magerson link remained medium after a bounded contextual recheck."
+  ]
+}

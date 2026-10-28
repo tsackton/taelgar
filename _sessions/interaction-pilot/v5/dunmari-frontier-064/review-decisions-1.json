@@ -1,0 +1,218 @@
+{
+  "reviewer": "du058-independent-semantic-review-du064-correction",
+  "inputDigest": "f7d33ba27ea9f41b804a5a9ac9881feed61d17a95d606d5d0367fbc70557c4de",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Full contextual reread confirms the attendance, identities, locations, and passage of days; no spoken calendar date independently fixes the manifest’s November 6–13 span, which remains provisional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0051",
+          "endUid": "u0096"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2228",
+          "endUid": "u2235"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2254",
+          "endUid": "u2279"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Removed unsupported precise dates from each scene and retained the explicit days-long training indication; full-source review supports the movement, time, combat, and encounter boundaries.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0186",
+          "endUid": "u0197"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0684",
+          "endUid": "u0715"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1085",
+          "endUid": "u1225"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1332",
+          "endUid": "u1403"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2003",
+          "endUid": "u2015"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2192",
+          "endUid": "u2235"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2275",
+          "endUid": "u2280"
+        }
+      ]
+    },
+    {
+      "target": "entity:enari",
+      "confidence": "high",
+      "reason": "Removed the unqualified return-to-village claim; the remaining account is explicitly supported by Enari’s healing, rescue, and defense of the party.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0101",
+          "endUid": "u0109"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1150",
+          "endUid": "u1158"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1525",
+          "endUid": "u1527"
+        },
+        {
+          "vaultPath": "People/Lizardfolk/Enari.md"
+        }
+      ]
+    },
+    {
+      "target": "interaction:enari-guide",
+      "confidence": "high",
+      "reason": "Narrowed enari-help to u0107, spoken by Enari alone; the guided journey and rescue remain one continuous interaction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0101",
+          "endUid": "u0109"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1150",
+          "endUid": "u1158"
+        }
+      ]
+    },
+    {
+      "target": "interaction:tree-talk",
+      "confidence": "high",
+      "reason": "Trimmed tree-voice to u0501-u0502 and tree-spirits to u0587-u0588, removing Kenzo’s interjections while preserving exact NPC speech and the whole conversation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0498",
+          "endUid": "u0513"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0584",
+          "endUid": "u0601"
+        }
+      ]
+    },
+    {
+      "target": "interaction:enari-depart",
+      "confidence": "high",
+      "reason": "Limited this record to the explicit thanksgiving presence at u2185-u2188; the damaged later departure is no longer asserted as an event.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2181",
+          "endUid": "u2191"
+        }
+      ]
+    },
+    {
+      "target": "entity:apollyon",
+      "confidence": "high",
+      "reason": "The original extraction omitted this explicit named reference; Apollyon is mentioned as a rejected identification and never observed here.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1955",
+          "endUid": "u1960"
+        },
+        {
+          "vaultPath": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+        }
+      ]
+    },
+    {
+      "target": "interaction:apollyon-mention",
+      "confidence": "high",
+      "reason": "The original extraction omitted this explicit named reference; Apollyon is mentioned as a rejected identification and never observed here.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1955",
+          "endUid": "u1960"
+        }
+      ]
+    },
+    {
+      "target": "entity:bhishma",
+      "confidence": "high",
+      "reason": "The original extraction omitted this explicit named deity reference in Kenzo’s self-identification; only a cameo mention is represented.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1422",
+          "endUid": "u1425"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+        }
+      ]
+    },
+    {
+      "target": "interaction:bhishma-mention",
+      "confidence": "high",
+      "reason": "The original extraction omitted this explicit named deity reference in Kenzo’s self-identification; only a cameo mention is represented.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1422",
+          "endUid": "u1425"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "method": "Sequential root extraction and evidence-based review, followed by an independent targeted read-only audit by fey001.",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 1848,
+  "excludedRanges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0004",
+      "reason": "Opening recording chatter"
+    }
+  ],
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 1848,
+    "sceneUtterances": 1844,
+    "unassignedUtterances": 4,
+    "metadataReady": false,
+    "readyEntities": 15,
+    "provisionalEntities": 3
+  },
+  "issues": [
+    "Exact session closing date unresolved; manifest end is not supported by played timing.",
+    "Hutsu vine eligibility, collective jade item identity, and divine collective organization type remain provisional.",
+    "Independent audit records minor wording/quote-framing issues and one uncertain omitted name; these remain visible review observations after the one correction round."
+  ],
+  "selectionNotes": [
+    "Generic dinosaurs, anonymous villagers, routine consumables and abstract ki categories omitted.",
+    "Absent Dunmar player characters are not NPC records; Rai is a historical PC from another campaign who functions as an NPC here.",
+    "Named gods are represented through their sensed echoes; review whether this level of coverage is useful.",
+    "The Tharzen divine collective is deliberately flagged for model feedback."
+  ],
+  "independentAudit": "independent-audit.json",
+  "extractionAgent": "root",
+  "reviewAgent": "root (separate sequential pass)"
+}

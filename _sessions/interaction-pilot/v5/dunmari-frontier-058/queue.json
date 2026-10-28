@@ -1,0 +1,19 @@
+[
+  {
+    "target": "session",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "Context recheck confirms the manifest’s August 25 anchor but supplies no spoken date for it or the ending. The transcript expressly disclaims reliable elapsed shadow time and ends at immediate farewells; later canonical travel/date accounts cannot substitute for this source. Retain provisional start and null end for human reconciliation."
+  },
+  {
+    "target": "entity:magerson",
+    "label": "Magerson",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "Rechecked the exact Nora passage against both Odim Mavdyrson’s identity and Hagrim’s public account: the father, place, attackers and betrayal strongly match, but Magerson still lacks an explicit alias to the canonical spelling. Keep the positive match visibly provisional instead of normalizing away the uncertainty."
+  }
+]

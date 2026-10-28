@@ -1,0 +1,1427 @@
+{
+  "reviewer": "du058-independent-semantic-review-chasm004",
+  "inputDigest": "e270524c715b96e7cb69339562311fc65c264393ff7851d53a40d07887c20d68",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "All five manifest PCs act in the transcript, and the visited domain, Melusa village, and real Great Chasm are identifiable. Four material-plane days elapsed since the labyrinth entry, but no absolute date verifies the January 26–29 manifest anchors.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0027",
+          "endUid": "u0034"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0054",
+          "endUid": "u0074"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0162",
+          "endUid": "u0174"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0224",
+          "endUid": "u0229"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1452",
+          "endUid": "u1455"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1746"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1951",
+          "endUid": "u1972"
+        },
+        {
+          "vaultPath": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "medium",
+      "reason": "The division follows sleep, morning discussion, village movement, uninterrupted Iskander and Malquin conversations, and distinct platform visits; only the precise January 29 dates on the final scenes exceed the spoken chronology.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0224",
+          "endUid": "u0239"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0510",
+          "endUid": "u0528"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0643",
+          "endUid": "u0668"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1031",
+          "endUid": "u1105"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1239",
+          "endUid": "u1280"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1640",
+          "endUid": "u1651"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1746"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1868",
+          "endUid": "u1876"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1972"
+        }
+      ]
+    },
+    {
+      "target": "entity:nura",
+      "confidence": "high",
+      "reason": "The named mother and host is explicitly present after the rest, describes remembering souls, and names sources of information; the canonical family identity matches.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0232",
+          "endUid": "u0345"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0354",
+          "endUid": "u0378"
+        },
+        {
+          "vaultPath": "People/Zimkovans/Nura.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:khaled",
+      "confidence": "high",
+      "reason": "Khaled is explicitly named with Nura as host and father; taking the baby aside and comforting Nura are supported despite minor name ASR variants.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0232",
+          "endUid": "u0239"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0268",
+          "endUid": "u0274"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0334",
+          "endUid": "u0336"
+        },
+        {
+          "vaultPath": "People/Zimkovans/Khaled.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:samir",
+      "confidence": "high",
+      "reason": "The infant is explicitly addressed, observed awake, and named in Nura’s lament; separating Samir from the self-identifying older soul avoids merging two identities.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0133",
+          "endUid": "u0136"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0269"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0315",
+          "endUid": "u0334"
+        },
+        {
+          "vaultPath": "People/Zimkovans/Samir.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:taquin",
+      "confidence": "high",
+      "reason": "The voice identifies itself as Taquin after a separate past-life memory and calls Zahara its child; the canonical note matches this identity without replacing the infant.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0287",
+          "endUid": "u0305"
+        },
+        {
+          "vaultPath": "People/Zimkovans/Taquin.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:kalima",
+      "confidence": "high",
+      "reason": "Jrain directly observes Kalima leaving with an escort and Iskander later reports her hiding place; the named relative from the host family matches the page.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0122",
+          "endUid": "u0164"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0811",
+          "endUid": "u0821"
+        },
+        {
+          "vaultPath": "People/Sembarans/Kalima.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:zahara",
+      "confidence": "high",
+      "reason": "Although the nighttime figure is initially unknown, Taquin names Zahara and the DM explicitly confirms at u0360-u0361 that this was Kalima’s escort; Iskander names the same dissident leader.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0140",
+          "endUid": "u0164"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0260",
+          "endUid": "u0267"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0293",
+          "endUid": "u0305"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0357",
+          "endUid": "u0361"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0818",
+          "endUid": "u0837"
+        },
+        {
+          "vaultPath": "People/Zimkovans/Zahara.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:iskander",
+      "confidence": "high",
+      "reason": "The older balding man names himself Iskander and conducts the full dissident conversation; his description and role match the canonical page.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0643",
+          "endUid": "u0684"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0838",
+          "endUid": "u0849"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1017",
+          "endUid": "u1036"
+        },
+        {
+          "vaultPath": "People/Zimkovans/Iskander.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:malquin",
+      "confidence": "high",
+      "reason": "Malquin the Vaqar explicitly identifies himself, and the vault’s documented aliases resolve him to Forquarion; all shifts in voice remain the same encounter without invented possession.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0364",
+          "endUid": "u0368"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1280",
+          "endUid": "u1310"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1412",
+          "endUid": "u1425"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1505",
+          "endUid": "u1634"
+        },
+        {
+          "vaultPath": "People/Extraplanar Powers/Forquarion.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:wolf",
+      "confidence": "high",
+      "reason": "This singular forty-foot guardian blocks a specific portal, reacts to Eolo, and is later used as a rope anchor; it merits an individualized NPC card without a separate item duplicate.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0514",
+          "endUid": "u0578"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1177",
+          "endUid": "u1193"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1644",
+          "endUid": "u1651"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1695",
+          "endUid": "u1711"
+        }
+      ]
+    },
+    {
+      "target": "entity:eidrikas",
+      "confidence": "high",
+      "reason": "The mentor is named during expedition recollection, explicitly recognized through clairvoyance, and directly addresses Ekko; the public page matches the mentor and mystic identity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0940",
+          "endUid": "u0951"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1842",
+          "endUid": "u1876"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1877",
+          "endUid": "u1935"
+        },
+        {
+          "vaultPath": "People/Sembarans/Eidrikas.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:pakrinek",
+      "confidence": "high",
+      "reason": "Pakrinek is explicitly named as the Kemeko warrior and later reported killed by the orcs; no present survival or new meeting is inferred.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0940",
+          "endUid": "u0951"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1892",
+          "endUid": "u1904"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1922",
+          "endUid": "u1926"
+        },
+        {
+          "vaultPath": "People/Sembarans/Pakrinek.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:sama",
+      "confidence": "high",
+      "reason": "Nura explicitly names Sama among the elders at u0320, a clear named reference despite no secure matching page; absent vault linkage does not make inclusion uncertain.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0318",
+          "endUid": "u0339"
+        }
+      ]
+    },
+    {
+      "target": "entity:aram",
+      "confidence": "high",
+      "reason": "Nura explicitly names Aram as one of the village elders; the unrelated Dunmari Aram is correctly not linked, and this unresolved page match does not undermine the local identity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0318",
+          "endUid": "u0339"
+        }
+      ]
+    },
+    {
+      "target": "entity:zeyfa",
+      "confidence": "high",
+      "reason": "Zeyfa is discussed as the West Wind whose traditional appeasement differs from the villagers’ account of Malquin; the source treats this as belief, not a direct divine appearance.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0415",
+          "endUid": "u0461"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0675",
+          "endUid": "u0714"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Kestavo/Zeyfa.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:melua",
+      "confidence": "high",
+      "reason": "Finnan explicitly names Melua in a remembered ancient waterfall story; the deity reference page matches the name and waterfall identity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0349",
+          "endUid": "u0353"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Kestavo/Melua.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:dissidents",
+      "confidence": "high",
+      "reason": "Iskander speaks for a named-by-association circle of seven trusted escape-seekers and accepts a warning for them; it is not equated with every villager.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0838",
+          "endUid": "u0849"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0875",
+          "endUid": "u0880"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1015",
+          "endUid": "u1036"
+        }
+      ]
+    },
+    {
+      "target": "entity:vejo",
+      "confidence": "high",
+      "reason": "The Vejo Vaikai are explicitly identified as Eidrikas’s worried order sponsoring the investigation; the reference is an organizational mention.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0940",
+          "endUid": "u0951"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0990",
+          "endUid": "u1002"
+        },
+        {
+          "vaultPath": "Groups/Vejo Vaikai.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:kemeko",
+      "confidence": "high",
+      "reason": "Pakrinek is explicitly identified as a Kemeko warrior/monk; the monastery page serves the institution rather than implying a physical visit.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0940",
+          "endUid": "u0944"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1000",
+          "endUid": "u1002"
+        },
+        {
+          "vaultPath": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:ring",
+      "confidence": "high",
+      "reason": "Finnan explicitly spends all five charges of his divination ring to obtain true facts; the final correction of time direction is preserved in the summary.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0379",
+          "endUid": "u0406"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0469",
+          "endUid": "u0490"
+        }
+      ]
+    },
+    {
+      "target": "entity:head",
+      "confidence": "high",
+      "reason": "The party verifies and later presents the carried severed head, which has a strong effect on Malquin; it is distinct from inventing a new encounter with the previously killed beast.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0407",
+          "endUid": "u0414"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1361",
+          "endUid": "u1378"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1499",
+          "endUid": "u1499"
+        }
+      ]
+    },
+    {
+      "target": "entity:book",
+      "confidence": "high",
+      "reason": "Finnan physically produces his collected tales and uses them in the argument over Kestavo identity, making this a consequential document.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0745",
+          "endUid": "u0761"
+        }
+      ]
+    },
+    {
+      "target": "entity:quiver",
+      "confidence": "high",
+      "reason": "Eolo’s named magical quiver accepts material to create related arrows after a rest, and the metal is explicitly placed inside; no resulting new arrows are claimed as already available.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1116",
+          "endUid": "u1146"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1170",
+          "endUid": "u1173"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1194",
+          "endUid": "u1197"
+        }
+      ]
+    },
+    {
+      "target": "entity:metal",
+      "confidence": "high",
+      "reason": "Eolo chooses damage to retrieve the distinctive sharp multicolored shard and places it in the quiver; the material is not assigned an invented planar or metal name.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1147",
+          "endUid": "u1173"
+        }
+      ]
+    },
+    {
+      "target": "entity:necklace",
+      "confidence": "high",
+      "reason": "Malquin physically transfers the necklace to Finnan; surrounding moonlight/stars and later explicit nightfall planning resolve ASR knight to night without modifying quoted text.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1505",
+          "endUid": "u1544"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1627",
+          "endUid": "u1629"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1793",
+          "endUid": "u1803"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1975",
+          "endUid": "u1978"
+        }
+      ]
+    },
+    {
+      "target": "entity:ice-sword",
+      "confidence": "high",
+      "reason": "Malquin repeatedly manifests, plants, and recalls a specific sword of ice during the audience, observed by the party rather than used by them.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1488",
+          "endUid": "u1496"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1516",
+          "endUid": "u1521"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1617",
+          "endUid": "u1621"
+        }
+      ]
+    },
+    {
+      "target": "entity:platform",
+      "confidence": "high",
+      "reason": "A particular inert carved floating stone is pushed to the portal for the party; it is kept separate from the much larger powered damaged platform below.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1748",
+          "endUid": "u1788"
+        }
+      ]
+    },
+    {
+      "target": "entity:mechanism",
+      "confidence": "high",
+      "reason": "The damaged powered stone mechanism is first observed remotely and then inspected by Ekko; Eidrikas’s stated stabilizing purpose is accurately attributed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1753",
+          "endUid": "u1759"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1811",
+          "endUid": "u1859"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1877",
+          "endUid": "u1891"
+        }
+      ]
+    },
+    {
+      "target": "entity:missing-piece",
+      "confidence": "high",
+      "reason": "Eidrikas expressly says orcs fled with a large stone block needed for repair; the sought piece is correctly distinct from the mechanism already observed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1892",
+          "endUid": "u1914"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1926",
+          "endUid": "u1934"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1940",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "interaction:nura-night",
+      "confidence": "high",
+      "reason": "The parents are explicitly asleep during the watch, so passive presence is supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0027",
+          "endUid": "u0227"
+        }
+      ]
+    },
+    {
+      "target": "interaction:nura-morning",
+      "confidence": "high",
+      "reason": "The uninterrupted morning conversation covers Samir, remembered souls, hope, and sources of knowledge; her selected color quotations are her own speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0228",
+          "endUid": "u0509"
+        }
+      ]
+    },
+    {
+      "target": "interaction:khaled-night",
+      "confidence": "high",
+      "reason": "The sleeping parents establish Khaled’s passive presence during the watch.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0027",
+          "endUid": "u0227"
+        }
+      ]
+    },
+    {
+      "target": "interaction:khaled-morning",
+      "confidence": "high",
+      "reason": "The father takes the infant aside during the same morning exchange, with source wording and family context resolving name variants.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0228",
+          "endUid": "u0378"
+        }
+      ]
+    },
+    {
+      "target": "interaction:samir-night",
+      "confidence": "high",
+      "reason": "The DM specifically describes the infant awake and staring while the parents sleep.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0133",
+          "endUid": "u0180"
+        }
+      ]
+    },
+    {
+      "target": "interaction:samir-morning",
+      "confidence": "high",
+      "reason": "Finnan directly contacts the infant; the quotation is introduction rather than attributing Taquin’s voice as Samir’s color.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0345"
+        }
+      ]
+    },
+    {
+      "target": "interaction:taquin-talk",
+      "confidence": "high",
+      "reason": "The remembered soul directly responds to Finnan and states Taquin at u0302; the whole quote may include narration and Finnan’s question.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0305"
+        }
+      ]
+    },
+    {
+      "target": "interaction:kalima-departure",
+      "confidence": "high",
+      "reason": "Jrain observes Kalima depart without confronting her; observed is accurate.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0062",
+          "endUid": "u0174"
+        }
+      ]
+    },
+    {
+      "target": "interaction:kalima-morning",
+      "confidence": "high",
+      "reason": "The hosts and infant discuss the absent Kalima and her escort.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0378"
+        }
+      ]
+    },
+    {
+      "target": "interaction:kalima-hidden",
+      "confidence": "high",
+      "reason": "Iskander reports her hiding place; the party does not visit it.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0811",
+          "endUid": "u0837"
+        }
+      ]
+    },
+    {
+      "target": "interaction:zahara-seen",
+      "confidence": "high",
+      "reason": "The unidentified escort seen at night is explicitly identified by Taquin and the DM later, supporting the identity while knownAs preserves the initial uncertainty.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0140",
+          "endUid": "u0174"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0260",
+          "endUid": "u0267"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0357",
+          "endUid": "u0361"
+        }
+      ]
+    },
+    {
+      "target": "interaction:zahara-family",
+      "confidence": "high",
+      "reason": "The soul’s memory and the DM’s confirmation identify Zahara’s family relationship and escort role without a direct morning encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0249",
+          "endUid": "u0378"
+        }
+      ]
+    },
+    {
+      "target": "interaction:zahara-plans",
+      "confidence": "high",
+      "reason": "Iskander discusses the absent leader and accepts a message, not a direct meeting with Zahara.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0811",
+          "endUid": "u1036"
+        }
+      ]
+    },
+    {
+      "target": "interaction:iskander-talk",
+      "confidence": "low",
+      "reason": "The whole conversation is correctly retained, but iskander-prison includes Ekko and Jrain interjections at u0678-u0679; iskander-exit begins with narrator setup.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0643",
+          "endUid": "u1036"
+        }
+      ]
+    },
+    {
+      "target": "interaction:malquin-morning",
+      "confidence": "high",
+      "reason": "Nura’s comments and the divination reveal facts about the absent ruler.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0274",
+          "endUid": "u0509"
+        }
+      ]
+    },
+    {
+      "target": "interaction:malquin-iskander",
+      "confidence": "high",
+      "reason": "Iskander describes Malquin without him being present.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0698",
+          "endUid": "u1019"
+        }
+      ]
+    },
+    {
+      "target": "interaction:malquin-audience",
+      "confidence": "low",
+      "reason": "The complete audience is one conversation through shifts of voice and teleportation; however malquin-stars includes Justas’s repeated Moonlight at u1508.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1264",
+          "endUid": "u1639"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wolf-seen",
+      "confidence": "high",
+      "reason": "The party sees the singular guardian at the portal without engaging it during this village crossing.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0514",
+          "endUid": "u0578"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wolf-discussed",
+      "confidence": "high",
+      "reason": "Escape attempts and plans are discussed with Iskander away from the guardian.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0781",
+          "endUid": "u0987"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wolf-eolo",
+      "confidence": "medium",
+      "reason": "The wolf turns and opens its eyes, but Eolo also directly waves at it and tests disbelief; interacted is more precise than observed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1177",
+          "endUid": "u1193"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wolf-passage",
+      "confidence": "high",
+      "reason": "Finnan approaches and circles the wolf and Justas ties a rope around its leg, establishing direct action.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1644",
+          "endUid": "u1734"
+        }
+      ]
+    },
+    {
+      "target": "interaction:eidrikas-missing",
+      "confidence": "high",
+      "reason": "The earlier expedition and missing mentor are recalled while still in the demiplane.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0930",
+          "endUid": "u1005"
+        }
+      ]
+    },
+    {
+      "target": "interaction:eidrikas-seen",
+      "confidence": "high",
+      "reason": "The first sight is through Finnan’s clairvoyance and the mentor is explicitly recognized; no direct exchange occurs until Ekko descends.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1811",
+          "endUid": "u1867"
+        }
+      ]
+    },
+    {
+      "target": "interaction:eidrikas-reunion",
+      "confidence": "high",
+      "reason": "Ekko physically reaches Eidrikas and receives a continuous account and request; the selected color quotes are Eidrikas’s speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1868",
+          "endUid": "u1935"
+        }
+      ]
+    },
+    {
+      "target": "interaction:eidrikas-report",
+      "confidence": "high",
+      "reason": "Ekko returns to the upper platform and reports the conversation, so this is mention rather than another meeting.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "interaction:pakrinek-missing",
+      "confidence": "high",
+      "reason": "Pakrinek’s expedition role is recalled without current presence.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0930",
+          "endUid": "u1002"
+        }
+      ]
+    },
+    {
+      "target": "interaction:pakrinek-death",
+      "confidence": "high",
+      "reason": "Eidrikas reports Pakrinek’s death in the battle; no witnessed death is fabricated.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1892",
+          "endUid": "u1926"
+        }
+      ]
+    },
+    {
+      "target": "interaction:sama-teaching",
+      "confidence": "high",
+      "reason": "Nura explicitly cites Sama’s teaching; the elder is not present.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0318",
+          "endUid": "u0339"
+        }
+      ]
+    },
+    {
+      "target": "interaction:aram-teaching",
+      "confidence": "high",
+      "reason": "Nura explicitly cites Aram’s teaching; the elder is not present or linked to a same-name outsider.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0318",
+          "endUid": "u0339"
+        }
+      ]
+    },
+    {
+      "target": "interaction:zeyfa-morning",
+      "confidence": "high",
+      "reason": "The party compares reported divine identity with its Kestavo knowledge; Zeyfa does not appear.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0415",
+          "endUid": "u0461"
+        }
+      ]
+    },
+    {
+      "target": "interaction:zeyfa-iskander",
+      "confidence": "high",
+      "reason": "The traditional West Wind interpretation is debated with Iskander rather than treated as verified divine intervention.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0675",
+          "endUid": "u0758"
+        }
+      ]
+    },
+    {
+      "target": "interaction:melua-story",
+      "confidence": "high",
+      "reason": "Finnan’s named ancient waterfall story is a brief deity mention.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0349",
+          "endUid": "u0353"
+        }
+      ]
+    },
+    {
+      "target": "interaction:dissident-talk",
+      "confidence": "high",
+      "reason": "Iskander represents the escape-seeking circle and accepts the party’s warning for them, supporting organizational interaction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0643",
+          "endUid": "u1036"
+        }
+      ]
+    },
+    {
+      "target": "interaction:vejo-expedition",
+      "confidence": "high",
+      "reason": "The order’s concern and expedition are explicitly recalled, not observed directly in this scene.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0930",
+          "endUid": "u1002"
+        }
+      ]
+    },
+    {
+      "target": "interaction:kemeko-expedition",
+      "confidence": "high",
+      "reason": "The monastery’s warrior is explicitly named as a participant in the expedition, without a monastery visit.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0940",
+          "endUid": "u1002"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ring-facts",
+      "confidence": "high",
+      "reason": "The ring’s use and three facts are explicit; the summary follows the DM’s final slower-local-time clarification, not the initial reversal.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0379",
+          "endUid": "u0490"
+        }
+      ]
+    },
+    {
+      "target": "interaction:head-check",
+      "confidence": "high",
+      "reason": "The players verbally confirm the carried head, making mentioned a proportionate classification for the inventory check.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0407",
+          "endUid": "u0414"
+        }
+      ]
+    },
+    {
+      "target": "interaction:head-audience",
+      "confidence": "high",
+      "reason": "The head is physically presented, handled, dropped, and put away during the continuous audience.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1357",
+          "endUid": "u1499"
+        }
+      ]
+    },
+    {
+      "target": "interaction:book-evidence",
+      "confidence": "high",
+      "reason": "Finnan physically uses the collected tales as evidence in the Kestavo discussion.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0745",
+          "endUid": "u0761"
+        }
+      ]
+    },
+    {
+      "target": "interaction:quiver-shard",
+      "confidence": "high",
+      "reason": "The choice and loading of a new material form one continuous item action despite the short trip to the rift.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1116",
+          "endUid": "u1197"
+        }
+      ]
+    },
+    {
+      "target": "interaction:metal-retrieval",
+      "confidence": "high",
+      "reason": "Eolo chooses to take the sharp metal despite injury and directly retrieves it.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1147",
+          "endUid": "u1173"
+        }
+      ]
+    },
+    {
+      "target": "interaction:necklace-bargain",
+      "confidence": "high",
+      "reason": "The necklace is given with a return condition; night exposure is established by the wider conversation and later planning.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1505",
+          "endUid": "u1639"
+        }
+      ]
+    },
+    {
+      "target": "interaction:necklace-plan",
+      "confidence": "high",
+      "reason": "The party discusses future night exposure and return; neither is claimed complete.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1790",
+          "endUid": "u1806"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "interaction:sword-threat",
+      "confidence": "high",
+      "reason": "The party sees Malquin’s sword threateningly manifested and recalled; observed is appropriate for the item.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1488",
+          "endUid": "u1634"
+        }
+      ]
+    },
+    {
+      "target": "interaction:platform-move",
+      "confidence": "high",
+      "reason": "Eolo actually pushes the inert platform to the portal and the party steps onto it.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1768",
+          "endUid": "u1806"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mechanism-sight",
+      "confidence": "high",
+      "reason": "The larger active mechanism is viewed first from above and then by clairvoyance, distinct from the movable upper stone.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1867"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mechanism-visit",
+      "confidence": "high",
+      "reason": "Ekko visits the mechanism and learns its function without repairing or operating it.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1868",
+          "endUid": "u1935"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mechanism-plan",
+      "confidence": "high",
+      "reason": "The group considers timing repair to preserve its return route, without carrying out the repair.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "interaction:piece-request",
+      "confidence": "high",
+      "reason": "The request and immediate party planning concern the same missing block, which remains unheld and unrecovered at session end.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1892",
+          "endUid": "u1994"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "inputDigest": "9edbfb2c812e056fe775e2361ba47d7212caec93a133eec88c96a762da9d669e",
+  "reviewer": "du007 independent semantic review of mawar003, targeted correction/recheck pass 1",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Added Wazir because the DM concretely portrays him detecting magic, recognizing wine and dwarven writing, and receiving the papers after the return; this does not claim his player attended or that he joined the four-person expedition. Ander remains excluded. Rechecked chronology: the explicit single camp yields an Oct25 tomb visit, while Oct28 is only the manifest anchor for a vaguely dated return; exact endpoint remains an unresolved critical date issue.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0554",
+          "endUid": "u0555"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0759",
+          "endUid": "u0844"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3690",
+          "endUid": "u3757"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3788",
+          "endUid": "u3798"
+        },
+        {
+          "vaultPath": "People/PCs/Mawar/Wazir.md"
+        },
+        {
+          "vaultPath": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml"
+        }
+      ]
+    },
+    {
+      "target": "interaction:snake-statue-examination",
+      "confidence": "high",
+      "reason": "Changed to interacted because placing the warning note on the statue is a direct physical action beyond looking at it; the supported observations and ordered passages remain intact.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1832",
+          "endUid": "u1846"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1977",
+          "endUid": "u1981"
+        }
+      ]
+    },
+    {
+      "target": "interaction:guardian-combat",
+      "confidence": "high",
+      "reason": "Narrowed the introduction quote to the DM’s corrected description of a giant human-shaped stone statue, excluding Trok’s mistaken hammer description; the battle, mud crisis and defeat remain independently verified.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2672",
+          "endUid": "u2680"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3070",
+          "endUid": "u3103"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3253",
+          "endUid": "u3297"
+        }
+      ]
+    },
+    {
+      "target": "entity:family-letter",
+      "confidence": "high",
+      "reason": "Added a consequential personal document omitted from the draft: the promised family letter has been started 17 times, is being worked on at the shack, and is discussed as unfinished because of family resentment; no delivery or page match is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0099",
+          "endUid": "u0130"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0152",
+          "endUid": "u0164"
+        }
+      ]
+    },
+    {
+      "target": "interaction:letter-drafting",
+      "confidence": "high",
+      "reason": "The present scene establishes Trok huddled over the latest attempt on parchment, followed by his explanation to Kaleho, supporting one direct drafting interaction in the evening scene.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0127",
+          "endUid": "u0130"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0152",
+          "endUid": "u0164"
+        }
+      ]
+    }
+  ]
+}

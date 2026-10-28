@@ -1,12 +1,12 @@
 # Campaign interaction extraction — review materials
 
-**Start with the [proposed model overview](MODEL_OVERVIEW.md)** for the latest agreed design and questions to share with other vault users. [Review and preprocessing](WORKFLOW_DISCUSSION.md) are still under discussion.
+**Start with the [ten-session v5 trial](v5/README.md)** for the current extraction and review results. The [model overview](MODEL_OVERVIEW.md) explains the agreed structured model; [bulk review and preprocessing](WORKFLOW_DISCUSSION.md) describes the adopted workflow.
 
-The current executable trial baseline is **v3, transcript-only extraction**; it predates the model proposal. It includes NPC and important-item cards, one overview per entity per session, complete conversation ranges, shared scenes with locations/dates/types, and multiple pull quotes for major NPCs. This is a design checkpoint for discussion, not a deployed Taelgarverse feature.
+The current executable baseline is **v5, transcript-only extraction with separate semantic review**. It covers NPCs, important items and organizations, whole conversations, shared scenes, pull quotes, aggregate metadata and confidence/review states. The trial spans six campaigns and preserves unresolved critical questions for feedback. This is a design checkpoint, not a deployed Taelgarverse feature.
 
-[Extraction skill](../../.agents/skills/extract-campaign-interactions/SKILL.md) · [JSON format](../../.agents/skills/extract-campaign-interactions/references/format.md) · [Current trial index](v3/README.md)
+[Extraction skill](../../.agents/skills/extract-campaign-interactions/SKILL.md) · [JSON format](../../.agents/skills/extract-campaign-interactions/references/format.md) · [Operations](../../.agents/skills/extract-campaign-interactions/references/operations.md) · [Current trial index](v5/README.md)
 
-## Current reviews
+## Historical v3 reviews
 
 | Session | Review | NPC cards | Item cards | JSON |
 | --- | --- | --- | --- | --- |
@@ -38,4 +38,4 @@ python .agents/skills/extract-campaign-interactions/scripts/validate.py \
   --vault . --input _sessions/interaction-pilot/v3/dunmari-frontier-108/extraction.json
 ```
 
-The current five extractions validate and the 18 regression checks pass. Validation checks structure and provenance; interpretation and scene boundaries remain open for discussion.
+The v3 examples remain readable through the compatibility validator. Current checks cover schema/provenance, preparation, review state protection and replay of published review decisions. The v5 batch index distinguishes completed review executions from high-confidence facts ready for use; structural validation alone cannot approve a claim.

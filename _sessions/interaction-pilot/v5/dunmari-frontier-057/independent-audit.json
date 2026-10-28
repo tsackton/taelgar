@@ -1,0 +1,49 @@
+{
+  "reviewer": "fey001 independent targeted audit",
+  "scope": "Opening and identity, rescue aftermath, Hutsu exchange, Bedez/council/date montage, both dream sequences, divine echoes and ending. Read-only audit after the one correction round; no new critical metadata error found.",
+  "findings": [
+    {
+      "target": "interaction:dimitaur-vision",
+      "severity": "minor",
+      "reason": "The summary says guarding, while the transcript explicitly establishes standing in front of the closed door looking toward Kenzo; standing before would be narrower.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1284",
+          "endUid": "u1294"
+        }
+      ]
+    },
+    {
+      "target": "quote:elazar-before",
+      "severity": "minor",
+      "reason": "The exact color quote includes narrator wording and he says; the spoken substring starts I must tell you. Kept visible as an audit finding after the one correction round.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1125",
+          "endUid": "u1126"
+        }
+      ]
+    },
+    {
+      "target": "possible-omission",
+      "severity": "uncertain",
+      "reason": "The opening names an uncertain {{Fema}} departure companion; no identity was guessed or imported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0005",
+          "endUid": "u0012"
+        }
+      ]
+    }
+  ],
+  "modelQuestions": [
+    "Does a specific speaking Hutsu vine need an individual personal name to be fully accepted?",
+    "Two held jade fragments are directly established; lacking a combined vault page need not alone make their inclusion uncertain."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "inputDigest": "71dbc06dff654e5de36038f0cc0802720d310a3ca2ffba0b4ec85ecd42a9362a",
+  "reviewer": "du064_chasm / targeted quote correction review",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "interaction:zare-trade",
+      "confidence": "high",
+      "reason": "Narrowed recognition to the DM-voiced Zare question; remaining quotes are Zare’s offer and explicit promise to Edmund.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0784",
+          "endUid": "u0824"
+        }
+      ]
+    },
+    {
+      "target": "interaction:rosca-battle",
+      "confidence": "high",
+      "reason": "Narrowed challenge to Rosca alone and trimmed the narration prefix from the rhyme; both are contiguous exact source substrings.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1158",
+          "endUid": "u1160"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elder-ceremony",
+      "confidence": "high",
+      "reason": "Removed the narrative lead-in while retaining the exact contiguous spoken call, “8 homes. 8 roads…”.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0898",
+          "endUid": "u0900"
+        }
+      ]
+    }
+  ]
+}

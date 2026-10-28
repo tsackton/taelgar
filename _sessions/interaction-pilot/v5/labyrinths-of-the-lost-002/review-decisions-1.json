@@ -1,0 +1,75 @@
+{
+  "inputDigest": "dbf921e9831936390b0b01deaafdde4402dfebab59d270decc353996afce913c",
+  "reviewer": "fey001 independent targeted correction/recheck",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "interaction:steampup-decoy",
+      "confidence": "high",
+      "reason": "Removed the unsupported Keiko alias after rechecking the explicit steel-defender command context and the distinction between Dilion’s living dog and magical construct; the interaction itself remains directly supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0216",
+          "endUid": "u0269"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0338",
+          "endUid": "u0340"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Pikeia.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:steampup",
+      "confidence": "high",
+      "reason": "The commanded creature is unambiguously the metal steel defender; the living dog’s name is not asserted as an alias, and an ambiguous dog/steamp restatement does not justify a second present companion card.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0021",
+          "endUid": "u0027"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0244",
+          "endUid": "u0269"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0338",
+          "endUid": "u0340"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1045",
+          "endUid": "u1054"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1102",
+          "endUid": "u1105"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md"
+        }
+      ]
+    }
+  ]
+}

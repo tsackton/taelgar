@@ -1,0 +1,1287 @@
+{
+  "inputDigest": "892ca2b794e3d6cd691c648da1d73517d8440be56222618d5cc20342d3a2c13b",
+  "reviewer": "du007 independent semantic review of mawar003, pass 0",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Four adventurers are active throughout, but Wazir also participates through the DM in the return epilogue and should be added as an attending PC character; Ander is unsupported. Manifest start and real-world date align with context, and all linked locations are visited. Exact end 1747-10-28 remains provisional because the return is only a few days later and later identification is eventual; transcript day counting puts the tomb on Oct25 while existing beats import Oct26 from a timeline.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0006",
+          "endUid": "u0071"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0349",
+          "endUid": "u0445"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0554",
+          "endUid": "u0555"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0759",
+          "endUid": "u0844"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3690",
+          "endUid": "u3757"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3788",
+          "endUid": "u3798"
+        },
+        {
+          "vaultPath": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Independently read the full transcript and checked all scene boundaries: two Hamri locations, river travel and overnight camp, tomb exterior/descent, gargoyle battle, successive chambers, negotiation, guardian battle, immediate mud escape, treasure conversation, return and inn epilogue are distinguished. Contiguous played coverage and brief nonplay exclusions are appropriate; Oct25 tomb dates follow the explicit single overnight after Oct24 departure rather than note-only chronology.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0349",
+          "endUid": "u0355"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0581",
+          "endUid": "u0608"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0718",
+          "endUid": "u0844"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1058",
+          "endUid": "u1085"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1270",
+          "endUid": "u1292"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1793",
+          "endUid": "u1809"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1952",
+          "endUid": "u1966"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2055",
+          "endUid": "u2059"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2313",
+          "endUid": "u2340"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2411",
+          "endUid": "u2486"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2560",
+          "endUid": "u2566"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3290",
+          "endUid": "u3439"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3690",
+          "endUid": "u3819"
+        }
+      ]
+    },
+    {
+      "target": "entity:orden",
+      "confidence": "high",
+      "reason": "The speaker is explicitly named as Trok’s beach-dwelling friend, identifies Hiyasa as his daughter, and requests this rescue; the canonical page matches those distinguishing relationships.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0189",
+          "endUid": "u0300"
+        },
+        {
+          "vaultPath": "People/Mawarans/Orden.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:hiyasa",
+      "confidence": "high",
+      "reason": "Orden names the missing daughter, the inner-sanctum woman matches his description, and the rescue dialogue confirms Orden sent the party; the later fee is her payment, not Orden’s established receipt.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0209",
+          "endUid": "u0271"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2424",
+          "endUid": "u2473"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3461",
+          "endUid": "u3536"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3765",
+          "endUid": "u3780"
+        },
+        {
+          "vaultPath": "People/Mawarans/Hiyasa.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:abelard",
+      "confidence": "high",
+      "reason": "The inn speaker is introduced by name as its familiar storyteller, and answers the question about Hiyasa; the public identity note matches the performer and location.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0607",
+          "endUid": "u0678"
+        },
+        {
+          "vaultPath": "People/Mawarans/Abelard.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:blu",
+      "confidence": "high",
+      "reason": "Ryu identifies Blu as his osprey; scouting and commanded attacks establish direct involvement. Its companion identity remains an eligible NPC, despite its page living under PCs.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0370",
+          "endUid": "u0371"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0701",
+          "endUid": "u0736"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1535",
+          "endUid": "u1557"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3173",
+          "endUid": "u3190"
+        },
+        {
+          "vaultPath": "People/PCs/Mawar/Blu.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:yerkir-khor",
+      "confidence": "high",
+      "reason": "The inscription gives the exact name and titles and the guardian calls him master; the person is only represented or mentioned, not directly met, and the matched note has the same tomb association.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0864",
+          "endUid": "u0909"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2338",
+          "endUid": "u2348"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2431",
+          "endUid": "u2486"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2560",
+          "endUid": "u2560"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Yerkir-khor.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:guardian",
+      "confidence": "high",
+      "reason": "This singular speaking humanoid stone guardian demands offerings and fights with mud and stone magic; it is distinct from the snake-headed upper statue and is appropriately unresolved to a page.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2479",
+          "endUid": "u2560"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2672",
+          "endUid": "u2680"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3070",
+          "endUid": "u3103"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3253",
+          "endUid": "u3297"
+        }
+      ]
+    },
+    {
+      "target": "entity:azar",
+      "confidence": "high",
+      "reason": "The remembered warlock who used living water and went with Benat to recover matches Azar the Lost, not the dwarven god sharing his short name; both interactions remain mentions.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0075",
+          "endUid": "u0119"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0659",
+          "endUid": "u0674"
+        },
+        {
+          "vaultPath": "People/Mawarans/Azar the Lost.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:benat",
+      "confidence": "high",
+      "reason": "The opening identifies Benat as the lizardfolk liaison who agreed to escort Azar; the canonical liaison identity matches and no renewed meeting is claimed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0099",
+          "endUid": "u0109"
+        },
+        {
+          "vaultPath": "People/Lizardfolk/Benat.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:airion",
+      "confidence": "high",
+      "reason": "The opening names Airion the Mistspeaker as an older elemental scholar whose research Azar followed; the full-name alias and scholar identity support the page match.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0089",
+          "endUid": "u0096"
+        },
+        {
+          "vaultPath": "People/Other Humans/Airion.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:sentient-ocean",
+      "confidence": "high",
+      "reason": "The named sentient water is recalled as a living entity from which a piece was stolen; this is a mention of the entity rather than a new water-fragment encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0075",
+          "endUid": "u0088"
+        },
+        {
+          "vaultPath": "People/Extraplanar Powers/Sentient Ocean.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:map",
+      "confidence": "high",
+      "reason": "Hiyasa explicitly sketches three marks after saying she saw a map; the source note embeds an image independently inspected and containing three X-marked sites. The card correctly describes her sketch/report, without claiming possession of an original.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3506",
+          "endUid": "u3512"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3758",
+          "endUid": "u3780"
+        },
+        {
+          "vaultPath": "Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map.md"
+        },
+        {
+          "vaultPath": "assets/Hiyasa-treasure-map.png"
+        }
+      ]
+    },
+    {
+      "target": "entity:snake-statue",
+      "confidence": "high",
+      "reason": "The upper statue’s snake head, jeweled eyes, bands, loose arm gem and incipient movement are directly described; no completed awakening or second guardian identity is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1124",
+          "endUid": "u1130"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1719",
+          "endUid": "u1723"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1832",
+          "endUid": "u1846"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1977",
+          "endUid": "u1981"
+        }
+      ]
+    },
+    {
+      "target": "entity:keys",
+      "confidence": "high",
+      "reason": "Each of four newly shattered gargoyles bears a key, the party opens the locked door with one, and the DM confirms they took all of them; a collection card is supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1847",
+          "endUid": "u1858"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1950",
+          "endUid": "u1958"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2219",
+          "endUid": "u2220"
+        }
+      ]
+    },
+    {
+      "target": "entity:crossbow",
+      "confidence": "high",
+      "reason": "Kaleho explicitly calls it a crossbow of warning and obtains the surprise exception; its later use while restrained is directly described, so inclusion is more than routine weapon inventory.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1296",
+          "endUid": "u1318"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3194",
+          "endUid": "u3215"
+        }
+      ]
+    },
+    {
+      "target": "entity:spear",
+      "confidence": "high",
+      "reason": "Ryu and the DM repeatedly describe the spear returning after throws; his final melee rush against the guardian follows the same spear combat, with no competing named weapon introduced.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1651",
+          "endUid": "u1663"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1747",
+          "endUid": "u1756"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3282",
+          "endUid": "u3295"
+        }
+      ]
+    },
+    {
+      "target": "entity:merfolk-artifact",
+      "confidence": "high",
+      "reason": "Kaleho explicitly offers a treasured worn merfolk artifact and the guardian responds to it; its exact form is unclear in ASR, but the draft deliberately makes no subtype or page assertion. That narrow identity is well supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2535",
+          "endUid": "u2560"
+        }
+      ]
+    },
+    {
+      "target": "entity:sword",
+      "confidence": "high",
+      "reason": "The DM explicitly distinguishes the sword charge from a spell slot, and Nerissa touches the sword to teleport free; no unsupported weapon name or page match is supplied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3349",
+          "endUid": "u3384"
+        }
+      ]
+    },
+    {
+      "target": "entity:jars",
+      "confidence": "high",
+      "reason": "Six distinct gem-stoppered stone jars are counted and subsequently opened; grouping the containers while retaining separately handled contents is supported by the source.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2461",
+          "endUid": "u2466"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3555",
+          "endUid": "u3566"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3601",
+          "endUid": "u3677"
+        }
+      ]
+    },
+    {
+      "target": "entity:pearl",
+      "confidence": "high",
+      "reason": "The small pearl is taken from the white-quartz jar, initially seems ordinary, is later detected as magical and identified as a pearl of power, and is assigned to Nerissa.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3626",
+          "endUid": "u3638"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3717",
+          "endUid": "u3738"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3747",
+          "endUid": "u3749"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3781",
+          "endUid": "u3787"
+        }
+      ]
+    },
+    {
+      "target": "entity:texts",
+      "confidence": "high",
+      "reason": "The yellow dust is revealed to protect ancient fragile papers of an unknown language and the party leaves them with Wazir; the matched object note gives exactly that provenance without adding deciphered contents.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3639",
+          "endUid": "u3647"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3750",
+          "endUid": "u3757"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3788",
+          "endUid": "u3791"
+        },
+        {
+          "vaultPath": "Campaigns/Mawar Adventures/Items and Treasure/Ancient Texts of Yerkir-Khor.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:obsidian-jar",
+      "confidence": "high",
+      "reason": "The obsidian jar swallows a shell without returning it, and a later DM correction explicitly states it shattered on leaving the tomb; the draft preserves the retrospective nature.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3663",
+          "endUid": "u3677"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3733",
+          "endUid": "u3737"
+        }
+      ]
+    },
+    {
+      "target": "entity:treasure",
+      "confidence": "high",
+      "reason": "Unfamiliar coins and uncut crystals are found, Wazir identifies archaic dwarven writing, and 600 gold is split into Hiyasa’s 60 and four 135-gold shares; no sale or additional award is invented.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3555",
+          "endUid": "u3621"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3724",
+          "endUid": "u3735"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3765",
+          "endUid": "u3798"
+        }
+      ]
+    },
+    {
+      "target": "interaction:orden-request",
+      "confidence": "high",
+      "reason": "The complete request remains one interaction through introductions, questions, insight checking, and payment discussion; all color quotations are Orden’s speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0189",
+          "endUid": "u0348"
+        }
+      ]
+    },
+    {
+      "target": "interaction:orden-planning",
+      "confidence": "high",
+      "reason": "This next-morning discussion concerns Orden without placing him at breakfast.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0381",
+          "endUid": "u0430"
+        }
+      ]
+    },
+    {
+      "target": "interaction:orden-rescue-explanation",
+      "confidence": "high",
+      "reason": "Trok names Orden as the reason for their search and Hiyasa describes helping her father; Orden is not present.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3461",
+          "endUid": "u3523"
+        }
+      ]
+    },
+    {
+      "target": "interaction:orden-fee",
+      "confidence": "high",
+      "reason": "The return scene discusses discretionary gifts to Orden but does not establish his presence or a completed transfer.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3765",
+          "endUid": "u3780"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hiyasa-request",
+      "confidence": "high",
+      "reason": "Orden describes his absent daughter in this ongoing conversation, with no presence implied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0209",
+          "endUid": "u0339"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hiyasa-planning",
+      "confidence": "high",
+      "reason": "The breakfast planning names Hiyasa as the search target, distinct from newly arriving PC Nerissa.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0381",
+          "endUid": "u0430"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hiyasa-inn-lead",
+      "confidence": "high",
+      "reason": "Abelard recalls the absent Hiyasa’s departure and expected short trip in the same inn conversation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0617",
+          "endUid": "u0678"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hiyasa-rescue",
+      "confidence": "high",
+      "reason": "Her warning, captivity and inspiration-assisted escape at u3245-3252 are confirmed across the precombat and combat scenes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2424",
+          "endUid": "u3434"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hiyasa-tomb-conversation",
+      "confidence": "high",
+      "reason": "The loot confrontation, explanation of motives and sketch remain a single conversation; the three color quotes are Hiyasa speaking.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3435",
+          "endUid": "u3701"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hiyasa-finders-fee",
+      "confidence": "high",
+      "reason": "The party grants 10 percent of 600 gold and Hiyasa offers further site information, supporting a new post-travel interaction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3765",
+          "endUid": "u3790"
+        }
+      ]
+    },
+    {
+      "target": "interaction:abelard-conversation",
+      "confidence": "high",
+      "reason": "The offered drink and questions form one uninterrupted inn exchange; introduction and color quote attribution are supported in context.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0607",
+          "endUid": "u0678"
+        }
+      ]
+    },
+    {
+      "target": "interaction:blu-tower",
+      "confidence": "high",
+      "reason": "Blu is visibly perched at the tower before being directed to scout, so observed fits this initial glimpse.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0370",
+          "endUid": "u0371"
+        }
+      ]
+    },
+    {
+      "target": "interaction:blu-river-scouting",
+      "confidence": "high",
+      "reason": "Blu’s trail discovery and aid following the river are part of one continuous departure and scouting activity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0699",
+          "endUid": "u0758"
+        }
+      ]
+    },
+    {
+      "target": "interaction:blu-tomb-scouting",
+      "confidence": "high",
+      "reason": "Following the trail after the overnight break and viewing the roof are a new sustained scouting activity across location changes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0793",
+          "endUid": "u1059"
+        }
+      ]
+    },
+    {
+      "target": "interaction:blu-gargoyles",
+      "confidence": "high",
+      "reason": "Ryu commands dive attacks and flyby retreats during the upper-hall battle; Blu is directly involved, not merely present.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1374",
+          "endUid": "u1794"
+        }
+      ]
+    },
+    {
+      "target": "interaction:blu-guardian",
+      "confidence": "high",
+      "reason": "Blu is explicitly brought in and repeatedly attacks while remaining airborne, including the confirmed dive at u3190.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2566",
+          "endUid": "u3295"
+        }
+      ]
+    },
+    {
+      "target": "interaction:yerkir-inscription",
+      "confidence": "high",
+      "reason": "Reading the named inscription establishes a mention through text, with no living encounter implied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0864",
+          "endUid": "u0909"
+        }
+      ]
+    },
+    {
+      "target": "interaction:yerkir-warning",
+      "confidence": "high",
+      "reason": "The inner inscription addresses the faithful and repeats Yerkir-khor’s titles while the party discusses him.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2338",
+          "endUid": "u2403"
+        }
+      ]
+    },
+    {
+      "target": "interaction:yerkir-sanctum",
+      "confidence": "high",
+      "reason": "The mosaics and guardian’s demand refer to the honored earth-lord; they do not make the guardian Yerkir-khor himself.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2431",
+          "endUid": "u2560"
+        }
+      ]
+    },
+    {
+      "target": "interaction:guardian-negotiation",
+      "confidence": "high",
+      "reason": "The tribute demands and all three rejected offerings form a single exchange ending when Ryu attacks; color quotes belong to the guardian.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2479",
+          "endUid": "u2560"
+        }
+      ]
+    },
+    {
+      "target": "interaction:guardian-combat",
+      "confidence": "medium",
+      "reason": "The combat is a distinct sustained interaction, but the introduction quote includes Trok’s mistaken hammer speculation before the DM corrects it and should be narrowed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2561",
+          "endUid": "u3295"
+        }
+      ]
+    },
+    {
+      "target": "interaction:azar-recalled",
+      "confidence": "high",
+      "reason": "Opening discussion of earlier events remains mentioned and does not turn recollection into a new rescue or combat.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0075",
+          "endUid": "u0119"
+        }
+      ]
+    },
+    {
+      "target": "interaction:azar-update",
+      "confidence": "high",
+      "reason": "The inn dialogue explicitly names Azar while recalling his care elsewhere, so mentioned is appropriate.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0659",
+          "endUid": "u0674"
+        }
+      ]
+    },
+    {
+      "target": "interaction:benat-recalled",
+      "confidence": "high",
+      "reason": "The opening explicitly describes Benat’s agreed escort in the preceding adventure, without claiming a present meeting.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0099",
+          "endUid": "u0109"
+        }
+      ]
+    },
+    {
+      "target": "interaction:airion-recalled",
+      "confidence": "high",
+      "reason": "The named research predecessor occurs only in recollection, correctly represented as a mention.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0089",
+          "endUid": "u0096"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ocean-recalled",
+      "confidence": "high",
+      "reason": "The theft of living water is recalled, not played anew or treated as physical presence of the whole ocean.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0075",
+          "endUid": "u0088"
+        }
+      ]
+    },
+    {
+      "target": "interaction:map-mentioned",
+      "confidence": "high",
+      "reason": "Orden describes the absent daughter’s papers and maps; these contextual mentions belong with the map subject while the original versus sketch distinction remains in the entity summary.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0211",
+          "endUid": "u0240"
+        }
+      ]
+    },
+    {
+      "target": "interaction:map-sketch",
+      "confidence": "high",
+      "reason": "The direct action of sketching three locations is explicitly narrated and the whole quote preserves that action and explanation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3493",
+          "endUid": "u3554"
+        }
+      ]
+    },
+    {
+      "target": "interaction:map-two-sites",
+      "confidence": "high",
+      "reason": "The party refers to the remaining two marks during the return discussion, and Hiyasa offers details for payment.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3758",
+          "endUid": "u3780"
+        }
+      ]
+    },
+    {
+      "target": "interaction:snake-statue-examination",
+      "confidence": "medium",
+      "reason": "The observations are supported, but Kaleho also places a warning note on the object at u1977-1978; interacted better captures the direct action in this combined encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1124",
+          "endUid": "u1130"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1719",
+          "endUid": "u1723"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1832",
+          "endUid": "u1899"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1977",
+          "endUid": "u1981"
+        }
+      ]
+    },
+    {
+      "target": "interaction:keys-found-used",
+      "confidence": "high",
+      "reason": "The passage includes discovering four keys and using one in the door; the additional confirmation that all were collected appears at u2219-2220.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1847",
+          "endUid": "u1966"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2219",
+          "endUid": "u2220"
+        }
+      ]
+    },
+    {
+      "target": "interaction:crossbow-warning",
+      "confidence": "high",
+      "reason": "Kaleho invokes the warning property and immediately attacks after the DM acknowledges it; direct use is established.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1296",
+          "endUid": "u1318"
+        }
+      ]
+    },
+    {
+      "target": "interaction:crossbow-guardian",
+      "confidence": "high",
+      "reason": "Kaleho explicitly steadies the crossbow in the stone fist and pulls the trigger, supporting direct item use.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3194",
+          "endUid": "u3215"
+        }
+      ]
+    },
+    {
+      "target": "interaction:spear-gargoyles",
+      "confidence": "high",
+      "reason": "Returning-spear mechanics and repeated throws are confirmed, including shattering the gargoyle attempting to activate the statue.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1651",
+          "endUid": "u1794"
+        }
+      ]
+    },
+    {
+      "target": "interaction:spear-guardian",
+      "confidence": "high",
+      "reason": "Ryu’s final rush after Trok falls is a direct attack in his ongoing spear combat and ends the guardian fight.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3282",
+          "endUid": "u3295"
+        }
+      ]
+    },
+    {
+      "target": "interaction:merfolk-offering",
+      "confidence": "high",
+      "reason": "Kaleho presents the treasured artifact and receives the guardian’s hostile response; ambiguous ASR form is deliberately not asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2535",
+          "endUid": "u2560"
+        }
+      ]
+    },
+    {
+      "target": "interaction:sword-escape",
+      "confidence": "high",
+      "reason": "The sword’s charge rather than a remaining spell slot powers Nerissa’s explicitly narrated teleport.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3349",
+          "endUid": "u3384"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jars-first-seen",
+      "confidence": "high",
+      "reason": "The six containers are initially described visually behind the statue, without handling yet.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2461",
+          "endUid": "u2466"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jars-examined",
+      "confidence": "high",
+      "reason": "Opening the six jars follows the loot confrontation in a continuous aftermath scene.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3435",
+          "endUid": "u3689"
+        }
+      ]
+    },
+    {
+      "target": "interaction:pearl-found",
+      "confidence": "high",
+      "reason": "The white-quartz jar contains one small pearl, which Kaleho investigates without initially discovering its magic.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3626",
+          "endUid": "u3638"
+        }
+      ]
+    },
+    {
+      "target": "interaction:pearl-identified-given",
+      "confidence": "high",
+      "reason": "The epilogue confirms magic, narrates eventual pearl-of-power identification, then assigns the pearl to Nerissa.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3717",
+          "endUid": "u3787"
+        }
+      ]
+    },
+    {
+      "target": "interaction:texts-dust-found",
+      "confidence": "high",
+      "reason": "At first the party sees only the yellow material and dust, so observed and knownAs Yellow dust avoid premature identification.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3639",
+          "endUid": "u3647"
+        }
+      ]
+    },
+    {
+      "target": "interaction:texts-discovered-given",
+      "confidence": "high",
+      "reason": "The revelation of protected papers and their transfer to Wazir occur in the return epilogue; the whole quote is mixed narration rather than entity speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3738",
+          "endUid": "u3791"
+        }
+      ]
+    },
+    {
+      "target": "interaction:obsidian-experiment",
+      "confidence": "high",
+      "reason": "A shell is dropped into the container and does not return when it is tipped, establishing direct experimentation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3663",
+          "endUid": "u3677"
+        }
+      ]
+    },
+    {
+      "target": "interaction:obsidian-shattered",
+      "confidence": "high",
+      "reason": "The later narration explicitly corrects the jar’s exit fate; linking the exit and return scenes preserves this retrospective event.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3733",
+          "endUid": "u3737"
+        }
+      ]
+    },
+    {
+      "target": "interaction:treasure-found",
+      "confidence": "high",
+      "reason": "The opened jars contain coins and uncut crystals, with initial inability to read the coins preserved.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3555",
+          "endUid": "u3621"
+        }
+      ]
+    },
+    {
+      "target": "interaction:treasure-divided",
+      "confidence": "high",
+      "reason": "Wazir’s archaic-dwarven identification and the explicit four 135-gold shares plus 60-gold fee support the summary.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3724",
+          "endUid": "u3798"
+        }
+      ]
+    }
+  ]
+}

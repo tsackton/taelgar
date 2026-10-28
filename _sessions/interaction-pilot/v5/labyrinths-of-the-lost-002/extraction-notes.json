@@ -1,0 +1,32 @@
+{
+  "extractionAgent": "root",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 1731,
+  "readCoverage": [
+    {
+      "startUid": "u0001",
+      "endUid": "u1731"
+    }
+  ],
+  "excludedRanges": [],
+  "recordingGaps": [
+    {
+      "afterUid": "u1210",
+      "beforeUid": "u1211",
+      "evidence": "DM explicitly says recording was not resumed; initial post-rest scouting is missing and was not reconstructed."
+    }
+  ],
+  "issues": [
+    "Hobgoblin guards and the chained basilisk retained as scene content, not individual entity cards; petrified medusa is a provisional individualized NPC because potential rescue is discussed.",
+    "J.M. linked to Jacopo Marcelli by exact initials and matching haunted bedroom/lost-love identity; later fate in vault reference is not imported.",
+    "Petrona is mentioned through letters and impersonated, not present.",
+    "Steampup is a named construct companion rather than a separately participating PC despite its file location."
+  ],
+  "initialExtractionSources": [
+    "cleaned transcript",
+    "session manifest",
+    "vault metadata index",
+    "targeted identity/place reference pages"
+  ],
+  "beatsDuringExtraction": false
+}

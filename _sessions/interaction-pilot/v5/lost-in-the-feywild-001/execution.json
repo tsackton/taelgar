@@ -1,0 +1,43 @@
+{
+  "method": "Separate extraction agent and evidence-based independent reviewer; one exact-quote correction.",
+  "extractionAgent": "fey001",
+  "reviewAgent": "dragonets",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 2156,
+  "sourceCoverage": {
+    "excludedRanges": [
+      {
+        "startUid": "u0001",
+        "endUid": "u0033",
+        "reason": "Audio/music setup and opening table chatter."
+      },
+      {
+        "startUid": "u2151",
+        "endUid": "u2156",
+        "reason": "End-of-session thanks and scheduling transition."
+      }
+    ],
+    "unassignedPlayedRanges": []
+  },
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 2156,
+    "sceneUtterances": 2117,
+    "unassignedUtterances": 39,
+    "metadataReady": true,
+    "readyEntities": 18,
+    "provisionalEntities": 0
+  },
+  "reviewScope": {
+    "critical": "Session aggregate dates, attendance, locations, every entity inclusion/identity/link.",
+    "sceneCollection": "All transitions and chronology assessed from source.",
+    "interactions": "Alden camp, Hulda dinner, cellar-door crossing semantically reviewed; other interactions remain unreviewed.",
+    "sourceWindows": "Read almost all played material, including introductions, complete substantive Alden/Hulda exchanges, all item evidence, overnight transitions and ending; small incidental stretches were not reread.",
+    "omissionSampling": "Unflagged introductory backstories, estate approach, dinner apparatus and root-tunnel ending sampled for omissions; no additional critical entity required."
+  },
+  "issues": [],
+  "corrections": [
+    "Removed narrator prefix He says, from Alden color quote; exact source substring retained."
+  ]
+}

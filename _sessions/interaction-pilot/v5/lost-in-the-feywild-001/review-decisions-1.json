@@ -1,0 +1,26 @@
+{
+  "inputDigest": "263a137b73ff2d8b5e9fa6dc184b5e1123a89948c75f975555207816e2a6a765",
+  "reviewer": "dragonets agent / targeted quote correction recheck",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "interaction:alden-camp",
+      "confidence": "high",
+      "reason": "Removed only the narrator prefix from alden-home; the remaining contiguous exact words are Alden’s speech in the complete camp exchange, and the other quote voices and conversation boundaries remain supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0443",
+          "endUid": "u0607"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0622",
+          "endUid": "u0698"
+        }
+      ]
+    }
+  ]
+}

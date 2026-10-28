@@ -1,0 +1,658 @@
+{
+  "inputDigest": "ed9e34b9e1738f74ba50239a3119a1666eb315ed0003659c1c31ebb640ccc84d",
+  "reviewer": "dragonets agent / independent du058 semantic pass",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "All four PCs introduce themselves and act throughout; the manifest and recording support the real-world date. Travel crosses the domain river, stops short of Bleakhold, and ends beside the actual stoneborn statue in Dunmar, with no recorded autumn journey. The provisional August 25 start remains unverified: no calendar date is spoken and time in the shadow realm is uncertain; the manifest November 15 end is correctly absent.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0034",
+          "endUid": "u0075"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0565",
+          "endUid": "u0588"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1642",
+          "endUid": "u1649"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2962",
+          "endUid": "u3073"
+        },
+        {
+          "vaultPath": "People/PCs/Dunmar Fellowship/Riswynn.md"
+        },
+        {
+          "vaultPath": "People/PCs/Dunmar Fellowship/Guests/Rothfis.md"
+        },
+        {
+          "vaultPath": "People/PCs/Dunmar Fellowship/Guests/Merash.md"
+        },
+        {
+          "vaultPath": "People/PCs/Dunmar Fellowship/Guests/Thror.md"
+        },
+        {
+          "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+        },
+        {
+          "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md"
+        },
+        {
+          "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stoneborn Statue Dungeon.md"
+        },
+        {
+          "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+        },
+        {
+          "vaultPath": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml"
+        }
+      ]
+    },
+    {
+      "target": "entity:tak",
+      "confidence": "high",
+      "reason": "Tak is explicitly the young, nervous named guide, explains Del’s exile and the wastes, and is escorted toward home; his page matches this Bleakhold guide. The final search does not assert that Tak is individually found.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0068",
+          "endUid": "u0075"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0375",
+          "endUid": "u0395"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0539",
+          "endUid": "u0568"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2984",
+          "endUid": "u2992"
+        },
+        {
+          "vaultPath": "People/Dwarves/Tak.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:nora",
+      "confidence": "high",
+      "reason": "The ghost identifies herself as Nora Silverspark, recounts the failed rescue and betrayal, and advises the party; the page matches the ghost who was Hagrim’s victim. No later gauntlet gift or release appearance is imported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0076",
+          "endUid": "u0184"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0210",
+          "endUid": "u0341"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0364",
+          "endUid": "u0564"
+        },
+        {
+          "vaultPath": "People/Dwarves/Nora Silverspark.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:hagrim",
+      "confidence": "high",
+      "reason": "Nora and Del identify Hagrim Firebrand and his rule as Morkalan; the party explicitly names the throne-room ghost and fights him. The summary requests redemption without asserting a proved possession or a known final divine judgment.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0171",
+          "endUid": "u0188"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0286",
+          "endUid": "u0341"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1327",
+          "endUid": "u1347"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2172",
+          "endUid": "u2182"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2235",
+          "endUid": "u2245"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2871",
+          "endUid": "u2961"
+        },
+        {
+          "vaultPath": "People/Dwarves/Hagrim.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:del",
+      "confidence": "high",
+      "reason": "The living elderly cave-dwarf is addressed as Del, recalls the expedition and Hagrim, and permits a rest. Delig Firebrand’s public identity as Hagrim’s memory-impaired cousin and Mad Priest uniquely resolves the shortened spoken name.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0364",
+          "endUid": "u0383"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1061",
+          "endUid": "u1128"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1185",
+          "endUid": "u1196"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1327",
+          "endUid": "u1406"
+        },
+        {
+          "vaultPath": "People/Dwarves/Delig Firebrand.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:magerson",
+      "confidence": "medium",
+      "reason": "Nora’s Magerson is the son of a slain fire giant who leads trolls north of Tokra against Hagrim and Nora’s refugees. Odim Mavdyrson’s page matches that highly specific role, but neither the given name Odim nor the exact surname is spoken; the positive link remains provisional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0254",
+          "endUid": "u0301"
+        },
+        {
+          "vaultPath": "People/Historical Figures/Odim Mavdyrson.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:memory-spirits",
+      "confidence": "high",
+      "reason": "The spirits are an individualized collective with waterfall, bell, beer and warrior imagery; they converge, fail to answer, and strike the party during entry. These are distinct from the generic wraiths and skeletons inside.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1656",
+          "endUid": "u1675"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1764",
+          "endUid": "u1794"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1800",
+          "endUid": "u1905"
+        }
+      ]
+    },
+    {
+      "target": "entity:ironhorns",
+      "confidence": "high",
+      "reason": "Rothfis repeatedly names the Ironhorns as the clan connected with his former marriage and debt; the closing joke confirms the relationship. The unlinked organization retains the transcript spelling instead of substituting the PC page’s Ironcorns.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0047",
+          "endUid": "u0048"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0507",
+          "endUid": "u0510"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2815",
+          "endUid": "u2822"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3037",
+          "endUid": "u3048"
+        }
+      ]
+    },
+    {
+      "target": "entity:stonefists",
+      "confidence": "high",
+      "reason": "Rothfis explicitly calls Stonefist his clan in the brewery exchange with Del, establishing an organization mention separate from his similarly named tavern.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1108",
+          "endUid": "u1119"
+        }
+      ]
+    },
+    {
+      "target": "entity:chalice",
+      "confidence": "high",
+      "reason": "Nora recognizes the displayed quest chalice; the party debates its judgment and Riswynn pours it over Hagrim, rejects punishment, and requests redemption before the flood reveals Dunmar. The linked artifact matches its name and role; the faint question is not assigned an invented individual god.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0210",
+          "endUid": "u0234"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0433",
+          "endUid": "u0448"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1532",
+          "endUid": "u1608"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1830",
+          "endUid": "u1845"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2172",
+          "endUid": "u2182"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2925",
+          "endUid": "u2983"
+        },
+        {
+          "vaultPath": "Things/Artifacts of Power/Chalice of the Runepriest.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:shatterstorm",
+      "confidence": "high",
+      "reason": "The transcript names Riswynn’s warhammer in the troll fight, the blocked-door assault, and the destruction of bones and wraiths; the linked item page identifies the same owner and weapon.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0948",
+          "endUid": "u0966"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2072",
+          "endUid": "u2115"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2439",
+          "endUid": "u2456"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2832",
+          "endUid": "u2840"
+        },
+        {
+          "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Shatterstorm.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:maul",
+      "confidence": "high",
+      "reason": "Merash names the Maul of the Forge, strikes the troll and undead with it, and throws it after the fire wall is dropped; the narrated burst and retrieval support the item without an unsupported vault link.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0827",
+          "endUid": "u0836"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0967",
+          "endUid": "u1014"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2314",
+          "endUid": "u2332"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2462",
+          "endUid": "u2540"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2676",
+          "endUid": "u2714"
+        }
+      ]
+    },
+    {
+      "target": "entity:boots",
+      "confidence": "high",
+      "reason": "Rothfis uses flight to scout and retreat, then hovers over the fortress approach and explicitly names his magic boots during the final drop onto Hagrim. The item supports repeated consequential use without implying a damage effect the DM declined.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0588",
+          "endUid": "u0635"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0899",
+          "endUid": "u0905"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1786",
+          "endUid": "u1794"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2371",
+          "endUid": "u2378"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2884",
+          "endUid": "u2903"
+        }
+      ]
+    },
+    {
+      "target": "entity:return-tokens",
+      "confidence": "high",
+      "reason": "Personal magical slivers are explicitly discussed as a way home and the ending offers that same return choice; Rothfis and Merash blink away while Thror stays. The summary avoids inventing identical token shapes or a destination scene.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0433",
+          "endUid": "u0443"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3029",
+          "endUid": "u3073"
+        }
+      ]
+    },
+    {
+      "target": "entity:growth-potion",
+      "confidence": "high",
+      "reason": "Rothfis pours the red potion into his ale, drinks, and explicitly grows for four hours; later large-size actions and the closing shrink support the distinct transformative item.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1938",
+          "endUid": "u1944"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1974",
+          "endUid": "u1976"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2350",
+          "endUid": "u2370"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u3037",
+          "endUid": "u3039"
+        }
+      ]
+    },
+    {
+      "target": "entity:strength-potion",
+      "confidence": "high",
+      "reason": "Riswynn explicitly chooses the potion of hill giant strength before her character sheet strength rises to 21 and she attacks the blocked door; this is an executed use, unlike the proposed gaseous-form potion.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1987",
+          "endUid": "u2002"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2051",
+          "endUid": "u2077"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Independently read all 3074 utterances. Boundaries follow the guide journey, Nora’s whole conversation, river crossing, cave scouting, troll combat, Del’s visit and short rest, statue approach, spirits, fortress rooms, Hagrim fight and emergence. All 97 omitted utterances are introductions/recap, a technical break, or final thanks; no played span is missing.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0001",
+          "endUid": "u0079"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0539",
+          "endUid": "u0588"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0650",
+          "endUid": "u0704"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1015",
+          "endUid": "u1073"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1380",
+          "endUid": "u1424"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1609",
+          "endUid": "u1656"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1830",
+          "endUid": "u1949"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2037",
+          "endUid": "u2183"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2925",
+          "endUid": "u3074"
+        }
+      ]
+    },
+    {
+      "target": "interaction:nora-conversation",
+      "confidence": "high",
+      "reason": "The full exchange stays together through Nora’s account, Tak’s comments and the party’s route debate. All three color excerpts are Nora’s own in-character speech and the introduction is narrator description; no topic-based duplicate interaction is present.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0076",
+          "endUid": "u0234"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0254",
+          "endUid": "u0395"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0433",
+          "endUid": "u0568"
+        }
+      ]
+    },
+    {
+      "target": "interaction:del-visit",
+      "confidence": "high",
+      "reason": "The whole cave visit remains one interaction across the rest and planning scene. Del’s regret, eyes and battle quotes are his speech, and the conversation never establishes the party’s later possession speculation as fact.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1061",
+          "endUid": "u1406"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1407",
+          "endUid": "u1608"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hagrim-battle",
+      "confidence": "high",
+      "reason": "The entire combat through the chalice appeal is retained; the selected memories, misery, peace and return quotes are Hagrim’s actual speech. The summary does not claim a permanent kill or a confirmed redemption verdict.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2183",
+          "endUid": "u2245"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2542",
+          "endUid": "u2626"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2871",
+          "endUid": "u2961"
+        }
+      ]
+    },
+    {
+      "target": "interaction:chalice-redemption",
+      "confidence": "high",
+      "reason": "The exact mixed-speaker whole quote preserves Riswynn’s choice and the narration; the water crosses the scene boundary as the realm crumbles, so this remains one continuous item interaction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2925",
+          "endUid": "u2983"
+        }
+      ]
+    }
+  ]
+}

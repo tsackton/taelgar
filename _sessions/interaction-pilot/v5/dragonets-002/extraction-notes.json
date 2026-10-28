@@ -1,0 +1,77 @@
+{
+  "method": "Complete transcript read sequentially in bounded chunks; independent semantic authoring without beats or recap narratives.",
+  "transcriptRead": {
+    "startUid": "u0001",
+    "endUid": "u2659",
+    "utterances": 2659
+  },
+  "coverage": {
+    "sceneRanges": [
+      [
+        1,
+        1582
+      ],
+      [
+        1647,
+        2503
+      ]
+    ],
+    "excludedRanges": [
+      {
+        "startUid": "u1583",
+        "endUid": "u1646",
+        "reason": "Level-up and character-sheet mechanics; narrative empowerment preserved immediately before."
+      },
+      {
+        "startUid": "u2504",
+        "endUid": "u2659",
+        "reason": "Session closing, image-reference discussion, scheduling, and post-session DM/meta discussion."
+      }
+    ],
+    "allPlayedPassagesCovered": true
+  },
+  "attendance": {
+    "present": [
+      "Heska",
+      "Sculpit",
+      "Little Tony",
+      "Zeno"
+    ],
+    "evidence": [
+      "u0107-u0353",
+      "u1491-u1537",
+      "u2259-u2283"
+    ],
+    "unresolvedVaultPages": [
+      "Heska",
+      "Sculpit",
+      "Little Tony",
+      "Zeno"
+    ],
+    "pcsEmptyMeans": "No resolvable individual PC pages, not absent participants."
+  },
+  "metadata": {
+    "realWorldDate": "2026-09-29 from session manifest.",
+    "calendarDates": "No calendar anchors supplied by transcript or manifest, so dates omitted.",
+    "relativeTime": "Following morning after previous evening and sleep; sunrise narration refined at u0225 to about 9–10 am. No later night or overnight transition.",
+    "physicalLocations": "Circular Island; Great Temple, pilgrimage road apparatus, and Wanderer treated as subplaces. Childhood memories and remote coda are not PC visits."
+  },
+  "identitySearch": "Reusable index names/aliases and filename search produced no individual PC or named NPC matches. Circular Island resolution inherited from session-001 verified page; no later lore used.",
+  "uncertainties": [
+    "Piglet at u0365 is a fragmented possible named contact; entity inclusion and interaction kept low for independent review.",
+    "Horseshoe Brad resembles session-001 Horseshoe Crab but no silent rename/merge made.",
+    "Glenda is now explicitly an active familiar despite session-001 ex-familiar account; current-session participation retained without resolving this inconsistency.",
+    "Roska in this transcript is the same familiar rival called Rosca in session-001; label preserves both forms.",
+    "No actual walk, swim, fish capture, or laser cooking occurs before cutaway; only mental attempts and visible activation.",
+    "The final cutaway is narrated to players rather than perceived by PCs; observed interactions explicitly identify this perspective."
+  ],
+  "choices": [
+    "Oru’s long conversation and guided visit remain a single interaction through diversions and the location change.",
+    "One whole food-machine experiment and one whole Ilse exchange despite topic interruptions.",
+    "Four guardian constructs grouped as a single NPC collection, separate from the Wanderer construct; neither duplicated as items.",
+    "Named remembered figures remain mentioned interactions; no flashback trips added to locations.",
+    "Generic fans, food inventory, and throwaway restaurant names in jokes omitted as entities.",
+    "Post-play firstborn explanation at u2590 onward excluded; coda itself supports only the observers’ words."
+  ],
+  "reviewState": "All records unreviewed; session low due to unresolved PC links; Piglet low for uncertain fragmented name."
+}

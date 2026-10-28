@@ -1,0 +1,74 @@
+{
+  "method": "Separate extraction by root followed by independent complete-source semantic review by fey001, one targeted alias correction, deterministic validation and rendering.",
+  "extractionAgent": "root",
+  "reviewAgent": "fey001",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 1731,
+  "reviewTranscriptRead": {
+    "complete": true,
+    "utterances": 1731,
+    "ranges": [
+      [
+        1,
+        300
+      ],
+      [
+        301,
+        610
+      ],
+      [
+        611,
+        930
+      ],
+      [
+        931,
+        1215
+      ],
+      [
+        1216,
+        1510
+      ],
+      [
+        1511,
+        1731
+      ]
+    ]
+  },
+  "sourceCoverage": {
+    "coveredUtterances": 1731,
+    "excludedRanges": [],
+    "recordingGaps": [
+      {
+        "afterUid": "u1210",
+        "beforeUid": "u1211",
+        "reason": "DM explicitly says recording was not resumed; missing scouting was not reconstructed."
+      }
+    ]
+  },
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 1731,
+    "sceneUtterances": 1731,
+    "unassignedUtterances": 0,
+    "metadataReady": true,
+    "readyEntities": 12,
+    "provisionalEntities": 0
+  },
+  "actualReviewScope": "All critical session metadata, all 12 entity identities/inclusions/links, all 29 interactions, all scene transitions and all quotes were checked against the independently reread transcript; reference pages were used for identity/place resolution only.",
+  "unflaggedSamples": [
+    "Opening PC introductions and overnight chronology",
+    "Full decoy chase and two crypt combats",
+    "Crypt and archive searches for omitted consequential subjects",
+    "Basilisk encounter and proposed medusa rescue",
+    "Whole ghost conversation and every featured quotation"
+  ],
+  "issues": [
+    "Removed Keiko from Steampup knownAs because the source appears to self-correct and the vault distinguishes a living dog from the construct.",
+    "No critical records remain provisional.",
+    "The recording gap after u1210 limits completeness to the surviving transcript.",
+    "The medusa is a specific prospective rescue subject; generic guards and chained basilisk remain scene content under selective entity policy.",
+    "Routine incidental loot, unused consumables and generic crowds remain scene content; later ghost departure and Petrona fate are not imported from notes.",
+    "The deity The Mother is represented as mentioned NPC-type entity because the schema has no separate deity category."
+  ]
+}

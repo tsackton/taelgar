@@ -1,0 +1,164 @@
+{
+  "reviewer": "du058-independent-semantic-review-chasm004-correction",
+  "inputDigest": "8eb944c3049a69e1854dbe9b3a14482250788ca5b42414b5ca2adad12890f1a9",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Context confirms four material days elapsed since labyrinth entry and that emergence occurs in the afternoon; absolute January dates remain manifest anchors and are not promoted from notes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1746"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1951",
+          "endUid": "u1972"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Removed the unsupported absolute dates on final scenes; the full source supports all movement, rest, palace audience, portal crossing, and two-platform boundaries while maintaining the whole conversations.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0224",
+          "endUid": "u0239"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1031",
+          "endUid": "u1105"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1239",
+          "endUid": "u1280"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1640",
+          "endUid": "u1651"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1735",
+          "endUid": "u1746"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1868",
+          "endUid": "u1876"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1936",
+          "endUid": "u1994"
+        }
+      ]
+    },
+    {
+      "target": "interaction:iskander-talk",
+      "confidence": "high",
+      "reason": "Narrowed prison quote to u0683-u0684 and exit quote to u0842-u0846, eliminating PC interjections and narrator setup while preserving exact Iskander speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0675",
+          "endUid": "u0684"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0838",
+          "endUid": "u0846"
+        }
+      ]
+    },
+    {
+      "target": "interaction:malquin-audience",
+      "confidence": "high",
+      "reason": "Narrowed malquin-stars to u1509-u1511, preserving Malquin’s own statement and excluding Justas’s echo; the larger negotiation remains intact.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1505",
+          "endUid": "u1514"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1600",
+          "endUid": "u1639"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wolf-eolo",
+      "confidence": "high",
+      "reason": "Reclassified as interacted because Eolo directly waves at the awakened guardian; the failed attempt to disbelieve it is explicit.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1177",
+          "endUid": "u1193"
+        }
+      ]
+    },
+    {
+      "target": "entity:portal-rope",
+      "confidence": "high",
+      "reason": "The previously omitted rope is a consequential safety tool: it is tied to the wolf, holds the nonfliers over a long drop, and keeps them safe until the platform arrives.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1695",
+          "endUid": "u1739"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1768",
+          "endUid": "u1788"
+        }
+      ]
+    },
+    {
+      "target": "interaction:rope-crossing",
+      "confidence": "high",
+      "reason": "Anchoring and using the same rope is one continuous action across the portal and location change, so the interaction correctly spans both scenes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1695",
+          "endUid": "u1739"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1768",
+          "endUid": "u1788"
+        }
+      ]
+    }
+  ]
+}

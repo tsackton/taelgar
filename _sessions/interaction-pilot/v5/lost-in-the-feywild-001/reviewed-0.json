@@ -1,0 +1,1436 @@
+{
+  "schemaVersion": 5,
+  "campaign": "feywild",
+  "session": 1,
+  "realWorldDate": "2026-05-14",
+  "pcs": [
+    "People/PCs/Other PCs/Tollen Misfits/Kaito Min.md",
+    "People/PCs/Other PCs/Tollen Misfits/Edric.md",
+    "People/PCs/Other PCs/Tollen Misfits/Tarek.md",
+    "People/PCs/Other PCs/Tollen Misfits/Ayveen.md",
+    "People/PCs/Other PCs/Tollen Misfits/Txarro.md"
+  ],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md",
+      "sha256": "af76c13971f857d047a51016402fb82e775ba010ef9dfbe94da0b0a5f2723754"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md",
+    "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Dandelion Root Portal.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0034",
+        "endUid": "u0698"
+      },
+      "type": "conversation",
+      "locationDetail": "Camp in the woods west of Tollen",
+      "aiSummary": "The companions introduce themselves and tell Alden about earlier jobs while questioning his affection for Dandelion House.",
+      "dateStart": "1740-10-03",
+      "dateEnd": "1740-10-03",
+      "time": "Evening and overnight"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0699",
+        "endUid": "u0801"
+      },
+      "type": "travel",
+      "locationDetail": "Trackless woods northwest of Tollen",
+      "aiSummary": "Alden leads a long march through increasingly quiet woods as the party becomes uneasy.",
+      "dateStart": "1740-10-04",
+      "dateEnd": "1740-10-04",
+      "time": "Daytime into dusk"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0802",
+        "endUid": "u1129"
+      },
+      "type": "exploration",
+      "locationDetail": "Overgrown grounds and front entrance",
+      "aiSummary": "The party examines the ancient manor, meets Colden, stables Mossfoot, and debates entering.",
+      "dateStart": "1740-10-04",
+      "dateEnd": "1740-10-04",
+      "time": "Dusk",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1130",
+        "endUid": "u1253"
+      },
+      "type": "exploration",
+      "locationDetail": "Receiving room, stairs, and second-floor landing",
+      "aiSummary": "Alden leads the party upstairs past preserved furnishings, a clock, and gardening tapestries.",
+      "dateStart": "1740-10-04",
+      "dateEnd": "1740-10-04",
+      "time": "Dusk",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1254",
+        "endUid": "u1312"
+      },
+      "type": "conversation",
+      "locationDetail": "Third-floor observatory",
+      "aiSummary": "Alden introduces the adventurers to Lord Hulda, who invites them to dinner.",
+      "dateStart": "1740-10-04",
+      "dateEnd": "1740-10-04",
+      "time": "Sunset",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1313",
+        "endUid": "u1967"
+      },
+      "type": "conversation",
+      "locationDetail": "Kitchen",
+      "aiSummary": "Hulda offers half the promised treasure for ending a mysterious treaty; the party accepts, then debates the risks after he leaves.",
+      "dateStart": "1740-10-04",
+      "dateEnd": "1740-10-04",
+      "time": "Evening, through about 10 p.m.",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1968",
+        "endUid": "u1973"
+      },
+      "type": "exploration",
+      "locationDetail": "Stables behind the house",
+      "aiSummary": "Edric checks on Mossfoot, who is well provisioned despite the decrepit stables.",
+      "dateStart": "1740-10-04",
+      "dateEnd": "1740-10-04",
+      "time": "Late evening",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1974",
+        "endUid": "u2010"
+      },
+      "type": "exploration",
+      "locationDetail": "Guest quarters and final evening preparations",
+      "aiSummary": "The party prepares for sleep, distributes goodberries, and Tarek pockets a spoon.",
+      "dateStart": "1740-10-04",
+      "dateEnd": "1740-10-04",
+      "time": "Late evening",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2011",
+        "endUid": "u2017"
+      },
+      "type": "exploration",
+      "locationDetail": "Guest quarters",
+      "aiSummary": "The clock wakes the party before dawn, and Alden collects them.",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "time": "Before dawn",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2018",
+        "endUid": "u2044"
+      },
+      "type": "exploration",
+      "locationDetail": "Basement and stairs to the subcellar",
+      "aiSummary": "Alden unlocks the basement and uses a glowing golden key to open a rough stairway below it.",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "time": "Before dawn",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2045",
+        "endUid": "u2086"
+      },
+      "type": "conversation",
+      "locationDetail": "Root-covered subcellar",
+      "aiSummary": "Hulda gives directions through the hidden door and promises to keep it open as the party prepares to crawl through.",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "time": "Before dawn",
+      "location": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2087",
+        "endUid": "u2150"
+      },
+      "type": "travel",
+      "locationDetail": "Hollow root tunnel beyond the cellar door",
+      "aiSummary": "The party crawls inside a gigantic dry root; the door closes behind them as Tarek recognizes the deed’s linguistic anomaly.",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "location": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Dandelion Root Portal.md"
+    }
+  ],
+  "entities": [
+    {
+      "id": "alden",
+      "kind": "npc",
+      "label": "Alden",
+      "aiSummary": "The quiet, fire-averse guide escorts the party to Dandelion House, introduces Hulda, and opens the route to the subcellar. His delight in dandelions contrasts with the party’s suspicions.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Alden.md",
+      "aiSuggestedFeaturedQuotes": [
+        "alden-traveler",
+        "alden-home",
+        "alden-weed",
+        "alden-introduction"
+      ]
+    },
+    {
+      "id": "hulda",
+      "kind": "npc",
+      "label": "Lord Hulda",
+      "aiSummary": "Hulda offers half his promised hoard if the party persuades an unnamed lord to end a treaty, explaining the ancient deed behind his inheritance. He promises to keep the cellar door open while they cross.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Lord Hulda.md",
+      "aiSuggestedFeaturedQuotes": [
+        "hulda-losses",
+        "hulda-wealth",
+        "hulda-regret",
+        "hulda-promise"
+      ]
+    },
+    {
+      "id": "colden",
+      "kind": "npc",
+      "label": "Colden",
+      "aiSummary": "Introduced as Alden’s cousin, Colden takes Mossfoot to the stables when the party arrives.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Colden.md",
+      "aiSuggestedFeaturedQuotes": [
+        "colden-introduction"
+      ]
+    },
+    {
+      "id": "mossfoot",
+      "kind": "npc",
+      "label": "Mossfoot",
+      "aiSummary": "Edric’s pony grows more alert during the forest journey and is entrusted to Colden. Edric later finds him comfortable in the manor’s stables.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Other PCs/Tollen Misfits/Mossfoot.md"
+    },
+    {
+      "id": "night-queen",
+      "kind": "npc",
+      "label": "The Night Queen",
+      "aiSummary": "Edric describes the Night Queen’s role in his life and invokes her protection during camp and the approach to the manor.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Night Queen.md"
+    },
+    {
+      "id": "book-patron",
+      "kind": "npc",
+      "label": "Elf who hired the party to recover books",
+      "aiSummary": "The companions recall an unnamed elf who hired them to recover old books from an ettin’s hoard.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "recovered-books",
+      "kind": "item",
+      "label": "Books recovered on the previous job",
+      "aiSummary": "Old books recovered from an ettin’s hoard are discussed as the goal of the party’s previous job.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "deed-deliverer",
+      "kind": "npc",
+      "label": "Elf who delivered Hulda’s deed",
+      "aiSummary": "Hulda describes an unnamed elven archivist who delivered the ancient inheritance contract after holding it for centuries.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "unnamed-lord",
+      "kind": "npc",
+      "label": "Unnamed lord beyond the cellar door",
+      "aiSummary": "Hulda says the lord beyond the cellar door refused his demand to end a treaty; the party intends to meet him but does not reach him this session.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "inheritance-deed",
+      "kind": "item",
+      "label": "Hulda’s inheritance deed",
+      "aiSummary": "The brittle contract promises Hulda the estate and its treasure if a treaty is ended, and Tarek examines it. In the tunnel, Tarek realizes its modern Sembaran wording conflicts with its centuries-old material. ",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "deed-anomaly",
+        "deed-introduction"
+      ]
+    },
+    {
+      "id": "promised-hoard",
+      "kind": "item",
+      "label": "Dandelion House’s promised treasure hoard",
+      "aiSummary": "Hulda offers half the gold, gems, and jewelry promised by the deed, but neither he nor the party has inspected the inaccessible hoard.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "cleaning-bar",
+      "kind": "item",
+      "label": "Magical cleaning bar",
+      "aiSummary": "The party uses the kitchen’s cleaning bar, and Tarek discreetly assesses whether its nonmagical bracket could be removed.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "cleaning-bar-effect"
+      ]
+    },
+    {
+      "id": "kitchen-provisions",
+      "kind": "item",
+      "label": "Magical kitchen cupboard and icebox",
+      "aiSummary": "Alden serves cold food from the magical icebox and fresh bread from the magical cupboard.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "grandfather-clock",
+      "kind": "item",
+      "label": "Magical grandfather clock",
+      "aiSummary": "The preserved clock on the second-floor landing marks the late evening and wakes the party before dawn.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "gardening-tapestries",
+      "kind": "item",
+      "label": "Gardening tapestries",
+      "aiSummary": "Kaito and Ayveen investigate faded tapestries showing gardeners working on plants in greenhouses.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "tapestry-gardeners"
+      ]
+    },
+    {
+      "id": "cellar-key",
+      "kind": "item",
+      "label": "Glowing golden key",
+      "aiSummary": "Alden uses a small golden, apparently glowing key to unlock the stairs beneath the basement.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "cellar-door",
+      "kind": "item",
+      "label": "Hidden door in the root cellar",
+      "aiSummary": "Hulda presents the hidden doorway as the route to another manor and promises to keep it open. It closes after the party enters the root tunnel.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "door-closes"
+      ]
+    },
+    {
+      "id": "philosophers",
+      "kind": "organization",
+      "label": "Ancient and Honorable Guild of Philosophers",
+      "aiSummary": "Txarro wonders why Hulda did not consult the Philosopher’s Guild about the anomalous deed.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers.md"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "alden-camp",
+      "entity": "alden",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Alden discusses earlier adventures, praises Dandelion House, and is quietly examined through Detect Thoughts.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0035",
+            "endUid": "u0698"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "alden-introduction",
+          "type": "introduction",
+          "text": "He's a short man, sort of round, very strong, but not exactly strong-looking, always smiling, quiet. Very pale, always watching and paying attention and attentive, but rarely volunteering anything in particular to say. But tonight, he says to you,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0445",
+            "endUid": "u0446"
+          }
+        },
+        {
+          "id": "alden-home",
+          "type": "color",
+          "text": "He says, I'm so excited for you to see it, it's… Gorgeous. It has everything that a manor house should. And… it's a little old, it's a little rundown. Sure, it needs a little bit of love, of course, and… and care, but it's… It's beautiful, it's exactly what it is, it's exactly what it should be. The walls, the… Cellars! The halls… Once… Once. Lord Hulda just spruces it up a little bit and really moves in. It's gonna be just the thing, filled with people and life and laughter, which it isn't really now, but it will be soon.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0538",
+            "endUid": "u0544"
+          }
+        },
+        {
+          "id": "alden-traveler",
+          "type": "color",
+          "text": "From a single dandelion can travel hundreds of miles. And that… the same dandelions that grow on the west side of the mountains grow on the east. What greater traveler is there than a seed? It's remarkable. Hmm. Have you ever seen, at dawn and dusk. In a field of dandelions, if you blow, the way the light shines on each of them, it's one of the most beautiful things I've… I know you're just giving me a hard time, but it's… don't downplay the beauty of this thing, it's magnificent. It's not a simple, it's not a weed.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0559",
+            "endUid": "u0566"
+          }
+        },
+        {
+          "id": "alden-weed",
+          "type": "color",
+          "text": "The dandelion can go anywhere and do anything, can cross unimaginable distances. That's exactly it, it's not a humble weed.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0569",
+            "endUid": "u0569"
+          }
+        }
+      ]
+    },
+    {
+      "id": "alden-guided-visit",
+      "entity": "alden",
+      "scenes": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Alden guides the party through the woods and manor, introduces Hulda, serves dinner, and explains the magical sconces.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0699",
+            "endUid": "u1957"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "alden-cellar",
+      "entity": "alden",
+      "scenes": [
+        9,
+        10,
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Alden collects the party before dawn and unlocks the route to the root cellar.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2016",
+            "endUid": "u2051"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hulda-before-arrival",
+      "entity": "hulda",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Alden explains that Hulda’s inheritance has an unfulfilled condition.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0535",
+            "endUid": "u0555"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hulda-at-gate",
+      "entity": "hulda",
+      "scenes": [
+        3
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Alden advises patience and flattery when meeting the proud, long-disinherited lord.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0848",
+            "endUid": "u0902"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hulda-dinner",
+      "entity": "hulda",
+      "scenes": [
+        5,
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Hulda welcomes the party and negotiates their mission to end the unnamed lord’s treaty in exchange for half his promised treasure.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1265",
+            "endUid": "u1845"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "hulda-introduction",
+          "type": "introduction",
+          "text": "Is a man in his mid-40s With a grizzled gray beard and a powerful build. He stands with the sort of bored alertness that you associate with fighting people, the sort of person who has spent a long time standing still and watching and ready for whatever comes. That assessment is… Same with me. by the sword that he wears at his hip. The impression that you get of that is less of a man prepared for combat in the moment, and more of, this is what the Lord of the Manor does. He wears a sword. He's not armored, but he's wearing. Well-worn, but fine clothes. His sleeves are pulled up to the elbows, and you can see a criss-cross web of… Long-heeled scars on his forearms and on his face, too. A long cut that interrupts his beard on one side of his face.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1272",
+            "endUid": "u1281"
+          }
+        },
+        {
+          "id": "hulda-losses",
+          "type": "color",
+          "text": "I should have been happy. But the truth was… Everyone I went there with died except for me? And this dragon… Had come looking, had come… Hungary, it had no territory, it had no… Treasure? I got back to Tollen… And sure, they started writing a song about me. But I woke up the next morning, and I realized… All of my friends were dead? My purse was… No bigger than it was when I began 3 decades ago. What was left for me? It was a bitter… It was a difficult day. I was owed more. My whole life. And I hadn't gotten it. It was a bitter thing to wake up to.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1448",
+            "endUid": "u1462"
+          }
+        },
+        {
+          "id": "hulda-condition",
+          "type": "color",
+          "text": "Because down there at the bottom, what it says is that Locked in a room in the basement. Is the doom of the house. And that the house will never belong to me. Unless I step through the door in the floor. And convinced the man on the other side of it To bring his long-held treaty to an end. That was as specific as it is. I've pulled all sorts of jobs for all sorts of people over the years. On the scale of vagueness, this one is probably right in the middle. So I signed. I committed myself to it. My whole life, this is what I've been owed, and finally… I could have it, of course it's worth… negotiating the end to a treaty of all the things I've done, how hard can that really be? I came here… And I went through the door… And I met the man on the other side, and I was… Unable to convince him. So I thought that others might be more persuasive than me. And here we are.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1518",
+            "endUid": "u1535"
+          }
+        },
+        {
+          "id": "hulda-wealth",
+          "type": "color",
+          "text": "Every fiber of my being, every bone in my body says. No, I mean, look at this place! Look at this place! Look at what's just here in the kitchen! This is… This is… money. This is… this is not money. This is not money. This is not riches. This is wealth.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1683",
+            "endUid": "u1687"
+          }
+        },
+        {
+          "id": "hulda-regret",
+          "type": "color",
+          "text": "I do, goddammit, and I don't like thinking about it.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1788",
+            "endUid": "u1788"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hulda-after-dinner",
+      "entity": "hulda",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "After Hulda leaves, the companions debate his reliability, the treaty’s unknown consequences, and the uncertain treasure.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1848",
+            "endUid": "u1949"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hulda-cellar",
+      "entity": "hulda",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Hulda gives directions through the doorway and promises to guard it and keep it open.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2049",
+            "endUid": "u2086"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "hulda-promise",
+          "type": "color",
+          "text": "You go through, it gets dark, just when you can't see the light of the candle behind you, then you'll see the light of the candle in front of you. And… Come out the other side. I'll be here… I keep this open… I'll make sure nothing happens on this end. You take care of business on that end. Let me know what happens.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2054",
+            "endUid": "u2059"
+          }
+        }
+      ]
+    },
+    {
+      "id": "colden-stables",
+      "entity": "colden",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Colden greets Alden and leads Edric’s pony away to the stables.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0950",
+            "endUid": "u0973"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "colden-introduction",
+          "type": "introduction",
+          "text": "And, a similarly shaped and sized man, a sort of a short. Round, well-muscled, but also, pudgy, guy in… Not identical, but similar, sort of rough. homespun,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0959",
+            "endUid": "u0962"
+          }
+        }
+      ]
+    },
+    {
+      "id": "mossfoot-camp",
+      "entity": "mossfoot",
+      "scenes": [
+        1
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "aiSummary": "Edric introduces the pony accompanying him and carrying his gear.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0239",
+            "endUid": "u0246"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Edric’s unnamed pony"
+    },
+    {
+      "id": "mossfoot-arrival",
+      "entity": "mossfoot",
+      "scenes": [
+        2,
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Edric watches his increasingly alert pony during the march and entrusts him to Colden at the manor.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0756",
+            "endUid": "u0973"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Moss Foot"
+    },
+    {
+      "id": "mossfoot-check",
+      "entity": "mossfoot",
+      "scenes": [
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Edric checks the stables and finds Mossfoot doing well with food available.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1968",
+            "endUid": "u1973"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Moss Foot"
+    },
+    {
+      "id": "night-queen-camp",
+      "entity": "night-queen",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Edric describes his divine blessing and prays for the Night Queen to protect his sleeping companions.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0225",
+            "endUid": "u0260"
+          },
+          "relevance": "primary"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0690",
+            "endUid": "u0695"
+          },
+          "relevance": "supporting"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "night-queen-manor",
+      "entity": "night-queen",
+      "scenes": [
+        3,
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Edric invokes the Night Queen’s protection and explains his concern about undead.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1083",
+            "endUid": "u1183"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "book-patron-memory",
+      "entity": "book-patron",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party recalls recovering books for an unnamed elf associated with an unnamed organization.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0450",
+            "endUid": "u0470"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "books-memory",
+      "entity": "recovered-books",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party’s account of its last job identifies old books as the objects recovered for its elven patron.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0450",
+            "endUid": "u0470"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "deed-deliverer-story",
+      "entity": "deed-deliverer",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Hulda recounts an ancient archivist’s delivery of the deed at a precise time and place.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1463",
+            "endUid": "u1508"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "lord-beyond-door-story",
+      "entity": "unnamed-lord",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Hulda describes his unsuccessful confrontation with the unnamed lord whose treaty blocks the inheritance.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1518",
+            "endUid": "u1785"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "The man on the other side of the door"
+    },
+    {
+      "id": "deed-dinner",
+      "entity": "inheritance-deed",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Tarek examines the ancient contract, confirms Hulda’s description, and senses an inconsistency he cannot yet identify.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1471",
+            "endUid": "u1675"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "deed-introduction",
+          "type": "introduction",
+          "text": "It's a deed. It's a deed… of inheritance… 4… Me. And the self proceeds to tell me the strangest story that is attested to on the piece of paper in front of him. Now, the five of you looking at this paper can clearly tell this is an ancient, this is an old document. This thing is brittle. In fact, when he unfolds it, you can see, this is not a person used to taking care of archival documents, because as he unfolds it, you know, little bits of it are, like, flaking off as it goes. And one should not put a 500-year-old deed in the middle of a dinner table. But there he puts it.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1473",
+            "endUid": "u1478"
+          }
+        }
+      ]
+    },
+    {
+      "id": "deed-late-realization",
+      "entity": "inheritance-deed",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "Tarek realizes the genuinely four-hundred-year-old deed is written in perfectly contemporary Sembaran.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2126",
+            "endUid": "u2139"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "deed-anomaly",
+          "type": "whole",
+          "text": "Unambiguously, unquestionably, That document was 400 years old. It was not a forgery, it was not a fake. It was written… in power. Perfectly contemporary Sembaran.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2128",
+            "endUid": "u2131"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hoard-bargain",
+      "entity": "promised-hoard",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party negotiates for half the promised hoard and debates whether it exists or has significant value.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1509",
+            "endUid": "u1949"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "cleaning-bar-use",
+      "entity": "cleaning-bar",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party cleans itself with the bar while Tarek and Kaito quietly investigate detaching it.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1333",
+            "endUid": "u1394"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "cleaning-bar-effect",
+          "type": "whole",
+          "text": "Eric taps the bar. and all of yourself and clothes and hands are cleaned, magically. It's one of those, Cleaning bar.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1341",
+            "endUid": "u1342"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kitchen-provisions-observed",
+      "entity": "kitchen-provisions",
+      "scenes": [
+        6
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "The party sees Alden retrieve cold chicken and vegetables from the icebox and fresh bread from the magical cupboard.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1321",
+            "endUid": "u1332"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "clock-first-sight",
+      "entity": "grandfather-clock",
+      "scenes": [
+        4
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "The party sees a magically preserved grandfather clock still ticking on the landing.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1201",
+            "endUid": "u1209"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "clock-evening",
+      "entity": "grandfather-clock",
+      "scenes": [
+        6
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "The grandfather clock chimes ten during the party’s debate.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1915",
+            "endUid": "u1915"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "clock-waking",
+      "entity": "grandfather-clock",
+      "scenes": [
+        9
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The clock’s chimes wake the party in their rooms before dawn.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2011",
+            "endUid": "u2016"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "tapestries-examined",
+      "entity": "gardening-tapestries",
+      "scenes": [
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kaito and Ayveen investigate two faded tapestries and identify scenes of greenhouse gardening.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1212",
+            "endUid": "u1252"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "tapestry-gardeners",
+          "type": "whole",
+          "text": "This is a tapestry of gardeners in a greenhouse trimming plants. like, like… Bonsais, maybe? Like a little tree that's up, and they're, like, snipping the root, you know, the way that you do on a bunsai to keep it small.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1226",
+            "endUid": "u1229"
+          }
+        }
+      ]
+    },
+    {
+      "id": "cellar-key-observed",
+      "entity": "cellar-key",
+      "scenes": [
+        10
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "The party watches Alden use the small glowing golden key to unlock the door to the lower stairs.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2029",
+            "endUid": "u2040"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "cellar-door-described",
+      "entity": "cellar-door",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Hulda describes a doorway that opens somewhere else and says he returned by leaving it propped open.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1518",
+            "endUid": "u1772"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "cellar-door-crossing",
+      "entity": "cellar-door",
+      "scenes": [
+        11,
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party enters the narrow passage beyond the hidden door and hears it close behind them.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2049",
+            "endUid": "u2137"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "door-closes",
+          "type": "whole",
+          "text": "Yeah, why… just before… The light dwindles entirely. And I'm gonna say in the moment, as you're in the process of casting the spell. You hear the door close behind you.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2123",
+            "endUid": "u2125"
+          }
+        }
+      ]
+    },
+    {
+      "id": "philosophers-suggestion",
+      "entity": "philosophers",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Txarro asks why Hulda did not take the strange deed to the Philosopher’s Guild.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2132",
+            "endUid": "u2135"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  },
+  "sceneReview": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  },
+  "dateStart": "1740-10-03",
+  "dateEnd": "1740-10-05"
+}

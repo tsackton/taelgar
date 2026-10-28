@@ -1,0 +1,402 @@
+{
+  "inputDigest": "dbf921e9831936390b0b01deaafdde4402dfebab59d270decc353996afce913c",
+  "criticalMetadata": {
+    "campaign": "lablost",
+    "session": 2,
+    "realWorldDate": "2023-11-25",
+    "pcs": [
+      "People/PCs/Other PCs/Labyrinth Prisoners/Acescale.md",
+      "People/PCs/Other PCs/Labyrinth Prisoners/Gaudin.md",
+      "People/PCs/Other PCs/Labyrinth Prisoners/Loria Underbough.md",
+      "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md"
+    ],
+    "dateStart": "1748-10-17",
+    "dateEnd": "1748-10-18",
+    "locations": [
+      "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    ]
+  },
+  "entityEvidence": [
+    {
+      "target": "entity:ghost",
+      "record": {
+        "id": "ghost",
+        "kind": "npc",
+        "label": "J.M., the sailor ghost",
+        "aiSummary": "The party finds clues about the sailor ghost and his lost love. Gaudin uses her appearance to turn him against Grimstone and learn the way below.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Humans/Jacopo Marcelli.md",
+        "aiSuggestedFeaturedQuotes": [
+          "ghost-intro",
+          "ghost-mourning",
+          "ghost-love",
+          "ghost-revolt"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1482",
+          "endUid": "u1500"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1582"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1610",
+          "endUid": "u1729"
+        }
+      ]
+    },
+    {
+      "target": "entity:petrona",
+      "record": {
+        "id": "petrona",
+        "kind": "npc",
+        "label": "Petrona",
+        "aiSummary": "The party learns about Petrona through the locket, letters and ghost; Gaudin impersonates her to gain the ghost’s help.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Humans/Petrona.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1582"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1657",
+          "endUid": "u1698"
+        }
+      ]
+    },
+    {
+      "target": "entity:grimstone",
+      "record": {
+        "id": "grimstone",
+        "kind": "npc",
+        "label": "Grimstone",
+        "aiSummary": "Grimstone is discussed as the masked captor; the ghost reveals his underground lair and alleged use of petrified fingers.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Humans/Grimstone.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1219",
+          "endUid": "u1224"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1626",
+          "endUid": "u1729"
+        }
+      ]
+    },
+    {
+      "target": "entity:folcan",
+      "record": {
+        "id": "folcan",
+        "kind": "npc",
+        "label": "Folcan",
+        "aiSummary": "The party recalls releasing Folcan and uses his information about entrances to the manor’s tunnels.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/Other Nonhumans/Folcan.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0040",
+          "endUid": "u0121"
+        }
+      ]
+    },
+    {
+      "target": "entity:steampup",
+      "record": {
+        "id": "steampup",
+        "kind": "npc",
+        "label": "Steampup",
+        "aiSummary": "Dilion sends Steampup as a decoy, repairs it after the chase and uses it in the crypt battle.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md",
+        "aiSuggestedFeaturedQuotes": [
+          "steampup-bite"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0129",
+          "endUid": "u0340"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0355",
+          "endUid": "u0549"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0723",
+          "endUid": "u0741"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1147",
+          "endUid": "u1150"
+        }
+      ]
+    },
+    {
+      "target": "entity:perdoli",
+      "record": {
+        "id": "perdoli",
+        "kind": "organization",
+        "label": "Perdoli family",
+        "aiSummary": "The party identifies the manor’s former owners and examines their old wine accounts and portraits.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "Groups/Perdoli Family.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0912",
+          "endUid": "u0941"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1121",
+          "endUid": "u1176"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1267",
+          "endUid": "u1269"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1566",
+          "endUid": "u1572"
+        }
+      ]
+    },
+    {
+      "target": "entity:mother",
+      "record": {
+        "id": "mother",
+        "kind": "npc",
+        "label": "The Mother",
+        "aiSummary": "The party recognizes the chapel’s dedication through a small holy icon.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother.md"
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0572"
+        }
+      ]
+    },
+    {
+      "target": "entity:medusa",
+      "record": {
+        "id": "medusa",
+        "kind": "npc",
+        "label": "Petrified medusa",
+        "aiSummary": "The party sees a stone medusa at a fountain and later considers whether she could be restored.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "medusa-intro"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0377",
+          "endUid": "u0391"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1415",
+          "endUid": "u1433"
+        }
+      ]
+    },
+    {
+      "target": "entity:locket",
+      "record": {
+        "id": "locket",
+        "kind": "item",
+        "label": "J.M.’s silver locket",
+        "aiSummary": "The locket’s portrait and inscription help the party identify the ghost’s lost love and manipulate his grief.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "aiSuggestedFeaturedQuotes": [
+          "locket-inscription"
+        ]
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1511",
+          "endUid": "u1536"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1620",
+          "endUid": "u1660"
+        }
+      ]
+    },
+    {
+      "target": "entity:ring",
+      "record": {
+        "id": "ring",
+        "kind": "item",
+        "label": "Gaudin’s goblinoid-detecting ring",
+        "aiSummary": "Gaudin watches the ring for nearby goblinoids while the party infiltrates the manor.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0174",
+          "endUid": "u0175"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0433",
+          "endUid": "u0438"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0595"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0886",
+          "endUid": "u0888"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1011",
+          "endUid": "u1115"
+        }
+      ]
+    },
+    {
+      "target": "entity:papers",
+      "record": {
+        "id": "papers",
+        "kind": "item",
+        "label": "Smuggler’s maps and love letters",
+        "aiSummary": "The party reads maps and letters that connect J.M. and P. to an earlier pirate hideout.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1540",
+          "endUid": "u1572"
+        }
+      ]
+    },
+    {
+      "target": "entity:plate",
+      "record": {
+        "id": "plate",
+        "kind": "item",
+        "label": "Silver altar plate",
+        "aiSummary": "The party finds a silver altar plate and considers polishing it into a mirror to use against the basilisk.",
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        }
+      },
+      "sourceRanges": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0564"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1370",
+          "endUid": "u1420"
+        }
+      ]
+    }
+  ],
+  "optionalReviewHints": [
+    "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-beats.json",
+    "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-beat-facts.json"
+  ],
+  "instructions": "Separately verify each critical record against transcript context and vault identities. Inspect dates, attendance, locations and omissions across the session. Beats are optional review hints, never sole evidence. No validation-only promotion. Return reviewer, inputDigest, attempt (0 or 1), decisions with target, confidence, reason, evidence."
+}

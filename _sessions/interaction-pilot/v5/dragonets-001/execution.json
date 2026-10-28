@@ -1,0 +1,101 @@
+{
+  "method": "Independent semantic review of critical metadata and every entity using targeted transcript windows, widened around major exchanges and final vision; one quote correction round.",
+  "extractionAgent": "dragonets",
+  "reviewAgent": "du064_chasm",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 2203,
+  "reviewFullTranscriptRead": false,
+  "reviewWindows": [
+    [
+      1,
+      100
+    ],
+    [
+      180,
+      215
+    ],
+    [
+      242,
+      280
+    ],
+    [
+      390,
+      415
+    ],
+    [
+      640,
+      912
+    ],
+    [
+      940,
+      1033
+    ],
+    [
+      1100,
+      1165
+    ],
+    [
+      1270,
+      1425
+    ],
+    [
+      1510,
+      1590
+    ],
+    [
+      1700,
+      1830
+    ],
+    [
+      1860,
+      1895
+    ],
+    [
+      1950,
+      2203
+    ]
+  ],
+  "coverage": {
+    "sceneRanges": [
+      [
+        1,
+        1381
+      ],
+      [
+        1397,
+        2137
+      ]
+    ],
+    "excludedRanges": [
+      {
+        "startUid": "u1382",
+        "endUid": "u1396",
+        "reason": "Out-of-character discussion of session length and rap performance."
+      },
+      {
+        "startUid": "u2138",
+        "endUid": "u2203",
+        "reason": "Session closing and post-play discussion."
+      }
+    ],
+    "allPlayedPassagesCovered": true
+  },
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 2203,
+    "sceneUtterances": 2122,
+    "unassignedUtterances": 81,
+    "metadataReady": false,
+    "readyEntities": 15,
+    "provisionalEntities": 0
+  },
+  "issues": [
+    "All four actual PC names lack resolvable individual vault pages; pcs remains empty and critical metadata low. In-world dates remain unknown, not inferred from other campaign lore."
+  ],
+  "corrections": [
+    "Narrowed Zare and Rosca color quotes to exclude PC speech.",
+    "Removed narratorial prefixes from the elder call and Rosca rhyme."
+  ],
+  "unflaggedSampling": "Verified object speech, Edmund’s narrated perspective, the distinctive ceremonial elder, whole contest boundaries, egg vision versus physical travel, and excluded closing chatter."
+}

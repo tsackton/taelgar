@@ -1,0 +1,1827 @@
+{
+  "schemaVersion": 5,
+  "campaign": "dufr",
+  "session": 58,
+  "realWorldDate": "2022-09-26",
+  "pcs": [
+    "People/PCs/Dunmar Fellowship/Riswynn.md",
+    "People/PCs/Dunmar Fellowship/Guests/Rothfis.md",
+    "People/PCs/Dunmar Fellowship/Guests/Merash.md",
+    "People/PCs/Dunmar Fellowship/Guests/Thror.md"
+  ],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md",
+      "sha256": "4f5189ddd9676c4c720f2bcebd875bc930b04ff059687f2ee6558127ff668d9b"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md",
+    "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+    "Gazetteer/Greater Dunmar/Hara Basin/Stoneborn Statue Dungeon.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0068",
+        "endUid": "u0075"
+      },
+      "type": "travel",
+      "locationDetail": "Cliff path above the river",
+      "aiSummary": "Tak leads the party along the cliffs toward Nora Silverspark.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0076",
+        "endUid": "u0564"
+      },
+      "type": "conversation",
+      "locationDetail": "Nora’s rocky overlook",
+      "aiSummary": "Nora recounts Hagrim’s betrayal; Tak identifies his exiled cousin, and the party chooses to seek him.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0565",
+        "endUid": "u0578"
+      },
+      "type": "travel",
+      "locationDetail": "Crossing near Bleakhold",
+      "aiSummary": "The party escorts Tak toward Bleakhold and crosses the river into the wastes.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0579",
+        "endUid": "u0688"
+      },
+      "type": "exploration",
+      "locationDetail": "Ashfields east of the river",
+      "aiSummary": "Rothfis scouts by air, spots a cave, and guides the party through the dusty wastes.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0689",
+        "endUid": "u1025"
+      },
+      "type": "combat",
+      "locationDetail": "Rocky outcrop in the Ashfields",
+      "aiSummary": "A spirit troll ambushes the party; radiant damage suppresses its shadows before Thror destroys it.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1026",
+        "endUid": "u1060"
+      },
+      "type": "travel",
+      "locationDetail": "Approach to the cave",
+      "aiSummary": "Rothfis revives, Riswynn heals him, and the party approaches the cave.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1061",
+        "endUid": "u1406"
+      },
+      "type": "conversation",
+      "locationDetail": "Del’s cave in the Ashfields",
+      "aiSummary": "Del shares fragmented memories of Hagrim, the lost city, and the battle while drinking Rothfis’s ale.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1407",
+        "endUid": "u1608"
+      },
+      "type": "conversation",
+      "locationDetail": "Del’s cave in the Ashfields",
+      "aiSummary": "The party rests, considers Hagrim’s possible corruption, and plans how to use the chalice.",
+      "time": "After a short rest",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1638",
+        "endUid": "u1655"
+      },
+      "type": "travel",
+      "locationDetail": "Route to the ruined statue",
+      "aiSummary": "The party leaves Del’s cave and travels to the ruined statue and its underground fortress.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1656",
+        "endUid": "u1862"
+      },
+      "type": "exploration",
+      "locationDetail": "Outside the shadow statue’s fortress",
+      "aiSummary": "Strange spirits converge as the party approaches the entrance; greetings and displaying the chalice receive no response.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1863",
+        "endUid": "u1905"
+      },
+      "type": "combat",
+      "locationDetail": "Fortress entrance beneath the shadow statue",
+      "aiSummary": "Riswynn destroys seven spirits with divine power, and the party runs past the survivors into the fortress.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1906",
+        "endUid": "u1948"
+      },
+      "type": "exploration",
+      "locationDetail": "Fortress entry chamber",
+      "aiSummary": "The party catches its breath and Rothfis drinks an enlarging potion before descending.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1949",
+        "endUid": "u2036"
+      },
+      "type": "exploration",
+      "locationDetail": "Underground hall of bones",
+      "aiSummary": "Merash descends crumbling stairs; the party finds a blocked door and notices bones beginning to move.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2037",
+        "endUid": "u2118"
+      },
+      "type": "combat",
+      "locationDetail": "Hall of bones and blocked doorway",
+      "aiSummary": "Animated bones attack while Riswynn uses giant strength and Shatterstorm to force the blocked door.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 15,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2119",
+        "endUid": "u2182"
+      },
+      "type": "conversation",
+      "locationDetail": "Threshold of Hagrim’s throne room",
+      "aiSummary": "Hagrim challenges the intruders as Merash pulls Riswynn free of the bones and she presents the chalice.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 16,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2183",
+        "endUid": "u2961"
+      },
+      "type": "combat",
+      "locationDetail": "Hagrim’s throne room",
+      "aiSummary": "The party fights Hagrim and his undead; Riswynn pours the chalice over his fading ghost and asks for redemption.",
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    {
+      "index": 17,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2962",
+        "endUid": "u2992"
+      },
+      "type": "exploration",
+      "locationDetail": "Grassy plain beside the stoneborn statue",
+      "aiSummary": "The chalice floods the shadow realm, which dissolves around the party as they emerge in Dunmar.",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Stoneborn Statue Dungeon.md"
+    },
+    {
+      "index": 18,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2993",
+        "endUid": "u3073"
+      },
+      "type": "conversation",
+      "locationDetail": "Across the river north of Tokra",
+      "aiSummary": "The party reassures the freed dwarves; Rothfis and Merash return home while Thror stays with Riswynn and the refugees.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    }
+  ],
+  "entities": [
+    {
+      "id": "tak",
+      "kind": "npc",
+      "label": "Tak",
+      "aiSummary": "Tak guides the party to Nora, explains Del’s exile, and receives an escort back toward Bleakhold.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dwarves/Tak.md",
+      "aiSuggestedFeaturedQuotes": [
+        "tak-intro",
+        "tak-exile",
+        "tak-trolls"
+      ]
+    },
+    {
+      "id": "nora",
+      "kind": "npc",
+      "label": "Nora Silverspark",
+      "aiSummary": "Nora describes the refugees’ defeat and Hagrim’s betrayal, identifies his rule over Morkalan, and points the party toward his cousin.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dwarves/Nora Silverspark.md",
+      "aiSuggestedFeaturedQuotes": [
+        "nora-fault",
+        "nora-betrayal",
+        "nora-prison",
+        "nora-intro"
+      ]
+    },
+    {
+      "id": "hagrim",
+      "kind": "npc",
+      "label": "Hagrim Firebrand",
+      "aiSummary": "Nora and Del describe Hagrim’s changed nature and past betrayal. The party fights his ghost, and Riswynn uses the chalice while requesting redemption.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dwarves/Hagrim.md",
+      "aiSuggestedFeaturedQuotes": [
+        "hagrim-memories",
+        "hagrim-misery",
+        "hagrim-peace",
+        "hagrim-return"
+      ]
+    },
+    {
+      "id": "del",
+      "kind": "npc",
+      "label": "Del Firebrand, the Mad Priest",
+      "aiSummary": "Hagrim’s cousin offers fragmented memories of home, war, and betrayal, and shelters the party while they rest.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dwarves/Delig Firebrand.md",
+      "aiSuggestedFeaturedQuotes": [
+        "del-eyes",
+        "del-battle",
+        "del-regret",
+        "del-intro"
+      ]
+    },
+    {
+      "id": "magerson",
+      "kind": "npc",
+      "label": "Magerson",
+      "aiSummary": "Nora names a giant who led trolls against the dwarven refugees.",
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "note": "People/Historical Figures/Odim Mavdyrson.md",
+      "aiSuggestedFeaturedQuotes": [
+        "magerson-intro"
+      ]
+    },
+    {
+      "id": "memory-spirits",
+      "kind": "npc",
+      "label": "Spirits around Hagrim’s fortress",
+      "aiSummary": "Spirits bearing distinctive images of dwarven memories cluster around the fortress and attack as the party passes them.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "spirits-intro",
+        "spirits-images"
+      ]
+    },
+    {
+      "id": "ironhorns",
+      "kind": "organization",
+      "label": "Ironhorns",
+      "aiSummary": "Rothfis blames his former marriage and the Ironhorns for the debt that brought him on this quest.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "ironhorns-debt-quote",
+        "ironhorns-farewell-quote"
+      ]
+    },
+    {
+      "id": "stonefists",
+      "kind": "organization",
+      "label": "Stonefist clan",
+      "aiSummary": "Rothfis identifies Stonefist as his clan while discussing brewing with Del.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "stonefist-quote"
+      ]
+    },
+    {
+      "id": "chalice",
+      "kind": "item",
+      "label": "Chalice of the Runepriest",
+      "aiSummary": "The chalice wins Nora’s trust and anchors the party’s debate over Hagrim’s judgment. Riswynn pours it over Hagrim, requests redemption, and its waters dissolve Morkalan.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Things/Artifacts of Power/Chalice of the Runepriest.md",
+      "aiSuggestedFeaturedQuotes": [
+        "chalice-recognized",
+        "chalice-choice",
+        "chalice-flood"
+      ]
+    },
+    {
+      "id": "shatterstorm",
+      "kind": "item",
+      "label": "Shatterstorm",
+      "aiSummary": "Riswynn uses the magical warhammer against undead, forces the fortress door, and smashes the attacking bones.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Shatterstorm.md",
+      "aiSuggestedFeaturedQuotes": [
+        "shatterstorm-door-quote",
+        "shatterstorm-bones"
+      ]
+    },
+    {
+      "id": "maul",
+      "kind": "item",
+      "label": "Maul of the Forge",
+      "aiSummary": "Merash strikes the spirit troll and Hagrim’s forces with her maul and throws it in an explosive burst of fire.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "maul-fire"
+      ]
+    },
+    {
+      "id": "boots",
+      "kind": "item",
+      "label": "Rothfis’s flying boots",
+      "aiSummary": "Rothfis uses his flying boots to scout the wastes and maneuver through the encounters at Hagrim’s fortress.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "boots-drop"
+      ]
+    },
+    {
+      "id": "return-tokens",
+      "kind": "item",
+      "label": "Personal return tokens",
+      "aiSummary": "The party recalls the personal magic that can return them home, and Rothfis and Merash use their return option after the quest.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "growth-potion",
+      "kind": "item",
+      "label": "Rothfis’s enlarging potion",
+      "aiSummary": "Rothfis mixes a red potion into his ale and grows larger before attempting the door and fighting Hagrim.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "growth-potion-quote"
+      ]
+    },
+    {
+      "id": "strength-potion",
+      "kind": "item",
+      "label": "Potion of hill giant strength",
+      "aiSummary": "Riswynn drinks a strength potion to help force the blocked door and carry that strength into the confrontation.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "id": "tak-guide",
+      "entity": "tak",
+      "scenes": [
+        1,
+        2,
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Tak guides the party to Nora, answers questions about Del and the wastes, and accepts an escort toward home.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0068",
+            "endUid": "u0568"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "tak-intro",
+          "type": "introduction",
+          "text": "So, as you all walk following Tak, who is a youngish dwarf, maybe forty or so, for the it looks like {{a man's lot, dusty}} without much of a beard wearing patched and mended clothes that have been that have been sewed and mended many, many times over. He moves with a sort of nervous energy, seeming almost younger than he looks, never still never comfortable as he walks along the cliff, constantly glancing back to make sure you're following, rushing forward a bit, then rushing back, then rushing forward again.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0068",
+            "endUid": "u0074"
+          }
+        },
+        {
+          "id": "tak-exile",
+          "type": "color",
+          "text": "Del? Um: yeah. When I was when I was very little, but that’s who they call him, the mad priest. Now that used to be his name Del Firebrand. He was was exiled by Morkalan sent to the wastes. Nobody knows if he's alive or dead,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0375",
+            "endUid": "u0383"
+          }
+        },
+        {
+          "id": "tak-trolls",
+          "type": "color",
+          "text": "I don't go in the wastes. There's trolls there. Hagrim controls Morkalan controls them. That's where those who well, if you displease Morkalan, that's where you're sent, and everybody says the trolls eat your spirit.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0390",
+            "endUid": "u0395"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tak-sought",
+      "entity": "tak",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Riswynn asks where Tak is after the domain dissolves.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2984",
+            "endUid": "u2988"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "nora-conversation",
+      "entity": "nora",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Nora recounts the disastrous refugee battle and Hagrim’s rule, helping the party choose to seek his cousin before confronting him.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0076",
+            "endUid": "u0564"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "nora-intro",
+          "type": "introduction",
+          "text": "now, after maybe an hour's walk or so in the distance ahead of you, a ghostly dwarf wearing full-plate armor, carrying a battle axe slung on her back, but insubstantial, ethereal, especially in the dim, flat light of this place, when she seems perched almost on Ah! On a rock outcropping, gazing intently south and east across the river, seemingly staring at the large, partially ruined statue of the huge stone warrior in the distance.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0076",
+            "endUid": "u0079"
+          }
+        },
+        {
+          "id": "nora-fault",
+          "type": "color",
+          "text": "it was long ago. I don't don't rightly know how we got here. Exactly. I do not know that I There are a few here who I would trust, But I will say this: I do not think this was Hagrim's fault. Yes, he snapped in battle, and has dwelled here long, now created this place around his haunted memories.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0171",
+            "endUid": "u0184"
+          }
+        },
+        {
+          "id": "nora-betrayal",
+          "type": "color",
+          "text": "Something in Hagrim snapped. I think he thought I had turned on the dwarfs, and that think he thought. He was betrayed again. Maybe Maybe the old horrors of the mind-altering evils of the great War came back to him, and he turned on me, and as we fought on the battlefield he ordered his troops to slay my companions. We would not fight back, and so we were slaughtered.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0286",
+            "endUid": "u0297"
+          }
+        },
+        {
+          "id": "nora-prison",
+          "type": "color",
+          "text": "but as long as Morkalan Hagrim rules here, none can leave, and none can die.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0339",
+            "endUid": "u0341"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nora-del-memory",
+      "entity": "nora",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Del recalls Nora and the breaking battle line when Hagrim turned on the refugees.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1190",
+            "endUid": "u1347"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "nora-fortress",
+      "entity": "nora",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party uses Nora’s account to infer that Hagrim is trapped inside the underground fortress.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1680",
+            "endUid": "u1687"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hagrim-nora",
+      "entity": "hagrim",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "Nora describes Hagrim’s betrayal, ghostly rule as Morkalan, and lost memories while the party considers its next move.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0119",
+            "endUid": "u0564"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Hagrim / Morkalan"
+    },
+    {
+      "id": "hagrim-del",
+      "entity": "hagrim",
+      "scenes": [
+        7,
+        8
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "Del’s memories lead the party to consider corruption, responsibility, and the possibility of redeeming Hagrim.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1121",
+            "endUid": "u1608"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hagrim-approach",
+      "entity": "hagrim",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party considers where Hagrim died to locate him in the fortress.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1678",
+            "endUid": "u1687"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hagrim-challenge",
+      "entity": "hagrim",
+      "scenes": [
+        15
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Hagrim challenges the intruders and Riswynn invokes his name while presenting the chalice.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2119",
+            "endUid": "u2182"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Hagrim Firebrand",
+      "quotes": [
+        {
+          "id": "hagrim-intro",
+          "type": "introduction",
+          "text": "But of course they're just like bones scattered around It's like like they're but they're arranged like, so they're like skeleton, sitting and looking at the throne as as if it's an audience floating slightly above the throne, you can see what looks like the ghost of a dwarf.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2127",
+            "endUid": "u2129"
+          }
+        },
+        {
+          "id": "hagrim-disturbed",
+          "type": "color",
+          "text": "who dares disturb me.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2145",
+            "endUid": "u2145"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hagrim-battle",
+      "entity": "hagrim",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party fights Hagrim until his form begins to fade, then Riswynn pours the chalice over him and requests redemption.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2183",
+            "endUid": "u2961"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "hagrim-memories",
+          "type": "color",
+          "text": "Go back to where you came. I do not want you here. Do not need you here you have done nothing but disturb, your— my domain. I had freed myself of these cursed memories until you entered, and now you will pay. There is nothing for you here.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2236",
+            "endUid": "u2245"
+          }
+        },
+        {
+          "id": "hagrim-misery",
+          "type": "color",
+          "text": "Why are you fighting? Just leave. Leave me to my pain and misery.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2556",
+            "endUid": "u2556"
+          }
+        },
+        {
+          "id": "hagrim-peace",
+          "type": "color",
+          "text": "why, I just want to be left in peace. Go",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2624",
+            "endUid": "u2626"
+          }
+        },
+        {
+          "id": "hagrim-return",
+          "type": "color",
+          "text": "I will return. You cannot kill me,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2922",
+            "endUid": "u2923"
+          }
+        }
+      ]
+    },
+    {
+      "id": "del-nora",
+      "entity": "del",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Nora identifies Hagrim’s cousin and Tak explains his exile, prompting the party to search for him.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0364",
+            "endUid": "u0564"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Del Firebrand / the mad priest"
+    },
+    {
+      "id": "del-visit",
+      "entity": "del",
+      "scenes": [
+        7,
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Del welcomes the party, recounts disordered memories of Hagrim and home, and permits a rest in his cave.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1061",
+            "endUid": "u1608"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Del / the mad priest",
+      "quotes": [
+        {
+          "id": "del-intro",
+          "type": "introduction",
+          "text": "you see, like kind of beginning, like peering out from the cave. This, like old dwarf, like leaning on a staff um long, dusty, unkempt white beard, kind of squinting a little bit like walks a little bit forward, and like taps your armor with his staff.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1072",
+            "endUid": "u1073"
+          }
+        },
+        {
+          "id": "del-regret",
+          "type": "color",
+          "text": "I should have never. We should have never gone.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1185",
+            "endUid": "u1185"
+          }
+        },
+        {
+          "id": "del-eyes",
+          "type": "color",
+          "text": "His eyes were different when he came back, and he never once talked about the bells. It's like he forgot them.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1327",
+            "endUid": "u1331"
+          }
+        },
+        {
+          "id": "del-battle",
+          "type": "color",
+          "text": "fighting with Nora, and our line broke. The trolls got through, and he turned on us right At the moment when when a hero could have turned the tide, he turned on us the look. It was not a dwarf looking out of his eyes.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1341",
+            "endUid": "u1347"
+          }
+        }
+      ]
+    },
+    {
+      "id": "magerson-account",
+      "entity": "magerson",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Nora recounts Magerson leading trolls against the dwarven refugees before Hagrim turned on her.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0254",
+            "endUid": "u0301"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "knownAs": "Magerson",
+      "quotes": [
+        {
+          "id": "magerson-intro",
+          "type": "introduction",
+          "text": "North of the human city of Tokra we encountered the son of a fire giant who had been slaughtered by the the humans. He called himself Magerson. He was leading an army of trolls, and we were. We were trapped.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0260",
+            "endUid": "u0266"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spirits-observe",
+      "entity": "memory-spirits",
+      "scenes": [
+        10
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The party sees a gathering of spirits showing warriors, waterfalls, a tavern, and other shifting images.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1656",
+            "endUid": "u1799"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "spirits-intro",
+          "type": "introduction",
+          "text": "hanging around the outside of the statue you can see maybe ten or fifteen spirits, ghosts of some kind, specters that are sort of flittering around, and well, some of them look just kind of like undistinguished spirits. Many of them have a strange appearance. You see one that, and uh one that looks like a dwarven warrior. You can see one that looks like that's sort of vaguely humanoid, but has like hanging off of its arms. It almost look like there's waterfalls pouring down off of its arms. There's one that looks one like almost looks like a human, {{a of of some sort}} carrying a staff, and there's like a vague sort of sense of fire around its head. Um, there's one that looks uh just colors like swirling liquid almost. There's one that looks like a {{found it}}. It almost. It almost looks like it as you gaze into it like there's a tavern in the middle of it, like some massive dwarven city reflected in the in the center of its chest. They seem to be moving around kind of aimlessly around, guarding or drawn to It's hard to say. The statue.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1656",
+            "endUid": "u1675"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spirits-contact",
+      "entity": "memory-spirits",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Thror requests passage and Riswynn displays the chalice as the silent spirits close around them.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1800",
+            "endUid": "u1862"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "spirits-images",
+          "type": "introduction",
+          "text": "It's it's like flickering so that it's hard to see what any one image is, but it but it seems to be kind of different um perspectives, like looking out across a sort of open land from a high point, just kind of like clouds rolling past that kind of flickering vision, and there's another one. You almost hear the sound of the ghostly bells from it. There's another as you get closer that it almost looks as if it's like a swirling Ah! Like pouring beer out of a out of a keg like into a mug. Right. This like foam kind of billowing around it like the the head on a beer, and it's sort of shifting colors a little bit.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1816",
+            "endUid": "u1825"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spirits-flight",
+      "entity": "memory-spirits",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn disperses seven spirits with divine power and the survivors strike the party as it rushes into the fortress.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1863",
+            "endUid": "u1905"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "ironhorns-debt",
+      "entity": "ironhorns",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Rothfis wants to complete the quest so the Ironhorns cannot continue pressing their debt.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0507",
+            "endUid": "u0510"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "ironhorns-debt-quote",
+          "type": "whole",
+          "text": "If I don't do this right. The Ironhorns are going to continue to pester me for the rest of time, and i'd rather that this was properly severed. I don't want any more. Oh, but can we just talk about this? No.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0509",
+            "endUid": "u0510"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ironhorns-curse",
+      "entity": "ironhorns",
+      "scenes": [
+        16
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Rothfis curses the Ironhorns after Hagrim’s dreadful aspect ages him.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2815",
+            "endUid": "u2822"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "ironhorns-farewell",
+      "entity": "ironhorns",
+      "scenes": [
+        18
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Rothfis compares the years lost to his marriage with the years Hagrim took before returning home.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3037",
+            "endUid": "u3048"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "ironhorns-farewell-quote",
+          "type": "whole",
+          "text": "so. First the Ironhorns took ten good years of me in that marriage, and then that ghost took twenty good years from me in one fell kick. I have got to go back to the pub.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3041",
+            "endUid": "u3042"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stonefist-identification",
+      "entity": "stonefists",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Rothfis identifies Stonefist as his clan during Del’s recollection of a brewery.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1108",
+            "endUid": "u1119"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "stonefist-quote",
+          "type": "whole",
+          "text": "Well, actually my, that's my clan Stonefist.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1114",
+            "endUid": "u1115"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chalice-nora",
+      "entity": "chalice",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Displaying the chalice persuades Nora to trust the party and tell her story.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0210",
+            "endUid": "u0448"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "chalice-recognized",
+          "type": "whole",
+          "text": "She looks, and she sort of turns slightly even more insubstantial It survived. How thought sure, when the when we lost the battle, the giant or the trolls would have destroyed that.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0213",
+            "endUid": "u0220"
+          }
+        }
+      ]
+    },
+    {
+      "id": "chalice-plan",
+      "entity": "chalice",
+      "scenes": [
+        8
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "The party discusses using the chalice to deliver Hagrim for punishment or redemption and whether it could free others.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1532",
+            "endUid": "u1608"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "chalice-spirits",
+      "entity": "chalice",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn displays the chalice to the approaching spirits without any visible effect.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1830",
+            "endUid": "u1845"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "chalice-challenge",
+      "entity": "chalice",
+      "scenes": [
+        15
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn holds up the chalice as she calls on Hagrim to answer the gods’ summons.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2172",
+            "endUid": "u2182"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "chalice-redemption",
+      "entity": "chalice",
+      "scenes": [
+        16,
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Riswynn pours the chalice over Hagrim and chooses redemption, after which its waters flood the realm and reveal Dunmar.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2925",
+            "endUid": "u2983"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "chalice-choice",
+          "type": "whole",
+          "text": "Faintly, as the water begins to pour on to the ground of this place. It almost seems like it pours through the ground um through him to the ground, and you you feel a a faint sort of question, or image or voice in the back of your mind. You choose punishment? Question. No. Do I need to elaborate? What was the other option, punishment, or redemption? Well, what do you say? I say? Witnesses both those he killed, and not say he was not himself. There is evidence that he was compelled, {{believes that}} he yearns for his home, and could be redeemed",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2945",
+            "endUid": "u2961"
+          }
+        },
+        {
+          "id": "chalice-flood",
+          "type": "whole",
+          "text": "as the water water pours out um, it begins to pour like as the water is pouring out of this chalice, as you now see the like where the um the water was pouring like the hole begins, the floor begins to crumble away, and you smell briefly the smell of rain on fresh grass, and as the chalice begins to pour more and more and more out. It's almost like a flood pouring out of this goblet, the waters spread, and you find yourself standing in a grassy field, the land you are in crumbling around you.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2962",
+            "endUid": "u2971"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shatterstorm-troll",
+      "entity": "shatterstorm",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn strikes the spirit troll with Shatterstorm after its protective shadows disappear.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0948",
+            "endUid": "u0966"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "shatterstorm-door",
+      "entity": "shatterstorm",
+      "scenes": [
+        14
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn repeatedly strikes the blocked door with Shatterstorm until the barrier cracks open.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2072",
+            "endUid": "u2115"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "shatterstorm-door-quote",
+          "type": "whole",
+          "text": "Uh as you hit it again the second time you hear a crack, and the door swings, the rubble is pushed away, and the door begins to swing open at the same time. This, like like about six skeletal arms reach up and grab you.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2106",
+            "endUid": "u2109"
+          }
+        }
+      ]
+    },
+    {
+      "id": "shatterstorm-battle",
+      "entity": "shatterstorm",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn smashes the animated bones and fights the wraiths with Shatterstorm.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2439",
+            "endUid": "u2840"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "shatterstorm-bones",
+          "type": "whole",
+          "text": "Okay, and that blow with your hammer like pulverizes the skeletons into dust.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2455",
+            "endUid": "u2456"
+          }
+        }
+      ]
+    },
+    {
+      "id": "maul-troll",
+      "entity": "maul",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Merash uses the Maul of the Forge and a frightening maneuver to weaken the spirit troll.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0827",
+            "endUid": "u1014"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "maul-battle",
+      "entity": "maul",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Merash uses the maul against Hagrim’s forces and throws it to produce a burst of fire.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2314",
+            "endUid": "u2866"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "maul-fire",
+          "type": "whole",
+          "text": "Uh: okay, So that's Ok. So this burst of flame explodes this purple ghost looks badly hurt. Hagrim just kind of laughs slightly at you and the ghost. This ghost doesn't seem that too too damaged.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2532",
+            "endUid": "u2535"
+          }
+        }
+      ]
+    },
+    {
+      "id": "boots-scout",
+      "entity": "boots",
+      "scenes": [
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Rothfis flies over the wastes and finds a cave before returning to the party.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0588",
+            "endUid": "u0635"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "boots-troll",
+      "entity": "boots",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "aiSummary": "Rothfis flies back from the spirit troll after his punches trigger damaging shadows.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0899",
+            "endUid": "u0905"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "boots-fortress",
+      "entity": "boots",
+      "scenes": [
+        10,
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Rothfis flies above the party and dives toward the fortress doorway as the spirits converge.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1786",
+            "endUid": "u1905"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "boots-battle",
+      "entity": "boots",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Rothfis maneuvers above the fight and drops onto the fading Hagrim from the ceiling.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2371",
+            "endUid": "u2903"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "boots-drop",
+          "type": "whole",
+          "text": "and i'm i'm up whatever it's. Ceiling, height, fifty feet in the air. I will take my full movement. I will use my ki to allow me to get there with that that sprinting dash and um, i'll just let my boots drop me fifty feet, and I weigh about four hundred and fifty pounds. I don't know if it'll help. But these are magic boots, and I've got magic fists, not an attack. But yeah,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2887",
+            "endUid": "u2891"
+          }
+        }
+      ]
+    },
+    {
+      "id": "return-tokens-plan",
+      "entity": "return-tokens",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party recalls that personal return tokens provide a way home even if the quest fails.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0433",
+            "endUid": "u0443"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "return-tokens-used",
+      "entity": "return-tokens",
+      "scenes": [
+        18
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Rothfis and Merash choose the offered magical return home after saying farewell.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3029",
+            "endUid": "u3059"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "growth-potion-drunk",
+      "entity": "growth-potion",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Rothfis mixes a red potion into his beer and drinks it to enlarge himself for four hours.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1938",
+            "endUid": "u1944"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "growth-potion-quote",
+          "type": "whole",
+          "text": "But before we head down the stairs I take out a swirling red potion from my kit, and I pour it into my ale, and my ale starts bubbling, and I go Well, I've been waiting a long time to try this out. Stand back, and I just chug this beer, and I grow {{at full size}}. I have been enlarged for one to four hours. Four hours of big Rothfis. Get ready for it.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1938",
+            "endUid": "u1942"
+          }
+        }
+      ]
+    },
+    {
+      "id": "strength-potion-drunk",
+      "entity": "strength-potion",
+      "scenes": [
+        14
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn drinks a potion of hill giant strength before using Shatterstorm against the blocked door.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2051",
+            "endUid": "u2073"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "medium",
+    "status": "unreviewed"
+  },
+  "sceneReview": {
+    "confidence": "medium",
+    "status": "unreviewed"
+  },
+  "dateStart": "1748-08-25",
+  "dateEnd": null
+}

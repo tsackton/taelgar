@@ -1,0 +1,821 @@
+{
+  "inputDigest": "64c822b98ff90c9be53a370ca61d7874f3d4e39f3fbc73d17e2745cebcecca1d",
+  "reviewer": "fey001 independent semantic review of root extraction; complete transcript reread",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "high",
+      "reason": "The manifest anchors the starting sunset to 1748-10-17; the explicit overnight at u0047–u0068 advances to October 18, and the only later rest is short. All four manifest PCs introduce themselves and act throughout; Steampup is Dilion’s commanded construct, not an independent PC. The party never leaves Perdoli Manor’s estate and does not descend into Grimstone’s lair within this recording.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0001",
+          "endUid": "u0068"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0109",
+          "endUid": "u0121"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1102",
+          "endUid": "u1105"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1204",
+          "endUid": "u1211"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1703",
+          "endUid": "u1731"
+        },
+        {
+          "vaultPath": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml"
+        },
+        {
+          "vaultPath": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Acescale.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Gaudin.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Loria Underbough.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Independent complete read of u0001–u1731 confirms the estate traversal, overnight, two separate crypt combats, short rest, recorded interruption and final whole ghost conversation. The basilisk’s brief hostile petrification justifies the combat transition; the recording gap at u1211 is explicitly acknowledged rather than reconstructed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0001",
+          "endUid": "u1731"
+        }
+      ]
+    },
+    {
+      "target": "entity:ghost",
+      "confidence": "high",
+      "reason": "The sailor ghost is directly observed and speaks; the locket and letters identify J.M., matching Jacopo’s exact aliases and haunted-bedchamber/lost-love context. The later fading described in the page is correctly excluded.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1482",
+          "endUid": "u1500"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1582"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1610",
+          "endUid": "u1729"
+        },
+        {
+          "vaultPath": "People/Other Humans/Jacopo Marcelli.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:petrona",
+      "confidence": "high",
+      "reason": "The locket’s P. and letters are linked to Petrona by the ghost naming the woman whom Gaudin impersonates; she is not herself present and the assertion that she is trapped is deception.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1519"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1552",
+          "endUid": "u1565"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1657",
+          "endUid": "u1698"
+        },
+        {
+          "vaultPath": "People/Other Humans/Petrona.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:grimstone",
+      "confidence": "high",
+      "reason": "The named masked captor is recalled, and the ghost’s white-faced man matches that description; the laboratory accusations remain attributed to the ghost, not reported direct observation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1219",
+          "endUid": "u1224"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1626",
+          "endUid": "u1643"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1692",
+          "endUid": "u1729"
+        },
+        {
+          "vaultPath": "People/Other Humans/Grimstone.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:folcan",
+      "confidence": "high",
+      "reason": "The opening explicitly recalls a previous release and later relies on Folcan’s directions, with no current meeting; the named goblin reference matches the vault page.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0040",
+          "endUid": "u0041"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0109",
+          "endUid": "u0121"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Folcan.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:steampup",
+      "confidence": "high",
+      "reason": "The explicitly described magical metal dog, commanded decoy and repaired steel defender all identify Dilion’s companion Steampup. The self-corrected Keiko wording must not establish an alias for the construct.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0021",
+          "endUid": "u0027"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0216",
+          "endUid": "u0269"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0338",
+          "endUid": "u0340"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0474",
+          "endUid": "u0505"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0723",
+          "endUid": "u0741"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1147",
+          "endUid": "u1150"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Pikeia.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:perdoli",
+      "confidence": "high",
+      "reason": "Repeated crypt inscriptions establish the family name; accounts and portraits support the family’s inclusion as an organization without implying present living members.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0912",
+          "endUid": "u0930"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1151",
+          "endUid": "u1176"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1267",
+          "endUid": "u1269"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1566",
+          "endUid": "u1572"
+        },
+        {
+          "vaultPath": "Groups/Perdoli Family.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:mother",
+      "confidence": "high",
+      "reason": "The DM explicitly identifies the silver icon as the Mother and states the chapel’s dedication; the deity is mentioned, with no physical appearance asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0572"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:medusa",
+      "confidence": "high",
+      "reason": "The unique stone woman with snake hair at the fountain is explicitly recognized as a medusa, and a later knowledge check confirms the reflection-based petrification. The party considers restoring this specific individual, justifying a retrievable unnamed NPC with no forced vault link.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0377",
+          "endUid": "u0391"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1415",
+          "endUid": "u1433"
+        }
+      ]
+    },
+    {
+      "target": "entity:locket",
+      "confidence": "high",
+      "reason": "The silver portrait locket is examined, opened and shown to the ghost, who calls it his; it drives the disguise and negotiation, so the consequential item is correctly included.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1511",
+          "endUid": "u1536"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1620",
+          "endUid": "u1626"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1650",
+          "endUid": "u1660"
+        }
+      ]
+    },
+    {
+      "target": "entity:ring",
+      "confidence": "high",
+      "reason": "The worn ring repeatedly signals nearby goblinoids and is explicitly explained as such; no unsupported named magic-item identity is assigned.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0174",
+          "endUid": "u0175"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0433",
+          "endUid": "u0438"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0595"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0886",
+          "endUid": "u0888"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1011",
+          "endUid": "u1115"
+        }
+      ]
+    },
+    {
+      "target": "entity:papers",
+      "confidence": "high",
+      "reason": "The study’s smuggling maps and love letters are read together as the clue collection used to approach the ghost; the summary preserves that they suggest the history rather than reveal present-day events.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1540",
+          "endUid": "u1582"
+        }
+      ]
+    },
+    {
+      "target": "entity:plate",
+      "confidence": "high",
+      "reason": "The altar’s silver plate is found and later assessed with an alchemist-tools check for use as a mirror; the extraction correctly describes a proposed polishing plan rather than a completed mirror.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0564"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1370",
+          "endUid": "u1420"
+        }
+      ]
+    },
+    {
+      "target": "interaction:folcan-recalled",
+      "confidence": "high",
+      "reason": "Both passages concern remembered release and directions, so mentioned is supported; no replayed release is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0040",
+          "endUid": "u0121"
+        }
+      ]
+    },
+    {
+      "target": "interaction:steampup-decoy",
+      "confidence": "medium",
+      "reason": "The decoy command and chase are clear, but knownAs wrongly turns the self-corrected Keiko name into an alias; Dilion’s living dog is a separate companion in the linked reference notes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0129",
+          "endUid": "u0340"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Labyrinth Prisoners/Pikeia.md"
+        }
+      ]
+    },
+    {
+      "target": "interaction:steampup-return",
+      "confidence": "high",
+      "reason": "Audible pursuit, visible fiery damage, descent and mending form one continuing reunion/rescue sequence across the garden, chapel and crypt.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0355",
+          "endUid": "u0549"
+        }
+      ]
+    },
+    {
+      "target": "interaction:steampup-fight",
+      "confidence": "high",
+      "reason": "Dilion gives the attack command and the construct delivers the fatal neck bite; the quote is PC/DM narration appropriately typed whole.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0723",
+          "endUid": "u0741"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0738",
+          "endUid": "u0740"
+        }
+      ]
+    },
+    {
+      "target": "interaction:steampup-archive",
+      "confidence": "high",
+      "reason": "Dilion explicitly oils the construct to keep it quiet while others search the room.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1147",
+          "endUid": "u1150"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ring-patrol",
+      "confidence": "high",
+      "reason": "Gaudin actively watches the ring as the party attempts stealth; the interaction does not assert an enemy location it cannot provide.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0174",
+          "endUid": "u0175"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ring-chapel",
+      "confidence": "high",
+      "reason": "The DM corrects the ring history to a faint glow near the manor and no warning in the chapel; the summary preserves that distinction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0433",
+          "endUid": "u0438"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ring-crypt",
+      "confidence": "high",
+      "reason": "The glow strengthens while the intruders approach, and Gaudin explicitly explains what it detects.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0595"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ring-clear",
+      "confidence": "high",
+      "reason": "After the second crypt fight the DM explicitly says the ring is not glowing.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0886",
+          "endUid": "u0888"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ring-manor",
+      "confidence": "high",
+      "reason": "The renewed glow occurs near the tunnel’s end; later checking establishes that it is binary and not directional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1011",
+          "endUid": "u1115"
+        }
+      ]
+    },
+    {
+      "target": "interaction:medusa-fountain",
+      "confidence": "high",
+      "reason": "The party sees the snake-haired petrified woman and chooses not to approach, supporting observed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0377",
+          "endUid": "u0391"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0387",
+          "endUid": "u0390"
+        }
+      ]
+    },
+    {
+      "target": "interaction:medusa-salve",
+      "confidence": "high",
+      "reason": "The possible restoration is a later discussion following the basilisk knowledge check, not a completed rescue.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1415",
+          "endUid": "u1433"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mother-icon",
+      "confidence": "high",
+      "reason": "The deity is identified through an icon, so mentioned correctly avoids claiming the goddess appears.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0572"
+        }
+      ]
+    },
+    {
+      "target": "interaction:perdoli-crypt",
+      "confidence": "high",
+      "reason": "Repeated named inscriptions identify a family association, not an encounter with a living family member.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0912",
+          "endUid": "u0941"
+        }
+      ]
+    },
+    {
+      "target": "interaction:perdoli-archive",
+      "confidence": "high",
+      "reason": "The public/private wine accounts differ; the summary accurately states the observed inconsistency without inventing an exact fraud.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1121",
+          "endUid": "u1176"
+        }
+      ]
+    },
+    {
+      "target": "interaction:perdoli-portraits",
+      "confidence": "high",
+      "reason": "The DM calls these presumed family portraits; mentioned and the qualification preserve the indirect identification.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1267",
+          "endUid": "u1269"
+        }
+      ]
+    },
+    {
+      "target": "interaction:perdoli-history",
+      "confidence": "high",
+      "reason": "The old notes name the feared Perdoli manor as a hideout; the party does not meet the historic family.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1566",
+          "endUid": "u1572"
+        }
+      ]
+    },
+    {
+      "target": "interaction:plate-found",
+      "confidence": "high",
+      "reason": "The altar description establishes the plate without claiming it has already been polished or taken.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0562",
+          "endUid": "u0564"
+        }
+      ]
+    },
+    {
+      "target": "interaction:plate-mirror",
+      "confidence": "high",
+      "reason": "Acescale assesses the plate and rolls to devise a polishing method; the final wording correctly limits the result to a possible mirror.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1370",
+          "endUid": "u1420"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ghost-seen",
+      "confidence": "high",
+      "reason": "The group initially peeks at the pacing ghost without entering or speaking; the quote is descriptive introduction, not ghost dialogue.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1482",
+          "endUid": "u1500"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1490",
+          "endUid": "u1496"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ghost-clues",
+      "confidence": "high",
+      "reason": "The J.M. identity is a stated party theory during examination of the locket and letters; mentioned preserves the lack of engagement at this point.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1582"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ghost-conversation",
+      "confidence": "high",
+      "reason": "The entire approach, locket exchange, disguise and revelation remains one interaction despite topic changes and interjections; all three color quotes are unambiguous ghost speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1610",
+          "endUid": "u1729"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1619",
+          "endUid": "u1619"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1675",
+          "endUid": "u1677"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1712",
+          "endUid": "u1715"
+        }
+      ]
+    },
+    {
+      "target": "interaction:petrona-letters",
+      "confidence": "high",
+      "reason": "The letters are addressed to J.M. and signed P.; the last letter reports her father’s capture and her intended rescue, not a current encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1582"
+        }
+      ]
+    },
+    {
+      "target": "interaction:petrona-disguise",
+      "confidence": "high",
+      "reason": "The source explicitly has Gaudin cast Disguise Self, impersonate the pictured woman and then revert; mentioned correctly prevents false Petrona attendance.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1657",
+          "endUid": "u1698"
+        }
+      ]
+    },
+    {
+      "target": "interaction:grimstone-recalled",
+      "confidence": "high",
+      "reason": "The party recalls the named white-masked captor and earlier threats; no present encounter is implied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1219",
+          "endUid": "u1224"
+        }
+      ]
+    },
+    {
+      "target": "interaction:grimstone-ghost",
+      "confidence": "high",
+      "reason": "The ghost supplies allegations and the lair entrance; the summary correctly attributes the laboratory and stone-finger claims.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1626",
+          "endUid": "u1729"
+        }
+      ]
+    },
+    {
+      "target": "interaction:locket-found",
+      "confidence": "high",
+      "reason": "The portrait, initials and folded message are directly examined; the introduction quote is exact DM description, with no invented speech by the item.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1511",
+          "endUid": "u1536"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1519"
+        }
+      ]
+    },
+    {
+      "target": "interaction:locket-shown",
+      "confidence": "high",
+      "reason": "Gaudin explicitly opens the locket for the ghost and uses the portrait to choose the disguise.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1620",
+          "endUid": "u1660"
+        }
+      ]
+    },
+    {
+      "target": "interaction:papers-read",
+      "confidence": "high",
+      "reason": "The party sorts maps, naval routes and love letters together; the source supports the combined clue-collection passage.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1540",
+          "endUid": "u1572"
+        }
+      ]
+    }
+  ]
+}

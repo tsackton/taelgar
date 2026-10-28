@@ -226,4 +226,4 @@ def render(data, vault, output, findings=None):
     queue = critical_queue(data)
     findings = findings or {}
     lines += [f'- `{q["target"]}`: {findings.get(q["target"], q["reason"])}' for q in queue] or ['No unresolved critical records.']
-    return '\n'.join(lines) + '\n'
+    return '\n'.join(line.rstrip() for line in lines) + '\n'

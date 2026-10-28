@@ -1,0 +1,1306 @@
+{
+  "schemaVersion": 5,
+  "campaign": "lablost",
+  "session": 2,
+  "realWorldDate": "2023-11-25",
+  "pcs": [
+    "People/PCs/Other PCs/Labyrinth Prisoners/Acescale.md",
+    "People/PCs/Other PCs/Labyrinth Prisoners/Gaudin.md",
+    "People/PCs/Other PCs/Labyrinth Prisoners/Loria Underbough.md",
+    "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md"
+  ],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md",
+      "sha256": "cb8831bfabc8491e6c300a681ec3d091e568d49ca15e1ddb53d4d604ea321718"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0001",
+        "endUid": "u0060"
+      },
+      "type": "conversation",
+      "locationDetail": "Former prison room and camp",
+      "aiSummary": "The escaped prisoners recall Folcan’s release and settle down for the night.",
+      "dateStart": "1748-10-17",
+      "time": "evening",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0061",
+        "endUid": "u0165"
+      },
+      "type": "conversation",
+      "locationDetail": "Former prison room",
+      "aiSummary": "The rested party prepares equipment and plans a stealthy route to the chapel.",
+      "dateStart": "1748-10-18",
+      "time": "predawn",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0166",
+        "endUid": "u0340"
+      },
+      "type": "travel",
+      "locationDetail": "Overgrown vineyards and hedge perimeter",
+      "aiSummary": "Steampup distracts a hobgoblin patrol while the party crosses the vineyards and cuts through the hedge.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0341",
+        "endUid": "u0399"
+      },
+      "type": "exploration",
+      "locationDetail": "Formal gardens",
+      "aiSummary": "The party passes decapitated statues and a petrified medusa while Steampup flees its pursuer.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0400",
+        "endUid": "u0490"
+      },
+      "type": "exploration",
+      "locationDetail": "Ruined chapel",
+      "aiSummary": "The party finds a concealed trapdoor and shelters Steampup as the pursuers approach.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0491",
+        "endUid": "u0551"
+      },
+      "type": "exploration",
+      "locationDetail": "Family crypt",
+      "aiSummary": "The party descends, repairs Steampup and examines the undisturbed crypt.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0552",
+        "endUid": "u0632"
+      },
+      "type": "exploration",
+      "locationDetail": "Crypt altar chamber and stairs",
+      "aiSummary": "The party finds offerings and treasure, detects approaching goblinoids and prepares a grease-and-snare ambush.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0633",
+        "endUid": "u0741"
+      },
+      "type": "combat",
+      "locationDetail": "Crypt stairs",
+      "aiSummary": "A shadow-cloaked hobgoblin falls into the trap and is killed, with Steampup delivering the final blow.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0742",
+        "endUid": "u0839"
+      },
+      "type": "exploration",
+      "locationDetail": "Crypt stairs",
+      "aiSummary": "The party searches the body, learns about smokebinders and prepares to lure the remaining guard downstairs.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0840",
+        "endUid": "u0885"
+      },
+      "type": "combat",
+      "locationDetail": "Crypt stairs",
+      "aiSummary": "A second hobgoblin falls into the reset trap; the party kills it after Gaudin is set ablaze.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0886",
+        "endUid": "u0983"
+      },
+      "type": "exploration",
+      "locationDetail": "Crypt and altar chamber",
+      "aiSummary": "The party finds the Perdoli family name, hidden supplies and a secret tunnel, then conceals the trapdoor.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0984",
+        "endUid": "u1078"
+      },
+      "type": "travel",
+      "locationDetail": "Secret passage under the manor",
+      "aiSummary": "The party follows the tunnel and uses magic to reach a trapdoor into a hidden room.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1079",
+        "endUid": "u1205"
+      },
+      "type": "exploration",
+      "locationDetail": "Hidden archive",
+      "aiSummary": "The party investigates old wine accounts and discovers a secret bookcase mechanism.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1206",
+        "endUid": "u1210"
+      },
+      "type": "exploration",
+      "locationDetail": "Hidden archive",
+      "aiSummary": "The party agrees to a short rest before opening the hidden exit.",
+      "time": "short rest",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 15,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1211",
+        "endUid": "u1237"
+      },
+      "type": "exploration",
+      "locationDetail": "Inner corridors by the courtyard",
+      "aiSummary": "Recording resumes after a gap with Loria scouting insect noises and the party discussing a chained creature.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 16,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1238",
+        "endUid": "u1266"
+      },
+      "type": "exploration",
+      "locationDetail": "Open gallery and guard-post door",
+      "aiSummary": "The party overhears goblinoid drills and considers releasing the chained creature as a distraction.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 17,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1267",
+        "endUid": "u1302"
+      },
+      "type": "exploration",
+      "locationDetail": "Northern hall and courtyard opening",
+      "aiSummary": "The party scouts portraits and glimpses a chained creature’s tail behind a courtyard wall.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 18,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1303",
+        "endUid": "u1349"
+      },
+      "type": "combat",
+      "locationDetail": "Courtyard opening",
+      "aiSummary": "Gaudin provokes the basilisk and begins turning to stone; his companions remove the forming stone.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 19,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1350",
+        "endUid": "u1438"
+      },
+      "type": "exploration",
+      "locationDetail": "Courtyard corridor and sitting-room doorway",
+      "aiSummary": "The party considers mirrors and learns about basilisk depetrification salve while scouting a sitting room.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 20,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1439",
+        "endUid": "u1477"
+      },
+      "type": "exploration",
+      "locationDetail": "Great-hall doorway",
+      "aiSummary": "The party sees intact, lifelike statues and suspects they may be captives.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 21,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1478",
+        "endUid": "u1510"
+      },
+      "type": "exploration",
+      "locationDetail": "Doorways of the private chambers",
+      "aiSummary": "The party discovers a mourning sailor ghost and a separate study containing a locket and papers.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 22,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1511",
+        "endUid": "u1609"
+      },
+      "type": "exploration",
+      "locationDetail": "Private study",
+      "aiSummary": "Letters, a locket and smuggling maps suggest the story of J.M. and P.; the party plans to approach the ghost.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    {
+      "index": 23,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1610",
+        "endUid": "u1731"
+      },
+      "type": "conversation",
+      "locationDetail": "Haunted bedchamber",
+      "aiSummary": "Gaudin impersonates Petrona, turning the ghost against Grimstone and learning the entrance to his underground lair.",
+      "location": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    }
+  ],
+  "entities": [
+    {
+      "id": "ghost",
+      "kind": "npc",
+      "label": "J.M., the sailor ghost",
+      "aiSummary": "The party finds clues about the sailor ghost and his lost love. Gaudin uses her appearance to turn him against Grimstone and learn the way below.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Jacopo Marcelli.md",
+      "aiSuggestedFeaturedQuotes": [
+        "ghost-intro",
+        "ghost-mourning",
+        "ghost-love",
+        "ghost-revolt"
+      ]
+    },
+    {
+      "id": "petrona",
+      "kind": "npc",
+      "label": "Petrona",
+      "aiSummary": "The party learns about Petrona through the locket, letters and ghost; Gaudin impersonates her to gain the ghost’s help.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Petrona.md"
+    },
+    {
+      "id": "grimstone",
+      "kind": "npc",
+      "label": "Grimstone",
+      "aiSummary": "Grimstone is discussed as the masked captor; the ghost reveals his underground lair and alleged use of petrified fingers.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Grimstone.md"
+    },
+    {
+      "id": "folcan",
+      "kind": "npc",
+      "label": "Folcan",
+      "aiSummary": "The party recalls releasing Folcan and uses his information about entrances to the manor’s tunnels.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Folcan.md"
+    },
+    {
+      "id": "steampup",
+      "kind": "npc",
+      "label": "Steampup",
+      "aiSummary": "Dilion sends Steampup as a decoy, repairs it after the chase and uses it in the crypt battle.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md",
+      "aiSuggestedFeaturedQuotes": [
+        "steampup-bite"
+      ]
+    },
+    {
+      "id": "perdoli",
+      "kind": "organization",
+      "label": "Perdoli family",
+      "aiSummary": "The party identifies the manor’s former owners and examines their old wine accounts and portraits.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Perdoli Family.md"
+    },
+    {
+      "id": "mother",
+      "kind": "npc",
+      "label": "The Mother",
+      "aiSummary": "The party recognizes the chapel’s dedication through a small holy icon.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother.md"
+    },
+    {
+      "id": "medusa",
+      "kind": "npc",
+      "label": "Petrified medusa",
+      "aiSummary": "The party sees a stone medusa at a fountain and later considers whether she could be restored.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "medusa-intro"
+      ]
+    },
+    {
+      "id": "locket",
+      "kind": "item",
+      "label": "J.M.’s silver locket",
+      "aiSummary": "The locket’s portrait and inscription help the party identify the ghost’s lost love and manipulate his grief.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "locket-inscription"
+      ]
+    },
+    {
+      "id": "ring",
+      "kind": "item",
+      "label": "Gaudin’s goblinoid-detecting ring",
+      "aiSummary": "Gaudin watches the ring for nearby goblinoids while the party infiltrates the manor.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "papers",
+      "kind": "item",
+      "label": "Smuggler’s maps and love letters",
+      "aiSummary": "The party reads maps and letters that connect J.M. and P. to an earlier pirate hideout.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "plate",
+      "kind": "item",
+      "label": "Silver altar plate",
+      "aiSummary": "The party finds a silver altar plate and considers polishing it into a mirror to use against the basilisk.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "id": "folcan-recalled",
+      "entity": "folcan",
+      "scenes": [
+        1,
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party recalls releasing Folcan and discusses his account of the manor’s tunnel entrances.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0040",
+            "endUid": "u0121"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "steampup-decoy",
+      "entity": "steampup",
+      "scenes": [
+        2,
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Dilion orders Steampup to distract the patrol while the party crosses the vineyards.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0129",
+            "endUid": "u0340"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Steampup"
+    },
+    {
+      "id": "steampup-return",
+      "entity": "steampup",
+      "scenes": [
+        4,
+        5,
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Steampup returns injured from the chase and receives repairs as the party shelters in the crypt.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0355",
+            "endUid": "u0549"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "steampup-fight",
+      "entity": "steampup",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Dilion commands Steampup to attack the trapped hobgoblin, and it delivers the killing bite.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0723",
+            "endUid": "u0741"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "steampup-bite",
+          "type": "whole",
+          "text": "Yeah, I'm sorry. I'm just tabs all around. Yes, I'll just go one and 2. So 10 damage that is enough. Steampup and just grabs this hobgoblin by the neck and tosses them to the ground by the burning torch. and stands triumphantly over him",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0738",
+            "endUid": "u0740"
+          }
+        }
+      ]
+    },
+    {
+      "id": "steampup-archive",
+      "entity": "steampup",
+      "scenes": [
+        13
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "aiSummary": "Dilion tends Steampup while the others investigate the hidden archive.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1147",
+            "endUid": "u1150"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ring-patrol",
+      "entity": "ring",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Gaudin watches his ring for warning of nearby goblinoids.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0174",
+            "endUid": "u0175"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ring-chapel",
+      "entity": "ring",
+      "scenes": [
+        5
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Gaudin’s ring glows near the manor but detects no goblinoids in the chapel.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0433",
+            "endUid": "u0438"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ring-crypt",
+      "entity": "ring",
+      "scenes": [
+        7
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The glowing ring warns the party of approaching goblinoids while they explore the altar chamber.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0562",
+            "endUid": "u0595"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ring-clear",
+      "entity": "ring",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "The ring stops glowing after the second guard is killed.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0886",
+            "endUid": "u0888"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ring-manor",
+      "entity": "ring",
+      "scenes": [
+        12,
+        13
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The ring glows again near the manor, though it cannot indicate an enemy’s direction.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1011",
+            "endUid": "u1115"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "medusa-fountain",
+      "entity": "medusa",
+      "scenes": [
+        4
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The party sees a petrified snake-haired woman looking into the fountain and avoids approaching her.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0377",
+            "endUid": "u0391"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "medusa-intro",
+          "type": "introduction",
+          "text": "and there's a woman stone made of stone leaning over the fountain looking at the water. and you can see that there's snakes tangled up around in her hair are the stakes alive, or stones Nope stone. Her hair was made of stone. I mean her hair was made of snakes, she is staring at her reflection in the water and is made of stone.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0387",
+            "endUid": "u0390"
+          }
+        }
+      ]
+    },
+    {
+      "id": "medusa-salve",
+      "entity": "medusa",
+      "scenes": [
+        19
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party considers using basilisk-derived salve to restore the medusa.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1415",
+            "endUid": "u1433"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "mother-icon",
+      "entity": "mother",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party identifies a silver icon of the Mother in the crypt’s altar chamber.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0562",
+            "endUid": "u0572"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "perdoli-crypt",
+      "entity": "perdoli",
+      "scenes": [
+        11
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Repeated inscriptions identify the crypt as belonging to the Perdoli family.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0912",
+            "endUid": "u0941"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "perdoli-archive",
+      "entity": "perdoli",
+      "scenes": [
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party investigates the family’s wine accounts and notices inconsistent public and private figures.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1121",
+            "endUid": "u1176"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "perdoli-portraits",
+      "entity": "perdoli",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party sees portraits presumed to depict other members of the Perdoli family.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1267",
+            "endUid": "u1269"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "perdoli-history",
+      "entity": "perdoli",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Old smuggling notes identify the feared Perdoli manor as a convenient hiding place.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1566",
+            "endUid": "u1572"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "plate-found",
+      "entity": "plate",
+      "scenes": [
+        7
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "The party finds a tarnished silver plate on the crypt altar.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0562",
+            "endUid": "u0564"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "plate-mirror",
+      "entity": "plate",
+      "scenes": [
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Acescale considers restoring the silver plate as a mirror before learning that reflected gazes cannot petrify basilisks.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1370",
+            "endUid": "u1420"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ghost-seen",
+      "entity": "ghost",
+      "scenes": [
+        21
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The party discovers a sailor ghost pacing through a bed in anguish.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1482",
+            "endUid": "u1500"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "ghost-intro",
+          "type": "introduction",
+          "text": "moaning is a ghost ghost who looks dressed like a sailor. and seems to be screaming in pain or sadness. just pacing back and forth across the bed, floating through the bed.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1490",
+            "endUid": "u1496"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ghost-clues",
+      "entity": "ghost",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The locket and letters lead the party to suspect that the mourning ghost is J.M.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1518",
+            "endUid": "u1582"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ghost-conversation",
+      "entity": "ghost",
+      "scenes": [
+        23
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Gaudin uses the locket and a disguise as Petrona to persuade the ghost to reveal Grimstone’s lair and stop guarding it.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1610",
+            "endUid": "u1729"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "J.M.; the sailor ghost",
+      "quotes": [
+        {
+          "id": "ghost-mourning",
+          "type": "color",
+          "text": "Who dares disturb my mourning?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1619",
+            "endUid": "u1619"
+          }
+        },
+        {
+          "id": "ghost-love",
+          "type": "color",
+          "text": "Petrona. is that you? Where did you go? Why did you leave me?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1675",
+            "endUid": "u1677"
+          }
+        },
+        {
+          "id": "ghost-revolt",
+          "type": "color",
+          "text": "I am his guard, but I will not guard no more. I am done with him. He is crazy. Talks about the immortality of stone.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1712",
+            "endUid": "u1715"
+          }
+        }
+      ]
+    },
+    {
+      "id": "petrona-letters",
+      "entity": "petrona",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party reads letters signed P. urging J.M. to return and reporting her attempt to rescue her father.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1518",
+            "endUid": "u1582"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "P."
+    },
+    {
+      "id": "petrona-disguise",
+      "entity": "petrona",
+      "scenes": [
+        23
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "Gaudin impersonates the woman in the locket, whom the ghost names Petrona, and falsely claims she is trapped.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1657",
+            "endUid": "u1698"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "grimstone-recalled",
+      "entity": "grimstone",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party recalls Grimstone’s white mask and his goblins’ threats against captured travelers.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1219",
+            "endUid": "u1224"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "grimstone-ghost",
+      "entity": "grimstone",
+      "scenes": [
+        23
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "The ghost accuses the white-faced man of broken promises and describes his hidden laboratory and stone-finger potions.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1626",
+            "endUid": "u1729"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the white-faced man"
+    },
+    {
+      "id": "locket-found",
+      "entity": "locket",
+      "scenes": [
+        22
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party examines the locket’s portrait, initials and message before approaching the ghost.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1511",
+            "endUid": "u1536"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "locket-inscription",
+          "type": "introduction",
+          "text": "that's just been broken into pieces. The locket is a silver locket with a faded painting of a young woman, and the inscription. To J.M. With love, P. And a folded slip of paper inside that might once have read, Keep safe and come back.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1518",
+            "endUid": "u1519"
+          }
+        }
+      ]
+    },
+    {
+      "id": "locket-shown",
+      "entity": "locket",
+      "scenes": [
+        23
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Gaudin shows the ghost his locket and uses its portrait to choose a disguise.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1620",
+            "endUid": "u1660"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "papers-read",
+      "entity": "papers",
+      "scenes": [
+        22
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party reads smuggling maps and love letters that illuminate the former pirate hideout and its inhabitants.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1540",
+            "endUid": "u1572"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  },
+  "sceneReview": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  },
+  "dateStart": "1748-10-17",
+  "dateEnd": "1748-10-18"
+}

@@ -1,0 +1,312 @@
+{
+  "seed": 20261028,
+  "complete": true,
+  "executions": [
+    {
+      "id": "labyrinths-of-the-lost-002",
+      "status": "reviewed",
+      "counts": [
+        23,
+        12,
+        29
+      ],
+      "checks": {
+        "sourceUtterances": 1731,
+        "sceneUtterances": 1731,
+        "unassignedUtterances": 0,
+        "metadataReady": true,
+        "readyEntities": 12,
+        "provisionalEntities": 0
+      },
+      "criticalQueue": []
+    },
+    {
+      "id": "mawar-adventures-003",
+      "status": "reviewed",
+      "counts": [
+        21,
+        23,
+        48
+      ],
+      "checks": {
+        "sourceUtterances": 3819,
+        "sceneUtterances": 3793,
+        "unassignedUtterances": 26,
+        "metadataReady": false,
+        "readyEntities": 23,
+        "provisionalEntities": 0
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Added Wazir because the DM concretely portrays him detecting magic, recognizing wine and dwarven writing, and receiving the papers after the return; this does not claim his player attended or that he joined the four-person expedition. Ander remains excluded. Rechecked chronology: the explicit single camp yields an Oct25 tomb visit, while Oct28 is only the manifest anchor for a vaguely dated return; exact endpoint remains an unresolved critical date issue."
+        }
+      ]
+    },
+    {
+      "id": "dragonets-002",
+      "status": "reviewed",
+      "counts": [
+        11,
+        28,
+        38
+      ],
+      "checks": {
+        "sourceUtterances": 2659,
+        "sceneUtterances": 2439,
+        "unassignedUtterances": 220,
+        "metadataReady": false,
+        "readyEntities": 27,
+        "provisionalEntities": 1
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "low",
+            "status": "automatedReviewed"
+          },
+          "reason": "The manifest supports 2026-09-29 and the transcript confirms all four PCs actively participate; game dates remain unknown and the only visited vault location is Circular Island. Independent index searches find no individual pages for Heska, Sculpit, Little Tony, or Zeno, so required attendance links remain unresolved."
+        },
+        {
+          "target": "entity:piglet",
+          "label": "Piglet (unclear morning contact)",
+          "review": {
+            "confidence": "low",
+            "status": "automatedReviewed"
+          },
+          "reason": "The reply at u0365 is fragmented and follows the ambiguous “Groovy the” at u0364; it supports a possible habitual contact but does not settle the full name or identity. No vault match resolves it."
+        }
+      ]
+    },
+    {
+      "id": "lost-in-the-feywild-001",
+      "status": "reviewed",
+      "counts": [
+        12,
+        18,
+        31
+      ],
+      "checks": {
+        "sourceUtterances": 2156,
+        "sceneUtterances": 2117,
+        "unassignedUtterances": 39,
+        "metadataReady": true,
+        "readyEntities": 18,
+        "provisionalEntities": 0
+      },
+      "criticalQueue": []
+    },
+    {
+      "id": "into-the-chasm-004",
+      "status": "reviewed",
+      "counts": [
+        13,
+        29,
+        50
+      ],
+      "checks": {
+        "sourceUtterances": 2002,
+        "sceneUtterances": 1968,
+        "unassignedUtterances": 34,
+        "metadataReady": false,
+        "readyEntities": 29,
+        "provisionalEntities": 0
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Context confirms four material days elapsed since labyrinth entry and that emergence occurs in the afternoon; absolute January dates remain manifest anchors and are not promoted from notes."
+        }
+      ]
+    },
+    {
+      "id": "dunmari-frontier-064",
+      "status": "reviewed",
+      "counts": [
+        12,
+        24,
+        43
+      ],
+      "checks": {
+        "sourceUtterances": 2390,
+        "sceneUtterances": 2267,
+        "unassignedUtterances": 123,
+        "metadataReady": false,
+        "readyEntities": 24,
+        "provisionalEntities": 0
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Full contextual reread confirms the attendance, identities, locations, and passage of days; no spoken calendar date independently fixes the manifest’s November 6–13 span, which remains provisional."
+        }
+      ]
+    },
+    {
+      "id": "dunmari-frontier-058",
+      "status": "reviewed",
+      "counts": [
+        18,
+        15,
+        38
+      ],
+      "checks": {
+        "sourceUtterances": 3074,
+        "sceneUtterances": 2977,
+        "unassignedUtterances": 97,
+        "metadataReady": false,
+        "readyEntities": 14,
+        "provisionalEntities": 1
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Context recheck confirms the manifest’s August 25 anchor but supplies no spoken date for it or the ending. The transcript expressly disclaims reliable elapsed shadow time and ends at immediate farewells; later canonical travel/date accounts cannot substitute for this source. Retain provisional start and null end for human reconciliation."
+        },
+        {
+          "target": "entity:magerson",
+          "label": "Magerson",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Rechecked the exact Nora passage against both Odim Mavdyrson’s identity and Hagrim’s public account: the father, place, attackers and betrayal strongly match, but Magerson still lacks an explicit alias to the canonical spelling. Keep the positive match visibly provisional instead of normalizing away the uncertainty."
+        }
+      ]
+    },
+    {
+      "id": "dunmari-frontier-007",
+      "status": "reviewed",
+      "counts": [
+        18,
+        15,
+        20
+      ],
+      "checks": {
+        "sourceUtterances": 2978,
+        "sceneUtterances": 2974,
+        "unassignedUtterances": 4,
+        "metadataReady": false,
+        "readyEntities": 14,
+        "provisionalEntities": 1
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "One targeted chronology recheck confirms departure Apr7 anchor, next mornings at u0502 and u0543, ambush after midnight, morning u2172, and next morning u2395: the continuous transcript count suggests Apr11. However u2308 says next day and the manifest/reference meeting date is Apr12, so no confidence promotion or forced endpoint change is justified. Five-PC attendance and Karawa/Samtal visitation are well supported."
+        },
+        {
+          "target": "entity:karawa-mystai",
+          "label": "Mystai remaining in Karawa",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Contextual recheck of the full closing negotiation still identifies only remaining Karawa people, sages and dreamwalkers, not an explicit identity with the temple mystai; preserve the possible collective connection as provisional."
+        }
+      ]
+    },
+    {
+      "id": "dragonets-001",
+      "status": "reviewed",
+      "counts": [
+        16,
+        15,
+        26
+      ],
+      "checks": {
+        "sourceUtterances": 2203,
+        "sceneUtterances": 2122,
+        "unassignedUtterances": 81,
+        "metadataReady": false,
+        "readyEntities": 15,
+        "provisionalEntities": 0
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "low",
+            "status": "automatedReviewed"
+          },
+          "reason": "Manifest real-world date and Circular Island identity are supported, and game dates are explicitly unknown; all four named PCs attend, but independent vault index/name checks find no individual PC pages, leaving the required attendance links unresolved."
+        }
+      ]
+    },
+    {
+      "id": "dunmari-frontier-057",
+      "status": "reviewed",
+      "counts": [
+        21,
+        18,
+        35
+      ],
+      "checks": {
+        "sourceUtterances": 1848,
+        "sceneUtterances": 1844,
+        "unassignedUtterances": 4,
+        "metadataReady": false,
+        "readyEntities": 15,
+        "provisionalEntities": 3
+      },
+      "criticalQueue": [
+        {
+          "target": "session",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Removed the unsupported exact end date after rechecking the three-to-four-week montage, same-night awakening, and prospective next week. Start date remains a manifest anchor; the transcript cannot establish an exact closing date, so aggregate metadata stays provisional."
+        },
+        {
+          "target": "entity:hutsu-vine",
+          "label": "Hutsu vine spirit",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Context confirms a speaking individual vine but explicitly denies an identity apart from Hutsu; eligibility remains a model question after the targeted recheck."
+        },
+        {
+          "target": "entity:jades",
+          "label": "Jade fragments attached to Kenzo’s staff",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "Rechecked both fragments in the dream; the transcript supplies no separate identities for assigning the singular jade reference page. Keep the collective item unlinked."
+        },
+        {
+          "target": "entity:tharzen",
+          "label": "Tharzen Anzinakoa",
+          "review": {
+            "confidence": "medium",
+            "status": "automatedReviewed"
+          },
+          "reason": "The reference identifies four divine faces venerated collectively, not an ordinary organization; keep the type provisional rather than silently inventing a new schema kind."
+        }
+      ]
+    }
+  ]
+}

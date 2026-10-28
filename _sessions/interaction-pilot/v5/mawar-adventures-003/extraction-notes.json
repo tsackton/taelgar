@@ -1,0 +1,72 @@
+{
+  "executionMethod": "Semantic extraction by dedicated mawar003 agent; no self-review promotion; separate reviewer pending.",
+  "sourceReadCoverage": {
+    "complete": true,
+    "startUid": "u0001",
+    "endUid": "u3819",
+    "utterances": 3819,
+    "chunks": [
+      "u0001-u0320",
+      "u0321-u0650",
+      "u0651-u1000",
+      "u1001-u1340",
+      "u1341-u1670",
+      "u1671-u2000",
+      "u2001-u2340",
+      "u2341-u2680",
+      "u2681-u3020",
+      "u3021-u3380",
+      "u3381-u3819"
+    ]
+  },
+  "includedSceneCoverage": "u0006-u3798, contiguous and nonoverlapping across 21 scenes",
+  "excludedNonplayRanges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0005",
+      "reason": "Music/startup and asking the player character name before framing play."
+    },
+    {
+      "startUid": "u3799",
+      "endUid": "u3819",
+      "reason": "Post-distribution jokes, session feedback, repeated future-hook reminder, and farewells; no new played event."
+    }
+  ],
+  "sourceRestrictions": "Read prepared transcript, manifest, candidate/index metadata, and selected canonical notes for identity matching only; no beats, beat-facts, authored session recaps, or external DM files. Canonical-note historical/future details and hidden DM comments did not supply extracted events.",
+  "criticalMetadata": {
+    "realWorldDate": "2021-11-27 from manifest; transcript provides no contradicting calendar evidence.",
+    "dateStart": "1747-10-23 evening from manifest; transcript confirms late October/evening but not numeric day or year.",
+    "dateEnd": "1747-10-28 retained provisionally from manifest: return is a few days later (u3701/u3708), consistent but not numerically fixed by transcript. Later identification is narrated as eventually accomplished without a separate exact date.",
+    "sceneDates": "Relative count from opening Oct23 evening: next morning Oct24 (u349-355), one camp night (u759-792), next day tomb Oct25 (u793 onward). During identity matching, Hiyasa canonical metadata exposed Oct26 for the tomb; that note-only date was not imported. Reviewer should evaluate chronology and unresolved one-day difference.",
+    "pcs": "Ryu, Trok, Kaleho, Nerissa actively participate, with four 135-gold shares explicitly confirming four adventurers (u3777/u3796). Removed Ander (no active appearance) and Wazir from manifest attendance. Wazir is out of town at u554-555, then DM-portrayed in the return epilogue u3708-3741 and given papers u3789-3791; interpretation of pcs as attending adventurers versus any DM-portrayed PC contribution remains explicitly flagged.",
+    "locations": "Only places physically reached: Hamri, Leviathan Inn, Mirmir, Mawakel Peninsula inland forest/return route, Tomb of Yerkir-Khor. Tawir Forest is Nerissa’s former residence, not established travel destination."
+  },
+  "entityDecisions": [
+    "The unnamed speaking stone guardian is individualized by demand for tribute, hostility to oceanic objects, and sustained combat; no vault match asserted.",
+    "Yerkir-khor is mentioned through inscriptions, mosaics, and the guardian; never directly encountered. Snake-headed upper statue and humanoid lower guardian are distinct entities.",
+    "Four interchangeable gargoyles are combat-scene content, not individual NPC cards; stone keys are a consequential collected tool.",
+    "Blu is Ryu’s named osprey companion, eligible NPC despite being under PCs directory; no human Blue or other forms imported.",
+    "Opening in-transcript prior-session discussion is retained as mentioned interactions only for Airion, Azar, Benat, and the Sentient Ocean; no prior event is treated as played anew.",
+    "Azar matches Azar the Lost, not the dwarven god with the same short name.",
+    "Mawar/Chardon and ocean watchers are setting/background mentions rather than organizations meaningfully involved in this session; no organization cards.",
+    "Seeker/Taox cross-campaign table references and Tuanesco ability-name mechanics are not NPC encounters; omitted.",
+    "Hiyasa’s map card covers her sketch/report of the map she saw, not possession of an established original; match medium because native source page is an image embed only.",
+    "Kaleho’s merfolk offering remains an unresolved treasured artifact; ASR says Bible but context suggests a small worn bauble, so no precise object subtype or vault match invented.",
+    "Nerissa’s pipes and routine shell/pearl offerings are not separate inventory cards; warning crossbow, returning spear, and teleporting sword have distinctive consequential uses.",
+    "Six jars are a discovered collection; pearl, protected papers, bottomless jar, and saleable coins/gems get separate cards for distinct handling and outcomes.",
+    "Ancient-paper language and content remain unknown; no future deciphering or note-only lore imported.",
+    "The obsidian jar’s exit destruction is a DM retrospective correction in u3736-3737, linked to travel and return scenes without inventing an extra played exit moment."
+  ],
+  "quoteDecisions": "Quotes are mechanically extracted exact joined utterances. Direct speech is only color when DM clearly voices the entity; descriptive passages use introduction/whole. Major speaking NPCs Orden, Hiyasa, and guardian each have multiple complementary quotes.",
+  "unresolvedCriticalIssues": [
+    "Exact end date and one-day tomb date discrepancy remain medium confidence.",
+    "Whether Wazir’s DM-portrayed epilogue contribution belongs in actual participating pcs requires reviewer interpretation.",
+    "Hiyasa map matching and merfolk artifact object identity remain medium."
+  ],
+  "counts": {
+    "scenes": 21,
+    "entities": 22,
+    "interactions": 47
+  },
+  "reviewStatus": "All extraction statuses unreviewed; validation is mechanical only."
+}

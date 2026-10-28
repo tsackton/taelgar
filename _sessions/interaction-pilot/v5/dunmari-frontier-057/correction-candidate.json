@@ -1,0 +1,1561 @@
+{
+  "schemaVersion": 5,
+  "campaign": "dufr",
+  "session": 57,
+  "realWorldDate": "2022-09-19",
+  "pcs": [
+    "People/PCs/Dunmar Fellowship/Kenzo.md"
+  ],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-source-cleaned.md",
+      "sha256": "4036b509a3c9f98740cbac8506ce469f99fb1fb64cad12ff08b9f7bec60d9865"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Faraway Places/Orekatu.md",
+    "Gazetteer/Faraway Places/Bedez.md",
+    "Cosmology/Plane of Souls.md",
+    "Cosmology/Dreamworld.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0005",
+        "endUid": "u0012"
+      },
+      "type": "travel",
+      "locationDetail": "Departure from the Te'kula pocket dimension",
+      "aiSummary": "The collapsing pocket dimension separates the companions; Wellby calls for a future rendezvous."
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0013",
+        "endUid": "u0059"
+      },
+      "type": "exploration",
+      "locationDetail": "Jungle understory",
+      "aiSummary": "Kenzo lands alone in an unfamiliar jungle and follows cries of distress.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md",
+      "time": "predawn to early morning"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0060",
+        "endUid": "u0112"
+      },
+      "type": "exploration",
+      "locationDetail": "Fallen-tree clearing",
+      "aiSummary": "Kenzo discovers an injured lizardfolk threatened by two dinosaurs with unbalanced magical auras.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0113",
+        "endUid": "u0210"
+      },
+      "type": "combat",
+      "locationDetail": "Fallen-tree clearing",
+      "aiSummary": "Kenzo drives off the dinosaurs and rescues the injured lizardfolk.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0211",
+        "endUid": "u0360"
+      },
+      "type": "conversation",
+      "locationDetail": "Fallen-tree clearing",
+      "aiSummary": "Kenzo and Elazar establish a shared language, tend his injury and agree to travel together.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0361",
+        "endUid": "u0570"
+      },
+      "type": "travel",
+      "locationDetail": "Jungle route toward Bedez",
+      "aiSummary": "Elazar explains the disturbed spiritual balance and local plants; Kenzo asks to visit a sacred grove.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0571",
+        "endUid": "u0599"
+      },
+      "type": "travel",
+      "locationDetail": "Riverbank and sacred grove approach",
+      "aiSummary": "Elazar guides Kenzo to a riverside Hutsu grove and begins his prayers.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0600",
+        "endUid": "u0890"
+      },
+      "type": "conversation",
+      "locationDetail": "Sacred Hutsu grove",
+      "aiSummary": "Kenzo exchanges ki with a Hutsu vine and learns of a wounded spirit draining the land.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0891",
+        "endUid": "u0941"
+      },
+      "type": "conversation",
+      "locationDetail": "Sacred Hutsu grove",
+      "aiSummary": "Elazar interprets the warning and explains the eldest land and its vulnerable balance.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0942",
+        "endUid": "u1043"
+      },
+      "type": "conversation",
+      "locationDetail": "Village welcome and feast",
+      "aiSummary": "Arrosa welcomes Kenzo; Elazar translates and shares a prophecy about a stranger carrying the forest soul.",
+      "location": "Gazetteer/Faraway Places/Bedez.md",
+      "time": "evening"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1044",
+        "endUid": "u1081"
+      },
+      "type": "conversation",
+      "locationDetail": "Village council",
+      "aiSummary": "Kenzo supports Elazar’s warning, offers help and agrees to learn the lizardfolk language.",
+      "location": "Gazetteer/Faraway Places/Bedez.md",
+      "time": "following morning"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1082",
+        "endUid": "u1106"
+      },
+      "type": "exploration",
+      "locationDetail": "Village and surrounding jungle",
+      "aiSummary": "Kenzo spends several weeks learning the language, plants and spiritual traditions from Elazar.",
+      "location": "Gazetteer/Faraway Places/Bedez.md",
+      "time": "approximately three to four weeks"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1107",
+        "endUid": "u1108"
+      },
+      "type": "travel",
+      "locationDetail": "Path from Bedez to a hidden cave",
+      "aiSummary": "Elazar leads Kenzo into the jungle for a spirit journey.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md",
+      "time": "after midnight to before dawn"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1109",
+        "endUid": "u1156"
+      },
+      "type": "conversation",
+      "locationDetail": "Hidden cave and sacred waters",
+      "aiSummary": "Elazar provides a water-breathing brew and recounts creation as Kenzo enters the sacred waters.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    {
+      "index": 15,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1157",
+        "endUid": "u1234"
+      },
+      "type": "exploration",
+      "locationDetail": "Spirit vision above Taelgar",
+      "aiSummary": "Kenzo perceives connections between plants and planes, his staff’s energy and a presence draining the land.",
+      "location": "Cosmology/Plane of Souls.md"
+    },
+    {
+      "index": 16,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1235",
+        "endUid": "u1303"
+      },
+      "type": "exploration",
+      "locationDetail": "Rai’s dream and the prison door",
+      "aiSummary": "Kenzo follows Rai’s dream, sees the connected jades and glimpses Dimitaur and Apollyon at a prison door.",
+      "location": "Cosmology/Dreamworld.md"
+    },
+    {
+      "index": 17,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1304",
+        "endUid": "u1513"
+      },
+      "type": "exploration",
+      "locationDetail": "Plant and soul connections in the spirit vision",
+      "aiSummary": "Kenzo communes with plant energies, senses distant companions and unsuccessfully searches for Grash.",
+      "location": "Cosmology/Plane of Souls.md"
+    },
+    {
+      "index": 18,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1514",
+        "endUid": "u1586"
+      },
+      "type": "exploration",
+      "locationDetail": "Rai’s dream and the prison door",
+      "aiSummary": "Kenzo searches for Apollyon’s soul and attracts a lingering arcane gaze.",
+      "location": "Cosmology/Dreamworld.md"
+    },
+    {
+      "index": 19,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1587",
+        "endUid": "u1719"
+      },
+      "type": "exploration",
+      "locationDetail": "Divine echoes and ki harmonics",
+      "aiSummary": "Kenzo senses divine echoes and studies the possibilities and dangers of different kinds of ki.",
+      "location": "Cosmology/Plane of Souls.md"
+    },
+    {
+      "index": 20,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1720",
+        "endUid": "u1734"
+      },
+      "type": "exploration",
+      "locationDetail": "Sacred cave entrance",
+      "aiSummary": "Kenzo wakes at sunrise and discovers Hutsu vines and Amezza berries growing on his staff.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md",
+      "time": "sunrise"
+    },
+    {
+      "index": 21,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1735",
+        "endUid": "u1848"
+      },
+      "type": "travel",
+      "locationDetail": "Path back toward Bedez",
+      "aiSummary": "Elazar interprets the journey and explains future access to the spirit realm; the staff’s growth awaits restored balance.",
+      "location": "Gazetteer/Faraway Places/Orekatu.md"
+    }
+  ],
+  "entities": [
+    {
+      "id": "elazar",
+      "kind": "npc",
+      "label": "Elazar",
+      "aiSummary": "Kenzo rescues Elazar, who becomes his host, language teacher and guide to the spirit realm. Elazar hopes Kenzo can help restore the land’s balance.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Lizardfolk/Elazar.md",
+      "aiSuggestedFeaturedQuotes": [
+        "elazar-introduction",
+        "elazar-age",
+        "elazar-prophecy",
+        "elazar-before",
+        "elazar-one-journey"
+      ]
+    },
+    {
+      "id": "arrosa",
+      "kind": "npc",
+      "label": "Arrosa",
+      "aiSummary": "Arrosa welcomes Kenzo to Bedez and leads the council that accepts the need to act.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Lizardfolk/Arrosa.md",
+      "aiSuggestedFeaturedQuotes": [
+        "arrosa-introduction"
+      ]
+    },
+    {
+      "id": "hutsu-vine",
+      "kind": "npc",
+      "label": "Hutsu vine spirit",
+      "aiSummary": "A sacred Hutsu vine exchanges ki with Kenzo and warns him about a wounded spirit drawing too much energy.",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "hutsu-song"
+      ]
+    },
+    {
+      "id": "wounded-spirit",
+      "kind": "npc",
+      "label": "Wounded spirit",
+      "aiSummary": "Kenzo learns of and senses an unidentified presence drawing spiritual energy from the land; its identity remains unknown.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "staff",
+      "kind": "item",
+      "label": "Staff of the Forest Soul",
+      "aiSummary": "Kenzo uses his staff to commune with the jungle and perceives its spiritual connections. It grows Hutsu vines and Amezza berries after his spirit journey.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul.md",
+      "aiSuggestedFeaturedQuotes": [
+        "staff-growth-quote"
+      ]
+    },
+    {
+      "id": "jades",
+      "kind": "item",
+      "label": "Jade fragments attached to Kenzo’s staff",
+      "aiSummary": "Kenzo sees the fragments’ surviving connections and severed strands while reaching toward Rai’s dream.",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "rai",
+      "kind": "npc",
+      "label": "Rai",
+      "aiSummary": "Kenzo seeks Rai in the Dreamworld and perceives a confused dream of a prison door, without conscious conversation.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Rai.md"
+    },
+    {
+      "id": "dimitaur",
+      "kind": "npc",
+      "label": "Dimitaur",
+      "aiSummary": "Kenzo sees Dimitaur standing before the closed door within Rai’s dream.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Companions/Dimitaur.md"
+    },
+    {
+      "id": "apollyon",
+      "kind": "npc",
+      "label": "Apollyon",
+      "aiSummary": "Kenzo glimpses Apollyon through Rai’s dream and then searches for his soul, drawing an arcane gaze.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+      "aiSuggestedFeaturedQuotes": [
+        "apollyon-eyes"
+      ]
+    },
+    {
+      "id": "grash",
+      "kind": "npc",
+      "label": "Grash",
+      "aiSummary": "Kenzo tries to locate Grash through the Plane of Souls but cannot distinguish his undead essence.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Grash.md"
+    },
+    {
+      "id": "candrosa",
+      "kind": "npc",
+      "label": "Candrosa",
+      "aiSummary": "Kenzo recalls Candrosa’s earlier guidance through the spirit realm.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Candrosa.md"
+    },
+    {
+      "id": "eudomes",
+      "kind": "npc",
+      "label": "Eudomes",
+      "aiSummary": "Wellby’s recalled message identifies a rendezvous near Eudomes’ tower.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Eudomes.md"
+    },
+    {
+      "id": "bakar",
+      "kind": "npc",
+      "label": "Bakar",
+      "aiSummary": "Elazar invokes Bakar as the divine creator in his account of the world’s origins.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "tharzen",
+      "kind": "organization",
+      "label": "Tharzen Anzinakoa",
+      "aiSummary": "Elazar explains the divine creators whose footsteps shaped the eldest land.",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Tharzen Anzinakoa.md"
+    },
+    {
+      "id": "bhishma",
+      "kind": "npc",
+      "label": "Bhishma",
+      "aiSummary": "Kenzo recognizes an echo of Bhishma in the divine ki and later hears the god’s distant song.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+    },
+    {
+      "id": "laka",
+      "kind": "npc",
+      "label": "Laka",
+      "aiSummary": "Kenzo hears a distant echo of Laka’s divine song without meeting the god.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md"
+    },
+    {
+      "id": "shakun",
+      "kind": "npc",
+      "label": "Shakun",
+      "aiSummary": "Kenzo hears a distant echo of Shakun’s divine song without meeting the god.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+    },
+    {
+      "id": "jinnik",
+      "kind": "npc",
+      "label": "Jinnik",
+      "aiSummary": "Kenzo perceives a severed connection to Jinnik remaining from his former lycanthropy.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Jinnik.md"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "elazar-rescue",
+      "entity": "elazar",
+      "scenes": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Kenzo rescues Elazar, tends his wounds and learns about Orekatu while accompanying him toward Bedez.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0060",
+            "endUid": "u0599"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo rescues Elazar, tends his wounds and learns about Orekatu while accompanying him toward Bedez."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "elazar-introduction",
+          "type": "introduction",
+          "text": "and in the clearing you see um lying prone on the ground with his with his hands up like this. Um! There is a a lizardfolk man, dressed in sort of green, green and red robes, decorated with what look like parrot feathers or something around his neck, the robes torn, and two creatures unlike anything you've seen",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0061",
+            "endUid": "u0062"
+          }
+        },
+        {
+          "id": "elazar-age",
+          "type": "color",
+          "text": "I am too old to be an impulsive younger youngster, and too young to be a trusted elder these days.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0475",
+            "endUid": "u0475"
+          }
+        }
+      ]
+    },
+    {
+      "id": "elazar-witness",
+      "entity": "elazar",
+      "scenes": [
+        8
+      ],
+      "interaction": "present",
+      "importance": "supporting",
+      "aiSummary": "Elazar remains nearby while Kenzo communes with the Hutsu vine.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0600",
+            "endUid": "u0890"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar remains nearby while Kenzo communes with the Hutsu vine."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "elazar-interpretation",
+      "entity": "elazar",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Elazar interprets the vine’s warning and explains the eldest land’s balance of magical and spiritual forces.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0891",
+            "endUid": "u0937"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar interprets the vine’s warning and explains the eldest land’s balance of magical and spiritual forces."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "elazar-welcome",
+      "entity": "elazar",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Elazar hosts Kenzo, translates the village welcome and reveals a prophecy linking him to the forest soul.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0964",
+            "endUid": "u1043"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar hosts Kenzo, translates the village welcome and reveals a prophecy linking him to the forest soul."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "elazar-prophecy",
+          "type": "color",
+          "text": "the raindrop that will start the river flowing will be a stranger who carries the soul of the forest with him.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1000",
+            "endUid": "u1002"
+          }
+        }
+      ]
+    },
+    {
+      "id": "arrosa-welcome",
+      "entity": "arrosa",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Arrosa formally welcomes Kenzo to Bedez through Elazar’s translation.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0971",
+            "endUid": "u0978"
+          },
+          "relevance": "primary",
+          "aiSummary": "Arrosa formally welcomes Kenzo to Bedez through Elazar’s translation."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "arrosa-introduction",
+          "type": "introduction",
+          "text": "Arrosa, who is the like matriarch of the village. This old sort of pale blue-skinned lizardfolk woman walks in, leaning on a cane and sort of looks you over, gives you a greeting, and then verbiage that seems like a huge like a big introduction, and, like you know, the the town welcomes you. But all in that you do not understand a single word",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0973",
+            "endUid": "u0975"
+          }
+        }
+      ]
+    },
+    {
+      "id": "arrosa-council",
+      "entity": "arrosa",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kenzo’s testimony helps convince Arrosa’s council that the spiritual imbalance requires action.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1044",
+            "endUid": "u1066"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo’s testimony helps convince Arrosa’s council that the spiritual imbalance requires action."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "elazar-council",
+      "entity": "elazar",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Elazar translates the council and offers to teach Kenzo while other heroes gather.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1044",
+            "endUid": "u1081"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar translates the council and offers to teach Kenzo while other heroes gather."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "elazar-teaching",
+      "entity": "elazar",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Elazar teaches Kenzo the lizardfolk language, local plants and spiritual traditions over several weeks.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1082",
+            "endUid": "u1106"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar teaches Kenzo the lizardfolk language, local plants and spiritual traditions over several weeks."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "elazar-initiation",
+      "entity": "elazar",
+      "scenes": [
+        13,
+        14
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Elazar takes Kenzo to sacred waters and recounts creation to guide him into the spirit realm.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1107",
+            "endUid": "u1156"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar takes Kenzo to sacred waters and recounts creation to guide him into the spirit realm."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "elazar-before",
+          "type": "color",
+          "text": "and he says, I must tell you how things were before you can see how things are,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1125",
+            "endUid": "u1126"
+          }
+        }
+      ]
+    },
+    {
+      "id": "elazar-return",
+      "entity": "elazar",
+      "scenes": [
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Elazar interprets Kenzo’s journey and explains how he might enter the spirit realm again.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1735",
+            "endUid": "u1781"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar interprets Kenzo’s journey and explains how he might enter the spirit realm again."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "elazar-one-journey",
+          "type": "color",
+          "text": "It is not easy. Everybody is only granted one journey through the sacred waters.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1749",
+            "endUid": "u1751"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hutsu-conversation",
+      "entity": "hutsu-vine",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Kenzo exchanges ki with the Hutsu vine and asks about the wounded spirit and spiritual training.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0600",
+            "endUid": "u0888"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo exchanges ki with the Hutsu vine and asks about the wounded spirit and spiritual training."
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "hutsu-song",
+          "type": "color",
+          "text": "This land is old. The tendrils of the planes sing deep here,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0872",
+            "endUid": "u0873"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wounded-mentioned",
+      "entity": "wounded-spirit",
+      "scenes": [
+        8,
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The Hutsu vine and Elazar discuss a wounded spirit that may be draining the eldest land.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0811",
+            "endUid": "u0937"
+          },
+          "relevance": "primary",
+          "aiSummary": "The Hutsu vine and Elazar discuss a wounded spirit that may be draining the eldest land."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "wounded-sensed",
+      "entity": "wounded-spirit",
+      "scenes": [
+        15
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Kenzo senses an unseen presence circling and drinking the land’s spiritual energy.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1218",
+            "endUid": "u1234"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo senses an unseen presence circling and drinking the land’s spiritual energy."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "wounded-plan",
+      "entity": "wounded-spirit",
+      "scenes": [
+        21
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Elazar suggests finding and speaking to the wounded spirit to restore balance.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1735",
+            "endUid": "u1778"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar suggests finding and speaking to the wounded spirit to restore balance."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "staff-communion",
+      "entity": "staff",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Kenzo uses the staff to commune with nature and speak with the sacred Hutsu vine.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0600",
+            "endUid": "u0888"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo uses the staff to commune with nature and speak with the sacred Hutsu vine."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "staff-spirit",
+      "entity": "staff",
+      "scenes": [
+        15
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Kenzo perceives the staff’s abundant life energy within the spirit vision.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1195",
+            "endUid": "u1210"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo perceives the staff’s abundant life energy within the spirit vision."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "staff-harmonics",
+      "entity": "staff",
+      "scenes": [
+        17
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Kenzo watches plant and divine ki intertwine with the staff’s energy.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1352",
+            "endUid": "u1435"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo watches plant and divine ki intertwine with the staff’s energy."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "staff-growth",
+      "entity": "staff",
+      "scenes": [
+        20,
+        21
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "aiSummary": "Kenzo discovers new vines and berries on the staff, whose powers depend on restoring the land’s balance.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1720",
+            "endUid": "u1840"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo discovers new vines and berries on the staff, whose powers depend on restoring the land’s balance."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "staff-growth-quote",
+          "type": "introduction",
+          "text": "Um! And as you emerge from this cave into the sun, you see there is a Hutsu vine growing all up your staff",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1723",
+            "endUid": "u1725"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jades-dream",
+      "entity": "jades",
+      "scenes": [
+        16
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Kenzo sees the jade fragments’ remaining connections and severed strands carrying alien magical energy.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1256",
+            "endUid": "u1273"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo sees the jade fragments’ remaining connections and severed strands carrying alien magical energy."
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "rai-dream",
+      "entity": "rai",
+      "scenes": [
+        16
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "aiSummary": "Kenzo follows Rai’s confused dream to a prison door without finding conscious communication.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1235",
+            "endUid": "u1303"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo follows Rai’s confused dream to a prison door without finding conscious communication."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "dimitaur-vision",
+      "entity": "dimitaur",
+      "scenes": [
+        16
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "Kenzo sees Dimitaur guarding the closed door in Rai’s dream.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1284",
+            "endUid": "u1294"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo sees Dimitaur guarding the closed door in Rai’s dream."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "apollyon-vision",
+      "entity": "apollyon",
+      "scenes": [
+        16
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Kenzo identifies the withered hands in the dream’s open doorway as likely belonging to Apollyon.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1284",
+            "endUid": "u1303"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo identifies the withered hands in the dream’s open doorway as likely belonging to Apollyon."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "apollyon-gaze",
+      "entity": "apollyon",
+      "scenes": [
+        18
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Kenzo searches for Apollyon’s soul through the dream and attracts his lingering arcane gaze.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1514",
+            "endUid": "u1586"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo searches for Apollyon’s soul through the dream and attracts his lingering arcane gaze."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "apollyon-eyes",
+          "type": "introduction",
+          "text": "and you see as those two eyes look at you, they seem to pierce into your own soul.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1546",
+            "endUid": "u1549"
+          }
+        }
+      ]
+    },
+    {
+      "id": "grash-search",
+      "entity": "grash",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Kenzo searches for Grash but cannot distinguish him among the dark traces of undead souls.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1478",
+            "endUid": "u1511"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo searches for Grash but cannot distinguish him among the dark traces of undead souls."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "candrosa-memory",
+      "entity": "candrosa",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Kenzo recognizes a plane he previously traveled through with Candrosa.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1162",
+            "endUid": "u1164"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo recognizes a plane he previously traveled through with Candrosa."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "candrosa-portal",
+      "entity": "candrosa",
+      "scenes": [
+        21
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Kenzo recalls Candrosa’s spirit-staff journey while identifying familiar entrances to the Plane of Souls.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1782",
+            "endUid": "u1791"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo recalls Candrosa’s spirit-staff journey while identifying familiar entrances to the Plane of Souls."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "eudomes-rendezvous",
+      "entity": "eudomes",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Wellby’s recalled message names the portal near Eudomes’ tower as a rendezvous.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0011",
+            "endUid": "u0012"
+          },
+          "relevance": "primary",
+          "aiSummary": "Wellby’s recalled message names the portal near Eudomes’ tower as a rendezvous."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "bakar-story",
+      "entity": "bakar",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Elazar tells Kenzo how Bakar created the world and separated its planes.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1128",
+            "endUid": "u1146"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar tells Kenzo how Bakar created the world and separated its planes."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "tharzen-footsteps",
+      "entity": "tharzen",
+      "scenes": [
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Elazar explains that the Tharzen Anzinakoa’s footprint is the eldest land.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0903",
+            "endUid": "u0935"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar explains that the Tharzen Anzinakoa’s footprint is the eldest land."
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "tharzen-creation",
+      "entity": "tharzen",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Elazar describes the Tharzen Anzinakoa bringing balance to the primordial land.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1128",
+            "endUid": "u1146"
+          },
+          "relevance": "primary",
+          "aiSummary": "Elazar describes the Tharzen Anzinakoa bringing balance to the primordial land."
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "bhishma-echo",
+      "entity": "bhishma",
+      "scenes": [
+        17
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Kenzo recognizes an echo of Bhishma while exploring divine ki.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1400",
+            "endUid": "u1417"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo recognizes an echo of Bhishma while exploring divine ki."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "bhishma-song",
+      "entity": "bhishma",
+      "scenes": [
+        19
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "Kenzo hears Bhishma’s distant divine song through the veil without reaching the god.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1591",
+            "endUid": "u1619"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo hears Bhishma’s distant divine song through the veil without reaching the god."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "laka-song",
+      "entity": "laka",
+      "scenes": [
+        19
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "Kenzo hears Laka’s distant divine song through the veil without reaching the god.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1591",
+            "endUid": "u1619"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo hears Laka’s distant divine song through the veil without reaching the god."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "shakun-song",
+      "entity": "shakun",
+      "scenes": [
+        19
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "Kenzo hears Shakun’s distant divine song through the veil without reaching the god.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1591",
+            "endUid": "u1619"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo hears Shakun’s distant divine song through the veil without reaching the god."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "jinnik-trace",
+      "entity": "jinnik",
+      "scenes": [
+        19
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Kenzo sees a severed tendril of Jinnik’s influence left from his time as a werewolf.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1691",
+            "endUid": "u1705"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo sees a severed tendril of Jinnik’s influence left from his time as a werewolf."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "medium",
+    "status": "automatedReviewed"
+  },
+  "sceneReview": {
+    "confidence": "medium",
+    "status": "automatedReviewed"
+  },
+  "dateStart": "1748-09-30"
+}

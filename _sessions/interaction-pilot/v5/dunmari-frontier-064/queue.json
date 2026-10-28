@@ -1,0 +1,10 @@
+[
+  {
+    "target": "session",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "Full contextual reread confirms the attendance, identities, locations, and passage of days; no spoken calendar date independently fixes the manifest’s November 6–13 span, which remains provisional."
+  }
+]

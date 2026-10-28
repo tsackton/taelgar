@@ -1,0 +1,99 @@
+{
+  "session": "dunmari-frontier-007",
+  "method": "Separate semantic extraction and independent semantic review agents; one targeted correction/recheck; mechanical validation afterward.",
+  "extractionAgent": "du007",
+  "reviewAgent": "mawar003",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 2978,
+  "reviewSourceUtterancesRead": 2260,
+  "sourceCoverage": {
+    "firstUid": "u0005",
+    "lastUid": "u2978",
+    "contiguous": true,
+    "coveredUtterances": 2974
+  },
+  "excludedRanges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0004",
+      "reason": "Pre-play music setup and table chatter."
+    }
+  ],
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "corrections": [
+    "Scene 10 dateEnd changed from 1748-04-09 to 1748-04-10 and time clarified as night into early morning."
+  ],
+  "reviewScope": {
+    "windows": [
+      [
+        1,
+        1138
+      ],
+      [
+        1230,
+        1275
+      ],
+      [
+        1410,
+        1460
+      ],
+      [
+        1810,
+        1895
+      ],
+      [
+        2040,
+        2978
+      ]
+    ],
+    "note": "Independently read all noncombat narrative, both major NPC conversations in full, all scene boundary/chronology transitions, every entity inclusion/identity, all quotes in context, and selected combat windows for item/leader claims; did not reread every tactical combat utterance.",
+    "entitiesReviewed": 15,
+    "interactionsReviewed": 20,
+    "unflaggedSamples": [
+      "Seeker’s die and map planning",
+      "Shani’s full roadside conversation and herder healing",
+      "Coin rabbit bait and post-combat gnoll identification",
+      "Vulture speech attribution",
+      "Tharandros’s entire conversation and group departure"
+    ]
+  },
+  "checks": {
+    "sourceUtterances": 2978,
+    "sceneUtterances": 2974,
+    "unassignedUtterances": 4,
+    "metadataReady": false,
+    "readyEntities": 14,
+    "provisionalEntities": 1
+  },
+  "issues": [
+    {
+      "target": "session",
+      "reason": "Endpoint Apr11 follows explicit transcript transitions but conflicts with manifest/reference Apr12; numerical start is manifest anchored, and the phrase next day at u2308 remains ambiguous."
+    },
+    {
+      "target": "entity:karawa-mystai",
+      "reason": "The earlier temple mystai and later Karawa sages/dreamwalkers are plausibly the same local collective but not explicitly equated; dependent interactions remain medium."
+    }
+  ],
+  "criticalQueue": [
+    {
+      "target": "session",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "reason": "Critical session metadata is provisional."
+    },
+    {
+      "target": "entity:karawa-mystai",
+      "label": "Mystai remaining in Karawa",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "reason": "Entity identity/inclusion/vault match is provisional."
+    }
+  ],
+  "noHumanReview": true
+}

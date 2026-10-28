@@ -1,0 +1,1253 @@
+{
+  "schemaVersion": 5,
+  "campaign": "dufr",
+  "session": 7,
+  "realWorldDate": "2020-08-16",
+  "pcs": [
+    "People/PCs/Dunmar Fellowship/Kenzo.md",
+    "People/PCs/Dunmar Fellowship/Wellby.md",
+    "People/PCs/Dunmar Fellowship/Delwath.md",
+    "People/PCs/Dunmar Fellowship/Seeker.md",
+    "People/PCs/Dunmar Fellowship/Riswynn.md"
+  ],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md",
+      "sha256": "9a879c80191471a464bb47623429dd1c6c2dab4ae8336b3979d44365f5453eb5"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+    "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0005",
+        "endUid": "u0165"
+      },
+      "type": "conversation",
+      "locationDetail": "Departing town during the evacuation",
+      "aiSummary": "The party plans its pace, tracks, provisions, and animal bait before leaving the evacuating town.",
+      "dateStart": "1748-04-07",
+      "dateEnd": "1748-04-07",
+      "time": "dawn",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0166",
+        "endUid": "u0203"
+      },
+      "type": "travel",
+      "locationDetail": "Plains north of Karawa and the ancient trade road",
+      "aiSummary": "The party follows the attackers’ tracks north alongside the distant evacuation column.",
+      "dateStart": "1748-04-07",
+      "dateEnd": "1748-04-07",
+      "time": "morning to early afternoon",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0204",
+        "endUid": "u0328"
+      },
+      "type": "exploration",
+      "locationDetail": "Abandoned feeding and sleeping place north of the trade road",
+      "aiSummary": "Tracks divide northwest and northeast; the party chooses Raven’s Hold despite concern for the evacuees.",
+      "dateStart": "1748-04-07",
+      "dateEnd": "1748-04-07",
+      "time": "mid-afternoon",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0329",
+        "endUid": "u0373"
+      },
+      "type": "travel",
+      "locationDetail": "Cross-country route northeast toward Raven’s Hold",
+      "aiSummary": "The party rides northeast by dead reckoning rather than detouring to the road.",
+      "dateStart": "1748-04-07",
+      "dateEnd": "1748-04-07",
+      "time": "late afternoon",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0374",
+        "endUid": "u0501"
+      },
+      "type": "conversation",
+      "locationDetail": "First night’s camp north of Karawa",
+      "aiSummary": "Riswynn shares her uncle’s maps while the party considers the dwarven escape route and other approaches to Raven’s Hold.",
+      "dateStart": "1748-04-07",
+      "dateEnd": "1748-04-07",
+      "time": "evening",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0502",
+        "endUid": "u0542"
+      },
+      "type": "travel",
+      "locationDetail": "Open plains northeast of Karawa",
+      "aiSummary": "Hard riding follows scattered kills through empty grazing country, with nervous antelope and no people.",
+      "dateStart": "1748-04-08",
+      "dateEnd": "1748-04-08",
+      "time": "daytime",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0543",
+        "endUid": "u0802"
+      },
+      "type": "exploration",
+      "locationDetail": "Approaching the road to Raven’s Hold",
+      "aiSummary": "A dust cloud prompts cautious scouting, a spyglass purchase clarification, and the discovery of wounded herders approaching with goats.",
+      "dateStart": "1748-04-09",
+      "dateEnd": "1748-04-09",
+      "time": "daytime",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0803",
+        "endUid": "u1034"
+      },
+      "type": "conversation",
+      "locationDetail": "Roadside meeting with Shani’s family",
+      "aiSummary": "Shani describes gnoll attacks, evacuation rumors, and a stationary storm; Seeker heals a herder before the travelers continue south.",
+      "dateStart": "1748-04-09",
+      "dateEnd": "1748-04-09",
+      "time": "daytime",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1035",
+        "endUid": "u1105"
+      },
+      "type": "travel",
+      "locationDetail": "Road north along Dunmar’s old magical border",
+      "aiSummary": "The party follows the road seeking the attackers, passing unsettling sights and finding the countryside increasingly silent.",
+      "dateStart": "1748-04-09",
+      "dateEnd": "1748-04-09",
+      "time": "afternoon to evening",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1106",
+        "endUid": "u1125"
+      },
+      "type": "exploration",
+      "locationDetail": "Camp among boulders beside the northbound road",
+      "aiSummary": "The party makes camp and sets a watch in the unnaturally still landscape.",
+      "dateStart": "1748-04-09",
+      "dateEnd": "1748-04-10",
+      "time": "night into early morning",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1126",
+        "endUid": "u2108"
+      },
+      "type": "combat",
+      "locationDetail": "Boulder campsite",
+      "aiSummary": "Six gnolls ambush the camp with barbed and poisoned arrows; the party fights from cover and kills the fleeing survivor.",
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-10",
+      "time": "after midnight",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2109",
+        "endUid": "u2171"
+      },
+      "type": "exploration",
+      "locationDetail": "Boulder campsite after the ambush",
+      "aiSummary": "The party inspects the gnolls, recognizes their tactical differences, and resumes its interrupted rest.",
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-10",
+      "time": "after midnight",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2172",
+        "endUid": "u2306"
+      },
+      "type": "conversation",
+      "locationDetail": "Boulder campsite the next morning",
+      "aiSummary": "Seeker questions a hungry vulture about Raven’s Hold and the storm before the party renews its cautious approach.",
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-10",
+      "time": "mid-morning",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2307",
+        "endUid": "u2347"
+      },
+      "type": "travel",
+      "locationDetail": "Plains approaching the mountain foothills",
+      "aiSummary": "The party sees the vast stationary storm and Raven’s Hold’s distant valley, then considers approaching along the mountain road.",
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-10",
+      "time": "daytime to sunset",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 15,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2348",
+        "endUid": "u2394"
+      },
+      "type": "exploration",
+      "locationDetail": "Camp south of the mountain pass",
+      "aiSummary": "A fleeting smell of sulfur and rotting flesh reaches camp before another quiet night.",
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-10",
+      "time": "evening and night",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 16,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2395",
+        "endUid": "u2506"
+      },
+      "type": "exploration",
+      "locationDetail": "Camp near the foothills",
+      "aiSummary": "A fast-moving centaur herd approaches from the Plaguelands while the party discusses centaur history and customs.",
+      "dateStart": "1748-04-11",
+      "dateEnd": "1748-04-11",
+      "time": "morning",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 17,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2507",
+        "endUid": "u2970"
+      },
+      "type": "conversation",
+      "locationDetail": "Camp near the foothills, surrounded by centaurs",
+      "aiSummary": "Tharandros warns of poisoned water and planar tethers; the party persuades him to warn Karawa and seek its dreamwalking knowledge.",
+      "dateStart": "1748-04-11",
+      "dateEnd": "1748-04-11",
+      "time": "morning",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    },
+    {
+      "index": 18,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2971",
+        "endUid": "u2978"
+      },
+      "type": "travel",
+      "locationDetail": "Last miles toward the mountain road and Raven’s Hold valley",
+      "aiSummary": "The centaurs turn south as the party prepares to choose its final approach to Raven’s Hold.",
+      "dateStart": "1748-04-11",
+      "dateEnd": "1748-04-11",
+      "time": "morning",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+    }
+  ],
+  "entities": [
+    {
+      "id": "runic-die",
+      "kind": "item",
+      "label": "Seeker’s runic stone die",
+      "aiSummary": "Seeker displays a six-sided stone die and proposes using it to settle the party’s travel pace.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "die-introduction"
+      ]
+    },
+    {
+      "id": "ravens-hold-maps",
+      "kind": "item",
+      "label": "Riswynn’s maps of Raven’s Hold",
+      "aiSummary": "Two maps drawn by Riswynn’s uncle guide discussion of the fortress, dwarven outpost, and possible escape-route entrance.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "maps-introduction"
+      ]
+    },
+    {
+      "id": "ander",
+      "kind": "npc",
+      "label": "Ander Charmheart",
+      "aiSummary": "The party recalls Ander’s limited exploration inside Raven’s Hold’s outer wall and his strange movement toward the earlier battle.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Ander Charmheart.md"
+    },
+    {
+      "id": "spyglass",
+      "kind": "item",
+      "label": "Wellby’s spyglass",
+      "aiSummary": "Wellby and Kenzo arrange a 100-gold spyglass purchase, and Wellby uses its modest magnification to inspect approaching travelers.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "spyglass-description"
+      ]
+    },
+    {
+      "id": "shani",
+      "kind": "npc",
+      "label": "Shani",
+      "aiSummary": "A Dunmari goat herder fleeing with her family warns the party about gnolls and a vast stationary storm. She agrees to report their progress if she reaches Tokra.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Shani.md",
+      "aiSuggestedFeaturedQuotes": [
+        "shani-introduction",
+        "shani-storm",
+        "shani-gnolls",
+        "shani-warning"
+      ]
+    },
+    {
+      "id": "wounded-herder",
+      "kind": "npc",
+      "label": "Herder with a broken arm",
+      "aiSummary": "An unnamed member of Shani’s traveling group lost his horse and suffered a broken arm in the attack. Seeker heals him, prompting gratitude and surprise.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "herder-healed"
+      ]
+    },
+    {
+      "id": "maw-book",
+      "kind": "item",
+      "label": "Book describing the maw creatures",
+      "aiSummary": "Riswynn recalls Seeker’s book identifying the maw creatures as coming from another world.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "disc-coin",
+      "kind": "item",
+      "label": "Floating Disc Coin",
+      "aiSummary": "Seeker transforms the coin into a floating platter bearing rabbit bait during the gnoll ambush.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Floating Disc Coin.md",
+      "aiSuggestedFeaturedQuotes": [
+        "disc-transformation"
+      ]
+    },
+    {
+      "id": "gnoll-leader",
+      "kind": "npc",
+      "label": "Gnoll leader with poisoned arrows",
+      "aiSummary": "A gnoll archer uses poison and communicates with its companions during the camp ambush. After the attackers are defeated, the party notices its necklace of bloody goat knucklebones.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "gnoll-leader-introduction"
+      ]
+    },
+    {
+      "id": "vulture",
+      "kind": "npc",
+      "label": "Vulture questioned at breakfast",
+      "aiSummary": "A hungry vulture eats a fallen gnoll and answers Seeker’s questions about movement near Raven’s Hold and flight near the storm.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "vulture-introduction",
+        "vulture-no-food",
+        "vulture-storm"
+      ]
+    },
+    {
+      "id": "chamutte",
+      "kind": "npc",
+      "label": "Cha’mutte",
+      "aiSummary": "Cha’mutte is discussed when recalling centaur participation in the war and distinguishing dragons from beings created through belief.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "tharandros",
+      "kind": "npc",
+      "label": "Tharandros",
+      "aiSummary": "A centaur leader warns of spreading poisoned water, an Abyssal tether, and the party’s own planar connections. Persuaded by Karawa’s dreamwalking knowledge, he agrees to carry a warning south.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Tharandros.md",
+      "aiSuggestedFeaturedQuotes": [
+        "tharandros-abyss",
+        "tharandros-shadow",
+        "tharandros-spreading-poison",
+        "tharandros-agreement"
+      ]
+    },
+    {
+      "id": "centaur-herd",
+      "kind": "organization",
+      "label": "Tharandros’s herd",
+      "aiSummary": "A migrating herd flees poisoned water from the east and changes course toward Karawa after its leader speaks with the party.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "herd-introduction"
+      ]
+    },
+    {
+      "id": "draconic-staff",
+      "kind": "item",
+      "label": "Staff inscribed with Draconic runes",
+      "aiSummary": "Kenzo confirms that he still carries the found staff while correcting a confusion between Draconic and Drankorian.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "karawa-mystai",
+      "kind": "organization",
+      "label": "Mystai remaining in Karawa",
+      "aiSummary": "The party describes the mystai staying fortified in Karawa as a possible refuge and later directs Tharandros toward the people preserving its deeper magic.",
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "id": "die-planning",
+      "entity": "runic-die",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Seeker displays his die and repeatedly proposes rolling it to determine the party’s travel pace.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0039",
+            "endUid": "u0118"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "die-introduction",
+          "type": "introduction",
+          "text": "So I thought we could solve the dispute using one of these. I hold up a stone cube with runic markings on each of the six sides. So here's my proposal. We assign Say, A rate of travel to each of the six numbers. Perhaps that's splitting it too finely, or we could choose between two: slow and fast regime. Or perhaps a compromise: we might choose between three paces, a kind of slow, fast, and, you might say, ordinary rate of travel. In that case, we could assign two numbers to each, roll the die, and then that way decide.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0044",
+            "endUid": "u0049"
+          }
+        }
+      ]
+    },
+    {
+      "id": "maps-planning",
+      "entity": "ravens-hold-maps",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Riswynn shares her uncle’s two maps as the party discusses the fortress layout and possible routes into the dwarven outpost.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0374",
+            "endUid": "u0489"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "maps-introduction",
+          "type": "introduction",
+          "text": "Well, since you are a cartographer, and that sparked my memory, I realized I haven’t shown you the maps that I—that my uncle drew. And they don't create any landmarks for me to follow, but perhaps with your slight familiarity with the region, something could come to mind.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0378",
+            "endUid": "u0379"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ander-fort-memory",
+      "entity": "ander",
+      "scenes": [
+        5
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party recalls that Ander passed the outer wall but did not reach the fort.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0398",
+            "endUid": "u0437"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "spyglass-herders",
+      "entity": "spyglass",
+      "scenes": [
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Wellby and Kenzo arrange the cost of a basic spyglass and use it to examine the approaching herders.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0668",
+            "endUid": "u0741"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "spyglass-description",
+          "type": "introduction",
+          "text": "In Dunmar, it would be, you'd have a spyglass it would cost you 100 gold. No, I don't have enough gold for a spyglass. And you're talking about something that's going to at best. Magnify something One and a half time something like Maybe twice, depending on the light Basically you're talking about like a leather, you know, some leather tube that you can put like glass in and sort of fiddle with a little bit to get there.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0717",
+            "endUid": "u0723"
+          }
+        }
+      ]
+    },
+    {
+      "id": "die-ambush-joke",
+      "entity": "runic-die",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Seeker proposes numbering the alternative plans for approaching the distant travelers.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0590",
+            "endUid": "u0592"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ander-battle-memory",
+      "entity": "ander",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Seeker recalls Ander walking toward the previous battle while the party considers whether creatures can draw prey after them.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0634",
+            "endUid": "u0650"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "shani-road-meeting",
+      "entity": "shani",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party exchanges warnings with Shani, learns about her family’s flight and the stationary storm, and asks her to report their journey to Tokra.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0803",
+            "endUid": "u1012"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the herders’ leader, later Shani",
+      "quotes": [
+        {
+          "id": "shani-introduction",
+          "type": "introduction",
+          "text": "The one in the front. Sees you obviously and Pulls up her horse and looks Quite startled and kind of motions for, you know, for everybody to to stop in and she rides forward and none of them particularly have, you know, Weapons or anything. She's carrying, you know, a couple of spears, but they seem, you know, she's not a warrior right these are not none of these are particularly fighters and she Just kind of looks shocked to see you and rides up and just spouts off in Dunmari.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0808",
+            "endUid": "u0813"
+          }
+        },
+        {
+          "id": "shani-storm",
+          "type": "color",
+          "text": "Of course, I never rode up to it, but you can see it on the horizon. Once you get in to the point in which you can see the mountains and you look north, you'll see this towering gray cloud that's just hanging over the foothills, and every now and then lightning blast through the sky. But I haven't got any closer to it, than maybe 20 Miles, but it's visible from quite a distance and it just looks it just looks like a thunder storm but massive 15, 20 miles across. Just sitting there on the plains.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0906",
+            "endUid": "u0910"
+          }
+        },
+        {
+          "id": "shani-gnolls",
+          "type": "color",
+          "text": "Reached the goats, and we, we slaughtered some of our goats, left them, thinking they look like some kind of hyena beast, and maybe they would be distracted and it did slow them down enough for us to Get away. They seemed they didn't stop and butcher the creatures with their swords or spears, they would just tear into the flesh Of the goats. As we ran and I didn't look back At that point,",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0932",
+            "endUid": "u0936"
+          }
+        },
+        {
+          "id": "shani-warning",
+          "type": "color",
+          "text": "I would advise you to run They are They are something out of this world. never seen anything like it.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1008",
+            "endUid": "u1011"
+          }
+        }
+      ]
+    },
+    {
+      "id": "herder-healing",
+      "entity": "wounded-herder",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Seeker magically mends the herder’s broken arm, surprising him with instantaneous healing.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0861",
+            "endUid": "u0888"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "herder-healed",
+          "type": "whole",
+          "text": "I draw A small image of whole glowing bones in the air. But quickly. So as not to draw too much attention and gently bestow it upon the arm of the person. He looks like shocked and happy and says, Wow, he's like touching his arm like he's. I mean, he's seen healing magic before but In there in his experience. It's usually this like Like mud stuff that the You know the healing mud of Karawa’s locally reasonably well known, but just instantaneous Healing without any touch or anything like that he has not seen before and it's like looking around. Wow. Thank you. Thank you, kind dwarf that's That's amazing.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0876",
+            "endUid": "u0885"
+          }
+        }
+      ]
+    },
+    {
+      "id": "maw-book-recalled",
+      "entity": "maw-book",
+      "scenes": [
+        8
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Riswynn recalls the book’s account of extraplanar maws while speculating about the storm.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1018",
+            "endUid": "u1025"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "mystai-refuge",
+      "entity": "karawa-mystai",
+      "scenes": [
+        8
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kenzo tells Shani that mystai remain fortified at Karawa’s temple and may provide safety or provisions.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0947",
+            "endUid": "u0950"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "coin-rabbit-bait",
+      "entity": "disc-coin",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Seeker uses the floating disc to offer rabbit bait, briefly distracting a gnoll as the disc follows him through the fight.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1414",
+            "endUid": "u1890"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "disc-transformation",
+          "type": "whole",
+          "text": "Okay, so we're gonna we're gonna put the the coin flips into the air and then vanishes and is replaced by a, what is it three feet wide. Floating A rabbit on Three feet above the ground. The rabbit appears to be just hovering basically Yes, and Coin like stretches out. So it's like a thin sort of copper Hovering so it's basically you're serving up a rabbit on a fancy copper platter. That's my intention 100%",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1423",
+            "endUid": "u1431"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gnoll-leader-combat",
+      "entity": "gnoll-leader",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party fights the poisoned-arrow archer among the six gnolls attacking their camp.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1244",
+            "endUid": "u2108"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "gnoll-leader-body",
+      "entity": "gnoll-leader",
+      "scenes": [
+        12
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "Inspecting the attackers reveals the apparent leader’s fresh goat-knucklebone necklace and greater tactical skill.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2113",
+            "endUid": "u2143"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "gnoll-leader-introduction",
+          "type": "introduction",
+          "text": "The one who was shooting poison arrows, who seemed like maybe the leader is yelling at the others does have like a necklace made of goat knuckle bones. Strung around its neck. Some still with little bits of flesh and blood dripping off of them.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2123",
+            "endUid": "u2124"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vulture-breakfast",
+      "entity": "vulture",
+      "scenes": [
+        13
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Seeker feeds and questions a vulture, learning of movement without food near the fortress and its inability to fly at the storm.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2180",
+            "endUid": "u2283"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "vulture-introduction",
+          "type": "introduction",
+          "text": "So as you begin speaking to a vulture Circles down To land and kind of looks at you and Says, Food Water Well, I point it over to one of the hyena guys So you're Welcome to this, but so it like walks over and like starts ripping the thing apart and eating for a little bit and Comes back then and says, It was like blood on its face, and stuff like that so black vultures head is all black. And it's, it's got like little strips of blood now sort of coating its feathers. Now it says. Say again.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2216",
+            "endUid": "u2228"
+          }
+        },
+        {
+          "id": "vulture-no-food",
+          "type": "color",
+          "text": "Everything moving nothing dead.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2249",
+            "endUid": "u2249"
+          }
+        },
+        {
+          "id": "vulture-storm",
+          "type": "whole",
+          "text": "Have you been to that big storm. cannot fly. You can't fly. Okay, well thanks you can have some of our water too if you want",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2251",
+            "endUid": "u2254"
+          }
+        }
+      ]
+    },
+    {
+      "id": "spyglass-centaurs",
+      "entity": "spyglass",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "aiSummary": "Wellby uses the spyglass to inspect the approaching centaur herd.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2430",
+            "endUid": "u2436"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "chamutte-discussion",
+      "entity": "chamutte",
+      "scenes": [
+        16,
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party recalls centaur opposition to Cha’mutte and distinguishes his draconic nature from belief-created planes.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2469",
+            "endUid": "u2475"
+          },
+          "relevance": "primary"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2697",
+            "endUid": "u2707"
+          },
+          "relevance": "supporting"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "tharandros-meeting",
+      "entity": "tharandros",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Tharandros explains poisoned waters and planar connections, then agrees to carry the party’s warning to Karawa after learning of its dreamwalkers.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2507",
+            "endUid": "u2970"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the centaur leader, later Tharandros",
+      "quotes": [
+        {
+          "id": "tharandros-abyss",
+          "type": "color",
+          "text": "Those who preached and believed that those of his kind, created the Abyss And the nightmares of the world now sustain it. That is the land. I see at the end of this rope. We will not stay here.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2562",
+            "endUid": "u2565"
+          }
+        },
+        {
+          "id": "tharandros-shadow",
+          "type": "color",
+          "text": "The shadow you are tethered to, elf, Is hardly what I would call experience. There is a much wider world out there. You have seen perhaps a tiny corner.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2575",
+            "endUid": "u2578"
+          }
+        },
+        {
+          "id": "tharandros-spreading-poison",
+          "type": "color",
+          "text": "10 days ago. It was Just I think just one small stream. Five days ago it was A few watering holes. And Yesterday, It was Everywhere we stopped. I would say it is growing. Yes. Whether without bound or Contained in some way. I cannot say.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2724",
+            "endUid": "u2735"
+          }
+        },
+        {
+          "id": "tharandros-agreement",
+          "type": "color",
+          "text": "The South has been I fear. There are more forces at work. Than us or you or the humans. But I will ride to the south and find out about this dreaming. And I will bring them your message. And I will ask you To do what you can. For this land. Clear the water Make these pastures safe again. And perhaps Perhaps we’ll meet in another world again or in dreams. If this dreaming you speak of Is Well, we'll see what",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2944",
+            "endUid": "u2958"
+          }
+        }
+      ]
+    },
+    {
+      "id": "herd-encounter",
+      "entity": "centaur-herd",
+      "scenes": [
+        16,
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party meets the fleeing herd and persuades its leader to redirect the group south toward Karawa.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2395",
+            "endUid": "u2970"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "herd-introduction",
+          "type": "introduction",
+          "text": "One of them kind of rides out and they're all there's there's a good two dozen of them. They seem to be Have been probably riding through the night or running through the night they're sweaty and tired and Let’s see, many of them seem winded; none particularly wounded that you can see.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2510",
+            "endUid": "u2513"
+          }
+        }
+      ]
+    },
+    {
+      "id": "staff-carried",
+      "entity": "draconic-staff",
+      "scenes": [
+        17
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "aiSummary": "Kenzo confirms that he is carrying the found staff with Draconic runes while clarifying which language he is speaking.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2762",
+            "endUid": "u2770"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "mystai-message",
+      "entity": "karawa-mystai",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party describes Karawa’s remaining sages and dreamwalkers to persuade Tharandros to carry them news of the poisoned water.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2839",
+            "endUid": "u2949"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "medium",
+    "status": "automatedReviewed"
+  },
+  "sceneReview": {
+    "confidence": "medium",
+    "status": "automatedReviewed"
+  },
+  "dateStart": "1748-04-07",
+  "dateEnd": "1748-04-11"
+}

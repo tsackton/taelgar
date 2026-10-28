@@ -1,0 +1,770 @@
+{
+  "reviewer": "mawar003 independent semantic review of du007, pass 0",
+  "inputDigest": "d522a5cd49358ad7dfd8fc139ca836bbb56eca20e39d15363e79a8c7ff70c996",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "Campaign, session, real-world date and start date resolve to the manifest; all five PCs actively speak and are named together in the warning. Karawa and the northern plains/Samtal are traversed, while Raven’s Hold remains a destination. Explicit morning transitions count Apr7→Apr11, but the manifest and Tharandros note give Apr12, and the DM also gives inconsistent travel/day descriptions; retain endpoint as provisional rather than silently selecting the reference-note date.",
+      "evidence": [
+        {
+          "vaultPath": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0005",
+          "endUid": "u0024"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0982",
+          "endUid": "u0984"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0393",
+          "endUid": "u0394"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0502",
+          "endUid": "u0543"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1047",
+          "endUid": "u1053"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2163",
+          "endUid": "u2176"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2307",
+          "endUid": "u2335"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2395",
+          "endUid": "u2407"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2971",
+          "endUid": "u2978"
+        },
+        {
+          "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Tharandros.md"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "medium",
+      "reason": "The continuous partition follows departure, travel, camps, roadside meetings, the ambush and its aftermath; complete Shani and Tharandros conversations remain together. Scene 10 incorrectly ends on Apr9 despite a 3am watch, requiring a midnight-span correction; broader numeric chronology remains provisional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0329",
+          "endUid": "u0394"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0502",
+          "endUid": "u0543"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0803",
+          "endUid": "u0819"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1106",
+          "endUid": "u1134"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2100",
+          "endUid": "u2197"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2348",
+          "endUid": "u2407"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2507",
+          "endUid": "u2535"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2960",
+          "endUid": "u2978"
+        }
+      ]
+    },
+    {
+      "target": "entity:runic-die",
+      "confidence": "high",
+      "reason": "Seeker physically displays a six-sided stone cube with runes and proposes rolling it for pace; the later numbering joke refers back to that device, without needing a vault match.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0039",
+          "endUid": "u0118"
+        }
+      ]
+    },
+    {
+      "target": "entity:ravens-hold-maps",
+      "confidence": "high",
+      "reason": "Riswynn explicitly says her uncle drew the maps and the DM confirms two maps at the first camp; the object and planning role are supported without assigning an invented note.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0374",
+          "endUid": "u0489"
+        }
+      ]
+    },
+    {
+      "target": "entity:ander",
+      "confidence": "high",
+      "reason": "Ander is recalled as the earlier Raven’s Hold explorer and a person drawn toward the prior battle; the halfling Charmheart note has the matching campaign and exploration context, unlike the unrelated Mawar PC.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0398",
+          "endUid": "u0437"
+        },
+        {
+          "vaultPath": "People/Halflings/Ander Charmheart.md"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0634",
+          "endUid": "u0650"
+        }
+      ]
+    },
+    {
+      "target": "entity:spyglass",
+      "confidence": "high",
+      "reason": "Wellby’s character-sheet spyglass is explicitly accepted as a retconned 100-gold purchase shared with Kenzo; actual scouting use recurs with the centaurs, making inclusion consequential.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0668",
+          "endUid": "u0741"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2430",
+          "endUid": "u2436"
+        }
+      ]
+    },
+    {
+      "target": "entity:shani",
+      "confidence": "high",
+      "reason": "The roadside leader calls herself Shani and says the group is mostly family, with goats raised near Karawa; that uniquely matches the Dunmari goat-herder reference, and her whole conversation was independently read.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0803",
+          "endUid": "u1012"
+        },
+        {
+          "vaultPath": "People/Dunmari/Shani.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:wounded-herder",
+      "confidence": "high",
+      "reason": "One specific man among the two unhorsed travelers has a broken arm; Seeker heals him and the DM describes his gratitude, so this is an individualized unnamed NPC with no false note match.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0861",
+          "endUid": "u0888"
+        }
+      ]
+    },
+    {
+      "target": "entity:maw-book",
+      "confidence": "high",
+      "reason": "Riswynn explicitly recalls Seeker’s book saying the maw creatures are from another world; this is a distinctive consulted source, not a newly encountered creature or invented title.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1018",
+          "endUid": "u1025"
+        }
+      ]
+    },
+    {
+      "target": "entity:disc-coin",
+      "confidence": "high",
+      "reason": "Seeker flips a strange coin which expands into the floating platter used to carry rabbit bait; the named campaign treasure page resolves the item identity, while no later visions or ownership are imported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1414",
+          "endUid": "u1431"
+        },
+        {
+          "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Floating Disc Coin.md"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1837",
+          "endUid": "u1859"
+        }
+      ]
+    },
+    {
+      "target": "entity:gnoll-leader",
+      "confidence": "high",
+      "reason": "The poison-arrow archer is independently distinguished in combat and explicitly described afterward as a possible leader with a bloody goat-knucklebone necklace; selective inclusion is justified while generic gnolls remain scene content.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1244",
+          "endUid": "u1260"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2113",
+          "endUid": "u2143"
+        }
+      ]
+    },
+    {
+      "target": "entity:vulture",
+      "confidence": "high",
+      "reason": "Seeker calls down, feeds, and questions one vulture; its answers and visual description individualize the animal without a vault match.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2180",
+          "endUid": "u2283"
+        }
+      ]
+    },
+    {
+      "target": "entity:chamutte",
+      "confidence": "high",
+      "reason": "The name appears in the centaur-war discussion and is explicitly identified as a dragon in the cosmological aside, matching the elder-wyrm note; only these mentions are extracted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2469",
+          "endUid": "u2475"
+        },
+        {
+          "vaultPath": "People/Extraplanar Powers/Cha'mutte.md"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2697",
+          "endUid": "u2707"
+        }
+      ]
+    },
+    {
+      "target": "entity:tharandros",
+      "confidence": "high",
+      "reason": "The speaking centaur leader names himself Tharandros after agreeing to carry news south, and the canonical page confirms the centaur herd leader identity; the entire exchange was read without importing his later actions.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2507",
+          "endUid": "u2535"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Tharandros.md"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2944",
+          "endUid": "u2970"
+        }
+      ]
+    },
+    {
+      "target": "entity:centaur-herd",
+      "confidence": "high",
+      "reason": "About two dozen centaurs travel together, encircle the party, and change collective direction after their leader speaks, establishing a specific coordinated group distinct from its spokesman.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2395",
+          "endUid": "u2436"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2507",
+          "endUid": "u2513"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2965",
+          "endUid": "u2970"
+        }
+      ]
+    },
+    {
+      "target": "entity:draconic-staff",
+      "confidence": "high",
+      "reason": "Kenzo explicitly states that he still carries the found staff with Draconic runes; the Drankorian speech correction does not identify it as a different known staff, so no positive note match is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2755",
+          "endUid": "u2770"
+        }
+      ]
+    },
+    {
+      "target": "entity:karawa-mystai",
+      "confidence": "medium",
+      "reason": "The temple mystai are explicit at u0949, but the later remaining people, sages, and dreamwalkers are never explicitly equated with that collective. The local connection is plausible, not sufficient for a high-confidence unified identity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0947",
+          "endUid": "u0950"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2912",
+          "endUid": "u2949"
+        }
+      ]
+    },
+    {
+      "target": "interaction:die-planning",
+      "confidence": "high",
+      "reason": "The held die and repeated random-pace proposal occur within one planning exchange; introduction quote is PC description, not object speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0039",
+          "endUid": "u0118"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0044",
+          "endUid": "u0049"
+        }
+      ]
+    },
+    {
+      "target": "interaction:maps-planning",
+      "confidence": "high",
+      "reason": "The two maps are physically brought out and their routes discussed through one campsite planning conversation; the quote is Riswynn’s introduction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0374",
+          "endUid": "u0489"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0378",
+          "endUid": "u0379"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ander-fort-memory",
+      "confidence": "high",
+      "reason": "The DM explicitly recalls Ander passing only the outer wall, so mentioned is the correct status.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0398",
+          "endUid": "u0437"
+        }
+      ]
+    },
+    {
+      "target": "interaction:spyglass-herders",
+      "confidence": "high",
+      "reason": "The purchase is a table retcon, followed by accepted in-world use to see the approaching herders; no unsupported later optics are added.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0668",
+          "endUid": "u0741"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0717",
+          "endUid": "u0723"
+        }
+      ]
+    },
+    {
+      "target": "interaction:die-ambush-joke",
+      "confidence": "high",
+      "reason": "Seeker’s suggestion to number the plans is a clear callback to the earlier die proposal; no new roll is claimed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0590",
+          "endUid": "u0592"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ander-battle-memory",
+      "confidence": "high",
+      "reason": "Seeker explicitly recalls Ander walking toward the earlier combat; no current presence is implied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0634",
+          "endUid": "u0650"
+        }
+      ]
+    },
+    {
+      "target": "interaction:shani-road-meeting",
+      "confidence": "high",
+      "reason": "Independently read the entire meeting, healing interruption and farewell; all four quotes have the right introduction or genuine Shani speech type.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0803",
+          "endUid": "u1012"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0808",
+          "endUid": "u0813"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0906",
+          "endUid": "u0910"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0932",
+          "endUid": "u0936"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1008",
+          "endUid": "u1011"
+        }
+      ]
+    },
+    {
+      "target": "interaction:herder-healing",
+      "confidence": "high",
+      "reason": "The actual spell and the man’s response support direct interaction; the mixed PC/DM passage is correctly whole rather than color.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0861",
+          "endUid": "u0888"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0876",
+          "endUid": "u0885"
+        }
+      ]
+    },
+    {
+      "target": "interaction:maw-book-recalled",
+      "confidence": "high",
+      "reason": "The book’s extraplanar account is recalled in the PCs’ discussion after Shani leaves, and the summary attributes it as a recollection.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1018",
+          "endUid": "u1025"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mystai-refuge",
+      "confidence": "medium",
+      "reason": "Explicit temple-mystai mention is supported, but its linked unified collective remains provisional because of the later dreamwalker merge.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0947",
+          "endUid": "u0950"
+        }
+      ]
+    },
+    {
+      "target": "interaction:coin-rabbit-bait",
+      "confidence": "high",
+      "reason": "The coin is actually deployed, the gnoll is later holding/dropping the rabbit, and disc-following behavior is discussed; the transformation quote uses whole for mixed PC/DM wording.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1414",
+          "endUid": "u1890"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1423",
+          "endUid": "u1431"
+        }
+      ]
+    },
+    {
+      "target": "interaction:gnoll-leader-combat",
+      "confidence": "high",
+      "reason": "Poison-arrow evidence and the later body description establish this particular archer in the fight; no invented name or speech is quoted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1244",
+          "endUid": "u2108"
+        }
+      ]
+    },
+    {
+      "target": "interaction:gnoll-leader-body",
+      "confidence": "high",
+      "reason": "The DM expressly identifies the poison archer’s necklace and possible leadership after combat; observation and the introduction quote are supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2113",
+          "endUid": "u2143"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2123",
+          "endUid": "u2124"
+        }
+      ]
+    },
+    {
+      "target": "interaction:vulture-breakfast",
+      "confidence": "high",
+      "reason": "The whole animal exchange is retained through the party’s debrief; its color quote is actual vulture speech and the other quotes correctly permit mixed narration.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2180",
+          "endUid": "u2283"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2216",
+          "endUid": "u2228"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2249",
+          "endUid": "u2249"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2251",
+          "endUid": "u2254"
+        }
+      ]
+    },
+    {
+      "target": "interaction:spyglass-centaurs",
+      "confidence": "high",
+      "reason": "Wellby pulls out the established spyglass while viewing the approaching herd.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2430",
+          "endUid": "u2436"
+        }
+      ]
+    },
+    {
+      "target": "interaction:chamutte-discussion",
+      "confidence": "high",
+      "reason": "Both separated mentions are source-linked and do not make Cha’mutte a present participant.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2469",
+          "endUid": "u2475"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2697",
+          "endUid": "u2707"
+        }
+      ]
+    },
+    {
+      "target": "interaction:tharandros-meeting",
+      "confidence": "high",
+      "reason": "The full single conversation was checked through language changes, planar explanations, and negotiation; all four color quotes are genuine DM-voiced leader speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2507",
+          "endUid": "u2970"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2562",
+          "endUid": "u2565"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2575",
+          "endUid": "u2578"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2724",
+          "endUid": "u2735"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2944",
+          "endUid": "u2958"
+        }
+      ]
+    },
+    {
+      "target": "interaction:herd-encounter",
+      "confidence": "high",
+      "reason": "The group collectively encounters the party and heads south at its leader’s signal; the source keeps group action distinct from the spokesman’s words.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2395",
+          "endUid": "u2970"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2510",
+          "endUid": "u2513"
+        }
+      ]
+    },
+    {
+      "target": "interaction:staff-carried",
+      "confidence": "high",
+      "reason": "Kenzo affirmatively states present possession, so present is stronger and more precise than a mere mention or an unperformed use.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2762",
+          "endUid": "u2770"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mystai-message",
+      "confidence": "medium",
+      "reason": "The party discusses remaining Karawa sages and dreamwalkers, but equating them to all the temple mystai remains uncertain.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2839",
+          "endUid": "u2949"
+        }
+      ]
+    }
+  ]
+}

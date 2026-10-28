@@ -1,0 +1,93 @@
+{
+  "session": "dunmari-frontier-007",
+  "method": "Manual semantic extraction by agent du007 after reading the complete compact transcript; no beats, beat-facts, authored recap narratives, or private DM files opened.",
+  "readCoverage": {
+    "firstUid": "u0001",
+    "lastUid": "u2978",
+    "utteranceCount": 2978,
+    "boundedReads": [
+      [
+        1,
+        500
+      ],
+      [
+        101,
+        180
+      ],
+      [
+        501,
+        1000
+      ],
+      [
+        1001,
+        1500
+      ],
+      [
+        1501,
+        2000
+      ],
+      [
+        2001,
+        2500
+      ],
+      [
+        2501,
+        2978
+      ]
+    ],
+    "note": "The repeated 101-180 read repaired truncation in the first output; all utterances were read."
+  },
+  "sceneCoverage": {
+    "firstUid": "u0005",
+    "lastUid": "u2978",
+    "contiguous": true,
+    "coveredUtterances": 2974
+  },
+  "excludedRanges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0004",
+      "reason": "Pre-play music setup and table chatter."
+    }
+  ],
+  "metadataEvidence": {
+    "campaign": "Registry resolves Dunmari Frontier to dufr; manifest session 7 and realWorldDate 2020-08-16 retained.",
+    "pcs": "All five mapped PCs participate in spoken planning and the combat; no attendance inferred from mere mention.",
+    "dateStart": "1748-04-07 is a provisional manifest anchor; u0005-0011 establish the morning after the previous attack, without stating a numeric date.",
+    "dateEnd": "Draft uses transcript-counted 1748-04-11, not manifest 1748-04-12: departure day u0005-0501, next day u0502-0542, next day u0543-2171 with after-midnight combat, following morning/day u2172-2394, next morning u2395-2978. Aggregate confidence remains medium for independent review.",
+    "timeAmbiguity": "The watch is introduced as around 3am at u1114; u2163 later says just past midnight; scenes use after midnight without a precise hour.",
+    "locations": "Karawa is physically occupied before departure; the traversed northern plains match Samtal. Raven’s Hold remains a distant destination at u2974-2977, and the party does not visit Tokra, the storm, or the Plaguelands."
+  },
+  "identityEvidence": {
+    "Shani": "Named by the leader at u0993; public canonical note confirms Dunmari goat herder identity.",
+    "Tharandros": "Named at u2960; public canonical note confirms centaur herd leader identity.",
+    "Ander Charmheart": "Ander at u0431 and u0635 matches the halfling previously at Raven’s Hold; the unrelated human Mawar PC Ander is excluded.",
+    "Floating Disc Coin": "The named vault item is the unique coin matching u1415-1431 transformation; no later visions or properties imported.",
+    "Cha’mutte": "Name and dragon identity at u2469/u2698-2699 match the elder-wyrm note.",
+    "Samtal": "Public place definition matches the northern plains described in the transcript."
+  },
+  "uncertainties": [
+    "Numeric in-world endpoint differs by one day from the provisional manifest; review should preserve the disagreement rather than silently treat the manifest as transcript evidence.",
+    "The mystai staying in Karawa and the later unnamed sages/dreamwalkers are likely one local collective, but the final dialogue does not explicitly repeat mystai; both dependent interactions and the entity are medium.",
+    "The Draconic-inscribed staff has no confident vault match; Staff of the Forest Soul is a separately constructed staff and was not linked.",
+    "The book about maws, the two maps, the die, Wellby’s spyglass, the healed herder, the vulture, and the gnoll leader have no asserted vault match.",
+    "Canonical identity notes were read only for matching; unrelated later events, dates, comments, and secrets were not used as extraction evidence."
+  ],
+  "inclusionChoices": [
+    "Shani and Tharandros each receive one whole conversation despite interjections, language switching, topic changes, and skill checks.",
+    "The individual healed herder and speaking vulture have distinctive interactions; no separate card is made for the other wounded herder or ordinary travelers.",
+    "Only the gnoll leader is individualized: poison, shouted coordination, and a distinctive necklace distinguish it; the remaining interchangeable enemies have scene coverage without cards.",
+    "Tharandros’s herd is a coordinated migrating group whose collective route changes through the encounter, represented separately from its spokesperson.",
+    "The maps, spyglass, die, coin, book, and inscribed staff are retained as distinctive consequential objects; ordinary weapons, armor, provisions, healing consumables, oil, and generic bait animals are excluded.",
+    "The goat-knucklebone necklace remains a descriptor of the gnoll leader rather than a separate consequential-item card.",
+    "Unspecified clans, generic ancestry groups, the collective creator-god reference, distant unnamed messenger, and unnamed mapmaking uncle are not given separate entity cards."
+  ],
+  "validation": {
+    "command": "python .agents/skills/extract-campaign-interactions/scripts/validate.py --vault . --input /workspace/interaction-v5-work/dunmari-frontier-007/draft.json",
+    "passed": true,
+    "sourceUtterances": 2978,
+    "sceneUtterances": 2974,
+    "unassignedUtterances": 4,
+    "status": "All review records remain unreviewed."
+  }
+}

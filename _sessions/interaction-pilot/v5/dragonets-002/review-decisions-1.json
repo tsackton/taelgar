@@ -1,0 +1,98 @@
+{
+  "inputDigest": "015606f9cd241f59c9a3596375792961287b54757754729d7cf7890297713d5b",
+  "reviewer": "du064_chasm / targeted correction review",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "interaction:jim-report",
+      "confidence": "high",
+      "reason": "Narrowed the sleep quote to Jim’s own u0385 speech; his longer news quote remains intact and in his voice.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0385",
+          "endUid": "u0398"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jim-food",
+      "confidence": "high",
+      "reason": "The work quote now contains only Jim’s u0627 line; his service quote also remains NPC speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0627",
+          "endUid": "u0632"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ilse-summons",
+      "confidence": "high",
+      "reason": "Narrowed the cauldron quote to Ilse’s own sentence at u0972, excluding Tony’s laughter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0972",
+          "endUid": "u0974"
+        }
+      ]
+    },
+    {
+      "target": "interaction:oru-consultation",
+      "confidence": "high",
+      "reason": "Narrowed the day quote to uninterrupted Oru speech; the full consultation remains one interaction through the flight to the eye.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1275",
+          "endUid": "u1278"
+        }
+      ]
+    },
+    {
+      "target": "interaction:rosca-rescue",
+      "confidence": "high",
+      "reason": "Tightened the escape quote’s source bound to its actual utterance u2022; all three selected color passages are Rosca’s speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2022",
+          "endUid": "u2141"
+        }
+      ]
+    },
+    {
+      "target": "entity:mother-statue",
+      "confidence": "high",
+      "reason": "Added the omitted named physical statue from Jim’s explicit report; the Mother deity page is not an identity match established by this transcript, so no link or divine identity is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0391",
+          "endUid": "u0394"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mother-report",
+      "confidence": "high",
+      "reason": "This is a reported warming heart during the existing Jim conversation, correctly marked mentioned with no separate visit.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0391",
+          "endUid": "u0398"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "reviewer": "mawar003 independent targeted correction/recheck of du007, pass 1",
+  "inputDigest": "bf1773a9959813d0b51ca6d9cf57efac26b238e06f07726fbdf5939ee66fd4bd",
+  "attempt": 1,
+  "decisions": [
+    {
+      "target": "scenes",
+      "confidence": "medium",
+      "reason": "Corrected scene 10 to cross Apr9→10 because it runs from setting camp through the roughly 3am watch; the later just-past-midnight description confirms only after-midnight timing. Segmentation is supported, but precise calendar dates still inherit the unresolved endpoint count.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1106",
+          "endUid": "u1125"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2163",
+          "endUid": "u2176"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2395",
+          "endUid": "u2407"
+        }
+      ]
+    },
+    {
+      "target": "session",
+      "confidence": "medium",
+      "reason": "One targeted chronology recheck confirms departure Apr7 anchor, next mornings at u0502 and u0543, ambush after midnight, morning u2172, and next morning u2395: the continuous transcript count suggests Apr11. However u2308 says next day and the manifest/reference meeting date is Apr12, so no confidence promotion or forced endpoint change is justified. Five-PC attendance and Karawa/Samtal visitation are well supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0005",
+          "endUid": "u0024"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0393",
+          "endUid": "u0394"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0502",
+          "endUid": "u0543"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0982",
+          "endUid": "u0984"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2163",
+          "endUid": "u2176"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2307",
+          "endUid": "u2335"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2395",
+          "endUid": "u2407"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2971",
+          "endUid": "u2978"
+        },
+        {
+          "vaultPath": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml"
+        },
+        {
+          "vaultPath": "People/Other Nonhumans/Tharandros.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:karawa-mystai",
+      "confidence": "medium",
+      "reason": "Contextual recheck of the full closing negotiation still identifies only remaining Karawa people, sages and dreamwalkers, not an explicit identity with the temple mystai; preserve the possible collective connection as provisional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0947",
+          "endUid": "u0950"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2839",
+          "endUid": "u2949"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mystai-refuge",
+      "confidence": "medium",
+      "reason": "The original mystai mention is explicit, but this interaction depends on the unresolved combined collective identity, so keep the dependent review provisional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0947",
+          "endUid": "u0950"
+        }
+      ]
+    },
+    {
+      "target": "interaction:mystai-message",
+      "confidence": "medium",
+      "reason": "The message is addressed to Karawa’s remaining sages/dreamwalkers without explicitly naming the mystai; the one contextual recheck cannot resolve that equivalence.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2912",
+          "endUid": "u2949"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "inputDigest": "4d8a9af463ed8b1f39d4a1d96a2e00e795951580e5126fb98de0b343b9903951",
+  "reviewer": "du064_chasm / independent semantic review",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "low",
+      "reason": "The manifest supports 2026-09-29 and the transcript confirms all four PCs actively participate; game dates remain unknown and the only visited vault location is Circular Island. Independent index searches find no individual pages for Heska, Sculpit, Little Tony, or Zeno, so required attendance links remain unresolved.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0093",
+          "endUid": "u0110"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0760",
+          "endUid": "u0825"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1571",
+          "endUid": "u1582"
+        },
+        {
+          "vaultPath": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml"
+        },
+        {
+          "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Checked morning correction to 9–10, successive road/tent/eye/shaft/chamber/heart transitions, the distinct combat boundary and audience-only cutaway; the level-up gap and closing material are out-of-character. No remembered monastery, tide pool, Mother statue, or remote vessel is claimed as a PC visit.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0220",
+          "endUid": "u0235"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1035",
+          "endUid": "u1048"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1367",
+          "endUid": "u1385"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1538",
+          "endUid": "u1647"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1698",
+          "endUid": "u1735"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2140",
+          "endUid": "u2205"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2225",
+          "endUid": "u2275"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2441",
+          "endUid": "u2505"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2506",
+          "endUid": "u2659"
+        }
+      ]
+    },
+    {
+      "target": "entity:egg",
+      "confidence": "high",
+      "reason": "The dark egg is physically present at awakening and later discussed with Oru; the original gifts are explicitly gone at this point.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0014",
+          "endUid": "u0106"
+        }
+      ]
+    },
+    {
+      "target": "entity:purple-dragonet",
+      "confidence": "high",
+      "reason": "The opening recollection and Oru conversation at u1209–1289 identify a wounded purple dragonet without naming it; no vault identity is inferred.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0020",
+          "endUid": "u0058"
+        }
+      ]
+    },
+    {
+      "target": "entity:jade-hand-man",
+      "confidence": "high",
+      "reason": "The recollection explicitly mentions a jade-handed friend; the source never identifies him by a name.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0042",
+          "endUid": "u0049"
+        }
+      ]
+    },
+    {
+      "target": "entity:kaz",
+      "confidence": "high",
+      "reason": "Zeno explicitly recalls Uncle Kaz at a childhood monastery ritual; this is a mentioned relative, not a present participant.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0138",
+          "endUid": "u0159"
+        }
+      ]
+    },
+    {
+      "target": "entity:monks",
+      "confidence": "high",
+      "reason": "A distinct monastery community and its remembered long project are established together; uncertainty about actual flightlessness is preserved.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0138",
+          "endUid": "u0159"
+        }
+      ]
+    },
+    {
+      "target": "entity:hermit-king",
+      "confidence": "high",
+      "reason": "Little Tony narrates a distinct golden-shelled king who grants the misheard wish; the interaction is correctly a childhood recollection.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0281",
+          "endUid": "u0305"
+        }
+      ]
+    },
+    {
+      "target": "entity:horseshoe-brad",
+      "confidence": "high",
+      "reason": "Little Tony clearly says Horseshoe Brad as a habitual tide-pool contact; no unsupported merge with the previous session’s differently transcribed contact is made.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0354",
+          "endUid": "u0367"
+        }
+      ]
+    },
+    {
+      "target": "entity:grandpa-jim",
+      "confidence": "high",
+      "reason": "Named cloud acquaintance speaks directly and returns during the food experiment; his scolding and report support an individualized NPC despite no page match.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0373",
+          "endUid": "u0414"
+        }
+      ]
+    },
+    {
+      "target": "entity:food-machine",
+      "confidence": "high",
+      "reason": "The distinctive longstanding apparatus activates near the party, produces nested fish, and responds nonverbally; the chaotic output is independently checked at u0760–0825.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0419",
+          "endUid": "u0620"
+        }
+      ]
+    },
+    {
+      "target": "entity:paul",
+      "confidence": "high",
+      "reason": "The DM explicitly identifies Tony’s cousin Paul, later Paulie, and voices his account of the machine; they are one speaker.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0461",
+          "endUid": "u0498"
+        }
+      ]
+    },
+    {
+      "target": "entity:joey",
+      "confidence": "high",
+      "reason": "Paul’s story names Joey and his requested salmon; the cameo is mentioned, without claiming a new present conversation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0462",
+          "endUid": "u0485"
+        }
+      ]
+    },
+    {
+      "target": "entity:xena",
+      "confidence": "high",
+      "reason": "Xena is explicitly present at u0427 and speaks to Heska about the fish story at u0743; the existing relationship is not inferred from later notes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0730",
+          "endUid": "u0753"
+        }
+      ]
+    },
+    {
+      "target": "entity:ilse",
+      "confidence": "high",
+      "reason": "The named assistant introduces himself, joins the restaurant discussion, and resumes his summons after his supervisor intervenes; one continuous exchange is preserved.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0864",
+          "endUid": "u1034"
+        }
+      ]
+    },
+    {
+      "target": "entity:ilse-supervisor",
+      "confidence": "high",
+      "reason": "A singular supervisor is individually distinguished by his intervention and escort role, warranting an unnamed NPC card rather than a generic crowd entry.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0982",
+          "endUid": "u1034"
+        }
+      ]
+    },
+    {
+      "target": "entity:shamans",
+      "confidence": "high",
+      "reason": "The shamanic sect is explicitly distinguished and acts through named representatives; its investigation continues through the Oru consultation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0864",
+          "endUid": "u0891"
+        }
+      ]
+    },
+    {
+      "target": "entity:oru",
+      "confidence": "high",
+      "reason": "The transcript identifies the oldest dragonet and festival head, tests his artifact, and later follows him to the eye before he stays outside; the conversation remains one interaction across scenes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1035",
+          "endUid": "u1150"
+        }
+      ]
+    },
+    {
+      "target": "entity:clockwork-disc",
+      "confidence": "high",
+      "reason": "Oru displays a distinct circular mechanical object whose clicking changes with PC proximity; there is no claim that the PCs acquire it.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1084",
+          "endUid": "u1127"
+        }
+      ]
+    },
+    {
+      "target": "entity:rosca",
+      "confidence": "high",
+      "reason": "Named rival delivers the eye news and accompanies the group; rescue and retreat are checked at u1974–2005 and u2100–2149.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1349",
+          "endUid": "u1366"
+        }
+      ]
+    },
+    {
+      "target": "entity:wanderer",
+      "confidence": "high",
+      "reason": "The named physical construct invites the PCs, energizes the shaft, welcomes them, and lights up; its identity is distinct from the vault deity with the same name, and no completed walk is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1380",
+          "endUid": "u1440"
+        }
+      ]
+    },
+    {
+      "target": "entity:guardians",
+      "confidence": "high",
+      "reason": "Four individualized constructs form one sustained defensive encounter, attack Rosca, and then bow after his departure; grouping avoids four indistinguishable duplicate cards.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1647",
+          "endUid": "u1735"
+        }
+      ]
+    },
+    {
+      "target": "entity:glenda",
+      "confidence": "high",
+      "reason": "Little Tony explicitly identifies his current familiar and narrates her assistance; the current-session relationship is supported even though the prior session used former-familiar language.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1788",
+          "endUid": "u1828"
+        }
+      ]
+    },
+    {
+      "target": "entity:heart-seats",
+      "confidence": "high",
+      "reason": "The heart contains eight specific seats, four calling to these PCs; later energy around all eight is checked at u2368–2373.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2261",
+          "endUid": "u2305"
+        }
+      ]
+    },
+    {
+      "target": "entity:vessel",
+      "confidence": "high",
+      "reason": "The closing camera cutaway explicitly shows a hovering vessel beyond the storm; its entry clearly states this is audience observation, not PC contact.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2441",
+          "endUid": "u2475"
+        }
+      ]
+    },
+    {
+      "target": "entity:observers",
+      "confidence": "high",
+      "reason": "The two unnamed humanoids are individually introduced together and hold one conversation; no speculative names, species, or later identities are imported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2457",
+          "endUid": "u2503"
+        }
+      ]
+    },
+    {
+      "target": "entity:energy-device",
+      "confidence": "high",
+      "reason": "The observers consult a distinct light-display device to interpret signatures; the card is limited to what is actually shown and said.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2460",
+          "endUid": "u2503"
+        }
+      ]
+    },
+    {
+      "target": "entity:resistance",
+      "confidence": "high",
+      "reason": "The observers explicitly name the resistance and its stake in the discovery; no ideology, membership, or later campaign connection is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2483",
+          "endUid": "u2503"
+        }
+      ]
+    },
+    {
+      "target": "entity:piglet",
+      "confidence": "low",
+      "reason": "The reply at u0365 is fragmented and follows the ambiguous “Groovy the” at u0364; it supports a possible habitual contact but does not settle the full name or identity. No vault match resolves it.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0362",
+          "endUid": "u0367"
+        }
+      ]
+    },
+    {
+      "target": "interaction:food-experiment",
+      "confidence": "high",
+      "reason": "Sampled the activation, nested fish, simultaneous thoughts and chaotic output; the entire experiment remains one interaction through side conversations.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0419",
+          "endUid": "u1034"
+        }
+      ]
+    },
+    {
+      "target": "interaction:guardians-fight",
+      "confidence": "high",
+      "reason": "Checked warning, targeting Rosca, fog, freestyle distraction and ending beams; this is one coherent combat encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1698",
+          "endUid": "u2149"
+        }
+      ]
+    },
+    {
+      "target": "interaction:wanderer-heart",
+      "confidence": "high",
+      "reason": "The transcript shows activation, light and pulsing while movements are imagined; no accomplished walk, fishing or cooking is claimed.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2225",
+          "endUid": "u2440"
+        }
+      ]
+    },
+    {
+      "target": "interaction:seats-activation",
+      "confidence": "high",
+      "reason": "The PCs choose four welcoming seats among eight and experience home-like familiarity; the source does not invent eight attending PCs.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2261",
+          "endUid": "u2440"
+        }
+      ]
+    },
+    {
+      "target": "interaction:observers-cutaway",
+      "confidence": "high",
+      "reason": "Both color passages are in-character observer dialogue within the explicit audience-only coda; no PC encounter is implied.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2457",
+          "endUid": "u2503"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jim-report",
+      "confidence": "medium",
+      "reason": "The encounter is supported, but the sleep color quote contains Tony’s responses at u0386 and u0388; narrow to Jim’s speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0385",
+          "endUid": "u0398"
+        }
+      ]
+    },
+    {
+      "target": "interaction:jim-food",
+      "confidence": "medium",
+      "reason": "The work quote includes a narrator prefix and Tony’s interjections at u0624 and u0626; narrow to the cloud’s own line.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0623",
+          "endUid": "u0632"
+        }
+      ]
+    },
+    {
+      "target": "interaction:ilse-summons",
+      "confidence": "medium",
+      "reason": "The cauldron color quote includes Tony’s laughter at u0973; remove that voice by narrowing the quote.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0972",
+          "endUid": "u0974"
+        }
+      ]
+    },
+    {
+      "target": "interaction:oru-consultation",
+      "confidence": "medium",
+      "reason": "The day color quote includes Tony’s u1279 interjection; narrow the contiguous selection to Oru’s preceding speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1275",
+          "endUid": "u1280"
+        }
+      ]
+    }
+  ]
+}

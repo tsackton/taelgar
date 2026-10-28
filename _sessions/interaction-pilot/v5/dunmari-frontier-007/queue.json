@@ -1,0 +1,19 @@
+[
+  {
+    "target": "session",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "One targeted chronology recheck confirms departure Apr7 anchor, next mornings at u0502 and u0543, ambush after midnight, morning u2172, and next morning u2395: the continuous transcript count suggests Apr11. However u2308 says next day and the manifest/reference meeting date is Apr12, so no confidence promotion or forced endpoint change is justified. Five-PC attendance and Karawa/Samtal visitation are well supported."
+  },
+  {
+    "target": "entity:karawa-mystai",
+    "label": "Mystai remaining in Karawa",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "Contextual recheck of the full closing negotiation still identifies only remaining Karawa people, sages and dreamwalkers, not an explicit identity with the temple mystai; preserve the possible collective connection as provisional."
+  }
+]

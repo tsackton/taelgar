@@ -1,0 +1,606 @@
+{
+  "inputDigest": "a385bbda56e3b675c1f0b13a3ba6c82b1ea1eab5ca2e5f942bfbb3916df3f507",
+  "reviewer": "dragonets agent / independent feywild semantic pass",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "high",
+      "reason": "The manifest supplies October 3 and the real-world date; the explicit camp overnight then manor long rest independently yield October 5. All five mapped PCs introduce themselves and act, while Mossfoot is a companion pony. Arrival at Dandelion House and entry into its hollow-root portal are directly narrated; neither Tollen nor the far manor is a visited scene.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0034",
+          "endUid": "u0073"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0083",
+          "endUid": "u0157"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0211",
+          "endUid": "u0260"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0296",
+          "endUid": "u0321"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0690",
+          "endUid": "u0705"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0802",
+          "endUid": "u0848"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2011",
+          "endUid": "u2017"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2045",
+          "endUid": "u2150"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Tollen Misfits/Kaito Min.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Tollen Misfits/Edric.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Tollen Misfits/Tarek.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Tollen Misfits/Ayveen.md"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Tollen Misfits/Txarro.md"
+        },
+        {
+          "vaultPath": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+        },
+        {
+          "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Dandelion Root Portal.md"
+        },
+        {
+          "vaultPath": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml"
+        }
+      ]
+    },
+    {
+      "target": "entity:alden",
+      "confidence": "high",
+      "reason": "The hired guide names Dandelion House, converses by the fire, guides and serves the party, and opens the subcellar; the linked page matches his name, appearance and employer without importing its later fungal reveal.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0034",
+          "endUid": "u0055"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0443",
+          "endUid": "u0607"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1950",
+          "endUid": "u1957"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2016",
+          "endUid": "u2051"
+        },
+        {
+          "vaultPath": "People/Sembarans/Alden.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:hulda",
+      "confidence": "high",
+      "reason": "The scarred manor lord welcomes the party and bargains over his inherited estate and treaty; the matching page identifies this Hulda, but his later history and the other lord’s identity remain excluded.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1265",
+          "endUid": "u1312"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1422",
+          "endUid": "u1541"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1817",
+          "endUid": "u1845"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2049",
+          "endUid": "u2059"
+        },
+        {
+          "vaultPath": "People/Sembarans/Lord Hulda.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:colden",
+      "confidence": "high",
+      "reason": "Alden explicitly names his cousin, who emerges from the house and takes the pony; appearance and service match the vault page.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0950",
+          "endUid": "u0973"
+        },
+        {
+          "vaultPath": "People/Sembarans/Colden.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:mossfoot",
+      "confidence": "high",
+      "reason": "The pony is Edric’s accompanying animal, explicitly named Moss Foot during travel and entrusted to Colden; the page’s player field does not make it one of the five acting PCs.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0239",
+          "endUid": "u0246"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0756",
+          "endUid": "u0798"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0950",
+          "endUid": "u0973"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1968",
+          "endUid": "u1973"
+        },
+        {
+          "vaultPath": "People/PCs/Other PCs/Tollen Misfits/Mossfoot.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:night-queen",
+      "confidence": "high",
+      "reason": "Edric identifies the Night Queen’s symbol and prays to her; she is mentioned without any narrated response or bodily presence, matching the deity page.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0225",
+          "endUid": "u0260"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0690",
+          "endUid": "u0695"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1083",
+          "endUid": "u1115"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1179",
+          "endUid": "u1183"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Night Queen.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:book-patron",
+      "confidence": "high",
+      "reason": "A distinct unnamed elven employer commissioned the preceding book recovery; there is no transcript basis for a named positive match.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0450",
+          "endUid": "u0470"
+        }
+      ]
+    },
+    {
+      "target": "entity:recovered-books",
+      "confidence": "high",
+      "reason": "The recovered old books are explicitly the goal of the previous contract, so a retrospective item mention is supported rather than current possession.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0450",
+          "endUid": "u0470"
+        }
+      ]
+    },
+    {
+      "target": "entity:deed-deliverer",
+      "confidence": "high",
+      "reason": "Hulda describes a separate elven archivist delivering the contract from a centuries-long trust; no identity is stated and the card correctly remains unlinked.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1463",
+          "endUid": "u1508"
+        }
+      ]
+    },
+    {
+      "target": "entity:unnamed-lord",
+      "confidence": "high",
+      "reason": "Hulda reports confronting a lord through the portal but explicitly never learned his name; keeping this prospective counterpart unlinked avoids importing the reference page’s later identification.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1518",
+          "endUid": "u1535"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1591",
+          "endUid": "u1635"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1775",
+          "endUid": "u1785"
+        }
+      ]
+    },
+    {
+      "target": "entity:inheritance-deed",
+      "confidence": "high",
+      "reason": "The brittle deed is displayed, read by Tarek, and later confirmed as four hundred years old despite contemporary Sembaran; the item and its concise summary follow that evidence.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1471",
+          "endUid": "u1508"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1542",
+          "endUid": "u1586"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2126",
+          "endUid": "u2131"
+        }
+      ]
+    },
+    {
+      "target": "entity:promised-hoard",
+      "confidence": "high",
+      "reason": "The deed and Hulda promise a hoard and a half-share, but Hulda expressly lacks access; the card appropriately describes promised treasure rather than verified wealth.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1509",
+          "endUid": "u1541"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1666",
+          "endUid": "u1687"
+        }
+      ]
+    },
+    {
+      "target": "entity:cleaning-bar",
+      "confidence": "high",
+      "reason": "The bar cleans the party when touched, and its removable nonmagical bracket is assessed; this consequential magical fixture has a distinct encounter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1319",
+          "endUid": "u1320"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1333",
+          "endUid": "u1394"
+        }
+      ]
+    },
+    {
+      "target": "entity:kitchen-provisions",
+      "confidence": "high",
+      "reason": "The cold chest and magical cupboard jointly furnish dinner, making their collection card a supported grouping.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1321",
+          "endUid": "u1332"
+        }
+      ]
+    },
+    {
+      "target": "entity:grandfather-clock",
+      "confidence": "high",
+      "reason": "The clock is explicitly magically preserved, later chimes ten, and wakes the party before dawn; repeated retrieval value supports the item card.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1201",
+          "endUid": "u1209"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1915",
+          "endUid": "u1915"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2011",
+          "endUid": "u2016"
+        }
+      ]
+    },
+    {
+      "target": "entity:gardening-tapestries",
+      "confidence": "high",
+      "reason": "Two investigated tapestries depict greenhouse gardeners and plant work; the source supports this decorative clue without adding a hidden interpretation.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1212",
+          "endUid": "u1252"
+        }
+      ]
+    },
+    {
+      "target": "entity:cellar-key",
+      "confidence": "high",
+      "reason": "Alden draws a smaller golden, apparently glowing key for the lower doorway; the summary retains the qualification about its glow.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2029",
+          "endUid": "u2040"
+        }
+      ]
+    },
+    {
+      "target": "entity:cellar-door",
+      "confidence": "high",
+      "reason": "A discrete hidden door is described, held open by promise, crossed, and heard closing; it is properly distinguished from the traversed root tunnel location.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1713",
+          "endUid": "u1728"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2049",
+          "endUid": "u2087"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2123",
+          "endUid": "u2137"
+        }
+      ]
+    },
+    {
+      "target": "entity:philosophers",
+      "confidence": "high",
+      "reason": "Txarro explicitly proposes consulting the Philosopher’s Guild; the linked Tollen guild page has that exact alias and is not conflated with either unnamed elven organization.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2132",
+          "endUid": "u2135"
+        },
+        {
+          "vaultPath": "Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers.md"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Scene boundaries track the camp overnight, approach, manor floors, continuous dinner, stables, guest quarters, pre-dawn descent and root crossing; the explicitly retconned architectural discussion remains outdoors. No combat or offscreen past jobs are falsely segmented as current play.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0034",
+          "endUid": "u0055"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0698",
+          "endUid": "u0710"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0778",
+          "endUid": "u0848"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1039",
+          "endUid": "u1041"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1127",
+          "endUid": "u1138"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1254",
+          "endUid": "u1313"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1845",
+          "endUid": "u1850"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1967",
+          "endUid": "u1975"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2011",
+          "endUid": "u2051"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2085",
+          "endUid": "u2150"
+        }
+      ]
+    },
+    {
+      "target": "interaction:alden-camp",
+      "confidence": "medium",
+      "reason": "The whole camp conversation and Detect Thoughts are correctly grouped and source-supported, but the color quote alden-home begins with narrator framing “He says,”; trim that wrapper to keep color text solely Alden’s speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0443",
+          "endUid": "u0607"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0622",
+          "endUid": "u0698"
+        }
+      ]
+    },
+    {
+      "target": "interaction:hulda-dinner",
+      "confidence": "high",
+      "reason": "The uninterrupted welcome and dinner negotiation are correctly kept together across rooms; his bitterness, wealth assertion and regret quotes are genuinely Hulda’s speech in the surrounding exchange.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1265",
+          "endUid": "u1313"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1422",
+          "endUid": "u1541"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1591",
+          "endUid": "u1788"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1817",
+          "endUid": "u1845"
+        }
+      ]
+    },
+    {
+      "target": "interaction:cellar-door-crossing",
+      "confidence": "high",
+      "reason": "The source records crossing and then hearing the door close, with no identified closer; the interaction preserves that distinction and exact narration.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2049",
+          "endUid": "u2087"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2120",
+          "endUid": "u2137"
+        }
+      ]
+    }
+  ]
+}

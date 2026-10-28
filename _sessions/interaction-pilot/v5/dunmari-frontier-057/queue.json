@@ -1,0 +1,37 @@
+[
+  {
+    "target": "session",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "Removed the unsupported exact end date after rechecking the three-to-four-week montage, same-night awakening, and prospective next week. Start date remains a manifest anchor; the transcript cannot establish an exact closing date, so aggregate metadata stays provisional."
+  },
+  {
+    "target": "entity:hutsu-vine",
+    "label": "Hutsu vine spirit",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "Context confirms a speaking individual vine but explicitly denies an identity apart from Hutsu; eligibility remains a model question after the targeted recheck."
+  },
+  {
+    "target": "entity:jades",
+    "label": "Jade fragments attached to Kenzo’s staff",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "Rechecked both fragments in the dream; the transcript supplies no separate identities for assigning the singular jade reference page. Keep the collective item unlinked."
+  },
+  {
+    "target": "entity:tharzen",
+    "label": "Tharzen Anzinakoa",
+    "review": {
+      "confidence": "medium",
+      "status": "automatedReviewed"
+    },
+    "reason": "The reference identifies four divine faces venerated collectively, not an ordinary organization; keep the type provisional rather than silently inventing a new schema kind."
+  }
+]

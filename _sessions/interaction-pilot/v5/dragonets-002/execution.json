@@ -1,0 +1,132 @@
+{
+  "method": "Independent semantic review of metadata and every entity using targeted transcript windows, widened around artifact exchanges, physical transitions, excluded material, and the final audience cutaway; one correction round.",
+  "extractionAgent": "dragonets",
+  "reviewAgent": "du064_chasm",
+  "fullTranscriptRead": true,
+  "sourceUtterancesRead": 2659,
+  "reviewFullTranscriptRead": false,
+  "reviewWindows": [
+    [
+      1,
+      65
+    ],
+    [
+      93,
+      110
+    ],
+    [
+      138,
+      159
+    ],
+    [
+      220,
+      235
+    ],
+    [
+      281,
+      305
+    ],
+    [
+      354,
+      414
+    ],
+    [
+      419,
+      620
+    ],
+    [
+      619,
+      638
+    ],
+    [
+      730,
+      753
+    ],
+    [
+      760,
+      900
+    ],
+    [
+      920,
+      1150
+    ],
+    [
+      1209,
+      1290
+    ],
+    [
+      1349,
+      1440
+    ],
+    [
+      1470,
+      1735
+    ],
+    [
+      1740,
+      1787
+    ],
+    [
+      1788,
+      1855
+    ],
+    [
+      1880,
+      2035
+    ],
+    [
+      2100,
+      2205
+    ],
+    [
+      2225,
+      2659
+    ]
+  ],
+  "coverage": {
+    "sceneRanges": [
+      [
+        1,
+        1582
+      ],
+      [
+        1647,
+        2503
+      ]
+    ],
+    "excludedRanges": [
+      {
+        "startUid": "u1583",
+        "endUid": "u1646",
+        "reason": "Level-up and character-sheet mechanics; narrative empowerment preserved immediately before."
+      },
+      {
+        "startUid": "u2504",
+        "endUid": "u2659",
+        "reason": "Session closing, image-reference discussion, scheduling, and post-session DM/meta discussion."
+      }
+    ],
+    "allPlayedPassagesCovered": true
+  },
+  "beatsConsulted": [],
+  "correctionAttempts": 1,
+  "checks": {
+    "sourceUtterances": 2659,
+    "sceneUtterances": 2439,
+    "unassignedUtterances": 220,
+    "metadataReady": false,
+    "readyEntities": 27,
+    "provisionalEntities": 1
+  },
+  "issues": [
+    "The four actual PC names have no resolvable individual vault pages; pcs remains empty and metadata remains low.",
+    "The fragmented Piglet/Groovy reference does not establish a reliable full name or identity and remains low.",
+    "No exact in-world calendar date is provided; no date was invented."
+  ],
+  "corrections": [
+    "Narrowed four color quotations to exclude PC interjections or narrator prefixes.",
+    "Tightened the Rosca escape quote source to its exact utterance.",
+    "Added the omitted named Mother statue as a mentioned item without a deity link."
+  ],
+  "unflaggedSampling": "Verified that the machine’s confused creations actually occur, the childhood vignettes are recollections, current Glenda is explicitly a familiar, final statue movement remains imagined, the closing vessel scene is audience-only, and excluded closing discussion is out-of-character."
+}

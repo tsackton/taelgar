@@ -1,0 +1,19 @@
+[
+  {
+    "target": "session",
+    "review": {
+      "confidence": "low",
+      "status": "automatedReviewed"
+    },
+    "reason": "The manifest supports 2026-09-29 and the transcript confirms all four PCs actively participate; game dates remain unknown and the only visited vault location is Circular Island. Independent index searches find no individual pages for Heska, Sculpit, Little Tony, or Zeno, so required attendance links remain unresolved."
+  },
+  {
+    "target": "entity:piglet",
+    "label": "Piglet (unclear morning contact)",
+    "review": {
+      "confidence": "low",
+      "status": "automatedReviewed"
+    },
+    "reason": "The reply at u0365 is fragmented and follows the ambiguous “Groovy the” at u0364; it supports a possible habitual contact but does not settle the full name or identity. No vault match resolves it."
+  }
+]

@@ -1,0 +1,1987 @@
+{
+  "schemaVersion": 5,
+  "campaign": "dgnt",
+  "session": 2,
+  "realWorldDate": "2026-09-29",
+  "pcs": [],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-source-cleaned.md",
+      "sha256": "a5895a4ac5d8c4583ab27d452a96ad8c5f7bb1bc3123c8aedf790d53df4cb551"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Drankorian Hinterland/Circular Island.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0001",
+        "endUid": "u0353"
+      },
+      "type": "conversation",
+      "locationDetail": "The Wanderer's palm",
+      "aiSummary": "The dragonets awaken after the egg’s vision, recall formative childhood experiences, and plan a restaurant with music and swings.",
+      "time": "Following morning; about 9–10 am",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0354",
+        "endUid": "u0414"
+      },
+      "type": "conversation",
+      "locationDetail": "The Wanderer's palm",
+      "aiSummary": "Grandpa Jim berates Little Tony and reports awakening statues, roads, fountains, and food machines.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0415",
+        "endUid": "u1034"
+      },
+      "type": "exploration",
+      "locationDetail": "Food apparatus on the pilgrimage road nearest the Wanderer",
+      "aiSummary": "The party experiments with the food machine; Ilse summons them to Oru while offering restaurant advice.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1035",
+        "endUid": "u1366"
+      },
+      "type": "conversation",
+      "locationDetail": "Oru's tent at the Great Temple",
+      "aiSummary": "Oru investigates the party’s egg experience and reactivated machinery until Rosca arrives with news of the Wanderer’s open eye.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1367",
+        "endUid": "u1537"
+      },
+      "type": "travel",
+      "locationDetail": "Approach to the Wanderer's eye",
+      "aiSummary": "The Wanderer invites Little Tony closer; the four dragonets and Rosca pass through its opening iris while Oru remains outside.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1538",
+        "endUid": "u1582"
+      },
+      "type": "travel",
+      "locationDetail": "Mechanical shaft inside the Wanderer",
+      "aiSummary": "The shaft lights and hums around the dragonets, renewing their extraordinary gifts.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1647",
+        "endUid": "u1697"
+      },
+      "type": "exploration",
+      "locationDetail": "Approach to the Wanderer's guardian chamber",
+      "aiSummary": "Four huge guardian statues appear below; Little Tony hears defensive warnings and discovers telepathic communication with his companions.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1698",
+        "endUid": "u2149"
+      },
+      "type": "combat",
+      "locationDetail": "Guardian chamber inside the Wanderer",
+      "aiSummary": "The guardians attack Rosca; the party protects him and Sculpit teleports him outside, ending their aggression.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2150",
+        "endUid": "u2258"
+      },
+      "type": "exploration",
+      "locationDetail": "Guardian chamber and stairs to the Wanderer's heart",
+      "aiSummary": "The guardians welcome the party, who ascend resonant stairs toward the heart chamber.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2259",
+        "endUid": "u2440"
+      },
+      "type": "exploration",
+      "locationDetail": "The Wanderer's heart chamber",
+      "aiSummary": "Four welcoming seats connect the dragonets to the statue; their thoughts about moving awaken its machinery and illuminate its body.",
+      "location": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2441",
+        "endUid": "u2503"
+      },
+      "type": "conversation",
+      "locationDetail": "Narrated cutaway: hovering vessel beyond the surrounding storm",
+      "aiSummary": "Two humanoids detect divine energy and four distinctive signatures, discussing the resistance and firstborn."
+    }
+  ],
+  "entities": [
+    {
+      "id": "egg",
+      "kind": "item",
+      "label": "Mysterious engraved egg",
+      "aiSummary": "The party awakens beside the dark egg and discusses its vision and gifts with Oru.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "egg-morning-quote"
+      ]
+    },
+    {
+      "id": "purple-dragonet",
+      "kind": "npc",
+      "label": "Purple dragonet in the remembered vision",
+      "aiSummary": "The party recalls a severely wounded purple dragonet and asks Oru whether its appearance identifies it.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "jade-hand-man",
+      "kind": "npc",
+      "label": "Man with the jade hand",
+      "aiSummary": "The remembered vision associates a jade hand with comforting affection from the wounded dragonet’s best friend.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "kaz",
+      "kind": "npc",
+      "label": "Uncle Kaz",
+      "aiSummary": "Zeno remembers meeting Uncle Kaz during a childhood visit to a mountain monastery with extraordinary choral rituals.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "kaz-introduction"
+      ]
+    },
+    {
+      "id": "monks",
+      "kind": "organization",
+      "label": "Dragonet monks of the mountain monastery",
+      "aiSummary": "Zeno recalls serious, apparently flightless monks whose singing resonated through the monastery and served a long project.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hermit-king",
+      "kind": "npc",
+      "label": "King of the Hermit Crabs",
+      "aiSummary": "Little Tony recalls sparing a golden-shelled magical hermit crab whose misunderstood wish gave him the ability to talk to anything.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "hermit-intro",
+        "hermit-gift"
+      ]
+    },
+    {
+      "id": "horseshoe-brad",
+      "kind": "npc",
+      "label": "Horseshoe Brad",
+      "aiSummary": "Little Tony names Horseshoe Brad as one of his usual morning contacts in the tide pools.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "piglet",
+      "kind": "npc",
+      "label": "Piglet (unclear morning contact)",
+      "aiSummary": "A fragmented reply appears to name Piglet as another of Little Tony’s usual contacts on the island.",
+      "review": {
+        "confidence": "low",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "grandpa-jim",
+      "kind": "npc",
+      "label": "Grandpa Jim the Cloud",
+      "aiSummary": "Little Tony’s judgmental cloud acquaintance reports the island’s magical awakening and repeatedly criticizes Tony’s lack of purpose.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "jim-intro",
+        "jim-sleep",
+        "jim-news",
+        "jim-work"
+      ]
+    },
+    {
+      "id": "food-machine",
+      "kind": "item",
+      "label": "Awakened food machine",
+      "aiSummary": "The ancient roadside apparatus responds to the party’s presence and music, producing nested fish and then a chaotic mixture of food and metal.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "machine-intro",
+        "machine-awakens",
+        "machine-chaos"
+      ]
+    },
+    {
+      "id": "paul",
+      "kind": "npc",
+      "label": "Paul (Paulie)",
+      "aiSummary": "Little Tony's cousin describes the machine’s inconsistent food production and watches Zeno awaken it.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "paul-intro",
+        "paul-machine"
+      ]
+    },
+    {
+      "id": "joey",
+      "kind": "npc",
+      "label": "Joey",
+      "aiSummary": "Paul says Joey wished for salted salmon and the food machine produced it during the night.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "xena",
+      "kind": "npc",
+      "label": "Xena",
+      "aiSummary": "Xena is among the breakfast crowd, approaches her brother after his food-making success, and catches Heska’s attention with interest in his fish story.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "xena-fish"
+      ]
+    },
+    {
+      "id": "ilse",
+      "kind": "npc",
+      "label": "Ilse",
+      "aiSummary": "Oru’s assistant summons the party after their food experiments and enthusiastically offers restaurant advice until his supervisor intervenes.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "ilse-intro",
+        "ilse-restaurant",
+        "ilse-cauldrons"
+      ]
+    },
+    {
+      "id": "ilse-supervisor",
+      "kind": "npc",
+      "label": "Ilse's supervisor",
+      "aiSummary": "An unnamed shamanic dragonet redirects Ilse from restaurant brainstorming to the summons and accompanies the party to the temple.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "shamans",
+      "kind": "organization",
+      "label": "Dragonet shamans",
+      "aiSummary": "The shamanic elders investigate the island’s strange awakening and seek the party’s explanation through Ilse and Oru.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "oru",
+      "kind": "npc",
+      "label": "Shaman Oru",
+      "aiSummary": "The oldest known dragonet and head festival elder investigates the awakening machinery and listens to the party’s egg story. He accompanies them to the Wanderer’s eye but asks them to report back while he remains outside.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "oru-intro",
+        "oru-hatchlings",
+        "oru-day",
+        "oru-role"
+      ]
+    },
+    {
+      "id": "clockwork-disc",
+      "kind": "item",
+      "label": "Circular clockwork artifact",
+      "aiSummary": "Oru displays a small circular object whose interlocking wheels resume clicking near the party after briefly activating during the night.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "disc-intro"
+      ]
+    },
+    {
+      "id": "rosca",
+      "kind": "npc",
+      "label": "Rosca (Roska)",
+      "aiSummary": "Rosca brings news of the Wanderer’s eye and accompanies the party inside, where guardian beams severely injure him. Little Tony persuades him to retreat and Sculpit teleports him to safety.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "rosca-news",
+        "rosca-escape",
+        "rosca-ready",
+        "rosca-stays-out"
+      ]
+    },
+    {
+      "id": "wanderer",
+      "kind": "npc",
+      "label": "The Wanderer statue",
+      "aiSummary": "The enormous statue invites the party inside and responds to their presence, leading them to a welcoming chamber. Their attempts to move it awaken its machinery and light its eyes and body; no completed walk is shown.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "wanderer-eye",
+        "wanderer-come",
+        "wanderer-shaft",
+        "wanderer-welcome"
+      ]
+    },
+    {
+      "id": "guardians",
+      "kind": "npc",
+      "label": "Four guardian statues",
+      "aiSummary": "Four enormous constructs inside the Wanderer attack Rosca but become welcoming after he leaves, bowing to the remaining party.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "guardians-warning",
+        "guardians-battle",
+        "guardians-stop",
+        "guardians-bow"
+      ]
+    },
+    {
+      "id": "glenda",
+      "kind": "npc",
+      "label": "Glenda the Seagull",
+      "aiSummary": "Little Tony’s familiar assists his attempt to communicate with the guardians, while he remains troubled by her romantic attachment.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "glenda-intro"
+      ]
+    },
+    {
+      "id": "heart-seats",
+      "kind": "item",
+      "label": "Eight seats in the Wanderer’s heart",
+      "aiSummary": "Eight seats surround the heart chamber; four specifically welcome the dragonets and seem perfectly fitted to them as energy stirs around all eight.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "seats-intro",
+        "seats-home"
+      ]
+    },
+    {
+      "id": "vessel",
+      "kind": "item",
+      "label": "Hovering vessel beyond the storm",
+      "aiSummary": "A closing narrated cutaway shows a vessel beyond the island’s storm containing two observers and an energy-detecting device.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "vessel-intro"
+      ]
+    },
+    {
+      "id": "observers",
+      "kind": "npc",
+      "label": "Two humanoid observers",
+      "aiSummary": "In the closing cutaway, two humanoids react emotionally to divine energy signatures and their significance for the resistance and firstborn.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "observers-divine",
+        "observers-resistance"
+      ]
+    },
+    {
+      "id": "energy-device",
+      "kind": "item",
+      "label": "Energy-signature device",
+      "aiSummary": "The observers’ device displays shifting lights that they interpret as divine energy and four distinctive signatures.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "resistance",
+      "kind": "organization",
+      "label": "The resistance",
+      "aiSummary": "The unknown observers say the discovery of divine energy will change everything for the resistance.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "id": "egg-morning",
+      "entity": "egg",
+      "scenes": [
+        1
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The dragonets dream of the egg and awaken to find its glow and temporary gifts gone.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0014",
+            "endUid": "u0106"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "egg-morning-quote",
+          "type": "whole",
+          "text": "And so, for each of you, after having this. Vision, and this experience, You sleep. You sleep. And the only image in your minds is this beautiful, Beautiful sacred egg. Even though you've encountered it just for the first time last night. Something about it is something that you've always known that has been a part of you in some deep, profound way. That symbolized home, and feels like home. And as you awake. And as the sun begins to rise. You notice that… This egg is… no longer. Glowing. It's now, it feels like whatever energy or whatever, yeah, whatever energy had been animating the egg is now, is now gone. And those feelings of great sacred power that you all felt for that period, and it felt it was it's very hard to discern time. Like you don't know how long it was that you were in that state feeling that power. But… You now… Wake up. From, rest of… Who knows how long? Back to yourself again, feeling, feeling, you know, quote unquote normal, whatever that might feel.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0093",
+            "endUid": "u0106"
+          }
+        }
+      ]
+    },
+    {
+      "id": "egg-report",
+      "entity": "egg",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "The party tells Oru about the egg, their embrace, shared vision, and its possible connection to the island’s awakening.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1128",
+            "endUid": "u1323"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "purple-recollection",
+      "entity": "purple-dragonet",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The opening recollection revisits the dying dragonet’s vision and memories of home.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0020",
+            "endUid": "u0058"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "purple-oru",
+      "entity": "purple-dragonet",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party describes the wounded purple dragonet to Oru, who notes that purple coloration is uncommon.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1209",
+            "endUid": "u1289"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "jade-hand-memory",
+      "entity": "jade-hand-man",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The vision is recalled as including scratches from a jade hand among memories of friends.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0042",
+            "endUid": "u0049"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "kaz-memory",
+      "entity": "kaz",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Zeno recalls Uncle Kaz and the monks’ resonant singing as an influence on his musical ambitions.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0138",
+            "endUid": "u0159"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "kaz-introduction",
+          "type": "introduction",
+          "text": "was a young dragonetling with his family to the interior mountains. Of the Circular Island where they went to visit a monastery. Populated by these strange, Maybe were they flightless dragonets? They, they never flew. They were… Serious and calm. As a little one, he felt this was boring at first. He was introduced to, One of them as his uncle Kaz. And… In the evening, he was brought to a ritual that these dragonet monks were performing. And at the ritual, he heard a sound, unlike any he'd heard before, of the dragonets performing a drone. That came from deep in their bodies, a kind of choral singing.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0141",
+            "endUid": "u0149"
+          }
+        }
+      ]
+    },
+    {
+      "id": "monastery-memory",
+      "entity": "monks",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Zeno remembers a monastery ritual and wonders about the monks’ centuries-long or millennia-long task.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0138",
+            "endUid": "u0159"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "hermit-memory",
+      "entity": "hermit-king",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "aiSummary": "Little Tony recounts the childhood bargain that he now believes explains his name and gift.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0281",
+            "endUid": "u0305"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "hermit-intro",
+          "type": "introduction",
+          "text": "It wasn't a dream. It's this that happened next. So sitting in the tide pools one day at this age when he couldn't go to the other swing sets, when he couldn't fly in the littoral zone. Am I saying that right? The zone between high tide and low tide littorals. Yeah. He's eating hermit crabs one at a time, and singing a little song, and humming his tunes to himself, like, getting, like, deep into his tunes, and then he picks up a hermit crab of enormous size, you know, maybe Maybe an inch and a half across. And it's in a golden shell. And it says to him, well met, young dragon, littoral toonie. Which he interpreted, because he didn't understand it very well, as Little Tony. And that was his name from then on. But the King of the Hermit Crabs says, I am the King of the Hermit Crabs. Spare my life, and I will grant you anything you choose. Simply cast me away. And as you cast me away, shout your wish, and I will make it so.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0289",
+            "endUid": "u0294"
+          }
+        },
+        {
+          "id": "hermit-gift",
+          "type": "color",
+          "text": "So be it! Henceforth ye shall talk to anything!",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0297",
+            "endUid": "u0297"
+          }
+        }
+      ]
+    },
+    {
+      "id": "horseshoe-routine",
+      "entity": "horseshoe-brad",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Little Tony includes Horseshoe Brad among his habitual morning check-ins.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0354",
+            "endUid": "u0367"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "piglet-routine",
+      "entity": "piglet",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Little Tony appears to mention Piglet while listing morning contacts.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0362",
+            "endUid": "u0367"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "jim-report",
+      "entity": "grandpa-jim",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Little Tony asks Grandpa Jim about the island-wide commotion and learns where food has appeared despite the cloud’s scolding.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0354",
+            "endUid": "u0414"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "jim-intro",
+          "type": "introduction",
+          "text": "I think probably like from this high maybe like Grandpa Jim the cloud like. And this is, like, this is a cloud, I have a long relationship with this cloud that goes way back, and he orbits over the island, he sees all this stuff from up above, but also he's sort of disappointed in me. Like, he has, he has really strong opinions about what I should be doing with my life. Like, wants me to go back to school, and like, it's sort of an old cloud yells at man situation.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0373",
+            "endUid": "u0376"
+          }
+        },
+        {
+          "id": "jim-sleep",
+          "type": "color",
+          "text": "Tony, you, what the hell, you've just been sleeping your day away like you always do, huh? Oh my God. No, just, it's like 10 in the morning, every, the whole island is crazy right now, and you've just been sleeping in, just like you were. Dragonet, my every need is provided for me every day, like, what do I have? Blah, blah, blah. No ambition, no goals. You're just stuck here sleeping.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0385",
+            "endUid": "u0389"
+          }
+        },
+        {
+          "id": "jim-news",
+          "type": "color",
+          "text": "You have slept through the craziest night and morning on this entire island. You have zero idea what is going on. How do I even begin to talk about this? It's been everywhere. These giant statues that have been here forever, these eight huge statues. Weird things are going on, their eyes are opening, there are, like, just strange, like, the Mother's heart was getting warm, like, just, there's very weird, weird things happening with these statues and with the island itself. the roads, all of the eight roads, some of them are flickering on and off, there are strange lights, there are weird fountains turning on and off, there's… and there's food! There's food, just, like, appearing at certain spots, and everybody is eating, but not all the time. I mean, it is wild out there. It is… Properly crazy right now. And like I would expect from you. You're sleeping and unaware of anything that has happened.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0391",
+            "endUid": "u0398"
+          }
+        }
+      ]
+    },
+    {
+      "id": "jim-food",
+      "entity": "grandpa-jim",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Grandpa Jim interrupts Tony’s encouragement of the food machine to praise useful work and criticize Tony.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0619",
+            "endUid": "u0720"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "jim-work",
+          "type": "color",
+          "text": "You hear a voice in your head. Oh, you mean like waking up and getting to work and doing your job and fulfilling a purpose? Oh my god. You mean what this guy's doing? Which is… actually. Feeding the people as a part of his job? I am talking about that.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0623",
+            "endUid": "u0627"
+          }
+        },
+        {
+          "id": "jim-thanks",
+          "type": "color",
+          "text": "Thank you for your service, and for doing your job. Unlike others.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0631",
+            "endUid": "u0632"
+          }
+        }
+      ]
+    },
+    {
+      "id": "food-experiment",
+      "entity": "food-machine",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party samples the apparatus’s food, activates it through resonance and proximity, and produces confused creations with conflicting mental requests.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0419",
+            "endUid": "u1034"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "machine-intro",
+          "type": "introduction",
+          "text": "Just a little crazy. It's one of these strange kind of contraptions that the Dragonets have seen and have always been there. But now, there's… it's alive. These are always had been ruins that had never moved, had never had any activity, and there's these basins full of Fluids and waters moving, mechanical contraptions that seem to be whirring, but, and also just like these, these bowls full of different types of foods, some that you've seen before and are very familiar with, there's some, you know, salted fish and meats. And also some, like, strange animal catch that looks really good. But then there's some really weird other food that you don't know what the it is. It's like… One of them is, like, this strange-looking, like, loafy thing that's got a texture that you don't know what it is. Some of the, the fluids and the beverages, like, have these strange tastes and flavors and, like, weird fizzy things and There's definitely stuff here that that the Dragonets seem to be very into, but then also things that are just you did no idea. I've never seen these things before. No idea. Like these weird, strange, like little individual strands and these small kind of like starchy pellets. Like it's all like a big mix of strange objects that you may or may not have identified before. And what's even crazier is in this scene.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0420",
+            "endUid": "u0426"
+          }
+        },
+        {
+          "id": "machine-awakens",
+          "type": "whole",
+          "text": "Okay, okay, okay, okay. So the first thing that happens, the first thing that happens is, as you have that tone and you lock it in. you. Steam starts to come out of like various little fissures and holes in the whole thing and then like fluid it looks like water starts actually like moving and and and it's like it's like there's a water wheel like the mechanical like parts of it actually start to activate and then fluid starts and the dragonets start like cheering because they're like oh my god like holy the thing is like starting to wake up it's like it's moving again it's moving again they're all they're all getting Super, super excited. So you've successfully activated the system for sure.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0528",
+            "endUid": "u0532"
+          }
+        },
+        {
+          "id": "machine-chaos",
+          "type": "whole",
+          "text": "Except it's shaped like the long stringy things. So it's like, it's like a, it's like a stringy thing made out of cauldron, basically. Like, it's the first thing that comes out. And it doesn't look edible, but it just, it's just like, like, it's, it's, it's like almost like these, like, kind of weird, like, metal pipes are, like, coming out of the system. It's like the first thing that starts shooting out, and they're, like, flying out of it. It's not, like, one or two things, it's, like, projectile, like, flying out. And the dragonets are starting to dodge it because they're like, you know, what's going on with these things? And then, like, the next thing that starts coming out, it's like a potato, but inside the potato is like a small fish, like, stuffed inside the potato. These look actually kind of edible if you like the potato and those start like projectile flying out of it and it's like but it's like all of this is like machine gun style it's not like just making one it's like launching them so now it's like metal like weird cauldron strands are shooting out and then these like potatoes with little fish inside are shooting out and then and then like instead of like actual like tuna because like you'd want there to be just like really yummy actual tuna. It's like a tuna inside out. It's like a weird, it's like just the bone of a tuna on the inside. And it's like the bones of the tuna, like, randomly have clams, like, stuck on them, just like, just like on the bones with the clams, and then that is shooting out, but it's sort of like a big lump. And it's like a big giant like bone carcass with clams like stuck on it. Those the dragonets are also kind of hopping over to and just pulling the clams off of like the bone carcasses. But this goes on for, like, a couple minutes. It's not like one thing got made, it's like this intermittent process of, like, potato with fish inside stuffed into it, weird, like, string metal cauldron things, and then, like, these bone, like, dotted with clam things, like, coming out. Chaos!",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0818",
+            "endUid": "u0824"
+          }
+        }
+      ]
+    },
+    {
+      "id": "machine-oru",
+      "entity": "food-machine",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party explains to Oru how singing, proximity, and thoughts prompted the food machine to work.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1050",
+            "endUid": "u1083"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "paul-explanation",
+      "entity": "paul",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Paul explains Joey’s apparent success and the machine’s subsequent failure before reacting to its renewed humming.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0461",
+            "endUid": "u0498"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "paul-intro",
+          "type": "introduction",
+          "text": "And as you're getting close, you notice that the dragonets, like… and again, there's probably, like, you know, 5 or 6 of them, like, actively, like, touching, you know, the various, like, kind of, you know, contraption elements and so on. And they're just, like, you know, you recognize one of them. Tony, like, not your clutch mate, but like a cousin, Paul, who's there, and he's just like",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0461",
+            "endUid": "u0462"
+          }
+        },
+        {
+          "id": "paul-machine",
+          "type": "color",
+          "text": "I mean, people tried different things, I don't know, I mean, there were a lot of us here, it's hard to tell exactly what made it work, but I mean, I definitely remember, because Joey said that he wanted The salted salmon and then that definitely appeared and all of us lost it when that happened. And then we all started thinking about different foods we wanted to eat, but then it like didn't really happen again. So I don't know if it was just because it was Joey, you know, and Joey's kind of cool, you know, he's pretty cool. So maybe it's just because like the thing like Joey, I don't know what it was, but it was. He definitely made it work.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0483",
+            "endUid": "u0485"
+          }
+        }
+      ]
+    },
+    {
+      "id": "joey-story",
+      "entity": "joey",
+      "scenes": [
+        3
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Paul recounts Joey’s apparent success at making the machine supply salted salmon.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0462",
+            "endUid": "u0485"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "xena-breakfast",
+      "entity": "xena",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party sees Xena at the apparatus, and she approaches Heska despite his attempts to avoid her.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0427",
+            "endUid": "u0753"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "xena-fish",
+          "type": "color",
+          "text": "I want to hear the story about the fish that you caught.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0743",
+            "endUid": "u0743"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ilse-summons",
+      "entity": "ilse",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Ilse questions the party, joins their restaurant planning, and escorts them with their food samples to Oru.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0864",
+            "endUid": "u1034"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "ilse-intro",
+          "type": "introduction",
+          "text": "The dragonet, he's looking, you know, and he looks at y'all and says, I'm Ilse. I work with Shaman Oru. Shaman Oru is like the head elder from the ceremony. We have been trying to figure out what the hell is going on in the island since last night.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0890",
+            "endUid": "u0891"
+          }
+        },
+        {
+          "id": "ilse-restaurant",
+          "type": "color",
+          "text": "If you're starting a restaurant business, can I help?",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0924",
+            "endUid": "u0924"
+          }
+        },
+        {
+          "id": "ilse-cauldrons",
+          "type": "color",
+          "text": "We don't give these to anybody. Ha ha ha ha. You guys, I know you made a lot of them, like it was a good idea, but I think.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0972",
+            "endUid": "u0974"
+          }
+        }
+      ]
+    },
+    {
+      "id": "supervisor-intervention",
+      "entity": "ilse-supervisor",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "aiSummary": "The supervisor’s pointed look prompts Ilse to resume his official summons.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0982",
+            "endUid": "u1034"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "shamans-investigation",
+      "entity": "shamans",
+      "scenes": [
+        3,
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The shamans summon and question the party about reactivated machinery and the mysterious egg.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0864",
+            "endUid": "u1366"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "oru-summoned",
+      "entity": "oru",
+      "scenes": [
+        3
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Ilse invokes Oru’s interest in the party’s ability to awaken the food machine.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0890",
+            "endUid": "u1034"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "oru-consultation",
+      "entity": "oru",
+      "scenes": [
+        4,
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Oru tests an artifact near the party, questions their experience, and accompanies their investigation to the Wanderer’s eye.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1035",
+            "endUid": "u1537"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "oru-intro",
+          "type": "introduction",
+          "text": "you… Enter, one of the tents, and… Sitting there… is, the shaman. Who is an old dragonet. Old, old, old. It's hard to know in, Ugh. Dragonet, human years, how old exactly he is, but, he's the oldest Dragonet anybody has ever seen or heard of. And he he welcomes you all into his tent. And every… all of you know him, like, at various points in your dragonet childhood. Like, there's, like, a version of, like, dragonet Sunday School happens, where, like, the drag… like, the drag… like, basically the shamanic dragonet elders, like, they try to, like, you know, kind of teach you stuff about, like, the importance of clutches, and why it's important to have, you know, your family, and why, you know, kind of certain aspects of just these traditions around dragonets that, you know, like. La la la, like, you gotta do this, you gotta do that. So you've definitely, like, been in his presence before, and certainly the other shamanic dragonets revere him, and he, oh, and partially, but just because he has, like, the coolest moment of the festival every year, he basically gets to collect all the objects from the other dragonets, and then, you know, kind of kicks off the festival. Everybody knows him, but he's also… each of you, at some point in your lives, have had at least one you know, just positive moment with him. Either, you know, he kind of picked you up when you were having a hard time, gave you a little hunting tip, you know, Tony, for you, like, made you feel okay about not necessarily having, like, you know, a deep mission or purpose, you know, in contrast to those fucking clouds. So, you know, he's been a very understanding figure in the larger Dragonet community, and he welcomes, you know, he gives each of you kind of a little wing hug, and then welcomes you in.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1037",
+            "endUid": "u1048"
+          }
+        },
+        {
+          "id": "oru-hatchlings",
+          "type": "color",
+          "text": "You all came from eggs. I was there when you were all hatchlings. Yeah.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1142",
+            "endUid": "u1142"
+          }
+        },
+        {
+          "id": "oru-day",
+          "type": "color",
+          "text": "Younglings, younglings, a moment, a moment, a moment. Strange things are happening on this island! You all are mixed with this whole thing somehow. There was an egg that appeared, you hugged it, you had a psychedelic dream, and there was a dead guy, and then a blood sky, and then you woke up and had breakfast with a food machine that's never been turned on. This is all… Awesome. It's just… listen. Great day, isn't it? What an awesome day is this.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1275",
+            "endUid": "u1280"
+          }
+        },
+        {
+          "id": "oru-role",
+          "type": "color",
+          "text": "Nobody knows what is going on. Nobody knows what is going on. We… Are all in this, figuring this out right now. Whatever is happening, it seems like the island has some kind of a… Reaction to whatever the 4 of you are going and doing, something seems to be going on, I don't know what, but It feels like… You have a role to play in whatever's unfolding. I'll say it like that.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1390",
+            "endUid": "u1396"
+          }
+        }
+      ]
+    },
+    {
+      "id": "disc-investigation",
+      "entity": "clockwork-disc",
+      "scenes": [
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Zeno approaches and asks Oru about the ticking artifact, which grows louder near him.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1084",
+            "endUid": "u1127"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "disc-intro",
+          "type": "introduction",
+          "text": "But he goes back, and he digs out, and then he finds, and he comes back with This circular object, and, you know, for a dragonet claw, it's probably, like, this size. Relative to it. And it's weird, because it's a perfect circle, and you don't really see objects that look like perfect circles, and it's made out of this… You know, kind of hard, shiny material. And when you look at it, you know, he kind of is holding it in 2 claws and there's all kind, there's basically kind of like structures inside these very tiny little components and then, you know, kind of like, what looks like a, like a spinning wheel, like inside. And he's holding it.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1088",
+            "endUid": "u1093"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rosca-report",
+      "entity": "rosca",
+      "scenes": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Rosca reports the open eye and joins the party’s flight into the statue.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1349",
+            "endUid": "u1582"
+          },
+          "relevance": "primary"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1647",
+            "endUid": "u1697"
+          },
+          "relevance": "supporting"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Roska",
+      "quotes": [
+        {
+          "id": "rosca-news",
+          "type": "color",
+          "text": "The Wanderer's Eye. It's open again. We should go check it out.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1354",
+            "endUid": "u1354"
+          }
+        }
+      ]
+    },
+    {
+      "id": "rosca-rescue",
+      "entity": "rosca",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The guardians target Rosca, prompting the party to shield him, persuade him to withdraw, and teleport him out.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1720",
+            "endUid": "u2149"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "knownAs": "Roska",
+      "quotes": [
+        {
+          "id": "rosca-escape",
+          "type": "color",
+          "text": "my name is Roska, and I'm here to say I'm getting the hell out of here. Help me, please, anyway.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2022",
+            "endUid": "u2023"
+          }
+        },
+        {
+          "id": "rosca-ready",
+          "type": "color",
+          "text": "Dude, I fucking said that shit already in my rhyme. What are you doing? Let's go.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2132",
+            "endUid": "u2132"
+          }
+        },
+        {
+          "id": "rosca-stays-out",
+          "type": "color",
+          "text": "I'm not trying to go back inside.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2141",
+            "endUid": "u2141"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wanderer-entry",
+      "entity": "wanderer",
+      "scenes": [
+        5,
+        6,
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The Wanderer invites Little Tony onward, opens its iris, and energizes the party inside its mechanical shaft.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1377",
+            "endUid": "u1582"
+          },
+          "relevance": "primary"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1647",
+            "endUid": "u1697"
+          },
+          "relevance": "supporting"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "wanderer-eye",
+          "type": "introduction",
+          "text": "And, you land, You know, in this spot, right next to the Wanderer's Eye. And it is open, and it looks basically kind of like what you're looking at. It's got these structures, just, like, very well-defined, like, mechanical structures that You know, there's like little parts of the island where you might see evidence of some things that look a little bit like this, but seeing it all kind of built into the iris of the eye. And you, first you see it from a distance, so you're flying in, you know, about like, you know, you're first like 500 feet away, 400, 300, you're kind of getting closer and closer. And… As you get closer, You notice that the Wanderer's eye, the iris, is kind of dialing and it's Definitely feels like it's tracking you as you are getting closer.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1380",
+            "endUid": "u1385"
+          }
+        },
+        {
+          "id": "wanderer-come",
+          "type": "color",
+          "text": "Come.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1422",
+            "endUid": "u1422"
+          }
+        },
+        {
+          "id": "wanderer-shaft",
+          "type": "whole",
+          "text": "And the other thing that happens as you fly. You noticed for yourselves that sensation that you felt when you were After hugging the egg, and each of you had your own experience of sacredness, and you felt a sacred power entering your system. You feel that again. And as you're flying through this tunnel. And as the lights turn on and the machines start to whir, and as you also start to feel yourselves gain energy, strength, Heska, you're sharper, your vision, you're stronger, you're faster. Zeno, the music in your head, you feel like you could sing to these machines. You feel like you know the frequency of these machines. And if you knew exactly just before, like what kind of symphony that you wanted to sing to the mountain or to your fellow dragonets, you feel like you could sing to these machines. you. Tony, same thing for you, suddenly it feels like Not that the machines are talking to you, but you have, if they were gonna say anything, you would definitely be able to understand it. And Sculpit, your sense, again, of this Traveling and movement and this kind of tumultuous magic energy that you have inside of you again feels like it's stabilized.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1571",
+            "endUid": "u1582"
+          }
+        }
+      ]
+    },
+    {
+      "id": "wanderer-heart",
+      "entity": "wanderer",
+      "scenes": [
+        9,
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party ascends to the heart and takes seats, where their imagined movements activate and illuminate the whole statue.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2204",
+            "endUid": "u2440"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "wanderer-welcome",
+          "type": "color",
+          "text": "Welcome. Welcome.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2253",
+            "endUid": "u2254"
+          }
+        },
+        {
+          "id": "wanderer-awakens",
+          "type": "whole",
+          "text": "And… As the 3 of you are thinking together about The statue standing and moving and going and swimming. All of the lights in this entire space. Start raising intensity and the whole room and the entire space is now bright, bright, bright. And… As we zoom out, And kind of trace up the mechanical shaft. Both of the Wanderer's eyes now. Wide open and shining a blue, bright, bright light, much like the statues below. And a light courses throughout the entire Wanderer. Through unknown cracks and seams that felt like they were stone now are illuminated. And the Wanderer itself, You can feel it. Now that you're in the heartbeat, you're in the heart. It almost feels as though the whole room is pulsing. And it almost feels as though. There's a heart that's actually beating inside the statue, and that you are inside that heart, and that you're feeling this deep, deep pulse.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2420",
+            "endUid": "u2433"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guardians-approach",
+      "entity": "guardians",
+      "scenes": [
+        7
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The party spots the guardians and Little Tony hears their defensive warnings.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1647",
+            "endUid": "u1697"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "guardians-fight",
+      "entity": "guardians",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party distracts and obscures the guardians while rescuing Rosca from their eye beams.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1698",
+            "endUid": "u2149"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "guardians-warning",
+          "type": "color",
+          "text": "Defend. Safe. Intruder.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1827",
+            "endUid": "u1828"
+          }
+        },
+        {
+          "id": "guardians-battle",
+          "type": "whole",
+          "text": "The ancient mechanical statue is now trapped in a freestyle battle with Zeno. Okay.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1970",
+            "endUid": "u1970"
+          }
+        },
+        {
+          "id": "guardians-stop",
+          "type": "whole",
+          "text": "So, as soon as, Roska dimension doors out. All four of the statues, their eyes reset to blue. And… Oh. Laser beams all stop.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2145",
+            "endUid": "u2149"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guardians-welcome",
+      "entity": "guardians",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "With Rosca gone, the guardians welcome Little Tony and permit the group’s approach to the stairs.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2150",
+            "endUid": "u2224"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "guardians-bow",
+          "type": "whole",
+          "text": "There's, there's no, there's no, like, response from any of the statues, but, It's a little intense, Tony. All four of the statues, like, turn their heads and look at you. Like, they're all… eight eyes are… eight eyeballs are directly on Little Tony, and then all in a synchronized way. They all… Nod their heads and bow.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2183",
+            "endUid": "u2185"
+          }
+        },
+        {
+          "id": "guardians-word",
+          "type": "color",
+          "text": "Welcome.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2190",
+            "endUid": "u2190"
+          }
+        }
+      ]
+    },
+    {
+      "id": "glenda-aid",
+      "entity": "glenda",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Glenda flies beside Little Tony and coaches his attempted conversation with the guardian statues.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1788",
+            "endUid": "u1828"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "glenda-intro",
+          "type": "introduction",
+          "text": "So, my familiar is Glenda the Seagull. And, It's complicated because, Glenda… I don't really care for her, but she's infatuated with me, and I… I feel awkward about this because she's magically bound to me, and, like, the inherent power differential… Very odd situation we've got here. Yeah, I got it, yeah. So there's an increasingly… elaborate web of deception about how I am in another relationship, because I also sort of want to let her down gently, and she's, like, really useful as a familiar.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1796",
+            "endUid": "u1803"
+          }
+        }
+      ]
+    },
+    {
+      "id": "glenda-heart",
+      "entity": "glenda",
+      "scenes": [
+        10
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "aiSummary": "Little Tony considers finding Glenda a healthier relationship while she accompanies him in the heart chamber.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2333",
+            "endUid": "u2338"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "seats-activation",
+      "entity": "heart-seats",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The four dragonets sit in the seats that call to them, feeling at home as their thoughts activate the statue.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2261",
+            "endUid": "u2440"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "seats-intro",
+          "type": "introduction",
+          "text": "And there's 8 seats. Around this circle. And what's strange to you, as you get closer and look at these seats, is that… They're sized perfectly for you. Like, the other structures in this whole place that you had seen felt like they were built for something that was bigger. But what's really weird is… yeah. These look perfectly sized for you. And in fact, each of you feels… Like, just almost like a little pull towards… a few of these chairs. Like, there's… one for each of them feels like it's… there's a little energy behind it that's saying. Welcome.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2265",
+            "endUid": "u2275"
+          }
+        },
+        {
+          "id": "seats-home",
+          "type": "whole",
+          "text": "Yet, when you sit down in the. chair. Like… Chair you're sitting in. Each welcomed you in. It feels like… comfortable worn chair that you've been sitting in your whole life that is just your favorite chair. And it's like this timeless essence of chair that like when you're an old dragonet and on your dying days, you're going to want to sit in a fucking chair that is this chair. And there's something about that familiarity. And comfort as you sink into your chair. Just feels… Like, home.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2296",
+            "endUid": "u2305"
+          }
+        }
+      ]
+    },
+    {
+      "id": "vessel-cutaway",
+      "entity": "vessel",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The audience sees the hovering vessel outside the storm in a cutaway separate from the PCs’ perspective.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2441",
+            "endUid": "u2475"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "vessel-intro",
+          "type": "introduction",
+          "text": "But as we pass through the storm, and outside to the periphery of the storm, There's something there. There's a vessel. Hovering in the sky. And inside the vessel, We zoom in, and you can see two figures inside a room. Inside this vessel, hovering in the sky on the outskirts. Of the storm.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2454",
+            "endUid": "u2459"
+          }
+        }
+      ]
+    },
+    {
+      "id": "observers-cutaway",
+      "entity": "observers",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "aiSummary": "The narrated cutaway reveals two observers discussing the newly detected signatures without bringing them into contact with the PCs.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2457",
+            "endUid": "u2503"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "quotes": [
+        {
+          "id": "observers-divine",
+          "type": "color",
+          "text": "We've been searching. for so long. How is it possible? That we could… find. See divine energy like this. This is impossible.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2483",
+            "endUid": "u2489"
+          }
+        },
+        {
+          "id": "observers-resistance",
+          "type": "color",
+          "text": "Do you know what this means? What this is gonna mean for the resistance? This is gonna change everything.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2491",
+            "endUid": "u2493"
+          }
+        }
+      ]
+    },
+    {
+      "id": "device-cutaway",
+      "entity": "energy-device",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "The audience sees the observers examine shifting light signatures on their device.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2460",
+            "endUid": "u2503"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    },
+    {
+      "id": "resistance-cutaway",
+      "entity": "resistance",
+      "scenes": [
+        11
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The observers connect the divine signatures with the resistance and identify four signatures as firstborn.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2483",
+            "endUid": "u2503"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "low",
+    "status": "unreviewed"
+  },
+  "sceneReview": {
+    "confidence": "medium",
+    "status": "unreviewed"
+  }
+}

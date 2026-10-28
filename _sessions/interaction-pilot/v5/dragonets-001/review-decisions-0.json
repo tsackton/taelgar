@@ -1,0 +1,372 @@
+{
+  "inputDigest": "9ede2d4ddaeb0a07d13757c797420ba780ff13862cf7d6bddf437d0e59e9e039",
+  "reviewer": "du064_chasm / independent semantic review",
+  "attempt": 0,
+  "decisions": [
+    {
+      "target": "session",
+      "confidence": "low",
+      "reason": "Manifest real-world date and Circular Island identity are supported, and game dates are explicitly unknown; all four named PCs attend, but independent vault index/name checks find no individual PC pages, leaving the required attendance links unresolved.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0004",
+          "endUid": "u0037"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1953",
+          "endUid": "u1984"
+        },
+        {
+          "vaultPath": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml"
+        },
+        {
+          "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "confidence": "high",
+      "reason": "Checked opening vignettes, rehearsal and trade departures, sunset ceremony, separate contest, nighttime meal, flight, egg contact, shared vision, and return; all locations are supported and vision geography is not asserted as physical travel; excluded windows are post-play chatter.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0242",
+          "endUid": "u0268"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0708",
+          "endUid": "u0726"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0848",
+          "endUid": "u0856"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1119",
+          "endUid": "u1144"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1397",
+          "endUid": "u1422"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1700",
+          "endUid": "u1777"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1987",
+          "endUid": "u2068"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2130",
+          "endUid": "u2141"
+        }
+      ]
+    },
+    {
+      "target": "entity:glenda",
+      "confidence": "high",
+      "reason": "Named former familiar is explicitly discussed in the opening backstory; no present encounter or unsupported vault identity is asserted.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0066",
+          "endUid": "u0077"
+        }
+      ]
+    },
+    {
+      "target": "entity:horseshoe-crab",
+      "confidence": "high",
+      "reason": "Little Tony names this particular tide-pool contact, so the cameo is an individualized NPC rather than a generic animal.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0079",
+          "endUid": "u0083"
+        }
+      ]
+    },
+    {
+      "target": "entity:fiddler-shell",
+      "confidence": "high",
+      "reason": "The distinctive retained crab shell is explicitly offered for a future club; the card correctly records an item discussed, not a live monster.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0196",
+          "endUid": "u0206"
+        }
+      ]
+    },
+    {
+      "target": "entity:xena",
+      "confidence": "high",
+      "reason": "Named performer and Sculpit’s advisee drives rehearsal, jewelry preparation, and the actual show; later kiss and performance are independently checked at u0981–1026 and u1107–1114.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0248",
+          "endUid": "u0280"
+        }
+      ]
+    },
+    {
+      "target": "entity:zare",
+      "confidence": "high",
+      "reason": "Named tailor directly bargains over Edmund and the jewelry; no vault name hit exists, and the absence of a link is appropriate.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0710",
+          "endUid": "u0844"
+        }
+      ]
+    },
+    {
+      "target": "entity:edmund",
+      "confidence": "high",
+      "reason": "Distinctively named pebble is physically traded; narrated object perspective does not require a duplicate NPC identity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0794",
+          "endUid": "u0844"
+        }
+      ]
+    },
+    {
+      "target": "entity:costume-jewelry",
+      "confidence": "high",
+      "reason": "The gems genuinely speak through the PC’s object communication, then become one selected costume set; grouped item and speech attribution are supported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0729",
+          "endUid": "u0847"
+        }
+      ]
+    },
+    {
+      "target": "entity:eight-communities",
+      "confidence": "high",
+      "reason": "The eight communities act collectively in the Jubilee rite; grouping preserves the source’s federation-like collective without inventing a named institution.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0851",
+          "endUid": "u0905"
+        }
+      ]
+    },
+    {
+      "target": "entity:brightface-elder",
+      "confidence": "high",
+      "reason": "The singular painted elder leading the call and response is sufficiently individualized for retrieval despite lacking a name.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0887",
+          "endUid": "u0905"
+        }
+      ]
+    },
+    {
+      "target": "entity:ceremonial-offerings",
+      "confidence": "high",
+      "reason": "Eight offerings are displayed and arrayed together in one rite; an item collection is supported and distinct from the elders.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0864",
+          "endUid": "u0897"
+        }
+      ]
+    },
+    {
+      "target": "entity:rosca",
+      "confidence": "high",
+      "reason": "Named rival initiates the contest and concedes at u1374–1376; high inclusion confidence is independent of the quote voice correction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1121",
+          "endUid": "u1160"
+        }
+      ]
+    },
+    {
+      "target": "entity:rosca-crew",
+      "confidence": "high",
+      "reason": "A persistent named-by-leader performance crew supplies the musical contest setting; the organization card is justified.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1124",
+          "endUid": "u1143"
+        }
+      ]
+    },
+    {
+      "target": "entity:mysterious-egg",
+      "confidence": "high",
+      "reason": "A singular engraved object is touched, embraced, and connected to the shared vision; no unsupported entity identity or vault link is imported.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1777",
+          "endUid": "u1830"
+        }
+      ]
+    },
+    {
+      "target": "entity:dying-dragonet",
+      "confidence": "high",
+      "reason": "The unnamed purple dragonet is visually individualized in the shared vision; the source does not identify it as a known vault character.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2010",
+          "endUid": "u2036"
+        }
+      ]
+    },
+    {
+      "target": "entity:jade-hand-man",
+      "confidence": "high",
+      "reason": "The memory explicitly shows a man with a jade hand but never names him; leaving the note absent avoids importing identity from other campaigns.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u2043",
+          "endUid": "u2048"
+        }
+      ]
+    },
+    {
+      "target": "interaction:xena-preparation",
+      "confidence": "high",
+      "reason": "Preparation remains a single conversation through the rehearsal move; all sampled color quotes are Xena’s voice.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0390",
+          "endUid": "u0709"
+        }
+      ]
+    },
+    {
+      "target": "interaction:xena-performance",
+      "confidence": "high",
+      "reason": "The actual show, accidental whip strike, fog and recovery are supported in the transcript.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0940",
+          "endUid": "u1033"
+        }
+      ]
+    },
+    {
+      "target": "interaction:egg-contact",
+      "confidence": "high",
+      "reason": "The uninterrupted egg investigation spans the vision and awakening; summaries preserve the transient nature of the gifts.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1777",
+          "endUid": "u2133"
+        }
+      ]
+    },
+    {
+      "target": "interaction:zare-trade",
+      "confidence": "medium",
+      "reason": "Encounter and trade are supported, but the recognition color quote includes Little Tony and Zeno replies at u0780–0783; narrow it before trusting voice attribution.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0767",
+          "endUid": "u0824"
+        }
+      ]
+    },
+    {
+      "target": "interaction:rosca-battle",
+      "confidence": "medium",
+      "reason": "The contest is one coherent interaction, but the challenge color quote includes Zeno’s u1157 response; narrow it to Rosca’s own speech.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1150",
+          "endUid": "u1165"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1289",
+          "endUid": "u1296"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u1374",
+          "endUid": "u1379"
+        }
+      ]
+    },
+    {
+      "target": "interaction:elder-ceremony",
+      "confidence": "medium",
+      "reason": "The elder’s call is correct, but the color quote includes the narratorial lead-in “and says,”; trim to the spoken words.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcript-1",
+          "startUid": "u0889",
+          "endUid": "u0905"
+        }
+      ]
+    }
+  ]
+}

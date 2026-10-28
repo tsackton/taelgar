@@ -1,0 +1,2099 @@
+{
+  "schemaVersion": 5,
+  "campaign": "mawar",
+  "session": 3,
+  "realWorldDate": "2021-11-27",
+  "pcs": [
+    "People/PCs/Mawar/Ryu.md",
+    "People/PCs/Mawar/Trok.md",
+    "People/PCs/Mawar/Kaleho.md",
+    "People/PCs/Mawar/Nerissa.md",
+    "People/PCs/Mawar/Wazir.md"
+  ],
+  "sources": [
+    {
+      "id": "transcript-1",
+      "kind": "transcript",
+      "path": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md",
+      "sha256": "886e83dd592653718896a2c1f3116d8330214983554678a9b4aedcfdabdd632f"
+    }
+  ],
+  "locations": [
+    "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md",
+    "Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn.md",
+    "Gazetteer/Northwest Coast/Rivers/Mirmir.md",
+    "Gazetteer/Northwest Coast/Mawar Confederacy/Mawakel Peninsula.md",
+    "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0006",
+        "endUid": "u0348"
+      },
+      "type": "conversation",
+      "locationDetail": "Trok's beach shack north of town",
+      "aiSummary": "Kaleho visits Trok; Orden asks them to find his missing daughter Hiyasa.",
+      "dateStart": "1747-10-23",
+      "time": "evening",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0349",
+        "endUid": "u0580"
+      },
+      "type": "conversation",
+      "locationDetail": "Ryu's tower and departure preparations",
+      "aiSummary": "The next morning, Ryu joins the search and Nerissa introduces herself.",
+      "dateStart": "1747-10-24",
+      "time": "morning",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0581",
+        "endUid": "u0698"
+      },
+      "type": "conversation",
+      "locationDetail": "Common room",
+      "aiSummary": "Abelard recalls Hiyasa seeking an ancient tomb upriver.",
+      "dateStart": "1747-10-24",
+      "time": "morning",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0699",
+        "endUid": "u0717"
+      },
+      "type": "conversation",
+      "locationDetail": "Ryu's tower",
+      "aiSummary": "Ryu reports that Blu has found a trail along the river.",
+      "dateStart": "1747-10-24",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0718",
+        "endUid": "u0758"
+      },
+      "type": "travel",
+      "locationDetail": "Forested riverbank above the waterfall",
+      "aiSummary": "The party follows recent tracks upriver until nightfall.",
+      "dateStart": "1747-10-24",
+      "time": "day into late afternoon",
+      "location": "Gazetteer/Northwest Coast/Rivers/Mirmir.md"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0759",
+        "endUid": "u0792"
+      },
+      "type": "exploration",
+      "locationDetail": "Sheltered riverside campsite",
+      "aiSummary": "The party camps and keeps three uneventful watches.",
+      "dateStart": "1747-10-24",
+      "dateEnd": "1747-10-25",
+      "time": "night",
+      "location": "Gazetteer/Northwest Coast/Rivers/Mirmir.md"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0793",
+        "endUid": "u0836"
+      },
+      "type": "exploration",
+      "locationDetail": "An abandoned campsite farther upriver",
+      "aiSummary": "A deserted one-person camp leads to a trail away from the river.",
+      "dateStart": "1747-10-25",
+      "time": "morning",
+      "location": "Gazetteer/Northwest Coast/Rivers/Mirmir.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0837",
+        "endUid": "u0847"
+      },
+      "type": "travel",
+      "locationDetail": "Dense inland forest",
+      "aiSummary": "The party follows the cut trail through dense forest for most of the day.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Mawakel Peninsula.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u0848",
+        "endUid": "u1057"
+      },
+      "type": "exploration",
+      "locationDetail": "Exterior monument and roof entrance",
+      "aiSummary": "The party reads the tomb inscription, scouts the roof, and climbs toward the open entrance.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1058",
+        "endUid": "u1273"
+      },
+      "type": "exploration",
+      "locationDetail": "Entrance shaft and upper mosaic hall",
+      "aiSummary": "A blade trap and a fall injure Trok and Kaleho during the descent.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1274",
+        "endUid": "u1806"
+      },
+      "type": "combat",
+      "locationDetail": "Upper mosaic hall",
+      "aiSummary": "The party destroys four gargoyles before they can fully activate a snake-headed statue.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1807",
+        "endUid": "u1954"
+      },
+      "type": "exploration",
+      "locationDetail": "Upper mosaic hall and locked side door",
+      "aiSummary": "The party examines the statue, gathers stone keys, follows tracks, and heals.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u1955",
+        "endUid": "u2055"
+      },
+      "type": "exploration",
+      "locationDetail": "Small side chamber and connecting stairs",
+      "aiSummary": "Tracks lead past a connecting passage and down the staircase.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2056",
+        "endUid": "u2312"
+      },
+      "type": "exploration",
+      "locationDetail": "Lower corridor with a mud trap",
+      "aiSummary": "The party detects a mud-filled stretch and crosses using jumps and pitons.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 15,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2313",
+        "endUid": "u2410"
+      },
+      "type": "exploration",
+      "locationDetail": "Inscribed chamber above the inner sanctum",
+      "aiSummary": "Lightning strikes Kaleho; crawling beneath the crystals allows the party to descend.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 16,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2411",
+        "endUid": "u2560"
+      },
+      "type": "conversation",
+      "locationDetail": "Inner sanctum",
+      "aiSummary": "Hiyasa is trapped in stone; a speaking guardian rejects the party’s oceanic offerings.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 17,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u2561",
+        "endUid": "u3295"
+      },
+      "type": "combat",
+      "locationDetail": "Inner sanctum",
+      "aiSummary": "The stone guardian traps the party in mud and fells Trok before Ryu destroys it.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 18,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u3296",
+        "endUid": "u3434"
+      },
+      "type": "exploration",
+      "locationDetail": "Inner sanctum as mud hardens",
+      "aiSummary": "Ryu revives Trok, Nerissa teleports free, and Trok escapes the hardening mud.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 19,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u3435",
+        "endUid": "u3689"
+      },
+      "type": "conversation",
+      "locationDetail": "Inner sanctum and six gem-topped jars",
+      "aiSummary": "Hiyasa explains her treasure map after being caught taking loot; the party examines the jars.",
+      "dateStart": "1747-10-25",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+    },
+    {
+      "index": 20,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u3690",
+        "endUid": "u3707"
+      },
+      "type": "travel",
+      "locationDetail": "Tomb exit and return route to Hamri",
+      "aiSummary": "The party retraces the traps, conceals the entrance, and carries the recovered treasure back to Hamri.",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Mawakel Peninsula.md"
+    },
+    {
+      "index": 21,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcript-1",
+        "startUid": "u3708",
+        "endUid": "u3798"
+      },
+      "type": "conversation",
+      "locationDetail": "Return to Hamri several days later",
+      "aiSummary": "Wazir examines the treasure; the party divides gold, gives Nerissa the pearl, and leaves Wazir the ancient papers.",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn.md"
+    }
+  ],
+  "entities": [
+    {
+      "id": "orden",
+      "kind": "npc",
+      "label": "Orden",
+      "aiSummary": "Orden asks Trok and Kaleho to find Hiyasa, his daughter, who has not returned from an upriver treasure hunt.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Orden.md",
+      "aiSuggestedFeaturedQuotes": [
+        "orden-daughter",
+        "orden-helpless",
+        "orden-debt",
+        "orden-intro"
+      ]
+    },
+    {
+      "id": "hiyasa",
+      "kind": "npc",
+      "label": "Hiyasa",
+      "aiSummary": "The party rescues Orden’s daughter from a stone guardian and questions her about her treasure hunt. She shares a sketch of three tomb sites and receives a finder’s fee.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Hiyasa.md",
+      "aiSuggestedFeaturedQuotes": [
+        "hiyasa-tomb-raider",
+        "hiyasa-warning",
+        "hiyasa-sources",
+        "hiyasa-rescued"
+      ]
+    },
+    {
+      "id": "abelard",
+      "kind": "npc",
+      "label": "Abelard",
+      "aiSummary": "The hungover storyteller recalls Hiyasa seeking treasure in an ancient tomb upriver.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Abelard.md",
+      "aiSuggestedFeaturedQuotes": [
+        "abelard-intro",
+        "abelard-tomb",
+        "abelard-short-trip"
+      ]
+    },
+    {
+      "id": "blu",
+      "kind": "npc",
+      "label": "Blu",
+      "aiSummary": "Ryu’s osprey companion scouts the trail and tomb and helps fight both sets of guardians.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Mawar/Blu.md",
+      "aiSuggestedFeaturedQuotes": [
+        "blu-intro"
+      ]
+    },
+    {
+      "id": "yerkir-khor",
+      "kind": "npc",
+      "label": "Yerkir-khor",
+      "aiSummary": "Inscriptions and mosaics identify the tomb’s earth-lord and depict his powers, worshippers, and trade. The party never meets Yerkir-khor himself.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Yerkir-khor.md",
+      "aiSuggestedFeaturedQuotes": [
+        "yerkir-title"
+      ]
+    },
+    {
+      "id": "guardian",
+      "kind": "npc",
+      "label": "Stone guardian of Yerkir-khor’s tomb",
+      "aiSummary": "An unnamed speaking stone guardian demands tribute and rejects offerings associated with the ocean. It fights the party with stone and mud magic until Ryu destroys it.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "guardian-enemies",
+        "guardian-trash",
+        "guardian-tribute",
+        "guardian-form"
+      ]
+    },
+    {
+      "id": "azar",
+      "kind": "npc",
+      "label": "Azar",
+      "aiSummary": "The party recalls Azar’s earlier crimes and his convalescence with the lizardfolk.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Azar the Lost.md"
+    },
+    {
+      "id": "benat",
+      "kind": "npc",
+      "label": "Benat",
+      "aiSummary": "The opening discussion recalls Benat taking Azar to a lizardfolk village to recover.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Lizardfolk/Benat.md"
+    },
+    {
+      "id": "airion",
+      "kind": "npc",
+      "label": "Airion the Mistspeaker",
+      "aiSummary": "The opening discussion recalls the ancient scholar whose research Azar had followed.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Airion.md"
+    },
+    {
+      "id": "sentient-ocean",
+      "kind": "npc",
+      "label": "Sentient Ocean",
+      "aiSummary": "The opening discussion recalls the stolen living water used in Azar’s earlier experiments.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Sentient Ocean.md"
+    },
+    {
+      "id": "map",
+      "kind": "item",
+      "label": "Hiyasa’s treasure map",
+      "aiSummary": "Hiyasa sketches three ancient tomb sites from a map she saw, including this tomb and two unexplored locations.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map.md",
+      "aiSuggestedFeaturedQuotes": [
+        "map-three-sites"
+      ]
+    },
+    {
+      "id": "snake-statue",
+      "kind": "item",
+      "label": "Snake-headed statue in the upper hall",
+      "aiSummary": "A large snake-headed statue has jeweled eyes, gold bands, and a removable arm gem that the gargoyles try to pull. The party leaves the gem in place.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "keys",
+      "kind": "item",
+      "label": "Gargoyles’ stone keys",
+      "aiSummary": "The party collects four stone keys from the shattered gargoyles and uses one to open the door behind the statue.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "crossbow",
+      "kind": "item",
+      "label": "Kaleho’s crossbow of warning",
+      "aiSummary": "Kaleho’s magical crossbow warns him as the gargoyles attack and remains his weapon against the stone guardian.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "spear",
+      "kind": "item",
+      "label": "Ryu’s returning spear",
+      "aiSummary": "Ryu repeatedly throws his returning spear at the gargoyles and the stone guardian, delivering the final blow against the latter.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "merfolk-artifact",
+      "kind": "item",
+      "label": "Kaleho’s merfolk artifact",
+      "aiSummary": "Kaleho offers a treasured, worn merfolk-associated object as tribute, provoking the guardian’s hostility.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "sword",
+      "kind": "item",
+      "label": "Nerissa’s teleporting sword",
+      "aiSummary": "Nerissa uses a charge from her sword to teleport free of the hardening mud.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "jars",
+      "kind": "item",
+      "label": "Six gem-topped funerary jars",
+      "aiSummary": "Six large stone jars behind the tomb contain treasure and strange substances, which the party examines and carries away.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "pearl",
+      "kind": "item",
+      "label": "Pearl of power",
+      "aiSummary": "The small pearl recovered from a jar is eventually identified as a pearl of power and given to Nerissa.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "texts",
+      "kind": "item",
+      "label": "Ancient Texts of Yerkir-Khor",
+      "aiSummary": "Magical yellow dust preserves a sheaf of extremely old papers in an unreadable language. The party entrusts them to Wazir for later deciphering.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Ancient Texts of Yerkir-Khor.md",
+      "aiSuggestedFeaturedQuotes": [
+        "texts-discovery"
+      ]
+    },
+    {
+      "id": "obsidian-jar",
+      "kind": "item",
+      "label": "Obsidian-topped bottomless jar",
+      "aiSummary": "The obsidian-topped jar swallows a shell without returning it or revealing a bottom. The DM later establishes that it shattered upon leaving the tomb.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "treasure",
+      "kind": "item",
+      "label": "Ancient coins and uncut gems",
+      "aiSummary": "Ancient dwarven coins and uncut gems from the jars provide approximately 600 gold in treasure, divided with a 60-gold finder’s fee for Hiyasa.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "family-letter",
+      "kind": "item",
+      "label": "Trok’s unfinished family letter",
+      "aiSummary": "Trok repeatedly starts a promised letter to his family but struggles with confusion and resentment, leaving it unfinished.",
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    }
+  ],
+  "interactions": [
+    {
+      "id": "orden-request",
+      "entity": "orden",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Orden describes Hiyasa’s disappearance and persuades Trok and Kaleho to search upriver.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0189",
+            "endUid": "u0348"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "orden-intro",
+          "type": "introduction",
+          "text": "Talking over your your meal you hear footsteps from the beach and then sort of a knock on your door and a. kind of. unkempt looking man short and stocky with great bushy hair and a beard. Many like earrings and and piercings. kind of leans in this is Orden, Trok, one of your friends who also lives on this beach, and he says hey Trok.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0190",
+            "endUid": "u0194"
+          }
+        },
+        {
+          "id": "orden-daughter",
+          "type": "color",
+          "text": "You know I live by myself, but it, I do have some family. my daughter Hiyasa. She came home. Maybe. Two weeks, three weeks ago. she's been gone for. A decade traveling. I don't know why she came home she went tell me, maybe trouble. She. wasn't happy with how I was living really. thought we needed money. She had some. papers and notes some. maps and she said, there was lots of places you could get money in the in the forests lots of gold ruins around here. She had it out. said she'd be back in a few days, but it's been. Eight days now. i'm afraid. Something might have happened to her.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0211",
+            "endUid": "u0229"
+          }
+        },
+        {
+          "id": "orden-debt",
+          "type": "color",
+          "text": "But I would be. in your debt if you try and find her.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0261",
+            "endUid": "u0262"
+          }
+        },
+        {
+          "id": "orden-helpless",
+          "type": "color",
+          "text": "How I hope so. you're the adventure. I don't know what to do.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0298",
+            "endUid": "u0300"
+          }
+        }
+      ]
+    },
+    {
+      "id": "orden-planning",
+      "entity": "orden",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party discusses Orden’s family troubles and his request for help.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0381",
+            "endUid": "u0430"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "orden-rescue-explanation",
+      "entity": "orden",
+      "scenes": [
+        19
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Trok explains that Orden sent them, and Hiyasa says she wanted to help her father.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3461",
+            "endUid": "u3523"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "orden-fee",
+      "entity": "orden",
+      "scenes": [
+        21
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party discusses whether to give more of its shares to Orden after Hiyasa’s finder’s fee.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3765",
+            "endUid": "u3780"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "hiyasa-request",
+      "entity": "hiyasa",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Orden describes Hiyasa’s return, appearance, and disappearance while searching for treasure.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0209",
+            "endUid": "u0339"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "hiyasa-planning",
+      "entity": "hiyasa",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Trok and Kaleho explain the search for Hiyasa to Ryu.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0381",
+            "endUid": "u0430"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "hiyasa-inn-lead",
+      "entity": "hiyasa",
+      "scenes": [
+        3
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Abelard recalls Hiyasa leaving to investigate a tomb and expecting to return after a few days.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0617",
+            "endUid": "u0678"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "hiyasa-rescue",
+      "entity": "hiyasa",
+      "scenes": [
+        16,
+        17,
+        18
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Hiyasa warns the party about the guardian and escapes the mud with Nerissa’s inspiration during the battle.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2424",
+            "endUid": "u3434"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "hiyasa-trapped",
+          "type": "introduction",
+          "text": "Well, the first thing you notice is that, in the middle of the room there is what looks like an emaciated woman. Her from her upper thighs below encased in stone. Empty water skin string next to her, I mean not emaciated in like she's been starving for months sort of thing, but like a trapped without water for a day, maybe like. returns to look as you enter.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2424",
+            "endUid": "u2427"
+          }
+        },
+        {
+          "id": "hiyasa-warning",
+          "type": "color",
+          "text": "Watch out he can turn the earth. You can turn the stone to mud and back again.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2472",
+            "endUid": "u2473"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hiyasa-tomb-conversation",
+      "entity": "hiyasa",
+      "scenes": [
+        19,
+        20
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Confronted while taking treasure, Hiyasa explains her expedition, sketches the map, and returns with the party.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3435",
+            "endUid": "u3701"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "hiyasa-rescued",
+          "type": "color",
+          "text": "Seriously, someone came to rescue me.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3482",
+            "endUid": "u3482"
+          }
+        },
+        {
+          "id": "hiyasa-tomb-raider",
+          "type": "color",
+          "text": "I thought you are just random tomb raiders like me it's going to try and grab some loot and run for you noticed.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3489",
+            "endUid": "u3489"
+          }
+        },
+        {
+          "id": "hiyasa-sources",
+          "type": "color",
+          "text": "i've been traveling for 10 years I have my sources.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3536",
+            "endUid": "u3536"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hiyasa-finders-fee",
+      "entity": "hiyasa",
+      "scenes": [
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Hiyasa receives a 60-gold finder’s fee and offers more information about the other sites for payment.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3765",
+            "endUid": "u3790"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "abelard-conversation",
+      "entity": "abelard",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party buys Abelard a drink and questions him about Hiyasa and the tomb.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0607",
+            "endUid": "u0678"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "abelard-intro",
+          "type": "introduction",
+          "text": "There is actually one person that you see who who you've. you've seen around before his name's Abelard he's a storyteller and a performer who hangs around the Leviathan, a lot um. You get the sense that he often exaggerates his exploits and he's sort of has a reputation as a bit of a. Teller of tall tales, but when you have passed through before you, you know chatted with him and he's certainly observant and he seems to be here i'm like nursing a hangover basically.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0607",
+            "endUid": "u0610"
+          }
+        },
+        {
+          "id": "abelard-tomb",
+          "type": "color",
+          "text": "Woman headed out forever maybe a week ago. She is a. Pretty put together if you ask me i'm. had some. an ancient tomb up there. Supposedly, full of lost treasure.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0642",
+            "endUid": "u0647"
+          }
+        },
+        {
+          "id": "abelard-short-trip",
+          "type": "color",
+          "text": "She didn't think she would be gone for more than a few days. haven't seen her around actually.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0649",
+            "endUid": "u0650"
+          }
+        }
+      ]
+    },
+    {
+      "id": "blu-tower",
+      "entity": "blu",
+      "scenes": [
+        2
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "aiSummary": "Blu watches the visitors from the tower.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0370",
+            "endUid": "u0371"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "blu-intro",
+          "type": "introduction",
+          "text": "You see Blu, Blu, Blu, what kind of bird again? Blu. osprey kind of either sitting sitting on the top of the tower, the tower like watching you as you come up the stairs and then.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0370",
+            "endUid": "u0371"
+          }
+        }
+      ]
+    },
+    {
+      "id": "blu-river-scouting",
+      "entity": "blu",
+      "scenes": [
+        4,
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Blu helps Ryu find and follow the trail upriver.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0699",
+            "endUid": "u0758"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "blu-tomb-scouting",
+      "entity": "blu",
+      "scenes": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Blu helps track the route and scouts the tomb roof before the descent.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0793",
+            "endUid": "u1059"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "blu-gargoyles",
+      "entity": "blu",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Ryu directs Blu’s diving attacks against the gargoyles.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1374",
+            "endUid": "u1794"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "blu-guardian",
+      "entity": "blu",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Blu repeatedly attacks the stone guardian while staying out of the mud.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2566",
+            "endUid": "u3295"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "yerkir-inscription",
+      "entity": "yerkir-khor",
+      "scenes": [
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The entrance inscription names Yerkir-khor and his titles.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0864",
+            "endUid": "u0909"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "yerkir-title",
+          "type": "introduction",
+          "text": "Here lies Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0877",
+            "endUid": "u0877"
+          }
+        }
+      ]
+    },
+    {
+      "id": "yerkir-warning",
+      "entity": "yerkir-khor",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "An inscription promises wisdom to the faithful and entombment to intruders.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2338",
+            "endUid": "u2403"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "yerkir-sanctum",
+      "entity": "yerkir-khor",
+      "scenes": [
+        16
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The mosaics depict an earth-lord receiving tribute, and his guardian demands offerings in his name.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2431",
+            "endUid": "u2560"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "guardian-negotiation",
+      "entity": "guardian",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The guardian demands tribute and rejects shells, a pearl, and Kaleho’s merfolk artifact.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2479",
+            "endUid": "u2560"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "guardian-tribute",
+          "type": "color",
+          "text": "What tribute, have you brought for a Yerkir-khor's tomb on this plane.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2486",
+            "endUid": "u2486"
+          }
+        },
+        {
+          "id": "guardian-trash",
+          "type": "color",
+          "text": "worthless trash. You would insult, a lot of earth with such garbage. I asked again what tribute, have you brought you claim to be faithful.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2494",
+            "endUid": "u2496"
+          }
+        },
+        {
+          "id": "guardian-enemies",
+          "type": "color",
+          "text": "You would defile the tomb of my master with the leavings of our ancient enemies.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2560",
+            "endUid": "u2560"
+          }
+        }
+      ]
+    },
+    {
+      "id": "guardian-combat",
+      "entity": "guardian",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party fights and destroys the guardian after it traps adventurers in mud and knocks Trok unconscious.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2561",
+            "endUid": "u3295"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "guardian-form",
+          "type": "introduction",
+          "text": "I know this, this is just a giant like a 15 foot tall stone statue of a. This one looks like just a person it's not the same as the as the creature that's depicted in the. Most of the hacks.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2675",
+            "endUid": "u2677"
+          }
+        }
+      ]
+    },
+    {
+      "id": "azar-recalled",
+      "entity": "azar",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The opening discussion recalls Azar’s defeat and planned recovery among the lizardfolk.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0075",
+            "endUid": "u0119"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "azar-update",
+      "entity": "azar",
+      "scenes": [
+        3
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The conversation recalls someone caring for Azar back home.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0659",
+            "endUid": "u0674"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "benat-recalled",
+      "entity": "benat",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The opening discussion recalls Benat taking Azar to the lizardfolk village.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0099",
+            "endUid": "u0109"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "airion-recalled",
+      "entity": "airion",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The opening discussion identifies Airion as the older elemental scholar whose clues Azar followed.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0089",
+            "endUid": "u0096"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ocean-recalled",
+      "entity": "sentient-ocean",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The opening discussion recalls Azar stealing a fragment of the Sentient Ocean.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0075",
+            "endUid": "u0088"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "map-mentioned",
+      "entity": "map",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Orden remembers Hiyasa carrying maps and notes about ruins with treasure.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0211",
+            "endUid": "u0240"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "map-sketch",
+      "entity": "map",
+      "scenes": [
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Hiyasa sketches three sites from the map she saw while explaining her treasure hunt.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3493",
+            "endUid": "u3554"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "map-three-sites",
+          "type": "whole",
+          "text": "takes out a blank piece of paper from her backpack and beginning sketching something she says, I saw I. saw a map. had a few places marked it's like three little access. These are. Long abandoned tombs from. Before the mall or even came here. From what I know.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3506",
+            "endUid": "u3512"
+          }
+        }
+      ]
+    },
+    {
+      "id": "map-two-sites",
+      "entity": "map",
+      "scenes": [
+        21
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Two unexplored marks remain on the map, and Hiyasa offers more information for payment.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3758",
+            "endUid": "u3780"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "snake-statue-examination",
+      "entity": "snake-statue",
+      "scenes": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party notices the statue stirring as a gargoyle works its gem, examines it afterward, and leaves a warning note.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1124",
+            "endUid": "u1130"
+          },
+          "relevance": "supporting"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1719",
+            "endUid": "u1723"
+          },
+          "relevance": "supporting"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1832",
+            "endUid": "u1899"
+          },
+          "relevance": "primary"
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1977",
+            "endUid": "u1981"
+          },
+          "relevance": "supporting"
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "keys-found-used",
+      "entity": "keys",
+      "scenes": [
+        12,
+        13
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party gathers the gargoyles’ keys and opens the locked side door.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1847",
+            "endUid": "u1966"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "crossbow-warning",
+      "entity": "crossbow",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The crossbow’s warning lets Kaleho react as the gargoyles attack.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1296",
+            "endUid": "u1318"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "crossbow-guardian",
+      "entity": "crossbow",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kaleho shoots the guardian while restrained in a stone hand.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3194",
+            "endUid": "u3215"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "spear-gargoyles",
+      "entity": "spear",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Ryu’s spear returns after his throws and destroys a gargoyle attempting to activate the statue.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u1651",
+            "endUid": "u1794"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "spear-guardian",
+      "entity": "spear",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Ryu rushes the guardian and delivers the killing blow after it fells Trok.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3282",
+            "endUid": "u3295"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "merfolk-offering",
+      "entity": "merfolk-artifact",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kaleho offers his treasured merfolk artifact, angering the guardian further.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2535",
+            "endUid": "u2560"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "sword-escape",
+      "entity": "sword",
+      "scenes": [
+        18
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Nerissa expends a sword charge to teleport out of the hardening mud.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3349",
+            "endUid": "u3384"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "jars-first-seen",
+      "entity": "jars",
+      "scenes": [
+        16
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "Six gem-stoppered jars stand behind the central statue.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u2461",
+            "endUid": "u2466"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "jars-examined",
+      "entity": "jars",
+      "scenes": [
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "After stopping Hiyasa from taking treasure, the party opens the jars and investigates their contents.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3435",
+            "endUid": "u3689"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "pearl-found",
+      "entity": "pearl",
+      "scenes": [
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kaleho inspects the small pearl but initially finds nothing unusual.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3626",
+            "endUid": "u3638"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "pearl-identified-given",
+      "entity": "pearl",
+      "scenes": [
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The pearl is identified as a pearl of power and assigned to Nerissa.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3717",
+            "endUid": "u3787"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "texts-dust-found",
+      "entity": "texts",
+      "scenes": [
+        19
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "aiSummary": "A yellowish glowing substance and dust are found in the yellow-topped jar.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3639",
+            "endUid": "u3647"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Yellow dust"
+    },
+    {
+      "id": "texts-discovered-given",
+      "entity": "texts",
+      "scenes": [
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The dust is found to preserve ancient papers, which are left with Wazir to decipher.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3738",
+            "endUid": "u3791"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "texts-discovery",
+          "type": "whole",
+          "text": "And you eventually managed to sort out the yellow dost which is i'm. A magical and Chairman that's protecting a sheaf of papers. written in a language, none of you understand. where's that which will be. A mystery for another time. During this. These are like. Ancient papers it's like more than 1000 year old paper so like even touching them they begin to crumble.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3750",
+            "endUid": "u3757"
+          }
+        }
+      ]
+    },
+    {
+      "id": "obsidian-experiment",
+      "entity": "obsidian-jar",
+      "scenes": [
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party drops a shell into the apparently bottomless jar and cannot recover it.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3663",
+            "endUid": "u3677"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "obsidian-shattered",
+      "entity": "obsidian-jar",
+      "scenes": [
+        20,
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The DM establishes retrospectively that the obsidian jar shattered when carried out of the tomb.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3733",
+            "endUid": "u3737"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "treasure-found",
+      "entity": "treasure",
+      "scenes": [
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party finds unfamiliar ancient coins and uncut quartz and amethyst in the jars.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3555",
+            "endUid": "u3621"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "treasure-divided",
+      "entity": "treasure",
+      "scenes": [
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The coins are recognized as ancient dwarven money and roughly 600 gold is divided into Hiyasa’s 60 and four 135-gold shares.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u3724",
+            "endUid": "u3798"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "letter-drafting",
+      "entity": "family-letter",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Trok works on another attempt at the letter before discussing his difficulty finishing it with Kaleho.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcript-1",
+            "startUid": "u0099",
+            "endUid": "u0164"
+          },
+          "relevance": "primary"
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      }
+    }
+  ],
+  "review": {
+    "confidence": "medium",
+    "status": "automatedReviewed"
+  },
+  "sceneReview": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  },
+  "dateStart": "1747-10-23",
+  "dateEnd": "1747-10-28"
+}
