@@ -1,0 +1,484 @@
+{
+  "attributions": [
+    {
+      "end": 23,
+      "evidence": [
+        "u0031-u0038"
+      ],
+      "reason": "First-person player reply continues Delwath’s action during DM description.",
+      "speaker": "Delwath",
+      "start": 0,
+      "textSha256": "155e4fbeedb38549030c9195326ae67823edeea27da9cb671895dfb9596a9594",
+      "uid": "u0036"
+    }
+  ],
+  "checks": [
+    "people",
+    "groups",
+    "places",
+    "time_transitions",
+    "items",
+    "actions",
+    "unmarked_errors",
+    "second_pass"
+  ],
+  "chunkId": "chunk-001",
+  "edits": [
+    {
+      "after": "Okay, so short intro as you are leaving the village of, of the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses.",
+      "before": "Okay, so short intro as you are leaving the village have to have the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses.",
+      "evidence": [
+        "u0001-u0003"
+      ],
+      "kind": "asr",
+      "reason": "ASR substituted a verb phrase for repeated preposition before the tribe name.",
+      "uid": "u0001"
+    },
+    {
+      "after": "I need to find the gods that you—sorry, I should have—I was looking at my email for the—okay, I didn't change anything from the email I sent about the reskin, right? Those four gods at the bottom are the four gods.",
+      "before": "90 to find the gods that you—sorry, I should have—I was looking at my email for the—okay, I didn't change anything from the email I sent about the riskin, right? Those four gods at the bottom are the four gods.",
+      "evidence": [
+        "u0089-u0093"
+      ],
+      "kind": "asr",
+      "reason": "Answer to what brings him here and tabletop discussion of character reskin recover near-sound recognition errors.",
+      "uid": "u0091"
+    },
+    {
+      "after": "A fair bit to the south, they are, and as you know, they they somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like 200 miles south of Pandar. You're like way to the north.",
+      "before": "A fair bit to the south, they are, and as you know, they they somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like {{200 miles south}} of Pandar. You're like way to the north.",
+      "evidence": [
+        "u0150-u0154"
+      ],
+      "kind": "uncertainty",
+      "reason": "Geographical doubt is not evidence of misrecognition; preserve spoken distance and direction.",
+      "uid": "u0152"
+    }
+  ],
+  "issues": [],
+  "mentions": [
+    {
+      "kind": "person",
+      "text": "Theba",
+      "uid": "u0001"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0001"
+    },
+    {
+      "kind": "place",
+      "text": "material world",
+      "uid": "u0001"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0001"
+    },
+    {
+      "kind": "person",
+      "text": "Aasimti",
+      "uid": "u0002"
+    },
+    {
+      "kind": "person",
+      "text": "Birich'iko",
+      "uid": "u0002"
+    },
+    {
+      "kind": "person",
+      "text": "Ch'ik'a",
+      "uid": "u0003"
+    },
+    {
+      "kind": "person",
+      "text": "Kenzo",
+      "uid": "u0006"
+    },
+    {
+      "kind": "person",
+      "text": "Wellby",
+      "uid": "u0006"
+    },
+    {
+      "kind": "person",
+      "text": "Seeker",
+      "uid": "u0006"
+    },
+    {
+      "kind": "place",
+      "text": "Feywild",
+      "uid": "u0006"
+    },
+    {
+      "kind": "place",
+      "text": "Eudomes' Tower",
+      "uid": "u0006"
+    },
+    {
+      "kind": "time",
+      "text": "late afternoon",
+      "uid": "u0008"
+    },
+    {
+      "kind": "time",
+      "text": "dusk",
+      "uid": "u0008"
+    },
+    {
+      "kind": "time",
+      "text": "evening",
+      "uid": "u0011"
+    },
+    {
+      "kind": "place",
+      "text": "hunting camp",
+      "uid": "u0014"
+    },
+    {
+      "kind": "item",
+      "text": "shield",
+      "uid": "u0022"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0023"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0036"
+    },
+    {
+      "kind": "item",
+      "text": "longbow",
+      "uid": "u0038"
+    },
+    {
+      "kind": "item",
+      "text": "scale mail",
+      "uid": "u0038"
+    },
+    {
+      "kind": "item",
+      "text": "shield",
+      "uid": "u0038"
+    },
+    {
+      "kind": "item",
+      "text": "mammoth tusk",
+      "uid": "u0039"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0053"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0064"
+    },
+    {
+      "kind": "place",
+      "text": "Elder Forest",
+      "uid": "u0064"
+    },
+    {
+      "kind": "place",
+      "text": "Elderwood",
+      "uid": "u0066"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0067"
+    },
+    {
+      "kind": "place",
+      "text": "Elderwood",
+      "uid": "u0067"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0073"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0075"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0076"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0082"
+    },
+    {
+      "kind": "place",
+      "text": "Tinitaka",
+      "uid": "u0082"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0094"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0097"
+    },
+    {
+      "kind": "group",
+      "text": "Meswati",
+      "uid": "u0099"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0099"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0100"
+    },
+    {
+      "kind": "item",
+      "text": "Mage Hand",
+      "uid": "u0103"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0108"
+    },
+    {
+      "kind": "time",
+      "text": "hundreds of years",
+      "uid": "u0109"
+    },
+    {
+      "kind": "time",
+      "text": "many generations",
+      "uid": "u0109"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0117"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0120"
+    },
+    {
+      "kind": "person",
+      "text": "Nisir",
+      "uid": "u0121"
+    },
+    {
+      "kind": "person",
+      "text": "K'onisati",
+      "uid": "u0121"
+    },
+    {
+      "kind": "person",
+      "text": "Yalik'I",
+      "uid": "u0122"
+    },
+    {
+      "kind": "person",
+      "text": "Taraka",
+      "uid": "u0122"
+    },
+    {
+      "kind": "person",
+      "text": "Midri",
+      "uid": "u0122"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0123"
+    },
+    {
+      "kind": "place",
+      "text": "our village",
+      "uid": "u0126"
+    },
+    {
+      "kind": "person",
+      "text": "Ninu",
+      "uid": "u0127"
+    },
+    {
+      "kind": "time",
+      "text": "two day journey",
+      "uid": "u0130"
+    },
+    {
+      "kind": "time",
+      "text": "evening",
+      "uid": "u0131"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0133"
+    },
+    {
+      "kind": "time",
+      "text": "in the morning",
+      "uid": "u0133"
+    },
+    {
+      "kind": "person",
+      "text": "A'gaza",
+      "uid": "u0137"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0138"
+    },
+    {
+      "kind": "time",
+      "text": "in the morning",
+      "uid": "u0138"
+    },
+    {
+      "kind": "time",
+      "text": "two day journey",
+      "uid": "u0142"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Nightmares",
+      "uid": "u0145"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0151"
+    },
+    {
+      "kind": "place",
+      "text": "Pandar",
+      "uid": "u0152"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0154"
+    },
+    {
+      "kind": "time",
+      "text": "Great War",
+      "uid": "u0154"
+    },
+    {
+      "kind": "group",
+      "text": "Ko'zula",
+      "uid": "u0158"
+    },
+    {
+      "kind": "group",
+      "text": "Shu'anra",
+      "uid": "u0158"
+    },
+    {
+      "kind": "time",
+      "text": "Great War",
+      "uid": "u0158"
+    },
+    {
+      "kind": "person",
+      "text": "Ninu",
+      "uid": "u0159"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0159"
+    },
+    {
+      "kind": "person",
+      "text": "the stoneborn",
+      "uid": "u0160"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0160"
+    },
+    {
+      "kind": "time",
+      "text": "a generation",
+      "uid": "u0160"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0161"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0162"
+    },
+    {
+      "kind": "person",
+      "text": "Cha'mutte",
+      "uid": "u0163"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0165"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0169"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0172"
+    },
+    {
+      "kind": "time",
+      "text": "Battle of Darkfire",
+      "uid": "u0173"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0174"
+    },
+    {
+      "kind": "time",
+      "text": "Battle of Darkfire",
+      "uid": "u0174"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0175"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "c390bad2b2b536134874c1b8a6a60435daa519676b6f7946181c9352d4aa55b8",
+  "stage": "clean"
+}

@@ -1,0 +1,1356 @@
+{
+  "schemaVersion": 1,
+  "stage": "polish",
+  "chunkId": "chunk-003",
+  "sourceSha256": "66275688c54350ae6663dd4951ba3993ac4c8f3e0765452fc86045f947256863",
+  "turns": [
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0341",
+          "start": 0,
+          "end": 3
+        },
+        {
+          "uid": "u0342",
+          "start": 0,
+          "end": 94
+        }
+      ],
+      "text": "and the remnants of that evil that sometimes creep up the mountains from the Forest of Nightmares.\"",
+      "joinPrevious": true
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0343",
+          "start": 0,
+          "end": 4
+        },
+        {
+          "uid": "u0344",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "uid": "u0345",
+          "start": 0,
+          "end": 13
+        },
+        {
+          "uid": "u0346",
+          "start": 0,
+          "end": 193
+        },
+        {
+          "uid": "u0347",
+          "start": 0,
+          "end": 45
+        }
+      ],
+      "text": "\"But even if—even if your hope is proven false and some of, some of the lost are truly lost, it must be that many of them are not. Where did these circlets come to you from? They're many miles from where they were found. Have you any clues as to where others may be?\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0348",
+          "start": 0,
+          "end": 21
+        },
+        {
+          "uid": "u0349",
+          "start": 0,
+          "end": 35
+        },
+        {
+          "uid": "u0350",
+          "start": 0,
+          "end": 42
+        },
+        {
+          "uid": "u0351",
+          "start": 0,
+          "end": 44
+        },
+        {
+          "uid": "u0352",
+          "start": 0,
+          "end": 26
+        },
+        {
+          "uid": "u0353",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "uid": "u0354",
+          "start": 0,
+          "end": 81
+        }
+      ],
+      "text": "\"There is a stoneborn in hunting camp near here who has traveled the Forest of Nightmares herself and seen some of these ancient battlefields and brought us stories of the dead. A giant demon corpse lying in a forest clearing with a dark armband on its wrist.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0355",
+          "start": 0,
+          "end": 70
+        },
+        {
+          "uid": "u0356",
+          "start": 0,
+          "end": 132
+        },
+        {
+          "uid": "u0357",
+          "start": 0,
+          "end": 19
+        },
+        {
+          "uid": "u0358",
+          "start": 0,
+          "end": 14
+        },
+        {
+          "uid": "u0359",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "uid": "u0360",
+          "start": 0,
+          "end": 83
+        }
+      ],
+      "text": "\"I believe they may be found at the battle sites where the tanshi fell, if they are to be found anywhere. This circlet that you say trapped you in a prison was brought from a battlefield far to the south. This, this one that—this one that trapped Ohma, the warrior who you say may be wandering lost somewhere far across the world—\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0361",
+          "start": 0,
+          "end": 87
+        }
+      ],
+      "text": "Which, by the way, now I have to convince somebody to play Ohma for the Wellby one-shot."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0362",
+          "start": 0,
+          "end": 31
+        },
+        {
+          "uid": "u0363",
+          "start": 0,
+          "end": 52
+        }
+      ],
+      "text": "That'd actually be kind of fun. I don't know if I'm gonna necessarily—if I'm, if I'm—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0364",
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "text": "A one shot to make, but—"
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0365",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0366",
+          "start": 0,
+          "end": 79
+        },
+        {
+          "uid": "u0367",
+          "start": 0,
+          "end": 29
+        }
+      ],
+      "text": "I, the only one I really want to do, I'm really into this idea of playing that—the [garbled], I think they—",
+      "substitutions": [
+        {
+          "uid": "u0367",
+          "start": 4,
+          "end": 15,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0368",
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "text": "Might."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0369",
+          "start": 0,
+          "end": 49
+        },
+        {
+          "uid": "u0370",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "uid": "u0371",
+          "start": 0,
+          "end": 65
+        }
+      ],
+      "text": "I think, because Aaron's gonna need some time to, like get—I suspect we'll do the Feywild one last, right, when everybody's—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0372",
+          "start": 0,
+          "end": 29
+        }
+      ],
+      "text": "I mean it doesn't have to be—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0373",
+          "start": 0,
+          "end": 53
+        },
+        {
+          "uid": "u0374",
+          "start": 0,
+          "end": 31
+        }
+      ],
+      "text": "But I also want to do a Mylar adventure in September. Yeah, everybody that I hope you—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0375",
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "text": "Join for you to get here."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0376",
+          "start": 0,
+          "end": 29
+        }
+      ],
+      "text": "Writing a one shot anyway, um—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0377",
+          "start": 0,
+          "end": 87
+        },
+        {
+          "uid": "u0378",
+          "start": 0,
+          "end": 21
+        },
+        {
+          "uid": "u0379",
+          "start": 0,
+          "end": 32
+        },
+        {
+          "uid": "u0380",
+          "start": 0,
+          "end": 35
+        },
+        {
+          "uid": "u0381",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "uid": "u0382",
+          "start": 0,
+          "end": 38
+        }
+      ],
+      "text": "\"That one was taken—was carried by a some sort of deathless creature that came from the Forest of Nightmares. But little moves in that forest. There are no animals, there are no people. Nothing living can survive there long.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0383",
+          "start": 0,
+          "end": 39
+        }
+      ],
+      "text": "\"Did all of the lost fall in the forest?\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0384",
+          "start": 0,
+          "end": 35
+        },
+        {
+          "uid": "u0385",
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "text": "\"All of the lost fell in the forest. So that is where I would look.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0386",
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "text": "\"That is a clue then.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0387",
+          "start": 0,
+          "end": 65
+        },
+        {
+          "uid": "u0388",
+          "start": 0,
+          "end": 49
+        }
+      ],
+      "text": "\"And I believe this stoneborn and the man who destroyed these two would be willing to travel with you on this task.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0389",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "uid": "u0390",
+          "start": 0,
+          "end": 49
+        }
+      ],
+      "text": "\"I would be glad of the company, traveling to such a place.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0391",
+          "start": 0,
+          "end": 52
+        },
+        {
+          "uid": "u0392",
+          "start": 0,
+          "end": 95
+        },
+        {
+          "uid": "u0393",
+          "start": 0,
+          "end": 16
+        },
+        {
+          "uid": "u0394",
+          "start": 0,
+          "end": 18
+        },
+        {
+          "uid": "u0395",
+          "start": 0,
+          "end": 12
+        },
+        {
+          "uid": "u0396",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "uid": "u0397",
+          "start": 0,
+          "end": 39
+        }
+      ],
+      "text": "\"I would warn you to keep moving if you are up there. The longer you stay in one place, eventually the shadows will be attracted to living creatures. And if you stay—you stay for long in one camp, you awake to find yourself surrounded by shadows.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0398",
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "text": "So no long rests."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0399",
+          "start": 0,
+          "end": 26
+        }
+      ],
+      "text": "Only three encounters, so—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0400",
+          "start": 0,
+          "end": 60
+        }
+      ],
+      "text": "That's a good way to—that's a good way to structure it, yeah."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0401",
+          "start": 0,
+          "end": 128
+        }
+      ],
+      "text": "There might be some place, there might be some secret hidden place where you can get one long rest, right? You work hard, right."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0402",
+          "start": 0,
+          "end": 145
+        }
+      ],
+      "text": "Now it doesn't last long enough. I was gonna say, you know what would help with a long rest is probably a magic circle, but it only lasts an hour."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0403",
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "text": "Right."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0404",
+          "start": 0,
+          "end": 91
+        }
+      ],
+      "text": "And I guess it wouldn't help against shadows, [garbled], that'd be fun.",
+      "substitutions": [
+        {
+          "uid": "u0404",
+          "start": 46,
+          "end": 75,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0405",
+          "start": 0,
+          "end": 16
+        }
+      ],
+      "text": "There's a giant—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0406",
+          "start": 0,
+          "end": 19
+        },
+        {
+          "uid": "u0407",
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "text": "Demon, yeah, exactly. Like, way, yeah."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0408",
+          "start": 0,
+          "end": 37
+        }
+      ],
+      "text": "Where are these other—sorry, go ahead."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0409",
+          "start": 0,
+          "end": 62
+        }
+      ],
+      "text": "I was just gonna say if there's anything else you want to ask."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0410",
+          "start": 0,
+          "end": 56
+        },
+        {
+          "uid": "u0411",
+          "start": 0,
+          "end": 45
+        },
+        {
+          "uid": "u0412",
+          "start": 0,
+          "end": 41
+        },
+        {
+          "uid": "u0413",
+          "start": 0,
+          "end": 61
+        },
+        {
+          "uid": "u0414",
+          "start": 0,
+          "end": 37
+        },
+        {
+          "uid": "u0415",
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "text": "Now, I mean, any details that like maybe not tonight, but I do want to spend a little bit of time like getting details of the legends, right, not—right, pretty well know that Yezali one, having seen it, but right, any clues that would help find places, right, is the idea."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0416",
+          "start": 0,
+          "end": 68
+        },
+        {
+          "uid": "u0417",
+          "start": 0,
+          "end": 69
+        },
+        {
+          "uid": "u0418",
+          "start": 0,
+          "end": 134
+        },
+        {
+          "uid": "u0419",
+          "start": 0,
+          "end": 55
+        },
+        {
+          "uid": "u0420",
+          "start": 0,
+          "end": 127
+        }
+      ],
+      "text": "Right, I haven't written all of this yet, but also the idea is that Kate, the stoneborn, Kate's character, has been to all of these, but we don't need to spend—I don't want to spend a ton of time, you know, it, whatever, right, like I wasn't really expecting you to say just—it's just for particular flavor, flavor I will give you. I'm gonna send a little, like, \"Here are the battles,\" just because it might be useful to know a little bit about each battlefield."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0421",
+          "start": 0,
+          "end": 104
+        },
+        {
+          "uid": "u0422",
+          "start": 0,
+          "end": 28
+        },
+        {
+          "uid": "u0423",
+          "start": 0,
+          "end": 19
+        }
+      ],
+      "text": "So she, you know, your conversation eventually peters off, and before you leave for the camp the next day, the Godcaller of this tribe—I mean all the end."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0424",
+          "start": 0,
+          "end": 86
+        },
+        {
+          "uid": "u0425",
+          "start": 0,
+          "end": 41
+        },
+        {
+          "uid": "u0426",
+          "start": 0,
+          "end": 68
+        },
+        {
+          "uid": "u0427",
+          "start": 0,
+          "end": 89
+        },
+        {
+          "uid": "u0428",
+          "start": 0,
+          "end": 152
+        }
+      ],
+      "text": "All—and there's no reason, like is there any sense of urgency here? I mean presumably—no, there's no rush, right? Like I wouldn't spend day—yes, yeah, I mean, obviously, a few days, but it feels like I want to tell a few stories and hear a few stories. I mean I'm no Kenzo, but still, like—right, it feels a bit like Delwath would want to hear stories, especially Yezali, and, you know, take, just take a day to hang out in the village and like—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0429",
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "text": "Oh yeah, that makes sense."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0430",
+          "start": 0,
+          "end": 53
+        },
+        {
+          "uid": "u0431",
+          "start": 0,
+          "end": 18
+        },
+        {
+          "uid": "u0432",
+          "start": 0,
+          "end": 72
+        },
+        {
+          "uid": "u0433",
+          "start": 0,
+          "end": 32
+        },
+        {
+          "uid": "u0434",
+          "start": 0,
+          "end": 29
+        },
+        {
+          "uid": "u0435",
+          "start": 0,
+          "end": 12
+        },
+        {
+          "uid": "u0436",
+          "start": 0,
+          "end": 23
+        },
+        {
+          "uid": "u0437",
+          "start": 0,
+          "end": 114
+        },
+        {
+          "uid": "u0438",
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "text": "Like, just, just talk, really, basically, right? Like from—just from sort of getting to know these people in these stories, and like, you know, getting—getting to know the new, his new—yeah, the, the, the tanshi who are sort of listening to him, right? Like, and right, just kind of observing their culture, like he's very curious about their culture and sort of feels, right, in some—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0439",
+          "start": 0,
+          "end": 30
+        },
+        {
+          "uid": "u0440",
+          "start": 0,
+          "end": 22
+        },
+        {
+          "uid": "u0441",
+          "start": 0,
+          "end": 230
+        },
+        {
+          "uid": "u0442",
+          "start": 0,
+          "end": 194
+        }
+      ],
+      "text": "There's a lot of similarities to the, to the Te'kula. Yeah, right, which where he spent some time. The difference, a lot of the difference that—I mean the religion is very similar, that they, they worship different tanshi, some different tanshi, like, you know, there's more focused on—you know, they have A'gaza, spirit of the deer and the reindeer and caribou and elk. There's like more fire, like Istari the spirit of the forest fires, and Mo'kati the spirit of like warmth and—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0443",
+          "start": 0,
+          "end": 25
+        },
+        {
+          "uid": "u0444",
+          "start": 0,
+          "end": 27
+        },
+        {
+          "uid": "u0445",
+          "start": 0,
+          "end": 18
+        },
+        {
+          "uid": "u0446",
+          "start": 0,
+          "end": 32
+        },
+        {
+          "uid": "u0447",
+          "start": 0,
+          "end": 4
+        },
+        {
+          "uid": "u0448",
+          "start": 0,
+          "end": 68
+        },
+        {
+          "uid": "u0449",
+          "start": 0,
+          "end": 34
+        },
+        {
+          "uid": "u0450",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "uid": "u0451",
+          "start": 0,
+          "end": 119
+        },
+        {
+          "uid": "u0452",
+          "start": 0,
+          "end": 19
+        }
+      ],
+      "text": "I don't need you to like a whole bunch of lore, but it just—right, and I think Delwath also feels like the—being by himself, he feels more attuned to listening to the culture than he would have in that, in the tenant—Te'kula village, where he was more focused on the aftermath of—I mean there was a lot of treasure counting going, right. Exactly, anything's—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0453",
+          "start": 0,
+          "end": 33
+        }
+      ],
+      "text": "Gotta count half a million coins."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0454",
+          "start": 0,
+          "end": 16
+        }
+      ],
+      "text": "Right, it might—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0455",
+          "start": 0,
+          "end": 21
+        }
+      ],
+      "text": "In neat piles, right."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0456",
+          "start": 0,
+          "end": 75
+        },
+        {
+          "uid": "u0457",
+          "start": 0,
+          "end": 56
+        },
+        {
+          "uid": "u0458",
+          "start": 0,
+          "end": 86
+        }
+      ],
+      "text": "There's no—there's just more kind of, he feels like a little bit on sort of interior journey, like it almost feels like a conversion, right? Right, so he'd spend a little bit of time, like again, it doesn't matter from, from—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0459",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "text": "I don't know."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0460",
+          "start": 0,
+          "end": 97
+        }
+      ],
+      "text": "Any word, I mean it's just a few days, just kind of maybe a day or two, just kind of in the village."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0461",
+          "start": 0,
+          "end": 161
+        },
+        {
+          "uid": "u0462",
+          "start": 0,
+          "end": 110
+        },
+        {
+          "uid": "u0463",
+          "start": 0,
+          "end": 37
+        }
+      ],
+      "text": "Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so [garbled], yeah. And it's a, it's about a day's journey straight down the mountain to the, the hunting camp, where you will meet the stoneborn and the wildfire druid.",
+      "substitutions": [
+        {
+          "uid": "u0461",
+          "start": 144,
+          "end": 154,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0464",
+          "start": 0,
+          "end": 116
+        },
+        {
+          "uid": "u0465",
+          "start": 0,
+          "end": 220
+        },
+        {
+          "uid": "u0466",
+          "start": 0,
+          "end": 168
+        },
+        {
+          "uid": "u0467",
+          "start": 0,
+          "end": 50
+        }
+      ],
+      "text": "And so Enon, the Godcaller, this like old guy in his 70s, like bushy hair, bushy beard, wearing like long robes, um, leaning on a staff, like brings you this set of like shield and armor that he says, you know, \"If you're going into battle on behalf of the Meswati, going down to the Forest of Nightmares, you should, you should take this. Those were worn by a hero of the Great War, a warrior of the tanshi, and have been waiting to be claimed by somebody who will fight for the silent ones for generations. Blessed and will aid you in your fight, I believe.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0468",
+          "start": 0,
+          "end": 11
+        },
+        {
+          "uid": "u0469",
+          "start": 0,
+          "end": 22
+        },
+        {
+          "uid": "u0470",
+          "start": 0,
+          "end": 48
+        },
+        {
+          "uid": "u0471",
+          "start": 0,
+          "end": 16
+        },
+        {
+          "uid": "u0472",
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "text": "\"If you are—if you are seeking to free them from their prisons, perhaps they will hear you better with this.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0473",
+          "start": 0,
+          "end": 186
+        },
+        {
+          "uid": "u0474",
+          "start": 0,
+          "end": 65
+        },
+        {
+          "uid": "u0475",
+          "start": 0,
+          "end": 111
+        },
+        {
+          "uid": "u0476",
+          "start": 0,
+          "end": 209
+        }
+      ],
+      "text": "Now armor is, it's like doesn't really look like armor, right, it looks like sort of buckskin and, and fur trim, but you see as you look at it there's like very finely carved mithral-ish—some whatever they got from the dwarves, right, there close to the—chain links that are like scales that form scale mail but that are sort of blended into the, to the hide of the armor. And the shield, there's—I mean you can make up how it's painted, or it's the standard Deno'qai, sort of brightly colored, decorated with an animal motif, probably a fox or a wolf or something like that."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0477",
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "text": "Can't be a fox."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0478",
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "text": "Why not?"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0479",
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "text": "Too derivative."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0480",
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "text": "Right, cuz—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0481",
+          "start": 0,
+          "end": 42
+        }
+      ],
+      "text": "You can't have another character as a fox—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0482",
+          "start": 0,
+          "end": 16
+        },
+        {
+          "uid": "u0483",
+          "start": 0,
+          "end": 44
+        }
+      ],
+      "text": "Totem animal, ah. Something that hunts in the night, it could—"
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0484",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0485",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "text": "A bear."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0486",
+          "start": 0,
+          "end": 176
+        }
+      ],
+      "text": "Bear or, like the other thing I was thinking about was like a mountain lion or a—boy, yeah, that would be good, like like a mountain lion or like a lynx or something like that."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0487",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "text": "Yeah, bobcat."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0488",
+          "start": 0,
+          "end": 59
+        },
+        {
+          "uid": "u0489",
+          "start": 0,
+          "end": 7
+        },
+        {
+          "uid": "u0490",
+          "start": 0,
+          "end": 55
+        }
+      ],
+      "text": "Bobcat, I think, I think a big cat of some kind is actually—that's—it feels, it feels a little bit—I like, I like a big cat."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0491",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "uid": "u0492",
+          "start": 0,
+          "end": 49
+        },
+        {
+          "uid": "u0493",
+          "start": 0,
+          "end": 117
+        },
+        {
+          "uid": "u0494",
+          "start": 0,
+          "end": 36
+        },
+        {
+          "uid": "u0495",
+          "start": 0,
+          "end": 147
+        },
+        {
+          "uid": "u0496",
+          "start": 0,
+          "end": 64
+        },
+        {
+          "uid": "u0497",
+          "start": 0,
+          "end": 85
+        },
+        {
+          "uid": "u0498",
+          "start": 0,
+          "end": 164
+        }
+      ],
+      "text": "Okay, um, but it's, it's elaborately decorated, so it has—it has this like face of the, of the bobcat on the front, but then it's, it's arrayed around the side with a series of bird motifs of crows and ravens and swallows and nighthawks, like this, basically the sort of twilight nighthawks in particular, the like, you know, birds that fly, agile flyers that, right, dart around at night, you know, hunting insects, and then [garbled], and then it's like bright, you know, on all of this on background of, of, of brightly colored, brightly colored paint where the birds are very stylized, right, the big cat is like central motif and there's just this ring of stylized birds.",
+      "substitutions": [
+        {
+          "uid": "u0497",
+          "start": 0,
+          "end": 12,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0499",
+          "start": 0,
+          "end": 155
+        }
+      ],
+      "text": "So he gives you these things, and then you set off and then that's where we'll pick up when you come to the camp and meet the other characters on Thursday."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0500",
+          "start": 0,
+          "end": 12
+        }
+      ],
+      "text": "Sounds good."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0501",
+          "start": 0,
+          "end": 55
+        },
+        {
+          "uid": "u0502",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "uid": "u0503",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "uid": "u0504",
+          "start": 0,
+          "end": 59
+        },
+        {
+          "uid": "u0505",
+          "start": 0,
+          "end": 13
+        }
+      ],
+      "text": "So mechanically I would say this is mithral scale mail, the armor, and then just a straight shield, which then will get magical as you solve things."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0506",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Okay."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0507",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Okay."
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0508",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Well."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0509",
+          "start": 0,
+          "end": 89
+        },
+        {
+          "uid": "u0510",
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "text": "So I think, yeah, let me know if you think of anything, but I think I've got everything set. Okay, Thursday."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0511",
+          "start": 0,
+          "end": 24
+        },
+        {
+          "uid": "u0512",
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "text": "Alright, [garbled]. Him.",
+      "substitutions": [
+        {
+          "uid": "u0511",
+          "start": 9,
+          "end": 23,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0513",
+          "start": 0,
+          "end": 199
+        },
+        {
+          "uid": "u0514",
+          "start": 0,
+          "end": 23
+        }
+      ],
+      "text": "He hasn't responded to my texts, and I said, \"Hey, do you want me to make a character, or do you want to make a character?\" I suspect he’ll text me on Thursday and say, \"Hey, do you have a character for me?\" Right, and I'll be like,"
+    }
+  ]
+}

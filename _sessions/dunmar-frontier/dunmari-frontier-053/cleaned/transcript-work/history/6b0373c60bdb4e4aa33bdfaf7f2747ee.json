@@ -1,0 +1,16 @@
+{
+  "checks": [
+    "wording",
+    "punctuation",
+    "speaker_turns",
+    "uncertainty",
+    "boundary_continuity"
+  ],
+  "chunkId": "chunk-002",
+  "findings": [],
+  "note": "Compared every turn with the UID wording, all five exact incidental substitutions and both neighboring boundaries. Preserved the Forest of Dreams/Nightmares spoken correction and the inconsistent August timing. Four consequential markers still need concrete human decisions; none was hidden by a substitution. The opening continues Zevi’s explanation and the closing sentence joins chunk-003 with its quotation closed there.",
+  "schemaVersion": 1,
+  "sourceSha256": "7470914b8d86bdf128c0496d19d2a957ca49a6c435e36f6bab212f6333cde043",
+  "stage": "quality",
+  "verdict": "pass"
+}

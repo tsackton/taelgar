@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "stage": "quality",
+  "chunkId": "chunk-003",
+  "sourceSha256": "c1b62ec23ade737b2ea6dfab28e69bd22e58d416433bb54c82c1410fea0d8901",
+  "verdict": "pass",
+  "findings": [],
+  "checks": [
+    "wording",
+    "punctuation",
+    "speaker_turns",
+    "uncertainty",
+    "boundary_continuity"
+  ],
+  "note": "Read every turn against UID source and neighboring turns. Preserved Ohma without replacing it with Jotha, armor and shield details, repeated bird descriptions, and tabletop scheduling. Restored five awkward but potentially intelligible fragments after challenging display substitutions. Remaining five substitutions cover damaged incidental spans only. Opening closes preceding quotation; last turn joins Maybe in chunk-004. Unknown speaker interjections remain unknown."
+}

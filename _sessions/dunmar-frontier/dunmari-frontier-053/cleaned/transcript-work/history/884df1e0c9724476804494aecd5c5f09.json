@@ -1,0 +1,16 @@
+{
+  "checks": [
+    "wording",
+    "punctuation",
+    "speaker_turns",
+    "uncertainty",
+    "boundary_continuity"
+  ],
+  "chunkId": "chunk-002",
+  "findings": [],
+  "note": "Rechecked the fresh job after interior chunk-003 display substitutions were removed. All chunk-002 turns are unchanged from the complete quality inspection; both neighboring boundaries remain faithful, including the closing quotation continued by and the remnants. The four material issues remain explicit and the five incidental substitutions remain narrowly scoped.",
+  "schemaVersion": 1,
+  "sourceSha256": "ab35c131e52ca1c6aefde76799fa7237247586ecaf5e4a1be05f04e00f54f14a",
+  "stage": "quality",
+  "verdict": "pass"
+}

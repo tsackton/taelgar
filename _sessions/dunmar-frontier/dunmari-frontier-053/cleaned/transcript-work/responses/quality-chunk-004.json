@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "stage": "quality",
+  "chunkId": "chunk-004",
+  "sourceSha256": "ec895b93b9d53b47c85a19ef31872f1aab1fd5f441838ec504a6c2a6822d0ce7",
+  "verdict": "pass",
+  "findings": [],
+  "checks": [
+    "wording",
+    "punctuation",
+    "speaker_turns",
+    "uncertainty",
+    "boundary_continuity"
+  ],
+  "note": "Inspected all final 17 UIDs against authored turns and chunk-003 tail. Maybe completes the DM quotation across the chunk boundary. Champion/Arcane Archer discussion, repeated magical, unknown acknowledgments and trailing but are retained; no display substitutions or material questions in this range."
+}

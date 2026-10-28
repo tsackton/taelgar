@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "stage": "polish",
+  "chunkId": "chunk-004",
+  "sourceSha256": "0a1c27170ec944635b257d6ad74eea85208277229393ef7962b7f4c1f2a011bf",
+  "turns": [
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0515",
+          "start": 0,
+          "end": 6
+        }
+      ],
+      "text": "\"Maybe.\"",
+      "joinPrevious": true
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0516",
+          "start": 0,
+          "end": 135
+        },
+        {
+          "uid": "u0517",
+          "start": 0,
+          "end": 7
+        }
+      ],
+      "text": "I have an idea for something I could make quickly that would be a simple, right, like I'm not gonna do anything complicated for him, but I know—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0518",
+          "start": 0,
+          "end": 34
+        }
+      ],
+      "text": "Deno'qai who comes with us easily."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0519",
+          "start": 0,
+          "end": 40
+        }
+      ],
+      "text": "Yeah, that's what it would be, right, just—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0520",
+          "start": 0,
+          "end": 19
+        }
+      ],
+      "text": "Make him a fighter."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0521",
+          "start": 0,
+          "end": 36
+        }
+      ],
+      "text": "I was just gonna make him a fighter."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0522",
+          "start": 0,
+          "end": 28
+        }
+      ],
+      "text": "Champion fighter, no choices."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0523",
+          "start": 0,
+          "end": 50
+        },
+        {
+          "uid": "u0524",
+          "start": 0,
+          "end": 38
+        }
+      ],
+      "text": "I was gonna make him an Arcane Archer, give them a magical, magical arrows he could shoot."
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0525",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0526",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0527",
+          "start": 0,
+          "end": 131
+        }
+      ],
+      "text": "And you don't actually have much range, got two melee fighters and you a spellcaster, so right, an archer would be a good addition."
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0528",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0529",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Okay."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0530",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "uid": "u0531",
+          "start": 0,
+          "end": 18
+        }
+      ],
+      "text": "All right. Yep, that's it, but—"
+    }
+  ]
+}

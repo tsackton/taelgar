@@ -1,0 +1,1245 @@
+{
+  "schemaVersion": 1,
+  "stage": "polish",
+  "chunkId": "chunk-002",
+  "sourceSha256": "83a0cc955b801847da8e91e96fc6787bb9a6f5b45f0d974b5394472c5d892532",
+  "turns": [
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0176",
+          "start": 0,
+          "end": 77
+        }
+      ],
+      "text": "like nobody goes, you can't go to the Forest of Dreams, but the animals live—",
+      "joinPrevious": true
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0177",
+          "start": 0,
+          "end": 106
+        }
+      ],
+      "text": "[garbled] of nightmares or the Forest—Forest of Nightmares, it used to be called Forest of Dreams.",
+      "substitutions": [
+        {
+          "uid": "u0177",
+          "start": 0,
+          "end": 17,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0178",
+          "start": 0,
+          "end": 14
+        }
+      ],
+      "text": "[garbled].",
+      "substitutions": [
+        {
+          "uid": "u0178",
+          "start": 0,
+          "end": 13,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0179",
+          "start": 0,
+          "end": 206
+        },
+        {
+          "uid": "u0180",
+          "start": 0,
+          "end": 74
+        }
+      ],
+      "text": "But the best hunting is, you know, once you get down out of the high mountains, like where that—once you get down to where the birches and maples are, and so they'll set these hunting camps in the fall and hunt and preserve meat and then retreat back to the villages after a week."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0181",
+          "start": 0,
+          "end": 62
+        }
+      ],
+      "text": "Is the Forest of Nightmares where Ainumarya was in the forest?"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0182",
+          "start": 0,
+          "end": 11
+        },
+        {
+          "uid": "u0183",
+          "start": 0,
+          "end": 39
+        },
+        {
+          "uid": "u0184",
+          "start": 0,
+          "end": 69
+        },
+        {
+          "uid": "u0185",
+          "start": 0,
+          "end": 115
+        },
+        {
+          "uid": "u0186",
+          "start": 0,
+          "end": 105
+        }
+      ],
+      "text": "No, no, no. Way to the south—south. This is, this is further north. It's, it's much further north, it's like 500 miles north. The northern end of, right, of Ainumarya, this is like—this was like the forest, that this is like Pandar and then immediately south of Pandar basically was once the Forest of Dreams, but it then basically got destroyed."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0187",
+          "start": 0,
+          "end": 25
+        },
+        {
+          "uid": "u0188",
+          "start": 0,
+          "end": 52
+        },
+        {
+          "uid": "u0189",
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "text": "So this is further north than the map, that is, the world map that I printed. I'm just looking."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0190",
+          "start": 0,
+          "end": 76
+        },
+        {
+          "uid": "u0191",
+          "start": 0,
+          "end": 52
+        },
+        {
+          "uid": "u0192",
+          "start": 0,
+          "end": 41
+        },
+        {
+          "uid": "u0193",
+          "start": 0,
+          "end": 36
+        }
+      ],
+      "text": "Ah, yes, on the print out it doesn't—it's not labeled as the Forest of Dreams. Yeah, that forest up—so you, on the map, you see that like little swampy area at the far north? Yeah, the map, this is just north of—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0194",
+          "start": 0,
+          "end": 27
+        },
+        {
+          "uid": "u0195",
+          "start": 0,
+          "end": 106
+        },
+        {
+          "uid": "u0196",
+          "start": 0,
+          "end": 32
+        }
+      ],
+      "text": "Just north, yeah, yeah, yeah. So, like they don't have any reference, I mean they would—they're just like, this is way to the north, they—Voltara, as far as to the south."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0197",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "uid": "u0198",
+          "start": 0,
+          "end": 74
+        }
+      ],
+      "text": "Yeah. I mean, there are no—nor, they know about Chardon, but they're far enough—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0199",
+          "start": 0,
+          "end": 39
+        }
+      ],
+      "text": "North that they, that that empire isn't—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0200",
+          "start": 0,
+          "end": 92
+        },
+        {
+          "uid": "u0201",
+          "start": 0,
+          "end": 224
+        },
+        {
+          "uid": "u0202",
+          "start": 0,
+          "end": 37
+        }
+      ],
+      "text": "Anywhere close to them. Like the, the most of the trade they have is actually like with them. I mean, if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open plains that where the kenku live, so."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0203",
+          "start": 0,
+          "end": 192
+        },
+        {
+          "uid": "u0204",
+          "start": 0,
+          "end": 73
+        }
+      ],
+      "text": "Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out. So you got that sort of story from this young boy Zevi who's guiding you."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0205",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "uid": "u0206",
+          "start": 0,
+          "end": 135
+        },
+        {
+          "uid": "u0207",
+          "start": 0,
+          "end": 111
+        },
+        {
+          "uid": "u0208",
+          "start": 0,
+          "end": 52
+        },
+        {
+          "uid": "u0209",
+          "start": 0,
+          "end": 127
+        },
+        {
+          "uid": "u0210",
+          "start": 0,
+          "end": 22
+        },
+        {
+          "uid": "u0211",
+          "start": 0,
+          "end": 256
+        }
+      ],
+      "text": "And when you arrive, you know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the—there's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the—it's, you know, everything's A-frames with like log—insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm. There's some reindeer. But, you know, it's very, it's, it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0212",
+          "start": 0,
+          "end": 138
+        },
+        {
+          "uid": "u0213",
+          "start": 0,
+          "end": 82
+        },
+        {
+          "uid": "u0214",
+          "start": 0,
+          "end": 49
+        },
+        {
+          "uid": "u0215",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "uid": "u0216",
+          "start": 0,
+          "end": 178
+        },
+        {
+          "uid": "u0217",
+          "start": 0,
+          "end": 111
+        }
+      ],
+      "text": "As you arrive in the afternoon you're greeted by Ninu, who's the chief and sort of lore keeper of the village, in her late 40s, early 50s. Dirty blonde hair with hints of gray at the temples that she wears loose and long. Dresses in buckskin sort of dyed reds and browns. And like, as when you arrive, like no messenger has gone ahead, but Zevi runs ahead and just like warns people, and there's like a whole gathering of people come to greet you, and they are—you know, there's, it's a, it's October 2, but it's, it's, you know, one of those sort of early fall days that still—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0218",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "uid": "u0219",
+          "start": 0,
+          "end": 36
+        },
+        {
+          "uid": "u0220",
+          "start": 0,
+          "end": 48
+        }
+      ],
+      "text": "Present. I guess we spent a lot of time, and we spent a long time at the Te'kula village too."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0221",
+          "start": 0,
+          "end": 10
+        },
+        {
+          "uid": "u0222",
+          "start": 0,
+          "end": 27
+        }
+      ],
+      "text": "You spent 10 days in the Te'kula, and—"
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0223",
+          "start": 0,
+          "end": 87
+        },
+        {
+          "uid": "u0224",
+          "start": 0,
+          "end": 8
+        }
+      ],
+      "text": "That's actually bad, I really wanted to get down to Grash before he defeated those two. Oh well."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0225",
+          "start": 0,
+          "end": 28
+        },
+        {
+          "uid": "u0226",
+          "start": 0,
+          "end": 30
+        }
+      ],
+      "text": "He hasn't defeated them yet. Well, but [garbled].",
+      "substitutions": [
+        {
+          "uid": "u0226",
+          "start": 10,
+          "end": 29,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0227",
+          "start": 0,
+          "end": 32
+        }
+      ],
+      "text": "No, he said mid-fall, didn't he?"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0228",
+          "start": 0,
+          "end": 124
+        }
+      ],
+      "text": "That's what he said, like in June, right, when you scryed him most recently, he was like, \"Well, we don't have enough troops.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0229",
+          "start": 0,
+          "end": 29
+        }
+      ],
+      "text": "Right, right, right, right, okay."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0230",
+          "start": 0,
+          "end": 28
+        }
+      ],
+      "text": "So you might have some time."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0231",
+          "start": 0,
+          "end": 12
+        },
+        {
+          "uid": "u0232",
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "text": "Yeah, anyway. It's fall."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0233",
+          "start": 0,
+          "end": 174
+        },
+        {
+          "uid": "u0234",
+          "start": 0,
+          "end": 199
+        },
+        {
+          "uid": "u0235",
+          "start": 0,
+          "end": 182
+        },
+        {
+          "uid": "u0236",
+          "start": 0,
+          "end": 54
+        },
+        {
+          "uid": "u0237",
+          "start": 0,
+          "end": 131
+        }
+      ],
+      "text": "Yes, but they're carrying a big table out to the green, they're like clearly setting up a big feast. You see like, you know, freshly butchered deer, there's like pine brandy, like jars of jam being opened, and, you know, like as you're eating or after you eat this sort of elaborate meal she sort of takes you, takes you aside, and she—I mean everybody is kind of, you know, in—not exactly in awe, but like sort of very, you know, excited to see not only an elf but somebody who claims that Yezali is still around, or who claims that Yezali speaks through him. And so you're treated as a guest of honor, and then, um, you know, she, she, she comes up to you sort of in the firelight after dinner and sitting sort of privately and talks to you and says—"
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0238",
+          "start": 0,
+          "end": 13
+        },
+        {
+          "uid": "u0239",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "uid": "u0240",
+          "start": 0,
+          "end": 41
+        },
+        {
+          "uid": "u0241",
+          "start": 0,
+          "end": 72
+        },
+        {
+          "uid": "u0242",
+          "start": 0,
+          "end": 53
+        },
+        {
+          "uid": "u0243",
+          "start": 0,
+          "end": 15
+        }
+      ],
+      "text": "\"We also have thought for some time that the silent ones, the heroes of the Great War, have been imprisoned by some sort of evil power. Whether it was something that the great enemy did or something else.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0244",
+          "start": 0,
+          "end": 23
+        },
+        {
+          "uid": "u0245",
+          "start": 0,
+          "end": 108
+        },
+        {
+          "uid": "u0246",
+          "start": 0,
+          "end": 100
+        },
+        {
+          "uid": "u0247",
+          "start": 0,
+          "end": 53
+        }
+      ],
+      "text": "And she brings out two flat black circlets, armbands ringed with runes, both of which have been melted and bent in half and broken. And since you can read all writing, you can read the runes are an incantation to somebody, a prayer for shadows, for darkness, or ritual for teleportation."
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0248",
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "text": "[garbled].",
+      "substitutions": [
+        {
+          "uid": "u0248",
+          "start": 0,
+          "end": 19,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0249",
+          "start": 0,
+          "end": 17
+        },
+        {
+          "uid": "u0250",
+          "start": 0,
+          "end": 45
+        },
+        {
+          "uid": "u0251",
+          "start": 0,
+          "end": 9
+        }
+      ],
+      "text": "Is obviously the—not exactly familiar, but these are the same. Now, yes."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0252",
+          "start": 0,
+          "end": 182
+        }
+      ],
+      "text": "Yes, so one is decorated with a motif of fire that's dancing around the edge and is, is in fact exactly familiar, like this is the armband that you touched, dragged you to the shadow."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0253",
+          "start": 0,
+          "end": 25
+        }
+      ],
+      "text": "You, Delwath, or—yes, oh."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0254",
+          "start": 0,
+          "end": 18
+        }
+      ],
+      "text": "You, you, Delwath."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0255",
+          "start": 0,
+          "end": 11
+        }
+      ],
+      "text": "Okay, scary."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0256",
+          "start": 0,
+          "end": 62
+        },
+        {
+          "uid": "u0257",
+          "start": 0,
+          "end": 56
+        }
+      ],
+      "text": "The other is unfamiliar, I mean it's the same design, but that—nothing you've seen before. [garbled].",
+      "substitutions": [
+        {
+          "uid": "u0257",
+          "start": 28,
+          "end": 55,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span."
+        }
+      ]
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0258",
+          "start": 0,
+          "end": 65
+        },
+        {
+          "uid": "u0259",
+          "start": 0,
+          "end": 86
+        }
+      ],
+      "text": "When he sees that armband he'll like draw back a moment and like almost like stumble back and then kind of catch himself and say, \"I've seen that before.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0260",
+          "start": 0,
+          "end": 93
+        },
+        {
+          "uid": "u0261",
+          "start": 0,
+          "end": 132
+        },
+        {
+          "uid": "u0262",
+          "start": 0,
+          "end": 57
+        },
+        {
+          "uid": "u0263",
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "text": "\"This one—\" She holds up the fire. \"This was found far to the south, south of the Blackwater Fens. We thought nothing of it for many years. It ended up in our village, maybe a generation ago after having been traded. We could never melt it down or forge it into anything useful, so it sat. Is this familiar to you?\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0264",
+          "start": 0,
+          "end": 56
+        },
+        {
+          "uid": "u0265",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "uid": "u0266",
+          "start": 0,
+          "end": 94
+        }
+      ],
+      "text": "\"It is what sent me to the prison where I was imprisoned. A prison perhaps is—the armies I was fighting, it was a pathway, a door to a place where they could travel quickly.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0267",
+          "start": 0,
+          "end": 72
+        },
+        {
+          "uid": "u0268",
+          "start": 0,
+          "end": 15
+        },
+        {
+          "uid": "u0269",
+          "start": 0,
+          "end": 30
+        },
+        {
+          "uid": "u0270",
+          "start": 0,
+          "end": 126
+        },
+        {
+          "uid": "u0271",
+          "start": 0,
+          "end": 14
+        },
+        {
+          "uid": "u0272",
+          "start": 0,
+          "end": 24
+        }
+      ],
+      "text": "\"This one was destroyed more than a year ago now—August, the past summer. There was a—is a man, one of our Deno'qai, a man blessed by the spirit of Istari, the tanshi of forest fires, who can control the flames, and he passed through inside and did something. Made it split and crack.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0273",
+          "start": 0,
+          "end": 21
+        },
+        {
+          "uid": "u0274",
+          "start": 0,
+          "end": 29
+        }
+      ],
+      "text": "I assume that's when Delwath fell through the sky."
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0275",
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "text": "Yes."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0276",
+          "start": 0,
+          "end": 120
+        }
+      ],
+      "text": "I will—Delwath will ask her a series of questions, try and pinpoint exactly what, like what was the, what was the date."
+    },
+    {
+      "speaker": "Unknown",
+      "sources": [
+        {
+          "uid": "u0277",
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "text": "Yeah."
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0278",
+          "start": 0,
+          "end": 61
+        }
+      ],
+      "text": "Yeah, it's exactly the day that the {{Dunbar}} was destroyed."
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0279",
+          "start": 0,
+          "end": 3
+        },
+        {
+          "uid": "u0280",
+          "start": 0,
+          "end": 14
+        },
+        {
+          "uid": "u0281",
+          "start": 0,
+          "end": 9
+        },
+        {
+          "uid": "u0282",
+          "start": 0,
+          "end": 45
+        },
+        {
+          "uid": "u0283",
+          "start": 0,
+          "end": 72
+        }
+      ],
+      "text": "So, I'll say that, \"That day I fell from the, from the sky. I fell from the place of shadows where I was trapped that very day this was destroyed.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0284",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "uid": "u0285",
+          "start": 0,
+          "end": 16
+        }
+      ],
+      "text": "\"You did? That is amazing.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0286",
+          "start": 0,
+          "end": 119
+        },
+        {
+          "uid": "u0287",
+          "start": 0,
+          "end": 3
+        },
+        {
+          "uid": "u0288",
+          "start": 0,
+          "end": 21
+        },
+        {
+          "uid": "u0289",
+          "start": 0,
+          "end": 58
+        },
+        {
+          "uid": "u0290",
+          "start": 0,
+          "end": 144
+        },
+        {
+          "uid": "u0291",
+          "start": 0,
+          "end": 101
+        },
+        {
+          "uid": "u0292",
+          "start": 0,
+          "end": 25
+        },
+        {
+          "uid": "u0293",
+          "start": 0,
+          "end": 46
+        },
+        {
+          "uid": "u0294",
+          "start": 0,
+          "end": 64
+        },
+        {
+          "uid": "u0295",
+          "start": 0,
+          "end": 20
+        }
+      ],
+      "text": "\"The second one was worn by some kind of deathless warlock that attacked a hunting camp on the slopes a few years back. And, well, in that battle a warrior from the village was gravely wounded near death and grasped that deathless creature to hold it to the ground for her companions to butcher with their swords and axes. But as she did, bleeding, close to death, on the edge of consciousness, she touched the circlet and vanished, and we had hoped, beyond hope perhaps, that when this was destroyed at the same time that the one you say freed you was destroyed, maybe she would return. And yet she has not.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0296",
+          "start": 0,
+          "end": 11
+        },
+        {
+          "uid": "u0297",
+          "start": 0,
+          "end": 39
+        },
+        {
+          "uid": "u0298",
+          "start": 0,
+          "end": 16
+        }
+      ],
+      "text": "\"I returned more than 1000 miles from where I left. Perhaps she has.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0299",
+          "start": 0,
+          "end": 47
+        },
+        {
+          "uid": "u0300",
+          "start": 0,
+          "end": 34
+        }
+      ],
+      "text": "\"So perhaps she is alive somewhere in the world. That is, rather than being trapped.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0301",
+          "start": 0,
+          "end": 5
+        },
+        {
+          "uid": "u0302",
+          "start": 0,
+          "end": 116
+        },
+        {
+          "uid": "u0303",
+          "start": 0,
+          "end": 46
+        },
+        {
+          "uid": "u0304",
+          "start": 0,
+          "end": 105
+        }
+      ],
+      "text": "\"Well, we thought, until we destroyed these and nothing happened, we thought perhaps there was some connection between these, these talismans of shadow and the prison that has trapped the silent ones. But now you say, {{maybe destroying them has some time, maybe good return}}.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0305",
+          "start": 0,
+          "end": 13
+        },
+        {
+          "uid": "u0306",
+          "start": 0,
+          "end": 27
+        },
+        {
+          "uid": "u0307",
+          "start": 0,
+          "end": 58
+        }
+      ],
+      "text": "\"Yes, I'm, I'm pretty sure. I'm sure of it. It's the only thing I can think of that would explain it.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0308",
+          "start": 0,
+          "end": 52
+        }
+      ],
+      "text": "\"And you say Yezali was trapped by a similar armband?\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0309",
+          "start": 0,
+          "end": 47
+        },
+        {
+          "uid": "u0310",
+          "start": 0,
+          "end": 16
+        },
+        {
+          "uid": "u0311",
+          "start": 0,
+          "end": 55
+        },
+        {
+          "uid": "u0312",
+          "start": 0,
+          "end": 43
+        },
+        {
+          "uid": "u0313",
+          "start": 0,
+          "end": 33
+        },
+        {
+          "uid": "u0314",
+          "start": 0,
+          "end": 23
+        },
+        {
+          "uid": "u0315",
+          "start": 0,
+          "end": 8
+        },
+        {
+          "uid": "u0316",
+          "start": 0,
+          "end": 74
+        }
+      ],
+      "text": "\"Yes, when he—when they fought the great demons as a wolf and a eagle and a fox and other creatures that hunt at night, tearing through this creature's flesh, but—not, but being torn apart as well, feeling close to death, tore at some general or—and touched one of these very bands. I saw it in a vision.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0317",
+          "start": 0,
+          "end": 44
+        },
+        {
+          "uid": "u0318",
+          "start": 0,
+          "end": 48
+        },
+        {
+          "uid": "u0319",
+          "start": 0,
+          "end": 130
+        }
+      ],
+      "text": "\"That is the story of the Battle of Darkfire. The other silent ones fought in battles as well. The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0320",
+          "start": 0,
+          "end": 194
+        },
+        {
+          "uid": "u0321",
+          "start": 0,
+          "end": 26
+        },
+        {
+          "uid": "u0322",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "uid": "u0323",
+          "start": 0,
+          "end": 100
+        }
+      ],
+      "text": "\"The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter. The battle of the Yemo'te, where Midri and K'onisati fell silent, protecting the crossing of the river from endless hobgoblin hordes.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0324",
+          "start": 0,
+          "end": 6
+        },
+        {
+          "uid": "u0325",
+          "start": 0,
+          "end": 49
+        },
+        {
+          "uid": "u0326",
+          "start": 0,
+          "end": 28
+        },
+        {
+          "uid": "u0327",
+          "start": 0,
+          "end": 36
+        }
+      ],
+      "text": "\"Maybe—maybe there are circlets like these that trapped the rest of the silent ones. This is how you say Yezali vanished.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0328",
+          "start": 0,
+          "end": 31
+        },
+        {
+          "uid": "u0329",
+          "start": 0,
+          "end": 78
+        },
+        {
+          "uid": "u0330",
+          "start": 0,
+          "end": 26
+        }
+      ],
+      "text": "\"Yes, I suspect there are. It, it may be too much to hope that they are all trapped, none of them truly perished. But at least some must be.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0331",
+          "start": 0,
+          "end": 46
+        },
+        {
+          "uid": "u0332",
+          "start": 0,
+          "end": 33
+        }
+      ],
+      "text": "\"I'm not sure I believe a tanshi can truly die, as long as they're not forgotten.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0333",
+          "start": 0,
+          "end": 17
+        }
+      ],
+      "text": "\"That may be true.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0334",
+          "start": 0,
+          "end": 40
+        },
+        {
+          "uid": "u0335",
+          "start": 0,
+          "end": 37
+        }
+      ],
+      "text": "\"But silent ones are our greatest heroes. They will certainly not be forgotten.\""
+    },
+    {
+      "speaker": "Delwath",
+      "sources": [
+        {
+          "uid": "u0336",
+          "start": 0,
+          "end": 35
+        },
+        {
+          "uid": "u0337",
+          "start": 0,
+          "end": 20
+        },
+        {
+          "uid": "u0338",
+          "start": 0,
+          "end": 29
+        }
+      ],
+      "text": "\"The might arrayed against them was unimaginable to one generation separated from it.\""
+    },
+    {
+      "speaker": "DM",
+      "sources": [
+        {
+          "uid": "u0339",
+          "start": 0,
+          "end": 18
+        },
+        {
+          "uid": "u0340",
+          "start": 0,
+          "end": 62
+        }
+      ],
+      "text": "\"Perhaps that it's—only the stories of those dark times have come down to us now,"
+    }
+  ]
+}

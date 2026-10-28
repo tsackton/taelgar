@@ -1,0 +1,4542 @@
+{
+  "attributions": [],
+  "chunk": {
+    "endUid": "u0340",
+    "id": "chunk-002",
+    "startUid": "u0176"
+  },
+  "context": [
+    {
+      "header": "[u0174 | 00:16:27.930-00:16:38.070 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right, legend, that Yezali sacrificed himself, themselves, with them during the Battle of Darkfire to prevent the forest from burning entirely.",
+      "timing": "00:16:27.930-00:16:38.070",
+      "uid": "u0174"
+    },
+    {
+      "header": "[u0175 | 00:16:40.440-00:16:50.160 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So everybody's like super like kind of in awe at this point, and so you spend the—so also Zevi talks on this, a couple of days' journey, about how.",
+      "timing": "00:16:40.440-00:16:50.160",
+      "uid": "u0175"
+    },
+    {
+      "header": "[u0176 | 00:16:51.240-00:16:56.190 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like nobody goes, you can't go to the Forest of Dreams, but the animals live.",
+      "timing": "00:16:51.240-00:16:56.190",
+      "uid": "u0176"
+    },
+    {
+      "header": "[u0177 | 00:16:56.370-00:17:01.680 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The best hundreds of nightmares or the Forest—Forest of Nightmares, it used to be called Forest of Dreams.",
+      "timing": "00:16:56.370-00:17:01.680",
+      "uid": "u0177"
+    },
+    {
+      "header": "[u0178 | 00:17:02.280-00:17:03.060 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "now before us.",
+      "timing": "00:17:02.280-00:17:03.060",
+      "uid": "u0178"
+    },
+    {
+      "header": "[u0179 | 00:17:04.500-00:17:17.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But the best hunting is, you know, once you get down out of the high mountains, like where that—once you get down to where the birches and maples are, and so they'll set these hunting camps in the fall and.",
+      "timing": "00:17:04.500-00:17:17.340",
+      "uid": "u0179"
+    },
+    {
+      "header": "[u0180 | 00:17:18.960-00:17:24.330 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Hunt and preserve meat and then retreat back to the villages after a week.",
+      "timing": "00:17:18.960-00:17:24.330",
+      "uid": "u0180"
+    },
+    {
+      "header": "[u0181 | 00:17:24.600-00:17:30.420 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Is the Forest of Nightmares where Ainumarya was in the forest?",
+      "timing": "00:17:24.600-00:17:30.420",
+      "uid": "u0181"
+    },
+    {
+      "header": "[u0182 | 00:17:30.630-00:17:31.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "No, no, no.",
+      "timing": "00:17:30.630-00:17:31.470",
+      "uid": "u0182"
+    },
+    {
+      "header": "[u0183 | 00:17:31.860-00:17:34.530 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "way to the south South this is this is.",
+      "timing": "00:17:31.860-00:17:34.530",
+      "uid": "u0183"
+    },
+    {
+      "header": "[u0184 | 00:17:35.430-00:17:42.390 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "further north it's it's much further north it's like 500 miles north.",
+      "timing": "00:17:35.430-00:17:42.390",
+      "uid": "u0184"
+    },
+    {
+      "header": "[u0185 | 00:17:43.410-00:17:52.170 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The northern end of, right, of Ainumarya, this is like this was like the forest, that this is like Pandar and then.",
+      "timing": "00:17:43.410-00:17:52.170",
+      "uid": "u0185"
+    },
+    {
+      "header": "[u0186 | 00:17:53.760-00:18:00.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Immediately south of Pandar basically was once the Forest of Dreams, but it then basically got destroyed.",
+      "timing": "00:17:53.760-00:18:00.540",
+      "uid": "u0186"
+    },
+    {
+      "header": "[u0187 | 00:18:00.930-00:18:02.580 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So this is further north.",
+      "timing": "00:18:00.930-00:18:02.580",
+      "uid": "u0187"
+    },
+    {
+      "header": "[u0188 | 00:18:02.610-00:18:06.630 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "than the map, that is, the world map that I printed.",
+      "timing": "00:18:02.610-00:18:06.630",
+      "uid": "u0188"
+    },
+    {
+      "header": "[u0189 | 00:18:10.380-00:18:10.980 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I'm just looking.",
+      "timing": "00:18:10.380-00:18:10.980",
+      "uid": "u0189"
+    },
+    {
+      "header": "[u0190 | 00:18:11.070-00:18:16.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Ah yes on the print out it doesn't it's not labeled as the forest of dreams.",
+      "timing": "00:18:11.070-00:18:16.410",
+      "uid": "u0190"
+    },
+    {
+      "header": "[u0191 | 00:18:16.800-00:18:21.360 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah that forest up so you on the map, you see that.",
+      "timing": "00:18:16.800-00:18:21.360",
+      "uid": "u0191"
+    },
+    {
+      "header": "[u0192 | 00:18:22.590-00:18:25.110 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like little swampy area at the far north.",
+      "timing": "00:18:22.590-00:18:25.110",
+      "uid": "u0192"
+    },
+    {
+      "header": "[u0193 | 00:18:25.140-00:18:27.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah the map, this is just north of.",
+      "timing": "00:18:25.140-00:18:27.840",
+      "uid": "u0193"
+    },
+    {
+      "header": "[u0194 | 00:18:27.960-00:18:29.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Just north, yeah yeah yeah.",
+      "timing": "00:18:27.960-00:18:29.280",
+      "uid": "u0194"
+    },
+    {
+      "header": "[u0195 | 00:18:31.830-00:18:37.470 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So, like they don't have any reference I mean they would they're just like this is way to the north, they.",
+      "timing": "00:18:31.830-00:18:37.470",
+      "uid": "u0195"
+    },
+    {
+      "header": "[u0196 | 00:18:38.490-00:18:40.380 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Voltara, as far as to the south.",
+      "timing": "00:18:38.490-00:18:40.380",
+      "uid": "u0196"
+    },
+    {
+      "header": "[u0197 | 00:18:42.030-00:18:42.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah.",
+      "timing": "00:18:42.030-00:18:42.450",
+      "uid": "u0197"
+    },
+    {
+      "header": "[u0198 | 00:18:42.480-00:18:47.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I mean, there are no—nor, they know about Chardon, but they're far enough.",
+      "timing": "00:18:42.480-00:18:47.340",
+      "uid": "u0198"
+    },
+    {
+      "header": "[u0199 | 00:18:47.400-00:18:49.740 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "North that they that that empire isn't.",
+      "timing": "00:18:47.400-00:18:49.740",
+      "uid": "u0199"
+    },
+    {
+      "header": "[u0200 | 00:18:49.890-00:18:56.460 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "anywhere close to them like the the most of the trade, they have is actually like with them.",
+      "timing": "00:18:49.890-00:18:56.460",
+      "uid": "u0200"
+    },
+    {
+      "header": "[u0201 | 00:18:57.780-00:19:08.490 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open.",
+      "timing": "00:18:57.780-00:19:08.490",
+      "uid": "u0201"
+    },
+    {
+      "header": "[u0202 | 00:19:09.150-00:19:11.640 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Plains that where the kenku live, so.",
+      "timing": "00:19:09.150-00:19:11.640",
+      "uid": "u0202"
+    },
+    {
+      "header": "[u0203 | 00:19:12.960-00:19:26.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out.",
+      "timing": "00:19:12.960-00:19:26.670",
+      "uid": "u0203"
+    },
+    {
+      "header": "[u0204 | 00:19:28.530-00:19:34.140 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So you got that sort of story from this young boy Zevi who's guiding you.",
+      "timing": "00:19:28.530-00:19:34.140",
+      "uid": "u0204"
+    },
+    {
+      "header": "[u0205 | 00:19:36.060-00:19:37.170 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And when you arrive.",
+      "timing": "00:19:36.060-00:19:37.170",
+      "uid": "u0205"
+    },
+    {
+      "header": "[u0206 | 00:19:38.430-00:19:46.950 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the.",
+      "timing": "00:19:38.430-00:19:46.950",
+      "uid": "u0206"
+    },
+    {
+      "header": "[u0207 | 00:19:46.980-00:19:55.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the.",
+      "timing": "00:19:46.980-00:19:55.410",
+      "uid": "u0207"
+    },
+    {
+      "header": "[u0208 | 00:19:56.850-00:20:01.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "It's, you know, everything's A-frames with like log.",
+      "timing": "00:19:56.850-00:20:01.230",
+      "uid": "u0208"
+    },
+    {
+      "header": "[u0209 | 00:20:01.650-00:20:09.090 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm.",
+      "timing": "00:20:01.650-00:20:09.090",
+      "uid": "u0209"
+    },
+    {
+      "header": "[u0210 | 00:20:09.630-00:20:11.490 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "there's some reindeer.",
+      "timing": "00:20:09.630-00:20:11.490",
+      "uid": "u0210"
+    },
+    {
+      "header": "[u0211 | 00:20:14.550-00:20:34.050 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But you know it's very, it's it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place.",
+      "timing": "00:20:14.550-00:20:34.050",
+      "uid": "u0211"
+    },
+    {
+      "header": "[u0212 | 00:20:35.790-00:20:45.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "As you arrive in the afternoon you're greeted by Ninu, who's the chief and sort of lore keeper of the village, in her late 40s, early 50s.",
+      "timing": "00:20:35.790-00:20:45.450",
+      "uid": "u0212"
+    },
+    {
+      "header": "[u0213 | 00:20:47.460-00:20:51.810 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Dirty blonde hair with hints of gray at the temples that she wears loose and long.",
+      "timing": "00:20:47.460-00:20:51.810",
+      "uid": "u0213"
+    },
+    {
+      "header": "[u0214 | 00:20:53.100-00:20:56.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Dresses in buckskin sort of dyed reds and browns.",
+      "timing": "00:20:53.100-00:20:56.550",
+      "uid": "u0214"
+    },
+    {
+      "header": "[u0215 | 00:20:57.840-00:20:58.590 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And like.",
+      "timing": "00:20:57.840-00:20:58.590",
+      "uid": "u0215"
+    },
+    {
+      "header": "[u0216 | 00:21:01.470-00:21:11.610 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "As when you arrive like no messenger has gone ahead, but Zevi runs ahead and just like warns people, and there's like a whole gathering of people come to greet you, and they are.",
+      "timing": "00:21:01.470-00:21:11.610",
+      "uid": "u0216"
+    },
+    {
+      "header": "[u0217 | 00:21:13.590-00:21:20.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know there's it's a it's October 2 but it's it's you know, one of those sort of early fall days that still.",
+      "timing": "00:21:13.590-00:21:20.970",
+      "uid": "u0217"
+    },
+    {
+      "header": "[u0218 | 00:21:20.970-00:21:21.360 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "present.",
+      "timing": "00:21:20.970-00:21:21.360",
+      "uid": "u0218"
+    },
+    {
+      "header": "[u0219 | 00:21:22.110-00:21:23.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I guess, we spent a lot of time and.",
+      "timing": "00:21:22.110-00:21:23.940",
+      "uid": "u0219"
+    },
+    {
+      "header": "[u0220 | 00:21:24.840-00:21:27.240 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "We spent a long time at the Te'kula village too.",
+      "timing": "00:21:24.840-00:21:27.240",
+      "uid": "u0220"
+    },
+    {
+      "header": "[u0221 | 00:21:27.570-00:21:28.080 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You spent.",
+      "timing": "00:21:27.570-00:21:28.080",
+      "uid": "u0221"
+    },
+    {
+      "header": "[u0222 | 00:21:28.110-00:21:29.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "10 days in the Te'kula and.",
+      "timing": "00:21:28.110-00:21:29.550",
+      "uid": "u0222"
+    },
+    {
+      "header": "[u0223 | 00:21:29.700-00:21:34.320 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That's actually bad, I really wanted to get down to Grash before he defeated those two.",
+      "timing": "00:21:29.700-00:21:34.320",
+      "uid": "u0223"
+    },
+    {
+      "header": "[u0224 | 00:21:35.160-00:21:35.460 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Oh well.",
+      "timing": "00:21:35.160-00:21:35.460",
+      "uid": "u0224"
+    },
+    {
+      "header": "[u0225 | 00:21:36.180-00:21:37.500 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "He hasn't defeated them yet.",
+      "timing": "00:21:36.180-00:21:37.500",
+      "uid": "u0225"
+    },
+    {
+      "header": "[u0226 | 00:21:37.830-00:21:39.390 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Well, but we probably hear me.",
+      "timing": "00:21:37.830-00:21:39.390",
+      "uid": "u0226"
+    },
+    {
+      "header": "[u0227 | 00:21:41.280-00:21:43.530 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "No, he said mid-fall, didn't he?",
+      "timing": "00:21:41.280-00:21:43.530",
+      "uid": "u0227"
+    },
+    {
+      "header": "[u0228 | 00:21:44.190-00:21:52.830 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That's what he said, like in June, right, when you scryed him most recently, he was like, well, we don't have enough troops.",
+      "timing": "00:21:44.190-00:21:52.830",
+      "uid": "u0228"
+    },
+    {
+      "header": "[u0229 | 00:21:52.860-00:21:55.110 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right right right right okay.",
+      "timing": "00:21:52.860-00:21:55.110",
+      "uid": "u0229"
+    },
+    {
+      "header": "[u0230 | 00:21:55.980-00:21:57.120 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So you might have some time.",
+      "timing": "00:21:55.980-00:21:57.120",
+      "uid": "u0230"
+    },
+    {
+      "header": "[u0231 | 00:21:57.390-00:21:58.710 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "yeah anyway.",
+      "timing": "00:21:57.390-00:21:58.710",
+      "uid": "u0231"
+    },
+    {
+      "header": "[u0232 | 00:21:58.950-00:21:59.370 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "it's fall.",
+      "timing": "00:21:58.950-00:21:59.370",
+      "uid": "u0232"
+    },
+    {
+      "header": "[u0233 | 00:22:00.450-00:22:12.420 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yes, but they're carrying a big table out to the green, they're like clearly setting up a big feast. You see like, you know, freshly butchered deer, there's like pine brandy.",
+      "timing": "00:22:00.450-00:22:12.420",
+      "uid": "u0233"
+    },
+    {
+      "header": "[u0234 | 00:22:14.760-00:22:30.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like jars of jam being opened, and you know, like as you're eating or after you eat this sort of elaborate meal she sort of takes you takes you aside and she I mean everybody is kind of you know, in.",
+      "timing": "00:22:14.760-00:22:30.210",
+      "uid": "u0234"
+    },
+    {
+      "header": "[u0235 | 00:22:34.620-00:22:45.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Not exactly in awe, but like sort of very, you know, excited to see not only an elf but somebody who claims that Yezali is still around, or who claims that Yezali speaks through him.",
+      "timing": "00:22:34.620-00:22:45.540",
+      "uid": "u0235"
+    },
+    {
+      "header": "[u0236 | 00:22:46.830-00:22:50.370 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And so you're treated as a guest of honor and then um.",
+      "timing": "00:22:46.830-00:22:50.370",
+      "uid": "u0236"
+    },
+    {
+      "header": "[u0237 | 00:22:51.900-00:22:58.770 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know she she she comes up to you sort of in the firelight after dinner and sitting sort of privately and talks to you and says.",
+      "timing": "00:22:51.900-00:22:58.770",
+      "uid": "u0237"
+    },
+    {
+      "header": "[u0238 | 00:23:00.690-00:23:01.740 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We also have.",
+      "timing": "00:23:00.690-00:23:01.740",
+      "uid": "u0238"
+    },
+    {
+      "header": "[u0239 | 00:23:02.880-00:23:03.600 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Thought.",
+      "timing": "00:23:02.880-00:23:03.600",
+      "uid": "u0239"
+    },
+    {
+      "header": "[u0240 | 00:23:05.400-00:23:09.720 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "For some time, that the silent ones, the.",
+      "timing": "00:23:05.400-00:23:09.720",
+      "uid": "u0240"
+    },
+    {
+      "header": "[u0241 | 00:23:11.430-00:23:17.760 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "heroes of the great war have been imprisoned by some sort of evil power.",
+      "timing": "00:23:11.430-00:23:17.760",
+      "uid": "u0241"
+    },
+    {
+      "header": "[u0242 | 00:23:20.130-00:23:22.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Whether it was something that the great enemy did or.",
+      "timing": "00:23:20.130-00:23:22.980",
+      "uid": "u0242"
+    },
+    {
+      "header": "[u0243 | 00:23:24.990-00:23:26.070 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Something else.",
+      "timing": "00:23:24.990-00:23:26.070",
+      "uid": "u0243"
+    },
+    {
+      "header": "[u0244 | 00:23:30.570-00:23:32.910 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And she brings out two.",
+      "timing": "00:23:30.570-00:23:32.910",
+      "uid": "u0244"
+    },
+    {
+      "header": "[u0245 | 00:23:34.230-00:23:45.900 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Flat black circlets, armbands ringed with runes, both of which have been melted and bent in half and broken.",
+      "timing": "00:23:34.230-00:23:45.900",
+      "uid": "u0245"
+    },
+    {
+      "header": "[u0246 | 00:23:47.910-00:23:52.890 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And since you can read all writing, you can read the runes are an incantation to somebody, a prayer.",
+      "timing": "00:23:47.910-00:23:52.890",
+      "uid": "u0246"
+    },
+    {
+      "header": "[u0247 | 00:23:54.090-00:23:57.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "For shadows for darkness or ritual for teleportation.",
+      "timing": "00:23:54.090-00:23:57.540",
+      "uid": "u0247"
+    },
+    {
+      "header": "[u0248 | 00:23:57.930-00:23:59.070 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "Is one that's daily.",
+      "timing": "00:23:57.930-00:23:59.070",
+      "uid": "u0248"
+    },
+    {
+      "header": "[u0249 | 00:24:00.390-00:24:01.620 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "is obviously the.",
+      "timing": "00:24:00.390-00:24:01.620",
+      "uid": "u0249"
+    },
+    {
+      "header": "[u0250 | 00:24:01.920-00:24:04.200 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "not exactly familiar, but these are the same.",
+      "timing": "00:24:01.920-00:24:04.200",
+      "uid": "u0250"
+    },
+    {
+      "header": "[u0251 | 00:24:05.820-00:24:06.480 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Now, yes.",
+      "timing": "00:24:05.820-00:24:06.480",
+      "uid": "u0251"
+    },
+    {
+      "header": "[u0252 | 00:24:07.020-00:24:19.860 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yes, so one is decorated with a motif of fire that's dancing around the edge and is is in fact exactly familiar, like this is the armband that you touched, dragged you to the shadow.",
+      "timing": "00:24:07.020-00:24:19.860",
+      "uid": "u0252"
+    },
+    {
+      "header": "[u0253 | 00:24:20.100-00:24:21.570 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "You, Delwath, or—yes, oh.",
+      "timing": "00:24:20.100-00:24:21.570",
+      "uid": "u0253"
+    },
+    {
+      "header": "[u0254 | 00:24:21.630-00:24:22.860 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You, you, Delwath.",
+      "timing": "00:24:21.630-00:24:22.860",
+      "uid": "u0254"
+    },
+    {
+      "header": "[u0255 | 00:24:23.250-00:24:24.450 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Okay scary.",
+      "timing": "00:24:23.250-00:24:24.450",
+      "uid": "u0255"
+    },
+    {
+      "header": "[u0256 | 00:24:25.950-00:24:28.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The other is unfamiliar I mean it's the same design, but that.",
+      "timing": "00:24:25.950-00:24:28.470",
+      "uid": "u0256"
+    },
+    {
+      "header": "[u0257 | 00:24:28.470-00:24:31.530 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Nothing you've seen before. her now it'll actually here.",
+      "timing": "00:24:28.470-00:24:31.530",
+      "uid": "u0257"
+    },
+    {
+      "header": "[u0258 | 00:24:32.130-00:24:36.600 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "When he sees that armband he'll like draw back a moment and like.",
+      "timing": "00:24:32.130-00:24:36.600",
+      "uid": "u0258"
+    },
+    {
+      "header": "[u0259 | 00:24:38.760-00:24:44.490 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "almost like stumble back and then kind of catch himself and say I've seen that before.",
+      "timing": "00:24:38.760-00:24:44.490",
+      "uid": "u0259"
+    },
+    {
+      "header": "[u0260 | 00:24:46.500-00:24:52.620 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This one—she holds up the fire—this was found far to the south, south of the Blackwater Fens.",
+      "timing": "00:24:46.500-00:24:52.620",
+      "uid": "u0260"
+    },
+    {
+      "header": "[u0261 | 00:24:54.000-00:25:03.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We thought nothing of it for many years it ended up in our village, maybe a generation ago after having been traded, we could never.",
+      "timing": "00:24:54.000-00:25:03.840",
+      "uid": "u0261"
+    },
+    {
+      "header": "[u0262 | 00:25:05.100-00:25:09.180 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Melt it down or forge it into anything useful, so it sat.",
+      "timing": "00:25:05.100-00:25:09.180",
+      "uid": "u0262"
+    },
+    {
+      "header": "[u0263 | 00:25:12.120-00:25:13.800 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Is this familiar to you?",
+      "timing": "00:25:12.120-00:25:13.800",
+      "uid": "u0263"
+    },
+    {
+      "header": "[u0264 | 00:25:16.830-00:25:19.650 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "It is what sent me to the prison where I was imprisoned.",
+      "timing": "00:25:16.830-00:25:19.650",
+      "uid": "u0264"
+    },
+    {
+      "header": "[u0265 | 00:25:22.500-00:25:24.060 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "A prison perhaps is.",
+      "timing": "00:25:22.500-00:25:24.060",
+      "uid": "u0265"
+    },
+    {
+      "header": "[u0266 | 00:25:25.920-00:25:32.040 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The armies, I was fighting it was a pathway a door to a place where they could travel quickly.",
+      "timing": "00:25:25.920-00:25:32.040",
+      "uid": "u0266"
+    },
+    {
+      "header": "[u0267 | 00:25:37.230-00:25:44.310 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This one was destroyed more than a year ago now August, the past summer.",
+      "timing": "00:25:37.230-00:25:44.310",
+      "uid": "u0267"
+    },
+    {
+      "header": "[u0268 | 00:25:48.420-00:25:50.310 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There was a is.",
+      "timing": "00:25:48.420-00:25:50.310",
+      "uid": "u0268"
+    },
+    {
+      "header": "[u0269 | 00:25:51.720-00:25:54.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A man, one of our Deno'qai, a.",
+      "timing": "00:25:51.720-00:25:54.450",
+      "uid": "u0269"
+    },
+    {
+      "header": "[u0270 | 00:25:56.400-00:26:04.620 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Man blessed by the spirit of Istari, the tanshi of forest fires, who can control the flames, and he passed through inside and.",
+      "timing": "00:25:56.400-00:26:04.620",
+      "uid": "u0270"
+    },
+    {
+      "header": "[u0271 | 00:26:05.910-00:26:06.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Did something.",
+      "timing": "00:26:05.910-00:26:06.870",
+      "uid": "u0271"
+    },
+    {
+      "header": "[u0272 | 00:26:07.680-00:26:09.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Made it split and crack.",
+      "timing": "00:26:07.680-00:26:09.540",
+      "uid": "u0272"
+    },
+    {
+      "header": "[u0273 | 00:26:09.780-00:26:10.950 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I assume that's when.",
+      "timing": "00:26:09.780-00:26:10.950",
+      "uid": "u0273"
+    },
+    {
+      "header": "[u0274 | 00:26:12.630-00:26:13.740 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Delwath fell through the sky.",
+      "timing": "00:26:12.630-00:26:13.740",
+      "uid": "u0274"
+    },
+    {
+      "header": "[u0275 | 00:26:14.580-00:26:15.030 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "Yes.",
+      "timing": "00:26:14.580-00:26:15.030",
+      "uid": "u0275"
+    },
+    {
+      "header": "[u0276 | 00:26:16.470-00:26:22.710 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I will, Delwath will ask her a series of questions, try and pinpoint exactly what, like what was the, what was the date.",
+      "timing": "00:26:16.470-00:26:22.710",
+      "uid": "u0276"
+    },
+    {
+      "header": "[u0277 | 00:26:23.490-00:26:23.910 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:26:23.490-00:26:23.910",
+      "uid": "u0277"
+    },
+    {
+      "header": "[u0278 | 00:26:25.020-00:26:29.490 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yeah, it's exactly the day that the {{Dunbar}} was destroyed.",
+      "timing": "00:26:25.020-00:26:29.490",
+      "uid": "u0278"
+    },
+    {
+      "header": "[u0279 | 00:26:32.460-00:26:33.030 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So.",
+      "timing": "00:26:32.460-00:26:33.030",
+      "uid": "u0279"
+    },
+    {
+      "header": "[u0280 | 00:26:34.170-00:26:35.130 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I'll say that.",
+      "timing": "00:26:34.170-00:26:35.130",
+      "uid": "u0280"
+    },
+    {
+      "header": "[u0281 | 00:26:38.190-00:26:39.180 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That day.",
+      "timing": "00:26:38.190-00:26:39.180",
+      "uid": "u0281"
+    },
+    {
+      "header": "[u0282 | 00:26:40.380-00:26:44.310 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I fell from the from the sky I fell from the.",
+      "timing": "00:26:40.380-00:26:44.310",
+      "uid": "u0282"
+    },
+    {
+      "header": "[u0283 | 00:26:46.140-00:26:50.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "place of shadows, where I was trapped that very day, this was destroyed.",
+      "timing": "00:26:46.140-00:26:50.280",
+      "uid": "u0283"
+    },
+    {
+      "header": "[u0284 | 00:26:52.410-00:26:52.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You did.",
+      "timing": "00:26:52.410-00:26:52.980",
+      "uid": "u0284"
+    },
+    {
+      "header": "[u0285 | 00:26:55.050-00:26:57.090 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That is amazing.",
+      "timing": "00:26:55.050-00:26:57.090",
+      "uid": "u0285"
+    },
+    {
+      "header": "[u0286 | 00:26:58.200-00:27:05.610 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The second one was worn by some kind of deathless warlock that attacked a hunting camp on the slopes, a few years back.",
+      "timing": "00:26:58.200-00:27:05.610",
+      "uid": "u0286"
+    },
+    {
+      "header": "[u0287 | 00:27:06.810-00:27:07.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "and",
+      "timing": "00:27:06.810-00:27:07.290",
+      "uid": "u0287"
+    },
+    {
+      "header": "[u0288 | 00:27:08.580-00:27:10.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Well, in that battle.",
+      "timing": "00:27:08.580-00:27:10.470",
+      "uid": "u0288"
+    },
+    {
+      "header": "[u0289 | 00:27:12.780-00:27:15.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A warrior from the village was gravely wounded near death.",
+      "timing": "00:27:12.780-00:27:15.870",
+      "uid": "u0289"
+    },
+    {
+      "header": "[u0290 | 00:27:18.270-00:27:26.910 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And grasped that deathless creature to hold it to the ground for her companions to butcher with their swords and axes, but as she did, bleeding.",
+      "timing": "00:27:18.270-00:27:26.910",
+      "uid": "u0290"
+    },
+    {
+      "header": "[u0291 | 00:27:28.290-00:27:35.040 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Close to death, on the edge of consciousness, she touched the circlet and vanished, and we had hoped.",
+      "timing": "00:27:28.290-00:27:35.040",
+      "uid": "u0291"
+    },
+    {
+      "header": "[u0292 | 00:27:36.690-00:27:38.430 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Beyond hope perhaps that.",
+      "timing": "00:27:36.690-00:27:38.430",
+      "uid": "u0292"
+    },
+    {
+      "header": "[u0293 | 00:27:40.080-00:27:42.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "When this was destroyed at the same time that.",
+      "timing": "00:27:40.080-00:27:42.840",
+      "uid": "u0293"
+    },
+    {
+      "header": "[u0294 | 00:27:44.010-00:27:47.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The one you say freed you was destroyed, maybe she would return.",
+      "timing": "00:27:44.010-00:27:47.520",
+      "uid": "u0294"
+    },
+    {
+      "header": "[u0295 | 00:27:49.800-00:27:50.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And yet she has not.",
+      "timing": "00:27:49.800-00:27:50.970",
+      "uid": "u0295"
+    },
+    {
+      "header": "[u0296 | 00:27:52.980-00:27:54.810 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I returned.",
+      "timing": "00:27:52.980-00:27:54.810",
+      "uid": "u0296"
+    },
+    {
+      "header": "[u0297 | 00:27:56.040-00:27:58.440 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "More than 1000 miles from where I left.",
+      "timing": "00:27:56.040-00:27:58.440",
+      "uid": "u0297"
+    },
+    {
+      "header": "[u0298 | 00:28:00.870-00:28:02.010 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Perhaps she has.",
+      "timing": "00:28:00.870-00:28:02.010",
+      "uid": "u0298"
+    },
+    {
+      "header": "[u0299 | 00:28:03.090-00:28:05.640 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So perhaps she is alive somewhere in the world.",
+      "timing": "00:28:03.090-00:28:05.640",
+      "uid": "u0299"
+    },
+    {
+      "header": "[u0300 | 00:28:08.160-00:28:10.110 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That is rather than being trapped.",
+      "timing": "00:28:08.160-00:28:10.110",
+      "uid": "u0300"
+    },
+    {
+      "header": "[u0301 | 00:28:17.370-00:28:17.700 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "well.",
+      "timing": "00:28:17.370-00:28:17.700",
+      "uid": "u0301"
+    },
+    {
+      "header": "[u0302 | 00:28:20.100-00:28:25.920 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We thought until we destroyed these and nothing happened we thought perhaps there was some connection between these.",
+      "timing": "00:28:20.100-00:28:25.920",
+      "uid": "u0302"
+    },
+    {
+      "header": "[u0303 | 00:28:31.290-00:28:35.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "These talismans of shadow and the prison that.",
+      "timing": "00:28:31.290-00:28:35.670",
+      "uid": "u0303"
+    },
+    {
+      "header": "[u0304 | 00:28:37.680-00:28:45.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Has trapped the silent ones, but now you say, {{maybe destroying them has some time, maybe good return}}.",
+      "timing": "00:28:37.680-00:28:45.450",
+      "uid": "u0304"
+    },
+    {
+      "header": "[u0305 | 00:28:46.950-00:28:47.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yes, I'm I'm.",
+      "timing": "00:28:46.950-00:28:47.940",
+      "uid": "u0305"
+    },
+    {
+      "header": "[u0306 | 00:28:50.760-00:28:52.350 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "pretty sure I'm sure of it.",
+      "timing": "00:28:50.760-00:28:52.350",
+      "uid": "u0306"
+    },
+    {
+      "header": "[u0307 | 00:28:54.210-00:28:56.310 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "it's, the only thing I can think of that would explain it.",
+      "timing": "00:28:54.210-00:28:56.310",
+      "uid": "u0307"
+    },
+    {
+      "header": "[u0308 | 00:29:02.640-00:29:07.890 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And you say Yezali was trapped by a similar armband.",
+      "timing": "00:29:02.640-00:29:07.890",
+      "uid": "u0308"
+    },
+    {
+      "header": "[u0309 | 00:29:09.360-00:29:13.140 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yes, when he when they fought the great demons.",
+      "timing": "00:29:09.360-00:29:13.140",
+      "uid": "u0309"
+    },
+    {
+      "header": "[u0310 | 00:29:15.000-00:29:16.440 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "As a wolf and a.",
+      "timing": "00:29:15.000-00:29:16.440",
+      "uid": "u0310"
+    },
+    {
+      "header": "[u0311 | 00:29:17.520-00:29:20.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Eagle and a fox and other creatures that hunt at night.",
+      "timing": "00:29:17.520-00:29:20.940",
+      "uid": "u0311"
+    },
+    {
+      "header": "[u0312 | 00:29:21.990-00:29:23.820 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Tearing through this creature's flesh, but.",
+      "timing": "00:29:21.990-00:29:23.820",
+      "uid": "u0312"
+    },
+    {
+      "header": "[u0313 | 00:29:24.960-00:29:27.030 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Not but being torn apart as well.",
+      "timing": "00:29:24.960-00:29:27.030",
+      "uid": "u0313"
+    },
+    {
+      "header": "[u0314 | 00:29:28.830-00:29:30.390 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "feeling close to death.",
+      "timing": "00:29:28.830-00:29:30.390",
+      "uid": "u0314"
+    },
+    {
+      "header": "[u0315 | 00:29:31.980-00:29:32.490 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Tore at.",
+      "timing": "00:29:31.980-00:29:32.490",
+      "uid": "u0315"
+    },
+    {
+      "header": "[u0316 | 00:29:34.170-00:29:38.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Some general or—and touched one of these very bands, I saw it in a vision.",
+      "timing": "00:29:34.170-00:29:38.940",
+      "uid": "u0316"
+    },
+    {
+      "header": "[u0317 | 00:29:41.700-00:29:44.460 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That is the story of the Battle of Darkfire.",
+      "timing": "00:29:41.700-00:29:44.460",
+      "uid": "u0317"
+    },
+    {
+      "header": "[u0318 | 00:29:47.850-00:29:51.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The other silent ones fought in battles as well.",
+      "timing": "00:29:47.850-00:29:51.000",
+      "uid": "u0318"
+    },
+    {
+      "header": "[u0319 | 00:29:52.230-00:30:01.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow.",
+      "timing": "00:29:52.230-00:30:01.230",
+      "uid": "u0319"
+    },
+    {
+      "header": "[u0320 | 00:30:02.910-00:30:16.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter.",
+      "timing": "00:30:02.910-00:30:16.020",
+      "uid": "u0320"
+    },
+    {
+      "header": "[u0321 | 00:30:17.880-00:30:19.110 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The battle of the Yemo'te.",
+      "timing": "00:30:17.880-00:30:19.110",
+      "uid": "u0321"
+    },
+    {
+      "header": "[u0322 | 00:30:20.610-00:30:21.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Where.",
+      "timing": "00:30:20.610-00:30:21.000",
+      "uid": "u0322"
+    },
+    {
+      "header": "[u0323 | 00:30:22.440-00:30:29.730 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Midri and K'onisati fell silent, protecting the crossing of the river from endless hobgoblin hordes.",
+      "timing": "00:30:22.440-00:30:29.730",
+      "uid": "u0323"
+    },
+    {
+      "header": "[u0324 | 00:30:33.270-00:30:33.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Maybe.",
+      "timing": "00:30:33.270-00:30:33.870",
+      "uid": "u0324"
+    },
+    {
+      "header": "[u0325 | 00:30:36.660-00:30:40.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Maybe there are circlets like these that trapped.",
+      "timing": "00:30:36.660-00:30:40.980",
+      "uid": "u0325"
+    },
+    {
+      "header": "[u0326 | 00:30:42.780-00:30:45.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The rest of the silent ones.",
+      "timing": "00:30:42.780-00:30:45.540",
+      "uid": "u0326"
+    },
+    {
+      "header": "[u0327 | 00:30:49.560-00:30:51.660 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This is how you say Yezali vanished.",
+      "timing": "00:30:49.560-00:30:51.660",
+      "uid": "u0327"
+    },
+    {
+      "header": "[u0328 | 00:30:56.040-00:30:58.680 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yes, I suspect there are it it.",
+      "timing": "00:30:56.040-00:30:58.680",
+      "uid": "u0328"
+    },
+    {
+      "header": "[u0329 | 00:31:00.330-00:31:05.460 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "may be too much to hope that they are all trapped none of them truly perished.",
+      "timing": "00:31:00.330-00:31:05.460",
+      "uid": "u0329"
+    },
+    {
+      "header": "[u0330 | 00:31:08.400-00:31:10.170 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "But at least some must be.",
+      "timing": "00:31:08.400-00:31:10.170",
+      "uid": "u0330"
+    },
+    {
+      "header": "[u0331 | 00:31:13.560-00:31:17.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I'm not sure I believe a tanshi can truly die.",
+      "timing": "00:31:13.560-00:31:17.520",
+      "uid": "u0331"
+    },
+    {
+      "header": "[u0332 | 00:31:20.100-00:31:21.780 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "As long as they're not forgotten.",
+      "timing": "00:31:20.100-00:31:21.780",
+      "uid": "u0332"
+    },
+    {
+      "header": "[u0333 | 00:31:25.470-00:31:26.520 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That may be true.",
+      "timing": "00:31:25.470-00:31:26.520",
+      "uid": "u0333"
+    },
+    {
+      "header": "[u0334 | 00:31:27.510-00:31:30.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But silent ones are our greatest heroes.",
+      "timing": "00:31:27.510-00:31:30.000",
+      "uid": "u0334"
+    },
+    {
+      "header": "[u0335 | 00:31:31.980-00:31:33.780 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "They will certainly not be forgotten.",
+      "timing": "00:31:31.980-00:31:33.780",
+      "uid": "u0335"
+    },
+    {
+      "header": "[u0336 | 00:31:37.260-00:31:40.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The might arrayed against them was.",
+      "timing": "00:31:37.260-00:31:40.080",
+      "uid": "u0336"
+    },
+    {
+      "header": "[u0337 | 00:31:41.490-00:31:43.020 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "unimaginable to one.",
+      "timing": "00:31:41.490-00:31:43.020",
+      "uid": "u0337"
+    },
+    {
+      "header": "[u0338 | 00:31:44.280-00:31:45.990 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "generation separated from it.",
+      "timing": "00:31:44.280-00:31:45.990",
+      "uid": "u0338"
+    },
+    {
+      "header": "[u0339 | 00:31:48.120-00:31:49.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Perhaps that it's.",
+      "timing": "00:31:48.120-00:31:49.020",
+      "uid": "u0339"
+    },
+    {
+      "header": "[u0340 | 00:31:50.850-00:31:54.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Only the stories of those dark times have come down to us now.",
+      "timing": "00:31:50.850-00:31:54.450",
+      "uid": "u0340"
+    },
+    {
+      "header": "[u0341 | 00:31:55.650-00:31:56.160 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "and",
+      "timing": "00:31:55.650-00:31:56.160",
+      "uid": "u0341"
+    },
+    {
+      "header": "[u0342 | 00:31:57.960-00:32:02.820 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The remnants of that evil that sometimes creep up the mountains from the forest of nightmares.",
+      "timing": "00:31:57.960-00:32:02.820",
+      "uid": "u0342"
+    }
+  ],
+  "draftTurns": [
+    {
+      "sources": [
+        {
+          "end": 77,
+          "start": 0,
+          "uid": "u0176"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Like nobody goes, you can't go to the Forest of Dreams, but the animals live."
+    },
+    {
+      "sources": [
+        {
+          "end": 106,
+          "start": 0,
+          "uid": "u0177"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "The best hundreds of nightmares or the Forest—Forest of Nightmares, it used to be called Forest of Dreams."
+    },
+    {
+      "sources": [
+        {
+          "end": 14,
+          "start": 0,
+          "uid": "u0178"
+        }
+      ],
+      "speaker": "DM",
+      "text": "now before us."
+    },
+    {
+      "sources": [
+        {
+          "end": 206,
+          "start": 0,
+          "uid": "u0179"
+        }
+      ],
+      "speaker": "DM",
+      "text": "But the best hunting is, you know, once you get down out of the high mountains, like where that—once you get down to where the birches and maples are, and so they'll set these hunting camps in the fall and."
+    },
+    {
+      "sources": [
+        {
+          "end": 74,
+          "start": 0,
+          "uid": "u0180"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Hunt and preserve meat and then retreat back to the villages after a week."
+    },
+    {
+      "sources": [
+        {
+          "end": 62,
+          "start": 0,
+          "uid": "u0181"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Is the Forest of Nightmares where Ainumarya was in the forest?"
+    },
+    {
+      "sources": [
+        {
+          "end": 11,
+          "start": 0,
+          "uid": "u0182"
+        }
+      ],
+      "speaker": "DM",
+      "text": "No, no, no."
+    },
+    {
+      "sources": [
+        {
+          "end": 39,
+          "start": 0,
+          "uid": "u0183"
+        }
+      ],
+      "speaker": "DM",
+      "text": "way to the south South this is this is."
+    },
+    {
+      "sources": [
+        {
+          "end": 69,
+          "start": 0,
+          "uid": "u0184"
+        }
+      ],
+      "speaker": "DM",
+      "text": "further north it's it's much further north it's like 500 miles north."
+    },
+    {
+      "sources": [
+        {
+          "end": 115,
+          "start": 0,
+          "uid": "u0185"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The northern end of, right, of Ainumarya, this is like this was like the forest, that this is like Pandar and then."
+    },
+    {
+      "sources": [
+        {
+          "end": 105,
+          "start": 0,
+          "uid": "u0186"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Immediately south of Pandar basically was once the Forest of Dreams, but it then basically got destroyed."
+    },
+    {
+      "sources": [
+        {
+          "end": 25,
+          "start": 0,
+          "uid": "u0187"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "So this is further north."
+    },
+    {
+      "sources": [
+        {
+          "end": 52,
+          "start": 0,
+          "uid": "u0188"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "than the map, that is, the world map that I printed."
+    },
+    {
+      "sources": [
+        {
+          "end": 17,
+          "start": 0,
+          "uid": "u0189"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I'm just looking."
+    },
+    {
+      "sources": [
+        {
+          "end": 76,
+          "start": 0,
+          "uid": "u0190"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Ah yes on the print out it doesn't it's not labeled as the forest of dreams."
+    },
+    {
+      "sources": [
+        {
+          "end": 52,
+          "start": 0,
+          "uid": "u0191"
+        }
+      ],
+      "speaker": "DM",
+      "text": "yeah that forest up so you on the map, you see that."
+    },
+    {
+      "sources": [
+        {
+          "end": 41,
+          "start": 0,
+          "uid": "u0192"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Like little swampy area at the far north."
+    },
+    {
+      "sources": [
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0193"
+        }
+      ],
+      "speaker": "DM",
+      "text": "yeah the map, this is just north of."
+    },
+    {
+      "sources": [
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0194"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Just north, yeah yeah yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 106,
+          "start": 0,
+          "uid": "u0195"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "So, like they don't have any reference I mean they would they're just like this is way to the north, they."
+    },
+    {
+      "sources": [
+        {
+          "end": 32,
+          "start": 0,
+          "uid": "u0196"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Voltara, as far as to the south."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0197"
+        }
+      ],
+      "speaker": "DM",
+      "text": "yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 74,
+          "start": 0,
+          "uid": "u0198"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I mean, there are no—nor, they know about Chardon, but they're far enough."
+    },
+    {
+      "sources": [
+        {
+          "end": 39,
+          "start": 0,
+          "uid": "u0199"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "North that they that that empire isn't."
+    },
+    {
+      "sources": [
+        {
+          "end": 92,
+          "start": 0,
+          "uid": "u0200"
+        }
+      ],
+      "speaker": "DM",
+      "text": "anywhere close to them like the the most of the trade, they have is actually like with them."
+    },
+    {
+      "sources": [
+        {
+          "end": 224,
+          "start": 0,
+          "uid": "u0201"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open."
+    },
+    {
+      "sources": [
+        {
+          "end": 37,
+          "start": 0,
+          "uid": "u0202"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Plains that where the kenku live, so."
+    },
+    {
+      "sources": [
+        {
+          "end": 192,
+          "start": 0,
+          "uid": "u0203"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out."
+    },
+    {
+      "sources": [
+        {
+          "end": 73,
+          "start": 0,
+          "uid": "u0204"
+        }
+      ],
+      "speaker": "DM",
+      "text": "So you got that sort of story from this young boy Zevi who's guiding you."
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0205"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And when you arrive."
+    },
+    {
+      "sources": [
+        {
+          "end": 135,
+          "start": 0,
+          "uid": "u0206"
+        }
+      ],
+      "speaker": "DM",
+      "text": "You know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the."
+    },
+    {
+      "sources": [
+        {
+          "end": 111,
+          "start": 0,
+          "uid": "u0207"
+        }
+      ],
+      "speaker": "DM",
+      "text": "There's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the."
+    },
+    {
+      "sources": [
+        {
+          "end": 52,
+          "start": 0,
+          "uid": "u0208"
+        }
+      ],
+      "speaker": "DM",
+      "text": "It's, you know, everything's A-frames with like log."
+    },
+    {
+      "sources": [
+        {
+          "end": 127,
+          "start": 0,
+          "uid": "u0209"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm."
+    },
+    {
+      "sources": [
+        {
+          "end": 22,
+          "start": 0,
+          "uid": "u0210"
+        }
+      ],
+      "speaker": "DM",
+      "text": "there's some reindeer."
+    },
+    {
+      "sources": [
+        {
+          "end": 256,
+          "start": 0,
+          "uid": "u0211"
+        }
+      ],
+      "speaker": "DM",
+      "text": "But you know it's very, it's it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place."
+    },
+    {
+      "sources": [
+        {
+          "end": 138,
+          "start": 0,
+          "uid": "u0212"
+        }
+      ],
+      "speaker": "DM",
+      "text": "As you arrive in the afternoon you're greeted by Ninu, who's the chief and sort of lore keeper of the village, in her late 40s, early 50s."
+    },
+    {
+      "sources": [
+        {
+          "end": 82,
+          "start": 0,
+          "uid": "u0213"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Dirty blonde hair with hints of gray at the temples that she wears loose and long."
+    },
+    {
+      "sources": [
+        {
+          "end": 49,
+          "start": 0,
+          "uid": "u0214"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Dresses in buckskin sort of dyed reds and browns."
+    },
+    {
+      "sources": [
+        {
+          "end": 9,
+          "start": 0,
+          "uid": "u0215"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And like."
+    },
+    {
+      "sources": [
+        {
+          "end": 178,
+          "start": 0,
+          "uid": "u0216"
+        }
+      ],
+      "speaker": "DM",
+      "text": "As when you arrive like no messenger has gone ahead, but Zevi runs ahead and just like warns people, and there's like a whole gathering of people come to greet you, and they are."
+    },
+    {
+      "sources": [
+        {
+          "end": 111,
+          "start": 0,
+          "uid": "u0217"
+        }
+      ],
+      "speaker": "DM",
+      "text": "You know there's it's a it's October 2 but it's it's you know, one of those sort of early fall days that still."
+    },
+    {
+      "sources": [
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0218"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "present."
+    },
+    {
+      "sources": [
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0219"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I guess, we spent a lot of time and."
+    },
+    {
+      "sources": [
+        {
+          "end": 48,
+          "start": 0,
+          "uid": "u0220"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "We spent a long time at the Te'kula village too."
+    },
+    {
+      "sources": [
+        {
+          "end": 10,
+          "start": 0,
+          "uid": "u0221"
+        }
+      ],
+      "speaker": "DM",
+      "text": "You spent."
+    },
+    {
+      "sources": [
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0222"
+        }
+      ],
+      "speaker": "DM",
+      "text": "10 days in the Te'kula and."
+    },
+    {
+      "sources": [
+        {
+          "end": 87,
+          "start": 0,
+          "uid": "u0223"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "That's actually bad, I really wanted to get down to Grash before he defeated those two."
+    },
+    {
+      "sources": [
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0224"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Oh well."
+    },
+    {
+      "sources": [
+        {
+          "end": 28,
+          "start": 0,
+          "uid": "u0225"
+        }
+      ],
+      "speaker": "DM",
+      "text": "He hasn't defeated them yet."
+    },
+    {
+      "sources": [
+        {
+          "end": 30,
+          "start": 0,
+          "uid": "u0226"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Well, but we probably hear me."
+    },
+    {
+      "sources": [
+        {
+          "end": 32,
+          "start": 0,
+          "uid": "u0227"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "No, he said mid-fall, didn't he?"
+    },
+    {
+      "sources": [
+        {
+          "end": 124,
+          "start": 0,
+          "uid": "u0228"
+        }
+      ],
+      "speaker": "DM",
+      "text": "That's what he said, like in June, right, when you scryed him most recently, he was like, well, we don't have enough troops."
+    },
+    {
+      "sources": [
+        {
+          "end": 29,
+          "start": 0,
+          "uid": "u0229"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Right right right right okay."
+    },
+    {
+      "sources": [
+        {
+          "end": 28,
+          "start": 0,
+          "uid": "u0230"
+        }
+      ],
+      "speaker": "DM",
+      "text": "So you might have some time."
+    },
+    {
+      "sources": [
+        {
+          "end": 12,
+          "start": 0,
+          "uid": "u0231"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "yeah anyway."
+    },
+    {
+      "sources": [
+        {
+          "end": 10,
+          "start": 0,
+          "uid": "u0232"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "it's fall."
+    },
+    {
+      "sources": [
+        {
+          "end": 174,
+          "start": 0,
+          "uid": "u0233"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Yes, but they're carrying a big table out to the green, they're like clearly setting up a big feast. You see like, you know, freshly butchered deer, there's like pine brandy."
+    },
+    {
+      "sources": [
+        {
+          "end": 199,
+          "start": 0,
+          "uid": "u0234"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Like jars of jam being opened, and you know, like as you're eating or after you eat this sort of elaborate meal she sort of takes you takes you aside and she I mean everybody is kind of you know, in."
+    },
+    {
+      "sources": [
+        {
+          "end": 182,
+          "start": 0,
+          "uid": "u0235"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Not exactly in awe, but like sort of very, you know, excited to see not only an elf but somebody who claims that Yezali is still around, or who claims that Yezali speaks through him."
+    },
+    {
+      "sources": [
+        {
+          "end": 54,
+          "start": 0,
+          "uid": "u0236"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And so you're treated as a guest of honor and then um."
+    },
+    {
+      "sources": [
+        {
+          "end": 131,
+          "start": 0,
+          "uid": "u0237"
+        }
+      ],
+      "speaker": "DM",
+      "text": "You know she she she comes up to you sort of in the firelight after dinner and sitting sort of privately and talks to you and says."
+    },
+    {
+      "sources": [
+        {
+          "end": 13,
+          "start": 0,
+          "uid": "u0238"
+        }
+      ],
+      "speaker": "DM",
+      "text": "We also have."
+    },
+    {
+      "sources": [
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0239"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Thought."
+    },
+    {
+      "sources": [
+        {
+          "end": 41,
+          "start": 0,
+          "uid": "u0240"
+        }
+      ],
+      "speaker": "DM",
+      "text": "For some time, that the silent ones, the."
+    },
+    {
+      "sources": [
+        {
+          "end": 72,
+          "start": 0,
+          "uid": "u0241"
+        }
+      ],
+      "speaker": "DM",
+      "text": "heroes of the great war have been imprisoned by some sort of evil power."
+    },
+    {
+      "sources": [
+        {
+          "end": 53,
+          "start": 0,
+          "uid": "u0242"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Whether it was something that the great enemy did or."
+    },
+    {
+      "sources": [
+        {
+          "end": 15,
+          "start": 0,
+          "uid": "u0243"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Something else."
+    },
+    {
+      "sources": [
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0244"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And she brings out two."
+    },
+    {
+      "sources": [
+        {
+          "end": 108,
+          "start": 0,
+          "uid": "u0245"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Flat black circlets, armbands ringed with runes, both of which have been melted and bent in half and broken."
+    },
+    {
+      "sources": [
+        {
+          "end": 100,
+          "start": 0,
+          "uid": "u0246"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And since you can read all writing, you can read the runes are an incantation to somebody, a prayer."
+    },
+    {
+      "sources": [
+        {
+          "end": 53,
+          "start": 0,
+          "uid": "u0247"
+        }
+      ],
+      "speaker": "DM",
+      "text": "For shadows for darkness or ritual for teleportation."
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0248"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Is one that's daily."
+    },
+    {
+      "sources": [
+        {
+          "end": 17,
+          "start": 0,
+          "uid": "u0249"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "is obviously the."
+    },
+    {
+      "sources": [
+        {
+          "end": 45,
+          "start": 0,
+          "uid": "u0250"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "not exactly familiar, but these are the same."
+    },
+    {
+      "sources": [
+        {
+          "end": 9,
+          "start": 0,
+          "uid": "u0251"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Now, yes."
+    },
+    {
+      "sources": [
+        {
+          "end": 182,
+          "start": 0,
+          "uid": "u0252"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Yes, so one is decorated with a motif of fire that's dancing around the edge and is is in fact exactly familiar, like this is the armband that you touched, dragged you to the shadow."
+    },
+    {
+      "sources": [
+        {
+          "end": 25,
+          "start": 0,
+          "uid": "u0253"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "You, Delwath, or—yes, oh."
+    },
+    {
+      "sources": [
+        {
+          "end": 18,
+          "start": 0,
+          "uid": "u0254"
+        }
+      ],
+      "speaker": "DM",
+      "text": "You, you, Delwath."
+    },
+    {
+      "sources": [
+        {
+          "end": 11,
+          "start": 0,
+          "uid": "u0255"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Okay scary."
+    },
+    {
+      "sources": [
+        {
+          "end": 62,
+          "start": 0,
+          "uid": "u0256"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The other is unfamiliar I mean it's the same design, but that."
+    },
+    {
+      "sources": [
+        {
+          "end": 56,
+          "start": 0,
+          "uid": "u0257"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Nothing you've seen before. her now it'll actually here."
+    },
+    {
+      "sources": [
+        {
+          "end": 65,
+          "start": 0,
+          "uid": "u0258"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "When he sees that armband he'll like draw back a moment and like."
+    },
+    {
+      "sources": [
+        {
+          "end": 86,
+          "start": 0,
+          "uid": "u0259"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "almost like stumble back and then kind of catch himself and say I've seen that before."
+    },
+    {
+      "sources": [
+        {
+          "end": 93,
+          "start": 0,
+          "uid": "u0260"
+        }
+      ],
+      "speaker": "DM",
+      "text": "This one—she holds up the fire—this was found far to the south, south of the Blackwater Fens."
+    },
+    {
+      "sources": [
+        {
+          "end": 132,
+          "start": 0,
+          "uid": "u0261"
+        }
+      ],
+      "speaker": "DM",
+      "text": "We thought nothing of it for many years it ended up in our village, maybe a generation ago after having been traded, we could never."
+    },
+    {
+      "sources": [
+        {
+          "end": 57,
+          "start": 0,
+          "uid": "u0262"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Melt it down or forge it into anything useful, so it sat."
+    },
+    {
+      "sources": [
+        {
+          "end": 24,
+          "start": 0,
+          "uid": "u0263"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Is this familiar to you?"
+    },
+    {
+      "sources": [
+        {
+          "end": 56,
+          "start": 0,
+          "uid": "u0264"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "It is what sent me to the prison where I was imprisoned."
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0265"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "A prison perhaps is."
+    },
+    {
+      "sources": [
+        {
+          "end": 94,
+          "start": 0,
+          "uid": "u0266"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "The armies, I was fighting it was a pathway a door to a place where they could travel quickly."
+    },
+    {
+      "sources": [
+        {
+          "end": 72,
+          "start": 0,
+          "uid": "u0267"
+        }
+      ],
+      "speaker": "DM",
+      "text": "This one was destroyed more than a year ago now August, the past summer."
+    },
+    {
+      "sources": [
+        {
+          "end": 15,
+          "start": 0,
+          "uid": "u0268"
+        }
+      ],
+      "speaker": "DM",
+      "text": "There was a is."
+    },
+    {
+      "sources": [
+        {
+          "end": 30,
+          "start": 0,
+          "uid": "u0269"
+        }
+      ],
+      "speaker": "DM",
+      "text": "A man, one of our Deno'qai, a."
+    },
+    {
+      "sources": [
+        {
+          "end": 126,
+          "start": 0,
+          "uid": "u0270"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Man blessed by the spirit of Istari, the tanshi of forest fires, who can control the flames, and he passed through inside and."
+    },
+    {
+      "sources": [
+        {
+          "end": 14,
+          "start": 0,
+          "uid": "u0271"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Did something."
+    },
+    {
+      "sources": [
+        {
+          "end": 24,
+          "start": 0,
+          "uid": "u0272"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Made it split and crack."
+    },
+    {
+      "sources": [
+        {
+          "end": 21,
+          "start": 0,
+          "uid": "u0273"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I assume that's when."
+    },
+    {
+      "sources": [
+        {
+          "end": 29,
+          "start": 0,
+          "uid": "u0274"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Delwath fell through the sky."
+    },
+    {
+      "sources": [
+        {
+          "end": 4,
+          "start": 0,
+          "uid": "u0275"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Yes."
+    },
+    {
+      "sources": [
+        {
+          "end": 120,
+          "start": 0,
+          "uid": "u0276"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I will, Delwath will ask her a series of questions, try and pinpoint exactly what, like what was the, what was the date."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0277"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 61,
+          "start": 0,
+          "uid": "u0278"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Yeah, it's exactly the day that the {{Dunbar}} was destroyed."
+    },
+    {
+      "sources": [
+        {
+          "end": 3,
+          "start": 0,
+          "uid": "u0279"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "So."
+    },
+    {
+      "sources": [
+        {
+          "end": 14,
+          "start": 0,
+          "uid": "u0280"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I'll say that."
+    },
+    {
+      "sources": [
+        {
+          "end": 9,
+          "start": 0,
+          "uid": "u0281"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "That day."
+    },
+    {
+      "sources": [
+        {
+          "end": 45,
+          "start": 0,
+          "uid": "u0282"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I fell from the from the sky I fell from the."
+    },
+    {
+      "sources": [
+        {
+          "end": 72,
+          "start": 0,
+          "uid": "u0283"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "place of shadows, where I was trapped that very day, this was destroyed."
+    },
+    {
+      "sources": [
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0284"
+        }
+      ],
+      "speaker": "DM",
+      "text": "You did."
+    },
+    {
+      "sources": [
+        {
+          "end": 16,
+          "start": 0,
+          "uid": "u0285"
+        }
+      ],
+      "speaker": "DM",
+      "text": "That is amazing."
+    },
+    {
+      "sources": [
+        {
+          "end": 119,
+          "start": 0,
+          "uid": "u0286"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The second one was worn by some kind of deathless warlock that attacked a hunting camp on the slopes, a few years back."
+    },
+    {
+      "sources": [
+        {
+          "end": 3,
+          "start": 0,
+          "uid": "u0287"
+        }
+      ],
+      "speaker": "DM",
+      "text": "and"
+    },
+    {
+      "sources": [
+        {
+          "end": 21,
+          "start": 0,
+          "uid": "u0288"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Well, in that battle."
+    },
+    {
+      "sources": [
+        {
+          "end": 58,
+          "start": 0,
+          "uid": "u0289"
+        }
+      ],
+      "speaker": "DM",
+      "text": "A warrior from the village was gravely wounded near death."
+    },
+    {
+      "sources": [
+        {
+          "end": 144,
+          "start": 0,
+          "uid": "u0290"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And grasped that deathless creature to hold it to the ground for her companions to butcher with their swords and axes, but as she did, bleeding."
+    },
+    {
+      "sources": [
+        {
+          "end": 101,
+          "start": 0,
+          "uid": "u0291"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Close to death, on the edge of consciousness, she touched the circlet and vanished, and we had hoped."
+    },
+    {
+      "sources": [
+        {
+          "end": 25,
+          "start": 0,
+          "uid": "u0292"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Beyond hope perhaps that."
+    },
+    {
+      "sources": [
+        {
+          "end": 46,
+          "start": 0,
+          "uid": "u0293"
+        }
+      ],
+      "speaker": "DM",
+      "text": "When this was destroyed at the same time that."
+    },
+    {
+      "sources": [
+        {
+          "end": 64,
+          "start": 0,
+          "uid": "u0294"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The one you say freed you was destroyed, maybe she would return."
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0295"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And yet she has not."
+    },
+    {
+      "sources": [
+        {
+          "end": 11,
+          "start": 0,
+          "uid": "u0296"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I returned."
+    },
+    {
+      "sources": [
+        {
+          "end": 39,
+          "start": 0,
+          "uid": "u0297"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "More than 1000 miles from where I left."
+    },
+    {
+      "sources": [
+        {
+          "end": 16,
+          "start": 0,
+          "uid": "u0298"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Perhaps she has."
+    },
+    {
+      "sources": [
+        {
+          "end": 47,
+          "start": 0,
+          "uid": "u0299"
+        }
+      ],
+      "speaker": "DM",
+      "text": "So perhaps she is alive somewhere in the world."
+    },
+    {
+      "sources": [
+        {
+          "end": 34,
+          "start": 0,
+          "uid": "u0300"
+        }
+      ],
+      "speaker": "DM",
+      "text": "That is rather than being trapped."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0301"
+        }
+      ],
+      "speaker": "DM",
+      "text": "well."
+    },
+    {
+      "sources": [
+        {
+          "end": 116,
+          "start": 0,
+          "uid": "u0302"
+        }
+      ],
+      "speaker": "DM",
+      "text": "We thought until we destroyed these and nothing happened we thought perhaps there was some connection between these."
+    },
+    {
+      "sources": [
+        {
+          "end": 46,
+          "start": 0,
+          "uid": "u0303"
+        }
+      ],
+      "speaker": "DM",
+      "text": "These talismans of shadow and the prison that."
+    },
+    {
+      "sources": [
+        {
+          "end": 105,
+          "start": 0,
+          "uid": "u0304"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Has trapped the silent ones, but now you say, {{maybe destroying them has some time, maybe good return}}."
+    },
+    {
+      "sources": [
+        {
+          "end": 13,
+          "start": 0,
+          "uid": "u0305"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Yes, I'm I'm."
+    },
+    {
+      "sources": [
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0306"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "pretty sure I'm sure of it."
+    },
+    {
+      "sources": [
+        {
+          "end": 58,
+          "start": 0,
+          "uid": "u0307"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "it's, the only thing I can think of that would explain it."
+    },
+    {
+      "sources": [
+        {
+          "end": 52,
+          "start": 0,
+          "uid": "u0308"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And you say Yezali was trapped by a similar armband."
+    },
+    {
+      "sources": [
+        {
+          "end": 47,
+          "start": 0,
+          "uid": "u0309"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Yes, when he when they fought the great demons."
+    },
+    {
+      "sources": [
+        {
+          "end": 16,
+          "start": 0,
+          "uid": "u0310"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "As a wolf and a."
+    },
+    {
+      "sources": [
+        {
+          "end": 55,
+          "start": 0,
+          "uid": "u0311"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Eagle and a fox and other creatures that hunt at night."
+    },
+    {
+      "sources": [
+        {
+          "end": 43,
+          "start": 0,
+          "uid": "u0312"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Tearing through this creature's flesh, but."
+    },
+    {
+      "sources": [
+        {
+          "end": 33,
+          "start": 0,
+          "uid": "u0313"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Not but being torn apart as well."
+    },
+    {
+      "sources": [
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0314"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "feeling close to death."
+    },
+    {
+      "sources": [
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0315"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Tore at."
+    },
+    {
+      "sources": [
+        {
+          "end": 74,
+          "start": 0,
+          "uid": "u0316"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Some general or—and touched one of these very bands, I saw it in a vision."
+    },
+    {
+      "sources": [
+        {
+          "end": 44,
+          "start": 0,
+          "uid": "u0317"
+        }
+      ],
+      "speaker": "DM",
+      "text": "That is the story of the Battle of Darkfire."
+    },
+    {
+      "sources": [
+        {
+          "end": 48,
+          "start": 0,
+          "uid": "u0318"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The other silent ones fought in battles as well."
+    },
+    {
+      "sources": [
+        {
+          "end": 130,
+          "start": 0,
+          "uid": "u0319"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow."
+    },
+    {
+      "sources": [
+        {
+          "end": 194,
+          "start": 0,
+          "uid": "u0320"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter."
+    },
+    {
+      "sources": [
+        {
+          "end": 26,
+          "start": 0,
+          "uid": "u0321"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The battle of the Yemo'te."
+    },
+    {
+      "sources": [
+        {
+          "end": 6,
+          "start": 0,
+          "uid": "u0322"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Where."
+    },
+    {
+      "sources": [
+        {
+          "end": 100,
+          "start": 0,
+          "uid": "u0323"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Midri and K'onisati fell silent, protecting the crossing of the river from endless hobgoblin hordes."
+    },
+    {
+      "sources": [
+        {
+          "end": 6,
+          "start": 0,
+          "uid": "u0324"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Maybe."
+    },
+    {
+      "sources": [
+        {
+          "end": 49,
+          "start": 0,
+          "uid": "u0325"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Maybe there are circlets like these that trapped."
+    },
+    {
+      "sources": [
+        {
+          "end": 28,
+          "start": 0,
+          "uid": "u0326"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The rest of the silent ones."
+    },
+    {
+      "sources": [
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0327"
+        }
+      ],
+      "speaker": "DM",
+      "text": "This is how you say Yezali vanished."
+    },
+    {
+      "sources": [
+        {
+          "end": 31,
+          "start": 0,
+          "uid": "u0328"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Yes, I suspect there are it it."
+    },
+    {
+      "sources": [
+        {
+          "end": 78,
+          "start": 0,
+          "uid": "u0329"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "may be too much to hope that they are all trapped none of them truly perished."
+    },
+    {
+      "sources": [
+        {
+          "end": 26,
+          "start": 0,
+          "uid": "u0330"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "But at least some must be."
+    },
+    {
+      "sources": [
+        {
+          "end": 46,
+          "start": 0,
+          "uid": "u0331"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I'm not sure I believe a tanshi can truly die."
+    },
+    {
+      "sources": [
+        {
+          "end": 33,
+          "start": 0,
+          "uid": "u0332"
+        }
+      ],
+      "speaker": "DM",
+      "text": "As long as they're not forgotten."
+    },
+    {
+      "sources": [
+        {
+          "end": 17,
+          "start": 0,
+          "uid": "u0333"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "That may be true."
+    },
+    {
+      "sources": [
+        {
+          "end": 40,
+          "start": 0,
+          "uid": "u0334"
+        }
+      ],
+      "speaker": "DM",
+      "text": "But silent ones are our greatest heroes."
+    },
+    {
+      "sources": [
+        {
+          "end": 37,
+          "start": 0,
+          "uid": "u0335"
+        }
+      ],
+      "speaker": "DM",
+      "text": "They will certainly not be forgotten."
+    },
+    {
+      "sources": [
+        {
+          "end": 35,
+          "start": 0,
+          "uid": "u0336"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "The might arrayed against them was."
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0337"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "unimaginable to one."
+    },
+    {
+      "sources": [
+        {
+          "end": 29,
+          "start": 0,
+          "uid": "u0338"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "generation separated from it."
+    },
+    {
+      "sources": [
+        {
+          "end": 18,
+          "start": 0,
+          "uid": "u0339"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Perhaps that it's."
+    },
+    {
+      "sources": [
+        {
+          "end": 62,
+          "start": 0,
+          "uid": "u0340"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Only the stories of those dark times have come down to us now."
+    }
+  ],
+  "legacyCandidates": [],
+  "responsePath": "cleaned/transcript-work/responses/polish-chunk-002.json",
+  "reviewScope": "Recover likely speech using sounds, syntax and the full exchange. Apply reasonable contextual repairs automatically; exact wording uncertainty alone is not human work. Preserve spoken mistakes and meaningful table talk. Remove incidental flags. Only competing substantive readings need review, with proposed wording, a recommendation, and a concrete question. Polished-only garbled/cross-talk substitutions need exact source spans and a reason.",
+  "schemaVersion": 1,
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "drEnd": "1748-10-06",
+    "drEndTime": null,
+    "drStart": "1748-09-30",
+    "drStartTime": null,
+    "participants": [
+      {
+        "gameRole": "Delwath",
+        "name": "Mike Sackton",
+        "transcriptIdentifiers": [
+          "Mike Sackton"
+        ]
+      },
+      {
+        "gameRole": "DM",
+        "name": "Tim Sackton",
+        "transcriptIdentifiers": [
+          "Timothy Sackton"
+        ]
+      }
+    ],
+    "participantsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/dunmar-frontier-session053-participants.yaml",
+    "preparedSourcePath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-source-prepared.md",
+    "realWorldDate": "2022-07-31",
+    "schemaVersion": "1.0",
+    "scope": "session",
+    "sessionNumber": 53,
+    "sourceConfigPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/dunmar-frontier-session053.yaml",
+    "sourceInputPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/GMT20220731-013835_Recording.transcript.vtt",
+    "sourceType": "transcript",
+    "speakerMappingsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/zoom-session-053.speaker_mapping.json",
+    "speakerStatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-speaker-stats.json",
+    "transcriptFormat": "vtt"
+  },
+  "source": [
+    {
+      "header": "[u0176 | 00:16:51.240-00:16:56.190 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like nobody goes, you can't go to the Forest of Dreams, but the animals live.",
+      "timing": "00:16:51.240-00:16:56.190",
+      "uid": "u0176"
+    },
+    {
+      "header": "[u0177 | 00:16:56.370-00:17:01.680 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The best hundreds of nightmares or the Forest—Forest of Nightmares, it used to be called Forest of Dreams.",
+      "timing": "00:16:56.370-00:17:01.680",
+      "uid": "u0177"
+    },
+    {
+      "header": "[u0178 | 00:17:02.280-00:17:03.060 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "now before us.",
+      "timing": "00:17:02.280-00:17:03.060",
+      "uid": "u0178"
+    },
+    {
+      "header": "[u0179 | 00:17:04.500-00:17:17.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But the best hunting is, you know, once you get down out of the high mountains, like where that—once you get down to where the birches and maples are, and so they'll set these hunting camps in the fall and.",
+      "timing": "00:17:04.500-00:17:17.340",
+      "uid": "u0179"
+    },
+    {
+      "header": "[u0180 | 00:17:18.960-00:17:24.330 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Hunt and preserve meat and then retreat back to the villages after a week.",
+      "timing": "00:17:18.960-00:17:24.330",
+      "uid": "u0180"
+    },
+    {
+      "header": "[u0181 | 00:17:24.600-00:17:30.420 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Is the Forest of Nightmares where Ainumarya was in the forest?",
+      "timing": "00:17:24.600-00:17:30.420",
+      "uid": "u0181"
+    },
+    {
+      "header": "[u0182 | 00:17:30.630-00:17:31.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "No, no, no.",
+      "timing": "00:17:30.630-00:17:31.470",
+      "uid": "u0182"
+    },
+    {
+      "header": "[u0183 | 00:17:31.860-00:17:34.530 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "way to the south South this is this is.",
+      "timing": "00:17:31.860-00:17:34.530",
+      "uid": "u0183"
+    },
+    {
+      "header": "[u0184 | 00:17:35.430-00:17:42.390 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "further north it's it's much further north it's like 500 miles north.",
+      "timing": "00:17:35.430-00:17:42.390",
+      "uid": "u0184"
+    },
+    {
+      "header": "[u0185 | 00:17:43.410-00:17:52.170 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The northern end of, right, of Ainumarya, this is like this was like the forest, that this is like Pandar and then.",
+      "timing": "00:17:43.410-00:17:52.170",
+      "uid": "u0185"
+    },
+    {
+      "header": "[u0186 | 00:17:53.760-00:18:00.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Immediately south of Pandar basically was once the Forest of Dreams, but it then basically got destroyed.",
+      "timing": "00:17:53.760-00:18:00.540",
+      "uid": "u0186"
+    },
+    {
+      "header": "[u0187 | 00:18:00.930-00:18:02.580 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So this is further north.",
+      "timing": "00:18:00.930-00:18:02.580",
+      "uid": "u0187"
+    },
+    {
+      "header": "[u0188 | 00:18:02.610-00:18:06.630 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "than the map, that is, the world map that I printed.",
+      "timing": "00:18:02.610-00:18:06.630",
+      "uid": "u0188"
+    },
+    {
+      "header": "[u0189 | 00:18:10.380-00:18:10.980 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I'm just looking.",
+      "timing": "00:18:10.380-00:18:10.980",
+      "uid": "u0189"
+    },
+    {
+      "header": "[u0190 | 00:18:11.070-00:18:16.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Ah yes on the print out it doesn't it's not labeled as the forest of dreams.",
+      "timing": "00:18:11.070-00:18:16.410",
+      "uid": "u0190"
+    },
+    {
+      "header": "[u0191 | 00:18:16.800-00:18:21.360 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah that forest up so you on the map, you see that.",
+      "timing": "00:18:16.800-00:18:21.360",
+      "uid": "u0191"
+    },
+    {
+      "header": "[u0192 | 00:18:22.590-00:18:25.110 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like little swampy area at the far north.",
+      "timing": "00:18:22.590-00:18:25.110",
+      "uid": "u0192"
+    },
+    {
+      "header": "[u0193 | 00:18:25.140-00:18:27.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah the map, this is just north of.",
+      "timing": "00:18:25.140-00:18:27.840",
+      "uid": "u0193"
+    },
+    {
+      "header": "[u0194 | 00:18:27.960-00:18:29.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Just north, yeah yeah yeah.",
+      "timing": "00:18:27.960-00:18:29.280",
+      "uid": "u0194"
+    },
+    {
+      "header": "[u0195 | 00:18:31.830-00:18:37.470 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So, like they don't have any reference I mean they would they're just like this is way to the north, they.",
+      "timing": "00:18:31.830-00:18:37.470",
+      "uid": "u0195"
+    },
+    {
+      "header": "[u0196 | 00:18:38.490-00:18:40.380 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Voltara, as far as to the south.",
+      "timing": "00:18:38.490-00:18:40.380",
+      "uid": "u0196"
+    },
+    {
+      "header": "[u0197 | 00:18:42.030-00:18:42.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah.",
+      "timing": "00:18:42.030-00:18:42.450",
+      "uid": "u0197"
+    },
+    {
+      "header": "[u0198 | 00:18:42.480-00:18:47.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I mean, there are no—nor, they know about Chardon, but they're far enough.",
+      "timing": "00:18:42.480-00:18:47.340",
+      "uid": "u0198"
+    },
+    {
+      "header": "[u0199 | 00:18:47.400-00:18:49.740 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "North that they that that empire isn't.",
+      "timing": "00:18:47.400-00:18:49.740",
+      "uid": "u0199"
+    },
+    {
+      "header": "[u0200 | 00:18:49.890-00:18:56.460 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "anywhere close to them like the the most of the trade, they have is actually like with them.",
+      "timing": "00:18:49.890-00:18:56.460",
+      "uid": "u0200"
+    },
+    {
+      "header": "[u0201 | 00:18:57.780-00:19:08.490 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open.",
+      "timing": "00:18:57.780-00:19:08.490",
+      "uid": "u0201"
+    },
+    {
+      "header": "[u0202 | 00:19:09.150-00:19:11.640 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Plains that where the kenku live, so.",
+      "timing": "00:19:09.150-00:19:11.640",
+      "uid": "u0202"
+    },
+    {
+      "header": "[u0203 | 00:19:12.960-00:19:26.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out.",
+      "timing": "00:19:12.960-00:19:26.670",
+      "uid": "u0203"
+    },
+    {
+      "header": "[u0204 | 00:19:28.530-00:19:34.140 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So you got that sort of story from this young boy Zevi who's guiding you.",
+      "timing": "00:19:28.530-00:19:34.140",
+      "uid": "u0204"
+    },
+    {
+      "header": "[u0205 | 00:19:36.060-00:19:37.170 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And when you arrive.",
+      "timing": "00:19:36.060-00:19:37.170",
+      "uid": "u0205"
+    },
+    {
+      "header": "[u0206 | 00:19:38.430-00:19:46.950 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the.",
+      "timing": "00:19:38.430-00:19:46.950",
+      "uid": "u0206"
+    },
+    {
+      "header": "[u0207 | 00:19:46.980-00:19:55.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the.",
+      "timing": "00:19:46.980-00:19:55.410",
+      "uid": "u0207"
+    },
+    {
+      "header": "[u0208 | 00:19:56.850-00:20:01.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "It's, you know, everything's A-frames with like log.",
+      "timing": "00:19:56.850-00:20:01.230",
+      "uid": "u0208"
+    },
+    {
+      "header": "[u0209 | 00:20:01.650-00:20:09.090 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm.",
+      "timing": "00:20:01.650-00:20:09.090",
+      "uid": "u0209"
+    },
+    {
+      "header": "[u0210 | 00:20:09.630-00:20:11.490 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "there's some reindeer.",
+      "timing": "00:20:09.630-00:20:11.490",
+      "uid": "u0210"
+    },
+    {
+      "header": "[u0211 | 00:20:14.550-00:20:34.050 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But you know it's very, it's it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place.",
+      "timing": "00:20:14.550-00:20:34.050",
+      "uid": "u0211"
+    },
+    {
+      "header": "[u0212 | 00:20:35.790-00:20:45.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "As you arrive in the afternoon you're greeted by Ninu, who's the chief and sort of lore keeper of the village, in her late 40s, early 50s.",
+      "timing": "00:20:35.790-00:20:45.450",
+      "uid": "u0212"
+    },
+    {
+      "header": "[u0213 | 00:20:47.460-00:20:51.810 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Dirty blonde hair with hints of gray at the temples that she wears loose and long.",
+      "timing": "00:20:47.460-00:20:51.810",
+      "uid": "u0213"
+    },
+    {
+      "header": "[u0214 | 00:20:53.100-00:20:56.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Dresses in buckskin sort of dyed reds and browns.",
+      "timing": "00:20:53.100-00:20:56.550",
+      "uid": "u0214"
+    },
+    {
+      "header": "[u0215 | 00:20:57.840-00:20:58.590 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And like.",
+      "timing": "00:20:57.840-00:20:58.590",
+      "uid": "u0215"
+    },
+    {
+      "header": "[u0216 | 00:21:01.470-00:21:11.610 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "As when you arrive like no messenger has gone ahead, but Zevi runs ahead and just like warns people, and there's like a whole gathering of people come to greet you, and they are.",
+      "timing": "00:21:01.470-00:21:11.610",
+      "uid": "u0216"
+    },
+    {
+      "header": "[u0217 | 00:21:13.590-00:21:20.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know there's it's a it's October 2 but it's it's you know, one of those sort of early fall days that still.",
+      "timing": "00:21:13.590-00:21:20.970",
+      "uid": "u0217"
+    },
+    {
+      "header": "[u0218 | 00:21:20.970-00:21:21.360 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "present.",
+      "timing": "00:21:20.970-00:21:21.360",
+      "uid": "u0218"
+    },
+    {
+      "header": "[u0219 | 00:21:22.110-00:21:23.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I guess, we spent a lot of time and.",
+      "timing": "00:21:22.110-00:21:23.940",
+      "uid": "u0219"
+    },
+    {
+      "header": "[u0220 | 00:21:24.840-00:21:27.240 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "We spent a long time at the Te'kula village too.",
+      "timing": "00:21:24.840-00:21:27.240",
+      "uid": "u0220"
+    },
+    {
+      "header": "[u0221 | 00:21:27.570-00:21:28.080 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You spent.",
+      "timing": "00:21:27.570-00:21:28.080",
+      "uid": "u0221"
+    },
+    {
+      "header": "[u0222 | 00:21:28.110-00:21:29.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "10 days in the Te'kula and.",
+      "timing": "00:21:28.110-00:21:29.550",
+      "uid": "u0222"
+    },
+    {
+      "header": "[u0223 | 00:21:29.700-00:21:34.320 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That's actually bad, I really wanted to get down to Grash before he defeated those two.",
+      "timing": "00:21:29.700-00:21:34.320",
+      "uid": "u0223"
+    },
+    {
+      "header": "[u0224 | 00:21:35.160-00:21:35.460 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Oh well.",
+      "timing": "00:21:35.160-00:21:35.460",
+      "uid": "u0224"
+    },
+    {
+      "header": "[u0225 | 00:21:36.180-00:21:37.500 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "He hasn't defeated them yet.",
+      "timing": "00:21:36.180-00:21:37.500",
+      "uid": "u0225"
+    },
+    {
+      "header": "[u0226 | 00:21:37.830-00:21:39.390 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Well, but we probably hear me.",
+      "timing": "00:21:37.830-00:21:39.390",
+      "uid": "u0226"
+    },
+    {
+      "header": "[u0227 | 00:21:41.280-00:21:43.530 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "No, he said mid-fall, didn't he?",
+      "timing": "00:21:41.280-00:21:43.530",
+      "uid": "u0227"
+    },
+    {
+      "header": "[u0228 | 00:21:44.190-00:21:52.830 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That's what he said, like in June, right, when you scryed him most recently, he was like, well, we don't have enough troops.",
+      "timing": "00:21:44.190-00:21:52.830",
+      "uid": "u0228"
+    },
+    {
+      "header": "[u0229 | 00:21:52.860-00:21:55.110 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right right right right okay.",
+      "timing": "00:21:52.860-00:21:55.110",
+      "uid": "u0229"
+    },
+    {
+      "header": "[u0230 | 00:21:55.980-00:21:57.120 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So you might have some time.",
+      "timing": "00:21:55.980-00:21:57.120",
+      "uid": "u0230"
+    },
+    {
+      "header": "[u0231 | 00:21:57.390-00:21:58.710 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "yeah anyway.",
+      "timing": "00:21:57.390-00:21:58.710",
+      "uid": "u0231"
+    },
+    {
+      "header": "[u0232 | 00:21:58.950-00:21:59.370 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "it's fall.",
+      "timing": "00:21:58.950-00:21:59.370",
+      "uid": "u0232"
+    },
+    {
+      "header": "[u0233 | 00:22:00.450-00:22:12.420 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yes, but they're carrying a big table out to the green, they're like clearly setting up a big feast. You see like, you know, freshly butchered deer, there's like pine brandy.",
+      "timing": "00:22:00.450-00:22:12.420",
+      "uid": "u0233"
+    },
+    {
+      "header": "[u0234 | 00:22:14.760-00:22:30.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like jars of jam being opened, and you know, like as you're eating or after you eat this sort of elaborate meal she sort of takes you takes you aside and she I mean everybody is kind of you know, in.",
+      "timing": "00:22:14.760-00:22:30.210",
+      "uid": "u0234"
+    },
+    {
+      "header": "[u0235 | 00:22:34.620-00:22:45.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Not exactly in awe, but like sort of very, you know, excited to see not only an elf but somebody who claims that Yezali is still around, or who claims that Yezali speaks through him.",
+      "timing": "00:22:34.620-00:22:45.540",
+      "uid": "u0235"
+    },
+    {
+      "header": "[u0236 | 00:22:46.830-00:22:50.370 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And so you're treated as a guest of honor and then um.",
+      "timing": "00:22:46.830-00:22:50.370",
+      "uid": "u0236"
+    },
+    {
+      "header": "[u0237 | 00:22:51.900-00:22:58.770 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know she she she comes up to you sort of in the firelight after dinner and sitting sort of privately and talks to you and says.",
+      "timing": "00:22:51.900-00:22:58.770",
+      "uid": "u0237"
+    },
+    {
+      "header": "[u0238 | 00:23:00.690-00:23:01.740 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We also have.",
+      "timing": "00:23:00.690-00:23:01.740",
+      "uid": "u0238"
+    },
+    {
+      "header": "[u0239 | 00:23:02.880-00:23:03.600 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Thought.",
+      "timing": "00:23:02.880-00:23:03.600",
+      "uid": "u0239"
+    },
+    {
+      "header": "[u0240 | 00:23:05.400-00:23:09.720 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "For some time, that the silent ones, the.",
+      "timing": "00:23:05.400-00:23:09.720",
+      "uid": "u0240"
+    },
+    {
+      "header": "[u0241 | 00:23:11.430-00:23:17.760 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "heroes of the great war have been imprisoned by some sort of evil power.",
+      "timing": "00:23:11.430-00:23:17.760",
+      "uid": "u0241"
+    },
+    {
+      "header": "[u0242 | 00:23:20.130-00:23:22.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Whether it was something that the great enemy did or.",
+      "timing": "00:23:20.130-00:23:22.980",
+      "uid": "u0242"
+    },
+    {
+      "header": "[u0243 | 00:23:24.990-00:23:26.070 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Something else.",
+      "timing": "00:23:24.990-00:23:26.070",
+      "uid": "u0243"
+    },
+    {
+      "header": "[u0244 | 00:23:30.570-00:23:32.910 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And she brings out two.",
+      "timing": "00:23:30.570-00:23:32.910",
+      "uid": "u0244"
+    },
+    {
+      "header": "[u0245 | 00:23:34.230-00:23:45.900 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Flat black circlets, armbands ringed with runes, both of which have been melted and bent in half and broken.",
+      "timing": "00:23:34.230-00:23:45.900",
+      "uid": "u0245"
+    },
+    {
+      "header": "[u0246 | 00:23:47.910-00:23:52.890 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And since you can read all writing, you can read the runes are an incantation to somebody, a prayer.",
+      "timing": "00:23:47.910-00:23:52.890",
+      "uid": "u0246"
+    },
+    {
+      "header": "[u0247 | 00:23:54.090-00:23:57.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "For shadows for darkness or ritual for teleportation.",
+      "timing": "00:23:54.090-00:23:57.540",
+      "uid": "u0247"
+    },
+    {
+      "header": "[u0248 | 00:23:57.930-00:23:59.070 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "Is one that's daily.",
+      "timing": "00:23:57.930-00:23:59.070",
+      "uid": "u0248"
+    },
+    {
+      "header": "[u0249 | 00:24:00.390-00:24:01.620 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "is obviously the.",
+      "timing": "00:24:00.390-00:24:01.620",
+      "uid": "u0249"
+    },
+    {
+      "header": "[u0250 | 00:24:01.920-00:24:04.200 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "not exactly familiar, but these are the same.",
+      "timing": "00:24:01.920-00:24:04.200",
+      "uid": "u0250"
+    },
+    {
+      "header": "[u0251 | 00:24:05.820-00:24:06.480 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Now, yes.",
+      "timing": "00:24:05.820-00:24:06.480",
+      "uid": "u0251"
+    },
+    {
+      "header": "[u0252 | 00:24:07.020-00:24:19.860 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yes, so one is decorated with a motif of fire that's dancing around the edge and is is in fact exactly familiar, like this is the armband that you touched, dragged you to the shadow.",
+      "timing": "00:24:07.020-00:24:19.860",
+      "uid": "u0252"
+    },
+    {
+      "header": "[u0253 | 00:24:20.100-00:24:21.570 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "You, Delwath, or—yes, oh.",
+      "timing": "00:24:20.100-00:24:21.570",
+      "uid": "u0253"
+    },
+    {
+      "header": "[u0254 | 00:24:21.630-00:24:22.860 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You, you, Delwath.",
+      "timing": "00:24:21.630-00:24:22.860",
+      "uid": "u0254"
+    },
+    {
+      "header": "[u0255 | 00:24:23.250-00:24:24.450 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Okay scary.",
+      "timing": "00:24:23.250-00:24:24.450",
+      "uid": "u0255"
+    },
+    {
+      "header": "[u0256 | 00:24:25.950-00:24:28.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The other is unfamiliar I mean it's the same design, but that.",
+      "timing": "00:24:25.950-00:24:28.470",
+      "uid": "u0256"
+    },
+    {
+      "header": "[u0257 | 00:24:28.470-00:24:31.530 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Nothing you've seen before. her now it'll actually here.",
+      "timing": "00:24:28.470-00:24:31.530",
+      "uid": "u0257"
+    },
+    {
+      "header": "[u0258 | 00:24:32.130-00:24:36.600 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "When he sees that armband he'll like draw back a moment and like.",
+      "timing": "00:24:32.130-00:24:36.600",
+      "uid": "u0258"
+    },
+    {
+      "header": "[u0259 | 00:24:38.760-00:24:44.490 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "almost like stumble back and then kind of catch himself and say I've seen that before.",
+      "timing": "00:24:38.760-00:24:44.490",
+      "uid": "u0259"
+    },
+    {
+      "header": "[u0260 | 00:24:46.500-00:24:52.620 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This one—she holds up the fire—this was found far to the south, south of the Blackwater Fens.",
+      "timing": "00:24:46.500-00:24:52.620",
+      "uid": "u0260"
+    },
+    {
+      "header": "[u0261 | 00:24:54.000-00:25:03.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We thought nothing of it for many years it ended up in our village, maybe a generation ago after having been traded, we could never.",
+      "timing": "00:24:54.000-00:25:03.840",
+      "uid": "u0261"
+    },
+    {
+      "header": "[u0262 | 00:25:05.100-00:25:09.180 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Melt it down or forge it into anything useful, so it sat.",
+      "timing": "00:25:05.100-00:25:09.180",
+      "uid": "u0262"
+    },
+    {
+      "header": "[u0263 | 00:25:12.120-00:25:13.800 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Is this familiar to you?",
+      "timing": "00:25:12.120-00:25:13.800",
+      "uid": "u0263"
+    },
+    {
+      "header": "[u0264 | 00:25:16.830-00:25:19.650 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "It is what sent me to the prison where I was imprisoned.",
+      "timing": "00:25:16.830-00:25:19.650",
+      "uid": "u0264"
+    },
+    {
+      "header": "[u0265 | 00:25:22.500-00:25:24.060 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "A prison perhaps is.",
+      "timing": "00:25:22.500-00:25:24.060",
+      "uid": "u0265"
+    },
+    {
+      "header": "[u0266 | 00:25:25.920-00:25:32.040 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The armies, I was fighting it was a pathway a door to a place where they could travel quickly.",
+      "timing": "00:25:25.920-00:25:32.040",
+      "uid": "u0266"
+    },
+    {
+      "header": "[u0267 | 00:25:37.230-00:25:44.310 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This one was destroyed more than a year ago now August, the past summer.",
+      "timing": "00:25:37.230-00:25:44.310",
+      "uid": "u0267"
+    },
+    {
+      "header": "[u0268 | 00:25:48.420-00:25:50.310 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There was a is.",
+      "timing": "00:25:48.420-00:25:50.310",
+      "uid": "u0268"
+    },
+    {
+      "header": "[u0269 | 00:25:51.720-00:25:54.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A man, one of our Deno'qai, a.",
+      "timing": "00:25:51.720-00:25:54.450",
+      "uid": "u0269"
+    },
+    {
+      "header": "[u0270 | 00:25:56.400-00:26:04.620 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Man blessed by the spirit of Istari, the tanshi of forest fires, who can control the flames, and he passed through inside and.",
+      "timing": "00:25:56.400-00:26:04.620",
+      "uid": "u0270"
+    },
+    {
+      "header": "[u0271 | 00:26:05.910-00:26:06.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Did something.",
+      "timing": "00:26:05.910-00:26:06.870",
+      "uid": "u0271"
+    },
+    {
+      "header": "[u0272 | 00:26:07.680-00:26:09.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Made it split and crack.",
+      "timing": "00:26:07.680-00:26:09.540",
+      "uid": "u0272"
+    },
+    {
+      "header": "[u0273 | 00:26:09.780-00:26:10.950 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I assume that's when.",
+      "timing": "00:26:09.780-00:26:10.950",
+      "uid": "u0273"
+    },
+    {
+      "header": "[u0274 | 00:26:12.630-00:26:13.740 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Delwath fell through the sky.",
+      "timing": "00:26:12.630-00:26:13.740",
+      "uid": "u0274"
+    },
+    {
+      "header": "[u0275 | 00:26:14.580-00:26:15.030 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "Yes.",
+      "timing": "00:26:14.580-00:26:15.030",
+      "uid": "u0275"
+    },
+    {
+      "header": "[u0276 | 00:26:16.470-00:26:22.710 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I will, Delwath will ask her a series of questions, try and pinpoint exactly what, like what was the, what was the date.",
+      "timing": "00:26:16.470-00:26:22.710",
+      "uid": "u0276"
+    },
+    {
+      "header": "[u0277 | 00:26:23.490-00:26:23.910 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:26:23.490-00:26:23.910",
+      "uid": "u0277"
+    },
+    {
+      "header": "[u0278 | 00:26:25.020-00:26:29.490 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yeah, it's exactly the day that the {{Dunbar}} was destroyed.",
+      "timing": "00:26:25.020-00:26:29.490",
+      "uid": "u0278"
+    },
+    {
+      "header": "[u0279 | 00:26:32.460-00:26:33.030 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So.",
+      "timing": "00:26:32.460-00:26:33.030",
+      "uid": "u0279"
+    },
+    {
+      "header": "[u0280 | 00:26:34.170-00:26:35.130 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I'll say that.",
+      "timing": "00:26:34.170-00:26:35.130",
+      "uid": "u0280"
+    },
+    {
+      "header": "[u0281 | 00:26:38.190-00:26:39.180 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That day.",
+      "timing": "00:26:38.190-00:26:39.180",
+      "uid": "u0281"
+    },
+    {
+      "header": "[u0282 | 00:26:40.380-00:26:44.310 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I fell from the from the sky I fell from the.",
+      "timing": "00:26:40.380-00:26:44.310",
+      "uid": "u0282"
+    },
+    {
+      "header": "[u0283 | 00:26:46.140-00:26:50.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "place of shadows, where I was trapped that very day, this was destroyed.",
+      "timing": "00:26:46.140-00:26:50.280",
+      "uid": "u0283"
+    },
+    {
+      "header": "[u0284 | 00:26:52.410-00:26:52.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You did.",
+      "timing": "00:26:52.410-00:26:52.980",
+      "uid": "u0284"
+    },
+    {
+      "header": "[u0285 | 00:26:55.050-00:26:57.090 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That is amazing.",
+      "timing": "00:26:55.050-00:26:57.090",
+      "uid": "u0285"
+    },
+    {
+      "header": "[u0286 | 00:26:58.200-00:27:05.610 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The second one was worn by some kind of deathless warlock that attacked a hunting camp on the slopes, a few years back.",
+      "timing": "00:26:58.200-00:27:05.610",
+      "uid": "u0286"
+    },
+    {
+      "header": "[u0287 | 00:27:06.810-00:27:07.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "and",
+      "timing": "00:27:06.810-00:27:07.290",
+      "uid": "u0287"
+    },
+    {
+      "header": "[u0288 | 00:27:08.580-00:27:10.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Well, in that battle.",
+      "timing": "00:27:08.580-00:27:10.470",
+      "uid": "u0288"
+    },
+    {
+      "header": "[u0289 | 00:27:12.780-00:27:15.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A warrior from the village was gravely wounded near death.",
+      "timing": "00:27:12.780-00:27:15.870",
+      "uid": "u0289"
+    },
+    {
+      "header": "[u0290 | 00:27:18.270-00:27:26.910 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And grasped that deathless creature to hold it to the ground for her companions to butcher with their swords and axes, but as she did, bleeding.",
+      "timing": "00:27:18.270-00:27:26.910",
+      "uid": "u0290"
+    },
+    {
+      "header": "[u0291 | 00:27:28.290-00:27:35.040 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Close to death, on the edge of consciousness, she touched the circlet and vanished, and we had hoped.",
+      "timing": "00:27:28.290-00:27:35.040",
+      "uid": "u0291"
+    },
+    {
+      "header": "[u0292 | 00:27:36.690-00:27:38.430 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Beyond hope perhaps that.",
+      "timing": "00:27:36.690-00:27:38.430",
+      "uid": "u0292"
+    },
+    {
+      "header": "[u0293 | 00:27:40.080-00:27:42.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "When this was destroyed at the same time that.",
+      "timing": "00:27:40.080-00:27:42.840",
+      "uid": "u0293"
+    },
+    {
+      "header": "[u0294 | 00:27:44.010-00:27:47.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The one you say freed you was destroyed, maybe she would return.",
+      "timing": "00:27:44.010-00:27:47.520",
+      "uid": "u0294"
+    },
+    {
+      "header": "[u0295 | 00:27:49.800-00:27:50.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And yet she has not.",
+      "timing": "00:27:49.800-00:27:50.970",
+      "uid": "u0295"
+    },
+    {
+      "header": "[u0296 | 00:27:52.980-00:27:54.810 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I returned.",
+      "timing": "00:27:52.980-00:27:54.810",
+      "uid": "u0296"
+    },
+    {
+      "header": "[u0297 | 00:27:56.040-00:27:58.440 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "More than 1000 miles from where I left.",
+      "timing": "00:27:56.040-00:27:58.440",
+      "uid": "u0297"
+    },
+    {
+      "header": "[u0298 | 00:28:00.870-00:28:02.010 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Perhaps she has.",
+      "timing": "00:28:00.870-00:28:02.010",
+      "uid": "u0298"
+    },
+    {
+      "header": "[u0299 | 00:28:03.090-00:28:05.640 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So perhaps she is alive somewhere in the world.",
+      "timing": "00:28:03.090-00:28:05.640",
+      "uid": "u0299"
+    },
+    {
+      "header": "[u0300 | 00:28:08.160-00:28:10.110 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That is rather than being trapped.",
+      "timing": "00:28:08.160-00:28:10.110",
+      "uid": "u0300"
+    },
+    {
+      "header": "[u0301 | 00:28:17.370-00:28:17.700 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "well.",
+      "timing": "00:28:17.370-00:28:17.700",
+      "uid": "u0301"
+    },
+    {
+      "header": "[u0302 | 00:28:20.100-00:28:25.920 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We thought until we destroyed these and nothing happened we thought perhaps there was some connection between these.",
+      "timing": "00:28:20.100-00:28:25.920",
+      "uid": "u0302"
+    },
+    {
+      "header": "[u0303 | 00:28:31.290-00:28:35.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "These talismans of shadow and the prison that.",
+      "timing": "00:28:31.290-00:28:35.670",
+      "uid": "u0303"
+    },
+    {
+      "header": "[u0304 | 00:28:37.680-00:28:45.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Has trapped the silent ones, but now you say, {{maybe destroying them has some time, maybe good return}}.",
+      "timing": "00:28:37.680-00:28:45.450",
+      "uid": "u0304"
+    },
+    {
+      "header": "[u0305 | 00:28:46.950-00:28:47.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yes, I'm I'm.",
+      "timing": "00:28:46.950-00:28:47.940",
+      "uid": "u0305"
+    },
+    {
+      "header": "[u0306 | 00:28:50.760-00:28:52.350 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "pretty sure I'm sure of it.",
+      "timing": "00:28:50.760-00:28:52.350",
+      "uid": "u0306"
+    },
+    {
+      "header": "[u0307 | 00:28:54.210-00:28:56.310 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "it's, the only thing I can think of that would explain it.",
+      "timing": "00:28:54.210-00:28:56.310",
+      "uid": "u0307"
+    },
+    {
+      "header": "[u0308 | 00:29:02.640-00:29:07.890 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And you say Yezali was trapped by a similar armband.",
+      "timing": "00:29:02.640-00:29:07.890",
+      "uid": "u0308"
+    },
+    {
+      "header": "[u0309 | 00:29:09.360-00:29:13.140 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yes, when he when they fought the great demons.",
+      "timing": "00:29:09.360-00:29:13.140",
+      "uid": "u0309"
+    },
+    {
+      "header": "[u0310 | 00:29:15.000-00:29:16.440 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "As a wolf and a.",
+      "timing": "00:29:15.000-00:29:16.440",
+      "uid": "u0310"
+    },
+    {
+      "header": "[u0311 | 00:29:17.520-00:29:20.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Eagle and a fox and other creatures that hunt at night.",
+      "timing": "00:29:17.520-00:29:20.940",
+      "uid": "u0311"
+    },
+    {
+      "header": "[u0312 | 00:29:21.990-00:29:23.820 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Tearing through this creature's flesh, but.",
+      "timing": "00:29:21.990-00:29:23.820",
+      "uid": "u0312"
+    },
+    {
+      "header": "[u0313 | 00:29:24.960-00:29:27.030 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Not but being torn apart as well.",
+      "timing": "00:29:24.960-00:29:27.030",
+      "uid": "u0313"
+    },
+    {
+      "header": "[u0314 | 00:29:28.830-00:29:30.390 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "feeling close to death.",
+      "timing": "00:29:28.830-00:29:30.390",
+      "uid": "u0314"
+    },
+    {
+      "header": "[u0315 | 00:29:31.980-00:29:32.490 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Tore at.",
+      "timing": "00:29:31.980-00:29:32.490",
+      "uid": "u0315"
+    },
+    {
+      "header": "[u0316 | 00:29:34.170-00:29:38.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Some general or—and touched one of these very bands, I saw it in a vision.",
+      "timing": "00:29:34.170-00:29:38.940",
+      "uid": "u0316"
+    },
+    {
+      "header": "[u0317 | 00:29:41.700-00:29:44.460 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That is the story of the Battle of Darkfire.",
+      "timing": "00:29:41.700-00:29:44.460",
+      "uid": "u0317"
+    },
+    {
+      "header": "[u0318 | 00:29:47.850-00:29:51.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The other silent ones fought in battles as well.",
+      "timing": "00:29:47.850-00:29:51.000",
+      "uid": "u0318"
+    },
+    {
+      "header": "[u0319 | 00:29:52.230-00:30:01.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow.",
+      "timing": "00:29:52.230-00:30:01.230",
+      "uid": "u0319"
+    },
+    {
+      "header": "[u0320 | 00:30:02.910-00:30:16.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter.",
+      "timing": "00:30:02.910-00:30:16.020",
+      "uid": "u0320"
+    },
+    {
+      "header": "[u0321 | 00:30:17.880-00:30:19.110 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The battle of the Yemo'te.",
+      "timing": "00:30:17.880-00:30:19.110",
+      "uid": "u0321"
+    },
+    {
+      "header": "[u0322 | 00:30:20.610-00:30:21.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Where.",
+      "timing": "00:30:20.610-00:30:21.000",
+      "uid": "u0322"
+    },
+    {
+      "header": "[u0323 | 00:30:22.440-00:30:29.730 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Midri and K'onisati fell silent, protecting the crossing of the river from endless hobgoblin hordes.",
+      "timing": "00:30:22.440-00:30:29.730",
+      "uid": "u0323"
+    },
+    {
+      "header": "[u0324 | 00:30:33.270-00:30:33.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Maybe.",
+      "timing": "00:30:33.270-00:30:33.870",
+      "uid": "u0324"
+    },
+    {
+      "header": "[u0325 | 00:30:36.660-00:30:40.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Maybe there are circlets like these that trapped.",
+      "timing": "00:30:36.660-00:30:40.980",
+      "uid": "u0325"
+    },
+    {
+      "header": "[u0326 | 00:30:42.780-00:30:45.540 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The rest of the silent ones.",
+      "timing": "00:30:42.780-00:30:45.540",
+      "uid": "u0326"
+    },
+    {
+      "header": "[u0327 | 00:30:49.560-00:30:51.660 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This is how you say Yezali vanished.",
+      "timing": "00:30:49.560-00:30:51.660",
+      "uid": "u0327"
+    },
+    {
+      "header": "[u0328 | 00:30:56.040-00:30:58.680 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yes, I suspect there are it it.",
+      "timing": "00:30:56.040-00:30:58.680",
+      "uid": "u0328"
+    },
+    {
+      "header": "[u0329 | 00:31:00.330-00:31:05.460 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "may be too much to hope that they are all trapped none of them truly perished.",
+      "timing": "00:31:00.330-00:31:05.460",
+      "uid": "u0329"
+    },
+    {
+      "header": "[u0330 | 00:31:08.400-00:31:10.170 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "But at least some must be.",
+      "timing": "00:31:08.400-00:31:10.170",
+      "uid": "u0330"
+    },
+    {
+      "header": "[u0331 | 00:31:13.560-00:31:17.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I'm not sure I believe a tanshi can truly die.",
+      "timing": "00:31:13.560-00:31:17.520",
+      "uid": "u0331"
+    },
+    {
+      "header": "[u0332 | 00:31:20.100-00:31:21.780 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "As long as they're not forgotten.",
+      "timing": "00:31:20.100-00:31:21.780",
+      "uid": "u0332"
+    },
+    {
+      "header": "[u0333 | 00:31:25.470-00:31:26.520 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That may be true.",
+      "timing": "00:31:25.470-00:31:26.520",
+      "uid": "u0333"
+    },
+    {
+      "header": "[u0334 | 00:31:27.510-00:31:30.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But silent ones are our greatest heroes.",
+      "timing": "00:31:27.510-00:31:30.000",
+      "uid": "u0334"
+    },
+    {
+      "header": "[u0335 | 00:31:31.980-00:31:33.780 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "They will certainly not be forgotten.",
+      "timing": "00:31:31.980-00:31:33.780",
+      "uid": "u0335"
+    },
+    {
+      "header": "[u0336 | 00:31:37.260-00:31:40.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The might arrayed against them was.",
+      "timing": "00:31:37.260-00:31:40.080",
+      "uid": "u0336"
+    },
+    {
+      "header": "[u0337 | 00:31:41.490-00:31:43.020 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "unimaginable to one.",
+      "timing": "00:31:41.490-00:31:43.020",
+      "uid": "u0337"
+    },
+    {
+      "header": "[u0338 | 00:31:44.280-00:31:45.990 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "generation separated from it.",
+      "timing": "00:31:44.280-00:31:45.990",
+      "uid": "u0338"
+    },
+    {
+      "header": "[u0339 | 00:31:48.120-00:31:49.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Perhaps that it's.",
+      "timing": "00:31:48.120-00:31:49.020",
+      "uid": "u0339"
+    },
+    {
+      "header": "[u0340 | 00:31:50.850-00:31:54.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Only the stories of those dark times have come down to us now.",
+      "timing": "00:31:50.850-00:31:54.450",
+      "uid": "u0340"
+    }
+  ],
+  "sourceSha256": "83a0cc955b801847da8e91e96fc6787bb9a6f5b45f0d974b5394472c5d892532",
+  "stage": "polish"
+}
