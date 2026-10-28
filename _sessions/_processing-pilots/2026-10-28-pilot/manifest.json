@@ -19,8 +19,8 @@
   "integrationBranch": "cloud/process-transcript-pilot-20261028",
   "pullRequestBase": "main",
   "draft": true,
-  "status": "ready_to_launch",
-  "workersLaunched": 0,
+  "status": "running",
+  "workersLaunched": 10,
   "maximumWorkers": 10,
   "model": "gpt-6-astra",
   "reasoning": "medium",
@@ -37,8 +37,8 @@
       "sessionNumber": 53,
       "purpose": "short Dunmar transcript",
       "branch": "cloud/transcript-pilot-20261028-dufr-053",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849d-4b2a-72a1-b985-4135d537b02a",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -63,7 +63,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849d-4b2a-72a1-b985-4135d537b02a",
+      "turnId": "01a1849d-544f-734b-aff5-20f7ea86f664",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_1da3658a7f8c81918021ce1b78d38d83",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "dufr-139",
@@ -72,8 +78,8 @@
       "sessionNumber": 139,
       "purpose": "long Dunmar transcript",
       "branch": "cloud/transcript-pilot-20261028-dufr-139",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849d-766a-7092-a735-5b5308c29035",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -105,7 +111,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849d-766a-7092-a735-5b5308c29035",
+      "turnId": "01a1849d-7d8e-72e3-a366-ec51457274e9",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_03eabcae71f8819199cfe4e9ea631280",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "dufr-050",
@@ -114,8 +126,8 @@
       "sessionNumber": 50,
       "purpose": "prepared-only input",
       "branch": "cloud/transcript-pilot-20261028-dufr-050",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849d-9ffb-776b-8141-d7cc129a5037",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -136,7 +148,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849d-9ffb-776b-8141-d7cc129a5037",
+      "turnId": "01a1849d-a6f3-7074-a90a-df29b8c6f2f0",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_b513fc5998f88191ac74250290e83646",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "dufr-077",
@@ -145,8 +163,8 @@
       "sessionNumber": 77,
       "purpose": "ordinary Dunmar session",
       "branch": "cloud/transcript-pilot-20261028-dufr-077",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849d-c54c-7241-bfba-fbace135300c",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -171,7 +189,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849d-c54c-7241-bfba-fbace135300c",
+      "turnId": "01a1849d-cd87-7039-b37a-b7747aafd9bc",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_f346ba1403e08191b8927f931cf2c45d",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "mawar-002",
@@ -180,8 +204,8 @@
       "sessionNumber": 2,
       "purpose": "Mawar coverage",
       "branch": "cloud/transcript-pilot-20261028-mawar-002",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849d-ef1e-7037-a204-43fef8543017",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -205,7 +229,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849d-ef1e-7037-a204-43fef8543017",
+      "turnId": "01a1849d-f51f-738e-b9d5-b0e38e86a65a",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_fedd3ac5a22c8191a983b1818c9ea8b0",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "mawar-005",
@@ -214,8 +244,8 @@
       "sessionNumber": 5,
       "purpose": "later Mawar session",
       "branch": "cloud/transcript-pilot-20261028-mawar-005",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849e-1612-7139-8f7f-88984e68a00d",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -238,7 +268,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849e-1612-7139-8f7f-88984e68a00d",
+      "turnId": "01a1849e-1dec-71a0-b07d-81345b8ed00f",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_35d014c91ca081918bdf0d6447e4b429",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "lablost-001",
@@ -247,8 +283,8 @@
       "sessionNumber": 1,
       "purpose": "Labyrinths coverage",
       "branch": "cloud/transcript-pilot-20261028-lablost-001",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849e-407e-75ad-8a54-fb86656d8029",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -273,7 +309,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849e-407e-75ad-8a54-fb86656d8029",
+      "turnId": "01a1849e-46fe-7784-96be-83685fe9770f",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_2f90146dad648191b1f2a6080185ae42",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "itc-001",
@@ -282,8 +324,8 @@
       "sessionNumber": 1,
       "purpose": "Chasm coverage",
       "branch": "cloud/transcript-pilot-20261028-itc-001",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849e-6863-76bf-83fb-30d37f85003e",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -316,7 +358,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849e-6863-76bf-83fb-30d37f85003e",
+      "turnId": "01a1849e-6ed4-7733-b83f-3ae0bd014f02",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_66d7b0ec846481919fb409f7c0b100b5",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "feywild-004",
@@ -325,8 +373,8 @@
       "sessionNumber": 4,
       "purpose": "Feywild coverage",
       "branch": "cloud/transcript-pilot-20261028-feywild-004",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849e-8c93-7656-bd32-7d4134c1d00f",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -360,7 +408,13 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849e-8c93-7656-bd32-7d4134c1d00f",
+      "turnId": "01a1849e-9433-7341-b2a2-035fea1350f0",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_df0c170d49608191a39f90d93838d024",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     },
     {
       "workerId": "dgnt-002",
@@ -369,8 +423,8 @@
       "sessionNumber": 2,
       "purpose": "Dragonets coverage",
       "branch": "cloud/transcript-pilot-20261028-dgnt-002",
-      "status": "pending_launch",
-      "chatId": null,
+      "status": "running",
+      "chatId": "01a1849e-b362-7005-a75d-cc22132d203c",
       "launchedAt": null,
       "model": "gpt-6-astra",
       "reasoning": "medium",
@@ -403,7 +457,27 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null
+      "result": null,
+      "threadId": "01a1849e-b362-7005-a75d-cc22132d203c",
+      "turnId": "01a1849e-bb7c-70c8-8efe-b08a78623ae9",
+      "admissionOutcome": "started",
+      "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_7d26ee1d995881919910238b53eb6181",
+      "launchRecordedAt": "2026-10-28T22:26:43Z",
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
+    }
+  ],
+  "controllerUpdatedAt": "2026-10-28T22:26:43Z",
+  "pullRequest": {
+    "number": 39,
+    "url": "https://github.com/tsackton/taelgar/pull/39",
+    "draft": true
+  },
+  "usageObservations": [
+    {
+      "observedAt": "2026-10-28T22:19:00Z",
+      "weeklyRemainingPercent": 89,
+      "resetUsed": false,
+      "source": "Parent-reported usage check; not independently measured by integration coordinator."
     }
   ]
 }
