@@ -29,6 +29,8 @@ Consider also where you are from, and your relationship with your kin and other 
 
 Elves in Taelgar typically have just a given name, using their ka, their homeland, or both if necessary for specificity. These names often have a lyrical sound, reflecting the Elvish language, with -o, -ion, -or, -on suffixes common for male names, and -e, -iel, -ril, -eth suffixes common for female names.
 
+Elven names are generally inspired by Tolkien’s Elvish languages. Other naming traditions are possible, though an obvious departure from this pattern is best accompanied by an in-world explanation.
+
 To choose the name for your Elven character, you might consider looking at [name](https://realelvish.net/names/generator/) [generators](https://www.namegeneratorfun.com/elf), consider one of these ideas, or you might invent your own, which might not follow typical Elven patterns.
 
 **Gender-Neutral Names:** Anglos, Amathrod, Astordil, Belegorn, Cadwar, Celebas, Culaf, Fothes, Glaeron, Gwindil, Hastor, Iorthon, Istor, Ningannel, Nillendur, Orosser, Sereg, Suldil, Tawaren, Tordil, Umbardil, Vanima

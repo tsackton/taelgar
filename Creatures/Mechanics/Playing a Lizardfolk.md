@@ -27,6 +27,8 @@ A simple answer if engaging with the lore of lizardfolk is not of interest might
 
 Lizardfolk in Taelgar typically have a single given name, with the name of their home village or a physical descriptor serving as a second name when needed. Lizardfolk are often named after favored ancestors, so names tend to repeat across generations and often have some meaning in family lore or history. Some lizardfolk believe that some fragment of an ancestor is reborn into a new generation; because of this belief typically names are not repeated within generations, only across generations.
 
+Lizardfolk names have often tended towards using an unusual language like Basque, to give them a distinctive feeling compared to human names, but this is not completely fixed and lizardfolk often work well for a kind of default 'fantasy' name unconnected to human languages. For a typical lizardfolk name, aim for a sound distinct from familiar Indo-European names, particularly Tolkien-style Elvish or Dwarvish.
+
 To choose a name for your lizardfolk character, you might consider using one of the names below or inventing your own, which might not follow typical lizardfolk naming practice.
 
 **Male Names:** Arran, Aitor, Arzhider, Benat, Eneko, Ganiz, Ilari, Itzal, Mattin, Samso, Zorion, Zuzen   
