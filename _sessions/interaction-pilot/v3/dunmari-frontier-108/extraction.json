@@ -1,0 +1,1919 @@
+{
+  "schema_version": 3,
+  "campaign": "dufr",
+  "session": "dunmari-frontier-108",
+  "segmentation_revision": 1,
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-source-cleaned.md",
+    "sha256": "f62634fc266a98cf745e034dd0d0647d37f0d30667bbb81a0806139f6496b4ab",
+    "kind": "transcript"
+  },
+  "supporting_sources": [
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+      "sha256": "f49db88314343d3ac4cb28ddf76bd39cff16db1edf5362f68c5721edb1fa2079"
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-beats.json",
+      "sha256": "9f427e2d342c7a2f59090b376e0031f6c257be15f0074ba785d6fdf28f743875"
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-beat-facts.json",
+      "sha256": "ad7c6bb2f6803aa959be8dc5f5c8b0b7ddcc5a28d18b79239b6ea8b4475ea5e5"
+    },
+    {
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+      "sha256": "b2f79939d1d8ed24c6b3d890b2a3f42f324a6533f77049735a36dcbef3d32e32"
+    },
+    {
+      "path": "People/Other Nonhumans/Ghesh.md",
+      "sha256": "6f4849426eb9559a5ae5ccf03b48e85184d38e9ea845ea8ceae29e38c1a9aad0"
+    },
+    {
+      "path": "People/Other Nonhumans/Megren.md",
+      "sha256": "0e8f06dd38df43fe0fc96b98a1d336b7358927ee534c8c96a2c290d436fef0e5"
+    },
+    {
+      "path": "People/Other Nonhumans/Ra'ghemdros.md",
+      "sha256": "81ea8f30cb6c2cf7caf1860681e63ac6dc33af98c4339188adf5b0343154177c"
+    },
+    {
+      "path": "People/PCs/Great War/Companions/Dimitaur.md",
+      "sha256": "efb1b6c20a64d34a88bfc9e77ea9ae9c14e49388492bc1da3d1ac8d20ac54327"
+    },
+    {
+      "path": "People/PCs/Great War/Rai.md",
+      "sha256": "dd386e4477ac053bf5e15de9f6cee82b157549366e1d3343355ab1db12e244ed"
+    },
+    {
+      "path": "People/Extraplanar Powers/Cha'mutte.md",
+      "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+    },
+    {
+      "path": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+      "sha256": "5abe8d26c4100d856d46c6140144a02736ced035825a4d4f75a94c3e4494a002"
+    },
+    {
+      "path": "People/Other Nonhumans/Revaka.md",
+      "sha256": "9963f2b4fcc91320c93c3d05322db325a760637248f3a53f7e18b27d33e3aa21"
+    },
+    {
+      "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md",
+      "sha256": "75859751908d76053996acce31b5803a591b4c70b8c957c525c815ee579207ad"
+    },
+    {
+      "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul.md",
+      "sha256": "f42b7b7bd54e70ea538f598b898ec2d5281a48319380827b91a3eae86fc0a0ce"
+    },
+    {
+      "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+      "sha256": "bf35e3836b64715e767ca9ecd5e580bdf18022024f653049a05fb9d597368ba9"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "startUid": "u0001",
+      "endUid": "u0530",
+      "location": "Wanderer statue complex",
+      "boundary": "Opening survey and planning at the statue.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "afternoon, about 2 PM",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u0001–u0530"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 2,
+      "startUid": "u0531",
+      "endUid": "u0562",
+      "location": "Route from the pilgrim hostel toward a ruined manor",
+      "boundary": "Party leaves the statue complex.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "afternoon",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u0531–u0562"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 3,
+      "startUid": "u0563",
+      "endUid": "u0848",
+      "location": "Ruined manor grounds — approach to the dragonets",
+      "boundary": "Arrival at the grounds; scouting and approach.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "afternoon",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u0563–u0848"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 4,
+      "startUid": "u0849",
+      "endUid": "u1706",
+      "location": "Ruined manor tower — dice game",
+      "boundary": "Kenzo approaches the dragonets and begins bargaining.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "afternoon",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u0849–u1706"
+        ]
+      },
+      "type": "conversation"
+    },
+    {
+      "index": 5,
+      "startUid": "u1707",
+      "endUid": "u2217",
+      "location": "Route to Megren’s tower",
+      "boundary": "Guided journey, with party coordination and a race along the way.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "late afternoon",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u1707–u2217"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 6,
+      "startUid": "u2218",
+      "endUid": "u2688",
+      "location": "Megren’s tower and grounds",
+      "boundary": "Arrival and a sustained conversation with Megren.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "late afternoon",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u2218–u2688"
+        ]
+      },
+      "type": "conversation"
+    },
+    {
+      "index": 7,
+      "startUid": "u2689",
+      "endUid": "u3099",
+      "location": "Rendezvous outside the dragonet settlement",
+      "boundary": "Kenzo reunites with the party and they compare plans.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "late afternoon",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u2689–u3099"
+        ]
+      },
+      "type": "conversation"
+    },
+    {
+      "index": 8,
+      "startUid": "u3100",
+      "endUid": "u3132",
+      "location": "Open terrain approaching the forest",
+      "boundary": "Travel across open ground under concealment.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "early evening",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u3100–u3132"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 9,
+      "startUid": "u3133",
+      "endUid": "u3401",
+      "location": "Memorial forest — pilgrim road",
+      "boundary": "Party enters the forest and senses the elder’s location.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "around 7 PM into sunset",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u3133–u3401"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 10,
+      "startUid": "u3402",
+      "endUid": "u3448",
+      "location": "Pilgrim road beside the first memory pool",
+      "boundary": "An hour’s progress along the road brings the party to the pool.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "around 8 PM",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u3402–u3448"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 11,
+      "startUid": "u3449",
+      "endUid": "u3521",
+      "location": "First memory pool — viewing area",
+      "boundary": "Kenzo steps off the road to inspect the water.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "around 8 PM",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u3449–u3521"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 12,
+      "startUid": "u3522",
+      "endUid": "u3555",
+      "location": "Pilgrim road — approaching a second pool",
+      "boundary": "Party resumes walking to a position within divination range.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "evening",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u3522–u3555"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 13,
+      "startUid": "u3556",
+      "endUid": "u3998",
+      "location": "Pilgrim road — rest and divination stop",
+      "boundary": "Party stops to scout, send a message, scry and rest; the source clarifies the scry retroactively.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "roughly 8–9 PM",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u3556–u3998"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 14,
+      "startUid": "u3999",
+      "endUid": "u4008",
+      "location": "Spiral-road junction — memorial approach",
+      "boundary": "Walk to the memorial at the mountain road junction.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "after the rest, about half an hour later",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u3999–u4008"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 15,
+      "startUid": "u4009",
+      "endUid": "u4563",
+      "location": "Elven memorial at the spiral-road junction",
+      "boundary": "Delwath touches the memorial; Kenzo communes with the forest and Seeker investigates.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "night",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u4009–u4563"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 16,
+      "startUid": "u4564",
+      "endUid": "u4686",
+      "location": "Summit courtyard — Temple of the Sibyl entrance",
+      "boundary": "Arrival at the summit and disarming the entrance trap.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "about 10:30 PM",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u4564–u4686"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 17,
+      "startUid": "u4687",
+      "endUid": "u5644",
+      "location": "Temple of the Sibyl — interior",
+      "boundary": "Party enters and holds one sustained exchange with the elder.",
+      "date": {
+        "start": "1749-05-18",
+        "end": "1749-05-18",
+        "time": "late night",
+        "basis": "May 18 from the session timeline; transcript gives about 2 PM at u0504, 7 PM at u3147, 8 PM at u3423, and about 10:30 PM at u4566–u4568. Intermediate times are relative, not exact.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+          "u4687–u5644"
+        ]
+      },
+      "type": "conversation"
+    }
+  ],
+  "excluded_ranges": [
+    {
+      "startUid": "u5645",
+      "endUid": "u5690",
+      "reason": "Closing break arrangements and next-session planning; the proposed long rest is not played on screen."
+    }
+  ],
+  "entities": [
+    {
+      "id": "ghesh",
+      "label": "Ghesh",
+      "canonical_name": "Ghesh",
+      "note": "People/Other Nonhumans/Ghesh.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Kenzo gambles with Ghesh, buys his discretion and guidance, races him on the way to Megren, and pays him after the introduction.",
+      "overview_records": [
+        "ghesh-0849",
+        "ghesh-2689"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "ghesh-0849-quote-1",
+        "ghesh-0849-quote-2",
+        "ghesh-0849-quote-3"
+      ]
+    },
+    {
+      "id": "megren",
+      "label": "Megren",
+      "canonical_name": "Megren",
+      "note": "People/Other Nonhumans/Megren.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Megren tells Kenzo she traded the jade fragment to Ra’ghemdros, describes the dragon’s dangerous lair, and passes on rumors of an elder despite fearing reprisals.",
+      "overview_records": [
+        "megren-1298",
+        "megren-2247",
+        "megren-2689"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "megren-2247-quote-1",
+        "megren-2247-quote-2"
+      ]
+    },
+    {
+      "id": "raghemdros",
+      "label": "Ra'ghemdros",
+      "canonical_name": "Ra'ghemdros",
+      "note": "People/Other Nonhumans/Ra'ghemdros.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party learns that Ra’ghemdros holds the jade, rules the dragonets through fear and rewards, and is Cha’mutte’s daughter, then debates negotiation, theft, or fighting her.",
+      "overview_records": [
+        "raghemdros-0849",
+        "raghemdros-2247",
+        "raghemdros-2689",
+        "raghemdros-3659",
+        "raghemdros-4687"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "dimitaur",
+      "label": "Dimitaur",
+      "canonical_name": "Dimitaur",
+      "note": "People/PCs/Great War/Companions/Dimitaur.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "After hearing rumors, locating and scrying the elder, the party bypasses Dimitaur’s trap and earns a conversation about Rai, Ra’ghemdros, Drankor, and Apollyon.",
+      "overview_records": [
+        "dimitaur-2247",
+        "dimitaur-3171",
+        "dimitaur-3659",
+        "dimitaur-3843",
+        "dimitaur-4687"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "dimitaur-4687-quote-1",
+        "dimitaur-4687-quote-2",
+        "dimitaur-4687-quote-3",
+        "dimitaur-4687-quote-4"
+      ]
+    },
+    {
+      "id": "rai",
+      "label": "Rai",
+      "canonical_name": "Rai",
+      "note": "People/PCs/Great War/Rai.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party uses its connection to Rai to seek the elder’s help and learns from Dimitaur about Rai’s disappearance and failed attempt to heal the land.",
+      "overview_records": [
+        "rai-3171",
+        "rai-3659",
+        "rai-4687"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "chamutte",
+      "label": "Cha'mutte",
+      "canonical_name": "Cha'mutte",
+      "note": "People/Extraplanar Powers/Cha'mutte.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party connects Cha’mutte to the plague and learns from Dimitaur that Ra’ghemdros is his daughter and may still carry out an assigned task.",
+      "overview_records": [
+        "chamutte-1458",
+        "chamutte-4687"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "apollyon",
+      "label": "Apollyon",
+      "canonical_name": "Apollyon",
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Apollyon’s impending escape drives the party’s search for the jade, questions for Dimitaur, and debate over the guarded forge and possible alliances.",
+      "overview_records": [
+        "apollyon-0447",
+        "apollyon-1458",
+        "apollyon-4443",
+        "apollyon-4687"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "revaka",
+      "label": "Hobgoblin wizard in the mirror",
+      "canonical_name": "Revaka",
+      "note": "People/Other Nonhumans/Revaka.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "During the Dimitaur conversation, the party considers consulting the imprisoned hobgoblin wizard as a potential ally against Cha’mutte’s daughter.",
+      "overview_records": [
+        "revaka-4687"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "d108-zadar",
+      "label": "Zadar",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "named",
+      "basis": "Named individual and specific source of Megren’s hearsay, u2516–u2627; not met by the party.",
+      "session_overview": "Megren cites Zadar’s account of an acid pool associated with dragonets who supposedly sought the rumored elder.",
+      "overview_records": [
+        "d108-zadar-2247"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "d108-forest",
+      "label": "Memorial forest",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "The DM explicitly establishes one collective consciousness at u4278–u4282 and u4422–u4425, speaking through the tree; keep one distinct entity, not one record per tree.",
+      "session_overview": "Kenzo communes with the forest about its memorials, isolation, and lost pilgrims, then honors its memories in his staff.",
+      "overview_records": [
+        "d108-forest-4094"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "d108-forest-4094-quote-1"
+      ]
+    },
+    {
+      "id": "d108-quartermaster",
+      "label": "Elven quartermaster remembered in the memorial",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "A specific individual’s memories are selected by the memorial at u4031–u4075; the written name is not transcribed.",
+      "session_overview": "Delwath sees a dead elf’s life as a quartermaster and their death in battle through the memorial.",
+      "overview_records": [
+        "d108-quartermaster-4009"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "rai-jade",
+      "kind": "item",
+      "label": "Rai’s jade hand fragments",
+      "canonical_name": "Jade Piece of Rai's Hand",
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md",
+      "eligibility": "named",
+      "basis": "One quest collection with explicitly differentiated parts: four already held versus the remaining fragment reported with the dragon; no acquisition of the fifth occurs here.",
+      "session_overview": "The party learns Megren gave the sought fifth fragment to Ra’ghemdros, weighs how to recover it, and shows Dimitaur the four fragments already held in Kenzo’s staff.",
+      "overview_records": [
+        "rai-jade-0849",
+        "rai-jade-2247",
+        "rai-jade-2689",
+        "rai-jade-3659",
+        "rai-jade-4687"
+      ],
+      "quote_review": "selected",
+      "featured_quote_ids": [
+        "rai-jade-2247-quote-1"
+      ]
+    },
+    {
+      "id": "forest-staff",
+      "kind": "item",
+      "label": "Staff of the Forest Soul",
+      "canonical_name": "Staff of the Forest Soul",
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul.md",
+      "eligibility": "named",
+      "basis": "The transcript explicitly places Kenzo’s staff in the communion and jade reveal; canonical note resolves its identity only.",
+      "session_overview": "Kenzo uses his staff while communing with the memorial forest, seeks an image to preserve in it, and reveals its concealed jade fragments to Dimitaur.",
+      "overview_records": [
+        "forest-staff-2247",
+        "forest-staff-4094",
+        "forest-staff-4687"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "d108-circlet",
+      "kind": "item",
+      "label": "Gold circlet with four alexandrite gems",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "distinctive",
+      "basis": "A specific gold circlet from Grimbaskal’s hoard is selected at u1614; the party negotiates its transfer and pays at u2657–u2663. Do not identify it with another named magic circlet.",
+      "session_overview": "Kenzo offers the circlet for Ghesh’s secrecy and guidance, then pays it over after the introduction to Megren.",
+      "overview_records": [
+        "d108-circlet-0849"
+      ],
+      "quote_review": "selected",
+      "featured_quote_ids": [
+        "d108-circlet-0849-quote-1"
+      ]
+    },
+    {
+      "id": "soul-mirror",
+      "kind": "item",
+      "label": "Mirror of Soul Trapping",
+      "canonical_name": "Mirror of Soul Trapping",
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+      "eligibility": "named",
+      "basis": "The plan explicitly refers to the mirror prison at u5272–u5312; no present use occurs in the recording.",
+      "session_overview": "The party considers consulting the hobgoblin wizard confined in the mirror as a possible ally against Ra’ghemdros, without actually contacting or releasing her.",
+      "overview_records": [
+        "soul-mirror-4687"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "d108-phylactery",
+      "kind": "item",
+      "label": "Apollyon’s phylactery",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "distinctive",
+      "basis": "A specific central quest object discussed at u5152–u5193 and u5330–u5335; its form and location are not established here.",
+      "session_overview": "The party hopes completing Rai’s jade hand will reveal the phylactery’s location and questions Dimitaur about finding and destroying it.",
+      "overview_records": [
+        "d108-phylactery-4687"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    }
+  ],
+  "interactions": [
+    {
+      "id": "apollyon-0447",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party checks the time remaining before Apollyon wakes while deciding how to explore the island.",
+      "transcript": [
+        {
+          "startUid": "u0447",
+          "endUid": "u0530"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0499",
+          "endUid": "u0505"
+        }
+      ],
+      "entity": "apollyon"
+    },
+    {
+      "id": "ghesh-0849",
+      "scenes": [
+        4,
+        5,
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Kenzo gambles with Ghesh, bargains for secrecy and an introduction, travels with him to Megren, and pays the agreed reward.",
+      "transcript": [
+        {
+          "startUid": "u0849",
+          "endUid": "u2688"
+        }
+      ],
+      "continuity": "One continuous visit with Ghesh: the dice bargain becomes a guided journey and introduction, ending with payment. Topic changes, party coordination, the race and Megren’s intervening dialogue remain within the encounter.",
+      "excerpts": [
+        {
+          "startUid": "u1121",
+          "endUid": "u1180"
+        },
+        {
+          "startUid": "u1527",
+          "endUid": "u1540"
+        },
+        {
+          "startUid": "u1975",
+          "endUid": "u2010"
+        },
+        {
+          "startUid": "u2194",
+          "endUid": "u2210"
+        },
+        {
+          "startUid": "u2657",
+          "endUid": "u2666"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1180",
+          "endUid": "u1180",
+          "kind": "dialogue",
+          "quote": "I'm always happy to play dice with people who seemingly don't know the rules.",
+          "speaker": "ghesh",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "ghesh-0849-quote-1"
+        },
+        {
+          "startUid": "u1539",
+          "endUid": "u1540",
+          "id": "ghesh-0849-quote-2",
+          "kind": "dialogue",
+          "quote": "Well, now it's a bargain. A few little coins isn't enough to buy my silence.",
+          "speaker": "ghesh",
+          "attribution": "Ghesh demands a meaningful payment before promising secrecy."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "id": "ghesh-0849-quote-3",
+          "kind": "dialogue",
+          "quote": "I, I would not mourn at her funeral.",
+          "speaker": "ghesh",
+          "attribution": "Ghesh answers Kenzo’s questions about whether he would miss Ra’ghemdros."
+        }
+      ],
+      "entity": "ghesh"
+    },
+    {
+      "id": "megren-1298",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Ghesh tells Kenzo that Megren brought back valuable treasure and offers to introduce them.",
+      "transcript": [
+        {
+          "startUid": "u1298",
+          "endUid": "u1706"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1299",
+          "endUid": "u1311"
+        },
+        {
+          "startUid": "u1527",
+          "endUid": "u1540"
+        }
+      ],
+      "entity": "megren"
+    },
+    {
+      "id": "raghemdros-0849",
+      "scenes": [
+        4,
+        5
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Ghesh describes Ra’ghemdros’s control over the dragonets and the rewards and dangers of serving her.",
+      "transcript": [
+        {
+          "startUid": "u0849",
+          "endUid": "u2217"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u1206",
+          "endUid": "u1240"
+        },
+        {
+          "startUid": "u1877",
+          "endUid": "u1940"
+        },
+        {
+          "startUid": "u2194",
+          "endUid": "u2210"
+        }
+      ],
+      "entity": "raghemdros"
+    },
+    {
+      "id": "raghemdros-2247",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Megren describes giving Ra’ghemdros the jade, the acidic lair, and a reported reprisal against dissenters.",
+      "transcript": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2688"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2340",
+          "endUid": "u2376"
+        },
+        {
+          "startUid": "u2432",
+          "endUid": "u2467"
+        },
+        {
+          "startUid": "u2535",
+          "endUid": "u2573"
+        }
+      ],
+      "entity": "raghemdros"
+    },
+    {
+      "id": "chamutte-1458",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party connects the haunted red-mist dreams to Cha’mutte’s plague.",
+      "transcript": [
+        {
+          "startUid": "u1458",
+          "endUid": "u1468"
+        }
+      ],
+      "entity": "chamutte"
+    },
+    {
+      "id": "apollyon-1458",
+      "scenes": [
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party speculates that Cha’mutte unleashed the plague partly to end Apollyon.",
+      "transcript": [
+        {
+          "startUid": "u1458",
+          "endUid": "u1468"
+        }
+      ],
+      "entity": "apollyon"
+    },
+    {
+      "id": "megren-2247",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Kenzo questions Megren about the jade, Ra’ghemdros, and the rumored elder, then leaves her with a carved likeness.",
+      "transcript": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2688"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2265"
+        },
+        {
+          "startUid": "u2340",
+          "endUid": "u2376"
+        },
+        {
+          "startUid": "u2432",
+          "endUid": "u2467"
+        },
+        {
+          "startUid": "u2535",
+          "endUid": "u2638"
+        },
+        {
+          "startUid": "u2664",
+          "endUid": "u2688"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u2605",
+          "endUid": "u2606",
+          "kind": "dialogue",
+          "quote": "But if you want to take a risk, you can take risks. I don't want to be turned into a pool of acid.",
+          "speaker": "megren",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "megren-2247-quote-1"
+        },
+        {
+          "startUid": "u2342",
+          "endUid": "u2343",
+          "id": "megren-2247-quote-2",
+          "kind": "dialogue",
+          "quote": "Like, whoever found it didn't even know what they had found. Why would you just leave that sitting out and not protect it or anything?",
+          "speaker": "megren",
+          "attribution": "Megren explains her opportunistic view of finding the jade on the mainland."
+        }
+      ],
+      "entity": "megren"
+    },
+    {
+      "id": "d108-zadar-2247",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Megren cites Zadar’s account of an acid pool as evidence behind the story of dragonets punished for seeking the elder.",
+      "transcript": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2688"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2516",
+          "endUid": "u2520"
+        },
+        {
+          "startUid": "u2535",
+          "endUid": "u2573"
+        },
+        {
+          "startUid": "u2616",
+          "endUid": "u2627"
+        }
+      ],
+      "entity": "d108-zadar"
+    },
+    {
+      "id": "dimitaur-2247",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Megren passes on a dangerous rumor of an elder living with the elves, while doubting the elder actually exists.",
+      "transcript": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2688"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2535",
+          "endUid": "u2638"
+        }
+      ],
+      "known_as": "rumored elder; identification as Dimitaur is only confirmed later",
+      "entity": "dimitaur"
+    },
+    {
+      "id": "raghemdros-2689",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The reunited party debates stealing, trading for, or fighting Ra’ghemdros for the jade.",
+      "transcript": [
+        {
+          "startUid": "u2689",
+          "endUid": "u3099"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2692",
+          "endUid": "u2724"
+        },
+        {
+          "startUid": "u2890",
+          "endUid": "u2934"
+        }
+      ],
+      "entity": "raghemdros"
+    },
+    {
+      "id": "ghesh-2689",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party considers using Ghesh as an intermediary in a possible trade with the dragon.",
+      "transcript": [
+        {
+          "startUid": "u2689",
+          "endUid": "u3099"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2713",
+          "endUid": "u2720"
+        }
+      ],
+      "entity": "ghesh"
+    },
+    {
+      "id": "megren-2689",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Kenzo’s report establishes that Megren handed the jade to the dragon and informs the party’s plans.",
+      "transcript": [
+        {
+          "startUid": "u2689",
+          "endUid": "u3099"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2692",
+          "endUid": "u2704"
+        }
+      ],
+      "entity": "megren"
+    },
+    {
+      "id": "dimitaur-3171",
+      "scenes": [
+        9
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "The party connects the rumored elder to Kenzo’s earlier vision, and Kenzo senses an elder dragonet at the summit monastery.",
+      "transcript": [
+        {
+          "startUid": "u3171",
+          "endUid": "u3401"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u3180",
+          "endUid": "u3184"
+        },
+        {
+          "startUid": "u3220",
+          "endUid": "u3259"
+        },
+        {
+          "startUid": "u3320",
+          "endUid": "u3338"
+        }
+      ],
+      "known_as": "elder dragonet; possible Dimitaur",
+      "entity": "dimitaur"
+    },
+    {
+      "id": "rai-3171",
+      "scenes": [
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party recalls Kenzo’s dream of Rai and an elderly dragonet while deciding how to locate the rumored elder.",
+      "transcript": [
+        {
+          "startUid": "u3171",
+          "endUid": "u3401"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u3220",
+          "endUid": "u3268"
+        }
+      ],
+      "entity": "rai"
+    },
+    {
+      "id": "dimitaur-3659",
+      "scenes": [
+        13
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Delwath sends the elder a request for an audience; the spirit messenger finds him but returns without a reply.",
+      "transcript": [
+        {
+          "startUid": "u3659",
+          "endUid": "u3830"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u3665",
+          "endUid": "u3720"
+        },
+        {
+          "startUid": "u3798",
+          "endUid": "u3819"
+        }
+      ],
+      "known_as": "elder dragonet",
+      "entity": "dimitaur"
+    },
+    {
+      "id": "dimitaur-3843",
+      "scenes": [
+        13
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "Delwath scries the elderly dragonet preparing a stone trap inside the Temple of the Sibyl and ignoring the messenger.",
+      "transcript": [
+        {
+          "startUid": "u3843",
+          "endUid": "u3998"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u3864",
+          "endUid": "u3899"
+        },
+        {
+          "startUid": "u3902",
+          "endUid": "u3927"
+        },
+        {
+          "startUid": "u3953",
+          "endUid": "u3984"
+        }
+      ],
+      "known_as": "elder dragonet; possible Dimitaur",
+      "continuity": "The source explains this scry after describing the completed rest, then explicitly places it earlier during the same rest. This is a separate remote observation, not a new conversational exchange.",
+      "entity": "dimitaur"
+    },
+    {
+      "id": "rai-3659",
+      "scenes": [
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party invokes Rai’s mission in its message to the elder while seeking help recovering the jade.",
+      "transcript": [
+        {
+          "startUid": "u3659",
+          "endUid": "u3998"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u3665",
+          "endUid": "u3712"
+        }
+      ],
+      "entity": "rai"
+    },
+    {
+      "id": "raghemdros-3659",
+      "scenes": [
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party names Ra’ghemdros as the holder of Rai’s jade in the message requesting the elder’s help.",
+      "transcript": [
+        {
+          "startUid": "u3659",
+          "endUid": "u3998"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u3680",
+          "endUid": "u3697"
+        }
+      ],
+      "entity": "raghemdros"
+    },
+    {
+      "id": "d108-quartermaster-4009",
+      "scenes": [
+        15
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "Touching the memorial, Delwath witnesses an elf’s quartermaster work and death defending a battlement.",
+      "transcript": [
+        {
+          "startUid": "u4009",
+          "endUid": "u4093"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4031",
+          "endUid": "u4047"
+        },
+        {
+          "startUid": "u4058",
+          "endUid": "u4075"
+        }
+      ],
+      "entity": "d108-quartermaster"
+    },
+    {
+      "id": "d108-forest-4094",
+      "scenes": [
+        15
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Kenzo communes with the forest about its lost pilgrims and memories, and asks for an image to preserve in his staff.",
+      "transcript": [
+        {
+          "startUid": "u4094",
+          "endUid": "u4442"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4128",
+          "endUid": "u4145"
+        },
+        {
+          "startUid": "u4227",
+          "endUid": "u4248"
+        },
+        {
+          "startUid": "u4325",
+          "endUid": "u4348"
+        },
+        {
+          "startUid": "u4365",
+          "endUid": "u4399"
+        },
+        {
+          "startUid": "u4419",
+          "endUid": "u4442"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u4332",
+          "endUid": "u4334",
+          "kind": "dialogue",
+          "quote": "We came when a refuge became a memorial.",
+          "speaker": "d108-forest",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "d108-forest-4094-quote-1"
+        }
+      ],
+      "entity": "d108-forest"
+    },
+    {
+      "id": "apollyon-4443",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party discusses whether the island’s origins and divine magic explain Apollyon’s interest, then investigates its structure.",
+      "transcript": [
+        {
+          "startUid": "u4443",
+          "endUid": "u4563"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4455",
+          "endUid": "u4465"
+        }
+      ],
+      "entity": "apollyon"
+    },
+    {
+      "id": "dimitaur-4687",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "After bypassing his trap, the party earns Dimitaur’s trust and questions him about Rai, the jade, the dragon, Drankor, and Apollyon.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4724",
+          "endUid": "u4755"
+        },
+        {
+          "startUid": "u4842",
+          "endUid": "u4896"
+        },
+        {
+          "startUid": "u4955",
+          "endUid": "u5018"
+        },
+        {
+          "startUid": "u5060",
+          "endUid": "u5103"
+        },
+        {
+          "startUid": "u5335",
+          "endUid": "u5350"
+        },
+        {
+          "startUid": "u5639",
+          "endUid": "u5644"
+        }
+      ],
+      "known_as": "elder dragonet; names himself Dimitaur at u5068",
+      "introduction": {
+        "startUid": "u4882",
+        "endUid": "u4883",
+        "kind": "description",
+        "quote": "Um, and he's walking slowly. He's carrying like a short staff in one hand and a wand in the other that he's still kind of pointing at you."
+      },
+      "continuity": "One temple conversation continues through jokes, thought-reading, gifts, tactical asides and many subject changes. It ends when the party proposes further discussion and a long rest.",
+      "quotes": [
+        {
+          "startUid": "u5103",
+          "endUid": "u5103",
+          "kind": "dialogue",
+          "quote": "The important thing is to just not keep the plans you make.",
+          "speaker": "dimitaur",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "dimitaur-4687-quote-1"
+        },
+        {
+          "startUid": "u4842",
+          "endUid": "u4842",
+          "id": "dimitaur-4687-quote-2",
+          "kind": "dialogue",
+          "quote": "The gods can only hear.",
+          "speaker": "dimitaur",
+          "attribution": "Dimitaur, still posing as the temple’s divine voice, admits he cannot see Kenzo’s dramatic display."
+        },
+        {
+          "startUid": "u5347",
+          "endUid": "u5348",
+          "id": "dimitaur-4687-quote-3",
+          "kind": "dialogue",
+          "quote": "I only stayed there a few months waiting for him, and it got dark and scary, and there was this, like, aura of fear that radiated out through the whole place coming from Apollyon's tomb. And every morning, I woke up wanting to run away, and eventually I did.",
+          "speaker": "dimitaur",
+          "attribution": "Dimitaur recounts why he abandoned Drankor while waiting for Rai."
+        },
+        {
+          "startUid": "u5448",
+          "endUid": "u5448",
+          "id": "dimitaur-4687-quote-4",
+          "kind": "dialogue",
+          "quote": "I'd pick an easier quest.",
+          "speaker": "dimitaur",
+          "attribution": "Dimitaur answers Kenzo’s request for advice on recovering the jade from the dragon."
+        }
+      ],
+      "entity": "dimitaur"
+    },
+    {
+      "id": "rai-4687",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Dimitaur recounts Rai’s disappearance after trying to heal the land and suggests the party may still find him.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4955",
+          "endUid": "u4986"
+        },
+        {
+          "startUid": "u5194",
+          "endUid": "u5241"
+        },
+        {
+          "startUid": "u5335",
+          "endUid": "u5416"
+        }
+      ],
+      "entity": "rai"
+    },
+    {
+      "id": "raghemdros-4687",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Dimitaur identifies Ra’ghemdros as Cha’mutte’s daughter and discusses her task, temper, and possible hostility toward Apollyon.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u5014",
+          "endUid": "u5054"
+        },
+        {
+          "startUid": "u5087",
+          "endUid": "u5124"
+        },
+        {
+          "startUid": "u5429",
+          "endUid": "u5485"
+        },
+        {
+          "startUid": "u5553",
+          "endUid": "u5576"
+        }
+      ],
+      "entity": "raghemdros"
+    },
+    {
+      "id": "chamutte-4687",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Dimitaur connects Cha’mutte to Ra’ghemdros’s lineage, the plague, and the conflict with Apollyon.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u5022",
+          "endUid": "u5035"
+        },
+        {
+          "startUid": "u5244",
+          "endUid": "u5259"
+        },
+        {
+          "startUid": "u5544",
+          "endUid": "u5568"
+        }
+      ],
+      "entity": "chamutte"
+    },
+    {
+      "id": "apollyon-4687",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The party warns Dimitaur about Apollyon’s imminent escape and seeks advice about his prison, phylactery, tower, and forge.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4987",
+          "endUid": "u5018"
+        },
+        {
+          "startUid": "u5152",
+          "endUid": "u5193"
+        },
+        {
+          "startUid": "u5553",
+          "endUid": "u5576"
+        },
+        {
+          "startUid": "u5598",
+          "endUid": "u5628"
+        }
+      ],
+      "entity": "apollyon"
+    },
+    {
+      "id": "revaka-4687",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "During the conversation, the party considers consulting the imprisoned hobgoblin wizard against Ra’ghemdros.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u5272",
+          "endUid": "u5312"
+        },
+        {
+          "startUid": "u5584",
+          "endUid": "u5593"
+        }
+      ],
+      "known_as": "hobgoblin wizard in the mirror",
+      "entity": "revaka"
+    },
+    {
+      "id": "rai-jade-0849",
+      "entity": "rai-jade",
+      "scenes": [
+        4,
+        5
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Ghesh’s account of Megren’s valuable mainland find gives the party a lead on the missing jade fragment.",
+      "transcript": [
+        {
+          "startUid": "u0849",
+          "endUid": "u2217"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1298",
+          "endUid": "u1315"
+        }
+      ],
+      "continuity": "One continuous conversation, investigation or encounter across the listed scene boundaries; minor interjections and movement remain in the complete range."
+    },
+    {
+      "id": "rai-jade-2247",
+      "entity": "rai-jade",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Megren describes finding the green gem and giving it to Ra’ghemdros in exchange for her tower.",
+      "transcript": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2688"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2319",
+          "endUid": "u2376"
+        },
+        {
+          "startUid": "u2403",
+          "endUid": "u2427"
+        }
+      ],
+      "known_as": "Megren’s green gem; identified as the sought fragment",
+      "quotes": [
+        {
+          "startUid": "u2341",
+          "endUid": "u2343",
+          "id": "rai-jade-2247-quote-1",
+          "kind": "dialogue",
+          "quote": "big green gem that was just sitting there. Like, whoever found it didn't even know what they had found. Why would you just leave that sitting out and not protect it or anything?",
+          "speaker": "megren",
+          "attribution": "Megren recounts finding the gem; this is a report of an earlier discovery, not a present transfer to the party."
+        }
+      ]
+    },
+    {
+      "id": "rai-jade-2689",
+      "entity": "rai-jade",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The reunited party debates trading, theft, and fighting to recover the jade held by the dragon.",
+      "transcript": [
+        {
+          "startUid": "u2689",
+          "endUid": "u3099"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2692",
+          "endUid": "u2711"
+        },
+        {
+          "startUid": "u2733",
+          "endUid": "u2759"
+        },
+        {
+          "startUid": "u2890",
+          "endUid": "u2915"
+        }
+      ]
+    },
+    {
+      "id": "rai-jade-3659",
+      "entity": "rai-jade",
+      "scenes": [
+        13
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party invokes Rai’s jade and mission in the message asking the elder for an audience.",
+      "transcript": [
+        {
+          "startUid": "u3659",
+          "endUid": "u3998"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u3665",
+          "endUid": "u3712"
+        }
+      ]
+    },
+    {
+      "id": "rai-jade-4687",
+      "entity": "rai-jade",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Kenzo reveals the four fragments to Dimitaur, recounts their recovery, and discusses whether completing the hand will help locate Apollyon’s phylactery.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4776",
+          "endUid": "u4795"
+        },
+        {
+          "startUid": "u4837",
+          "endUid": "u4888"
+        },
+        {
+          "startUid": "u4898",
+          "endUid": "u4930"
+        },
+        {
+          "startUid": "u5152",
+          "endUid": "u5193"
+        },
+        {
+          "startUid": "u5364",
+          "endUid": "u5388"
+        }
+      ]
+    },
+    {
+      "id": "forest-staff-2247",
+      "entity": "forest-staff",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Kenzo explains that the staff’s ordinary appearance conceals its four jade fragments beneath growing wood.",
+      "transcript": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2688"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2348",
+          "endUid": "u2364"
+        }
+      ]
+    },
+    {
+      "id": "forest-staff-4094",
+      "entity": "forest-staff",
+      "scenes": [
+        15
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Kenzo nestles the staff among the roots, communes with the forest, and asks for a memory to preserve in its design.",
+      "transcript": [
+        {
+          "startUid": "u4094",
+          "endUid": "u4442"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4102",
+          "endUid": "u4121"
+        },
+        {
+          "startUid": "u4291",
+          "endUid": "u4308"
+        },
+        {
+          "startUid": "u4350",
+          "endUid": "u4408"
+        }
+      ]
+    },
+    {
+      "id": "forest-staff-4687",
+      "entity": "forest-staff",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Kenzo reveals the jade within his staff to demonstrate the party’s connection to Rai.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u4779",
+          "endUid": "u4795"
+        },
+        {
+          "startUid": "u4837",
+          "endUid": "u4888"
+        }
+      ]
+    },
+    {
+      "id": "d108-circlet-0849",
+      "entity": "d108-circlet",
+      "scenes": [
+        4,
+        5,
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Kenzo negotiates the circlet as payment for Ghesh’s discretion and introduction, then hands over the promised reward.",
+      "transcript": [
+        {
+          "startUid": "u0849",
+          "endUid": "u2688"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1537",
+          "endUid": "u1540"
+        },
+        {
+          "startUid": "u1612",
+          "endUid": "u1655"
+        },
+        {
+          "startUid": "u2657",
+          "endUid": "u2663"
+        }
+      ],
+      "continuity": "One continuous conversation, investigation or encounter across the listed scene boundaries; minor interjections and movement remain in the complete range.",
+      "quotes": [
+        {
+          "startUid": "u1614",
+          "endUid": "u1614",
+          "id": "d108-circlet-0849-quote-1",
+          "kind": "dialogue",
+          "quote": "the golden circlet set with four green alexandrite gems from Grimbaskal's hoard, worth at least 500 gold.",
+          "speaker": "Delwath",
+          "attribution": "Delwath identifies the particular treasure proposed as payment; this is not an NPC line."
+        }
+      ]
+    },
+    {
+      "id": "soul-mirror-4687",
+      "entity": "soul-mirror",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party discusses speaking through the mirror to the imprisoned wizard and weighs the danger of freeing her.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u5272",
+          "endUid": "u5312"
+        },
+        {
+          "startUid": "u5584",
+          "endUid": "u5593"
+        }
+      ]
+    },
+    {
+      "id": "d108-phylactery-4687",
+      "entity": "d108-phylactery",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The party explains its plan to locate and destroy Apollyon’s phylactery, but Dimitaur cannot identify its location.",
+      "transcript": [
+        {
+          "startUid": "u4687",
+          "endUid": "u5644"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u5152",
+          "endUid": "u5193"
+        },
+        {
+          "startUid": "u5328",
+          "endUid": "u5340"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "Selection: 21 narrative beats, fifth-highest raw count among 34 available Dunmari beat files (110:46, 109:33, 136:32, 139:23, 108:21). Chosen for sustained multi-NPC conversations rather than mostly combat or postgame discussion. All four core PCs are listed in the session note and speak in this transcript: Kenzo, Wellby, Delwath and Seeker.",
+    "Seventeen scenes follow actual movement and rest boundaries. The 21 editorial beats are supporting evidence, not automatic interaction boundaries. Ghesh’s extended visit, Megren’s interview, the forest communion and Dimitaur’s temple conversation each stay together.",
+    "Dimitaur’s card distinguishes rumor, remote detection, a delivered message, scrying, and the later direct meeting. Source order includes a retrospective clarification of the scry during the rest, not an additional hour or second rest.",
+    "Name knowledge is explicit: the party guesses at the elder’s identity earlier, but his in-world introduction is u5068. Revaka is only discussed as the wizard in the mirror; she is not summoned or released in this recording.",
+    "Zadar’s account is hearsay through Megren, not an encounter or confirmed observation of the alleged victims. Ra’ghemdros is mentioned throughout, never actually encountered. Do not use Dimitaur’s imitation of the dragon as a direct quote from her.",
+    "The forest is one explicitly established speaking consciousness, retained as a distinctive entity. The selected dead quartermaster is one observed individual; exclude generic dragonet groups, the unintelligent messenger spirit, and crowds of dead souls.",
+    "Exclude incidental deity iconography, loot-provenance names, the DM’s background-history reminders about Omnis Pura and Orestes, and current-campaign PCs including absent Riswynn. Rai and Dimitaur were PCs/companions in another campaign but are NPC subjects here.",
+    "The session metadata ends May 19, but this transcript ends with plans for a long rest. Played interactions are dated May 18; no unseen morning encounter is invented.",
+    "Version 3 adds important-item cards and one dominant type per scene; existing scene boundaries, indexes, dates and NPC encounter ranges are preserved. Extra NPC quotes stay inside the same conversations.",
+    "The jade card is a collection, not a claim that the party has an intact hand: four fragments are already held and one is still sought. The staff is a separate object. The mirror is only discussed and the phylactery’s form is not established. Later canonical item histories and powers are not imported into the session.",
+    "Major NPC quotes now include three from Ghesh, two from Megren and four from Dimitaur, without adding NPC interaction records. The short source excerpt on the circlet is explicitly Delwath’s inventory description, not speech by the object or an NPC.",
+    "Scene types use dominant activity: the guided journey is travel, the memorial investigation and magical communion are exploration, and the temple exchange is conversation. Existing source boundaries are unchanged."
+  ]
+}

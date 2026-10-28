@@ -1,8 +1,8 @@
 # Taelgar Skills
 
-Last reviewed: **2026-10-27**
+Last reviewed: **2026-10-28**
 
-This guide covers the 24 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 25 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -28,6 +28,7 @@ These are normally called by the session pipeline, except for the optional trans
 | [beat-annotator](.agents/skills/beat-annotator/SKILL.md) | Records the supported facts for each beat, including people, places, items, organizations, and combat. Full-session work also reviews chronology against the session dates; a single-beat mode is available. | “Annotate these beats and check the session chronology.” |
 | [session-summary](.agents/skills/session-summary/SKILL.md) | Builds the structured recap from finalized beats and facts, using the pipeline's scene grouping and chronology when applicable. Produces compact timeline entries and recap prose at three levels of detail. | “Draft the session recap from these finalized beats and facts.” |
 | [beat-transcript-polisher](.agents/skills/beat-transcript-polisher/SKILL.md) | Produces readable transcript excerpts organized around recap scenes and links them from the recap. Preserves unresolved ASR `{{...}}` markers for review. Use after the recap exists, when the transcript itself is wanted as a more detailed view. | “Add polished transcript excerpts for this completed recap.” |
+| [extract-campaign-interactions](.agents/skills/extract-campaign-interactions/SKILL.md) | Extracts whole NPC conversations and important-item interactions with typed scenes, locations, dates, one overview per entity per session, multiple attributed quotes for major NPCs, and complete transcript ranges with short evidence excerpts; events and quotations come exclusively from the transcript. | “Extract NPC and important-item interactions from this session transcript.” |
 
 ## Reviewing and completing vault notes
 

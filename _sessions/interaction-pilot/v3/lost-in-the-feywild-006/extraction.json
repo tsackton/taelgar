@@ -1,0 +1,846 @@
+{
+  "schema_version": 3,
+  "campaign": "feywild",
+  "session": "lost-in-the-feywild-006",
+  "segmentation_revision": 1,
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-source-cleaned.md",
+    "sha256": "8193c88087cc2e237fb5e0e668d35853af9661e9ef3a9776858712e9bbb1a95c",
+    "kind": "transcript"
+  },
+  "supporting_sources": [
+    {
+      "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+      "sha256": "974d6bbd2de2b6301b9d8e212ea9540ae6762af2b61961e9d726916f3a9917a6"
+    },
+    {
+      "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-beats.json",
+      "sha256": "60007be89557391df54b97d0f2c9edb3c8f9911d911999280d5200deeb18dffd"
+    },
+    {
+      "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-beat-facts.json",
+      "sha256": "0dcb2bb8121694e7b4d2099f828a635eab14c5c338b87ef3930ee66d81e3b82b"
+    },
+    {
+      "path": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 06.md",
+      "sha256": "4f2579e4b99bba46489ba2a6ad9095bf82a520b9e4224d660b3e1fb472b39483"
+    },
+    {
+      "path": "People/Other Nonhumans/Aurae.md",
+      "sha256": "2249e28c8ba9fbc819eecc3d1c77b4ba2bdb2c5d7ebb3adce2a86c303841e716"
+    },
+    {
+      "path": "People/Other Humans/Menestheus.md",
+      "sha256": "6861587265453a8cd6004e7e8573a838e37d4f66ffd35a934de38980f2f65933"
+    },
+    {
+      "path": "People/Fey/Lord Endless Ending.md",
+      "sha256": "40f6d286d85b6c88b78e569a3545173126906214b1c23548f8e226f37ab110aa"
+    },
+    {
+      "path": "People/Sembarans/Lord Hulda.md",
+      "sha256": "dff0f75d32f1cf95259a872b7b61ea920824c18f0d0c2f7f706a016fcb266889"
+    },
+    {
+      "path": "People/Dwarves/Kallipseis.md",
+      "sha256": "335c53483350cd6de2c0ffe10b6395b136ee2b3c02c15a528408e59c9e611e7e"
+    },
+    {
+      "path": "Things/Books/On the Science and Possibilities of Soul Bindery.md",
+      "sha256": "2cfa774b506318b2ca53d6a22e2567dcc5d39f38935a542dd3055971fdc151ad"
+    },
+    {
+      "path": "Things/Books/Allegories for the Initiated.md",
+      "sha256": "c90ec53394f1796fc131f8e884d02a523c94573a512876e9f773122c469ab2e6"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "startUid": "u0056",
+      "endUid": "u0946",
+      "location": "Library — research assistant’s desk",
+      "boundary": "Played opening; conversation and preparations remain in the library.",
+      "date": {
+        "start": "1740-10-06",
+        "end": "1740-10-06",
+        "time": "evening (session date; Feywild time uncertain)",
+        "basis": "Manifest and session note date the continuing Feywild expedition; no tighter clock time is supported.",
+        "evidence": [
+          "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 06.md",
+          "u0056–u0946"
+        ]
+      },
+      "type": "conversation"
+    },
+    {
+      "index": 2,
+      "startUid": "u0947",
+      "endUid": "u0972",
+      "location": "Library — crossing the stacks",
+      "boundary": "Party leaves the desk and crosses the room.",
+      "date": {
+        "start": "1740-10-06",
+        "end": "1740-10-06",
+        "time": "evening (session date; Feywild time uncertain)",
+        "basis": "Manifest and session note date the continuing Feywild expedition; no tighter clock time is supported.",
+        "evidence": [
+          "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 06.md",
+          "u0947–u0972"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 3,
+      "startUid": "u0973",
+      "endUid": "u1043",
+      "location": "Prison doorway — three windows",
+      "boundary": "Arrival at the prison door.",
+      "date": {
+        "start": "1740-10-06",
+        "end": "1740-10-06",
+        "time": "evening (session date; Feywild time uncertain)",
+        "basis": "Manifest and session note date the continuing Feywild expedition; no tighter clock time is supported.",
+        "evidence": [
+          "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 06.md",
+          "u0973–u1043"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 4,
+      "startUid": "u1044",
+      "endUid": "u1078",
+      "location": "Prison doorway — sudden attack",
+      "boundary": "Menestheus transforms and attacks as the party enters.",
+      "date": {
+        "start": "1740-10-06",
+        "end": "1740-10-06",
+        "time": "evening (session date; Feywild time uncertain)",
+        "basis": "Manifest and session note date the continuing Feywild expedition; no tighter clock time is supported.",
+        "evidence": [
+          "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 06.md",
+          "u1044–u1078"
+        ]
+      },
+      "type": "combat"
+    },
+    {
+      "index": 5,
+      "startUid": "u1079",
+      "endUid": "u1096",
+      "location": "Inside the prison",
+      "boundary": "Door closes behind the party.",
+      "date": {
+        "start": "1740-10-06",
+        "end": "1740-10-06",
+        "time": "evening (session date; Feywild time uncertain)",
+        "basis": "Manifest and session note date the continuing Feywild expedition; no tighter clock time is supported.",
+        "evidence": [
+          "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 06.md",
+          "u1079–u1096"
+        ]
+      },
+      "type": "exploration"
+    }
+  ],
+  "excluded_ranges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0055",
+      "reason": "Opening recap of earlier sessions, including previously heard prisoner speech."
+    },
+    {
+      "startUid": "u1097",
+      "endUid": "u1128",
+      "reason": "Closing scheduling and out-of-character discussion."
+    }
+  ],
+  "entities": [
+    {
+      "id": "aurae",
+      "label": "Aurae",
+      "canonical_name": "Aurae",
+      "note": "People/Other Nonhumans/Aurae.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party befriends the research assistant, learns about the prison and soul binding, names her Aurae, and takes her along in a backpack.",
+      "overview_records": [
+        "aurae-0156",
+        "aurae-0947"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "aurae-0156-quote-1",
+        "aurae-0156-quote-2",
+        "aurae-0156-quote-3",
+        "aurae-0156-quote-4"
+      ]
+    },
+    {
+      "id": "menestheus",
+      "label": "Menestheus",
+      "canonical_name": "Menestheus",
+      "note": "People/Other Humans/Menestheus.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Menestheus accompanies the party while increasingly ill, denies expertise in soul binding, then transforms and grabs Txarro before being left outside the prison.",
+      "overview_records": [
+        "menestheus-0149",
+        "menestheus-1038"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "menestheus-0149-quote-1"
+      ]
+    },
+    {
+      "id": "prisoner",
+      "label": "Central prisoner",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "One specific captive, explicitly represented across three windows; no unsupported identity assigned.",
+      "session_overview": "The party debates the prisoner’s confinement and sees one figure at different ages through the door’s three windows before entering.",
+      "overview_records": [
+        "prisoner-0187",
+        "prisoner-0973"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "endless-ending",
+      "label": "Lord Endless Ending",
+      "canonical_name": "Lord Endless Ending",
+      "note": "People/Fey/Lord Endless Ending.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party considers Lord Endless Ending’s key and their agreement with him while deciding whether to enter the prisoner’s chamber.",
+      "overview_records": [
+        "endless-ending-0187"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "hulda",
+      "label": "Lord Hulda",
+      "canonical_name": "Lord Hulda",
+      "note": "People/Sembarans/Lord Hulda.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Ayveen recalls the party’s earlier work for Lord Hulda while questioning whom they should help.",
+      "overview_records": [
+        "hulda-0115"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "kallipseis",
+      "label": "Dwarven gardener",
+      "canonical_name": "Kallipseis",
+      "note": "People/Dwarves/Kallipseis.md",
+      "eligibility": "named",
+      "basis": "The previously encountered dwarven gardener/fungus lady is identified as Kallipseis by the session sources.",
+      "session_overview": "The party recalls the gardener’s key advice and her association with the order while considering what lies beyond the library.",
+      "overview_records": [
+        "kallipseis-0187"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "f6-order-visitor",
+      "label": "Unnamed human visitor",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "Specific human woman who last visited the assistant and entered the prison, u0327–u0353.",
+      "session_overview": "Aurae recalls a recent human visitor who requested an order text and passed through the prisoner’s door.",
+      "overview_records": [
+        "f6-order-visitor-0295"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "f6-soul-author",
+      "label": "Unnamed author of Soul Bindery",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "Specific author explicitly asked about at u0500–u0501; central to the interpretation of this prison, not merely a bibliography name.",
+      "session_overview": "The party reads an order author’s argument for exploiting captive souls, uses it to interpret the prison, and burns the book.",
+      "overview_records": [
+        "f6-soul-author-0475"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "f6-soul-author-0475-quote-1"
+      ]
+    },
+    {
+      "id": "f6-glass-key",
+      "kind": "item",
+      "label": "Pale blue glass key",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "distinctive",
+      "basis": "Specific six-inch pale blue glass key at u0187–u0189, with its final use and removal constraint at u1024 and u1085–u1089.",
+      "session_overview": "The party weighs uses for the glass key, opens the prisoner’s door, and learns that the key must remain engaged in the lock.",
+      "overview_records": [
+        "f6-glass-key-0156",
+        "f6-glass-key-0973"
+      ],
+      "quote_review": "selected",
+      "featured_quote_ids": [
+        "f6-glass-key-0973-quote-1"
+      ]
+    },
+    {
+      "id": "soul-bindery",
+      "kind": "item",
+      "label": "On the Science and Possibilities of Soul Bindery",
+      "canonical_name": "On the Science and Possibilities of Soul Bindery",
+      "note": "Things/Books/On the Science and Possibilities of Soul Bindery.md",
+      "eligibility": "named",
+      "basis": "The title, reading and burning are explicit at u0479–u0501 and u0799–u0808.",
+      "session_overview": "The party reads the treatise’s proposals for exploiting captive souls, uses its clues to interpret the prison, and then burns it.",
+      "overview_records": [
+        "soul-bindery-0475"
+      ],
+      "quote_review": "selected",
+      "featured_quote_ids": [
+        "soul-bindery-0475-quote-1"
+      ]
+    },
+    {
+      "id": "allegories",
+      "kind": "item",
+      "label": "Allegories for the Initiated",
+      "canonical_name": "Allegories for the Initiated",
+      "note": "Things/Books/Allegories for the Initiated.md",
+      "eligibility": "named",
+      "basis": "Named and paged through at u0335–u0347.",
+      "session_overview": "The party examines the order’s book of stories and riddles while learning about the visitor who left it on Aurae’s desk.",
+      "overview_records": [
+        "allegories-0295"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    }
+  ],
+  "interactions": [
+    {
+      "id": "aurae-0156",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party questions the assistant about the prison, souls, and escape, names her Aurae, and rigs a backpack so she can accompany them.",
+      "transcript": [
+        {
+          "startUid": "u0156",
+          "endUid": "u0932"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0156",
+          "endUid": "u0175"
+        },
+        {
+          "startUid": "u0325",
+          "endUid": "u0338"
+        },
+        {
+          "startUid": "u0475",
+          "endUid": "u0505"
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0840"
+        },
+        {
+          "startUid": "u0912",
+          "endUid": "u0932"
+        }
+      ],
+      "introduction": {
+        "startUid": "u0175",
+        "endUid": "u0175",
+        "kind": "description",
+        "quote": "an automaton that's sort of made out of clockwork and painted porcelain."
+      },
+      "quotes": [
+        {
+          "startUid": "u0829",
+          "endUid": "u0829",
+          "kind": "dialogue",
+          "quote": "I know that I'm not happy, alone by myself. I've read all of these books already.",
+          "speaker": "aurae",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "aurae-0156-quote-1"
+        },
+        {
+          "startUid": "u0283",
+          "endUid": "u0283",
+          "id": "aurae-0156-quote-2",
+          "kind": "dialogue",
+          "quote": "The books, some of them, the ones that haven't been preserved magically, the paper ages slightly, and I listen for the aging of the paper. I pay very close attention to everything that's in the books, you see.",
+          "speaker": "aurae",
+          "attribution": "Aurae explains how she measures time by attending to the books."
+        },
+        {
+          "startUid": "u0826",
+          "endUid": "u0826",
+          "id": "aurae-0156-quote-3",
+          "kind": "dialogue",
+          "quote": "Yes, I am not able to want to leave.",
+          "speaker": "aurae",
+          "attribution": "Aurae answers Kaito’s offer to try taking her out of the library."
+        },
+        {
+          "startUid": "u0833",
+          "endUid": "u0833",
+          "id": "aurae-0156-quote-4",
+          "kind": "dialogue",
+          "quote": "I would like my name to be Aurae.",
+          "speaker": "aurae",
+          "attribution": "The assistant chooses the name Aurae during the same conversation."
+        }
+      ],
+      "entity": "aurae"
+    },
+    {
+      "id": "aurae-0947",
+      "scenes": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "overview": "Aurae accompanies the party in Edric’s backpack as they cross the library and escape through the prison door.",
+      "transcript": [
+        {
+          "startUid": "u0947",
+          "endUid": "u1096"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u1064",
+          "endUid": "u1081"
+        }
+      ],
+      "presence_basis": "u0925–u0932 establishes the backpack; u1064–u1081 explicitly confirms Edric is carrying Aurae through the door. No new speech or action by her is described; this transit record includes the brief attack and door crossing.",
+      "entity": "aurae"
+    },
+    {
+      "id": "menestheus-0149",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "The increasingly ill Menestheus accompanies the library discussion and tells Edric that soul binding is outside his expertise.",
+      "transcript": [
+        {
+          "startUid": "u0149",
+          "endUid": "u0932"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0149",
+          "endUid": "u0152"
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0611"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u0602",
+          "endUid": "u0604",
+          "kind": "dialogue",
+          "quote": "Listen… A lot of wizards did a lot of weird shit, right? You saw the fungus, lady. That's not my department.",
+          "speaker": "menestheus",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "menestheus-0149-quote-1"
+        }
+      ],
+      "entity": "menestheus"
+    },
+    {
+      "id": "menestheus-1038",
+      "scenes": [
+        3,
+        4,
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Menestheus transforms and seizes Txarro, who escapes in anole form while the party leaves Menestheus outside.",
+      "transcript": [
+        {
+          "startUid": "u1038",
+          "endUid": "u1081"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u1044",
+          "endUid": "u1061"
+        },
+        {
+          "startUid": "u1079",
+          "endUid": "u1081"
+        }
+      ],
+      "entity": "menestheus"
+    },
+    {
+      "id": "prisoner-0187",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The party and Aurae discuss the prisoner’s confinement, the key, and the possibility of a soul-powered prison.",
+      "transcript": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0810"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0236"
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0501"
+        },
+        {
+          "startUid": "u0758",
+          "endUid": "u0773"
+        }
+      ],
+      "entity": "prisoner"
+    },
+    {
+      "id": "prisoner-0973",
+      "scenes": [
+        3
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "Through three windows, the party observes the same captive as a child, a young adult, and an aged figure.",
+      "transcript": [
+        {
+          "startUid": "u0973",
+          "endUid": "u1043"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0973",
+          "endUid": "u1007"
+        }
+      ],
+      "entity": "prisoner"
+    },
+    {
+      "id": "endless-ending-0187",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party weighs Lord Endless Ending’s instructions and the key against the dangers of entering the prison.",
+      "transcript": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0810"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0190",
+          "endUid": "u0236"
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0470"
+        },
+        {
+          "startUid": "u0758",
+          "endUid": "u0773"
+        }
+      ],
+      "entity": "endless-ending"
+    },
+    {
+      "id": "hulda-0115",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Ayveen reflects on the party’s earlier attempt to help Lord Hulda and its changed loyalties.",
+      "transcript": [
+        {
+          "startUid": "u0115",
+          "endUid": "u0120"
+        }
+      ],
+      "entity": "hulda"
+    },
+    {
+      "id": "kallipseis-0187",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party recalls the gardener’s advice about the key and questions Menestheus about the order’s disturbing practices.",
+      "transcript": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0611"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0196",
+          "endUid": "u0198"
+        },
+        {
+          "startUid": "u0602",
+          "endUid": "u0611"
+        }
+      ],
+      "known_as": "dwarven gardener / fungus lady",
+      "entity": "kallipseis"
+    },
+    {
+      "id": "f6-order-visitor-0295",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Aurae describes the human woman who requested an order text and then entered the prisoner’s chamber.",
+      "transcript": [
+        {
+          "startUid": "u0295",
+          "endUid": "u0353"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0325",
+          "endUid": "u0353"
+        }
+      ],
+      "entity": "f6-order-visitor"
+    },
+    {
+      "id": "f6-soul-author-0475",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party studies the author’s proposed exploitation of captive souls and then burns the book in disgust.",
+      "transcript": [
+        {
+          "startUid": "u0475",
+          "endUid": "u0810"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0481",
+          "endUid": "u0501"
+        },
+        {
+          "startUid": "u0799",
+          "endUid": "u0810"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u0488",
+          "endUid": "u0488",
+          "kind": "written",
+          "quote": "one can drink from a stream, but the wise man builds a water wheel and binds the force of moving water to use.",
+          "speaker": "f6-soul-author",
+          "attribution": "The DM explicitly introduces this as a passage written by the author of On the Science and Possibilities of Soul Bindery.",
+          "id": "f6-soul-author-0475-quote-1"
+        }
+      ],
+      "entity": "f6-soul-author"
+    },
+    {
+      "id": "f6-glass-key-0156",
+      "entity": "f6-glass-key",
+      "scenes": [
+        1
+      ],
+      "interaction": "observed",
+      "importance": "star",
+      "overview": "The party studies the key and debates using it to enter the prison or escape the house.",
+      "transcript": [
+        {
+          "startUid": "u0156",
+          "endUid": "u0932"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0198"
+        },
+        {
+          "startUid": "u0758",
+          "endUid": "u0778"
+        }
+      ]
+    },
+    {
+      "id": "f6-glass-key-0973",
+      "entity": "f6-glass-key",
+      "scenes": [
+        3,
+        4,
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party uses the key to open the chosen prison doorway and cannot take it along while the door is open.",
+      "transcript": [
+        {
+          "startUid": "u0973",
+          "endUid": "u1096"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1024"
+        },
+        {
+          "startUid": "u1085",
+          "endUid": "u1092"
+        }
+      ],
+      "continuity": "One continuous conversation, investigation or encounter across the listed scene boundaries; minor interjections and movement remain in the complete range.",
+      "quotes": [
+        {
+          "startUid": "u1089",
+          "endUid": "u1089",
+          "id": "f6-glass-key-0973-quote-1",
+          "kind": "description",
+          "quote": "to open the door, the key has to remain in the lock engaged.",
+          "speaker": null,
+          "attribution": "The DM explains the lock’s requirement when Ayveen asks to take the key."
+        }
+      ]
+    },
+    {
+      "id": "soul-bindery-0475",
+      "entity": "soul-bindery",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party studies the book’s soul-binding arguments and possible escape clue before Txarro burns it in solidarity with Edric.",
+      "transcript": [
+        {
+          "startUid": "u0475",
+          "endUid": "u0810"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0475",
+          "endUid": "u0501"
+        },
+        {
+          "startUid": "u0799",
+          "endUid": "u0810"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u0488",
+          "endUid": "u0488",
+          "id": "soul-bindery-0475-quote-1",
+          "kind": "written",
+          "quote": "one can drink from a stream, but the wise man builds a water wheel and binds the force of moving water to use.",
+          "speaker": "f6-soul-author",
+          "attribution": "The DM reads a passage by the book’s unnamed author; the author’s view is not asserted as fact."
+        }
+      ]
+    },
+    {
+      "id": "allegories-0295",
+      "entity": "allegories",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Aurae identifies the abandoned book, and the party examines its unsettling allegories while asking about its previous reader.",
+      "transcript": [
+        {
+          "startUid": "u0295",
+          "endUid": "u0353"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0325",
+          "endUid": "u0353"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "Selected for its sustained library dialogue: three narrative beats become five source-bounded scenes, with Aurae’s entire conversation retained as one interaction.",
+    "One overview per NPC; Aurae’s idle presence after recruitment is separate from the completed conversation. Menestheus’s direct reply takes precedence over idle presence during the same library encounter.",
+    "The captive’s three apparent ages represent one individual. The unnamed recent visitor and central book author qualify as distinct consequential individuals; generic story characters and bibliographic name drops do not.",
+    "Exclude current-campaign PCs including Tarek, who is carried along despite the absent player. Kallipseis is mentioned, not newly met. The opening recap and prisoner monologue are not new-session interactions.",
+    "Ashara Ven’s book attribution is explicitly retracted at u0966–u0969. Marcion, Eucostus and Yendela are incidental bibliographic references, not developed NPC interactions here. Lord Hulda’s later mistaken identification with Lord Endless Ending is corrected, not indexed as a second interaction.",
+    "Written words by the Soul Bindery author are labeled written, not spoken dialogue; Aurae and Menestheus quotes are direct NPC speech.",
+    "Version 3 adds important-item cards and one dominant type per scene; existing scene boundaries, indexes, dates and NPC encounter ranges are preserved. Extra NPC quotes stay inside the same conversations.",
+    "The key and two studied books qualify as items. Aurae stays an NPC despite being constructed and carried. Soul Bindery and its author remain distinct entities sharing an explicitly written source quote; ordinary shelves and incidental book titles are excluded."
+  ]
+}

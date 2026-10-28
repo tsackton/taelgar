@@ -1,0 +1,626 @@
+DUNMARI FRONTIER: INTERACTION EXTRACTION PILOT
+19 illustrative interaction records from selected passages across three randomly selected transcripts; not an exhaustive NPC or mention inventory.
+Random seed: 20261028. Selected sessions: 12, 59, 10.
+All importance labels and extraction judgments remain provisional.
+For the source mapping, caveats, provenance and transcript hashes, see interactions.json.
+
+dufr-010-interaction-01
+NPC: Vola
+Interaction: met | Importance: major
+Location: Raven’s Hold — occupied tower, prison room
+Scene: Into the Towers
+Date: 1748-04-12 (evening)
+Other NPCs present (supported subset): None established; see caveat
+Context: Kenzo introduces himself to the imprisoned Vola and unties her.
+Caveat: The guards leave before this exchange (u1901–u1909). Other players speaking at the table are not present PCs.
+Transcript: u1926–u1945 | 02:31:47.070–02:33:13.800
+[u1926 | 02:31:47.070-02:31:55.470 | DM] So, um, this woman like startles and then seems to control her reaction and you just hear a
+[u1927 | 02:31:57.120-02:32:00.600 | DM] Brief like mutter under her breath. Holy fuck.
+[u1928 | 02:32:01.920-02:32:02.310 | DM] And
+[u1929 | 02:32:02.820-02:32:05.010 | DM] Looks like she's looking around.
+[u1930 | 02:32:05.010-02:32:06.660 | Kenzo] I'm invisible, I'm invisible.
+[u1931 | 02:32:08.190-02:32:08.910 | DM] Are you
+[u1932 | 02:32:11.460-02:32:15.900 | DM] She's whispering What the bloody hell what is going on.
+[u1933 | 02:32:17.160-02:32:22.050 | Kenzo] Your guess is as good as mine. I don't know. I think I'm a friend.
+[u1934 | 02:32:23.370-02:32:26.130 | Kenzo] With my name is I'm Kenzo. What's your name,
+[u1935 | 02:32:28.020-02:32:28.740 | DM] Vola
+[u1936 | 02:32:29.580-02:32:34.350 | Kenzo] Vola, I have a feeling that whatever those beasts are
+[u1937 | 02:32:35.490-02:32:46.140 | Kenzo] They're not your friend. They're not my friend, either. I don't know if that automatic automatically makes us friends, but I feel like it's probably best for me to try to help you get out of the situation.
+[u1938 | 02:32:48.780-02:32:50.370 | DM] I can't argue with that.
+[u1939 | 02:32:53.040-02:32:56.820 | Kenzo] Are they gonna come back. Are they done for the night, you know, they're coming back up here.
+[u1940 | 02:32:58.830-02:33:01.290 | DM] Probably not for several hours at least
+[u1941 | 02:33:03.120-02:33:04.260 | Kenzo] Okay, um,
+[u1942 | 02:33:05.400-02:33:06.150 | Kenzo] She, she bound
+[u1943 | 02:33:07.260-02:33:09.300 | DM] Her hands are tied. Yeah, okay.
+[u1944 | 02:33:09.930-02:33:11.460 | Kenzo] I'm going to untie you okay
+[u1945 | 02:33:13.290-02:33:13.800 | Kenzo] I untie her
+
+========================================================================
+
+dufr-010-interaction-02
+NPC: Vola
+Interaction: met | Importance: minor
+Location: Raven’s Hold — occupied tower, prison room
+Scene: Into the Towers
+Date: 1748-04-12 (evening)
+Other NPCs present (supported subset): None established; see caveat
+Context: Kenzo gives Vola a healing potion before returning to organize her rescue.
+Caveat: A separate evidence link within the same rescue scene.
+Transcript: u1991–u2003 | 02:36:50.220–02:38:14.430
+[u1991 | 02:36:50.220-02:36:53.640 | Kenzo] I sneak back up, um, Vola, your name's Vola
+[u1992 | 02:36:54.300-02:37:02.700 | Kenzo] Vola, Vola, Vola. Excuse me. Sorry, Vola Okay look, I can't attack these guys as soon as I do.
+[u1993 | 02:37:03.300-02:37:13.800 | Kenzo] I'm going to become visible again, it's going to cause a lot of attention. But, my friends. There's I've got four. I've got four companions with me. I think we can take these guards out quietly. Okay.
+[u1994 | 02:37:14.310-02:37:20.250 | Kenzo] So I'm going to go sneak back and get them there, in the other tower very, very close. Sit tight.
+[u1995 | 02:37:20.670-02:37:36.120 | Kenzo] Whatever you do, do not move do not cause alarm. We're going to kill the guard as quickly as quietly as we can. And then we'll, we'll come back and got you. Okay. Can you hang. Can you just hang here. And by the way, is she looks like she's like wounded and beaten and stuff. Right.
+[u1996 | 02:37:36.480-02:37:41.340 | DM] She is. She looks like sick and nearly dead. Yes.
+[u1997 | 02:37:41.430-02:37:50.130 | Kenzo] Oh wow, okay. And look here, drink this. So I pull out from my pouch. I give her, they're all equivalent, right, I've got a healing potion, and the healing mud and
+[u1998 | 02:37:50.370-02:37:52.410 | DM] Yeah, they're all the same, yes.
+[u1999 | 02:37:52.890-02:37:54.690 | Kenzo] I give her a healing potion.
+[u2000 | 02:37:55.020-02:38:00.780 | Kenzo] Drink this rest. I'll be back. We'll be back in we'll kill some guards and we'll get you out here. Okay.
+[u2001 | 02:38:04.440-02:38:11.520 | DM] She drinks it. She says, Thank you God that goes down. well. Yeah, I will.
+[u2002 | 02:38:12.630-02:38:13.920 | Kenzo] Just wait. We'll be back.
+[u2003 | 02:38:13.980-02:38:14.430 | DM] Okay.
+
+========================================================================
+
+dufr-010-interaction-03
+NPC: Orc guard
+Interaction: fought | Importance: major
+Location: Raven’s Hold — occupied tower
+Scene: Into the Towers
+Date: 1748-04-12 (evening)
+Other NPCs present (supported subset): None established; see caveat
+Context: Kenzo intercepts the fleeing orc and kills it with unarmed strikes.
+Caveat: Identity supplied by the surrounding combat and recap. This is an outcome excerpt, not the entire fight. Vola is upstairs; other NPC positions at this moment are not asserted.
+Transcript: u2496–u2518 | 03:10:04.590–03:11:32.340
+[u2496 | 03:10:04.590-03:10:08.220 | DM] Okay Ah that ends his turn, Kenzo, you're up.
+[u2497 | 03:10:09.030-03:10:14.910 | Kenzo] All right, I get over here and 30 battery here here.
+[u2498 | 03:10:18.270-03:10:20.460 | Delwath] Here just I'd run after him.
+[u2499 | 03:10:21.060-03:10:22.230 | Kenzo] Yeah, but I can get in front of them, right.
+[u2500 | 03:10:23.760-03:10:24.120 | Delwath] Yeah.
+[u2501 | 03:10:24.630-03:10:26.640 | DM] Yeah yeah and get in front of them. All right.
+[u2502 | 03:10:26.790-03:10:27.630 | Kenzo] I'll go right there. And I'll attack
+[u2503 | 03:10:29.460-03:10:29.820 | Unknown] I got
+[u2504 | 03:10:33.720-03:10:35.280 | DM] That misses.
+[u2505 | 03:10:36.300-03:10:40.140 | Kenzo] Unarmed. Oh, I'm going to use. I'm going to use one of my things
+[u2506 | 03:10:42.540-03:10:43.740 | Kenzo] Yeah, use Flurry of Blows.
+[u2507 | 03:10:43.920-03:10:45.300 | DM] Or two unarmed strikes.
+[u2508 | 03:10:47.160-03:10:48.930 | Kenzo] Or the first one.
+[u2509 | 03:10:50.160-03:10:50.700 | Kenzo] Nice.
+[u2510 | 03:10:51.000-03:10:51.720 | DM] That hits.
+[u2511 | 03:10:52.320-03:10:53.280 | Kenzo] And then I use Flurry.
+[u2512 | 03:10:56.940-03:10:57.630 | Unknown] Yes.
+[u2513 | 03:10:59.550-03:11:01.680 | Kenzo] Come on the dead yet.
+[u2514 | 03:11:02.490-03:11:05.340 | DM] Ah yes, with your, with your second punch.
+[u2515 | 03:11:07.710-03:11:12.060 | DM] Missed with your quarterstaff and he darts out of the way and then one hit.
+[u2516 | 03:11:13.620-03:11:24.240 | DM] Second hit he slumps down and it has these as these slipping away. He says here, I'm sort of muttering in his death.
+[u2517 | 03:11:27.720-03:11:29.820 | DM] Vengeance will be ours.
+[u2518 | 03:11:31.200-03:11:32.340 | DM] And he collapses.
+
+========================================================================
+
+dufr-010-interaction-04
+NPC: Arcus
+Interaction: mention | Importance: minor
+Location: Raven’s Hold — refuge tower
+Scene: Vola and the Relic Race
+Date: 1748-04-12 (evening)
+Other NPCs present (supported subset): Vola
+Context: Wellby reports Arcus’s death; Vola later identifies him as another member of the Society.
+Caveat: Two short passages support the two parts of the sentence.
+Transcript: u2724–u2733 | 03:24:33.150–03:25:01.050
+[u2724 | 03:24:33.150-03:24:35.730 | Delwath] What was the name of the guy who were investigating
+[u2725 | 03:24:36.300-03:24:37.140 | Wellby] I'll say to her.
+[u2726 | 03:24:38.280-03:24:38.430 | Wellby] Or
+[u2727 | 03:24:38.940-03:24:39.360 | Unknown] Did
+[u2728 | 03:24:40.890-03:24:41.310 | Kenzo] You say,
+[u2729 | 03:24:41.670-03:24:43.380 | Wellby] Let's say to her Arcus is dead.
+[u2730 | 03:24:43.710-03:24:44.190 | Seeker] Nice.
+[u2731 | 03:24:44.430-03:24:46.200 | Wellby] And watch her reaction very carefully.
+[u2732 | 03:24:47.850-03:24:54.750 | DM] She, she definitely reacts like she knows the name and seems
+[u2733 | 03:24:57.150-03:25:01.050 | DM] Like briefly sad, but then sort of tries to hide it.
+Transcript: u2792–u2793 | 03:29:49.680–03:29:57.660
+[u2792 | 03:29:49.680-03:29:50.400 | DM] Arcus.
+[u2793 | 03:29:51.900-03:29:57.660 | DM] And she pauses for a moment looking somewhat sad was also a member of the society.
+
+========================================================================
+
+dufr-010-interaction-05
+NPC: Agata
+Interaction: mention | Importance: major
+Location: Raven’s Hold — refuge tower
+Scene: Vola and the Relic Race
+Date: 1748-04-12 (evening)
+Other NPCs present (supported subset): Vola
+Context: Vola says Agata Dustmother is seeking imperial relics and that the Society is trying to obtain them first.
+Caveat: Attributed report, not independent verification of Agata’s intentions.
+Transcript: u2753–u2776 | 03:26:52.020–03:28:29.310
+[u2753 | 03:26:52.020-03:26:53.310 | DM] Well, I can tell you that
+[u2754 | 03:26:56.100-03:26:57.060 | DM] There's
+[u2755 | 03:26:59.430-03:27:01.110 | DM] A race of sorts.
+[u2756 | 03:27:03.990-03:27:05.670 | DM] For items, for relics.
+[u2757 | 03:27:07.200-03:27:07.890 | DM] There's a
+[u2758 | 03:27:09.060-03:27:09.930 | DM] Creature
+[u2759 | 03:27:11.760-03:27:13.950 | DM] Um, sort of fey demon
+[u2760 | 03:27:14.970-03:27:15.600 | DM] Some
+[u2761 | 03:27:16.980-03:27:20.850 | DM] Old spirit of the land or
+[u2762 | 03:27:22.020-03:27:26.520 | DM] Something I don't know quite what she is. Her name is Agata
+[u2763 | 03:27:28.200-03:27:30.600 | DM] They call her Agata Dustmother.
+[u2764 | 03:27:33.360-03:27:34.620 | DM] And she has been
+[u2765 | 03:27:36.030-03:27:37.470 | DM] Trying to find
+[u2766 | 03:27:39.720-03:27:43.290 | DM] Well relics lost pieces of the empire.
+[u2767 | 03:27:45.360-03:27:46.800 | DM] Much was lost.
+[u2768 | 03:27:48.000-03:27:49.380 | DM] Over the years, and
+[u2769 | 03:27:50.700-03:27:53.130 | DM] Some of us in Chardon
+[u2770 | 03:27:54.840-03:28:01.590 | DM] Some of us associated with the library, the Society of the Open Scroll are concerned about her.
+[u2771 | 03:28:02.970-03:28:04.170 | DM] Motivations
+[u2772 | 03:28:05.340-03:28:06.180 | DM] About her
+[u2773 | 03:28:10.230-03:28:11.490 | DM] Goals for this.
+[u2774 | 03:28:12.720-03:28:14.250 | DM] Collection project.
+[u2775 | 03:28:15.420-03:28:20.520 | DM] And have been trying to find what relics. We can before she gets them.
+[u2776 | 03:28:23.340-03:28:29.310 | DM] Why, exactly. She wants these artifacts. It's not clear, but I know it is not for something good.
+
+========================================================================
+
+dufr-010-interaction-06
+NPC: Vola
+Interaction: met | Importance: major
+Location: Raven’s Hold — refuge tower
+Scene: Vola and the Relic Race
+Date: 1748-04-12 (evening)
+Other NPCs present (supported subset): None established; see caveat
+Context: Vola explains the Society’s race against Agata Dustmother for lost imperial relics.
+Caveat: Same evidence as the Agata mention; Agata is not present. About 7 p.m. is stated later at u2849–u2850, not assigned as an exact time here.
+Transcript: u2753–u2776 | 03:26:52.020–03:28:29.310
+[u2753 | 03:26:52.020-03:26:53.310 | DM] Well, I can tell you that
+[u2754 | 03:26:56.100-03:26:57.060 | DM] There's
+[u2755 | 03:26:59.430-03:27:01.110 | DM] A race of sorts.
+[u2756 | 03:27:03.990-03:27:05.670 | DM] For items, for relics.
+[u2757 | 03:27:07.200-03:27:07.890 | DM] There's a
+[u2758 | 03:27:09.060-03:27:09.930 | DM] Creature
+[u2759 | 03:27:11.760-03:27:13.950 | DM] Um, sort of fey demon
+[u2760 | 03:27:14.970-03:27:15.600 | DM] Some
+[u2761 | 03:27:16.980-03:27:20.850 | DM] Old spirit of the land or
+[u2762 | 03:27:22.020-03:27:26.520 | DM] Something I don't know quite what she is. Her name is Agata
+[u2763 | 03:27:28.200-03:27:30.600 | DM] They call her Agata Dustmother.
+[u2764 | 03:27:33.360-03:27:34.620 | DM] And she has been
+[u2765 | 03:27:36.030-03:27:37.470 | DM] Trying to find
+[u2766 | 03:27:39.720-03:27:43.290 | DM] Well relics lost pieces of the empire.
+[u2767 | 03:27:45.360-03:27:46.800 | DM] Much was lost.
+[u2768 | 03:27:48.000-03:27:49.380 | DM] Over the years, and
+[u2769 | 03:27:50.700-03:27:53.130 | DM] Some of us in Chardon
+[u2770 | 03:27:54.840-03:28:01.590 | DM] Some of us associated with the library, the Society of the Open Scroll are concerned about her.
+[u2771 | 03:28:02.970-03:28:04.170 | DM] Motivations
+[u2772 | 03:28:05.340-03:28:06.180 | DM] About her
+[u2773 | 03:28:10.230-03:28:11.490 | DM] Goals for this.
+[u2774 | 03:28:12.720-03:28:14.250 | DM] Collection project.
+[u2775 | 03:28:15.420-03:28:20.520 | DM] And have been trying to find what relics. We can before she gets them.
+[u2776 | 03:28:23.340-03:28:29.310 | DM] Why, exactly. She wants these artifacts. It's not clear, but I know it is not for something good.
+
+========================================================================
+
+dufr-012-interaction-01
+NPC: Vola
+Interaction: met | Importance: color
+Location: Raven’s Hold — gatehouse refuge
+Scene: Dawn at the Gatehouse
+Date: 1748-04-13 (dawn)
+Other NPCs present (supported subset): None established; see caveat
+Context: Vola quietly oils her armor and secures its straps as the party prepares for the day.
+Caveat: Presence-only edge case: met is used broadly for shared scene presence, not a first meeting. A future present value would be more precise.
+Transcript: u0069–u0074 | 00:08:12.900–00:08:59.070
+[u0069 | 00:08:12.900-00:08:19.710 | DM] Vola is shaken, but looks more well rested than some of the rest of you.
+[u0070 | 00:08:20.850-00:08:29.220 | DM] She's been sitting quietly by her bedroll occasionally like brushing short brown hair out of her eyes, but otherwise not seeming to move much as she
+[u0071 | 00:08:29.580-00:08:43.740 | DM] methodically oils her armor tightening down every strap, making sure that there's nothing that could make a strange noise no buckles loose that would clank as she moves.
+[u0072 | 00:08:45.060-00:08:51.690 | DM] Um, as the early morning sun casts the pale line of light from the Eastern window
+[u0073 | 00:08:53.760-00:08:54.750 | DM] As you all
+[u0074 | 00:08:56.850-00:08:59.070 | DM] Begin to sort of start your day.
+
+========================================================================
+
+dufr-012-interaction-02
+NPC: Vola
+Interaction: met | Importance: minor
+Location: Raven’s Hold — gatehouse
+Scene: The Gatehouse Ambush
+Date: 1748-04-13 (morning)
+Other NPCs present (supported subset): Gnoll patrol
+Context: Vola throws shimmering blades at the gnolls alongside the party.
+Caveat: Vola is an ally, not an opponent. Do not mark her fought unless combat side is also modeled.
+Transcript: u0402–u0415 | 00:31:46.680–00:33:08.400
+[u0402 | 00:31:46.680-00:31:48.840 | DM] Okay, so Vola's gonna now.
+[u0403 | 00:32:00.720-00:32:02.490 | DM] Okay, take a
+[u0404 | 00:32:04.020-00:32:12.570 | DM] So again, she just pulls her hand down like that and this shimmering blade appears in her hand and she just flings that I'm at the
+[u0405 | 00:32:14.190-00:32:15.240 | DM] Closest gnoll
+[u0406 | 00:32:18.240-00:32:19.140 | DM] Which hits.
+[u0407 | 00:32:25.860-00:32:25.980 | Unknown] Do
+[u0408 | 00:32:28.200-00:32:28.740 | Unknown] Come on.
+[u0409 | 00:32:30.810-00:32:32.610 | DM] Five Points damage.
+[u0410 | 00:32:37.110-00:32:38.790 | DM] And then she will. Oh.
+[u0411 | 00:32:40.410-00:32:40.770 | Unknown] Sorry.
+[u0412 | 00:32:45.480-00:32:47.730 | Unknown] Too many windows open. Come on.
+[u0413 | 00:32:56.490-00:32:59.670 | DM] Okay, and then she will with her other hand throw another one.
+[u0414 | 00:33:00.810-00:33:01.560 | DM] Which
+[u0415 | 00:33:07.410-00:33:08.400 | DM] Misses.
+
+========================================================================
+
+dufr-012-interaction-03
+NPC: Vola
+Interaction: met | Importance: major
+Location: Raven’s Hold — gatehouse battlements
+Scene: Kenzo’s Last Stand
+Date: 1748-04-13 (morning)
+Other NPCs present (supported subset): Gnoll warriors
+Context: Vola lowers a rope from the battlements to give Kenzo a way out of the melee.
+Caveat: Enemy presence comes from the surrounding combat; the evidence here focuses on Vola’s assistance.
+Transcript: u1584–u1596 | 01:53:13.590–01:54:07.140
+[u1584 | 01:53:13.590-01:53:14.880 | DM] Let's see. Vola.
+[u1585 | 01:53:16.650-01:53:18.690 | DM] Nobody can see anything down there.
+[u1586 | 01:53:20.640-01:53:21.330 | Seeker] Um, yeah.
+[u1587 | 01:53:26.250-01:53:27.870 | Unknown] Yeah, let's see, can she get
+[u1588 | 01:53:30.300-01:53:31.740 | Unknown] She's to jump.
+[u1589 | 01:53:32.880-01:53:34.320 | DM] She is just gonna run
+[u1590 | 01:53:36.870-01:53:38.730 | DM] Like here above
+[u1591 | 01:53:40.020-01:53:40.530 | DM] And
+[u1592 | 01:53:42.240-01:53:44.970 | Riswynn] We sent the end of my term that I started moving forward. Stella.
+[u1593 | 01:53:45.570-01:53:45.810 | Unknown] Yes.
+[u1594 | 01:53:47.190-01:53:54.690 | DM] And she will get a rope show as over here by our capsule. Grab a rope in a grappling hook and hook the rope.
+[u1595 | 01:53:56.820-01:53:59.580 | DM] Onto the crenellations here and drop it down.
+[u1596 | 01:54:03.960-01:54:07.140 | DM] And that will end her turn so Kenzo you're up
+Transcript: u1605–u1608 | 01:54:35.580–01:54:51.210
+[u1605 | 01:54:35.580-01:54:37.980 | Kenzo] If you want to run away. You can i mean
+[u1606 | 01:54:38.040-01:54:41.820 | DM] Vola dropped him rope down so you could you do see a rope
+[u1607 | 01:54:43.650-01:54:45.870 | DM] Crop from the
+[u1608 | 01:54:47.580-01:54:51.210 | DM] From right here. So there's now a rope hanging down like right there.
+
+========================================================================
+
+dufr-012-interaction-04
+NPC: Captive hyenas
+Interaction: met | Importance: minor
+Location: Raven’s Hold — stables
+Scene: Captives and Corruption
+Date: 1748-04-13 (morning)
+Other NPCs present (supported subset): None established; see caveat
+Context: The captive hyenas tell Seeker that two-legged beasts captured them and have been starving them.
+Caveat: Four unnamed animals treated as one group. Kenzo accompanies Seeker (u2177–u2187); Vola is not assumed present in the stable.
+Transcript: u2272–u2296 | 02:44:21.420–02:45:44.130
+[u2272 | 02:44:21.420-02:44:23.850 | DM] Okay, so what do you want to—Seeker, what do you want to say.
+[u2273 | 02:44:25.980-02:44:26.970 | Seeker] Oh, I said it a minute ago.
+[u2274 | 02:44:28.560-02:44:31.200 | Seeker] will offer. We have some food. If you answer questions.
+[u2275 | 02:44:34.350-02:44:35.520 | DM] Yes, please.
+[u2276 | 02:44:36.510-02:44:38.370 | Seeker] How did you get here who brought you here.
+[u2277 | 02:44:44.730-02:44:47.610 | DM] The beasts with the two legs.
+[u2278 | 02:44:49.470-02:44:50.220 | DM] caught us
+[u2279 | 02:44:51.690-02:44:52.500 | DM] On our home.
+[u2280 | 02:44:55.350-02:44:57.120 | Seeker] How many days travel from here.
+[u2281 | 02:44:59.670-02:45:01.380 | DM] Several suns.
+[u2282 | 02:45:02.940-02:45:03.630 | Seeker] I'm
+[u2283 | 02:45:04.950-02:45:05.550 | Seeker] Kenzo can you
+[u2284 | 02:45:06.570-02:45:07.500 | Seeker] Might be able to answer.
+[u2285 | 02:45:10.110-02:45:12.060 | Kenzo] What did if they know what's happening to them.
+[u2286 | 02:45:13.470-02:45:13.710 | Seeker] Oh,
+[u2287 | 02:45:13.770-02:45:15.000 | Kenzo] That's what I'm what
+[u2288 | 02:45:15.420-02:45:17.790 | Seeker] What are they doing to you and your friends here.
+[u2289 | 02:45:21.870-02:45:22.680 | DM] Starving.
+[u2290 | 02:45:24.900-02:45:25.860 | DM] Starving us
+[u2291 | 02:45:27.330-02:45:27.870 | Seeker] Why
+[u2292 | 02:45:29.760-02:45:30.870 | DM] So hungry.
+[u2293 | 02:45:32.250-02:45:32.730 | Kenzo] I'm
+[u2294 | 02:45:33.180-02:45:34.260 | DM] Can't move
+[u2295 | 02:45:35.460-02:45:37.200 | DM] Please food.
+[u2296 | 02:45:40.470-02:45:44.130 | Seeker] Offer them, offer them. One little chunk of the rations.
+
+========================================================================
+
+dufr-012-interaction-05
+NPC: Agata
+Interaction: mention | Importance: minor
+Location: Raven’s Hold — outer plaza
+Scene: Captives and Corruption
+Date: 1748-04-13 (morning)
+Other NPCs present (supported subset): None established; see caveat
+Context: The table recalls that Vola’s captors had been talking about Agata Dustmother.
+Caveat: DM reminder during discussion, not new NPC testimony. Flag as table_recall if only in-character mentions should count.
+Transcript: u2524–u2530 | 03:04:22.350–03:04:42.930
+[u2524 | 03:04:22.350-03:04:23.760 | Seeker] Didn't we see an orc.
+[u2525 | 03:04:25.470-03:04:26.460 | DM] You killed an orc
+[u2526 | 03:04:27.480-03:04:30.360 | Kenzo] welder. The shapeshifter yet we killed two of them.
+[u2527 | 03:04:30.840-03:04:33.990 | DM] You killed an orc and two shapeshifting jackalweres
+[u2528 | 03:04:34.320-03:04:35.760 | DM] Who were who were
+[u2529 | 03:04:37.200-03:04:40.020 | DM] Vola's captors who were talking about, Agata
+[u2530 | 03:04:42.180-03:04:42.930 | Delwath] Dustmother
+
+========================================================================
+
+dufr-059-interaction-01
+NPC: Enari
+Interaction: met | Importance: major
+Location: Bedez
+Scene: Meeting Enari
+Date: 1748-11-03 (sunset)
+Other NPCs present (supported subset): Two unnamed lizardfolk babies
+Context: Enari joins Kenzo and Izzarak and questions taking the two babies into danger.
+Caveat: Date follows the session timeline and Enari campaignInfo. The session narrative inconsistently says next morning; transcript explicitly says sunset at u0327. Izzarak is a guest PC.
+Transcript: u0333–u0353 | 00:38:35.920–00:40:03.270
+[u0333 | 00:38:35.920-00:38:40.200 | DM] and he looks up in it as he approaches, and he says
+[u0334 | 00:38:40.230-00:38:43.229 | DM] in in Lizardling to you, too.
+[u0335 | 00:38:45.540-00:38:50.259 | DM] So uh, I guess you're my companions for this journey. Huh?
+[u0336 | 00:38:52.640-00:38:55.680 | Kenzo] That very well. Looks like the case.
+[u0337 | 00:38:58.830-00:39:00.910 | Izzarak] I suppose that's how it's turned out.
+[u0338 | 00:39:02.140-00:39:03.799 | Izzarak] We'll be fellow travelers.
+[u0339 | 00:39:04.810-00:39:06.320 | Izzarak] Yeah, the five of us
+[u0340 | 00:39:07.580-00:39:09.129 | Unknown] five.
+[u0341 | 00:39:09.870-00:39:13.649 | DM] Oh, yes, he does. The double take, and looks over you?
+[u0342 | 00:39:14.890-00:39:16.459 | DM] You would bring a
+[u0343 | 00:39:17.380-00:39:21.840 | DM] such little ones into the danger we expect to face
+[u0344 | 00:39:22.330-00:39:23.209 | DM] Is that
+[u0345 | 00:39:23.420-00:39:24.899 | DM] wise.
+[u0346 | 00:39:25.540-00:39:27.579 | Izzarak] It is simply a necessity.
+[u0347 | 00:39:28.370-00:39:32.849 | Izzarak] I'm seeking to bring them home to their family.
+[u0348 | 00:39:34.910-00:39:38.729 | Izzarak] I know only that they need to return to the footprint of the gods.
+[u0349 | 00:39:45.080-00:39:46.239 | DM] They are not
+[u0350 | 00:39:47.580-00:39:48.470 | DM] he,
+[u0351 | 00:39:50.050-00:39:51.209 | DM] are they not
+[u0352 | 00:39:51.870-00:39:54.890 | DM] lizard folk babies, then
+[u0353 | 00:39:56.770-00:40:03.270 | Izzarak] They're certainly not ordinary Lizard folk babies. There's something special about them. I haven't quite been able to discern
+
+========================================================================
+
+dufr-059-interaction-02
+NPC: Unnamed jaguar
+Interaction: mention | Importance: minor
+Location: Bedez
+Scene: The babies’ origins
+Date: 1748-11-03 (evening)
+Other NPCs present (supported subset): Enari, Two unnamed lizardfolk babies
+Context: Izzarak says a jaguar entrusted the two babies to him and explained their care.
+Caveat: Do not resolve the jaguar to a named character without additional evidence. Enari joins at u0315–u0353 and continues speaking at u0438 onward.
+Transcript: u0401–u0421 | 00:44:56.510–00:46:23.140
+[u0401 | 00:44:56.510-00:44:58.629 | Kenzo] How long have you been caring for these two now
+[u0402 | 00:45:01.280-00:45:02.649 | Izzarak] several months?
+[u0403 | 00:45:03.220-00:45:07.379 | Kenzo] Have you noticed? Have you noticed anything particular about them?
+[u0404 | 00:45:08.750-00:45:10.799 | Izzarak] They're fussy, that's for sure.
+[u0405 | 00:45:10.890-00:45:15.740 | Izzarak] But who knows how they were treated before I got them. They were
+[u0406 | 00:45:15.900-00:45:17.970 | Izzarak] in the care of a
+[u0407 | 00:45:18.650-00:45:19.799 | Izzarak] the jaguar.
+[u0408 | 00:45:22.500-00:45:23.590 | Kenzo] Excuse me,
+[u0409 | 00:45:24.480-00:45:27.509 | Izzarak] uh yes, I I was um
+[u0410 | 00:45:28.800-00:45:30.240 | Izzarak] bestowed them
+[u0411 | 00:45:31.220-00:45:33.739 | Izzarak] in another another jungle far from here.
+[u0412 | 00:45:34.500-00:45:35.709 | Izzarak] And uh,
+[u0413 | 00:45:37.180-00:45:51.610 | Izzarak] that's right, Tim isn't it. You said a jaguar. Not yeah, jaguar I it it wouldn't have been super far from I mean, it would have been within the same kingdom Right? Not that thousand, not a thousand, but like one hundred.
+[u0414 | 00:45:52.450-00:45:54.200 | Izzarak] And
+[u0415 | 00:45:55.710-00:45:57.990 | Izzarak] ah! She told me what she knew,
+[u0416 | 00:46:01.160-00:46:02.949 | Izzarak] and asked me to take them on
+[u0417 | 00:46:03.680-00:46:05.249 | Izzarak] a great responsibility.
+[u0418 | 00:46:06.080-00:46:08.520 | Kenzo] What did she know about, or what did she know about them?
+[u0419 | 00:46:10.360-00:46:13.510 | Izzarak] Little to be honest, aside from what I've already told you,
+[u0420 | 00:46:19.050-00:46:20.560 | Izzarak] that, and some
+[u0421 | 00:46:21.420-00:46:23.140 | Izzarak] details of care and feeding,
+
+========================================================================
+
+dufr-059-interaction-03
+NPC: Arrosa
+Interaction: met | Importance: minor
+Location: Bedez
+Scene: Departure briefing
+Date: 1748-11-04 (morning)
+Other NPCs present (supported subset): Enari, Elazar
+Context: Arrosa describes lava spreading through the jungle without the expected volcanic eruption.
+Caveat: Morning departure from the dated session timeline; co-presence established at u0719–u0728.
+Transcript: u0722–u0749 | 01:08:03.320–01:10:14.430
+[u0722 | 01:08:03.320-01:08:06.290 | Kenzo] What's the name of the the village elder again? The the woman
+[u0723 | 01:08:06.900-01:08:09.250 | Kenzo] Arrosa.
+[u0724 | 01:08:09.810-01:08:13.950 | Kenzo] So just as we're kind of meeting Kenzo, you know, pauses and looks at everyone again.
+[u0725 | 01:08:14.050-01:08:15.060 | Kenzo] And
+[u0726 | 01:08:15.380-01:08:26.120 | Kenzo] do any of you have any sense of what we should be looking for, What kind of disturbance. What's the nature of this threat? Has anything occurred like this before in the history that you can reflect upon.
+[u0727 | 01:08:39.700-01:08:40.719 | DM] Not
+[u0728 | 01:08:42.240-01:08:48.880 | DM] um. Arrosa Is kind of what is like helping sort of get everybody organized to see you off and says
+[u0729 | 01:08:49.729-01:08:54.040 | DM] not in the tales of our our people. Has.
+[u0730 | 01:08:56.149-01:08:58.569 | DM] Has this happened now? The
+[u0731 | 01:09:00.359-01:09:01.660 | DM] and
+[u0732 | 01:09:04.700-01:09:06.949 | DM] the legends say
+[u0733 | 01:09:08.350-01:09:11.740 | DM] the Azta Lekua is a magical place.
+[u0734 | 01:09:13.439-01:09:16.499 | DM] The volcano has always been there. Yes, and it
+[u0735 | 01:09:18.060-01:09:19.559 | DM] erupts.
+[u0736 | 01:09:21.470-01:09:22.849 | DM] Yes, but
+[u0737 | 01:09:24.779-01:09:26.510 | DM] never so.
+[u0738 | 01:09:31.540-01:09:33.290 | DM] Never so
+[u0739 | 01:09:33.540-01:09:35.500 | DM] quietly,
+[u0740 | 01:09:37.910-01:09:39.050 | Izzarak] currently.
+[u0741 | 01:09:40.010-01:09:41.290 | Izzarak] What do you mean by that?
+[u0742 | 01:09:43.060-01:09:44.319 | DM] Well,
+[u0743 | 01:09:46.580-01:09:50.500 | DM] so I've been told that if you approach,
+[u0744 | 01:09:51.100-01:09:55.630 | DM] there are lakes of lava cutting through the jungle,
+[u0745 | 01:09:58.580-01:09:59.820 | DM] and yet
+[u0746 | 01:10:01.280-01:10:04.470 | DM] no eruption, no cataclysm,
+[u0747 | 01:10:05.610-01:10:07.550 | DM] almost as if
+[u0748 | 01:10:10.010-01:10:11.779 | DM] the fire is just
+[u0749 | 01:10:11.850-01:10:14.430 | DM] welling up from the ground.
+
+========================================================================
+
+dufr-059-interaction-04
+NPC: Elazar
+Interaction: met | Importance: minor
+Location: Bedez
+Scene: Departure briefing
+Date: 1748-11-04 (morning)
+Other NPCs present (supported subset): Arrosa, Enari
+Context: Elazar explains the teaching that conscious souls tame raw magic to give the world life.
+Caveat: Arrosa turns to Elazar at u0763; Enari’s presence is established at u0720.
+Transcript: u0760–u0776 | 01:11:19.300–01:12:55.799
+[u0760 | 01:11:19.300-01:11:24.220 | Izzarak] How might the elements, earth, fire, air, water
+[u0761 | 01:11:24.920-01:11:26.329 | Izzarak] come into play there.
+[u0762 | 01:11:33.590-01:11:34.809 | DM] Well,
+[u0763 | 01:11:42.260-01:11:46.779 | DM] she looks over, and and Elazar kind of cuts in there and says, Well,
+[u0764 | 01:11:52.220-01:11:53.230 | DM] the
+[u0765 | 01:11:56.860-01:12:00.189 | DM] the way our teachings explain
+[u0766 | 01:12:00.830-01:12:03.590 | DM] the life of a place like
+[u0767 | 01:12:04.510-01:12:06.150 | DM] this jungle,
+[u0768 | 01:12:07.300-01:12:10.690 | DM] the life of the world itself, the life of
+[u0769 | 01:12:11.680-01:12:14.210 | DM] our entire material realm,
+[u0770 | 01:12:20.260-01:12:22.660 | DM] magic given soul,
+[u0771 | 01:12:28.910-01:12:31.650 | DM] the world itself comes from
+[u0772 | 01:12:33.930-01:12:35.580 | DM] the power of
+[u0773 | 01:12:37.640-01:12:42.719 | DM] conscious souls taming the raw energy, the raw,
+[u0774 | 01:12:43.380-01:12:45.360 | DM] unchecked magic
+[u0775 | 01:12:47.160-01:12:50.589 | DM] of the magical realms of which the
+[u0776 | 01:12:51.230-01:12:55.799 | DM] the elemental planes of earth, air, fire, and water are the most famous.
+
+========================================================================
+
+dufr-059-interaction-05
+NPC: Enari
+Interaction: met | Importance: minor
+Location: Jungle between Bedez and Azta Lekua
+Scene: Travel with Enari
+Date: 1748-11-04 to 1748-11-06
+Other NPCs present (supported subset): Two unnamed lizardfolk babies
+Context: Enari recounts his travels and describes desert gnomes and human traders beyond the jungle.
+Caveat: The conversation falls within a narrated journey. No specific day is supported; retain a range instead of selecting November 5.
+Transcript: u0838–u0846 | 01:18:00.000–01:19:06.549
+[u0838 | 01:18:00.000-01:18:12.599 | DM] And you know, as you walk you, you know you talk to Enari a bit. You You learn that um, you know he's he's travel quite extensively. He's quite curious about your
+[u0839 | 01:18:12.650-01:18:16.419 | DM] um. Your stories of
+[u0840 | 01:18:17.330-01:18:21.820 | DM] the West Kenzo, and especially anything that you're willing to share, but
+[u0841 | 01:18:21.980-01:18:23.230 | DM] and that
+[u0842 | 01:18:23.320-01:18:27.779 | DM] elven forests in the {{dentistry}}, and where your staff came from,
+[u0843 | 01:18:28.510-01:18:45.840 | Kenzo] Yeah, actually Kenzo, uh, Kenzo's super fucking. Curious, I mean, has been all month to about like. Where the fuck are we like? How big is the Lizard folk kingdom, like, you know. Has anybody here ever interacted with, like you know, non-lizard folk have other elves, humans or dwarves, or anybody else ever ended up out here.
+[u0844 | 01:18:46.890-01:18:59.459 | DM] So yeah, so he he can tell you a few stories about that. So So Enari is He's never actually. I mean, he's met humans. You're not the first human he's met. He's met. He's met lizard folk. He's not met a dwarf
+[u0845 | 01:18:59.600-01:19:02.569 | DM] um. He tells you that
+[u0846 | 01:19:02.650-01:19:06.549 | DM] he did once travel as far as the great Desert.
+Transcript: u0858–u0869 | 01:20:01.480–01:20:57.240
+[u0858 | 01:20:01.480-01:20:05.319 | DM] so he is. He's as he's gone in there. So you keep going, maybe
+[u0859 | 01:20:06.250-01:20:13.409 | DM] at least a week's journey at least a few weeks journey. He doesn't know the exact distance you come to these mountains.
+[u0860 | 01:20:14.050-01:20:17.449 | DM] If you go on the other side of the mountains, there's a desert.
+[u0861 | 01:20:18.100-01:20:20.290 | DM] And in that desert live
+[u0862 | 01:20:20.680-01:20:25.259 | DM] people who call themselves gnomes. They they say they're the cousins of dwarves
+[u0863 | 01:20:26.960-01:20:29.269 | DM] who left the mountains
+[u0864 | 01:20:30.910-01:20:35.320 | DM] many, many, many, many years ago, thousands of years ago,
+[u0865 | 01:20:36.110-01:20:37.650 | DM] and settled
+[u0866 | 01:20:38.810-01:20:42.730 | DM] in the deserts of the East or the West from his perspective.
+[u0867 | 01:20:43.260-01:20:48.509 | DM] So he's met them. He's met humans. There's human ships sometimes come in trade
+[u0868 | 01:20:48.780-01:20:53.209 | DM] in the coastal. The kingdom goes all the way to the coast.
+[u0869 | 01:20:53.330-01:20:57.240 | DM] Human ships sometimes come and trade.
+
+========================================================================
+
+dufr-059-interaction-06
+NPC: Somi-nai
+Interaction: met | Importance: major
+Location: Azta Lekua — lava river
+Scene: Meeting the volcano spirit
+Date: 1748-11-06
+Other NPCs present (supported subset): Enari, Two unnamed lizardfolk babies
+Context: The rescued fire spirit introduces himself as Ember and identifies the volcano as his home.
+Caveat: Canonical spelling resolved through the session note and Somi-nai’s aliases; the transcript has uncertain spellings. Babies are carried by Izzarak, not interlocutors.
+Transcript: u1765–u1774 | 02:39:48.690–02:40:32.319
+[u1765 | 02:39:48.690-02:39:50.059 | Izzarak] And who are you
+[u1766 | 02:39:54.360-02:39:59.940 | DM] kind of looks and like um sort of dances back away from you slightly.
+[u1767 | 02:40:01.840-02:40:03.239 | DM] You are late.
+[u1768 | 02:40:03.690-02:40:05.840 | DM] You are late, my friends,
+[u1769 | 02:40:06.420-02:40:08.110 | DM] maybe too late.
+[u1770 | 02:40:08.240-02:40:09.280 | Izzarak] Oh, dear,
+[u1771 | 02:40:14.930-02:40:17.369 | Izzarak] that is forward again.
+[u1772 | 02:40:21.680-02:40:24.489 | DM] My name you may call me
+[u1773 | 02:40:27.260-02:40:30.520 | DM] Ember. It translates into your tongue,
+[u1774 | 02:40:30.590-02:40:32.319 | DM] {{Sony, nigh}}.
+Transcript: u1800–u1809 | 02:42:29.680–02:43:10.160
+[u1800 | 02:42:29.680-02:42:35.230 | DM] Well, the land does want to be fixed. At least my land, {{the palace of your land}}.
+[u1801 | 02:42:38.740-02:42:41.290 | DM] He looks up at them
+[u1802 | 02:42:41.700-02:42:44.840 | DM] at the uh volcano.
+[u1803 | 02:42:48.150-02:42:49.890 | DM] {{So me and I}}
+[u1804 | 02:42:50.840-02:42:53.670 | DM] that is me. That is my home,
+[u1805 | 02:42:56.620-02:42:58.259 | DM] the Lizard folk
+[u1806 | 02:42:58.410-02:42:59.520 | DM] um
+[u1807 | 02:43:00.700-02:43:03.830 | DM] call it {{sugar}}.
+[u1808 | 02:43:06.120-02:43:08.140 | DM] But that is not its name.
+[u1809 | 02:43:08.310-02:43:10.160 | DM] It's not my name.
+
+========================================================================
+
+dufr-059-interaction-07
+NPC: Motua
+Interaction: mention | Importance: major
+Location: Azta Lekua — lava river
+Scene: Somi-nai explains the disturbance
+Date: 1748-11-06
+Other NPCs present (supported subset): Somi-nai, Enari, Two unnamed lizardfolk babies
+Context: Somi-nai identifies Motua as the great beast associated with the whirlwind and says it came from the Land of the Dead.
+Caveat: This records Somi-nai’s account. Motua is not present; location is the conversation’s location, not Motua’s whereabouts.
+Transcript: u1839–u1846 | 02:45:31.070–02:45:58.710
+[u1839 | 02:45:31.070-02:45:32.720 | DM] they've been ruined.
+[u1840 | 02:45:36.740-02:45:38.579 | DM] It all started with
+[u1841 | 02:45:38.870-02:45:40.619 | DM] Motua came.
+[u1842 | 02:45:42.980-02:45:44.210 | Izzarak] Is that it?
+[u1843 | 02:45:46.990-02:45:50.919 | DM] You know not even what you seek in these dangerous woods.
+[u1844 | 02:45:52.110-02:45:53.310 | Izzarak] That's true.
+[u1845 | 02:45:54.320-02:45:56.099 | DM] I pity you.
+[u1846 | 02:45:56.720-02:45:58.710 | DM] You will surely fail.
+Transcript: u1851–u1875 | 02:46:27.830–02:47:57.960
+[u1851 | 02:46:27.830-02:46:29.409 | Unknown] Can you feel it?
+[u1852 | 02:46:31.490-02:46:33.039 | DM] Can you feel the
+[u1853 | 02:46:34.420-02:46:35.910 | DM] Whirlwind
+[u1854 | 02:46:36.630-02:46:39.410 | Kenzo] Kenzo points towards the whirlwind.
+[u1855 | 02:46:39.840-02:46:45.690 | Kenzo] I felt that since I arrived what's going on? What is that? The Lizard folk don't understand it, either.
+[u1856 | 02:46:47.160-02:46:48.520 | DM] Motua
+[u1857 | 02:46:50.370-02:46:51.270 | DM] Great
+[u1858 | 02:46:51.840-02:46:53.110 | DM] beast.
+[u1859 | 02:47:00.580-02:47:02.590 | Unknown] I don't know the word in
+[u1860 | 02:47:04.640-02:47:06.849 | DM] any tongue but my own
+[u1861 | 02:47:06.880-02:47:10.810 | DM] {{Ramanaka, Palmer, Kazoo}}
+[u1862 | 02:47:11.490-02:47:12.330 | DM] Up,
+[u1863 | 02:47:13.810-02:47:15.390 | DM] creature of the
+[u1864 | 02:47:17.560-02:47:19.090 | DM] the veil,
+[u1865 | 02:47:23.210-02:47:24.839 | Izzarak] a creature of the veil,
+[u1866 | 02:47:26.000-02:47:26.860 | DM] the
+[u1867 | 02:47:28.830-02:47:30.860 | DM] river of souls,
+[u1868 | 02:47:33.360-02:47:36.210 | DM] the border beyond, between life and death,
+[u1869 | 02:47:36.810-02:47:38.060 | Izzarak] the veil!
+[u1870 | 02:47:40.110-02:47:41.390 | Kenzo] What of the veil?
+[u1871 | 02:47:43.190-02:47:45.240 | DM] Where Motua came from?
+[u1872 | 02:47:46.530-02:47:47.920 | Kenzo] From beyond the veil
+[u1873 | 02:47:48.520-02:47:49.980 | Izzarak] and down the veil
+[u1874 | 02:47:50.700-02:47:53.809 | DM] not beyond. you misunderstand
+[u1875 | 02:47:55.590-02:47:57.960 | DM] from the land of the dead.
+
+========================================================================
+
+dufr-059-interaction-08
+NPC: Somi-nai
+Interaction: met | Importance: major
+Location: Azta Lekua — lava river
+Scene: Kenzo offers aid
+Date: 1748-11-06
+Other NPCs present (supported subset): Enari, Two unnamed lizardfolk babies
+Context: Kenzo offers to calm Motua so the volcano spirit can regain control of the fire.
+Caveat: Same broad scene as the preceding records, but a separate short passage.
+Transcript: u1933–u1954 | 02:51:52.360–02:53:12.780
+[u1933 | 02:51:52.360-02:51:53.659 | Kenzo] If we
+[u1934 | 02:51:54.730-02:51:57.990 | Kenzo] cause Motua to calm down or return home,
+[u1935 | 02:51:58.590-02:51:59.710 | Kenzo] Then
+[u1936 | 02:52:00.470-02:52:02.479 | Kenzo] will you be able to stop this
+[u1937 | 02:52:07.220-02:52:08.670 | DM] once?
+[u1938 | 02:52:09.640-02:52:12.570 | DM] All of fire was mine to command
+[u1939 | 02:52:13.770-02:52:16.730 | DM] I could. He reaches his hand, and sort of
+[u1940 | 02:52:16.840-02:52:19.250 | DM] I could push this way,
+[u1941 | 02:52:20.440-02:52:23.459 | DM] I could conduct it like a symphony. I could
+[u1942 | 02:52:26.690-02:52:29.420 | DM] control the flames.
+[u1943 | 02:52:31.680-02:52:34.549 | DM] Now Motua has destroyed it all.
+[u1944 | 02:52:35.870-02:52:36.960 | Izzarak] Well,
+[u1945 | 02:52:38.090-02:52:39.740 | Kenzo] what is your name, friend?
+[u1946 | 02:52:41.930-02:52:43.680 | DM] You may call me Ember
+[u1947 | 02:52:43.770-02:52:44.830 | Kenzo] Ember.
+[u1948 | 02:52:46.000-02:52:48.659 | Kenzo] Well, my name is Kenzo, and
+[u1949 | 02:52:49.520-02:52:52.030 | Kenzo] my friends and I here.
+[u1950 | 02:52:52.880-02:52:58.900 | Kenzo] We will do our best to tame Motua, or at least render its
+[u1951 | 02:53:01.120-02:53:02.410 | Kenzo] turbulence,
+[u1952 | 02:53:03.000-02:53:04.650 | Kenzo] so that you may do that
+[u1953 | 02:53:05.380-02:53:09.259 | Kenzo] regain your powers and tame this fire once more,
+[u1954 | 02:53:10.730-02:53:12.780 | DM] That would be most welcome.
+
+========================================================================
+

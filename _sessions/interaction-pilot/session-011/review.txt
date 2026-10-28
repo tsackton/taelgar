@@ -1,0 +1,855 @@
+DUNMARI FRONTIER SESSION 11 — SCENE / NPC EXTRACTION PILOT
+24 indexed scenes; 35 interaction records; 12 entity identities.
+Not a production schema or an exhaustive, measured extraction. See JSON for provenance and review findings.
+met includes direct observation and combat; mention is discussion, not evidence of presence.
+All dates are in-world DR. Recording timestamps appear on the transcript links.
+Existing recap scenes and vault sources are unchanged.
+
+SCENE INDEX
+01 | 1748-04-12 evening | North tower — study/council chamber | u0020–u0640 | session opening
+02 | 1748-04-12 evening | Transit: north tower → south tower → courtyard exit | u0641–u0680 | location change
+03 | 1748-04-12 evening | Inner courtyard — chapel window and keep entrance | u0681–u0742 | location change
+04 | 1748-04-12 evening | Keep exterior — near the entrance and outbuilding | u0743–u0791 | combat starts
+05 | 1748-04-12 evening | Keep exterior — corner beside the cliff | u0792–u0802 | combat ends
+06 | 1748-04-12 evening | Keep exterior — windows overlooking the great hall | u0803–u0918 | location change
+07 | 1748-04-12 evening | Transit: rear of keep → chapel side → north tower | u0919–u0963 | location change
+08 | 1748-04-12 evening | North tower — refuge | u0964–u1166 | location change; scouts return after nearly an hour
+09 | 1748-04-12 night | Keep exterior — window overlooking the great hall | u1167–u1205 | location change and time advance during a further watch
+10 | 1748-04-12 night | North tower — refuge | u1206–u1370 | location change; Wellby returns with his report
+11 | 1748-04-12 night | Transit: inner gates → courtyard → keep entrances | u1371–u1438 | location change
+12 | 1748-04-12 night | Keep — great hall and its entrances | u1439–u2092 | combat starts
+13 | 1748-04-12 night | Keep — great hall | u2093–u2186 | combat ends
+14 | 1748-04-12 night | Keep — great hall | u2187–u2197 | ten-minute time advance while extinguishing the fire
+15 | 1748-04-12 night | Inner courtyard — lookout outside the keep | u2198–u2206 | location change; Wellby and Riswynn look outside
+16 | 1748-04-12 night | Keep — great hall | u2207–u2276 | location focus returns to the carcasses and Kenzo’s poison
+17 | 1748-04-12 night | Keep — chapel | u2277–u2292 | location change in the narrated search
+18 | 1748-04-12 night | Keep — second-floor balcony and rooms | u2293–u2334 | location change
+19 | 1748-04-12 night | Inner courtyard — outside the keep | u2335–u2378 | location change; cut to Kenzo and Vola
+20 | 1748-04-12 night | Keep — second-floor rooms | u2379–u2418 | location change; cut back to the search
+21 | 1748-04-12 night | Keep — third-floor rooms and balcony | u2419–u2435 | location change
+22 | 1748-04-12 night | Transit: upper keep → courtyard regrouping | u2436–u2486 | location change
+23 | 1748-04-12 night | North tower — refuge overlooking the inner gates | u2487–u2533 | location change; settling in for overnight rest
+24 | 1748-04-13 morning | North tower — refuge | u2534–u2784 | overnight time skip; waking and morning discussion
+
+==============================================================================
+SCENE 01 | 1748-04-12 evening
+North tower — study/council chamber
+Boundary: session opening (u0020)
+
+#01 Vola | met | star
+The party feeds Vola and questions her about her captivity, Agata’s servants, and the unfinished ritual.
+Introduction quote: I could really use a real meal, to be honest, it's not like those bloody creatures fed me much. And then perhaps we can make a plan to get the fuck out of this damn place.
+Transcript u0029–u0054 | 00:03:50.250–00:05:50.370
+[u0029 | 00:03:50.250-00:03:51.810 | DM] Vola turns to you and says,
+[u0030 | 00:03:52.980-00:03:58.500 | DM] I could really use a real meal, to be honest, it's not like those bloody creatures fed me much.
+[u0031 | 00:03:59.520-00:04:03.330 | DM] And then perhaps we can make a plan to get the fuck out of this damn place.
+[u0032 | 00:04:07.380-00:04:08.790 | DM] Where do you think you have some food.
+[u0033 | 00:04:17.970-00:04:19.440 | Delwath] Sure, some rations.
+[u0034 | 00:04:20.970-00:04:21.480 | DM] Thank you.
+[u0035 | 00:04:22.860-00:04:23.310 | DM] Sir,
+[u0036 | 00:04:26.940-00:04:28.260 | DM] Not the best I've had, but
+[u0037 | 00:04:29.370-00:04:31.920 | DM] Better than whatever swill that orc was feeding me
+[u0038 | 00:04:35.910-00:04:36.750 | Kenzo] So,
+[u0039 | 00:04:40.620-00:04:42.510 | Kenzo] What else can you tell us about what's going on here.
+[u0040 | 00:04:44.940-00:04:46.380 | DM] Here, specifically. Wow.
+[u0041 | 00:04:48.420-00:04:51.630 | DM] Can't say I've been able to see much locked up in a tower.
+[u0042 | 00:04:54.720-00:04:57.510 | DM] It was maybe 10 days ago I got here.
+[u0043 | 00:04:58.770-00:04:59.220 | DM] Those
+[u0044 | 00:05:03.120-00:05:06.600 | DM] Careless error, those creatures surprised me and
+[u0045 | 00:05:07.830-00:05:08.580 | DM] Seem to be
+[u0046 | 00:05:09.870-00:05:11.640 | DM] Quite difficult to hurt.
+[u0047 | 00:05:14.190-00:05:14.670 | Unknown] Anyway,
+[u0048 | 00:05:16.320-00:05:17.280 | DM] At least they didn't kill me.
+[u0049 | 00:05:20.370-00:05:23.610 | DM] Maybe two days after I got here.
+[u0050 | 00:05:25.350-00:05:28.950 | DM] Those animals, the ones howling out the window started showing up.
+[u0051 | 00:05:30.570-00:05:32.760 | DM] They've been getting louder and meaner
+[u0052 | 00:05:37.140-00:05:42.120 | DM] Other than that, it's just sounds and yeah dreams.
+[u0053 | 00:05:43.680-00:05:45.930 | DM] horrible nightmares seem to curse this place.
+[u0054 | 00:05:47.460-00:05:50.370 | DM] Been several days since I had a good night's sleep.
+Transcript u0428–u0457 | 00:36:30.270–00:38:49.140
+[u0428 | 00:36:30.270-00:36:31.650 | Delwath] Do you know why you were kept prisoner.
+[u0429 | 00:36:33.780-00:36:34.890 | Delwath] They want something from you.
+[u0430 | 00:36:42.720-00:36:43.620 | DM] Possibly
+[u0431 | 00:36:45.390-00:36:46.830 | DM] This Agata creature
+[u0432 | 00:36:48.660-00:36:50.070 | Seeker] Right. What do you know about Agata.
+[u0433 | 00:36:51.090-00:36:52.650 | DM] So, um,
+[u0434 | 00:36:54.720-00:37:00.240 | DM] I know that my captors. They work for this woman.
+[u0435 | 00:37:02.160-00:37:03.120 | DM] Some sort of
+[u0436 | 00:37:05.760-00:37:07.170 | DM] Bloody something
+[u0437 | 00:37:08.580-00:37:10.290 | DM] They called her. Agata Dustmother.
+[u0438 | 00:37:12.870-00:37:18.780 | DM] Made her sound like she is older than is possible for a human like hundreds of years old.
+[u0439 | 00:37:20.880-00:37:21.480 | DM] And
+[u0440 | 00:37:22.860-00:37:26.850 | DM] She or they or whoever her
+[u0441 | 00:37:31.200-00:37:34.800 | DM] You know lord and master is if she has one
+[u0442 | 00:37:36.660-00:37:42.840 | DM] Wanted to know about ancient Drankorian artifacts and where I could find them for them.
+[u0443 | 00:37:45.510-00:37:47.850 | DM] Had a suspicion, this would not be
+[u0444 | 00:37:49.530-00:37:54.540 | DM] Pleasant, or shall we say a smart choice.
+[u0445 | 00:37:56.940-00:37:59.520 | Kenzo] They know about your connection with the Society of the Open Scroll
+[u0446 | 00:38:03.810-00:38:06.810 | DM] I don't keep my Chardonian heritage, a secret.
+[u0447 | 00:38:09.540-00:38:11.250 | DM] I tried not to tell them anything but
+[u0448 | 00:38:13.950-00:38:15.150 | DM] Well, it's not always easy.
+[u0449 | 00:38:17.580-00:38:18.150 | DM] Anyway,
+[u0450 | 00:38:19.410-00:38:21.510 | Kenzo] Where is Agata you know where it is.
+[u0451 | 00:38:25.710-00:38:26.250 | DM] They
+[u0452 | 00:38:27.600-00:38:30.120 | DM] They said they were going to take me to her.
+[u0453 | 00:38:31.800-00:38:32.550 | DM] But that
+[u0454 | 00:38:33.750-00:38:34.710 | DM] They had to wait.
+[u0455 | 00:38:36.720-00:38:37.740 | DM] And make sure
+[u0456 | 00:38:39.360-00:38:46.350 | DM] Something happened first and weren't clear what make sure the ritual succeeded.
+[u0457 | 00:38:47.940-00:38:49.140 | DM] Before they could leave
+
+#02 Agata Dustmother | mention | supporting
+Vola tells the party that Agata’s servants wanted Drankorian artifacts and planned to take her away after a ritual succeeded.
+Review note: Vola’s attributed account; her speculation about Agata’s nature and age is not established fact.
+Transcript u0431–u0457 | 00:36:45.390–00:38:49.140
+[u0431 | 00:36:45.390-00:36:46.830 | DM] This Agata creature
+[u0432 | 00:36:48.660-00:36:50.070 | Seeker] Right. What do you know about Agata.
+[u0433 | 00:36:51.090-00:36:52.650 | DM] So, um,
+[u0434 | 00:36:54.720-00:37:00.240 | DM] I know that my captors. They work for this woman.
+[u0435 | 00:37:02.160-00:37:03.120 | DM] Some sort of
+[u0436 | 00:37:05.760-00:37:07.170 | DM] Bloody something
+[u0437 | 00:37:08.580-00:37:10.290 | DM] They called her. Agata Dustmother.
+[u0438 | 00:37:12.870-00:37:18.780 | DM] Made her sound like she is older than is possible for a human like hundreds of years old.
+[u0439 | 00:37:20.880-00:37:21.480 | DM] And
+[u0440 | 00:37:22.860-00:37:26.850 | DM] She or they or whoever her
+[u0441 | 00:37:31.200-00:37:34.800 | DM] You know lord and master is if she has one
+[u0442 | 00:37:36.660-00:37:42.840 | DM] Wanted to know about ancient Drankorian artifacts and where I could find them for them.
+[u0443 | 00:37:45.510-00:37:47.850 | DM] Had a suspicion, this would not be
+[u0444 | 00:37:49.530-00:37:54.540 | DM] Pleasant, or shall we say a smart choice.
+[u0445 | 00:37:56.940-00:37:59.520 | Kenzo] They know about your connection with the Society of the Open Scroll
+[u0446 | 00:38:03.810-00:38:06.810 | DM] I don't keep my Chardonian heritage, a secret.
+[u0447 | 00:38:09.540-00:38:11.250 | DM] I tried not to tell them anything but
+[u0448 | 00:38:13.950-00:38:15.150 | DM] Well, it's not always easy.
+[u0449 | 00:38:17.580-00:38:18.150 | DM] Anyway,
+[u0450 | 00:38:19.410-00:38:21.510 | Kenzo] Where is Agata you know where it is.
+[u0451 | 00:38:25.710-00:38:26.250 | DM] They
+[u0452 | 00:38:27.600-00:38:30.120 | DM] They said they were going to take me to her.
+[u0453 | 00:38:31.800-00:38:32.550 | DM] But that
+[u0454 | 00:38:33.750-00:38:34.710 | DM] They had to wait.
+[u0455 | 00:38:36.720-00:38:37.740 | DM] And make sure
+[u0456 | 00:38:39.360-00:38:46.350 | DM] Something happened first and weren't clear what make sure the ritual succeeded.
+[u0457 | 00:38:47.940-00:38:49.140 | DM] Before they could leave
+
+#03 Vola’s orc and jackalwere captors | mention | supporting
+The party asks Vola about her captors, and she says no one beyond the three they killed entered her prison tower.
+Review note: Group reference to previously killed individuals, not a new encounter.
+Transcript u0474–u0482 | 00:39:57.660–00:40:27.750
+[u0474 | 00:39:57.660-00:40:02.190 | Delwath] How many, how many did you see any others beyond the three we killed
+[u0475 | 00:40:03.780-00:40:04.350 | Unknown] That was that
+[u0476 | 00:40:06.750-00:40:08.610 | DM] Nobody else ever came into the tower.
+[u0477 | 00:40:10.980-00:40:12.210 | Seeker] They're all working on the ritual.
+[u0478 | 00:40:14.640-00:40:15.600 | Seeker] The ritual involves
+[u0479 | 00:40:15.690-00:40:16.710 | Seeker] All those animals.
+[u0480 | 00:40:18.690-00:40:20.850 | DM] Those damned animals they've been in my dreams.
+[u0481 | 00:40:23.070-00:40:23.730 | Seeker] Your dreams.
+[u0482 | 00:40:25.650-00:40:27.750 | DM] chasing me fucking awful.
+
+#04 Rumored three-headed beast | mention | cameo
+Vola tells the party that rumors of treasure left by a three-headed, fire-breathing beast drew her to Raven’s Hold.
+Review note: Rumor; no species or named identity inferred.
+Transcript u0417–u0427 | 00:35:36.720–00:36:28.170
+[u0417 | 00:35:36.720-00:35:38.610 | DM] Was kind of hoping there's a
+[u0418 | 00:35:40.290-00:35:41.250 | DM] There's a rumor.
+[u0419 | 00:35:42.660-00:35:45.120 | DM] That after this place is abandoned by hobgoblin
+[u0420 | 00:35:46.230-00:35:59.670 | DM] Some sort of three headed beast of fearsome aspect and with a Breath of Fire made a lair here of course not still here. Thank God that would be three.
+[u0421 | 00:35:59.700-00:36:00.480 | Seeker] Three headed
+[u0422 | 00:36:01.470-00:36:02.400 | Unknown] That's the rumor.
+[u0423 | 00:36:03.780-00:36:05.730 | DM] People will say the darndest things so
+[u0424 | 00:36:07.860-00:36:17.520 | DM] Let me. Well, if I know whether it's true or not, but maybe some bits of its treasure hoard are still lingering around could be some use of something useful to me.
+[u0425 | 00:36:18.540-00:36:21.630 | Seeker] Three headed fire breathing huh
+[u0426 | 00:36:23.970-00:36:24.780 | Unknown] That's why they're
+[u0427 | 00:36:27.420-00:36:28.170 | DM] Having to look
+
+#05 Small flying demon | mention | cameo
+Wellby reminds the party of the small bat-like creature he saw above the gnolls.
+Transcript u0149–u0151 | 00:13:39.960–00:13:55.590
+[u0149 | 00:13:39.960-00:13:48.750 | Wellby] But then, importantly, also, as we think about being stealthy way high up above the gnolls was this bat like little
+[u0150 | 00:13:50.190-00:13:51.120 | Wellby] Creature thing.
+[u0151 | 00:13:53.880-00:13:55.590 | Seeker] totally forgot about the little bat demon
+
+#06 Iron construct in the dwarven ruins | mention | cameo
+Riswynn and Seeker express interest in investigating the mechanical guardian on the return journey.
+Review note: No encounter occurs in this session.
+Transcript u0228–u0231 | 00:19:43.200–00:19:51.930
+[u0228 | 00:19:43.200-00:19:44.880 | Riswynn] Mechanical thing that I want.
+[u0229 | 00:19:45.120-00:19:46.590 | Delwath] Oh, and the mechanical golem
+[u0230 | 00:19:46.950-00:19:50.250 | Seeker] Yeah, I'm very curious about that now.
+[u0231 | 00:19:50.910-00:19:51.930 | Riswynn] When I play with the golem
+
+==============================================================================
+SCENE 02 | 1748-04-12 evening
+Transit: north tower → south tower → courtyard exit
+Boundary: location change (u0641)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 03 | 1748-04-12 evening
+Inner courtyard — chapel window and keep entrance
+Boundary: location change (u0681)
+
+#07 Undead gnoll guard | met | supporting
+An undead gnoll notices Kenzo as he and Wellby scout around the keep.
+Introduction quote: Gnoll of sorts, but its flesh is falling off of its face, and it's withered, to the point at which it's um you know it's bones are showing through, you know, so it's arm is like little bits of bone picking through flesh dropping off of its bodies and as you sort of walk around the corner.
+Transcript u0733–u0741 | 01:00:39.060–01:01:49.050
+[u0733 | 01:00:39.060-01:00:52.350 | DM] Sort of walking. Walking sort of out of the of the main entry way I'm heading towards just as the sun is getting set heading sort of in the direction of those you see now from the ground. You can see that there's a small
+[u0734 | 01:00:52.890-01:00:59.700 | DM] Like outbuilding like a kitchen area or something and kind of wandering out from the main area, you see.
+[u0735 | 01:01:01.740-01:01:03.510 | DM] What looks like a
+[u0736 | 01:01:04.590-01:01:26.280 | DM] Gnoll of sorts, but its flesh is falling off of its face, and it's withered, to the point at which it's um you know it's bones are showing through, you know, so it's arm is like little bits of bone picking through flesh dropping off of its bodies and as you sort of walk around the corner.
+[u0737 | 01:01:28.140-01:01:28.770 | DM] Kenzo
+[u0738 | 01:01:30.360-01:01:32.010 | DM] Accidentally steps on a rock.
+[u0739 | 01:01:35.400-01:01:38.460 | DM] Just that enough and it turns and looks at you.
+[u0740 | 01:01:39.810-01:01:44.070 | DM] Sort of hisses briefly and then starts to turn back into the
+[u0741 | 01:01:45.300-01:01:49.050 | DM] Doorway you're about 1015 feet away from that.
+
+==============================================================================
+SCENE 04 | 1748-04-12 evening
+Keep exterior — near the entrance and outbuilding
+Boundary: combat starts (u0743)
+
+#08 Undead gnoll guard | met | supporting
+Kenzo kills the undead gnoll with two quick punches before it can raise an alarm.
+Review note: Combat is described in the overview; interaction remains met.
+Transcript u0772–u0791 | 01:03:28.470–01:05:00.600
+[u0772 | 01:03:28.470-01:03:37.800 | DM] Now 21 I see it. Yes. Okay. So, so, Kenzo you're up first. You both managed to react before before it can turn and head into the building.
+[u0773 | 01:03:38.400-01:03:41.520 | Kenzo] Yeah, I go ahead and try to whack away with my quarterstaff.
+[u0774 | 01:03:45.270-01:03:48.120 | Kenzo] Or do I try to do something even more awesome
+[u0775 | 01:03:49.620-01:03:50.790 | Kenzo] I'll just attack with my fist
+[u0776 | 01:03:52.680-01:03:54.660 | Seeker] Quiet and awesome it is.
+[u0777 | 01:03:55.140-01:03:55.980 | DM] That misses.
+[u0778 | 01:03:56.940-01:03:58.590 | Kenzo] I do a follow up.
+[u0779 | 01:04:00.720-01:04:02.880 | Unknown] Thing Flurry of Blows.
+[u0780 | 01:04:03.960-01:04:05.970 | Kenzo] Oh wait Flurry of Blows are unarmed strikes.
+[u0781 | 01:04:06.840-01:04:12.090 | DM] Flurry of Blows lets you do two unarmed strikes regularly. You can just do one strike.
+[u0782 | 01:04:13.050-01:04:16.440 | Kenzo] Um, yeah, I'll, I'll do that. I'll do to to
+[u0783 | 01:04:17.670-01:04:18.120 | DM] Do to
+[u0784 | 01:04:22.860-01:04:23.490 | Kenzo] Nice.
+[u0785 | 01:04:23.970-01:04:24.420 | Unknown] Okay.
+[u0786 | 01:04:26.850-01:04:28.260 | Kenzo] And then what do I do that again.
+[u0787 | 01:04:28.740-01:04:28.980 | Unknown] Yep.
+[u0788 | 01:04:30.450-01:04:32.640 | DM] So that spends one ki point to do that.
+[u0789 | 01:04:36.090-01:04:40.830 | DM] Ah, that also hits so that's okay so Kenzo like steps.
+[u0790 | 01:04:42.030-01:04:52.620 | DM] Kicks this rock in this thing turns and looks and he's just like, nope runs for and swings with your staff which misses. But then wham wham, two quick punches and the things slumps against the wall.
+[u0791 | 01:04:54.690-01:05:00.600 | DM] The first strike nearly knocking it out. And then the second follow up being just enough to kill at
+
+==============================================================================
+SCENE 05 | 1748-04-12 evening
+Keep exterior — corner beside the cliff
+Boundary: combat ends (u0791)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 06 | 1748-04-12 evening
+Keep exterior — windows overlooking the great hall
+Boundary: location change (u0803)
+
+#09 Goat-headed demon | met | star
+Kenzo and Wellby watch the goat-headed demon pace through the great hall while Kenzo studies its aura.
+Introduction quote: Goat like head with Big Horn sort of coming up and curling around
+Review note: Overview limited to this scene’s evidence; planar connection is reported after the scouts move on. Initial two-headed wording at u0819 is corrected at u0831–u0835. Canonical note identity comes from the session note; the name Oduk is not spoken.
+Transcript u0816–u0835 | 01:07:16.110–01:08:54.510
+[u0816 | 01:07:16.110-01:07:23.250 | DM] Sort of pacing back and forth in this Chamber, like from fire to fire is a
+[u0817 | 01:07:24.720-01:07:26.130 | DM] Demonic creature
+[u0818 | 01:07:29.520-01:07:31.710 | DM] A sort of goat like
+[u0819 | 01:07:33.330-01:07:35.970 | DM] Two headed bipedal creature with horns.
+[u0820 | 01:07:38.280-01:07:46.710 | DM] Long barbed tail vicious claws sort of reddish brown fur around but everywhere all over its body.
+[u0821 | 01:07:47.730-01:07:53.190 | DM] Little like festering sores like flies buzzing around its head and
+[u0822 | 01:07:54.300-01:08:03.870 | DM] Like sort of void-like red well not read that to cliched I'm deep black eyes that seemed to be
+[u0823 | 01:08:08.580-01:08:12.300 | DM] Yeah, this is like what would what Mike Pence would be if he were supernatural
+[u0824 | 01:08:13.710-01:08:13.920 | Wellby] What
+[u0825 | 01:08:14.400-01:08:16.230 | DM] Demon horns. Ah.
+[u0826 | 01:08:17.640-01:08:18.000 | DM] Just
+[u0827 | 01:08:18.180-01:08:27.000 | DM] Starts pacing back and forth like click, click, click, click, click, click, stopping. Yeah. One of the flames like holding his claws over the flame kind of
+[u0828 | 01:08:28.260-01:08:32.040 | DM] Just like pacing back and forth like waiting for something
+[u0829 | 01:08:33.270-01:08:37.290 | DM] Pace pace pace stop pace pace pace, stop.
+[u0830 | 01:08:40.830-01:08:42.120 | DM] Flies still BUZZING
+[u0831 | 01:08:43.410-01:08:44.670 | Seeker] And you did say two headed
+[u0832 | 01:08:45.510-01:08:47.280 | DM] No, two horns.
+[u0833 | 01:08:47.610-01:08:47.880 | Unknown] One.
+[u0834 | 01:08:49.140-01:08:49.470 | Seeker] Sort of
+[u0835 | 01:08:49.500-01:08:54.510 | DM] Goat like head with Big Horn sort of coming up and curling around
+Transcript u0878–u0881 | 01:12:06.690–01:12:18.870
+[u0878 | 01:12:06.690-01:12:08.940 | Kenzo] Well yeah, I do on my soul aura thing.
+[u0879 | 01:12:11.610-01:12:12.990 | DM] Okay. All right.
+[u0880 | 01:12:13.080-01:12:14.580 | Kenzo] Oh yeah, I'm
+[u0881 | 01:12:15.600-01:12:18.870 | Kenzo] Clue. Yes. Focus on the aura of one creature I can see within 60 feet.
+
+#10 Undead gnolls in the great hall | met | cameo
+Kenzo and Wellby observe undead gnolls milling around the demon as it occasionally pushes them aside.
+Transcript u0812–u0814 | 01:06:59.160–01:07:12.750
+[u0812 | 01:06:59.160-01:07:00.930 | DM] inside you can see
+[u0813 | 01:07:02.220-01:07:10.440 | DM] Several more of those sort of creatures that are just kind of those gnoll rotting creatures that seem to be milling around
+[u0814 | 01:07:11.970-01:07:12.750 | DM] aimlessly
+Transcript u0872–u0877 | 01:11:24.960–01:12:05.640
+[u0872 | 01:11:24.960-01:11:28.170 | DM] It's, it's basically just it's just pacing like
+[u0873 | 01:11:29.340-01:11:32.880 | DM] Every once in a while, it'll stop and sort of let out almost
+[u0874 | 01:11:37.050-01:11:41.760 | DM] Every once in a while or get close to one of the things I'm kind of slap it and like push it away.
+[u0875 | 01:11:43.980-01:11:45.090 | DM] Occasionally it will
+[u0876 | 01:11:47.580-01:11:56.310 | DM] You know, come to one of these, like, like a skull or something on the wall and just like pick it up and something like crushed one. And then, there seems to be a pile of
+[u0877 | 01:11:56.700-01:12:05.640 | DM] Of bones and skulls on the bottom, it'll pick one up and sort of replace it, it seems, if anything, you would read it as like impatient.
+
+==============================================================================
+SCENE 07 | 1748-04-12 evening
+Transit: rear of keep → chapel side → north tower
+Boundary: location change (u0919)
+
+#11 Goat-headed demon | mention | supporting
+Kenzo tells Wellby that the demon’s aura reveals a connection to another plane as they complete their scouting circuit.
+Transcript u0924–u0927 | 01:15:55.410–01:16:20.910
+[u0924 | 01:15:55.410-01:16:02.580 | Kenzo] So, is I'm just going to say this out loud because I'm going to communicate this to Wellby so the demon's aura
+[u0925 | 01:16:03.840-01:16:10.230 | Kenzo] It's showing that it's somehow connected to another plane is this is this one I'm surmising
+[u0926 | 01:16:10.770-01:16:11.100 | DM] Mm hmm.
+[u0927 | 01:16:13.140-01:16:20.910 | Kenzo] Yeah, so this this creature is not from here and is somehow connected and tethered to the other. This other this other place, wherever. This is
+
+==============================================================================
+SCENE 08 | 1748-04-12 evening
+North tower — refuge
+Boundary: location change; scouts return after nearly an hour (u0964)
+
+#12 Goat-headed demon | mention | star
+The scouts report the demon to the party, which debates attacking immediately or watching to learn what it is waiting for.
+Transcript u0964–u0971 | 01:18:47.520–01:19:34.650
+[u0964 | 01:18:47.520-01:18:50.970 | DM] Okay you quietly sneak back up to the tower and return
+[u0965 | 01:18:52.440-01:18:54.570 | DM] About an hour later, after
+[u0966 | 01:18:56.850-01:19:00.540 | DM] The scouting LITTLE LESS THAN AN HOUR BUT YOU'VE BEEN DONE quietly and slowly.
+[u0967 | 01:19:01.740-01:19:05.430 | DM] Everybody else I'm finishing a short rest.
+[u0968 | 01:19:12.480-01:19:13.230 | Seeker] short rest.
+[u0969 | 01:19:27.180-01:19:27.870 | Kenzo] So,
+[u0970 | 01:19:30.360-01:19:31.830 | Kenzo] Well, I guess Wellby and I relate
+[u0971 | 01:19:33.270-01:19:34.650 | Kenzo] What we saw. Yep.
+Transcript u1094–u1107 | 01:28:56.280–01:30:01.500
+[u1094 | 01:28:56.280-01:28:59.550 | Seeker] The ceremony potentially involves summoning
+[u1095 | 01:29:01.110-01:29:01.950 | Seeker] Is that possible.
+[u1096 | 01:29:04.380-01:29:09.450 | Kenzo] Like the thing is definitely tethered to the Abyss or whatever plane that all of this.
+[u1097 | 01:29:11.040-01:29:19.380 | Kenzo] Madness is coming from. So is it possible that more of these could come. Sure.
+[u1098 | 01:29:21.330-01:29:21.990 | Kenzo] And
+[u1099 | 01:29:27.690-01:29:28.980 | Seeker] Yeah, what's it waiting for
+[u1100 | 01:29:31.110-01:29:34.350 | Seeker] Do weekly. Why would they, why are they keeping a prisoner.
+[u1101 | 01:29:36.030-01:29:36.570 | Delwath] My only
+[u1102 | 01:29:37.470-01:29:40.470 | Delwath] My only hesitation, Wellby, in attacking it now is
+[u1103 | 01:29:42.780-01:29:44.490 | Delwath] Not learning what it's waiting for
+[u1104 | 01:29:46.410-01:29:47.040 | Seeker] Right, that's
+[u1105 | 01:29:47.880-01:29:49.590 | Wellby] Why I would look to attack it now
+[u1106 | 01:29:50.790-01:29:56.340 | Delwath] Well, that's what I'd vote with that. Get that too. I'm not sure I want to learn what it's waiting for
+[u1107 | 01:29:57.780-01:30:01.500 | Delwath] At the same time, that seems valuable information to bring back
+
+#13 Vola | met | supporting
+Vola agrees to help the party but warns that her exhaustion would make escaping a fight difficult.
+Transcript u1070–u1075 | 01:27:18.810–01:27:42.420
+[u1070 | 01:27:18.810-01:27:20.670 | DM] I didn't come here to kill demons, but
+[u1071 | 01:27:22.620-01:27:23.700 | DM] Maybe it has some
+[u1072 | 01:27:26.940-01:27:27.360 | Unknown] I don't know.
+[u1073 | 01:27:28.860-01:27:29.190 | Unknown] Well,
+[u1074 | 01:27:31.320-01:27:37.350 | DM] I don't think it's not sure I want to be leaving here on my own. So perhaps I can help you in this endeavor, but
+[u1075 | 01:27:38.730-01:27:42.420 | DM] It's not going to be easy for me unless I can get it night's rest.
+Transcript u1111–u1113 | 01:30:31.590–01:30:48.780
+[u1111 | 01:30:31.590-01:30:32.910 | DM] Look Vola says
+[u1112 | 01:30:34.560-01:30:38.190 | DM] I'll do whatever you whatever your plan is but
+[u1113 | 01:30:41.310-01:30:48.780 | DM] If, if, if we gotta run. Somebody's got to help me because I cannot move fast in this condition.
+
+#14 Small flying demon | mention | cameo
+Seeker asks whether the goat-headed demon might be another form of the small flying creature seen earlier.
+Review note: Identity is questioned, not established; preserve separate entity IDs.
+Transcript u1009–u1018 | 01:22:09.480–01:22:51.090
+[u1009 | 01:22:09.480-01:22:14.550 | Seeker] Question, Is this the same as the bat that we saw in other words can change shape.
+[u1010 | 01:22:18.000-01:22:21.420 | DM] It's. It doesn't look the same. If it can change shape.
+[u1011 | 01:22:23.730-01:22:24.690 | DM] It could be the same.
+[u1012 | 01:22:26.160-01:22:33.000 | DM] But it's certainly not the same form, it's much the bat was like bat-sized. I mean like fruit bat sized
+[u1013 | 01:22:33.090-01:22:34.320 | Seeker] Didn't have a barbed tail.
+[u1014 | 01:22:35.100-01:22:39.180 | DM] It did have a tail, but it was much, much smaller and had bat wings.
+[u1015 | 01:22:40.410-01:22:41.220 | Seeker] Oh no, I know.
+[u1016 | 01:22:41.760-01:22:45.180 | Seeker] I wasn't suggesting it was literally the same shape but that it could be the same.
+[u1017 | 01:22:45.180-01:22:47.040 | DM] Yes, they both did have barbed tails
+[u1018 | 01:22:50.100-01:22:51.090 | Seeker] That could be a lieutenant.
+
+#15 Taster | met | cameo
+Seeker remembers his rabbit and opens its wicker cage while the party debates its next move.
+Review note: Rabbit identity resolved by the later Taster references and companion note.
+Transcript u1108–u1110 | 01:30:05.670–01:30:19.290
+[u1108 | 01:30:05.670-01:30:10.350 | Seeker] Oh I smack my forehead, as I've just remembered something super important.
+[u1109 | 01:30:12.090-01:30:16.500 | Seeker] I'm reaching over and an open up a little wicker cage.
+[u1110 | 01:30:17.640-01:30:19.290 | Seeker] So that I can see the rabbit.
+
+==============================================================================
+SCENE 09 | 1748-04-12 night
+Keep exterior — window overlooking the great hall
+Boundary: location change and time advance during a further watch (u1167)
+
+#16 Goat-headed demon | met | star
+Wellby watches the demon heat its claws and score animal carcasses until their flesh blackens and develops boils.
+Review note: met includes direct observation without conversation; no claim that the ritual’s purpose is known.
+Transcript u1167–u1175 | 01:36:07.530–01:37:06.630
+[u1167 | 01:36:07.530-01:36:15.690 | DM] So over the course of an hour as the sun sets and full darkness takes hold, you can see
+[u1168 | 01:36:17.070-01:36:19.290 | DM] It continue to sort of pace agitated.
+[u1169 | 01:36:20.550-01:36:21.240 | DM] Until
+[u1170 | 01:36:22.800-01:36:23.580 | DM] Maybe
+[u1171 | 01:36:26.040-01:36:29.940 | DM] Half an hour after sunset roughly it
+[u1172 | 01:36:32.100-01:36:40.890 | DM] walks to the door of the temple or chapel, where the large pile of dead creatures was
+[u1173 | 01:36:42.120-01:36:57.870 | DM] Another way, it sort of smacks another one of these. He's like, gnoll zombie creatures out of the way, which seemed to just be kind of following it around, almost like large versions of flies. It doesn't seem to be paying that much attention and it grabs two
+[u1174 | 01:37:00.210-01:37:02.670 | DM] dead carcasses of antelopes
+[u1175 | 01:37:04.020-01:37:06.630 | DM] And it drags them into the center of the
+Transcript u1179–u1184 | 01:37:20.940–01:38:16.500
+[u1179 | 01:37:20.940-01:37:24.450 | DM] He's not invisible but 22 that's pretty good.
+[u1180 | 01:37:26.340-01:37:42.690 | DM] On it, so it drag them across and it sort of looks around a little bit, but doesn't notice you and then sort of puts his hand just kind of over the fire a little bit till its claws heat up and then like scratches this giant gash down the body of this antelope. And as it does
+[u1181 | 01:37:44.040-01:37:44.550 | DM] The
+[u1182 | 01:37:46.500-01:38:01.200 | DM] The body begins to sort of blacken and these, like sort of boils and little like bits of pus and things begin to grow on the body, then it just grabs this antelope and tosses that into the entry way I'm with a thud and then
+[u1183 | 01:38:02.700-01:38:03.720 | DM] repeats this
+[u1184 | 01:38:05.670-01:38:16.500 | DM] Like this is a slow process. Maybe 10 or 15 minutes for each and does another one in tosses that with a thud and then goes back and starts to repeat this now.
+
+#17 Undead gnolls in the great hall | met | cameo
+Wellby sees the demon push aside the undead gnolls following it while it retrieves animal carcasses.
+Transcript u1172–u1174 | 01:36:32.100–01:37:02.670
+[u1172 | 01:36:32.100-01:36:40.890 | DM] walks to the door of the temple or chapel, where the large pile of dead creatures was
+[u1173 | 01:36:42.120-01:36:57.870 | DM] Another way, it sort of smacks another one of these. He's like, gnoll zombie creatures out of the way, which seemed to just be kind of following it around, almost like large versions of flies. It doesn't seem to be paying that much attention and it grabs two
+[u1174 | 01:37:00.210-01:37:02.670 | DM] dead carcasses of antelopes
+
+==============================================================================
+SCENE 10 | 1748-04-12 night
+North tower — refuge
+Boundary: location change; Wellby returns with his report (u1205)
+
+#18 Goat-headed demon | mention | star
+Wellby describes the carcass ritual to the party, prompting discussion of demonic transformation and a decision to attack.
+Review note: The proposed transformation mechanism remains speculation.
+Transcript u1206–u1207 | 01:39:58.140–01:40:04.050
+[u1206 | 01:39:58.140-01:40:00.420 | Wellby] So I'll relate everything that I said saw
+[u1207 | 01:40:01.860-01:40:04.050 | Wellby] And just really emphasize the grossness
+Transcript u1223–u1235 | 01:41:20.700–01:42:32.850
+[u1223 | 01:41:20.700-01:41:25.290 | DM] The closest thing that you can think of that seems related
+[u1224 | 01:41:26.400-01:41:30.060 | DM] Is that you have read of certain
+[u1225 | 01:41:31.170-01:41:35.940 | DM] Rumors of demonic rituals, where the consumption of flesh
+[u1226 | 01:41:37.050-01:41:39.900 | DM] It's involved in some sort of transformation.
+[u1227 | 01:41:41.460-01:41:43.920 | DM] So, for example, people who, you know, like
+[u1228 | 01:41:45.990-01:41:54.870 | DM] cultists are sort of, you know, crazy, demonic worshippers who want to become demons of the, the claim is that
+[u1229 | 01:41:56.190-01:42:00.000 | DM] Consuming the flesh of a demon will make you a demon.
+[u1230 | 01:42:02.010-01:42:04.830 | Wellby] To feed the wild dogs for example.
+[u1231 | 01:42:06.060-01:42:10.380 | Unknown] Hypothetical hypothetically that potentially could be related
+[u1232 | 01:42:11.910-01:42:12.720 | Unknown] To making gnolls.
+[u1233 | 01:42:25.680-01:42:26.610 | Kenzo] What do you want to kill it now.
+[u1234 | 01:42:29.070-01:42:29.580 | Wellby] I'm ready to
+[u1235 | 01:42:30.720-01:42:32.850 | Delwath] Yeah. Seems like a non crazy idea.
+
+#19 Taster | mention | cameo
+Seeker proposes using Taster to distract the demon, but the party proceeds with a direct assault.
+Review note: Proposed action, not a completed rabbit diversion; mention can refer to a present companion being discussed.
+Transcript u1236–u1240 | 01:42:36.660–01:43:07.410
+[u1236 | 01:42:36.660-01:42:37.320 | Seeker] So I'll talk
+[u1237 | 01:42:38.790-01:42:39.930 | Seeker] I'll talk to Taster.
+[u1238 | 01:42:41.400-01:42:49.830 | Seeker] And he'll hide himself under the pile of bodies and make a little racket funny noises and then run away, drawing the demons attention.
+[u1239 | 01:42:52.110-01:42:55.260 | Seeker] I don't know. We're gonna try something we can't just go in there and fight it.
+[u1240 | 01:43:06.570-01:43:07.410 | Seeker] We need a strategy.
+Transcript u1299–u1302 | 01:46:34.560–01:46:48.210
+[u1299 | 01:46:34.560-01:46:35.940 | Wellby] I think we're close the doors.
+[u1300 | 01:46:36.630-01:46:39.900 | Wellby] So that nothing else can get in and then head over to the keep.
+[u1301 | 01:46:41.550-01:46:44.130 | Wellby] And I think we're going to make short work of it.
+[u1302 | 01:46:44.880-01:46:48.210 | Wellby] Yeah, I think most only one or two of us will will die.
+
+#20 Vola | met | supporting
+Despite her exhaustion, Vola agrees to accompany the party in its attack on the demon.
+Transcript u1308–u1318 | 01:47:08.940–01:47:54.120
+[u1308 | 01:47:08.940-01:47:09.750 | Kenzo] Vola, are you gonna help
+[u1309 | 01:47:14.310-01:47:15.240 | DM] I will come with you.
+[u1310 | 01:47:16.650-01:47:17.010 | DM] I'm
+[u1311 | 01:47:18.270-01:47:19.950 | DM] Certainly no fan of demons.
+[u1312 | 01:47:22.860-01:47:23.190 | Wellby] Demons.
+[u1313 | 01:47:25.980-01:47:27.330 | DM] Now have you
+[u1314 | 01:47:28.980-01:47:30.150 | Wellby] Uh, no.
+[u1315 | 01:47:33.720-01:47:34.860 | Wellby] But I also am not a fan.
+[u1316 | 01:47:35.700-01:47:44.940 | DM] She likes sighs and, like, take a deep breath and stands up and you can tell. I mean, she's moving slowly. She's like, clearly hasn't slept in several days.
+[u1317 | 01:47:47.700-01:47:48.870 | DM] Okay, let's do this.
+[u1318 | 01:47:53.400-01:47:54.120 | DM] What's the plan.
+
+==============================================================================
+SCENE 11 | 1748-04-12 night
+Transit: inner gates → courtyard → keep entrances
+Boundary: location change (u1371)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 12 | 1748-04-12 night
+Keep — great hall and its entrances
+Boundary: combat starts (u1439)
+
+#21 Goat-headed demon | met | star
+The party battles the demon, whose tail poisons Delwath, before Kenzo’s final punch cracks its horn and makes it vanish.
+Transcript u1813–u1829 | 02:25:12.210–02:26:10.290
+[u1813 | 02:25:12.210-02:25:13.050 | DM] Angry
+[u1814 | 02:25:17.130-02:25:19.230 | DM] Particularly pissed at Delwath
+[u1815 | 02:25:20.490-02:25:21.570 | DM] And it's going to
+[u1816 | 02:25:24.330-02:25:26.460 | DM] Swing it's barbed tail.
+[u1817 | 02:25:30.330-02:25:31.980 | DM] Which is going to hit.
+[u1818 | 02:25:32.910-02:25:33.930 | DM] And you have to make a
+[u1819 | 02:25:34.170-02:25:35.700 | DM] Constitution saving throw
+[u1820 | 02:25:38.940-02:25:39.660 | Delwath] That's not good.
+[u1821 | 02:25:40.770-02:25:41.820 | DM] So you take
+[u1822 | 02:25:43.380-02:25:45.270 | DM] 16 points of damage.
+[u1823 | 02:25:45.720-02:25:46.530 | Delwath] I'm at zero health.
+[u1824 | 02:25:48.090-02:25:48.510 | DM] I'm
+[u1825 | 02:25:50.760-02:25:52.050 | Delwath] It was nice knowing everybody
+[u1826 | 02:25:55.290-02:25:55.680 | DM] Ah,
+[u1827 | 02:25:57.000-02:25:59.550 | DM] Your flesh begins to sprout
+[u1828 | 02:26:00.750-02:26:04.740 | DM] The same sort of boils flies begin buzzing around you.
+[u1829 | 02:26:06.840-02:26:10.290 | DM] And you are poisoned.
+Transcript u2064–u2070 | 02:41:43.470–02:42:25.290
+[u2064 | 02:41:43.470-02:41:45.270 | DM] And like limping
+[u2065 | 02:41:46.290-02:41:56.640 | DM] As you turn around your quarter staff going wild as the poison is coursing through your body, you just turn and as your fist comes towards it.
+[u2066 | 02:41:57.720-02:42:02.640 | DM] This like you can sort of feel this like shimmering force. You're like grabbing the
+[u2067 | 02:42:04.590-02:42:12.030 | DM] Sort of energy of the this sort of extraplanar energy that infuses you and as you strike at
+[u2068 | 02:42:14.880-02:42:16.530 | DM] Ah, you hear this crack
+[u2069 | 02:42:18.660-02:42:22.380 | DM] It's horn splits, and then it stands there for a second.
+[u2070 | 02:42:24.390-02:42:25.290 | DM] And vanishes.
+
+#22 Vola | met | supporting
+Vola fights beside the party, killing an undead gnoll and wounding the demon with shimmering daggers.
+Transcript u1740–u1744 | 02:19:10.410–02:19:53.520
+[u1740 | 02:19:10.410-02:19:15.990 | DM] Okay, let's see. Vola is going to try and kill this gnoll
+[u1741 | 02:19:26.970-02:19:29.970 | DM] And she hits
+[u1742 | 02:19:31.230-02:19:47.940 | DM] So again, use all three of you nearby see again. She doesn't draw a weapon, she just kind of waves her hand and goes around to strike and as she moves her fist towards the creature like this, shimmering blade appears in her hand and just smashes into this gnoll
+[u1743 | 02:19:49.560-02:19:50.760 | DM] And it
+[u1744 | 02:19:52.800-02:19:53.520 | DM] Is dead.
+Transcript u2034–u2049 | 02:39:54.270–02:41:08.040
+[u2034 | 02:39:54.270-02:39:59.850 | DM] Okay, Vola will now step out finally crawling her slow
+[u2035 | 02:40:01.170-02:40:03.270 | DM] Exhausted pace.
+[u2036 | 02:40:04.560-02:40:11.910 | DM] To actually she's gonna stay there. She's not gonna move. And again, this
+[u2037 | 02:40:12.990-02:40:17.550 | DM] shimmering dagger appears in our hand and it flies towards
+[u2038 | 02:40:18.570-02:40:19.080 | DM] The
+[u2039 | 02:40:21.540-02:40:26.220 | DM] Towards the beast towards the demon I'm hitting.
+[u2040 | 02:40:28.020-02:40:29.520 | DM] And
+[u2041 | 02:40:31.410-02:40:32.130 | DM] Doing
+[u2042 | 02:40:34.050-02:40:37.290 | DM] Quite a lot of damage and then she will
+[u2043 | 02:40:38.880-02:40:42.660 | DM] Duck back here next hour and attempt to hide.
+[u2044 | 02:40:45.270-02:40:46.200 | DM] So what was that
+[u2045 | 02:40:48.630-02:40:50.670 | DM] So as this like shimmering dagger.
+[u2046 | 02:40:52.830-02:40:56.820 | DM] strikes the demon is not really paying attention to our it
+[u2047 | 02:40:57.240-02:40:58.680 | DM] Steps back again like
+[u2048 | 02:40:59.910-02:41:06.540 | DM] Walking on his last legs as Kenzo leaps into this moment to
+[u2049 | 02:41:07.650-02:41:08.040 | DM] Attack.
+
+#23 Undead gnolls in the great hall | met | supporting
+The party and Vola defeat the undead gnolls, with Riswynn destroying the last one using her flaming hammer.
+Transcript u1740–u1744 | 02:19:10.410–02:19:53.520
+[u1740 | 02:19:10.410-02:19:15.990 | DM] Okay, let's see. Vola is going to try and kill this gnoll
+[u1741 | 02:19:26.970-02:19:29.970 | DM] And she hits
+[u1742 | 02:19:31.230-02:19:47.940 | DM] So again, use all three of you nearby see again. She doesn't draw a weapon, she just kind of waves her hand and goes around to strike and as she moves her fist towards the creature like this, shimmering blade appears in her hand and just smashes into this gnoll
+[u1743 | 02:19:49.560-02:19:50.760 | DM] And it
+[u1744 | 02:19:52.800-02:19:53.520 | DM] Is dead.
+Transcript u2073–u2084 | 02:42:34.590–02:43:42.630
+[u2073 | 02:42:34.590-02:42:37.020 | DM] Okay Riswynn. Still, a gnoll for you to kill
+[u2074 | 02:42:37.740-02:42:41.850 | Riswynn] Yeah, well, if I can finish this thing with a hammer.
+[u2075 | 02:42:51.300-02:42:51.960 | Delwath] There you go.
+[u2076 | 02:42:57.570-02:43:02.400 | DM] So click on the Shatterstorm. Yep. So 11 and then you still do your smite, which is
+[u2077 | 02:43:03.690-02:43:05.160 | DM] What is it, 1d6 fire.
+[u2078 | 02:43:06.360-02:43:06.960 | Riswynn] Yeah.
+[u2079 | 02:43:10.140-02:43:11.700 | Riswynn] So going
+[u2080 | 02:43:12.870-02:43:13.380 | Riswynn] Through this pain.
+[u2081 | 02:43:13.740-02:43:15.570 | DM] It doesn't matter what your role because it only has 12
+[u2082 | 02:43:15.750-02:43:16.200 | Unknown] Points.
+[u2083 | 02:43:25.320-02:43:30.480 | DM] So as you swing your hammer. I'm finally getting a solid. blow.
+[u2084 | 02:43:31.980-02:43:42.630 | DM] Gnoll staggers back and then as it burst into flames and its body starts crackling and sizzling it collapses on the ground dead.
+
+==============================================================================
+SCENE 13 | 1748-04-12 night
+Keep — great hall
+Boundary: combat ends (u2092)
+
+#24 Goat-headed demon | mention | supporting
+After the battle, the party confirms the demon left no recoverable body and examines the carcasses it altered.
+Transcript u2133–u2145 | 02:47:21.720–02:48:36.240
+[u2133 | 02:47:21.720-02:47:33.840 | DM] And then there's now about five of these rotted antelope carcasses that are sort of festering and attracting flies in the in the hallway sort of here.
+[u2134 | 02:47:34.290-02:47:37.020 | Delwath] But the demon creature vanished. It didn't leave a body.
+[u2135 | 02:47:38.400-02:47:46.380 | DM] Well it. Yeah, sort of like split open and like turn to ash and then like sort of blew away.
+[u2136 | 02:47:50.880-02:47:52.020 | DM] It did not leave a body.
+[u2137 | 02:47:55.710-02:47:57.510 | Seeker] So what was it that I remembered about
+[u2138 | 02:47:59.040-02:48:01.020 | Seeker] dead animal based summoning rituals.
+[u2139 | 02:48:02.010-02:48:06.090 | DM] Well, just that there were like stories of some like cultists are
+[u2140 | 02:48:06.240-02:48:07.260 | Seeker] Consuming
+[u2141 | 02:48:07.410-02:48:13.770 | DM] The body—consuming animals or consuming flesh as a way to transform into demons.
+[u2142 | 02:48:13.980-02:48:16.710 | Seeker] So is there any sign that anybody was eating the dead animals.
+[u2143 | 02:48:18.150-02:48:18.930 | DM] Ah, no.
+[u2144 | 02:48:20.910-02:48:25.140 | Seeker] And but he was systematically sort of scratching them over it.
+[u2145 | 02:48:25.980-02:48:36.240 | DM] Yeah, and as he like scratch them they would sort of bloat up and blacken and the flies would start coming out of their mouths and
+
+==============================================================================
+SCENE 14 | 1748-04-12 night
+Keep — great hall
+Boundary: ten-minute time advance while extinguishing the fire (u2187)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 15 | 1748-04-12 night
+Inner courtyard — lookout outside the keep
+Boundary: location change; Wellby and Riswynn look outside (u2198)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 16 | 1748-04-12 night
+Keep — great hall
+Boundary: location focus returns to the carcasses and Kenzo’s poison (u2207)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 17 | 1748-04-12 night
+Keep — chapel
+Boundary: location change in the narrated search (u2277)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 18 | 1748-04-12 night
+Keep — second-floor balcony and rooms
+Boundary: location change (u2300)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 19 | 1748-04-12 night
+Inner courtyard — outside the keep
+Boundary: location change; cut to Kenzo and Vola (u2335)
+
+#25 Vola | met | supporting
+Vola speaks quietly beside the meditating Kenzo while Delwath checks on him and offers to keep watch.
+Review note: The transcript does not preserve the substance of Vola’s whispered words; no dialogue is invented.
+Transcript u2335–u2347 | 03:03:53.880–03:04:51.300
+[u2335 | 03:03:53.880-03:03:56.370 | Delwath] I'll go outside and see if I can find them.
+[u2336 | 03:03:56.850-03:03:59.910 | DM] Okay, so he's you see I'm sitting
+[u2337 | 03:04:01.320-03:04:02.430 | DM] In meditation.
+[u2338 | 03:04:03.720-03:04:05.070 | DM] Vola sitting next to
+[u2339 | 03:04:07.230-03:04:10.020 | DM] The earth, the ground is trembling slightly
+[u2340 | 03:04:12.420-03:04:15.150 | DM] His eyes are piercing blue like diamonds
+[u2341 | 03:04:16.770-03:04:17.160 | Seeker] Whoa.
+[u2342 | 03:04:19.740-03:04:23.820 | DM] Is this similar that all that seems to be talking quietly like almost whisper.
+[u2343 | 03:04:29.160-03:04:29.850 | Delwath] To
+[u2344 | 03:04:31.260-03:04:34.380 | Delwath] cuz I'll sort of slowly walk towards them.
+[u2345 | 03:04:37.380-03:04:37.770 | DM] Okay.
+[u2346 | 03:04:44.580-03:04:47.100 | Delwath] Is Vola does Vola seem to be talking to him.
+[u2347 | 03:04:47.490-03:04:51.300 | DM] She's yeah talking to him quietly, but he doesn't seem to be responding
+Transcript u2361–u2378 | 03:06:15.750–03:07:32.670
+[u2361 | 03:06:15.750-03:06:19.230 | Delwath] all end up sort of a few feet away.
+[u2362 | 03:06:21.090-03:06:28.530 | Delwath] And I'll say, Oh, I'll ask quietly white get a sort of non
+[u2363 | 03:06:30.780-03:06:33.360 | Delwath] Sort of. You don't have to answer, but are you okay Kenzo
+[u2364 | 03:06:35.760-03:06:38.670 | Kenzo] You see me just kind of like like
+[u2365 | 03:06:40.350-03:06:40.890 | Kenzo] What do I do
+[u2366 | 03:06:42.360-03:06:50.580 | Kenzo] Like I'm clearly I'm clearly like, you know, kind of in in in meditation, but but I sort of like just just kind of kind of give a nod.
+[u2367 | 03:06:50.970-03:06:51.510 | Delwath] Right, like
+[u2368 | 03:06:53.880-03:06:55.260 | Kenzo] Acknowledging you but also like
+[u2369 | 03:06:55.260-03:07:00.030 | Kenzo] You're clearly focused on trying to slow the course of the poison in my body.
+[u2370 | 03:07:01.380-03:07:06.990 | Delwath] Oh, hang out. Out here all have any she's human right, yeah.
+[u2371 | 03:07:09.480-03:07:10.410 | Delwath] I'll sort of all
+[u2372 | 03:07:11.460-03:07:12.900 | Delwath] All just sort of
+[u2373 | 03:07:13.920-03:07:15.840 | Delwath] Hanging out say I'll, I'll
+[u2374 | 03:07:17.010-03:07:19.230 | Delwath] I'll watch out here what you focus on
+[u2375 | 03:07:21.030-03:07:22.620 | Delwath] We focus on the poison Kenzo
+[u2376 | 03:07:24.210-03:07:25.380 | Kenzo] And nods.
+[u2377 | 03:07:27.000-03:07:27.810 | Kenzo] In appreciation
+[u2378 | 03:07:32.040-03:07:32.670 | Delwath] Keep watch
+
+==============================================================================
+SCENE 20 | 1748-04-12 night
+Keep — second-floor rooms
+Boundary: location change; cut back to the search (u2379)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 21 | 1748-04-12 night
+Keep — third-floor rooms and balcony
+Boundary: location change (u2419)
+No extracted NPC interaction in this segment.
+
+==============================================================================
+SCENE 22 | 1748-04-12 night
+Transit: upper keep → courtyard regrouping
+Boundary: location change (u2436)
+
+#26 Vola | met | cameo
+The party finds Vola still beside Kenzo and decides to move the group back to the tower to rest.
+Transcript u2472–u2483 | 03:15:56.400–03:16:39.990
+[u2472 | 03:15:56.400-03:16:01.260 | DM] I'm so Kenzo and Vola are just still sitting next to each other. I'm
+[u2473 | 03:16:03.420-03:16:04.980 | DM] Delwath a sort of watching them.
+[u2474 | 03:16:12.060-03:16:12.480 | Wellby] Good.
+[u2475 | 03:16:13.140-03:16:16.710 | Riswynn] Think it's worth waking up this meditation party and making it asleep party.
+[u2476 | 03:16:17.250-03:16:17.490 | Riswynn] We
+[u2477 | 03:16:17.940-03:16:19.110 | Riswynn] go someplace else.
+[u2478 | 03:16:19.350-03:16:23.040 | Seeker] We need to get somewhere safe for them outside the keep hearing
+[u2479 | 03:16:26.730-03:16:27.690 | Kenzo] Where do we gotta go.
+[u2480 | 03:16:29.430-03:16:31.320 | Seeker] I think back up to the third floor.
+[u2481 | 03:16:31.740-03:16:33.060 | Wellby] Or on into the tunnels.
+[u2482 | 03:16:36.090-03:16:37.230 | Seeker] I think back up in the tower.
+[u2483 | 03:16:37.590-03:16:39.990 | Wellby] I like that. Yes, we can keep an eye to what's going on.
+
+==============================================================================
+SCENE 23 | 1748-04-12 night
+North tower — refuge overlooking the inner gates
+Boundary: location change; settling in for overnight rest (u2487)
+
+#27 Vola | met | supporting
+Vola tells the party she needs sleep as they shelter in the tower and arrange a watch.
+Transcript u2511–u2518 | 03:18:47.310–03:19:21.540
+[u2511 | 03:18:47.310-03:18:49.230 | DM] Um, okay. So who's watching
+[u2512 | 03:18:52.020-03:18:52.740 | Wellby] Let's take the first
+[u2513 | 03:18:53.760-03:18:54.000 | DM] Guy.
+[u2514 | 03:18:56.640-03:19:03.270 | DM] Let's see Vola is just gonna as she sort of slowly limps up. She says, I gotta sleep. It's
+[u2515 | 03:19:03.300-03:19:06.150 | Unknown] Tough to steer I'm collapsing.
+[u2516 | 03:19:07.380-03:19:08.460 | DM] Hope you don't mind.
+[u2517 | 03:19:10.080-03:19:11.970 | DM] I'm and
+[u2518 | 03:19:17.070-03:19:21.540 | DM] I need everybody who is sleeping to make wisdom savings.
+
+#28 Three gnolls outside the gate | met | cameo
+From the tower, the party sees three gnolls bang on the closed gate and then walk away.
+Review note: Observation from a distance; no dialogue or combat with these gnolls.
+Transcript u2487–u2499 | 03:16:50.370–03:17:58.260
+[u2487 | 03:16:50.370-03:16:53.280 | Seeker] So we get back up in the tower and secure ourselves there.
+[u2488 | 03:16:53.910-03:16:55.980 | Seeker] Who would like to take a watch.
+[u2489 | 03:16:59.250-03:17:04.980 | DM] Okay, so you all had back to the domain that sort of tower where you originally were resting in
+[u2490 | 03:17:05.280-03:17:06.600 | DM] Yeah, okay.
+[u2491 | 03:17:09.630-03:17:11.460 | Riswynn] There any sign that anything has changed.
+[u2492 | 03:17:13.620-03:17:17.340 | DM] As you so as you come up there. There is
+[u2493 | 03:17:19.650-03:17:22.530 | DM] So you shut the gates and there are quite solid
+[u2494 | 03:17:23.730-03:17:25.530 | DM] But there do seem to be some
+[u2495 | 03:17:28.470-03:17:31.800 | DM] So it's dark and there's sort of mists and and fog kind of
+[u2496 | 03:17:33.600-03:17:41.700 | DM] billowing up but you know something was trying to with presumably supposed to come in and there's a
+[u2497 | 03:17:44.130-03:17:45.810 | DM] three gnolls that are kind of
+[u2498 | 03:17:47.220-03:17:48.810 | DM] resting against the gates.
+[u2499 | 03:17:51.600-03:17:58.260 | DM] Just kind of looking at each other and one of them like gets up and bangs on the gate, and then they kind of shrug their shoulders and walk off.
+
+==============================================================================
+SCENE 24 | 1748-04-13 morning
+North tower — refuge
+Boundary: overnight time skip; waking and morning discussion (u2534)
+
+#29 Vola | met | supporting
+Vola discusses the party’s troubled sleep and remaining questions, then shows Wellby how she produces a shimmering dagger.
+Transcript u2582–u2594 | 03:24:54.330–03:25:47.910
+[u2582 | 03:24:54.330-03:24:57.900 | DM] Okay, so as you wake up in the morning. This is where we'll stop.
+[u2583 | 03:24:59.370-03:25:06.210 | DM] Unless you guys want to discuss before we end Vola like looks around shakes her head.
+[u2584 | 03:25:07.350-03:25:08.190 | DM] Rubs her eyes.
+[u2585 | 03:25:09.840-03:25:11.820 | DM] Finally, a good night's sleep for once.
+[u2586 | 03:25:13.380-03:25:15.840 | Seeker] Oh, I had a terrible dream.
+[u2587 | 03:25:16.920-03:25:17.100 | Unknown] Big
+[u2588 | 03:25:18.360-03:25:19.500 | Seeker] Giant gnoll
+[u2589 | 03:25:20.790-03:25:24.120 | Seeker] With a flail a three headed flail
+[u2590 | 03:25:25.350-03:25:29.040 | Seeker] And packs of gnolls behind it, animals, turning into gnolls to
+[u2591 | 03:25:32.130-03:25:34.710 | DM] Told you. This is a fucking bad place to sleep.
+[u2592 | 03:25:39.030-03:25:42.600 | Seeker] Yeah, today's the day we get out of here, I think. Yeah.
+[u2593 | 03:25:43.980-03:25:44.580 | DM] I would like to
+[u2594 | 03:25:46.140-03:25:47.910 | DM] Killed the demon what's left to do.
+Transcript u2761–u2769 | 03:36:59.310–03:37:37.560
+[u2761 | 03:36:59.310-03:37:00.060 | Wellby] Vola what
+[u2762 | 03:37:01.860-03:37:07.440 | Wellby] What were you doing in that fight that the the stabby things
+[u2763 | 03:37:08.490-03:37:09.450 | Wellby] Don't seem to ever
+[u2764 | 03:37:10.980-03:37:15.660 | DM] She brings her hand on this like shimmering blade dagger appears
+[u2765 | 03:37:16.320-03:37:16.710 | Unknown] Well,
+[u2766 | 03:37:20.250-03:37:21.510 | DM] All of us have our tricks.
+[u2767 | 03:37:30.180-03:37:31.890 | Riswynn] And we thought they'd taken your weapons.
+[u2768 | 03:37:33.240-03:37:34.110 | Seeker] Little did they know
+[u2769 | 03:37:35.670-03:37:37.560 | DM] Only I have a better opportunity.
+
+#30 Giant gnoll in Seeker’s dream | mention | supporting
+Seeker tells the party about a nightmare of a giant gnoll with a three-headed flail and animals turning into gnolls.
+Review note: Dream report only; not an encounter, and not resolved to a named demon lord.
+Transcript u2586–u2591 | 03:25:13.380–03:25:34.710
+[u2586 | 03:25:13.380-03:25:15.840 | Seeker] Oh, I had a terrible dream.
+[u2587 | 03:25:16.920-03:25:17.100 | Unknown] Big
+[u2588 | 03:25:18.360-03:25:19.500 | Seeker] Giant gnoll
+[u2589 | 03:25:20.790-03:25:24.120 | Seeker] With a flail a three headed flail
+[u2590 | 03:25:25.350-03:25:29.040 | Seeker] And packs of gnolls behind it, animals, turning into gnolls to
+[u2591 | 03:25:32.130-03:25:34.710 | DM] Told you. This is a fucking bad place to sleep.
+
+#31 Small flying demon | mention | supporting
+The party plans to find the small flying demon, but Wellby cannot spot it from inside the tower.
+Transcript u2638–u2644 | 03:28:12.960–03:28:32.310
+[u2638 | 03:28:12.960-03:28:18.150 | Wellby] Wellby will say well as much as I want to get out of here. I think we still have some unfinished business.
+[u2639 | 03:28:18.480-03:28:18.930 | Kenzo] I agree.
+[u2640 | 03:28:19.080-03:28:21.420 | Wellby] Kill the gnolls free the animals.
+[u2641 | 03:28:21.540-03:28:23.640 | Wellby] Yes, kill that demon thing. If we can
+[u2642 | 03:28:24.810-03:28:26.040 | Wellby] Investigate the river.
+[u2643 | 03:28:26.640-03:28:28.470 | Wellby] Yeah, that little flying bat
+[u2644 | 03:28:28.530-03:28:32.310 | Delwath] Thing and and find out why this demon was here.
+Transcript u2759–u2760 | 03:36:29.460–03:36:48.000
+[u2759 | 03:36:29.460-03:36:32.580 | Wellby] Tim is that little bat demon thing anywhere to be seen.
+[u2760 | 03:36:35.310-03:36:48.000 | DM] Ah, not from inside the tower. I mean, you can't see it down into the windows, but you don't have a great I mean the windows are not big wide sort of picture windows right there slits in the walls.
+
+#32 Iron construct in the dwarven ruins | mention | cameo
+Kenzo and Riswynn add investigating the iron construct to their plans for the journey home.
+Transcript u2657–u2663 | 03:29:26.520–03:29:42.780
+[u2657 | 03:29:26.520-03:29:32.550 | Kenzo] And add to the list Wellby whatever the fuck that tin man is on and if you wanted to go look at that. Yeah, definitely.
+[u2658 | 03:29:32.760-03:29:33.450 | Seeker] Definitely the
+[u2659 | 03:29:35.940-03:29:36.660 | Kenzo] Ones that reason.
+[u2660 | 03:29:36.990-03:29:38.580 | Riswynn] That the site on the trip home.
+[u2661 | 03:29:39.780-03:29:40.230 | Seeker] Yeah.
+[u2662 | 03:29:40.380-03:29:40.740 | Delwath] Yeah.
+[u2663 | 03:29:41.460-03:29:42.780 | Wellby] That's something to look forward to.
+
+#33 Agata Dustmother | mention | supporting
+The party speculates that Agata may have been using the fortress to produce an army of corrupted creatures.
+Review note: Party theory, not established truth or new testimony from Agata.
+Transcript u2679–u2691 | 03:30:36.300–03:31:40.440
+[u2679 | 03:30:36.300-03:30:48.540 | Seeker] Well, I've got all these questions in my little notebook. We've really made only the most marginal of progress on any of them, to be honest. But Agata Dustmother. There's got to be clues about
+[u2680 | 03:30:49.650-03:30:50.790 | Seeker] who she is and what
+[u2681 | 03:30:50.790-03:30:51.240 | Unknown] Yeah.
+[u2682 | 03:30:54.000-03:30:56.820 | Seeker] Was this demon trying to summon her or was it
+[u2683 | 03:30:58.440-03:30:59.490 | Seeker] What was this ritual about
+[u2684 | 03:31:01.050-03:31:11.850 | Riswynn] I kind of think she was. She had it as like a army making factory station here and it had to finish its chore of making her an army before they could all leave
+[u2685 | 03:31:15.270-03:31:16.200 | Wellby] And this makes me thought
+[u2686 | 03:31:18.000-03:31:18.420 | Wellby] There's
+[u2687 | 03:31:20.190-03:31:21.330 | Wellby] It seems like
+[u2688 | 03:31:22.440-03:31:32.040 | Wellby] They sent the creatures of as soon as they were made. I mean, the groups. We saw or groups of a half a dozen you know they were small right it
+[u2689 | 03:31:32.430-03:31:33.360 | Wellby] wasn't an army.
+[u2690 | 03:31:34.080-03:31:35.100 | Wellby] So much as just
+[u2691 | 03:31:37.530-03:31:40.440 | Wellby] harassing skirmishing sorties right
+
+#34 Goat-headed demon | mention | supporting
+The party debates whether the slain demon was turning animals into gnolls and what its unfinished ritual would have done.
+Review note: Unresolved interpretation, not a confirmed mechanism.
+Transcript u2701–u2729 | 03:32:14.310–03:34:19.800
+[u2701 | 03:32:14.310-03:32:16.530 | Kenzo] Wait, how is how are the gnolls made
+[u2702 | 03:32:21.150-03:32:22.920 | DM] I mean, I don't know for sure, but
+[u2703 | 03:32:24.840-03:32:29.580 | DM] It seems like they are some sort of demonic energy infused into animals.
+[u2704 | 03:32:31.380-03:32:38.700 | Kenzo] Or from so but but from where is this is this is the demon creature or they're the ones animating it, how are they getting animated
+[u2705 | 03:32:40.290-03:32:46.770 | Seeker] In my dream animals were turning into gnolls it could be that the ritual was the demon turning animals into gnolls
+[u2706 | 03:32:48.810-03:32:49.710 | Kenzo] That would make sense.
+[u2707 | 03:32:52.320-03:33:00.510 | DM] Um, when you say that Vola kind of leans forward have been bringing an awful fucking lot of animals into this place.
+[u2708 | 03:33:01.260-03:33:02.160 | Seeker] That's what I'm saying.
+[u2709 | 03:33:03.810-03:33:07.890 | Seeker] They're like trying to ramp up their {{tourism prisons point}}
+[u2710 | 03:33:08.700-03:33:09.180 | Kenzo] But his
+[u2711 | 03:33:09.240-03:33:10.260 | Seeker] Production of an army.
+[u2712 | 03:33:10.800-03:33:15.480 | Kenzo] But it is, but who's food. How do they do it. What's the process we that's something we need to understand
+[u2713 | 03:33:15.960-03:33:18.780 | Seeker] Well, first you extend your claws.
+[u2714 | 03:33:19.710-03:33:21.060 | Seeker] And then you hold them over the fire.
+[u2715 | 03:33:21.210-03:33:21.720 | Seeker] And then you
+[u2716 | 03:33:22.920-03:33:28.290 | Seeker] Cut into an antelope, and then you stack them up and then there's some step after that we don't know because we killed the guy.
+[u2717 | 03:33:31.290-03:33:34.230 | DM] Lucky if this demon was responsible somehow
+[u2718 | 03:33:36.600-03:33:37.710 | DM] That's good right
+[u2719 | 03:33:38.970-03:33:40.980 | DM] It can't make any more of those damn things
+[u2720 | 03:33:41.400-03:33:44.610 | Seeker] We've halted the process for now, I'm guessing that that demon
+[u2721 | 03:33:45.990-03:33:49.710 | Seeker] There's more of those guys where he came from probably right. Yeah, no.
+[u2722 | 03:33:52.380-03:33:52.530 | Wellby] It's
+[u2723 | 03:33:53.610-03:33:56.850 | Wellby] It's really too bad we shouldn't just watch what he was doing for a while longer.
+[u2724 | 03:33:57.840-03:33:58.680 | Seeker] Man Nice.
+[u2725 | 03:33:58.740-03:34:04.080 | Delwath] I seem to recall somebody suggesting that it was too late, and we had to kill it right now.
+[u2726 | 03:34:05.280-03:34:07.590 | Wellby] There seemed a certain sense of urgency at the time.
+[u2727 | 03:34:08.430-03:34:11.400 | Seeker] We could have all had a good night's sleep and woken up to see
+[u2728 | 03:34:14.130-03:34:16.320 | Delwath] Hundred gnolls risen from the ground.
+[u2729 | 03:34:18.450-03:34:19.800 | Seeker] No one. No one will ever know.
+
+#35 Taster | met | cameo
+Seeker feeds Taster and proposes bringing him along when speaking with the captive animals.
+Review note: Breakfast is current; travel and the proposed invisible-rabbit trick have not happened.
+Transcript u2747–u2757 | 03:35:26.820–03:36:24.120
+[u2747 | 03:35:26.820-03:35:28.170 | Seeker] Well, let me have breakfast first
+[u2748 | 03:35:29.940-03:35:32.100 | Seeker] And maybe I can bring a little snack over
+[u2749 | 03:35:34.500-03:35:35.250 | Kenzo] Are you eating Taster.
+[u2750 | 03:35:38.370-03:35:40.110 | Seeker] Taster's always also having breakfast.
+[u2751 | 03:35:42.930-03:35:45.570 | Seeker] I'll put Taster on my shoulder on the way over.
+[u2752 | 03:35:48.300-03:35:55.860 | Wellby] Because if we go out that gate. It's not just in what's on the other side. It's gnolls to. I mean, we need to when we go out, we need to be ready for a fight.
+[u2753 | 03:35:56.820-03:35:58.500 | Seeker] Or we could we could do it instead of
+[u2754 | 03:35:59.250-03:36:04.950 | Riswynn] Invisible, go talk to animals so the gnolls don't notice
+[u2755 | 03:36:06.360-03:36:08.790 | Seeker] You point critical floggings plan.
+[u2756 | 03:36:10.170-03:36:17.490 | Seeker] What if I bring Taster Taster's not invisible but I am so he appears to fly briefly but but no notice because it's small.
+[u2757 | 03:36:18.720-03:36:24.120 | Seeker] And and then when I talk to the animals, they'll think Taster's talking to them.
+
+REVIEW FINDINGS
+The five existing recap scenes do not meet the requested finer location/time/combat boundaries; these 24 pilot indexes do not modify them.
+The short exterior lookout creates its own segment (scene 15), even though no NPC interaction is extracted there.
+Scenes 18 and 20 revisit the same upstairs search around a courtyard cutaway. This pilot gives each contiguous segment a separate index.
+The dawn boundary is u2534, the first explicit waking, rather than u2582, the later repeated morning framing.
+The demon’s two-headed description at u0819 is explicitly corrected at u0831–u0835; the introduction uses the corrected passage.
+Vola was introduced in session 10; her quote here is her opening line in this session, not a first-ever introduction.
+One NPC can have several linked excerpts in one scene. Location and date live on scenes only.
+Vola’s whispered conversation is not audible in the transcript; only its occurrence is extracted.

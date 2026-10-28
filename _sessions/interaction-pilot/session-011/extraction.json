@@ -1,0 +1,1373 @@
+{
+  "schema_version": "scene-interactions-pilot-0.2",
+  "campaign": "dufr",
+  "session": 11,
+  "status": "unreviewed_design_trial",
+  "source": {
+    "transcript": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-source-cleaned.md",
+    "sha256": "9454c2d5b3d0340c9820c038a9b56e42def36e1b0c024ccdec460ba4aa87f81c",
+    "session_note": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 11 (DuFr).md",
+    "recap": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session-recap.md"
+  },
+  "conventions": {
+    "scene_identity": "campaign + session + index; pilot namespace, independent of existing recap scene IDs; do not renumber after adoption",
+    "interaction": "met = direct on-scene contact or observation, including combat and recurring companions; mention = discussed, including plans or theories, not a new encounter",
+    "importance": "star = central to the interaction; supporting = substantive participant or subject; cameo = brief/incidental involvement; provisional judgments",
+    "scope": "Core person/creature encounters and substantive references. Excludes opening recap, generic populations/species, incidental scenery/deities, rules jokes, and closing scheduling. This is a human-review pilot, not a measured exhaustive extraction.",
+    "scene_boundaries": "Location-focus changes, combat starts/ends, and narrated time skips. Transitions stay in the following scene where practical. The brief courtyard lookout and the return to the hall are separate segments.",
+    "other_npcs": "Not stored. Records with interaction met can support scene associations; mention records do not establish presence, and associations are not a complete roster.",
+    "quotes": "Verbatim utterance text, including transcription imperfections; optional session introduction only; no invented speech.",
+    "publication": "Local review only; campaign/DM/POV visibility has not been compiled."
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "North tower — study/council chamber"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0020",
+        "end": "u0640",
+        "recording_start": "00:02:46.620",
+        "recording_end": "00:51:18.840"
+      },
+      "boundary": {
+        "reason": "session opening",
+        "evidence": "u0020"
+      }
+    },
+    {
+      "index": 2,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Transit: north tower → south tower → courtyard exit"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0641",
+        "end": "u0680",
+        "recording_start": "00:51:23.400",
+        "recording_end": "00:55:18.420"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u0641"
+      }
+    },
+    {
+      "index": 3,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Inner courtyard — chapel window and keep entrance"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0681",
+        "end": "u0742",
+        "recording_start": "00:55:18.480",
+        "recording_end": "01:01:54.030"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u0681"
+      }
+    },
+    {
+      "index": 4,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep exterior — near the entrance and outbuilding"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0743",
+        "end": "u0791",
+        "recording_start": "01:01:55.260",
+        "recording_end": "01:05:00.600"
+      },
+      "boundary": {
+        "reason": "combat starts",
+        "evidence": "u0743"
+      }
+    },
+    {
+      "index": 5,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep exterior — corner beside the cliff"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0792",
+        "end": "u0802",
+        "recording_start": "01:05:04.050",
+        "recording_end": "01:05:41.580"
+      },
+      "boundary": {
+        "reason": "combat ends",
+        "evidence": "u0791"
+      }
+    },
+    {
+      "index": 6,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep exterior — windows overlooking the great hall"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0803",
+        "end": "u0918",
+        "recording_start": "01:05:42.870",
+        "recording_end": "01:15:00.270"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u0803"
+      }
+    },
+    {
+      "index": 7,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Transit: rear of keep → chapel side → north tower"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0919",
+        "end": "u0963",
+        "recording_start": "01:15:01.290",
+        "recording_end": "01:18:45.390"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u0919"
+      }
+    },
+    {
+      "index": 8,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "North tower — refuge"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "evening",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u0964",
+        "end": "u1166",
+        "recording_start": "01:18:47.520",
+        "recording_end": "01:36:06.180"
+      },
+      "boundary": {
+        "reason": "location change; scouts return after nearly an hour",
+        "evidence": "u0964"
+      }
+    },
+    {
+      "index": 9,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep exterior — window overlooking the great hall"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u1167",
+        "end": "u1205",
+        "recording_start": "01:36:07.530",
+        "recording_end": "01:39:51.240"
+      },
+      "boundary": {
+        "reason": "location change and time advance during a further watch",
+        "evidence": "u1167"
+      }
+    },
+    {
+      "index": 10,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "North tower — refuge"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u1206",
+        "end": "u1370",
+        "recording_start": "01:39:58.140",
+        "recording_end": "01:52:18.000"
+      },
+      "boundary": {
+        "reason": "location change; Wellby returns with his report",
+        "evidence": "u1205"
+      }
+    },
+    {
+      "index": 11,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Transit: inner gates → courtyard → keep entrances"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u1371",
+        "end": "u1438",
+        "recording_start": "01:52:19.440",
+        "recording_end": "01:58:00.660"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u1371"
+      }
+    },
+    {
+      "index": 12,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — great hall and its entrances"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u1439",
+        "end": "u2092",
+        "recording_start": "01:58:00.750",
+        "recording_end": "02:44:19.980"
+      },
+      "boundary": {
+        "reason": "combat starts",
+        "evidence": "u1439"
+      }
+    },
+    {
+      "index": 13,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — great hall"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2093",
+        "end": "u2186",
+        "recording_start": "02:44:22.680",
+        "recording_end": "02:51:15.780"
+      },
+      "boundary": {
+        "reason": "combat ends",
+        "evidence": "u2092"
+      }
+    },
+    {
+      "index": 14,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — great hall"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2187",
+        "end": "u2197",
+        "recording_start": "02:51:18.060",
+        "recording_end": "02:52:37.830"
+      },
+      "boundary": {
+        "reason": "ten-minute time advance while extinguishing the fire",
+        "evidence": "u2187"
+      }
+    },
+    {
+      "index": 15,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Inner courtyard — lookout outside the keep"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2198",
+        "end": "u2206",
+        "recording_start": "02:52:41.190",
+        "recording_end": "02:53:43.650"
+      },
+      "boundary": {
+        "reason": "location change; Wellby and Riswynn look outside",
+        "evidence": "u2198"
+      }
+    },
+    {
+      "index": 16,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — great hall"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2207",
+        "end": "u2276",
+        "recording_start": "02:53:46.530",
+        "recording_end": "02:58:07.260"
+      },
+      "boundary": {
+        "reason": "location focus returns to the carcasses and Kenzo’s poison",
+        "evidence": "u2207"
+      }
+    },
+    {
+      "index": 17,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — chapel"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2277",
+        "end": "u2292",
+        "recording_start": "02:58:07.620",
+        "recording_end": "03:00:17.760"
+      },
+      "boundary": {
+        "reason": "location change in the narrated search",
+        "evidence": "u2277"
+      }
+    },
+    {
+      "index": 18,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — second-floor balcony and rooms"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2293",
+        "end": "u2334",
+        "recording_start": "03:00:17.940",
+        "recording_end": "03:03:45.450"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u2300"
+      }
+    },
+    {
+      "index": 19,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Inner courtyard — outside the keep"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2335",
+        "end": "u2378",
+        "recording_start": "03:03:53.880",
+        "recording_end": "03:07:32.670"
+      },
+      "boundary": {
+        "reason": "location change; cut to Kenzo and Vola",
+        "evidence": "u2335"
+      }
+    },
+    {
+      "index": 20,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — second-floor rooms"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2379",
+        "end": "u2418",
+        "recording_start": "03:07:33.540",
+        "recording_end": "03:11:15.600"
+      },
+      "boundary": {
+        "reason": "location change; cut back to the search",
+        "evidence": "u2379"
+      }
+    },
+    {
+      "index": 21,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Keep — third-floor rooms and balcony"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2419",
+        "end": "u2435",
+        "recording_start": "03:11:20.970",
+        "recording_end": "03:13:11.640"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u2419"
+      }
+    },
+    {
+      "index": 22,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "Transit: upper keep → courtyard regrouping"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2436",
+        "end": "u2486",
+        "recording_start": "03:13:16.080",
+        "recording_end": "03:16:50.340"
+      },
+      "boundary": {
+        "reason": "location change",
+        "evidence": "u2436"
+      }
+    },
+    {
+      "index": 23,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "North tower — refuge overlooking the inner gates"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time": "night",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2487",
+        "end": "u2533",
+        "recording_start": "03:16:50.370",
+        "recording_end": "03:20:34.740"
+      },
+      "boundary": {
+        "reason": "location change; settling in for overnight rest",
+        "evidence": "u2487"
+      }
+    },
+    {
+      "index": 24,
+      "location": {
+        "note": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+        "detail": "North tower — refuge"
+      },
+      "date": {
+        "value": "1748-04-13",
+        "time": "morning",
+        "basis": "session-note dates and transcript chronology"
+      },
+      "transcript": {
+        "start": "u2534",
+        "end": "u2784",
+        "recording_start": "03:20:37.230",
+        "recording_end": "03:38:41.910"
+      },
+      "boundary": {
+        "reason": "overnight time skip; waking and morning discussion",
+        "evidence": "u2534"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "vola",
+      "label": "Vola",
+      "note": "People/Chardonians/Vola.md"
+    },
+    {
+      "id": "agata",
+      "label": "Agata Dustmother",
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "demon",
+      "label": "Goat-headed demon",
+      "note": "People/Other Nonhumans/Oduk.md",
+      "resolution_basis": "Official Session 11 note explicitly links the encountered demon to Oduk; do not imply the name was known during play."
+    },
+    {
+      "id": "rabbit",
+      "label": "Taster",
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md"
+    },
+    {
+      "id": "guard",
+      "label": "Undead gnoll guard",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    },
+    {
+      "id": "undead",
+      "label": "Undead gnolls in the great hall",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    },
+    {
+      "id": "flyer",
+      "label": "Small flying demon",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    },
+    {
+      "id": "chimera",
+      "label": "Rumored three-headed beast",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    },
+    {
+      "id": "captors",
+      "label": "Vola’s orc and jackalwere captors",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    },
+    {
+      "id": "iron",
+      "label": "Iron construct in the dwarven ruins",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    },
+    {
+      "id": "gate",
+      "label": "Three gnolls outside the gate",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    },
+    {
+      "id": "dream",
+      "label": "Giant gnoll in Seeker’s dream",
+      "note": null,
+      "resolution_basis": "Session-local descriptive identity; no canonical note guessed."
+    }
+  ],
+  "interactions": [
+    {
+      "id": 1,
+      "npc": "vola",
+      "scene": 1,
+      "interaction": "met",
+      "importance": "star",
+      "overview": "The party feeds Vola and questions her about her captivity, Agata’s servants, and the unfinished ritual.",
+      "introduction": {
+        "kind": "dialogue",
+        "scope": "introduction_in_this_session",
+        "quote": "I could really use a real meal, to be honest, it's not like those bloody creatures fed me much. And then perhaps we can make a plan to get the fuck out of this damn place.",
+        "transcript": {
+          "start": "u0030",
+          "end": "u0031",
+          "recording_start": "00:03:52.980",
+          "recording_end": "00:04:03.330"
+        }
+      },
+      "transcript": [
+        {
+          "start": "u0029",
+          "end": "u0054",
+          "recording_start": "00:03:50.250",
+          "recording_end": "00:05:50.370"
+        },
+        {
+          "start": "u0428",
+          "end": "u0457",
+          "recording_start": "00:36:30.270",
+          "recording_end": "00:38:49.140"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "npc": "agata",
+      "scene": 1,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "Vola tells the party that Agata’s servants wanted Drankorian artifacts and planned to take her away after a ritual succeeded.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0431",
+          "end": "u0457",
+          "recording_start": "00:36:45.390",
+          "recording_end": "00:38:49.140"
+        }
+      ],
+      "review_note": "Vola’s attributed account; her speculation about Agata’s nature and age is not established fact."
+    },
+    {
+      "id": 3,
+      "npc": "captors",
+      "scene": 1,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "The party asks Vola about her captors, and she says no one beyond the three they killed entered her prison tower.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0474",
+          "end": "u0482",
+          "recording_start": "00:39:57.660",
+          "recording_end": "00:40:27.750"
+        }
+      ],
+      "review_note": "Group reference to previously killed individuals, not a new encounter."
+    },
+    {
+      "id": 4,
+      "npc": "chimera",
+      "scene": 1,
+      "interaction": "mention",
+      "importance": "cameo",
+      "overview": "Vola tells the party that rumors of treasure left by a three-headed, fire-breathing beast drew her to Raven’s Hold.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0417",
+          "end": "u0427",
+          "recording_start": "00:35:36.720",
+          "recording_end": "00:36:28.170"
+        }
+      ],
+      "review_note": "Rumor; no species or named identity inferred."
+    },
+    {
+      "id": 5,
+      "npc": "flyer",
+      "scene": 1,
+      "interaction": "mention",
+      "importance": "cameo",
+      "overview": "Wellby reminds the party of the small bat-like creature he saw above the gnolls.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0149",
+          "end": "u0151",
+          "recording_start": "00:13:39.960",
+          "recording_end": "00:13:55.590"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "npc": "iron",
+      "scene": 1,
+      "interaction": "mention",
+      "importance": "cameo",
+      "overview": "Riswynn and Seeker express interest in investigating the mechanical guardian on the return journey.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0228",
+          "end": "u0231",
+          "recording_start": "00:19:43.200",
+          "recording_end": "00:19:51.930"
+        }
+      ],
+      "review_note": "No encounter occurs in this session."
+    },
+    {
+      "id": 7,
+      "npc": "guard",
+      "scene": 3,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "An undead gnoll notices Kenzo as he and Wellby scout around the keep.",
+      "introduction": {
+        "kind": "description",
+        "scope": "introduction_in_this_session",
+        "quote": "Gnoll of sorts, but its flesh is falling off of its face, and it's withered, to the point at which it's um you know it's bones are showing through, you know, so it's arm is like little bits of bone picking through flesh dropping off of its bodies and as you sort of walk around the corner.",
+        "transcript": {
+          "start": "u0736",
+          "end": "u0736",
+          "recording_start": "01:01:04.590",
+          "recording_end": "01:01:26.280"
+        }
+      },
+      "transcript": [
+        {
+          "start": "u0733",
+          "end": "u0741",
+          "recording_start": "01:00:39.060",
+          "recording_end": "01:01:49.050"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "npc": "guard",
+      "scene": 4,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "Kenzo kills the undead gnoll with two quick punches before it can raise an alarm.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0772",
+          "end": "u0791",
+          "recording_start": "01:03:28.470",
+          "recording_end": "01:05:00.600"
+        }
+      ],
+      "review_note": "Combat is described in the overview; interaction remains met."
+    },
+    {
+      "id": 9,
+      "npc": "demon",
+      "scene": 6,
+      "interaction": "met",
+      "importance": "star",
+      "overview": "Kenzo and Wellby watch the goat-headed demon pace through the great hall while Kenzo studies its aura.",
+      "introduction": {
+        "kind": "description",
+        "scope": "introduction_in_this_session",
+        "quote": "Goat like head with Big Horn sort of coming up and curling around",
+        "transcript": {
+          "start": "u0835",
+          "end": "u0835",
+          "recording_start": "01:08:49.500",
+          "recording_end": "01:08:54.510"
+        }
+      },
+      "transcript": [
+        {
+          "start": "u0816",
+          "end": "u0835",
+          "recording_start": "01:07:16.110",
+          "recording_end": "01:08:54.510"
+        },
+        {
+          "start": "u0878",
+          "end": "u0881",
+          "recording_start": "01:12:06.690",
+          "recording_end": "01:12:18.870"
+        }
+      ],
+      "review_note": "Overview limited to this scene’s evidence; planar connection is reported after the scouts move on. Initial two-headed wording at u0819 is corrected at u0831–u0835. Canonical note identity comes from the session note; the name Oduk is not spoken."
+    },
+    {
+      "id": 10,
+      "npc": "undead",
+      "scene": 6,
+      "interaction": "met",
+      "importance": "cameo",
+      "overview": "Kenzo and Wellby observe undead gnolls milling around the demon as it occasionally pushes them aside.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0812",
+          "end": "u0814",
+          "recording_start": "01:06:59.160",
+          "recording_end": "01:07:12.750"
+        },
+        {
+          "start": "u0872",
+          "end": "u0877",
+          "recording_start": "01:11:24.960",
+          "recording_end": "01:12:05.640"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "npc": "demon",
+      "scene": 7,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "Kenzo tells Wellby that the demon’s aura reveals a connection to another plane as they complete their scouting circuit.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0924",
+          "end": "u0927",
+          "recording_start": "01:15:55.410",
+          "recording_end": "01:16:20.910"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "npc": "demon",
+      "scene": 8,
+      "interaction": "mention",
+      "importance": "star",
+      "overview": "The scouts report the demon to the party, which debates attacking immediately or watching to learn what it is waiting for.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u0964",
+          "end": "u0971",
+          "recording_start": "01:18:47.520",
+          "recording_end": "01:19:34.650"
+        },
+        {
+          "start": "u1094",
+          "end": "u1107",
+          "recording_start": "01:28:56.280",
+          "recording_end": "01:30:01.500"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "npc": "vola",
+      "scene": 8,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "Vola agrees to help the party but warns that her exhaustion would make escaping a fight difficult.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1070",
+          "end": "u1075",
+          "recording_start": "01:27:18.810",
+          "recording_end": "01:27:42.420"
+        },
+        {
+          "start": "u1111",
+          "end": "u1113",
+          "recording_start": "01:30:31.590",
+          "recording_end": "01:30:48.780"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "npc": "flyer",
+      "scene": 8,
+      "interaction": "mention",
+      "importance": "cameo",
+      "overview": "Seeker asks whether the goat-headed demon might be another form of the small flying creature seen earlier.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1009",
+          "end": "u1018",
+          "recording_start": "01:22:09.480",
+          "recording_end": "01:22:51.090"
+        }
+      ],
+      "review_note": "Identity is questioned, not established; preserve separate entity IDs."
+    },
+    {
+      "id": 15,
+      "npc": "rabbit",
+      "scene": 8,
+      "interaction": "met",
+      "importance": "cameo",
+      "overview": "Seeker remembers his rabbit and opens its wicker cage while the party debates its next move.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1108",
+          "end": "u1110",
+          "recording_start": "01:30:05.670",
+          "recording_end": "01:30:19.290"
+        }
+      ],
+      "review_note": "Rabbit identity resolved by the later Taster references and companion note."
+    },
+    {
+      "id": 16,
+      "npc": "demon",
+      "scene": 9,
+      "interaction": "met",
+      "importance": "star",
+      "overview": "Wellby watches the demon heat its claws and score animal carcasses until their flesh blackens and develops boils.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1167",
+          "end": "u1175",
+          "recording_start": "01:36:07.530",
+          "recording_end": "01:37:06.630"
+        },
+        {
+          "start": "u1179",
+          "end": "u1184",
+          "recording_start": "01:37:20.940",
+          "recording_end": "01:38:16.500"
+        }
+      ],
+      "review_note": "met includes direct observation without conversation; no claim that the ritual’s purpose is known."
+    },
+    {
+      "id": 17,
+      "npc": "undead",
+      "scene": 9,
+      "interaction": "met",
+      "importance": "cameo",
+      "overview": "Wellby sees the demon push aside the undead gnolls following it while it retrieves animal carcasses.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1172",
+          "end": "u1174",
+          "recording_start": "01:36:32.100",
+          "recording_end": "01:37:02.670"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "npc": "demon",
+      "scene": 10,
+      "interaction": "mention",
+      "importance": "star",
+      "overview": "Wellby describes the carcass ritual to the party, prompting discussion of demonic transformation and a decision to attack.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1206",
+          "end": "u1207",
+          "recording_start": "01:39:58.140",
+          "recording_end": "01:40:04.050"
+        },
+        {
+          "start": "u1223",
+          "end": "u1235",
+          "recording_start": "01:41:20.700",
+          "recording_end": "01:42:32.850"
+        }
+      ],
+      "review_note": "The proposed transformation mechanism remains speculation."
+    },
+    {
+      "id": 19,
+      "npc": "rabbit",
+      "scene": 10,
+      "interaction": "mention",
+      "importance": "cameo",
+      "overview": "Seeker proposes using Taster to distract the demon, but the party proceeds with a direct assault.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1236",
+          "end": "u1240",
+          "recording_start": "01:42:36.660",
+          "recording_end": "01:43:07.410"
+        },
+        {
+          "start": "u1299",
+          "end": "u1302",
+          "recording_start": "01:46:34.560",
+          "recording_end": "01:46:48.210"
+        }
+      ],
+      "review_note": "Proposed action, not a completed rabbit diversion; mention can refer to a present companion being discussed."
+    },
+    {
+      "id": 20,
+      "npc": "vola",
+      "scene": 10,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "Despite her exhaustion, Vola agrees to accompany the party in its attack on the demon.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1308",
+          "end": "u1318",
+          "recording_start": "01:47:08.940",
+          "recording_end": "01:47:54.120"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "npc": "demon",
+      "scene": 12,
+      "interaction": "met",
+      "importance": "star",
+      "overview": "The party battles the demon, whose tail poisons Delwath, before Kenzo’s final punch cracks its horn and makes it vanish.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1813",
+          "end": "u1829",
+          "recording_start": "02:25:12.210",
+          "recording_end": "02:26:10.290"
+        },
+        {
+          "start": "u2064",
+          "end": "u2070",
+          "recording_start": "02:41:43.470",
+          "recording_end": "02:42:25.290"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "npc": "vola",
+      "scene": 12,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "Vola fights beside the party, killing an undead gnoll and wounding the demon with shimmering daggers.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1740",
+          "end": "u1744",
+          "recording_start": "02:19:10.410",
+          "recording_end": "02:19:53.520"
+        },
+        {
+          "start": "u2034",
+          "end": "u2049",
+          "recording_start": "02:39:54.270",
+          "recording_end": "02:41:08.040"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "npc": "undead",
+      "scene": 12,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "The party and Vola defeat the undead gnolls, with Riswynn destroying the last one using her flaming hammer.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u1740",
+          "end": "u1744",
+          "recording_start": "02:19:10.410",
+          "recording_end": "02:19:53.520"
+        },
+        {
+          "start": "u2073",
+          "end": "u2084",
+          "recording_start": "02:42:34.590",
+          "recording_end": "02:43:42.630"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "npc": "demon",
+      "scene": 13,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "After the battle, the party confirms the demon left no recoverable body and examines the carcasses it altered.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2133",
+          "end": "u2145",
+          "recording_start": "02:47:21.720",
+          "recording_end": "02:48:36.240"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "npc": "vola",
+      "scene": 19,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "Vola speaks quietly beside the meditating Kenzo while Delwath checks on him and offers to keep watch.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2335",
+          "end": "u2347",
+          "recording_start": "03:03:53.880",
+          "recording_end": "03:04:51.300"
+        },
+        {
+          "start": "u2361",
+          "end": "u2378",
+          "recording_start": "03:06:15.750",
+          "recording_end": "03:07:32.670"
+        }
+      ],
+      "review_note": "The transcript does not preserve the substance of Vola’s whispered words; no dialogue is invented."
+    },
+    {
+      "id": 26,
+      "npc": "vola",
+      "scene": 22,
+      "interaction": "met",
+      "importance": "cameo",
+      "overview": "The party finds Vola still beside Kenzo and decides to move the group back to the tower to rest.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2472",
+          "end": "u2483",
+          "recording_start": "03:15:56.400",
+          "recording_end": "03:16:39.990"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "npc": "vola",
+      "scene": 23,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "Vola tells the party she needs sleep as they shelter in the tower and arrange a watch.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2511",
+          "end": "u2518",
+          "recording_start": "03:18:47.310",
+          "recording_end": "03:19:21.540"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "npc": "gate",
+      "scene": 23,
+      "interaction": "met",
+      "importance": "cameo",
+      "overview": "From the tower, the party sees three gnolls bang on the closed gate and then walk away.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2487",
+          "end": "u2499",
+          "recording_start": "03:16:50.370",
+          "recording_end": "03:17:58.260"
+        }
+      ],
+      "review_note": "Observation from a distance; no dialogue or combat with these gnolls."
+    },
+    {
+      "id": 29,
+      "npc": "vola",
+      "scene": 24,
+      "interaction": "met",
+      "importance": "supporting",
+      "overview": "Vola discusses the party’s troubled sleep and remaining questions, then shows Wellby how she produces a shimmering dagger.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2582",
+          "end": "u2594",
+          "recording_start": "03:24:54.330",
+          "recording_end": "03:25:47.910"
+        },
+        {
+          "start": "u2761",
+          "end": "u2769",
+          "recording_start": "03:36:59.310",
+          "recording_end": "03:37:37.560"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "npc": "dream",
+      "scene": 24,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "Seeker tells the party about a nightmare of a giant gnoll with a three-headed flail and animals turning into gnolls.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2586",
+          "end": "u2591",
+          "recording_start": "03:25:13.380",
+          "recording_end": "03:25:34.710"
+        }
+      ],
+      "review_note": "Dream report only; not an encounter, and not resolved to a named demon lord."
+    },
+    {
+      "id": 31,
+      "npc": "flyer",
+      "scene": 24,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "The party plans to find the small flying demon, but Wellby cannot spot it from inside the tower.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2638",
+          "end": "u2644",
+          "recording_start": "03:28:12.960",
+          "recording_end": "03:28:32.310"
+        },
+        {
+          "start": "u2759",
+          "end": "u2760",
+          "recording_start": "03:36:29.460",
+          "recording_end": "03:36:48.000"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "npc": "iron",
+      "scene": 24,
+      "interaction": "mention",
+      "importance": "cameo",
+      "overview": "Kenzo and Riswynn add investigating the iron construct to their plans for the journey home.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2657",
+          "end": "u2663",
+          "recording_start": "03:29:26.520",
+          "recording_end": "03:29:42.780"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "npc": "agata",
+      "scene": 24,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "The party speculates that Agata may have been using the fortress to produce an army of corrupted creatures.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2679",
+          "end": "u2691",
+          "recording_start": "03:30:36.300",
+          "recording_end": "03:31:40.440"
+        }
+      ],
+      "review_note": "Party theory, not established truth or new testimony from Agata."
+    },
+    {
+      "id": 34,
+      "npc": "demon",
+      "scene": 24,
+      "interaction": "mention",
+      "importance": "supporting",
+      "overview": "The party debates whether the slain demon was turning animals into gnolls and what its unfinished ritual would have done.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2701",
+          "end": "u2729",
+          "recording_start": "03:32:14.310",
+          "recording_end": "03:34:19.800"
+        }
+      ],
+      "review_note": "Unresolved interpretation, not a confirmed mechanism."
+    },
+    {
+      "id": 35,
+      "npc": "rabbit",
+      "scene": 24,
+      "interaction": "met",
+      "importance": "cameo",
+      "overview": "Seeker feeds Taster and proposes bringing him along when speaking with the captive animals.",
+      "introduction": null,
+      "transcript": [
+        {
+          "start": "u2747",
+          "end": "u2757",
+          "recording_start": "03:35:26.820",
+          "recording_end": "03:36:24.120"
+        }
+      ],
+      "review_note": "Breakfast is current; travel and the proposed invisible-rabbit trick have not happened."
+    }
+  ],
+  "excluded_ranges": [
+    {
+      "start": "u0001",
+      "end": "u0019",
+      "reason": "Opening recap and setup; previous-session events are not new encounters."
+    },
+    {
+      "start": "u2785",
+      "end": "u2810",
+      "reason": "Closing scheduling and unrelated table conversation."
+    }
+  ],
+  "review_findings": [
+    "The five existing recap scenes do not meet the requested finer location/time/combat boundaries; these 24 pilot indexes do not modify them.",
+    "The short exterior lookout creates its own segment (scene 15), even though no NPC interaction is extracted there.",
+    "Scenes 18 and 20 revisit the same upstairs search around a courtyard cutaway. This pilot gives each contiguous segment a separate index.",
+    "The dawn boundary is u2534, the first explicit waking, rather than u2582, the later repeated morning framing.",
+    "The demon’s two-headed description at u0819 is explicitly corrected at u0831–u0835; the introduction uses the corrected passage.",
+    "Vola was introduced in session 10; her quote here is her opening line in this session, not a first-ever introduction.",
+    "One NPC can have several linked excerpts in one scene. Location and date live on scenes only.",
+    "Vola’s whispered conversation is not audible in the transcript; only its occurrence is extracted."
+  ]
+}

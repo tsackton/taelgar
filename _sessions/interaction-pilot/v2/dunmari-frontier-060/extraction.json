@@ -1,0 +1,1167 @@
+{
+  "schema_version": 2,
+  "campaign": "dufr",
+  "session": "dunmari-frontier-060",
+  "segmentation_revision": 1,
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-source-cleaned.md",
+    "sha256": "83268a8e4fa8e6753b6f6e35dfd4d48ae5c100fd6519f92eb5b8cc805f9ab6a5",
+    "kind": "transcript"
+  },
+  "supporting_sources": [
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+      "sha256": "b164a783ccae26f61aab799da7ef2da700feaf6155c4185ff80a95bb540b487c"
+    },
+    {
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md",
+      "sha256": "37e03ede7ae5e527e1cb6b3db8ee19fc04f116faad1b99f3c9ca2973a0ea08a8"
+    },
+    {
+      "path": "People/Halflings/Wella Brightmoon.md",
+      "sha256": "e6217c07c5237933636580b88c435ad1e660d79eda3723b3113d514a650591ef"
+    },
+    {
+      "path": "People/Halflings/Pearl Brightmoon.md",
+      "sha256": "49c9cc4e0f54e4e3ccc35826d54598c3b99cd68c74eeaa463bebc73247581fe4"
+    },
+    {
+      "path": "People/Halflings/Corrin Wildheart.md",
+      "sha256": "8bc1ee077f506800a66407c2d44db8bc277f726036d314293555e30f135b7c5d"
+    },
+    {
+      "path": "People/Halflings/Rose Brightmoon.md",
+      "sha256": "647485f378a0a652836cf48c810976e6e8f9cc163f366fbc07e55ffc2c47e5bd"
+    },
+    {
+      "path": "People/Kenku/Makha.md",
+      "sha256": "9680d6b67b7de79abd921e0f33d46adc082bcd712524448fc5e9e39d0177bb3c"
+    },
+    {
+      "path": "People/Kenku/Skoda.md",
+      "sha256": "b51175193c6e1b5774407aa402af4335845b2a7682923a0493fcb24eccd85e06"
+    },
+    {
+      "path": "People/Kenku/Nahto.md",
+      "sha256": "179641e479d882e91facdaf53e3c0f0ff4c08023af4cc6a50cccdbecf7726f7c"
+    },
+    {
+      "path": "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
+      "sha256": "ecbb7ca7b70682e6b8360ca56ca052cc5a14270c5a9f3b8eb19f7e95a0f20fc7"
+    },
+    {
+      "path": "People/Extraplanar Powers/Cha'mutte.md",
+      "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "startUid": "u0014",
+      "endUid": "u0022",
+      "location": "Air above the Eastern Green Sea",
+      "boundary": "Displacement into open air; landing on the ship starts the next scene.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "late afternoon",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "startUid": "u0023",
+      "endUid": "u0194",
+      "location": "Wave Dancer — deck",
+      "boundary": "Land aboard the ship and speak with its captain and first mate.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "late afternoon",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "startUid": "u0195",
+      "endUid": "u0232",
+      "location": "Wave Dancer — cargo hold",
+      "boundary": "Go below deck to settle Baxter and speak with a sailor.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "late afternoon",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "startUid": "u0233",
+      "endUid": "u0242",
+      "location": "Wave Dancer — deck",
+      "boundary": "Return to the deck after roughly half an hour.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "late afternoon",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "startUid": "u0243",
+      "endUid": "u0289",
+      "location": "Wave Dancer — deck",
+      "boundary": "An explicit hour-and-a-half skip brings sunset and final preparations.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "sunset",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 6,
+      "startUid": "u0290",
+      "endUid": "u0332",
+      "location": "Air between the Wave Dancer and the pursuing pirate ship",
+      "boundary": "Fly toward the pursuing ship before the first exchange of attacks.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "sunset",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 7,
+      "startUid": "u0333",
+      "endUid": "u0544",
+      "location": "Pirate ship and surrounding air — crow’s nest and sails",
+      "boundary": "Combat begins with the first crossbow volley and ends with the last shots during retreat.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "sunset",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "startUid": "u0545",
+      "endUid": "u0550",
+      "location": "Air returning to the Wave Dancer",
+      "boundary": "Out of weapon range, fly back to the Wave Dancer.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "sunset",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "startUid": "u0551",
+      "endUid": "u0579",
+      "location": "Wave Dancer — deck",
+      "boundary": "Land on the deck as the sun sinks; the navigator creates fog cover.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "twilight",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "startUid": "u0580",
+      "endUid": "u0725",
+      "location": "Wave Dancer — deck, shared meal",
+      "boundary": "Night falls and food, introductions and conversation begin.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "nightfall",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "startUid": "u0726",
+      "endUid": "u0927",
+      "location": "Wave Dancer — deck, continued conversation",
+      "boundary": "Explicitly later at night, discuss Wellby’s onward journey.",
+      "date": {
+        "start": "1748-09-30",
+        "end": "1748-09-30",
+        "time": "late night",
+        "basis": "Day from session manifest and note; transcript confirms no elapsed days during displacement at u0742–u0749. Time follows explicit daylight, sunset and night transitions.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drStart",
+          "u0014–u0015; u0243; u0551; u0580; u0726; u0742–u0749"
+        ]
+      }
+    },
+    {
+      "index": 12,
+      "startUid": "u0928",
+      "endUid": "u0943",
+      "location": "Wave Dancer — voyage across the Green Sea",
+      "boundary": "Multi-day voyage montage and language learning.",
+      "date": {
+        "start": "1748-10-01",
+        "end": "1748-10-11",
+        "time": null,
+        "basis": "Voyage interval explicitly supplied by session note; transcript gives approximately ten to eleven days. Preserve this as a montage, not invented daily scenes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "u0928–u0937"
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "startUid": "u0944",
+      "endUid": "u0980",
+      "location": "Wave Dancer — approach to Wahacha",
+      "boundary": "Arrival after the voyage; watch the unusually quiet harbor.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "before lunch",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "startUid": "u0981",
+      "endUid": "u1065",
+      "location": "Wahacha — harbor dock",
+      "boundary": "Disembark and meet Makha at the dock.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "before lunch",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    },
+    {
+      "index": 15,
+      "startUid": "u1066",
+      "endUid": "u1079",
+      "location": "Wahacha — flight from the harbor to the high pinnacle",
+      "boundary": "Leave the dock and fly toward the island’s high point.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "before lunch",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    },
+    {
+      "index": 16,
+      "startUid": "u1080",
+      "endUid": "u1186",
+      "location": "Wahacha — high pinnacle overlook",
+      "boundary": "Land at the overlook and discuss the wrecks and missing kenku.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "before lunch",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    },
+    {
+      "index": 17,
+      "startUid": "u1187",
+      "endUid": "u1198",
+      "location": "Wahacha — flight to the canyon village",
+      "boundary": "Leave the overlook and fly toward the village in the canyon.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "near lunchtime",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    },
+    {
+      "index": 18,
+      "startUid": "u1199",
+      "endUid": "u1212",
+      "location": "Wahacha — canyon village food stall",
+      "boundary": "Land at the food stall and stop for lunch.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "lunchtime",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    },
+    {
+      "index": 19,
+      "startUid": "u1213",
+      "endUid": "u1216",
+      "location": "Wahacha — flight back toward the harbor cliffs",
+      "boundary": "Take flight back to the harbor cliffs.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "after lunch",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    },
+    {
+      "index": 20,
+      "startUid": "u1217",
+      "endUid": "u1243",
+      "location": "Wahacha — cliff-top warehouses above the harbor",
+      "boundary": "Land above the harbor and arrange lodging and a meeting for tomorrow.",
+      "date": {
+        "start": "1748-10-12",
+        "end": "1748-10-12",
+        "time": "after lunch",
+        "basis": "Arrival date from session note and manifest endpoint; relative time follows the explicit lunch at u1204. Transcript elapsed-day estimate disagrees; see review notes.",
+        "evidence": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md#Timeline",
+          "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml:drEnd",
+          "u0944–u0947; u1204"
+        ]
+      }
+    }
+  ],
+  "excluded_ranges": [
+    {
+      "startUid": "u0001",
+      "endUid": "u0013",
+      "reason": "Opening recap of the prior adventure’s departure and separation; not indexed again as a new encounter."
+    },
+    {
+      "startUid": "u1244",
+      "endUid": "u1247",
+      "reason": "Closing table discussion."
+    }
+  ],
+  "entities": [
+    {
+      "id": "wella",
+      "label": "Wella Brightmoon",
+      "canonical_name": "Wella Brightmoon",
+      "note": "People/Halflings/Wella Brightmoon.md",
+      "eligibility": "named",
+      "basis": "Captain identified explicitly at u0581; continuous encounter establishes the earlier unnamed captain’s identity.",
+      "session_overview": "Wella welcomes Wellby aboard, accepts his help escaping pirates, offers onward passage, and discusses routes home before introducing him to Makha at Wahacha.",
+      "overview_records": [
+        "wella-0023",
+        "wella-0233",
+        "wella-0257",
+        "wella-0566",
+        "wella-0580",
+        "wella-0944",
+        "wella-0981",
+        "wella-1217"
+      ],
+      "quote_review": "selected",
+      "featured_quote_interaction": "wella-0580"
+    },
+    {
+      "id": "pearl",
+      "label": "Pearl Brightmoon",
+      "canonical_name": "Pearl Brightmoon",
+      "note": "People/Halflings/Pearl Brightmoon.md",
+      "eligibility": "named",
+      "basis": "Pearl is named at u0114 and identified as first mate at u0255; canonical first-mate note resolves the surname.",
+      "session_overview": "Pearl accepts Wellby’s help defending the Wave Dancer and warns him about the pursuing ship’s weapons before his sabotage attempt.",
+      "overview_records": [
+        "pearl-0114",
+        "pearl-0255"
+      ],
+      "quote_review": "selected",
+      "featured_quote_interaction": "pearl-0255"
+    },
+    {
+      "id": "corrin",
+      "label": "Corrin Wildheart",
+      "canonical_name": "Corrin Wildheart",
+      "note": "People/Halflings/Corrin Wildheart.md",
+      "eligibility": "named",
+      "basis": "Corrin is named at u0226 and u0727; navigator identity is corroborated by the session note and canonical note.",
+      "session_overview": "Corrin conceals the ship in fog, sketches Wellby a map of the shifting islands, and later reports a clear horizon.",
+      "overview_records": [
+        "corrin-0195",
+        "corrin-0560",
+        "corrin-0726"
+      ],
+      "quote_review": "selected",
+      "featured_quote_interaction": "corrin-0560"
+    },
+    {
+      "id": "rose",
+      "label": "Rose Brightmoon",
+      "canonical_name": "Rose Brightmoon",
+      "note": "People/Halflings/Rose Brightmoon.md",
+      "eligibility": "named",
+      "basis": "Wella introduces her wife Rose at u0701; canonical note resolves the surname.",
+      "session_overview": "Rose accompanies the evening meal and conversation with guitar music after Wella introduces her as her wife.",
+      "overview_records": [
+        "rose-0700"
+      ],
+      "quote_review": "not_applicable"
+    },
+    {
+      "id": "makha",
+      "label": "Makha",
+      "canonical_name": "Makha",
+      "note": "People/Kenku/Makha.md",
+      "eligibility": "named",
+      "basis": "Introduces himself at u1002 and acts as Wellby’s guide.",
+      "session_overview": "Makha guides Wellby around Wahacha, explains the raids and missing kenku, offers food, and arranges a meeting with other travelers who may help.",
+      "overview_records": [
+        "makha-0981"
+      ],
+      "quote_review": "selected",
+      "featured_quote_interaction": "makha-0981"
+    },
+    {
+      "id": "skoda",
+      "label": "Skoda",
+      "canonical_name": "Skoda",
+      "note": "People/Kenku/Skoda.md",
+      "eligibility": "named",
+      "basis": "Named kidnapped expert at u1039 and discussed as a possible source of help at u1185.",
+      "session_overview": "Wellby learns that the kidnapped Skoda may understand his kenku armor and help him find a route home.",
+      "overview_records": [
+        "skoda-0981"
+      ],
+      "quote_review": "not_applicable"
+    },
+    {
+      "id": "nahto",
+      "label": "Nahto",
+      "canonical_name": "Nahto",
+      "note": "People/Kenku/Nahto.md",
+      "eligibility": "named",
+      "basis": "Named as Skoda’s kidnapped partner at u1041 and discussed as a widely traveled explorer at u1171.",
+      "session_overview": "Wellby hears that Nahto, Skoda’s kidnapped partner, traveled widely through the Eastern Isles and might help with his search for the Feywild.",
+      "overview_records": [
+        "nahto-0981"
+      ],
+      "quote_review": "not_applicable"
+    },
+    {
+      "id": "baxter",
+      "label": "Baxter",
+      "canonical_name": "Baxter",
+      "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
+      "eligibility": "named",
+      "basis": "Wellby’s named axe-beak companion, introduced at u0107 and stabled at u0195–u0197.",
+      "session_overview": "Baxter accompanies Wellby aboard the Wave Dancer, is stabled below during the danger, and is introduced to Makha at Wahacha.",
+      "overview_records": [
+        "baxter-0191",
+        "baxter-0195",
+        "baxter-0279",
+        "baxter-1002"
+      ],
+      "quote_review": "no_suitable_dialogue"
+    },
+    {
+      "id": "chamutte",
+      "label": "Cha'mutte",
+      "canonical_name": "Cha'mutte",
+      "note": "People/Extraplanar Powers/Cha'mutte.md",
+      "eligibility": "named",
+      "basis": "Named in Wella’s account of kenku history, u0780–u0783; a historical mention, not an encounter.",
+      "session_overview": "Wella mentions Cha’mutte’s enslavement of kenku while explaining how Wahacha’s people differ from that lineage.",
+      "overview_records": [
+        "chamutte-0729"
+      ],
+      "quote_review": "not_applicable"
+    },
+    {
+      "id": "session060-hold-sailor",
+      "label": "Unnamed sailor who helps stable Baxter",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "A specific conversational partner helps with Baxter, explains the dragonhide trade, and suggests asking Corrin for a map; u0195–u0227.",
+      "session_overview": "An unnamed sailor helps Wellby stable Baxter, explains the dragonhide cargo, and recommends asking Corrin for a map.",
+      "overview_records": [
+        "session060-hold-sailor-0195"
+      ],
+      "quote_review": "no_suitable_dialogue"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "wella-0023",
+      "npc": "wella",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Wellby explains his arrival to the captain and offers to help the Wave Dancer escape its pursuers.",
+      "transcript": [
+        {
+          "startUid": "u0023",
+          "endUid": "u0190"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0045"
+        },
+        {
+          "startUid": "u0100",
+          "endUid": "u0125"
+        }
+      ],
+      "known_as": "Wave Dancer captain"
+    },
+    {
+      "id": "pearl-0114",
+      "npc": "pearl",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Pearl meets Wellby and accepts his offer to help defend the ship.",
+      "transcript": [
+        {
+          "startUid": "u0114",
+          "endUid": "u0190"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0114",
+          "endUid": "u0125"
+        }
+      ]
+    },
+    {
+      "id": "baxter-0191",
+      "npc": "baxter",
+      "scenes": [
+        2
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "overview": "Baxter stands on deck while Wellby asks for a place to stable him.",
+      "transcript": [
+        {
+          "startUid": "u0191",
+          "endUid": "u0194"
+        }
+      ],
+      "presence_basis": "u0191 explicitly places Baxter standing on deck."
+    },
+    {
+      "id": "session060-hold-sailor-0195",
+      "npc": "session060-hold-sailor",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "A sailor helps stable Baxter, explains the dragonhide trade, and suggests asking Corrin for a map.",
+      "transcript": [
+        {
+          "startUid": "u0195",
+          "endUid": "u0232"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0195",
+          "endUid": "u0205"
+        },
+        {
+          "startUid": "u0208",
+          "endUid": "u0227"
+        }
+      ]
+    },
+    {
+      "id": "baxter-0195",
+      "npc": "baxter",
+      "scenes": [
+        3
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "Wellby and a sailor settle Baxter in the hold.",
+      "transcript": [
+        {
+          "startUid": "u0195",
+          "endUid": "u0197"
+        }
+      ]
+    },
+    {
+      "id": "corrin-0195",
+      "npc": "corrin",
+      "scenes": [
+        3
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The sailor recommends Corrin as someone who could draw Wellby a map.",
+      "transcript": [
+        {
+          "startUid": "u0195",
+          "endUid": "u0232"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0224",
+          "endUid": "u0227"
+        }
+      ]
+    },
+    {
+      "id": "wella-0233",
+      "npc": "wella",
+      "scenes": [
+        4
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "overview": "The captain remains on deck when Wellby returns from the hold.",
+      "transcript": [
+        {
+          "startUid": "u0233",
+          "endUid": "u0242"
+        }
+      ],
+      "presence_basis": "u0233–u0242 explicitly says the captain is still on deck."
+    },
+    {
+      "id": "pearl-0255",
+      "npc": "pearl",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Wellby asks Pearl about the pursuers’ defenses before attempting aerial sabotage.",
+      "transcript": [
+        {
+          "startUid": "u0255",
+          "endUid": "u0281"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0276"
+        }
+      ],
+      "pull_quote": {
+        "startUid": "u0267",
+        "endUid": "u0267",
+        "kind": "dialogue",
+        "quote": "Watch out for that ballista.",
+        "speaker": "pearl",
+        "attribution": "DM voices this NPC during the surrounding direct exchange."
+      }
+    },
+    {
+      "id": "wella-0257",
+      "npc": "wella",
+      "scenes": [
+        5
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "overview": "Wellby notices the captain monitoring the wind and sails.",
+      "transcript": [
+        {
+          "startUid": "u0257",
+          "endUid": "u0258"
+        }
+      ]
+    },
+    {
+      "id": "baxter-0279",
+      "npc": "baxter",
+      "scenes": [
+        5
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Before flying off, Wellby asks the crew to care for Baxter if he does not return.",
+      "transcript": [
+        {
+          "startUid": "u0279",
+          "endUid": "u0281"
+        }
+      ]
+    },
+    {
+      "id": "corrin-0560",
+      "npc": "corrin",
+      "scenes": [
+        9,
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Wellby congratulates Corrin on the concealing fog and receives a map and explanation of the shifting islands.",
+      "transcript": [
+        {
+          "startUid": "u0560",
+          "endUid": "u0697"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u0560",
+          "endUid": "u0574"
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0606"
+        },
+        {
+          "startUid": "u0683",
+          "endUid": "u0697"
+        }
+      ],
+      "pull_quote": {
+        "startUid": "u0593",
+        "endUid": "u0594",
+        "kind": "dialogue",
+        "quote": "Maps are not much use out here. The land moves too much.",
+        "speaker": "corrin",
+        "attribution": "DM voices this NPC during the surrounding direct exchange."
+      }
+    },
+    {
+      "id": "wella-0566",
+      "npc": "wella",
+      "scenes": [
+        9
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "overview": "The captain nods to the navigator before he creates the fog bank.",
+      "transcript": [
+        {
+          "startUid": "u0566",
+          "endUid": "u0569"
+        }
+      ]
+    },
+    {
+      "id": "wella-0580",
+      "npc": "wella",
+      "scenes": [
+        10,
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Over a shared meal, Wellby tells Wella his story and discusses onward passage and possible crossings into the Feywild.",
+      "transcript": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0927"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u0581",
+          "endUid": "u0588"
+        },
+        {
+          "startUid": "u0729",
+          "endUid": "u0753"
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0900"
+        }
+      ],
+      "pull_quote": {
+        "startUid": "u0751",
+        "endUid": "u0753",
+        "kind": "dialogue",
+        "quote": "You're welcome to sail with us as long as you'd like. I can tell you what I know of these Eastern seas.",
+        "speaker": "wella",
+        "attribution": "DM voices this NPC during the surrounding direct exchange."
+      }
+    },
+    {
+      "id": "rose-0700",
+      "npc": "rose",
+      "scenes": [
+        10
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "overview": "Rose plays guitar during Wellby’s meal and conversation with the crew.",
+      "transcript": [
+        {
+          "startUid": "u0700",
+          "endUid": "u0725"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0700",
+          "endUid": "u0702"
+        },
+        {
+          "startUid": "u0719",
+          "endUid": "u0719"
+        }
+      ]
+    },
+    {
+      "id": "corrin-0726",
+      "npc": "corrin",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "overview": "Corrin reports that there are no lights on the horizon.",
+      "transcript": [
+        {
+          "startUid": "u0726",
+          "endUid": "u0728"
+        }
+      ]
+    },
+    {
+      "id": "chamutte-0729",
+      "npc": "chamutte",
+      "scenes": [
+        11
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Wella describes Cha’mutte’s enslavement of kenku while distinguishing Wahacha’s inhabitants.",
+      "transcript": [
+        {
+          "startUid": "u0729",
+          "endUid": "u0927"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0774",
+          "endUid": "u0789"
+        }
+      ]
+    },
+    {
+      "id": "wella-0944",
+      "npc": "wella",
+      "scenes": [
+        13
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Wella tells Wellby that Wahacha’s unusually quiet harbor worries her.",
+      "transcript": [
+        {
+          "startUid": "u0944",
+          "endUid": "u0980"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0965",
+          "endUid": "u0973"
+        }
+      ]
+    },
+    {
+      "id": "wella-0981",
+      "npc": "wella",
+      "scenes": [
+        14
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "At the dock, Wella introduces Wellby and Baxter to Makha.",
+      "transcript": [
+        {
+          "startUid": "u0981",
+          "endUid": "u1011"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1002",
+          "endUid": "u1005"
+        }
+      ]
+    },
+    {
+      "id": "makha-0981",
+      "npc": "makha",
+      "scenes": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Makha guides Wellby around Wahacha, explains the kidnappings, buys lunch, and arranges a meeting with other travelers.",
+      "transcript": [
+        {
+          "startUid": "u0981",
+          "endUid": "u1243"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u1002",
+          "endUid": "u1023"
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1125"
+        },
+        {
+          "startUid": "u1199",
+          "endUid": "u1209"
+        },
+        {
+          "startUid": "u1225",
+          "endUid": "u1243"
+        }
+      ],
+      "pull_quote": {
+        "startUid": "u1001",
+        "endUid": "u1001",
+        "kind": "dialogue",
+        "quote": "The seas here are not safe these days.",
+        "speaker": "makha",
+        "attribution": "DM voices this NPC during the surrounding direct exchange."
+      }
+    },
+    {
+      "id": "baxter-1002",
+      "npc": "baxter",
+      "scenes": [
+        14
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "overview": "Baxter is beside Wellby during the introductions to Makha.",
+      "transcript": [
+        {
+          "startUid": "u1002",
+          "endUid": "u1011"
+        }
+      ],
+      "presence_basis": "u1002–u1005 explicitly brings Wellby and Baxter over together; no independent action by Baxter is described."
+    },
+    {
+      "id": "skoda-0981",
+      "npc": "skoda",
+      "scenes": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Makha explains that the kidnapped Skoda may understand Wellby’s armor and offer help finding a route home.",
+      "transcript": [
+        {
+          "startUid": "u0981",
+          "endUid": "u1243"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u1031",
+          "endUid": "u1047"
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1170"
+        },
+        {
+          "startUid": "u1179",
+          "endUid": "u1186"
+        }
+      ]
+    },
+    {
+      "id": "nahto-0981",
+      "npc": "nahto",
+      "scenes": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Makha describes Nahto’s kidnapping and travels as Wellby considers possible help reaching the Feywild.",
+      "transcript": [
+        {
+          "startUid": "u0981",
+          "endUid": "u1243"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u1039",
+          "endUid": "u1047"
+        },
+        {
+          "startUid": "u1162",
+          "endUid": "u1177"
+        }
+      ]
+    },
+    {
+      "id": "wella-1217",
+      "npc": "wella",
+      "scenes": [
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Makha suggests asking Wella or another halfling for help finding the inn.",
+      "transcript": [
+        {
+          "startUid": "u1217",
+          "endUid": "u1243"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1225",
+          "endUid": "u1234"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "Opening u0001–u0013 recaps the previous adventure’s departure and is explicitly excluded rather than creating duplicate encounters; this also avoids resolving the uncertain ASR name {{Phoeba}} from a recap fragment.",
+    "The unnamed sailor in the hold is retained as a specific conversational partner; no name or identity link to another crew member is invented.",
+    "Excluded generic pirates (including the crow’s-nest combatant), unnamed crew/crowds, masked wizards as a group, generic monsters and hypothetical creatures. Their scenes remain available.",
+    "The session note and manifest place arrival on 1748-10-12, but u0944–u0947 says eleven days since departure on September 30. October 12 is retained as the documented date, pending chronology review.",
+    "Pre-lunch timing at Wahacha is relative to the explicit lunch at u1204; no exact arrival hour is asserted.",
+    "Pearl Brightmoon is the first mate; Corrin Wildheart is the navigator. Canonical surnames are identity metadata, not claims that Wellby heard them spoken in these passages.",
+    "Baxter’s dock record is mentioned: Wellby discusses his present companion with Makha, without directly acting on Baxter. Mentioned never means definitely absent.",
+    "Some apparent NPC dialogue is labeled Wellby in the source (for example u1041 and u1171); excerpts preserve those labels and summaries rely on the surrounding exchange and session note.",
+    "Rose is observed, not assumed to have conversed with Wellby simply because she is introduced and performs music.",
+    "No next-morning scene is invented: the session ends while arranging that future meeting. No individual crew member is credited with language lessons in the voyage montage.",
+    "Scene indexes belong to this extraction; canonical note hashes are included for identity resolution, but hidden/future lore from those notes is not included in interactions.",
+    "Version 2 retest: full conversational encounters replace highlight-only bounds; original segmentation is retained for stable scene joins. NPC cards carry one session overview and a featured attributed quote where available.",
+    "Makha’s seven former scene records become one continuous guided visit spanning scenes 14–20. Wella’s dinner conversation stays together through Corrin’s report and topic changes. Explicit idle presence now covers Baxter on deck and at introductions, and Wella remaining on deck."
+  ]
+}

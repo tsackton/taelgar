@@ -1,0 +1,3798 @@
+{
+  "schema_version": 4,
+  "campaign": "mawar",
+  "session": "mawar-adventures-002",
+  "segmentation_revision": 2,
+  "supporting_sources": [
+    {
+      "path": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+      "sha256": "dd3475ea4cd452dba79e664471f3f7835f0c9391b280720fed4d6de35bb0b621"
+    },
+    {
+      "path": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-beats.json",
+      "sha256": "e1deb40d87b4553c6d5f0d68deec36b767a8328203e2e95db9d66e6ffde9fb41"
+    },
+    {
+      "path": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-beat-facts.json",
+      "sha256": "cb2eaa9fabf161cef24fce08c1b3f11b6bc58db0f184da7ffd66b37bc359a45c"
+    },
+    {
+      "path": "People/Mawarans/Azar the Lost.md",
+      "sha256": "c20109c43b2dfae0db9b272e68219fd830ec2752a9b2c28b1a61e5e32b64d119"
+    },
+    {
+      "path": "People/Mawarans/Jaeson.md",
+      "sha256": "768b387611634e0bac1b8245f6a8b38c53434f306eceb0d4b21d7b98065c8621"
+    },
+    {
+      "path": "People/Mawarans/Samar.md",
+      "sha256": "2665a4149d22f6ae7cffe236eb4c68c1b4ab92bb5854cbb24c13a82f67560ed4"
+    },
+    {
+      "path": "People/Mawarans/Reliah.md",
+      "sha256": "d5d1df0141f9152ea9a299dcd94a0f03032e5931492dd6b9da3b85bced4350fb"
+    },
+    {
+      "path": "People/Mawarans/Orden.md",
+      "sha256": "0c184edf637301f7889133f8bbabc7cf4d6765d1ab83adc45d6dde7611f1adc3"
+    },
+    {
+      "path": "People/Lizardfolk/Benat.md",
+      "sha256": "ea17810396d254ae1a8977fde7d81e688c9db23d7279e5f43fc638b60650c3a3"
+    },
+    {
+      "path": "People/Dwarves/Ovina.md",
+      "sha256": "876b8434cc7df1e49de45961dba2b9840cf0a7caa8293d2bb48158623f5ab25a"
+    },
+    {
+      "path": "People/Mawarans/Yaz.md",
+      "sha256": "8a4b96fe84871348767586788d94be42266132feff0ee8748b4d6b27c632b911"
+    },
+    {
+      "path": "People/Mawarans/Sulfi Mahadra.md",
+      "sha256": "6d242be217489734a6d0c44570c9fcb731476ae4795504f38bf351e7e1a986aa"
+    },
+    {
+      "path": "People/Mawarans/Nadine.md",
+      "sha256": "806eb6472f98b8f1bc11a6fc501564e1b0324d3e8370c540e0d0dc7aa5673f3f"
+    },
+    {
+      "path": "People/Extraplanar Powers/Gazankoa.md",
+      "sha256": "94d368f242bcff2996220359d3903d3bd5a3429ba6f331bd0ea5ef5e83040a3a"
+    },
+    {
+      "path": "People/Other Humans/Airion.md",
+      "sha256": "66337417703a2ea16b84f4bad6ffbf0c041f316a6654f20bbb70710658b5966f"
+    },
+    {
+      "path": "People/Other Nonhumans/Nimessa.md",
+      "sha256": "afd7587f5a78b429d7022b543f6d40846b066264a5fa737e7bf3db3735cab283"
+    },
+    {
+      "path": "Campaigns/Mawar Adventures/Notes/The Ciphered Scroll.md",
+      "sha256": "23e061103940d42bb4b790eba4fc42f91f107ba671bf060a421c8d49b47e8187"
+    },
+    {
+      "path": "Things/Magic Items/Blood Knife.md",
+      "sha256": "2b01a148979a3a44e7103464321eab53b6138eee41a61cfc512d0d0062b8423d"
+    },
+    {
+      "path": "Campaigns/Mawar Adventures/Items and Treasure/Airion's Ring of Elemental Binding.md",
+      "sha256": "fa2e4ffe25154e2f7cd4d7b417584e5ef639765e007880e782db5dbdd9bcf578"
+    },
+    {
+      "path": "People/Mawarans/Sefa.md",
+      "sha256": "b4cbe48f4333b64fa36eda1d23fc077b055595f360ba8805740d1bf56a52a66a"
+    },
+    {
+      "path": "Campaigns/Mawar Adventures/Items and Treasure/Airion's Elemental Research.md",
+      "sha256": "a446a498ee5236d1e99bd132d2beedccc90627a09c42318e71214903071598ec"
+    },
+    {
+      "path": "Campaigns/Mawar Adventures/Items and Treasure/Airion's Bowl of Commanding Water Elementals.md",
+      "sha256": "0522926ca40e262a9334f73abd72d031c428b301f053a4102a072143bc1fa117"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "location": "Leviathan Inn",
+      "boundary": "Opening scroll discussion before the overnight rest.",
+      "date": {
+        "start": "1747-08-03",
+        "end": "1747-08-03",
+        "time": "evening",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u0001–u0505"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u0001",
+          "endUid": "u0505"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "location": "North Cliffs — ruined tower grounds and roof",
+      "boundary": "Next morning at the tower; party investigates exterior and roof.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u0506–u0697"
+        ]
+      },
+      "type": "exploration",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u0506",
+          "endUid": "u0697"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "location": "Ruined tower — interior",
+      "boundary": "Entry into the tower; descent follows.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u0698–u0791"
+        ]
+      },
+      "type": "exploration",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u0698",
+          "endUid": "u0791"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "location": "Ruined tower — flooded basement and sea cave",
+      "boundary": "Descent into the water illusion; party regroups after escaping it.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u0792–u0960"
+        ]
+      },
+      "type": "exploration",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u0792",
+          "endUid": "u0960"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "location": "Routes back toward Hamri",
+      "boundary": "Party splits to question informants.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u0961–u0993"
+        ]
+      },
+      "type": "travel",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u0961",
+          "endUid": "u0993"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "location": "North Cliffs — Jaeson’s hut",
+      "boundary": "Ryu and Trok arrive to question Jaeson.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u0994–u1101"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u0994",
+          "endUid": "u1101"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "location": "Drowned Flats — Samar’s shack",
+      "boundary": "Cut to Wazir and Kaleho visiting Samar.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1102–u1197"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1102",
+          "endUid": "u1197"
+        },
+        {
+          "source": "session-note",
+          "startLine": 65,
+          "endLine": 65,
+          "text": "Seeking more information, the party fans out across [[Hamri]] for local witnesses. [[Ryu]] and [[Trok]] speak with [[Jaeson]], while the others inquire with [[Samar]] and [[Reliah]] in the Drowned Flats and [[Orden]] by the docks. Their accounts build a profile of a worn older man who appeared in recent weeks, had been living in or near the tower, left fish remains and the smell of [[Gatza|gatza]], may connect to the Drowned Flats deaths, and had been asking around about lead. After a morning of chasing rumors, the party reconvenes at the market before lunch."
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "location": "Beach huts north of the Drowned Flats — Orden",
+      "boundary": "Ryu and Trok question Orden; closing clarification follows.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1198–u1318"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1198",
+          "endUid": "u1318"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "location": "Drowned Flats — collapsed lodging",
+      "boundary": "Wazir and Kaleho inspect the collapsed building.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "late morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1319–u1383"
+        ]
+      },
+      "type": "exploration",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1319",
+          "endUid": "u1383"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "location": "Hamri fish market",
+      "boundary": "Party reunites, interviews Benat, and chooses afternoon leads.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "just past lunch",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1384–u1714"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1384",
+          "endUid": "u1714"
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "location": "Shark’s Dock — Ovina’s smithy",
+      "boundary": "Kaleho and Trok visit the smith.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "afternoon",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1715–u1817"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1715",
+          "endUid": "u1817"
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "location": "Glitter Cliff — Sulfi’s entrance",
+      "boundary": "Cut to Wazir and Ryu speaking with the servant.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "afternoon",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1818–u1876"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1818",
+          "endUid": "u1876"
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "location": "Route from Glitter Cliff to Shark’s Dock",
+      "boundary": "Return toward the other party members.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "late afternoon, around 5 PM",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1877–u1891"
+        ]
+      },
+      "type": "travel",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1877",
+          "endUid": "u1891"
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "location": "Shark’s Dock — party rendezvous",
+      "boundary": "Party compares clues before splitting again.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "late afternoon",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u1892–u2043"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u1892",
+          "endUid": "u2043"
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "location": "Ovina’s smithy — return visit",
+      "boundary": "Wazir returns to examine the ring and lead box.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "late afternoon",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2044–u2058"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2044",
+          "endUid": "u2058"
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "location": "Outside Ovina’s smithy",
+      "boundary": "The same examination continues outside the shop.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "late afternoon",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2059–u2103"
+        ]
+      },
+      "type": "exploration",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2059",
+          "endUid": "u2103"
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "location": "Yaz’s tower — entrance and ascent",
+      "boundary": "Ryu and Trok arrive and climb up.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "evening",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2104–u2129"
+        ]
+      },
+      "type": "travel",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2104",
+          "endUid": "u2129"
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "location": "Yaz’s tower — roof",
+      "boundary": "Arrival on the roof and greetings.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "sunset",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2130–u2147"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2130",
+          "endUid": "u2147"
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "location": "Yaz’s tower — roof after the sunset watch",
+      "boundary": "A quiet wait for sunset precedes the conversation; same visit.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "evening",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2148–u2282"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2148",
+          "endUid": "u2282"
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "location": "Leviathan Inn",
+      "boundary": "Party regroups to plan the next morning’s approach.",
+      "date": {
+        "start": "1747-08-04",
+        "end": "1747-08-04",
+        "time": "after dark",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2283–u2419"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2283",
+          "endUid": "u2419"
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "location": "Shark’s Dock — concealed lookout positions",
+      "boundary": "Next morning; party takes positions and scouts.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-05",
+        "time": "dawn",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2420–u2490"
+        ]
+      },
+      "type": "exploration",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2420",
+          "endUid": "u2490"
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "location": "Outside Ovina’s smithy",
+      "boundary": "Azar arrives, collects the box, and is approached.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-05",
+        "time": "early morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2491–u2533"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2491",
+          "endUid": "u2533"
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "location": "Route from the smithy toward Shark’s Dock",
+      "boundary": "Conversation continues as Azar heads for the dock.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-05",
+        "time": "early morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2534–u2659"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2534",
+          "endUid": "u2659"
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "location": "Shark’s Dock and the water beside the phantom boat",
+      "boundary": "Weapons come out; one continuous moving dockside fight.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-05",
+        "time": "early morning",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u2660–u3444"
+        ]
+      },
+      "type": "combat",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u2660",
+          "endUid": "u3444"
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "location": "Shark’s Dock — aftermath",
+      "boundary": "Healing, restraint, and a narrated interrogation.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-05",
+        "time": "after the fight",
+        "basis": "Day from session-note timeline; relative time and movement from this source passage.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u3445–u3494"
+        ]
+      },
+      "type": "conversation",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u3445",
+          "endUid": "u3494"
+        },
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "Afterward, [[Wazir]] heals Azar and the group binds him while they recover from the fight, calm Shark's Dock, tend the woman killed by Azar's lightning, and hear [[Azar's Tale|Azar's full tale]]."
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "type": "combat",
+      "location": "Azar’s lair in the Splinters",
+      "boundary": "The notes document a separate lair fight before the search; exact movement within the lair is unspecified.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-05",
+        "time": "evening",
+        "basis": "Session-note timeline and narrative; The notes document a separate lair fight before the search; exact movement within the lair is unspecified.",
+        "evidence": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md:L75"
+        ]
+      },
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "That evening, the party searches the [[Splinters]], quickly destroys two more drowned zombies, and finds [[Sefa]] dead in the lair."
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "location": "Azar’s lair in the Splinters",
+      "boundary": "Post-combat search and recovery, briefly fast-forwarded in the transcript and expanded in the session note.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-05",
+        "time": "evening",
+        "basis": "August 5 from the session-note timeline; “That evening” explicitly dates the lair search.",
+        "evidence": [
+          "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+          "u3495–u3497"
+        ]
+      },
+      "type": "exploration",
+      "evidence": [
+        {
+          "source": "transcript",
+          "startUid": "u3495",
+          "endUid": "u3497"
+        },
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "That evening, the party searches the [[Splinters]], quickly destroys two more drowned zombies, and finds [[Sefa]] dead in the lair."
+        },
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found."
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "type": "conversation",
+      "location": "Unspecified; associated with the Hamri aftermath",
+      "boundary": "Restitution follows recovery; the exact date, setting and recipient on Sefa’s behalf are unspecified within the session period. Conversation denotes the settlement, with no dialogue reconstructed.",
+      "date": {
+        "start": "1747-08-05",
+        "end": "1747-08-09",
+        "time": null,
+        "basis": "Session-note timeline and narrative; Restitution follows recovery; the exact date, setting and recipient on Sefa’s behalf are unspecified within the session period. Conversation denotes the settlement, with no dialogue reconstructed.",
+        "evidence": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md:L75"
+        ]
+      },
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found."
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "type": "exploration",
+      "location": "Unspecified; associated with the Hamri aftermath",
+      "boundary": "Explicit August 6 identification, separate from the previous evening’s recovery; no exact room or site is stated.",
+      "date": {
+        "start": "1747-08-06",
+        "end": "1747-08-06",
+        "time": null,
+        "basis": "Session-note timeline and narrative; Explicit August 6 identification, separate from the previous evening’s recovery; no exact room or site is stated.",
+        "evidence": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md:L75"
+        ]
+      },
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "On Aug 6, [[Wazir]] identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately."
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "type": "travel",
+      "location": "South from Hamri toward the lizardfolk village",
+      "boundary": "Explicit August 9 departure; destination comes from the timeline. Neither arrival nor an on-screen farewell is established.",
+      "date": {
+        "start": "1747-08-09",
+        "end": "1747-08-09",
+        "time": null,
+        "basis": "Session-note timeline and narrative; Explicit August 9 departure; destination comes from the timeline. Neither arrival nor an on-screen farewell is established.",
+        "evidence": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md:L33",
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md:L75"
+        ]
+      },
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 33,
+          "endLine": 33,
+          "text": "- (DR:: 1747-08-09): [[Azar the Lost]] leaves [[Hamri]] with [[Benat]] for the [[Lizardfolk|lizardfolk]] village."
+        },
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "A few days later, on Aug 9, Azar leaves south with [[Benat]] to heal before returning to make amends to [[Hamri]]."
+        }
+      ]
+    }
+  ],
+  "excluded_ranges": [
+    {
+      "startUid": "u3498",
+      "endUid": "u3597",
+      "reason": "Hypothetical knife outcomes, game debrief, and closing conversation rather than further played encounters.",
+      "source": "transcript"
+    }
+  ],
+  "entities": [
+    {
+      "id": "azar",
+      "label": "Azar the Lost",
+      "canonical_name": "Azar the Lost",
+      "note": "People/Mawarans/Azar the Lost.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party traces, confronts and defeats Azar, hears how the knife exploited his hope of restoring his family, and the notes later record his departure with Benat to heal.",
+      "overview_records": [
+        "azar-0001",
+        "azar-0506",
+        "azar-0994",
+        "azar-1102",
+        "azar-1715",
+        "azar-1892",
+        "azar-2104",
+        "azar-2283",
+        "azar-2491",
+        "azar-2660",
+        "azar-3445",
+        "azar-notes-30"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "azar-2491-quote-1",
+        "azar-2491-quote-2"
+      ]
+    },
+    {
+      "id": "jaeson",
+      "label": "Jaeson",
+      "canonical_name": "Jaeson",
+      "note": "People/Mawarans/Jaeson.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Ryu and Trok trade fish for Jaeson’s account of the tower occupant, his gatza use, and his suspicious cleanup.",
+      "overview_records": [
+        "jaeson-0994"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "jaeson-0994-quote-1"
+      ]
+    },
+    {
+      "id": "samar",
+      "label": "Samar",
+      "canonical_name": "Samar",
+      "note": "People/Mawarans/Samar.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Samar tells Wazir and Kaleho about deaths in a collapsed lodging and the old man seeking a discreet smith; they warn her to take care.",
+      "overview_records": [
+        "samar-1102"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "samar-1102-quote-1"
+      ]
+    },
+    {
+      "id": "reliah",
+      "label": "Reliah",
+      "canonical_name": "Reliah",
+      "note": "People/Mawarans/Reliah.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party plans to consult Reliah, and the session note records her participation alongside Samar in the Drowned Flats interview.",
+      "overview_records": [
+        "reliah-0961",
+        "reliah-1102"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "orden",
+      "label": "Orden",
+      "canonical_name": "Orden",
+      "note": "People/Mawarans/Orden.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Orden describes a strange boat crossing the shoals toward Shark’s Dock and agrees to keep watching for the party.",
+      "overview_records": [
+        "orden-1198"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "orden-1198-quote-1"
+      ]
+    },
+    {
+      "id": "benat",
+      "label": "Benat",
+      "canonical_name": "Benat",
+      "note": "People/Lizardfolk/Benat.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Benat trades stories about Airion’s water magic for Trok’s promise to write to his family, then later accompanies Azar south from Hamri to heal.",
+      "overview_records": [
+        "benat-1411",
+        "benat-notes-30"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "benat-1411-quote-1"
+      ]
+    },
+    {
+      "id": "ovina",
+      "label": "Ovina",
+      "canonical_name": "Ovina",
+      "note": "People/Dwarves/Ovina.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Ovina reveals the old man’s lead-box commission, lets the party inspect the dismantled ring and box on a return visit, and opens early for his collection.",
+      "overview_records": [
+        "ovina-1588",
+        "ovina-1715",
+        "ovina-1892",
+        "ovina-2044",
+        "ovina-2491"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "ovina-1715-quote-1",
+        "ovina-1715-quote-2"
+      ]
+    },
+    {
+      "id": "yaz",
+      "label": "Yaz",
+      "canonical_name": "Yaz",
+      "note": "People/Mawarans/Yaz.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Ryu and Trok visit Yaz, who shares ocean-watcher lore and his fascination with the living ocean.",
+      "overview_records": [
+        "yaz-1392",
+        "yaz-1892",
+        "yaz-2104"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "yaz-2104-quote-1",
+        "yaz-2104-quote-2"
+      ]
+    },
+    {
+      "id": "sulfi",
+      "label": "Sulfi Mahadra",
+      "canonical_name": "Sulfi Mahadra",
+      "note": "People/Mawarans/Sulfi Mahadra.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Sulfi declines an immediate audience, sends information about ships through her servant, and invites Wazir to tea eight days later.",
+      "overview_records": [
+        "sulfi-1588",
+        "sulfi-1818"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "nadine",
+      "label": "Nadine",
+      "canonical_name": "Nadine",
+      "note": "People/Mawarans/Nadine.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "Nadine’s death and Azar’s hope of bringing her back emerge from the scroll, the dockside confrontation, and his account after capture.",
+      "overview_records": [
+        "nadine-0001",
+        "nadine-1892",
+        "nadine-2491",
+        "nadine-3445"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "gazankoa",
+      "label": "Gazankoa",
+      "canonical_name": "Gazankoa",
+      "note": "People/Extraplanar Powers/Gazankoa.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party connects Gazankoa to the scroll and Azar’s belief that killing people with the knife will restore his family.",
+      "overview_records": [
+        "gazankoa-0001",
+        "gazankoa-1892",
+        "gazankoa-2491",
+        "gazankoa-3445"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "airion",
+      "label": "Airion",
+      "canonical_name": "Airion",
+      "note": "People/Other Humans/Airion.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party follows the scroll’s references to Airion, investigates his ruined tower, and questions Benat and Yaz about his water magic.",
+      "overview_records": [
+        "airion-0001",
+        "airion-0506",
+        "airion-1411",
+        "airion-1892",
+        "airion-2104"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "nimessa",
+      "label": "Nimessa",
+      "canonical_name": "Nimessa",
+      "note": "People/Other Nonhumans/Nimessa.md",
+      "eligibility": "named",
+      "basis": "Named in the session transcript; identity corroborated by the linked note.",
+      "session_overview": "The party discusses the marid Nimessa’s summoning and the ring while interpreting the scroll and planning how to handle its author.",
+      "overview_records": [
+        "nimessa-0001",
+        "nimessa-1892"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "m2-blue",
+      "label": "Blue (Ryu’s companion)",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "named",
+      "basis": "Ryu repeatedly names this specific companion; not the unrelated Silver Tempests PC named Blue.",
+      "session_overview": "Ryu keeps Blue nearby during the investigation, brings Blue to Yaz, and uses Blue to scout and watch the harbor before the confrontation.",
+      "overview_records": [
+        "m2-blue-0666",
+        "m2-blue-0833",
+        "m2-blue-1289",
+        "m2-blue-2134",
+        "m2-blue-2283",
+        "m2-blue-2439",
+        "m2-blue-2998"
+      ],
+      "quote_review": "no_suitable_dialogue",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "m2-market-woman",
+      "label": "Older market storyteller",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "A specific older woman takes charge and answers the party’s question at u1403–u1409.",
+      "session_overview": "An older woman who keeps order among the market storytellers directs the party to Benat and Yaz.",
+      "overview_records": [
+        "m2-market-woman-1392"
+      ],
+      "quote_review": "no_suitable_dialogue",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "m2-servant",
+      "label": "Sulfi’s servant",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "One specific intermediary conducts a sustained exchange and is asked for a name at u1861–u1872.",
+      "session_overview": "Sulfi’s servant carries the party’s inquiry inside and returns with her answer; no personal name is recorded.",
+      "overview_records": [
+        "m2-servant-1818"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "m2-servant-1818-quote-1"
+      ]
+    },
+    {
+      "id": "m2-bystander",
+      "label": "Dockside lightning victim",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "individual",
+      "basis": "One specific towns-person killed on screen at u3314–u3324; the session note identifies the victim as a woman, but no name is supplied.",
+      "session_overview": "The party witnesses Azar’s lightning kill a dockside bystander and tends her after the fight.",
+      "overview_records": [
+        "m2-bystander-3313",
+        "m2-bystander-notes-25"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "ciphered-scroll",
+      "kind": "item",
+      "label": "The Ciphered Scroll",
+      "canonical_name": "The Ciphered Scroll",
+      "note": "Campaigns/Mawar Adventures/Notes/The Ciphered Scroll.md",
+      "eligibility": "named",
+      "basis": "The session opens with Wazir presenting and discussing this specific decoded document.",
+      "session_overview": "The decoded scroll guides the investigation into Azar’s experiments, Airion’s magic, Nimessa’s service, and the missing people.",
+      "overview_records": [
+        "ciphered-scroll-0001",
+        "ciphered-scroll-1319",
+        "ciphered-scroll-1892"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "blood-knife",
+      "kind": "item",
+      "label": "Blood Knife",
+      "canonical_name": "Blood Knife",
+      "note": "Things/Magic Items/Blood Knife.md",
+      "eligibility": "named",
+      "basis": "Distinct knife discussed in Ovina’s commission and Azar’s account, then explicitly recovered at u3495–u3497.",
+      "session_overview": "The party traces Azar’s murders to the speaking knife, recovers and seals it in lead, but Wazir’s subsequent identification cannot resolve its mystery.",
+      "overview_records": [
+        "blood-knife-1715",
+        "blood-knife-1892",
+        "blood-knife-2283",
+        "blood-knife-3445",
+        "blood-knife-3495",
+        "blood-knife-notes-29"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "m2-lead-box",
+      "kind": "item",
+      "label": "Ovina’s lead-lined box",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "distinctive",
+      "basis": "A specific carefully fitted container, not a generic chest; construction, testing and use are explicit at u1760–u1772, u2057–u2102 and u3496–u3497.",
+      "session_overview": "The party investigates Azar’s commissioned lead-lined box and uses it to contain the recovered knife, which remains locked inside during Wazir’s later identification attempt.",
+      "overview_records": [
+        "m2-lead-box-1715",
+        "m2-lead-box-2044",
+        "m2-lead-box-2491",
+        "m2-lead-box-2660",
+        "m2-lead-box-3495",
+        "m2-lead-box-notes-29"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "elemental-ring",
+      "kind": "item",
+      "label": "Airion’s Ring of Elemental Binding",
+      "canonical_name": "Airion's Ring of Elemental Binding",
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Airion's Ring of Elemental Binding.md",
+      "eligibility": "named",
+      "basis": "The transcript links the summoning ring to the smith’s payment; its dismantling and loss of magic are directly inspected.",
+      "session_overview": "The party connects the ring in Azar’s account to his payment to Ovina, examines its dismantled pieces, and finds no remaining magic.",
+      "overview_records": [
+        "elemental-ring-0001",
+        "elemental-ring-1715",
+        "elemental-ring-1892",
+        "elemental-ring-2044"
+      ],
+      "quote_review": "selected",
+      "featured_quote_ids": [
+        "elemental-ring-2044-quote-1"
+      ]
+    },
+    {
+      "id": "m2-phantom-boat",
+      "kind": "item",
+      "label": "Azar’s phantom boat",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "distinctive",
+      "basis": "Specific unusual vessel described by Orden and used during the dockside fight; separate from the other submerged boat he initially recalls.",
+      "session_overview": "Witnesses describe a boat passing through the shoals; the party later boards and moves it during the confrontation to interfere with Azar’s escape.",
+      "overview_records": [
+        "m2-phantom-boat-0001",
+        "m2-phantom-boat-1198",
+        "m2-phantom-boat-1818",
+        "m2-phantom-boat-1892",
+        "m2-phantom-boat-2283",
+        "m2-phantom-boat-2420",
+        "m2-phantom-boat-2491",
+        "m2-phantom-boat-2660"
+      ],
+      "quote_review": "selected",
+      "featured_quote_ids": [
+        "m2-phantom-boat-1198-quote-1"
+      ]
+    },
+    {
+      "id": "sefa",
+      "kind": "npc",
+      "label": "Sefa",
+      "canonical_name": "Sefa",
+      "note": "People/Mawarans/Sefa.md",
+      "eligibility": "named",
+      "basis": "Named session-note subject.",
+      "session_overview": "The party finds Sefa dead in Azar’s lair; the notes also associate restitution with her, without clarifying the recipient after her death.",
+      "overview_records": [
+        "sefa-notes-27",
+        "sefa-notes-28"
+      ],
+      "quote_review": "not_applicable",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "airion-research",
+      "kind": "item",
+      "label": "Airion’s annotated research books",
+      "canonical_name": "Airion's Research on the Elemental Plane of Water",
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Airion's Elemental Research.md",
+      "eligibility": "named",
+      "basis": "Named session-note subject.",
+      "session_overview": "The party recovers three annotated books from Airion’s library in Azar’s lair.",
+      "overview_records": [
+        "airion-research-notes-27"
+      ],
+      "quote_review": "not_applicable",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "airion-bowl",
+      "kind": "item",
+      "label": "Airion’s brass bowl",
+      "canonical_name": "Airion's Bowl of Commanding Water Elementals",
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Airion's Bowl of Commanding Water Elementals.md",
+      "eligibility": "named",
+      "basis": "Named session-note subject.",
+      "session_overview": "The party recovers a brass bowl, which Wazir identifies as commanding water elementals when filled with fresh ocean water and used immediately.",
+      "overview_records": [
+        "airion-bowl-notes-27",
+        "airion-bowl-notes-29"
+      ],
+      "quote_review": "not_applicable",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "m2-restitution-coins",
+      "kind": "item",
+      "label": "Recovered restitution coins",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "distinctive",
+      "basis": "Specific recovered coins used for consequential restitution, not routine inventory.",
+      "session_overview": "Coins recovered from Azar’s lair are used for restitution associated with Sefa and the families of the dead who can be found.",
+      "overview_records": [
+        "m2-restitution-coins-notes-27",
+        "m2-restitution-coins-notes-28"
+      ],
+      "quote_review": "not_applicable",
+      "featured_quote_ids": []
+    }
+  ],
+  "interactions": [
+    {
+      "id": "azar-0001",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party studies the unnamed scroll author’s experiments and search for a way to restore his wife.",
+      "excerpts": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0043",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u0083",
+          "endUid": "u0115",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "unnamed scroll author",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "nadine-0001",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The scroll introduces Nadine as the author’s dead wife and motive for his experiments.",
+      "excerpts": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0043",
+          "source": "transcript"
+        }
+      ],
+      "entity": "nadine",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "gazankoa-0001",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party connects Gazankoa to the scroll author’s experiments and promised resurrection.",
+      "excerpts": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0043",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u0255",
+          "endUid": "u0270",
+          "source": "transcript"
+        }
+      ],
+      "entity": "gazankoa",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "airion-0001",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party discusses Airion’s elemental magic and the scroll author’s pursuit of his work.",
+      "excerpts": [
+        {
+          "startUid": "u0092",
+          "endUid": "u0115",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u0195",
+          "endUid": "u0210",
+          "source": "transcript"
+        }
+      ],
+      "entity": "airion",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "nimessa-0001",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party discusses the scroll’s account of summoning Nimessa through a ring.",
+      "excerpts": [
+        {
+          "startUid": "u0215",
+          "endUid": "u0230",
+          "source": "transcript"
+        }
+      ],
+      "entity": "nimessa",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "airion-0506",
+      "scenes": [
+        2,
+        3,
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Investigating the ruined tower, the party considers its older magical foundations and connection to Airion.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u0575",
+          "endUid": "u0598",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u0800",
+          "endUid": "u0832",
+          "source": "transcript"
+        }
+      ],
+      "entity": "airion",
+      "evidence": [
+        {
+          "startUid": "u0506",
+          "endUid": "u0960",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-0506",
+      "scenes": [
+        2,
+        3,
+        4
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party searches the recent occupant’s abandoned tower and finds signs of a hurried attempt to conceal his stay.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u0565",
+          "endUid": "u0575",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u0643",
+          "endUid": "u0665",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "recent tower occupant",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u0506",
+          "endUid": "u0960",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-blue-0666",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "Ryu calms Blue when Wazir releases a small mechanical scout.",
+      "entity": "m2-blue",
+      "evidence": [
+        {
+          "startUid": "u0666",
+          "endUid": "u0674",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-blue-0833",
+      "scenes": [
+        4
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "overview": "Blue remains outside under Ryu’s watch while the others explore the dangerous water illusion.",
+      "presence_basis": "u0839 explicitly says Ryu is keeping Blue from entering and watching above.",
+      "entity": "m2-blue",
+      "evidence": [
+        {
+          "startUid": "u0833",
+          "endUid": "u0845",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "reliah-0961",
+      "scenes": [
+        5
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party chooses Samar and Reliah among the informants to question.",
+      "excerpts": [
+        {
+          "startUid": "u0965",
+          "endUid": "u0980",
+          "source": "transcript"
+        }
+      ],
+      "entity": "reliah",
+      "evidence": [
+        {
+          "startUid": "u0961",
+          "endUid": "u0993",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "jaeson-0994",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Ryu and Trok question Jaeson about the tower occupant and promise fish in exchange for his information.",
+      "excerpts": [
+        {
+          "startUid": "u0998",
+          "endUid": "u1020",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1085",
+          "endUid": "u1101",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1091",
+          "endUid": "u1092",
+          "kind": "dialogue",
+          "quote": "Only that one time picking up his own trash that he'd been throwing for weeks what's. what's the point of that.",
+          "speaker": "jaeson",
+          "attribution": "Jaeson responds to Ryu’s question about the occupant picking up his trash; the source retains its disfluencies.",
+          "id": "jaeson-0994-quote-1",
+          "source": "transcript"
+        }
+      ],
+      "entity": "jaeson",
+      "evidence": [
+        {
+          "startUid": "u0994",
+          "endUid": "u1101",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-0994",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Jaeson describes an older tower occupant who smoked gatza and later cleared away his refuse.",
+      "excerpts": [
+        {
+          "startUid": "u1050",
+          "endUid": "u1092",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "old man at the tower",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u0994",
+          "endUid": "u1101",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "samar-1102",
+      "scenes": [
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Wazir and Kaleho ask Samar about the collapsed lodging and old man seeking a discreet smith, then warn her to be careful.",
+      "excerpts": [
+        {
+          "startUid": "u1111",
+          "endUid": "u1146",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1170",
+          "endUid": "u1189",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1146",
+          "endUid": "u1146",
+          "kind": "dialogue",
+          "quote": "Who knows anybody down here.",
+          "speaker": "samar",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "samar-1102-quote-1",
+          "source": "transcript"
+        }
+      ],
+      "entity": "samar",
+      "evidence": [
+        {
+          "startUid": "u1102",
+          "endUid": "u1197",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "reliah-1102",
+      "scenes": [
+        7
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "The session note records the party questioning Reliah alongside Samar, although only Samar’s dialogue is clear in the transcript.",
+      "excerpts": [
+        {
+          "startUid": "u1178",
+          "endUid": "u1189",
+          "source": "transcript"
+        }
+      ],
+      "entity": "reliah",
+      "evidence": [
+        {
+          "startUid": "u1102",
+          "endUid": "u1197",
+          "source": "transcript"
+        },
+        {
+          "source": "session-note",
+          "startLine": 65,
+          "endLine": 65,
+          "text": "Seeking more information, the party fans out across [[Hamri]] for local witnesses. [[Ryu]] and [[Trok]] speak with [[Jaeson]], while the others inquire with [[Samar]] and [[Reliah]] in the Drowned Flats and [[Orden]] by the docks. Their accounts build a profile of a worn older man who appeared in recent weeks, had been living in or near the tower, left fish remains and the smell of [[Gatza|gatza]], may connect to the Drowned Flats deaths, and had been asking around about lead. After a morning of chasing rumors, the party reconvenes at the market before lunch."
+        }
+      ],
+      "continuity": " The session note supplies additional detail about the same encounter, not a second encounter."
+    },
+    {
+      "id": "azar-1102",
+      "scenes": [
+        7
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Samar reports that an old man asked about a smith shortly before the lodging collapsed.",
+      "excerpts": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1180",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "old man seeking a smith",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u1102",
+          "endUid": "u1197",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "orden-1198",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Ryu and Trok question Orden about the phantom boat and enlist him to keep watching.",
+      "excerpts": [
+        {
+          "startUid": "u1205",
+          "endUid": "u1246",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1275",
+          "endUid": "u1293",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1246",
+          "endUid": "u1246",
+          "kind": "dialogue",
+          "quote": "don't laugh I i'm not actually sure it was real.",
+          "speaker": "orden",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "orden-1198-quote-1",
+          "source": "transcript"
+        }
+      ],
+      "entity": "orden",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1318",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-blue-1289",
+      "scenes": [
+        8
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "Ryu addresses Blue while concluding the conversation with Orden.",
+      "entity": "m2-blue",
+      "evidence": [
+        {
+          "startUid": "u1289",
+          "endUid": "u1293",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-market-woman-1392",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "The party asks for tower stories, and an older woman directs them to Benat or Yaz.",
+      "excerpts": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1409",
+          "source": "transcript"
+        }
+      ],
+      "entity": "m2-market-woman",
+      "evidence": [
+        {
+          "startUid": "u1392",
+          "endUid": "u1410",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "yaz-1392",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party hears Yaz recommended as the oldest living ocean watcher and plans to visit him.",
+      "excerpts": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1409",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1613",
+          "endUid": "u1615",
+          "source": "transcript"
+        }
+      ],
+      "entity": "yaz",
+      "evidence": [
+        {
+          "startUid": "u1392",
+          "endUid": "u1714",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "benat-1411",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Benat asks Trok to write to his family in exchange for stories about Airion and the tower’s unusual water magic.",
+      "excerpts": [
+        {
+          "startUid": "u1438",
+          "endUid": "u1442",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1450",
+          "endUid": "u1479",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1560",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1439",
+          "endUid": "u1442",
+          "kind": "dialogue",
+          "quote": "I don't think that's true. I tell them occasionally. you're alive and. It matters to them.",
+          "speaker": "benat",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "benat-1411-quote-1",
+          "source": "transcript"
+        }
+      ],
+      "entity": "benat",
+      "evidence": [
+        {
+          "startUid": "u1411",
+          "endUid": "u1587",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "airion-1411",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Benat explains Airion’s association with the tower and its ability to draw water from other places.",
+      "excerpts": [
+        {
+          "startUid": "u1450",
+          "endUid": "u1479",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1560",
+          "source": "transcript"
+        }
+      ],
+      "entity": "airion",
+      "evidence": [
+        {
+          "startUid": "u1411",
+          "endUid": "u1587",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ovina-1588",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party identifies Ovina as a smith who might handle a discreet lead-box commission.",
+      "excerpts": [
+        {
+          "startUid": "u1598",
+          "endUid": "u1612",
+          "source": "transcript"
+        }
+      ],
+      "entity": "ovina",
+      "evidence": [
+        {
+          "startUid": "u1588",
+          "endUid": "u1714",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "sulfi-1588",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party decides Sulfi might know about the phantom boat and plans to seek her out.",
+      "excerpts": [
+        {
+          "startUid": "u1617",
+          "endUid": "u1630",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1694",
+          "endUid": "u1711",
+          "source": "transcript"
+        }
+      ],
+      "entity": "sulfi",
+      "evidence": [
+        {
+          "startUid": "u1588",
+          "endUid": "u1714",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ovina-1715",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Kaleho and Trok persuade Ovina to reveal the old man’s lead-box commission and unusual payment.",
+      "excerpts": [
+        {
+          "startUid": "u1737",
+          "endUid": "u1747",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1755",
+          "endUid": "u1805",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1742",
+          "endUid": "u1742",
+          "kind": "dialogue",
+          "quote": "Because I do also have a reputation to maintain, as you are aware.",
+          "speaker": "ovina",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "ovina-1715-quote-1",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1810",
+          "endUid": "u1810",
+          "id": "ovina-1715-quote-2",
+          "kind": "dialogue",
+          "quote": "You owe me a favor.",
+          "speaker": "ovina",
+          "attribution": "Ovina makes the personal cost of providing the information explicit to Kaleho.",
+          "source": "transcript"
+        }
+      ],
+      "entity": "ovina",
+      "evidence": [
+        {
+          "startUid": "u1715",
+          "endUid": "u1817",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-1715",
+      "scenes": [
+        11
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Ovina describes the old man who paid a valuable ring for a sealed lead-lined box to quiet his troubles.",
+      "excerpts": [
+        {
+          "startUid": "u1755",
+          "endUid": "u1805",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "Ovina’s old customer",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u1715",
+          "endUid": "u1817",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-servant-1818",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "The servant carries the inquiry to Sulfi and returns her response about boats, harbor dues, and a future tea invitation for Wazir.",
+      "excerpts": [
+        {
+          "startUid": "u1824",
+          "endUid": "u1835",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1846",
+          "endUid": "u1876",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1872",
+          "endUid": "u1872",
+          "kind": "dialogue",
+          "quote": "I am a simple servant, sir.",
+          "speaker": "m2-servant",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "m2-servant-1818-quote-1",
+          "source": "transcript"
+        }
+      ],
+      "entity": "m2-servant",
+      "evidence": [
+        {
+          "startUid": "u1818",
+          "endUid": "u1876",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "sulfi-1818",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Through her servant, Sulfi declines an immediate meeting, asks for strange ships to be reported, and invites Wazir to tea eight days later.",
+      "excerpts": [
+        {
+          "startUid": "u1846",
+          "endUid": "u1856",
+          "source": "transcript"
+        }
+      ],
+      "entity": "sulfi",
+      "evidence": [
+        {
+          "startUid": "u1818",
+          "endUid": "u1876",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-1892",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The reunited party compares evidence about the old man, the lead box, and the knife before choosing its next steps.",
+      "excerpts": [
+        {
+          "startUid": "u1940",
+          "endUid": "u1980",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "old man / scroll author",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "gazankoa-1892",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The party identifies Gazankoa as the likely power behind the knife and the true danger driving the murders.",
+      "excerpts": [
+        {
+          "startUid": "u1991",
+          "endUid": "u2007",
+          "source": "transcript"
+        }
+      ],
+      "entity": "gazankoa",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "nadine-1892",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party connects the suspected murders to the scroll author’s attempt to restore his dead wife.",
+      "excerpts": [
+        {
+          "startUid": "u1952",
+          "endUid": "u1965",
+          "source": "transcript"
+        }
+      ],
+      "entity": "nadine",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "airion-1892",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Wazir suspects the ring traded to Ovina is Airion’s and proposes testing it for magic.",
+      "excerpts": [
+        {
+          "startUid": "u1972",
+          "endUid": "u1984",
+          "source": "transcript"
+        }
+      ],
+      "entity": "airion",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ovina-1892",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party plans a return visit to Ovina to test the ring’s remaining magic.",
+      "excerpts": [
+        {
+          "startUid": "u1975",
+          "endUid": "u1984",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2014",
+          "endUid": "u2031",
+          "source": "transcript"
+        }
+      ],
+      "entity": "ovina",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "yaz-1892",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Ryu chooses to visit Yaz while the others return to Ovina.",
+      "excerpts": [
+        {
+          "startUid": "u2032",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ],
+      "entity": "yaz",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "nimessa-1892",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party revisits Nimessa and the summoning ring while comparing its clues.",
+      "excerpts": [
+        {
+          "startUid": "u1950",
+          "endUid": "u1990",
+          "source": "transcript"
+        }
+      ],
+      "entity": "nimessa",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ovina-2044",
+      "scenes": [
+        15,
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "On a return visit, Ovina lets Wazir test the dismantled ring and lead-lined box for magic.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u2046",
+          "endUid": "u2065",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2080",
+          "endUid": "u2103",
+          "source": "transcript"
+        }
+      ],
+      "entity": "ovina",
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2103",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "yaz-2104",
+      "scenes": [
+        17,
+        18,
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Ryu and Trok visit Yaz, watch the sunset, and discuss the ancient tower, missing people, and the living ocean.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u2130",
+          "endUid": "u2155",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2206",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2220",
+          "endUid": "u2245",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u2238",
+          "endUid": "u2238",
+          "kind": "dialogue",
+          "quote": "what does that even mean living ocean, the Ocean is already alive.",
+          "speaker": "yaz",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "yaz-2104-quote-1",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2190",
+          "id": "yaz-2104-quote-2",
+          "kind": "dialogue",
+          "quote": "But what does any of this mean it means the world is much bigger than any of us. there's more to it than our mortal minds can understand and there always will be.",
+          "speaker": "yaz",
+          "attribution": "Yaz reflects on what the ocean-watchers’ stories mean.",
+          "source": "transcript"
+        }
+      ],
+      "entity": "yaz",
+      "evidence": [
+        {
+          "startUid": "u2104",
+          "endUid": "u2282",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-blue-2134",
+      "scenes": [
+        18,
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "Blue greets Yaz, then Ryu lets Blue play in the water.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "entity": "m2-blue",
+      "evidence": [
+        {
+          "startUid": "u2134",
+          "endUid": "u2155",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "airion-2104",
+      "scenes": [
+        17,
+        18,
+        19
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Yaz recounts the old tower’s water lore during the party’s visit.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u2215",
+          "endUid": "u2238",
+          "source": "transcript"
+        }
+      ],
+      "entity": "airion",
+      "evidence": [
+        {
+          "startUid": "u2104",
+          "endUid": "u2282",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-2104",
+      "scenes": [
+        17,
+        18,
+        19
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Ryu and Trok discuss the suspected killer and the tower during their visit to Yaz.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u2195",
+          "endUid": "u2206",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "suspected old man",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u2104",
+          "endUid": "u2282",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-2283",
+      "scenes": [
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party plans a cautious approach to the old man when he collects the box, with others hidden nearby.",
+      "excerpts": [
+        {
+          "startUid": "u2290",
+          "endUid": "u2315",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2358",
+          "endUid": "u2375",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2405",
+          "endUid": "u2419",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "old man / scroll author",
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u2283",
+          "endUid": "u2419",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-blue-2283",
+      "scenes": [
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The party considers having Blue follow the old man if the conversation fails.",
+      "excerpts": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2415",
+          "source": "transcript"
+        }
+      ],
+      "entity": "m2-blue",
+      "evidence": [
+        {
+          "startUid": "u2283",
+          "endUid": "u2419",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-blue-2439",
+      "scenes": [
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Ryu uses Blue to scout the harbor and keep watch as the party takes its positions.",
+      "excerpts": [
+        {
+          "startUid": "u2439",
+          "endUid": "u2447",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2481",
+          "endUid": "u2483",
+          "source": "transcript"
+        }
+      ],
+      "entity": "m2-blue",
+      "evidence": [
+        {
+          "startUid": "u2439",
+          "endUid": "u2483",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ovina-2491",
+      "scenes": [
+        22
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "overview": "Ovina is at the smithy, opened early for the planned collection, while the party watches Azar arrive.",
+      "presence_basis": "u2494 explicitly establishes Ovina opening early, aware of the party waiting; Azar enters and returns with the box at u2504–u2505.",
+      "entity": "ovina",
+      "evidence": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-2491",
+      "scenes": [
+        22,
+        23
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Ryu confronts the old man, Wazir invokes Nadine’s name, and Azar identifies himself while insisting he can still save his family.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2515",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2550",
+          "endUid": "u2565",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2602",
+          "endUid": "u2622",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2640",
+          "endUid": "u2659",
+          "source": "transcript"
+        }
+      ],
+      "known_as": "old man; names himself Azar at u2602",
+      "introduction": {
+        "startUid": "u2492",
+        "endUid": "u2492",
+        "kind": "description",
+        "quote": "This sort of older man like hunched over with like this pile of cloaks over his shoulders",
+        "source": "transcript"
+      },
+      "quotes": [
+        {
+          "startUid": "u2613",
+          "endUid": "u2615",
+          "kind": "dialogue",
+          "quote": "There are many lost dead. He can bring them back. I just need a little more time.",
+          "speaker": "azar",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "azar-2491-quote-1",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2622",
+          "endUid": "u2622",
+          "id": "azar-2491-quote-2",
+          "kind": "dialogue",
+          "quote": "come with me.",
+          "speaker": "azar",
+          "attribution": "Azar invites Ryu toward the boat; the subsequent insight check at u2648–u2654 reveals hostile intent.",
+          "source": "transcript"
+        }
+      ],
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2659",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "nadine-2491",
+      "scenes": [
+        22,
+        23
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party invokes Nadine’s name, prompting Azar to confirm she is his wife and insist he is saving his family.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u2550",
+          "endUid": "u2565",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2602",
+          "endUid": "u2615",
+          "source": "transcript"
+        }
+      ],
+      "entity": "nadine",
+      "evidence": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2659",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "gazankoa-2491",
+      "scenes": [
+        22,
+        23
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Azar insists Gazankoa is helping him restore the dead while the party tries to persuade him to talk.",
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u2602",
+          "endUid": "u2619",
+          "source": "transcript"
+        }
+      ],
+      "entity": "gazankoa",
+      "evidence": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2659",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-2660",
+      "scenes": [
+        24
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Azar attacks, flees toward his boat, and is defeated after a fight involving tentacles, cold armor, and lethal lightning.",
+      "excerpts": [
+        {
+          "startUid": "u2744",
+          "endUid": "u2770",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u3313",
+          "endUid": "u3334",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u3390",
+          "endUid": "u3415",
+          "source": "transcript"
+        }
+      ],
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u2660",
+          "endUid": "u3444",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-blue-2998",
+      "scenes": [
+        24
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "overview": "Ryu brings Blue into the combat turn discussion; the transcript does not clearly resolve the subsequent familiar action.",
+      "presence_basis": "u2998–u3002 explicitly discusses Blue taking a turn in the ongoing encounter; later ASR renders another name, so no specific action is asserted.",
+      "entity": "m2-blue",
+      "evidence": [
+        {
+          "startUid": "u2998",
+          "endUid": "u3004",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-bystander-3313",
+      "scenes": [
+        24
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "The party witnesses Azar’s lightning kill a dockside bystander.",
+      "excerpts": [
+        {
+          "startUid": "u3313",
+          "endUid": "u3324",
+          "source": "transcript"
+        }
+      ],
+      "entity": "m2-bystander",
+      "evidence": [
+        {
+          "startUid": "u3313",
+          "endUid": "u3334",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "azar-3445",
+      "scenes": [
+        25
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party heals and binds Azar, then hears a narrated account of how the knife’s promises led him to murder.",
+      "excerpts": [
+        {
+          "startUid": "u3445",
+          "endUid": "u3465",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u3477",
+          "endUid": "u3494",
+          "source": "transcript"
+        }
+      ],
+      "entity": "azar",
+      "evidence": [
+        {
+          "startUid": "u3445",
+          "endUid": "u3494",
+          "source": "transcript"
+        },
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "Afterward, [[Wazir]] heals Azar and the group binds him while they recover from the fight, calm Shark's Dock, tend the woman killed by Azar's lightning, and hear [[Azar's Tale|Azar's full tale]]."
+        }
+      ],
+      "continuity": " The session note supplies additional detail about the same encounter, not a second encounter."
+    },
+    {
+      "id": "nadine-3445",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Azar’s account explains how grief for his wife drove his hope that the killings would bring her back.",
+      "excerpts": [
+        {
+          "startUid": "u3488",
+          "endUid": "u3494",
+          "source": "transcript"
+        }
+      ],
+      "entity": "nadine",
+      "evidence": [
+        {
+          "startUid": "u3445",
+          "endUid": "u3494",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "gazankoa-3445",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party learns that the knife’s patron falsely promised Azar his wife’s return if he killed people correctly.",
+      "excerpts": [
+        {
+          "startUid": "u3488",
+          "endUid": "u3494",
+          "source": "transcript"
+        }
+      ],
+      "entity": "gazankoa",
+      "evidence": [
+        {
+          "startUid": "u3445",
+          "endUid": "u3494",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ciphered-scroll-0001",
+      "entity": "ciphered-scroll",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Wazir presents the decoded scroll, and the party interprets its account of experiments, summoning, and attempted resurrection.",
+      "excerpts": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0043",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u0083",
+          "endUid": "u0115",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u0218",
+          "endUid": "u0245",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ciphered-scroll-1319",
+      "entity": "ciphered-scroll",
+      "scenes": [
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "At the collapsed lodging, the party compares the missing victims with the scroll’s account of remaining experiments.",
+      "excerpts": [
+        {
+          "startUid": "u1367",
+          "endUid": "u1380",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1319",
+          "endUid": "u1383",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "ciphered-scroll-1892",
+      "entity": "ciphered-scroll",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The reunited party uses the scroll’s account to connect the suspect, ring, knife, Nimessa, and Gazankoa.",
+      "excerpts": [
+        {
+          "startUid": "u1938",
+          "endUid": "u2007",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "blood-knife-1715",
+      "entity": "blood-knife",
+      "scenes": [
+        11
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Ovina reports that her customer wanted a lead-lined box to stop a knife from talking and troubling his dreams.",
+      "excerpts": [
+        {
+          "startUid": "u1757",
+          "endUid": "u1772",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1799",
+          "endUid": "u1808",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1715",
+          "endUid": "u1817",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "blood-knife-1892",
+      "entity": "blood-knife",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The party connects the knife to Gazankoa and considers it the source of the danger.",
+      "excerpts": [
+        {
+          "startUid": "u1938",
+          "endUid": "u1948",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u1991",
+          "endUid": "u2007",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "blood-knife-2283",
+      "entity": "blood-knife",
+      "scenes": [
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "The party debates how to contain the knife and approach the man it may be influencing.",
+      "excerpts": [
+        {
+          "startUid": "u2294",
+          "endUid": "u2315",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2367",
+          "endUid": "u2395",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2283",
+          "endUid": "u2419",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "blood-knife-3445",
+      "entity": "blood-knife",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Azar’s account describes a knife that replaces victims’ blood with water under a false promise of restoring his wife.",
+      "excerpts": [
+        {
+          "startUid": "u3488",
+          "endUid": "u3494",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u3445",
+          "endUid": "u3494",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "blood-knife-3495",
+      "entity": "blood-knife",
+      "scenes": [
+        27
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "In the narrated lair search, the party finds the knife and seals it in the lead-lined box, quieting it.",
+      "evidence": [
+        {
+          "startUid": "u3495",
+          "endUid": "u3497",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-lead-box-1715",
+      "entity": "m2-lead-box",
+      "scenes": [
+        11
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "Ovina shows the almost-finished lead-lined box and explains the unusual commission.",
+      "excerpts": [
+        {
+          "startUid": "u1757",
+          "endUid": "u1772",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1715",
+          "endUid": "u1817",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-lead-box-2044",
+      "entity": "m2-lead-box",
+      "scenes": [
+        15,
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Wazir examines the box outside the smithy and confirms that its lead lining can block magic.",
+      "excerpts": [
+        {
+          "startUid": "u2057",
+          "endUid": "u2076",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2088",
+          "endUid": "u2103",
+          "source": "transcript"
+        }
+      ],
+      "continuity": "One continuous conversation, investigation or encounter across the listed scene boundaries; minor interjections and movement remain in the complete range.",
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2103",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-lead-box-2491",
+      "entity": "m2-lead-box",
+      "scenes": [
+        22,
+        23
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "The party watches Azar collect the box and carry it toward the dock during the confrontation.",
+      "excerpts": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2505",
+          "source": "transcript"
+        }
+      ],
+      "continuity": "One continuous conversation, investigation or encounter across the listed scene boundaries; minor interjections and movement remain in the complete range.",
+      "evidence": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2659",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-lead-box-2660",
+      "entity": "m2-lead-box",
+      "scenes": [
+        24
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "During the fight, the party notices Azar has dropped the box in the boat and keeps track of it.",
+      "excerpts": [
+        {
+          "startUid": "u2869",
+          "endUid": "u2875",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u3058",
+          "endUid": "u3065",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2660",
+          "endUid": "u3444",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-lead-box-3495",
+      "entity": "m2-lead-box",
+      "scenes": [
+        27
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party seals the recovered knife inside the lead-lined box.",
+      "evidence": [
+        {
+          "startUid": "u3495",
+          "endUid": "u3497",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "elemental-ring-0001",
+      "entity": "elemental-ring",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Wazir describes the scroll’s account of Airion’s ring being used to summon and command Nimessa.",
+      "excerpts": [
+        {
+          "startUid": "u0218",
+          "endUid": "u0245",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "elemental-ring-1715",
+      "entity": "elemental-ring",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Kaleho examines the dismantled gold ring and sapphires that Ovina accepted as payment.",
+      "excerpts": [
+        {
+          "startUid": "u1763",
+          "endUid": "u1787",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1715",
+          "endUid": "u1817",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "elemental-ring-1892",
+      "entity": "elemental-ring",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party suspects the payment ring is Airion’s and proposes checking it for magic.",
+      "excerpts": [
+        {
+          "startUid": "u1968",
+          "endUid": "u1984",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2014",
+          "endUid": "u2027",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "elemental-ring-2044",
+      "entity": "elemental-ring",
+      "scenes": [
+        15,
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Wazir tests the dismantled ring and learns that it is no longer magical, though a sapphire may once have held its power.",
+      "excerpts": [
+        {
+          "startUid": "u2052",
+          "endUid": "u2087",
+          "source": "transcript"
+        }
+      ],
+      "continuity": "One continuous conversation, investigation or encounter across the listed scene boundaries; minor interjections and movement remain in the complete range.",
+      "quotes": [
+        {
+          "startUid": "u2071",
+          "endUid": "u2071",
+          "id": "elemental-ring-2044-quote-1",
+          "kind": "description",
+          "quote": "The ring is not magical.",
+          "speaker": null,
+          "attribution": "The DM gives the result of Wazir’s magical examination of the ring.",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2103",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-0001",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Wazir recalls an odd boat that no one saw arrive or depart while introducing the scroll investigation.",
+      "excerpts": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0505",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-1198",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        8
+      ],
+      "interaction": "mentioned",
+      "importance": "star",
+      "overview": "Orden tells Ryu and Trok about a small boat that passed through the shoals toward Shark’s Dock.",
+      "excerpts": [
+        {
+          "startUid": "u1243",
+          "endUid": "u1275",
+          "source": "transcript"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u1253",
+          "endUid": "u1253",
+          "id": "m2-phantom-boat-1198-quote-1",
+          "kind": "dialogue",
+          "quote": "It just sailed through them.",
+          "speaker": "orden",
+          "attribution": "Orden reports what he believes he saw; the boat’s mechanism remains unexplained.",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1318",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-1818",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "Wazir asks Sulfi’s servant about the strange vessel and receives a denial of knowledge.",
+      "excerpts": [
+        {
+          "startUid": "u1830",
+          "endUid": "u1848",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1818",
+          "endUid": "u1876",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-1892",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party compares the boat reports with the old man’s suspected activities.",
+      "excerpts": [
+        {
+          "startUid": "u1895",
+          "endUid": "u1948",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u2043",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-2283",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party considers whether Blue could follow the phantom boat if the old man leaves in it.",
+      "excerpts": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2406",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2283",
+          "endUid": "u2419",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-2420",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        21
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "The party scouts the incoming boat while waiting near the smithy.",
+      "excerpts": [
+        {
+          "startUid": "u2439",
+          "endUid": "u2448",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2420",
+          "endUid": "u2490",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-2491",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        22,
+        23
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "During the confrontation, Azar invites Ryu toward the boat while invisible Wazir moves to board it.",
+      "excerpts": [
+        {
+          "startUid": "u2620",
+          "endUid": "u2640",
+          "source": "transcript"
+        }
+      ],
+      "continuity": "One continuous conversation, investigation or encounter across the listed scene boundaries; minor interjections and movement remain in the complete range.",
+      "evidence": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2659",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-phantom-boat-2660",
+      "entity": "m2-phantom-boat",
+      "scenes": [
+        24
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party grapples beside the boat and pushes it away to interfere with Azar’s escape.",
+      "excerpts": [
+        {
+          "startUid": "u2831",
+          "endUid": "u2875",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u2990",
+          "endUid": "u3004",
+          "source": "transcript"
+        },
+        {
+          "startUid": "u3050",
+          "endUid": "u3065",
+          "source": "transcript"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2660",
+          "endUid": "u3444",
+          "source": "transcript"
+        }
+      ]
+    },
+    {
+      "id": "m2-bystander-notes-25",
+      "entity": "m2-bystander",
+      "scenes": [
+        25
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "After the fight, the party tends the woman killed by Azar’s lightning.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "Afterward, [[Wazir]] heals Azar and the group binds him while they recover from the fight, calm Shark's Dock, tend the woman killed by Azar's lightning, and hear [[Azar's Tale|Azar's full tale]]."
+        }
+      ]
+    },
+    {
+      "id": "sefa-notes-27",
+      "entity": "sefa",
+      "scenes": [
+        27
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "The party finds Sefa dead while searching Azar’s lair.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "That evening, the party searches the [[Splinters]], quickly destroys two more drowned zombies, and finds [[Sefa]] dead in the lair."
+        }
+      ]
+    },
+    {
+      "id": "airion-research-notes-27",
+      "entity": "airion-research",
+      "scenes": [
+        27
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "The party recovers three annotated books from Airion’s library.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found."
+        }
+      ]
+    },
+    {
+      "id": "airion-bowl-notes-27",
+      "entity": "airion-bowl",
+      "scenes": [
+        27
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "The party recovers a brass bowl from Azar’s lair.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found."
+        }
+      ],
+      "known_as": "Brass bowl; its function is identified the following day."
+    },
+    {
+      "id": "m2-restitution-coins-notes-27",
+      "entity": "m2-restitution-coins",
+      "scenes": [
+        27
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "The party recovers scattered coins from Azar’s lair.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found."
+        }
+      ]
+    },
+    {
+      "id": "m2-restitution-coins-notes-28",
+      "entity": "m2-restitution-coins",
+      "scenes": [
+        28
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "The recovered coins fund restitution associated with Sefa and families of the dead who can be found.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found."
+        }
+      ]
+    },
+    {
+      "id": "sefa-notes-28",
+      "entity": "sefa",
+      "scenes": [
+        28
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "The notes name Sefa in the restitution account, without explaining who receives payment on her behalf after her death.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found."
+        }
+      ]
+    },
+    {
+      "id": "blood-knife-notes-29",
+      "entity": "blood-knife",
+      "scenes": [
+        29
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Wazir attempts to identify the contained Blood Knife but finds it a mystery beyond his magic.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "On Aug 6, [[Wazir]] identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately."
+        }
+      ]
+    },
+    {
+      "id": "m2-lead-box-notes-29",
+      "entity": "m2-lead-box",
+      "scenes": [
+        29
+      ],
+      "interaction": "present",
+      "importance": "supporting",
+      "overview": "The lead-lined box contains the Blood Knife during Wazir’s identification attempt.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "On Aug 6, [[Wazir]] identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately."
+        }
+      ],
+      "presence_basis": "The note explicitly describes the knife as now locked in the lead-lined box at identification."
+    },
+    {
+      "id": "airion-bowl-notes-29",
+      "entity": "airion-bowl",
+      "scenes": [
+        29
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "Wazir identifies the bowl’s command over water elementals and its requirement for fresh ocean water used immediately.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "On Aug 6, [[Wazir]] identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately."
+        }
+      ]
+    },
+    {
+      "id": "azar-notes-30",
+      "entity": "azar",
+      "scenes": [
+        30
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "The session note records Azar leaving Hamri southward with Benat to heal before returning to make amends.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 33,
+          "endLine": 33,
+          "text": "- (DR:: 1747-08-09): [[Azar the Lost]] leaves [[Hamri]] with [[Benat]] for the [[Lizardfolk|lizardfolk]] village."
+        },
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "A few days later, on Aug 9, Azar leaves south with [[Benat]] to heal before returning to make amends to [[Hamri]]."
+        }
+      ],
+      "continuity": "These note passages document one event.",
+      "perspective": "session_record",
+      "observation_basis": "The note states the departure occurred but does not identify a PC witness or direct exchange."
+    },
+    {
+      "id": "benat-notes-30",
+      "entity": "benat",
+      "scenes": [
+        30
+      ],
+      "interaction": "observed",
+      "importance": "supporting",
+      "overview": "The session note records Benat accompanying Azar south from Hamri toward the lizardfolk village.",
+      "evidence": [
+        {
+          "source": "session-note",
+          "startLine": 33,
+          "endLine": 33,
+          "text": "- (DR:: 1747-08-09): [[Azar the Lost]] leaves [[Hamri]] with [[Benat]] for the [[Lizardfolk|lizardfolk]] village."
+        },
+        {
+          "source": "session-note",
+          "startLine": 75,
+          "endLine": 75,
+          "text": "A few days later, on Aug 9, Azar leaves south with [[Benat]] to heal before returning to make amends to [[Hamri]]."
+        }
+      ],
+      "continuity": "These note passages document one event.",
+      "perspective": "session_record",
+      "observation_basis": "The note states the departure occurred but does not identify a PC witness or direct exchange."
+    }
+  ],
+  "review_notes": [
+    "Version 4 includes documented events beyond the recording: Sefa, lair treasure and restitution, August 6 identification, and August 9 departure. Each note-backed claim links to an exact passage in the original session note; no transcript UIDs are invented.",
+    "Reliah’s visit record now includes the session note’s affirmative account that the party inquires with both sisters. Samar retains the transcript dialogue; no speech is invented for Reliah. Sulfi still answers through a servant.",
+    "Scenes 1–25 retain their indexes and transcript boundaries. The notes add a lair combat before the recovery (formerly scene 26, now 27), and later events; segmentation revision increases to 2.",
+    "The note says Sefa is found dead, then describes restitution “to Sefa” and families of the dead. Preserve that wording as an unresolved recipient ambiguity; do not imply Sefa survived or personally received payment. Payment time and precise location are unspecified.",
+    "The departure is a documented event; the note does not establish that the PCs witnessed a farewell. Its observed records explicitly use session-record perspective.",
+    "One visit to Yaz remains one interaction across arrival, the roof, a sunset pause, and conversation. Ovina has two genuine separate visits plus dawn presence; the afternoon return is not merged across the intervening party split.",
+    "Blue is Ryu’s named companion, not the Silver Tempests PC of the same name. Later combat ASR shifts between Blue, chirk and Turkey; retain explicit presence without claiming that a specific later boat-moving action belongs to Blue.",
+    "Keep the distinct servant, market woman and lightning victim because each has a specific consequential role. Exclude generic drowned combatants, crowds, unnamed mass victims, and the hypothetical future guest-PC introduction. No individual record for every monster or rumor.",
+    "Pull quotes are exact contiguous source text, including awkward ASR. No quote is forced for nonspeaking Blue, the lightning victim, or characters only discussed. Jaeson’s question, Samar’s reply, Benat’s family appeal, Ovina’s reputation, the servant’s refusal, Yaz’s ocean observation, and Azar’s hope are selected.",
+    "All scenes retain source boundaries even when they have no eligible NPC interaction. Minor PC interjections and mechanical discussion remain within whole conversation ranges."
+  ],
+  "sources": [
+    {
+      "path": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-source-cleaned.md",
+      "sha256": "2ea337d9ca62730209b581da6fff28ffb51a4dcc7ef955087d1491d42ecb801a",
+      "kind": "transcript",
+      "id": "transcript"
+    },
+    {
+      "id": "session-note",
+      "kind": "session_notes",
+      "path": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+      "sha256": "2433383acbc2f019cf0eef96db0d33a1ca584ebe2d89ab91b07d7532231eec22"
+    }
+  ]
+}

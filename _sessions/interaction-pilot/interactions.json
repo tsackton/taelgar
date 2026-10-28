@@ -1,0 +1,932 @@
+{
+  "schema_version": "pilot-0.1",
+  "campaign": "dufr",
+  "selection": {
+    "population": "131 cleaned Dunmari Frontier transcripts, sorted by path",
+    "method": "random.Random(20261028).sample(files, 3)",
+    "sessions": [
+      12,
+      59,
+      10
+    ]
+  },
+  "scope": "19 illustrative interaction records from selected passages across three randomly selected transcripts; not an exhaustive NPC or mention inventory.",
+  "conventions": {
+    "importance": "Provisional editorial classification of this interaction, not of the NPC globally. major: consequential action or information; minor: supporting exchange; color: incidental presence.",
+    "interaction": "met means direct contact/shared scene, not necessarily first meeting; fought means opponent; mention means absent subject discussed.",
+    "other_npcs_present": "Supported subset only; empty list is not proof of absence unless presence_status says so. PCs excluded. Unnamed groups retained.",
+    "date": "In-world DR date. Recording timestamps are separate. Dates may use session-note or recap chronology.",
+    "context": "One short AI-written sentence, checked against cited transcript evidence.",
+    "visibility": "Local author-review pilot only. No publication visibility rules have been extracted; not suitable for automatic public publication."
+  },
+  "records": [
+    {
+      "id": "dufr-010-interaction-01",
+      "session": 10,
+      "npc": {
+        "name": "Vola",
+        "note": "People/Chardonians/Vola.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "major",
+      "location": "Raven’s Hold — occupied tower, prison room",
+      "scene": {
+        "label": "Into the Towers",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time_of_day": "evening",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session-recap.md"
+      },
+      "other_npcs_present": [],
+      "presence_status": "explicitly_no_other_npcs",
+      "context": "Kenzo introduces himself to the imprisoned Vola and unties her.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+          "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+          "start": "u1926",
+          "end": "u1945",
+          "start_line": 1926,
+          "end_line": 1945,
+          "recording_start": "02:31:47.070",
+          "recording_end": "02:33:13.800",
+          "duration_seconds": 86.73,
+          "excerpt": "[u1926 | 02:31:47.070-02:31:55.470 | DM] So, um, this woman like startles and then seems to control her reaction and you just hear a\n[u1927 | 02:31:57.120-02:32:00.600 | DM] Brief like mutter under her breath. Holy fuck.\n[u1928 | 02:32:01.920-02:32:02.310 | DM] And\n[u1929 | 02:32:02.820-02:32:05.010 | DM] Looks like she's looking around.\n[u1930 | 02:32:05.010-02:32:06.660 | Kenzo] I'm invisible, I'm invisible.\n[u1931 | 02:32:08.190-02:32:08.910 | DM] Are you\n[u1932 | 02:32:11.460-02:32:15.900 | DM] She's whispering What the bloody hell what is going on.\n[u1933 | 02:32:17.160-02:32:22.050 | Kenzo] Your guess is as good as mine. I don't know. I think I'm a friend.\n[u1934 | 02:32:23.370-02:32:26.130 | Kenzo] With my name is I'm Kenzo. What's your name,\n[u1935 | 02:32:28.020-02:32:28.740 | DM] Vola\n[u1936 | 02:32:29.580-02:32:34.350 | Kenzo] Vola, I have a feeling that whatever those beasts are\n[u1937 | 02:32:35.490-02:32:46.140 | Kenzo] They're not your friend. They're not my friend, either. I don't know if that automatic automatically makes us friends, but I feel like it's probably best for me to try to help you get out of the situation.\n[u1938 | 02:32:48.780-02:32:50.370 | DM] I can't argue with that.\n[u1939 | 02:32:53.040-02:32:56.820 | Kenzo] Are they gonna come back. Are they done for the night, you know, they're coming back up here.\n[u1940 | 02:32:58.830-02:33:01.290 | DM] Probably not for several hours at least\n[u1941 | 02:33:03.120-02:33:04.260 | Kenzo] Okay, um,\n[u1942 | 02:33:05.400-02:33:06.150 | Kenzo] She, she bound\n[u1943 | 02:33:07.260-02:33:09.300 | DM] Her hands are tied. Yeah, okay.\n[u1944 | 02:33:09.930-02:33:11.460 | Kenzo] I'm going to untie you okay\n[u1945 | 02:33:13.290-02:33:13.800 | Kenzo] I untie her"
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "The guards leave before this exchange (u1901–u1909). Other players speaking at the table are not present PCs."
+    },
+    {
+      "id": "dufr-010-interaction-02",
+      "session": 10,
+      "npc": {
+        "name": "Vola",
+        "note": "People/Chardonians/Vola.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "minor",
+      "location": "Raven’s Hold — occupied tower, prison room",
+      "scene": {
+        "label": "Into the Towers",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time_of_day": "evening",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session-recap.md"
+      },
+      "other_npcs_present": [],
+      "presence_status": "explicitly_no_other_npcs",
+      "context": "Kenzo gives Vola a healing potion before returning to organize her rescue.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+          "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+          "start": "u1991",
+          "end": "u2003",
+          "start_line": 1991,
+          "end_line": 2003,
+          "recording_start": "02:36:50.220",
+          "recording_end": "02:38:14.430",
+          "duration_seconds": 84.21,
+          "excerpt": "[u1991 | 02:36:50.220-02:36:53.640 | Kenzo] I sneak back up, um, Vola, your name's Vola\n[u1992 | 02:36:54.300-02:37:02.700 | Kenzo] Vola, Vola, Vola. Excuse me. Sorry, Vola Okay look, I can't attack these guys as soon as I do.\n[u1993 | 02:37:03.300-02:37:13.800 | Kenzo] I'm going to become visible again, it's going to cause a lot of attention. But, my friends. There's I've got four. I've got four companions with me. I think we can take these guards out quietly. Okay.\n[u1994 | 02:37:14.310-02:37:20.250 | Kenzo] So I'm going to go sneak back and get them there, in the other tower very, very close. Sit tight.\n[u1995 | 02:37:20.670-02:37:36.120 | Kenzo] Whatever you do, do not move do not cause alarm. We're going to kill the guard as quickly as quietly as we can. And then we'll, we'll come back and got you. Okay. Can you hang. Can you just hang here. And by the way, is she looks like she's like wounded and beaten and stuff. Right.\n[u1996 | 02:37:36.480-02:37:41.340 | DM] She is. She looks like sick and nearly dead. Yes.\n[u1997 | 02:37:41.430-02:37:50.130 | Kenzo] Oh wow, okay. And look here, drink this. So I pull out from my pouch. I give her, they're all equivalent, right, I've got a healing potion, and the healing mud and\n[u1998 | 02:37:50.370-02:37:52.410 | DM] Yeah, they're all the same, yes.\n[u1999 | 02:37:52.890-02:37:54.690 | Kenzo] I give her a healing potion.\n[u2000 | 02:37:55.020-02:38:00.780 | Kenzo] Drink this rest. I'll be back. We'll be back in we'll kill some guards and we'll get you out here. Okay.\n[u2001 | 02:38:04.440-02:38:11.520 | DM] She drinks it. She says, Thank you God that goes down. well. Yeah, I will.\n[u2002 | 02:38:12.630-02:38:13.920 | Kenzo] Just wait. We'll be back.\n[u2003 | 02:38:13.980-02:38:14.430 | DM] Okay."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "A separate evidence link within the same rescue scene."
+    },
+    {
+      "id": "dufr-010-interaction-03",
+      "session": 10,
+      "npc": {
+        "name": "Orc guard",
+        "note": null,
+        "resolution": "unresolved_or_unnamed"
+      },
+      "interaction": [
+        "fought"
+      ],
+      "importance": "major",
+      "location": "Raven’s Hold — occupied tower",
+      "scene": {
+        "label": "Into the Towers",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time_of_day": "evening",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session-recap.md"
+      },
+      "other_npcs_present": [],
+      "presence_status": "unknown",
+      "context": "Kenzo intercepts the fleeing orc and kills it with unarmed strikes.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+          "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+          "start": "u2496",
+          "end": "u2518",
+          "start_line": 2496,
+          "end_line": 2518,
+          "recording_start": "03:10:04.590",
+          "recording_end": "03:11:32.340",
+          "duration_seconds": 87.75,
+          "excerpt": "[u2496 | 03:10:04.590-03:10:08.220 | DM] Okay Ah that ends his turn, Kenzo, you're up.\n[u2497 | 03:10:09.030-03:10:14.910 | Kenzo] All right, I get over here and 30 battery here here.\n[u2498 | 03:10:18.270-03:10:20.460 | Delwath] Here just I'd run after him.\n[u2499 | 03:10:21.060-03:10:22.230 | Kenzo] Yeah, but I can get in front of them, right.\n[u2500 | 03:10:23.760-03:10:24.120 | Delwath] Yeah.\n[u2501 | 03:10:24.630-03:10:26.640 | DM] Yeah yeah and get in front of them. All right.\n[u2502 | 03:10:26.790-03:10:27.630 | Kenzo] I'll go right there. And I'll attack\n[u2503 | 03:10:29.460-03:10:29.820 | Unknown] I got\n[u2504 | 03:10:33.720-03:10:35.280 | DM] That misses.\n[u2505 | 03:10:36.300-03:10:40.140 | Kenzo] Unarmed. Oh, I'm going to use. I'm going to use one of my things\n[u2506 | 03:10:42.540-03:10:43.740 | Kenzo] Yeah, use Flurry of Blows.\n[u2507 | 03:10:43.920-03:10:45.300 | DM] Or two unarmed strikes.\n[u2508 | 03:10:47.160-03:10:48.930 | Kenzo] Or the first one.\n[u2509 | 03:10:50.160-03:10:50.700 | Kenzo] Nice.\n[u2510 | 03:10:51.000-03:10:51.720 | DM] That hits.\n[u2511 | 03:10:52.320-03:10:53.280 | Kenzo] And then I use Flurry.\n[u2512 | 03:10:56.940-03:10:57.630 | Unknown] Yes.\n[u2513 | 03:10:59.550-03:11:01.680 | Kenzo] Come on the dead yet.\n[u2514 | 03:11:02.490-03:11:05.340 | DM] Ah yes, with your, with your second punch.\n[u2515 | 03:11:07.710-03:11:12.060 | DM] Missed with your quarterstaff and he darts out of the way and then one hit.\n[u2516 | 03:11:13.620-03:11:24.240 | DM] Second hit he slumps down and it has these as these slipping away. He says here, I'm sort of muttering in his death.\n[u2517 | 03:11:27.720-03:11:29.820 | DM] Vengeance will be ours.\n[u2518 | 03:11:31.200-03:11:32.340 | DM] And he collapses."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Identity supplied by the surrounding combat and recap. This is an outcome excerpt, not the entire fight. Vola is upstairs; other NPC positions at this moment are not asserted."
+    },
+    {
+      "id": "dufr-010-interaction-04",
+      "session": 10,
+      "npc": {
+        "name": "Arcus",
+        "note": "People/Chardonians/Arcus.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "mention"
+      ],
+      "importance": "minor",
+      "location": "Raven’s Hold — refuge tower",
+      "scene": {
+        "label": "Vola and the Relic Race",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time_of_day": "evening",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session-recap.md"
+      },
+      "other_npcs_present": [
+        "Vola"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Wellby reports Arcus’s death; Vola later identifies him as another member of the Society.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+          "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+          "start": "u2724",
+          "end": "u2733",
+          "start_line": 2724,
+          "end_line": 2733,
+          "recording_start": "03:24:33.150",
+          "recording_end": "03:25:01.050",
+          "duration_seconds": 27.9,
+          "excerpt": "[u2724 | 03:24:33.150-03:24:35.730 | Delwath] What was the name of the guy who were investigating\n[u2725 | 03:24:36.300-03:24:37.140 | Wellby] I'll say to her.\n[u2726 | 03:24:38.280-03:24:38.430 | Wellby] Or\n[u2727 | 03:24:38.940-03:24:39.360 | Unknown] Did\n[u2728 | 03:24:40.890-03:24:41.310 | Kenzo] You say,\n[u2729 | 03:24:41.670-03:24:43.380 | Wellby] Let's say to her Arcus is dead.\n[u2730 | 03:24:43.710-03:24:44.190 | Seeker] Nice.\n[u2731 | 03:24:44.430-03:24:46.200 | Wellby] And watch her reaction very carefully.\n[u2732 | 03:24:47.850-03:24:54.750 | DM] She, she definitely reacts like she knows the name and seems\n[u2733 | 03:24:57.150-03:25:01.050 | DM] Like briefly sad, but then sort of tries to hide it."
+        },
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+          "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+          "start": "u2792",
+          "end": "u2793",
+          "start_line": 2792,
+          "end_line": 2793,
+          "recording_start": "03:29:49.680",
+          "recording_end": "03:29:57.660",
+          "duration_seconds": 7.98,
+          "excerpt": "[u2792 | 03:29:49.680-03:29:50.400 | DM] Arcus.\n[u2793 | 03:29:51.900-03:29:57.660 | DM] And she pauses for a moment looking somewhat sad was also a member of the society."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Two short passages support the two parts of the sentence."
+    },
+    {
+      "id": "dufr-010-interaction-05",
+      "session": 10,
+      "npc": {
+        "name": "Agata",
+        "note": "People/Fey/Agata.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "mention"
+      ],
+      "importance": "major",
+      "location": "Raven’s Hold — refuge tower",
+      "scene": {
+        "label": "Vola and the Relic Race",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time_of_day": "evening",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session-recap.md"
+      },
+      "other_npcs_present": [
+        "Vola"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Vola says Agata Dustmother is seeking imperial relics and that the Society is trying to obtain them first.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+          "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+          "start": "u2753",
+          "end": "u2776",
+          "start_line": 2753,
+          "end_line": 2776,
+          "recording_start": "03:26:52.020",
+          "recording_end": "03:28:29.310",
+          "duration_seconds": 97.29,
+          "excerpt": "[u2753 | 03:26:52.020-03:26:53.310 | DM] Well, I can tell you that\n[u2754 | 03:26:56.100-03:26:57.060 | DM] There's\n[u2755 | 03:26:59.430-03:27:01.110 | DM] A race of sorts.\n[u2756 | 03:27:03.990-03:27:05.670 | DM] For items, for relics.\n[u2757 | 03:27:07.200-03:27:07.890 | DM] There's a\n[u2758 | 03:27:09.060-03:27:09.930 | DM] Creature\n[u2759 | 03:27:11.760-03:27:13.950 | DM] Um, sort of fey demon\n[u2760 | 03:27:14.970-03:27:15.600 | DM] Some\n[u2761 | 03:27:16.980-03:27:20.850 | DM] Old spirit of the land or\n[u2762 | 03:27:22.020-03:27:26.520 | DM] Something I don't know quite what she is. Her name is Agata\n[u2763 | 03:27:28.200-03:27:30.600 | DM] They call her Agata Dustmother.\n[u2764 | 03:27:33.360-03:27:34.620 | DM] And she has been\n[u2765 | 03:27:36.030-03:27:37.470 | DM] Trying to find\n[u2766 | 03:27:39.720-03:27:43.290 | DM] Well relics lost pieces of the empire.\n[u2767 | 03:27:45.360-03:27:46.800 | DM] Much was lost.\n[u2768 | 03:27:48.000-03:27:49.380 | DM] Over the years, and\n[u2769 | 03:27:50.700-03:27:53.130 | DM] Some of us in Chardon\n[u2770 | 03:27:54.840-03:28:01.590 | DM] Some of us associated with the library, the Society of the Open Scroll are concerned about her.\n[u2771 | 03:28:02.970-03:28:04.170 | DM] Motivations\n[u2772 | 03:28:05.340-03:28:06.180 | DM] About her\n[u2773 | 03:28:10.230-03:28:11.490 | DM] Goals for this.\n[u2774 | 03:28:12.720-03:28:14.250 | DM] Collection project.\n[u2775 | 03:28:15.420-03:28:20.520 | DM] And have been trying to find what relics. We can before she gets them.\n[u2776 | 03:28:23.340-03:28:29.310 | DM] Why, exactly. She wants these artifacts. It's not clear, but I know it is not for something good."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Attributed report, not independent verification of Agata’s intentions."
+    },
+    {
+      "id": "dufr-010-interaction-06",
+      "session": 10,
+      "npc": {
+        "name": "Vola",
+        "note": "People/Chardonians/Vola.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "major",
+      "location": "Raven’s Hold — refuge tower",
+      "scene": {
+        "label": "Vola and the Relic Race",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-12",
+        "time_of_day": "evening",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session-recap.md"
+      },
+      "other_npcs_present": [],
+      "presence_status": "supported_subset",
+      "context": "Vola explains the Society’s race against Agata Dustmother for lost imperial relics.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+          "sha256": "e5f099a9283f4f09780d781fad853671a8ba2ce0d504f00561ef3088bc333dd9",
+          "start": "u2753",
+          "end": "u2776",
+          "start_line": 2753,
+          "end_line": 2776,
+          "recording_start": "03:26:52.020",
+          "recording_end": "03:28:29.310",
+          "duration_seconds": 97.29,
+          "excerpt": "[u2753 | 03:26:52.020-03:26:53.310 | DM] Well, I can tell you that\n[u2754 | 03:26:56.100-03:26:57.060 | DM] There's\n[u2755 | 03:26:59.430-03:27:01.110 | DM] A race of sorts.\n[u2756 | 03:27:03.990-03:27:05.670 | DM] For items, for relics.\n[u2757 | 03:27:07.200-03:27:07.890 | DM] There's a\n[u2758 | 03:27:09.060-03:27:09.930 | DM] Creature\n[u2759 | 03:27:11.760-03:27:13.950 | DM] Um, sort of fey demon\n[u2760 | 03:27:14.970-03:27:15.600 | DM] Some\n[u2761 | 03:27:16.980-03:27:20.850 | DM] Old spirit of the land or\n[u2762 | 03:27:22.020-03:27:26.520 | DM] Something I don't know quite what she is. Her name is Agata\n[u2763 | 03:27:28.200-03:27:30.600 | DM] They call her Agata Dustmother.\n[u2764 | 03:27:33.360-03:27:34.620 | DM] And she has been\n[u2765 | 03:27:36.030-03:27:37.470 | DM] Trying to find\n[u2766 | 03:27:39.720-03:27:43.290 | DM] Well relics lost pieces of the empire.\n[u2767 | 03:27:45.360-03:27:46.800 | DM] Much was lost.\n[u2768 | 03:27:48.000-03:27:49.380 | DM] Over the years, and\n[u2769 | 03:27:50.700-03:27:53.130 | DM] Some of us in Chardon\n[u2770 | 03:27:54.840-03:28:01.590 | DM] Some of us associated with the library, the Society of the Open Scroll are concerned about her.\n[u2771 | 03:28:02.970-03:28:04.170 | DM] Motivations\n[u2772 | 03:28:05.340-03:28:06.180 | DM] About her\n[u2773 | 03:28:10.230-03:28:11.490 | DM] Goals for this.\n[u2774 | 03:28:12.720-03:28:14.250 | DM] Collection project.\n[u2775 | 03:28:15.420-03:28:20.520 | DM] And have been trying to find what relics. We can before she gets them.\n[u2776 | 03:28:23.340-03:28:29.310 | DM] Why, exactly. She wants these artifacts. It's not clear, but I know it is not for something good."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Same evidence as the Agata mention; Agata is not present. About 7 p.m. is stated later at u2849–u2850, not assigned as an exact time here."
+    },
+    {
+      "id": "dufr-012-interaction-01",
+      "session": 12,
+      "npc": {
+        "name": "Vola",
+        "note": "People/Chardonians/Vola.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "color",
+      "location": "Raven’s Hold — gatehouse refuge",
+      "scene": {
+        "label": "Dawn at the Gatehouse",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-13",
+        "time_of_day": "dawn",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session-recap.md"
+      },
+      "other_npcs_present": [],
+      "presence_status": "supported_subset",
+      "context": "Vola quietly oils her armor and secures its straps as the party prepares for the day.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+          "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31",
+          "start": "u0069",
+          "end": "u0074",
+          "start_line": 69,
+          "end_line": 74,
+          "recording_start": "00:08:12.900",
+          "recording_end": "00:08:59.070",
+          "duration_seconds": 46.17,
+          "excerpt": "[u0069 | 00:08:12.900-00:08:19.710 | DM] Vola is shaken, but looks more well rested than some of the rest of you.\n[u0070 | 00:08:20.850-00:08:29.220 | DM] She's been sitting quietly by her bedroll occasionally like brushing short brown hair out of her eyes, but otherwise not seeming to move much as she\n[u0071 | 00:08:29.580-00:08:43.740 | DM] methodically oils her armor tightening down every strap, making sure that there's nothing that could make a strange noise no buckles loose that would clank as she moves.\n[u0072 | 00:08:45.060-00:08:51.690 | DM] Um, as the early morning sun casts the pale line of light from the Eastern window\n[u0073 | 00:08:53.760-00:08:54.750 | DM] As you all\n[u0074 | 00:08:56.850-00:08:59.070 | DM] Begin to sort of start your day."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Presence-only edge case: met is used broadly for shared scene presence, not a first meeting. A future present value would be more precise."
+    },
+    {
+      "id": "dufr-012-interaction-02",
+      "session": 12,
+      "npc": {
+        "name": "Vola",
+        "note": "People/Chardonians/Vola.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "minor",
+      "location": "Raven’s Hold — gatehouse",
+      "scene": {
+        "label": "The Gatehouse Ambush",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-13",
+        "time_of_day": "morning",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session-recap.md"
+      },
+      "other_npcs_present": [
+        "Gnoll patrol"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Vola throws shimmering blades at the gnolls alongside the party.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+          "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31",
+          "start": "u0402",
+          "end": "u0415",
+          "start_line": 402,
+          "end_line": 415,
+          "recording_start": "00:31:46.680",
+          "recording_end": "00:33:08.400",
+          "duration_seconds": 81.72,
+          "excerpt": "[u0402 | 00:31:46.680-00:31:48.840 | DM] Okay, so Vola's gonna now.\n[u0403 | 00:32:00.720-00:32:02.490 | DM] Okay, take a\n[u0404 | 00:32:04.020-00:32:12.570 | DM] So again, she just pulls her hand down like that and this shimmering blade appears in her hand and she just flings that I'm at the\n[u0405 | 00:32:14.190-00:32:15.240 | DM] Closest gnoll\n[u0406 | 00:32:18.240-00:32:19.140 | DM] Which hits.\n[u0407 | 00:32:25.860-00:32:25.980 | Unknown] Do\n[u0408 | 00:32:28.200-00:32:28.740 | Unknown] Come on.\n[u0409 | 00:32:30.810-00:32:32.610 | DM] Five Points damage.\n[u0410 | 00:32:37.110-00:32:38.790 | DM] And then she will. Oh.\n[u0411 | 00:32:40.410-00:32:40.770 | Unknown] Sorry.\n[u0412 | 00:32:45.480-00:32:47.730 | Unknown] Too many windows open. Come on.\n[u0413 | 00:32:56.490-00:32:59.670 | DM] Okay, and then she will with her other hand throw another one.\n[u0414 | 00:33:00.810-00:33:01.560 | DM] Which\n[u0415 | 00:33:07.410-00:33:08.400 | DM] Misses."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Vola is an ally, not an opponent. Do not mark her fought unless combat side is also modeled."
+    },
+    {
+      "id": "dufr-012-interaction-03",
+      "session": 12,
+      "npc": {
+        "name": "Vola",
+        "note": "People/Chardonians/Vola.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "major",
+      "location": "Raven’s Hold — gatehouse battlements",
+      "scene": {
+        "label": "Kenzo’s Last Stand",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-13",
+        "time_of_day": "morning",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session-recap.md"
+      },
+      "other_npcs_present": [
+        "Gnoll warriors"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Vola lowers a rope from the battlements to give Kenzo a way out of the melee.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+          "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31",
+          "start": "u1584",
+          "end": "u1596",
+          "start_line": 1584,
+          "end_line": 1596,
+          "recording_start": "01:53:13.590",
+          "recording_end": "01:54:07.140",
+          "duration_seconds": 53.55,
+          "excerpt": "[u1584 | 01:53:13.590-01:53:14.880 | DM] Let's see. Vola.\n[u1585 | 01:53:16.650-01:53:18.690 | DM] Nobody can see anything down there.\n[u1586 | 01:53:20.640-01:53:21.330 | Seeker] Um, yeah.\n[u1587 | 01:53:26.250-01:53:27.870 | Unknown] Yeah, let's see, can she get\n[u1588 | 01:53:30.300-01:53:31.740 | Unknown] She's to jump.\n[u1589 | 01:53:32.880-01:53:34.320 | DM] She is just gonna run\n[u1590 | 01:53:36.870-01:53:38.730 | DM] Like here above\n[u1591 | 01:53:40.020-01:53:40.530 | DM] And\n[u1592 | 01:53:42.240-01:53:44.970 | Riswynn] We sent the end of my term that I started moving forward. Stella.\n[u1593 | 01:53:45.570-01:53:45.810 | Unknown] Yes.\n[u1594 | 01:53:47.190-01:53:54.690 | DM] And she will get a rope show as over here by our capsule. Grab a rope in a grappling hook and hook the rope.\n[u1595 | 01:53:56.820-01:53:59.580 | DM] Onto the crenellations here and drop it down.\n[u1596 | 01:54:03.960-01:54:07.140 | DM] And that will end her turn so Kenzo you're up"
+        },
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+          "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31",
+          "start": "u1605",
+          "end": "u1608",
+          "start_line": 1605,
+          "end_line": 1608,
+          "recording_start": "01:54:35.580",
+          "recording_end": "01:54:51.210",
+          "duration_seconds": 15.63,
+          "excerpt": "[u1605 | 01:54:35.580-01:54:37.980 | Kenzo] If you want to run away. You can i mean\n[u1606 | 01:54:38.040-01:54:41.820 | DM] Vola dropped him rope down so you could you do see a rope\n[u1607 | 01:54:43.650-01:54:45.870 | DM] Crop from the\n[u1608 | 01:54:47.580-01:54:51.210 | DM] From right here. So there's now a rope hanging down like right there."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Enemy presence comes from the surrounding combat; the evidence here focuses on Vola’s assistance."
+    },
+    {
+      "id": "dufr-012-interaction-04",
+      "session": 12,
+      "npc": {
+        "name": "Captive hyenas",
+        "note": null,
+        "resolution": "unresolved_or_unnamed"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "minor",
+      "location": "Raven’s Hold — stables",
+      "scene": {
+        "label": "Captives and Corruption",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-13",
+        "time_of_day": "morning",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session-recap.md"
+      },
+      "other_npcs_present": [],
+      "presence_status": "supported_subset",
+      "context": "The captive hyenas tell Seeker that two-legged beasts captured them and have been starving them.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+          "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31",
+          "start": "u2272",
+          "end": "u2296",
+          "start_line": 2272,
+          "end_line": 2296,
+          "recording_start": "02:44:21.420",
+          "recording_end": "02:45:44.130",
+          "duration_seconds": 82.71,
+          "excerpt": "[u2272 | 02:44:21.420-02:44:23.850 | DM] Okay, so what do you want to—Seeker, what do you want to say.\n[u2273 | 02:44:25.980-02:44:26.970 | Seeker] Oh, I said it a minute ago.\n[u2274 | 02:44:28.560-02:44:31.200 | Seeker] will offer. We have some food. If you answer questions.\n[u2275 | 02:44:34.350-02:44:35.520 | DM] Yes, please.\n[u2276 | 02:44:36.510-02:44:38.370 | Seeker] How did you get here who brought you here.\n[u2277 | 02:44:44.730-02:44:47.610 | DM] The beasts with the two legs.\n[u2278 | 02:44:49.470-02:44:50.220 | DM] caught us\n[u2279 | 02:44:51.690-02:44:52.500 | DM] On our home.\n[u2280 | 02:44:55.350-02:44:57.120 | Seeker] How many days travel from here.\n[u2281 | 02:44:59.670-02:45:01.380 | DM] Several suns.\n[u2282 | 02:45:02.940-02:45:03.630 | Seeker] I'm\n[u2283 | 02:45:04.950-02:45:05.550 | Seeker] Kenzo can you\n[u2284 | 02:45:06.570-02:45:07.500 | Seeker] Might be able to answer.\n[u2285 | 02:45:10.110-02:45:12.060 | Kenzo] What did if they know what's happening to them.\n[u2286 | 02:45:13.470-02:45:13.710 | Seeker] Oh,\n[u2287 | 02:45:13.770-02:45:15.000 | Kenzo] That's what I'm what\n[u2288 | 02:45:15.420-02:45:17.790 | Seeker] What are they doing to you and your friends here.\n[u2289 | 02:45:21.870-02:45:22.680 | DM] Starving.\n[u2290 | 02:45:24.900-02:45:25.860 | DM] Starving us\n[u2291 | 02:45:27.330-02:45:27.870 | Seeker] Why\n[u2292 | 02:45:29.760-02:45:30.870 | DM] So hungry.\n[u2293 | 02:45:32.250-02:45:32.730 | Kenzo] I'm\n[u2294 | 02:45:33.180-02:45:34.260 | DM] Can't move\n[u2295 | 02:45:35.460-02:45:37.200 | DM] Please food.\n[u2296 | 02:45:40.470-02:45:44.130 | Seeker] Offer them, offer them. One little chunk of the rations."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Four unnamed animals treated as one group. Kenzo accompanies Seeker (u2177–u2187); Vola is not assumed present in the stable."
+    },
+    {
+      "id": "dufr-012-interaction-05",
+      "session": 12,
+      "npc": {
+        "name": "Agata",
+        "note": "People/Fey/Agata.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "mention"
+      ],
+      "importance": "minor",
+      "location": "Raven’s Hold — outer plaza",
+      "scene": {
+        "label": "Captives and Corruption",
+        "label_source": "recap"
+      },
+      "date": {
+        "value": "1748-04-13",
+        "time_of_day": "morning",
+        "basis": "session date plus recap chronology",
+        "source": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session-recap.md"
+      },
+      "other_npcs_present": [],
+      "presence_status": "unknown",
+      "context": "The table recalls that Vola’s captors had been talking about Agata Dustmother.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+          "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31",
+          "start": "u2524",
+          "end": "u2530",
+          "start_line": 2524,
+          "end_line": 2530,
+          "recording_start": "03:04:22.350",
+          "recording_end": "03:04:42.930",
+          "duration_seconds": 20.58,
+          "excerpt": "[u2524 | 03:04:22.350-03:04:23.760 | Seeker] Didn't we see an orc.\n[u2525 | 03:04:25.470-03:04:26.460 | DM] You killed an orc\n[u2526 | 03:04:27.480-03:04:30.360 | Kenzo] welder. The shapeshifter yet we killed two of them.\n[u2527 | 03:04:30.840-03:04:33.990 | DM] You killed an orc and two shapeshifting jackalweres\n[u2528 | 03:04:34.320-03:04:35.760 | DM] Who were who were\n[u2529 | 03:04:37.200-03:04:40.020 | DM] Vola's captors who were talking about, Agata\n[u2530 | 03:04:42.180-03:04:42.930 | Delwath] Dustmother"
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "DM reminder during discussion, not new NPC testimony. Flag as table_recall if only in-character mentions should count."
+    },
+    {
+      "id": "dufr-059-interaction-01",
+      "session": 59,
+      "npc": {
+        "name": "Enari",
+        "note": "People/Lizardfolk/Enari.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "major",
+      "location": "Bedez",
+      "scene": {
+        "label": "Meeting Enari",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-03",
+        "time_of_day": "sunset",
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Two unnamed lizardfolk babies"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Enari joins Kenzo and Izzarak and questions taking the two babies into danger.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u0333",
+          "end": "u0353",
+          "start_line": 333,
+          "end_line": 353,
+          "recording_start": "00:38:35.920",
+          "recording_end": "00:40:03.270",
+          "duration_seconds": 87.35,
+          "excerpt": "[u0333 | 00:38:35.920-00:38:40.200 | DM] and he looks up in it as he approaches, and he says\n[u0334 | 00:38:40.230-00:38:43.229 | DM] in in Lizardling to you, too.\n[u0335 | 00:38:45.540-00:38:50.259 | DM] So uh, I guess you're my companions for this journey. Huh?\n[u0336 | 00:38:52.640-00:38:55.680 | Kenzo] That very well. Looks like the case.\n[u0337 | 00:38:58.830-00:39:00.910 | Izzarak] I suppose that's how it's turned out.\n[u0338 | 00:39:02.140-00:39:03.799 | Izzarak] We'll be fellow travelers.\n[u0339 | 00:39:04.810-00:39:06.320 | Izzarak] Yeah, the five of us\n[u0340 | 00:39:07.580-00:39:09.129 | Unknown] five.\n[u0341 | 00:39:09.870-00:39:13.649 | DM] Oh, yes, he does. The double take, and looks over you?\n[u0342 | 00:39:14.890-00:39:16.459 | DM] You would bring a\n[u0343 | 00:39:17.380-00:39:21.840 | DM] such little ones into the danger we expect to face\n[u0344 | 00:39:22.330-00:39:23.209 | DM] Is that\n[u0345 | 00:39:23.420-00:39:24.899 | DM] wise.\n[u0346 | 00:39:25.540-00:39:27.579 | Izzarak] It is simply a necessity.\n[u0347 | 00:39:28.370-00:39:32.849 | Izzarak] I'm seeking to bring them home to their family.\n[u0348 | 00:39:34.910-00:39:38.729 | Izzarak] I know only that they need to return to the footprint of the gods.\n[u0349 | 00:39:45.080-00:39:46.239 | DM] They are not\n[u0350 | 00:39:47.580-00:39:48.470 | DM] he,\n[u0351 | 00:39:50.050-00:39:51.209 | DM] are they not\n[u0352 | 00:39:51.870-00:39:54.890 | DM] lizard folk babies, then\n[u0353 | 00:39:56.770-00:40:03.270 | Izzarak] They're certainly not ordinary Lizard folk babies. There's something special about them. I haven't quite been able to discern"
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Date follows the session timeline and Enari campaignInfo. The session narrative inconsistently says next morning; transcript explicitly says sunset at u0327. Izzarak is a guest PC."
+    },
+    {
+      "id": "dufr-059-interaction-02",
+      "session": 59,
+      "npc": {
+        "name": "Unnamed jaguar",
+        "note": null,
+        "resolution": "unresolved_or_unnamed"
+      },
+      "interaction": [
+        "mention"
+      ],
+      "importance": "minor",
+      "location": "Bedez",
+      "scene": {
+        "label": "The babies’ origins",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-03",
+        "time_of_day": "evening",
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Enari",
+        "Two unnamed lizardfolk babies"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Izzarak says a jaguar entrusted the two babies to him and explained their care.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u0401",
+          "end": "u0421",
+          "start_line": 401,
+          "end_line": 421,
+          "recording_start": "00:44:56.510",
+          "recording_end": "00:46:23.140",
+          "duration_seconds": 86.63,
+          "excerpt": "[u0401 | 00:44:56.510-00:44:58.629 | Kenzo] How long have you been caring for these two now\n[u0402 | 00:45:01.280-00:45:02.649 | Izzarak] several months?\n[u0403 | 00:45:03.220-00:45:07.379 | Kenzo] Have you noticed? Have you noticed anything particular about them?\n[u0404 | 00:45:08.750-00:45:10.799 | Izzarak] They're fussy, that's for sure.\n[u0405 | 00:45:10.890-00:45:15.740 | Izzarak] But who knows how they were treated before I got them. They were\n[u0406 | 00:45:15.900-00:45:17.970 | Izzarak] in the care of a\n[u0407 | 00:45:18.650-00:45:19.799 | Izzarak] the jaguar.\n[u0408 | 00:45:22.500-00:45:23.590 | Kenzo] Excuse me,\n[u0409 | 00:45:24.480-00:45:27.509 | Izzarak] uh yes, I I was um\n[u0410 | 00:45:28.800-00:45:30.240 | Izzarak] bestowed them\n[u0411 | 00:45:31.220-00:45:33.739 | Izzarak] in another another jungle far from here.\n[u0412 | 00:45:34.500-00:45:35.709 | Izzarak] And uh,\n[u0413 | 00:45:37.180-00:45:51.610 | Izzarak] that's right, Tim isn't it. You said a jaguar. Not yeah, jaguar I it it wouldn't have been super far from I mean, it would have been within the same kingdom Right? Not that thousand, not a thousand, but like one hundred.\n[u0414 | 00:45:52.450-00:45:54.200 | Izzarak] And\n[u0415 | 00:45:55.710-00:45:57.990 | Izzarak] ah! She told me what she knew,\n[u0416 | 00:46:01.160-00:46:02.949 | Izzarak] and asked me to take them on\n[u0417 | 00:46:03.680-00:46:05.249 | Izzarak] a great responsibility.\n[u0418 | 00:46:06.080-00:46:08.520 | Kenzo] What did she know about, or what did she know about them?\n[u0419 | 00:46:10.360-00:46:13.510 | Izzarak] Little to be honest, aside from what I've already told you,\n[u0420 | 00:46:19.050-00:46:20.560 | Izzarak] that, and some\n[u0421 | 00:46:21.420-00:46:23.140 | Izzarak] details of care and feeding,"
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Do not resolve the jaguar to a named character without additional evidence. Enari joins at u0315–u0353 and continues speaking at u0438 onward."
+    },
+    {
+      "id": "dufr-059-interaction-03",
+      "session": 59,
+      "npc": {
+        "name": "Arrosa",
+        "note": "People/Lizardfolk/Arrosa.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "minor",
+      "location": "Bedez",
+      "scene": {
+        "label": "Departure briefing",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-04",
+        "time_of_day": "morning",
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Enari",
+        "Elazar"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Arrosa describes lava spreading through the jungle without the expected volcanic eruption.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u0722",
+          "end": "u0749",
+          "start_line": 722,
+          "end_line": 749,
+          "recording_start": "01:08:03.320",
+          "recording_end": "01:10:14.430",
+          "duration_seconds": 131.11,
+          "excerpt": "[u0722 | 01:08:03.320-01:08:06.290 | Kenzo] What's the name of the the village elder again? The the woman\n[u0723 | 01:08:06.900-01:08:09.250 | Kenzo] Arrosa.\n[u0724 | 01:08:09.810-01:08:13.950 | Kenzo] So just as we're kind of meeting Kenzo, you know, pauses and looks at everyone again.\n[u0725 | 01:08:14.050-01:08:15.060 | Kenzo] And\n[u0726 | 01:08:15.380-01:08:26.120 | Kenzo] do any of you have any sense of what we should be looking for, What kind of disturbance. What's the nature of this threat? Has anything occurred like this before in the history that you can reflect upon.\n[u0727 | 01:08:39.700-01:08:40.719 | DM] Not\n[u0728 | 01:08:42.240-01:08:48.880 | DM] um. Arrosa Is kind of what is like helping sort of get everybody organized to see you off and says\n[u0729 | 01:08:49.729-01:08:54.040 | DM] not in the tales of our our people. Has.\n[u0730 | 01:08:56.149-01:08:58.569 | DM] Has this happened now? The\n[u0731 | 01:09:00.359-01:09:01.660 | DM] and\n[u0732 | 01:09:04.700-01:09:06.949 | DM] the legends say\n[u0733 | 01:09:08.350-01:09:11.740 | DM] the Azta Lekua is a magical place.\n[u0734 | 01:09:13.439-01:09:16.499 | DM] The volcano has always been there. Yes, and it\n[u0735 | 01:09:18.060-01:09:19.559 | DM] erupts.\n[u0736 | 01:09:21.470-01:09:22.849 | DM] Yes, but\n[u0737 | 01:09:24.779-01:09:26.510 | DM] never so.\n[u0738 | 01:09:31.540-01:09:33.290 | DM] Never so\n[u0739 | 01:09:33.540-01:09:35.500 | DM] quietly,\n[u0740 | 01:09:37.910-01:09:39.050 | Izzarak] currently.\n[u0741 | 01:09:40.010-01:09:41.290 | Izzarak] What do you mean by that?\n[u0742 | 01:09:43.060-01:09:44.319 | DM] Well,\n[u0743 | 01:09:46.580-01:09:50.500 | DM] so I've been told that if you approach,\n[u0744 | 01:09:51.100-01:09:55.630 | DM] there are lakes of lava cutting through the jungle,\n[u0745 | 01:09:58.580-01:09:59.820 | DM] and yet\n[u0746 | 01:10:01.280-01:10:04.470 | DM] no eruption, no cataclysm,\n[u0747 | 01:10:05.610-01:10:07.550 | DM] almost as if\n[u0748 | 01:10:10.010-01:10:11.779 | DM] the fire is just\n[u0749 | 01:10:11.850-01:10:14.430 | DM] welling up from the ground."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Morning departure from the dated session timeline; co-presence established at u0719–u0728."
+    },
+    {
+      "id": "dufr-059-interaction-04",
+      "session": 59,
+      "npc": {
+        "name": "Elazar",
+        "note": "People/Lizardfolk/Elazar.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "minor",
+      "location": "Bedez",
+      "scene": {
+        "label": "Departure briefing",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-04",
+        "time_of_day": "morning",
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Arrosa",
+        "Enari"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Elazar explains the teaching that conscious souls tame raw magic to give the world life.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u0760",
+          "end": "u0776",
+          "start_line": 760,
+          "end_line": 776,
+          "recording_start": "01:11:19.300",
+          "recording_end": "01:12:55.799",
+          "duration_seconds": 96.499,
+          "excerpt": "[u0760 | 01:11:19.300-01:11:24.220 | Izzarak] How might the elements, earth, fire, air, water\n[u0761 | 01:11:24.920-01:11:26.329 | Izzarak] come into play there.\n[u0762 | 01:11:33.590-01:11:34.809 | DM] Well,\n[u0763 | 01:11:42.260-01:11:46.779 | DM] she looks over, and and Elazar kind of cuts in there and says, Well,\n[u0764 | 01:11:52.220-01:11:53.230 | DM] the\n[u0765 | 01:11:56.860-01:12:00.189 | DM] the way our teachings explain\n[u0766 | 01:12:00.830-01:12:03.590 | DM] the life of a place like\n[u0767 | 01:12:04.510-01:12:06.150 | DM] this jungle,\n[u0768 | 01:12:07.300-01:12:10.690 | DM] the life of the world itself, the life of\n[u0769 | 01:12:11.680-01:12:14.210 | DM] our entire material realm,\n[u0770 | 01:12:20.260-01:12:22.660 | DM] magic given soul,\n[u0771 | 01:12:28.910-01:12:31.650 | DM] the world itself comes from\n[u0772 | 01:12:33.930-01:12:35.580 | DM] the power of\n[u0773 | 01:12:37.640-01:12:42.719 | DM] conscious souls taming the raw energy, the raw,\n[u0774 | 01:12:43.380-01:12:45.360 | DM] unchecked magic\n[u0775 | 01:12:47.160-01:12:50.589 | DM] of the magical realms of which the\n[u0776 | 01:12:51.230-01:12:55.799 | DM] the elemental planes of earth, air, fire, and water are the most famous."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Arrosa turns to Elazar at u0763; Enari’s presence is established at u0720."
+    },
+    {
+      "id": "dufr-059-interaction-05",
+      "session": 59,
+      "npc": {
+        "name": "Enari",
+        "note": "People/Lizardfolk/Enari.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "minor",
+      "location": "Jungle between Bedez and Azta Lekua",
+      "scene": {
+        "label": "Travel with Enari",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-04 to 1748-11-06",
+        "time_of_day": null,
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Two unnamed lizardfolk babies"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Enari recounts his travels and describes desert gnomes and human traders beyond the jungle.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u0838",
+          "end": "u0846",
+          "start_line": 838,
+          "end_line": 846,
+          "recording_start": "01:18:00.000",
+          "recording_end": "01:19:06.549",
+          "duration_seconds": 66.549,
+          "excerpt": "[u0838 | 01:18:00.000-01:18:12.599 | DM] And you know, as you walk you, you know you talk to Enari a bit. You You learn that um, you know he's he's travel quite extensively. He's quite curious about your\n[u0839 | 01:18:12.650-01:18:16.419 | DM] um. Your stories of\n[u0840 | 01:18:17.330-01:18:21.820 | DM] the West Kenzo, and especially anything that you're willing to share, but\n[u0841 | 01:18:21.980-01:18:23.230 | DM] and that\n[u0842 | 01:18:23.320-01:18:27.779 | DM] elven forests in the {{dentistry}}, and where your staff came from,\n[u0843 | 01:18:28.510-01:18:45.840 | Kenzo] Yeah, actually Kenzo, uh, Kenzo's super fucking. Curious, I mean, has been all month to about like. Where the fuck are we like? How big is the Lizard folk kingdom, like, you know. Has anybody here ever interacted with, like you know, non-lizard folk have other elves, humans or dwarves, or anybody else ever ended up out here.\n[u0844 | 01:18:46.890-01:18:59.459 | DM] So yeah, so he he can tell you a few stories about that. So So Enari is He's never actually. I mean, he's met humans. You're not the first human he's met. He's met. He's met lizard folk. He's not met a dwarf\n[u0845 | 01:18:59.600-01:19:02.569 | DM] um. He tells you that\n[u0846 | 01:19:02.650-01:19:06.549 | DM] he did once travel as far as the great Desert."
+        },
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u0858",
+          "end": "u0869",
+          "start_line": 858,
+          "end_line": 869,
+          "recording_start": "01:20:01.480",
+          "recording_end": "01:20:57.240",
+          "duration_seconds": 55.76,
+          "excerpt": "[u0858 | 01:20:01.480-01:20:05.319 | DM] so he is. He's as he's gone in there. So you keep going, maybe\n[u0859 | 01:20:06.250-01:20:13.409 | DM] at least a week's journey at least a few weeks journey. He doesn't know the exact distance you come to these mountains.\n[u0860 | 01:20:14.050-01:20:17.449 | DM] If you go on the other side of the mountains, there's a desert.\n[u0861 | 01:20:18.100-01:20:20.290 | DM] And in that desert live\n[u0862 | 01:20:20.680-01:20:25.259 | DM] people who call themselves gnomes. They they say they're the cousins of dwarves\n[u0863 | 01:20:26.960-01:20:29.269 | DM] who left the mountains\n[u0864 | 01:20:30.910-01:20:35.320 | DM] many, many, many, many years ago, thousands of years ago,\n[u0865 | 01:20:36.110-01:20:37.650 | DM] and settled\n[u0866 | 01:20:38.810-01:20:42.730 | DM] in the deserts of the East or the West from his perspective.\n[u0867 | 01:20:43.260-01:20:48.509 | DM] So he's met them. He's met humans. There's human ships sometimes come in trade\n[u0868 | 01:20:48.780-01:20:53.209 | DM] in the coastal. The kingdom goes all the way to the coast.\n[u0869 | 01:20:53.330-01:20:57.240 | DM] Human ships sometimes come and trade."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "The conversation falls within a narrated journey. No specific day is supported; retain a range instead of selecting November 5."
+    },
+    {
+      "id": "dufr-059-interaction-06",
+      "session": 59,
+      "npc": {
+        "name": "Somi-nai",
+        "note": "People/Fey/Somi-nai.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "major",
+      "location": "Azta Lekua — lava river",
+      "scene": {
+        "label": "Meeting the volcano spirit",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-06",
+        "time_of_day": null,
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Enari",
+        "Two unnamed lizardfolk babies"
+      ],
+      "presence_status": "supported_subset",
+      "context": "The rescued fire spirit introduces himself as Ember and identifies the volcano as his home.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u1765",
+          "end": "u1774",
+          "start_line": 1765,
+          "end_line": 1774,
+          "recording_start": "02:39:48.690",
+          "recording_end": "02:40:32.319",
+          "duration_seconds": 43.629,
+          "excerpt": "[u1765 | 02:39:48.690-02:39:50.059 | Izzarak] And who are you\n[u1766 | 02:39:54.360-02:39:59.940 | DM] kind of looks and like um sort of dances back away from you slightly.\n[u1767 | 02:40:01.840-02:40:03.239 | DM] You are late.\n[u1768 | 02:40:03.690-02:40:05.840 | DM] You are late, my friends,\n[u1769 | 02:40:06.420-02:40:08.110 | DM] maybe too late.\n[u1770 | 02:40:08.240-02:40:09.280 | Izzarak] Oh, dear,\n[u1771 | 02:40:14.930-02:40:17.369 | Izzarak] that is forward again.\n[u1772 | 02:40:21.680-02:40:24.489 | DM] My name you may call me\n[u1773 | 02:40:27.260-02:40:30.520 | DM] Ember. It translates into your tongue,\n[u1774 | 02:40:30.590-02:40:32.319 | DM] {{Sony, nigh}}."
+        },
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u1800",
+          "end": "u1809",
+          "start_line": 1800,
+          "end_line": 1809,
+          "recording_start": "02:42:29.680",
+          "recording_end": "02:43:10.160",
+          "duration_seconds": 40.48,
+          "excerpt": "[u1800 | 02:42:29.680-02:42:35.230 | DM] Well, the land does want to be fixed. At least my land, {{the palace of your land}}.\n[u1801 | 02:42:38.740-02:42:41.290 | DM] He looks up at them\n[u1802 | 02:42:41.700-02:42:44.840 | DM] at the uh volcano.\n[u1803 | 02:42:48.150-02:42:49.890 | DM] {{So me and I}}\n[u1804 | 02:42:50.840-02:42:53.670 | DM] that is me. That is my home,\n[u1805 | 02:42:56.620-02:42:58.259 | DM] the Lizard folk\n[u1806 | 02:42:58.410-02:42:59.520 | DM] um\n[u1807 | 02:43:00.700-02:43:03.830 | DM] call it {{sugar}}.\n[u1808 | 02:43:06.120-02:43:08.140 | DM] But that is not its name.\n[u1809 | 02:43:08.310-02:43:10.160 | DM] It's not my name."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Canonical spelling resolved through the session note and Somi-nai’s aliases; the transcript has uncertain spellings. Babies are carried by Izzarak, not interlocutors."
+    },
+    {
+      "id": "dufr-059-interaction-07",
+      "session": 59,
+      "npc": {
+        "name": "Motua",
+        "note": "People/Other Nonhumans/Motua.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "mention"
+      ],
+      "importance": "major",
+      "location": "Azta Lekua — lava river",
+      "scene": {
+        "label": "Somi-nai explains the disturbance",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-06",
+        "time_of_day": null,
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Somi-nai",
+        "Enari",
+        "Two unnamed lizardfolk babies"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Somi-nai identifies Motua as the great beast associated with the whirlwind and says it came from the Land of the Dead.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u1839",
+          "end": "u1846",
+          "start_line": 1839,
+          "end_line": 1846,
+          "recording_start": "02:45:31.070",
+          "recording_end": "02:45:58.710",
+          "duration_seconds": 27.64,
+          "excerpt": "[u1839 | 02:45:31.070-02:45:32.720 | DM] they've been ruined.\n[u1840 | 02:45:36.740-02:45:38.579 | DM] It all started with\n[u1841 | 02:45:38.870-02:45:40.619 | DM] Motua came.\n[u1842 | 02:45:42.980-02:45:44.210 | Izzarak] Is that it?\n[u1843 | 02:45:46.990-02:45:50.919 | DM] You know not even what you seek in these dangerous woods.\n[u1844 | 02:45:52.110-02:45:53.310 | Izzarak] That's true.\n[u1845 | 02:45:54.320-02:45:56.099 | DM] I pity you.\n[u1846 | 02:45:56.720-02:45:58.710 | DM] You will surely fail."
+        },
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u1851",
+          "end": "u1875",
+          "start_line": 1851,
+          "end_line": 1875,
+          "recording_start": "02:46:27.830",
+          "recording_end": "02:47:57.960",
+          "duration_seconds": 90.13,
+          "excerpt": "[u1851 | 02:46:27.830-02:46:29.409 | Unknown] Can you feel it?\n[u1852 | 02:46:31.490-02:46:33.039 | DM] Can you feel the\n[u1853 | 02:46:34.420-02:46:35.910 | DM] Whirlwind\n[u1854 | 02:46:36.630-02:46:39.410 | Kenzo] Kenzo points towards the whirlwind.\n[u1855 | 02:46:39.840-02:46:45.690 | Kenzo] I felt that since I arrived what's going on? What is that? The Lizard folk don't understand it, either.\n[u1856 | 02:46:47.160-02:46:48.520 | DM] Motua\n[u1857 | 02:46:50.370-02:46:51.270 | DM] Great\n[u1858 | 02:46:51.840-02:46:53.110 | DM] beast.\n[u1859 | 02:47:00.580-02:47:02.590 | Unknown] I don't know the word in\n[u1860 | 02:47:04.640-02:47:06.849 | DM] any tongue but my own\n[u1861 | 02:47:06.880-02:47:10.810 | DM] {{Ramanaka, Palmer, Kazoo}}\n[u1862 | 02:47:11.490-02:47:12.330 | DM] Up,\n[u1863 | 02:47:13.810-02:47:15.390 | DM] creature of the\n[u1864 | 02:47:17.560-02:47:19.090 | DM] the veil,\n[u1865 | 02:47:23.210-02:47:24.839 | Izzarak] a creature of the veil,\n[u1866 | 02:47:26.000-02:47:26.860 | DM] the\n[u1867 | 02:47:28.830-02:47:30.860 | DM] river of souls,\n[u1868 | 02:47:33.360-02:47:36.210 | DM] the border beyond, between life and death,\n[u1869 | 02:47:36.810-02:47:38.060 | Izzarak] the veil!\n[u1870 | 02:47:40.110-02:47:41.390 | Kenzo] What of the veil?\n[u1871 | 02:47:43.190-02:47:45.240 | DM] Where Motua came from?\n[u1872 | 02:47:46.530-02:47:47.920 | Kenzo] From beyond the veil\n[u1873 | 02:47:48.520-02:47:49.980 | Izzarak] and down the veil\n[u1874 | 02:47:50.700-02:47:53.809 | DM] not beyond. you misunderstand\n[u1875 | 02:47:55.590-02:47:57.960 | DM] from the land of the dead."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "This records Somi-nai’s account. Motua is not present; location is the conversation’s location, not Motua’s whereabouts."
+    },
+    {
+      "id": "dufr-059-interaction-08",
+      "session": 59,
+      "npc": {
+        "name": "Somi-nai",
+        "note": "People/Fey/Somi-nai.md",
+        "resolution": "resolved"
+      },
+      "interaction": [
+        "met"
+      ],
+      "importance": "major",
+      "location": "Azta Lekua — lava river",
+      "scene": {
+        "label": "Kenzo offers aid",
+        "label_source": "pilot_label"
+      },
+      "date": {
+        "value": "1748-11-06",
+        "time_of_day": null,
+        "basis": "session-note timeline; transcript relative chronology",
+        "source": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+      },
+      "other_npcs_present": [
+        "Enari",
+        "Two unnamed lizardfolk babies"
+      ],
+      "presence_status": "supported_subset",
+      "context": "Kenzo offers to calm Motua so the volcano spirit can regain control of the fire.",
+      "transcript": [
+        {
+          "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-cleaned.md",
+          "sha256": "35a0144b478596dadc8b8445f1a27539a0b6b2f0f0753e45bc598f8ff2763cfa",
+          "start": "u1933",
+          "end": "u1954",
+          "start_line": 1933,
+          "end_line": 1954,
+          "recording_start": "02:51:52.360",
+          "recording_end": "02:53:12.780",
+          "duration_seconds": 80.42,
+          "excerpt": "[u1933 | 02:51:52.360-02:51:53.659 | Kenzo] If we\n[u1934 | 02:51:54.730-02:51:57.990 | Kenzo] cause Motua to calm down or return home,\n[u1935 | 02:51:58.590-02:51:59.710 | Kenzo] Then\n[u1936 | 02:52:00.470-02:52:02.479 | Kenzo] will you be able to stop this\n[u1937 | 02:52:07.220-02:52:08.670 | DM] once?\n[u1938 | 02:52:09.640-02:52:12.570 | DM] All of fire was mine to command\n[u1939 | 02:52:13.770-02:52:16.730 | DM] I could. He reaches his hand, and sort of\n[u1940 | 02:52:16.840-02:52:19.250 | DM] I could push this way,\n[u1941 | 02:52:20.440-02:52:23.459 | DM] I could conduct it like a symphony. I could\n[u1942 | 02:52:26.690-02:52:29.420 | DM] control the flames.\n[u1943 | 02:52:31.680-02:52:34.549 | DM] Now Motua has destroyed it all.\n[u1944 | 02:52:35.870-02:52:36.960 | Izzarak] Well,\n[u1945 | 02:52:38.090-02:52:39.740 | Kenzo] what is your name, friend?\n[u1946 | 02:52:41.930-02:52:43.680 | DM] You may call me Ember\n[u1947 | 02:52:43.770-02:52:44.830 | Kenzo] Ember.\n[u1948 | 02:52:46.000-02:52:48.659 | Kenzo] Well, my name is Kenzo, and\n[u1949 | 02:52:49.520-02:52:52.030 | Kenzo] my friends and I here.\n[u1950 | 02:52:52.880-02:52:58.900 | Kenzo] We will do our best to tame Motua, or at least render its\n[u1951 | 02:53:01.120-02:53:02.410 | Kenzo] turbulence,\n[u1952 | 02:53:03.000-02:53:04.650 | Kenzo] so that you may do that\n[u1953 | 02:53:05.380-02:53:09.259 | Kenzo] regain your powers and tame this fire once more,\n[u1954 | 02:53:10.730-02:53:12.780 | DM] That would be most welcome."
+        }
+      ],
+      "review_status": "pilot_unreviewed",
+      "notes": "Same broad scene as the preceding records, but a separate short passage."
+    }
+  ]
+}

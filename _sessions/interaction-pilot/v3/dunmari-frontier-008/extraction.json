@@ -1,0 +1,779 @@
+{
+  "schema_version": 3,
+  "campaign": "dufr",
+  "session": "dunmari-frontier-008",
+  "segmentation_revision": 1,
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-source-cleaned.md",
+    "sha256": "4404bf20f27dadf6f28b6a781119166242cddc01084aa97e7d93ebd8940f82a6",
+    "kind": "transcript"
+  },
+  "supporting_sources": [
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+      "sha256": "8979de8a13eb8f65fa88dd47755c87577cbfe6118b44bc962e358fd0037b8fbe"
+    },
+    {
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md",
+      "sha256": "d69058678a564028f431010fe0f385b510b1e5eadcdbd1412507c155e6171fec"
+    },
+    {
+      "path": "People/Dunmari/Candrosa.md",
+      "sha256": "bc3d0d0124c8dac43dc1458b7241b20e4972cd2e6f73a3bd57f1274621223a72"
+    },
+    {
+      "path": "People/Dunmari/Kisa.md",
+      "sha256": "42c2c118468dc222a8b84f614c63a3589fbf52376c11cfcac2ac2dd3ce1f1804"
+    },
+    {
+      "path": "People/PCs/Dunmar Fellowship/Companions/Taster.md",
+      "sha256": "926672cfc30eff072d63973ace7dda876c3cd0778143adca4e232804d19ef1d1"
+    },
+    {
+      "path": "People/Other Nonhumans/Inakara.md",
+      "sha256": "bbb28b2aa9d8b1b819a65550b011b27a97adcbd6c41f18e9a85c0d43bb5abdf8"
+    }
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "startUid": "u0001",
+      "endUid": "u0344",
+      "location": "Road at the northern edge of the Dunmari plains",
+      "boundary": "Session opening; departure for the mountain stream follows.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "midmorning",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u0004"
+        ]
+      },
+      "type": "conversation"
+    },
+    {
+      "index": 2,
+      "startUid": "u0345",
+      "endUid": "u0453",
+      "location": "Mountain stream — marked boulders",
+      "boundary": "Walk to a new location and inspect the marked boulders.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "late morning",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u0004"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 3,
+      "startUid": "u0454",
+      "endUid": "u0481",
+      "location": "Route along the stream to the gorge",
+      "boundary": "Travel montage following the sequence of stones.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "late morning",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u0602; u0657–u0662"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 4,
+      "startUid": "u0482",
+      "endUid": "u0596",
+      "location": "Gorge mouth — entrance marker",
+      "boundary": "Stop at the gorge entrance to check its water.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "near noon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u0602; u0657–u0662"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 5,
+      "startUid": "u0597",
+      "endUid": "u0625",
+      "location": "Shaded gorge — narrowing tunnel entrance",
+      "boundary": "Enter the gorge; daylight disappears as its walls close overhead.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "noon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u0602; u0657–u0662"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 6,
+      "startUid": "u0626",
+      "endUid": "u0713",
+      "location": "Gorge mouth — horses and supplies",
+      "boundary": "Arrange to leave the horses outside before returning into the tunnel.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "noon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u0602; u0657–u0662"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 7,
+      "startUid": "u0714",
+      "endUid": "u1085",
+      "location": "Flooded entrance tunnel — metal sluice barrier",
+      "boundary": "Re-enter the tunnel; investigate and open the submerged barrier.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "noon to early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u0602; u0657–u0662"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 8,
+      "startUid": "u1086",
+      "endUid": "u1098",
+      "location": "Ascending tunnel and spiral passage",
+      "boundary": "Resume travel after draining the barrier; a 30–40 minute climb.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 9,
+      "startUid": "u1099",
+      "endUid": "u1280",
+      "location": "Guard chamber — lever and ceiling trapdoor",
+      "boundary": "Arrive in the small chamber; leave through its ceiling trapdoor.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 10,
+      "startUid": "u1281",
+      "endUid": "u1286",
+      "location": "Upper passage toward the rubble obstruction",
+      "boundary": "Travel roughly a quarter mile along the upper passage.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 11,
+      "startUid": "u1287",
+      "endUid": "u1344",
+      "location": "Upper passage — illusory rubble",
+      "boundary": "Stop at the obstruction and test the illusion.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "exploration"
+    },
+    {
+      "index": 12,
+      "startUid": "u1345",
+      "endUid": "u1382",
+      "location": "Descending passage — concealed exit door",
+      "boundary": "Move roughly 500 yards to the blank wall and open its hidden door.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 13,
+      "startUid": "u1383",
+      "endUid": "u1658",
+      "location": "Dwarven outpost — pool cavern entrance platform",
+      "boundary": "The door opens onto the inhabited cavern; negotiate with its ruler.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "conversation"
+    },
+    {
+      "index": 14,
+      "startUid": "u1659",
+      "endUid": "u1683",
+      "location": "Dwarven outpost — crossing the pool cavern",
+      "boundary": "The ruler leads the party across the pools to another cavern.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "travel"
+    },
+    {
+      "index": 15,
+      "startUid": "u1684",
+      "endUid": "u1848",
+      "location": "Dwarven outpost — ruined marketplace",
+      "boundary": "Enter the marketplace and question the ruler before searching.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "conversation"
+    },
+    {
+      "index": 16,
+      "startUid": "u1849",
+      "endUid": "u2807",
+      "location": "Dwarven outpost — ruined marketplace",
+      "boundary": "Combat begins with a tentacle attack and ends when the creature collapses.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "combat"
+    },
+    {
+      "index": 17,
+      "startUid": "u2808",
+      "endUid": "u2835",
+      "location": "Dwarven outpost — ruined marketplace",
+      "boundary": "Combat has ended; the party asks the ruler to honor the passage agreement.",
+      "date": {
+        "start": "1748-04-12",
+        "end": "1748-04-12",
+        "time": "early afternoon",
+        "basis": "Day from manifest and session note; time follows opening midmorning, explicit noon at the gorge, and the note’s early-afternoon encounter timeline.",
+        "evidence": [
+          "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml:drStart/drEnd",
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md#Timeline",
+          "u1094"
+        ]
+      },
+      "type": "conversation"
+    }
+  ],
+  "excluded_ranges": [
+    {
+      "startUid": "u2836",
+      "endUid": "u2907",
+      "reason": "Closing scheduling and unrelated table conversation."
+    }
+  ],
+  "entities": [
+    {
+      "id": "candrosa",
+      "label": "Candrosa",
+      "canonical_name": "Candrosa",
+      "note": "People/Dunmari/Candrosa.md",
+      "eligibility": "named",
+      "basis": "Named as the intended recipient of the centaurs’ warning in opening narration, u0005–u0006.",
+      "session_overview": "Candrosa is recalled as the intended recipient of the centaurs’ warning; she does not appear.",
+      "overview_records": [
+        "candrosa-0005"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "kisa",
+      "label": "Kisa",
+      "canonical_name": "Kisa",
+      "note": "People/Dunmari/Kisa.md",
+      "eligibility": "named",
+      "basis": "Named source of a recalled historical warning, u0134–u0144.",
+      "session_overview": "The party draws on Kisa’s earlier account of raids while interpreting the hyena-headed creatures; she does not appear.",
+      "overview_records": [
+        "kisa-0129"
+      ],
+      "quote_review": "not_applicable",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "taster",
+      "label": "Taster",
+      "canonical_name": "Taster",
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md",
+      "eligibility": "named",
+      "basis": "Seeker explicitly names and keeps this rabbit at u0586–u0589.",
+      "session_overview": "Seeker names and keeps Taster after testing the stream water on him, and the party carries and protects the rabbit during the outpost exploration.",
+      "overview_records": [
+        "taster-0547",
+        "taster-0620",
+        "taster-0707",
+        "taster-1299"
+      ],
+      "quote_review": "no_suitable_dialogue",
+      "kind": "npc",
+      "featured_quote_ids": []
+    },
+    {
+      "id": "inakara",
+      "label": "Cavern ruler",
+      "canonical_name": "Inakara",
+      "note": "People/Other Nonhumans/Inakara.md",
+      "eligibility": "individual",
+      "basis": "Distinct ruler negotiates passage and guides the party; session note resolves her as Inakara, but that name is not spoken in this transcript.",
+      "session_overview": "The cavern ruler demands help against a creature in exchange for passage, guides the party to it, watches their battle, and afterward declines to guarantee their onward safety.",
+      "overview_records": [
+        "inakara-1383",
+        "inakara-1974",
+        "inakara-2808"
+      ],
+      "quote_review": "selected",
+      "kind": "npc",
+      "featured_quote_ids": [
+        "inakara-2808-quote-1",
+        "inakara-1383-quote-1"
+      ]
+    },
+    {
+      "id": "d8-maps",
+      "kind": "item",
+      "label": "Riswynn’s maps of Raven’s Hold and the dwarven outpost",
+      "canonical_name": null,
+      "note": null,
+      "eligibility": "distinctive",
+      "basis": "The source explicitly asks Riswynn to get out the maps at u0237 and compares their features; treat this referenced pair as one navigation set.",
+      "session_overview": "The party consults Riswynn’s maps to choose an approach, orient itself inside the outpost, and interpret the route onward after the fight.",
+      "overview_records": [
+        "d8-maps-0187",
+        "d8-maps-1099",
+        "d8-maps-1684",
+        "d8-maps-2808"
+      ],
+      "quote_review": "no_suitable_excerpt",
+      "featured_quote_ids": []
+    }
+  ],
+  "interactions": [
+    {
+      "id": "candrosa-0005",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Opening narration recalls the centaurs leaving to warn Candrosa about the corruption.",
+      "transcript": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0006"
+        }
+      ],
+      "entity": "candrosa"
+    },
+    {
+      "id": "kisa-0129",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "overview": "The party recalls Kisa’s account of raids while considering the creatures’ origin.",
+      "transcript": [
+        {
+          "startUid": "u0129",
+          "endUid": "u0144"
+        }
+      ],
+      "entity": "kisa"
+    },
+    {
+      "id": "taster-0547",
+      "scenes": [
+        4
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Seeker tests the stream water on a rabbit, names him Taster, and decides to keep him.",
+      "transcript": [
+        {
+          "startUid": "u0547",
+          "endUid": "u0596"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0563",
+          "endUid": "u0564"
+        },
+        {
+          "startUid": "u0578",
+          "endUid": "u0589"
+        }
+      ],
+      "introduction": {
+        "startUid": "u0586",
+        "endUid": "u0586",
+        "kind": "dialogue",
+        "quote": "Previously unnamed rabbit. I now dub thee Taster."
+      },
+      "entity": "taster"
+    },
+    {
+      "id": "taster-0620",
+      "scenes": [
+        5
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "overview": "Seeker tells the party to watch Taster for effects from the water.",
+      "transcript": [
+        {
+          "startUid": "u0620",
+          "endUid": "u0624"
+        }
+      ],
+      "entity": "taster"
+    },
+    {
+      "id": "taster-0707",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "Seeker takes Taster along as the party leaves the horses outside.",
+      "transcript": [
+        {
+          "startUid": "u0707",
+          "endUid": "u0713"
+        }
+      ],
+      "entity": "taster"
+    },
+    {
+      "id": "taster-1299",
+      "scenes": [
+        11
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "Someone protectively strokes Taster when Kenzo suggests testing the illusory rubble with him.",
+      "transcript": [
+        {
+          "startUid": "u1299",
+          "endUid": "u1306"
+        }
+      ],
+      "entity": "taster"
+    },
+    {
+      "id": "inakara-1383",
+      "scenes": [
+        13,
+        14,
+        15
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party bargains for passage with the cavern ruler and follows her to the creature she demands they kill.",
+      "transcript": [
+        {
+          "startUid": "u1383",
+          "endUid": "u1848"
+        }
+      ],
+      "continuity": "One encounter continues across these location/time boundaries; other speakers and brief asides remain inside its source range.",
+      "excerpts": [
+        {
+          "startUid": "u1472",
+          "endUid": "u1524"
+        },
+        {
+          "startUid": "u1689",
+          "endUid": "u1703"
+        },
+        {
+          "startUid": "u1737",
+          "endUid": "u1744"
+        }
+      ],
+      "introduction": {
+        "startUid": "u1418",
+        "endUid": "u1418",
+        "kind": "description",
+        "quote": "black nails and sort of gray and purple skin that looks bruised"
+      },
+      "entity": "inakara",
+      "quotes": [
+        {
+          "startUid": "u1514",
+          "endUid": "u1515",
+          "id": "inakara-1383-quote-1",
+          "kind": "dialogue",
+          "quote": "Passage maybe yes But must help us first",
+          "speaker": "inakara",
+          "attribution": "The cavern ruler makes passage conditional on the party’s help."
+        }
+      ]
+    },
+    {
+      "id": "inakara-1974",
+      "scenes": [
+        16
+      ],
+      "interaction": "observed",
+      "importance": "cameo",
+      "overview": "During the fight, the party notices the cavern ruler watching and chuckling.",
+      "transcript": [
+        {
+          "startUid": "u1974",
+          "endUid": "u1979"
+        }
+      ],
+      "entity": "inakara"
+    },
+    {
+      "id": "inakara-2808",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "After the creature dies, the ruler points out the exit but declines to guarantee the party’s safety.",
+      "transcript": [
+        {
+          "startUid": "u2808",
+          "endUid": "u2835"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2809",
+          "endUid": "u2832"
+        }
+      ],
+      "quotes": [
+        {
+          "startUid": "u2827",
+          "endUid": "u2827",
+          "kind": "dialogue",
+          "quote": "The door is that way; you make safe passage for yourself.",
+          "speaker": "inakara",
+          "attribution": "DM voices this NPC during the surrounding direct exchange.",
+          "id": "inakara-2808-quote-1"
+        }
+      ],
+      "entity": "inakara"
+    },
+    {
+      "id": "d8-maps-0187",
+      "entity": "d8-maps",
+      "scenes": [
+        1
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "overview": "The party compares the maps and considers the outpost’s connection to Raven’s Hold and the Long Road.",
+      "transcript": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0344"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u0206",
+          "endUid": "u0243"
+        },
+        {
+          "startUid": "u0264",
+          "endUid": "u0275"
+        }
+      ]
+    },
+    {
+      "id": "d8-maps-1099",
+      "entity": "d8-maps",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "Inside the guard chamber, the party tries to locate itself on the incomplete sketch map.",
+      "transcript": [
+        {
+          "startUid": "u1099",
+          "endUid": "u1280"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1163",
+          "endUid": "u1176"
+        }
+      ]
+    },
+    {
+      "id": "d8-maps-1684",
+      "entity": "d8-maps",
+      "scenes": [
+        15
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "overview": "At the ruined marketplace, the party uses mapped landmarks to assess the surrounding passages.",
+      "transcript": [
+        {
+          "startUid": "u1684",
+          "endUid": "u1848"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u1725",
+          "endUid": "u1736"
+        },
+        {
+          "startUid": "u1775",
+          "endUid": "u1788"
+        }
+      ]
+    },
+    {
+      "id": "d8-maps-2808",
+      "entity": "d8-maps",
+      "scenes": [
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "overview": "After the fight, the party compares the ruler’s indicated route with the map.",
+      "transcript": [
+        {
+          "startUid": "u2808",
+          "endUid": "u2835"
+        }
+      ],
+      "excerpts": [
+        {
+          "startUid": "u2827",
+          "endUid": "u2835"
+        }
+      ]
+    }
+  ],
+  "review_notes": [
+    "Inakara is a secure identity match from the session note, but the transcript never supplies her name; the display label remains “Cavern ruler.”",
+    "Excluded generic roper, anonymous cavern inhabitants, departing centaurs, horses, rumored creatures, and incidental mention of Riswynn’s map-owning relative; combat still has its own scene.",
+    "“Tasty” at u0591 is an unconfirmed joking alternative for another rabbit; only Taster is clearly adopted and subsequently used.",
+    "Kisa’s information and Candrosa’s warning are reminders of prior events, not new meetings or evidence that either NPC is present.",
+    "The speaker of “Stroke the rabbit defensively” at u1306 is Unknown; the overview does not assign it to a particular PC.",
+    "The “40 minutes later” at u1261 occurs within a joke about geology, so it does not create a time skip.",
+    "Source excerpts are verbatim and retain transcript disfluencies. Scene indexes belong to this extraction, not the existing recap scenes.",
+    "Version 2 retest: full conversational encounters replace highlight-only bounds; original segmentation is retained for stable scene joins. NPC cards carry one session overview and a featured attributed quote where available.",
+    "Inakara’s negotiation and guided approach now form one interaction across scenes 13–15; combat observation and the subsequent exchange remain separate. Taster’s naming line is a PC introduction, not speech by the rabbit.",
+    "Version 3 adds important-item cards and one dominant type per scene; existing scene boundaries, indexes, dates and NPC encounter ranges are preserved. Extra NPC quotes stay inside the same conversations.",
+    "Item selection retains the consequential navigation maps; excludes ordinary weapons, armor, loose ball bearings and the outpost’s fixed mechanisms as inventory clutter."
+  ]
+}
