@@ -30,12 +30,6 @@ Elves speak Elvish, and their long lives give them time to learn the languages o
 
 Elves typically use a single given name, adding their generation, homeland, or both when further distinction is needed. Names often have a lyrical sound; endings such as *-o*, *-ion*, *-or*, and *-on* are common in male names, while *-e*, *-iel*, *-ril*, and *-eth* are common in female names. Many names are used without regard to gender.
 
-%%^Campaign:none%%
-Elven names are, generally speaking, strongly influenced by Tolkien's Elvish tongues, though this does not have to be the case for all elves everywhere. There is room for diverse naming traditions and unusual exceptions to this general pattern. 
-
-However, obvious departures from this tradition are best explained with an in-world reason. 
-%%^End%%
-
 ## Lifecycle
 _See more: [[Elven Cycle of Generations]]_
 

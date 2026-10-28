@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/ai]
+tags: [meta]
 name: Playing a Stoneborn
 dm_owner: joint
 dm_notes: none
@@ -30,6 +30,8 @@ A common story, if engaging with the lore of the stoneborn does not interest you
 Stoneborn in Taelgar typically have a single given name; in stoneborn society names are not gendered. Some stoneborn may also use the name of their community as a signifier, especially when traveling outside their homeland. 
 
 For some stoneborn, their training and discipline are as much a part of their identity as their family and community; these stoneborn may take a use name reflecting their skill. For example, a skilled stonemason may take the use name Stonebreaker or Stonecarver; a skilled warrior may take the use name Quickblade or Strongaxe; or a skilled teacher may take the use name Loremaster or Mindshaper. These use names are often used in place of a community name, and sometimes used in place of a birth name. A use name may also reflect the lineage of the master a stoneborn trained under. For example, a student of Maumak Ironforger might take the name Maumakandi or Maumakundi (student of Maumak), or adopt their master’s use name, Ironforger. Stoneborn often translate their use names into trade tongues when introducing themselves, though some prefer to use the Stoneborn form.
+
+Stoneborn names draw inspiration from Xhosa, while descriptive use names are often represented in English. These are starting points for inspiration rather than strict rules for every stoneborn name.
 
 To choose the name for your stoneborn character, you might consider one of the birth names below, or invent your own, which might not follow typical stoneborn conventions. You might also choose to invent a use name and/or a community name for your character. 
 

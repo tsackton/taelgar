@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 name: Playing a Centaur
 dm_owner: joint
 dm_notes: none
@@ -25,9 +25,10 @@ A simple answer if engaging with centaur lore is not of interest to you is that 
 
 ### Centaur Names
 
-Centaur names are diverse, often sharing the lyrical sound of Sylvan. Different bands may follow different naming traditions, and no single pattern is universal. For inspiration, you might draw on classical Greek names, choose one of the examples below, or invent your own.
+Centaur names are diverse, often sharing the lyrical sound of Sylvan. Different bands may follow different naming traditions. No single pattern is universal, and centaur names need not all follow these examples. For inspiration, you might draw on classical Greek names, choose one of the examples below, or invent your own.
 
 **Example Names:** Althea, Anthea, Damaris, Ianthe, Leander, Lysander, Melantha, Nereus, Phaedra, Theron
+**Named NPCs:** Tharandros, Omphale, Herasto, Theopheia
 
 ---
 ## Basic Traits

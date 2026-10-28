@@ -32,10 +32,6 @@ Centaurs speak their own language, rarely, but not never, taught to outsiders. M
 
 Centaur names are diverse, often sharing the lyrical sound of Sylvan. Different bands may follow different naming traditions, and there is no single naming pattern shared by all centaurs.
 
-%%^Campaign:none%%
-For names, follow the guidance for [[Languages#Sylvan|Sylvan]], drawing especially on classical Greek for inspiration. [[Tharandros]] and [[Omphale]] are existing examples. Different bands can have different naming traditions, and centaur names need not all follow these examples.
-%%^End%%
-
 ## Lifecycle
 
 Centaurs mature and age at broadly the same rate as humans. Some young adult centaurs leave their home bands to travel independently or seek another community, but this is not a universal custom.

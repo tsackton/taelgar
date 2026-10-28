@@ -29,6 +29,8 @@ Finally, you might want to consider your upbringing. Did you grow up in a tradit
 
 Dwarves typically have personal names, received or chosen during their pilgrimage to the Heart of the Mountain, and clan names which mark their familial associations. Conventionally, clan names are translated into Common, but you may wish to invent a dwarvish clan name for your character. Young dwarves who have not made their pilgrimage yet (and are thus without a thuhr or adult name) typically go by diminutive nicknames given by their parents, which tend to be one syllable and are genderless in dwarven society. 
 
+Dwarven names are, generally speaking, influenced by Tolkien's Dwarvish, with clan names represented in English ("Common"), but this does not have to be the case and there is room for diverse naming traditions and unusual exceptions to this general pattern.
+
 To choose a name for your dwarven character, you might consider using one of the choices below, looking at a [name list](https://www.dndbeyond.com/sources/dnd/xgte/character-names#Dwarf) or a [generator](https://thecollaborativegamer.wordpress.com/people/tables-for-creating-fantasy-names/names-dwarves/) for inspiration, or you might invent your own, which might not follow typical dwarven naming patterns. 
 
 **Male Names:** Adrik, Baern, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Vondal 
