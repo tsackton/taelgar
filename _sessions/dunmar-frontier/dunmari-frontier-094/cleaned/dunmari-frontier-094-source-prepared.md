@@ -805,7 +805,7 @@
 [u0805 | 01:20:49.330-01:20:55.830 | Delwath] done mari good job. Well, but bad like like Grump, roughly. Good job. Well, be.
 [u0806 | 01:20:56.220-01:21:00.809 | Delwath] you know. Keep keep them. Keep keep asking these questions.
 [u0807 | 01:21:00.830-01:21:05.760 | Delwath] Well, nice to see you standing in for nice to have somebody else do the talking for a change.
-[u0808 | 01:21:08.300-01:21:12.150 | DM] 
+[u0808 | 01:21:08.300-01:21:12.150 | DM] ...
 [u0809 | 01:21:12.460-01:21:13.790 | DM] He says.
 [u0810 | 01:21:15.620-01:21:17.030 | DM] Got you might
 [u0811 | 01:21:17.190-01:21:29.110 | DM] he like slides. The the third dragon tooth over, explains, and like waves his hand, and is like points to the markers, to the dwarves and the OP. Like packs, like packs.
@@ -1064,7 +1064,7 @@
 [u1064 | 01:44:59.340-01:45:01.720 | Delwath] talk in elvish to some of the
 [u1065 | 01:45:02.220-01:45:06.690 | Delwath] people staring or not in a unfriendly way, but just in sort of a
 [u1066 | 01:45:08.410-01:45:14.209 | Delwath] hottie type. Not even really Hottie, necessarily, but maybe a little hottie play up off Kenza's worst stereotypes.
-[u1067 | 01:45:14.640-01:45:16.890 | Delwath] 
+[u1067 | 01:45:14.640-01:45:16.890 | Delwath] ...
 [u1068 | 01:45:18.040-01:45:19.700 | Delwath] And occasionally, like, you know.
 [u1069 | 01:45:20.060-01:45:24.470 | Delwath] say something like.
 [u1070 | 01:45:24.900-01:45:25.840 | Delwath] you know.

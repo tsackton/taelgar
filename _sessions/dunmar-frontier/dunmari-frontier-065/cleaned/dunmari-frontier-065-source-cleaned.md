@@ -1293,7 +1293,7 @@
 [u1293 | 01:41:44.030-01:41:47.210 | DM] No, as long as you are willing to shout.
 [u1294 | 01:41:48.550-01:41:52.000 | Seeker] Oh, yeah,
 [u1295 | 01:41:53.540-01:41:56.730 | Spirala] So it's not good acoustics.
-[u1296 | 01:41:58.700-01:41:59.580 | Um] 
+[u1296 | 01:41:58.700-01:41:59.580 | Unknown] Um.
 [u1297 | 01:41:59.750-01:42:03.519 | Seeker] basically I want it to grapple the giant to try to cover its head.
 [u1298 | 01:42:04.510-01:42:05.550 | DM] Okay,
 [u1299 | 01:42:05.850-01:42:09.009 | DM] I would say, That's just a normal grapple.
