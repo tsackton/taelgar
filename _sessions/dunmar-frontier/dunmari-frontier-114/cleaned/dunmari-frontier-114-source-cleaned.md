@@ -136,7 +136,7 @@
 [u0136 | 00:12:37.500-00:12:40.160 | Riswynn] That is what. So that needs teleport.
 [u0137 | 00:12:40.320-00:12:46.370 | Riswynn] or we just kill one of us. Go to the land of the dead using plane shift.
 [u0138 | 00:12:46.490-00:12:49.950 | Riswynn] come back and unkill whoever.
-[u0139 | 00:12:49.950-00:12:52.959 | Seeker] Yeah. But but then we're down {{first.st}}
+[u0139 | 00:12:49.950-00:12:52.959 | Seeker] Yeah. But but then we're down a person
 [u0140 | 00:12:52.960-00:12:55.039 | Delwath] But he's dead, I mean.
 [u0141 | 00:12:55.040-00:12:56.449 | Seeker] It's a little risky.
 [u0142 | 00:12:56.450-00:12:59.960 | Delwath] We don't have to solve this right now, because we have to go get the other 3 pieces right.
@@ -150,7 +150,7 @@
 [u0150 | 00:13:18.090-00:13:19.940 | Kenzo] Can't come up with anything else.
 [u0151 | 00:13:20.740-00:13:26.879 | Kenzo] Yeah, Kenzo Kenzo will will die, will sacrifice himself for the party, as he has done on numerous occasions.
 [u0152 | 00:13:26.880-00:13:28.521 | Seeker] He kind of likes it.
-[u0153 | 00:13:28.850-00:13:30.940 | Riswynn] Wait. But in terms of {{weekend}}
+[u0153 | 00:13:28.850-00:13:30.940 | Riswynn] Wait. But in terms of weekend
 [u0154 | 00:13:30.940-00:13:43.260 | Riswynn] are we trying to do this before we go back to Vindristjarna and solve whatever problem is there? Are we fighting Apollyon after we figure out what's wrong on Vindristjarna?
 [u0155 | 00:13:43.260-00:13:44.230 | Riswynn] Oh, no!
 [u0156 | 00:13:44.460-00:13:45.250 | Riswynn] Oh, yeah.
@@ -452,7 +452,7 @@
 [u0452 | 00:37:20.770-00:37:24.033 | Kenzo] There's a meme right now with with
 [u0453 | 00:37:25.232-00:37:30.670 | Kenzo] Seeker walking closer, and underneath it says side quest, and then Riswynn, holding the arm, and then she's.
 [u0454 | 00:37:30.670-00:37:31.100 | Seeker] That's me!
-[u0455 | 00:37:31.100-00:37:32.640 | DM] West.
+[u0455 | 00:37:31.100-00:37:32.640 | DM] Quest.
 [u0456 | 00:37:34.180-00:37:34.770 | Kenzo] Think that much.
 [u0457 | 00:37:34.770-00:37:35.827 | Kenzo] I need you.
 [u0458 | 00:37:37.140-00:37:39.150 | Seeker] It's it's the one with the like. The 2 women.
@@ -478,12 +478,12 @@
 [u0478 | 00:38:44.950-00:38:48.250 | Delwath] The south building also looks kind of eaten on the map.
 [u0479 | 00:38:48.250-00:38:49.419 | DM] Well, maybe the.
 [u0480 | 00:38:50.870-00:38:51.689 | Delwath] Is it?
-[u0481 | 00:38:51.690-00:38:53.210 | Delwath] No, that's {{Alvin}}.
+[u0481 | 00:38:51.690-00:38:53.210 | Delwath] No, that's all vine.
 [u0482 | 00:38:54.570-00:38:55.100 | Delwath] Okay.
-[u0483 | 00:38:55.100-00:39:00.760 | DM] Building is {{Alvin}}, but this is like ruin. The only really intact ones are these.
+[u0483 | 00:38:55.100-00:39:00.760 | DM] Building is all vine, but this is like ruin. The only really intact ones are these.
 [u0484 | 00:39:01.410-00:39:03.220 | DM] I mean, the map is not perfect. Don't.
 [u0485 | 00:39:03.220-00:39:03.760 | Delwath] Right? Okay.
-[u0486 | 00:39:03.760-00:39:05.620 | DM] Map as complete gospel.
+[u0486 | 00:39:03.760-00:39:05.620 | DM] Take the map as complete gospel.
 [u0487 | 00:39:05.620-00:39:07.079 | Delwath] Yeah, yeah, yeah, sure.
 [u0488 | 00:39:09.582-00:39:14.970 | DM] You pass through and leave the plaza behind.
 [u0489 | 00:39:20.670-00:39:26.439 | DM] And as you step, sort of following the road.
@@ -535,7 +535,7 @@
 [u0535 | 00:43:19.320-00:43:20.580 | Seeker] Stuff that we're looking for.
 [u0536 | 00:43:20.580-00:43:24.109 | Riswynn] The human elf, friend, person, or the like.
 [u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, peronar.
-[u0538 | 00:43:26.940-00:43:30.420 | Riswynn] {{Karen, or thank}} Elf elf who hung out with humans.
+[u0538 | 00:43:26.940-00:43:30.420 | Riswynn] Peronar, thanks. Elf elf who hung out with humans.
 [u0539 | 00:43:32.030-00:43:33.760 | Seeker] Main quest, in other words.
 [u0540 | 00:43:34.420-00:43:35.140 | Riswynn] Okay.
 [u0541 | 00:43:36.820-00:43:37.890 | Riswynn] Always.
@@ -574,9 +574,9 @@
 [u0574 | 00:46:43.060-00:46:44.300 | Seeker] I would.
 [u0575 | 00:46:44.300-00:46:44.830 | Delwath] Avoid.
 [u0576 | 00:46:45.060-00:46:45.600 | Seeker] Good.
-[u0577 | 00:46:45.810-00:46:47.610 | Delwath] Is there a {{window with them}}
+[u0577 | 00:46:45.810-00:46:47.610 | Delwath] Is there a window with them
 [u0578 | 00:46:48.440-00:46:51.939 | Delwath] any quick? I mean, we probably have about what 5 seconds before.
-[u0579 | 00:46:52.280-00:46:54.830 | DM] {{President got a around.}}
+[u0579 | 00:46:52.280-00:46:54.830 | DM] You've got a round.
 [u0580 | 00:46:54.830-00:46:56.620 | Delwath] Any quick thoughts on how to avoid them.
 [u0581 | 00:46:57.720-00:46:58.830 | Riswynn] Dash.
 [u0582 | 00:47:00.390-00:47:02.929 | Delwath] Wait. We fought these guys before. Can they see invisible.
@@ -658,7 +658,7 @@
 [u0658 | 00:53:32.567-00:53:34.469 | Delwath] I'll be right back. I say.
 [u0659 | 00:53:40.500-00:53:50.050 | Riswynn] So we look up closely, investigate every doorway that's intact, and see if we see any
 [u0660 | 00:53:50.590-00:53:51.910 | Riswynn] symbols of.
-[u0661 | 00:53:52.900-00:53:53.630 | Riswynn] 3.rd
+[u0661 | 00:53:52.900-00:53:53.630 | Riswynn] Surf.
 [u0662 | 00:53:55.300-00:53:56.920 | Seeker] Yeah, you don't have only one
 [u0663 | 00:53:57.530-00:54:04.999 | Seeker] halfling. One would have a lower doorway, maybe like a more halfling sized set of architectural features.
 [u0664 | 00:54:05.850-00:54:12.480 | Seeker] It's probably closer to the water, like if there's a waterfront side.
@@ -674,7 +674,7 @@
 [u0674 | 00:54:49.950-00:54:51.190 | Riswynn] Our whole plan for the day.
 [u0675 | 00:54:51.190-00:54:52.630 | Seeker] We'll stick together.
 [u0676 | 00:54:53.480-00:54:53.850 | DM] Okay.
-[u0677 | 00:54:53.850-00:54:54.810 | Seeker] Storeway.
+[u0677 | 00:54:53.850-00:54:54.810 | Seeker] Doorway.
 [u0678 | 00:54:56.660-00:55:07.210 | DM] So. A good fraction of these taverns and inns are, you know, there's nothing
 [u0679 | 00:55:07.340-00:55:13.889 | DM] discernible. You do come, you know, after half an hour of searching.
 [u0680 | 00:55:15.210-00:55:23.629 | DM] you come to one area slightly north, so sort of heading, maybe up a little bit closer to the Customs House.
@@ -902,7 +902,7 @@
 [u0902 | 01:15:13.670-01:15:16.290 | Riswynn] And this creature is holding out its hand.
 [u0903 | 01:15:16.410-01:15:25.190 | DM] Standing there, causing the flames to erupt, and you can feel its glee and the horrific pain of the
 [u0904 | 01:15:25.970-01:15:31.642 | DM] people that are burning in the tavern and Seeker. You take
-[u0905 | 01:15:32.530-01:15:35.750 | DM] {{1119}} points of psychic damage.
+[u0905 | 01:15:32.530-01:15:35.750 | DM] 1119 points of psychic damage.
 [u0906 | 01:15:36.170-01:15:47.570 | DM] And then these memories, these images jump to Riswynn and Kenzo.
 [u0907 | 01:15:47.990-01:15:51.689 | DM] who each take 7 points of psychic damage.
 [u0908 | 01:15:52.720-01:15:53.710 | Kenzo] How much? 7.
@@ -920,14 +920,14 @@
 [u0920 | 01:16:46.980-01:16:50.929 | DM] Soul Sight, immune to necrotic and poison damage.
 [u0921 | 01:16:51.700-01:17:00.670 | DM] This particular guy here is only Cr. 6, not super strong, immune to
 [u0922 | 01:17:01.390-01:17:07.530 | DM] charmed, frightened, grappled, paralyzed, petrified, exhausted, poisoned, restrained,
-[u0923 | 01:17:11.710-01:17:17.839 | DM] bad at con, and int, or sorry, bad at con, and strength {{good in there as well}}.
+[u0923 | 01:17:11.710-01:17:17.839 | DM] bad at con, and int, or sorry, bad at con, and strength good in there as well.
 [u0924 | 01:17:18.650-01:17:21.030 | Kenzo] Okay, that's good. Oh, good at charisma.
 [u0925 | 01:17:22.850-01:17:25.560 | Kenzo] All right, I'm gonna do Aura Strike.
 [u0926 | 01:17:26.540-01:17:27.660 | Kenzo] Let's see.
 [u0927 | 01:17:29.930-01:17:34.609 | Kenzo] Alright. So 1st attack with advantage.
 [u0928 | 01:17:35.790-01:17:39.020 | Kenzo] Let's see 25.
 [u0929 | 01:17:39.920-01:17:41.130 | DM] Yep, that hits.
-[u0930 | 01:17:42.580-01:17:49.259 | Kenzo] Okay? And that does 7 damage and {{DC con. Save 12 or 16}} for Aura Strike.
+[u0930 | 01:17:42.580-01:17:49.259 | Kenzo] Okay? And that does 7 damage and DC con. Save 12 or 16 for Aura Strike.
 [u0931 | 01:17:49.260-01:17:50.080 | DM] Fails.
 [u0932 | 01:17:50.840-01:17:51.340 | Kenzo] Oh, great!
 [u0933 | 01:17:51.340-01:17:52.340 | DM] They're stunned.
@@ -977,7 +977,7 @@
 [u0977 | 01:20:56.270-01:20:57.030 | DM] Okay.
 [u0978 | 01:20:59.810-01:21:02.179 | Kenzo] So they must. Next.
 [u0979 | 01:21:02.380-01:21:07.429 | Kenzo] they must succeed on DC. 16, Dex save or take 2D. 10 plus 5 damage.
-[u0980 | 01:21:08.900-01:21:09.830 | DM] {{Opt out.}}
+[u0980 | 01:21:08.900-01:21:09.830 | DM] Wiped out.
 [u0981 | 01:21:11.350-01:21:14.619 | Kenzo] See this. Why this is why it was really hard to hurt. Alright.
 [u0982 | 01:21:14.620-01:21:15.859 | DM] Kenzo kills one.
 [u0983 | 01:21:16.320-01:21:18.179 | Kenzo] Yeah, I kill that one automatically. Right?
@@ -1011,7 +1011,7 @@
 [u1011 | 01:23:10.410-01:23:16.940 | Riswynn] Each undead of my choice within 30 feet of me must make a DC. 18. Wisdom saving throw.
 [u1012 | 01:23:17.720-01:23:18.320 | Riswynn] hey? Then.
 [u1013 | 01:23:18.320-01:23:19.070 | DM] Okay.
-[u1014 | 01:23:19.070-01:23:26.139 | Riswynn] {{Save}} it'll be frightened and incapacitated, and on top of that it.
+[u1014 | 01:23:19.070-01:23:26.139 | Riswynn] Fails the save, it'll be frightened and incapacitated, and on top of that it.
 [u1015 | 01:23:26.180-01:23:29.919 | Riswynn] or any creature that fails to save takes 5 d. 8 radiant damage.
 [u1016 | 01:23:30.960-01:23:32.949 | DM] Roll your radiant damage.
 [u1017 | 01:23:41.740-01:23:55.696 | DM] the 2 remaining sort of reddish flame creatures vanish to to Riswynn's
@@ -1074,10 +1074,10 @@
 [u1074 | 01:27:48.270-01:27:50.832 | DM] but the rock smashes into you
 [u1075 | 01:27:51.800-01:27:57.070 | DM] And knocks you prone
 [u1076 | 01:28:02.080-01:28:07.250 | DM] and then Delwath you feel this cold
-[u1077 | 01:28:08.710-01:28:15.939 | DM] despair close in around you. As {{2 full dessert}}.
+[u1077 | 01:28:08.710-01:28:15.939 | DM] despair close in around you. As 2 full dessert.
 [u1078 | 01:28:15.990-01:28:19.729 | DM] 18 and 17 does either of those hit.
 [u1079 | 01:28:19.990-01:28:21.620 | Delwath] 18. No, those don't hit.
-[u1080 | 01:28:22.150-01:28:28.110 | DM] {{Pumps stop, seeming like Wow!}}
+[u1080 | 01:28:22.150-01:28:28.110 | DM] Pumps stop, seeming like Wow!
 [u1081 | 01:28:28.540-01:28:32.820 | DM] Waves of force. Crash over you, and you manage to shake it off.
 [u1082 | 01:28:35.630-01:28:37.059 | DM] Seeker is up.
 [u1083 | 01:28:39.400-01:28:41.629 | Seeker] Who's throwing rocks around here?
@@ -1162,7 +1162,7 @@
 [u1162 | 01:34:24.310-01:34:28.639 | Riswynn] So there's no visible enemies. We know something is around making us feel uncomfortable.
 [u1163 | 01:34:29.000-01:34:32.190 | Riswynn] So I'm just gonna move.
 [u1164 | 01:34:33.210-01:34:33.830 | DM] Okay.
-[u1165 | 01:34:36.750-01:34:41.670 | Riswynn] Is my really operate technology. He.
+[u1165 | 01:34:36.750-01:34:41.670 | Riswynn] As I relearn to operate technology here.
 [u1166 | 01:34:42.280-01:34:42.940 | Riswynn] Okay.
 [u1167 | 01:34:49.553-01:34:51.100 | DM] Delwath. Do you want to do anything.
 [u1168 | 01:34:51.420-01:34:54.190 | Delwath] That we know something's around making us feel uncomfortable.
@@ -1198,8 +1198,8 @@
 [u1198 | 01:36:57.290-01:36:59.569 | DM] Most incorporeal undead are.
 [u1199 | 01:36:59.570-01:37:00.810 | Delwath] I figured.
 [u1200 | 01:37:00.810-01:37:06.180 | DM] Immune to exhaustion. It is now going to attack.
-[u1201 | 01:37:08.650-01:37:15.830 | DM] Let me see if that any changes. That's a 20
-[u1202 | 01:37:16.060-01:37:19.249 | DM] 7 to hit Delwath, and a 13 to hit Kenzo.
+[u1201 | 01:37:08.650-01:37:15.830 | DM] Let me see if that any changes. That's a twenty
+[u1202 | 01:37:16.060-01:37:19.249 | DM] seven to hit Delwath, and a 13 to hit Kenzo.
 [u1203 | 01:37:20.960-01:37:21.750 | Delwath] That'll hit.
 [u1204 | 01:37:23.210-01:37:33.299 | DM] And that is 13. Obviously misses Kenzo. Right? So again, a wave of like force strikes, Delwath doing
 [u1205 | 01:37:33.650-01:37:40.140 | DM] 17 points of damage. Another one strikes for Kenzo, but he easily dodges out of the way.
@@ -1285,7 +1285,7 @@
 [u1285 | 01:43:45.620-01:43:52.179 | DM] I mean, you can poke through the rubble if somebody wants to search. But there's nothing I mean, there's no upper story.
 [u1286 | 01:43:52.400-01:43:56.330 | DM] There's no at least obvious stairs stairs down.
 [u1287 | 01:43:57.556-01:43:58.649 | DM] There's basically.
-[u1288 | 01:43:58.650-01:43:59.900 | Riswynn] {{We need it housing.}}
+[u1288 | 01:43:58.650-01:43:59.900 | Riswynn] We need it housing.
 [u1289 | 01:44:00.460-01:44:06.539 | DM] Well, they came up through the ground, probably a basement, but there's not an obvious stairs down. That's what I just said.
 [u1290 | 01:44:06.540-01:44:09.219 | Seeker] Oh, I'll do tremor, sense.
 [u1291 | 01:44:10.606-01:44:19.160 | DM] There is a cellar directly underneath you, relatively small one, things
@@ -1432,7 +1432,7 @@
 [u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like Pyravela, or any of the
 [u1433 | 01:57:00.990-01:57:02.839 | DM] you know big, I mean
 [u1434 | 01:57:04.310-01:57:11.559 | DM] Pyravela. That thing you celebrated in Tollen was a holiday of the Eight Divines of Mos Numena.
-[u1435 | 01:57:11.580-01:57:19.090 | DM] {{Oma}}, you know for sure was celebrated in Drankor it could have been fireworks there. But but the
+[u1435 | 01:57:11.580-01:57:19.090 | DM] Um,, you know for sure was celebrated in Drankor it could have been fireworks there. But but the
 [u1436 | 01:57:20.700-01:57:29.300 | DM] the vibe is much more. This wasn't like associated with I mean the the Punch Bowl is decorated with fireworks like you really get the sense that the
 [u1437 | 01:57:29.610-01:57:32.670 | DM] whoever owned this tavern just liked fireworks.
 [u1438 | 01:57:33.080-01:57:35.460 | Seeker] I see in a more secular way.
@@ -1469,18 +1469,18 @@
 [u1469 | 01:59:22.080-01:59:25.260 | DM] and has a strong aura. This is a weak aura.
 [u1470 | 01:59:25.680-01:59:31.319 | Kenzo] Well, let's keep it. We don't find anything else, you know. Maybe this will do the trick, but if not, you know, see if we can find something.
 [u1471 | 01:59:31.320-01:59:36.969 | DM] It will increase the DC. That's required in order to succeed on the skill challenge to
-[u1472 | 01:59:37.490-01:59:38.550 | DM] {{those 3}}?
+[u1472 | 01:59:37.490-01:59:38.550 | DM] set those free?
 [u1473 | 01:59:39.110-01:59:43.960 | DM] Yes, won't be as easy as having a strong token. But it's not.
 [u1474 | 01:59:43.990-01:59:45.830 | DM] It's definitely something right.
 [u1475 | 01:59:47.290-01:59:52.980 | DM] It's just a question of whether you want to look elsewhere.
 [u1476 | 01:59:54.140-01:59:57.750 | Riswynn] And if we check other taverns we could find
 [u1477 | 01:59:58.430-02:00:00.710 | Riswynn] you could stumble on traces of
-[u1478 | 02:00:03.290-02:00:06.870 | Riswynn] {{had one}}. I'm gonna just say that word wrong forever.
-[u1479 | 02:00:07.930-02:00:09.310 | Riswynn] {{Hair more}}.
-[u1480 | 02:00:09.960-02:00:12.870 | Delwath] {{Part paranoid}}.
+[u1478 | 02:00:03.290-02:00:06.870 | Riswynn] had one. I'm gonna just say that word wrong forever.
+[u1479 | 02:00:07.930-02:00:09.310 | Riswynn] Hair more.
+[u1480 | 02:00:09.960-02:00:12.870 | Delwath] Part paranoid.
 [u1481 | 02:00:12.870-02:00:13.989 | DM] Peronar.
 [u1482 | 02:00:14.530-02:00:15.210 | Riswynn] Her.
-[u1483 | 02:00:15.210-02:00:15.810 | Delwath] {{Power, Board}}.
+[u1483 | 02:00:15.210-02:00:15.810 | Delwath] Power, Board.
 [u1484 | 02:00:15.810-02:00:17.150 | Riswynn] I've ever gotten.
 [u1485 | 02:00:17.380-02:00:18.370 | Seeker] Nice.
 [u1486 | 02:00:21.030-02:00:21.870 | Delwath] That.
@@ -1568,7 +1568,7 @@
 [u1568 | 02:06:51.230-02:06:52.020 | DM] Am, boys.
 [u1569 | 02:06:52.020-02:06:52.540 | Delwath] Yeah, that's fine.
 [u1570 | 02:06:52.540-02:06:53.979 | DM] 10. Am. Yeah.
-[u1571 | 02:06:54.700-02:07:02.820 | Riswynn] {{Speaker}} will do. I need to forego the short resting {{to be failing}}? I mean, you can.
+[u1571 | 02:06:54.700-02:07:02.820 | Riswynn] Speaker will do. I need to forego the short resting to be praying? I mean, you can.
 [u1572 | 02:07:02.960-02:07:07.550 | DM] Take a short rest for an hour and 10 min instead of an hour. It doesn't make that much difference.
 [u1573 | 02:07:07.550-02:07:10.330 | Delwath] But also, what do you get from a short rest? Just.
 [u1574 | 02:07:10.880-02:07:16.149 | Riswynn] Like. I don't need a short like. I don't get very much from a short rest, and I'm
@@ -1727,7 +1727,7 @@
 [u1727 | 02:19:55.750-02:20:01.229 | Riswynn] I'm just not sure of any other approach. No.
 [u1728 | 02:20:01.380-02:20:01.890 | Kenzo] Can't.
 [u1729 | 02:20:01.890-02:20:04.130 | Kenzo] There's been just like, you know, like
-[u1730 | 02:20:04.450-02:20:07.660 | Kenzo] {{how much to leave}} and make it make it like you know.
+[u1730 | 02:20:04.450-02:20:07.660 | Kenzo] how much to leave and make it make it like you know.
 [u1731 | 02:20:10.960-02:20:15.609 | Riswynn] You know I could just storm in there with my holy symbol and see what it thinks of it. Maybe it will leave.
 [u1732 | 02:20:21.140-02:20:23.650 | Kenzo] Fuck, do we just roll initiative and kill it?
 [u1733 | 02:20:24.250-02:20:24.985 | Delwath] Yeah.
@@ -1858,7 +1858,7 @@
 [u1858 | 02:29:43.730-02:29:44.716 | DM] That's right.
 [u1859 | 02:29:45.670-02:29:55.730 | DM] It is the shipping manifest of a ship called.
 [u1860 | 02:29:58.940-02:29:59.270 | Delwath] Well.
-[u1861 | 02:29:59.270-02:30:01.639 | DM] The Selim Shirgu.
+[u1861 | 02:29:59.270-02:30:01.639 | DM] The Selem Shurga.
 [u1862 | 02:30:01.640-02:30:05.870 | Delwath] Okay, sounds great. Let's not stand around and read it. Here, let's get out of here.
 [u1863 | 02:30:06.070-02:30:06.840 | Seeker] And yeah.
 [u1864 | 02:30:07.690-02:30:10.900 | DM] There is also, okay, go ahead. Well.
@@ -1909,7 +1909,7 @@
 [u1909 | 02:32:23.750-02:32:25.680 | DM] but you can run. That's fine.
 [u1910 | 02:32:25.680-02:32:31.110 | Delwath] Wait, wait! Wait! Did the Barazal tell us to look here, or look somewhere? I thought it was the docks.
 [u1911 | 02:32:34.080-02:32:36.600 | Delwath] What did the Barazal say, can you tell us again.
-[u1912 | 02:32:36.600-02:32:45.830 | Riswynn] Non-rhyming message did say the docks. But the DM. Seems to think that the {{trading medium}} is the dock.
+[u1912 | 02:32:36.600-02:32:45.830 | Riswynn] Non-rhyming message did say the docks. But the DM. Seems to think that the trading building is the dock.
 [u1913 | 02:32:45.830-02:32:48.609 | DM] The message said much.
 [u1914 | 02:32:49.570-02:32:58.230 | DM] many. What was it? Like? The docks of Drankor? Many things passed through the docks, including some desired by
 [u1915 | 02:32:58.350-02:33:00.429 | DM] Minarith or something like that.
@@ -1918,7 +1918,7 @@
 [u1918 | 02:33:14.140-02:33:19.969 | Riswynn] So if we read all the records, if we spent a while reading records, maybe we could find
 [u1919 | 02:33:20.520-02:33:23.779 | Riswynn] Minarith's name on a thing, even though they
 [u1920 | 02:33:24.040-02:33:27.589 | Riswynn] don't have a psychic link to the paperwork itself.
-[u1921 | 02:33:27.760-02:33:32.230 | Riswynn] The paperwork might say citizen Minarith, {{Kyle}}.
+[u1921 | 02:33:27.760-02:33:32.230 | Riswynn] The paperwork might say citizen Minarith, Kyle.
 [u1922 | 02:33:32.230-02:33:33.230 | Seeker] All the scrolls.
 [u1923 | 02:33:33.230-02:33:37.079 | Riswynn] Time’s—we're gonna run out of time to collect all the scrolls.
 [u1924 | 02:33:39.220-02:33:42.130 | Delwath] I mean, we probably only have 15 seconds left.
@@ -1972,7 +1972,7 @@
 [u1972 | 02:36:57.150-02:37:00.280 | DM] it! It seems like there were.
 [u1973 | 02:37:08.050-02:37:11.620 | DM] You know, you can sort of begin to build a picture from this of
 [u1974 | 02:37:12.460-02:37:17.939 | DM] 1st of all, the just massive quantities of grain shipments that were coming in all the time. Just
-[u1975 | 02:37:18.430-02:37:25.030 | DM] every, you know, {{cost}} many records of like the grain from X grain from y
+[u1975 | 02:37:18.430-02:37:25.030 | DM] every, you know, cost many records of like the grain from X grain from y
 [u1976 | 02:37:25.800-02:37:28.258 | DM] goods coming up and down the river.
 [u1977 | 02:37:29.560-02:37:35.920 | DM] it seems like not only did some things go towards the
 [u1978 | 02:37:38.920-02:37:45.670 | DM] you know, to the merchants, but there was also, potentially, you think maybe 3 universities in Drankor?
@@ -2020,7 +2020,7 @@
 [u2020 | 02:40:15.380-02:40:17.300 | Seeker] Wait. Do we know anything about what
 [u2021 | 02:40:17.320-02:40:19.450 | Seeker] that word means? Is it a person.
 [u2022 | 02:40:19.450-02:40:22.270 | Seeker] the person that's the person we're looking for? Right.
-[u2023 | 02:40:22.570-02:40:24.029 | Kenzo] Yes, the {{parent paramour}}.
+[u2023 | 02:40:22.570-02:40:24.029 | Kenzo] Yes, the per—peronar.
 [u2024 | 02:40:24.810-02:40:26.150 | Seeker] Oh! The.
 [u2025 | 02:40:26.150-02:40:27.840 | Kenzo] Yeah, man. So we do have to go back and fight.
 [u2026 | 02:40:27.840-02:40:31.029 | Delwath] Well, does anybody want? I could just cast Sanctuary, and somebody could just
@@ -2065,7 +2065,7 @@
 [u2065 | 02:43:03.570-02:43:05.140 | Delwath] Oh, yeah. Yeah. Yeah.
 [u2066 | 02:43:05.140-02:43:06.506 | DM] You. You don't get your
 [u2067 | 02:43:06.780-02:43:07.400 | Delwath] Yeah, yeah.
-[u2068 | 02:43:07.400-02:43:14.216 | DM] {{Happy birthday}}. Yeah. Okay, it's now going to
+[u2068 | 02:43:07.400-02:43:14.216 | DM] Happy birthday. Yeah. Okay, it's now going to
 [u2069 | 02:43:15.350-02:43:19.539 | DM] 2 fists appear, and it's going to punch at you, Kenzo.
 [u2070 | 02:43:20.200-02:43:23.950 | DM] That's a 22 and a 26.
 [u2071 | 02:43:26.200-02:43:29.850 | DM] The 1st one does.
