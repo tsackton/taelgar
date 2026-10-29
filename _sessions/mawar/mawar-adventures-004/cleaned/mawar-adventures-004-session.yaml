@@ -39,3 +39,22 @@ participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-prepared.md
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 3192
+  issues: 0
+  artifacts:
+    original:
+      path: sources/merged.transcript.vtt
+      sha256: de91743b8225bd6d56334f1c76340837b0a4bb0008967f18d3441a4bd14d6115
+    prepared:
+      path: cleaned/mawar-adventures-004-source-prepared.md
+      sha256: 4857e27cc0528f50cd8baac04f13599478af4afccd933222b9836466296ec71a
+    cleaned:
+      path: cleaned/mawar-adventures-004-source-cleaned.md
+      sha256: 6c8c0f97aba1cbc7427e2d463417c1882c6bddabc632573779bfc50fc7a61f19
+    polishedMarkdown:
+      path: cleaned/mawar-adventures-004-transcript.md
+      sha256: 4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9
