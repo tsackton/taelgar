@@ -172,7 +172,7 @@
 [u0172 | 00:08:38.676-00:08:39.056 | Seeker] Size of the globe.
 [u0173 | 00:08:39.056-00:08:43.696 | DM] Right, whether it's, whether it's even a, a globe or not.
 [u0174 | 00:08:43.696-00:08:44.625 | DM] Um, I have-
-[u0175 | 00:08:44.625-00:08:49.576 | Wellby] Well, I did know as a key part of geology is planetary weather systems.
+[u0175 | 00:08:44.625-00:08:49.576 | Wellby] Well, I did know a key part of geology is planetary weather systems.
 [u0176 | 00:08:49.576-00:08:49.706 | Kenzo] [laughs]
 [u0177 | 00:08:49.706-00:08:55.336 | Seeker] [laughs] This is what I'm saying, simulation and modeling of atmospheric disturbances.
 [u0178 | 00:08:56.676-00:08:57.976 | Seeker] Gotta know these things. Um,
@@ -1563,7 +1563,7 @@
 [u1563 | 01:26:14.716-01:26:20.636 | Riswynn] And I am on a quest, uh, for the benefit of my clan.
 [u1564 | 01:26:20.636-01:26:30.916 | Riswynn] Um, I don't know what you've heard or what your connection is to Raven's Hold, but, uh, we dwarves are aware that, uh, there are some rumors that dwarvish artifacts
 [u1565 | 01:26:30.916-01:26:35.476 | Riswynn] are disappearing into the west, and of course we don't approve.
-[u1566 | 01:26:35.476-01:26:45.596 | Riswynn] And, and there are people, uh, there, there are dwarves who've manned a, a larger quest to sort of retrieve a, a massive, a massive
+[u1566 | 01:26:35.476-01:26:45.596 | Riswynn] And, and there are people, uh, there, there are dwarves who've mounted a, a larger quest to sort of retrieve a, a massive, a massive
 [u1567 | 01:26:45.596-01:26:55.636 | Riswynn] push of restoring things that we had left behind in our exodus from, uh, the Central Mountains when we moved down to the, to, uh, the Nardith,
 [u1568 | 01:26:55.636-01:26:58.176 | Riswynn] um, and the Yuvanti.
 [u1569 | 01:26:58.176-01:27:00.956 | Riswynn] And so we, uh,
@@ -2693,7 +2693,7 @@
 [u2693 | 02:32:17.456-02:32:17.696 | Seeker] Hmm.
 [u2694 | 02:32:17.696-02:32:19.675 | DM] Uh, that misses.
 [u2695 | 02:32:19.676-02:32:20.296 | Seeker] Hmm.
-[u2696 | 02:32:20.296-02:32:21.496 | Riswynn] I'm falling into this battle.
+[u2696 | 02:32:20.296-02:32:21.496 | Riswynn] I'm failing in this battle.
 [u2697 | 02:32:24.616-02:32:34.936 | Riswynn] Um, but despite that, I am [laughs] then going to ground myself and sort of mutter as I seek a deeper connection to my, uh, divinities
 [u2698 | 02:32:34.936-02:32:40.216 | Riswynn] and, um, cast Spiritual Weapon in the shape of a
 [u2699 | 02:32:41.416-02:32:50.724 | Riswynn] flaming war hammer. You know, a nice, uh, dwarvish symbol of might that's going to appear Um, do I have to...
@@ -2783,7 +2783,7 @@
 [u2783 | 02:36:10.784-02:36:11.844 | Wellby] Oh, no, I won't do with the-
 [u2784 | 02:36:11.844-02:36:12.584 | DM] And then the stairs are just, you know
 [u2785 | 02:36:12.584-02:36:14.064 | Wellby] ... All right. So I'm gonna move five.
-[u2786 | 02:36:14.064-02:36:17.884 | Wellby] I'm a new, um, attempt to hide.
+[u2786 | 02:36:14.064-02:36:17.884 | Wellby] I'm gonna, um, attempt to hide.
 [u2787 | 02:36:17.884-02:36:18.164 | DM] Okay.
 [u2788 | 02:36:19.824-02:36:25.384 | Wellby] And then I'm gonna attack, uh, from, I assume that is successful.
 [u2789 | 02:36:25.384-02:36:25.644 | DM] Yes.
@@ -2941,7 +2941,7 @@
 [u2941 | 02:43:48.222-02:43:49.632 | Seeker] [laughs]
 [u2942 | 02:43:49.632-02:43:49.972 | Kenzo] Wow.
 [u2943 | 02:43:49.972-02:43:50.132 | Riswynn] What?
-[u2944 | 02:43:50.132-02:43:51.092 | Kenzo] Runes have been inflicted.
+[u2944 | 02:43:50.132-02:43:51.092 | Kenzo] Wounds have been inflicted.
 [u2945 | 02:43:51.092-02:43:52.252 | Seeker] Wow.
 [u2946 | 02:43:52.252-02:43:54.052 | DM] That's, that's a good roll.
 [u2947 | 02:43:54.052-02:43:54.712 | Seeker] That's huge.
@@ -3524,7 +3524,7 @@
 [u3524 | 03:13:17.822-03:13:23.562 | DM] more powerful magics that can summon demons and other creatures like that.
 [u3525 | 03:13:23.562-03:13:23.582 | DM] Um,
 [u3526 | 03:13:24.922-03:13:26.202 | DM] so it's definitely possible.
-[u3527 | 03:13:26.202-03:13:29.082 | DM] It's something you've aware is, uh,
+[u3527 | 03:13:26.202-03:13:29.082 | DM] It's something you're aware is, uh,
 [u3528 | 03:13:31.002-03:13:35.142 | DM] not out of the realm of possibility, but it requires fairly powerful magics to do.
 [u3529 | 03:13:46.782-03:13:47.122 | Seeker] Uh,
 [u3530 | 03:13:48.422-03:13:52.842 | Seeker] we should try to regroup and, and make sure nothing else comes in.
@@ -3542,7 +3542,7 @@
 [u3542 | 03:14:19.902-03:14:22.742 | Wellby] Yeah, the, it's, it's all retributive justice.
 [u3543 | 03:14:22.742-03:14:23.442 | Seeker] [laughs]
 [u3544 | 03:14:24.862-03:14:25.602 | Seeker] Retributive.
-[u3545 | 03:14:25.602-03:14:29.102 | Wellby] There's no sense of restorative justice in Kalgura.
+[u3545 | 03:14:25.602-03:14:29.102 | Wellby] There's no sense of restorative justice in Karawa.
 [u3546 | 03:14:30.122-03:14:31.662 | Seeker] [laughs] Brutal.
 [u3547 | 03:14:33.502-03:14:36.042 | Delwath] So I think there's no way that it, I mean,
 [u3548 | 03:14:37.622-03:14:38.882 | DM] yeah, it doesn't...
