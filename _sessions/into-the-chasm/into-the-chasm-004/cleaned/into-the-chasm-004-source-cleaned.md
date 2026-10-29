@@ -3,27 +3,27 @@
 [u0003 | 00:00:18.850-00:00:25.979 | DM] So… when we… Left our intrepid heroes.
 [u0004 | 00:00:27.540-00:00:35.949 | DM] They were… you were, hiding in Khaled and… Nura… Nura's house.
 [u0005 | 00:00:36.190-00:00:39.130 | DM] family of Kalima.
-[u0006 | 00:00:39.550-00:00:46.950 | DM] a small… Sort of one and a half room… Hot in this.
+[u0006 | 00:00:39.550-00:00:46.950 | DM] a small… Sort of one and a half room… Hut in this.
 [u0007 | 00:00:47.960-00:00:58.490 | DM] Odd village set on the side of the chasm in a mysterious land where the sun never seems to set, or at least only sets rarely.
 [u0008 | 00:00:58.670-00:01:03.610 | DM] ruled by… Lord…
-[u0009 | 00:01:04.200-00:01:17.200 | DM] Oh, I gotta find… I have my wrong notes. Ruled by this… this lord, lord Foraquin… Foraquin, the Frostbinder, also called Malk… Malquin.
+[u0009 | 00:01:04.200-00:01:17.200 | DM] Oh, I gotta find… I have my wrong notes. Ruled by this… this lord, lord Forquarion… Forquarion, the Frostbinder, also called Malk… Malquin.
 [u0010 | 00:01:18.180-00:01:22.570 | DM] and, you had just…
 [u0011 | 00:01:24.950-00:01:41.390 | DM] discovered not very much about the people here. Khaled and Nura were not that talkative. Kalima was withdrawn and shaken from her experience. The… but you did,
-[u0012 | 00:01:42.260-00:01:46.760 | DM] through Finnan's clairvoyance, C…
-[u0013 | 00:01:48.030-00:01:50.180 | Audio shared by Mike] Foraquin.
+[u0012 | 00:01:42.260-00:01:46.760 | DM] through Finnan's clairvoyance, see…
+[u0013 | 00:01:48.030-00:01:50.180 | Audio shared by Mike] Forquarion.
 [u0014 | 00:01:50.180-00:01:55.749 | DM] Send a group of… A bunch of,
 [u0015 | 00:01:57.780-00:02:04.879 | DM] A group of a bunch of, soldiers, from his ice palace.
 [u0016 | 00:02:06.150-00:02:15.319 | DM] Across a bridge that extended from this giant… a bridge of ice that extended from this floating rock to the side of the cliff.
 [u0017 | 00:02:15.460-00:02:24.870 | DM] And they started marching. Then the clairvoyance ended, and it was also fixed, so what they were doing is unclear.
 [u0018 | 00:02:25.500-00:02:29.869 | DM] And, of course, the, the cat,
 [u0019 | 00:02:30.370-00:02:39.960 | DM] Ekko, as the cat, discovered a… A pond full of fish.
-[u0020 | 00:02:40.460-00:02:45.499 | DM] And explore it a little closer to these 5 cracks in the wall.
-[u0021 | 00:02:45.770-00:02:56.890 | DM] one… flashing… sort of, ice, and when flashing, storms, and,
+[u0020 | 00:02:40.460-00:02:45.499 | DM] And explored a little closer to these 5 cracks in the wall.
+[u0021 | 00:02:45.770-00:02:56.890 | DM] one… flashing… sort of, ice, and one flashing, storms, and,
 [u0022 | 00:02:58.180-00:03:06.170 | DM] One flashing this, like, just odd colors, purple and… and… And…
 [u0023 | 00:03:09.610-00:03:20.530 | DM] one flashing, like, one showing, like, like, sharp… shards of metal and odd forms.
 [u0024 | 00:03:20.910-00:03:34.829 | DM] and one, and one showing what looks like a reflection of the… of the chasm itself, of this place, but without the ice palace, right? Just looking out into, sort of, more openness.
 [u0025 | 00:03:36.580-00:03:40.750 | DM] and so you decided?
-[u0026 | 00:03:41.070-00:03:44.050 | DM] Of the advice of a spouse to go to sleep.
+[u0026 | 00:03:41.070-00:03:44.050 | DM] On the advice of a spouse to go to sleep.
 [u0027 | 00:03:46.970-00:03:49.980 | DM] And as we begin, you're huddled
 [u0028 | 00:03:51.440-00:04:04.249 | DM] together, I guess, or apart? I don't know, you're huddled in the corner, basically, in the half a room of this one and a half bedroom, you know, one and a half room hut, sort of a little bit away from… from…
 [u0029 | 00:04:04.250-00:04:12.800 | DM] The family, who are also settling in to go to sleep, because… well, it's not nighttime, but it's… it's the end of the day.
@@ -70,10 +70,10 @@
 [u0070 | 00:07:33.220-00:07:38.820 | DM] that… You got… so, the… the main house is, like…
 [u0071 | 00:07:38.820-00:07:41.280 | Jrain] You're asleep.
 [u0072 | 00:07:41.660-00:07:42.370 | Eolo] Okay.
-[u0073 | 00:07:42.370-00:07:44.600 | Jrain] Who's asleep? Our mom watched.
+[u0073 | 00:07:42.370-00:07:44.600 | Jrain] Who's asleep? I’m on watch.
 [u0074 | 00:07:44.600-00:07:54.680 | DM] You are, you are asleep. You are asleep. Eolo is not allowed to perform Eolo feats at this given moment, because you are asleep.
 [u0075 | 00:07:54.990-00:07:57.209 | Eolo] But wait, there was that one thing, Mike.
-[u0076 | 00:07:57.880-00:07:58.430 | DM] Fig.
+[u0076 | 00:07:57.880-00:07:58.430 | DM] Thing?
 [u0077 | 00:07:59.660-00:08:04.889 | Eolo] Oh, in the stuff I made up about Eolo? Yeah. That happens when he's asleep?
 [u0078 | 00:08:05.210-00:08:13.550 | DM] Oh, that's true. What happens… I forget what you said, though. What happens when he's asleep? He sleepwalks. He sleep-fights, he does something when he's asleep.
 [u0079 | 00:08:13.760-00:08:18.999 | Eolo] I mean, it's not even necessarily fully aware of whatever it is. He, denies it.
@@ -82,18 +82,18 @@
 [u0082 | 00:08:22.560-00:08:25.120 | DM] We'll see what happens.
 [u0083 | 00:08:25.680-00:08:36.540 | DM] before Eolo could wake up, so the house is… I mean, it's… it's a hut, right? It's like, I don't know, 12 feet from end to end, and it's like an L shape, and you're in the… you're in the… so, like.
 [u0084 | 00:08:36.980-00:08:46.690 | DM] you're in the L, so the sort of bit in the door is… you know, if an L… if the… you're in the short part of the L, and the door is in the lower part of the long part of the L, so you're maybe…
-[u0085 | 00:08:47.420-00:08:54.390 | DM] So, you're, like, sitting watching, and you can see down to the long part of the aisle and see the door, but you're maybe 10 feet away from it.
+[u0085 | 00:08:47.420-00:08:54.390 | DM] So, you're, like, sitting watching, and you can see down to the long part of the L and see the door, but you're maybe 10 feet away from it.
 [u0086 | 00:08:55.660-00:09:02.269 | DM] And if you went around the corner, you wouldn't… nobody would be able to see… you can't actually see the door very well, because of the angle of the…
 [u0087 | 00:09:05.070-00:09:12.189 | Jrain] But everyone who I would want to not be seen is in a part of the room where they can be seen by the angle of the door opening.
 [u0088 | 00:09:15.700-00:09:18.999 | Jrain] We didn't wisely choose a corner that wasn't visible from the door.
 [u0089 | 00:09:19.000-00:09:30.849 | DM] No, I assume you did choose a corner that wasn't visible from the door, that's what I'm trying to say. But you are presumably keeping watch somewhere where you can see the door. It would be silly to keep watch hidden in the corner, where you couldn't see anything.
 [u0090 | 00:09:31.660-00:09:33.599 | Jrain] So they're not visible, but I am.
-[u0091 | 00:09:33.600-00:09:34.270 | DM] Cat.
+[u0091 | 00:09:33.600-00:09:34.270 | DM] Correct.
 [u0092 | 00:09:34.270-00:09:35.050 | Jrain] Probably.
 [u0093 | 00:09:35.480-00:09:39.139 | Jrain] Except that I can see that the door is cracking.
 [u0094 | 00:09:40.270-00:09:44.170 | Jrain] I could try to, like, dash around the corner, and they might just think I'm one of the.
 [u0095 | 00:09:44.170-00:09:44.810 | DM] Hi, yeah.
-[u0096 | 00:09:44.810-00:09:45.360 | Jrain] gross.
+[u0096 | 00:09:44.810-00:09:45.360 | Jrain] girls.
 [u0097 | 00:09:45.680-00:09:46.330 | DM] Yeah?
 [u0098 | 00:09:47.130-00:09:47.840 | Jrain] Alright.
 [u0099 | 00:09:48.400-00:09:51.970 | Jrain] I hide, but listen to hear whether the door opens more.
@@ -119,7 +119,7 @@
 [u0119 | 00:11:22.970-00:11:31.250 | DM] you hear the door close more wag… like, you didn't hear it open, but you hear it shut. Like, you hear a noise of a door, like, shutting.
 [u0120 | 00:11:32.510-00:11:33.160 | Jrain] Okay.
 [u0121 | 00:11:34.210-00:11:35.670 | Jrain] So I peek around the corner.
-[u0122 | 00:11:36.180-00:11:37.359 | DM] Kaleem is gone.
+[u0122 | 00:11:36.180-00:11:37.359 | DM] Kalima is gone.
 [u0123 | 00:11:39.680-00:11:40.480 | Jrain] Oh, boy.
 [u0124 | 00:11:43.750-00:11:47.069 | Jrain] So, I rushed to the door and, like.
 [u0125 | 00:11:47.780-00:11:51.950 | Jrain] open it to see if I can see which way she's disappearing in some direction.
@@ -144,7 +144,7 @@
 [u0144 | 00:13:11.830-00:13:16.450 | DM] Like, you see some of those peop- some of the people.
 [u0145 | 00:13:16.530-00:13:18.639 | Audio shared by Mike] Like, you notice a group of two people.
 [u0146 | 00:13:19.030-00:13:21.670 | DM] Who… had been…
-[u0147 | 00:13:22.830-00:13:28.520 | DM] you know, Finn and saw, like, these… this group of, like, 8 or 10 people march over, and you see, like, a pair.
+[u0147 | 00:13:22.830-00:13:28.520 | DM] you know, Finnan saw, like, these… this group of, like, 8 or 10 people march over, and you see, like, a pair.
 [u0148 | 00:13:28.870-00:13:31.540 | DM] Going into a house, like, 4 houses down.
 [u0149 | 00:13:32.630-00:13:34.529 | DM] I mean, that's, like, at a first glance.
 [u0150 | 00:13:35.460-00:13:35.820 | Jrain] Okay.
@@ -189,15 +189,15 @@
 [u0189 | 00:16:52.450-00:16:56.040 | Jrain] Escape, so that that… they don't face that consequence.
 [u0190 | 00:16:56.200-00:16:58.270 | Jrain] That's why I would wake them.
 [u0191 | 00:16:58.710-00:17:03.650 | Finnan] I'll… I'll look over at… at Justas and… Just kind of…
-[u0192 | 00:17:07.020-00:17:16.159 | Finnan] Finnan's a little concerned whether justice is magic, whether the gods are unable to see the future here, or are lying to us.
+[u0192 | 00:17:07.020-00:17:16.159 | Finnan] Finnan's a little concerned whether Justas’s magic, whether the gods are unable to see the future here, or are lying to us.
 [u0193 | 00:17:16.900-00:17:17.750 | Finnan] like…
 [u0194 | 00:17:19.540-00:17:26.180 | Finnan] You did ask the Kestavo before we slept if that was a wise course of action, and they said yes, right?
 [u0195 | 00:17:26.680-00:17:28.740 | DM] I mean, nothing bad has happened yet.
 [u0196 | 00:17:34.760-00:17:37.249 | Justas] I mean, I suppose I could ask again.
-[u0197 | 00:17:37.940-00:17:39.540 | Jrain] Appreciate your face.
+[u0197 | 00:17:37.940-00:17:39.540 | Jrain] Appreciate your faith.
 [u0198 | 00:17:40.200-00:17:44.930 | Justas] I just, they wouldn't have said that if it wasn't the case.
 [u0199 | 00:17:50.360-00:17:54.500 | Jrain] Well, I'm on watch, and it was my duty to be not reassured.
-[u0200 | 00:17:54.800-00:17:55.690 | Jrain] Bye.
+[u0200 | 00:17:54.800-00:17:55.690 | Jrain] By…
 [u0201 | 00:17:56.530-00:17:59.390 | Jrain] Promises, but if we want to
 [u0202 | 00:18:00.090-00:18:04.579 | Jrain] take that into account in our response. I can see how that's logical.
 [u0203 | 00:18:06.020-00:18:09.900 | Jrain] Not leap to conclusions of… unsafety.
@@ -210,25 +210,25 @@
 [u0210 | 00:18:47.160-00:18:54.710 | DM] you would have gotten a short rest. If you still have slots, you could use them and you'd get them back.
 [u0211 | 00:18:57.650-00:19:03.439 | DM] Although, actually, I think technically the D&D rules are if you fight in the middle of the night. I don't… anyway, it's fine if you want to use this…
 [u0212 | 00:19:04.020-00:19:10.380 | DM] You don't feel any sense that the,
-[u0213 | 00:19:12.460-00:19:14.550 | DM] that the custody… I mean, you feel…
+[u0213 | 00:19:12.460-00:19:14.550 | DM] that the Kestavo… I mean, you feel…
 [u0214 | 00:19:14.870-00:19:21.710 | DM] that the Kestavo mat… I mean, there's a bit of a, like, mat… like, it feels distant, but it doesn't feel corrupted or anything.
 [u0215 | 00:19:22.020-00:19:24.160 | Justas] Justas will say…
-[u0216 | 00:19:25.010-00:19:35.550 | Justas] Just as, like, a… an old man, like, just well into his 50s, he's been in some fights today, he's tired. Yeah, he needs to go back to sleep.
-[u0217 | 00:19:35.840-00:19:39.860 | Finnan] This is what Finn is thinking, too. Finn is just gonna roll over and go back to sleep.
+[u0216 | 00:19:25.010-00:19:35.550 | Justas] Justas, like, a… an old man, like, just well into his 50s, he's been in some fights today, he's tired. Yeah, he needs to go back to sleep.
+[u0217 | 00:19:35.840-00:19:39.860 | Finnan] This is what Finnan is thinking, too. Finnan is just gonna roll over and go back to sleep.
 [u0218 | 00:19:39.860-00:19:40.699 | DM] Okay?
 [u0219 | 00:19:41.900-00:19:42.460 | Jrain] Alright.
 [u0220 | 00:19:42.460-00:19:55.159 | Justas] But, like, Justas's gonna lie back down. This time, when he goes to sleep, though, he's… he's gonna, like, keep his arm in the shield and the battle axe in the other hand. Like, he's ready to wake up fighting, but, like, this dude needs to go to bed.
 [u0221 | 00:19:56.510-00:20:01.399 | Jrain] Well, I was the third watch. Was one of you the first or second watch, which is why you're so tired and cranky?
 [u0222 | 00:20:02.420-00:20:03.250 | DM] Yeah, possibly.
-[u0223 | 00:20:03.250-00:20:05.750 | Justas] probably… Just as probably the last watch.
-[u0224 | 00:20:07.160-00:20:11.620 | DM] Eolo was probably the first watch. Finn was the second watch. You're the third watch.
-[u0225 | 00:20:12.010-00:20:14.249 | DM] echoes the fourth watch, and then Justas.
+[u0223 | 00:20:03.250-00:20:05.750 | Justas] probably… Justas probably the last watch.
+[u0224 | 00:20:07.160-00:20:11.620 | DM] Eolo was probably the first watch. Finnan was the second watch. You're the third watch.
+[u0225 | 00:20:12.010-00:20:14.249 | DM] Ekko’s the fourth watch, and then Justas.
 [u0226 | 00:20:14.780-00:20:18.010 | Jrain] Alright, well, I'll wake up, Ekko, when my watch is over, then.
 [u0227 | 00:20:18.670-00:20:21.230 | Jrain] That's… Well, the rest of the night passes uneventfully.
 [u0228 | 00:20:22.650-00:20:24.870 | DM] You can now all click the long rest button.
 [u0229 | 00:20:27.270-00:20:31.109 | DM] You wake up feeling… somewhat refreshed.
 [u0230 | 00:20:35.680-00:20:36.870 | Audio shared by Mike] the.
-[u0231 | 00:20:38.500-00:20:39.680 | DM] Dab.
+[u0231 | 00:20:38.500-00:20:39.680 | DM] the…
 [u0232 | 00:20:47.160-00:20:52.970 | DM] family, I mean, Nura and Khaled kind of…
 [u0233 | 00:20:53.210-00:20:58.540 | DM] are when, as you're waking up, sort of whispering each other, they seem…
 [u0234 | 00:20:59.320-00:21:04.210 | DM] Like, kind of giving each other glances, like, looking at you, looking at your weapons.
@@ -264,14 +264,14 @@
 [u0264 | 00:23:13.890-00:23:14.820 | DM] Wow.
 [u0265 | 00:23:15.340-00:23:16.460 | DM] They weren't.
 [u0266 | 00:23:16.640-00:23:19.150 | DM] And then stops again, like, not quite sure how to finish this.
-[u0267 | 00:23:20.300-00:23:22.010 | DM] Koema will be safe.
+[u0267 | 00:23:20.300-00:23:22.010 | DM] Kalima will be safe.
 [u0268 | 00:23:25.020-00:23:30.339 | DM] And the parents are looking quite disturbed, like, you know, obviously having a baby talking.
 [u0269 | 00:23:30.660-00:23:37.580 | DM] the baby's not old enough to talk. It's disturbing the parents a little bit, but they don't look surprised. They look more… nervous.
 [u0270 | 00:23:40.680-00:23:42.810 | Justas] What's happening here? I'll ask them.
 [u0271 | 00:23:43.170-00:23:45.139 | Justas] I've never heard a baby speak like that.
 [u0272 | 00:23:48.580-00:23:50.229 | DM] So, there are sort of…
-[u0273 | 00:23:50.460-00:23:55.699 | DM] Pallad sort of takes the… takes the baby away, the father kind of takes the baby away, and… and…
-[u0274 | 00:23:56.080-00:23:58.010 | DM] Nora says this…
+[u0273 | 00:23:50.460-00:23:55.699 | DM] Khaled sort of takes the… takes the baby away, the father kind of takes the baby away, and… and…
+[u0274 | 00:23:56.080-00:23:58.010 | DM] Nura says this…
 [u0275 | 00:23:58.340-00:24:00.370 | Audio shared by Mike] This happens sometimes.
 [u0276 | 00:24:00.900-00:24:02.330 | DM] To children here.
 [u0277 | 00:24:02.880-00:24:13.979 | DM] They… They're born with… A curse, or some… Affliction from this place.
@@ -280,7 +280,7 @@
 [u0280 | 00:24:30.210-00:24:30.870 | DM] Sweet.
 [u0281 | 00:24:31.610-00:24:37.810 | DM] It's a… We think it's… some say…
 [u0282 | 00:24:38.050-00:24:40.260 | DM] Some of the elders say it's…
-[u0283 | 00:24:40.470-00:24:44.099 | DM] When a soul that was sacrificed distracted them.
+[u0283 | 00:24:40.470-00:24:44.099 | DM] When a soul that was sacrificed is trapped in them.
 [u0284 | 00:24:45.180-00:24:47.860 | DM] Others say it's a curse from Malquin.
 [u0285 | 00:24:48.680-00:24:53.810 | DM] Either way, it… Is somebody born… Wrong.
 [u0286 | 00:24:57.870-00:24:58.550 | Finnan] Bye.
@@ -302,7 +302,7 @@
 [u0302 | 00:26:48.180-00:26:49.120 | DM] Taquin?
 [u0303 | 00:26:54.180-00:26:56.850 | Finnan] And you don't remember anything that happened after you fell.
 [u0304 | 00:26:59.930-00:27:01.010 | DM] No.
-[u0305 | 00:27:07.440-00:27:10.839 | Finnan] Okay, Finnan, we'll stop and think for a moment.
+[u0305 | 00:27:07.440-00:27:10.839 | Finnan] Okay, Finnan will stop and think for a moment.
 [u0306 | 00:27:11.800-00:27:13.770 | Finnan] And I wanna try and…
 [u0307 | 00:27:16.250-00:27:27.199 | Finnan] formulate… I want to try and… I don't know if… I mean, Finnan is not sure if this is true, but is gonna try and spin a story of… this is not…
 [u0308 | 00:27:28.010-00:27:34.510 | Finnan] This is not a curse, this is a blessing. You've given… Somebody a new life.
@@ -313,7 +313,7 @@
 [u0313 | 00:27:53.210-00:27:55.250 | Finnan] befallen your family.
 [u0314 | 00:27:57.350-00:27:57.880 | DM] the…
 [u0315 | 00:27:57.880-00:28:03.680 | Finnan] I'll ask… I'll ask them what the… what they named their baby.
-[u0316 | 00:28:05.320-00:28:07.420 | DM] some year.
+[u0316 | 00:28:05.320-00:28:07.420 | DM] Samir.
 [u0317 | 00:28:09.040-00:28:09.820 | Finnan] Okay.
 [u0318 | 00:28:12.250-00:28:18.820 | DM] the… the… the… The mother is like, well…
 [u0319 | 00:28:20.990-00:28:26.059 | DM] You say this is something we have to figure out. The elders tell us.
@@ -332,13 +332,13 @@
 [u0332 | 00:29:23.520-00:29:26.040 | DM] Cannot grow into their own person.
 [u0333 | 00:29:26.780-00:29:31.259 | DM] the… the two… the… The soul that is stuck in them is…
 [u0334 | 00:29:32.740-00:29:39.500 | DM] And she just sort of closes her eyes and, like… looks quite… Samir is gone.
-[u0335 | 00:29:47.800-00:29:53.700 | DM] And played a sort of pat her on the shoulder, like… We can target you out.
+[u0335 | 00:29:47.800-00:29:53.700 | DM] And Khaled sort of pats her on the shoulder, like… We can tough it out.
 [u0336 | 00:29:54.480-00:29:56.000 | DM] Stay strong, like…
 [u0337 | 00:30:02.670-00:30:06.840 | DM] Do you… do you… She sort of looks up.
 [u0338 | 00:30:08.370-00:30:11.390 | DM] can… Can the world change?
 [u0339 | 00:30:11.970-00:30:15.359 | DM] I… I think not. It never has before.
-[u0340 | 00:30:25.590-00:30:30.760 | Finnan] I'll… Finnan will look over at Justas, and… The two can go.
-[u0341 | 00:30:31.420-00:30:39.490 | Finnan] And then, like, downed himself, and it drained, and… Just say, it has already.
+[u0340 | 00:30:25.590-00:30:30.760 | Finnan] I'll… Finnan will look over at Justas, and… The two kenku.
+[u0341 | 00:30:31.420-00:30:39.490 | Finnan] And then, like, down at himself, and at Jrain, and… Just say, it has already.
 [u0342 | 00:30:42.660-00:30:47.320 | DM] I mean… They don't quite know what to make of you guys, that's certainly true.
 [u0343 | 00:30:47.420-00:30:51.370 | DM] I, I think if, you know, There's a certain acknowledgement
 [u0344 | 00:30:51.630-00:30:54.929 | DM] In her… in her shrug and sort of voice, like…
@@ -356,7 +356,7 @@
 [u0356 | 00:32:09.990-00:32:18.790 | DM] She says, well, there's… there's… there's…
 [u0357 | 00:32:19.070-00:32:25.600 | DM] Zahara and their band of troublemakers, always talking about change.
 [u0358 | 00:32:26.950-00:32:30.030 | Justas] That would make her sound like good people for us to talk to.
-[u0359 | 00:32:31.250-00:32:35.419 | Ekko] I mean, this… Zahara is… is… is the… the babies.
+[u0359 | 00:32:31.250-00:32:35.419 | Ekko] I mean, this… Zahara is… is… is the… the baby’s.
 [u0360 | 00:32:35.450-00:32:38.950 | DM] kid, right? The baby soul's kid.
 [u0361 | 00:32:39.300-00:32:41.560 | DM] Who is the one who took Kalima.
 [u0362 | 00:32:41.710-00:32:44.399 | DM] Or, you could talk to the elders.
@@ -365,21 +365,21 @@
 [u0365 | 00:32:55.230-00:33:01.900 | DM] there's only these tiny little windows, basically no windows, so you can't see out, but she points in the direction of the ice palace.
 [u0366 | 00:33:03.250-00:33:05.950 | DM] Malquin knows… Much.
 [u0367 | 00:33:10.070-00:33:13.169 | DM] Malquin being their name for the… this…
-[u0368 | 00:33:13.390-00:33:28.070 | DM] they never use the name… the… the… the fey name for… for Quan Yin. They always called… you've always ever… you've only heard this person, this… this… the Frostbinder referred to as Malquin by the people here.
-[u0369 | 00:33:28.550-00:33:29.540 | DM] Adam.
+[u0368 | 00:33:13.390-00:33:28.070 | DM] they never use the name… the… the… the fey name for… Forquarion. They always called… you've always ever… you've only heard this person, this… this… the Frostbinder referred to as Malquin by the people here.
+[u0369 | 00:33:28.550-00:33:29.540 | DM] And, um…
 [u0370 | 00:33:30.990-00:33:31.670 | DM] Heat.
 [u0371 | 00:33:35.470-00:33:36.550 | DM] You could, you know?
-[u0372 | 00:33:37.630-00:33:42.059 | DM] There are points to the palace, but there's always information, I'm sure there's information there.
+[u0372 | 00:33:37.630-00:33:42.059 | DM] Nura points to the palace, but there's always information, I'm sure there's information there.
 [u0373 | 00:33:46.040-00:33:56.620 | DM] But she can tell you where, like, Zeyfa, not Zeyfa, sorry, zahara.
 [u0374 | 00:33:57.230-00:34:10.830 | DM] there's, like, tends to stay on the edge of the village, and, like, but there's… there's a few, like, she could direct you to, sort of, one of the houses, like, the house where Zahara lives, and, like, where they're, sort of,
 [u0375 | 00:34:11.909-00:34:15.260 | DM] crowd sort of tends to hang out in the evenings and stuff like that, and you could
-[u0376 | 00:34:16.739-00:34:23.949 | DM] 5… I mean, they're probably… this village is only 300, 400 people, right? It's not like… or…
+[u0376 | 00:34:16.739-00:34:23.949 | DM] find… I mean, they're probably… this village is only 300, 400 people, right? It's not like… or…
 [u0377 | 00:34:24.350-00:34:27.710 | DM] She could also send you… tell you where the… where you could find the elders.
 [u0378 | 00:34:30.060-00:34:34.060 | DM] There don't seem to still be soldiers running around, they seem to have finished their search.
 [u0379 | 00:34:38.790-00:34:48.880 | Finnan] I think we should go talk to the troublemakers… Agreed. Before we do anything else, but first, I'm going to, since my ring regained all its charges, I rolled…
 [u0380 | 00:34:49.270-00:34:55.290 | Finnan] I'm going to use all 5 charges again to learn 3 true facts about a place I have slept.
 [u0381 | 00:34:56.810-00:34:57.415 | Justas] Meh…
-[u0382 | 00:34:58.720-00:35:04.160 | DM] Okay, 32 facts about a place you have slept.
+[u0382 | 00:34:58.720-00:35:04.160 | DM] Okay, 3 true facts about a place you have slept.
 [u0383 | 00:35:07.770-00:35:09.240 | DM] the…
 [u0384 | 00:35:13.290-00:35:22.120 | DM] See, okay, so would you have prepared, like, a whole bunch of true facts for every single place, or would you have just made them up on the spot? I didn't think to prepare a bunch of true facts, like, every place.
 [u0385 | 00:35:22.120-00:35:26.259 | Finnan] So, since you gave me an item that specifically said.
@@ -402,29 +402,29 @@
 [u0402 | 00:36:51.470-00:36:54.120 | DM] There's nothing past the mists.
 [u0403 | 00:36:55.620-00:36:58.080 | DM] Or beneath the mists.
 [u0404 | 00:36:59.320-00:37:03.780 | DM] And the…
-[u0405 | 00:37:09.730-00:37:17.020 | DM] the… the… the sky… that, lord… Lord Farraquin.
+[u0405 | 00:37:09.730-00:37:17.020 | DM] the… the… the sky… that, lord… Lord Forquarion.
 [u0406 | 00:37:17.310-00:37:26.160 | DM] the… the frostbinder… frost… frostbinder controls the… Controls the sky.
 [u0407 | 00:37:32.620-00:37:36.480 | Finnan] By the way, Justas, what did you do with the…
 [u0408 | 00:37:38.340-00:37:43.609 | Finnan] head of the beast that you cut off. What happened to that? Is it still in your backpack?
-[u0409 | 00:37:43.610-00:37:45.760 | Justas] Yep, just as part of the backpack.
+[u0409 | 00:37:43.610-00:37:45.760 | Justas] Yep, Justas pats the backpack.
 [u0410 | 00:37:47.600-00:37:51.769 | Finnan] It's still there. It hasn't vanished mysteriously in the night.
-[u0411 | 00:37:53.310-00:37:54.030 | DM] Don't.
+[u0411 | 00:37:53.310-00:37:54.030 | DM] No.
 [u0412 | 00:37:54.600-00:37:55.120 | Finnan] Okay.
 [u0413 | 00:37:57.510-00:38:00.719 | Justas] Probably have another day or two before it starts to stink too bad.
 [u0414 | 00:38:02.790-00:38:03.979 | Finnan] Put some ice in there.
 [u0415 | 00:38:11.080-00:38:14.620 | Finnan] So we're trapped in some sort of fae demiplane.
 [u0416 | 00:38:16.780-00:38:19.530 | Finnan] Let's go talk to the troublemakers.
-[u0417 | 00:38:20.100-00:38:26.030 | Finnan] But Finn will say, like, he's half-tempted to just go talk to… Fae.
+[u0417 | 00:38:20.100-00:38:26.030 | Finnan] But Finnan will say, like, he's half-tempted to just go talk to… Fae.
 [u0418 | 00:38:27.350-00:38:30.390 | Finnan] If the troublemakers don't have anything useful to say.
 [u0419 | 00:38:33.460-00:38:35.180 | Justas] Finnan, you're saying Fae, but…
 [u0420 | 00:38:35.620-00:38:41.559 | Justas] Do you mean Fae? Fae? You don't mean… you don't think this is actually one of the Kestavo?
 [u0421 | 00:38:42.380-00:38:43.740 | Justas] Trapping them here.
 [u0422 | 00:38:47.570-00:38:48.779 | Justas] You know, it's not the wind, it's.
-[u0423 | 00:38:48.780-00:38:59.049 | Finnan] deal, because, well, I saw a bunch of Sylvan writing in a giant… Circular table in the palace.
+[u0423 | 00:38:48.780-00:38:59.049 | Finnan] I do, because, well, I saw a bunch of Sylvan writing in a giant… Circular table in the palace.
 [u0424 | 00:38:59.630-00:39:00.490 | Justas] Right, right.
 [u0425 | 00:39:00.490-00:39:04.319 | Finnan] And… does anything about this feel Kestavan to you?
 [u0426 | 00:39:06.080-00:39:09.290 | Justas] Actually, Justas takes a deep… Pause.
-[u0427 | 00:39:10.100-00:39:14.960 | Justas] And, like, a slow breath, and tries to see the whole place with fresh ice again.
+[u0427 | 00:39:10.100-00:39:14.960 | Justas] And, like, a slow breath, and tries to see the whole place with fresh eyes again.
 [u0428 | 00:39:15.410-00:39:20.119 | Justas] Are there any of, like… like, I think of, like, the hallmarks of Kestavo being, like…
 [u0429 | 00:39:20.790-00:39:29.740 | Justas] Things… people would be, like, wearing symbols, or, like, wearing, you know, little handmade bits, or some token of the…
 [u0430 | 00:39:29.980-00:39:37.549 | Justas] Of the wind, or orienting their houses along, like, similar axes that somehow
@@ -437,9 +437,9 @@
 [u0437 | 00:40:07.540-00:40:18.800 | Finnan] Just… I mean, you know better than I, Justas, but… All those stories about… about… Zeyfa…
 [u0438 | 00:40:19.360-00:40:27.359 | Finnan] And Zeyfa's children are… are… they're still Kestavan, right? They're still the same rituals and…
 [u0439 | 00:40:27.360-00:40:27.820 | Justas] Oh, yeah.
-[u0440 | 00:40:27.820-00:40:32.730 | Finnan] You know, except now the prayers are to word them off, and…
+[u0440 | 00:40:27.820-00:40:32.730 | Finnan] You know, except now the prayers are to ward them off, and…
 [u0441 | 00:40:34.560-00:40:37.799 | Finnan] Nobody here has talked like that.
-[u0442 | 00:40:40.400-00:40:48.530 | Finnan] They talk like… this… The Ice Palace is… it's a… it sounds like a fae lore, not a…
+[u0442 | 00:40:40.400-00:40:48.530 | Finnan] They talk like… this… The Ice Palace is… it's a… it sounds like a fae lord, not a…
 [u0443 | 00:40:49.140-00:40:51.060 | Finnan] Not any evil god.
 [u0444 | 00:40:51.060-00:40:51.430 | DM] it…
 [u0445 | 00:40:51.430-00:40:53.479 | Finnan] Or even a trickster god.
@@ -455,16 +455,16 @@
 [u0455 | 00:41:52.710-00:42:06.349 | DM] wind-like. I mean, the swirling sort of thing down below has more of a vibe of, like, the thing that hides the labyrinth. Definitely has more of a West Wind vibe, but the ice palace really doesn't, right? Like…
 [u0456 | 00:42:06.620-00:42:07.980 | DM] it's not…
 [u0457 | 00:42:08.580-00:42:19.320 | DM] None of the Kestavo, like, been to, like, hundreds of Kestavo shrines, right? They're simple. They fit into the natural environment. They celebrate the place that the Kestavo is sacred to. They're not…
-[u0458 | 00:42:19.690-00:42:21.270 | DM] Constantatious like this.
+[u0458 | 00:42:19.690-00:42:21.270 | DM] Ostentatious like this.
 [u0459 | 00:42:24.400-00:42:32.650 | DM] I mean, it definitely feels to Finnan more like stories you'd hear of a fae palace, or a…
 [u0460 | 00:42:32.890-00:42:33.800 | Audio shared by Mike] It's just…
-[u0461 | 00:42:33.800-00:42:42.369 | DM] a wizard's tower. I mean, it doesn't really look like a wizard's tower, but, like, a wizard's tower or something. Like, it's just… it's showy in a way that the Gustava usually wouldn't be.
+[u0461 | 00:42:33.800-00:42:42.369 | DM] a wizard's tower. I mean, it doesn't really look like a wizard's tower, but, like, a wizard's tower or something. Like, it's just… it's showy in a way that the Kestavo usually wouldn't be.
 [u0462 | 00:42:42.590-00:42:43.210 | Justas] Yeah.
 [u0463 | 00:42:46.900-00:42:47.750 | Justas] Hmm.
 [u0464 | 00:43:04.290-00:43:11.370 | Finnan] Let's… Let's go speak to these troublemakers and see what they have to say.
 [u0465 | 00:43:11.770-00:43:15.340 | Justas] Maybe they can draw off the guards while we head to the palace afterwards.
 [u0466 | 00:43:18.120-00:43:23.949 | Finnan] I mean, if there is a Feylord in that palace, we have absolutely no hope of defeating them by…
-[u0467 | 00:43:25.000-00:43:32.960 | Finnan] Any means whatsoever, or only Logical course of action would be to negotiate.
+[u0467 | 00:43:25.000-00:43:32.960 | Finnan] Any means whatsoever, our only Logical course of action would be to negotiate.
 [u0468 | 00:43:34.060-00:43:40.529 | Finnan] Maybe they're also bored of what's been happening for the past Thousand years here.
 [u0469 | 00:43:46.130-00:43:50.419 | DM] Although it could have been less than a thousand years, by the way, you don't know what the timescale dilation is.
 [u0470 | 00:43:52.600-00:43:59.620 | DM] It was… If it was really the downfall, it would have been, what, 1700 years, and… Taelgar, either.
@@ -477,10 +477,10 @@
 [u0477 | 00:44:30.840-00:44:36.619 | Finnan] If time runs faster here, then for every one year in Taelgar, two years pass, say.
 [u0478 | 00:44:36.740-00:44:39.600 | Finnan] So, 1,000 years ago would be 2,000 years ago.
 [u0479 | 00:44:41.100-00:44:44.249 | Finnan] A thousand years ago on the outside would be 2,000 years on the inside.
-[u0480 | 00:44:44.250-00:44:47.660 | DM] No, no, no, I mean the opposite. Times aren't faster in Taelgar.
+[u0480 | 00:44:44.250-00:44:47.660 | DM] No, no, no, I mean the opposite. Time runs faster in Taelgar.
 [u0481 | 00:44:49.070-00:44:52.909 | DM] Time runs slower here. Time runs slower here. I said it right the first time.
 [u0482 | 00:44:53.200-00:44:56.599 | Finnan] When will I have been…
-[u0483 | 00:44:56.640-00:44:59.689 | Justas] But, like, when was Olds and Common in common use?
+[u0483 | 00:44:56.640-00:44:59.689 | Justas] But, like, when was Old Zimkovan in common use?
 [u0484 | 00:44:59.690-00:45:01.600 | DM] Like, 1500 years ago.
 [u0485 | 00:45:01.830-00:45:04.210 | Justas] I mean, there's a date right there.
 [u0486 | 00:45:04.210-00:45:05.130 | DM] Yay.
@@ -522,10 +522,10 @@
 [u0522 | 00:47:52.010-00:47:57.920 | DM] If you guys transformed into human form, and you, like, threw cloaks on and stuff, you might be able to…
 [u0523 | 00:47:58.050-00:48:00.130 | DM] Sort of just appear as…
 [u0524 | 00:48:01.400-00:48:12.920 | DM] some people passing through, and nobody would pay that much attention to you. It's not like people are… there's no soldiers about whatever the soldier re… that was happening overnight,
-[u0525 | 00:48:14.220-00:48:16.220 | DM] as gone.
-[u0526 | 00:48:19.590-00:48:25.639 | DM] you do see, as you weave, go out the door, but I don't know how you're… what you're… what are you actually doing when you weave the…
+[u0525 | 00:48:14.220-00:48:16.220 | DM] has gone.
+[u0526 | 00:48:19.590-00:48:25.639 | DM] you do see, as you leave, go out the door, but I don't know how you're… what you're… what are you actually doing when you leave the…
 [u0527 | 00:48:27.080-00:48:29.490 | DM] You do see, like,
-[u0528 | 00:48:29.770-00:48:36.140 | DM] mark, like, a… a chalk mark on the door when you weave. There seems to be chalk marks on all the doors.
+[u0528 | 00:48:29.770-00:48:36.140 | DM] mark, like, a… a chalk mark on the door when you leave. There seems to be chalk marks on all the doors.
 [u0529 | 00:48:36.720-00:48:49.220 | DM] Like, with a certain… like, a stylized sigil, kind of, like a… it's not a sign, it's not… it's kind of like a stylized palace, ice palace, almost, like a little squiggly thing drawn on the door.
 [u0530 | 00:48:50.150-00:48:58.570 | DM] you see them drawn on many of the… all of the doors?
 [u0531 | 00:49:02.180-00:49:02.860 | Audio shared by Mike] But…
@@ -549,7 +549,7 @@
 [u0549 | 00:51:01.210-00:51:06.669 | Jrain] Labyrinth was in the demiplane, and completing the labyrinth put us in a different part of the demiplane.
 [u0550 | 00:51:07.080-00:51:15.780 | DM] Most likely, yes, yes. Basically, when the adventure started, when you fell into the chasm in the very beginning, you fell into the demiplane instead of the chasm.
 [u0551 | 00:51:18.760-00:51:19.330 | Ekko] I feel…
-[u0552 | 00:51:19.330-00:51:20.940 | DM] The Labyrinth was a demi point.
+[u0552 | 00:51:19.330-00:51:20.940 | DM] The Labyrinth was a demiplane.
 [u0553 | 00:51:22.820-00:51:29.529 | Ekko] This isn't what Ekko would do, but I feel like Eolo would really want to fly through one of those five portals that are just, like.
 [u0554 | 00:51:30.740-00:51:34.380 | Ekko] doorways into another dimension, but I'm not trying to put any, you know.
 [u0555 | 00:51:35.320-00:51:37.699 | Eolo] That seems correct, yes.
@@ -580,7 +580,7 @@
 [u0580 | 00:53:35.890-00:53:37.469 | Justas] Let's talk to the troublemakers.
 [u0581 | 00:53:37.980-00:53:38.590 | Finnan] Yeah.
 [u0582 | 00:53:39.000-00:53:39.560 | Eolo] Yep.
-[u0583 | 00:53:40.200-00:53:52.900 | DM] So, the Kenku, are you… what are you guys doing? So you weave the… you weave the hut, and… are you just boldly striding across the plateau? Are you, like, skulking? Are you hiding? Are you disguising yourself?
+[u0583 | 00:53:40.200-00:53:52.900 | DM] So, the Kenku, are you… what are you guys doing? So you leave the… you leave the hut, and… are you just boldly striding across the plateau? Are you, like, skulking? Are you hiding? Are you disguising yourself?
 [u0584 | 00:53:52.900-00:53:53.670 | Ekko] into a cat.
 [u0585 | 00:53:54.230-00:53:55.610 | DM] Okay. Cats are good.
 [u0586 | 00:53:55.930-00:53:58.749 | Ekko] I just stay… when I'm out and about, I just stay as a cat.
@@ -592,8 +592,8 @@
 [u0592 | 00:54:20.040-00:54:23.260 | Justas] I'll take suggestions, I don't know how to not be me here.
 [u0593 | 00:54:24.560-00:54:25.060 | Eolo] Hmm.
 [u0594 | 00:54:25.060-00:54:25.700 | Finnan] It's…
-[u0595 | 00:54:26.540-00:54:29.569 | Audio shared by Mike] And it also just kind of shakes his head. I mean…
-[u0596 | 00:54:30.480-00:54:32.010 | Finnan] Let's just go. My clue.
+[u0595 | 00:54:26.540-00:54:29.569 | Audio shared by Mike] Finnan also just kind of shakes his head. I mean…
+[u0596 | 00:54:30.480-00:54:32.010 | Finnan] Let's just go. My cloak.
 [u0597 | 00:54:32.380-00:54:35.980 | Jrain] my cloak is made of feathers, like, I don't know, like…
 [u0598 | 00:54:36.500-00:54:48.050 | Finnan] Finnan's feeling is, like, after talking to these… To… Nura and… her husband, like…
 [u0599 | 00:54:50.530-00:54:55.710 | Finnan] These people… these people need to be aware that the world can change.
@@ -607,7 +607,7 @@
 [u0607 | 00:55:21.690-00:55:27.590 | Finnan] The people have to rise up and free themselves. We're fomenting a rebellion here, not so much.
 [u0608 | 00:55:27.590-00:55:33.609 | Jrain] Let's get the nice people in trouble so that they'll have to suffer. Sounds good.
 [u0609 | 00:55:34.170-00:55:36.000 | Finnan] Oh, they're already suffering.
-[u0610 | 00:55:37.240-00:55:40.840 | DM] So you had a cross, so the, the, the…
+[u0610 | 00:55:37.240-00:55:40.840 | DM] So you head across, so the, the, the…
 [u0611 | 00:55:41.110-00:55:57.740 | DM] place they pointed you to is… so the… the village is divided into two sections. There's a bigger section on this side of the river. So there's a… there's a big waterfall that comes down out from the mists, splashes down to the ground, and then forms a pool.
 [u0612 | 00:55:58.060-00:56:00.060 | DM] Where that's teeming with fish.
 [u0613 | 00:56:00.370-00:56:04.470 | DM] Right, and then clap goes down off the edge of the chasm.
@@ -616,10 +616,10 @@
 [u0616 | 00:56:23.580-00:56:25.420 | DM] The side of the river you're on.
 [u0617 | 00:56:25.850-00:56:30.259 | DM] Zahara's a… you sort of are pointed to a… to, like, three…
 [u0618 | 00:56:30.450-00:56:36.530 | DM] huts on the other… on the far side, like, close to the… to the bridge to the Cattle Island.
-[u0619 | 00:56:36.690-00:56:43.320 | DM] And… so you can… Just… splash crying.
-[u0620 | 00:56:43.590-00:56:46.930 | DM] The fish look really tasty, to echo the cat.
+[u0619 | 00:56:36.690-00:56:43.320 | DM] And… so you can… Just… splash across.
+[u0620 | 00:56:43.590-00:56:46.930 | DM] The fish look really tasty, to Ekko the cat.
 [u0621 | 00:56:47.410-00:56:49.649 | DM] Like, big, fat salmon.
-[u0622 | 00:56:51.350-00:56:54.010 | Ekko] Heck other cat dives in and gets one of the salmon.
+[u0622 | 00:56:51.350-00:56:54.010 | Ekko] Ekko the cat dives in and gets one of the salmon.
 [u0623 | 00:56:54.180-00:56:55.530 | DM] That's delicious.
 [u0624 | 00:56:56.690-00:57:01.920 | Ekko] Ekko the Cat stays there and eats more salmon until he is, satiated.
 [u0625 | 00:57:02.760-00:57:09.100 | DM] Yeah, I mean, they're, you know, if you're just a house cat, you don't need to eat that many salmon to be satiated, but…
@@ -638,11 +638,11 @@
 [u0638 | 00:57:49.720-00:57:50.920 | DM] Conspicuous.
 [u0639 | 00:57:51.170-00:57:57.440 | DM] And is staring at the rest of you, like, it just, like, drops his net, and is just like…
 [u0640 | 00:57:57.560-00:57:59.010 | DM] Staring at you.
-[u0641 | 00:57:59.200-00:58:05.569 | DM] And then, like, grabs his neck before it walks away, but is still staring at you until you leave.
+[u0641 | 00:57:59.200-00:58:05.569 | DM] And then, like, grabs his net before he walks away, but is still staring at you until you leave.
 [u0642 | 00:58:06.290-00:58:08.179 | Audio shared by Mike] But doesn't say anything.
 [u0643 | 00:58:12.040-00:58:16.029 | DM] And you get to a,
 [u0644 | 00:58:16.640-00:58:21.280 | DM] you get to this, this, this hut, I mean, the door's closed.
-[u0645 | 00:58:23.290-00:58:25.140 | Justas] Justas Knox, politely.
+[u0645 | 00:58:23.290-00:58:25.140 | Justas] Justas knocks, politely.
 [u0646 | 00:58:26.990-00:58:30.510 | DM] a… Bye.
 [u0647 | 00:58:31.240-00:58:36.450 | DM] older… Man with, like,
 [u0648 | 00:58:36.600-00:58:39.579 | DM] Sort of balding, a little bit.
@@ -675,7 +675,7 @@
 [u0675 | 01:00:52.110-01:00:58.580 | DM] Well… The elders say, he says.
 [u0676 | 01:00:58.700-01:01:07.540 | DM] Here is, Zeyfa's… realm?
 [u0677 | 01:01:07.800-01:01:14.370 | DM] We've been brought here for sins of the ancient past, and… We are stuck forever.
-[u0678 | 01:01:16.330-01:01:17.290 | Ekko] Hoosins?
+[u0678 | 01:01:16.330-01:01:17.290 | Ekko] Whose sins?
 [u0679 | 01:01:18.740-01:01:20.160 | Jrain] Nope, nope.
 [u0680 | 01:01:20.870-01:01:24.840 | DM] our… our ancestors, I guess, the story says, although…
 [u0681 | 01:01:25.190-01:01:29.850 | DM] Nobody's ever been able to tell us what those sins are, exactly.
@@ -691,26 +691,26 @@
 [u0691 | 01:02:23.640-01:02:24.630 | DM] Other than…
 [u0692 | 01:02:24.630-01:02:26.920 | Ekko] That might have precipitated that happening?
 [u0693 | 01:02:27.680-01:02:31.619 | Jrain] Well, it lines up with the mess going on with our own chasm.
-[u0694 | 01:02:33.420-01:02:39.730 | Jrain] And there's crazy, weird storms and bits of metal flying around, and… funny blights.
+[u0694 | 01:02:33.420-01:02:39.730 | Jrain] And there's crazy, weird storms and bits of metal flying around, and… funny lights.
 [u0695 | 01:02:40.030-01:02:41.979 | Jrain] In our chasm, too, right?
 [u0696 | 01:02:44.800-01:02:45.560 | DM] true.
 [u0697 | 01:02:56.600-01:02:59.450 | Jrain] A interplanar interface leak.
 [u0698 | 01:03:03.430-01:03:08.790 | Justas] Have you ever seen… Iskander, or anyone in the… Palace?
 [u0699 | 01:03:11.550-01:03:12.810 | DM] the,
-[u0700 | 01:03:16.320-01:03:17.210 | DM] Gas?
-[u0701 | 01:03:18.250-01:03:20.500 | DM] marl Quinn.
-[u0702 | 01:03:22.370-01:03:29.110 | DM] Malcwin the Vakar, Zeyfa's lieutenant, supposedly, emerges.
+[u0700 | 01:03:16.320-01:03:17.210 | DM] Yes.
+[u0701 | 01:03:18.250-01:03:20.500 | DM] Malquin.
+[u0702 | 01:03:22.370-01:03:29.110 | DM] Malquin the Vaqar, Zeyfa's lieutenant, supposedly, emerges.
 [u0703 | 01:03:29.110-01:03:30.479 | Audio shared by Mike] When the sun sets.
 [u0704 | 01:03:33.640-01:03:45.470 | DM] And… Damn… the, some of us, some… some… worship… Him.
-[u0705 | 01:03:45.860-01:03:50.810 | DM] as, as if he was Xypher.
+[u0705 | 01:03:45.860-01:03:50.810 | DM] as, as if he was Zeyfa.
 [u0706 | 01:03:54.080-01:03:57.340 | Finnan] to interrupt. Nobody's ever worshipped Zeyfa.
 [u0707 | 01:03:58.700-01:03:59.869 | DM] He looks at you oddly.
 [u0708 | 01:04:05.350-01:04:11.699 | Finnan] where we come from and where your people come from. Zeyfa is not a creature that is worshipped.
 [u0709 | 01:04:11.890-01:04:13.360 | Audio shared by Mike] Zeyfa is…
-[u0710 | 01:04:13.360-01:04:14.760 | Finnan] is worded off.
+[u0710 | 01:04:13.360-01:04:14.760 | Finnan] is warded off.
 [u0711 | 01:04:16.500-01:04:25.830 | Finnan] One doesn't worship the West Wind. The West Wind brings… Cold, and frost, and… Starvation.
 [u0712 | 01:04:27.740-01:04:29.910 | Audio shared by Mike] Right? I'll look over at Justas.
-[u0713 | 01:04:30.460-01:04:31.840 | Justas] Justas Nutz.
+[u0713 | 01:04:30.460-01:04:31.840 | Justas] Justas nods.
 [u0714 | 01:04:32.380-01:04:34.470 | Audio shared by Mike] The West Wind only carries bad news.
 [u0715 | 01:04:41.150-01:04:42.359 | DM] He looks puzzled.
 [u0716 | 01:04:43.080-01:04:49.209 | Justas] is this Mal… Malquin… look like? What's their… Form or appearance, or…
@@ -725,18 +725,18 @@
 [u0725 | 01:05:34.410-01:05:35.360 | DM] Can you see that?
 [u0726 | 01:05:36.020-01:05:36.350 | Finnan] Yep.
 [u0727 | 01:05:36.350-01:05:36.910 | Justas] Yeah.
-[u0728 | 01:05:36.910-01:05:37.630 | Ekko] S.
+[u0728 | 01:05:36.910-01:05:37.630 | Ekko] Yes.
 [u0729 | 01:05:39.320-01:05:39.840 | DM] Bad.
 [u0730 | 01:05:40.160-01:05:40.920 | Ekko] Thing.
 [u0731 | 01:05:42.630-01:05:43.170 | Justas] Huh.
 [u0732 | 01:05:45.800-01:05:50.220 | DM] But, like, human. I mean, human, like, arms, legs, six and a half feet tall.
 [u0733 | 01:05:56.560-01:06:04.640 | Finnan] So… Are Kestavo ever depicted in humanoid form?
 [u0734 | 01:06:08.630-01:06:10.300 | DM] Not really. I mean…
-[u0735 | 01:06:11.660-01:06:26.730 | DM] I think, you know, occasionally they're, like, semi-personified, like, some of the more powerful ones would be, like, like, Belsa, the West Wind, like the… the… sorry, the Bringer of Spring, you know, the… the… the warm wind from the green sea.
+[u0735 | 01:06:11.660-01:06:26.730 | DM] I think, you know, occasionally they're, like, semi-personified, like, some of the more powerful ones would be, like, like, Besla, the West Wind, like the… the… sorry, the Bringer of Spring, you know, the… the… the warm wind from the green sea.
 [u0736 | 01:06:27.120-01:06:33.210 | DM] might… is, like, feminine in personification, right? And might occasionally be, like.
 [u0737 | 01:06:33.330-01:06:36.589 | DM] A wind with, like, you know, you might imagine her as, like.
 [u0738 | 01:06:36.840-01:06:41.360 | DM] a body of wind having, like, arms and a little bit of a face kind of thing, right? Or, like…
-[u0739 | 01:06:41.930-01:06:44.690 | DM] Braubel, the Glacier King, you might imagine, as…
+[u0739 | 01:06:41.930-01:06:44.690 | DM] Romil, the Glacier King, you might imagine, as…
 [u0740 | 01:06:44.730-01:06:45.999 | Finnan] So, sort of…
 [u0741 | 01:06:46.350-01:06:51.409 | DM] A glac… like, a little bit of an anthropomorphic glacier, but, like, not, like…
 [u0742 | 01:06:52.170-01:06:58.220 | DM] humanoid, right? Like, you wouldn't normally imagine a Kestavo as, like, having arms and legs and…
@@ -744,11 +744,11 @@
 [u0744 | 01:07:02.000-01:07:02.740 | Justas] Yeah.
 [u0745 | 01:07:04.520-01:07:12.690 | Finnan] So I'll take out my… Book of my,
 [u0746 | 01:07:13.820-01:07:16.829 | Finnan] Collected tales and songs of Zimkova.
-[u0747 | 01:07:19.010-01:07:24.320 | Finnan] And I will begin, sort of, showing this to… I forget, Iskandar.
-[u0748 | 01:07:24.320-01:07:25.279 | DM] That is kind of.
-[u0749 | 01:07:25.280-01:07:26.460 | Finnan] a scandal.
+[u0747 | 01:07:19.010-01:07:24.320 | Finnan] And I will begin, sort of, showing this to… I forget, Iskander.
+[u0748 | 01:07:24.320-01:07:25.279 | DM] Iskander.
+[u0749 | 01:07:25.280-01:07:26.460 | Finnan] Iskander.
 [u0750 | 01:07:29.990-01:07:31.500 | Finnan] These are Kestavo.
-[u0751 | 01:07:32.450-01:07:37.219 | Finnan] That is not a Gestapo. I'll read him tale, like, some of the stories.
+[u0751 | 01:07:32.450-01:07:37.219 | Finnan] That is not a Kestavo. I'll read him tale, like, some of the stories.
 [u0752 | 01:07:39.820-01:07:43.029 | DM] He sort of stops you as you're talking, and…
 [u0753 | 01:07:46.290-01:07:47.460 | DM] And what of it?
 [u0754 | 01:07:50.720-01:07:52.019 | DM] I'm just saying, don't…
@@ -763,7 +763,7 @@
 [u0763 | 01:08:16.470-01:08:21.749 | Justas] Tell us about Malquin's guards, or… soldiers, or… Put over there.
 [u0764 | 01:08:22.800-01:08:23.270 | DM] some…
 [u0765 | 01:08:23.279-01:08:24.929 | Justas] How many, how armed?
-[u0766 | 01:08:27.979-01:08:36.269 | DM] some… fights… Him compelling, either through fear, or… True belief.
+[u0766 | 01:08:27.979-01:08:36.269 | DM] some… find… Him compelling, either through fear, or… True belief.
 [u0767 | 01:08:36.499-01:08:41.849 | DM] Some believe that if you serve him, it keeps your family safe from the sacrifice?
 [u0768 | 01:08:42.879-01:08:44.949 | DM] Don't know if that's really true.
 [u0769 | 01:08:45.439-01:08:46.239 | DM] Okay.
@@ -780,7 +780,7 @@
 [u0780 | 01:09:30.700-01:09:34.380 | DM] Until now, he sort of… Thinks about, sort of.
 [u0781 | 01:09:34.840-01:09:39.340 | DM] There were several attempts to escape through those cracks.
 [u0782 | 01:09:41.580-01:09:45.149 | DM] And, the…
-[u0783 | 01:09:46.810-01:09:57.039 | DM] One… a few… he sort of mentions two names. One who went through the whitening crack, and one who went through the color… the changing colors crack.
+[u0783 | 01:09:46.810-01:09:57.039 | DM] One… a few… he sort of mentions two names. One who went through the lightning crack, and one who went through the color… the changing colors crack.
 [u0784 | 01:09:57.560-01:10:04.960 | DM] We… we heard the screams, we heard their screams in the light… when the lightning, as they were electrocuted and died.
 [u0785 | 01:10:05.810-01:10:12.999 | DM] the… Other one, it looked as if their body had dissolved. I do not know what happened to them.
 [u0786 | 01:10:14.430-01:10:21.320 | DM] Those who've tried to escape through the, the one that looks safe, were stopped by Malquin.
@@ -800,7 +800,7 @@
 [u0800 | 01:11:28.640-01:11:30.590 | DM] But almost made it through.
 [u0801 | 01:11:30.860-01:11:37.660 | DM] The second time, after that, there was, like, Malquin appeared, and was like…
 [u0802 | 01:11:39.340-01:11:45.200 | DM] That gave them a whole speech… gave the whole village a whole speech about how, like, death lies that way, and, like, it'll…
-[u0803 | 01:11:45.390-01:11:50.490 | DM] your soul will be destroyed if you go through that, which Iscandia doesn't believe. He thinks.
+[u0803 | 01:11:45.390-01:11:50.490 | DM] your soul will be destroyed if you go through that, which Iskander doesn't believe. He thinks.
 [u0804 | 01:11:51.150-01:11:56.899 | DM] he thinks there's some safety to there. The other ones look really scary and dangerous to him, and…
 [u0805 | 01:11:57.060-01:11:59.590 | DM] like, he has… like…
 [u0806 | 01:11:59.750-01:12:12.529 | DM] Endless Winter kind of looks like more of this, and the metal one, it doesn't even look like you could go through, and people died going into the other two. So it's… but the ice wolf appeared after that, supposedly for our protection.
@@ -815,11 +815,11 @@
 [u0815 | 01:12:27.040-01:12:27.930 | Finnan] Yeah.
 [u0816 | 01:12:27.930-01:12:28.549 | DM] Oh, my…
 [u0817 | 01:12:28.550-01:12:29.170 | Jrain] last night.
-[u0818 | 01:12:29.880-01:12:34.799 | DM] Zahara hit her down in the,
+[u0818 | 01:12:29.880-01:12:34.799 | DM] Zahara hid her down in the,
 [u0819 | 01:12:35.250-01:12:41.869 | DM] Down in the mines, the holes in the cliff, down… Nobody's supposed to come back.
-[u0820 | 01:12:42.220-01:12:48.560 | DM] It's not clear what Malcolm would do to her, or what she means, or how she came back, or…
+[u0820 | 01:12:42.220-01:12:48.560 | DM] It's not clear what Malquin would do to her, or what she means, or how she came back, or…
 [u0821 | 01:12:49.130-01:12:50.380 | DM] We don't know.
-[u0822 | 01:12:50.600-01:12:54.200 | Finnan] I'm gonna… I'm gonna telepathically say to Justas, show him the hat.
+[u0822 | 01:12:50.600-01:12:54.200 | Finnan] I'm gonna… I'm gonna telepathically say to Justas, show him the head.
 [u0823 | 01:12:57.120-01:13:04.550 | Justas] Yeah, I… I don't think this guy needs convincing. I… I think… I think we should… Head on.
 [u0824 | 01:13:05.200-01:13:09.209 | Justas] Let's either go chat with the wolf, or… or with the fey imposter.
 [u0825 | 01:13:09.670-01:13:12.900 | DM] He, he says if, if,
@@ -828,7 +828,7 @@
 [u0828 | 01:13:22.880-01:13:28.360 | DM] the jungle. He sort of points to the lush, thickly dense,
 [u0829 | 01:13:28.680-01:13:35.129 | DM] when… when Zahara needs… when they need time to think and… and space away from this.
 [u0830 | 01:13:36.280-01:13:41.969 | DM] Tells you that there's… you can find it if you go to the… if you go to the,
-[u0831 | 01:13:42.560-01:13:45.470 | DM] the Washfood Islands, right, which is, like, a dense…
+[u0831 | 01:13:42.560-01:13:45.470 | DM] the lush food islands, right, which is, like, a dense…
 [u0832 | 01:13:45.960-01:13:50.239 | DM] Thickly grow… thickly overgrown forest of, like, fruit trees, and…
 [u0833 | 01:13:50.410-01:13:59.210 | DM] crops and all kinds. Finds the… finds the, the tallest apple tree, and… There's, like, a…
 [u0834 | 01:13:59.440-01:14:01.540 | DM] He describes, like, a,
@@ -836,7 +836,7 @@
 [u0836 | 01:14:12.950-01:14:14.819 | DM] Don't be obvious about it, though.
 [u0837 | 01:14:15.680-01:14:17.790 | DM] We don't think anybody knows about that.
 [u0838 | 01:14:19.380-01:14:22.250 | Justas] How many of you are there who feel this way?
-[u0839 | 01:14:24.730-01:14:29.400 | DM] while… there's about… There's seven.
+[u0839 | 01:14:24.730-01:14:29.400 | DM] well… there's about… There's seven.
 [u0840 | 01:14:31.070-01:14:33.820 | DM] There was more, but there's 7 we trust.
 [u0841 | 01:14:34.070-01:14:36.930 | DM] we are… I mean, he… he says we're…
 [u0842 | 01:14:37.270-01:14:40.610 | DM] We would like to go through. We think that's the way out.
@@ -857,7 +857,7 @@
 [u0857 | 01:15:55.300-01:15:56.600 | DM] Why would we do that?
 [u0858 | 01:15:58.670-01:16:06.769 | DM] I mean, I don't mean it… If we can get out, That's enough for me.
 [u0859 | 01:16:15.300-01:16:21.470 | DM] he seems sort of… I mean, he's… he's kind of like… his attitude is a bit… .
-[u0860 | 01:16:23.270-01:16:23.880 | Jrain] AI.
+[u0860 | 01:16:23.270-01:16:23.880 | Jrain] White guy.
 [u0861 | 01:16:25.680-01:16:26.189 | Jrain] What'd you?
 [u0862 | 01:16:27.230-01:16:29.070 | Jrain] I said white guy.
 [u0863 | 01:16:30.440-01:16:36.040 | DM] A little bit, yeah, like, you know. But no, it's also a little bit just…
@@ -873,19 +873,19 @@
 [u0873 | 01:17:33.650-01:17:49.750 | DM] So, flying through it would pose certain challenges, even… it's not like you could just fly above the 40-foot ice wolf. The crack is only 20 feet tall. So, you'd have to have a plan for distracting or getting past the wolf. It's not like you could just…
 [u0874 | 01:17:49.840-01:17:51.000 | DM] fly away.
 [u0875 | 01:17:51.000-01:17:56.519 | Ekko] Sure. I'm just saying, it's like, it's like, what, like, what are you, like, you know, what's the…
-[u0876 | 01:17:56.520-01:18:05.179 | DM] Escandr has clearly, basically, in your conversation, he has certainly implied that the seven of them, this inner circle, are trying to get out.
+[u0876 | 01:17:56.520-01:18:05.179 | DM] Iskander has clearly, basically, in your conversation, he has certainly implied that the seven of them, this inner circle, are trying to get out.
 [u0877 | 01:18:05.210-01:18:08.279 | Ekko] Okay, okay, okay. So there is a group that is trying to, okay.
 [u0878 | 01:18:08.280-01:18:13.939 | DM] But it's the 7 of them, really. And there's maybe another 20 people who would… who sort of…
 [u0879 | 01:18:14.080-01:18:30.179 | DM] aren't actively trying to do anything. There's, like, the seven people who are like, yeah, if you guys, you know, solve the problem, we'll come along, but, like, we're not gonna risk our lives or do anything interesting, right? It's a small group that's actively trying to get out.
 [u0880 | 01:18:32.410-01:18:37.119 | DM] Or who actively believes that there's something better on the other side, would be a better way of putting it.
 [u0881 | 01:18:38.610-01:18:45.490 | DM] But… so he's basically said, look, if you have a way out, he sort of asked, like, do you have an idea? But.
 [u0882 | 01:18:46.540-01:18:47.889 | Justas] Yeah, like, ju-
-[u0883 | 01:18:48.100-01:18:58.370 | Justas] just to hoist the axe. He's… he's sort of offended by the… like, it's kind of vaguely sacrilegious that someone would pretend to…
+[u0883 | 01:18:48.100-01:18:58.370 | Justas] Justas hoists the axe. He's… he's sort of offended by the… like, it's kind of vaguely sacrilegious that someone would pretend to…
 [u0884 | 01:18:58.470-01:19:03.459 | Justas] to, impersonate one of his gods in order to keep people here, and…
 [u0885 | 01:19:03.610-01:19:08.550 | Justas] No, so let's say, of course there's a way out. Either we'll cut our way through the…
-[u0886 | 01:19:08.810-01:19:12.859 | Justas] Wolfer will cut our way through the false god.
+[u0886 | 01:19:08.810-01:19:12.859 | Justas] Wolf or we’ll cut our way through the false god.
 [u0887 | 01:19:13.680-01:19:16.339 | Justas] It's just a question of the order we want to take it in.
-[u0888 | 01:19:18.970-01:19:21.070 | DM] He walks at you,
+[u0888 | 01:19:18.970-01:19:21.070 | DM] He looks at you,
 [u0889 | 01:19:21.410-01:19:23.330 | DM] Sort of laughs a little bit again.
 [u0890 | 01:19:23.560-01:19:26.280 | DM] Maybe your axe is sharper than I think it is.
 [u0891 | 01:19:31.290-01:19:33.290 | Justas] I haven't found something yet that can.
@@ -894,7 +894,7 @@
 [u0894 | 01:19:46.330-01:19:50.259 | Finnan] If this… truly is the Fae impersonator.
 [u0895 | 01:19:52.340-01:19:58.090 | Finnan] They are way beyond anything we can do, Justas, although I applaud the sentiment.
 [u0896 | 01:19:59.300-01:20:05.690 | Finnan] A Feylord is not a… Enemy that can be defeated with an axe.
-[u0897 | 01:20:10.640-01:20:11.949 | Justas] What about a nice wolf?
+[u0897 | 01:20:10.640-01:20:11.949 | Justas] What about an ice wolf?
 [u0898 | 01:20:15.250-01:20:16.529 | Finnan] That may be.
 [u0899 | 01:20:17.020-01:20:17.880 | Finnan] Although…
 [u0900 | 01:20:17.880-01:20:20.729 | Justas] Maybe we start with the wolf, then.
@@ -910,9 +910,9 @@
 [u0910 | 01:20:55.940-01:21:02.419 | Jrain] We wanna… Change this unjust and vaguely sacrilegious situation just on principle.
 [u0911 | 01:21:03.190-01:21:06.139 | Jrain] But also, we kind of want to address the…
 [u0912 | 01:21:06.700-01:21:12.859 | Jrain] Giant supernatural disruption to our own homeworld, and when we get back, maybe have it be a better place, because we were gone.
-[u0913 | 01:21:13.380-01:21:20.740 | Jrain] So, if this failure can give us any insight into The set of cracks.
+[u0913 | 01:21:13.380-01:21:20.740 | Jrain] So, if this fey lord can give us any insight into The set of cracks.
 [u0914 | 01:21:22.210-01:21:26.429 | Jrain] Maybe they're worth talking to in a non-confrontational way for that reason.
-[u0915 | 01:21:33.740-01:21:41.599 | Jrain] Because it would be really nice if our chasm wasn't raining thunderstorms that sent you through interventional metal storms.
+[u0915 | 01:21:33.740-01:21:41.599 | Jrain] Because it would be really nice if our chasm wasn't raining thunderstorms that sent you through interdimensional metal storms.
 [u0916 | 01:21:43.960-01:21:45.480 | Finnan] Yeah, I mean, I mean…
 [u0917 | 01:21:45.480-01:21:46.700 | Ekko] Yeah.
 [u0918 | 01:21:46.730-01:21:49.640 | Finnan] But it kinda does that sometimes, doesn't it?
@@ -927,7 +927,7 @@
 [u0927 | 01:22:32.280-01:22:41.699 | DM] When, like, all the really weird omens started happening, like, you know, the rainbow of strange colors that shattered into glass.
 [u0928 | 01:22:41.930-01:22:49.639 | DM] And fell over, and, like, the… the lightning storm. Like, there's just been a bunch of these, like, odd omens that started happening about…
 [u0929 | 01:22:49.790-01:22:51.290 | DM] About 2 months ago.
-[u0930 | 01:22:54.830-01:22:58.789 | Jrain] So, like, Parenchis and Ajakis are trying to, like, solve this problem, and…
+[u0930 | 01:22:54.830-01:22:58.789 | Jrain] So, like, Pakrinek and Eidrikas are trying to, like, solve this problem, and…
 [u0931 | 01:22:58.790-01:22:59.490 | DM] Yes.
 [u0932 | 01:23:00.030-01:23:00.940 | Jrain] Yeah.
 [u0933 | 01:23:01.620-01:23:08.370 | Jrain] We can't quite rescue them if we can't rescue ourselves, but also if we don't use this opportunity to learn more about what's going on.
@@ -947,16 +947,16 @@
 [u0947 | 01:24:23.150-01:24:25.149 | DM] About a week ago.
 [u0948 | 01:24:25.680-01:24:28.110 | DM] A cloud of superheated steam.
 [u0949 | 01:24:28.450-01:24:40.780 | DM] killed your bird, and obscured what was going on, and it, like, fogs and mists started rising, and nobody knew what, what, what Eidrikas and Pakrinek,
-[u0950 | 01:24:40.920-01:24:45.320 | DM] orinkitik were doing after that.
+[u0950 | 01:24:40.920-01:24:45.320 | DM] Pakrinek were doing after that.
 [u0951 | 01:24:46.440-01:25:00.209 | DM] But, like, Ekko, I mean, this is your mentor, Eidrikas, right? Like, he's, like, a druid of the chasm of the Vejo Vaikai, he's, like, worried that, like, something wrong is happening down there. And that's actually… you went… you came to go after him, originally.
 [u0952 | 01:25:00.210-01:25:01.430 | Ekko] Right, right, right.
 [u0953 | 01:25:03.860-01:25:10.780 | Ekko] So… okay. Well… I mean, I definitely wanna… Help my mentor.
 [u0954 | 01:25:13.540-01:25:14.760 | Jrain] That's a spirit.
-[u0955 | 01:25:15.610-01:25:16.130 | DM] South.
-[u0956 | 01:25:18.150-01:25:26.300 | DM] you guys are… I mean, Escandr's happy to keep talking to you. You could go investigate the wolf, you could go find…
+[u0955 | 01:25:15.610-01:25:16.130 | DM] So…
+[u0956 | 01:25:18.150-01:25:26.300 | DM] you guys are… I mean, Iskander’s happy to keep talking to you. You could go investigate the wolf, you could go find…
 [u0957 | 01:25:26.590-01:25:28.350 | DM] Zahara, although…
 [u0958 | 01:25:28.520-01:25:42.800 | DM] it's not clear they know that much more than… they're more the active wing, and might have a better sense of specific plans, or thing, or help plan plans, but, you could also go knock… I mean.
-[u0959 | 01:25:42.990-01:25:50.520 | DM] Escandr does not think the Lord would, like, kill you. Like, he doesn't, like, kill people. He doesn't… he's not, like, violent.
+[u0959 | 01:25:42.990-01:25:50.520 | DM] Iskander does not think the Lord would, like, kill you. Like, he doesn't, like, kill people. He doesn't… he's not, like, violent.
 [u0960 | 01:25:51.510-01:25:54.940 | DM] But, who knows, I mean, he might throw you back in the labyrinth, I guess.
 [u0961 | 01:25:55.290-01:25:57.260 | DM] But… Damn.
 [u0962 | 01:25:58.260-01:26:00.619 | DM] You could go knock on the door and talk to Malquin.
@@ -972,7 +972,7 @@
 [u0972 | 01:26:44.400-01:26:46.200 | Eolo] Could we… is there something we could shoot?
 [u0973 | 01:26:49.850-01:26:52.570 | DM] I mean, there's a 40-foot-tall ice wolf.
 [u0974 | 01:26:56.860-01:26:57.630 | DM] Bye.
-[u0975 | 01:26:58.160-01:26:59.450 | DM] You could cheat.
+[u0975 | 01:26:58.160-01:26:59.450 | DM] You could shoot it.
 [u0976 | 01:26:59.840-01:27:02.139 | DM] You don't know what happened if you shot it.
 [u0977 | 01:27:03.140-01:27:03.989 | DM] We don't need to…
 [u0978 | 01:27:03.990-01:27:08.569 | Justas] that it's really there. I mean, that could be anything.
@@ -1004,10 +1004,10 @@
 [u1004 | 01:29:24.350-01:29:29.110 | Ekko] I guess Ekko is more motivated to figure out ways to help his mentor.
 [u1005 | 01:29:29.950-01:29:31.000 | Ekko] Primarily.
 [u1006 | 01:29:33.700-01:29:37.310 | Ekko] But, you know, we're obviously in a weird little spot right now.
-[u1007 | 01:29:41.840-01:29:46.459 | Ekko] I mean, I'm down to attack a nice wolf, if that's what we want to do.
+[u1007 | 01:29:41.840-01:29:46.459 | Ekko] I mean, I'm down to attack an ice wolf, if that's what we want to do.
 [u1008 | 01:29:48.840-01:29:52.499 | Jrain] I think we want to charm the pants off this Feylord and get him to…
 [u1009 | 01:29:53.690-01:30:00.470 | Jrain] Change what he's doing, and… Put his talents to use solving world peace.
-[u1010 | 01:30:03.620-01:30:06.359 | Finnan] And is not convinced that's gonna work, but…
+[u1010 | 01:30:03.620-01:30:06.359 | Finnan] Finnan is not convinced that's gonna work, but…
 [u1011 | 01:30:11.040-01:30:13.010 | DM] I mean, it's kind of like, if… if…
 [u1012 | 01:30:13.380-01:30:19.049 | DM] Zeyfa is really the… not Zeyfa… Zahara is really the strategist, if you don't know what to do.
 [u1013 | 01:30:19.980-01:30:21.430 | DM] Let's go find them.
@@ -1018,17 +1018,17 @@
 [u1018 | 01:30:45.400-01:30:45.750 | DM] Yep.
 [u1019 | 01:30:45.750-01:30:49.200 | Justas] Good point, good point. Great story. You could send the message, yeah.
 [u1020 | 01:30:49.540-01:30:50.320 | Justas] Yeah.
-[u1021 | 01:30:51.310-01:30:55.749 | DM] You could send a scandal with a message, what's the message? We're stirring the pot, be ready.
+[u1021 | 01:30:51.310-01:30:55.749 | DM] You could send Iskander with a message, what's the message? We're stirring the pot, be ready.
 [u1022 | 01:30:56.760-01:30:57.330 | Jrain] Meh.
 [u1023 | 01:30:57.930-01:31:08.040 | Finnan] I'll… Yeah, and… You know, make sure that the, you know, as many people as you can are
 [u1024 | 01:31:08.820-01:31:15.150 | Finnan] Are prepared to… Going through the portal, at short notice.
 [u1025 | 01:31:15.690-01:31:16.240 | Justas] Hmm.
 [u1026 | 01:31:18.260-01:31:18.950 | DM] Okay?
 [u1027 | 01:31:22.350-01:31:28.699 | Finnan] And I'll… I'll tell everybody, and it's fine. I'll… I'll actually… I'll… I'll…
-[u1028 | 01:31:29.000-01:31:32.970 | Finnan] Switch to… to comments so we can all talk.
-[u1029 | 01:31:34.230-01:31:37.539 | Finnan] I'll apologize to Iskender, but tell him…
+[u1028 | 01:31:29.000-01:31:32.970 | Finnan] Switch to… to Common so we can all talk.
+[u1029 | 01:31:34.230-01:31:37.539 | Finnan] I'll apologize to Iskander, but tell him…
 [u1030 | 01:31:37.700-01:31:44.999 | Finnan] If he doesn't mind us using the privacy of his house for 5 minutes to plan, we would appreciate it.
-[u1031 | 01:31:45.000-01:31:48.319 | DM] He'll go break your message and leave you alone, that's fine.
+[u1031 | 01:31:45.000-01:31:48.319 | DM] He'll go bring your message and leave you alone, that's fine.
 [u1032 | 01:31:48.460-01:31:51.630 | DM] He goes off, he gets secret planning.
 [u1033 | 01:31:51.750-01:31:52.710 | DM] Damn.
 [u1034 | 01:31:52.940-01:31:59.750 | DM] he tells you, no, yeah, he just goes, he's fine. He says, I don't know what you're planning, but…
@@ -1041,8 +1041,8 @@
 [u1041 | 01:32:21.770-01:32:24.230 | Finnan] Rain… some kind of weird rainbow?
 [u1042 | 01:32:25.220-01:32:28.060 | Finnan] Strange colors that shattered into glass.
 [u1043 | 01:32:28.470-01:32:29.120 | DM] Yep.
-[u1044 | 01:32:29.940-01:32:36.540 | Finnan] Who's to say that's not the same plantar disturbance that caused the rainbow swirly color gash?
-[u1045 | 01:32:36.840-01:32:40.629 | Finnan] Where the ice that froze the Taft is not the same
+[u1044 | 01:32:29.940-01:32:36.540 | Finnan] Who's to say that's not the same planar disturbance that caused the rainbow swirly color gash?
+[u1045 | 01:32:36.840-01:32:40.629 | Finnan] Or the ice that froze the Teft is not the same
 [u1046 | 01:32:43.410-01:32:50.570 | Finnan] Planar disturbance that caused the gash to… the… Ice World here.
 [u1047 | 01:32:53.580-01:32:54.980 | Finnan] So why don't we…
 [u1048 | 01:33:00.230-01:33:03.089 | Finnan] Why don't we tell this fae?
@@ -1055,7 +1055,7 @@
 [u1055 | 01:33:37.600-01:33:39.609 | Finnan] Or if we can pull off 27.
 [u1056 | 01:33:42.450-01:33:44.280 | Justas] Sounds like… It's been a number of ski.
 [u1057 | 01:33:44.600-01:33:46.400 | Finnan] Think we can get away with.
-[u1058 | 01:33:57.410-01:33:58.480 | Ekko] Just so you know, there's no music mic.
+[u1058 | 01:33:57.410-01:33:58.480 | Ekko] Just so you know, there's no music Mike.
 [u1059 | 01:33:58.480-01:34:01.660 | Finnan] I mean, as far as we know, nobody knows where we came from.
 [u1060 | 01:34:05.450-01:34:06.659 | Jrain] Unless he was watching.
 [u1061 | 01:34:06.660-01:34:11.960 | Finnan] us in the labyrinth, because that's his, like, only entertainment, is Labyrinth view.
@@ -1073,11 +1073,11 @@
 [u1073 | 01:35:15.150-01:35:17.729 | Finnan] So, lead the way, let's just march on the palace.
 [u1074 | 01:35:20.490-01:35:23.590 | Finnan] We're here on a mission, we're asking for his help.
 [u1075 | 01:35:25.140-01:35:26.010 | Eolo] Very good.
-[u1076 | 01:35:27.030-01:35:29.570 | Eolo] Yellow…
+[u1076 | 01:35:27.030-01:35:29.570 | Eolo] Eolo…
 [u1077 | 01:35:29.570-01:35:33.570 | Finnan] just… just remember, That we're on a mission.
 [u1078 | 01:35:34.150-01:35:35.900 | Finnan] And we're asking for his help.
 [u1079 | 01:35:37.200-01:35:38.880 | Jrain] You can still shoot first.
-[u1080 | 01:35:38.880-01:35:40.799 | Finnan] They're not shooting him.
+[u1080 | 01:35:38.880-01:35:40.799 | Finnan] We’re not shooting him.
 [u1081 | 01:35:41.060-01:35:43.340 | Finnan] That's all we need to remember.
 [u1082 | 01:35:43.760-01:35:45.929 | Finnan] I'm sure there'll be something to shoot later.
 [u1083 | 01:35:49.530-01:35:51.029 | Eolo] Just get us in the door, right?
@@ -1104,15 +1104,15 @@
 [u1104 | 01:37:21.090-01:37:22.899 | DM] So, tell me what you're doing.
 [u1105 | 01:37:23.730-01:37:28.430 | Finnan] Yeah, march back to where the bridge appears, and then just stand there, obviously, in the open.
 [u1106 | 01:37:28.430-01:37:32.249 | DM] So, hold on a sec, Tim. So, Kenku, what do you guys do?
-[u1107 | 01:37:32.400-01:37:34.849 | DM] What, what is Kate, so what is Strand doing?
+[u1107 | 01:37:32.400-01:37:34.849 | DM] What, what is Kate, so what is Jrain doing?
 [u1108 | 01:37:36.220-01:37:42.810 | Jrain] Jrain is fluffing up her cloak dramatically and just striding off looking like a… Warrior.
 [u1109 | 01:37:43.010-01:37:44.150 | Jrain] Okay.
 [u1110 | 01:37:44.150-01:37:46.120 | Ekko] Her very impressive friends.
 [u1111 | 01:37:46.240-01:37:50.439 | Jrain] The halfling and the really actually impressive-looking warrior.
-[u1112 | 01:37:50.440-01:37:55.880 | DM] not… when you say fluffing up your code dramatically, you don't mean casting Levitate and getting…
+[u1112 | 01:37:50.440-01:37:55.880 | DM] not… when you say fluffing up your cloak dramatically, you don't mean casting Levitate and getting…
 [u1113 | 01:37:56.260-01:37:59.120 | DM] drifted across. You're just… you're just trying to look dramatic.
 [u1114 | 01:37:59.670-01:38:09.540 | Jrain] I'm just trying to look dramatic for now. If we decide that we… if no bridge appears, I reserve the right to levitate later, but…
-[u1115 | 01:38:09.540-01:38:10.909 | DM] What's… what's YOLA doing?
+[u1115 | 01:38:09.540-01:38:10.909 | DM] What's… what's Eolo doing?
 [u1116 | 01:38:12.710-01:38:16.740 | Eolo] Unfolding his wings, confidently.
 [u1117 | 01:38:17.740-01:38:25.190 | Eolo] Looking around for something interesting to use… in the giant's quiver to…
 [u1118 | 01:38:25.570-01:38:33.049 | Eolo] Create some magic arrows, to complete the mission, which involves shooting Things, probably.
@@ -1123,7 +1123,7 @@
 [u1123 | 01:38:49.300-01:38:52.649 | DM] There's, like, snow and mist and ice.
 [u1124 | 01:38:52.880-01:38:59.399 | DM] There's a cattle island with a rope bridge to it.
 [u1125 | 01:39:00.250-01:39:00.840 | Eolo] Hmm, stop.
-[u1126 | 01:39:00.840-01:39:02.610 | DM] The hots are mostly stone.
+[u1126 | 01:39:00.840-01:39:02.610 | DM] The huts are mostly stone.
 [u1127 | 01:39:04.380-01:39:11.289 | DM] There's, of course, like, 4 cracks of weird magic in the wall, but that's about 400… 400 feet away.
 [u1128 | 01:39:12.220-01:39:12.910 | Eolo] Hmm.
 [u1129 | 01:39:15.260-01:39:16.459 | Eolo] Well, open day.
@@ -1131,7 +1131,7 @@
 [u1131 | 01:39:16.780-01:39:17.630 | Eolo] for that, but…
 [u1132 | 01:39:17.690-01:39:20.060 | Finnan] What is your quiver, exactly?
 [u1133 | 01:39:20.900-01:39:24.610 | Finnan] Can you… can you, like, stick it into the…
-[u1134 | 01:39:25.120-01:39:30.860 | Finnan] Sharp metal one and get weird metallic plane of metal eras.
+[u1134 | 01:39:25.120-01:39:30.860 | Finnan] Sharp metal one and get weird metallic plane of metal arrows.
 [u1135 | 01:39:31.670-01:39:33.700 | Finnan] How does it work? I don't know.
 [u1136 | 01:39:34.530-01:39:41.099 | Eolo] Well, you know, mostly I've just, like, put a little glowing ember in there, and then I can shoot a flaming arrow, or a chunk of ice, or…
 [u1137 | 01:39:41.750-01:39:43.999 | Eolo] Or, stone or something.
@@ -1148,7 +1148,7 @@
 [u1148 | 01:40:25.390-01:40:28.160 | Eolo] Yep. This is a good character, I enjoy playing him.
 [u1149 | 01:40:31.120-01:40:39.240 | DM] No, it's not a vortex, you don't get sucked through. If you just stick your hand in.
 [u1150 | 01:40:39.240-01:40:40.429 | Justas] It goes away.
-[u1151 | 01:40:40.430-01:40:44.890 | DM] Oh, holy, Hold on, where are my guys?
+[u1151 | 01:40:40.430-01:40:44.890 | DM] Oh, holy, Hold on, where are my dice?
 [u1152 | 01:40:45.510-01:40:46.330 | DM] Oops.
 [u1153 | 01:40:58.560-01:41:01.119 | DM] I know you're a major fan, I'll just have to roll.
 [u1154 | 01:41:01.280-01:41:03.840 | DM] I just have to roll on D&D Beyond one second.
@@ -1160,7 +1160,7 @@
 [u1160 | 01:41:36.860-01:41:44.910 | DM] As their hand is shredded by, well… So, you can choose.
 [u1161 | 01:41:45.040-01:41:47.339 | DM] You stick your hand in to…
 [u1162 | 01:41:47.720-01:41:56.489 | DM] try and, like, get something. And, like, like, this, like, sharp, like, blades are basically flying through the air, like, shredding your hand. Now.
-[u1163 | 01:41:56.690-01:41:57.470 | Ekko] Major.
+[u1163 | 01:41:56.690-01:41:57.470 | Ekko] made your.
 [u1164 | 01:41:57.470-01:42:06.370 | DM] save. So you can either take 18 points of damage and take a piece of the sharp metal with you as you withdraw your hand, or you can take half damage and get nothing.
 [u1165 | 01:42:08.920-01:42:10.180 | Eolo] I'm taking the thing.
 [u1166 | 01:42:10.180-01:42:17.199 | DM] Okay. So, you stuck your hand into, like, a swirling whirlwind, basically, and, like, this…
@@ -1178,12 +1178,12 @@
 [u1178 | 01:43:08.390-01:43:10.770 | DM] It still looks like it's ice, but it's… you notice…
 [u1179 | 01:43:10.770-01:43:16.230 | Finnan] Say telepathically to Eolo, just wave at it, don't shoot at it.
 [u1180 | 01:43:18.250-01:43:21.110 | Eolo] With my crossbow, I assume you mean. I wave with my crossbow.
-[u1181 | 01:43:21.960-01:43:22.919 | DM] It's eyes open.
+[u1181 | 01:43:21.960-01:43:22.919 | DM] Its eyes open.
 [u1182 | 01:43:24.230-01:43:25.950 | Justas] I'll say… To…
 [u1183 | 01:43:25.950-01:43:27.179 | Finnan] By the way…
 [u1184 | 01:43:27.180-01:43:30.090 | Justas] Tell him to not believe that it's there and see what happens.
 [u1185 | 01:43:30.500-01:43:33.720 | Finnan] Try not believing that it's there and see what happens.
-[u1186 | 01:43:34.400-01:43:36.809 | Eolo] I confidently disbelieve in the world.
+[u1186 | 01:43:34.400-01:43:36.809 | Eolo] I confidently disbelieve in the wolf.
 [u1187 | 01:43:38.570-01:43:42.039 | DM] Roll it in… roll… well, I'll… actually, what's your intelligence?
 [u1188 | 01:43:43.030-01:43:48.899 | Eolo] very high, like, greatest intelligence of all. I have a 16.
 [u1189 | 01:43:49.700-01:43:51.440 | DM] That, the Wolf, I mean…
@@ -1191,9 +1191,9 @@
 [u1191 | 01:43:59.470-01:44:00.560 | Eolo] Still there.
 [u1192 | 01:44:03.600-01:44:05.430 | Eolo] But it may as well not be.
 [u1193 | 01:44:05.690-01:44:11.569 | Finnan] Come back this way, so we can go… bother this fey dude.
-[u1194 | 01:44:11.570-01:44:15.899 | DM] You do need to take a short rest to see what Not from these errors.
+[u1194 | 01:44:11.570-01:44:15.899 | DM] You do need to take a short rest to see what comes from these arrows.
 [u1195 | 01:44:16.200-01:44:16.760 | Eolo] Yep.
-[u1196 | 01:44:17.270-01:44:26.690 | Finnan] Yeah, let's talk to Buffet first, and then we can short rest before we do anything else. Unless you want to short rest now, although we've already made our scene, so it's gonna…
+[u1196 | 01:44:17.270-01:44:26.690 | Finnan] Yeah, let's talk to the fey first, and then we can short rest before we do anything else. Unless you want to short rest now, although we've already made our scene, so it's gonna…
 [u1197 | 01:44:27.330-01:44:33.790 | Finnan] Kind of dilute our impact if we stomp around town and then vanish for an hour.
 [u1198 | 01:44:33.790-01:44:39.699 | DM] So, hold on, while this is happening, what is… Kong, what is… is Eolo… I mean, is Ekko doing anything? Are you just…
 [u1199 | 01:44:39.970-01:44:40.950 | DM] Still a cat?
@@ -1209,7 +1209,7 @@
 [u1209 | 01:45:22.080-01:45:25.710 | Finnan] Use minor illusion to boost my voice louder. Okay.
 [u1210 | 01:45:25.710-01:45:26.809 | DM] That's a… yeah, okay.
 [u1211 | 01:45:26.930-01:45:36.830 | DM] So, you know, Eolo comes back after a few minutes with, like, a bleeding hand and this weird piece of metal, which I guess you've thrown in your quiver.
-[u1212 | 01:45:36.950-01:45:42.660 | DM] that… Dad.
+[u1212 | 01:45:36.950-01:45:42.660 | DM] that… that…
 [u1213 | 01:45:43.290-01:45:46.679 | DM] Nothing's happened with the bridge, although there's now maybe about…
 [u1214 | 01:45:47.080-01:45:50.639 | DM] 15 people who have variously stopped to look at you.
 [u1215 | 01:45:51.110-01:45:56.689 | DM] So there's a little… nobody's come close to you, it's not like there's a crowd around you, but there's definitely people…
@@ -1226,8 +1226,8 @@
 [u1226 | 01:46:32.580-01:46:34.840 | DM] Kate speaks, er, Jrain speaks Sylvan.
 [u1227 | 01:46:35.700-01:46:36.290 | Eolo] Hmm.
 [u1228 | 01:46:36.290-01:46:45.400 | Finnan] Well, then I'll ask Jrain, would you, shout in your loudest, most convincing, and politest voice?
-[u1229 | 01:46:45.890-01:46:52.590 | Finnan] That we are interplanner… Travelers come to conference on the…
-[u1230 | 01:46:54.330-01:46:58.169 | Finnan] Planner rifts that are affecting both of our worlds.
+[u1229 | 01:46:45.890-01:46:52.590 | Finnan] That we are interplanar… Travelers come to conference on the…
+[u1230 | 01:46:54.330-01:46:58.169 | Finnan] Planar rifts that are affecting both of our worlds.
 [u1231 | 01:46:58.530-01:47:00.430 | Finnan] Please extend the bridge.
 [u1232 | 01:47:03.070-01:47:05.349 | Jrain] I say that exactly.
 [u1233 | 01:47:05.350-01:47:06.710 | DM] Because I have to…
@@ -1242,7 +1242,7 @@
 [u1242 | 01:47:27.420-01:47:33.050 | DM] a… the bridge extends, or a bridge extends, it's… it's…
 [u1243 | 01:47:33.510-01:47:36.759 | DM] it's narrow, right? It's only, like, maybe…
 [u1244 | 01:47:37.090-01:47:39.329 | DM] 6 inches or 8 inches across.
-[u1245 | 01:47:39.770-01:47:45.970 | DM] 8, you know, 8 inches. You could walk it, but it's definitely not too abreast kind of thing.
+[u1245 | 01:47:39.770-01:47:45.970 | DM] 8, you know, 8 inches. You could walk it, but it's definitely not two abreast kind of thing.
 [u1246 | 01:47:47.220-01:47:50.719 | DM] And you see a,
 [u1247 | 01:47:51.540-01:48:00.289 | DM] a door on the… on the palace, kind of swing open. Like, the front door just kind of swings open, but you don't hear any response.
 [u1248 | 01:48:05.920-01:48:07.039 | Finnan] That's an invitation.
@@ -1250,17 +1250,17 @@
 [u1250 | 01:48:10.920-01:48:19.680 | DM] So you… you come across this narrow bridge, it's… it takes a certain amount of… I mean, you don't have to… you don't have to roll to cross it, but it certainly…
 [u1251 | 01:48:19.830-01:48:22.970 | DM] Takes a certain amount of concentration if you want to, like.
 [u1252 | 01:48:23.150-01:48:42.150 | DM] you have to, like, carefully step. It's slippery, and it's only about 8 inches across, and of course, either direction is, like, a plunge down into the labyrinth. So it's a certain amount of… well, the Kenku maybe just flap their wings, and a cat… I mean, your cat is, like, whatever, right? This is not a big deal for a cat, but.
-[u1253 | 01:48:42.330-01:48:45.859 | Justas] And the half thing is nimble, it's… it's really just me who has a problem.
-[u1254 | 01:48:45.860-01:48:48.050 | DM] But, yeah, Kate, and Drayton.
+[u1253 | 01:48:42.330-01:48:45.859 | Justas] And the halfling is nimble, it's… it's really just me who has a problem.
+[u1254 | 01:48:45.860-01:48:48.050 | DM] But, yeah, Kate, and Jrain.
 [u1255 | 01:48:49.250-01:48:54.200 | DM] But you don't really have a problem, it's just distracting, right? Like, it's just, you have to pay attention to foot after foot.
-[u1256 | 01:48:55.070-01:48:58.230 | Jrain] I mean, I have a plus 7 to acrobatics, I think it can cross an arrow.
-[u1257 | 01:48:58.230-01:49:06.119 | DM] Well, Jrain is like, I do this in my sleep. It's really… no, it's just justice. Justas is the only one who's distracted. The rest of you are like, meh.
-[u1258 | 01:49:06.320-01:49:09.019 | DM] Jess is like, damn my heavy feet!
+[u1256 | 01:48:55.070-01:48:58.230 | Jrain] I mean, I have a plus 7 to acrobatics, I think I can cross a narrow.
+[u1257 | 01:48:58.230-01:49:06.119 | DM] Well, Jrain is like, I do this in my sleep. It's really… no, it's just Justas. Justas is the only one who's distracted. The rest of you are like, meh.
+[u1258 | 01:49:06.320-01:49:09.019 | DM] Justas is like, damn my heavy feet!
 [u1259 | 01:49:09.520-01:49:10.350 | DM] Damn.
 [u1260 | 01:49:12.050-01:49:25.060 | DM] you come across this palace, like I described before, it's, like, large, fancy, but there's these large double doors, right, made of, like, something dark, some sort of dark metal. And one of them is, like, swung open.
 [u1261 | 01:49:25.060-01:49:33.090 | DM] And you can see there's, like, a court, like, a inner hall, like, an inner wall… you know, hall, basically, that you can walk into.
 [u1262 | 01:49:35.960-01:49:36.960 | Jrain] You're welcome.
-[u1263 | 01:49:36.960-01:49:37.740 | Finnan] walking.
+[u1263 | 01:49:36.960-01:49:37.740 | Finnan] walk in.
 [u1264 | 01:49:38.800-01:49:41.239 | DM] The door slams shut as soon as you walk in.
 [u1265 | 01:49:42.980-01:49:48.609 | DM] And you see… In front of you, there's, like, it's like an entrance hall.
 [u1266 | 01:49:48.810-01:50:02.400 | DM] There's a two… there's, like, passageways that lead to the left and the right, and then immediately in front of the entrance hall, like, on the other side, there's another sort of double door, which, as the other one slams shut, also swings open.
@@ -1271,7 +1271,7 @@
 [u1271 | 01:50:21.360-01:50:22.020 | Finnan] forward.
 [u1272 | 01:50:22.770-01:50:27.689 | DM] You know, when you cross again, the door behind you slams shut, and you hear a voice.
 [u1273 | 01:50:28.370-01:50:31.819 | DM] Behind you, like, speaking…
-[u1274 | 01:50:32.940-01:50:39.659 | DM] well, you hear it in several languages, I don't know what language everybody speaks, but first and Elvish, are you real?
+[u1274 | 01:50:32.940-01:50:39.659 | DM] well, you hear it in several languages, I don't know what language everybody speaks, but first in Elvish, are you real?
 [u1275 | 01:50:39.970-01:50:44.670 | DM] And then in Sylvan, you hear, Travelers?
 [u1276 | 01:50:44.780-01:50:48.050 | DM] From the outside, and then in common. Who are you?
 [u1277 | 01:50:48.200-01:50:50.420 | DM] What are your names? Why are you here?
@@ -1290,9 +1290,9 @@
 [u1290 | 01:51:46.940-01:51:48.360 | DM] In common.
 [u1291 | 01:51:49.830-01:51:51.410 | Jrain] I respond.
 [u1292 | 01:51:51.700-01:51:53.989 | DM] it put… he points it at Eolo.
-[u1293 | 01:51:55.500-01:51:56.450 | DM] U.
+[u1293 | 01:51:55.500-01:51:56.450 | DM] You.
 [u1294 | 01:51:57.720-01:51:59.900 | DM] Where do you fly to with those wings?
-[u1295 | 01:52:02.190-01:52:03.840 | DM] There's nowhere to flash.
+[u1295 | 01:52:02.190-01:52:03.840 | DM] There's nowhere to fly.
 [u1296 | 01:52:04.230-01:52:05.879 | DM] There's no up or down.
 [u1297 | 01:52:09.770-01:52:11.240 | Eolo] Yes there is.
 [u1298 | 01:52:12.600-01:52:13.960 | DM] You would deny me?
@@ -1303,7 +1303,7 @@
 [u1303 | 01:52:44.740-01:52:47.310 | DM] He disappears and reappears on the throne.
 [u1304 | 01:52:48.450-01:52:50.230 | DM] and says,
 [u1305 | 01:52:53.920-01:52:58.770 | DM] Seeming, like, in a totally different tone of voice, like, a much more, kind of,
-[u1306 | 01:52:59.770-01:53:13.269 | DM] regal and melodious. Like, this was… he was talking, like, statico, like, harsh, like, in a much more melodious and regal kind of voice, in… also in common. From sitting on the throne, says.
+[u1306 | 01:52:59.770-01:53:13.269 | DM] regal and melodious. Like, this was… he was talking, like, staccato, like, harsh, like, in a much more melodious and regal kind of voice, in… also in common. From sitting on the throne, says.
 [u1307 | 01:53:15.060-01:53:16.459 | DM] You are here.
 [u1308 | 01:53:17.530-01:53:19.020 | DM] about the cracks.
 [u1309 | 01:53:19.180-01:53:26.839 | DM] in the wall. In reality, I am Malquin the Vaqar, ruler of this place.
@@ -1335,8 +1335,8 @@
 [u1335 | 01:55:55.070-01:55:57.290 | DM] There's nothing beyond the edge.
 [u1336 | 01:55:57.860-01:55:59.929 | DM] So the cracks must not be real either.
 [u1337 | 01:56:00.100-01:56:01.330 | DM] It is a trick.
-[u1338 | 01:56:01.750-01:56:07.980 | DM] A trick of… Of me? Am I checking me? That would not be… that would be cruel.
-[u1339 | 01:56:08.560-01:56:10.369 | Finnan] So why do you rent them?
+[u1338 | 01:56:01.750-01:56:07.980 | DM] A trick of… Of me? Am I tricking me? That would not be… that would be cruel.
+[u1339 | 01:56:08.560-01:56:10.369 | Finnan] So why do you guard them?
 [u1340 | 01:56:11.380-01:56:14.449 | Finnan] Why are they guarded if they are not real?
 [u1341 | 01:56:16.100-01:56:16.730 | DM] Duh.
 [u1342 | 01:56:18.110-01:56:24.729 | DM] My people will vanish into nothing if they go through. It will eat them, consume them, destroy them.
@@ -1360,7 +1360,7 @@
 [u1360 | 01:58:06.870-01:58:08.069 | Finnan] I mean, do you want…
 [u1361 | 01:58:08.190-01:58:12.249 | Justas] Unshoulders his knapsack and pulls out the severed head of the creature.
 [u1362 | 01:58:16.660-01:58:22.890 | DM] He vanishes from the throne, and appears standing next to… standing, like.
-[u1363 | 01:58:23.110-01:58:27.510 | DM] next, like, very, very close to justice, and grabs…
+[u1363 | 01:58:23.110-01:58:27.510 | DM] next, like, very, very close to Justas, and grabs…
 [u1364 | 01:58:27.730-01:58:29.500 | Finnan] grabs the, the…
 [u1365 | 01:58:29.600-01:58:31.440 | DM] to,
 [u1366 | 01:58:31.550-01:58:39.160 | DM] Creature's head from you, and, like, holds it up, sort of looking at it, like, and says, my…
@@ -1397,7 +1397,7 @@
 [u1397 | 02:01:20.720-02:01:21.690 | Finnan] Kong.
 [u1398 | 02:01:22.470-02:01:24.360 | Finnan] You have detect thoughts.
 [u1399 | 02:01:27.820-02:01:29.739 | DM] That would be a useful thing to do.
-[u1400 | 02:01:38.890-02:01:39.340 | Finnan] Passed.
+[u1400 | 02:01:38.890-02:01:39.340 | Finnan] Cast.
 [u1401 | 02:01:39.340-02:01:40.149 | DM] You're on mute.
 [u1402 | 02:01:43.690-02:01:45.500 | DM] You're on mute, Kong, if you're talking.
 [u1403 | 02:01:49.240-02:01:51.589 | Ekko] Sorry, I was saying, so I do.
@@ -1406,7 +1406,7 @@
 [u1406 | 02:02:08.280-02:02:09.399 | Ekko] Let me do that.
 [u1407 | 02:02:09.700-02:02:15.009 | DM] Yeah, you learn what's most on the targets. They don't even get a… they don't get a save, I think, unless you…
 [u1408 | 02:02:16.230-02:02:17.829 | DM] Try to probe deeper.
-[u1409 | 02:02:17.830-02:02:26.179 | Finnan] Right, and once for long rest, you can… you can cast it without using a spell slot or spell components, so it's undetectable.
+[u1409 | 02:02:17.830-02:02:26.179 | Finnan] Right, and once per long rest, you can… you can cast it without using a spell slot or spell components, so it's undetectable.
 [u1410 | 02:02:26.970-02:02:28.170 | DM] That's a good idea.
 [u1411 | 02:02:29.320-02:02:30.260 | Ekko] Alright, I'll do that.
 [u1412 | 02:02:30.470-02:02:39.720 | DM] Okay, so, let me get to… let me… so, Justas, your… I mean… you kinda… think about…
@@ -1422,8 +1422,8 @@
 [u1422 | 02:03:38.430-02:03:38.980 | DM] Right.
 [u1423 | 02:03:41.200-02:03:44.269 | DM] But, I mean, it's… it's a little bit hard to… to…
 [u1424 | 02:03:44.270-02:03:44.900 | Justas] Sure.
-[u1425 | 02:03:44.900-02:03:45.620 | DM] bike.
-[u1426 | 02:03:46.030-02:03:47.910 | DM] But you're casting the tech dots?
+[u1425 | 02:03:44.900-02:03:45.620 | DM] Like…
+[u1426 | 02:03:46.030-02:03:47.910 | DM] But you're casting Detect Thoughts?
 [u1427 | 02:03:49.740-02:03:50.600 | Ekko] I am, yeah.
 [u1428 | 02:03:50.810-02:03:51.470 | DM] Okay.
 [u1429 | 02:03:51.730-02:03:58.350 | DM] right, so sorry, he… you cast Detect Thoughts, and
@@ -1432,20 +1432,20 @@
 [u1432 | 02:04:07.170-02:04:10.540 | DM] how long have you been here? And he says, well, I don't rightly remember, right?
 [u1433 | 02:04:10.540-02:04:11.360 | Finnan] Right.
 [u1434 | 02:04:11.360-02:04:16.779 | DM] I'm sending you a message with his thoughts.
-[u1435 | 02:04:16.990-02:04:18.579 | Ekko] Grip, cool.
+[u1435 | 02:04:16.990-02:04:18.579 | Ekko] Great, cool.
 [u1436 | 02:04:20.300-02:04:24.440 | DM] So, yes, I, I don't… I don't… rightly remember.
-[u1437 | 02:04:25.200-02:04:26.980 | Finnan] Ayahu Assem.
+[u1437 | 02:04:25.200-02:04:26.980 | Finnan] I asked him.
 [u1438 | 02:04:27.440-02:04:28.940 | Finnan] To come with us.
 [u1439 | 02:04:28.940-02:04:31.220 | DM] Oh, right, asked him to cut… right, and then he said,
 [u1440 | 02:04:31.340-02:04:33.220 | Finnan] But how could I? I…
 [u1441 | 02:04:33.220-02:04:41.820 | DM] I believe that, you know, how do I know that the outside world is… is real at all? It seems,
-[u1442 | 02:04:43.120-02:04:49.330 | DM] not exist… he was sort of saying not existing is the worst of all faiths. Telepathically.
+[u1442 | 02:04:43.120-02:04:49.330 | DM] not exist… he was sort of saying not existing is the worst of all fates. Telepathically.
 [u1443 | 02:04:52.320-02:05:00.290 | Finnan] tell Ekko to… or sorry, tell Eolo to, like, fly up a little bit and show off his wings.
 [u1444 | 02:05:01.320-02:05:03.829 | Finnan] And hoping that Eolo does that.
 [u1445 | 02:05:04.360-02:05:05.690 | Finnan] I will say.
 [u1446 | 02:05:06.620-02:05:15.979 | Finnan] Of course it's real, have you seen such creatures in here? Where do you think we came from? We're not figments of your imagination. I'll hold out my hand. Grab my hand.
 [u1447 | 02:05:20.780-02:05:21.640 | DM] And…
-[u1448 | 02:05:22.920-02:05:25.330 | Finnan] You know, I looked up and down, finning, like…
+[u1448 | 02:05:22.920-02:05:25.330 | Finnan] You know, I looked up and down, Finnan, like…
 [u1449 | 02:05:26.450-02:05:29.199 | Finnan] You ever seen a person who looks like this before?
 [u1450 | 02:05:32.540-02:05:40.450 | DM] You seem not… unfamiliar, although I cannot say from where.
 [u1451 | 02:05:41.540-02:05:43.839 | Finnan] From before you came to this world.
@@ -1475,7 +1475,7 @@
 [u1475 | 02:07:50.010-02:07:51.350 | DM] thing…
 [u1476 | 02:07:55.590-02:07:57.189 | DM] A thing I give you.
 [u1477 | 02:07:59.500-02:08:01.360 | DM] Hmm.
-[u1478 | 02:08:01.880-02:08:06.429 | DM] It's something I must ponder on. Hold on one second, I gotta type something to Connor, just give me one second.
+[u1478 | 02:08:01.880-02:08:06.429 | DM] It's something I must ponder on. Hold on one second, I gotta type something to Kong, just give me one second.
 [u1479 | 02:08:07.060-02:08:10.739 | Ekko] Is there a way for me to communicate what I, what, to you.
 [u1480 | 02:08:10.740-02:08:12.039 | Finnan] I will… I'm gonna…
 [u1481 | 02:08:12.040-02:08:18.440 | DM] I guess you could just bounce… I guess that's faster, like, why make this difficult, right? He is…
@@ -1488,19 +1488,19 @@
 [u1488 | 02:09:05.980-02:09:11.369 | DM] he then… he then vanishes for a minute. He then… he appears.
 [u1489 | 02:09:11.510-02:09:20.579 | DM] Standing by the door, again, like, disappears and appears standing by the door. You would steal from me, you would steal…
 [u1490 | 02:09:20.780-02:09:24.299 | DM] You can see he's, like, like,
-[u1491 | 02:09:24.900-02:09:29.980 | DM] glaring sword sorts of… sort of appears in his hand. You would…
-[u1492 | 02:09:30.470-02:09:33.139 | DM] You would steal by very soul?
+[u1491 | 02:09:24.900-02:09:29.980 | DM] glittering sword sort of… sort of appears in his hand. You would…
+[u1492 | 02:09:30.470-02:09:33.139 | DM] You would steal my very soul?
 [u1493 | 02:09:33.710-02:09:35.570 | DM] You dare offer such.
 [u1494 | 02:09:35.920-02:09:44.170 | DM] Offense, such terror, such horror, such end this?
 [u1495 | 02:09:44.420-02:09:48.360 | DM] How dare you steal my very essence like this?
-[u1496 | 02:09:48.490-02:10:02.759 | DM] I will see you sent away, back to the depths where you have murdered, to be murdered yourself. He suggest… and then he, in the middle of his word, he vanishes again and appears back on the throne.
+[u1496 | 02:09:48.490-02:10:02.759 | DM] I will see you sent away, back to the depths where you have murdered, to be murdered yourself. He says… and then he, in the middle of his word, he vanishes again and appears back on the throne.
 [u1497 | 02:10:07.600-02:10:11.620 | DM] a thing from the outside world that I could not imagine.
 [u1498 | 02:10:13.420-02:10:14.830 | DM] What could that be?
 [u1499 | 02:10:17.140-02:10:23.079 | Justas] Justas sighs and begins putting the head of the beast back into his backpack again and shouldering it.
-[u1500 | 02:10:26.860-02:10:34.600 | Finnan] You mean something other than a… Lying… bird… human.
+[u1500 | 02:10:26.860-02:10:34.600 | Finnan] You mean something other than a… Flying… bird… human.
 [u1501 | 02:10:36.030-02:10:38.089 | Ekko] He thinks he invented halflings.
 [u1502 | 02:10:40.400-02:10:42.639 | Finnan] I know, but Kenku are more…
-[u1503 | 02:10:42.640-02:10:44.309 | DM] Tenko are more weird.
+[u1503 | 02:10:42.640-02:10:44.309 | DM] Kenku are more weird.
 [u1504 | 02:10:44.530-02:10:45.720 | Finnan] Weird.
 [u1505 | 02:10:48.640-02:10:51.570 | DM] I… He says.
 [u1506 | 02:10:54.790-02:10:56.450 | DM] I remember…
@@ -1524,18 +1524,18 @@
 [u1524 | 02:12:51.660-02:12:57.810 | DM] Takes a… takes a, like, a… a piece of, like, he's wearing a lot of, like, this, like, there's, like, these icy, like.
 [u1525 | 02:12:58.650-02:13:05.000 | DM] ropes, like, around his neck. He takes, like, a… basically a necklace.
 [u1526 | 02:13:05.530-02:13:08.140 | DM] And… and tosses it to you.
-[u1527 | 02:13:08.330-02:13:16.820 | DM] he tosses it towards one of, like, whoever is standing, like, Finnit, I guess. Take this.
-[u1528 | 02:13:21.190-02:13:25.139 | DM] and… Bring it to the knight on the other side.
+[u1527 | 02:13:08.330-02:13:16.820 | DM] he tosses it towards one of, like, whoever is standing, like, Finnan, I guess. Take this.
+[u1528 | 02:13:21.190-02:13:25.139 | DM] and… Bring it to the night on the other side.
 [u1529 | 02:13:25.570-02:13:27.090 | DM] And return it to me.
 [u1530 | 02:13:30.600-02:13:31.809 | DM] that will…
 [u1531 | 02:13:36.880-02:13:38.079 | DM] But you must.
 [u1532 | 02:13:38.560-02:13:40.010 | DM] You must promise.
 [u1533 | 02:13:42.290-02:13:43.900 | DM] The bargain is thus.
-[u1534 | 02:13:45.350-02:13:48.629 | DM] You've returned this to me, having shown it to the knight.
+[u1534 | 02:13:45.350-02:13:48.629 | DM] You've returned this to me, having shown it to the night.
 [u1535 | 02:13:50.300-02:13:56.740 | DM] And… if you do not, my…
 [u1536 | 02:13:59.140-02:14:02.860 | DM] what does he say? You must return it to me, I will let you go.
 [u1537 | 02:14:03.820-02:14:08.980 | DM] I will let… I will let you go.
-[u1538 | 02:14:10.210-02:14:14.739 | DM] And you will take this, and you will show it to the knight, and you will return it to me.
+[u1538 | 02:14:10.210-02:14:14.739 | DM] And you will take this, and you will show it to the night, and you will return it to me.
 [u1539 | 02:14:15.730-02:14:21.729 | DM] If you do not, I will… I will curse you.
 [u1540 | 02:14:23.280-02:14:24.160 | DM] as…
 [u1541 | 02:14:25.320-02:14:37.699 | DM] I don't know, he probably says something more eloquent, I didn't prepare what he would say, but I will curse you as my people do. You will not know, you know, the cold will follow you everywhere you go.
@@ -1551,7 +1551,7 @@
 [u1551 | 02:15:34.140-02:15:37.330 | Finnan] It's kind of your problem.
 [u1552 | 02:15:43.600-02:15:49.939 | DM] the… he disappears and appears next to Finnan and says, I will enjoy it.
 [u1553 | 02:15:50.700-02:15:56.620 | DM] In his, in his, like, other sort of gravelly, different voice. It will be delicious!
-[u1554 | 02:15:56.740-02:15:58.530 | DM] When you are eating.
+[u1554 | 02:15:56.740-02:15:58.530 | DM] When you are eaten.
 [u1555 | 02:15:58.800-02:16:04.590 | DM] All should have been eaten. All of you. Fresh souls for the cycle. Yes, yes.
 [u1556 | 02:16:05.330-02:16:09.470 | DM] It will be delicious. He disappears and appears back on the throne again.
 [u1557 | 02:16:10.750-02:16:12.060 | Finnan] I'm sorry.
@@ -1562,17 +1562,17 @@
 [u1562 | 02:16:33.969-02:16:36.840 | Finnan] That wasn't what we discussed.
 [u1563 | 02:16:39.860-02:16:41.860 | DM] He looks confused for a minute.
 [u1564 | 02:16:44.770-02:16:49.660 | Finnan] We're trying to solve this interplanar dilemma, not flee this realm.
-[u1565 | 02:16:52.770-02:16:59.080 | Finnan] You seem uninterested in preventing the collapse of your Round to some…
+[u1565 | 02:16:52.770-02:16:59.080 | Finnan] You seem uninterested in preventing the collapse of your realm to some…
 [u1566 | 02:16:59.180-02:17:03.119 | Finnan] Unknown planar forces that have already ripped a hole in it.
 [u1567 | 02:17:03.280-02:17:11.619 | Finnan] I mean, that's fine, I guess, if you care so little about the nature… about the existence of your domain.
 [u1568 | 02:17:12.440-02:17:20.480 | Finnan] But you are asking us to make a bargain to… Prove the outside is real?
 [u1569 | 02:17:20.610-02:17:23.660 | Finnan] And come back, and for what?
-[u1570 | 02:17:26.690-02:17:28.600 | Finnan] I think you're aged.
-[u1571 | 02:17:28.639-02:17:31.209 | DM] By aid in solving this problem.
+[u1570 | 02:17:26.690-02:17:28.600 | Finnan] I think your aid.
+[u1571 | 02:17:28.639-02:17:31.209 | DM] My aid in solving this problem.
 [u1572 | 02:17:34.250-02:17:42.679 | Finnan] So, if we bring back proof the outside is real to you, You will also commit… to a bargain.
 [u1573 | 02:17:45.459-02:17:46.450 | Finnan] Yes?
-[u1574 | 02:17:48.040-02:17:48.540 | DM] Where do you at?
-[u1575 | 02:17:48.549-02:17:57.189 | Finnan] I want Nick, a one-sided deal. You will commit to… Helping…
+[u1574 | 02:17:48.040-02:17:48.540 | DM] What do you ask?
+[u1575 | 02:17:48.549-02:17:57.189 | Finnan] I won’t make, a one-sided deal. You will commit to… Helping…
 [u1576 | 02:18:06.769-02:18:13.179 | Finnan] allowing us and your people, To solve this problem as they wish.
 [u1577 | 02:18:14.849-02:18:19.349 | Finnan] Without interference from you, and with as much aid as you can provide.
 [u1578 | 02:18:25.280-02:18:26.879 | DM] allowing…
@@ -1608,18 +1608,18 @@
 [u1608 | 02:22:12.110-02:22:14.970 | DM] as you see fit, with what aid I can give.
 [u1609 | 02:22:19.090-02:22:23.360 | DM] It has been a… endless…
 [u1610 | 02:22:27.430-02:22:28.330 | DM] Yes.
-[u1611 | 02:22:28.450-02:22:37.020 | DM] He stops for a minute, I will, if you accept, towel…
+[u1611 | 02:22:28.450-02:22:37.020 | DM] He stops for a minute, I will, if you accept, tell…
 [u1612 | 02:22:38.060-02:22:39.910 | DM] He sort of closed his eyes for a minute.
-[u1613 | 02:22:41.270-02:22:47.799 | DM] towel… my guardian, To let you pass.
+[u1613 | 02:22:41.270-02:22:47.799 | DM] tell… my guardian, To let you pass.
 [u1614 | 02:22:54.570-02:22:58.020 | Finnan] I'll just, like, telepathically bounce to everybody, what do you think?
 [u1615 | 02:22:59.190-02:23:01.979 | Jrain] Yeah, let's get going. Do it. Good deal.
 [u1616 | 02:23:02.810-02:23:09.600 | DM] he… he, as… as you're telepathically bouncing, although I guess that doesn't take very long,
 [u1617 | 02:23:09.880-02:23:13.020 | DM] He disappears from the throne, and it appears,
 [u1618 | 02:23:13.280-02:23:19.710 | DM] By the door, and, like, sort of…
-[u1619 | 02:23:20.640-02:23:25.709 | DM] Stan, like, he, he, he, he sort of throws out his arms, and like,
+[u1619 | 02:23:20.640-02:23:25.709 | DM] stands, like, he, he, he, he sort of throws out his arms, and like,
 [u1620 | 02:23:26.260-02:23:34.570 | DM] Like, wide, and the sword comes flying to him. Insects like you.
 [u1621 | 02:23:35.820-02:23:51.659 | DM] You shall not… no, no, no, he says to him, he says, he turns and says, no, no, they are not. They are not here. And then he turns his head like this and says, yes, they are. They are destroying us. They will. No, they are not here, he says. Like, that goes back and forth a couple of times.
-[u1622 | 02:23:52.420-02:23:54.949 | Jrain] He not here while he's having that argument?
+[u1622 | 02:23:52.420-02:23:54.949 | Jrain] Can we not be here while he's having that argument?
 [u1623 | 02:23:54.950-02:24:00.299 | DM] Well, he's standing in front of the door, although you could just try and walk past him.
 [u1624 | 02:24:03.290-02:24:03.970 | Jrain] True.
 [u1625 | 02:24:05.380-02:24:07.160 | DM] you start… Wait, so…
@@ -1637,7 +1637,7 @@
 [u1637 | 02:24:53.100-02:24:53.680 | Finnan] Yeah.
 [u1638 | 02:24:54.380-02:24:55.000 | Justas] If we go.
 [u1639 | 02:24:56.100-02:25:00.369 | Jrain] Nice of him to get himself back over to the throne and out of our way, so we can leave.
-[u1640 | 02:25:02.980-02:25:03.980 | DM] Just a bridge.
+[u1640 | 02:25:02.980-02:25:03.980 | DM] Is the bridge.
 [u1641 | 02:25:03.980-02:25:04.810 | Finnan] there.
 [u1642 | 02:25:05.530-02:25:07.219 | DM] Yeah, it's still there, it's narrow.
 [u1643 | 02:25:08.850-02:25:10.030 | Finnan] walk across.
@@ -1674,7 +1674,7 @@
 [u1674 | 02:27:28.180-02:27:35.319 | Jrain] It doesn't have to be a member of the secret organization. Maybe we'll get lucky, and they will be a member of the secret organization. Who knows how it is.
 [u1675 | 02:27:35.320-02:27:38.350 | Finnan] Finnan would not think to do that, but if Jrain wants to…
 [u1676 | 02:27:38.620-02:27:42.139 | Finnan] tap Finnan or Justas on the shoulder and say, can you please tell them.
-[u1677 | 02:27:42.140-02:27:46.480 | DM] Jrain also, you could… you know enough Olds and Common, you could just say it.
+[u1677 | 02:27:42.140-02:27:46.480 | DM] Jrain also, you could… you know enough Old Zimkovan, you could just say it.
 [u1678 | 02:27:47.280-02:27:48.419 | Jrain] I do now? Okay, great.
 [u1679 | 02:27:48.420-02:27:49.350 | DM] now, yeah.
 [u1680 | 02:27:51.580-02:27:54.380 | DM] You've picked up enough words to say, we'll be back.
@@ -1683,12 +1683,12 @@
 [u1683 | 02:27:59.650-02:28:05.080 | DM] We lost Kong for the, like, cool last scene, but…
 [u1684 | 02:28:05.240-02:28:12.070 | DM] Well, next cliffhanger, well, next scene. But, we'll just go ahead. So you run through?
 [u1685 | 02:28:13.200-02:28:13.950 | Finnan] Wow.
-[u1686 | 02:28:14.060-02:28:15.520 | Finnan] walkthrough.
+[u1686 | 02:28:14.060-02:28:15.520 | Finnan] walk through.
 [u1687 | 02:28:15.520-02:28:16.130 | DM] Okay?
 [u1688 | 02:28:16.130-02:28:17.170 | Finnan] Carefully.
 [u1689 | 02:28:17.410-02:28:18.499 | DM] Who's going first?
-[u1690 | 02:28:19.820-02:28:20.340 | Eolo] B.
-[u1691 | 02:28:21.100-02:28:21.620 | DM] Yelled.
+[u1690 | 02:28:19.820-02:28:20.340 | Eolo] Me.
+[u1691 | 02:28:21.100-02:28:21.620 | DM] Eolo.
 [u1692 | 02:28:21.620-02:28:22.550 | Finnan] Yeah, obviously.
 [u1693 | 02:28:22.550-02:28:24.380 | Jrain] For the dog. Okay.
 [u1694 | 02:28:26.150-02:28:27.819 | DM] You step through this.
@@ -1705,21 +1705,21 @@
 [u1705 | 02:28:59.120-02:29:01.480 | Finnan] Yeah, how big can the leg of the wolf be?
 [u1706 | 02:29:01.480-02:29:01.840 | DM] But…
 [u1707 | 02:29:01.840-02:29:03.759 | Finnan] It's a 40-foot wolf, it's probably…
-[u1708 | 02:29:04.300-02:29:09.329 | Finnan] 2 feet, 3 feet. 8 feet, 2 feet around, tied around the leg of the wall.
+[u1708 | 02:29:04.300-02:29:09.329 | Finnan] 2 feet, 3 feet. 8 feet, 2 feet around, tied around the leg of the wolf.
 [u1709 | 02:29:09.330-02:29:11.109 | DM] You could tie it around the leg of a wolf.
 [u1710 | 02:29:13.500-02:29:15.830 | Jrain] It's a great plan. I love this plan.
 [u1711 | 02:29:16.110-02:29:19.310 | DM] Okay, you tie a rope around the leg of the wolf, and then what?
 [u1712 | 02:29:19.840-02:29:21.620 | DM] Eolo jumps through.
 [u1713 | 02:29:24.400-02:29:28.059 | Jrain] Yeah. Well, Eolo doesn't go through slowly, does he?
-[u1714 | 02:29:30.210-02:29:32.570 | DM] Eric, what's y'all doing?
+[u1714 | 02:29:30.210-02:29:32.570 | DM] Eric, what's Eolo doing?
 [u1715 | 02:29:36.470-02:29:46.590 | DM] If you're looking out at what looks like, basically, the… it looks like you're looking out into the chasm. You don't see a plateau, it looks like if you jumped, you'd just be in the chasm.
-[u1716 | 02:29:48.400-02:29:49.949 | Finnan] That's fine, we've got to work.
+[u1716 | 02:29:48.400-02:29:49.949 | Finnan] That's fine, we’ve got a rope.
 [u1717 | 02:29:51.920-02:29:55.609 | Eolo] Where, where I'm going… Don't need ropes.
 [u1718 | 02:29:56.060-02:30:02.629 | Eolo] And I jump with the full intention of sort of doing a little bit of a loop back, so I can…
 [u1719 | 02:30:05.070-02:30:05.800 | DM] Alright.
 [u1720 | 02:30:05.800-02:30:07.060 | Eolo] Look back in.
 [u1721 | 02:30:07.650-02:30:12.269 | DM] So you, like, you just, like, spread your wings and through the gate. Perfect. Okay. Yep.
-[u1722 | 02:30:13.470-02:30:14.989 | DM] Yellow vanishes.
+[u1722 | 02:30:13.470-02:30:14.989 | DM] Eolo vanishes.
 [u1723 | 02:30:15.640-02:30:19.360 | DM] Who's doing something next?
 [u1724 | 02:30:20.030-02:30:24.380 | Justas] I'll tie the other end of the rope around my own waist, and then I will walk through.
 [u1725 | 02:30:24.450-02:30:29.759 | Finnan] Yeah, I'm… I'm following just… closely behind Justas with a similar…
@@ -1728,10 +1728,10 @@
 [u1728 | 02:30:38.330-02:30:42.560 | Jrain] Yeah, I try to hold on to the members of my party and the rope that they're using.
 [u1729 | 02:30:42.560-02:30:47.029 | DM] But you're also going through? Yep. Like, the three of you just go through 1, 2, 3. What is Ekko doing?
 [u1730 | 02:30:47.790-02:30:49.930 | Ekko] Yeah, I go through as well.
-[u1731 | 02:30:49.930-02:30:56.840 | DM] you're just jumping through. I mean, so… so, these guys, you can't fly tied a rope to the leg of the ice wolf, and
-[u1732 | 02:30:57.090-02:31:00.929 | DM] Eolo just jumped through. So, Eolo, so… You all come free.
+[u1731 | 02:30:49.930-02:30:56.840 | DM] you're just jumping through. I mean, so… so, these guys, who can't fly tied a rope to the leg of the ice wolf, and
+[u1732 | 02:30:57.090-02:31:00.929 | DM] Eolo just jumped through. So, Eolo, so… You all come through.
 [u1733 | 02:31:00.930-02:31:01.690 | Ekko] fly through.
-[u1734 | 02:31:01.690-02:31:02.509 | DM] You fight her.
+[u1734 | 02:31:01.690-02:31:02.509 | DM] You fly through.
 [u1735 | 02:31:02.710-02:31:07.190 | DM] You are… you come out,
 [u1736 | 02:31:08.400-02:31:15.859 | DM] into the chasm. You're… wow. Into a chasm. It's obviously a chasm. It…
 [u1737 | 02:31:16.000-02:31:21.770 | DM] So you're on a cliff face, so, like, the folks with the rope, who don't know how to fly.
@@ -1745,7 +1745,7 @@
 [u1745 | 02:32:00.360-02:32:08.990 | DM] Hold on, no, it's mid… it's like mid-afternoon.
 [u1746 | 02:32:09.560-02:32:15.799 | DM] or early afternoon, right? Like, you can see a dim sun up in the sky,
 [u1747 | 02:32:16.210-02:32:18.129 | DM] The chasm itself?
-[u1748 | 02:32:18.310-02:32:35.479 | DM] you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little wedges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about…
+[u1748 | 02:32:18.310-02:32:35.479 | DM] you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about…
 [u1749 | 02:32:35.730-02:32:47.029 | DM] 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about…
 [u1750 | 02:32:47.580-02:32:55.360 | DM] it's 20 feet square, and it has, like, a carving.
 [u1751 | 02:32:55.530-02:32:58.699 | DM] on it, right? Like, there's, like, a… there's, like, a,
@@ -1754,7 +1754,7 @@
 [u1754 | 02:33:16.280-02:33:23.460 | DM] odd rock carved with a geometric pattern. Like, this is… this is… But…
 [u1755 | 02:33:23.630-02:33:31.120 | DM] more… much larger and more complex pattern. And you can see these streams of light
 [u1756 | 02:33:31.280-02:33:50.789 | DM] like, running along this pattern, like, these streams of… of, like, color-changing light, kind of running along the cycles of this pattern, and… but they're… they're… they keep, like… you can see they're… they look almost… I mean, it's a thousand feet down, so you can't see it very well, but they look sort of weirdly jagged, like… like…
-[u1757 | 02:33:50.790-02:34:02.309 | DM] they're running in, like, a circular motion, for example, and there's, like, a crack, and, like, it's sort of the… the light… this pattern of white, like, flicks out or jump, there's, like, looks like sparks jumping or something like that.
+[u1757 | 02:33:50.790-02:34:02.309 | DM] they're running in, like, a circular motion, for example, and there's, like, a crack, and, like, it's sort of the… the light… this pattern of light, like, flicks out or jump, there's, like, looks like sparks jumping or something like that.
 [u1758 | 02:34:02.700-02:34:06.009 | DM] And you can see a certain disturbance, like.
 [u1759 | 02:34:06.160-02:34:18.889 | DM] at the center, there's some type of activity. There's, like, maybe a figure, a person, you can't quite tell. And there's a few other of these floating rocks. There's, like, one floating rock with, like, a… with, like, a little…
 [u1760 | 02:34:19.090-02:34:36.200 | DM] tower built on it. Like, imagine, like, the vibe you should be imagining is, like, Zelda… the second Legend of Zelda Sky World, right? Like, these platforms that are just floating in the air, with these, like, complex…
@@ -1776,7 +1776,7 @@
 [u1776 | 02:36:06.840-02:36:14.380 | DM] it looks very like a piece of something. And there's just a geometric pattern carved on it, just maybe
 [u1777 | 02:36:14.640-02:36:16.700 | DM] 4 inches, 5 inches deep.
 [u1778 | 02:36:16.720-02:36:34.640 | DM] nothing's flowing through it. The one a thousand feet below has light. It's 10 times bigger, and has light moving through the… the patterns, right? So there's, like, this… this multicolored light kind of moving along the pattern. And there's a distur… there's an area where it's, like, sparking, and you can see a disturbance.
-[u1779 | 02:36:34.640-02:36:39.709 | DM] That's a thousand people. This one is silent, right? Nothing's happening. There's just…
+[u1779 | 02:36:34.640-02:36:39.709 | DM] That's a thousand feet below. This one is silent, right? Nothing's happening. There's just…
 [u1780 | 02:36:39.710-02:36:40.030 | Eolo] So…
 [u1781 | 02:36:40.460-02:36:46.059 | DM] Things, like, it's sort of rectilinear geometric pattern carved into it.
 [u1782 | 02:36:47.060-02:36:49.059 | Eolo] So I shove it over to the…
@@ -1802,21 +1802,21 @@
 [u1802 | 02:38:01.180-02:38:02.090 | Eolo] Just hang out.
 [u1803 | 02:38:02.730-02:38:06.669 | Finnan] Like, it's mid-afternoon, Just wait 6 hours.
 [u1804 | 02:38:08.440-02:38:12.439 | Finnan] I mean, if you want to do a little flyby of the rock down there.
-[u1805 | 02:38:13.820-02:38:17.100 | Jrain] Have it. Feel free to… Relax.
+[u1805 | 02:38:13.820-02:38:17.100 | Jrain] Have at it. Feel free to… Relax.
 [u1806 | 02:38:17.100-02:38:21.840 | Finnan] Investigate. But be careful, don't get in trouble that we can't save you from.
 [u1807 | 02:38:23.860-02:38:29.830 | Eolo] Well, you know, there's only a certain number of times that You live.
 [u1808 | 02:38:31.430-02:38:32.809 | Finnan] Which is.
 [u1809 | 02:38:32.810-02:38:33.140 | Eolo] Say one.
-[u1810 | 02:38:35.470-02:38:40.590 | DM] Is anybody gonna fly down to be… Sparky Rock.
+[u1810 | 02:38:35.470-02:38:40.590 | DM] Is anybody gonna fly down to the… Sparky Rock.
 [u1811 | 02:38:40.590-02:38:46.929 | Finnan] Oh, wait a minute. Hold on, hold on, hold on, hold on. Let's be a little bit more careful. I'll cast Clairvoyance.
 [u1812 | 02:38:48.250-02:38:48.970 | DM] Okay?
-[u1813 | 02:38:51.490-02:38:54.590 | DM] UC, so…
+[u1813 | 02:38:51.490-02:38:54.590 | DM] You see, so…
 [u1814 | 02:38:54.590-02:39:00.090 | Finnan] Just targeting, like, 10 feet above the ground, above the sparky rock.
 [u1815 | 02:39:00.330-02:39:05.640 | DM] So it's… I mean, the rock is… is… sizable, right? So it's…
 [u1816 | 02:39:05.640-02:39:08.020 | Finnan] Like, where the disturbance is. Okay.
 [u1817 | 02:39:08.020-02:39:13.840 | DM] Disturbance is a person, Who is… lying…
 [u1818 | 02:39:14.720-02:39:22.380 | DM] Like, sitting on the ground, like, in a… you're the only one who can see through clairvoyance, right?
-[u1819 | 02:39:22.530-02:39:24.869 | Finnan] Yeah, but I'll narrate what I say.
+[u1819 | 02:39:22.530-02:39:24.869 | Finnan] Yeah, but I'll narrate what I see.
 [u1820 | 02:39:25.210-02:39:29.969 | Finnan] There's a… there's a person, maybe.
 [u1821 | 02:39:30.310-02:39:41.550 | DM] Human, right, with, long black hair and, like, green eyes and, you know, hazel green eyes and, and,
 [u1822 | 02:39:41.740-02:39:49.150 | DM] wearing what, at this point, like, what used to be… seemed to be,
@@ -1826,11 +1826,11 @@
 [u1826 | 02:40:16.000-02:40:18.610 | DM] Holding on to two pieces of the light.
 [u1827 | 02:40:18.760-02:40:28.999 | DM] like, to two sections where the light is flowing, and you can actually see, like, these… the light is, like, moving, right? Like, it's not stable, they're, like, holding two sections, and, like.
 [u1828 | 02:40:29.110-02:40:35.930 | DM] every once in a while, like, it'll flow through their body, and, like, it'll spark. And, like, you can see them, like, grimacing, and, like.
-[u1829 | 02:40:37.210-02:40:42.159 | DM] Bearing down their teeth, like, when the light flows through them, like… like…
-[u1830 | 02:40:42.560-02:40:52.909 | DM] And you notice when that happens, like, you see the white flow through the person, and at the same moment, like, you see in the distance a…
+[u1829 | 02:40:37.210-02:40:42.159 | DM] Baring their teeth, like, when the light flows through them, like… like…
+[u1830 | 02:40:42.560-02:40:52.909 | DM] And you notice when that happens, like, you see the light flow through the person, and at the same moment, like, you see in the distance a…
 [u1831 | 02:40:53.190-02:41:00.800 | DM] a sheet of iron, maybe, 100 feet wide, just appear in the sky and start falling.
 [u1832 | 02:41:02.800-02:41:10.259 | DM] And then, like, you actually see, like, like, the person, like, is, is, is, like.
-[u1833 | 02:41:10.380-02:41:13.050 | DM] Tightens the grip, almost, on the white.
+[u1833 | 02:41:10.380-02:41:13.050 | DM] Tightens the grip, almost, on the light.
 [u1834 | 02:41:13.170-02:41:18.409 | DM] And, like, is, like, holding on to something. Looks like they're holding on to something.
 [u1835 | 02:41:19.730-02:41:22.949 | Eolo] the… Piece of iron falling towards them?
 [u1836 | 02:41:23.360-02:41:25.529 | DM] It's, like, far away.
@@ -1864,7 +1864,7 @@
 [u1864 | 02:43:26.340-02:43:31.869 | Ekko] Yeah, I'll do that. Ekko, Ekko will, we'll rush, rush, rush over.
 [u1865 | 02:43:33.220-02:43:38.510 | DM] Okay, I mean, when you… so you go… let's see, it's,
 [u1866 | 02:43:38.750-02:43:43.350 | DM] I… we'll do the scene with him, but then let's stop, because it's almost midnight.
-[u1867 | 02:43:43.350-02:43:43.750 | Ekko] bear.
+[u1867 | 02:43:43.350-02:43:43.750 | Ekko] Fair.
 [u1868 | 02:43:44.220-02:43:52.689 | DM] he, You land near him.
 [u1869 | 02:43:53.280-02:44:01.510 | DM] And he sort of… he looks up at you, in, like… Joy.
 [u1870 | 02:44:01.780-02:44:05.810 | DM] Right? Like…
@@ -1877,7 +1877,7 @@
 [u1877 | 02:44:29.230-02:44:34.119 | DM] this… He sort of looks down at the… At this,
 [u1878 | 02:44:35.250-02:44:37.680 | DM] This structure that he's standing on.
 [u1879 | 02:44:38.620-02:44:42.750 | DM] this magic… It's broken.
-[u1880 | 02:44:44.130-02:44:51.850 | DM] that… the… the planner… energy of the chasm is…
+[u1880 | 02:44:44.130-02:44:51.850 | DM] that… the… the planar… energy of the chasm is…
 [u1881 | 02:44:54.080-02:45:05.609 | DM] and he, like, stops for a minute as, like, this light flows through him again, and you, like, you see, like, he's, he, like, grimaces in pain and, like, takes a minute and, like, focuses in some way, right? And, like…
 [u1882 | 02:45:06.120-02:45:20.070 | DM] the… this… this, like, energy flows through him, but it's, like, it's not… he's, like, not a perfect circuit, right? And, like, sparks fly, right? And you see, at the same time this is happening, like, as it's trying to… as it's going through him, you see, like,
 [u1883 | 02:45:20.280-02:45:28.959 | DM] Another, like, gate open flash. Like, some brief flash in the distance of, like, a bolt of lightning going up.
@@ -1899,17 +1899,17 @@
 [u1899 | 02:47:08.500-02:47:15.819 | DM] the… the… the… A small encampment, he says, of the surviving orcs.
 [u1900 | 02:47:16.340-02:47:19.200 | DM] they… they took…
 [u1901 | 02:47:19.900-02:47:29.519 | DM] they, they, they took in, in, in anger, and, you know, they, they killed, Pakrinek, and… and…
-[u1902 | 02:47:29.680-02:47:34.229 | DM] Flared with, with one of the, you know, with a piece.
+[u1902 | 02:47:29.680-02:47:34.229 | DM] Fled with, with one of the, you know, with a piece.
 [u1903 | 02:47:34.450-02:47:37.819 | DM] Of this, of this,
 [u1904 | 02:47:38.170-02:47:51.709 | DM] of this mechanism, and I could not chase them, for I was holding it together. So, so, I mean, basically, I… I'm tired, I'm not scared. But they… they surprised the survivors of a battle, right?
 [u1905 | 02:47:52.050-02:47:54.680 | DM] And… who fled.
 [u1906 | 02:47:54.790-02:47:58.509 | DM] Right? A group of orcs who basically fled that, like.
-[u1907 | 02:47:59.300-02:48:04.360 | DM] in Hill Point, there's, like, beneath this, there's, like, a complex
+[u1907 | 02:47:59.300-02:48:04.360 | DM] and he’ll point, there's, like, beneath this, there's, like, a complex
 [u1908 | 02:48:04.880-02:48:21.690 | DM] that you can almost jump down, right? Like, from here to underneath a smaller section. Again, like, think of Zelda like Skyland, right? Like, there's a… there's another platform, maybe 10 feet below, and it leads into a more complex… like, he points down, they fled down that way.
 [u1909 | 02:48:21.690-02:48:27.139 | DM] When we… when we surprise them. If you could… and I could not…
 [u1910 | 02:48:27.220-02:48:31.349 | DM] I cannot give chase for… I, it is…
 [u1911 | 02:48:32.760-02:48:37.510 | DM] And again, I am doing what I can to prevent it from getting worse.
-[u1912 | 02:48:38.190-02:48:42.310 | DM] But we cannot repair it without retrieving the peace.
+[u1912 | 02:48:38.190-02:48:42.310 | DM] But we cannot repair it without retrieving the piece.
 [u1913 | 02:48:44.110-02:48:46.819 | DM] If you have companions who can chase them.
 [u1914 | 02:48:47.530-02:48:50.319 | DM] I can only hold this together for so long.
 [u1915 | 02:48:54.130-02:48:58.109 | Ekko] Okay, what else can you tell us about how to get this piece?
@@ -1922,7 +1922,7 @@
 [u1922 | 02:49:33.830-02:49:44.279 | DM] and when him and the Kenku came, they surprised them, they fought, they killed the Kenku.
 [u1923 | 02:49:44.760-02:49:46.160 | DM] Warrior guy.
 [u1924 | 02:49:46.210-02:49:50.979 | Ekko] the two of them killed a bunch of orcs, you can see there's some dead bodies around, but they also…
-[u1925 | 02:49:50.980-02:49:55.810 | DM] the Penku warrior died in the battle, right?
+[u1925 | 02:49:50.980-02:49:55.810 | DM] the Kenku warrior died in the battle, right?
 [u1926 | 02:49:55.990-02:50:07.070 | DM] the orcs fled with a… with a… with a piece. You could describe a piece as, like, a large stone block, basically. You can see there's, like, a piece… a place where the… where the…
 [u1927 | 02:50:07.310-02:50:13.700 | DM] where the stone is broken, right? There's a large stone, and you're like, this stone that's carved here is all, like.
 [u1928 | 02:50:14.030-02:50:25.389 | DM] different… I mean, it's like, it's not just, like, granite, like, there's different pieces of stone, it's like this complex stone mechanism, right? Yeah, yeah. And he says, if we could… if we could find this piece that goes here.
@@ -1935,7 +1935,7 @@
 [u1935 | 02:50:49.350-02:50:53.570 | Ekko] Okay, I can go, we'll do our best. Please hold on.
 [u1936 | 02:50:55.990-02:51:01.670 | Ekko] Ekko will, will fly back to the companions and tell them about the conversation.
 [u1937 | 02:51:08.640-02:51:10.229 | Eolo] This is the main quest, right?
-[u1938 | 02:51:11.320-02:51:13.010 | Ekko] I think this is a banquest now.
+[u1938 | 02:51:11.320-02:51:13.010 | Ekko] I think this is a main quest now.
 [u1939 | 02:51:15.350-02:51:15.780 | DM] Wow.
 [u1940 | 02:51:15.780-02:51:16.710 | Finnan] Finnan…
 [u1941 | 02:51:16.900-02:51:18.659 | DM] There's two main ques… I mean, yes.
