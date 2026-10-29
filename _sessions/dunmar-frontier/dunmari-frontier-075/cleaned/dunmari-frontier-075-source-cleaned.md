@@ -34,13 +34,13 @@
 [u0034 | 00:02:33.320-00:02:35.900 | DM] but there's no light, so some of you can't see anything.
 [u0035 | 00:02:37.480-00:02:42.030 | DM] and the noise is coming from off in this distance, far away.
 [u0036 | 00:02:47.290-00:02:54.390 | DM] And with that, as you all charge into the battle, Delwath splits off to fight some other bad guys over here.
-[u0037 | 00:02:56.050-00:02:59.060 | DM] Why, don't you? Well, listen
+[u0037 | 00:02:56.050-00:02:59.060 | DM] Why don't you roll initiative?
 [u0038 | 00:02:59.080-00:03:01.000 | Seeker] in in which direction
 [u0039 | 00:03:02.160-00:03:04.450 | DM] they are like in this direction over here.
 [u0040 | 00:03:04.590-00:03:07.500 | Seeker] I can't see the map. Is it supposed to be totally black?
 [u0041 | 00:03:08.010-00:03:10.350 | DM] Yeah, because it is the middle of night.
 [u0042 | 00:03:12.770-00:03:14.840 | DM] This direction up
-[u0043 | 00:03:15.140-00:03:20.700 | DM] is the direction that the bad guys are in. Okay, that would. Well, out of range of your sight.
+[u0043 | 00:03:15.140-00:03:20.700 | DM] is the direction that the bad guys are in. Okay, they are well out of range of your sight.
 [u0044 | 00:03:20.730-00:03:22.790 | Seeker] and Delwath is in the map is huge.
 [u0045 | 00:03:24.060-00:03:24.790 | Seeker] Okay.
 [u0046 | 00:03:29.780-00:03:31.700 | Seeker] I rolled an 18.
@@ -80,13 +80,13 @@
 [u0080 | 00:06:07.310-00:06:14.970 | Kenzo] Yeah, I will. I will get closer and turn my driftglobe on. I'll throw up actually. I'll take my driftglobe and
 [u0081 | 00:06:15.990-00:06:23.700 | Kenzo] the driftglobe can be manipulated just by like thinking about it right. I don't have to like You need it physically. It
 [u0082 | 00:06:24.210-00:06:31.290 | DM] You have to carry it but once it once it you put it somewhere, it stays there unless it's more than 60 feet away.
-[u0083 | 00:06:31.380-00:06:39.620 | Kenzo] in which case it follows you. Okay, only she gets to follow me. Okay. I will. Yeah, I will get closer to the sounds.
+[u0083 | 00:06:31.380-00:06:39.620 | Kenzo] in which case it follows you. Okay, I'll just get it to follow me. Okay. I will. Yeah, I will get closer to the sounds.
 [u0084 | 00:06:40.870-00:06:44.530 | Kenzo] Am I close enough to like actually, get? Get get close to the nearest sound?
-[u0085 | 00:06:45.190-00:06:51.010 | Kenzo] Yeah, they're probably like a 100 feet away from you or something, so I can all mean it. This turn
+[u0085 | 00:06:45.190-00:06:51.010 | Kenzo] Yeah, they're probably like a 100 feet away from you or something, so I can only move this turn
 [u0086 | 00:06:51.590-00:06:53.560 | DM] you could. You can
 [u0087 | 00:06:53.870-00:06:59.530 | DM] use a ki to dash. and then you can move 120 feet
 [u0088 | 00:07:00.430-00:07:02.240 | DM] you out like there.
-[u0089 | 00:07:02.860-00:07:04.580 | Kenzo] And now get me to the closest one.
+[u0089 | 00:07:02.860-00:07:04.580 | Kenzo] And that will get me to the closest one.
 [u0090 | 00:07:05.910-00:07:10.210 | DM] Well, you don't know exactly where they are, but it would get you a lot closer to the sounds.
 [u0091 | 00:07:12.570-00:07:13.400 | Kenzo] A.
 [u0092 | 00:07:16.220-00:07:19.110 | Kenzo] If I get too close, aren't they just gonna attack me, and then
@@ -94,7 +94,7 @@
 [u0094 | 00:07:21.910-00:07:28.230 | Kenzo] we could turn on the driftglobes and just like, do a slide by right? Oh, that's actually a good idea. Yeah, so that's a good point. Yeah.
 [u0095 | 00:07:28.270-00:07:37.080 | Kenzo] Tim, I won't Dash. I will, I will, I will get close, and then get above, and then drop and then throw my driftglobe down 60 feet.
 [u0096 | 00:07:37.230-00:07:41.430 | Kenzo] so i'll stay 60 feet above them, and then drop the driftglobe down to where the sounds are.
-[u0097 | 00:07:41.460-00:07:45.070 | Kenzo] and i'll fly. I I love this out. Yeah, so okay.
+[u0097 | 00:07:41.460-00:07:45.070 | Kenzo] and i'll fly. I I level this out. Yeah, so okay.
 [u0098 | 00:07:45.490-00:07:48.760 | DM] so you can get to like here-ish.
 [u0099 | 00:07:49.240-00:07:53.760 | DM] You're not super high up. You're probably more like 40 feet up, because
 [u0100 | 00:07:54.490-00:08:00.820 | DM] the airship wasn't that high off the ground. But let's see where is Kenzo's driftglobe.
@@ -131,7 +131,7 @@
 [u0131 | 00:10:01.600-00:10:11.060 | Seeker] how you tactically use our giant flying stone ship in battle, yet so it's like I want to be end on to the action or sideways to it. Different types of ships, you know.
 [u0132 | 00:10:11.400-00:10:13.660 | Seeker] I'm going to just try to
 [u0133 | 00:10:15.170-00:10:16.370 | Seeker] get it upright.
-[u0134 | 00:10:16.760-00:10:18.960 | Seeker] So we're kind of level 3 level
+[u0134 | 00:10:16.760-00:10:18.960 | Seeker] So we're kind of level, pretty level
 [u0135 | 00:10:19.470-00:10:21.600 | Seeker] and then
 [u0136 | 00:10:22.940-00:10:27.340 | Seeker] start turning it. So i'm facing the north on the map.
 [u0137 | 00:10:27.870-00:10:30.340 | DM] Okay, make an intelligence check.
@@ -183,7 +183,7 @@
 [u0183 | 00:13:38.280-00:13:41.430 | DM] The spell still comes from you.
 [u0184 | 00:13:41.510-00:13:51.820 | DM] So so they're just out of range. Actually that they're a little bit out of range. You're gonna have to make a sh If you make the ship charge forward next turn.
 [u0185 | 00:13:52.650-00:13:53.540 | Seeker] Okay.
-[u0186 | 00:13:57.470-00:13:58.380 | Seeker] her
+[u0186 | 00:13:57.470-00:13:58.380 | Seeker] Sure.
 [u0187 | 00:14:00.870-00:14:05.100 | Seeker] I will. But I I could. I could activate the ladder right?
 [u0188 | 00:14:05.500-00:14:07.060 | DM] Yeah, that's a bonus action.
 [u0189 | 00:14:07.350-00:14:11.070 | Seeker] perfect, All right, animating performance.
@@ -232,7 +232,7 @@
 [u0232 | 00:17:39.090-00:17:43.310 | Kenzo] great does the field change now, can we see more stuff because of the sun?
 [u0233 | 00:17:43.620-00:17:45.060 | DM] It's just it. Doesn't.
 [u0234 | 00:17:46.480-00:17:50.980 | Riswynn] Yeah. I cast a 30 foot glow from me, and it says
-[u0235 | 00:17:51.330-00:17:54.430 | Riswynn] further, You cast them in like Newcast.
+[u0235 | 00:17:51.330-00:17:54.430 | Riswynn] further, you cast dim light. You cast.
 [u0236 | 00:17:54.990-00:17:57.390 | DM] I will make you cast light. Okay.
 [u0237 | 00:17:59.710-00:18:02.660 | Riswynn] 30 feet of bright and another 30 feet of dim.
 [u0238 | 00:18:03.830-00:18:06.000 | DM] Okay, now you see more.
@@ -255,7 +255,7 @@
 [u0255 | 00:19:15.920-00:19:16.630 | Wellby] Yeah.
 [u0256 | 00:19:20.470-00:19:24.750 | DM] And hits, but no sneak attack.
 [u0257 | 00:19:25.180-00:19:25.780 | Wellby] Yep.
-[u0258 | 00:19:27.200-00:19:28.450 | Kenzo] but I stick it back
+[u0258 | 00:19:27.200-00:19:28.450 | Kenzo] Why no sneak attack?
 [u0259 | 00:19:29.850-00:19:36.690 | Wellby] because I I didn't have any. It wasn't, an ally within 5 feet. I didn't have advantage on the roll. Basically
 [u0260 | 00:19:37.010-00:19:37.620 | DM] right?
 [u0261 | 00:19:39.450-00:19:42.420 | DM] So next is
@@ -266,7 +266,7 @@
 [u0266 | 00:20:01.410-00:20:02.440 | Kenzo] that
 [u0267 | 00:20:06.220-00:20:11.910 | DM] and then that as the dogs disappear.
 [u0268 | 00:20:14.860-00:20:15.870 | DM] the
-[u0269 | 00:20:17.080-00:20:18.390 | DM] let's use anybody.
+[u0269 | 00:20:17.080-00:20:18.390 | DM] let's see, is anybody.
 [u0270 | 00:20:22.870-00:20:24.140 | DM] This
 [u0271 | 00:20:24.430-00:20:33.280 | DM] shadow hunter waves his arms and casts a spell, and this like dark, creeping ice begins to close over him.
 [u0272 | 00:20:33.430-00:20:34.690 | DM] and then he
@@ -289,7 +289,7 @@
 [u0289 | 00:21:42.710-00:21:44.770 | DM] Very well. Roll 1d10.
 [u0290 | 00:21:44.920-00:21:50.120 | Kenzo] Okay. So my Dex modifier's plus 9 am. And levels 11, right? So that's plus 20.
 [u0291 | 00:21:50.700-00:21:54.040 | DM] Your Dex modifier is plus 5, so it's plus 16
-[u0292 | 00:21:54.100-00:21:55.630 | Kenzo] plus 16 effect.
+[u0292 | 00:21:54.100-00:21:55.630 | Kenzo] plus 16, perfect.
 [u0293 | 00:21:56.770-00:22:02.220 | Seeker] Seeker is seeing this from just a few feet away, because I have the perspective of the nose of the ship
 [u0294 | 00:22:02.380-00:22:03.730 | Kenzo] Exactly
 [u0295 | 00:22:04.020-00:22:07.840 | DM] nice. Oh, nice! You reduce the damage to 0.
@@ -343,7 +343,7 @@
 [u0343 | 00:25:12.640-00:25:23.870 | DM] Yeah, but as your staff hits him. the ice runs up the shaft of your staff and freezes your hand and you take 25 points of cold damage.
 [u0344 | 00:25:24.200-00:25:28.070 | DM] and more ice is chipped away. Actually, then
 [u0345 | 00:25:28.160-00:25:35.490 | DM] the thunder blast of Seeker's rune exploding seems to chip the rest of the ice off.
-[u0346 | 00:25:38.220-00:25:41.710 | Kenzo] I'm going to attack him again. {{I think so. I can do any damage}}.
+[u0346 | 00:25:38.220-00:25:41.710 | Kenzo] I'm going to attack him again. I think—so, did I do any damage?
 [u0347 | 00:25:44.110-00:25:46.730 | DM] You chipped away at this ice shield.
 [u0348 | 00:25:47.640-00:25:50.380 | Kenzo] I think I will attack again.
 [u0349 | 00:25:52.790-00:25:54.440 | Kenzo] A.
@@ -392,7 +392,7 @@
 [u0392 | 00:28:46.620-00:28:48.770 | Seeker] to.
 [u0393 | 00:28:50.580-00:29:01.940 | Seeker] So the the dogs just kind of disappeared. They could be anywhere. They vanished into the darkness and turn invisible. The ladder is going to sort of keep in a close orbit around me.
 [u0394 | 00:29:02.220-00:29:07.260 | Seeker] prepared to attack anything that comes near me.
-[u0395 | 00:29:07.950-00:29:08.860 | DM] Our guy
+[u0395 | 00:29:07.950-00:29:08.860 | DM] All right.
 [u0396 | 00:29:10.040-00:29:11.820 | Seeker] smart
 [u0397 | 00:29:13.170-00:29:14.400 | Seeker] and
 [u0398 | 00:29:14.650-00:29:16.470 | DM] ladder on guard duty.
@@ -419,7 +419,7 @@
 [u0419 | 00:31:01.440-00:31:04.970 | DM] But if the phasing stone is not powering
 [u0420 | 00:31:05.200-00:31:07.670 | DM] the ability of the ship to fly
 [u0421 | 00:31:07.700-00:31:11.780 | Seeker] only when it's parked. Okay.
-[u0422 | 00:31:11.970-00:31:15.680 | DM] So so if it's parked, possibly you can attempt at
+[u0422 | 00:31:11.970-00:31:15.680 | DM] So so if it's parked, possibly you can attempt that
 [u0423 | 00:31:16.920-00:31:19.440 | Seeker] so I can. I can walk
 [u0424 | 00:31:19.580-00:31:22.400 | Seeker] forward on deck to like
 [u0425 | 00:31:24.430-00:31:25.650 | Seeker] up here.
@@ -482,15 +482,15 @@
 [u0482 | 00:35:47.410-00:35:48.950 | Wellby] awesome.
 [u0483 | 00:35:49.310-00:35:54.010 | Wellby] I will use the clockwork amulet to roll an 18 to hit
 [u0484 | 00:35:55.300-00:35:56.560 | DM] That hits
-[u0485 | 00:35:57.360-00:35:58.600 | Seeker] oxygen.
+[u0485 | 00:35:57.360-00:35:58.600 | Seeker] Awesome.
 [u0486 | 00:36:03.880-00:36:07.330 | DM] So 33 points of damage.
 [u0487 | 00:36:09.540-00:36:12.660 | DM] Shadow Hunter staggers back slightly
 [u0488 | 00:36:14.220-00:36:15.000 | DM] at
 [u0489 | 00:36:16.700-00:36:17.580 | DM] Oops
 [u0490 | 00:36:19.480-00:36:21.170 | DM] definitely wounded.
-[u0491 | 00:36:23.670-00:36:29.680 | Wellby] and i'm moving just to go. If if you'll move the drift with me to go looking for other.
+[u0491 | 00:36:23.670-00:36:29.680 | Wellby] and i'm moving just to go. If if you'll move the driftglobe with me to go looking for other.
 [u0492 | 00:36:30.300-00:36:31.060 | DM] Okay?
-[u0493 | 00:36:31.680-00:36:34.300 | Kenzo] Wellby's {{not the invisible dogs}}
+[u0493 | 00:36:31.680-00:36:34.300 | Kenzo] Wellby's hunting the invisible dogs.
 [u0494 | 00:36:37.710-00:36:39.190 | DM] meanwhile
 [u0495 | 00:36:40.550-00:36:42.870 | DM] bursting up out of the floor
 [u0496 | 00:36:46.020-00:36:49.890 | Seeker] of the ship. No, no, no, no, no!
@@ -598,7 +598,7 @@
 [u0598 | 00:44:33.290-00:44:34.480 | Wellby] Yeah.
 [u0599 | 00:44:36.410-00:44:39.370 | Seeker] And where did Delwath go what's going on? Everybody
 [u0600 | 00:44:39.730-00:44:43.030 | Kenzo] dude. It did 70 damage. I have 69 fucking hit points.
-[u0601 | 00:44:43.190-00:44:44.290 | Seeker] That's Brill.
+[u0601 | 00:44:43.190-00:44:44.290 | Seeker] That's brutal.
 [u0602 | 00:44:45.920-00:44:47.350 | Kenzo] How many points do you have, Wellby
 [u0603 | 00:44:47.940-00:44:48.690 | Wellby] 80,
 [u0604 | 00:44:49.410-00:44:50.150 | Kenzo] you know.
@@ -612,7 +612,7 @@
 [u0612 | 00:45:29.770-00:45:31.510 | DM] Okay, Seeker
 [u0613 | 00:45:31.580-00:45:33.060 | Wellby] that took a quick turn.
 [u0614 | 00:45:37.200-00:45:43.700 | Seeker] Oh, man, these shadow hunters are nasty. So i'm surrounded by these dogs.
-[u0615 | 00:45:44.250-00:45:46.220 | DM] We are surrounded by these dogs.
+[u0615 | 00:45:44.250-00:45:46.220 | DM] You are surrounded by these dogs.
 [u0616 | 00:45:46.370-00:45:52.000 | Seeker] I think my best area effect thing is slow, but that's a concentration spell.
 [u0617 | 00:45:52.940-00:45:59.730 | DM] Well, you're no longer concentrating on anything right? Right? I did release the oh, right. I'd released the concentration on the ship already.
 [u0618 | 00:45:59.800-00:46:05.250 | Seeker] Even the last turn I didn't actually need to because of the spell I cast. But anyway, I would do that. I would do Slow now.
@@ -645,7 +645,7 @@
 [u0645 | 00:47:56.480-00:47:59.360 | Seeker] right. The ladder attacks
 [u0646 | 00:48:00.590-00:48:02.450 | Seeker] spell attack
 [u0647 | 00:48:07.020-00:48:08.480 | Seeker] It rolled a 12
-[u0648 | 00:48:09.310-00:48:10.840 | Unknown] about 12 hits
+[u0648 | 00:48:09.310-00:48:10.840 | Unknown] A 12 hits.
 [u0649 | 00:48:12.300-00:48:14.960 | Seeker] Same one it attacked before I assume. Yep.
 [u0650 | 00:48:27.270-00:48:28.480 | DM] Damage.
 [u0651 | 00:48:29.230-00:48:30.010 | Seeker] Oh.
@@ -698,7 +698,7 @@
 [u0698 | 00:51:33.240-00:51:34.920 | Riswynn] Yeah. Well, i'm here.
 [u0699 | 00:51:35.380-00:51:37.940 | Riswynn] And yeah, that's not concentration or it's not being
 [u0700 | 00:51:38.390-00:51:41.080 | Riswynn] sunbeam. so
-[u0701 | 00:51:42.140-00:51:43.670 | Riswynn] does it make it through.
+[u0701 | 00:51:42.140-00:51:43.670 | Riswynn] does it make its throw?
 [u0702 | 00:51:44.130-00:51:45.870 | DM] It made its save again.
 [u0703 | 00:51:45.900-00:51:47.350 | Riswynn] Still, take me.
 [u0704 | 00:51:49.350-00:51:51.230 | DM] Well, it still takes damage.
@@ -731,7 +731,7 @@
 [u0731 | 00:53:24.580-00:53:28.160 | DM] 90 feet away. so disadvantage. But
 [u0732 | 00:53:29.800-00:53:31.940 | Seeker] you also see a heroic ladder.
 [u0733 | 00:53:34.090-00:53:36.630 | Wellby] Yeah, maybe i'll shoot this guy instead.
-[u0734 | 00:53:37.860-00:53:40.110 | DM] Well, that's Kenzo {{that you're she}} there.
+[u0734 | 00:53:37.860-00:53:40.110 | DM] Well, that's Kenzo that you're shooting there.
 [u0735 | 00:53:41.170-00:53:49.510 | DM] plus you're like you're like 60 feet up. So that's that's further right. This is. But they're about the same distance.
 [u0736 | 00:53:50.620-00:53:52.610 | DM] Either one is disadvantaged
 [u0737 | 00:53:55.800-00:53:56.600 | Wellby] one.
@@ -816,7 +816,7 @@
 [u0816 | 01:00:34.990-01:00:35.950 | Kenzo] I'll be.
 [u0817 | 01:00:38.950-01:00:40.340 | Kenzo] You chose poorly
 [u0818 | 01:00:40.570-01:00:42.380 | Kenzo] the first.
-[u0819 | 01:00:43.470-01:00:46.700 | DM] and on your turn {{and headl under control}}
+[u0819 | 01:00:43.470-01:00:46.700 | DM] and on your turn and headl under control
 [u0820 | 01:00:48.590-01:00:52.090 | DM] you must take the dash action and move as far away from
 [u0821 | 01:00:52.640-01:00:55.290 | DM] the source of your fear as you can.
 [u0822 | 01:00:55.490-01:01:03.800 | DM] If you end your turn in a location where you can't see the creature. you can make another Wisdom saving throw to attempt to end the spell.
@@ -840,7 +840,7 @@
 [u0840 | 01:02:28.530-01:02:30.830 | Seeker] That's the thing that lets you re-roll.
 [u0841 | 01:02:32.590-01:02:35.860 | Seeker] but I don't know if it applies to death saves
 [u0842 | 01:02:36.940-01:02:38.470 | Seeker] it's a saving throw
-[u0843 | 01:02:49.530-01:02:51.450 | DM] {{melody}} is in darkness.
+[u0843 | 01:02:49.530-01:02:51.450 | DM] the ladder is in darkness.
 [u0844 | 01:02:54.840-01:02:59.700 | DM] Okay, it is Seeker's turn giant yeti pummel.
 [u0845 | 01:02:59.890-01:03:03.170 | DM] So plus 9 to hit
 [u0846 | 01:03:04.220-01:03:06.450 | DM] and you do 2 attacks
@@ -873,7 +873,7 @@
 [u0873 | 01:05:09.480-01:05:10.770 | Riswynn] Okay, i'll be.
 [u0874 | 01:05:11.520-01:05:15.860 | Riswynn] That's me. Stop choosing for like what kind of
 [u0875 | 01:05:16.170-01:05:17.690 | DM] wisdom saving throw?
-[u0876 | 01:05:19.520-01:05:20.900 | Riswynn] {{Not a tube}}.
+[u0876 | 01:05:19.520-01:05:20.900 | Riswynn] Not a two.
 [u0877 | 01:05:21.930-01:05:24.920 | DM] So the spell ends. You are no longer frightened.
 [u0878 | 01:05:25.120-01:05:26.070 | Seeker] Nice!
 [u0879 | 01:05:26.880-01:05:28.490 | Riswynn] That was a waste of time.
@@ -920,7 +920,7 @@
 [u0920 | 01:08:06.870-01:08:15.030 | DM] That one hits that one misses. So you take another 10 points of damage. and another Constitution saving throw
 [u0921 | 01:08:16.700-01:08:21.470 | Seeker] out the concentration. I mean. Yeah, you know, Constitution saving throw
 [u0922 | 01:08:22.020-01:08:22.620 | DM] yeah
-[u0923 | 01:08:23.130-01:08:30.760 | Seeker] constitution, 0 14 delegates. A:
+[u0923 | 01:08:23.130-01:08:30.760 | Seeker] constitution, 0 14 that gets it. A:
 [u0924 | 01:08:32.510-01:08:42.529 | DM] So a. So that was Wellby that was them. Shadow Hunter is dead. Kenzo. Another death saving throw.
 [u0925 | 01:08:43.020-01:08:43.880 | Kenzo] How fun!
 [u0926 | 01:08:46.130-01:08:50.300 | Kenzo] You know, with advantage! What's the saving for? What do I have to make
@@ -1080,7 +1080,7 @@
 [u1080 | 01:20:31.130-01:20:31.960 | Wellby] Yeah.
 [u1081 | 01:20:32.030-01:20:34.760 | Seeker] So I have see a scroll of speak with dead
 [u1082 | 01:20:36.580-01:20:39.840 | Kenzo] Tim. Can't I also spend a ki in speaking to dead people that are gonna do that, too, right
-[u1083 | 01:20:40.560-01:20:41.430 | DM] now?
+[u1083 | 01:20:40.560-01:20:41.430 | DM] No.
 [u1084 | 01:20:44.000-01:20:46.610 | Kenzo] Sure wasn't one of my special PA.
 [u1085 | 01:20:50.470-01:20:53.080 | DM] It's all on your character sheet. is there
 [u1086 | 01:20:56.700-01:21:00.200 | Kenzo] death blessing advantage on death saving throws. Thank you for that.
@@ -1099,7 +1099,7 @@
 [u1099 | 01:22:14.260-01:22:15.130 | DM] So
 [u1100 | 01:22:19.060-01:22:20.570 | DM] you return to your camp
 [u1101 | 01:22:20.900-01:22:23.480 | DM] there anything you're going to do before going back to sleep.
-[u1102 | 01:22:26.380-01:22:34.120 | Kenzo] I was going to pop some pop, some special Taelgar melatonin and make sure you get some really good rest of night because we fucking died twice.
+[u1102 | 01:22:26.380-01:22:34.120 | Kenzo] I was going to pop some pop, some special Taelgar melatonin and make sure you get some really good restful night because we fucking died twice.
 [u1103 | 01:22:35.100-01:22:38.940 | Riswynn] There, Anyone we need to like check up on sending wise
 [u1104 | 01:22:40.370-01:22:42.900 | DM] at one in the morning? Probably not.
 [u1105 | 01:22:44.070-01:22:49.900 | Seeker] And are we just aren't there, Taelgar time zones. Maybe somebody is awake
@@ -1111,7 +1111,7 @@
 [u1111 | 01:23:11.300-01:23:14.830 | Seeker] You can still be time zones if the sun, you know.
 [u1112 | 01:23:15.940-01:23:21.270 | DM] moves, you know, if it's pulled by a chariot across the sky, the chariot has to turn somewhere.
 [u1113 | 01:23:21.680-01:23:24.890 | Kenzo] but can't. Can we like use math to figure out whether or not
-[u1114 | 01:23:25.260-01:23:27.000 | Kenzo] {{ourars Here}}
+[u1114 | 01:23:25.260-01:23:27.000 | Kenzo] our world's a sphere
 [u1115 | 01:23:28.390-01:23:30.010 | DM] it has a horizon.
 [u1116 | 01:23:31.720-01:23:33.030 | Seeker] so it's curved.
 [u1117 | 01:23:33.100-01:23:35.880 | DM] It's curved, but that doesn't mean it's a globe.
@@ -1212,7 +1212,7 @@
 [u1212 | 01:30:59.730-01:31:05.590 | Kenzo] I mean, I mean. Oh, yeah, that's a that's an you are quick what you get.
 [u1213 | 01:31:05.850-01:31:11.530 | Kenzo] They got a 9 1 one unarmed strike! That's nothing too crazy. Just going unarmed strike
 [u1214 | 01:31:13.880-01:31:15.860 | Kenzo] fuck inspiration.
-[u1215 | 01:31:15.940-01:31:17.740 | DM] Oh, no! That doesn't know
+[u1215 | 01:31:15.940-01:31:17.740 | DM] Oh, no! That doesn't—no
 [u1216 | 01:31:17.820-01:31:18.980 | DM] that doesn't hit.
 [u1217 | 01:31:19.280-01:31:23.040 | Kenzo] I'll get it. I'll do another unarmed strike.
 [u1218 | 01:31:24.360-01:31:25.700 | Kenzo] It's
@@ -1344,7 +1344,7 @@
 [u1344 | 01:42:30.370-01:42:31.410 | Kenzo] however.
 [u1345 | 01:42:34.400-01:42:35.910 | Kenzo] and this is a critical moment.
 [u1346 | 01:42:37.290-01:42:40.490 | Kenzo] We ride east right now. We head east
-[u1347 | 01:42:42.490-01:42:53.930 | Kenzo] to try to prevent what maybe the unleashing of a horrible. terrible army that we'll head west.
+[u1347 | 01:42:42.490-01:42:53.930 | Kenzo] to try to prevent what maybe the unleashing of a horrible. terrible army that will head west.
 [u1348 | 01:42:54.280-01:42:57.170 | Kenzo] and if Shakun's power is
 [u1349 | 01:42:57.540-01:42:58.690 | Kenzo] disbanded.
 [u1350 | 01:42:59.190-01:43:03.040 | Kenzo] as is the goal of our of of we told, Have we told her about Grash.
@@ -1373,7 +1373,7 @@
 [u1373 | 01:44:47.300-01:44:48.860 | Kenzo] seizing control of that item.
 [u1374 | 01:44:53.030-01:44:54.870 | Kenzo] There's no guarantee. We will succeed.
 [u1375 | 01:44:57.350-01:44:59.690 | Kenzo] I would say. The chances are low even that will succeed
-[u1376 | 01:45:04.280-01:45:06.160 | Kenzo] {{inside, though I think the chances are mine}}.
+[u1376 | 01:45:04.280-01:45:06.160 | Kenzo] Inside, though, I think the chances are fine.
 [u1377 | 01:45:10.560-01:45:11.710 | DM] It says.
 [u1378 | 01:45:13.580-01:45:17.730 | Kenzo] also telepathy. Any other arguments here. Anything else? I'm missing
 [u1379 | 01:45:18.730-01:45:19.540 | Kenzo] friends.
@@ -1384,7 +1384,7 @@
 [u1384 | 01:45:53.800-01:46:00.620 | Kenzo] to seize that territory legitimately, quickly, who is in control of Tokra right now. It is it
 [u1385 | 01:46:01.360-01:46:04.900 | DM] so? Your sense from
 [u1386 | 01:46:05.460-01:46:07.420 | DM] Govir and from
-[u1387 | 01:46:09.000-01:46:17.380 | DM] from the scrying that Delwath's done, and just the various bits of rumor mongering, and what {{Giles}} said
+[u1387 | 01:46:09.000-01:46:17.380 | DM] from the scrying that Delwath's done, and just the various bits of rumor mongering, and what Gyles said
 [u1388 | 01:46:18.400-01:46:22.060 | DM] right? So. So Tokra is still, you know, in control under
 [u1389 | 01:46:22.220-01:46:24.800 | DM] the rule of
 [u1390 | 01:46:25.060-01:46:27.630 | DM] the high priestess who you met.
@@ -1395,7 +1395,7 @@
 [u1395 | 01:46:53.310-01:47:00.880 | DM] you know, technically speaking, her loyalty is to the gods. The whole issue here is the Gods Haven't really
 [u1396 | 01:47:00.940-01:47:03.520 | DM] clearly supported one person or another.
 [u1397 | 01:47:07.700-01:47:12.850 | DM] There is an army that's been camped. So so Karnas sent an army
-[u1398 | 01:47:13.150-01:47:27.180 | DM] to Tokra with Chardonian reinforcements. There's the people you attempt to scry on, and who or clairvoyance, and who caught you? And we're mad, at you.
+[u1398 | 01:47:13.150-01:47:27.180 | DM] to Tokra with Chardonian reinforcements. There's the people you attempt to scry on, and who or clairvoyance, and who caught you? And were mad, at you.
 [u1399 | 01:47:30.730-01:47:32.050 | DM] They
 [u1400 | 01:47:33.100-01:47:37.520 | Unknown] that army has been getting smaller and smaller over time, as people.
 [u1401 | 01:47:38.260-01:47:50.330 | DM] you know. It was originally like the defense against the gnolls, but people have drifted off. You know it's the harvest right? People have to go back and tend to their herds and things like that, so the army can't stay in the field forever.
@@ -1499,7 +1499,7 @@
 [u1499 | 01:56:16.660-01:56:18.680 | Unknown] Her brother's already given up
 [u1500 | 01:56:18.710-01:56:22.280 | Wellby] on that, like on the land east of the river.
 [u1501 | 01:56:22.990-01:56:24.620 | Wellby] like I think his new
-[u1502 | 01:56:26.090-01:56:39.310 | Wellby] Dunmar is south of the mountains. I don't know it just it. It seems like it plays into place into the {{imperial charges}}, Whether or not that's real right. But whether or not that's actually their design
+[u1502 | 01:56:26.090-01:56:39.310 | Wellby] Dunmar is south of the mountains. I don't know it just it. It seems like it plays into place into the imperial Chardonians, Whether or not that's real right. But whether or not that's actually their design
 [u1503 | 01:56:40.760-01:56:43.060 | Wellby] her striking West certainly plays into that.
 [u1504 | 01:56:44.400-01:56:48.560 | Kenzo] So I don't know what that means. We should do, though. Yeah, sorry for sure.
 [u1505 | 01:56:51.160-01:56:55.110 | Kenzo] if you're a if you're mired in conflict in the west
@@ -1546,7 +1546,7 @@
 [u1546 | 02:00:06.540-02:00:08.950 | DM] overlordship of our land.
 [u1547 | 02:00:12.430-02:00:13.440 | DM] or
 [u1548 | 02:00:16.380-02:00:20.840 | DM] our theories about the corruption in the heart of the Empire are correct.
-[u1549 | 02:00:23.550-02:00:33.280 | DM] They will {{fight the old parks}}. I do not think you want Chardonian Mages lingering in Tokra? If there is an orc army charging from the {{West}}, I certainly don't.
+[u1549 | 02:00:23.550-02:00:33.280 | DM] They will {{fight the old parks}}. I do not think you want Chardonian Mages lingering in Tokra? If there is an orc army charging from the West, I certainly don't.
 [u1550 | 02:00:33.470-02:00:34.810 | Kenzo] How are you going to move them
 [u1551 | 02:00:40.150-02:00:43.380 | DM] 3,000 cavalry can stop 50 mages.
 [u1552 | 02:00:44.670-02:00:46.640 | DM] and we have the gods on our side.
@@ -1595,7 +1595,7 @@
 [u1595 | 02:04:23.700-02:04:28.140 | Kenzo] Well, this does feel like a fucking.
 [u1596 | 02:04:29.160-02:04:34.890 | Kenzo] We should. This feels like a fucking call on the gods. Try to help us for guidance for tech moment, or here.
 [u1597 | 02:04:35.330-02:04:36.660 | Kenzo] pretty big moment right here.
-[u1598 | 02:04:36.850-02:04:45.640 | Wellby] Yeah, do we have anything else to let us do that. It's the augury mirror, I think. {{Just kiss. I agree. Marilyn's}} kind of the same thing. Yeah.
+[u1598 | 02:04:36.850-02:04:45.640 | Wellby] Yeah, do we have anything else to let us do that. It's the augury mirror, I think. Just—augury mirror's kind of the same thing. Yeah.
 [u1599 | 02:04:46.220-02:04:49.420 | Kenzo] Doesn't doesn't Delwath. Have some cool spells.
 [u1600 | 02:04:49.750-02:04:51.740 | DM] Riswynn has some spells.
 [u1601 | 02:04:56.300-02:04:56.980 | DM] Kate.
@@ -1641,7 +1641,7 @@
 [u1641 | 02:08:32.480-02:08:33.320 | Seeker] Yeah.
 [u1642 | 02:08:33.860-02:08:34.870 | Kenzo] all right, we asked.
 [u1643 | 02:08:36.420-02:08:38.260 | Kenzo] Should should Sura
-[u1644 | 02:08:39.720-02:08:42.300 | Kenzo] march {{east}} and try to take back Tokra
+[u1644 | 02:08:39.720-02:08:42.300 | Kenzo] march east and try to take back Tokra
 [u1645 | 02:08:42.980-02:08:44.820 | DM] So you
 [u1646 | 02:08:51.150-02:08:52.710 | DM] you sit down
 [u1647 | 02:08:52.820-02:08:56.340 | DM] and and Riswynn prays for
@@ -1682,7 +1682,7 @@
 [u1682 | 02:11:45.650-02:11:47.050 | Kenzo] fortifying the East.
 [u1683 | 02:11:47.810-02:11:49.160 | Unknown] No doubt that
 [u1684 | 02:11:49.450-02:11:50.480 | Wellby] is done.
-[u1685 | 02:11:52.000-02:11:56.060 | Wellby] Dunmar's strength is on the {{back to}}
+[u1685 | 02:11:52.000-02:11:56.060 | Wellby] Dunmar's strength is on horseback.
 [u1686 | 02:11:57.580-02:12:09.930 | Wellby] you know. Perhaps this raising a larger army on horse is what fortification is here. I I don't know I don't know enough about Dunmar Enough that so
 [u1687 | 02:12:15.100-02:12:15.920 | Kenzo] Seeker.
 [u1688 | 02:12:16.660-02:12:19.200 | Seeker] Are there any literal buildings involved in this
@@ -1718,8 +1718,8 @@
 [u1718 | 02:14:28.280-02:14:29.870 | Seeker] the gospel of War again.
 [u1719 | 02:14:34.580-02:14:39.610 | Wellby] Well, Wellby will say, Well, Wellby, will confess to being flummoxed, and I'm.
 [u1720 | 02:14:40.790-02:14:44.130 | Wellby] I can convince myself either way, and both of them at once.
-[u1721 | 02:14:45.170-02:14:45.910 | Kenzo] This one
-[u1722 | 02:14:50.580-02:14:51.360 | Kenzo] prisoner
+[u1721 | 02:14:45.170-02:14:45.910 | Kenzo] Riswynn?
+[u1722 | 02:14:50.580-02:14:51.360 | Kenzo] Riswynn?
 [u1723 | 02:14:56.040-02:14:57.160 | Riswynn] I mean.
 [u1724 | 02:14:58.290-02:15:06.880 | Riswynn] Here we are five adventurers who know a lot about the
 [u1725 | 02:15:09.210-02:15:22.810 | Riswynn] and the evil powers amassing around our world. But I don't necessarily think that makes us political experts. What your intuition.
@@ -1735,7 +1735,7 @@
 [u1735 | 02:16:16.440-02:16:20.650 | Kenzo] Well, Sura has to decide. All right contact her on the on the stone.
 [u1736 | 02:16:22.900-02:16:24.530 | DM] Good morning, Kenzo.
 [u1737 | 02:16:25.950-02:16:26.910 | Kenzo] Sura
-[u1738 | 02:16:28.470-02:16:45.559 | Kenzo] actually, Tim, before I do that, too. I also love this one's doing that I was fucking, praying to all my fucking gods because i'm linked in with all them any any like. I spend the whole day just like doing rituals, do fucking like whatever you know. All my stayed up all night. Well, you were spending the day learning to fly the ship.
+[u1738 | 02:16:28.470-02:16:45.559 | Kenzo] actually, Tim, before I do that, too. I also, while Riswynn's doing that, I was fucking, praying to all my fucking gods because i'm linked in with all them any any like. I spend the whole day just like doing rituals, do fucking like whatever you know. All my stayed up all night. Well, you were spending the day learning to fly the ship.
 [u1739 | 02:16:46.350-02:16:50.219 | DM] This is first thing in the morning. You can stay and meditate an hour.
 [u1740 | 02:16:51.030-02:17:02.280 | Kenzo] You stay up all night. Yes, yes, for this. I stay up. Okay, Stay up all night. Star night rituals fuckin, you know just everything I can think of commune with nature, commun with plants.
 [u1741 | 02:17:02.510-02:17:07.590 | Kenzo] fucking, talk to all the gods, tattoos, the whole fucking thing, and anything I can do to get a sign right now.
@@ -1768,7 +1768,7 @@
 [u1768 | 02:19:21.120-02:19:23.930 | DM] Given that the strength of
 [u1769 | 02:19:27.260-02:19:34.410 | DM] Now, of course, if Sura gets bogged down in a huge war, and you know, can't extract her forces, and it's
 [u1770 | 02:19:34.600-02:19:39.590 | DM] 2 3 4 months before she can march you that might be a lot worse. But
-[u1771 | 02:19:42.100-02:19:45.879 | DM] you're feeling from the gods is just the {{sensiveness}}.
+[u1771 | 02:19:42.100-02:19:45.879 | DM] you're feeling from the gods is just the sense of this.
 [u1772 | 02:19:50.490-02:19:53.730 | DM] You know the the sort of power of
 [u1773 | 02:19:55.590-02:19:59.990 | DM] the Dunmari people believing in the power of the gods.
 [u1774 | 02:20:04.260-02:20:05.260 | DM] But again.
@@ -1841,11 +1841,11 @@
 [u1841 | 02:26:16.760-02:26:24.420 | DM] You can. You can send a letter on Delwath's... Delwath can use his magic letter sending.
 [u1842 | 02:26:26.380-02:26:32.070 | Kenzo] I don't know that is, but all right. Would be that. Well, well. that happens
 [u1843 | 02:26:36.220-02:26:40.400 | DM] So Kenzo writes a letter
-[u1844 | 02:26:42.110-02:26:43.700 | DM] {{speaking of hands}}.
+[u1844 | 02:26:42.110-02:26:43.700 | DM] speaking of his.
 [u1845 | 02:26:45.400-02:26:51.900 | DM] It's his visions and his feelings, and reporting everything that's happened in all of the words of the gods.
 [u1846 | 02:26:54.780-02:27:02.700 | DM] The the lynx steps out of Delwath's shield. grabs the letter in its mouth, and it sort of
 [u1847 | 02:27:03.390-02:27:08.460 | DM] fades, and then it takes off across the plains, racing at speed close to
-[u1848 | 02:27:09.830-02:27:10.730 | Kenzo] press it.
+[u1848 | 02:27:09.830-02:27:10.730 | Kenzo] Impressive.
 [u1849 | 02:27:15.690-02:27:19.550 | DM] and then you prepared to take flight.
 [u1850 | 02:27:21.060-02:27:26.900 | DM] So in Roll20 on the map you are here.
 [u1851 | 02:27:29.200-02:27:34.180 | DM] Your destination is here. Are you going just in a straight line? What's your
@@ -1875,13 +1875,13 @@
 [u1875 | 02:30:05.390-02:30:07.210 | Seeker] Yeah, that's where the cloak is.
 [u1876 | 02:30:08.600-02:30:13.500 | Seeker] So we're trying to beat Grash to this city where the cloak is being held right.
 [u1877 | 02:30:13.780-02:30:21.070 | Seeker] There is nothing I do. I think that was what your plan was. Yeah, do we know what's our intelligence on? Where the cloak is? Who has it?
-[u1878 | 02:30:21.110-02:30:23.070 | Kenzo] {{Have we find it}} so
+[u1878 | 02:30:21.110-02:30:23.070 | Kenzo] How do we find it? so
 [u1879 | 02:30:23.610-02:30:25.220 | DM] these orcs have it
 [u1880 | 02:30:25.650-02:30:26.410 | Seeker] right.
 [u1881 | 02:30:26.560-02:30:29.680 | DM] The peaceful orcs that live out in the desert.
 [u1882 | 02:30:32.260-02:30:33.460 | DM] And
 [u1883 | 02:30:35.830-02:30:42.270 | DM] you've seen the you've seen there, like King, or something or somebody wearing it
-[u1884 | 02:30:42.810-02:30:45.880 | Seeker] good. and then I read kind of like.
+[u1884 | 02:30:42.810-02:30:45.880 | Seeker] good. and then are we kind of like.
 [u1885 | 02:30:47.060-02:30:51.720 | Seeker] smash everything and take it, and then destroy it, or we try to take it for ourselves.
 [u1886 | 02:30:52.440-02:30:56.520 | DM] Well, that you don't need to, I think, for you. What's that?
 [u1887 | 02:30:56.610-02:31:00.640 | Riswynn] We're not taking it for ourselves? We don't want to silence the gods.
@@ -1904,7 +1904,7 @@
 [u1904 | 02:32:21.960-02:32:23.160 | Wellby] what they are like.
 [u1905 | 02:32:24.340-02:32:27.670 | Unknown] Like the races of Taelgar created races. They're they're
 [u1906 | 02:32:27.800-02:32:28.770 | Seeker] Hmm.
-[u1907 | 02:32:29.500-02:32:34.660 | Seeker] So you're saying {{this. It's a to be that way}}. This cloak kind of perverts them
+[u1907 | 02:32:29.500-02:32:34.660 | Seeker] So you're saying they're supposed to be that way. This cloak kind of perverts them
 [u1908 | 02:32:35.970-02:32:37.330 | Seeker] into farmers
 [u1909 | 02:32:38.620-02:32:39.570 | Seeker] with like
 [u1910 | 02:32:39.610-02:32:41.040 | Kenzo] he's Democratic
@@ -1938,7 +1938,7 @@
 [u1938 | 02:35:04.650-02:35:06.620 | DM] It's in the desert somewhere.
 [u1939 | 02:35:06.790-02:35:12.950 | Seeker] right hard to localize. It's hard to localize it's heading it's heading east. It's some. It left
 [u1940 | 02:35:13.070-02:35:20.490 | DM] 4 or 5 days ago, and it's moving fast. It's clearly not at the other orc kingdom yet.
-[u1941 | 02:35:21.910-02:35:25.380 | Kenzo] Yeah, and {{it's my hands to an ecosystem}}.
+[u1941 | 02:35:21.910-02:35:25.380 | Kenzo] Yeah, and it's my hands to an ecosystem.
 [u1942 | 02:35:25.430-02:35:38.650 | Kenzo] Well, so we should basically go as fast as we can and get to the Orcs as fast as we can. We should do the 2 day thing straight line, 2 days get there. And what does this straight line take us over again
 [u1943 | 02:35:39.850-02:35:44.550 | Riswynn] a lot of desert. That's why I was in that particular desert.
 [u1944 | 02:35:45.210-02:35:45.910 | Seeker] and
@@ -1969,7 +1969,7 @@
 [u1969 | 02:37:40.170-02:37:42.350 | DM] No, you just need to be attuned to it.
 [u1970 | 02:37:42.410-02:37:46.550 | Seeker] Oh, that's cool. So like on board the ship, though, on board the ship.
 [u1971 | 02:37:47.350-02:37:54.290 | Kenzo] Yeah, I can't leave the ship and still control that. Wait! Can I fight and control the control the ship at the same time. No.
-[u1972 | 02:37:54.970-02:37:55.820 | Seeker] her
+[u1972 | 02:37:54.970-02:37:55.820 | Seeker] Sure.
 [u1973 | 02:37:56.590-02:38:02.550 | DM] sort of can. But each time you take damage you have to make constitution saves, and if you fail
 [u1974 | 02:38:02.970-02:38:06.730 | Seeker] you lose control of the ship. I got super lucky in that tonight.
 [u1975 | 02:38:07.720-02:38:14.050 | DM] Yeah, yeah, maybe next time Seeker levels up, you've got to do something to make you better at Constitution saves
@@ -1989,7 +1989,7 @@
 [u1989 | 02:39:11.550-02:39:14.080 | Kenzo] I guess, how do we protect it
 [u1990 | 02:39:14.200-02:39:15.290 | Kenzo] from the top?
 [u1991 | 02:39:16.260-02:39:20.070 | Seeker] Yeah, it needs like a bubble of some kind.
-[u1992 | 02:39:20.350-02:39:27.350 | Kenzo] I wish we had a shield. I wish we had a force force fields. {{They may be that you can't do it because I create}} like a big Ass Force field.
+[u1992 | 02:39:20.350-02:39:27.350 | Kenzo] I wish we had a shield. I wish we had a force force fields. They may be that you can't do it because I create like a big Ass Force field.
 [u1993 | 02:39:28.040-02:39:32.760 | Riswynn] I can create a wall of fire that's useful. Actually.
 [u1994 | 02:39:35.050-02:39:42.560 | Kenzo] Can it be like a a plane of fire like above us or around us the dome of fire as seriously. It can be a dome.
 [u1995 | 02:39:43.820-02:39:48.070 | DM] It can't be that big, though. Remember, the ship is 250 feet long.
@@ -1997,7 +1997,7 @@
 [u1997 | 02:39:52.410-02:39:54.650 | Riswynn] the flaming cockpit.
 [u1998 | 02:39:55.810-02:40:01.470 | DM] I mean, you could make a wall of fire that surrounds the cockpit with the flames pointing out.
 [u1999 | 02:40:01.560-02:40:02.520 | Riswynn] Yeah.
-[u2000 | 02:40:02.820-02:40:07.600 | Seeker] and then wouldn't be able to see so good. {{Walk up the the ship}}.
+[u2000 | 02:40:02.820-02:40:07.600 | Seeker] and then wouldn't be able to see so good. Look out of the ship.
 [u2001 | 02:40:07.750-02:40:13.140 | Seeker] You see it through the ship. I I could see fine. And yeah, or Kenzo if it's flying
 [u2002 | 02:40:15.210-02:40:16.050 | Seeker] me
 [u2003 | 02:40:18.120-02:40:19.140 | DM] So
@@ -2012,7 +2012,7 @@
 [u2012 | 02:41:03.680-02:41:07.690 | Kenzo] What did they do against us in that battle I was like summoned a demon, and then
 [u2013 | 02:41:08.340-02:41:10.320 | DM] had a bunch of fear effects.
 [u2014 | 02:41:11.600-02:41:14.660 | Seeker] The same spell that got Riswynn
-[u2015 | 02:41:14.980-02:41:17.930 | DM] in the Shadow Hunter fight, {{Ken was said}}.
+[u2015 | 02:41:14.980-02:41:17.930 | DM] in the Shadow Hunter fight, Ken was said.
 [u2016 | 02:41:18.280-02:41:19.840 | Kenzo] Is Kenzo immune to fear
 [u2017 | 02:41:23.150-02:41:25.450 | DM] you can use it
 [u2018 | 02:41:25.850-02:41:33.300 | DM] mostly. Not not not technically, but you can spend your action to end any fear effect on yourself for 2 ki.
@@ -2040,14 +2040,14 @@
 [u2040 | 02:43:07.070-02:43:09.960 | Unknown] lying out below you like this.
 [u2041 | 02:43:10.290-02:43:12.920 | DM] can I not? Yeah, you can.
 [u2042 | 02:43:13.640-02:43:15.320 | DM] Yeah, you can fly that high
-[u2043 | 02:43:17.060-02:43:25.810 | Kenzo] Seeker's had a little more practice than you. But you can {{flag for me}}. Yeah, I mean it's like just like getting the we just want to not be brought down by
+[u2043 | 02:43:17.060-02:43:25.810 | Kenzo] Seeker's had a little more practice than you. But you can fly up high. Yeah, I mean it's like just like getting the we just want to not be brought down by
 [u2044 | 02:43:26.090-02:43:35.150 | DM] you. Do have to land to switch drivers. You can't switch drivers midair, because if nobody is attuned to the phasing stone, it crashes.
 [u2045 | 02:43:35.170-02:43:40.620 | Seeker] and even though we're flying very, very high, and
 [u2046 | 02:43:41.710-02:43:43.670 | Seeker] at that altitude it's
 [u2047 | 02:43:43.790-02:43:53.870 | Seeker] cold, and there's strong wind. Seeker is wearing seemingly less and less clothing each time just enjoying the chill on his skin
 [u2048 | 02:43:56.410-02:43:57.670 | Kenzo] Kenzo supports
 [u2049 | 02:43:58.280-02:44:00.190 | Kenzo] Seeker and his freedom of expression.
-[u2050 | 02:44:03.360-02:44:08.960 | Riswynn] {{He is up with me}} and worries that he's getting a little storm giantish for a dwarf.
+[u2050 | 02:44:03.360-02:44:08.960 | Riswynn] He is up with me and worries that he's getting a little storm giantish for a dwarf.
 [u2051 | 02:44:10.070-02:44:11.540 | Seeker] What what do you mean?
 [u2052 | 02:44:15.170-02:44:17.500 | Kenzo] You be? You Seeker you be. It
 [u2053 | 02:44:18.410-02:44:20.480 | Riswynn] is he him, though
@@ -2105,7 +2105,7 @@
 [u2105 | 02:48:08.070-02:48:09.550 | Seeker] an anteater or something.
 [u2106 | 02:48:09.900-02:48:12.640 | Riswynn] There's the five-legged one near Kenzo
 [u2107 | 02:48:12.910-02:48:17.650 | DM] nice for some reason things in the like. So creatures in the
-[u2108 | 02:48:17.980-02:48:22.570 | DM] I' to do a a picture of a cow, it will get it exactly right.
+[u2108 | 02:48:17.980-02:48:22.570 | DM] If I do a a picture of a cow, it will get it exactly right.
 [u2109 | 02:48:22.650-02:48:28.420 | DM] but if they're just like little details in the background. it's much much worse.
 [u2110 | 02:48:28.500-02:48:29.310 | Seeker] Then.
 [u2111 | 02:48:32.690-02:48:34.110 | Seeker] Next to the
@@ -2153,7 +2153,7 @@
 [u2153 | 02:52:15.820-02:52:16.590 | DM] here.
 [u2154 | 02:52:19.550-02:52:24.990 | DM] Okay. So we'll stop there and we'll pick up with the orcs on the fourth
 [u2155 | 02:52:26.630-02:52:28.910 | Kenzo] amazing
-[u2156 | 02:52:29.430-02:52:35.940 | Kenzo] before we go. So April the twentieth is the potential day for a malware.
+[u2156 | 02:52:29.430-02:52:35.940 | Kenzo] before we go. So April the twentieth is the potential day for a Mawar.
 [u2157 | 02:52:36.550-02:52:38.460 | Kenzo] and then
 [u2158 | 02:52:39.440-02:52:43.650 | Kenzo] Eric, you and I should meet up and go watch D and D together.
 [u2159 | 02:52:48.420-02:52:50.680 | Kenzo] Eric. You muted.
