@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/lint]
+tags: [background]
 name: Metaphysics of Creatures
 excludePublish: [all]
 dm_owner: joint
@@ -25,7 +25,7 @@ The foundation of sentience on Taelgar is [[Soulstuff]], an ineffable part of th
 * Soulstuff accretes to self-aware and perceiving creatures, meaning that (with some narrow exceptions) all creatures with motives and awareness have soulstuff
 * Soulstuff has "flavors", typically associated with some plane of existence or a divinity. So "feywild" or "elven" soulstuff is not directly and exactly interchangeable with "abyssal" or "orcish" soulstuff. This can, but won't always, drive cultural traits and similarities.
 * Soulstuff is powerful: beings with strong soulstuff (high CR monsters, PCs, divinities) can create supernatural effects from their own internal essence
-* Soulstuff is connected is the medium by which the dead retain their essence to be brought back to life. 
+* Soulstuff is the medium by which the dead retain their essence to be brought back to life. 
 ### Magic
 Magic is a fundamental part of Taelgar as well, and is ultimately sourced from the [[Plane of Magic]].  What magic is is not defined, but it has some principles as well:
 
@@ -51,9 +51,9 @@ With this background, self-aware creatures can broadly be divided into seven cat
 These are the unique species of Taelgar, the creatures with a common culture, history, language and creation story. A true species is distinguished by:
 
 * A single creation story (or the potential for one) - these never just sprung up from the essence of a plane
-* A common relationship to soulstuff. True species could have no souls (hobgoblins), gifted souls (humans), or souls tied to a plane (fae), but each individual member of a true species shares a source of soulstuff and the details of the soulstuff of a true species should be invented.
+* A common relationship to soulstuff. True species could have no souls (hobgoblins), gifted souls (humans), or souls tied to a plane (fey), but each individual member of a true species shares a source of soulstuff and the details of the soulstuff of a true species should be invented.
 * A life after death (usually). In most cases, the soulstuff of a true species should have some vehicle for lingering after death, although this is not always true
-* Existence in the Inner Realms. All true species are native to the Inner Realms. 
+* Existence in the Inner Realms. All true species are native to the Inner Realms (or potentially the Far Realms). 
 
 Each true species should have a detailed Species page, and most - but not all - are playable by PCs. In general, new true species should be discussed and new inventions here should be quite rare. 
 
@@ -79,15 +79,17 @@ Some playable species, and many classic fantasy species, especially those who ca
 
 [[Giants]] and [[Dragons]] are natives of the Material Plane, but their origin stories are connected in some as-yet-to-be-decided way to the [[Primordial Cosmos]] and the pre-[[Riving]] history of the world. Both of these species have the ability to accrete very large quantities of soulstuff, and potentially accrete soulstuff from more than one plane. If giants or dragons worship deities, they almost certainly worship what would metaphysically be something like demigods of their species who accreted sufficient soulstuff to transcend normal mortality.
 
-[[Fae]] and [[Fairies]] are the native species of the Feywild, collectively referred to as [[Fey]]. These species do not have a clear origin story, but canonically accrete Feywild soulstuff, and likely have no deities. Archfey might function something like divinities metaphysically, but not culturally, though exactly what archfey are remains an open question. 
+The [[Fey]] are natives of the Feywild. They do not have a clear origin story, but canonically accrete Feywild soulstuff, and likely have no deities. Archfey might function something like divinities metaphysically, but not culturally, though exactly what archfey are remains an open question.
+
+%% Older brainstorming proposed two species, fae and fairies, with beastfolk and changelings treated as variants of fae. An alternative is to treat these common folk of the Feywild as one species with diverse forms. This remains unresolved. %%
 
 [[Centaurs]] are native to the Material Plane; their origin myths speak of their close connection to the Material Plane. They do not worship gods, except the Material Plane itself as a kind of embodiment of divinity and creation. 
 
 *Open Questions and Discussion:*
 - Dragons and giants share the properties of coming in different "flavors", often elemental-associated and having the potential to be very powerful. One possible in-world explanation for this is that these species, as they were created before the Riving, maintain some ability to accrete soulstuff from more than one plane. So a red dragon has both material plane soulstuff and plane of fire soulstuff, for example. This could potentially be a common property of both creatures and species that have some pre-Riving connection, though it seems unlikely there would be other species worth introducing that have this property (but might work for other high-CR monstrosities). 
-- [[Fae]] is not a great name for the non-fairy species native to the Feywild, as it is better to reserve Fey for the general creature type, including both species and non-species creatures native to the Feywild. Fairies are also not necessarily the best name. There also might need to be a name for [[Fae]] + [[Fairies]] that isn't [[Fey]], if [[Fey]] includes non-species creatures as well. 
+- Fae or Fey is not a great name for the human-like fey, as it is easily confused with Fey, the general creature type, including both species and non-species creatures native to the Feywild. Potentially need two new names: a name for the fey species as opposed to non-species fey creatures, and a name specifically for the human/elf-like common fey (e.g., a common name like beastfolk, changelings, fairies, satyr, etc, that can refer to a fey form without implying a species or culture exists).
 - The Fey species could potentially use an origin story, although this is likely tied up in how the Feywild was created, which is probably but not definitely as part of the Riving. 
-- [[Centaurs]] have a clear mythology and vibe about their origin as the first species of the Material Plane that claims they were the "children of Taelgar" in some sense. This seems clearly to link them directly to soulstuff of the Material Plane, but needs a little thought for the metaphysics of how they came to exist. Early invention had them as originating as children of the archfey, but this depends on a no-longer-relevant conception of the [[Primordial Cosmos]] as being inhabited by archfey who created many things. 
+- [[Centaurs]] have a clear mythology and vibe about their origin as the first species of the Material Plane that claims they were the "children of Taelgar" in some sense. This seems clearly to link them directly to soulstuff of the Material Plane, but needs a little thought for the metaphysics of how they came to exist. Early invention had them as originating as children of the archfey, but this depends on a no-longer-relevant conception of the [[Primordial Cosmos]] as being inhabited by archfey who created many things. Current invention assumes they are somehow the children of the [[Riving]] without establishing how that actually works. 
 
 #### Lack Soulstuff
 Only a small number of species in Taelgar truly lack soulstuff. Besides hobgoblins, only constructs and natives of the Far Realm are likely to be in the category, and constructs are generally not expected to be species. 
@@ -154,24 +156,4 @@ The fundamental defining feature of a divinity, though, is that it is singular. 
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern reference framework for Taelgar creature metaphysics, with earlier origins and unresolved worldbuilding questions identified separately.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter and added the filename-derived name and modern temporal metadata.
-- Corrected fifteen objective spelling and grammar errors while retaining the unsettled metaphysical claims.
-
-### Validated judgments
-- The overview is sufficient for its stated role as an unpublished metaphysics and worldbuilding framework; its explicit open questions do not by themselves establish underdevelopment.
-- Both flagged “is is” sequences are grammatical (“What magic is is not defined” and “what that is is not yet clear”) and were retained.
-
-### Open findings
-
-- [ ] **Warning — correctness.internal_conflict:** True Species says “All true species are native to the Inner Realms,” but the Creatures list and Creatures of the Far Realms section allow Far Realms natives to be species. [[Creature Rules in Taelgar#Native Plane]] explicitly permits species native to the Material Plane, other Inner Planes, or Far Realms. Reconcile the definition with these exceptions. Candidate: “True species can be native to an Inner Plane or a Far Realm; natives of the Spiritual Realms are not species in this sense.” Adopt only after confirming that this is the intended common definition.
-
-- [ ] **Warning — coverage.established_fact_missing:** The Unknown subsection says [[Kobolds]] have “no invention at all around their creation story,” while the species article now describes creation by ancient great dragons as servants, spies, and messengers. Preserve the genuinely unresolved soulstuff question, but update the overly broad lack-of-origin statement. Candidate: “[[Kobolds]] were created by ancient great dragons as servants, spies, and messengers. Whether they accrete soulstuff or receive it as a gift remains undecided.” This incorporates the existing broad origin without deciding whether their creators were gods.
-
-- [ ] **Suggestion — editorial.prose_clarity:** The Soulstuff bullet reads “Soulstuff is connected is the medium by which the dead retain their essence to be brought back to life.” The two predicates do not form a comprehensible sentence. Confirm the intended connection and use this bounded candidate if the resurrection-medium claim is the intended whole meaning: “Soulstuff is the medium by which the dead retain their essence and can be brought back to life.”
 %%^End%%
