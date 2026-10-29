@@ -326,7 +326,7 @@
 [u0326 | 00:16:21.064-00:16:21.684 | Delwath] So I'm casting
 [u0327 | 00:16:22.824-00:16:23.184 | Delwath] Hex.
 [u0328 | 00:16:24.604-00:16:25.604 | DM] Okay.
-[u0329 | 00:16:25.604-00:16:27.164 | Delwath] And I'll just blast.
+[u0329 | 00:16:25.604-00:16:27.164 | Delwath] And Eldritch Blast.
 [u0330 | 00:16:27.164-00:16:27.724 | DM] On which one?
 [u0331 | 00:16:29.124-00:16:30.244 | Delwath] Uh, the front one.
 [u0332 | 00:16:31.364-00:16:32.924 | DM] This one here? Okay.
@@ -965,7 +965,7 @@
 [u0965 | 00:47:09.268-00:47:13.268 | Delwath] Not charged the, the last, uh...
 [u0966 | 00:47:13.268-00:47:21.417 | Delwath] Did you notice they were, they were actually charging the most recent, um, whoever hurt them last, they, they focused on, they ran towards.
 [u0967 | 00:47:21.417-00:47:21.508 | Unknown] But-
-[u0968 | 00:47:21.508-00:47:23.628 | Delwath] Most to the exclusion of anything else.
+[u0968 | 00:47:21.508-00:47:23.628 | Delwath] Almost to the exclusion of anything else.
 [u0969 | 00:47:23.628-00:47:26.268 | Kenzo] But if they're not enchanted, then what's, what's the source of this,
 [u0970 | 00:47:27.328-00:47:28.308 | Unknown] this strange behavior?
 [u0971 | 00:47:32.088-00:47:32.908 | Seeker] Hmm.
@@ -981,7 +981,7 @@
 [u0981 | 00:47:57.548-00:48:00.468 | Delwath] I don't know. Was it fed something that would...
 [u0982 | 00:48:00.468-00:48:01.888 | Seeker] That is an interesting question, actually.
 [u0983 | 00:48:01.888-00:48:02.478 | Seeker] If we could get that to work out.
-[u0984 | 00:48:02.478-00:48:05.388 | Wellby] Presumably should, but I wonder if there's other stuff beyond that.
+[u0984 | 00:48:02.478-00:48:05.388 | Wellby] Presumably sheep, but I wonder if there's other stuff beyond that.
 [u0985 | 00:48:05.388-00:48:06.388 | DM] Yeah.
 [u0986 | 00:48:06.388-00:48:06.868 | Seeker] Hmm.
 [u0987 | 00:48:06.868-00:48:08.768 | Wellby] I wonder also in the morning if we can track them.
@@ -2709,7 +2709,7 @@
 [u2709 | 02:20:01.292-02:20:03.192 | Delwath] Oh, wait. I was supposed to say that to everybody.
 [u2710 | 02:20:03.192-02:20:03.732 | Unknown] Sorry.
 [u2711 | 02:20:03.732-02:20:04.762 | Wellby] It looks like it's-
-[u2712 | 02:20:04.762-02:20:06.172 | DM] But Akan, Mike said, said that privately.
+[u2712 | 02:20:04.762-02:20:06.172 | DM] But Kong, Mike said, said that privately.
 [u2713 | 02:20:06.172-02:20:10.172 | Wellby] Making a grave for the horse will be very efficient for Seeker.
 [u2714 | 02:20:10.172-02:20:10.652 | DM] Right.
 [u2715 | 02:20:10.652-02:20:10.692 | Wellby] [laughs]
@@ -3003,7 +3003,7 @@
 [u3003 | 02:33:25.380-02:33:31.820 | Kenzo] Yeah. I was just gonna say, and, and also if we should look for the tracks of, uh, that, if there are, if there are other human tracks around here.
 [u3004 | 02:33:33.120-02:33:33.260 | Seeker] Yeah.
 [u3005 | 02:33:36.960-02:33:37.140 | DM] Uh-
-[u3006 | 02:33:39.640-02:33:40.820 | Unknown] Am I just sent you a message?
+[u3006 | 02:33:39.640-02:33:40.820 | Unknown] Um, I just sent you a message.
 [u3007 | 02:33:40.820-02:33:41.880 | DM] Yep.
 [u3008 | 02:33:41.880-02:33:42.420 | Unknown] At the gate.
 [u3009 | 02:33:45.520-02:33:48.620 | DM] Uh, so you're still probably two, two miles away from the,
