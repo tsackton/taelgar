@@ -1,8 +1,8 @@
 # Taelgar Skills
 
-Last reviewed: **2026-10-28**
+Last reviewed: **2026-10-29**
 
-This guide covers the 26 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 27 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -21,6 +21,8 @@ For transcript products, use **process-transcript** once a raw transcript or ses
 | [cleenseau-note](.agents/skills/cleenseau-note/SKILL.md)                 | Builds or revises Cleenseau session notes from Dreamwidth accounts and vault sources, preserving the source and using the recap/component/template pipeline for the final note. It also handles reviewed email-based sessions through the companion email workflow.                                             | “Build the Cleenseau session note from this Dreamwidth recap.”                                     |
 
 ### Individual session stages
+
+For an optional smaller input to interaction extraction, use [prepare-interaction-transcript](.agents/skills/prepare-interaction-transcript/SKILL.md) after polished Markdown exists. It creates only `<stem>-interactions-draft.md`, preserves meaningful speech and lore, and replaces routine combat/mechanics/chatter with `((rolls))`-style labels retaining every original UID span. Metadata is limited to format version, session YAML path, and polished-source hash; snips need no separate records. Restoring an edited turn recovers its complete polished text. Example: “Make a conservative in-world draft from Dunmar 10’s polished transcript,” or “Replace dice arithmetic with `((rolls))` while keeping the surrounding lore.” Original transcripts and session YAML remain unchanged; this experimental derivative is not yet wired into the interaction extractor.
 
 These are normally called by the session pipeline, except for the optional transcript polisher after the recap. Use them directly when you want one stage, rather than the whole process.
 

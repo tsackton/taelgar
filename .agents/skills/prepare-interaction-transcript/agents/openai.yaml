@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prepare Interaction Transcript"
+  short_description: "Make a conservative in-world draft with full source coverage"
+  default_prompt: "Use $prepare-interaction-transcript to make a smaller interaction-processing draft from this session's polished transcript. Preserve lore and meaningful events, and modify only the new draft."
