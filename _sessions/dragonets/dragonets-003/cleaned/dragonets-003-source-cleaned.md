@@ -4,7 +4,7 @@
 [u0004 | 00:00:18.850-00:00:19.810 | DM] Close our eyes.
 [u0005 | 00:00:21.870-00:00:23.350 | DM] Take a deep breath.
 [u0006 | 00:00:26.470-00:00:27.190 | DM] Shit.
-[u0007 | 00:00:32.800-00:00:34.450 | DM] and Tick.
+[u0007 | 00:00:32.800-00:00:34.450 | DM] And take…
 [u0008 | 00:00:34.450-00:00:37.730 | DM] Two more breaths at your own pace, and just release…
 [u0009 | 00:00:37.730-00:00:38.340 | DM] you.
 [u0010 | 00:00:38.870-00:00:40.190 | DM] Whatever was going on in your day.
@@ -21,11 +21,11 @@
 [u0021 | 00:01:52.450-00:01:54.489 | DM] Start to imagine yourself.
 [u0022 | 00:01:55.470-00:01:57.010 | DM] Inside your dragonet.
 [u0023 | 00:01:58.210-00:01:59.890 | DM] Feel your wings.
-[u0024 | 00:02:00.700-00:02:01.610 | DM] Ill.
+[u0024 | 00:02:00.700-00:02:01.610 | DM] Feel.
 [u0025 | 00:02:02.380-00:02:05.020 | DM] Your fingers and your claws.
 [u0026 | 00:02:06.720-00:02:10.819 | DM] And start to just feel the personality of your character.
 [u0027 | 00:02:11.780-00:02:13.610 | DM] And how he likes to feel.
-[u0028 | 00:02:14.460-00:02:18.300 | DM] It makes him… Smile and laugh and angry.
+[u0028 | 00:02:14.460-00:02:18.300 | DM] What makes him… Smile and laugh and angry.
 [u0029 | 00:02:19.730-00:02:22.279 | DM] Just kinda stretch your wings a little bit.
 [u0030 | 00:02:22.840-00:02:25.000 | DM] And feel yourself in that character.
 [u0031 | 00:02:26.410-00:02:32.749 | DM] And how good it feels to have wings. And how good it feels to have… An awesome fucking life.
@@ -90,7 +90,7 @@
 [u0090 | 00:08:11.570-00:08:17.929 | Heska] And this surge of power that's left him feeling,
 [u0091 | 00:08:20.340-00:08:21.880 | Heska] very…
 [u0092 | 00:08:25.100-00:08:39.529 | Heska] I think he's not quite sure what to feel about this. Like, on the one hand, he wants to go explore, and the other hand, he's like, what's going on? But at the moment, the let's go explore motivation is winning out, and he is turning and looking at everybody.
-[u0093 | 00:08:39.880-00:08:40.960 | Heska] has…
+[u0093 | 00:08:39.880-00:08:40.960 | Heska] As…
 [u0094 | 00:08:41.070-00:08:55.170 | Heska] Just moments ago, at least several of us had been like, let's make the statue walk. And he's looking around like, let's get going, team. Let's trot into the ocean. I've always wanted to see how far we can go.
 [u0095 | 00:08:55.660-00:08:57.030 | Heska] And so there is this…
 [u0096 | 00:08:57.630-00:09:05.160 | Heska] balance between buzzing excitement and abject terror, but at the moment, the buzzing excitement is winning.
@@ -99,7 +99,7 @@
 [u0099 | 00:09:32.170-00:09:39.110 | Zeno] With folks around him to, like, get something started. And so today, sitting in this cockpit, he's like.
 [u0100 | 00:09:41.690-00:09:49.509 | Zeno] Maybe… maybe I gotta think even bigger than… a restaurant concept, although admittedly, it was a very cool concept.
 [u0101 | 00:09:50.710-00:09:55.989 | Zeno] Actually, maybe this statue thing, maybe the Wanderer could be part of the rest, maybe the Wanderer, like…
-[u0102 | 00:09:56.450-00:10:01.060 | Zeno] Serves you your, or maybe, oh, it could date, oh.
+[u0102 | 00:09:56.450-00:10:01.060 | Zeno] Serves you your, or maybe, oh, it could dance, oh.
 [u0103 | 00:10:02.250-00:10:05.529 | Zeno] Dancing statue, come to the restaurant for the
 [u0104 | 00:10:07.220-00:10:13.289 | Zeno] We Sticks and Swings is a good concept. Maybe that'll be the one we retire to.
 [u0105 | 00:10:13.530-00:10:15.420 | Zeno] We gotta go big, you know?
@@ -146,7 +146,7 @@
 [u0146 | 00:14:18.520-00:14:19.660 | Zeno] internal.
 [u0147 | 00:14:19.660-00:14:22.979 | DM] ourselves as having expanded somehow.
 [u0148 | 00:14:23.110-00:14:31.359 | DM] And this idea of, like, control and precision and power is, like, really coursing through you in a pretty awesome way.
-[u0149 | 00:14:31.700-00:14:50.759 | DM] But then again, you're also sitting on cockpits in the heart of the Wanderer right now, and you kinda got it to, like, sorta move a little bit by just thinking about it together? So maybe that's also pretty cool. There's kind of a lot of things to consider right now, you wanna do.
+[u0149 | 00:14:31.700-00:14:50.759 | DM] But then again, you're also sitting in cockpits in the heart of the Wanderer right now, and you kinda got it to, like, sorta move a little bit by just thinking about it together? So maybe that's also pretty cool. There's kind of a lot of things to consider right now, you wanna do.
 [u0150 | 00:14:51.450-00:14:53.390 | DM] So, what do you want to do?
 [u0151 | 00:14:57.020-00:14:58.960 | Heska] Let's go for a walk.
 [u0152 | 00:14:59.590-00:15:00.529 | Heska] That's the size.
@@ -158,15 +158,15 @@
 [u0158 | 00:15:09.760-00:15:19.039 | Zeno] Wait, wait, wait, wait. Slow down. And, and Zeno like lifts his own right foot. It's like, okay, just watch me and do, and do what I do and we'll make this.
 [u0159 | 00:15:19.040-00:15:22.640 | Heska] I'm gonna think really hard about my right foot lifting up.
 [u0160 | 00:15:22.850-00:15:26.720 | Zeno] Oh, with your eyes open so you can see my own, what I'm doing. Ready? Okay. One.
-[u0161 | 00:15:26.720-00:15:27.259 | Heska] No, it hasn't.
+[u0161 | 00:15:26.720-00:15:27.259 | Heska] No, Heska's…
 [u0162 | 00:15:27.260-00:15:27.780 | Zeno] Stay tuned.
-[u0163 | 00:15:27.780-00:15:29.050 | Heska] Get with those eyes closed.
+[u0163 | 00:15:27.780-00:15:29.050 | Heska] Got his eyes closed.
 [u0164 | 00:15:29.050-00:15:33.810 | Zeno] We don't want to knock this thing over, you guys!
 [u0165 | 00:15:33.810-00:15:34.300 | Sculpit] So.
 [u0166 | 00:15:34.300-00:15:36.239 | Zeno] If it falls down, it might not be able to get up.
-[u0167 | 00:15:36.240-00:15:43.489 | Sculpit] No. Let's do an maybe okay. So here's the thing about experiments. Right? You start with a little safe one.
+[u0167 | 00:15:36.240-00:15:43.489 | Sculpit] No. Let's do a—maybe okay. So here's the thing about experiments. Right? You start with a little safe one.
 [u0168 | 00:15:43.730-00:15:48.950 | Sculpit] Like, like a hand? Or a toe? Right foot, right foot. No, no, because then we'll fall, we'll fall.
-[u0169 | 00:15:49.540-00:15:50.799 | Sculpit] Cool, takes a breath, okay.
+[u0169 | 00:15:49.540-00:15:50.799 | Sculpit] Sculpit takes a breath, okay.
 [u0170 | 00:15:50.800-00:15:52.900 | Heska] Think really hard about lifting the right foot.
 [u0171 | 00:15:52.900-00:15:56.650 | Sculpit] So everybody, here, let's just… Here's an idea.
 [u0172 | 00:15:56.650-00:15:57.950 | Heska] Is anything happening?
@@ -179,7 +179,7 @@
 [u0179 | 00:16:17.400-00:16:18.860 | Zeno] Okay, that's great.
 [u0180 | 00:16:18.860-00:16:19.540 | DM] Perfect.
 [u0181 | 00:16:19.540-00:16:23.310 | Sculpit] So here's what I would say. If we move the… The right hand.
-[u0182 | 00:16:23.310-00:16:26.230 | DM] No, no. Sculpit, stop talking. Scott says everybody.
+[u0182 | 00:16:23.310-00:16:26.230 | DM] No, no. Sculpit, stop talking. Schwartz says everybody.
 [u0183 | 00:16:26.230-00:16:26.929 | Sculpit] Right hand.
 [u0184 | 00:16:26.930-00:16:39.200 | DM] Ted, put it into the chat, and then I'm gonna say 3, 2, 1, and then hit enter, and that's what each of you is thinking about moving right now. Are you ready? You have it in the chat, where you want to move? Yep. Okay. 3, 2, 1, enter.
 [u0185 | 00:16:42.150-00:16:47.350 | Zeno] Oh my God, okay, all right.
@@ -281,7 +281,7 @@
 [u0281 | 00:23:06.050-00:23:09.029 | Little Tony] Yeah, but I usually feel toes in my toes, you know?
 [u0282 | 00:23:10.090-00:23:12.639 | Sculpit] Yeah, but it was like… It was like…
 [u0283 | 00:23:14.260-00:23:16.049 | Little Tony] Someone else's. Yeah, that's true.
-[u0284 | 00:23:16.050-00:23:16.400 | Sculpit] RTS.
+[u0284 | 00:23:16.050-00:23:16.400 | Sculpit] Right, yes.
 [u0285 | 00:23:16.400-00:23:18.810 | Heska] Wait, wait, wait, wait, wait. Heska has an idea.
 [u0286 | 00:23:19.300-00:23:25.010 | Heska] Can we… Do we have to be sitting in these chairs to move the statue?
 [u0287 | 00:23:26.050-00:23:27.230 | Zeno] Oh, good question.
@@ -311,7 +311,7 @@
 [u0311 | 00:24:25.900-00:24:26.450 | Heska] No, no, no.
 [u0312 | 00:24:26.450-00:24:27.469 | Little Tony] Yes, yes, yes.
 [u0313 | 00:24:27.470-00:24:28.330 | Sculpit] Yeah.
-[u0314 | 00:24:28.330-00:24:29.060 | Heska] We ain't bothered.
+[u0314 | 00:24:28.330-00:24:29.060 | Heska] Wave both.
 [u0315 | 00:24:29.060-00:24:30.600 | Little Tony] Yes. Yep. Both hands.
 [u0316 | 00:24:30.600-00:24:33.400 | Heska] But think it, don't do it, just think it.
 [u0317 | 00:24:33.400-00:24:34.030 | Sculpit] Okay, ready?
@@ -339,13 +339,13 @@
 [u0339 | 00:25:10.740-00:25:16.029 | DM] Actually, yeah, roll, everybody roll 20, D20 again, according to the same checks.
 [u0340 | 00:25:19.560-00:25:20.540 | Sculpit] 23.
 [u0341 | 00:25:21.260-00:25:22.810 | Heska] 23.
-[u0342 | 00:25:24.760-00:25:26.410 | DM] Sorry, 2323.
+[u0342 | 00:25:24.760-00:25:26.410 | DM] Sorry, 23, 23.
 [u0343 | 00:25:26.410-00:25:30.280 | Heska] My… I'm a rogue, so the lowest I can roll is a 23.
 [u0344 | 00:25:30.280-00:25:31.349 | DM] Are you serious?
 [u0345 | 00:25:31.630-00:25:31.980 | Little Tony] certain.
 [u0346 | 00:25:31.980-00:25:36.810 | DM] Oh, I need to make this higher. There needs to be some drama here. Wait, wait, hold on.
 [u0347 | 00:25:37.040-00:25:39.960 | DM] Wait, what's the lowest everybody can roll? Actually, this is good for me.
-[u0348 | 00:25:39.960-00:25:42.800 | Heska] I'm the only one who can't roll high. Who can't roll high?
+[u0348 | 00:25:39.960-00:25:42.800 | Heska] I'm the only one who can't roll high. Who can't roll low?
 [u0349 | 00:25:42.800-00:25:44.720 | Little Tony] It's that we have no idea what we're doing.
 [u0350 | 00:25:44.720-00:25:48.009 | DM] Well, no, wait, wait, but seriously, I'm just curious. What is everybody's lowest roll?
 [u0351 | 00:25:48.220-00:25:49.010 | Sculpit] 11.
@@ -354,7 +354,7 @@
 [u0354 | 00:25:56.360-00:25:57.970 | Sculpit] Tim's the only one with a… who's a.
 [u0355 | 00:25:57.970-00:26:03.720 | Heska] I'm the only one who can only roll high, because I have the rogues have one of their main abilities is…
 [u0356 | 00:26:03.720-00:26:05.500 | DM] And yours is 23, Tim?
-[u0357 | 00:26:05.900-00:26:08.710 | Heska] My lowest is 23. Don't you remember Welby? Like.
+[u0357 | 00:26:05.900-00:26:08.710 | Heska] My lowest is 23. Don't you remember Wellby? Like.
 [u0358 | 00:26:08.710-00:26:10.739 | DM] I know, I know, but Eric, what's your lowest roll?
 [u0359 | 00:26:11.150-00:26:14.809 | Zeno] Well, I have a plus 11, so I can roll a 12 or higher, basically.
 [u0360 | 00:26:14.960-00:26:20.890 | DM] Okay, great. Okay, alright, that's fine, that's fine. Alright, I'm making this more difficult so that there's at least a chance that
@@ -369,13 +369,13 @@
 [u0369 | 00:26:43.360-00:26:44.200 | DM] And.
 [u0370 | 00:26:45.470-00:26:49.010 | DM] The Wanderer's arms do not wave. They do not.
 [u0371 | 00:26:49.290-00:26:53.910 | DM] But… You all get the sense that
-[u0372 | 00:26:54.920-00:27:07.739 | DM] If you were just… I don't know what it is, it's just, like, you feel, like, again, really strong, really powerful now, but you get the sense that it… you were just more something.
+[u0372 | 00:26:54.920-00:27:07.739 | DM] If you were just… I don't know what it is, it's just, like, you feel, like, again, really strong, really powerful now, but you get the sense that if… you were just more something.
 [u0373 | 00:27:08.110-00:27:14.490 | DM] Like more stronger, more tuned in, whatever you feel like it could be possible to move it.
 [u0374 | 00:27:15.140-00:27:18.049 | DM] Without being in the seats, but right now you can't.
 [u0375 | 00:27:19.100-00:27:20.000 | Zeno] Hmm.
 [u0376 | 00:27:20.860-00:27:24.480 | DM] But it feels like… it feels like it's possible, which is, like, an interesting feeling.
 [u0377 | 00:27:27.130-00:27:27.730 | Heska] Well…
-[u0378 | 00:27:27.730-00:27:28.410 | Sculpit] 6…
+[u0378 | 00:27:27.730-00:27:28.410 | Sculpit] Sick…
 [u0379 | 00:27:29.380-00:27:31.480 | Heska] I mean, does it really matter if we can see?
 [u0380 | 00:27:31.480-00:27:32.080 | Zeno] No.
 [u0381 | 00:27:32.080-00:27:35.570 | Sculpit] But yes, turns out vision's important.
@@ -397,14 +397,14 @@
 [u0397 | 00:28:15.770-00:28:21.630 | Sculpit] Hold on. Pebbles made of the statue would probably also be… But let's not go there.
 [u0398 | 00:28:22.890-00:28:25.300 | Little Tony] There's no way to lose, is what I hear you say, though.
 [u0399 | 00:28:27.810-00:28:32.170 | Sculpit] I'm glad you took such encouragement from my words, despite how they were meant.
-[u0400 | 00:28:34.600-00:28:35.289 | DM] Alright, so what do you got, T.
+[u0400 | 00:28:34.600-00:28:35.289 | DM] Alright, so what do you got, team.
 [u0401 | 00:28:35.290-00:28:36.980 | Sculpit] Yeah, I don't know what I meant either.
 [u0402 | 00:28:36.980-00:28:38.429 | DM] What are you doing? What are you guys doing?
 [u0403 | 00:28:38.430-00:28:45.339 | Sculpit] Okay, are the seats… in the picture, the four seats we were sitting in were glowing and the other ones weren't?
 [u0404 | 00:28:46.680-00:28:47.010 | Sculpit] that.
 [u0405 | 00:28:47.010-00:28:49.119 | DM] Like, energized, yeah. Like, they were like…
 [u0406 | 00:28:49.120-00:28:51.220 | Sculpit] stopped being energized when we flew out of them.
-[u0407 | 00:28:52.240-00:28:56.099 | DM] They're still like shimmering, they're still like, you know, they're still a buzz.
+[u0407 | 00:28:52.240-00:28:56.099 | DM] They're still like shimmering, they're still like, you know, they're still abuzz.
 [u0408 | 00:28:56.600-00:28:58.690 | Sculpit] Is there any, like, part of the, like.
 [u0409 | 00:28:58.840-00:29:02.349 | Sculpit] Device that comes off without it feeling like it's breaking it.
 [u0410 | 00:29:03.040-00:29:06.140 | Sculpit] Like, a cushion from a seat, or like, a piece of a…
@@ -468,7 +468,7 @@
 [u0468 | 00:32:03.450-00:32:11.790 | DM] And what's crazy is your eyelids feel so heavy and crusty, again, sort of like you've been sleeping for fucking days, or maybe centuries.
 [u0469 | 00:32:11.890-00:32:19.059 | DM] And there's this kind of creaking feeling of, like, the fucking gnarliest, like, eye boogers you can possibly imagine.
 [u0470 | 00:32:19.060-00:32:19.630 | Zeno] the.
-[u0471 | 00:32:19.630-00:32:20.749 | DM] Thanks for opening.
+[u0471 | 00:32:19.630-00:32:20.749 | DM] Things are opening.
 [u0472 | 00:32:21.150-00:32:24.299 | DM] And what you see in front of you.
 [u0473 | 00:32:24.900-00:32:27.880 | DM] Is a giant stone outstretched palm.
 [u0474 | 00:32:28.230-00:32:33.679 | DM] and you see… In the distance… A storm.
@@ -507,11 +507,11 @@
 [u0507 | 00:34:34.489-00:34:39.890 | Sculpit] getting together, I'll be like, yeah, you're right, let's try this all together. I got enthusiastic.
 [u0508 | 00:34:40.170-00:34:45.190 | DM] Okay, so now all of you are doing what? You're all looking down at the right foot and trying to move it?
 [u0509 | 00:34:45.190-00:34:46.070 | Zeno] Yeah.
-[u0510 | 00:34:46.360-00:34:51.460 | DM] Every roll d20? Just now, just, just, let's go fast. Just tell me, just tell me your rolls as quickly as you can. 32.
+[u0510 | 00:34:46.360-00:34:51.460 | DM] Everybody roll d20? Just now, just, just, let's go fast. Just tell me, just tell me your rolls as quickly as you can. 32.
 [u0511 | 00:34:51.460-00:34:52.210 | Zeno] 19.
 [u0512 | 00:34:52.219-00:34:53.049 | Little Tony] 19.
 [u0513 | 00:34:54.870-00:34:55.630 | DM] Sculpit?
-[u0514 | 00:34:55.630-00:34:56.449 | Sculpit] 50th.
+[u0514 | 00:34:55.630-00:34:56.449 | Sculpit] Fifteen.
 [u0515 | 00:35:00.330-00:35:12.370 | DM] You feel, again, the creaking of your neck, and it is looking down at the right foot, and then you feel, like, the creaking of the foot, and it is moving.
 [u0516 | 00:35:14.330-00:35:14.850 | Zeno] And.
 [u0517 | 00:35:15.120-00:35:16.090 | Heska] going?
@@ -531,7 +531,7 @@
 [u0531 | 00:35:50.920-00:35:54.570 | Sculpit] Yeah, but like we have to turn our head to look the direction.
 [u0532 | 00:35:54.570-00:35:56.609 | DM] You have not… you just looked down. You just looked down and moved your foot.
 [u0533 | 00:35:56.610-00:35:57.749 | Sculpit] Correct, yeah, yeah, yeah.
-[u0534 | 00:35:57.750-00:35:58.550 | DM] That's Ivy.
+[u0534 | 00:35:57.750-00:35:58.550 | DM] That's all you've…
 [u0535 | 00:36:01.240-00:36:01.960 | Sculpit] at…
 [u0536 | 00:36:02.570-00:36:04.010 | Zeno] Is there anything we could stomp on?
 [u0537 | 00:36:05.750-00:36:06.310 | Little Tony] Mmm.
@@ -620,7 +620,7 @@
 [u0620 | 00:40:08.140-00:40:09.320 | Zeno] Love it. Love it.
 [u0621 | 00:40:09.320-00:40:11.830 | Little Tony] Picture this shoulder massage circle.
 [u0622 | 00:40:11.930-00:40:13.210 | Heska] Let's get walking!
-[u0623 | 00:40:13.210-00:40:14.439 | Zeno] Wing missile.
+[u0623 | 00:40:13.210-00:40:14.439 | Zeno] Wing massage.
 [u0624 | 00:40:16.560-00:40:19.320 | Sculpit] Alright, let's try this again. We got this.
 [u0625 | 00:40:20.190-00:40:20.690 | Little Tony] Right?
 [u0626 | 00:40:20.690-00:40:24.009 | Zeno] Is there a way to set the advantage directly on the roll?
@@ -674,7 +674,7 @@
 [u0674 | 00:42:04.720-00:42:05.210 | DM] Excellent.
 [u0675 | 00:42:05.600-00:42:06.440 | Heska] Mine's 30.
 [u0676 | 00:42:06.440-00:42:11.120 | Zeno] you So mine are still not showing up, right? Alright, let me try this again…
-[u0677 | 00:42:11.690-00:42:17.160 | Zeno] Roll send to everyone, roll the advantage… 18…
+[u0677 | 00:42:11.690-00:42:17.160 | Zeno] Roll send to everyone, roll with advantage… 18…
 [u0678 | 00:42:20.150-00:42:22.150 | Sculpit] Yeah, that's weird, yours are not showing up.
 [u0679 | 00:42:24.180-00:42:25.750 | Zeno] I'll reload, maybe?
 [u0680 | 00:42:30.360-00:42:33.259 | Zeno] No VTT found that matches your settings.
@@ -719,7 +719,7 @@
 [u0719 | 00:45:09.820-00:45:10.950 | Little Tony] Get out there.
 [u0720 | 00:45:10.950-00:45:12.629 | Zeno] Other foot, go.
 [u0721 | 00:45:14.300-00:45:19.079 | DM] So just, you don't have to do like foot by foot. Like, what are you guys trying to do? Like this next little, little, little step.
-[u0722 | 00:45:19.320-00:45:20.340 | Heska] We're trying to watch…
+[u0722 | 00:45:19.320-00:45:20.340 | Heska] We're trying to walk…
 [u0723 | 00:45:20.340-00:45:22.200 | DM] Oh, don't roll yet. Don't roll yet.
 [u0724 | 00:45:22.410-00:45:23.180 | Heska] Oh, okay.
 [u0725 | 00:45:23.180-00:45:27.499 | Little Tony] Let's walk to like straight out till we're like waist deep, let's say.
@@ -736,7 +736,7 @@
 [u0736 | 00:45:47.250-00:45:48.860 | DM] Oh, nice. Oh, wow.
 [u0737 | 00:45:48.860-00:45:51.660 | Zeno] What just happened? Oh, I see, that was that.
 [u0738 | 00:45:53.260-00:45:53.990 | Zeno] Ash.
-[u0739 | 00:45:57.120-00:45:57.739 | DM] Eric, would you roll?
+[u0739 | 00:45:57.120-00:45:57.739 | DM] Eric, what did you roll?
 [u0740 | 00:45:57.740-00:46:01.329 | Zeno] And now… I'm so confused.
 [u0741 | 00:46:01.740-00:46:04.029 | Zeno] So I turn off that extension.
 [u0742 | 00:46:06.020-00:46:09.699 | Zeno] I'm just gonna reload… oh, I had to reload the page again, probably.
@@ -841,7 +841,7 @@
 [u0841 | 00:51:50.310-00:51:51.859 | Zeno] I really want my advantage.
 [u0842 | 00:51:51.860-00:51:52.270 | Little Tony] 20.
 [u0843 | 00:51:52.270-00:51:52.680 | Zeno] work.
-[u0844 | 00:51:52.680-00:51:54.500 | Little Tony] For…
+[u0844 | 00:51:52.680-00:51:54.500 | Little Tony] Four.
 [u0845 | 00:51:54.500-00:51:55.540 | DM] Heska, you're 29?
 [u0846 | 00:51:56.650-00:51:57.100 | Heska] Yeah.
 [u0847 | 00:51:57.100-00:51:58.200 | Sculpit] 20.
@@ -856,7 +856,7 @@
 [u0856 | 00:52:31.300-00:52:34.209 | Zeno] Oh, That'll work next time, okay.
 [u0857 | 00:52:34.210-00:52:35.729 | Heska] That's what I was just testing.
 [u0858 | 00:52:37.940-00:52:40.559 | Heska] Now everybody's dice are spawning.
-[u0859 | 00:52:40.980-00:52:43.559 | Heska] Okay, let Concal's laugh. Yeah, yeah.
+[u0859 | 00:52:40.980-00:52:43.559 | Heska] Okay, let Kong talk. Yeah, yeah.
 [u0860 | 00:52:43.560-00:52:44.140 | Sculpit] Yeah.
 [u0861 | 00:52:44.140-00:52:47.040 | DM] Okay. Wait, so, but everybody rolled over 20 on that last one.
 [u0862 | 00:52:47.040-00:52:48.140 | Heska] Yeah, Yeah.
@@ -873,7 +873,7 @@
 [u0873 | 00:54:28.560-00:54:32.219 | DM] Approximating some level of, like, what you feel like you can do.
 [u0874 | 00:54:32.730-00:54:35.370 | DM] You process that however you want to process that.
 [u0875 | 00:54:36.280-00:54:42.490 | DM] Sculpit, for you. There's like kind of a a multi-dimensional of like
-[u0876 | 00:54:42.540-00:55:03.190 | DM] like, this feeling of, like, power around what it is that is actually happening with the system. It's almost like if, like, you are rolling well, it's like the system is achieving its potential, like, in whatever it is. It's like, if you're really, really well, it's like, oh, fuck, like, I want to throw the boulder, you're gonna be able to throw that as far as you can, and just whatever is within your.
+[u0876 | 00:54:42.540-00:55:03.190 | DM] like, this feeling of, like, power around what it is that is actually happening with the system. It's almost like if, like, you are rolling well, it's like the system is achieving its potential, like, in whatever it is. It's like, if you roll really, really well, it's like, oh, fuck, like, I want to throw the boulder, you're gonna be able to throw that as far as you can, and just whatever is within your.
 [u0877 | 00:55:03.190-00:55:11.009 | DM] possibility, you can achieve it. And you're like, you're there kind of almost expanding what is possible and helping the whole system like achieve what is possible.
 [u0878 | 00:55:11.860-00:55:13.209 | DM] And then Zeno…
 [u0879 | 00:55:13.400-00:55:23.360 | DM] for you, this is also performance. This is this incredible orchestration, not only of all of you together, like, orchestrating these different kind of parts of the thing.
@@ -901,7 +901,7 @@
 [u0901 | 00:57:17.280-00:57:18.310 | Little Tony] Yeah.
 [u0902 | 00:57:18.440-00:57:18.980 | DM] Okay.
 [u0903 | 00:57:19.190-00:57:20.720 | Zeno] How far is it? I mean…
-[u0904 | 00:57:20.720-00:57:22.650 | Little Tony] What a absurd question.
+[u0904 | 00:57:20.720-00:57:22.650 | Little Tony] What an absurd question.
 [u0905 | 00:57:22.650-00:57:33.730 | DM] So the Lady and the Wanderer are actually adjacent statues on the wheel around the island. So, okay, yeah, you can… well, roll some dice, see how well you get over there.
 [u0906 | 00:57:38.090-00:57:39.240 | Heska] 23.
 [u0907 | 00:57:40.270-00:57:41.770 | Little Tony] 15.
@@ -947,7 +947,7 @@
 [u0947 | 01:00:46.480-01:00:49.040 | Heska] So I just think hello.
 [u0948 | 01:00:49.040-01:00:53.709 | Little Tony] Oh, let's think. Puny mortals, you have trespassed in our domain.
 [u0949 | 01:00:54.210-01:00:56.459 | Little Tony] Explain your business or die!
-[u0950 | 01:00:56.460-01:00:57.280 | Sculpit] No, let's stay.
+[u0950 | 01:00:56.460-01:00:57.280 | Sculpit] No, let's say.
 [u0951 | 01:00:57.280-01:00:57.840 | Zeno] and.
 [u0952 | 01:00:57.840-01:00:58.360 | DM] you.
 [u0953 | 01:00:59.160-01:01:03.509 | Sculpit] It's us in here controlling this. Who are you?
@@ -964,7 +964,7 @@
 [u0964 | 01:01:31.410-01:01:32.170 | Sculpit] Oh.
 [u0965 | 01:01:33.290-01:01:36.279 | Sculpit] It was a 20, and then it rolled over to a 2.
 [u0966 | 01:01:36.280-01:01:37.450 | Little Tony] 24.
-[u0967 | 01:01:37.960-01:01:38.430 | Zeno] too.
+[u0967 | 01:01:37.960-01:01:38.430 | Zeno] Two.
 [u0968 | 01:01:38.430-01:01:39.110 | Heska] Got you.
 [u0969 | 01:01:39.330-01:01:42.370 | Sculpit] Sculpit's heart really isn't in this.
 [u0970 | 01:01:42.380-01:01:42.930 | Heska] you.
@@ -1020,7 +1020,7 @@
 [u1020 | 01:04:11.700-01:04:13.460 | Heska] Okay…
 [u1021 | 01:04:17.460-01:04:18.650 | Heska] Let's go.
 [u1022 | 01:04:19.060-01:04:20.630 | Zeno] You mean, like, park this thing?
-[u1023 | 01:04:22.260-01:04:26.939 | Little Tony] Yeah, let's stand it up back. We should stand it up back in its regular, like, in its handout.
+[u1023 | 01:04:22.260-01:04:26.939 | Little Tony] Yeah, let's stand it up back. We should stand it up back in its regular, like, with its hand out.
 [u1024 | 01:04:26.940-01:04:28.120 | Heska] Yeah, probably.
 [u1025 | 01:04:28.120-01:04:29.839 | Little Tony] for it to be like crouching, right?
 [u1026 | 01:04:29.840-01:04:30.920 | DM] Yeah.
@@ -1052,7 +1052,7 @@
 [u1052 | 01:05:45.530-01:05:48.469 | DM] A bunch of people, dragonets start trying to fly into the eye.
 [u1053 | 01:05:48.540-01:05:50.359 | DM] as you're exiting.
 [u1054 | 01:05:51.100-01:05:56.940 | Little Tony] Oh guys, that's, that's, that's not gonna work. The stuff in there is gonna, it's gonna kill you. It's gonna, it's gonna zap them.
-[u1055 | 01:05:56.940-01:05:59.199 | DM] Are you trying to stop anybody, or… Because they're actively dragging.
+[u1055 | 01:05:56.940-01:05:59.199 | DM] Are you trying to stop anybody, or… Because they're actively trying.
 [u1056 | 01:05:59.200-01:06:02.389 | Sculpit] I will, like, shout, like, there's danger below!
 [u1057 | 01:06:03.870-01:06:08.389 | DM] That doesn't matter, they're, they're, they're, they're trying to fly past you. Is it, are you trying to stop anybody or what's the.
 [u1058 | 01:06:09.290-01:06:09.880 | Little Tony] I mean, I'll…
@@ -1072,7 +1072,7 @@
 [u1072 | 01:07:10.620-01:07:12.249 | Heska] I mean, the shaman wants to talk to us.
 [u1073 | 01:07:12.250-01:07:13.719 | Sculpit] Yeah, let's,
 [u1074 | 01:07:15.040-01:07:16.280 | Little Tony] Yeah.
-[u1075 | 01:07:16.280-01:07:16.800 | Sculpit] school.
+[u1075 | 01:07:16.280-01:07:16.800 | Sculpit] Go.
 [u1076 | 01:07:16.800-01:07:38.840 | DM] approach the this this crash site and these you know and then there's basically as far as you can tell it feels like some kind of game of call and response is happening or it's like they're like a bunch of dragonets or like and then the two humanoids you don't sense at all that they're threatening in any way they're just kind of like they're they're engaging they're trying to like kind of understand each other and the shaman basically comes over and is like.
 [u1077 | 01:07:39.590-01:07:42.170 | DM] Okay, so,
 [u1078 | 01:07:42.460-01:07:51.749 | DM] The day gets, you know, the past couple days, as crazy as this has been, it's getting weirder, that thing fell out of the sky, and then, these 2,
@@ -1101,7 +1101,7 @@
 [u1101 | 01:09:31.159-01:09:32.129 | DM] You?
 [u1102 | 01:09:33.750-01:09:37.240 | DM] And then one of them points at themselves and says.
 [u1103 | 01:09:38.770-01:09:45.180 | Little Tony] Shy. Guys, this one's shy. We should talk to the other one to keep this one feeling comfortable.
-[u1104 | 01:09:47.260-01:09:50.080 | DM] And then the, the, the one that's like shy is like.
+[u1104 | 01:09:47.260-01:09:50.080 | DM] And then the, the, the one that's like Shai is like.
 [u1105 | 01:09:50.189-01:09:51.100 | DM] Aksha.
 [u1106 | 01:09:53.020-01:09:54.010 | Little Tony] Aksha.
 [u1107 | 01:09:54.450-01:09:58.779 | Little Tony] Aksha. Okay, Aksha, Shai, we're getting somewhere.
@@ -1199,7 +1199,7 @@
 [u1199 | 01:15:54.780-01:16:01.160 | DM] So, you successfully do it, but she also, like, and, like, grabs your claw, and it's just, like, just grabs it.
 [u1200 | 01:16:02.540-01:16:06.959 | Heska] No, I don't get closer to more than, like, 5… I'm not getting within 5 feet of her.
 [u1201 | 01:16:06.960-01:16:07.430 | DM] Oh.
-[u1202 | 01:16:07.430-01:16:13.480 | Heska] I'm like moving forward like I'm gonna pinch her, but it's too scared to actually…
+[u1202 | 01:16:07.430-01:16:13.480 | Heska] I'm like moving forward like I'm gonna pinch her, but he's too scared to actually…
 [u1203 | 01:16:13.480-01:16:24.060 | DM] Oh, I see, I see, I see. Okay, okay. Yeah, no, she just, she just, she just watches. And then, and then, you know, again, they kind of collect themselves again. And then they both like…
 [u1204 | 01:16:24.460-01:16:26.210 | DM] Get down on their knees.
 [u1205 | 01:16:26.430-01:16:31.129 | DM] And then they bow. They just, like… Like that. Like, reverently.
@@ -1244,7 +1244,7 @@
 [u1244 | 01:18:30.150-01:18:30.960 | Heska] Oh, yeah.
 [u1245 | 01:18:30.960-01:18:31.940 | Zeno] food machine.
 [u1246 | 01:18:31.940-01:18:33.150 | Heska] In the hand?
-[u1247 | 01:18:33.150-01:18:34.809 | Zeno] You just think of a foodie.
+[u1247 | 01:18:33.150-01:18:34.809 | Zeno] You just think of a food…
 [u1248 | 01:18:34.810-01:18:35.680 | Heska] screen.
 [u1249 | 01:18:35.950-01:18:38.759 | Heska] We can make a moving restaurant.
 [u1250 | 01:18:38.960-01:18:39.570 | Little Tony] Awesome.
@@ -1275,10 +1275,10 @@
 [u1275 | 01:20:08.940-01:20:09.450 | DM] incredulous.
 [u1276 | 01:20:09.450-01:20:10.120 | Sculpit] Bye.
 [u1277 | 01:20:10.120-01:20:10.760 | DM] Bye.
-[u1278 | 01:20:11.240-01:20:14.290 | DM] Howie, were you here when the clutch hatched?
+[u1278 | 01:20:11.240-01:20:14.290 | DM] How… were you here when the clutch hatched?
 [u1279 | 01:20:14.330-01:20:16.150 | Sculpit] Why would you say such silly things?
 [u1280 | 01:20:17.680-01:20:20.069 | Sculpit] Are you okay? Are you, like, addled a little bit?
-[u1281 | 01:20:20.290-01:20:20.860 | Little Tony] Beseth.
+[u1281 | 01:20:20.290-01:20:20.860 | Little Tony] Is this a
 [u1282 | 01:20:20.860-01:20:21.350 | DM] the.
 [u1283 | 01:20:21.350-01:20:24.000 | Little Tony] Race? Like everyone hatches when it's time to hatch, man!
 [u1284 | 01:20:25.370-01:20:30.240 | DM] What happened… Like, 2 days ago. Did anything happen here on this island?
@@ -1343,7 +1343,7 @@
 [u1343 | 01:23:00.910-01:23:01.590 | DM] Very hungry.
 [u1344 | 01:23:01.590-01:23:05.819 | Sculpit] It could be, like, a tourist trap restaurant that, like… like…
 [u1345 | 01:23:06.010-01:23:08.500 | Sculpit] Okay, maybe if more of these people come from…
-[u1346 | 01:23:08.500-01:23:11.359 | Little Tony] Press in recorded history. That's true.
+[u1346 | 01:23:08.500-01:23:11.359 | Little Tony] First in recorded history. That's true.
 [u1347 | 01:23:11.360-01:23:14.169 | Heska] This trap restaurant is not gonna work.
 [u1348 | 01:23:14.170-01:23:16.010 | Zeno] - no, no, no.
 [u1349 | 01:23:16.010-01:23:18.660 | Sculpit] Guys, guys, guys, I'm trying to be serious, okay, shh.
@@ -1390,7 +1390,7 @@
 [u1390 | 01:24:36.820-01:24:37.590 | Zeno] Oh.
 [u1391 | 01:24:37.590-01:24:39.450 | Little Tony] Sad, like your vibes, yeah.
 [u1392 | 01:24:39.450-01:24:43.089 | Sculpit] Like a red sky everywhere and like some hand like.
-[u1393 | 01:24:43.090-01:24:44.369 | DM] Die everywhere.
+[u1393 | 01:24:43.090-01:24:44.369 | DM] Sky everywhere.
 [u1394 | 01:24:44.370-01:24:50.280 | Sculpit] Wasn't it, like, somebody's, like, broken hand, or dead hand, or cut-off hand, or something like that?
 [u1395 | 01:24:50.710-01:24:52.499 | Heska] Oh, weird green.
 [u1396 | 01:24:52.500-01:24:56.680 | Sculpit] It was like a jade hand, like a hand of gemstones.
@@ -1439,7 +1439,7 @@
 [u1439 | 01:27:07.910-01:27:10.410 | Little Tony] What's… what's it like where you're from?
 [u1440 | 01:27:12.020-01:27:13.290 | DM] It's not like this.
 [u1441 | 01:27:16.820-01:27:17.490 | Heska] mean.
-[u1442 | 01:27:17.490-01:27:19.720 | DM] Imagine is the opposite of this.
+[u1442 | 01:27:17.490-01:27:19.720 | DM] Imagine the opposite of this.
 [u1443 | 01:27:19.870-01:27:25.399 | Heska] You could… You could probably stay, right? We can let them stay.
 [u1444 | 01:27:25.400-01:27:26.210 | Little Tony] Yeah!
 [u1445 | 01:27:26.400-01:27:27.270 | Little Tony] Yeah!
@@ -1566,7 +1566,7 @@
 [u1566 | 01:34:22.860-01:34:23.600 | DM] you.
 [u1567 | 01:34:25.820-01:34:36.400 | DM] All of you need to hide. You need to get all of your people and hide now. There's no more time. You must hide now.
 [u1568 | 01:34:37.180-01:34:38.180 | DM] They're coming.
-[u1569 | 01:34:39.230-01:34:40.630 | Sculpit] What's going?
+[u1569 | 01:34:39.230-01:34:40.630 | Sculpit] What's coming?
 [u1570 | 01:34:41.140-01:34:45.110 | Heska] What's coming, and what have you done to our nice island?
 [u1571 | 01:34:45.110-01:34:46.729 | DM] We have done nothing.
 [u1572 | 01:34:47.320-01:34:52.260 | DM] Your presence, you've awakened. They're coming now.
@@ -1639,7 +1639,7 @@
 [u1639 | 01:39:18.150-01:39:19.030 | DM] Good.
 [u1640 | 01:39:20.000-01:39:21.530 | DM] Can you make that statue move again?
 [u1641 | 01:39:23.830-01:39:24.270 | Little Tony] Sure.
-[u1642 | 01:39:24.270-01:39:24.780 | Sculpit] white.
+[u1642 | 01:39:24.270-01:39:24.780 | Sculpit] Right.
 [u1643 | 01:39:27.970-01:39:29.409 | DM] It's coming through the storm.
 [u1644 | 01:39:29.600-01:39:31.499 | DM] We can see it, it's coming through the storm.
 [u1645 | 01:39:34.500-01:39:36.679 | Zeno] Would we go out to meet it with the statue?
@@ -1680,7 +1680,7 @@
 [u1680 | 01:42:21.340-01:42:22.200 | DM] also
 [u1681 | 01:42:29.640-01:42:33.010 | DM] Has flying out of it, a small group of smaller ships.
 [u1682 | 01:42:33.580-01:42:36.419 | DM] That are launching out of its… its bay.
-[u1683 | 01:42:38.820-01:42:41.670 | DM] And… bald now.
+[u1683 | 01:42:38.820-01:42:41.670 | DM] And… you all now.
 [u1684 | 01:42:48.090-01:42:49.340 | DM] Are on this battle map.
 [u1685 | 01:43:00.300-01:43:01.250 | DM] So…
 [u1686 | 01:43:07.600-01:43:09.700 | DM] How this is gonna work?
@@ -1695,7 +1695,7 @@
 [u1695 | 01:43:41.790-01:43:45.619 | DM] But then also you get to act as the Wanderer.
 [u1696 | 01:43:48.620-01:43:52.300 | DM] Now, you all know how to make the Wanderer move.
 [u1697 | 01:43:52.300-01:43:57.579 | DM] And do some basic you also discovered some things about the Wanderer.
-[u1698 | 01:43:57.610-01:43:59.339 | DM] You remember Discovery Unlock.
+[u1698 | 01:43:57.610-01:43:59.339 | DM] You remember Discovery Unlocked.
 [u1699 | 01:43:59.370-01:44:01.570 | DM] You discovered that you could see out of the Wanderer.
 [u1700 | 01:44:01.830-01:44:06.150 | DM] So there may be other things about the Wanderer you can discover as well if you try to do them.
 [u1701 | 01:44:06.150-01:44:06.590 | Zeno] point.
@@ -1710,7 +1710,7 @@
 [u1710 | 01:44:52.290-01:44:57.629 | DM] There's 4 of them, they're like the size of, they're like the size of, of Aksha and Shai's vessel.
 [u1711 | 01:45:00.360-01:45:06.380 | DM] you So, let's fucking do this shit. You ready to roll initiative?
 [u1712 | 01:45:07.530-01:45:11.740 | DM] Yeah, we already did. Okay, sorry, I missed it.
-[u1713 | 01:45:13.560-01:45:15.550 | DM] I got a role in this dude.
+[u1713 | 01:45:13.560-01:45:15.550 | DM] I gotta roll this dude.
 [u1714 | 01:45:18.670-01:45:23.840 | DM] one second Oh, wait, how do I roll? Where? Oh, there's no list.
 [u1715 | 01:45:26.610-01:45:27.390 | DM] you.
 [u1716 | 01:45:35.190-01:45:38.119 | DM] Just say them out loud for me. Sculpit, what's yours?
@@ -1733,7 +1733,7 @@
 [u1733 | 01:47:17.220-01:47:20.270 | Sculpit] Small enough, are they huge or smaller?
 [u1734 | 01:47:22.080-01:47:22.860 | DM] Yeah, they're smaller than Huge.
 [u1735 | 01:47:23.900-01:47:26.940 | DM] Right, okay. So I'm gonna summon, like, this huge…
-[u1736 | 01:47:26.940-01:47:27.490 | Sculpit] hands.
+[u1736 | 01:47:26.940-01:47:27.490 | Sculpit] Hand.
 [u1737 | 01:47:28.250-01:47:28.860 | DM] Okay?
 [u1738 | 01:47:29.740-01:47:31.439 | Sculpit] And it's gonna grab one of the ships.
 [u1739 | 01:47:31.440-01:47:31.810 | DM] us.
@@ -1825,8 +1825,8 @@
 [u1825 | 01:52:19.490-01:52:20.709 | DM] Wait, I have a question.
 [u1826 | 01:52:20.710-01:52:23.870 | Zeno] The little statues that attacked us inside the statue.
 [u1827 | 01:52:24.070-01:52:26.609 | DM] Yeah. Were they doing eye lasers?
-[u1828 | 01:52:26.610-01:52:27.700 | DM] We're using eye lasers.
-[u1829 | 01:52:27.700-01:52:29.750 | Sculpit] We gotta, we gotta get the eyes laser.
+[u1828 | 01:52:26.610-01:52:27.700 | DM] Were using eye lasers.
+[u1829 | 01:52:27.700-01:52:29.750 | Sculpit] We gotta, we gotta get the eye lasers.
 [u1830 | 01:52:29.750-01:52:30.880 | DM] Like, big.
 [u1831 | 01:52:30.880-01:52:33.979 | Zeno] lasers I'm so glad.
 [u1832 | 01:52:33.980-01:52:36.290 | Heska] Try and activate the eye laser.
@@ -1889,9 +1889,9 @@
 [u1889 | 01:56:29.080-01:56:34.490 | Little Tony] Rather than Dispel Magic, this is reskinned as a spell called Fuck Me, No Fuck You!
 [u1890 | 01:56:34.490-01:56:37.550 | Zeno] Okay.
 [u1891 | 01:56:37.550-01:56:40.920 | Little Tony] He's going to use that.
-[u1892 | 01:56:40.920-01:56:43.809 | DM] Good Friday.
+[u1892 | 01:56:40.920-01:56:43.809 | DM] Go for it.
 [u1893 | 01:56:44.150-01:56:44.760 | Zeno] 10.
-[u1894 | 01:56:44.760-01:56:48.310 | Little Tony] Well, the magic powering the laser beam to just right off.
+[u1894 | 01:56:44.760-01:56:48.310 | Little Tony] Tell the magic powering the laser beam to just fuck right off.
 [u1895 | 01:56:49.860-01:56:50.670 | DM] Okay.
 [u1896 | 01:56:50.670-01:56:50.990 | Zeno] No.
 [u1897 | 01:56:50.990-01:56:52.660 | DM] And what am I… do I roll a save, or what am I doing?
@@ -1934,9 +1934,9 @@
 [u1934 | 01:58:44.140-01:58:44.949 | DM] Gonna rock it.
 [u1935 | 01:58:47.080-01:58:47.700 | DM] Tony.
 [u1936 | 01:58:48.170-01:58:50.060 | Little Tony] I love it, at the top of the lungs.
-[u1937 | 01:58:50.100-01:58:53.970 | DM] Lil Tony yells, Fuck me, no, fuck YOU!
+[u1937 | 01:58:50.100-01:58:53.970 | DM] Little Tony yells, Fuck me, no, fuck YOU!
 [u1938 | 01:58:53.970-01:58:55.450 | Little Tony] And rolls a mighty…
-[u1939 | 01:58:56.240-01:58:56.820 | DM] too.
+[u1939 | 01:58:56.240-01:58:56.820 | DM] Two.
 [u1940 | 01:58:56.820-01:58:57.570 | Little Tony] 2.
 [u1941 | 01:58:57.570-01:59:00.920 | Heska] That doesn't matter because the highest level spells are nine, so you have to beat it.
 [u1942 | 01:59:03.220-01:59:03.690 | Little Tony] Yes.
@@ -1959,9 +1959,9 @@
 [u1959 | 02:00:24.710-02:00:26.270 | Sculpit] No flying in our…
 [u1960 | 02:00:26.810-02:00:28.280 | DM] place here.
 [u1961 | 02:00:28.280-02:00:29.790 | Sculpit] These guys should not be flying.
-[u1962 | 02:00:30.180-02:00:31.560 | Little Tony] Flying with wings.
+[u1962 | 02:00:30.180-02:00:31.560 | Little Tony] Flying without wings.
 [u1963 | 02:00:31.780-02:00:35.330 | Sculpit] Why do they leave? Totally sacrilegious.
-[u1964 | 02:00:35.330-02:00:35.770 | Zeno] plastic.
+[u1964 | 02:00:35.330-02:00:35.770 | Zeno] Blasphemy.
 [u1965 | 02:00:35.770-02:00:37.769 | DM] Nature and Nature's God. Okay.
 [u1966 | 02:00:37.770-02:00:38.560 | Sculpit] It really is.
 [u1967 | 02:00:38.870-02:00:41.310 | DM] So everybody except Heska roll a d20.
@@ -1974,7 +1974,7 @@
 [u1974 | 02:01:03.010-02:01:03.550 | DM] 20?
 [u1975 | 02:01:04.300-02:01:04.880 | Zeno] 19.
 [u1976 | 02:01:06.090-02:01:07.160 | Little Tony] 17.
-[u1977 | 02:01:07.510-02:01:08.500 | DM] 1720?
+[u1977 | 02:01:07.510-02:01:08.500 | DM] 17, 20?
 [u1978 | 02:01:09.000-02:01:10.090 | DM] 19.
 [u1979 | 02:01:10.710-02:01:11.310 | DM] Okay.
 [u1980 | 02:01:11.930-02:01:12.690 | DM] Okay.
@@ -2015,7 +2015,7 @@
 [u2015 | 02:02:56.040-02:03:03.779 | DM] This, like, throbbing behind your head, like, everybody feels it a little bit, but you really feel it, and you're using.
 [u2016 | 02:03:03.780-02:03:11.570 | DM] Your incredibly now sharp vision as you're staring at this thing and you're like locking in, locking in, locking in.
 [u2017 | 02:03:11.800-02:03:12.700 | DM] And.
-[u2018 | 02:03:13.050-02:03:23.310 | DM] There's no place else to say it, you feel giant fucking laser beams shoot out of your eyeballs, and the giant fucking laser beams shoot out of your eyeballs, and they smash into
+[u2018 | 02:03:13.050-02:03:23.310 | DM] There's no other way to say it, you feel giant fucking laser beams shoot out of your eyeballs, and the giant fucking laser beams shoot out of your eyeballs, and they smash into
 [u2019 | 02:03:23.430-02:03:27.690 | DM] What looks like a shield that is around the ship, so you actually don't hit the ship.
 [u2020 | 02:03:27.910-02:03:34.640 | DM] But you are able to make a devastating attack,
 [u2021 | 02:03:34.640-02:03:36.960 | DM] You do 25d12 damage.
@@ -2067,7 +2067,7 @@
 [u2067 | 02:05:29.470-02:05:30.929 | DM] You can try.
 [u2068 | 02:05:30.930-02:05:31.480 | DM] You can totally try.
 [u2069 | 02:05:31.480-02:05:33.170 | Heska] Oh, wait, I have an idea.
-[u2070 | 02:05:33.780-02:05:35.180 | DM] You get 100% try.
+[u2070 | 02:05:33.780-02:05:35.180 | DM] You can 100% try.
 [u2071 | 02:05:35.490-02:05:38.880 | DM] Think about all your spells, guys. You have some pretty fucking interesting spells that…
 [u2072 | 02:05:39.140-02:05:39.540 | Heska] Okay.
 [u2073 | 02:05:39.540-02:05:39.970 | DM] this concept.
@@ -2076,7 +2076,7 @@
 [u2076 | 02:05:50.010-02:05:53.660 | Sculpit] And it creates 3 images, and then any attack, you roll…
 [u2077 | 02:05:53.960-02:05:59.759 | Sculpit] a D6, and if you get 3 or higher, you hit a duplicate. If you hit a duplicate, it gets destroyed.
 [u2078 | 02:05:59.760-02:06:01.269 | DM] Oh, so it's a defensive thing, so…
-[u2079 | 02:06:01.270-02:06:01.860 | Sculpit] air.
+[u2079 | 02:06:01.270-02:06:01.860 | Sculpit] Yeah.
 [u2080 | 02:06:01.860-02:06:06.790 | DM] Oh, yeah, yeah, yeah, totally. Okay, but make a.
 [u2081 | 02:06:07.000-02:06:11.819 | DM] Make an Arcana check to try to succeed to make this happen with the…
 [u2082 | 02:06:12.070-02:06:13.270 | Sculpit] 29.
@@ -2237,10 +2237,10 @@
 [u2237 | 02:17:06.440-02:17:09.369 | Little Tony] And that is a 23.
 [u2238 | 02:17:11.790-02:17:17.550 | DM] Okay, so what are you saying to the ship? How are you, what's the conversation right now? What are you trying to say to the ship?
 [u2239 | 02:17:17.559-02:17:32.399 | Little Tony] So, like, my initial attempt was to be just really friendly with it, and be like, hey, buddy, like, it's so good to meet you, I know we haven't met yet, but when Glenda's like, no, no, no, no, like, this is a very mean ship, it only responds to, like, forcefulness, and so my second attempt was like.
-[u2240 | 02:17:32.399-02:17:37.729 | DM] You fucking ship, where are the people on y'all? Fuck you up if you don't tell me where the people are on you.
+[u2240 | 02:17:32.399-02:17:37.729 | DM] You fucking ship, where are the people on you? I'll fuck you up if you don't tell me where the people are on you.
 [u2241 | 02:17:40.139-02:17:49.429 | DM] So the ship, so funny that you're talking to the ship now. The ship, It's…
 [u2242 | 02:17:53.929-02:18:04.479 | DM] The ship is definitely not nice. The ship definitely has, like, a vibe of, like, I'm here to fuck shit up and destroy things and I am
-[u2243 | 02:18:05.949-02:18:07.789 | DM] It's kind of like a chain pitbull.
+[u2243 | 02:18:05.949-02:18:07.789 | DM] It's kind of like a chained pit bull.
 [u2244 | 02:18:07.919-02:18:10.219 | DM] It's like what this ship feels like, you know?
 [u2245 | 02:18:10.619-02:18:17.700 | DM] It potentially could be used for other things, but it's been trained to bite and tear and destroy.
 [u2246 | 02:18:18.730-02:18:28.819 | DM] And… but you do get a sense from the ship that, yeah, there's a place that, if you got to it, would hurt me a lot.
@@ -2267,7 +2267,7 @@
 [u2267 | 02:19:38.340-02:19:39.110 | DM] No, no, no, no.
 [u2268 | 02:19:39.110-02:19:41.460 | Heska] I would probably let it do a little more than that.
 [u2269 | 02:19:41.469-02:19:43.409 | DM] No, no, yeah, no, I will, I will, I will, I will.
-[u2270 | 02:19:43.410-02:19:44.430 | Zeno] MD 400.
+[u2270 | 02:19:43.410-02:19:44.430 | Zeno] A d400.
 [u2271 | 02:19:44.430-02:19:47.359 | DM] It only does 1d4. What a shitty spell, man.
 [u2272 | 02:19:47.360-02:19:52.060 | Heska] No, no, it's supposed to be like you, you go from medium to large.
 [u2273 | 02:19:52.060-02:20:03.790 | DM] Okay, but not, not, you know, god statue to, like, double god statue? Yeah, exactly. Alright, alright, alright, that's fine, that's fine. Alright, so go ahead and, so everybody not Heska roll.
@@ -2285,7 +2285,7 @@
 [u2285 | 02:20:33.360-02:20:35.849 | DM] Oh, that's better, a 26.
 [u2286 | 02:20:36.490-02:20:37.160 | DM] Okay.
 [u2287 | 02:20:37.280-02:20:41.329 | DM] 26 hits, and 2 out of 3 of you,
-[u2288 | 02:20:41.330-02:20:44.810 | DM] We're successful in your check. And you're doubled in size, right?
+[u2288 | 02:20:41.330-02:20:44.810 | DM] Were successful in your check. And you're doubled in size, right?
 [u2289 | 02:20:45.330-02:20:45.660 | Heska] Yep.
 [u2290 | 02:20:45.660-02:20:45.990 | Sculpit] Yeah.
 [u2291 | 02:20:46.660-02:20:54.290 | DM] Okay, so the Wanderer, like, wheels back, and just, you know, boxers punch.
@@ -2363,7 +2363,7 @@
 [u2363 | 02:25:05.960-02:25:08.660 | DM] All the damage adds up, so the 13 right to the iris of the ship.
 [u2364 | 02:25:09.040-02:25:10.190 | Sculpit] 13 to hit.
 [u2365 | 02:25:10.190-02:25:11.130 | Heska] 13 to hit.
-[u2366 | 02:25:11.130-02:25:13.769 | DM] Oh, you missed? Oh, okay. Yeah. That bad.
+[u2366 | 02:25:11.130-02:25:13.769 | DM] Oh, you missed? Oh, okay. Yeah. That's bad.
 [u2367 | 02:25:13.930-02:25:14.510 | DM] Zeno.
 [u2368 | 02:25:15.340-02:25:18.040 | Zeno] I'm just trying to figure out what I can do, because…
 [u2369 | 02:25:18.040-02:25:19.179 | DM] The Wall of…
@@ -2397,9 +2397,9 @@
 [u2397 | 02:26:44.740-02:26:47.580 | Zeno] Let me check mine… It is.
 [u2398 | 02:26:47.580-02:26:51.900 | Heska] Yeah, it's the same. It should be like DC 16 or something like that.
 [u2399 | 02:26:52.140-02:26:52.840 | DM] Nice.
-[u2400 | 02:26:52.840-02:26:54.410 | Zeno] Availability is…
+[u2400 | 02:26:52.840-02:26:54.410 | Zeno] The ability is…
 [u2401 | 02:26:54.650-02:26:55.709 | DM] Oh my god, okay.
-[u2402 | 02:26:55.710-02:26:56.180 | Heska] 50th.
+[u2402 | 02:26:55.710-02:26:56.180 | Heska] Fifteen.
 [u2403 | 02:26:56.710-02:27:00.030 | DM] I don't even know what this means, but the Dreadnought fails its save. So what happens now?
 [u2404 | 02:27:00.030-02:27:05.850 | Zeno] It has to respond in some way to my call.
 [u2405 | 02:27:06.150-02:27:07.940 | Heska] It has to use its action to…
@@ -2557,9 +2557,9 @@
 [u2557 | 02:35:53.520-02:35:54.410 | DM] Oh my god.
 [u2558 | 02:35:54.410-02:35:56.210 | Heska] If we use Hunter's Pounce.
 [u2559 | 02:35:56.210-02:35:56.730 | DM] Let's go.
-[u2560 | 02:35:56.730-02:35:57.400 | DM] 2.
-[u2561 | 02:35:57.580-02:35:58.350 | DM] Tube.
-[u2562 | 02:35:58.350-02:36:03.119 | Heska] Hunters pounce the pilot out of the ship because I'm supposed to be able to like grab and.
+[u2560 | 02:35:56.730-02:35:57.400 | DM] Dude.
+[u2561 | 02:35:57.580-02:35:58.350 | DM] Dude.
+[u2562 | 02:35:58.350-02:36:03.119 | Heska] Hunter's Pounce the pilot out of the ship because I'm supposed to be able to like grab and.
 [u2563 | 02:36:03.120-02:36:04.639 | DM] You can. You can.
 [u2564 | 02:36:05.120-02:36:06.369 | DM] You totally can!
 [u2565 | 02:36:06.670-02:36:14.830 | DM] So you're gonna punch through the iris and then reach out and try to grab whomever or whatever is piloting the ship and then pull it out?
@@ -2790,7 +2790,7 @@
 [u2790 | 02:48:29.180-02:48:30.200 | DM] So.
 [u2791 | 02:48:30.460-02:48:36.069 | DM] This moment is 1 that this day has been a long day. It's been a long day. It's been a long battle.
 [u2792 | 02:48:36.070-02:48:43.729 | DM] But all of your training over this past stretch, and it feels like a lifetime of training has been compressed into these hours.
-[u2793 | 02:48:43.920-02:49:07.610 | DM] All comes together in this orchestrated moment of pure fucking beauty. You feel the resonance of Zeno, like, shimmering through the entire body. All of your systems are aligned. Your power and potential is maximized through Sculpit. You feel Little Tony right now, and all of the energy from Little Tony is surging through this whole system, and Heska is complete acrobatic.
+[u2793 | 02:48:43.920-02:49:07.610 | DM] All comes together in this orchestrated moment of pure fucking beauty. You feel the resonance of Zeno, like, shimmering through the entire body. All of your systems are aligned. Your power and potential is maximized through Sculpit. You feel Little Tony right now, and all of the energy from Little Tony is surging through this whole system, and Heska in complete acrobatic.
 [u2794 | 02:49:07.740-02:49:15.819 | DM] Mastery leaps up through the air, takes the giant stone wall, perfectly smashes it right through the cockpit.
 [u2795 | 02:49:15.930-02:49:18.299 | DM] Of the Dreadnought, doing…
 [u2796 | 02:49:18.300-02:49:21.630 | DM] 40d12 plus 150 damage.
@@ -2880,7 +2880,7 @@
 [u2880 | 02:54:38.220-02:54:43.250 | DM] Which is now crashed into… The side of the island.
 [u2881 | 02:54:44.060-02:54:47.740 | DM] Tony, you sense the… the.
 [u2882 | 02:54:47.750-02:54:56.959 | DM] Beings are this like these enter these life signatures like kind of in the middle of the ship like that There is the giant there was like a giant like reactor thing that's kind of in the bottom This is like kind of middle back.
-[u2883 | 02:54:56.960-02:54:58.050 | DM] Shit.
+[u2883 | 02:54:56.960-02:54:58.050 | DM] Ship.
 [u2884 | 02:54:58.050-02:54:59.889 | DM] But you've got a pretty clear sense of where they are.
 [u2885 | 02:55:01.020-02:55:02.350 | DM] Yeah.
 [u2886 | 02:55:02.960-02:55:03.800 | DM] Get in there.
@@ -2928,9 +2928,9 @@
 [u2928 | 02:58:47.030-02:58:50.329 | Heska] Completely overwhelmed, right? Like, what do we even do with this?
 [u2929 | 02:58:50.640-02:58:51.360 | DM] Yeah.
 [u2930 | 02:58:54.420-02:59:01.769 | Heska] When Tony says the ship's gonna explode, I'm just gonna be like Should we just run?
-[u2931 | 02:59:01.770-02:59:02.510 | Sculpit] runaway.
+[u2931 | 02:59:01.770-02:59:02.510 | Sculpit] Run away.
 [u2932 | 02:59:03.080-02:59:06.840 | DM] Grab something interesting or shiny and run away, yes.
-[u2933 | 02:59:06.950-02:59:08.140 | Zeno] Everybody grab a skin.
+[u2933 | 02:59:06.950-02:59:08.140 | Zeno] Everybody grab a thing.
 [u2934 | 02:59:08.610-02:59:09.630 | Little Tony] Speak with animals.
 [u2935 | 02:59:10.450-02:59:11.709 | DM] Yeah, go for it.
 [u2936 | 02:59:12.000-02:59:13.519 | DM] And say,
@@ -2980,7 +2980,7 @@
 [u2980 | 03:01:20.630-03:01:24.989 | DM] I haven't tried. I will try to teleport somebody else.
 [u2981 | 03:01:25.410-03:01:31.320 | DM] Yeah, you definitely feel like you can teleport yourself and other things if you wanted to.
 [u2982 | 03:01:32.780-03:01:37.669 | DM] I'm gonna like go grab some eggs and teleport out. Does it work?
-[u2983 | 03:01:38.890-03:01:39.250 | DM] works.
+[u2983 | 03:01:38.890-03:01:39.250 | DM] It works.
 [u2984 | 03:01:40.830-03:01:42.049 | Sculpit] Like, how far can I go?
 [u2985 | 03:01:43.210-03:01:44.259 | DM] How far are you trying to go?
 [u2986 | 03:01:45.590-03:01:46.750 | Sculpit] Back to the Wanderer.
@@ -3015,7 +3015,7 @@
 [u3015 | 03:03:27.030-03:03:27.720 | DM] The ceiling is…
 [u3016 | 03:03:29.210-03:03:32.389 | DM] Is the ship made of stone by any chance or that part of the ceiling?
 [u3017 | 03:03:33.830-03:03:35.069 | DM] It is not, unfortunately.
-[u3018 | 03:03:35.250-03:03:36.050 | DM] Brett.
+[u3018 | 03:03:35.250-03:03:36.050 | DM] Drat.
 [u3019 | 03:03:37.300-03:03:46.740 | DM] Okay, and are there any doors or exits out of this room? Like, can we evacuate things directly? There are. Oh, yeah. Okay. I mean, there's holes blown throughout the
 [u3020 | 03:03:46.740-03:04:00.069 | DM] from the whole… from the damage of the ship. There's definitely, like… Okay. You can fly out of this room. You can fly out of this room. So, I'm gonna… I'm gonna cast Summon Draconic Spirit, and the way that this works when Little Tony does it is rather than just, like, summoning a dragon out of nowhere.
 [u3021 | 03:04:00.100-03:04:08.330 | DM] He convinces all of, like, the bits and pieces and random stuff of the room to come together in the form of a giant dragonet.
@@ -3082,7 +3082,7 @@
 [u3082 | 03:07:28.760-03:07:31.819 | DM] And you go back to go and visit.
 [u3083 | 03:07:32.040-03:07:33.529 | DM] Shai, who is.
 [u3084 | 03:07:33.530-03:07:34.220 | DM] still alive.
-[u3085 | 03:07:34.990-03:07:35.830 | DM] news.
+[u3085 | 03:07:34.990-03:07:35.830 | DM] He's.
 [u3086 | 03:07:37.190-03:07:38.310 | DM] in the ship.
 [u3087 | 03:07:38.310-03:07:38.820 | DM] Low hit points.
 [u3088 | 03:07:38.820-03:07:40.589 | DM] It's… but it's still awake.
