@@ -22,7 +22,7 @@
 [u0022 | 00:03:05.520-00:03:05.880 | Kenzo] I need.
 [u0023 | 00:03:06.030-00:03:07.350 | DM] A lot of magic items.
 [u0024 | 00:03:07.440-00:03:16.950 | Kenzo] No, no, no, but I need I need like a staff from like the tree of life, like that's what I wanted, I want a living staff that I can like plug into forests and like.
-[u0025 | 00:03:17.340-00:03:23.460 | Kenzo] You know, communicate with them like I'm gonna I'm going to stack left a staff made from this from like the tree in the {{Center pilgrim}}.
+[u0025 | 00:03:17.340-00:03:23.460 | Kenzo] You know, communicate with them like I'm gonna I'm going to stack left a staff made from this from like the tree in the center of Tokra.
 [u0026 | 00:03:23.820-00:03:25.200 | Delwath] Yes, yes, a giant.
 [u0027 | 00:03:25.560-00:03:26.130 | DM] There is.
 [u0028 | 00:03:26.280-00:03:27.540 | Kenzo] Yes, yes.
@@ -67,7 +67,7 @@
 [u0067 | 00:06:59.880-00:07:00.720 | DM] The.
 [u0068 | 00:07:02.010-00:07:11.280 | DM] So let's see, I have to look back at my notes, which one is which, but one of them is is like the sort of size of a modern ish wall mirror right so it's like.
 [u0069 | 00:07:11.460-00:07:12.120 | DM] So the.
-[u0070 | 00:07:12.150-00:07:16.290 | DM] {{biceps beat}} the other one is smaller, more compact, but very heavy.
+[u0070 | 00:07:12.150-00:07:16.290 | DM] five, six feet the other one is smaller, more compact, but very heavy.
 [u0071 | 00:07:16.650-00:07:24.570 | Kenzo] yeah so basically it's described the dimensions and the weight of the two objects and be like these are, these are the two big ones that we would like to figure out how to conceal if we can.
 [u0072 | 00:07:25.140-00:07:39.600 | Kenzo] we've been lugging them around with us, and it is not practical and so having something that we could conceal these in would be very useful but uh but I'll let my you know fellow companions if you guys have other desiderata or other things that you would.
 [u0073 | 00:07:41.220-00:07:41.850 | Kenzo] like to add or.
@@ -440,7 +440,7 @@
 [u0440 | 00:37:31.050-00:37:31.410 | Delwath] thing.
 [u0441 | 00:37:32.220-00:37:33.870 | Delwath] Sometimes in the stories of.
 [u0442 | 00:37:35.460-00:37:36.180 | Delwath] How.
-[u0443 | 00:37:38.040-00:37:39.210 | Delwath] {{America}} came to be.
+[u0443 | 00:37:38.040-00:37:39.210 | Delwath] Elmerca came to be.
 [u0444 | 00:37:48.930-00:37:50.910 | DM] Interesting so is this.
 [u0445 | 00:37:53.010-00:37:55.410 | DM] If that has something to do with how.
 [u0446 | 00:37:58.290-00:38:06.990 | DM] Well, do the elves know how this diversity of worlds that exists in our multiverse came to be.
@@ -692,7 +692,7 @@
 [u0692 | 00:58:12.060-00:58:15.750 | DM] Any other names that might help guide my search.
 [u0693 | 00:58:25.650-00:58:31.200 | Delwath] Am I missing another name somewhere in this text trying to think.
 [u0694 | 00:58:34.860-00:58:35.400 | DM] Are you.
-[u0695 | 00:58:36.390-00:58:39.990 | Delwath] Oh yes, I am a DC chica chica.
+[u0695 | 00:58:36.390-00:58:39.990 | Delwath] Oh yes, Anida—Anida.
 [u0696 | 00:58:43.290-00:58:45.600 | DM] huh okay.
 [u0697 | 00:58:47.700-00:58:49.770 | DM] she's like writing these things down.
 [u0698 | 00:59:01.950-00:59:03.930 | DM] OK, I will look.
@@ -936,7 +936,7 @@
 [u0936 | 01:19:39.180-01:19:46.590 | DM] Yes, far north, the the lands lands beyond the Great Lake.
 [u0937 | 01:19:48.180-01:19:48.870 | DM] Where.
 [u0938 | 01:19:57.810-01:20:01.560 | DM] If you look right north of the words Chardonian empire on the map there's a big to.
-[u0939 | 01:20:01.560-01:20:03.510 | Delwath] {{enslave inside rise at night of incited}}.
+[u0939 | 01:20:01.560-01:20:03.510 | Delwath] enslave inside rise at night of incited.
 [u0940 | 01:20:10.470-01:20:21.060 | DM] stretching from the coast many that is as far as the Drankorian empire ever went the Great Lake and so many of the northern cultures.
 [u0941 | 01:20:22.320-01:20:23.160 | DM] persisted.
 [u0942 | 01:20:25.110-01:20:26.220 | DM] far to the north.
@@ -1004,9 +1004,9 @@
 [u1004 | 01:25:46.770-01:25:52.260 | Delwath] If we can assume for at, for example, that the archives are not well cataloged, right.
 [u1005 | 01:25:53.400-01:25:55.560 | Delwath] that's what um Johar told us.
 [u1006 | 01:25:57.090-01:26:03.150 | Delwath] So it seems unlikely that somebody knew exactly what they were looking for without some prep work right.
-[u1007 | 01:26:04.680-01:26:09.960 | Seeker] It was a person, the person has gone missing if we can find that person's {{minutes}}.
+[u1007 | 01:26:04.680-01:26:09.960 | Seeker] It was a person, the person has gone missing if we can find what that person's been.
 [u1008 | 01:26:10.020-01:26:11.910 | Delwath] Ah right, of course, yes.
-[u1009 | 01:26:12.060-01:26:14.250 | Seeker] {{Doing lameness}} we don't learn something.
+[u1009 | 01:26:12.060-01:26:14.250 | Seeker] doing lately, maybe we'll learn something.
 [u1010 | 01:26:14.310-01:26:16.020 | Delwath] Right, yes, yes.
 [u1011 | 01:26:17.520-01:26:18.000 | Delwath] To.
 [u1012 | 01:26:18.960-01:26:24.480 | Delwath] Is if if we could find the missing people that would be another direction to pursue.
@@ -2275,7 +2275,7 @@
 [u2275 | 03:08:05.010-03:08:11.220 | DM] There, but there is one approach that seems safe, which I have carefully mapped and given to my troops.
 [u2276 | 03:08:12.930-03:08:16.980 | DM] And then somebody's written next to that cf bundle 24.
 [u2277 | 03:08:18.180-03:08:18.660 | DM] um.
-[u2278 | 03:08:20.010-03:08:21.570 | Kenzo] But is this is this {{you don't miss a star}}.
+[u2278 | 03:08:20.010-03:08:21.570 | Kenzo] But is this is this Eudomes's Tower.
 [u2279 | 03:08:22.680-03:08:24.510 | Delwath] No, this is the temple to the.
 [u2280 | 03:08:24.840-03:08:26.340 | Seeker] Pandemonium yeah.
 [u2281 | 03:08:26.610-03:08:27.090 | Delwath] Oh.
@@ -2573,7 +2573,7 @@
 [u2573 | 03:32:49.470-03:32:54.300 | Seeker] Exactly is the surgery, so it was the update that we got about the three artifacts.
 [u2574 | 03:32:55.290-03:32:57.180 | Seeker] We just need to have some information on it.
 [u2575 | 03:32:59.790-03:33:00.540 | Delwath] Now.
-[u2576 | 03:33:01.650-03:33:16.470 | Delwath] We don't actually know there's three artifacts we just did that did that Tim seems to have confirmed it accidentally, but we did just invent this this session, you know, there are two artifacts one we have and one is the cloak that makes the {{godson}}.
+[u2576 | 03:33:01.650-03:33:16.470 | Delwath] We don't actually know there's three artifacts we just did that did that Tim seems to have confirmed it accidentally, but we did just invent this this session, you know, there are two artifacts one we have and one is the cloak that makes the god's gone.
 [u2577 | 03:33:17.100-03:33:19.620 | Seeker] But there was something about it in that conversation just now.
 [u2578 | 03:33:19.950-03:33:27.840 | DM] I was a that was Servius the Servius found some note that was describing a cache of artifacts.
 [u2579 | 03:33:28.800-03:33:30.510 | Delwath] which may or may not be related.
@@ -2601,7 +2601,7 @@
 [u2601 | 03:35:17.370-03:35:22.350 | Seeker] And also, she like didn't rejoin another monastery or anything, and has become a nomadic.
 [u2602 | 03:35:23.130-03:35:23.970 | Kenzo] horse person.
 [u2603 | 03:35:24.000-03:35:29.430 | Seeker] Yes, you heard she has forsworn monastic life altogether.
-[u2604 | 03:35:30.930-03:35:35.850 | Kenzo] yeah so we got to find her to figure out what the Fuck is going on, it like Fortified Dimitaur This is like part of that.
+[u2604 | 03:35:30.930-03:35:35.850 | Kenzo] yeah so we got to find her to figure out what the Fuck is going on, it like for finding Dimitaur This is like part of that.
 [u2605 | 03:35:36.180-03:35:36.450 | Unknown] yeah.
 [u2606 | 03:35:38.040-03:35:38.430 | Delwath] I think.
 [u2607 | 03:35:40.350-03:35:48.000 | Kenzo] But but back to the plane of Pandemonium for a second so let's summarize like what we understand about the wolves let them werewolf situation.
@@ -2638,7 +2638,7 @@
 [u2638 | 03:38:06.360-03:38:07.650 | Delwath] disorganized and.
 [u2639 | 03:38:09.360-03:38:13.950 | Delwath] You know this guy doesn't seem like a very good archivist maybe he's a disciple of Jinnik.
 [u2640 | 03:38:14.940-03:38:19.320 | Kenzo] Did I sense anything with my Soul Sight and then like did he said was he any any if anything's going on.
-[u2641 | 03:38:19.350-03:38:21.240 | Seeker] {{The student he likes festering wound}}.
+[u2641 | 03:38:19.350-03:38:21.240 | Seeker] Doesn't he have, like, a festering wound?
 [u2642 | 03:38:21.600-03:38:22.860 | DM] Make an Insight check.
 [u2643 | 03:38:27.240-03:38:28.260 | Kenzo] Is he a werewolf.
 [u2644 | 03:38:30.720-03:38:32.370 | DM] Give me one fucking good roll.

@@ -2,8 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-29T15:49:31-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/ai, status/check/tim]
-typeOf: fey
+tags: [creature]
 name: Hags
 aliases: [hag]
 dm_owner: joint
@@ -12,14 +11,17 @@ POV: modern
 ---
 # Hags
 
-Hags are often powerful [[Fey|fey]], feared even by others of their kind. Many leave the [[Feywild]] to prey on mortals, pursuing their schemes through bargains, deception, and manipulation.
+Though hags are [[fey]], and often powerful ones, they are commonly feared even by others of their kind. They have a reputation for being masters of the bargain-magic of the fey, to the extent that only the unwitting, desperate, or greedy will commonly bargain with them. A hag's offer of help may grant a real benefit, while giving the hag power over those who accept, and always seeming to work out better for the hag than one might expect. 
 
-A hag’s offer of help can draw the desperate and unwary into lasting servitude. Such bargains may grant real benefits while giving the hag power over those who accept them. Other hags work through disguises and hidden influence, sowing distrust and conflict without revealing their hand.
+Many hags leave the [[Feywild]] to prey on mortals, pursuing their schemes through bargains, deception, and manipulation.
+
 
 %% Sources:
+- [[Putrid Agnes]]
 - [[Agata]]
-- [[Peydon]]
+- [[Midnight Lady]]
 - [[Morgana Stoneclaw]]
+- [[Story about Hags]]
 %%
 
 %%^Metadata:names:v1%%

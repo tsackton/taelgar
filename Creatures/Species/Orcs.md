@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [creature, status/wip, status/check/lint]
+tags: [creature, status/wip, status/check/lint, status/check/ai]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
 dm_owner: none
@@ -10,6 +10,56 @@ dm_notes: none
 POV: modern
 ---
 # Orcs
+
+Orcs are the creation of [[Thark]], the God of War Without End. Across Taelgar, their warbands raid settlements, demand tribute, and fight one another under the compulsion of their creator. Most bands are small, but a powerful leader can gather a horde of hundreds or thousands, threatening neighboring cities and kingdoms.
+
+## Appearance and Life
+
+Orcs are robust and imposing, often standing over six feet tall, with tusks protruding from their lower lips. Their skin ranges from green to dull gray, and their eyes are typically black or red. They mature much faster than humans, reaching adulthood at about ten years of age. Although many die young in battle, their natural lifespan is similar to that of humans.
+
+## Thark's Chains
+
+[[Thark]] drives those bound to him toward ceaseless violence. His religion glorifies strength, victory, and the settlement of disputes through force. War serves his will even when nothing is gained from it, and the violence he inspires falls upon other orcs as readily as upon neighboring peoples.
+
+Few outsiders understand the rites through which this bond is imposed. Accounts speak of a blood ritual performed on infants, sometimes called the Blood Binding or the Blood Oath of the Crimson Blade, through which Thark claims the child and binds it to his will. Its precise workings remain obscure.
+
+## Warbands and Hordes
+
+The orc bands encountered along the borders of settled lands often extend little beyond a large family group. Rivalries and fighting between these groups are frequent, and their violence usually prevents any lasting unity. Raids against neighboring settlements provide food, weapons, and treasure, while captives may be held for ransom, forced to labor, or killed.
+
+At times, a leader believed to bear Thark's favor brings many bands together. Such hordes often take their leader's name, and may include other creatures drawn into their service or allied with them. Their leaders can organize patrols, seek powerful magic, demand tribute, and prepare sieges. Yet the rivalries within a horde remain dangerous: a common enemy or a feared commander may hold it together, but disputes can turn its warriors against one another.
+
+%%^Campaign:dufr%%
+## Free Orcs
+
+Thark's hold can be escaped. Orcs who have never undergone the binding ritual grow up free of his compulsion, and their children can likewise be born and raised free. Others have had their bonds severed through powerful magic. These free orcs remain the same people in body and potential, able to build families and communities beyond the demands of their creator.
+
+For those once bound, freedom can be difficult. [[Murook]], freed in childhood through the [[Cloak of Rainbows]], describes the fire of Thark's chains still burning at times, long after her liberation. The [[Hezguli]] offer support and fellowship to orcs learning to live with these scars. Such struggles belong to the experience of binding and release; orcs born free have never endured the chains themselves.
+
+Freedom also brings danger from outside. Thark's followers hunt those who have escaped him, forcing free communities to conceal themselves or find protection against his reach. The loss of such protection does not itself bind free orcs anew, but can expose them to attack and deprive those once bound of relief from the lingering effects of his influence.
+
+## The People of the Rainbow
+
+The [[People of the Rainbow]] have lived free of Thark for many generations. They trace their beginnings to orc children raised in [[Amberglow]], under the protection of the [[Cloudspinner]]. Her gift of the [[Cloak of Rainbows]] allowed them to venture into Taelgar and free others. After the cloak was stolen, they survived for centuries in scattered, hidden communities, until its recovery by [[Uzgash]] made possible the founding of [[Xurkhaz]], their homeland in the deserts east of [[Dunmar]].
+
+In Xurkhaz, irrigated fields and cattle pastures support villages and towns decorated with colorful paintings and carvings. The people preserve histories of their wandering ancestors and honor those who keep their homeland safe. Their rulers maintain the cloak's protection by traveling the kingdom's borders, while soldiers defend its settlements. Freeing others from Thark remains an enduring hope, alongside the work of sustaining their own families and communities.
+
+Among the People of the Rainbow is the belief that a life well lived becomes poison to Thark. They believe that happiness, good deeds, and the defense of others strengthen a soul for a final blow against him after death. Their lives encompass scholarship, craft, farming, and warfare in defense of their people; the freedom they preserve allows each generation to choose its own pursuits.
+%%^End%%
+
+%% Sources for the draft:
+- [[Playing a Free Orc]] — maturation and lifespan.
+- [[Great Library Session Notes - Arc 1]]; [[Great Library Session Notes - Arc 2]] — raiding, ransom, magic, alliances, and siege warfare.
+- [[Guy de Varan's Story]]; [[Cleenseau - Session 05]] — captives, labor, factional rivalry, and Wakog's warband.
+- [[Session 31 (DuFr)]]; [[Session 42 (DuFr)]] — raiding objectives and pursuit of free orcs.
+- [[Session 76 (DuFr)]]; [[Session 77 (DuFr)]]; [[Murook's Story]] — binding, liberation, lasting scars, and the cloak's protection. Session 76 source-cleaned transcript u2012–u2014 records Lubash's statement that the binding ritual works only on infants.
+- [[Story of Xurkhaz]]; [[Tale of the Cloak of Rainbows]] — attributed histories of the People of the Rainbow.
+- [[Session 89 (DuFr)]] — Nuzkar and Aygul's introduction and the account of the cloak; source-cleaned transcript u0185–u0203 includes Nuzkar's description of her life and scholarly ambitions.
+- [[Session 103 (DuFr)]] — the source-cleaned transcript u1799–u1813 records Nuzkar explaining her people's belief that a good, happy life makes a soul poisonous to Thark. This is a belief, not confirmation of the fate of free-orc souls.
+%%
+
+%%^Campaign:none%%
+## Previous Text — Retained for Review
 
 >[!quote] The Blood Binding, excerpt
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
@@ -39,6 +89,8 @@ The most famous of these orcs are the [[People of the Rainbow]], living in the d
 Free orcs live in the constant shadow of [[Thark]]'s hunters. [[Thark]] watches over his orcs, driving them to fight each other, bringing strength to the victors. But none are more hated by [[Thark]]'s orcs than those who have broken free: any tribe that tries to turn from [[Thark]]'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [[Thark]]'s probing eyes. 
 
 %%SECRET[v2:91bea42275a3217d29741081b3b334b6]%%
+
+%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Orcs, language: unknown}

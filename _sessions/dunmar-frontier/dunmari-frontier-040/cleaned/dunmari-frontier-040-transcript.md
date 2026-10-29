@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 40
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-040-source-cleaned.md
 
 ## Transcript
@@ -47,8 +47,8 @@ DM: Songs grow in the telling, and here many wonder, for Agata did nothing strai
 %% u0031:0-98, u0032:0-101 %%
 DM: Back to here, as with the gnoll threat contained, our story turns to Shakun and her servant Cintra. Here that tale is muddled in the song. Strange, for foreign gods keep secrets, even from the halflings.
 
-%% u0033:0-138, u0034:0-145, u0035:0-274 %%
-DM: Yet if our heroes were listening, they would know the details, how Agata lured Cintra out of Karawa with dreams of her daughter's illness; deceived her into removing from Karawa the Heart of Shakun, the artifact that kept the divine protections on the eastern border of Dunmar intact. How Agata kidnapped Cintra's daughter Jumi and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this, later than perhaps they would have liked, from Cintra's spy {{Croatia could}}, skilled in many things, except making decisions in a crisis.
+%% u0033:0-138, u0034:0-145, u0035:0-271 %%
+DM: Yet if our heroes were listening, they would know the details, how Agata lured Cintra out of Karawa with dreams of her daughter's illness; deceived her into removing from Karawa the Heart of Shakun, the artifact that kept the divine protections on the eastern border of Dunmar intact. How Agata kidnapped Cintra's daughter Jumi and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this, later than perhaps they would have liked, from Candrosa, Speaker of Shakun, skilled in many things, except making decisions in a crisis.
 
 %% u0036:0-249 %%
 DM: Storytellers, though the details are murky, do not neglect our heroes at the moment they confront Agata in the desert south of Karawa. The tempo of the song rises, for here comes the halfling's moment of glory: the killing arrow from point blank range.
@@ -3195,7 +3195,7 @@ Seeker: Locations of the seeds coincide with the presence of incredibly powerful
 Unknown: That.
 
 %% u2091:0-52, u2092:0-80 %%
-Seeker: Could be why the Chardonians are interested as well. {{obvious that}} the Society of the Open Scroll is looking to close these seeds?
+Seeker: Could be why the Chardonians are interested as well. Could it be that the Society of the Open Scroll is looking to close these seeds?
 
 %% u2093:0-58 %%
 Kenzo: Should I ask Saka in a bit if she knows about the society?
@@ -3521,8 +3521,8 @@ Kenzo: We could.
 %% u2258:0-13, u2259:0-5 %%
 Delwath: Go to I mean. Like.
 
-%% u2260:0-100 %%
-Kenzo: What if he is, he's with Rai, on the other side of the of the seeds of chaos and {{not the manager}}?
+%% u2260:0-96 %%
+Kenzo: What if he is, he's with Rai, on the other side of the of the seeds of chaos and not Pandemonium?
 
 %% u2261:0-30 %%
 Seeker: At this point, that's my best.
@@ -3770,8 +3770,8 @@ Delwath: He didn't say.
 %% u2369:0-49 %%
 Kenzo: I wonder if that's still have like orc civil war?
 
-%% u2370:0-177 %%
-Delwath: Now might be, he said, the {{EU got it was}} Grash, which is the other, but I mean it seems sort of sad to have all that nice peaceful orcs slaughtered by their warlike brethren.
+%% u2370:0-173 %%
+Delwath: Now might be, he said, the Uzgash—it was Grash, which is the other, but I mean it seems sort of sad to have all that nice peaceful orcs slaughtered by their warlike brethren.
 
 %% u2371:0-105 %%
 Seeker: So that's what we are now like protecting the nice orcs from the bad orcs? That's, that's what we're doing?
@@ -4235,8 +4235,8 @@ Kenzo: Sounds possible like I totally forgot yeah.
 %% u2584:0-27 %%
 Seeker: That's an important detail.
 
-%% u2585:0-100 %%
-Kenzo: Well, I saw {{sheila}}, I saw Rai, I saw like the great heroes {{finish my thought}} was pretty cool.
+%% u2585:0-94 %%
+Kenzo: Well, I saw {{sheila}}, I saw Rai, I saw like the great heroes which I thought was pretty cool.
 
 %% u2586:0-10 %%
 Seeker: Let's see.

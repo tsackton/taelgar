@@ -11,7 +11,7 @@
 [u0011 | 00:01:35.400-00:01:49.200 | DM] The hunter always with one small part of his essence watching those who carry echoes of his companions of old sees the madness pour into the soul of a poor innocent boy, a young dwarf, not even of age in the west of Dunmar.
 [u0012 | 00:01:50.730-00:01:57.030 | DM] While the Fox tends to the prayers of the Rangers of Sembara, the Hunter watches Dunmar more closely for a moment.
 [u0013 | 00:01:58.170-00:02:06.300 | DM] Across the desert and dry arid plains—so hard not to cast the land in his mind's eye as it was—the people of the horse are moving.
-[u0014 | 00:02:07.560-00:02:17.550 | DM] {{Service}} Sura, the sister of the current Samraat, has returned from an unreachable prison, and many people are gathered in her camps, and yet she is not marching to war, not yet.
+[u0014 | 00:02:07.560-00:02:17.550 | DM] Sura, the sister of the current Samraat, has returned from an unreachable prison, and many people are gathered in her camps, and yet she is not marching to war, not yet.
 [u0015 | 00:02:19.080-00:02:33.300 | DM] North of the city of Tokra, an old woman sits by a fire, wondering. The Hunter watches her a moment, sees the prayers streaming to him, asking when the strange travelers of her dreams will arrive, and how much to tell them when they do.
 [u0016 | 00:02:34.320-00:02:38.550 | DM] He senses the tangled future here but there's little he can do to shape that destiny.
 [u0017 | 00:02:40.020-00:02:45.090 | DM] In Tokra, the poor innocent is snarling, consumed with the madness of Jinnik on this night of power.
@@ -81,7 +81,7 @@
 [u0081 | 00:06:58.680-00:07:08.160 | Kenzo] But is there, like in the court of God judges like is there, one that everybody will be like I mean are there gonna agree, or is there going to be like conflict because, like like.
 [u0082 | 00:07:08.820-00:07:11.520 | DM] y'all have to see what happens.
 [u0083 | 00:07:11.760-00:07:12.060 | Kenzo] I mean.
-[u0084 | 00:07:12.090-00:07:14.550 | Seeker] This is like {{this girl}} involved somehow like.
+[u0084 | 00:07:12.090-00:07:14.550 | Seeker] This is like is Beryl involved somehow like.
 [u0085 | 00:07:18.270-00:07:20.730 | DM] There is little he can do to shape that destiny.
 [u0086 | 00:07:21.240-00:07:22.800 | Seeker] Right that's true that's what he said.
 [u0087 | 00:07:23.070-00:07:24.510 | Delwath] He mostly just I mean he.
@@ -224,7 +224,7 @@
 [u0224 | 00:16:09.990-00:16:12.780 | Seeker] And my sense is that we are pretty deep underground at this point.
 [u0225 | 00:16:14.970-00:16:18.540 | DM] No you're not that deep underground, I think you would know that you're.
 [u0226 | 00:16:20.010-00:16:20.670 | DM] Maybe.
-[u0227 | 00:16:23.700-00:16:34.380 | DM] you're probably not more than 20—20 feet underground, {{3315}} feet hard to say, but not not like hundreds of feet underground right.
+[u0227 | 00:16:23.700-00:16:34.380 | DM] you're probably not more than 20—20 feet underground, 30, 15 feet hard to say, but not not like hundreds of feet underground right.
 [u0228 | 00:16:36.600-00:16:42.960 | DM] um and you see—let me get some grotesque animal statues here.
 [u0229 | 00:16:48.720-00:16:49.590 | DM] hard to find.
 [u0230 | 00:16:51.330-00:16:52.140 | DM] Well, you know what.
@@ -946,7 +946,7 @@
 [u0946 | 01:04:29.490-01:04:33.030 | DM] But the combination of the.
 [u0947 | 01:04:34.320-01:04:49.350 | DM] The sort of lack of any information from the soul-sight, the fact that they seem to be like animated statues of some kind I'm reminds you have.
 [u0948 | 01:04:50.460-01:04:50.850 | DM] Ah.
-[u0949 | 01:04:53.520-01:05:14.700 | DM] So so it's not the same so it's doesn't remind you of in the sense that you think these were made by dwarves like they definitely were not made by dwarves, but it reminds you of um oh you even encountered one right there was the in in the the dwarves in caves {{I need a Raven}}.
+[u0949 | 01:04:53.520-01:05:14.700 | DM] So so it's not the same so it's doesn't remind you of in the sense that you think these were made by dwarves like they definitely were not made by dwarves, but it reminds you of um oh you even encountered one right there was the in in the the dwarves in caves near Raven’s Hold.
 [u0950 | 01:05:14.820-01:05:15.660 | Delwath] I have a golem.
 [u0951 | 01:05:17.010-01:05:17.970 | DM] stone guardian.
 [u0952 | 01:05:18.210-01:05:18.870 | Seeker] hi yeah.
@@ -1760,7 +1760,7 @@
 [u1760 | 02:00:14.040-02:00:14.430 | DM] So she.
 [u1761 | 02:00:14.640-02:00:18.570 | Kenzo] will then I will step through here and.
 [u1762 | 02:00:20.550-02:00:23.700 | Kenzo] Let me see if I can do some more damage I'll use.
-[u1763 | 02:00:27.120-02:00:28.740 | Kenzo] The physical {{clutter our}}.
+[u1763 | 02:00:27.120-02:00:28.740 | Kenzo] The Fist of Planar Power.
 [u1764 | 02:00:35.910-02:00:38.130 | DM] That generally won't do more damage than.
 [u1765 | 02:00:39.810-02:00:41.160 | Kenzo] than a regular attack you know.
 [u1766 | 02:00:41.280-02:00:42.570 | DM] Then, then.
@@ -2067,7 +2067,7 @@
 [u2067 | 02:34:49.770-02:34:50.910 | Kenzo] {{Room one}} was here when you need him.
 [u2068 | 02:34:51.060-02:34:55.890 | DM] And there is writing that down writing that spirals all.
 [u2069 | 02:34:55.950-02:34:57.480 | Delwath] up and down the sun, does it say.
-[u2070 | 02:34:58.410-02:35:07.710 | DM] It says no right, you can read all writing it says mad one come to us {{lead}} Jinnik {{how the herd}} just over and over and over.
+[u2070 | 02:34:58.410-02:35:07.710 | DM] It says no right, you can read all writing it says mad one come to us let Jinnik’s howl be heard just over and over and over.
 [u2071 | 02:35:08.580-02:35:09.390 | Kenzo] Who was the last one.
 [u2072 | 02:35:10.260-02:35:10.890 | Unknown] Jinnik.
 [u2073 | 02:35:12.000-02:35:12.510 | Kenzo] who's Jinnik.
@@ -2579,7 +2579,7 @@
 [u2579 | 03:11:54.960-03:11:55.950 | Wellby] Current state.
 [u2580 | 03:11:56.460-03:11:59.370 | Delwath] But the historical story, does he have any like.
 [u2581 | 03:12:00.780-03:12:02.910 | DM] Too recent for him to care about basically.
-[u2582 | 03:12:06.540-03:12:21.240 | DM] And it's sort of like questions the narrative a little bit like Why would the dynasty be so he's kind of like you get the sense like he's like that you know couldn't be important, because it suggests that maybe the gods {{were always}} protecting Nayan rulers.
+[u2582 | 03:12:06.540-03:12:21.240 | DM] And it's sort of like questions the narrative a little bit like Why would the dynasty be so he's kind of like you get the sense like he's like that you know couldn't be important, because it suggests that maybe the gods weren’t always protecting Nayan rulers.
 [u2583 | 03:12:24.120-03:12:25.950 | DM] So 20.
 [u2584 | 03:12:26.970-03:12:30.720 | DM] minutes past, what are you doing to set up a trap here.
 [u2585 | 03:12:31.110-03:12:39.540 | Wellby] So I'm going to put the driftglobe in that room with the ladder in it, but turn it off, so that it can be turned on with the.
@@ -3045,7 +3045,7 @@
 [u3045 | 03:40:44.160-03:40:45.330 | Seeker] Sorry, I only have two.
 [u3046 | 03:40:45.420-03:40:46.380 | Delwath] inspire okay well.
 [u3047 | 03:40:46.920-03:40:48.990 | Delwath] Delwath does not feel very stealthy.
-[u3048 | 03:40:49.650-03:40:53.700 | Kenzo] {{You want to deal with and give one to make an adult within well to hear it}}.
+[u3048 | 03:40:49.650-03:40:53.700 | Kenzo] Give one to Delwath and one to Wellby.
 [u3049 | 03:40:54.060-03:40:55.740 | Seeker] yeah really.
 [u3050 | 03:40:56.160-03:40:59.730 | Wellby] I'm so reliant on that one attack like if it misses yeah.
 [u3051 | 03:41:00.420-03:41:02.160 | Seeker] yeah okay so that's my two.
@@ -3901,7 +3901,7 @@
 [u3901 | 04:27:10.740-04:27:11.640 | Delwath] I hate to.
 [u3902 | 04:27:13.140-04:27:16.290 | Delwath] bail out of the party early, but I really need to go to bed.
 [u3903 | 04:27:16.440-04:27:17.670 | Kenzo] yeah I'm here.
-[u3904 | 04:27:18.900-04:27:20.370 | Kenzo] Can I see a cleansing time it is.
+[u3904 | 04:27:18.900-04:27:20.370 | Kenzo] Can I use a Cleansing Touch?
 [u3905 | 04:27:21.660-04:27:22.050 | DM] Yes.
 [u3906 | 04:27:24.600-04:27:25.740 | Kenzo] This is a charm is it said.
 [u3907 | 04:27:26.490-04:27:29.130 | Delwath] No, no it's a curse all right.

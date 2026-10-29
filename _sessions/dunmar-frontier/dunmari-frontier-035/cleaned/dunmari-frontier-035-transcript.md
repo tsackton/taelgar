@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 35
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-035-source-cleaned.md
 
 ## Transcript
@@ -41,8 +41,8 @@ Kenzo: Staff Tim I need a magic quarterstaff. I need.
 %% u0023:0-21 %%
 DM: A lot of magic items.
 
-%% u0024:0-163, u0025:0-139 %%
-Kenzo: No, no, no, but I need I need like a staff from like the tree of life, like that's what I wanted, I want a living staff that I can like plug into forests and like, you know, communicate with them like I'm gonna I'm going to stack left a staff made from this from like the tree in the {{Center pilgrim}}.
+%% u0024:0-163, u0025:0-136 %%
+Kenzo: No, no, no, but I need I need like a staff from like the tree of life, like that's what I wanted, I want a living staff that I can like plug into forests and like, you know, communicate with them like I'm gonna I'm going to stack left a staff made from this from like the tree in the center of Tokra.
 
 %% u0026:0-18 %%
 Delwath: Yes, yes, a giant.
@@ -116,8 +116,8 @@ DM: And then he turns around and there's like a like a sort of like a drafting b
 %% u0063:0-107, u0064:0-178, u0065:0-156, u0066:0-206 %%
 Kenzo: It's a great question Basu well, maybe I'll start and my companions can can fill out any other details but you know, for the past number of months we've managed to acquire some pretty interesting objects that we'd like to keep safe and keep curious and prying eyes and hands away from. On, and again I know this is part of your speciality is creating such objects that may be able to assist in concealing some some of the some of these types—of these types. Now our challenge, I believe, is there a couple of pretty big objects that we would like to be able to conceal on I mean I don't know exactly what, what are the dimensions of the mirrors Tim?
 
-%% u0067:0-4, u0068:0-158, u0069:0-7, u0070:0-71 %%
-DM: The so let's see, I have to look back at my notes, which one is which, but one of them is is like the sort of size of a modern ish wall mirror right so it's like so the {{biceps beat}}. The other one is smaller, more compact, but very heavy.
+%% u0067:0-4, u0068:0-158, u0069:0-7, u0070:0-70 %%
+DM: The so let's see, I have to look back at my notes, which one is which, but one of them is is like the sort of size of a modern ish wall mirror right so it's like so the five, six feet. The other one is smaller, more compact, but very heavy.
 
 %% u0071:0-190, u0072:0-255, u0073:0-15 %%
 Kenzo: Yeah so basically it's described the dimensions and the weight of the two objects and be like these are, these are the two big ones that we would like to figure out how to conceal if we can. We've been lugging them around with us, and it is not practical and so having something that we could conceal these in would be very useful but uh but I'll let my you know fellow companions if you guys have other desiderata or other things that you would like to add or.
@@ -692,8 +692,8 @@ Unknown: Long breath.
 %% u0430:0-50, u0431:0-13, u0432:0-11 %%
 Delwath: But long in the elvish sense, not the human sense breath of of many years.
 
-%% u0433:0-22, u0434:0-36, u0435:0-61, u0436:0-6, u0437:0-11, u0438:0-28, u0439:0-15, u0440:0-6, u0441:0-28, u0442:0-4, u0443:0-23 %%
-Delwath: I am not a scholar of the ancient legends of the elves or I would not say that I am one of the wise in the elven sense. But I I remember the elders talking about it this word this thing. Sometimes in the stories of how {{America}} came to be.
+%% u0433:0-22, u0434:0-36, u0435:0-61, u0436:0-6, u0437:0-11, u0438:0-28, u0439:0-15, u0440:0-6, u0441:0-28, u0442:0-4, u0443:0-19 %%
+Delwath: I am not a scholar of the ancient legends of the elves or I would not say that I am one of the wise in the elven sense. But I I remember the elders talking about it this word this thing. Sometimes in the stories of how Elmerca came to be.
 
 %% u0444:0-23, u0445:0-37, u0446:0-94, u0447:0-32, u0448:0-35 %%
 DM: Interesting so is this if that has something to do with how well, do the elves know how this diversity of worlds that exists in our multiverse came to be? Is that what the long breath is? Here, your activity—you don't know.
@@ -995,8 +995,8 @@ Delwath: Am I missing another name somewhere in this text trying to think?
 %% u0694:0-8 %%
 DM: Are you.
 
-%% u0695:0-30 %%
-Delwath: Oh yes, I am a DC chica chica.
+%% u0695:0-20 %%
+Delwath: Oh yes, Anida—Anida.
 
 %% u0696:0-9 %%
 DM: Huh okay.
@@ -1268,8 +1268,8 @@ Delwath: North of Chardon?
 %% u0936:0-58, u0937:0-6, u0938:0-83 %%
 DM: Yes, far north, the the lands lands beyond the Great Lake. Where if you look right north of the words Chardonian empire on the map, there's a big—to—
 
-%% u0939:0-44 %%
-Delwath: {{enslave inside rise at night of incited}}?
+%% u0939:0-40 %%
+Delwath: [garbled]
 
 %% u0940:0-133, u0941:0-10, u0942:0-17 %%
 DM: Stretching from the coast many that is as far as the Drankorian empire ever went the Great Lake and so many of the northern cultures persisted. Far to the north.
@@ -1388,14 +1388,14 @@ Delwath: I don't know, I think we how long ago? Let's see, it was a month ago, m
 %% u1002:0-82, u1003:0-80, u1004:0-86, u1005:0-29, u1006:0-104 %%
 Delwath: If somebody took something from the archives, they must have been to the archives. How many people really have gone in and out and been been in the archives since? If we can assume for at, for example, that the archives are not well cataloged, right. That's what um Johar told us. So it seems unlikely that somebody knew exactly what they were looking for without some prep work right?
 
-%% u1007:0-86 %%
-Seeker: It was a person, the person has gone missing if we can find that person's {{minutes}}.
+%% u1007:0-84 %%
+Seeker: It was a person, the person has gone missing if we can find what that person's been…
 
 %% u1008:0-25 %%
 Delwath: Ah right, of course, yes.
 
-%% u1009:0-44 %%
-Seeker: {{Doing lameness}} we don't learn something.
+%% u1009:0-42 %%
+Seeker: Doing lately, maybe we'll learn something.
 
 %% u1010:0-16, u1011:0-3, u1012:0-84 %%
 Delwath: Right, yes, yes to is if if we could find the missing people that would be another direction to pursue.
@@ -3446,8 +3446,8 @@ Delwath: I know what that is.
 %% u2271:0-44, u2272:0-47, u2273:0-87, u2274:0-112, u2275:0-103, u2276:0-54, u2277:0-3 %%
 DM: And it, and these are sort of letters about try there was trying to drive away the, though some a few people who had set up camp there were somehow worshiping part of this place. And it's hard to find it's hard to map, because most of the people who came near to it grew confused and so I'm. There—but there is one approach that seems safe, which I have carefully mapped and given to my troops. And then somebody's written next to that cf bundle 24. Um.
 
-%% u2278:0-46 %%
-Kenzo: But is this is this {{you don't miss a star}}?
+%% u2278:0-36 %%
+Kenzo: But is this is this Eudomes's Tower?
 
 %% u2279:0-30 %%
 Delwath: No, this is the temple to the.
@@ -3927,7 +3927,7 @@ Kenzo: Whatever we decide is main quest basically.
 Seeker: Exactly is the surgery, so it was the update that we got about the three artifacts? We just need to have some information on it.
 
 %% u2575:0-4, u2576:0-253 %%
-Delwath: Now we don't actually know there's three artifacts. We just did that—did that—Tim seems to have confirmed it accidentally, but we did just invent this this session. You know, there are two artifacts: one we have, and one is the cloak that makes the {{godson}}.
+Delwath: Now we don't actually know there's three artifacts. We just did that—did that—Tim seems to have confirmed it accidentally, but we did just invent this this session. You know, there are two artifacts: one we have, and one is the cloak that makes the god's gone.
 
 %% u2577:0-63 %%
 Seeker: But there was something about it in that conversation just now.
@@ -3995,8 +3995,8 @@ Kenzo: Horse person.
 %% u2603:0-57 %%
 Seeker: Yes, you heard she has forsworn monastic life altogether.
 
-%% u2604:0-121 %%
-Kenzo: Yeah, so we got to find her to figure out what the Fuck is going on, it like Fortified Dimitaur. This is like part of that.
+%% u2604:0-123 %%
+Kenzo: Yeah, so we got to find her to figure out what the Fuck is going on, it like for finding Dimitaur. This is like part of that.
 
 %% u2605:0-5 %%
 Unknown: Yeah.
@@ -4074,7 +4074,7 @@ Delwath: That kind of disorganized and you know this guy doesn't seem like a ver
 Kenzo: Did I sense anything with my Soul Sight and then like did he said was he any any if anything's going on?
 
 %% u2641:0-41 %%
-Seeker: {{The student he likes festering wound}}?
+Seeker: Doesn't he have, like, a festering wound?
 
 %% u2642:0-22 %%
 DM: Make an Insight check.

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 37
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-037-source-cleaned.md
 
 ## Transcript
@@ -11,8 +11,8 @@ DM: And now for a slightly different perspective. So.
 %% u0003:0-84, u0004:0-110, u0005:0-183, u0006:0-151, u0007:0-156, u0008:0-195, u0009:0-34, u0010:0-264 %%
 DM: The world turns, night falls, and the stars begin to flicker in the sky over Dunmar. As the Fox and Hunter drift above the horizon, they watch the full moon rising for the 2514th time and listen. Their attention, as always, is drawn to the east and north, where the prayers are the brightest and the loudest, the hopes for safety, healing, peace that echo across the borderlands. They reach out as they do every night, granting what minor miracles they can to the Rangers who keep Sembara safe from the darkness of the Plaguelands. The work is easy tonight as the moon turns to full, the tidal pull of the divine presence grows stronger, filling the land, and the source is easy to reach. The Fox thinks of days running in the forests of the north, and stretches across the world. The Hunter calls to him, reminding him of the task ahead, but remembers the joy of those early days too. Their attention, though, does not stay on the forests and Mostreve Hills of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.
 
-%% u0011:0-223, u0012:0-114, u0013:0-130, u0014:0-181 %%
-DM: The Hunter, always with one small part of his essence watching those who carry echoes of his companions of old, sees the madness pour into the soul of a poor innocent boy, a young dwarf, not even of age in the west of Dunmar. While the Fox tends to the prayers of the Rangers of Sembara, the Hunter watches Dunmar more closely for a moment. Across the desert and dry arid plains—so hard not to cast the land in his mind's eye as it was—the people of the horse are moving. {{Service}} Sura, the sister of the current Samraat, has returned from an unreachable prison, and many people are gathered in her camps, and yet she is not marching to war, not yet.
+%% u0011:0-223, u0012:0-114, u0013:0-130, u0014:0-169 %%
+DM: The Hunter, always with one small part of his essence watching those who carry echoes of his companions of old, sees the madness pour into the soul of a poor innocent boy, a young dwarf, not even of age in the west of Dunmar. While the Fox tends to the prayers of the Rangers of Sembara, the Hunter watches Dunmar more closely for a moment. Across the desert and dry arid plains—so hard not to cast the land in his mind's eye as it was—the people of the horse are moving. Sura, the sister of the current Samraat, has returned from an unreachable prison, and many people are gathered in her camps, and yet she is not marching to war, not yet.
 
 %% u0015:0-236, u0016:0-85 %%
 DM: North of the city of Tokra, an old woman sits by a fire, wondering. The Hunter watches her a moment, sees the prayers streaming to him, asking when the strange travelers of her dreams will arrive, and how much to tell them when they do. He senses the tangled future here but there's little he can do to shape that destiny.
@@ -155,8 +155,8 @@ DM: Y'all have to see what happens.
 %% u0083:0-7 %%
 Kenzo: I mean.
 
-%% u0084:0-49 %%
-Seeker: This is like {{this girl}} involved somehow like?
+%% u0084:0-44 %%
+Seeker: This is like is Beryl involved somehow like?
 
 %% u0085:0-48 %%
 DM: There is little he can do to shape that destiny.
@@ -461,8 +461,8 @@ DM: Oh, yeah let me put out your globes.
 %% u0224:0-66 %%
 Seeker: And my sense is that we are pretty deep underground at this point.
 
-%% u0225:0-72, u0226:0-6, u0227:0-133, u0228:0-61, u0229:0-13, u0230:0-20, u0231:0-56 %%
-DM: No, you're not that deep underground, I think you would know that you're maybe you're probably not more than 20—20 feet underground, {{3315}} feet hard to say, but not not like hundreds of feet underground right. Um and you see—let me get some grotesque animal statues here. Hard to find. Well, you know, what—the statues, as the door swings open these four statues.
+%% u0225:0-72, u0226:0-6, u0227:0-131, u0228:0-61, u0229:0-13, u0230:0-20, u0231:0-56 %%
+DM: No, you're not that deep underground, I think you would know that you're maybe you're probably not more than 20—20 feet underground, 30, 15 feet hard to say, but not not like hundreds of feet underground right. Um and you see—let me get some grotesque animal statues here. Hard to find. Well, you know, what—the statues, as the door swings open these four statues.
 
 %% u0232:0-44 %%
 Delwath: Are we supposed to be able to see something?
@@ -1865,8 +1865,8 @@ Seeker: So right, I think we want to know more history than Arcana, because it i
 %% u0942:0-50, u0943:0-20, u0944:0-30, u0945:0-133, u0946:0-27, u0947:0-143, u0948:0-3 %%
 DM: Okay, um so you look at it, you sort of peer at it. These, so this is a if these aren't these sort of creatures these these like the various kinds of mashups of beasts aren't anything that you have necessarily like read of or heard of. But the combination of the the sort of lack of any information from the soul-sight, the fact that they seem to be like animated statues of some kind I'm reminds you have ah.
 
-%% u0949:0-279 %%
-DM: So so it's not the same so it's doesn't remind you of in the sense that you think these were made by dwarves—like they definitely were not made by dwarves, but it reminds you of um, oh, you even encountered one right there was the in in the the dwarves in caves {{I need a Raven}}.
+%% u0949:0-278 %%
+DM: So so it's not the same so it's doesn't remind you of in the sense that you think these were made by dwarves—like they definitely were not made by dwarves, but it reminds you of um, oh, you even encountered one right there was the in in the the dwarves in caves near Raven’s Hold.
 
 %% u0950:0-15 %%
 Delwath: I have a golem.
@@ -3440,8 +3440,8 @@ Unknown: Um.
 %% u1758:0-3, u1759:0-40, u1760:0-7 %%
 DM: So yeah that's actually enough to kill her. So she.
 
-%% u1761:0-39, u1762:0-49, u1763:0-29 %%
-Kenzo: Will then I will step through here and let me see if I can do some more damage I'll use the physical {{clutter our}}.
+%% u1761:0-39, u1762:0-49, u1763:0-25 %%
+Kenzo: Will then I will step through here and let me see if I can do some more damage I'll use the Fist of Planar Power.
 
 %% u1764:0-41 %%
 DM: That generally won't do more damage than.
@@ -4031,8 +4031,8 @@ DM: And there is writing that down writing that spirals all.
 %% u2069:0-33 %%
 Delwath: Up and down the sun, does it say?
 
-%% u2070:0-131 %%
-DM: It says no right, you can read all writing. It says, "Mad one, come to us, {{lead}} Jinnik {{how the herd}}," just over and over and over.
+%% u2070:0-125 %%
+DM: It says no right, you can read all writing. It says, "Mad one, come to us, let Jinnik’s howl be heard," just over and over and over.
 
 %% u2071:0-21 %%
 Kenzo: Who was the last one?
@@ -4865,8 +4865,8 @@ Wellby: Current state.
 %% u2580:0-48 %%
 Delwath: But the historical story, does he have any like.
 
-%% u2581:0-43, u2582:0-260 %%
-DM: Too recent for him to care about basically. And it's sort of like questions the narrative a little bit like, why would the dynasty be so he's kind of like you get the sense like he's like that you know, couldn't be important, because it suggests that maybe the gods {{were always}} protecting Nayan rulers.
+%% u2581:0-43, u2582:0-259 %%
+DM: Too recent for him to care about basically. And it's sort of like questions the narrative a little bit like, why would the dynasty be so he's kind of like you get the sense like he's like that you know, couldn't be important, because it suggests that maybe the gods weren’t always protecting Nayan rulers.
 
 %% u2583:0-6, u2584:0-55 %%
 DM: So 20 minutes past, what are you doing to set up a trap here?
@@ -5843,8 +5843,8 @@ Seeker: Sorry, I only have two.
 %% u3046:0-18, u3047:0-36 %%
 Delwath: Inspire okay well Delwath does not feel very stealthy.
 
-%% u3048:0-79 %%
-Kenzo: {{You want to deal with and give one to make an adult within well to hear it}}?
+%% u3048:0-38 %%
+Kenzo: Give one to Delwath and one to Wellby?
 
 %% u3049:0-12 %%
 Seeker: Yeah, really.
@@ -7727,8 +7727,8 @@ Kenzo: I feel like I need to be brought in front of some you know, high priests 
 %% u3901:0-10, u3902:0-60 %%
 Delwath: I hate to bail out of the party early, but I really need to go to bed.
 
-%% u3903:0-14, u3904:0-33 %%
-Kenzo: Yeah, I'm here can I see a cleansing [garbled]?
+%% u3903:0-14, u3904:0-28 %%
+Kenzo: Yeah, I’m here. Can I use a Cleansing Touch?
 
 %% u3905:0-4 %%
 DM: Yes.

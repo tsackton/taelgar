@@ -992,7 +992,7 @@
 [u0992 | 01:10:10.590-01:10:12.510 | DM] Fake your way to being a priest.
 [u0993 | 01:10:14.460-01:10:18.540 | DM] But you need magic you need to have the spell it can't be done without magic.
 [u0994 | 01:10:21.180-01:10:23.190 | Delwath] But I think now that we have an actual.
-[u0995 | 01:10:24.570-01:10:34.950 | Delwath] priest, it might retire from the lycanthropy profession it felt like it might a stressed out have a scar but.
+[u0995 | 01:10:24.570-01:10:34.950 | Delwath] priest, it might retire from the lycanthropy profession it felt like it might a stressed out Aaviskar but.
 [u0996 | 01:10:39.270-01:10:40.830 | Kenzo] How long does this process take Riswynn.
 [u0997 | 01:10:45.450-01:10:45.960 | DM] Long.
 [u0998 | 01:10:46.380-01:10:54.360 | Riswynn] No, I mean we can do it now and be sure if you're sure that if you're sure that it's needed i'm happy to start the prayers.
@@ -1024,7 +1024,7 @@
 [u1024 | 01:12:34.500-01:12:40.200 | DM] let's say anybody who's searching the bodies, make an investigation check anybody who's searching rooms make perception check.
 [u1025 | 01:12:42.690-01:12:43.380 | Wellby] Oh.
 [u1026 | 01:12:49.290-01:12:51.450 | DM] well you guys really aren't rolling very well.
-[u1027 | 01:12:51.720-01:12:57.240 | Riswynn] I was paying attention to lay my hands on the seat and Kenzo and saying some prayers What did you say to roll.
+[u1027 | 01:12:51.720-01:12:57.240 | Riswynn] I was paying attention to lay my hands on Seeker and Kenzo and saying some prayers What did you say to roll.
 [u1028 | 01:12:57.780-01:12:59.610 | DM] You don't have to do anything yet i'm.
 [u1029 | 01:12:59.820-01:13:00.690 | Kenzo] Good I are.
 [u1030 | 01:13:00.840-01:13:07.110 | DM] You're busy doing your prayer thing i'm going to deal with the searching first and i'll come back to the prayers OK so i'm.
@@ -2210,7 +2210,7 @@
 [u2210 | 02:37:36.180-02:37:37.260 | DM] When you enter.
 [u2211 | 02:37:38.610-02:37:39.210 | DM] The.
 [u2212 | 02:37:42.000-02:37:43.230 | DM] The the temple.
-[u2213 | 02:37:44.490-02:37:46.290 | DM] The move on, he the.
+[u2213 | 02:37:44.490-02:37:46.290 | DM] The Uvani the.
 [u2214 | 02:37:48.210-02:37:55.290 | DM] Kaleha's assistant she says that Kaleha has been has been eager for news from you.
 [u2215 | 02:37:57.840-02:37:59.340 | Kenzo] Well that's the news.
 [u2216 | 02:38:01.290-02:38:09.930 | DM] And when you approach when you approach her, she is in the middle of she's like looks up from papers that are that are spread all across her desk.
@@ -2804,7 +2804,7 @@
 [u2804 | 03:22:57.810-03:23:06.480 | DM] She would tell you the exact date I just don't remember it in my notes um, but it was like before it was like during the second hobgoblin war right after.
 [u2805 | 03:23:08.010-03:23:15.840 | DM] There was a battle against some group called the Fraternity of the Empty Moon or associated with.
 [u2806 | 03:23:18.090-03:23:21.210 | DM] Lycanthropy and they were driven off.
-[u2807 | 03:23:23.790-03:23:25.470 | DM] And the fort {{marked}}.
+[u2807 | 03:23:23.790-03:23:25.470 | DM] And the fort warded.
 [u2808 | 03:23:27.360-03:23:28.500 | DM] and protected.
 [u2809 | 03:23:31.080-03:23:32.550 | DM] But, over time, I guess that.
 [u2810 | 03:23:34.950-03:23:37.410 | DM] The importance of such Defense fell into.

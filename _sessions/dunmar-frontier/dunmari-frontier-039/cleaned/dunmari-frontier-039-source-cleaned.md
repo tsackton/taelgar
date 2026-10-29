@@ -985,7 +985,7 @@
 [u0985 | 01:16:08.910-01:16:11.700 | DM] it's like yeah you can almost hear that sizzle.
 [u0986 | 01:16:11.850-01:16:12.180 | Unknown] So.
 [u0987 | 01:16:13.350-01:16:15.990 | DM] And whispers are coming they're coming they're coming.
-[u0988 | 01:16:18.750-01:16:28.020 | DM] If all is lost, maybe all is not lost, you will hear the whispers, then you will see, you will help {{you affect set}} when the time is right.
+[u0988 | 01:16:18.750-01:16:28.020 | DM] If all is lost, maybe all is not lost, you will hear the whispers, then you will see, you will help you will fix it when the time is right.
 [u0989 | 01:16:31.080-01:16:31.830 | DM] And he looks.
 [u0990 | 01:16:32.490-01:16:34.170 | DM] As he falls forward.
 [u0991 | 01:16:36.300-01:16:39.900 | DM] In a moment of kind of triumph, and also despair.
@@ -1460,7 +1460,7 @@
 [u1460 | 01:50:05.700-01:50:13.110 | DM] disintegrates into the slime that sort of spreads out across the ground oh actually sorry before you do, that I keep forgetting make a wisdom saving throw.
 [u1461 | 01:50:13.620-01:50:16.770 | DM] Now, if you actually get to do any of that.
 [u1462 | 01:50:16.860-01:50:20.190 | Seeker] thing was was friends with a creature from.
-[u1463 | 01:50:21.600-01:50:22.290 | Seeker] Food punk.
+[u1463 | 01:50:21.600-01:50:22.290 | Seeker] Cthulupunk.
 [u1464 | 01:50:22.710-01:50:24.720 | DM] Yes, you get to do you get to do that.
 [u1465 | 01:50:25.740-01:50:26.970 | DM] Your turn happens as normal.
 [u1466 | 01:50:28.170-01:50:28.890 | DM] Ah.
@@ -2267,7 +2267,7 @@
 [u2267 | 02:46:09.240-02:46:13.140 | DM] not in a position to do anything unless you're offering the something other than death.
 [u2268 | 02:46:15.000-02:46:21.930 | Kenzo] Well, depends a little a lot on what you know and what you might be able to illuminate to us about your plans.
 [u2269 | 02:46:22.770-02:46:24.360 | DM] Why should I tell you anything?
-[u2270 | 02:46:25.710-02:46:27.840 | Kenzo] {{Because we might be just going to be killed}}.
+[u2270 | 02:46:25.710-02:46:27.840 | Kenzo] Because otherwise you’re just going to be killed.
 [u2271 | 02:46:28.530-02:46:30.690 | Kenzo] We might be able to offer you an alternate to death.
 [u2272 | 02:46:32.160-02:46:33.090 | DM] And what would that be?
 [u2273 | 02:46:36.060-02:46:41.640 | Kenzo] Good question, we might have to chat a little bit about it, but we could we could.
@@ -2673,7 +2673,7 @@
 [u2673 | 03:15:11.760-03:15:12.210 | DM] wow.
 [u2674 | 03:15:13.980-03:15:24.000 | DM] Ah, so just to like wrap things up somewhere we'll start next time and then happy to chat more about where things are but.
 [u2675 | 03:15:27.570-03:15:31.860 | DM] So, after having interrogated these werewolves you what.
-[u2676 | 03:15:34.320-03:15:42.180 | Delwath] I think the plan, we stated, is the same plan right we're gonna Riswynn's gonna cure the woman and we're giving the other one to {{die}}.
+[u2676 | 03:15:34.320-03:15:42.180 | Delwath] I think the plan, we stated, is the same plan right we're gonna Riswynn's gonna cure the woman and we're giving the other one to Kaleha.
 [u2677 | 03:15:42.750-03:15:42.930 | DM] To.
 [u2678 | 03:15:43.020-03:15:43.890 | Delwath] Do whatever she wants.
 [u2679 | 03:15:44.610-03:15:52.200 | DM] yeah so you'll you'll go back to town, basically, I mean one option would be, we can just kind of hand wave to going back to town stuff.

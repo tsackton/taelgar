@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 38
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-038-source-cleaned.md
 
 ## Transcript
@@ -1670,8 +1670,8 @@ Delwath: Is to fake it, though.
 %% u0989:0-39, u0990:0-5, u0991:0-19, u0992:0-32, u0993:0-77 %%
 DM: Technically possible to fake it if you. Yeah. If you can sort of fake your way to being a priest. But you need magic. You need to have the spell; it can't be done without magic.
 
-%% u0994:0-39, u0995:0-109 %%
-Delwath: But I think now that we have an actual priest, it might retire from the lycanthropy profession; it felt like it might a stressed out have a scar but.
+%% u0994:0-39, u0995:0-106 %%
+Delwath: But I think now that we have an actual priest, it might retire from the lycanthropy profession; it felt like it might a stressed out Aaviskar but.
 
 %% u0996:0-40 %%
 Kenzo: How long does this process take Riswynn?
@@ -1736,8 +1736,8 @@ Wellby: Oh.
 %% u1026:0-46 %%
 DM: Well you guys really aren't rolling very well.
 
-%% u1027:0-110 %%
-Riswynn: I was paying attention to lay my hands on the seat and Kenzo and saying some prayers. What did you say to roll?
+%% u1027:0-108 %%
+Riswynn: I was paying attention to lay my hands on Seeker and Kenzo and saying some prayers. What did you say to roll?
 
 %% u1028:0-38 %%
 DM: You don't have to do anything yet I'm.
@@ -3887,8 +3887,8 @@ Delwath: You know that's fine.
 %% u2202:0-102, u2203:0-11 %%
 Riswynn: OK OK, so the two of you are handling this end of things and the rest of us are going over to the inn. I mean the.
 
-%% u2204:0-12, u2205:0-28, u2206:0-114, u2207:0-39, u2208:0-45, u2209:0-23, u2210:0-15, u2211:0-4, u2212:0-15, u2213:0-20, u2214:0-82 %%
-DM: Right style. So Kenzo you arrived at the—at the door at the sort of main temple complex it's now maybe 4:30, 5. The sun is not yet too low in the sky being still relatively close to the solstice. Clearly there's been a lot of activity today—today, though, and I'm. When you enter the—the—the temple, the move on, he the Kaleha's assistant, she says that Kaleha has been has been eager for news from you.
+%% u2204:0-12, u2205:0-28, u2206:0-114, u2207:0-39, u2208:0-45, u2209:0-23, u2210:0-15, u2211:0-4, u2212:0-15, u2213:0-14, u2214:0-82 %%
+DM: Right style. So Kenzo you arrived at the—at the door at the sort of main temple complex it's now maybe 4:30, 5. The sun is not yet too low in the sky being still relatively close to the solstice. Clearly there's been a lot of activity today—today, though, and I'm. When you enter the—the—the temple, the Uvani the Kaleha's assistant, she says that Kaleha has been has been eager for news from you.
 
 %% u2215:0-21 %%
 Kenzo: Well that's the news.
@@ -4808,8 +4808,8 @@ DM: Historian. It was—place people do not travel. Said to be a dark place of b
 %% u2797:0-73 %%
 Delwath: I think that place was their goal, I think it's holy to them in some way.
 
-%% u2798:0-7, u2799:0-10, u2800:0-120, u2801:0-122, u2802:0-17, u2803:0-30, u2804:0-154, u2805:0-97, u2806:0-37, u2807:0-24, u2808:0-14, u2809:0-29, u2810:0-41, u2811:0-7, u2812:0-29, u2813:0-27, u2814:0-40, u2815:0-22, u2816:0-37 %%
-DM: Or was—rumors of—I was telling your companion Kenzo of rumors the last time, there were lycanthropes in the city and I asked my Uvani to look up some records, while you were gone and it is indeed the case that, at least according to the records, we have that some hundred and hundred odd or more years ago. She would tell you the exact date I just don't remember it in my notes um, but it was like before it was like during the second hobgoblin war right after. There was a battle against some group called the Fraternity of the Empty Moon or associated with lycanthropy and they were driven off. And the fort {{marked}} and protected. But, over time, I guess that the importance of such defense fell into legend. The watch was no longer kept, hundred years ago, or more. And no rumor of such things, since then. Could they be related to this Fraternity of the Empty Moon?
+%% u2798:0-7, u2799:0-10, u2800:0-120, u2801:0-122, u2802:0-17, u2803:0-30, u2804:0-154, u2805:0-97, u2806:0-37, u2807:0-20, u2808:0-14, u2809:0-29, u2810:0-41, u2811:0-7, u2812:0-29, u2813:0-27, u2814:0-40, u2815:0-22, u2816:0-37 %%
+DM: Or was—rumors of—I was telling your companion Kenzo of rumors the last time, there were lycanthropes in the city and I asked my Uvani to look up some records, while you were gone and it is indeed the case that, at least according to the records, we have that some hundred and hundred odd or more years ago. She would tell you the exact date I just don't remember it in my notes um, but it was like before it was like during the second hobgoblin war right after. There was a battle against some group called the Fraternity of the Empty Moon or associated with lycanthropy and they were driven off. And the fort warded and protected. But, over time, I guess that the importance of such defense fell into legend. The watch was no longer kept, hundred years ago, or more. And no rumor of such things, since then. Could they be related to this Fraternity of the Empty Moon?
 
 %% u2817:0-63, u2818:0-49 %%
 Delwath: They what do they call themselves in the scroll they send this? They did say something about an empty moon right?

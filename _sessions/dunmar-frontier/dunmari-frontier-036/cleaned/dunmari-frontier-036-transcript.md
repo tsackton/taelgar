@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 36
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-036-source-cleaned.md
 
 ## Transcript
@@ -3965,8 +3965,8 @@ DM: Okay.
 %% u2369:0-3 %%
 Seeker: So—
 
-%% u2370:0-93 %%
-Delwath: {{Our recap as}} probably have See Invisibility and they’re going to see the clairvoyant eye.
+%% u2370:0-88 %%
+Delwath: Our captors probably have See Invisibility and they’re going to see the clairvoyant eye.
 
 %% u2371:0-214, u2372:0-5, u2373:0-18 %%
 Seeker: It's just a glowing ball or whatever, um, yeah, it's true. It's interesting, if the friends are there, they'll know. Maybe anyway they probably aren't Chardonians, um, I'm going to place it in the commander's tent. With—start with vision.
