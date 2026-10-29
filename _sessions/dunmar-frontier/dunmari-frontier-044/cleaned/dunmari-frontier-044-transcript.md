@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 44
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-044-source-cleaned.md
 
 ## Transcript
@@ -26,8 +26,8 @@ Wellby: And immediately immediately before the spell is cast I had my hand up li
 %% u0010:0-51, u0011:0-15, u0012:0-9, u0013:0-13 %%
 Kenzo: Right right right yeah it comes out just just in a. [garbled]. Ready to. [garbled].
 
-%% u0014:0-6, u0015:0-88, u0016:0-81, u0017:0-149, u0018:0-96, u0019:0-79, u0020:0-145 %%
-DM: As we, begin our adventure tonight, a camera pans over a group of five adventurers on the road, surrounded by a pair of dead wyverns in the midst of an escalating confrontation, the rolling grasslands [garbled] stretching all directions, forest trees dotting land, the heat of the morning vanishing in the afternoon. Our adventurers have traveled for the past five days towards Darba following rumors of treasure. On this road, the rumors of danger grew: bandits in the Copper Hills, a dragon. The adventurers avoided battle with the bandits rumored to be making trouble in these parts and proceeded cautiously, alert for signs of trouble.
+%% u0014:0-6, u0015:0-88, u0016:0-81, u0017:0-148, u0018:0-96, u0019:0-79, u0020:0-145 %%
+DM: As we, begin our adventure tonight, a camera pans over a group of five adventurers on the road, surrounded by a pair of dead wyverns in the midst of an escalating confrontation, the rolling grasslands of the Copper Hills stretching all directions, forest trees dotting land, the heat of the morning vanishing in the afternoon. Our adventurers have traveled for the past five days towards Darba following rumors of treasure. On this road, the rumors of danger grew: bandits in the Copper Hills, a dragon. The adventurers avoided battle with the bandits rumored to be making trouble in these parts and proceeded cautiously, alert for signs of trouble.
 
 %% u0021:0-40 %%
 Delwath: You turn down the music a tiny bit then.
@@ -117,7 +117,7 @@ Kenzo: Are you helping the fucking Chardonians?
 Unknown: Well.
 
 %% u0081:0-37, u0082:0-13, u0083:0-44 %%
-Wellby: Actually, also a mechanical question. Yeah, Seeker. {{That a term so this test that you exist}}.
+Wellby: Actually, also a mechanical question. Yeah, Seeker. Can Seeker tell that a charm spell was cast?
 
 %% u0084:0-75 %%
 DM: Ah, given that you're a relatively experienced magic user, I would say yes.
@@ -983,8 +983,8 @@ Delwath: No, no. Kind of. The king. I can't remember the king's name.
 %% u0568:0-10 %%
 Kenzo: All right.
 
-%% u0569:0-32, u0570:0-5, u0571:0-7, u0572:0-37, u0573:0-31, u0574:0-11, u0575:0-15, u0576:0-68 %%
-Delwath: I always want to call them daya. Come. Kadmos. My companion's friend here, Johar is bringing important messages to {{US and}}, there was some hard to know what that will bring, but I do not expect we will stay.
+%% u0569:0-32, u0570:0-5, u0571:0-7, u0572:0-37, u0573:0-31, u0574:0-7, u0575:0-15, u0576:0-68 %%
+Delwath: I always want to call them daya. Come. Kadmos. My companion's friend here, Johar is bringing important messages to Karnas, there was some hard to know what that will bring, but I do not expect we will stay.
 
 %% u0577:0-5 %%
 Seeker: Well.
@@ -1019,8 +1019,8 @@ DM: She was a ancient creature of chaotic evil. I'm sure.
 %% u0593:0-33 %%
 Kenzo: Who's gonna talk right now, what?
 
-%% u0594:0-34 %%
-DM: {{She accumulated is truly safe}}.
+%% u0594:0-38 %%
+DM: Nothing she accumulated is truly safe.
 
 %% u0595:0-24 %%
 Kenzo: Who's talking right now?
@@ -1379,8 +1379,8 @@ Kenzo: Kenzo just looks at all of the Chardonians. So just to be clear, all of y
 %% u0805:0-37 %%
 DM: Make an Insight check with advantage.
 
-%% u0806:0-33 %%
-Riswynn: {{him Father so setting}} Hektor.
+%% u0806:0-32 %%
+Riswynn: [garbled] soul-sighting Hektor.
 
 %% u0807:0-5 %%
 Unknown: Yeah.
@@ -1724,8 +1724,8 @@ Wellby: This is what we can offer.
 %% u1013:0-21, u1014:0-72, u1015:0-36, u1016:0-77 %%
 Wellby: More maps of Eastern, I mean maps to the for where what's his name died maps through the maze, maps enough for a dozen expeditions, to the ruins of Eastern Dunmar that not even the humans have [garbled].
 
-%% u1017:0-57, u1018:0-14 %%
-Seeker: {{Is that they will fit your feel free to friend arcas}}, now, entombed.
+%% u1017:0-36, u1018:0-14 %%
+Seeker: Feel free to visit our friend Arcus, now, entombed.
 
 %% u1019:0-32, u1020:0-70, u1021:0-40 %%
 Wellby: Don't know much about academics, but I know that sometimes the promise of future rewards is worth more, than the middling reward in the present.

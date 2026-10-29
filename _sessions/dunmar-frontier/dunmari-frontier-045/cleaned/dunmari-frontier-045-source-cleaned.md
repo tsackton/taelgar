@@ -4,7 +4,7 @@
 [u0004 | 00:00:04.620-00:00:05.400 | Kenzo] amazing photo.
 [u0005 | 00:00:07.500-00:00:08.820 | DM] I don't know what just happened there.
 [u0006 | 00:00:10.019-00:00:13.110 | Kenzo] you're about to reveal to us the secrets of the Society of the Open Scroll and then you.
-[u0007 | 00:00:13.920-00:00:16.619 | Seeker] think the sentence 30 garage is working for.
+[u0007 | 00:00:13.920-00:00:16.619 | Seeker] think the sentence 30 Grash is working for.
 [u0008 | 00:00:16.800-00:00:19.110 | Kenzo] yeah here is the org chart.
 [u0009 | 00:00:19.140-00:00:20.190 | Seeker] And it is.
 [u0010 | 00:00:20.520-00:00:20.940 | Unknown] And then.
@@ -116,7 +116,7 @@
 [u0116 | 00:08:16.470-00:08:19.980 | Kenzo] I don't think it's necessary for us to kill it doesn't feel like it's doing anything uncalled for.
 [u0117 | 00:08:22.740-00:08:25.020 | Kenzo] I mean you guys really want to kill it I'll help you, but I.
 [u0118 | 00:08:26.310-00:08:28.350 | Kenzo] don't see the reason to right now.
-[u0119 | 00:08:31.620-00:08:34.920 | Wellby] We should probably {{live with it, and so you know it's killing me}}.
+[u0119 | 00:08:31.620-00:08:34.920 | Wellby] We should probably leave it until we know it's killing people.
 [u0120 | 00:08:39.000-00:08:41.190 | Kenzo] I'm sure that's the goal right now, Delwath what do you want to do.
 [u0121 | 00:08:44.100-00:08:44.580 | Delwath] Think.
 [u0122 | 00:08:50.250-00:08:50.550 | Unknown] It.
@@ -715,7 +715,7 @@
 [u0715 | 00:51:06.150-00:51:07.260 | Delwath] description, we have.
 [u0716 | 00:51:19.980-00:51:22.710 | DM] was a while ago that he passed through though maybe.
 [u0717 | 00:51:26.160-00:51:29.070 | DM] Maybe, two months ago, almost.
-[u0718 | 00:52:01.860-00:52:06.600 | DM] {{I think just didn't speak to them, I think, just done Marty ironed up off}}.
+[u0718 | 00:52:01.860-00:52:06.600 | DM] I think just didn't speak to them, I think, just Dunmari hired up.
 [u0719 | 00:52:07.770-00:52:09.600 | DM] Before crossing the Copper Hills.
 [u0720 | 00:52:11.580-00:52:14.400 | DM] They didn't continue to Darba with him.
 [u0721 | 00:52:22.740-00:52:23.490 | Delwath] Any other.

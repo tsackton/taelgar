@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 46
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-046-source-cleaned.md
 
 ## Transcript
@@ -824,8 +824,8 @@ DM: You also have a letter—
 %% u0495:0-5 %%
 Unknown: From.
 
-%% u0496:0-27, u0497:0-177 %%
-DM: {{A lawyer that hi kayla}} that's, yeah, we—like, these are good people, you know, just to kind of letter of introduction that might get you an audience with whoever the high priest here as, that sort of thing.
+%% u0496:0-7, u0497:0-177 %%
+DM: Kaleha that's, yeah, we—like, these are good people, you know, just to kind of letter of introduction that might get you an audience with whoever the high priest here as, that sort of thing.
 
 %% u0498:0-9, u0499:0-10 %%
 Wellby: Is there something.
@@ -1469,8 +1469,8 @@ Kenzo: Oh that's getting blasted.
 %% u0892:0-34, u0893:0-86 %%
 Delwath: I thought we were heading to like up here, like up this—where are the—where that—where are these people who worship Rai?
 
-%% u0894:0-35, u0895:0-104, u0896:0-18, u0897:0-16 %%
-DM: Don't really know. There's this guy in Chardon. He wrote his travelogue, and it's somewhere up this river, the river that Chardon's on. He went [garbled]. So if you don't—
+%% u0894:0-35, u0895:0-104, u0896:0-17, u0897:0-16 %%
+DM: Don't really know. There's this guy in Chardon. He wrote his travelogue, and it's somewhere up this river, the river that Chardon's on. He went upriver [garbled]. So if you don't—
 
 %% u0898:0-23 %%
 Delwath: Go up river along that.
@@ -2171,8 +2171,8 @@ Delwath: Will spend the October.
 %% u1280:0-5 %%
 Unknown: Yeah.
 
-%% u1281:0-112, u1282:0-267, u1283:0-90 %%
-DM: Yeah, you might not be able to go straight over the mountains, you might need to go under and through Sembara or—but like seriously, there's literally no point in making plans about what you're going to do once you get to the mountains, because so much stuff is going to happen. But there's many take you—many routes that could take you from the forest to—I mean, for all you know—Yezali will have some way to teleport you back to the right portal that Delwath [garbled].
+%% u1281:0-112, u1282:0-267, u1283:0-92 %%
+DM: Yeah, you might not be able to go straight over the mountains, you might need to go under and through Sembara or—but like seriously, there's literally no point in making plans about what you're going to do once you get to the mountains, because so much stuff is going to happen. But there's many take you—many routes that could take you from the forest to—I mean, for all you know—Yezali will have some way to teleport you back to the right portal that Delwath fell out of.
 
 %% u1284:0-9 %%
 Delwath: Day yeah.
@@ -2285,8 +2285,8 @@ Riswynn: Can we take a couple of your drafts since you're still with us?
 %% u1367:0-13, u1368:0-167, u1369:0-8, u1370:0-17 %%
 DM: Oh sure sure. Orders some beers and stuff. Fish stew, but it's made in the like dwarven style, just replacing the fish with like mutton or whatever or mushrooms, whatever traditional— dwarven. It's pretty good.
 
-%% u1371:0-26, u1372:0-22, u1373:0-39, u1374:0-193 %%
-DM: You sit and you wait, and 15 minutes later this like middle aged ish dwarf, also a man blonde beard, blonde hair, wearing a helmet and and chain mail, axe strapped to his back. Like, you know, clearly somebody who's {{not been used to combat}} but probably not as strong as you all are.
+%% u1371:0-26, u1372:0-22, u1373:0-39, u1374:0-186 %%
+DM: You sit and you wait, and 15 minutes later this like middle aged ish dwarf, also a man blonde beard, blonde hair, wearing a helmet and and chain mail, axe strapped to his back. Like, you know, clearly somebody who's not unused to combat but probably not as strong as you all are.
 
 %% u1375:0-21, u1376:0-18, u1377:0-57, u1378:0-37, u1379:0-3, u1380:0-23, u1381:0-22 %%
 DM: Walks over and is he you you recognize him he's like a distant cousin or something right you've seen seen this guy around or anyways. And looking over at Seeker “Who is your companion?”

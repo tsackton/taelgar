@@ -493,7 +493,7 @@
 [u0493 | 00:40:20.040-00:40:23.250 | Riswynn] largely relating to getting Johar a ship to Nayahar right.
 [u0494 | 00:40:25.140-00:40:26.460 | DM] You also have a letter.
 [u0495 | 00:40:26.550-00:40:27.300 | Unknown] From.
-[u0496 | 00:40:28.470-00:40:30.240 | DM] {{A lawyer that hi kayla}}.
+[u0496 | 00:40:28.470-00:40:30.240 | DM] Kaleha.
 [u0497 | 00:40:30.270-00:40:40.560 | DM] that's yeah we like these are good people you know just to kind of letter of introduction that might get you an audience with whoever the high priest here as that sort of thing.
 [u0498 | 00:40:41.880-00:40:42.210 | Wellby] Is there.
 [u0499 | 00:40:43.260-00:40:43.620 | Wellby] Something.
@@ -893,7 +893,7 @@
 [u0893 | 01:13:09.870-01:13:14.910 | Delwath] up here like up this where are the where that where are these people who worship, Rai.
 [u0894 | 01:13:14.940-01:13:16.920 | DM] don't really know there's this guy.
 [u0895 | 01:13:18.120-01:13:25.710 | DM] in Chardon he wrote his travelogue and it's somewhere up this river the river that Chardon's on he went.
-[u0896 | 01:13:25.770-01:13:27.120 | DM] Up route bathroom.
+[u0896 | 01:13:25.770-01:13:27.120 | DM] Upriver bathroom.
 [u0897 | 01:13:27.690-01:13:28.320 | DM] So if you don't.
 [u0898 | 01:13:28.980-01:13:30.180 | Delwath] go up river along that.
 [u0899 | 01:13:30.180-01:13:32.670 | DM] river unless you go find Gnaeus.
@@ -1280,7 +1280,7 @@
 [u1280 | 01:40:45.150-01:40:45.420 | Unknown] yeah.
 [u1281 | 01:40:46.770-01:40:52.740 | DM] yeah you might not be able to go straight over the mountains, you might need to go under and through Sembara or.
 [u1282 | 01:40:53.250-01:41:09.030 | DM] But like seriously there's literally no point in making plans about what you're going to do, once you get to the mountains, because so much stuff is going to happen, but there's many take you many routes that could take you from the forest to I mean for all you know.
-[u1283 | 01:41:10.110-01:41:14.820 | DM] Yezali will have some way to teleport you back to the right portal that Delwath till that.
+[u1283 | 01:41:10.110-01:41:14.820 | DM] Yezali will have some way to teleport you back to the right portal that Delwath fell out of.
 [u1284 | 01:41:16.230-01:41:16.680 | Delwath] Day yeah.
 [u1285 | 01:41:17.130-01:41:17.580 | Wellby] Nice.
 [u1286 | 01:41:17.940-01:41:19.890 | DM] All right, we'll be right in Grash's lair.
@@ -1371,7 +1371,7 @@
 [u1371 | 01:48:55.260-01:48:56.490 | DM] You sit and you wait, and.
 [u1372 | 01:48:57.570-01:48:59.010 | DM] 15 minutes later this.
 [u1373 | 01:49:03.210-01:49:08.010 | DM] Like middle aged ish dwarf, also a man.
-[u1374 | 01:49:09.300-01:49:24.270 | DM] blonde beard blonde hair wearing a helmet and and chain mail axe strapped to his back like you know clearly somebody who's {{not been used to combat}} but probably not as strong as you all are.
+[u1374 | 01:49:09.300-01:49:24.270 | DM] blonde beard blonde hair wearing a helmet and and chain mail axe strapped to his back like you know clearly somebody who's not unused to combat but probably not as strong as you all are.
 [u1375 | 01:49:25.560-01:49:27.120 | DM] walks over and is he.
 [u1376 | 01:49:27.210-01:49:28.590 | DM] You you recognize.
 [u1377 | 01:49:28.590-01:49:31.260 | DM] him he's like a distant cousin or something right you've.
