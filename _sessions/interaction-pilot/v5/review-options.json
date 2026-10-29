@@ -2,10 +2,48 @@
   "sourceRevision": "5c88c732cad96082b20786df99e9cca6d395267f",
   "excludedEntities": {
     "mawar-adventures-003": {
-      "treasure": "Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule."
+      "treasure": "Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule.",
+      "crossbow": "Routine warning and combat use of an existing magical weapon.",
+      "spear": "Routine attacks and killing blows with an existing returning weapon; no change to the spear itself.",
+      "sword": "Routine use of an existing teleportation charge to escape mud.",
+      "jars": "The grouped containers duplicate the significant discoveries already retained separately: the pearl, ancient texts and unusual obsidian jar."
     },
     "lost-in-the-feywild-001": {
-      "promised-hoard": "An undifferentiated promise of gold, gems and jewelry; excluded under the user's ordinary-treasure rule."
+      "promised-hoard": "An undifferentiated promise of gold, gems and jewelry; excluded under the user's ordinary-treasure rule.",
+      "recovered-books": "Generic objects from a previous job mentioned as background, without a new discovery or continuing item-specific plot role here.",
+      "cleaning-bar": "A household convenience used for washing and scoped for possible later theft; it is not acquired or shown to matter to the plot.",
+      "kitchen-provisions": "Incidental magical furnishings serving food; their operation does not create a significant item event.",
+      "grandfather-clock": "Incidental room furnishing and timekeeping; no acquisition or consequential revelation about the clock.",
+      "gardening-tapestries": "Decorative scenes inspected for atmosphere; no acquired object or established plot-bearing clue in this session.",
+      "cellar-key": "An NPC uses a key for an ordinary door-opening step; the portal doorway, rather than this key, carries the plot significance."
+    },
+    "dunmari-frontier-007": {
+      "runic-die": "A familiar die used for travel-planning jokes; no acquisition, consequential discovery or established plot role.",
+      "disc-coin": "Routine use of an existing magic item as moving bait during combat; nothing significant happens to the coin itself.",
+      "draconic-staff": "A carried-inventory reminder and language correction; this session establishes no new acquisition, property or plot-bearing event for the staff."
+    },
+    "dunmari-frontier-058": {
+      "shatterstorm": "Routine attacks and door-breaking with an existing magical weapon; no new acquisition, destruction, exchange or item revelation.",
+      "maul": "Routine attacks and an existing weapon ability used in combat; no significant change to the item.",
+      "boots": "Routine scouting and combat movement using known flight equipment.",
+      "return-tokens": "A reminder and use of the established personal return option; no newly acquired object or significant item revelation.",
+      "growth-potion": "An existing combat consumable used for its expected effect; ordinary consumption does not count as meaningful item destruction.",
+      "strength-potion": "An existing combat consumable used to enhance strength; no acquisition or unusual discovery."
+    },
+    "dunmari-frontier-064": {
+      "jump-ring": "Routine movement with an existing ring, including lava and vortex crossings.",
+      "message-stone": "Routine communication using an existing item; the message content belongs to the conversation rather than a separate equipment record."
+    },
+    "into-the-chasm-004": {
+      "ring": "Routine use of a known divination ability; learning facts about the realm does not establish a new discovery about the ring.",
+      "quiver": "Routine loading of existing magical equipment; the newly retrieved planar metal has its own retained discovery record.",
+      "ice-sword": "A weapon manifested and displayed during threats; no separate acquisition, destruction or item-specific plot revelation.",
+      "platform": "An incidental stepping platform moved for traversal; the damaged planar mechanism is the plot-relevant structure.",
+      "portal-rope": "Ordinary safety equipment used for a crossing; no distinct item event or plot role."
+    },
+    "labyrinths-of-the-lost-002": {
+      "ring": "Repeated use of an existing detection item to monitor nearby enemies.",
+      "plate": "Ordinary silver altar ware, considered as an improvised mirror in an abandoned tactic; no established special property or plot role."
     }
   }
 }

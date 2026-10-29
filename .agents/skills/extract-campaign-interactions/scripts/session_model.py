@@ -275,7 +275,7 @@ def render(data, vault, output, findings=None, source_revision=None, excluded=No
     if not entities:
         lines += ['', 'No entity records.']
     if excluded:
-        lines += ['', f'{len(excluded)} ordinary-treasure record(s) omitted from this list; see [display exclusions](#display-exclusions).']
+        lines += ['', f'{len(excluded)} item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).']
     covered_observations = set()
     for e in entities:
         records = records_by_entity[e['id']]
@@ -324,8 +324,8 @@ def render(data, vault, output, findings=None, source_revision=None, excluded=No
         lines += ['## Other audit observations', '']
         lines += [f'- `{o["target"]}`: {o["reason"]}' for o in remaining] + ['']
     if excluded:
-        lines += ['## Display exclusions', '', '<details>', '<summary>Ordinary treasure omitted from the entity review</summary>', '',
-                  'These entries remain in the original JSON and audit history. They are excluded from this review under the ordinary-treasure rule.', '']
+        lines += ['## Display exclusions', '', '<details>', '<summary>Items omitted under the selection rule</summary>', '',
+                  'These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.', '']
         by_id = {e['id']: e for e in data.get('entities', [])}
         lines += [f'- **{by_id[eid]["label"]}** (`{eid}`): {reason}' for eid, reason in excluded.items()]
         lines += ['', '</details>', '']

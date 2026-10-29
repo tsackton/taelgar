@@ -2,7 +2,7 @@
 
 [All sessions](../README.md) · [Original session JSON](session.json)
 
-**22 entities** · 0 provisional · Played 2021-11-27
+**18 entities** · 0 provisional · Played 2021-11-27
 
 Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
 
@@ -42,17 +42,13 @@ AI summaries are review aids. Confidence and review labels below are the saved a
 | [Ancient Texts of Yerkir-Khor](#entity-7465787473) | Item | [Ancient Texts of Yerkir-Khor](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Ancient%20Texts%20of%20Yerkir-Khor.md) | high confidence · automated review |
 | [Gargoyles’ stone keys](#entity-6b657973) | Item | No linked page | high confidence · automated review |
 | [Hiyasa’s treasure map](#entity-6d6170) | Item | [Hiyasa's Treasure Map](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Hiyasa%27s%20Treasure%20Map.md) | high confidence · automated review |
-| [Kaleho’s crossbow of warning](#entity-63726f7373626f77) | Item | No linked page | high confidence · automated review |
 | [Kaleho’s merfolk artifact](#entity-6d6572666f6c6b2d6172746966616374) | Item | No linked page | high confidence · automated review |
-| [Nerissa’s teleporting sword](#entity-73776f7264) | Item | No linked page | high confidence · automated review |
 | [Obsidian-topped bottomless jar](#entity-6f6273696469616e2d6a6172) | Item | No linked page | high confidence · automated review |
 | [Pearl of power](#entity-706561726c) | Item | No linked page | high confidence · automated review |
-| [Ryu’s returning spear](#entity-7370656172) | Item | No linked page | high confidence · automated review |
-| [Six gem-topped funerary jars](#entity-6a617273) | Item | No linked page | high confidence · automated review |
 | [Snake-headed statue in the upper hall](#entity-736e616b652d737461747565) | Item | No linked page | high confidence · automated review |
 | [Trok’s unfinished family letter](#entity-66616d696c792d6c6574746572) | Item | No linked page | high confidence · automated review |
 
-1 ordinary-treasure record(s) omitted from this list; see [display exclusions](#display-exclusions).
+5 item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).
 
 <a id="entity-686979617361"></a>
 
@@ -757,47 +753,6 @@ Primary: [u3758–u3780](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 [Back to entity list](#entity-list)
 
 
-<a id="entity-63726f7373626f77"></a>
-
-## Kaleho’s crossbow of warning
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Kaleho’s magical crossbow warns him as the gargoyles attack and remains his weapon against the stone guardian.
-
-<details>
-<summary>Review evidence</summary>
-
-Kaleho explicitly calls it a crossbow of warning and obtains the surprise exception; its later use while restrained is directly described, so inclusion is more than routine weapon inventory.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Interacted · supporting
-
-The crossbow’s warning lets Kaleho react as the gargoyles attack.
-
-Scenes: [11](#scene-11) · high confidence · automated review · ID: `crossbow-warning`
-
-Primary: [u1296–u1318](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1296-L1318)
-
-### Interacted · supporting
-
-Kaleho shoots the guardian while restrained in a stone hand.
-
-Scenes: [17](#scene-17) · high confidence · automated review · ID: `crossbow-guardian`
-
-Primary: [u3194–u3215](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3194-L3215)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
 <a id="entity-6d6572666f6c6b2d6172746966616374"></a>
 
 ## Kaleho’s merfolk artifact
@@ -825,39 +780,6 @@ Kaleho offers his treasured merfolk artifact, angering the guardian further.
 Scenes: [16](#scene-16) · high confidence · automated review · ID: `merfolk-offering`
 
 Primary: [u2535–u2560](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2535-L2560)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-73776f7264"></a>
-
-## Nerissa’s teleporting sword
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Nerissa uses a charge from her sword to teleport free of the hardening mud.
-
-<details>
-<summary>Review evidence</summary>
-
-The DM explicitly distinguishes the sword charge from a spell slot, and Nerissa touches the sword to teleport free; no unsupported weapon name or page match is supplied.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Nerissa expends a sword charge to teleport out of the hardening mud.
-
-Scenes: [18](#scene-18) · high confidence · automated review · ID: `sword-escape`
-
-Primary: [u3349–u3384](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3349-L3384)
 
 </details>
 
@@ -946,88 +868,6 @@ Primary: [u3717–u3787](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 [Back to entity list](#entity-list)
 
 
-<a id="entity-7370656172"></a>
-
-## Ryu’s returning spear
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Ryu repeatedly throws his returning spear at the gargoyles and the stone guardian, delivering the final blow against the latter.
-
-<details>
-<summary>Review evidence</summary>
-
-Ryu and the DM repeatedly describe the spear returning after throws; his final melee rush against the guardian follows the same spear combat, with no competing named weapon introduced.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Interacted · supporting
-
-Ryu’s spear returns after his throws and destroys a gargoyle attempting to activate the statue.
-
-Scenes: [11](#scene-11) · high confidence · automated review · ID: `spear-gargoyles`
-
-Primary: [u1651–u1794](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1651-L1794)
-
-### Interacted · supporting
-
-Ryu rushes the guardian and delivers the killing blow after it fells Trok.
-
-Scenes: [17](#scene-17) · high confidence · automated review · ID: `spear-guardian`
-
-Primary: [u3282–u3295](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3282-L3295)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-6a617273"></a>
-
-## Six gem-topped funerary jars
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Six large stone jars behind the tomb contain treasure and strange substances, which the party examines and carries away.
-
-<details>
-<summary>Review evidence</summary>
-
-Six distinct gem-stoppered stone jars are counted and subsequently opened; grouping the containers while retaining separately handled contents is supported by the source.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Observed · supporting
-
-Six gem-stoppered jars stand behind the central statue.
-
-Scenes: [16](#scene-16) · high confidence · automated review · ID: `jars-first-seen`
-
-Primary: [u2461–u2466](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2461-L2466)
-
-### Interacted · supporting
-
-After stopping Hiyasa from taking treasure, the party opens the jars and investigates their contents.
-
-Scenes: [19](#scene-19) · high confidence · automated review · ID: `jars-examined`
-
-Primary: [u3435–u3689](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3435-L3689)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
 <a id="entity-736e616b652d737461747565"></a>
 
 ## Snake-headed statue in the upper hall
@@ -1102,11 +942,15 @@ Primary: [u0099–u0164](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 ## Display exclusions
 
 <details>
-<summary>Ordinary treasure omitted from the entity review</summary>
+<summary>Items omitted under the selection rule</summary>
 
-These entries remain in the original JSON and audit history. They are excluded from this review under the ordinary-treasure rule.
+These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.
 
 - **Ancient coins and uncut gems** (`treasure`): Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule.
+- **Kaleho’s crossbow of warning** (`crossbow`): Routine warning and combat use of an existing magical weapon.
+- **Ryu’s returning spear** (`spear`): Routine attacks and killing blows with an existing returning weapon; no change to the spear itself.
+- **Nerissa’s teleporting sword** (`sword`): Routine use of an existing teleportation charge to escape mud.
+- **Six gem-topped funerary jars** (`jars`): The grouped containers duplicate the significant discoveries already retained separately: the pearl, ancient texts and unusual obsidian jar.
 
 </details>
 

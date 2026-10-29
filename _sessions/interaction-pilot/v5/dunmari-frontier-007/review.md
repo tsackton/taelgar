@@ -2,7 +2,7 @@
 
 [All sessions](../README.md) · [Original session JSON](session.json)
 
-**15 entities** · 1 provisional · Played 2020-08-16
+**12 entities** · 1 provisional · Played 2020-08-16
 
 Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
 
@@ -37,13 +37,12 @@ AI summaries are review aids. Confidence and review labels below are the saved a
 | [Ander Charmheart](#entity-616e646572) | NPC | [Ander Charmheart](../../../../People/Halflings/Ander%20Charmheart.md) | high confidence · automated review |
 | [Cha’mutte](#entity-6368616d75747465) | NPC | [Cha'mutte](../../../../People/Extraplanar%20Powers/Cha%27mutte.md) | high confidence · automated review |
 | [Book describing the maw creatures](#entity-6d61772d626f6f6b) | Item | No linked page | high confidence · automated review |
-| [Floating Disc Coin](#entity-646973632d636f696e) | Item | [Floating Disc Coin](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Floating%20Disc%20Coin.md) | high confidence · automated review |
 | [Riswynn’s maps of Raven’s Hold](#entity-726176656e732d686f6c642d6d617073) | Item | No linked page | high confidence · automated review |
-| [Seeker’s runic stone die](#entity-72756e69632d646965) | Item | No linked page | high confidence · automated review |
 | [Wellby’s spyglass](#entity-737079676c617373) | Item | No linked page | high confidence · automated review |
-| [Staff inscribed with Draconic runes](#entity-647261636f6e69632d7374616666) | Item | No linked page | high confidence · automated review |
 | [Mystai remaining in Karawa](#entity-6b61726177612d6d7973746169) | Organization | No linked page | medium confidence · automated review · **Provisional** |
 | [Tharandros’s herd](#entity-63656e746175722d68657264) | Organization | No linked page | high confidence · automated review |
+
+3 item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).
 
 <a id="entity-7368616e69"></a>
 
@@ -408,48 +407,6 @@ Primary: [u1018–u1025](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 [Back to entity list](#entity-list)
 
 
-<a id="entity-646973632d636f696e"></a>
-
-## Floating Disc Coin
-
-Item · **high confidence · automated review**
-
-Vault match: [Floating Disc Coin](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Floating%20Disc%20Coin.md)
-
-Seeker transforms the coin into a floating platter bearing rabbit bait during the gnoll ambush.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> Okay, so we're gonna we're gonna put the the coin flips into the air and then vanishes and is replaced by a, what is it three feet wide. Floating A rabbit on Three feet above the ground. The rabbit appears to be just hovering basically Yes, and Coin like stretches out. So it's like a thin sort of copper Hovering so it's basically you're serving up a rabbit on a fancy copper platter. That's my intention 100%
-
-whole · [u1423–u1431](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L1423-L1431)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Seeker flips a strange coin which expands into the floating platter used to carry rabbit bait; the named campaign treasure page resolves the item identity, while no later visions or ownership are imported.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Seeker uses the floating disc to offer rabbit bait, briefly distracting a gnoll as the disc follows him through the fight.
-
-Scenes: [11](#scene-11) · high confidence · automated review · ID: `coin-rabbit-bait`
-
-Primary: [u1414–u1890](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L1414-L1890)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
 <a id="entity-726176656e732d686f6c642d6d617073"></a>
 
 ## Riswynn’s maps of Raven’s Hold
@@ -486,56 +443,6 @@ Riswynn shares her uncle’s two maps as the party discusses the fortress layout
 Scenes: [5](#scene-5) · high confidence · automated review · ID: `maps-planning`
 
 Primary: [u0374–u0489](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L374-L489)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-72756e69632d646965"></a>
-
-## Seeker’s runic stone die
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Seeker displays a six-sided stone die and proposes using it to settle the party’s travel pace.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> So I thought we could solve the dispute using one of these. I hold up a stone cube with runic markings on each of the six sides. So here's my proposal. We assign Say, A rate of travel to each of the six numbers. Perhaps that's splitting it too finely, or we could choose between two: slow and fast regime. Or perhaps a compromise: we might choose between three paces, a kind of slow, fast, and, you might say, ordinary rate of travel. In that case, we could assign two numbers to each, roll the die, and then that way decide.
-
-introduction · [u0044–u0049](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L44-L49)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Seeker physically displays a six-sided stone cube with runes and proposes rolling it for pace; the later numbering joke refers back to that device, without needing a vault match.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Interacted · supporting
-
-Seeker displays his die and repeatedly proposes rolling it to determine the party’s travel pace.
-
-Scenes: [1](#scene-1) · high confidence · automated review · ID: `die-planning`
-
-Primary: [u0039–u0118](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L39-L118)
-
-### Mentioned · cameo
-
-Seeker proposes numbering the alternative plans for approaching the distant travelers.
-
-Scenes: [7](#scene-7) · high confidence · automated review · ID: `die-ambush-joke`
-
-Primary: [u0590–u0592](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L590-L592)
 
 </details>
 
@@ -586,39 +493,6 @@ Wellby uses the spyglass to inspect the approaching centaur herd.
 Scenes: [16](#scene-16) · high confidence · automated review · ID: `spyglass-centaurs`
 
 Primary: [u2430–u2436](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L2430-L2436)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-647261636f6e69632d7374616666"></a>
-
-## Staff inscribed with Draconic runes
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Kenzo confirms that he still carries the found staff while correcting a confusion between Draconic and Drankorian.
-
-<details>
-<summary>Review evidence</summary>
-
-Kenzo explicitly states that he still carries the found staff with Draconic runes; the Drankorian speech correction does not identify it as a different known staff, so no positive note match is asserted.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Present · cameo
-
-Kenzo confirms that he is carrying the found staff with Draconic runes while clarifying which language he is speaking.
-
-Scenes: [17](#scene-17) · high confidence · automated review · ID: `staff-carried`
-
-Primary: [u2762–u2770](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md?plain=1#L2762-L2770)
 
 </details>
 
@@ -701,6 +575,19 @@ Primary: [u2395–u2970](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 </details>
 
 [Back to entity list](#entity-list)
+
+## Display exclusions
+
+<details>
+<summary>Items omitted under the selection rule</summary>
+
+These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.
+
+- **Seeker’s runic stone die** (`runic-die`): A familiar die used for travel-planning jokes; no acquisition, consequential discovery or established plot role.
+- **Floating Disc Coin** (`disc-coin`): Routine use of an existing magic item as moving bait during combat; nothing significant happens to the coin itself.
+- **Staff inscribed with Draconic runes** (`draconic-staff`): A carried-inventory reminder and language correction; this session establishes no new acquisition, property or plot-bearing event for the staff.
+
+</details>
 
 ## Scene reference
 

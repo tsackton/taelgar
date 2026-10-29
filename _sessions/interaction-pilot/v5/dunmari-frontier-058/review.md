@@ -2,7 +2,7 @@
 
 [All sessions](../README.md) · [Original session JSON](session.json)
 
-**15 entities** · 1 provisional · Played 2022-09-26
+**9 entities** · 1 provisional · Played 2022-09-26
 
 Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
 
@@ -38,14 +38,10 @@ AI summaries are review aids. Confidence and review labels below are the saved a
 | [Spirits around Hagrim’s fortress](#entity-6d656d6f72792d73706972697473) | NPC | No linked page | high confidence · automated review |
 | [Tak](#entity-74616b) | NPC | [Tak](../../../../People/Dwarves/Tak.md) | high confidence · automated review |
 | [Chalice of the Runepriest](#entity-6368616c696365) | Item | [Chalice of the Runepriest](../../../../Things/Artifacts%20of%20Power/Chalice%20of%20the%20Runepriest.md) | high confidence · automated review |
-| [Maul of the Forge](#entity-6d61756c) | Item | No linked page | high confidence · automated review |
-| [Personal return tokens](#entity-72657475726e2d746f6b656e73) | Item | No linked page | high confidence · automated review |
-| [Potion of hill giant strength](#entity-737472656e6774682d706f74696f6e) | Item | No linked page | high confidence · automated review |
-| [Rothfis’s enlarging potion](#entity-67726f7774682d706f74696f6e) | Item | No linked page | high confidence · automated review |
-| [Rothfis’s flying boots](#entity-626f6f7473) | Item | No linked page | high confidence · automated review |
-| [Shatterstorm](#entity-7368617474657273746f726d) | Item | [Shatterstorm](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Shatterstorm.md) | high confidence · automated review |
 | [Ironhorns](#entity-69726f6e686f726e73) | Organization | No linked page | high confidence · automated review |
 | [Stonefist clan](#entity-73746f6e656669737473) | Organization | No linked page | high confidence · automated review |
+
+6 item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).
 
 <a id="entity-64656c"></a>
 
@@ -522,300 +518,6 @@ Primary: [u2925–u2983](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 [Back to entity list](#entity-list)
 
 
-<a id="entity-6d61756c"></a>
-
-## Maul of the Forge
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Merash strikes the spirit troll and Hagrim’s forces with her maul and throws it in an explosive burst of fire.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> Uh: okay, So that's Ok. So this burst of flame explodes this purple ghost looks badly hurt. Hagrim just kind of laughs slightly at you and the ghost. This ghost doesn't seem that too too damaged.
-
-whole · [u2532–u2535](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2532-L2535)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Merash names the Maul of the Forge, strikes the troll and undead with it, and throws it after the fire wall is dropped; the narrated burst and retrieval support the item without an unsupported vault link.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Interacted · supporting
-
-Merash uses the Maul of the Forge and a frightening maneuver to weaken the spirit troll.
-
-Scenes: [5](#scene-5) · high confidence · unreviewed · ID: `maul-troll`
-
-Primary: [u0827–u1014](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L827-L1014)
-
-### Interacted · supporting
-
-Merash uses the maul against Hagrim’s forces and throws it to produce a burst of fire.
-
-Scenes: [16](#scene-16) · high confidence · unreviewed · ID: `maul-battle`
-
-Primary: [u2314–u2866](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2314-L2866)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-72657475726e2d746f6b656e73"></a>
-
-## Personal return tokens
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-The party recalls the personal magic that can return them home, and Rothfis and Merash use their return option after the quest.
-
-<details>
-<summary>Review evidence</summary>
-
-Personal magical slivers are explicitly discussed as a way home and the ending offers that same return choice; Rothfis and Merash blink away while Thror stays. The summary avoids inventing identical token shapes or a destination scene.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Mentioned · supporting
-
-The party recalls that personal return tokens provide a way home even if the quest fails.
-
-Scenes: [2](#scene-2) · high confidence · unreviewed · ID: `return-tokens-plan`
-
-Primary: [u0433–u0443](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L433-L443)
-
-### Interacted · supporting
-
-Rothfis and Merash choose the offered magical return home after saying farewell.
-
-Scenes: [18](#scene-18) · high confidence · unreviewed · ID: `return-tokens-used`
-
-Primary: [u3029–u3059](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L3029-L3059)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-737472656e6774682d706f74696f6e"></a>
-
-## Potion of hill giant strength
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Riswynn drinks a strength potion to help force the blocked door and carry that strength into the confrontation.
-
-<details>
-<summary>Review evidence</summary>
-
-Riswynn explicitly chooses the potion of hill giant strength before her character sheet strength rises to 21 and she attacks the blocked door; this is an executed use, unlike the proposed gaseous-form potion.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Riswynn drinks a potion of hill giant strength before using Shatterstorm against the blocked door.
-
-Scenes: [14](#scene-14) · high confidence · unreviewed · ID: `strength-potion-drunk`
-
-Primary: [u2051–u2073](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2051-L2073)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-67726f7774682d706f74696f6e"></a>
-
-## Rothfis’s enlarging potion
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Rothfis mixes a red potion into his ale and grows larger before attempting the door and fighting Hagrim.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> But before we head down the stairs I take out a swirling red potion from my kit, and I pour it into my ale, and my ale starts bubbling, and I go Well, I've been waiting a long time to try this out. Stand back, and I just chug this beer, and I grow {{at full size}}. I have been enlarged for one to four hours. Four hours of big Rothfis. Get ready for it.
-
-whole · [u1938–u1942](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L1938-L1942)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Rothfis pours the red potion into his ale, drinks, and explicitly grows for four hours; later large-size actions and the closing shrink support the distinct transformative item.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Rothfis mixes a red potion into his beer and drinks it to enlarge himself for four hours.
-
-Scenes: [12](#scene-12) · high confidence · unreviewed · ID: `growth-potion-drunk`
-
-Primary: [u1938–u1944](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L1938-L1944)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-626f6f7473"></a>
-
-## Rothfis’s flying boots
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Rothfis uses his flying boots to scout the wastes and maneuver through the encounters at Hagrim’s fortress.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> and i'm i'm up whatever it's. Ceiling, height, fifty feet in the air. I will take my full movement. I will use my ki to allow me to get there with that that sprinting dash and um, i'll just let my boots drop me fifty feet, and I weigh about four hundred and fifty pounds. I don't know if it'll help. But these are magic boots, and I've got magic fists, not an attack. But yeah,
-
-whole · [u2887–u2891](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2887-L2891)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Rothfis uses flight to scout and retreat, then hovers over the fortress approach and explicitly names his magic boots during the final drop onto Hagrim. The item supports repeated consequential use without implying a damage effect the DM declined.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (4)</summary>
-
-### Interacted · supporting
-
-Rothfis flies over the wastes and finds a cave before returning to the party.
-
-Scenes: [4](#scene-4) · high confidence · unreviewed · ID: `boots-scout`
-
-Primary: [u0588–u0635](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L588-L635)
-
-### Interacted · cameo
-
-Rothfis flies back from the spirit troll after his punches trigger damaging shadows.
-
-Scenes: [5](#scene-5) · high confidence · unreviewed · ID: `boots-troll`
-
-Primary: [u0899–u0905](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L899-L905)
-
-### Interacted · supporting
-
-Rothfis flies above the party and dives toward the fortress doorway as the spirits converge.
-
-Scenes: [10](#scene-10), [11](#scene-11) · high confidence · unreviewed · ID: `boots-fortress`
-
-Primary: [u1786–u1905](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L1786-L1905)
-
-### Interacted · supporting
-
-Rothfis maneuvers above the fight and drops onto the fading Hagrim from the ceiling.
-
-Scenes: [16](#scene-16) · high confidence · unreviewed · ID: `boots-battle`
-
-Primary: [u2371–u2903](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2371-L2903)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-7368617474657273746f726d"></a>
-
-## Shatterstorm
-
-Item · **high confidence · automated review**
-
-Vault match: [Shatterstorm](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Treasure/Shatterstorm.md)
-
-Riswynn uses the magical warhammer against undead, forces the fortress door, and smashes the attacking bones.
-
-<details>
-<summary>Featured quotes (2)</summary>
-
-> Uh as you hit it again the second time you hear a crack, and the door swings, the rubble is pushed away, and the door begins to swing open at the same time. This, like like about six skeletal arms reach up and grab you.
-
-whole · [u2106–u2109](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2106-L2109)
-
-> Okay, and that blow with your hammer like pulverizes the skeletons into dust.
-
-whole · [u2455–u2456](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2455-L2456)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-The transcript names Riswynn’s warhammer in the troll fight, the blocked-door assault, and the destruction of bones and wraiths; the linked item page identifies the same owner and weapon.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (3)</summary>
-
-### Interacted · supporting
-
-Riswynn strikes the spirit troll with Shatterstorm after its protective shadows disappear.
-
-Scenes: [5](#scene-5) · high confidence · unreviewed · ID: `shatterstorm-troll`
-
-Primary: [u0948–u0966](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L948-L966)
-
-### Interacted · supporting
-
-Riswynn repeatedly strikes the blocked door with Shatterstorm until the barrier cracks open.
-
-Scenes: [14](#scene-14) · high confidence · unreviewed · ID: `shatterstorm-door`
-
-Primary: [u2072–u2115](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2072-L2115)
-
-### Interacted · supporting
-
-Riswynn smashes the animated bones and fights the wraiths with Shatterstorm.
-
-Scenes: [16](#scene-16) · high confidence · unreviewed · ID: `shatterstorm-battle`
-
-Primary: [u2439–u2840](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md?plain=1#L2439-L2840)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
 <a id="entity-69726f6e686f726e73"></a>
 
 ## Ironhorns
@@ -918,6 +620,22 @@ Primary: [u1108–u1119](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 </details>
 
 [Back to entity list](#entity-list)
+
+## Display exclusions
+
+<details>
+<summary>Items omitted under the selection rule</summary>
+
+These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.
+
+- **Shatterstorm** (`shatterstorm`): Routine attacks and door-breaking with an existing magical weapon; no new acquisition, destruction, exchange or item revelation.
+- **Maul of the Forge** (`maul`): Routine attacks and an existing weapon ability used in combat; no significant change to the item.
+- **Rothfis’s flying boots** (`boots`): Routine scouting and combat movement using known flight equipment.
+- **Personal return tokens** (`return-tokens`): A reminder and use of the established personal return option; no newly acquired object or significant item revelation.
+- **Rothfis’s enlarging potion** (`growth-potion`): An existing combat consumable used for its expected effect; ordinary consumption does not count as meaningful item destruction.
+- **Potion of hill giant strength** (`strength-potion`): An existing combat consumable used to enhance strength; no acquisition or unusual discovery.
+
+</details>
 
 ## Scene reference
 

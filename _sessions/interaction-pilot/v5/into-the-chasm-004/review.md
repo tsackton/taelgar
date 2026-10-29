@@ -2,7 +2,7 @@
 
 [All sessions](../README.md) · [Original session JSON](session.json)
 
-**29 entities** · 0 provisional · Played 2026-01-08
+**24 entities** · 0 provisional · Played 2026-01-08
 
 Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
 
@@ -48,16 +48,13 @@ AI summaries are review aids. Confidence and review labels below are the saved a
 | [Malquin’s necklace](#entity-6e65636b6c616365) | Item | No linked page | high confidence · automated review |
 | [Missing stone piece of the mechanism](#entity-6d697373696e672d7069656365) | Item | No linked page | high confidence · automated review |
 | [Severed head of the labyrinth beast](#entity-68656164) | Item | No linked page | high confidence · automated review |
-| [Eolo’s giant’s quiver](#entity-717569766572) | Item | No linked page | high confidence · automated review |
 | [Finnan’s collected Zimkovan tales and songs](#entity-626f6f6b) | Item | No linked page | high confidence · automated review |
-| [Finnan’s divination ring](#entity-72696e67) | Item | No linked page | high confidence · automated review |
-| [Malquin’s sword of ice](#entity-6963652d73776f7264) | Item | No linked page | high confidence · automated review |
 | [Metal shard from the rift](#entity-6d6574616c) | Item | No linked page | high confidence · automated review |
-| [Movable carved stone platform](#entity-706c6174666f726d) | Item | No linked page | high confidence · automated review |
-| [Portal safety rope](#entity-706f7274616c2d726f7065) | Item | No linked page | high confidence · automated review |
 | [Vejo Vaikai](#entity-76656a6f) | Organization | [Vejo Vaikai](../../../../Groups/Vejo%20Vaikai.md) | high confidence · automated review |
 | [Zahara’s dissident circle](#entity-646973736964656e7473) | Organization | No linked page | high confidence · automated review |
 | [Kemeko Monastery](#entity-6b656d656b6f) | Organization | [Kemeko Monastery](../../../../Gazetteer/Greater%20Sembara/Zimkova/Kemeko%20Monastery.md) | high confidence · automated review |
+
+5 item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).
 
 <a id="entity-65696472696b6173"></a>
 
@@ -1009,39 +1006,6 @@ Primary: [u1357–u1499](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 [Back to entity list](#entity-list)
 
 
-<a id="entity-717569766572"></a>
-
-## Eolo’s giant’s quiver
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Eolo places a shard from the metal rift into his magical quiver, which produces arrows related to its contents after a short rest.
-
-<details>
-<summary>Review evidence</summary>
-
-Eolo’s named magical quiver accepts material to create related arrows after a rest, and the metal is explicitly placed inside; no resulting new arrows are claimed as already available.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Eolo chooses a planar metal shard for his quiver; its new arrows require a later short rest.
-
-Scenes: [5](#scene-5), [6](#scene-6) · high confidence · automated review · ID: `quiver-shard`
-
-Primary: [u1116–u1197](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L1116-L1197)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
 <a id="entity-626f6f6b"></a>
 
 ## Finnan’s collected Zimkovan tales and songs
@@ -1069,90 +1033,6 @@ Finnan uses his book of collected tales to argue that Malquin is not a Kestavo.
 Scenes: [4](#scene-4) · high confidence · automated review · ID: `book-evidence`
 
 Primary: [u0745–u0761](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L745-L761)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-72696e67"></a>
-
-## Finnan’s divination ring
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Finnan spends the ring’s charges to learn the realm’s temporal separation, boundaries, and Malquin’s control of the sky.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> the… this place… The boundaries of this place are… What you can see. There's nothing past the mists. Or beneath the mists. And the… the… the… the sky… that, lord… Lord Farraquin. the… the frostbinder… frost… frostbinder controls the… Controls the sky.
-
-whole · [u0400–u0406](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L400-L406)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Finnan explicitly spends all five charges of his divination ring to obtain true facts; the final correction of time direction is preserved in the summary.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Finnan’s ring reveals the realm’s bounds, sky control, and temporal separation; the DM finally clarifies that time runs slower here.
-
-Scenes: [2](#scene-2) · high confidence · automated review · ID: `ring-facts`
-
-Primary: [u0379–u0490](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L379-L490)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-6963652d73776f7264"></a>
-
-## Malquin’s sword of ice
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Malquin manifests, plants, and recalls a glittering ice sword while threatening the party during negotiations.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> But… He… he… he… he vanishes for a minute, and Again, appears standing on the far side of the room. like, not by the door, but behind the throne, like, in the far corner. And he draws this glittering sword again, and, like, glittering sword of ice, and, like, stabs it into the floor, and he just screams, you will not. And then he disappears again. And it appears back on the throne.
-
-whole · [u1516–u1521](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L1516-L1521)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Malquin repeatedly manifests, plants, and recalls a specific sword of ice during the audience, observed by the party rather than used by them.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Observed · supporting
-
-Malquin threatens the party with an appearing sword, plants it in the floor, and recalls it during his final argument.
-
-Scenes: [9](#scene-9) · high confidence · automated review · ID: `sword-threat`
-
-Primary: [u1488–u1634](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L1488-L1634)
 
 </details>
 
@@ -1195,72 +1075,6 @@ Eolo accepts a badly cut hand to retrieve the unusual metal and load his quiver.
 Scenes: [6](#scene-6) · high confidence · automated review · ID: `metal-retrieval`
 
 Primary: [u1147–u1173](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L1147-L1173)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-706c6174666f726d"></a>
-
-## Movable carved stone platform
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Eolo pushes a floating, geometrically carved stone to the portal so the party can step off its rope onto solid footing.
-
-<details>
-<summary>Review evidence</summary>
-
-A particular inert carved floating stone is pushed to the portal for the party; it is kept separate from the much larger powered damaged platform below.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Eolo pushes a floating carved platform to the portal so the others can step onto it.
-
-Scenes: [11](#scene-11) · high confidence · automated review · ID: `platform-move`
-
-Primary: [u1768–u1806](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L1768-L1806)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-706f7274616c2d726f7065"></a>
-
-## Portal safety rope
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Justas anchors a rope to the ice wolf before crossing, allowing the nonflying party members to remain suspended until Eolo brings a platform.
-
-<details>
-<summary>Review evidence</summary>
-
-The previously omitted rope is a consequential safety tool: it is tied to the wolf, holds the nonfliers over a long drop, and keeps them safe until the platform arrives.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-The party ties the rope to the guardian and uses it to cross safely into open air before stepping onto Eolo’s moved platform.
-
-Scenes: [10](#scene-10), [11](#scene-11) · high confidence · automated review · ID: `rope-crossing`
-
-Primary: [u1695–u1788](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md?plain=1#L1695-L1788)
 
 </details>
 
@@ -1364,6 +1178,21 @@ Primary: [u0940–u1002](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 </details>
 
 [Back to entity list](#entity-list)
+
+## Display exclusions
+
+<details>
+<summary>Items omitted under the selection rule</summary>
+
+These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.
+
+- **Finnan’s divination ring** (`ring`): Routine use of a known divination ability; learning facts about the realm does not establish a new discovery about the ring.
+- **Eolo’s giant’s quiver** (`quiver`): Routine loading of existing magical equipment; the newly retrieved planar metal has its own retained discovery record.
+- **Malquin’s sword of ice** (`ice-sword`): A weapon manifested and displayed during threats; no separate acquisition, destruction or item-specific plot revelation.
+- **Movable carved stone platform** (`platform`): An incidental stepping platform moved for traversal; the damaged planar mechanism is the plot-relevant structure.
+- **Portal safety rope** (`portal-rope`): Ordinary safety equipment used for a crossing; no distinct item event or plot role.
+
+</details>
 
 ## Scene reference
 

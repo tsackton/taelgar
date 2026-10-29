@@ -95,7 +95,7 @@ def build(vault, sample, results, output, source_revision=None, exclusions=None)
         return f'[{label}]({quote(os.path.relpath(path, Path(output).parent), safe="/.-_")}{anchor})'
     lines = [f'# Entity reviews · {len(sample["selected"])} sessions', '',
              'Choose a session to review its NPCs, significant items and organizations. Each entity has an overview, vault match, confidence, review notes and expandable quotes and interactions.', '',
-             'Ordinary treasure is excluded from the review lists. Original extraction JSON and review decisions are retained.', '']
+             'Item selection focuses on meaningful discoveries, exchanges, destruction and plot relevance. Ordinary treasure, routine gear use and incidental objects are omitted. Original extraction JSON and review decisions are retained.', '']
     if (Path(results) / 'FINDINGS.md').exists():
         lines += [link(Path(results) / 'FINDINGS.md', 'Trial findings') + ' · [Model overview](../MODEL_OVERVIEW.md)', '']
     if source_revision:

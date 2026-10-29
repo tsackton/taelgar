@@ -20,8 +20,11 @@
         "provisionalEntities": 0
       },
       "criticalQueue": [],
-      "displayedEntities": 12,
-      "excludedEntities": {},
+      "displayedEntities": 10,
+      "excludedEntities": {
+        "ring": "Repeated use of an existing detection item to monitor nearby enemies.",
+        "plate": "Ordinary silver altar ware, considered as an improvised mirror in an abandoned tactic; no established special property or plot role."
+      },
       "currentSourceChanged": false
     },
     {
@@ -50,9 +53,13 @@
           "reason": "Added Wazir because the DM concretely portrays him detecting magic, recognizing wine and dwarven writing, and receiving the papers after the return; this does not claim his player attended or that he joined the four-person expedition. Ander remains excluded. Rechecked chronology: the explicit single camp yields an Oct25 tomb visit, while Oct28 is only the manifest anchor for a vaguely dated return; exact endpoint remains an unresolved critical date issue."
         }
       ],
-      "displayedEntities": 22,
+      "displayedEntities": 18,
       "excludedEntities": {
-        "treasure": "Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule."
+        "treasure": "Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule.",
+        "crossbow": "Routine warning and combat use of an existing magical weapon.",
+        "spear": "Routine attacks and killing blows with an existing returning weapon; no change to the spear itself.",
+        "sword": "Routine use of an existing teleportation charge to escape mud.",
+        "jars": "The grouped containers duplicate the significant discoveries already retained separately: the pearl, ancient texts and unusual obsidian jar."
       },
       "currentSourceChanged": false
     },
@@ -112,9 +119,15 @@
         "provisionalEntities": 0
       },
       "criticalQueue": [],
-      "displayedEntities": 17,
+      "displayedEntities": 11,
       "excludedEntities": {
-        "promised-hoard": "An undifferentiated promise of gold, gems and jewelry; excluded under the user's ordinary-treasure rule."
+        "promised-hoard": "An undifferentiated promise of gold, gems and jewelry; excluded under the user's ordinary-treasure rule.",
+        "recovered-books": "Generic objects from a previous job mentioned as background, without a new discovery or continuing item-specific plot role here.",
+        "cleaning-bar": "A household convenience used for washing and scoped for possible later theft; it is not acquired or shown to matter to the plot.",
+        "kitchen-provisions": "Incidental magical furnishings serving food; their operation does not create a significant item event.",
+        "grandfather-clock": "Incidental room furnishing and timekeeping; no acquisition or consequential revelation about the clock.",
+        "gardening-tapestries": "Decorative scenes inspected for atmosphere; no acquired object or established plot-bearing clue in this session.",
+        "cellar-key": "An NPC uses a key for an ordinary door-opening step; the portal doorway, rather than this key, carries the plot significance."
       },
       "currentSourceChanged": false
     },
@@ -144,8 +157,14 @@
           "reason": "Context confirms four material days elapsed since labyrinth entry and that emergence occurs in the afternoon; absolute January dates remain manifest anchors and are not promoted from notes."
         }
       ],
-      "displayedEntities": 29,
-      "excludedEntities": {},
+      "displayedEntities": 24,
+      "excludedEntities": {
+        "ring": "Routine use of a known divination ability; learning facts about the realm does not establish a new discovery about the ring.",
+        "quiver": "Routine loading of existing magical equipment; the newly retrieved planar metal has its own retained discovery record.",
+        "ice-sword": "A weapon manifested and displayed during threats; no separate acquisition, destruction or item-specific plot revelation.",
+        "platform": "An incidental stepping platform moved for traversal; the damaged planar mechanism is the plot-relevant structure.",
+        "portal-rope": "Ordinary safety equipment used for a crossing; no distinct item event or plot role."
+      },
       "currentSourceChanged": false
     },
     {
@@ -174,8 +193,11 @@
           "reason": "Full contextual reread confirms the attendance, identities, locations, and passage of days; no spoken calendar date independently fixes the manifest’s November 6–13 span, which remains provisional."
         }
       ],
-      "displayedEntities": 24,
-      "excludedEntities": {},
+      "displayedEntities": 22,
+      "excludedEntities": {
+        "jump-ring": "Routine movement with an existing ring, including lava and vortex crossings.",
+        "message-stone": "Routine communication using an existing item; the message content belongs to the conversation rather than a separate equipment record."
+      },
       "currentSourceChanged": true
     },
     {
@@ -213,8 +235,15 @@
           "reason": "Rechecked the exact Nora passage against both Odim Mavdyrson’s identity and Hagrim’s public account: the father, place, attackers and betrayal strongly match, but Magerson still lacks an explicit alias to the canonical spelling. Keep the positive match visibly provisional instead of normalizing away the uncertainty."
         }
       ],
-      "displayedEntities": 15,
-      "excludedEntities": {},
+      "displayedEntities": 9,
+      "excludedEntities": {
+        "shatterstorm": "Routine attacks and door-breaking with an existing magical weapon; no new acquisition, destruction, exchange or item revelation.",
+        "maul": "Routine attacks and an existing weapon ability used in combat; no significant change to the item.",
+        "boots": "Routine scouting and combat movement using known flight equipment.",
+        "return-tokens": "A reminder and use of the established personal return option; no newly acquired object or significant item revelation.",
+        "growth-potion": "An existing combat consumable used for its expected effect; ordinary consumption does not count as meaningful item destruction.",
+        "strength-potion": "An existing combat consumable used to enhance strength; no acquisition or unusual discovery."
+      },
       "currentSourceChanged": true
     },
     {
@@ -252,8 +281,12 @@
           "reason": "Contextual recheck of the full closing negotiation still identifies only remaining Karawa people, sages and dreamwalkers, not an explicit identity with the temple mystai; preserve the possible collective connection as provisional."
         }
       ],
-      "displayedEntities": 15,
-      "excludedEntities": {},
+      "displayedEntities": 12,
+      "excludedEntities": {
+        "runic-die": "A familiar die used for travel-planning jokes; no acquisition, consequential discovery or established plot role.",
+        "disc-coin": "Routine use of an existing magic item as moving bait during combat; nothing significant happens to the coin itself.",
+        "draconic-staff": "A carried-inventory reminder and language correction; this session establishes no new acquisition, property or plot-bearing event for the staff."
+      },
       "currentSourceChanged": false
     },
     {

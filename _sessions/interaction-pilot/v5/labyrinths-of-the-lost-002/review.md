@@ -2,7 +2,7 @@
 
 [All sessions](../README.md) · [Original session JSON](session.json)
 
-**12 entities** · 0 provisional · Played 2023-11-25
+**10 entities** · 0 provisional · Played 2023-11-25
 
 Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
 
@@ -37,10 +37,10 @@ AI summaries are review aids. Confidence and review labels below are the saved a
 | [Petrified medusa](#entity-6d6564757361) | NPC | No linked page | high confidence · automated review |
 | [The Mother](#entity-6d6f74686572) | NPC | [The Mother](../../../../Gods%20and%20Religions/Gods/Incorporeal%20Gods/Mos%20Numena%20Pantheon/The%20Mother.md) | high confidence · automated review |
 | [J.M.’s silver locket](#entity-6c6f636b6574) | Item | No linked page | high confidence · automated review |
-| [Gaudin’s goblinoid-detecting ring](#entity-72696e67) | Item | No linked page | high confidence · automated review |
-| [Silver altar plate](#entity-706c617465) | Item | No linked page | high confidence · automated review |
 | [Smuggler’s maps and love letters](#entity-706170657273) | Item | No linked page | high confidence · automated review |
 | [Perdoli family](#entity-706572646f6c69) | Organization | [Perdoli Family](../../../../Groups/Perdoli%20Family.md) | high confidence · automated review |
+
+2 item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).
 
 <a id="entity-6772696d73746f6e65"></a>
 
@@ -434,112 +434,6 @@ Primary: [u1620–u1660](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 [Back to entity list](#entity-list)
 
 
-<a id="entity-72696e67"></a>
-
-## Gaudin’s goblinoid-detecting ring
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Gaudin watches the ring for nearby goblinoids while the party infiltrates the manor.
-
-<details>
-<summary>Review evidence</summary>
-
-The worn ring repeatedly signals nearby goblinoids and is explicitly explained as such; no unsupported named magic-item identity is assigned.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (5)</summary>
-
-### Interacted · supporting
-
-Gaudin watches his ring for warning of nearby goblinoids.
-
-Scenes: [3](#scene-3) · high confidence · automated review · ID: `ring-patrol`
-
-Primary: [u0174–u0175](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md?plain=1#L174-L175)
-
-### Observed · supporting
-
-Gaudin’s ring glows near the manor but detects no goblinoids in the chapel.
-
-Scenes: [5](#scene-5) · high confidence · automated review · ID: `ring-chapel`
-
-Primary: [u0433–u0438](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md?plain=1#L433-L438)
-
-### Observed · supporting
-
-The glowing ring warns the party of approaching goblinoids while they explore the altar chamber.
-
-Scenes: [7](#scene-7) · high confidence · automated review · ID: `ring-crypt`
-
-Primary: [u0562–u0595](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md?plain=1#L562-L595)
-
-### Observed · cameo
-
-The ring stops glowing after the second guard is killed.
-
-Scenes: [11](#scene-11) · high confidence · automated review · ID: `ring-clear`
-
-Primary: [u0886–u0888](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md?plain=1#L886-L888)
-
-### Observed · supporting
-
-The ring glows again near the manor, though it cannot indicate an enemy’s direction.
-
-Scenes: [12](#scene-12), [13](#scene-13) · high confidence · automated review · ID: `ring-manor`
-
-Primary: [u1011–u1115](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md?plain=1#L1011-L1115)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-706c617465"></a>
-
-## Silver altar plate
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-The party finds a silver altar plate and considers polishing it into a mirror to use against the basilisk.
-
-<details>
-<summary>Review evidence</summary>
-
-The altar’s silver plate is found and later assessed with an alchemist-tools check for use as a mirror; the extraction correctly describes a proposed polishing plan rather than a completed mirror.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Observed · cameo
-
-The party finds a tarnished silver plate on the crypt altar.
-
-Scenes: [7](#scene-7) · high confidence · automated review · ID: `plate-found`
-
-Primary: [u0562–u0564](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md?plain=1#L562-L564)
-
-### Interacted · supporting
-
-Acescale considers restoring the silver plate as a mirror before learning that reflected gazes cannot petrify basilisks.
-
-Scenes: [19](#scene-19) · high confidence · automated review · ID: `plate-mirror`
-
-Primary: [u1370–u1420](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md?plain=1#L1370-L1420)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
 <a id="entity-706170657273"></a>
 
 ## Smuggler’s maps and love letters
@@ -628,6 +522,18 @@ Primary: [u1566–u1572](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 </details>
 
 [Back to entity list](#entity-list)
+
+## Display exclusions
+
+<details>
+<summary>Items omitted under the selection rule</summary>
+
+These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.
+
+- **Gaudin’s goblinoid-detecting ring** (`ring`): Repeated use of an existing detection item to monitor nearby enemies.
+- **Silver altar plate** (`plate`): Ordinary silver altar ware, considered as an improvised mirror in an abandoned tactic; no established special property or plot role.
+
+</details>
 
 ## Scene reference
 

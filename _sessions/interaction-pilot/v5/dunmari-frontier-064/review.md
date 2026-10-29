@@ -2,7 +2,7 @@
 
 [All sessions](../README.md) · [Original session JSON](session.json)
 
-**24 entities** · 0 provisional · Played 2022-11-09
+**22 entities** · 0 provisional · Played 2022-11-09
 
 Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
 
@@ -53,8 +53,8 @@ AI summaries are review aids. Confidence and review labels below are the saved a
 | [Grash’s ancient scroll](#entity-7363726f6c6c) | Item | No linked page | high confidence · automated review |
 | [Grash’s glaive](#entity-676c61697665) | Item | No linked page | high confidence · automated review |
 | [Kenzo’s Dunmari horn](#entity-686f726e) | Item | No linked page | high confidence · automated review |
-| [Kenzo’s message stone](#entity-6d6573736167652d73746f6e65) | Item | [Drankorian Message Stone](../../../../Things/Magic%20Items/Drankorian%20Message%20Stone.md) | high confidence · automated review |
-| [Kenzo’s ring of jumping](#entity-6a756d702d72696e67) | Item | No linked page | high confidence · automated review |
+
+2 item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).
 
 <a id="entity-616c6c7561"></a>
 
@@ -1159,96 +1159,17 @@ Primary: [u2038–u2060](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 
 [Back to entity list](#entity-list)
 
-
-<a id="entity-6d6573736167652d73746f6e65"></a>
-
-## Kenzo’s message stone
-
-Item · **high confidence · automated review**
-
-Vault match: [Drankorian Message Stone](../../../../Things/Magic%20Items/Drankorian%20Message%20Stone.md)
-
-Kenzo exchanges messages with Wellby while resting and later asks where they should reunite.
+## Display exclusions
 
 <details>
-<summary>Featured quotes (1)</summary>
+<summary>Items omitted under the selection rule</summary>
 
-> So while you're resting, you hear in your mind, Kenzo, I'm having the time of my life on the edge of the endless sea. There's islands that move and kenku are rad as hell and evil sharks. I miss you, man, How are things
+These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.
 
-whole · [u0218–u0218](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-cleaned.md?plain=1#L218)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Kenzo explicitly uses a message stone twice to speak to Wellby; the note is the matching Message Stone reference, without importing item history or range claims.
+- **Kenzo’s ring of jumping** (`jump-ring`): Routine movement with an existing ring, including lava and vortex crossings.
+- **Kenzo’s message stone** (`message-stone`): Routine communication using an existing item; the message content belongs to the conversation rather than a separate equipment record.
 
 </details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Interacted · supporting
-
-Kenzo messages Wellby and receives news from the edge of the Endless Sea.
-
-Scenes: [1](#scene-1), [2](#scene-2) · high confidence · automated review · ID: `stone-first`
-
-Primary: [u0116–u0218](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-cleaned.md?plain=1#L116-L218)
-
-### Interacted · supporting
-
-Kenzo consults Wellby by message stone and chooses their Feywild meeting place.
-
-Scenes: [11](#scene-11) · high confidence · automated review · ID: `stone-destination`
-
-Primary: [u2254–u2260](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-cleaned.md?plain=1#L2254-L2260)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-6a756d702d72696e67"></a>
-
-## Kenzo’s ring of jumping
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Kenzo uses his ring to leap across the lava and attempts to jump around the vortex.
-
-<details>
-<summary>Review evidence</summary>
-
-Kenzo explicitly identifies and uses his ring of jumping at both crossings; the card correctly has no speculative link to another campaign’s ring.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (2)</summary>
-
-### Interacted · supporting
-
-Kenzo combines his ring and ki to jump across the lava carrying a baby.
-
-Scenes: [1](#scene-1) · high confidence · automated review · ID: `jump-lava`
-
-Primary: [u0110–u0195](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-cleaned.md?plain=1#L110-L195)
-
-### Interacted · supporting
-
-Kenzo uses enhanced jumps to circle the vortex but slips and needs Enari’s help.
-
-Scenes: [7](#scene-7) · high confidence · automated review · ID: `jump-vortex`
-
-Primary: [u1111–u1207](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-cleaned.md?plain=1#L1111-L1207)
-
-</details>
-
-[Back to entity list](#entity-list)
 
 ## Scene reference
 

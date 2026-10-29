@@ -2,7 +2,7 @@
 
 [All sessions](../README.md) · [Original session JSON](session.json)
 
-**17 entities** · 0 provisional · Played 2026-05-14
+**11 entities** · 0 provisional · Played 2026-05-14
 
 Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
 
@@ -39,15 +39,9 @@ AI summaries are review aids. Confidence and review labels below are the saved a
 | [Elf who hired the party to recover books](#entity-626f6f6b2d706174726f6e) | NPC | No linked page | high confidence · automated review |
 | [Hidden door in the root cellar](#entity-63656c6c61722d646f6f72) | Item | No linked page | high confidence · automated review |
 | [Hulda’s inheritance deed](#entity-696e6865726974616e63652d64656564) | Item | No linked page | high confidence · automated review |
-| [Gardening tapestries](#entity-67617264656e696e672d74617065737472696573) | Item | No linked page | high confidence · automated review |
-| [Magical cleaning bar](#entity-636c65616e696e672d626172) | Item | No linked page | high confidence · automated review |
-| [Magical grandfather clock](#entity-6772616e646661746865722d636c6f636b) | Item | No linked page | high confidence · automated review |
-| [Books recovered on the previous job](#entity-7265636f76657265642d626f6f6b73) | Item | No linked page | high confidence · automated review |
-| [Glowing golden key](#entity-63656c6c61722d6b6579) | Item | No linked page | high confidence · automated review |
-| [Magical kitchen cupboard and icebox](#entity-6b69746368656e2d70726f766973696f6e73) | Item | No linked page | high confidence · automated review |
 | [Ancient and Honorable Guild of Philosophers](#entity-7068696c6f736f7068657273) | Organization | [Ancient and Honorable Guild of Philosophers](../../../../Groups/Tollen%20Guilds/Ancient%20and%20Honorable%20Guild%20of%20Philosophers.md) | high confidence · automated review |
 
-1 ordinary-treasure record(s) omitted from this list; see [display exclusions](#display-exclusions).
+7 item record(s) omitted under the selection rule; see [display exclusions](#display-exclusions).
 
 <a id="entity-616c64656e"></a>
 
@@ -558,238 +552,6 @@ Primary: [u2126–u2139](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 [Back to entity list](#entity-list)
 
 
-<a id="entity-67617264656e696e672d74617065737472696573"></a>
-
-## Gardening tapestries
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Kaito and Ayveen investigate faded tapestries showing gardeners working on plants in greenhouses.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> This is a tapestry of gardeners in a greenhouse trimming plants. like, like… Bonsais, maybe? Like a little tree that's up, and they're, like, snipping the root, you know, the way that you do on a bunsai to keep it small.
-
-whole · [u1226–u1229](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L1226-L1229)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-Two investigated tapestries depict greenhouse gardeners and plant work; the source supports this decorative clue without adding a hidden interpretation.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-Kaito and Ayveen investigate two faded tapestries and identify scenes of greenhouse gardening.
-
-Scenes: [4](#scene-4) · high confidence · unreviewed · ID: `tapestries-examined`
-
-Primary: [u1212–u1252](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L1212-L1252)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-636c65616e696e672d626172"></a>
-
-## Magical cleaning bar
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-The party uses the kitchen’s cleaning bar, and Tarek discreetly assesses whether its nonmagical bracket could be removed.
-
-<details>
-<summary>Featured quotes (1)</summary>
-
-> Eric taps the bar. and all of yourself and clothes and hands are cleaned, magically. It's one of those, Cleaning bar.
-
-whole · [u1341–u1342](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L1341-L1342)
-
-</details>
-
-<details>
-<summary>Review evidence</summary>
-
-The bar cleans the party when touched, and its removable nonmagical bracket is assessed; this consequential magical fixture has a distinct encounter.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Interacted · supporting
-
-The party cleans itself with the bar while Tarek and Kaito quietly investigate detaching it.
-
-Scenes: [6](#scene-6) · high confidence · unreviewed · ID: `cleaning-bar-use`
-
-Primary: [u1333–u1394](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L1333-L1394)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-6772616e646661746865722d636c6f636b"></a>
-
-## Magical grandfather clock
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-The preserved clock on the second-floor landing marks the late evening and wakes the party before dawn.
-
-<details>
-<summary>Review evidence</summary>
-
-The clock is explicitly magically preserved, later chimes ten, and wakes the party before dawn; repeated retrieval value supports the item card.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (3)</summary>
-
-### Observed · cameo
-
-The party sees a magically preserved grandfather clock still ticking on the landing.
-
-Scenes: [4](#scene-4) · high confidence · unreviewed · ID: `clock-first-sight`
-
-Primary: [u1201–u1209](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L1201-L1209)
-
-### Observed · cameo
-
-The grandfather clock chimes ten during the party’s debate.
-
-Scenes: [6](#scene-6) · high confidence · unreviewed · ID: `clock-evening`
-
-Primary: [u1915–u1915](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L1915)
-
-### Observed · supporting
-
-The clock’s chimes wake the party in their rooms before dawn.
-
-Scenes: [9](#scene-9) · high confidence · unreviewed · ID: `clock-waking`
-
-Primary: [u2011–u2016](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L2011-L2016)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-7265636f76657265642d626f6f6b73"></a>
-
-## Books recovered on the previous job
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Old books recovered from an ettin’s hoard are discussed as the goal of the party’s previous job.
-
-<details>
-<summary>Review evidence</summary>
-
-The recovered old books are explicitly the goal of the previous contract, so a retrospective item mention is supported rather than current possession.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Mentioned · cameo
-
-The party’s account of its last job identifies old books as the objects recovered for its elven patron.
-
-Scenes: [1](#scene-1) · high confidence · unreviewed · ID: `books-memory`
-
-Primary: [u0450–u0470](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L450-L470)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-63656c6c61722d6b6579"></a>
-
-## Glowing golden key
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Alden uses a small golden, apparently glowing key to unlock the stairs beneath the basement.
-
-<details>
-<summary>Review evidence</summary>
-
-Alden draws a smaller golden, apparently glowing key for the lower doorway; the summary retains the qualification about its glow.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Observed · cameo
-
-The party watches Alden use the small glowing golden key to unlock the door to the lower stairs.
-
-Scenes: [10](#scene-10) · high confidence · unreviewed · ID: `cellar-key-observed`
-
-Primary: [u2029–u2040](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L2029-L2040)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
-<a id="entity-6b69746368656e2d70726f766973696f6e73"></a>
-
-## Magical kitchen cupboard and icebox
-
-Item · **high confidence · automated review**
-
-Vault match: No linked page
-
-Alden serves cold food from the magical icebox and fresh bread from the magical cupboard.
-
-<details>
-<summary>Review evidence</summary>
-
-The cold chest and magical cupboard jointly furnish dinner, making their collection card a supported grouping.
-
-</details>
-
-<details>
-<summary>Interactions and source passages (1)</summary>
-
-### Observed · cameo
-
-The party sees Alden retrieve cold chicken and vegetables from the icebox and fresh bread from the magical cupboard.
-
-Scenes: [6](#scene-6) · high confidence · unreviewed · ID: `kitchen-provisions-observed`
-
-Primary: [u1321–u1332](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md?plain=1#L1321-L1332)
-
-</details>
-
-[Back to entity list](#entity-list)
-
-
 <a id="entity-7068696c6f736f7068657273"></a>
 
 ## Ancient and Honorable Guild of Philosophers
@@ -825,11 +587,17 @@ Primary: [u2132–u2135](https://github.com/tsackton/taelgar/blob/5c88c732cad960
 ## Display exclusions
 
 <details>
-<summary>Ordinary treasure omitted from the entity review</summary>
+<summary>Items omitted under the selection rule</summary>
 
-These entries remain in the original JSON and audit history. They are excluded from this review under the ordinary-treasure rule.
+These entries remain in the original JSON and audit history. The review focuses on meaningful item discoveries, exchanges, destruction and plot relevance; ordinary treasure and routine gear use are omitted.
 
 - **Dandelion House’s promised treasure hoard** (`promised-hoard`): An undifferentiated promise of gold, gems and jewelry; excluded under the user's ordinary-treasure rule.
+- **Books recovered on the previous job** (`recovered-books`): Generic objects from a previous job mentioned as background, without a new discovery or continuing item-specific plot role here.
+- **Magical cleaning bar** (`cleaning-bar`): A household convenience used for washing and scoped for possible later theft; it is not acquired or shown to matter to the plot.
+- **Magical kitchen cupboard and icebox** (`kitchen-provisions`): Incidental magical furnishings serving food; their operation does not create a significant item event.
+- **Magical grandfather clock** (`grandfather-clock`): Incidental room furnishing and timekeeping; no acquisition or consequential revelation about the clock.
+- **Gardening tapestries** (`gardening-tapestries`): Decorative scenes inspected for atmosphere; no acquired object or established plot-bearing clue in this session.
+- **Glowing golden key** (`cellar-key`): An NPC uses a key for an ordinary door-opening step; the portal doorway, rather than this key, carries the plot significance.
 
 </details>
 
