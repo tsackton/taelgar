@@ -162,7 +162,7 @@
 [u0162 | 00:17:06.180-00:17:10.710 | Zeno] prowess. But, you know, he's… he's working on it. He is a…
 [u0163 | 00:17:11.950-00:17:16.120 | Zeno] Orange dragonet with green highlights. He is,
 [u0164 | 00:17:16.410-00:17:21.239 | Zeno] He's got a scarf that he's very proud of that's dotted with…
-[u0165 | 00:17:21.630-00:17:24.810 | Zeno] Tiny gems. You often see them.
+[u0165 | 00:17:21.630-00:17:24.810 | Zeno] Tiny gems. You often see him.
 [u0166 | 00:17:24.920-00:17:29.689 | Zeno] Just toss it over his shoulder, even though he just did that a few seconds ago, to, like, draw attention to it.
 [u0167 | 00:17:30.050-00:17:35.420 | Zeno] And nobody can defeat him.
 [u0168 | 00:17:36.510-00:17:38.940 | Zeno] In a battle of wits or words.
@@ -195,7 +195,7 @@
 [u0195 | 00:20:33.430-00:20:36.419 | Heska] More than a reasonable size.
 [u0196 | 00:20:40.750-00:20:44.550 | DM] And what is Heska known for on the island?
 [u0197 | 00:20:44.550-00:20:50.330 | Heska] Heska would prefer not to be known for much, but if you asked somebody.
-[u0198 | 00:20:50.830-00:20:56.820 | Heska] What they would probably describe as a couple times that he has…
+[u0198 | 00:20:50.830-00:20:56.820 | Heska] What they would probably describe is a couple times that he has…
 [u0199 | 00:20:57.440-00:21:08.079 | Heska] Flown out over the ocean and brought back something strange and weird for the… Dark Lady communal feasts.
 [u0200 | 00:21:08.260-00:21:11.199 | Heska] The thing people talk about the most is…
 [u0201 | 00:21:11.430-00:21:20.649 | Heska] a giant fiddler crab, twice the size of any dragonet, with a claw nearly the size of Heska's
@@ -322,7 +322,7 @@
 [u0322 | 00:36:09.620-00:36:11.679 | DM] Ever since he got that crab?
 [u0323 | 00:36:13.520-00:36:14.550 | DM] A little crush on you.
 [u0324 | 00:36:15.990-00:36:17.550 | Zeno] Brilliant.
-[u0325 | 00:36:17.550-00:36:18.460 | DM] Dumped down.
+[u0325 | 00:36:17.550-00:36:18.460 | DM] Don’t tell.
 [u0326 | 00:36:18.760-00:36:21.729 | Zeno] That crab is something. You know, we got big plans for that crab.
 [u0327 | 00:36:21.940-00:36:22.920 | DM] Yeah, but…
 [u0328 | 00:36:23.100-00:36:28.580 | Zeno] Wait, let me tell you, I gotta… I'm trying to decide on the… oh, okay, go ahead.
@@ -346,17 +346,17 @@
 [u0346 | 00:37:45.490-00:37:50.779 | Sculpit] But her performances are quite good. It's kind of nice to… to help, but…
 [u0347 | 00:37:50.980-00:37:53.419 | Sculpit] She takes it too far, you're not wrong.
 [u0348 | 00:37:53.820-00:38:06.600 | DM] Her performances are amazing, like, they're amazing. They are amazing, and Sculpit, you're like, this is like… this is, like, the shit you're putting up with, but also you know she's gonna deliver, but also, it's a lot.
-[u0349 | 00:38:07.420-00:38:12.950 | Sculpit] Did you, did you find anything interesting out, out of Monster Prize?
+[u0349 | 00:38:07.420-00:38:12.950 | Sculpit] Did you, did you find anything interesting out, out amongst your friends?
 [u0350 | 00:38:14.160-00:38:16.360 | Little Tony] I mean…
 [u0351 | 00:38:16.560-00:38:28.050 | Little Tony] He pulls the bag off his waist, and pours several pebbles that appear indistinguishable to you, and begins to explain the differences, the very, very subtle differences that
 [u0352 | 00:38:28.050-00:38:37.529 | Little Tony] That really makes this, like, the connoisseurs. This is, like, this is really the pebble collector's pebble. Like, among the pebble community, this is the… like.
 [u0353 | 00:38:37.530-00:38:38.499 | Zeno] For the general public.
 [u0354 | 00:38:38.500-00:38:42.899 | Little Tony] Public, not as much, but, like, if you're a pebblehead, man, like, oh, shit.
 [u0355 | 00:38:43.030-00:38:43.590 | Zeno] So…
-[u0356 | 00:38:43.590-00:38:55.940 | Sculpit] No, I think the… I think the rectum was just… just a tiny bit more in the direction of, like, noticeable, sparkly things that we could see from far away.
+[u0356 | 00:38:43.590-00:38:55.940 | Sculpit] No, I think the… I think the direction was just… just a tiny bit more in the direction of, like, noticeable, sparkly things that we could see from far away.
 [u0357 | 00:38:55.940-00:38:57.070 | Little Tony] Yeah…
 [u0358 | 00:38:57.070-00:39:04.379 | Sculpit] I get where you're coming from. I mean, don't get me wrong, I appreciate the pebble as much as…
-[u0359 | 00:39:05.590-00:39:10.090 | Sculpit] That's some people, I guess. I… I haven't met them, but,
+[u0359 | 00:39:05.590-00:39:10.090 | Sculpit] As some people, I guess. I… I haven't met them, but,
 [u0360 | 00:39:10.690-00:39:11.390 | Little Tony] Hmm.
 [u0361 | 00:39:11.390-00:39:13.919 | Sculpit] But these aren't quite what we're, what we're.
 [u0362 | 00:39:15.410-00:39:15.960 | Little Tony] I…
@@ -548,7 +548,7 @@
 [u0548 | 00:50:51.530-00:50:52.489 | DM] Make it happen.
 [u0549 | 00:50:52.490-00:50:54.140 | Sculpit] You gotta trust me, you gotta trust…
 [u0550 | 00:50:54.140-00:50:56.310 | DM] I trust you. I trusted…
-[u0551 | 00:50:56.310-00:50:56.770 | Sculpit] orbits.
+[u0551 | 00:50:56.310-00:50:56.770 | Sculpit] the process.
 [u0552 | 00:50:56.770-00:51:00.709 | DM] I trust the process, I trust Little Tony's gonna find the things that need to be found.
 [u0553 | 00:51:05.130-00:51:05.790 | DM] She doesn't…
 [u0554 | 00:51:05.790-00:51:06.620 | Sculpit] app.
@@ -629,7 +629,7 @@
 [u0629 | 00:56:45.630-00:56:57.959 | DM] as he lands, as he lands, you hear, just kind of, like, bursting from the bushes, like, Xena has been, like, hiding and watching this whole time, and she, like, falls over and is like.
 [u0630 | 00:56:59.430-00:57:01.710 | DM] That was so hot.
 [u0631 | 00:57:03.910-00:57:04.540 | Heska] He's like…
-[u0632 | 00:57:04.540-00:57:05.909 | DM] Yeah, it has LA.
+[u0632 | 00:57:04.540-00:57:05.909 | DM] Yeah, Heska's like…
 [u0633 | 00:57:05.910-00:57:11.720 | Heska] So, Heska is normally, like, a green-scale dragonet with, like, silver…
 [u0634 | 00:57:12.420-00:57:20.209 | Heska] highlights, and silver eyes, and all the little silver bits turn red. He looks like a Christmas tree.
 [u0635 | 00:57:21.230-00:57:33.540 | DM] Xena, like, flies over, and is, like, gets in, like, Heska's, like, very close proximity, and is like, Heska, you need to do that, and we're gonna do that together, tonight, in front of everybody.
@@ -649,7 +649,7 @@
 [u0649 | 00:58:16.330-00:58:18.199 | Sculpit] Of the eyes away from you.
 [u0650 | 00:58:19.360-00:58:27.039 | DM] You know what? Normally, I agree that all of the eyes should be on me, but in this particular case, I don't mind. This sounds great.
 [u0651 | 00:58:27.040-00:58:30.269 | Sculpit] Yeah, but we want to give him a little,
-[u0652 | 00:58:30.450-00:58:36.090 | Sculpit] a gentle introduction to your level of hormones, right? We don't want to overwhelm them.
+[u0652 | 00:58:30.450-00:58:36.090 | Sculpit] a gentle introduction to your level of performance, right? We don't want to overwhelm them.
 [u0653 | 00:58:36.240-00:58:43.460 | DM] This all sounds fantastic. Hey, what's this name? Little… Little Joey? What's the, what's the,
 [u0654 | 00:58:43.460-00:58:47.059 | Sculpit] Little Tony. It's important for me should you talk about this?
 [u0655 | 00:58:47.560-00:58:50.339 | DM] I'm sorry, Sculpit, I'm sorry, I'm sorry. Little Tony.
@@ -678,7 +678,7 @@
 [u0678 | 01:00:04.460-01:00:05.430 | Zeno] So that's true.
 [u0679 | 01:00:05.430-01:00:08.799 | Sculpit] You know, sometimes it's hard to remember the perspective shifts.
 [u0680 | 01:00:08.800-01:00:14.860 | Little Tony] It's that people just don't appreciate pebbles, like a pebble. Nope, I'm staying focused, I'm staying focused.
-[u0681 | 01:00:14.860-01:00:18.100 | Sculpit] I had your stayed pretty… pebbles are great. Look, you don't like.
+[u0681 | 01:00:14.860-01:00:18.100 | Sculpit] I understand pretty… pebbles are great. Look, you don't like.
 [u0682 | 01:00:18.100-01:00:22.620 | DM] Little Joey, Little Joey, if you show up with a bunch of rocks after this whole call…
 [u0683 | 01:00:22.620-01:00:24.049 | Sculpit] That'll be fun. That'll be fun.
 [u0684 | 01:00:24.050-01:00:27.580 | DM] If little… if little man here shows up with a bunch of rocks.
@@ -699,7 +699,7 @@
 [u0699 | 01:01:29.880-01:01:37.570 | Sculpit] Sculpit will… Like, wave his hand and create, like, a little image of, like, actual jewelry, like… Like this.
 [u0700 | 01:01:38.630-01:01:39.580 | Zeno] Yeah, I got you.
 [u0701 | 01:01:40.170-01:01:40.750 | Sculpit] Right?
-[u0702 | 01:01:41.250-01:01:45.649 | Sculpit] Not… he raises his hand again, creates a little image of synthetic coolant pebbles.
+[u0702 | 01:01:41.250-01:01:45.649 | Sculpit] Not… he raises his hand again, creates a little image of some cool-looking pebbles.
 [u0703 | 01:01:45.850-01:01:47.750 | Sculpit] Take these to the palm.
 [u0704 | 01:01:48.330-01:01:52.779 | Sculpit] to the palm. Cool jewelry, but it's back again, back here.
 [u0705 | 01:01:57.060-01:01:57.740 | Sculpit] Got it?
@@ -762,7 +762,7 @@
 [u0762 | 01:06:48.520-01:06:49.940 | DM] We think this is the one.
 [u0763 | 01:06:50.860-01:07:02.450 | Little Tony] look at you! You're so beautiful! And, like, all… all your friends just, like, boosting you up. This is what I like to see, like, the… the love that they have for you is what makes you so beautiful.
 [u0764 | 01:07:02.620-01:07:04.590 | Little Tony] This is magnificent, yes.
-[u0765 | 01:07:04.590-01:07:11.390 | DM] The ruby is red and bright, and is blushing. The ruby is definitely, like… Oh, I've seen.
+[u0765 | 01:07:04.590-01:07:11.390 | DM] The ruby is red and bright, and is blushing. The ruby is definitely, like… Oh, I’m seen.
 [u0766 | 01:07:12.030-01:07:18.190 | Little Tony] I feel the same, like, a moment like this. This is… this is kismet, man, this is… ugh, this is beautiful.
 [u0767 | 01:07:18.190-01:07:24.960 | DM] So Zare is watching this whole scene, and he's sort of, like, kind of looking, looking at, you know, Little Tony, like, he's like, are you…
 [u0768 | 01:07:25.490-01:07:31.439 | DM] And he looks to Zeno, he's like, is he talking to the jewels? Is he talking to my jewels?
@@ -814,7 +814,7 @@
 [u0814 | 01:10:14.810-01:10:17.409 | DM] The pebble's name is Edmund?
 [u0815 | 01:10:17.540-01:10:18.050 | Little Tony] Yeah.
 [u0816 | 01:10:18.370-01:10:27.450 | Little Tony] That's correct. You gotta be decent to this dude. Like, you gotta respect Edmund, and Edmund will respect you. And if you can promise me that, we're done.
-[u0817 | 01:10:31.750-01:10:36.089 | Zeno] We could also do a ton of temporary exchange. After the Jubilee, we just swapped them back, you know.
+[u0817 | 01:10:31.750-01:10:36.089 | Zeno] We could also do a kind of temporary exchange. After the Jubilee, we just swapped them back, you know.
 [u0818 | 01:10:37.350-01:10:39.679 | DM] No, no, no, no, no. That won't be necessary.
 [u0819 | 01:10:39.800-01:10:41.800 | DM] Zare, like, pauses.
 [u0820 | 01:10:42.630-01:10:51.029 | DM] He has these, like, long, he has, you know, dragonet hair, but, like, you know, tied up into, like, a long… a long set of, braids in the back, and…
@@ -958,7 +958,7 @@
 [u0958 | 01:24:19.420-01:24:24.630 | DM] That's good. 17, and… let's do it again with advantage.
 [u0959 | 01:24:26.090-01:24:27.990 | DM] Alright, and then I get a plus D6?
 [u0960 | 01:24:27.990-01:24:28.550 | Sculpit] Yep.
-[u0961 | 01:24:30.500-01:24:31.510 | Little Tony] N plus a D4?
+[u0961 | 01:24:30.500-01:24:31.510 | Little Tony] And plus a D4?
 [u0962 | 01:24:32.900-01:24:34.030 | Heska] That's just for me.
 [u0963 | 01:24:34.380-01:24:35.029 | Little Tony] Oh, that's weird.
 [u0964 | 01:24:35.030-01:24:42.360 | DM] 23. Okay, so Xena launches up, and Xena now is adorned and bedazzled.
@@ -1026,7 +1026,7 @@
 [u1026 | 01:30:44.580-01:30:50.730 | DM] As y'all are talking, the fog is, like, slowly starting to dissipate. Xena, who's also a pro.
 [u1027 | 01:30:51.190-01:31:01.820 | DM] She's, like, takes advantage of the fog, like, somehow, and manages, like, to shoot out from the top of the fog, and, like, hovers over it, and…
 [u1028 | 01:31:01.820-01:31:13.040 | DM] just, like, gives this big, like… even though, like, no… whether it was bad or not, she just acts like she won, like, the greatest competition in Sing-off.
-[u1029 | 01:31:13.070-01:31:29.990 | DM] In the history of the dragonets. And just, like, you know, shouts and is, like, puts out a victory sign, and her energy around that is, like, positive enough that, like, whatever they people saw, they just kind of remember her confidence at the moment, like, on top of this fog, just, like.
+[u1029 | 01:31:13.070-01:31:29.990 | DM] In the history of the dragonets. And just, like, you know, shouts and is, like, puts out a victory sign, and her energy around that is, like, positive enough that, like, whatever the people saw, they just kind of remember her confidence at the moment, like, on top of this fog, just, like.
 [u1030 | 01:31:29.990-01:31:38.810 | DM] I am the greatest. And the dragonets, they still let out a big cheer. There's still, like, a lot of, like, you know, just, like, stoke. The stoke is still incredibly high.
 [u1031 | 01:31:38.960-01:31:55.739 | DM] And, Heska, you are able to escape. You are able to, like, sneak out. And whether, you know, the lasting image of you, you know, like, unceremoniously, like, whipping Xena in a kind of, you know, obviously, like, failure way.
 [u1032 | 01:31:55.740-01:32:08.110 | DM] lasts in everybody's minds for how long? We'll see, because everybody did kind of see that, but Xena, at least, with her own kind of sense of pride and her own sense of, like, I gotta rescue this.
@@ -1058,7 +1058,7 @@
 [u1058 | 01:34:15.630-01:34:21.040 | DM] To be fair, Xena's very hot and cold, and she often wants to kill everyone, so just, you know…
 [u1059 | 01:34:21.280-01:34:21.640 | Heska] fire.
 [u1060 | 01:34:21.640-01:34:22.660 | DM] Many road experiences.
-[u1061 | 01:34:22.660-01:34:23.130 | Heska] NFR.
+[u1061 | 01:34:22.660-01:34:23.130 | Heska] Never.
 [u1062 | 01:34:23.130-01:34:27.209 | DM] No, you have not, you have not, and that was a particularly deathly stare that she gave me, so just…
 [u1063 | 01:34:29.640-01:34:30.230 | Zeno] Two commercials.
 [u1064 | 01:34:30.600-01:34:31.150 | Little Tony] Oops.
@@ -1121,34 +1121,34 @@
 [u1121 | 01:39:23.340-01:39:29.879 | DM] And, one place, though, Zeno, that you, in particular, are very excited about
 [u1122 | 01:39:29.950-01:39:42.500 | DM] is the call and response, the spoken word showdown that happens every single year. And Zeno, for you, while dragonets are all family and all love.
 [u1123 | 01:39:42.670-01:39:44.820 | DM] You do kind of have an arch rival.
-[u1124 | 01:39:45.600-01:39:48.639 | DM] And your arch rival is Rosca.
+[u1124 | 01:39:45.600-01:39:48.639 | DM] And your arch rival is Roska.
 [u1125 | 01:39:48.880-01:39:49.750 | DM] Who is…
-[u1126 | 01:39:49.750-01:39:50.210 | Zeno] Nebraska.
-[u1127 | 01:39:50.210-01:40:04.190 | DM] Oh, Rosca. Oh, Rosca. And Rosca is part of a larger crew of dragonets. You have your own crews as well, you know, everybody kind of floats around, but Rosca's crew is… the best way to describe Rosca's crew… let me,
-[u1128 | 01:40:05.660-01:40:08.330 | DM] Let's go, let's bring, let's bring in Rosca's crew.
-[u1129 | 01:40:09.190-01:40:12.859 | DM] The best way to describe Rosca's crew is, like.
+[u1126 | 01:39:49.750-01:39:50.210 | Zeno] Roska.
+[u1127 | 01:39:50.210-01:40:04.190 | DM] Oh, Roska. Oh, Roska. And Roska is part of a larger crew of dragonets. You have your own crews as well, you know, everybody kind of floats around, but Roska's crew is… the best way to describe Roska's crew… let me,
+[u1128 | 01:40:05.660-01:40:08.330 | DM] Let's go, let's bring, let's bring in Roska's crew.
+[u1129 | 01:40:09.190-01:40:12.859 | DM] The best way to describe Roska's crew is, like.
 [u1130 | 01:40:15.810-01:40:20.749 | DM] It's like, if you… if you kind of imagine,
 [u1131 | 01:40:21.200-01:40:21.860 | Zeno] -Oh.
-[u1132 | 01:40:21.860-01:40:32.659 | DM] you know, this isn't the most representative image, but we'll roll with it. If you imagine signed a, kind of like Jamaican sound system culture.
+[u1132 | 01:40:21.860-01:40:32.659 | DM] you know, this isn't the most representative image, but we'll roll with it. If you imagine sort of, kind of like Jamaican sound system culture.
 [u1133 | 01:40:32.780-01:40:39.439 | DM] Where it's like, it's like, you know, the whole kind of idea is, who's got the best and coolest band?
 [u1134 | 01:40:39.920-01:40:50.519 | DM] that can actually, like, you know, bring some, like, real, actual beats and music, and make the dragonets dance the hardest. That is a big part of the energy.
 [u1135 | 01:40:50.520-01:40:53.739 | DM] And then, in the middle of the dance part.
 [u1136 | 01:40:53.740-01:40:56.640 | DM] There's always the MC call and response.
 [u1137 | 01:40:56.730-01:40:57.300 | DM] parts.
 [u1138 | 01:40:57.300-01:40:58.000 | DM] That happens.
-[u1139 | 01:40:58.000-01:40:58.459 | DM] Rosca.
+[u1139 | 01:40:58.000-01:40:58.459 | DM] Roska.
 [u1140 | 01:40:58.460-01:41:02.120 | DM] where MCs, the dragonets, will get into the center.
 [u1141 | 01:41:02.120-01:41:07.399 | DM] As they're dancing, but also having a call and response back and forth, and…
-[u1142 | 01:41:07.990-01:41:17.249 | DM] Zeno, Rosca is one that you've been eyeing and kind of thinking about and preparing for, because you know that this was something that was likely to happen.
-[u1143 | 01:41:17.300-01:41:28.610 | DM] And you see the four of you as you're kind of walking around and, you know, checking out various things. This is one of the first things that you come across, is Rosca and his crew.
+[u1142 | 01:41:07.990-01:41:17.249 | DM] Zeno, Roska is one that you've been eyeing and kind of thinking about and preparing for, because you know that this was something that was likely to happen.
+[u1143 | 01:41:17.300-01:41:28.610 | DM] And you see the four of you as you're kind of walking around and, you know, checking out various things. This is one of the first things that you come across, is Roska and his crew.
 [u1144 | 01:41:29.740-01:41:30.890 | DM] Zeno, what do you do?
-[u1145 | 01:41:32.520-01:41:41.239 | Zeno] So, I was kind of, like, occasionally mumbling all day, like, Rosca, I'm gonna toss, Rosca, you know, I gotcha,
-[u1146 | 01:41:41.380-01:41:52.170 | Zeno] Rosca Rodatus. Wow. Guy, my eyes with… oh, man, I… this is what… this is why he's my rival. It's, like, very difficult to disparagingly rhyme against him.
+[u1145 | 01:41:32.520-01:41:41.239 | Zeno] So, I was kind of, like, occasionally mumbling all day, like, Roska, I'm gonna toss, Roska, you know, I gotcha,
+[u1146 | 01:41:41.380-01:41:52.170 | Zeno] Roska Rodatus. Wow. Guy, my eyes with… oh, man, I… this is what… this is why he's my rival. It's, like, very difficult to disparagingly rhyme against him.
 [u1147 | 01:41:57.080-01:41:59.999 | DM] But… I check out the setup.
 [u1148 | 01:42:01.830-01:42:05.010 | DM] Poke my claws into the speaker cones a little bit.
 [u1149 | 01:42:06.180-01:42:07.920 | Zeno] What you got this year, man?
-[u1150 | 01:42:09.860-01:42:16.650 | DM] Rosca, like, basically kind of looks and sees, like, the four of you, like, as a little mini crew, like, rolling up.
-[u1151 | 01:42:16.650-01:42:21.869 | DM] And Rosca looks over, Clearly noticing you and seeing you.
+[u1150 | 01:42:09.860-01:42:16.650 | DM] Roska, like, basically kind of looks and sees, like, the four of you, like, as a little mini crew, like, rolling up.
+[u1151 | 01:42:16.650-01:42:21.869 | DM] And Roska looks over, Clearly noticing you and seeing you.
 [u1152 | 01:42:21.870-01:42:25.109 | DM] And basically, Stops the music.
 [u1153 | 01:42:25.690-01:42:28.850 | DM] Completely, and pauses, and is like, everybody stop.
 [u1154 | 01:42:29.210-01:42:30.430 | DM] Everybody stop.
@@ -1182,27 +1182,27 @@
 [u1182 | 01:44:25.380-01:44:30.120 | DM] See, I'm gonna back away from all this whole situation. Let me awkwardly leave.
 [u1183 | 01:44:30.120-01:44:31.230 | DM] roll.
 [u1184 | 01:44:31.710-01:44:34.350 | DM] Zeno,
-[u1185 | 01:44:34.350-01:44:47.650 | DM] you know, Rosca… Rosca is… is, he's hyped to see you, but Rosca, you know, it's like… it's a dragonet thing, right? It's like, y'all are, like, enemies, but also friends, you know what I mean? Like, Rosca, like, you also will have, like, friendly battles with him, etc.
+[u1185 | 01:44:34.350-01:44:47.650 | DM] you know, Roska… Roska is… is, he's hyped to see you, but Roska, you know, it's like… it's a dragonet thing, right? It's like, y'all are, like, enemies, but also friends, you know what I mean? Like, Roska, like, you also will have, like, friendly battles with him, etc.
 [u1186 | 01:44:47.650-01:44:48.480 | DM] But…
 [u1187 | 01:44:48.930-01:44:53.430 | DM] this is, you know, this is the Jubilee, you know what I mean? This is the Jubilee. Everybody is here.
 [u1188 | 01:44:53.430-01:44:54.570 | DM] And, and…
-[u1189 | 01:44:54.570-01:44:58.769 | DM] you know, Rosca wants a piece of you. You know, Rosca is ready for this moment.
+[u1189 | 01:44:54.570-01:44:58.769 | DM] you know, Roska wants a piece of you. You know, Roska is ready for this moment.
 [u1190 | 01:44:58.970-01:45:07.640 | DM] So… Oh, Eric, where'd you go? Oh, there you go. I just had to take something out of a toaster. I'm, like, making Lizzie's lunch while we're playing.
 [u1191 | 01:45:07.890-01:45:08.419 | DM] You should do.
 [u1192 | 01:45:08.780-01:45:19.539 | DM] So basically, you know, part of what happens now is there's, like, a circle that's forming around you all. And, you know, Heska, Sculpit, Little Tony, y'all are in the circle.
 [u1193 | 01:45:19.830-01:45:29.549 | DM] Little Tony, you know, part of what's cool here is, like, this particular kind of dragonet circle and this, this particular kind of call and response thing.
 [u1194 | 01:45:30.260-01:45:33.430 | DM] This happens everywhere, but everybody brings some really fucking cool shit.
-[u1195 | 01:45:33.430-01:45:33.880 | DM] Indigenous.
+[u1195 | 01:45:33.430-01:45:33.880 | DM] In addition.
 [u1196 | 01:45:33.880-01:45:50.600 | DM] So it's, like, all across the island in particular, like, the Find It people, like, they're also adorning everybody that, like, you know, gets to come and dance in the middle. So there's just, like, you know, a bunch of, like, really cool objects for you to, like, both, you know, talk to and or be tortured by. But this is kind of another, like, another unique space for you.
 [u1197 | 01:45:52.000-01:46:08.610 | DM] Heska, something that you, like, are really enjoying about this, because again, there's this whole dance battle part of it, and, you know, for you as, like, a hunter acrobat, like, it's really, really, like, hypnotic, like, watching the physical movements of some of these dragonets, like, that's something that, you know, you're really appealed by.
 [u1198 | 01:46:08.690-01:46:22.990 | DM] And Sculpit, you know, you're always, in these performance spaces, like, you can't turn off the part of you that's just, like, analyzing this shit and being like, ugh, you know, that was cool, but if you took that wing back and just did a little bit more of the shimmy.
 [u1199 | 01:46:23.160-01:46:25.330 | DM] I think the crowd would have liked.
 [u1200 | 01:46:25.330-01:46:28.900 | DM] So all of you have, like, a little kind of, like, hook into this as…
 [u1201 | 01:46:28.900-01:46:29.890 | DM] Zeno…
-[u1202 | 01:46:30.500-01:46:34.850 | DM] This is kind of your moment. And Rosca, like, kind of starts dancing in the middle.
+[u1202 | 01:46:30.500-01:46:34.850 | DM] This is kind of your moment. And Roska, like, kind of starts dancing in the middle.
 [u1203 | 01:46:34.850-01:46:36.640 | DM] And starts looking at you.
 [u1204 | 01:46:37.190-01:46:42.650 | DM] And he's like… Yeah.
-[u1205 | 01:46:43.150-01:46:48.240 | DM] And he starts, like, wait, like, really? And, and, and Rosca's gonna, Rosca's gonna roll for his, his, his,
+[u1205 | 01:46:43.150-01:46:48.240 | DM] And he starts, like, wait, like, really? And, and, and Roska's gonna, Roska's gonna roll for his, his, his,
 [u1206 | 01:46:48.340-01:46:49.970 | DM] His freestyles, hold on.
 [u1207 | 01:46:51.310-01:46:53.569 | DM] Go Zeno. Go Zeno.
 [u1208 | 01:46:54.410-01:46:56.189 | DM] I'm, I'm gonna, I'm gonna go, I'm gonna go.
@@ -1240,9 +1240,9 @@
 [u1240 | 01:48:24.680-01:48:27.019 | DM] Okay. Actually, let's roll initiative. Let's roll initiative.
 [u1241 | 01:48:27.960-01:48:28.770 | Zeno] Oh, to see who just…
 [u1242 | 01:48:29.380-01:48:30.360 | Heska] Who goes first?
-[u1243 | 01:48:30.360-01:48:31.969 | DM] We were all, we were all initiative, hold on.
+[u1243 | 01:48:30.360-01:48:31.969 | DM] We roll, we roll initiative, hold on.
 [u1244 | 01:48:32.430-01:48:34.350 | Zeno] That's a 16 for me.
-[u1245 | 01:48:35.170-01:48:42.669 | DM] Rosca rolls a… 14, you win. You start.
+[u1245 | 01:48:35.170-01:48:42.669 | DM] Roska rolls a… 14, you win. You start.
 [u1246 | 01:48:46.530-01:48:48.710 | DM] Yo, yo, let's go!
 [u1247 | 01:48:49.310-01:48:52.019 | DM] Oh my god, I'm so unprepared for this!
 [u1248 | 01:48:52.880-01:48:57.540 | DM] I'm gonna give you the biggest, heaviest, nastiest diss.
@@ -1255,7 +1255,7 @@
 [u1255 | 01:49:21.130-01:49:22.640 | DM] Yeah, roll your attack.
 [u1256 | 01:49:22.990-01:49:24.099 | DM] Or how does that work?
 [u1257 | 01:49:24.100-01:49:25.510 | DM] We're… No, that's.
-[u1258 | 01:49:26.100-01:49:31.969 | Heska] Sick Burn's a minus 1d4 to Rosca's roll. You should probably just roll performance for yourself.
+[u1258 | 01:49:26.100-01:49:31.969 | Heska] Sick Burn's a minus 1d4 to Roska's roll. You should probably just roll performance for yourself.
 [u1259 | 01:49:31.970-01:49:32.550 | DM] performance.
 [u1260 | 01:49:32.550-01:49:37.150 | DM] to start out. Do it like a… like a whoever rolls higher wins.
 [u1261 | 01:49:37.150-01:49:39.590 | DM] Yeah, yeah, roll D20 for performance.
@@ -1275,43 +1275,43 @@
 [u1275 | 01:50:06.290-01:50:07.310 | DM] Let me look at this message.
 [u1276 | 01:50:08.000-01:50:11.230 | Little Tony] Also, keep some stamina in reserve to quickly punch a car.
 [u1277 | 01:50:11.660-01:50:13.969 | DM] Totally. To what? To let them… To what?
-[u1278 | 01:50:13.970-01:50:28.539 | DM] Okay, so just… Rosca is, like, decked out. Rosca's got, like, you know, jewelry, he's got, you know, like, all, like, his costuming is, like, peak. And that's part of, like, his performance, like, he's got, you know, a proper… what's your performance plus?
+[u1278 | 01:50:13.970-01:50:28.539 | DM] Okay, so just… Roska is, like, decked out. Roska's got, like, you know, jewelry, he's got, you know, like, all, like, his costuming is, like, peak. And that's part of, like, his performance, like, he's got, you know, a proper… what's your performance plus?
 [u1279 | 01:50:28.910-01:50:29.619 | DM] Zeno?
 [u1280 | 01:50:31.280-01:50:32.060 | Zeno] 7 plus 7.
-[u1281 | 01:50:32.560-01:50:37.380 | DM] Yeah, Rosca, Rosca, like, right now, he's got a plus 8. Like, he's, like, he's, like, looking fire.
+[u1281 | 01:50:32.560-01:50:37.380 | DM] Yeah, Roska, Roska, like, right now, he's got a plus 8. Like, he's, like, he's, like, looking fire.
 [u1282 | 01:50:37.620-01:50:38.150 | Zeno] Damn.
 [u1283 | 01:50:38.150-01:50:41.650 | DM] Definitely, like, it's all decked out, jewelry, costuming.
 [u1284 | 01:50:41.650-01:50:45.409 | DM] Braids, like, everything, like feathers, he's just, he's totally decked out.
-[u1285 | 01:50:45.710-01:50:47.210 | DM] So Rosca's like…
+[u1285 | 01:50:45.710-01:50:47.210 | DM] So Roska's like…
 [u1286 | 01:50:47.210-01:50:49.889 | DM] Okay, so you, you did your, you did your, what was your, what was your roll again?
 [u1287 | 01:50:50.810-01:50:51.250 | Zeno] 22.
 [u1288 | 01:50:51.530-01:50:52.350 | DM] 22, okay.
-[u1289 | 01:50:52.920-01:50:58.800 | DM] So Rosca's like, Zeno, gonna burn you to the ground!
+[u1289 | 01:50:52.920-01:50:58.800 | DM] So Roska's like, Zeno, gonna burn you to the ground!
 [u1290 | 01:50:58.910-01:51:00.820 | DM] You're lost and found!
 [u1291 | 01:51:00.820-01:51:02.520 | DM] You're like a little mound!
 [u1292 | 01:51:02.520-01:51:03.689 | DM] Of dirt!
 [u1293 | 01:51:04.280-01:51:05.870 | DM] That I walk on!
 [u1294 | 01:51:06.020-01:51:11.200 | DM] And I jump on! And I piss on! Because you're dirt!
-[u1295 | 01:51:11.900-01:51:13.310 | DM] And I'm Rosca!
+[u1295 | 01:51:11.900-01:51:13.310 | DM] And I'm Roska!
 [u1296 | 01:51:13.480-01:51:14.820 | DM] And I'm the best!
-[u1297 | 01:51:15.170-01:51:23.259 | DM] And Rosca, Rosca, you know, he's… he's definitely, he's definitely, like, throwing the fire. Like, you're feeling a little, like, oh, shit, Rosca's definitely bringing the heat today.
+[u1297 | 01:51:15.170-01:51:23.259 | DM] And Roska, Roska, you know, he's… he's definitely, he's definitely, like, throwing the fire. Like, you're feeling a little, like, oh, shit, Roska's definitely bringing the heat today.
 [u1298 | 01:51:23.400-01:51:29.149 | DM] And he rolls… Let's see, do I have to do a minus D… a minus… Minus 4, yeah.
 [u1299 | 01:51:29.310-01:51:31.570 | Heska] Yeah, let Eric roll the D4.
 [u1300 | 01:51:32.030-01:51:33.999 | Zeno] Oh, nice, okay. Oh, dude, okay.
-[u1301 | 01:51:34.320-01:51:36.299 | DM] Rosca rolls a 19.
+[u1301 | 01:51:34.320-01:51:36.299 | DM] Roska rolls a 19.
 [u1302 | 01:51:36.300-01:51:37.130 | DM] All in.
 [u1303 | 01:51:37.130-01:51:37.690 | DM] minus…
 [u1304 | 01:51:39.270-01:51:41.800 | DM] And then D4… is a 3.
-[u1305 | 01:51:43.220-01:52:05.949 | DM] So basically, this first round, you know, after, like, this back and forth that's happening, and all the dragonets, they're kind of bouncing and looking, and you know, they're cheering as, like, kind of each moment happens, but then it's like, you know, kind of once Rosca finishes, you know, there's the MC dragonet that kind of stands up in the middle, and then basically, like, points first at, like, Rosca, and everybody cheers, but then he points over to you, to Zeno, and then everybody's like.
+[u1305 | 01:51:43.220-01:52:05.949 | DM] So basically, this first round, you know, after, like, this back and forth that's happening, and all the dragonets, they're kind of bouncing and looking, and you know, they're cheering as, like, kind of each moment happens, but then it's like, you know, kind of once Roska finishes, you know, there's the MC dragonet that kind of stands up in the middle, and then basically, like, points first at, like, Roska, and everybody cheers, but then he points over to you, to Zeno, and then everybody's like.
 [u1306 | 01:52:06.630-01:52:11.519 | DM] Like, big, big, big roar. And Zeno takes round 1.
-[u1307 | 01:52:11.710-01:52:13.399 | DM] Of the Rosca face-off.
+[u1307 | 01:52:11.710-01:52:13.399 | DM] Of the Roska face-off.
 [u1308 | 01:52:14.390-01:52:15.370 | DM] Let's roll initiative around.
 [u1309 | 01:52:15.370-01:52:16.170 | DM] That's true.
 [u1310 | 01:52:18.890-01:52:22.570 | DM] Switch, switch, I like this. Okay. Oh, that's a 10.
-[u1311 | 01:52:23.420-01:52:25.160 | DM] 15, Rosca gets the first round.
-[u1312 | 01:52:26.710-01:52:38.479 | DM] Rosca now is, like, he's pissed. He's like… Rosca does not like to lose, and the fact that he lost that first round, he started to, like, feel a little something-something, so… He, like, reaches into his… oh, hold on.
+[u1311 | 01:52:23.420-01:52:25.160 | DM] 15, Roska gets the first round.
+[u1312 | 01:52:26.710-01:52:38.479 | DM] Roska now is, like, he's pissed. He's like… Roska does not like to lose, and the fact that he lost that first round, he started to, like, feel a little something-something, so… He, like, reaches into his… oh, hold on.
 [u1313 | 01:52:43.040-01:52:44.860 | DM] Yeah, so…
-[u1314 | 01:52:45.410-01:52:56.139 | DM] Rosca, like, he's like… like, and you know Rosca, too. Like, Rosca typically in these battles, like, he gets more and more elaborate with, like, props and stunts. It's sort of like the NBA dunk contest, you know, it gets more ridiculous.
+[u1314 | 01:52:45.410-01:52:56.139 | DM] Roska, like, he's like… like, and you know Roska, too. Like, Roska typically in these battles, like, he gets more and more elaborate with, like, props and stunts. It's sort of like the NBA dunk contest, you know, it gets more ridiculous.
 [u1315 | 01:52:56.140-01:52:56.580 | Zeno] Nice.
 [u1316 | 01:52:56.580-01:53:13.009 | DM] round as it goes. The first round was just, like, verbal battle, but now this round, he's, like, starting to reach for his props. Like, he's got, like, you know, he's starting, like, as he's, like, rapping, and as he's doing his thing, he's, like, pulling out, like, feathers from his hair, and he's like, like, you know, yeah, like, you're terrible, like, the weather, and I beat you with this feather, you know, and he's like, you know, like.
 [u1317 | 01:53:13.010-01:53:13.410 | DM] Pulling.
@@ -1322,15 +1322,15 @@
 [u1322 | 01:53:26.840-01:53:27.580 | Heska] Number one!
 [u1323 | 01:53:27.790-01:53:29.029 | DM] Set, chat, what's that?
 [u1324 | 01:53:29.030-01:53:29.410 | Little Tony] Yeah, too.
-[u1325 | 01:53:29.410-01:53:47.469 | DM] You see Rosca, and he's like, he's like, you know, because, like, one of the big things at Jubilee is, like, people playing with eggs, you know, because this is, like, the big… and oh, I should have mentioned earlier, it's like, if a dragonet actually hatches at the Jubilee, it's, like, fucking mayhem. It's like, oh, fuck, like, an actual, like, hatchling, like, occurred at the Jubilee.
+[u1325 | 01:53:29.410-01:53:47.469 | DM] You see Roska, and he's like, he's like, you know, because, like, one of the big things at Jubilee is, like, people playing with eggs, you know, because this is, like, the big… and oh, I should have mentioned earlier, it's like, if a dragonet actually hatches at the Jubilee, it's, like, fucking mayhem. It's like, oh, fuck, like, an actual, like, hatchling, like, occurred at the Jubilee.
 [u1326 | 01:53:47.470-01:53:59.130 | DM] So there… but people have a lot of fake eggs, and there's also, like, games around, like, stealing eggs. Like, the actual eggs are in these, like, revered locations where nobody ever touches, super solemn, nobody would ever fuck with the eggs. But, like, the actual, like,
 [u1327 | 01:53:59.580-01:54:00.060 | DM] Like.
-[u1328 | 01:54:00.060-01:54:19.799 | DM] play eggs, they're, like, everywhere. It's like, Rosca's, like, reaching in his pouch, and he's ready for, like, super good burn, like, around, like, he's gonna be like, oh, yeah, and, like, I'm gonna hit you with my neck, just like you were my clutch thing in my egg! And he's about to, like, say egg, and he's, like, pulling… reaching into his pouch to pull out an egg, and he's sort of like, wait, is something… and then… but then he, like, finds it.
+[u1328 | 01:54:00.060-01:54:19.799 | DM] play eggs, they're, like, everywhere. It's like, Roska's, like, reaching in his pouch, and he's ready for, like, super good burn, like, around, like, he's gonna be like, oh, yeah, and, like, I'm gonna hit you with my neck, just like you were my clutch thing in my egg! And he's about to, like, say egg, and he's, like, pulling… reaching into his pouch to pull out an egg, and he's sort of like, wait, is something… and then… but then he, like, finds it.
 [u1329 | 01:54:19.870-01:54:21.280 | DM] And he pulls it out.
 [u1330 | 01:54:21.280-01:54:22.000 | Sculpit] No balloon.
 [u1331 | 01:54:22.000-01:54:22.870 | DM] Delivers!
 [u1332 | 01:54:23.380-01:54:24.900 | DM] Despite!
-[u1333 | 01:54:25.180-01:54:32.139 | DM] Despite the best intentions of Heska and his efforts to try to disrupt Rosca's flow.
+[u1333 | 01:54:25.180-01:54:32.139 | DM] Despite the best intentions of Heska and his efforts to try to disrupt Roska's flow.
 [u1334 | 01:54:32.790-01:54:40.659 | DM] And he delivers… he delivers still a sick burn. And, let's see, he rolls as a part of his round of performance.
 [u1335 | 01:54:41.820-01:54:43.410 | DM] A 20, in total.
 [u1336 | 01:54:44.770-01:54:45.840 | DM] 12 plus 8.
@@ -1350,7 +1350,7 @@
 [u1350 | 01:55:21.860-01:55:22.750 | DM] Alright.
 [u1351 | 01:55:22.990-01:55:24.570 | DM] You won the first round, though, so that's good.
 [u1352 | 01:55:25.250-01:55:25.970 | Zeno] Yeah.
-[u1353 | 01:55:26.900-01:55:28.640 | Zeno] Rosca, you got nothing.
+[u1353 | 01:55:26.900-01:55:28.640 | Zeno] Roska, you got nothing.
 [u1354 | 01:55:28.830-01:55:30.249 | Zeno] I got my crew.
 [u1355 | 01:55:30.450-01:55:32.980 | Zeno] We're gonna roll right over you.
 [u1356 | 01:55:33.150-01:55:33.900 | DM] Whoa!
@@ -1359,21 +1359,21 @@
 [u1359 | 01:55:43.370-01:55:45.830 | Zeno] Here comes my Little Tony.
 [u1360 | 01:55:46.000-01:55:50.220 | Zeno] He's gonna look at you and see you're a phony.
 [u1361 | 01:55:51.310-01:55:51.820 | DM] Oh, God.
-[u1362 | 01:55:51.820-01:55:55.140 | Zeno] I'm gonna have to, like, kind of lose… Melanie.
+[u1362 | 01:55:51.820-01:55:55.140 | Zeno] I'm gonna have to, like, kind of lose… melody.
 [u1363 | 01:55:55.140-01:56:01.790 | Zeno] Crew, we're better than you. And now I'm up on my pulpit like a prophet.
 [u1364 | 01:56:01.790-01:56:07.250 | Zeno] With my boy, Sculpit. We're gonna knock it right down!
 [u1365 | 01:56:07.600-01:56:09.650 | Zeno] Don't mess with my crew.
-[u1366 | 01:56:09.880-01:56:10.990 | Zeno] will crush you.
+[u1366 | 01:56:09.880-01:56:10.990 | Zeno] we’ll crush you.
 [u1367 | 01:56:13.290-01:56:21.210 | DM] Okay, okay, on the strength, on the strength of, like, just the performance… You should get it. Yeah, you get an additional, you get an additional plus 5 on that.
 [u1368 | 01:56:21.210-01:56:21.830 | DM] So, like…
 [u1369 | 01:56:22.130-01:56:26.579 | DM] Add a plus 5 to whatever your performance roll is. That was sick.
 [u1370 | 01:56:27.590-01:56:32.929 | DM] Okay, let's roll it. That's a 25 out of the gate, so a 30 total.
-[u1371 | 01:56:32.930-01:56:35.879 | DM] Wow! After, after, after you call Rosca a phony.
-[u1372 | 01:56:35.880-01:56:38.070 | Heska] Like, almost a seeker role.
-[u1373 | 01:56:38.070-01:56:40.810 | DM] After, after you call Rosca a phony.
-[u1374 | 01:56:40.810-01:56:49.719 | DM] like, everybody, like, erupts, and, like, Rosca… Rosca just, like, looks at you, and he's like… he gets down on a knee, and he's like…
+[u1371 | 01:56:32.930-01:56:35.879 | DM] Wow! After, after, after you call Roska a phony.
+[u1372 | 01:56:35.880-01:56:38.070 | Heska] Like, almost a seeker roll.
+[u1373 | 01:56:38.070-01:56:40.810 | DM] After, after you call Roska a phony.
+[u1374 | 01:56:40.810-01:56:49.719 | DM] like, everybody, like, erupts, and, like, Roska… Roska just, like, looks at you, and he's like… he gets down on a knee, and he's like…
 [u1375 | 01:56:50.380-01:56:55.220 | DM] He's just like, game recognizes game, that's it. He's like, I'm done.
-[u1376 | 01:56:55.650-01:57:04.769 | DM] And then, like, Rosca, like, comes over and gives you, like, a big hug, and he's like, dude, you killed that. That was crazy. That was crazy. And everybody is just like…
+[u1376 | 01:56:55.650-01:57:04.769 | DM] And then, like, Roska, like, comes over and gives you, like, a big hug, and he's like, dude, you killed that. That was crazy. That was crazy. And everybody is just like…
 [u1377 | 01:57:07.720-01:57:29.990 | DM] And, and, you know, you get mobbed. Like, everybody, like, the whole big circle kind of, like, bounces, bounces, bounces, and, like, everybody's, like, kind of bouncing around you, and, like, Heska and Little Tony, and you all just get kind of, like, you know, like, none of the three of you, like, fucking awkward-ass nerds, are like, oh, no, we're getting pulled in the middle of, like, the bouncing thing. But you can't, like, you're, because of your progress, you just get, like, pulled in, and you're, you're all kind of around, around,
 [u1378 | 01:57:29.990-01:57:34.330 | DM] Around, Zeno.
 [u1379 | 01:57:34.330-01:57:43.149 | DM] And all of you are just, like, kind of experiencing this, like, mob of, like, dragonet, like, hype energy and stoke around… around your… the sickness of your burn.
@@ -1401,7 +1401,7 @@
 [u1401 | 01:59:05.220-01:59:15.480 | DM] you know, there's a… there's, like, the… it's, it's a, you know, I mean, this is the… the night, you know? So, there's ebbs and flows throughout the whole evening, but…
 [u1402 | 01:59:15.720-01:59:22.700 | DM] You know, the four of you take some time, after, you know, like, enjoying the revelry of,
 [u1403 | 01:59:23.280-01:59:25.000 | DM] hold on.
-[u1404 | 01:59:25.650-01:59:40.029 | DM] of enjoying the revelry of, of, Zeno's victory over Rosca, and, you take a little time, and you're all… you're all hanging out. Actually, where are you hanging out? You guys, there's a whole bunch of different places. I'm not gonna… we're not gonna do, do the actual,
+[u1404 | 01:59:25.650-01:59:40.029 | DM] of enjoying the revelry of, of, Zeno's victory over Roska, and, you take a little time, and you're all… you're all hanging out. Actually, where are you hanging out? You guys, there's a whole bunch of different places. I'm not gonna… we're not gonna do, do the actual,
 [u1405 | 01:59:40.040-01:59:46.440 | DM] scenes just to save a little bit of time, but, let me just give you a couple of options for places that you could be. So…
 [u1406 | 01:59:46.840-02:00:03.470 | DM] There's The Great Find, which is where, you know, people just bring, like, all kinds of crazy fucking awesome objects and, like, share them with each other to look at. There's The Great Feast, where, like, people bring, like, really fucking crazy awesome food to, like, show off and also eat.
 [u1407 | 02:00:03.600-02:00:08.330 | DM] There is… we saw the call and response,
@@ -1471,14 +1471,14 @@
 [u1471 | 02:07:03.470-02:07:13.260 | Sculpit] Well, he's proud of how Xena recovered, and like, he still feels like her performance went really well, but he's like, I really should have spent time with this guy, right? Like, he… I dragged him into it.
 [u1472 | 02:07:13.310-02:07:13.990 | DM] Right?
 [u1473 | 02:07:13.990-02:07:18.989 | Sculpit] I convinced him to do this, and then I kind of abandoned him for my primary client after, like.
-[u1474 | 02:07:19.760-02:07:37.520 | Sculpit] putting the minimal effort into him, and he feels really bad. He's like, do you like this food? Like, do you want some of my crabducken here? Like, would you like getting… I feel bad, right? Like, he's, like, trying to make it up to Heska, like, this was probably… it probably should have helped you more, right? Because, like, I see you were so close, like.
+[u1474 | 02:07:19.760-02:07:37.520 | Sculpit] putting the minimal effort into him, and he feels really bad. He's like, do you like this food? Like, do you want some of my crabducken here? Like, would you like getting… I feel bad, right? Like, he's, like, trying to make it up to Heska, like, this was probably… I probably should have helped you more, right? Because, like, I see you were so close, like.
 [u1475 | 02:07:37.520-02:07:43.939 | Sculpit] Like, like, actually, you were almost brilliant. You were, like, steps away from being brilliant.
 [u1476 | 02:07:43.940-02:07:47.539 | Sculpit] He was! No, no, seriously, like, like… The rehearsal was great!
 [u1477 | 02:07:47.620-02:07:48.950 | DM] The rehearsal was amazing!
 [u1478 | 02:07:48.950-02:07:57.150 | Sculpit] Listen, listen, it's a little, like, his movement was right, like, sometimes the biggest mistakes are when you're the closest to success.
 [u1479 | 02:07:57.660-02:07:58.430 | Little Tony] Hmm.
 [u1480 | 02:07:58.430-02:07:59.560 | Zeno] Oh, true.
-[u1481 | 02:07:59.560-02:07:59.980 | DM] He's go.
+[u1481 | 02:07:59.560-02:07:59.980 | DM] Heska.
 [u1482 | 02:07:59.980-02:08:00.570 | Sculpit] Right?
 [u1483 | 02:08:00.570-02:08:03.260 | DM] Heska, does that hit you? Are you… or is that…
 [u1484 | 02:08:03.260-02:08:04.389 | Heska] No, no, no, no, no.
@@ -1492,9 +1492,9 @@
 [u1492 | 02:08:42.930-02:08:47.000 | Zeno] There's a timing issue. Zeno is eating…
 [u1493 | 02:08:47.520-02:08:53.299 | Zeno] Just your basic working man's fish meatballs on a stick, but he can put away a ton of them.
 [u1494 | 02:08:56.660-02:09:03.090 | DM] And as you're all, kind of sitting up and eating and…
-[u1495 | 02:09:03.500-02:09:15.420 | DM] You know. Is there, is there anything, any other conversation you want to have with each other? Any, any other, any other, either shout-outs to Rosca or, you know, love to Heska from, from the day? Anybody wants to share?
+[u1495 | 02:09:03.500-02:09:15.420 | DM] You know. Is there, is there anything, any other conversation you want to have with each other? Any, any other, any other, either shout-outs to Roska or, you know, love to Heska from, from the day? Anybody wants to share?
 [u1496 | 02:09:18.620-02:09:19.450 | Zeno] Can't wait.
-[u1497 | 02:09:20.290-02:09:24.050 | Zeno] To, see what Rosca comes back with next year.
+[u1497 | 02:09:20.290-02:09:24.050 | Zeno] To, see what Roska comes back with next year.
 [u1498 | 02:09:24.640-02:09:26.670 | Zeno] Man, he's gonna be motivated.
 [u1499 | 02:09:28.070-02:09:32.600 | Heska] Maybe we'll finally have your club ready. You can practice, you know?
 [u1500 | 02:09:32.950-02:09:42.559 | Zeno] Well, you guys are my crew now, you're already legendary! You were in the… you were in the battle, so… you know, we're gonna have to have, like, matching outfits and shit next year.
@@ -1628,7 +1628,7 @@
 [u1628 | 02:19:26.049-02:19:26.949 | DM] Alright.
 [u1629 | 02:19:27.089-02:19:33.419 | DM] You similarly notice that as you're flying around, this weird-ass phenomenon of
 [u1630 | 02:19:33.569-02:19:46.379 | DM] the, silence getting louder also has a directionality. There's, like, something about it that feels to shift depending on the direction you're in.
-[u1631 | 02:19:48.760-02:19:49.130 | Zeno] care.
+[u1631 | 02:19:48.760-02:19:49.130 | Zeno] Okay.
 [u1632 | 02:19:50.390-02:19:53.049 | Zeno] Oh, I'm gonna try to hum along with it, too.
 [u1633 | 02:19:53.050-02:19:54.180 | DM] Okay.
 [u1634 | 02:19:54.180-02:19:57.349 | Zeno] Just… just see what happens. I'll match the note with my voice.
@@ -1742,7 +1742,7 @@
 [u1742 | 02:27:56.780-02:27:58.660 | Zeno] Look down on it from above.
 [u1743 | 02:27:59.570-02:28:01.330 | Zeno] Like, 20 feet over it.
 [u1744 | 02:28:01.330-02:28:06.750 | Heska] Yeah, I'm gonna… I'm gonna stick close next to… Zeno.
-[u1745 | 02:28:07.160-02:28:08.749 | DM] So y'all are gonna prep… you're gonna prep?
+[u1745 | 02:28:07.160-02:28:08.749 | DM] So y'all are gonna approach… you're gonna approach?
 [u1746 | 02:28:08.750-02:28:12.410 | Heska] Loosen my… loosen my whip, in case I need to.
 [u1747 | 02:28:12.630-02:28:13.690 | Heska] Pull it out.
 [u1748 | 02:28:13.840-02:28:16.040 | Little Tony] Well, we know you can hit things with it.
@@ -1793,7 +1793,7 @@
 [u1793 | 02:32:41.880-02:32:42.530 | Little Tony] Hmm…
 [u1794 | 02:32:42.530-02:32:44.209 | Heska] I'll walk up to it. Wait, do you touch it?
 [u1795 | 02:32:44.590-02:32:45.800 | Heska] Poke it with my whip.
-[u1796 | 02:32:45.800-02:32:46.510 | DM] Sadget?
+[u1796 | 02:32:45.800-02:32:46.510 | DM] Touch it?
 [u1797 | 02:32:46.510-02:32:47.180 | Little Tony] Yes.
 [u1798 | 02:32:47.630-02:32:48.280 | DM] Okay.
 [u1799 | 02:32:49.260-02:32:50.550 | DM] When you touch it.
@@ -1923,7 +1923,7 @@
 [u1923 | 02:42:57.840-02:42:58.540 | Little Tony] Hmm.
 [u1924 | 02:42:59.510-02:43:05.610 | Zeno] It is a beautiful pebble-like object, Little Tony, but we gotta figure out what it's here for.
 [u1925 | 02:43:06.090-02:43:06.890 | Zeno] Why was it glowing?
-[u1926 | 02:43:06.890-02:43:07.250 | Little Tony] debut.
+[u1926 | 02:43:06.890-02:43:07.250 | Little Tony] Dude.
 [u1927 | 02:43:07.250-02:43:08.580 | Zeno] Why is it humming?
 [u1928 | 02:43:08.580-02:43:11.309 | Little Tony] It's the most beautiful pebble I've ever seen.
 [u1929 | 02:43:12.990-02:43:14.939 | Heska] A little big to call it a pebble.
@@ -2145,7 +2145,7 @@
 [u2145 | 03:01:13.260-03:01:16.440 | DM] I feel great. That was super fun.
 [u2146 | 03:01:16.440-03:01:17.560 | Heska] Awesome.
 [u2147 | 03:01:17.780-03:01:18.110 | Sculpit] Yeah.
-[u2148 | 03:01:22.140-03:01:22.829 | Sculpit] What do you guys think of?
+[u2148 | 03:01:22.140-03:01:22.829 | Sculpit] What do you guys think is
 [u2149 | 03:01:22.830-03:01:23.480 | DM] going on?
 [u2150 | 03:01:25.140-03:01:28.860 | Sculpit] I need to read the session notes, I have no idea. Oh, no.
 [u2151 | 03:01:29.630-03:01:34.089 | Heska] You can't ask players that right at the end of the session.
@@ -2169,14 +2169,14 @@
 [u2169 | 03:02:11.310-03:02:16.730 | DM] That was the fucking best, dude. That, like, that series of rolls was so good.
 [u2170 | 03:02:16.730-03:02:21.040 | Zeno] It just makes the story so much more interesting. Yeah, it's so perfect. Chaotic, yeah.
 [u2171 | 03:02:21.040-03:02:21.670 | DM] Perfect.
-[u2172 | 03:02:22.140-03:02:22.610 | Little Tony] I learned…
+[u2172 | 03:02:22.140-03:02:22.610 | Little Tony] I loved…
 [u2173 | 03:02:22.610-03:02:23.020 | DM] What were you gonna.
-[u2174 | 03:02:23.020-03:02:32.250 | Little Tony] like, dragonet-y all four of the characters are. Like, like, we took the… like, what Dimitar was pointing to without just, like, imitating.
+[u2174 | 03:02:23.020-03:02:32.250 | Little Tony] like, how dragonet-y all four of the characters are. Like, like, we took the… like, what Dimitar was pointing to without just, like, imitating.
 [u2175 | 03:02:32.250-03:02:32.690 | Sculpit] Yeah.
 [u2176 | 03:02:32.690-03:02:39.020 | Little Tony] What he's doing, or… like, it's really, like, building out that part of the world in a way that's so, so fun.
 [u2177 | 03:02:39.580-03:02:41.760 | Zeno] Another view is that they are quite…
 [u2178 | 03:02:41.890-03:02:44.440 | Zeno] Pathological, each in their own unique ways.
-[u2179 | 03:02:44.440-03:02:45.610 | DM] Superfather.
+[u2179 | 03:02:44.440-03:02:45.610 | DM] Super fun.
 [u2180 | 03:02:45.610-03:02:47.290 | Little Tony] Oh, yes.
 [u2181 | 03:02:47.290-03:02:54.580 | Zeno] Oh my god, yeah, your stuff was really funny tonight, Schwartz, I was really appreciating that.
 [u2182 | 03:02:55.150-03:02:57.870 | DM] Well, I mean, so much of it was improvised. Oh, you gotta go for it, Mike.
