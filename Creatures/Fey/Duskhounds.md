@@ -11,9 +11,7 @@ POV: modern
 ---
 # Duskhounds
 
-![[duskhound.png|right|420]]
-
-Duskhounds are fearsome [[Fey|fey]] who serve [[Lord Umbraeth]] as hunters and enforcers. They appear as gaunt, antlered humanoids cloaked in dark, ragged garments.
+![[duskhound.png|right|420]]Duskhounds are fearsome [[Fey|fey]] who serve [[Lord Umbraeth]] as hunters and enforcers. They appear as gaunt, antlered humanoids cloaked in dark, ragged garments.
 
 %%^Metadata:names:v1%%
 - {name: Duskhounds, language: Common}

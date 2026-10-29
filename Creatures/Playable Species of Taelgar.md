@@ -54,17 +54,11 @@ Although less numerous than some other species, [[Elves|elves]], [[Stoneborn|sto
 
 Of all the planes, the [[Feywild]] is the closest and most accessible from the [[Material Plane]], and it is not uncommon for natives of that plane to be seen across Taelgar. Although the [[fey]], especially those with more unusual appearances, may inspire fear, curiosity, distrust, excitement, or many other emotions in natives of the Material Plane, most people will at least have heard rumors of the fey and have context in which to understand members of this species (even if that context may be garbled or wrong).
 
-*Fae* are the most common inhabitants of the Feywild, and are the most likely of the fey to be encountered on the Material Plane. Many of the fae take on the appearance of elegant humans with subtly unnatural features, though stories tell of diverse beastfolk (including the goat-like satyrs), changelings who are said to be able to shift their form at will, and many other forms among the fae. 
+*Fey*, the inhabitants of the Feywild, often take on the appearance of elegant humans with subtly unnatural features, though stories tell of diverse beastfolk (including the goat-like satyrs), changelings who are said to be able to shift their form at will, small, flying fairies, and many other forms. 
 
-*Fairies* are far less commonly seen on the [[Material Plane]], though this may simply be because they are so good at staying out of sight. Fairies are usually small, often tiny, and frequently can fly; they take on many forms and appearances, including pixies and sprites.
-
-| Species                     | Key Question(s)                                                      | **Details**              | Starting Languages |
-| --------------------------- | -------------------------------------------------------------------- | ------------------------ | ------------------ |
-| [[Satyrs\|Satyr]]           | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Satyr]]      | 4 + Sylvan         |
-| [[Changelings\|Changeling]] | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Changeling]] | 4 + Sylvan         |
-| [[Fae]]                     | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Fae]]        | 4 + Sylvan         |
-| [[Fairies\|Fairy]]          | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Fairy]]      | 4 + Sylvan         |
-| [[Beastfolk]]               | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Beastfolk]]  | 4 + Sylvan         |
+| Species                     | Key Question(s)                                                     | **Details**              | Starting Languages |
+| --------------------------- | ------------------------------------------------------------------- | ------------------------ | ------------------ |
+| [[Fey]]                     | What made you leave the Feywild to adventure on the Material Plane? | [[Playing a Fey]]        | 4 + Sylvan         |
 
 ## Rare Species
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/mike]
+tags: [meta]
 name: Playing a Lizardfolk
 dm_owner: joint
 dm_notes: none
