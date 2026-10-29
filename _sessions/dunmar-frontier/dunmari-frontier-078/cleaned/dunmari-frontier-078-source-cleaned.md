@@ -4,15 +4,15 @@
 [u0004 | 00:00:19.690-00:00:26.200 | DM] come from the skyship down to the bustling city of Uzgukhar.
 [u0005 | 00:00:27.350-00:00:35.600 | DM] the big open cattle market and statue of Uzgash, and the Freedom Plaza sitting outside the
 [u0006 | 00:00:35.870-00:00:41.960 | DM] two-story hanging gardens that stood above the
-[u0007 | 00:00:42.110-00:00:49.049 | DM] {{Don't}} underground structure of the palace itself.
-[u0008 | 00:00:50.270-00:00:55.710 | DM] and having planned the previous night to {{back}}
-[u0009 | 00:00:56.100-00:01:04.670 | DM] {{with}} telepathically with Chief Lubash to fake your way into a fight.
+[u0007 | 00:00:42.110-00:00:49.049 | DM] domed underground structure of the palace itself.
+[u0008 | 00:00:50.270-00:00:55.710 | DM] and having planned the previous night to back
+[u0009 | 00:00:56.100-00:01:04.670 | DM] with telepathically with Chief Lubash to fake your way into a fight.
 [u0010 | 00:01:05.060-00:01:07.139 | DM] You begin the day.
 [u0011 | 00:01:09.260-00:01:13.310 | DM] Concentrating on your deception.
 [u0012 | 00:01:16.010-00:01:29.820 | DM] There's a few moments as the day progresses of of you know. Kenzo gets into the role, and there's a few moments of of genuine seeming anger and frustration from both Kenzo and Lubash.
 [u0013 | 00:01:29.920-00:01:43.429 | DM] It's hard to tell when somebody is watching, however, and it's hard to sustain the acting for the entire day, especially for those of you who well, naturally
 [u0014 | 00:01:43.470-00:01:45.000 | DM] talented or not
-[u0015 | 00:01:45.040-00:02:03.889 | DM] necessarily. Well, we're we're not put. We're not putting the actors, the people that don't have the good charisma in act roles where they need to talk I don't know but Delwath is naturally talented, but not proficient in perception. So he is one of the I mean, that wasn't too honest for this for this game right? Exactly.
+[u0015 | 00:01:45.040-00:02:03.889 | DM] necessarily. Well, we're we're not put. We're not putting the actors, the people that don't have the good charisma in act roles where they need to talk I don't know but Delwath is naturally talented, but not proficient in deception. So he is one of the I mean, that wasn't too honest for this for this game right? Exactly.
 [u0016 | 00:02:04.660-00:02:11.020 | DM] but but it's I mean. it's hard to say right? You
 [u0017 | 00:02:11.580-00:02:17.629 | DM] Riswynn spends much of the day pacing around the the palace.
 [u0018 | 00:02:17.660-00:02:23.100 | DM] sprinkling some ground up ruby dust from your stash of gems and gold from the dragon
@@ -23,17 +23,17 @@
 [u0023 | 00:02:52.720-00:03:00.449 | DM] you know, put out and and angry that you're playing this off as you attempting to buy the cloak from him.
 [u0024 | 00:03:02.080-00:03:07.850 | DM] But the feast grants you all extra hit points. So
 [u0025 | 00:03:07.910-00:03:13.109 | DM] Kate, if you can roll 2d10 for Riswynn, and everybody gets that amount of extra hit points.
-[u0026 | 00:03:13.540-00:03:16.429 | Kenzo] We do some inspiration and stuff like that for this to get more.
+[u0026 | 00:03:13.540-00:03:16.429 | Kenzo] Can we do some inspiration and stuff like that for this to get more.
 [u0027 | 00:03:17.790-00:03:21.809 | Seeker] No, it's not a skill check. It's just part of the spell. Yeah.
 [u0028 | 00:03:25.400-00:03:29.490 | DM] bye.
 [u0029 | 00:03:35.320-00:03:39.609 | Kenzo] So everybody gets 15, 15 extra hit points nice.
 [u0030 | 00:03:41.970-00:03:48.740 | Seeker] So how do I do that? Oh, they're not actually temp. Hit points.
 [u0031 | 00:03:49.240-00:03:57.029 | DM] No. over if you type. I think if you click on your if you click on the word hit points.
-[u0032 | 00:03:57.640-00:04:09.139 | Delwath] then there's a little think there's a little Max. There's a little Max HP modifier at the bottom. If you click on that, you can set that to 15, and it'll change your hit points because they can be healed.
+[u0032 | 00:03:57.640-00:04:09.139 | Delwath] then there's a little, I think there's a little Max. There's a little Max HP modifier at the bottom. If you click on that, you can set that to 15, and it'll change your hit points because they can be healed.
 [u0033 | 00:04:09.270-00:04:14.909 | Delwath] Right? Yeah, so we can actually, yeah, regain these. And for 24 h they last, even if we.
 [u0034 | 00:04:16.029-00:04:17.689 | Seeker] That was quite the meal.
 [u0035 | 00:04:18.390-00:04:19.730 | Delwath] it was quite a meal
-[u0036 | 00:04:22.820-00:04:25.270 | DM] down. even though it's hard to.
+[u0036 | 00:04:22.820-00:04:25.270 | DM] Now. even though it's hard to.
 [u0037 | 00:04:25.300-00:04:32.620 | DM] It's hard to tell how well this has gone, and when or if you've been scryed during this occasion, you.
 [u0038 | 00:04:32.850-00:04:44.960 | DM] Lubash insists you leave on cue, and as that sun progresses from noon to afternoon, you walk out of the palace in disgrace to somewhat confused looks from some of the guards.
 [u0039 | 00:04:45.070-00:04:51.910 | DM] On the airship. You take the time.
@@ -41,7 +41,7 @@
 [u0041 | 00:04:54.470-00:05:04.119 | DM] and to extend your—Kenzo, extend your senses, and there are no humans, and no sign of Kenzo within or no sign of Kadmos
 [u0042 | 00:05:04.230-00:05:05.770 | DM] or Casian
 [u0043 | 00:05:06.020-00:05:09.929 | DM] or Vola within 6 miles. Wow!
-[u0044 | 00:05:10.170-00:05:15.550 | DM] Delwath, you scry, and you see {{out there. power}}.
+[u0044 | 00:05:10.170-00:05:15.550 | DM] Delwath, you scry, and you see out there. power.
 [u0045 | 00:05:17.380-00:05:22.620 | DM] You see, Hektor. sitting at watch on the front of a boat.
 [u0046 | 00:05:22.870-00:05:25.680 | DM] A small boat
 [u0047 | 00:05:27.930-00:05:29.910 | DM] traveling downriver.
@@ -51,7 +51,7 @@
 [u0051 | 00:06:01.620-00:06:03.779 | DM] There are also about
 [u0052 | 00:06:04.890-00:06:06.989 | DM] 2 dozen specters.
 [u0053 | 00:06:08.010-00:06:14.199 | DM] spectral, undead. floating in the air. following the ship.
-[u0054 | 00:06:15.510-00:06:18.040 | Kenzo] We're immediately at Kadmos's command.
+[u0054 | 00:06:15.510-00:06:18.040 | Kenzo] Presumably at Kadmos's command.
 [u0055 | 00:06:18.120-00:06:25.809 | DM] It's it's sailing down river. It's being rowed down river, where there's a small sail, but there's not much wind.
 [u0056 | 00:06:26.150-00:06:31.279 | DM] The river is. Let's see where's let's switch the map.
 [u0057 | 00:06:34.200-00:06:35.770 | DM] So
@@ -92,9 +92,9 @@
 [u0092 | 00:09:36.660-00:09:43.860 | DM] like fishing boats and and trading boats. But all you know, manned by Orcs, nothing that looks like what Delwath described.
 [u0093 | 00:09:46.730-00:09:47.980 | Seeker] What are they doing?
 [u0094 | 00:09:49.320-00:09:50.650 | Wellby] That is really weird.
-[u0095 | 00:09:52.490-00:09:54.510 | Kenzo] Maybe not {{S. Ebola}} or anybody else.
+[u0095 | 00:09:52.490-00:09:54.510 | Kenzo] Maybe not see Vola or anybody else.
 [u0096 | 00:09:54.870-00:09:57.840 | Kenzo] Oh, yeah, they're all there. Oh, they're on there so
-[u0097 | 00:09:58.180-00:10:01.910 | DM] full at everybody on the boat, with about 20 specters.
+[u0097 | 00:09:58.180-00:10:01.910 | DM] Vola, everybody on the boat, with about 20 specters.
 [u0098 | 00:10:01.930-00:10:08.020 | Delwath] but they're not within 20 miles, but not within 20 miles. How quickly is the boat going?
 [u0099 | 00:10:09.990-00:10:14.070 | DM] I mean, it's a little bit tough to extrapolate because you don't have.
 [u0100 | 00:10:14.310-00:10:20.930 | DM] You can see how far you can like roughly. See how far it's traveling in the 10 min that you're scrying.
@@ -112,13 +112,13 @@
 [u0112 | 00:11:25.310-00:11:27.079 | Riswynn] but if they started
 [u0113 | 00:11:27.470-00:11:31.850 | Riswynn] on the river at like the furthest fort upriver.
 [u0114 | 00:11:32.130-00:11:39.220 | Riswynn] It's like 150 miles of river voyage to get to the ford right if I'm measuring that right on the map.
-[u0115 | 00:11:39.650-00:11:50.739 | DM] yeah, it's about. It's about 125, between {{100 5,125}} and 150, depending exactly on where they started. But yes.
+[u0115 | 00:11:39.650-00:11:50.739 | DM] yeah, it's about. It's about 125, between 100, 125 and 150, depending exactly on where they started. But yes.
 [u0116 | 00:11:50.900-00:11:51.940 | Riswynn] so
-[u0117 | 00:11:52.090-00:11:58.909 | Riswynn] if they big. you know, the hawk could have not seen them, because they aren't in the last 20 miles of that.
+[u0117 | 00:11:52.090-00:11:58.909 | Riswynn] if they— you know, the hawk could have not seen them, because they aren't in the last 20 miles of that.
 [u0118 | 00:11:59.910-00:12:03.440 | Riswynn] you know, 6 times as long journey.
 [u0119 | 00:12:04.540-00:12:06.470 | Riswynn] They could just be quite far away still.
 [u0120 | 00:12:07.730-00:12:10.219 | Riswynn] or it could be an illusion. Good point Seeker.
-[u0121 | 00:12:12.230-00:12:18.600 | Delwath] but it's like we're {{trying to them with a complex}} they can't. No, a scry wouldn't be fooled by an illusion right? When you, when
+[u0121 | 00:12:12.230-00:12:18.600 | Delwath] but it's like we're scrying them with a complex they can't. No, a scry wouldn't be fooled by an illusion right? When you, when
 [u0122 | 00:12:20.940-00:12:23.060 | Delwath] Hektor has to be there right?
 [u0123 | 00:12:23.680-00:12:31.920 | DM] Oh, yeah, yeah, yeah. Yeah. The specters could be an illusion, and you wouldn't necessarily know from scrying. But Hektor is definitely there, right?
 [u0124 | 00:12:34.610-00:12:36.659 | Delwath] Like, the whole thing's not an illusion.
@@ -128,7 +128,7 @@
 [u0128 | 00:12:54.690-00:12:59.849 | Seeker] But they could be across the street from the palace in a fake river on a fake boat.
 [u0129 | 00:13:02.280-00:13:13.570 | DM] yes, they could if they had high, level illusion. Magic, except they can't be within 6 miles because Kenzo would sense them so. Kenzo's senses are not fooled by
 [u0130 | 00:13:13.800-00:13:20.249 | DM] illusions, and they're not within 20 miles because the eagle would have seen them. The Eagle could have been fooled by
-[u0131 | 00:13:21.250-00:13:23.320 | Riswynn] television. But okay.
+[u0131 | 00:13:21.250-00:13:23.320 | Riswynn] illusion. But okay.
 [u0132 | 00:13:23.700-00:13:27.689 | Delwath] but I'm more interested in just I mean, how fast does a
 [u0133 | 00:13:28.080-00:13:36.000 | Delwath] well, I mean. I don't know how fast it. Normally you would think normally, it's hard to know, because you don't know how fast the river is, but they're going down river.
 [u0134 | 00:13:36.530-00:13:53.269 | DM] They're probably not going as fast as 10 miles an hour, but I doubt they're going slower than 3 miles an hour or 4 miles an hour. That would be your expectation from your time, just traveling, and just what you know. So if there, it's what is it like? 4 in the afternoon?
@@ -136,7 +136,7 @@
 [u0136 | 00:14:03.500-00:14:06.319 | DM] it's a hundred. And from the fort
 [u0137 | 00:14:06.840-00:14:07.840 | DM] to
 [u0138 | 00:14:08.180-00:14:11.120 | DM] the city. Is it like a hundred and
-[u0139 | 00:14:11.220-00:14:13.030 | DM] {{2,100}} and
+[u0139 | 00:14:11.220-00:14:13.030 | DM] 2,100 and
 [u0140 | 00:14:13.120-00:14:15.569 | Delwath] 30 miles on the river? Roughly.
 [u0141 | 00:14:15.910-00:14:19.469 | Unknown] I guess we don't know how far downriver. They are
 [u0142 | 00:14:20.120-00:14:21.020 | DM] correct.
@@ -190,7 +190,7 @@
 [u0190 | 00:18:33.610-00:18:39.000 | DM] he's not going to. So Seeker, and he's going to need to come out into the hallway to recast
 [u0191 | 00:18:39.570-00:18:42.939 | DM] his telepathy because he can't get from
 [u0192 | 00:18:43.550-00:18:45.919 | Seeker] yeah. This room to
-[u0193 | 00:18:47.990-00:18:51.280 | DM] you can't get there. It’s {{not}} more than 30 feet.
+[u0193 | 00:18:47.990-00:18:51.280 | DM] you can't get there. It’s not more than 30 feet.
 [u0194 | 00:18:52.470-00:18:55.369 | Kenzo] so we need to be a little lucky that he doesn't get seen.
 [u0195 | 00:18:57.010-00:19:03.549 | DM] It takes 10 min you have to be you'd have to be quite unlucky for somebody to be scrying you the exact
 [u0196 | 00:19:03.710-00:19:13.460 | Delwath] 10 min that Seeker is recasting the ritual and also specifically scrying Seeker. They're usually scrying. We don't know who they usually scry who has the weakest save amongst us.
@@ -219,7 +219,7 @@
 [u0219 | 00:20:58.660-00:21:04.589 | Riswynn] the bed is not so different as to me aside. Yeah.
 [u0220 | 00:21:04.670-00:21:12.319 | DM] everybody. Make sure you click long rest and like, reset all your stuff in case you're still like missing, hit points, or anything.
 [u0221 | 00:21:12.680-00:21:15.429 | DM] but you do lose your your
-[u0222 | 00:21:15.850-00:21:18.169 | Delwath] going to set points now.
+[u0222 | 00:21:15.850-00:21:18.169 | Delwath] bonus hit points now.
 [u0223 | 00:21:19.440-00:21:27.360 | DM] I guess not till noon, right? Not till like one or something like that whenever lunch was
 [u0224 | 00:21:27.480-00:21:33.880 | Delwath] later in the yeah, like three o’clock, or it was like, yes, though not till like three o’clock
 [u0225 | 00:21:36.520-00:21:39.240 | DM] as as morning comes.
@@ -246,14 +246,14 @@
 [u0246 | 00:23:21.000-00:23:23.529 | DM] But it's a Charisma save which you're not great at
 [u0247 | 00:23:23.830-00:23:24.560 | Seeker] right.
 [u0248 | 00:23:24.940-00:23:28.539 | DM] so loop so, Lubash.
-[u0249 | 00:23:28.750-00:23:31.850 | DM] I rise. It wakes up. Murook wakes up
+[u0249 | 00:23:28.750-00:23:31.850 | DM] arises, wakes up. Murook wakes up
 [u0250 | 00:23:32.020-00:23:34.020 | DM] the palace, begins to stir.
 [u0251 | 00:23:34.090-00:23:46.870 | DM] Everybody seems to have passed a very uneasy night. The the 2 dozen household guards have been patrolling and few of them slept. You know people have taken shifts of taking cat naps and stuff. But
 [u0252 | 00:23:47.680-00:23:58.720 | DM] That Lubash, as he awakes and and sees you all here speaks telepathically to everybody because I I assume you've been including Murook and Lubash in the
 [u0253 | 00:24:00.030-00:24:02.080 | DM] and the telepathy.
 [u0254 | 00:24:04.050-00:24:05.320 | DM] What? Now?
 [u0255 | 00:24:07.780-00:24:09.259 | DM] There is no attack.
-[u0256 | 00:24:09.800-00:24:15.179 | Kenzo] They're traveling down river when they're within 6 miles. Well, now.
+[u0256 | 00:24:09.800-00:24:15.179 | Kenzo] They're traveling down river when they're within 6 miles. we’ll know.
 [u0257 | 00:24:16.210-00:24:18.379 | DM] but what of the deception? Do you?
 [u0258 | 00:24:20.990-00:24:25.369 | Kenzo] Will you spend the day under the beds? Yes. we will wait.
 [u0259 | 00:24:30.690-00:24:34.409 | Kenzo] Go about your day. and once they're within 6 miles.
@@ -320,7 +320,7 @@
 [u0320 | 00:30:01.380-00:30:03.500 | DM] Yeah, definitely.
 [u0321 | 00:30:03.930-00:30:06.040 | DM] no undead within 6 miles.
 [u0322 | 00:30:06.540-00:30:07.220 | Unknown] Thank you.
-[u0323 | 00:30:08.900-00:30:10.610 | Seeker] I'm comforting.
+[u0323 | 00:30:08.900-00:30:10.610 | Seeker] Comforting.
 [u0324 | 00:30:18.800-00:30:20.510 | Wellby] I get another
 [u0325 | 00:30:22.160-00:30:23.910 | Unknown] the Hawk desert hawk.
 [u0326 | 00:30:23.970-00:30:31.989 | Wellby] and just go kind of do an overfly, I mean through this, too. So they're not not while you're hiding under a bed that's fair.
@@ -331,7 +331,7 @@
 [u0331 | 00:30:44.710-00:30:47.219 | Riswynn] We saw them on a boat coming
 [u0332 | 00:30:47.330-00:30:49.240 | Seeker] towards us on there, or
 [u0333 | 00:30:49.580-00:30:55.380 | DM] yeah, I don't know. I presume they were going downriver, so presumably towards you.
-[u0334 | 00:30:55.770-00:30:58.899 | DM] I mean, unless they've just given up, and our
+[u0334 | 00:30:55.770-00:30:58.899 | DM] I mean, unless they've just given up, and are
 [u0335 | 00:30:59.790-00:31:04.650 | Delwath] going downriver to Apollyon and Drankor like. But they would have, they
 [u0336 | 00:31:04.930-00:31:07.800 | Delwath] couldn't. They would have had to pass you. Yeah.
 [u0337 | 00:31:17.570-00:31:24.920 | DM] I must. Lubash closes by saying, I must attend to these this news and our defenses. I do not know.
@@ -393,7 +393,7 @@
 [u0393 | 00:35:58.320-00:35:59.949 | Kenzo] eat another feast.
 [u0394 | 00:36:03.400-00:36:07.260 | DM] dig through your treasure and find another chalice
 [u0395 | 00:36:07.520-00:36:14.669 | Kenzo] that is consumed by the casting of the feast. Actually, actually, why don't we wait here until they're within 6 miles, and then eat the fucking feast.
-[u0396 | 00:36:15.960-00:36:18.080 | Seeker] Now they can move 6 miles, and
+[u0396 | 00:36:15.960-00:36:18.080 | Seeker] No, they can move 6 miles, and
 [u0397 | 00:36:19.160-00:36:25.389 | Kenzo] it takes us too long to
 [u0398 | 00:36:26.040-00:36:27.250 | Kenzo] that's it to be there.
 [u0399 | 00:36:28.060-00:36:29.839 | Seeker] Do we have to re-roll that.
@@ -462,7 +462,7 @@
 [u0462 | 00:43:05.820-00:43:07.900 | Seeker] Let's try to heal them a little bit. I think
 [u0463 | 00:43:10.960-00:43:13.070 | DM] so. They are
 [u0464 | 00:43:17.000-00:43:21.020 | DM] Drogmar and Ghorgra.
-[u0465 | 00:43:25.260-00:43:30.569 | DM] so we can put one. And now we have an ultimate fully block each from
+[u0465 | 00:43:25.260-00:43:30.569 | DM] so we can put one. And now we have enough to fully block each room
 [u0466 | 00:43:31.210-00:43:32.430 | Delwath] 3 by 3.
 [u0467 | 00:43:38.720-00:43:43.109 | Seeker] I'll do a a healing word on whichever one of them seems worse off
 [u0468 | 00:43:44.210-00:43:49.869 | DM] The spell seems to have no effect.
@@ -508,7 +508,7 @@
 [u0508 | 00:47:11.970-00:47:20.209 | DM] you know, 2 dozen household guards are having trouble dealing with an equal number of specters, and while they've managed to
 [u0509 | 00:47:20.520-00:47:24.269 | DM] kill a few, many of them are dying.
 [u0510 | 00:47:24.380-00:47:26.080 | Kenzo] Then, before I started
-[u0511 | 00:47:26.390-00:47:36.659 | Kenzo] during that hour. I can sense them like Connor. Are they getting closer. Nick, are they? How far away are they? They're getting closer. Yep. like, what rate are they traveling?
+[u0511 | 00:47:26.390-00:47:36.659 | Kenzo] during that hour. I can sense them like, kind of. Are they getting closer. like, are they? How far away are they? They're getting closer. Yep. like, what rate are they traveling?
 [u0512 | 00:47:37.420-00:47:49.949 | DM] They're like I mean, they're by the time the hour ends they were like half a mile away. Oh, like all right, I got my like rest with my last rest, charge out my ki and get ready to fuck them up right?
 [u0513 | 00:47:50.180-00:48:05.150 | DM] you know, there's there's panic seems to be spreading to the city that basically all of the palace guards have abandoned the palace to try and bring some semblance of order and and
 [u0514 | 00:48:05.200-00:48:06.770 | DM] safety to the
@@ -607,7 +607,7 @@
 [u0607 | 00:56:23.690-00:56:25.260 | Delwath] though it's
 [u0608 | 00:56:27.900-00:56:29.780 | Delwath] it's actually this is so.
 [u0609 | 00:56:30.810-00:56:35.210 | Delwath] This is not quite the right shape. but it's basically covers this whole.
-[u0610 | 00:56:35.540-00:56:42.759 | DM] So I'm just scrolling through everything to they care. love ladder should be on
+[u0610 | 00:56:35.540-00:56:42.759 | DM] So I'm just scrolling through everything to they care. the ladder should be on
 [u0611 | 00:56:44.980-00:56:47.900 | DM] Seeker’s turn. So let me change that to 17.
 [u0612 | 00:56:48.010-00:56:49.790 | Kenzo] Too bad we gotta kill Vola. Huh?
 [u0613 | 00:56:51.710-00:56:54.500 | Seeker] She got turned right?
@@ -632,7 +632,7 @@
 [u0632 | 00:58:16.910-00:58:19.129 | Delwath] It's a little, too.
 [u0633 | 00:58:20.110-00:58:25.539 | Kenzo] no, that's perfect. That hits them both. Right, Tim. That'll hit them both. It should actually be more like right
 [u0634 | 00:58:26.250-00:58:27.260 | Delwath] there.
-[u0635 | 00:58:30.210-00:58:36.820 | Delwath] No, that's not going to hit a person in the doorway. M. You want to go one right over one square over.
+[u0635 | 00:58:30.210-00:58:36.820 | Delwath] No, that's not going to hit a person in the doorway. Um, You want to go one right over one square over.
 [u0636 | 00:58:37.200-00:58:40.669 | Delwath] I guess that leaves that square safe
 [u0637 | 00:58:40.690-00:58:42.459 | Delwath] which is not ideal. But
 [u0638 | 00:58:43.190-00:58:49.090 | Kenzo] why is that square safe? That's squares touching, that's in the that's in the that's in the
@@ -683,7 +683,7 @@
 [u0683 | 01:02:32.660-01:02:35.100 | Wellby] Wellby’s arrow flies
 [u0684 | 01:02:38.870-01:02:42.040 | DM] that and misses
 [u0685 | 01:02:45.380-01:02:46.949 | Wellby] all. I just
-[u0686 | 01:02:46.990-01:02:50.500 | Seeker] I inspired a lot of them across the room.
+[u0686 | 01:02:46.990-01:02:50.500 | Seeker] I inspire Wellby from across the room.
 [u0687 | 01:02:51.720-01:02:57.460 | DM] okay. Roll a d10.
 [u0688 | 01:03:01.730-01:03:03.080 | Wellby] But yeah.
 [u0689 | 01:03:03.590-01:03:09.530 | DM] so Wellby’s arrow hits as it is finally guided by Seeker's magic. Roll your damage
@@ -745,7 +745,7 @@
 [u0745 | 01:07:43.970-01:07:49.499 | Riswynn] So I'll get hit by sickening radiance if I go out of the room, because it's right up against the door.
 [u0746 | 01:07:50.470-01:07:51.790 | Seeker] Oops. Yeah.
 [u0747 | 01:07:53.700-01:08:00.109 | Kenzo] Well, the thing is, they like for them to get the cloak. They still have to come in here right? It's like, yeah, it's like, we can just wait.
-[u0748 | 01:08:01.320-01:08:06.170 | Kenzo] Picnic. Yeah, you could just wait lots of surprise, but they still have to fucking. Come in here.
+[u0748 | 01:08:01.320-01:08:06.170 | Kenzo] Picnic. Yeah, you could just wait. Lost the surprise, but they still have to fucking. Come in here.
 [u0749 | 01:08:06.690-01:08:11.329 | Wellby] but they can come in here with everybody else. I'd rather take them by themselves.
 [u0750 | 01:08:13.650-01:08:19.390 | Riswynn] but there's nothing I can do from behind a door, for behind a
 [u0751 | 01:08:19.800-01:08:26.660 | Riswynn] 24 hit-point damage. Yeah, I don't really want to take that kind of friendly fire
@@ -766,7 +766,7 @@
 [u0766 | 01:09:27.270-01:09:28.910 | Delwath] maybe I should recast it.
 [u0767 | 01:09:30.660-01:09:34.040 | Kenzo] Yeah, he did a bunch of damage with it. You cast it again.
 [u0768 | 01:09:35.870-01:09:38.810 | Delwath] Yeah, I get one more. One more spell slot.
-[u0769 | 01:09:39.359-01:09:50.239 | Delwath] I was sort of saving that for counterspell? No way. But can't you drop it so that way? Riswynn can like run out in the May? The light goes away so they'll become invisible again.
+[u0769 | 01:09:39.359-01:09:50.239 | Delwath] I was sort of saving that for counterspell? No way. But can't you drop it so that way? Riswynn can like run out and melee? The light goes away so they'll become invisible again.
 [u0770 | 01:09:50.450-01:09:51.689 | Wellby] Does that take me?
 [u0771 | 01:09:51.990-01:09:55.870 | Kenzo] It's a damage that they are. They are taking damage does not.
 [u0772 | 01:09:56.000-01:09:58.989 | DM] does not end invisibility. Just making attacks.
@@ -792,7 +792,7 @@
 [u0792 | 01:11:27.410-01:11:35.059 | Seeker] oh, and I have to peek around the corner in order to do that, but I can sort of hop out, and that you just have to walk through the door right? Like you can easily.
 [u0793 | 01:11:38.250-01:11:45.369 | DM] okay, The Psychic Lance hits her, and she staggers back
 [u0794 | 01:11:45.380-01:11:52.159 | DM] like struggling And so what it has other effects is it just?
-[u0795 | 01:11:52.830-01:12:00.840 | DM] Can you put the description in chat incapacitated until the start of his neck, of start, of Eric's next turn if they fail. This. Okay? nice. So
+[u0795 | 01:11:52.830-01:12:00.840 | DM] Can you put the description in chat incapacitated until the start of his next, of start, of Eric's next turn if they fail. This. Okay? nice. So
 [u0796 | 01:12:00.900-01:12:02.059 | Seeker] on a that it
 [u0797 | 01:12:02.670-01:12:04.320 | DM] so she
 [u0798 | 01:12:04.380-01:12:08.630 | DM] staggers back, and you can see her. Just kind of shaking
@@ -810,7 +810,7 @@
 [u0810 | 01:12:51.390-01:12:57.970 | Kenzo] Also just holding an action, or you've got something to do. I can shoot an acid arrow exactly 90 feet.
 [u0811 | 01:12:58.810-01:13:08.150 | DM] but you've got to be able to see while it's that square I can pop you. You could step diagonally out into that.
 [u0812 | 01:13:09.230-01:13:12.050 | DM] Yeah, that one. This square here is not affected.
-[u0813 | 01:13:13.920-01:13:17.189 | Seeker] I 5. The ladder that's not affected.
+[u0813 | 01:13:13.920-01:13:17.189 | Seeker] High five. The ladder that's not affected.
 [u0814 | 01:13:17.560-01:13:20.980 | Kenzo] So I'm like right next to that, and then I I I'll I'll
 [u0815 | 01:13:21.090-01:13:25.540 | Kenzo] yeah. I've got 90 feet. Alright.
 [u0816 | 01:13:25.670-01:13:27.260 | Delwath] I would take the sorcerer
@@ -880,7 +880,7 @@
 [u0880 | 01:17:54.300-01:17:58.409 | Delwath] and if they're asleep they are unconscious.
 [u0881 | 01:18:00.370-01:18:01.840 | Delwath] So
 [u0882 | 01:18:02.460-01:18:04.559 | Delwath] so it's a yeah, it's a straight roll.
-[u0883 | 01:18:04.600-01:18:12.199 | Wellby] It's a day, and the attack rolls against the creature have advantage, correct and unconscious, regardless of the proneness.
+[u0883 | 01:18:04.600-01:18:12.199 | Wellby] It says, and the attack rolls against the creature have advantage, correct and unconscious, regardless of the proneness.
 [u0884 | 01:18:12.550-01:18:24.439 | Delwath] No, no, they cancel out. So yeah. Disadvantage plus advantage means it's a straight roll. But as does disadvantage plus advantage plus it does. I mean, if you have multiple disadvantages in one
 [u0885 | 01:18:24.460-01:18:28.390 | Delwath] multiple advantages in a thousand, yeah, it doesn't add up.
 [u0886 | 01:18:28.520-01:18:31.280 | Delwath] I mean, really, you need to be in melee range, because then you could just
@@ -908,7 +908,7 @@
 [u0908 | 01:20:35.790-01:20:37.979 | DM] So it's 2 Fourth level slots.
 [u0909 | 01:20:38.310-01:20:39.780 | Wellby] 2 turns
 [u0910 | 01:20:40.210-01:20:45.539 | DM] and 2 turns, and Seeker would be standing there out in the open for one whole turn.
-[u0911 | 01:20:45.850-01:20:48.749 | Kenzo] Why can't why didn't you try to kill them at shorts with your bow.
+[u0911 | 01:20:45.850-01:20:48.749 | Kenzo] Why can't why didn't you try to kill them at Schwartz with your bow.
 [u0912 | 01:20:49.240-01:20:55.849 | Wellby] I wouldn't get sneak attack, so I'd only do a d 6 plus 4, and I'm not confident that would actually kill them.
 [u0913 | 01:20:55.920-01:20:57.030 | Kenzo] I mean.
 [u0914 | 01:20:57.450-01:21:02.269 | Delwath] we don't have any other teleportation movement options, do we?
@@ -932,7 +932,7 @@
 [u0932 | 01:22:20.980-01:22:22.209 | Wellby] That's a hit.
 [u0933 | 01:22:23.110-01:22:26.899 | DM] And as the arrow hits it bursts
 [u0934 | 01:22:27.000-01:22:33.600 | DM] into so you take? so you take
-[u0935 | 01:22:33.880-01:22:48.260 | DM] a total of {{13 points of damage, 7 piercing, and 13 poison}} as this arrow, as it strikes you, begins to wrap brambles around your legs,
+[u0935 | 01:22:33.880-01:22:48.260 | DM] a total of 13 points of damage, 7 piercing, and 13 poison as this arrow, as it strikes you, begins to wrap brambles around your legs,
 [u0936 | 01:22:49.550-01:22:51.710 | DM] hindering your movement
 [u0937 | 01:22:51.980-01:22:53.860 | DM] and meaning that
 [u0938 | 01:22:54.500-01:22:55.799 | DM] you take
@@ -944,9 +944,9 @@
 [u0944 | 01:23:25.570-01:23:26.639 | DM] past you.
 [u0945 | 01:23:28.100-01:23:31.819 | DM] And he is going to run forward to
 [u0946 | 01:23:32.860-01:23:34.870 | DM] here. But stop!
-[u0947 | 01:23:35.350-01:23:41.700 | Seeker] But who's this guy? Oh, man, this is the land! Here, fighter, rogue, that this is the Ranger fighter/rogue guy.
+[u0947 | 01:23:35.350-01:23:41.700 | Seeker] But who's this guy? Oh, man, this is the ranger, fighter, rogue, that this is the Ranger fighter/rogue guy.
 [u0948 | 01:23:41.720-01:23:47.619 | Kenzo] Yeah, there's a with plate armor. And then there's Kadmos, Casian and Hektor and Antonia.
-[u0949 | 01:23:48.300-01:23:53.169 | DM] and I was going to stop and and sort of look around like he's
+[u0949 | 01:23:48.300-01:23:53.169 | DM] and he is going to stop and and sort of look around like he's
 [u0950 | 01:23:53.480-01:24:01.549 | DM] Actually, he doesn't want to be close. He's going to move backwards, and he's going to look around. just kind of trying to assess the situation.
 [u0951 | 01:24:02.220-01:24:04.599 | Seeker] And I soften it up
 [u0952 | 01:24:06.330-01:24:07.660 | DM] as
@@ -972,7 +972,7 @@
 [u0972 | 01:25:55.300-01:26:00.169 | Delwath] I'm I'm half tempted on my turn to cast my second Sickening Radiance right
 [u0973 | 01:26:00.440-01:26:05.179 | Delwath] here. I like that. Hit the whole spot hit there
 [u0974 | 01:26:05.820-01:26:20.670 | Delwath] like we actually maybe planned this wrong slightly. What if we Sickening Radiance? I Sickening Radiance this, and then we pile in front and form a I mean, the only downside is they can pound us with spells. I guess that's the problem. Yeah.
-[u0975 | 01:26:21.510-01:26:29.450 | Delwath] the hallway is fucking. Death. Being in that hallway is funding down. I think we're better off just waiting for them to. I mean, we should probably retreat it to safety.
+[u0975 | 01:26:21.510-01:26:29.450 | Delwath] the hallway is fucking. Death. Being in that hallway is fucking death. I think we're better off just waiting for them to. I mean, we should probably retreat it to safety.
 [u0976 | 01:26:29.540-01:26:30.760 | Seeker] Yeah. And
 [u0977 | 01:26:31.480-01:26:40.600 | Delwath] but, like, what are they going to do? I mean, eventually one of their spellcasters will come along and cast Dispel Magic or something. but that's okay. Right? Like.
 [u0978 | 01:26:41.540-01:26:49.170 | Riswynn] they still need to come down the corridor. Yeah, I just I I think they're gonna have to come down the corridor if we don't give them targets.
@@ -997,7 +997,7 @@
 [u0997 | 01:28:24.520-01:28:27.870 | Riswynn] Just Seeker. What are you and the ladder doing?
 [u0998 | 01:28:28.300-01:28:32.520 | Seeker] Oh, sorry. I just realized that it it still doesn't. It doesn't do the thing where it
 [u0999 | 01:28:33.330-01:28:38.200 | Seeker] doesn't check off the spell slots when I click the spell. I don't know why that doesn't work.
-[u1000 | 01:28:39.830-01:28:45.910 | Riswynn] 9. By the way. I don't know if that came in surgery, but you’re healed, Wellby.
+[u1000 | 01:28:39.830-01:28:45.910 | Riswynn] 9. By the way. I don't know if that came in, sorry, but you’re healed, Wellby.
 [u1001 | 01:28:47.050-01:28:52.120 | Kenzo] and put the ladder on the other side of the Sickening Radiance, but I thought the ladder was in the doorway. Well.
 [u1002 | 01:28:52.280-01:29:02.230 | Delwath] we should have put the ladder on the other side, I mean. it could just fly through. I mean, what's the word? It's exhaustion is not going to hurt it. It'll take 4d10 damage, but like
 [u1003 | 01:29:03.730-01:29:07.240 | Seeker] it has 65. So
@@ -1026,7 +1026,7 @@
 [u1026 | 01:31:17.920-01:31:20.959 | DM] not slowed because I don't have a
 [u1027 | 01:31:21.220-01:31:22.350 | DM] slowed.
 [u1028 | 01:31:23.090-01:31:27.550 | Seeker] so speed is half minus 2 to A/C. Can't use reaction.
-[u1029 | 01:31:31.510-01:31:35.120 | DM] Oh, sorry! Antonia made her save. All the fails are safe.
+[u1029 | 01:31:31.510-01:31:35.120 | DM] Oh, sorry! Antonia made her save. Vola fails her save.
 [u1030 | 01:31:36.570-01:31:42.309 | Seeker] Oh! And spells are delayed 50% of the time.
 [u1031 | 01:31:42.930-01:31:45.329 | Delwath] Right? And I mean, I'm just saying, cast it
 [u1032 | 01:31:45.510-01:31:48.500 | Delwath] up right, can it? It can affect?
@@ -1051,7 +1051,7 @@
 [u1051 | 01:33:32.790-01:33:43.080 | Kenzo] right? Oh, that's fine. Yeah, I'll move. I'll move out there to where the ladder is, and then, yeah, I'll I'll I'll I'll acid arrow? Yeah. That person.
 [u1052 | 01:33:43.640-01:33:45.040 | Kenzo] the 60 foot person.
 [u1053 | 01:33:45.220-01:33:46.300 | DM] Antonia.
-[u1054 | 01:33:46.650-01:33:51.689 | Kenzo] Oh, wait! I got 90 feet. I can do which one should is Antonia is the phone on. Let me just see.
+[u1054 | 01:33:46.650-01:33:51.689 | Kenzo] Oh, wait! I got 90 feet. I can do which one should is Antonia is the far one. Let me just see.
 [u1055 | 01:33:51.840-01:33:55.080 | Delwath] Can you see their? The name plates?
 [u1056 | 01:33:55.270-01:33:59.899 | Kenzo] Antonia is the plate-armored woman, and the other dude is the fucking rogue.
 [u1057 | 01:33:59.980-01:34:04.849 | Delwath] Who should I shoot the rogue? I would either kill Vola! Which seems mean.
@@ -1082,7 +1082,7 @@
 [u1082 | 01:36:17.820-01:36:18.940 | Delwath] that
 [u1083 | 01:36:20.170-01:36:22.899 | Delwath] I want to do to be perfectly honest.
 [u1084 | 01:36:23.630-01:36:26.209 | Delwath] because everything takes my concentration
-[u1085 | 01:36:27.400-01:36:29.490 | Delwath] in radius concentration.
+[u1085 | 01:36:27.400-01:36:29.490 | Delwath] Sickening Radiance concentration.
 [u1086 | 01:36:29.740-01:36:32.999 | Delwath] Sickening Radiance is concentration, yeah. So casting another spell
 [u1087 | 01:36:33.070-01:36:44.330 | Delwath] would, I mean I could move to Sickening Radiance. But I just I don't know if that's a good idea, because the corridor trap is too good. Right? But can you move it just down the hallway? No, I mean, I have to recast it so.
 [u1088 | 01:36:44.360-01:36:49.179 | Delwath] I can't move it right. I could recast it to hit them all right, but
@@ -1093,7 +1093,7 @@
 [u1093 | 01:37:21.270-01:37:23.389 | Kenzo] But you know it is the thing
 [u1094 | 01:37:23.520-01:37:31.869 | Kenzo] that right now, who is in the room? They've sent their weak people. Yeah, they've been the fucking ranger. The weaker Mage, like Kadmos and Casian, are not here.
 [u1095 | 01:37:31.910-01:37:45.660 | Kenzo] Right. Hektor is not here. They they they have not sent whatever that giant dragon thing is that Tim has got up. The corridor is not here, and it not sent any of their fucking strong stuff yet. So let's hold off on our, on our.
-[u1096 | 01:37:45.830-01:37:47.780 | Delwath] I'm going to hold old
+[u1096 | 01:37:45.830-01:37:47.780 | Delwath] I'm going to hold, hold
 [u1097 | 01:37:48.760-01:37:56.540 | Delwath] I’ll ready an action to attack anybody who comes near the but again is going to hold as well Wellby what you're doing.
 [u1098 | 01:37:56.840-01:37:58.589 | Wellby] So am I
 [u1099 | 01:37:58.920-01:38:04.359 | Wellby] grappled, or how how do I get out of the you're not grappled. You just take just take damage if you move.
@@ -1162,7 +1162,7 @@
 [u1162 | 01:42:55.470-01:43:01.019 | DM] Darkness spreads from his eyes, and shadows appear around him.
 [u1163 | 01:43:01.140-01:43:05.500 | DM] sorry is whose doors are open and whose doors are closed.
 [u1164 | 01:43:06.520-01:43:10.340 | Delwath] I think all the doors are closed right now. The top 2 doors are open, but
-[u1165 | 01:43:10.410-01:43:12.160 | DM] the top of our shorts are open.
+[u1165 | 01:43:10.410-01:43:12.160 | DM] the top by Schwartz are open.
 [u1166 | 01:43:12.760-01:43:15.029 | Wellby] but these 2 doors are closed.
 [u1167 | 01:43:16.480-01:43:19.280 | DM] The Wellby is just standing there by himself.
 [u1168 | 01:43:19.540-01:43:23.689 | Wellby] with the ladder, with the with the ladder. Yeah.
@@ -1237,7 +1237,7 @@
 [u1237 | 01:48:09.320-01:48:10.839 | Kenzo] Kadmos is the most powerful.
 [u1238 | 01:48:10.940-01:48:12.120 | Seeker] He's a
 [u1239 | 01:48:12.660-01:48:14.830 | Delwath] he probably doesn't have great
-[u1240 | 01:48:15.010-01:48:28.330 | Kenzo] Int saves. I can tell you exactly what Kadmos is. Kadmos is not strong or {{destined, dexterous}} high Int and Charisma. Okay? So this is an Int saving throw. So Int saves. I probably get against him. Now he's {{middle as high}} as charisma.
+[u1240 | 01:48:15.010-01:48:28.330 | Kenzo] Int saves. I can tell you exactly what Kadmos is. Kadmos is not strong or dex—dexterous high Int and Charisma. Okay? So this is an Int saving throw. So Int saves. I probably get against him. Now he's {{middle as high}} as charisma.
 [u1241 | 01:48:28.400-01:48:31.999 | Seeker] Yeah, yeah, I'm going to do this at
 [u1242 | 01:48:33.430-01:48:39.259 | Seeker] Fourth Level. I get no fifth level. This is your fifth level. Save it. Okay?
 [u1243 | 01:48:39.370-01:48:40.849 | Delwath] I think so. Right?
@@ -1286,9 +1286,9 @@
 [u1286 | 01:52:49.490-01:52:50.250 | DM] Okay.
 [u1287 | 01:52:52.860-01:52:55.150 | Kenzo] nice. 23
 [u1288 | 01:52:56.030-01:52:57.210 | DM] That hits
-[u1289 | 01:52:58.370-01:53:01.730 | Kenzo] {{and image}}.
+[u1289 | 01:52:58.370-01:53:01.730 | Kenzo] 10 damage.
 [u1290 | 01:53:03.160-01:53:04.209 | DM] okay?
-[u1291 | 01:53:04.410-01:53:06.080 | Kenzo] And then I pop back down to the railway.
+[u1291 | 01:53:04.410-01:53:06.080 | Kenzo] And then I pop back down to the hallway.
 [u1292 | 01:53:07.830-01:53:11.699 | Delwath] See? I really think, Wellby, if you go hide and we just wait
 [u1293 | 01:53:11.880-01:53:29.359 | Delwath] and just pop out and shoot and pop in and pop out and shoot. What are they going to do? Finally, they're going to wait to move out of our line of sight, heal themselves back up to full and re-up their buffs before coming after us. Yeah, that'll burn all their spells. So what they're besieging is what we would do, I mean.
 [u1294 | 01:53:29.510-01:53:34.680 | DM] Evelina is going to make another death, saving throw where do we?
@@ -1301,7 +1301,7 @@
 [u1301 | 01:54:00.260-01:54:01.850 | DM] Okay.
 [u1302 | 01:54:13.440-01:54:27.520 | DM] So
 [u1303 | 01:54:28.280-01:54:29.600 | DM] you see.
-[u1304 | 01:54:31.270-01:54:36.889 | Seeker] Oh, wait like {{no! And and and}} Casian appear immediately next to Seeker.
+[u1304 | 01:54:31.270-01:54:36.889 | Seeker] Oh, wait like Kadmos and Casian appear immediately next to Seeker.
 [u1305 | 01:54:37.010-01:54:38.050 | Seeker] Oh, God!
 [u1306 | 01:54:38.060-01:54:40.779 | DM] Stepping out of a dimension door.
 [u1307 | 01:54:41.060-01:54:43.200 | Seeker] no shit
@@ -1313,7 +1313,7 @@
 [u1313 | 01:55:25.870-01:55:28.070 | Seeker] And a.
 [u1314 | 01:55:28.200-01:55:36.120 | Kenzo] this is terrible. Now it's gonna End Casian's turn. just me. I'll yeah. That's just mean Seeker needs to get out of there. See? If you you have to. You have to get him out of there
 [u1315 | 01:55:36.260-01:55:46.399 | Delwath] all right. So we're executing the yeah, you you you mean you could just dimension door somewhere else. Right? That's what we're doing to the shit. He's got to get out of here. No, no, don't run to the ship
-[u1316 | 01:55:46.490-01:55:48.790 | Delwath] when I premature to run to the ship.
+[u1316 | 01:55:46.490-01:55:48.790 | Delwath] A little premature to run to the ship.
 [u1317 | 01:55:50.300-01:55:57.460 | Kenzo] But where? But with Lubash, he needs to get Lubash out of there. Yeah, but not to the ship, right to one of the other rooms.
 [u1318 | 01:55:57.800-01:56:04.619 | Delwath] Okay, that's true. You can come into your like your room with I will. I can't see these guys right.
 [u1319 | 01:56:06.610-01:56:07.630 | Seeker] Oh, my God!
@@ -1349,7 +1349,7 @@
 [u1349 | 01:58:19.630-01:58:21.640 | DM] with disadvantage.
 [u1350 | 01:58:22.210-01:58:23.489 | Kenzo] Why disadvantage?
 [u1351 | 01:58:24.160-01:58:26.690 | DM] the spell!
-[u1352 | 01:58:26.960-01:58:33.850 | DM] The the aura is gone, so she's having to focus on keeping start from invading. Oh, got it! Got it?
+[u1352 | 01:58:26.960-01:58:33.850 | DM] The the aura is gone, so she's having to focus on keeping thoughts from invading. Oh, got it! Got it?
 [u1353 | 01:58:34.990-01:58:38.419 | DM] but her first attack still hits
 [u1354 | 01:58:38.740-01:58:40.260 | DM] her second attack
 [u1355 | 01:58:40.560-01:58:43.720 | DM] hits. Yeah, third attack hits.
@@ -1370,7 +1370,7 @@
 [u1370 | 01:59:53.720-01:59:57.179 | DM] Yeah, because he’s engaged with an ally. Yep, cause within 5 feet of him right.
 [u1371 | 01:59:57.330-01:59:58.820 | Wellby] all right.
 [u1372 | 01:59:59.020-02:00:03.500 | Wellby] So that is 27, 38,
-[u1373 | 02:00:03.530-02:00:07.029 | Wellby] {{40 size}}. Oh, the fuck!
+[u1373 | 02:00:03.530-02:00:07.029 | Wellby] 45. Oh, the fuck!
 [u1374 | 02:00:07.370-02:00:20.420 | DM] Well, Kadmos is looking hurt. actually. as you do. This Kadmos turned slightly to shadows. And As he does
 [u1375 | 02:00:20.630-02:00:26.160 | DM] the damage he takes is halved.
 [u1376 | 02:00:26.430-02:00:34.899 | DM] So that is Only 22 points of damage, and the fire and thunder damage is also half.
@@ -1397,7 +1397,7 @@
 [u1397 | 02:02:20.990-02:02:24.819 | Delwath] This door should be closed too all the doors are closed. Yes.
 [u1398 | 02:02:25.110-02:02:25.870 | Seeker] okay.
 [u1399 | 02:02:29.690-02:02:31.600 | DM] All the doors are closed. Okay.
-[u1400 | 02:02:31.690-02:02:43.089 | Delwath] I mean all the doors in the room. No, no, no, not the one. This one got opened by somebody, but I just mean all the doors in the place were closed when the battle started. Except the Jewey. Explicit right?
+[u1400 | 02:02:31.690-02:02:43.089 | Delwath] I mean all the doors in the room. No, no, no, not the one. This one got opened by somebody, but I just mean all the doors in the place were closed when the battle started. Except the two we. Explicit right?
 [u1401 | 02:02:43.380-02:02:44.060 | Unknown] Right?
 [u1402 | 02:02:44.290-02:02:46.730 | Delwath] And then these 2 have been open since then.
 [u1403 | 02:02:48.290-02:02:52.819 | DM] Right? So, Kadmos is going to
@@ -1441,7 +1441,7 @@
 [u1441 | 02:06:24.860-02:06:32.230 | Kenzo] There's a big stretch of us. You can see the turn order. Casian is down at the bottom. You're just, I see, I see. Okay, all right.
 [u1442 | 02:06:35.070-02:06:37.089 | DM] okay.
 [u1443 | 02:06:38.430-02:06:40.340 | DM] Valius.
-[u1444 | 02:06:41.400-02:06:46.600 | Kenzo] It's a bitch is little punk as bitch.
+[u1444 | 02:06:41.400-02:06:46.600 | Kenzo] It's a bitch this little punk-ass bitch.
 [u1445 | 02:06:49.370-02:06:51.419 | Riswynn] This is hanging back.
 [u1446 | 02:06:51.580-02:07:19.239 | Kenzo] The fiend has not even attacked anybody yet. Nobody wants to go in the Sickening Radiance. It's actually working. It is supposed to door is open. So he's going to take a shot at at Murook. This is. It's our plan is like working really. Well, it's like pretty fucking, awesome. We're keeping all the beefy fighters away from us. We've got the Mages trap. We've got the mages in the wall trapped in that room. We're gonna fuck them up. This is like going. This is like the best thing we've ever done ever
 [u1447 | 02:07:19.790-02:07:22.120 | Delwath] just needs a way to be effective.
@@ -1476,7 +1476,7 @@
 [u1476 | 02:09:58.560-02:10:07.769 | DM] This giant web. Dexterity saving throws for Wellby and Murook
 [u1477 | 02:10:12.760-02:10:20.019 | DM] Wellby is restrained, stuck by the strands of the web. Murook is also restrained, stuck by the strands of the web.
 [u1478 | 02:10:20.790-02:10:25.969 | Seeker] and so the fucking rope ladder comes in and does them
-[u1479 | 02:10:26.120-02:10:31.490 | Delwath] beat up, cast cadence, and that's going to end Antonia's turn
+[u1479 | 02:10:26.120-02:10:31.490 | Delwath] beat up, Kadmos, and that's going to end Antonia's turn
 [u1480 | 02:10:32.170-02:10:33.280 | DM] Riswynn
 [u1481 | 02:10:34.530-02:10:44.789 | Delwath] can Riswynn. Now pop into the and trade spots with Delwath and fucking. Fuck up this, you'd have spell from there. Yeah, now you got it.
 [u1482 | 02:10:44.820-02:10:48.939 | Delwath] Now Riswynn can cast on shit right? You could even get out to both of these guys.
@@ -1522,7 +1522,7 @@
 [u1522 | 02:14:02.230-02:14:04.140 | Delwath] It doesn't realize you're teleporting.
 [u1523 | 02:14:04.280-02:14:05.990 | Seeker] Okay? So I'm going to end up
 [u1524 | 02:14:06.360-02:14:13.680 | Seeker] over here. And then you open the door. I mean.
-[u1525 | 02:14:13.690-02:14:34.680 | Kenzo] they're going to see Lubash when you open the door. No, no way to avoid that. Why, of course, of course they can avoid that. Lubash is in the room in in front of the door, who matches a giant orc in a like 10 foot by 10 foot room with a tiny dwarf standing right next to him. And no, but he's if Lubash is standing right here, there's no way to see him right. Lubash is on the corner? Totally.
+[u1525 | 02:14:13.690-02:14:34.680 | Kenzo] they're going to see Lubash when you open the door. No, no way to avoid that. Why, of course, of course they can avoid that. Lubash is in the room in in front of the door, Lubash is a giant orc in a like 10 foot by 10 foot room with a tiny dwarf standing right next to him. And no, but he's if Lubash is standing right here, there's no way to see him right. Lubash is on the corner? Totally.
 [u1526 | 02:14:36.840-02:14:38.810 | Kenzo] Tim, how's it going to see you around the corner?
 [u1527 | 02:14:39.250-02:14:52.419 | Kenzo] Okay, that's not where his token was. But that's okay. This is okay. If he's there, they you just see Seeker, run in, shut the door. And I mean, we can. We still have telepathy? We can tell him. Yeah, I don't mind in the corner. Yeah.
 [u1528 | 02:14:52.620-02:14:53.610 | Seeker] yeah, right?
@@ -1535,7 +1535,7 @@
 [u1535 | 02:15:29.550-02:15:30.260 | Delwath] right
 [u1536 | 02:15:32.180-02:15:35.520 | Delwath] like. How could it possibly not just fly right? I mean.
 [u1537 | 02:15:36.050-02:15:38.390 | DM] the ceilings are not huge here.
-[u1538 | 02:15:39.470-02:15:44.439 | DM] Aren't the webs on the cry over Kadmos’s head? But yes, okay, fine.
+[u1538 | 02:15:39.470-02:15:44.439 | DM] Aren't the webs on the ground? Fly over Kadmos’s head? But yes, okay, fine.
 [u1539 | 02:15:45.790-02:15:53.970 | Seeker] It could also just go like down here instead. Oh, no, it can't be on Casian Square. You can't occupy the same square as somebody else.
 [u1540 | 02:15:54.300-02:16:06.849 | Seeker] But down here is clear. Yeah. all right. And so then the attack is a force-empowered slam your spell attack modifier to hit. Oh, so I just do a spell attack. Yeah.
 [u1541 | 02:16:10.040-02:16:12.980 | Seeker] and 26 a 6,
@@ -1589,7 +1589,7 @@
 [u1589 | 02:19:43.709-02:19:44.840 | Delwath] okay.
 [u1590 | 02:19:45.290-02:19:50.089 | DM] Drogmar is going to move out of the room. 1, 2, 3
 [u1591 | 02:19:51.060-02:20:00.900 | DM] 4, 5, right there, so she can attack Casian without without being in the web.
-[u1592 | 02:20:02.180-02:20:06.179 | DM] and as she does that she swings towards Casian, Vargas looks up
+[u1592 | 02:20:02.180-02:20:06.179 | DM] and as she does that she swings towards Casian, Vargus looks up
 [u1593 | 02:20:06.380-02:20:15.219 | DM] and he is gonna use as a reaction to intercept the attack, the guy right in front of you. You can take an opportunity to attack. If you want to use your reaction.
 [u1594 | 02:20:15.420-02:20:17.250 | Delwath] I will.
 [u1595 | 02:20:18.040-02:20:20.159 | DM] and is going to
@@ -1642,7 +1642,7 @@
 [u1642 | 02:23:48.670-02:23:50.520 | DM] presumably
 [u1643 | 02:23:51.020-02:23:57.120 | Kenzo] all right, I will. Do, you know. Yes, I will do. I will do a frightening strike with
 [u1644 | 02:23:57.710-02:24:00.980 | Kenzo] My Staff of the Forest Soul.
-[u1645 | 02:24:03.170-02:24:05.240 | Kenzo] Oh, fucking crit! Third be!
+[u1645 | 02:24:03.170-02:24:05.240 | Kenzo] Oh, fucking crit! 30!
 [u1646 | 02:24:06.210-02:24:14.060 | DM] Oh! So as you swing your, so you hit the demon, and time warps around you
 [u1647 | 02:24:14.100-02:24:17.249 | DM] as the demon slows
 [u1648 | 02:24:17.450-02:24:22.059 | DM] its movements becoming labored as you disrupt its ki.
@@ -1653,7 +1653,7 @@
 [u1653 | 02:24:51.960-02:24:56.050 | Kenzo] so they have to make.
 [u1654 | 02:24:56.470-02:25:02.290 | DM] The the demon rears off and turns and looks at you as with this, strike it
 [u1655 | 02:25:02.550-02:25:03.719 | DM] it off.
-[u1656 | 02:25:04.050-02:25:12.400 | DM] It fades, and it cowers from what it perceives as this massive, menacing {{freelight}} creature striding towards that.
+[u1656 | 02:25:04.050-02:25:12.400 | DM] It fades, and it cowers from what it perceives as this massive, menacing tree-like creature striding towards that.
 [u1657 | 02:25:12.990-02:25:14.470 | DM] It is frightened.
 [u1658 | 02:25:14.810-02:25:16.299 | Kenzo] doesn't have to run away now.
 [u1659 | 02:25:17.130-02:25:21.210 | DM] Nope, it just has disadvantage on its attacks and cannot move closer to you.
@@ -1668,7 +1668,7 @@
 [u1668 | 02:25:51.410-02:25:54.110 | Kenzo] Okay? And now I'm gonna
 [u1669 | 02:25:55.030-02:25:59.059 | Kenzo] If I spend a ki. I can do 2 more attacks right
 [u1670 | 02:25:59.830-02:26:00.910 | DM] Yup.
-[u1671 | 02:26:01.520-02:26:09.220 | Kenzo] and these are unarmed strikes. Can I attack with my staff again? No, just unarmed strikes. All right, I'll do 2 more. I'm going to spend a ki and just the flux fucking. Go.
+[u1671 | 02:26:01.520-02:26:09.220 | Kenzo] and these are unarmed strikes. Can I attack with my staff again? No, just unarmed strikes. All right, I'll do 2 more. I'm going to spend a ki and just the fuck, fucking. Go.
 [u1672 | 02:26:09.240-02:26:12.109 | Kenzo] I'll spend a few more unarmed strikes
 [u1673 | 02:26:14.410-02:26:16.399 | Kenzo] 16
 [u1674 | 02:26:17.130-02:26:18.270 | DM] that hits.
@@ -1782,14 +1782,14 @@
 [u1782 | 02:35:22.590-02:35:25.800 | Seeker] So you have disadvantage on all attacks.
 [u1783 | 02:35:26.910-02:35:28.670 | DM] and your speed is 0
 [u1784 | 02:35:32.090-02:35:33.819 | Seeker] Brutal. That's a strong web.
-[u1785 | 02:35:46.360-02:35:49.640 | Seeker] Oh, really shorts towards his frozen
+[u1785 | 02:35:46.360-02:35:49.640 | Seeker] Oh, really Schwartz, Schwartz is frozen
 [u1786 | 02:35:52.100-02:35:57.760 | Seeker] somebody should like throw an object into that bedroom where the mirror is, so that the fiend looks over there. Yeah.
 [u1787 | 02:36:00.090-02:36:15.740 | Kenzo] I will. I will. I will forever think that it would not make sense for Riswynn just to have been hanging out in the corner in that moment. Now, this would not make sense like from a D and D perspective it it wouldn't necessarily have made a difference, either. Well, he wouldn't have been able to like go in if he'd if they've been surrounded.
 [u1788 | 02:36:16.610-02:36:20.270 | Kenzo] We had actually been protecting Lubash, which I feel like we, I mean
 [u1789 | 02:36:20.730-02:36:27.250 | DM] he might have done something different. He wouldn't have necessarily been able to step exactly where he stepped, but
 [u1790 | 02:36:27.290-02:36:33.980 | Seeker] well, but dragging him out in the hallway or a fuck like he's fucked like they're like now they can get him out of there. Yeah, we can stop him.
 [u1791 | 02:36:34.080-02:36:35.480 | Wellby] Don't worry about you.
-[u1792 | 02:36:35.520-02:36:38.339 | Kenzo] I don't know. I I still think we're pretty luck. Now.
+[u1792 | 02:36:35.520-02:36:38.339 | Kenzo] I don't know. I I still think we're pretty fucked. Now.
 [u1793 | 02:36:38.730-02:36:39.590 | Wellby] am I up?
 [u1794 | 02:36:40.320-02:36:41.030 | DM] Yeah.
 [u1795 | 02:36:41.350-02:36:44.299 | Wellby] Do I start with the Dex save to get out of the web, or is the web gone?
@@ -1810,7 +1810,7 @@
 [u1810 | 02:38:02.430-02:38:10.370 | Wellby] Who, I think, when escaping from normal grappling. There's advantage on that. Is that the case here or not.
 [u1811 | 02:38:11.350-02:38:16.029 | DM] this is magical grappling, so no, no advantage but 19 is enough to escape.
 [u1812 | 02:38:17.100-02:38:20.929 | DM] So Wellby digs himself out of the webs,
-[u1813 | 02:38:24.010-02:38:33.849 | Delwath] I'm a little. All right. The problem is, they have like 8 attacks in a row. Now, that's what I'm saying. We're we’re 4 fucks. They're gonna be able to get out of there. I think
+[u1813 | 02:38:24.010-02:38:33.849 | Delwath] I'm a little. All right. The problem is, they have like 8 attacks in a row. Now, that's what I'm saying. We're we’re fucked. They're gonna be able to get out of there. I think
 [u1814 | 02:38:34.160-02:38:34.990 | Wellby] maybe
 [u1815 | 02:38:35.190-02:38:36.350 | Seeker] we could stop them
 [u1816 | 02:38:36.410-02:38:38.740 | Delwath] while Lubash goes next.
@@ -1820,7 +1820,7 @@
 [u1820 | 02:38:49.990-02:38:55.049 | Riswynn] if you can just stagger back anything close to me. That would be, you know. Good.
 [u1821 | 02:38:56.690-02:39:00.540 | Kenzo] Well, the problem is, Antonia can just like, go and grab the cloak and start running away. Now.
 [u1822 | 02:39:04.990-02:39:08.209 | Wellby] that's okay. We'll catch him and kill him.
-[u1823 | 02:39:10.110-02:39:13.579 | Seeker] Right then we get to do a a hunt in this to our mission.
+[u1823 | 02:39:10.110-02:39:13.579 | Seeker] Right then we get to do a a hunt-and-destroy mission.
 [u1824 | 02:39:15.130-02:39:17.259 | Kenzo] This one is definitely going to have to run out
 [u1825 | 02:39:18.440-02:39:19.720 | Kenzo] and get sickened.
 [u1826 | 02:39:19.930-02:39:24.060 | DM] Anyway, that ends your your that ends your turn. Right?
@@ -1830,7 +1830,7 @@
 [u1830 | 02:39:36.390-02:39:37.979 | DM] I can't tell you
 [u1831 | 02:39:39.370-02:39:42.349 | DM] 10. So Lubash falls unconscious.
 [u1832 | 02:39:42.530-02:39:43.500 | Seeker] and
-[u1833 | 02:39:45.460-02:39:47.240 | Kenzo] Kadmos can’t say it most.
+[u1833 | 02:39:45.460-02:39:47.240 | Kenzo] Kadmos can’t see Lubash.
 [u1834 | 02:39:50.290-02:39:54.359 | Kenzo] Yeah. Kadmos has no line of sight and can't see that it Lubash just got pulled out right
 [u1835 | 02:39:55.260-02:39:59.700 | DM] There's too much too much clogging things up here. yeah.
 [u1836 | 02:40:01.350-02:40:05.479 | DM] Kadmos. is going to look around.
@@ -1851,7 +1851,7 @@
 [u1851 | 02:41:35.590-02:41:45.060 | DM] a crackling shield appear in front of him as his death ward spell expires and prevents him from falling below one hit point
 [u1852 | 02:41:46.740-02:41:52.750 | DM] Nice, and then he is going to open this door. Another small badge appears on
 [u1853 | 02:41:54.570-02:41:57.050 | Seeker] Oh.
-[u1854 | 02:41:58.290-02:42:06.970 | Riswynn] The day the ladder almost killed at us, I mean Death Ward means you has one hit point. We know that's good. Step through.
+[u1854 | 02:41:58.290-02:42:06.970 | Riswynn] The day the ladder almost killed Kadmos, I mean Death Ward means you has one hit point. We know that's good. Step through.
 [u1855 | 02:42:09.370-02:42:10.920 | DM] Close the door.
 [u1856 | 02:42:11.370-02:42:12.160 | Seeker] Me?
 [u1857 | 02:42:13.380-02:42:14.830 | Unknown] What you doing in there?
@@ -1907,7 +1907,7 @@
 [u1907 | 02:46:29.470-02:46:34.860 | Kenzo] because we just don't have the move to engage You dash and engage.
 [u1908 | 02:46:35.150-02:46:36.920 | Delwath] probably better to cast a spell.
 [u1909 | 02:46:37.010-02:46:38.430 | Kenzo] Oh, okay.
-[u1910 | 02:46:39.480-02:46:46.099 | Kenzo] but don't they want to engage you. If you and last Delwath this dropping Sickening Radiance, you need to make your con save as you pass through it.
+[u1910 | 02:46:39.480-02:46:46.099 | Kenzo] but don't they want to engage you. If you unless Delwath this dropping Sickening Radiance, you need to make your con save as you pass through it.
 [u1911 | 02:46:46.480-02:46:47.670 | Riswynn] I know
 [u1912 | 02:46:49.300-02:46:55.450 | Delwath] I think it's better to keep it. Honestly. we haven't taken almost no damage. You can probably suck the 4d10,
 [u1913 | 02:46:55.770-02:46:58.930 | Kenzo] you know. We want to engage Antonia so they can't run away more
@@ -1942,12 +1942,12 @@
 [u1942 | 02:49:45.960-02:49:48.609 | Kenzo] which one is that the cloak is fireproof?
 [u1943 | 02:49:48.850-02:49:54.479 | Kenzo] Yeah, it's a magic item I think that's safe to assume. Yes, it. It needs to be thrown in a fucking magic volcano or some shit.
 [u1944 | 02:49:54.710-02:49:56.990 | Seeker] So it's a it's a Dex save
-[u1945 | 02:49:57.430-02:50:16.479 | Kenzo] hold on to some really quick, just so that we don't get fucked over. Why, some like gain, like some random rule like, Is it better? Because, like we obviously want to keep inside that wall, so is it better for the for Antonia to be inside the wall, so they have to run through it, or is it better? It does or does not matter if it's the walls.
+[u1945 | 02:49:57.430-02:50:16.479 | Kenzo] hold on to some really quick, just so that we don't get fucked over. Why, some like game, like some random rule like, Is it better? Because, like we obviously want to keep inside that wall, so is it better for the for Antonia to be inside the wall, so they have to run through it, or is it better? It does or does not matter if it's the walls.
 [u1946 | 02:50:16.730-02:50:22.649 | DM] So, wall of fire, if you throw the through the
 [u1947 | 02:50:29.610-02:50:35.680 | Delwath] I mean the damage is any creature that ends it 20 feet in diameter, one foot thick? It's opaque.
 [u1948 | 02:50:38.680-02:50:45.800 | Delwath] I mean, it doesn't really stop her from running through it. Exactly. It's just she takes it just takes 5d8 damage if she runs through it. Yeah.
 [u1949 | 02:50:46.370-02:50:50.160 | Delwath] But she'll take her damage now, too. Right? Yeah. And what she makes her save.
-[u1950 | 02:50:50.660-02:51:06.969 | DM] yeah. So if she runs through the wall or and search, basically, she's trapped, she's gonna take She's going to take 5 d. 8 fire damage now, and 5d8 fire damage when she runs through it. She has
+[u1950 | 02:50:50.660-02:51:06.969 | DM] yeah. So if she runs through the wall or ends her, basically, she's trapped, she's gonna take She's going to take 5 d. 8 fire damage now, and 5d8 fire damage when she runs through it. She has
 [u1951 | 02:51:06.980-02:51:13.009 | DM] no way to avoid that. She can reduce the damage by half each time with a Dex save but that's
 [u1952 | 02:51:13.460-02:51:15.400 | Kenzo] that that? That's good.
 [u1953 | 02:51:16.710-02:51:21.650 | Kenzo] Okay, it's not good attacks. So she fails her Dex save
@@ -1962,7 +1962,7 @@
 [u1962 | 02:51:47.310-02:51:49.200 | DM] you cast Heroes’ Feast, didn't you?
 [u1963 | 02:51:51.380-02:51:56.840 | Riswynn] Oh, did I click the wrong thing? I meant to cast it in the Fifth Level slot in it.
 [u1964 | 02:51:57.060-02:51:59.870 | Delwath] So that would be 6d8 damage, not 5.
-[u1965 | 02:52:00.180-02:52:03.559 | Delwath] So just 126, and subtract that.
+[u1965 | 02:52:00.180-02:52:03.559 | Delwath] So just 1d6, and subtract that.
 [u1966 | 02:52:06.210-02:52:08.009 | Riswynn] Sorry. I just click the wrong thing.
 [u1967 | 02:52:11.830-02:52:14.669 | DM] Okay? So it does 25 points of damage.
 [u1968 | 02:52:17.270-02:52:25.880 | DM] Okay, fires erupting around. You cannot see either of them now as they're encased in this circle of flames
@@ -1973,7 +1973,7 @@
 [u1973 | 02:52:48.170-02:52:59.590 | Seeker] he's never really noticed the totally fascinating features of Orc's facial hair, and he's just bending over, and I'm like trying to get as close as he can to the king’s.
 [u1974 | 02:52:59.730-02:53:05.359 | Seeker] prone, unconscious. It just looks down at Lubash's body, just staring silently.
 [u1975 | 02:53:05.530-02:53:12.499 | Delwath] you know himself can't move. Oh, man! And he's in the Sickening Radiance, so he is screwed.
-[u1976 | 02:53:12.960-02:53:16.539 | Kenzo] The ladder is going to open the paper. The ladder needs to open the door.
+[u1976 | 02:53:12.960-02:53:16.539 | Kenzo] The ladder is going to open the door. The ladder needs to open the door.
 [u1977 | 02:53:16.940-02:53:18.970 | Kenzo] See what? The
 [u1978 | 02:53:19.410-02:53:20.380 | Seeker] oh.
 [u1979 | 02:53:21.270-02:53:31.620 | Seeker] it's an interesting thing. There's it's a bit metagame, because none of us can see into that room to know what's happening. How do I even command the ladder to do anything when I're in. I mean, you could just go after Casian.
@@ -1981,7 +1981,7 @@
 [u1981 | 02:53:35.130-02:53:42.539 | Delwath] that's inside that room, they need. The ladder needs to go in and fucking, kill them. But if he's if he cast invisible, for example, then
 [u1982 | 02:53:42.980-02:53:51.949 | Riswynn] the ladder is a little helpless against that. Yeah, it's a small group. The ladder could just flail. That's the true ladder, vengeful or curious.
 [u1983 | 02:53:52.100-02:53:54.549 | Seeker] That's up to you, Mac. I would vote
-[u1984 | 02:53:54.670-02:54:09.910 | Seeker] revengeful. I think so. It's going to go. it! It beats. It's metals. It doesn't get a real meal. It tells it kill somebody. Actually, it's just going to slam into Casian.
+[u1984 | 02:53:54.670-02:54:09.910 | Seeker] revengeful. I think so. It's going to go. it! It beats. It's metals. It doesn't get a real meal. until it kills somebody. Actually, it's just going to slam into Casian.
 [u1985 | 02:54:10.430-02:54:11.290 | Seeker] Well.
 [u1986 | 02:54:12.080-02:54:15.489 | Delwath] I mean you're blocking the door. If you slam into Casian
 [u1987 | 02:54:17.640-02:54:21.740 | DM] that it can. You move the token to where he ends up?
@@ -1997,7 +1997,7 @@
 [u1997 | 02:55:10.700-02:55:11.860 | Kenzo] I think so
 [u1998 | 02:55:11.910-02:55:19.200 | Delwath] right now, but it does nothing. If you don't have. If she's not below like 15 or 20 hit points, is probably going to do nothing.
 [u1999 | 02:55:19.400-02:55:20.560 | Kenzo] I see.
-[u2000 | 02:55:21.390-02:55:28.699 | DM] Okay. Vargas's turn. he is going to just attack the Orcs.
+[u2000 | 02:55:21.390-02:55:28.699 | DM] Okay. Vargus's turn. he is going to just attack the Orcs.
 [u2001 | 02:55:35.050-02:55:38.570 | DM] 24 on Murook
 [u2002 | 02:55:39.100-02:55:43.090 | DM] and crit on Murook. All right.
 [u2003 | 02:55:43.980-02:55:51.460 | DM] Oh, no, sorry. Not on Murook, or whoever this is. Drogmar. so that's
@@ -2008,7 +2008,7 @@
 [u2008 | 02:56:13.430-02:56:14.599 | Seeker] he has yet.
 [u2009 | 02:56:15.710-02:56:17.060 | Kenzo] That's that Casian.
 [u2010 | 02:56:18.380-02:56:22.040 | DM] He'll make one attack at Casian, which misses
-[u2011 | 02:56:22.190-02:56:26.390 | DM] well, G is 2 tens in a row, 2 threes in a row.
+[u2011 | 02:56:22.190-02:56:26.390 | DM] well, geez is 2 tens in a row, 2 threes in a row.
 [u2012 | 02:56:26.750-02:56:30.729 | DM] third attack does hit. He's attacking Casian.
 [u2013 | 02:56:30.960-02:56:38.439 | DM] 13 points of damage with his spear. The frightened demon
 [u2014 | 02:56:38.610-02:56:41.760 | Riswynn] has to make a Con save for the
@@ -2079,7 +2079,7 @@
 [u2079 | 03:02:18.280-03:02:19.700 | Kenzo] I don't want to be like.
 [u2080 | 03:02:19.790-03:02:43.270 | Delwath] I guess you could stand right there. I don't. I want to be exactly next to her, so that no matter what she moves, I will get on that opportunity. Wow! She could. She could go like here and then here and then here depends on which way she's trying to go out. Yeah. But if I'm standing directly next to her because don't I get it? I can't see her. I mean, not if she doesn't. You can't see her right now, because she's obscured by the wall of fire. I I vote
 [u2081 | 03:02:43.620-03:02:49.950 | Delwath] Kenzo just chooses a place. And yeah, yeah, yeah, yeah, yeah, you pick it's up to you. Right? Where does Kenzo end?
-[u2082 | 03:02:50.490-03:02:52.670 | DM] takes a step to our word.
+[u2082 | 03:02:50.490-03:02:52.670 | DM] takes a step forward.
 [u2083 | 03:02:52.910-03:03:09.480 | Kenzo] well, and I'm I'm still confused. Well, on all, on, all on. I'm still very confused. Wait, so she is, is she's I can't attack her right now, even though she, I can be standing right next to her, and but you'd have to punch through a wall of fire, which means you'd take 5d8 fire damage. Can I shoot an acid arrow?
 [u2084 | 03:03:09.910-03:03:11.290 | DM] You can't see her.
 [u2085 | 03:03:11.920-03:03:20.389 | Kenzo] but I can. Just I mean, yeah, oh, so I don't know where she is. Actually, this is actually kind of inaccurate map, because I don't. Yeah, yeah, you don't exactly know where she is, you know, she's in that ring.
@@ -2113,7 +2113,7 @@
 [u2113 | 03:05:26.570-03:05:30.260 | Kenzo] Oh, I still see to see the fire. Oh, no, no, I just want to
 [u2114 | 03:05:31.540-03:05:32.309 | Unknown] want it.
 [u2115 | 03:05:33.040-03:05:38.300 | Delwath] I mean, like I could get to somewhere like there. But I can't actually do anything
-[u2116 | 03:05:38.650-03:05:39.860 | Kenzo] you chopolate.
+[u2116 | 03:05:38.650-03:05:39.860 | Kenzo] You chop Vola.
 [u2117 | 03:05:39.910-03:05:45.139 | Delwath] I can't attack her. I have the same problems. Yeah, I want them not to kill Vola. She's asleep. I'm hoping we can save her.
 [u2118 | 03:05:45.910-03:05:46.670 | Kenzo] And
 [u2119 | 03:05:46.860-03:05:59.009 | Delwath] I just I have something I could do if like I need to move a lot quickly to try and get closer to her. But at the moment I think my best move is going after Hektor.
@@ -2164,7 +2164,7 @@
 [u2164 | 03:09:23.580-03:09:26.500 | DM] right he
 [u2165 | 03:09:27.770-03:09:30.780 | DM] That fails his Con save.
 [u2166 | 03:09:32.830-03:09:35.180 | DM] and he missed with his first attack.
-[u2167 | 03:09:35.630-03:09:44.749 | Delwath] He takes 24 points of damage, and he hits with his second attack I was on. I cursed him. Wait 1 s. I might not have hit. Sorry. I'm just looking up.
+[u2167 | 03:09:35.630-03:09:44.749 | Delwath] He takes 24 points of damage, and he hits with his second attack Also, I cursed him. Wait 1 s. I might not have hit. Sorry. I'm just looking up.
 [u2168 | 03:09:44.980-03:09:46.590 | Delwath] His speed is now halved.
 [u2169 | 03:09:47.420-03:09:49.290 | Seeker] Yeah, yeah, from 0.
 [u2170 | 03:09:49.510-03:09:53.869 | Delwath] half of 0. Yes. Hold on a second
@@ -2184,7 +2184,7 @@
 [u2184 | 03:11:07.950-03:11:08.600 | Unknown] sure!
 [u2185 | 03:11:08.810-03:11:16.820 | Delwath] And then he just stops and like stops moving and just stares down at the. He takes 8 more points of damage. By the way.
 [u2186 | 03:11:16.950-03:11:17.810 | DM] Okay.
-[u2187 | 03:11:19.070-03:11:23.849 | DM] stairs down at stares down at his feet.
+[u2187 | 03:11:19.070-03:11:23.849 | DM] stares down at stares down at his feet.
 [u2188 | 03:11:24.150-03:11:31.720 | Kenzo] She's got to go into the room. She's got to go into the room now. She is going to use her action to try and escape from the webs.
 [u2189 | 03:11:32.980-03:11:37.470 | DM] which fails so she cannot move.
 [u2190 | 03:11:37.700-03:11:41.360 | Kenzo] I'll be on level 3 of the web.
@@ -2324,9 +2324,9 @@
 [u2324 | 03:22:51.310-03:22:52.760 | Seeker] all right, so
 [u2325 | 03:22:54.410-03:22:55.260 | Seeker] that
 [u2326 | 03:22:55.480-03:23:17.260 | Seeker] I, if I want to like, walk to the doorway, cast the spell, and also bonus action, healing word. Can I do all of those things? You can't cast 2 leveled spells in one turn. I see that, but I gave it. But but Drogmar got a healing potion. So so the the king is okay. The king is okay, all right. So I will step
-[u2327 | 03:23:17.330-03:23:23.250 | Seeker] temporarily to the door and cast some and say.
+[u2327 | 03:23:17.330-03:23:23.250 | Seeker] temporarily to the door and cast Summon Fey.
 [u2328 | 03:23:23.640-03:23:27.180 | Kenzo] Oh, nice! What does this happen and concentration on
-[u2329 | 03:23:27.500-03:23:46.459 | Kenzo] on a yeah dance. No, I don't know. Don't don't end. Concentration is resistance. Yeah, we need them to keep having to be fat. Don't do something that ends concentration. Wait, though. Wait the way the the hold on! Hold on! Let's just think for a second. Here, mission right now is get the fucking cloak away from those motherfuckers up at the top
+[u2329 | 03:23:27.500-03:23:46.459 | Kenzo] on a yeah dance. No, I don't know. Don't don't end. Concentration is resistance. Yeah, we need them to keep having to be fascinated. Don't do something that ends concentration. Wait, though. Wait the way the the hold on! Hold on! Let's just think for a second. Here, mission right now is get the fucking cloak away from those motherfuckers up at the top
 [u2330 | 03:23:46.810-03:24:00.220 | Kenzo] like, do we want to dimension door Delwath and Delwath and fucking Seeker like to right on top of Riswynn like a like. So we can all be like right there, protecting the cloak.
 [u2331 | 03:24:00.950-03:24:02.969 | Seeker] Not a crazy idea
 [u2332 | 03:24:03.490-03:24:13.959 | Kenzo] like dude. We do not want like Kadmos, and Casian are so powerful. We have no idea what the fuck they're doing. It's just Riswynn at the top like, why don't we all get that? That's all that.
@@ -2442,14 +2442,14 @@
 [u2442 | 03:33:32.810-03:33:39.900 | Delwath] And I'm just gonna I mean, I'm keeping this thing up. He fails six saves he's dead.
 [u2443 | 03:33:40.110-03:33:41.620 | DM] Well, if he fails.
 [u2444 | 03:33:44.080-03:33:51.939 | Delwath] Okay, 28 damage. Yeah. He's getting rough there. And let's see a third level of exhaustion.
-[u2445 | 03:33:52.610-03:33:59.739 | DM] The I've got this land you down attacks and saves; one more, his hit points fall in half, so he'll probably die next time he fails.
+[u2445 | 03:33:52.610-03:33:59.739 | DM] The I've got disadvantage on attacks and saves; one more, his hit points fall in half, so he'll probably die next time he fails.
 [u2446 | 03:34:00.650-03:34:10.969 | DM] Murook between Murook the ladder Wellby and this other orc.
-[u2447 | 03:34:11.090-03:34:21.910 | DM] Drogmar. It is not so difficult to subdue Vargas. Valius runs off, he vanishes somewhere.
+[u2447 | 03:34:11.090-03:34:21.910 | DM] Drogmar. It is not so difficult to subdue Vargus. Valius runs off, he vanishes somewhere.
 [u2448 | 03:34:21.930-03:34:23.210 | Delwath] Which one?
 [u2449 | 03:34:23.350-03:34:26.690 | Delwath] But how? How? How? There's no way out there.
 [u2450 | 03:34:27.250-03:34:36.729 | Delwath] Yeah, he! He! He runs back this way and looks like he gonna run this way and see where this staircase leads down here.
 [u2451 | 03:34:36.770-03:34:39.230 | Delwath] Does he have enough move to do all that in one turn?
-[u2452 | 03:34:39.510-03:34:54.450 | DM] I've been sorry he's let's see. So he was. Here he goes. He looks. He realizes there's no exits from here. He's gonna go 1, 2, 3, 4, 5. It's just we all get actions right. We might want us to do him to 1011, 12. He'll get there.
+[u2452 | 03:34:39.510-03:34:54.450 | DM] I've been sorry he's let's see. So he was. Here he goes. He looks. He realizes there's no exits from here. He's gonna go 1, 2, 3, 4, 5. It's just we all get actions right. We might want us to do him to 10, 11, 12. He'll get there.
 [u2453 | 03:34:55.240-03:35:00.389 | DM] okay, I mean, I think we can let him get away.
 [u2454 | 03:35:01.370-03:35:07.260 | Delwath] I did fall with the I I didn't want Vola to die. Vola is making death saving throws. It's her turn.
 [u2455 | 03:35:07.680-03:35:13.400 | DM] the the spell is gone because Kadmos is unconscious. and
@@ -2468,7 +2468,7 @@
 [u2468 | 03:36:03.810-03:36:05.299 | Riswynn] So she? Yeah.
 [u2469 | 03:36:05.660-03:36:08.969 | Seeker] we we need to decide exactly what to do.
 [u2470 | 03:36:09.010-03:36:36.740 | Riswynn] Okay with Kadmos and Casian. do we have a strong enough magical? We can put them in the fucking mirror because put them in the fucking mirror. You have to be conscious to be put in the mirror. Yes, that's what I was saying. Do we have a thing that isn't a thing that you have to be awake with your eyes up before, I mean, are you letting Hektor die? What are you doing about Hektor?
-[u2471 | 03:36:38.350-03:36:49.800 | Riswynn] I think the only one that Delwath wants to save is Vola. So. But it's Wellby wants to chase after the guy. {{I cannot drop}} the Sickening Radiance, so Wellby doesn't take the damage sure again. But but what about Hektor?
+[u2471 | 03:36:38.350-03:36:49.800 | Riswynn] I think the only one that Delwath wants to save is Vola. So. But it's Wellby wants to chase after the guy. I can now drop the Sickening Radiance, so Wellby doesn't take the damage sure again. But but what about Hektor?
 [u2472 | 03:36:50.460-03:36:57.860 | Delwath] He's still stuck in place with the immovable. Oh, yeah, yeah, yeah, that lasts for another 30 s or so.
 [u2473 | 03:36:58.010-03:36:58.750 | Kenzo] He.
 [u2474 | 03:36:59.010-03:37:01.459 | Delwath] I mean, do we want to?
@@ -2478,7 +2478,7 @@
 [u2478 | 03:37:12.990-03:37:21.629 | Riswynn] like we want to capture all of them? Do we want to just kill everyone except Kadmos and Casian and Vola like, what do we want to do? Wellby definitely votes for killing.
 [u2479 | 03:37:22.440-03:37:24.699 | DM] Wow! Wellby’s kind of a murder hobo, though
 [u2480 | 03:37:26.160-03:37:49.619 | Wellby] I think there's a well established self-defense going on here. There's the sweet sailor boy who the the barbarian. He used to be a sweet sailor boy. We let these guys go once before, and we know exactly what happened, for, like this. I I think I think we trapped them all in the mirror. I think we put them all in the mirror right? Yeah. Now, why don't we just show Hektor the mirror
-[u2481 | 03:37:50.830-03:37:59.420 | Delwath] right now? You could just go around the mirror, grab the mirror and show it to Hektor. Let's put him in. That's true. We could put him during here. He's been doing.
+[u2481 | 03:37:50.830-03:37:59.420 | Delwath] right now? You could just go around the mirror, grab the mirror and show it to Hektor. Let's put him in. That's true. We could put him in here. He's been doing.
 [u2482 | 03:37:59.840-03:38:01.100 | Seeker] Thank you very much.
 [u2483 | 03:38:01.320-03:38:05.090 | Seeker] But then, okay, while he's on his first Charisma saving throw.
 [u2484 | 03:38:05.920-03:38:09.420 | Kenzo] he fails a second. So he's in there all right.
@@ -2496,7 +2496,7 @@
 [u2496 | 03:38:53.560-03:38:55.730 | Kenzo] all right. That's fine.
 [u2497 | 03:38:56.470-03:39:02.949 | Delwath] I mean, let's try and put them all in the mirror right like, honestly, what Delwath would do is slit Kadmos's throat.
 [u2498 | 03:39:03.030-03:39:05.010 | Delwath] Tie up. Casian.
-[u2499 | 03:39:05.890-03:39:19.400 | Delwath] take any sort of magical like, basically any problem. Yeah, arcane focus, right? Like, make sure you can't use his hands. Gag him. So we can't talk like anything that would like cast spells
+[u2499 | 03:39:05.890-03:39:19.400 | Delwath] take any sort of magical like, basically any components. Yeah, arcane focus, right? Like, make sure you can't use his hands. Gag him. So we can't talk like anything that would like cast spells
 [u2500 | 03:39:20.930-03:39:22.020 | Delwath] and then
 [u2501 | 03:39:22.630-03:39:28.530 | Kenzo] wake him up. Pick him up and down in the mirror, and just show him the mirror. Yeah, done. Let's do that
 [u2502 | 03:39:31.110-03:39:31.820 | Seeker] all right.
@@ -2516,7 +2516,7 @@
 [u2516 | 03:40:50.900-03:40:51.870 | Riswynn] but like
 [u2517 | 03:40:52.330-03:40:54.779 | Riswynn] fairly non- dangerous criminals like.
 [u2518 | 03:40:55.060-03:40:59.000 | Riswynn] no, we can bring them out there. Your guy we could give to the King to like.
-[u2519 | 03:40:59.210-03:41:09.060 | Delwath] But let's just put them all in the mirror to start. Let's start, I said. Just right. Now let's put it all in, and then we can decide later if we want to mix match fucking trade red rooms, you know, whatever
+[u2519 | 03:40:59.210-03:41:09.060 | Delwath] But let's just put them all in the mirror to start. Let's start, I said. Just right. Now let's put it all in, and then we can decide later if we want to mix match fucking trade bedrooms, you know, whatever
 [u2520 | 03:41:09.150-03:41:10.230 | Kenzo] for them.
 [u2521 | 03:41:11.660-03:41:14.749 | DM] Sorry I'm trying to find where the mirror is.
 [u2522 | 03:41:14.870-03:41:16.140 | Kenzo] but not
@@ -2527,7 +2527,7 @@
 [u2527 | 03:41:33.980-03:41:39.000 | DM] okay, so you have. You have 9 slots free.
 [u2528 | 03:41:39.490-03:41:43.579 | Delwath] I think we should put everybody in the mirror. Yes.
 [u2529 | 03:41:44.320-03:41:53.490 | DM] so, okay, so hold on a second. This is all happening too fast. Okay, so right now, first of all Riswynn is Antonia, dead or alive?
-[u2530 | 03:41:53.860-03:42:02.689 | DM] She's alive. I spared her dying shirt, too. Vola Evelina is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are
+[u2530 | 03:41:53.860-03:42:02.689 | DM] She's alive. I Spared the Dying her, too. Vola Evelina is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are
 [u2531 | 03:42:03.010-03:42:13.949 | DM] are unconscious and stable at 0. Hit points. Hektor is is in the mirror. Yeah, already
 [u2532 | 03:42:15.360-03:42:21.349 | DM] Valius has surrendered, and you are now saying, Stare at this mirror, and he says.
 [u2533 | 03:42:23.250-03:42:27.180 | Delwath] Yes, we are. But first we're taking all their stuff. Yeah.
@@ -2541,7 +2541,7 @@
 [u2541 | 03:43:09.900-03:43:10.920 | Delwath] he's
 [u2542 | 03:43:11.420-03:43:12.399 | Kenzo] he subdued it.
 [u2543 | 03:43:12.700-03:43:14.129 | Delwath] He's our prisoner.
-[u2544 | 03:43:16.350-03:43:19.879 | Delwath] just like we of of Kadmos's influence. I don't know.
+[u2544 | 03:43:16.350-03:43:19.879 | Delwath] just like free of Kadmos's influence. I don't know.
 [u2545 | 03:43:24.740-03:43:26.220 | DM] Kadmos is dead.
 [u2546 | 03:43:27.520-03:43:28.350 | DM] is it?
 [u2547 | 03:43:29.260-03:43:30.570 | Delwath] Kadmos is dead.
@@ -2571,7 +2571,7 @@
 [u2571 | 03:45:25.580-03:45:38.340 | Delwath] I mean, I don't know what happens if somebody I mean presumably you can fail your save right if you if we tell you, let this take effect. Yeah, right? I don't know who will resist right? Like I don't know if Casian or anybody else. But but
 [u2572 | 03:45:38.630-03:45:41.790 | Delwath] how many times I mean, is it like, if you succeed, it's
 [u2573 | 03:45:42.360-03:45:48.319 | Delwath] how long does it? Is it like 24 h before you have to? You can try again, or I don't really know what it what happens.
-[u2574 | 03:45:48.720-03:45:50.649 | DM] I don't think any of you are now.
+[u2574 | 03:45:48.720-03:45:50.649 | DM] I don't think any of you know.
 [u2575 | 03:45:51.070-03:45:53.849 | Kenzo] but if they're sitting there looking at it like.
 [u2576 | 03:45:56.680-03:46:02.350 | Kenzo] then can we just put them in there? So Casian refuses to open his eyes.
 [u2577 | 03:46:05.520-03:46:06.889 | Wellby] I mean, I will open them.
@@ -2606,7 +2606,7 @@
 [u2606 | 03:47:56.930-03:48:03.549 | DM] Let's see. So
 [u2607 | 03:48:05.870-03:48:10.960 | DM] Valius, when he sees that his brother is still breathing.
 [u2608 | 03:48:11.440-03:48:15.760 | DM] and also going into this mirror, apparently with him, does not resist.
-[u2609 | 03:48:15.900-03:48:27.080 | DM] Vargas is like Hektor. He just come and stares blankly at the mirror, not really paying attention one way or the other, and vanishes.
+[u2609 | 03:48:15.900-03:48:27.080 | DM] Vargus is like Hektor. He just come and stares blankly at the mirror, not really paying attention one way or the other, and vanishes.
 [u2610 | 03:48:27.120-03:48:28.859 | DM] Vola is the same
 [u2611 | 03:48:30.890-03:48:39.609 | DM] Antonia. like you know, as you as as you revive her having stripped her of
 [u2612 | 03:48:39.730-03:48:42.360 | DM] her armor and her gear.
@@ -2627,9 +2627,9 @@
 [u2627 | 03:50:12.010-03:50:24.940 | DM] yeah. And you did pretty well forcing the casters to always be reacting. But that I mean honestly, Counterspell was the most critical, like both counter spell, to to block the
 [u2628 | 03:50:25.060-03:50:28.030 | DM] massive fireball and
 [u2629 | 03:50:28.080-03:50:32.749 | DM] Seeker’s. To stop the Dimension Door was, I mean, that's what? sealed the deal?
-[u2630 | 03:50:32.940-03:50:50.279 | Kenzo] Well, that was such a that. That was just a massive plot moment. Because if Casian and Kadmos escaped, yeah, it would been like fucking all over again. I don't know how some of these guys people say it sleeps a crappy spell, but it was really useful. Oh, it's really critical, critical critical in this battle. Yeah.
+[u2630 | 03:50:32.940-03:50:50.279 | Kenzo] Well, that was such a that. That was just a massive plot moment. Because if Casian and Kadmos escaped, yeah, it would been like fucking all over again. I don't know how some of these guys people say Sleep's a crappy spell, but it was really useful. Oh, it's really critical, critical critical in this battle. Yeah.
 [u2631 | 03:50:50.920-03:50:53.030 | Seeker] And also we immobilize Hektor.
-[u2632 | 03:50:53.100-03:51:01.740 | DM] That was also, I think, he, from being able to disrupt people's concentration, was also very, very useful
+[u2632 | 03:50:53.100-03:51:01.740 | DM] That was also, I think, keeping him from being able to disrupt people's concentration, was also very, very useful
 [u2633 | 03:51:01.850-03:51:07.290 | Kenzo] we did, fucking awesome like I was like. That was like sweet, sweet sweetness all around
 [u2634 | 03:51:07.510-03:51:14.890 | Kenzo] the Orc, the or the hit point sponges like it was just like that. That definitely helped. I mean, they soaked up
 [u2635 | 03:51:14.930-03:51:27.160 | DM] something like a hundred points of damage. The 2 of them you you're gonna have to send us a list of all the magic items we can steal from L. Yes. it's not going to be that great sadly for you.
@@ -2645,7 +2645,7 @@
 [u2645 | 03:52:33.260-03:52:34.799 | Kenzo] I'm proud of us guys.
 [u2646 | 03:52:34.990-03:52:35.850 | Delwath] Yeah.
 [u2647 | 03:52:36.240-03:52:44.180 | Delwath] our our like. It could have been slightly more perfect if we had set up the Sickening Radiance so that there could have been a little bit more like attacking like, yeah.
-[u2648 | 03:52:44.400-03:52:56.569 | Kenzo] And then, if we had, if we like, involved the first 2 in. But that was like we didn't know it. We were always on defense, always getting fucked by traps so nice to do that to somebody else.
+[u2648 | 03:52:44.400-03:52:56.569 | Kenzo] And then, if we had, if we like, walled the first 2 in. But that was like we didn't know it. We were always on defense, always getting fucked by traps so nice to do that to somebody else.
 [u2649 | 03:53:00.000-03:53:07.020 | DM] Yeah, now you, I mean. when you spend the time to. I was I was very happy with you all
 [u2650 | 03:53:07.030-03:53:11.029 | DM] you all like, had all your abilities lined up. You like.
 [u2651 | 03:53:11.430-03:53:14.259 | DM] had a nice plan. You used your strong stuff.
