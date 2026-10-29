@@ -69,6 +69,7 @@ Of all the planes, it is undeniable that the Feywild is the easiest for a travel
 
 Nonetheless, despite [[The Lore of the Feywild|extensive catalogs]], the rules that govern connections to the Feywild have eluded all scholarly categorization. 
 ## People of the Feywild
+_See more: [[Fey]]_
 
 The denizens of the Feywild, often collectively called the **fey**, are as varied as the realm they inhabit, their presence inspiring awe and trepidation in equal measure. Most striking are the elegant and graceful creatures known simply as fae, often mistaken for elves or humans, but distinguished by their luminous eyes and unearthly poise. Mischievous fairies, such as pixies, sprites, and brownies, flit through stories of pranks and magical interventions, while the horned satyrs, embodying the wild vitality of their home, are renowned as the masters of revelry, mischief, and sometimes wisdom. 
 
@@ -95,7 +96,7 @@ Specifically on Tyrwingha:
 Some relevant sources:
 - [[On the Creation and Destruction of Extra-Material Realms]]
 - [[Letter from the Oracle of the Red to the Mostreve Warlocks]]
-- [[Playing a Fae]]
+- [[Playing a Fey]]
 ### Geography
 
 The Feywild is a place of strange magic and deep emotion. Some basic facts of the layout and workings of the plane are detailed here:
@@ -130,20 +131,16 @@ The feywild runs on bargains and gifts. The fey don't really use currency, and t
 
 Many fey also cannot or will not tell an outright lie, although they will happily lie by omission or implication. Generally speaking, this is the fey of medieval folklore, of the original fairy tales, not so much the Disney-esque modern versions. 
 
-The people of the Feywild are generally referred to as fae or faerie as a whole, but within that category there are distinctions both obvious and subtle. 
-
-- The most common fae are the humanoid, generally human-looking people just known as “fae”. The fae are usually elegant and graceful humanoids, generally human-like or elf-like in appearance, who could pass for humans in the right circumstances, although usually their eyes and demeanor give them away. In game terms, these fae can use either the Eldarin race, the homebrew Fae race, or the Changeling race (for now). 
-- The sometimes mischievous, sometimes helpful, and always magical flying fairies are also found in the feywild. These fey are usually small, and include creatures like the pixies, sprites, brownies, and the playable Fairy race. 
-- The original archfey, at the dawn of the multiverse, were responsible for the awakening of many animals. Some of these now inhabit the Feywild as beastfolk of various kinds. Most famous and most common are the horned satyrs; rarer are the harengons (rabbit-folk) and owlins (owl-folk), and perhaps other creatures. While many of these fey have a fixed animal form, others are more like humans with animal features. In game terms, the playable Satyr, Harengon, Owlin, and Shifter races would be of these beastfolk lineages.
-- Throughout the feywild, there are also innumerable dryads, nymphs, and other spirits of the land. These fey are typically strongly tied to a particular place, rarely traveling. 
+See [[Fey#The Many Forms of the Fey|The Many Forms of the Fey]] for descriptions of the fey and [[Playing a Fey]] for character options. Differences in appearance and game mechanics do not necessarily represent separate species.
 ### Fey Politics
-
-**THIS IS NOT CANONICAL AND IS PROBABLY WRONG**
 
 The politics and political organization of the Feywild is based around the realms of the Archfey. 
 
-- Pretty much all of the feywild is part of realms of various Archfey and Fey Lords. Each fey lords domain can be fairly different - some have glittering courts, even cities, while others are extremely wild, and many are in between; some are largely pleasant and friendly, others hostile or malicious. Some are pretty strict about policing their boundaries, others let anyone pass, still others are hidden and cannot be found by ordinary means. The transitions are often not obvious to non-fey (but all fey can easily sense these borders) and catching someone trespassing is an easy way the fey lords use to lure the unknowing or unwitting into deals and bargains.
-- The archfey and fey lords that rule the domains of the feywild generally owe their allegiance to either the Seelie Court or the Unseelie Court. While crudely considered "good" and "evil" fey by unknowing humans, the real differences between them are subtler and more complicated, with the Seelie Court generally associated with protocol and the trappings of civilization, and the Unseelie Court generally associated with indulgence of primal instincts and a much more chaotic vibe. There are also independent archfey that shun the conflict of the Seelie and Unseelie courts and hold themselves neutral.     
+Much, but not all, of the feywild is part of realms of various Archfey and Fey Lords. Each fey lords domain can be fairly different - some have glittering courts, even cities, while others are extremely wild, and many are in between; some are largely pleasant and friendly, others hostile or malicious. Some are pretty strict about policing their boundaries, others let anyone pass, still others are hidden and cannot be found by ordinary means. The transitions are often not obvious to non-fey (but all fey can easily sense these borders) and catching someone trespassing is an easy way the fey lords use to lure the unknowing or unwitting into deals and bargains.
+
+There are parts of the feywild - so far, the [[Twilight Kingdom]] and the [[Crystal Peak]] - which are interstitial domains, not ruled by any single archfey. The full rules and details of how these work is not fully developed but there is space for diversity. 
+
+It is clear that some archfey are more powerful and central than others, and some have conflicts with their neighbors while others don't. But in general there is no organized hierarchy or anything in fey domains. The politics of the area around Addermarch, Tyrwingha, and southern Sembara is the most developed. 
 
 %%^End%%
 

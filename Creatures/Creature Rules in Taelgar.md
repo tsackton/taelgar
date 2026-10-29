@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta]
 name: Creature Rules in Taelgar
 excludePublish: [all]
 dm_owner: joint
@@ -57,7 +57,7 @@ Notes:
 
 Canonically includes: [[Dragons]], [[Giants]]
 Possibly also includes: [[Djinn]], [[Efreeti]], [[Dao]], [[Marid]] 
-Probably does not include: [[Fae]], [[Fairies]]
+Probably does not include: [[Fey|common fey]]
 New types of giants and dragons are relatively safe to invent, though keep in mind the need for a shared history and origin story. Creatures like ogres, cyclops, and wyverns are likely better treated as "creatures" or "transformations". New species in this category require some thought, primarily to avoid overloading the world with too many extremely powerful creatures. 
 
 Notes:
@@ -80,12 +80,12 @@ Notes:
 **Other Species:** A catch-all category for everything that doesn't fit into the above categories. This is generally either species with a unique and hard-to-categorize creation story, or species with no creation story invented yet but which do not obviously fit into another category. The metaphysics of these species depends on their creation story and might vary widely. 
 
 Canonically includes: [[Kenku]], [[Merfolk]], [[Centaurs]]
-Currently also includes:  [[Goblins]], [[Kobolds]], [[Fae]], [[Fairies]]
+Currently also includes:  [[Goblins]], [[Kobolds]], [[Fey|common fey]]
 Possibly also includes: [[Ithilids]], [[Bullywugs]], [[Dragonets]], [[Djinn]], [[Azer]], [[Efreeti]], [[Dao]], [[Marid]], [[Aboleths]]
 
 Notes:
 - Many of the species in this category simply have no origin story or metaphysics invented, and some might not even be species. They are likely in the "unique" category, but might not be. These include:
-	- Fae, Fairies - natives of the Feywild; definitely species but origin story very unclear
+	- Common fey - natives of the Feywild; definitely species but origin story very unclear. %% Whether these common folk comprise one species or two remains unresolved. See [[Metaphysics of Creatures#Accrete Soulstuff]] for the alternatives and open naming questions. %%
 	- Goblins - almost certainly a species but origin story very unclear; could, for example, be transformations of hobgoblins somehow granted the ability to accrete soulstuff or fey somehow banished from the Feywild
 	- Kobolds - definitely a species and very likely in this category, but origin story not invented
 	- Dragonets - might not be a species; if they are, might be transformations from dragons; if not, might just have a unique and interesting population on the circular island
@@ -151,7 +151,7 @@ Metaphysically, a divinity is just a creature that has accumulated enough soulst
 Anything that is not a species, construct, or transformation is, by definition, a creature (unless it is a unique and extremely powerful individual, in which case it might be a divinity). For creatures, by far the most important distinction is their native plane. There are roughly six options here. 
 
 (1) **The Material Plane**: the simplest option, and the best default. Unless there is a good reason to decide otherwise, most typical monsters should be considered creatures native to the material plane. 
-(2) **The Feywild**: the Feywild has a very distinctive vibe, and mostly it is obvious whether a potential creature is a fey or not. The more complicated decision is whether it is a member of one of the two species native to the Feywild ([[Fairies]] and the [[Fae]]), or whether it is a creature. Both fairies and fae have some specific vibes, but unlike species native to the material plane come in a wide range of diverse forms. Most obviously, place based creatures like dryads should be considered creatures, not species, but there is a lot of flexibility here.
+(2) **The Feywild**: the Feywild has a very distinctive vibe, and mostly it is obvious whether a potential creature is a fey or not. The more complicated decision is whether it is a member of the common peoples of the Feywild described in [[Fey]], or whether it is a creature. These common fey have some specific vibes, but unlike species native to the material plane come in a wide range of diverse forms. Most obviously, place based creatures like dryads should be considered creatures, not species, but there is a lot of flexibility here.
 (3) **Elemental Planes**: anything native to one of the Elemental Planes must tie to the elemental vibe of its native plane. Otherwise, though, these are pretty flexible and there is minimal canon here. Some very powerful elementals, like kraken or phoenixes, might be more akin to divinities. 
 (4) **Other Inner Planes**: very little has been canonically established, but it is likely that other [[Echo Realms]] have native creatures, and it is even possible - although less likely - that places like the [[Plane of Magic]]  or the [[Ethereal Plane]] could have creatures native to them.
 (5) **The Spiritual Realms**: native of the Spiritual Realms are special, in that they are made purely of soulstuff and manifest bodies when they travel to the inner planes, but cannot be killed except on their native plane. It should generally be obvious when this is an appropriate choice. Natives of Spiritual Realms should be thought of as extensions of their native plane.
@@ -163,7 +163,7 @@ The default for any new thing should generally be a creature native to the mater
 
 Creatures that are not native to the Material Plane are often obvious:
 - Natives of Spiritual Realms should be obvious extensions of that plane. Keep in mind these creatures cannot be killed outside their native plane. Consider also this category for creatures that are strongly connected to another plane: for example, gnolls are best considered natives of the Abyss, created by possession of a carnivore, usually a scavenger such as a hyena, by a demonic entity (though these could also be considered transformations). These creatures can never be species. 
-- Natives of the Feywild have a very distinctive vibe. Note, however, there are good reasons to avoid inventing any new species native to the Feywild. Most new creatures that integrate with the politics of the Feywild and might otherwise fit the definition of species should usually instead be considered variants of one of the two existing species ([[Fae]] and [[Fairies]]). Feywild species are very malleable in form and abilities. However, many fey can also be considered creatures, not species. Anything strongly tied to a place, such as nymphs and dryads, as well as manifestations of emotions, are likely creatures, not species.
+- Natives of the Feywild have a very distinctive vibe. Note, however, there are good reasons to avoid inventing any new species native to the Feywild. Most new creatures that integrate with the politics of the Feywild and might otherwise fit the definition of species should usually instead be considered variants of the common fey described in [[Fey]]. Feywild species are very malleable in form and abilities. However, many fey can also be considered creatures, not species. Anything strongly tied to a place, such as nymphs and dryads, as well as manifestations of emotions, are likely creatures, not species.
 - Natives of one of the elemental planes should have obvious connections to their home plane in mechanics and description. There is a lot of room for invention here, as the elemental planes are relatively lightly detailed. New species are possible. 
 - Natives of the Far Realms are often, but not always, associated with horror content and aberrations, but note there are canonically many Far Realms and these can have radically different vibes if desired. Only introduce new Far Realms species if really needed to create a culture and history. 
 
@@ -213,18 +213,4 @@ In D&D, this plays out as follows:
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern guidance for Taelgar campaigns; ancient origin stories and explicitly tentative metaphysical options do not define a narrower article date.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added explicit name and modern POV metadata, normalized frontmatter field order, and corrected objective typos, grammar, and the stray incomplete word after the introductory category paragraph.
-
-### Validated judgments
-- This is an excluded-from-publication rules and development guide; explicit uncertainty is appropriate to its purpose. It is not a playable-species article.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** The Species definition and Native Plane section permit species native to the Far Realms, whereas [[Metaphysics of Creatures#True Species]] states “All true species are native to the Inner Realms.” That companion also later permits Far Realms species, so its own framing is inconsistent. Reconcile the geographic limit across the two guides; do not silently classify individual creatures to resolve it. If the broader definition here is retained, the bounded replacement in the companion is: `True species may be native to the Inner Realms or originate in a Far Realm; natives of the Spiritual Realms are not true species.`
 %%^End%%

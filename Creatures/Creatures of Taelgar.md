@@ -60,16 +60,13 @@ Perhaps strangest of all are those creatures that seem to mimic sentience with m
 
 Few travelers and adventurers make their way across the diverse realms of the multiverse, and reports of the creatures of other planes in their native habitats are nearly non-existent. But none would doubt that many denizens of the other planes make their way to the Material Plane, for diverse purposes. 
 ### The Fey
+_See more: [[Fey]]_
 
-Of all the many planes in the multiverse, the [[Feywild]] is by far the most accessible from, and connected to, the material world. Travelers cross into, and out of, the Feywild at portals scattered around Taelgar, and visitors from the Feywild are, if not a common sight, relatively unsurprising. The creatures that inhabit the Feywild, collectively called the [[Fey]], are diverse, magical, and strange, defying easy classification, but are often thought to include:
+Of all the many planes in the multiverse, the [[Feywild]] is by far the most accessible from, and connected to, the material world. Travelers cross into, and out of, the Feywild at portals scattered around Taelgar, and visitors from the Feywild are, if not a common sight, relatively unsurprising.
 
-- [[Fae]], the most common natives of the Feywild, graceful humanoids with an elfin appearance and a striking presence, who populate the courts of the archfey and rarely leave their native plane; 
-- [[Beastfolk]], bipedal animal-like fey that typically resemble humanoid versions of the animals they mimic; while common in the Feywild, they rarely leave, for when they do, they risk being mistaken for talking animals, monstrosities, or worse;
-- [[Changelings]], humanoids imbued with the changeable essence of the Feywild, able to shift their appearance and voice at will, residing in many societies undetected;
-- [[Satyrs]], goat-legged humanoids with a reputation for mirth and merriment, who  are among the most common denizens of the Feywild encountered in Taelgar;  lone satyrs making music or mischief, or groups traveling together in a moveable feast, are not an infrequent sight in some places in the world;
-- [[Fairies]], diminutive flying fey, commonly cross the boundaries of the worlds, to make mischief or bring joy, but are rarely seen by humans or other big folk unless they wish to be spotted;
-- [[Nymphs]], fey spirits often strongly tied to a river, stream, glade, or tree, who do not travel but are sometimes drawn to the Material Plane;
-- [[Hags]], powerful fey known for making bargains that rarely rebound to the benefit of the petitioner, often found on the outskirts of human settlements;
+The fey are diverse in appearance, though they do not generally divide themselves by form. Some resemble graceful humans or elves, marked by unusual eyes and an otherworldly presence; others can change their appearance at will, and are called changelings in mortal stories. Small, magical fairies include pixies, sprites, and brownies, while beastfolk take many animal-like forms, from the familiar goat-legged satyrs to a diversity of animal-like humanoids and human-like animals of all kinds. 
+
+Some fey stand apart even among their own kind. [[Nymphs|Nymphs, dryads, and other spirits of the land]] are strongly tied to particular trees, rivers, or other places, and rarely leave them. [[Hags]] are powerful fey feared for their schemes and bargains, often seeking mortal prey beyond the Feywild.
 
 %% might want a term for the kind of emotion-spirit fey, things like redcaps or meenlocks or boggles or similar %%
 ### The Elementals
