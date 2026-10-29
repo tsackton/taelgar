@@ -58,7 +58,7 @@
 [u0058 | 00:05:30.360-00:05:33.690 | DM] But that's I mean, the Western Gulf is only
 [u0059 | 00:05:37.360-00:05:40.079 | DM] it's only about three hundred miles
 [u0060 | 00:05:41.930-00:05:44.130 | DM] that three hundred miles square.
-[u0061 | 00:05:44.310-00:05:47.629 | DM] So it's, you know you can do a {{read}} around it in a week.
+[u0061 | 00:05:44.310-00:05:47.629 | DM] So it's, you know you can do a read around it in a week.
 [u0062 | 00:05:48.370-00:05:52.269 | DM] Um! So no, you have no idea where the Devil's Spine is.
 [u0063 | 00:05:52.590-00:05:53.540 | DM] Yeah,
 [u0064 | 00:05:54.330-00:05:56.050 | DM] She says,
@@ -69,7 +69,7 @@
 [u0069 | 00:06:13.300-00:06:14.390 | DM] them
 [u0070 | 00:06:14.750-00:06:18.269 | Wellby] Have I ever heard of hobgoblins sailing before? Is that a thing?
 [u0071 | 00:06:21.750-00:06:23.160 | DM] Ah,
-[u0072 | 00:06:25.650-00:06:29.230 | DM] you probably have heard rumors of {{higher}}, I mean,
+[u0072 | 00:06:25.650-00:06:29.230 | DM] you probably have heard rumors of pirates, I mean,
 [u0073 | 00:06:29.520-00:06:33.729 | DM] there's all sorts of strange rumors that come to Tollen, and
 [u0074 | 00:06:33.750-00:06:37.030 | DM] things like that. The
 [u0075 | 00:06:38.010-00:06:45.139 | DM] where the Goodbarrels sailed was generally quite safe, because the Tollen navy is quite strong, and nobody can
@@ -86,7 +86,7 @@
 [u0086 | 00:07:23.510-00:07:24.689 | DM] if you don't?
 [u0087 | 00:07:24.730-00:07:27.399 | DM] Hmm. She kind of shakes her head.
 [u0088 | 00:07:28.030-00:07:30.019 | DM] Don't have time to shepherd
-[u0089 | 00:07:31.380-00:07:35.740 | Wellby] {{who the sailors}} right now. Let's talk about it after
+[u0089 | 00:07:31.380-00:07:35.740 | Wellby] new sailors right now. Let's talk about it after
 [u0090 | 00:07:37.030-00:07:38.969 | DM] if you know how to sail.
 [u0091 | 00:07:40.410-00:07:44.009 | Wellby] Yeah, I spent the first ten years of my life between
 [u0092 | 00:07:44.480-00:07:47.250 | Unknown] Tollen and Sembara, up and down the Green Sea
@@ -109,7 +109,7 @@
 [u0109 | 00:08:45.640-00:08:50.870 | Wellby] I can fight. I'm one of the best archers you've probably ever met. I can
 [u0110 | 00:08:50.940-00:08:52.130 | Wellby] hide.
 [u0111 | 00:08:53.600-00:08:57.839 | Wellby] I can make my way through the wilderness. Again, not super helpful in this context.
-[u0112 | 00:09:01.260-00:09:02.680 | Wellby] I {{can't}}
+[u0112 | 00:09:01.260-00:09:02.680 | Wellby] I can
 [u0113 | 00:09:04.780-00:09:06.260 | Wellby] scout I can
 [u0114 | 00:09:06.340-00:09:11.610 | Wellby] we? Uh! She she yells. Pearl,
 [u0115 | 00:09:12.160-00:09:13.390 | DM] a stout
@@ -133,7 +133,7 @@
 [u0133 | 00:10:23.140-00:10:25.789 | DM] I know these waters better than anybody.
 [u0134 | 00:10:28.750-00:10:31.109 | Unknown] We just need to last that long
 [u0135 | 00:10:32.600-00:10:37.250 | Wellby] man. I'm really really really regretting giving someone else the raven whistle right. Now
-[u0136 | 00:10:39.180-00:10:44.179 | Wellby] take it you can't, somebody. It's still on your character. She I know It's still on my character, she boy.
+[u0136 | 00:10:39.180-00:10:44.179 | Wellby] take it you can't, somebody. It's still on your character sheet. I know it's still on my character sheet, boy.
 [u0137 | 00:10:44.350-00:10:45.750 | Wellby] I did.
 [u0138 | 00:10:46.260-00:10:51.340 | DM] I think you I I don't think you I don't think Kenzo kept that
 [u0139 | 00:10:52.140-00:10:57.390 | Wellby] all right. I'm down for that. He has not used it in his his adventure.
@@ -153,7 +153,7 @@
 [u0153 | 00:11:56.640-00:11:59.920 | Wellby] I have a bow that's real good at starting fires. I mean.
 [u0154 | 00:12:00.150-00:12:02.459 | Wellby] What would it take to get their sails burning?
 [u0155 | 00:12:06.940-00:12:08.959 | DM] Fire is a great idea,
-[u0156 | 00:12:12.720-00:12:15.480 | Wellby] {{and the little I will slow them down.}}
+[u0156 | 00:12:12.720-00:12:15.480 | Wellby] and a little fire will slow them down.
 [u0157 | 00:12:17.030-00:12:18.879 | Wellby] How far behind us are they?
 [u0158 | 00:12:20.760-00:12:23.460 | DM] They're about a mile and a half now, but
 [u0159 | 00:12:25.190-00:12:29.110 | DM] they're gaining about half mile an hour at their current pace.
@@ -189,7 +189,7 @@
 [u0189 | 00:15:07.840-00:15:11.309 | Wellby] Yeah, I guess there's nothing to do but wait. Now
 [u0190 | 00:15:12.870-00:15:13.930 | DM] you are
 [u0191 | 00:15:14.530-00:15:17.019 | DM] Baxter's like standing there. Kind of
-[u0192 | 00:15:17.970-00:15:19.599 | DM] {{there. You something about him.}}
+[u0192 | 00:15:17.970-00:15:19.599 | DM] there. Do something about him.
 [u0193 | 00:15:21.200-00:15:24.249 | Wellby] Get him out of the way, at least,
 [u0194 | 00:15:25.930-00:15:29.880 | Wellby] to help us find a spot, or can someone help us find a spot below deck for him.
 [u0195 | 00:15:31.330-00:15:35.220 | DM] Ah, yeah, one of the sailors comes over and helps you get.
@@ -368,7 +368,7 @@
 [u0368 | 00:33:06.620-00:33:08.740 | DM] Ah, yet again
 [u0369 | 00:33:09.490-00:33:11.329 | DM] a single hit
 [u0370 | 00:33:12.170-00:33:15.670 | DM] from the six for eight points of damage,
-[u0371 | 00:33:17.890-00:33:21.089 | Wellby] eight plus two, that is the skin. Thank goodness,
+[u0371 | 00:33:17.890-00:33:21.089 | Wellby] eight plus two, that is ten. Thank goodness,
 [u0372 | 00:33:21.130-00:33:23.000 | DM] let's say you succeed.
 [u0373 | 00:33:23.710-00:33:28.240 | DM] Ah, land on the Crow's nest, which i'm going to say gives you half cover,
 [u0374 | 00:33:29.660-00:33:31.770 | Wellby] but as you land
@@ -435,7 +435,7 @@
 [u0435 | 00:37:29.480-00:37:35.039 | DM] Although I guess technically, your flaming bowstring automatically sets things on fire, right?
 [u0436 | 00:37:36.430-00:37:37.859 | Wellby] uh
 [u0437 | 00:37:38.400-00:37:42.419 | Wellby] not positive. Actually. Yeah, it does
-[u0438 | 00:37:47.840-00:37:49.720 | Wellby] {{a of a}} burning strike.
+[u0438 | 00:37:47.840-00:37:49.720 | Wellby] I have a burning strike.
 [u0439 | 00:37:49.900-00:37:51.000 | Wellby] Um,
 [u0440 | 00:37:53.440-00:37:57.439 | Wellby] How?
 [u0441 | 00:37:58.270-00:37:59.120 | Wellby] All right.
@@ -481,14 +481,14 @@
 [u0481 | 00:41:01.740-00:41:04.020 | Wellby] So you
 [u0482 | 00:41:04.820-00:41:06.709 | Wellby] two charges for a burning strike,
 [u0483 | 00:41:07.850-00:41:09.310 | Wellby] and that is a
-[u0484 | 00:41:10.050-00:41:11.810 | Wellby] {{thanks team}} altogether.
+[u0484 | 00:41:10.050-00:41:11.810 | Wellby] thanks team altogether.
 [u0485 | 00:41:12.210-00:41:14.470 | DM] Yeah, So that hits,
 [u0486 | 00:41:14.860-00:41:19.770 | Wellby] and the damage, I think will be 3d6 plus.
 [u0487 | 00:41:20.660-00:41:27.929 | Wellby] So it's 3d6 plus four, but really only the only the fire damage matters. Because,
 [u0488 | 00:41:28.150-00:41:28.990 | Unknown] yeah,
 [u0489 | 00:41:32.200-00:41:34.489 | Wellby] ah, that's eight altogether.
 [u0490 | 00:41:34.780-00:41:38.650 | DM] Okay, so it's definitely the arrow sticks in the sail, and it's beginning
-[u0491 | 00:41:38.800-00:41:58.700 | DM] to burst into flame and the fire is beginning to spread. Um! The smoke is obscuring it {{or not}}, so it takes the pirates below and the hobgoblins below, you know, a few seconds to realize what's going on. But you do hear as arrows come raining down around you again. Ah!
+[u0491 | 00:41:38.800-00:41:58.700 | DM] to burst into flame and the fire is beginning to spread. Um! The smoke is obscuring it a lot, so it takes the pirates below and the hobgoblins below, you know, a few seconds to realize what's going on. But you do hear as arrows come raining down around you again. Ah!
 [u0492 | 00:42:00.690-00:42:03.290 | DM] One of which manages to catch you,
 [u0493 | 00:42:03.560-00:42:05.150 | DM] even despite the cup
 [u0494 | 00:42:05.170-00:42:08.240 | DM] cover, two of which managed to catch you.
@@ -541,7 +541,7 @@
 [u0541 | 00:45:50.910-00:45:52.359 | DM] as you
 [u0542 | 00:45:52.630-00:45:54.569 | DM] start away with that whistle.
 [u0543 | 00:45:55.040-00:46:01.440 | DM] Good thing they have disadvantage. I rolled two natural twenties, but it turns out it turns into an eight and a sixteen
-[u0544 | 00:46:01.690-00:46:06.659 | DM] cool. So both of them miss because you're {{one thousand eight hundred and seventeen}} right.
+[u0544 | 00:46:01.690-00:46:06.659 | DM] cool. So both of them miss because you're one thousand eight hundred and seventeen right.
 [u0545 | 00:46:09.520-00:46:14.129 | Wellby] And now you're out of range. Almost fifty points of damage through that, but
 [u0546 | 00:46:14.320-00:46:16.179 | Wellby] they're not in great shape.
 [u0547 | 00:46:17.470-00:46:23.090 | DM] Hobgoblins with crossbows are nasty. Six crossbows just taking potshots at you.
@@ -653,7 +653,7 @@
 [u0653 | 00:53:55.780-00:53:56.879 | Wellby] Sure.
 [u0654 | 00:53:57.990-00:54:00.479 | DM] I guess you get some around Tollen.
 [u0655 | 00:54:01.480-00:54:04.250 | Wellby] I mean I
-[u0656 | 00:54:05.490-00:54:08.369 | Wellby] I don't know {{can you? But I know I can}}. I'm sure
+[u0656 | 00:54:05.490-00:54:08.369 | Wellby] I don't know kenku, but I know of kenku. I'm sure
 [u0657 | 00:54:11.250-00:54:16.120 | DM] hope to find it in a similar spot. As to where we left it
 [u0658 | 00:54:16.700-00:54:19.670 | DM] two years ago, the last time we were on this route,
 [u0659 | 00:54:20.540-00:54:22.720 | DM] and we'll sail south,
@@ -693,7 +693,7 @@
 [u0693 | 00:56:21.220-00:56:27.460 | DM] She sailed for many years longer than I have. I'm sure she can tell you any stories that you'd wish to hear.
 [u0694 | 00:56:27.590-00:56:28.740 | DM] And uh,
 [u0695 | 00:56:28.880-00:56:32.579 | DM] I'm sure we'd all like to hear the story of where you came from
-[u0696 | 00:56:36.830-00:56:39.410 | Wellby] Once we're {{saying, I believe}} I'll tell it
+[u0696 | 00:56:36.830-00:56:39.410 | Wellby] Once we're safe, I believe I'll tell it
 [u0697 | 00:56:40.920-00:56:43.309 | DM] maybe some food first.
 [u0698 | 00:56:46.890-00:56:48.000 | DM] And
 [u0699 | 00:56:48.460-00:56:49.439 | DM] yeah,
@@ -717,9 +717,9 @@
 [u0717 | 00:58:20.870-00:58:23.089 | DM] So, listening
 [u0718 | 00:58:23.210-00:58:26.850 | DM] into the night, you weave your tale.
 [u0719 | 00:58:27.470-00:58:34.640 | DM] Wella and Rose, and a few others who have started to gather now to the music and your story.
-[u0720 | 00:58:35.480-00:58:38.279 | DM] He can and are charmed by
+[u0720 | 00:58:35.480-00:58:38.279 | DM] hearken and are charmed by
 [u0721 | 00:58:38.960-00:58:40.919 | Unknown] by your tale, by them.
-[u0722 | 00:58:41.300-00:58:45.009 | DM] Most of these people have never been further west, then,
+[u0722 | 00:58:41.300-00:58:45.009 | DM] Most of these people have never been further west, than,
 [u0723 | 00:58:46.470-00:58:54.160 | DM] Cymea. Ah, certainly a few have been to Tollen or Sembara. None have been off the Green Sea,
 [u0724 | 00:58:54.750-00:58:55.830 | DM] and
 [u0725 | 00:58:56.770-00:59:02.289 | DM] most of them are Brightmoons. This is largely a ship operated by the Brightmoon clan,
@@ -747,7 +747,7 @@
 [u0747 | 01:00:42.680-01:00:47.299 | DM] it's the same. I forget. I have to look at the notes. It's the same day that you left.
 [u0748 | 01:00:48.140-01:00:52.110 | Wellby] It's the same day that you left. Incredible relief. Good. Okay.
 [u0749 | 01:00:55.560-01:00:59.659 | DM] So you've just traveled a long distance. Not a long time.
-[u0750 | 01:01:02.350-01:01:05.689 | DM] {{Well, that signs well up there.}}
+[u0750 | 01:01:02.350-01:01:05.689 | DM] Wella sighs. Well, up there.
 [u0751 | 01:01:06.400-01:01:08.020 | DM] You're welcome to
 [u0752 | 01:01:08.750-01:01:12.339 | DM] sail with us as long as you'd like.
 [u0753 | 01:01:12.840-01:01:16.139 | DM] I can tell you what I know of these Eastern seas.
@@ -846,15 +846,15 @@
 [u0846 | 01:08:01.640-01:08:02.729 | Unknown] You
 [u0847 | 01:08:02.820-01:08:05.819 | DM] can make your food flavor your food,
 [u0848 | 01:08:06.990-01:08:13.180 | DM] not just not just season it, but flavor it you are.
-[u0849 | 01:08:14.970-01:08:16.779 | DM] {{We want a}}
+[u0849 | 01:08:14.970-01:08:16.779 | DM] We want a
 [u0850 | 01:08:17.220-01:08:20.590 | DM] that that tastes like
 [u0851 | 01:08:22.479-01:08:24.710 | DM] fresh cream, and
 [u0852 | 01:08:25.000-01:08:26.490 | DM] and uh
-[u0853 | 01:08:26.529-01:08:27.469 | DM] {{three}},
+[u0853 | 01:08:26.529-01:08:27.469 | DM] three,
 [u0854 | 01:08:27.859-01:08:29.530 | DM] when you are
 [u0855 | 01:08:30.490-01:08:33.259 | DM] a thousand miles from any port,
 [u0856 | 01:08:34.600-01:08:36.750 | DM] a little bit of the right salt.
-[u0857 | 01:08:36.870-01:08:37.849 | Wellby] Why
+[u0857 | 01:08:36.870-01:08:37.849 | Wellby] Wow
 [u0858 | 01:08:38.290-01:08:39.179 | Wellby] cool?
 [u0859 | 01:08:40.040-01:08:41.729 | Wellby] Nothing but
 [u0860 | 01:08:44.580-01:08:47.300 | DM] the people of Quanyi,
@@ -908,8 +908,8 @@
 [u0908 | 01:12:34.050-01:12:36.239 | DM] most of the islands, no,
 [u0909 | 01:12:37.650-01:12:39.099 | DM] they move
 [u0910 | 01:12:39.790-01:12:41.380 | DM] quite slowly.
-[u0911 | 01:12:41.540-01:12:42.620 | Wellby] Hang on yourself.
-[u0912 | 01:12:47.540-01:12:49.800 | Wellby] I just subway for just a I'll be back with time.
+[u0911 | 01:12:41.540-01:12:42.620 | Wellby] Hang on just a.
+[u0912 | 01:12:47.540-01:12:49.800 | Wellby] I just step away for just a I'll be back with time.
 [u0913 | 01:12:50.220-01:12:51.050 | DM] Yeah,
 [u0914 | 01:14:08.380-01:14:09.260 | Unknown] you
 [u0915 | 01:14:09.910-01:14:10.960 | Unknown] you
@@ -1024,7 +1024,7 @@
 [u1024 | 01:29:52.150-01:29:57.259 | Wellby] I have the smallest bit of magic to let me fly just a little bit. So if there's a
 [u1025 | 01:29:57.720-01:30:00.859 | Wellby] I don't know if there is a circuit through, I
 [u1026 | 01:30:01.790-01:30:03.390 | Wellby] maybe we could see
-[u1027 | 01:30:03.410-01:30:07.170 | Wellby] from the air, but {{nothing like really fascinating.}}
+[u1027 | 01:30:03.410-01:30:07.170 | Wellby] from the air, but nothing like really fascinating.
 [u1028 | 01:30:07.950-01:30:10.940 | DM] He takes another look at you
 [u1029 | 01:30:14.820-01:30:17.420 | DM] like glances over again
 [u1030 | 01:30:18.180-01:30:20.230 | DM] like doing a double Take you.
@@ -1043,7 +1043,7 @@
 [u1043 | 01:31:09.300-01:31:11.220 | DM] traveled widely and
 [u1044 | 01:31:13.100-01:31:14.580 | Unknown] studied the
 [u1045 | 01:31:14.730-01:31:17.709 | Unknown] magic of our people and of this place.
-[u1046 | 01:31:19.230-01:31:26.989 | Wellby] I would love love that. I know hardly anything about it or its story or its place in your people's {{work}}
+[u1046 | 01:31:19.230-01:31:26.989 | Wellby] I would love love that. I know hardly anything about it or its story or its place in your people's world
 [u1047 | 01:31:27.580-01:31:28.570 | Unknown] forty
 [u1048 | 01:31:29.130-01:31:31.940 | Wellby] taken on the raids. So so the raiders
 [u1049 | 01:31:32.370-01:31:33.760 | Wellby] are capturing.
@@ -1070,10 +1070,10 @@
 [u1070 | 01:32:46.160-01:32:51.069 | Wellby] blow the raven's whistle and leap up after him and say
 [u1071 | 01:32:51.200-01:32:54.690 | Wellby] say telepathically, since my mouth is full,
 [u1072 | 01:32:55.290-01:33:01.180 | Wellby] I probably only got about three big breaths worth here, so it may need to be brief.
-[u1073 | 01:33:03.500-01:33:08.240 | DM] That is a noisy way to move, right? Like {{fast}}.
+[u1073 | 01:33:03.500-01:33:08.240 | DM] That is a noisy way to move, right? Like fast.
 [u1074 | 01:33:10.130-01:33:14.009 | DM] He soars. Well, let's go to the highest point first, then,
 [u1075 | 01:33:14.730-01:33:24.569 | DM] and he soars up on a thermal spiraling up, and you can see now, once you get to the top of the cliffs, this is probably just about in your range with one breath. Um,
-[u1076 | 01:33:24.990-01:33:44.519 | DM] there's this sort of rolling hills. And then there's this. There's a few {{short spots short}} um of these of these like red stone pinnacles, and then there's, set back a little bit from the coast, there's one that rises to maybe one thousand five hundred feet above the top of the cliffs, and there's a little cluster of
+[u1076 | 01:33:24.990-01:33:44.519 | DM] there's this sort of rolling hills. And then there's this. There's a few short spots short um of these of these like red stone pinnacles, and then there's, set back a little bit from the coast, there's one that rises to maybe one thousand five hundred feet above the top of the cliffs, and there's a little cluster of
 [u1077 | 01:33:44.530-01:33:46.340 | DM] houses, and
 [u1078 | 01:33:46.580-01:33:57.110 | DM] Ah looks like It's sort of town square, almost kind of built up around the sides of it, sort of twisting up in a spiral just carved into the side of of this rock,
 [u1079 | 01:33:57.310-01:33:58.650 | Wellby] so cool,
@@ -1115,7 +1115,7 @@
 [u1115 | 01:36:52.290-01:36:57.160 | DM] some that seem to be run on underwater shoals,
 [u1116 | 01:36:57.200-01:37:02.330 | DM] a couple that are just abandoned, and listing not sinking.
 [u1117 | 01:37:05.650-01:37:07.980 | DM] I don't rightly know
-[u1118 | 01:37:08.270-01:37:14.109 | DM] {{the nose.}} Water is deep and dark out there
+[u1118 | 01:37:08.270-01:37:14.109 | DM] Who knows. Water is deep and dark out there
 [u1119 | 01:37:15.810-01:37:17.770 | DM] no signs of life,
 [u1120 | 01:37:22.990-01:37:26.529 | Wellby] and they stayed all together. They weren't drifting, or
 [u1121 | 01:37:27.340-01:37:31.080 | Wellby] they're anchored. I mean, they're they're tethered to that place somehow, it seems
@@ -1218,7 +1218,7 @@
 [u1218 | 01:44:59.300-01:45:00.190 | DM] you know,
 [u1219 | 01:45:00.430-01:45:09.879 | DM] stuff being dropped down on this lift down to the boats um, and then currently, the halfling ship is starting to unload some of the
 [u1220 | 01:45:09.930-01:45:11.690 | DM] furs, and there's
-[u1221 | 01:45:11.990-01:45:20.279 | DM] commercial bustle down below. They're taking on um dried chilies and and {{bob}}
+[u1221 | 01:45:11.990-01:45:20.279 | DM] commercial bustle down below. They're taking on um dried chilies and and bob
 [u1222 | 01:45:20.430-01:45:23.080 | DM] pigment made from the Red Rocks?
 [u1223 | 01:45:23.510-01:45:24.650 | DM] It does.
 [u1224 | 01:45:24.760-01:45:25.710 | DM] Ah,
