@@ -21,7 +21,7 @@ u1240 · 01:48:15.010-01:48:28.330 · Kenzo
 
 **Resolution:** pending
 
-**Correction:**
+**Correction:** 
 
 **Conversation context:**
 
