@@ -65,7 +65,7 @@
 [u0065 | 00:02:25.080-00:02:25.640 | Delwath] But can't tell-
 [u0066 | 00:02:25.640-00:02:27.580 | Unknown] ... but you can't see any detail on them.
 [u0067 | 00:02:27.920-00:02:28.420 | Delwath] Okay.
-[u0068 | 00:02:28.420-00:02:31.820 | DM] Um, and you put, you can't see anything around past the mountains right up here.
+[u0068 | 00:02:28.420-00:02:31.820 | DM] Um, and you, but you can't see anything around past the mountains right up here.
 [u0069 | 00:02:31.820-00:02:32.700 | Unknown] I wonder how
 [u0070 | 00:02:34.460-00:02:35.420 | Unknown] the different, like,
 [u0071 | 00:02:36.760-00:02:42.860 | Seeker] areas of interest of each of these gods would affect, like, what's at each of these little landing spots.
@@ -177,7 +177,7 @@
 [u0177 | 00:06:51.372-00:06:54.272 | Delwath] The human gods, on the other hand, came after the humans.
 [u0178 | 00:06:54.272-00:06:54.272 | DM] Came after the humans.
 [u0179 | 00:06:54.752-00:06:54.892 | Unknown] Right. Right, right, right.
-[u0180 | 00:06:54.912-00:07:03.412 | DM] And the idea for the called in- incorporeal gods is they are only created by the power of belief.
+[u0180 | 00:06:54.912-00:07:03.412 | DM] And the idea for they're called in- incorporeal gods is they are only created by the power of belief.
 [u0181 | 00:07:03.412-00:07:06.532 | DM] So when you, when peop- so there are very likely...
 [u0182 | 00:07:06.532-00:07:12.152 | DM] In fact, like, the, Delwath's whole backstory, right, is like that, Yezali, who was one of the,
 [u0183 | 00:07:13.732-00:07:13.892 | DM] um-
@@ -412,7 +412,7 @@
 [u0412 | 00:16:39.664-00:16:41.304 | DM] Um, and it does look like there's...
 [u0413 | 00:16:43.443-00:16:47.684 | DM] You can't see any details, but there are also on that northern coast some
 [u0414 | 00:16:49.444-00:16:53.804 | DM] maybe structures, maybe ruined structures, but it's a little bit far away to
-[u0415 | 00:16:54.604-00:16:55.924 | DM] depict any details.
+[u0415 | 00:16:54.604-00:16:55.924 | DM] pick out any details.
 [u0416 | 00:16:56.644-00:16:56.784 | Delwath] Right.
 [u0417 | 00:16:56.864-00:17:00.664 | DM] Um, there, there doesn't seem to be nearly as much settlement
 [u0418 | 00:17:01.984-00:17:05.144 | DM] south of the burned region.
@@ -420,7 +420,7 @@
 [u0420 | 00:17:12.384-00:17:12.544 | Delwath] Okay.
 [u0421 | 00:17:12.544-00:17:15.204 | Kenzo] So all right. Random, random just like kind of meta game thing.
 [u0422 | 00:17:15.844-00:17:16.524 | DM] Yeah.
-[u0423 | 00:17:16.524-00:17:23.404 | Kenzo] What do you... Would it be cool or interesting if like we potentially like moved among a screen here so we can like...
+[u0423 | 00:17:16.524-00:17:23.404 | Kenzo] What do you... Would it be cool or interesting if like we potentially like moved, um, a screen here so we can like...
 [u0424 | 00:17:23.404-00:17:28.784 | Kenzo] You know, 'cause like normally we're like, when we're on our computers, we can like see like maps and things.
 [u0425 | 00:17:28.824-00:17:29.144 | Delwath] Mm.
 [u0426 | 00:17:29.164-00:17:30.124 | Kenzo] Or is that, would that be like distracting?
@@ -1004,7 +1004,7 @@
 [u1004 | 00:40:11.480-00:40:13.300 | DM] Yeah, you pick up the rules pretty quickly.
 [u1005 | 00:40:13.600-00:40:13.800 | Unknown] Um-
 [u1006 | 00:40:14.300-00:40:16.380 | Kenzo] This is awesome. This is great.
-[u1007 | 00:40:17.160-00:40:23.420 | Kenzo] Uh, Kenzo's kind of telepath's like, "Do you wanna join us or just let me, let me keep, keep talking with them?"
+[u1007 | 00:40:17.160-00:40:23.420 | Kenzo] Uh, Kenzo kind of telepaths like, "Do you wanna join us or just let me, let me keep, keep talking with them?"
 [u1008 | 00:40:23.580-00:40:24.940 | Wellby] I like keeping an eye on the perimeter, right?
 [u1009 | 00:40:25.080-00:40:25.840 | Kenzo] Uh, yeah, you keep an eye on the perimeter.
 [u1010 | 00:40:25.860-00:40:26.380 | Wellby] Keeping some watch.
@@ -1106,7 +1106,7 @@
 [u1106 | 00:44:17.752-00:44:19.412 | Wellby] Now you're following Seeker's example.
 [u1107 | 00:44:19.412-00:44:20.792 | Kenzo] [laughs] That's what I'm talking about.
 [u1108 | 00:44:20.832-00:44:25.992 | DM] So you play, you play the first hand and, um, the, the, the biggest one, um-
-[u1109 | 00:44:26.172-00:44:28.572 | Seeker] I have these two sweeper dice, but no way to get it to Kenzo
+[u1109 | 00:44:26.172-00:44:28.572 | Seeker] I have these two super dice, but no way to get it to Kenzo
 [u1110 | 00:44:28.572-00:44:29.212 | DM] ... who, who, who-
 [u1111 | 00:44:29.212-00:44:30.432 | Kenzo] It's not a fight. I'm close
 [u1112 | 00:44:30.432-00:44:34.592 | DM] ... the sort of biggest one, he's, has the sort of most greenish tint on their back-
@@ -1320,7 +1320,7 @@
 [u1320 | 00:51:36.548-00:51:37.168 | Kenzo] All right, let's do one more
 [u1321 | 00:51:38.568-00:51:41.048 | Wellby] If he wasn't there, couldn't they have all the towers?
 [u1322 | 00:51:41.648-00:51:48.808 | Kenzo] That's a great question. [laughs] Kenzo laughs
-[u1323 | 00:51:48.808-00:51:50.708 | DM] The game is... He like kicks his fist.
+[u1323 | 00:51:48.808-00:51:50.708 | DM] The game is... He like shakes his fist.
 [u1324 | 00:51:50.708-00:51:51.688 | DM] The game is done
 [u1325 | 00:51:52.348-00:51:54.128 | Kenzo] Oh, first I want to see some of yours.
 [u1326 | 00:51:54.128-00:51:54.628 | Kenzo] Give me one
@@ -1512,7 +1512,7 @@
 [u1512 | 00:57:25.192-00:57:26.612 | Delwath] He reminds me of, like, uh...
 [u1513 | 00:57:26.612-00:57:28.372 | Kenzo] You know, he reminds me of, like, kids I knew growing up, you know?
 [u1514 | 00:57:28.392-00:57:28.772 | Delwath] Just like-
-[u1515 | 00:57:28.772-00:57:33.532 | Delwath] Are, are we assuming that one of his, one of his folk is gonna turn us to the dragon?
+[u1515 | 00:57:28.772-00:57:33.532 | Delwath] Are, are we assuming that one of his, one of his folk is gonna turn us in to the dragon?
 [u1516 | 00:57:34.292-00:57:35.492 | Kenzo] And should we try to stop it?
 [u1517 | 00:57:38.192-00:57:38.272 | DM] Yes.
 [u1518 | 00:57:38.492-00:57:41.072 | Unknown] Ken- Kenzo's... Look, we, we wanna get the jump.
@@ -1776,7 +1776,7 @@
 [u1776 | 01:06:14.252-01:06:14.792 | Wellby] Yeah.
 [u1777 | 01:06:14.792-01:06:17.172 | Kenzo] Well, you two should go, uh, explore that scary town.
 [u1778 | 01:06:17.172-01:06:19.412 | Kenzo] [laughs]
-[u1779 | 01:06:19.452-01:06:21.612 | DM] Go fight the plague racetrack by yourself.
+[u1779 | 01:06:19.452-01:06:21.612 | DM] Go fight the plague wraiths by yourself.
 [u1780 | 01:06:23.692-01:06:24.912 | Kenzo] Maybe not. Maybe later.
 [u1781 | 01:06:25.092-01:06:30.212 | Delwath] I think planning a rend- rendezvous spot, I don't think we all need to be...
 [u1782 | 01:06:30.212-01:06:34.032 | Delwath] I think it would be good if we were close enough that if everything goes horribly wrong-
@@ -1901,7 +1901,7 @@
 [u1901 | 01:09:58.044-01:10:00.464 | Kenzo] By the way, this is feeling pretty full on Ewok right now, but let's go.
 [u1902 | 01:10:00.624-01:10:01.564 | Kenzo] Yeah, so [laughs]
 [u1903 | 01:10:01.584-01:10:02.844 | DM] Yeah, so, so he said, I mean, he-
-[u1904 | 01:10:02.864-01:10:03.484 | Kenzo] But it's mings, right?
+[u1904 | 01:10:02.864-01:10:03.484 | Kenzo] But with wings, right?
 [u1905 | 01:10:03.584-01:10:04.544 | DM] Yeah. The vibe you get is-
 [u1906 | 01:10:04.584-01:10:04.684 | Kenzo] Yeah
 [u1907 | 01:10:04.684-01:10:06.164 | Wellby] Ewoks do kill and eat humans.
@@ -2984,7 +2984,7 @@
 [u2984 | 01:51:55.842-01:51:59.982 | Delwath] ... fundamentally on strong positioning so that they could not get to us
 [u2985 | 01:51:59.982-01:52:01.442 | Kenzo] Or like fireball
 [u2986 | 01:52:01.442-01:52:02.182 | DM] And preparation
-[u2987 | 01:52:02.842-01:52:02.922 | Kenzo] To guide me to one of the necks with fireballs
+[u2987 | 01:52:02.842-01:52:02.922 | Kenzo] To kite them into bottlenecks with fireballs
 [u2988 | 01:52:02.922-01:52:04.302 | Wellby] I wonder if she would want the, um...
 [u2989 | 01:52:05.642-01:52:07.702 | Wellby] What's the f- do we have an efreeti bottle?
 [u2990 | 01:52:07.702-01:52:08.142 | Wellby] What's the thing?
@@ -3309,7 +3309,7 @@
 [u3309 | 02:05:12.115-02:05:13.335 | Kenzo] Yeah. Why don't I short rest real quick?
 [u3310 | 02:05:13.335-02:05:14.535 | Unknown] Let's walk for a little bit.
 [u3311 | 02:05:15.375-02:05:16.235 | Kenzo] The whole thing? But no.
-[u3312 | 02:05:16.255-02:05:16.715 | Unknown] Let's mope.
+[u3312 | 02:05:16.255-02:05:16.715 | Unknown] Let's move.
 [u3313 | 02:05:16.715-02:05:19.295 | Kenzo] Like, if I can find Dimitaur now, like I'll just know where he is.
 [u3314 | 02:05:19.735-02:05:23.055 | Wellby] If you know where any, like, sentient being in the forest is.
 [u3315 | 02:05:23.855-02:05:24.115 | Kenzo] Actually-
@@ -3405,7 +3405,7 @@
 [u3405 | 02:09:38.543-02:09:39.943 | DM] mountain at dawn.
 [u3406 | 02:09:39.943-02:09:40.763 | Unknown] Cool.
 [u3407 | 02:09:43.183-02:09:46.023 | DM] And every now and then you do hear sort of like whispers.
-[u3408 | 02:09:46.903-02:09:50.903 | DM] It almost sounds like the wind rustling to the trees sounds almost elvish.
+[u3408 | 02:09:46.903-02:09:50.903 | DM] It almost sounds like the wind rustling through the trees sounds almost elvish.
 [u3409 | 02:09:51.883-02:09:54.043 | Unknown] What, what did the elves have to do with these human gods?
 [u3410 | 02:09:55.923-02:09:59.763 | Delwath] The elves, as far as I know, the elves had nothing to do with these people.
 [u3411 | 02:10:00.023-02:10:01.703 | Kenzo] Then what the fuck are they doing all up in this?
@@ -3770,7 +3770,7 @@
 [u3770 | 02:25:21.697-02:25:21.697 | Unknown] Yeah
 [u3771 | 02:25:21.697-02:25:24.917 | Kenzo] ... if Dimitaur's being held captive, we don't want to, like, announce to his captor like, "Hey, we're the s-
 [u3772 | 02:25:24.917-02:25:29.777 | Delwath] Yeah, yeah, but it's a written, it's a written message. I mean, obviously it'll still show up with a written message, but it's not gonna give it to someone.
-[u3773 | 02:25:29.797-02:25:30.797 | Wellby] What if Dimitaur's alert?
+[u3773 | 02:25:29.797-02:25:30.797 | Wellby] What if Dimitaur's asleep?
 [u3774 | 02:25:31.017-02:25:32.837 | Seeker] It's the middle of the night, though.
 [u3775 | 02:25:32.857-02:25:34.477 | Kenzo] Does it only give the message to the recipient?
 [u3776 | 02:25:34.537-02:25:34.617 | Unknown] Yeah.
@@ -3970,7 +3970,7 @@
 [u3970 | 02:32:26.569-02:32:27.429 | Unknown] It was the 50 mile an hour wind.
 [u3971 | 02:32:27.429-02:32:29.549 | DM] Right, so you actually see the lynx waiting there.
 [u3972 | 02:32:29.869-02:32:29.889 | Unknown] Yeah.
-[u3973 | 02:32:30.009-02:32:32.129 | DM] And your scribe is just standing there
+[u3973 | 02:32:30.009-02:32:32.129 | DM] And in your scry, it's just standing there
 [u3974 | 02:32:32.129-02:32:34.649 | Unknown] With the, like message glowing in its jaw or something.
 [u3975 | 02:32:34.649-02:32:36.829 | DM] And it seems to be ignoring it completely.
 [u3976 | 02:32:36.869-02:32:36.889 | Unknown] Okay.
@@ -4360,7 +4360,7 @@
 [u4360 | 02:50:38.101-02:50:40.421 | Kenzo] um, and can be remembered.
 [u4361 | 02:50:41.881-02:50:49.681 | Kenzo] Uh, and I, I basically tell it that I want to also remember it, and I'm saying it as, like, the...
 [u4362 | 02:50:49.681-02:50:58.241 | Kenzo] Like, and I- I'm asking for it to share back to me a memory or an image that I can put into the staff.
-[u4363 | 02:51:01.321-02:51:03.981 | DM] You... Yeah, I guess what you're going for.
+[u4363 | 02:51:01.321-02:51:03.981 | DM] You... Yeah, I get what you're going for.
 [u4364 | 02:51:03.981-02:51:04.221 | DM] Um,
 [u4365 | 02:51:07.401-02:51:10.621 | DM] so you, you see, you see an image of
 [u4366 | 02:51:12.601-02:51:16.321 | DM] what must be long ago, the moon still shining, um,
@@ -4990,7 +4990,7 @@
 [u4990 | 03:18:02.357-03:18:04.577 | Delwath] But do you know Rai was holding his prison closed?
 [u4991 | 03:18:05.177-03:18:07.577 | DM] Of course. What do you think?
 [u4992 | 03:18:07.597-03:18:08.657 | DM] I'm not stupid.
-[u4993 | 03:18:10.597-03:18:11.877 | DM] What is up with this Alf?
+[u4993 | 03:18:10.597-03:18:11.877 | DM] What is up with this elf?
 [u4994 | 03:18:12.497-03:18:13.717 | Kenzo] Yeah, we deal with him.
 [u4995 | 03:18:13.717-03:18:15.337 | Kenzo] We manage. We just, it's...
 [u4996 | 03:18:15.337-03:18:16.017 | Unknown] He means well.
@@ -5474,7 +5474,7 @@
 [u5474 | 03:36:45.305-03:36:46.605 | DM] Yeah, sometimes. I mean,
 [u5475 | 03:36:47.965-03:36:49.605 | DM] gotta keep a little bit of an aura of fear.
 [u5476 | 03:36:54.945-03:36:56.185 | Unknown] But she's consistent, at least.
-[u5477 | 03:36:58.545-03:36:59.225 | DM] Patten.
+[u5477 | 03:36:58.545-03:36:59.225 | DM] Pattern.
 [u5478 | 03:37:00.145-03:37:00.945 | Kenzo] Was she, um...
 [u5479 | 03:37:03.525-03:37:05.505 | Delwath] Do you know anything about her relationship with her father?
 [u5480 | 03:37:08.405-03:37:09.045 | DM] Not really.
