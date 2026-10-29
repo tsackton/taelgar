@@ -46,3 +46,939 @@ supplementalSources:
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-032/sources/dunmar-frontier-ep32-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete
+  units: 4593
+  issues: 0
+  artifacts:
+    original:
+      path: sources/Session032.identified.vtt
+      sha256: 67abc300222a15f761a768b908f94f4827403ac270abd614de01d65e49ef5bd4
+    prepared:
+      path: cleaned/dunmar-frontier-032-source-prepared.md
+      sha256: b67d6e38a2fc90098eba8a58d1b8515c9a533de14e29fe47575bd4fd559a6771
+    cleaned:
+      path: cleaned/dunmar-frontier-032-source-cleaned.md
+      sha256: 9afdd4b6867da5de2abcde2c8816fc2b539e0c773d2a37e9f5801fbffcfc2b25
+    polishedMarkdown:
+      path: cleaned/dunmar-frontier-032-transcript.md
+      sha256: db1fb31e6220b80b5320ba1d00502c4c1324ed77400ebf863415ab5856a04636
+  speakerCorrections:
+  - uid: u0107
+    start: 0
+    end: 18
+    speaker: Kenzo
+  - uid: u0109
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u0148
+    start: 0
+    end: 32
+    speaker: Kenzo
+  - uid: u0149
+    start: 0
+    end: 20
+    speaker: Kenzo
+  - uid: u0316
+    start: 0
+    end: 51
+    speaker: Kenzo
+  - uid: u0328
+    start: 0
+    end: 9
+    speaker: Kenzo
+  - uid: u0344
+    start: 0
+    end: 9
+    speaker: Kenzo
+  - uid: u0673
+    start: 0
+    end: 28
+    speaker: Kenzo
+  - uid: u0675
+    start: 0
+    end: 5
+    speaker: Kenzo
+  - uid: u0680
+    start: 0
+    end: 13
+    speaker: Kenzo
+  - uid: u0683
+    start: 0
+    end: 27
+    speaker: Kenzo
+  - uid: u0689
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u0690
+    start: 0
+    end: 5
+    speaker: Kenzo
+  - uid: u0691
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u0694
+    start: 0
+    end: 5
+    speaker: Kenzo
+  - uid: u0702
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u0704
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u0706
+    start: 0
+    end: 32
+    speaker: Kenzo
+  - uid: u0783
+    start: 0
+    end: 24
+    speaker: Seeker
+  - uid: u0852
+    start: 0
+    end: 15
+    speaker: Seeker
+  - uid: u0854
+    start: 0
+    end: 36
+    speaker: Seeker
+  - uid: u0921
+    start: 0
+    end: 49
+    speaker: Kenzo
+  - uid: u0480
+    start: 0
+    end: 38
+    speaker: Kenzo
+  - uid: u0487
+    start: 0
+    end: 33
+    speaker: Kenzo
+  - uid: u0489
+    start: 0
+    end: 8
+    speaker: Kenzo
+  - uid: u0490
+    start: 0
+    end: 46
+    speaker: Kenzo
+  - uid: u0495
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u0497
+    start: 0
+    end: 34
+    speaker: Kenzo
+  - uid: u0499
+    start: 0
+    end: 13
+    speaker: Kenzo
+  - uid: u0501
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u0503
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u0504
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u0510
+    start: 0
+    end: 36
+    speaker: Kenzo
+  - uid: u0512
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u0516
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u0522
+    start: 0
+    end: 5
+    speaker: Kenzo
+  - uid: u0527
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u0533
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u0536
+    start: 0
+    end: 6
+    speaker: Kenzo
+  - uid: u0553
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u0554
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u0559
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u0561
+    start: 0
+    end: 23
+    speaker: Kenzo
+  - uid: u0563
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u0575
+    start: 0
+    end: 26
+    speaker: Kenzo
+  - uid: u0586
+    start: 0
+    end: 6
+    speaker: Kenzo
+  - uid: u0587
+    start: 0
+    end: 6
+    speaker: Kenzo
+  - uid: u0599
+    start: 0
+    end: 8
+    speaker: Kenzo
+  - uid: u0603
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u0604
+    start: 0
+    end: 6
+    speaker: Kenzo
+  - uid: u0606
+    start: 0
+    end: 22
+    speaker: Kenzo
+  - uid: u0619
+    start: 0
+    end: 15
+    speaker: Kenzo
+  - uid: u0646
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u0656
+    start: 0
+    end: 20
+    speaker: Kenzo
+  - uid: u0668
+    start: 0
+    end: 18
+    speaker: Kenzo
+  - uid: u1119
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u1456
+    start: 0
+    end: 24
+    speaker: Kenzo
+  - uid: u1460
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u1470
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u1471
+    start: 0
+    end: 8
+    speaker: Kenzo
+  - uid: u1485
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u1486
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u1487
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u1488
+    start: 0
+    end: 25
+    speaker: Kenzo
+  - uid: u1490
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u1491
+    start: 0
+    end: 31
+    speaker: Kenzo
+  - uid: u1557
+    start: 0
+    end: 39
+    speaker: Kenzo
+  - uid: u1558
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u1561
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u1562
+    start: 0
+    end: 20
+    speaker: Kenzo
+  - uid: u1563
+    start: 0
+    end: 11
+    speaker: Kenzo
+  - uid: u1633
+    start: 0
+    end: 8
+    speaker: Kenzo
+  - uid: u1634
+    start: 0
+    end: 28
+    speaker: Kenzo
+  - uid: u1635
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u1637
+    start: 0
+    end: 15
+    speaker: Kenzo
+  - uid: u1639
+    start: 0
+    end: 16
+    speaker: Kenzo
+  - uid: u1735
+    start: 0
+    end: 12
+    speaker: Wellby
+  - uid: u1781
+    start: 0
+    end: 28
+    speaker: DM
+  - uid: u1845
+    start: 0
+    end: 23
+    speaker: Delwath
+  - uid: u1859
+    start: 0
+    end: 15
+    speaker: Delwath
+  - uid: u1860
+    start: 0
+    end: 18
+    speaker: Delwath
+  - uid: u1862
+    start: 0
+    end: 23
+    speaker: Delwath
+  - uid: u1863
+    start: 0
+    end: 19
+    speaker: Delwath
+  - uid: u1865
+    start: 0
+    end: 17
+    speaker: Delwath
+  - uid: u1873
+    start: 0
+    end: 23
+    speaker: Kenzo
+  - uid: u1999
+    start: 0
+    end: 41
+    speaker: Kenzo
+  - uid: u2000
+    start: 0
+    end: 25
+    speaker: Kenzo
+  - uid: u2285
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u2287
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u2652
+    start: 0
+    end: 24
+    speaker: Delwath
+  - uid: u2653
+    start: 0
+    end: 26
+    speaker: Delwath
+  - uid: u2654
+    start: 0
+    end: 5
+    speaker: Delwath
+  - uid: u2655
+    start: 0
+    end: 16
+    speaker: Delwath
+  - uid: u2659
+    start: 0
+    end: 33
+    speaker: Delwath
+  - uid: u2669
+    start: 0
+    end: 24
+    speaker: Delwath
+  - uid: u2671
+    start: 0
+    end: 10
+    speaker: Delwath
+  - uid: u2675
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u2731
+    start: 0
+    end: 24
+    speaker: Delwath
+  - uid: u2975
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2977
+    start: 0
+    end: 33
+    speaker: Kenzo
+  - uid: u2978
+    start: 0
+    end: 20
+    speaker: Kenzo
+  - uid: u2979
+    start: 0
+    end: 8
+    speaker: Kenzo
+  - uid: u2982
+    start: 0
+    end: 16
+    speaker: Kenzo
+  - uid: u2983
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u2985
+    start: 0
+    end: 18
+    speaker: Kenzo
+  - uid: u2988
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u2989
+    start: 0
+    end: 24
+    speaker: Kenzo
+  - uid: u2990
+    start: 0
+    end: 11
+    speaker: Kenzo
+  - uid: u2992
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u2995
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2997
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u3000
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u3003
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3007
+    start: 0
+    end: 2
+    speaker: Kenzo
+  - uid: u3011
+    start: 0
+    end: 33
+    speaker: Kenzo
+  - uid: u3014
+    start: 0
+    end: 21
+    speaker: Kenzo
+  - uid: u3020
+    start: 0
+    end: 11
+    speaker: Kenzo
+  - uid: u3021
+    start: 0
+    end: 25
+    speaker: Kenzo
+  - uid: u3024
+    start: 0
+    end: 37
+    speaker: Kenzo
+  - uid: u3025
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u3026
+    start: 0
+    end: 2
+    speaker: Kenzo
+  - uid: u3028
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u3029
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u3030
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3033
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3035
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3036
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u3039
+    start: 0
+    end: 23
+    speaker: Kenzo
+  - uid: u3040
+    start: 0
+    end: 16
+    speaker: Kenzo
+  - uid: u2899
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2902
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2903
+    start: 0
+    end: 33
+    speaker: Kenzo
+  - uid: u2904
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2905
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u2907
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u2908
+    start: 0
+    end: 26
+    speaker: Kenzo
+  - uid: u2914
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2915
+    start: 0
+    end: 5
+    speaker: Kenzo
+  - uid: u2917
+    start: 0
+    end: 13
+    speaker: Kenzo
+  - uid: u2918
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u2925
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u2927
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u2928
+    start: 0
+    end: 11
+    speaker: Kenzo
+  - uid: u2931
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u2935
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u2936
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u2938
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u2940
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u2947
+    start: 0
+    end: 21
+    speaker: Kenzo
+  - uid: u2948
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u2949
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u2951
+    start: 0
+    end: 23
+    speaker: Kenzo
+  - uid: u2953
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2954
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u2955
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u2956
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u2957
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u2959
+    start: 0
+    end: 8
+    speaker: Kenzo
+  - uid: u2962
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u2964
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u2965
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u2966
+    start: 0
+    end: 32
+    speaker: Kenzo
+  - uid: u2971
+    start: 0
+    end: 2
+    speaker: Kenzo
+  - uid: u3258
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u3379
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3380
+    start: 0
+    end: 26
+    speaker: Kenzo
+  - uid: u3381
+    start: 0
+    end: 22
+    speaker: Kenzo
+  - uid: u3382
+    start: 0
+    end: 25
+    speaker: Kenzo
+  - uid: u3408
+    start: 0
+    end: 41
+    speaker: Kenzo
+  - uid: u3413
+    start: 0
+    end: 21
+    speaker: Kenzo
+  - uid: u3579
+    start: 0
+    end: 24
+    speaker: Seeker
+  - uid: u3580
+    start: 0
+    end: 9
+    speaker: Seeker
+  - uid: u3638
+    start: 0
+    end: 34
+    speaker: Kenzo
+  - uid: u3639
+    start: 0
+    end: 22
+    speaker: Kenzo
+  - uid: u3855
+    start: 0
+    end: 12
+    speaker: Delwath
+  - uid: u3856
+    start: 0
+    end: 18
+    speaker: Delwath
+  - uid: u3859
+    start: 0
+    end: 13
+    speaker: Delwath
+  - uid: u3860
+    start: 0
+    end: 9
+    speaker: Delwath
+  - uid: u3862
+    start: 0
+    end: 8
+    speaker: Delwath
+  - uid: u3863
+    start: 0
+    end: 16
+    speaker: Delwath
+  - uid: u3864
+    start: 0
+    end: 10
+    speaker: Delwath
+  - uid: u3865
+    start: 0
+    end: 11
+    speaker: Delwath
+  - uid: u3866
+    start: 0
+    end: 5
+    speaker: Delwath
+  - uid: u3869
+    start: 0
+    end: 26
+    speaker: Delwath
+  - uid: u3870
+    start: 0
+    end: 9
+    speaker: Delwath
+  - uid: u3872
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u3873
+    start: 0
+    end: 5
+    speaker: Delwath
+  - uid: u3874
+    start: 0
+    end: 13
+    speaker: Delwath
+  - uid: u3875
+    start: 0
+    end: 19
+    speaker: Delwath
+  - uid: u3876
+    start: 0
+    end: 4
+    speaker: Delwath
+  - uid: u3877
+    start: 0
+    end: 9
+    speaker: Delwath
+  - uid: u3878
+    start: 0
+    end: 27
+    speaker: Delwath
+  - uid: u3881
+    start: 0
+    end: 13
+    speaker: Delwath
+  - uid: u3883
+    start: 0
+    end: 11
+    speaker: Delwath
+  - uid: u3936
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3937
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u3938
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3940
+    start: 0
+    end: 38
+    speaker: Kenzo
+  - uid: u3955
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3958
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u3960
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u3961
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u3963
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u3964
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u3965
+    start: 0
+    end: 35
+    speaker: Kenzo
+  - uid: u3993
+    start: 0
+    end: 24
+    speaker: Kenzo
+  - uid: u3994
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u3996
+    start: 0
+    end: 15
+    speaker: Kenzo
+  - uid: u3997
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u4012
+    start: 0
+    end: 31
+    speaker: Kenzo
+  - uid: u4023
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u4024
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u4026
+    start: 0
+    end: 35
+    speaker: Kenzo
+  - uid: u4044
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u4191
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u4193
+    start: 0
+    end: 23
+    speaker: Kenzo
+  - uid: u4391
+    start: 0
+    end: 9
+    speaker: Kenzo
+  - uid: u4393
+    start: 0
+    end: 13
+    speaker: Kenzo
+  - uid: u4395
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u4424
+    start: 0
+    end: 21
+    speaker: Kenzo
+  - uid: u4426
+    start: 0
+    end: 22
+    speaker: Kenzo
+  - uid: u4430
+    start: 0
+    end: 24
+    speaker: Wellby
+  - uid: u4440
+    start: 0
+    end: 20
+    speaker: Wellby
+  - uid: u4495
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u4496
+    start: 0
+    end: 28
+    speaker: Kenzo
+  - uid: u4561
+    start: 0
+    end: 9
+    speaker: Kenzo
+  - uid: u4564
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u4568
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u4571
+    start: 0
+    end: 5
+    speaker: Kenzo
