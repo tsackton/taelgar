@@ -44,3 +44,27 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/sources/feywild-ep06-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete
+  units: 1128
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20260728-005319_Recording.transcript.vtt
+      sha256: 6d66a9c39f920af7cf13a8ef77c1d2fb0b8796df7e3e3e2153697fd33efc92e6
+    prepared:
+      path: cleaned/lost-in-the-feywild-006-source-prepared.md
+      sha256: 812a0ac4d7f6badbc00996f457948ab6b019d8f893149434767f874d3f0d9f80
+    cleaned:
+      path: cleaned/lost-in-the-feywild-006-source-cleaned.md
+      sha256: 45d6321e9a1fcd2cb5d58183c30ebadec084b827a798358a22eea6b960f32eee
+    polishedMarkdown:
+      path: cleaned/lost-in-the-feywild-006-transcript.md
+      sha256: 6e6f446b422becd948b3402a0ff3caf74ea0044909b7dd24e38213984b2b389d
+  speakerCorrections:
+  - uid: u0433
+    start: 0
+    end: 28
+    speaker: Kaito Min
