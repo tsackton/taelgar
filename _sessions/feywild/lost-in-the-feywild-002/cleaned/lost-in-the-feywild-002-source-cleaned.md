@@ -23,7 +23,7 @@
 [u0023 | 00:01:57.100-00:01:59.350 | DM] House.
 [u0024 | 00:01:59.350-00:02:00.719 | DM] in the wilderness.
 [u0025 | 00:02:01.180-00:02:05.129 | DM] In the far north of Sembara, or northwest of Tollen.
-[u0026 | 00:02:05.240-00:02:08.990 | DM] No place that was long, long since swallowed by woods.
+[u0026 | 00:02:05.240-00:02:08.990 | DM] In a place that was long, long since swallowed by woods.
 [u0027 | 00:02:09.570-00:02:13.030 | DM] You were hired by Alden, a small, stout, pale human.
 [u0028 | 00:02:13.080-00:02:18.670 | DM] With a curiosity about you all, and a profound fear of fire, apparently.
 [u0029 | 00:02:19.540-00:02:20.850 | DM] to go there.
@@ -96,7 +96,7 @@
 [u0096 | 00:08:41.539-00:08:42.199 | DM] So…
 [u0097 | 00:08:42.519-00:08:48.479 | DM] Did we… sorry, I… I was trying to remember, just sorry, before we answer that in-game, did… did we…
 [u0098 | 00:08:49.309-00:08:53.729 | Edric] I couldn't remember if we had gotten any information at all about what the treaty is.
-[u0099 | 00:08:55.340-00:08:58.680 | Edric] vout or between. Was it, like… Total silence.
+[u0099 | 00:08:55.340-00:08:58.680 | Edric] about or between. Was it, like… Total silence.
 [u0100 | 00:08:59.360-00:09:03.620 | DM] No, but I don't think he knew either. Like, he…
 [u0101 | 00:09:03.620-00:09:04.340 | Tarek] Totally.
 [u0102 | 00:09:04.340-00:09:10.879 | DM] He gave the impression that he went through and, like, immediately fucked up any sort of conversation in the first place.
@@ -114,7 +114,7 @@
 [u0114 | 00:10:20.980-00:10:36.370 | Kaito Min] Well, I mean, I don't know, like, literally nothing that he's… I mean, what are the things that we actually know are real? Like, does anybody believe… Did we… did we metagame? Does anybody have, like, you know, you're telling the truth things? I kind of do, right? Like, I remember I did a thing, and I asked… I was like, then he…
 [u0115 | 00:10:36.370-00:10:37.580 | Edric] Detect Thoughts.
 [u0116 | 00:10:38.240-00:10:38.850 | Tarek] Boom.
-[u0117 | 00:10:38.850-00:10:45.390 | Kaito Min] And he was… he was… he was, like, shorts, there was nothing unusual about him.
+[u0117 | 00:10:38.850-00:10:45.390 | Kaito Min] And he was… he was… he was, like, Schwartz, there was nothing unusual about him.
 [u0118 | 00:10:46.150-00:10:46.960 | Kaito Min] Right?
 [u0119 | 00:10:46.960-00:10:49.930 | DM] You detected thoughts on Alden.
 [u0120 | 00:10:50.170-00:10:51.060 | DM] Yeah.
@@ -189,12 +189,12 @@
 [u0189 | 00:16:34.050-00:16:35.970 | Kaito Min] Yeah.
 [u0190 | 00:16:36.920-00:16:38.469 | Tarek] It's gonna be alright. Let's go.
 [u0191 | 00:16:39.500-00:16:40.150 | Kaito Min] Yeah, let's go.
-[u0192 | 00:16:41.150-00:16:41.880 | Kaito Min] What else can we do with Go?
+[u0192 | 00:16:41.150-00:16:41.880 | Kaito Min] What else can we do but go?
 [u0193 | 00:16:46.310-00:16:57.460 | DM] The stairs and the passage that you take up and out look more natural than man-made, or look maybe like someone has sort of hewn the stairs into this,
 [u0194 | 00:16:57.540-00:16:59.729 | DM] This substrate, this sort of…
 [u0195 | 00:17:00.130-00:17:03.320 | DM] Network of bone-like, roots.
 [u0196 | 00:17:04.910-00:17:06.200 | DM] You go up for some time at.
-[u0197 | 00:17:07.030-00:17:24.040 | DM] But it's definitely not as deep as it was on the other end, and you can see light above you, this pale blue twilight, and emerging from this passageway, you find yourself standing. Tim, we put the next, background in for us.
+[u0197 | 00:17:07.030-00:17:24.040 | DM] But it's definitely not as deep as it was on the other end, and you can see light above you, this pale blue twilight, and emerging from this passageway, you find yourself standing. Tim, will you put the next, background in for us.
 [u0198 | 00:17:30.540-00:17:33.830 | DM] You find yourself standing just after sunset.
 [u0199 | 00:17:34.470-00:17:36.310 | DM] On a wide plain.
 [u0200 | 00:17:36.940-00:17:46.410 | DM] In front of what seems to be a ruined house made almost entirely of these roots, like the walls themselves.
@@ -209,7 +209,7 @@
 [u0209 | 00:18:40.410-00:18:46.809 | DM] I will turn to everybody and say, It was… Morning when we left, right?
 [u0210 | 00:18:50.090-00:18:50.850 | Edric] Probably morning.
 [u0211 | 00:18:55.900-00:18:56.670 | Txarro] Yeah, we…
-[u0212 | 00:18:56.670-00:18:57.599 | Edric] It was, what's an edit.
+[u0212 | 00:18:56.670-00:18:57.599 | Edric] It was, wasn't it?
 [u0213 | 00:18:58.890-00:19:02.370 | DM] Ugh. Metagame.
 [u0214 | 00:19:02.640-00:19:10.910 | DM] like, Kaito, he's an elf, he's been around for a bit, like, would he, would he have a, like, idea that this could be the Feywild?
 [u0215 | 00:19:11.930-00:19:12.860 | DM] Or… he would, right?
@@ -219,7 +219,7 @@
 [u0219 | 00:19:30.240-00:19:31.090 | DM] 6.
 [u0220 | 00:19:32.930-00:19:33.959 | Edric] I don't know, Arcana.
 [u0221 | 00:19:35.380-00:19:38.060 | DM] I rolled a 22. I rolled a 22.
-[u0222 | 00:19:42.560-00:19:45.379 | DM] What the two of you know with those rules?
+[u0222 | 00:19:42.560-00:19:45.379 | DM] What the two of you know with those rolls?
 [u0223 | 00:19:46.030-00:19:57.140 | DM] is this sort of a confirmation that… the… Fairy stories and fey stories.
 [u0224 | 00:19:57.760-00:20:02.600 | DM] that… You've heard of are surely real.
 [u0225 | 00:20:03.260-00:20:07.299 | DM] And this is, like, nothing… So much as one of those.
@@ -245,7 +245,7 @@
 [u0245 | 00:22:04.710-00:22:05.680 | DM] What do they need?
 [u0246 | 00:22:13.180-00:22:17.940 | Kaito Min] Kaito, kind of pulls his hair, like, top knot out.
 [u0247 | 00:22:17.940-00:22:23.740 | DM] Kaito's, like, hair is all out. Very, very long, you know, kind of silver, goldy, goldish hair.
-[u0248 | 00:22:24.360-00:22:26.970 | DM] These are Win Schwartz Yeah.
+[u0248 | 00:22:24.360-00:22:26.970 | DM] Is there wind, Schwartz? Yeah.
 [u0249 | 00:22:26.970-00:22:28.160 | DM] There is a light wind blowing in.
 [u0250 | 00:22:29.450-00:22:33.949 | DM] hair's kind of blowing all crazy in the wind, and he, like, opens up his, his,
 [u0251 | 00:22:34.180-00:22:37.330 | DM] robe. He's always got this, like, you know, really…
@@ -255,7 +255,7 @@
 [u0255 | 00:22:41.900-00:22:42.630 | Kaito Min] patterning.
 [u0256 | 00:22:43.350-00:22:44.009 | DM] Just.
 [u0257 | 00:22:44.010-00:22:45.200 | Kaito Min] Kind of lets it all fly out.
-[u0258 | 00:22:45.200-00:22:46.400 | DM] Like, put his, but his arm.
+[u0258 | 00:22:45.200-00:22:46.400 | DM] Like, put his, put his arm.
 [u0259 | 00:22:46.600-00:22:50.460 | DM] Like, kind of pulls off his, like, pack and, like, his instruments and stuff, they all, like, tumble together.
 [u0260 | 00:22:50.460-00:22:50.890 | Kaito Min] ground.
 [u0261 | 00:22:50.890-00:22:52.310 | DM] It just, like, is like this.
@@ -275,16 +275,16 @@
 [u0275 | 00:24:21.700-00:24:24.300 | DM] More tightly than normal, and…
 [u0276 | 00:24:24.480-00:24:36.549 | DM] his… he has, like, his breastplate, like, he… he sort of has one hand, like, on the holy symbol of the Night Queen on his breastplate, like, kind of holding it for comfort, another hand kind of…
 [u0277 | 00:24:36.740-00:24:44.349 | DM] grasped around his weapon. It's probably still, like, slung over his back, it's probably… well, no, it's probably… he probably drew it, right? Like, he's in a weird spot. He's probably drawn his maul.
-[u0278 | 00:24:46.350-00:24:54.499 | DM] you know, his hair is kind of tasked a mess, right? Like, he always wakes up with terrible bent head, basically. Like, he's never, like, well-groomed.
+[u0278 | 00:24:46.350-00:24:54.499 | DM] you know, his hair is kind of just a mess, right? Like, he always wakes up with terrible bed head, basically. Like, he's never, like, well-groomed.
 [u0279 | 00:24:54.820-00:24:59.709 | DM] And he's kind of looking around, sort of muttering a little bit, like…
 [u0280 | 00:24:59.710-00:25:06.180 | Edric] you know, the Night Queen will watch over these strange places, will watch over me in these strange places. A little bit of, like, the.
 [u0281 | 00:25:08.040-00:25:13.330 | DM] The, sort of, in Rogue One, the… the guy who's always, like, the
-[u0282 | 00:25:13.440-00:25:16.289 | DM] be one with the forced forces with you. Like, he's sort of…
-[u0283 | 00:25:16.290-00:25:20.749 | Edric] Buttering, like, a little bit of that, like.
+[u0282 | 00:25:13.440-00:25:16.289 | DM] be one with the Force, Force is with you. Like, he's sort of…
+[u0283 | 00:25:16.290-00:25:20.749 | Edric] Muttering, like, a little bit of that, like.
 [u0284 | 00:25:20.750-00:25:25.630 | DM] you know, the Night Queen… the Night Queen watches our sleep, this is… this is…
 [u0285 | 00:25:26.760-00:25:30.330 | Edric] We are not on the other side, this is not the land of the dead.
 [u0286 | 00:25:30.370-00:25:31.670 | DM] will be safe.
-[u0287 | 00:25:32.930-00:25:36.490 | DM] it'll all turn out. Kind of in a… wipe it in a mantra kind of vibe.
+[u0287 | 00:25:32.930-00:25:36.490 | DM] it'll all turn out. Kind of in a… like in a mantra kind of vibe.
 [u0288 | 00:25:37.520-00:25:40.020 | Kaito Min] Is he saying it with absolute confidence, or is there any.
 [u0289 | 00:25:40.020-00:25:43.830 | Edric] Oh, yeah, yeah, yes. Well, well…
 [u0290 | 00:25:43.830-00:25:45.050 | Kaito Min] 96…
@@ -339,7 +339,7 @@
 [u0339 | 00:30:02.250-00:30:03.930 | DM] Yes, so it would seem.
 [u0340 | 00:30:06.820-00:30:07.230 | Kaito Min] I mean…
 [u0341 | 00:30:07.230-00:30:10.479 | DM] Which is counterintuitive, because there appear to be dwellings in every direction.
-[u0342 | 00:30:12.750-00:30:19.559 | Edric] So behind us, like, behind the little house there appears to be dwellings to? Or not the house, the facade that we're seeing? Yes. That we came out of?
+[u0342 | 00:30:12.750-00:30:19.559 | Edric] So behind us, like, behind the little house there appears to be dwellings too? Or not the house, the facade that we're seeing? Yes. That we came out of?
 [u0343 | 00:30:20.260-00:30:23.250 | DM] Yeah, and again, I mean, in the far distance.
 [u0344 | 00:30:29.960-00:30:31.150 | Tarek] Well, this is weird.
 [u0345 | 00:30:33.070-00:30:33.870 | Tarek] Are there any…
@@ -387,7 +387,7 @@
 [u0387 | 00:32:42.060-00:32:43.219 | DM] If there even is a treaty.
 [u0388 | 00:32:43.740-00:32:44.140 | DM] Remind me.
 [u0389 | 00:32:44.140-00:32:44.490 | Edric] Yeah.
-[u0390 | 00:32:44.490-00:32:45.950 | DM] He's got the good passive perception.
+[u0390 | 00:32:44.490-00:32:45.950 | DM] Who's got the good passive perception.
 [u0391 | 00:32:47.340-00:32:47.970 | Txarro] B.
 [u0392 | 00:32:49.560-00:32:50.070 | Tarek] Fifth.
 [u0393 | 00:32:50.070-00:32:50.840 | Txarro] Dean.
@@ -434,7 +434,7 @@
 [u0434 | 00:35:08.400-00:35:11.959 | DM] Maybe it's impossible to know, because who knows whether.
 [u0435 | 00:35:12.080-00:35:17.730 | Txarro] things proceed at the same rate in the Feywild as they do elsewhere, but… .
 [u0436 | 00:35:18.110-00:35:19.469 | DM] Give me an investigation check.
-[u0437 | 00:35:21.230-00:35:22.480 | Txarro] Had that'd be medicine?
+[u0437 | 00:35:21.230-00:35:22.480 | Txarro] Could that be medicine?
 [u0438 | 00:35:24.150-00:35:24.690 | DM] Sure, yeah.
 [u0439 | 00:35:25.140-00:35:25.660 | DM] Ugh.
 [u0440 | 00:35:25.660-00:35:26.469 | DM] To, to look at.
@@ -518,11 +518,11 @@
 [u0518 | 00:40:48.650-00:40:50.480 | DM] There's rolling hills.
 [u0519 | 00:40:50.660-00:40:51.840 | DM] Are we…
 [u0520 | 00:40:51.840-00:40:54.770 | Txarro] At the bottom of a valley, on top of a valley.
-[u0521 | 00:40:54.770-00:40:58.409 | DM] You're at the top of Arise, so you've just come over the top of Arise Center.
+[u0521 | 00:40:54.770-00:40:58.409 | DM] You're at the top of a rise, so you've just come over the top of a rise Center.
 [u0522 | 00:40:58.410-00:40:58.870 | Txarro] Okay.
 [u0523 | 00:40:59.240-00:41:00.329 | DM] Yep, coming back.
 [u0524 | 00:41:00.330-00:41:00.680 | Txarro] I just…
-[u0525 | 00:41:00.680-00:41:02.999 | DM] There's a bowl to the place we're going.
+[u0525 | 00:41:00.680-00:41:02.999 | DM] Visible to the place we're going?
 [u0526 | 00:41:05.440-00:41:10.759 | DM] Yeah, but I mean, at this time of night, at this distance.
 [u0527 | 00:41:11.150-00:41:14.669 | DM] It's diffi- unless you had incredible or magical vision.
 [u0528 | 00:41:14.990-00:41:22.080 | DM] It's hard to think that you would… or unless your light spells are still active, it's hard to think that you'd be visible.
@@ -559,7 +559,7 @@
 [u0559 | 00:43:21.510-00:43:22.329 | DM] Keep it.
 [u0560 | 00:43:23.960-00:43:27.660 | Kaito Min] Was it… wait, is there an insignia on it? Like you said, it's just really beautifully crafted, anything.
 [u0561 | 00:43:27.760-00:43:28.570 | DM] Yeah.
-[u0562 | 00:43:29.130-00:43:29.809 | Kaito Min] But quilt patterns.
+[u0562 | 00:43:29.130-00:43:29.809 | Kaito Min] The quill patterns.
 [u0563 | 00:43:31.920-00:43:35.849 | DM] Yeah, I mean, it's… it is not a bird that you recognize.
 [u0564 | 00:43:38.010-00:43:40.559 | Kaito Min] Kaito takes the, the, the,
 [u0565 | 00:43:41.260-00:43:45.109 | DM] The, arrow and brings it over to, Txarro.
@@ -570,7 +570,7 @@
 [u0570 | 00:43:57.350-00:43:59.270 | DM] What it reminds me of is…
 [u0571 | 00:43:59.270-00:44:06.470 | Txarro] Can I make a guess just based on form follows… function follows form about… I mean, is this like the flight feather of a…
 [u0572 | 00:44:06.580-00:44:07.190 | DM] Pardon.
-[u0573 | 00:44:07.190-00:44:08.580 | Txarro] prayer.
+[u0573 | 00:44:07.190-00:44:08.580 | Txarro] prey?
 [u0574 | 00:44:08.740-00:44:12.439 | DM] Yeah, I mean, it sort of reminds you, sometimes,
 [u0575 | 00:44:12.740-00:44:21.199 | DM] You know, sometimes in the market, you'll see, like, chicken feathers dyed in elaborate patterns, or painted with elaborate patterns.
 [u0576 | 00:44:21.200-00:44:23.310 | DM] in the…
@@ -581,7 +581,7 @@
 [u0581 | 00:44:38.890-00:44:40.059 | DM] Something like that.
 [u0582 | 00:44:45.150-00:44:49.129 | Kaito Min] I don't like any of this shit, guys.
 [u0583 | 00:44:49.130-00:44:49.910 | Edric] Nope.
-[u0584 | 00:44:51.740-00:44:59.790 | Ayveen] So, quick question about mechanics. A ritual cast of something, does that take… so it's comprehensively.
+[u0584 | 00:44:51.740-00:44:59.790 | Ayveen] So, quick question about mechanics. A ritual cast of something, does that take… so it's Comprehend Languages.
 [u0585 | 00:44:59.790-00:45:00.890 | Txarro] How many minutes.
 [u0586 | 00:45:08.110-00:45:09.220 | DM] And you're probably…
 [u0587 | 00:45:09.220-00:45:10.879 | Txarro] Are there any birds around?
@@ -599,7 +599,7 @@
 [u0599 | 00:46:00.650-00:46:04.760 | Ayveen] If we'll fully understand… Everything that is…
 [u0600 | 00:46:05.340-00:46:07.070 | Ayveen] What's going on at this house?
 [u0601 | 00:46:08.310-00:46:11.089 | DM] It's… I mean, it's kinda cool, except for the head bashing part.
-[u0602 | 00:46:11.220-00:46:13.880 | Tarek] We should avoid that, and the arrows do, I guess.
+[u0602 | 00:46:11.220-00:46:13.880 | Tarek] We should avoid that, and the arrows too, I guess.
 [u0603 | 00:46:14.080-00:46:15.840 | Txarro] How far away are we from the house?
 [u0604 | 00:46:18.230-00:46:22.690 | DM] 3 miles… I don't know, maybe an hour's walk? Maybe less?
 [u0605 | 00:46:24.140-00:46:25.029 | Tarek] Yeah, let's keep going.
@@ -611,7 +611,7 @@
 [u0611 | 00:46:36.240-00:46:45.179 | Ayveen] language. So that… If there's anything said that's not intended for our ears in a language that isn't ours.
 [u0612 | 00:46:48.130-00:46:48.780 | Edric] Yep.
 [u0613 | 00:46:51.120-00:46:52.640 | Txarro] Hey, let's keep walking.
-[u0614 | 00:46:53.620-00:46:55.819 | Kaito Min] Joe's, like, in the back, just like…
+[u0614 | 00:46:53.620-00:46:55.819 | Kaito Min] Kaito's, like, in the back, just like…
 [u0615 | 00:46:57.090-00:47:00.879 | Kaito Min] Giving himself, like, a long pep talk. It's just like.
 [u0616 | 00:47:01.700-00:47:07.930 | DM] Another 10 minutes down the road, and you notice the smell of something burnt?
 [u0617 | 00:47:08.240-00:47:11.699 | DM] And looking off, a little ways off the path.
@@ -652,7 +652,7 @@
 [u0652 | 00:49:31.910-00:49:35.660 | Ayveen] Lord Hulda didn't mention a path strewn with dead bodies.
 [u0653 | 00:49:35.880-00:49:43.560 | Kaito Min] Well, set a pass. He closed the door behind on us when he said that he was gonna keep it open, and…
 [u0654 | 00:49:43.560-00:49:46.640 | Edric] Yeah… I don't really trust this guy.
-[u0655 | 00:49:47.410-00:49:48.409 | Edric] Yeah, I couldn't think you…
+[u0655 | 00:49:47.410-00:49:48.409 | Edric] Yeah, the kind of thing you…
 [u0656 | 00:49:48.410-00:49:50.510 | DM] warn people about, right? Like…
 [u0657 | 00:49:50.760-00:49:52.550 | Edric] Wasn't he here just recently?
 [u0658 | 00:49:54.150-00:49:55.130 | Ayveen] You don't know.
@@ -689,7 +689,7 @@
 [u0689 | 00:51:59.410-00:51:59.750 | Tarek] What do you mean.
 [u0690 | 00:51:59.750-00:52:02.280 | Kaito Min] the Night Queen right now. Like, I'm… let's do it.
 [u0691 | 00:52:06.390-00:52:07.119 | Kaito Min] been gonna help us.
-[u0692 | 00:52:12.480-00:52:13.590 | Edric] show.
+[u0692 | 00:52:12.480-00:52:13.590 | Edric] Sure.
 [u0693 | 00:52:15.860-00:52:16.840 | Kaito Min] What are we doing here, Edric?
 [u0694 | 00:52:17.580-00:52:18.740 | Edric] What are we doing here?
 [u0695 | 00:52:21.760-00:52:23.650 | Edric] We're… we're gonna find the way out.
@@ -756,10 +756,10 @@
 [u0756 | 00:57:11.420-00:57:17.610 | Kaito Min] I mean, you guys all think, oh, I mean… Kaito gives Tarek a look.
 [u0757 | 00:57:18.870-00:57:23.360 | Tarek] A little weal, a little woe. What's life without the two, you know?
 [u0758 | 00:57:23.660-00:57:25.940 | Kaito Min] Well, more just, I mean, you could do your thing.
-[u0759 | 00:57:28.080-00:57:28.810 | Tarek] Missing.
+[u0759 | 00:57:28.080-00:57:28.810 | Tarek] My thing?
 [u0760 | 00:57:30.540-00:57:32.150 | Kaito Min] Yeah, your thing.
 [u0761 | 00:57:36.520-00:57:42.440 | Kaito Min] Yeah, you're like, I'm a fucking thief and can sneak around and fucking do sneaky thief shit.
-[u0762 | 00:57:42.440-00:57:44.890 | Tarek] Oh, that sting!
+[u0762 | 00:57:42.440-00:57:44.890 | Tarek] Oh, that thing!
 [u0763 | 00:57:44.890-00:57:48.790 | Kaito Min] Yeah, the thing that you are, like, exceptionally skilled at and known for? That thing?
 [u0764 | 00:57:49.540-00:57:53.689 | Tarek] You know, everything I learned about the thing, I learned from you.
 [u0765 | 00:57:53.920-00:57:58.730 | Kaito Min] My true, wise mentor. Yeah, you did not at all. I don't… I can't do any of the things that you can do.
@@ -772,7 +772,7 @@
 [u0772 | 00:58:08.830-00:58:17.110 | Kaito Min] Well, I think my thing is kind of a thing that we should not be doing right now. My thing could be later useful, but your thing feels like it could be a thing.
 [u0773 | 00:58:17.720-00:58:18.920 | Kaito Min] If we want to do the thing.
 [u0774 | 00:58:20.100-00:58:21.380 | Tarek] Yes, you're right.
-[u0775 | 00:58:24.890-00:58:30.690 | Kaito Min] metagame… none of us had… we're all third level, like, we don't have, like, clairvoyants or, like, any, like, useful shit.
+[u0775 | 00:58:24.890-00:58:30.690 | Kaito Min] metagame… none of us had… we're all third level, like, we don't have, like, clairvoyance or, like, any, like, useful shit.
 [u0776 | 00:58:30.690-00:58:32.520 | DM] We have no fancy spells.
 [u0777 | 00:58:32.520-00:58:34.130 | Txarro] I could summon a familiar.
 [u0778 | 00:58:35.290-00:58:36.120 | Ayveen] I could cast into…
@@ -787,7 +787,7 @@
 [u0787 | 00:58:51.140-00:58:52.579 | DM] Somebody to scout ahead, you know?
 [u0788 | 00:58:52.580-00:58:53.470 | Kaito Min] But…
 [u0789 | 00:58:53.470-00:58:54.250 | DM] You…
-[u0790 | 00:58:54.250-00:58:56.010 | Txarro] You have disguised self.
+[u0790 | 00:58:54.250-00:58:56.010 | Txarro] You have Disguise Self.
 [u0791 | 00:58:57.150-00:58:57.820 | DM] Hey, Al.
 [u0792 | 00:58:58.710-00:58:59.109 | Tarek] Oh, yeah.
 [u0793 | 00:58:59.110-00:59:02.490 | Kaito Min] I do, but, I mean, that still involves interacting with people.
@@ -799,12 +799,12 @@
 [u0799 | 00:59:15.560-00:59:15.960 | Txarro] Yeah.
 [u0800 | 00:59:15.980-00:59:18.589 | DM] have, Tarek go sneak around and check it out.
 [u0801 | 00:59:18.970-00:59:19.980 | DM] Undetected.
-[u0802 | 00:59:20.520-00:59:24.790 | Kaito Min] I moved on this before. We sent Tarek, like, maybe this is a thing, you know,
+[u0802 | 00:59:20.520-00:59:24.790 | Kaito Min] We’ve done this before. We sent Tarek, like, maybe this is a thing, you know,
 [u0803 | 00:59:24.950-00:59:26.090 | Kaito Min] Okay, what's your character's name again?
 [u0804 | 00:59:26.790-00:59:27.480 | Ayveen] Ayveen?
 [u0805 | 00:59:28.220-00:59:28.550 | Kaito Min] What is it?
 [u0806 | 00:59:29.250-00:59:30.219 | Ayveen] Ayveen.
-[u0807 | 00:59:31.170-00:59:38.420 | Kaito Min] Ayveen casts the invisibility on Tarek, Tarek goes, figure sends some shit out, tells us, alright, comes back, like, 45 minutes later, and is like, hey.
+[u0807 | 00:59:31.170-00:59:38.420 | Kaito Min] Ayveen casts the invisibility on Tarek, Tarek goes, figures some shit out, tells us, alright, comes back, like, 45 minutes later, and is like, hey.
 [u0808 | 00:59:38.750-00:59:39.520 | Kaito Min] Don't go here.
 [u0809 | 00:59:39.520-00:59:40.140 | Tarek] He's like…
 [u0810 | 00:59:40.150-00:59:40.920 | DM] You know?
@@ -822,7 +822,7 @@
 [u0822 | 01:00:05.130-01:00:06.730 | Ayveen] Could see invisibility.
 [u0823 | 01:00:08.350-01:00:09.200 | Tarek] Mmm.
 [u0824 | 01:00:09.800-01:00:10.980 | DM] for them.
-[u0825 | 01:00:11.150-01:00:12.579 | DM] Sports wouldn't make it, make it that.
+[u0825 | 01:00:11.150-01:00:12.579 | DM] Schwartz wouldn't make it, make it that.
 [u0826 | 01:00:14.070-01:00:14.880 | DM] with you.
 [u0827 | 01:00:14.880-01:00:17.370 | Tarek] Well, let's… let's just give it a try. Let's get a little closer.
 [u0828 | 01:00:17.890-01:00:19.179 | Kaito Min] Yeah, dude, Tarek…
@@ -833,19 +833,19 @@
 [u0833 | 01:00:29.890-01:00:34.399 | DM] Exactly, like a wall on one side of the road, and actually cuts off your…
 [u0834 | 01:00:34.400-01:00:37.060 | DM] view of the manor beyond, so you've…
 [u0835 | 01:00:37.540-01:00:44.010 | DM] You've a little bit lost track of how close you are, although you hear the sound of the party getting louder as you get closer.
-[u0836 | 01:00:48.390-01:00:54.619 | Edric] So we're going… the manor's… Down the road, but the hedgerow's, like, on her left or right.
+[u0836 | 01:00:48.390-01:00:54.619 | Edric] So we're going… the manor's… Down the road, but the hedgerow's, like, on our left or right.
 [u0837 | 01:00:55.920-01:01:02.280 | DM] Yeah, so as you're walking, the entry to the manor is down the road ahead on the right, and I…
 [u0838 | 01:01:02.480-01:01:14.169 | DM] Maybe you're close enough by this point that as you come over some rise, you can see a lantern that you assume is a gate. But the hedgerow goes parallel to the road, sort of boxing off the grounds entirely behind it.
 [u0839 | 01:01:15.500-01:01:19.599 | Ayveen] Only on the right, or, like, we could be wandering off into the fields on the left?
 [u0840 | 01:01:20.010-01:01:22.149 | DM] Only on the right, and the fields are open on the left.
 [u0841 | 01:01:28.920-01:01:31.139 | Edric] And it's made of normal plants?
-[u0842 | 01:01:33.750-01:01:37.819 | DM] Yeah, I mean, they're… right, exactly, they're… they're plenty plants, yep.
+[u0842 | 01:01:33.750-01:01:37.819 | DM] Yeah, I mean, they're… right, exactly, they're… they're planty plants, yep.
 [u0843 | 01:01:40.430-01:01:42.130 | Ayveen] Fields on the left are planty plants.
 [u0844 | 01:01:46.700-01:01:52.460 | DM] But we are not gonna go bushwalking off the trail, we're just gonna stay… Just sayin'.
 [u0845 | 01:01:57.020-01:01:58.000 | Kaito Min] Keep going.
 [u0846 | 01:01:58.000-01:01:59.080 | Txarro] I don't know.
 [u0847 | 01:01:59.080-01:02:01.609 | DM] Are we gonna get closer, and then… or do you want to send your familiar?
-[u0848 | 01:02:05.630-01:02:06.500 | DM] Scott ahead.
+[u0848 | 01:02:05.630-01:02:06.500 | DM] Scout ahead.
 [u0849 | 01:02:08.120-01:02:10.259 | Txarro] Yeah, maybe I'll summon a familiar.
 [u0850 | 01:02:11.680-01:02:15.469 | DM] Sort of a, you know, get some advanced information type of situation.
 [u0851 | 01:02:17.130-01:02:17.450 | Edric] Yeah.
@@ -854,7 +854,7 @@
 [u0854 | 01:02:28.260-01:02:32.470 | DM] An eastern screech Owl.
 [u0855 | 01:02:34.740-01:02:35.550 | DM] Excellent.
 [u0856 | 01:02:35.550-01:02:38.349 | DM] Alright, so what instructions are you giving it?
-[u0857 | 01:02:38.350-01:02:39.250 | DM] What are you having to do?
+[u0857 | 01:02:38.350-01:02:39.250 | DM] What are you having it do?
 [u0858 | 01:02:39.250-01:02:44.439 | Txarro] So I'm telepathically connected to it as long as it is within.
 [u0859 | 01:02:47.210-01:02:48.760 | DM] 100 feet.
 [u0860 | 01:02:49.670-01:02:52.699 | Txarro] That I can see through its eyes and ears.
@@ -880,15 +880,15 @@
 [u0880 | 01:05:17.710-01:05:25.140 | DM] Because it's so bright to the owl's eyes. But there are clearly more people in there, and
 [u0881 | 01:05:25.480-01:05:29.720 | DM] You know, windows flung open, doors opened.
 [u0882 | 01:05:29.990-01:05:34.549 | DM] And… I think that's the general sense of it.
-[u0883 | 01:05:35.480-01:05:40.370 | DM] Are you, Txarro, are you just telling us that, what I call this?
+[u0883 | 01:05:35.480-01:05:40.370 | DM] Are you, Txarro, are you just telling us that, like, all this?
 [u0884 | 01:05:40.370-01:05:41.410 | Txarro] Yeah, I'm narrating.
 [u0885 | 01:05:41.410-01:05:46.570 | DM] As Kaito hears all of this, his, like, ears perk up, and he's like, oh!
 [u0886 | 01:05:47.810-01:05:50.619 | DM] I think I should probably go do my thing.
-[u0887 | 01:05:50.900-01:05:59.850 | DM] Kaden starts trying, like… like… I think… alright, I'm gonna try to get to this party. What's the… how do we… how do we get in there? What's… what's going on? What's the deal?
+[u0887 | 01:05:50.900-01:05:59.850 | DM] Kaito starts trying, like… like… I think… alright, I'm gonna try to get to this party. What's the… how do we… how do we get in there? What's… what's going on? What's the deal?
 [u0888 | 01:06:00.480-01:06:01.939 | DM] Yeah, so what's the road?
 [u0889 | 01:06:02.910-01:06:05.870 | DM] This road continues to the gate.
 [u0890 | 01:06:06.670-01:06:11.989 | DM] Yeah, exactly. So the gate is right off of the road, so maybe a quarter mile up ahead.
-[u0891 | 01:06:12.060-01:06:20.230 | DM] There's a… a Gate MV2, the two guards…
+[u0891 | 01:06:12.060-01:06:20.230 | DM] There's a… a gate and the two, the two guards…
 [u0892 | 01:06:20.920-01:06:31.200 | DM] I mean, you assume are guards, right? They're in the position and place of guards. But if they are, they're awfully casual about it. There's two long spears that are just leaning up behind them.
 [u0893 | 01:06:31.200-01:06:36.479 | DM] They're not armored, they're dressed more like, servants, you know, and sort of…
 [u0894 | 01:06:36.570-01:06:37.930 | DM] waistcoat and…
@@ -908,11 +908,11 @@
 [u0908 | 01:07:36.040-01:07:41.150 | DM] A pair of halflings walking across the lawn.
 [u0909 | 01:07:42.060-01:07:43.990 | DM] Probably an elf.
 [u0910 | 01:07:44.050-01:07:47.049 | DM] or two sprinkled in there.
-[u0911 | 01:07:47.050-01:07:50.869 | DM] Kidd starts… Kiddo's just like, let's go. Don't… do not worry about this.
+[u0911 | 01:07:47.050-01:07:50.869 | DM] Kaito starts… Kaito's just like, let's go. Don't… do not worry about this.
 [u0912 | 01:07:50.870-01:07:58.730 | Kaito Min] And then just starts, like, walking, like, confidently ahead, like, rearranges his stuff, like, gets his all, like, like, looks straight, and I'm like, let's go.
 [u0913 | 01:07:58.730-01:08:04.100 | Txarro] I will send the owl to fly… like, fly by over the manor house.
-[u0914 | 01:08:04.700-01:08:10.220 | Txarro] count… Who stay 120 feet up, or so.
-[u0915 | 01:08:10.410-01:08:13.220 | DM] You know, try and be… how old are…
+[u0914 | 01:08:04.700-01:08:10.220 | Txarro] kind of… we'll stay 120 feet up, or so.
+[u0915 | 01:08:10.410-01:08:13.220 | DM] You know, try and be… owls are…
 [u0916 | 01:08:13.220-01:08:19.220 | Txarro] Pretty quiet on the wing. Try and be stealthy, just depending on the darkness.
 [u0917 | 01:08:19.350-01:08:23.050 | Txarro] Hard to see against the sky.
 [u0918 | 01:08:23.990-01:08:24.620 | DM] stirring.
@@ -922,9 +922,9 @@
 [u0922 | 01:08:35.990-01:08:36.979 | DM] you know.
 [u0923 | 01:08:38.220-01:08:42.669 | Txarro] Is everybody just, like, milling around? Is there some order to the party?
 [u0924 | 01:08:42.670-01:08:51.419 | DM] Are there guards at the manor house gate? Just, like, basic… whatever… whatever the owl can figure out, and then fly back.
-[u0925 | 01:08:52.660-01:08:57.570 | DM] No, I… your impression is that the guards at the gate are sort of pro formal, and…
+[u0925 | 01:08:52.660-01:08:57.570 | DM] No, I… your impression is that the guards at the gate are sort of pro forma, and…
 [u0926 | 01:08:57.779-01:09:16.010 | DM] While there are people who are armed in the party, you know, it's dress arms. You know, it's the saber that someone in a cavalry officer's uniform is wearing. You know, the sort of thing that would go with it, or the long knives that elves…
-[u0927 | 01:09:16.010-01:09:21.079 | Kaito Min] Potato's, like, hustling now. He's like, guys, the party's ending, we gotta get there now.
+[u0927 | 01:09:16.010-01:09:21.079 | Kaito Min] Kaito's, like, hustling now. He's like, guys, the party's ending, we gotta get there now.
 [u0928 | 01:09:21.080-01:09:22.429 | Txarro] What's your story, Kaito?
 [u0929 | 01:09:22.890-01:09:23.710 | Kaito Min] It just…
 [u0930 | 01:09:23.710-01:09:25.379 | DM] Don't worry, money.
@@ -968,14 +968,14 @@
 [u0968 | 01:11:39.920-01:11:43.239 | DM] Rub their eyes and, raise a hand to hail you.
 [u0969 | 01:11:45.730-01:11:47.780 | DM] In one of the doors of the manor.
 [u0970 | 01:11:48.510-01:11:52.490 | DM] Illuminated brightly from behind.
-[u0971 | 01:11:53.490-01:11:57.400 | DM] a tall… Man? Stans?
+[u0971 | 01:11:53.490-01:11:57.400 | DM] a tall… Man? Stands?
 [u0972 | 01:11:57.600-01:11:58.750 | DM] stepping…
 [u0973 | 01:11:59.050-01:12:03.230 | DM] With a sort of a lithe grace like a dancer into the doorway.
 [u0974 | 01:12:05.040-01:12:08.610 | DM] With the backlighting, it's difficult to tell…
 [u0975 | 01:12:09.750-01:12:11.209 | DM] if the…
 [u0976 | 01:12:11.210-01:12:20.120 | DM] Smoothness of his face is his face itself, or like a sort of a mask, like a masquerade kind of mask that he's been.
 [u0977 | 01:12:20.140-01:12:21.130 | DM] put.
-[u0978 | 01:12:21.130-01:12:21.480 | DM] bond.
+[u0978 | 01:12:21.130-01:12:21.480 | DM] on.
 [u0979 | 01:12:23.890-01:12:24.400 | DM] But you…
 [u0980 | 01:12:24.400-01:12:27.669 | DM] You see him scan over the crowd.
 [u0981 | 01:12:28.080-01:12:33.400 | DM] You see his eyes fall away down the slope of the hills, to where the…
@@ -1011,7 +1011,7 @@
 [u1011 | 01:14:42.430-01:14:43.180 | DM] Indeed.
 [u1012 | 01:14:43.630-01:14:45.390 | DM] The party is ending.
 [u1013 | 01:14:45.430-01:14:46.570 | DM] You're just in time.
-[u1014 | 01:14:49.720-01:14:50.140 | Kaito Min] 4.
+[u1014 | 01:14:49.720-01:14:50.140 | Kaito Min] For?
 [u1015 | 01:14:52.190-01:14:55.640 | DM] The party before it ends, says one, with a chuckle.
 [u1016 | 01:14:57.140-01:14:57.990 | DM] Indeed.
 [u1017 | 01:14:58.270-01:14:59.370 | DM] My favorite time.
@@ -1105,7 +1105,7 @@
 [u1105 | 01:22:05.010-01:22:06.910 | Kaito Min] Yeah, yeah, yeah, no, I understand.
 [u1106 | 01:22:08.200-01:22:11.480 | DM] You mentioned, the other…
 [u1107 | 01:22:11.480-01:22:12.779 | Kaito Min] Lord's down the road.
-[u1108 | 01:22:13.200-01:22:15.090 | Kaito Min] Pensions?
+[u1108 | 01:22:13.200-01:22:15.090 | Kaito Min] Tensions?
 [u1109 | 01:22:16.480-01:22:17.230 | DM] Wait, say that again?
 [u1110 | 01:22:17.730-01:22:18.650 | Kaito Min] Tensions?
 [u1111 | 01:22:19.490-01:22:20.510 | DM] Of… sorry.
@@ -1120,7 +1120,7 @@
 [u1120 | 01:22:48.430-01:22:54.909 | DM] He looks thoughtful and deep for a sec, and then locks in eye contact with you and says.
 [u1121 | 01:22:55.920-01:23:01.500 | DM] It smells exactly unlike anything else I have ever smelled in my entire living.
 [u1122 | 01:23:04.670-01:23:06.469 | DM] It's the opposite of smell.
-[u1123 | 01:23:11.010-01:23:11.840 | Edric] what's confused.
+[u1123 | 01:23:11.010-01:23:11.840 | Edric] looks confused.
 [u1124 | 01:23:18.390-01:23:18.900 | Edric] Thank you.
 [u1125 | 01:23:18.900-01:23:19.730 | DM] gives a nod.
 [u1126 | 01:23:22.760-01:23:24.939 | Txarro] Are there other mortals with this party?
@@ -1142,14 +1142,14 @@
 [u1142 | 01:24:39.540-01:24:41.040 | Edric] That is what ending means, right?
 [u1143 | 01:24:51.340-01:24:52.630 | DM] Would you like to go in?
 [u1144 | 01:24:54.710-01:24:57.700 | Edric] The house down at the end of the road, the one that's kind of fallen apart.
-[u1145 | 01:24:59.860-01:25:00.510 | DM] Heat.
+[u1145 | 01:24:59.860-01:25:00.510 | DM] He
 [u1146 | 01:25:03.130-01:25:07.799 | DM] Says in a language you don't recognize what surely must be some curse and spits.
 [u1147 | 01:25:10.770-01:25:12.749 | DM] It's a bad-smelling place. We don't go there.
 [u1148 | 01:25:15.470-01:25:17.740 | Txarro] Does the road end in the other direction, too?
 [u1149 | 01:25:22.020-01:25:24.620 | DM] Roads don't end.
 [u1150 | 01:25:25.530-01:25:29.149 | DM] They only ever go… On and on.
 [u1151 | 01:25:33.000-01:25:35.060 | Edric] No, some roads don't…
-[u1152 | 01:25:35.780-01:25:40.300 | Edric] Edric, like, covers up his mouth, like, I probably should get in an argument with them and stop talking.
+[u1152 | 01:25:35.780-01:25:40.300 | Edric] Edric, like, covers up his mouth, like, I probably shouldn’t get in an argument with them and stop talking.
 [u1153 | 01:25:41.100-01:25:43.800 | DM] We belong to the road, he says. We know.
 [u1154 | 01:25:45.630-01:25:47.640 | Txarro] Should we go in?
 [u1155 | 01:25:48.870-01:25:56.290 | Txarro] Txarro says to everybody else, in… Tollish, not Common.
@@ -1190,21 +1190,21 @@
 [u1190 | 01:28:02.870-01:28:05.579 | DM] This is completely open to whatever you'd like to do with it.
 [u1191 | 01:28:06.550-01:28:10.129 | Ayveen] I mean, I'm happy to make up a dream, I'm just wondering, like, didn't…
 [u1192 | 01:28:10.210-01:28:13.240 | DM] One of us actually actively describe a dream about…
-[u1193 | 01:28:13.570-01:28:15.409 | Ayveen] The manner, like, in that session?
+[u1193 | 01:28:13.570-01:28:15.409 | Ayveen] The manor, like, in that session?
 [u1194 | 01:28:17.540-01:28:19.270 | Txarro] Yeah, I think that was Eric.
 [u1195 | 01:28:23.120-01:28:24.930 | DM] Trying to remember my memories.
 [u1196 | 01:28:37.670-01:28:38.250 | Ayveen] Hmm.
 [u1197 | 01:28:40.920-01:28:42.629 | Txarro] Maybe not, I don't know.
 [u1198 | 01:28:42.630-01:28:47.160 | DM] Dreams, well…
-[u1199 | 01:28:47.910-01:28:53.210 | Txarro] Most of my dreams are of animals, which you seem to have view of here.
+[u1199 | 01:28:47.910-01:28:53.210 | Txarro] Most of my dreams are of animals, which you seem to have few of here.
 [u1200 | 01:28:53.210-01:28:53.620 | DM] Hmm.
 [u1201 | 01:28:53.620-01:28:57.939 | DM] Have you… heard of…
 [u1202 | 01:29:03.400-01:29:08.819 | Txarro] I'm just trying to think of an interesting bird, that would live in some… in Tollen.
-[u1203 | 01:29:09.750-01:29:12.290 | DM] Conservative An egret.
-[u1204 | 01:29:12.290-01:29:13.160 | Txarro] Returns.
+[u1203 | 01:29:09.750-01:29:12.290 | DM] Consider an egret.
+[u1204 | 01:29:12.290-01:29:13.160 | Txarro] Bitterns.
 [u1205 | 01:29:13.160-01:29:14.520 | DM] Shouldn't be gone.
 [u1206 | 01:29:14.520-01:29:15.819 | DM] No, what do they smell like?
-[u1207 | 01:29:19.030-01:29:20.069 | Txarro] Ishy and wet.
+[u1207 | 01:29:19.030-01:29:20.069 | Txarro] Fishy and wet.
 [u1208 | 01:29:21.120-01:29:21.500 | DM] Hmm.
 [u1209 | 01:29:21.710-01:29:23.590 | Txarro] And of mud and reeds.
 [u1210 | 01:29:23.590-01:29:24.525 | DM] Mmm.
@@ -1212,7 +1212,7 @@
 [u1212 | 01:29:30.030-01:29:33.160 | Txarro] Wandering, lost, through a marsh.
 [u1213 | 01:29:34.270-01:29:40.839 | Txarro] Calling its low, hooting noise, trying to find… What? I don't know.
 [u1214 | 01:29:40.840-01:29:43.830 | DM] But as it reached the…
-[u1215 | 01:29:44.200-01:29:49.910 | DM] edge of the reed then came out of the water onto the mud. It began to…
+[u1215 | 01:29:44.200-01:29:49.910 | DM] edge of the reed bed came out of the water onto the mud. It began to…
 [u1216 | 01:29:49.910-01:29:51.090 | Txarro] carry and dig.
 [u1217 | 01:29:51.530-01:29:55.869 | Txarro] And as it did, it turned into… A snake.
 [u1218 | 01:29:56.390-01:30:03.459 | Txarro] And slithered through the dirt, shedding its skin as it went, which grew into reeds.
@@ -1225,7 +1225,7 @@
 [u1225 | 01:30:43.780-01:30:44.370 | Edric] I didn't…
 [u1226 | 01:30:44.370-01:30:45.800 | DM] Or are you satisfied?
 [u1227 | 01:30:48.040-01:30:55.550 | DM] That, I… listen, I, I, I don't… I don't mean to be greedy.
-[u1228 | 01:30:56.750-01:31:02.989 | DM] But it's a precious opportunity, we don't agree. I've always wondered what it's like, what do you make of these things?
+[u1228 | 01:30:56.750-01:31:02.989 | DM] But it's a precious opportunity, wouldn't you agree. I've always wondered what it's like, what do you make of these things?
 [u1229 | 01:31:03.270-01:31:04.390 | DM] Ed?
 [u1230 | 01:31:04.390-01:31:05.150 | Edric] Edric says.
 [u1231 | 01:31:05.790-01:31:09.860 | DM] I… I normally dream of… baking bread?
@@ -1236,7 +1236,7 @@
 [u1236 | 01:31:26.250-01:31:29.669 | DM] It's a little… He kind of rumbles.
 [u1237 | 01:31:34.980-01:31:40.000 | DM] Hmm… I'm curious now, though, what is this other… other dream?
 [u1238 | 01:31:43.850-01:31:48.189 | DM] You make it sound like it's unchosen. You don't get to choose your dreams.
-[u1239 | 01:31:52.710-01:31:53.820 | Edric] Nee, now.
+[u1239 | 01:31:52.710-01:31:53.820 | Edric] No, no.
 [u1240 | 01:31:55.340-01:31:58.430 | Edric] But dreams come from the gods. You don't know that?
 [u1241 | 01:32:00.060-01:32:02.180 | DM] I don't dream. I only smell.
 [u1242 | 01:32:11.550-01:32:14.720 | DM] Well… There's the one…
@@ -1256,7 +1256,7 @@
 [u1256 | 01:32:58.920-01:32:59.639 | DM] In a way?
 [u1257 | 01:33:00.060-01:33:00.560 | Kaito Min] It might be a what?
 [u1258 | 01:33:01.130-01:33:02.479 | DM] A memory, in a way.
-[u1259 | 01:33:02.680-01:33:03.139 | Kaito Min] Low memory.
+[u1259 | 01:33:02.680-01:33:03.139 | Kaito Min] Oh, memory.
 [u1260 | 01:33:05.380-01:33:07.460 | DM] And then the grave dissolves.
 [u1261 | 01:33:08.300-01:33:09.079 | DM] Then I wake up.
 [u1262 | 01:33:14.130-01:33:18.980 | DM] When you're in the grave, Is it open to the sky, or are you under dirt?
@@ -1274,7 +1274,7 @@
 [u1274 | 01:34:00.620-01:34:02.970 | DM] Like a bath, it cleans.
 [u1275 | 01:34:04.380-01:34:07.380 | DM] It's good that you're in the grave.
 [u1276 | 01:34:08.060-01:34:09.080 | DM] sometimes.
-[u1277 | 01:34:11.230-01:34:13.039 | Edric] Have you never spelled a bad grave smell?
+[u1277 | 01:34:11.230-01:34:13.039 | Edric] Have you never smelled a bad grave smell?
 [u1278 | 01:34:21.480-01:34:27.759 | DM] Once I smelled the bad smell for the first time, nothing else was bad anymore, except for it.
 [u1279 | 01:34:30.370-01:34:31.899 | Kaito Min] Sorry, where's the bad smell come from again?
 [u1280 | 01:34:35.850-01:34:42.330 | DM] Bad smell comes from… The mortals who catch it.
@@ -1284,7 +1284,7 @@
 [u1284 | 01:34:53.770-01:34:55.200 | DM] To keep it from entry.
 [u1285 | 01:34:55.520-01:34:56.210 | Kaito Min] Yeah.
 [u1286 | 01:34:59.740-01:35:01.720 | DM] One more dream, and I'll let you through.
-[u1287 | 01:35:01.720-01:35:08.739 | Kaito Min] Yeah, I'll tell you, I'll tell you a dream. But before I do… onto GIFs,
+[u1287 | 01:35:01.720-01:35:08.739 | Kaito Min] Yeah, I'll tell you, I'll tell you a dream. But before I do… onto gifts,
 [u1288 | 01:35:09.020-01:35:11.780 | Kaito Min] Kaito pulls out his lute, and
 [u1289 | 01:35:12.860-01:35:15.579 | Kaito Min] What is the other instrument that he has? He's… he has.
 [u1290 | 01:35:18.290-01:35:20.809 | Kaito Min] He pulls out… oh no.
@@ -1293,9 +1293,9 @@
 [u1293 | 01:35:29.280-01:35:35.639 | Kaito Min] And, he just… he gives, like, both of them just, like, a quick little flourish, but, like, of incredible skill. It's just, like, oh.
 [u1294 | 01:35:35.990-01:35:38.780 | Kaito Min] This guy can definitely play these things.
 [u1295 | 01:35:38.920-01:35:42.819 | Kaito Min] But not too showy, but just, like, a little… just to, like, to show.
-[u1296 | 01:35:43.010-01:35:44.490 | DM] Give me a performance role?
+[u1296 | 01:35:43.010-01:35:44.490 | DM] Give me a performance roll?
 [u1297 | 01:35:44.490-01:35:45.090 | DM] What's that?
-[u1298 | 01:35:45.090-01:35:46.329 | DM] Give me a performance role?
+[u1298 | 01:35:45.090-01:35:46.329 | DM] Give me a performance roll?
 [u1299 | 01:35:51.330-01:35:51.660 | Kaito Min] 15.
 [u1300 | 01:35:52.810-01:35:53.410 | DM] Yeah.
 [u1301 | 01:35:53.410-01:35:53.810 | DM] Solid.
@@ -1313,7 +1313,7 @@
 [u1313 | 01:36:36.050-01:36:36.800 | DM] What's that?
 [u1314 | 01:36:37.730-01:36:38.369 | Txarro] They don't sleep.
 [u1315 | 01:36:39.490-01:36:39.949 | DM] What's that?
-[u1316 | 01:36:40.220-01:36:40.989 | Edric] Owls don't drink.
+[u1316 | 01:36:40.220-01:36:40.989 | Edric] Elves don't dream.
 [u1317 | 01:36:40.990-01:36:42.720 | Txarro] Elves don't dream. Elves don't sleep.
 [u1318 | 01:36:42.720-01:36:43.710 | DM] Oh, shit.
 [u1319 | 01:36:43.710-01:36:44.810 | Kaito Min] Oh, that sucks.
@@ -1322,17 +1322,17 @@
 [u1322 | 01:36:48.690-01:36:51.670 | Edric] Elves spend the first, like, 50 years of their life dreaming.
 [u1323 | 01:36:53.230-01:36:55.750 | DM] Can I share one of those? Yeah. Yeah.
 [u1324 | 01:36:56.140-01:36:57.170 | DM] Okay.
-[u1325 | 01:36:58.040-01:37:00.969 | Edric] There's no war about what it is at all, so, like, totally…
+[u1325 | 01:36:58.040-01:37:00.969 | Edric] There's no lore about what it is at all, so, like, totally…
 [u1326 | 01:37:00.970-01:37:01.710 | DM] Yeah. Who knows?
 [u1327 | 01:37:01.710-01:37:02.949 | Edric] Who knows what happens, all we know is…
 [u1328 | 01:37:02.950-01:37:05.480 | Kaito Min] Perfect, I'll… let me say this later, then.
 [u1329 | 01:37:05.850-01:37:08.850 | DM] Well, you know, my kinds.
-[u1330 | 01:37:09.600-01:37:11.439 | DM] We accidentally have one dream.
+[u1330 | 01:37:09.600-01:37:11.439 | DM] We actually have one dream.
 [u1331 | 01:37:12.300-01:37:21.460 | DM] And it only happens once, so… I actually share your nostalgia. Well, I guess you're… for you, it's a curiosity, since you've never had a dream, right? Isn't that correct?
 [u1332 | 01:37:21.460-01:37:21.870 | DM] -
 [u1333 | 01:37:21.870-01:37:28.000 | DM] Yeah, I, I, I empathize with that,
 [u1334 | 01:37:30.090-01:37:32.840 | DM] But for me, it's more nostalgia, because I've only ever had.
-[u1335 | 01:37:33.320-01:37:33.990 | Kaito Min] Wondering.
+[u1335 | 01:37:33.320-01:37:33.990 | Kaito Min] One dream.
 [u1336 | 01:37:36.330-01:37:38.680 | Kaito Min] But if you like, I can share you some snippets of that dream.
 [u1337 | 01:37:39.610-01:37:40.000 | DM] Tell me.
 [u1338 | 01:37:40.720-01:37:42.100 | DM] Well…
@@ -1365,11 +1365,11 @@
 [u1365 | 01:40:29.950-01:40:33.060 | DM] Totally.
 [u1366 | 01:40:34.620-01:40:37.220 | Kaito Min] No regrets, no remorse. Onwards.
 [u1367 | 01:40:38.410-01:40:39.620 | DM] It is what it is.
-[u1368 | 01:40:45.710-01:40:49.759 | DM] Kit, I don't want to cut you off if you've got one lined up, but I'm also happy to move us in.
+[u1368 | 01:40:45.710-01:40:49.759 | DM] Kate, I don't want to cut you off if you've got one lined up, but I'm also happy to move us in.
 [u1369 | 01:40:50.740-01:40:51.609 | DM] But alright.
 [u1370 | 01:40:51.880-01:40:53.799 | DM] I would… if, if we…
 [u1371 | 01:40:53.800-01:40:57.170 | Ayveen] Got flummoxed by the Elves Don't Dream. I had something to say to…
-[u1372 | 01:40:57.170-01:40:58.120 | DM] You know, full.
+[u1372 | 01:40:57.170-01:40:58.120 | DM] You know, fill.
 [u1373 | 01:40:58.120-01:41:02.260 | Ayveen] third one, so we need it as needed, but I'm fine.
 [u1374 | 01:41:03.790-01:41:07.970 | DM] They gesture for you to step through the gate.
 [u1375 | 01:41:10.820-01:41:11.330 | DM] Stop.
@@ -1396,13 +1396,13 @@
 [u1396 | 01:43:29.080-01:43:37.429 | DM] But a kind of knowing, deeper than words and deeper than thought, that the day has already slipped between your fingers. That you've already lost it.
 [u1397 | 01:43:37.590-01:43:41.780 | DM] That the party is already ending by the time you've arrived at it.
 [u1398 | 01:43:42.010-01:43:43.369 | DM] Never to return.
-[u1399 | 01:43:43.500-01:43:45.520 | DM] An evening has come.
+[u1399 | 01:43:43.500-01:43:45.520 | DM] And evening has come.
 [u1400 | 01:43:47.570-01:43:48.969 | Kaito Min] Sorry, what's never to return?
 [u1401 | 01:43:50.820-01:43:56.199 | DM] The celebration, the day… Everything that's passed.
 [u1402 | 01:43:57.090-01:43:59.990 | DM] is finally… Passed.
 [u1403 | 01:44:02.090-01:44:14.060 | Kaito Min] Schwartz, is there the feeling that this ending of the party, like, has this been going on for years? Or is this actually, like, the ending of a… or could it have been going on for years? Or is it actually, like, a… do you know what I mean? Like…
 [u1404 | 01:44:14.270-01:44:28.730 | Kaito Min] Is there any vibe? Like, the whole thing is… feels very eerie, you know, this whole… this whole place, again, it's that kind of weird, slightly creepy, like, The Shining-ish. It's like… you know what it feels like, Schwartz? It feels like we're in a Stanley Kubrick movie. For me, this is kind of what it feels like.
-[u1405 | 01:44:29.320-01:44:30.490 | DM] High praise call, thank you.
+[u1405 | 01:44:29.320-01:44:30.490 | DM] High praise Kong, thank you.
 [u1406 | 01:44:30.490-01:44:35.120 | Kaito Min] No, seriously, it does, it's amazing. So it's like, it's like,
 [u1407 | 01:44:35.740-01:44:48.540 | Kaito Min] that's kind of like, like, has this party been at the ending phase for, like, eternity? Or is it, like… do you know what I mean? Is there any… is it creepy like that? Or is it, like, kind of like, oh, it actually is kind of a denouement after, like, a, you know…
 [u1408 | 01:44:51.890-01:44:54.150 | DM] Let me answer slightly indirectly.
@@ -1429,7 +1429,7 @@
 [u1429 | 01:46:40.470-01:46:48.260 | DM] There's an endless series of delays and obfuscations until even he, can't keep focus, looks away for just a moment.
 [u1430 | 01:46:48.260-01:46:52.040 | DM] And when he looks back again, it's the same moment beginning.
 [u1431 | 01:46:52.580-01:46:53.740 | DM] Over and over and over again.
-[u1432 | 01:46:55.890-01:46:57.519 | DM] So they're never… it's… they're… it's like a leader.
+[u1432 | 01:46:55.890-01:46:57.519 | DM] So they're never… it's… they're… it's like a loop.
 [u1433 | 01:47:00.870-01:47:02.500 | DM] Yeah, although, .
 [u1434 | 01:47:02.500-01:47:06.490 | DM] A loop is not quite right, because it's not identical each time.
 [u1435 | 01:47:06.590-01:47:12.360 | DM] It's like, it's like everyone's got a fake book, and they're playing their own…
@@ -1437,7 +1437,7 @@
 [u1437 | 01:47:17.560-01:47:20.269 | DM] It's different every time, but it's the same 8 bars, you know?
 [u1438 | 01:47:25.300-01:47:26.020 | DM] Oh.
 [u1439 | 01:47:26.190-01:47:27.050 | Edric] Tim, we can't hear you.
-[u1440 | 01:47:31.050-01:47:32.609 | Txarro] I want to find the half lines.
+[u1440 | 01:47:31.050-01:47:32.609 | Txarro] I want to find the halflings.
 [u1441 | 01:47:39.140-01:47:40.110 | Edric] This is gonna look…
 [u1442 | 01:47:40.110-01:47:41.540 | DM] Back at the guards.
 [u1443 | 01:47:42.140-01:47:43.839 | DM] Like, are they back to watching the road?
@@ -1448,7 +1448,7 @@
 [u1448 | 01:48:00.540-01:48:04.860 | DM] And one squats down into an easy crouch, and it's difficult to tell for…
 [u1449 | 01:48:04.860-01:48:05.840 | DM] Half a second.
 [u1450 | 01:48:06.600-01:48:11.040 | DM] Whether it's a… Person squatting down like a dog.
-[u1451 | 01:48:11.090-01:48:13.849 | DM] Or a dog standing back up again into a person's chair.
+[u1451 | 01:48:11.090-01:48:13.849 | DM] Or a dog standing back up again into a person's shape.
 [u1452 | 01:48:19.930-01:48:26.640 | DM] You can see… oh, sorry, the halflings are down in one of the… in the lawn near one of the patios.
 [u1453 | 01:48:28.780-01:48:35.270 | Edric] We're just gonna walk back over to the guard for a minute, just like… 10 steps back towards them.
 [u1454 | 01:48:35.410-01:48:39.040 | Edric] Not in, like… Sweet.
@@ -1464,7 +1464,7 @@
 [u1464 | 01:49:06.490-01:49:07.070 | Edric] Yeah.
 [u1465 | 01:49:08.750-01:49:11.599 | Edric] Because those people down there don't seem to have left.
 [u1466 | 01:49:15.150-01:49:18.869 | DM] You know how it is when a party's ending. People take forever to say goodbye.
-[u1467 | 01:49:22.640-01:49:23.649 | Edric] Edric kind of outside.
+[u1467 | 01:49:22.640-01:49:23.649 | Edric] Edric kind of sighs.
 [u1468 | 01:49:24.490-01:49:27.110 | Edric] I don't know if I've ever been to a party quite like this, but…
 [u1469 | 01:49:29.730-01:49:31.450 | Edric] That's not like how it is.
 [u1470 | 01:49:33.530-01:49:34.640 | Edric] Anyway, go.
@@ -1478,7 +1478,7 @@
 [u1478 | 01:50:09.430-01:50:14.970 | Kaito Min] Yeah, there's dozens of… it's just like, I think we're safe. I don't think there's anything, you know, this doesn't feel…
 [u1479 | 01:50:15.470-01:50:23.320 | Kaito Min] I mean, we're safe in, like, I don't think anybody's gonna get, you know, bashed to death with, you know, instrument, blunt instrument here.
 [u1480 | 01:50:24.260-01:50:25.130 | Ayveen] I think.
-[u1481 | 01:50:25.130-01:50:27.369 | Edric] It's just a large point instrument.
+[u1481 | 01:50:25.130-01:50:27.369 | Edric] It's just a large blunt instrument.
 [u1482 | 01:50:27.730-01:50:28.549 | Edric] Sort of.
 [u1483 | 01:50:28.550-01:50:36.140 | Kaito Min] Like, the danger here… the danger here is more like getting trapped by having your soul trapped here for eternity.
 [u1484 | 01:50:36.280-01:50:38.069 | Kaito Min] Or, signing on to some.
@@ -1505,14 +1505,14 @@
 [u1505 | 01:52:15.290-01:52:16.859 | DM] At this stage, that's the two.
 [u1506 | 01:52:17.450-01:52:18.230 | Ayveen] Cool.
 [u1507 | 01:52:18.230-01:52:20.890 | DM] Who wants to go… first?
-[u1508 | 01:52:23.240-01:52:24.199 | Kaito Min] Like Congo.
+[u1508 | 01:52:23.240-01:52:24.199 | Kaito Min] I can go.
 [u1509 | 01:52:24.200-01:52:26.019 | Txarro] First, because he's got to jump off at 11.
 [u1510 | 01:52:26.020-01:52:26.950 | Kaito Min] that may have a.
 [u1511 | 01:52:26.950-01:52:27.820 | DM] Oh, that's right.
 [u1512 | 01:52:28.880-01:52:32.610 | Kaito Min] Kaito will saunter over to the musicians. What are they playing?
-[u1513 | 01:52:33.240-01:52:34.509 | Ayveen] Bathing with them.
+[u1513 | 01:52:33.240-01:52:34.509 | Ayveen] Ayveen with them.
 [u1514 | 01:52:35.570-01:52:36.660 | Ayveen] Buddy system.
-[u1515 | 01:52:39.620-01:52:41.599 | Ayveen] beans with you, buddy. Okay, great.
+[u1515 | 01:52:39.620-01:52:41.599 | Ayveen] Ayveen’s with you, buddy. Okay, great.
 [u1516 | 01:52:42.890-01:52:44.000 | Ayveen] party system.
 [u1517 | 01:52:46.020-01:52:49.690 | DM] Three stringed instruments, like,
 [u1518 | 01:52:50.350-01:52:57.189 | DM] Something like a cello and violin and viola, but with more strings than you're used to on any of them.
@@ -1544,7 +1544,7 @@
 [u1544 | 01:54:50.380-01:54:52.260 | DM] Clearly hired for a…
 [u1545 | 01:54:52.580-01:54:53.080 | Kaito Min] You know?
 [u1546 | 01:54:53.080-01:54:58.180 | DM] a thing. But, after about a minute or so,
-[u1547 | 01:55:00.110-01:55:02.859 | DM] The peace comes to an end.
+[u1547 | 01:55:00.110-01:55:02.859 | DM] The piece comes to an end.
 [u1548 | 01:55:06.380-01:55:09.040 | Kaito Min] In an unsatisfying way, like you…
 [u1549 | 01:55:09.310-01:55:18.080 | DM] You expect a certain resolution, and it gets close, but it doesn't give you, like, the final, dumb, dumb, you know?
 [u1550 | 01:55:18.080-01:55:19.060 | DM] No. Oh, no.
@@ -1560,7 +1560,7 @@
 [u1560 | 01:56:04.560-01:56:09.049 | DM] Congratulations. Delighted to hear it. It's been a delightful set.
 [u1561 | 01:56:10.890-01:56:11.590 | DM] Thank you.
 [u1562 | 01:56:11.950-01:56:12.689 | DM] Thank you, thank you.
-[u1563 | 01:56:13.120-01:56:13.910 | Kaito Min] Kiddo.
+[u1563 | 01:56:13.120-01:56:13.910 | Kaito Min] Kaito.
 [u1564 | 01:56:14.170-01:56:17.239 | Kaito Min] steps back and… Excited to hear.
 [u1565 | 01:56:22.540-01:56:24.150 | DM] They take a deep breath.
 [u1566 | 01:56:24.690-01:56:27.539 | DM] Pick up, and the leader calls out, one more.
@@ -1574,7 +1574,7 @@
 [u1574 | 01:56:52.620-01:56:56.259 | DM] Half drunk, and they're both sitting on the lawn next to each other.
 [u1575 | 01:56:56.260-01:57:00.270 | DM] Having a sort of a long, slow,
 [u1576 | 01:57:00.270-01:57:03.460 | DM] argument. The sort of argument with, like.
-[u1577 | 01:57:03.940-01:57:17.850 | DM] Raise voices and sharpness, but a real kind of friendly quality of banter and insult of two people who have been long companions and are arguing as much for fun as for anything else.
+[u1577 | 01:57:03.940-01:57:17.850 | DM] Raised voices and sharpness, but a real kind of friendly quality of banter and insult of two people who have been long companions and are arguing as much for fun as for anything else.
 [u1578 | 01:57:20.560-01:57:25.179 | DM] So Txarro will approach them, and sort of… Give a slight…
 [u1579 | 01:57:25.180-01:57:26.360 | Txarro] nod or bow.
 [u1580 | 01:57:27.530-01:57:35.819 | Txarro] Slightly awkwardly, he's not particularly good at social graces, and say, in... Common.
@@ -1585,14 +1585,14 @@
 [u1585 | 01:58:03.220-01:58:08.310 | DM] You're not a fey that looks like a lizard. You are, in fact, a lizard that looks like a lizard.
 [u1586 | 01:58:11.780-01:58:20.479 | Txarro] I am indeed a lizardfolk of Taelgar, if that is what you are asking, from the Greywash near Tollen.
 [u1587 | 01:58:21.150-01:58:29.800 | DM] the, the second halfling just throws his hands up in the air, like, and then, like, falls over sideways.
-[u1588 | 01:58:30.140-01:58:35.029 | DM] Wow, wow, wow, says the first half, like, this is…
+[u1588 | 01:58:30.140-01:58:35.029 | DM] Wow, wow, wow, says the first halfling, this is…
 [u1589 | 01:58:35.130-01:58:37.380 | DM] Will you settle an argument for us?
 [u1590 | 01:58:37.660-01:58:38.490 | DM] Okay.
 [u1591 | 01:58:38.760-01:58:39.740 | DM] Okay, okay.
 [u1592 | 01:58:40.350-01:58:41.180 | DM] Okay.
 [u1593 | 01:58:41.610-01:58:45.390 | DM] Is a lion tamer, Afraid of a lion.
 [u1594 | 01:58:49.860-01:58:53.220 | Txarro] I have never met a lion tamer.
-[u1595 | 01:58:54.090-01:58:55.440 | Txarro] I have… Meta.
+[u1595 | 01:58:54.090-01:58:55.440 | Txarro] I have… Met a.
 [u1596 | 01:58:55.860-01:58:56.960 | Txarro] lion.
 [u1597 | 01:58:58.800-01:59:00.289 | DM] You've met a lion.
 [u1598 | 01:59:01.660-01:59:02.560 | DM] Wow, man.
@@ -1605,7 +1605,7 @@
 [u1605 | 01:59:39.200-01:59:39.680 | DM] No.
 [u1606 | 01:59:39.680-01:59:41.980 | Txarro] Where are you… where are you from, my friend?
 [u1607 | 01:59:43.930-01:59:47.770 | DM] Whoa, goodness, well, .
-[u1608 | 01:59:48.410-01:59:54.770 | DM] We, we… Grew up, didn't… Jardens!
+[u1608 | 01:59:48.410-01:59:54.770 | DM] We, we… Grew up, didn't… Chardon!
 [u1609 | 01:59:55.440-01:59:58.839 | DM] Yeah, I mean, out… out in the sticks, man!
 [u1610 | 02:00:03.460-02:00:04.310 | Txarro] I've never been…
 [u1611 | 02:00:04.310-02:00:06.120 | DM] Have you heard of Chardon?
@@ -1625,7 +1625,7 @@
 [u1625 | 02:01:07.570-02:01:10.469 | Txarro] The edges of which empire?
 [u1626 | 02:01:10.470-02:01:18.960 | DM] And the second halfling busts out laughing and falls over. Where are you guys from?
 [u1627 | 02:01:20.860-02:01:24.030 | Txarro] Hold on… The Greywash, I told you.
-[u1628 | 02:01:24.660-02:01:26.230 | Txarro] Colin existed.
+[u1628 | 02:01:24.660-02:01:26.230 | Txarro] Tollen existed.
 [u1629 | 02:01:26.990-02:01:30.720 | DM] Yeah, yeah, alright, Tollen, good.
 [u1630 | 02:01:31.610-02:01:35.140 | DM] Seth though, they have a… what do they have, a bridge there?
 [u1631 | 02:01:36.200-02:01:37.689 | Kaito Min] When are these guys from?
@@ -1694,7 +1694,7 @@
 [u1694 | 02:06:03.710-02:06:06.320 | DM] Party's coming apart, but it's not over.
 [u1695 | 02:06:06.980-02:06:08.340 | DM] It's just ending.
 [u1696 | 02:06:16.600-02:06:17.260 | DM] Okay, okay.
-[u1697 | 02:06:17.260-02:06:19.109 | Txarro] You ready to say you were born?
+[u1697 | 02:06:17.260-02:06:19.109 | Txarro] Where did you say you were born?
 [u1698 | 02:06:19.370-02:06:23.340 | DM] I'm gonna ask you… okay, I got a question for you first.
 [u1699 | 02:06:23.750-02:06:24.480 | Txarro] Yeah, yeah.
 [u1700 | 02:06:26.470-02:06:29.940 | DM] is the… We were having…
@@ -1706,7 +1706,7 @@
 [u1706 | 02:06:52.150-02:06:55.070 | DM] respect for dangerous things is what fear is. Like, if…
 [u1707 | 02:06:55.200-02:07:00.650 | DM] He's trying to say, if… if, if you're a lion tamer.
 [u1708 | 02:07:01.330-02:07:04.480 | DM] You shouldn't be afraid of the lion that's gonna eat you.
-[u1709 | 02:07:04.580-02:07:08.449 | DM] Which is ridiculous. You should be terrified of the line, it's gonna eat you.
+[u1709 | 02:07:04.580-02:07:08.449 | DM] Which is ridiculous. You should be terrified of the lion, it's gonna eat you.
 [u1710 | 02:07:08.990-02:07:14.100 | DM] he said, A swords… he thought this was very wise. He says, a swordsman…
 [u1711 | 02:07:14.120-02:07:18.610 | DM] does not fear the blade they carry. They fear every other blade? Like, I…
 [u1712 | 02:07:19.410-02:07:21.089 | DM] I don't think there's a difference.
@@ -1726,10 +1726,10 @@
 [u1726 | 02:07:49.910-02:07:51.459 | Kaito Min] Okay, yeah, yeah, yeah.
 [u1727 | 02:07:54.450-02:07:55.939 | DM] Chardon! I was born in Chardon.
 [u1728 | 02:07:59.320-02:08:00.010 | DM] That…
-[u1729 | 02:08:01.010-02:08:02.019 | Edric] Let me get you your Y.
+[u1729 | 02:08:01.010-02:08:02.019 | Edric] Let me get you your wine.
 [u1730 | 02:08:03.670-02:08:09.799 | DM] Thank you. Okay, that makes up for all the insults. Thank you, thank you. Yep.
 [u1731 | 02:08:10.250-02:08:13.420 | Kaito Min] Apologies for joining this conversation late.
-[u1732 | 02:08:13.420-02:08:14.890 | Txarro] Traveler introduced.
+[u1732 | 02:08:13.420-02:08:14.890 | Txarro] Txarro introduces.
 [u1733 | 02:08:14.980-02:08:20.029 | DM] God, it's a fucking elf! Oh my god! Oh my god! Yeah. Wow!
 [u1734 | 02:08:20.540-02:08:20.910 | Kaito Min] Oh, yeah.
 [u1735 | 02:08:21.280-02:08:22.210 | DM] Wow!
@@ -1740,7 +1740,7 @@
 [u1740 | 02:08:27.310-02:08:28.330 | DM] situation.
 [u1741 | 02:08:28.330-02:08:30.510 | Edric] I'm gonna go and look for some wine.
 [u1742 | 02:08:31.150-02:08:35.019 | Kaito Min] Yeah… Kaito, Kaito kinda,
-[u1743 | 02:08:35.020-02:08:36.029 | Ayveen] I'm in the middle of Edric.
+[u1743 | 02:08:35.020-02:08:36.029 | Ayveen] I'm gonna go with Edric.
 [u1744 | 02:08:36.570-02:08:43.980 | Kaito Min] Kaito smoothly slides his way over, and then, just kind of, like, underneath his robe, pulls out, like, a little flask, and is like…
 [u1745 | 02:08:44.950-02:08:46.170 | DM] Now, here's the thing.
 [u1746 | 02:08:49.120-02:08:52.690 | DM] Hmm. I can guarantee you…
@@ -1804,27 +1804,27 @@
 [u1804 | 02:11:50.430-02:11:54.449 | DM] Maybe we were going to see elves? I don't… I don't remember exactly.
 [u1805 | 02:11:54.990-02:11:56.330 | DM] We were there…
 [u1806 | 02:11:59.510-02:12:01.279 | DM] And then we took our… We took it.
-[u1807 | 02:12:02.280-02:12:03.580 | DM] Thor Alice?
+[u1807 | 02:12:02.280-02:12:03.580 | DM] There are elves?
 [u1808 | 02:12:04.620-02:12:05.750 | DM] Living near Chardon?
 [u1809 | 02:12:07.300-02:12:08.080 | DM] Yeah, right?
 [u1810 | 02:12:11.680-02:12:14.039 | Txarro] Not for hundreds of years.
 [u1811 | 02:12:20.350-02:12:21.040 | DM] What?
 [u1812 | 02:12:23.920-02:12:25.120 | Txarro] After the Great War?
-[u1813 | 02:12:28.600-02:12:29.559 | Txarro] They all laughed.
+[u1813 | 02:12:28.600-02:12:29.559 | Txarro] They all left.
 [u1814 | 02:12:32.480-02:12:35.690 | DM] Great! Wha- first of all, first of all, first of all.
 [u1815 | 02:12:36.040-02:12:38.089 | DM] First of all, I'm gonna give you a piece of advice.
 [u1816 | 02:12:39.430-02:12:40.750 | DM] No war is great.
 [u1817 | 02:12:41.790-02:12:43.560 | DM] No war is great.
 [u1818 | 02:12:43.720-02:12:45.879 | DM] Cheers to that. Cheers to that.
 [u1819 | 02:12:47.100-02:12:48.850 | Kaito Min] On that note, .
-[u1820 | 02:12:49.830-02:12:53.120 | DM] Kaito pops up in the flask, pours out just a tiny shot.
+[u1820 | 02:12:49.830-02:12:53.120 | DM] Kaito pops open the flask, pours out just a tiny shot.
 [u1821 | 02:12:53.320-02:12:57.849 | Kaito Min] Passes it over, pours out a shot for himself for the two halflings.
 [u1822 | 02:12:58.460-02:12:58.950 | DM] Huh?
 [u1823 | 02:13:00.590-02:13:02.939 | DM] They gratefully accept.
 [u1824 | 02:13:03.850-02:13:07.170 | DM] We all throw it back. Just, just a little, just a little, you know, little taste.
 [u1825 | 02:13:07.990-02:13:10.039 | DM] But they left. I mean, it's good, it's good shit.
 [u1826 | 02:13:12.730-02:13:13.889 | DM] What do you mean?
-[u1827 | 02:13:14.820-02:13:15.710 | Txarro] Chamat?
+[u1827 | 02:13:14.820-02:13:15.710 | Txarro] Cha'mutte?
 [u1828 | 02:13:18.740-02:13:23.950 | DM] Chanel? Is that… A friend of yours?
 [u1829 | 02:13:27.200-02:13:29.460 | DM] Yeah, you know.
 [u1830 | 02:13:29.460-02:13:32.430 | Txarro] Txarro kind of sits down next to them.
@@ -1834,9 +1834,9 @@
 [u1834 | 02:13:42.620-02:13:43.889 | DM] Do you.
 [u1835 | 02:13:46.490-02:13:47.200 | DM] Huh.
 [u1836 | 02:13:48.610-02:13:49.290 | DM] Huh.
-[u1837 | 02:13:50.590-02:13:54.209 | DM] Do you mean, the piece of Valandros?
+[u1837 | 02:13:50.590-02:13:54.209 | DM] Do you mean, the Peace of Valandros?
 [u1838 | 02:13:55.440-02:13:59.810 | DM] The end of the wars in the West? Is that what you're talking about? I don't call that a great war.
-[u1839 | 02:13:59.940-02:14:00.699 | DM] Pretty good work.
+[u1839 | 02:13:59.940-02:14:00.699 | DM] Pretty good war.
 [u1840 | 02:14:00.700-02:14:02.669 | Txarro] No, I don't know what that is.
 [u1841 | 02:14:03.050-02:14:04.950 | Kaito Min] Does, Kaito know what that is?
 [u1842 | 02:14:06.530-02:14:09.710 | DM] You can make a… anyone who is in earshot can make a history check.
@@ -1871,7 +1871,7 @@
 [u1871 | 02:16:32.090-02:16:37.149 | Txarro] everybody here has been here for far longer than they think. I want to find another…
 [u1872 | 02:16:37.860-02:16:42.710 | DM] Human or mortal of some kind, probably not an elf.
 [u1873 | 02:16:45.709-02:16:47.549 | DM] Yeah, so…
-[u1874 | 02:16:47.559-02:16:50.639 | Ayveen] Have Edric and I run into anyone on our way to a fine wine?
+[u1874 | 02:16:47.559-02:16:50.639 | Ayveen] Have Edric and I run into anyone on our way to find wine?
 [u1875 | 02:16:53.030-02:16:59.620 | DM] Yes, you see two… Obvious… mortals.
 [u1876 | 02:17:00.260-02:17:09.030 | DM] One of whom is in the library, napping behind a couch, in the space between the couch and the wall.
 [u1877 | 02:17:09.309-02:17:11.579 | DM] Possibly sleeping it off?
@@ -1894,11 +1894,11 @@
 [u1894 | 02:18:39.450-02:18:42.159 | DM] Stuck in their own loops, or like…
 [u1895 | 02:18:42.760-02:18:45.790 | DM] Captive to the moment of the party?
 [u1896 | 02:18:46.350-02:18:48.730 | DM] There's a quality that he's not.
-[u1897 | 02:18:49.150-02:18:50.109 | DM] See you, comp.
+[u1897 | 02:18:49.150-02:18:50.109 | DM] See you come.
 [u1898 | 02:18:51.459-02:18:56.860 | DM] There's a way in which he's… alert differently?
 [u1899 | 02:18:57.219-02:19:02.139 | DM] Maybe he is fey, but you get the impression that it's… No.
 [u1900 | 02:19:08.030-02:19:12.979 | Edric] where is he compared to the bar? Is he, like, in the same room as them?
-[u1901 | 02:19:13.969-02:19:28.809 | DM] So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the sky, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other.
+[u1901 | 02:19:13.969-02:19:28.809 | DM] So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other.
 [u1902 | 02:19:28.809-02:19:34.019 | DM] And there's a big double doors in that room that opens out onto yet another patio on the far side of the house.
 [u1903 | 02:19:34.019-02:19:41.779 | DM] And he's sitting in a chair out there. And he notices you walking into the room with the bar.
 [u1904 | 02:19:42.019-02:19:45.959 | DM] And gives a little, head nod to you, in recognition.
@@ -1961,7 +1961,7 @@
 [u1961 | 02:24:49.120-02:24:49.790 | Ayveen] Hmm.
 [u1962 | 02:24:52.760-02:24:55.540 | Ayveen] Is there a significance of that timing among your people?
 [u1963 | 02:24:55.940-02:24:58.170 | Ayveen] I've not met anyone like you before.
-[u1964 | 02:24:59.750-02:25:01.870 | DM] were Southerners, mostly.
+[u1964 | 02:24:59.750-02:25:01.870 | DM] We’re Southerners, mostly.
 [u1965 | 02:25:05.580-02:25:10.910 | DM] No, it's mostly that I think I have about a month's worth of… Sights to see.
 [u1966 | 02:25:11.780-02:25:13.520 | DM] It's a big city, after all.
 [u1967 | 02:25:18.410-02:25:20.339 | Ayveen] Does it matter that I don't own the home?
@@ -1986,7 +1986,7 @@
 [u1986 | 02:26:50.620-02:26:57.339 | Ayveen] Like, all manner of animals, and… well, not that's a wrong way of saying that, I've got to say that a different way.
 [u1987 | 02:27:00.620-02:27:02.850 | Ayveen] Not everybody knows theirs is a van.
 [u1988 | 02:27:03.300-02:27:07.280 | DM] He occupies himself with, or,
-[u1989 | 02:27:08.170-02:27:14.889 | DM] Has the affectation, at least, of fiddling with his pipe and sprinkling him in fresh tobacco from a pouch on his belt.
+[u1989 | 02:27:08.170-02:27:14.889 | DM] Has the affectation, at least, of fiddling with his pipe and sprinkling in fresh tobacco from a pouch on his belt.
 [u1990 | 02:27:15.800-02:27:19.259 | Ayveen] Oh, that's very thoughtful of you, to cover my blunders.
 [u1991 | 02:27:25.030-02:27:28.830 | Ayveen] I don't think it would matter what you… I don't think it matters what you look like, sir.
 [u1992 | 02:27:30.490-02:27:32.420 | DM] Well, that's very open-minded of you.
@@ -2056,7 +2056,7 @@
 [u2056 | 02:32:19.220-02:32:24.520 | DM] And slips them into his waistcoat pocket. Takes off his spectacles.
 [u2057 | 02:32:25.150-02:32:26.820 | DM] Sits back in his chair.
 [u2058 | 02:32:27.310-02:32:31.370 | DM] Takes a long puff on the pipe that he's smoking from.
-[u2059 | 02:32:31.700-02:32:40.880 | DM] It says, Mmm… this is… This is a delicious story.
+[u2059 | 02:32:31.700-02:32:40.880 | DM] And says, Mmm… this is… This is a delicious story.
 [u2060 | 02:32:41.010-02:32:43.030 | DM] A delicious story.
 [u2061 | 02:32:44.590-02:32:54.029 | DM] I came to the Twilight Kingdom. To the dozen dozen houses…
 [u2062 | 02:32:56.040-02:33:00.180 | DM] Because there are certain things you can only find in Twilight.
@@ -2073,7 +2073,7 @@
 [u2073 | 02:33:54.110-02:33:58.740 | DM] Or arrived here, too, when it was in full swing, before…
 [u2074 | 02:33:59.240-02:34:00.280 | DM] This.
 [u2075 | 02:34:00.430-02:34:02.459 | DM] And he gestures to the sort of…
-[u2076 | 02:34:02.460-02:34:05.680 | DM] Ineffitable feeling of everything coming apart.
+[u2076 | 02:34:02.460-02:34:05.680 | DM] Ineffable feeling of everything coming apart.
 [u2077 | 02:34:11.880-02:34:13.600 | DM] The height of the party.
 [u2078 | 02:34:14.870-02:34:17.609 | DM] The neighbors. The neighbors.
 [u2079 | 02:34:17.870-02:34:22.400 | DM] who lived… One house down the street, at the height of the party.
@@ -2095,7 +2095,7 @@
 [u2095 | 02:35:44.800-02:35:55.040 | DM] This was of no consequence. Every guest brings gifts to his party. Or, he says, chuckling, looking over you, or bribes the guards.
 [u2096 | 02:35:57.730-02:36:01.669 | DM] So next… Thinking that he wanted.
 [u2097 | 02:36:01.670-02:36:14.959 | DM] Inspiration for his revelry, they gave him stories of human revelry, of fireworks like rainbows, above a city made entirely of towers and pyramids.
-[u2098 | 02:36:15.880-02:36:17.280 | DM] of does.
+[u2098 | 02:36:15.880-02:36:17.280 | DM] of those.
 [u2099 | 02:36:19.290-02:36:20.530 | DM] They told him…
 [u2100 | 02:36:21.440-02:36:32.130 | DM] About the 10 days of celebration that followed the Emperor's coronation, and everything they saw there, performers, from the endless ocean and beyond it.
 [u2101 | 02:36:34.810-02:36:36.690 | DM] They told him stories.
@@ -2110,7 +2110,7 @@
 [u2110 | 02:37:35.920-02:37:36.730 | DM] And…
 [u2111 | 02:37:36.830-02:37:38.619 | DM] Spoke the name?
 [u2112 | 02:37:40.730-02:37:43.860 | DM] As it had been all evening long.
-[u2113 | 02:37:45.290-02:37:47.160 | DM] Wide lungs.
+[u2113 | 02:37:45.290-02:37:47.160 | DM] Wide lawns.
 [u2114 | 02:37:47.260-02:37:49.309 | DM] Spread down easy.
 [u2115 | 02:37:49.600-02:37:55.860 | DM] Hanging lanterns welcome you. A party begins, Lord Revel. Beginning.
 [u2116 | 02:37:59.190-02:38:03.210 | DM] But this wizard… Guessed correctly.
@@ -2145,7 +2145,7 @@
 [u2145 | 02:40:41.750-02:40:43.349 | DM] That's our host.
 [u2146 | 02:40:44.600-02:40:46.260 | DM] And that's enough story.
 [u2147 | 02:40:46.280-02:40:50.750 | DM] For me, I had just… one more…
-[u2148 | 02:40:50.800-02:40:52.159 | DM] Bull to smoke.
+[u2148 | 02:40:50.800-02:40:52.159 | DM] Bowl to smoke.
 [u2149 | 02:40:53.060-02:40:56.410 | DM] And then I go on to the next of the kingdoms.
 [u2150 | 02:40:56.940-02:40:58.990 | DM] The next of the houses, I should say.
 [u2151 | 02:41:01.410-02:41:03.989 | DM] And there, he falls, silent.
@@ -2184,7 +2184,7 @@
 [u2184 | 02:44:27.120-02:44:30.909 | Ayveen] So yes, you know our friend, Lord Hulda.
 [u2185 | 02:44:30.910-02:44:42.419 | DM] I did… I tell you, I did not hear the conversation, but I saw the conversation. It was… hilarious.
 [u2186 | 02:44:43.620-02:44:48.890 | DM] You're gonna bully a lord in his own manor that… oh…
-[u2187 | 02:44:52.210-02:44:54.170 | DM] He's lucky he made it up, period.
+[u2187 | 02:44:52.210-02:44:54.170 | DM] He's lucky he made it out, period.
 [u2188 | 02:45:04.710-02:45:07.340 | DM] Hulda sent you?
 [u2189 | 02:45:07.960-02:45:10.720 | DM] To do whatever errand he could not?
 [u2190 | 02:45:13.460-02:45:15.139 | DM] Hmm, not quite.
@@ -2194,7 +2194,7 @@
 [u2194 | 02:45:49.620-02:45:51.910 | DM] What is the errand that he sent you on?
 [u2195 | 02:45:56.820-02:46:01.390 | Ayveen] I would just dish the hard goss of… this Twilight Kingdom.
 [u2196 | 02:46:05.660-02:46:08.790 | Txarro] I already have decent insight.
-[u2197 | 02:46:09.710-02:46:11.579 | Txarro] What's my sense of the sky?
+[u2197 | 02:46:09.710-02:46:11.579 | Txarro] What's my sense of this guy?
 [u2198 | 02:46:12.680-02:46:14.500 | Edric] Actually, I have pretty good insight.
 [u2199 | 02:46:15.440-02:46:17.369 | DM] Y'all can do a round of insight checks.
 [u2200 | 02:46:19.980-02:46:21.430 | Txarro] I mean, I have okay insight.
@@ -2214,7 +2214,7 @@
 [u2214 | 02:46:53.920-02:46:54.600 | DM] Alright.
 [u2215 | 02:46:54.600-02:46:55.320 | Tarek] Yep.
 [u2216 | 02:46:56.420-02:46:59.199 | DM] Edric. Okay, so… so the rest of you…
-[u2217 | 02:47:05.930-02:47:10.180 | DM] I think the rest of you… our.
+[u2217 | 02:47:05.930-02:47:10.180 | DM] I think the rest of you… are.
 [u2218 | 02:47:13.560-02:47:15.829 | DM] Just… taken with…
 [u2219 | 02:47:15.970-02:47:27.739 | DM] Just sort of taken with the strangeness of his story, and don't quite know what to make of it, or how to get a read on him, and that… there's just so much ambiguity.
 [u2220 | 02:47:27.930-02:47:29.190 | DM] Edric.
@@ -2223,7 +2223,7 @@
 [u2223 | 02:47:45.350-02:47:46.260 | DM] he…
 [u2224 | 02:47:47.070-02:47:49.809 | Edric] And then feed that into the, like, I'm watching for.
 [u2225 | 02:47:49.810-02:47:50.170 | DM] Totally.
-[u2226 | 02:47:50.170-02:47:50.770 | Edric] action.
+[u2226 | 02:47:50.170-02:47:50.770 | Edric] reaction.
 [u2227 | 02:47:50.770-02:47:51.840 | DM] No, I love it.
 [u2228 | 02:47:52.630-02:47:54.920 | DM] You place a hand on his shoulder.
 [u2229 | 02:47:55.530-02:47:58.330 | DM] And he turns and looks up at you.
@@ -2264,7 +2264,7 @@
 [u2264 | 02:51:32.250-02:51:35.509 | Txarro] Well, Ayveen has the highest intelligence, I think.
 [u2265 | 02:51:36.070-02:51:37.340 | Ayveen] I guess I do.
 [u2266 | 02:51:39.790-02:51:41.620 | Txarro] Tarek's pretty smart, too.
-[u2267 | 02:51:41.620-02:51:44.559 | Ayveen] decent intelligence. Why didn't I go about and say.
+[u2267 | 02:51:41.620-02:51:44.559 | Ayveen] decent intelligence. Why don't I go up and say.
 [u2268 | 02:51:44.780-02:51:49.289 | Ayveen] It's been helpful to hear the story of the…
 [u2269 | 02:51:50.880-02:51:55.059 | Ayveen] Wizard neighbor and the changing of the nature of the party.
 [u2270 | 02:51:55.760-02:51:57.110 | Ayveen] With the naming.
@@ -2273,7 +2273,7 @@
 [u2273 | 02:52:10.970-02:52:12.050 | DM] Hmm…
 [u2274 | 02:52:16.250-02:52:19.920 | DM] It is the only bargain struck that I know of.
 [u2275 | 02:52:25.720-02:52:26.370 | DM] IQ.
-[u2276 | 02:52:26.370-02:52:30.019 | Ayveen] Air… Not wanting to break a truce.
+[u2276 | 02:52:26.370-02:52:30.019 | Ayveen] Er… Not wanting to break a truce.
 [u2277 | 02:52:30.940-02:52:33.800 | Ayveen] it was… Protecting.
 [u2278 | 02:52:37.750-02:52:39.710 | Ayveen] Those who needed protecting.
 [u2279 | 02:52:40.510-02:52:46.610 | Ayveen] This truce, in fact, seems to be forcing the Lord to withdraw his protection where he does not want to.
@@ -2322,7 +2322,7 @@
 [u2322 | 02:57:27.230-02:57:34.879 | DM] Something unstable, like an unguessed guess in a guessing game, like an unfinished story.
 [u2323 | 02:57:36.020-02:57:38.559 | DM] Like, a third act, which hasn't happened.
 [u2324 | 02:57:44.080-02:57:51.220 | DM] You can't hear it, but you see him stoop slightly to whisper a word in the ear.
-[u2325 | 02:57:51.390-02:57:58.559 | DM] As a human, Who's come up to him just after the clock stops striking zero.
+[u2325 | 02:57:51.390-02:57:58.559 | DM] Of a human, Who's come up to him just after the clock stops striking zero.
 [u2326 | 02:58:00.400-02:58:06.640 | DM] And the human… Nods, and straightens, and hurries out the door.
 [u2327 | 02:58:09.370-02:58:10.570 | DM] The Lord…
 [u2328 | 02:58:11.670-02:58:13.680 | DM] Endless Ending.
@@ -2333,7 +2333,7 @@
 [u2333 | 02:58:30.370-02:58:31.370 | DM] That's great.
 [u2334 | 02:58:31.370-02:58:31.900 | DM] That's so good.
 [u2335 | 02:58:33.760-02:58:34.909 | Edric] How far away is he?
-[u2336 | 02:58:37.090-02:58:42.919 | DM] Maybe it says 70 feet from one… 80 feet from one end of the ballroom to the other?
+[u2336 | 02:58:37.090-02:58:42.919 | DM] Maybe, say, 70 feet from one… 80 feet from one end of the ballroom to the other?
 [u2337 | 02:58:46.230-02:58:47.959 | Tarek] And I assume it's completely clear what
 [u2338 | 02:58:48.250-02:58:50.640 | Tarek] The notion of treaty refers to at this point.
 [u2339 | 02:58:52.180-02:58:52.760 | Txarro] No.
