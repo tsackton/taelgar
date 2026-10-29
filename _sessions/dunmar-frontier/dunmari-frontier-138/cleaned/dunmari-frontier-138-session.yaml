@@ -37,3 +37,839 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-138/sources/dunmar-frontier-ep138-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 4339
+  issues: 0
+  artifacts:
+    original:
+      path: sources/Session138-reconciled.identified.vtt
+      sha256: e8bf4c24776f477637f1a08950d40f42157001d5568d9a46ecc394462b9ca247
+    prepared:
+      path: cleaned/dunmari-frontier-138-source-prepared.md
+      sha256: 18843d308419b41445a610752a67d81727b2859dbe3da1acf9ce6ace0594be52
+    cleaned:
+      path: cleaned/dunmari-frontier-138-source-cleaned.md
+      sha256: afd6bc51139cbf116dad8fec19e2bd37f9ea2cd809708b6ec9f7d8e542187878
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-138-transcript.md
+      sha256: ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75
+  speakerCorrections:
+  - uid: u0035
+    start: 0
+    end: 18
+    speaker: Seeker
+  - uid: u0036
+    start: 0
+    end: 27
+    speaker: Seeker
+  - uid: u0037
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u0038
+    start: 0
+    end: 8
+    speaker: Delwath
+  - uid: u0039
+    start: 0
+    end: 16
+    speaker: Delwath
+  - uid: u0041
+    start: 0
+    end: 37
+    speaker: Delwath
+  - uid: u0044
+    start: 0
+    end: 23
+    speaker: Delwath
+  - uid: u0079
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u0095
+    start: 0
+    end: 8
+    speaker: Seeker
+  - uid: u0101
+    start: 0
+    end: 17
+    speaker: Delwath
+  - uid: u0107
+    start: 0
+    end: 8
+    speaker: Delwath
+  - uid: u0165
+    start: 0
+    end: 7
+    speaker: Seeker
+  - uid: u0197
+    start: 0
+    end: 5
+    speaker: Kenzo
+  - uid: u0217
+    start: 0
+    end: 10
+    speaker: Delwath
+  - uid: u0218
+    start: 0
+    end: 18
+    speaker: Wellby
+  - uid: u0255
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u0341
+    start: 0
+    end: 5
+    speaker: Seeker
+  - uid: u0344
+    start: 0
+    end: 16
+    speaker: Seeker
+  - uid: u0364
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u0406
+    start: 0
+    end: 21
+    speaker: Kenzo
+  - uid: u0495
+    start: 0
+    end: 31
+    speaker: Wellby
+  - uid: u0544
+    start: 0
+    end: 17
+    speaker: Seeker
+  - uid: u0554
+    start: 0
+    end: 33
+    speaker: Wellby
+  - uid: u0598
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u0614
+    start: 0
+    end: 26
+    speaker: Kenzo
+  - uid: u0651
+    start: 0
+    end: 28
+    speaker: Delwath
+  - uid: u0698
+    start: 0
+    end: 25
+    speaker: Kenzo
+  - uid: u0699
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u0778
+    start: 0
+    end: 20
+    speaker: Delwath
+  - uid: u0796
+    start: 0
+    end: 50
+    speaker: Seeker
+  - uid: u0877
+    start: 0
+    end: 15
+    speaker: Seeker
+  - uid: u1293
+    start: 0
+    end: 19
+    speaker: Delwath
+  - uid: u1347
+    start: 0
+    end: 8
+    speaker: Kenzo
+  - uid: u1348
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u1393
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u1394
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u1395
+    start: 0
+    end: 9
+    speaker: Delwath
+  - uid: u1419
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u1420
+    start: 0
+    end: 2
+    speaker: Delwath
+  - uid: u1431
+    start: 0
+    end: 24
+    speaker: Delwath
+  - uid: u1435
+    start: 0
+    end: 14
+    speaker: DM
+  - uid: u1436
+    start: 0
+    end: 2
+    speaker: DM
+  - uid: u1513
+    start: 0
+    end: 18
+    speaker: Kenzo
+  - uid: u1524
+    start: 0
+    end: 4
+    speaker: Seeker
+  - uid: u1525
+    start: 0
+    end: 21
+    speaker: Seeker
+  - uid: u1554
+    start: 0
+    end: 11
+    speaker: Delwath
+  - uid: u1604
+    start: 0
+    end: 5
+    speaker: Delwath
+  - uid: u1606
+    start: 0
+    end: 5
+    speaker: Delwath
+  - uid: u1680
+    start: 0
+    end: 18
+    speaker: Seeker
+  - uid: u1682
+    start: 0
+    end: 12
+    speaker: Seeker
+  - uid: u1692
+    start: 0
+    end: 5
+    speaker: Kenzo
+  - uid: u1693
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u1698
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u1699
+    start: 0
+    end: 21
+    speaker: Seeker
+  - uid: u1701
+    start: 0
+    end: 6
+    speaker: Seeker
+  - uid: u1877
+    start: 0
+    end: 28
+    speaker: Delwath
+  - uid: u1927
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u1962
+    start: 0
+    end: 3
+    speaker: Wellby
+  - uid: u2013
+    start: 0
+    end: 5
+    speaker: Delwath
+  - uid: u2023
+    start: 0
+    end: 9
+    speaker: Delwath
+  - uid: u2038
+    start: 0
+    end: 64
+    speaker: DM
+  - uid: u2071
+    start: 0
+    end: 14
+    speaker: Seeker
+  - uid: u2072
+    start: 0
+    end: 19
+    speaker: Seeker
+  - uid: u2073
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u2085
+    start: 0
+    end: 31
+    speaker: Seeker
+  - uid: u2104
+    start: 0
+    end: 7
+    speaker: Seeker
+  - uid: u2167
+    start: 0
+    end: 8
+    speaker: Seeker
+  - uid: u2194
+    start: 0
+    end: 54
+    speaker: Delwath
+  - uid: u2222
+    start: 0
+    end: 38
+    speaker: Seeker
+  - uid: u2341
+    start: 0
+    end: 33
+    speaker: DM
+  - uid: u2417
+    start: 0
+    end: 8
+    speaker: Delwath
+  - uid: u2825
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2866
+    start: 0
+    end: 30
+    speaker: Delwath
+  - uid: u2956
+    start: 0
+    end: 23
+    speaker: Delwath
+  - uid: u2998
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u3005
+    start: 0
+    end: 39
+    speaker: DM
+  - uid: u3032
+    start: 0
+    end: 11
+    speaker: Delwath
+  - uid: u3051
+    start: 0
+    end: 21
+    speaker: Delwath
+  - uid: u3074
+    start: 0
+    end: 14
+    speaker: Seeker
+  - uid: u3083
+    start: 0
+    end: 18
+    speaker: Seeker
+  - uid: u3085
+    start: 0
+    end: 29
+    speaker: Seeker
+  - uid: u3088
+    start: 0
+    end: 5
+    speaker: Seeker
+  - uid: u3090
+    start: 0
+    end: 10
+    speaker: Seeker
+  - uid: u3094
+    start: 0
+    end: 13
+    speaker: Seeker
+  - uid: u3096
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u3102
+    start: 0
+    end: 21
+    speaker: Seeker
+  - uid: u3110
+    start: 0
+    end: 34
+    speaker: DM
+  - uid: u3120
+    start: 0
+    end: 40
+    speaker: Seeker
+  - uid: u3125
+    start: 0
+    end: 5
+    speaker: Seeker
+  - uid: u3127
+    start: 0
+    end: 35
+    speaker: DM
+  - uid: u3128
+    start: 0
+    end: 31
+    speaker: Seeker
+  - uid: u3131
+    start: 0
+    end: 14
+    speaker: Seeker
+  - uid: u3133
+    start: 0
+    end: 13
+    speaker: Seeker
+  - uid: u3138
+    start: 0
+    end: 13
+    speaker: Seeker
+  - uid: u3150
+    start: 0
+    end: 12
+    speaker: Kenzo
+  - uid: u2502
+    start: 0
+    end: 33
+    speaker: Seeker
+  - uid: u2511
+    start: 0
+    end: 21
+    speaker: Delwath
+  - uid: u2528
+    start: 0
+    end: 8
+    speaker: Delwath
+  - uid: u2551
+    start: 0
+    end: 50
+    speaker: Seeker
+  - uid: u2567
+    start: 0
+    end: 30
+    speaker: Seeker
+  - uid: u2569
+    start: 0
+    end: 25
+    speaker: Seeker
+  - uid: u2575
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u2596
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u2615
+    start: 0
+    end: 38
+    speaker: Delwath
+  - uid: u2622
+    start: 0
+    end: 16
+    speaker: Delwath
+  - uid: u2626
+    start: 0
+    end: 38
+    speaker: Kenzo
+  - uid: u2651
+    start: 0
+    end: 28
+    speaker: Seeker
+  - uid: u2656
+    start: 0
+    end: 16
+    speaker: Seeker
+  - uid: u2668
+    start: 0
+    end: 5
+    speaker: Seeker
+  - uid: u2669
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u2670
+    start: 0
+    end: 21
+    speaker: Seeker
+  - uid: u2676
+    start: 0
+    end: 21
+    speaker: Seeker
+  - uid: u2693
+    start: 0
+    end: 15
+    speaker: Seeker
+  - uid: u2701
+    start: 0
+    end: 18
+    speaker: Seeker
+  - uid: u2723
+    start: 0
+    end: 69
+    speaker: DM
+  - uid: u2725
+    start: 0
+    end: 17
+    speaker: Kenzo
+  - uid: u2737
+    start: 0
+    end: 7
+    speaker: Wellby
+  - uid: u2738
+    start: 0
+    end: 16
+    speaker: Wellby
+  - uid: u2739
+    start: 0
+    end: 7
+    speaker: Wellby
+  - uid: u2746
+    start: 0
+    end: 3
+    speaker: Wellby
+  - uid: u2765
+    start: 0
+    end: 10
+    speaker: Wellby
+  - uid: u3197
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u3199
+    start: 0
+    end: 3
+    speaker: Wellby
+  - uid: u3215
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u3228
+    start: 0
+    end: 16
+    speaker: Kenzo
+  - uid: u3231
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u3232
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u3234
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u3249
+    start: 0
+    end: 24
+    speaker: Kenzo
+  - uid: u3258
+    start: 0
+    end: 9
+    speaker: Kenzo
+  - uid: u3293
+    start: 0
+    end: 3
+    speaker: DM
+  - uid: u3318
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u3324
+    start: 0
+    end: 39
+    speaker: Kenzo
+  - uid: u3336
+    start: 0
+    end: 12
+    speaker: Seeker
+  - uid: u3337
+    start: 0
+    end: 40
+    speaker: DM
+  - uid: u3374
+    start: 0
+    end: 34
+    speaker: Seeker
+  - uid: u3375
+    start: 0
+    end: 24
+    speaker: Seeker
+  - uid: u3389
+    start: 0
+    end: 57
+    speaker: Kenzo
+  - uid: u3428
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u3429
+    start: 0
+    end: 8
+    speaker: Delwath
+  - uid: u3430
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u3431
+    start: 0
+    end: 12
+    speaker: Delwath
+  - uid: u3452
+    start: 0
+    end: 22
+    speaker: Kenzo
+  - uid: u3462
+    start: 0
+    end: 24
+    speaker: DM
+  - uid: u3465
+    start: 0
+    end: 26
+    speaker: DM
+  - uid: u3472
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u3476
+    start: 0
+    end: 33
+    speaker: DM
+  - uid: u3481
+    start: 0
+    end: 3
+    speaker: DM
+  - uid: u3486
+    start: 0
+    end: 20
+    speaker: DM
+  - uid: u3502
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u3512
+    start: 0
+    end: 32
+    speaker: DM
+  - uid: u3513
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u3530
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u3533
+    start: 0
+    end: 26
+    speaker: Delwath
+  - uid: u3537
+    start: 0
+    end: 15
+    speaker: Delwath
+  - uid: u3538
+    start: 0
+    end: 4
+    speaker: Delwath
+  - uid: u3543
+    start: 0
+    end: 33
+    speaker: Delwath
+  - uid: u3545
+    start: 0
+    end: 17
+    speaker: Delwath
+  - uid: u3549
+    start: 0
+    end: 28
+    speaker: DM
+  - uid: u3551
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u3556
+    start: 0
+    end: 8
+    speaker: Delwath
+  - uid: u3613
+    start: 0
+    end: 19
+    speaker: Wellby
+  - uid: u3623
+    start: 0
+    end: 15
+    speaker: Delwath
+  - uid: u3634
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u3635
+    start: 0
+    end: 4
+    speaker: Delwath
+  - uid: u3649
+    start: 0
+    end: 5
+    speaker: Seeker
+  - uid: u3675
+    start: 0
+    end: 9
+    speaker: Seeker
+  - uid: u3691
+    start: 0
+    end: 21
+    speaker: DM
+  - uid: u3714
+    start: 0
+    end: 22
+    speaker: Delwath
+  - uid: u3727
+    start: 0
+    end: 19
+    speaker: Delwath
+  - uid: u3786
+    start: 0
+    end: 52
+    speaker: Delwath
+  - uid: u3817
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u3866
+    start: 0
+    end: 29
+    speaker: Kenzo
+  - uid: u3885
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u3888
+    start: 0
+    end: 27
+    speaker: Kenzo
+  - uid: u3975
+    start: 0
+    end: 3
+    speaker: Wellby
+  - uid: u3992
+    start: 0
+    end: 27
+    speaker: Kenzo
+  - uid: u4112
+    start: 0
+    end: 18
+    speaker: Kenzo
+  - uid: u4119
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u4121
+    start: 0
+    end: 9
+    speaker: Kenzo
+  - uid: u4125
+    start: 0
+    end: 41
+    speaker: Seeker
+  - uid: u4129
+    start: 0
+    end: 19
+    speaker: Seeker
+  - uid: u0918
+    start: 0
+    end: 5
+    speaker: Delwath
+  - uid: u0947
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u0952
+    start: 0
+    end: 13
+    speaker: Delwath
+  - uid: u0953
+    start: 0
+    end: 49
+    speaker: DM
+  - uid: u0954
+    start: 0
+    end: 6
+    speaker: Delwath
+  - uid: u1003
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u1008
+    start: 0
+    end: 39
+    speaker: DM
+  - uid: u1009
+    start: 0
+    end: 14
+    speaker: Delwath
+  - uid: u1029
+    start: 0
+    end: 6
+    speaker: Seeker
+  - uid: u1037
+    start: 0
+    end: 15
+    speaker: Delwath
+  - uid: u1066
+    start: 0
+    end: 53
+    speaker: Seeker
+  - uid: u1138
+    start: 0
+    end: 14
+    speaker: Delwath
+  - uid: u1142
+    start: 0
+    end: 10
+    speaker: Kenzo
+  - uid: u1143
+    start: 0
+    end: 15
+    speaker: Kenzo
+  - uid: u4172
+    start: 0
+    end: 38
+    speaker: Kenzo
+  - uid: u4204
+    start: 0
+    end: 4
+    speaker: Seeker
+  - uid: u4213
+    start: 0
+    end: 24
+    speaker: Wellby
+  - uid: u4278
+    start: 0
+    end: 59
+    speaker: DM
+  - uid: u4281
+    start: 0
+    end: 67
+    speaker: DM
+  - uid: u4282
+    start: 0
+    end: 57
+    speaker: DM
+  - uid: u4285
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u4292
+    start: 0
+    end: 71
+    speaker: DM
