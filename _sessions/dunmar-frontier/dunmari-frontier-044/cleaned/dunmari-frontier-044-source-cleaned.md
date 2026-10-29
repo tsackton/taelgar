@@ -14,7 +14,7 @@
 [u0014 | 00:00:48.990-00:00:49.830 | DM] As we.
 [u0015 | 00:00:50.760-00:00:56.580 | DM] begin our adventure tonight, a camera pans over a group of five adventurers on the road.
 [u0016 | 00:00:58.470-00:01:03.450 | DM] surrounded by a pair of dead wyverns in the midst of an escalating confrontation.
-[u0017 | 00:01:04.530-00:01:11.850 | DM] The rolling grasslands have a comprehensive stretching all directions, forest trees dotting land, the heat of the morning vanishing in the afternoon.
+[u0017 | 00:01:04.530-00:01:11.850 | DM] The rolling grasslands of the Copper Hills stretching all directions, forest trees dotting land, the heat of the morning vanishing in the afternoon.
 [u0018 | 00:01:14.040-00:01:19.200 | DM] Our adventurers have traveled for the past five days towards Darba following rumors of treasure.
 [u0019 | 00:01:20.790-00:01:24.990 | DM] On this road, the rumors of danger grew: bandits in the Copper Hills, a dragon.
 [u0020 | 00:01:26.940-00:01:33.750 | DM] The adventurers avoided battle with the bandits rumored to be making trouble in these parts and proceeded cautiously, alert for signs of trouble.
@@ -80,7 +80,7 @@
 [u0080 | 00:07:50.040-00:07:50.310 | Unknown] well.
 [u0081 | 00:07:52.320-00:07:53.850 | Wellby] Actually, also a mechanical question.
 [u0082 | 00:07:54.390-00:07:55.980 | Wellby] Yeah, Seeker.
-[u0083 | 00:07:57.360-00:07:59.700 | Wellby] {{That a term so this test that you exist}}.
+[u0083 | 00:07:57.360-00:07:59.700 | Wellby] Can Seeker tell that a charm spell was cast?
 [u0084 | 00:08:01.290-00:08:07.380 | DM] Ah, given that you're a relatively experienced magic user, I would say yes.
 [u0085 | 00:08:08.460-00:08:09.480 | Wellby] So, you know that might.
 [u0086 | 00:08:09.540-00:08:11.970 | Wellby] change, not to change your actions, but.
@@ -571,7 +571,7 @@
 [u0571 | 00:41:52.860-00:41:53.670 | Delwath] Kadmos.
 [u0572 | 00:41:56.190-00:41:58.740 | Delwath] My companion's friend here, Johar is.
 [u0573 | 00:42:00.570-00:42:02.400 | Delwath] Bringing important messages to.
-[u0574 | 00:42:06.480-00:42:07.860 | Delwath] {{US and}}.
+[u0574 | 00:42:06.480-00:42:07.860 | Delwath] Karnas.
 [u0575 | 00:42:08.970-00:42:09.870 | Delwath] There was some.
 [u0576 | 00:42:12.030-00:42:14.850 | Delwath] hard to know what that will bring, but I do not expect we will stay.
 [u0577 | 00:42:14.850-00:42:15.060 | Seeker] well.
@@ -591,7 +591,7 @@
 [u0591 | 00:43:25.980-00:43:29.520 | DM] Ancient creature of chaotic evil.
 [u0592 | 00:43:30.960-00:43:31.860 | DM] I'm sure.
 [u0593 | 00:43:33.600-00:43:34.560 | Kenzo] Who's gonna talk right now, what?
-[u0594 | 00:43:36.390-00:43:39.780 | DM] {{She accumulated is truly safe}}.
+[u0594 | 00:43:36.390-00:43:39.780 | DM] Nothing she accumulated is truly safe.
 [u0595 | 00:43:42.000-00:43:42.900 | Kenzo] Who's talking right now?
 [u0596 | 00:43:43.230-00:43:44.700 | DM] Spellcaster says, Kadmos.
 [u0597 | 00:43:44.760-00:43:45.090 | Unknown] yeah.
@@ -803,7 +803,7 @@
 [u0803 | 00:59:46.290-00:59:56.730 | Kenzo] Kenzo just looks at all of the Chardonians. So just to be clear, all of you are okay with your mage here charming our whole party? You're all okay with this?
 [u0804 | 00:59:58.320-01:00:12.030 | Kenzo] Like, and Kenzo like one by one is making eye contact. Actually, I'm going to soul sight and just see, like, if, like, are they like yeah totally, we have Chardonians rule, or do any of them actually have like a slight like oh, like this, I don't really like what Kadmos, yeah.
 [u0805 | 01:00:12.360-01:00:15.030 | DM] Make an Insight check with advantage.
-[u0806 | 01:00:15.690-01:00:17.100 | Riswynn] {{him Father so setting}} Hektor.
+[u0806 | 01:00:15.690-01:00:17.100 | Riswynn] him Father soul-sighting Hektor.
 [u0807 | 01:00:17.940-01:00:18.240 | Unknown] yeah.
 [u0808 | 01:00:20.850-01:00:21.360 | Delwath] I just.
 [u0809 | 01:00:23.460-01:00:26.550 | Delwath] Antonia, you must understand my companions.
@@ -1014,7 +1014,7 @@
 [u1014 | 01:16:53.670-01:16:59.520 | Wellby] I mean maps to the for where what's his name died maps through the maze.
 [u1015 | 01:17:02.370-01:17:04.980 | Wellby] maps enough for a dozen expeditions.
 [u1016 | 01:17:05.280-01:17:09.120 | Wellby] To the ruins of Eastern Dunmar that not even the humans have into situations.
-[u1017 | 01:17:10.230-01:17:13.860 | Seeker] {{Is that they will fit your feel free to friend arcas}}.
+[u1017 | 01:17:10.230-01:17:13.860 | Seeker] Feel free to visit our friend Arcus.
 [u1018 | 01:17:15.900-01:17:17.310 | Seeker] Now, entombed.
 [u1019 | 01:17:19.080-01:17:20.790 | Wellby] don't know much about academics.
 [u1020 | 01:17:22.470-01:17:27.720 | Wellby] But I know that sometimes the promise of future rewards is worth more.

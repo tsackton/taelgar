@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 45
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-045-source-cleaned.md
 
 ## Transcript
@@ -23,8 +23,8 @@ DM: I don't know what just happened there.
 %% u0006:0-88 %%
 Kenzo: You're about to reveal to us the secrets of the Society of the Open Scroll and then you.
 
-%% u0007:0-44 %%
-Seeker: Think the [garbled] is working for.
+%% u0007:0-43 %%
+Seeker: Think the [garbled] Grash is working for.
 
 %% u0008:0-27 %%
 Kenzo: Yeah here is the org chart.
@@ -263,8 +263,8 @@ Kenzo: Well Riswynn is not here right now, but it doesn't work here you're askin
 %% u0117:0-60, u0118:0-34 %%
 Kenzo: I mean you guys really want to kill it I'll help you, but I don't see the reason to right now.
 
-%% u0119:0-69 %%
-Wellby: We should probably {{live with it, and so you know it's killing me}}.
+%% u0119:0-62 %%
+Wellby: We should probably leave it until we know it's killing people.
 
 %% u0120:0-67 %%
 Kenzo: I'm sure that's the goal right now, Delwath what do you want to do?
@@ -1448,8 +1448,8 @@ Unknown: Darba.
 %% u0714:0-31, u0715:0-21 %%
 Delwath: I'll give whatever description description, we have.
 
-%% u0716:0-52, u0717:0-30, u0718:0-78, u0719:0-33, u0720:0-39 %%
-DM: Was a while ago that he passed through, though. Maybe— maybe two months ago, almost. {{I think just didn't speak to them, I think, just done Marty ironed up off}} before crossing the Copper Hills. They didn't continue to Darba with him.
+%% u0716:0-52, u0717:0-30, u0718:0-66, u0719:0-33, u0720:0-39 %%
+DM: Was a while ago that he passed through, though. Maybe— maybe two months ago, almost. I think just didn't speak to them, I think, just Dunmari hired up before crossing the Copper Hills. They didn't continue to Darba with him.
 
 %% u0721:0-10, u0722:0-36, u0723:0-17 %%
 Delwath: Any other chardonians passed through recently last couple days?
