@@ -40,3 +40,99 @@ participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-005/cleaned/into-the-chasm-005-source-prepared.md
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-005/cleaned/into-the-chasm-005-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2850
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20260116-015305_Recording.transcript.vtt
+      sha256: bc9b6babf7f7d57570a4994d369e03c037a1b48d075fc246a33441363b753ca5
+    prepared:
+      path: cleaned/into-the-chasm-005-source-prepared.md
+      sha256: 377795d130dc2386002b7df80e20bbde08aef5578a38c3e546b6d6fff3343a76
+    cleaned:
+      path: cleaned/into-the-chasm-005-source-cleaned.md
+      sha256: d3c48777f3271a49e5ba50d32a8f06502242226fdfcf1ba0597c399edf77812f
+    polishedMarkdown:
+      path: cleaned/into-the-chasm-005-transcript.md
+      sha256: 79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b
+  speakerCorrections:
+  - uid: u0089
+    start: 0
+    end: 119
+    speaker: DM
+  - uid: u0858
+    start: 23
+    end: 58
+    speaker: Jrain
+  - uid: u1272
+    start: 0
+    end: 47
+    speaker: Jrain
+  - uid: u1362
+    start: 0
+    end: 21
+    speaker: Justas
+  - uid: u0573
+    start: 0
+    end: 48
+    speaker: Eolo
+  - uid: u0573
+    start: 48
+    end: 80
+    speaker: DM
+  - uid: u0600
+    start: 0
+    end: 36
+    speaker: Ekko
+  - uid: u1116
+    start: 5
+    end: 39
+    speaker: Justas
+  - uid: u1166
+    start: 0
+    end: 30
+    speaker: Justas
+  - uid: u1084
+    start: 19
+    end: 58
+    speaker: Finnan
+  - uid: u1667
+    start: 0
+    end: 101
+    speaker: DM
+  - uid: u1748
+    start: 0
+    end: 53
+    speaker: Ekko
+  - uid: u1842
+    start: 0
+    end: 84
+    speaker: Eolo
+  - uid: u2000
+    start: 0
+    end: 46
+    speaker: Ekko
+  - uid: u2206
+    start: 0
+    end: 69
+    speaker: Jrain
+  - uid: u2454
+    start: 0
+    end: 25
+    speaker: Eolo
+  - uid: u2463
+    start: 179
+    end: 227
+    speaker: Finnan
+  - uid: u0729
+    start: 0
+    end: 72
+    speaker: Eolo
+  - uid: u0820
+    start: 0
+    end: 28
+    speaker: Eolo
