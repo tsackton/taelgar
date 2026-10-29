@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 66
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-066-source-cleaned.md
 
 ## Transcript
@@ -173,8 +173,8 @@ Wellby: Well, maybe there's some way at the entrance itself to disable, destroy 
 %% u0228:0-7 %%
 Unknown: Closed.
 
-%% u0229:0-13, u0230:0-3, u0231:0-80, u0232:0-18, u0233:0-52, u0234:0-92, u0235:0-30, u0236:0-14, u0237:0-18, u0238:0-16 %%
-DM: Perhaps. Yes. Ah, one of the one of the the the Kenku tinkerer guy kind of steps forward and says: I must ask. We are extremely lucky that you came. What brings you here? Such a unusual collection of people? You—he looks over it—Shoal, I can understand coming to find your people, I guess, but {{Center and}} a wizard of the of a strange group.
+%% u0229:0-13, u0230:0-3, u0231:0-80, u0232:0-18, u0233:0-52, u0234:0-92, u0235:0-30, u0236:0-10, u0237:0-18, u0238:0-16 %%
+DM: Perhaps. Yes. Ah, one of the one of the the the Kenku tinkerer guy kind of steps forward and says: I must ask. We are extremely lucky that you came. What brings you here? Such a unusual collection of people? You—he looks over it—Shoal, I can understand coming to find your people, I guess, but [garbled] a wizard of the of a strange group.
 
 %% u0239:0-28, u0240:0-16, u0241:0-3 %%
 DM: I am fortunate, indeed, that he found us. But why?
@@ -434,8 +434,8 @@ DM: Food, water, maps. Ah, Resenna draws a map for you that points you in the di
 %% u0529:0-3, u0530:0-25, u0531:0-64, u0532:0-30, u0533:0-3, u0534:0-87, u0535:0-88, u0536:0-141, u0537:0-34, u0538:0-125, u0539:0-41 %%
 DM: Um, so it's a you know It's a October into—no, you know you're leaving the Vermillion Isles in say, the last week in October, and although you're reasonably far south, and there's a warm current that comes up from the uh from even further south, so the Vermillion Isles are still warm and dry. In November, as you begin to sail north, you you you're sort of cutting across the prevailing winds. You sort of tack out to sea for a while for the first four or five days of your journey, and as you get as you head further north, occasionally catching glimpses of other islands in this long island chain that runs three thousand miles from north to south.
 
-%% u0540:0-72, u0541:0-37, u0542:0-104, u0543:0-75, u0544:0-20, u0545:0-65, u0546:0-12, u0547:0-23, u0548:0-60, u0549:0-63 %%
-DM: The weather turns, and you are, you know, you get to the sort of bitter, occasional bitter cold nights, as the you know, cold winds come out of the the {{earth}} in this huge expanse of dry polar land to your north. The days are still sunny, though, and the journey is fairly pleasant as you as you pass there's, you know, the occasional school of dolphins dancing on your prow. You know the flying fish. There's uh the shadow of a giant some sort of massively huge, manta ray far below, and the depths like forty foot across, or something.
+%% u0540:0-72, u0541:0-37, u0542:0-99, u0543:0-75, u0544:0-20, u0545:0-65, u0546:0-12, u0547:0-23, u0548:0-60, u0549:0-63 %%
+DM: The weather turns, and you are, you know, you get to the sort of bitter, occasional bitter cold nights, as the you know, cold winds come out of the the Ursk in this huge expanse of dry polar land to your north. The days are still sunny, though, and the journey is fairly pleasant as you as you pass there's, you know, the occasional school of dolphins dancing on your prow. You know the flying fish. There's uh the shadow of a giant some sort of massively huge, manta ray far below, and the depths like forty foot across, or something.
 
 %% u0550:0-3, u0551:0-11, u0552:0-9, u0553:0-2, u0554:0-72, u0555:0-3, u0556:0-86, u0557:0-125, u0558:0-7, u0559:0-114, u0560:0-39, u0561:0-41 %%
 DM: Um, you pass by an island of just densely wooded with these incredibly tall—they like tightly packed ah, coastal pines, maybe fifty hundred feet tall, but just densely packed like a maze. Um, and as you set anchor offshore of that island at night you can see little lights twinkling, drifting through the forests. Um, of what it's hard to say, because there's not enough space for it to be people moving there. There doesn't seem to be any cities or civilizations on this island. Um, just lights moving through the woods.
@@ -1061,8 +1061,8 @@ Shoal: I mean doesn't sound like anything's coming right now.
 %% u1135:0-44 %%
 Wellby: I think we should rest and just go in fresh.
 
-%% u1136:0-39 %%
-Alimash: Alimash takes off {{office}} and enjoys.
+%% u1136:0-34 %%
+Alimash: Alimash takes off armor and enjoys.
 
 %% u1137:0-20 %%
 Shoal: A refreshing breeze.
@@ -1559,8 +1559,8 @@ Wellby: I loudly stomp walking away so he knows I'm not at the door. Get out of 
 %% u1482:0-56, u1483:0-106, u1484:0-48, u1485:0-40, u1486:0-3, u1487:0-18, u1488:0-129, u1489:0-29, u1490:0-3 %%
 DM: Um the door like slowly creaks open, and you see this um like middle-aged man, you know, wearing sort of plain um like a plain black tunic and and leggings um like unshaven, unkempt hair like looks like he hasn't—smells like he hasn't bathed in a month. Um, ah, you know, like sort of brown brownish dark brown hair, but it's like just completely wild. It's got like a bushy beard that's out of control um, and kind of wide-eyed and and uh.
 
-%% u1491:0-192, u1492:0-23 %%
-DM: Exhausted, looking like bags under his eyes. Um, peeks out from the door. Um sees, sees you, and and and immediately like points at the shiniest object which is Shoal's {{scholarship}} is like, “Get it out! Get it out!”
+%% u1491:0-183, u1492:0-23 %%
+DM: Exhausted, looking like bags under his eyes. Um, peeks out from the door. Um sees, sees you, and and and immediately like points at the shiniest object which is Shoal's glaive is like, “Get it out! Get it out!”
 
 %% u1493:0-77 %%
 Shoal: I mean It's fine, man, and I like hold it up to my face, and nothing happens.
@@ -3371,8 +3371,8 @@ Unknown: Well shit.
 %% u2958:0-60 %%
 Alimash: Some of my other character just woke up and feels unsettled.
 
-%% u2959:0-87, u2960:0-44 %%
-Wellby: Hold on! Out of character, Tim. Do we see it? Agata or {{a sandwich}} riding that thing, like. Is it known that Agata was its master?
+%% u2959:0-85, u2960:0-44 %%
+Wellby: Hold on! Out of character, Tim. Do we see it? Agata or a sand witch riding that thing, like. Is it known that Agata was its master?
 
 %% u2961:0-39 %%
 DM: You never! You never saw Agata ride it?

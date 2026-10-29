@@ -1075,7 +1075,7 @@
 [u1075 | 01:20:15.460-01:20:21.020 | Kenzo] No, just the corpse looks very different in death than wait. You talk to dead people.
 [u1076 | 01:20:23.130-01:20:24.440 | Seeker] can you?
 [u1077 | 01:20:25.480-01:20:28.260 | Wellby] We have a we can talk to one dead person right?
-[u1078 | 01:20:28.300-01:20:30.010 | Kenzo] {{Find out worth my spending}} on this guy.
+[u1078 | 01:20:28.300-01:20:30.010 | Kenzo] Is it worth my spending on this guy.
 [u1079 | 01:20:30.110-01:20:31.100 | Seeker] You?
 [u1080 | 01:20:31.130-01:20:31.960 | Wellby] Yeah.
 [u1081 | 01:20:32.030-01:20:34.760 | Seeker] So I have see a scroll of speak with dead
@@ -1338,7 +1338,7 @@
 [u1338 | 01:42:03.220-01:42:05.640 | DM] but well, I am sure that
 [u1339 | 01:42:06.740-01:42:09.310 | DM] we will not be attacked from behind
 [u1340 | 01:42:10.960-01:42:12.840 | DM] by the wizards of Chardon
-[u1341 | 01:42:14.030-01:42:16.190 | DM] in league or not, with {{C.}}
+[u1341 | 01:42:14.030-01:42:16.190 | DM] in league or not, with Karnas
 [u1342 | 01:42:18.010-01:42:19.700 | Kenzo] Alesh.
 [u1343 | 01:42:19.810-01:42:27.550 | Kenzo] I believe you are wise to be wary of the Chardonian mages. This is prudent.
 [u1344 | 01:42:30.370-01:42:31.410 | Kenzo] however.
@@ -1463,9 +1463,9 @@
 [u1463 | 01:52:49.560-01:52:54.280 | DM] my emissaries have spoken to the Temple priests there?
 [u1464 | 01:53:08.400-01:53:09.140 | DM] And
 [u1465 | 01:53:10.190-01:53:14.320 | DM] Karnas, for all his flaws
-[u1466 | 01:53:16.950-01:53:17.930 | DM] {{prized}}
-[u1467 | 01:53:19.000-01:53:20.030 | DM] {{doubt}}
-[u1468 | 01:53:21.100-01:53:22.400 | DM] {{on weakness}}.
+[u1466 | 01:53:16.950-01:53:17.930 | DM] pride,
+[u1467 | 01:53:19.000-01:53:20.030 | DM] doubt
+[u1468 | 01:53:21.100-01:53:22.400 | DM] and weakness.
 [u1469 | 01:53:24.980-01:53:27.240 | DM] He has always been close to Sonkar.
 [u1470 | 01:53:30.650-01:53:33.770 | DM] He will not fight on her holy day.
 [u1471 | 01:53:39.050-01:53:41.290 | DM] the month of atonement and renewal.
@@ -1546,7 +1546,7 @@
 [u1546 | 02:00:06.540-02:00:08.950 | DM] overlordship of our land.
 [u1547 | 02:00:12.430-02:00:13.440 | DM] or
 [u1548 | 02:00:16.380-02:00:20.840 | DM] our theories about the corruption in the heart of the Empire are correct.
-[u1549 | 02:00:23.550-02:00:33.280 | DM] They will {{fight the old parks}}. I do not think you want Chardonian Mages lingering in Tokra? If there is an orc army charging from the West, I certainly don't.
+[u1549 | 02:00:23.550-02:00:33.280 | DM] They will fight for the orcs. I do not think you want Chardonian Mages lingering in Tokra? If there is an orc army charging from the West, I certainly don't.
 [u1550 | 02:00:33.470-02:00:34.810 | Kenzo] How are you going to move them
 [u1551 | 02:00:40.150-02:00:43.380 | DM] 3,000 cavalry can stop 50 mages.
 [u1552 | 02:00:44.670-02:00:46.640 | DM] and we have the gods on our side.

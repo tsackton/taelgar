@@ -1319,7 +1319,7 @@
 [u1319 | 01:24:56.130-01:24:58.429 | Caulaus] Cloudspinner was the queen of this realm
 [u1320 | 01:24:58.460-01:24:59.670 | Unknown] many years ago.
 [u1321 | 01:25:01.580-01:25:04.120 | Wellby] Wasn't Typhina the queen of this?
-[u1322 | 01:25:05.330-01:25:07.279 | Caulaus] No, I was a guardian.
+[u1322 | 01:25:05.330-01:25:07.279 | Caulaus] No, she was a guardian.
 [u1323 | 01:25:07.490-01:25:09.980 | Caulaus] one of the Cloudspinner's
 [u1324 | 01:25:10.520-01:25:11.910 | Caulaus] advisors and
 [u1325 | 01:25:11.960-01:25:13.760 | Caulaus] courtiers, but not the Queen

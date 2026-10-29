@@ -984,7 +984,7 @@
 [u0984 | 01:30:17.850-01:30:20.340 | DM] ever since I first
 [u0985 | 01:30:21.400-01:30:25.800 | DM] heard the stories of of that
 [u0986 | 01:30:26.110-01:30:29.740 | DM] now I can't find in my notes. What if the tower used to be called?
-[u0987 | 01:30:30.790-01:30:33.660 | DM] Hold on. you go, Mrs.
+[u0987 | 01:30:30.790-01:30:33.660 | DM] Hold on. Eudomes.
 [u0988 | 01:30:35.100-01:30:44.690 | DM] That there's too many things that come up when I search Stormcaller tower because it's tagged in like literally half of my notes.
 [u0989 | 01:30:50.540-01:30:52.480 | DM] the Tower of the Wild Wind.
 [u0990 | 01:30:52.650-01:30:58.210 | DM] I had heard stories about it. It was cursed place of strange magic, but never
@@ -1446,7 +1446,7 @@
 [u1446 | 02:08:13.850-02:08:16.360 | DM] tossed it in the oasis in a well.
 [u1447 | 02:08:18.320-02:08:21.600 | DM] but maybe somebody else had the other end and was speaking into it.
 [u1448 | 02:08:23.630-02:08:25.540 | Kenzo] Do you know what that's now?
-[u1449 | 02:08:26.820-02:08:36.260 | DM] Ikram would know I wasn't supposed to be there. {{I couldn't threw it in it through it}} somewhere, he said. Get rid of this and give it to one of his buddies, and rode off and
+[u1449 | 02:08:26.820-02:08:36.260 | DM] Ikram would know I wasn't supposed to be there. Ikram threw it—he threw it somewhere, he said. Get rid of this and give it to one of his buddies, and rode off and
 [u1450 | 02:08:36.560-02:08:40.390 | DM] tossed it in a well, or the desert, or in the oasis, or something like that
 [u1451 | 02:08:40.910-02:08:44.420 | Wellby] Metagame. So so somewhere in Dunmar
 [u1452 | 02:08:44.800-02:08:51.100 | Kenzo] wait met-metagame. We got our message stones. They were in Agata's lair
@@ -1814,7 +1814,7 @@
 [u1814 | 02:44:06.880-02:44:07.740 | Seeker] well.
 [u1815 | 02:44:09.580-02:44:10.780 | Kenzo] Who said that?
 [u1816 | 02:44:13.610-02:44:16.850 | Seeker] Who has purple dots of light for eyes
-[u1817 | 02:44:18.340-02:44:20.900 | Riswynn] so like {{klight obsessed}}.
+[u1817 | 02:44:18.340-02:44:20.900 | Riswynn] so like chalyte-obsessed.
 [u1818 | 02:44:21.630-02:44:24.070 | Riswynn] there was a chalyte creature
 [u1819 | 02:44:24.760-02:44:27.990 | Riswynn] hunting people right? Maybe.
 [u1820 | 02:44:28.680-02:44:30.010 | Kenzo] Yeah, is it Apollyon?

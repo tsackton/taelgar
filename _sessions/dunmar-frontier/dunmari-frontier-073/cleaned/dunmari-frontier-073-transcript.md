@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 73
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-073-source-cleaned.md
 
 ## Transcript
@@ -131,8 +131,8 @@ Seeker: I taste some of it.
 %% u0192:0-19 %%
 Delwath: Interesting choice.
 
-%% u0193:0-212, u0194:0-49, u0195:0-96 %%
-Riswynn: Since Delwath presumably shared the information about the magic Riswynn's been looking at the stairs, trying to look for signs of danger there, but—and she hears there's an unknown magical property of the people— those pillars. She wants to ritual cast identify. Because if it's a creature, it's under a spell or a magical thing, maybe {{I'll e spelled out}}.
+%% u0193:0-212, u0194:0-49, u0195:0-94 %%
+Riswynn: Since Delwath presumably shared the information about the magic Riswynn's been looking at the stairs, trying to look for signs of danger there, but—and she hears there's an unknown magical property of the people— those pillars. She wants to ritual cast identify. Because if it's a creature, it's under a spell or a magical thing, maybe it'll be spelled out.
 
 %% u0196:0-9, u0197:0-8, u0198:0-38, u0199:0-25, u0200:0-118, u0201:0-63, u0202:0-18, u0203:0-10, u0204:0-54, u0205:0-81, u0206:0-58 %%
 DM: So as you focus on trying to sort out what this magic is, given your background in, you know, in sort of constructing things in magical creation, what—what this, as you—after you cast Identify, with this— strikes you as is like the lingering aura of something that was magically created, and is now— as the magic fades, everything is starting to crumble. So, same—it's, it's—well, it's the same sort of thing like when when Seeker creates stuff out of nothing, right? It's that sort of magical aura.
@@ -1181,8 +1181,8 @@ Seeker: I I look back. Yeah, with a sigh, "Really?"
 %% u0950:0-24 %%
 Riswynn: You're going cold turkey.
 
-%% u0951:0-58, u0952:0-3, u0953:0-57 %%
-DM: {{from even dreams. Oh, nice is a lot stronger than you.}} But I don't know what what what you imagine happened, Seeker.
+%% u0951:0-53, u0952:0-3, u0953:0-57 %%
+DM: [garbled] Riswynn is a lot stronger than you. But I don't know what what what you imagine happened, Seeker.
 
 %% u0954:0-33, u0955:0-2, u0956:0-31 %%
 Seeker: What do I imagine happening? Nice. A— I just imagine shaking her off.
@@ -2492,8 +2492,8 @@ Riswynn: And then we.
 %% u1821:0-54, u1822:0-51, u1823:0-85 %%
 Wellby: To time it, so that it's a good surprise for that. But Anna Crock—and, oh, no, I don't even need to do that. Immediately below it is the portable hole, with no distance between it's falling, and—
 
-%% u1824:0-62 %%
-Seeker: {{the is behind}} the portable hole as a catcher, just in case.
+%% u1824:0-65 %%
+Seeker: The ladder is behind the portable hole as a catcher, just in case.
 
 %% u1825:0-17 %%
 Kenzo: That's the scene.

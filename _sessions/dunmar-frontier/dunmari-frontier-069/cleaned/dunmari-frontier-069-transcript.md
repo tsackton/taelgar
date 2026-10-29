@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 69
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-069-source-cleaned.md
 
 ## Transcript
@@ -776,8 +776,8 @@ Seeker: Seeker will stand by to react inspirationally.
 %% u0708:0-30, u0709:0-44, u0710:0-76, u0711:0-31, u0712:0-55, u0713:0-127, u0714:0-12, u0715:0-16 %%
 Kenzo: Yeah, Kenzo will actually also—Kenzo will actually, as a part of this, take this, this sacred ceremony to uncurse himself. We'll actually take one of the one of the fine pieces of wood. And and we'll take it up. Take a chunk of it, and carve little runes representing the different Dunmari gods, and then also on the back side, runes that he learns from the lizardfolk, representing Motua, Lengau and—
 
-%% u0716:0-29, u0717:0-19, u0718:0-64, u0719:0-35 %%
-Delwath: Delwath will take some of the ash from the hearth, and offer it up to {{Batali}}, the spirit of hearths and houses. And ask them to to watch over Kenzo.
+%% u0716:0-29, u0717:0-19, u0718:0-60, u0719:0-35 %%
+Delwath: Delwath will take some of the ash from the hearth, and offer it up to Taraka, the spirit of hearths and houses. And ask them to to watch over Kenzo.
 
 %% u0720:0-3 %%
 Kenzo: How—

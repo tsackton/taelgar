@@ -715,7 +715,7 @@
 [u0715 | 00:47:49.570-00:47:52.769 | Kenzo] Motua Lengau and
 [u0716 | 00:47:54.550-00:47:56.150 | Delwath] Delwath will take some of the
 [u0717 | 00:47:56.760-00:47:58.270 | Delwath] ash from the hearth
-[u0718 | 00:47:59.170-00:48:03.430 | Delwath] and offer it up to {{Batali}}. The spirit of hearths and houses.
+[u0718 | 00:47:59.170-00:48:03.430 | Delwath] and offer it up to Taraka. The spirit of hearths and houses.
 [u0719 | 00:48:04.320-00:48:07.729 | Delwath] and ask them to to watch over Kenzo
 [u0720 | 00:48:08.910-00:48:11.000 | Kenzo] how
 [u0721 | 00:48:11.510-00:48:13.570 | DM] we all go.

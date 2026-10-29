@@ -192,7 +192,7 @@
 [u0192 | 00:19:20.020-00:19:21.360 | Delwath] Interesting choice.
 [u0193 | 00:19:24.100-00:19:38.390 | Riswynn] since Delwath presumably shared the information about the magic Riswynn's been looking at the stairs, trying to look for signs of danger there, but and she hears there's an unknown magical property of the people.
 [u0194 | 00:19:38.430-00:19:42.600 | Riswynn] those pillars. She wants to ritual cast identify.
-[u0195 | 00:19:42.880-00:19:51.130 | Riswynn] because if it's a creature, it's under a spell or a magical thing, maybe {{i'll e spelled out}}.
+[u0195 | 00:19:42.880-00:19:51.130 | Riswynn] because if it's a creature, it's under a spell or a magical thing, maybe it'll be spelled out.
 [u0196 | 00:19:53.330-00:19:55.410 | DM] So as you
 [u0197 | 00:19:55.430-00:19:57.060 | DM] focus on
 [u0198 | 00:19:58.070-00:20:01.110 | DM] trying to sort out what this magic is.
@@ -948,7 +948,7 @@
 [u0948 | 01:23:49.120-01:23:51.750 | Riswynn] Really or not.
 [u0949 | 01:23:52.940-01:23:56.490 | Seeker] I I look back. Yeah, with a sigh. Really.
 [u0950 | 01:23:58.500-01:24:01.550 | Riswynn] you're going cold turkey
-[u0951 | 01:24:01.880-01:24:06.950 | DM] {{from even dreams. Oh, nice is a lot stronger than you.}}
+[u0951 | 01:24:01.880-01:24:06.950 | DM] from even dreams. Riswynn is a lot stronger than you.
 [u0952 | 01:24:07.960-01:24:08.900 | DM] But
 [u0953 | 01:24:09.810-01:24:13.820 | DM] I don't know what what what you imagine happened. Seeker.
 [u0954 | 01:24:15.000-01:24:18.360 | Riswynn] What do I imagine happening? Nice
@@ -1821,7 +1821,7 @@
 [u1821 | 02:41:01.480-02:41:04.420 | Wellby] to time it, so that it's a good surprise for that. But
 [u1822 | 02:41:04.430-02:41:07.940 | Wellby] Anna Crock and oh, no, I don't even need to do that
 [u1823 | 02:41:09.510-02:41:16.500 | Wellby] immediately below it is the portable hole, with no distance between it's falling, and
-[u1824 | 02:41:17.350-02:41:21.450 | Seeker] {{the is behind}} the portable hole as a catcher, just in case
+[u1824 | 02:41:17.350-02:41:21.450 | Seeker] the ladder is behind the portable hole as a catcher, just in case
 [u1825 | 02:41:23.540-02:41:24.570 | Kenzo] that's the scene.
 [u1826 | 02:41:24.600-02:41:25.680 | Seeker] Is the back
 [u1827 | 02:41:25.920-02:41:26.770 | DM] Clunk.

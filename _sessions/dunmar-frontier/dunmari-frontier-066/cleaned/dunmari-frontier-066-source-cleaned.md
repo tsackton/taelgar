@@ -233,7 +233,7 @@
 [u0233 | 00:19:20.550-00:19:25.470 | DM] extremely lucky that you came. What brings you here?
 [u0234 | 00:19:26.130-00:19:32.900 | DM] Such a unusual collection of people? You He looks over it. Shoal, I can understand coming to
 [u0235 | 00:19:34.240-00:19:36.269 | DM] find your people, I guess, but
-[u0236 | 00:19:39.420-00:19:41.180 | DM] {{Center and}}
+[u0236 | 00:19:39.420-00:19:41.180 | DM] Center and
 [u0237 | 00:19:41.240-00:19:43.770 | DM] a wizard of the of
 [u0238 | 00:19:44.900-00:19:46.480 | DM] a strange group.
 [u0239 | 00:19:46.670-00:19:49.490 | DM] I am fortunate, indeed, that
@@ -539,7 +539,7 @@
 [u0539 | 00:43:44.120-00:43:47.450 | DM] three thousand miles from north to south.
 [u0540 | 00:43:48.080-00:43:53.209 | DM] The weather turns, and you are, you know, you get to the sort of bitter,
 [u0541 | 00:43:53.240-00:43:56.439 | DM] occasional bitter cold nights, as the
-[u0542 | 00:43:56.610-00:44:06.300 | DM] you know. Cold winds come out of the the {{earth}} in this huge expanse of dry polar land to your north.
+[u0542 | 00:43:56.610-00:44:06.300 | DM] you know. Cold winds come out of the the Ursk in this huge expanse of dry polar land to your north.
 [u0543 | 00:44:07.120-00:44:12.529 | DM] The days are still sunny, though, and the journey is fairly pleasant as you
 [u0544 | 00:44:12.700-00:44:14.509 | DM] as you pass there's,
 [u0545 | 00:44:14.560-00:44:20.320 | DM] you know, the occasional school of dolphins dancing on your prow.
@@ -1133,7 +1133,7 @@
 [u1133 | 01:37:03.670-01:37:04.889 | Shoal] I mean
 [u1134 | 01:37:06.100-01:37:08.760 | Shoal] doesn't sound like anything's coming right now.
 [u1135 | 01:37:09.150-01:37:14.439 | Wellby] I think we should rest and just go in fresh.
-[u1136 | 01:37:15.500-01:37:19.170 | Alimash] Alimash takes off {{office}} and enjoys
+[u1136 | 01:37:15.500-01:37:19.170 | Alimash] Alimash takes off armor and enjoys
 [u1137 | 01:37:19.420-01:37:23.889 | Shoal] a refreshing breeze.
 [u1138 | 01:37:27.420-01:37:30.400 | Alimash] So how do we determine our Hp.
 [u1139 | 01:37:31.350-01:37:37.789 | DM] For a short rest. Do we roll a hit die so you can roll hit dice. Yeah,
@@ -1488,7 +1488,7 @@
 [u1488 | 02:08:58.910-02:09:08.140 | DM] sort of brown brownish dark brown hair, but it's like just completely wild. It's got like a bushy beard that's out of control um,
 [u1489 | 02:09:08.760-02:09:13.159 | DM] and kind of wide-eyed and and
 [u1490 | 02:09:14.170-02:09:15.110 | DM] uh,
-[u1491 | 02:09:16.220-02:09:32.060 | DM] exhausted, looking like bags under his eyes. Um peeks out from the door. Um sees, sees you, and and and immediately like points at the shiniest object which is Shoal's {{scholarship}} is like.
+[u1491 | 02:09:16.220-02:09:32.060 | DM] exhausted, looking like bags under his eyes. Um peeks out from the door. Um sees, sees you, and and and immediately like points at the shiniest object which is Shoal's glaive is like.
 [u1492 | 02:09:32.970-02:09:35.629 | DM] Get it out! Get it out!
 [u1493 | 02:09:38.500-02:09:42.950 | Shoal] I mean It's fine man, and I like. Hold it up to my face, and nothing happens.
 [u1494 | 02:09:46.820-02:09:49.350 | DM] What are you? What are you doing here?
@@ -2956,7 +2956,7 @@
 [u2956 | 04:15:11.780-04:15:19.999 | Wellby] No, No, no, no, no, no! Is what I'm saying out loud right now. No, What do you mean? It's old master is dead. We
 [u2957 | 04:15:30.980-04:15:32.380 | Unknown] well shit
 [u2958 | 04:15:41.010-04:15:44.779 | Alimash] some of my other character just woke up and feels unsettled.
-[u2959 | 04:15:47.910-04:15:53.899 | Wellby] Hold on! out of character, Tim. Do we see it? Agata or {{a sandwich}} riding That thing
+[u2959 | 04:15:47.910-04:15:53.899 | Wellby] Hold on! out of character, Tim. Do we see it? Agata or a sand witch riding That thing
 [u2960 | 04:15:54.720-04:15:58.170 | Wellby] like. Is it known that Agata was its master?
 [u2961 | 04:15:59.420-04:16:02.500 | DM] You never! You never saw Agata ride it?
 [u2962 | 04:16:05.610-04:16:07.499 | Wellby] Well, then, honestly,

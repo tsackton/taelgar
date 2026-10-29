@@ -968,7 +968,7 @@
 [u0968 | 01:06:32.220-01:06:33.649 | Seeker] crystallized magic
 [u0969 | 01:06:34.630-01:06:45.799 | Seeker] was definitely causing some problems locally, as you can imagine, because any spell that you cast, it turns out, would come to life in this powerful and rather autonomous and dangerous way.
 [u0970 | 01:06:48.930-01:06:51.909 | Seeker] Tim, i'm trying to remember what the particular spells were.
-[u0971 | 01:06:52.540-01:06:54.740 | DM] {{You're upizing thoughts of the worst.}}
+[u0971 | 01:06:52.540-01:06:54.740 | DM] You're upizing thoughts of the worst.
 [u0972 | 01:06:54.830-01:07:00.169 | DM] the giant force hand. That was pretty bad, too. Yeah.
 [u0973 | 01:07:00.600-01:07:03.549 | DM] and your catapult was pretty bad.
 [u0974 | 01:07:10.440-01:07:11.439 | Seeker] At any rate.
@@ -1988,7 +1988,7 @@
 [u1988 | 02:11:10.750-02:11:12.889 | Delwath] I I fear
 [u1989 | 02:11:14.110-02:11:15.110 | Delwath] some.
 [u1990 | 02:11:16.070-02:11:18.679 | Delwath] The war is close to breaking out in Dunmar.
-[u1991 | 02:11:19.890-02:11:22.070 | Delwath] and I think {{hockey}} is at the center of it.
+[u1991 | 02:11:19.890-02:11:22.070 | Delwath] and I think Agata is at the center of it.
 [u1992 | 02:11:23.220-02:11:25.130 | Delwath] Finally.
 [u1993 | 02:11:25.150-02:11:27.320 | Delwath] amongst all of that, the last
 [u1994 | 02:11:28.220-02:11:32.240 | Delwath] group I spent time checking on is our dear friends

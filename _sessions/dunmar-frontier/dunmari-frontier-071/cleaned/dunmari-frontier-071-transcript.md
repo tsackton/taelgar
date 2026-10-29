@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 71
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-071-source-cleaned.md
 
 ## Transcript
@@ -23,8 +23,8 @@ Kenzo: That's just a.
 %% u0011:0-66, u0012:0-18, u0013:0-60, u0014:0-29, u0015:0-145, u0016:0-19, u0017:0-26 %%
 DM: Finding themselves, finding yourselves eventually in the center of Stormcaller Tower, and then managing, remembering the layout managing to follow the possessed Kenzo up to the the top floor of the tower, where the stairs, as they did the last time you were here, led not to the room where Hralgar was imprisoned, but to a dreamscape of sorts: Hralgar's mountain palace.
 
-%% u0018:0-46, u0019:0-38, u0020:0-20, u0021:0-10, u0022:0-19, u0023:0-36, u0024:0-83, u0025:0-3, u0026:0-17 %%
-DM: There you spent some time speaking with Kenzo, who alternately believed himself to be Hralgar or Hralgar's friend and {{and with named}}. Until, through clever use of stories and tales, you managed to remind Hralgar that, in fact, he was trapped in a prison and could not escape.
+%% u0018:0-46, u0019:0-38, u0020:0-20, u0021:0-10, u0022:0-15, u0023:0-36, u0024:0-83, u0025:0-3, u0026:0-17 %%
+DM: There you spent some time speaking with Kenzo, who alternately believed himself to be Hralgar or Hralgar's friend and [garbled]. Until, through clever use of stories and tales, you managed to remind Hralgar that, in fact, he was trapped in a prison and could not escape.
 
 %% u0027:0-67, u0028:0-75, u0029:0-61, u0030:0-65 %%
 DM: After some discussion in which Hralgar asked for his eyes, and you were maybe slightly dubious about giving them to him, in the absence of any commitment to not cause havoc or to control things, which he, for reasons unclear to you, said things were not quite so simple.
@@ -1646,8 +1646,8 @@ DM: And a lot of— but it's notable for like— has a, has a somewhat like, is 
 %% u0924:0-134, u0925:0-58 %%
 DM: A lot of, a lot of elves who were trying to like, you know, be interested and creative weren't necessarily interested in writing about giants and dragons, and these like mythic past, right? So—
 
-%% u0926:0-88 %%
-Seeker: So the book itself would not be that uncommon because it would have been {{orthopedic}}.
+%% u0926:0-84 %%
+Seeker: So the book itself would not be that uncommon because it would have been [garbled].
 
 %% u0927:0-39, u0928:0-141 %%
 DM: So the book would be fairly common, but but sort of the type of thing that most, many libraries or most libraries would have a copy of, but not a lot of people had bothered to read.
@@ -1895,8 +1895,8 @@ Kenzo: I do remember. I do remember there was a red mist. Do you remember the re
 %% u1054:0-3, u1055:0-38 %%
 DM: No. It must have been after I was trapped.
 
-%% u1056:0-10, u1057:0-37, u1058:0-23, u1059:0-23, u1060:0-23, u1061:0-14, u1062:0-13, u1063:0-31 %%
-DM: I remember there were ill tidings in those days. Apollyon had an advisor, dragon, took human form. Cha'mutte was his name, but they were— I don't know. I do not think {{they side}}. I—
+%% u1056:0-10, u1057:0-37, u1058:0-23, u1059:0-23, u1060:0-23, u1061:0-14, u1062:0-13, u1063:0-37 %%
+DM: I remember there were ill tidings in those days. Apollyon had an advisor, dragon, took human form. Cha'mutte was his name, but they were— I don't know. I do not think they saw eye to eye. I—
 
 %% u1064:0-4 %%
 Seeker: Hmm.
@@ -2054,11 +2054,11 @@ Seeker: Well.
 %% u1231:0-51, u1232:0-62, u1233:0-33, u1234:0-17, u1235:0-64, u1236:0-20, u1237:0-52, u1238:0-21 %%
 DM: But he did not wish a life on the currents, and the the weather of the ocean is—weather below the ocean is not so changeable as the storm is above. And he was always— he was always a changeable person, more so than many of my kind, eager and impulsive, sometimes had trouble seeing the paths of the future guide our decisions.
 
-%% u1239:0-34, u1240:0-40, u1241:0-29, u1242:0-52, u1243:0-94, u1244:0-80, u1245:0-24, u1246:0-66, u1247:0-87, u1248:0-23, u1249:0-18, u1250:0-4 %%
-DM: He left when he was a young giant, just barely 20 feet tall, still growing, and he journeyed {{stylish}}. Spent many years traveling through the great deserts on the—beyond Drankor, on the eastern—beyond the eastern frontiers, chasing the sandstorms and winds that would crisscross those lands. The rare thunderstorm that brought life once every year or less, the dew, the moisture that settled on the, on the dunes on the ocean, love to talk about those dunes, tiny drops of water that could feed lizards, chameleons, all the life that could be created by just dew.
+%% u1239:0-34, u1240:0-40, u1241:0-27, u1242:0-52, u1243:0-94, u1244:0-80, u1245:0-24, u1246:0-66, u1247:0-87, u1248:0-23, u1249:0-18, u1250:0-4 %%
+DM: He left when he was a young giant, just barely 20 feet tall, still growing, and he journeyed south-ish. Spent many years traveling through the great deserts on the—beyond Drankor, on the eastern—beyond the eastern frontiers, chasing the sandstorms and winds that would crisscross those lands. The rare thunderstorm that brought life once every year or less, the dew, the moisture that settled on the, on the dunes on the ocean, love to talk about those dunes, tiny drops of water that could feed lizards, chameleons, all the life that could be created by just dew.
 
-%% u1251:0-63, u1252:0-53, u1253:0-5, u1254:0-51, u1255:0-36, u1256:0-18, u1257:0-160, u1258:0-53, u1259:0-38, u1260:0-57, u1261:0-12, u1262:0-54, u1263:0-10, u1264:0-54, u1265:0-35, u1266:0-31, u1267:0-16, u1268:0-32, u1269:0-5, u1270:0-3, u1271:0-62 %%
-DM: But eventually I think he tired of the sameness of the deserts. He wanted to learn more of the history of our people. And I— I was known then as something of a scholar, I guess, something of a gatherer of tales and sharer of history. Much of the {{G}} of our people is not necessarily remembered by us, but is recorded in the lore of the dwarves and the stone born especially, and in those days the kingdom of Ardith, but I believe is now destroyed, below the mountains just north of here, was also renowned as a center of learning for history and stone craft. And so it was, I guess, inevitable that we would meet. He did not have the powers that I do. He cannot travel as a storm. So he journeyed across Drankor, and this was during the Golden Age, even before back—there's rain and the, the fall of— Yeah. And the fall of [garbled]. It was, it was during the reign of—
+%% u1251:0-63, u1252:0-53, u1253:0-5, u1254:0-51, u1255:0-36, u1256:0-18, u1257:0-162, u1258:0-53, u1259:0-38, u1260:0-57, u1261:0-12, u1262:0-54, u1263:0-10, u1264:0-54, u1265:0-35, u1266:0-31, u1267:0-16, u1268:0-32, u1269:0-5, u1270:0-3, u1271:0-62 %%
+DM: But eventually I think he tired of the sameness of the deserts. He wanted to learn more of the history of our people. And I— I was known then as something of a scholar, I guess, something of a gatherer of tales and sharer of history. Much of the history of our people is not necessarily remembered by us, but is recorded in the lore of the dwarves and the stone born especially, and in those days the kingdom of Ardith, but I believe is now destroyed, below the mountains just north of here, was also renowned as a center of learning for history and stone craft. And so it was, I guess, inevitable that we would meet. He did not have the powers that I do. He cannot travel as a storm. So he journeyed across Drankor, and this was during the Golden Age, even before back—there's rain and the, the fall of— Yeah. And the fall of [garbled]. It was, it was during the reign of—
 
 %% u1272:0-3, u1273:0-14 %%
 Unknown: No. What was this?
@@ -3074,8 +3074,8 @@ DM: Completely gone.
 %% u2034:0-10 %%
 Seeker: Wow. Yeah.
 
-%% u2035:0-26 %%
-Riswynn: {{A peak in my pony. My.}}.
+%% u2035:0-18 %%
+Riswynn: I peek at my pony.
 
 %% u2036:0-36 %%
 Delwath: I'm going to offer to hunt with him.
@@ -3263,8 +3263,8 @@ DM: That all the white people should win guy.
 %% u2118:0-138, u2119:0-5 %%
 Delwath: He's not one of those the enemy of my enemy is a friend thing, I mean, yeah, like Stalin verse Hitler. Neither one of them is a good guy. True.
 
-%% u2120:0-39, u2121:0-90, u2122:0-56 %%
-Kenzo: He only wants to kill some of the gods. We, we can ask him to about—so we, nobody knows {{how to drink, or in a parl}} still, right? And nobody knows that it was the origin of the red mist.
+%% u2120:0-39, u2121:0-89, u2122:0-56 %%
+Kenzo: He only wants to kill some of the gods. We, we can ask him to about—so we, nobody knows how Drankor and Apollyon fell still, right? And nobody knows that it was the origin of the red mist.
 
 %% u2123:0-96 %%
 DM: Not I mean, that's none of this stuff, Hralgar would be able to tell you it was after he was in.

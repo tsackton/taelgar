@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 68
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-068-source-cleaned.md
 
 ## Transcript
@@ -791,8 +791,8 @@ Seeker: This type of observation may be at the heart of things, Kenzo. I've ofte
 %% u0967:0-4, u0968:0-18, u0969:0-189, u0970:0-60 %%
 Seeker: This crystallized magic was definitely causing some problems locally, as you can imagine, because any spell that you cast, it turns out, would come to life in this powerful and rather autonomous and dangerous way. Tim, I'm trying to remember what the particular spells were.
 
-%% u0971:0-41, u0972:0-53, u0973:0-33 %%
-DM: {{You're upizing thoughts of the worst.}} The giant force hand. That was pretty bad, too. Yeah, and your catapult was pretty bad.
+%% u0971:0-37, u0972:0-53, u0973:0-33 %%
+DM: [garbled] The giant force hand. That was pretty bad, too. Yeah, and your catapult was pretty bad.
 
 %% u0974:0-12, u0975:0-67, u0976:0-2, u0977:0-3, u0978:0-3 %%
 Seeker: At any rate, we managed to subdue the situation by destroying the petrified xorn. A— and the—
@@ -1763,8 +1763,8 @@ Delwath: Well, scrying is a lot safer than clairvoyance, because you can be—
 %% u1987:0-135 %%
 DM: You can be further away. Yeah, but it's the exact same sensor that's created. There's no way to tell them apart. With See Invisibility.
 
-%% u1988:0-8, u1989:0-5, u1990:0-43, u1991:0-46 %%
-Delwath: I I fear some— the war is close to breaking out in Dunmar, and I think {{hockey}} is at the center of it.
+%% u1988:0-8, u1989:0-5, u1990:0-43, u1991:0-41 %%
+Delwath: I I fear some— the war is close to breaking out in Dunmar, and I think Agata is at the center of it.
 
 %% u1992:0-8, u1993:0-29, u1994:0-50, u1995:0-18 %%
 Delwath: Finally, amongst all of that, the last group I spent time checking on is our dear friends Kadmos and Casian.

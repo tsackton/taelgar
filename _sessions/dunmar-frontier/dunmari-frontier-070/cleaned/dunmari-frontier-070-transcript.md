@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 70
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-070-source-cleaned.md
 
 ## Transcript
@@ -1865,8 +1865,8 @@ DM: Don't know what happened. But please come. I'm always eager for stories and 
 %% u1651:0-52, u1652:0-10, u1653:0-25, u1654:0-26, u1655:0-32 %%
 DM: I hear there is trouble on the plains. My dreams are disturbed. The storms grow stronger. And the future is clouded. Come, I would hear your stories.
 
-%% u1656:0-2, u1657:0-20, u1658:0-7, u1659:0-10, u1660:0-4, u1661:0-22, u1662:0-5 %%
-DM: “My—” Pauses for a minute. “I don't—my friend.” Hmm. {{Had I lived alone}}? Come.
+%% u1656:0-2, u1657:0-20, u1658:0-7, u1659:0-10, u1660:0-4, u1661:0-19, u1662:0-5 %%
+DM: “My—” Pauses for a minute. “I don't—my friend.” Hmm. Have I lived alone? Come.
 
 %% u1663:0-56, u1664:0-21, u1665:0-74, u1666:0-80 %%
 DM: And he looks. He's like looking way way over your heads. He he will guide you. And he turns, and he and he begins like slowly walking up the stairs, like, you know, he's carrying this giant tree trunk like staff, and he's like tapping.
@@ -2078,8 +2078,8 @@ Unknown: Right?
 %% u1860:0-6 %%
 DM: Not no.
 
-%% u1861:0-16 %%
-Unknown: {{your content}}.
+%% u1861:0-12 %%
+Unknown: [garbled].
 
 %% u1862:0-12, u1863:0-20, u1864:0-23, u1865:0-14, u1866:0-12, u1867:0-23, u1868:0-31, u1869:0-43, u1870:0-12, u1871:0-18, u1872:0-22, u1873:0-20, u1874:0-19 %%
 DM: That all the Drankorian frontier. But it is good to hear. Should not let humans claim the lands all the land. Well, as you seem to know, I am Hralgar, master of these mountains, and the plains below. Visitor. Sometimes the wizards of Drankor. Keeper of the winds. Welcome to my home.
@@ -2156,8 +2156,8 @@ Unknown: Different Great War.
 %% u1938:0-48, u1939:0-27, u1940:0-14, u1941:0-31, u1942:0-18, u1943:0-20, u1944:0-11 %%
 Delwath: I was trapped for quite some time after the war. Uncounted years, it seemed. When I emerged, the future had come to me as if no time had passed. Can be disorienting. But anyway.
 
-%% u1945:0-15, u1946:0-7, u1947:0-62, u1948:0-28, u1949:0-8, u1950:0-29, u1951:0-33, u1952:0-5, u1953:0-11, u1954:0-12, u1955:0-3, u1956:0-3, u1957:0-38 %%
-Delwath: Trapped with me, in this, place, and I also spend some a little time describing the like, dimension he was trapped in, was that, was a tanshi of the Deno'qai, they called themselves {{Yavoi}}. But I at the time, knew it not. And was trapped in a cycle of my own imagining.
+%% u1945:0-15, u1946:0-7, u1947:0-62, u1948:0-28, u1949:0-8, u1950:0-29, u1951:0-30, u1952:0-5, u1953:0-11, u1954:0-12, u1955:0-3, u1956:0-3, u1957:0-38 %%
+Delwath: Trapped with me, in this, place, and I also spend some a little time describing the like, dimension he was trapped in, was that, was a tanshi of the Deno'qai, they called themselves Yezali. But I at the time, knew it not. And was trapped in a cycle of my own imagining.
 
 %% u1958:0-6, u1959:0-6, u1960:0-7, u1961:0-12, u1962:0-41, u1963:0-17, u1964:0-11, u1965:0-49, u1966:0-32, u1967:0-28 %%
 Delwath: Seeing demons hunt my fellows down, over and over again and the world cracked as it should not. I was freed by the actions of someone I knew not at the time, and found myself back on Taelgar after this long imprisonment.
@@ -2606,8 +2606,8 @@ DM: I know this is. No, this is not real. I can see the flow of time in loops he
 %% u2574:0-4, u2575:0-35, u2576:0-24, u2577:0-29, u2578:0-21, u2579:0-6, u2580:0-24, u2581:0-57 %%
 DM: This creature who is me, and yet not me, pointing at Kenzo, seems the strangest of all. Somehow he is familiar to me. I have dreamed of him, I think. Or he has dreamed of me I cannot remember which is which.
 
-%% u2582:0-7, u2583:0-37, u2584:0-30, u2585:0-39, u2586:0-57, u2587:0-7, u2588:0-19, u2589:0-39, u2590:0-35 %%
-DM: And yet, he like, tries to move his other hand, cannot see what holds me here. {{Let's see}} how to break these bonds. You say you are honorable. You have gone to great lengths to save, to save me. And yet. Why will you not give me back my sight? Let me at least see what you bring.
+%% u2582:0-7, u2583:0-37, u2584:0-30, u2585:0-38, u2586:0-57, u2587:0-7, u2588:0-19, u2589:0-39, u2590:0-35 %%
+DM: And yet, he like, tries to move his other hand, cannot see what holds me here. I cannot see how to break these bonds. You say you are honorable. You have gone to great lengths to save, to save me. And yet. Why will you not give me back my sight? Let me at least see what you bring.
 
 %% u2591:0-29, u2592:0-18, u2593:0-9, u2594:0-24 %%
 Riswynn: Did you connect with it here, or connect with it elsewhere to the greatest benefit?
@@ -3023,8 +3023,8 @@ Riswynn: All right. We run into the dream world.
 %% u2935:0-46 %%
 Wellby: Try and attack the ghost version of him in the—
 
-%% u2936:0-19 %%
-Riswynn: {{save the stick}}.
+%% u2936:0-15 %%
+Riswynn: [cross-talk].
 
 %% u2937:0-34, u2938:0-18, u2939:0-30 %%
 DM: As you run up into the dream world, carrying the eyes, they begin to pulse with life.
