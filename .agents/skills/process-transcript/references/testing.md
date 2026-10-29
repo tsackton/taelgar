@@ -86,3 +86,27 @@ speaker overrides in metadata. Interrupted finalization resumed with the bundle
 lock still effective after work-directory removal. The temporary Session 53 pilot
 correctly refused finalization while its nine material issues remained pending;
 its file hashes were unchanged. No live session was processed or finalized.
+
+## Markdown review regression, 2026-10-28
+
+The updated suite passes 53 tests, including the opt-in checks on temporary copies
+of seven now-finalized live bundles. Those checks verify current retained hashes
+and that initialization recreates no work state; live files remain unchanged.
+
+New review regressions remove the original work directory and disposable exports,
+then apply decisions using only the review Markdown and retained references. They
+cover exact target boundaries and preserved suffix/neighbor speech, larger and
+explicit context ranges, partial decisions with shifted offsets, retained
+uncertainty, stale references, missing/unfaithful readable-turn updates, split
+speaker bounds, garbled recovery, prohibited hiding of accepted words, confined
+paths/writes, metadata-comment preservation, and interrupted application/recovery.
+The runtime write audit now exercises bounded reopening, application, and
+finalization as well as initial processing. The skill metadata validator passes.
+
+Editorial policy 3 invalidates active work reviewed under the old free-form
+proposal contract. Finalized references remain current; a new bounded review uses
+their retained files. A portable Markdown handoff does not inherit the original
+queue's lifetime or depend on its presence. These mechanical tests establish safe
+application and recovery, not that a model finds every recognition error; the
+editorial calibration examples in [review.md](review.md#editorial-calibration)
+address that separate judgment.

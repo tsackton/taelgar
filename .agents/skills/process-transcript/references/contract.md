@@ -56,14 +56,16 @@ These roles are independent of the current `cleaned/` directory layout:
 | `<stem>-transcript.json` | Temporary structured export for inspection/integration during processing. Removed at finalization; no permanent duplicate of the Markdown is required. |
 | `<stem>-transcript.html` | Temporary display/QA export. Removed at finalization; future display can render the retained Markdown. |
 | `<stem>-transcript-entities.json` | Temporary exact-mention index supporting the cleanup pass. Removed at finalization; it is not a separate final product. |
-| `<stem>-transcript-review.md` | Manual-review sheet while questions remain. Removed at finalization once every required decision is resolved; no permanent decision report is kept. |
-| `transcript-work/state.json` | Current reviewed turns, decisions, fingerprints, and progress, needed to resume unfinished work. Removed at finalization. |
+| `<stem>-transcript-review.md` | Portable review state: exact targets, context, decisions, reference fingerprints, and affected readable-turn updates in Markdown. Works without the processing queue; removed at finalization. |
+| `transcript-work/state.json` | Current turns, fingerprints, and progress for unfinished cleanup/polish/quality work. Not required for the Markdown review handoff. Removed at finalization. |
 | `transcript-work/history/` | Submitted responses used during active processing. Removed at finalization; no permanent audit archive. |
 | `transcript-work/transactions/` | Temporary snapshots that recover interrupted writes. Removed at finalization after recovery completes. |
 | `transcript-work/jobs/`, `responses/`, and other work files | Processing packets and drafts. Removed with the work directory at finalization. Finish wanted work before finalizing. |
 | `transcript-finalization.json` | Temporary retirement plan, present only during finalization or an interruption. `finalize`/`recover` resumes it and removes it on success. |
 
-Keep the work directory while processing or required review remains. Use `finalize`
+Keep the work directory while cleanup/polish/quality processing remains. A quality-complete
+review Markdown is independently resumable with the retained references; no full
+work state must accompany it. Use `finalize`
 to retire the pipeline's temporary files after review, rather than deleting state
 by hand. It is included in the workflow's authorized completion step. The bundle
 directory itself supplies the writer lock, so no permanent lock file is needed.
@@ -97,7 +99,7 @@ Write a response using the exact `sourceSha256` and chunk ID from the job:
     {"uid": "u0042", "before": "Exact current line text.", "after": "Supported corrected line text.", "kind": "asr", "reason": "Why this is a transcription error.", "evidence": ["u0041-u0044", "consulted vault-relative note path"]}
   ],
   "issues": [
-    {"uid": "u0048", "span": "exact uncertain wording", "kind": "place", "importance": "material", "reason": "Two place names plausibly match the recognition.", "proposal": "Full passage with the preferred name.", "recommendation": "Prefer this reading because of its sound and the nearby exchange.", "question": "Use this name, choose the alternative, supply a correction, or leave unresolved?", "alternatives": ["Full passage with the other plausible name."]}
+    {"uid": "u0048", "target": {"start": 0, "end": 7, "before": "Oldtown"}, "replacement": "Old Town", "kind": "place", "importance": "material", "reason": "Two place names plausibly match the recognition.", "recommendation": "Prefer this reading because of its sound and the nearby exchange.", "question": "Use this name, choose the alternative, supply a correction, or leave unresolved?", "alternatives": ["Aldtown"], "contextRange": {"startUid": "u0043", "endUid": "u0052"}}
   ],
   "mentions": [
     {"uid": "u0043", "kind": "time", "text": "the next morning"}
@@ -117,14 +119,29 @@ Only suspected word-recognition or speaker-attribution problems belong here.
 world geography/chronology, ordinary grammar, and spoken self-correction do not
 qualify on their own. New issues must have `importance: material`; incidental
 classifications from older runs are reassessed, not copied into new submissions.
-Require nonempty `proposal`, `recommendation`, and `question`; `alternatives` is
-optional and contains real wording choices, not manufactured alternatives. The
-proposal is the readable revised passage, not merely a diagnosis. If no credible
-reconstruction exists, propose retaining the unresolved passage and explain what
-an audio check would determine. The human is choosing between different
-substantive readings, not certifying every uncertain word.
+Require an exact `target` (zero-based start, exclusive end, and `before` text),
+a `replacement` string or `null`, and nonempty `recommendation` and `question`.
+`alternatives`, when present, are replacement strings for that same target, never
+whole passages. The helper constructs each full-UID proposal by replacing only the
+target; it rejects free-form `proposal` input. Include marker braces in the target
+when a correction should remove them. Do not move speech between UIDs or include
+neighboring speech in replacement text. Empty replacement strings can remove an
+ASR insertion, but the resulting UID must remain nonempty.
 
-Issue spans must occur in the resulting text. Every `{{...}}` span must be
+Use `replacement: null` when no credible correction can be recovered. The report
+then recommends retaining uncertainty, without a misleading identical Proposed
+field. Do not manufacture a negative alternative from the abstract possibility
+that ASR omitted “not.” The human chooses credible substantive readings, rather
+than certifying every uncertain word.
+
+`contextRange` is optional and session-local. Select the complete exchange that
+introduces the referent and gives the response. The default expands through nearby
+speaker runs within a bounded word/caption window; it is a starting point, not proof
+of sufficient context. Acceptance fingerprints cover the displayed range, including
+explicitly selected context beyond adjacent captions.
+
+Issue targets must exactly match the resulting text. Their bounds are validated
+before proposals are generated. Every `{{...}}` span must be
 reassessed: recover reasonable wording, or remove unnecessary/incidental braces
 through an `uncertainty` edit that keeps the words, or retain a consequential
 review choice. Flag removal is not ASR recovery. Unmarked material issues are allowed,
@@ -235,9 +252,16 @@ for active exports as well as reviewed source/turn coverage. Missing HTML is all
 only after required review is resolved. Existing edited exports are still detected.
 Status also reports material occurrence/group counts and `displaySubstitutions`;
 the report contains pending decisions only, without incidental or completed-item
-appendices. Accepted corrections go through a new clean response; `accept` means
-the human explicitly chose to retain uncertainty. Uncertainty can remain explicit;
+appendices. Within an active processing queue, source corrections use a new clean
+response; `accept` means the human explicitly chose to retain uncertainty. The
+Markdown handoff below provides independent review after export. Uncertainty can remain explicit;
 material uncertainty requires a human decision before final completion.
+
+After quality-complete export, the review Markdown alone carries review control
+data and decisions. With the retained references, `review --apply` updates the
+cleaned and readable text and remaps offsets without the original processing state.
+`review --finalize` refreshes completion metadata and retires the report. See
+[Markdown review](review.md) for its fields and recovery behavior.
 
 After current export and review, `finalize` retires disposable outputs and working
 state. Its five retained files are the original, prepared UID, cleaned UID, polished
@@ -252,7 +276,8 @@ adds `finalized: true`; later missing/edited references produce
 `changed_after_finalization`, never a fresh claim of reviewed completion. Repeating
 `finalize` is harmless when references match. Work is resumable until finalization;
 afterward the job history is intentionally gone. Further substantive revision needs
-an explicitly planned review of the retained references, not an automatic replay.
+a bounded `review --prepare UID [UID ...]` against current retained references,
+not an automatic replay of earlier processing.
 
 An interrupted retirement reports `needs_finalization`. Rerun `finalize` or
 `recover`; the temporary plan checks permanent references and remaining deletion
@@ -262,8 +287,7 @@ plan is removed on success, including when the work directory was already remove
 Changing source text invalidates affected range/context work. Unaffected ranges
 remain reusable. An editorial-policy revision also invalidates earlier stage
 signatures and exports while preserving their work for reassessment; it does not
-reinitialize the source or recreate finalized bundles. Human acceptance is tied to the issue wording and two neighboring
-units on each side; a change there requires reassessment. A transaction interrupted between files resumes its recorded
+reinitialize the source or recreate finalized bundles. Human acceptance is tied to the issue wording and its displayed context range; a change there requires reassessment. A transaction interrupted between files resumes its recorded
 writes; a conflicting later edit stops recovery without replacing it. Processing
 history stays within the bundle only until finalization. `status` does not mutate files. A stale response is
 rejected before source edits. Regenerate its job and reconcile the current content.

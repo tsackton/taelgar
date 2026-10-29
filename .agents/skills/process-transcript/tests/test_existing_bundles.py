@@ -30,6 +30,13 @@ class ExistingBundles(unittest.TestCase):
                 root=Path(tmp).resolve()/live.name;shutil.copytree(live,root)
                 args=argparse.Namespace(source=None,metadata=None,manifest=None,prepared=None,cleaned=None,chunk_words=1800)
                 with core.lock(root):result=pipeline.initialize(root,args)
+                if result['finalized']:
+                    self.assertTrue(result['outputsCurrent'])
+                    self.assertFalse((root/core.STATE).exists())
+                    self.assertEqual(snapshot(root),before)
+                    self.assertEqual(snapshot(live),before)
+                    print(f'Finalized copied-bundle check: {case}: references current, no work recreated')
+                    continue
                 state,units=pipeline.load(root)
                 self.assertGreater(len(units),500)
                 self.assertEqual(result['status'],'needs_work')

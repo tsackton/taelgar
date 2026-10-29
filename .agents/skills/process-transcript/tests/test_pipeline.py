@@ -48,9 +48,8 @@ class PipelineTests(unittest.TestCase):
             return pipeline.submit(self.root, job['responsePath'])
 
     def review_issue(self, uid='u0001', **kwargs):
-        return dict(uid=uid, span='denser', kind='place', importance='material',
+        return dict(uid=uid, target=dict(start=19, end=25, before='denser'), replacement='darker', kind='place', importance='material',
                     reason='A potentially misrecognized place description.',
-                    proposal='Well, well, it got darker.',
                     recommendation='Consider darker as the candidate reading.',
                     question='Use darker, correct the wording, or leave unresolved?', **kwargs)
 
@@ -249,6 +248,7 @@ class PipelineTests(unittest.TestCase):
         with self.assertRaisesRegex(core.PipelineError,'Unassessed'):
             self.response(job,checks=sorted(core.CHECKS),edits=[edit],issues=[],mentions=[])
         issue=self.review_issue(u['uid'])
+        issue['target']=dict(start=19,end=29,before='{{denser}}')
         self.response(job,checks=sorted(core.CHECKS),edits=[edit],issues=[issue],mentions=[])
         job=self.work('polish');self.response(job,turns=job['draftTurns'])
         self.response(self.work('quality'), verdict='pass',findings=[],checks=['wording','punctuation','speaker_turns','uncertainty','boundary_continuity'],note='Uncertainty is explicitly retained.')
@@ -461,6 +461,12 @@ def audit(event,args):
 sys.addaudithook(audit)
 test=t.PipelineTests();test.root=root;test.original=original;test.metadata=metadata
 test.init();test.complete();test.finalize()
+import transcript_review as review
+import test_review
+with t.core.lock(root):review.prepare(root,['u0001'])
+review_test=test_review.ReviewTests();review_test.root=root
+review_test.decide(['correction'],{0:'Well, well, it got darker.'},'Well, well, it got darker.')
+with t.core.lock(root):review.apply(root);review.finalize(root)
 '''
         env=dict(os.environ,PYTHONPATH=os.pathsep.join([str(Path(__file__).parent),str(Path(core.__file__).parent)]),PYTHONDONTWRITEBYTECODE='1')
         result=subprocess.run([sys.executable,'-B','-c',script,str(self.root),str(self.original)],env=env,capture_output=True,text=True)
@@ -495,7 +501,7 @@ test.init();test.complete();test.finalize()
 
     def test_review_requires_concrete_decisions_and_excludes_incidental_appendix(self):
         self.init();job=self.work('clean');issue=self.review_issue()
-        for key in ['proposal','recommendation','question']:
+        for key in ['target','replacement','recommendation','question']:
             bad=dict(issue);del bad[key]
             with self.assertRaisesRegex(core.PipelineError,key):
                 self.response(job,checks=sorted(core.CHECKS),edits=[],issues=[bad],mentions=[])
@@ -505,7 +511,7 @@ test.init();test.complete();test.finalize()
         job=self.work('polish');self.response(job,turns=job['draftTurns'])
         with core.lock(self.root):result=pipeline.export(self.root)
         report=(self.root/result['artifacts']['review']).read_text()
-        self.assertIn(issue['proposal'],report);self.assertIn(issue['question'],report)
+        self.assertIn('Well, well, it got darker.',report);self.assertIn(issue['question'],report)
         self.assertIn(job['source'][0]['text'],report)
         self.assertNotIn('Incidental speech',report)
 
