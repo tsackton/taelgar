@@ -12,7 +12,7 @@
 [u0012 | 00:01:03.500-00:01:10.010 | DM] You won't need those for this adventure, so we'll just do that in the background.
 [u0013 | 00:01:12.920-00:01:16.309 | DM] any. And so I don't think there's anything else.
 [u0014 | 00:01:16.760-00:01:21.200 | DM] So I think it makes sense to kind of just pick up
-[u0015 | 00:01:27.190-00:01:28.160 | DM] app, though.
+[u0015 | 00:01:27.190-00:01:28.160 | DM] at the.
 [u0016 | 00:01:28.410-00:01:37.789 | DM] Say, say, if you leave, it's currently like, after having left the Magistros. It's, you know, noon
 [u0017 | 00:01:38.130-00:01:45.550 | DM] on June 29th. Say, you spend 2 and a half days in Chardon and 2 and a half days flying, you would arrive.
 [u0018 | 00:01:46.550-00:01:48.005 | DM] What is that
@@ -26,11 +26,11 @@
 [u0026 | 00:02:28.000-00:02:31.730 | Wellby] Not like evil crystal ball of like soul entrapment, or I don't know something.
 [u0027 | 00:02:31.730-00:02:35.790 | DM] I mean, nobody has tried to use it. So you know, it might have like.
 [u0028 | 00:02:35.920-00:02:41.370 | DM] you know, Apollyon's dead hands and flames burning whenever you try and look into it?
-[u0029 | 00:02:45.030-00:02:55.499 | DM] you know. Maybe it has some hidden features. It's probably not just a regular crystal ball, but from the point of view of an identify spell. It's {{a right}}
+[u0029 | 00:02:45.030-00:02:55.499 | DM] you know. Maybe it has some hidden features. It's probably not just a regular crystal ball, but from the point of view of an identify spell. It's a right
 [u0030 | 00:02:57.300-00:03:08.439 | DM] which isn't that useful? Because I mean, normally, you know, a crystal ball is very useful because you can cast scry as many times as you want, but you can already scry as many times as you want, so.
 [u0031 | 00:03:08.440-00:03:09.050 | Wellby] Day.
 [u0032 | 00:03:13.410-00:03:18.770 | Delwath] Is it crystal, crystal ball? like just as a scry focus or crystal ball as a magic item.
-[u0033 | 00:03:18.770-00:03:20.180 | DM] No, it's a magic {{get is a link}}.
+[u0033 | 00:03:18.770-00:03:20.180 | DM] No, it's a magic, it is a, like.
 [u0034 | 00:03:20.180-00:03:20.550 | Delwath] Exactly.
 [u0035 | 00:03:20.600-00:03:24.120 | DM] It lets you cast scry an unlimited number of times.
 [u0036 | 00:03:24.120-00:03:24.770 | Delwath] Yeah.
@@ -65,7 +65,7 @@
 [u0065 | 00:06:49.980-00:06:52.729 | DM] putting out some feelers to purchase
 [u0066 | 00:06:53.820-00:07:00.579 | DM] some magic items useful for the eventual travel to the plane of fire. That Seeker has been asking for
 [u0067 | 00:07:03.580-00:07:07.840 | DM] There's not, like, you know, a magic item shop. So this is probably something when you're
-[u0068 | 00:07:08.110-00:07:12.290 | DM] presumably back in a week or so people would be {{eating}}.
+[u0068 | 00:07:08.110-00:07:12.290 | DM] presumably back in a week or so people would be eager to.
 [u0069 | 00:07:12.470-00:07:15.220 | DM] discuss. But you start putting out feelers.
 [u0070 | 00:07:17.914-00:07:21.959 | DM] And it is, you know, on the
 [u0071 | 00:07:22.890-00:07:34.460 | DM] evening tide, a couple days later that you set sail with Tiberius the windcaller, and
@@ -75,15 +75,15 @@
 [u0075 | 00:07:52.320-00:07:55.100 | DM] as support, and you know, as
 [u0076 | 00:07:55.400-00:07:58.819 | DM] help with any sort of imperial bureaucracy that might
 [u0077 | 00:07:59.530-00:08:04.539 | DM] arise, and also, just, you know, to report back to Mitus.
-[u0078 | 00:08:09.680-00:08:13.750 | DM] And here's gong, hey?
-[u0079 | 00:08:13.750-00:08:14.799 | Wellby] Oh, hong!
+[u0078 | 00:08:09.680-00:08:13.750 | DM] And here's Kong, hey?
+[u0079 | 00:08:13.750-00:08:14.799 | Wellby] Oh, Kong!
 [u0080 | 00:08:14.800-00:08:15.599 | Delwath] How you doing, hey?
 [u0081 | 00:08:15.600-00:08:18.610 | Kenzo] What's up y'all? Hold on one second.
 [u0082 | 00:08:20.907-00:08:27.348 | Kenzo] I'm doing good little. Been a little stressful. But
 [u0083 | 00:08:28.610-00:08:35.690 | Kenzo] you know, life is life be lifing my mom has been out of the hospital for what you know.
 [u0084 | 00:08:36.929-00:08:52.230 | Kenzo] Oh, out of the hospital, maybe like a little bit about a week and a half, maybe. But yeah, she's doing a lot better now. And you know, my mom wasn't really like walk was not, you know required, like 2 people moving around before she broke her hip. So but we had to like install.
 [u0085 | 00:08:52.230-00:08:52.810 | DM] Wait.
-[u0086 | 00:08:54.370-00:09:02.529 | DM] Okay. So we pick up as you sail to Vindristjarna on one of the {{navy up}}.
+[u0086 | 00:08:54.370-00:09:02.529 | DM] Okay. So we pick up as you sail to Vindristjarna on one of the navy up.
 [u0087 | 00:09:02.650-00:09:04.469 | DM] And now we'll talk to Eric.
 [u0088 | 00:09:06.170-00:09:06.810 | Delwath] Hey, Eric.
 [u0089 | 00:09:06.810-00:09:07.470 | DM] Hi.
@@ -146,8 +146,8 @@
 [u0146 | 00:14:04.410-00:14:07.519 | Kenzo] Any results, to report insights.
 [u0147 | 00:14:09.350-00:14:23.719 | Seeker] We've discovered several distinct formations of pressure, sealed, globular, magically suspended ice formations that do not
 [u0148 | 00:14:24.424-00:14:25.920 | Seeker] support their own weight.
-[u0149 | 00:14:27.790-00:14:33.240 | DM] There is one out there that does {{Baldrick Johnson}}. We will find out.
-[u0150 | 00:14:35.080-00:14:36.790 | Kenzo] Wait, {{neither collapsing}}.
+[u0149 | 00:14:27.790-00:14:33.240 | DM] There is one out there that does, Faldrak jumps in. We will find out.
+[u0150 | 00:14:35.080-00:14:36.790 | Kenzo] Wait, are they collapsing?
 [u0151 | 00:14:39.550-00:14:42.099 | Kenzo] Sorry, am I in the ocean now or.
 [u0152 | 00:14:42.490-00:14:44.469 | DM] No, they're floating like icebergs.
 [u0153 | 00:14:44.870-00:14:45.350 | Kenzo] Okay.
@@ -172,7 +172,7 @@
 [u0172 | 00:15:54.640-00:15:56.490 | Kenzo] No really worried about the death ray.
 [u0173 | 00:15:58.160-00:16:00.900 | Seeker] And our concern is how we'll mount it on the ship. But.
 [u0174 | 00:16:03.110-00:16:03.785 | DM] Oh,
-[u0175 | 00:16:06.520-00:16:14.200 | DM] Faldrak looks curious {{that as long as you can}}.
+[u0175 | 00:16:06.520-00:16:14.200 | DM] Faldrak looks curious that as long as you can.
 [u0176 | 00:16:14.580-00:16:18.080 | DM] let's not get too close Seeker
 [u0177 | 00:16:18.540-00:16:21.100 | DM] like maybe we can do research from afar.
 [u0178 | 00:16:28.220-00:16:30.079 | DM] Where are we going? By the way.
@@ -242,7 +242,7 @@
 [u0242 | 00:22:54.080-00:22:56.119 | Wellby] Beneath the Thundercrown.
 [u0243 | 00:22:56.720-00:23:02.300 | Seeker] Concentrates the the highest concentration of the chalyte is near the ridge.
 [u0244 | 00:23:02.530-00:23:09.389 | DM] No, it's the it was in the caves beneath the
-[u0245 | 00:23:10.914-00:23:33.399 | DM] I took. I took a draft and I gave it to Chatgpt. And I said, make this sound like a sort of medieval arcane geologer. And it actually did a really nice job taking my draft into arcane Arcane geology. The {{R. Grasilian}} galleries beneath the large outcropping the locals call Thundercrown, supposed to be like
+[u0245 | 00:23:10.914-00:23:33.399 | DM] I took. I took a draft and I gave it to Chatgpt. And I said, make this sound like a sort of medieval arcane geologer. And it actually did a really nice job taking my draft into arcane Arcane geology. The argillaceous galleries beneath the large outcropping the locals call Thundercrown, supposed to be like
 [u0246 | 00:23:33.720-00:23:35.660 | DM] caves underneath Thundercrown.
 [u0247 | 00:23:38.250-00:23:44.170 | Wellby] So does that suggest like another way in that does not involve going past a death ray cuddle beam.
 [u0248 | 00:23:44.170-00:23:47.090 | Delwath] The density of these inclusions increases with.
@@ -291,10 +291,10 @@
 [u0291 | 00:26:27.540-00:26:29.569 | DM] The archive lets you get hidden lore.
 [u0292 | 00:26:30.450-00:26:31.050 | Delwath] Right.
 [u0293 | 00:26:32.720-00:26:37.750 | Delwath] So actually the hidden lore should be we should we should get the. We should have the map room.
-[u0294 | 00:26:42.360-00:26:42.700 | DM] Jerry.
+[u0294 | 00:26:42.360-00:26:42.700 | DM] Sure.
 [u0295 | 00:26:42.700-00:26:43.050 | Delwath] Maybe.
 [u0296 | 00:26:43.050-00:26:45.459 | DM] Pieces of information about stone giants.
-[u0297 | 00:26:45.760-00:26:52.199 | Delwath] I think the Map room. Can we get information about the about the Wike.
+[u0297 | 00:26:45.760-00:26:52.199 | Delwath] I think the Map room. Can we get information about the about the like.
 [u0298 | 00:26:53.180-00:26:57.580 | Wellby] The actual way, like the yeah physical layout of the mountains, like the.
 [u0299 | 00:26:57.580-00:26:58.180 | DM] Yeah.
 [u0300 | 00:26:58.480-00:27:06.460 | Delwath] Right, and then, and then legend lore on the on the on the
@@ -441,7 +441,7 @@
 [u0441 | 00:40:47.270-00:41:03.070 | DM] storm giants, you know, might be raging, you know, ranging across the world, exploring. And, you know, taking visitors and things. Stone giant communities are insular and inward looking and sort of focused on their art. This is the
 [u0442 | 00:41:03.420-00:41:05.299 | DM] obviously, not everybody.
 [u0443 | 00:41:06.180-00:41:14.590 | DM] Not every stone giant is the same. But this is the kind of stereotype and they are.
-[u0444 | 00:41:17.850-00:41:21.823 | DM] let's see, with another useful fact.
+[u0444 | 00:41:17.850-00:41:21.823 | DM] let's see, what’s another useful fact.
 [u0445 | 00:41:24.360-00:41:27.280 | Kenzo] Hralgar was a stone giant, right.
 [u0446 | 00:41:27.280-00:41:28.460 | DM] Storm, Giant Storm.
 [u0447 | 00:41:28.460-00:41:29.820 | Kenzo] Storm Giant Stunning.
@@ -482,7 +482,7 @@
 [u0482 | 00:44:51.080-00:44:52.240 | DM] up in the North.
 [u0483 | 00:44:55.760-00:44:56.620 | Kenzo] Okay.
 [u0484 | 00:44:59.260-00:45:03.935 | DM] Okay, Dhrukmir, legendary stories of Dhrukmir.
-[u0485 | 00:45:04.830-00:45:12.030 | DM] so you you have one in the in the collected tales of Sebastian of Nevium
+[u0485 | 00:45:04.830-00:45:12.030 | DM] so you you have one in the in the collected tales of Sabastian of Nevium
 [u0486 | 00:45:12.966-00:45:20.499 | DM] in the notes. The Dhrukmir. Your, you know legend lore tells you you know this is a
 [u0487 | 00:45:21.390-00:45:29.050 | DM] this is somebody who's turned his back on stone giants.
 [u0488 | 00:45:32.110-00:45:36.850 | DM] You know, in the sense that very much not what you would think of as a you know.
@@ -515,7 +515,7 @@
 [u0515 | 00:47:16.450-00:47:26.600 | Delwath] We know that the mountain giants, I think. I guess that this King Dude is still around, and he's
 [u0516 | 00:47:26.820-00:47:34.110 | Delwath] enslaving his mountain giant compatriots to feed his obsession with this chalyte
 [u0517 | 00:47:35.705-00:47:38.740 | Delwath] false god, right that he uses.
-[u0518 | 00:47:38.740-00:47:39.440 | Seeker] Jeffrey.
+[u0518 | 00:47:38.740-00:47:39.440 | Seeker] Death ray.
 [u0519 | 00:47:40.380-00:47:44.670 | Wellby] I think, because of that. This is not a situation for negotiation.
 [u0520 | 00:47:45.640-00:47:50.970 | Seeker] No. Instead, we exploit the one critical weakness.
 [u0521 | 00:47:51.150-00:47:52.110 | Kenzo] Which is.
@@ -549,7 +549,7 @@
 [u0549 | 00:49:33.530-00:49:35.969 | DM] Not not quite actually.
 [u0550 | 00:49:35.970-00:49:36.530 | Seeker] Thank you.
 [u0551 | 00:49:37.810-00:49:40.930 | Delwath] We're like, no, we're like 10 feet too short.
-[u0552 | 00:49:40.930-00:49:41.510 | DM] I eat
+[u0552 | 00:49:40.930-00:49:41.510 | DM] I mean
 [u0553 | 00:49:42.440-00:49:49.459 | DM] Seeker's like 4 feet. So that's 7 feet, even though, like Kenzo, are both 6 feet. That's only 19 feet. You're about.
 [u0554 | 00:49:49.460-00:49:50.460 | Delwath] Yeah, yeah, for sure.
 [u0555 | 00:49:50.460-00:49:53.420 | DM] Too short. You're like one and a half persons too short.
@@ -660,7 +660,7 @@
 [u0660 | 00:56:02.980-00:56:08.279 | DM] I know that you're all like more powerful and smarter than me.
 [u0661 | 00:56:08.790-00:56:15.030 | DM] But when has it ever made sense to go into battle with a death ray hanging above you.
 [u0662 | 00:56:16.910-00:56:17.600 | Kenzo] So you're.
-[u0663 | 00:56:17.600-00:56:21.663 | DM] Why are we trying to not destroy {{about this for a minute}}?
+[u0663 | 00:56:17.600-00:56:21.663 | DM] Why are we trying to not destroy about this for a minute?
 [u0664 | 00:56:23.160-00:56:27.719 | Wellby] Because it would be simpler if we didn't have to. But it sounds like we have to.
 [u0665 | 00:56:27.720-00:56:30.710 | DM] But but it's a that.
 [u0666 | 00:56:33.090-00:56:41.250 | Delwath] What's wrong with the plan of starting a revolution amongst the giants and having them break free from their entrapment with the death ray. So it doesn't have any power anymore.
@@ -702,7 +702,7 @@
 [u0702 | 00:58:52.970-00:59:01.330 | Delwath] Are the enslaved giants necessary for the violent violet lance to function.
 [u0703 | 00:59:01.940-00:59:03.640 | Kenzo] Don't we know the answer to? That's yes already.
 [u0704 | 00:59:04.840-00:59:05.619 | Wellby] Are we gonna.
-[u0705 | 00:59:05.620-00:59:07.479 | Delwath] Have questions. Let's confirm it.
+[u0705 | 00:59:05.620-00:59:07.479 | Delwath] Five questions. Let's confirm it.
 [u0706 | 00:59:07.480-00:59:08.270 | Wellby] It's a good one.
 [u0707 | 00:59:12.890-00:59:13.710 | DM] Hmm!
 [u0708 | 00:59:22.030-00:59:25.235 | DM] The the response you get is
@@ -726,7 +726,7 @@
 [u0726 | 01:00:56.960-01:01:04.229 | Delwath] willing for a non-giant, willing to follow a non-giant and interest of the I'm not sure what exactly to ask.
 [u0727 | 01:01:04.550-01:01:10.909 | Delwath] I guess we could just ask, are they recept? Would they be receptive to an armed uprising?
 [u0728 | 01:01:11.520-01:01:12.190 | Wellby] It.
-[u0729 | 01:01:14.490-01:01:15.149 | Delwath] And Jeff.
+[u0729 | 01:01:14.490-01:01:15.149 | Delwath] And yeah.
 [u0730 | 01:01:15.970-01:01:27.120 | Wellby] Would they be not just armed uprising, but like to to depose or drive out the the chalyte Guy.
 [u0731 | 01:01:27.120-01:01:34.010 | Delwath] Would the would the enslaved giants, aid us in deposing.
 [u0732 | 01:01:34.010-01:01:34.580 | Wellby] Yes.
@@ -880,7 +880,7 @@
 [u0880 | 01:13:52.420-01:13:52.860 | DM] Bye.
 [u0881 | 01:13:52.860-01:13:56.540 | Delwath] Comfortable. Here a little cool mist appears.
 [u0882 | 01:13:57.210-01:14:09.070 | DM] You send. So you find that I mean there's plenty of there's there's vultures, there's the occasional hawk flying by. Vultures can travel far and are pretty
-[u0883 | 01:14:09.380-01:14:11.510 | DM] assuming on the wing, so
+[u0883 | 01:14:09.380-01:14:11.510 | DM] unassuming on the wing, so
 [u0884 | 01:14:12.660-01:14:16.490 | DM] lure down a vulture with a little bit of food. No, no reason to roll.
 [u0885 | 01:14:16.620-01:14:27.780 | DM] because you can't fail checks and Beast Telepathy with it. And
 [u0886 | 01:14:28.330-01:14:32.550 | DM] you're you're just going to do your beast riding thing so you can see from its eyes.
@@ -1197,7 +1197,7 @@
 [u1197 | 01:40:48.970-01:40:49.560 | Kenzo] Yeah.
 [u1198 | 01:40:49.740-01:40:51.910 | Delwath] Right. I can cast suggestion.
 [u1199 | 01:40:52.600-01:40:53.140 | Kenzo] Right.
-[u1200 | 01:40:53.980-01:40:57.060 | Delwath] Not gonna {{fail}}. A DC 20. Wisdom save.
+[u1200 | 01:40:53.980-01:40:57.060 | Delwath] Not gonna fail. A DC 20. Wisdom save.
 [u1201 | 01:40:57.370-01:40:57.840 | Kenzo] Yeah.
 [u1202 | 01:40:57.840-01:41:02.599 | DM] Literally impossible for them to succeed with their minus 2 wisdom modifier.
 [u1203 | 01:41:03.340-01:41:03.950 | Delwath] And.
@@ -1298,7 +1298,7 @@
 [u1298 | 01:48:44.580-01:48:47.089 | Kenzo] Do we have like identify? Can we? Can we identify the thing.
 [u1299 | 01:48:47.710-01:48:49.989 | DM] You have to touch things to identify them.
 [u1300 | 01:48:51.730-01:48:54.129 | Kenzo] What if we touch them with our good intentions?
-[u1301 | 01:48:55.080-01:48:57.859 | Delwath] Yeah, 1 min. It's 1 min. {{It doesn't work}}.
+[u1301 | 01:48:55.080-01:48:57.859 | Delwath] Yeah, 1 min. It's 1 min. It doesn't work.
 [u1302 | 01:48:58.332-01:49:02.110 | DM] There is divination, magic coming from this gemstone.
 [u1303 | 01:49:02.110-01:49:03.759 | Delwath] How far away is the gemstone.
 [u1304 | 01:49:04.670-01:49:07.170 | DM] Well, presumably 30 feet. If you.
@@ -1360,7 +1360,7 @@
 [u1360 | 01:52:46.480-01:52:52.512 | DM] pushing each other a little bit, and you know one of them kind of shoves, the other a little bit, and
 [u1361 | 01:52:53.150-01:53:03.390 | DM] some of the pieces of ore, something. Roll, roll out, and yeah.
 [u1362 | 01:53:04.800-01:53:09.469 | DM] put a little bit more pushing, and then, you know, one of them is like
-[u1363 | 01:53:09.730-01:53:15.409 | DM] fine. I'll get it. There are. Speak! I don't know if anybody speaks. Giant.
+[u1363 | 01:53:09.730-01:53:15.409 | DM] fine. I'll get it. They are speaking. I don't know if anybody speaks. Giant.
 [u1364 | 01:53:17.640-01:53:19.219 | Kenzo] Don't I speak all languages.
 [u1365 | 01:53:19.790-01:53:21.670 | DM] Oh, Kenzo speaks all languages.
 [u1366 | 01:53:24.020-01:53:28.619 | Delwath] And Delwath also has comprehend languages constantly right.
@@ -1499,7 +1499,7 @@
 [u1499 | 02:05:00.910-02:05:05.069 | Kenzo] Well, you're hidden behind. You're hidden in between a wall and a rock. You can't see any.
 [u1500 | 02:05:05.070-02:05:09.639 | Kenzo] I know, but like, were we able to like see out like into.
 [u1501 | 02:05:09.640-02:05:13.640 | DM] You'd be looking sort of towards the rim of the giant pit with the
-[u1502 | 02:05:13.950-02:05:21.709 | DM] lightning {{statue}} above it, and then the sort of giant village extends in a circle around the pit, and you're on the edge of the village.
+[u1502 | 02:05:13.950-02:05:21.709 | DM] lightning structure above it, and then the sort of giant village extends in a circle around the pit, and you're on the edge of the village.
 [u1503 | 02:05:21.710-02:05:24.019 | Kenzo] Can we see any any giants right now.
 [u1504 | 02:05:24.350-02:05:25.660 | DM] Yeah, they're well.
 [u1505 | 02:05:26.560-02:05:31.460 | DM] I mean again, not from where you are. But there's presumably some around like the vulture saw.
@@ -1543,7 +1543,7 @@
 [u1543 | 02:08:28.790-02:08:33.950 | DM] stone, and you call it stone. You're a rock, you should know we call a stone stone.
 [u1544 | 02:08:34.350-02:08:41.219 | DM] Yeah, they were sad. They were sitting in a corner with their pile of smashed rocks.
 [u1545 | 02:08:41.670-02:08:42.020 | Kenzo] Aha!
-[u1546 | 02:08:42.020-02:08:53.069 | DM] I threw some rocks at them, and one of the purple crowns is like, Yeah, go you good guy, throw some rocks at them, those stupid black ones. They didn't look great at all.
+[u1546 | 02:08:42.020-02:08:53.069 | DM] I threw some rocks at them, and one of the purple crowns is like, Yeah, go you good guy, throw some rocks at them, those stupid black ones. They didn't look grateful.
 [u1547 | 02:08:53.070-02:08:55.130 | Kenzo] Dumb blackstones.
 [u1548 | 02:08:55.490-02:08:56.400 | DM] Yeah.
 [u1549 | 02:08:56.400-02:08:57.010 | Kenzo] Yeah.
@@ -1588,7 +1588,7 @@
 [u1588 | 02:11:14.010-02:11:15.339 | Kenzo] Hmm. Tell me the story. Yeah.
 [u1589 | 02:11:15.340-02:11:21.030 | DM] Killed a million people I don't know is that a big number.
 [u1590 | 02:11:22.840-02:11:23.610 | Kenzo] Pretty big.
-[u1591 | 02:11:23.970-02:11:26.930 | Delwath] Pretty big Kate.
+[u1591 | 02:11:23.970-02:11:26.930 | Delwath] Pretty big. Okay.
 [u1592 | 02:11:26.930-02:11:30.790 | DM] Tell him no good. Big man, big big boss man, the best.
 [u1593 | 02:11:30.790-02:11:40.660 | Delwath] Yeah, can you tell one of the sad black, big men
 [u1594 | 02:11:40.900-02:11:45.059 | Delwath] to come over here so we can, so we can throw it so so I can throw myself at him.
@@ -1750,7 +1750,7 @@
 [u1750 | 02:21:43.400-02:21:48.130 | DM] Yeah. Right visible from the tower which is floating above.
 [u1751 | 02:21:48.130-02:21:49.510 | Delwath] Of course. Yeah. Yeah.
 [u1752 | 02:21:51.310-02:21:52.976 | Kenzo] Oh, can we do telepathy.
-[u1753 | 02:21:53.450-02:21:55.600 | Delwath] Oh, yeah, affluent to empathy.
+[u1753 | 02:21:53.450-02:21:55.600 | Delwath] Oh, yeah, I forgot telepathy.
 [u1754 | 02:21:55.600-02:21:56.190 | Kenzo] Yeah.
 [u1755 | 02:21:56.480-02:21:58.420 | Wellby] I don't speak, giant, though.
 [u1756 | 02:21:59.220-02:21:59.779 | Delwath] You have to.
@@ -1816,7 +1816,7 @@
 [u1816 | 02:25:00.930-02:25:03.240 | DM] Not in giant. In what language
 [u1817 | 02:25:11.160-02:25:15.740 | DM] I mean. This guy probably speaks more than giant giants are quite smart.
 [u1818 | 02:25:18.300-02:25:21.749 | Delwath] What's our elves and elves and giants are not like.
-[u1819 | 02:25:23.150-02:25:28.870 | Kenzo] Pencil. I can do it in, giant, though I can just try it. Give me some inspiration. I have a plus one. I'll do it in giant.
+[u1819 | 02:25:23.150-02:25:28.870 | Kenzo] Kenzo. I can do it in, giant, though I can just try it. Give me some inspiration. I have a plus one. I'll do it in giant.
 [u1820 | 02:25:29.420-02:25:32.979 | Delwath] No? Well, is there a decent chance? A giant would at least recognize elvish.
 [u1821 | 02:25:33.470-02:25:35.410 | DM] Yeah, all right, I'll do it in elvish.
 [u1822 | 02:25:35.730-02:25:39.600 | DM] Okay, Seeker gives you inspiration if you need it.
@@ -1896,7 +1896,7 @@
 [u1896 | 02:31:30.290-02:31:32.259 | DM] Foolish, tiny people.
 [u1897 | 02:31:34.280-02:31:36.720 | DM] Do you know what is hovering above us?
 [u1898 | 02:31:37.900-02:31:38.430 | Delwath] Yes.
-[u1899 | 02:31:38.430-02:31:42.260 | Kenzo] But oh! That the desktop.
+[u1899 | 02:31:38.430-02:31:42.260 | Kenzo] But oh! That the Death Star.
 [u1900 | 02:31:42.260-02:31:45.320 | Delwath] But it, but it can be destroyed or disabled. Yes.
 [u1901 | 02:31:46.850-02:31:58.830 | Kenzo] Hey? Are we able to like through some kind of cantrip or some other way? Just like, because, like, you know, he's like, who are these little tiny human? Can we like? Send him some images of us, like killing a few dragons, and like, you know.
 [u1902 | 02:31:58.830-02:32:02.300 | DM] Oh, yeah, Seeker can like, Seeker puts on a little show.
@@ -1953,7 +1953,7 @@
 [u1953 | 02:35:58.810-02:36:05.149 | DM] I can't quite figure out if you're asking them to ally with you and fight, or for information, or both.
 [u1954 | 02:36:05.360-02:36:06.059 | Kenzo] Both ideally.
 [u1955 | 02:36:06.060-02:36:10.110 | Delwath] I think we're we're we're saying that.
-[u1956 | 02:36:11.700-02:36:16.029 | DM] He's clearly warmed up to you, but he's not necessarily {{like a bad}}.
+[u1956 | 02:36:11.700-02:36:16.029 | DM] He's clearly warmed up to you, but he's not necessarily like, about to.
 [u1957 | 02:36:16.030-02:36:17.460 | DM] I kind of like jump into.
 [u1958 | 02:36:17.460-02:36:18.349 | Kenzo] Okay, so.
 [u1959 | 02:36:18.350-02:36:20.269 | Delwath] No. No. Okay, so.
@@ -2024,7 +2024,7 @@
 [u2024 | 02:42:04.360-02:42:10.359 | DM] he can target you anywhere within a day's walk.
 [u2025 | 02:42:14.850-02:42:15.610 | Wellby] Oh!
 [u2026 | 02:42:18.010-02:42:22.790 | DM] My brother Snuck out at night many years ago.
-[u2027 | 02:42:25.940-02:42:31.540 | DM] after a sculpture carved into the side of the mountain he had worked, {{was getting mad}}
+[u2027 | 02:42:25.940-02:42:31.540 | DM] after a sculpture carved into the side of the mountain he had worked, was getting mad
 [u2028 | 02:42:32.290-02:42:38.100 | DM] for a hundred years to produce, was carelessly smashed to power. That thing that
 [u2029 | 02:42:43.860-02:42:48.830 | DM] but 2 days later they carried his ashes back, must have gotten
 [u2030 | 02:42:49.190-02:42:52.510 | DM] 15 miles away. In the night at least.
@@ -2059,9 +2059,9 @@
 [u2059 | 02:44:50.640-02:44:51.969 | Delwath] We all stare at Seeker.
 [u2060 | 02:44:52.500-02:44:53.150 | Kenzo] It's Seeker.
 [u2061 | 02:44:53.150-02:44:54.429 | DM] He looks up.
-[u2062 | 02:44:54.430-02:44:56.520 | Kenzo] Can you make a penny roll in arcana, or something like that?
+[u2062 | 02:44:54.430-02:44:56.520 | Kenzo] Can you make any roll in arcana, or something like that?
 [u2063 | 02:44:56.520-02:44:58.710 | Wellby] Why would we want to destroy it? Says.
-[u2064 | 02:44:58.710-02:45:07.909 | DM] Yeah, exactly. Why wait what you're suggesting? No, he means like, if you're actually looking at the {{back}} Seeker will be able to figure out so he can see how it's put together.
+[u2064 | 02:44:58.710-02:45:07.909 | DM] Yeah, exactly. Why wait what you're suggesting? No, he means like, if you're actually looking at the back Seeker will be able to figure out so he can see how it's put together.
 [u2065 | 02:45:08.650-02:45:12.309 | Delwath] Wait. Hold on, but we can also carry stuff on the Rainbow Bridge right.
 [u2066 | 02:45:13.060-02:45:13.670 | DM] Yeah.
 [u2067 | 02:45:13.670-02:45:15.190 | Delwath] Wait. Why are we stealing it?
@@ -2079,7 +2079,7 @@
 [u2079 | 02:45:48.380-02:45:49.660 | Kenzo] How do we think this thing works?
 [u2080 | 02:45:50.840-02:46:05.470 | DM] Chalyte in the mountain sends these bolts of purple lightning to the tower, which both holds it suspended, and then forms this core that runs down to the center of the tower to some kind of focusing ray, and you don't know what the thing at the bottom is, because you haven't seen it.
 [u2081 | 02:46:05.770-02:46:09.640 | DM] But the giant is suggesting it. He just somehow yeah.
-[u2082 | 02:46:09.640-02:46:12.669 | DM] off the flow of energy. It won't work.
+[u2082 | 02:46:09.640-02:46:12.669 | DM] Cut off the flow of energy. It won't work.
 [u2083 | 02:46:13.410-02:46:16.629 | DM] Or also, when somebody with arcane knowledge
 [u2084 | 02:46:17.100-02:46:19.970 | DM] sees the mechanism. It might be easier to destroy.
 [u2085 | 02:46:22.890-02:46:24.869 | Kenzo] Okay, there's a little crazy idea.
@@ -2096,7 +2096,7 @@
 [u2096 | 02:47:01.590-02:47:09.020 | Delwath] and then we could just leave the simulacrum to fight the guards and die and go down to the thing without even fighting the guards.
 [u2097 | 02:47:09.020-02:47:12.079 | Kenzo] But no, we want to do this whole thing totally undetected. As soon as like.
 [u2098 | 02:47:12.080-02:47:12.610 | Delwath] Can't.
-[u2099 | 02:47:12.610-02:47:13.410 | Kenzo] Cards.
+[u2099 | 02:47:12.610-02:47:13.410 | Kenzo] Guards.
 [u2100 | 02:47:14.510-02:47:17.350 | Delwath] Gonna teleport into the room. Somebody has to be visible when we.
 [u2101 | 02:47:17.350-02:47:17.720 | DM] Already.
 [u2102 | 02:47:17.720-02:47:18.040 | Delwath] That's where.
@@ -2106,7 +2106,7 @@
 [u2106 | 02:47:21.170-02:47:22.869 | Delwath] Is going to lose their invisibility.
 [u2107 | 02:47:24.740-02:47:28.180 | Kenzo] Or what if we just teleported and kill a guard really fast? There's that.
 [u2108 | 02:47:28.180-02:47:29.080 | Delwath] We could do that.
-[u2109 | 02:47:29.080-02:47:31.249 | Kenzo] Let's just let's just work 17th level mobile.
+[u2109 | 02:47:29.080-02:47:31.249 | Kenzo] Let's just let's just we’re 17th level mobile.
 [u2110 | 02:47:31.250-02:47:34.600 | Delwath] Yeah, we could like, try and kill the guards really quick. Yes.
 [u2111 | 02:47:34.600-02:47:35.210 | DM] Right.
 [u2112 | 02:47:36.387-02:47:38.049 | Delwath] But I need to go to bed.
@@ -2129,7 +2129,7 @@
 [u2129 | 02:48:36.890-02:48:38.980 | Kenzo] You know any things like that.
 [u2130 | 02:48:39.310-02:48:46.290 | DM] Yeah, no. He's like, once 50 foot abomination starts climbing out of his pit. We're running. That will like
 [u2131 | 02:48:46.290-02:48:49.689 | DM] totally fine. But sabotage as much as we can beforehand.
-[u2132 | 02:48:49.690-02:48:52.549 | Kenzo] Basketball, but also, is there any.
+[u2132 | 02:48:49.690-02:48:52.549 | Kenzo] That’s cool, but also, is there any.
 [u2133 | 02:48:52.660-02:48:54.610 | Delwath] Other giants.
 [u2134 | 02:48:54.920-02:49:04.289 | Delwath] My only real concern is that while we're killing 50 foot abomination, we get swarmed by 6 giants, and we can't take 6 giants and 50 foot abomination.
 [u2135 | 02:49:04.290-02:49:05.010 | Kenzo] Yeah, exactly.
@@ -2161,7 +2161,7 @@
 [u2161 | 02:51:10.340-02:51:12.650 | DM] it is slow.
 [u2162 | 02:51:15.460-02:51:24.130 | DM] You hear the echoes and the thunder like 10 min before he begins to grow out of.
 [u2163 | 02:51:28.200-02:51:30.640 | DM] Pits below, where he.
-[u2164 | 02:51:31.060-02:51:35.649 | Kenzo] Lives, and insists on being worshipped, or the Pittsburgh.
+[u2164 | 02:51:31.060-02:51:35.649 | Kenzo] Lives, and insists on being worshipped, are the pits.
 [u2165 | 02:51:35.650-02:51:37.330 | DM] So he says, what.
 [u2166 | 02:51:37.630-02:51:38.729 | Kenzo] Are the pits mapped.
 [u2167 | 02:51:40.600-02:51:49.339 | DM] No, nobody, I mean the ogres go in the mines, the abomination. The Dhrukmir lives down there somewhere, but the giants don't go down.
@@ -2208,7 +2208,7 @@
 [u2208 | 02:54:01.310-02:54:05.840 | DM] Faldrak has spent most of the time that you were walking flying away from the death ray.
 [u2209 | 02:54:06.750-02:54:07.660 | Kenzo] Smart.
 [u2210 | 02:54:09.220-02:54:14.660 | DM] And you say smart, and he's like I knew it. I knew you didn't want me to stay close to the death ray.
-[u2211 | 02:54:14.930-02:54:17.239 | Kenzo] Press her instincts. It's good.
+[u2211 | 02:54:14.930-02:54:17.239 | Kenzo] Trust your instincts. It's good.
 [u2212 | 02:54:17.240-02:54:25.369 | DM] And we'll end there, and then we'll pick up in the morning, after a long rest, as you prepare to assault the tower. Next time.
 [u2213 | 02:54:26.160-02:54:27.030 | Wellby] Fabulous.
 [u2214 | 02:54:27.410-02:54:28.799 | Kenzo] That was awesome. That was really fun.
@@ -2226,7 +2226,7 @@
 [u2226 | 02:55:18.050-02:55:19.599 | Kenzo] It was, the whole thing was great, and then.
 [u2227 | 02:55:19.600-02:55:20.449 | Delwath] It was, yeah.
 [u2228 | 02:55:20.450-02:55:21.349 | Kenzo] We have the we have the.
-[u2229 | 02:55:21.350-02:55:22.070 | Delwath] Ted Rock.
+[u2229 | 02:55:21.350-02:55:22.070 | Delwath] The rock.
 [u2230 | 02:55:22.070-02:55:29.919 | Kenzo] We figured out who the the actual do. The things were the revolutionary ones, and we had them come over. We talked to them, we learned all the information.
 [u2231 | 02:55:29.920-02:55:30.580 | Wellby] In architecture.
 [u2232 | 02:55:30.580-02:55:36.460 | Delwath] I was ready to give up on being able to find that guy so well well done tracking this dude down.
