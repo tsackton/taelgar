@@ -78,7 +78,7 @@
 [u0078 | 00:07:31.180-00:07:36.940 | DM] Yeah. They knew they knew that Grash was there. I mean, he was leading the army.
 [u0079 | 00:07:37.840-00:07:40.450 | Seeker] It's just interesting that it didn't figure into the story.
 [u0080 | 00:07:41.950-00:07:45.260 | DM] Well, the fight against Grash was not quite so
-[u0081 | 00:07:47.240-00:07:54.030 | DM] visually dramatic. No, they wouldn't have seen that happen {{next year they went to the city}}
+[u0081 | 00:07:47.240-00:07:54.030 | DM] visually dramatic. No, they wouldn't have seen that happen next year they went to the city
 [u0082 | 00:07:54.450-00:08:15.740 | Kenzo] well, except for those dudes that caught it on their phones and then uploaded it to went by so that the scene of of you know that the hand getting torn off and then thrown into the air. And then the you know well, that was a viral. For sure
 [u0083 | 00:08:15.770-00:08:26.389 | Kenzo] the halflings are gonna sing a very different version of this than the Orcs, the halflings. It'll all be about. Wellby destroying the ring.
 [u0084 | 00:08:26.560-00:08:38.799 | Kenzo] Oh, yeah, the universal solvent, is it just? Is it just water? Is it like literally, I just pour water on it. Solver.
@@ -204,7 +204,7 @@
 [u0204 | 00:27:41.880-00:27:48.169 | Delwath] Yes, Delwath sort of looks around, but seeing nobody objecting,
 [u0205 | 00:27:48.450-00:27:55.219 | Delwath] he would sort of point at the ship. We have plenty of space.
 [u0206 | 00:27:55.430-00:27:58.560 | Delwath] Currently we're hosting a
-[u0207 | 00:28:01.010-00:28:05.840 | Delwath] he pauses to think about a descriptive word for a minute, and it says,
+[u0207 | 00:28:01.010-00:28:05.840 | Delwath] he pauses to think about a descriptive word for a minute, and he says,
 [u0208 | 00:28:06.740-00:28:09.150 | Delwath] interesting dwarf!
 [u0209 | 00:28:11.600-00:28:17.550 | Delwath] but I forget his name. That's his name right?
 [u0210 | 00:28:17.630-00:28:22.160 | Delwath] and we expect several additional
@@ -219,7 +219,7 @@
 [u0219 | 00:28:58.700-00:29:03.230 | Delwath] and your sister. of course, be welcome as well.
 [u0220 | 00:29:07.200-00:29:08.270 | DM] Wonderful.
 [u0221 | 00:29:09.570-00:29:15.170 | DM] She looks over at her sister, who sort of just gives a quiet nod
-[u0222 | 00:29:17.510-00:29:24.690 | DM] up. I will unpack. Aygul's got another trunk of books.
+[u0222 | 00:29:17.510-00:29:24.690 | DM] Yep. I will unpack. Aygul's got another trunk of books.
 [u0223 | 00:29:25.020-00:29:30.559 | DM] If there's a space I could. I could set up, maybe as a little library. Of course.
 [u0224 | 00:29:31.080-00:29:36.369 | Delwath] I'm sure you are aware you might encounter some
 [u0225 | 00:29:37.410-00:29:39.420 | Delwath] difficulties in the wider world.
@@ -233,7 +233,7 @@
 [u0233 | 00:30:19.970-00:30:21.020 | DM] perhaps.
 [u0234 | 00:30:22.280-00:30:26.069 | DM] that would be a good place to
 [u0235 | 00:30:26.970-00:30:35.040 | DM] acquire some more books and and and lore. That would be quite interesting to me.
-[u0236 | 00:30:36.420-00:30:41.060 | Delwath] Not know if I'm quite up for shopping myself, but
+[u0236 | 00:30:36.420-00:30:41.060 | Delwath] Don’t know if I'm quite up for shopping myself, but
 [u0237 | 00:30:42.100-00:30:44.080 | DM] I can organize.
 [u0238 | 00:30:44.540-00:30:50.499 | Seeker] Take notes. You might be interested to meet the Philosopher's guild.
 [u0239 | 00:30:50.830-00:30:52.690 | Delwath] I was just thinking that
@@ -297,7 +297,7 @@
 [u0297 | 00:37:04.480-00:37:06.349 | Kenzo] a glittering green thing.
 [u0298 | 00:37:06.580-00:37:15.290 | Kenzo] Presumably those are the that's right. It's not Rai, Kenzo. Yeah. A glittering green thing, smooth jade
 [u0299 | 00:37:15.450-00:37:28.039 | Kenzo] nestled around the neck of a woman. The woman sleeps and dreams and eats and prays in a place that is elsewhere and nowhere, and ancient and ancient and new. a forest wrapped in nothingness.
-[u0300 | 00:37:28.190-00:37:33.360 | Kenzo] The woman is a man standing in the northern ridges of Alcarinque.
+[u0300 | 00:37:28.190-00:37:33.360 | Kenzo] The woman is a man standing in the northern reaches of Alcarinque.
 [u0301 | 00:37:33.560-00:37:42.029 | Kenzo] The woman is a man is a tree, a great tree. The tree and the jade is its heart. the jade grasps.
 [u0302 | 00:37:44.010-00:37:46.800 | Kenzo] So these are all different vignettes of different pieces of jade.
 [u0303 | 00:37:47.100-00:37:49.170 | Delwath] But wait, was there one
@@ -319,7 +319,7 @@
 [u0319 | 00:38:56.390-00:39:08.229 | Kenzo] Let me finish reading the whole. Oh, yeah, there's there's there's 5 pieces. Each one is presumably going to get a little. Okay.
 [u0320 | 00:39:08.400-00:39:11.739 | Riswynn] Wait. Were there were those 2 distinct things you read so far.
 [u0321 | 00:39:11.760-00:39:17.500 | Kenzo] Correct. First one, presumably, is is about Kenzo's piece, and then a little second one, I think, was about the Deno'qai.
-[u0322 | 00:39:17.810-00:39:20.739 | Kenzo] It's a third one. because Ryan, currently
+[u0322 | 00:39:17.810-00:39:20.739 | Kenzo] It's a third one. because Rai, currently
 [u0323 | 00:39:21.030-00:39:24.489 | Delwath] yeah, yeah. Third.
 [u0324 | 00:39:24.650-00:39:31.359 | Kenzo] a glittering green thing, smooth jade sparkling on the brow of a merfolk. Murfok shot. You skipped one.
 [u0325 | 00:39:31.830-00:39:37.600 | Kenzo] Oh, sorry. A glittering green thing, smooth. jade Is sitting in a lead box
@@ -334,7 +334,7 @@
 [u0334 | 00:40:31.870-00:40:34.170 | Delwath] great White. But
 [u0335 | 00:40:34.500-00:40:44.039 | Kenzo] there's something to unpack there. But I'll copy and paste this whole thing into the into our chat, so we can also look at it alright. The next one.
 [u0336 | 00:40:44.590-00:40:54.159 | Kenzo] a glittering green thing, smooth jade, sparkling on the brow of a merfolk. Right? We're gonna have to dislodge something from the forehead of a
-[u0337 | 00:40:54.760-00:40:55.560 | Kenzo] bye.
+[u0337 | 00:40:54.760-00:40:55.560 | Kenzo] guy.
 [u0338 | 00:40:55.730-00:41:03.780 | Kenzo] The merfolk swims and takes and reaps the merfolk gloats over the waves of the elemental sea. The echoes of Water Eternal.
 [u0339 | 00:41:03.870-00:41:07.809 | Kenzo] The merfolk commands, the jade resists, but is overwhelmed.
 [u0340 | 00:41:07.850-00:41:20.680 | Kenzo] The merfolk is a merfolk at peace among kelp forests, singing to the jade, watching the light change through the vast undersea forests. The merfolk is a merfolk slaughtering, taking the jade, the jade cries
@@ -354,11 +354,11 @@
 [u0354 | 00:42:50.240-00:42:55.940 | Delwath] Huh! But it it started, not found. And it ended. There's no people in that one?
 [u0355 | 00:42:58.170-00:42:59.789 | Kenzo] Yeah. So I think.
 [u0356 | 00:42:59.880-00:43:02.940 | Kenzo] where did Alcarinque? Where? How? Where? Is it? On the map?
-[u0357 | 00:43:04.780-00:43:14.030 | DM] It's like {{drain everywhere}}. It's like Drankor Dunmar all the way north to Orenlas, and then all the way around the mountains to
+[u0357 | 00:43:04.780-00:43:14.030 | DM] It's like drain everywhere. It's like Drankor Dunmar all the way north to Orenlas, and then all the way around the mountains to
 [u0358 | 00:43:14.220-00:43:17.560 | Kenzo] Nice. Nice. It was huge. Yeah.
 [u0359 | 00:43:18.250-00:43:21.100 | Delwath] but there's no jungles in that stretch.
 [u0360 | 00:43:21.920-00:43:28.100 | Delwath] Well, maybe. Oh, but maybe down by Drankor that's by Drankor, of course.
-[u0361 | 00:43:28.250-00:43:45.569 | Delwath] cause like, we obviously have to go to Drankor. Yeah, okay, well, this is this is part of the last, the last, the last piece, right? Yeah, yeah. It's gonna be down towards Drankor. That makes sense right now. Right now we're we gotta go to Ursk next, since we're in the north, and we'll go to merfolk to the west, and then we'll go to get {{this flu}}. But we're also gonna kill Fausto when we're by the merfolk.
+[u0361 | 00:43:28.250-00:43:45.569 | Delwath] cause like, we obviously have to go to Drankor. Yeah, okay, well, this is this is part of the last, the last, the last piece, right? Yeah, yeah. It's gonna be down towards Drankor. That makes sense right now. Right now we're we gotta go to Ursk next, since we're in the north, and we'll go to merfolk to the west, and then we'll go to get this flu. But we're also gonna kill Fausto when we're by the merfolk.
 [u0362 | 00:43:45.850-00:43:50.430 | Kenzo] Yeah, in fact, these are these are in the order in which we got them cause the first one I got.
 [u0363 | 00:43:50.460-00:44:01.139 | Kenzo] you know I already had second, and then the third one is is is Ursk, and then the fourth one. So it's actually nicely in in a quest order should we abide by quest order?
 [u0364 | 00:44:01.690-00:44:05.139 | Kenzo] All right. And then, finally, the jade is a hand.
@@ -385,7 +385,7 @@
 [u0385 | 00:45:49.790-00:45:53.210 | Riswynn] are the peoples of the Philosopher's guild of all races.
 [u0386 | 00:45:54.170-00:45:55.690 | Delwath] We think they're dragons
 [u0387 | 00:45:57.000-00:46:00.510 | Seeker] with no evidence whatsoever. The ones we've met.
-[u0388 | 00:46:00.900-00:46:02.020 | Seeker] We're
+[u0388 | 00:46:00.900-00:46:02.020 | Seeker] were
 [u0389 | 00:46:02.820-00:46:04.940 | Delwath] humans, right? Yeah. You met
 [u0390 | 00:46:05.050-00:46:11.649 | DM] you met 2 you met. One of them was a human, and you saw a couple of other humans around.
 [u0391 | 00:46:12.360-00:46:14.379 | DM] But they were perfectly happy to
@@ -415,14 +415,14 @@
 [u0415 | 00:48:41.040-00:48:45.639 | DM] You don't have any doubt that this is a genuine communication from them.
 [u0416 | 00:48:48.240-00:48:52.319 | DM] Exactly what it means, of course. less clear.
 [u0417 | 00:48:55.220-00:48:58.809 | DM] Maybe this will take you less time than the 2 years of that
-[u0418 | 00:48:59.370-00:49:03.830 | DM] I got that was hiding in the ring for the pay. Off on this one. We'll see.
+[u0418 | 00:48:59.370-00:49:03.830 | DM] god that was hiding in the ring for the pay. Off on this one. We'll see.
 [u0419 | 00:49:06.060-00:49:08.379 | Seeker] I mean how we have the scholar ship. So.
 [u0420 | 00:49:14.250-00:49:18.510 | DM] anyway, as you all discuss that, you still want to go into Kharsan.
 [u0421 | 00:49:18.680-00:49:20.070 | Unknown] I really think we do.
 [u0422 | 00:49:22.480-00:49:27.450 | Seeker] I mean, just for a minute, you know. Check out a a day or 2,
 [u0423 | 00:49:27.900-00:49:29.980 | Delwath] I mean, we're not in a rush, right?
 [u0424 | 00:49:30.080-00:49:36.470 | Riswynn] With appropriate precautions. The other thing that we had was a mirror vision of something happening in Kharsan.
-[u0425 | 00:49:38.040-00:49:47.289 | DM] a giant tramping through and yeah wrecking the place soon after the great War. That's the same giant that then attacked Tokra and {{beseech the box}}.
+[u0425 | 00:49:38.040-00:49:47.289 | DM] a giant tramping through and yeah wrecking the place soon after the great War. That's the same giant that then attacked Tokra and besieged the monks.
 [u0426 | 00:49:51.060-00:49:55.789 | DM] So Kharsan, from the air, just to remind you of what this looks like.
 [u0427 | 00:49:56.360-00:50:01.519 | DM] I picked a good background. It looks kind of like this. On one side there's a dry river
 [u0428 | 00:50:01.940-00:50:06.240 | Seeker] on the left side. There's cliffs on the right side. There's the ruined city
@@ -436,7 +436,7 @@
 [u0436 | 00:50:43.910-00:50:45.410 | DM] but I will eventually
 [u0437 | 00:50:46.040-00:50:49.979 | DM] all of their tombs are are these.
 [u0438 | 00:50:50.200-00:50:56.350 | DM] usually like 5 sided step pyramid type, things with like
-[u0439 | 00:50:56.680-00:51:10.640 | DM] spirally arms that that reach out in various degrees of of fancyness. And all of these tombs are set. Probably, even, however, Kharsan playlist. From
+[u0439 | 00:50:56.680-00:51:10.640 | DM] spirally arms that that reach out in various degrees of of fancyness. And all of these tombs are set. Probably, even, have a, Kharsan playlist. From
 [u0440 | 00:51:12.160-00:51:14.050 | DM] here we go into Kharsan.
 [u0441 | 00:51:14.800-00:51:26.399 | DM] They're all set on a ridge along these cliffs. and then from your ship you can see clearly, like the layout right on the
 [u0442 | 00:51:26.550-00:51:36.300 | DM] that's the west side of this dry river on the east side of the Dry River. You can see the monastery. the like monastery complex, the
@@ -517,7 +517,7 @@
 [u0517 | 00:58:39.950-00:58:44.240 | Kenzo] protection, right? So they were gonna come West after they got the cloak.
 [u0518 | 00:58:45.530-00:58:47.210 | Kenzo] Likely that seems likely.
 [u0519 | 00:58:47.280-00:58:53.230 | Wellby] Which then suggests all their stuff in Kharsan was really just like staging, first staging to go East and then
-[u0520 | 00:58:53.500-00:58:55.839 | Wellby] staging {{Aos}}, but not like permanent.
+[u0520 | 00:58:53.500-00:58:55.839 | Wellby] staging Aos, but not like permanent.
 [u0521 | 00:58:56.290-00:58:59.239 | Seeker] Well, you have no idea when they learn that
 [u0522 | 00:58:59.680-00:59:03.140 | DM] about the Orcs of Uzgukhar like?
 [u0523 | 00:59:03.440-00:59:04.749 | Delwath] But they knew
@@ -566,12 +566,12 @@
 [u0566 | 01:02:45.010-01:02:45.840 | Seeker] Hmm!
 [u0567 | 01:02:46.810-01:02:50.979 | DM] Give me the creeps. They fly through you, I mean.
 [u0568 | 01:02:52.390-01:02:53.210 | Seeker] horrible!
-[u0569 | 01:02:55.790-01:02:57.140 | DM] We're stealing
+[u0569 | 01:02:55.790-01:02:57.140 | DM] Worst feeling
 [u0570 | 01:02:57.450-01:03:00.620 | DM] just that horrible cold.
 [u0571 | 01:03:04.030-01:03:09.760 | DM] So if there's undead down there. Even more reason you should let me stay and fly the ship.
 [u0572 | 01:03:10.980-01:03:13.920 | Seeker] Well, you're welcome to stay on the ship, that's for sure.
 [u0573 | 01:03:16.160-01:03:17.580 | Seeker] and
-[u0574 | 01:03:18.860-01:03:20.839 | Seeker] if we use the writer which
+[u0574 | 01:03:18.860-01:03:20.839 | Seeker] if we use the Rainbow Bridge
 [u0575 | 01:03:22.350-01:03:31.539 | DM] takes his cane and kind of storms off in a huff, muttering He'll let you do it one day, Faldrak, I promise.
 [u0576 | 01:03:32.270-01:03:34.519 | DM] don't worry. He'll let you do it
 [u0577 | 01:03:36.070-01:03:44.459 | Seeker] himself in the third person, or is like the spirit that is, yeah. We
@@ -659,7 +659,7 @@
 [u0659 | 01:11:35.940-01:11:49.219 | Delwath] Kharsan's fall right like are there secret Dunmari passages here that we could find, or like just old stuff that would be interesting. Also, Delwath is going to. Really, I would like to go. Delwath fell from the sky right here, right?
 [u0660 | 01:11:49.870-01:11:52.389 | DM] Yeah, among the samraat tombs.
 [u0661 | 01:11:52.550-01:11:59.380 | Delwath] Okay, maybe when we're leaving, I'll sort of, although the mystery is solved as to why it was here. So.
-[u0662 | 01:11:59.810-01:12:04.789 | Delwath] But Hi, I'm here. Randomness, as far as I can tell
+[u0662 | 01:11:59.810-01:12:04.789 | Delwath] But why I’m here. Randomness, as far as I can tell
 [u0663 | 01:12:05.600-01:12:11.389 | Delwath] it it it this Deno'qai fire Druid cracked open the
 [u0664 | 01:12:11.580-01:12:17.639 | Delwath] destroyed, the armband that had teleported Delwath to another plane, which is why he escaped.
 [u0665 | 01:12:19.120-01:12:19.830 | Delwath] But
@@ -705,7 +705,7 @@
 [u0705 | 01:16:10.140-01:16:11.500 | Kenzo] rhythm or Grash's stuff.
 [u0706 | 01:16:11.640-01:16:14.559 | Wellby] yeah, which stuff Grash couldn't find.
 [u0707 | 01:16:15.210-01:16:18.830 | Seeker] I mean, I guess they didn't have been using stables because they don't have any
-[u0708 | 01:16:18.900-01:16:20.510 | Delwath] right. And features.
+[u0708 | 01:16:18.900-01:16:20.510 | Delwath] riding creatures.
 [u0709 | 01:16:22.280-01:16:27.609 | Delwath] I mean, did Grash bring anything with him like. Presumably we looted the army somewhat.
 [u0710 | 01:16:28.200-01:16:31.610 | Delwath] He didn't have like a chest labeled Secret Treasure. Sure
 [u0711 | 01:16:32.440-01:16:33.640 | Seeker] they know
@@ -744,7 +744,7 @@
 [u0744 | 01:19:55.530-01:20:06.750 | DM] to your eyes they're super obvious. They're clearly designed to sort of blend in on the sort of north side like 2 sort of
 [u0745 | 01:20:07.660-01:20:11.699 | DM] doors that just have no obvious seam, right like there's no
 [u0746 | 01:20:11.930-01:20:18.040 | DM] handle or anything but like to your perception. They're super clear right there.
-[u0747 | 01:20:19.630-01:20:23.230 | Wellby] Wellby just walked straight over there. And Tate.
+[u0747 | 01:20:19.630-01:20:23.230 | Wellby] Wellby just walked straight over there. and says.
 [u0748 | 01:20:24.150-01:20:25.789 | Unknown] that's a funny place to put a door.
 [u0749 | 01:20:27.680-01:20:30.390 | Delwath] Okay, let's open it up
 [u0750 | 01:20:32.060-01:20:38.629 | DM] it opens into a corridor
@@ -778,7 +778,7 @@
 [u0778 | 01:23:25.120-01:23:28.969 | Delwath] we could try and strike up a chat. We could try and strike up a chat, but I mean
 [u0779 | 01:23:29.020-01:23:38.240 | Delwath] go holy symbol first, in case they're not friendly and don't want to talk right. I mean, if I go holy symbol first, they will run away.
 [u0780 | 01:23:39.510-01:23:43.450 | Delwath] maybe wait for them to attack us, to make them die.
-[u0781 | 01:23:43.530-01:23:54.079 | Delwath] I will have my holy symbol in my hand, and I will be ready to do this sort out right? Like, we're not fools here.
+[u0781 | 01:23:43.530-01:23:54.079 | Delwath] I will have my holy symbol in my hand, and I will be ready to do this sword out right? Like, we're not fools here.
 [u0782 | 01:23:54.260-01:23:56.010 | Kenzo] Can can I? soul sight them?
 [u0783 | 01:23:56.210-01:23:57.710 | Delwath] Okay? Sure.
 [u0784 | 01:23:57.860-01:24:01.090 | Kenzo] yeah, you have to open the door.
@@ -820,10 +820,10 @@
 [u0820 | 01:26:46.340-01:26:51.840 | DM] turns and screeches this howling
 [u0821 | 01:26:52.840-01:26:53.860 | DM] babel
 [u0822 | 01:26:54.200-01:26:55.280 | Unknown] at you
-[u0823 | 01:26:56.090-01:27:04.839 | DM] And everybody {{watch it be just}} make a wisdom saving throw.
+[u0823 | 01:26:56.090-01:27:04.839 | DM] And everybody watch it be just make a wisdom saving throw.
 [u0824 | 01:27:13.520-01:27:20.040 | Seeker] If anybody rolls less than a 14. Let me know. I rolled less than a 14
 [u0825 | 01:27:20.260-01:27:21.579 | Riswynn] roll. The 20
-[u0826 | 01:27:23.020-01:27:24.410 | DM] {{Chrissie did}}.
+[u0826 | 01:27:23.020-01:27:24.410 | DM] Chrissie did.
 [u0827 | 01:27:26.160-01:27:28.939 | DM] Everybody who rolled
 [u0828 | 01:27:29.490-01:27:43.940 | DM] more than a 14 takes I. 7 points of psychic damage. Everybody who rolled less than a 14 takes 14 points of psychic damage and is stunned.
 [u0829 | 01:27:45.400-01:27:47.299 | Delwath] Wow! That's painful.
@@ -917,7 +917,7 @@
 [u0917 | 01:36:00.940-01:36:02.080 | DM] It would take
 [u0918 | 01:36:04.000-01:36:06.330 | DM] fair bit of luck and effort to
 [u0919 | 01:36:07.330-01:36:14.620 | DM] grab all, find all of the shards and bring them back together, and even at that point it might be difficult and
-[u0920 | 01:36:14.860-01:36:21.949 | DM] see much, but this was clearly like up a planning room to the extent that Grash had one.
+[u0920 | 01:36:14.860-01:36:21.949 | DM] see much, but this was clearly like a planning room to the extent that Grash had one.
 [u0921 | 01:36:23.050-01:36:24.570 | Delwath] There anything
 [u0922 | 01:36:25.690-01:36:27.660 | Delwath] out, I mean.
 [u0923 | 01:36:34.760-01:36:35.599 | Delwath] I don't know.
@@ -958,8 +958,8 @@
 [u0958 | 01:39:15.380-01:39:17.500 | DM] Yeah, they all turn to dust.
 [u0959 | 01:39:17.610-01:39:18.420 | Seeker] Hmm.
 [u0960 | 01:39:18.850-01:39:20.040 | Delwath] thank you, Riswynn.
-[u0961 | 01:39:20.310-01:39:22.640 | Riswynn] You're welcome with a nice jug
-[u0962 | 01:39:23.960-01:39:32.119 | Kenzo] when we were doing all this before our fully repair void, do we? Was Riswynn part of part of our Riswynn wasn't there then. man? This is also much easier.
+[u0961 | 01:39:20.310-01:39:22.640 | Riswynn] You're welcome with a nice jog
+[u0962 | 01:39:23.960-01:39:32.119 | Kenzo] when we were doing all this before all through clairvoyance, do we? Was Riswynn part of part of our Riswynn wasn't there then. man? This is also much easier.
 [u0963 | 01:39:32.130-01:39:43.049 | Kenzo] Well, you know why, it's easy. Also, we're running Tim's dungeon that he created for Fifth Level characters at Thirteenth level. Yeah, no, of course, this is great. This is like awesome
 [u0964 | 01:39:43.560-01:39:45.789 | Kenzo] love, it loving it. It is great.
 [u0965 | 01:39:46.460-01:39:49.370 | Delwath] Okay, we blow up the specters. What else is up here?
@@ -1073,7 +1073,7 @@
 [u1073 | 01:50:23.530-01:50:25.660 | DM] come buzzing straight towards you.
 [u1074 | 01:50:28.380-01:50:30.289 | Kenzo] Who's got like fireball.
 [u1075 | 01:50:32.040-01:50:34.690 | Delwath] Wow! I'll just blast 3 of them. Why not?
-[u1076 | 01:50:34.940-01:50:45.820 | Riswynn] I mean, it's Texas repellent. rather a flammable place. We kind of want the few scraps of paper that are
+[u1076 | 01:50:34.940-01:50:45.820 | Riswynn] I mean, insect repellent. rather a flammable place. We kind of want the few scraps of paper that are
 [u1077 | 01:50:45.830-01:50:51.019 | DM] II don't mean like, literally fireball. But who's got like the
 [u1078 | 01:50:51.050-01:50:57.290 | Delwath] that's what I'm saying. Yeah, just like the destroy them all. But is it worth casting a spell. I guess we could cast a spell.
 [u1079 | 01:50:59.480-01:51:07.840 | Kenzo] Yeah, fine. I'll cast Sickening Radiance.
@@ -1082,11 +1082,11 @@
 [u1082 | 01:51:18.170-01:51:20.260 | Delwath] I mean, it's only a DC. 19.
 [u1083 | 01:51:21.860-01:51:23.310 | DM] All of them fail
 [u1084 | 01:51:23.930-01:51:24.960 | Delwath] alright
-[u1085 | 01:51:24.980-01:51:27.869 | Delwath] to have any hip width. So the wasps all collapsed.
+[u1085 | 01:51:24.980-01:51:27.869 | Delwath] don’t have any hit points. So the wasps all collapsed.
 [u1086 | 01:51:28.940-01:51:31.310 | Delwath] How much damage does it do? 28.
 [u1087 | 01:51:31.450-01:51:33.139 | DM] Okay, yeah, they all die.
 [u1088 | 01:51:34.780-01:51:43.470 | Delwath] I'll dismiss it before we go in. I love that what would have been like a terrifying climactic battle? It's like
-[u1089 | 01:51:44.620-01:51:47.519 | Delwath] dial if I must.
+[u1089 | 01:51:44.620-01:51:47.519 | Delwath] die, if I must.
 [u1090 | 01:51:47.940-01:51:51.320 | Kenzo] but the dismiss it before I walk in is the classic like
 [u1091 | 01:51:51.450-01:51:55.769 | Kenzo] you see a door? You want to walk through the door like, yeah, you walk through the door
 [u1092 | 01:51:56.240-01:51:57.789 | Kenzo] is a cyberpunk.
@@ -1162,7 +1162,7 @@
 [u1162 | 01:58:57.520-01:58:59.830 | Kenzo] In the eyes of these Orcs
 [u1163 | 01:59:00.020-01:59:00.920 | Delwath] cool.
 [u1164 | 01:59:01.200-01:59:10.679 | Delwath] I walked back, and you were like hovering over Grash's head, I'm like, what's going on.
-[u1165 | 01:59:10.910-01:59:15.399 | Kenzo] Yeah. Kenzo. Kenzo takes a few pictures of these with a dipon.
+[u1165 | 01:59:10.910-01:59:15.399 | Kenzo] Yeah. Kenzo. Kenzo takes a few pictures of these with an iPhone.
 [u1166 | 01:59:16.440-01:59:19.879 | Wellby] Yeah, this is, it's horrible.
 [u1167 | 01:59:20.250-01:59:23.660 | Kenzo] Yeah, this is pretty pretty dark, pretty dark stuff.
 [u1168 | 01:59:26.810-01:59:30.589 | Wellby] We can like destroy this or something, at least burn the place down on our way.
@@ -1173,7 +1173,7 @@
 [u1173 | 01:59:39.960-01:59:41.530 | DM] So the next day
 [u1174 | 01:59:41.710-01:59:56.110 | DM] Nuzkar brings wants to bring her sister. So you're what is your what is your goal for? The next day the twenty-sixth of January.
 [u1175 | 01:59:57.790-01:59:59.470 | DM] Show something to the mirror.
-[u1176 | 02:00:00.160-02:00:05.149 | Unknown] Just an engineer. Bring our hirelings down to like reconstruct stuff from the library, check out this mural
+[u1176 | 02:00:00.160-02:00:05.149 | Unknown] Just in general. Bring our hirelings down to like reconstruct stuff from the library, check out this mural
 [u1177 | 02:00:05.270-02:00:12.319 | Kenzo] any like interesting things we can bring our. We can, you know, get our hirelings some some research projects.
 [u1178 | 02:00:12.560-02:00:13.350 | DM] Okay?
 [u1179 | 02:00:14.140-02:00:15.460 | Delwath] Then I think we're
@@ -1182,7 +1182,7 @@
 [u1182 | 02:00:28.270-02:00:28.970 | DM] Yeah.
 [u1183 | 02:00:29.390-02:00:33.840 | Kenzo] Specter cafe course.
 [u1184 | 02:00:35.140-02:00:38.250 | Riswynn] Delwath can use this new spatula.
-[u1185 | 02:00:38.460-02:00:40.809 | Kenzo] Devil's eggs, devils, eggs.
+[u1185 | 02:00:38.460-02:00:40.809 | Kenzo] Deviled eggs, deviled eggs.
 [u1186 | 02:00:40.880-02:00:45.879 | Kenzo] everything's dry as a bone.
 [u1187 | 02:00:47.470-02:00:51.889 | DM] So you bring the orcs down.
 [u1188 | 02:00:52.550-02:00:54.730 | DM] Nuzkar, the the archivist.
@@ -1197,7 +1197,7 @@
 [u1197 | 02:01:28.010-02:01:30.950 | DM] in in
 [u1198 | 02:01:33.160-02:01:35.910 | DM] sadness more than anything else.
 [u1199 | 02:01:38.680-02:01:42.780 | DM] and she looks over at the at the like. Living quarters
-[u1200 | 02:01:47.020-02:01:48.390 | DM] we had known
+[u1200 | 02:01:47.020-02:01:48.390 | DM] If we had known
 [u1201 | 02:01:50.260-02:01:53.189 | DM] must have been hundreds of kids. We could have saved.
 [u1202 | 02:01:56.210-02:01:57.620 | DM] Grash killed them all!
 [u1203 | 02:02:02.970-02:02:05.770 | DM] She sort of shivers a bit a little bit.
@@ -1232,7 +1232,7 @@
 [u1232 | 02:04:14.360-02:04:16.010 | DM] but nowhere to turn.
 [u1233 | 02:04:17.730-02:04:20.430 | DM] And something about this spot
 [u1234 | 02:04:24.610-02:04:26.609 | DM] you can feel actually the
-[u1235 | 02:04:27.810-02:04:29.200 | DM] entered the
+[u1235 | 02:04:27.810-02:04:29.200 | DM] and the
 [u1236 | 02:04:32.370-02:04:34.040 | DM] holiness of
 [u1237 | 02:04:34.920-02:04:37.870 | DM] of monastery of Bhishma.
 [u1238 | 02:04:39.250-02:04:45.670 | DM] It's almost as if this was the furthest that the plague could go.
@@ -1406,9 +1406,9 @@
 [u1406 | 02:20:33.720-02:20:36.259 | DM] wow! You look!
 [u1407 | 02:20:38.110-02:20:40.500 | DM] Never thought I'd see you looking so good.
 [u1408 | 02:20:41.110-02:20:42.559 | Kenzo] He doesn't look that good
-[u1409 | 02:20:43.070-02:20:45.980 | Kenzo] bobble. It's not. It's just a
+[u1409 | 02:20:43.070-02:20:45.980 | Kenzo] Pava. It's not. It's just a
 [u1410 | 02:20:47.290-02:20:55.470 | Kenzo] yeah. He's having a good day. He's having a good day. Normally, it's not okay.
-[u1411 | 02:20:55.490-02:20:58.100 | Riswynn] You don't have to be jealous of out.
+[u1411 | 02:20:55.490-02:20:58.100 | Riswynn] You don't have to be jealous of Delwath.
 [u1412 | 02:20:58.150-02:21:01.500 | Kenzo] Oh, it's it's not jealousy, it's just. It's just, you know.
 [u1413 | 02:21:01.530-02:21:05.079 | Kenzo] trying to maintain some objectivity here for you.
 [u1414 | 02:21:06.110-02:21:15.359 | Delwath] It's been a long journey. I should tell you the tale of it. I know much more than I did last. I was here.
@@ -1535,7 +1535,7 @@
 [u1535 | 02:33:40.580-02:33:42.660 | DM] not sure if it's good or bad.
 [u1536 | 02:33:45.000-02:33:47.649 | DM] You you know the battle of Tokra. Yes.
 [u1537 | 02:33:48.520-02:33:50.160 | Kenzo] Sura's armies
-[u1538 | 02:33:51.380-02:33:53.410 | DM] {{thought}}
+[u1538 | 02:33:51.380-02:33:53.410 | DM] thought
 [u1539 | 02:33:53.930-02:33:57.280 | DM] there was no fighting during the holy month.
 [u1540 | 02:33:59.660-02:34:01.720 | DM] There was a few skirmishes
 [u1541 | 02:34:02.790-02:34:04.370 | DM] around.
@@ -1598,7 +1598,7 @@
 [u1598 | 02:39:13.500-02:39:19.290 | DM] that she was killed. Nobody really knows the story of her being captured. That's a widely told story.
 [u1599 | 02:39:19.530-02:39:27.139 | Delwath] It's not that we have a relationship with him exactly, but we could tell them about the scepter could tell him we destroyed it.
 [u1600 | 02:39:27.320-02:39:35.379 | Kenzo] Well, it's just a matter a matter of trust, is he? It is yet is he already prejudiced against us or not? Is the question. He won't listen to his own gods.
-[u1601 | 02:39:35.530-02:39:37.800 | Riswynn] I mean, {{listen to this by the bus}}.
+[u1601 | 02:39:35.530-02:39:37.800 | Riswynn] I mean, listen to the five of us.
 [u1602 | 02:39:37.990-02:39:41.900 | Delwath] I don't know if {{his God's deception has been destroyed, or are telling him that}}
 [u1603 | 02:39:42.440-02:39:44.870 | Delwath] Gods speak in riddles right
 [u1604 | 02:39:45.400-02:39:46.530 | Riswynn] well they do.
@@ -1610,7 +1610,7 @@
 [u1610 | 02:40:16.490-02:40:19.430 | Delwath] showing up via teleport on your doorstep
 [u1611 | 02:40:20.890-02:40:23.019 | Kenzo] is not intimidating more than
 [u1612 | 02:40:23.460-02:40:26.950 | Delwath] well, but intimidation works almost as well as convincing. Right?
-[u1613 | 02:40:29.770-02:40:31.719 | Kenzo] I don't know. {{Take it into one}}.
+[u1613 | 02:40:29.770-02:40:31.719 | Kenzo] I don't know. Take it into one.
 [u1614 | 02:40:32.090-02:40:36.880 | Riswynn] Yeah, throw on the charm and persuasion over there must have some.
 [u1615 | 02:40:37.180-02:40:39.059 | Delwath] We are not unconvincing.
 [u1616 | 02:40:39.910-02:40:43.800 | Kenzo] But what's our what's our worry about the Chardonian influence over Karnas.
@@ -1635,7 +1635,7 @@
 [u1635 | 02:42:33.540-02:42:34.980 | Kenzo] like at our backs.
 [u1636 | 02:42:35.040-02:42:38.769 | Kenzo] you know, when the actual rate when we raze Chardon, you know, so
 [u1637 | 02:42:39.500-02:42:40.290 | Delwath] that
-[u1638 | 02:42:41.140-02:42:49.240 | Delwath] my assumption is that a United Dunmar would present a front, that Chardon would be {{interested in metal}} Chardon.
+[u1638 | 02:42:41.140-02:42:49.240 | Delwath] my assumption is that a United Dunmar would present a front, that Chardon would be interested in meddling Chardon.
 [u1639 | 02:42:49.910-02:42:52.770 | Delwath] The impression I have at least is that Chardon's not like
 [u1640 | 02:42:53.030-02:42:57.080 | Delwath] an imperial conquesting power that's gonna get involved in
 [u1641 | 02:42:57.600-02:43:17.059 | Delwath] marching armies in to defeat Dunmar. It's just they're opportunists. No, but aren't they, though? Isn't that the long term plan? Isn't the whole Fausto Apollyon thing to like? Resurrect the Drankorian Empire through Chardon? So aren't they not entirely clear how much, exactly how much power Fausto has in Chardon.
@@ -1647,7 +1647,7 @@
 [u1647 | 02:44:00.520-02:44:07.060 | Kenzo] What's the word like release for his childhood trauma. You know what I mean. So it's gotta manifest somehow. So you know.
 [u1648 | 02:44:07.100-02:44:13.510 | Kenzo] it's like razing that, razing the the the, you know, the the source of his. You know childhood depression. You know what I mean.
 [u1649 | 02:44:14.280-02:44:20.409 | Delwath] I mean, I could be talked out of it. But that's just kind of my my my go to instinct right now is to
-[u1650 | 02:44:21.700-02:44:27.500 | Delwath] I mean, it seems to me. Well, we should {{get platforms}} right, but like
+[u1650 | 02:44:21.700-02:44:27.500 | Delwath] I mean, it seems to me. Well, we should get platforms right, but like
 [u1651 | 02:44:29.680-02:44:30.750 | Delwath] of us.
 [u1652 | 02:44:31.210-02:44:38.890 | Wellby] I feel like. or Wellby like. There's a sense of some amount of responsibility for having caused some amount of this problem.
 [u1653 | 02:44:39.370-02:44:40.140 | Kenzo] Okay?
@@ -1657,7 +1657,7 @@
 [u1657 | 02:44:58.400-02:45:11.190 | Kenzo] I mean, it's not a bad idea just to be like, Hey, this is where your sister was. This is the quarter. Put him in the exact same room that she was in. You know what I mean, and then bring him out like, see? Now, you understand, you know.
 [u1658 | 02:45:13.120-02:45:31.450 | Delwath] like we could jump on his doorstep and be like, okay, like, you're clearly not getting it. The gods have been telling you what's going on, but you're not getting it. So here you go. We're gonna walk you through it. See this mirror? Your sister is in it. Why don't you take a tour right
 [u1659 | 02:45:31.970-02:45:35.439 | Delwath] like bound his head into it? I mean, we could try that tack
-[u1660 | 02:45:40.830-02:45:45.340 | Delwath] like presumably like {{teleport into the he's in}}.
+[u1660 | 02:45:40.830-02:45:45.340 | Delwath] like presumably like teleport into the he's in.
 [u1661 | 02:45:45.500-02:45:49.380 | Delwath] But you don't really know where he is.
 [u1662 | 02:45:49.550-02:45:52.690 | DM] I mean Nayahar is where he was based. But then
 [u1663 | 02:45:52.770-02:45:59.539 | Riswynn] the 2 armies are sort of camped out in the copper hills across from each other for a while.
@@ -1679,7 +1679,7 @@
 [u1679 | 02:47:38.210-02:47:41.880 | Delwath] new diplomacy tool.
 [u1680 | 02:47:42.230-02:47:50.619 | Kenzo] Honestly, we really could. We could bring them both on the skyship, and then and then work it out. You're proposing. We fly our skyship across Dunmar
 [u1681 | 02:47:51.060-02:48:05.380 | Delwath] and then summon the 2 warring leaders of Dunmar to our ship and basically scold them like naughty children to say, let's make up sort out. I mean, it's brilliant, right? I love it like it's gonna
-[u1682 | 02:48:05.440-02:48:06.650 | Delwath] it's gonna write.
+[u1682 | 02:48:05.440-02:48:06.650 | Delwath] it's gonna right.
 [u1683 | 02:48:07.190-02:48:09.769 | Unknown] Fausto will have no trouble finding us.
 [u1684 | 02:48:11.940-02:48:13.290 | Kenzo] What do you mean
 [u1685 | 02:48:13.550-02:48:16.620 | Delwath] it? We're gonna I mean, it's gonna become.
@@ -1697,9 +1697,9 @@
 [u1697 | 02:49:41.650-02:49:59.339 | Riswynn] let's let's do a quick scry. I mean, basically, Tim, it's like it's like, you know, do we? Wanna do we? Wanna since there's like a lull in Dunmar Civil War right now, do we wanna host a a diplomatic intervention, you know, be so public. Can't we just
 [u1698 | 02:49:59.980-02:50:01.170 | Unknown] straighten out
 [u1699 | 02:50:01.180-02:50:08.209 | Riswynn] Kar-, Kar-, Karnas, or whatever? If we show up in the sky ship
-[u1700 | 02:50:08.730-02:50:20.730 | Delwath] right? There is no way that they will in any way not talk to us right? Why, a castle over the over.
-[u1701 | 02:50:20.890-02:50:26.140 | Kenzo] Paul? Listen, we side. We we teleport sidebar with Karnas like in private.
-[u1702 | 02:50:26.200-02:50:37.179 | Kenzo] to to set up the meeting to be like, Hey, da da da? Would you be willing to have this meeting with Sidebar with Sura, which we can even do more easiest. We have that we have the {{sending one person}} to her
+[u1700 | 02:50:08.730-02:50:20.730 | Delwath] right? There is no way that they will in any way not talk to us right? Fly a castle over the over.
+[u1701 | 02:50:20.890-02:50:26.140 | Kenzo] Well, Listen, we side. We we teleport sidebar with Karnas like in private.
+[u1702 | 02:50:26.200-02:50:37.179 | Kenzo] to to set up the meeting to be like, Hey, da da da? Would you be willing to have this meeting with Sidebar with Sura, which we can even do more easiest. We have that we have the sending stone paired to her
 [u1703 | 02:50:37.190-02:50:42.159 | Kenzo] we're like. Would you be willing? And then and then we can go again. Can we like teleport them onto the ship somehow?
 [u1704 | 02:50:44.000-02:50:48.750 | Delwath] No, but if they were near each other we could rainbow bridge to them
 [u1705 | 02:50:49.290-02:50:53.109 | DM] perfect. They can walk up on the Rainbow bridge. Yeah.
@@ -1714,12 +1714,12 @@
 [u1714 | 02:51:58.370-02:52:04.019 | Delwath] do like, okay, fine. Why don't you come to the ship? Why don't you come to the ship? Right?
 [u1715 | 02:52:04.710-02:52:06.430 | Riswynn] Yeah. But now
 [u1716 | 02:52:07.760-02:52:08.960 | DM] that's okay.
-[u1717 | 02:52:11.200-02:52:37.859 | DM] No, this is next time Tim had a whole thing prepared. No, just my, my, my, my northern. You were gonna go from the deserts to the like icy tundras in one session. But no, it was great. I love that I love Kharsan. That was perfect. I'm I'm glad I finally got to use that ancient adventure that you never played the first time cause you described him for clairvoying.
+[u1717 | 02:52:11.200-02:52:37.859 | DM] No, this is next time Tim had a whole thing prepared. No, just my, my, my, my northern. You were gonna go from the deserts to the like icy tundras in one session. But no, it was great. I love that I love Kharsan. That was perfect. I'm I'm glad I finally got to use that ancient adventure that you never played the first time cause you scried him for clairvoying.
 [u1718 | 02:52:38.970-02:52:40.709 | DM] Okay, so next time
 [u1719 | 02:52:41.380-02:52:48.280 | Delwath] we'll we'll we'll do Kenzo's plan of chatting them up, I think, which might be enough.
 [u1720 | 02:52:48.980-02:53:15.090 | Kenzo] It's almost up to you, Tim, like, if you if if like there, if there's receptivity on either side, for there to be a diplomatic meeting. We can host that if they're kind of like whatever, then we'll just get a temperature read and then head north. So it's almost up to you. Yeah, you you know us. We're very shiny objects. If they're kind of like. Oh, you know, then we'll we'll do it flying the ship across Dunmar, and being like
 [u1721 | 02:53:15.190-02:53:30.880 | Delwath] folks, get on our ship, we're sorting out the problem. It's very appealing.
-[u1722 | 02:53:31.550-02:53:36.010 | Delwath] plus alves are good, I mean, alves, what we were alves right like, come on.
+[u1722 | 02:53:31.550-02:53:36.010 | Delwath] plus elves are good, I mean, elves, what we were elves right like, come on.
 [u1723 | 02:53:36.420-02:53:42.940 | Delwath] it's fine. I'll I'll we're we're good at this.
 [u1724 | 02:53:43.300-02:53:46.449 | Delwath] Yeah, I know that one person
 [u1725 | 02:53:47.010-02:53:50.390 | DM] so good at everybody. We'll stop them there.
