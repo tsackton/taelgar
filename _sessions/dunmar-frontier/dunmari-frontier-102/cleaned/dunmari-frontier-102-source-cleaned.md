@@ -69,7 +69,7 @@
 [u0069 | 00:04:59.900-00:05:03.910 | Delwath] like Christian iconography to tell a story. Okay?
 [u0070 | 00:05:03.910-00:05:06.330 | DM] Exactly, except it's weird and alien and.
 [u0071 | 00:05:06.330-00:05:06.930 | Delwath] Yeah, yeah.
-[u0072 | 00:05:06.930-00:05:08.160 | DM] James, yeah, yeah.
+[u0072 | 00:05:06.930-00:05:08.160 | DM] strange, yeah, yeah.
 [u0073 | 00:05:08.530-00:05:16.419 | DM] And it's hard to piece together what the story is, because it's not complete. But that's basically the. It's. It almost seems like it's they're trying to reconstruct like a temple wall.
 [u0074 | 00:05:16.420-00:05:16.950 | Delwath] Right, right.
 [u0075 | 00:05:16.950-00:05:21.099 | DM] Tells the story of how the sentient ocean got to Taelgar
@@ -108,13 +108,13 @@
 [u0108 | 00:08:04.720-00:08:08.500 | DM] And leaving the Stormdancer under the command of their 1st mate.
 [u0109 | 00:08:08.510-00:08:13.550 | DM] Tilly and Milo took a crew of 18 down beneath the sea to explore.
 [u0110 | 00:08:14.090-00:08:17.640 | DM] Passing through the strange waters and hearing the tale of the merfolk.
-[u0111 | 00:08:17.770-00:08:22.269 | DM] {{The origin in the garbled conflict}} with Gazankoa and Buruli.
+[u0111 | 00:08:17.770-00:08:22.269 | DM] Their origin and a garbled conflict with Gazankoa and Buruli.
 [u0112 | 00:08:22.340-00:08:25.779 | DM] he says, as I'm sure you must have experienced.
 [u0113 | 00:08:26.170-00:08:38.069 | DM] they found the city of Omi beneath them, and sought initially to rescue some merfolk who looked like they were being forced to dig something out from the bottom of this deep canyon through the sea floor.
 [u0114 | 00:08:38.809-00:08:42.490 | DM] and maybe learn from that something about what was going on.
 [u0115 | 00:08:43.470-00:08:44.240 | DM] But.
 [u0116 | 00:08:44.380-00:08:47.620 | DM] alas! He says, we did not expect an army.
-[u0117 | 00:08:48.950-00:08:51.040 | DM] {{I went 15}} merfolk.
+[u0117 | 00:08:48.950-00:08:51.040 | DM] I mean, 15 merfolk.
 [u0118 | 00:08:51.160-00:08:55.950 | DM] 50 merfolk warriors came streaming out of the kelp forests.
 [u0119 | 00:08:56.390-00:09:01.899 | DM] There was nothing much we could do. It was a valiant fight, of course, but we're outmatched and made prisoner.
 [u0120 | 00:09:02.600-00:09:03.370 | DM] Okay.
@@ -178,7 +178,7 @@
 [u0178 | 00:12:22.280-00:12:24.350 | Tilly] Pass extremely quickly.
 [u0179 | 00:12:24.550-00:12:25.585 | Tilly] Yeah.
 [u0180 | 00:12:29.750-00:12:31.159 | Tilly] that is our student.
-[u0181 | 00:12:32.730-00:12:34.339 | Delwath] I was like. I didn't go on mute for a moment.
+[u0181 | 00:12:32.730-00:12:34.339 | Delwath] Isaac, you need to go on mute for a moment.
 [u0182 | 00:12:34.340-00:12:35.130 | Tilly] Sure.
 [u0183 | 00:12:35.130-00:12:36.849 | DM] Yeah, I was just about to say.
 [u0184 | 00:12:37.364-00:12:39.309 | DM] okay, so what are you doing?
@@ -219,7 +219,7 @@
 [u0219 | 00:14:27.030-00:14:29.089 | Seeker] Swim over to the cell and cast
 [u0220 | 00:14:29.240-00:14:33.030 | Seeker] dispel magic at. Oh, but I have to pick a level right
 [u0221 | 00:14:35.670-00:14:36.380 | Seeker] the middle.
-[u0222 | 00:14:37.790-00:14:41.659 | DM] Your sense given. How good you are! arcane magic is. This isn't
+[u0222 | 00:14:37.790-00:14:41.659 | DM] Your sense given. How good you are at arcane magic is. This isn't
 [u0223 | 00:14:42.070-00:14:44.260 | DM] a super hard effect to dispel.
 [u0224 | 00:14:45.101-00:14:46.910 | Seeker] Cast it at 3rd Level.
 [u0225 | 00:14:50.606-00:14:51.340 | DM] You see
@@ -230,7 +230,7 @@
 [u0230 | 00:15:07.160-00:15:07.890 | Tilly] so.
 [u0231 | 00:15:07.890-00:15:08.450 | DM] They give.
 [u0232 | 00:15:08.450-00:15:08.839 | Tilly] Can I.
-[u0233 | 00:15:08.840-00:15:09.590 | DM] A post.
+[u0233 | 00:15:08.840-00:15:09.590 | DM] A potion.
 [u0234 | 00:15:10.540-00:15:11.079 | DM] can you.
 [u0235 | 00:15:11.080-00:15:11.920 | Tilly] Sorry what
 [u0236 | 00:15:12.120-00:15:15.970 | Tilly] I was just gonna say. Can I breathe without the potion, or do I have to drink the potion.
@@ -375,7 +375,7 @@
 [u0375 | 00:24:17.580-00:24:21.600 | DM] I am glad to be reunited with it. I
 [u0376 | 00:24:21.620-00:24:24.090 | DM] was afraid it was gone for good
 [u0377 | 00:24:27.450-00:24:31.419 | DM] kind of reaches over as if he's about to grab it from you.
-[u0378 | 00:24:34.410-00:24:37.099 | Wellby] {{Priscilla}}, if he takes that one.
+[u0378 | 00:24:34.410-00:24:37.099 | Wellby] But still, if he takes that one.
 [u0379 | 00:24:37.130-00:24:38.959 | Wellby] Does that mean you're out of swords.
 [u0380 | 00:24:40.320-00:24:42.349 | Delwath] Swords that are useful underwater.
 [u0381 | 00:24:43.150-00:24:44.730 | Delwath] That's okay. Yeah.
@@ -426,7 +426,7 @@
 [u0426 | 00:27:16.620-00:27:22.930 | DM] servant of Gazankoa. Some Kraken creature don't really know for sure.
 [u0427 | 00:27:23.730-00:27:25.229 | DM] Every now and then they'll
 [u0428 | 00:27:26.140-00:27:28.190 | DM] message will come back. Say.
-[u0429 | 00:27:28.210-00:27:31.849 | DM] really wants {{this work. I'm harder}}.
+[u0429 | 00:27:28.210-00:27:31.849 | DM] really wants us to work harder.
 [u0430 | 00:27:33.110-00:27:35.360 | DM] Seems like a pretty bad guy.
 [u0431 | 00:27:36.180-00:27:39.690 | Riswynn] Anything we can do to foil Buruli and Gazankoa’s
 [u0432 | 00:27:40.240-00:27:41.660 | Riswynn] right up our alley.
@@ -468,12 +468,12 @@
 [u0468 | 00:29:20.650-00:29:23.849 | DM] It's not like we have weapons to arm them with, anyway.
 [u0469 | 00:29:25.000-00:29:28.380 | DM] Teeth and tentacles is the best we've got, so.
 [u0470 | 00:29:29.590-00:29:32.540 | Riswynn] All right. Well, let's free some teeth and tentacles, then.
-[u0471 | 00:29:34.410-00:29:38.719 | Tilly] Yeah, just oh, was there one big cell, or like a but.
+[u0471 | 00:29:34.410-00:29:38.719 | Tilly] Yeah, just oh, was there one big cell, or like a bunch.
 [u0472 | 00:29:38.720-00:29:39.300 | DM] Each other, as well.
-[u0473 | 00:29:39.300-00:29:39.700 | Tilly] Else.
+[u0473 | 00:29:39.300-00:29:39.700 | Tilly] Cells.
 [u0474 | 00:29:39.700-00:29:40.850 | DM] There's like
 [u0475 | 00:29:41.299-00:29:44.930 | DM] like 8 little cells, each with like one or 2 people in them.
-[u0476 | 00:29:45.240-00:29:46.520 | Tilly] Guy.
+[u0476 | 00:29:45.240-00:29:46.520 | Tilly] Okay.
 [u0477 | 00:29:50.510-00:29:51.890 | DM] Now the real trick
 [u0478 | 00:29:52.380-00:29:54.549 | DM] don't know how to get past this.
 [u0479 | 00:29:55.100-00:29:59.500 | DM] and Milo points to the like bubble barrier that's behind you.
@@ -513,7 +513,7 @@
 [u0513 | 00:32:03.350-00:32:04.410 | Delwath] Where.
 [u0514 | 00:32:04.450-00:32:05.740 | Delwath] Buruli is.
 [u0515 | 00:32:05.960-00:32:08.379 | Delwath] you haven't been anywhere except this place, have you.
-[u0516 | 00:32:10.140-00:32:11.220 | DM] Now.
+[u0516 | 00:32:10.140-00:32:11.220 | DM] No.
 [u0517 | 00:32:11.220-00:32:12.040 | Tilly] No.
 [u0518 | 00:32:12.360-00:32:18.830 | Riswynn] Think we've got to go back along the lit path to the guard platform and then follow the
 [u0519 | 00:32:19.310-00:32:20.790 | Riswynn] jade sense.
@@ -522,7 +522,7 @@
 [u0522 | 00:32:27.788-00:32:28.780 | Delwath] Wasn't it a triangle.
 [u0523 | 00:32:29.470-00:32:30.730 | DM] It's a triangle.
 [u0524 | 00:32:31.085-00:32:31.440 | Riswynn] Oh!
-[u0525 | 00:32:31.440-00:32:35.810 | DM] The platform was here. You went often like southeast for one and
+[u0525 | 00:32:31.440-00:32:35.810 | DM] The platform was here. You went off in like southeast for one and
 [u0526 | 00:32:35.830-00:32:38.970 | DM] northwest to the other. So so it's a triangle.
 [u0527 | 00:32:40.080-00:32:41.850 | Seeker] Now we we should tell
 [u0528 | 00:32:42.240-00:32:44.810 | Seeker] these halflings that we have another quest
@@ -598,7 +598,7 @@
 [u0598 | 00:35:47.546-00:35:49.649 | DM] many of which are.
 [u0599 | 00:35:49.800-00:35:53.169 | DM] of course, densely vegetated.
 [u0600 | 00:35:53.400-00:35:55.780 | DM] But there's 1
-[u0601 | 00:35:56.470-00:35:57.370 | DM] app.
+[u0601 | 00:35:56.470-00:35:57.370 | DM] uh.
 [u0602 | 00:35:59.860-00:36:04.060 | DM] I guess that's sort of a rocky. It's not. I wouldn't call it desert
 [u0603 | 00:36:05.950-00:36:08.839 | DM] dry, maybe savanna-like and
 [u0604 | 00:36:10.040-00:36:19.709 | DM] rising. It sticks out on this narrow spit of land, and rising above the ocean from all directions. Well, most directions that you can see
@@ -607,7 +607,7 @@
 [u0607 | 00:36:34.020-00:36:38.150 | DM] well from a distance. Anyway, it seems like pure gold.
 [u0608 | 00:36:40.430-00:36:41.860 | Tilly] Impressive sights.
 [u0609 | 00:36:42.890-00:36:45.360 | DM] It shines for miles.
-[u0610 | 00:36:47.010-00:36:47.910 | DM] At 8
+[u0610 | 00:36:47.010-00:36:47.910 | DM] And it
 [u0611 | 00:36:50.530-00:36:53.339 | DM] it was quite the place to see
 [u0612 | 00:36:54.330-00:36:55.550 | DM] from the top
 [u0613 | 00:36:56.220-00:36:57.960 | DM] rises
@@ -625,7 +625,7 @@
 [u0625 | 00:37:34.810-00:37:37.050 | DM] I don't know if there's any elves there.
 [u0626 | 00:37:37.870-00:37:40.259 | DM] Gnomes! Have you ever met a gnome.
 [u0627 | 00:37:42.020-00:37:43.119 | Seeker] I don't think we have
-[u0628 | 00:37:43.400-00:37:44.200 | Seeker] a hole.
+[u0628 | 00:37:43.400-00:37:44.200 | Seeker] at all.
 [u0629 | 00:37:44.730-00:37:45.440 | Seeker] No.
 [u0630 | 00:37:48.160-00:37:49.530 | DM] Lizard folk.
 [u0631 | 00:37:49.880-00:37:51.520 | Seeker] What's the name of this city.
@@ -658,7 +658,7 @@
 [u0658 | 00:39:33.920-00:39:35.859 | Seeker] So we could easily enough use that
 [u0659 | 00:39:36.390-00:39:37.990 | Seeker] to move everybody over.
 [u0660 | 00:39:38.240-00:39:41.880 | DM] That's about your only choice, because teleport doesn't work across planes.
-[u0661 | 00:39:42.505-00:39:42.850 | Seeker] Ray.
+[u0661 | 00:39:42.505-00:39:42.850 | Seeker] Right.
 [u0662 | 00:39:47.160-00:39:48.779 | Seeker] I don't think they don't bridge.
 [u0663 | 00:39:48.970-00:39:54.069 | Wellby] Before we go back on this rainbow bridge there is one stop we do have to make first
 [u0664 | 00:39:56.420-00:39:57.920 | Tilly] Where would that be?
@@ -812,7 +812,7 @@
 [u0812 | 00:48:35.560-00:48:37.239 | Kenzo] And so we have no idea
 [u0813 | 00:48:37.370-00:48:38.810 | Kenzo] what we’re swimming into
 [u0814 | 00:48:38.830-00:48:40.270 | Kenzo] like, just like no idea.
-[u0815 | 00:48:41.880-00:48:42.530 | Delwath] Crash!
+[u0815 | 00:48:41.880-00:48:42.530 | Delwath] Correct!
 [u0816 | 00:48:42.810-00:48:43.670 | Seeker] Yeah.
 [u0817 | 00:48:43.670-00:48:53.240 | Kenzo] I mean, can we learn or do any kind of reconnaissance clairvoyance like anything to give us like, you know, even like the tiniest sense of what is in the dark beyond.
 [u0818 | 00:48:53.920-00:48:56.800 | DM] Do you have some time to discuss as you
@@ -820,7 +820,7 @@
 [u0820 | 00:48:59.390-00:49:02.020 | DM] you know you're at least 10 miles out.
 [u0821 | 00:49:02.220-00:49:07.299 | DM] and your jade sense will warn you when you're within 10 miles of the jade.
 [u0822 | 00:49:07.480-00:49:12.040 | DM] So you've got some amount of time, unclear. Exactly how much time
-[u0823 | 00:49:12.270-00:49:13.320 | DM] 2
+[u0823 | 00:49:12.270-00:49:13.320 | DM] to
 [u0824 | 00:49:14.760-00:49:17.319 | DM] talk as you swim.
 [u0825 | 00:49:17.550-00:49:20.790 | Kenzo] But can we? Is there like some kind of any kind of
 [u0826 | 00:49:21.360-00:49:28.060 | Kenzo] is, yeah, actually, Tim, commune with nature, like, what's going on? Or is there any other, any other animal life or other? Any.
@@ -889,7 +889,7 @@
 [u0889 | 00:53:36.360-00:53:48.380 | DM] And as you get further up and further away from this sort of area, you do start seeing these, you know, occasional signs of life like you pass
 [u0890 | 00:53:48.590-00:54:07.130 | DM] school of these tiny, glowing, phosphorescent fish that dart past you, illuminating the water with their bodies, and actually sort of swimming in these synchronized movements, kind of almost like dancing as they drift past you, creating this like swirling pattern in the
 [u0891 | 00:54:08.740-00:54:17.970 | DM] in the water that contrasts with the surrounding darkness, flashing not just like you know one color, but greens and yellows.
-[u0892 | 00:54:19.410-00:54:20.200 | DM] I'm
+[u0892 | 00:54:19.410-00:54:20.200 | DM] Um
 [u0893 | 00:54:20.520-00:54:24.488 | DM] as you do this Tilly finishes the commune with nature ritual.
 [u0894 | 00:54:27.300-00:54:29.310 | Tilly] We're trying to think what modes I should pick.
 [u0895 | 00:54:29.480-00:54:31.100 | Tilly] What have you been going with
@@ -912,7 +912,7 @@
 [u0912 | 00:55:50.180-00:56:03.769 | DM] on the edge of down below you, in the depths. There's it feels dark and closed, and there's very little life around. Further up above you. You sense that there's
 [u0913 | 00:56:04.570-00:56:11.799 | DM] elementals, that there's more of these schools of fish that there's just kind of more life above you
 [u0914 | 00:56:11.820-00:56:13.190 | DM] and ahead.
-[u0915 | 00:56:13.350-00:56:28.579 | DM] You feel this sort of impingement on the ocean still some distance away outside the range of the spell, and you can't tell exactly what it is, but some structure is {{done}}. You're definitely heading towards the structure.
+[u0915 | 00:56:13.350-00:56:28.579 | DM] You feel this sort of impingement on the ocean still some distance away outside the range of the spell, and you can't tell exactly what it is, but some structure is done. You're definitely heading towards the structure.
 [u0916 | 00:56:29.430-00:56:30.870 | Tilly] Okay. Well, I'll just
 [u0917 | 00:56:31.050-00:56:36.519 | Tilly] keep. I mean, it's rich. It's a ritual cast, so I can just keep pinging every like half an hour.
 [u0918 | 00:56:37.779-00:56:38.130 | DM] Okay.
@@ -981,9 +981,9 @@
 [u0981 | 01:01:15.210-01:01:16.910 | DM] Still too far away.
 [u0982 | 01:01:20.170-01:01:20.963 | Kenzo] Hi, tim!
 [u0983 | 01:01:21.900-01:01:22.799 | Kenzo] So that
-[u0984 | 01:01:24.280-01:01:26.140 | Kenzo] The the signature thing.
+[u0984 | 01:01:24.280-01:01:26.140 | Kenzo] The the sea creature thing.
 [u0985 | 01:01:26.150-01:01:27.250 | Kenzo] Where is it now?
-[u0986 | 01:01:28.630-01:01:29.109 | DM] God, like.
+[u0986 | 01:01:28.630-01:01:29.109 | DM] Gone, like.
 [u0987 | 01:01:29.110-01:01:30.779 | Kenzo] Okay, I'll just I just.
 [u0988 | 01:01:33.200-01:01:35.539 | DM] Swam deep. It swam down.
 [u0989 | 01:01:36.010-01:01:38.070 | DM] I mean, unless you want to chase that
@@ -1048,7 +1048,7 @@
 [u1048 | 01:05:33.983-01:05:34.570 | Tilly] Sorry, but.
 [u1049 | 01:05:34.570-01:05:34.910 | DM] Then.
 [u1050 | 01:05:34.910-01:05:35.300 | Seeker] And.
-[u1051 | 01:05:35.300-01:05:35.710 | DM] Kwan.
+[u1051 | 01:05:35.300-01:05:35.710 | DM] Couatl.
 [u1052 | 01:05:35.710-01:05:36.460 | Seeker] Holy crap.
 [u1053 | 01:05:36.460-01:05:37.220 | DM] Class.
 [u1054 | 01:05:38.730-01:05:39.410 | Riswynn] Yeah.
@@ -1104,7 +1104,7 @@
 [u1104 | 01:09:48.740-01:09:58.390 | Kenzo] Yeah, communicate the location. Everyone. Now that we're closer, is there magic or other means that we can use to just cause if I can like. Kind of know pretty precisely where it is in 2 miles. Can we like?
 [u1105 | 01:09:58.470-01:10:03.360 | Kenzo] Do clairvoyance or some other method, just just to see exactly where it is. Take a look.
 [u1106 | 01:10:04.630-01:10:07.280 | Seeker] Clairvoyance has a range of one mile.
-[u1107 | 01:10:07.880-01:10:09.060 | Tilly] If someone was {{cold}}.
+[u1107 | 01:10:07.880-01:10:09.060 | Tilly] If someone was cold.
 [u1108 | 01:10:10.420-01:10:12.510 | Tilly] Peace up! Sorry you you finish.
 [u1109 | 01:10:13.380-01:10:16.933 | Seeker] I could try extending the range with my glove of crystallized magic.
 [u1110 | 01:10:17.230-01:10:18.730 | DM] Could double the range.
@@ -1143,7 +1143,7 @@
 [u1143 | 01:11:56.500-01:11:59.580 | Tilly] Yeah, I was. Gonna say, the couatl can cast scry
 [u1144 | 01:11:59.600-01:12:01.390 | Tilly] if you summon it.
 [u1145 | 01:12:02.170-01:12:04.086 | Seeker] But has it met, anyway?
-[u1146 | 01:12:04.790-01:12:10.699 | DM] I I mean, you can still attempt to scry, even if you just have have {{the best person}}. It just has a higher chance of failing.
+[u1146 | 01:12:04.790-01:12:10.699 | DM] I I mean, you can still attempt to scry, even if you just haven't met this person. It just has a higher chance of failing.
 [u1147 | 01:12:10.700-01:12:13.149 | Tilly] They have like a plus 10 to the save.
 [u1148 | 01:12:13.910-01:12:14.370 | Seeker] Path.
 [u1149 | 01:12:15.190-01:12:16.580 | Delwath] I would guess that was
@@ -1189,7 +1189,7 @@
 [u1189 | 01:14:51.710-01:14:54.830 | DM] you can see towards you. You can't see
 [u1190 | 01:14:55.770-01:15:01.870 | DM] through the water in the opposite direction. You can see that you can turn the eye right so you can see the jade.
 [u1191 | 01:15:02.000-01:15:06.480 | DM] and you can see. So the 1st thing you see is in the middle of the whirlpool is
-[u1192 | 01:15:06.985-01:15:07.360 | DM] I'm
+[u1192 | 01:15:06.985-01:15:07.360 | DM] Um
 [u1193 | 01:15:07.880-01:15:09.880 | DM] the the jade itself
 [u1194 | 01:15:10.170-01:15:11.430 | DM] is sat.
 [u1195 | 01:15:14.440-01:15:26.249 | DM] It's it's slowly spinning in the middle of this whirlpool, and it's on a strange twisted shell that seems to almost be vibrating slightly.
@@ -1307,7 +1307,7 @@
 [u1307 | 01:22:53.059-01:22:53.820 | DM] Faldrak.
 [u1308 | 01:22:53.820-01:22:55.516 | Riswynn] Faldrak, but I think.
 [u1309 | 01:22:55.940-01:23:00.700 | DM] Faldrak might have dispel magic. Oh, no, he's not strong enough to have dispel magic because he's an.
-[u1310 | 01:23:00.700-01:23:01.099 | Seeker] {{On the moon}}.
+[u1310 | 01:23:00.700-01:23:01.099 | Seeker] On the moon.
 [u1311 | 01:23:01.100-01:23:02.519 | DM] So he doesn't have.
 [u1312 | 01:23:02.700-01:23:03.880 | Riswynn] That's what I thought.
 [u1313 | 01:23:04.770-01:23:08.089 | Seeker] Big pool on the deck.
@@ -1345,7 +1345,7 @@
 [u1345 | 01:24:25.690-01:24:28.230 | DM] If it were alive you would know Tilly.
 [u1346 | 01:24:28.580-01:24:29.630 | Seeker] A.
 [u1347 | 01:24:29.630-01:24:35.290 | Riswynn] So it's just the architectural feature of having used the bones of this thing.
-[u1348 | 01:24:35.790-01:24:37.149 | Kenzo] Lullaby, a cart.
+[u1348 | 01:24:35.790-01:24:37.149 | Kenzo] Leviathan carcass.
 [u1349 | 01:24:37.150-01:24:39.240 | Seeker] It could be literally a carcass.
 [u1350 | 01:24:42.300-01:24:44.600 | Kenzo] It's it's the evil leviathan.
 [u1351 | 01:24:45.320-01:24:45.850 | Delwath] Yeah.
@@ -1385,7 +1385,7 @@
 [u1385 | 01:26:47.340-01:26:50.100 | Delwath] Surrounded by something right.
 [u1386 | 01:26:52.100-01:26:54.530 | DM] Yeah, there's a clear space
 [u1387 | 01:26:54.810-01:26:56.240 | DM] that's maybe
-[u1388 | 01:26:57.160-01:27:04.769 | DM] 5 to 10. There's like a 10 foot across clear space in the middle of a {{5 foot diameter}} whirlpool.
+[u1388 | 01:26:57.160-01:27:04.769 | DM] 5 to 10. There's like a 10 foot across clear space in the middle of a 5 foot diameter whirlpool.
 [u1389 | 01:27:06.434-01:27:06.910 | Delwath] Okay.
 [u1390 | 01:27:08.230-01:27:10.409 | Delwath] But did the waters seem calm in the middle.
 [u1391 | 01:27:10.650-01:27:13.822 | DM] Yeah, it's calm in the middle.
@@ -1405,7 +1405,7 @@
 [u1405 | 01:28:08.680-01:28:11.840 | DM] It's the Planar prism creates a rainbow bridge.
 [u1406 | 01:28:15.330-01:28:16.919 | Seeker] Search didn't hit
 [u1407 | 01:28:17.040-01:28:17.790 | Seeker] that
-[u1408 | 01:28:18.010-01:28:20.160 | Seeker] Grace in there. Okay? And who else.
+[u1408 | 01:28:18.010-01:28:20.160 | Seeker] phrase in there. Okay? And who else.
 [u1409 | 01:28:20.160-01:28:21.049 | Kenzo] Here, and.
 [u1410 | 01:28:22.020-01:28:34.039 | Riswynn] Much as I'm excited about having a celestial aid to our endeavors. If I have, if the only way we can get the jade is to disrupt the water. I don't know.
 [u1411 | 01:28:34.040-01:28:34.790 | Delwath] I mean that.
@@ -1430,7 +1430,7 @@
 [u1430 | 01:29:29.580-01:29:34.150 | Riswynn] desert couatl appears in the plane of water, advise it to
 [u1431 | 01:29:34.690-01:29:36.600 | Riswynn] shift to
 [u1432 | 01:29:37.931-01:29:41.720 | Riswynn] something that breathes water, plesiosaur, or something.
-[u1433 | 01:29:42.080-01:29:46.029 | Seeker] It starts out as a big, colorful bird that {{would have waddled}}.
+[u1433 | 01:29:42.080-01:29:46.029 | Seeker] It starts out as a big, colorful bird that would have waddled.
 [u1434 | 01:29:46.310-01:29:48.030 | Tilly] Yeah, it can turn.
 [u1435 | 01:29:48.290-01:29:50.419 | Tilly] It's like a snake with wings.
 [u1436 | 01:29:51.560-01:29:52.670 | Seeker] Oh, man!
@@ -1442,7 +1442,7 @@
 [u1442 | 01:30:04.990-01:30:06.720 | Tilly] Or a walrus.
 [u1443 | 01:30:07.310-01:30:08.800 | Riswynn] I like plesiosaur.
 [u1444 | 01:30:08.840-01:30:12.719 | Riswynn] I advised Yup on, on the on the plesiosaur form.
-[u1445 | 01:30:14.520-01:30:14.950 | Seeker] Ice.
+[u1445 | 01:30:14.520-01:30:14.950 | Seeker] Nice.
 [u1446 | 01:30:18.815-01:30:24.459 | DM] And that's an action to polymorph, right? So it can. If you want it to cast a spell, it can just shift back.
 [u1447 | 01:30:24.620-01:30:29.640 | DM] cast the spell and then shift back again, because that's takes only 18 seconds.
 [u1448 | 01:30:29.640-01:30:32.569 | Tilly] How long does bless last cause it can cast that I think.
@@ -1756,7 +1756,7 @@
 [u1756 | 01:47:34.140-01:47:34.629 | Seeker] Wait, we see.
 [u1757 | 01:47:34.630-01:47:35.440 | Tilly] Otherwise.
 [u1758 | 01:47:35.570-01:47:38.540 | Seeker] Figures are outside the the room with, Yeah.
-[u1759 | 01:47:38.540-01:47:39.220 | Delwath] Or merfolk.
+[u1759 | 01:47:38.540-01:47:39.220 | Delwath] Four merfolk.
 [u1760 | 01:47:39.220-01:47:39.540 | Tilly] Yeah.
 [u1761 | 01:47:39.540-01:47:40.790 | Delwath] Inside the room, too.
 [u1762 | 01:47:40.900-01:47:41.440 | Delwath] There, yeah.
@@ -1880,7 +1880,7 @@
 [u1880 | 01:54:10.880-01:54:15.710 | Tilly] because it can go 60 feet is probably faster than merfolk can swim.
 [u1881 | 01:54:16.220-01:54:17.620 | DM] Yeah, from what you've.
 [u1882 | 01:54:17.620-01:54:17.950 | Tilly] And.
-[u1883 | 01:54:17.950-01:54:18.500 | DM] Served.
+[u1883 | 01:54:17.950-01:54:18.500 | DM] Observed.
 [u1884 | 01:54:18.820-01:54:24.239 | Tilly] Alright. I think that sounds good, so we can just like lead them around the back or something, and then we can go in.
 [u1885 | 01:54:25.470-01:54:28.389 | Tilly] That's not that all right. That's that sounds like a plan. We'll see that.
 [u1886 | 01:54:29.210-01:54:30.300 | Riswynn] Are we doing that.
@@ -1894,7 +1894,7 @@
 [u1894 | 01:54:52.730-01:54:53.260 | Tilly] Yeah, yeah.
 [u1895 | 01:54:53.260-01:54:54.150 | Delwath] Like with the eyes.
 [u1896 | 01:54:55.116-01:54:56.090 | Tilly] Yeah. Exactly.
-[u1897 | 01:54:58.960-01:54:59.430 | DM] Sal.
+[u1897 | 01:54:58.960-01:54:59.430 | DM] So.
 [u1898 | 01:55:00.960-01:55:02.479 | DM] All this happens.
 [u1899 | 01:55:03.600-01:55:05.419 | DM] Few minutes later you send
 [u1900 | 01:55:06.720-01:55:09.489 | DM] the plesiosaur out to turn into an octopus.
@@ -1946,7 +1946,7 @@
 [u1946 | 01:58:02.880-01:58:07.049 | DM] potentially as few as one guard left inside the mouth the moment.
 [u1947 | 01:58:07.050-01:58:09.990 | Delwath] How far away the mouth. Let's go. Yeah, let's go.
 [u1948 | 01:58:09.990-01:58:10.360 | Seeker] Yeah.
-[u1949 | 01:58:10.630-01:58:11.030 | Tilly] So Scott!
+[u1949 | 01:58:10.630-01:58:11.030 | Tilly] Let’s go!
 [u1950 | 01:58:11.030-01:58:12.229 | DM] 400 feet.
 [u1951 | 01:58:13.010-01:58:15.989 | Tilly] Dashing with the manta rays just full speed. Let's go.
 [u1952 | 01:58:17.800-01:58:19.590 | Delwath] As soon as we're like
@@ -2017,7 +2017,7 @@
 [u2017 | 02:02:02.840-02:02:04.049 | Delwath] Peer through the door.
 [u2018 | 02:02:05.090-02:02:05.450 | Tilly] Yeah.
 [u2019 | 02:02:05.980-02:02:08.560 | Delwath] Mean somebody who's good at peering in a way that isn't.
-[u2020 | 02:02:08.833-02:02:09.380 | Tilly] Slick a
+[u2020 | 02:02:08.833-02:02:09.380 | Tilly] Sneak a
 [u2021 | 02:02:09.700-02:02:10.920 | Tilly] quick peek.
 [u2022 | 02:02:11.760-02:02:13.919 | Seeker] Maybe Kenzo or Wellby.
 [u2023 | 02:02:13.920-02:02:15.649 | Delwath] Wellby, I think, is the best of the.
@@ -2075,7 +2075,7 @@
 [u2075 | 02:05:33.400-02:05:36.199 | Tilly] before they have time to do anything.
 [u2076 | 02:05:41.880-02:05:42.410 | Riswynn] This year.
 [u2077 | 02:05:42.410-02:05:43.040 | Tilly] It's.
-[u2078 | 02:05:43.040-02:05:46.459 | Riswynn] {{Humble in}} the door visibly. We'll have to roll initiative, and then.
+[u2078 | 02:05:43.040-02:05:46.459 | Riswynn] Tumble in the door visibly. We'll have to roll initiative, and then.
 [u2079 | 02:05:46.740-02:05:47.670 | Delwath] We should just
 [u2080 | 02:05:48.050-02:05:49.169 | Delwath] well, they don't.
 [u2081 | 02:05:49.170-02:05:51.199 | Tilly] Well, I can hear
@@ -2181,7 +2181,7 @@
 [u2181 | 02:11:12.350-02:11:19.460 | Kenzo] All right. Not worth it. Kenzo is highly tempted to just swim up to the thing and just see what happens.
 [u2182 | 02:11:19.460-02:11:22.680 | Tilly] Let's Sickening Radiance and then go for it.
 [u2183 | 02:11:23.740-02:11:24.100 | Riswynn] Yes.
-[u2184 | 02:11:24.100-02:11:25.310 | Tilly] I think we're a newest.
+[u2184 | 02:11:24.100-02:11:25.310 | Tilly] I think we're unanimous.
 [u2185 | 02:11:25.310-02:11:25.680 | Riswynn] Believe.
 [u2186 | 02:11:25.680-02:11:26.619 | Tilly] Sickening Radiance.
 [u2187 | 02:11:26.620-02:11:28.070 | Riswynn] Breaks a hole in the
@@ -2246,9 +2246,9 @@
 [u2246 | 02:13:53.950-02:13:55.520 | Delwath] Okay, I'm casting the spell.
 [u2247 | 02:13:56.640-02:13:56.990 | DM] Okay.
 [u2248 | 02:13:56.990-02:13:58.119 | Tilly] So you have your radiance.
-[u2249 | 02:14:00.440-02:14:01.350 | DM] bat
+[u2249 | 02:14:00.440-02:14:01.350 | DM] But
 [u2250 | 02:14:02.015-02:14:07.874 | DM] this is gonna be tough without my normal paper. I'm gonna have to do everything with stupid computers.
-[u2251 | 02:14:09.820-02:14:14.150 | Riswynn] Oh, should the couatl {{bend plus}} cast Shield on you too.
+[u2251 | 02:14:09.820-02:14:14.150 | Riswynn] Oh, should the couatl then just cast Shield on you too.
 [u2252 | 02:14:14.960-02:14:15.559 | Tilly] And the ratio.
 [u2253 | 02:14:15.560-02:14:16.819 | DM] And that's not how she.
 [u2254 | 02:14:16.820-02:14:18.250 | Tilly] That's not how Shield works.
@@ -2334,12 +2334,12 @@
 [u2334 | 02:18:18.940-02:18:20.360 | DM] Delwath.
 [u2335 | 02:18:23.930-02:18:25.070 | Tilly] But can you give.
 [u2336 | 02:18:25.070-02:18:25.410 | DM] We can.
-[u2337 | 02:18:25.410-02:18:26.270 | Tilly] Troll, of.
+[u2337 | 02:18:25.410-02:18:26.270 | Tilly] Control of.
 [u2338 | 02:18:26.639-02:18:27.859 | DM] Yes.
 [u2339 | 02:18:33.255-02:18:33.530 | Delwath] 8.
 [u2340 | 02:18:35.250-02:18:38.400 | Delwath] There's a ground here. Can we walk on the ground.
 [u2341 | 02:18:38.959-02:18:39.309 | DM] Yep.
-[u2342 | 02:18:39.540-02:18:40.290 | Delwath] Saul.
+[u2342 | 02:18:39.540-02:18:40.290 | Delwath] So.
 [u2343 | 02:18:40.799-02:18:42.879 | Delwath] Does that mean? I can move a full move.
 [u2344 | 02:18:44.927-02:18:52.910 | DM] I mean, you're still facing water resistance. I would. I will say you've got a 5 foot movement penalty walking on the ground.
 [u2345 | 02:18:57.070-02:18:59.769 | DM] Well, so who am I missing? Is everybody out.
@@ -2370,7 +2370,7 @@
 [u2370 | 02:20:21.970-02:20:28.160 | DM] Oh, I'm gonna I need to roll initiative for your couatl and your couatl needs a token. What is your couatl gonna be.
 [u2371 | 02:20:29.680-02:20:31.904 | Riswynn] I mean, does the plesiosaur?
 [u2372 | 02:20:32.810-02:20:34.530 | Riswynn] Because that was the buddy
-[u2373 | 02:20:35.090-02:20:38.200 | Riswynn] {{by the attacker}} that I was hoping to bring with me? Yeah.
+[u2373 | 02:20:35.090-02:20:38.200 | Riswynn] bite attacker that I was hoping to bring with me? Yeah.
 [u2374 | 02:20:38.200-02:20:40.710 | Tilly] Headed Plesiosaur, 2 headed Plesiosaur.
 [u2375 | 02:20:41.420-02:20:42.160 | Seeker] Love it.
 [u2376 | 02:20:42.940-02:20:46.700 | Tilly] 2 headed one as a higher, higher challenge, rating and more attacks.
@@ -2406,7 +2406,7 @@
 [u2406 | 02:22:09.680-02:22:12.169 | Riswynn] Does not say that on the screen I'm looking at.
 [u2407 | 02:22:12.620-02:22:14.589 | DM] What screen are you looking at.
 [u2408 | 02:22:14.870-02:22:19.251 | Riswynn] Some picture, some description from D and D. Beyond monsters.
-[u2409 | 02:22:19.870-02:22:21.319 | DM] Okay, while it's plus 2.
+[u2409 | 02:22:19.870-02:22:21.319 | DM] Okay, well it's plus 2.
 [u2410 | 02:22:21.977-02:22:24.299 | Riswynn] Sorry. Thanks for looking it up.
 [u2411 | 02:22:24.850-02:22:32.299 | DM] Okay, I need to get so many things up here. So talk about your strategy because it took me like 2 min to get everything set up.
 [u2412 | 02:22:33.770-02:22:36.100 | Kenzo] So we don't know where Buruli is right now.
@@ -2490,7 +2490,7 @@
 [u2490 | 02:26:43.691-02:26:52.129 | DM] Buruli turning and and and yelling and pointing as this magic glow of radiant energy begins to fill the room
 [u2491 | 02:26:54.030-02:26:56.429 | DM] and Delwath runs in
 [u2492 | 02:26:57.460-02:27:01.340 | DM] weapon materializing in his hand, that I presume, as he does
-[u2493 | 02:27:02.760-02:27:03.420 | DM] app
+[u2493 | 02:27:02.760-02:27:03.420 | DM] at
 [u2494 | 02:27:03.830-02:27:06.238 | DM] essentially the same moment
 [u2495 | 02:27:07.770-02:27:10.639 | DM] Milo with his silver
 [u2496 | 02:27:11.408-02:27:13.321 | DM] rapier, swinging
@@ -2535,7 +2535,7 @@
 [u2535 | 02:29:24.086-02:29:25.059 | DM] is that.
 [u2536 | 02:29:25.110-02:29:27.029 | DM] So? Remember that you're
 [u2537 | 02:29:27.470-02:29:31.020 | DM] Max. Range is 60 feet underwater.
-[u2538 | 02:29:32.390-02:29:34.079 | DM] So that's not a range.
+[u2538 | 02:29:32.390-02:29:34.079 | DM] So that's out of range.
 [u2539 | 02:29:34.430-02:29:36.280 | Wellby] 60 or 80
 [u2540 | 02:29:37.650-02:29:38.310 | Wellby] short motion.
 [u2541 | 02:29:38.310-02:29:38.840 | DM] Of this.
@@ -2742,8 +2742,8 @@
 [u2742 | 02:40:03.410-02:40:04.600 | Tilly] That's way. Better.
 [u2743 | 02:40:04.820-02:40:05.210 | Kenzo] But it.
 [u2744 | 02:40:05.210-02:40:06.329 | DM] Good, good, like.
-[u2745 | 02:40:06.330-02:40:07.420 | Delwath] 2525.
-[u2746 | 02:40:07.420-02:40:10.480 | DM] Gosh! Worth of the clutch, memory.
+[u2745 | 02:40:06.330-02:40:07.420 | Delwath] 25, 25.
+[u2746 | 02:40:07.420-02:40:10.480 | DM] Schwartz with the clutch memory.
 [u2747 | 02:40:10.750-02:40:11.360 | Seeker] Yeah.
 [u2748 | 02:40:11.360-02:40:12.870 | DM] Darkness ends.
 [u2749 | 02:40:13.890-02:40:14.910 | Seeker] Amazing.
@@ -2775,7 +2775,7 @@
 [u2775 | 02:41:22.080-02:41:24.959 | Kenzo] So can I like
 [u2776 | 02:41:25.510-02:41:27.260 | Kenzo] well first, first I'll.
 [u2777 | 02:41:27.260-02:41:29.490 | DM] It was an 8th level spell. By the way.
-[u2778 | 02:41:30.460-02:41:31.170 | DM] first, I’ll {{soul}}.
+[u2778 | 02:41:30.460-02:41:31.170 | DM] first, I’ll soul.
 [u2779 | 02:41:31.170-02:41:33.250 | Kenzo] {{Play}} Buruli.
 [u2780 | 02:41:34.040-02:41:35.960 | DM] Okay, he is
 [u2781 | 02:41:36.490-02:41:37.890 | DM] 15th level.
@@ -2806,12 +2806,12 @@
 [u2806 | 02:42:50.442-02:42:51.859 | DM] So super fast.
 [u2807 | 02:42:52.210-02:42:56.720 | Kenzo] Yeah, let me, how about I get like, literally right up to it, Tim.
 [u2808 | 02:42:56.720-02:42:57.330 | Delwath] Yeah.
-[u2809 | 02:42:57.650-02:42:58.480 | Kenzo] Bursts.
+[u2809 | 02:42:57.650-02:42:58.480 | Kenzo] First.
 [u2810 | 02:42:58.480-02:43:01.910 | Delwath] You can move and then ready an action to dive through.
 [u2811 | 02:43:02.290-02:43:02.760 | Delwath] Yeah.
 [u2812 | 02:43:02.760-02:43:07.490 | DM] I've only got 55 foot of movement, but you can get to.
 [u2813 | 02:43:08.650-02:43:10.140 | DM] You can get to there.
-[u2814 | 02:43:10.140-02:43:12.509 | Kenzo] Don't I have the manta ray that is, {{don’t have success}}.
+[u2814 | 02:43:10.140-02:43:12.509 | Kenzo] Don't I have the manta ray that is, don’t I have 60.
 [u2815 | 02:43:12.510-02:43:17.459 | DM] Just gives you a swim speed equal to your regular speed. It doesn't let you move faster than normal.
 [u2816 | 02:43:17.460-02:43:18.330 | Kenzo] Okay.
 [u2817 | 02:43:18.330-02:43:21.339 | Delwath] But that that's okay, can you? You can then, ready an action. Wait.
@@ -2868,7 +2868,7 @@
 [u2868 | 02:46:03.760-02:46:05.170 | Riswynn] I
 [u2869 | 02:46:09.280-02:46:10.715 | Riswynn] shoot
 [u2870 | 02:46:14.010-02:46:15.019 | Riswynn] I guess I
-[u2871 | 02:46:15.110-02:46:19.100 | Riswynn] really decided that my cantrips were better than my aim with {{Camaro}}.
+[u2871 | 02:46:15.110-02:46:19.100 | Riswynn] really decided that my cantrips were better than my aim with an arrow.
 [u2872 | 02:46:22.570-02:46:24.150 | Delwath] You don't have any good spells to cast.
 [u2873 | 02:46:25.708-02:46:26.740 | Delwath] Please, or is it.
 [u2874 | 02:46:30.130-02:46:33.575 | Riswynn] Yeah. Cause. Yeah. I mean, I could Guiding Bolt
@@ -2884,7 +2884,7 @@
 [u2884 | 02:46:57.820-02:46:59.720 | DM] Radiant. It does radiant.
 [u2885 | 02:46:59.720-02:47:03.200 | Riswynn] Water. Okay, yes. So that's I. Sacred flame, the
 [u2886 | 02:47:05.330-02:47:07.270 | Riswynn] Where am I? Sorry?
-[u2887 | 02:47:07.560-02:47:10.880 | Riswynn] {{I, 2060 feet from me}}
+[u2887 | 02:47:07.560-02:47:10.880 | Riswynn] guy within 60 feet from me
 [u2888 | 02:47:13.670-02:47:15.640 | Riswynn] now is.
 [u2889 | 02:47:15.930-02:47:18.920 | DM] You can get this guy or the Minion.
 [u2890 | 02:47:19.220-02:47:19.846 | Delwath] Go after.
@@ -3002,7 +3002,7 @@
 [u3002 | 02:54:10.100-02:54:14.179 | DM] Merfolk enemies charging at you, and then you hear Seeker’s
 [u3003 | 02:54:14.290-02:54:17.989 | DM] voice in the background, and you blink your eyes and realize
 [u3004 | 02:54:18.320-02:54:20.160 | DM] it was just an illusion.
-[u3005 | 02:54:20.590-02:54:21.320 | Kenzo] Like God.
+[u3005 | 02:54:20.590-02:54:21.320 | Kenzo] Thank God.
 [u3006 | 02:54:21.320-02:54:22.870 | DM] Your friends, are there.
 [u3007 | 02:54:23.850-02:54:24.210 | Seeker] Nice.
 [u3008 | 02:54:24.210-02:54:28.679 | DM] Man Seeker is clutch without having any spell. Slots.
@@ -3056,7 +3056,7 @@
 [u3056 | 02:56:46.140-02:56:47.899 | DM] Yeah. Yeah. Move wherever you want.
 [u3057 | 02:56:47.900-02:56:51.527 | Tilly] And then I I wanted to just activate my water.
 [u3058 | 02:56:51.890-02:56:52.250 | DM] Water.
-[u3059 | 02:56:52.250-02:56:52.879 | Tilly] {{Friend}}.
+[u3059 | 02:56:52.250-02:56:52.879 | Tilly] Friend.
 [u3060 | 02:56:53.150-02:56:54.040 | Tilly] yeah.
 [u3061 | 02:56:55.710-02:56:59.489 | Tilly] But that's it. Won't do anything. Yeah, yeah.
 [u3062 | 02:56:59.600-02:57:01.060 | Tilly] 10. It's 10 feet.
@@ -3079,8 +3079,8 @@
 [u3079 | 02:57:52.840-02:57:53.340 | DM] A
 [u3080 | 02:57:53.580-02:57:55.580 | DM] oh, one roll the natural 20!
 [u3081 | 02:57:56.650-02:57:57.320 | DM] It.
-[u3082 | 02:57:59.210-02:57:59.900 | Delwath] Britt.
-[u3083 | 02:58:00.470-02:58:01.360 | DM] Sal.
+[u3082 | 02:57:59.210-02:57:59.900 | Delwath] Crit.
+[u3083 | 02:58:00.470-02:58:01.360 | DM] So.
 [u3084 | 02:58:01.730-02:58:04.210 | DM] 4 of the 6 minions die
 [u3085 | 02:58:05.440-02:58:07.510 | DM] from the Sickening Radiance.
 [u3086 | 02:58:07.600-02:58:11.190 | DM] and these 2 are going to swim up straight up
@@ -3090,7 +3090,7 @@
 [u3090 | 02:58:26.950-02:58:28.320 | DM] And then
 [u3091 | 02:58:28.350-02:58:29.809 | DM] plesiosaur is up.
 [u3092 | 02:58:30.750-02:58:31.480 | Riswynn] Alright!
-[u3093 | 02:58:31.480-02:58:32.300 | Seeker] Ireland.
+[u3093 | 02:58:31.480-02:58:32.300 | Seeker] All right.
 [u3094 | 02:58:33.500-02:58:34.220 | Riswynn] So
 [u3095 | 02:58:34.820-02:58:36.600 | Riswynn] plesiosaur’s the
 [u3096 | 02:58:38.530-02:58:46.289 | Riswynn] how do I find the plesiosaur stats? Because all I have is the couatl stats so we can only move 30 feet, but I'm pretty sure the plesiosaur can move further.
@@ -3193,7 +3193,7 @@
 [u3193 | 03:04:16.000-03:04:19.344 | Riswynn] Know where I am in the turn order, but I was gonna try Dispel Magic on it.
 [u3194 | 03:04:20.813-03:04:21.580 | Kenzo] That's nice!
 [u3195 | 03:04:22.496-03:04:23.730 | DM] You are
-[u3196 | 03:04:25.050-03:04:26.070 | DM] Europe.
+[u3196 | 03:04:25.050-03:04:26.070 | DM] You're up.
 [u3197 | 03:04:28.807-03:04:30.539 | DM] You're after Kenzo.
 [u3198 | 03:04:32.970-03:04:34.440 | Riswynn] So not so helpful.
 [u3199 | 03:04:36.550-03:04:38.000 | DM] Right. But if you didn't.
@@ -3293,7 +3293,7 @@
 [u3293 | 03:09:34.300-03:09:35.130 | Delwath] Probably like 90.
 [u3294 | 03:09:35.130-03:09:36.760 | DM] Like 90 feet, say.
 [u3295 | 03:09:39.390-03:09:41.549 | Seeker] Plesiosaur, sorry might not make it back with us.
-[u3296 | 03:09:41.840-03:09:43.110 | Wellby] Oh, rich man!
+[u3296 | 03:09:41.840-03:09:43.110 | Wellby] Oh, Riswynn!
 [u3297 | 03:09:43.110-03:09:45.400 | DM] To it, just goes back to the celestial plane.
 [u3298 | 03:09:45.400-03:09:46.500 | Delwath] Yeah, right.
 [u3299 | 03:09:46.760-03:09:47.260 | Seeker] We're cool.
@@ -3382,7 +3382,7 @@
 [u3382 | 03:13:32.020-03:13:32.770 | DM] I don't sort of.
 [u3383 | 03:13:33.090-03:13:33.410 | Wellby] Over
 [u3384 | 03:13:33.680-03:13:34.340 | Wellby] yes.
-[u3385 | 03:13:34.340-03:13:37.180 | Delwath] Like I do, failed the Synaptic Static.
+[u3385 | 03:13:34.340-03:13:37.180 | Delwath] That guy who failed the Synaptic Static.
 [u3386 | 03:13:37.180-03:13:41.650 | DM] No, it's this guy who failed Synaptic Static. They both have a. They both have amulets.
 [u3387 | 03:13:43.050-03:13:43.740 | Wellby] I'm
 [u3388 | 03:13:45.250-03:13:47.529 | Delwath] I can have the move to to get to there.
@@ -3501,7 +3501,7 @@
 [u3501 | 03:19:03.440-03:19:06.330 | DM] with just utter rage in his eyes.
 [u3502 | 03:19:10.830-03:19:11.690 | DM] and.
 [u3503 | 03:19:16.470-03:19:17.690 | Delwath] Is he casting a spell.
-[u3504 | 03:19:18.840-03:19:20.390 | Seeker] {{Announces on evil ways}}.
+[u3504 | 03:19:18.840-03:19:20.390 | Seeker] Renounces all evil ways.
 [u3505 | 03:19:21.390-03:19:21.989 | Riswynn] Of the.
 [u3506 | 03:19:21.990-03:19:22.889 | Wellby] Is it? Hug.
 [u3507 | 03:19:24.440-03:19:26.889 | Delwath] If he's casting a spell, I'm gonna cast counter spell.
@@ -3593,7 +3593,7 @@
 [u3593 | 03:23:13.100-03:23:13.980 | Delwath] You
 [u3594 | 03:23:14.650-03:23:17.160 | Delwath] should, I think, go right.
 [u3595 | 03:23:17.940-03:23:19.329 | Seeker] Oh, and I step on it. Yes.
-[u3596 | 03:23:19.930-03:23:21.649 | Seeker] okay, {{briefly, that’s the way}}.
+[u3596 | 03:23:19.930-03:23:21.649 | Seeker] okay, briefly, that’s the way.
 [u3597 | 03:23:21.650-03:23:27.140 | DM] Bridge and vanishes suddenly, hit by a wave of heat. As you appear.
 [u3598 | 03:23:28.170-03:23:29.280 | DM] we'll get to that.
 [u3599 | 03:23:30.130-03:23:30.870 | Seeker] God, what.
@@ -3715,7 +3715,7 @@
 [u3715 | 03:28:33.130-03:28:34.530 | Tilly] in the room now.
 [u3716 | 03:28:35.340-03:28:36.080 | Tilly] but.
 [u3717 | 03:28:37.530-03:28:40.321 | Riswynn] Riswynn also sent a telepathic farewell to her.
-[u3718 | 03:28:41.130-03:28:43.070 | Riswynn] yeah, you can pull up {{what they not mean}}.
+[u3718 | 03:28:41.130-03:28:43.070 | Riswynn] yeah, you can pull up what they not mean.
 [u3719 | 03:28:43.494-03:28:43.919 | DM] So
 [u3720 | 03:28:44.280-03:28:45.790 | DM] distract people!
 [u3721 | 03:28:47.583-03:28:49.319 | DM] Tilly goes through.
@@ -3730,7 +3730,7 @@
 [u3730 | 03:29:24.420-03:29:27.785 | Tilly] Well cause it also cause it didn't take an action. Can I just say it.
 [u3731 | 03:29:28.260-03:29:29.260 | DM] Yeah, it can attack.
 [u3732 | 03:29:30.160-03:29:30.960 | Tilly] Okay.
-[u3733 | 03:29:39.300-03:29:42.210 | Delwath] Wait. {{I’m in Memphis also high}}.
+[u3733 | 03:29:39.300-03:29:42.210 | Delwath] Wait. I’m in Memphis also high.
 [u3734 | 03:29:44.504-03:29:46.360 | Tilly] Okay, I'm gonna roll.
 [u3735 | 03:29:46.880-03:29:48.310 | Tilly] It's a
 [u3736 | 03:29:51.330-03:29:54.029 | Tilly] oh, that's not pretty. That's not that good
@@ -3849,7 +3849,7 @@
 [u3849 | 03:35:47.360-03:35:54.830 | DM] on the hot desert surface of Vindristjarna, hovering above the orcish city of Uzgukhar
 [u3850 | 03:35:54.980-03:35:56.210 | DM] in the
 [u3851 | 03:35:56.740-03:36:02.150 | DM] pre-dawn light. So I guess it's actually not hot yet, because the sun is just barely up.
-[u3852 | 03:36:02.490-03:36:03.330 | DM] Almond
+[u3852 | 03:36:02.490-03:36:03.330 | DM] Um, and
 [u3853 | 03:36:04.300-03:36:07.449 | DM] Kethra and Amal are are standing
 [u3854 | 03:36:07.560-03:36:08.930 | DM] keeping watch.
 [u3855 | 03:36:09.858-03:36:13.210 | DM] You hear a whoop from from Faldrak as
@@ -3865,7 +3865,7 @@
 [u3865 | 03:36:48.990-03:36:50.470 | DM] suffocating.
 [u3866 | 03:36:50.650-03:36:54.119 | DM] halfling sharks desperately look around for.
 [u3867 | 03:36:55.120-03:36:55.880 | Seeker] A river.
-[u3868 | 03:36:55.880-03:36:57.940 | DM] And chugged into. Did I?
+[u3868 | 03:36:55.880-03:36:57.940 | DM] And jump into. Did I?
 [u3869 | 03:36:57.940-03:36:58.520 | Tilly] Asked.
 [u3870 | 03:37:00.795-03:37:04.260 | Tilly] I think water breathing could be upcast.
 [u3871 | 03:37:05.910-03:37:09.330 | Delwath] Affects 10 people. Oh, you need 13. It can't be upcast.
@@ -3928,7 +3928,7 @@
 [u3928 | 03:39:44.880-03:39:46.929 | DM] calm Faldrak down a little bit.
 [u3929 | 03:39:47.100-03:39:48.979 | DM] Tell them everything's okay.
 [u3930 | 03:39:49.000-03:39:53.470 | DM] Yeah, you did. Great. He did like 40 damage on Buruli with the ice shard.
-[u3931 | 03:39:54.050-03:39:56.910 | DM] forgot what to finish off and then
+[u3931 | 03:39:54.050-03:39:56.910 | DM] for Delwath to finish off and then
 [u3932 | 03:39:58.520-03:40:01.650 | DM] dispel the shield and get the sharks into the river.
 [u3933 | 03:40:02.820-03:40:03.589 | Riswynn] We don't make.
 [u3934 | 03:40:04.130-03:40:08.460 | DM] Well, 11 of them are sharks. The ones you dispelled are not sharks anymore.
@@ -3969,7 +3969,7 @@
 [u3969 | 03:41:49.330-03:41:50.410 | DM] Air.
 [u3970 | 03:41:51.720-03:41:56.040 | DM] You got one from the elemental forge. It was air, it was air, I believe.
 [u3971 | 03:41:57.090-03:41:57.460 | Seeker] Thank you.
-[u3972 | 03:41:57.460-03:42:06.499 | Kenzo] Can we create like a like a hamster wheel tunnel that goes between mobile? So it's just like a series of doors. You can just run in like a a circle.
+[u3972 | 03:41:57.460-03:42:06.499 | Kenzo] Can we create like a like a hamster wheel tunnel that goes between them all? So it's just like a series of doors. You can just run in like a a circle.
 [u3973 | 03:42:06.840-03:42:07.890 | Kenzo] Through all the planes.
 [u3974 | 03:42:07.890-03:42:12.300 | DM] So cause it works with the Rainbow Bridge, so you can only do one at a time.
 [u3975 | 03:42:13.110-03:42:17.050 | Kenzo] And more rainbow bridges then, and then we connect them all into a rainbow tunnel.
@@ -3988,7 +3988,7 @@
 [u3988 | 03:42:52.980-03:42:57.200 | DM] the other. The final piece is now calling out to you.
 [u3989 | 03:42:58.360-03:43:01.529 | DM] you. The 1st thing you notice the 1st thing you feel
 [u3990 | 03:43:01.630-03:43:03.570 | DM] is the heat of the jungle.
-[u3991 | 03:43:05.250-03:43:06.050 | DM] though
+[u3991 | 03:43:05.250-03:43:06.050 | DM] the
 [u3992 | 03:43:08.430-03:43:14.529 | DM] humidity and rain of some somewhere deep in a.
 [u3993 | 03:43:14.670-03:43:15.980 | DM] in a jungle.
 [u3994 | 03:43:17.420-03:43:20.070 | DM] and then you you feel the heat.
@@ -4051,7 +4051,7 @@
 [u4051 | 03:46:31.200-03:46:31.820 | Kenzo] Wow!
 [u4052 | 03:46:32.980-03:46:35.319 | Kenzo] We still have that other sending stone.
 [u4053 | 03:46:35.600-03:46:37.000 | DM] Yeah, you still have it.
-[u4054 | 03:46:39.110-03:46:40.000 | Kenzo] Angie.
+[u4054 | 03:46:39.110-03:46:40.000 | Kenzo] Benji.
 [u4055 | 03:46:40.660-03:46:42.249 | DM] So we'll stop there.
 [u4056 | 03:46:43.950-03:46:44.710 | Kenzo] Cool.
 [u4057 | 03:46:45.340-03:46:46.260 | Wellby] Man.
@@ -4074,7 +4074,7 @@
 [u4074 | 03:47:51.580-03:47:55.109 | Kenzo] alright! Alright! Alright! We'll do the thing. We'll be responsible.
 [u4075 | 03:47:59.840-03:48:00.660 | DM] Okay.
 [u4076 | 03:48:00.770-03:48:02.570 | DM] so goodnight. Everybody.
-[u4077 | 03:48:02.820-03:48:03.480 | Delwath] Nate.
+[u4077 | 03:48:02.820-03:48:03.480 | Delwath] Night.
 [u4078 | 03:48:04.247-03:48:05.169 | Wellby] Awesome. See, you.
 [u4079 | 03:48:05.170-03:48:07.999 | Kenzo] Tim, can you resend that invite? I don't think I got it for tomorrow.
 [u4080 | 03:48:08.940-03:48:10.580 | DM] Oh, yeah, I will.
