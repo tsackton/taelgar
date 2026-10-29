@@ -35,7 +35,7 @@
 [u0035 | 00:04:05.910-00:04:08.179 | DM] So which one should we open first?
 [u0036 | 00:04:10.000-00:04:12.959 | Seeker] What are we looking for? Again? Exactly, my friend.
 [u0037 | 00:04:15.200-00:04:27.049 | Kenzo] the ancient forge, some elemental forge, Tim. Do I still have a sensation of, you know, like that unnatural feeling that I had like about
-[u0038 | 00:04:27.200-00:04:37.610 | DM] do I still sense that? From stepped through the door with the runes etched on it. That sensation went away
+[u0038 | 00:04:27.200-00:04:37.610 | DM] do I still sense that? When you stepped through the door with the runes etched on it. That sensation went away
 [u0039 | 00:04:38.300-00:04:46.109 | Delwath] into this chamber. What! There's 3 doors, are they? What do they look like? Are they the same, or they wood, metal.
 [u0040 | 00:04:46.690-00:04:55.929 | DM] I literally just described them, but I'll describe them again. Sorry! The bastion stuff! I know you were. A large bronze door.
 [u0041 | 00:04:56.290-00:04:59.739 | DM] through which a faint reddish glow could be seen
@@ -194,7 +194,7 @@
 [u0194 | 00:18:34.430-00:18:36.710 | Seeker] Don't go through, I mean.
 [u0195 | 00:18:37.010-00:18:47.149 | Delwath] like, are you going down the hole that like, do you need a grownup supervision?
 [u0196 | 00:18:47.220-00:18:48.890 | Seeker] Are you sure
-[u0197 | 00:18:49.460-00:18:53.910 | Kenzo] we're yeah, we're fine, trust condescending. Oh.
+[u0197 | 00:18:49.460-00:18:53.910 | Kenzo] we're yeah, we're fine, that’s condescending. Oh.
 [u0198 | 00:18:53.950-00:19:03.860 | Seeker] not 1,000 years old. Doesn't mean we can't make rational decisions.
 [u0199 | 00:19:04.170-00:19:05.700 | Delwath] Are you good to have
 [u0200 | 00:19:05.800-00:19:06.920 | Delwath] run down the
@@ -222,7 +222,7 @@
 [u0222 | 00:21:06.040-00:21:08.150 | DM] the
 [u0223 | 00:21:09.780-00:21:14.710 | DM] Okay, so sorry. Where's my notes here?
 [u0224 | 00:21:14.750-00:21:21.959 | DM] Okay, so Kenzo. And Wellby make investigation checks in the bed chamber. Kenzo, already rolled.
-[u0225 | 00:21:22.530-00:21:24.519 | Wellby] I rolled a 21 and rolled 20.
+[u0225 | 00:21:22.530-00:21:24.519 | Wellby] I rolled a 21 in Roll20.
 [u0226 | 00:21:25.270-00:21:47.020 | DM] Okay, so you begin poking around the bedchamber. There's a rusted iron metal frame. There's no mattress or bedding, but it looks like there once was. It's just rotted out. Over many hundreds of years. This room is like. I mean, the iron is all rotting. There's a few what look like there was once candle holders, but now are just like little
 [u0227 | 00:21:47.130-00:21:50.960 | DM] piles of rust on a stone table.
 [u0228 | 00:21:51.080-00:21:55.850 | DM] There's a what probably was once a wooden shelf with
@@ -407,7 +407,7 @@
 [u0407 | 00:38:28.480-00:38:30.430 | Seeker] But what? Exactly?
 [u0408 | 00:38:36.570-00:38:42.769 | DM] I do not know. History has never been my strong suit. I wonder where this tunnel heads to.
 [u0409 | 00:38:42.950-00:38:46.319 | Seeker] can't move my clairvoyance sensor any further down it.
-[u0410 | 00:38:47.450-00:39:09.620 | Delwath] No, once it's in place, it's in place. I would very much like to know where this tunnel goes to {{for a moment. See if any sound is happening, since I was a kind of}} wander into the room. {{Is anything but}} I mean I don't. I guess I can only detect magic in 30 feet, so I can't tell. But is there anything magical the stone chest is magical. Oh.
+[u0410 | 00:38:47.450-00:39:09.620 | Delwath] No, once it's in place, it's in place. I would very much like to know where this tunnel goes to {{for a moment. See if any sound is happening, since I was a kind of}} wander into the room. Is anything but I mean I don't. I guess I can only detect magic in 30 feet, so I can't tell. But is there anything magical the stone chest is magical. Oh.
 [u0411 | 00:39:10.460-00:39:13.829 | Delwath] there's a magic chest over there. Did you guys notice that?
 [u0412 | 00:39:14.390-00:39:15.390 | Seeker] Notice what
 [u0413 | 00:39:15.900-00:39:21.530 | Seeker] I'm pointing at? Oh, you're talking about? It's magical. Oh.
@@ -483,14 +483,14 @@
 [u0483 | 00:44:45.550-00:44:50.810 | Delwath] But there could be some value in showing a fairly mundane item from this place to the mirror
 [u0484 | 00:44:52.060-00:44:52.810 | Delwath] like.
 [u0485 | 00:44:52.930-00:44:53.800 | Kenzo] yeah.
-[u0486 | 00:44:53.950-00:44:59.030 | Seeker] we just to see who was here. I think we should {{have security on that we found}}
-[u0487 | 00:44:59.400-00:45:02.489 | Seeker] before to the mirror {{sub instant}}. Compare
+[u0486 | 00:44:53.950-00:44:59.030 | Seeker] we just to see who was here. I think we should show the Enchiridion that we found
+[u0487 | 00:44:59.400-00:45:02.489 | Seeker] before to the mirror so we can. Compare
 [u0488 | 00:45:02.670-00:45:04.170 | Kenzo] Welcome.
 [u0489 | 00:45:04.690-00:45:16.360 | Delwath] Yes, but not not, I think, not right now. Right like. Let's let's look for let's wait on that. I think there's other things that would give us more clues about who lived here.
 [u0490 | 00:45:16.610-00:45:17.999 | Seeker] Yeah, that's true.
 [u0491 | 00:45:18.120-00:45:19.979 | Kenzo] But why not that book?
 [u0492 | 00:45:22.590-00:45:24.540 | Seeker] Well, fair Point.
-[u0493 | 00:45:24.890-00:45:27.150 | Kenzo] {{Isn't that often round?}}
+[u0493 | 00:45:24.890-00:45:27.150 | Kenzo] Isn't that often round?
 [u0494 | 00:45:30.160-00:45:32.070 | Delwath] I guess I was thinking like
 [u0495 | 00:45:32.800-00:45:39.350 | Delwath] the water basin or something. You might see more about just the daily life who is here? Right?
 [u0496 | 00:45:41.590-00:45:47.210 | Delwath] But I don't know if I'm right about that. Actually, I guess I don't know why not the book, necessarily.
@@ -645,7 +645,7 @@
 [u0645 | 00:59:07.750-00:59:15.700 | DM] especially looking through the kind of stuff that's kind of collapsed to the bottom where the shelves have rotted, there's actually,
 [u0646 | 00:59:17.170-00:59:23.520 | DM] quite a bit of sort of fairly interesting things that you uncover here.
 [u0647 | 00:59:23.810-00:59:27.130 | DM] so first of all, there's
-[u0648 | 00:59:28.240-00:59:31.440 | DM] {{2 dozen}} heavy bars of gold and silver.
+[u0648 | 00:59:28.240-00:59:31.440 | DM] 2 dozen heavy bars of gold and silver.
 [u0649 | 00:59:32.290-00:59:39.729 | DM] 8 bars, 8 gold bars that each weigh 10 pounds and 20 silver bars that each weigh 5 pounds.
 [u0650 | 00:59:39.930-00:59:45.609 | Kenzo] Amazing. definitely. Gonna I mean, invest, invest all those
 [u0651 | 00:59:45.710-00:59:54.329 | DM] we should really investisack all the jewels on the table, too. If we're investisacking here.
@@ -928,7 +928,7 @@
 [u0928 | 01:26:26.480-01:26:42.390 | Delwath] Yup possible. Okay, but they they're like they seem like friends or companions, or this is like,
 [u0929 | 01:26:42.550-01:26:45.740 | Wellby] yes, Delwath. Do you recognize the elf?
 [u0930 | 01:26:46.990-01:27:02.150 | Delwath] All elves do not know each other.
-[u0931 | 01:27:02.250-01:27:15.030 | Kenzo] Wait, wait, Can Delwath {{lip free valve}} was the we need to. We need to like, we need to do this better next time.
+[u0931 | 01:27:02.250-01:27:15.030 | Kenzo] Wait, wait, Can Delwath lip-read Elvish was the we need to. We need to like, we need to do this better next time.
 [u0932 | 01:27:15.120-01:27:26.030 | Kenzo] Yeah, any other sense of era just by looking at the the like, based on garb.
 [u0933 | 01:27:26.040-01:27:33.779 | Delwath] I assume. I mean, obviously I don't. I assume I don't know the elf, but also
 [u0934 | 01:27:33.940-01:27:35.880 | Delwath] any.
@@ -1190,12 +1190,12 @@
 [u1190 | 01:56:19.350-01:56:24.790 | DM] it's almost like it's like lead, right? It's like there's you can't feel anything beyond that.
 [u1191 | 01:56:24.950-01:56:36.150 | DM] you have no sense from your commune with nature of anything on the other side of this door. It's like a blank slate. It's like a something's blocking you. A void. Try to read the runes.
 [u1192 | 01:56:37.180-01:56:45.349 | DM] I mean, yeah, you, I mean, you sort of did right. They're like runes of elemental protection. Right? They're like wards.
-[u1193 | 01:56:50.150-01:56:52.609 | Kenzo] and we speak with dead through the wall.
+[u1193 | 01:56:50.150-01:56:52.609 | Kenzo] Can we speak with dead through the wall.
 [u1194 | 01:56:53.810-01:56:54.590 | Seeker] No.
 [u1195 | 01:56:55.300-01:56:59.989 | Seeker] I don't think so. Most most spells require line of sight.
 [u1196 | 01:57:00.070-01:57:01.750 | Seeker] Yeah. Is the door locked.
 [u1197 | 01:57:02.650-01:57:04.319 | DM] The door is not locked.
-[u1198 | 01:57:04.880-01:57:21.489 | Kenzo] Just crack it open. We're gonna do the thing, the mirrors, the Augury. I can even Augury with my staff. {{Lies}} on the far side of the door, but also what we seek.
+[u1198 | 01:57:04.880-01:57:21.489 | Kenzo] Just crack it open. We're gonna do the thing, the mirrors, the Augury. I can even Augury with my staff. Lies on the far side of the door, but also what we seek.
 [u1199 | 01:57:21.510-01:57:29.159 | Kenzo] No, no, no, no! But there may be a safer way to open the door right? So I can ask
 [u1200 | 01:57:29.170-01:57:37.149 | Kenzo] Well, I can ask you if it's okay, just to open if we would be okay, just opening the door as a without doing anything else. If you were to just go. Do that, Wellby. Let me just ask that
 [u1201 | 01:57:37.350-01:57:45.879 | Delwath] state the question exactly as you're asking. We should ask if we should, if it would be wise to go through the door
@@ -1389,7 +1389,7 @@
 [u1389 | 02:14:45.300-02:14:47.770 | Delwath] We have the solvent right. I'll just shout it out.
 [u1390 | 02:14:49.250-02:14:54.550 | DM] but if you can destroy them, be careful. for they were enchanted
 [u1391 | 02:14:56.300-02:14:58.569 | DM] to summon elementals
-[u1392 | 02:15:02.460-02:15:05.850 | Delwath] that okay, good to know what are.
+[u1392 | 02:15:02.460-02:15:05.850 | Delwath] that okay, good to know Water.
 [u1393 | 02:15:07.840-02:15:09.980 | DM] And earth. I destroyed
 [u1394 | 02:15:10.950-02:15:16.260 | Kenzo] fire and air nothing like fire and air.
 [u1395 | 02:15:17.440-02:15:18.860 | Kenzo] Okay.
@@ -1468,7 +1468,7 @@
 [u1468 | 02:22:05.950-02:22:11.210 | DM] not vulnerable to cold damage. They just if you
 [u1469 | 02:22:12.900-02:22:18.940 | DM] they take cold damage if you douse them in water.
 [u1470 | 02:22:19.450-02:22:23.859 | DM] But they obviously immune to fire. Air. Elementals are.
-[u1471 | 02:22:24.450-02:22:26.830 | DM] resist {{laundering}}
+[u1471 | 02:22:24.450-02:22:26.830 | DM] resist lightning
 [u1472 | 02:22:26.910-02:22:28.230 | DM] thunder and lightning.
 [u1473 | 02:22:29.070-02:22:30.120 | Delwath] Great. Okay.
 [u1474 | 02:22:37.400-02:22:42.400 | Delwath] okay. so and we. But we have no idea what this creature that's coming.
@@ -1519,7 +1519,7 @@
 [u1519 | 02:26:31.490-02:26:33.450 | DM] Well, you can't ready, I mean, you can't.
 [u1520 | 02:26:33.790-02:26:42.149 | Kenzo] You roll initiative. Yeah, I don't mean like, yeah, crack like, like, Oh, I I blow the Raven's whistle so I can fly. At least
 [u1521 | 02:26:43.820-02:26:48.919 | Seeker] that's not a bad idea. Oh, my damn! Spell slots are messed up! Oh, tap my Boots of Speed.
-[u1522 | 02:26:50.200-02:26:54.740 | Kenzo] {{I've only kept. I also}} fire resistance useful against Drusilia.
+[u1522 | 02:26:50.200-02:26:54.740 | Kenzo] I've only kept. I also fire resistance useful against Drusilia.
 [u1523 | 02:26:55.320-02:27:00.690 | Kenzo] I'm gonna get ready to soul-sight, too, with you just to learn whatever the fuck I can about Drusilia.
 [u1524 | 02:27:03.090-02:27:04.740 | Delwath] Yeah. I
 [u1525 | 02:27:05.050-02:27:07.049 | Delwath] I think, do we have tokens, Tim?
@@ -1548,7 +1548,7 @@
 [u1548 | 02:28:56.790-02:29:01.070 | Seeker] Glad we scatter so suddenly erupting out of the floor.
 [u1549 | 02:29:01.730-02:29:04.640 | DM] You see this enormous
 [u1550 | 02:29:05.670-02:29:13.640 | DM] whirling mass of smoke and mist and fire that looks kind of like a flaming octopus.
-[u1551 | 02:29:15.400-02:29:21.950 | Seeker] And as it bursts out, everybody roll initiative, blaming octopus sent.
+[u1551 | 02:29:15.400-02:29:21.950 | Seeker] And as it bursts out, everybody roll initiative, flaming octopus sent.
 [u1552 | 02:29:28.430-02:29:33.150 | DM] Come on, Roll20.
 [u1553 | 02:29:33.340-02:29:34.399 | Kenzo] Hey, Jameson.
 [u1554 | 02:29:34.970-02:29:40.200 | DM] I know. I just don't know why none of the tokens are. Here we go.
@@ -1606,7 +1606,7 @@
 [u1606 | 02:34:23.680-02:34:25.150 | DM] And it is
 [u1607 | 02:34:26.970-02:34:28.350 | DM] like just
 [u1608 | 02:34:29.290-02:34:38.479 | Seeker] incoherent with rage. It might not be the bad guy guys. Maybe we should ask this might. This might be the elemental.
-[u1609 | 02:34:38.630-02:34:45.520 | Kenzo] I think it is. I think it is {{awesome highlighted}}.
+[u1609 | 02:34:38.630-02:34:45.520 | Kenzo] I think it is. I think it is awesome highlighted.
 [u1610 | 02:34:46.290-02:34:51.690 | Seeker] But I mean, it's about to try and kill us right? So we can't just ignore that.
 [u1611 | 02:34:52.360-02:34:55.610 | Delwath] I expect so. But maybe we try and
 [u1612 | 02:34:56.090-02:35:05.309 | Kenzo] universal solvent the things and see what happens. I assume you do. Well, you got it around your neck or you've got it. Yeah.
@@ -1643,7 +1643,7 @@
 [u1643 | 02:37:26.850-02:37:30.830 | DM] as you're forcefully rejected from its
 [u1644 | 02:37:31.430-02:37:32.250 | DM] like.
 [u1645 | 02:37:32.930-02:37:44.800 | Kenzo] So essence, it's it's a slight. It's a slight of nuance, but it's not my I'm you. I'm reaching out with my consciousness. It's kind of my psychic damage. That's why it's psychic damage because it's striking your consciousness.
-[u1646 | 02:37:44.820-02:37:46.579 | Kenzo] Okay? Alright, Beth.
+[u1646 | 02:37:44.820-02:37:46.579 | Kenzo] Okay? Alright, fair.
 [u1647 | 02:37:47.630-02:37:49.770 | DM] and then
 [u1648 | 02:37:50.330-02:37:59.159 | DM] It begins to fling its arms around one
 [u1649 | 02:38:00.320-02:38:05.690 | DM] one of these like swirling tentacles, reaches out and strikes Delwath.
@@ -1654,7 +1654,7 @@
 [u1654 | 02:38:26.720-02:38:27.780 | Delwath] it's bad
 [u1655 | 02:38:28.270-02:38:29.010 | DM] at
 [u1656 | 02:38:29.280-02:38:33.410 | DM] the lightning bolt strikes Seeker full on
-[u1657 | 02:38:34.920-02:38:39.430 | Seeker] and you take 31 points of lightning damage as {{your phone}}
+[u1657 | 02:38:34.920-02:38:39.430 | Seeker] and you take 31 points of lightning damage as your phone
 [u1658 | 02:38:39.500-02:38:50.169 | DM] Shock and thunder boom as a concussive wave of shock erupts from the elemental as it emerges from
 [u1659 | 02:38:50.180-02:38:54.600 | DM] the floor. And I need everybody to make a constitution saving throw.
 [u1660 | 02:38:54.630-02:38:55.790 | Kenzo] It's elemental
@@ -1776,7 +1776,7 @@
 [u1776 | 02:48:51.030-02:48:58.779 | Kenzo] actually inspiration. You can reaction inspiration. Right? Eric. Yeah, you should inspiration him.
 [u1777 | 02:48:58.800-02:49:01.520 | Seeker] That's a good idea. Nice
 [u1778 | 02:49:04.840-02:49:06.020 | Kenzo] After the roll. What?
-[u1779 | 02:49:06.120-02:49:08.090 | Seeker] 10 Wendy 10 million.
+[u1779 | 02:49:06.120-02:49:08.090 | Seeker] 10, 1d10, you mean.
 [u1780 | 02:49:08.180-02:49:09.570 | DM] 1d10,
 [u1781 | 02:49:10.490-02:49:13.779 | Kenzo] nice 17 that hits 17 hits Yup.
 [u1782 | 02:49:14.600-02:49:17.310 | DM] So you add the 4 onto the damage. You do.
@@ -1861,7 +1861,7 @@
 [u1861 | 02:55:13.650-02:55:15.310 | Delwath] And one
 [u1862 | 02:55:15.450-02:55:17.100 | DM] larger elemental?
 [u1863 | 02:55:17.430-02:55:18.309 | Seeker] Yeah. Man.
-[u1864 | 02:55:18.690-02:55:25.419 | Wellby] {{reaction}} to disengage and
+[u1864 | 02:55:18.690-02:55:25.419 | Wellby] reaction to disengage and
 [u1865 | 02:55:25.590-02:55:27.160 | Wellby] move the rest of the way out of there.
 [u1866 | 02:55:27.360-02:55:28.989 | Seeker] Okay, now
 [u1867 | 02:55:29.880-02:55:33.719 | DM] that ends Wellby's turn. let me roll for the
@@ -2293,7 +2293,7 @@
 [u2293 | 03:36:20.620-03:36:24.589 | Delwath] the first person, the the hologram.
 [u2294 | 03:36:24.820-03:36:28.329 | DM] Oh, the hologram. No.
 [u2295 | 03:36:31.690-03:36:46.569 | Seeker] we do. We don't recognize. And do I recognize, do we recognize any of the 4 humans you don't recognize any of the 4 humans cause? It's this is from hundreds of years ago. This, this is like hundreds of years before. It was. This was when I was first trapped, right like hundreds of years before.
-[u2296 | 03:36:47.150-03:36:49.589 | Seeker] Drusilia, {{drink or look over}}.
+[u2296 | 03:36:47.150-03:36:49.589 | Seeker] Drusilia, Drankor took over.
 [u2297 | 03:36:51.030-03:36:55.419 | Kenzo] all yeah, Tim.
 [u2298 | 03:36:55.570-03:36:59.659 | Kenzo] number one definitely, Kenzo is going to.
 [u2299 | 03:37:00.210-03:37:07.800 | Kenzo] I inscribe this story onto the airship. That's the new place that he's drawing all the different Bhishma stories.
