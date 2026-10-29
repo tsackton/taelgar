@@ -1304,8 +1304,8 @@ Kenzo: Kenzo perks up. Riswynn, perhaps you could shed some light, as well as I'
 %% u0870:0-4, u0871:0-13, u0872:0-20 %%
 Delwath: I'm Delwath will sort of calm her um.
 
-%% u0873:0-45, u0874:0-10, u0875:0-33, u0876:0-23 %%
-Delwath: I would not fear those dreams, those are the echoes of of Oskar the god who granted him freedom from his curse.
+%% u0873:0-45, u0874:0-10, u0875:0-36, u0876:0-23 %%
+Delwath: I would not fear those dreams, those are the echoes of of Aaviskar the god who granted him freedom from his curse.
 
 %% u0877:0-33 %%
 Kenzo: I'm not sure that's totally true.
@@ -1319,14 +1319,14 @@ Riswynn: Kenzo if you're having dreams of the dwarven gods whose blessing I conv
 %% u0880:0-5, u0881:0-5 %%
 Kenzo: I am I am.
 
-%% u0882:0-100 %%
-Delwath: Twilight—those, those are images of Oskar. I, I visited that very—those very places in the dream world.
+%% u0882:0-103 %%
+Delwath: Twilight—those, those are images of Aaviskar. I, I visited that very—those very places in the dream world.
 
 %% u0883:0-11 %%
 Kenzo: It's where.
 
-%% u0884:0-15 %%
-Delwath: Oskar was from.
+%% u0884:0-18 %%
+Delwath: Aaviskar was from.
 
 %% u0885:0-69, u0886:0-215 %%
 Kenzo: Yes, and, and, again, I think it was one of the dwarven gods that you reached out to to help undo the the curse upon me as well. But I still have dreams about that darkness, and they are perhaps just echoes, but I have been worried that perhaps my infection is not totally been cleared.
@@ -2489,8 +2489,8 @@ Delwath: Yeah I mean I'm hoping to stop by soon.
 %% u1605:0-38, u1606:0-45, u1607:0-3 %%
 DM: I don't think we've extended, right, um. Maybe 1215 ish because we started a bit late. Ah.
 
-%% u1608:0-3, u1609:0-59, u1610:0-73, u1611:0-47, u1612:0-21, u1613:0-48, u1614:0-156 %%
-DM: So, um, let's see. So let's jump to that. So you had asked her to, to identify, track down what information she could in the archives of the Lakan monastery about Rai, and then also about Yezali, Oskar, Anida. Whatever she could find about, you know, supposed ancient gods. And she, she's, you know, she comes back and she's, you know, she brings you back to her little office area in the in the small library in you know.
+%% u1608:0-3, u1609:0-59, u1610:0-73, u1611:0-47, u1612:0-24, u1613:0-48, u1614:0-156 %%
+DM: So, um, let's see. So let's jump to that. So you had asked her to, to identify, track down what information she could in the archives of the Lakan monastery about Rai, and then also about Yezali, Aaviskar, Anida. Whatever she could find about, you know, supposed ancient gods. And she, she's, you know, she comes back and she's, you know, she brings you back to her little office area in the in the small library in you know.
 
 %% u1615:0-5 %%
 Unknown: Says.
@@ -2633,8 +2633,8 @@ DM: I guess.
 %% u1705:0-72, u1706:0-14 %%
 Wellby: Maybe even go back to the other halflings or go back to the storyteller looking to go.
 
-%% u1707:0-30, u1708:0-17 %%
-Delwath: Um Is this the same area that Oskar comes from?
+%% u1707:0-30, u1708:0-20 %%
+Delwath: Um Is this the same area that Aaviskar comes from?
 
 %% u1709:0-9, u1710:0-7 %%
 DM: You know I mean.
@@ -2927,8 +2927,8 @@ Delwath: So it's not going to be soon enough that, like, Delwath can just go cas
 %% u1918:0-13, u1919:0-114 %%
 DM: No, the seed, the seed pods don't form until, like, you know, August, and it's not until like October that they're ready to harvest.
 
-%% u1920:0-265 %%
-Delwath: Fine, so when we come back after having escaped prison in Chardon, found Oskar's eyes, found all the weird people up in the mountains, and are now ready to go figure out what's going on with Kharsan, it'll, it'll be time for Kenzo to get his super powerful magic staff.
+%% u1920:0-268 %%
+Delwath: Fine, so when we come back after having escaped prison in Chardon, found Aaviskar's eyes, found all the weird people up in the mountains, and are now ready to go figure out what's going on with Kharsan, it'll, it'll be time for Kenzo to get his super powerful magic staff.
 
 %% u1921:0-72, u1922:0-75, u1923:0-43 %%
 Kenzo: No, no, no, no, no, no, no. That's—it's happening now. It's happening now. Kenzo's going to go and go and meditate with the tree. It's going to happen. This is something that's going to manifest.

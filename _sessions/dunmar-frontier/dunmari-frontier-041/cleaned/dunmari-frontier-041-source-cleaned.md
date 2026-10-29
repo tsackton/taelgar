@@ -872,16 +872,16 @@
 [u0872 | 01:12:33.990-01:12:35.850 | Delwath] sort of calm her um.
 [u0873 | 01:12:37.440-01:12:40.980 | Delwath] I would not fear those dreams, those are the.
 [u0874 | 01:12:42.000-01:12:43.140 | Delwath] echoes of.
-[u0875 | 01:12:44.160-01:12:47.130 | Delwath] Of Oskar the god who granted him.
+[u0875 | 01:12:44.160-01:12:47.130 | Delwath] Of Aaviskar the god who granted him.
 [u0876 | 01:12:48.810-01:12:50.310 | Delwath] Freedom from his curse.
 [u0877 | 01:12:52.740-01:12:54.690 | Kenzo] i'm not sure that's totally true.
 [u0878 | 01:12:55.260-01:12:56.280 | Delwath] i'm sure it is.
 [u0879 | 01:12:56.970-01:13:05.790 | Riswynn] Kenzo if you're having dreams of the dwarven gods whose blessing I conveyed on you, that would make sense as well.
 [u0880 | 01:13:06.120-01:13:06.930 | Kenzo] I am.
 [u0881 | 01:13:07.290-01:13:07.890 | Kenzo] I am.
-[u0882 | 01:13:09.000-01:13:16.260 | Delwath] Twilight those those are images of Oskar I I visited that very those very places in the dream world.
+[u0882 | 01:13:09.000-01:13:16.260 | Delwath] Twilight those those are images of Aaviskar I I visited that very those very places in the dream world.
 [u0883 | 01:13:17.700-01:13:18.060 | Kenzo] it's where.
-[u0884 | 01:13:18.210-01:13:19.260 | Delwath] Oskar was from.
+[u0884 | 01:13:18.210-01:13:19.260 | Delwath] Aaviskar was from.
 [u0885 | 01:13:20.490-01:13:24.870 | Kenzo] Yes, and and, again, I think it was one of the dwarven gods that you.
 [u0886 | 01:13:27.240-01:13:48.180 | Kenzo] reached out to to help undo the the curse upon me as well, but I still have dreams about that darkness and they are perhaps just echoes, but I have been worried that perhaps my infection is not totally been cleared.
 [u0887 | 01:13:48.780-01:13:50.910 | Seeker] I wonder if they mean something else altogether.
@@ -1609,7 +1609,7 @@
 [u1609 | 02:14:58.530-02:15:03.300 | DM] um let's see so let's jump to that so you had asked her to.
 [u1610 | 02:15:04.710-02:15:11.130 | DM] to identify track down what information she could in the archives of the.
 [u1611 | 02:15:12.180-02:15:17.040 | DM] Lakan monastery about Rai, and then also about.
-[u1612 | 02:15:18.930-02:15:21.600 | DM] Yezali, Oskar, Anida.
+[u1612 | 02:15:18.930-02:15:21.600 | DM] Yezali, Aaviskar, Anida.
 [u1613 | 02:15:22.830-02:15:26.880 | DM] Whatever she could find about you know supposed.
 [u1614 | 02:15:30.750-02:15:43.020 | DM] Ancient gods and she she's you know she comes back and she's you know she brings you back to her little office area in the in the small library in you know.
 [u1615 | 02:15:44.280-02:15:44.910 | Unknown] says.
@@ -1705,7 +1705,7 @@
 [u1705 | 02:22:46.950-02:22:50.460 | Wellby] Maybe even go back to the other halflings or go back to the storyteller.
 [u1706 | 02:22:51.690-02:22:52.290 | Wellby] Looking to go.
 [u1707 | 02:22:52.530-02:22:54.840 | Delwath] um Is this the same area that.
-[u1708 | 02:22:56.250-02:22:57.030 | Delwath] Oskar comes from.
+[u1708 | 02:22:56.250-02:22:57.030 | Delwath] Aaviskar comes from.
 [u1709 | 02:22:59.730-02:23:00.570 | DM] You know.
 [u1710 | 02:23:02.070-02:23:02.670 | DM] I mean.
 [u1711 | 02:23:04.140-02:23:08.250 | DM] there's the forests extend quite some distance.
@@ -1917,7 +1917,7 @@
 [u1917 | 02:43:41.790-02:43:48.720 | Delwath] So it's not going to be soon enough that like Delwath can just go cast fly and go up and take all the harvest all of the.
 [u1918 | 02:43:49.500-02:43:50.160 | DM] No, the seed.
 [u1919 | 02:43:51.030-02:43:58.320 | DM] The seed pods don't form until like you know August and it's not until like October that they're ready to harvest.
-[u1920 | 02:43:58.410-02:44:14.340 | Delwath] Fine, so when we come back after having escaped prison in Chardon, found Oskar's eyes found all the weird people up in the mountains and are now ready to go figure out what's going on with Kharsan it'll it'll be time for Kenzo to get his super powerful magic staff.
+[u1920 | 02:43:58.410-02:44:14.340 | Delwath] Fine, so when we come back after having escaped prison in Chardon, found Aaviskar's eyes found all the weird people up in the mountains and are now ready to go figure out what's going on with Kharsan it'll it'll be time for Kenzo to get his super powerful magic staff.
 [u1921 | 02:44:14.460-02:44:17.430 | Kenzo] No, no, no, no, no, no, no that's it's happening now it's happening now.
 [u1922 | 02:44:18.600-02:44:21.450 | Kenzo] Kenzo's going to go and go and meditate with the tree it's going to happen.
 [u1923 | 02:44:22.470-02:44:23.820 | Kenzo] This is something that's going to manifest.
