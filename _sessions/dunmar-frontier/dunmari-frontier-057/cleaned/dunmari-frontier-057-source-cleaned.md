@@ -7,7 +7,7 @@
 [u0007 | 00:00:36.380-00:00:50.929 | DM] aware of the forest around you, newly awakened to your senses, with each step planting your staff on the ground, feeling the heartbeat of the trees, the pulse of nutrients across the vast network of mycelia connecting the
 [u0008 | 00:00:51.200-00:00:55.510 | DM] great trees of the place, the god trees to the Deno'qai.
 [u0009 | 00:00:57.670-00:01:08.079 | DM] As you walk, your awareness focused on this forest ki around you that bubbles through your staff and fills you with energy. The world fades
-[u0010 | 00:01:08.670-00:01:24.850 | DM] until you are pulled back to your friends in a {{double collection}} of images. As the pocket dimension collapses, and you see a ship approaching a jagged coastline of an unfamiliar island. A meadow of golden butterflies, a forest of pines and maples high on the mountain slope
+[u0010 | 00:01:08.670-00:01:24.850 | DM] until you are pulled back to your friends in a jumbled collection of images. As the pocket dimension collapses, and you see a ship approaching a jagged coastline of an unfamiliar island. A meadow of golden butterflies, a forest of pines and maples high on the mountain slope
 [u0011 | 00:01:25.220-00:01:31.290 | Kenzo] as Delwath, Wellby, and Seeker are pulled away from you. You hear Wellby's voice in your mind just for a moment.
 [u0012 | 00:01:31.950-00:01:37.390 | DM] Find your way to the Feywild, into the portal near Eudomes' tower. We'll meet again there,
 [u0013 | 00:01:37.400-00:01:43.220 | DM] and then you're hurling towards the ground in the predawn light below you a lush jungle stretching
@@ -31,7 +31,7 @@
 [u0031 | 00:03:37.210-00:03:38.970 | DM] so
 [u0032 | 00:03:39.370-00:03:42.440 | DM] you've never been in a jungle before.
 [u0033 | 00:03:42.470-00:03:44.800 | DM] Everything is
-[u0034 | 00:03:45.080-00:03:46.780 | DM] {{unusual on them.}}
+[u0034 | 00:03:45.080-00:03:46.780 | DM] unusual on them.
 [u0035 | 00:03:46.790-00:03:54.530 | Kenzo] The weather is unusual. It's not hot like the desert. It's not hot like you're used to. It's dripping.
 [u0036 | 00:03:54.550-00:03:55.390 | Kenzo] Yeah,
 [u0037 | 00:03:55.400-00:03:57.770 | Kenzo] everything is,
@@ -44,13 +44,13 @@
 [u0044 | 00:04:39.380-00:04:41.390 | DM] wholly strange to you,
 [u0045 | 00:04:41.400-00:04:44.409 | DM] but not unwholesome. It feels
 [u0046 | 00:04:44.950-00:04:47.609 | Kenzo] rich and vibrant.
-[u0047 | 00:04:48.270-00:04:54.859 | Kenzo] So So does Kenzo feel a sense of peace here like It's like, Oh, this is beautiful. {{That's the person. This is a scary.}}
+[u0047 | 00:04:48.270-00:04:54.859 | Kenzo] So So does Kenzo feel a sense of peace here like It's like, Oh, this is beautiful. As opposed to, this is scary.
 [u0048 | 00:04:54.900-00:04:57.009 | DM] Uh: yes, yeah, yeah, yeah,
 [u0049 | 00:04:57.160-00:04:59.610 | Kenzo] Okay, wonderful. Wonderful.
-[u0050 | 00:05:00.320-00:05:18.939 | Kenzo] Well, Kenzo first just kind of stands up, and it's like very confused, and it's like processing right because it's like we were just one place, and now we just launched. Kenzo has no idea where he is like what the fuck is going on. Wellby's voice in his head. Oh, it, and I quickly check, for Wellby like, Can I do? That {{sounds Wellby}} it's getting weird.
+[u0050 | 00:05:00.320-00:05:18.939 | Kenzo] Well, Kenzo first just kind of stands up, and it's like very confused, and it's like processing right because it's like we were just one place, and now we just launched. Kenzo has no idea where he is like what the fuck is going on. Wellby's voice in his head. Oh, it, and I quickly check, for Wellby like, Can I do? That sense Wellby it's getting weird.
 [u0051 | 00:05:18.950-00:05:21.680 | DM] No, there's nobody.
 [u0052 | 00:05:21.860-00:05:24.259 | DM] You seem to be completely alone.
-[u0053 | 00:05:25.050-00:05:37.840 | Kenzo] Well, as as Kenzo notices the kind of scream, the the distress call, in the distance. Um, he sort of starts to kind of get his bearings and starts moving, {{looting, and that to repression}}, but alert,
+[u0053 | 00:05:25.050-00:05:37.840 | Kenzo] Well, as as Kenzo notices the kind of scream, the the distress call, in the distance. Um, he sort of starts to kind of get his bearings and starts moving, moving in that direction, but alert,
 [u0054 | 00:05:38.230-00:05:40.060 | Kenzo] being mindful of his step.
 [u0055 | 00:05:40.410-00:05:53.459 | Kenzo] Um, again, I think in this moment he has a very just strong sense of you know. Where. Where am I? But also just you know awareness that he doesn't want to disturb
 [u0056 | 00:05:53.960-00:06:07.660 | Kenzo] anything you know like we literally just just like you know, spent two days killing a green dragon, and like kind of just like like whatever, wherever you are. So awareness, alertness, all on high, moving, moving with
@@ -80,14 +80,14 @@
 [u0080 | 00:09:06.180-00:09:07.550 | Kenzo] Yeah, yeah,
 [u0081 | 00:09:08.620-00:09:10.170 | Kenzo] um.
 [u0082 | 00:09:10.480-00:09:13.290 | Kenzo] And they look like they're holding the lizardfolk guy captive.
-[u0083 | 00:09:13.300-00:09:28.880 | Kenzo] So as you do this. One of them, like reaches down with his jaw, and, like takes a bite out of it, tries to take a bite out of his arm, and lizardfolk looks pretty wounded at this point. Um! Lying on the ground. They are clearly trying to eat. {{This was yeah}}
+[u0083 | 00:09:13.300-00:09:28.880 | Kenzo] So as you do this. One of them, like reaches down with his jaw, and, like takes a bite out of it, tries to take a bite out of his arm, and lizardfolk looks pretty wounded at this point. Um! Lying on the ground. They are clearly trying to eat this lizard, yeah
 [u0084 | 00:09:28.890-00:09:30.400 | Kenzo] his um.
 [u0085 | 00:09:32.760-00:09:40.610 | Kenzo] It's like using my intuition here like, Is there anything that Kenzo can think to do to like? Calm them down like? Is there a let me just see. Is there, like a
 [u0086 | 00:09:40.960-00:09:42.350 | Kenzo] Let me see
 [u0087 | 00:09:43.340-00:09:45.620 | Kenzo] cleansing touch
 [u0088 | 00:09:47.910-00:09:52.319 | Kenzo] like Do that? Does it look like they're charmed like. Is this like a cleansing touch type situation?
 [u0089 | 00:09:52.810-00:09:55.419 | DM] I mean you Haven't
-[u0090 | 00:09:55.920-00:10:04.780 | DM] you haven't seen anything like this before, {{but what it it doesn't know}}. It does not seem like charm to you.
+[u0090 | 00:09:55.920-00:10:04.780 | DM] you haven't seen anything like this before, but what it it doesn't—no. It does not seem like charm to you.
 [u0091 | 00:10:05.560-00:10:10.270 | DM] It seems it almost seems like they are
 [u0092 | 00:10:11.130-00:10:17.920 | DM] thinking back. Actually the thing it reminds you of more than anything else, although it's very much. Not this
 [u0093 | 00:10:18.270-00:10:21.370 | DM] um was the um
@@ -102,7 +102,7 @@
 [u0102 | 00:10:50.140-00:10:52.560 | DM] Their aura is is
 [u0103 | 00:10:52.870-00:10:56.689 | DM] driven by this sort of elemental excess
 [u0104 | 00:10:56.700-00:10:59.230 | Kenzo] that's just driven them mad.
-[u0105 | 00:11:01.720-00:11:12.009 | Kenzo] So all right. So I just did a regular soul sight that tells me also like their {{class level}} and lowest, {{It prize the belief scores.}}
+[u0105 | 00:11:01.720-00:11:12.009 | Kenzo] So all right. So I just did a regular soul sight that tells me also like their class level and lowest, highest ability scores.
 [u0106 | 00:11:12.030-00:11:14.860 | DM] Yes, they're they're
 [u0107 | 00:11:15.040-00:11:24.389 | Kenzo] at level two. They're not Ok, nasty. Their lowest abilities. Their highest is strength. Their lowest is intelligence.
 [u0108 | 00:11:24.400-00:11:27.289 | Kenzo] Oh, yeah, but I don't have an intelligence
@@ -121,8 +121,8 @@
 [u0121 | 00:12:14.200-00:12:15.040 | Kenzo] All right,
 [u0122 | 00:12:15.050-00:12:17.359 | Unknown] Then I will allow you to roll initiative.
 [u0123 | 00:12:17.430-00:12:18.620 | DM] Ah,
-[u0124 | 00:12:19.200-00:12:21.540 | Unknown] {{they were all the yeah}} roll initiative,
-[u0125 | 00:12:25.980-00:12:27.200 | Kenzo] {{don't eat.}}
+[u0124 | 00:12:19.200-00:12:21.540 | Unknown] they were all the yeah roll initiative,
+[u0125 | 00:12:25.980-00:12:27.200 | Kenzo] An eight.
 [u0126 | 00:12:27.690-00:12:32.659 | Kenzo] They also rolled eight. So you can go first.
 [u0127 | 00:12:32.670-00:12:37.479 | Kenzo] I will. I will do a frightening strike
 [u0128 | 00:12:37.990-00:12:40.120 | DM] right. So you got to hit him first
@@ -144,7 +144,7 @@
 [u0144 | 00:13:48.360-00:13:51.260 | DM] digital dice rolling for this character.
 [u0145 | 00:13:51.270-00:13:53.440 | DM] Click on the little anvil thing
 [u0146 | 00:13:53.500-00:13:55.590 | Kenzo] click on. Oh, my God! It
-[u0147 | 00:13:55.600-00:13:56.969 | Kenzo] {{go to build our area.}}
+[u0147 | 00:13:55.600-00:13:56.969 | Kenzo] go to builder area.
 [u0148 | 00:13:57.030-00:14:04.200 | DM] Yeah, and then click on home the very beginning. Then where it says, dice rolling click on enable digital dice for this character.
 [u0149 | 00:14:06.410-00:14:08.530 | Kenzo] Okay, yeah, it should be. It should be on,
 [u0150 | 00:14:09.400-00:14:10.440 | DM] huh?
@@ -160,7 +160,7 @@
 [u0160 | 00:15:00.570-00:15:08.199 | Kenzo] so when I click on Staff of the Forest Soul. The The description pops up, but there's no button. Any place to click to roll a die
 [u0161 | 00:15:08.400-00:15:15.060 | Kenzo] for that. That's weird at the bottom. It says I can unequip, unattune. I can move it, or I can delete it,
 [u0162 | 00:15:15.150-00:15:17.280 | Kenzo] but I can't like attack with it
-[u0163 | 00:15:18.050-00:15:19.400 | Unknown] at her
+[u0163 | 00:15:18.050-00:15:19.400 | Unknown] either.
 [u0164 | 00:15:20.820-00:15:28.590 | Kenzo] all right. So the other thing, too. Normally, I'm: on a different computer. When I've got Roll20 and
 [u0165 | 00:15:30.910-00:15:36.189 | DM] well, you know it's if you just do it in D&D in Roll20.
 [u0166 | 00:15:36.200-00:15:36.890 | Kenzo] Okay,
@@ -214,8 +214,8 @@
 [u0214 | 00:19:09.000-00:19:17.009 | DM] but alive sort of gets up on one arm and says something in a language you don't understand.
 [u0215 | 00:19:18.300-00:19:21.129 | Kenzo] Um, I will. Let's see
 [u0216 | 00:19:25.100-00:19:28.120 | Kenzo] I can do a healing, too, right. I've got um
-[u0217 | 00:19:28.130-00:19:30.339 | Kenzo] {{only on your}}
-[u0218 | 00:19:32.190-00:19:34.050 | Kenzo] {{I'm also sighted with you guys.}}
+[u0217 | 00:19:28.130-00:19:30.339 | Kenzo] only on your
+[u0218 | 00:19:32.190-00:19:34.050 | Kenzo] I'll soul sight him, I guess.
 [u0219 | 00:19:34.310-00:19:36.300 | DM] Okay, Um,
 [u0220 | 00:19:37.040-00:19:39.519 | DM] he is uh
 [u0221 | 00:19:41.100-00:19:44.410 | DM] frightened and confused.
@@ -226,11 +226,11 @@
 [u0226 | 00:19:54.110-00:19:56.420 | DM] and um
 [u0227 | 00:19:58.280-00:20:03.009 | DM] let's see strongest ability is wisdom. Weakest is
 [u0228 | 00:20:03.310-00:20:04.890 | DM] strength.
-[u0229 | 00:20:05.040-00:20:07.080 | Kenzo] {{How? Ah! In Jerusalem!}}
+[u0229 | 00:20:05.040-00:20:07.080 | Kenzo] How, ah, injured is he?
 [u0230 | 00:20:07.240-00:20:11.589 | DM] Um I mean he's bleeding mostly from a gash on his arm.
 [u0231 | 00:20:11.600-00:20:16.030 | Kenzo] Not. He's not in any immediate danger of dying.
-[u0232 | 00:20:16.500-00:20:19.199 | Kenzo] {{Sometimes I could use some help bandage any.}}
-[u0233 | 00:20:19.730-00:20:23.489 | Kenzo] Okay, Yeah, I've got some {{healing by}}, but maybe i'll save that for now
+[u0232 | 00:20:16.500-00:20:19.199 | Kenzo] Sounds like he could use some help bandaging.
+[u0233 | 00:20:19.730-00:20:23.489 | Kenzo] Okay, Yeah, I've got some healing by, but maybe i'll save that for now
 [u0234 | 00:20:23.500-00:20:26.190 | DM] um! He he tries another language
 [u0235 | 00:20:26.200-00:20:29.630 | DM] also one that sounds totally unfamiliar to you.
 [u0236 | 00:20:30.240-00:20:42.240 | Kenzo] I try speaking to him in all the languages that I know i'll try and let the others. I know I know Celestial, Chardonian, Common, Draconic, Drankorian, and Dunmari. I'll try Draconic, for
@@ -289,13 +289,13 @@
 [u0289 | 00:24:09.960-00:24:13.909 | Kenzo] but the Green Sea is a month's journey to the north.
 [u0290 | 00:24:15.240-00:24:16.770 | Kenzo] And can I look at the map?
 [u0291 | 00:24:22.350-00:24:24.999 | DM] Ah, here we go.
-[u0292 | 00:24:32.440-00:24:37.539 | Kenzo] So Kenzo is just {{for him. I'm}} trying to get his bearings.
+[u0292 | 00:24:32.440-00:24:37.539 | Kenzo] So Kenzo is just for him. I'm trying to get his bearings.
 [u0293 | 00:24:37.800-00:24:41.449 | DM] Remember, the Green Sea stretches a long way to the east,
 [u0294 | 00:24:41.570-00:24:45.319 | Kenzo] right. This is the western edge of the Green Sea on this map.
 [u0295 | 00:24:45.330-00:24:47.050 | Kenzo] Holy fuck,
 [u0296 | 00:24:47.100-00:24:51.240 | Kenzo] you said the Green Sea is a several months journey north
 [u0297 | 00:24:53.590-00:24:57.049 | DM] a month, perhaps. If you walk fast, you.
-[u0298 | 00:24:57.860-00:25:01.750 | Kenzo] {{How long, How far away do I get to medicine like walking like a month's running?}}
+[u0298 | 00:24:57.860-00:25:01.750 | Kenzo] How long, how far away, do I get a sense, like walking, like a month's running?
 [u0299 | 00:25:01.780-00:25:03.900 | DM] I mean,
 [u0300 | 00:25:05.800-00:25:07.980 | DM] that's a good
 [u0301 | 00:25:11.530-00:25:14.309 | DM] five hundred, probably a thousand miles.
@@ -325,7 +325,7 @@
 [u0325 | 00:27:04.130-00:27:05.170 | DM] My
 [u0326 | 00:27:05.640-00:27:09.839 | DM] village is not far, maybe a day's journey.
 [u0327 | 00:27:15.000-00:27:16.099 | Kenzo] And when you
-[u0328 | 00:27:17.010-00:27:18.470 | Kenzo] {{this you are}}
+[u0328 | 00:27:17.010-00:27:18.470 | Kenzo] say you are
 [u0329 | 00:27:19.380-00:27:22.000 | DM] thousands of miles away just
 [u0330 | 00:27:22.060-00:27:24.710 | DM] moments ago. Are you a wizard?
 [u0331 | 00:27:25.450-00:27:26.630 | Kenzo] No,
@@ -353,7 +353,7 @@
 [u0353 | 00:28:58.290-00:29:00.470 | Kenzo] to the west and north.
 [u0354 | 00:29:03.350-00:29:07.499 | Kenzo] I've never been there, though it sounds dry,
 [u0355 | 00:29:08.200-00:29:12.710 | Kenzo] you would hate it. It is the exact opposite of this.
-[u0356 | 00:29:13.010-00:29:15.649 | Kenzo] {{But Don't believe}} I probably would.
+[u0356 | 00:29:13.010-00:29:15.649 | Kenzo] But Don't believe I probably would.
 [u0357 | 00:29:15.930-00:29:18.620 | Kenzo] There are. There are beautiful, beautiful lands,
 [u0358 | 00:29:18.770-00:29:23.249 | Kenzo] but I've never seen a place as vibrant and as alive as this.
 [u0359 | 00:29:23.420-00:29:28.070 | Kenzo] I feel lucky to have ended up here, and to have met you so thank you
@@ -370,7 +370,7 @@
 [u0370 | 00:30:09.570-00:30:11.420 | Unknown] They seemed not themselves.
 [u0371 | 00:30:13.620-00:30:15.159 | DM] That is true.
 [u0372 | 00:30:15.510-00:30:17.520 | DM] You've seen them before.
-[u0373 | 00:30:18.690-00:30:20.399 | Kenzo] {{There are any stories like that.}}
+[u0373 | 00:30:18.690-00:30:20.399 | Kenzo] There are many stories like that.
 [u0374 | 00:30:21.560-00:30:29.889 | Kenzo] I have never heard of those. I've never seen anything like that before, but they didn't seem themselves. It seems
 [u0375 | 00:30:30.230-00:30:33.219 | Kenzo] the influence of some type of magic.
 [u0376 | 00:30:35.030-00:30:37.890 | DM] How do you perceive such things so clearly?
@@ -395,8 +395,8 @@
 [u0395 | 00:32:06.570-00:32:09.360 | Unknown] we were drifting in this direction
 [u0396 | 00:32:18.210-00:32:19.540 | DM] turns.
 [u0397 | 00:32:19.920-00:32:25.620 | DM] No, I do not know the word in this tongue in my tongue. arima,
-[u0398 | 00:32:26.360-00:32:27.580 | DM] {{sir}},
-[u0399 | 00:32:29.180-00:32:30.640 | DM] {{not me}}
+[u0398 | 00:32:26.360-00:32:27.580 | DM] sir,
+[u0399 | 00:32:29.180-00:32:30.640 | DM] not me
 [u0400 | 00:32:32.580-00:32:35.160 | DM] not filling the land the way it should.
 [u0401 | 00:32:38.230-00:32:39.900 | DM] The volcanoes
 [u0402 | 00:32:40.160-00:32:42.860 | DM] are out of balance. There have been
@@ -465,7 +465,7 @@
 [u0465 | 00:37:35.860-00:37:37.350 | Kenzo] I see that as well.
 [u0466 | 00:37:40.650-00:37:42.360 | Unknown] I'd like to think so.
 [u0467 | 00:37:43.540-00:37:45.310 | DM] Not everybody.
-[u0468 | 00:37:45.330-00:37:48.090 | DM] {{It does}} would agree sadly.
+[u0468 | 00:37:45.330-00:37:48.090 | DM] It does would agree sadly.
 [u0469 | 00:37:52.500-00:37:56.679 | Kenzo] Well, I look forward to to meeting your um,
 [u0470 | 00:37:56.780-00:37:59.349 | Kenzo] your community. Perhaps they have some.
 [u0471 | 00:38:00.060-00:38:04.419 | Kenzo] Perhaps we can assist him. There may be mutual ways in which we can assist and learn from each other.
@@ -503,7 +503,7 @@
 [u0503 | 00:40:44.090-00:40:51.619 | DM] take some, please. It's quite nice on a chicken or
 [u0504 | 00:40:52.060-00:40:53.790 | DM] mushrooms.
 [u0505 | 00:40:54.750-00:40:56.789 | Kenzo] I'm literally thinking about like
-[u0506 | 00:40:56.800-00:41:00.680 | Kenzo] things. I can bring back for a for Delwath to {{make good taste a little bit}}.
+[u0506 | 00:40:56.800-00:41:00.680 | Kenzo] things. I can bring back for a for Delwath to make things taste a little better.
 [u0507 | 00:41:01.140-00:41:02.990 | DM] Um!
 [u0508 | 00:41:03.000-00:41:07.240 | DM] There's another. He points out. Um
 [u0509 | 00:41:08.900-00:41:10.810 | DM] this. Ah,
@@ -519,7 +519,7 @@
 [u0519 | 00:41:52.400-00:42:02.200 | Kenzo] um! Now that i'm with, you know, an indigenous person from this place. So i'm just kind of watching how he walks, and just like walking like him with the same level of like disturbance or non-disturbance,
 [u0520 | 00:42:02.430-00:42:10.930 | Kenzo] but also Kenzo i'm just gonna take my staff and kind of like, you know as we're walking just sort of like, kind of,
 [u0521 | 00:42:11.040-00:42:12.140 | Kenzo] you know,
-[u0522 | 00:42:12.500-00:42:18.900 | Kenzo] like just feeling around a little bit, and like {{you're into places}}. Or, for example, here,
+[u0522 | 00:42:12.500-00:42:18.900 | Kenzo] like just feeling around a little bit, and like you're into places. Or, for example, here,
 [u0523 | 00:42:19.190-00:42:27.760 | Kenzo] you know Kenzo will look at Elazar. My staff. It's. It's very special to me and allows me
 [u0524 | 00:42:29.020-00:42:32.509 | Kenzo] it has a it has. It is imbued with a forest magic
 [u0525 | 00:42:32.600-00:42:33.390 | Kenzo] from.
@@ -541,8 +541,8 @@
 [u0541 | 00:43:51.490-00:43:53.209 | Kenzo] is he? Okay, just
 [u0542 | 00:43:53.600-00:43:55.670 | DM] he looks like he's like
 [u0543 | 00:43:55.820-00:43:57.189 | DM] thinking
-[u0544 | 00:43:58.420-00:44:00.649 | Kenzo] {{by ten}}. Um,
-[u0545 | 00:44:00.660-00:44:06.380 | Kenzo] {{I am man}}, I'll ask Elazar. Is this vine—is this
+[u0544 | 00:43:58.420-00:44:00.649 | Kenzo] by ten. Um,
+[u0545 | 00:44:00.660-00:44:06.380 | Kenzo] I mean, I'll ask Elazar. Is this vine—is this
 [u0546 | 00:44:07.930-00:44:09.049 | Kenzo] um
 [u0547 | 00:44:09.170-00:44:12.310 | Kenzo] a particularly special place for you where we are now
 [u0548 | 00:44:14.930-00:44:16.740 | Unknown] like sort of shakes his head,
@@ -568,7 +568,7 @@
 [u0568 | 00:45:43.680-00:45:53.859 | Kenzo] I think that would be like. I think I would enjoy that both to commune with the nature here, but also I can commune and speak with Nature in a way that
 [u0569 | 00:45:54.040-00:45:58.920 | Kenzo] may allow me to learn more about this disharmony that you have been
 [u0570 | 00:45:59.030-00:46:00.149 | Kenzo] sensing.
-[u0571 | 00:46:03.800-00:46:17.110 | DM] He he walks again, leading you into the jungle like changing his path slightly. And and you come out after an hour of walking {{like auto, so}}
+[u0571 | 00:46:03.800-00:46:17.110 | DM] He he walks again, leading you into the jungle like changing his path slightly. And and you come out after an hour of walking like onto, so
 [u0572 | 00:46:17.610-00:46:24.169 | DM] it's not really a river bank exactly. There's this wide, muddy river that flows, and he says
 [u0573 | 00:46:24.750-00:46:28.600 | DM] village is still maybe a half day's walk up the river. But
 [u0574 | 00:46:29.640-00:46:34.490 | DM] along the way here on this riverbank, we will pass
@@ -669,7 +669,7 @@
 [u0669 | 00:55:57.440-00:55:58.750 | Kenzo] and
 [u0670 | 00:56:00.130-00:56:03.589 | DM] the nutrients that should be flowing from the other planes
 [u0671 | 00:56:03.600-00:56:04.720 | DM] are not
-[u0672 | 00:56:04.760-00:56:07.059 | Kenzo] reaching {{powdered}}
+[u0672 | 00:56:04.760-00:56:07.059 | Kenzo] reaching Taelgar
 [u0673 | 00:56:09.840-00:56:11.319 | Kenzo] you. I sense that.
 [u0674 | 00:56:12.920-00:56:15.099 | Kenzo] Is it because of a blockage?
 [u0675 | 00:56:15.340-00:56:19.220 | Kenzo] Is it because of the corruption? Because it because they've been cut.
@@ -690,7 +690,7 @@
 [u0690 | 00:57:27.760-00:57:33.839 | Kenzo] Does the tree have a Does the tree itself have a essence to it?
 [u0691 | 00:57:35.340-00:57:41.100 | DM] So this tree has been so. These These
 [u0692 | 00:57:41.710-00:57:45.739 | DM] Hutsu vines are like they're like
-[u0693 | 00:57:46.000-00:57:56.410 | DM] figs, strangler figs. So eventually the tree itself just {{turned}}—the hollow core in the middle rots out, and the tree is just vines the whole way up,
+[u0693 | 00:57:46.000-00:57:56.410 | DM] figs, strangler figs. So eventually the tree itself just turned—the hollow core in the middle rots out, and the tree is just vines the whole way up,
 [u0694 | 00:57:58.680-00:57:59.750 | Kenzo] so
 [u0695 | 00:58:00.210-00:58:06.839 | Kenzo] we'll try first. With permission. Actually, i'll ask the tree Permission, I ask you,
 [u0696 | 00:58:07.520-00:58:11.870 | Kenzo] do I sense that there's special ki here that there's ki like unique to this spirit.
@@ -724,10 +724,10 @@
 [u0724 | 00:59:49.750-00:59:51.009 | Kenzo] And
 [u0725 | 00:59:51.320-01:00:01.890 | Kenzo] actually I've never done this before Tim. It just emerged. It just occurs to me now. But can I give him my ki? Can I like give him? Can I? Can I give the network. The tree my ki right? It's like a gift.
 [u0726 | 01:00:01.900-01:00:03.290 | Kenzo] You're out of it.
-[u0727 | 01:00:03.300-01:00:04.410 | Kenzo] {{Hi, Keith}}!
+[u0727 | 01:00:03.300-01:00:04.410 | Kenzo] My ki!
 [u0728 | 01:00:04.420-01:00:05.319 | Kenzo] Yeah,
 [u0729 | 01:00:05.460-01:00:08.060 | Kenzo] wow, I've never done this before. This is this is cool,
-[u0730 | 01:00:08.210-01:00:14.130 | Kenzo] so {{I I it nice}}, I say, so that you might know me more.
+[u0730 | 01:00:08.210-01:00:14.130 | Kenzo] so I I it nice, I say, so that you might know me more.
 [u0731 | 01:00:14.390-01:00:16.050 | Kenzo] I offer you
 [u0732 | 01:00:16.740-01:00:18.800 | Kenzo] some of my spirit energy,
 [u0733 | 01:00:19.030-01:00:20.820 | Kenzo] so that you may know me.
@@ -736,7 +736,7 @@
 [u0736 | 01:00:25.290-01:00:27.790 | Kenzo] when I say my people here i'm talking about, you know.
 [u0737 | 01:00:27.800-01:00:28.799 | Kenzo] Yeah,
 [u0738 | 01:00:28.930-01:00:33.850 | Kenzo] the monks of the various orders and Dunmari just my people in general. I use that broadly.
-[u0739 | 01:00:36.410-01:00:42.879 | Kenzo] So I say that openly. I don't {{oscillate it}} for anything. I just say that openly as a gift to give it ki.
+[u0739 | 01:00:36.410-01:00:42.879 | Kenzo] So I say that openly. I don't ask to trade it for anything. I just say that openly as a gift to give it ki.
 [u0740 | 01:00:44.600-01:00:49.450 | DM] You hear sort of subconsciously
 [u0741 | 01:00:51.480-01:00:55.739 | DM] a sound beginning. That sounds
 [u0742 | 01:00:55.810-01:00:56.890 | DM] um it
@@ -846,12 +846,12 @@
 [u0846 | 01:09:12.540-01:09:14.499 | Kenzo] I felt it flow through me.
 [u0847 | 01:09:14.840-01:09:16.229 | Kenzo] I felt
 [u0848 | 01:09:16.939-01:09:20.330 | Kenzo] its richness, its depth, its beauty, its
-[u0849 | 01:09:21.600-01:09:25.780 | Kenzo] {{the student and energy}} of the spirits,
+[u0849 | 01:09:21.600-01:09:25.780 | Kenzo] the student and energy of the spirits,
 [u0850 | 01:09:27.729-01:09:29.210 | Kenzo] Can you teach me?
 [u0851 | 01:09:33.720-01:09:35.219 | Unknown] Can you teach me about
 [u0852 | 01:09:35.229-01:09:36.929 | Kenzo] the energy you shared with me?
 [u0853 | 01:09:41.350-01:09:43.519 | DM] You must ask my people.
-[u0854 | 01:09:46.000-01:09:47.910 | DM] We are energy, {{we can}}
+[u0854 | 01:09:46.000-01:09:47.910 | DM] We are energy, we can
 [u0855 | 01:09:48.109-01:09:49.710 | Unknown] control energy.
 [u0856 | 01:09:52.710-01:09:54.219 | DM] They know
 [u0857 | 01:09:55.230-01:09:57.240 | DM] the flow of arima,
@@ -890,10 +890,10 @@
 [u0890 | 01:12:38.890-01:12:40.079 | Kenzo] in for now?
 [u0891 | 01:12:43.420-01:12:47.140 | DM] Elazar looks kind of in awe.
 [u0892 | 01:12:49.650-01:12:51.419 | DM] What did it say?
-[u0893 | 01:12:55.840-01:12:57.879 | Kenzo] {{So I had to learn a lot to learn from you}},
+[u0893 | 01:12:55.840-01:12:57.879 | Kenzo] So I have a lot to learn from you,
 [u0894 | 01:12:58.880-01:12:59.940 | Kenzo] but it
 [u0895 | 01:13:00.000-01:13:02.920 | Kenzo] I think your intuition is correct. It's said
-[u0896 | 01:13:03.480-01:13:05.800 | Kenzo] {{he called me us}}, told me about
+[u0896 | 01:13:03.480-01:13:05.800 | Kenzo] he told me, uh, told me about
 [u0897 | 01:13:09.690-01:13:13.290 | Kenzo] the wounded spirit. Do you know what it means the wounded spirit,
 [u0898 | 01:13:13.370-01:13:15.839 | Kenzo] and that the wounded spirit draws too much
 [u0899 | 01:13:17.000-01:13:19.019 | Kenzo] the imbalance that you spoke of.
@@ -1120,7 +1120,7 @@
 [u1120 | 01:31:25.400-01:31:27.419 | DM] and you begin to float
 [u1121 | 01:31:27.640-01:31:29.790 | DM] in this complete darkness,
 [u1122 | 01:31:29.800-01:31:31.110 | DM] and he
-[u1123 | 01:31:31.960-01:31:33.070 | DM] {{five}}
+[u1123 | 01:31:31.960-01:31:33.070 | DM] five
 [u1124 | 01:31:34.100-01:31:35.999 | DM] begins to talk,
 [u1125 | 01:31:38.300-01:31:41.259 | DM] and he says, I must tell you
 [u1126 | 01:31:41.990-01:31:45.589 | DM] how things were before you can see how things are,
@@ -1149,11 +1149,11 @@
 [u1149 | 01:33:59.250-01:34:03.830 | DM] shaping into an explosion of color frozen in time.
 [u1150 | 01:34:04.530-01:34:10.509 | DM] Elazar's voice, although now you're not sure it's his voice.
 [u1151 | 01:34:10.600-01:34:14.409 | DM] Maybe it's something else begins to fade, and you catch
-[u1152 | 01:34:15.030-01:34:17.120 | DM] {{braggedly}}, Vaguely
+[u1152 | 01:34:15.030-01:34:17.120 | DM] raggedly, vaguely
 [u1153 | 01:34:17.440-01:34:23.769 | DM] it fades into the distance, his words echoing the songs of the planes still linger in our world,
 [u1154 | 01:34:23.950-01:34:28.149 | DM] though in places attuned to their resonance.
 [u1155 | 01:34:28.160-01:34:32.899 | DM] The echoes of the realms of magic, and the realms of spirits still linger the
-[u1156 | 01:34:33.260-01:34:34.630 | DM] {{stall. O}},
+[u1156 | 01:34:33.260-01:34:34.630 | DM] still. Oh,
 [u1157 | 01:34:36.640-01:34:38.450 | DM] and as you enter
 [u1158 | 01:34:38.830-01:34:40.630 | DM] the lights
 [u1159 | 01:34:42.590-01:34:44.100 | DM] you see
@@ -1252,7 +1252,7 @@
 [u1252 | 01:42:14.770-01:42:16.019 | Kenzo] Go forward.
 [u1253 | 01:42:21.170-01:42:23.170 | DM] You reach forward,
 [u1254 | 01:42:24.840-01:42:26.650 | DM] and you sense
-[u1255 | 01:42:27.320-01:42:28.469 | DM] {{and me}},
+[u1255 | 01:42:27.320-01:42:28.469 | DM] and me,
 [u1256 | 01:42:29.770-01:42:36.100 | DM] you see, floating next to you now in this this dream realm.
 [u1257 | 01:42:36.660-01:42:37.769 | DM] Um
 [u1258 | 01:42:39.390-01:42:41.669 | DM] the two pieces of jade
@@ -1298,7 +1298,7 @@
 [u1298 | 01:45:44.460-01:46:00.640 | Kenzo] Ah! And is that? Is that what i'm seeing right now is this? Is it Apollyon inside this inside the cage?
 [u1299 | 01:46:00.650-01:46:02.520 | DM] That's what you think. Yes,
 [u1300 | 01:46:14.800-01:46:18.189 | Kenzo] part of me wants to reach out to Apollyon right now.
-[u1301 | 01:46:20.970-01:46:26.780 | Kenzo] {{Maybe that's about.}} Have a whole spirit journey {{Bad playlist}}, If you want to go in that direction,
+[u1301 | 01:46:20.970-01:46:26.780 | Kenzo] Maybe that's about. Have a whole spirit journey Bad playlist, If you want to go in that direction,
 [u1302 | 01:46:30.030-01:46:38.470 | Kenzo] I mean, you know Is Apollyon really just evil, you know is Apollyon just a power-thirsty, bad guy, or is it more complicated than that? You know what I mean like
 [u1303 | 01:46:44.320-01:46:46.279 | Kenzo] i'm gonna hold that. But for now.
 [u1304 | 01:46:47.810-01:46:54.789 | Kenzo] But first, what I'm going to do is I'm going to go to the Dreamberry Tree like to the the tree itself.
@@ -1323,7 +1323,7 @@
 [u1323 | 01:48:44.600-01:48:54.379 | DM] hundreds of places that you can see from here, and each one of these is like an echo of that moment when the planes were created. But still
 [u1324 | 01:48:54.490-01:48:58.690 | DM] it's still like resonating in the world of Taelgar itself.
 [u1325 | 01:48:58.700-01:49:00.230 | Unknown] Yeah.
-[u1326 | 01:49:00.370-01:49:06.990 | DM] So when you're talking to the when you're communing with the tree from this direction, you're communing with hundreds of trees {{and wells}}
+[u1326 | 01:49:00.370-01:49:06.990 | DM] So when you're talking to the when you're communing with the tree from this direction, you're communing with hundreds of trees at once
 [u1327 | 01:49:07.000-01:49:08.120 | Kenzo] totally. Yeah.
 [u1328 | 01:49:08.630-01:49:12.190 | Kenzo] Well, i'm really communing with, There's the essence of the tree,
 [u1329 | 01:49:12.200-01:49:14.270 | Kenzo] which is, which is
@@ -1342,7 +1342,7 @@
 [u1342 | 01:50:14.130-01:50:24.569 | DM] like flavors that make up arima, which is an intermixing of these two flavors. There's the sort of material essence and the and the divine essence.
 [u1343 | 01:50:25.870-01:50:31.530 | DM] These flavors themselves are made up of
 [u1344 | 01:50:32.050-01:50:35.040 | DM] multiple combinations.
-[u1345 | 01:50:35.070-01:50:39.100 | DM] The sort of {{plain essence}} side of arima
+[u1345 | 01:50:35.070-01:50:39.100 | DM] The sort of plane essence side of arima
 [u1346 | 01:50:39.120-01:50:40.889 | DM] includes both
 [u1347 | 01:50:41.280-01:50:46.899 | DM] Hutsu, both the sort of soul as well as Amezza,
 [u1348 | 01:50:47.010-01:50:48.660 | DM] which is the like
@@ -1368,14 +1368,14 @@
 [u1368 | 01:52:46.870-01:52:53.520 | DM] sort of intermingle with the with the energy, the wild energy of the staff itself.
 [u1369 | 01:52:56.290-01:52:57.420 | Kenzo] Whoa,
 [u1370 | 01:52:58.600-01:53:05.020 | Kenzo] Yeah, I just kind of gratefully allow that whole process to unfold.
-[u1371 | 01:53:09.680-01:53:14.549 | Kenzo] I guess one question Tim, too, {{is funny on}}, you know, just to like
+[u1371 | 01:53:09.680-01:53:14.549 | Kenzo] I guess one question Tim, too, is funny on, you know, just to like
 [u1372 | 01:53:17.460-01:53:19.299 | Kenzo] Oh, it was not a recording for it.
 [u1373 | 01:53:20.470-01:53:22.989 | DM] No, it was it just cut out for a second?
 [u1374 | 01:53:23.000-01:53:25.039 | Kenzo] Okay, Um.
 [u1375 | 01:53:27.000-01:53:42.189 | Kenzo] So have I been eating a special diet during this period, because it may also be like, you know, like the the different like, Am I actually eating Amezza berries like as we're doing this? Or Oh, yeah, that's definitely like, I mean,
 [u1376 | 01:53:42.200-01:53:48.430 | DM] they use all of these things, even though the Hutsu they don't use the
 [u1377 | 01:53:48.750-01:53:51.109 | DM] the the leaves that
-[u1378 | 01:53:51.440-01:54:03.380 | Kenzo] the the ones that like have the spirits of their ancestors. {{And I leave}}, but they they um dry. The other leaves, and they make a like a tobacco-like thing that people smoke
+[u1378 | 01:53:51.440-01:54:03.380 | Kenzo] the the ones that like have the spirits of their ancestors. that they leave, but they they um dry. The other leaves, and they make a like a tobacco-like thing that people smoke
 [u1379 | 01:54:03.390-01:54:09.519 | DM] all of the sort of, except for our
 [u1380 | 01:54:09.550-01:54:16.319 | DM] the red, bright red berries, that sort of collect the energy of the nightmare of the
 [u1381 | 01:54:17.270-01:54:19.389 | DM] dark places like of
@@ -1407,7 +1407,7 @@
 [u1407 | 01:57:04.260-01:57:11.320 | DM] right. You see these. You see these like, you know, tendrils of song coming up from all over, and you see that they're all
 [u1408 | 01:57:13.020-01:57:18.679 | DM] here where you're looking now they all have the same note.
 [u1409 | 01:57:19.330-01:57:29.189 | DM] But when you look inside yourself and you connect to it, the song changes, and it, and you can see now, like all of the all of the
-[u1410 | 01:57:29.220-01:57:37.689 | DM] tendrils of song that go up and {{pierce them now}}, so that the Hutsu connects to the land of the dead. So it stops there in that blackness.
+[u1410 | 01:57:29.220-01:57:37.689 | DM] tendrils of song that go up and pierce the veil, so that the Hutsu connects to the land of the dead. So it stops there in that blackness.
 [u1411 | 01:57:37.840-01:57:39.010 | DM] But there
 [u1412 | 01:57:39.370-01:57:47.309 | DM] Urtaro pierces through that veil and goes up into the divine realms, into those spirit realms,
 [u1413 | 01:57:47.530-01:57:48.940 | DM] even
@@ -1462,12 +1462,12 @@
 [u1462 | 02:01:25.440-02:01:27.410 | Kenzo] It's going to be like all like
 [u1463 | 02:01:27.450-02:01:30.230 | Kenzo] happy and cheerful. Now
 [u1464 | 02:01:30.510-02:01:32.700 | DM] you'll have to wait and see.
-[u1465 | 02:01:32.790-02:01:42.200 | Kenzo] {{I'm working from the shadow}}. Is he retiring? Is he not powerful anymore because he doesn't have shadow or armor and shadow energy. No, he's more powerful than before,
+[u1465 | 02:01:32.790-02:01:42.200 | Kenzo] I'm working from the shadow. Is he retiring? Is he not powerful anymore because he doesn't have shadow or armor and shadow energy. No, he's more powerful than before,
 [u1466 | 02:01:43.350-02:01:45.040 | Kenzo] but without the shadow stuff.
 [u1467 | 02:01:45.440-02:01:46.469 | DM] Yeah,
 [u1468 | 02:01:50.410-02:01:52.080 | Kenzo] See it to believe it,
 [u1469 | 02:01:52.510-02:01:54.460 | DM] you will have to see it.
-[u1470 | 02:01:54.470-02:01:58.849 | Kenzo] Wow, {{resident}} and um, and
+[u1470 | 02:01:54.470-02:01:58.849 | Kenzo] Wow, resident and um, and
 [u1471 | 02:01:58.940-02:02:01.679 | DM] uh Seeker, you sense, is not
 [u1472 | 02:02:01.890-02:02:03.950 | DM] on the material plane.
 [u1473 | 02:02:07.750-02:02:09.890 | Kenzo] Maybe they've gone to the sea of magic.
@@ -1531,7 +1531,7 @@
 [u1531 | 02:06:51.210-02:06:59.450 | DM] because from Apollyon in the dream world you can see the same soul sense that
 [u1532 | 02:06:59.570-02:07:02.410 | DM] that connects him to a soul,
 [u1533 | 02:07:03.150-02:07:07.899 | DM] but it seems to drift back into the darkness behind the door.
-[u1534 | 02:07:12.820-02:07:27.549 | Kenzo] He got it so his soul is still in prison. He's not He's not out yet. So if we could sense him out here that'd probably be really fucking bad news. {{If we were, we could sense he would have been a}} Plane of Souls at all
+[u1534 | 02:07:12.820-02:07:27.549 | Kenzo] He got it so his soul is still in prison. He's not He's not out yet. So if we could sense him out here that'd probably be really fucking bad news. If we were, we could sense he would have been a Plane of Souls at all
 [u1535 | 02:07:27.620-02:07:29.110 | Kenzo] saving throw.
 [u1536 | 02:07:34.130-02:07:35.170 | Unknown] I'll go back,
 [u1537 | 02:07:40.080-02:07:41.120 | Kenzo] fuck
@@ -1711,7 +1711,7 @@
 [u1711 | 02:21:51.970-02:21:54.590 | DM] uncomplicated to use,
 [u1712 | 02:21:54.830-02:22:01.010 | DM] and you realize that it is going to require care to channel these things properly.
 [u1713 | 02:22:02.470-02:22:05.399 | DM] But you learn a lot
-[u1714 | 02:22:08.030-02:22:15.249 | Kenzo] what I mean. Again, I will stay here and experiment and go down the rabbit hole {{as long as far along}},
+[u1714 | 02:22:08.030-02:22:15.249 | Kenzo] what I mean. Again, I will stay here and experiment and go down the rabbit hole as long as far along,
 [u1715 | 02:22:15.340-02:22:19.990 | Kenzo] and just Tim in terms of like I've got maybe another like ten, fifteen minutes to me. That's all right.
 [u1716 | 02:22:20.000-02:22:24.889 | DM] Yeah, Yeah, I was gonna say Kenzo can experiment as long as he wants. But
 [u1717 | 02:22:25.330-02:22:29.289 | Kenzo] Tim and Kong do not have the patience for that. So
@@ -1761,7 +1761,7 @@
 [u1761 | 02:26:04.040-02:26:07.309 | DM] but it is something you can train to do at will,
 [u1762 | 02:26:07.430-02:26:08.790 | DM] if you are
 [u1763 | 02:26:08.810-02:26:12.889 | DM] fully in control of your of your ki.
-[u1764 | 02:26:14.080-02:26:15.769 | DM] {{I didn't tell them}}.
+[u1764 | 02:26:14.080-02:26:15.769 | DM] I didn't tell them.
 [u1765 | 02:26:16.500-02:26:19.040 | DM] There are many places like
 [u1766 | 02:26:19.600-02:26:22.610 | DM] these spirit waters across the world,
 [u1767 | 02:26:23.800-02:26:25.580 | DM] anywhere where,
@@ -1786,7 +1786,7 @@
 [u1786 | 02:28:03.950-02:28:05.199 | DM] Um,
 [u1787 | 02:28:05.940-02:28:07.260 | DM] the
 [u1788 | 02:28:08.360-02:28:15.889 | DM] the so at the in Karawa there's the beneath the temple. There was that
-[u1789 | 02:28:15.900-02:28:30.930 | Kenzo] Yup! There was actually a very similar ritual where you went into the water. And yep, that that Mesa, you're almost positive Now, that's also where {{Krat}}, where Candrosa took you through with the spirit staff. Yeah,
+[u1789 | 02:28:15.900-02:28:30.930 | Kenzo] Yup! There was actually a very similar ritual where you went into the water. And yep, that that Mesa, you're almost positive Now, that's also where Krat, where Candrosa took you through with the spirit staff. Yeah,
 [u1790 | 02:28:31.000-02:28:33.990 | Kenzo] perfect. Yeah, So that that's that's one that makes a lot.
 [u1791 | 02:28:34.000-02:28:42.320 | Kenzo] And now that you think about it, you're basically positive that the red mesa is connected to the {{class}} that makes perfect sense that makes perfect sense.
 [u1792 | 02:28:42.940-02:28:44.220 | Kenzo] You'll be it.
@@ -1813,10 +1813,10 @@
 [u1813 | 02:30:16.720-02:30:21.520 | DM] that you can find around around Dunmar. There's i'm sure there's others, too,
 [u1814 | 02:30:22.060-02:30:26.059 | DM] I mean, uh Rai's mind
 [u1815 | 02:30:26.420-02:30:29.319 | DM] also clearly connected,
-[u1816 | 02:30:29.330-02:30:30.770 | DM] {{and see what's}}
+[u1816 | 02:30:29.330-02:30:30.770 | DM] and see what's
 [u1817 | 02:30:31.580-02:30:33.510 | DM] you know. Shifted time,
 [u1818 | 02:30:35.750-02:30:38.870 | DM] and you spent a lot of time communing with him like
-[u1819 | 02:30:38.890-02:30:41.650 | DM] he's pretty powerful. He can {{finally help}} you.
+[u1819 | 02:30:38.890-02:30:41.650 | DM] he's pretty powerful. He can finally help you.
 [u1820 | 02:30:45.300-02:30:46.600 | Kenzo] So
 [u1821 | 02:30:49.720-02:30:53.749 | Kenzo] yeah, So, after all of that training, can I do anything with the ki
 [u1822 | 02:30:53.760-02:30:54.720 | Kenzo] now?
