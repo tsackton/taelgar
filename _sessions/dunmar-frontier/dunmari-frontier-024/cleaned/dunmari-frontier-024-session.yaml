@@ -36,3 +36,99 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/sources/zoom-session-024.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2495
+  issues: 2
+  artifacts:
+    original:
+      path: sources/GMT20210507-005147_Recording.transcript.vtt
+      sha256: 4a600189b924e122ad2ada3a0acf22d7088cf7faee8ea6437cbb37f6e66464b2
+    prepared:
+      path: cleaned/dunmari-frontier-024-source-prepared.md
+      sha256: 868395f6f63d8dbb51928e2c407de113437fe191f41f7582c81e189af2ed26ad
+    cleaned:
+      path: cleaned/dunmari-frontier-024-source-cleaned.md
+      sha256: bc7aa0925952fe46281afa1aa28c88b98ef2ca44461e7c6f3471c37886a045b6
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-024-transcript.md
+      sha256: bd26b19c77a1df2bad0fa69308973160730fc3315746760a9ab68aa3b3fa712e
+  speakerCorrections:
+  - uid: u0025
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u0149
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u0209
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u0406
+    start: 0
+    end: 16
+    speaker: Seeker
+  - uid: u0523
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u0594
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u0625
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u0680
+    start: 82
+    end: 112
+    speaker: Kenzo
+  - uid: u0989
+    start: 0
+    end: 20
+    speaker: DM
+  - uid: u1044
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u1057
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u1061
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u2015
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u2018
+    start: 0
+    end: 24
+    speaker: DM
+  - uid: u2122
+    start: 0
+    end: 26
+    speaker: Unknown
+  - uid: u2144
+    start: 0
+    end: 21
+    speaker: DM
+  - uid: u2260
+    start: 0
+    end: 19
+    speaker: Seeker
+  - uid: u2355
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u2370
+    start: 0
+    end: 24
+    speaker: DM

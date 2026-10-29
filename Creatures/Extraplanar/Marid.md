@@ -2,8 +2,9 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/lint]
+tags: [creature, status/check/ai]
 name: Marid
+pronunciation: MAH-rid
 aliases: [marids, Marids, marid]
 dm_owner: tim
 dm_notes: none
@@ -13,7 +14,7 @@ POV: modern
 
 Marids are the name for a diverse group of powerful water genies, among the most famous native inhabitants of the [[Elemental Plane of Water]]. 
 
-Much scholarship depicts marids as solitary creatures, often crafting their own unique watery realms across the vastness of the [[Elemental Plane of Water]]. Depictions and stories of strange watery palaces, constructed from living coral and bioluminescent algae, shimmering ice, rock, or stranger materials point to the vast diversity of marid tastes. Yet, some scholars this picture and hint that organized marid societies must exist somewhere. 
+Much scholarship depicts marids as solitary creatures, often crafting their own unique watery realms across the vastness of the [[Elemental Plane of Water]]. Depictions and stories of strange watery palaces, constructed from living coral and bioluminescent algae, shimmering ice, rock, or stranger materials point to the vast diversity of marid tastes. Yet some scholars question this picture and hint that organized marid societies must exist somewhere. 
 
 Unlike some of their elemental brethren, marids rarely interact willingly with mortals, and thus tales of their lives on the [[Elemental Plane of Water]] are few and far between. Most stories of marid interactions with mortals depict them as either [[The Ciphered Scroll|unwillingly bound to serve mortals through magic]], or as [[Elemental Plane of Water|binding mortals into their service]]. 
 
@@ -102,27 +103,9 @@ Session artifacts and less-canonical working notes checked:
 %%
 
 %%^Metadata:names:v1%%
-- {name: Marid, language: unknown, pronunciation: MAH-rid, status: proposed, notes: "Cautious spelling-based proposal with first-syllable stress, a as in father, and a short i. The reviewed sources establish no accepted pronunciation or source language; this is not an adopted in-world pronunciation."}
+- {name: Marid, language: unknown, pronunciation: MAH-rid, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern reference description; no narrower in-world snapshot is established.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the explicit display name, a proposed pronunciation entry, and temporal viewpoint metadata; normalized frontmatter order.
-- Repaired three stale source links to their retained source or replacement export, preserving the old source labels. The removed human transcript is an exact rendering of the retained cleaned source; the removed preview derives from the retained beat-facts data.
-
-### Validated judgments
-- The public description preserves the uncertainty about solitary marids and organized societies; [[Elemental Plane of Water]] and [[Creatures of Taelgar]] likewise present these as accounts or beliefs.
-- The long shared comment is explicitly labeled brainstorming, so it is not treated as adopted lore or automatically promoted.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `MAH-rid` as a cautious spelling-based reading, with first-syllable stress, a as in father, and short i. No accepted pronunciation or source language is established by the reviewed creature, plane, or individual sources. Confirm or replace the proposal, then mark the entry documented and copy the accepted primary pronunciation to frontmatter.
-
-- [ ] **Suggestion — editorial.prose_clarity:** The sentence “Yet, some scholars this picture and hint that organized marid societies must exist somewhere” is missing its main verb. The intended contrast is apparent, but the precise assertion needs confirmation. Copy-ready candidate: “Yet some scholars question this picture and hint that organized marid societies must exist somewhere.” This preserves the scholarly attribution and uncertainty.
 %%^End%%

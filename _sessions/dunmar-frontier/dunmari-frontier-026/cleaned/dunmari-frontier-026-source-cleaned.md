@@ -144,7 +144,7 @@
 [u0144 | 00:14:46.620-00:14:54.420 | DM] And like not not into the main part of the temple but there's this like little office conference room off off on the side as you enter the temple.
 [u0145 | 00:14:55.740-00:14:57.720 | DM] And he sits and he says.
 [u0146 | 00:14:59.220-00:15:00.210 | DM] hold on one SEC.
-[u0147 | 00:15:02.400-00:15:03.360 | Kenzo] My soul side.
+[u0147 | 00:15:02.400-00:15:03.360 | Kenzo] My Soul Sight.
 [u0148 | 00:15:04.470-00:15:05.400 | Kenzo] Okay, so second.
 [u0149 | 00:15:30.480-00:15:31.530 | DM] Sorry, give me one SEC.
 [u0150 | 00:15:54.450-00:15:55.110 | DM] salsa.

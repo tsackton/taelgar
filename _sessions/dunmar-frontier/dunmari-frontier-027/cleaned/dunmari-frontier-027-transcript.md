@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 27
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-027-source-cleaned.md
 
 ## Transcript
@@ -20,8 +20,8 @@ DM: So the sun has set, but the fires are burning bright on the plaza in front o
 %% u0019:0-204, u0020:0-183, u0021:0-114, u0022:0-118, u0023:0-181, u0024:0-241, u0025:0-85 %%
 DM: As Candrosa begins to speak to the gathered crowd, offering a prayer to Sonkar to ease the passage of the dead and judge their souls worthy of rest, you can hear the quiver of doubt and fear in his voice. Yet as he keeps talking about the two acolytes who died, speaking of their lives, their hopes and joys, and offering prayers of remembrance and healing—a farewell to the mortal body—his voice regains some confidence and vigor and, as he begins the prayer to Shakun to hold the community together, whether by some aftereffect of the ritual visions you experienced or some newfound sense you've acquired, you can see this glowing web of energy among the people stretch and pulse with the moonlight, although, as you watch, there's nowhere for this energy to go. The center is still dark and absent. And as you're drawn into this vision, you can see some breaks in this web as well, six places where the webs of power are matte gray, not silver, where tendrils of energy break off and drain from the web of interconnections into nothingness. As Candrosa finishes his prayer, this vision fades and the funeral service concludes.
 
-%% u0026:0-188, u0027:0-160, u0028:0-150, u0029:0-215, u0030:0-193 %%
-DM: You recall the events of the evening, the ritual, the rite of Shakun that started with visions of Dunmar, the forest falling to flames, and then a city spreading like ooze across the land, washed clean then into the mountains on a path approaching a small village falling through the earth to see a waterfall cascading down the facade of a building, powering small automata, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port until the visions faded into the night sky full of stars and then the clarity of this web of Shakun's magic, the net that is the souls of the Mystai that hold the power of Dunmar together, but is missing its center. And the vision ended with a woman who was maybe also a mesa reaching out for you and asking for help, as the silence of the ritual was broken by screams of the attack of the shadow {{doctors}}.
+%% u0026:0-188, u0027:0-160, u0028:0-150, u0029:0-215, u0030:0-190 %%
+DM: You recall the events of the evening, the ritual, the rite of Shakun that started with visions of Dunmar, the forest falling to flames, and then a city spreading like ooze across the land, washed clean then into the mountains on a path approaching a small village falling through the earth to see a waterfall cascading down the facade of a building, powering small automata, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port until the visions faded into the night sky full of stars and then the clarity of this web of Shakun's magic, the net that is the souls of the Mystai that hold the power of Dunmar together, but is missing its center. And the vision ended with a woman who was maybe also a mesa reaching out for you and asking for help, as the silence of the ritual was broken by screams of the attack of the shadow stalkers.
 
 %% u0031:0-38, u0032:0-35, u0033:0-30, u0034:0-20, u0035:0-108 %%
 DM: Now, as the funeral service concludes, well into the evening you are left standing by yourselves in the desert night sky in the oasis lit by nothing but the fires of the funeral pyres for the two acolytes considering your next move.
@@ -359,14 +359,14 @@ Seeker: A trap to attract the heart and its power to someone who wishes to—wha
 %% u0213:0-14 %%
 Kenzo: The questions.
 
-%% u0214:0-28, u0215:0-24, u0216:0-63 %%
-Drikod: Maybe she removed the heart to get it away from him. If we can't trust {{if he dreams}}, why do we trust him at all?
+%% u0214:0-28, u0215:0-24, u0216:0-57 %%
+Drikod: Maybe she removed the heart to get it away from him. If we can't trust his dreams, why do we trust him at all?
 
 %% u0217:0-13, u0218:0-29 %%
 Seeker: But he's the—the speaker of Shakun and he—
 
 %% u0219:0-76, u0220:0-84, u0221:0-100 %%
-Kenzo: Candrosa has made some mistakes, some grave mistakes in the past month, but he, he, {{is the ability}} to see, understand his character, and he's not, he's not malicious in intent. He truly is seeking what is best for the Mystai, so I don't question his heart.
+Kenzo: Candrosa has made some mistakes, some grave mistakes in the past month, but he, he, I used the ability to see, understand his character, and he's not, he's not malicious in intent. He truly is seeking what is best for the Mystai, so I don't question his heart.
 
 %% u0222:0-20 %%
 Seeker: That's good to know.
@@ -1325,8 +1325,8 @@ DM: Moving again southward again on the mesa and and, as you travel south, you�
 %% u0822:0-258, u0823:0-16, u0824:0-59, u0825:0-106, u0826:0-13 %%
 DM: Nothing you can really clearly see or perceive. You know, you sort of look back over your shoulder, it's that feeling, like that sort of almost déjà vu-like sense that there's something in the room, and you turn around and you look and there's nothing there. It doesn't feel—it's not like a horror film kind of feeling, right? It feels in some way, oddly comforting like there's somebody kind of watching your back more than there's somebody stalking you.
 
-%% u0827:0-71, u0828:0-31 %%
-Kenzo: Oh, I should have asked Candrosa to share more about {{chimeras bora}}. Wonder if her presence is here.
+%% u0827:0-60, u0828:0-31 %%
+Kenzo: Oh, I should have asked Candrosa to share more about Shakun. Wonder if her presence is here.
 
 %% u0829:0-3 %%
 DM: And—
@@ -2492,8 +2492,8 @@ Seeker: It's worth considering, briefly, the question of getting back out again.
 %% u1445:0-47, u1446:0-31 %%
 Kenzo: Well, no, but it's also getting back out again with children and a baby right?
 
-%% u1447:0-13, u1448:0-19 %%
-Seeker: And maybe it—{{Is doing heart}}.
+%% u1447:0-12, u1448:0-12 %%
+Seeker: And maybe a stone heart.
 
 %% u1449:0-52 %%
 Wellby: {{It wouldn't be hard to the group behind us}}, hey.
@@ -4046,8 +4046,8 @@ DM: You all, as far as you know, seem to have vanished as you hear sort of boomi
 %% u2218:0-28 %%
 Kenzo: She's still outside of that.
 
-%% u2219:0-229, u2220:0-36, u2221:0-36, u2222:0-28, u2223:0-36 %%
-DM: She is still outside, and she is sort of standing looking defiantly up, and this creature kind of {{casts its put back on}} and is floating, but doesn't quite approach the lip of the canyon. It gets to maybe 10 feet from the lip. And you know starts starts laughing. And says in kind of a booming voice: "Still here, I see. Good, good. Your daughter will live another day."
+%% u2219:0-223, u2220:0-36, u2221:0-36, u2222:0-28, u2223:0-36 %%
+DM: She is still outside, and she is sort of standing looking defiantly up, and this creature kind of casts its hood back and is floating, but doesn't quite approach the lip of the canyon. It gets to maybe 10 feet from the lip. And you know starts starts laughing. And says in kind of a booming voice: "Still here, I see. Good, good. Your daughter will live another day."
 
 %% u2224:0-26, u2225:0-5, u2226:0-13, u2227:0-18, u2228:0-56 %%
 DM: Huh, and then looks around. "What? What is that? You have a friend?" And Cintra is sort of shaking her head like, no, no, no.

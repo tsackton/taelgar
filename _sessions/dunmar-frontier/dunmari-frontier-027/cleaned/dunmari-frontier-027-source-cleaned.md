@@ -27,7 +27,7 @@
 [u0027 | 00:03:40.830-00:03:50.160 | DM] washed clean then into the mountains on a path approaching a small village falling through the earth to see a waterfall cascading down the facade of a building.
 [u0028 | 00:03:50.580-00:03:59.250 | DM] Powering small automata, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port.
 [u0029 | 00:04:00.000-00:04:14.880 | DM] Until the visions faded into the night sky full of stars and then the clarity of this web of Shakun's magic, the net that is the souls of the Mystai that hold the power of Dunmar together, but is missing its center.
-[u0030 | 00:04:16.020-00:04:29.430 | DM] And the vision ended with a woman who was maybe also a mesa reaching out for you and asking for help, as the silence of the ritual was broken by screams of the attack of the shadow {{doctors}}.
+[u0030 | 00:04:16.020-00:04:29.430 | DM] And the vision ended with a woman who was maybe also a mesa reaching out for you and asking for help, as the silence of the ritual was broken by screams of the attack of the shadow stalkers.
 [u0031 | 00:04:32.340-00:04:34.920 | DM] Now, as the funeral service concludes.
 [u0032 | 00:04:36.720-00:04:39.930 | DM] Well into the evening you are left.
 [u0033 | 00:04:42.180-00:04:45.810 | DM] standing by yourselves in the.
@@ -213,11 +213,11 @@
 [u0213 | 00:18:38.460-00:18:39.150 | Kenzo] The questions.
 [u0214 | 00:18:40.020-00:18:41.670 | Drikod] Maybe she removed the heart.
 [u0215 | 00:18:41.730-00:18:42.870 | Drikod] To get it away from him.
-[u0216 | 00:18:50.160-00:18:55.050 | Drikod] If we can't trust {{if he dreams}}, why do we trust him at all?
+[u0216 | 00:18:50.160-00:18:55.050 | Drikod] If we can't trust his dreams, why do we trust him at all?
 [u0217 | 00:18:59.190-00:18:59.880 | Seeker] But he's the.
 [u0218 | 00:19:01.200-00:19:03.180 | Seeker] The speaker of Shakun and he.
 [u0219 | 00:19:04.560-00:19:11.520 | Kenzo] Candrosa has made some mistakes, some grave mistakes in the past month, but.
-[u0220 | 00:19:12.570-00:19:18.810 | Kenzo] He, he, {{is the ability}} to see, understand his character, and he's not, he's not.
+[u0220 | 00:19:12.570-00:19:18.810 | Kenzo] He, he, I used the ability to see, understand his character, and he's not, he's not.
 [u0221 | 00:19:20.250-00:19:28.110 | Kenzo] Malicious in intent. He truly is seeking what is best for the Mystai, so I don't question his heart.
 [u0222 | 00:19:33.360-00:19:34.050 | Seeker] that's good to know.
 [u0223 | 00:19:34.890-00:19:41.310 | Kenzo] Perhaps we can, we should speak with Candrosa before we depart and learn a little bit more about the Wellspring.
@@ -824,7 +824,7 @@
 [u0824 | 01:13:08.010-01:13:10.770 | DM] it's not like a horror film kind of feeling right it feels.
 [u0825 | 01:13:12.360-01:13:18.630 | DM] in some way, oddly comforting like there's somebody kind of watching your back more than there's somebody.
 [u0826 | 01:13:19.770-01:13:20.820 | DM] Stalking you.
-[u0827 | 01:13:22.860-01:13:26.850 | Kenzo] Oh, I should have asked Candrosa to share more about {{chimeras bora}}.
+[u0827 | 01:13:22.860-01:13:26.850 | Kenzo] Oh, I should have asked Candrosa to share more about Shakun.
 [u0828 | 01:13:28.080-01:13:30.570 | Kenzo] Wonder if her presence is here.
 [u0829 | 01:13:31.980-01:13:32.190 | DM] and
 [u0830 | 01:13:33.420-01:13:35.040 | DM] As the day continues.
@@ -1444,8 +1444,8 @@
 [u1444 | 02:03:08.370-02:03:10.050 | Seeker] But maybe we shouldn't think too hard about that.
 [u1445 | 02:03:10.230-02:03:12.450 | Kenzo] Well, no, but it's also getting back out again.
 [u1446 | 02:03:12.510-02:03:15.540 | Kenzo] with children and a baby right.
-[u1447 | 02:03:15.960-02:03:16.680 | Seeker] And maybe it.
-[u1448 | 02:03:17.880-02:03:18.660 | Seeker] {{Is doing heart}}.
+[u1447 | 02:03:15.960-02:03:16.680 | Seeker] And maybe a.
+[u1448 | 02:03:17.880-02:03:18.660 | Seeker] stone heart.
 [u1449 | 02:03:19.020-02:03:22.140 | Wellby] {{It wouldn't be hard to the group behind us}}, hey.
 [u1450 | 02:03:22.410-02:03:33.090 | Delwath] So the downside is that we're going to be ambushed when we are fleeing down the slot canyon. We come out of the stairs, and they probably are set up to, you know, kill whoever comes out of those stairs.
 [u1451 | 02:03:33.540-02:03:34.140 | Unknown] Right.
@@ -2216,7 +2216,7 @@
 [u2216 | 02:57:34.830-02:57:42.570 | DM] You all as far as you know, seem to have vanished as you hear sort of booming out.
 [u2217 | 02:57:43.710-02:57:46.080 | DM] As Cintra is now looking up at the.
 [u2218 | 02:57:48.300-02:57:49.260 | Kenzo] she's still outside of that.
-[u2219 | 02:57:49.500-02:58:09.960 | DM] She is still outside, and she is sort of standing looking defiantly up, and this creature kind of {{casts its put back on}} and is floating, but doesn't quite approach the lip of the canyon. It gets to maybe 10 feet from the lip.
+[u2219 | 02:57:49.500-02:58:09.960 | DM] She is still outside, and she is sort of standing looking defiantly up, and this creature kind of casts its hood back and is floating, but doesn't quite approach the lip of the canyon. It gets to maybe 10 feet from the lip.
 [u2220 | 02:58:11.430-02:58:15.480 | DM] And you know starts starts laughing.
 [u2221 | 02:58:16.590-02:58:20.340 | DM] And says in kind of a booming voice.
 [u2222 | 02:58:23.070-02:58:26.400 | DM] still here, I see good good.

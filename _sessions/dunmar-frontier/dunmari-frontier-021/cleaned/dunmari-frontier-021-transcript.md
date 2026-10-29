@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 21
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-021-source-cleaned.md
 
 ## Transcript
@@ -159,7 +159,7 @@ Kenzo: But it wasn't shadow armor? Yeah it was just normal armor, right? Like it
 Delwath: No, I could not...
 
 %% u0108:0-25, u0109:0-36, u0110:0-56, u0111:0-79, u0112:0-20 %%
-Seeker: And is all darkness evil? Is all evil to be found in darkness? Maybe, but maybe there's more to the world than we know. Or, conversely, perhaps this prediction what can happen still with, even though it seems unlikely... I
+Seeker: And is all darkness evil? Is all evil to be found in darkness? Maybe, but maybe there's more to the world than we know. Or, conversely, perhaps this prediction what can happen to Delwath, even though it seems unlikely... I
 
 %% u0113:0-117, u0114:0-172, u0115:0-8 %%
 Kenzo: I feel like it's within the spectrum of possible. Now, I don't hold it against you, just to be clear about that, though. It's not something—I have no personal, you know, interactions. It feels like you know you're you're actually a liberator of the Great War, so I you know I don't really... Do, but—curious.
@@ -515,8 +515,8 @@ DM: Um he signals—he, he goes walks over to to Aram, the the tall, older guy, 
 %% u0342:0-20 %%
 Seeker: Why did they attack?
 
-%% u0343:0-31 %%
-Delwath: Who have they been to recently?
+%% u0343:0-33 %%
+Delwath: Where have they been to recently?
 
 %% u0344:0-18 %%
 Wellby: Who do they serve?
@@ -2063,8 +2063,8 @@ Wellby: I think we should go south to the monastery first. That lets us skirt th
 %% u1299:0-49 %%
 Kenzo: Let's recap. What do we know about the monastery?
 
-%% u1300:0-62, u1301:0-42 %%
-Seeker: Well, this is the place that an attempt was made 30 years ago to something, something, blade of she might.
+%% u1300:0-62, u1301:0-43 %%
+Seeker: Well, this is the place that an attempt was made 30 years ago to something, something, plague of Cha'mutte.
 
 %% u1302:0-107 %%
 DM: Not necessarily at this monastery, it was, but its associated with the group of monks who made that attempt.

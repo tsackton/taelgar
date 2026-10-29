@@ -72,7 +72,7 @@ For bird-like forms, or for fairy forms with wings, use this flight rule:
 ### Fey Flight
 You gain a Flying Speed equal to your walking speed. You cannot use this trait if your Speed is reduced due to the weight you are carrying, such as if you are wearing armor for which you don't meet the Strength requirements, or are dragging something heavier than you can lift. 
 
-## Satyr Traits
+### Satyr Traits
 
 #### Magic Resistance
 You have advantage on saving throws against spells.

@@ -16,13 +16,13 @@ POV: modern
 
 %% Tim has some DM notes about the details of the metaphysics, but not sure how much they really matter in-game, and none are definitively canon anyway %%
 
-Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [[Thark]], the god of war without end. Although most orcs live in small groups, but when a leader blessed by [[Thark]] arises, they can bind many orcs together into a fearsome battle horde. 
+Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [[Thark]], the god of war without end. Although most orcs live in small groups, when a leader blessed by [[Thark]] arises, they can bind many orcs together into a fearsome battle horde. 
 ## Imposing and Violent
 Orcs are robust and imposing figures, often standing over 6 feet tall, usually with tusks protruding from their lower lips. Their skin tones range from shades of green to a dull gray, typically with black or red eyes. Most orcs die in battle, but those who manage to survive or who escape [[Thark]]'s chains have lifespans similar to humans, although they mature much quicker than humans. 
 
-Orcs are a decentralized and often chaotic race, driven to violence and conflict by their patron deity, [[Thark]]. Because of this, orcs have a fearsome reputation, and free orcs who have escaped [[Thark]]'s chains often struggle to distinguish themselves from their [[Thark]]-cursed breathren.
+Orcs are a decentralized and often chaotic race, driven to violence and conflict by their patron deity, [[Thark]]. Because of this, orcs have a fearsome reputation, and free orcs who have escaped [[Thark]]'s chains often struggle to distinguish themselves from their [[Thark]]-cursed brethren.
 ## Families and Hordes
-Orc communities are generally small. They lack centralized governance, and a group of orcs often extend no further than a large family group. Compelled to violence by [[Thark]], these orc groups frequently fight each other, although they raid settled areas when they can. This constant war, even with high birth rates, usually keeps orc population sizes fairly low. 
+Orc communities are generally small. They lack centralized governance, and a group of orcs often extends no further than a large family group. Compelled to violence by [[Thark]], these orc groups frequently fight each other, although they raid settled areas when they can. This constant war, even with high birth rates, usually keeps orc population sizes fairly low. 
 
 However, sometimes a leader blessed by [[Thark]] will unite many small groups together, forming a horde that can number in the hundreds or thousands. These hordes always form under the influence of a strong leader who can turn the violence of individual orcs to external purposes, and usually take on the name of the leader as their identity. These large hordes will often emerge out of marginal lands unexpectedly, threatening the cities and kingdoms of other races. 
 ## Thark, the God of War Without End

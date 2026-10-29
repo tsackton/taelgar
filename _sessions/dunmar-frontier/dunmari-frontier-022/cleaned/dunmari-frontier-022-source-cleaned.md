@@ -2611,8 +2611,8 @@
 [u2611 | 03:14:08.010-03:14:09.570 | Seeker] May six is a Thursday okay.
 [u2612 | 03:14:09.570-03:14:10.290 | Delwath] So Thursday.
 [u2613 | 03:14:11.580-03:14:11.940 | Kenzo] I got it.
-[u2614 | 03:14:13.560-03:14:18.300 | DM] Sorry got the 23rd Friday and the 30th Kung fu punk and then the six.
-[u2615 | 03:14:20.820-03:14:21.510 | DM] Talk gun.
+[u2614 | 03:14:13.560-03:14:18.300 | DM] Sorry got the 23rd Friday and the 30th Cthulupunk and then the sixth.
+[u2615 | 03:14:20.820-03:14:21.510 | DM] Taelgar.
 [u2616 | 03:14:21.930-03:14:22.170 | Unknown] yep.
 [u2617 | 03:14:23.520-03:14:24.090 | Seeker] awesome cool.
 [u2618 | 03:14:26.070-03:14:26.340 | Delwath] Okay.
@@ -2850,7 +2850,7 @@
 [u2850 | 03:36:22.410-03:36:24.810 | Seeker] Do you do, you have to like stay here and live here, no.
 [u2851 | 03:36:26.340-03:36:26.610 | Kenzo] No.
 [u2852 | 03:36:27.750-03:36:28.080 | Seeker] No.
-[u2853 | 03:36:29.550-03:36:32.430 | Seeker] I mean you're you've given your life to traditional right.
+[u2853 | 03:36:29.550-03:36:32.430 | Seeker] I mean you're you've given your life to Jeevali right.
 [u2854 | 03:36:35.370-03:36:36.420 | Kenzo] I think I already had.
 [u2855 | 03:36:40.320-03:36:42.150 | Seeker] Because you were initiated once before.
 [u2856 | 03:36:44.250-03:36:45.330 | Kenzo] not like this.

@@ -752,7 +752,7 @@
 [u0752 | 01:07:26.160-01:07:28.380 | DM] it's expected to be deserted yes.
 [u0753 | 01:07:29.460-01:07:35.040 | DM] Nobody has been back there since the rampage that's part of why Havdar wants to go is to.
 [u0754 | 01:07:36.330-01:07:38.190 | Seeker] see what happened there.
-[u0755 | 01:07:38.640-01:07:51.810 | Kenzo] and Agata Dustmother supposed to be around where the Green is yeah and then the weird cottage house thing is where the red red thing is yep and then Delwath's tower, is where the is right on the edge of the library here.
+[u0755 | 01:07:38.640-01:07:51.810 | Kenzo] and Agata Dustmother supposed to be around where the Green is yeah and then the weird cottage house thing is where the red red thing is yep and then Delwath's tower, is where the is right on the edge of the light green here.
 [u0756 | 01:07:52.350-01:07:52.800 | Unknown] Yes.
 [u0757 | 01:07:54.330-01:07:59.970 | Kenzo] Okay got it but wasn't Delwath trying to say like we should do it the opposite order to do Agata last.
 [u0758 | 01:08:00.270-01:08:00.570 | Delwath] yeah.

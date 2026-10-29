@@ -337,7 +337,7 @@
 [u0337 | 00:27:14.280-00:27:14.700 | Kenzo] Out there.
 [u0338 | 00:27:14.910-00:27:25.710 | Kenzo] yeah actually we could go there, in fact, we should go there, we should go there, because we can tell them all the shit that we experienced in the fucking you know, like the weird you know and we're in the temple and.
 [u0339 | 00:27:25.710-00:27:25.830 | Seeker] Like.
-[u0340 | 00:27:26.250-00:27:29.490 | Kenzo] {{A man and Dudes}} and all that stuff like they'll know who those people are and maybe.
+[u0340 | 00:27:26.250-00:27:29.490 | Kenzo] Karmana and dudes and all that stuff like they'll know who those people are and maybe.
 [u0341 | 00:27:29.880-00:27:33.720 | Delwath] plug in some holes and gaps we could go to the oasis and then back to the stone house.
 [u0342 | 00:27:34.530-00:27:36.660 | Wellby] Havdar’s camp and then back to the stone house.
 [u0343 | 00:27:39.630-00:27:41.400 | Wellby] should know what's happening.
@@ -349,7 +349,7 @@
 [u0349 | 00:27:51.030-00:27:56.760 | Delwath] A warning that we've riled up the Kharsan orcs and they're going to be lying in wait for us.
 [u0350 | 00:27:57.060-00:27:57.840 | Wellby] Also, that there are.
 [u0351 | 00:27:58.830-00:28:01.890 | Delwath] Also, that there are Kharsan orcs and that Grash the evil.
-[u0352 | 00:28:02.550-00:28:04.050 | Delwath] yeah with a {{grave can}}.
+[u0352 | 00:28:02.550-00:28:04.050 | Delwath] yeah with a glaive.
 [u0353 | 00:28:07.440-00:28:08.250 | Kenzo] battle information.
 [u0354 | 00:28:08.730-00:28:09.030 | Unknown] yeah.
 [u0355 | 00:28:12.150-00:28:12.720 | Seeker] I know how.

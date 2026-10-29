@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 25
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-025-source-cleaned.md
 
 ## Transcript
@@ -620,8 +620,8 @@ Kenzo: Out there. Yeah, actually, we could go there. In fact, we should go there
 %% u0339:0-5 %%
 Seeker: Like…
 
-%% u0340:0-88 %%
-Kenzo: {{A man and dudes}} and all that stuff. Like, they’ll know who those people are, and maybe—
+%% u0340:0-86 %%
+Kenzo: Karmana and dudes and all that stuff. Like, they’ll know who those people are, and maybe—
 
 %% u0341:0-86 %%
 Delwath: Plug in some holes and gaps. We could go to the oasis and then back to the stone house.
@@ -641,8 +641,8 @@ Delwath: If—if they’re still there, yeah, we should—I would—I agree. I t
 %% u0350:0-21 %%
 Wellby: Also that there are…
 
-%% u0351:0-58, u0352:0-26 %%
-Delwath: Also that there are Kharsan orcs, and that Grash the evil—yeah, with a {{grave can}}.
+%% u0351:0-58, u0352:0-19 %%
+Delwath: Also that there are Kharsan orcs, and that Grash the evil—yeah, with a glaive.
 
 %% u0353:0-19 %%
 Kenzo: Battle information.
