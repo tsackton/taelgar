@@ -185,8 +185,8 @@ Seeker: We're being a little paranoid here.
 %% u0100:0-7 %%
 Kenzo: No, no.
 
-%% u0101:0-85, u0102:0-46 %%
-Seeker: I'm imagining a split screen of the situation and Faustus is just like, "Oh, oh well. Good luck, space citizen." And then he leaves.
+%% u0101:0-84, u0102:0-46 %%
+Seeker: I'm imagining a split screen of the situation and Fausto is just like, "Oh, oh well. Good luck, space citizen." And then he leaves.
 
 %% u0103:0-23 %%
 DM: I... No, I don't think.
@@ -203,8 +203,8 @@ Delwath: I think we're being possibly futilely. I don't know that that's gonna, 
 %% u0108:0-26, u0109:0-72 %%
 Seeker: That's the other question. The danger is surely coming from some quarter that we're not looking in.
 
-%% u0110:0-40, u0111:0-123, u0112:0-3, u0113:0-30 %%
-Delwath: But the hope is that at least it will... If it doesn't, I mean, Faustus is gonna find us eventually, but until we, like, sneak off into the Elderwood, out of reach. But how far to the Elderwood, Tim?
+%% u0110:0-40, u0111:0-122, u0112:0-3, u0113:0-30 %%
+Delwath: But the hope is that at least it will... If it doesn't, I mean, Fausto is gonna find us eventually, but until we, like, sneak off into the Elderwood, out of reach. But how far to the Elderwood, Tim?
 
 %% u0114:0-20 %%
 DM: It's far. It's about—
@@ -1259,8 +1259,8 @@ Kenzo: Nothing to do with the Fae has ever been simple.
 %% u0810:0-103, u0811:0-28, u0812:0-62, u0813:0-62, u0814:0-76 %%
 Seeker: And it, and it looks like this book contains numerous accounts, many of which conflict with each other. That's what I'm saying, too. He's, he's, he's collected the, the literature over millennia. It's not to say that it's anyone, anyone's definitive account. But, from what I can tell, people do go in and out of these Feywild portals.
 
-%% u0815:0-19 %%
-Kenzo: What about Faustus?
+%% u0815:0-18 %%
+Kenzo: What about Fausto?
 
 %% u0816:0-50 %%
 Wellby: I expect we probably should have seen that coming.
@@ -1325,8 +1325,8 @@ Kenzo: I agree, yeah.
 %% u0857:0-31 %%
 Seeker: We're trying to lay low, right?
 
-%% u0858:0-121, u0859:0-10, u0860:0-13 %%
-Kenzo: Well, Faustus is gonna try to kill us, and there's almost certainly a Chardonian, uh, very, very powerful Chardonian, uh, characters on our trail.
+%% u0858:0-120, u0859:0-10, u0860:0-13 %%
+Kenzo: Well, Fausto is gonna try to kill us, and there's almost certainly a Chardonian, uh, very, very powerful Chardonian, uh, characters on our trail.
 
 %% u0861:0-17, u0862:0-66 %%
 Seeker: Is there any clue about who Fausto is working for, or where his money has come from?
@@ -1628,8 +1628,8 @@ Kenzo: Oh, like what happened to me?
 %% u1027:0-17 %%
 DM: Yeah, yeah, yeah.
 
-%% u1028:0-40 %%
-Delwath: Did you, did Faustus say something about—
+%% u1028:0-39 %%
+Delwath: Did you, did Fausto say something about—
 
 %% u1029:0-54, u1030:0-17, u1031:0-64 %%
 DM: Doing something to us? He didn't try and do something? I can't remember. He said, "None of you are even pure enough to be worth the effort."
@@ -1637,8 +1637,8 @@ DM: Doing something to us? He didn't try and do something? I can't remember. He 
 %% u1032:0-53 %%
 Seeker: What is this sense of purity that he's talking about?
 
-%% u1033:0-32, u1034:0-52 %%
-Kenzo: So what's interesting here, too, it does feel as though Faustus himself was cleansed.
+%% u1033:0-32, u1034:0-51 %%
+Kenzo: So what's interesting here, too, it does feel as though Fausto himself was cleansed.
 
 %% u1035:0-7 %%
 DM: He was.
@@ -1655,8 +1655,8 @@ Seeker: If I had to guess, I would guess there's some hidden actor that they bot
 %% u1039:0-7 %%
 Kenzo: Agreed.
 
-%% u1040:0-62 %%
-Seeker: Somehow it doesn't seem like Grash would be scared of Faustus.
+%% u1040:0-61 %%
+Seeker: Somehow it doesn't seem like Grash would be scared of Fausto.
 
 %% u1041:0-6 %%
 Kenzo: Right.
@@ -1697,8 +1697,8 @@ Seeker: We need to warn people.
 %% u1060:0-43, u1061:0-47 %%
 Kenzo: Yeah, we definitely need to warn them that. We need to disseminate this information widely.
 
-%% u1062:0-40, u1063:0-59, u1064:0-34 %%
-Seeker: I mean, surely people have some inkling. Like, there was a crazy commotion and suddenly disappeared. Faustus will probably tell people.
+%% u1062:0-40, u1063:0-59, u1064:0-33 %%
+Seeker: I mean, surely people have some inkling. Like, there was a crazy commotion and suddenly disappeared. Fausto will probably tell people.
 
 %% u1065:0-25 %%
 Wellby: Wow, that is still weird.
@@ -3811,11 +3811,11 @@ Delwath: I'm not trying to just... I'm, I'm looking for a clue that says she's n
 %% u2239:0-4 %%
 DM: Yes.
 
-%% u2240:0-54, u2241:0-28 %%
-Delwath: You can just say yes and find a clue that she has made it. And I will scry Faustus.
+%% u2240:0-54, u2241:0-27 %%
+Delwath: You can just say yes and find a clue that she has made it. And I will scry Fausto.
 
-%% u2242:0-19, u2243:0-27 %%
-Kenzo: I believe. [laughs] Faustus? Is that a gay bar?
+%% u2242:0-19, u2243:0-26 %%
+Kenzo: I believe. [laughs] Fausto? Is that a gay bar?
 
 %% u2244:0-8 %%
 Unknown: [laughs]
@@ -9085,8 +9085,8 @@ DM: [smacks lips] That's funny. They're not at the staircase. Okay. I'm gonna sc
 %% u5081:0-22 %%
 Kenzo: Let's check that here.
 
-%% u5082:0-30, u5083:0-7, u5084:0-31 %%
-Delwath: He's sleeping for eight hours. Twelve. I'm gonna scry Faustus, though.
+%% u5082:0-30, u5083:0-7, u5084:0-30 %%
+Delwath: He's sleeping for eight hours. Twelve. I'm gonna scry Fausto, though.
 
 %% u5085:0-50 %%
 Kenzo: Have you-- Has anybody drawn a picture of him yet?
@@ -9105,8 +9105,8 @@ Delwath: Um, with like black in between the red, and then like one—
 %% u5100:0-40, u5101:0-25, u5102:0-24, u5103:0-29, u5104:0-34, u5105:0-21 %%
 DM: Nose piece protruding on the right side. The hair feels more fade. No hair, just, just a... Just sort of like [crosstalk] Yeah, sort of dark [crosstalk] Um, what are you scrying?
 
-%% u5106:0-23, u5107:0-26 %%
-Delwath: I'm gonna scry Faustus. I think we have a picture.
+%% u5106:0-22, u5107:0-26 %%
+Delwath: I'm gonna scry Fausto. I think we have a picture.
 
 %% u5108:0-29, u5109:0-5, u5110:0-27 %%
 DM: Yeah, that's a good idea too. Okay. Uh, what's your spell save?

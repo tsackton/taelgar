@@ -3796,7 +3796,7 @@
 [u3796 | 02:16:55.898-02:16:55.978 | DM] Right.
 [u3797 | 02:16:55.978-02:16:56.158 | Delwath] Like,
 [u3798 | 02:16:56.978-02:16:59.798 | Delwath] are the Deno'qai still camped? Where is Mezzar?
-[u3799 | 02:16:59.798-02:17:04.078 | Delwath] Um, every once in a, every, you know, I'll check in on Faustus occasionally, right?
+[u3799 | 02:16:59.798-02:17:04.078 | Delwath] Um, every once in a, every, you know, I'll check in on Fausto occasionally, right?
 [u3800 | 02:17:04.078-02:17:04.318 | Delwath] Like-
 [u3801 | 02:17:04.678-02:17:07.618 | DM] Okay, none of your scrys against Mezzar ever succeed.
 [u3802 | 02:17:08.658-02:17:09.938 | DM] Okay.
@@ -3811,7 +3811,7 @@
 [u3811 | 02:17:33.098-02:17:33.758 | Delwath] Interesting.
 [u3812 | 02:17:35.758-02:17:35.978 | DM] Um-
 [u3813 | 02:17:36.318-02:17:38.198 | Delwath] And I'll occasionally check on the...
-[u3814 | 02:17:38.698-02:17:42.338 | Delwath] Um, you know, I'm not gonna check on Faustus or Grasha or any of our other enemies right now.
+[u3814 | 02:17:38.698-02:17:42.338 | Delwath] Um, you know, I'm not gonna check on Fausto or Grasha or any of our other enemies right now.
 [u3815 | 02:17:42.338-02:17:48.058 | Delwath] All I'm using my scrys for is to try and track the Deno'qai, keep up with Mezzar, which is gonna keep failing.
 [u3816 | 02:17:48.058-02:17:48.258 | DM] Right.
 [u3817 | 02:17:48.638-02:17:51.278 | Delwath] And check on the tree occasionally, unless they have more offshoot.
@@ -4337,7 +4337,7 @@
 [u4337 | 02:46:59.257-02:46:59.637 | Wellby] [laughs]
 [u4338 | 02:46:59.657-02:47:00.557 | DM] But it's different.
 [u4339 | 02:47:01.057-02:47:01.917 | Delwath] It's, it's...
-[u4340 | 02:47:03.057-02:47:09.677 | Delwath] I still think that if Faustus was working for Apollyon, Apollyon doesn't want to destroy Taelgar by crashing it.
+[u4340 | 02:47:03.057-02:47:09.677 | Delwath] I still think that if Fausto was working for Apollyon, Apollyon doesn't want to destroy Taelgar by crashing it.
 [u4341 | 02:47:09.717-02:47:12.377 | DM] Yeah, remember Cha'mutte and Apollyon were enemies.
 [u4342 | 02:47:12.517-02:47:12.817 | Delwath] Right.
 [u4343 | 02:47:12.817-02:47:13.237 | Wellby] True.

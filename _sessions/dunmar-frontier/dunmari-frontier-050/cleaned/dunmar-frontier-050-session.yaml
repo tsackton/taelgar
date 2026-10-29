@@ -59,10 +59,10 @@ transcriptProcessing:
       sha256: 7309df0dea2c0f0b4785d901e506dc6784804e4dafe8558b13cc8b3259015209
     cleaned:
       path: cleaned/dunmar-frontier-050-source-cleaned.md
-      sha256: 01ef26ec6aeae86593d5d9a4860b23cebfdb8f0d00efadff6200e85b5fac00e6
+      sha256: e67a7605e187043d17844de5b42a0630688ebf4e8a1db69ed985f8866feb8e21
     polishedMarkdown:
       path: cleaned/dunmar-frontier-050-transcript.md
-      sha256: 260e87499b056e83142a686df272c3d312ad0056bf5f70e3d488bf1a022304d8
+      sha256: e33d480370a34ebee9dfb247f9ff2d0889935687ec60931089bcb6fc14a37f2b
   speakerCorrections:
   - uid: u0372
     start: 0
@@ -202,7 +202,7 @@ transcriptProcessing:
     speaker: Delwath
   - uid: u5106
     start: 0
-    end: 23
+    end: 22
     speaker: Delwath
   - uid: u5111
     start: 0
