@@ -32,7 +32,7 @@
 [u0032 | 00:05:07.080-00:05:11.550 | DM] Here that tale is muddled in the song strange for foreign gods keep secrets, even from the halflings.
 [u0033 | 00:05:13.170-00:05:21.450 | DM] Yet if our heroes were listening, they would know the details, how Agata lured Cintra out of Karawa with dreams of her daughter's illness.
 [u0034 | 00:05:22.140-00:05:31.830 | DM] deceived her into removing from Karawa the Heart of Shakun, the artifact that kept the divine protections on the eastern border of Dunmar intact.
-[u0035 | 00:05:32.640-00:05:48.060 | DM] How Agata kidnapped Cintra's daughter Jumi and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this later than perhaps they would have liked from Cintra's spy {{Croatia could}} skilled in many things, except making decisions in a crisis.
+[u0035 | 00:05:32.640-00:05:48.060 | DM] How Agata kidnapped Cintra's daughter Jumi and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this later than perhaps they would have liked from Candrosa, Speaker of Shakun skilled in many things, except making decisions in a crisis.
 [u0036 | 00:05:51.900-00:06:06.660 | DM] Storytellers, though the details are murky do not neglect our heroes at the moment, they confront Agata in the desert south of Karawa the tempo of the song rises for here comes the halfling's moment of glory the killing arrow from point blank range.
 [u0037 | 00:06:08.100-00:06:26.760 | DM] With Agata defeated the heart restored all seems safe except our heroes don't know it yet storytellers sing of the Fraternity of the Empty Moon hard at work in Tokra seemingly secure in their anonymity waiting until the time is right for the long prophesied ritual.
 [u0038 | 00:06:28.380-00:06:40.290 | DM] They are stymied only by the cruelty and madness of Pandemonium itself for even Jinnik's servants cannot simply ignore the confusion disorientation of trying to approach the Pandemonium that nests.
@@ -2089,7 +2089,7 @@
 [u2089 | 02:54:02.550-02:54:04.890 | Seeker] incredibly powerful magical artifacts.
 [u2090 | 02:54:08.280-02:54:08.490 | Unknown] That.
 [u2091 | 02:54:09.750-02:54:13.380 | Seeker] could be why the Chardonians are interested as well.
-[u2092 | 02:54:16.500-02:54:21.510 | Seeker] {{obvious that}} the Society of the Open Scroll is looking to close these seeds.
+[u2092 | 02:54:16.500-02:54:21.510 | Seeker] Could it be that the Society of the Open Scroll is looking to close these seeds.
 [u2093 | 02:54:24.120-02:54:26.970 | Kenzo] Should I ask Saka in a bit if she knows about the society.
 [u2094 | 02:54:28.050-02:54:30.210 | Seeker] I don't think she does that.
 [u2095 | 02:54:30.270-02:54:30.570 | Kenzo] You know.
@@ -2257,7 +2257,7 @@
 [u2257 | 03:06:51.300-03:06:51.540 | Kenzo] We could.
 [u2258 | 03:06:51.660-03:06:52.290 | Delwath] Go to I mean.
 [u2259 | 03:06:53.370-03:06:53.670 | Delwath] Like.
-[u2260 | 03:06:54.510-03:07:00.930 | Kenzo] What if he is he's with Rai, on the other side of the of the seeds of chaos and {{not the manager}}.
+[u2260 | 03:06:54.510-03:07:00.930 | Kenzo] What if he is he's with Rai, on the other side of the of the seeds of chaos and not Pandemonium.
 [u2261 | 03:07:01.320-03:07:02.430 | Seeker] At this point, that's my best.
 [u2262 | 03:07:02.520-03:07:02.790 | Delwath] place it.
 [u2263 | 03:07:04.170-03:07:05.580 | Delwath] feels like eventually.
@@ -2367,7 +2367,7 @@
 [u2367 | 03:13:42.840-03:13:43.440 | Kenzo] strike where.
 [u2368 | 03:13:44.130-03:13:44.730 | Delwath] He didn't say.
 [u2369 | 03:13:46.110-03:13:48.480 | Kenzo] I wonder if that's still have like orc civil war.
-[u2370 | 03:13:48.780-03:13:58.200 | Delwath] Now might be, he said, the {{EU got it was}} Grash, which is the other but I mean it seems sort of sad to have all that nice peaceful orcs slaughtered by their warlike brethren.
+[u2370 | 03:13:48.780-03:13:58.200 | Delwath] Now might be, he said, the Uzgash—it was Grash, which is the other but I mean it seems sort of sad to have all that nice peaceful orcs slaughtered by their warlike brethren.
 [u2371 | 03:13:59.970-03:14:04.770 | Seeker] So that's what we are now like protecting the Nice orcs from the bad orcs that's that's what we're doing.
 [u2372 | 03:14:06.000-03:14:07.590 | DM] That so there's so many things.
 [u2373 | 03:14:09.030-03:14:09.600 | DM] Just gotta.
@@ -2582,7 +2582,7 @@
 [u2582 | 03:28:27.360-03:28:30.450 | DM] didn't you see Rai trying to close a portal when he did that.
 [u2583 | 03:28:32.430-03:28:35.070 | Kenzo] sounds possible like I totally forgot yeah.
 [u2584 | 03:28:35.490-03:28:36.540 | Seeker] that's an important detail.
-[u2585 | 03:28:38.190-03:28:42.090 | Kenzo] Well, I saw {{sheila}} I saw Rai, I saw like the great heroes {{finish my thought}} was pretty cool.
+[u2585 | 03:28:38.190-03:28:42.090 | Kenzo] Well, I saw {{sheila}} I saw Rai, I saw like the great heroes which I thought was pretty cool.
 [u2586 | 03:28:46.380-03:28:46.890 | Seeker] let's see.
 [u2587 | 03:28:50.040-03:28:50.880 | Wellby] Seeker's memory.
 [u2588 | 03:28:50.910-03:28:55.830 | Wellby] Of a moment when he was young dwarf curious about the world and eavesdropping on a meeting his parents were in.

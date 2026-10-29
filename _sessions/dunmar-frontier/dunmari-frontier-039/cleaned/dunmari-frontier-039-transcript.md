@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 39
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-039-source-cleaned.md
 
 ## Transcript
@@ -1801,8 +1801,8 @@ DM: That's not burning it just it's like yeah you can almost hear that sizzle.
 %% u0986:0-3 %%
 Unknown: So.
 
-%% u0987:0-54, u0988:0-142, u0989:0-13, u0990:0-20, u0991:0-49, u0992:0-11 %%
-DM: And whispers, "Are coming, they're coming, they're coming. If all is lost, maybe all is not lost, you will hear the whispers, then you will see, you will help {{you affect set}} when the time is right." And he looks, as he falls forward, in a moment of kind of triumph, and also despair as he dies.
+%% u0987:0-54, u0988:0-139, u0989:0-13, u0990:0-20, u0991:0-49, u0992:0-11 %%
+DM: And whispers, "Are coming, they're coming, they're coming. If all is lost, maybe all is not lost, you will hear the whispers, then you will see, you will help you will fix it when the time is right." And he looks, as he falls forward, in a moment of kind of triumph, and also despair as he dies.
 
 %% u0993:0-21 %%
 Kenzo: Did you pick up here.
@@ -2614,8 +2614,8 @@ Seeker: Nice.
 %% u1459:0-165, u1460:0-155, u1461:0-43 %%
 DM: Alright, so that the thing you your sense is it never really completely formed like it was, like all these mouths just kept growing and with this last punch it just disintegrates into the slime that sort of spreads out across the ground. Oh, actually sorry before you do, that I keep forgetting. Make a wisdom saving throw. Now, if you actually get to do any of that.
 
-%% u1462:0-43, u1463:0-10 %%
-Seeker: Thing was was friends with a creature from [garbled]
+%% u1462:0-43, u1463:0-11 %%
+Seeker: Thing was was friends with a creature from Cthulupunk.
 
 %% u1464:0-38, u1465:0-28, u1466:0-3, u1467:0-75, u1468:0-18, u1469:0-27 %%
 DM: Yes, you get to do you get to do that. Your turn happens as normal. Ah. Delwath, you're up. You're no longer blinded no longer affected by anything. It is dead, so no need to make a wisdom save.
@@ -4006,8 +4006,8 @@ Kenzo: Well, depends a little a lot on what you know and what you might be able 
 %% u2269:0-31 %%
 DM: Why should I tell you anything?
 
-%% u2270:0-48, u2271:0-52 %%
-Kenzo: {{Because we might be just going to be killed}}. We might be able to offer you an alternate to death.
+%% u2270:0-49, u2271:0-52 %%
+Kenzo: Because otherwise you’re just going to be killed. We might be able to offer you an alternate to death.
 
 %% u2272:0-23 %%
 DM: And what would that be?
@@ -4675,8 +4675,8 @@ Unknown: It. Okay.
 %% u2673:0-4, u2674:0-122, u2675:0-56 %%
 DM: Wow. Ah, so just to like wrap things up somewhere we'll start next time and then happy to chat more about where things are but so, after having interrogated these werewolves you—what?
 
-%% u2676:0-137 %%
-Delwath: I think the plan, we stated, is the same plan right? We're gonna—Riswynn's gonna cure the woman and we're giving the other one to {{die}}.
+%% u2676:0-136 %%
+Delwath: I think the plan, we stated, is the same plan right? We're gonna—Riswynn's gonna cure the woman and we're giving the other one to Kaleha.
 
 %% u2677:0-3 %%
 DM: To.

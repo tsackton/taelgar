@@ -2367,7 +2367,7 @@
 [u2367 | 02:58:31.260-02:58:33.360 | Seeker] The camp so i'll cast clairvoyance.
 [u2368 | 02:58:35.460-02:58:35.850 | DM] Okay.
 [u2369 | 02:58:39.810-02:58:40.800 | Seeker] So.
-[u2370 | 02:58:40.860-02:58:44.850 | Delwath] {{Our recap as}} probably have See Invisibility and they’re going to see the clairvoyant eye.
+[u2370 | 02:58:40.860-02:58:44.850 | Delwath] Our captors probably have See Invisibility and they’re going to see the clairvoyant eye.
 [u2371 | 02:58:45.180-02:59:00.300 | Seeker] It's just a glowing ball or whatever, um, yeah, it's true. It's interesting, if the friends are there, they'll know. Maybe anyway they probably aren't Chardonians, um, I'm going to place it in the commander's tent.
 [u2372 | 02:59:02.760-02:59:03.090 | Seeker] With.
 [u2373 | 02:59:04.740-02:59:05.700 | Seeker] start with vision.

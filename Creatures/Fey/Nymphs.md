@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-29T15:59:37-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/ai, status/check/tim]
+tags: [creature]
 typeOf: fey
 name: Nymphs
 aliases: [nymph]
@@ -12,7 +12,7 @@ POV: modern
 ---
 # Nymphs
 
-Nymphs are [[Fey|fey]] spirits closely tied to particular trees, waters, and other natural places. They are found in both the [[Feywild]] and the [[Material Plane]], and include dryads associated with trees and woodlands, and water nymphs such as naiads.
+Nymphs are [[Fey|fey]] spirits who are closely tied to particular trees, waters, or other natural places. They are found in both the [[Feywild]] and the [[Material Plane]], and include dryads associated with trees and woodlands, and water nymphs such as naiads.
 
 Most rarely, if ever, leave the places they call home, although a rare nymph may join the court of an archfey.
 
