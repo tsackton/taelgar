@@ -346,7 +346,7 @@
 [u0346 | 00:24:07.040-00:24:09.840 | Kenzo] um, reflecting on what he's seen,
 [u0347 | 00:24:10.980-00:24:14.380 | Kenzo] the history that was revealed going back, you know, to the...
 [u0348 | 00:24:15.800-00:24:17.340 | Kenzo] Did the, did the elven forest have a name?
-[u0349 | 00:24:19.160-00:24:23.020 | DM] Uh, I have a, it dead. I have an, I might have it written down somewhere.
+[u0349 | 00:24:19.160-00:24:23.020 | DM] Uh, I have a, it did. I have an, I might have it written down somewhere.
 [u0350 | 00:24:23.020-00:24:24.080 | DM] I don't know what it's called.
 [u0351 | 00:24:24.120-00:24:30.360 | Kenzo] Doesn't matter. Doesn't matter. Is it, is it, um, is it the case that, like, the el- is the Elven Forest like a well-known thing?
 [u0352 | 00:24:30.360-00:24:34.000 | Kenzo] Does it, like, regular Dunmar people know that there used to be a forest here, or is that like not-
@@ -1021,7 +1021,7 @@
 [u1021 | 00:58:37.072-00:58:38.072 | Delwath] What are we gonna show to the mirror?
 [u1022 | 00:58:38.312-00:58:42.192 | Seeker] Yeah, we have to... We need to spend a good amount of time en- endlessly bickering about that.
 [u1023 | 00:58:42.612-00:58:42.992 | Seeker] Um...
-[u1024 | 00:58:42.992-00:58:46.112 | DM] [laughs] So the only thing that's not claimed is Art, Art.
+[u1024 | 00:58:42.992-00:58:46.112 | DM] [laughs] So the only thing that's not claimed is are, are...
 [u1025 | 00:58:46.512-00:58:48.372 | DM] Seeker, are you taking the ring of warded mind?
 [u1026 | 00:58:48.972-00:58:49.212 | Delwath] Sure.
 [u1027 | 00:58:49.892-00:58:50.132 | DM] Okay.
@@ -1324,7 +1324,7 @@
 [u1324 | 01:13:28.444-01:13:30.244 | Seeker] I, I mean, Seeker likes that kind of thing.
 [u1325 | 01:13:30.604-01:13:32.384 | DM] So I would say that our-
 [u1326 | 01:13:32.404-01:13:33.764 | DM] Okay. Seeker's keeping them. Okay
-[u1327 | 01:13:33.764-01:13:40.704 | Delwath] ... that either, I mean, we could just like look at some random thing from {{Argus Fort}} just for fun, right?
+[u1327 | 01:13:33.764-01:13:40.704 | Delwath] ... that either, I mean, we could just like look at some random thing from Arcus' fort just for fun, right?
 [u1328 | 01:13:41.684-01:13:42.044 | Delwath] Um.
 [u1329 | 01:13:42.664-01:13:44.304 | Kenzo] The lantern feels like...
 [u1330 | 01:13:44.304-01:13:47.144 | Kenzo] 'Cause like if it's trapping souls in there, like,
@@ -1352,7 +1352,7 @@
 [u1352 | 01:14:48.924-01:14:53.184 | Delwath] You didn't read my note about Delwath, you know, Delwath's whole, "I'm going off into the desert," and-
 [u1353 | 01:14:53.224-01:14:59.644 | Kenzo] You're reminding me now, yeah. And you, you, you, you sai- you gave me a special responsibility, which I've totally forgotten, so let me double-check on that.
 [u1354 | 01:14:59.644-01:14:59.844 | Unknown] [laughs]
-[u1355 | 01:14:59.844-01:15:01.504 | Delwath] Note check that, 'cause that's important.
+[u1355 | 01:14:59.844-01:15:01.504 | Delwath] Go check that, 'cause that's important.
 [u1356 | 01:15:01.904-01:15:03.644 | Kenzo] Yeah. Let me go check what my responsibility was.
 [u1357 | 01:15:04.384-01:15:05.604 | Unknown] Did you email this to me, Mike?
 [u1358 | 01:15:05.664-01:15:05.864 | Delwath] Yeah.
@@ -1620,7 +1620,7 @@
 [u1620 | 01:30:24.308-01:30:30.428 | Kenzo] Well, first off, um, just so we make sure we're talking about the same person, what was the name of the man with red eyes?
 [u1621 | 01:30:34.008-01:30:37.728 | DM] He called himself many things, but we knew him as Cha'mutte.
 [u1622 | 01:30:37.728-01:30:47.888 | Unknown] [sighs] Well,
-[u1623 | 01:30:49.328-01:30:50.928 | Kenzo] perhaps it'll be hard to know that he's dead.
+[u1623 | 01:30:49.328-01:30:50.928 | Kenzo] perhaps it'll be heartening to know that he's dead.
 [u1624 | 01:30:52.868-01:30:53.208 | DM] Are you serious?
 [u1625 | 01:30:53.228-01:30:54.908 | Unknown] Slain.
 [u1626 | 01:30:54.908-01:30:55.668 | Unknown] Very serious.
@@ -1781,7 +1781,7 @@
 [u1781 | 01:39:12.756-01:39:13.996 | Unknown] Your king is still trapped."
 [u1782 | 01:39:14.516-01:39:17.836 | Delwath] I see. But it all failed badly, right?
 [u1783 | 01:39:17.876-01:39:18.156 | Unknown] Yes.
-[u1784 | 01:39:18.776-01:39:21.556 | Delwath] And nobody knows about A- {{Atavas}} anymore.
+[u1784 | 01:39:18.776-01:39:21.556 | Delwath] And nobody knows about A- Atavas anymore.
 [u1785 | 01:39:22.996-01:39:24.836 | DM] Avat- Ava- Avatus, yeah.
 [u1786 | 01:39:24.856-01:39:24.956 | Unknown] Avatus.
 [u1787 | 01:39:24.956-01:39:26.356 | Unknown] Nobody really knows about Avatus.
@@ -1798,7 +1798,7 @@
 [u1798 | 01:40:05.376-01:40:12.096 | Delwath] And primarily known for its stunning defeat at the hands of the, of the, um-
 [u1799 | 01:40:12.756-01:40:13.376 | Unknown] Of Derik II
 [u1800 | 01:40:13.376-01:40:14.336 | Unknown] ... of the, of the orig-
-[u1801 | 01:40:14.336-01:40:15.336 | Unknown] Of the {{House of Darick}}.
+[u1801 | 01:40:14.336-01:40:15.336 | Unknown] Of the House of Derik.
 [u1802 | 01:40:15.336-01:40:15.656 | Unknown] Right.
 [u1803 | 01:40:18.156-01:40:22.536 | Kenzo] Okay. Um, is there a way for us to talk without the hobgoblin hearing or seeing us?
 [u1804 | 01:40:22.856-01:40:24.016 | Unknown] Yeah, we'll just say the damn word again.
@@ -2046,7 +2046,7 @@
 [u2046 | 01:51:41.934-01:51:48.074 | Delwath] When attuned to the lantern, you can use an action to trap the soul of a creature that's died within the past minute, and then, um,
 [u2047 | 01:51:48.854-01:51:50.854 | Delwath] you can use it to charge spells.
 [u2048 | 01:51:51.934-01:51:52.554 | Seeker] Oh my God.
-[u2049 | 01:51:54.374-01:51:56.334 | Seeker] I bite. That sounds unpleasant.
+[u2049 | 01:51:54.374-01:51:56.334 | Seeker] Eyebite. That sounds unpleasant.
 [u2050 | 01:51:59.154-01:51:59.454 | Delwath] Um,
 [u2051 | 01:52:05.674-01:52:06.434 | Delwath] I guess I...
 [u2052 | 01:52:07.194-01:52:10.254 | Delwath] Does anybody n- I mean, I don't know how to destroy the lantern.
@@ -3565,7 +3565,7 @@
 [u3565 | 03:25:12.674-03:25:14.354 | Kenzo] Uh, just, you know,
 [u3566 | 03:25:15.314-03:25:17.714 | Kenzo] not, not now, but like-
 [u3567 | 03:25:17.814-03:25:17.974 | DM] Right
-[u3568 | 03:25:17.974-03:25:21.834 | Kenzo] ... don't want to get sucked in and {{drink or}}, you know, Dunmari politics too much, but
+[u3568 | 03:25:17.974-03:25:21.834 | Kenzo] ... don't want to get sucked in in Drankor, you know, Dunmari politics too much, but
 [u3569 | 03:25:22.994-03:25:25.314 | Kenzo] would be good to talk with the potential future queen.
 [u3570 | 03:25:27.334-03:25:36.714 | Delwath] Um, at some point, Tim, just for, we can do this over email, but just so I don't forget, Delwath does wanna take Cintra aside and ask her a bit about,
 [u3571 | 03:25:39.834-03:25:40.054 | Delwath] um,
