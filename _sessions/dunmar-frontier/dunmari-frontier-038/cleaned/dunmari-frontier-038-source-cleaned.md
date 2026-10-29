@@ -1,6 +1,6 @@
 [u0001 | 00:00:06.299-00:00:06.870 | DM] Okay.
 [u0002 | 00:00:09.389-00:00:10.080 | DM] So.
-[u0003 | 00:00:12.690-00:00:29.430 | DM] As the noise of the battle echoes above the Sancho SIS hitting flash the crack of the rope ladder leaping and lunging at its enemies, the snarls of wolfish creatures, a man in a dirty torn robe crouches among the empty barrels of this basement store.
+[u0003 | 00:00:12.690-00:00:29.430 | DM] As the noise of the battle echoes above the sound of fists hitting flesh the crack of the rope ladder leaping and lunging at its enemies, the snarls of wolfish creatures, a man in a dirty torn robe crouches among the empty barrels of this basement store.
 [u0004 | 00:00:31.200-00:00:37.530 | DM] With the scent of blood, an image flashes through his mind: leaning over a dead body, tearing at flesh.
 [u0005 | 00:00:38.310-00:00:48.180 | DM] He's briefly overcome imagining leaping up letting the wild strength rush over his body reveling in the power as his hands grow to claws his teeth to fangs.
 [u0006 | 00:00:48.750-00:00:56.520 | DM] But, like so many times before he pushes the desire away muttering a soft prayer to Jeevali to keep him safe, to keep him in control.
@@ -89,7 +89,7 @@
 [u0089 | 00:09:24.720-00:09:25.170 | Unknown] bar.
 [u0090 | 00:09:28.170-00:09:30.960 | Kenzo] Little wisdom check not a wisdom saving throw right, just like.
 [u0091 | 00:09:31.140-00:09:31.950 | DM] yeah just this.
-[u0092 | 00:09:32.190-00:09:34.350 | DM] Is the same class so.
+[u0092 | 00:09:32.190-00:09:34.350 | DM] Is the same plus so.
 [u0093 | 00:09:35.280-00:09:35.610 | Kenzo] damn it.
 [u0094 | 00:09:35.700-00:09:36.030 | Unknown] i'm.
 [u0095 | 00:09:38.730-00:09:39.180 | DM] Ah.
@@ -105,7 +105,7 @@
 [u0105 | 00:10:06.150-00:10:07.710 | Delwath] Okay i've lost track of time.
 [u0106 | 00:10:10.770-00:10:11.250 | DM] Ah.
 [u0107 | 00:10:13.050-00:10:16.020 | DM] OK um so Seeker.
-[u0108 | 00:10:17.490-00:10:18.600 | DM] Seeker macomb.
+[u0108 | 00:10:17.490-00:10:18.600 | DM] Seeker make, um.
 [u0109 | 00:10:20.760-00:10:24.420 | DM] I would say, also make a wisdom check.
 [u0110 | 00:10:26.880-00:10:28.500 | DM] As you inspect your wounds.
 [u0111 | 00:10:33.660-00:10:41.490 | DM] So so Delwath you don't I mean neither you nor Wellby hear anything it sounds pretty quiet.
@@ -146,10 +146,10 @@
 [u0146 | 00:13:46.920-00:13:50.760 | DM] Delwath is opening chests; Wellby is.
 [u0147 | 00:13:52.170-00:13:53.040 | DM] Where are you Wellby.
 [u0148 | 00:13:57.330-00:13:58.740 | Wellby] Sorry, I think i'll um.
-[u0149 | 00:14:00.420-00:14:15.060 | Wellby] i'll sort of provide coming just gonna keep on searching through the House and in particular i'm looking for like secret doors secret areas secret passages, you know, knowing that the downstairs was set up in such a convoluted way, I wonder if there's any like hidden storage up here.
+[u0149 | 00:14:00.420-00:14:15.060 | Wellby] i'll sort of provide cover. I’m just gonna keep on searching through the House and in particular i'm looking for like secret doors secret areas secret passages, you know, knowing that the downstairs was set up in such a convoluted way, I wonder if there's any like hidden storage up here.
 [u0150 | 00:14:16.080-00:14:19.260 | DM] going up to the same floor that Delwath is on yeah yeah.
 [u0151 | 00:14:20.250-00:14:24.690 | Delwath] And before it was there anything at this last room I assume.
-[u0152 | 00:14:25.080-00:14:26.400 | DM] Which from the.
+[u0152 | 00:14:25.080-00:14:26.400 | DM] Which room the.
 [u0153 | 00:14:26.700-00:14:28.680 | Delwath] One on the southern wall here.
 [u0154 | 00:14:29.580-00:14:36.570 | DM] Ah, you haven't you poked you look through there there's like another straw mattress and then.
 [u0155 | 00:14:37.800-00:14:40.080 | DM] shield and a spear and then.
@@ -192,13 +192,13 @@
 [u0192 | 00:17:51.600-00:17:54.150 | DM] you hear a crash.
 [u0193 | 00:17:57.060-00:17:58.920 | DM] As um.
 [u0194 | 00:18:00.120-00:18:01.860 | DM] let's see here.
-[u0195 | 00:18:01.980-00:18:04.020 | Seeker] This is great, because I have a lot of spells let's list.
+[u0195 | 00:18:01.980-00:18:04.020 | Seeker] This is great, because I have a lot of spells left.
 [u0196 | 00:18:06.780-00:18:07.980 | DM] You you hear a crash.
 [u0197 | 00:18:08.070-00:18:13.500 | DM] As a wolf comes bounding through the now broken front window.
 [u0198 | 00:18:15.150-00:18:16.380 | Delwath] Wolf or a werewolf.
 [u0199 | 00:18:17.280-00:18:20.100 | DM] This one is actually looks like a wolf.
 [u0200 | 00:18:22.320-00:18:23.730 | Unknown] Like in wolf form.
-[u0201 | 00:18:25.560-00:18:27.510 | Delwath] But like a regular sized wolf or wake.
+[u0201 | 00:18:25.560-00:18:27.510 | Delwath] But like a regular sized wolf or like.
 [u0202 | 00:18:27.510-00:18:28.590 | DM] up, oh no.
 [u0203 | 00:18:29.580-00:18:29.970 | Unknown] Definitely.
 [u0204 | 00:18:31.830-00:18:32.280 | Seeker] Oh i'm good.
@@ -219,7 +219,7 @@
 [u0219 | 00:19:21.450-00:19:23.640 | DM] Because this door is open um.
 [u0220 | 00:19:25.350-00:19:26.280 | Seeker] Oh Oh, I see.
 [u0221 | 00:19:26.880-00:19:28.020 | DM] Let me get rid of that door.
-[u0222 | 00:19:29.400-00:19:31.440 | Seeker] i'm back here was my ladder friend.
+[u0222 | 00:19:29.400-00:19:31.440 | Seeker] i'm back here with my ladder friend.
 [u0223 | 00:19:32.100-00:19:36.330 | DM] Okay, and as this as this wolf like bounds through the.
 [u0224 | 00:19:37.440-00:19:41.970 | DM] window, you can it looks like it looks like they've been running and you can see.
 [u0225 | 00:19:43.860-00:19:48.780 | DM] A woman now also climbing through the window from behind them.
@@ -252,7 +252,7 @@
 [u0252 | 00:21:43.140-00:21:45.270 | DM] They come out right right.
 [u0253 | 00:21:45.330-00:21:46.050 | Delwath] I see.
 [u0254 | 00:21:48.990-00:21:51.540 | DM] is just going to make a bite attack at Seeker.
-[u0255 | 00:21:53.220-00:21:55.050 | DM] is going to be {{at 92}} hits.
+[u0255 | 00:21:53.220-00:21:55.050 | DM] is going to be at 92 hits.
 [u0256 | 00:21:56.970-00:22:04.560 | DM] So you take eight points of piercing damage and a constitution, save just GM roll it secretly to me.
 [u0257 | 00:22:06.150-00:22:07.050 | Seeker] it's slash.
 [u0258 | 00:22:07.500-00:22:09.630 | DM] slash GM roll.
@@ -269,7 +269,7 @@
 [u0269 | 00:22:49.050-00:22:53.370 | Delwath] Fine, I will just come down, and I will attack it.
 [u0270 | 00:22:55.470-00:22:59.160 | Delwath] I will attack it twice with my long sword.
 [u0271 | 00:23:01.260-00:23:03.450 | Kenzo] Do we recognize recognize the wolf.
-[u0272 | 00:23:04.650-00:23:04.890 | DM] Now.
+[u0272 | 00:23:04.650-00:23:04.890 | DM] No.
 [u0273 | 00:23:04.920-00:23:06.750 | Delwath] I see my 21 hits yep.
 [u0274 | 00:23:08.580-00:23:09.900 | Delwath] So that's 10 damage.
 [u0275 | 00:23:11.490-00:23:13.320 | Delwath] there's a there's a 19 hit.
@@ -309,7 +309,7 @@
 [u0309 | 00:24:57.540-00:24:59.790 | Kenzo] Also non binary rope ladder.
 [u0310 | 00:25:00.030-00:25:00.300 | Unknown] that's.
 [u0311 | 00:25:02.010-00:25:03.330 | Kenzo] A male rope ladder too.
-[u0312 | 00:25:03.510-00:25:05.040 | Seeker] isn't that a lot of genitalia on it.
+[u0312 | 00:25:03.510-00:25:05.040 | Seeker] isn’t that a lot of genitalia on it.
 [u0313 | 00:25:05.490-00:25:06.660 | DM] yeah fair enough.
 [u0314 | 00:25:07.830-00:25:10.260 | DM] It has grappled it now has a speed of zero.
 [u0315 | 00:25:12.090-00:25:12.900 | DM] Wellby, you're up.
@@ -319,7 +319,7 @@
 [u0319 | 00:25:36.630-00:25:36.930 | DM] I got.
 [u0320 | 00:25:40.170-00:25:40.920 | DM] That hits.
 [u0321 | 00:25:45.960-00:25:48.330 | Wellby] So it's gonna be 18 plus if there's any other.
-[u0322 | 00:25:48.450-00:25:49.740 | DM] damage Jeff room I got it.
+[u0322 | 00:25:48.450-00:25:49.740 | DM] damage yep I got it.
 [u0323 | 00:25:51.480-00:25:52.650 | DM] I got Kenzo, you're up.
 [u0324 | 00:25:54.330-00:25:55.680 | Kenzo] alrighty I will.
 [u0325 | 00:25:57.660-00:25:59.910 | Kenzo] I guess w over here boom.
@@ -347,7 +347,7 @@
 [u0347 | 00:27:15.420-00:27:16.410 | DM] take out a.
 [u0348 | 00:27:18.270-00:27:23.580 | DM] she's got a short sword she's sort of pulling out as she shifts she's gonna swing at you Wellby.
 [u0349 | 00:27:29.100-00:27:29.790 | DM] and
-[u0350 | 00:27:32.970-00:27:41.730 | DM] {{has gone through}} hits with this short sword, and then going to lunge down and bite at you the bite as {{a 51}}, does that hit.
+[u0350 | 00:27:32.970-00:27:41.730 | DM] is going to hit with this short sword, and then going to lunge down and bite at you the bite as a 51, does that hit.
 [u0351 | 00:27:42.870-00:27:46.650 | Wellby] So i'm gonna Uncanny Dodge the short sword.
 [u0352 | 00:27:47.100-00:27:48.900 | DM] Again, the shortsword, nine.
 [u0353 | 00:27:49.530-00:27:49.860 | Unknown] yeah.
@@ -365,7 +365,7 @@
 [u0365 | 00:28:46.500-00:28:52.560 | DM] Short shorter dwarf i'm with red hair carrying a giant maul like running.
 [u0366 | 00:28:54.780-00:29:02.550 | DM] chasing this this werewolf and is going to run and take a like a massive swing with this huge two handed maul.
 [u0367 | 00:29:04.890-00:29:05.400 | Kenzo] Nice.
-[u0368 | 00:29:05.880-00:29:07.380 | DM] Which is going through hits.
+[u0368 | 00:29:05.880-00:29:07.380 | DM] Which is going to hit.
 [u0369 | 00:29:08.430-00:29:14.640 | DM] And she is going to she's wearing plate Armor she's got this giant maul is just going to smash this werewolf.
 [u0370 | 00:29:15.690-00:29:16.290 | DM] For.
 [u0371 | 00:29:18.630-00:29:20.190 | DM] 11 points of damage.
@@ -409,7 +409,7 @@
 [u0409 | 00:32:05.400-00:32:07.890 | Delwath] I have four hit points left, temp hit points.
 [u0410 | 00:32:15.540-00:32:19.140 | DM] Schwartz, by the way, you need to GM roll your Constitution saving throw to me.
 [u0411 | 00:32:23.460-00:32:24.210 | Wellby] Remember code to the.
-[u0412 | 00:32:25.860-00:32:28.110 | DM] Time type slash GM roll.
+[u0412 | 00:32:25.860-00:32:28.110 | DM] Type type slash GM roll.
 [u0413 | 00:32:33.000-00:32:35.460 | DM] 1d20 Plus, whatever your Con is.
 [u0414 | 00:32:37.620-00:32:38.070 | DM] Okay.
 [u0415 | 00:32:38.580-00:32:42.630 | Wellby] hey can I use, I believe that I still have Bardic Inspiration.
@@ -422,7 +422,7 @@
 [u0422 | 00:33:02.610-00:33:03.150 | Wellby] Is that new.
 [u0423 | 00:33:06.210-00:33:07.530 | DM] We rarely use it.
 [u0424 | 00:33:07.560-00:33:09.240 | DM] On— you barely use it on saving.
-[u0425 | 00:33:10.350-00:33:12.570 | DM] it's {{based on stage}}, you get temporary hit points.
+[u0425 | 00:33:10.350-00:33:12.570 | DM] it's based on saves, you get temporary hit points.
 [u0426 | 00:33:12.840-00:33:13.050 | Unknown] cool.
 [u0427 | 00:33:15.060-00:33:15.570 | Seeker] Nice.
 [u0428 | 00:33:16.980-00:33:21.060 | Seeker] i'm sorry i'm just trying to figure out what to do, because I don't have a lot of.
@@ -468,7 +468,7 @@
 [u0468 | 00:35:37.110-00:35:42.750 | DM] I would say yeah that's fair enough, it can fly over cost you an extra five feet of movement to fly up.
 [u0469 | 00:35:43.320-00:35:45.240 | Seeker] Okay it's kind of like a movement.
 [u0470 | 00:35:45.870-00:35:46.920 | Seeker] it's just going to do, like.
-[u0471 | 00:35:48.240-00:35:49.890 | Seeker] A sweat sweat type attack.
+[u0471 | 00:35:48.240-00:35:49.890 | Seeker] A swat swat type attack.
 [u0472 | 00:35:53.430-00:35:55.290 | Seeker] at the front guy.
 [u0473 | 00:35:56.010-00:35:56.460 | Unknown] Okay.
 [u0474 | 00:35:58.440-00:35:59.010 | Seeker] All.
@@ -507,7 +507,7 @@
 [u0507 | 00:37:41.070-00:37:47.550 | Delwath] Wait hold on hold on wait, I might have a charge hold on to have a charge left and Shatterstorm where do you live, a charge left and Shatterstorm.
 [u0508 | 00:37:48.690-00:37:50.520 | DM] Okay that's a Dex save.
 [u0509 | 00:37:53.250-00:37:54.330 | Delwath] Dex 15 yeah.
-[u0510 | 00:37:54.750-00:37:58.440 | DM] Okay fails, and stacks not happy about this.
+[u0510 | 00:37:54.750-00:37:58.440 | DM] Okay fails, and that’s not happy about this.
 [u0511 | 00:37:58.800-00:38:01.230 | Delwath] Six only six points of damage.
 [u0512 | 00:38:01.620-00:38:07.710 | DM] I got it, but you take six points of damage from the bite and Constitution saving throw.
 [u0513 | 00:38:08.580-00:38:11.400 | Delwath] Finally, got rid of my temp hit points so sad.
@@ -521,7 +521,7 @@
 [u0521 | 00:38:53.580-00:38:57.360 | Delwath] there's a wall between i'm standing in the doorway it.
 [u0522 | 00:38:59.640-00:39:01.860 | Delwath] isn't that isn't there a wall it's hard to see but.
 [u0523 | 00:39:02.070-00:39:03.780 | DM] there's a wall. It can move diagonally.
-[u0524 | 00:39:03.870-00:39:04.500 | DM] Past to do.
+[u0524 | 00:39:03.870-00:39:04.500 | DM] Past you.
 [u0525 | 00:39:05.340-00:39:06.900 | Delwath] That through a wall.
 [u0526 | 00:39:08.730-00:39:09.480 | DM] I mean.
 [u0527 | 00:39:10.830-00:39:13.950 | DM] The rest of you have done move diagonally through walls.
@@ -529,7 +529,7 @@
 [u0529 | 00:39:17.550-00:39:23.640 | Delwath] and the rest of the rest of us move through me, though, because we're allies.
 [u0530 | 00:39:27.690-00:39:34.410 | Delwath] I would like to not well, I mean fair enough maybe, it could get by but that seems like a tight squeeze for a guy with a sword.
 [u0531 | 00:39:37.350-00:39:37.950 | DM] and
-[u0532 | 00:39:40.020-00:39:40.830 | Seeker] drop the sword in it.
+[u0532 | 00:39:40.020-00:39:40.830 | Seeker] Dropped the sword, didn’t it.
 [u0533 | 00:39:41.640-00:39:42.270 | Delwath] No, no, I have.
 [u0534 | 00:39:42.900-00:39:43.170 | Delwath] I have.
 [u0535 | 00:39:45.120-00:39:49.110 | Delwath] Not tried me i'm trying to not let it go through right like.
@@ -585,7 +585,7 @@
 [u0585 | 00:44:12.900-00:44:14.190 | Seeker] I was thinking, I could.
 [u0586 | 00:44:17.010-00:44:17.820 | Seeker] make a gate.
 [u0587 | 00:44:19.470-00:44:21.300 | Seeker] to lock the werewolf into that room.
-[u0588 | 00:44:21.450-00:44:22.890 | DM] So net so hits.
+[u0588 | 00:44:21.450-00:44:22.890 | DM] So that still hits.
 [u0589 | 00:44:23.130-00:44:23.790 | Unknown] The wow.
 [u0590 | 00:44:24.990-00:44:28.020 | Seeker] But now Delwath is in there with me so it's going to be complicated.
 [u0591 | 00:44:29.430-00:44:32.640 | Delwath] crap damage six damage and then my other.
@@ -611,13 +611,13 @@
 [u0611 | 00:45:50.340-00:45:50.940 | DM] Ah.
 [u0612 | 00:45:52.140-00:46:01.320 | Delwath] No I honestly rather not get the attack of opportunity on it, I mean I have moved to step away my turn but then it's gonna be able to attack me.
 [u0613 | 00:46:03.000-00:46:03.360 | Wellby] Welcome to.
-[u0614 | 00:46:04.290-00:46:05.550 | Delwath] Just talk, it's fine.
+[u0614 | 00:46:04.290-00:46:05.550 | Delwath] Just lock, it's fine.
 [u0615 | 00:46:06.000-00:46:09.030 | Seeker] All right, I use performance of creation.
 [u0616 | 00:46:10.380-00:46:11.670 | Seeker] To create a.
 [u0617 | 00:46:15.750-00:46:16.890 | Seeker] finely meshed.
 [u0618 | 00:46:18.840-00:46:25.590 | Seeker] Steel gate that fills the entirety, floor to ceiling wall to wall of the entrance to this room.
-[u0619 | 00:46:27.210-00:46:29.040 | DM] Thanks man or medium.
-[u0620 | 00:46:29.850-00:46:32.160 | Seeker] No, I didn't mean to be as large right.
+[u0619 | 00:46:27.210-00:46:29.040 | DM] Is that small or medium.
+[u0620 | 00:46:29.850-00:46:32.160 | Seeker] No, I think it can be as large right.
 [u0621 | 00:46:33.720-00:46:34.320 | Seeker] Starting at level.
 [u0622 | 00:46:34.410-00:46:35.640 | DM] No you're right sixth level it's.
 [u0623 | 00:46:35.910-00:46:36.630 | DM] it's large.
@@ -642,7 +642,7 @@
 [u0642 | 00:47:28.650-00:47:31.260 | Seeker] All right, here's the gate appearing.
 [u0643 | 00:47:35.010-00:47:39.960 | DM] Nice okay so that's your action bonus action ladder.
 [u0644 | 00:47:41.550-00:47:45.420 | Seeker] The ladder can go right through actually move.
-[u0645 | 00:47:46.260-00:47:49.830 | DM] it's like 6060 feet that can definitely get there.
+[u0645 | 00:47:46.260-00:47:49.830 | DM] it's like 60, 60 feet that can definitely get there.
 [u0646 | 00:47:49.890-00:47:50.250 | Unknown] yeah.
 [u0647 | 00:47:52.350-00:47:53.490 | Seeker] So the ladder shoots.
 [u0648 | 00:47:53.490-00:47:53.910 | Unknown] Through.
@@ -677,14 +677,14 @@
 [u0677 | 00:49:14.820-00:49:15.600 | DM] that's.
 [u0678 | 00:49:16.410-00:49:17.640 | Delwath] Can you make it flame.
 [u0679 | 00:49:18.570-00:49:19.560 | Wellby] No, I use that all.
-[u0680 | 00:49:19.770-00:49:21.540 | DM] These dollars charges already.
+[u0680 | 00:49:19.770-00:49:21.540 | DM] Used all his charges already.
 [u0681 | 00:49:21.900-00:49:22.380 | Wellby] But that's like.
 [u0682 | 00:49:22.530-00:49:23.580 | DM] You get sneak attack.
 [u0683 | 00:49:23.640-00:49:27.300 | DM] Because Delwath is with the ladder, within five feet of that.
 [u0684 | 00:49:29.040-00:49:32.910 | DM] It is going to use uncanny dodge to reduce that damage to half.
 [u0685 | 00:49:33.750-00:49:35.040 | Wellby] Oh it's.
 [u0686 | 00:49:36.390-00:49:38.880 | DM] So that's what 24 that's 11.
-[u0687 | 00:49:41.340-00:49:42.090 | Delwath] Yes, my dad.
+[u0687 | 00:49:41.340-00:49:42.090 | Delwath] Is it dead.
 [u0688 | 00:49:42.780-00:49:43.560 | DM] It's not dead.
 [u0689 | 00:49:44.430-00:49:45.930 | Delwath] doesn't look hurt now I can't see it.
 [u0690 | 00:49:46.020-00:49:47.670 | DM] You can't see Kenzo you're up.
@@ -693,23 +693,23 @@
 [u0693 | 00:50:06.060-00:50:11.670 | DM] yeah I know that's only that's a creature, you can see, you can't you can't turn it on unseen creatures with that.
 [u0694 | 00:50:12.390-00:50:14.340 | Kenzo] move like right here, and then see him.
 [u0695 | 00:50:15.450-00:50:16.440 | DM] No, because he's invisible.
-[u0696 | 00:50:19.470-00:50:22.170 | Kenzo] So what fucking I did see.
+[u0696 | 00:50:19.470-00:50:22.170 | Kenzo] So what the fuck can I do.
 [u0697 | 00:50:24.870-00:50:25.650 | DM] Not a lot.
 [u0698 | 00:50:27.870-00:50:29.520 | Kenzo] i'll say oh I can't Soul Sight him either.
 [u0699 | 00:50:30.390-00:50:30.750 | Unknown] yeah.
 [u0700 | 00:50:32.700-00:50:33.720 | Kenzo] what's the strategy here guys.
 [u0701 | 00:50:35.550-00:50:36.690 | DM] You can always dodge.
 [u0702 | 00:50:37.500-00:50:38.790 | Delwath] To get you anything.
-[u0703 | 00:50:39.360-00:50:40.980 | Wellby] he's the one that customers.
+[u0703 | 00:50:39.360-00:50:40.980 | Wellby] Use the wand that casts.
 [u0704 | 00:50:42.300-00:50:43.050 | Kenzo] can see him, though right.
 [u0705 | 00:50:46.230-00:50:48.300 | Delwath] You can't it's not a spell attack.
 [u0706 | 00:50:48.720-00:50:51.630 | Delwath] spell attacks, you can target invisible creatures can't you.
 [u0707 | 00:50:54.870-00:50:58.440 | DM] don't know that yeah you don't need to be able to see that you can use the wand.
 [u0708 | 00:51:00.480-00:51:01.080 | Kenzo] i'll use a wand.
-[u0709 | 00:51:02.130-00:51:02.970 | Kenzo] Is an arrow it is.
+[u0709 | 00:51:02.130-00:51:02.970 | Kenzo] Acid Arrow it is.
 [u0710 | 00:51:05.280-00:51:06.630 | Delwath] I mean you still have disadvantage.
 [u0711 | 00:51:06.660-00:51:08.640 | DM] You still have disadvantage, you have to roll.
-[u0712 | 00:51:08.910-00:51:10.920 | DM] ashes you miss.
+[u0712 | 00:51:08.910-00:51:10.920 | DM] Actually you miss.
 [u0713 | 00:51:11.460-00:51:11.700 | Unknown] nope.
 [u0714 | 00:51:13.980-00:51:14.850 | DM] nope oh wow.
 [u0715 | 00:51:17.970-00:51:19.200 | DM] It has now seemed to.
@@ -765,8 +765,8 @@
 [u0765 | 00:55:05.040-00:55:06.510 | Riswynn] Oh Casta.
 [u0766 | 00:55:07.860-00:55:09.510 | Riswynn] I can see it now right yep.
 [u0767 | 00:55:11.520-00:55:12.660 | Riswynn] So cast Guiding Bolt.
-[u0768 | 00:55:16.140-00:55:17.850 | Riswynn] third level spell ing just get this list.
-[u0769 | 00:55:19.860-00:55:24.120 | DM] Okay, that just hits crazy is 16.
+[u0768 | 00:55:16.140-00:55:17.850 | Riswynn] third level spell and just get this list.
+[u0769 | 00:55:19.860-00:55:24.120 | DM] Okay, that just hits her AC is 16.
 [u0770 | 00:55:26.040-00:55:27.030 | DM] Roll your damage.
 [u0771 | 00:55:28.560-00:55:30.090 | DM] If you just click on the yeah.
 [u0772 | 00:55:31.980-00:55:47.730 | DM] 18 points of radiant damage is not quite enough, but now you can see she's like panting and like leaning over definitely looking pretty badly hurt at this point kind of looking around a bit in despair at the.
@@ -806,8 +806,8 @@
 [u0806 | 00:57:33.600-00:57:33.900 | Wellby] So.
 [u0807 | 00:57:34.020-00:57:35.100 | DM] Not quite enough so.
 [u0808 | 00:57:35.100-00:57:37.260 | DM] Close so close.
-[u0809 | 00:57:38.820-00:57:39.480 | DM] While you're.
-[u0810 | 00:57:40.800-00:57:41.430 | Wellby] Studying.
+[u0809 | 00:57:38.820-00:57:39.480 | DM] Wellby, you’re.
+[u0810 | 00:57:40.800-00:57:41.430 | Wellby] Steady aim.
 [u0811 | 00:57:42.510-00:57:44.820 | DM] yeah that arrow takes her out.
 [u0812 | 00:57:45.360-00:57:45.870 | Unknown] Nice.
 [u0813 | 00:57:49.470-00:58:07.110 | DM] The last possibly last three werewolves fall dead again as you now look around at the like sort of destroyed front of this building i'm looking out into the street, you can see, this is kind of a pretty.
@@ -846,7 +846,7 @@
 [u0846 | 01:00:30.390-01:00:31.530 | DM] A slight bow.
 [u0847 | 01:00:32.940-01:00:45.060 | DM] And sort of like tips her helmet to you all and Vistra Fireforge, at your service proprietor of the Iron Swan noted adventurer.
 [u0848 | 01:00:46.950-01:00:47.940 | DM] friend of Riswynn.
-[u0849 | 01:00:51.210-01:00:53.370 | Seeker] A friend of hers one is a friend of ours good to meet you.
+[u0849 | 01:00:51.210-01:00:53.370 | Seeker] A friend of Riswynn is a friend of ours good to meet you.
 [u0850 | 01:00:55.530-01:00:57.660 | Kenzo] So Riswynn, you say you've been hunting werewolves.
 [u0851 | 01:01:00.450-01:01:01.470 | Riswynn] I mean we've.
 [u0852 | 01:01:03.000-01:01:04.230 | Riswynn] we've been hearing of.
@@ -883,7 +883,7 @@
 [u0883 | 01:04:01.410-01:04:07.470 | Seeker] Please take no offense but just as a matter of protocol, have you been bitten and, if so, how long ago.
 [u0884 | 01:04:09.330-01:04:09.870 | Riswynn] Oh, be.
 [u0885 | 01:04:13.590-01:04:20.610 | DM] When you ask this Vistra is kind of standing like looking at the plate Armor that she is wearing and the plate Armor that's Riswynn's why I can.
-[u0886 | 01:04:21.720-01:04:26.610 | DM] See, y'all would get some better Armor don't know about these friends of yours, Riswynn.
+[u0886 | 01:04:21.720-01:04:26.610 | DM] Say, y’all ought to get some better Armor don't know about these friends of yours, Riswynn.
 [u0887 | 01:04:27.270-01:04:27.480 | DM] Like.
 [u0888 | 01:04:27.510-01:04:31.440 | DM] Tings on her chest at all, no teeth is going to get through this.
 [u0889 | 01:04:32.550-01:04:33.060 | Seeker] Fair enough.
@@ -915,7 +915,7 @@
 [u0915 | 01:06:17.640-01:06:18.750 | Delwath] Maybe get these.
 [u0916 | 01:06:20.340-01:06:22.710 | Delwath] dead bodies somewhere and.
 [u0917 | 01:06:25.080-01:06:26.700 | Delwath] Perhaps we can see what else is here.
-[u0918 | 01:06:27.210-01:06:30.390 | Seeker] We keep put them behind the gate while the gate lasts.
+[u0918 | 01:06:27.210-01:06:30.390 | Seeker] We can put them behind the gate while the gate lasts.
 [u0919 | 01:06:31.680-01:06:32.760 | DM] With search it lasts for.
 [u0920 | 01:06:32.760-01:06:33.660 | DM] Three hours.
 [u0921 | 01:06:37.110-01:06:38.760 | Seeker] I mean they'll wake up or anything but.
@@ -925,7 +925,7 @@
 [u0925 | 01:06:45.510-01:06:45.840 | Delwath] yeah.
 [u0926 | 01:06:45.870-01:06:47.670 | Kenzo] Like what the Fuck is going on.
 [u0927 | 01:06:48.690-01:06:50.640 | Kenzo] what's up that's the wrong time to talk about this, but.
-[u0928 | 01:06:52.020-01:06:54.000 | Delwath] Never the wrong time for questions like that kids.
+[u0928 | 01:06:52.020-01:06:54.000 | Delwath] Never the wrong time for questions like that Kenzo.
 [u0929 | 01:06:55.050-01:06:55.770 | Wellby] This money.
 [u0930 | 01:06:57.450-01:06:59.970 | Delwath] mean you might ask them every 10 minutes, but you know.
 [u0931 | 01:07:00.630-01:07:02.790 | Wellby] just be a run of the mill werewolf cult, you know.
@@ -968,8 +968,8 @@
 [u0968 | 01:09:04.980-01:09:05.490 | Seeker] Good.
 [u0969 | 01:09:07.290-01:09:07.800 | DM] job here.
 [u0970 | 01:09:11.850-01:09:13.170 | DM] So who is searching what.
-[u0971 | 01:09:16.290-01:09:18.180 | Wellby] Do you still have to Detect Magic conference outcome.
-[u0972 | 01:09:19.200-01:09:21.390 | Delwath] 1010 minutes and it'll be back, but.
+[u0971 | 01:09:16.290-01:09:18.180 | Wellby] Do you still have to Detect Magic up or has that gone.
+[u0972 | 01:09:19.200-01:09:21.390 | Delwath] 10, 10 minutes and it'll be back, but.
 [u0973 | 01:09:26.190-01:09:27.060 | Unknown] We want to take the time.
 [u0974 | 01:09:28.230-01:09:29.580 | Kenzo] As he goes back to praying to the gods.
 [u0975 | 01:09:30.780-01:09:32.430 | Wellby] will go upstairs and search the.
@@ -1009,7 +1009,7 @@
 [u1009 | 01:11:44.760-01:11:47.220 | Kenzo] For the party member, the ladder maybe.
 [u1010 | 01:11:47.790-01:11:48.420 | Kenzo] You know what.
 [u1011 | 01:11:48.690-01:11:49.080 | Seeker] How news.
-[u1012 | 01:11:49.500-01:11:52.890 | Kenzo] ladder's trust with the power of the chapter power is the ladder.
+[u1012 | 01:11:49.500-01:11:52.890 | Kenzo] ladder's trust with the power of the scepter power is the ladder.
 [u1013 | 01:11:55.380-01:11:59.100 | Kenzo] The ladder should be the world, this should be the designated holder of the scepter.
 [u1014 | 01:11:59.730-01:12:00.420 | Kenzo] From here on out.
 [u1015 | 01:12:00.750-01:12:05.070 | Wellby] sounds good, oh no i'm just flashing to an image of like an army of rope ladder.
@@ -1027,7 +1027,7 @@
 [u1027 | 01:12:51.720-01:12:57.240 | Riswynn] I was paying attention to lay my hands on the seat and Kenzo and saying some prayers What did you say to roll.
 [u1028 | 01:12:57.780-01:12:59.610 | DM] You don't have to do anything yet i'm.
 [u1029 | 01:12:59.820-01:13:00.690 | Kenzo] Good I are.
-[u1030 | 01:13:00.840-01:13:07.110 | DM] You're busy doing your prayer thing i'm going to do with the searching first and i'll come back to the prayers OK so i'm.
+[u1030 | 01:13:00.840-01:13:07.110 | DM] You're busy doing your prayer thing i'm going to deal with the searching first and i'll come back to the prayers OK so i'm.
 [u1031 | 01:13:08.400-01:13:12.330 | DM] A Delwath and Seeker, you know you're.
 [u1032 | 01:13:13.770-01:13:20.220 | DM] A Seeker you're able to like you know piece together all of the all of the papers there's like a.
 [u1033 | 01:13:21.480-01:13:27.690 | DM] sheaf of notes, you can see there's some calendars it's all in a language you do not read.
@@ -1049,7 +1049,7 @@
 [u1049 | 01:14:33.780-01:14:44.580 | DM] loosely translates as when the sixth moon rises in the Betrayer's sky when the deepest echo of madness is nigh in the ancient cave of the Mad One's soul.
 [u1050 | 01:14:45.180-01:14:55.710 | DM] 13 brethren and 13 prayers 13 cold iron spears prepared will bring forth the howl of empty despair and Jinnik's curse will claim the land.
 [u1051 | 01:14:57.210-01:14:57.600 | Seeker] Oh.
-[u1052 | 01:14:57.660-01:15:10.470 | DM] And then there's like a whole bunch of pages of notes that you said all seem to be like i'm like lacuna on this prophecy or whatever it is, but you just kind of glance through if you want to take the time you can read them and more.
+[u1052 | 01:14:57.660-01:15:10.470 | DM] And then there's like a whole bunch of pages of notes that you said all seem to be like i'm like like notes on this prophecy or whatever it is, but you just kind of glance through if you want to take the time you can read them and more.
 [u1053 | 01:15:10.590-01:15:14.250 | Seeker] Later. Saw 13 spears somewhere didn't we where was that.
 [u1054 | 01:15:14.400-01:15:21.510 | DM] downstairs a diagram of 13 spears in the trap masters basement didn't.
 [u1055 | 01:15:21.540-01:15:22.560 | DM] There was also the actual.
@@ -1077,7 +1077,7 @@
 [u1077 | 01:16:37.110-01:16:39.930 | DM] And then there's the sheaf of papers.
 [u1078 | 01:16:42.780-01:16:43.650 | DM] So what do you take.
 [u1079 | 01:16:46.410-01:16:50.910 | Delwath] Every thing, I think, does the trap master not have anything on her.
-[u1080 | 01:16:51.900-01:17:01.290 | DM] The trap master is not just the shortsword is not magical and her armor {{is not carrying anything}} but you already looted her chest.
+[u1080 | 01:16:51.900-01:17:01.290 | DM] The trap master is not just the shortsword is not magical and her armor is not carrying anything but you already looted her chest.
 [u1081 | 01:17:03.060-01:17:03.660 | DM] In the.
 [u1082 | 01:17:05.850-01:17:08.700 | DM] In there like dungeon room before.
 [u1083 | 01:17:09.960-01:17:11.580 | Delwath] But did we find it I don't remember what we found.
@@ -1117,10 +1117,10 @@
 [u1117 | 01:19:52.680-01:19:54.240 | DM] Okay, and you're taking the coins.
 [u1118 | 01:19:55.770-01:19:58.530 | Wellby] The gold, but I think not the copper okay.
 [u1119 | 01:20:01.320-01:20:02.490 | Kenzo] we're liberating the coins.
-[u1120 | 01:20:08.340-01:20:16.560 | DM] kept it against the robot is about all that you find i'm back to Riswynn and Kenzo um So what is your.
+[u1120 | 01:20:08.340-01:20:16.560 | DM] Okay, that again is about all that you find i'm back to Riswynn and Kenzo um So what is your.
 [u1121 | 01:20:18.360-01:20:25.650 | DM] What is your connection to your life your history that you're using as the focus for this ritual.
 [u1122 | 01:20:27.930-01:20:32.400 | DM] Okay um so Riswynn like holds.
-[u1123 | 01:20:32.880-01:20:34.620 | Kenzo] {{his son good Riley}} can put my hands up.
+[u1123 | 01:20:32.880-01:20:34.620 | Kenzo] Sounds good, all right, I can put my hands up.
 [u1124 | 01:20:36.030-01:20:36.510 | DM] Maybe.
 [u1125 | 01:20:37.680-01:20:38.010 | DM] um.
 [u1126 | 01:20:40.410-01:20:50.190 | DM] You know begins to cast the spell and offers up a prayer to the dwarven gods the traveler the.
@@ -1179,7 +1179,7 @@
 [u1179 | 01:25:03.000-01:25:08.910 | DM] To correct, yes, we can go back to the archives, I have my notes, I have.
 [u1180 | 01:25:10.500-01:25:12.780 | DM] My my room there.
 [u1181 | 01:25:14.970-01:25:15.810 | DM] Definitely.
-[u1182 | 01:25:17.790-01:25:22.320 | DM] On me, no, I was taken there's to not bring anything.
+[u1182 | 01:25:17.790-01:25:22.320 | DM] On me, no, I was taken did not bring anything.
 [u1183 | 01:25:23.160-01:25:27.660 | Riswynn] I didn't think that they would have conveniently carried along your possessions, for your comfort.
 [u1184 | 01:25:31.470-01:25:34.440 | DM] It may be Maybe you can come back to the archives with us.
 [u1185 | 01:25:35.640-01:25:36.570 | DM] With with me.
@@ -1220,7 +1220,7 @@
 [u1220 | 01:28:38.820-01:28:44.490 | DM] that's what the wisdom check if it's equivalent to Soul Sight but you can't see yourself right but.
 [u1221 | 01:28:44.520-01:28:46.860 | Kenzo] I disagree, I think that that should be, I think.
 [u1222 | 01:28:47.190-01:28:50.580 | Delwath] You should be able to let go why can't why can't you Soul Sight yourself.
-[u1223 | 01:28:53.670-01:28:55.350 | DM] I have not had a Soul Sight works.
+[u1223 | 01:28:53.670-01:28:55.350 | DM] That’s not how Soul Sight works.
 [u1224 | 01:28:56.790-01:28:59.460 | Riswynn] in tune with themselves anyway, I think we're fine yeah.
 [u1225 | 01:29:00.240-01:29:03.300 | Delwath] I was just thinking, maybe you could check everybody else.
 [u1226 | 01:29:04.170-01:29:08.190 | Kenzo] Oh yeah yeah that's a great idea yeah i'd love to Soul Sight everybody did so.
@@ -1230,7 +1230,7 @@
 [u1230 | 01:29:27.210-01:29:29.700 | DM] In case Riswynn's magic is that strong.
 [u1231 | 01:29:31.680-01:29:32.220 | Riswynn] helps you out.
 [u1232 | 01:29:32.250-01:29:32.580 | Unknown] there.
-[u1233 | 01:29:35.580-01:29:38.070 | Kenzo] yeah can I Soul Sight everybody to see to see her baby.
+[u1233 | 01:29:35.580-01:29:38.070 | Kenzo] yeah can I Soul Sight everybody to see to see if maybe.
 [u1234 | 01:29:38.250-01:29:42.150 | DM] i'm sure so in order to sense.
 [u1235 | 01:29:44.640-01:29:49.800 | DM] In order to have a chance to detect lycanthropy you need to use a ki when you Soul Sight to.
 [u1236 | 01:29:50.820-01:29:51.780 | DM] Do the.
@@ -1248,7 +1248,7 @@
 [u1248 | 01:30:30.150-01:30:32.160 | Delwath] yeah and then you could Soul Sight us.
 [u1249 | 01:30:33.480-01:30:33.840 | Kenzo] works.
 [u1250 | 01:30:34.140-01:30:36.840 | Seeker] Do you get ki from the short or long rest short.
-[u1251 | 01:30:37.140-01:30:39.330 | Kenzo] sleeve shirt yes sure so 10 minutes long.
+[u1251 | 01:30:37.140-01:30:39.330 | Kenzo] Short, yes, short so 10 minutes long.
 [u1252 | 01:30:40.080-01:30:40.800 | DM] It's an hour.
 [u1253 | 01:30:42.450-01:30:42.960 | Delwath] And we can.
 [u1254 | 01:30:43.020-01:30:45.420 | Delwath] Talk while you're short resting.
@@ -1304,7 +1304,7 @@
 [u1304 | 01:34:05.370-01:34:09.090 | Kenzo] How far away, Tim is the is like the building where the.
 [u1305 | 01:34:09.870-01:34:22.920 | DM] I mean you're sort of at the northern end of towns, but but Tokra is not big it's probably less than half a mile to the Center of town from here and that Center of town is like the Plaza where there's like the archive.
 [u1306 | 01:34:22.950-01:34:23.730 | Delwath] For right.
-[u1307 | 01:34:25.680-01:34:36.270 | Kenzo] How why don't um, why does why don't I go with I could just go by myself, but also, perhaps with what's the name of it and keep rockin this.
+[u1307 | 01:34:25.680-01:34:36.270 | Kenzo] How why don't um, why does why don't I go with I could just go by myself, but also, perhaps with what's the name of the innkeeper, rockin this.
 [u1308 | 01:34:36.390-01:34:37.170 | Unknown] Vistra.
 [u1309 | 01:34:38.400-01:34:39.240 | DM] Fireforge.
 [u1310 | 01:34:40.710-01:34:45.120 | Kenzo] I could go with Vistra since we've got some are they at least have some more.
@@ -1333,15 +1333,15 @@
 [u1333 | 01:36:08.280-01:36:12.060 | Wellby] i'd like to take another crack looking through this House we've got a key and no lock.
 [u1334 | 01:36:12.930-01:36:14.070 | Wellby] It really bugs me that.
 [u1335 | 01:36:14.760-01:36:15.990 | Wellby] we've got a key and no lock.
-[u1336 | 01:36:17.280-01:36:22.350 | Kenzo] Why don't you keep looking actually want to rest here, for now, or I can also make sure it all about werewolves before I head out.
+[u1336 | 01:36:17.280-01:36:22.350 | Kenzo] Why don't you keep looking actually want to rest here, for now, or I can also make sure you’re all not werewolves before I head out.
 [u1337 | 01:36:28.290-01:36:28.740 | Riswynn] True.
 [u1338 | 01:36:30.930-01:36:31.980 | Kenzo] Some can be extra rest here.
 [u1339 | 01:36:33.270-01:36:36.600 | DM] yeah I mean it'll take an hour, but you can definitely start rest here.
 [u1340 | 01:36:39.510-01:36:39.750 | Kenzo] sure.
 [u1341 | 01:36:40.470-01:36:40.830 | Delwath] well.
 [u1342 | 01:36:41.010-01:36:43.650 | Delwath] I mean Wellby you don't get much back from a short rest right.
-[u1343 | 01:36:45.120-01:36:48.390 | Wellby] i'm about halfway point so i'm not God awful.
-[u1344 | 01:36:48.990-01:36:51.180 | Delwath] i'm just gonna heal us, right, Riswynn.
+[u1343 | 01:36:45.120-01:36:48.390 | Wellby] i'm about half hit points so i'm not God awful.
+[u1344 | 01:36:48.990-01:36:51.180 | Delwath] You were just gonna heal us, right, Riswynn.
 [u1345 | 01:36:52.260-01:37:02.310 | Riswynn] I well I, and then I heard, we were going to do a lot of resting, and so I wanted to see if there is anybody who could like make it to a long rest or who wouldn't be restored by a long rest.
 [u1346 | 01:37:07.290-01:37:13.500 | Delwath] um I could just use it, I mean if if you want to save your spells i'm happy I don't think we need.
 [u1347 | 01:37:13.590-01:37:17.070 | Riswynn] i'm happy to cast a spell on one or two people, I just don't want to do like five.
@@ -1384,7 +1384,7 @@
 [u1384 | 01:39:32.160-01:39:34.740 | DM] you're getting enhanced ability, you have that.
 [u1385 | 01:39:35.340-01:39:36.480 | Riswynn] I have guidance.
 [u1386 | 01:39:38.310-01:39:39.420 | DM] Or you could guidance them.
-[u1387 | 01:39:42.000-01:39:44.220 | DM] Except that you're like Catholics.
+[u1387 | 01:39:42.000-01:39:44.220 | DM] Except that you're like casting this.
 [u1388 | 01:39:45.450-01:39:45.690 | DM] You.
 [u1389 | 01:39:46.080-01:39:48.990 | DM] Are you like going around, are you.
 [u1390 | 01:39:50.790-01:39:51.930 | DM] helping him search.
@@ -1392,7 +1392,7 @@
 [u1392 | 01:39:59.670-01:40:01.650 | DM] I mean you're pretty full at the moment.
 [u1393 | 01:40:01.950-01:40:02.430 | Riswynn] yeah just.
 [u1394 | 01:40:02.460-01:40:08.790 | DM] You get back Channel Divinity but yeah you know, usually use your channel because it's like.
-[u1395 | 01:40:09.030-01:40:10.530 | Riswynn] Well, I was gonna use one to restore {{tourists}}.
+[u1395 | 01:40:09.030-01:40:10.530 | Riswynn] Well, I was gonna use one to restore tourists.
 [u1396 | 01:40:11.970-01:40:13.500 | DM] yeah you could do that.
 [u1397 | 01:40:19.290-01:40:26.310 | DM] Right so on the top floor Wellby you're like pretty convinced there's nothing I mean you can tell just by the sort of.
 [u1398 | 01:40:28.080-01:40:33.300 | DM] shape of the building and the weight like you can sort of way the walls are set up there's like not.
@@ -1456,7 +1456,7 @@
 [u1456 | 01:45:54.210-01:45:56.700 | Seeker] lucky for us it's empty like hit the gas.
 [u1457 | 01:45:58.050-01:45:59.130 | DM] You both take.
 [u1458 | 01:45:59.130-01:46:01.500 | DM] 24 points of poison damage.
-[u1459 | 01:46:03.120-01:46:03.510 | Riswynn] JEREMY.
+[u1459 | 01:46:03.120-01:46:03.510 | Riswynn] Damn it.
 [u1460 | 01:46:03.600-01:46:07.380 | DM] As the choking gas pours out and begins to.
 [u1461 | 01:46:08.940-01:46:11.490 | DM] sort of sink down to the floor.
 [u1462 | 01:46:14.250-01:46:23.490 | DM] It is um it's like hanging there if you climb up onto the table, you can get out of it um.
@@ -1472,10 +1472,10 @@
 [u1472 | 01:47:09.000-01:47:19.290 | Kenzo] They it should be able to hold their breath longer than five seconds that's that's just not true, like i'm like a normal dude I can I can I do this regularly I can hold my breath for a minute 30 seconds.
 [u1473 | 01:47:19.440-01:47:20.250 | DM] it's not that.
 [u1474 | 01:47:20.310-01:47:24.030 | DM] it's not breathing it that that kills, it's skin contact.
-[u1475 | 01:47:24.690-01:47:27.270 | Kenzo] Oh yeah your thoughts.
+[u1475 | 01:47:24.690-01:47:27.270 | Kenzo] Oh yeah you’re fucked.
 [u1476 | 01:47:30.090-01:47:30.690 | DM] Are you doing.
 [u1477 | 01:47:31.710-01:47:32.220 | Kenzo] i'm.
-[u1478 | 01:47:32.340-01:47:34.080 | Riswynn] Only class i'll jump on the table.
+[u1478 | 01:47:32.340-01:47:34.080 | Riswynn] Holy crap i'll jump on the table.
 [u1479 | 01:47:35.040-01:47:36.600 | DM] Okay ah.
 [u1480 | 01:47:38.490-01:47:42.150 | DM] Wellby make a constitution saving throw with advantage.
 [u1481 | 01:47:43.980-01:47:44.370 | Wellby] gonna help.
@@ -1483,7 +1483,7 @@
 [u1483 | 01:47:47.880-01:47:49.590 | DM] Now 15 helps.
 [u1484 | 01:47:51.360-01:47:52.440 | DM] As the.
 [u1485 | 01:47:53.610-01:47:54.030 | DM] The.
-[u1486 | 01:47:55.680-01:48:04.590 | DM] thickness of the poison of this gas is i'm thinking, where you are Riswynn and it seems to be i'm.
+[u1486 | 01:47:55.680-01:48:04.590 | DM] thickness of the poison of this gas is thinning, where you are Riswynn and it seems to be i'm.
 [u1487 | 01:48:05.670-01:48:12.690 | DM] Gathering beneath the table, but you're now above it so you're unaffected but also don't have a clear path to exit this room.
 [u1488 | 01:48:13.800-01:48:14.340 | DM] While doing.
 [u1489 | 01:48:15.360-01:48:17.550 | Riswynn] We need Seeker's ladder in here.
@@ -1555,7 +1555,7 @@
 [u1555 | 01:52:18.810-01:52:19.680 | Kenzo] Wait but she.
 [u1556 | 01:52:19.980-01:52:22.050 | Kenzo] Founded chick.
 [u1557 | 01:52:22.290-01:52:23.310 | Delwath] Should we help Riswynn.
-[u1558 | 01:52:24.420-01:52:25.350 | Seeker] Michelle Riswynn.
+[u1558 | 01:52:24.420-01:52:25.350 | Seeker] We should help Riswynn.
 [u1559 | 01:52:25.560-01:52:27.060 | Wellby] Oh yes, yes, definitely.
 [u1560 | 01:52:29.010-01:52:29.910 | Wellby] Probably okay oh.
 [u1561 | 01:52:30.810-01:52:31.560 | Kenzo] Wait what.
@@ -1611,7 +1611,7 @@
 [u1611 | 01:55:36.180-01:55:37.800 | DM] Used today I guess used.
 [u1612 | 01:55:37.800-01:55:38.250 | DM] It yeah.
 [u1613 | 01:55:39.300-01:55:42.150 | Seeker] yeah, which is how Riswynn found us in the first place so.
-[u1614 | 01:55:46.710-01:55:48.480 | DM] The giant flies and recharged yet.
+[u1614 | 01:55:46.710-01:55:48.480 | DM] The giant fly hasn’t recharged yet.
 [u1615 | 01:55:49.200-01:55:49.500 | Delwath] I mean.
 [u1616 | 01:55:50.040-01:55:54.180 | Delwath] I can cast fly it's not really that hard if I need to.
 [u1617 | 01:55:56.970-01:55:59.820 | DM] You could definitely fly overhead and you could carry.
@@ -1637,7 +1637,7 @@
 [u1637 | 01:57:25.950-01:57:29.430 | Delwath] Well, I can get my spells back by just resting for another hour.
 [u1638 | 01:57:31.950-01:57:34.440 | Delwath] To it so you know okay um.
 [u1639 | 01:57:36.660-01:57:37.680 | Delwath] I will cast fly.
-[u1640 | 01:57:39.420-01:57:44.160 | DM] So Riswynn just hold tight for 20 minutes somebody else Hello will be there in 20 minutes.
+[u1640 | 01:57:39.420-01:57:44.160 | DM] So Riswynn just hold tight for 20 minutes somebody else will be there in 20 minutes.
 [u1641 | 01:57:44.760-01:57:48.090 | Delwath] We can that's why I was asking, can we like i'll go down and.
 [u1642 | 01:57:48.480-01:57:49.830 | Delwath] We can have a conversation.
 [u1643 | 01:57:49.830-01:57:50.310 | Delwath] Right like.
@@ -1645,9 +1645,9 @@
 [u1645 | 01:57:58.140-01:58:07.260 | DM] And there's like 10 feet around the door has like thin-ish gas like you could step into it, you have advantage on your saving throw, but you would still.
 [u1646 | 01:58:07.620-01:58:09.360 | Delwath] Potentially yeah yeah.
 [u1647 | 01:58:12.390-01:58:12.960 | Delwath] So I will.
-[u1648 | 01:58:13.020-01:58:17.160 | DM] Yes, that is pretty low to the ground teacher so like you can easily fly above.
+[u1648 | 01:58:13.020-01:58:17.160 | DM] Yes, that is pretty low to the ground too so like you can easily fly above.
 [u1649 | 01:58:17.880-01:58:18.690 | Delwath] I'll cast fly.
-[u1650 | 01:58:19.800-01:58:21.270 | Delwath] i'll take care of flute.
+[u1650 | 01:58:19.800-01:58:21.270 | Delwath] i'll take your flute.
 [u1651 | 01:58:21.540-01:58:21.990 | Kenzo] Wellby.
 [u1652 | 01:58:23.550-01:58:27.720 | Delwath] Wait but I can't see it, none of us can get.
 [u1653 | 01:58:29.700-01:58:35.520 | Delwath] How far as How far is okay if i'm standing not in the gas, for I guess five if i'm standing not in the gas.
@@ -1681,7 +1681,7 @@
 [u1681 | 02:00:31.320-02:00:33.810 | DM] Okay um you.
 [u1682 | 02:00:38.190-02:00:45.480 | DM] Okay, you grab you know you you grab what you can grab you pretty sure it's not everything that was in the chest.
 [u1683 | 02:00:46.680-02:00:47.160 | DM] um.
-[u1684 | 02:00:49.020-02:00:51.450 | DM] But this is about carrie.
+[u1684 | 02:00:49.020-02:00:51.450 | DM] But this is about carrying.
 [u1685 | 02:00:54.420-02:01:02.160 | DM] And you all retreat now having Those are the three of you who short rested now can you finish your short rests.
 [u1686 | 02:01:04.740-02:01:07.080 | Delwath] At this time, to finish the short rest before I can.
 [u1687 | 02:01:07.110-02:01:07.680 | DM] Before you.
@@ -1718,14 +1718,14 @@
 [u1718 | 02:02:37.680-02:02:38.400 | Seeker] You would be.
 [u1719 | 02:02:39.420-02:02:42.480 | Kenzo] I stared into your soul Wellby and.
 [u1720 | 02:02:43.200-02:02:47.730 | DM] He does not seem to have any corrupting influence either.
-[u1721 | 02:02:48.180-02:02:50.730 | Kenzo] Unfortunately, it appears that you {{have been infected}}.
+[u1721 | 02:02:48.180-02:02:50.730 | Kenzo] Unfortunately, it appears that you haven’t been infected.
 [u1722 | 02:03:00.900-02:03:01.680 | Kenzo] Alright Seeker.
 [u1723 | 02:03:01.770-02:03:02.730 | Kenzo] let's have a look at you.
 [u1724 | 02:03:06.750-02:03:07.770 | DM] you're rolling really well.
 [u1725 | 02:03:08.640-02:03:09.690 | Kenzo] yeah I do have a plus six.
 [u1726 | 02:03:09.960-02:03:11.220 | DM] He also seems.
 [u1727 | 02:03:12.660-02:03:15.570 | DM] Unaffected by this curse.
-[u1728 | 02:03:16.170-02:03:21.030 | Kenzo] Even this week bigger, it seems that seems that all three of you have managed to avoid.
+[u1728 | 02:03:16.170-02:03:21.030 | Kenzo] Even the Seeker, it seems that seems that all three of you have managed to avoid.
 [u1729 | 02:03:22.500-02:03:23.700 | Kenzo] Joining the werewolf club.
 [u1730 | 02:03:24.300-02:03:26.370 | Delwath] Can we take a short break guys yeah.
 [u1731 | 02:03:27.180-02:03:27.570 | Unknown] sure.
@@ -1733,7 +1733,7 @@
 [u1733 | 02:03:34.770-02:03:36.690 | Seeker] would have been pretty hilarious but okay.
 [u1734 | 02:03:37.410-02:03:40.680 | DM] Well Kenzo was a werewolf just got cured.
 [u1735 | 02:03:41.040-02:03:41.580 | Seeker] that's true to.
-[u1736 | 02:03:43.380-02:03:46.830 | Kenzo] relation I'm taking an antigen test right now see what happens.
+[u1736 | 02:03:43.380-02:03:46.830 | Kenzo] Congratulations I'm taking an antigen test right now see what happens.
 [u1737 | 02:03:48.810-02:03:50.730 | DM] I will be very impressed F.
 [u1738 | 02:03:52.110-02:03:52.500 | DM] tested.
 [u1739 | 02:03:52.530-02:03:53.250 | Unknown] negative.
@@ -1747,13 +1747,13 @@
 [u1747 | 02:04:31.830-02:04:33.150 | Seeker] I do yeah no problem.
 [u1748 | 02:04:33.690-02:04:35.610 | Kenzo] Thank you so much man yeah, of course.
 [u1749 | 02:04:38.220-02:04:39.660 | Kenzo] yeah all right.
-[u1750 | 02:04:42.090-02:04:43.740 | DM] Watch, a new play.
+[u1750 | 02:04:42.090-02:04:43.740 | DM] What should Hannu play.
 [u1751 | 02:04:44.760-02:04:45.870 | Kenzo] Oh that's a great question.
-[u1752 | 02:04:47.310-02:04:53.910 | Seeker] I think we should just Dave just send an email to TIM and I knew to have them.
+[u1752 | 02:04:47.310-02:04:53.910 | Seeker] I think we should just Dave just send an email to TIM and Hannu to have them.
 [u1753 | 02:04:54.420-02:04:55.380 | Seeker] Just do a one yeah.
 [u1754 | 02:04:56.550-02:04:56.820 | Kenzo] yeah.
 [u1755 | 02:04:56.850-02:04:57.720 | Seeker] They can do one on one.
-[u1756 | 02:04:57.900-02:05:15.810 | Kenzo] As well other option, the other option which could also be fun is we do with new just like a separate thing we just like what we play something else sometime that's just like potentially its own thing and so that's another option, although I mean I would you know, having him guests.
+[u1756 | 02:04:57.900-02:05:15.810 | Kenzo] As well other option, the other option which could also be fun is we do with Hannu just like a separate thing we just like what we play something else sometime that's just like potentially its own thing and so that's another option, although I mean I would you know, having him guests.
 [u1757 | 02:05:17.040-02:05:17.370 | Kenzo] In town.
 [u1758 | 02:05:17.760-02:05:20.790 | DM] yeah I mean i'd be happy with anything.
 [u1759 | 02:05:21.600-02:05:22.290 | Kenzo] Eric, what do you think.
@@ -1762,22 +1762,22 @@
 [u1762 | 02:05:34.320-02:05:35.430 | Seeker] yeah just see how it goes.
 [u1763 | 02:05:36.660-02:05:37.500 | Seeker] I get a really fun.
 [u1764 | 02:05:38.310-02:05:38.970 | Kenzo] yeah he's he's.
-[u1765 | 02:05:39.150-02:05:48.060 | Kenzo] he's a pro he's like such a pro I mean he was like a hardcore like harper and like me he's massively into our personalities in a very nice way.
+[u1765 | 02:05:39.150-02:05:48.060 | Kenzo] he's a pro he's like such a pro I mean he was like a hardcore like LARPer and like me he's massively into our personalities in a very nice way.
 [u1766 | 02:05:50.490-02:05:53.010 | Seeker] So yes, if he and TIM just riff on some ideas.
 [u1767 | 02:05:53.100-02:05:55.530 | DM] They can come up with so yeah i'm sure we can come up with something.
 [u1768 | 02:05:56.370-02:05:59.490 | Kenzo] All right, i'll do that i'll do that that's gonna be fun.
-[u1769 | 02:06:01.080-02:06:03.420 | Seeker] So did you give him some telling our backstory or.
+[u1769 | 02:06:01.080-02:06:03.420 | Seeker] So did you give him some Taelgar backstory or.
 [u1770 | 02:06:04.320-02:06:13.440 | Kenzo] I actually have not given a lot of detail, she just knows approximately that there was like a campaign that I played in we ended it, they were doing something else, like you said in the far future you know, etc, so.
-[u1771 | 02:06:14.190-02:06:24.900 | Kenzo] he's got some ideas but 10 had new would be a great person, if you wanted to reveal like more of like the secrets that you know we don't even know about he he is such a.
+[u1771 | 02:06:14.190-02:06:24.900 | Kenzo] he's got some ideas but Tim, Hannu would be a great person, if you wanted to reveal like more of like the secrets that you know we don't even know about he he is such a.
 [u1772 | 02:06:25.650-02:06:36.000 | Kenzo] Like obviously you know world class world builder he might have some ideas like some really, really fun ideas on like you know how to how to add some.
 [u1773 | 02:06:36.030-02:06:38.550 | Seeker] Interesting enough together the crazy shit that.
 [u1774 | 02:06:39.060-02:06:43.140 | Kenzo] yeah yeah yeah oh it'd be a fun idea sparring partner.
 [u1775 | 02:06:44.700-02:06:45.630 | Riswynn] Where do you know i'm from.
-[u1776 | 02:06:48.420-02:07:01.110 | Kenzo] I know I knew I think I know I know I know i'm through joey ITO my old my old boss at the media lab he had he would like come to visible, for some reason and then joey was like hey you should be this guy and I was, like all right.
+[u1776 | 02:06:48.420-02:07:01.110 | Kenzo] I know Hannu, I think I know I know I know i'm through Joi Ito my old my old boss at the media lab he had he would like come to visit, for some reason and then Joi was like hey you should meet this guy and I was, like all right.
 [u1777 | 02:07:01.920-02:07:09.030 | Seeker] Oh, and he may be, Kate doesn't have the context, he is a SCI fi author of whom at least i'm a big fan i've read all these books.
 [u1778 | 02:07:09.840-02:07:11.190 | Kenzo] i've read all these books.
 [u1779 | 02:07:11.790-02:07:13.770 | Seeker] Well there's the the trilogy the.
-[u1780 | 02:07:14.220-02:07:15.330 | Kenzo] Quantum Thief Rhea.
+[u1780 | 02:07:14.220-02:07:15.330 | Kenzo] Quantum Thief yeah.
 [u1781 | 02:07:15.360-02:07:17.370 | Seeker] Quantum Thief too long and i've just read remember.
 [u1782 | 02:07:17.370-02:07:19.050 | Kenzo] Land um.
 [u1783 | 02:07:19.350-02:07:21.750 | Seeker] I think the best one is the first Quantum Thief book.
@@ -1789,10 +1789,10 @@
 [u1789 | 02:07:36.960-02:07:37.500 | Seeker] He knew.
 [u1790 | 02:07:37.920-02:07:39.090 | Seeker] He personally for years.
 [u1791 | 02:07:39.090-02:07:39.450 | Unknown] Actually.
-[u1792 | 02:07:40.650-02:07:46.170 | Seeker] I found an email at some point I forget why I was like I wrote to you in like 2014 is like oh it's so cool these checks up.
+[u1792 | 02:07:40.650-02:07:46.170 | Seeker] I found an email at some point I forget why I was like I wrote to you in like 2014 is like oh it's so cool this checks out.
 [u1793 | 02:07:52.290-02:07:53.910 | Seeker] yeah someone was was very entertaining.
 [u1794 | 02:07:59.040-02:07:59.580 | Kenzo] Use the restroom.
-[u1795 | 02:08:25.980-02:08:34.350 | Seeker] slightly wrong, it was 2015 but I did I, there is an email from me to Kong where i'm like oh yeah You should read this book quantum thief by hundreds and maybe.
+[u1795 | 02:08:25.980-02:08:34.350 | Seeker] slightly wrong, it was 2015 but I did I, there is an email from me to Kong where i'm like oh yeah You should read this book quantum thief by Hannu Rajaniemi.
 [u1796 | 02:08:39.270-02:08:40.920 | DM] i'm gonna have to look up the is.
 [u1797 | 02:08:52.080-02:08:56.790 | DM] Oh, this is like this, this is from what Summer, Summerland is fairly new right.
 [u1798 | 02:08:59.400-02:09:00.780 | Seeker] yeah that's from just a couple years ago.
@@ -1813,7 +1813,7 @@
 [u1813 | 02:10:19.050-02:10:20.400 | Kenzo] Now about Oh, did you really.
 [u1814 | 02:10:20.820-02:10:21.750 | Kenzo] Can you read it to me.
 [u1815 | 02:10:21.990-02:10:24.090 | Seeker] I just did it from 2015.
-[u1816 | 02:10:26.550-02:10:39.000 | Seeker] People living in the uber yet society on Mars have two types of memory, in addition to a traditional personal memory there's the XO memory, which can be accessed by other people from anywhere in this in the city etc it's like a kind of like.
+[u1816 | 02:10:26.550-02:10:39.000 | Seeker] People living in the Oubliette society on Mars have two types of memory, in addition to a traditional personal memory there's the exomemory, which can be accessed by other people from anywhere in this in the city etc it's like a kind of like.
 [u1817 | 02:10:43.170-02:10:44.070 | Seeker] The tiered.
 [u1818 | 02:10:45.090-02:10:46.860 | Seeker] Privacy crypto system.
 [u1819 | 02:10:49.020-02:10:52.980 | Seeker] But that affects the physical world as well it's amazing.
@@ -1839,7 +1839,7 @@
 [u1839 | 02:13:02.310-02:13:02.910 | Seeker] Wait a minute.
 [u1840 | 02:13:04.140-02:13:05.010 | Delwath] What was that to.
 [u1841 | 02:13:08.910-02:13:09.870 | Delwath] Look in the party treasure.
-[u1842 | 02:13:14.160-02:13:16.380 | Wellby] vision of ivory scroll cap for ravens food.
+[u1842 | 02:13:14.160-02:13:16.380 | Wellby] vision of ivory scroll cap for raven’s flute.
 [u1843 | 02:13:18.060-02:13:19.080 | Delwath] miscellany.
 [u1844 | 02:13:20.520-02:13:23.040 | Delwath] Ivory scroll cap from a scroll that summoned the demon.
 [u1845 | 02:13:27.240-02:13:27.600 | Seeker] So.
@@ -1851,8 +1851,8 @@
 [u1851 | 02:13:45.060-02:13:45.900 | Delwath] seems to be.
 [u1852 | 02:13:50.190-02:13:52.290 | Kenzo] TIM, I will look at the cloak.
 [u1853 | 02:13:52.800-02:13:53.670 | Delwath] what's The third thing.
-[u1854 | 02:13:55.260-02:13:56.730 | DM] Laka holy symbols I love a.
-[u1855 | 02:13:56.730-02:13:57.660 | DM] cloud score.
+[u1854 | 02:13:55.260-02:13:56.730 | DM] Laka holy symbols and a leather.
+[u1855 | 02:13:56.730-02:13:57.660 | DM] cloak, scroll.
 [u1856 | 02:13:59.400-02:14:01.770 | DM] So you return upstairs your.
 [u1857 | 02:14:02.190-02:14:03.120 | DM] Turn completed.
 [u1858 | 02:14:03.840-02:14:04.710 | Kenzo] Can I look at that cloak.
@@ -1870,7 +1870,7 @@
 [u1870 | 02:14:53.580-02:14:54.990 | DM] Yes, this was.
 [u1871 | 02:14:59.730-02:15:00.870 | DM] This was.
 [u1872 | 02:15:02.220-02:15:08.940 | DM] Was Govir's this is Govir's holy symbol and cloak that he was.
-[u1873 | 02:15:10.440-02:15:12.570 | DM] No, the cloak isn't side the cloak isn't his.
+[u1873 | 02:15:10.440-02:15:12.570 | DM] No, the cloak isn’t, sorry the cloak isn't his.
 [u1874 | 02:15:13.590-02:15:14.850 | DM] The Holy symbol is is.
 [u1875 | 02:15:19.500-02:15:23.670 | DM] you're not sure where the cloak is from he hasn't recognized the cloak, but he does recognize this symbol.
 [u1876 | 02:15:25.950-02:15:27.450 | DM] As another holy symbol was.
@@ -1895,7 +1895,7 @@
 [u1895 | 02:16:30.060-02:16:34.710 | Delwath] What about the iron pendants.
 [u1896 | 02:16:35.130-02:16:36.780 | DM] nope none of the pendants are magic.
 [u1897 | 02:16:37.080-02:16:40.470 | Kenzo] ooh, we have to you have to show the other, the scroll cap to the mirror.
-[u1898 | 02:16:41.430-02:16:42.510 | Delwath] We aren't shut the scroll cap.
+[u1898 | 02:16:41.430-02:16:42.510 | Delwath] We already showed the scroll cap.
 [u1899 | 02:16:43.320-02:16:44.640 | Kenzo] But the other, the.
 [u1900 | 02:16:44.940-02:16:46.920 | Kenzo] Other half of it yeah just found.
 [u1901 | 02:16:47.250-02:16:48.360 | Kenzo] that's your story.
@@ -1922,7 +1922,7 @@
 [u1922 | 02:18:06.000-02:18:08.280 | Delwath] Right Govir thinks it might.
 [u1923 | 02:18:08.700-02:18:09.810 | DM] Have magic right it.
 [u1924 | 02:18:09.840-02:18:10.380 | DM] was bad.
-[u1925 | 02:18:10.500-02:18:11.520 | DM] girls were told that.
+[u1925 | 02:18:10.500-02:18:11.520 | DM] you guys were told that.
 [u1926 | 02:18:11.610-02:18:12.900 | Seeker] Oh sorry I.
 [u1927 | 02:18:13.200-02:18:14.640 | DM] Actually forgot to mention.
 [u1928 | 02:18:15.870-02:18:19.200 | DM] That the trap master actually did have two scrolls.
@@ -1944,7 +1944,7 @@
 [u1944 | 02:19:13.710-02:19:14.070 | Seeker] well.
 [u1945 | 02:19:15.420-02:19:15.990 | Seeker] What have I got.
 [u1946 | 02:19:17.430-02:19:20.520 | Seeker] Got one first-level slot left mean.
-[u1947 | 02:19:24.150-02:19:26.100 | Riswynn] And then rick has moved by water.
+[u1947 | 02:19:24.150-02:19:26.100 | Riswynn] And then it gets moved by water.
 [u1948 | 02:19:27.480-02:19:27.900 | Riswynn] water.
 [u1949 | 02:19:28.770-02:19:30.480 | Delwath] um wait a minute.
 [u1950 | 02:19:31.830-02:19:34.380 | Delwath] Would water dissipate the gas.
@@ -1956,13 +1956,13 @@
 [u1956 | 02:19:48.360-02:19:51.840 | Delwath] or useful use magic item for scenic effect.
 [u1957 | 02:19:52.980-02:19:54.150 | Kenzo] see the effects.
 [u1958 | 02:19:54.210-02:19:55.590 | Kenzo] That to delicious.
-[u1959 | 02:19:55.650-02:19:57.150 | Seeker] Was I was very good ready.
+[u1959 | 02:19:55.650-02:19:57.150 | Seeker] It was, it was very good tea.
 [u1960 | 02:19:57.360-02:19:58.200 | Kenzo] And nourishing.
 [u1961 | 02:20:00.930-02:20:03.480 | Delwath] I mean if we really want to I don't see why.
 [u1962 | 02:20:04.740-02:20:05.520 | Delwath] Delwath couldn't.
 [u1963 | 02:20:06.630-02:20:12.990 | Delwath] Cast fly and just fish with the Mage Hand while standing there then put things on.
 [u1964 | 02:20:14.670-02:20:19.890 | Delwath] Right like who cares if it's going to take 20 minutes, I mean well 20 minutes with you on the fly but.
-[u1965 | 02:20:20.940-02:20:31.050 | Delwath] Presumably, if I cast fly and flew in and was four feet above the chest {{I can't see it}} just kept casting Mage Hand and fishing around I could get everything in the chest.
+[u1965 | 02:20:20.940-02:20:31.050 | Delwath] Presumably, if I cast fly and flew in and was four feet above the chest I can’t see it just kept casting Mage Hand and fishing around I could get everything in the chest.
 [u1966 | 02:20:31.890-02:20:32.190 | Unknown] yeah.
 [u1967 | 02:20:33.570-02:20:34.740 | Delwath] yeah let's do it.
 [u1968 | 02:20:35.040-02:20:35.640 | Delwath] let's do it.
@@ -2040,7 +2040,7 @@
 [u2040 | 02:24:51.990-02:24:52.830 | Seeker] Without you know.
 [u2041 | 02:24:53.910-02:24:55.230 | Seeker] The room getting undermined.
 [u2042 | 02:24:56.070-02:24:56.430 | Unknown] Right.
-[u2043 | 02:24:57.690-02:25:15.870 | DM] So you're not like able to complete while you managed to clear the area in front of the door basically was like a trench in the corridor and then you can start to go in the room and start digging like underneath the table basically um and.
+[u2043 | 02:24:57.690-02:25:15.870 | DM] So you're not like able to complete while you managed to clear the area in front of the door basically with like a trench in the corridor and then you can start to go in the room and start digging like underneath the table basically um and.
 [u2044 | 02:25:19.050-02:25:20.760 | DM] Though you know as it.
 [u2045 | 02:25:24.030-02:25:35.220 | DM] fills underneath the table now like it sort of clears out from the room so after about 10 minutes of of digging you've got two poison gas pits and a clear floor.
 [u2046 | 02:25:38.100-02:25:39.480 | Delwath] yeah what else is in the chest.
@@ -2091,7 +2091,7 @@
 [u2091 | 02:28:50.790-02:28:52.110 | Wellby] If either of you have Identify.
 [u2092 | 02:28:55.500-02:28:57.060 | Riswynn] And cast that as a ritual right.
 [u2093 | 02:28:58.260-02:29:00.600 | Riswynn] yeah we have time for that I assume.
-[u2094 | 02:29:01.320-02:29:04.950 | DM] I mean it's now like 334.
+[u2094 | 02:29:01.320-02:29:04.950 | DM] I mean it's now like 3:30, 4.
 [u2095 | 02:29:07.110-02:29:10.080 | DM] Vistra has already turned away a few curious onlookers.
 [u2096 | 02:29:11.460-02:29:13.800 | DM] Just kind of standing there guard.
 [u2097 | 02:29:15.840-02:29:16.320 | DM] You know.
@@ -2107,7 +2107,7 @@
 [u2107 | 02:29:45.330-02:29:50.580 | DM] Returning the Holy symbols to Govir but otherwise keeping everything else.
 [u2108 | 02:29:51.390-02:29:55.920 | Seeker] And it's definitely fine to go to the authorities, because they're not in bed with the werewolf plot.
 [u2109 | 02:29:57.180-02:29:57.540 | Seeker] For sure.
-[u2110 | 02:29:57.570-02:29:57.840 | Delwath] Now I.
+[u2110 | 02:29:57.570-02:29:57.840 | Delwath] No I.
 [u2111 | 02:29:58.890-02:30:03.210 | Delwath] think we know if they were in bed with plot, then you Soul Sighted at least one of them anyway.
 [u2112 | 02:30:04.170-02:30:04.920 | Seeker] Oh yeah that's true.
 [u2113 | 02:30:08.820-02:30:09.990 | Wellby] scroll case here.
@@ -2203,7 +2203,7 @@
 [u2203 | 02:37:00.630-02:37:01.170 | Riswynn] I mean the.
 [u2204 | 02:37:04.500-02:37:05.460 | DM] Right style.
 [u2205 | 02:37:06.750-02:37:09.240 | DM] So Kenzo you arrived at the.
-[u2206 | 02:37:10.470-02:37:21.630 | DM] At the door at the sort of main temple complex it's now maybe 435 the sun is not yet too low in the sky being.
+[u2206 | 02:37:10.470-02:37:21.630 | DM] At the door at the sort of main temple complex it's now maybe 4:30, 5 the sun is not yet too low in the sky being.
 [u2207 | 02:37:23.190-02:37:25.530 | DM] Still relatively close to the solstice.
 [u2208 | 02:37:27.360-02:37:31.200 | DM] Clearly there's been a lot of activity today.
 [u2209 | 02:37:32.310-02:37:34.320 | DM] Today, though, and i'm.
@@ -2233,7 +2233,7 @@
 [u2233 | 02:39:34.260-02:39:38.040 | Kenzo] which you may or may not have been aware of that, there is a significant.
 [u2234 | 02:39:39.090-02:39:41.580 | Kenzo] I don't know what the right word is outbreak of.
 [u2235 | 02:39:43.380-02:39:50.940 | Kenzo] Lycanthropy in the city and currently TIM what's the what's the neighborhood I say whatever the neighborhood is.
-[u2236 | 02:39:51.270-02:39:52.410 | DM] Like North America.
+[u2236 | 02:39:51.270-02:39:52.410 | DM] Like north area.
 [u2237 | 02:39:52.800-02:39:56.520 | Kenzo] yeah on and there is currently a den.
 [u2238 | 02:39:57.660-02:40:02.730 | Kenzo] A building in north Tokra where my companions currently are now, that is, has some.
 [u2239 | 02:40:04.560-02:40:07.920 | Kenzo] bodies of dead werewolves there that would be.
@@ -2248,7 +2248,7 @@
 [u2248 | 02:40:50.550-02:40:51.420 | DM] sense.
 [u2249 | 02:40:54.480-02:40:56.280 | DM] you're sure lycanthropes.
 [u2250 | 02:40:57.390-02:41:03.120 | Kenzo] Positive if you'd like to come with me now I can show you or if you'd like to send any of your.
-[u2251 | 02:41:04.710-02:41:16.050 | Kenzo] send anyone because right now the the innkeeper of the dwarven inn happens to be there, keeping the townspeople from entering inside, but I think it'd be wise for the city to {{us in}} that building.
+[u2251 | 02:41:04.710-02:41:16.050 | Kenzo] send anyone because right now the the innkeeper of the dwarven inn happens to be there, keeping the townspeople from entering inside, but I think it'd be wise for the city to secure that building.
 [u2252 | 02:41:16.080-02:41:17.760 | DM] Or, well, I will speak to.
 [u2253 | 02:41:19.020-02:41:21.630 | DM] Several of the temple guards, we will.
 [u2254 | 02:41:23.700-02:41:25.380 | DM] We will investigate this, but I am.
@@ -2298,7 +2298,7 @@
 [u2298 | 02:44:59.610-02:45:04.230 | DM] I will have the table set for you and your companions and we'll speak.
 [u2299 | 02:45:05.190-02:45:05.670 | Unknown] Wonderful.
 [u2300 | 02:45:08.160-02:45:10.860 | Kenzo] Or is everybody else already at the archives, are you guys hanging.
-[u2301 | 02:45:10.920-02:45:15.930 | DM] They're in the archives just distress at the Chapel or so yeah so you.
+[u2301 | 02:45:10.920-02:45:15.930 | DM] They're in the archives just Vistra’s at the chapel or so yeah so you.
 [u2302 | 02:45:16.290-02:45:17.460 | Kenzo] catch up with our.
 [u2303 | 02:45:17.490-02:45:19.140 | DM] jumped to the archives, while you're.
 [u2304 | 02:45:19.410-02:45:23.250 | Kenzo] And we explained I explained to them about the poison the pit that the poison and a half ago.
@@ -2319,14 +2319,14 @@
 [u2319 | 02:46:47.430-02:46:49.650 | DM] actually here i'll put you on the map.
 [u2320 | 02:46:51.630-02:46:59.310 | DM] You have no problem going through you know your prayers here you feel confident that you have.
 [u2321 | 02:47:00.360-02:47:04.050 | DM] cured Govir, and he is I mean he's.
-[u2322 | 02:47:06.300-02:47:13.380 | DM] He was like, gathered up like his bike like his quills and his his notebook and um.
+[u2322 | 02:47:06.300-02:47:13.380 | DM] He was like, gathered up like his like like his quills and his his notebook and um.
 [u2323 | 02:47:15.000-02:47:24.660 | DM] You know, is just kind of sitting quietly in the corner in prayer and meditation trying to recover some sense of himself after this ritual.
 [u2324 | 02:47:28.290-02:47:28.590 | Delwath] What.
 [u2325 | 02:47:28.800-02:47:29.040 | Delwath] As.
 [u2326 | 02:47:29.970-02:47:34.680 | DM] Sorry go ahead so as you all gather back at the archives, what would you like to do before dinner.
 [u2327 | 02:47:37.620-02:47:38.460 | Delwath] I was wondering what.
 [u2328 | 02:47:38.550-02:47:40.830 | Delwath] The Drankorian writing on the maps.
-[u2329 | 02:47:41.610-02:47:43.860 | Kenzo] Oh that's good oh yeah let's figure out whether or not this medical.
+[u2329 | 02:47:41.610-02:47:43.860 | Kenzo] Oh that's good oh yeah let's figure out whether or not this magical.
 [u2330 | 02:47:44.850-02:47:46.950 | Delwath] We also have a magical scroll we haven't looked at it.
 [u2331 | 02:47:47.550-02:47:48.450 | DM] Yet correct.
 [u2332 | 02:47:48.750-02:47:50.130 | DM] We should, you have the.
@@ -2346,12 +2346,12 @@
 [u2346 | 02:48:55.920-02:48:56.400 | Unknown] Yes.
 [u2347 | 02:49:04.200-02:49:09.690 | Delwath] And the Detect magic doesn't tell me anything other than the map is magical.
 [u2348 | 02:49:11.100-02:49:16.890 | Delwath] there's not like it doesn't—would See Invisibility reveal invisible writing.
-[u2349 | 02:49:17.670-02:49:18.150 | DM] In my.
+[u2349 | 02:49:17.670-02:49:18.150 | DM] It might.
 [u2350 | 02:49:19.590-02:49:20.040 | Seeker] interesting.
 [u2351 | 02:49:23.760-02:49:25.260 | Delwath] We do have a scroll of See Invisibility.
 [u2352 | 02:49:31.470-02:49:31.800 | Wellby] Light.
 [u2353 | 02:49:31.980-02:49:33.120 | Wellby] moonlight too.
-[u2354 | 02:49:33.630-02:49:35.970 | Seeker] yeah mental read werewolves.
+[u2354 | 02:49:33.630-02:49:35.970 | Seeker] yeah meant to be read by werewolves.
 [u2355 | 02:49:37.020-02:49:37.890 | Seeker] that's interesting.
 [u2356 | 02:49:41.400-02:49:46.260 | Delwath] What is the other scroll, should we take it out of its case and inspect it.
 [u2357 | 02:49:46.650-02:49:47.490 | Seeker] yeah i'll do that.
@@ -2369,7 +2369,7 @@
 [u2369 | 02:50:35.940-02:50:37.500 | Seeker] would Identify work on it.
 [u2370 | 02:50:39.810-02:50:43.560 | DM] Identify would probably work on it, yes.
 [u2371 | 02:50:44.070-02:50:44.430 | Unknown] I.
-[u2372 | 02:50:45.630-02:50:47.460 | Seeker] Lower my indie.
+[u2372 | 02:50:45.630-02:50:47.460 | Seeker] Lower my indigo.
 [u2373 | 02:50:49.560-02:50:51.480 | Seeker] amethyst goggles on to my face.
 [u2374 | 02:50:52.410-02:50:52.860 | Unknown] Okay.
 [u2375 | 02:50:55.110-02:50:57.600 | DM] Before we get to that does anybody else doing anything.
@@ -2387,7 +2387,7 @@
 [u2387 | 02:51:35.400-02:51:36.120 | Kenzo] yeah i've come to.
 [u2388 | 02:51:37.410-02:51:38.130 | Kenzo] know I have.
 [u2389 | 02:51:40.560-02:51:42.840 | Riswynn] A chronic cough for a couple decades he's.
-[u2390 | 02:51:43.590-02:51:45.180 | Kenzo] i'm joking rena.
+[u2390 | 02:51:43.590-02:51:45.180 | Kenzo] i'm joking right now.
 [u2391 | 02:51:47.250-02:51:47.700 | DM] Ah.
 [u2392 | 02:51:50.220-02:51:54.180 | DM] OK, so the papers.
 [u2393 | 02:51:55.230-02:51:57.180 | DM] As you sort through them so.
@@ -2400,9 +2400,9 @@
 [u2400 | 02:52:33.840-02:52:38.700 | Delwath] and translate it so that Govir could figure it out for us Govir can figure it out for us.
 [u2401 | 02:52:38.850-02:52:43.110 | DM] Okay, so you're translate you like spend some time translating this all.
 [u2402 | 02:52:44.220-02:52:44.730 | DM] The.
-[u2403 | 02:52:46.350-02:53:06.780 | DM] The pages that are the like lacuna on the the scroll the like when the moon rises are easier to understand, although you can't place this language you're not sure what it is um there's like some diagrams that seems similar to the.
+[u2403 | 02:52:46.350-02:53:06.780 | DM] The pages that are the like like notes on the the scroll the like when the moon rises are easier to understand, although you can't place this language you're not sure what it is um there's like some diagrams that seems similar to the.
 [u2404 | 02:53:08.190-02:53:18.990 | DM] To the drawing you found in the trap masters workshop with 13 spears arranged with a detail of the spear that shows the writing mad one come to us.
-[u2405 | 02:53:19.530-02:53:36.570 | DM] {{By}} Jinnik's howl will be heard. There's a long discussion of the ancient cave of the Mad One's soul and what that might mean and whether it's you know this particular place i'm link to the there seems to be some like different people writing notes.
+[u2405 | 02:53:19.530-02:53:36.570 | DM] By Jinnik's howl will be heard. There's a long discussion of the ancient cave of the Mad One's soul and what that might mean and whether it's you know this particular place i'm link to the there seems to be some like different people writing notes.
 [u2406 | 02:53:39.000-02:53:43.620 | DM] And then there seems to be at the end of this discussion there's like.
 [u2407 | 02:53:44.820-02:53:46.980 | DM] You know somebody note to themselves.
 [u2408 | 02:53:48.330-02:53:55.560 | DM] We must find a way past the Dunmari's maze we must find a way to get to the Dunmari city without attracting attention.
@@ -2416,7 +2416,7 @@
 [u2416 | 02:54:37.980-02:54:39.480 | Delwath] We have a scroll to speak with the dead.
 [u2417 | 02:54:41.010-02:54:45.060 | Delwath] Take the leaders body save one of the body, so he can speak with Dead.
 [u2418 | 02:54:47.340-02:54:49.590 | Delwath] Of course, nothing forces the dead, to answer your.
-[u2419 | 02:54:49.590-02:54:51.090 | DM] Question {{can compel them}}.
+[u2419 | 02:54:49.590-02:54:51.090 | DM] Question can compel them.
 [u2420 | 02:54:52.380-02:54:52.770 | DM] Ah.
 [u2421 | 02:54:54.720-02:54:58.560 | DM] let's see i'm Riswynn the short sword that.
 [u2422 | 02:54:59.760-02:55:04.950 | DM] That Wellby picked up is a vicious short sword, it is um.
@@ -2431,7 +2431,7 @@
 [u2431 | 02:55:48.240-02:55:48.870 | Unknown] whoa.
 [u2432 | 02:55:50.040-02:55:50.580 | Kenzo] Pandemonium.
 [u2433 | 02:55:52.320-02:55:54.030 | Seeker] This where they were asking for that.
-[u2434 | 02:55:54.780-02:56:04.590 | Delwath] So somebody's trying to see I think if we had, I think the the goal here is to spread lycanthropy to everybody on top.
+[u2434 | 02:55:54.780-02:56:04.590 | Delwath] So somebody's trying to see I think if we had, I think the the goal here is to spread lycanthropy to everybody in Tokra.
 [u2435 | 02:56:08.580-02:56:09.150 | Kenzo] whose goal.
 [u2436 | 02:56:09.960-02:56:11.700 | Delwath] The ritual.
 [u2437 | 02:56:14.910-02:56:16.830 | Seeker] So it's a powerful spell.
@@ -2483,7 +2483,7 @@
 [u2483 | 02:59:31.260-02:59:32.640 | Delwath] Who are these werewolves.
 [u2484 | 02:59:33.570-02:59:34.140 | Unknown] So.
 [u2485 | 02:59:35.760-02:59:47.100 | Kenzo] I shared with you what I what I learned speaking with Kaleha now but um does anybody else find it strange that the werewolves almost certainly came from Chardon.
-[u2486 | 02:59:48.240-02:59:48.810 | Delwath] Now.
+[u2486 | 02:59:48.240-02:59:48.810 | Delwath] No.
 [u2487 | 02:59:49.200-02:59:54.990 | Wellby] that's gonna that's gonna I thought that came from the East because of the finding their way through the maze piece.
 [u2488 | 02:59:56.220-02:59:57.270 | Delwath] yeah it's the.
 [u2489 | 02:59:59.460-03:00:04.320 | Delwath] chick does she not know does Kaleha not know that Shakun's protection was gone for months.
@@ -2492,7 +2492,7 @@
 [u2492 | 03:00:07.650-03:00:08.790 | Delwath] That does she know.
 [u2493 | 03:00:10.770-03:00:11.760 | Kenzo] Maybe she didn't know.
 [u2494 | 03:00:12.210-03:00:13.650 | Kenzo] yeah that she would have known.
-[u2495 | 03:00:14.310-03:00:17.550 | Delwath] But it wasn't common knowledge Kandras didn't broadcast it.
+[u2495 | 03:00:14.310-03:00:17.550 | Delwath] But it wasn't common knowledge Candrosa didn't broadcast it.
 [u2496 | 03:00:19.290-03:00:23.130 | Seeker] Because he was ashamed of the whole situation, having been partly the cause.
 [u2497 | 03:00:25.140-03:00:25.650 | Kenzo] hmm.
 [u2498 | 03:00:26.550-03:00:27.900 | Delwath] If she didn't know.
@@ -2509,7 +2509,7 @@
 [u2509 | 03:01:15.390-03:01:15.810 | Unknown] Think.
 [u2510 | 03:01:17.280-03:01:18.570 | Seeker] Because we know she traded the.
 [u2511 | 03:01:18.570-03:01:19.560 | Delwath] scepter for the scroll.
-[u2512 | 03:01:20.610-03:01:21.330 | Delwath] All the way wrapped.
+[u2512 | 03:01:20.610-03:01:21.330 | Delwath] Other way around.
 [u2513 | 03:01:22.650-03:01:25.050 | Delwath] She traded the scroll for the scepter and we see that somewhere.
 [u2514 | 03:01:27.030-03:01:27.360 | Delwath] Right.
 [u2515 | 03:01:27.630-03:01:37.170 | Delwath] Yes, werewolves traded the scroll to Agata in exchange for her hatching the plot to screw with Shakun's Mystai.
@@ -2554,7 +2554,7 @@
 [u2554 | 03:04:02.220-03:04:04.920 | Seeker] A different, this is the nature of Shakun's.
 [u2555 | 03:04:05.100-03:04:08.520 | Kenzo] Protection oh right.
 [u2556 | 03:04:08.580-03:04:09.210 | Delwath] Never impact.
-[u2557 | 03:04:09.360-03:04:14.970 | Delwath] You saw Shakun was like {{I prefer}} I will let you through, no matter what people.
+[u2557 | 03:04:09.360-03:04:14.970 | Delwath] You saw Shakun was like I prefer I will let you through, no matter what people.
 [u2558 | 03:04:15.780-03:04:23.100 | Kenzo] Right, because once the heart was reactivated we can, and so the werewolves could not get through then, you're right.
 [u2559 | 03:04:24.660-03:04:26.850 | Kenzo] yeah um.
 [u2560 | 03:04:28.350-03:04:31.920 | Delwath] Now why they came from the east and where they got these scrolls.
@@ -2569,7 +2569,7 @@
 [u2569 | 03:05:00.900-03:05:13.890 | Delwath] But we don't these werewolves could could easily be new where they didn't have to have come from here they're coming to here to perform their ritual and and spread lycanthropy.
 [u2570 | 03:05:15.930-03:05:19.650 | Wellby] The heart of Shakun gets like.
 [u2571 | 03:05:19.950-03:05:27.690 | Wellby] immobilized the werewolf sneak in so they only been in we think they've only been in the city them for three or four months.
-[u2572 | 03:05:29.190-03:05:33.060 | Delwath] Well, the {{target}} has been it's been like eight months.
+[u2572 | 03:05:29.190-03:05:33.060 | Delwath] Well, the target has been it's been like eight months.
 [u2573 | 03:05:35.820-03:05:36.000 | Seeker] and
 [u2574 | 03:05:36.960-03:05:42.360 | Kenzo] Kaleha did say that there had to have been there's been no werewolves in the city for a very long time, so.
 [u2575 | 03:05:43.530-03:05:44.850 | Kenzo] She was super surprised.
@@ -2580,7 +2580,7 @@
 [u2580 | 03:06:09.210-03:06:10.410 | Seeker] that's that was suggesting earlier.
 [u2581 | 03:06:10.890-03:06:11.280 | Unknown] yeah.
 [u2582 | 03:06:12.420-03:06:13.290 | Kenzo] How do we profit from it.
-[u2583 | 03:06:13.800-03:06:17.490 | Wellby] Wellby reaches over and readjusts the Scepter of Command and respect back.
+[u2583 | 03:06:13.800-03:06:17.490 | Wellby] Wellby reaches over and readjusts the Scepter of Command and rests back.
 [u2584 | 03:06:19.470-03:06:26.280 | Seeker] Well, the way that oil could be used near the get gap to Arborea to make.
 [u2585 | 03:06:27.300-03:06:33.600 | Seeker] portable holes and so forth, perhaps there's some similar way of extracting magical energy from Pandemonium.
 [u2586 | 03:06:33.630-03:06:34.170 | Seeker] began.
@@ -2598,7 +2598,7 @@
 [u2598 | 03:07:09.720-03:07:10.560 | Kenzo] I see her.
 [u2599 | 03:07:13.230-03:07:14.160 | Seeker] That section.
 [u2600 | 03:07:16.470-03:07:16.860 | Wellby] The world.
-[u2601 | 03:07:17.280-03:07:19.740 | Wellby] World drawers it was a false flag.
+[u2601 | 03:07:17.280-03:07:19.740 | Wellby] Were-dwarves it was a false flag.
 [u2602 | 03:07:21.000-03:07:26.160 | Seeker] flag operation, there are a lot of dwarves involved in this right there that's suspicious and.
 [u2603 | 03:07:26.970-03:07:30.750 | Wellby] We do we need to heal that werewolf guy before he turns into a werewolf again to me.
 [u2604 | 03:07:30.750-03:07:31.680 | Kenzo] out, we should you know we.
@@ -2665,7 +2665,7 @@
 [u2665 | 03:11:49.860-03:11:50.190 | Delwath] yeah.
 [u2666 | 03:11:51.480-03:11:51.960 | Kenzo] But where's.
 [u2667 | 03:11:52.620-03:11:53.790 | Delwath] The link in the zoom chat.
-[u2668 | 03:12:26.220-03:12:31.380 | Delwath] {{garden Carson}} more than a few treasures of the ancient age magic from Drankor itself.
+[u2668 | 03:12:26.220-03:12:31.380 | Delwath] guard in Kharsan more than a few treasures of the ancient age magic from Drankor itself.
 [u2669 | 03:12:32.040-03:12:33.210 | Seeker] between two and five.
 [u2670 | 03:12:40.170-03:12:42.330 | Delwath] More than a few certainly sounds like three to me.
 [u2671 | 03:12:55.980-03:12:56.580 | Delwath] When.
@@ -2678,7 +2678,7 @@
 [u2678 | 03:13:17.580-03:13:22.530 | DM] yeah that was that was not the Death Moon clan that was.
 [u2679 | 03:13:23.910-03:13:26.160 | DM] That was when Raven's Hold was reoccupied.
 [u2680 | 03:13:27.450-03:13:29.910 | DM] That was the What were they called.
-[u2681 | 03:13:32.880-03:13:41.040 | DM] Well reserved, but no, because the Death Moon clan was the one that drove {{for family}} out of Raven's Hold to begin with, this is the Great War.
+[u2681 | 03:13:32.880-03:13:41.040 | DM] Well reserved, but no, because the Death Moon clan was the one that drove the Dunmari out of Raven's Hold to begin with, this is the Great War.
 [u2682 | 03:13:45.450-03:13:53.490 | Riswynn] Right, so my excellent memory for dwarven history timelines, which of course I have because i'm a dwarf tells me that.
 [u2683 | 03:13:54.420-03:13:56.250 | DM] there's like 200 years ago.
 [u2684 | 03:13:57.000-03:13:57.390 | Unknown] yeah.
@@ -2701,12 +2701,12 @@
 [u2701 | 03:14:59.100-03:15:00.210 | DM] yeah that's true.
 [u2702 | 03:15:00.360-03:15:02.370 | Delwath] i'm just i'm just out of game just.
 [u2703 | 03:15:02.400-03:15:03.360 | DM] Say okay.
-[u2704 | 03:15:03.540-03:15:14.700 | Delwath] The Great War I mean I seem to recall undead armies sweeping across Dunmar and some sort of group of adventurers accidentally killing the the {{horse}} or something like that.
+[u2704 | 03:15:03.540-03:15:14.700 | Delwath] The Great War I mean I seem to recall undead armies sweeping across Dunmar and some sort of group of adventurers accidentally killing the the horse or something like that.
 [u2705 | 03:15:22.890-03:15:23.400 | DM] So.
-[u2706 | 03:15:24.300-03:15:27.120 | Delwath] tim's always wanted to do stuff in a warrior I think.
+[u2706 | 03:15:24.300-03:15:27.120 | Delwath] tim's always wanted to do stuff in Illoria I think.
 [u2707 | 03:15:31.620-03:15:32.250 | Unknown] let's go.
 [u2708 | 03:15:34.080-03:15:35.160 | Seeker] Deep with to.
-[u2709 | 03:15:35.520-03:15:38.850 | Delwath] seek even a war yeah we could get to a malware crossover.
+[u2709 | 03:15:35.520-03:15:38.850 | Delwath] seek in Illoria we could get to a Mawar crossover.
 [u2710 | 03:15:39.750-03:15:42.360 | Delwath] get them to come down South and help us find something.
 [u2711 | 03:15:42.360-03:15:42.990 | Delwath] In a sneaky.
 [u2712 | 03:15:45.510-03:15:45.930 | DM] You.
@@ -2758,7 +2758,7 @@
 [u2758 | 03:19:26.310-03:19:28.200 | Kenzo] My brothers and sisters at the monastery.
 [u2759 | 03:19:29.760-03:19:30.900 | Kenzo] To act with integrity.
 [u2760 | 03:19:33.330-03:19:34.770 | Kenzo] I believe you are a person of integrity.
-[u2761 | 03:19:36.060-03:19:40.530 | Kenzo] window, from what I know of Sura they seem to be a person of integrity as well.
+[u2761 | 03:19:36.060-03:19:40.530 | Kenzo] And, from what I know of Sura they seem to be a person of integrity as well.
 [u2762 | 03:19:41.940-03:19:42.450 | Kenzo] So.
 [u2763 | 03:19:46.320-03:19:48.780 | Kenzo] I don't think we had intended to become diplomats here but.
 [u2764 | 03:19:51.270-03:19:56.040 | Kenzo] i'm optimistic that people with good character and desire to avoid bloodshed.
@@ -2838,7 +2838,7 @@
 [u2838 | 03:25:58.200-03:26:01.500 | DM] This threat is ended, or if there is more dangers out there.
 [u2839 | 03:26:03.690-03:26:04.020 | Kenzo] As I.
 [u2840 | 03:26:04.410-03:26:06.210 | Wellby] said the werewolves came from the West.
-[u2841 | 03:26:08.250-03:26:09.750 | Kenzo] She thought that I gave last year.
+[u2841 | 03:26:08.250-03:26:09.750 | Kenzo] She thought that, I guess, last year.
 [u2842 | 03:26:11.070-03:26:12.540 | Wellby] Well, that.
 [u2843 | 03:26:13.710-03:26:16.680 | Wellby] was given that they may have come from.
 [u2844 | 03:26:19.050-03:26:20.370 | Riswynn] They come from the east.
@@ -2866,7 +2866,7 @@
 [u2866 | 03:28:49.560-03:28:50.760 | Seeker] It does spread doesn't.
 [u2867 | 03:28:52.800-03:28:58.410 | Seeker] wondering if if those if that group of 13 created that whole tunnel network.
 [u2868 | 03:29:00.900-03:29:02.070 | Seeker] How long that had been there.
-[u2869 | 03:29:04.800-03:29:06.810 | Wellby] watching they're great question.
+[u2869 | 03:29:04.800-03:29:06.810 | Wellby] That’s a great question.
 [u2870 | 03:29:07.230-03:29:11.280 | Delwath] It would be good to know something of the history here, especially.
 [u2871 | 03:29:12.360-03:29:15.210 | Delwath] Given their connections to others out east.
 [u2872 | 03:29:15.840-03:29:23.340 | Kenzo] Actually Kaleha this would be a strong i'm not sure if he's investigating this, but there must be a history of who own that building.
@@ -2909,7 +2909,7 @@
 [u2909 | 03:32:52.110-03:32:54.450 | Wellby] it's really too bad we can't interrogate the hag.
 [u2910 | 03:33:02.040-03:33:02.910 | DM] you're muted.
 [u2911 | 03:33:03.000-03:33:04.770 | Delwath] We can't hear you Kong, you're muted.
-[u2912 | 03:33:06.810-03:33:07.650 | Kenzo] I was {{was brain}}.
+[u2912 | 03:33:06.810-03:33:07.650 | Kenzo] I was whispering.
 [u2913 | 03:33:09.690-03:33:10.230 | Unknown] dead.
 [u2914 | 03:33:11.400-03:33:12.180 | DM] body, though.
 [u2915 | 03:33:12.270-03:33:12.960 | Seeker] We yeah.
@@ -2946,7 +2946,7 @@
 [u2946 | 03:35:31.020-03:35:31.920 | DM] Perhaps he can.
 [u2947 | 03:35:34.350-03:35:36.330 | DM] organize patrols, we do not have a.
 [u2948 | 03:35:38.160-03:35:42.000 | DM] not have enough temple guards to patrol the entire city.
-[u2949 | 03:35:43.980-03:35:46.500 | Seeker] Fortunately, ordinary weapons are useless against them.
+[u2949 | 03:35:43.980-03:35:46.500 | Seeker] Unfortunately, ordinary weapons are useless against them.
 [u2950 | 03:35:47.160-03:35:48.390 | Kenzo] That is also true.
 [u2951 | 03:35:49.680-03:35:51.810 | Kenzo] Kenzo like sighs deeply.
 [u2952 | 03:35:53.280-03:36:00.420 | Kenzo] I really was looking forward to an evening of rest as for after the hell of today but glancing at the companions.
@@ -2954,7 +2954,7 @@
 [u2954 | 03:36:10.080-03:36:11.160 | Seeker] Our powers are drained.
 [u2955 | 03:36:15.120-03:36:20.520 | Wellby] could engage and you can sleep and then just head out when people start dying.
 [u2956 | 03:36:24.750-03:36:25.200 | Kenzo] rest.
-[u2957 | 03:36:28.440-03:36:29.520 | Riswynn] Have a longer lasting.
+[u2957 | 03:36:28.440-03:36:29.520 | Riswynn] Have a long rest and.
 [u2958 | 03:36:30.000-03:36:32.790 | Riswynn] Go out what the moon, is still full at 3am.
 [u2959 | 03:36:33.180-03:36:34.440 | Seeker] what's the minimum duration or.
 [u2960 | 03:36:35.880-03:36:37.230 | DM] eight eight hours.
