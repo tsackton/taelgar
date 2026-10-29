@@ -70,7 +70,7 @@
 [u0070 | 00:05:16.700-00:05:20.110 | Raven] Ah, but they are a
 [u0071 | 00:05:21.650-00:05:23.270 | Raven] tall
 [u0072 | 00:05:23.370-00:05:30.080 | Raven] figure with a black, half black, half white raven-feather cloak,
-[u0073 | 00:05:30.500-00:05:37.489 | Raven] um {{white and black tugs on the Ch.}} And a
+[u0073 | 00:05:30.500-00:05:37.489 | Raven] um white and black tufts on the chest. And a
 [u0074 | 00:05:38.660-00:05:46.730 | Raven] raven mask strapped to their face with um the headdress behind it. That's
 [u0075 | 00:05:47.280-00:05:50.790 | Raven] carved of some sort of
 [u0076 | 00:05:51.410-00:05:55.180 | Raven] uh very smooth material. That's half um
@@ -89,7 +89,7 @@
 [u0089 | 00:07:23.990-00:07:30.480 | Caulaus] and strapped on his back, is like a huge great sword, right like a big sword,
 [u0090 | 00:07:30.860-00:07:33.710 | Caulaus] and he's he's um! There's
 [u0091 | 00:07:33.830-00:07:36.119 | Caulaus] he's wearing a tabard
-[u0092 | 00:07:36.430-00:07:45.900 | Caulaus] with the Roman numeral three on it. Um, and some writing. Um. Do any of you {{whenever}} you recognize, Drankorian writing.
+[u0092 | 00:07:36.430-00:07:45.900 | Caulaus] with the Roman numeral three on it. Um, and some writing. Um. Do any of you whenever you recognize, Drankorian writing.
 [u0093 | 00:07:46.030-00:07:47.400 | Raven] Probably not.
 [u0094 | 00:07:47.450-00:07:48.870 | Raven] Might Seeker?
 [u0095 | 00:07:50.800-00:07:52.330 | DM] Ah,
@@ -101,14 +101,14 @@
 [u0101 | 00:08:17.320-00:08:19.820 | Caulaus] but there's a little bit of a
 [u0102 | 00:08:20.100-00:08:20.950 | Caulaus] hint
 [u0103 | 00:08:22.170-00:08:25.639 | Caulaus] his he doesn't totally look,
-[u0104 | 00:08:26.810-00:08:37.780 | Caulaus] sane {{at some.}} I mean, you're looking at his eyes. You can see like looking at him. You can see he's like uh darting around a little bit like he's. He's not um.
+[u0104 | 00:08:26.810-00:08:37.780 | Caulaus] sane at some. I mean, you're looking at his eyes. You can see like looking at him. You can see he's like uh darting around a little bit like he's. He's not um.
 [u0105 | 00:08:39.659-00:08:40.840 | Caulaus] The
 [u0106 | 00:08:41.909-00:08:48.939 | Caulaus] The facade of his, like calm army demeanor is not is betrayed a little bit by um
 [u0107 | 00:08:49.200-00:08:53.429 | Caulaus] by his eyes, and like just a little twitch on his face. And things like that.
 [u0108 | 00:09:00.860-00:09:02.400 | Seeker] Well, uh,
 [u0109 | 00:09:03.030-00:09:05.710 | Seeker] the Seeker is a a dwarf
 [u0110 | 00:09:06.010-00:09:11.070 | Seeker] in dark red and charcoal colored traveling cloak, and an elaborately braided
-[u0111 | 00:09:11.260-00:09:12.720 | Seeker] {{you ever in}} beard,
+[u0111 | 00:09:11.260-00:09:12.720 | Seeker] dwarven beard,
 [u0112 | 00:09:13.490-00:09:18.539 | Seeker] and as he walks along he is preoccupied,
 [u0113 | 00:09:18.960-00:09:23.569 | Seeker] wearing a sparkly and strange glove on one hand,
 [u0114 | 00:09:23.700-00:09:28.499 | Seeker] flexing it, staring at the back of it all of a sudden, thinking of something,
@@ -149,9 +149,9 @@
 [u0149 | 00:12:08.490-00:12:13.219 | Seeker] the Great War? If that's what you mean to my knowledge, ended
 [u0150 | 00:12:13.520-00:12:16.730 | Caulaus] two hundred years ago. The Great War. I
 [u0151 | 00:12:18.840-00:12:24.509 | Caulaus] I don't know if i'd call it that. Emperor Vestian was
-[u0152 | 00:12:24.800-00:12:28.830 | Caulaus] struggling to defeat the um. {{This}}
+[u0152 | 00:12:24.800-00:12:28.830 | Caulaus] struggling to defeat the um. This
 [u0153 | 00:12:30.450-00:12:33.430 | Seeker] these are names I do not know. Is that true, Tim?
-[u0154 | 00:12:35.060-00:12:38.410 | Caulaus] {{and not}} heard of him?
+[u0154 | 00:12:35.060-00:12:38.410 | Caulaus] Have not heard of him?
 [u0155 | 00:12:38.620-00:12:40.999 | Caulaus] You must be from far, far away.
 [u0156 | 00:12:48.840-00:12:53.839 | DM] Is that Is that true, Tim? This is history, I don't know. Ah, this is
 [u0157 | 00:12:54.420-00:12:55.360 | DM] at
@@ -166,7 +166,7 @@
 [u0166 | 00:13:37.280-00:13:39.320 | Caulaus] historical events.
 [u0167 | 00:13:40.130-00:13:41.430 | Caulaus] It's been,
 [u0168 | 00:13:42.400-00:13:48.180 | Caulaus] I am anxious for news. It has been, I think, a few years that I've been stuck here
-[u0169 | 00:13:49.900-00:13:54.640 | Seeker] {{by the historical step here}} more than a few years, my friend,
+[u0169 | 00:13:49.900-00:13:54.640 | Seeker] by the historical step here more than a few years, my friend,
 [u0170 | 00:13:56.920-00:13:57.890 | Seeker] and
 [u0171 | 00:13:58.080-00:14:03.010 | Seeker] are you from the kingdom of Drankor yourself. Is that your allegiance?
 [u0172 | 00:14:03.490-00:14:04.460 | Caulaus] Yes,
@@ -218,7 +218,7 @@
 [u0218 | 00:16:55.650-00:16:56.840 | Unknown] we
 [u0219 | 00:16:57.940-00:17:01.109 | Caulaus] Yes, would you want to eat first?
 [u0220 | 00:17:01.300-00:17:02.779 | Caulaus] I have some food
-[u0221 | 00:17:04.190-00:17:05.510 | Caulaus] some {{year}},
+[u0221 | 00:17:04.190-00:17:05.510 | Caulaus] some beer,
 [u0222 | 00:17:05.540-00:17:06.400 | Unknown] you
 [u0223 | 00:17:06.810-00:17:09.200 | Caulaus] It's nice to have company.
 [u0224 | 00:17:10.930-00:17:12.069 | Seeker] Oh,
@@ -372,16 +372,16 @@
 [u0372 | 00:28:20.500-00:28:22.380 | Caulaus] the only way to
 [u0373 | 00:28:22.950-00:28:28.050 | Caulaus] end up on the other side and on the path to the Cloud Palace.
 [u0374 | 00:28:29.180-00:28:33.070 | Spirala] We appreciate your creative nature Seeker, but
-[u0375 | 00:28:33.100-00:28:34.670 | Spirala] {{from all for the past.}}
+[u0375 | 00:28:33.100-00:28:34.670 | Spirala] I'm all for the path.
 [u0376 | 00:28:40.320-00:28:43.740 | Caulaus] If if we do find him,
 [u0377 | 00:28:43.770-00:28:45.870 | Caulaus] beware his glare.
 [u0378 | 00:28:46.310-00:28:48.400 | Caulaus] I recall it being
 [u0379 | 00:28:48.840-00:28:50.130 | Caulaus] cursed.
-[u0380 | 00:28:52.430-00:28:55.180 | Seeker] Now you're suggesting to {{avoid having.}}
-[u0381 | 00:29:04.580-00:29:08.239 | DM] Uh, what are you walking as you sorry? Go ahead.
+[u0380 | 00:28:52.430-00:28:55.180 | Seeker] Now you're suggesting to avoid having.
+[u0381 | 00:29:04.580-00:29:08.239 | DM] Uh, what order are you walking as you sorry? Go ahead.
 [u0382 | 00:29:08.960-00:29:11.550 | Raven] Uh, probably
 [u0383 | 00:29:11.870-00:29:19.229 | Caulaus] i'm second.
-[u0384 | 00:29:21.120-00:29:24.470 | Raven] {{So I like to arrest}}
+[u0384 | 00:29:21.120-00:29:24.470 | Raven] So I like to arrest
 [u0385 | 00:29:27.740-00:29:30.050 | DM] Raven and Spirala in the back.
 [u0386 | 00:29:33.660-00:29:37.660 | Seeker] Perhaps we might do well to hide ourselves. Then. Somehow
 [u0387 | 00:29:38.010-00:29:39.740 | Raven] I am.
@@ -399,7 +399,7 @@
 [u0399 | 00:30:21.100-00:30:22.649 | Seeker] would appreciate that.
 [u0400 | 00:30:24.130-00:30:25.780 | Caulaus] Yes, some
 [u0401 | 00:30:26.420-00:30:28.740 | Caulaus] some scouting is uh,
-[u0402 | 00:30:28.960-00:30:31.250 | Caulaus] {{not her}}, under the circumstances,
+[u0402 | 00:30:28.960-00:30:31.250 | Caulaus] not her, under the circumstances,
 [u0403 | 00:30:34.010-00:30:35.450 | Spirala] right? If we,
 [u0404 | 00:30:36.170-00:30:39.010 | Spirala] If we could sneak up on him, I might try to blind him.
 [u0405 | 00:30:39.100-00:30:41.730 | Spirala] But Let's see how the lay of the land goes.
@@ -409,7 +409,7 @@
 [u0409 | 00:30:54.610-00:31:07.310 | DM] you begin. So Raven detaches from the group and begins to creep forward along the in the shadows along the edge of this ravine
 [u0410 | 00:31:07.710-00:31:12.429 | Raven] to reveal like black feathers on the other side,
 [u0411 | 00:31:12.750-00:31:16.629 | Raven] and I like Meld with the shadows
-[u0412 | 00:31:17.840-00:31:19.110 | Seeker] {{stuff more to}}
+[u0412 | 00:31:17.840-00:31:19.110 | Seeker] Stealth mode
 [u0413 | 00:31:19.960-00:31:21.729 | DM] uh you.
 [u0414 | 00:31:22.620-00:31:25.370 | DM] You You travel maybe
 [u0415 | 00:31:25.950-00:31:28.179 | DM] three four hundred feet
@@ -487,7 +487,7 @@
 [u0487 | 00:38:12.690-00:38:15.240 | Seeker] What's the total distance we're talking about here.
 [u0488 | 00:38:15.390-00:38:17.999 | Caulaus] How far away it was like.
 [u0489 | 00:38:18.220-00:38:21.369 | DM] It was like five hundred feet that Raven traveled.
-[u0490 | 00:38:21.730-00:38:23.630 | DM] So maybe {{I missed further}}.
+[u0490 | 00:38:21.730-00:38:23.630 | DM] So maybe a bit further.
 [u0491 | 00:38:23.760-00:38:25.569 | DM] You're pretty close. Yeah.
 [u0492 | 00:38:25.700-00:38:32.090 | DM] And this seems like this opening is like the halfway There's like a little bit past the halfway point of the
 [u0493 | 00:38:32.120-00:38:34.870 | Raven] do we want to?
@@ -530,10 +530,10 @@
 [u0530 | 00:41:45.050-00:41:51.910 | Raven] do something to its eye, then try and fight it, or sneak up. Then keep sneaking.
 [u0531 | 00:41:53.220-00:41:59.819 | Spirala] That's why I offered to try to sneak up and blind it. I I think that's our most sensible approach. Actually,
 [u0532 | 00:42:02.080-00:42:04.920 | Seeker] Satyrs could prove troublesome. But
-[u0533 | 00:42:07.020-00:42:14.620 | Raven] {{how to these, for all}}, what methods, what what methods do we have to blind.
+[u0533 | 00:42:07.020-00:42:14.620 | Raven] how to these, Spirala, what methods, what what methods do we have to blind.
 [u0534 | 00:42:16.560-00:42:20.440 | Spirala] If I'm. Within thirty feet of it, I can cast a spell
 [u0535 | 00:42:21.210-00:42:22.720 | Spirala] and hope it works
-[u0536 | 00:42:24.130-00:42:32.850 | Raven] that fails. Do we have any alternative, or do we just like? {{Hold up the globe? It's like, Let me hide one of these.}}
+[u0536 | 00:42:24.130-00:42:32.850 | Raven] that fails. Do we have any alternative, or do we just like? Hold up the globe? It's like, Let me hide one of these.
 [u0537 | 00:42:36.230-00:42:40.090 | Raven] I have darts. Can I just like, throw some darts at its eye
 [u0538 | 00:42:43.110-00:42:44.790 | Unknown] range.
 [u0539 | 00:42:46.290-00:42:47.970 | Raven] It'd probably hurt.
@@ -553,7 +553,7 @@
 [u0553 | 00:44:04.790-00:44:07.960 | Spirala] No, but I have Enlarge/Reduce and Blindness
 [u0554 | 00:44:09.050-00:44:11.389 | Caulaus] the wizard spell. There's no wizards out there.
 [u0555 | 00:44:11.420-00:44:12.899 | Caulaus] No, yeah.
-[u0556 | 00:44:13.480-00:44:17.440 | Caulaus] Why would Seeker have it? Because {{down with this}} has that Yeah,
+[u0556 | 00:44:13.480-00:44:17.440 | Caulaus] Why would Seeker have it? Because Delwath has that Yeah,
 [u0557 | 00:44:17.550-00:44:20.409 | Caulaus] exactly all we deal with for here.
 [u0558 | 00:44:20.770-00:44:21.649 | Seeker] Yeah,
 [u0559 | 00:44:21.800-00:44:23.040 | Caulaus] um,
@@ -565,7 +565,7 @@
 [u0565 | 00:44:54.790-00:45:00.729 | DM] the I mean there's no size smaller than Tiny, but you could make them.
 [u0566 | 00:45:00.870-00:45:03.100 | DM] I mean, what does the spell say?
 [u0567 | 00:45:03.770-00:45:10.810 | Caulaus] You can't. You can't.
-[u0568 | 00:45:11.450-00:45:21.900 | Caulaus] But D&D mechanics to the same spell doesn't affect like {{if you guys blight blast}}. Yeah, you can't cast the same spell twice on the same creature, even if concentration.
+[u0568 | 00:45:11.450-00:45:21.900 | Caulaus] But D&D mechanics to the same spell doesn't affect like if you cast, like, Bless. Yeah, you can't cast the same spell twice on the same creature, even if concentration.
 [u0569 | 00:45:23.450-00:45:24.739 | Raven] So never mind them.
 [u0570 | 00:45:25.740-00:45:28.510 | Raven] I mean, if we think that's enough.
 [u0571 | 00:45:29.450-00:45:31.239 | Raven] We can try that.
@@ -583,7 +583,7 @@
 [u0583 | 00:46:23.630-00:46:26.789 | Seeker] have it fly itself over and attempt to tie itself around
 [u0584 | 00:46:27.290-00:46:28.410 | Seeker] a blindfold,
 [u0585 | 00:46:28.500-00:46:30.040 | Seeker] a living blindfold.
-[u0586 | 00:46:30.290-00:46:34.820 | Seeker] Of course {{the well, or}} shake it off, but it could work.
+[u0586 | 00:46:30.290-00:46:34.820 | Seeker] Of course the well, or shake it off, but it could work.
 [u0587 | 00:46:34.950-00:46:48.640 | Caulaus] We can tie two bedrolls together and then animate them, is the giant. How big is the giant? It's not fifteen feet tall. Yeah, right? Yeah. So a cloak is plenty big enough to blind it, but right
 [u0588 | 00:46:48.700-00:46:53.040 | Spirala] or a bedroll. So just something to toss over the head. Yeah,
 [u0589 | 00:46:53.400-00:46:54.319 | Raven] Alright,
@@ -605,7 +605,7 @@
 [u0605 | 00:48:04.550-00:48:08.750 | Seeker] I can try to send it on a wide route around and then approach from the back.
 [u0606 | 00:48:08.770-00:48:11.810 | Seeker] But what's the range which I can.
 [u0607 | 00:48:15.930-00:48:18.829 | Seeker] It obeys your commands.
-[u0608 | 00:48:19.950-00:48:21.810 | Seeker] {{We use attraction as a}}
+[u0608 | 00:48:19.950-00:48:21.810 | Seeker] We use our action as a
 [u0609 | 00:48:27.740-00:48:31.199 | Spirala] Can we ready these things, one after the other, to just sort of
 [u0610 | 00:48:31.770-00:48:45.780 | DM] so it So you have. You can animate something within thirty feet of you, and it obeys your commands, which means Basically, within hearing range. You can. You can control it as long as it can hear you,
 [u0611 | 00:48:46.480-00:48:51.340 | Seeker] but it will continue carrying out a command after it's out of range
@@ -627,7 +627,7 @@
 [u0627 | 00:50:10.270-00:50:19.919 | Raven] because that's the most effective, but least likely to. No, probably about the same likely to work with anything else, but also the most effective. Um:
 [u0628 | 00:50:20.870-00:50:29.579 | Raven] Yeah. And then whoever just follows. So basically we should. Now that we have like three different ways
 [u0629 | 00:50:30.130-00:50:31.790 | Raven] to blind him,
-[u0630 | 00:50:31.930-00:50:43.169 | Raven] we should just go and try and blind them. {{I think we haven't got three to do it.}}
+[u0630 | 00:50:31.930-00:50:43.169 | Raven] we should just go and try and blind them. I think we haven't got three to do it.
 [u0631 | 00:50:46.320-00:51:00.190 | Raven] Well, i'm going to try to get close and stay in. Yes, but you should. Also. We're going to. I think we're going to sneak in with an unanimated tent and us. Okay,
 [u0632 | 00:51:02.430-00:51:08.329 | Spirala] Thanks. I think that makes sense. Yes, how far is your range again, Seeker.
 [u0633 | 00:51:09.390-00:51:10.720 | Seeker] Well, it's
@@ -732,7 +732,7 @@
 [u0732 | 00:59:40.210-00:59:46.190 | DM] everybody everybody needs probably needs to roll Stealth. I did.
 [u0733 | 00:59:46.390-00:59:47.869 | Raven] They got twenty eight.
 [u0734 | 00:59:48.160-00:59:51.919 | Caulaus] Yeah. If I need to roll stealth. Things are going to go badly,
-[u0735 | 00:59:52.390-00:59:57.470 | Spirala] and I will. {{I can mess it}}. So is it going through?
+[u0735 | 00:59:52.390-00:59:57.470 | Spirala] and I will. I can message it. So is it going through?
 [u0736 | 00:59:58.680-01:00:00.830 | Caulaus] Oh, wow, look! I got a fifteen.
 [u0737 | 01:00:04.120-01:00:08.910 | Spirala] It's just showing up as the dice that rolls, and I don't know why it's not connecting to
 [u0738 | 01:00:09.540-01:00:11.380 | DM] Wow!
@@ -836,7 +836,7 @@
 [u0836 | 01:06:59.970-01:07:01.660 | DM] Come on.
 [u0837 | 01:07:14.120-01:07:17.620 | DM] Okay. Sorry. What did uh
 [u0838 | 01:07:18.080-01:07:19.769 | DM] Raven I got.
-[u0839 | 01:07:22.750-01:07:26.960 | DM] {{We all got a twenty R, then nine}}
+[u0839 | 01:07:22.750-01:07:26.960 | DM] We all got a twenty R, then nine
 [u0840 | 01:07:28.860-01:07:29.970 | DM] Seeker
 [u0841 | 01:07:30.720-01:07:32.350 | Seeker] nineteen.
 [u0842 | 01:07:39.040-01:07:40.319 | DM] Ah,
@@ -882,7 +882,7 @@
 [u0882 | 01:10:52.940-01:10:55.679 | Seeker] so I can cast as well, and also command the tent,
 [u0883 | 01:10:55.850-01:10:57.309 | Seeker] because that's a bonus action.
 [u0884 | 01:10:58.520-01:11:01.479 | DM] I think you should be able to control the tent. Now
-[u0885 | 01:11:02.540-01:11:07.070 | Seeker] I will cast slow on {{this date area}}.
+[u0885 | 01:11:02.540-01:11:07.070 | Seeker] I will cast slow on this satyr here.
 [u0886 | 01:11:09.450-01:11:10.450 | DM] Okay,
 [u0887 | 01:11:11.830-01:11:19.829 | DM] with a forty foot cube wisdom saving throw that'll get both of them wisdom save they are not
 [u0888 | 01:11:20.270-01:11:28.449 | DM] noted for their wisdom. One of them succeeds. One of them fails. So this one here is slowed.
@@ -916,7 +916,7 @@
 [u0916 | 01:13:24.340-01:13:28.490 | Caulaus] Okay, that my attack again. Spectacular.
 [u0917 | 01:13:28.660-01:13:30.820 | Caulaus] Uh: So it takes for
 [u0918 | 01:13:30.860-01:13:34.840 | Caulaus] um. It needs to make a Dc. Fifteen Constitution save
-[u0919 | 01:13:35.860-01:13:43.669 | Caulaus] Constitution Constitution fails. Okay. So the {{situation states are also constitutional}}.
+[u0919 | 01:13:35.860-01:13:43.669 | Caulaus] Constitution Constitution fails. Okay. So the situation states are also constitutional.
 [u0920 | 01:13:44.830-01:13:50.069 | Caulaus] So it takes the that four points of damage. It actually takes the start of its turn.
 [u0921 | 01:13:50.230-01:13:53.729 | Caulaus] So it takes fourteen damage now, and four at the start of its turn.
 [u0922 | 01:13:56.120-01:13:58.230 | Caulaus] My second attack is twenty-five
@@ -948,7 +948,7 @@
 [u0948 | 01:16:09.130-01:16:11.280 | Raven] a total of
 [u0949 | 01:16:11.640-01:16:14.969 | Raven] sixteen damage.
 [u0950 | 01:16:15.860-01:16:17.000 | Raven] Um,
-[u0951 | 01:16:17.650-01:16:25.989 | Raven] {{seven of which is}}, that is relevant. Okay? And then I will hit it again
+[u0951 | 01:16:17.650-01:16:25.989 | Raven] seven of which is, that is relevant. Okay? And then I will hit it again
 [u0952 | 01:16:26.110-01:16:28.100 | Raven] or not. Well,
 [u0953 | 01:16:28.330-01:16:29.480 | Raven] um
 [u0954 | 01:16:29.830-01:16:31.290 | DM] twelve misses,
@@ -976,10 +976,10 @@
 [u0976 | 01:17:58.890-01:17:59.980 | DM] um,
 [u0977 | 01:18:00.070-01:18:08.200 | DM] the cavern, the canyon at at the rest of you, and it says, Hmm.
 [u0978 | 01:18:08.630-01:18:09.510 | DM] Ah
-[u0979 | 01:18:09.530-01:18:11.030 | DM] {{class}}
-[u0980 | 01:18:11.690-01:18:14.230 | DM] {{n of giving up memories}}
+[u0979 | 01:18:09.530-01:18:11.030 | DM] class
+[u0980 | 01:18:11.690-01:18:14.230 | DM] Instead of giving up memories
 [u0981 | 01:18:14.540-01:18:16.489 | DM] trying to fight me
-[u0982 | 01:18:18.490-01:18:21.049 | DM] {{work, but we did.}}
+[u0982 | 01:18:18.490-01:18:21.049 | DM] work, but we did.
 [u0983 | 01:18:21.140-01:18:24.339 | Raven] Is my bonus action unarmed strike at some point.
 [u0984 | 01:18:25.080-01:18:25.969 | Unknown] No.
 [u0985 | 01:18:26.400-01:18:28.540 | Raven] Why does it. Take you.
@@ -999,8 +999,8 @@
 [u0999 | 01:19:12.990-01:19:14.210 | DM] Ah,
 [u1000 | 01:19:14.960-01:19:17.200 | DM] okay, You take
 [u1001 | 01:19:17.280-01:19:20.579 | Raven] that. That was a straight roller,
-[u1002 | 01:19:21.730-01:19:28.520 | DM] {{one thousand eight hundred and sixty eight}}. You take fifteen points of psychic damage, but you are not cursed.
-[u1003 | 01:19:28.800-01:19:47.589 | DM] Ow, that hurt. And he then takes his club. Winter's bite, freeze you! slams that down on your head {{just bent eighteen eight hour disadvantage}}. That's an eighteen to hit. Aha! I have a nineteen ac nerd
+[u1002 | 01:19:21.730-01:19:28.520 | DM] one thousand eight hundred and sixty eight. You take fifteen points of psychic damage, but you are not cursed.
+[u1003 | 01:19:28.800-01:19:47.589 | DM] Ow, that hurt. And he then takes his club. Winter's bite, freeze you! slams that down on your head just bent eighteen eight hour disadvantage. That's an eighteen to hit. Aha! I have a nineteen ac nerd
 [u1004 | 01:19:47.600-01:19:51.460 | Raven] you, Miss Loser, Duck out of the way
 [u1005 | 01:19:52.360-01:19:55.460 | DM] turns, looks at you, and he says
 [u1006 | 01:19:55.780-01:19:58.340 | DM] you could just give me a memory.
@@ -1013,9 +1013,9 @@
 [u1013 | 01:20:13.920-01:20:16.939 | DM] the two
 [u1014 | 01:20:17.540-01:20:20.750 | DM] demonically cursed, satyr-like creatures.
 [u1015 | 01:20:20.990-01:20:22.010 | DM] Um,
-[u1016 | 01:20:22.140-01:20:27.350 | DM] {{one of the mark of this very slowed. One.}} Okay, So let's see
+[u1016 | 01:20:22.140-01:20:27.350 | DM] one of the mark of this very slowed. One. Okay, So let's see
 [u1017 | 01:20:27.470-01:20:30.140 | DM] um, Eric. roll a d20.
-[u1018 | 01:20:38.130-01:20:41.370 | Raven] {{You might if you're a penalty that I see in Texas.}}
+[u1018 | 01:20:38.130-01:20:41.370 | Raven] You have a penalty to AC and Dex saves.
 [u1019 | 01:20:42.240-01:20:49.070 | DM] Okay, what is? Remind me what I I gotta check what Slow, yeah. It has a minus two penalty to Ac. And Dex saves.
 [u1020 | 01:20:49.310-01:21:04.040 | DM] Can't use reactions. It can use either an action or a bonus action. So what the slowed one begins to cast a spell, but it's like just moving Super slowly,
 [u1021 | 01:21:04.180-01:21:11.090 | DM] and the spell does not take effect until its next turn. If it's alive.
@@ -1041,7 +1041,7 @@
 [u1041 | 01:22:34.270-01:22:38.870 | Raven] They got it. They're fine, they they they! They're certainly not going to die,
 [u1042 | 01:22:40.040-01:22:42.890 | Spirala] I mean. Does it do any good to have it be paralyzed.
 [u1043 | 01:22:43.140-01:22:51.520 | Raven] Ah, the giant. Yeah. Ah, yeah, that's really really doesn't that mean like Yes, it's really good
-[u1044 | 01:22:51.820-01:22:57.919 | DM] {{i'm. We're a}} cast Hold Person. It's not that it's a giant.
+[u1044 | 01:22:51.820-01:22:57.919 | DM] If you're gonna cast Hold Person. It's not that it's a giant.
 [u1045 | 01:22:58.050-01:23:00.070 | Spirala] It's humanoid.
 [u1046 | 01:23:00.210-01:23:04.589 | DM] It's not humanoid.
 [u1047 | 01:23:04.970-01:23:08.180 | Spirala] Oh, that's why you need to Hold Monster,
@@ -1068,7 +1068,7 @@
 [u1068 | 01:24:36.400-01:24:43.009 | Spirala] if it doesn't show up in Taelgar one shots I don't. I don't know where it shows up. It shows up in D&D Beyond.
 [u1069 | 01:24:43.490-01:24:45.170 | Raven] We can see
 [u1070 | 01:24:45.580-01:24:47.120 | Raven] everything
-[u1071 | 01:24:47.280-01:24:55.480 | DM] as long as we're in {{deem to be out of the exact}}. I don't see Spirala's rolls anywhere. Are they rolling on your screen?
+[u1071 | 01:24:47.280-01:24:55.480 | DM] as long as we're in D&D Beyond, exactly. I don't see Spirala's rolls anywhere. Are they rolling on your screen?
 [u1072 | 01:24:55.990-01:24:59.970 | Spirala] I am losing spell slots when I click cast.
 [u1073 | 01:25:00.130-01:25:05.799 | DM] But that's all the time when you click on the when you click on a die, does it roll somewhere,
 [u1074 | 01:25:07.210-01:25:10.130 | DM] you see, like dice all across your screen.
@@ -1079,7 +1079,7 @@
 [u1079 | 01:25:24.410-01:25:27.429 | Spirala] technological difficulties aside. Um,
 [u1080 | 01:25:27.820-01:25:30.109 | Spirala] i'm trying to
 [u1081 | 01:25:31.730-01:25:36.389 | Spirala] two d six plus nine. That's what i'm trying to accomplish,
-[u1082 | 01:25:36.820-01:25:42.360 | DM] and it will. They need to hit first, if you want to {{pay}} Scorching Ray. {{You passed.}} You
+[u1082 | 01:25:36.820-01:25:42.360 | DM] and it will. They need to hit first, if you want to play Scorching Ray. You passed. You
 [u1083 | 01:25:43.070-01:25:44.740 | DM] make it an attack roll.
 [u1084 | 01:25:45.150-01:25:48.689 | Spirala] Ok, Scorching Ray to hit seven plus nine equals sixteen.
 [u1085 | 01:25:50.350-01:25:52.790 | DM] That hits.
@@ -1101,9 +1101,9 @@
 [u1101 | 01:26:35.300-01:26:36.130 | Unknown] Okay,
 [u1102 | 01:26:36.490-01:26:37.439 | Unknown] I think
 [u1103 | 01:26:37.490-01:26:39.690 | Spirala] you have beyond when you
-[u1104 | 01:26:40.160-01:26:52.160 | DM] Yeah, I don't understand. So as three rays fly out from Spirala, two hit it, {{you are also not.}}
+[u1104 | 01:26:40.160-01:26:52.160 | DM] Yeah, I don't understand. So as three rays fly out from Spirala, two hit it, you are also not.
 [u1105 | 01:26:52.790-01:26:55.110 | Spirala] You click on it
-[u1106 | 01:26:55.600-01:26:57.809 | Seeker] {{of immunization}}.
+[u1106 | 01:26:55.600-01:26:57.809 | Seeker] of immunization.
 [u1107 | 01:26:58.220-01:27:00.320 | DM] I just muted them for a minute.
 [u1108 | 01:27:00.670-01:27:02.070 | Seeker] Okay, thanks.
 [u1109 | 01:27:03.660-01:27:07.389 | Seeker] So let's see the range for the tent.
@@ -1125,7 +1125,7 @@
 [u1125 | 01:28:13.970-01:28:15.749 | Caulaus] but I can't do anything else.
 [u1126 | 01:28:15.920-01:28:20.429 | Raven] You can't do anything else. Yeah, And it's my turn. I hit things again.
 [u1127 | 01:28:21.420-01:28:24.020 | Seeker] I will do an Earthen Grasp.
-[u1128 | 01:28:27.950-01:28:30.850 | Seeker] Oh, I can't {{fix those satyrs}}, can we?
+[u1128 | 01:28:27.950-01:28:30.850 | Seeker] Oh, I can't fix those satyrs, can we?
 [u1129 | 01:28:30.920-01:28:35.130 | DM] You pick one? But Earthen Grasp is also concentration.
 [u1130 | 01:28:35.400-01:28:38.350 | Seeker] Oh, i'm not gonna do that. Then i'm sorry
 [u1131 | 01:28:40.440-01:28:41.950 | Unknown] for a couple of reasons
@@ -1224,12 +1224,12 @@
 [u1224 | 01:35:52.640-01:35:56.690 | Raven] it misses.
 [u1225 | 01:35:58.150-01:35:59.219 | DM] Is that
 [u1226 | 01:35:59.250-01:36:04.560 | Raven] sixteen? Yeah, it misses again. It sucks It's never gonna hit me literally, never.
-[u1227 | 01:36:05.020-01:36:13.910 | DM] Finally the {{sniffy picture}} finishes on the satyr and Caulaus. Your sword begins to glow red hot.
+[u1227 | 01:36:05.020-01:36:13.910 | DM] Finally the spell finishes on the satyr and Caulaus. Your sword begins to glow red hot.
 [u1228 | 01:36:14.910-01:36:15.800 | Unknown] Oh, so!
 [u1229 | 01:36:18.470-01:36:21.199 | DM] And it starts kind of giggling at you,
 [u1230 | 01:36:22.900-01:36:26.170 | DM] and you need to make a
 [u1231 | 01:36:27.400-01:36:32.509 | DM] Constitution saving throw. Everyone's favorite. But first. You take
-[u1232 | 01:36:32.570-01:36:34.880 | DM] {{that for twenty for this damage}}.
+[u1232 | 01:36:32.570-01:36:34.880 | DM] that for twenty for this damage.
 [u1233 | 01:36:35.060-01:36:39.350 | Caulaus] Sorry I I accidentally clicked away from the
 [u1234 | 01:36:40.120-01:36:42.500 | Caulaus] um. How much you said, Five
 [u1235 | 01:36:42.770-01:36:51.900 | Caulaus] five points, and then Constitution save as well. Con saves them actually D&D Beyond that D. And d Beyond went away. Hold on a second.
@@ -1329,7 +1329,7 @@
 [u1329 | 01:44:54.830-01:45:00.210 | DM] with Wall of Stone. I don't think so.
 [u1330 | 01:45:01.240-01:45:06.080 | DM] I mean you could read the spell just as well as I could read the spell.
 [u1331 | 01:45:06.310-01:45:12.429 | DM] Yeah, I was looking at ten ten foot by ten foot panels, so you can make a cube
-[u1332 | 01:45:15.860-01:45:17.409 | Caulaus] {{good phone and crept out}}.
+[u1332 | 01:45:15.860-01:45:17.409 | Caulaus] good phone and crept out.
 [u1333 | 01:45:17.810-01:45:24.970 | DM] But it does get a Dex saving throw to avoid getting trapped by the wall, if you, if it would be completely enclosed,
 [u1334 | 01:45:26.620-01:45:29.620 | DM] and it can't occupy the same space as a
 [u1335 | 01:45:31.630-01:45:38.170 | DM] Oh, no, it can push creatures so you could put it through Raven's space and have it pushed Raven in or out
@@ -1350,7 +1350,7 @@
 [u1350 | 01:47:16.830-01:47:24.040 | Raven] I know what I'm doing. I'm not sure what the problem can. You hurt this satyr and just try and kill it.
 [u1351 | 01:47:26.910-01:47:27.800 | Unknown] He
 [u1352 | 01:47:28.470-01:47:30.710 | Caulaus] I mean I don't.
-[u1353 | 01:47:31.340-01:47:35.320 | Seeker] Is it holding {{a metal within the three}}? But it's no, it's not.
+[u1353 | 01:47:31.340-01:47:35.320 | Seeker] Is it holding a metal within the three? But it's no, it's not.
 [u1354 | 01:47:35.960-01:47:45.749 | Caulaus] But so far it's just cast spells. You can't make the D. The the terrain go away right,
 [u1355 | 01:47:46.060-01:47:47.650 | Caulaus] but
 [u1356 | 01:47:48.480-01:47:54.620 | Seeker] i'll just Erupting Earth again.
@@ -1381,7 +1381,7 @@
 [u1381 | 01:49:54.310-01:49:55.570 | DM] um
 [u1382 | 01:49:59.470-01:50:05.100 | Caulaus] Caulaus. Okay, So should I block the giant so he can't
 [u1383 | 01:50:06.090-01:50:07.439 | Caulaus] look at us.
-[u1384 | 01:50:07.490-01:50:12.260 | Raven] {{I can you command of the this guy to ital}} like, How does this work?
+[u1384 | 01:50:07.490-01:50:12.260 | Raven] I can you command of the this guy at all like, How does this work?
 [u1385 | 01:50:12.610-01:50:14.719 | Caulaus] I can make a cloud of fog.
 [u1386 | 01:50:15.450-01:50:19.130 | Caulaus] It's a first-level ranger spell. It's not that powerful.
 [u1387 | 01:50:19.770-01:50:21.539 | Raven] We are doing things
@@ -1426,7 +1426,7 @@
 [u1426 | 01:53:13.940-01:53:17.110 | Raven] um uh uh the
 [u1427 | 01:53:17.940-01:53:26.229 | Raven] eleven plus three fourteen damage. Okay, and then eleven misses. And this actually,
 [u1428 | 01:53:26.920-01:53:28.750 | Raven] i'll add,
-[u1429 | 01:53:29.850-01:53:34.890 | Raven] i'll spend. So {{my book with eleven}} i'll spend two ki points to add,
+[u1429 | 01:53:29.850-01:53:34.890 | Raven] i'll spend. So my roll was eleven i'll spend two ki points to add,
 [u1430 | 01:53:35.210-01:53:36.820 | Raven] add two.
 [u1431 | 01:53:37.680-01:53:41.009 | Raven] Yeah, i'll. I'll spend two ki points to add four.
 [u1432 | 01:53:41.550-01:53:42.570 | DM] Okay,
@@ -1458,7 +1458,7 @@
 [u1458 | 01:55:19.740-01:55:21.370 | Raven] Raven just there.
 [u1459 | 01:55:21.530-01:55:23.010 | Raven] Three
 [u1460 | 01:55:23.250-01:55:26.099 | DM] Seeker, you take
-[u1461 | 01:55:26.710-01:55:35.379 | Raven] {{Win flashes out}} thirty five points of psychic damage, something they can re-roll with.
+[u1461 | 01:55:26.710-01:55:35.379 | Raven] Win flashes out thirty five points of psychic damage, something they can re-roll with.
 [u1462 | 01:55:37.100-01:55:38.730 | Raven] Whoa!
 [u1463 | 01:55:39.410-01:55:43.290 | Raven] That's a little that's a little spicy. I don't know I do. You.
 [u1464 | 01:55:45.100-01:55:47.199 | DM] That's a little.
@@ -1488,7 +1488,7 @@
 [u1488 | 01:57:42.240-01:57:44.200 | Raven] or of like
 [u1489 | 01:57:44.330-01:57:49.630 | Raven] for it. She that like big yeah, like swirling
 [u1490 | 01:57:51.120-01:57:56.520 | DM] the slowed satyr is going to use its action to do an extra
-[u1491 | 01:57:57.440-01:58:03.919 | DM] sorry {{satisfaction response. Section}} i'll check to do another ten points of fire damage to
+[u1491 | 01:57:57.440-01:58:03.919 | DM] sorry it's actually its bonus action i'll check to do another ten points of fire damage to
 [u1492 | 01:58:04.250-01:58:05.150 | DM] um.
 [u1493 | 01:58:05.180-01:58:10.310 | Caulaus] It doesn't get to take both, since I know it gets one. So yes, it doesn't get an action
 [u1494 | 01:58:10.440-01:58:11.370 | DM] right?
@@ -1521,7 +1521,7 @@
 [u1521 | 02:00:15.820-02:00:31.089 | DM] and that kills that as well. The The satyr that falls down and the tossed dirt of the canyon floor. here, where Seeker disrupted. It also begins to grow and cover both the two bodies of the satyr.
 [u1522 | 02:00:33.380-02:00:41.239 | Raven] They're not frozen. I'm doing damage to them. They're not frozen
 [u1523 | 02:00:43.610-02:00:46.699 | Spirala] self-cleaning ravine. How very fey
-[u1524 | 02:00:47.620-02:00:51.920 | Seeker] Seeker stumbles forward and points to his leg {{can that a going to}} help me with this.
+[u1524 | 02:00:47.620-02:00:51.920 | Seeker] Seeker stumbles forward and points to his leg Can anyone help me with this.
 [u1525 | 02:00:53.000-02:00:55.100 | Raven] Uh, maybe
 [u1526 | 02:00:55.710-02:00:58.750 | Raven] I have a thing it's not a very good thing,
 [u1527 | 02:00:58.870-02:01:00.849 | Raven] maybe. Let's see.
@@ -1533,7 +1533,7 @@
 [u1533 | 02:01:33.750-02:01:35.449 | Unknown] on my my legs
 [u1534 | 02:01:36.790-02:01:39.300 | Raven] again. I'm dying,
 [u1535 | 02:01:40.090-02:01:41.449 | Unknown] but it was uncomfortable.
-[u1536 | 02:01:48.260-02:01:59.840 | Raven] Do you need like stores in this? Is that what you're saying, Raven? He should rest. I I mean, I could, if if we think this is like an unsafe area I could.
+[u1536 | 02:01:48.260-02:01:59.840 | Raven] Do you need like a short rest? Is that what you're saying, Raven? He should rest. I I mean, I could, if if we think this is like an unsafe area I could.
 [u1537 | 02:02:00.210-02:02:07.739 | Raven] I have an ability to like magically rejuvenate most of my resources once per day
 [u1538 | 02:02:07.890-02:02:11.380 | Raven] I can do it during combat, so i'd rather save it
 [u1539 | 02:02:11.470-02:02:19.089 | Raven] for a time during combat when we don't have the option to rest, anyway. But if we hit you with a cure wounds,
@@ -1576,7 +1576,7 @@
 [u1576 | 02:04:48.860-02:04:51.629 | DM] This is just fascinating.
 [u1577 | 02:04:52.090-02:04:56.719 | DM] You're stirring, and you're stirring, and you can feel the like
 [u1578 | 02:04:56.750-02:04:59.300 | DM] depths of memories. Here.
-[u1579 | 02:04:59.720-02:05:03.520 | Raven] {{I didn't have ring}}. I don't need no Wisdom saving throw
+[u1579 | 02:04:59.720-02:05:03.520 | Raven] I didn't have ring. I don't need no Wisdom saving throw
 [u1580 | 02:05:03.540-02:05:18.689 | DM] every moment. It's just more and more interesting, and you can't make anything out. But you. You know that the only thing you want to do is just stand here forever experiencing the history of these people
 [u1581 | 02:05:19.240-02:05:22.230 | DM] who have given their memories as a toll.
 [u1582 | 02:05:22.710-02:05:25.410 | DM] It's just the most fascinating and
@@ -1592,7 +1592,7 @@
 [u1592 | 02:06:16.890-02:06:19.580 | Raven] Oh, it rolled so bad!
 [u1593 | 02:06:20.360-02:06:21.400 | DM] Ah,
 [u1594 | 02:06:21.560-02:06:30.389 | DM] he just grabs the ladle from your hand, and you you start back for a moment.
-[u1595 | 02:06:31.270-02:06:48.929 | Caulaus] You mean my ladle. I'm gonna like toss it off into the hills and say, {{this is my Elen. All}} this is not safe. Come on, throw it at me. Throw it at me as hard as you can. I threw it off as far as I can like up into the rocks in the other direction,
+[u1595 | 02:06:31.270-02:06:48.929 | Caulaus] You mean my ladle. I'm gonna like toss it off into the hills and say, This is malevolent. this is not safe. Come on, throw it at me. Throw it at me as hard as you can. I threw it off as far as I can like up into the rocks in the other direction,
 [u1596 | 02:06:49.340-02:06:53.399 | Raven] threw it at me. I'm not throwing it at you Throw a rock at me.
 [u1597 | 02:06:53.600-02:06:57.419 | Caulaus] I'm not throwing a rock at me.
 [u1598 | 02:06:58.830-02:07:02.190 | DM] So you snap back to yourself. Yeah,
@@ -1617,8 +1617,8 @@
 [u1617 | 02:08:34.480-02:08:35.469 | DM] it
 [u1618 | 02:08:35.490-02:08:39.700 | DM] like It's almost like, yeah, like the
 [u1619 | 02:08:39.740-02:08:45.230 | DM] dirt crawling to form this kind of pile around these three dead bodies.
-[u1620 | 02:08:48.990-02:08:52.060 | Raven] Oh, twenty, six, That's really good {{at thyro}}
-[u1621 | 02:08:52.790-02:08:58.559 | Raven] right? And that's part of my my ki. Wait! Oh, I didn't roll the {{h this}}
+[u1620 | 02:08:48.990-02:08:52.060 | Raven] Oh, twenty, six, That's really good at thyro
+[u1621 | 02:08:52.790-02:08:58.559 | Raven] right? And that's part of my my ki. Wait! Oh, I didn't roll the hit dice
 [u1622 | 02:09:00.510-02:09:02.610 | Raven] um I
 [u1623 | 02:09:03.060-02:09:05.440 | Raven] no, I I was like i'm good
 [u1624 | 02:09:05.790-02:09:10.309 | Raven] the two, and oh, actually, before I can. I
@@ -1660,13 +1660,13 @@
 [u1660 | 02:11:45.590-02:11:51.340 | DM] skip ahead to the palace. Yes, I keep pestering Caulaus about stealing. The ladle
 [u1661 | 02:11:52.780-02:11:57.039 | Caulaus] Caulaus will lecture you every once in a while be like you
 [u1662 | 02:11:57.250-02:11:58.429 | Raven] thief
-[u1663 | 02:11:58.480-02:11:59.639 | Caulaus] visits.
+[u1663 | 02:11:58.480-02:11:59.639 | Caulaus] Listen.
 [u1664 | 02:12:00.450-02:12:04.120 | Caulaus] I am looking out for your safety. Your guide,
 [u1665 | 02:12:04.340-02:12:11.759 | Caulaus] This ladle was not safe for you. You would have become a new giant, a cursed guardian of the of the memories of that path,
 [u1666 | 02:12:13.000-02:12:14.820 | Raven] i'd do better than he did.
 [u1667 | 02:12:15.590-02:12:19.250 | Caulaus] Well might do better than he did. But is that the fate you wish?
 [u1668 | 02:12:20.030-02:12:22.139 | Raven] Not particularly
-[u1669 | 02:12:22.240-02:12:27.240 | Caulaus] stop complaining {{obligations}}. I rather i'd rather have a ladle
+[u1669 | 02:12:22.240-02:12:27.240 | Caulaus] stop complaining obligations. I rather i'd rather have a ladle
 [u1670 | 02:12:27.970-02:12:30.019 | Raven] that would be great.
 [u1671 | 02:12:30.070-02:12:31.650 | Caulaus] Would you like a ladle?
 [u1672 | 02:12:31.790-02:12:32.760 | Raven] The
@@ -1917,7 +1917,7 @@
 [u1917 | 02:30:58.970-02:31:00.650 | DM] Well, this
 [u1918 | 02:31:01.680-02:31:03.820 | DM] it will go Well,
 [u1919 | 02:31:06.440-02:31:15.799 | DM] she reaches forward, and she grabs like one like thick strand of hair, like like a good sized chunk. But just like one streak basically
-[u1920 | 02:31:15.860-02:31:22.550 | DM] from the hair. {{He had white streak}} down the center of my head. Exactly,
+[u1920 | 02:31:15.860-02:31:22.550 | DM] from the hair. He had white streak down the center of my head. Exactly,
 [u1921 | 02:31:22.800-02:31:28.369 | DM] and as she grasps onto it, you just see, like a flash for a moment of the court
 [u1922 | 02:31:28.860-02:31:31.229 | DM] as it was with
 [u1923 | 02:31:31.560-02:31:39.199 | DM] hundreds of fey in this palace that's floating in the sky, resting on a cloud above a golden sunset.
@@ -1954,7 +1954,7 @@
 [u1954 | 02:33:50.610-02:33:52.580 | DM] catches, this thread,
 [u1955 | 02:33:53.890-02:33:58.280 | DM] Lastlight Falls will open, and you may step through to the other side.
 [u1956 | 02:34:00.650-02:34:01.710 | Seeker] You see,
-[u1957 | 02:34:03.010-02:34:04.009 | Seeker] {{I think you need it}}.
+[u1957 | 02:34:03.010-02:34:04.009 | Seeker] I thank you, Lady.
 [u1958 | 02:34:05.150-02:34:06.960 | Raven] We just got to get there.
 [u1959 | 02:34:11.100-02:34:13.420 | DM] Getting there is not hard.
 [u1960 | 02:34:13.470-02:34:15.350 | DM] If you stay in the light
@@ -2018,7 +2018,7 @@
 [u2018 | 02:38:23.740-02:38:26.550 | Caulaus] I stay here. reliving. The past
 [u2019 | 02:38:32.740-02:38:34.210 | Caulaus] feels not
 [u2020 | 02:38:34.740-02:38:36.340 | Caulaus] like the past,
-[u2021 | 02:38:40.020-02:38:42.310 | Caulaus] but I will think {{I knew where}}
+[u2021 | 02:38:40.020-02:38:42.310 | Caulaus] but I will think on your words
 [u2022 | 02:38:42.660-02:38:45.849 | DM] you have been here too long. But yes, do think
 [u2023 | 02:38:54.120-02:38:55.420 | DM] and go.
 [u2024 | 02:38:55.730-02:38:57.779 | DM] Keep your companions safe.
@@ -2046,7 +2046,7 @@
 [u2046 | 02:40:35.400-02:40:40.070 | DM] the long shadows cast by these trees,
 [u2047 | 02:40:43.200-02:40:46.640 | Caulaus] do not, I think, stand in the shadows if we can.
 [u2048 | 02:40:49.110-02:40:56.720 | Spirala] When we were leaving the palace, if there was any like grass or anything growing anywhere near it, I sort of flowered it up for her.
-[u2049 | 02:40:58.940-02:41:02.480 | DM] Okay, yeah, there is grass growing around {{if they are bad}}.
+[u2049 | 02:40:58.940-02:41:02.480 | DM] Okay, yeah, there is grass growing around if they are bad.
 [u2050 | 02:41:02.740-02:41:03.740 | DM] Um.
 [u2051 | 02:41:07.330-02:41:08.580 | DM] So
 [u2052 | 02:41:08.800-02:41:09.830 | DM] you just
@@ -2062,7 +2062,7 @@
 [u2062 | 02:42:03.770-02:42:11.899 | DM] like like move they wiggle a little bit. They seem to like move a little bit occasionally like
 [u2063 | 02:42:12.710-02:42:14.979 | DM] It's probably
 [u2064 | 02:42:15.500-02:42:18.669 | DM] three hundred feet or so to the line of trees.
-[u2065 | 02:42:21.760-02:42:25.099 | Seeker] {{I have a humor to}} be up in the air.
+[u2065 | 02:42:21.760-02:42:25.099 | Seeker] I have a humor to be up in the air.
 [u2066 | 02:42:34.220-02:42:36.390 | DM] It's probably my shadows.
 [u2067 | 02:42:41.550-02:42:43.910 | Caulaus] Can Can anybody cast fly?
 [u2068 | 02:42:45.200-02:42:46.340 | Unknown] Yeah,
@@ -2077,10 +2077,10 @@
 [u2077 | 02:43:22.470-02:43:26.040 | Seeker] I can't teleport thirty feet,
 [u2078 | 02:43:26.850-02:43:28.539 | Raven] so I can like.
 [u2079 | 02:43:29.340-02:43:31.080 | Raven] I also
-[u2080 | 02:43:31.160-02:43:34.300 | Raven] {{ball the plunge}}, but I can't like
-[u2081 | 02:43:35.000-02:43:46.640 | Spirala] I mean I can make light. We can just sort of {{keep the hundred shadows}}. Wait, Yeah, My sword can shed bright light in it like thirty-foot radius.
+[u2080 | 02:43:31.160-02:43:34.300 | Raven] ball the plunge, but I can't like
+[u2081 | 02:43:35.000-02:43:46.640 | Spirala] I mean I can make light. We can just sort of keep the hundred shadows. Wait, Yeah, My sword can shed bright light in it like thirty-foot radius.
 [u2082 | 02:43:47.520-02:43:50.770 | Unknown] I could just Dimension Door to step past the trees.
-[u2083 | 02:43:51.030-02:43:58.810 | Caulaus] We let's see if this Why, don't we just Dimension Door. {{Let me teach it}}. Okay, can you Dimension Door more than one person.
+[u2083 | 02:43:51.030-02:43:58.810 | Caulaus] We let's see if this Why, don't we just Dimension Door. Let me teach it. Okay, can you Dimension Door more than one person.
 [u2084 | 02:43:59.510-02:44:10.840 | Raven] I think it's only me, him and one other person now, but I can. What if I So I pull out my um crystal blade, and I will
 [u2085 | 02:44:10.980-02:44:12.160 | Raven] um
 [u2086 | 02:44:13.020-02:44:14.270 | Raven] say
@@ -2090,7 +2090,7 @@
 [u2090 | 02:44:22.900-02:44:23.800 | Unknown] like
 [u2091 | 02:44:24.560-02:44:28.960 | Raven] blue light, emanates from the sword, and uh
 [u2092 | 02:44:29.620-02:44:35.399 | Raven] thirty-foot radius bright light around me. Does that do anything to the shadows?
-[u2093 | 02:44:36.200-02:44:39.239 | Raven] Um {{it all away}} from the one?
+[u2093 | 02:44:36.200-02:44:39.239 | Raven] Um it all away from the one?
 [u2094 | 02:44:42.200-02:44:44.120 | DM] Uh, is it?
 [u2095 | 02:44:46.650-02:44:54.360 | DM] Ah, it's just, is it? It's just what It's just your crystal sword. Right? Yeah, It's my crystal sword, which is a rare. My,
 [u2096 | 02:44:55.840-02:44:57.690 | DM] but it's not like.
@@ -2109,7 +2109,7 @@
 [u2109 | 02:45:57.300-02:46:00.560 | Spirala] I don't know i'm never. It's a con.
 [u2110 | 02:46:02.430-02:46:05.210 | Spirala] Let us out of the action.
 [u2111 | 02:46:06.420-02:46:08.240 | Spirala] Channel divinity
-[u2112 | 02:46:09.780-02:46:11.300 | Spirala] {{asterdam.}}
+[u2112 | 02:46:09.780-02:46:11.300 | Spirala] asterdam.
 [u2113 | 02:46:12.540-02:46:22.750 | DM] So it don't so you you uh Spirala glows with this bright light, and like, holds up her hand, and
 [u2114 | 02:46:22.820-02:46:30.510 | DM] the the darkness the like shadows. Retreat, scurry, scurry away from
 [u2115 | 02:46:30.530-02:46:31.930 | DM] from you.
@@ -2185,7 +2185,7 @@
 [u2185 | 02:52:28.960-02:52:32.690 | DM] Seeker and and
 [u2186 | 02:52:33.310-02:52:38.030 | DM] Caulaus, You feel like ice beginning to creep up your legs,
 [u2187 | 02:52:38.090-02:52:41.319 | DM] and you are now restrained.
-[u2188 | 02:52:43.620-02:52:51.880 | DM] It's getting colder and darker, and you're starting to feel, {{Alan}}, how far away are we from somewhere not restrained
+[u2188 | 02:52:43.620-02:52:51.880 | DM] It's getting colder and darker, and you're starting to feel, alarmed, how far away are we from somewhere not restrained
 [u2189 | 02:52:52.540-02:52:55.249 | DM] like fifty feet.
 [u2190 | 02:52:56.940-02:52:58.320 | Caulaus] Um,
 [u2191 | 02:52:58.910-02:53:00.889 | Caulaus] Okay, uh
@@ -2205,7 +2205,7 @@
 [u2205 | 02:54:02.060-02:54:04.310 | DM] Okay, say something again.
 [u2206 | 02:54:07.090-02:54:14.269 | DM] Okay, let's see if I can get another ten minutes out of my air pods. Because I don't know why my computer speaker is not working.
 [u2207 | 02:54:15.800-02:54:20.019 | Caulaus] Sorry. What were you all saying? What are you going to do? I was going to cast Misty Step.
-[u2208 | 02:54:20.650-02:54:24.090 | Raven] I was {{not trying to take}} the ice on Seeker's legs.
+[u2208 | 02:54:20.650-02:54:24.090 | Raven] I was trying to break the ice on Seeker's legs.
 [u2209 | 02:54:25.540-02:54:27.140 | Raven] You also feel right.
 [u2210 | 02:54:28.950-02:54:33.199 | Raven] My Physician's Touch is useless. It doesn't end the restrained condition.
 [u2211 | 02:54:34.720-02:54:36.570 | Caulaus] Can you just cast Dimension Door?
@@ -2262,7 +2262,7 @@
 [u2262 | 02:57:59.560-02:58:03.919 | Spirala] Raven? Perhaps you could be a guide for Caulaus, and he could explore Shimmersong.
 [u2263 | 02:58:08.350-02:58:09.480 | Caulaus] I would
 [u2264 | 02:58:10.360-02:58:12.269 | Caulaus] welcome the opportunity
-[u2265 | 02:58:13.180-02:58:14.520 | Raven] {{on two island.}}
+[u2265 | 02:58:13.180-02:58:14.520 | Raven] Why don't you invite him?
 [u2266 | 02:58:15.880-02:58:19.390 | Spirala] Why, don't I invite him so? He just said,
 [u2267 | 02:58:20.150-02:58:26.119 | Spirala] Oh, because I want to hang out here for a little while and make sure that Seeker gets through it the right kind of light
 [u2268 | 02:58:27.890-02:58:29.460 | Seeker] Got the thread, after all.
@@ -2270,7 +2270,7 @@
 [u2270 | 02:58:47.470-02:58:50.610 | DM] i'm. I'm going to figure that out. I mean
 [u2271 | 02:58:51.430-02:58:52.799 | Caulaus] he has the light
 [u2272 | 02:58:54.230-02:58:58.180 | Caulaus] thing. Yes, we might have to email a little bit. Um,
-[u2273 | 02:58:58.480-02:59:03.839 | DM] i'm going to sort. I will start {{the editor man}}. It's the order that Delwath is going to be the last to arrive.
+[u2273 | 02:58:58.480-02:59:03.839 | DM] i'm going to sort. I will start the editor man. It's the order that Delwath is going to be the last to arrive.
 [u2274 | 02:59:04.650-02:59:05.510 | Seeker] Oh,
 [u2275 | 02:59:07.130-02:59:10.599 | DM] I think, unless Wellby manages to get himself killed
 [u2276 | 02:59:10.980-02:59:12.400 | DM] next Friday.
@@ -2305,8 +2305,8 @@
 [u2305 | 03:01:01.150-03:01:03.259 | Seeker] Who I brought back here?
 [u2306 | 03:01:03.460-03:01:07.060 | Raven] The Cloudspinner?
 [u2307 | 03:01:07.660-03:01:08.830 | Seeker] No.
-[u2308 | 03:01:09.160-03:01:10.179 | Seeker] {{Who instantly}}
-[u2309 | 03:01:11.370-03:01:12.289 | Seeker] {{person.}}
+[u2308 | 03:01:09.160-03:01:10.179 | Seeker] Who instantly
+[u2309 | 03:01:11.370-03:01:12.289 | Seeker] person.
 [u2310 | 03:01:19.370-03:01:21.429 | Seeker] Perhaps Raven can help you with that.
 [u2311 | 03:01:21.510-03:01:23.130 | Seeker] Oh, but we haven't already left.
 [u2312 | 03:01:23.700-03:01:24.690 | Raven] Uh
