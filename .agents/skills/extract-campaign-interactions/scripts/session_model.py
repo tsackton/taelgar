@@ -1,4 +1,4 @@
-"""Canonical v5 structure, provenance validation, readiness and portable review rendering."""
+"""Session enrichment validation and review rendering, with historical v5 support."""
 import copy
 import hashlib
 import json
@@ -92,7 +92,7 @@ class SourceCatalog:
             if source.get('sha256'):
                 require(self.hashes[sid] == source['sha256'], f'Source hash changed: {source["path"]}')
             rows = {}
-            for line, text in enumerate(raw.decode('utf-8').splitlines(), 1):
+            for line, text in enumerate(raw.decode('utf-8').lstrip('\ufeff').splitlines(), 1):
                 m = re.match(r'^\[(u\d+)(?:\s*\|\s*(.*?))?\]\s?(.*)$', text)
                 if m:
                     uid, speaker, text = m.groups()
@@ -123,7 +123,8 @@ class SourceCatalog:
     def link(self, locator, output):
         sid, _, _ = self.bounds(locator)
         line = self.rows[sid][locator['startUid']]['line']
-        last = self.rows[sid][locator['endUid']]['line']
+        row = self.rows[sid][locator['endUid']]
+        last = row.get('endLine', row['line'])
         path = self.vault / self.sources[sid]['path']
         target = quote(os.path.relpath(path, Path(output).parent), safe='/.-_')
         if self.source_revision:
@@ -131,10 +132,18 @@ class SourceCatalog:
         anchor = f'L{line}' + (f'-L{last}' if last != line else '')
         return f'[{locator["startUid"]}–{locator["endUid"]}]({target}?plain=1#{anchor})'
 
-def validate(data, vault, source_revision=None):
-    jsonschema.Draft202012Validator(json.loads(SCHEMA.read_text()), format_checker=jsonschema.FormatChecker()).validate(data)
-    catalog = SourceCatalog(data, vault, source_revision)
-    for value in [*data['pcs'], *data.get('locations', [])]:
+def validate(data, vault, source_revision=None, processing=None):
+    schema = SCHEMA.with_name('session-v5.schema.json') if data.get('schemaVersion') == 5 else SCHEMA
+    jsonschema.Draft202012Validator(json.loads(schema.read_text()), format_checker=jsonschema.FormatChecker()).validate(data)
+    if data['schemaVersion'] == 6:
+        from session_bundle import BundleCatalog
+        require(source_revision is None, 'Historical snapshot rendering is supported for v5 only')
+        catalog = BundleCatalog(data, vault)
+        pcs = catalog.display_metadata()['pcs']
+    else:
+        catalog = SourceCatalog(data, vault, source_revision)
+        pcs = data['pcs']
+    for value in [*pcs, *data.get('locations', [])]:
         vault_path(vault, value)
     def dates(record):
         if record.get('dateStart') and record.get('dateEnd'):
@@ -156,7 +165,7 @@ def validate(data, vault, source_revision=None):
     for entity in entities.values():
         if entity.get('note'):
             vault_path(vault, entity['note'])
-            require(entity['note'] not in data['pcs'] or entity['kind'] != 'npc', 'Participating PC included as NPC')
+            require(entity['note'] not in pcs or entity['kind'] != 'npc', 'Participating PC included as NPC')
     records = unique(data.get('interactions', []), 'id', 'interaction ID')
     quotes = {}
     for record in records.values():
@@ -179,18 +188,34 @@ def validate(data, vault, source_revision=None):
     for entity in entities.values():
         require(all(quotes.get(q) == entity['id'] for q in entity.get('aiSuggestedFeaturedQuotes', [])), 'Featured quote does not belong to entity')
     total = sum(len(x) for x in catalog.rows.values())
-    return {'catalog': catalog, 'sourceUtterances': total, 'sceneUtterances': len(coverage),
+    result = {'catalog': catalog, 'sourceUtterances': total, 'sceneUtterances': len(coverage),
             'unassignedUtterances': total - len(coverage), 'metadataReady': ready(data),
             'readyEntities': sum(ready(x) for x in entities.values()),
             'provisionalEntities': sum(not ready(x) for x in entities.values())}
+    if processing is not None:
+        from session_processing import validate_processing
+        result.update(validate_processing(data, processing, vault, catalog, coverage))
+        result['metadataReady'] = ready(data) and result['reviewCurrent'] and not result['criticalMetadataFindings']
+    elif data['schemaVersion'] == 6:
+        result['metadataReady'] = False  # Review fingerprints have not been checked.
+    return result
 
-def critical_queue(data):
+def critical_queue(data, processing=None):
     queue = []
     if not ready(data):
         queue.append({'target': 'session', 'review': data.get('review'), 'reason': 'Critical session metadata is provisional.'})
     for entity in data.get('entities', []):
         if not ready(entity):
             queue.append({'target': 'entity:' + entity['id'], 'label': entity['label'], 'review': entity.get('review'), 'reason': 'Entity identity/inclusion/vault match is provisional.'})
+    if processing:
+        from session_bundle import fingerprint
+        from session_processing import processing_digest
+        current = bool(processing['reviews'] and processing['reviews'][-1]['outputDigest'] == fingerprint(data) and
+                       processing['reviews'][-1]['report']['processingDigest'] == processing_digest(processing))
+        if not current and not any(item['target'] == 'session' for item in queue):
+            queue.append({'target': 'session', 'reason': 'Candidate or processing evidence lacks a current semantic review.'})
+        queue.extend({'target': 'metadata:' + f['id'], 'reason': f['reason'], 'evidence': f['evidence']}
+                     for f in processing['metadataFindings'] if f['severity'] == 'critical' and f['status'] == 'open')
     return queue
 
 def check_evidence(decision, catalog, vault):
@@ -198,10 +223,16 @@ def check_evidence(decision, catalog, vault):
     for locator in decision['evidence']:
         if 'vaultPath' in locator:
             vault_path(vault, locator['vaultPath'])
+        elif 'yamlField' in locator:
+            require(hasattr(catalog, 'metadata'), 'YAML evidence requires a session bundle')
+            current = catalog.metadata
+            for part in locator['yamlField'].split('.'):
+                require(isinstance(current, dict) and part in current, 'Unknown YAML evidence field')
+                current = current[part]
         else:
             catalog.bounds(locator)
 
-def apply_review(data, report, vault, stage='automatedReviewed', source_revision=None):
+def apply_review(data, report, vault, stage='automatedReviewed', source_revision=None, processing=None):
     """Apply separately authored judgments; validation alone never creates judgments."""
     require(stage in {'automatedReviewed', 'humanReviewed'}, 'Invalid review stage')
     expected = hashlib.sha256(json.dumps(data, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
@@ -209,7 +240,11 @@ def apply_review(data, report, vault, stage='automatedReviewed', source_revision
     require(report.get('reviewer') and report.get('decisions'), 'Missing reviewer/decisions')
     require(report.get('attempt') in {0, 1}, 'At most one targeted correction attempt')
     result = copy.deepcopy(data)
-    catalog = validate(data, vault, source_revision)['catalog']
+    if data.get('schemaVersion') == 6:
+        from session_processing import processing_digest
+        require(processing is not None, 'v6 review requires session-processing-data.json')
+        require(report.get('processingDigest') == processing_digest(processing), 'Stale review: processing evidence changed')
+    catalog = validate(data, vault, source_revision, processing)['catalog']
     targets = {'session': (result, 'review'), 'scenes': (result, 'sceneReview')}
     targets.update({'entity:' + e['id']: (e, 'review') for e in result.get('entities', [])})
     targets.update({'interaction:' + r['id']: (r, 'review') for r in result.get('interactions', [])})
@@ -222,13 +257,59 @@ def apply_review(data, report, vault, stage='automatedReviewed', source_revision
         record, key = targets[target]
         require(stage == 'humanReviewed' or record.get(key, {}).get('status') != 'humanReviewed', 'Automated review cannot overwrite human review')
         record[key] = {'confidence': decision['confidence'], 'status': stage}
-    validate(result, vault, source_revision)
+    validate(result, vault, source_revision, processing)
     return result
 
-def render(data, vault, output, findings=None, source_revision=None, excluded=None, observations=None):
-    checked = validate(data, vault, source_revision)
+
+def check_correction(data, corrected, report, vault, source_revision=None, processing=None):
+    """Preserve human decisions and require reassessment/removal evidence."""
+    for key in (['schemaVersion', 'sessionYaml'] if data.get('schemaVersion') == 6 else ['schemaVersion', 'campaign', 'session', 'sources']):
+        if corrected[key] != data[key]:
+            raise ValueError(f'Correction changed execution identity/source: {key}')
+    # Changed claims must be explicitly reassessed, not inherit old approval.
+    targets = {d['target'] for d in report['decisions']}
+    for key in ['review', 'sceneReview']:
+        if corrected.get(key) != data.get(key):
+            raise ValueError('Correction cannot change review states directly')
+    ignored = {'review', 'sceneReview', 'entities', 'interactions', 'scenes'}
+    if {k:v for k,v in corrected.items() if k not in ignored} != {k:v for k,v in data.items() if k not in ignored}:
+        if data.get('review', {}).get('status') == 'humanReviewed':
+            raise ValueError('Correction cannot overwrite human-reviewed metadata')
+        if 'session' not in targets:raise ValueError('Metadata correction lacks session reassessment')
+    if corrected.get('scenes') != data.get('scenes'):
+        if data.get('sceneReview', {}).get('status') == 'humanReviewed':
+            raise ValueError('Correction cannot overwrite human-reviewed scenes')
+        if 'scenes' not in targets:raise ValueError('Scene correction lacks collection reassessment')
+    removed = set()
+    for collection, prefix in [('entities', 'entity:'), ('interactions', 'interaction:')]:
+        old = {r['id']:r for r in data.get(collection, [])}
+        new = {r['id']:r for r in corrected.get(collection, [])}
+        for rid, record in old.items():
+            if record.get('review', {}).get('status') == 'humanReviewed' and new.get(rid) != record:
+                raise ValueError(f'Correction cannot overwrite human-reviewed record: {prefix}{rid}')
+            if rid in new and record.get('review') != new[rid].get('review'):
+                raise ValueError('Correction cannot change review states directly')
+        removed.update(prefix + rid for rid in old.keys() - new.keys())
+        for rid, record in new.items():
+            if record != old.get(rid) and prefix + rid not in targets:
+                raise ValueError(f'Correction lacks reassessment: {prefix}{rid}')
+    removals = report.get('removals', [])
+    if len(removals) != len(removed) or {r['target'] for r in removals} != removed:
+        raise ValueError('Removed records require explicit removal decisions')
+    for removal in removals:
+        check_evidence(removal, validate(data, vault, source_revision, processing)['catalog'], vault)
+
+def render(data, vault, output, findings=None, source_revision=None, excluded=None, observations=None, processing=None):
+    if data.get('schemaVersion') == 6:
+        require(processing is not None, 'v6 review rendering requires session-processing-data.json')
+    checked = validate(data, vault, source_revision, processing)
     cat = checked['catalog']
-    findings, excluded = findings or {}, excluded or {}
+    if data.get('schemaVersion') == 6:
+        data = {**data, **cat.display_metadata()}
+    findings, excluded = dict(findings or {}), excluded or {}
+    if processing:
+        for record in processing['reviews']:
+            findings.update({d['target']: d['reason'] for d in record['report']['decisions']})
     observations = observations or []
     entities = review_entities(data, excluded)
     records_by_entity = {e['id']: [r for r in data.get('interactions', []) if r['entity'] == e['id']] for e in data.get('entities', [])}
@@ -248,20 +329,41 @@ def render(data, vault, output, findings=None, source_revision=None, excluded=No
     navigation = []
     if (Path(output).parent.parent / 'sample.json').is_file():
         navigation.append('[All sessions](../README.md)')
-    if (Path(output).parent / 'session.json').is_file():
-        navigation.append('[Original session JSON](session.json)')
+    if (processing and processing['stage'] == 'completed') or (Path(output).parent / 'session.json').is_file():
+        navigation.append('[Session JSON](session.json)' if processing else '[Original session JSON](session.json)')
+    if processing:
+        target = quote(os.path.relpath(Path(vault) / data['sessionYaml'], Path(output).parent), safe='/.-_')
+        navigation.append('[Session YAML](' + target + ')')
     lines = [f'# {campaign_name(data, vault)} · Session {data["session"]}', '',
              ' · '.join(navigation), '',
              f'**{len(entities)} entities** · {sum(not ready(e) for e in entities)} provisional · Played {data["realWorldDate"]}', '',
              'Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.', '',
-             f'Metadata: {state(data)} · ' + ('Ready for normal use' if ready(data) else '**Provisional critical metadata**'), '',
+             f'Metadata: {state(data)} · ' + ('Ready for normal use' if checked['metadataReady'] else '**Provisional critical metadata**'), '',
              '<details>', '<summary>Session dates, PCs, locations and metadata review</summary>', '',
              f'In-world span: {data.get("dateStart") or "unknown"} to {data.get("dateEnd") or "unknown"}', '',
              'PCs: ' + (', '.join(page(x) for x in data['pcs']) or '**No resolved PC pages; inspect the metadata review.**'), '',
              'Locations: ' + (', '.join(page(x) for x in data.get('locations', [])) or 'Not recorded'), '']
     if findings.get('session'):
         lines += ['Metadata review: ' + findings['session'], '']
+    if processing:
+        roles = [str(p['gameRole']) for p in (cat.metadata.get('participants') or []) if p.get('gameRole')]
+        lines += ['YAML participant roles (speaker mapping, not verified PC attendance): ' + ', '.join(roles), '']
+        for finding in processing['metadataFindings']:
+            lines += [f'**{finding["severity"].capitalize()} · {finding["status"]}:** {finding["reason"]}', '']
+            evidence_links = []
+            for evidence in finding['evidence']:
+                if 'yamlField' in evidence:
+                    evidence_links.append('YAML `' + evidence['yamlField'] + '`')
+                elif 'vaultPath' in evidence:
+                    evidence_links.append(page(evidence['vaultPath']))
+                else:
+                    evidence_links.append(cat.link(evidence, output))
+            lines += ['Evidence: ' + ' · '.join(evidence_links), '']
+            if finding.get('proposedChange'):
+                lines += ['Proposed YAML change: `' + json.dumps(finding['proposedChange'], ensure_ascii=False) + '`', '']
     lines += ['</details>', '']
+    if processing and processing['reviews'] and not checked['reviewCurrent']:
+        lines += ['**Review is stale:** the candidate or processing evidence changed. Saved confidence labels are historical assessments pending reassessment.', '']
     if source_revision:
         lines += [f'Transcript links use the reviewed version at `{source_revision[:9]}`.', '']
         if cat.current_changed:
@@ -329,6 +431,14 @@ def render(data, vault, output, findings=None, source_revision=None, excluded=No
         by_id = {e['id']: e for e in data.get('entities', [])}
         lines += [f'- **{by_id[eid]["label"]}** (`{eid}`): {reason}' for eid, reason in excluded.items()]
         lines += ['', '</details>', '']
+    if processing:
+        lines += ['## Transcript coverage and exclusions', '',
+                  f'{checked["sceneUtterances"]} UIDs in scenes · {checked["excludedUtterances"]} excluded · {checked["unexplainedUtterances"]} unexplained.', '',
+                  '| Excluded range | Reason |', '| --- | --- |']
+        lines += [f'| {cat.link(block["source"], output)} | {cell(block["reason"])} |' for block in processing['excludedBlocks']]
+        if not processing['excludedBlocks']:
+            lines += ['No excluded blocks recorded.']
+        lines += ['', '[Processing evidence](session-processing-data.json)', '']
     lines += ['## Scene reference', '', '<details>', f'<summary>Scene division and context ({len(data.get("scenes", []))} scenes)</summary>', '',
               f'Collection review: {state(data, "sceneReview")}', '',
               '| Scene | Type | Location | In-world time | AI summary | Source |', '| --- | --- | --- | --- | --- | --- |']

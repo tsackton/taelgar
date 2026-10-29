@@ -1,0 +1,853 @@
+{
+  "reviewer": "/root/review_du041_v6",
+  "attempt": 0,
+  "inputDigest": "68629b8b871a0e3b78826866f6348b806ed2a096f9482c5f30132de3b6b8deb9",
+  "processingDigest": "3df7dcb781f151460cf8586e27324031632d449891d39a145959f665262bd5f6",
+  "fullTranscriptRead": true,
+  "readLedger": "independent-source-ledger.json",
+  "summary": "Source accounting and whole-conversation treatment are strong. Correct cultural attribution, intermediary custody, incomplete session overviews, two item links, camp location and a few bounded descriptions; remove only the culture misclassified as an organization and merge one continuing interaction.",
+  "corrections": [
+    {
+      "id": "creator-traditions-and-whole-discussion",
+      "priority": "correction",
+      "targets": [
+        "entity:presence",
+        "interaction:i059",
+        "interaction:i060"
+      ],
+      "reason": "i059 assigns Shurat and Sampa to the Deno'qai, reversing the source. i059/i060 are one ongoing creator discussion within Kassi's conversation. Canonical Divine Presence is a shared reference page whose own text preserves the single/multiple interpretation, so retain one cautiously described entity.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1737",
+          "endUid": "u1759"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1814",
+          "endUid": "u1867"
+        },
+        {
+          "vaultPath": "Gods and Religions/Gods/High Gods/Divine Presence.md"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:presence",
+          "set": {
+            "aiSummary": "Kassi compares Anida with the Dunmari creator pair Shurat and Sampa through philosophical traditions, treating their relationship as interpretation rather than a proved revelation."
+          }
+        },
+        {
+          "target": "interaction:i059",
+          "set": {
+            "aiSummary": "Kassi compares the Deno'qai Anida with the Dunmari Shurat and Sampa, then discusses her belief that divine power creates the gods.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1737",
+                  "endUid": "u1867"
+                },
+                "relevance": "primary",
+                "aiSummary": "Kassi compares creator traditions and discusses her belief in the origin of divine power."
+              }
+            ]
+          }
+        },
+        {
+          "target": "interaction:i060",
+          "action": "remove",
+          "reason": "Merge its later creator discussion into i059; no separate meeting or encounter occurs."
+        }
+      ],
+      "removedTargets": [
+        "interaction:i060"
+      ]
+    },
+    {
+      "id": "culture-is-not-an-organization",
+      "priority": "correction",
+      "targets": [
+        "entity:denoqai",
+        "interaction:i070"
+      ],
+      "reason": "The named subject is a broad religious-cultural people, not an organization. Its canonical page is tagged ancestry and explicitly says it is not a single polity. The useful discussion remains in Kassi, Eukos, Yezali and the creator record; do not silently broaden organization to cover cultures.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1740",
+          "endUid": "u1777"
+        },
+        {
+          "vaultPath": "Groups/Cultures/Deno'qai Tribes/Deno'qai.md"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:denoqai",
+          "action": "remove"
+        },
+        {
+          "target": "interaction:i070",
+          "action": "remove"
+        }
+      ],
+      "removedTargets": [
+        "entity:denoqai",
+        "interaction:i070"
+      ]
+    },
+    {
+      "id": "keepsake-custody",
+      "priority": "correction",
+      "targets": [
+        "entity:keepsakes",
+        "entity:charmhearts",
+        "interaction:i074",
+        "interaction:i066"
+      ],
+      "reason": "The Charmhearts are intermediaries. Wellby hopes the locket/ring can be passed onward to the dead halfling's descendants or family; the transcript does not identify those relatives as the Charmhearts or record completed final return.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0720",
+          "endUid": "u0724"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0767",
+          "endUid": "u0776"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:keepsakes",
+          "set": {
+            "aiSummary": "Wellby entrusts a dead halfling's locket and ring to the Charmhearts to pass onward to any surviving descendants or family."
+          }
+        },
+        {
+          "target": "entity:charmhearts",
+          "set": {
+            "aiSummary": "The Charmhearts remain at the Red Lily and receive gifts through Tye, including keepsakes intended for onward return to a dead halfling's family."
+          }
+        },
+        {
+          "target": "interaction:i074",
+          "set": {
+            "aiSummary": "Wellby sends the recovered locket and ring to the Charmhearts to pass onward to the dead halfling's surviving family."
+          },
+          "setPassageAiSummaryToInteraction": true
+        },
+        {
+          "target": "interaction:i066",
+          "set": {
+            "aiSummary": "The party sends gifts through Tye to the Charmhearts, including keepsakes to pass onward to a dead halfling's family."
+          },
+          "setPassageAiSummaryToInteraction": true
+        }
+      ]
+    },
+    {
+      "id": "session-wide-overviews",
+      "priority": "correction",
+      "targets": [
+        "entity:sura",
+        "entity:bhishma",
+        "entity:laka",
+        "entity:aagir",
+        "entity:sonkar",
+        "entity:jeevali"
+      ],
+      "reason": "These entity overviews only summarize an early occurrence, omitting their later substantial interaction records. Keep a single concise overview per entity across the whole session.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0003",
+          "endUid": "u0014"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0041",
+          "endUid": "u0047"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1111",
+          "endUid": "u1135"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1365",
+          "endUid": "u1385"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1959",
+          "endUid": "u2026"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:sura",
+          "set": {
+            "aiSummary": "Govir discusses Sura's reported death and return; later, Lara describes meeting her and fears that her divinely inspired campaign could lead Dunmar into civil war."
+          }
+        },
+        {
+          "target": "entity:bhishma",
+          "set": {
+            "aiSummary": "The prologue shows Bhishma watching the northern camp, and Saka tells Kenzo that her acceptance brings a duty to preserve ordinary people's stories."
+          }
+        },
+        {
+          "target": "entity:laka",
+          "set": {
+            "aiSummary": "The prologue shows Laka watching his returning servants; Lara later describes following his omens but doubts whether he foresaw the present crisis."
+          }
+        },
+        {
+          "target": "entity:aagir",
+          "set": {
+            "aiSummary": "The prologue shows Aagir seeking a champion, and Lara later fears that his power and urgency are driving Sura toward battle."
+          }
+        },
+        {
+          "target": "entity:sonkar",
+          "set": {
+            "aiSummary": "The prologue and Lara's later account portray Sonkar as fearing war and mourning the lives that might never be lived."
+          }
+        },
+        {
+          "target": "entity:jeevali",
+          "set": {
+            "aiSummary": "The prologue shows Jeevali driving rain east, and Kaleha later explains the renewal festival's gratitude for her rains."
+          }
+        }
+      ]
+    },
+    {
+      "id": "vistra-specific-help",
+      "priority": "correction",
+      "targets": [
+        "entity:vistra",
+        "interaction:i023"
+      ],
+      "reason": "The source describes connecting Riswynn with refugees and local guidance to find an object for the woman's cure, not generic care for rescued people.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0362",
+          "endUid": "u0370"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:vistra",
+          "set": {
+            "aiSummary": "Riswynn reports that Vistra helped her connect with refugees and find a personal object needed to cure the willing werewolf."
+          }
+        },
+        {
+          "target": "interaction:i023",
+          "set": {
+            "aiSummary": "Riswynn credits Vistra with refugee contacts and local guidance that helped obtain an object for the willing werewolf's cure.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0362",
+                  "endUid": "u0370"
+                },
+                "relevance": "primary",
+                "aiSummary": "Riswynn describes Vistra's help finding an object to reconnect the willing werewolf with her past."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "resolved-story-scroll-reference",
+      "priority": "correction",
+      "targets": [
+        "entity:story-scrolls"
+      ],
+      "reason": "The distinctive magical paper given by Saka and used to record Kirian's story matches the existing Scroll of Storykeeping; this resolves identity without adding future item events.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0041",
+          "endUid": "u0083"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0638",
+          "endUid": "u0651"
+        },
+        {
+          "vaultPath": "Things/Magic Items/Scroll of Storykeeping.md"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:story-scrolls",
+          "set": {
+            "note": "Things/Magic Items/Scroll of Storykeeping.md"
+          }
+        }
+      ]
+    },
+    {
+      "id": "resolved-evacuation-letter-reference",
+      "priority": "correction",
+      "targets": [
+        "entity:evacuation-letter"
+      ],
+      "reason": "The quoted Kharsan letter about treasures from Drankor and riders heading west matches Archives Letter exactly. Link the existing source note without importing unspoken author/recipient/researcher details.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1147",
+          "endUid": "u1154"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1173",
+          "endUid": "u1176"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2133",
+          "endUid": "u2149"
+        },
+        {
+          "vaultPath": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Archives Letter.md"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:evacuation-letter",
+          "set": {
+            "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Archives Letter.md"
+          }
+        }
+      ]
+    },
+    {
+      "id": "resolved-camp-location",
+      "priority": "correction",
+      "targets": [
+        "session",
+        "scenes"
+      ],
+      "reason": "The camp on the plains north of Tokra has a canonical place match. Varashan explicitly aliases plains north of Tokra, and Saka's page ties her July 6 encounter to that place.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0017",
+          "endUid": "u0023"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0111",
+          "endUid": "u0115"
+        },
+        {
+          "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Varashan.md"
+        },
+        {
+          "vaultPath": "People/Dunmari/Saka.md"
+        }
+      ],
+      "changes": [
+        {
+          "target": "scene:2",
+          "set": {
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Varashan.md"
+          }
+        },
+        {
+          "target": "session",
+          "appendUniqueLocations": [
+            "Gazetteer/Greater Dunmar/Hara Basin/Varashan.md"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eukos-book-title",
+      "priority": "correction",
+      "targets": [
+        "entity:eukos",
+        "interaction:i031"
+      ],
+      "reason": "The transcript title is Travels in the Far North, not Travels of the Far North.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1760",
+          "endUid": "u1777"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:eukos",
+          "set": {
+            "aiSummary": "Kassi cites Eukos's Travels in the Far North for tribes and Yezali's association with the moon, night, and hunting."
+          }
+        },
+        {
+          "target": "interaction:i031",
+          "set": {
+            "aiSummary": "Kassi cites Eukos's Travels in the Far North for tribes and Yezali's association with the moon, night, and hunting."
+          },
+          "setPassageAiSummaryToInteraction": true
+        }
+      ]
+    },
+    {
+      "id": "garret-song-specificity",
+      "priority": "correction",
+      "targets": [
+        "entity:garret"
+      ],
+      "reason": "The song is about the story Wellby shared and matters to Garret's people; this session does not specify that its subject is rescuing his people.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0800",
+          "endUid": "u0808"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:garret",
+          "set": {
+            "aiSummary": "Garret talks with the party over breakfast about finding his family, travelling toward Darba, and the new song about their adventures."
+          }
+        }
+      ]
+    },
+    {
+      "id": "kaleha-prospective-execution",
+      "priority": "correction",
+      "targets": [
+        "entity:kaleha"
+      ],
+      "reason": "The transcript records a proposed execution and party assent, not the execution itself; make the entity overview as explicit as its existing interaction.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1386",
+          "endUid": "u1414"
+        }
+      ],
+      "changes": [
+        {
+          "target": "entity:kaleha",
+          "set": {
+            "aiSummary": "Kaleha consults the party about executing the unrepentant werewolf after the renewal festival and explains the great tree's flowering after the rains."
+          }
+        }
+      ]
+    }
+  ],
+  "removalEvidence": [
+    {
+      "target": "entity:denoqai",
+      "reason": "The named subject is a broad religious-cultural people, not an organization. Its canonical page is tagged ancestry and explicitly says it is not a single polity. The useful discussion remains in Kassi, Eukos, Yezali and the creator record; do not silently broaden organization to cover cultures.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1740",
+          "endUid": "u1777"
+        },
+        {
+          "vaultPath": "Groups/Cultures/Deno'qai Tribes/Deno'qai.md"
+        }
+      ]
+    },
+    {
+      "target": "interaction:i070",
+      "reason": "Remove dependent interaction with misclassified culture card; source remains covered by scene22 and existing research interactions.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1740",
+          "endUid": "u1777"
+        },
+        {
+          "vaultPath": "Groups/Cultures/Deno'qai Tribes/Deno'qai.md"
+        }
+      ]
+    },
+    {
+      "target": "interaction:i060",
+      "reason": "Same continuing creator discussion as i059; merged primary passage u1737-u1867 preserves its material.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1737",
+          "endUid": "u1759"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1814",
+          "endUid": "u1867"
+        }
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "target": "session",
+      "reason": "No critical date conflict. Authoritative YAML July13 may extend or clarify recording; no precise date is fabricated for Lara.",
+      "evidence": [
+        {
+          "yamlField": "drEnd"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1339",
+          "endUid": "u1340"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1578",
+          "endUid": "u1599"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1940",
+          "endUid": "u1957"
+        }
+      ],
+      "concreteAction": "Keep YAML unchanged; do not add dateConflict."
+    },
+    {
+      "target": "scenes",
+      "reason": "All 2261 UIDs independently read; all four exclusions checked in context and valid. Minor in-character banter remains within scenes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1600",
+          "endUid": "u1607"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1868",
+          "endUid": "u1884"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1933",
+          "endUid": "u1939"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2260",
+          "endUid": "u2261"
+        }
+      ],
+      "concreteAction": "Keep scene division and exclusions."
+    },
+    {
+      "target": "entity:scholar",
+      "reason": "Archives Letter points to Servius and his canonical page describes a wandering treasure researcher, but the transcript never names this scholar. Existing unlinked descriptive card is safe and useful.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1147",
+          "endUid": "u1154"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2137",
+          "endUid": "u2141"
+        },
+        {
+          "vaultPath": "People/Chardonians/Servius.md"
+        },
+        {
+          "vaultPath": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Archives Letter.md"
+        }
+      ],
+      "concreteAction": "Keep unresolved name and omit note; do not conflate with Gnaeus."
+    },
+    {
+      "target": "entity:presence",
+      "reason": "Canonical Divine Presence aliases Anida, Shurat and Sampa and explicitly says single versus multiple is debated. One umbrella card is acceptable when summaries preserve interpretation.",
+      "evidence": [
+        {
+          "vaultPath": "Gods and Religions/Gods/High Gods/Divine Presence.md"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1737",
+          "endUid": "u1759"
+        }
+      ],
+      "concreteAction": "Keep one card; make the requested correction/merge only."
+    },
+    {
+      "target": "entity:delig,entity:morkral",
+      "reason": "Present father/uncle are individually nameable; their own canonical pages explicitly corroborate the roles. An unrelated Seeker/Fallthra relationship inconsistency does not override those direct matching pages.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0847",
+          "endUid": "u0852"
+        },
+        {
+          "vaultPath": "People/Dwarves/Delig Hardstone.md"
+        },
+        {
+          "vaultPath": "People/Dwarves/Morkral Hardstone.md"
+        }
+      ],
+      "concreteAction": "Keep linked present cameos; do not invent names in dialogue."
+    },
+    {
+      "target": "items",
+      "reason": "All 11 current item subjects have actual gifting/return/clue/quest/custody roles; mundane keepsakes qualify through personal meaning. No ordinary coins, garnets, old shortsword or routine magic weapon use became cards. The tree branch, cloak, giant eyes and execution remain prospective.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0041",
+          "endUid": "u0083"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0767",
+          "endUid": "u0776"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1051",
+          "endUid": "u1088"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1144",
+          "endUid": "u1185"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1566",
+          "endUid": "u1573"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1885",
+          "endUid": "u1919"
+        }
+      ],
+      "concreteAction": "Retain these item subjects; do not remove merely to hit a quota or add cards for every referenced book/letter/gear item."
+    },
+    {
+      "target": "quotes",
+      "reason": "All 20 quote texts were checked against selected polished wording and local voice context. NPC color quotes are genuine NPC speech; Lara introduction and paper introduction are DM description. Kassi's historical-author insults are not selected as her own opinion.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0041",
+          "endUid": "u0047"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0086",
+          "endUid": "u0094"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0604",
+          "endUid": "u0605"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0630",
+          "endUid": "u0636"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0613",
+          "endUid": "u0615"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0797",
+          "endUid": "u0799"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0778",
+          "endUid": "u0780"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0986",
+          "endUid": "u0987"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1095",
+          "endUid": "u1100"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1136",
+          "endUid": "u1143"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1365",
+          "endUid": "u1367"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1395",
+          "endUid": "u1398"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1794",
+          "endUid": "u1795"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1805",
+          "endUid": "u1807"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1861",
+          "endUid": "u1861"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2007",
+          "endUid": "u2009"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2002",
+          "endUid": "u2004"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2225",
+          "endUid": "u2227"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1951",
+          "endUid": "u1954"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0055",
+          "endUid": "u0062"
+        }
+      ],
+      "concreteAction": "Retain existing quote selections and IDs."
+    },
+    {
+      "target": "omissions",
+      "reason": "The record already retains the willing woman's cure as contrast in i042 and scene9. Additional cards for this unnamed prior patient, incidental named religious comparisons and prior captive creatures are not necessary to understand this session; no substantive played scene is excluded for lacking entities.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0362",
+          "endUid": "u0370"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0393",
+          "endUid": "u0543"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1737",
+          "endUid": "u1759"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1842",
+          "endUid": "u1867"
+        }
+      ],
+      "concreteAction": "No further required entity additions."
+    }
+  ],
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml"
+}

@@ -1,10 +1,12 @@
 # Campaign interaction extraction — review materials
 
-**Start with the [ten-session entity review directory](v5/README.md)**. Each session opens with its entity list, followed by overviews, vault matches, confidence and review questions. Quotes and interactions expand beneath each entity; scenes are linked supporting context. The [model overview](MODEL_OVERVIEW.md) explains the agreed structured model; [bulk review and preprocessing](WORKFLOW_DISCUSSION.md) describes the adopted workflow.
+## Current reviews
 
-The current executable baseline is **v5, transcript-only extraction with separate semantic review**. It covers NPCs, important items and organizations, whole conversations, shared scenes, pull quotes, aggregate metadata and confidence/review states. The trial spans six campaigns and preserves unresolved critical questions for feedback. This is a design checkpoint, not a deployed Taelgarverse feature.
+**Start with the [new v6 session reviews](v6/README.md)** for the YAML-integrated process. The [ten-session v5 directory](v5/README.md) remains available for comparison. Each session opens with its entity list, followed by overviews, vault matches, confidence and review questions. Quotes and interactions expand beneath each entity; scenes are linked supporting context. The [model overview](MODEL_OVERVIEW.md) explains the agreed structured model; [bulk review and preprocessing](WORKFLOW_DISCUSSION.md) describes the adopted workflow.
 
-[Extraction skill](../../.agents/skills/extract-campaign-interactions/SKILL.md) · [JSON format](../../.agents/skills/extract-campaign-interactions/references/format.md) · [Operations](../../.agents/skills/extract-campaign-interactions/references/operations.md) · [Current trial index](v5/README.md)
+The current executable baseline is **v6, session-YAML-owned metadata with transcript-only interaction enrichment**. It prefers registered polished transcripts while retaining original UID ranges. Processing evidence includes excluded blocks and reasons, input fingerprints, metadata findings and separate semantic review. The new sample uses the two currently registered polished bundles, Dunmar 10 and 41; it is an availability sample, not a representative cross-campaign trial. This is a design checkpoint, not a deployed Taelgarverse feature.
+
+[Extraction skill](../../.agents/skills/extract-campaign-interactions/SKILL.md) · [JSON format](../../.agents/skills/extract-campaign-interactions/references/format.md) · [Operations](../../.agents/skills/extract-campaign-interactions/references/operations.md) · [Current trial index](v6/README.md) · [Historical v5 trial](v5/README.md)
 
 ## Historical v3 reviews
 
@@ -38,4 +40,4 @@ python .agents/skills/extract-campaign-interactions/scripts/validate.py \
   --vault . --input _sessions/interaction-pilot/v3/dunmari-frontier-108/extraction.json
 ```
 
-The v3 examples remain readable through the compatibility validator. Current checks cover schema/provenance, preparation, review state protection and replay of published review decisions. The v5 batch index distinguishes completed review executions from high-confidence facts ready for use; structural validation alone cannot approve a claim.
+The v3 examples remain readable through the compatibility validator. Current checks cover schema/provenance, preparation, review state protection and replay of published review decisions. The batch indexes distinguish completed review executions from high-confidence facts ready for use; structural validation alone cannot approve a claim.

@@ -245,3 +245,7 @@ transcriptProcessing:
     start: 0
     end: 10
     speaker: DM
+
+interactionExtraction:
+  sessionJson: ../interactions/session.json
+  processingData: ../interactions/session-processing-data.json

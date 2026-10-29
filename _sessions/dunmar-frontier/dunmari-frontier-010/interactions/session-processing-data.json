@@ -1,0 +1,3624 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+  "inputs": {
+    "sessionYamlDigest": "0aaa6e546f74291f22b3f5e54454c6b22307ffe3a5c7b6406acef701bbb7c269",
+    "sources": {
+      "transcriptProcessing.artifacts.cleaned": "40b5ec26b2d9874bf178bf9c5324ee32b988a087dd68e28ba4defb75763e2242",
+      "transcriptProcessing.artifacts.polishedMarkdown": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4"
+    }
+  },
+  "stage": "completed",
+  "fullTranscriptRead": true,
+  "excludedBlocks": [
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0134",
+        "endUid": "u0145"
+      },
+      "reason": "Out-of-character reconnection and computer/chat setup; no played action."
+    },
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2695",
+        "endUid": "u2700"
+      },
+      "reason": "Players discuss the late hour, fatigue, and wrapping up the recording."
+    },
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2873",
+        "endUid": "u2875"
+      },
+      "reason": "End-of-session scheduling discussion."
+    }
+  ],
+  "metadataFindings": [
+    {
+      "id": "path-1",
+      "kind": "pathIssue",
+      "severity": "info",
+      "status": "open",
+      "reason": "Missing or machine-specific source path in session YAML.",
+      "evidence": [
+        {
+          "yamlField": "sourceInputPath"
+        }
+      ],
+      "proposedChange": {
+        "field": "sourceInputPath",
+        "value": "../sources/GMT20201003-012743_Taelgar-Re.transcript.vtt"
+      }
+    },
+    {
+      "id": "path-2",
+      "kind": "pathIssue",
+      "severity": "info",
+      "status": "open",
+      "reason": "Missing or machine-specific source path in session YAML.",
+      "evidence": [
+        {
+          "yamlField": "sourceConfigPath"
+        }
+      ],
+      "proposedChange": {
+        "field": "sourceConfigPath",
+        "value": "../sources/dunmar-frontier-session010.yaml"
+      }
+    },
+    {
+      "id": "path-3",
+      "kind": "pathIssue",
+      "severity": "info",
+      "status": "open",
+      "reason": "Missing or machine-specific source path in session YAML.",
+      "evidence": [
+        {
+          "yamlField": "participantsPath"
+        }
+      ],
+      "proposedChange": {
+        "field": "participantsPath",
+        "value": "../sources/dunmar-frontier-core-plus-riswynn-participants.yaml"
+      }
+    },
+    {
+      "id": "path-4",
+      "kind": "pathIssue",
+      "severity": "info",
+      "status": "open",
+      "reason": "Missing or machine-specific source path in session YAML.",
+      "evidence": [
+        {
+          "yamlField": "preparedSourcePath"
+        }
+      ],
+      "proposedChange": {
+        "field": "preparedSourcePath",
+        "value": "dunmari-frontier-010-source-prepared.md"
+      }
+    },
+    {
+      "id": "path-5",
+      "kind": "pathIssue",
+      "severity": "info",
+      "status": "open",
+      "reason": "Missing or machine-specific source path in session YAML.",
+      "evidence": [
+        {
+          "yamlField": "speakerMappingsPath"
+        }
+      ],
+      "proposedChange": {
+        "field": "speakerMappingsPath",
+        "value": "../sources/zoom-session-010.speaker_mapping.json"
+      }
+    },
+    {
+      "id": "path-6",
+      "kind": "pathIssue",
+      "severity": "info",
+      "status": "open",
+      "reason": "Missing or machine-specific source path in session YAML.",
+      "evidence": [
+        {
+          "yamlField": "speakerStatsPath"
+        }
+      ],
+      "proposedChange": {
+        "field": "speakerStatsPath",
+        "value": "dunmari-frontier-010-speaker-stats.json"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "report": {
+        "inputDigest": "9a338dd9011148503fc094d0aa24b94c083d4431c0515ff1215dc5a218c7250a",
+        "processingDigest": "0a5b0e9144e74f2144c15b47292fb648def23437419957eb9a090b942090b2ec",
+        "reviewer": "/root/review_du010_v6",
+        "attempt": 0,
+        "decisions": [
+          {
+            "target": "session",
+            "confidence": "high",
+            "reason": "The entire polished transcript was read independently. Kenzo, Riswynn, Delwath, Seeker and Wellby all act in play, matching the YAML PCs. The recording progresses from afternoon through a concurrent one-hour watch to about 7 pm; it supplies no calendar date contrary to the YAML single-day anchor. Historical dates, Vola’s captivity duration, and speculative plans do not advance the session. The visited-location list contains the connected dwarven outpost and Raven’s Hold, not the merely mentioned Karawa, Chardon or Drankor. Registered source IDs resolve; all six ancillary path proposals remain informational and do not alter source/date authority.",
+            "evidence": [
+              {
+                "yamlField": "participants"
+              },
+              {
+                "yamlField": "drStart"
+              },
+              {
+                "yamlField": "drEnd"
+              },
+              {
+                "yamlField": "realWorldDate"
+              },
+              {
+                "yamlField": "transcriptProcessing.artifacts"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0003",
+                "endUid": "u0046"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0198",
+                "endUid": "u0216"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0328",
+                "endUid": "u0339"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0426",
+                "endUid": "u0434"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0861",
+                "endUid": "u0871"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1437",
+                "endUid": "u1476"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2850",
+                "endUid": "u2850"
+              },
+              {
+                "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md"
+              },
+              {
+                "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+              }
+            ]
+          },
+          {
+            "target": "scenes",
+            "confidence": "medium",
+            "reason": "The 36-scene division preserves one contiguous range per scene, accounts for all 2875 UIDs, separates the two combats and main location changes, and correctly treats the two watches as concurrent. The three excluded blocks are accurately characterized as reconnection, wrap-up fatigue and scheduling, with no lost played event. Scene 23 has a concrete location/action error: u1750–u1753 describes Kenzo opening the barred route between the towers, not the companions entering the first tower. Correct its detail and summary without changing its range. Other regrouping positions remain appropriately broad; the connector has no forced vault match. Minor mixed table chatter may remain in scenes.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0001",
+                "endUid": "u0133"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0134",
+                "endUid": "u0145"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1437",
+                "endUid": "u1476"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1744",
+                "endUid": "u1758"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1983",
+                "endUid": "u2003"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2095",
+                "endUid": "u2521"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2695",
+                "endUid": "u2700"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2873",
+                "endUid": "u2875"
+              }
+            ]
+          },
+          {
+            "target": "entity:vola",
+            "confidence": "high",
+            "reason": "The wounded prisoner gives her name and is directly freed, healed, rescued and debriefed. The linked Vola page identifies the same Chardonian Society member. The two-sentence session overview reflects the source and does not import later biography; several genuine Vola lines support featured selections.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1898",
+                "endUid": "u2003"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2585",
+                "endUid": "u2867"
+              },
+              {
+                "vaultPath": "People/Chardonians/Vola.md"
+              }
+            ]
+          },
+          {
+            "target": "entity:agata",
+            "confidence": "high",
+            "reason": "Vola explicitly names Agata Dustmother and attributes the relic search and captors to her. The alias resolves the vault page. The overview preserves Vola as the source and avoids importing the later-known hag identity or asserting direct presence.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2752",
+                "endUid": "u2793"
+              },
+              {
+                "vaultPath": "People/Fey/Agata.md"
+              }
+            ]
+          },
+          {
+            "target": "entity:arcus",
+            "confidence": "high",
+            "reason": "Arcus is explicitly named; Vola recognizes him and identifies his Society membership. The linked page matches. The overview correctly attributes the death claim to Wellby rather than silently converting it into a new canonical death finding; this matters because the reference page describes petrification.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2729",
+                "endUid": "u2733"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2779",
+                "endUid": "u2793"
+              },
+              {
+                "vaultPath": "People/Chardonians/Arcus.md"
+              }
+            ]
+          },
+          {
+            "target": "entity:orc-jailer",
+            "confidence": "high",
+            "reason": "A distinctive cloaked, armed, speaking orc participates in the rescue conflict, casts darkness, threatens the party and dies. This individual merits an unresolved NPC card despite lacking a name; no speculative named vault match is supplied. Later attribution of service to Agata is explicitly sourced to Vola.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1843",
+                "endUid": "u1855"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2242",
+                "endUid": "u2257"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2461",
+                "endUid": "u2473"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2514",
+                "endUid": "u2518"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2779",
+                "endUid": "u2793"
+              }
+            ]
+          },
+          {
+            "target": "entity:blackened-claw",
+            "confidence": "high",
+            "reason": "The exact named clan mark appears in Wellby’s report and on the apartment wall. The canonical clan page is the correct identity. Treating these as discussion/evidence of historical occupation avoids implying that the organization itself was physically present.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0207",
+                "endUid": "u0216"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0323",
+                "endUid": "u0323"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1700",
+                "endUid": "u1721"
+              },
+              {
+                "vaultPath": "Groups/Hobgoblin Clans/Blackened Claw.md"
+              }
+            ]
+          },
+          {
+            "target": "entity:open-scroll",
+            "confidence": "high",
+            "reason": "Vola’s initial reference to the Society is resolved by her later full name and explanation of its mission. The linked scholarly society is the correct organization. Its interactions stay mentioned rather than treating the meeting with Vola as contact with every member.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1964",
+                "endUid": "u1974"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2752",
+                "endUid": "u2793"
+              },
+              {
+                "vaultPath": "Groups/Chardonian Organizations/Society of the Open Scroll.md"
+              }
+            ]
+          },
+          {
+            "target": "entity:great-library",
+            "confidence": "high",
+            "reason": "The source explicitly describes the Great Library as a major institution and connects the relic hunters with it. The canonical page covers both institution and building, so organization is appropriate here. It remains distinct from the Society and is not included among visited locations.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2752",
+                "endUid": "u2776"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2796",
+                "endUid": "u2800"
+              },
+              {
+                "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md"
+              }
+            ]
+          },
+          {
+            "target": "entity:hobgoblin-logbook",
+            "confidence": "high",
+            "reason": "Wellby presents and the party examines an unreadable dated hobgoblin logbook. It is a meaningful clue object, not ordinary treasure. The linked reference page’s first paragraph describes this outpost logbook; its separate Looseleaf Hobgoblin Journal section must not be conflated with this object. The current overview and interaction do not make that conflation.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0207",
+                "endUid": "u0277"
+              },
+              {
+                "vaultPath": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold.md"
+              }
+            ]
+          },
+          {
+            "target": "entity:magic-scroll",
+            "confidence": "high",
+            "reason": "A magical scroll is newly discovered concealed in the captain’s desk; its spell is explicitly unrecognized. The discovery meets item selection criteria. The unresolved label and absent vault match correctly preserve uncertainty without importing a later identity.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1767",
+                "endUid": "u1803"
+              }
+            ]
+          },
+          {
+            "target": "interaction:vola-first-meeting",
+            "confidence": "high",
+            "reason": "The complete private meeting stays one interaction across the brief downstairs check, while scenes retain the physical movement. Freeing, naming, reassurance and healing are directly supported. Star importance is appropriate. All four quotes are exact polished substrings; the introduction is DM narration and the color lines are Vola’s speech.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1898",
+                "endUid": "u2003"
+              }
+            ]
+          },
+          {
+            "target": "interaction:vola-rescue-debrief",
+            "confidence": "high",
+            "reason": "This continuous rescue/debrief is sensibly grouped across room changes and a short out-of-character pause. The primary passage carries the substantive conversation; the supporting passage retains return of her gear and relocation. The overview is one sentence and supported. The selected relic-race and empire quotes are Vola’s own words, not DM exposition or PC jokes.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2585",
+                "endUid": "u2694"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2701",
+                "endUid": "u2867"
+              }
+            ]
+          },
+          {
+            "target": "interaction:agata-revelation",
+            "confidence": "high",
+            "reason": "The passage supports a mentioned, supporting role: Vola supplies Agata’s name, unknown nature, relic motives and connection to the three captors. The summary attributes this report and does not promote it to direct observation.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2752",
+                "endUid": "u2793"
+              }
+            ]
+          },
+          {
+            "target": "interaction:arcus-news",
+            "confidence": "high",
+            "reason": "Wellby’s report and Vola’s reaction form the primary passage; her later statement of membership justifies the supporting passage from the same conversation. The quotation is the PC’s exact statement. The summary retains attribution and does not override the linked page’s petrified condition.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2729",
+                "endUid": "u2733"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2779",
+                "endUid": "u2793"
+              }
+            ]
+          },
+          {
+            "target": "interaction:orc-sighting",
+            "confidence": "high",
+            "reason": "Kenzo sees the distinctive orc without engaging him, so observed is correct. The introduction quote is exact DM description and its range retains the complete contributing polished turn.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1843",
+                "endUid": "u1855"
+              }
+            ]
+          },
+          {
+            "target": "interaction:orc-battle",
+            "confidence": "high",
+            "reason": "Direct combat belongs under interacted. The passage preserves the complete fight rather than fragmenting rounds. Darkness and death are supported, and both memorable threats are explicitly voiced by the orc in the DM’s narration. Supporting importance is reasonable in a rescue centered on Vola.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2095",
+                "endUid": "u2521"
+              }
+            ]
+          },
+          {
+            "target": "interaction:orc-allegiance",
+            "confidence": "high",
+            "reason": "Vola explicitly says that the three slain captors served Agata. The orc is one of those three. This is a later report, correctly mentioned with cameo importance, rather than a new direct encounter.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2779",
+                "endUid": "u2793"
+              }
+            ]
+          },
+          {
+            "target": "interaction:claw-scouting-report",
+            "confidence": "high",
+            "reason": "Wellby shows marked coins and explains the tribal standard. The organization is meaningfully mentioned; the coins remain ordinary treasure without an item card. The supporting clarification remains within the same ongoing discussion.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0207",
+                "endUid": "u0216"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0323",
+                "endUid": "u0323"
+              }
+            ]
+          },
+          {
+            "target": "interaction:claw-captain-apartment",
+            "confidence": "high",
+            "reason": "The painted mark and captain’s possessions support historical Blackened Claw occupation. Mentioned avoids inferring present membership from a symbol. Joining the initial sighting and later search is reasonable for this small continuous exploration; the exact quote is descriptive introduction.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1700",
+                "endUid": "u1721"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1790",
+                "endUid": "u1795"
+              }
+            ]
+          },
+          {
+            "target": "interaction:society-question",
+            "confidence": "high",
+            "reason": "Vola asks whether the Society sent Kenzo, and he asks which Society. This brief first reference is distinct from the later debrief because Kenzo leaves and combat intervenes; cameo mentioned is supported.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1964",
+                "endUid": "u1974"
+              }
+            ]
+          },
+          {
+            "target": "interaction:society-relic-mission",
+            "confidence": "high",
+            "reason": "Vola explicitly identifies the Society’s relic-recovery efforts and Arcus’s membership. The source is one coherent conversational passage. Supporting mentioned is appropriate, with no invented encounter with the institution.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2752",
+                "endUid": "u2793"
+              }
+            ]
+          },
+          {
+            "target": "interaction:library-association",
+            "confidence": "high",
+            "reason": "The source connects the hunters with the library and separately establishes Kenzo’s existing recognition of the named Great Library. The secondary passage is useful identity/context support. The institution is discussed, not visited.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2752",
+                "endUid": "u2776"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2796",
+                "endUid": "u2800"
+              }
+            ]
+          },
+          {
+            "target": "interaction:logbook-examination",
+            "confidence": "high",
+            "reason": "Wellby presents the clue and the group inspects its language and date pattern. One passage retains the whole exchange. Interacted and supporting are appropriate, and the introduction quote is exact Wellby speech. No translated contents from the reference page have been imported.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0207",
+                "endUid": "u0277"
+              }
+            ]
+          },
+          {
+            "target": "interaction:scroll-discovery",
+            "confidence": "high",
+            "reason": "Delwath’s room search produces an explicitly magical scroll whose spell is unknown. This is an eligible discovery rather than routine gear use. The single passage preserves search context; the exact DM introduction quote carries the whole polished-turn UID mapping.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1759",
+                "endUid": "u1803"
+              }
+            ]
+          }
+        ]
+      },
+      "stage": "automatedReviewed",
+      "outputDigest": "137e61e3a2bf62404699d83154bc8589b41fe66013c3bb62570cb4141d122b46",
+      "candidate": {
+        "schemaVersion": 6,
+        "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+        "locations": [
+          "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md",
+          "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+        ],
+        "scenes": [
+          {
+            "index": 1,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0001",
+              "endUid": "u0046"
+            },
+            "type": "exploration",
+            "locationDetail": "Locked tunnel entrance",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party smashes a rusty lock to enter the underground passage.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md"
+          },
+          {
+            "index": 2,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0047",
+              "endUid": "u0133"
+            },
+            "type": "travel",
+            "locationDetail": "Underground connector and ascending shaft",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party follows the connector tunnel and climbs toward a storeroom beneath the fort."
+          },
+          {
+            "index": 3,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0146",
+              "endUid": "u0727"
+            },
+            "type": "conversation",
+            "locationDetail": "Storeroom above the underground shaft",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Wellby reports his scouting discoveries; the party examines a logbook and plans routes through the fort.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 4,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0728",
+              "endUid": "u0769"
+            },
+            "type": "exploration",
+            "locationDetail": "Curved corridor and intersection",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party advances through the tunnel while Delwath prepares to scout invisibly.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 5,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0770",
+              "endUid": "u0818"
+            },
+            "type": "exploration",
+            "locationDetail": "Prison and execution cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath scouts the cavern and discovers two ghoul-like hobgoblins.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 6,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0819",
+              "endUid": "u0860"
+            },
+            "type": "travel",
+            "locationDetail": "Intersection and northern corridor",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath returns to the intersection and heads toward the northern rubble passage.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 7,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0861",
+              "endUid": "u0891"
+            },
+            "type": "exploration",
+            "locationDetail": "Northern rubble peephole overlooking the plaza",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath observes the plaza through rubble and studies a route outside.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 8,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0892",
+              "endUid": "u0911"
+            },
+            "type": "conversation",
+            "locationDetail": "Tunnel intersection",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath reports the northern route and prepares to investigate the southern passage.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 9,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0912",
+              "endUid": "u0958"
+            },
+            "type": "exploration",
+            "locationDetail": "Southern gate overlooking the bridge and towers",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath scouts the bridge and tower entrances beyond a barred southern gate.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 10,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0959",
+              "endUid": "u1091"
+            },
+            "type": "conversation",
+            "locationDetail": "Tunnel near the shaft and storeroom",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party compares routes and plans to eliminate the ghouls quietly.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 11,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1092",
+              "endUid": "u1120"
+            },
+            "type": "travel",
+            "locationDetail": "Approach to the prison cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party approaches the prison cavern for an ambush.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 12,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1121",
+              "endUid": "u1239"
+            },
+            "type": "combat",
+            "locationDetail": "Prison and execution cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party kills the two ghouls before they can raise an alarm.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 13,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1240",
+              "endUid": "u1422"
+            },
+            "type": "exploration",
+            "locationDetail": "Prison and execution cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party examines the execution chamber and considers routes, noises, and places to rest.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 14,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1423",
+              "endUid": "u1436"
+            },
+            "type": "travel",
+            "locationDetail": "Tunnels leading to the northern and southern watchpoints",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party divides between two watchpoints for a short rest.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 15,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1437",
+              "endUid": "u1458"
+            },
+            "type": "exploration",
+            "locationDetail": "Northern rubble peephole",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The northern watch observes movement and activity outside during the short rest.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+            "time": "Late afternoon, approaching sunset; one-hour short rest."
+          },
+          {
+            "index": 16,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1459",
+              "endUid": "u1549"
+            },
+            "type": "exploration",
+            "locationDetail": "Southern gate and tower overlook",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The southern watch studies the towers and hears activity as the light fades.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+            "time": "During the same short rest, with fading light."
+          },
+          {
+            "index": 17,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1550",
+              "endUid": "u1639"
+            },
+            "type": "conversation",
+            "locationDetail": "Tunnel near the southern gate",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party regroups and plans Kenzo’s invisible scouting of the towers.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 18,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1640",
+              "endUid": "u1678"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, second-floor entrance and windows",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo enters the first tower and surveys its surroundings.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 19,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1679",
+              "endUid": "u1698"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, third floor",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo investigates the upper passage and the way toward the next tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 20,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1699",
+              "endUid": "u1721"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, fourth-floor captain’s apartment",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo finds an abandoned apartment marked with the Blackened Claw symbol.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 21,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1722",
+              "endUid": "u1743"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, stairs and exits",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo checks the tower’s remaining routes and exits.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 22,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1744",
+              "endUid": "u1749"
+            },
+            "type": "conversation",
+            "locationDetail": "First tower approach",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo returns to gather the party into the first tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 23,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1750",
+              "endUid": "u1758"
+            },
+            "type": "travel",
+            "locationDetail": "Barred overhead gate and passage into the first tower",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The companions move through the gate to search the tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 24,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1759",
+              "endUid": "u1803"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, captain’s apartment",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath searches the old captain’s apartment and discovers an unidentified magical scroll hidden in the desk.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 25,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1804",
+              "endUid": "u1855"
+            },
+            "type": "exploration",
+            "locationDetail": "Second tower, entrance and third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo scouts the second tower and sees a cloaked orc carrying a scimitar.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 26,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1856",
+              "endUid": "u1982"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, fourth-floor prison",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo discovers the injured prisoner Vola, frees her hands, and quietly discusses a rescue.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 27,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1983",
+              "endUid": "u1986"
+            },
+            "type": "exploration",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo briefly checks the guards’ positions downstairs.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 28,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1987",
+              "endUid": "u2003"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, fourth-floor prison",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo returns to reassure Vola and gives her a healing potion.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 29,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2004",
+              "endUid": "u2072"
+            },
+            "type": "conversation",
+            "locationDetail": "First tower, party gathering point",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo reports the prisoner and guards; the party prepares a rescue assault.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 30,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2073",
+              "endUid": "u2094"
+            },
+            "type": "travel",
+            "locationDetail": "Second tower approach and third-floor stairs",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party approaches the guards’ floor in the second tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 31,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2095",
+              "endUid": "u2521"
+            },
+            "type": "combat",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party sleeps one guard, battles a shapeshifter and the orc spellcaster, and kills the two active opponents.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 32,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2522",
+              "endUid": "u2584"
+            },
+            "type": "exploration",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party secures the sleeping guard and searches the rooms, finding Vola’s belongings.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 33,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2585",
+              "endUid": "u2608"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, fourth-floor prison and stairs",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo collects Vola and brings her toward the party.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 34,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2609",
+              "endUid": "u2683"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Vola reclaims her gear and advises killing the captive shapeshifter before the party relocates.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 35,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2684",
+              "endUid": "u2694"
+            },
+            "type": "travel",
+            "locationDetail": "Crossing back to the first tower",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party escorts Vola to the first tower and bars the door.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 36,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2701",
+              "endUid": "u2872"
+            },
+            "type": "conversation",
+            "locationDetail": "First tower, secured room",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Vola explains the Society’s relic hunt, Agata’s involvement, and her connection to Arcus; the party discusses escaping together.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+            "time": "Approximately 7 pm."
+          }
+        ],
+        "entities": [
+          {
+            "id": "vola",
+            "kind": "npc",
+            "label": "Vola",
+            "aiSummary": "Kenzo frees and heals the imprisoned Vola before the party defeats her captors and brings her to safety within the fort. She describes the Society of the Open Scroll’s search for imperial relics, its rivalry with Agata, and Arcus’s membership.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "note": "People/Chardonians/Vola.md",
+            "aiSuggestedFeaturedQuotes": [
+              "vola-surprise",
+              "vola-relic-race",
+              "vola-empire"
+            ]
+          },
+          {
+            "id": "agata",
+            "kind": "npc",
+            "label": "Agata Dustmother",
+            "aiSummary": "Vola identifies Agata Dustmother as a mysterious creature seeking lost imperial relics and says the three slain captors were her servants.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "note": "People/Fey/Agata.md"
+          },
+          {
+            "id": "arcus",
+            "kind": "npc",
+            "label": "Arcus",
+            "aiSummary": "Wellby tells Vola that Arcus is dead, prompting sadness; Vola identifies him as a fellow Society member.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "note": "People/Chardonians/Arcus.md",
+            "aiSuggestedFeaturedQuotes": [
+              "arcus-report"
+            ]
+          },
+          {
+            "id": "orc-jailer",
+            "kind": "npc",
+            "label": "Orc jailer",
+            "aiSummary": "Kenzo observes a cloaked orc among Vola’s captors; the party later kills him after he uses magical darkness and threatens vengeance. Vola subsequently says the three captors served Agata.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "aiSuggestedFeaturedQuotes": [
+              "orc-threat",
+              "orc-vengeance"
+            ]
+          },
+          {
+            "id": "blackened-claw",
+            "kind": "organization",
+            "label": "Blackened Claw",
+            "aiSummary": "Wellby reports coins bearing the Blackened Claw mark, and Kenzo later finds the same symbol in an abandoned captain’s apartment.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "note": "Groups/Hobgoblin Clans/Blackened Claw.md",
+            "aiSuggestedFeaturedQuotes": [
+              "claw-mark"
+            ]
+          },
+          {
+            "id": "open-scroll",
+            "kind": "organization",
+            "label": "Society of the Open Scroll",
+            "aiSummary": "Vola asks whether Kenzo belongs to the Society, then explains its effort to recover imperial relics ahead of Agata and identifies Arcus as a member.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "note": "Groups/Chardonian Organizations/Society of the Open Scroll.md"
+          },
+          {
+            "id": "great-library",
+            "kind": "organization",
+            "label": "Great Library",
+            "aiSummary": "Vola associates the Society’s relic hunters with the library in Chardon; Kenzo recognizes the Great Library but not the Society.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "note": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md"
+          },
+          {
+            "id": "hobgoblin-logbook",
+            "kind": "item",
+            "label": "Hobgoblin logbook",
+            "aiSummary": "Wellby presents a hobgoblin logbook found during his scouting; the party examines its dated entries but cannot read its language.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold.md",
+            "aiSuggestedFeaturedQuotes": [
+              "logbook-introduction"
+            ]
+          },
+          {
+            "id": "magic-scroll",
+            "kind": "item",
+            "label": "Unidentified magical scroll",
+            "aiSummary": "Delwath discovers a magical scroll hidden in the captain’s desk, but the party cannot identify its spell.",
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            },
+            "aiSuggestedFeaturedQuotes": [
+              "scroll-introduction"
+            ]
+          }
+        ],
+        "interactions": [
+          {
+            "id": "vola-first-meeting",
+            "entity": "vola",
+            "scenes": [
+              26,
+              27,
+              28
+            ],
+            "interaction": "interacted",
+            "importance": "star",
+            "aiSummary": "Kenzo secretly frees Vola’s hands, learns her name, and gives her healing while arranging to return with the party.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1898",
+                  "endUid": "u2003"
+                },
+                "relevance": "primary",
+                "aiSummary": "Kenzo meets the prisoner, discusses her captivity, briefly checks downstairs, and returns with reassurance and healing."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "vola-introduction",
+                "type": "introduction",
+                "text": "you see, lying on this pile of straw, um, a badly wounded woman wearing armor but otherwise um, like seemingly beat up, with no equipment or anything. Um, hands tied behind her back.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1898",
+                  "endUid": "u1899"
+                }
+              },
+              {
+                "id": "vola-surprise",
+                "type": "color",
+                "text": "What the bloody hell? What is going on?",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1931",
+                  "endUid": "u1932"
+                }
+              },
+              {
+                "id": "vola-prison",
+                "type": "color",
+                "text": "I think they will stay. What do I know? Been tied up in the damn prison.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1952",
+                  "endUid": "u1955"
+                }
+              },
+              {
+                "id": "vola-healing",
+                "type": "color",
+                "text": "Thank you. God, that goes down well. Yeah, I will.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2001",
+                  "endUid": "u2001"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "vola-rescue-debrief",
+            "entity": "vola",
+            "scenes": [
+              33,
+              34,
+              35,
+              36
+            ],
+            "interaction": "interacted",
+            "importance": "star",
+            "aiSummary": "The party escorts Vola to a safer tower, returns her gear, and learns about her mission, Agata, Arcus, and the Society’s relic hunt.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2585",
+                  "endUid": "u2694"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Vola rejoins the party, reclaims her belongings, and advises killing the captive before moving to the other tower."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2701",
+                  "endUid": "u2867"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola explains her relic-hunting mission and captors while discussing Arcus and a possible escape with the party."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "vola-relic-race",
+                "type": "color",
+                "text": "Well, I can tell you that there’s a race of sorts, for items, for relics.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2776"
+                }
+              },
+              {
+                "id": "vola-relic-warning",
+                "type": "color",
+                "text": "Why exactly she wants these artifacts, it’s not clear, but I know it is not for something good.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2776"
+                }
+              },
+              {
+                "id": "vola-empire",
+                "type": "color",
+                "text": "And knows how to climb walls and sneak around, one can recover the heritage of the great empire.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2824",
+                  "endUid": "u2827"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "agata-revelation",
+            "entity": "agata",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Vola tells the party that Agata Dustmother seeks imperial relics and employed the three captors they killed.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2793"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola names Agata and connects her relic search to the slain captors."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "arcus-news",
+            "entity": "arcus",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Wellby reports Arcus’s death to Vola, who reacts sadly and later confirms his Society membership.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2729",
+                  "endUid": "u2733"
+                },
+                "relevance": "primary",
+                "aiSummary": "Wellby tells Vola Arcus is dead, and she reacts sadly."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2779",
+                  "endUid": "u2793"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Vola identifies Arcus as another member of the Society."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "arcus-report",
+                "type": "whole",
+                "text": "Arcus is dead.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2729",
+                  "endUid": "u2729"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "orc-sighting",
+            "entity": "orc-jailer",
+            "scenes": [
+              25
+            ],
+            "interaction": "observed",
+            "importance": "supporting",
+            "aiSummary": "Kenzo sees a cloaked orc carrying a scimitar move through the second tower’s living quarters.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1843",
+                  "endUid": "u1855"
+                },
+                "relevance": "primary",
+                "aiSummary": "Kenzo observes the armed orc while scouting invisibly."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "orc-introduction",
+                "type": "introduction",
+                "text": "Ah, you see a sort of a green-skinned, vicious-looking humanoid creature.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1843",
+                  "endUid": "u1850"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "orc-battle",
+            "entity": "orc-jailer",
+            "scenes": [
+              31
+            ],
+            "interaction": "interacted",
+            "importance": "supporting",
+            "aiSummary": "The party fights and kills the orc spellcaster after he casts darkness and threatens vengeance.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2095",
+                  "endUid": "u2521"
+                },
+                "relevance": "primary",
+                "aiSummary": "The orc fights alongside the shapeshifter, casts darkness, and dies after threatening the party."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "orc-threat",
+                "type": "color",
+                "text": "This is not the end!",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2461",
+                  "endUid": "u2473"
+                }
+              },
+              {
+                "id": "orc-vengeance",
+                "type": "color",
+                "text": "Vengeance will be ours",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2514",
+                  "endUid": "u2518"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "orc-allegiance",
+            "entity": "orc-jailer",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Vola identifies the three slain captors, including the orc, as Agata’s servants.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2779",
+                  "endUid": "u2793"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola attributes her captivity and interrogation to Agata’s servants."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "claw-scouting-report",
+            "entity": "blackened-claw",
+            "scenes": [
+              3
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Wellby shows coins marked with the Blackened Claw symbol as evidence of past hobgoblin occupation.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0207",
+                  "endUid": "u0216"
+                },
+                "relevance": "primary",
+                "aiSummary": "Wellby reports a dusty hobgoblin barracks and displays coins bearing the clan’s mark."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0323",
+                  "endUid": "u0323"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Wellby identifies the Blackened Claw symbol as a hobgoblin tribal standard."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "claw-captain-apartment",
+            "entity": "blackened-claw",
+            "scenes": [
+              20,
+              24
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Kenzo finds the Blackened Claw symbol painted in the abandoned captain’s apartment, which the party later searches.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1700",
+                  "endUid": "u1721"
+                },
+                "relevance": "primary",
+                "aiSummary": "Kenzo examines the old apartment and its painted Blackened Claw mark."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1790",
+                  "endUid": "u1795"
+                },
+                "relevance": "supporting",
+                "aiSummary": "The later search identifies the room’s old equipment as a hobgoblin captain’s possessions."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "claw-mark",
+                "type": "introduction",
+                "text": "Carefully painted on one wall is the Blackened Claw mark of the goblins.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1700",
+                  "endUid": "u1703"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "society-question",
+            "entity": "open-scroll",
+            "scenes": [
+              26
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Vola asks whether Kenzo was sent by the Society, but he does not recognize it.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1964",
+                  "endUid": "u1974"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola introduces the Society while trying to understand Kenzo’s arrival."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "society-relic-mission",
+            "entity": "open-scroll",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Vola explains the Society’s attempt to recover imperial relics ahead of Agata and identifies herself and Arcus with that mission.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2793"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola describes the Society’s relic search, library association, and Arcus’s membership."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "library-association",
+            "entity": "great-library",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Vola connects the relic hunters with Chardon’s library, which Kenzo knows despite his unfamiliarity with the Society.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2776"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola associates the Society and its relic hunters with the library."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2796",
+                  "endUid": "u2800"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Kenzo recognizes the Great Library but has not heard of the Society."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "logbook-examination",
+            "entity": "hobgoblin-logbook",
+            "scenes": [
+              3
+            ],
+            "interaction": "interacted",
+            "importance": "supporting",
+            "aiSummary": "Wellby shows the hobgoblin logbook to the party, which examines its dated entries without being able to read them.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0207",
+                  "endUid": "u0277"
+                },
+                "relevance": "primary",
+                "aiSummary": "The party inspects the logbook Wellby found and discusses its language and dates."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "logbook-introduction",
+                "type": "introduction",
+                "text": "Oh, and I found this too. I pull up a book. I think it’s a logbook. I think it’s hobgoblin, but I don’t read it. Do any of us know hobgoblin?",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0207",
+                  "endUid": "u0216"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          },
+          {
+            "id": "scroll-discovery",
+            "entity": "magic-scroll",
+            "scenes": [
+              24
+            ],
+            "interaction": "interacted",
+            "importance": "supporting",
+            "aiSummary": "Delwath finds a magical scroll hidden in the captain’s desk, but its spell remains unidentified.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1759",
+                  "endUid": "u1803"
+                },
+                "relevance": "primary",
+                "aiSummary": "Delwath searches the captain’s room, discovers a concealed magical scroll, and examines its unfamiliar spell."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "scroll-introduction",
+                "type": "introduction",
+                "text": "And then the one thing you do find is sort of searching around inside the desk, there’s a there’s like a drawer that lifts lifts up, and there is a scroll that is magical kind of tucked in a corner of the—yes, okay.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1790",
+                  "endUid": "u1795"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "low",
+              "status": "unreviewed"
+            }
+          }
+        ],
+        "review": {
+          "confidence": "low",
+          "status": "unreviewed"
+        },
+        "sceneReview": {
+          "confidence": "low",
+          "status": "unreviewed"
+        }
+      },
+      "evidence": {
+        "fullTranscriptRead": true,
+        "excludedBlocks": [
+          {
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0134",
+              "endUid": "u0145"
+            },
+            "reason": "Out-of-character reconnection and computer/chat setup; no played action."
+          },
+          {
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2695",
+              "endUid": "u2700"
+            },
+            "reason": "Players discuss the late hour, fatigue, and wrapping up the recording."
+          },
+          {
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2873",
+              "endUid": "u2875"
+            },
+            "reason": "End-of-session scheduling discussion."
+          }
+        ],
+        "metadataFindings": [
+          {
+            "id": "path-1",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "sourceInputPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "sourceInputPath",
+              "value": "../sources/GMT20201003-012743_Taelgar-Re.transcript.vtt"
+            }
+          },
+          {
+            "id": "path-2",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "sourceConfigPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "sourceConfigPath",
+              "value": "../sources/dunmar-frontier-session010.yaml"
+            }
+          },
+          {
+            "id": "path-3",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "participantsPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "participantsPath",
+              "value": "../sources/dunmar-frontier-core-plus-riswynn-participants.yaml"
+            }
+          },
+          {
+            "id": "path-4",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "preparedSourcePath"
+              }
+            ],
+            "proposedChange": {
+              "field": "preparedSourcePath",
+              "value": "dunmari-frontier-010-source-prepared.md"
+            }
+          },
+          {
+            "id": "path-5",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "speakerMappingsPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "speakerMappingsPath",
+              "value": "../sources/zoom-session-010.speaker_mapping.json"
+            }
+          },
+          {
+            "id": "path-6",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "speakerStatsPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "speakerStatsPath",
+              "value": "dunmari-frontier-010-speaker-stats.json"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "report": {
+        "inputDigest": "bf5ae15cfd67f9fbc0254010123a0a0d939b8195af2683a34febc18481063020",
+        "processingDigest": "0a5b0e9144e74f2144c15b47292fb648def23437419957eb9a090b942090b2ec",
+        "reviewer": "/root/review_du010_v6",
+        "attempt": 1,
+        "decisions": [
+          {
+            "target": "session",
+            "confidence": "high",
+            "reason": "Targeted correction recheck: YAML, source fingerprints, session locations, entity records and interaction records are unchanged. The independent full-source consistency assessment from attempt 0 remains supported: all five PCs act in play, the transcript stays within one afternoon/evening without a clear contrary calendar date, and the six ancillary path proposals remain informational. The only candidate changes concern scene 23 descriptive text.",
+            "evidence": [
+              {
+                "yamlField": "participants"
+              },
+              {
+                "yamlField": "drStart"
+              },
+              {
+                "yamlField": "drEnd"
+              },
+              {
+                "yamlField": "realWorldDate"
+              },
+              {
+                "yamlField": "transcriptProcessing.artifacts"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0003",
+                "endUid": "u0046"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0198",
+                "endUid": "u0216"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0328",
+                "endUid": "u0339"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0426",
+                "endUid": "u0434"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0861",
+                "endUid": "u0871"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1437",
+                "endUid": "u1476"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2850",
+                "endUid": "u2850"
+              },
+              {
+                "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md"
+              },
+              {
+                "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+              }
+            ]
+          },
+          {
+            "target": "scenes",
+            "confidence": "high",
+            "reason": "The exact candidate diff contains only scene 23 locationDetail and aiSummary. Re-reading u1744–u1758 confirms Kenzo proceeds from the first tower toward the barred overhead gate passage leading into the second tower while companions search. The corrected wording now reflects that movement without altering source coverage or boundaries. The 36-scene division remains supported; parallel watches remain concurrent, the connector and regrouping details avoid unsupported precision, and all 2875 UIDs remain accounted for. All three exclusions retain accurate setup/wrap reasons. No required correction remains; optional creature-card calibration is not a segmentation defect.",
+            "evidence": [
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1744",
+                "endUid": "u1758"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u1437",
+                "endUid": "u1476"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u0134",
+                "endUid": "u0145"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2695",
+                "endUid": "u2700"
+              },
+              {
+                "kind": "transcript",
+                "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                "startUid": "u2873",
+                "endUid": "u2875"
+              }
+            ]
+          }
+        ]
+      },
+      "stage": "automatedReviewed",
+      "outputDigest": "0c673a7879fbf7f696959436f9c60200341362ac73b10080da2e4705b1bd6494",
+      "candidate": {
+        "schemaVersion": 6,
+        "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+        "locations": [
+          "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md",
+          "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+        ],
+        "scenes": [
+          {
+            "index": 1,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0001",
+              "endUid": "u0046"
+            },
+            "type": "exploration",
+            "locationDetail": "Locked tunnel entrance",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party smashes a rusty lock to enter the underground passage.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md"
+          },
+          {
+            "index": 2,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0047",
+              "endUid": "u0133"
+            },
+            "type": "travel",
+            "locationDetail": "Underground connector and ascending shaft",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party follows the connector tunnel and climbs toward a storeroom beneath the fort."
+          },
+          {
+            "index": 3,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0146",
+              "endUid": "u0727"
+            },
+            "type": "conversation",
+            "locationDetail": "Storeroom above the underground shaft",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Wellby reports his scouting discoveries; the party examines a logbook and plans routes through the fort.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 4,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0728",
+              "endUid": "u0769"
+            },
+            "type": "exploration",
+            "locationDetail": "Curved corridor and intersection",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party advances through the tunnel while Delwath prepares to scout invisibly.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 5,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0770",
+              "endUid": "u0818"
+            },
+            "type": "exploration",
+            "locationDetail": "Prison and execution cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath scouts the cavern and discovers two ghoul-like hobgoblins.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 6,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0819",
+              "endUid": "u0860"
+            },
+            "type": "travel",
+            "locationDetail": "Intersection and northern corridor",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath returns to the intersection and heads toward the northern rubble passage.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 7,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0861",
+              "endUid": "u0891"
+            },
+            "type": "exploration",
+            "locationDetail": "Northern rubble peephole overlooking the plaza",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath observes the plaza through rubble and studies a route outside.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 8,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0892",
+              "endUid": "u0911"
+            },
+            "type": "conversation",
+            "locationDetail": "Tunnel intersection",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath reports the northern route and prepares to investigate the southern passage.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 9,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0912",
+              "endUid": "u0958"
+            },
+            "type": "exploration",
+            "locationDetail": "Southern gate overlooking the bridge and towers",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath scouts the bridge and tower entrances beyond a barred southern gate.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 10,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0959",
+              "endUid": "u1091"
+            },
+            "type": "conversation",
+            "locationDetail": "Tunnel near the shaft and storeroom",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party compares routes and plans to eliminate the ghouls quietly.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 11,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1092",
+              "endUid": "u1120"
+            },
+            "type": "travel",
+            "locationDetail": "Approach to the prison cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party approaches the prison cavern for an ambush.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 12,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1121",
+              "endUid": "u1239"
+            },
+            "type": "combat",
+            "locationDetail": "Prison and execution cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party kills the two ghouls before they can raise an alarm.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 13,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1240",
+              "endUid": "u1422"
+            },
+            "type": "exploration",
+            "locationDetail": "Prison and execution cavern",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party examines the execution chamber and considers routes, noises, and places to rest.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 14,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1423",
+              "endUid": "u1436"
+            },
+            "type": "travel",
+            "locationDetail": "Tunnels leading to the northern and southern watchpoints",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party divides between two watchpoints for a short rest.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 15,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1437",
+              "endUid": "u1458"
+            },
+            "type": "exploration",
+            "locationDetail": "Northern rubble peephole",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The northern watch observes movement and activity outside during the short rest.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+            "time": "Late afternoon, approaching sunset; one-hour short rest."
+          },
+          {
+            "index": 16,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1459",
+              "endUid": "u1549"
+            },
+            "type": "exploration",
+            "locationDetail": "Southern gate and tower overlook",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The southern watch studies the towers and hears activity as the light fades.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+            "time": "During the same short rest, with fading light."
+          },
+          {
+            "index": 17,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1550",
+              "endUid": "u1639"
+            },
+            "type": "conversation",
+            "locationDetail": "Tunnel near the southern gate",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party regroups and plans Kenzo’s invisible scouting of the towers.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 18,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1640",
+              "endUid": "u1678"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, second-floor entrance and windows",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo enters the first tower and surveys its surroundings.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 19,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1679",
+              "endUid": "u1698"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, third floor",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo investigates the upper passage and the way toward the next tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 20,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1699",
+              "endUid": "u1721"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, fourth-floor captain’s apartment",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo finds an abandoned apartment marked with the Blackened Claw symbol.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 21,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1722",
+              "endUid": "u1743"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, stairs and exits",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo checks the tower’s remaining routes and exits.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 22,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1744",
+              "endUid": "u1749"
+            },
+            "type": "conversation",
+            "locationDetail": "First tower approach",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo returns to gather the party into the first tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 23,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1750",
+              "endUid": "u1758"
+            },
+            "type": "travel",
+            "locationDetail": "Gate passage between the towers",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo opens the barred door into the overhead gate passage toward the second tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 24,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1759",
+              "endUid": "u1803"
+            },
+            "type": "exploration",
+            "locationDetail": "First tower, captain’s apartment",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Delwath searches the old captain’s apartment and discovers an unidentified magical scroll hidden in the desk.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 25,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1804",
+              "endUid": "u1855"
+            },
+            "type": "exploration",
+            "locationDetail": "Second tower, entrance and third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo scouts the second tower and sees a cloaked orc carrying a scimitar.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 26,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1856",
+              "endUid": "u1982"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, fourth-floor prison",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo discovers the injured prisoner Vola, frees her hands, and quietly discusses a rescue.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 27,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1983",
+              "endUid": "u1986"
+            },
+            "type": "exploration",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo briefly checks the guards’ positions downstairs.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 28,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u1987",
+              "endUid": "u2003"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, fourth-floor prison",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo returns to reassure Vola and gives her a healing potion.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 29,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2004",
+              "endUid": "u2072"
+            },
+            "type": "conversation",
+            "locationDetail": "First tower, party gathering point",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo reports the prisoner and guards; the party prepares a rescue assault.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 30,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2073",
+              "endUid": "u2094"
+            },
+            "type": "travel",
+            "locationDetail": "Second tower approach and third-floor stairs",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party approaches the guards’ floor in the second tower.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 31,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2095",
+              "endUid": "u2521"
+            },
+            "type": "combat",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party sleeps one guard, battles a shapeshifter and the orc spellcaster, and kills the two active opponents.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 32,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2522",
+              "endUid": "u2584"
+            },
+            "type": "exploration",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party secures the sleeping guard and searches the rooms, finding Vola’s belongings.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 33,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2585",
+              "endUid": "u2608"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, fourth-floor prison and stairs",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Kenzo collects Vola and brings her toward the party.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 34,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2609",
+              "endUid": "u2683"
+            },
+            "type": "conversation",
+            "locationDetail": "Second tower, third-floor living quarters",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Vola reclaims her gear and advises killing the captive shapeshifter before the party relocates.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 35,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2684",
+              "endUid": "u2694"
+            },
+            "type": "travel",
+            "locationDetail": "Crossing back to the first tower",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "The party escorts Vola to the first tower and bars the door.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+          },
+          {
+            "index": 36,
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2701",
+              "endUid": "u2872"
+            },
+            "type": "conversation",
+            "locationDetail": "First tower, secured room",
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-12",
+            "aiSummary": "Vola explains the Society’s relic hunt, Agata’s involvement, and her connection to Arcus; the party discusses escaping together.",
+            "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+            "time": "Approximately 7 pm."
+          }
+        ],
+        "entities": [
+          {
+            "id": "vola",
+            "kind": "npc",
+            "label": "Vola",
+            "aiSummary": "Kenzo frees and heals the imprisoned Vola before the party defeats her captors and brings her to safety within the fort. She describes the Society of the Open Scroll’s search for imperial relics, its rivalry with Agata, and Arcus’s membership.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "note": "People/Chardonians/Vola.md",
+            "aiSuggestedFeaturedQuotes": [
+              "vola-surprise",
+              "vola-relic-race",
+              "vola-empire"
+            ]
+          },
+          {
+            "id": "agata",
+            "kind": "npc",
+            "label": "Agata Dustmother",
+            "aiSummary": "Vola identifies Agata Dustmother as a mysterious creature seeking lost imperial relics and says the three slain captors were her servants.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "note": "People/Fey/Agata.md"
+          },
+          {
+            "id": "arcus",
+            "kind": "npc",
+            "label": "Arcus",
+            "aiSummary": "Wellby tells Vola that Arcus is dead, prompting sadness; Vola identifies him as a fellow Society member.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "note": "People/Chardonians/Arcus.md",
+            "aiSuggestedFeaturedQuotes": [
+              "arcus-report"
+            ]
+          },
+          {
+            "id": "orc-jailer",
+            "kind": "npc",
+            "label": "Orc jailer",
+            "aiSummary": "Kenzo observes a cloaked orc among Vola’s captors; the party later kills him after he uses magical darkness and threatens vengeance. Vola subsequently says the three captors served Agata.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "aiSuggestedFeaturedQuotes": [
+              "orc-threat",
+              "orc-vengeance"
+            ]
+          },
+          {
+            "id": "blackened-claw",
+            "kind": "organization",
+            "label": "Blackened Claw",
+            "aiSummary": "Wellby reports coins bearing the Blackened Claw mark, and Kenzo later finds the same symbol in an abandoned captain’s apartment.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "note": "Groups/Hobgoblin Clans/Blackened Claw.md",
+            "aiSuggestedFeaturedQuotes": [
+              "claw-mark"
+            ]
+          },
+          {
+            "id": "open-scroll",
+            "kind": "organization",
+            "label": "Society of the Open Scroll",
+            "aiSummary": "Vola asks whether Kenzo belongs to the Society, then explains its effort to recover imperial relics ahead of Agata and identifies Arcus as a member.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "note": "Groups/Chardonian Organizations/Society of the Open Scroll.md"
+          },
+          {
+            "id": "great-library",
+            "kind": "organization",
+            "label": "Great Library",
+            "aiSummary": "Vola associates the Society’s relic hunters with the library in Chardon; Kenzo recognizes the Great Library but not the Society.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "note": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md"
+          },
+          {
+            "id": "hobgoblin-logbook",
+            "kind": "item",
+            "label": "Hobgoblin logbook",
+            "aiSummary": "Wellby presents a hobgoblin logbook found during his scouting; the party examines its dated entries but cannot read its language.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold.md",
+            "aiSuggestedFeaturedQuotes": [
+              "logbook-introduction"
+            ]
+          },
+          {
+            "id": "magic-scroll",
+            "kind": "item",
+            "label": "Unidentified magical scroll",
+            "aiSummary": "Delwath discovers a magical scroll hidden in the captain’s desk, but the party cannot identify its spell.",
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            },
+            "aiSuggestedFeaturedQuotes": [
+              "scroll-introduction"
+            ]
+          }
+        ],
+        "interactions": [
+          {
+            "id": "vola-first-meeting",
+            "entity": "vola",
+            "scenes": [
+              26,
+              27,
+              28
+            ],
+            "interaction": "interacted",
+            "importance": "star",
+            "aiSummary": "Kenzo secretly frees Vola’s hands, learns her name, and gives her healing while arranging to return with the party.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1898",
+                  "endUid": "u2003"
+                },
+                "relevance": "primary",
+                "aiSummary": "Kenzo meets the prisoner, discusses her captivity, briefly checks downstairs, and returns with reassurance and healing."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "vola-introduction",
+                "type": "introduction",
+                "text": "you see, lying on this pile of straw, um, a badly wounded woman wearing armor but otherwise um, like seemingly beat up, with no equipment or anything. Um, hands tied behind her back.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1898",
+                  "endUid": "u1899"
+                }
+              },
+              {
+                "id": "vola-surprise",
+                "type": "color",
+                "text": "What the bloody hell? What is going on?",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1931",
+                  "endUid": "u1932"
+                }
+              },
+              {
+                "id": "vola-prison",
+                "type": "color",
+                "text": "I think they will stay. What do I know? Been tied up in the damn prison.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1952",
+                  "endUid": "u1955"
+                }
+              },
+              {
+                "id": "vola-healing",
+                "type": "color",
+                "text": "Thank you. God, that goes down well. Yeah, I will.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2001",
+                  "endUid": "u2001"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "vola-rescue-debrief",
+            "entity": "vola",
+            "scenes": [
+              33,
+              34,
+              35,
+              36
+            ],
+            "interaction": "interacted",
+            "importance": "star",
+            "aiSummary": "The party escorts Vola to a safer tower, returns her gear, and learns about her mission, Agata, Arcus, and the Society’s relic hunt.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2585",
+                  "endUid": "u2694"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Vola rejoins the party, reclaims her belongings, and advises killing the captive before moving to the other tower."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2701",
+                  "endUid": "u2867"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola explains her relic-hunting mission and captors while discussing Arcus and a possible escape with the party."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "vola-relic-race",
+                "type": "color",
+                "text": "Well, I can tell you that there’s a race of sorts, for items, for relics.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2776"
+                }
+              },
+              {
+                "id": "vola-relic-warning",
+                "type": "color",
+                "text": "Why exactly she wants these artifacts, it’s not clear, but I know it is not for something good.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2776"
+                }
+              },
+              {
+                "id": "vola-empire",
+                "type": "color",
+                "text": "And knows how to climb walls and sneak around, one can recover the heritage of the great empire.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2824",
+                  "endUid": "u2827"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "agata-revelation",
+            "entity": "agata",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Vola tells the party that Agata Dustmother seeks imperial relics and employed the three captors they killed.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2793"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola names Agata and connects her relic search to the slain captors."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "arcus-news",
+            "entity": "arcus",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Wellby reports Arcus’s death to Vola, who reacts sadly and later confirms his Society membership.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2729",
+                  "endUid": "u2733"
+                },
+                "relevance": "primary",
+                "aiSummary": "Wellby tells Vola Arcus is dead, and she reacts sadly."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2779",
+                  "endUid": "u2793"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Vola identifies Arcus as another member of the Society."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "arcus-report",
+                "type": "whole",
+                "text": "Arcus is dead.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2729",
+                  "endUid": "u2729"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "orc-sighting",
+            "entity": "orc-jailer",
+            "scenes": [
+              25
+            ],
+            "interaction": "observed",
+            "importance": "supporting",
+            "aiSummary": "Kenzo sees a cloaked orc carrying a scimitar move through the second tower’s living quarters.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1843",
+                  "endUid": "u1855"
+                },
+                "relevance": "primary",
+                "aiSummary": "Kenzo observes the armed orc while scouting invisibly."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "orc-introduction",
+                "type": "introduction",
+                "text": "Ah, you see a sort of a green-skinned, vicious-looking humanoid creature.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1843",
+                  "endUid": "u1850"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "orc-battle",
+            "entity": "orc-jailer",
+            "scenes": [
+              31
+            ],
+            "interaction": "interacted",
+            "importance": "supporting",
+            "aiSummary": "The party fights and kills the orc spellcaster after he casts darkness and threatens vengeance.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2095",
+                  "endUid": "u2521"
+                },
+                "relevance": "primary",
+                "aiSummary": "The orc fights alongside the shapeshifter, casts darkness, and dies after threatening the party."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "orc-threat",
+                "type": "color",
+                "text": "This is not the end!",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2461",
+                  "endUid": "u2473"
+                }
+              },
+              {
+                "id": "orc-vengeance",
+                "type": "color",
+                "text": "Vengeance will be ours",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2514",
+                  "endUid": "u2518"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "orc-allegiance",
+            "entity": "orc-jailer",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Vola identifies the three slain captors, including the orc, as Agata’s servants.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2779",
+                  "endUid": "u2793"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola attributes her captivity and interrogation to Agata’s servants."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "claw-scouting-report",
+            "entity": "blackened-claw",
+            "scenes": [
+              3
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Wellby shows coins marked with the Blackened Claw symbol as evidence of past hobgoblin occupation.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0207",
+                  "endUid": "u0216"
+                },
+                "relevance": "primary",
+                "aiSummary": "Wellby reports a dusty hobgoblin barracks and displays coins bearing the clan’s mark."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0323",
+                  "endUid": "u0323"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Wellby identifies the Blackened Claw symbol as a hobgoblin tribal standard."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "claw-captain-apartment",
+            "entity": "blackened-claw",
+            "scenes": [
+              20,
+              24
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Kenzo finds the Blackened Claw symbol painted in the abandoned captain’s apartment, which the party later searches.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1700",
+                  "endUid": "u1721"
+                },
+                "relevance": "primary",
+                "aiSummary": "Kenzo examines the old apartment and its painted Blackened Claw mark."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1790",
+                  "endUid": "u1795"
+                },
+                "relevance": "supporting",
+                "aiSummary": "The later search identifies the room’s old equipment as a hobgoblin captain’s possessions."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "claw-mark",
+                "type": "introduction",
+                "text": "Carefully painted on one wall is the Blackened Claw mark of the goblins.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1700",
+                  "endUid": "u1703"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "society-question",
+            "entity": "open-scroll",
+            "scenes": [
+              26
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Vola asks whether Kenzo was sent by the Society, but he does not recognize it.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1964",
+                  "endUid": "u1974"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola introduces the Society while trying to understand Kenzo’s arrival."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "society-relic-mission",
+            "entity": "open-scroll",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "supporting",
+            "aiSummary": "Vola explains the Society’s attempt to recover imperial relics ahead of Agata and identifies herself and Arcus with that mission.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2793"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola describes the Society’s relic search, library association, and Arcus’s membership."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "library-association",
+            "entity": "great-library",
+            "scenes": [
+              36
+            ],
+            "interaction": "mentioned",
+            "importance": "cameo",
+            "aiSummary": "Vola connects the relic hunters with Chardon’s library, which Kenzo knows despite his unfamiliarity with the Society.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2752",
+                  "endUid": "u2776"
+                },
+                "relevance": "primary",
+                "aiSummary": "Vola associates the Society and its relic hunters with the library."
+              },
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u2796",
+                  "endUid": "u2800"
+                },
+                "relevance": "supporting",
+                "aiSummary": "Kenzo recognizes the Great Library but has not heard of the Society."
+              }
+            ],
+            "quotes": [],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "logbook-examination",
+            "entity": "hobgoblin-logbook",
+            "scenes": [
+              3
+            ],
+            "interaction": "interacted",
+            "importance": "supporting",
+            "aiSummary": "Wellby shows the hobgoblin logbook to the party, which examines its dated entries without being able to read them.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0207",
+                  "endUid": "u0277"
+                },
+                "relevance": "primary",
+                "aiSummary": "The party inspects the logbook Wellby found and discusses its language and dates."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "logbook-introduction",
+                "type": "introduction",
+                "text": "Oh, and I found this too. I pull up a book. I think it’s a logbook. I think it’s hobgoblin, but I don’t read it. Do any of us know hobgoblin?",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u0207",
+                  "endUid": "u0216"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          },
+          {
+            "id": "scroll-discovery",
+            "entity": "magic-scroll",
+            "scenes": [
+              24
+            ],
+            "interaction": "interacted",
+            "importance": "supporting",
+            "aiSummary": "Delwath finds a magical scroll hidden in the captain’s desk, but its spell remains unidentified.",
+            "passages": [
+              {
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1759",
+                  "endUid": "u1803"
+                },
+                "relevance": "primary",
+                "aiSummary": "Delwath searches the captain’s room, discovers a concealed magical scroll, and examines its unfamiliar spell."
+              }
+            ],
+            "quotes": [
+              {
+                "id": "scroll-introduction",
+                "type": "introduction",
+                "text": "And then the one thing you do find is sort of searching around inside the desk, there’s a there’s like a drawer that lifts lifts up, and there is a scroll that is magical kind of tucked in a corner of the—yes, okay.",
+                "source": {
+                  "kind": "transcript",
+                  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+                  "startUid": "u1790",
+                  "endUid": "u1795"
+                }
+              }
+            ],
+            "review": {
+              "confidence": "high",
+              "status": "automatedReviewed"
+            }
+          }
+        ],
+        "review": {
+          "confidence": "high",
+          "status": "automatedReviewed"
+        },
+        "sceneReview": {
+          "confidence": "medium",
+          "status": "automatedReviewed"
+        }
+      },
+      "evidence": {
+        "fullTranscriptRead": true,
+        "excludedBlocks": [
+          {
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u0134",
+              "endUid": "u0145"
+            },
+            "reason": "Out-of-character reconnection and computer/chat setup; no played action."
+          },
+          {
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2695",
+              "endUid": "u2700"
+            },
+            "reason": "Players discuss the late hour, fatigue, and wrapping up the recording."
+          },
+          {
+            "source": {
+              "kind": "transcript",
+              "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+              "startUid": "u2873",
+              "endUid": "u2875"
+            },
+            "reason": "End-of-session scheduling discussion."
+          }
+        ],
+        "metadataFindings": [
+          {
+            "id": "path-1",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "sourceInputPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "sourceInputPath",
+              "value": "../sources/GMT20201003-012743_Taelgar-Re.transcript.vtt"
+            }
+          },
+          {
+            "id": "path-2",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "sourceConfigPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "sourceConfigPath",
+              "value": "../sources/dunmar-frontier-session010.yaml"
+            }
+          },
+          {
+            "id": "path-3",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "participantsPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "participantsPath",
+              "value": "../sources/dunmar-frontier-core-plus-riswynn-participants.yaml"
+            }
+          },
+          {
+            "id": "path-4",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "preparedSourcePath"
+              }
+            ],
+            "proposedChange": {
+              "field": "preparedSourcePath",
+              "value": "dunmari-frontier-010-source-prepared.md"
+            }
+          },
+          {
+            "id": "path-5",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "speakerMappingsPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "speakerMappingsPath",
+              "value": "../sources/zoom-session-010.speaker_mapping.json"
+            }
+          },
+          {
+            "id": "path-6",
+            "kind": "pathIssue",
+            "severity": "info",
+            "status": "open",
+            "reason": "Missing or machine-specific source path in session YAML.",
+            "evidence": [
+              {
+                "yamlField": "speakerStatsPath"
+              }
+            ],
+            "proposedChange": {
+              "field": "speakerStatsPath",
+              "value": "dunmari-frontier-010-speaker-stats.json"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

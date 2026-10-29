@@ -1,0 +1,2021 @@
+{
+  "seed": 20261029,
+  "method": "Both currently registered transcript bundles, ordered using seed 20261029. Availability sample, not a representative cross-campaign random trial.",
+  "population": [
+    {
+      "id": "dunmari-frontier-010",
+      "campaign": "dufr",
+      "session": 10,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+      "sha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4",
+      "inputs": {
+        "sessionYamlDigest": "0aaa6e546f74291f22b3f5e54454c6b22307ffe3a5c7b6406acef701bbb7c269",
+        "sources": {
+          "transcriptProcessing.artifacts.cleaned": "40b5ec26b2d9874bf178bf9c5324ee32b988a087dd68e28ba4defb75763e2242",
+          "transcriptProcessing.artifacts.polishedMarkdown": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4"
+        }
+      },
+      "words": 32743
+    },
+    {
+      "id": "dunmari-frontier-041",
+      "campaign": "dufr",
+      "session": 41,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md",
+      "sha256": "48c006c90a714584171d97bfd4c65e15a0c85edf05dbf0cd094641b575ab335f",
+      "inputs": {
+        "sessionYamlDigest": "df13724b9e9035288d35e2582cdb5e248f005c9e7f2e02bfdd59e96cbe94bf5e",
+        "sources": {
+          "transcriptProcessing.artifacts.cleaned": "2bc3baa3dcc3a9346e5df5251db53649f2f954695a0aab352307aea3faac5259",
+          "transcriptProcessing.artifacts.polishedMarkdown": "48c006c90a714584171d97bfd4c65e15a0c85edf05dbf0cd094641b575ab335f"
+        }
+      },
+      "words": 26442
+    }
+  ],
+  "excluded": [
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-001/cleaned/cleenseau-001-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-002/cleaned/cleenseau-002-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-003/cleaned/cleenseau-003-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-004/cleaned/cleenseau-004-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-005/cleaned/cleenseau-005-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-006/cleaned/cleenseau-006-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-007/cleaned/cleenseau-007-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-008/cleaned/cleenseau-008-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-009/cleaned/cleenseau-009-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-010/cleaned/cleenseau-010-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-011/cleaned/cleenseau-011-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-011.1/cleaned/cleenseau-011.1-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-012/cleaned/cleenseau-012-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-012.1/cleaned/cleenseau-012.1-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-013/cleaned/cleenseau-013-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-013.1/cleaned/cleenseau-013.1-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-014/cleaned/cleenseau-014-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-015/cleaned/cleenseau-015-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-016/cleaned/cleenseau-016-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-017/cleaned/cleenseau-017-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-018/cleaned/cleenseau-018-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-019/cleaned/cleenseau-019-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-020/cleaned/cleenseau-020-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-021/cleaned/cleenseau-021-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-022/cleaned/cleenseau-022-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-023/cleaned/cleenseau-023-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-024/cleaned/cleenseau-024-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-025/cleaned/cleenseau-025-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-026/cleaned/cleenseau-026-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-027/cleaned/cleenseau-027-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-028/cleaned/cleenseau-028-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-029.1/cleaned/cleenseau-029.1-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-031/cleaned/cleenseau-031-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-032/cleaned/cleenseau-032-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-033/cleaned/cleenseau-033-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-034/cleaned/cleenseau-034-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-035/cleaned/cleenseau-035-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/cleenseau/cleenseau-036/cleaned/cleenseau-036-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dragonets-001-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dragonets-002-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dragonets-003-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-001-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-002-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-003-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-004-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-005-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-006-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-007-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-008-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-009-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-011-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-012-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-013-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-014-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-015-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-016-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-017-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-018-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-019-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-020-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-021-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-022-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-023-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-024-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-025-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-026-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-027-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-028-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-029-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-030-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-031-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmar-frontier-032-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-033-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-034-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-035-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-036-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-037-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-038-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-039-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-040-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-042-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-043-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-044-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-045-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-046-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-047-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-048-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-049-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript."
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-051/cleaned/dunmar-frontier-051-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript."
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript."
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-053-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-054-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-055-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-056-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-057-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-058-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-059-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-060-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-061-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-062-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-063-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-064-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-065-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-066-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-067-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-068-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-069-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-070-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-071-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-072-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-073-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-074-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-075-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-076-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-077-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-078-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-079-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript."
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript."
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-082-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-083-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-084-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-085-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-086-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-087-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-088-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-089-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-090-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-091-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-092-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-093-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-094-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-095-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-096/cleaned/dunmari-frontier-096-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-097-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-098-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-099-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-100-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-101-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-102-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-103-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-104-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-105-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-106-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-108-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-109-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-110-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-111-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-112-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-113-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-114-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-115-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-116-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-117-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-118-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-119-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-120-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-121-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-122-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-123-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-124-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-125-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-126-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-127-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-128-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-129-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-130-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-131-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-132-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-133-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-134-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-136-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-137-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmari-frontier-138-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "dunmar-frontier-139-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "lost-in-the-feywild-001-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "lost-in-the-feywild-002-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "lost-in-the-feywild-003-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "lost-in-the-feywild-004-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "lost-in-the-feywild-005-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "lost-in-the-feywild-006-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "lost-in-the-feywild-007-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "into-the-chasm-001-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "into-the-chasm-002-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "into-the-chasm-003-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "into-the-chasm-004-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "into-the-chasm-005-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "into-the-chasm-006-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "labyrinths-of-the-lost-001-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "labyrinths-of-the-lost-002-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "labyrinths-of-the-lost-003-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-session.yaml",
+      "reason": "Only transcript extraction is supported",
+      "proposedYamlFixes": []
+    },
+    {
+      "manifest": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "mawar-adventures-002-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "mawar-adventures-003-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "mawar-adventures-004-source-cleaned.md"
+        }
+      ]
+    },
+    {
+      "manifest": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+      "reason": "Register/fix the cleaned transcript in session YAML before extraction.",
+      "proposedYamlFixes": [
+        {
+          "field": "cleanedSourcePath",
+          "reason": "YAML does not identify a cleaned transcript.",
+          "proposed": "mawar-adventures-005-source-cleaned.md"
+        }
+      ]
+    }
+  ],
+  "selected": [
+    {
+      "id": "dunmari-frontier-010",
+      "campaign": "dufr",
+      "session": 10,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+      "sha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4",
+      "inputs": {
+        "sessionYamlDigest": "0aaa6e546f74291f22b3f5e54454c6b22307ffe3a5c7b6406acef701bbb7c269",
+        "sources": {
+          "transcriptProcessing.artifacts.cleaned": "40b5ec26b2d9874bf178bf9c5324ee32b988a087dd68e28ba4defb75763e2242",
+          "transcriptProcessing.artifacts.polishedMarkdown": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4"
+        }
+      },
+      "words": 32743
+    },
+    {
+      "id": "dunmari-frontier-041",
+      "campaign": "dufr",
+      "session": 41,
+      "manifest": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "source": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md",
+      "sha256": "48c006c90a714584171d97bfd4c65e15a0c85edf05dbf0cd094641b575ab335f",
+      "inputs": {
+        "sessionYamlDigest": "df13724b9e9035288d35e2582cdb5e248f005c9e7f2e02bfdd59e96cbe94bf5e",
+        "sources": {
+          "transcriptProcessing.artifacts.cleaned": "2bc3baa3dcc3a9346e5df5251db53649f2f954695a0aab352307aea3faac5259",
+          "transcriptProcessing.artifacts.polishedMarkdown": "48c006c90a714584171d97bfd4c65e15a0c85edf05dbf0cd094641b575ab335f"
+        }
+      },
+      "words": 26442
+    }
+  ],
+  "executionMethod": "Parallel extraction agents followed by distinct independent review agents; human feedback pending."
+}

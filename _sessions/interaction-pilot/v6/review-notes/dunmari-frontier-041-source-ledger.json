@@ -1,0 +1,203 @@
+{
+  "reviewer": "/root/review_du041_v6",
+  "readScope": {
+    "fullTranscriptRead": true,
+    "firstUid": "u0001",
+    "lastUid": "u2261",
+    "method": "Sequential full read in seven untruncated chunks; reread u1889-u1890 after a tiny truncation. Draft not assessed during independent read."
+  },
+  "coverageLedger": [
+    [
+      "u0001",
+      "u0016",
+      "DM cinematic gods watching Dunmar; not party observations. Named deity mentions; preserve framing."
+    ],
+    [
+      "u0017",
+      "u0110",
+      "Saka farewell and meaningful gift of storykeeping sheets; Rai/jade dream discussion; purpose of the Awakened Soul and ordinary stories."
+    ],
+    [
+      "u0111",
+      "u0180",
+      "July 6 departure, 2.5-day ride, July 8 evening approach Tokra; temple/tree described, inn chosen."
+    ],
+    [
+      "u0181",
+      "u0263",
+      "Kirian welcomes party and supplies messages from Kassi, Fallthra, Govir, Kaleha; Riswynn whereabouts."
+    ],
+    [
+      "u0264",
+      "u0324",
+      "PC plans and prisoner/mirror discussion."
+    ],
+    [
+      "u0325",
+      "u0341",
+      "Kenzo visits Iron Swan and retrieves Riswynn; do not invent Vistra encounter."
+    ],
+    [
+      "u0342",
+      "u0544",
+      "Return Kirian common room, reunited party discusses separate cured/refusing prisoners and soul mirrors; named Vistra reported."
+    ],
+    [
+      "u0545",
+      "u0659",
+      "Kenzo interviews Kirian before bed July 8; whole life-story conversation despite preceding DM attempted next-morning transition."
+    ],
+    [
+      "u0660",
+      "u0691",
+      "Kobold lore/table discussion; no named kobold entities."
+    ],
+    [
+      "u0692",
+      "u0819",
+      "July 9 Garret at Red Lily, Tye summoned for package, Charmhearts present upstairs, Callie mentioned; halfling locket/ring entrusted for return; omit ordinary money/garnets/shortsword."
+    ],
+    [
+      "u0820",
+      "u0861",
+      "Archives approach and Hardstone workshop; Fallthra, Dag, father/uncle physically present."
+    ],
+    [
+      "u0862",
+      "u1010",
+      "Whole Fallthra/Dag follow-up conversation and soul check; reassurance framed as beliefs rather than proven divine facts."
+    ],
+    [
+      "u1011",
+      "u1210",
+      "Govir chamber: cult ritual alignment, Illyan letters, historical research, Kharsan artifact lead, reorganization request."
+    ],
+    [
+      "u1211",
+      "u1240",
+      "Party persuades Ardan to empower Govir and assistants."
+    ],
+    [
+      "u1241",
+      "u1319",
+      "Return Govir: promotion, research timelines, later communication, dream symptoms; prior lycanthropy cure not new cure/revival."
+    ],
+    [
+      "u1320",
+      "u1352",
+      "Leaves archives, rain begins; July 9 explicitly; portable hole due July 15, not acquired now."
+    ],
+    [
+      "u1353",
+      "u1490",
+      "Kaleha temple balcony: Renewal tomorrow, execution planned after feast, rain, tree craft instructions."
+    ],
+    [
+      "u1491",
+      "u1587",
+      "Party lodging/travel decisions and move to monastery. No actual shield recovery or crafted staff."
+    ],
+    [
+      "u1588",
+      "u1599",
+      "July 10 Renewal feast: Kassi invites research meeting tomorrow, unnamed rider says Lara two days away."
+    ],
+    [
+      "u1600",
+      "u1607",
+      "Meta planning remaining scenes/downtime; no future off-record actions imported."
+    ],
+    [
+      "u1608",
+      "u1884",
+      "Whole Kassi July 11 research conversation: Gnaeus/Rai dreams, Anida/Yezali, Eukos/Esa and theology. Preserve attributed research/speculation."
+    ],
+    [
+      "u1885",
+      "u1919",
+      "Basu approached about living tree wood; promises future branch when available, not immediate acquisition."
+    ],
+    [
+      "u1920",
+      "u1939",
+      "Staff/portable-hole joking and downtime planning; no completed crafting or receipt."
+    ],
+    [
+      "u1940",
+      "u1957",
+      "Lara returns with mystai and meets party; later day not exactly stated."
+    ],
+    [
+      "u1958",
+      "u2259",
+      "Whole private Lara conversation: Sura/Karnas disagreement, Johar proposed escort, divine concealment research, party accepts Darba escort; no direct Johar meeting."
+    ],
+    [
+      "u2260",
+      "u2261",
+      "Session closing table talk."
+    ]
+  ],
+  "identityNotes": [
+    {
+      "label": "Garret",
+      "note": "People/Halflings/Garret Tealeaf.md",
+      "basis": "Distinctive rescued former captive at Red Lily, name and role both match."
+    },
+    {
+      "label": "Tye",
+      "note": "People/Halflings/Tye Strongbones.md",
+      "basis": "Red Lily young halfling employee match."
+    },
+    {
+      "label": "Callie",
+      "note": "People/Halflings/Callie Charmheart.md",
+      "basis": "Charmheart family context excludes unrelated Callie Riverstone."
+    },
+    {
+      "label": "Story paper",
+      "note": "Things/Magic Items/Scroll of Storykeeping.md",
+      "basis": "Bhishma order paper recording personal stories; Kirian story explicitly named on item page; no later stories imported."
+    },
+    {
+      "label": "Cloak hiding from gods",
+      "note": "Things/Artifacts of Power/Cloak of Rainbows.md",
+      "basis": "Distinctive divine concealment artifact function, campaign context. Historical/current ownership from page must not enter transcript-derived overview."
+    },
+    {
+      "label": "Gnaeus book",
+      "note": "Things/Books/On the Lost People of the Forests.md",
+      "basis": "Author and exact summarized content match; do not import tribe name, priest name, precise creation year, later travel details."
+    },
+    {
+      "label": "Govir",
+      "note": "People/Dunmari/Govir.md",
+      "basis": "Archivist survived prior lycanthropy and cure, not resurrection; page confirms role but future research excluded."
+    },
+    {
+      "label": "Hardstone father and uncle",
+      "note": null,
+      "basis": "Fallthra canonical page suggests Delig/Morkral relationships but existing note cross-conflict; source gives roles only, retain cautious matches/uncertainty."
+    },
+    {
+      "label": "Temple balcony",
+      "note": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "basis": "Tokra page has temple section; no distinct temple vault page found."
+    }
+  ],
+  "dateAssessment": {
+    "yamlStart": "1748-07-06",
+    "yamlEnd": "1748-07-13",
+    "conclusion": "No clear conflict: explicit July 6 departure, July 8 arrival, July 9 rain, July 10 feast, July 11 research; Lara scene later and imprecise. July 13 YAML extension/clarification accepted, not rejected."
+  },
+  "calibration": [
+    "Important newly gifted storykeeping paper qualifies.",
+    "Meaningful returned halfling ring/locket qualify despite mundane physical properties.",
+    "Omit ordinary coins, garnets, shortsword; omit routine magic gear use.",
+    "Plot artifacts qualify only for substantive concealment/research/custody discussion, not every joke or mention.",
+    "No off-record Google document, mailed downtime outcome, future artifact receipt, completed execution, or fabricated branch acquisition.",
+    "Named NPCs plus useful distinctive unnamed individuals; not generic rumored monsters.",
+    "Famous gods/historical figures are mentions, not live encounters; preserve attribution and uncertainty."
+  ],
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml"
+}

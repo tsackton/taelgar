@@ -59,3 +59,7 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-041-transcript.md
       sha256: 48c006c90a714584171d97bfd4c65e15a0c85edf05dbf0cd094641b575ab335f
+
+interactionExtraction:
+  sessionJson: ../interactions/session.json
+  processingData: ../interactions/session-processing-data.json

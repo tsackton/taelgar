@@ -1,6 +1,6 @@
 # Taelgar Skills
 
-Last reviewed: **2026-10-28**
+Last reviewed: **2026-10-29**
 
 This guide covers the 27 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
@@ -32,7 +32,7 @@ These are normally called by the session pipeline, except for the optional trans
 | [beat-annotator](.agents/skills/beat-annotator/SKILL.md) | Records the supported facts for each beat, including people, places, items, organizations, and combat. Full-session work also reviews chronology against the session dates; a single-beat mode is available. | “Annotate these beats and check the session chronology.” |
 | [session-summary](.agents/skills/session-summary/SKILL.md) | Builds the structured recap from finalized beats and facts, using the pipeline's scene grouping and chronology when applicable. Produces compact timeline entries and recap prose at three levels of detail. | “Draft the session recap from these finalized beats and facts.” |
 | [beat-transcript-polisher](.agents/skills/beat-transcript-polisher/SKILL.md) | Produces readable transcript excerpts organized around recap scenes and links them from the recap. Preserves unresolved ASR `{{...}}` markers for review. Use after the recap exists, when the transcript itself is wanted as a more detailed view. | “Add polished transcript excerpts for this completed recap.” |
-| [extract-campaign-interactions](.agents/skills/extract-campaign-interactions/SKILL.md) | Extracts transcript-backed scenes, NPC/organization interactions, meaningful item discoveries/exchanges/destruction and plot-relevant objects; excludes ordinary treasure and routine gear use. Provides separate critical-data review and an entity-first directory with expandable source evidence. | “Extract and review ten reproducibly sampled sessions,” or “Rebuild the entity reviews from the saved extractions.” |
+| [extract-campaign-interactions](.agents/skills/extract-campaign-interactions/SKILL.md) | Enriches existing session YAML using its registered cleaned/polished transcript and original UIDs. Extracts NPCs, organizations, meaningful items, interactions and quotes; excludes ordinary treasure/routine gear use. Keeps exclusions and review history in session-processing-data.json and registers completed outputs in YAML. | “Extract and review ten reproducibly sampled sessions,” or “Rebuild the entity reviews from the saved extractions.” |
 
 ## Reviewing and completing vault notes
 

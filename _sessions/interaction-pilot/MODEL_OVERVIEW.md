@@ -2,11 +2,11 @@
 
 This proposal makes it easier to find what happened with an NPC, item or organization in a campaign session, then jump to the relevant source passage. It could support entity histories, session browsing and memorable quote displays without requiring a new AI-written narrative.
 
-The fields below reflect the agreed design and bulk-review workflow. The new format is `schemaVersion: 5`; earlier v3/v4 trial files remain historical examples. Implementation and ten sampled executions will follow this model checkpoint on the review branch.
+The fields below reflect the agreed design and bulk-review workflow. The current enrichment format is `schemaVersion: 6`; the ten-session v5 trial and earlier files remain historical examples. The new model integrates with existing session bundles.
 
 **How it fits together**
 
-A `session.json` would be the canonical record of the accepted structured session data. It identifies the campaign, session number, real-world date, participating PCs and source documents. Three collections describe the session:
+The existing `session.yaml` owns campaign/session identity, real-world date, session dates, participant/PC information and source documents. A companion `session.json` is canonical for extracted interaction data and references that YAML instead of copying those values. Completion adds relative pointers from the YAML to this JSON and `session-processing-data.json`. Three collections describe the session:
 
 - **Scenes:** contiguous passages, optionally labeled with activity, place and in-world date/time.
 - **Entities:** the NPCs, important items and organizations involved, with optional links to their vault pages.
@@ -16,28 +16,28 @@ For example, bargaining with Ghesh, walking with him and receiving his introduct
 
 **Sources and navigation**
 
-Each session has at least one source, identified by a session-local `id`, `kind` and vault-relative `path`. An optional `sha256` fingerprint detects changes to that source. The model permits future source kinds, including authored narratives or emails, but **only `transcript` is defined and supported now**. Building an extractor for other sources is outside the current scope.
+Sources are registered in the YAML. Extraction prefers its polished Markdown artifact, whose comments preserve the original cleaned transcript UIDs and character offsets; the registered cleaned source remains the mapping reference. Source/YAML fingerprints live in processing data. Missing or incorrect source paths produce proposed YAML fixes, not an independent JSON source registry. The model permits future source kinds, including authored narratives or emails, but **only `transcript` is defined and supported now**. Building an extractor for other sources is outside the current scope.
 
 Scenes, passages and quotes use this source-reference structure:
 
 ```json
 {
   "kind": "transcript",
-  "sourceId": "transcript-1",
+  "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
   "startUid": "u1715",
   "endUid": "u1817"
 }
 ```
 
-These inclusive utterance IDs identify a contiguous range in the named transcript. Future source-reference kinds can define their own fields; they need not pretend prose documents have transcript utterances.
+These inclusive utterance IDs identify a contiguous range in the YAML-registered transcript. A polished turn can combine or split utterances; source links use its retained comments to locate the original IDs. Quotes must include the complete provenance of their polished turns. Partial-UID ranges are not implemented. Future source-reference kinds can define their own fields; they need not pretend prose documents have transcript utterances.
 
 A scene has exactly one such range. An interaction already links to scenes and may optionally select more precise **passages**. Usually there is one primary passage covering the meaningful exchange, with minor interjections retained. Supporting passages are useful for gaps such as cuts between split parties. They are not a reason to fragment every topic into another interaction.
 
 **Places, dates and participation**
 
-A scene's `location` anchors it to a vault place; `locationDetail` describes a subplace, such as “inside Ovina's smithy.” Either may be omitted when unavailable. `dateStart` and `dateEnd` describe in-world dates, with equal dates for a single day. `time` can preserve wording such as “late afternoon.” Unknown values may remain absent or null. These are separate from the session's required `realWorldDate`. Session-level `dateStart`, `dateEnd` and `locations` also record the aggregate in-world span and vault-linked place list; they are reviewed independently of the scene breakdown.
+A scene's `location` anchors it to a vault place; `locationDetail` describes a subplace, such as “inside Ovina's smithy.” Either may be omitted when unavailable. `dateStart` and `dateEnd` describe in-world dates, with equal dates for a single day. `time` can preserve wording such as “late afternoon.” Unknown values may remain absent or null. These are separate from YAML `realWorldDate`. YAML `drStart`/`drEnd` own the aggregate span; JSON `locations` retains the independently reviewed vault-linked place list. YAML can clarify unstated dates or extend beyond the recording. Only clear conflicting transcript evidence creates a critical date finding; it does not automatically rewrite YAML.
 
-The session's `pcs` list references participating PC pages. Recurring versus guest status belongs on those pages, not in separate session lists. Entity cards cover NPCs, items and organizations.
+PC information belongs to the YAML; its participant speaker mappings must not automatically be treated as actual PC attendance. Missing/conflicting information is proposed for YAML review. Recurring versus guest status belongs on those pages, not in separate session lists. Entity cards cover NPCs, items and organizations.
 
 **Interaction classifications**
 
@@ -76,15 +76,14 @@ Each quote has an ID, type, text and source reference. There is no separate attr
 
 | Object | Required fields | Optional fields |
 | --- | --- | --- |
-| Session | `schemaVersion`, `campaign`, `session`, `realWorldDate`, `pcs`, `sources` | `dateStart`, `dateEnd`, `locations`, `scenes`, `entities`, `interactions`, `review`, `sceneReview` |
-| Source | `id`, `kind`, `path` | `sha256` |
+| Session enrichment | `schemaVersion` (6), `sessionYaml` | `locations`, `scenes`, `entities`, `interactions`, `review`, `sceneReview` |
 | Scene | `index`, `source` | `type`, `location`, `locationDetail`, `dateStart`, `dateEnd`, `time`, `aiSummary` |
 | Entity | `id`, `kind`, `label` | `note`, `aiSummary`, `aiSuggestedFeaturedQuotes`, `review` |
 | Interaction | `id`, `entity`, `scenes`, `interaction` | `importance`, `knownAs`, `aiSummary`, `passages`, `quotes`, `review` |
 | Passage | `source` | `relevance`, `aiSummary` |
 | Quote | `id`, `type`, `text`, `source` | — |
 
-`session` is a number within its campaign. `realWorldDate` uses `YYYY-MM-DD`; `pcs` holds vault references. `sources` must be nonempty. `schemaVersion` identifies the format; the new format uses version 5 to avoid collision with historical trial formats.
+`sessionYaml` is a vault-relative reference to the manifest. Session numbering, dates, PC metadata and source identification are inherited from that manifest. No second copy is authored in enrichment JSON.
 
 Scene `type`, when present, is `conversation`, `exploration`, `combat` or `travel`. Entity `kind` is `npc`, `item` or `organization`; `note` optionally resolves the entity to a vault page. Passage `relevance` is `primary` or `supporting`. When omitted, a sole passage is the default starting point; multiple passages retain source order without an implied ranking.
 
@@ -98,8 +97,8 @@ Draft and reviewed data live in the same session object. An optional `review` ob
 
 Review applies to four units:
 
-- Session `review`: aggregate dates, PC attendance and vault-linked locations.
-- Session `sceneReview`: the division into scenes as a whole, including sequence and coverage. Individual scenes have no review flag.
+- Session `review`: consistency with YAML dates/PC information, plus extracted vault-linked locations.
+- Session `sceneReview`: the division into scenes as a whole, including sequence, coverage and reasoned exclusions. Individual scenes have no review flag.
 - Entity `review`: the entire entity record's identification, inclusion and vault match.
 - Interaction `review`: the individual interaction.
 
@@ -111,7 +110,7 @@ Extraction uses cleaned transcripts, session metadata and a reusable vault name/
 
 **Other review material**
 
-Source coverage exclusions, candidate matches and detailed review evidence need not clutter canonical records. Supporting tools may retain them as execution artifacts; they are not required session fields, and a general review interface remains to be designed. There is no separate segmentation revision; Git history records changes. Stable scene links across reindexing may need future work.
+A formal `session-processing-data.json` holds input fingerprints, full-read attestation, excluded transcript ranges with reasons, metadata findings/proposed YAML fixes, and replayable review history. Review requests and readable reviews expose the excluded blocks. Every UID must belong to a scene or a reasoned exclusion before completion. Critical uncertainty can remain visible after processing completes; completion is not automatic canon acceptance. There is no separate segmentation revision; Git history records changes. Stable scene links across reindexing may need future work.
 
 **Feedback to request from other vault users**
 

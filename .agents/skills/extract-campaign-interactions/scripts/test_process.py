@@ -21,7 +21,7 @@ class PreparationTests(unittest.TestCase):
             for number in [1,2]:
                 folder = self.vault / f'_sessions/{campaign}/{campaign}-{number}/cleaned'
                 folder.mkdir(parents=True)
-                (folder / f'{campaign}-{number}-session.yaml').write_text(f'sourceType: transcript\nsessionNumber: {number}\nrealWorldDate: 2026-10-28\ndrStart: unknown\nparticipants: []\n')
+                (folder / f'{campaign}-{number}-session.yaml').write_text(f'sourceType: transcript\ncampaign: {campaign}\nsessionNumber: {number}\nrealWorldDate: 2026-10-28\ndrStart: unknown\nparticipants: []\ncleanedSourcePath: {campaign}-{number}-source-cleaned.md\n')
                 (folder / f'{campaign}-{number}-source-cleaned.md').write_text('[u0001 | 00:00 | DM] A complete utterance.\n')
     def test_sample_is_reproducible_and_spans_campaigns(self):
         a = sample(self.vault,3,123); b = sample(self.vault,3,123)
@@ -39,7 +39,9 @@ class PreparationTests(unittest.TestCase):
         prepare(self.vault,selection,{'entries':[]},folder)
         d = json.loads((folder/'draft.json').read_text())
         self.assertNotIn('dateStart',d)
-        self.assertTrue(json.loads((folder/'execution.json').read_text())['dateIssues'])
+        self.assertEqual(d['schemaVersion'],6)
+        self.assertNotIn('realWorldDate',d)
+        self.assertEqual(json.loads((folder/'session-processing-data.json').read_text())['stage'],'prepared')
         (folder/'draft.json').write_text('Agent work preserved verbatim')
         self.assertEqual(prepare(self.vault,selection,{'entries':[]},folder,resume=True),'preserved')
         self.assertEqual((folder/'draft.json').read_text(),'Agent work preserved verbatim')

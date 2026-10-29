@@ -1,0 +1,321 @@
+{
+  "reviewer": "/root/review_du010_v6",
+  "attempt": 0,
+  "inputDigest": "9a338dd9011148503fc094d0aa24b94c083d4431c0515ff1215dc5a218c7250a",
+  "processingDigest": "0a5b0e9144e74f2144c15b47292fb648def23437419957eb9a090b942090b2ec",
+  "sourceRead": {
+    "fullTranscriptRead": true,
+    "polishedTurns": 1642,
+    "utteranceUids": 2875,
+    "independentBeforeDraft": true,
+    "optionalBeatHintsUsed": "Consulted beat entity/item summaries after the independent transcript ledger and draft read, solely to check potential omissions. All findings below were checked against the transcript."
+  },
+  "requiredChanges": [
+    {
+      "target": "scene:23",
+      "severity": "minor",
+      "reason": "The current narrative detail and summary move the companions into the first tower at the wrong moment. The preceding turn sends them to search; the DM then describes the barred door from that tower into the gate passage leading toward the second tower, addressed to Kenzo.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1744",
+          "endUid": "u1758"
+        }
+      ],
+      "proposedChange": {
+        "locationDetail": "Gate passage between the towers",
+        "aiSummary": "Kenzo opens the barred door into the overhead gate passage toward the second tower."
+      },
+      "preserve": [
+        "index",
+        "source",
+        "type",
+        "location",
+        "dateStart",
+        "dateEnd"
+      ]
+    }
+  ],
+  "optionalSuggestions": [
+    {
+      "target": "scene:3",
+      "reason": "The reported batlike watcher and iron construct are distinctive clues but are omitted from the compact entity list; neither is hypothetical. A slightly richer scene summary would retain their discoverability without adding creature cards. The current generic scouting summary is accurate, so this is optional.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0328",
+          "endUid": "u0367"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0416",
+          "endUid": "u0477"
+        }
+      ],
+      "proposedChange": {
+        "aiSummary": "Wellby reports a batlike watcher and an iron construct; the party examines a hobgoblin logbook and plans its route."
+      }
+    },
+    {
+      "target": "entity-selection",
+      "reason": "The reported iron construct and small batlike watcher could justify unnamed mentioned-NPC cards under the distinctive-individual rule. The source establishes reports of specific observed beings, but not exact identity, sapience or a conversation. Their exclusion is a calibration choice under the user’s preference against creature proliferation, not a reason to force new cards in this trial. Likewise, omitting generic shapeshifter guards and keeping their actions in the rescue context is defensible.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0328",
+          "endUid": "u0367"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0416",
+          "endUid": "u0477"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1856",
+          "endUid": "u1909"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2151",
+          "endUid": "u2161"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2623",
+          "endUid": "u2635"
+        }
+      ]
+    }
+  ],
+  "auditObservations": [
+    {
+      "target": "session",
+      "result": "All five PCs actively participate. Same-day YAML anchor has no clear transcript conflict. Late afternoon, sunset and ~7 pm are recorded; captivity/history references do not alter session dates.",
+      "evidence": [
+        {
+          "yamlField": "participants"
+        },
+        {
+          "yamlField": "drStart"
+        },
+        {
+          "yamlField": "drEnd"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0003",
+          "endUid": "u0046"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0198",
+          "endUid": "u0216"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0861",
+          "endUid": "u0871"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1437",
+          "endUid": "u1476"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2850",
+          "endUid": "u2850"
+        }
+      ]
+    },
+    {
+      "target": "scenes",
+      "result": "Three exclusions comprise exactly 21 UIDs; each is setup or wrap chatter. Zero unexplained UIDs. Retaining minor mixed chatter inside other scene ranges is acceptable. Watches are concurrent, and the connector appropriately avoids a forced place link.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0134",
+          "endUid": "u0145"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2695",
+          "endUid": "u2700"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2873",
+          "endUid": "u2875"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1437",
+          "endUid": "u1476"
+        }
+      ]
+    },
+    {
+      "target": "entity:hobgoblin-logbook",
+      "result": "Composite canonical reference page is usable. Link refers to the first logbook paragraph, not the later separate looseleaf journal. No imported translation or future discovery in current draft.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0207",
+          "endUid": "u0277"
+        },
+        {
+          "vaultPath": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:arcus",
+      "result": "The draft correctly presents death as Wellby’s claim; the canonical note’s petrified state makes preserving that attribution essential.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2729",
+          "endUid": "u2733"
+        },
+        {
+          "vaultPath": "People/Chardonians/Arcus.md"
+        }
+      ]
+    },
+    {
+      "target": "entity:great-library",
+      "result": "An institutional organization card is supported despite the shared reference page’s place tag. It is not an actual visited location.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2796",
+          "endUid": "u2800"
+        },
+        {
+          "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md"
+        }
+      ]
+    },
+    {
+      "target": "items",
+      "result": "Only the clue logbook and newly discovered unidentified scroll are retained. Coins, gems, goblet, ordinary gear, consumables, light crystal and routine weapon use correctly remain without cards. Returning Vola’s adventuring kit is already covered by her interaction and does not require another object card.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u0207",
+          "endUid": "u0277"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1767",
+          "endUid": "u1803"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2242",
+          "endUid": "u2257"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2347",
+          "endUid": "u2407"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2613",
+          "endUid": "u2621"
+        }
+      ]
+    },
+    {
+      "target": "quotes",
+      "result": "All 14 exact quotations were checked against the selected polished source and their in-context voices. Color quotes belong to Vola or the speaking orc. Source mappings preserve complete polished-turn provenance. Major Vola interactions have multiple complementary pull quotes.",
+      "evidence": [
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u1898",
+          "endUid": "u2003"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2461",
+          "endUid": "u2473"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2514",
+          "endUid": "u2518"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2752",
+          "endUid": "u2776"
+        },
+        {
+          "kind": "transcript",
+          "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+          "startUid": "u2824",
+          "endUid": "u2827"
+        }
+      ]
+    },
+    {
+      "target": "metadataFindings",
+      "result": "Six ancillary path proposals preserved. No additional finding or YAML edit was needed. Primary registered transcript paths resolve.",
+      "evidence": [
+        {
+          "yamlField": "transcriptProcessing.artifacts"
+        },
+        {
+          "yamlField": "sourceInputPath"
+        },
+        {
+          "yamlField": "sourceConfigPath"
+        },
+        {
+          "yamlField": "participantsPath"
+        },
+        {
+          "yamlField": "preparedSourcePath"
+        },
+        {
+          "yamlField": "speakerMappingsPath"
+        },
+        {
+          "yamlField": "speakerStatsPath"
+        }
+      ]
+    }
+  ],
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml"
+}

@@ -1,0 +1,528 @@
+{
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "sessionYaml": {
+      "type": "string",
+      "minLength": 1
+    },
+    "inputs": {
+      "type": "object",
+      "properties": {
+        "sessionYamlDigest": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        },
+        "sources": {
+          "type": "object",
+          "minProperties": 1,
+          "additionalProperties": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          }
+        }
+      },
+      "required": [
+        "sessionYamlDigest",
+        "sources"
+      ],
+      "additionalProperties": false
+    },
+    "stage": {
+      "enum": [
+        "prepared",
+        "extracted",
+        "reviewed",
+        "completed"
+      ]
+    },
+    "fullTranscriptRead": {
+      "type": "boolean"
+    },
+    "excludedBlocks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "source": {
+            "$ref": "#/$defs/sourceRef"
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "source",
+          "reason"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "metadataFindings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "enum": [
+              "dateConflict",
+              "pathIssue",
+              "participation",
+              "clarification"
+            ]
+          },
+          "severity": {
+            "enum": [
+              "critical",
+              "info"
+            ]
+          },
+          "status": {
+            "enum": [
+              "open",
+              "resolved"
+            ]
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "oneOf": [
+                {
+                  "$ref": "#/$defs/sourceRef"
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "vaultPath": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "vaultPath"
+                  ],
+                  "additionalProperties": false
+                },
+                {
+                  "type": "object",
+                  "properties": {
+                    "yamlField": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "yamlField"
+                  ],
+                  "additionalProperties": false
+                }
+              ]
+            },
+            "minItems": 1
+          },
+          "proposedChange": {
+            "type": "object",
+            "properties": {
+              "field": {
+                "type": "string",
+                "minLength": 1
+              },
+              "value": {}
+            },
+            "required": [
+              "field",
+              "value"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "id",
+          "kind",
+          "severity",
+          "status",
+          "reason",
+          "evidence"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "reviews": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "report": {
+            "type": "object",
+            "properties": {
+              "inputDigest": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "processingDigest": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{64}$"
+              },
+              "reviewer": {
+                "type": "string",
+                "minLength": 1
+              },
+              "attempt": {
+                "enum": [
+                  0,
+                  1
+                ]
+              },
+              "decisions": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "target": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "confidence": {
+                      "enum": [
+                        "high",
+                        "medium",
+                        "low"
+                      ]
+                    },
+                    "reason": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "evidence": {
+                      "type": "array",
+                      "items": {
+                        "oneOf": [
+                          {
+                            "$ref": "#/$defs/sourceRef"
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "vaultPath": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "required": [
+                              "vaultPath"
+                            ],
+                            "additionalProperties": false
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "yamlField": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "required": [
+                              "yamlField"
+                            ],
+                            "additionalProperties": false
+                          }
+                        ]
+                      },
+                      "minItems": 1
+                    }
+                  },
+                  "required": [
+                    "target",
+                    "confidence",
+                    "reason",
+                    "evidence"
+                  ],
+                  "additionalProperties": false
+                },
+                "minItems": 1
+              },
+              "removals": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "target": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "reason": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "evidence": {
+                      "type": "array",
+                      "items": {
+                        "oneOf": [
+                          {
+                            "$ref": "#/$defs/sourceRef"
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "vaultPath": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "required": [
+                              "vaultPath"
+                            ],
+                            "additionalProperties": false
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "yamlField": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "required": [
+                              "yamlField"
+                            ],
+                            "additionalProperties": false
+                          }
+                        ]
+                      },
+                      "minItems": 1
+                    }
+                  },
+                  "required": [
+                    "target",
+                    "reason",
+                    "evidence"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "inputDigest",
+              "processingDigest",
+              "reviewer",
+              "attempt",
+              "decisions"
+            ],
+            "additionalProperties": false
+          },
+          "stage": {
+            "enum": [
+              "automatedReviewed",
+              "humanReviewed"
+            ]
+          },
+          "outputDigest": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "candidate": {
+            "type": "object"
+          },
+          "evidence": {
+            "type": "object",
+            "properties": {
+              "fullTranscriptRead": {
+                "type": "boolean"
+              },
+              "excludedBlocks": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "source": {
+                      "$ref": "#/$defs/sourceRef"
+                    },
+                    "reason": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "source",
+                    "reason"
+                  ],
+                  "additionalProperties": false
+                }
+              },
+              "metadataFindings": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "id": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "kind": {
+                      "enum": [
+                        "dateConflict",
+                        "pathIssue",
+                        "participation",
+                        "clarification"
+                      ]
+                    },
+                    "severity": {
+                      "enum": [
+                        "critical",
+                        "info"
+                      ]
+                    },
+                    "status": {
+                      "enum": [
+                        "open",
+                        "resolved"
+                      ]
+                    },
+                    "reason": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "evidence": {
+                      "type": "array",
+                      "items": {
+                        "oneOf": [
+                          {
+                            "$ref": "#/$defs/sourceRef"
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "vaultPath": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "required": [
+                              "vaultPath"
+                            ],
+                            "additionalProperties": false
+                          },
+                          {
+                            "type": "object",
+                            "properties": {
+                              "yamlField": {
+                                "type": "string",
+                                "minLength": 1
+                              }
+                            },
+                            "required": [
+                              "yamlField"
+                            ],
+                            "additionalProperties": false
+                          }
+                        ]
+                      },
+                      "minItems": 1
+                    },
+                    "proposedChange": {
+                      "type": "object",
+                      "properties": {
+                        "field": {
+                          "type": "string",
+                          "minLength": 1
+                        },
+                        "value": {}
+                      },
+                      "required": [
+                        "field",
+                        "value"
+                      ],
+                      "additionalProperties": false
+                    }
+                  },
+                  "required": [
+                    "id",
+                    "kind",
+                    "severity",
+                    "status",
+                    "reason",
+                    "evidence"
+                  ],
+                  "additionalProperties": false
+                }
+              }
+            },
+            "required": [
+              "fullTranscriptRead",
+              "excludedBlocks",
+              "metadataFindings"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "required": [
+          "report",
+          "stage",
+          "outputDigest",
+          "candidate",
+          "evidence"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "sessionYaml",
+    "inputs",
+    "stage",
+    "fullTranscriptRead",
+    "excludedBlocks",
+    "metadataFindings",
+    "reviews"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://taelgar.org/schemas/session-processing-data-v1.json",
+  "title": "Session interaction processing evidence v1",
+  "$defs": {
+    "sourceRef": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "const": "transcript"
+            },
+            "sourceId": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Dotted key of a transcript artifact registered in session YAML; never a local source registry."
+            },
+            "startUid": {
+              "type": "string",
+              "pattern": "^u[0-9]+$"
+            },
+            "endUid": {
+              "type": "string",
+              "pattern": "^u[0-9]+$"
+            }
+          },
+          "required": [
+            "kind",
+            "sourceId",
+            "startUid",
+            "endUid"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    }
+  }
+}

@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
-"""Validate canonical v5 sessions; retain read-only compatibility with v3 pilots."""
+"""Validate v6 session bundles; retain read-only v5/v3 pilot compatibility."""
 import argparse
 import json
 from pathlib import Path
 import legacy_v3
 from session_model import validate as validate_v5, render as render_v5
 
-def validate(data, vault):
+def validate(data, vault, processing=None):
     if data.get('schema_version') == 3:
         return legacy_v3.validate(data, vault)
     if 'schema_version' in data:
         raise ValueError('Unsupported schema version')
-    return validate_v5(data, vault)
+    return validate_v5(data, vault, processing=processing)
 
 def render(data, vault, *args, **kwargs):
-    if data.get('schemaVersion') == 5:
+    if data.get('schemaVersion') in {5, 6}:
         return render_v5(data, vault, *args, **kwargs)
     return legacy_v3.render(data, vault, *args, **kwargs)
 
@@ -24,11 +24,16 @@ if __name__ == '__main__':
     parser.add_argument('--input', type=Path, required=True)
     parser.add_argument('--preview', type=Path)
     parser.add_argument('--excerpts', type=Path)
+    parser.add_argument('--processing', type=Path)
     args = parser.parse_args()
     data = json.loads(args.input.read_text())
-    result = validate(data, args.vault)
-    if data.get('schemaVersion') == 5:
-        if args.preview:args.preview.write_text(render_v5(data,args.vault,args.preview))
+    processing = None
+    if data.get('schemaVersion') == 6:
+        path = args.processing or args.input.parent / 'session-processing-data.json'
+        processing = json.loads(path.read_text())
+    result = validate(data, args.vault, processing)
+    if data.get('schemaVersion') in {5, 6}:
+        if args.preview:args.preview.write_text(render_v5(data,args.vault,args.preview,processing=processing))
         print(json.dumps({k:v for k,v in result.items() if k!='catalog'}))
     else:
         if args.preview:args.preview.write_text(legacy_v3.render(data,args.vault,*result))

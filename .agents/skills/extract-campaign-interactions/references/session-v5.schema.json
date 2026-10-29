@@ -1,0 +1,403 @@
+{
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 5
+    },
+    "campaign": {
+      "type": "string",
+      "minLength": 1
+    },
+    "session": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "realWorldDate": {
+      "type": "string",
+      "format": "date"
+    },
+    "pcs": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/source"
+      },
+      "minItems": 1
+    },
+    "dateStart": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "dateEnd": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "format": "date"
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "scenes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/scene"
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entity"
+      }
+    },
+    "interactions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/interaction"
+      }
+    },
+    "review": {
+      "$ref": "#/$defs/review"
+    },
+    "sceneReview": {
+      "$ref": "#/$defs/review"
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "campaign",
+    "session",
+    "realWorldDate",
+    "pcs",
+    "sources"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://taelgar.org/schemas/session-interactions-v5.json",
+  "title": "Taelgar session interaction model v5",
+  "$defs": {
+    "source": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "const": "transcript"
+        },
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "type": "string",
+          "pattern": "^[0-9a-f]{64}$"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "path"
+      ],
+      "additionalProperties": false
+    },
+    "sourceRef": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "const": "transcript"
+            },
+            "sourceId": {
+              "type": "string",
+              "minLength": 1
+            },
+            "startUid": {
+              "type": "string",
+              "pattern": "^u[0-9]+$"
+            },
+            "endUid": {
+              "type": "string",
+              "pattern": "^u[0-9]+$"
+            }
+          },
+          "required": [
+            "kind",
+            "sourceId",
+            "startUid",
+            "endUid"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "scene": {
+      "type": "object",
+      "properties": {
+        "index": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source": {
+          "$ref": "#/$defs/sourceRef"
+        },
+        "type": {
+          "enum": [
+            "conversation",
+            "exploration",
+            "combat",
+            "travel"
+          ]
+        },
+        "location": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "locationDetail": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "dateStart": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "dateEnd": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "time": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "index",
+        "source"
+      ],
+      "additionalProperties": false
+    },
+    "entity": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "enum": [
+            "npc",
+            "item",
+            "organization"
+          ]
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "aiSuggestedFeaturedQuotes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "review": {
+          "$ref": "#/$defs/review"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "label"
+      ],
+      "additionalProperties": false
+    },
+    "interaction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "entity": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scenes": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "interaction": {
+          "enum": [
+            "interacted",
+            "observed",
+            "present",
+            "mentioned"
+          ]
+        },
+        "importance": {
+          "enum": [
+            "star",
+            "supporting",
+            "cameo"
+          ]
+        },
+        "knownAs": {
+          "type": "string",
+          "minLength": 1
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1
+        },
+        "passages": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/passage"
+          }
+        },
+        "quotes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/quote"
+          }
+        },
+        "review": {
+          "$ref": "#/$defs/review"
+        }
+      },
+      "required": [
+        "id",
+        "entity",
+        "scenes",
+        "interaction"
+      ],
+      "additionalProperties": false
+    },
+    "passage": {
+      "type": "object",
+      "properties": {
+        "source": {
+          "$ref": "#/$defs/sourceRef"
+        },
+        "relevance": {
+          "enum": [
+            "primary",
+            "supporting"
+          ]
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "source"
+      ],
+      "additionalProperties": false
+    },
+    "quote": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "enum": [
+            "introduction",
+            "color",
+            "whole"
+          ]
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source": {
+          "$ref": "#/$defs/sourceRef"
+        }
+      },
+      "required": [
+        "id",
+        "type",
+        "text",
+        "source"
+      ],
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "status": {
+          "enum": [
+            "unreviewed",
+            "automatedReviewed",
+            "humanReviewed"
+          ]
+        }
+      },
+      "required": [
+        "confidence",
+        "status"
+      ],
+      "additionalProperties": false
+    }
+  }
+}

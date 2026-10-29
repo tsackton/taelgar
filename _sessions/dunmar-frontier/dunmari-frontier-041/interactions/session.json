@@ -1,0 +1,3643 @@
+{
+  "schemaVersion": 6,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+  "locations": [
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Iron Swan.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+    "Gazetteer/Greater Dunmar/Hara Basin/Varashan.md"
+  ],
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0001",
+        "endUid": "u0016"
+      },
+      "type": "exploration",
+      "aiSummary": "Divine prologue: Dunmar’s gods watch their people, threatened protections, approaching rain, and the prospect of war.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0017",
+        "endUid": "u0110"
+      },
+      "type": "conversation",
+      "aiSummary": "Saka commissions Kenzo to collect ordinary people’s stories, gives special parchment, and connects his dreams and jade to Rai.",
+      "locationDetail": "Saka’s camp on the plains north of Tokra",
+      "dateStart": "1748-07-06",
+      "dateEnd": "1748-07-06",
+      "time": "Afternoon",
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Varashan.md"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0111",
+        "endUid": "u0115"
+      },
+      "type": "travel",
+      "aiSummary": "The party rides back to Tokra over two and a half days.",
+      "locationDetail": "Journey from Saka’s camp to Tokra",
+      "dateStart": "1748-07-06",
+      "dateEnd": "1748-07-08"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0116",
+        "endUid": "u0180"
+      },
+      "type": "exploration",
+      "aiSummary": "Returning at sunset, the party discusses the archives, the great petrified tree, and lodging.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "locationDetail": "City gates and approach",
+      "dateStart": "1748-07-08",
+      "dateEnd": "1748-07-08",
+      "time": "Evening"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0181",
+        "endUid": "u0204"
+      },
+      "type": "conversation",
+      "aiSummary": "Kirian welcomes the returning party, arranges rooms and dinner, and delivers waiting messages.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "locationDetail": "Common room",
+      "dateStart": "1748-07-08",
+      "dateEnd": "1748-07-08",
+      "time": "Evening"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0205",
+        "endUid": "u0324"
+      },
+      "type": "conversation",
+      "aiSummary": "Letters prompt plans to visit Kassi, the Hardstones, Govir, and Kaleha; the party discusses the captive werewolf.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "locationDetail": "Private suite",
+      "dateStart": "1748-07-08",
+      "dateEnd": "1748-07-08",
+      "time": "Evening"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0325",
+        "endUid": "u0331"
+      },
+      "type": "conversation",
+      "aiSummary": "Kenzo invites Riswynn to dinner and asks about her recent experiences.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Iron Swan.md",
+      "dateStart": "1748-07-08",
+      "dateEnd": "1748-07-08",
+      "time": "Evening"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0332",
+        "endUid": "u0341"
+      },
+      "type": "travel",
+      "aiSummary": "Kenzo and Riswynn stroll through Tokra at sunset.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "locationDetail": "Streets between the Iron Swan and Kirian’s",
+      "dateStart": "1748-07-08",
+      "dateEnd": "1748-07-08",
+      "time": "Sunset"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0342",
+        "endUid": "u0544"
+      },
+      "type": "conversation",
+      "aiSummary": "Riswynn reports the werewolves’ different responses to treatment; the party debates responsibility, punishment, and imprisonment in a mirror.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "locationDetail": "Common room, over dinner",
+      "dateStart": "1748-07-08",
+      "dateEnd": "1748-07-08",
+      "time": "Evening"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0545",
+        "endUid": "u0690"
+      },
+      "type": "conversation",
+      "aiSummary": "Kenzo records Kirian’s life story: childhood, caravan fighting, injury, founding the inn, and the family he found on the road.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "locationDetail": "Common room",
+      "dateStart": "1748-07-08",
+      "dateEnd": "1748-07-08",
+      "time": "Before bed"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0691",
+        "endUid": "u0705"
+      },
+      "type": "travel",
+      "aiSummary": "The party starts its morning visits with breakfast at the Red Lily.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "locationDetail": "Route to the Red Lily Inn",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09",
+      "time": "Morning"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0706",
+        "endUid": "u0813"
+      },
+      "type": "conversation",
+      "aiSummary": "Garret discusses his family and travel plans; the party returns keepsakes, sends gifts, and hears its adventures have inspired a song.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn.md",
+      "locationDetail": "Breakfast room",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09",
+      "time": "Morning"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0814",
+        "endUid": "u0846"
+      },
+      "type": "exploration",
+      "aiSummary": "The party returns to the archives and arranges visits to the Hardstones and Govir.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "locationDetail": "Entrance and main room",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0847",
+        "endUid": "u1010"
+      },
+      "type": "conversation",
+      "aiSummary": "Fallthra describes Dag’s fading dreams; Kenzo examines his soul and reassures her that the lycanthropy is gone.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "locationDetail": "Hardstone family quarters",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09"
+    },
+    {
+      "index": 15,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1011",
+        "endUid": "u1210"
+      },
+      "type": "conversation",
+      "aiSummary": "Govir connects cult records to an earlier theft and explains the archives’ disorder; the party requests further historical and artifact research.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "locationDetail": "Govir’s room",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09"
+    },
+    {
+      "index": 16,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1211",
+        "endUid": "u1240"
+      },
+      "type": "conversation",
+      "aiSummary": "Delwath and Wellby persuade Ardan to promote Govir and fund additional assistants.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "locationDetail": "Ardan’s office",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09"
+    },
+    {
+      "index": 17,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1241",
+        "endUid": "u1318"
+      },
+      "type": "conversation",
+      "aiSummary": "Returning to Govir, the party confirms research priorities and discusses his dreams after the cure.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "locationDetail": "Govir’s room",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09"
+    },
+    {
+      "index": 18,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1319",
+        "endUid": "u1352"
+      },
+      "type": "travel",
+      "aiSummary": "Rain begins as the party crosses the square and confirms the date and approaching renewal festival.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "locationDetail": "Plaza between archives and temple",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09",
+      "time": "Afternoon"
+    },
+    {
+      "index": 19,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1353",
+        "endUid": "u1490"
+      },
+      "type": "conversation",
+      "aiSummary": "Kaleha explains the werewolf’s proposed execution, the renewal festival, and the great tree’s flowering after the rains.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "locationDetail": "Temple balcony",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09",
+      "time": "Afternoon"
+    },
+    {
+      "index": 20,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1491",
+        "endUid": "u1577"
+      },
+      "type": "travel",
+      "aiSummary": "The party discusses secrecy around the scepter, Riswynn joining the journey, and remaining quests before reaching the monastery.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "locationDetail": "Streets on the way to the Lakan monastery",
+      "dateStart": "1748-07-09",
+      "dateEnd": "1748-07-09",
+      "time": "Evening"
+    },
+    {
+      "index": 21,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1578",
+        "endUid": "u1599"
+      },
+      "type": "exploration",
+      "aiSummary": "The party celebrates the Day of Renewal, postpones Kassi’s research discussion, and hears Lara will return soon.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "locationDetail": "Renewal celebration",
+      "dateStart": "1748-07-10",
+      "dateEnd": "1748-07-10"
+    },
+    {
+      "index": 22,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1608",
+        "endUid": "u1867"
+      },
+      "type": "conversation",
+      "aiSummary": "Kassi shares research on Rai’s forest worshippers, Kenzo’s dreams, creator traditions, Yezali, and speculative histories of lost gods.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "locationDetail": "Kassi’s research discussion",
+      "dateStart": "1748-07-11",
+      "dateEnd": "1748-07-11"
+    },
+    {
+      "index": 23,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1885",
+        "endUid": "u1932"
+      },
+      "type": "conversation",
+      "aiSummary": "Basu discusses crafting with wood from Tokra’s great tree and promises to save the next fallen branch for Kenzo.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "locationDetail": "Consultation with Basu",
+      "dateStart": "1748-07-11",
+      "dateEnd": "1748-07-11"
+    },
+    {
+      "index": 24,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1940",
+        "endUid": "u1954"
+      },
+      "type": "conversation",
+      "aiSummary": "Lara returns with the Lakan retinue and greets Kenzo and his companions.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "locationDetail": "Return of Lara’s retinue",
+      "time": "Several days before the party’s departure"
+    },
+    {
+      "index": 25,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1955",
+        "endUid": "u2259"
+      },
+      "type": "conversation",
+      "aiSummary": "Lara discusses Sura, Karnas, divine disagreement, and preventing civil war; the party agrees to escort Johar toward Darba.",
+      "location": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "locationDetail": "Private conversation with Lara",
+      "time": "After the renewal festival, before departure"
+    }
+  ],
+  "entities": [
+    {
+      "id": "saka",
+      "kind": "npc",
+      "label": "Saka",
+      "aiSummary": "Saka sends Kenzo back to Tokra with story-recording parchment and a charge to preserve ordinary lives, suggesting Rai may understand his dreams.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Saka.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i001-1",
+        "q-i001-2"
+      ]
+    },
+    {
+      "id": "kirian",
+      "kind": "npc",
+      "label": "Kirian",
+      "aiSummary": "Kirian welcomes the party and delivers its correspondence, then tells Kenzo how caravan fighting, injury, and the longing for stability led him to open his inn.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Kirian.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i004-1",
+        "q-i004-2",
+        "q-i004-3"
+      ]
+    },
+    {
+      "id": "garret",
+      "kind": "npc",
+      "label": "Garret Tealeaf",
+      "aiSummary": "Garret talks with the party over breakfast about finding his family, travelling toward Darba, and the new song about their adventures.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Garret Tealeaf.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i005-1",
+        "q-i005-2"
+      ]
+    },
+    {
+      "id": "tye",
+      "kind": "npc",
+      "label": "Tye Strongbones",
+      "aiSummary": "Tye helps pass a package to the Charmhearts at the Red Lily Inn.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Tye Strongbones.md"
+    },
+    {
+      "id": "fallthra",
+      "kind": "npc",
+      "label": "Fallthra Hardstone",
+      "aiSummary": "Fallthra’s letters and later conversation express concern about Dag’s dreams; Kenzo’s examination reassures her that her son is cured.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Fallthra Hardstone.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i008-1"
+      ]
+    },
+    {
+      "id": "dag",
+      "kind": "npc",
+      "label": "Dag Hardstone",
+      "aiSummary": "Dag has had dreams of hunting in the forest, but they are fading; Kenzo finds no remaining sign of lycanthropy when he checks Dag’s soul.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Dag Hardstone.md"
+    },
+    {
+      "id": "delig",
+      "kind": "npc",
+      "label": "Delig Hardstone",
+      "aiSummary": "Dag’s father is in the workshop while the party visits Fallthra and Dag.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Delig Hardstone.md"
+    },
+    {
+      "id": "morkral",
+      "kind": "npc",
+      "label": "Morkral Hardstone",
+      "aiSummary": "Dag’s uncle is in the workshop while the party visits Fallthra and Dag.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Morkral Hardstone.md"
+    },
+    {
+      "id": "govir",
+      "kind": "npc",
+      "label": "Govir",
+      "aiSummary": "Govir links recovered cult records to a century-old theft and warns that the archives’ disorder hides recurring threats. The party secures his promotion and requests further research.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Govir.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i014-1",
+        "q-i014-2"
+      ]
+    },
+    {
+      "id": "ardan",
+      "kind": "npc",
+      "label": "Ardan",
+      "aiSummary": "Ardan agrees to put Govir in charge of organizing the archives and fund additional assistants after the party argues for the change.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Ardan.md"
+    },
+    {
+      "id": "kaleha",
+      "kind": "npc",
+      "label": "Kaleha",
+      "aiSummary": "Kaleha consults the party about executing the unrepentant werewolf after the renewal festival and explains the great tree's flowering after the rains.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Kaleha.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i017-1",
+        "q-i017-2"
+      ]
+    },
+    {
+      "id": "kassi",
+      "kind": "npc",
+      "label": "Kassi",
+      "aiSummary": "Kassi gathers records about Rai, Kenzo’s dreams, creator traditions, and Yezali, distinguishing speculative scholarship from established knowledge.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Kassi.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i020-1",
+        "q-i020-2",
+        "q-i020-3"
+      ]
+    },
+    {
+      "id": "basu",
+      "kind": "npc",
+      "label": "Basu",
+      "aiSummary": "Basu describes using wood from the great tree and promises Kenzo the next fallen branch; no branch is received during the recorded conversation.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Basu.md"
+    },
+    {
+      "id": "lara",
+      "kind": "npc",
+      "label": "Lara",
+      "aiSummary": "Returning from talks with Sura, Lara seeks a peaceful path through the rivalry with Karnas and the gods’ conflicting impulses. The party agrees to escort her messenger Johar toward Darba.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Lara.md",
+      "aiSuggestedFeaturedQuotes": [
+        "q-i022-1",
+        "q-i022-2",
+        "q-i022-3"
+      ]
+    },
+    {
+      "id": "vistra",
+      "kind": "npc",
+      "label": "Vistra Fireforge",
+      "aiSummary": "Riswynn reports that Vistra helped her connect with refugees and find a personal object needed to cure the willing werewolf.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Vistra Fireforge.md"
+    },
+    {
+      "id": "shandan",
+      "kind": "npc",
+      "label": "Shandan",
+      "aiSummary": "Kirian remembers fighting with Shandan’s caravan warband before injury ended that life.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Shandan.md"
+    },
+    {
+      "id": "callie",
+      "kind": "npc",
+      "label": "Callie Charmheart",
+      "aiSummary": "The party sends Callie its best wishes while discussing the Charmhearts’ onward travel.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Callie Charmheart.md"
+    },
+    {
+      "id": "agata",
+      "kind": "npc",
+      "label": "Agata Dustmother",
+      "aiSummary": "Garret introduces himself to Riswynn as a former prisoner of Agata Dustmother rescued by the party.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "illyan",
+      "kind": "npc",
+      "label": "Illyan",
+      "aiSummary": "Govir explains that Illyan’s misfiled records describe the cult stealing a powerful item roughly a century ago.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Illyan.md"
+    },
+    {
+      "id": "candrosa",
+      "kind": "npc",
+      "label": "Candrosa",
+      "aiSummary": "The party recalls Candrosa’s account while discussing historical threats and red storms.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Candrosa.md"
+    },
+    {
+      "id": "sura",
+      "kind": "npc",
+      "label": "Sura",
+      "aiSummary": "Govir discusses Sura's reported death and return; later, Lara describes meeting her and fears that her divinely inspired campaign could lead Dunmar into civil war.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Sura.md"
+    },
+    {
+      "id": "gnaeus",
+      "kind": "npc",
+      "label": "Gnaeus",
+      "aiSummary": "Kassi cites Gnaeus’s book about forest peoples and a Rai worshipper’s account of dreams and religious succession.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Gnaeus.md"
+    },
+    {
+      "id": "eukos",
+      "kind": "npc",
+      "label": "Eukos the Wanderer",
+      "aiSummary": "Kassi cites Eukos's Travels in the Far North for tribes and Yezali's association with the moon, night, and hunting.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Eukos the Wanderer.md"
+    },
+    {
+      "id": "esa",
+      "kind": "npc",
+      "label": "Esa",
+      "aiSummary": "Kassi reports Esa’s speculative theory connecting the loss of gods with the destruction of their worshippers.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "karnas",
+      "kind": "npc",
+      "label": "Nayan Karnas",
+      "aiSummary": "Lara describes Karnas’s caution, Sonkar’s concern about lost lives, and her effort to mediate between Karnas and Sura.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Nayan Karnas.md"
+    },
+    {
+      "id": "johar",
+      "kind": "npc",
+      "label": "Johar",
+      "aiSummary": "Lara plans to send Johar to Karnas, and the party agrees to accompany him as far as Darba.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Johar.md"
+    },
+    {
+      "id": "grash",
+      "kind": "npc",
+      "label": "Grash",
+      "aiSummary": "The party recalls Grash’s ordinary hooded robes while asking whether the cloak they seek might have travelled through his hands.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Grash.md"
+    },
+    {
+      "id": "scholar",
+      "kind": "npc",
+      "label": "Chardonian artifact researcher",
+      "aiSummary": "Govir recalls a Chardonian researcher who consulted a Kharsan evacuation letter while tracing the scepter and cloak.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "werewolf",
+      "kind": "npc",
+      "label": "Unrepentant werewolf prisoner",
+      "aiSummary": "Kaleha says the uncured werewolf remains unrepentant and proposes execution after the renewal festival; the execution itself is not recorded.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "storyteller",
+      "kind": "npc",
+      "label": "Halfling storyteller at the Red Lily",
+      "aiSummary": "Garret reports that a halfling storyteller has made a new song about the party’s adventures.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "bhishma",
+      "kind": "npc",
+      "label": "Bhishma",
+      "aiSummary": "The prologue shows Bhishma watching the northern camp, and Saka tells Kenzo that her acceptance brings a duty to preserve ordinary people's stories.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+    },
+    {
+      "id": "shakun",
+      "kind": "npc",
+      "label": "Shakun",
+      "aiSummary": "The prologue shows Shakun repairing Dunmar’s damaged magical protections.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+    },
+    {
+      "id": "laka",
+      "kind": "npc",
+      "label": "Laka",
+      "aiSummary": "The prologue shows Laka watching his returning servants; Lara later describes following his omens but doubts whether he foresaw the present crisis.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md"
+    },
+    {
+      "id": "aagir",
+      "kind": "npc",
+      "label": "Aagir",
+      "aiSummary": "The prologue shows Aagir seeking a champion, and Lara later fears that his power and urgency are driving Sura toward battle.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Aagir.md"
+    },
+    {
+      "id": "sonkar",
+      "kind": "npc",
+      "label": "Sonkar",
+      "aiSummary": "The prologue and Lara's later account portray Sonkar as fearing war and mourning the lives that might never be lived.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Sonkar.md"
+    },
+    {
+      "id": "jeevali",
+      "kind": "npc",
+      "label": "Jeevali",
+      "aiSummary": "The prologue shows Jeevali driving rain east, and Kaleha later explains the renewal festival's gratitude for her rains.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali.md"
+    },
+    {
+      "id": "chidya",
+      "kind": "npc",
+      "label": "Chidya",
+      "aiSummary": "The prologue shows Chidya watching travelers, refugees, and scattered people find places to return.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Chidya.md"
+    },
+    {
+      "id": "rai",
+      "kind": "npc",
+      "label": "Rai",
+      "aiSummary": "Saka sees Rai’s influence through Kenzo’s jade, and Kassi finds forest worshippers whose accounts of dreams resemble Kenzo’s experiences.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Rai.md"
+    },
+    {
+      "id": "oskar",
+      "kind": "npc",
+      "label": "Oskar",
+      "aiSummary": "The party discusses Oskar’s protection when reassuring Fallthra about Dag and seeks scholarship on related divine questions.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Other PCs/Oskar's Companions/Oskar.md"
+    },
+    {
+      "id": "yezali",
+      "kind": "npc",
+      "label": "Yezali",
+      "aiSummary": "Kassi finds Yezali named as a spirit of the moon, night, and hunt in northern travel accounts.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md"
+    },
+    {
+      "id": "presence",
+      "kind": "npc",
+      "label": "Anida, Shurat, and Sampa",
+      "aiSummary": "Kassi compares Anida with the Dunmari creator pair Shurat and Sampa through philosophical traditions, treating their relationship as interpretation rather than a proved revelation.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/High Gods/Divine Presence.md"
+    },
+    {
+      "id": "chamutte",
+      "kind": "npc",
+      "label": "Cha’mutte",
+      "aiSummary": "Cha’mutte is recalled in the history of Kharsan’s evacuation and in Esa’s speculative account of the destruction of divine traditions.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "awakened",
+      "kind": "organization",
+      "label": "Order of the Awakened Soul",
+      "aiSummary": "Kenzo’s renewed work recording lives recalls the order’s former place in Dunmar’s ordinary communities.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md"
+    },
+    {
+      "id": "lakan",
+      "kind": "organization",
+      "label": "Lakan Mystai",
+      "aiSummary": "The Lakan community hosts the party, supplies research and craft advice, and seeks mediation between Sura and Karnas.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Lakan Mystai.md"
+    },
+    {
+      "id": "fraternity",
+      "kind": "organization",
+      "label": "Fraternity of the Empty Moon",
+      "aiSummary": "Govir links the recent cult to a century-old magical theft and explains why its imminent ritual threat has passed.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Fraternity of the Empty Moon.md"
+    },
+    {
+      "id": "charmhearts",
+      "kind": "organization",
+      "label": "Charmhearts",
+      "aiSummary": "The Charmhearts remain at the Red Lily and receive gifts through Tye, including keepsakes intended for onward return to a dead halfling's family.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Halfling Families/Charmhearts.md"
+    },
+    {
+      "id": "tealeafs",
+      "kind": "organization",
+      "label": "Tealeafs",
+      "aiSummary": "Garret hopes to reconnect with the Tealeafs, and the family is discussed as a possible way to pass messages onward.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Halfling Families/Tealeafs.md"
+    },
+    {
+      "id": "rai-cult",
+      "kind": "organization",
+      "label": "Forest worshippers of Rai",
+      "aiSummary": "Gnaeus’s account describes Rai worshippers in the forests east of Chardon, with dream traditions that interest Kenzo.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "sarqon-followers",
+      "kind": "organization",
+      "label": "Sarqon’s followers",
+      "aiSummary": "The party mentions followers of Sarqon as other seekers of the cloak that conceals its wearer from gods.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "story-scrolls",
+      "kind": "item",
+      "label": "Saka’s story-recording parchment",
+      "aiSummary": "Saka gives Kenzo ten unusual sheets for preserving stories; he begins collecting ordinary people’s lives by interviewing Kirian.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "aiSuggestedFeaturedQuotes": [
+        "q-i071-1"
+      ],
+      "note": "Things/Magic Items/Scroll of Storykeeping.md"
+    },
+    {
+      "id": "jade",
+      "kind": "item",
+      "label": "Jade Piece of Rai’s Hand",
+      "aiSummary": "Saka identifies Rai’s influence reaching Kenzo through the jade, making it a clue to the source of his dreams.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md"
+    },
+    {
+      "id": "keepsakes",
+      "kind": "item",
+      "label": "Recovered halfling locket and ring",
+      "aiSummary": "Wellby entrusts a dead halfling's locket and ring to the Charmhearts to pass onward to any surviving descendants or family.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "pandemonium",
+      "kind": "item",
+      "label": "Pandemonium Scroll",
+      "aiSummary": "Govir suggests the werewolf cult’s recovered scroll may be the powerful stolen item described in Illyan’s century-old records.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Pandemonium Scroll.md"
+    },
+    {
+      "id": "scepter",
+      "kind": "item",
+      "label": "Scepter of Command",
+      "aiSummary": "The party considers the scepter’s history and dangerous influence, keeps its possession quiet, and asks Govir to research its removal from Kharsan.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Scepter of Command.md"
+    },
+    {
+      "id": "cloak",
+      "kind": "item",
+      "label": "Cloak of Rainbows",
+      "aiSummary": "The cloak that hides its wearer from gods remains a quest target; discussion of the Kharsan letter leaves its route and destination uncertain.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Cloak of Rainbows.md"
+    },
+    {
+      "id": "evacuation-letter",
+      "kind": "item",
+      "label": "Kharsan evacuation letter",
+      "aiSummary": "The party reexamines a historical letter describing treasures removed from Kharsan, while acknowledging that it does not establish where they ultimately went.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Archives Letter.md"
+    },
+    {
+      "id": "soul-mirror",
+      "kind": "item",
+      "label": "Mirror of Soul Trapping",
+      "aiSummary": "The party considers using the mirror to contain the unrepentant werewolf, discussing its capacity and the practical and moral implications.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md"
+    },
+    {
+      "id": "research-notes",
+      "kind": "item",
+      "label": "Kassi’s research notes and excerpts",
+      "aiSummary": "Kassi gives the party her notes and excerpts on Rai, creator traditions, Yezali, and possible explanations for lost gods.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research from Kassi.md"
+    },
+    {
+      "id": "tree-wood",
+      "kind": "item",
+      "label": "Wood from Tokra’s great tree",
+      "aiSummary": "Kenzo seeks magically useful wood from the great tree; Basu promises the next fallen branch, but none is received in the transcript.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "giant-eyes",
+      "kind": "item",
+      "label": "Hralgar’s Eyes",
+      "aiSummary": "Recovering the giant’s eyes remains an outstanding quest as the party plans its onward travel.",
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "i001",
+      "entity": "saka",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Saka entrusts Kenzo with preserving overlooked stories and suggests his jade and dreams are connected to Rai.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0017",
+            "endUid": "u0110"
+          },
+          "relevance": "primary",
+          "aiSummary": "Saka entrusts Kenzo with preserving overlooked stories and suggests his jade and dreams are connected to Rai."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i001-1",
+          "type": "color",
+          "text": "I know you didn't follow the normal path to your role that you've found yourself in, but Bhishma accepted you and you should not ignore her demands. Collect some stories, listen to the people, even tell some of your own.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0041",
+            "endUid": "u0047"
+          }
+        },
+        {
+          "id": "q-i001-2",
+          "type": "color",
+          "text": "Do not just collect the stories of the great and the powerful. The hall is a reflection of Dunmar's soul. Pay attention to those who maybe were ignored, who might have something to say that is not what the heroes of the world say.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0086",
+            "endUid": "u0094"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i002",
+      "entity": "kirian",
+      "scenes": [
+        5
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kirian welcomes the party back, hands over waiting letters, and arranges rooms and dinner.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0181",
+            "endUid": "u0204"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kirian welcomes the party back, hands over waiting letters, and arranges rooms and dinner."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "entity": "kirian",
+      "scenes": [
+        9
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "aiSummary": "Kirian serves the party dinner in the common room.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0342",
+            "endUid": "u0349"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kirian serves the party dinner in the common room."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "entity": "kirian",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Kenzo records Kirian’s life, including his time with Shandan’s warband and the wound that led him to become an innkeeper.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0545",
+            "endUid": "u0659"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo records Kirian’s life, including his time with Shandan’s warband and the wound that led him to become an innkeeper."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i004-1",
+          "type": "color",
+          "text": "Where did you get your money from? I mean, this inn is founded on blood money, if you want to be honest about it. Kobold blood, but you know blood nonetheless.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0604",
+            "endUid": "u0605"
+          }
+        },
+        {
+          "id": "q-i004-2",
+          "type": "color",
+          "text": "Sitting by the campfire on the road with Shandan and his band, drinking some wine and eating roast meat and telling stories of our family back home, who we're fighting for, dreaming about what we would do with that money.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0630",
+            "endUid": "u0636"
+          }
+        },
+        {
+          "id": "q-i004-3",
+          "type": "color",
+          "text": "Had my wild time and my youth. Now I just want to—things are good, keep them good. Don't rock the boat.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0613",
+            "endUid": "u0615"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i005",
+      "entity": "garret",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "The party exchanges travel news with Garret, arranges gifts for the Charmhearts, and hears that a storyteller has made their adventures into a song.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0706",
+            "endUid": "u0813"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party exchanges travel news with Garret, arranges gifts for the Charmhearts, and hears that a storyteller has made their adventures into a song."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i005-1",
+          "type": "color",
+          "text": "Nice to meet you. Former prisoner of Agata Dustmother, rescued by these fine folks. Now, hoping to find my family.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0797",
+            "endUid": "u0799"
+          }
+        },
+        {
+          "id": "q-i005-2",
+          "type": "color",
+          "text": "Not sure I want to get involved in any other magic.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0778",
+            "endUid": "u0780"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i006",
+      "entity": "tye",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "aiSummary": "Garret calls Tye to take the party’s package upstairs to the Charmhearts.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0720",
+            "endUid": "u0724"
+          },
+          "relevance": "primary",
+          "aiSummary": "Garret calls Tye to take the party’s package upstairs to the Charmhearts."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Tye"
+    },
+    {
+      "id": "i007",
+      "entity": "fallthra",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Fallthra’s letters ask the party to visit because of Dag’s troubling dreams.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0209",
+            "endUid": "u0226"
+          },
+          "relevance": "primary",
+          "aiSummary": "Fallthra’s letters ask the party to visit because of Dag’s troubling dreams."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "entity": "fallthra",
+      "scenes": [
+        14
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Fallthra describes Dag’s fading dreams and is reassured by Kenzo’s examination and the party’s explanation of Oskar’s protection.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0847",
+            "endUid": "u1010"
+          },
+          "relevance": "primary",
+          "aiSummary": "Fallthra describes Dag’s fading dreams and is reassured by Kenzo’s examination and the party’s explanation of Oskar’s protection."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i008-1",
+          "type": "color",
+          "text": "Okay, I hope you're right. It is reassuring what you said.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0986",
+            "endUid": "u0987"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i009",
+      "entity": "dag",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Fallthra’s letters report Dag’s dreams and ask the party to check on him.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0209",
+            "endUid": "u0226"
+          },
+          "relevance": "primary",
+          "aiSummary": "Fallthra’s letters report Dag’s dreams and ask the party to check on him."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "entity": "dag",
+      "scenes": [
+        14
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kenzo examines Dag while the party talks with Fallthra and finds no remaining sign of lycanthropy.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0847",
+            "endUid": "u0990"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo examines Dag while the party talks with Fallthra and finds no remaining sign of lycanthropy."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "entity": "delig",
+      "scenes": [
+        14
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "aiSummary": "Dag’s father is working in the workshop during the party’s visit.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0847",
+            "endUid": "u0852"
+          },
+          "relevance": "primary",
+          "aiSummary": "Dag’s father is working in the workshop during the party’s visit."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the father"
+    },
+    {
+      "id": "i012",
+      "entity": "morkral",
+      "scenes": [
+        14
+      ],
+      "interaction": "present",
+      "importance": "cameo",
+      "aiSummary": "Dag’s uncle is working in the workshop during the party’s visit.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0847",
+            "endUid": "u0852"
+          },
+          "relevance": "primary",
+          "aiSummary": "Dag’s uncle is working in the workshop during the party’s visit."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the uncle"
+    },
+    {
+      "id": "i013",
+      "entity": "govir",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Govir’s letter invites the party to discuss his findings from the cult records.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0227",
+            "endUid": "u0236"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir’s letter invites the party to discuss his findings from the cult records."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "entity": "govir",
+      "scenes": [
+        15,
+        17
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Govir explains cult history and the archives’ failings; after securing his promotion, the party returns to arrange research and discuss his dreams.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1011",
+            "endUid": "u1210"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir explains cult history and the archives’ failings; after securing his promotion, the party returns to arrange research and discuss his dreams."
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1241",
+            "endUid": "u1318"
+          },
+          "relevance": "supporting",
+          "aiSummary": "The consultation resumes with follow-up questions and research arrangements."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i014-1",
+          "type": "color",
+          "text": "we have treated the records in this place all wrong. It's not just a monument to the gods. This is our history. And there are threats that come back over and over again.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1095",
+            "endUid": "u1100"
+          }
+        },
+        {
+          "id": "q-i014-2",
+          "type": "color",
+          "text": "There's no order to how we copy things. There's nothing. I'm not sure half the archivists here even bother to read anything and just write whatever thoughts come into their pretty little heads and call it scholarship.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1136",
+            "endUid": "u1143"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i015",
+      "entity": "ardan",
+      "scenes": [
+        16
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Delwath and Wellby persuade Ardan to promote Govir and fund assistants for the archives.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1211",
+            "endUid": "u1240"
+          },
+          "relevance": "primary",
+          "aiSummary": "Delwath and Wellby persuade Ardan to promote Govir and fund assistants for the archives."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "entity": "kaleha",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kaleha’s note asks the party to discuss the werewolf left in her care.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0237",
+            "endUid": "u0246"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kaleha’s note asks the party to discuss the werewolf left in her care."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "entity": "kaleha",
+      "scenes": [
+        19
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Kaleha discusses the werewolf’s planned execution, welcomes the rain, and directs questions about the great tree’s wood to the Lakan monks.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1353",
+            "endUid": "u1490"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kaleha discusses the werewolf’s planned execution, welcomes the rain, and directs questions about the great tree’s wood to the Lakan monks."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i017-1",
+          "type": "color",
+          "text": "I am, I am glad to see you because we've got to do something about this werewolf, but I am far gladder for the rains.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1365",
+            "endUid": "u1367"
+          }
+        },
+        {
+          "id": "q-i017-2",
+          "type": "color",
+          "text": "And, given its crimes against our people we will execute it. Unless you have some reason not to, for you did not kill it when you had the chance, and I wanted to ask why before carrying out our justice.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1395",
+            "endUid": "u1398"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i018",
+      "entity": "kassi",
+      "scenes": [
+        6
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kassi’s letter announces research findings and invites the party to the monastery.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0205",
+            "endUid": "u0208"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi’s letter announces research findings and invites the party to the monastery."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "entity": "kassi",
+      "scenes": [
+        21
+      ],
+      "interaction": "interacted",
+      "importance": "cameo",
+      "aiSummary": "Kassi is eager to discuss her findings but arranges to talk after the renewal celebration.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1581",
+            "endUid": "u1593"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi is eager to discuss her findings but arranges to talk after the renewal celebration."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "entity": "kassi",
+      "scenes": [
+        22
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Kassi presents research connecting Rai’s worshippers to Kenzo’s dreams and surveys creator beliefs, Yezali, and theories about lost gods.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1608",
+            "endUid": "u1867"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi presents research connecting Rai’s worshippers to Kenzo’s dreams and surveys creator beliefs, Yezali, and theories about lost gods."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i020-1",
+          "type": "color",
+          "text": "now I must warn you, this is all speculation. I don't believe that Esa had any proof of any of these theories.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1794",
+            "endUid": "u1795"
+          }
+        },
+        {
+          "id": "q-i020-2",
+          "type": "color",
+          "text": "It's a fascinating question, though, and I'm touched, Kenzo, that you turn to scholarship.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1805",
+            "endUid": "u1807"
+          }
+        },
+        {
+          "id": "q-i020-3",
+          "type": "color",
+          "text": "I'm sure your stories leave out many things as well.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1861",
+            "endUid": "u1861"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i021",
+      "entity": "basu",
+      "scenes": [
+        23
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Basu explains the great tree’s wood and seasonal growth, promising to save its next fallen branch for Kenzo.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1885",
+            "endUid": "u1932"
+          },
+          "relevance": "primary",
+          "aiSummary": "Basu explains the great tree’s wood and seasonal growth, promising to save its next fallen branch for Kenzo."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "entity": "lara",
+      "scenes": [
+        24,
+        25
+      ],
+      "interaction": "interacted",
+      "importance": "star",
+      "aiSummary": "Lara shares fears of civil war, discusses Sura and Karnas, and asks the party to escort Johar while considering its artifact quest.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1940",
+            "endUid": "u2259"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara shares fears of civil war, discusses Sura and Karnas, and asks the party to escort Johar while considering its artifact quest."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i022-1",
+          "type": "color",
+          "text": "I believe this moment that we have come to, someone must lead. We must find a way for that person to lead without destroying us in the process.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2007",
+            "endUid": "u2009"
+          }
+        },
+        {
+          "id": "q-i022-2",
+          "type": "color",
+          "text": "I think she weeps all the same, for those who must die, and she is the only one who can see the lives that were not lived. And she is the only one who truly fears war the way it should be feared.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2002",
+            "endUid": "u2004"
+          }
+        },
+        {
+          "id": "q-i022-3",
+          "type": "color",
+          "text": "Not expect you to solve this dilemma. For now, at least, I will say Dunmari fighting Dunmari is not a just war.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2225",
+            "endUid": "u2227"
+          }
+        },
+        {
+          "id": "q-i022-4",
+          "type": "introduction",
+          "text": "she's probably in her mid 40s but looks pretty young, like long black hair sort of done up in a bun, and green eyes, sort of light, you know, light brown skin",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1951",
+            "endUid": "u1954"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i023",
+      "entity": "vistra",
+      "scenes": [
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Riswynn credits Vistra with refugee contacts and local guidance that helped obtain an object for the willing werewolf's cure.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0362",
+            "endUid": "u0370"
+          },
+          "relevance": "primary",
+          "aiSummary": "Riswynn describes Vistra's help finding an object to reconnect the willing werewolf with her past."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Vistra"
+    },
+    {
+      "id": "i024",
+      "entity": "shandan",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Kirian remembers fighting with Shandan’s caravan warband before injury ended that life.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0560",
+            "endUid": "u0587"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kirian remembers fighting with Shandan’s caravan warband before injury ended that life."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Shandan"
+    },
+    {
+      "id": "i025",
+      "entity": "callie",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party sends Callie its best wishes while discussing the Charmhearts’ onward travel.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0784",
+            "endUid": "u0795"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party sends Callie its best wishes while discussing the Charmhearts’ onward travel."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Callie"
+    },
+    {
+      "id": "i026",
+      "entity": "agata",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Garret introduces himself to Riswynn as a former prisoner of Agata Dustmother rescued by the party.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0797",
+            "endUid": "u0799"
+          },
+          "relevance": "primary",
+          "aiSummary": "Garret introduces himself to Riswynn as a former prisoner of Agata Dustmother rescued by the party."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Agata Dustmother"
+    },
+    {
+      "id": "i027",
+      "entity": "illyan",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Govir explains that Illyan’s misfiled records describe the cult stealing a powerful item roughly a century ago.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1051",
+            "endUid": "u1083"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir explains that Illyan’s misfiled records describe the cult stealing a powerful item roughly a century ago."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Illyan"
+    },
+    {
+      "id": "i028",
+      "entity": "candrosa",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party recalls Candrosa’s account while discussing historical threats and red storms.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1101",
+            "endUid": "u1110"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party recalls Candrosa’s account while discussing historical threats and red storms."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Candrosa"
+    },
+    {
+      "id": "i029",
+      "entity": "sura",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Govir discusses Sura’s reported death, rumors of her return, and the recent attack on her camp.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1111",
+            "endUid": "u1135"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir discusses Sura’s reported death, rumors of her return, and the recent attack on her camp."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Sura"
+    },
+    {
+      "id": "i030",
+      "entity": "gnaeus",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kassi cites Gnaeus’s book about forest peoples and a Rai worshipper’s account of dreams and religious succession.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1626",
+            "endUid": "u1680"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi cites Gnaeus’s book about forest peoples and a Rai worshipper’s account of dreams and religious succession."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Gnaeus"
+    },
+    {
+      "id": "i031",
+      "entity": "eukos",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Kassi cites Eukos's Travels in the Far North for tribes and Yezali's association with the moon, night, and hunting.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1760",
+            "endUid": "u1777"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi cites Eukos's Travels in the Far North for tribes and Yezali's association with the moon, night, and hunting."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Eukos the Wanderer"
+    },
+    {
+      "id": "i032",
+      "entity": "esa",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Kassi reports Esa’s speculative theory connecting the loss of gods with the destruction of their worshippers.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1778",
+            "endUid": "u1795"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi reports Esa’s speculative theory connecting the loss of gods with the destruction of their worshippers."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Esa"
+    },
+    {
+      "id": "i033",
+      "entity": "karnas",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Lara describes Karnas’s caution, Sonkar’s concern about lost lives, and her effort to mediate between Karnas and Sura.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1959",
+            "endUid": "u2075"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara describes Karnas’s caution, Sonkar’s concern about lost lives, and her effort to mediate between Karnas and Sura."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Karnas"
+    },
+    {
+      "id": "i034",
+      "entity": "johar",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Lara plans to send Johar to Karnas, and the party agrees to accompany him as far as Darba.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2040",
+            "endUid": "u2075"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara plans to send Johar to Karnas, and the party agrees to accompany him as far as Darba."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Johar"
+    },
+    {
+      "id": "i035",
+      "entity": "grash",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party recalls Grash’s ordinary hooded robes while asking whether the cloak they seek might have travelled through his hands.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2125",
+            "endUid": "u2130"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party recalls Grash’s ordinary hooded robes while asking whether the cloak they seek might have travelled through his hands."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Grash"
+    },
+    {
+      "id": "i036",
+      "entity": "scholar",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Govir recalls a Chardonian researcher who consulted a Kharsan evacuation letter while tracing the scepter and cloak.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1144",
+            "endUid": "u1185"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir recalls a Chardonian researcher who consulted a Kharsan evacuation letter while tracing the scepter and cloak."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the Chardonian scholar"
+    },
+    {
+      "id": "i037",
+      "entity": "werewolf",
+      "scenes": [
+        19
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kaleha says the uncured werewolf remains unrepentant and proposes execution after the renewal festival; the execution itself is not recorded.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1353",
+            "endUid": "u1414"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kaleha says the uncured werewolf remains unrepentant and proposes execution after the renewal festival; the execution itself is not recorded."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the werewolf"
+    },
+    {
+      "id": "i038",
+      "entity": "storyteller",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Garret reports that a halfling storyteller has made a new song about the party’s adventures.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0800",
+            "endUid": "u0808"
+          },
+          "relevance": "primary",
+          "aiSummary": "Garret reports that a halfling storyteller has made a new song about the party’s adventures."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the storyteller"
+    },
+    {
+      "id": "i039",
+      "entity": "sura",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Lara reports meeting Sura and fears her divinely inspired campaign could lead Dunmar into civil war.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1955",
+            "endUid": "u2259"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara reports meeting Sura and fears her divinely inspired campaign could lead Dunmar into civil war."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Nayan Sura"
+    },
+    {
+      "id": "i040",
+      "entity": "scholar",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party explains that it is following the earlier artifact researcher’s route but does not know his ultimate findings.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2137",
+            "endUid": "u2149"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party explains that it is following the earlier artifact researcher’s route but does not know his ultimate findings."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i041",
+      "entity": "werewolf",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kaleha’s letter prompts the party to consider what should happen to the remaining captive werewolf.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0237",
+            "endUid": "u0282"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kaleha’s letter prompts the party to consider what should happen to the remaining captive werewolf."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i042",
+      "entity": "werewolf",
+      "scenes": [
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Riswynn reports that one captive accepted a cure while this prisoner refused it, prompting debate about punishment and containment.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0361",
+            "endUid": "u0544"
+          },
+          "relevance": "primary",
+          "aiSummary": "Riswynn reports that one captive accepted a cure while this prisoner refused it, prompting debate about punishment and containment."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i043",
+      "entity": "bhishma",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The prologue shows Bhishma watching the northern camp while distracted by her ruined home.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0003",
+            "endUid": "u0005"
+          },
+          "relevance": "primary",
+          "aiSummary": "The prologue shows Bhishma watching the northern camp while distracted by her ruined home."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i044",
+      "entity": "shakun",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The prologue shows Shakun repairing Dunmar’s damaged magical protections.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0007"
+          },
+          "relevance": "primary",
+          "aiSummary": "The prologue shows Shakun repairing Dunmar’s damaged magical protections."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i045",
+      "entity": "laka",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The prologue shows Laka watching his servants return toward Tokra.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0008",
+            "endUid": "u0008"
+          },
+          "relevance": "primary",
+          "aiSummary": "The prologue shows Laka watching his servants return toward Tokra."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i046",
+      "entity": "aagir",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The prologue shows Aagir looking east and wondering whether a returning champion will heed his call.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0009",
+            "endUid": "u0010"
+          },
+          "relevance": "primary",
+          "aiSummary": "The prologue shows Aagir looking east and wondering whether a returning champion will heed his call."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i047",
+      "entity": "sonkar",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The prologue shows Sonkar fearing war and the unlived futures of those who may die.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0011",
+            "endUid": "u0012"
+          },
+          "relevance": "primary",
+          "aiSummary": "The prologue shows Sonkar fearing war and the unlived futures of those who may die."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i048",
+      "entity": "jeevali",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The prologue shows Jeevali driving rain clouds east to sustain her people.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0013",
+            "endUid": "u0014"
+          },
+          "relevance": "primary",
+          "aiSummary": "The prologue shows Jeevali driving rain clouds east to sustain her people."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i049",
+      "entity": "chidya",
+      "scenes": [
+        1
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The prologue shows Chidya watching travelers, refugees, and scattered people find places to return.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0015",
+            "endUid": "u0016"
+          },
+          "relevance": "primary",
+          "aiSummary": "The prologue shows Chidya watching travelers, refugees, and scattered people find places to return."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i050",
+      "entity": "bhishma",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Saka tells Kenzo that Bhishma accepted him and expects him to collect stories.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0041",
+            "endUid": "u0047"
+          },
+          "relevance": "primary",
+          "aiSummary": "Saka tells Kenzo that Bhishma accepted him and expects him to collect stories."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i051",
+      "entity": "jeevali",
+      "scenes": [
+        19
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kaleha explains the renewal festival’s gratitude for Jeevali’s rains.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1365",
+            "endUid": "u1385"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kaleha explains the renewal festival’s gratitude for Jeevali’s rains."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i052",
+      "entity": "sonkar",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Lara describes Sonkar’s fear of war and the lives that will never be lived.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1959",
+            "endUid": "u2020"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara describes Sonkar’s fear of war and the lives that will never be lived."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i053",
+      "entity": "aagir",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Lara believes Aagir’s power and urgency are driving Sura toward battle.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1959",
+            "endUid": "u2020"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara believes Aagir’s power and urgency are driving Sura toward battle."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i054",
+      "entity": "laka",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Lara describes following Laka’s omens while acknowledging uncertainty about what lies ahead.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1959",
+            "endUid": "u2026"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara describes following Laka’s omens while acknowledging uncertainty about what lies ahead."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i055",
+      "entity": "rai",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Saka suggests Rai may understand the dreams because his influence reaches Kenzo through the jade.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0063",
+            "endUid": "u0070"
+          },
+          "relevance": "primary",
+          "aiSummary": "Saka suggests Rai may understand the dreams because his influence reaches Kenzo through the jade."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i056",
+      "entity": "rai",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kassi’s research connects Rai’s surviving forest worshippers and their dream traditions to Kenzo’s experiences.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1608",
+            "endUid": "u1706"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi’s research connects Rai’s surviving forest worshippers and their dream traditions to Kenzo’s experiences."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i057",
+      "entity": "oskar",
+      "scenes": [
+        14
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party discusses Oskar’s protection while reassuring Fallthra about Dag’s fading dreams.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0873",
+            "endUid": "u0937"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party discusses Oskar’s protection while reassuring Fallthra about Dag’s fading dreams."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i058",
+      "entity": "yezali",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kassi reports the limited historical evidence for Yezali and distinguishes it from speculation about lost gods.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1760",
+            "endUid": "u1795"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi reports the limited historical evidence for Yezali and distinguishes it from speculation about lost gods."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i059",
+      "entity": "presence",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kassi compares the Deno'qai Anida with the Dunmari Shurat and Sampa, then discusses her belief that divine power creates the gods.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1737",
+            "endUid": "u1867"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi compares creator traditions and discusses her belief in the origin of divine power."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Anida; Shurat and Sampa"
+    },
+    {
+      "id": "i061",
+      "entity": "chamutte",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The Kharsan letter is discussed in the context of the Great War and Cha’mutte’s threat.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1167",
+            "endUid": "u1185"
+          },
+          "relevance": "primary",
+          "aiSummary": "The Kharsan letter is discussed in the context of the Great War and Cha’mutte’s threat."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i062",
+      "entity": "chamutte",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Kassi describes Esa’s unproven suggestion that Cha’mutte’s destruction of peoples also erased gods.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1778",
+            "endUid": "u1795"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi describes Esa’s unproven suggestion that Cha’mutte’s destruction of peoples also erased gods."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i063",
+      "entity": "awakened",
+      "scenes": [
+        10
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kirian recognizes Kenzo’s order and remembers its story collectors, whom he thought had disappeared.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0638",
+            "endUid": "u0651"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kirian recognizes Kenzo’s order and remembers its story collectors, whom he thought had disappeared."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i064",
+      "entity": "lakan",
+      "scenes": [
+        24,
+        25
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Lara explains the Lakan role in mediation and asks the party to help carry its messenger toward Karnas.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1940",
+            "endUid": "u2259"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara explains the Lakan role in mediation and asks the party to help carry its messenger toward Karnas."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i065",
+      "entity": "fraternity",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Govir interprets the cult’s ritual timing and compares its recovered records with Illyan’s older account.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1022",
+            "endUid": "u1088"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir interprets the cult’s ritual timing and compares its recovered records with Illyan’s older account."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i066",
+      "entity": "charmhearts",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party sends gifts through Tye to the Charmhearts, including keepsakes to pass onward to a dead halfling's family.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0720",
+            "endUid": "u0795"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party sends gifts through Tye to the Charmhearts, including keepsakes to pass onward to a dead halfling's family."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i067",
+      "entity": "tealeafs",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "Garret hopes to reconnect with his family around Darba.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0784",
+            "endUid": "u0788"
+          },
+          "relevance": "primary",
+          "aiSummary": "Garret hopes to reconnect with his family around Darba."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i068",
+      "entity": "rai-cult",
+      "scenes": [
+        22
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kassi describes a forest community worshipping Rai whose priestly dreams resemble Kenzo’s visions.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1626",
+            "endUid": "u1706"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi describes a forest community worshipping Rai whose priestly dreams resemble Kenzo’s visions."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i069",
+      "entity": "sarqon-followers",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party tells Garret that Sarqon’s followers are also seeking the cloak.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0772",
+            "endUid": "u0780"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party tells Garret that Sarqon’s followers are also seeking the cloak."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i071",
+      "entity": "story-scrolls",
+      "scenes": [
+        2
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Saka gives Kenzo special parchment that seems able to extend until a story is finished.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0041",
+            "endUid": "u0083"
+          },
+          "relevance": "primary",
+          "aiSummary": "Saka gives Kenzo special parchment that seems able to extend until a story is finished."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "quotes": [
+        {
+          "id": "q-i071-1",
+          "type": "introduction",
+          "text": "Like, it seems like you could almost keep extending one sheet forever and ever until the story was done.",
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0055",
+            "endUid": "u0062"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i072",
+      "entity": "story-scrolls",
+      "scenes": [
+        10
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kenzo records Kirian’s story as the beginning of his work preserving ordinary lives.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0638",
+            "endUid": "u0651"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kenzo records Kirian’s story as the beginning of his work preserving ordinary lives."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i073",
+      "entity": "jade",
+      "scenes": [
+        2
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Saka identifies the jade as the connection through which Rai influences Kenzo’s soul.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0063",
+            "endUid": "u0070"
+          },
+          "relevance": "primary",
+          "aiSummary": "Saka identifies the jade as the connection through which Rai influences Kenzo’s soul."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the jade"
+    },
+    {
+      "id": "i074",
+      "entity": "keepsakes",
+      "scenes": [
+        12
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Wellby sends the recovered locket and ring to the Charmhearts to pass onward to the dead halfling's surviving family.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0767",
+            "endUid": "u0776"
+          },
+          "relevance": "primary",
+          "aiSummary": "Wellby sends the recovered locket and ring to the Charmhearts to pass onward to the dead halfling's surviving family."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i075",
+      "entity": "pandemonium",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Govir connects the recovered scroll with Illyan’s report of an item stolen to tether Pandemonium.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1051",
+            "endUid": "u1088"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir connects the recovered scroll with Illyan’s report of an item stolen to tether Pandemonium."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the scroll"
+    },
+    {
+      "id": "i076",
+      "entity": "scepter",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party asks Govir about the scepter’s path out of Kharsan and the researcher who previously traced it.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1144",
+            "endUid": "u1185"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party asks Govir about the scepter’s path out of Kharsan and the researcher who previously traced it."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Scepter of Power"
+    },
+    {
+      "id": "i077",
+      "entity": "scepter",
+      "scenes": [
+        17
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party discusses whether further experimentation with the scepter is worth its dangerous temptation.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1268",
+            "endUid": "u1288"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party discusses whether further experimentation with the scepter is worth its dangerous temptation."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "Scepter of Power"
+    },
+    {
+      "id": "i078",
+      "entity": "scepter",
+      "scenes": [
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party agrees to be discreet about the scepter’s power and possession.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1502",
+            "endUid": "u1536"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party agrees to be discreet about the scepter’s power and possession."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the scepter"
+    },
+    {
+      "id": "i079",
+      "entity": "cloak",
+      "scenes": [
+        12
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party explains that it is seeking a cloak that can conceal its wearer from gods.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0772",
+            "endUid": "u0780"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party explains that it is seeking a cloak that can conceal its wearer from gods."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the cloak that hides you from the gods"
+    },
+    {
+      "id": "i080",
+      "entity": "cloak",
+      "scenes": [
+        15
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party asks Govir to investigate the cloak’s evacuation from Kharsan.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1144",
+            "endUid": "u1185"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party asks Govir to investigate the cloak’s evacuation from Kharsan."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the cloak"
+    },
+    {
+      "id": "i081",
+      "entity": "cloak",
+      "scenes": [
+        25
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Lara cannot identify the cloak, and the party revisits the uncertainty of its route out of Kharsan.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2094",
+            "endUid": "u2149"
+          },
+          "relevance": "primary",
+          "aiSummary": "Lara cannot identify the cloak, and the party revisits the uncertainty of its route out of Kharsan."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the cloak"
+    },
+    {
+      "id": "i082",
+      "entity": "evacuation-letter",
+      "scenes": [
+        15
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Govir and the party discuss the letter as evidence for the movement of treasures out of Kharsan.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1167",
+            "endUid": "u1185"
+          },
+          "relevance": "primary",
+          "aiSummary": "Govir and the party discuss the letter as evidence for the movement of treasures out of Kharsan."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i083",
+      "entity": "evacuation-letter",
+      "scenes": [
+        25
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "The party revisits the letter and distinguishes an intended route toward Darba from a confirmed destination.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2105",
+            "endUid": "u2149"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party revisits the letter and distinguishes an intended route toward Darba from a confirmed destination."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i084",
+      "entity": "soul-mirror",
+      "scenes": [
+        6
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party proposes using the soul-trapping mirror to hold the unrepentant werewolf.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0264",
+            "endUid": "u0282"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party proposes using the soul-trapping mirror to hold the unrepentant werewolf."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the mirror"
+    },
+    {
+      "id": "i085",
+      "entity": "soul-mirror",
+      "scenes": [
+        9
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "The party debates imprisonment in the mirror, including occupied space, limits, and whether it would solve the prisoner’s problem.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0439",
+            "endUid": "u0544"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party debates imprisonment in the mirror, including occupied space, limits, and whether it would solve the prisoner’s problem."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the mirror"
+    },
+    {
+      "id": "i086",
+      "entity": "research-notes",
+      "scenes": [
+        22
+      ],
+      "interaction": "interacted",
+      "importance": "supporting",
+      "aiSummary": "Kassi provides her collected research notes and excerpts, warning that some of the theories are speculative.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1778",
+            "endUid": "u1807"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kassi provides her collected research notes and excerpts, warning that some of the theories are speculative."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i087",
+      "entity": "tree-wood",
+      "scenes": [
+        19
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Kaleha directs Kenzo to the Lakan monks about obtaining wood from the great tree.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1466",
+            "endUid": "u1490"
+          },
+          "relevance": "primary",
+          "aiSummary": "Kaleha directs Kenzo to the Lakan monks about obtaining wood from the great tree."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i088",
+      "entity": "tree-wood",
+      "scenes": [
+        23
+      ],
+      "interaction": "mentioned",
+      "importance": "supporting",
+      "aiSummary": "Basu promises to save the next fallen branch for Kenzo and discusses its potential for crafting.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1885",
+            "endUid": "u1932"
+          },
+          "relevance": "primary",
+          "aiSummary": "Basu promises to save the next fallen branch for Kenzo and discusses its potential for crafting."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i089",
+      "entity": "giant-eyes",
+      "scenes": [
+        20
+      ],
+      "interaction": "mentioned",
+      "importance": "cameo",
+      "aiSummary": "The party recalls its outstanding promise to recover the giant’s eyes.",
+      "passages": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1566",
+            "endUid": "u1573"
+          },
+          "relevance": "primary",
+          "aiSummary": "The party recalls its outstanding promise to recover the giant’s eyes."
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "knownAs": "the giant's eyes"
+    }
+  ],
+  "review": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  },
+  "sceneReview": {
+    "confidence": "high",
+    "status": "automatedReviewed"
+  }
+}

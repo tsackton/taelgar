@@ -1,0 +1,57 @@
+{
+  "seed": 20261029,
+  "complete": true,
+  "sourceRevision": null,
+  "executions": [
+    {
+      "id": "dunmari-frontier-010",
+      "status": "reviewed",
+      "counts": [
+        36,
+        9,
+        14
+      ],
+      "checks": {
+        "sourceUtterances": 2875,
+        "sceneUtterances": 2854,
+        "unassignedUtterances": 21,
+        "metadataReady": true,
+        "readyEntities": 9,
+        "provisionalEntities": 0,
+        "excludedUtterances": 21,
+        "unexplainedUtterances": 0,
+        "reviewCurrent": true,
+        "criticalMetadataFindings": 0
+      },
+      "criticalQueue": [],
+      "displayedEntities": 9,
+      "excludedEntities": {},
+      "currentSourceChanged": false
+    },
+    {
+      "id": "dunmari-frontier-041",
+      "status": "reviewed",
+      "counts": [
+        25,
+        60,
+        87
+      ],
+      "checks": {
+        "sourceUtterances": 2261,
+        "sceneUtterances": 2227,
+        "unassignedUtterances": 34,
+        "metadataReady": true,
+        "readyEntities": 60,
+        "provisionalEntities": 0,
+        "excludedUtterances": 34,
+        "unexplainedUtterances": 0,
+        "reviewCurrent": true,
+        "criticalMetadataFindings": 0
+      },
+      "criticalQueue": [],
+      "displayedEntities": 60,
+      "excludedEntities": {},
+      "currentSourceChanged": false
+    }
+  ]
+}

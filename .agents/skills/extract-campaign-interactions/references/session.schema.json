@@ -2,48 +2,7 @@
   "type": "object",
   "properties": {
     "schemaVersion": {
-      "const": 5
-    },
-    "campaign": {
-      "type": "string",
-      "minLength": 1
-    },
-    "session": {
-      "type": "integer",
-      "minimum": 0
-    },
-    "realWorldDate": {
-      "type": "string",
-      "format": "date"
-    },
-    "pcs": {
-      "type": "array",
-      "items": {
-        "type": "string",
-        "minLength": 1
-      },
-      "uniqueItems": true
-    },
-    "sources": {
-      "type": "array",
-      "items": {
-        "$ref": "#/$defs/source"
-      },
-      "minItems": 1
-    },
-    "dateStart": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "format": "date"
-    },
-    "dateEnd": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "format": "date"
+      "const": 6
     },
     "locations": {
       "type": "array",
@@ -76,47 +35,22 @@
     },
     "sceneReview": {
       "$ref": "#/$defs/review"
+    },
+    "sessionYaml": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Vault-relative reference to the authoritative session manifest."
     }
   },
   "required": [
     "schemaVersion",
-    "campaign",
-    "session",
-    "realWorldDate",
-    "pcs",
-    "sources"
+    "sessionYaml"
   ],
   "additionalProperties": false,
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://taelgar.org/schemas/session-interactions-v5.json",
-  "title": "Taelgar session interaction model v5",
+  "$id": "https://taelgar.org/schemas/session-interactions-v6.json",
+  "title": "Taelgar session interaction enrichment v6",
   "$defs": {
-    "source": {
-      "type": "object",
-      "properties": {
-        "id": {
-          "type": "string",
-          "minLength": 1
-        },
-        "kind": {
-          "const": "transcript"
-        },
-        "path": {
-          "type": "string",
-          "minLength": 1
-        },
-        "sha256": {
-          "type": "string",
-          "pattern": "^[0-9a-f]{64}$"
-        }
-      },
-      "required": [
-        "id",
-        "kind",
-        "path"
-      ],
-      "additionalProperties": false
-    },
     "sourceRef": {
       "oneOf": [
         {
@@ -127,7 +61,8 @@
             },
             "sourceId": {
               "type": "string",
-              "minLength": 1
+              "minLength": 1,
+              "description": "Dotted key of a transcript artifact registered in session YAML; never a local source registry."
             },
             "startUid": {
               "type": "string",

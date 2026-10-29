@@ -1,0 +1,67 @@
+{
+  "reviewer": "/root/review_du041_v6",
+  "attempt": 1,
+  "inputDigest": "f4464795c745784dc7009275ff960c56a9d74e58baee30a523b469b8f3b4cb57",
+  "processingDigest": "3df7dcb781f151460cf8586e27324031632d449891d39a145959f665262bd5f6",
+  "completionReady": true,
+  "changedTargetsAssessed": [
+    "session",
+    "scenes",
+    "entity:garret",
+    "entity:kaleha",
+    "entity:vistra",
+    "entity:sura",
+    "entity:eukos",
+    "entity:bhishma",
+    "entity:laka",
+    "entity:aagir",
+    "entity:sonkar",
+    "entity:jeevali",
+    "entity:presence",
+    "entity:charmhearts",
+    "entity:story-scrolls",
+    "entity:keepsakes",
+    "entity:evacuation-letter",
+    "interaction:i023",
+    "interaction:i031",
+    "interaction:i059",
+    "interaction:i066",
+    "interaction:i074"
+  ],
+  "removedTargetsAssessed": [
+    "entity:denoqai",
+    "interaction:i070",
+    "interaction:i060"
+  ],
+  "reason": "Independently compared every changed field against reviewed-0 and the cited source evidence. All 11 proposed correction groups are implemented, with no additional substantive edits or review-flag changes. Previously reviewed unchanged claims remain intact.",
+  "counts": {
+    "scenes": 25,
+    "entities": 60,
+    "interactions": 87
+  },
+  "unexplainedUtterances": 0,
+  "remainingRequiredCorrections": [],
+  "retainedUncertainty": [
+    {
+      "target": "entity:scholar",
+      "reason": "Transcript does not name the earlier artifact researcher; descriptive identity remains unlinked rather than forcing Servius."
+    },
+    {
+      "target": "scene:24,scene:25",
+      "reason": "Lara's exact date is not stated in the recording; absence of a precise scene date and authoritative YAML end-date extension remain appropriate."
+    },
+    {
+      "target": "entity:presence",
+      "reason": "Single versus plural divine ontology remains interpretive; confidence applies to faithful extraction of the comparison, not theological truth."
+    }
+  ],
+  "checks": [
+    "All 22 changed targets have explicit reassessment.",
+    "All three removals have concrete evidence and retain meaningful source coverage elsewhere.",
+    "All review evidence locators validate.",
+    "Correction history preservation check passes.",
+    "All 2261 UIDs remain accounted for; exclusions unchanged.",
+    "No candidate, processing, YAML or vault source modified by this reviewer."
+  ],
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml"
+}

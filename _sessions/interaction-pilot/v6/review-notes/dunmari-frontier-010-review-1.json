@@ -1,0 +1,21 @@
+{
+  "reviewer": "/root/review_du010_v6",
+  "attempt": 1,
+  "inputDigest": "bf5ae15cfd67f9fbc0254010123a0a0d939b8195af2683a34febc18481063020",
+  "processingDigest": "0a5b0e9144e74f2144c15b47292fb648def23437419957eb9a090b942090b2ec",
+  "recheckedSource": [
+    {
+      "kind": "transcript",
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "startUid": "u1744",
+      "endUid": "u1758"
+    }
+  ],
+  "changedFields": [
+    "scenes[index=23].locationDetail",
+    "scenes[index=23].aiSummary"
+  ],
+  "requiredChanges": [],
+  "result": "The only required correction from attempt 0 is resolved. Other records and processing evidence are unchanged. Optional selection calibration remains available in independent-review-notes.json; no new required cards or revisions.",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml"
+}

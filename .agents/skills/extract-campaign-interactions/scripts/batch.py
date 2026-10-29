@@ -5,17 +5,55 @@ import json
 import os
 from pathlib import Path
 from urllib.parse import quote
+import yaml
 from jsonschema import ValidationError
-from session_model import apply_review, validate, render, critical_queue, check_evidence, campaign_name, entity_anchor, review_entities, ready
+from session_model import apply_review, validate, render, critical_queue, check_evidence, campaign_name, entity_anchor, review_entities, ready, check_correction, vault_path
 
 
 def read(path):
     return json.loads(Path(path).read_text())
 
 
+def result_folder(vault, selection, results):
+    """New runs live in session bundles; YAML owns the completed output pointer."""
+    if 'inputs' in selection:
+        manifest = vault_path(vault, selection['manifest'])
+        metadata = yaml.safe_load(manifest.read_text())
+        entry = metadata.get('interactionExtraction', {})
+        if entry:
+            relative = entry['sessionJson']
+            if Path(relative).is_absolute():
+                raise ValueError('Extraction pointer must be YAML-relative')
+            target = manifest.parent / relative
+            target = vault_path(vault, os.path.relpath(target, vault))
+            if target.name != 'session.json':
+                raise ValueError('Expected the completed session.json pointer')
+            return target.parent
+    return Path(results) / selection['id']
+
+
 def audit_chain(folder, vault, selection=None, source_revision=None):
     """Replay the immutable trial reports; later edits need a new review candidate."""
     folder = Path(folder)
+    if (folder / 'session-processing-data.json').is_file():
+        from session_processing import audit_reviews, validate_processing
+        data = read(folder / 'session.json')
+        processing = read(folder / 'session-processing-data.json')
+        if data.get('schemaVersion') == 6:
+            if source_revision:
+                raise ValueError('v6 inputs are bound by YAML and processing fingerprints, not the v5 snapshot option')
+            catalog = validate(data, vault, processing=processing)['catalog']
+            validate_processing(data, processing, vault, catalog, complete=True)
+            if audit_reviews(processing, vault) != data:
+                raise ValueError('Published session differs from its reviewed candidate chain')
+            if selection is not None:
+                source = catalog.sources[catalog.bundle['sourceId']]
+                if selection['manifest'] != data['sessionYaml'] or selection['inputs'] != processing['inputs'] or selection['sha256'] != source['sha256']:
+                    raise ValueError('Published execution does not match sampled YAML/source inputs')
+            findings = {}
+            for record in processing['reviews']:
+                findings.update({d['target']: d['reason'] for d in record['report']['decisions']})
+            return data, findings
     data = read(folder / 'extraction.json')
     reports = sorted(folder.glob('review-decisions-*.json'))
     if not reports or len(reports) > 2:
@@ -27,41 +65,7 @@ def audit_chain(folder, vault, selection=None, source_revision=None):
             raise ValueError('Review attempt sequence is incomplete or repeated')
         if attempt:
             corrected = read(folder / 'correction-candidate.json')
-            for key in ['schemaVersion', 'campaign', 'session', 'sources']:
-                if corrected[key] != data[key]:
-                    raise ValueError(f'Correction changed execution identity/source: {key}')
-            # Changed claims must be explicitly reassessed, not inherit old approval.
-            targets = {d['target'] for d in report['decisions']}
-            for key in ['review', 'sceneReview']:
-                if corrected.get(key) != data.get(key):
-                    raise ValueError('Correction cannot change review states directly')
-            ignored = {'review', 'sceneReview', 'entities', 'interactions', 'scenes'}
-            if {k:v for k,v in corrected.items() if k not in ignored} != {k:v for k,v in data.items() if k not in ignored}:
-                if data.get('review', {}).get('status') == 'humanReviewed':
-                    raise ValueError('Correction cannot overwrite human-reviewed metadata')
-                if 'session' not in targets:raise ValueError('Metadata correction lacks session reassessment')
-            if corrected.get('scenes') != data.get('scenes'):
-                if data.get('sceneReview', {}).get('status') == 'humanReviewed':
-                    raise ValueError('Correction cannot overwrite human-reviewed scenes')
-                if 'scenes' not in targets:raise ValueError('Scene correction lacks collection reassessment')
-            removed = set()
-            for collection, prefix in [('entities', 'entity:'), ('interactions', 'interaction:')]:
-                old = {r['id']:r for r in data.get(collection, [])}
-                new = {r['id']:r for r in corrected.get(collection, [])}
-                for rid, record in old.items():
-                    if record.get('review', {}).get('status') == 'humanReviewed' and new.get(rid) != record:
-                        raise ValueError(f'Correction cannot overwrite human-reviewed record: {prefix}{rid}')
-                    if rid in new and record.get('review') != new[rid].get('review'):
-                        raise ValueError('Correction cannot change review states directly')
-                removed.update(prefix + rid for rid in old.keys() - new.keys())
-                for rid, record in new.items():
-                    if record != old.get(rid) and prefix + rid not in targets:
-                        raise ValueError(f'Correction lacks reassessment: {prefix}{rid}')
-            removals = report.get('removals', [])
-            if len(removals) != len(removed) or {r['target'] for r in removals} != removed:
-                raise ValueError('Removed records require explicit removal decisions')
-            for removal in removals:
-                check_evidence(removal, validate(data, vault, source_revision)['catalog'], vault)
+            check_correction(data, corrected, report, vault, source_revision)
             data = corrected
         data = apply_review(data, report, vault, source_revision=source_revision)
         findings.update({d['target']:d['reason'] for d in report['decisions']})
@@ -103,25 +107,35 @@ def build(vault, sample, results, output, source_revision=None, exclusions=None)
     lines += ['| Session | NPCs | Items | Organizations | Provisional entities | Session metadata | Source |',
               '| --- | --- | --- | --- | --- | --- | --- |']
     for selection in sample['selected']:
-        folder = Path(results) / selection['id']
         row = {'id':selection['id'], 'status':'pending'}
+        try:
+            folder = result_folder(vault, selection, results)
+        except (ValueError, KeyError, OSError, yaml.YAMLError) as error:
+            row.update(status='invalid', error=str(error))
+            rows.append(row)
+            lines.append(f'| {selection["id"]} | — | — | — | — | Invalid YAML output pointer | {str(error).replace("|", "/")} |')
+            continue
         if (folder / 'session.json').exists():
             try:
                 data, findings = audit_chain(folder, vault, selection, source_revision)
-                checks = validate(data, vault, source_revision)
+                processing = read(folder / 'session-processing-data.json') if data.get('schemaVersion') == 6 else None
+                checks = validate(data, vault, source_revision, processing)
                 catalog = checks.pop('catalog')
                 excluded = exclusions.get(selection['id'], {})
                 entities = review_entities(data, excluded)
                 observations = read(folder / 'independent-audit.json').get('findings', []) if (folder / 'independent-audit.json').exists() else []
-                cards = render(data, vault, folder / 'review.md', findings, source_revision, excluded, observations)
+                cards = render(data, vault, folder / 'review.md', findings, source_revision, excluded, observations, processing)
+                if processing and (folder / 'review.md').exists() and (folder / 'review.md').read_text() != cards:
+                    raise ValueError('Existing v6 review differs from generated output; preserve it and write a review candidate')
                 (folder / 'review.md').write_text(cards)
-                queue = critical_queue(data)
+                queue = critical_queue(data, processing)
                 for item in queue:item['reason'] = findings.get(item['target'], item['reason'])
                 (folder / 'queue.json').write_text(json.dumps(queue, ensure_ascii=False, indent=2) + '\n')
                 counts = [len(data.get(k, [])) for k in ['scenes','entities','interactions']]
                 row.update(status='reviewed', counts=counts, checks=checks, criticalQueue=queue,
                            displayedEntities=len(entities), excludedEntities=excluded, currentSourceChanged=bool(catalog.current_changed))
-                title = f'{campaign_name(data, vault)} {data["session"]}'
+                metadata = catalog.display_metadata() if processing else data
+                title = f'{campaign_name(metadata, vault)} {metadata["session"]}'
                 kind_counts = [sum(e['kind'] == k for e in entities) for k in ['npc','item','organization']]
                 state = 'High · reviewed' if checks['metadataReady'] else data.get('review', {}).get('confidence', 'unknown').capitalize() + ' · provisional'
                 source_state = '**Changed since review**' if catalog.current_changed else 'Unchanged'
@@ -144,7 +158,8 @@ def build(vault, sample, results, output, source_revision=None, exclusions=None)
               '- Are the featured quotes useful, and are review questions easy to resolve?', '',
               '## Entity directory', '', '**(?)** marks a provisional entity. Names link directly to its review entry.', '', *directory,
               '<details>', '<summary>Sampling and validation details</summary>', '',
-              f'Schema v5. Seed `{sample["seed"]}`; {len(sample["selected"])} sessions selected without replacement from {len(sample["population"])} available transcripts, across the available campaigns.', '',
+              f'Seed `{sample["seed"]}`; {len(sample["selected"])} sessions selected without replacement from {len(sample["population"])} available transcripts, across the available campaigns. Each file declares its schema version.', '',
+              sample.get('method', ''), '',
               f'**{sum(r["status"]=="reviewed" for r in rows)}/{len(rows)} execution chains verified**' + (' against the reviewed transcript snapshot.' if source_revision else '.'), '',
               'Saved confidence and review states are unchanged. Passing the audit does not resolve provisional facts or constitute a new semantic review. Display exclusions are presentation choices; they do not rewrite the original extraction or its review history.', '',
               'Agents performed extraction and semantic review; Python validates and renders their records. Existing beats were optional review hints. This trial does not measure autonomous API cost or calibrated confidence.', '',
