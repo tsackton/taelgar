@@ -7,8 +7,8 @@
 [u0007 | 00:00:27.600-00:00:31.950 | DM] end up in a in your next meeting as di always end up with meetings with usps with my.
 [u0008 | 00:00:32.040-00:00:33.330 | Delwath] end but.
 [u0009 | 00:00:36.150-00:00:38.430 | Delwath] Except for D&D and meetings with one customer.
-[u0010 | 00:00:40.050-00:00:57.600 | Iascaire] By my sister and her and her partner or both, lawyers and they have a dog named maisie and they were having like a friend get together over zoom info head and they changed their screen name to macy's moms and then went into a very important player meeting with that as.
-[u0011 | 00:00:59.910-00:01:04.110 | DM] I just show up to my meetings, but we are D&D backgrounds.
+[u0010 | 00:00:40.050-00:00:57.600 | Iascaire] My my sister and her and her partner are both lawyers and they have a dog named maisie and they were having like a friend get together over zoom info head and they changed their screen name to macy's moms and then went into a very important player meeting with that as.
+[u0011 | 00:00:59.910-00:01:04.110 | DM] I just show up to my meetings, with weird D&D backgrounds.
 [u0012 | 00:01:05.550-00:01:07.710 | Iascaire] Where do you do the name change have ever done.
 [u0013 | 00:01:08.550-00:01:11.010 | Delwath] Just right click on your picture and say rename.
 [u0014 | 00:01:18.150-00:01:18.600 | DM] Okay.
@@ -33,9 +33,9 @@
 [u0033 | 00:04:21.510-00:04:23.790 | Delwath] Delwath is an elf.
 [u0034 | 00:04:25.680-00:04:33.360 | Delwath] He is wearing so he comes approaching the camp guided by another Deno'qai.
 [u0035 | 00:04:34.590-00:04:35.490 | Delwath] And he seems.
-[u0036 | 00:04:36.570-00:04:42.570 | Delwath] eager why he's he's been pushing to get to this camp and start this journey into the forest.
+[u0036 | 00:04:36.570-00:04:42.570 | Delwath] eager, like he's he's been pushing to get to this camp and start this journey into the forest.
 [u0037 | 00:04:43.830-00:04:47.850 | Delwath] He doesn't seem to visibly be carrying any weapons, but he's.
-[u0038 | 00:04:49.140-00:04:55.620 | Delwath] He has this black Armor that has like shadows swirling around it i'm in a big black.
+[u0038 | 00:04:49.140-00:04:55.620 | Delwath] He has this black Armor that has like shadows swirling around it um and a big black.
 [u0039 | 00:04:57.990-00:05:05.910 | Delwath] Oh no wait wait wait wait he doesn't have that anymore I forgot he has totally different forget all that he's wearing a.
 [u0040 | 00:05:07.470-00:05:10.710 | Delwath] He doesn't really like at first glance, he doesn't really seem to be wearing Armor at all.
 [u0041 | 00:05:12.660-00:05:20.790 | Delwath] he's wearing like some like a heavy coat to sort of keep off the chill and you could see like, if you look closely that actually his.
@@ -64,12 +64,12 @@
 [u0064 | 00:08:02.040-00:08:14.280 | Aristaea] Is Notable among the camp for size being Stoneborn sort of looms over the rest of the crowd although, as you said just seated at the campfire um.
 [u0065 | 00:08:15.900-00:08:23.130 | Aristaea] But standing you know held up in her hand is her long spear.
 [u0066 | 00:08:24.240-00:08:28.320 | Aristaea] Massive to to suit her size and her armor.
-[u0067 | 00:08:30.120-00:08:35.640 | Aristaea] stands out, you know {{bell caps your pride}} in the in the workmanship of.
+[u0067 | 00:08:30.120-00:08:35.640 | Aristaea] stands out, you know bell caps your pride in the in the workmanship of.
 [u0068 | 00:08:36.900-00:08:37.740 | Aristaea] The Armor.
 [u0069 | 00:08:39.360-00:08:40.200 | Aristaea] That is.
 [u0070 | 00:08:41.490-00:08:47.730 | Aristaea] You know colors of the of the fall forest, you know and.
-[u0071 | 00:08:49.500-00:08:49.800 | Aristaea] {{Eric}}.
-[u0072 | 00:08:50.940-00:08:59.910 | Aristaea] {{says a hair}} skin itself is this bluish Gray, so it offsets this you know golden green Armor and.
+[u0071 | 00:08:49.500-00:08:49.800 | Aristaea] Eric.
+[u0072 | 00:08:50.940-00:08:59.910 | Aristaea] her skin itself is this bluish Gray, so it offsets this you know golden green Armor and.
 [u0073 | 00:09:01.440-00:09:03.450 | Aristaea] She is.
 [u0074 | 00:09:05.700-00:09:11.940 | Aristaea] Looking very you know at ease in the forest, despite the proximity.
 [u0075 | 00:09:13.470-00:09:18.000 | Aristaea] is familiar territory territory for her being around the.
@@ -83,7 +83,7 @@
 [u0083 | 00:10:20.970-00:10:21.300 | DM] You know.
 [u0084 | 00:10:22.590-00:10:26.850 | DM] Aristaea has has sort of sketched out this map and that's that's where you are.
 [u0085 | 00:10:26.940-00:10:38.160 | Delwath] Okay, so I mean Delwath will come into camp sort of an look around and and sort of immediately, I presume that the two of them are like the most obvious like.
-[u0086 | 00:10:38.190-00:10:44.070 | DM] yeah and your guide and pointed them out like they're the you've heard you've heard sort of stories {{and fabric}} you've heard.
+[u0086 | 00:10:38.190-00:10:44.070 | DM] yeah and your guide and pointed them out like they're the you've heard you've heard sort of stories and fabric you've heard.
 [u0087 | 00:10:45.480-00:10:51.570 | Delwath] So he'll introduce himself like just sort of simply as he'll introduce himself as Delwath.
 [u0088 | 00:10:52.740-00:10:53.490 | Delwath] An Elf.
 [u0089 | 00:10:56.010-00:10:59.490 | Delwath] And then he'll tell you sort of a brief story about how he's recently.
@@ -96,11 +96,11 @@
 [u0096 | 00:11:32.580-00:11:33.810 | Delwath] He seems very.
 [u0097 | 00:11:37.020-00:11:43.500 | Delwath] he's very personable like i'm not doing a good job being personable right now he's he's very like.
 [u0098 | 00:11:44.520-00:11:46.740 | Delwath] He seems very animated and.
-[u0099 | 00:11:48.060-00:11:51.300 | Delwath] {{Why can eat way}} he would be easy to talk to, and just sort of.
+[u0099 | 00:11:48.060-00:11:51.300 | Delwath] Like, in a way, he would be easy to talk to, and just sort of.
 [u0100 | 00:11:52.920-00:11:55.980 | Delwath] Not like a leader, exactly, but like just he's he's clearly.
 [u0101 | 00:11:57.780-00:12:05.310 | Delwath] passionate about passionate about this mission and kind of spills out in a way that that feels somewhat compelling he has a 20 Charisma.
 [u0102 | 00:12:08.880-00:12:10.920 | Iascaire] Are we expecting him at this or like.
-[u0103 | 00:12:13.110-00:12:23.580 | DM] yeah I mean you you've you've heard that there's an elf you've heard that there's an elf and in Camp you know arrived {{within a few days and another village}} and so news that spread a little bit.
+[u0103 | 00:12:13.110-00:12:23.580 | DM] yeah I mean you you've you've heard that there's an elf you've heard that there's an elf and in Camp you know arrived within a few days in another village and so news that spread a little bit.
 [u0104 | 00:12:24.330-00:12:37.380 | DM] And that this elf is somehow connected to these these armbands and that's that's why you've gathered I mean you have had some experience with these before as well, but so you've been sort of waiting waiting for him.
 [u0105 | 00:12:39.390-00:12:46.260 | DM] This is this is sort of the news that's prompted you to kind of gather for this mission is that this elf might have some.
 [u0106 | 00:12:47.610-00:12:50.130 | DM] More information about what's going on.
@@ -115,12 +115,12 @@
 [u0115 | 00:13:30.900-00:13:33.390 | Iascaire] When a warrior touched it he vanished.
 [u0116 | 00:13:36.120-00:13:38.310 | Iascaire] have a sense of how to destroy them but.
 [u0117 | 00:13:39.780-00:13:43.200 | Iascaire] It hasn't done any good yet, I feel like I might be missing a piece.
-[u0118 | 00:13:44.100-00:13:46.290 | Delwath] {{of you, we}} are you the one who destroyed them.
+[u0118 | 00:13:44.100-00:13:46.290 | Delwath] of you, we are you the one who destroyed them.
 [u0119 | 00:13:47.850-00:13:48.450 | Iascaire] Yes.
-[u0120 | 00:13:48.510-00:13:49.800 | Delwath] {{There was to destroy}}.
+[u0120 | 00:13:48.510-00:13:49.800 | Delwath] There was to destroy.
 [u0121 | 00:13:52.230-00:13:53.520 | Delwath] Destroy circlets.
 [u0122 | 00:13:55.290-00:13:56.310 | Delwath] You both.
-[u0123 | 00:13:58.110-00:13:58.530 | Iascaire] straight.
+[u0123 | 00:13:58.110-00:13:58.530 | Iascaire] That’s right.
 [u0124 | 00:14:00.360-00:14:01.170 | Delwath] Delwath sort of.
 [u0125 | 00:14:02.460-00:14:04.140 | Delwath] bows slightly to you.
 [u0126 | 00:14:07.980-00:14:09.120 | Delwath] I owe you a great debt.
@@ -128,7 +128,7 @@
 [u0128 | 00:14:15.270-00:14:18.210 | Iascaire] That is that is really interesting.
 [u0129 | 00:14:20.310-00:14:27.300 | Iascaire] I saw no real difference when I destroyed them, I wonder what the other one did.
 [u0130 | 00:14:28.170-00:14:31.500 | Delwath] I suspect I I fell from the sky.
-[u0131 | 00:14:32.940-00:14:34.920 | Delwath] thousand miles or more, the South of here.
+[u0131 | 00:14:32.940-00:14:34.920 | Delwath] thousand miles or more, to the South of here.
 [u0132 | 00:14:38.340-00:14:40.770 | Delwath] On the day you destroyed the circlets.
 [u0133 | 00:14:42.360-00:14:45.960 | Delwath] I suspect what was her name was her name TIM.
 [u0134 | 00:14:47.310-00:14:48.750 | DM] I don't know if I wrote this.
@@ -172,7 +172,7 @@
 [u0172 | 00:18:01.020-00:18:01.380 | Unknown] system.
 [u0173 | 00:18:02.460-00:18:05.280 | Delwath] I forgot to mention, we were all very near death when we touch these.
 [u0174 | 00:18:06.030-00:18:06.420 | Unknown] Okay.
-[u0175 | 00:18:07.470-00:18:16.830 | DM] So if you're not if you still have double digit hit points you're not going to be randomly sucked off to a shadow realm just be careful about touching them if you're super {{on out}}.
+[u0175 | 00:18:07.470-00:18:16.830 | DM] So if you're not if you still have double digit hit points you're not going to be randomly sucked off to a shadow realm just be careful about touching them if you're super worn out.
 [u0176 | 00:18:24.180-00:18:25.560 | Delwath] You know kids talk to.
 [u0177 | 00:18:26.370-00:18:27.300 | DM] Dr nathaniel.
 [u0178 | 00:18:30.450-00:18:32.610 | Delwath] What is it morning evening what's the.
@@ -193,10 +193,10 @@
 [u0193 | 00:19:37.050-00:19:38.640 | DM] yeah, this is a map that.
 [u0194 | 00:19:40.350-00:19:41.490 | DM] Aristaea was.
 [u0195 | 00:19:43.200-00:19:46.110 | Aristaea] I was, I was going to share my.
-[u0196 | 00:19:47.370-00:19:48.870 | Aristaea] Experience with {{Sri}}.
+[u0196 | 00:19:47.370-00:19:48.870 | Aristaea] Experience with three.
 [u0197 | 00:19:50.040-00:19:51.630 | Aristaea] sits near the river is, I believe.
 [u0198 | 00:19:53.400-00:19:55.530 | Iascaire] yeah i've been into the forest before TIM.
-[u0199 | 00:19:56.190-00:20:03.150 | DM] you've probably {{southerners to read}}, most of the battles were fought between these two rivers that K'eye and then Yemo'te.
+[u0199 | 00:19:56.190-00:20:03.150 | DM] you've probably southernmost river, most of the battles were fought between these two rivers that K'eye and then Yemo'te.
 [u0200 | 00:20:04.320-00:20:11.130 | DM] you've probably been down that road, I at least just following the river, you know.
 [u0201 | 00:20:12.750-00:20:23.730 | DM] Yet, but I don't know you could have spent some time in the forest, you probably would know that like if you spend too long in one place, like the shadows begin to gather.
 [u0202 | 00:20:25.500-00:20:27.180 | DM] So you have to keep moving.
@@ -214,18 +214,18 @@
 [u0214 | 00:22:06.720-00:22:11.940 | DM] A bit pointlessly difficult, you can go at least three nights without even having to make Con saves.
 [u0215 | 00:22:17.550-00:22:21.240 | DM] Just in case you end up traveling further.
 [u0216 | 00:22:23.220-00:22:28.230 | Delwath] Right it's quite it's quite we have horses would horses be.
-[u0217 | 00:22:28.440-00:22:30.480 | DM] Horses aren't going to make {{a goat}} make you go.
+[u0217 | 00:22:28.440-00:22:30.480 | DM] Horses aren't going to make you go make you go.
 [u0218 | 00:22:30.660-00:22:32.220 | Unknown] Faster it's too.
 [u0219 | 00:22:34.650-00:22:39.240 | DM] But Aristaea's Pike does like keep the forest.
 [u0220 | 00:22:40.800-00:22:47.790 | DM] away, you know it's basically let the magically ignore difficult terrain, so you can at least move at a normal pace, you can do.
 [u0221 | 00:22:48.810-00:22:54.870 | DM] 20 to 30 miles a day in eight hours that you could certainly go travel for longer than eight hours.
 [u0222 | 00:23:00.240-00:23:07.800 | DM] I mean again you're all pretty high level adventurers, and two of you have nature can nature connection so.
-[u0223 | 00:23:08.910-00:23:16.380 | DM] {{Years you've trapped}}, you can travel and forests more efficiently than a normal person could yeah.
+[u0223 | 00:23:08.910-00:23:16.380 | DM] You've trav— you can travel in forests more efficiently than a normal person could yeah.
 [u0224 | 00:23:29.430-00:23:38.970 | Aristaea] So I understand that now, now that you've mentioned Yezali I understand that you are particularly interested in the.
 [u0225 | 00:23:40.860-00:23:49.230 | Aristaea] battle of Dark Fire site, you see that we are currently here on this map you see that we are currently closer to the.
 [u0226 | 00:23:50.190-00:23:50.550 | Unknown] Yes.
 [u0227 | 00:23:52.050-00:24:01.050 | Aristaea] And i'm that town also when I passed by it cries out for help it's.
-[u0228 | 00:24:03.180-00:24:14.130 | Aristaea] I won't say haunted per se but it's sort of timeless {{the mired I}} it's, though, I see a sign of.
+[u0228 | 00:24:03.180-00:24:14.130 | Aristaea] I won't say haunted per se but it's sort of timeless the mired I it's, though, I see a sign of.
 [u0229 | 00:24:15.240-00:24:20.430 | Aristaea] habitation ragged old clothing hung to dry, or you know.
 [u0230 | 00:24:21.570-00:24:28.590 | Aristaea] bones by the fire, it seems like there's a residue of village life but it's all death and decay.
 [u0231 | 00:24:31.140-00:24:32.310 | Delwath] Well, let's go there first.
@@ -305,13 +305,13 @@
 [u0305 | 00:31:14.880-00:31:17.520 | Delwath] will wait till we get a little closer to do anything.
 [u0306 | 00:31:18.330-00:31:18.780 | Unknown] Okay.
 [u0307 | 00:31:20.550-00:31:22.440 | DM] So you.
-[u0308 | 00:31:23.550-00:31:27.330 | DM] You know, as you approach {{to sort of come see out}}.
+[u0308 | 00:31:23.550-00:31:27.330 | DM] You know, as you approach to sort of come see out.
 [u0309 | 00:31:32.880-00:31:33.570 | DM] You see.
 [u0310 | 00:31:36.450-00:31:38.730 | DM] Are these are you seeing the map.
 [u0311 | 00:31:39.090-00:31:40.380 | Iascaire] yeah a village.
 [u0312 | 00:31:41.760-00:31:41.940 | Iascaire] yeah.
 [u0313 | 00:31:43.680-00:31:49.440 | DM] yeah you see this is this is kind of what you see coming from the coming from the.
-[u0314 | 00:31:51.150-00:31:54.870 | DM] The East so well throw your.
+[u0314 | 00:31:51.150-00:31:54.870 | DM] The East so I’ll throw your.
 [u0315 | 00:31:57.210-00:31:58.830 | DM] characters on here.
 [u0316 | 00:32:01.200-00:32:12.150 | DM] And you can put yourself in whatever order makes sense, but this is the you know the the village, as you approach it looks.
 [u0317 | 00:32:13.350-00:32:14.970 | DM] So it looks like.
@@ -333,7 +333,7 @@
 [u0333 | 00:34:36.180-00:34:53.910 | DM] Where bones have been piled and somebody is like try it looks like somebody smoking meat but there's no meat to smoke and there's no fuel to produce a fire it's like you, you see little things around the village like little echoes of.
 [u0334 | 00:34:57.270-00:35:00.180 | DM] village life but that are somehow.
 [u0335 | 00:35:01.950-00:35:03.270 | DM] twisted and.
-[u0336 | 00:35:07.530-00:35:11.610 | DM] sort of it not not actual village life pale shadow {{we actually}}.
+[u0336 | 00:35:07.530-00:35:11.610 | DM] sort of it not not actual village life pale shadow we actually.
 [u0337 | 00:35:21.240-00:35:22.950 | Iascaire] Have you seen these before.
 [u0338 | 00:35:24.270-00:35:24.930 | Iascaire] These.
 [u0339 | 00:35:26.670-00:35:31.590 | Iascaire] twisted versions, it looks like someone's here, but not.
@@ -342,8 +342,8 @@
 [u0342 | 00:35:42.150-00:35:44.820 | Aristaea] Would either of you care for.
 [u0343 | 00:35:45.840-00:35:46.560 | Aristaea] me to.
 [u0344 | 00:35:47.670-00:35:53.040 | Aristaea] evoke the mountain and give you a protective blessing.
-[u0345 | 00:35:54.450-00:36:02.280 | Aristaea] i'm not sure if either of you feels so strong such a thing would be no use {{for it, he would}}.
-[u0346 | 00:36:03.330-00:36:05.010 | Aristaea] {{Given piece is}}.
+[u0345 | 00:35:54.450-00:36:02.280 | Aristaea] i'm not sure if either of you feels so strong such a thing would be no use for it, he would.
+[u0346 | 00:36:03.330-00:36:05.010 | Aristaea] Given piece is.
 [u0347 | 00:36:06.090-00:36:06.750 | Aristaea] Energy.
 [u0348 | 00:36:08.580-00:36:11.430 | Delwath] I don't I would never say no to a protective blessing.
 [u0349 | 00:36:13.410-00:36:14.460 | Iascaire] Yes, same for me.
@@ -358,9 +358,9 @@
 [u0358 | 00:37:14.700-00:37:15.840 | Aristaea] I know I know.
 [u0359 | 00:37:17.010-00:37:17.430 | Aristaea] i'm.
 [u0360 | 00:37:19.110-00:37:19.800 | Aristaea] I was gonna.
-[u0361 | 00:37:22.230-00:37:36.300 | Aristaea] I was, but I was sort of hinting at was I don't know this party is either of the lower armor class or anything like that we are pretty {{Lucy}}.
+[u0361 | 00:37:22.230-00:37:36.300 | Aristaea] I was, but I was sort of hinting at was I don't know this party is either of the lower armor class or anything like that we are pretty beefy.
 [u0362 | 00:37:37.380-00:37:40.470 | Iascaire] i'm i'm beefier than I look for sure.
-[u0363 | 00:37:45.690-00:37:48.510 | Aristaea] I think i'm gonna {{bust out}} with that I don't think {{he's here with me looks}}.
+[u0363 | 00:37:45.690-00:37:48.510 | Aristaea] I think i'm gonna bless Delwath with that. I don't think he's beefier than he looks.
 [u0364 | 00:37:49.980-00:37:53.670 | Delwath] um yeah that Delwath is reasonably beefy but I mean he doesn't.
 [u0365 | 00:37:55.320-00:37:59.610 | Delwath] yeah I don't know who has better wisdom, who has better I probably mostly wisdom saves.
 [u0366 | 00:38:01.500-00:38:01.980 | Delwath] For.
@@ -371,13 +371,13 @@
 [u0371 | 00:38:19.830-00:38:20.760 | Iascaire] How close.
 [u0372 | 00:38:21.810-00:38:22.800 | DM] Within 10 feet.
 [u0373 | 00:38:23.880-00:38:26.790 | DM] So two squares, as long as you're no more than two squares away.
-[u0374 | 00:38:28.680-00:38:31.530 | Delwath] {{Here in Toronto}} area attacks perfect.
+[u0374 | 00:38:28.680-00:38:31.530 | Delwath] Here in Toronto area attacks perfect.
 [u0375 | 00:38:32.160-00:38:32.790 | Iascaire] yeah right.
 [u0376 | 00:38:34.050-00:38:34.260 | Aristaea] well.
 [u0377 | 00:38:34.590-00:38:37.560 | DM] The trick with paladin right you got to choose, if you want to.
 [u0378 | 00:38:37.560-00:38:38.010 | Delwath] Be yep.
 [u0379 | 00:38:40.950-00:38:41.910 | Unknown] You can't do that.
-[u0380 | 00:38:48.510-00:38:51.600 | Iascaire] {{They tend that}} that knife counts is my focus at this point right.
+[u0380 | 00:38:48.510-00:38:51.600 | Iascaire] Hey Tim, that that knife counts is my focus at this point right.
 [u0381 | 00:38:52.140-00:38:52.380 | Unknown] yeah.
 [u0382 | 00:38:55.350-00:38:58.140 | DM] Can you can you see the blue aura around.
 [u0383 | 00:38:59.670-00:39:00.060 | Iascaire] No.
@@ -389,7 +389,7 @@
 [u0389 | 00:39:12.060-00:39:12.900 | DM] See the blue aura.
 [u0390 | 00:39:13.320-00:39:14.220 | Iascaire] Yours on.
 [u0391 | 00:39:15.750-00:39:22.320 | DM] As long as you're within that aura you get the plus three to saves and resisting the damage from spells.
-[u0392 | 00:39:23.070-00:39:25.020 | Iascaire] {{have encountered slowly}}.
+[u0392 | 00:39:23.070-00:39:25.020 | Iascaire] Half counts, or.
 [u0393 | 00:39:25.710-00:39:29.520 | DM] Ah yes, this half counts, so that square counts.
 [u0394 | 00:39:29.640-00:39:30.030 | Unknown] yeah.
 [u0395 | 00:39:31.830-00:39:32.160 | Iascaire] we'll have.
@@ -418,7 +418,7 @@
 [u0418 | 00:41:06.270-00:41:07.560 | DM] With the aura plus three.
 [u0419 | 00:41:19.560-00:41:23.550 | Iascaire] is taking a minute on my little laggy with the.
 [u0420 | 00:41:27.120-00:41:28.380 | DM] No, no that's weird.
-[u0421 | 00:41:32.280-00:41:35.280 | Iascaire] Sorry, one second see if I can {{play soccer}} something.
+[u0421 | 00:41:32.280-00:41:35.280 | Iascaire] Sorry, one second see if I can play soccer something.
 [u0422 | 00:41:36.180-00:41:37.800 | Delwath] Are you using the digital dice.
 [u0423 | 00:41:38.250-00:41:41.040 | Iascaire] It seems like it, you know how to turn them off.
 [u0424 | 00:41:41.490-00:41:42.000 | DM] and
@@ -432,9 +432,9 @@
 [u0432 | 00:42:15.030-00:42:20.490 | DM] You are currently incapacitated and hold on one SEC.
 [u0433 | 00:42:21.540-00:42:22.410 | DM] where's my target.
 [u0434 | 00:42:29.970-00:42:30.390 | DM] Like.
-[u0435 | 00:42:31.410-00:42:42.030 | DM] {{emerging from}} zoom a little bit kind of kind of standing up from a corner, as the two of you sort of step through this doorway.
+[u0435 | 00:42:31.410-00:42:42.030 | DM] emerging from zoom a little bit kind of kind of standing up from a corner, as the two of you sort of step through this doorway.
 [u0436 | 00:42:43.860-00:42:44.400 | DM] well.
-[u0437 | 00:42:45.690-00:42:57.930 | DM] Aristaea's eyes kind of glaze over and she and she likes stops moving suddenly you see kind of like pulling itself out of the shadows and was detaching from the wall i'm a.
+[u0437 | 00:42:45.690-00:42:57.930 | DM] Aristaea's eyes kind of glaze over and she and she likes stops moving suddenly you see kind of like pulling itself out of the shadows almost detaching from the wall i'm a.
 [u0438 | 00:43:02.160-00:43:13.740 | DM] creature of sorts that looks it looks it's it has almost no face it just has sort of eyes in shadows and it has.
 [u0439 | 00:43:16.890-00:43:18.390 | DM] whoops where's my dice here.
 [u0440 | 00:43:24.780-00:43:30.630 | DM] It doesn't need its eyes are like blackened and sort of like it's almost like it can't see at all, they're like just.
@@ -487,7 +487,7 @@
 [u0487 | 00:48:52.290-00:48:52.890 | Iascaire] I know.
 [u0488 | 00:48:54.180-00:48:54.450 | Iascaire] yeah.
 [u0489 | 00:48:55.170-00:48:56.820 | Delwath] i'll charge and attack.
-[u0490 | 00:49:04.530-00:49:06.150 | Delwath] I see my 26 hits.
+[u0490 | 00:49:04.530-00:49:06.150 | Delwath] I assume my 26 hits.
 [u0491 | 00:49:06.420-00:49:06.750 | Unknown] yeah.
 [u0492 | 00:49:10.920-00:49:13.110 | Delwath] That doesn't add my.
 [u0493 | 00:49:16.020-00:49:16.950 | DM] The extra radiant.
@@ -540,7 +540,7 @@
 [u0540 | 00:53:24.900-00:53:25.980 | DM] Well, you get two attacks.
 [u0541 | 00:53:26.730-00:53:30.390 | Aristaea] Oh, thank you, oh that's nice yeah i'll try again then.
 [u0542 | 00:53:33.600-00:53:34.770 | DM] That also misses.
-[u0543 | 00:53:36.030-00:53:37.440 | Delwath] {{shirts was not 13}}.
+[u0543 | 00:53:36.030-00:53:37.440 | Delwath] Sure it was not 13.
 [u0544 | 00:53:40.890-00:53:41.370 | DM] Ah.
 [u0545 | 00:53:43.410-00:53:50.550 | DM] Sorry, this is why initiative was useful, so it went, then you went, then it went then Aristaea went so.
 [u0546 | 00:53:50.550-00:53:51.360 | Delwath] Now it's back to you.
@@ -564,7 +564,7 @@
 [u0564 | 00:54:55.470-00:54:57.180 | DM] flicker and flickering of fire.
 [u0565 | 00:55:02.550-00:55:06.780 | DM] As it collapses right you get to do something when when a creature dies.
 [u0566 | 00:55:07.350-00:55:22.680 | Iascaire] He saw a little so that big fire that i've just sent out of my hands engulfs it it crashes to the ground and just like a little sort of wispy looking flame is sitting over top.
-[u0567 | 00:55:24.630-00:55:34.500 | DM] I say I guess that's {{side you}}, you can only do it four times per long rest, so you don't know need to have not trying to force you to use it, I thought it was automatics.
+[u0567 | 00:55:24.630-00:55:34.500 | DM] I say I guess that's side you, you can only do it four times per long rest, so you don't know need to have not trying to force you to use it, I thought it was automatics.
 [u0568 | 00:55:34.590-00:55:41.940 | Iascaire] Right Well, no, he took some damage so i'll say yeah i'll say Delwath you can step step into that it will it will heal you.
 [u0569 | 00:55:43.290-00:55:45.060 | Delwath] Okay i'll i'll.
 [u0570 | 00:55:46.080-00:55:46.830 | Delwath] step into it.
@@ -573,14 +573,14 @@
 [u0573 | 00:55:57.210-00:55:59.760 | Iascaire] five plus a d8.
 [u0574 | 00:56:00.990-00:56:01.350 | DM] d8.
 [u0575 | 00:56:01.410-00:56:03.480 | Iascaire] Oh, I guess that's not a spell is it that would be.
-[u0576 | 00:56:04.440-00:56:08.460 | DM] No, no yeah it doesn't count for a year, it your {{emboldening}} your.
-[u0577 | 00:56:08.520-00:56:09.690 | Iascaire] It doesn't help with your {{head}}.
+[u0576 | 00:56:04.440-00:56:08.460 | DM] No, no yeah it doesn't count for a year, it your emboldening your.
+[u0577 | 00:56:08.520-00:56:09.690 | Iascaire] It doesn't help with your head.
 [u0578 | 00:56:09.690-00:56:11.160 | DM] Enhanced Bond doesn't help.
 [u0579 | 00:56:11.550-00:56:13.410 | DM] Because it's not a spell it just.
 [u0580 | 00:56:13.650-00:56:13.980 | Iascaire] Just.
 [u0581 | 00:56:14.460-00:56:23.340 | Iascaire] Just 2d8, plus 10, 16 back.
 [u0582 | 00:56:26.490-00:56:28.440 | Delwath] That is very useful, thank you.
-[u0583 | 00:56:28.590-00:56:44.130 | DM] And as you as you step into this flame Delwath, you {{set}} you feel for a moment you feel this sort of wave of deep sadness and you, you feel the the memories or the spirit of something some.
+[u0583 | 00:56:28.590-00:56:44.130 | DM] And as you as you step into this flame Delwath, you set you feel for a moment you feel this sort of wave of deep sadness and you, you feel the the memories or the spirit of something some.
 [u0584 | 00:56:46.170-00:56:55.590 | DM] warrior long ago, looking at these looking at hobgoblin starting to come out of this shadow realm i'm seeing.
 [u0585 | 00:56:57.330-00:57:17.460 | DM] The spirits of the tanshi begin to inhabit the godcaller and him to transform into this giant beast and then just this wave of despair and then blackness nothingness until this moment when you when you feel the spirit sort of being released into the afterlife.
 [u0586 | 00:57:19.260-00:57:22.350 | DM] By the by them cleansing magic of.
@@ -597,7 +597,7 @@
 [u0597 | 00:58:14.100-00:58:17.430 | DM] Your best intuition, is probably a dead body.
 [u0598 | 00:58:19.110-00:58:19.410 | Delwath] Wait.
 [u0599 | 00:58:21.630-00:58:23.280 | DM] Okay, I mean it.
-[u0600 | 00:58:23.820-00:58:25.800 | DM] {{wasn't yours}}, the dead body is.
+[u0600 | 00:58:23.820-00:58:25.800 | DM] wasn't yours, the dead body is.
 [u0601 | 00:58:25.800-00:58:27.240 | Delwath] Not i'm not gonna look like.
 [u0602 | 00:58:27.810-00:58:30.990 | Delwath] But wait yeah there's not I mean is there, like disturbed earth or.
 [u0603 | 00:58:32.610-00:58:34.590 | Delwath] Or is it just there's not a grave.
@@ -605,7 +605,7 @@
 [u0605 | 00:58:42.240-00:58:49.140 | Iascaire] Do we get a sense, whether that spirit was Deno'qai or hobgoblin or something different.
 [u0606 | 00:58:49.890-00:58:53.850 | DM] Deno'qai probably but cursed somehow.
 [u0607 | 00:58:54.780-00:58:55.170 | Unknown] Right.
-[u0608 | 00:58:59.370-00:59:05.790 | Delwath] Is there anything else in the mean is there anything else in {{the 30}} you know what all is there any magic.
+[u0608 | 00:58:59.370-00:59:05.790 | Delwath] Is there anything else in the mean is there anything else in the 30 you know what all is there any magic.
 [u0609 | 00:59:08.580-00:59:10.410 | DM] If you take 10 minutes to.
 [u0610 | 00:59:11.400-00:59:13.890 | DM] cast something ritual the Protection from.
 [u0611 | 00:59:14.820-00:59:15.360 | Delwath] that's true.
@@ -628,7 +628,7 @@
 [u0628 | 01:00:22.890-01:00:25.110 | DM] Aristaea yeah Iascaire an Aristaea.
 [u0629 | 01:00:26.610-01:00:33.330 | DM] Aristaea you're still kind of shaken by your your vision and distracted and you don't notice anything i'm.
 [u0630 | 01:00:34.920-01:00:49.710 | DM] same with Delwath but um yeah Iascaire you do actually see it looks like i'm actually sort of in the in that shadowy corner that's now flooded with light from from Delwath's spell.
-[u0631 | 01:00:51.300-01:00:55.770 | DM] The earth is not disturbed it's not like this thing came out of {{have}}.
+[u0631 | 01:00:51.300-01:00:55.770 | DM] The earth is not disturbed it's not like this thing came out of a.
 [u0632 | 01:00:57.090-01:01:11.250 | DM] It didn't like claw its way out of a grave or something like that, but the floor slopes up slightly and there's like a few Mounds there like there's something that you know, like the layers of dirt have piled up over something in this corner.
 [u0633 | 01:01:16.860-01:01:18.300 | Iascaire] i've pointed out, and I say.
 [u0634 | 01:01:20.190-01:01:21.270 | Iascaire] Do you think it's worth.
@@ -638,7 +638,7 @@
 [u0638 | 01:01:32.010-01:01:32.460 | Unknown] yeah.
 [u0639 | 01:01:34.530-01:01:35.700 | Delwath] It probably is.
 [u0640 | 01:01:40.980-01:01:41.700 | Aristaea] noticed.
-[u0641 | 01:01:44.070-01:01:57.210 | DM] It takes a bit of time, but you use it takes a couple minutes to like {{bonnaroo}} a bit of dirt and that's what seems to emerge is like not just one skeleton but there's like a pile of maybe.
+[u0641 | 01:01:44.070-01:01:57.210 | DM] It takes a bit of time, but you use it takes a couple minutes to like burrow through a bit of dirt and that's what seems to emerge is like not just one skeleton but there's like a pile of maybe.
 [u0642 | 01:01:59.490-01:02:09.330 | DM] 10–15 skeletons here, they look human from a quick glance, and it seems like the earth and the floor must have come up over 200 years like.
 [u0643 | 01:02:09.690-01:02:18.630 | DM] You know, a foot or something like that, so these were bodies that were just lying out but have been buried by just the accumulation of dirt over the past couple hundred years.
 [u0644 | 01:02:20.370-01:02:26.820 | Delwath] I think we should give them a proper proper burial, but maybe we should scout the rest of the town first before we.
@@ -653,14 +653,14 @@
 [u0653 | 01:03:03.360-01:03:07.140 | Aristaea] towards the city Center or across to the other little enclosure.
 [u0654 | 01:03:07.170-01:03:09.390 | Delwath] i'd go just directly South first.
 [u0655 | 01:03:12.810-01:03:16.800 | Delwath] me Delwath can go in first and see if there's anything, given his protection.
-[u0656 | 01:03:20.490-01:03:23.430 | Delwath] Wait {{10 data should}} I should have had disadvantage on attacks against me.
+[u0656 | 01:03:20.490-01:03:23.430 | Delwath] Wait Tim, that should— I should have had disadvantage on attacks against me.
 [u0657 | 01:03:26.610-01:03:27.300 | DM] Ah.
 [u0658 | 01:03:30.120-01:03:31.080 | Delwath] If it was undead.
 [u0659 | 01:03:31.530-01:03:34.590 | DM] Oh right I forgot about protection me.
 [u0660 | 01:03:35.700-01:03:36.960 | DM] i'll remember that next time.
 [u0661 | 01:03:38.040-01:03:38.490 | DM] Sorry.
 [u0662 | 01:03:38.910-01:03:40.470 | Delwath] No it's okay I kind of remember too.
-[u0663 | 01:03:41.970-01:03:54.150 | Delwath] um but I mean, given the protection spell I it's not like {{would}} Delwath {{by}} if you could stay within 10 feet, so that I get your save bonus {{for a non}} but then.
+[u0663 | 01:03:41.970-01:03:54.150 | Delwath] um but I mean, given the protection spell I it's not like would Delwath by if you could stay within 10 feet, so that I get your save bonus for a non but then.
 [u0664 | 01:03:55.080-01:03:57.420 | DM] As as Delwath and.
 [u0665 | 01:04:00.120-01:04:01.860 | DM] Not Delwath sorry as.
 [u0666 | 01:04:03.660-01:04:12.750 | DM] Aristaea and, Iascaire exit the this building and cross across the path the other build and make another Wisdom save but.
@@ -686,7 +686,7 @@
 [u0686 | 01:05:44.910-01:05:45.120 | Unknown] yeah.
 [u0687 | 01:05:46.500-01:05:51.000 | Delwath] Like just check out the corners and take a quick look, but I won't take long.
 [u0688 | 01:05:51.720-01:05:55.170 | DM] Okay, nothing seems to emerge from here.
-[u0689 | 01:05:56.310-01:05:59.250 | Delwath] any signs of {{a walk for the same}}.
+[u0689 | 01:05:56.310-01:05:59.250 | Delwath] any signs of a— more of the same.
 [u0690 | 01:05:59.460-01:06:02.760 | DM] Now that you know what you're looking for, yes, you do also see.
 [u0691 | 01:06:03.270-01:06:15.900 | DM] i'm not a giant pile of bodies, you see, about like six or so individually, you know, but you know dead bodies kind of scattered across the floor, but not all piled up in one place.
 [u0692 | 01:06:18.840-01:06:22.020 | Delwath] Okay i'll come back out and report back basically.
@@ -766,12 +766,12 @@
 [u0766 | 01:13:20.520-01:13:20.910 | Unknown] Okay.
 [u0767 | 01:13:24.240-01:13:24.540 | DM] Ah.
 [u0768 | 01:13:25.980-01:13:26.760 | DM] So let's see.
-[u0769 | 01:13:29.400-01:13:36.720 | DM] Delwath and Aristaea if you've seen this happen you've seen it emerged Iascaire pointed out {{toward me to}}.
+[u0769 | 01:13:29.400-01:13:36.720 | DM] Delwath and Aristaea if you've seen this happen you've seen it emerged Iascaire pointed out toward me to.
 [u0770 | 01:13:39.450-01:13:46.710 | DM] It doesn't seem to it seems to be trying, you know it's trying to reach this this fish but otherwise.
 [u0771 | 01:13:47.910-01:13:50.580 | DM] hard to know what it's doing.
 [u0772 | 01:13:56.010-01:13:57.690 | DM] So where do you where do you want to do.
-[u0773 | 01:14:11.160-01:14:12.390 | Aristaea] {{Christian plants}}.
-[u0774 | 01:14:15.540-01:14:19.350 | Delwath] it's not {{a prayer}} didn't it came around, but it was really approaching the altar not.
+[u0773 | 01:14:11.160-01:14:12.390 | Aristaea] Christian plants.
+[u0774 | 01:14:15.540-01:14:19.350 | Delwath] it's not approach— didn't it came around, but it was really approaching the altar not.
 [u0775 | 01:14:20.070-01:14:22.020 | Unknown] Not yeah us.
 [u0776 | 01:14:26.040-01:14:26.730 | Delwath] there.
 [u0777 | 01:14:28.110-01:14:36.960 | Delwath] And kind of just look at it for a minute like and see does it does it react to coming closer to it.
@@ -785,7 +785,7 @@
 [u0785 | 01:15:23.100-01:15:28.800 | DM] yeah is there anything so I should say if there's anything else you want to do.
 [u0786 | 01:15:31.530-01:15:32.370 | DM] Iascaire.
 [u0787 | 01:15:35.610-01:15:42.750 | DM] it's still like doing this sort of repetitive motion sort of reaching through the altar as the additional offerings are placed on.
-[u0788 | 01:15:46.050-01:15:48.240 | DM] {{us to move closer}} right.
+[u0788 | 01:15:46.050-01:15:48.240 | DM] us to move closer right.
 [u0789 | 01:15:49.080-01:15:53.190 | Aristaea] Perhaps we can the perhaps whatever will release the soul.
 [u0790 | 01:15:54.870-01:16:00.150 | Aristaea] We can find guidance for elsewhere, I don't see.
 [u0791 | 01:16:05.280-01:16:12.900 | Aristaea] I mean, is there anything magical about the altar or the tree that this being as tethered here.
@@ -813,7 +813,7 @@
 [u0813 | 01:18:27.960-01:18:34.560 | Iascaire] And what it is, is the tree like associated generally with the altar or is it just like.
 [u0814 | 01:18:34.860-01:18:35.850 | DM] yeah so.
 [u0815 | 01:18:35.910-01:18:47.700 | DM] yeah so they're just they're associated with for sure right, so the trees are all like these, like coppice trees like where they chop the trunks and there's like lots of trunks and they grow bigger and bigger like the sort of.
-[u0816 | 01:18:49.020-01:18:55.350 | DM] Like those {{folks}} that have you know 100 branches that spread out so they're they're very they're like.
+[u0816 | 01:18:49.020-01:18:55.350 | DM] Like those oaks that have you know 100 branches that spread out so they're they're very they're like.
 [u0817 | 01:18:55.980-01:19:01.950 | DM] tended and manicured trees that are sort of part of the whole sort of village green altar.
 [u0818 | 01:19:03.300-01:19:03.660 | Iascaire] sure.
 [u0819 | 01:19:05.700-01:19:06.870 | Iascaire] Okay um.
@@ -838,9 +838,9 @@
 [u0838 | 01:21:25.140-01:21:29.490 | DM] The wizard You see, like in the corner of your eye the wizard running.
 [u0839 | 01:21:30.660-01:21:34.800 | DM] away from the tree like where you are standing right about here is where the.
 [u0840 | 01:21:36.960-01:21:40.200 | DM] is where you crashed, and then the wizard is running in.
-[u0841 | 01:21:40.530-01:21:41.850 | DM] {{The wizard is direction}}.
+[u0841 | 01:21:40.530-01:21:41.850 | DM] The wizard is direction.
 [u0842 | 01:21:41.880-01:21:45.150 | Delwath] With the wizard is the creature, that the godcaller was fighting.
-[u0843 | 01:21:45.480-01:21:47.460 | DM] {{Or the guy was to the}}.
+[u0843 | 01:21:45.480-01:21:47.460 | DM] Or the guy was to the.
 [u0844 | 01:21:47.610-01:21:49.770 | DM] Wizard's it's running in this direction.
 [u0845 | 01:21:50.970-01:21:54.210 | DM] or this direction sort of a way to the West.
 [u0846 | 01:22:02.010-01:22:13.560 | DM] And then you're sort of suddenly flashed back and the the ghostly spirit now is staring staring directly at you, and you can sort of you can sort of see now that it's.
@@ -855,7 +855,7 @@
 [u0855 | 01:22:49.110-01:22:49.470 | Delwath] Thank you.
 [u0856 | 01:22:49.860-01:22:50.400 | Iascaire] so good.
 [u0857 | 01:22:51.720-01:22:54.630 | Aristaea] I yeah I see Delwath reeling and.
-[u0858 | 01:22:56.130-01:23:02.010 | Aristaea] REACH over to {{where my arm and arm}} yeah I reached out bring cast Cure Wounds.
+[u0858 | 01:22:56.130-01:23:02.010 | Aristaea] REACH over to where my arm and arm yeah I reached out bring cast Cure Wounds.
 [u0859 | 01:23:02.310-01:23:04.680 | Delwath] yeah that that that would be wildly helpful.
 [u0860 | 01:23:08.520-01:23:15.330 | Iascaire] i've just rereading my spell and I don't actually have to affect all the land, so I could just cast it on the tree.
 [u0861 | 01:23:17.970-01:23:23.070 | Delwath] I think we should, I think we should go follow the wizard.
@@ -866,14 +866,14 @@
 [u0866 | 01:23:42.300-01:23:46.470 | Delwath] yeah so like let's head, you know, like that.
 [u0867 | 01:23:48.570-01:23:51.930 | Delwath] And relatively quickly, so we don't get hit by another burst of sadness.
 [u0868 | 01:23:53.190-01:23:53.520 | Unknown] sure.
-[u0869 | 01:23:57.780-01:24:00.060 | Aristaea] Not cross the threshold {{to her}} all together.
+[u0869 | 01:23:57.780-01:24:00.060 | Aristaea] Not cross the threshold to her all together.
 [u0870 | 01:24:00.660-01:24:05.040 | DM] Right okay ah, as you as you head in this direction.
 [u0871 | 01:24:06.300-01:24:09.420 | DM] Iascaire make another Wisdom saving throw.
 [u0872 | 01:24:18.660-01:24:26.040 | DM] So you can see into this building, this is a bigger building than the rest and the roof has been completely destroyed it looks almost like some.
 [u0873 | 01:24:26.580-01:24:41.070 | DM] Some, like large thing collapse, the roof, so when you're looking in you can see, like this, this here is like collapsed roof and it's like things are buried underneath the collapsed roof.
 [u0874 | 01:24:46.890-01:24:48.000 | Delwath] Things are buried under it.
 [u0875 | 01:24:48.900-01:24:55.140 | DM] I mean it's by what I mean by that is like it's it's not just laying on the ground it's like.
-[u0876 | 01:24:55.440-01:24:57.510 | DM] {{Turkey}} piled up.
+[u0876 | 01:24:55.440-01:24:57.510 | DM] sort of piled up.
 [u0877 | 01:24:59.220-01:25:04.020 | Delwath] So let's like Delwath will go in like two there and just see what I see.
 [u0878 | 01:25:05.940-01:25:08.010 | DM] Ah, you see.
 [u0879 | 01:25:09.360-01:25:11.040 | DM] Another one of these.
@@ -892,7 +892,7 @@
 [u0892 | 01:26:51.540-01:26:53.100 | DM] There i'll do an actual turn order.
 [u0893 | 01:26:55.830-01:26:58.170 | Delwath] remind me last time, did they.
 [u0894 | 01:26:59.400-01:27:01.320 | Delwath] hurt us from range.
-[u0895 | 01:27:01.410-01:27:02.880 | DM] They have {{the same shot it}}.
+[u0895 | 01:27:01.410-01:27:02.880 | DM] They have the same shot it.
 [u0896 | 01:27:03.210-01:27:10.830 | DM] Well, you are close to them, but there aren't their arm like spring out of its socket like is like throwing a harpoon, but it was their arm.
 [u0897 | 01:27:13.080-01:27:14.640 | Delwath] Is any of this cover.
 [u0898 | 01:27:17.370-01:27:23.190 | DM] Ah yeah this one here this thing on the side on this side is definitely cover.
@@ -923,14 +923,14 @@
 [u0923 | 01:29:21.450-01:29:23.010 | Aristaea] i'm gonna attack with.
 [u0924 | 01:29:25.290-01:29:30.690 | Aristaea] moonbeam focused on the one that's in the corner, not the one that's closer to the.
 [u0925 | 01:29:32.280-01:29:34.260 | Aristaea] Clearing my yeah.
-[u0926 | 01:29:34.740-01:29:42.780 | Delwath] I was thinking of staying of trying to stay out of melee {{more effective}}, although I guess they have disadvantage on attacks against.
+[u0926 | 01:29:34.740-01:29:42.780 | Delwath] I was thinking of staying of trying to stay out of melee more effective, although I guess they have disadvantage on attacks against.
 [u0927 | 01:29:44.250-01:29:44.880 | Delwath] Maybe i'll just.
 [u0928 | 01:29:47.040-01:29:49.170 | Delwath] Like so much punishment, I can take.
 [u0929 | 01:29:50.580-01:29:51.840 | Delwath] I guess you're Moonbeaming.
 [u0930 | 01:29:54.600-01:29:55.200 | Aristaea] That doesn't.
-[u0931 | 01:29:55.290-01:29:56.220 | Aristaea] {{want to hack}} corner.
+[u0931 | 01:29:55.290-01:29:56.220 | Aristaea] one at that corner.
 [u0932 | 01:29:56.490-01:29:59.160 | Delwath] That doesn't if I go into combat that doesn't.
-[u0933 | 01:30:03.270-01:30:05.850 | Delwath] that's fine right like the Moonbeam {{mode}}.
+[u0933 | 01:30:03.270-01:30:05.850 | Delwath] that's fine right like the Moonbeam mode.
 [u0934 | 01:30:08.220-01:30:09.960 | Delwath] Is this open here them.
 [u0935 | 01:30:12.120-01:30:14.580 | DM] Ah yeah that's difficult terrain.
 [u0936 | 01:30:15.810-01:30:18.210 | DM] Okay, where Where are you putting how big as Moonbeam.
@@ -943,7 +943,7 @@
 [u0943 | 01:30:41.730-01:30:42.000 | DM] Okay.
 [u0944 | 01:30:44.610-01:30:45.060 | DM] and
 [u0945 | 01:30:46.740-01:30:49.830 | DM] That spell is that so.
-[u0946 | 01:30:51.570-01:30:59.220 | DM] that's all that is, I think, concentration right, so you can't have if that you've cast that and Protection from {{focus}} concentration.
+[u0946 | 01:30:51.570-01:30:59.220 | DM] that's all that is, I think, concentration right, so you can't have if that you've cast that and Protection from focus concentration.
 [u0947 | 01:31:00.060-01:31:02.550 | Aristaea] I only have one concentration spell active.
 [u0948 | 01:31:03.240-01:31:06.270 | Aristaea] I didn't realize Protection from Good and Evil was the concentration spell.
 [u0949 | 01:31:08.190-01:31:09.510 | Aristaea] I don't want to do that, to Delwath.
@@ -989,18 +989,18 @@
 [u0989 | 01:33:55.710-01:34:00.630 | Aristaea] Do it wait oh wait uses a spell slot you said.
 [u0990 | 01:34:02.250-01:34:02.550 | Aristaea] Okay.
 [u0991 | 01:34:03.600-01:34:06.240 | Aristaea] i'm just burn a slot to do extra damage.
-[u0992 | 01:34:06.720-01:34:16.260 | DM] or write it all down on your character sheet, where it says other when you hit with a melee weapon attack you can expend one spell slot and deal {{today six}} extra damage to the target.
+[u0992 | 01:34:06.720-01:34:16.260 | DM] or write it all down on your character sheet, where it says other when you hit with a melee weapon attack you can expend one spell slot and deal 2d6 extra damage to the target.
 [u0993 | 01:34:17.220-01:34:21.510 | Delwath] I don't know if it's really worth using we we might not get our spell slots back for a while.
 [u0994 | 01:34:22.950-01:34:23.250 | Aristaea] Okay.
 [u0995 | 01:34:23.550-01:34:24.480 | Aristaea] These guys only had like.
 [u0996 | 01:34:24.630-01:34:25.680 | Delwath] 50 hit points.
 [u0997 | 01:34:26.700-01:34:27.420 | Unknown] he's half dead.
 [u0998 | 01:34:28.470-01:34:30.900 | Aristaea] i'll just stop then, like the two actual hits.
-[u0999 | 01:34:30.930-01:34:31.680 | Aristaea] {{Target}} pike.
+[u0999 | 01:34:30.930-01:34:31.680 | Aristaea] Target pike.
 [u1000 | 01:34:33.270-01:34:34.230 | DM] Iascaire, you're up.
 [u1001 | 01:34:38.340-01:34:39.750 | Iascaire] I will go.
 [u1002 | 01:34:45.330-01:34:50.640 | Iascaire] i'm using the measuring tool there we go five, 10, 15, 20.
-[u1003 | 01:34:52.710-01:34:53.670 | DM] {{years from}} saving throw.
+[u1003 | 01:34:52.710-01:34:53.670 | DM] Wisdom saving throw.
 [u1004 | 01:34:54.750-01:34:55.110 | Iascaire] Okay.
 [u1005 | 01:35:02.970-01:35:03.090 | Iascaire] Oh.
 [u1006 | 01:35:03.570-01:35:05.490 | DM] You are yeah.
@@ -1016,7 +1016,7 @@
 [u1016 | 01:36:26.850-01:36:29.190 | DM] Somewhere in like.
 [u1017 | 01:36:30.840-01:36:34.410 | DM] somewhere on the Western side of of this building.
 [u1018 | 01:36:36.810-01:36:40.980 | DM] But you don't get to take an action, because you already incapacitated until the start of your next turn.
-[u1019 | 01:36:41.460-01:36:46.620 | Iascaire] yeah my wildfire spirit only can dodge {{best}}.
+[u1019 | 01:36:41.460-01:36:46.620 | Iascaire] yeah my wildfire spirit only can dodge best.
 [u1020 | 01:36:47.820-01:36:49.740 | DM] Okay, Delwath, you're up.
 [u1021 | 01:36:49.950-01:36:51.930 | Delwath] So i'll move around like this.
 [u1022 | 01:36:53.160-01:36:54.210 | DM] Around the back.
@@ -1049,12 +1049,12 @@
 [u1049 | 01:39:39.660-01:39:40.920 | DM] So you can go there.
 [u1050 | 01:39:42.240-01:39:46.110 | Aristaea] Alright, so I attack it with my pike.
 [u1051 | 01:39:47.940-01:39:49.560 | DM] Okay, but it's.
-[u1052 | 01:39:52.110-01:39:52.800 | Aristaea] it's {{a sin}}.
+[u1052 | 01:39:52.110-01:39:52.800 | Aristaea] it's a sin.
 [u1053 | 01:40:00.240-01:40:00.510 | Aristaea] yep.
 [u1054 | 01:40:03.000-01:40:03.810 | DM] That hits.
 [u1055 | 01:40:11.820-01:40:24.720 | DM] You are like come you you sort of returned from this vision to find yourself with a harpoon arm stuck into you and being dragged next to the this.
 [u1056 | 01:40:26.760-01:40:31.200 | DM] shadow creature, as it begins to try and pull you into its embrace.
-[u1057 | 01:40:34.260-01:40:40.530 | Aristaea] Nothing about the way I am my Pike could, {{if anyone}} in any way separate like harpoon cord.
+[u1057 | 01:40:34.260-01:40:40.530 | Aristaea] Nothing about the way I am my Pike could, if anyone in any way separate like harpoon cord.
 [u1058 | 01:40:41.160-01:40:43.470 | DM] Right, you could try, if you wanted.
 [u1059 | 01:40:45.240-01:40:48.660 | DM] You wouldn't be dealing damage to the creature itself.
 [u1060 | 01:40:49.110-01:40:54.090 | DM] And disadvantage to hit, but if you did enough damage to the arm, you could cut it and.
@@ -1062,7 +1062,7 @@
 [u1062 | 01:40:59.130-01:41:00.690 | Delwath] I could try that maybe on my turn.
 [u1063 | 01:41:02.220-01:41:03.030 | Iascaire] I.
 [u1064 | 01:41:04.410-01:41:06.000 | Delwath] Unless you're gonna escape somehow.
-[u1065 | 01:41:06.420-01:41:13.500 | Iascaire] y'all escape and how do you how do you roll with disadvantage on this {{fell on}}.
+[u1065 | 01:41:06.420-01:41:13.500 | Iascaire] yeah, I’ll escape and how do you how do you roll with disadvantage on this fell on.
 [u1066 | 01:41:14.700-01:41:15.180 | DM] Ah.
 [u1067 | 01:41:15.270-01:41:16.710 | Delwath] yeah just.
 [u1068 | 01:41:17.460-01:41:18.840 | DM] Roll roll twice and.
@@ -1083,7 +1083,7 @@
 [u1083 | 01:42:06.120-01:42:09.570 | Iascaire] Right and it's action is that it will teleport the two of us.
 [u1084 | 01:42:10.920-01:42:12.450 | Iascaire] back here.
 [u1085 | 01:42:14.130-01:42:19.290 | Iascaire] Again, and it needs to be the creature needs to make a Dex save.
-[u1086 | 01:42:24.120-01:42:27.360 | DM] {{said ronnie}} I rolled the 21, so I think.
+[u1086 | 01:42:24.120-01:42:27.360 | DM] said ronnie I rolled the 21, so I think.
 [u1087 | 01:42:28.410-01:42:31.110 | Iascaire] It takes no additional damage but i'm out of the grapple.
 [u1088 | 01:42:31.260-01:42:32.520 | DM] Right you teleport away.
 [u1089 | 01:42:33.510-01:42:34.020 | Unknown] All right.
@@ -1091,7 +1091,7 @@
 [u1091 | 01:42:40.260-01:42:42.840 | Delwath] yeah that's a very useful little trick there.
 [u1092 | 01:42:45.000-01:42:46.860 | Delwath] 123.
 [u1093 | 01:42:49.020-01:42:50.490 | Delwath] And then I will just attack it.
-[u1094 | 01:42:50.940-01:42:53.130 | DM] {{Because i'm a guy and}} it's pretty wounded.
+[u1094 | 01:42:50.940-01:42:53.130 | DM] Because i'm a guy and it's pretty wounded.
 [u1095 | 01:42:53.520-01:42:55.920 | Delwath] Oh i'm actually gonna miss outside.
 [u1096 | 01:42:56.580-01:42:57.750 | DM] yeah that misses.
 [u1097 | 01:42:59.940-01:43:01.200 | Delwath] That will not miss.
@@ -1108,17 +1108,17 @@
 [u1108 | 01:43:53.760-01:43:55.440 | DM] It will continue to target.
 [u1109 | 01:43:56.490-01:44:00.510 | DM] Iascaire which attracted attention the first place.
 [u1110 | 01:44:02.010-01:44:03.420 | DM] that's a 26.
-[u1111 | 01:44:05.700-01:44:07.140 | Delwath] Are you doing {{for a box}} over there.
+[u1111 | 01:44:05.700-01:44:07.140 | Delwath] Are you doing for hit points over there.
 [u1112 | 01:44:08.550-01:44:09.720 | Iascaire] i'll be bloodied now.
 [u1113 | 01:44:11.280-01:44:15.510 | DM] And if you take 20 points of piercing damage and you are grappled again.
 [u1114 | 01:44:16.800-01:44:19.560 | DM] And then wisdom save.
 [u1115 | 01:44:26.100-01:44:29.520 | DM] I don't even know why you bother rolling against the DC 15 um.
-[u1116 | 01:44:30.900-01:44:34.380 | DM] I guess, if you roll a one that would only be {{for one}}.
+[u1116 | 01:44:30.900-01:44:34.380 | DM] I guess, if you roll a one that would only be for one.
 [u1117 | 01:44:35.910-01:44:36.990 | Iascaire] Right yeah.
 [u1118 | 01:44:37.020-01:44:38.550 | Delwath] One would be a 13, 14.
 [u1119 | 01:44:39.180-01:44:39.900 | Iascaire] Not in the.
 [u1120 | 01:44:40.620-01:44:43.740 | DM] Not in the aura right yeah that's true you're not in the aura.
-[u1121 | 01:44:44.130-01:44:49.170 | DM] And it drags you so again, you take another eight points it's like damage and it drags you.
+[u1121 | 01:44:44.130-01:44:49.170 | DM] And it drags you so again, you take another eight points psychic damage and it drags you.
 [u1122 | 01:44:50.490-01:45:02.250 | DM] back it looks like it's almost trying to like wrap its arm around you somehow but it only has one arm, which is now it's I mean it's very badly wounded at this point um.
 [u1123 | 01:45:02.340-01:45:03.240 | Iascaire] So am I.
 [u1124 | 01:45:05.550-01:45:08.190 | DM] But it's just trying to reel you in somehow.
@@ -1174,7 +1174,7 @@
 [u1174 | 01:49:27.840-01:49:34.890 | Aristaea] I am being available to lift heavy objects, but I don't want to like accidentally mess up anybody else's thing so.
 [u1175 | 01:49:34.950-01:49:36.630 | DM] Okay, so.
 [u1176 | 01:49:36.690-01:49:39.180 | Aristaea] i'm just gonna shift some rubble here in there.
-[u1177 | 01:49:40.500-01:49:41.610 | Aristaea] What was your {{persona}} and.
+[u1177 | 01:49:40.500-01:49:41.610 | Aristaea] What was your perception and.
 [u1178 | 01:49:41.610-01:49:43.710 | DM] Everybody check Iascaire.
 [u1179 | 01:49:45.360-01:49:45.870 | Iascaire] Can roll it now.
 [u1180 | 01:49:46.620-01:49:46.920 | Unknown] Okay.
@@ -1214,7 +1214,7 @@
 [u1214 | 01:52:18.090-01:52:25.170 | Delwath] Delwath looks kind of exhausted and tired just watching you move stuff like you notice he's he's kind of a scrawny.
 [u1215 | 01:52:26.220-01:52:29.400 | DM] This would be a very tough challenge for the.
 [u1216 | 01:52:30.780-01:52:31.050 | DM] party.
-[u1217 | 01:52:31.200-01:52:32.790 | Delwath] {{Debate party category}} so about.
+[u1217 | 01:52:31.200-01:52:32.790 | Delwath] The main party category so about.
 [u1218 | 01:52:33.300-01:52:34.620 | Unknown] A secret could cheaper.
 [u1219 | 01:52:35.730-01:52:39.330 | DM] that's good, but every single person in our main campaign has the Strength of eight.
 [u1220 | 01:52:39.960-01:52:44.370 | DM] Well, except for Kate's character, Kate always plays the strong characters I guess.
@@ -1257,12 +1257,12 @@
 [u1257 | 01:55:37.560-01:55:37.860 | DM] yeah.
 [u1258 | 01:55:38.490-01:55:41.700 | Iascaire] Well then, i'm gonna have to cast burning hands, I guess.
 [u1259 | 01:55:47.640-01:55:49.350 | DM] It automatically fails all saving throws.
-[u1260 | 01:55:49.350-01:55:51.090 | DM] But it has 15 points {{out}}.
+[u1260 | 01:55:49.350-01:55:51.090 | DM] But it has 15 points of health.
 [u1261 | 01:55:51.420-01:55:55.290 | Iascaire] And it's got that instead that DT right right.
 [u1262 | 01:55:55.320-01:55:57.990 | DM] yeah do at least six damage otherwise nothing happens.
 [u1263 | 01:55:58.590-01:56:02.250 | Iascaire] So if I do so I need to do 21 to it, or I need to do.
 [u1264 | 01:56:02.310-01:56:04.410 | DM] No it's just if you do.
-[u1265 | 01:56:05.760-01:56:14.070 | DM] If let's say you cast burning hands, and you will really terribly and you only do five damage nothing happens, but if you do seven damage it takes the full amount.
+[u1265 | 01:56:05.760-01:56:14.070 | DM] If let's say you cast burning hands, and you roll really terribly and you only do five damage nothing happens, but if you do seven damage it takes the full amount.
 [u1266 | 01:56:14.520-01:56:15.480 | Iascaire] Take seven okay.
 [u1267 | 01:56:16.470-01:56:23.610 | DM] yeah it's not it doesn't subtract six it's just unless you do at least six damage the fire is not hot enough to actually hurt that.
 [u1268 | 01:56:24.900-01:56:31.890 | DM] But if you do six or more damage it's it's fine it's it's the damage resistant doesn't subtract.
@@ -1270,16 +1270,16 @@
 [u1270 | 01:56:34.470-01:56:35.700 | Iascaire] What about heat metal.
 [u1271 | 01:56:36.990-01:56:37.860 | Iascaire] Is that magical.
 [u1272 | 01:56:39.510-01:56:39.840 | DM] yeah.
-[u1273 | 01:56:39.900-01:56:41.760 | Iascaire] This is {{my day}}.
+[u1273 | 01:56:39.900-01:56:41.760 | Iascaire] This is my day.
 [u1274 | 01:56:42.210-01:56:43.290 | Iascaire] And it's it's on.
 [u1275 | 01:56:43.620-01:56:49.050 | DM] damage and it's magical and it's ongoing yeah that would totally work okay.
 [u1276 | 01:56:49.140-01:56:51.600 | Iascaire] So I will cast Heat Metal then.
 [u1277 | 01:56:53.340-01:56:54.690 | Iascaire] and
 [u1278 | 01:56:56.460-01:56:57.900 | Iascaire] i'll do it just yeah.
-[u1279 | 01:56:58.260-01:57:02.670 | DM] So, because that's ongoing like there's no like what is it it's {{one day}}.
+[u1279 | 01:56:58.260-01:57:02.670 | DM] So, because that's ongoing like there's no like what is it it's 1d—.
 [u1280 | 01:57:03.450-01:57:05.850 | Iascaire] yeah yeah like that you let's see.
 [u1281 | 01:57:05.910-01:57:07.770 | Delwath] 2d8 each turn.
-[u1282 | 01:57:07.800-01:57:20.370 | DM] 2d8 so it's it might take you like, but it lasts for a minute because there's nothing {{constructed}} concentration if it's fine for you to just roll and see you're welcome to roll and see but it you'll eventually destroy it.
+[u1282 | 01:57:07.800-01:57:20.370 | DM] 2d8 so it's it might take you like, but it lasts for a minute because there's nothing to disrupt concentration if it's fine for you to just roll and see you're welcome to roll and see but it you'll eventually destroy it.
 [u1283 | 01:57:21.600-01:57:22.350 | Iascaire] Well, why not.
 [u1284 | 01:57:23.400-01:57:23.730 | DM] Okay.
 [u1285 | 01:57:25.110-01:57:26.190 | Iascaire] Right, so that doesn't mean.
@@ -1313,7 +1313,7 @@
 [u1313 | 01:59:52.890-01:59:53.970 | Iascaire] Yalik'i fire.
 [u1314 | 01:59:55.320-01:59:56.010 | Iascaire] cool Thank you.
 [u1315 | 01:59:58.620-01:59:59.520 | DM] Did you get it, Kate.
-[u1316 | 02:00:00.450-02:00:03.330 | Aristaea] I didn't get the {{temperature}} the {{temperature}} the.
+[u1316 | 02:00:00.450-02:00:03.330 | Aristaea] I didn't get the temporary the temporary the.
 [u1317 | 02:00:04.710-02:00:07.560 | DM] that the two items yes.
 [u1318 | 02:00:08.610-02:00:08.910 | Unknown] Okay.
 [u1319 | 02:00:11.130-02:00:18.630 | DM] So if you equip them, it should it should give you the hopefully if I set everything up correctly, it should give you the benefits.
@@ -1322,7 +1322,7 @@
 [u1322 | 02:00:39.690-02:00:40.350 | Delwath] that's useful.
 [u1323 | 02:00:42.090-02:00:42.900 | Aristaea] Oh Nice.
 [u1324 | 02:00:45.420-02:00:46.350 | Iascaire] yeah very cool.
-[u1325 | 02:00:46.440-02:00:51.930 | Aristaea] I was pretty convinced, I was about to use it on my spell slots all the time, {{passing care, I never because}}.
+[u1325 | 02:00:46.440-02:00:51.930 | Aristaea] I was pretty convinced, I was about to use it on my spell slots all the time, casting Cure— I never because.
 [u1326 | 02:00:57.630-02:00:59.520 | DM] Okay, so ah.
 [u1327 | 02:01:03.210-02:01:03.480 | Delwath] OK.
 [u1328 | 02:01:05.070-02:01:07.290 | Delwath] So, as this like you know.
@@ -1337,7 +1337,7 @@
 [u1337 | 02:02:05.010-02:02:11.130 | Delwath] go down this way to like basically hide behind the wall and see what it does.
 [u1338 | 02:02:14.130-02:02:15.060 | Delwath] Like one I.
 [u1339 | 02:02:16.440-02:02:16.770 | DM] forgot.
-[u1340 | 02:02:18.330-02:02:19.500 | Unknown] {{you're staying napping}}.
+[u1340 | 02:02:18.330-02:02:19.500 | Unknown] you're staying napping.
 [u1341 | 02:02:20.580-02:02:21.240 | Delwath] Are you coming with.
 [u1342 | 02:02:22.140-02:02:29.070 | Aristaea] I was gonna try to go like here to get a different vantage point, if I can sub pass pass me without engaging.
 [u1343 | 02:02:30.240-02:02:31.140 | Aristaea] or like here.
@@ -1393,8 +1393,8 @@
 [u1393 | 02:06:38.070-02:06:42.720 | DM] Here was like underneath the collapsed roof right.
 [u1394 | 02:06:42.720-02:06:44.550 | Iascaire] Here, and it was that that was the wizard.
 [u1395 | 02:06:45.060-02:06:50.190 | DM] yeah That was the wizard yeah you already dug up and that's when you destroy the circlet.
-[u1396 | 02:06:51.180-02:06:54.900 | Iascaire] And a godcaller would be {{a that were}}.
-[u1397 | 02:06:55.470-02:06:56.790 | DM] identified identify priests yeah.
+[u1396 | 02:06:51.180-02:06:54.900 | Iascaire] And a godcaller would be a Deno'qai.
+[u1397 | 02:06:55.470-02:06:56.790 | DM] a Deno'qai, Deno'qai priest yeah.
 [u1398 | 02:06:57.270-02:06:57.510 | Unknown] Okay.
 [u1399 | 02:06:58.770-02:07:04.410 | Aristaea] So they have a Deno'qai priests corpse over here to give it a decent burial or whatever.
 [u1400 | 02:07:04.560-02:07:05.460 | Delwath] I think I mean.
@@ -1410,7 +1410,7 @@
 [u1410 | 02:07:50.730-02:07:53.700 | Iascaire] I think if it's going to be hard to rest here.
 [u1411 | 02:07:55.890-02:07:58.620 | Iascaire] Other than short rest, it may be better to.
 [u1412 | 02:07:59.040-02:08:00.810 | Delwath] avoid trouble yeah.
-[u1413 | 02:08:01.980-02:08:05.880 | Iascaire] I think there are probably hundreds if not thousands of bodies {{words}}.
+[u1413 | 02:08:01.980-02:08:05.880 | Iascaire] I think there are probably hundreds if not thousands of bodies words.
 [u1414 | 02:08:08.250-02:08:11.430 | DM] Do you want to try your plan are you planning on trying your plant growth thing.
 [u1415 | 02:08:13.260-02:08:13.800 | Iascaire] um.
 [u1416 | 02:08:13.830-02:08:17.670 | Delwath] I should have really done that I guess it's casting a spell.
@@ -1425,7 +1425,7 @@
 [u1425 | 02:08:44.520-02:08:45.990 | Delwath] Right, are you a paladin, Kate.
 [u1426 | 02:08:47.040-02:08:50.490 | Delwath] yeah god-y, then I guess i'm a little god-y to these days.
 [u1427 | 02:08:53.430-02:08:56.220 | Delwath] Yezali's friend yeah like.
-[u1428 | 02:08:57.360-02:09:01.440 | Delwath] {{All like that we}} Delwath like just try and organize a bit of a burial.
+[u1428 | 02:08:57.360-02:09:01.440 | Delwath] All like that we Delwath like just try and organize a bit of a burial.
 [u1429 | 02:09:02.610-02:09:03.360 | DM] Right like.
 [u1430 | 02:09:05.070-02:09:13.140 | Delwath] put out some sacrifices dig some graves by the tree I don't know that much about Deno'qai but kind of make it up.
 [u1431 | 02:09:14.700-02:09:16.170 | Iascaire] They prefer to be cremated.
@@ -1440,7 +1440,7 @@
 [u1440 | 02:09:41.910-02:09:42.570 | Delwath] But see what.
 [u1441 | 02:09:42.720-02:09:44.970 | Delwath] We will get things organized.
 [u1442 | 02:09:45.000-02:09:46.080 | DM] let's see what happens when.
-[u1443 | 02:09:47.160-02:09:55.710 | DM] When the body is when the body is {{that}} sort of stops going back and forth and just again goes back to sort of standing by the tree and.
+[u1443 | 02:09:47.160-02:09:55.710 | DM] When the body is when the body is that sort of stops going back and forth and just again goes back to sort of standing by the tree and.
 [u1444 | 02:09:56.130-02:10:11.640 | DM] The sort of low keening continues now next to the tree, and you can see now that it's actually sort of pacing back and forth behind the trunk occasionally like reaching its handout to touch the tree its hand going through the tree and then sort of stepping back and wailing again.
 [u1445 | 02:10:13.170-02:10:17.070 | Aristaea] Should we use some branches from the tree to build a pyre.
 [u1446 | 02:10:18.000-02:10:22.980 | Delwath] No, I mean we could light a fire with regular you don't have to light it with magic.
@@ -1468,11 +1468,11 @@
 [u1468 | 02:12:02.070-02:12:04.890 | DM] It looks starts to look more and more insubstantial.
 [u1469 | 02:12:07.890-02:12:13.680 | DM] And as the you know it's still kind of it begins to fade from sight.
 [u1470 | 02:12:15.000-02:12:20.100 | DM] And, as it does, it still kind of reaching out to the tree like trying to grasp it trying to like.
-[u1471 | 02:12:22.500-02:12:34.950 | DM] {{yeah for}} prayer sacrifice to it, or something and then it as its as the ceremony is finished, and you know you say some words and the bodies all burn in this pyre it vanishes.
+[u1471 | 02:12:22.500-02:12:34.950 | DM] offer prayer sacrifice to it, or something and then it as its as the ceremony is finished, and you know you say some words and the bodies all burn in this pyre it vanishes.
 [u1472 | 02:12:40.980-02:12:41.430 | Delwath] Okay.
-[u1473 | 02:12:41.520-02:12:47.130 | Aristaea] So we've done some good things what but maybe it would still be a good thing to {{create}} the tree.
+[u1473 | 02:12:41.520-02:12:47.130 | Aristaea] So we've done some good things what but maybe it would still be a good thing to create the tree.
 [u1474 | 02:12:47.760-02:12:49.560 | Delwath] It can't hurt to try and grow the tree.
-[u1475 | 02:12:50.070-02:12:51.480 | Delwath] {{let's try to}} spell slots.
+[u1475 | 02:12:50.070-02:12:51.480 | Delwath] let's try to spell slots.
 [u1476 | 02:12:52.080-02:12:52.500 | Unknown] I mean.
 [u1477 | 02:12:53.940-02:12:59.310 | Iascaire] yeah it's a third slot but that's it's something that I think my character, would do so yeah.
 [u1478 | 02:13:01.140-02:13:07.830 | Aristaea] i'm also capable of doing the same thing for the same motivations, but if your it was your idea to go ahead and do it.
@@ -1494,7 +1494,7 @@
 [u1494 | 02:14:04.260-02:14:06.540 | DM] cast the spell you see.
 [u1495 | 02:14:09.540-02:14:16.530 | DM] It starts out what looks to you like little just like little sparks kind of running around the ground underneath the tree.
 [u1496 | 02:14:20.280-02:14:23.940 | DM] almost like fireflies just kind of floating there like just kind of.
-[u1497 | 02:14:25.620-02:14:40.170 | DM] {{Reading around}} and occasionally a sparkle kind of disappear as your as as you cast the spell once you cast the spell this sort of take some time to build up that the ground grows in the ground like just right around the tree becomes like thick and lush.
+[u1497 | 02:14:25.620-02:14:40.170 | DM] flitting around and occasionally a sparkle kind of disappear as your as as you cast the spell once you cast the spell this sort of take some time to build up that the ground grows in the ground like just right around the tree becomes like thick and lush.
 [u1498 | 02:14:41.400-02:14:46.620 | DM] begins to grow and these sparks sort of start climbing up the tree and you see like almost like like little.
 [u1499 | 02:14:47.730-02:14:49.980 | DM] bits of flame like shooting up the bark.
 [u1500 | 02:14:53.340-02:14:57.690 | DM] Initially fading and then one sort of shoots up all the way and.
@@ -1513,7 +1513,7 @@
 [u1513 | 02:16:23.070-02:16:25.320 | DM] And then the branches began to.
 [u1514 | 02:16:26.580-02:16:38.550 | DM] split and the flames begin to grow, like the little sparks begin to grow and it almost as if this tree is turning into a funeral pyre for the village itself.
 [u1515 | 02:16:42.690-02:16:43.860 | DM] And you wait a moment.
-[u1516 | 02:16:47.400-02:17:02.640 | DM] And then {{it'd be good}}, the tree slowly begin to split and as it falls these like little lines of fire sort of begin to run out from each side of the tree almost seeking out all of the places where.
+[u1516 | 02:16:47.400-02:17:02.640 | DM] And then it begins, the tree slowly begin to split and as it falls these like little lines of fire sort of begin to run out from each side of the tree almost seeking out all of the places where.
 [u1517 | 02:17:03.840-02:17:10.440 | DM] bodies are hidden underground and, like all of these like mini funeral pyres begin to light up all around the village.
 [u1518 | 02:17:12.300-02:17:15.420 | DM] And you like obviously kind of get out of the way a little bit.
 [u1519 | 02:17:16.860-02:17:18.360 | DM] And just watch as.
@@ -1556,17 +1556,17 @@
 [u1556 | 02:19:42.930-02:19:44.340 | Delwath] If you hit short rest.
 [u1557 | 02:19:44.490-02:19:46.680 | DM] If you hit short rest, you can click.
 [u1558 | 02:19:46.920-02:19:48.360 | DM] number of dice you want to roll.
-[u1559 | 02:19:49.980-02:19:55.170 | Aristaea] i've never done temporary hit points before do those {{windows}} go away.
+[u1559 | 02:19:49.980-02:19:55.170 | Aristaea] i've never done temporary hit points before do those when do those go away.
 [u1560 | 02:19:56.070-02:19:56.910 | DM] After a lot of.
 [u1561 | 02:19:57.480-02:19:59.310 | DM] damage or after a long rest.
 [u1562 | 02:19:59.820-02:20:02.490 | Aristaea] So they're used first in the damage.
 [u1563 | 02:20:03.690-02:20:04.260 | Delwath] Yes.
-[u1564 | 02:20:05.340-02:20:12.540 | Aristaea] Alright, so i'm not actually that wounded, because of those cuz first we found the {{magic key}} stuff and then we.
+[u1564 | 02:20:05.340-02:20:12.540 | Aristaea] Alright, so i'm not actually that wounded, because of those cuz first we found the magic-y stuff and then we.
 [u1565 | 02:20:14.580-02:20:16.080 | Aristaea] got looked at, then I got.
 [u1566 | 02:20:16.560-02:20:19.230 | Delwath] Did my Hit Dice not roll, I guess, they didn't roll.
 [u1567 | 02:20:29.400-02:20:30.300 | DM] But then also.
 [u1568 | 02:20:30.480-02:20:32.850 | Iascaire] Roll an extra 1d8 yeah.
-[u1569 | 02:20:33.990-02:20:43.170 | DM] So you set around the you know the fire, the fire of the funeral pyres dies down and you make yourself a little camp fire and {{Michelle can spot}} and.
+[u1569 | 02:20:33.990-02:20:43.170 | DM] So you set around the you know the fire, the fire of the funeral pyres dies down and you make yourself a little camp fire and a sheltered spot and.
 [u1570 | 02:20:46.020-02:20:46.920 | DM] Some nice food.
 [u1571 | 02:21:06.720-02:21:07.680 | Iascaire] Oh, plus one to all.
 [u1572 | 02:21:09.030-02:21:09.690 | DM] To all those.
@@ -1584,13 +1584,13 @@
 [u1584 | 02:25:49.980-02:25:50.400 | Aristaea] I.
 [u1585 | 02:25:51.720-02:26:00.630 | Aristaea] drove two per square tomorrow and park the car like on some of the lab that be okay, for you.
 [u1586 | 02:26:04.080-02:26:07.530 | Aristaea] it's supposed to be just as hot sighs Hollywood and the biking.
-[u1587 | 02:26:08.580-02:26:11.220 | Aristaea] I was not planning to bake originally was to.
-[u1588 | 02:26:12.900-02:26:19.620 | Aristaea] discuss it with the team today that I was considering it, but I cannot fight a lot if you wanted to fight.
+[u1587 | 02:26:08.580-02:26:11.220 | Aristaea] I was not planning to bike originally was to.
+[u1588 | 02:26:12.900-02:26:19.620 | Aristaea] discuss it with the team today that I was considering it, but I cannot bike a lot if you wanted to bike.
 [u1589 | 02:26:28.890-02:26:29.700 | Aristaea] You could.
-[u1590 | 02:26:31.230-02:26:36.990 | Aristaea] You could close my office you can just leave me your bike I could bite home on your bike.
+[u1590 | 02:26:31.230-02:26:36.990 | Aristaea] You could close my office you can just leave me your bike I could bike home on your bike.
 [u1591 | 02:26:41.730-02:26:42.510 | Aristaea] like that.
-[u1592 | 02:26:44.130-02:26:49.560 | Aristaea] I just have a 930 meeting I kind of want to beat the Office for now I can i'll just leave.
-[u1593 | 02:26:50.910-02:27:05.250 | Aristaea] I thought to myself that I needed to leave it to 15, but I have a meeting at one and then what am I really going to do between two and 215 right just leave it to the neither I spend another 10 minutes calling my heels, for no reason.
+[u1592 | 02:26:44.130-02:26:49.560 | Aristaea] I just have a 930 meeting I kind of want to be at the office for that I can i'll just leave.
+[u1593 | 02:26:50.910-02:27:05.250 | Aristaea] I thought to myself that I needed to leave it to 15, but I have a meeting at one and then what am I really going to do between two and 215 right just leave it to the neither I spend another 10 minutes cooling my heels, for no reason.
 [u1594 | 02:27:06.450-02:27:08.910 | Aristaea] At the train station i'll 75 minutes early.
 [u1595 | 02:27:10.140-02:27:21.420 | Aristaea] So I probably won't be exactly it till probably leave it to five anyway, I can I can just take the T, it seems rather and it's terribly complicated to figure out how to make the whole thing work.
 [u1596 | 02:27:27.930-02:27:30.210 | Unknown] and your partner next to the ID right spot on.
@@ -1608,7 +1608,7 @@
 [u1608 | 02:29:39.900-02:29:41.040 | DM] But where to.
 [u1609 | 02:29:42.780-02:29:43.590 | DM] it's up to you.
 [u1610 | 02:29:44.430-02:29:45.390 | Iascaire] Which one were we in.
-[u1611 | 02:29:47.010-02:29:48.450 | DM] You're in the {{animal battle without whoa}}.
+[u1611 | 02:29:47.010-02:29:48.450 | DM] You're in the Battle without Hope.
 [u1612 | 02:29:50.190-02:29:50.430 | Iascaire] Okay.
 [u1613 | 02:29:51.690-02:29:56.130 | Iascaire] If I have time after cooking food in the short rest I would take.
 [u1614 | 02:29:57.360-02:30:01.710 | Iascaire] A branch from the tree and my filleting knife and sort of.
@@ -1624,8 +1624,8 @@
 [u1624 | 02:30:52.290-02:30:54.150 | Aristaea] that's fine with me that's the.
 [u1625 | 02:30:54.180-02:30:55.740 | Delwath] Most optimal I mean.
 [u1626 | 02:30:58.440-02:31:00.060 | Delwath] 30 miles.
-[u1627 | 02:31:01.800-02:31:07.110 | Unknown] {{2028}} verses.
-[u1628 | 02:31:08.280-02:31:10.530 | Unknown] {{3020}}.
+[u1627 | 02:31:01.800-02:31:07.110 | Unknown] 20, 28 verses.
+[u1628 | 02:31:08.280-02:31:10.530 | Unknown] 30, 20.
 [u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark Battle of Yemo'te than to go that way that way that way, but not by much.
 [u1630 | 02:31:24.420-02:31:24.750 | Unknown] Okay.
 [u1631 | 02:31:26.940-02:31:29.100 | Aristaea] yeah I mean unless we feel like we can meet.
@@ -1747,14 +1747,14 @@
 [u1747 | 02:41:39.510-02:41:47.310 | Delwath] let's just I mean what are we going to do except advance in a defensive formation and try and get you close enough to cast Heat Metal.
 [u1748 | 02:41:49.560-02:41:55.500 | Iascaire] yeah I mean it doesn't even have to be me I could just put the I could just put the spirit up there.
 [u1749 | 02:41:55.710-02:42:00.090 | Delwath] This is your spirit, what happens if your spirits killed just come back or is it.
-[u1750 | 02:42:00.300-02:42:06.420 | Iascaire] yeah it's just the it's just the spell slot or just a Wild Shape {{lens}} far as I know.
+[u1750 | 02:42:00.300-02:42:06.420 | Iascaire] yeah it's just the it's just the spell slot or just a Wild Shape as far as I know.
 [u1751 | 02:42:07.470-02:42:07.740 | DM] yep.
 [u1752 | 02:42:10.560-02:42:16.080 | Iascaire] yeah it only lasts an hour and if it's reduced to zero hit points i've got one more Wild Shape per short rest so.
 [u1753 | 02:42:18.270-02:42:19.770 | Iascaire] wouldn't be the end of the world, but.
 [u1754 | 02:42:20.790-02:42:21.030 | Delwath] I mean.
 [u1755 | 02:42:21.330-02:42:23.640 | Delwath] You could just send it out there and see what happens.
 [u1756 | 02:42:24.960-02:42:25.260 | Iascaire] yeah.
-[u1757 | 02:42:26.250-02:42:28.920 | Iascaire] As long as we're ready for a fight if it if it {{progress}}.
+[u1757 | 02:42:26.250-02:42:28.920 | Iascaire] As long as we're ready for a fight if it if it provokes.
 [u1758 | 02:42:30.630-02:42:31.800 | Aristaea] yeah we're ready for a fight.
 [u1759 | 02:42:33.000-02:42:37.770 | Iascaire] Okay, so then i'll put {{time}} out and.
 [u1760 | 02:42:39.600-02:42:48.090 | Iascaire] It can move 30 feet a turn Oh, I can cast it wherever I want within 30 feet of me, so I can put it out like.
@@ -1777,7 +1777,7 @@
 [u1777 | 02:43:54.690-02:43:55.830 | Aristaea] What are we going to do.
 [u1778 | 02:43:55.950-02:43:57.960 | Delwath] i'm just debating whether.
 [u1779 | 02:44:08.820-02:44:15.570 | Delwath] So I could I could cast I could create a pretty powerful magic circle that protects us.
-[u1780 | 02:44:17.760-02:44:18.420 | Delwath] {{i'm awfully}}.
+[u1780 | 02:44:17.760-02:44:18.420 | Delwath] i'm awfully.
 [u1781 | 02:44:18.450-02:44:20.910 | DM] have to stick your sword into the ground to do it, though.
 [u1782 | 02:44:21.120-02:44:21.540 | Delwath] I know.
 [u1783 | 02:44:21.600-02:44:22.800 | DM] you read that in the description.
@@ -1793,7 +1793,7 @@
 [u1793 | 02:44:51.960-02:44:52.740 | Unknown] Yes.
 [u1794 | 02:44:54.240-02:44:55.380 | Delwath] oh four hours.
 [u1795 | 02:44:56.010-02:44:57.540 | DM] Exactly it's designed so that.
-[u1796 | 02:44:57.570-02:44:59.610 | DM] elves can get a rest of {{the best}}.
+[u1796 | 02:44:57.570-02:44:59.610 | DM] elves can get a rest of the best.
 [u1797 | 02:45:01.380-02:45:06.630 | Delwath] I don't think i'm going to cast that that seems dangerous to not have a sword.
 [u1798 | 02:45:07.620-02:45:07.950 | Unknown] yeah.
 [u1799 | 02:45:09.660-02:45:11.460 | Delwath] let's see if we think we need it, I mean I.
@@ -1858,7 +1858,7 @@
 [u1858 | 02:50:00.060-02:50:06.810 | Iascaire] If the if the wildfire spirit drops and i'm not in that 60 foot range spell it.
 [u1859 | 02:50:08.070-02:50:15.180 | DM] If if you're not in range on the wildfire spirit drops, then yes, the spell would end if you are in range the spell would transfer.
 [u1860 | 02:50:16.140-02:50:16.830 | Iascaire] Okay, great.
-[u1861 | 02:50:22.740-02:50:27.540 | Aristaea] We want to go protect your wildfire spirit of {{vmware}} from trees and wasps.
+[u1861 | 02:50:22.740-02:50:27.540 | Aristaea] We want to go protect your wildfire spirit of vmware from trees and wasps.
 [u1862 | 02:50:28.710-02:50:30.450 | Iascaire] I just want to move together with.
 [u1863 | 02:50:30.510-02:50:33.210 | Aristaea] My with my little aura of.
 [u1864 | 02:50:34.980-02:50:35.280 | Iascaire] Right.
@@ -1875,7 +1875,7 @@
 [u1875 | 02:51:15.630-02:51:20.700 | Iascaire] And I can I can do some range shots of the tree or something that would be my my thought.
 [u1876 | 02:51:23.700-02:51:24.270 | Delwath] wow.
 [u1877 | 02:51:24.930-02:51:27.750 | Aristaea] Do we want to stay here, you want to get closer to your spirit.
-[u1878 | 02:51:27.840-02:51:35.580 | Delwath] To go go up and protect {{your dough}} up so that you're within 60 feet, so if your spirit dies you still get the spell stays.
+[u1878 | 02:51:27.840-02:51:35.580 | Delwath] To go go up and protect you go up so that you're within 60 feet, so if your spirit dies you still get the spell stays.
 [u1879 | 02:51:36.390-02:51:37.410 | Delwath] yeah that's why I.
 [u1880 | 02:51:37.410-02:51:38.610 | Delwath] really like.
 [u1881 | 02:51:38.730-02:51:41.910 | Delwath] Where this here it is or in one of these squares.
@@ -1890,7 +1890,7 @@
 [u1890 | 02:52:17.220-02:52:17.580 | Delwath] yeah.
 [u1891 | 02:52:17.940-02:52:20.130 | Iascaire] But those are probably going to move fast.
 [u1892 | 02:52:20.460-02:52:22.410 | Delwath] I mean magic circle is.
-[u1893 | 02:52:23.760-02:52:28.800 | Aristaea] {{legit}} closer to that armband {{circles}}, where he can keep doing the.
+[u1893 | 02:52:23.760-02:52:28.800 | Aristaea] let’s get closer to that armband circles, where he can keep doing the.
 [u1894 | 02:52:28.860-02:52:29.700 | Aristaea] Right heat metal.
 [u1895 | 02:52:30.360-02:52:32.010 | Aristaea] Yes, can make magic circles.
 [u1896 | 02:52:33.870-02:52:34.380 | Aristaea] Go ahead.
@@ -1907,7 +1907,7 @@
 [u1907 | 02:53:03.120-02:53:07.800 | Delwath] I can cast a leveled spell well I use my sword as an action as a bonus right TIM.
 [u1908 | 02:53:08.940-02:53:10.020 | DM] As a bonus action yeah.
 [u1909 | 02:53:12.540-02:53:15.690 | DM] yeah cuz it's us it's us magical item.
-[u1910 | 02:53:16.920-02:53:26.520 | Delwath] Can I I can per your email earlier, I should, in theory, also be able to create a pact {{is}} because it would be a free action, basically, as part of a move yeah.
+[u1910 | 02:53:16.920-02:53:26.520 | Delwath] Can I I can per your email earlier, I should, in theory, also be able to create a pact weapon because it would be a free action, basically, as part of a move yeah.
 [u1911 | 02:53:29.310-02:53:34.200 | Delwath] Because that I can do, I can I don't have to use this sword, I could use a regular sword.
 [u1912 | 02:53:38.310-02:53:38.640 | Delwath] Okay.
 [u1913 | 02:53:40.890-02:53:43.050 | DM] But way you can only have one pact weapon at.
@@ -1916,7 +1916,7 @@
 [u1916 | 02:53:48.870-02:53:51.030 | DM] can summon is that we can summon.
 [u1917 | 02:53:51.450-02:54:03.240 | Delwath] weapon you want as a pact weapon, you can so Hex Warrior lets you have one weapon at a time that uses your charisma unless it is your pact weapon, in which case it also use.
 [u1918 | 02:54:04.380-02:54:11.310 | Delwath] And you can summon as many pacts I mean you can you can only have one pact weapon summoned at a time, but you can summon as many as you want.
-[u1919 | 02:54:12.240-02:54:28.230 | Delwath] It it is maybe slightly unclear what the rules are what, if you have a magic I couldn't tell from reading the rules, what the deal with if you have a magic to {{be fashioned}} way you rule on this before I make my plan, but it was slightly unclear what happens if you have.
+[u1919 | 02:54:12.240-02:54:28.230 | Delwath] It it is maybe slightly unclear what the rules are what, if you have a magic I couldn't tell from reading the rules, what the deal with if you have a magic to be fashioned way you rule on this before I make my plan, but it was slightly unclear what happens if you have.
 [u1920 | 02:54:29.370-02:54:32.340 | Delwath] turned a magic weapon into your pact summoning.
 [u1921 | 02:54:38.880-02:54:43.290 | Delwath] Like I didn't look at it, but based on my character sheet, it was not very clear.
 [u1922 | 02:54:45.480-02:54:46.800 | DM] I would say that.
@@ -1927,11 +1927,11 @@
 [u1927 | 02:55:20.790-02:55:27.120 | Delwath] Now that's not unreasonable it just it it defeats The purpose of my plan, because I wouldn't really want to be.
 [u1928 | 02:55:27.390-02:55:30.540 | DM] Then you can go grab the sword yes.
 [u1929 | 02:55:38.400-02:55:38.760 | DM] I mean.
-[u1930 | 02:55:38.970-02:55:51.300 | DM] Technically, by reading rules by the implication is that you cannot summon a different pact weapon once you bound a magic weapon that's your pact {{package}} that's it that's what appears when you create a pact weapon.
+[u1930 | 02:55:38.970-02:55:51.300 | DM] Technically, by reading rules by the implication is that you cannot summon a different pact weapon once you bound a magic weapon that's your pact pact— that's it that's what appears when you create a pact weapon.
 [u1931 | 02:55:54.840-02:55:55.290 | Delwath] yeah.
 [u1932 | 02:55:55.680-02:55:57.300 | DM] that's that's the rules is right.
 [u1933 | 02:55:57.330-02:56:01.140 | DM] yeah, but I would I know it's a reasonable yeah.
-[u1934 | 02:56:01.170-02:56:07.560 | DM] If you want to be flexible, you can create a new pact weapon, but your old pact, but that your sword {{seems to be here}}.
+[u1934 | 02:56:01.170-02:56:07.560 | DM] If you want to be flexible, you can create a new pact weapon, but your old pact, but that your sword ceases to be your.
 [u1935 | 02:56:10.350-02:56:13.020 | Delwath] yeah it appears whenever you create your pact yep yeah fair enough.
 [u1936 | 02:56:16.440-02:56:17.400 | DM] Okay, so.
 [u1937 | 02:56:17.550-02:56:20.220 | Delwath] Well, and have to reconsider my plan, but anyway move on.
@@ -1971,8 +1971,8 @@
 [u1971 | 02:58:56.040-02:58:56.790 | DM] can't do.
 [u1972 | 02:58:57.360-02:59:01.020 | Delwath] I can't dispel I know where it only has one charge.
 [u1973 | 02:59:01.500-02:59:01.740 | Delwath] I can.
-[u1974 | 02:59:02.340-02:59:04.440 | Delwath] Instead of {{the Spanish}} is just as good as.
-[u1975 | 02:59:07.980-02:59:08.850 | Delwath] {{Christmas Eve}} either way.
+[u1974 | 02:59:02.340-02:59:04.440 | Delwath] Instead of banish is just as good as.
+[u1975 | 02:59:07.980-02:59:08.850 | Delwath] Christmas Eve either way.
 [u1976 | 02:59:10.170-02:59:11.220 | DM] circle.
 [u1977 | 02:59:14.610-02:59:14.850 | Delwath] it's.
 [u1978 | 02:59:15.120-02:59:15.750 | DM] Actually, not.
@@ -1992,7 +1992,7 @@
 [u1992 | 03:00:10.530-03:00:11.250 | DM] So.
 [u1993 | 03:00:11.340-03:00:12.450 | Iascaire] Well that's a nice circle.
 [u1994 | 03:00:12.870-03:00:13.890 | Delwath] That is a great circle.
-[u1995 | 03:00:15.090-03:00:16.410 | DM] that's {{me very}} big.
+[u1995 | 03:00:15.090-03:00:16.410 | DM] that's very big.
 [u1996 | 03:00:16.890-03:00:18.240 | Delwath] And that.
 [u1997 | 03:00:19.830-03:00:19.980 | Iascaire] yeah.
 [u1998 | 03:00:23.460-03:00:26.070 | Delwath] Well, if we count only the.
@@ -2030,7 +2030,7 @@
 [u2030 | 03:02:30.690-03:02:32.400 | Aristaea] All right, here we go.
 [u2031 | 03:02:35.430-03:02:35.880 | Iascaire] Nice.
 [u2032 | 03:02:37.230-03:02:37.950 | DM] that's.
-[u2033 | 03:02:48.390-03:02:49.080 | Aristaea] {{view}} tree.
+[u2033 | 03:02:48.390-03:02:49.080 | Aristaea] view tree.
 [u2034 | 03:02:50.280-03:02:53.250 | DM] As you stab it like it's not.
 [u2035 | 03:02:55.560-03:02:59.010 | DM] This thing is not hurting much from being stabbed.
 [u2036 | 03:03:00.840-03:03:01.230 | DM] Like.
@@ -2055,7 +2055,7 @@
 [u2055 | 03:04:11.760-03:04:13.680 | DM] 50. That is going to end the.
 [u2056 | 03:04:14.220-03:04:14.970 | DM] trees turn.
 [u2057 | 03:04:15.510-03:04:16.620 | Iascaire] Oh damn.
-[u2058 | 03:04:18.720-03:04:23.040 | Delwath] {{Your arm temps}} I assume that the.
+[u2058 | 03:04:18.720-03:04:23.040 | Delwath] Your arm temps I assume that the.
 [u2059 | 03:04:26.730-03:04:30.510 | Delwath] The the wildfire thing is not actually controlling the spell right.
 [u2060 | 03:04:33.180-03:04:33.660 | Iascaire] Correct yeah.
 [u2061 | 03:04:34.620-03:04:34.860 | Iascaire] But.
@@ -2136,13 +2136,13 @@
 [u2136 | 03:09:26.850-03:09:27.870 | Delwath] And I get rid of the thing that.
 [u2137 | 03:09:30.690-03:09:33.810 | Delwath] i'm just trying to figure out where I can place it that'll hit as many things as possible.
 [u2138 | 03:09:34.920-03:09:36.480 | Delwath] But who's but who's going just.
-[u2139 | 03:09:37.260-03:09:39.090 | DM] Sickening Radiance—{{says turn}}.
+[u2139 | 03:09:37.260-03:09:39.090 | DM] Sickening Radiance—Aristaea's turn.
 [u2140 | 03:09:39.120-03:09:42.270 | DM] I'm getting it for you while she goes.
 [u2141 | 03:09:44.070-03:09:52.230 | Aristaea] i'm how i'm done with how long is this sanctuary bubble going to last like it should have be indefinite.
 [u2142 | 03:09:52.260-03:09:59.850 | Delwath] It's an hour—for—no, four, sorry, four hours. It lasts for four hours and guess what it does not require concentration.
 [u2143 | 03:10:00.330-03:10:02.490 | Delwath] face, it is not going anywhere.
 [u2144 | 03:10:03.540-03:10:03.780 | Aristaea] So.
-[u2145 | 03:10:03.840-03:10:05.820 | Delwath] {{Much}} my sword to actually fight.
+[u2145 | 03:10:03.840-03:10:05.820 | Delwath] Unless I need my sword to actually fight.
 [u2146 | 03:10:08.640-03:10:11.370 | Aristaea] Because if we're going to stand in here and.
 [u2147 | 03:10:12.810-03:10:25.710 | Aristaea] be protected by the sanctuary and I feel that my good and evil may be a little bit redundant and so, if I were to do a different concentration spell that actually had some you know fire damage power.
 [u2148 | 03:10:26.580-03:10:27.480 | Aristaea] better than just.
@@ -2196,7 +2196,7 @@
 [u2196 | 03:13:46.950-03:13:50.220 | DM] Only this wolf makes its save.
 [u2197 | 03:13:51.510-03:13:52.650 | DM] How much damage does it do.
 [u2198 | 03:13:53.280-03:13:54.180 | Unknown] 4d10.
-[u2199 | 03:13:55.440-03:13:57.210 | DM] {{Outside}} roll for the big tree.
+[u2199 | 03:13:55.440-03:13:57.210 | DM] Also I roll for the big tree.
 [u2200 | 03:14:00.360-03:14:01.950 | DM] Big tree also makes its save.
 [u2201 | 03:14:03.750-03:14:06.300 | Delwath] They all also get a level of exhaustion.
 [u2202 | 03:14:07.710-03:14:08.130 | DM] Okay.
@@ -2265,12 +2265,12 @@
 [u2265 | 03:18:57.660-03:19:01.050 | Iascaire] So yeah So it goes there and.
 [u2266 | 03:19:01.470-03:19:02.310 | DM] The big thing.
 [u2267 | 03:19:02.580-03:19:02.970 | Iascaire] yeah.
-[u2268 | 03:19:03.120-03:19:07.380 | Iascaire] makes a Dex save yeah it makes it it's got it's 18 {{out}}.
+[u2268 | 03:19:03.120-03:19:07.380 | Iascaire] makes a Dex save yeah it makes it it's got it's 18 now.
 [u2269 | 03:19:09.600-03:19:11.370 | DM] Okay, if fails its Dex save.
 [u2270 | 03:19:11.700-03:19:13.860 | Iascaire] Okay, so it takes 2d6.
 [u2271 | 03:19:14.940-03:19:15.180 | Iascaire] yeah.
 [u2272 | 03:19:23.700-03:19:29.130 | Iascaire] So oh wow three fire damage, maybe, maybe don't concentrate all its hits on it again.
-[u2273 | 03:19:29.790-03:19:39.600 | DM] The the flames kind of race up its {{bought}} the body of this tree crackling and burning and it seems to be taking even more damage than you would expect.
+[u2273 | 03:19:29.790-03:19:39.600 | DM] The the flames kind of race up its bark— the body of this tree crackling and burning and it seems to be taking even more damage than you would expect.
 [u2274 | 03:19:40.050-03:19:41.820 | Iascaire] whoo six damage instead of three.
 [u2275 | 03:19:42.960-03:19:43.470 | Unknown] And then.
 [u2276 | 03:19:45.000-03:19:48.660 | Iascaire] And then I will do the bonus action for metal again.
@@ -2311,10 +2311,10 @@
 [u2311 | 03:21:53.310-03:21:53.640 | Aristaea] it's if.
 [u2312 | 03:21:55.230-03:21:59.190 | Aristaea] it's already in moonbeam which is my only fire right ability.
 [u2313 | 03:22:00.630-03:22:00.930 | Aristaea] Be.
-[u2314 | 03:22:02.160-03:22:07.560 | DM] {{No damage}} from your Pike it just seemed that stabbing it wasn't super effective.
+[u2314 | 03:22:02.160-03:22:07.560 | DM] No damage from your Pike it just seemed that stabbing it wasn't super effective.
 [u2315 | 03:22:09.450-03:22:12.810 | DM] It burns up fast with fire and it resists piercing.
 [u2316 | 03:22:14.700-03:22:15.540 | Aristaea] All right, well.
-[u2317 | 03:22:18.690-03:22:19.770 | DM] {{I know it's my}}.
+[u2317 | 03:22:18.690-03:22:19.770 | DM] And a smite.
 [u2318 | 03:22:19.830-03:22:21.750 | DM] it's not going to resist radiant damage.
 [u2319 | 03:22:23.220-03:22:25.800 | Aristaea] But that would break my Moonbeam which.
 [u2320 | 03:22:25.920-03:22:27.810 | Delwath] No, Smite doesn't require concentration.
@@ -2343,7 +2343,7 @@
 [u2343 | 03:23:30.240-03:23:34.590 | DM] that's funny but you're but Aristaea can make an attack of opportunity.
 [u2344 | 03:23:35.670-03:23:39.300 | DM] And you can also if you want use a bonus action to move the moon.
 [u2345 | 03:23:40.950-03:23:43.950 | Aristaea] Yes, I definitely want to use a bonus action to move the Moonbeam.
-[u2346 | 03:23:44.250-03:23:45.210 | Aristaea] {{A better person}}.
+[u2346 | 03:23:44.250-03:23:45.210 | Aristaea] A better person.
 [u2347 | 03:23:48.420-03:23:52.950 | Aristaea] On each of my turns after I cast a spell I can use an action to move the beam.
 [u2348 | 03:23:54.750-03:23:57.750 | DM] So it's an action if you want to move it so that means you can't attack.
 [u2349 | 03:24:02.190-03:24:04.020 | Iascaire] But you can attack when it left your.
@@ -2371,9 +2371,9 @@
 [u2371 | 03:25:35.940-03:25:40.290 | Delwath] it's going to be less likely, I mean it could still move towards us obviously but.
 [u2372 | 03:25:41.370-03:25:42.270 | Delwath] That means that if it.
 [u2373 | 03:25:42.480-03:25:44.160 | Delwath] runs away from us then.
-[u2374 | 03:25:47.550-03:25:48.660 | Aristaea] it's a good {{player}}, but.
+[u2374 | 03:25:47.550-03:25:48.660 | Aristaea] it's a good plan, but.
 [u2375 | 03:25:48.840-03:25:49.500 | Aristaea] that's where it but.
-[u2376 | 03:25:50.640-03:25:53.340 | Aristaea] Now i'm done with my {{bed}}, because I had one.
+[u2376 | 03:25:50.640-03:25:53.340 | Aristaea] Now i'm done with my bed, because I had one.
 [u2377 | 03:25:53.430-03:25:53.880 | DM] Must when.
 [u2378 | 03:25:54.270-03:25:55.230 | DM] you're done with your turn.
 [u2379 | 03:25:56.310-03:25:57.390 | DM] Delwath is next.
@@ -2432,7 +2432,7 @@
 [u2432 | 03:29:32.250-03:29:33.330 | Iascaire] I got the filleting knife.
 [u2433 | 03:29:36.300-03:29:38.250 | DM] I guess that can count as a dagger if you want.
 [u2434 | 03:29:38.730-03:29:40.170 | Iascaire] Oh yeah it's a dagger for sure.
-[u2435 | 03:29:41.580-03:29:44.520 | Iascaire] {{I roll stepping on it goes like this wind}}.
+[u2435 | 03:29:41.580-03:29:44.520 | Iascaire] I roll stepping on it goes like this wind.
 [u2436 | 03:29:47.400-03:29:52.140 | DM] yeah that does not hit now this tree needs to make a con save for.
 [u2437 | 03:29:55.950-03:29:57.840 | DM] For the sickening radiance.
 [u2438 | 03:30:02.220-03:30:04.170 | DM] That is going to be.
@@ -2497,8 +2497,8 @@
 [u2497 | 03:33:27.810-03:33:29.760 | Delwath] 60 points of fire damage will be pretty good.
 [u2498 | 03:33:30.570-03:33:34.230 | DM] giant trees don't have great Dex 13.
 [u2499 | 03:33:38.070-03:33:40.260 | DM] that's got a minus two Dex, seven.
-[u2500 | 03:33:43.140-03:33:59.490 | DM] The swarm only has two points left so it's gone so well {{thousand}} okay Dex the wolf the wolf rolled an 18 so the wolf takes half damage the swarm is gone the tree is looking badly hurt as it burst into flames a.
-[u2501 | 03:33:59.490-03:34:00.840 | Delwath] Big tree or the little {{town}}.
+[u2500 | 03:33:43.140-03:33:59.490 | DM] The swarm only has two points left so it's gone so well thousand okay Dex the wolf the wolf rolled an 18 so the wolf takes half damage the swarm is gone the tree is looking badly hurt as it burst into flames a.
+[u2501 | 03:33:59.490-03:34:00.840 | Delwath] Big tree or the little town.
 [u2502 | 03:34:01.140-03:34:06.450 | DM] The big tree the little tree is blown away completely.
 [u2503 | 03:34:07.740-03:34:08.130 | Iascaire] Sweet.
 [u2504 | 03:34:09.540-03:34:09.960 | Iascaire] The.
@@ -2524,7 +2524,7 @@
 [u2524 | 03:36:13.200-03:36:13.710 | Aristaea] alright.
 [u2525 | 03:36:19.050-03:36:22.740 | Aristaea] So, moving my moonbeam as an action.
 [u2526 | 03:36:25.290-03:36:25.650 | Delwath] I just.
-[u2527 | 03:36:26.220-03:36:27.450 | Delwath] {{Had a guy}} and i'll probably kill him.
+[u2527 | 03:36:26.220-03:36:27.450 | Delwath] Hit that guy and i'll probably kill him.
 [u2528 | 03:36:29.130-03:36:31.650 | Aristaea] yeah i'm gonna beam the guy and the werewolf.
 [u2529 | 03:36:32.100-03:36:34.410 | Delwath] And you'll get all three of them right.
 [u2530 | 03:36:37.530-03:36:38.040 | DM] No.
@@ -2568,7 +2568,7 @@
 [u2568 | 03:39:04.920-03:39:06.570 | Delwath] That was a useless Oh well.
 [u2569 | 03:39:10.200-03:39:11.340 | Delwath] I should have just blasted it.
 [u2570 | 03:39:13.620-03:39:17.640 | Delwath] And that's that that's what i'm doing here.
-[u2571 | 03:39:21.450-03:39:22.950 | Delwath] minus {{good point}} on its save.
+[u2571 | 03:39:21.450-03:39:22.950 | Delwath] minus d4 on its save.
 [u2572 | 03:39:24.240-03:39:26.610 | DM] Ah that's a 16.
 [u2573 | 03:39:28.320-03:39:29.370 | DM] I think that's gonna make it.
 [u2574 | 03:39:34.020-03:39:37.230 | DM] Because even with the minus one it's a 15.
@@ -2583,7 +2583,7 @@
 [u2583 | 03:40:31.830-03:40:33.090 | DM] smoldering.
 [u2584 | 03:40:34.110-03:40:38.100 | DM] logs but this thing is dead from the Moonbeam.
 [u2585 | 03:40:39.330-03:40:43.440 | Aristaea] And also damage the werewolf to the thing.
-[u2586 | 03:40:44.280-03:40:44.880 | Aristaea] Yes, {{wrong}}.
+[u2586 | 03:40:44.280-03:40:44.880 | Aristaea] Yes, wrong.
 [u2587 | 03:40:45.270-03:40:50.100 | DM] I gotta roll the wolf save to I failed that save and actually, that is.
 [u2588 | 03:40:51.270-03:40:55.110 | DM] going to be enough to kill the wolf as well.
 [u2589 | 03:40:57.270-03:41:01.440 | DM] whoops I deleted the wall of fire there's too many effects up here.
@@ -2591,7 +2591,7 @@
 [u2591 | 03:41:10.350-03:41:14.460 | DM] Okay, so let's see after Delwath yeah Iascaire's up.
 [u2592 | 03:41:19.710-03:41:22.380 | Iascaire] I got my concentration going.
 [u2593 | 03:41:24.240-03:41:25.680 | Iascaire] I.
-[u2594 | 03:41:25.710-03:41:31.350 | DM] No, the boar, sorry, on initiative count {{for}} emerges.
+[u2594 | 03:41:25.710-03:41:31.350 | DM] No, the boar, sorry, on initiative count four emerges.
 [u2595 | 03:41:36.750-03:41:37.170 | Iascaire] yeah.
 [u2596 | 03:41:38.460-03:41:41.910 | Delwath] I mean take out that I mean i'd go after the trees.
 [u2597 | 03:41:45.660-03:41:47.790 | Iascaire] yeah yeah.
@@ -2619,7 +2619,7 @@
 [u2619 | 03:43:21.120-03:43:24.150 | Iascaire] So that one would have been good that one's also good.
 [u2620 | 03:43:24.990-03:43:25.290 | Unknown] yeah.
 [u2621 | 03:43:28.230-03:43:28.440 | Iascaire] That.
-[u2622 | 03:43:29.670-03:43:32.340 | DM] {{richie's}} little ones only have 10 hit points and.
+[u2622 | 03:43:29.670-03:43:32.340 | DM] These little ones only have 10 hit points and.
 [u2623 | 03:43:32.820-03:43:33.480 | Iascaire] it's dead.
 [u2624 | 03:43:33.690-03:43:38.040 | Iascaire] regards the time Okay, so that one's down, and I will.
 [u2625 | 03:43:39.690-03:43:42.630 | Iascaire] use my bonus action to get.
@@ -2661,7 +2661,7 @@
 [u2661 | 03:45:30.360-03:45:35.910 | DM] These ones can move 20 feet, so the 234.
 [u2662 | 03:45:37.590-03:46:09.330 | DM] doesn't like the fire and it's going to go 123412345678 234-568-1234 567-812-3456 781-234-5678.
 [u2663 | 03:46:19.830-03:46:25.320 | DM] Actually, this one, this one can go 1234567 down now.
-[u2664 | 03:46:26.790-03:46:32.190 | DM] That as their turn {{bladed}} tree is in sickening Radiance so it needs to make a Con save.
+[u2664 | 03:46:26.790-03:46:32.190 | DM] That as their turn blighted tree is in sickening Radiance so it needs to make a Con save.
 [u2665 | 03:46:33.630-03:46:35.880 | Delwath] 1917.
 [u2666 | 03:46:36.360-03:46:46.920 | DM] Okay, so that takes no damage and though it's badly wounded, is going to stop there, and take a swing at Delwath.
 [u2667 | 03:46:49.680-03:46:51.240 | DM] Which is a 19 to hit.
@@ -2671,7 +2671,7 @@
 [u2671 | 03:47:05.130-03:47:06.030 | DM] Okay.
 [u2672 | 03:47:10.260-03:47:11.070 | DM] Aristaea you're up.
 [u2673 | 03:47:15.570-03:47:16.080 | Aristaea] i'm.
-[u2674 | 03:47:16.350-03:47:18.000 | Aristaea] getting tired and I {{wouldn't really be in}}.
+[u2674 | 03:47:16.350-03:47:18.000 | Aristaea] getting tired and I wouldn't really be in.
 [u2675 | 03:47:18.000-03:47:18.780 | Delwath] These guys.
 [u2676 | 03:47:19.440-03:47:22.260 | Aristaea] i'm going to Moonbeam these guys and just tired of it.
 [u2677 | 03:47:27.390-03:47:32.310 | Aristaea] put it on the tree that's close to me and the one next to it.
@@ -2727,9 +2727,9 @@
 [u2727 | 03:51:40.800-03:51:45.750 | Delwath] Okay, it doesn't have that many hit points does that seem like it was making progress.
 [u2728 | 03:51:45.780-03:51:54.240 | DM] If making progress it's wiggling the arm but it's the arm is laying on the ground so it's not how it's a small creature.
 [u2729 | 03:51:55.650-03:51:57.180 | DM] How much weight can it lift.
-[u2730 | 03:52:01.620-03:52:02.730 | Delwath] Can I summon {{the way}}.
-[u2731 | 03:52:03.000-03:52:05.370 | DM] i've never summoned {{the way}} you can summon it {{with}}.
-[u2732 | 03:52:05.820-03:52:09.300 | Delwath] yeah i'll summon {{the lead form}}, but as a strength of one.
+[u2730 | 03:52:01.620-03:52:02.730 | Delwath] Can I summon the winged.
+[u2731 | 03:52:03.000-03:52:05.370 | DM] I've never summoned the winged. You can summon it with.
+[u2732 | 03:52:05.820-03:52:09.300 | Delwath] yeah i'll summon the land form, but as a strength of one.
 [u2733 | 03:52:10.920-03:52:16.770 | Delwath] I mean a strength of 13 but the land form is supposed to small but the land form is bigger and.
 [u2734 | 03:52:17.910-03:52:18.780 | Delwath] I know.
 [u2735 | 03:52:19.560-03:52:27.270 | Delwath] The land form get attacked by things now i'm gonna i'm gonna summon because it can fly it can it can do like a flyby right, so it can.
@@ -2827,7 +2827,7 @@
 [u2827 | 03:59:04.680-03:59:06.540 | DM] Did you read that the blessings you got.
 [u2828 | 03:59:08.430-03:59:09.690 | Delwath] Oh, you should totally use that.
 [u2829 | 03:59:12.660-03:59:15.030 | Aristaea] I have no idea what anyone is saying.
-[u2830 | 03:59:15.840-03:59:18.240 | DM] That {{match right}} a critical hit into a regular hit.
+[u2830 | 03:59:15.840-03:59:18.240 | DM] That can turn a critical hit into a regular hit.
 [u2831 | 03:59:20.640-03:59:21.540 | DM] OK ready thought.
 [u2832 | 03:59:25.230-03:59:25.710 | DM] It uses.
 [u2833 | 03:59:33.300-03:59:37.080 | Aristaea] tell me what i'm doing what do I need to I need to roll something.
@@ -2841,15 +2841,15 @@
 [u2841 | 04:00:11.850-04:00:12.180 | Iascaire] Okay.
 [u2842 | 04:00:12.480-04:00:16.560 | DM] So make a Con save, they need to make a Con save but remember you you're.
 [u2843 | 04:00:17.790-04:00:22.860 | DM] you're in the aura so you well, it doesn't matter anyway, but you get an additional plus three because you're in the aura.
-[u2844 | 04:00:23.640-04:00:29.610 | DM] sweet {{cancer}} concentration stays, the wall does not go, but you do take nine points of damage.
+[u2844 | 04:00:23.640-04:00:29.610 | DM] sweet Con save concentration stays, the wall does not go, but you do take nine points of damage.
 [u2845 | 04:00:30.060-04:00:30.840 | Iascaire] Sorry nine he said.
-[u2846 | 04:00:31.380-04:00:34.320 | Iascaire] yep okay thanks for saving my {{making}}.
-[u2847 | 04:00:36.120-04:00:42.180 | Aristaea] sure everyone reminder, I thought it was something for me, because it had to be fixed my {{Armor edibles}}.
+[u2846 | 04:00:31.380-04:00:34.320 | Iascaire] yep okay thanks for saving my bacon.
+[u2847 | 04:00:36.120-04:00:42.180 | Aristaea] sure everyone reminder, I thought it was something for me, because it had to be fixed my Armor edibles.
 [u2848 | 04:00:43.560-04:00:44.070 | Iascaire] I might.
 [u2849 | 04:00:45.060-04:00:47.730 | Iascaire] continue moving up from here.
 [u2850 | 04:00:51.720-04:01:01.770 | Iascaire] case so where was I was down here so 510 1520 2530 now.
 [u2851 | 04:01:01.920-04:01:03.330 | Delwath] And then burning hands.
-[u2852 | 04:01:03.360-04:01:08.580 | Delwath] that'll get don't probably can't leave the other trees, {{do you arrive on a risk}} and.
+[u2852 | 04:01:03.360-04:01:08.580 | Delwath] that'll get don't probably can't leave the other trees, do you arrive on a risk and.
 [u2853 | 04:01:08.610-04:01:11.670 | DM] you're gonna get another opportunity attack, if you do if you leave.
 [u2854 | 04:01:11.850-04:01:16.380 | Iascaire] Give me a minute i'm gonna stay right there burning hands down.
 [u2855 | 04:01:18.810-04:01:21.900 | DM] So stay oops stay.
@@ -2863,7 +2863,7 @@
 [u2863 | 04:01:50.310-04:01:51.240 | DM] like that.
 [u2864 | 04:01:52.050-04:01:56.310 | Iascaire] Actually, I was thinking like straight down would probably hit the.
 [u2865 | 04:01:58.380-04:01:59.310 | Iascaire] Big guy.
-[u2866 | 04:01:59.370-04:02:00.510 | Iascaire] {{Road}} little ones.
+[u2866 | 04:01:59.370-04:02:00.510 | Iascaire] Both little ones.
 [u2867 | 04:02:04.290-04:02:04.920 | DM] Ah.
 [u2868 | 04:02:06.060-04:02:08.040 | Iascaire] yeah like that, and then rotated.
 [u2869 | 04:02:11.760-04:02:12.990 | Iascaire] One clockwise.
@@ -2899,7 +2899,7 @@
 [u2899 | 04:04:13.650-04:04:15.720 | Delwath] Are these also trees are they fire.
 [u2900 | 04:04:15.870-04:04:19.200 | DM] they're also trees yeah that actually kills this one.
 [u2901 | 04:04:20.430-04:04:22.350 | Iascaire] and Kate saved no damage at all.
-[u2902 | 04:04:22.710-04:04:25.140 | DM] And the one that's {{a positive image}} okay.
+[u2902 | 04:04:22.710-04:04:25.140 | DM] And the one that's a positive image okay.
 [u2903 | 04:04:25.800-04:04:28.980 | DM] All right, that's pretty effective clearing out some.
 [u2904 | 04:04:29.070-04:04:30.030 | DM] rotten wood there.
 [u2905 | 04:04:30.870-04:04:34.020 | Iascaire] was an hour right didn't hurt any my buddies OK.
@@ -2960,7 +2960,7 @@
 [u2960 | 04:08:55.890-04:08:56.880 | Delwath] That was the strength.
 [u2961 | 04:08:58.410-04:09:01.740 | DM] It takes two more points of.
 [u2962 | 04:09:03.000-04:09:04.260 | DM] Necrotic damage.
-[u2963 | 04:09:06.030-04:09:23.550 | DM] And it gets the the bracelet it manages to like drop it so that it's now around the things fingers like resting in its palm and next turn is going to be able to pick it up and fly off, but hasn't quite got there yet {{quite good enough trap REP}}.
+[u2963 | 04:09:06.030-04:09:23.550 | DM] And it gets the the bracelet it manages to like drop it so that it's now around the things fingers like resting in its palm and next turn is going to be able to pick it up and fly off, but hasn't quite got there yet quite good enough trap REP.
 [u2964 | 04:09:24.300-04:09:27.360 | Delwath] Okay um I will ban.
 [u2965 | 04:09:30.120-04:09:31.500 | Delwath] i'm just gonna i'll just blast.
 [u2966 | 04:09:32.520-04:09:35.880 | Delwath] I got the the almost dead, one first.
@@ -2971,17 +2971,17 @@
 [u2971 | 04:09:48.570-04:09:52.590 | DM] that's a swarm of demonic birds burst out of its chest.
 [u2972 | 04:09:52.980-04:09:53.340 | Unknown] Okay.
 [u2973 | 04:09:57.210-04:09:58.200 | DM] 16 hits yeah.
-[u2974 | 04:09:58.410-04:09:59.160 | Delwath] {{great damage}}.
+[u2974 | 04:09:58.410-04:09:59.160 | Delwath] eight damage.
 [u2975 | 04:09:59.190-04:10:00.060 | DM] Or you blasting.
 [u2976 | 04:10:00.750-04:10:01.170 | Unknown] The.
 [u2977 | 04:10:03.120-04:10:03.570 | Delwath] This one.
 [u2978 | 04:10:05.430-04:10:05.790 | DM] Okay.
-[u2979 | 04:10:05.970-04:10:07.050 | Delwath] {{This tree damaged}} kill it.
+[u2979 | 04:10:05.970-04:10:07.050 | Delwath] This tree damaged kill it.
 [u2980 | 04:10:08.190-04:10:09.420 | DM] That one's not wounded yet.
 [u2981 | 04:10:10.230-04:10:11.670 | Delwath] Oh, I thought, Kate hit this one.
 [u2982 | 04:10:12.540-04:10:13.530 | DM] Kate killed one.
 [u2983 | 04:10:14.010-04:10:14.310 | Unknown] OK.
-[u2984 | 04:10:17.190-04:10:18.630 | Delwath] I will hit it again and do {{not}}.
+[u2984 | 04:10:17.190-04:10:18.630 | Delwath] I will hit it again and do not.
 [u2985 | 04:10:23.130-04:10:24.060 | DM] Iascaire.
 [u2986 | 04:10:25.860-04:10:26.370 | Iascaire] Okay.
 [u2987 | 04:10:32.610-04:10:34.740 | DM] How many hit points does your shadow beast have left.
@@ -3043,7 +3043,7 @@
 [u3043 | 04:14:20.550-04:14:25.140 | Delwath] A 910 1112 wow.
 [u3044 | 04:14:26.370-04:14:32.940 | Delwath] But it didn't use this action, so we can dash right yep so it's gonna fly to like right here and drop the thing on the.
 [u3045 | 04:14:34.290-04:14:34.710 | DM] Okay.
-[u3046 | 04:14:37.440-04:14:39.420 | Delwath] that's its action {{I suck at it, the Gao}}.
+[u3046 | 04:14:37.440-04:14:39.420 | Delwath] that's its action I suck at it, the Gao.
 [u3047 | 04:14:39.870-04:14:43.200 | Delwath] yeah I am going to.
 [u3048 | 04:14:44.760-04:14:45.570 | Delwath] Man should I just.
 [u3049 | 04:14:50.550-04:14:52.110 | Delwath] How far away, is that creature.
@@ -3132,5 +3132,5 @@
 [u3132 | 04:20:22.920-04:20:28.170 | DM] pause for a minute in the silence and realize that, for the past 10 minutes past.
 [u3133 | 04:20:29.220-04:20:40.830 | DM] Two or three minutes nothing's been following you and you can pause and take a breather and I think, given that it is a little later than I wanted to go we'll stop there for tonight and we'll pick it up in two weeks.
 [u3134 | 04:20:41.550-04:20:42.090 | Delwath] sounds good.
-[u3135 | 04:20:42.540-04:20:47.250 | DM] But don't take a long rest yet because yeah I don't know if you'll actually {{get it succeed}}.
+[u3135 | 04:20:42.540-04:20:47.250 | DM] But don't take a long rest yet because yeah I don't know if you'll actually get it succeed.
 [u3136 | 04:20:47.730-04:20:48.810 | Delwath] What were you expecting.
