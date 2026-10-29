@@ -4,7 +4,7 @@
 [u0004 | 00:00:04.620-00:00:05.400 | Kenzo] amazing photo.
 [u0005 | 00:00:07.500-00:00:08.820 | DM] I don't know what just happened there.
 [u0006 | 00:00:10.019-00:00:13.110 | Kenzo] you're about to reveal to us the secrets of the Society of the Open Scroll and then you.
-[u0007 | 00:00:13.920-00:00:16.619 | Seeker] think the {{sentence 30 garage}} is working for.
+[u0007 | 00:00:13.920-00:00:16.619 | Seeker] think the sentence 30 garage is working for.
 [u0008 | 00:00:16.800-00:00:19.110 | Kenzo] yeah here is the org chart.
 [u0009 | 00:00:19.140-00:00:20.190 | Seeker] And it is.
 [u0010 | 00:00:20.520-00:00:20.940 | Unknown] And then.
@@ -19,14 +19,14 @@
 [u0019 | 00:00:44.550-00:00:45.150 | DM] and
 [u0020 | 00:00:46.380-00:00:47.130 | DM] yeah so.
 [u0021 | 00:00:49.560-00:00:58.350 | DM] So Wellby that fire gets too hot and you got to duck out before you find anything Kenzo you're fine searching but don't turn up anything.
-[u0022 | 00:00:59.460-00:01:03.480 | DM] Kenzo {{you are sat}} Delwath you do see two.
+[u0022 | 00:00:59.460-00:01:03.480 | DM] Kenzo you are sat Delwath you do see two.
 [u0023 | 00:01:05.640-00:01:10.470 | DM] bits of shiny metal buried among the ash one is.
 [u0024 | 00:01:11.820-00:01:29.220 | DM] The purse of coins, which has the purse itself has smoldered and the coins themselves, you know a few have begun to well, I guess, no I wouldn't have gotten hot enough to melt gold so there's I forget how many coins, you get how much gold, you gave the bandits, but it was.
 [u0025 | 00:01:30.870-00:01:38.430 | DM] 72 I like 140 gold, I think.
 [u0026 | 00:01:39.630-00:01:40.020 | DM] I'm.
 [u0027 | 00:01:43.260-00:01:44.220 | DM] something and then.
 [u0028 | 00:01:44.640-00:01:47.130 | DM] And then, also the Horn of Silent Alarm with.
-[u0029 | 00:01:49.830-00:01:50.790 | Kenzo] {{me to those}}.
+[u0029 | 00:01:49.830-00:01:50.790 | Kenzo] need two of those.
 [u0030 | 00:01:51.390-00:01:52.560 | DM] you've got to have those yeah.
 [u0031 | 00:01:55.530-00:01:55.800 | Unknown] Oh.
 [u0032 | 00:02:00.060-00:02:00.540 | Delwath] Okay.
@@ -75,7 +75,7 @@
 [u0075 | 00:04:54.360-00:04:55.770 | DM] Not all of you combined.
 [u0076 | 00:04:56.220-00:04:57.720 | Kenzo] Like I could take it one on one probably.
 [u0077 | 00:05:00.180-00:05:02.430 | DM] Maybe you can try ah.
-[u0078 | 00:05:02.820-00:05:05.670 | Kenzo] we're here on a peaceful mission we're not just starting random pledges monsters been.
+[u0078 | 00:05:02.820-00:05:05.670 | Kenzo] we're here on a peaceful mission we're not just starting random fights with monsters been.
 [u0079 | 00:05:06.900-00:05:07.170 | Seeker] Pretty.
 [u0080 | 00:05:08.640-00:05:09.270 | Kenzo] of our body.
 [u0081 | 00:05:09.420-00:05:12.240 | DM] And it is, it is definitely like.
@@ -96,7 +96,7 @@
 [u0096 | 00:06:19.980-00:06:20.850 | Kenzo] I'm ready I'm.
 [u0097 | 00:06:20.910-00:06:23.490 | Kenzo] I'm using these facial expressions and tone of voice.
 [u0098 | 00:06:23.490-00:06:28.380 | Kenzo] To say, well, maybe we don't have to kill every monster we meet.
-[u0099 | 00:06:29.250-00:06:33.690 | Wellby] um well, I was throwing up for like here was the Horn of Silent Alarm waking me up.
+[u0099 | 00:06:29.250-00:06:33.690 | Wellby] um well, I was throwing up for like here with the Horn of Silent Alarm waking me up.
 [u0100 | 00:06:34.200-00:06:39.600 | Kenzo] yeah sorry about that, I mean I'm not sorry about that, but I sense a little tension in our relationship, you have a lot.
 [u0101 | 00:06:45.210-00:06:45.660 | Kenzo] about this.
 [u0102 | 00:06:45.960-00:06:53.370 | Kenzo] I'll stop blowing the Horn of Silent Alarm you stop putting our party unnecessarily in danger by striking out at monsters that we run into.
@@ -104,16 +104,16 @@
 [u0104 | 00:07:03.810-00:07:04.470 | Delwath] Okay.
 [u0105 | 00:07:04.770-00:07:13.650 | Kenzo] You you and I were on the same page yesterday let's just let's just let's just because you are my brother in arms yesterday against the Chardonian, and so I think we did have a moment of great reconciliation in our.
 [u0106 | 00:07:13.650-00:07:16.170 | Wellby] relationship, I am just giving you shit at this point but.
-[u0107 | 00:07:17.400-00:07:21.750 | Wellby] If if we don't kill this thing the next people who wander up this way {{or just get a chance}} right.
+[u0107 | 00:07:17.400-00:07:21.750 | Wellby] If if we don't kill this thing the next people who wander up this way are just gonna get chomped right.
 [u0108 | 00:07:22.710-00:07:30.210 | Kenzo] Wellby you know, not all creatures are monsters, this is living peacefully in its little fucking poisonous.
-[u0109 | 00:07:31.230-00:07:34.920 | Delwath] Like lake did you say it's like a {{park}} was surrounded by poison.
-[u0110 | 00:07:35.400-00:07:37.710 | Wellby] its soul was {{suction poison}}.
+[u0109 | 00:07:31.230-00:07:34.920 | Delwath] Like lake did you say it's like a heart was surrounded by poison.
+[u0110 | 00:07:35.400-00:07:37.710 | Wellby] its soul was suffused with poison.
 [u0111 | 00:07:38.370-00:07:44.460 | Kenzo] yeah it's not it's not angry now it's not nefarious it's just it's just you know just.
 [u0112 | 00:07:44.490-00:07:47.130 | Delwath] poisonous embodiment of poison.
 [u0113 | 00:07:48.360-00:08:00.810 | Kenzo] yeah but, but again poison from a certain perspective is also a part of life it's not you know it's not there, just like harmfully trying to do evil things to people right it's just it's living its life and doing its thing.
 [u0114 | 00:08:02.730-00:08:03.840 | Riswynn] Do you think it eats.
 [u0115 | 00:08:07.590-00:08:11.820 | Kenzo] Well Riswynn is not here right now, but it doesn't work here you're asking me to, I think it eats people.
-[u0116 | 00:08:16.470-00:08:19.980 | Kenzo] I don't think it's necessary for us to kill it doesn't feel like it's doing anything {{I'm counting on it}}.
+[u0116 | 00:08:16.470-00:08:19.980 | Kenzo] I don't think it's necessary for us to kill it doesn't feel like it's doing anything uncalled for.
 [u0117 | 00:08:22.740-00:08:25.020 | Kenzo] I mean you guys really want to kill it I'll help you, but I.
 [u0118 | 00:08:26.310-00:08:28.350 | Kenzo] don't see the reason to right now.
 [u0119 | 00:08:31.620-00:08:34.920 | Wellby] We should probably {{live with it, and so you know it's killing me}}.
@@ -130,8 +130,8 @@
 [u0130 | 00:09:31.620-00:09:33.780 | Kenzo] we're going to go ambush a fucking troll all right.
 [u0131 | 00:09:36.000-00:09:37.440 | Delwath] Trolls are our friends.
 [u0132 | 00:09:39.600-00:09:47.100 | Kenzo] I don't know like I've got problems with the world view that we have here about you know, you felt bad bad about killing that that family of.
-[u0133 | 00:09:48.150-00:09:49.230 | Kenzo] {{More of those}} that family of.
-[u0134 | 00:09:52.020-00:09:52.380 | Seeker] course.
+[u0133 | 00:09:48.150-00:09:49.230 | Kenzo] What were those that family of.
+[u0134 | 00:09:52.020-00:09:52.380 | Seeker] orcs.
 [u0135 | 00:09:53.010-00:09:53.250 | Unknown] Look.
 [u0136 | 00:09:57.150-00:09:57.810 | Seeker] yeah.
 [u0137 | 00:09:58.710-00:09:59.010 | Seeker] Like.
@@ -143,7 +143,7 @@
 [u0143 | 00:10:14.100-00:10:19.590 | Kenzo] it's not, though, Tim like this one wasn't right I soul sighted it, and it was just confused right.
 [u0144 | 00:10:19.950-00:10:29.190 | Seeker] It was confused because its wyvern friends were missing what kind of relationship, do you think it I'll turn myself into a wyvern and talk to it how's that.
 [u0145 | 00:10:29.730-00:10:30.930 | Wellby] Do you guys want to put in the mirror.
-[u0146 | 00:10:33.750-00:10:35.820 | Seeker] We, we have a {{winner and}}.
+[u0146 | 00:10:33.750-00:10:35.820 | Seeker] We, we have a wyvern.
 [u0147 | 00:10:36.900-00:10:38.910 | Delwath] You know let's just put it in the mirror.
 [u0148 | 00:10:41.520-00:10:43.320 | Seeker] How many slots have we got left in the mirror.
 [u0149 | 00:10:45.180-00:10:47.160 | Riswynn] Is it powerful enough to be useful.
@@ -153,13 +153,13 @@
 [u0153 | 00:11:04.710-00:11:06.150 | Delwath] Then it becomes this next.
 [u0154 | 00:11:06.720-00:11:09.180 | Wellby] yeah it becomes the Society of the Open Scroll's problem.
 [u0155 | 00:11:10.200-00:11:12.990 | Wellby] When we let it out inside their headquarters.
-[u0156 | 00:11:14.940-00:11:15.810 | Kenzo] I seem to be a great moment.
+[u0156 | 00:11:14.940-00:11:15.810 | Kenzo] It's gonna be a great moment.
 [u0157 | 00:11:15.840-00:11:17.790 | Delwath] Along with our wizard friends.
 [u0158 | 00:11:18.270-00:11:18.630 | Kenzo] it's gonna be.
 [u0159 | 00:11:20.850-00:11:23.850 | Riswynn] fun we're just trying to orchestrate every year.
 [u0160 | 00:11:24.810-00:11:35.400 | Kenzo] I honestly, though, when we break that mirror and release when we simultaneously release all of the contents of the mirror, in whatever epic grand battle that's going to happen and it's going to be fucking amazing.
 [u0161 | 00:11:37.080-00:11:37.800 | Kenzo] wait for that moment.
-[u0162 | 00:11:37.920-00:11:42.030 | Delwath] What did that mean it shouldn't be that hard to.
+[u0162 | 00:11:37.920-00:11:42.030 | Delwath] Well, I mean it shouldn't be that hard to.
 [u0163 | 00:11:42.570-00:11:43.860 | Kenzo] also be super easy to trap it too.
 [u0164 | 00:11:44.070-00:11:47.730 | Delwath] Well, I mean we still have probably 30 minutes worth of invisibility.
 [u0165 | 00:11:47.850-00:11:49.260 | Delwath] Right somebody should just.
@@ -177,7 +177,7 @@
 [u0177 | 00:12:21.540-00:12:21.780 | Kenzo] No, but.
 [u0178 | 00:12:22.830-00:12:23.550 | Delwath] right away.
 [u0179 | 00:12:23.820-00:12:24.360 | Riswynn] It doesn't have.
-[u0180 | 00:12:24.870-00:12:26.220 | Riswynn] {{Here is married to go in and}}.
+[u0180 | 00:12:24.870-00:12:26.220 | Riswynn] Here is married to go in and.
 [u0181 | 00:12:26.220-00:12:30.840 | Kenzo] yeah It can also also I you know if I can jump and or if if.
 [u0182 | 00:12:32.040-00:12:35.700 | Kenzo] If Delwath makes me fly very easy to get away.
 [u0183 | 00:12:38.160-00:12:38.490 | Delwath] yeah.
@@ -199,7 +199,7 @@
 [u0199 | 00:13:30.060-00:13:31.050 | Kenzo] Alright plenty of space.
 [u0200 | 00:13:31.440-00:13:32.970 | Kenzo] yeah let's get.
 [u0201 | 00:13:35.010-00:13:39.210 | Kenzo] All right, Tim I am I, the one to do this because I'm the stealthiest and.
-[u0202 | 00:13:39.930-00:13:42.780 | Delwath] yeah I just need to be {{all that}} I'm just checking my fly spell.
+[u0202 | 00:13:39.930-00:13:42.780 | Delwath] yeah I just need to be hold on I'm just checking my fly spell.
 [u0203 | 00:13:43.350-00:13:43.680 | Kenzo] yeah how.
 [u0204 | 00:13:43.710-00:13:45.150 | DM] are ready within 30 feet.
 [u0205 | 00:13:45.870-00:13:46.830 | Kenzo] Perfect work.
@@ -221,13 +221,13 @@
 [u0221 | 00:14:22.860-00:14:25.830 | DM] Some somebody runs back and gets.
 [u0222 | 00:14:26.670-00:14:27.240 | Delwath] The mirror.
 [u0223 | 00:14:27.630-00:14:28.620 | Kenzo] The mirror the mirror is in.
-[u0224 | 00:14:28.680-00:14:30.060 | DM] {{and have the pocket}}.
+[u0224 | 00:14:28.680-00:14:30.060 | DM] in the pocket.
 [u0225 | 00:14:30.120-00:14:30.450 | Kenzo] Because he's.
 [u0226 | 00:14:30.900-00:14:32.070 | Delwath] got the portal yeah.
 [u0227 | 00:14:32.130-00:14:36.750 | DM] But you're not you're not getting Riswynn and Seeker you're just leaving.
 [u0228 | 00:14:36.750-00:14:38.460 | Kenzo] No, no, just the three of you just.
 [u0229 | 00:14:38.670-00:14:39.840 | Delwath] Just executing the plan.
-[u0230 | 00:14:39.900-00:14:41.640 | Kenzo] yeah we're just gonna I OPS right now.
+[u0230 | 00:14:39.900-00:14:41.640 | Kenzo] yeah we're just gonna black ops right now.
 [u0231 | 00:14:41.700-00:14:44.040 | Delwath] Why get wiser heads to talk.
 [u0232 | 00:14:44.100-00:14:45.720 | Kenzo] to her, oh no, no, no.
 [u0233 | 00:14:45.750-00:14:47.640 | Kenzo] So you're going to surprise them with the with the.
@@ -274,13 +274,13 @@
 [u0274 | 00:17:55.140-00:17:55.470 | DM] It.
 [u0275 | 00:17:56.610-00:18:03.900 | DM] It sort of looks around and it sees his reflection in the mirror and it kind of looks confused.
 [u0276 | 00:18:07.110-00:18:10.020 | DM] and takes this big stick that it has.
-[u0277 | 00:18:10.440-00:18:10.920 | Seeker] A boy.
+[u0277 | 00:18:10.440-00:18:10.920 | Seeker] Oh boy.
 [u0278 | 00:18:13.530-00:18:15.210 | DM] And swings it towards the mirror.
 [u0279 | 00:18:15.570-00:18:16.110 | Delwath] Oh wait.
 [u0280 | 00:18:16.470-00:18:18.150 | Wellby] isn't it 25 feet away or something.
 [u0281 | 00:18:18.510-00:18:20.010 | Delwath] It was 30 feet away.
 [u0282 | 00:18:20.970-00:18:22.950 | DM] yeah it's moving towards the mirror.
-[u0283 | 00:18:23.820-00:18:24.750 | Seeker] {{that's detection}}.
+[u0283 | 00:18:23.820-00:18:24.750 | Seeker] that's its action.
 [u0284 | 00:18:24.960-00:18:28.590 | DM] that's his action to walk towards the mirror and swing a big stick at it.
 [u0285 | 00:18:29.340-00:18:29.700 | Unknown] No.
 [u0286 | 00:18:30.900-00:18:38.250 | Delwath] Okay, I find the fact that because we're invisible sneaking up on it and planned we can't have a readied action, a little implausible.
@@ -290,7 +290,7 @@
 [u0290 | 00:18:43.740-00:18:45.240 | DM] Okay, you can.
 [u0291 | 00:18:50.130-00:18:55.770 | DM] It's gotta get a turn in order to make its check right to see the mirror.
 [u0292 | 00:18:56.910-00:19:00.660 | DM] So it fails to— it makes its save it gets to do something.
-[u0293 | 00:19:01.740-00:19:09.090 | Delwath] Right, but we are all prepared to run away {{it's like point}} we would just stand there watching it lumber towards us.
+[u0293 | 00:19:01.740-00:19:09.090 | Delwath] Right, but we are all prepared to run away at this point we would just stand there watching it lumber towards us.
 [u0294 | 00:19:09.630-00:19:20.580 | Delwath] it's impossible on the face of it, that we would just stand there saying oh we're just going to stand here I get I know D&D combat is not well structured to handle this but it's.
 [u0295 | 00:19:20.610-00:19:20.910 | Unknown] A lot.
 [u0296 | 00:19:22.500-00:19:28.620 | Kenzo] is to have them it's not like we're it's like have the mirror and if you if it walks up then Delwath casts fly we get the hell out of here.
@@ -301,8 +301,8 @@
 [u0301 | 00:19:45.930-00:19:53.400 | Wellby] You know, with the mirror and say there's something that happens on Kenzo's turn rather than I don't know I'm just.
 [u0302 | 00:19:55.620-00:19:59.280 | Delwath] I would just say we have a surprise round so we can in fact ready actions.
 [u0303 | 00:20:03.750-00:20:06.540 | Delwath] That seems to capture the whole idea of the ambush perfectly.
-[u0304 | 00:20:08.790-00:20:12.750 | Wellby] I will say {{the backdrop, I said}} I'm extremely excited it {{felt safe}} and we get to fight it.
-[u0305 | 00:20:14.520-00:20:32.220 | DM] {{out and save}} not have to make a save every turn but I'm so so okay here's the issue ah taking a taking a large mirror out of the portable hole is far from straightforward.
+[u0304 | 00:20:08.790-00:20:12.750 | Wellby] I will say that being said I'm extremely excited it failed its save and we get to fight it.
+[u0305 | 00:20:14.520-00:20:32.220 | DM] It made its save not have to make a save every turn but I'm so so okay here's the issue ah taking a taking a large mirror out of the portable hole is far from straightforward.
 [u0306 | 00:20:32.340-00:20:34.500 | Delwath] But we did that long before we walked over.
 [u0307 | 00:20:35.550-00:20:35.850 | Seeker] Right.
 [u0308 | 00:20:36.210-00:20:39.330 | DM] But then, then the mirror is approaching it right like.
@@ -325,7 +325,7 @@
 [u0325 | 00:21:53.160-00:21:56.040 | Kenzo] As a as a as a you know, since we are ambushing it.
 [u0326 | 00:21:57.450-00:22:00.570 | DM] Where you're sort of ambushing it.
 [u0327 | 00:22:01.920-00:22:03.210 | DM] it's aware of Delwath.
-[u0328 | 00:22:05.700-00:22:08.130 | DM] Right Delwath {{rolled high enough}} on stealth.
+[u0328 | 00:22:05.700-00:22:08.130 | DM] Right Delwath rolled high enough on stealth.
 [u0329 | 00:22:09.150-00:22:12.540 | DM] So Kenzo and Wellby can have a surprise round.
 [u0330 | 00:22:14.970-00:22:24.030 | Kenzo] So for my surprise round, can I, at least, like take the mirror and either shove, it back in the hole or like turn it away so that it's not going to get you know hit by a stick.
 [u0331 | 00:22:24.420-00:22:28.830 | DM] I will say you can attempt to interpose your body between.
@@ -337,7 +337,7 @@
 [u0337 | 00:22:46.590-00:22:48.450 | DM] rolling a five on initiative means.
 [u0338 | 00:22:49.560-00:22:50.670 | DM] yeah it gets the jump on.
 [u0339 | 00:22:53.040-00:22:53.400 | Delwath] it's just.
-[u0340 | 00:22:53.880-00:22:58.530 | Delwath] An area where {{the end nothing happens at once}} doesn't really.
+[u0340 | 00:22:53.880-00:22:58.530 | Delwath] An area where D&D, nothing happens at once doesn't really.
 [u0341 | 00:22:59.400-00:23:00.690 | Seeker] yeah the symbol.
 [u0342 | 00:23:01.140-00:23:02.490 | Delwath] Or that's what I would rule.
 [u0343 | 00:23:02.520-00:23:03.150 | Seeker] boolean.
@@ -349,10 +349,10 @@
 [u0349 | 00:23:18.120-00:23:18.630 | Kenzo] that's fine.
 [u0350 | 00:23:18.750-00:23:19.110 | Unknown] I guess.
 [u0351 | 00:23:20.160-00:23:23.430 | Delwath] It just it bugs me how useless invisibility is in this context.
-[u0352 | 00:23:24.660-00:23:35.730 | Delwath] It does not seem plausible that a group of invisible people should that should be unable, even if the troll hears us to surprise the troll {{was allowing visibility}}.
-[u0353 | 00:23:36.180-00:23:42.390 | DM] Well Kenzo {{Wellby is complete to Wellby can do whatever he wants}} Wellby certainly gets a surprise round.
+[u0352 | 00:23:24.660-00:23:35.730 | Delwath] It does not seem plausible that a group of invisible people should that should be unable, even if the troll hears us to surprise the troll while allowing visibility.
+[u0353 | 00:23:36.180-00:23:42.390 | DM] Well Kenzo Wellby is completely—Wellby can do whatever he wants Wellby certainly gets a surprise round.
 [u0354 | 00:23:42.840-00:23:44.040 | DM] Right he's invisible.
-[u0355 | 00:23:44.340-00:23:45.990 | Kenzo] {{Natural myself}}.
+[u0355 | 00:23:44.340-00:23:45.990 | Kenzo] And what about myself.
 [u0356 | 00:23:46.170-00:23:52.620 | DM] You are also if you weren't holding so that's the issue, the mirror has to be visible in order for it to.
 [u0357 | 00:23:53.730-00:23:56.760 | DM] Work it's not attacking you it's attacking the mirror.
 [u0358 | 00:23:56.820-00:23:59.580 | DM] Right right, the thing it can see is its reflection.
@@ -375,8 +375,8 @@
 [u0375 | 00:25:12.540-00:25:13.110 | DM] Ah.
 [u0376 | 00:25:14.130-00:25:16.380 | DM] let's see that's a 25.
 [u0377 | 00:25:17.160-00:25:18.450 | Seeker] No, I think.
-[u0378 | 00:25:18.660-00:25:19.860 | Delwath] {{just getting advantage}} because he.
-[u0379 | 00:25:19.860-00:25:20.610 | Seeker] {{popped the lead}}.
+[u0378 | 00:25:18.660-00:25:19.860 | Delwath] does it get disadvantage because he.
+[u0379 | 00:25:19.860-00:25:20.610 | Seeker] popped the lead.
 [u0380 | 00:25:23.970-00:25:25.530 | Wellby] yeah disadvantage is from invisibility.
 [u0381 | 00:25:25.890-00:25:26.190 | Unknown] Wait.
 [u0382 | 00:25:28.740-00:25:33.480 | Seeker] I'm not clear here that the mirror is visible but Kenzo was invisible so right.
@@ -386,8 +386,8 @@
 [u0386 | 00:25:49.170-00:25:51.150 | Delwath] It has historical precedents with.
 [u0387 | 00:25:51.510-00:25:52.380 | Delwath] invisible people.
 [u0388 | 00:25:52.950-00:25:56.130 | Delwath] So it makes sense to rule that way right.
-[u0389 | 00:25:57.720-00:25:59.550 | Delwath] {{it's always played them years it's}}.
-[u0390 | 00:25:59.550-00:26:02.610 | Delwath] {{About becoming disbelief your folders isn't visible}}.
+[u0389 | 00:25:57.720-00:25:59.550 | Delwath] it's always played them years it's.
+[u0390 | 00:25:59.550-00:26:02.610 | Delwath] About becoming disbelief your folders isn't visible.
 [u0391 | 00:26:04.740-00:26:06.180 | DM] So what's happening is.
 [u0392 | 00:26:06.240-00:26:21.360 | DM] Okay, so here's the scene you approach it notices it notices it hears something approaching Delwath and begins to move towards the sound when it is about 20 feet away.
 [u0393 | 00:26:22.680-00:26:23.010 | DM] I'm.
@@ -410,8 +410,8 @@
 [u0410 | 00:27:59.160-00:28:00.300 | DM] I think 60 is.
 [u0411 | 00:28:00.450-00:28:01.860 | DM] Now it is Delwath's turn.
 [u0412 | 00:28:03.990-00:28:04.410 | Wellby] Sorry.
-[u0413 | 00:28:06.030-00:28:07.140 | Wellby] {{Reduction resolve}}.
-[u0414 | 00:28:08.220-00:28:10.590 | Delwath] {{An issue with advantage}}.
+[u0413 | 00:28:06.030-00:28:07.140 | Wellby] Reduction resolve.
+[u0414 | 00:28:08.220-00:28:10.590 | Delwath] And I shoot with advantage.
 [u0415 | 00:28:12.810-00:28:13.950 | DM] But you will turn visible.
 [u0416 | 00:28:18.180-00:28:19.560 | Seeker] The mirror is now facing.
 [u0417 | 00:28:19.590-00:28:22.260 | DM] The opposite way from before and now facing the opposite way.
@@ -419,7 +419,7 @@
 [u0419 | 00:28:28.740-00:28:29.430 | DM] Yes.
 [u0420 | 00:28:32.220-00:28:33.600 | Riswynn] Kenzo can speak the.
 [u0421 | 00:28:34.230-00:28:34.530 | Riswynn] word.
-[u0422 | 00:28:35.040-00:28:36.210 | DM] {{For word been captured}}.
+[u0422 | 00:28:35.040-00:28:36.210 | DM] For word been captured.
 [u0423 | 00:28:37.350-00:28:40.590 | Kenzo] When it's Kenzo's turn he's gonna spin and use the mirror again, one more time see if you can capture it.
 [u0424 | 00:28:42.690-00:28:45.210 | Delwath] Do you have to make multiple saves I don't remember.
 [u0425 | 00:28:45.690-00:28:47.640 | DM] Every time you look you got to make a save.
@@ -434,21 +434,21 @@
 [u0434 | 00:29:15.240-00:29:15.540 | DM] asked.
 [u0435 | 00:29:16.440-00:29:18.270 | Kenzo] Should should you make all of us fly and then I'll.
 [u0436 | 00:29:18.360-00:29:19.170 | Delwath] yeah I.
-[u0437 | 00:29:19.200-00:29:22.470 | Delwath] can {{carry by it}} that's not a bad idea.
+[u0437 | 00:29:19.200-00:29:22.470 | Delwath] can cast fly that's not a bad idea.
 [u0438 | 00:29:23.460-00:29:25.110 | Kenzo] If it doesn't have ranged weapons right so.
 [u0439 | 00:29:25.800-00:29:27.630 | DM] Unless that decides to throw the stick.
 [u0440 | 00:29:29.280-00:29:39.510 | DM] um so as Wellby's arrow pierces the body of this creature, like the jet of poison shoots out now you are 10 feet away so it doesn't hit you.
-[u0441 | 00:29:41.790-00:29:42.810 | Delwath] {{I've gotten quiet}}.
+[u0441 | 00:29:41.790-00:29:42.810 | Delwath] I cast fly.
 [u0442 | 00:29:45.030-00:29:46.800 | Delwath] And then I'll go straight up.
 [u0443 | 00:29:49.890-00:29:51.090 | Delwath] So we become visible.
 [u0444 | 00:29:52.680-00:29:54.360 | Delwath] And I go straight up.
 [u0445 | 00:29:57.450-00:29:58.110 | Delwath] 60 feet.
 [u0446 | 00:29:58.680-00:29:59.070 | Unknown] Okay.
 [u0447 | 00:30:01.260-00:30:04.590 | Riswynn] Does the creature roar in outrage or anything like that.
-[u0448 | 00:30:05.130-00:30:13.050 | Delwath] versus a nice quiet blow the side of the Horn of Silent Alarm somebody I'm gonna blow the Horn of Silent Alarm that I took.
+[u0448 | 00:30:05.130-00:30:13.050 | Delwath] Or is it nice and quiet blow the side of the Horn of Silent Alarm somebody I'm gonna blow the Horn of Silent Alarm that I took.
 [u0449 | 00:30:13.350-00:30:13.950 | Unknown] Yes.
 [u0450 | 00:30:15.000-00:30:16.650 | Delwath] and I will think of Riswynn.
-[u0451 | 00:30:18.060-00:30:20.370 | Delwath] {{And I have never was blown or stylish}}.
+[u0451 | 00:30:18.060-00:30:20.370 | Delwath] And I have never was blown or stylish.
 [u0452 | 00:30:20.400-00:30:21.300 | Delwath] wow is not.
 [u0453 | 00:30:21.600-00:30:23.190 | DM] Half a mile away so.
 [u0454 | 00:30:24.330-00:30:24.870 | DM] anyway.
@@ -464,7 +464,7 @@
 [u0464 | 00:30:44.940-00:30:46.710 | DM] Kenzo and Delwath have them.
 [u0465 | 00:30:47.040-00:30:54.810 | DM] yeah ah so Delwath shoots up into the air, and that that creature now just looks horribly confused around at everything.
 [u0466 | 00:30:56.010-00:30:57.420 | DM] But it is Wellby's turn.
-[u0467 | 00:30:59.220-00:31:00.480 | Kenzo] {{These terms, after a while the the mind}}.
+[u0467 | 00:30:59.220-00:31:00.480 | Kenzo] His turn's after Wellby, then mine.
 [u0468 | 00:31:00.510-00:31:01.620 | Kenzo] or okay.
 [u0469 | 00:31:01.680-00:31:03.750 | Kenzo] yeah we'll get it we'll get it right now.
 [u0470 | 00:31:06.930-00:31:07.380 | Kenzo] Unless it how.
@@ -472,7 +472,7 @@
 [u0472 | 00:31:10.620-00:31:12.450 | DM] They haven't been gone longer than you would.
 [u0473 | 00:31:12.450-00:31:12.960 | Unknown] expect.
 [u0474 | 00:31:14.760-00:31:19.590 | Delwath] Like we did back to that or something, this is very boring for our companions.
-[u0475 | 00:31:19.680-00:31:21.330 | Seeker] I'm still some rocks I'm fine.
+[u0475 | 00:31:19.680-00:31:21.330 | Seeker] I'm still studying rocks I'm fine.
 [u0476 | 00:31:21.600-00:31:23.940 | DM] Ah I'm not sure what happened to Wellby.
 [u0477 | 00:31:25.080-00:31:29.490 | DM] um we'll reverse the order of the turn so Kenzo What did you do.
 [u0478 | 00:31:30.150-00:31:30.930 | Kenzo] yeah so.
@@ -503,7 +503,7 @@
 [u0503 | 00:33:03.180-00:33:05.070 | Seeker] I wonder if it managed to take the stick with it.
 [u0504 | 00:33:06.510-00:33:08.610 | Kenzo] Oh it's got the stick with it and it's got some arrows oh.
 [u0505 | 00:33:10.110-00:33:10.770 | Delwath] God.
-[u0506 | 00:33:11.160-00:33:12.600 | Delwath] Let's thoroughly research the town.
+[u0506 | 00:33:11.160-00:33:12.600 | Delwath] Let's thoroughly re-search the town.
 [u0507 | 00:33:13.170-00:33:13.980 | Kenzo] Good let's do that.
 [u0508 | 00:33:14.670-00:33:16.290 | DM] Nice okay.
 [u0509 | 00:33:16.710-00:33:17.640 | Kenzo] So me Wellby.
@@ -565,10 +565,10 @@
 [u0565 | 00:37:04.170-00:37:07.860 | DM] So, so what you know is that.
 [u0566 | 00:37:09.810-00:37:19.320 | DM] You know, three command words you know the command word that lets you inactivate or deactivate and activate the mirror, you know the command word that lets you.
 [u0567 | 00:37:20.340-00:37:25.170 | DM] release a creature contained in a cell that you identify by number.
-[u0568 | 00:37:27.090-00:37:35.040 | DM] And you know the command word that allows you to call the name of a creature imprisoned within and summon them to the surface, which that to speak.
+[u0568 | 00:37:27.090-00:37:35.040 | DM] And you know the command word that allows you to call the name of a creature imprisoned within and summon them to the surface, with them to speak.
 [u0569 | 00:37:37.020-00:37:39.600 | Seeker] up and we believe there are additional command words that we don't know.
 [u0570 | 00:37:40.080-00:37:42.870 | DM] You believe there are additional command words you don't know yes.
-[u0571 | 00:37:43.920-00:37:46.020 | Kenzo] I'll be know those learn learn learn those command words.
+[u0571 | 00:37:43.920-00:37:46.020 | Kenzo] How do we know those learn learn learn those command words.
 [u0572 | 00:37:46.200-00:37:48.360 | DM] Ah Seeker and Delwath spend.
 [u0573 | 00:37:49.980-00:37:58.380 | DM] fair bit of time when you had downtime in Tokra I'm sort of poking and studying the mirror and found.
 [u0574 | 00:38:02.670-00:38:21.150 | DM] Hidden letters in goblin etched on the back of the mirror, which Delwath could read it, and that, in combination with some experimentation let you figure out those command words and then you just got very, very lucky guessing the name of the hobgoblin.
@@ -736,7 +736,7 @@
 [u0736 | 00:53:42.360-00:53:45.090 | Delwath] heading towards Darba in the morning.
 [u0737 | 00:53:46.470-00:53:47.730 | DM] Just the night then okay.
 [u0738 | 00:53:49.860-00:53:51.810 | DM] Well, we can tend your mounts and.
-[u0739 | 00:53:53.940-00:53:56.130 | DM] Seven X speak.
+[u0739 | 00:53:53.940-00:53:56.130 | DM] Is that an axe beak.
 [u0740 | 00:53:59.910-00:54:01.560 | DM] it's an unusual mount.
 [u0741 | 00:54:02.130-00:54:06.390 | Wellby] that's Baxter he's a big sweetheart but also don't get too close to the front of them.
 [u0742 | 00:54:07.140-00:54:09.450 | Kenzo] Or he'll rip your hand off yeah.
@@ -770,7 +770,7 @@
 [u0770 | 00:56:01.740-00:56:05.280 | Delwath] Bedrolls won't tax our funds very much Kenzo I think.
 [u0771 | 00:56:06.960-00:56:07.470 | DM] yeah.
 [u0772 | 00:56:09.060-00:56:13.620 | DM] For the five of you like, I dunno 10 gold five gold to.
-[u0773 | 00:56:14.790-00:56:15.510 | DM] Dock.
+[u0773 | 00:56:14.790-00:56:15.510 | DM] Restock.
 [u0774 | 00:56:17.250-00:56:19.350 | DM] Bedrolls and cloaks and things.
 [u0775 | 00:56:30.480-00:56:38.910 | DM] So she kind of busies herself a little bit and gets you settled in some rooms and then heads back to sort of spread the news of the.
 [u0776 | 00:56:39.990-00:56:41.190 | DM] Opening of the road.
@@ -781,7 +781,7 @@
 [u0781 | 00:57:19.620-00:57:21.060 | Delwath] Who are the important people.
 [u0782 | 00:57:22.380-00:57:23.100 | Delwath] You know.
 [u0783 | 00:57:25.470-00:57:33.240 | Delwath] where's the good inns where's the dangerous parts of town, you know just anything any kind of Intel we can gather on.
-[u0784 | 00:57:36.750-00:57:38.520 | Delwath] who have to role play that out right like.
+[u0784 | 00:57:36.750-00:57:38.520 | Delwath] Do we have to role play that out right like.
 [u0785 | 00:57:38.520-00:57:41.160 | DM] yeah I mean, so you, you know you.
 [u0786 | 00:57:44.100-00:57:49.290 | DM] You attract a lot of attention and and now everybody's realized there's an elf around so it's like you know.
 [u0787 | 00:57:50.700-00:57:57.150 | DM] You know, people are asking you for stories too and and anybody else is in the common room and certainly getting like a you know.
@@ -805,7 +805,7 @@
 [u0805 | 00:59:57.780-01:00:02.700 | DM] It may be the biggest city Delwath's ever been in I don't know how many cities, you really traveled through.
 [u0806 | 01:00:04.110-01:00:13.740 | DM] It would, it would not be bigger than like Tollen or places that that that Delwath— or sorry that Wellby right, but this is a you know, this is a.
 [u0807 | 01:00:16.770-01:00:16.950 | Kenzo] As.
-[u0808 | 01:00:17.520-01:00:18.450 | DM] Daniel city.
+[u0808 | 01:00:17.520-01:00:18.450 | DM] substantial city.
 [u0809 | 01:00:18.630-01:00:20.220 | Kenzo] Sorry, I missed how much bigger than Tokra is it.
 [u0810 | 01:00:21.870-01:00:26.730 | DM] Ah it's you know at least probably three times the size of Tokra.
 [u0811 | 01:00:26.820-01:00:27.780 | Kenzo] Cool yeah.
@@ -852,7 +852,7 @@
 [u0852 | 01:05:08.160-01:05:09.030 | Kenzo] This doesn't matter it.
 [u0853 | 01:05:10.890-01:05:12.060 | DM] sort of like this.
 [u0854 | 01:05:13.680-01:05:14.040 | Seeker] huh.
-[u0855 | 01:05:16.680-01:05:19.710 | Delwath] {{It is a bad before I thought for certain}}.
+[u0855 | 01:05:16.680-01:05:19.710 | Delwath] It is a bad before I thought for certain.
 [u0856 | 01:05:20.910-01:05:26.010 | DM] Parts of it are yeah I mean the forest is very, very patchy right so you'll there will be.
 [u0857 | 01:05:27.210-01:05:33.510 | DM] You know a little chunk of forest and then there will be plains around it, some of which has been cleared for pasture.
 [u0858 | 01:05:37.680-01:05:52.290 | DM] But yeah there's definitely a lot more trees, as you as you cross across the sort of Yuvanti gap, the Yuvanti gap towards the coastal plain as you as the you know you're descending an elevation to off the high plateaus of.
@@ -865,7 +865,7 @@
 [u0865 | 01:06:54.000-01:07:01.800 | DM] This is some of the densest settled parts of Dunmar, even though it's not so dense right, and this is.
 [u0866 | 01:07:04.920-01:07:06.060 | DM] You know, basically.
 [u0867 | 01:07:07.230-01:07:24.060 | DM] You know Nayahar is actually kind of at the southern end of the sort of settled part of Dunmar right, so this stretch between this little chunk between Darba and Nayahar is kind of, though, that the most densely settle the most sedentary of.
-[u0868 | 01:07:28.590-01:07:34.440 | DM] Everywhere, and {{in China}}, you know as you sort of you know pass through this terrain right there's.
+[u0868 | 01:07:28.590-01:07:34.440 | DM] Everywhere, and in China, you know as you sort of you know pass through this terrain right there's.
 [u0869 | 01:07:35.520-01:07:41.400 | DM] Still raining the monsoon season is still quite.
 [u0870 | 01:07:42.900-01:07:56.430 | DM] Robust right it rains almost every afternoon, all the rivers are in flood the streams are full the roads are kind of a mess, although once you get on the old Drankorian road that road is in pretty good shape.
 [u0871 | 01:07:59.550-01:08:11.250 | DM] A lot of people travel by boat, but you can't go far by boat because there's the rivers all cascade down these waterfalls so you can often not cannot go more than a day's journey by boat.
@@ -891,7 +891,7 @@
 [u0891 | 01:10:06.360-01:10:07.350 | Kenzo] whoo good question.
 [u0892 | 01:10:07.920-01:10:09.390 | Seeker] yeah that could be relevant.
 [u0893 | 01:10:12.270-01:10:13.470 | DM] So, again.
-[u0894 | 01:10:14.400-01:10:23.070 | Kenzo] Sorry, one other question we have any maps of ancient Drankor like where the Drankorian cities were all over {{town}} and stuff like that didn't we if we stumbled across something like that no.
+[u0894 | 01:10:14.400-01:10:23.070 | Kenzo] Sorry, one other question we have any maps of ancient Drankor like where the Drankorian cities were all over town and stuff like that didn't we if we stumbled across something like that no.
 [u0895 | 01:10:24.480-01:10:26.310 | DM] The Society probably has those maps.
 [u0896 | 01:10:30.540-01:10:31.800 | DM] lot of stuff in Chardon.
 [u0897 | 01:10:33.480-01:10:34.500 | Kenzo] A lot of stuff in Chardon.
@@ -907,13 +907,13 @@
 [u0907 | 01:11:17.520-01:11:19.080 | Seeker] yeah how valuable is that thing.
 [u0908 | 01:11:21.810-01:11:26.190 | DM] I mean you could spend some time appraising it you're a pretty good gem cutter.
 [u0909 | 01:11:27.570-01:11:27.960 | Seeker] Well, we.
-[u0910 | 01:11:28.050-01:11:36.300 | Delwath] haven't {{I haven't worked with this recently from the reforms, then married and it's cruelly murdered by dastardly chuck God and see what that was that you shorts}}.
+[u0910 | 01:11:28.050-01:11:36.300 | Delwath] haven't I haven't worked with this recently from the reforms, then married and it's cruelly murdered by dastardly chuck God and see what that was that you Schwartz.
 [u0911 | 01:11:36.630-01:11:37.620 | Wellby] yeah basically.
 [u0912 | 01:11:38.460-01:11:40.410 | Delwath] That was very Wellby-esque of me.
 [u0913 | 01:11:43.170-01:11:45.360 | Delwath] who's taking that Horn of Silent Alarm, by the way.
 [u0914 | 01:11:46.650-01:11:46.980 | Wellby] Is what.
 [u0915 | 01:11:48.000-01:11:50.490 | Delwath] I mean Delwath has it right now anybody else want it.
-[u0916 | 01:11:56.190-01:11:58.230 | Wellby] No, I would really just use it to a customer.
+[u0916 | 01:11:56.190-01:11:58.230 | Wellby] No, I would really just use it to accost him.
 [u0917 | 01:11:58.590-01:11:59.310 | Kenzo] yeah it's like.
 [u0918 | 01:12:00.210-01:12:00.780 | Wellby] it's always.
 [u0919 | 01:12:00.870-01:12:02.070 | Kenzo] it's not a healthy dynamic in.
@@ -938,7 +938,7 @@
 [u0938 | 01:12:56.040-01:12:58.140 | Seeker] kind of pay more attention to these things I guess.
 [u0939 | 01:12:59.730-01:13:00.240 | DM] Ah.
 [u0940 | 01:13:02.910-01:13:05.100 | DM] It is, if you.
-[u0941 | 01:13:08.280-01:13:14.760 | DM] When it's filled with water, if you add a drop of a sleeping creature's blood to the water the water reflects {{that creature's}}.
+[u0941 | 01:13:08.280-01:13:14.760 | DM] When it's filled with water, if you add a drop of a sleeping creature's blood to the water the water reflects that creature's dreams.
 [u0942 | 01:13:15.240-01:13:16.590 | Kenzo] holy Fuck.
 [u0943 | 01:13:18.240-01:13:19.050 | Kenzo] This is from Agata's.
 [u0944 | 01:13:19.650-01:13:22.320 | Seeker] yeah and that's a cool one.
@@ -1043,9 +1043,9 @@
 [u1043 | 01:20:17.160-01:20:19.050 | DM] And this seems to be.
 [u1044 | 01:20:21.660-01:20:27.660 | DM] You know, you know enough about kind of dwarven architecture and dwarven history that this isn't a.
 [u1045 | 01:20:29.670-01:20:34.770 | DM] This doesn't look Yuvanti right, so this isn't a super recent.
-[u1046 | 01:20:36.270-01:20:48.930 | DM] event right, this is in some city that looks unfamiliar to both of you so so probably not from either the {{Nordic that Kingdom in the rocky mountains}} or from Seeker's.
+[u1046 | 01:20:36.270-01:20:48.930 | DM] event right, this is in some city that looks unfamiliar to both of you so so probably not from either the Nardith kingdom in the rocky mountains or from Seeker's.
 [u1047 | 01:20:50.340-01:20:57.750 | DM] But of course there's many other places where where dwarves are, and in fact the one that's most known for gem cutting is sort of to the west of.
-[u1048 | 01:21:01.500-01:21:04.140 | DM] The West of Seeker's homeland's like in the {{morning}}.
+[u1048 | 01:21:01.500-01:21:04.140 | DM] The West of Seeker's homeland's like in the mountains.
 [u1049 | 01:21:05.880-01:21:09.930 | DM] And then, just like a you know, a flash of images passed by.
 [u1050 | 01:21:13.020-01:21:14.190 | DM] being traded.
 [u1051 | 01:21:15.330-01:21:16.860 | DM] You know first two.
@@ -1054,7 +1054,7 @@
 [u1054 | 01:21:29.190-01:21:40.140 | DM] Big forests massive trees like redwoods stretching to the sky, as you follow the course of a river down from the mountains.
 [u1055 | 01:21:40.140-01:21:40.800 | Kenzo] that's where we're going.
 [u1056 | 01:21:42.750-01:21:44.640 | DM] Then a flash again.
-[u1057 | 01:21:45.150-01:21:51.000 | Wellby] {{we're doing current place that}} that sounds like a river that's flowing down towards Chardon.
+[u1057 | 01:21:45.150-01:21:51.000 | Wellby] We're doing current places that sounds like a river that's flowing down towards Chardon.
 [u1058 | 01:21:52.050-01:22:00.360 | DM] Ah yes, this is, this is probably in the, this is probably the forest that you've been talking about this.
 [u1059 | 01:22:00.480-01:22:04.530 | Kenzo] Year yeah where the {{secret where where the secret Copyright Office}}.
 [u1060 | 01:22:04.830-01:22:06.360 | Kenzo] And that's where we got to go there.
@@ -1136,7 +1136,7 @@
 [u1136 | 01:28:57.690-01:28:58.980 | DM] Ah, no.
 [u1137 | 01:29:03.330-01:29:03.540 | DM] But.
 [u1138 | 01:29:03.570-01:29:04.290 | DM] But you're.
-[u1139 | 01:29:06.210-01:29:13.770 | DM] So so you're feeling from the way, like just your your vibe from the scene is this person probably didn't acquire it {{completely}}.
+[u1139 | 01:29:06.210-01:29:13.770 | DM] So so you're feeling from the way, like just your your vibe from the scene is this person probably didn't acquire it completely.
 [u1140 | 01:29:14.880-01:29:15.270 | Wellby] Right.
 [u1141 | 01:29:15.810-01:29:19.740 | DM] This is like a temple guard or something right, this is not somebody who is a.
 [u1142 | 01:29:20.250-01:29:23.790 | DM] yeah power but it's somebody who could potentially have.
@@ -1174,7 +1174,7 @@
 [u1174 | 01:32:23.520-01:32:25.980 | DM] Looking out at the ocean which.
 [u1175 | 01:32:27.690-01:32:34.290 | DM] I don't know if this is some of you, this may be the first time you've seen the ocean obviously not Wellby or Kenzo.
 [u1176 | 01:32:35.550-01:32:37.320 | DM] And I guess Seeker you were also.
-[u1177 | 01:32:39.210-01:32:43.470 | DM] Although Chardon is actually {{enough up the coast}} you can't see the ocean from Chardon.
+[u1177 | 01:32:39.210-01:32:43.470 | DM] Although Chardon is actually enough up the coast you can't see the ocean from Chardon.
 [u1178 | 01:32:44.490-01:32:48.390 | DM] So Kenzo or Seeker may have never seen before, either, to be honest.
 [u1179 | 01:32:48.900-01:32:53.760 | Kenzo] Might not actually yeah yeah let's say I'm having more fun that way.
 [u1180 | 01:32:55.230-01:32:56.880 | DM] Yes, or may only be.
@@ -1199,16 +1199,16 @@
 [u1199 | 01:35:02.850-01:35:14.340 | DM] The city itself, though, even outside the walls is pretty densely settled right so there's a like shanty town of wooden dwellings and flooded muddy streets on the South side of the River.
 [u1200 | 01:35:15.900-01:35:24.450 | DM] Now, in the monsoon flood there's small boats that are you can see in the distance going back and forth from the sort of main harbor on the North side to the sort of.
 [u1201 | 01:35:28.050-01:35:30.600 | DM] More informal harbor on the South side.
-[u1202 | 01:35:34.470-01:35:45.000 | DM] Many of these are distinctive high-prowed {{loria hold}} boats that that form of ferry service going back and forth, and this you've heard people tell this.
+[u1202 | 01:35:34.470-01:35:45.000 | DM] Many of these are distinctive high-prowed Illorian-hulled boats that that form of ferry service going back and forth, and this you've heard people tell this.
 [u1203 | 01:35:46.230-01:35:51.360 | DM] Outside the walls to the south of the river is really that often the Illorian district it's where a lot of.
 [u1204 | 01:35:52.710-01:35:56.940 | DM] Illorians the people settled the islands in the Nevos Sea.
 [u1205 | 01:35:58.380-01:36:09.030 | DM] And also, at one point were the rulers briefly after the Great War conquered Darba and many of them live in the sort of swamp slums now.
 [u1206 | 01:36:10.560-01:36:17.490 | DM] there's some lizardfolk there's dwarves there's halflings you've passed a diversity of people on the road here and I'm.
 [u1207 | 01:36:20.100-01:36:27.510 | DM] Seeker, the first time you've seen lizardfolk in a while, you of course know their language and spend some time living with them yeah.
-[u1208 | 01:36:28.320-01:36:29.070 | Kenzo] He created really.
+[u1208 | 01:36:28.320-01:36:29.070 | Kenzo] You did? Really.
 [u1209 | 01:36:30.450-01:36:31.380 | Seeker] long time ago.
 [u1210 | 01:36:32.100-01:36:34.260 | Seeker] Well, actually that's not true at all.
-[u1211 | 01:36:35.250-01:36:36.990 | Seeker] It was on my way over to {{be}}.
+[u1211 | 01:36:35.250-01:36:36.990 | Seeker] It was on my way over to be.
 [u1212 | 01:36:37.050-01:36:37.680 | DM] It wasn't it.
 [u1213 | 01:36:37.980-01:36:44.640 | DM] was like what a year ago, or something over here yeah but that could seem like an awful long time ago to Seeker.
 [u1214 | 01:36:45.090-01:36:45.810 | Seeker] yeah um.
@@ -1231,7 +1231,7 @@
 [u1231 | 01:39:04.980-01:39:07.290 | DM] Commerce than a place like Tokra.
 [u1232 | 01:39:09.030-01:39:11.790 | Kenzo] it's like what's the official capital of Dunmar.
 [u1233 | 01:39:12.360-01:39:13.260 | DM] Nashtkar.
-[u1234 | 01:39:13.410-01:39:14.940 | Kenzo] I archaeologists out okay.
+[u1234 | 01:39:13.410-01:39:14.940 | Kenzo] Oh, okay, just out okay.
 [u1235 | 01:39:15.030-01:39:24.690 | DM] All the way east which is, which is a sort of also like Tokra kind of a monumental city right, it was constructed, a new city, it was constructed by the Nayan dynasty.
 [u1236 | 01:39:25.950-01:39:43.080 | DM] And it's built as like their Center of administration right Darba is one of the only cities in Dunmar that's really a city in a natural sense that sort of grew up around this Drankorian fort and then a fishing village and then trading right so like sort of grew up over time.
 [u1237 | 01:39:44.730-01:39:51.570 | DM] And we will end as you approach the gates in the evening in this flow of traffic I'm.
