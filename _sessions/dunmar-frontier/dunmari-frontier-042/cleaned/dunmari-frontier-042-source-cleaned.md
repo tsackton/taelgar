@@ -82,7 +82,7 @@
 [u0082 | 00:05:11.670-00:05:13.740 | DM] Well are you gonna be unrolling it to read it.
 [u0083 | 00:05:14.430-00:05:17.670 | Seeker] Have we done so already, we must have known.
 [u0084 | 00:05:19.800-00:05:21.120 | Delwath] That you've just.
-[u0085 | 00:05:21.150-00:05:23.820 | DM] You just kept {{the data file}} I haven't actually looked at it.
+[u0085 | 00:05:21.150-00:05:23.820 | DM] You just cast Identify; you haven’t actually looked at it.
 [u0086 | 00:05:24.570-00:05:30.180 | Seeker] In general, in terms of the way scrolls work does unrolling it brings with it a risk of accidentally casting.
 [u0087 | 00:05:30.600-00:05:31.740 | DM] Make an Arcana check.
 [u0088 | 00:05:32.730-00:05:33.330 | Seeker] Oh great.
@@ -300,7 +300,7 @@
 [u0300 | 00:23:39.120-00:23:41.100 | Seeker] Ship there was there were shadows and Armor.
 [u0301 | 00:23:41.820-00:23:42.540 | Seeker] it's pretty self.
 [u0302 | 00:23:42.630-00:23:44.820 | Delwath] righteous against chats really.
-[u0303 | 00:23:47.130-00:23:51.720 | Delwath] darkness has evolved that's, just like the most obvious trope in the world it's not true.
+[u0303 | 00:23:47.130-00:23:51.720 | Delwath] darkness is evil that's, just like the most obvious trope in the world it's not true.
 [u0304 | 00:23:52.770-00:23:53.250 | Seeker] Nice.
 [u0305 | 00:23:54.420-00:23:55.440 | Seeker] that's exactly what it.
 [u0306 | 00:23:55.980-00:23:56.340 | Seeker] Is yeah.
@@ -1220,7 +1220,7 @@
 [u1220 | 01:39:51.660-01:39:58.470 | DM] The rivers are in flood the Nayan and Shrev overflowing their banks and nourishing the fields and farms of Western Dunmar.
 [u1221 | 01:39:59.700-01:40:06.120 | DM] The grass and trees, of the dry savannas are springing to life as animals wild and domestic feast on the fresh shoots.
 [u1222 | 01:40:09.600-01:40:17.520 | DM] In Darba nearly due west of Tokra the rains arrived, maybe two weeks ago, a week before Tokra.
-[u1223 | 01:40:18.540-01:40:28.470 | DM] Well, here, the influence of the Nevos Sea modulates the dry season and the small rivers that cascade from the foothills of the {{you want the intercom}} mountains.
+[u1223 | 01:40:18.540-01:40:28.470 | DM] Well, here, the influence of the Nevos Sea modulates the dry season and the small rivers that cascade from the foothills of the Yuvanti and Chataan mountains.
 [u1224 | 01:40:31.110-01:40:39.900 | DM] That flow to the coast run year round still the people of the Darba coast celebrate the Day of Renewal like all Dunmari.
 [u1225 | 01:40:42.780-01:40:45.630 | DM] Over the past week since rains have gotten to Tokra.
 [u1226 | 01:40:47.880-01:40:52.620 | DM] The rains of the monsoon have moved slowly North across the plains and central our.
@@ -2052,7 +2052,7 @@
 [u2052 | 02:50:37.230-02:50:41.310 | DM] Well we're on our way back to Chardon, I assume, she must be there already.
 [u2053 | 02:50:42.360-02:50:44.880 | Delwath] yeah two months or more now.
 [u2054 | 02:50:45.690-02:50:46.380 | Wellby] And she was headed.
-[u2055 | 02:50:46.950-02:50:48.450 | Wellby] directly with less are.
+[u2055 | 02:50:46.950-02:50:48.450 | Wellby] directly west, or.
 [u2056 | 02:50:51.480-02:50:52.380 | DM] We traveled enough.
 [u2057 | 02:50:53.790-02:50:56.100 | DM] Wait you yeah you try—you knew Vola.
 [u2058 | 02:50:56.310-02:50:56.940 | Unknown] You met been.
@@ -2480,7 +2480,7 @@
 [u2480 | 03:23:03.000-03:23:04.500 | DM] He didn't have to be.
 [u2481 | 03:23:04.530-03:23:07.740 | DM] magical like she has a natural you know.
 [u2482 | 03:23:07.950-03:23:09.300 | DM] it's like a firewall between.
-[u2483 | 03:23:11.850-03:23:21.270 | Delwath] The tower defeated us right like we did end up saving {{for Oscar}} he kind of I mean it was a stalemate, but we fled in terror, at the end right.
+[u2483 | 03:23:11.850-03:23:21.270 | Delwath] The tower defeated us right like we did end up saving Hralgar he kind of I mean it was a stalemate, but we fled in terror, at the end right.
 [u2484 | 03:23:22.140-03:23:22.980 | Riswynn] Well, yes, there was.
 [u2485 | 03:23:24.060-03:23:25.140 | Wellby] There was definitely terror.
 [u2486 | 03:23:26.100-03:23:29.040 | Seeker] i'm just saying we could wake up one day and.
