@@ -16,7 +16,7 @@ import unicodedata
 import uuid
 
 VERSION = 1
-EDITORIAL_POLICY = 2
+EDITORIAL_POLICY = 3
 WORK = 'cleaned/transcript-work'
 STATE = WORK + '/state.json'
 LINE = re.compile(r'^(\[(u\d{4,})\s*\|\s*([^|]+)\|\s*([^\]]+)\])(\s+)(.*)$')

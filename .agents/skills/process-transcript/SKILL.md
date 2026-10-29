@@ -1,6 +1,6 @@
 ---
 name: process-transcript
-description: Process or resume an existing session transcript into original and prepared UID references, corrected UID text, and readable full-session Markdown. Makes reasonable contextual ASR repairs, substitutes unrecoverable incidental speech only in the polished version, and presents concrete proposals for consequential human decisions. Starts after transcription; excludes factual correction, recaps, and highlights.
+description: Process or resume an existing session transcript into original and prepared UID references, corrected UID text, and readable full-session Markdown. Makes reasonable contextual ASR repairs, substitutes unrecoverable incidental speech only in the polished version, and presents concrete proposals for consequential human decisions. Supports review from Markdown without saved processing state and bounded revisions of finalized transcripts. Starts after transcription; excludes factual correction, recaps, and highlights.
 ---
 
 # Process Transcript
@@ -45,6 +45,9 @@ by approximate sounds, syntax, and the full exchange; exact independent
 corroboration is not required. Uncertainty about exact wording alone does not
 justify human review when reasonable alternatives preserve the same clear meaning.
 Prefer a repair close to the recognized wording and preserve genuine disfluency.
+A merely conceivable missing “not” is not a competing reading: require support in the recognized sounds or exchange. Judge materiality
+by what a different reading changes in the account; an unrecoverable roll total
+with a clear outcome or incidental table chatter usually needs no human question.
 
 Ask for review when credible alternatives change substantive information, such as
 which person acted, an otherwise unknown occupation, or a materially different
@@ -62,7 +65,10 @@ and unrecoverable incidental noise; retain their underlying text in the cleaned
 UID reference. Remove factual-doubt flags as well. These are `uncertainty` edits,
 not recovered speech or human acceptance. Do not replace a
 clearly spoken older/wrong name with the later canonical name. Lore can help rank
-plausible recognition candidates; it cannot rewrite the recording.
+plausible recognition candidates; it cannot rewrite the recording. Do not discard
+a good phonetic/contextual candidate just because lore helped identify it. Read
+[the review calibration examples](references/review.md#editorial-calibration) when
+judging residual nonsense, negation, or lore-assisted candidates.
 
 This workflow does not transcribe/upload audio, classify voices, merge recordings,
 create beats/recaps, extract highlights, or modify canonical notes. Read relevant
@@ -91,7 +97,11 @@ caches beside the skill. Commands below use `HELPER` for this skill's absolute
    explicitly copy selected bundles to a temporary test directory first and pass
    only the copy to mutating commands.
 
-2. Inspect existing artifacts and local changes. Run:
+2. Inspect existing artifacts and local changes. If a readable transcript and review
+   Markdown already exist, use [the Markdown review workflow](references/review.md)
+   directly. That Markdown is the complete review state; the original processing
+   queue is not required and must not be reconstructed. For new/in-progress
+   cleanup and polishing, run:
 
    ```bash
    python3 -B HELPER init --bundle BUNDLE
@@ -149,7 +159,11 @@ errors, not a fresh rewrite. Use the response schema in
   Recover reasonable wording first; remove unnecessary and incidental flags.
   Preserve ordinary annotations, wikilinks, and underlying unrecoverable text in
   the cleaned reference. Do not insert `[garbled]` or `[cross-talk]` there.
-- Every retained marker and important unmarked issue needs a concrete proposal,
+- Every retained marker and important unmarked issue needs an exact replacement
+  target (UID, character bounds, and current text). Supply only replacement words;
+  the helper generates the full proposal while preserving the rest of the UID.
+  Include a complete exchange in the review context, expanding the default range
+  when the referent or response is missing. Each issue needs a concrete proposal,
   preferred reading with a brief reason, and a decision the user can make. Include
   genuine alternatives when useful. If no credible wording can be recovered,
   recommend leaving the consequential span unresolved and say what an audio check
@@ -214,7 +228,11 @@ turns, uncertainty, and neighboring boundaries. Check sentence starts and name
 capitalization after merges, and inspect the final assembled passages across chunk
 boundaries. Challenge every remaining flag: attempt a reasonable repair, remove
 an unnecessary flag, or provide a useful decision. Inspect each display
-substitution and the intelligible speech around it. The quality reviewer may be the
+substitution and the intelligible speech around it. Quality jobs enumerate these
+spans as `recoveryCandidates`; revisit the recognized words with their exchange
+before retaining a label. Also look for ordinary English masking names or short
+responses (see the calibration examples). These checks require editorial judgment;
+coverage and token tests cannot certify recovery quality. The quality reviewer may be the
 same agent taking a distinct pass. Do not spawn agents unless separately authorized.
 Return `pass` only after inspection; revise cited turns or upstream corrections
 when needed and repeat the affected checks. A generated scaffold is not polished.
@@ -232,27 +250,28 @@ Final status also requires all quality jobs. Inspect the Markdown/HTML appearanc
 and report current output paths, remaining material issue groups, and any source
 limitations. No routine approval is needed when no material uncertainty remains.
 
-The review report contains only pending consequential decisions: original and
-proposed wording, UIDs/times, conversation context, a recommendation, and genuine
-alternatives where useful. The user may accept a proposal, select an alternative,
-supply a correction, or leave it unresolved. No incidental appendix or list of
-completed repairs is needed. If available and useful, a short excerpt of existing
-audio can help decide wording; this does not invoke transcription or upload audio.
-Apply accepted proposals as clean edits and refresh affected downstream work.
-Use `accept` only for a decision to leave uncertainty unresolved, not to apply a
-proposed correction. The report and decisions remain session-local.
-Acceptance preserves uncertainty; it never establishes the uncertain reading as
-fact. Only after an explicit human tolerance decision use:
+The exported review Markdown is a portable handoff containing pending questions,
+exact targets, proposals, surrounding exchanges, and the information needed to
+apply decisions to the retained references. **It is the review state.** No separate
+review-state file, original job queue, or saved response history is required.
+After quality review is complete, follow [the Markdown review workflow](references/review.md)
+to record actual user choices, update affected readable turns, and apply them:
 
 ```bash
-python3 -B HELPER accept --bundle BUNDLE --issue issue-ID --reason 'Actual human decision'
-python3 -B HELPER export --bundle BUNDLE
+python3 -B HELPER review --bundle BUNDLE
+python3 -B HELPER review --bundle BUNDLE --apply
+python3 -B HELPER review --bundle BUNDLE --finalize
 ```
 
-Apply user corrections through a clean job and refresh the affected downstream
-jobs. Do not simulate human acceptance. Previously saved acceptance is reused only
-when its source wording and nearby context still match. Missing historical records mean unknown
-review state, not evidence that previous cleanup never happened.
+Present one session at a time with original wording, a proposed correction or an
+explicit retain-unresolved recommendation, and enough context to decide. Resolve
+only actual user decisions. Retaining uncertainty preserves the words; it does not
+confirm a reading as fact. The agent maintains the Markdown's hidden control blocks
+and readable-turn updates; the user can answer in ordinary chat.
+
+The older `accept` command remains available inside an active processing queue;
+it means accepting uncertainty, never applying a proposed correction. Do not require
+that queue when continuing a review from its Markdown handoff.
 
 On resume, `status` is read-only; it reports pending/stale jobs and whether exported
 files still match. Continue the earliest affected stage. Mutating commands recover
@@ -263,7 +282,10 @@ first, then use `export --replace-exports` within the user's authorized scope.
 
 The helper serializes writers within one bundle and uses source fingerprints to
 reject stale plans. Separate session bundles share no mutable state. Keep
-`transcript-work/` while work or manual review remains; it supports resumption.
+`transcript-work/` while cleanup, polishing, or quality work remains; it supports
+resumption of those stages. After a quality-complete export, review can move to
+another checkout with only the review Markdown and retained references. The work
+folder need not be transferred or preserved for that review.
 
 ## Finalize after review
 
@@ -292,8 +314,11 @@ The command refuses incomplete review, stale exports, and changed outputs. Accep
 uncertainty may remain explicit in the retained transcripts. If interrupted, rerun
 `finalize` or `recover`; later conflicting edits stop retirement for reconciliation.
 `status` remains read-only after completion, and repeated `init`/`finalize` does not
-recreate processing files. An intentional later editorial revision needs a new
-review workflow; do not silently restart or claim that old review covers changed text.
+recreate processing files. For a later authorized correction, use
+`review --prepare UID [UID ...]` to create a bounded Markdown review from current
+finalized references. Preserve existing
+speaker assignments; inspect and validate the revised turns. Do not silently
+restart full processing or claim that old review covers the new words.
 See the [file lifecycle](references/contract.md#file-lifecycle) for retention details.
 
 ## Maintenance checks

@@ -16,6 +16,7 @@ import re
 import uuid
 import yaml
 import transcript_finalize as finalization
+import transcript_review as review
 from transcript_core import (VERSION, EDITORIAL_POLICY, WORK, STATE, LINE, MARKER, KINDS, CHECKS,
     PipelineError, require, encoded, sha, fingerprint, read_json, safe, lock,
     recover, commit, parse_units, render_units, validate_baseline, words,
@@ -143,6 +144,8 @@ def original_path(root, metadata, source):
 
 
 def initialize(root, args):
+    if review.portable(root) and (review.active(root) or not safe(root, STATE).exists()):
+        return review.status(root)
     if safe(root, STATE).exists():
         return status(root)
     completed = finalization.completion(root)
@@ -207,6 +210,7 @@ def initialize(root, args):
 
 
 def load(root):
+    require(not review.active(root), 'Resume decisions from review Markdown with the review command; processing state is no longer authoritative')
     require(not safe(root, finalization.PLAN).exists(), 'Finalization was interrupted; run finalize or recover first')
     require(safe(root, STATE).is_file(), 'No active processing state. A finalized transcript keeps its references; use status to inspect it.')
     state = read_json(safe(root, STATE))
@@ -264,6 +268,8 @@ def status(root):
     if safe(root, finalization.PLAN).exists():
         plan = read_json(safe(root, finalization.PLAN))
         return finalization.completed_status(root, plan['manifest'], plan['record'], finalizing=True)
+    if review.portable(root) and (review.active(root) or not safe(root, STATE).exists()):
+        return review.status(root)
     if not safe(root, STATE).exists():
         completed = finalization.completion(root)
         require(completed, 'This bundle has not been initialized')
@@ -342,6 +348,10 @@ def make_work(root, stage, chunk_id=None):
         payload['draftTurns'] = draft_turns(source, state['attributions'])
     if stage == 'quality':
         payload['turns'] = state['polish'][c['id']]['turns']
+        by_uid = {u['uid']: u for u in units}
+        payload['recoveryCandidates'] = [dict(s, recognized=by_uid[s['uid']]['text'][s['start']:s['end']],
+            context=review.context_units(units, review.context_range(units, s['uid'])))
+            for t in payload['turns'] for s in t.get('substitutions', [])]
         payload['neighborTurns'] = {other['id']: state['polish'][other['id']]['turns'][-2:] if i < state['chunks'].index(c) else state['polish'][other['id']]['turns'][:2]
                                   for i, other in enumerate(state['chunks']) if abs(i-state['chunks'].index(c)) == 1 and is_current(state, units, other, 'polish')}
     path = f'{WORK}/jobs/{stage}-{c["id"]}.json'
@@ -349,24 +359,31 @@ def make_work(root, stage, chunk_id=None):
     return {'job': str(root / path), 'response': str(root / payload['responsePath']), 'sourceSha256': payload['sourceSha256']}
 
 
-def issue_context(units, uid):
-    position = next(i for i, u in enumerate(units) if u['uid'] == uid)
-    return fingerprint(units[max(0, position-2):position+3])
+def issue_context(units, uid, bounds=None):
+    return fingerprint(review.context_units(units, review.context_range(units, uid, bounds)))
 
 
 def validate_issues(raw, selected_units, all_units=None):
     by_uid = {u['uid']: u for u in selected_units}
+    context = all_units or selected_units
     result, unique = [], set()
     for issue in raw:
         require(issue.get('uid') in by_uid and issue.get('kind') in KINDS, 'Invalid issue UID or kind')
         unit = by_uid[issue['uid']]
         require(issue.get('importance') == 'material' and bool(issue.get('reason', '').strip()), 'Only consequential review decisions belong in issues; remove incidental flags')
-        for key in ('proposal', 'recommendation', 'question'):
+        for key in ('recommendation', 'question'):
             require(isinstance(issue.get(key), str) and bool(issue[key].strip()), f'Review issue needs {key}')
-        require(isinstance(issue.get('alternatives', []), list) and all(isinstance(x, str) and x.strip() for x in issue.get('alternatives', [])), 'Review alternatives must be nonempty wording choices')
-        require(isinstance(issue.get('span'), str) and bool(issue['span']) and issue['span'] in unit['text'], 'Issue span must quote current source wording')
-        item = dict(issue, textSha256=sha(unit['text']), contextSha256=issue_context(all_units or selected_units, issue['uid']))
-        item['id'] = 'issue-' + fingerprint({k: item[k] for k in ('uid', 'kind', 'span', 'textSha256', 'contextSha256')})[:16]
+        require('proposal' not in issue, 'Supply a target and replacement, not a free-form full-UID proposal')
+        require('replacement' in issue, 'Review issue needs replacement (null means retain unresolved)')
+        proposal = review.target_text(unit, issue.get('target'), issue['replacement'])
+        require(issue['replacement'] is None or issue['replacement'] != issue['target']['before'], 'Use null replacement for a retain-unresolved recommendation')
+        alternatives = issue.get('alternatives', [])
+        require(isinstance(alternatives, list) and all(isinstance(x, str) and x.strip() for x in alternatives), 'Review alternatives must be nonempty span replacements')
+        bounds = review.context_range(context, issue['uid'], issue.get('contextRange'))
+        item = dict(issue, span=issue['target']['before'], proposal=proposal,
+                    alternatives=[review.target_text(unit, issue['target'], x) for x in alternatives],
+                    contextRange=bounds, textSha256=sha(unit['text']), contextSha256=issue_context(context, issue['uid'], bounds))
+        item['id'] = 'issue-' + fingerprint({k: item[k] for k in ('uid', 'kind', 'target', 'textSha256', 'contextSha256')})[:16]
         require(item['id'] not in unique, 'Duplicate issue')
         unique.add(item['id'])
         result.append(item)
@@ -464,38 +481,14 @@ def export(root, replace_exports=False):
     title = f"{state['session']['campaign']} — Session {state['session']['sessionNumber']}"
     a = state['artifacts']
     md, page = render_polished(turns, title, Path(a['cleaned']).name, label)
-    review = [f'# Transcript Review — {title}', '',
-              f"Decisions awaiting review: {outcome['pendingMaterialIssues']} ({outcome['pendingMaterialGroups']} groups).", '',
-              'For each item, accept the proposed wording, choose an alternative, supply a correction, or leave the wording unresolved. Accepting a proposal applies a transcription correction; leaving it unresolved preserves uncertainty.', '',
-              'Only choices that change substantive information appear here. Spoken factual claims are not being checked.', '']
-    index = {u['uid']: i for i, u in enumerate(units)}
-    for disposition, heading in [('pending', 'Review proposals')]:
-        subset = [issue for issue in issues if issue['disposition'] == disposition]
-        review += [f'## {heading}', '']
-        if not subset:
-            review += ['None.', '']
-        groups = {}
-        for issue in subset:
-            groups.setdefault(issue.get('group', f"{issue['kind'].title()} at {issue['uid']}"), []).append(issue)
-        for group, occurrences in groups.items():
-            review += [f'### {group}', '']
-            for issue in occurrences:
-                i = index[issue['uid']]
-                review += [f"{issue['uid']} · {units[i]['timing']} · {units[i]['speaker']}", '',
-                           f"**Original:** {units[i]['text']}", '', f"**Proposed:** {issue['proposal']}", '',
-                           f"**Recommendation:** {issue['recommendation']}", '', f"**Decision:** {issue['question']}", '']
-                if issue.get('alternatives'):
-                    review += ['**Alternatives:**', '', *['- ' + x for x in issue['alternatives']], '']
-                review += ['**Conversation context:**', '',
-                           *[line for u in units[max(0, i-2):i+3]
-                             for line in (f"> **{u['speaker']}:** {u['text']}", '>')], '',
-                           f"%% {issue['id']} %%", '']
+    review_artifacts = dict(a, sessionMetadata=a.get('sessionMetadata') or str(one(root, 'cleaned/*-session.yaml').relative_to(root)))
+    review_md = review.exported(root, review_artifacts, issues, units, turns, title, not outcome['pending']['quality'], md)
     mentions = [m for c in state['chunks'] for m in state['cleanReviews'][c['id']]['mentions']]
     source_hash = sha(safe(root, a['cleaned']).read_bytes())
     payload = {'schemaVersion': VERSION, 'status': label, 'sourceTranscript': Path(a['cleaned']).name,
                'sourceSha256': source_hash, 'turns': turns, 'attributions': state['attributions'], 'issues': issues}
     files = {a['polishedMarkdown']: md, a['polishedHtml']: page, a['polishedJson']: encoded(payload),
-             a['review']: '\n'.join(review) + '\n', a['entities']: encoded({'schemaVersion': VERSION, 'sourceSha256': source_hash,
+             a['review']: review_md, a['entities']: encoded({'schemaVersion': VERSION, 'sourceSha256': source_hash,
                  'scope': 'Agent-reviewed transcript mentions, not canonical facts or an inferred chronology', 'mentions': mentions})}
     for path in files:
         existing = safe(root, path)
@@ -522,6 +515,8 @@ def accept(root, issue_id, reason):
 def finalize(root):
     if safe(root, finalization.PLAN).exists():
         return finalization.finish(root)
+    if review.portable(root) and (review.active(root) or not safe(root, STATE).exists()):
+        return review.finalize(root)
     outcome = status(root)
     require(outcome['outputsCurrent'] and outcome['status'] in {'complete', 'complete_with_uncertainty'},
             'Finish current cleanup, polish, quality/manual review, and export before finalization')
@@ -546,10 +541,15 @@ def main():
     p.add_argument('--vault-root', type=Path, default=default_vault)
     p.add_argument('--campaign', required=True)
     p.add_argument('--session', required=True)
-    for name in ('init', 'status', 'work', 'submit', 'export', 'accept', 'recover', 'finalize'):
+    for name in ('init', 'status', 'work', 'submit', 'export', 'accept', 'recover', 'finalize', 'review'):
         p = sub.add_parser(name)
         p.add_argument('--bundle', type=Path, required=True)
-        if name == 'init':
+        if name == 'review':
+            mode = p.add_mutually_exclusive_group()
+            mode.add_argument('--prepare', nargs='+', metavar='UID')
+            mode.add_argument('--apply', action='store_true')
+            mode.add_argument('--finalize', dest='review_finalize', action='store_true')
+        elif name == 'init':
             for opt in ('source', 'metadata', 'manifest', 'prepared', 'cleaned'):
                 p.add_argument('--' + opt)
             p.add_argument('--chunk-words', type=int, default=1800)
@@ -572,12 +572,18 @@ def main():
             require(root.is_dir(), 'The explicit session bundle directory must exist')
             if args.command == 'status':
                 result = status(root)
+            elif args.command == 'review' and not (args.prepare or args.apply or args.review_finalize):
+                result = review.status(root)
             else:
                 with lock(root):
                     require(not safe(root, finalization.PLAN).exists() or args.command in {'finalize', 'recover'},
                             'Finalization was interrupted; run finalize or recover first')
                     recovered = recover(root)
-                    if args.command == 'init':
+                    if args.command == 'review':
+                        if args.prepare: result = review.prepare(root, args.prepare)
+                        elif args.apply: result = review.apply(root)
+                        else: result = review.finalize(root)
+                    elif args.command == 'init':
                         require(args.chunk_words > 0, 'Chunk size must be positive')
                         result = initialize(root, args)
                     elif args.command == 'work': result = make_work(root, args.stage, args.chunk)

@@ -52,6 +52,26 @@ def append_completion(data, record):
     return result.encode('utf-8')
 
 
+def replace_completion(data, record):
+    """Replace only the owned completion field, preserving surrounding metadata."""
+    text = data.decode('utf-8')
+    metadata = yaml.safe_load(text)
+    if KEY not in metadata:
+        return append_completion(data, record)
+    node = yaml.compose(text)
+    matches = [(key, value) for key, value in node.value if key.value == KEY]
+    require(len(matches) == 1, 'Duplicate transcript completion fields')
+    key, value = matches[0]
+    addition = yaml.safe_dump({KEY: record}, sort_keys=False, allow_unicode=True)
+    owned = text[key.start_mark.index:value.end_mark.index].splitlines(keepends=True)
+    trailing = ''
+    while owned and (not owned[-1].strip() or owned[-1].lstrip().startswith('#')):
+        trailing = owned.pop() + trailing
+    result = text[:key.start_mark.index] + addition + trailing + text[value.end_mark.index:]
+    require(yaml.safe_load(result) == dict(metadata, **{KEY: record}), 'Cannot replace completion without changing other metadata')
+    return result.encode('utf-8')
+
+
 def work_files(root):
     folder = safe(root, WORK)
     files, directories = {}, []
