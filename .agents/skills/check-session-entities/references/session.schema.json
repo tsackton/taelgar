@@ -1,0 +1,456 @@
+{
+  "type": "object",
+  "properties": {
+    "schemaVersion": {
+      "const": 7
+    },
+    "locations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "uniqueItems": true
+    },
+    "scenes": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/scene"
+      }
+    },
+    "entities": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/entity"
+      }
+    },
+    "interactions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/interaction"
+      }
+    },
+    "review": {
+      "$ref": "#/$defs/review"
+    },
+    "sceneReview": {
+      "$ref": "#/$defs/review"
+    },
+    "sessionYaml": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Vault-relative reference to the authoritative session manifest."
+    },
+    "contextBlocks": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/contextBlock"
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "sessionYaml"
+  ],
+  "additionalProperties": false,
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://taelgar.org/schemas/session-interactions-v7.json",
+  "title": "Taelgar session interaction enrichment v7",
+  "$defs": {
+    "sourceRef": {
+      "oneOf": [
+        {
+          "type": "object",
+          "properties": {
+            "kind": {
+              "const": "transcript"
+            },
+            "sourceId": {
+              "type": "string",
+              "minLength": 1,
+              "description": "Dotted key of a transcript artifact registered in session YAML; never a local source registry."
+            },
+            "startUid": {
+              "type": "string",
+              "pattern": "^u[0-9]+$"
+            },
+            "endUid": {
+              "type": "string",
+              "pattern": "^u[0-9]+$"
+            }
+          },
+          "required": [
+            "kind",
+            "sourceId",
+            "startUid",
+            "endUid"
+          ],
+          "additionalProperties": false
+        }
+      ]
+    },
+    "scene": {
+      "type": "object",
+      "properties": {
+        "index": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "source": {
+          "$ref": "#/$defs/sourceRef"
+        },
+        "type": {
+          "enum": [
+            "conversation",
+            "exploration",
+            "combat",
+            "travel"
+          ]
+        },
+        "location": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "locationDetail": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "dateStart": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "dateEnd": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "time": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1,
+          "description": "At most 25 words; a navigation aid, not replacement narrative."
+        }
+      },
+      "required": [
+        "index",
+        "source"
+      ],
+      "additionalProperties": false
+    },
+    "entity": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "kind": {
+          "enum": [
+            "npc",
+            "divine",
+            "item",
+            "organization"
+          ]
+        },
+        "label": {
+          "type": "string",
+          "minLength": 1
+        },
+        "note": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1,
+          "description": "One overview per entity per session, at most two sentences."
+        },
+        "aiSuggestedFeaturedQuotes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "review": {
+          "$ref": "#/$defs/review"
+        }
+      },
+      "required": [
+        "id",
+        "kind",
+        "label"
+      ],
+      "additionalProperties": false
+    },
+    "interaction": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "entity": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scenes": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "minItems": 0,
+          "uniqueItems": true
+        },
+        "interaction": {
+          "enum": [
+            "interacted",
+            "observed",
+            "present",
+            "mentioned"
+          ]
+        },
+        "importance": {
+          "enum": [
+            "star",
+            "supporting",
+            "cameo"
+          ]
+        },
+        "knownAs": {
+          "type": "string",
+          "minLength": 1
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1,
+          "description": "At most one sentence."
+        },
+        "passages": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/passage"
+          }
+        },
+        "quotes": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/quote"
+          }
+        },
+        "review": {
+          "$ref": "#/$defs/review"
+        },
+        "contexts": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "uniqueItems": true,
+          "description": "Indexes in root contextBlocks; mentions in non-play material, not played encounters."
+        }
+      },
+      "required": [
+        "id",
+        "entity",
+        "interaction"
+      ],
+      "additionalProperties": false,
+      "anyOf": [
+        {
+          "required": [
+            "scenes"
+          ],
+          "properties": {
+            "scenes": {
+              "minItems": 1
+            }
+          }
+        },
+        {
+          "required": [
+            "contexts"
+          ],
+          "properties": {
+            "contexts": {
+              "minItems": 1
+            }
+          }
+        }
+      ],
+      "allOf": [
+        {
+          "if": {
+            "not": {
+              "required": [
+                "scenes"
+              ],
+              "properties": {
+                "scenes": {
+                  "minItems": 1
+                }
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "interaction": {
+                "const": "mentioned"
+              }
+            }
+          }
+        },
+        {
+          "if": {
+            "required": [
+              "contexts"
+            ],
+            "properties": {
+              "contexts": {
+                "minItems": 1
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "interaction": {
+                "const": "mentioned"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "passage": {
+      "type": "object",
+      "properties": {
+        "source": {
+          "$ref": "#/$defs/sourceRef"
+        },
+        "relevance": {
+          "enum": [
+            "primary",
+            "supporting"
+          ]
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1,
+          "description": "At most one sentence."
+        }
+      },
+      "required": [
+        "source"
+      ],
+      "additionalProperties": false
+    },
+    "quote": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "enum": [
+            "introduction",
+            "color",
+            "whole"
+          ]
+        },
+        "text": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source": {
+          "$ref": "#/$defs/sourceRef"
+        }
+      },
+      "required": [
+        "id",
+        "type",
+        "text",
+        "source"
+      ],
+      "additionalProperties": false
+    },
+    "review": {
+      "type": "object",
+      "properties": {
+        "confidence": {
+          "enum": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        "status": {
+          "enum": [
+            "unreviewed",
+            "automatedReviewed",
+            "humanReviewed"
+          ]
+        }
+      },
+      "required": [
+        "confidence",
+        "status"
+      ],
+      "additionalProperties": false
+    },
+    "contextBlock": {
+      "type": "object",
+      "properties": {
+        "index": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "kind": {
+          "enum": [
+            "recap",
+            "loreDiscussion",
+            "tableChatter"
+          ]
+        },
+        "source": {
+          "$ref": "#/$defs/sourceRef"
+        },
+        "aiSummary": {
+          "type": "string",
+          "minLength": 1,
+          "description": "At most 25 words; a navigation aid, not replacement narrative."
+        }
+      },
+      "required": [
+        "index",
+        "kind",
+        "source"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "description": "YAML-owned session enrichment with distinct divine entities and explicit non-play context references. Validation does not establish review or publication readiness."
+}

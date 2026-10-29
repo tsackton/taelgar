@@ -86,6 +86,12 @@ routine attacks and gear use, technical setup, scheduling, breaks, unrelated jok
 “In-world” describes the information retained, not the grammatical style. Do not
 rewrite retained words into character speech or repair names/ASR. If unsure, keep.
 
+Technical chatter nearby does not make every ambiguous remark technical. Preserve
+phrases such as “you're all just very still” when they could describe the characters
+or an in-world reaction; do not label them a connection check merely because an
+earlier line mentions a frozen call. Snip only clearly technical wording. If review
+finds such an ambiguous cut, restore its complete polished turn.
+
 **Small substitutions inside mixed turns are encouraged.** Replace a clearly
 mechanical phrase such as “I rolled a 12” with `((rolls))` while preserving the
 question, answer, named entities, uncertainty and consequences around it. Work at
