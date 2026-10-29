@@ -9,8 +9,8 @@
 [u0009 | 00:00:54.210-00:01:03.490 | DM] And is this sort of gorgeous masterpiece of, late Drankorian architecture way far north from the Empire, or maybe towards the northern edges of the Empire.
 [u0010 | 00:01:04.769-00:01:13.350 | DM] Hulda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was
 [u0011 | 00:01:13.570-00:01:16.060 | DM] Owed more and wanted more.
-[u0012 | 00:01:16.170-00:01:28.310 | DM] And deep in the throes of a midlife crisis last spring after having killed Dragon and had, you know, done all of these accomplishments, and discovering himself no better off than he'd ever been.
-[u0013 | 00:01:30.080-00:01:45.859 | DM] An elf met with him and gave him the deed to this house, naming him very specifically that he was inherited of it, assuming he could go through the door in the basement and break the treaty set with the man on the other side of the door.
+[u0012 | 00:01:16.170-00:01:28.310 | DM] And deep in the throes of a midlife crisis last spring after having killed a dragon and had, you know, done all of these accomplishments, and discovering himself no better off than he'd ever been.
+[u0013 | 00:01:30.080-00:01:45.859 | DM] An elf met with him and gave him the deed to this house, naming him very specifically that he was inheritor of it, assuming he could go through the door in the basement and break the treaty set with the man on the other side of the door.
 [u0014 | 00:01:46.080-00:01:48.380 | DM] With the person on the other side of the door.
 [u0015 | 00:01:49.800-00:01:51.770 | DM] He sends you through that.
 [u0016 | 00:01:52.260-00:02:00.660 | DM] door in the basement below the basement, climbing through this route, and you emerge in the Feywild.
@@ -23,7 +23,7 @@
 [u0023 | 00:02:47.160-00:02:53.069 | DM] He will send a mortal through the door and into that house.
 [u0024 | 00:02:53.540-00:02:56.590 | DM] Which is all he says about what it is.
 [u0025 | 00:02:59.120-00:03:11.210 | DM] And… He doesn't like that he made this bargain. He feels like he was tricked into it in a game of naming by a human wizard.
-[u0026 | 00:03:11.580-00:03:19.960 | DM] Tim, the session notes may be an error here. It was Thalestria, the head of the, order.
+[u0026 | 00:03:11.580-00:03:19.960 | DM] Tim, the session notes may be in error here. It was Thalestria, the head of the, order.
 [u0027 | 00:03:20.130-00:03:22.320 | DM] Who tricked him into it?
 [u0028 | 00:03:22.680-00:03:23.590 | DM] and…
 [u0029 | 00:03:24.320-00:03:35.510 | DM] And she's the head of Arithrimos Lamperum, and after talking with Menestheus, a mathematician and mapmaker who has been,
@@ -158,7 +158,7 @@
 [u0158 | 00:13:40.110-00:13:41.810 | Ayveen] You know, that's what happens.
 [u0159 | 00:13:46.310-00:13:47.639 | Tarek] We know where he is.
 [u0160 | 00:13:49.520-00:13:50.840 | Tarek] Do we know where he is?
-[u0161 | 00:13:50.840-00:13:51.630 | Ayveen] Speak with us.
+[u0161 | 00:13:50.840-00:13:51.630 | Ayveen] He's with us.
 [u0162 | 00:13:51.630-00:13:53.450 | DM] Yep, Menestheus is with you.
 [u0163 | 00:13:53.450-00:13:54.440 | Tarek] Oh.
 [u0164 | 00:13:54.920-00:13:55.660 | Tarek] Got it.
@@ -203,7 +203,7 @@
 [u0203 | 00:17:19.920-00:17:21.059 | DM] Yeah. Very cool.
 [u0204 | 00:17:27.280-00:17:36.479 | DM] So, to set the table a little bit, standing in front of the door on this, on this bluff that falls away now on three sides.
 [u0205 | 00:17:36.800-00:17:39.629 | DM] In the twilight.
-[u0206 | 00:17:40.900-00:17:49.920 | DM] In the Twilight 2, which has this funny characteristic that it doesn't seem still, it seems like it is actively growing darker, even though it isn't.
+[u0206 | 00:17:40.900-00:17:49.920 | DM] In the twilight too, which has this funny characteristic that it doesn't seem still, it seems like it is actively growing darker, even though it isn't.
 [u0207 | 00:17:52.100-00:17:53.670 | DM] Standing in front of the door.
 [u0208 | 00:17:54.420-00:17:57.779 | DM] Can you do a reset of, like, What do you each…
 [u0209 | 00:17:57.880-00:18:01.789 | DM] look like? What are you holding in your hands, if anything?
@@ -283,7 +283,7 @@
 [u0283 | 00:23:48.470-00:23:52.330 | DM] discussion about things and there doesn't seem to be a right path.
 [u0284 | 00:23:52.990-00:23:54.950 | Edric] Through this, exactly.
 [u0285 | 00:23:55.530-00:23:56.370 | Edric] And…
-[u0286 | 00:23:57.050-00:24:14.390 | Edric] makes him a little uncomfortable. But going to a scary place actually kind of evens his cue a little bit, right? Like, he's a little bit like, maybe there'll be something here that I can just, like… that party was a little, like, I don't know what's going on here. Maybe there'll be, like, a bad guy will jump out, and I'll be able to just hit it.
+[u0286 | 00:23:57.050-00:24:14.390 | Edric] makes him a little uncomfortable. But going to a scary place actually kind of evens his keel a little bit, right? Like, he's a little bit like, maybe there'll be something here that I can just, like… that party was a little, like, I don't know what's going on here. Maybe there'll be, like, a bad guy will jump out, and I'll be able to just hit it.
 [u0287 | 00:24:15.570-00:24:16.250 | DM] So…
 [u0288 | 00:24:17.050-00:24:19.169 | DM] I love that the party is scarier than a monster.
 [u0289 | 00:24:19.830-00:24:21.700 | Edric] Oh, it's way scarier than a monster.
@@ -331,7 +331,7 @@
 [u0331 | 00:27:51.100-00:27:55.649 | Kaito Min] So, Kaito's kind of leaning into his inner elf, and is sort of like, you know what
 [u0332 | 00:27:56.760-00:28:10.140 | Kaito Min] we're here for a couple more hundred years, thousand years, you know, he's just, he's just kind of, like, feeling a little, little resigned to the possibilities, not, not really freaking out, but also kind of like, man.
 [u0333 | 00:28:10.670-00:28:13.820 | Kaito Min] Oh, boy, this could be… we might be here for a while.
-[u0334 | 00:28:19.270-00:28:22.790 | Ayveen] It's been… You know, had her…
+[u0334 | 00:28:19.270-00:28:22.790 | Ayveen] Ayveen… You know, had her…
 [u0335 | 00:28:22.940-00:28:31.979 | Ayveen] Nice armor on, still looking fresh and tidy and gleaming, appropriate for a party, appropriate for starting out on an adventure.
 [u0336 | 00:28:32.740-00:28:33.590 | Ayveen] Just.
 [u0337 | 00:28:34.010-00:28:38.640 | Ayveen] Her long hair, her instrument on her back,
@@ -395,7 +395,7 @@
 [u0395 | 00:34:20.340-00:34:21.330 | DM] And.
 [u0396 | 00:34:21.460-00:34:30.650 | DM] first, it's just sort of a scene of destruction. Like, there were tables and chairs that have been smashed and overturned,
 [u0397 | 00:34:31.679-00:34:33.050 | DM] There's a…
-[u0398 | 00:34:33.409-00:34:51.010 | DM] sort of a counter by the door, that we're just going to assume that comprehend language is up as a ritual indefinitely for the sake of simplicity. You know, that at one point read current occupants and would have had a number below it, but has been smashed apart.
+[u0398 | 00:34:33.409-00:34:51.010 | DM] sort of a counter by the door, that we're just going to assume that Comprehend Languages is up as a ritual indefinitely for the sake of simplicity. You know, that at one point read current occupants and would have had a number below it, but has been smashed apart.
 [u0399 | 00:34:51.300-00:35:05.119 | DM] There's a tapestry, a giant tapestry on one side that's been pulled down and mangled. On the far wall across from the door, so 30 feet in front of you, almost the entire space is taken up with massive
 [u0400 | 00:35:05.920-00:35:10.380 | DM] Like… pipes and tubes and…
 [u0401 | 00:35:10.590-00:35:25.959 | DM] turbines, stuff made of cast copper and iron, that's almost, I don't know, steam pump looking. There's a hum that comes from all of it, but no, obviously moving parts.
@@ -431,7 +431,7 @@
 [u0431 | 00:38:09.670-00:38:11.590 | DM] Yeah, this guy gets it.
 [u0432 | 00:38:15.110-00:38:16.100 | DM] Oh!
 [u0433 | 00:38:16.100-00:38:17.080 | Edric] Bye.
-[u0434 | 00:38:17.540-00:38:23.339 | Edric] This doesn't. It took sort of Pat's Pat's small look like a problem.
+[u0434 | 00:38:17.540-00:38:23.339 | Edric] This doesn't. Edric sort of pats, pats his maul look like a problem.
 [u0435 | 00:38:24.320-00:38:26.470 | Edric] I'm not sure how to solve this problem.
 [u0436 | 00:38:27.260-00:38:29.799 | Edric] Maybe one of the wiser heads knows what to do.
 [u0437 | 00:38:30.630-00:38:33.229 | Edric] Kind of looks around desperately at the rest of the party.
@@ -466,7 +466,7 @@
 [u0466 | 00:41:11.770-00:41:13.780 | Txarro] Right. 22 is down.
 [u0467 | 00:41:14.030-00:41:15.930 | Txarro] 12 is left.
 [u0468 | 00:41:17.310-00:41:19.160 | Txarro] 4 is right.
-[u0469 | 00:41:19.750-00:41:20.210 | DM] For us.
+[u0469 | 00:41:19.750-00:41:20.210 | DM] Four is up.
 [u0470 | 00:41:20.210-00:41:20.990 | Txarro] for.
 [u0471 | 00:41:23.060-00:41:24.560 | DM] And 16 is right.
 [u0472 | 00:41:33.040-00:41:36.280 | Txarro] 22 is closest to 27. Let's go that way.
@@ -837,7 +837,7 @@
 [u0837 | 01:11:41.860-01:11:45.929 | DM] So you went in, you went down, you went back up again.
 [u0838 | 01:11:46.170-01:11:47.830 | DM] Although it was a different room.
 [u0839 | 01:11:48.610-01:11:49.900 | DM] But that' That's.
-[u0840 | 01:11:49.900-01:12:02.709 | Edric] I'm just roleplaying Edrick here. He's just like, I'm following you guys, I don't know where we are, and I don't know why the rooms are different. But, so, is it… in theory, maybe it makes sense that it's the outside?
+[u0840 | 01:11:49.900-01:12:02.709 | Edric] I'm just roleplaying Edric here. He's just like, I'm following you guys, I don't know where we are, and I don't know why the rooms are different. But, so, is it… in theory, maybe it makes sense that it's the outside?
 [u0841 | 01:12:03.640-01:12:09.660 | Edric] Like, it's looking out into… Nothing? It's just rooms, right? Can we see anything out the window?
 [u0842 | 01:12:10.100-01:12:17.700 | DM] No, the window. What you see through the window is a solid wall of iron carved, right? Okay, you said that. It's just a blank, right?
 [u0843 | 01:12:17.700-01:12:18.680 | Edric] Fine. Yeah.
@@ -983,7 +983,7 @@
 [u0983 | 01:21:57.350-01:21:58.430 | Tarek] map image.
 [u0984 | 01:21:58.430-01:21:59.669 | Ayveen] There's two thoughts.
 [u0985 | 01:21:59.940-01:22:03.559 | Ayveen] Thought one is we haven't seen any numbers higher than 27 yet.
-[u0986 | 01:22:05.060-01:22:09.250 | Ayveen] Thought, too, is we keep getting 3 or 4 options per room.
+[u0986 | 01:22:05.060-01:22:09.250 | Ayveen] Thought two, is we keep getting 3 or 4 options per room.
 [u0987 | 01:22:10.470-01:22:12.919 | Ayveen] So we don't have to go through that many rooms.
 [u0988 | 01:22:14.200-01:22:14.800 | Ayveen] Before we…
 [u0989 | 01:22:14.800-01:22:15.430 | Edric] Yeah.
@@ -1001,7 +1001,7 @@
 [u1001 | 01:22:51.170-01:22:51.870 | DM] All right.
 [u1002 | 01:22:52.780-01:22:54.559 | DM] Up down northeast.
 [u1003 | 01:22:55.120-01:22:57.300 | DM] 13, 19, 7, 23.
-[u1004 | 01:23:02.030-01:23:03.649 | Txarro] Were they up with seven?
+[u1004 | 01:23:02.030-01:23:03.649 | Txarro] Were they up was seven?
 [u1005 | 01:23:04.050-01:23:04.590 | DM] Yep.
 [u1006 | 01:23:05.980-01:23:07.090 | Tarek] Lucky seven.
 [u1007 | 01:23:08.110-01:23:10.189 | Edric] I like 7. That's a good number.
@@ -1389,7 +1389,7 @@
 [u1389 | 01:51:10.870-01:51:13.620 | DM] East, west, south, and up.
 [u1390 | 01:51:13.940-01:51:17.949 | DM] to 25, 12, 15, and 11.
 [u1391 | 01:51:18.100-01:51:25.989 | DM] And Menestheus takes out a pen and paper and starts working through.
-[u1392 | 01:51:27.000-01:51:31.980 | DM] Various numbers and equations and so on. Well, you take a rest.
+[u1392 | 01:51:27.000-01:51:31.980 | DM] Various numbers and equations and so on. While you take a rest.
 [u1393 | 01:51:34.770-01:51:35.310 | Tarek] Okay.
 [u1394 | 01:51:35.630-01:51:38.000 | DM] it's uneventful.
 [u1395 | 01:51:38.870-01:51:41.860 | DM] Although I will say, like, the more time goes on.
@@ -1439,7 +1439,7 @@
 [u1439 | 01:55:18.380-01:55:19.659 | DM] 15 it is.
 [u1440 | 01:55:22.190-01:55:36.349 | DM] 15 is a massive mechanical room. You've been in one very similar to this before, even though the exact layouts of the pipes and the machineries are different. It's almost just the same, and there are exits
 [u1441 | 01:55:36.550-01:55:40.620 | DM] Up, down, east and west, and on the south wall…
-[u1442 | 01:55:42.020-01:55:53.450 | DM] There's another one of these windows. It's different from the others. You remember enough about the ruins to know it's not exactly the same view, but it's this 2 by 2 foot window that looks into this wooden wall.
+[u1442 | 01:55:42.020-01:55:53.450 | DM] There's another one of these windows. It's different from the others. You remember enough about the runes to know it's not exactly the same view, but it's this 2 by 2 foot window that looks into this wooden wall.
 [u1443 | 01:55:53.580-01:55:58.119 | DM] With a chair and a written notebook next to it.
 [u1444 | 01:56:00.160-01:56:01.119 | Ayveen] Different notebook.
 [u1445 | 01:56:01.120-01:56:02.390 | Edric] Different notebook.
@@ -1484,7 +1484,7 @@
 [u1484 | 01:58:59.460-01:59:01.740 | DM] You're opening the door to my house.
 [u1485 | 01:59:01.950-01:59:03.780 | DM] I am sending you onward.
 [u1486 | 01:59:05.360-01:59:07.199 | DM] And that's the last of the entries.
-[u1487 | 01:59:12.530-01:59:15.160 | Tarek] I love all those dust shorts. It's so good.
+[u1487 | 01:59:12.530-01:59:15.160 | Tarek] I love all those, Schwartz. It's so good.
 [u1488 | 01:59:15.530-01:59:18.710 | Tarek] The shape of possibility was something from.
 [u1489 | 01:59:19.070-01:59:20.680 | Tarek] Previous session, or no?
 [u1490 | 01:59:22.230-01:59:25.600 | DM] It was a book you found. It was one of the books that,
@@ -1680,7 +1680,7 @@
 [u1680 | 02:14:55.650-02:15:07.150 | DM] She bangs on the glass. Nope, nope, she says to whatever's inside. That one, there, and then that one. Yeah, good. Yep, yep. And then just like the other side. Good, good.
 [u1681 | 02:15:08.920-02:15:16.459 | DM] She sighs and looks over at you.
 [u1682 | 02:15:18.700-02:15:30.979 | DM] Meeting each of your stares sort of appraisingly, and then seeing Menestheus says, okay, okay, okay.
-[u1683 | 02:15:31.390-02:15:36.250 | DM] Greetings, she says. I'm Kalepsis. I'm a gardener.
+[u1683 | 02:15:31.390-02:15:36.250 | DM] Greetings, she says. I'm Kallipseis. I'm a gardener.
 [u1684 | 02:15:37.650-02:15:57.620 | DM] and a little bit in the middle of a project. Here she gestures behind her through the window to this isolation room, where a table's laid out, and a slightly larger than dwarf-sized body seems to be placed on the table as a similar
 [u1685 | 02:15:58.410-02:16:01.049 | DM] Creature? Automata?
 [u1686 | 02:16:02.220-02:16:03.710 | DM] Flesh-suit.
@@ -1794,7 +1794,7 @@
 [u1794 | 02:23:39.340-02:23:46.219 | DM] I will tell you, I have not been out of this room in a long… Long, long time.
 [u1795 | 02:23:46.710-02:23:47.460 | Tarek] Mmm.
 [u1796 | 02:23:47.660-02:23:49.739 | DM] I didn't always work in fungus.
-[u1797 | 02:23:50.430-02:23:54.610 | DM] There used to be, like, a gardener. I used to work with plants.
+[u1797 | 02:23:50.430-02:23:54.610 | DM] I used to be, like, a gardener. I used to work with plants.
 [u1798 | 02:23:56.810-02:23:58.759 | Ayveen] The solarium still looks lovely.
 [u1799 | 02:24:00.000-02:24:02.420 | DM] That's good to hear. They must not have gotten there.
 [u1800 | 02:24:03.550-02:24:09.720 | DM] The greenhouses were destroyed, utterly. I barely made it.
@@ -1856,7 +1856,7 @@
 [u1856 | 02:28:44.240-02:28:46.589 | DM] About getting away, about.
 [u1857 | 02:28:48.190-02:29:01.560 | DM] They rant about needing to go as far as they can. They… they talk on about doing… so.
 [u1858 | 02:29:01.850-02:29:02.510 | DM] Yes.
-[u1859 | 02:29:02.920-02:29:09.780 | DM] You talk about this parent. It's all sort of nonsensical and shouty, and then they start hitting.
+[u1859 | 02:29:02.920-02:29:09.780 | DM] They talk about this parent. It's all sort of nonsensical and shouty, and then they start hitting.
 [u1860 | 02:29:11.100-02:29:13.760 | DM] And that's difficult. And then they grab you.
 [u1861 | 02:29:16.360-02:29:20.200 | DM] And then they have mouths in their chest that try to eat you.
 [u1862 | 02:29:21.320-02:29:22.620 | Edric] That sounds…
@@ -1864,7 +1864,7 @@
 [u1864 | 02:29:26.890-02:29:27.880 | Edric] something.
 [u1865 | 02:29:28.860-02:29:37.140 | DM] The first one was not… good. But, I mean, like I say, if I didn't have them, I couldn't be making this, so it's all… it's all about progress.
 [u1866 | 02:29:41.340-02:29:43.160 | Txarro] Did she ever tell us what her name was?
-[u1867 | 02:29:44.170-02:29:46.090 | DM] Kalepsis.
+[u1867 | 02:29:44.170-02:29:46.090 | DM] Kallipseis.
 [u1868 | 02:29:48.400-02:29:52.540 | Txarro] You know where…
 [u1869 | 02:29:55.660-02:29:58.199 | Txarro] Thalestria is?
 [u1870 | 02:29:59.950-02:30:01.140 | DM] Thalestria.
@@ -1964,7 +1964,7 @@
 [u1964 | 02:38:19.820-02:38:24.889 | Ayveen] Menestheus and Thalestria mispronunciations. Please excuse.
 [u1965 | 02:38:24.890-02:38:25.580 | DM] Yep.
 [u1966 | 02:38:25.580-02:38:26.600 | Ayveen] So…
-[u1967 | 02:38:26.600-02:38:27.480 | Txarro] Kalepsis.
+[u1967 | 02:38:26.600-02:38:27.480 | Txarro] Kallipseis.
 [u1968 | 02:38:28.430-02:38:32.829 | DM] This is Tim's fault for naming several Drankorians with Greek-sounding names.
 [u1969 | 02:38:33.190-02:38:33.750 | Ayveen] Okay.
 [u1970 | 02:38:35.920-02:38:45.219 | Ayveen] Am I understanding that the order of business and the order that you signed up in was to exist in this 27th room building that none of you could voluntarily leave.
@@ -2004,7 +2004,7 @@
 [u2004 | 02:40:58.680-02:41:00.319 | DM] I have to think it's not true.
 [u2005 | 02:41:01.370-02:41:03.399 | DM] It's just, it's an absurdity.
 [u2006 | 02:41:04.790-02:41:06.939 | Edric] What would be a way to verify it?
-[u2007 | 02:41:07.330-02:41:08.840 | Ayveen] You bring her a mantle clock.
+[u2007 | 02:41:07.330-02:41:08.840 | Ayveen] You bring her a mantel clock.
 [u2008 | 02:41:09.370-02:41:13.010 | DM] Well, I'll finish the body, I'll put myself into it, and we'll walk right out.
 [u2009 | 02:41:14.010-02:41:15.900 | DM] Yeah, or to bring a clock.
 [u2010 | 02:41:16.820-02:41:20.969 | DM] But I can't get to the other rooms to get a clock until I finish the body.
@@ -2097,7 +2097,7 @@
 [u2097 | 02:48:47.390-02:48:48.390 | DM] There's a…
 [u2098 | 02:48:48.710-02:48:55.309 | DM] A glass key that unlocks all of the locked doors in this house, and you can use it to unlock the front door.
 [u2099 | 02:48:56.420-02:48:58.019 | DM] I thought Thalestria…
-[u2100 | 02:48:58.320-02:49:02.250 | DM] I had it on her, though, but if you happen to run across it in here somewhere…
+[u2100 | 02:48:58.320-02:49:02.250 | DM] had it on her, though, but if you happen to run across it in here somewhere…
 [u2101 | 02:49:02.570-02:49:04.129 | DM] I'll let you back out the front door.
 [u2102 | 02:49:06.570-02:49:07.449 | Ayveen] Good to know.
 [u2103 | 02:49:07.870-02:49:12.080 | Ayveen] looks like a standard size key fits in a standard size lock.
@@ -2122,7 +2122,7 @@
 [u2122 | 02:50:39.180-02:50:44.640 | Txarro] So if it's 3 tiers, and each tier rotates, then going…
 [u2123 | 02:50:45.220-02:50:49.960 | Txarro] West from one room should be equivalent to going east from the next room.
 [u2124 | 02:50:51.730-02:50:53.120 | Tarek] It's not like that thing.
-[u2125 | 02:50:54.870-02:50:57.670 | DM] So, what Kalepsis said early on.
+[u2125 | 02:50:54.870-02:50:57.670 | DM] So, what Kallipseis said early on.
 [u2126 | 02:50:57.920-02:51:03.160 | DM] Was that it's 3 different tiers rotating in 3 different directions.
 [u2127 | 02:51:04.300-02:51:05.790 | Ayveen] It's like a Rubik's Cube.
 [u2128 | 02:51:06.870-02:51:07.500 | Txarro] Damn.
@@ -2316,7 +2316,7 @@
 [u2316 | 03:05:01.480-03:05:01.800 | Edric] Right.
 [u2317 | 03:05:01.960-03:05:02.630 | Txarro] Realize.
 [u2318 | 03:05:02.630-03:05:03.540 | Edric] I get it, but I.
-[u2319 | 03:05:03.540-03:05:04.300 | Txarro] Point us.
+[u2319 | 03:05:03.540-03:05:04.300 | Txarro] Pointless.
 [u2320 | 03:05:04.300-03:05:08.039 | Edric] The labyrinth wasn't, was, and I probably could have telegraphed this better
 [u2321 | 03:05:08.400-03:05:23.899 | Edric] each encounter, the choice was meant to be in the encounter, depending on how you solve the encounter, it either forces you deeper or closer to the end of the labyrinth. So the only outcomes were either each encounter
 [u2322 | 03:05:24.270-03:05:30.929 | Edric] Each series of encounters, but it probably would have worked better if it was literally not a maze, if it was like.
@@ -2401,7 +2401,7 @@
 [u2401 | 03:11:34.410-03:11:37.050 | Txarro] Just from, like, a practical running a game.
 [u2402 | 03:11:37.050-03:11:37.390 | Tarek] Right.
 [u2403 | 03:11:38.310-03:11:48.620 | Txarro] like, our vibe of playing for, you know, 6 to 9 hours a month, right? Like, don't really want to spend the next 3 sessions searching every room in this…
-[u2404 | 03:11:51.320-03:11:55.249 | Txarro] There's too many rooms to feel like you can search everyone thoroughly.
+[u2404 | 03:11:51.320-03:11:55.249 | Txarro] There's too many rooms to feel like you can search every one thoroughly.
 [u2405 | 03:11:56.730-03:11:57.520 | DM] Guess I…
 [u2406 | 03:11:57.520-03:11:59.429 | Txarro] It takes too much table time.
 [u2407 | 03:12:00.010-03:12:04.050 | DM] No, that's fair. I would have assumed, like, or…
@@ -2513,7 +2513,7 @@
 [u2513 | 03:18:52.830-03:18:55.439 | Txarro] I should have known that would happen.
 [u2514 | 03:18:58.180-03:18:58.720 | Tarek] Right.
 [u2515 | 03:18:59.340-03:19:00.839 | Kaito Min] Can't put a tower there.
-[u2516 | 03:19:04.020-03:19:06.100 | Edric] Got a manual creating columns that we forgot.
+[u2516 | 03:19:04.020-03:19:06.100 | Edric] Got a manual creating golems that we forgot.
 [u2517 | 03:19:06.100-03:19:07.870 | Txarro] Which… Yeah.
 [u2518 | 03:19:08.080-03:19:10.090 | Txarro] Well, you didn't have time to use.
 [u2519 | 03:19:10.540-03:19:11.130 | Edric] Right.
