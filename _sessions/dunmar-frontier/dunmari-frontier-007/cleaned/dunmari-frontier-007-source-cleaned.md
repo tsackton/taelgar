@@ -273,7 +273,7 @@
 [u0273 | 00:23:24.780-00:23:29.340 | DM] Possibly some. There are some animal tracks that seem mixed up in this as well.
 [u0274 | 00:23:30.390-00:23:31.230 | DM] You know, whether they're
 [u0275 | 00:23:32.640-00:23:34.050 | DM] Driving antelope.
-[u0276 | 00:23:34.110-00:23:38.940 | DM] Before them or sheep before them, or whether it's something following them as a little bit hard to tell but
+[u0276 | 00:23:34.110-00:23:38.940 | DM] Before them or sheep before them, or whether it's something following them is a little bit hard to tell but
 [u0277 | 00:23:40.380-00:23:40.560 | Delwath] It's
 [u0278 | 00:23:40.710-00:23:42.390 | DM] Probably something like eight to 10
 [u0279 | 00:23:43.440-00:23:46.920 | DM] Tracks heading west and you know like a dozen, you know,
@@ -534,7 +534,7 @@
 [u0534 | 00:43:27.450-00:43:32.910 | DM] Nervous and skittish and staying far away from you as as you're
 [u0535 | 00:43:34.680-00:43:36.390 | DM] Riding quickly through the day.
 [u0536 | 00:43:39.210-00:43:40.800 | DM] And as evening approaches.
-[u0537 | 00:43:42.990-00:43:44.160 | DM] sunsets.
+[u0537 | 00:43:42.990-00:43:44.160 | DM] sun sets.
 [u0538 | 00:43:46.260-00:43:47.280 | DM] Having traveled
 [u0539 | 00:43:47.580-00:43:50.220 | DM] Made quite good time, you're probably now.
 [u0540 | 00:43:50.700-00:43:50.970 | Seeker] You know,
@@ -1147,7 +1147,7 @@
 [u1147 | 01:33:05.850-01:33:07.170 | DM] Oh, Jesus was that
 [u1148 | 01:33:09.630-01:33:13.290 | DM] Okay, now let me get combat sorry that
 [u1149 | 01:33:20.100-01:33:21.240 | DM] Tonight that
-[u1150 | 01:33:23.280-01:33:26.280 | DM] That didn't get the way. So where did you get
+[u1150 | 01:33:23.280-01:33:26.280 | DM] That didn't get the way. So what did you get
 [u1151 | 01:33:27.900-01:33:29.580 | Kenzo] I haven't done yet. Sorry, I was
 [u1152 | 01:33:29.880-01:33:33.180 | Kenzo] Trying to figure something else out. Hold on, let me roll it.
 [u1153 | 01:33:35.100-01:33:36.960 | Kenzo] Someplace something
@@ -1218,7 +1218,7 @@
 [u1218 | 01:38:10.050-01:38:14.550 | DM] I think dim light technically doesn't apply any combat penalties.
 [u1219 | 01:38:18.180-01:38:19.560 | DM] So yes, you can see this
 [u1220 | 01:38:19.890-01:38:23.760 | Wellby] So we're just sort of under cover. Awesome. So I'm gonna move like
-[u1221 | 01:38:26.430-01:38:30.030 | Wellby] Over an attempt to hide behind the rock.
+[u1221 | 01:38:26.430-01:38:30.030 | Wellby] Over and attempt to hide behind the rock.
 [u1222 | 01:38:30.960-01:38:31.350 | Unknown] Okay.
 [u1223 | 01:38:32.550-01:38:33.300 | Wellby] Which I do
 [u1224 | 01:38:33.810-01:38:34.650 | Wellby] Exceedingly well
@@ -1226,7 +1226,7 @@
 [u1226 | 01:38:37.920-01:38:40.740 | Wellby] Yeah, and then I'll attack.
 [u1227 | 01:38:43.050-01:38:43.800 | Wellby] With advantage, right?
 [u1228 | 01:38:44.910-01:38:45.180 | DM] Yeah.
-[u1229 | 01:38:46.680-01:38:50.010 | DM] So yeah, so those ones. You can see arm.
+[u1229 | 01:38:46.680-01:38:50.010 | DM] So yeah, so those ones. You can see um.
 [u1230 | 01:38:52.110-01:38:53.880 | Wellby] Further to the right.
 [u1231 | 01:38:55.980-01:38:56.190 | DM] This
 [u1232 | 01:38:56.520-01:38:58.200 | Wellby] Oh, sorry. Actually, this guy down here.
@@ -1668,7 +1668,7 @@
 [u1668 | 02:09:37.530-02:09:38.370 | DM] Oh, wait a minute.
 [u1669 | 02:09:38.880-02:09:39.120 | Unknown] What
 [u1670 | 02:09:40.410-02:09:42.030 | DM] I totally forgot the prone.
-[u1671 | 02:09:44.310-02:09:46.500 | DM] He saw he can't. I don't think he can reach you.
+[u1671 | 02:09:44.310-02:09:46.500 | DM] He—so he can't. I don't think he can reach you.
 [u1672 | 02:09:48.210-02:09:48.600 | Seeker] Well as he
 [u1673 | 02:09:50.160-02:09:51.030 | Riswynn] Is Kenzo.
 [u1674 | 02:09:51.060-02:09:51.450 | Delwath] Kenzo.
@@ -2177,7 +2177,7 @@
 [u2177 | 02:45:01.020-02:45:08.310 | DM] Another clear, sunny day, the plains ahead of you looking
 [u2178 | 02:45:10.590-02:45:13.620 | DM] Sort of strangely serene and quiet.
 [u2179 | 02:45:16.230-02:45:17.850 | DM] As you contemplate your next move.
-[u2180 | 02:45:20.340-02:45:22.050 | Seeker] Are there any you birds around
+[u2180 | 02:45:20.340-02:45:22.050 | Seeker] Are there any, uh, birds around
 [u2181 | 02:45:23.970-02:45:27.210 | DM] You have not seen very much in the way of birds.
 [u2182 | 02:45:29.280-02:45:30.000 | DM] It's been
 [u2183 | 02:45:30.180-02:45:30.600 | Unknown] I mean,
@@ -2717,7 +2717,7 @@
 [u2717 | 03:28:42.960-03:28:43.980 | Seeker] Because they can't live
 [u2718 | 03:28:45.570-03:28:46.170 | Unknown] Just have water.
 [u2719 | 03:28:49.080-03:28:52.200 | DM] They can't live water has been
-[u2720 | 03:28:53.040-03:28:53.790 | Seeker] Poisoned they can
+[u2720 | 03:28:53.040-03:28:53.790 | Seeker] Poisoned. They can't
 [u2721 | 03:28:54.030-03:28:54.990 | DM] Stay, because
 [u2722 | 03:28:56.310-03:28:57.960 | Delwath] Is is the poison spreading
 [u2723 | 03:28:59.340-03:29:00.180 | Delwath] Spreading West
