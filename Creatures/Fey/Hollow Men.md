@@ -10,7 +10,7 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Hollow Men
+# The Hollow Men
 
 Hollow Men are fey servants or manifestations associated with [[Morlaith|the Briarheart]] in the folklore of [[Haldrenn]]. They are humanoid in form, but made of brambles, thorns, and sticks. In lore, they are said to avenge the Briarheart when he is aggrieved by the misdeeds of mortals.
 

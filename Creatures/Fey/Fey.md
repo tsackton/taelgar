@@ -10,23 +10,76 @@ POV: modern
 ---
 # Fey
 
-The fey are the natives of the [[Feywild]]. They are generally referred to as the "fey" or the "faerie", but there are distinctions, both obvious and subtle, among these folk. The fey can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home.  
+The fey are the natives of the [[Feywild]]. They are generally referred to as the "fey", sometimes spelled "fae", or the "faerie", but there are distinctions, both obvious and subtle, among these folk. The fey can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home.  
 
 All fey honor bargains, and the feywild runs on gifts and promises. But whether these are offered genuinely, or in an attempt to deceive, can be difficult for mortal minds to decipher. And the risk of accepting a bargain you do not understand may well be servitude in an archfey's court. 
 
-The fey are a diverse folk, and many kinds of fey inhabit the [[Feywild]]:
+## The Many Forms of the Fey
 
-- The most common folk among the fey are a folk generally human-like in appearance, but possessing an otherworldly elegance and an ethereal quality. These folk, usually called the [[fae]], could pass as humans in the right circumstances, although their unusual eyes often give them away. Some of these folk can change their appearance at will, and are called [[changelings]].
-- The sometimes mischievous, sometimes helpful, and always magical flying [[Fairies|fairies]] are also common among the people of the Feywild. These folk are usually small, and include creatures like the pixies, sprites, brownies, and other fairies.
-- Many kinds of beastfolk inhabit the Feywild. Most famous and most common are the horned [[satyrs]], but many other diverse beastfolk can be found across the Feywild.
+The fey are a diverse folk, though more so in appearance than in nature. The common fey who inhabit the courts and gardens and wild paths of the Feywild, and sometimes find themselves on the Material Plane, do not divide themselves by form, though mortals typically distinguish common appearances. These include: 
+
+- A folk generally human-like in appearance, but possessing an otherworldly elegance and an ethereal quality. These folk, usually called the fey by mortals, though often spelled fae, could pass as humans in the right circumstances, although their unusual eyes often give them away. Some of these folk can change their appearance at will; often referred to as changelings in legends and poems from the mortal world. 
+- The sometimes mischievous, sometimes helpful, often winged, and always magical fairies. These folk are usually small, and include creatures like the pixies, sprites, and brownies. 
+- Many kinds of beastfolk inhabit the Feywild. Most famous and most common are the horned satyrs, but many other diverse forms of human-like creatures with some animal features, or animal-like creatures with some human features, can be found across the Feywild.
+
+
+
 - Throughout the feywild, there are also innumerable dryads, nymphs, and other spirits of the land. These fey are typically strongly tied to a particular place, rarely traveling. 
 - [[Story about Hags|Hags]] are also fey, and often powerful ones, though some may leave the Feywild to find easier prey for their schemes in the material plane. 
 
+
+
+
+- **Place-bound beings:** dryads and nymphs offer a useful distinction based on their connection to a place, rather than appearance alone.
+- **Other manifestations and servants:** Hollow Men—brambles, thorns, and sticks in humanoid form—show why the page needs room beyond ordinary humanoid lineages.
+
+## Language and Naming
+
+## Gifts, Promises, and Bargains
+
+## Realms, Courts, and Archfey
+
 The strangest and most powerful of the fey are the Archfey. They are the great powers of the [[Feywild]], singular beings who rule the diverse realms of the Feywild, and whose realms take shape around their nature. An archfey’s domain is not merely ruled, but marked by them: its light, weather, paths, hungers, splendors, and dangers all echo the character of the power at its heart. Some realms become courts of beauty, revelry, and impossible grace; others darken into decay, fear, or ruin. Few mortals encounter an archfey directly, and those who do rarely return unchanged.
+
+## Time, Life, and Death
+
+## Fey and Mortals
+
+%%^Campaign:none%%
+## Details for DMs
+
+### Open Questions
+
+### Religion and Metaphysics
+
+### Fey in Play
+
+%%^End%%
+
+
+
+
+
 
 ### Life and Death
 
 Little is known about fey traditions around life and death. Fey can die on the mortal world, but it is rare and even in [[Tyrwingha]] there are no formal rites or rituals around the remains of deceased fey.  However, cremation is a common response, and [[Tyrwingha|Tyrwinghan]] folklore holds that the remains of powerful fey may carry curses, change form, or disappear.
+
+## To Incorporate
+
+
+The fae, human-like in appearance, but possessing an otherworldly elegance and an ethereal quality, are among the most common inhabitants of the Feywild. Though many of them could pass as human or elven to a casual glance, their strange grace and unusual eyes mark them as natives of the Feywild. 
+
+These are the folk that dominate stories of fey courts, often described in mortal works as lords and ladies, though whether this reflects mortal confusion or is a true representation of their status in the Feywild is unclear. It is the Fae that feature most heavily in many famous works about the Feywild, such as [[A Court of Whispers]], the [[Light of the Everglade]], and [[A Fool's Fortune]], and in many parts of Taelgar it is the Fae who common folk imagine, if they ever think on the Feywild.
+
+%%^Campaign:none%%
+
+There are a handful of unresolved points about fey categorization, especially the number of Fey species, discussed in: [[Metaphysics of Creatures]] and in [[Creature Rules in Taelgar]]. In particular, the current semi-canonical assumption is that fae are one of the two major "feywild species", and that things like changelings, beastfolk, and maybe hags are functionally "variant Fae" metaphysically, even though they use different statblocks. This has never been established in game, so could change. 
+
+Nomenclature: The term Fae is confusing as it is functionally a synonym for Fey. This could be fine to reflect in-world confusion, but it is possible that as many as two new terms could be invented:
+- A name for the metaphysical species of which fae, beastfolk, and changelings, at least, are part of. This is the species that is basically the "humans of the Feywild" but because of Feywild handwaving they are much more morphologically diverse than humans. 
+- A name for the classic "Fae" described in this note, the subset of the "humans of the Feywild" that are human-like / elf-like in appearance (as opposed to the beastfolk, and changelings, and possibly hags). 
+
 
 %%^Metadata:names:v1%%
 - {name: Fey, language: unknown}
