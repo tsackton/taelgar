@@ -37,7 +37,7 @@
 [u0037 | 00:04:00.890-00:04:05.230 | DM] And you've gathered here to discuss what to do about this.
 [u0038 | 00:04:05.850-00:04:17.919 | DM] You know only from the portmaster and from rumors in town that the base of these small galleys from which the raiders come seems to be about forty to fifty miles offshore in the Endless Ocean.
 [u0039 | 00:04:18.240-00:04:19.090 | DM] Ah,
-[u0040 | 00:04:19.480-00:04:37.420 | DM] some Kenku scouts have soared high overhead. Um, and claim that there is a hidden seamount. {{Here ships racked}} um, and a small anchorage of of these small rowed galleys here.
+[u0040 | 00:04:19.480-00:04:37.420 | DM] some Kenku scouts have soared high overhead. Um, and claim that there is a hidden seamount. here, shipwrecks um, and a small anchorage of of these small rowed galleys here.
 [u0041 | 00:04:38.190-00:04:41.520 | DM] So this is the most likely location of the base.
 [u0042 | 00:04:41.580-00:04:47.090 | DM] So, as you all sit in this inn.
 [u0043 | 00:04:47.180-00:04:49.539 | DM] Why, don't you all
@@ -67,7 +67,7 @@
 [u0067 | 00:07:25.320-00:07:31.970 | Artem Novolozek] almost commanding eyes like he. He takes a glance at you, and it seems like he's sizing you up and kinda
 [u0068 | 00:07:32.050-00:07:33.380 | Artem Novolozek] has a lot
 [u0069 | 00:07:33.460-00:07:34.510 | Artem Novolozek] of
-[u0070 | 00:07:36.250-00:07:40.769 | Artem Novolozek] {{did you?}} Just a very um impactful sort of presence
+[u0070 | 00:07:36.250-00:07:40.769 | Artem Novolozek] did you? Just a very um impactful sort of presence
 [u0071 | 00:07:40.880-00:07:42.980 | Artem Novolozek] he's wearing like thick,
 [u0072 | 00:07:43.120-00:07:44.710 | Artem Novolozek] richly
 [u0073 | 00:07:44.880-00:07:52.070 | Artem Novolozek] like well made like rich blue robes. Um, with I, Is it? It's relatively warm here? Right?
@@ -88,7 +88,7 @@
 [u0088 | 00:09:14.730-00:09:26.930 | Wellby] wearing uh what looks like just sailors clothes that halflings would wear in this part of the world like um knee pants gathered close around his calves, and uh
 [u0089 | 00:09:26.990-00:09:38.400 | Wellby] a loose shirt tucked into a belt. On the back of his chair is hanging a bundle with a quiver of arrows and an unstrung short bow, and a short sword all together.
 [u0090 | 00:09:38.490-00:09:39.590 | Wellby] Um!
-[u0091 | 00:09:40.150-00:09:58.860 | Wellby] He's wearing around his neck uh uh sort of a scarf or cravat like thing that also serves to muffle any jangling of the two necklaces. He wears one with a locket and one with a white bone whistle uh {{tucked into a sharpie glimpses of them}}.
+[u0091 | 00:09:40.150-00:09:58.860 | Wellby] He's wearing around his neck uh uh sort of a scarf or cravat like thing that also serves to muffle any jangling of the two necklaces. He wears one with a locket and one with a white bone whistle uh tucked into his shirt, you get glimpses of them.
 [u0092 | 00:09:59.880-00:10:00.990 | Wellby] Um!
 [u0093 | 00:10:01.650-00:10:03.020 | Wellby] He sits
 [u0094 | 00:10:03.090-00:10:22.130 | Wellby] simultaneously, with a sense of real good humor and laughter, joking and making conversation, and at the same time the sort of look that a perched hawk has, or a cat watching a hole that it expects a mouse to come out of.
@@ -193,7 +193,7 @@
 [u0193 | 00:18:03.100-00:18:05.780 | Rufus] Uh, normally, I work solo.
 [u0194 | 00:18:08.340-00:18:10.279 | Rufus] Get into the mindset
 [u0195 | 00:18:11.150-00:18:12.270 | Unknown] of these
-[u0196 | 00:18:13.090-00:18:16.530 | Rufus] nasties and follow them and {{take them. There}}.
+[u0196 | 00:18:13.090-00:18:16.530 | Rufus] nasties and follow them and take them down.
 [u0197 | 00:18:19.170-00:18:21.339 | Alimash] Are you getting paid to do this?
 [u0198 | 00:18:22.630-00:18:25.559 | Rufus] I was just going to ask about that now that you mentioned,
 [u0199 | 00:18:28.330-00:18:31.530 | Rufus] I think the the harbor master
@@ -282,7 +282,7 @@
 [u0282 | 00:25:43.090-00:25:50.420 | DM] current is is very warm here. It's almost the water itself is almost tropical.
 [u0283 | 00:25:50.580-00:25:51.430 | Unknown] Um,
 [u0284 | 00:25:52.440-00:26:02.039 | DM] you'll occasionally see, you know, shoals of giant multicolored fish swimming. Um, but the water is very, very deep. You cannot see the bottom
-[u0285 | 00:26:05.350-00:26:09.149 | Rufus] um! {{And after this}}, at some point dives for his dinner,
+[u0285 | 00:26:05.350-00:26:09.149 | Rufus] um! and Rufus, at some point dives for his dinner,
 [u0286 | 00:26:10.290-00:26:16.680 | Rufus] he comes back with a large red, dripping crab, and tears it apart with relish
 [u0287 | 00:26:16.830-00:26:19.470 | Artem Novolozek] uh Artem when it when it's dinner time
 [u0288 | 00:26:19.570-00:26:27.430 | Artem Novolozek] he does. He takes out a spell book like he has this sheaf of like It's a fine. It's very nicely made like
@@ -340,10 +340,10 @@
 [u0340 | 00:30:17.080-00:30:17.950 | Rufus] Um.
 [u0341 | 00:30:20.370-00:30:21.220 | Rufus] Forget
 [u0342 | 00:30:22.140-00:30:22.990 | Unknown] what
-[u0343 | 00:30:23.130-00:30:31.599 | Rufus] I have some kind of {{swimming paste}}. But {{what what you're like Not so sure}}. Artem just sort of takes out his spell book
+[u0343 | 00:30:23.130-00:30:31.599 | Rufus] I have some kind of swimming pace. But what what you're like Not so sure. Artem just sort of takes out his spell book
 [u0344 | 00:30:32.170-00:30:42.429 | Artem Novolozek] like he doesn't have time for this nonsense, not being able to breathe water, and he he sort of again. He takes a few minutes to sort of mutter over his spell book. Everybody can breathe water for the next twenty four.
 [u0345 | 00:30:43.630-00:30:45.580 | Wellby] Oh, awesome
-[u0346 | 00:30:46.660-00:30:57.979 | Rufus] um! But meanwhile i'll i'll be I'll just fine if you dive off, always muttering, You don't have to wait for the water breathing, so I mean i'll i'll fly at a safe altitude above
+[u0346 | 00:30:46.660-00:30:57.979 | Rufus] um! But meanwhile i'll i'll be that's fine if you dive off while he's muttering, You don't have to wait for the water breathing, so I mean i'll i'll fly at a safe altitude above
 [u0347 | 00:30:58.080-00:31:01.940 | Rufus] the tops of the masts of the boats
 [u0348 | 00:31:03.580-00:31:05.259 | Rufus] like fifty to one hundred feet up or something,
 [u0349 | 00:31:05.790-00:31:06.910 | Rufus] and just
@@ -390,7 +390,7 @@
 [u0390 | 00:33:43.060-00:33:44.370 | Alimash] let's go.
 [u0391 | 00:33:44.580-00:33:47.040 | Alimash] Alimash stands up, puts his helmet on.
 [u0392 | 00:33:47.770-00:33:51.619 | Rufus] So, just to be clear, our plan again is to um
-[u0393 | 00:33:54.170-00:34:00.519 | Rufus] um skin. Discard the guts, and we're going to sell the {{health server}}. What's the
+[u0393 | 00:33:54.170-00:34:00.519 | Rufus] um skin. Discard the guts, and we're going to sell the pelts, or. What's the
 [u0394 | 00:34:00.560-00:34:01.610 | Rufus] assumption here?
 [u0395 | 00:34:03.810-00:34:14.790 | Wellby] I think we go check out what the glow is, and hopefully everyone's down there. They're having a lovely time. They invite us in for dinner. It's all been a big misunderstanding. We bring them home problem solved.
 [u0396 | 00:34:15.679-00:34:25.440 | Rufus] Oh, right, the the hostages or prisoners, or whatever That's not the usual thing in my line of work they're digested by the time I I arrive.
@@ -524,7 +524,7 @@
 [u0524 | 00:44:43.320-00:44:45.620 | DM] and the green light is
 [u0525 | 00:44:45.870-00:45:03.219 | DM] there's you can actually, now that Alimash, you would see this once you start to get closer to it. So there's light sort of faintly glowing all around the walls, but the most intense light is coming up around the bottom. Leaking up from the bottom of this boulder. The boulder itself is entirely black.
 [u0526 | 00:45:06.440-00:45:08.740 | Alimash] I poke it with the back of my spear.
-[u0527 | 00:45:10.460-00:45:17.099 | Alimash] I mean, how hard are you poking at, just to like, See if it echoes getting a rough idea of its
+[u0527 | 00:45:10.460-00:45:17.099 | Alimash] I mean, how hard are you poking it, just to like, See if it echoes getting a rough idea of its
 [u0528 | 00:45:18.390-00:45:19.390 | Rufus] is it?
 [u0529 | 00:45:20.520-00:45:22.169 | Alimash] Yeah, also kind of
 [u0530 | 00:45:22.330-00:45:26.430 | Alimash] pointing it out to everybody else that hey? There's a big boulder here.
@@ -562,7 +562,7 @@
 [u0562 | 00:47:58.790-00:48:01.240 | DM] Ah! Go ahead!
 [u0563 | 00:48:01.990-00:48:03.629 | DM] Go ahead and roll
 [u0564 | 00:48:03.780-00:48:09.459 | DM] just a strength, strength, straight strength, check. Why, Don't, just both of you roll,
-[u0565 | 00:48:10.890-00:48:14.289 | Rufus] And are we {{to be climbing it}} inward or to the side.
+[u0565 | 00:48:10.890-00:48:14.289 | Rufus] And are we to be climbing it inward or to the side.
 [u0566 | 00:48:14.820-00:48:16.629 | DM] Well, the track goes.
 [u0567 | 00:48:16.860-00:48:23.039 | DM] Yeah, The track is like side to side, right? So you can shift it. You're sliding away,
 [u0568 | 00:48:25.530-00:48:33.689 | DM] So you, you you both lean in. You. You get a nice solid push, and as you like, touch it and start to push it. This like um.
@@ -571,13 +571,13 @@
 [u0571 | 00:48:55.830-00:49:04.100 | DM] the fungus settles on your skin. It begins to grow over you. Um! And you are now blind
 [u0572 | 00:49:06.380-00:49:10.239 | DM] by the caused by the poison of the fungus
 [u0573 | 00:49:13.220-00:49:14.720 | Alimash] shit.
-[u0574 | 00:49:20.090-00:49:27.119 | DM] But the boulder rolls out of the way, and you can see uh, {{I can cavern it. You can't say}}
+[u0574 | 00:49:20.090-00:49:27.119 | DM] But the boulder rolls out of the way, and you can see uh, I can cavern it. You can't say
 [u0575 | 00:49:27.270-00:49:33.360 | DM] you can see a cavern below that appears to be like a natural sea cave.
 [u0576 | 00:49:34.600-00:49:37.009 | DM] Ah, What was it
 [u0577 | 00:49:37.110-00:49:39.390 | DM] because of it? As you can see it's
 [u0578 | 00:49:39.500-00:49:45.899 | DM] walls lined with plant life, and and this green glow is coming from an algae that is,
 [u0579 | 00:49:45.950-00:49:52.189 | Alimash] seems to be much more intense down in this cave. Is it too late for me to roll my um?
-[u0580 | 00:49:52.780-00:49:57.470 | DM] {{Does it save my right}}? No, no, I will say it's not too late.
+[u0580 | 00:49:52.780-00:49:57.470 | DM] Does it save my right? No, no, I will say it's not too late.
 [u0581 | 00:49:58.240-00:50:02.459 | Alimash] Okay. So I just roll a D. Twenty. Just roll again. Yep.
 [u0582 | 00:50:02.670-00:50:03.850 | Alimash] Okay.
 [u0583 | 00:50:06.700-00:50:19.520 | DM] Oh, okay, uh, You're not actually poisoned. Oof! Good for you, but mark off a use of Luck. Oh, and actually, by the way, I meant to say this at the beginning of the game two two rules tweaks
@@ -664,7 +664,7 @@
 [u0664 | 00:56:05.510-00:56:07.619 | Artem Novolozek] They do look charmed.
 [u0665 | 00:56:10.300-00:56:12.979 | Wellby] Can anyone do anything about that,
 [u0666 | 00:56:14.580-00:56:19.849 | Shoal] I can. I pull my glaive out?
-[u0667 | 00:56:19.880-00:56:24.630 | Alimash] {{I don't actually Dods supporting that plan of action.}}
+[u0667 | 00:56:19.880-00:56:24.630 | Alimash] Alimash nods, supporting that plan of action.
 [u0668 | 00:56:27.270-00:56:29.719 | Artem Novolozek] It would be good to know what is
 [u0669 | 00:56:31.920-00:56:33.420 | Artem Novolozek] charming them
 [u0670 | 00:56:34.980-00:56:37.649 | Shoal] that's got to be on the next level of the map.
@@ -696,7 +696,7 @@
 [u0696 | 00:58:41.100-00:58:46.500 | Wellby] Um! Is that water flow Going to pull the boulder back in place?
 [u0697 | 00:58:48.880-00:58:53.819 | DM] It might. It might also pull you into the blades.
 [u0698 | 00:58:56.340-00:58:59.920 | Artem Novolozek] Uh, so we're like twenty feet up.
-[u0699 | 00:59:00.980-00:59:07.829 | Artem Novolozek] You're now thirty. {{The largest ceiling is thirty feet. Okay, and we can't. I don't quit.}} We came in
+[u0699 | 00:59:00.980-00:59:07.829 | Artem Novolozek] You're now thirty. The largest ceiling is thirty feet. Okay, and we can't. I don't quit. We came in
 [u0700 | 00:59:09.190-00:59:11.749 | Artem Novolozek] past the boulder we were like.
 [u0701 | 00:59:12.270-00:59:15.230 | Artem Novolozek] This is just the Where is the boulder?
 [u0702 | 00:59:15.450-00:59:19.729 | Artem Novolozek] That's what I don't totally understand the your the boulder was.
@@ -723,7 +723,7 @@
 [u0723 | 01:00:52.680-01:00:53.620 | DM] like
 [u0724 | 01:00:55.100-01:00:58.070 | DM] moving towards to investigate the hole.
 [u0725 | 01:00:58.480-01:01:02.209 | Artem Novolozek] Okay, uh, when hold on, let me just look
-[u0726 | 01:01:02.360-01:01:04.560 | Artem Novolozek] sorry. I know you said {{the afternoon}}.
+[u0726 | 01:01:02.360-01:01:04.560 | Artem Novolozek] sorry. I know you said the afternoon.
 [u0727 | 01:01:04.810-01:01:06.749 | Shoal] I'm going to get big
 [u0728 | 01:01:08.120-01:01:11.460 | Shoal] um. Can you make me?
 [u0729 | 01:01:15.570-01:01:17.220 | DM] How long does that last for
@@ -747,7 +747,7 @@
 [u0747 | 01:02:53.730-01:02:56.700 | DM] Wellby is twenty, two
 [u0748 | 01:02:57.800-01:03:00.429 | DM] um, and
 [u0749 | 01:03:01.920-01:03:04.379 | DM] Eric is
-[u0750 | 01:03:04.800-01:03:07.740 | DM] be sterling his router. Eric, are you there?
+[u0750 | 01:03:04.800-01:03:07.740 | DM] restarting his router. Eric, are you there?
 [u0751 | 01:03:11.260-01:03:13.989 | Unknown] Somebody roll a d20 and add four.
 [u0752 | 01:03:18.490-01:03:19.900 | Artem Novolozek] I don't use my roll.
 [u0753 | 01:03:19.960-01:03:25.960 | Artem Novolozek] I heard a bunch of other rolls. Take one of those.
@@ -766,7 +766,7 @@
 [u0766 | 01:04:23.150-01:04:24.479 | DM] Ah,
 [u0767 | 01:04:24.620-01:04:32.679 | DM] with So I I have too many windows. Open. Um. Well, you guys haven't moved to the hole yet. So
 [u0768 | 01:04:32.740-01:04:38.340 | DM] you're all still on the from the ceiling of the
-[u0769 | 01:04:38.500-01:04:42.870 | DM] {{father. But other room}} Um, I guess I guess. Uh
+[u0769 | 01:04:38.500-01:04:42.870 | DM] far—the other room Um, I guess I guess. Uh
 [u0770 | 01:04:42.940-01:04:49.069 | DM] initiative was triggered by Shoal dropping through and growing big. So we'll say Shoal’s on the other side,
 [u0771 | 01:04:49.290-01:04:51.549 | DM] right at the top of the
 [u0772 | 01:04:52.140-01:04:53.189 | DM] um.
@@ -777,7 +777,7 @@
 [u0777 | 01:05:08.520-01:05:10.140 | DM] is in range
 [u0778 | 01:05:11.420-01:05:14.679 | Shoal] in range that is next to Shoal,
 [u0779 | 01:05:14.730-01:05:22.029 | DM] but but the four of you are still outside are still up on top right? So
-[u0780 | 01:05:22.590-01:05:33.290 | DM] so your positions aren't adjacent to everybody. But Shoal is not adjacent to anybody, because you're in another room. Do I have a line? {{So you go to the short next social.}}
+[u0780 | 01:05:22.590-01:05:33.290 | DM] so your positions aren't adjacent to everybody. But Shoal is not adjacent to anybody, because you're in another room. Do I have a line? So you go to the shark next to Shoal.
 [u0781 | 01:05:33.930-01:05:38.800 | DM] Ah, you got it not from here. You got to go into the room.
 [u0782 | 01:05:39.320-01:05:43.810 | Wellby] Uh, all right. Um, I will uh
 [u0783 | 01:05:43.980-01:05:47.159 | Wellby] go into the room and
@@ -907,7 +907,7 @@
 [u0907 | 01:14:21.650-01:14:22.599 | Rufus] And
 [u0908 | 01:14:23.020-01:14:28.960 | Rufus] okay, so the distance between me and the spinning blades of this stone
 [u0909 | 01:14:29.410-01:14:30.580 | Rufus] turbine
-[u0910 | 01:14:30.710-01:14:34.659 | DM] right now. It's about forty feet or forty-five {{to equal}}
+[u0910 | 01:14:30.710-01:14:34.659 | DM] right now. It's about forty feet or forty-five to equal
 [u0911 | 01:14:34.780-01:14:37.750 | Rufus] um, and if I use my
 [u0912 | 01:14:38.460-01:14:40.269 | Rufus] luring arrow,
 [u0913 | 01:14:40.750-01:14:49.159 | Rufus] it does say that the arrow lands at the point chosen no attack roll necessary. So does that override any sort of advantage or disadvantage? Yep.
@@ -943,7 +943,7 @@
 [u0943 | 01:16:36.890-01:16:42.959 | DM] that means that. What did I? I just wrote this this morning.
 [u0944 | 01:16:56.750-01:17:07.849 | DM] It's a wisdom saving throw. Yep. So all the sharks need to roll a Wisdom saving throw. But it doesn't affect them until their turn because it's using their movement.
 [u0945 | 01:17:09.420-01:17:13.360 | DM] Okay, that's one success, one failure and
-[u0946 | 01:17:14.690-01:17:20.349 | DM] one—two successes, one failure {{finally got the}}
+[u0946 | 01:17:14.690-01:17:20.349 | DM] one—two successes, one failure finally got the
 [u0947 | 01:17:21.190-01:17:23.269 | DM] and
 [u0948 | 01:17:23.740-01:17:31.120 | Artem Novolozek] but it is now their turn. Oh, no, it's. I don't forget. I still get to go. Oh, sorry, Tim, My bonus action
 [u0949 | 01:17:31.460-01:17:33.159 | Unknown] i'm going to use.
@@ -955,12 +955,12 @@
 [u0955 | 01:18:10.200-01:18:13.009 | Artem Novolozek] they're not stacked very well for lightning bolt.
 [u0956 | 01:18:15.020-01:18:22.539 | DM] Ah, you could probably get two sharks, but you'd have to swim
 [u0957 | 01:18:22.620-01:18:25.560 | DM] down and then align yourself.
-[u0958 | 01:18:25.920-01:18:32.590 | Rufus] Yeah, no, I don't. I don't want to do that. I'm going to cast {{that conductivity of the medium matter in these queues}}.
+[u0958 | 01:18:25.920-01:18:32.590 | Rufus] Yeah, no, I don't. I don't want to do that. I'm going to cast Does the conductivity of the medium matter in these cases?.
 [u0959 | 01:18:34.000-01:18:39.240 | Artem Novolozek] I'm: going to right basically that. Can you see the circle?
 [u0960 | 01:18:40.180-01:18:41.280 | Artem Novolozek] Yeah, there.
 [u0961 | 01:18:41.890-01:18:45.239 | DM] So you're going to have to swim into the room, though, to do that
 [u0962 | 01:18:46.250-01:18:49.089 | Artem Novolozek] I can just stick my head down. And now why,
-[u0963 | 01:18:49.180-01:19:02.179 | DM] okay, I guess where you're putting it here. You could just stick your head down. I mean fine if I have to take {{three feet at five feet}} of movement to I'm basically sticking my head through the hole in casting Shatter. Okay, Got it? Um.
+[u0963 | 01:18:49.180-01:19:02.179 | DM] okay, I guess where you're putting it here. You could just stick your head down. I mean fine if I have to take three feet at five feet of movement to I'm basically sticking my head through the hole in casting Shatter. Okay, Got it? Um.
 [u0964 | 01:19:03.650-01:19:16.289 | DM] So that's gonna hit two sharks. And um Here, let me just mark the one that failed its save and two people. Okay, uh. So this one is that one is lured
 [u0965 | 01:19:16.350-01:19:17.500 | DM] Uh,
 [u0966 | 01:19:17.820-01:19:21.239 | Artem Novolozek] It's a Con save. Dc: Seventeen Con save. Yeah.
@@ -991,7 +991,7 @@
 [u0991 | 01:20:48.600-01:20:51.360 | Shoal] so I get to
 [u0992 | 01:20:51.560-01:20:59.240 | Shoal] how do these dice roll. I get to re-roll ones and twos on my attacks for
 [u0993 | 01:20:59.590-01:21:02.660 | Shoal] for two-handed weapon, fighting or whatever.
-[u0994 | 01:21:02.870-01:21:12.250 | Artem Novolozek] D&D Beyond doesn't automatically, it does. Okay, yeah, yeah, {{twenty ten role}} re-roll, two or less,
+[u0994 | 01:21:02.870-01:21:12.250 | Artem Novolozek] D&D Beyond doesn't automatically, it does. Okay, yeah, yeah, twenty ten role re-roll, two or less,
 [u0995 | 01:21:12.540-01:21:19.420 | Shoal] plus four, and then and then I have a one d eight, because i'm big it just gets added onto that
 [u0996 | 01:21:19.530-01:21:21.730 | Shoal] right? So
 [u0997 | 01:21:22.290-01:21:25.150 | Shoal] that okay total for this turn.
@@ -1130,7 +1130,7 @@
 [u1130 | 01:31:37.120-01:31:43.050 | DM] they've been biting people. Well, one of them died before I could do anything. One of them was drawn away by the lure
 [u1131 | 01:31:43.640-01:31:46.229 | DM] right. The other one has attacked. Yes,
 [u1132 | 01:31:48.280-01:31:53.830 | Rufus] so there's this guy to my left with. There are two dudes and a shark,
-[u1133 | 01:31:54.570-01:32:00.859 | Artem Novolozek] {{three guy shark}}, two two dudes, a lady in a shark.
+[u1133 | 01:31:54.570-01:32:00.859 | Artem Novolozek] three guy shark, two two dudes, a lady and a shark.
 [u1134 | 01:32:01.100-01:32:04.980 | DM] They all look sort of like sailors, basically but they're
 [u1135 | 01:32:05.720-01:32:06.700 | DM] um
 [u1136 | 01:32:06.880-01:32:16.589 | DM] glassy-eyed and sort of moving, moving actually in a coordinated fashion, like they're not talking to each other, but they're clearly coordinating their,
@@ -1142,7 +1142,7 @@
 [u1142 | 01:32:35.450-01:32:38.269 | Rufus] hit right. So i'll just attack once and then
 [u1143 | 01:32:42.140-01:32:44.900 | DM] that is twenty-five.
 [u1144 | 01:32:45.740-01:32:46.830 | Rufus] Um.
-[u1145 | 01:32:47.170-01:32:48.490 | Rufus] {{It's not rule daily.}}
+[u1145 | 01:32:47.170-01:32:48.490 | Rufus] It's not rule daily.
 [u1146 | 01:32:49.270-01:32:51.920 | DM] Okay, that kills that shark.
 [u1147 | 01:32:52.050-01:32:55.159 | Rufus] Oh, didn’t even have to use Favored Foe. Okay?
 [u1148 | 01:32:55.850-01:32:58.160 | Rufus] And then I have another rapier attack.
@@ -1153,13 +1153,13 @@
 [u1153 | 01:33:27.700-01:33:28.710 | Artem Novolozek] all right,
 [u1154 | 01:33:28.860-01:33:30.220 | Artem Novolozek] I'm up.
 [u1155 | 01:33:30.600-01:33:31.440 | DM] Yep.
-[u1156 | 01:33:31.550-01:33:35.859 | Artem Novolozek] These two guys {{potential}} How badly hurt are these two folks
+[u1156 | 01:33:31.550-01:33:35.859 | Artem Novolozek] These two guys potential How badly hurt are these two folks
 [u1157 | 01:33:37.230-01:33:38.800 | DM] uh
-[u1158 | 01:33:38.980-01:33:48.329 | DM] this? This guy here is by far the most badly hurt {{the woman, and this this one don't it's so. Not that badly we're dead.}}
+[u1158 | 01:33:38.980-01:33:48.329 | DM] this? This guy here is by far the most badly hurt the woman, and this this one don't it's so. Not that badly wounded.
 [u1159 | 01:33:49.130-01:33:51.110 | DM] This one is bloodied, though,
 [u1160 | 01:33:51.280-01:33:58.319 | Artem Novolozek] and how much damage do we do like twenty? Something we haven't done a ton of damage, right? We've mostly been hurting the sharks.
 [u1161 | 01:33:58.820-01:34:02.020 | Artem Novolozek] Oh, no, he They both got hit by the shatter. Yep.
-[u1162 | 01:34:02.840-01:34:07.890 | Wellby] Do you like Dispel Magic or something {{or my potential}}? I was just thinking about that.
+[u1162 | 01:34:02.840-01:34:07.890 | Wellby] Do you like Dispel Magic or something or my potential? I was just thinking about that.
 [u1163 | 01:34:08.630-01:34:13.199 | Artem Novolozek] But I don't. Hmm. I was thinking about that. I just am worried. That.
 [u1164 | 01:34:14.090-01:34:15.030 | Artem Novolozek] Hmm.
 [u1165 | 01:34:15.300-01:34:17.360 | Artem Novolozek] It It feels um
@@ -1187,10 +1187,10 @@
 [u1187 | 01:36:07.170-01:36:11.649 | Shoal] and start glaiving this other dude.
 [u1188 | 01:36:13.300-01:36:21.469 | Shoal] Ah, twenty-seven for the first that hits wait. You're You're going after this guy, the one who is Mind Slivered. Yeah.
 [u1189 | 01:36:21.810-01:36:25.960 | Shoal] Oh, is that a problem? What's the Mind Sliver, do? No, I just. We were setting up
-[u1190 | 01:36:25.970-01:36:43.750 | Artem Novolozek] a disarm on him because he'll have a minus on his next save, {{and we may}} don't go Kill him, kill somebody else all right. {{I'll. I'll go backwards, he}} because I just hit them before. Yeah, go the ones who are hurting Wellby. We want to disarm the Mind Sliver, guy, and then two attacks on both of those hit.
+[u1190 | 01:36:25.970-01:36:43.750 | Artem Novolozek] a disarm on him because he'll have a minus on his next save, and we may don't go Kill him, kill somebody else all right. I'll. I'll go backwards here because I just hit them before. Yeah, go the ones who are hurting Wellby. We want to disarm the Mind Sliver, guy, and then two attacks on both of those hit.
 [u1191 | 01:36:43.960-01:36:45.480 | DM] Yeah,
 [u1192 | 01:36:48.100-01:36:55.260 | DM] um, i'll put it. Yes, sixteen. This guy is looking quite badly wounded now.
-[u1193 | 01:36:55.550-01:37:06.120 | Shoal] {{Not that eighteen, one d eight, so isn't there}}
+[u1193 | 01:36:55.550-01:37:06.120 | Shoal] Not that eighteen, one d eight, so isn't there
 [u1194 | 01:37:06.140-01:37:11.470 | Shoal] uh sixteen, twenty, that's thirty. Three points of damage thirty, three points of damage Doesn't kill them.
 [u1195 | 01:37:11.940-01:37:12.840 | DM] No
 [u1196 | 01:37:13.070-01:37:28.649 | Shoal] the good news is I forgot that I get a bonus action attack too. So i'm gonna do that. Um, And i'm gonna do this at a minus five penalty for great weapon mastery. So take five off of the roll here.
@@ -1224,7 +1224,7 @@
 [u1224 | 01:40:02.610-01:40:04.640 | Alimash] It's a hard way to go.
 [u1225 | 01:40:04.780-01:40:10.320 | DM] I don't feel good about that
 [u1226 | 01:40:11.260-01:40:12.490 | DM] uh
-[u1227 | 01:40:12.630-01:40:17.229 | DM] Wellby it if you want to use the {{boat}}. Oh, no, you use Steady Aim so you're stuck.
+[u1227 | 01:40:12.630-01:40:17.229 | DM] Wellby it if you want to use the boat. Oh, no, you use Steady Aim so you're stuck.
 [u1228 | 01:40:17.620-01:40:18.710 | DM] Um!
 [u1229 | 01:40:20.160-01:40:33.649 | Alimash] So this guy's this guy's down at the bottom. I'll put him over here out of the way, so Alimash, can I? So the disarm is part of an attack. So I roll an attack, and then I roll my superior. Okay,
 [u1230 | 01:40:33.680-01:40:34.530 | DM] Yeah.
@@ -1237,7 +1237,7 @@
 [u1237 | 01:40:50.670-01:40:52.959 | Alimash] So then come on. I can't.
 [u1238 | 01:40:53.030-01:40:56.910 | Alimash] Stupid virtual dice was right in front of my button, and he had to click.
 [u1239 | 01:41:00.410-01:41:08.159 | DM] Okay, So that's fourteen damage, and he has to roll a strength saving throw against your disarm.
-[u1240 | 01:41:08.610-01:41:28.249 | DM] Yeah, do I roll my superiority die for the disarm you roll that and add it to damage. Yeah, and it's a minus four to its save {{my!}} So the spear comes clattering out of his hand as you you get him with your spear, and you knock his spear. It just starts Well, he's up in the water, so it drops to the
+[u1240 | 01:41:08.610-01:41:28.249 | DM] Yeah, do I roll my superiority die for the disarm you roll that and add it to damage. Yeah, and it's a minus four to its save my! So the spear comes clattering out of his hand as you you get him with your spear, and you knock his spear. It just starts Well, he's up in the water, so it drops to the
 [u1241 | 01:41:28.470-01:41:31.910 | Artem Novolozek] drops to the ground. She gets sucked into the thing wouldn't it.
 [u1242 | 01:41:32.130-01:41:36.640 | DM] Oh, yeah, yes, it gets sucked into the blades.
 [u1243 | 01:41:38.060-01:41:41.540 | DM] So he is now disarmed. He has got his crossbow.
@@ -1271,7 +1271,7 @@
 [u1271 | 01:43:34.100-01:43:39.679 | Artem Novolozek] I'm sorry. Where is, Wellby relative to me.
 [u1272 | 01:43:39.970-01:43:47.769 | Rufus] Well, that's good, because I can cast Cure Wounds I reach out and grab Wellby's leg, or whatever, and cast cure wounds
 [u1273 | 01:43:54.190-01:43:56.940 | Rufus] for ten. Well,
-[u1274 | 01:43:59.060-01:44:01.130 | Rufus] {{so I the heel}}.
+[u1274 | 01:43:59.060-01:44:01.130 | Rufus] so I heal.
 [u1275 | 01:44:04.390-01:44:05.639 | DM] Okay,
 [u1276 | 01:44:06.120-01:44:08.320 | DM] Artem, you’re up, then Shoal.
 [u1277 | 01:44:09.070-01:44:10.730 | Artem Novolozek] Um
@@ -1343,7 +1343,7 @@
 [u1343 | 01:50:07.930-01:50:10.109 | DM] so it's only.
 [u1344 | 01:50:10.420-01:50:11.660 | DM] Ah,
 [u1345 | 01:50:12.300-01:50:14.300 | DM] what was that
-[u1346 | 01:50:15.640-01:50:30.679 | DM] {{point}} of damage? And Wellby now begin drifting
+[u1346 | 01:50:15.640-01:50:30.679 | DM] point of damage? And Wellby now begin drifting
 [u1347 | 01:50:31.500-01:50:33.530 | DM] down to the ground
 [u1348 | 01:50:35.470-01:50:36.889 | Unknown] Um!
 [u1349 | 01:50:37.210-01:50:39.990 | Unknown] And let me just see something here.
@@ -1357,7 +1357,7 @@
 [u1357 | 01:51:15.220-01:51:24.929 | Wellby] because the first was a hit with an Uncanny Dodge. The second was a miss, and the third was the twentieth, and you rolled four attacks for You're right sorry I got confused that she doesn't have another attack.
 [u1358 | 01:51:25.340-01:51:35.380 | DM] Um, Wellby is still drifting down to the ground now, and as he starts drifting down so can I. Can I send the unseen servant to grab him.
 [u1359 | 01:51:35.540-01:51:36.559 | Rufus] Nice?
-[u1360 | 01:51:36.680-01:51:45.519 | Artem Novolozek] Ah, sure! What's the unseen servant's strength? Two, but it's he's floating in the water. {{He doesn't even mean our guy}}. It will be very small.
+[u1360 | 01:51:36.680-01:51:45.519 | Artem Novolozek] Ah, sure! What's the unseen servant's strength? Two, but it's he's floating in the water. He doesn't even mean our guy. It will be very small.
 [u1361 | 01:51:46.060-01:51:59.609 | DM] He He drifts within the range of the whirling blades and begins to get sucked in this direction. Can I send the I mean I don't think it's totally reasonable that Wellby moves
 [u1362 | 01:52:00.340-01:52:08.000 | Artem Novolozek] on somebody else's turn right like My! I want to send the unseen servant to get him while he's still right there,
 [u1363 | 01:52:09.190-01:52:28.180 | DM] or that I move farther by drifting than I can by intentionally swim. Yeah, none of that means no. You definitely don't move further by drifting than intentionally swimming it won't be till the start of your next turn that you're pulled into the spinning blades of death. So very good on my turn. He's he should still be right here right now. It's Rufus's turn. Yes,
@@ -1407,7 +1407,7 @@
 [u1407 | 01:56:07.400-01:56:10.300 | Shoal] Yeah. Well, I'm: Yeah, i'm out of stuff.
 [u1408 | 01:56:10.480-01:56:12.190 | Artem Novolozek] Cosmic revenge.
 [u1409 | 01:56:13.810-01:56:15.050 | Wellby] I
-[u1410 | 01:56:15.260-01:56:25.510 | Wellby] I don't think Wellby can stop himself from stabbing this person. Yeah, {{regardless asking you to the right. Tactics are}}
+[u1410 | 01:56:15.260-01:56:25.510 | Wellby] I don't think Wellby can stop himself from stabbing this person. Yeah, regardless asking you to the right. Tactics are
 [u1411 | 01:56:26.400-01:56:28.620 | DM] fifteen misses.
 [u1412 | 01:56:28.900-01:56:30.170 | Wellby] Oh, no,
 [u1413 | 01:56:30.540-01:56:35.790 | Wellby] uh sorry. Wellby can stop himself from stabbing this person.
@@ -1423,7 +1423,7 @@
 [u1423 | 01:57:30.970-01:57:39.689 | Alimash] Uh, That's okay. I'd probably drop anyways if I got hit. Okay, So then I just start wailing on her.
 [u1424 | 01:57:40.120-01:57:44.939 | DM] So a straight roll for Wellby
 [u1425 | 01:57:48.310-01:57:50.259 | DM] about twenty five hits.
-[u1426 | 01:57:52.610-01:57:57.650 | DM] I understand. What does that do? {{Not?}} Twelve. That's pretty good. And then I go again.
+[u1426 | 01:57:52.610-01:57:57.650 | DM] I understand. What does that do? Not? Twelve. That's pretty good. And then I go again.
 [u1427 | 01:57:58.040-01:58:05.989 | DM] Ah, no! Because you have to use one of your attacks to use the Commander’s Strike. Oh, wait! Who's next on my turn? Does she have another chance to attack?
 [u1428 | 01:58:06.130-01:58:10.789 | Alimash] Okay. So i'm going to use my um
 [u1429 | 01:58:11.470-01:58:14.659 | Alimash] where the fuck, is it? My, You can try and disarm her.
@@ -1495,13 +1495,13 @@
 [u1495 | 02:03:01.900-02:03:04.819 | DM] We don't have to play it out directly. Now.
 [u1496 | 02:03:04.960-02:03:06.150 | Artem Novolozek] Um!
 [u1497 | 02:03:06.630-02:03:08.329 | Artem Novolozek] The plan is to
-[u1498 | 02:03:08.380-02:03:12.729 | Artem Novolozek] I mean all I don't know. I cantrip the shark. {{When is the}}
-[u1499 | 02:03:12.750-02:03:16.269 | Artem Novolozek] {{get killed? A shark}} and then surround this guy.
+[u1498 | 02:03:08.380-02:03:12.729 | Artem Novolozek] I mean all I don't know. I cantrip the shark. When is the
+[u1499 | 02:03:12.750-02:03:16.269 | Artem Novolozek] get killed? A shark and then surround this guy.
 [u1500 | 02:03:16.540-02:03:19.519 | Artem Novolozek] Okay, See what he's doing and go after.
 [u1501 | 02:03:20.130-02:03:25.210 | DM] Ah, so you you enter the room now and sort of head in this direction.
 [u1502 | 02:03:26.150-02:03:29.510 | DM] Shark, shark dies um!
 [u1503 | 02:03:30.850-02:03:34.999 | DM] What do you do it. What is? What is everybody else doing here?
-[u1504 | 02:03:37.300-02:03:49.699 | Alimash] I assume we all should um swim towards him, and just he's unarmed. {{He's He' be dead}}. We just I need. Wellby and Artem to make strength saving throws.
+[u1504 | 02:03:37.300-02:03:49.699 | Alimash] I assume we all should um swim towards him, and just he's unarmed. He's He' be dead. We just I need. Wellby and Artem to make strength saving throws.
 [u1505 | 02:03:51.180-02:03:53.040 | Wellby] Oh,
 [u1506 | 02:03:53.600-02:03:55.680 | Artem Novolozek] I am going to, by the way,
 [u1507 | 02:03:56.270-02:03:58.679 | Artem Novolozek] not going to succeed on a Strength saving throw
@@ -1510,13 +1510,13 @@
 [u1510 | 02:04:08.500-02:04:14.010 | Artem Novolozek] a series of shape waters to freeze the top of the
 [u1511 | 02:04:14.430-02:04:16.260 | Artem Novolozek] of the whirling blades.
 [u1512 | 02:04:19.770-02:04:22.269 | DM] How do you do that? Ice floats?
-[u1513 | 02:04:24.970-02:04:35.030 | Artem Novolozek] I guess ice does float, but if you put the ice directly, I guess it would crack up to the point where it {{wasn't very switch for the blades}}.
+[u1513 | 02:04:24.970-02:04:35.030 | Artem Novolozek] I guess ice does float, but if you put the ice directly, I guess it would crack up to the point where it wasn't very switch for the blades.
 [u1514 | 02:04:35.360-02:04:43.960 | Alimash] Yeah, I mean, I can send my unseen servant to go turn the switch off. Yeah, but let's not do that in case the guy tries to escape down through it.
 [u1515 | 02:04:45.070-02:04:59.090 | Artem Novolozek] Yeah, wow! You told you you might have to grab me, so I don't go flying into the blades. Wow! I mean, the first thing that happens is you go flying into the blades,
 [u1516 | 02:04:59.550-02:05:05.580 | Artem Novolozek] and I cast a bonus action spell
 [u1517 | 02:05:06.630-02:05:10.540 | DM] Ah, yes, not before you take
 [u1518 | 02:05:10.940-02:05:23.049 | Artem Novolozek] uh twenty-eight points of slashing damage. Okay, What? No? Tell me? Well, okay, there's no point in me casting this Misty Step. If I'm already inside the blades.
-[u1519 | 02:05:23.200-02:05:34.669 | Shoal] That's one way to stop the blades is you don't know that body twenty-eight damage per Second, How do you get? I don't have enough move to get from here to the blades
+[u1519 | 02:05:23.200-02:05:34.669 | Shoal] That's one way to stop the blades is using your own body twenty-eight damage per Second, How do you get? I don't have enough move to get from here to the blades
 [u1520 | 02:05:34.750-02:05:41.659 | DM] right. It seems you are within thirty feet of the blade that you don't have a swim speed and you get pulled into them.
 [u1521 | 02:05:42.160-02:05:53.400 | Artem Novolozek] It seems unrealistic that you wouldn't be able to get out. But whatever
 [u1522 | 02:05:54.210-02:05:58.949 | Artem Novolozek] you mean this doesn't, I can't get thirty feet away from the Blades, And this Is that right?
@@ -1551,7 +1551,7 @@
 [u1551 | 02:09:29.010-02:09:30.340 | DM] I mean,
 [u1552 | 02:09:30.400-02:09:35.789 | DM] Yeah, You've got two strong fighters. There's definitely stronger than him. You can restrain them.
 [u1553 | 02:09:36.530-02:09:47.549 | DM] If you don't want to knock unconscious, you can you can grab him and and knock his crossbow, or anything like The idea was to try and talk to him and see if he responded to words. Right?
-[u1554 | 02:09:50.650-02:09:59.629 | Alimash] Yeah, let’s—{{crash, not me, and so}} walk over where you know {{the things hit or shield small damage or reflect off}}.
+[u1554 | 02:09:50.650-02:09:59.629 | Alimash] Yeah, let’s—Alimash, not me, and Shoal walk over where you know the things hit our shields, small damage or reflect off.
 [u1555 | 02:09:59.780-02:10:03.649 | Alimash] We get there with minimal damage, and then we're each holding him down.
 [u1556 | 02:10:03.980-02:10:04.820 | DM] Yeah,
 [u1557 | 02:10:05.430-02:10:08.749 | Alimash] and i'm
@@ -1595,7 +1595,7 @@
 [u1595 | 02:13:21.600-02:13:26.309 | Alimash] revive him, give him water breathing, and see if he responds, or do we just kill him?
 [u1596 | 02:13:27.440-02:13:38.430 | Artem Novolozek] I would. I mean we could do that if we're playing and doing a short rest. Anyway. That's not a bad idea. It's just now that I took half my hit points and damage. I need to take a short rest, too, unless you guys have a lot of healing.
 [u1597 | 02:13:38.760-02:13:39.730 | Alimash] Well,
-[u1598 | 02:13:41.350-02:13:47.329 | Alimash] {{I plot my dad}} somebody should have healing potions, I mean I have a healing potion. I guess I could use my healing potion.
+[u1598 | 02:13:41.350-02:13:47.329 | Alimash] I plot my dad somebody should have healing potions, I mean I have a healing potion. I guess I could use my healing potion.
 [u1599 | 02:13:51.090-02:13:55.639 | DM] Yes, you could do that if you wanted to. You could take your take a short rest and
 [u1600 | 02:13:56.750-02:14:08.339 | DM] ritual cast during the short rest, and then knock them out right at the end. I I would say not. Everybody can take a short rest because somebody's got to restrain him. You can't keep them restrained while you're short resting.
 [u1601 | 02:14:08.890-02:14:09.780 | Unknown] Hmm.
@@ -1617,7 +1617,7 @@
 [u1617 | 02:15:14.620-02:15:17.089 | DM] you hear him like start to choke
 [u1618 | 02:15:17.220-02:15:18.519 | DM] and cough
 [u1619 | 02:15:18.640-02:15:22.939 | DM] and begin to drown, and then the ritual is completed,
-[u1620 | 02:15:23.560-02:15:28.920 | DM] and then {{no sound}}, and his eyes flutter open and he looks around.
+[u1620 | 02:15:23.560-02:15:28.920 | DM] and then no sound, and his eyes flutter open and he looks around.
 [u1621 | 02:15:33.430-02:15:34.950 | Artem Novolozek] Does he?
 [u1622 | 02:15:36.230-02:15:37.059 | Unknown] Huh?
 [u1623 | 02:15:37.200-02:15:38.160 | Wellby] Excellent.
@@ -1723,7 +1723,7 @@
 [u1723 | 02:23:39.100-02:23:44.709 | Artem Novolozek] Uh, and I changed up all my spells. I do have spells in my spell book. That would be helpful,
 [u1724 | 02:23:47.680-02:23:49.440 | Artem Novolozek] but
 [u1725 | 02:23:50.390-02:23:52.910 | Artem Novolozek] I don't think we have the luxury of doing that.
-[u1726 | 02:23:53.600-02:23:56.160 | Alimash] {{Well, this clatter of this collateral}}
+[u1726 | 02:23:53.600-02:23:56.160 | Alimash] Well, collateral is collateral
 [u1727 | 02:23:58.430-02:23:59.900 | Wellby] Yeah,
 [u1728 | 02:24:04.270-02:24:05.639 | Unknown] um.
 [u1729 | 02:24:07.330-02:24:08.250 | Artem Novolozek] I mean
@@ -1770,25 +1770,25 @@
 [u1770 | 02:27:18.890-02:27:20.579 | Artem Novolozek] Oh, you know what
 [u1771 | 02:27:20.730-02:27:25.149 | Artem Novolozek] Crabby might make a return, Mr. Giant Crab.
 [u1772 | 02:27:26.260-02:27:29.360 | Artem Novolozek] Could polymorph him into a giant crab and send them to fight.
-[u1773 | 02:27:30.300-02:27:39.520 | Rufus] Uh, you know, there's actually one crucial {{storage or in flow}} with this plan, which is that {{my character happened today}}.
+[u1773 | 02:27:30.300-02:27:39.520 | Rufus] Uh, you know, there's actually one crucial story flaw with this plan, which is that {{my character happened today}}.
 [u1774 | 02:27:47.940-02:28:04.260 | Artem Novolozek] Oh, we could find a different creature to to to polymorph. I mean, I only have one concentration effect at a time, right? So if i'm going to use it on polymorph him into a into a creature. Then I can't also make somebody invisible.
-[u1775 | 02:28:04.660-02:28:08.170 | Rufus] What Rufus's expertise, should you think include?
+[u1775 | 02:28:04.660-02:28:08.170 | Rufus] Would Rufus's expertise, do you think, include?
 [u1776 | 02:28:08.310-02:28:10.359 | Rufus] Given a particular
 [u1777 | 02:28:10.670-02:28:11.850 | Rufus] monster?
 [u1778 | 02:28:12.000-02:28:14.440 | Rufus] What monster do you want to be to fight it
-[u1779 | 02:28:17.790-02:28:22.280 | Rufus] like you could just make him a {{negative shark}} or something. Yeah, he could just be a giant shark.
+[u1779 | 02:28:17.790-02:28:22.280 | Rufus] like you could just make him a mega shark or something. Yeah, he could just be a giant shark.
 [u1780 | 02:28:22.330-02:28:30.170 | Shoal] What if we just polymorph, the big massive boss, into a chicken, and it drowns. Well, we can try that, too. I mean it gets a save.
 [u1781 | 02:28:30.480-02:28:35.600 | Artem Novolozek] I don't know how good. It's wisdom save is
 [u1782 | 02:28:36.280-02:28:40.680 | Artem Novolozek] right like It's got to be a fifty fifty shot at least.
 [u1783 | 02:28:42.950-02:29:02.279 | Artem Novolozek] Little anticlimactic to just one shot, the bad guy, but you know it's not good, I mean I don't know it should've had legendary resistances or something, because once it dies as a chicken, it just turns back into it. That's a good point, but you could polymorph it into like a piece of coral, and then
 [u1784 | 02:29:02.430-02:29:04.760 | Artem Novolozek] bring it with us right.
 [u1785 | 02:29:05.250-02:29:11.620 | Artem Novolozek] No; but then, once it's above water, it's probably less dangerous. Right? That would be what you'd have to do
-[u1786 | 02:29:11.670-02:29:23.350 | Rufus] into into Nemo, and then, just for the rest of the time, so it well, it only lasts an hour, which tentacles and teeth, and {{much wise}}
+[u1786 | 02:29:11.670-02:29:23.350 | Rufus] into into Nemo, and then, just for the rest of the time, so it well, it only lasts an hour, which tentacles and teeth, and much wise
 [u1787 | 02:29:23.810-02:29:25.599 | Rufus] Is it truly that big
 [u1788 | 02:29:26.840-02:29:29.960 | DM] It’s like ten, fifteen feet long?
 [u1789 | 02:29:31.320-02:29:32.959 | Wellby] What can we do to break
 [u1790 | 02:29:33.060-02:29:37.819 | Wellby] the hold that this thing has over the other people who surely are are down below.
-[u1791 | 02:29:39.880-02:29:49.110 | Alimash] How do you even get down below. You have to go through the blades. We just throw the switch. And then just {{I certainly get a swim. It's time}} because it it moves very slowly. I mean
+[u1791 | 02:29:39.880-02:29:49.110 | Alimash] How do you even get down below. You have to go through the blades. We just throw the switch. And then just I certainly get a swim. It's time because it it moves very slowly. I mean
 [u1792 | 02:29:49.280-02:29:52.010 | Artem Novolozek] I could turn them into a giant shark
 [u1793 | 02:29:55.130-02:30:02.200 | Rufus] after we go through the we want to make a stab at convincing them to come with us and add a giant shark to our ranks.
 [u1794 | 02:30:02.880-02:30:05.180 | Artem Novolozek] One hundred and twenty-six hit points.
@@ -1831,7 +1831,7 @@
 [u1831 | 02:32:58.980-02:33:02.009 | DM] They're chained up against the wall. I don't think they've been
 [u1832 | 02:33:02.710-02:33:04.289 | DM] enslaved yet,
 [u1833 | 02:33:06.200-02:33:07.359 | Rufus] but they're alive.
-[u1834 | 02:33:09.170-02:33:13.089 | Alimash] Alimash puts his helmet on? It sounds like {{when you’re a}}
+[u1834 | 02:33:09.170-02:33:13.089 | Alimash] Alimash puts his helmet on? It sounds like when you’re a
 [u1835 | 02:33:18.680-02:33:20.100 | Wellby] onward, then
 [u1836 | 02:33:20.930-02:33:22.880 | Alimash] there are, and downward,
 [u1837 | 02:33:23.050-02:33:25.499 | Shoal] if there are sea elves below
@@ -1842,16 +1842,16 @@
 [u1842 | 02:33:41.790-02:33:48.660 | Shoal] if anyone has something that can stabilize them. They they may be from my village, or
 [u1843 | 02:33:49.790-02:33:51.100 | Shoal] at least
 [u1844 | 02:33:51.850-02:33:55.509 | Shoal] at least they are my people. It would be good to save them.
-[u1845 | 02:34:02.560-02:34:06.149 | Rufus] I will try. My {{home wanted}}. Most hunting is
-[u1846 | 02:34:07.390-02:34:08.460 | Unknown] {{not our damage}}.
-[u1847 | 02:34:14.340-02:34:16.470 | Rufus] It's those messy {{oscillations}}.
+[u1845 | 02:34:02.560-02:34:06.149 | Rufus] I will try. My home wanted. Most hunting is
+[u1846 | 02:34:07.390-02:34:08.460 | Unknown] not our damage.
+[u1847 | 02:34:14.340-02:34:16.470 | Rufus] It's those messy hostage situations.
 [u1848 | 02:34:18.920-02:34:22.160 | Alimash] We have a mission to do so. Let's go.
 [u1849 | 02:34:22.360-02:34:24.070 | Wellby] Let's move.
 [u1850 | 02:34:26.870-02:34:32.539 | DM] So you are going to go through the now non-spinning blades.
 [u1851 | 02:34:32.870-02:34:36.610 | Alimash] Did we send the invisible?
 [u1852 | 02:34:37.400-02:34:50.350 | Artem Novolozek] He can’t talk or see, but we could send it. I want to go. Um, No, David, let me go, find a fish and Beast Sense it, and send it ahead and see what's below.
 [u1853 | 02:34:50.910-02:34:57.640 | Artem Novolozek] I didn't I Greater invisibility is a combat spell. I could. It only lasts a minute. It's
-[u1854 | 02:34:57.670-02:34:59.369 | Artem Novolozek] it's {{aim}}, but it's
+[u1854 | 02:34:57.670-02:34:59.369 | Artem Novolozek] it's aim, but it's
 [u1855 | 02:35:00.080-02:35:04.250 | Artem Novolozek] attacks don’t cause it to end, so it's quite powerful combat.
 [u1856 | 02:35:05.010-02:35:06.060 | DM] Um!
 [u1857 | 02:35:06.380-02:35:07.840 | DM] Uh so
@@ -1880,7 +1880,7 @@
 [u1880 | 02:36:48.170-02:36:53.380 | Wellby] Awesome. I want to send the fish down through the tentacle hole. Let's see what's on the bottom level.
 [u1881 | 02:36:54.140-02:36:55.360 | DM] Ah!
 [u1882 | 02:36:55.420-02:36:58.650 | DM] You catch a brief glimpse of
-[u1883 | 02:36:58.700-02:37:06.560 | DM] {{this large of three things}}. You catch a brief glimpse of one, as you three see three sea elves standing around
+[u1883 | 02:36:58.700-02:37:06.560 | DM] this large of three things. You catch a brief glimpse of one, as you three see three sea elves standing around
 [u1884 | 02:37:06.820-02:37:17.869 | DM] um two. You see this massive like forty foot across, like giant amber crystal, with just one large eye staring out from it,
 [u1885 | 02:37:18.540-02:37:30.430 | DM] and three you see a somewhat smaller than that, maybe ten or fifteen feet across, like tentacled creature like described, with like three rows of three eyes, a mouthful of huge teeth
 [u1886 | 02:37:30.560-02:37:34.979 | DM] like about twelve tentacles waving around, and then
@@ -1902,7 +1902,7 @@
 [u1902 | 02:38:39.440-02:38:42.210 | Alimash] it's like a lightning strike,
 [u1903 | 02:38:42.270-02:38:43.400 | Shoal] absolutely.
 [u1904 | 02:38:45.360-02:38:46.560 | DM] And my
-[u1905 | 02:38:47.640-02:38:49.359 | Rufus] {{the Camber is conducted}}. Actually,
+[u1905 | 02:38:47.640-02:38:49.359 | Rufus] the amber is conductive. Actually,
 [u1906 | 02:38:49.720-02:38:53.480 | Alimash] can we take a quick break real quick? I got it.
 [u1907 | 02:38:53.520-02:38:55.779 | Alimash] Yeah, very close. Yeah,
 [u1908 | 02:41:43.800-02:41:48.270 | Alimash] Can you do multiple maneuvers in one turn, or you get one maneuver per turn?
@@ -1955,8 +1955,8 @@
 [u1955 | 02:46:50.700-02:46:53.390 | Shoal] It looks like we're killing another shark.
 [u1956 | 02:46:53.450-02:46:54.400 | Wellby] Right?
 [u1957 | 02:46:56.650-02:46:58.980 | Shoal] Yeah,
-[u1958 | 02:46:59.060-02:47:06.289 | Artem Novolozek] All right. Do these sailors seem like um bad guys. They're all {{cursy thing Eat}} right?
-[u1959 | 02:47:06.830-02:47:12.499 | DM] They're {{a cursey thing you}} they have like mucus coming around their face so they can probably breathe.
+[u1958 | 02:46:59.060-02:47:06.289 | Artem Novolozek] All right. Do these sailors seem like um bad guys. They're all cursed thingy right?
+[u1959 | 02:47:06.830-02:47:12.499 | DM] They're a cursed thingy they have like mucus coming around their face so they can probably breathe.
 [u1960 | 02:47:13.000-02:47:15.520 | Artem Novolozek] Do we want to kill them?
 [u1961 | 02:47:15.700-02:47:21.859 | DM] I mean, you know them. You were on a ship with them from? Yeah, I don't three weeks. You want to kill them.
 [u1962 | 02:47:25.080-02:47:26.890 | Alimash] It's always collateral.
@@ -1969,7 +1969,7 @@
 [u1969 | 02:48:06.510-02:48:08.070 | Artem Novolozek] make them.
 [u1970 | 02:48:09.910-02:48:16.519 | Artem Novolozek] It's like all creatures that can see as enemies until the spell it so maybe it would go eat the Kenku as well.
 [u1971 | 02:48:17.640-02:48:19.740 | Shoal] I mean they look delicious.
-[u1972 | 02:48:19.880-02:48:22.150 | Artem Novolozek] I don't really want to. {{Thank you}}.
+[u1972 | 02:48:19.880-02:48:22.150 | Artem Novolozek] I don't really want to. Thank you.
 [u1973 | 02:48:23.300-02:48:24.420 | Rufus] Yeah,
 [u1974 | 02:48:25.090-02:48:29.400 | DM] I mean, these are the Kenku that Wellby is looking for right? Yeah,
 [u1975 | 02:48:29.800-02:48:31.150 | Wellby] yeah,
@@ -2003,7 +2003,7 @@
 [u2003 | 02:50:29.630-02:50:30.869 | Artem Novolozek] Um,
 [u2004 | 02:50:35.060-02:50:39.260 | DM] Yeah, I mean while the fan is the fan
 [u2005 | 02:50:39.510-02:50:44.209 | DM] was very noisy. Your impression is that the people below,
-[u2006 | 02:50:46.360-02:50:54.800 | DM] like didn't hear the battle {{like it was like they heard instead of}} you know the sounds of fighting
+[u2006 | 02:50:46.360-02:50:54.800 | DM] like didn't hear the battle like it was like they heard instead of you know the sounds of fighting
 [u2007 | 02:50:57.600-02:51:02.500 | DM] at some point they'll probably go, you know. Be curious about like why,
 [u2008 | 02:51:05.940-02:51:11.680 | DM] and if they're all being controlled by the same creature it's, you know. Who knows what the creature is planning?
 [u2009 | 02:51:11.960-02:51:18.079 | Alimash] The shark too big to go through the stationary blades.
@@ -2045,7 +2045,7 @@
 [u2045 | 02:53:43.370-02:53:50.640 | DM] right they were Normally, it would not be so easy for them to act in such a coordinated manner with their riders.
 [u2046 | 02:53:50.680-02:54:00.079 | DM] And the one down here is definitely moving like it's now actually circling around, and it's become as come right up underneath the
 [u2047 | 02:54:00.210-02:54:02.929 | DM] fan blades, and is starting to like
-[u2048 | 02:54:03.180-02:54:13.509 | DM] drift up almost like It's looking for you. It's definitely not acting {{in a completely.}}
+[u2048 | 02:54:03.180-02:54:13.509 | DM] drift up almost like It's looking for you. It's definitely not acting in a completely.
 [u2049 | 02:54:14.200-02:54:16.529 | DM] They're moving around a bit. Yeah.
 [u2050 | 02:54:16.640-02:54:19.440 | Artem Novolozek] Um, okay, Hold on. I just um. Let's see.
 [u2051 | 02:54:19.750-02:54:20.810 | Artem Novolozek] For my
@@ -2055,7 +2055,7 @@
 [u2055 | 02:54:40.330-02:54:43.640 | DM] It's currently like swimming up towards the
 [u2056 | 02:54:44.230-02:54:45.880 | DM] uh towards the
 [u2057 | 02:54:46.060-02:54:47.880 | DM] stopped blades.
-[u2058 | 02:54:48.710-02:54:53.750 | Artem Novolozek] Can we start the {{bell}} that's going to be annoying. That'll kill me. Um
+[u2058 | 02:54:48.710-02:54:53.750 | Artem Novolozek] Can we start the fan that's going to be annoying. That'll kill me. Um
 [u2059 | 02:54:56.940-02:54:59.980 | Artem Novolozek] can, I mean, but we can. We can
 [u2060 | 02:55:00.080-02:55:01.310 | Artem Novolozek] target it.
 [u2061 | 02:55:04.200-02:55:08.420 | Artem Novolozek] I have line of sight through the fan blades to it. Right
@@ -2181,7 +2181,7 @@
 [u2181 | 03:04:24.560-03:04:29.069 | Shoal] I will go to them with a dash as well.
 [u2182 | 03:04:29.670-03:04:30.640 | DM] Okay,
 [u2183 | 03:04:30.980-03:04:35.159 | Shoal] and I will use uh,
-[u2184 | 03:04:35.840-03:04:43.810 | Shoal] I'll use my Action Surge to do an, uh, an attempt to get them out {{to it}}.
+[u2184 | 03:04:35.840-03:04:43.810 | Shoal] I'll use my Action Surge to do an, uh, an attempt to get them out to it.
 [u2185 | 03:04:44.020-03:04:46.369 | DM] Okay, make a strength check.
 [u2186 | 03:04:47.540-03:04:50.690 | Shoal] Oh, do I want to get big for that?
 [u2187 | 03:04:50.840-03:04:53.859 | Shoal] Why not? I'm sure we are fighting this shark,
@@ -2216,7 +2216,7 @@
 [u2216 | 03:07:25.130-03:07:27.629 | DM] and make a constitution saving throw
 [u2217 | 03:07:29.330-03:07:30.220 | Unknown] constant.
 [u2218 | 03:07:35.780-03:07:44.819 | DM] Ah! The tentacle hits you. You take ten points of damage. Um! And this, like slime on the tentacle, begins to
-[u2219 | 03:07:45.600-03:07:50.219 | Alimash] does my Shield Master evasion count, in effect, {{all of half damage}} on success.
+[u2219 | 03:07:45.600-03:07:50.219 | Alimash] does my Shield Master evasion count, in effect, all of half damage on success.
 [u2220 | 03:07:50.430-03:07:52.550 | DM] No, because it's just an attack roll
 [u2221 | 03:07:52.870-03:07:55.510 | DM] that only affects dexterity saves.
 [u2222 | 03:07:55.820-03:07:57.659 | Unknown] Okay.
@@ -2231,7 +2231,7 @@
 [u2231 | 03:08:48.060-03:08:54.220 | DM] shark, and one sailor are incapacitated and charmed. Two sailors are
 [u2232 | 03:08:54.950-03:08:56.380 | DM] awake.
 [u2233 | 03:08:58.310-03:09:00.999 | Wellby] Um! Can I try and pull like
-[u2234 | 03:09:01.660-03:09:04.579 | Wellby] {{it Takes the charmed sailor out}}.
+[u2234 | 03:09:01.660-03:09:04.579 | Wellby] take the charmed sailor out.
 [u2235 | 03:09:08.030-03:09:13.779 | DM] That's quite That's like forty feet away, more than forty feet away from you.
 [u2236 | 03:09:14.430-03:09:15.650 | Artem Novolozek] Wow!
 [u2237 | 03:09:16.050-03:09:18.170 | Wellby] Hello! Can you move?
@@ -2255,7 +2255,7 @@
 [u2255 | 03:10:35.640-03:10:36.699 | DM] Um
 [u2256 | 03:10:37.710-03:10:39.030 | DM] Artem you're up,
 [u2257 | 03:10:41.260-03:10:44.720 | Artem Novolozek] and what can I do? That's useful.
-[u2258 | 03:10:44.850-03:10:48.000 | Artem Novolozek] {{Eureka moves through}}.
+[u2258 | 03:10:44.850-03:10:48.000 | Artem Novolozek] Eureka moves through.
 [u2259 | 03:10:48.720-03:10:50.090 | Artem Novolozek] I'm not like.
 [u2260 | 03:10:51.170-03:10:54.210 | Artem Novolozek] Now wait. What happened to Rufus doesn’t he get to do something?
 [u2261 | 03:10:55.000-03:10:57.109 | DM] Yeah. What do you want, Rufus to do?
@@ -2275,7 +2275,7 @@
 [u2275 | 03:12:09.070-03:12:11.070 | DM] so that I had on this guy.
 [u2276 | 03:12:13.390-03:12:20.299 | DM] I mean that one shot definitely Looks like you know that one arrow shot has badly wounded.
 [u2277 | 03:12:20.450-03:12:23.449 | DM] This sailor pretty substantially
-[u2278 | 03:12:23.700-03:12:28.989 | Artem Novolozek] okay. I'm not like {{highway}}. I don't love just killing My!
+[u2278 | 03:12:23.700-03:12:28.989 | Artem Novolozek] okay. I'm not like highway. I don't love just killing My!
 [u2279 | 03:12:30.360-03:12:33.470 | Artem Novolozek] I don't feel like we have a good, really a choice, though.
 [u2280 | 03:12:33.730-03:12:34.890 | Artem Novolozek] Um,
 [u2281 | 03:12:34.940-03:12:41.589 | Alimash] wait these that don't have the same drowning thing, though. Remember that. Yeah, that's true. That's my idea of that. Yeah,
@@ -2283,10 +2283,10 @@
 [u2283 | 03:12:44.750-03:12:49.990 | Artem Novolozek] I will go with i'll just go with chill touch on the one that is
 [u2284 | 03:12:51.110-03:12:52.820 | Artem Novolozek] on the one that
 [u2285 | 03:12:53.060-03:12:54.090 | Artem Novolozek] that
-[u2286 | 03:12:54.490-03:12:57.959 | Artem Novolozek] {{uh, what's it, Rufus? Already?}}
+[u2286 | 03:12:54.490-03:12:57.959 | Artem Novolozek] uh, what's it, Rufus? Already?
 [u2287 | 03:12:58.730-03:12:59.840 | DM] Okay,
 [u2288 | 03:13:00.090-03:13:01.940 | DM] That is not enough.
-[u2289 | 03:13:02.090-03:13:03.730 | DM] And put her down.
+[u2289 | 03:13:02.090-03:13:03.730 | DM] to put her down.
 [u2290 | 03:13:04.670-03:13:05.789 | DM] Ah,
 [u2291 | 03:13:07.300-03:13:11.169 | Artem Novolozek] this one is gone. Well wait Now i'm not coming into the room.
 [u2292 | 03:13:13.040-03:13:14.919 | Artem Novolozek] Okay, I mean,
@@ -2298,7 +2298,7 @@
 [u2298 | 03:13:46.930-03:13:48.350 | DM] Alimash! You're up.
 [u2299 | 03:13:48.990-03:13:52.320 | Alimash] So I look towards Shoal. Do you got these two?
 [u2300 | 03:13:54.610-03:14:02.069 | Alimash] So with Shoal’s confirmation I have normal swim, so i'm not like penalized for movement.
-[u2301 | 03:14:03.360-03:14:19.059 | Alimash] So she was the one that was already here once, Right? Yep, Yep, she’s the {{liquid}}. So i'm going. She's now. She swam thirty feet straight off basically to the shark, so she's out of your range. Oh, but these guys aren't
+[u2301 | 03:14:03.360-03:14:19.059 | Alimash] So she was the one that was already here once, Right? Yep, Yep, she’s the weak one. So i'm going. She's now. She swam thirty feet straight off basically to the shark, so she's out of your range. Oh, but these guys aren't
 [u2302 | 03:14:19.310-03:14:31.859 | Alimash] These two over here are are close to the ground. Okay? So I go over here, plus. They're moving towards Wellby, which is the one Wellby's Grab the one on the left that one right there. Yeah. So the one that's trying to get Wellby.
 [u2303 | 03:14:31.920-03:14:33.340 | Alimash] I go.
 [u2304 | 03:14:33.370-03:14:35.890 | Alimash] If I'm here I can still
@@ -2315,10 +2315,10 @@
 [u2315 | 03:15:09.580-03:15:11.000 | DM] Ah,
 [u2316 | 03:15:11.250-03:15:13.199 | Alimash] wait, wait! And then
 [u2317 | 03:15:13.930-03:15:16.450 | Alimash] I don't want to. So it does an extra.
-[u2318 | 03:15:17.770-03:15:24.559 | DM] That didn't roll critical damage. I don't know why roll an extra 1d6 {{plus twenty, four}}
+[u2318 | 03:15:17.770-03:15:24.559 | DM] That didn't roll critical damage. I don't know why roll an extra 1d6 plus twenty, four
 [u2319 | 03:15:27.150-03:15:28.860 | Alimash] on the
 [u2320 | 03:15:28.930-03:15:30.680 | Alimash] six.
-[u2321 | 03:15:34.980-03:15:38.929 | Artem Novolozek] No, the crit. {{It's all that are}}. Now never mind. I don't know what it did.
+[u2321 | 03:15:34.980-03:15:38.929 | Artem Novolozek] No, the crit. It's all that are. Now never mind. I don't know what it did.
 [u2322 | 03:15:42.670-03:15:45.749 | DM] Okay, he's also looking badly wounded, but
 [u2323 | 03:15:45.780-03:15:48.969 | Alimash] not down. Then I attack again.
 [u2324 | 03:15:49.240-03:15:50.280 | DM] Okay,
@@ -2415,7 +2415,7 @@
 [u2415 | 03:23:33.040-03:23:34.640 | DM] Okay?
 [u2416 | 03:23:35.350-03:23:37.509 | DM] Ah, you cannot see her.
 [u2417 | 03:23:37.630-03:23:45.209 | DM] Oh, sorry. You don't notice that because I was looking at Rufus's passive perception, not yours. Forget I said anything. You notice nothing.
-[u2418 | 03:23:45.430-03:23:49.020 | Wellby] {{I know a shortcuts ice graph.}}
+[u2418 | 03:23:45.430-03:23:49.020 | Wellby] I know a shortcuts ice graph.
 [u2419 | 03:23:49.210-03:23:50.520 | DM] Yes,
 [u2420 | 03:23:50.950-03:23:53.190 | DM] you take
 [u2421 | 03:23:54.720-03:23:55.869 | DM] um.
@@ -2456,7 +2456,7 @@
 [u2456 | 03:26:22.350-03:26:25.589 | DM] succeeds, So that does nothing.
 [u2457 | 03:26:26.530-03:26:29.210 | Unknown] Artem. You're up.
 [u2458 | 03:26:30.140-03:26:32.869 | Artem Novolozek] So I don't know. There's a creature inside the shark.
-[u2459 | 03:26:33.060-03:26:37.570 | DM] {{You just on you}}. I mean, yeah, you saw the shark breathe ice.
+[u2459 | 03:26:33.060-03:26:37.570 | DM] You just on you. I mean, yeah, you saw the shark breathe ice.
 [u2460 | 03:26:39.570-03:26:40.430 | Unknown] Okay?
 [u2461 | 03:26:41.750-03:26:42.980 | Artem Novolozek] Um,
 [u2462 | 03:26:46.510-03:26:48.220 | Artem Novolozek] Um,
@@ -2468,7 +2468,7 @@
 [u2468 | 03:27:20.220-03:27:22.400 | Artem Novolozek] into a sea slug.
 [u2469 | 03:27:23.740-03:27:25.250 | DM] Okay?
 [u2470 | 03:27:29.210-03:27:33.250 | DM] Ah, it will get a wisdom save Yep,
-[u2471 | 03:27:34.740-03:27:36.160 | DM] that is a {{T}}.
+[u2471 | 03:27:34.740-03:27:36.160 | DM] that is a T.
 [u2472 | 03:27:36.280-03:27:39.750 | DM] So, as the shark turns into a sea slug, you see a person
 [u2473 | 03:27:40.440-03:27:43.740 | DM] left behind who is now
 [u2474 | 03:27:43.960-03:27:45.699 | DM] out in the open,
@@ -2554,12 +2554,12 @@
 [u2554 | 03:34:23.060-03:34:26.640 | DM] the mage is going to vanish. Counterspell
 [u2555 | 03:34:29.940-03:34:31.030 | Artem Novolozek] from my ring.
 [u2556 | 03:34:34.300-03:34:40.740 | DM] Do I get an attack of opportunity? Okay, make an intelligence check. No need. If it's. Is it
-[u2557 | 03:34:41.190-03:34:42.900 | Artem Novolozek] {{what level spell is she casting}}
-[u2558 | 03:34:43.160-03:34:44.139 | Unknown] for us?
+[u2557 | 03:34:41.190-03:34:42.900 | Artem Novolozek] what level spell is she casting
+[u2558 | 03:34:43.160-03:34:44.139 | Unknown] Fourth.
 [u2559 | 03:34:45.200-03:34:47.920 | Artem Novolozek] I like greater invisibility. Okay,
 [u2560 | 03:34:52.050-03:34:55.309 | DM] Yep. Spell does not, does not take effect.
 [u2561 | 03:34:55.560-03:34:57.499 | DM] She's used her reaction
-[u2562 | 03:34:57.780-03:34:59.730 | DM] that and {{surgery}} and Wellby, you're up
+[u2562 | 03:34:57.780-03:34:59.730 | DM] that ends her turn and Wellby, you're up
 [u2563 | 03:35:02.820-03:35:04.710 | Wellby] all right. Um,
 [u2564 | 03:35:06.200-03:35:09.019 | Wellby] I'm gonna shoot the caster with my crossbow.
 [u2565 | 03:35:10.440-03:35:14.219 | Wellby] Okay? So i'll Steady Aim that for
@@ -2627,7 +2627,7 @@
 [u2627 | 03:39:42.490-03:39:45.460 | Alimash] yeah. So I just. I just stand here turns over
 [u2628 | 03:39:45.940-03:39:58.969 | DM] right. We. We should be able to take out a mage surrounded by fighters. But you know, if any of you would use any of your abilities that you have. It would be It might help. Um,
 [u2629 | 03:40:07.270-03:40:08.910 | DM] Um!
-[u2630 | 03:40:11.270-03:40:13.280 | Artem Novolozek] Called Edmund.
+[u2630 | 03:40:11.270-03:40:13.280 | Artem Novolozek] Called out, man.
 [u2631 | 03:40:16.220-03:40:17.470 | Artem Novolozek] Yeah, okay,
 [u2632 | 03:40:18.440-03:40:23.859 | DM] she is going to drop a fireball right here.
 [u2633 | 03:40:24.500-03:40:25.860 | Artem Novolozek] I'll Counterspell
@@ -2641,7 +2641,7 @@
 [u2641 | 03:41:01.050-03:41:05.699 | Artem Novolozek] she already Did she just use your reaction to cast Shield. She
 [u2642 | 03:41:06.050-03:41:13.320 | Artem Novolozek] that's the start of her turn. It means she can't use shield on her. Next she can counter sp my counter spell.
 [u2643 | 03:41:13.950-03:41:16.199 | DM] So. Ah
-[u2644 | 03:41:16.400-03:41:19.800 | DM] {{seal Rufus on the turtle}}
+[u2644 | 03:41:16.400-03:41:19.800 | DM] Shoal, Rufus, and the turtle
 [u2645 | 03:41:22.980-03:41:25.309 | Artem Novolozek] um fireball I don't
 [u2646 | 03:41:26.540-03:41:28.850 | Artem Novolozek] would she cast fireball under water.
 [u2647 | 03:41:29.230-03:41:39.330 | DM] I don't really want to do that because it's gonna be really annoying. If the turtle pops back she is going to turn invisible instead,
@@ -2719,7 +2719,7 @@
 [u2719 | 03:47:57.280-03:47:59.780 | DM] cast magic missile at
 [u2720 | 03:47:59.940-03:48:01.170 | Artem Novolozek] shield.
 [u2721 | 03:48:03.060-03:48:04.560 | DM] It does nothing.
-[u2722 | 03:48:05.860-03:48:11.179 | Shoal] {{He changes the right on which he's going to cast}}, and then she casts Chill Touch.
+[u2722 | 03:48:05.860-03:48:11.179 | Shoal] He changes his mind on what he's going to cast, and then she casts Chill Touch.
 [u2723 | 03:48:11.410-03:48:15.489 | Artem Novolozek] No, no, no, she cast shield before
 [u2724 | 03:48:22.060-03:48:26.130 | DM] a little bit cheesy, but it's fun. Um. Wellby you're up.
 [u2725 | 03:48:28.390-03:48:29.810 | Wellby] Uh
@@ -2731,10 +2731,10 @@
 [u2731 | 03:48:48.930-03:48:50.489 | Wellby] with the crossbow.
 [u2732 | 03:48:50.970-03:48:51.980 | DM] Okay,
 [u2733 | 03:48:54.740-03:48:55.770 | DM] That
-[u2734 | 03:48:56.530-03:48:59.769 | DM] hits. {{They can't spell slots up}}.
+[u2734 | 03:48:56.530-03:48:59.769 | DM] hits. They can't spell slots up.
 [u2735 | 03:49:04.530-03:49:06.320 | DM] No, she doesn't have any
 [u2736 | 03:49:06.570-03:49:15.809 | DM] first level slots left she got. She'll get a second level slot if she's going to use a second level slot to cast Shield, you know. Then that misses
-[u2737 | 03:49:17.870-03:49:29.630 | Alimash] {{It's this for a scenario}}. So you can basically play like an evil wizard against all of us. This isn't even the boss. I don't know why I, having so much trouble with a mage with forty hit points.
+[u2737 | 03:49:17.870-03:49:29.630 | Alimash] Is this whole scenario. So you can basically play like an evil wizard against all of us. This isn't even the boss. I don't know why I, having so much trouble with a mage with forty hit points.
 [u2738 | 03:49:31.170-03:49:41.659 | DM] Wow! That's hard to hit surprisingly. Yeah. Mage Armor plus shield is pretty useful. The shark is. Everybody is out of
 [u2739 | 03:49:42.140-03:49:44.849 | DM] commission. Rufus is going to.
 [u2740 | 03:49:44.960-03:49:47.100 | DM] Rufus is going to take her out,
@@ -2769,7 +2769,7 @@
 [u2769 | 03:52:35.170-03:52:43.679 | DM] I think you could do it in half an hour, if you like. Seriously use all your high-level stuff and don't like use. These wimpy cantrips,
 [u2770 | 03:52:43.930-03:53:03.589 | Artem Novolozek] not even touching a Fifth Level spell slot the entire adventure. Wow! I was going to get to the boss. I mean it could be thirty seconds if you hit that polymorph right exactly. Now i'm gonna Bigby’s Hand it and punch it to death.
 [u2771 | 03:53:04.110-03:53:09.200 | Shoal] I mean, let's let's let's do it. But let's try and be quick about it.
-[u2772 | 03:53:09.330-03:53:14.599 | Shoal] Yeah, I'm just gonna take a minute to take my contact. So yeah. But uh, lay on.
+[u2772 | 03:53:09.330-03:53:14.599 | Shoal] Yeah, I'm just gonna take a minute to take my contacts out. So yeah. But uh, lay on.
 [u2773 | 03:53:14.810-03:53:19.329 | DM] Okay, so with all these unconscious bodies here,
 [u2774 | 03:53:21.390-03:53:28.280 | DM] what are you? What are you doing? Well, You have like a minute to get your breath. Not long enough for a short rest
 [u2775 | 03:53:28.750-03:53:29.900 | DM] right
@@ -2785,7 +2785,7 @@
 [u2785 | 03:54:03.050-03:54:06.760 | Artem Novolozek] can we see through the slot to the tentacles?
 [u2786 | 03:54:07.980-03:54:11.100 | DM] Ah, yeah, Let's down, I mean,
 [u2787 | 03:54:11.630-03:54:17.830 | DM] Wow, Yes and no, you can. But something might come punch you in the face.
-[u2788 | 03:54:18.080-03:54:26.719 | DM] I mean you. So. In other words, you have to get up, you know, like peer, {{in order to get up close to you}} from ten feet away. You can't see through them clearly. But
+[u2788 | 03:54:18.080-03:54:26.719 | DM] I mean you. So. In other words, you have to get up, you know, like peer, in order to get up close to you from ten feet away. You can't see through them clearly. But
 [u2789 | 03:54:27.730-03:54:33.200 | DM] uh, Rufus is going to cast protection from good and evil On
 [u2790 | 03:54:35.020-03:54:36.420 | DM] go it!
 [u2791 | 03:54:37.390-03:54:40.499 | DM] Who would be worse to be charmed?
@@ -2813,7 +2813,7 @@
 [u2813 | 03:55:54.800-03:55:57.469 | Shoal] I could take both unless someone else needs.
 [u2814 | 03:55:57.840-03:56:00.369 | Wellby] I'm down by twenty seven.
 [u2815 | 03:56:03.680-03:56:05.500 | Shoal] Okay, I mean,
-[u2816 | 03:56:06.100-03:56:10.699 | DM] give it. He's going to give them both to Shoal, since Shoal’s the frontliner {{looks smart}}.
+[u2816 | 03:56:06.100-03:56:10.699 | DM] give it. He's going to give them both to Shoal, since Shoal’s the frontliner looks smart.
 [u2817 | 03:56:10.860-03:56:12.549 | Shoal] Um, and then
 [u2818 | 03:56:14.650-03:56:18.099 | Shoal] so a total of twenty seven heal. Yeah, take it.
 [u2819 | 03:56:20.020-03:56:23.269 | Alimash] What was my damage? I think I got ten
@@ -2822,7 +2822,7 @@
 [u2822 | 03:56:28.030-03:56:30.369 | Alimash] from the um.
 [u2823 | 03:56:30.460-03:56:34.120 | Alimash] Yeah, it was ten. So then i'm going to do my two.
 [u2824 | 03:56:34.630-03:56:40.640 | DM] And, by the way, both of you who are damaged by the tentacles. You feel the mucus like
-[u2825 | 03:56:41.610-03:56:51.540 | DM] collapsing into your lungs, {{and like so sorry}}, you know, around your skin, and like, just like this webbing now around all your skin,
+[u2825 | 03:56:41.610-03:56:51.540 | DM] collapsing into your lungs, and like so sorry, you know, around your skin, and like, just like this webbing now around all your skin,
 [u2826 | 03:56:52.490-03:56:58.880 | DM] which actually, now that you look at the bodies, like most of the rest of them, have the same sort of subtle webbing on their skin.
 [u2827 | 03:56:59.490-03:57:02.380 | DM] It's subtle. It's not super obvious.
 [u2828 | 03:57:04.250-03:57:11.990 | DM] Okay, there's nothing else now. He's also gonna use masked mind so that he so that
@@ -2836,8 +2836,8 @@
 [u2836 | 03:57:58.550-03:58:02.460 | Wellby] Well is, I mean, is there anything else that we have that would be useful here.
 [u2837 | 03:58:02.830-03:58:05.039 | Artem Novolozek] Wow. Greater invisibility.
 [u2838 | 03:58:07.090-03:58:10.790 | Wellby] Yeah, Send someone in with it.
-[u2839 | 03:58:11.270-03:58:16.809 | Artem Novolozek] Uh, {{I would love to take you}} wouldn't know you're there. You get advantage in all attacks that's free sneak attack.
-[u2840 | 03:58:17.470-03:58:28.369 | Artem Novolozek] Oh, Greater Invisibility {{to us}}
+[u2839 | 03:58:11.270-03:58:16.809 | Artem Novolozek] Uh, I would love to take you wouldn't know you're there. You get advantage in all attacks that's free sneak attack.
+[u2840 | 03:58:17.470-03:58:28.369 | Artem Novolozek] Oh, Greater Invisibility to us
 [u2841 | 03:58:28.490-03:58:32.279 | Wellby] other spells. But i'll give you warning.
 [u2842 | 03:58:33.230-03:58:37.970 | DM] Okay, you open the door and you drop. You look look through,
 [u2843 | 03:58:38.700-03:58:48.469 | DM] and as it opens, you hear a sort of voice in your in your mind, uh, all of you together, as the as the thing opens.
@@ -2856,7 +2856,7 @@
 [u2856 | 03:59:27.840-03:59:33.539 | Wellby] the death of all crabs.
 [u2857 | 03:59:38.300-03:59:40.819 | DM] These things can be granted.
 [u2858 | 03:59:40.960-03:59:43.089 | DM] Maybe not the crabs.
-[u2859 | 03:59:44.140-03:59:50.880 | DM] Actually, no, Rufus is not even part of this, because he's got Nondetection, and he can't be {{telephone}}. I have Nondetection, too.
+[u2859 | 03:59:44.140-03:59:50.880 | DM] Actually, no, Rufus is not even part of this, because he's got Nondetection, and he can't be telephone. I have Nondetection, too.
 [u2860 | 03:59:51.770-03:59:54.389 | DM] Okay. So you're not part of this.
 [u2861 | 03:59:54.550-03:59:55.840 | DM] Ah,
 [u2862 | 03:59:55.860-03:59:57.880 | DM] you have proof against.
@@ -2866,7 +2866,7 @@
 [u2866 | 04:00:09.720-04:00:12.119 | Artem Novolozek] can't be targeted by any divination. Magic,
 [u2867 | 04:00:14.340-04:00:16.719 | Artem Novolozek] though I don't know if it counts as divination magic.
 [u2868 | 04:00:17.380-04:00:22.630 | DM] Ah, no, actually neither one of you are unaffected. This is just telepathy.
-[u2869 | 04:00:23.780-04:00:35.800 | DM] Um! So you both. So the crabs thing, and you both hear and I've misread Nondetection. {{He can't you?}} There's other things that he can't do to you because you have Nondetection. Um!
+[u2869 | 04:00:23.780-04:00:35.800 | DM] Um! So you both. So the crabs thing, and you both hear and I've misread Nondetection. He can't you? There's other things that he can't do to you because you have Nondetection. Um!
 [u2870 | 04:00:39.260-04:00:42.020 | DM] I can grant these things, and more,
 [u2871 | 04:00:42.930-04:00:46.149 | DM] if you will aid me in my quest.
 [u2872 | 04:00:47.910-04:00:52.450 | Wellby] Listen. But if you can't kill all the crabs in the world, I don't know why we were even talking
@@ -2880,7 +2880,7 @@
 [u2880 | 04:01:18.370-04:01:22.110 | Shoal] Okay. But I want love, though
 [u2881 | 04:01:25.410-04:01:26.660 | Shoal] fine.
 [u2882 | 04:01:28.850-04:01:31.410 | Artem Novolozek] I i'm done negotiating.
-[u2883 | 04:01:34.280-04:01:36.270 | DM] {{I look for somebody with all me. Is}}
+[u2883 | 04:01:34.280-04:01:36.270 | DM] I look for somebody with all me. Is
 [u2884 | 04:01:40.220-04:01:42.210 | DM] so initiative.
 [u2885 | 04:01:43.610-04:01:44.740 | Shoal] Yep,
 [u2886 | 04:01:44.790-04:01:45.630 | Artem Novolozek] that
@@ -2901,7 +2901,7 @@
 [u2901 | 04:02:41.950-04:02:43.939 | Artem Novolozek] What are we looking at down here?
 [u2902 | 04:02:44.110-04:02:47.719 | DM] You're looking okay? So you're looking at um
 [u2903 | 04:02:48.620-04:02:52.639 | DM] a big open cave sea cave like you've seen before. There is this
-[u2904 | 04:02:52.670-04:02:55.439 | DM] {{purple like I}} uh
+[u2904 | 04:02:52.670-04:02:55.439 | DM] purple like I uh
 [u2905 | 04:02:55.970-04:02:58.559 | DM] giant sort of um
 [u2906 | 04:02:59.410-04:03:00.590 | DM] uh
 [u2907 | 04:03:01.670-04:03:17.329 | DM] a yellow crystal that juts up from the center of the cavern, and like this shadowy figure with an enormous eye, seems like it's trapped in it. Now that you're in the room, you can see like it's moving slightly like the eye is looking around.
@@ -2920,7 +2920,7 @@
 [u2920 | 04:04:46.910-04:04:50.400 | DM] uh, we'll take his two shots
 [u2921 | 04:04:53.260-04:04:58.830 | DM] uh so uh twenty, four hits and a twenty nine hits
 [u2922 | 04:05:00.270-04:05:03.050 | DM] um, so that is
-[u2923 | 04:05:03.910-04:05:07.679 | DM] {{three Ah, seven, I plus}}
+[u2923 | 04:05:03.910-04:05:07.679 | DM] three Ah, seven, I plus
 [u2924 | 04:05:09.230-04:05:11.260 | DM] five plus six.
 [u2925 | 04:05:15.090-04:05:16.510 | Artem Novolozek] Go ahead. No, I just.
 [u2926 | 04:05:16.700-04:05:24.670 | Artem Novolozek] I was telling everybody try not to clog up the battlefield before I have a chance to get off a mass area effect.
@@ -3000,7 +3000,7 @@
 [u3000 | 04:10:39.500-04:10:48.509 | Artem Novolozek] So the two that fail take twenty, four damage, and also have um minus one d six on all attack rolls, ability checks, and concentration saves.
 [u3001 | 04:10:49.000-04:10:49.980 | DM] Okay,
 [u3002 | 04:10:50.140-04:10:51.240 | Shoal] hey?
-[u3003 | 04:10:51.520-04:10:54.819 | DM] Half is twelve damage. F is twelve here.
+[u3003 | 04:10:51.520-04:10:54.819 | DM] Half is twelve damage. Half is twelve here.
 [u3004 | 04:10:55.330-04:10:56.820 | Alimash] Did that
 [u3005 | 04:10:58.500-04:11:00.460 | Alimash] which one
 [u3006 | 04:11:01.310-04:11:07.929 | DM] going to use a legendary action to attack Rufus with its tail.
@@ -3018,9 +3018,9 @@
 [u3018 | 04:12:02.400-04:12:05.910 | DM] Okay, that is gone. Rufus loses concentration on it,
 [u3019 | 04:12:06.140-04:12:08.930 | DM] and that is going to be Alimash's turn
 [u3020 | 04:12:09.610-04:12:11.000 | Alimash] the
-[u3021 | 04:12:11.040-04:12:30.100 | Alimash] three that are surviving the sailors {{which one has the cause}}. Did it One get That's Hp: sucked away from it to heal the monster. Yeah, this one here as though most wounded. Okay. So I where, when we swim down, Where do we land on top of the golden triangle thing? I would just you guys
+[u3021 | 04:12:11.040-04:12:30.100 | Alimash] three that are surviving the sailors which one has the cause. Did it One get That's Hp: sucked away from it to heal the monster. Yeah, this one here as though most wounded. Okay. So I where, when we swim down, Where do we land on top of the golden triangle thing? I would just you guys
 [u3022 | 04:12:30.310-04:12:32.570 | Artem Novolozek] focused on like where you are.
-[u3023 | 04:12:34.280-04:12:36.689 | Alimash] Oh, {{I wouldn't focus fire}} on the aboleth.
+[u3023 | 04:12:34.280-04:12:36.689 | Alimash] Oh, I wouldn't focus fire on the aboleth.
 [u3024 | 04:12:36.970-04:12:40.730 | Alimash] Okay? So then I will jump down in melee range.
 [u3025 | 04:12:40.840-04:12:42.240 | Alimash] Right? Okay.
 [u3026 | 04:12:42.380-04:12:43.369 | Alimash] Here.
@@ -3081,7 +3081,7 @@
 [u3081 | 04:17:10.920-04:17:14.919 | Shoal] Okay, When that one that when the second one is,
 [u3082 | 04:17:15.810-04:17:18.939 | Shoal] i'll do the reaction on this one.
 [u3083 | 04:17:19.510-04:17:20.580 | DM] Okay?
-[u3084 | 04:17:24.480-04:17:36.620 | Shoal] Well, {{that's much shorter}}. If you roll two crits in a row which one are you doing it on the one that's stuck far away
+[u3084 | 04:17:24.480-04:17:36.620 | Shoal] Well, that's much shorter. If you roll two crits in a row which one are you doing it on the one that's stuck far away
 [u3085 | 04:17:36.770-04:17:42.919 | Artem Novolozek] as better to do it on one. No, it doesn't matter. Don't just don't do it on the one stuck far away, if possible.
 [u3086 | 04:17:43.090-04:17:49.569 | Shoal] It had to be because it's stuck far away. When they were walking in I was yeah
 [u3087 | 04:17:49.950-04:17:50.990 | DM] uh
@@ -3097,7 +3097,7 @@
 [u3097 | 04:18:39.010-04:18:41.810 | DM] now. Still a crit. It automatically hits.
 [u3098 | 04:18:42.720-04:18:45.410 | DM] Ah! So that's going to be
 [u3099 | 04:18:45.720-04:18:46.920 | DM] um
-[u3100 | 04:18:48.740-04:18:57.340 | DM] twelve points of damage, and they can make new Int saves to end to the minus 1d6 effect {{two at the end of twenty-one}}.
+[u3100 | 04:18:48.740-04:18:57.340 | DM] twelve points of damage, and they can make new Int saves to end to the minus 1d6 effect two at the end of twenty-one.
 [u3101 | 04:18:57.650-04:18:58.580 | Shoal] Yeah,
 [u3102 | 04:18:58.810-04:19:02.009 | DM] minus two. Is A nineteen does a nineteen hit.
 [u3103 | 04:19:02.030-04:19:03.659 | Shoal] That's my AC. Yeah,
@@ -3111,7 +3111,7 @@
 [u3111 | 04:19:41.430-04:19:43.780 | DM] Ah, that's a twenty
 [u3112 | 04:19:43.930-04:19:46.610 | DM] for this one who is no longer
 [u3113 | 04:19:46.700-04:19:48.240 | DM] confused.
-[u3114 | 04:19:48.550-04:19:52.750 | DM] {{Natural! Twenty, eight uh fourteen}}. This one is still confused,
+[u3114 | 04:19:48.550-04:19:52.750 | DM] Natural! Twenty, eight uh fourteen. This one is still confused,
 [u3115 | 04:19:52.930-04:19:54.600 | DM] and
 [u3116 | 04:19:55.720-04:20:01.479 | DM] the other one passed originally, the other, the other one passed originally. So one is still confused.
 [u3117 | 04:20:01.720-04:20:09.999 | DM] Ah! That ends their turns, and the aboleth will use one more legendary action to take another tail attack against Rufus
@@ -3142,7 +3142,7 @@
 [u3142 | 04:21:51.200-04:21:56.539 | DM] two, two d, six, plus one d eight plus four
 [u3143 | 04:21:56.630-04:22:03.940 | DM] and fourteen, so forty points of damage total, and it's looking. It's looking pretty rough off.
 [u3144 | 04:22:04.550-04:22:07.190 | DM] Ah, Wellby’s turn.
-[u3145 | 04:22:08.370-04:22:17.739 | DM] {{Got one show}}. It's gonna use a legendary action last legendary action to heal itself from the far away one
+[u3145 | 04:22:08.370-04:22:17.739 | DM] Got one show. It's gonna use a legendary action last legendary action to heal itself from the far away one
 [u3146 | 04:22:21.710-04:22:23.749 | Unknown] which is going to be
 [u3147 | 04:22:29.650-04:22:40.179 | DM] so. This one that's back here. It looks badly wounded, and uh the aboleth regains some health. Wellby, you’re up, after the two arrows from Rufus
 [u3148 | 04:22:42.440-04:22:52.000 | Wellby] Barrage into it the invisible Wellby gets to attack.
@@ -3169,7 +3169,7 @@
 [u3169 | 04:24:21.410-04:24:22.999 | DM] You better, for
 [u3170 | 04:24:23.090-04:24:24.660 | Alimash] Oh, that's better.
 [u3171 | 04:24:24.840-04:24:26.699 | DM] They did succeed.
-[u3172 | 04:24:29.810-04:24:35.620 | DM] {{How do my inspirations come}}? I I forgot at the end of the turn. Actually
+[u3172 | 04:24:29.810-04:24:35.620 | DM] How do my inspirations come? I I forgot at the end of the turn. Actually
 [u3173 | 04:24:35.780-04:24:40.059 | DM] so. Uh, no! Your inspiration is still there.
 [u3174 | 04:24:41.370-04:24:44.250 | DM] Ah, let's see. Ah,
 [u3175 | 04:24:45.480-04:24:52.419 | DM] Where's my map at the end of the turn before before that happens. But it's not going to affect that
@@ -3183,7 +3183,7 @@
 [u3183 | 04:25:39.900-04:25:49.659 | Shoal] I mean not. You're not forced to go, is it, my dear Gwendolyn? Or is it just some? It is your dear Gwendolyn. Oh, no,
 [u3184 | 04:25:50.180-04:25:52.150 | Shoal] Ah,
 [u3185 | 04:25:52.980-04:25:59.379 | Shoal] i'm gonna i'm gonna do a A. D twenty, and if it's above ten, I think i'm gonna start moving that way,
-[u3186 | 04:26:02.230-04:26:09.419 | Shoal] that one I resist love {{our guy}}
+[u3186 | 04:26:02.230-04:26:09.419 | Shoal] nat one, I resist love our guy
 [u3187 | 04:26:10.600-04:26:14.179 | DM] Um, that ends its turn. Artem. You're up.
 [u3188 | 04:26:14.640-04:26:19.100 | Artem Novolozek] Okay. Um. Does it look somewhat wounded?
 [u3189 | 04:26:19.440-04:26:23.190 | DM] Yeah. Badly wounded. It's bloodied for sure.
@@ -3198,7 +3198,7 @@
 [u3198 | 04:27:13.620-04:27:16.080 | Unknown] like you could go somewhere.
 [u3199 | 04:27:17.010-04:27:22.279 | DM] Yeah, you could go there and you could line it up. So you get the aboleth, and
 [u3200 | 04:27:23.100-04:27:28.660 | Artem Novolozek] I mean I don't want to be in melee range of the aboleth. Can I go like there and line it up.
-[u3201 | 04:27:30.600-04:27:36.519 | DM] Uh then you're going to get {{Artem—or, sorry, Alimash}}. Can I go to
+[u3201 | 04:27:30.600-04:27:36.519 | DM] Uh then you're going to get Artem—or, sorry, Alimash. Can I go to
 [u3202 | 04:27:39.970-04:27:45.040 | DM] That's out of your move because you don't have swim speed; you've only got three squares of movement.
 [u3203 | 04:27:45.240-04:27:47.000 | Artem Novolozek] Where am I coming through here?
 [u3204 | 04:27:47.560-04:27:51.949 | DM] You're coming through the you coming through the one square up from there. There.
@@ -3225,7 +3225,7 @@
 [u3225 | 04:29:23.640-04:29:26.400 | Artem Novolozek] Wait. I don't need to cast Shield until he
 [u3226 | 04:29:26.430-04:29:29.570 | Artem Novolozek] hits right. Ah, which is the nineteen,
 [u3227 | 04:29:30.050-04:29:32.520 | Artem Novolozek] so he will miss
-[u3228 | 04:29:33.020-04:29:36.330 | Artem Novolozek] my twenty Ac with {{an hour}}. Okay,
+[u3228 | 04:29:33.020-04:29:36.330 | Artem Novolozek] my twenty Ac with an hour. Okay,
 [u3229 | 04:29:36.490-04:29:39.439 | Artem Novolozek] No. Wait. Hold on. Yeah. My ac is twenty with shield,
 [u3230 | 04:29:39.460-04:29:40.919 | Artem Novolozek] so he'll miss.
 [u3231 | 04:29:44.340-04:29:47.380 | Artem Novolozek] I'll use the shield out of my ring.
@@ -3290,7 +3290,7 @@
 [u3290 | 04:34:31.020-04:34:33.280 | DM] the city of Medju.
 [u3291 | 04:34:33.480-04:34:41.559 | DM] And out at the top of the tower a rich lord sitting in conversation with a blue-skinned.
 [u3292 | 04:34:41.700-04:34:42.620 | DM] Ah!
-[u3293 | 04:34:43.340-04:34:47.390 | DM] {{Every feature}}. You recognize the djinn
+[u3293 | 04:34:43.340-04:34:47.390 | DM] airy creature. You recognize the djinn
 [u3294 | 04:34:48.050-04:34:49.200 | DM] and
 [u3295 | 04:34:49.310-04:34:50.330 | DM] um.
 [u3296 | 04:34:51.220-04:34:57.830 | DM] The djinn looks at you and whispers, I can grant you a wish if you come here
@@ -3307,7 +3307,7 @@
 [u3307 | 04:35:39.900-04:35:42.189 | DM] the wall, and the coral
 [u3308 | 04:35:42.590-04:35:44.620 | DM] reaches out around him.
 [u3309 | 04:35:44.910-04:35:46.010 | DM] Ah,
-[u3310 | 04:35:46.060-04:35:50.030 | DM] {{relation!}} Kill Eric's character when he's not here.
+[u3310 | 04:35:46.060-04:35:50.030 | DM] relation! Kill Eric's character when he's not here.
 [u3311 | 04:35:51.570-04:35:52.770 | DM] Ah!
 [u3312 | 04:35:56.090-04:36:01.120 | DM] He takes thirty five points of psychic damage
 [u3313 | 04:36:02.810-04:36:05.110 | DM] and falls unconscious.
@@ -3318,7 +3318,7 @@
 [u3318 | 04:36:26.980-04:36:30.820 | Artem Novolozek] that's gotta kill it.
 [u3319 | 04:36:31.740-04:36:37.309 | DM] How much is that? Twenty nine? That's that's very close.
 [u3320 | 04:36:38.110-04:36:43.080 | DM] It is badly wounded at this point it's um.
-[u3321 | 04:36:44.439-04:36:49.430 | DM] You know those arrows {{taking out event}} like you can see this like black bile beginning to
+[u3321 | 04:36:44.439-04:36:49.430 | DM] You know those arrows taking a lot out of it like you can see this like black bile beginning to
 [u3322 | 04:36:49.660-04:36:58.910 | DM] ooze out of it. It's like the like mucus is like forming a slime all around it, and it's going to use its legendary action. Last one
 [u3323 | 04:36:59.189-04:37:04.300 | DM] doesn't have enough left to heal. It is instead, going to tail. Swipe at
 [u3324 | 04:37:06.189-04:37:07.320 | DM] Artem
@@ -3338,13 +3338,13 @@
 [u3338 | 04:38:23.110-04:38:26.739 | DM] Ah, he doesn't want to run. He doesn't want to take that hit from
 [u3339 | 04:38:27.750-04:38:30.859 | DM] from Shoal. So he is going to wait.
 [u3340 | 04:38:31.200-04:38:34.100 | DM] Not do anything else. Artem, it is your turn.
-[u3341 | 04:38:34.779-04:38:37.210 | Artem Novolozek] All right, {{Mr. Adams}}.
+[u3341 | 04:38:34.779-04:38:37.210 | Artem Novolozek] All right, Mr. Adams.
 [u3342 | 04:38:39.110-04:38:40.610 | Artem Novolozek] Um,
 [u3343 | 04:38:40.669-04:38:43.080 | Artem Novolozek] I am just going to Lightning bolt
 [u3344 | 04:38:43.279-04:38:44.530 | Artem Novolozek] right like that.
 [u3345 | 04:38:45.630-04:38:49.260 | Artem Novolozek] I'm out of slots. So it's going to have to be a Fifth Level lightning bolt
-[u3346 | 04:38:50.230-04:38:59.949 | DM] That's probably gonna kill it. It's got a bad Dex save um {{Lossy roll}} that's a pretty good damage. I think that's plus two d6
-[u3347 | 04:39:03.990-04:39:12.690 | Artem Novolozek] uh unless it. Has. That's forty-six. If it fails its save and twenty-three. If it makes its save. Okay, {{if it fails, it saved it}}. Plus five on
+[u3346 | 04:38:50.230-04:38:59.949 | DM] That's probably gonna kill it. It's got a bad Dex save um lousy roll that's a pretty good damage. I think that's plus two d6
+[u3347 | 04:39:03.990-04:39:12.690 | Artem Novolozek] uh unless it. Has. That's forty-six. If it fails its save and twenty-three. If it makes its save. Okay, if it fails its save, it. Plus five on
 [u3348 | 04:39:15.720-04:39:19.069 | DM] and it's got a minus one. Let's see what that is. Nope!
 [u3349 | 04:39:20.000-04:39:21.490 | DM] The lightning
 [u3350 | 04:39:21.970-04:39:34.370 | DM] burst out of Artem's hands, just as you see Alimash beginning to turn and charge towards you and Crackle, striking this creature as it is,
@@ -3385,10 +3385,10 @@
 [u3385 | 04:42:11.630-04:42:19.129 | Shoal] Yeah, I'd probably be interested in the Wizards Tower, because it seems like that's where there'd be more interesting loot.
 [u3386 | 04:42:19.730-04:42:20.760 | Shoal] But
 [u3387 | 04:42:20.980-04:42:22.280 | Shoal] ah,
-[u3388 | 04:42:23.680-04:42:25.900 | Shoal] but either one {{we can create anything}}.
-[u3389 | 04:42:31.030-04:42:33.679 | Wellby] I don't have real strong feeling, either, {{by Western Star}}
-[u3390 | 04:42:34.010-04:42:36.950 | Wellby] {{who the tower was}}. Yeah,
-[u3391 | 04:42:37.520-04:42:44.450 | Wellby] {{hunting for excellent for the}} I don't know. I'm not being helpful. Yeah, it's a coin flip.
+[u3388 | 04:42:23.680-04:42:25.900 | Shoal] but either one we can create anything.
+[u3389 | 04:42:31.030-04:42:33.679 | Wellby] I don't have real strong feeling, either, but wizard's tower
+[u3390 | 04:42:34.010-04:42:36.950 | Wellby] who the tower was. Yeah,
+[u3391 | 04:42:37.520-04:42:44.450 | Wellby] hunting for excellent for the I don't know. I'm not being helpful. Yeah, it's a coin flip.
 [u3392 | 04:42:45.300-04:42:46.270 | DM] Okay,
 [u3393 | 04:42:46.350-04:42:54.880 | DM] I will. I will delete the fey incursion plot, hook and make it so. The only possible choice was the wizard’s tower. Excellent.
 [u3394 | 04:42:56.670-04:43:05.930 | DM] Okay, Okay, folks, I sorry. Just trying to squeeze everything into one session is a little bit more challenging than I, and like
