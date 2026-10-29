@@ -44,3 +44,211 @@ supplementalSources:
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/sources/dunmar-frontier-ep109-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 10264
+  issues: 0
+  artifacts:
+    original:
+      path: sources/Session-109-Chunk-01.identified-v2.vtt
+      sha256: 9824a4316c3a1e09f8f1ead397f5708d842aef024165c7e6c22cb84390076a0f
+    prepared:
+      path: cleaned/dunmari-frontier-109-source-prepared.md
+      sha256: e9d021c3a105baa3d5f146e3b2697856f6fae767f1782bcddfb4513f4d1c7b4d
+    cleaned:
+      path: cleaned/dunmari-frontier-109-source-cleaned.md
+      sha256: 60984b9033d83f894a0b0c6d491b3a294f857185dce974293035bf454d1e7f93
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-109-transcript.md
+      sha256: bc3f08c9837ed8f1553993327bf05e5c45b979655630ae6d05ec31e11aa4d69b
+  speakerCorrections:
+  - uid: u0120
+    start: 0
+    end: 25
+    speaker: Seeker
+  - uid: u1194
+    start: 0
+    end: 39
+    speaker: Seeker
+  - uid: u1424
+    start: 0
+    end: 32
+    speaker: DM
+  - uid: u2282
+    start: 0
+    end: 3
+    speaker: Kenzo
+  - uid: u2287
+    start: 0
+    end: 9
+    speaker: Kenzo
+  - uid: u7827
+    start: 0
+    end: 15
+    speaker: DM
+  - uid: u0290
+    start: 0
+    end: 13
+    speaker: Kenzo
+  - uid: u0498
+    start: 0
+    end: 13
+    speaker: Seeker
+  - uid: u3472
+    start: 0
+    end: 52
+    speaker: Kenzo
+  - uid: u3497
+    start: 0
+    end: 15
+    speaker: Kenzo
+  - uid: u3572
+    start: 0
+    end: 38
+    speaker: Kenzo
+  - uid: u3867
+    start: 0
+    end: 27
+    speaker: Delwath
+  - uid: u3856
+    start: 0
+    end: 43
+    speaker: Kenzo
+  - uid: u4007
+    start: 0
+    end: 22
+    speaker: Kenzo
+  - uid: u4752
+    start: 0
+    end: 21
+    speaker: Kenzo
+  - uid: u5662
+    start: 0
+    end: 18
+    speaker: Delwath
+  - uid: u5691
+    start: 0
+    end: 10
+    speaker: Seeker
+  - uid: u5693
+    start: 0
+    end: 9
+    speaker: Seeker
+  - uid: u5737
+    start: 0
+    end: 37
+    speaker: DM
+  - uid: u5819
+    start: 0
+    end: 43
+    speaker: Kenzo
+  - uid: u5821
+    start: 0
+    end: 36
+    speaker: Kenzo
+  - uid: u6429
+    start: 0
+    end: 48
+    speaker: Seeker
+  - uid: u6479
+    start: 0
+    end: 29
+    speaker: Seeker
+  - uid: u6427
+    start: 28
+    end: 44
+    speaker: Seeker
+  - uid: u7251
+    start: 0
+    end: 12
+    speaker: Wellby
+  - uid: u7255
+    start: 0
+    end: 40
+    speaker: Delwath
+  - uid: u7266
+    start: 0
+    end: 56
+    speaker: Delwath
+  - uid: u7290
+    start: 0
+    end: 40
+    speaker: Wellby
+  - uid: u7230
+    start: 0
+    end: 17
+    speaker: DM
+  - uid: u7242
+    start: 0
+    end: 28
+    speaker: Delwath
+  - uid: u7245
+    start: 0
+    end: 11
+    speaker: Delwath
+  - uid: u7247
+    start: 0
+    end: 26
+    speaker: Delwath
+  - uid: u7761
+    start: 0
+    end: 21
+    speaker: Delwath
+  - uid: u8701
+    start: 0
+    end: 22
+    speaker: Delwath
+  - uid: u8705
+    start: 0
+    end: 38
+    speaker: DM
+  - uid: u8707
+    start: 0
+    end: 26
+    speaker: DM
+  - uid: u9189
+    start: 0
+    end: 22
+    speaker: DM
+  - uid: u9227
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u9276
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u9348
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u9438
+    start: 0
+    end: 32
+    speaker: Delwath
+  - uid: u9496
+    start: 0
+    end: 41
+    speaker: DM
+  - uid: u9507
+    start: 0
+    end: 20
+    speaker: Seeker
+  - uid: u10203
+    start: 0
+    end: 26
+    speaker: DM
+  - uid: u6561
+    start: 0
+    end: 14
+    speaker: Delwath
+  - uid: u6563
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u6564
+    start: 0
+    end: 14
+    speaker: Kenzo
