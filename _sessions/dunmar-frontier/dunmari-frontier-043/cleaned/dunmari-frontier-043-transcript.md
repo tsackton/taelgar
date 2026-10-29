@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 43
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-043-source-cleaned.md
 
 ## Transcript
@@ -146,8 +146,8 @@ Unknown: Yeah.
 %% u0077:0-30 %%
 Seeker: There's dwarven Kingdom there?
 
-%% u0078:0-73, u0079:0-18, u0080:0-180, u0081:0-44, u0082:0-19, u0083:0-202, u0084:0-69 %%
-DM: Yeah there it's a dwarven kingdom made entirely of the refugees who fled that the southern area of the of the big mountains in the middle, like where {{couldn't are}} is, right, where God lives. There used to be a big dwarven kingdom underneath there, but it got completely destroyed by mind flayers and the Great War. So there were like huge migrations of dwarves across Dunmar in right after the Great War like 10s or hundreds of thousands of dwarves like walked across the country, and in fact saved the Dunmari a bunch of times because there was like this huge army of dwarves marching across the country.
+%% u0078:0-73, u0079:0-18, u0080:0-172, u0081:0-44, u0082:0-19, u0083:0-202, u0084:0-69 %%
+DM: Yeah there it's a dwarven kingdom made entirely of the refugees who fled that the southern area of the of the big mountains in the middle, like where Kunda is, right, where Drikod lives. There used to be a big dwarven kingdom underneath there, but it got completely destroyed by mind flayers and the Great War. So there were like huge migrations of dwarves across Dunmar in right after the Great War like 10s or hundreds of thousands of dwarves like walked across the country, and in fact saved the Dunmari a bunch of times because there was like this huge army of dwarves marching across the country.
 
 %% u0085:0-179 %%
 Kenzo: Interesting so are these like magical mountains or they just like mountains like actual geologic mountains that just got like from the force of cataclysmic whatever just got like?
@@ -200,8 +200,8 @@ DM: Partly it's because I didn't like the map, and so I had to change the map an
 %% u0111:0-5 %%
 Unknown: Nice.
 
-%% u0112:0-60, u0113:0-46, u0114:0-97 %%
-DM: There didn't used to be nearly as much land between Drankor to the West right like you could basically go you know 100 miles or 200 miles west of Drankor and then the coastlines started turning {{dark}}.
+%% u0112:0-60, u0113:0-46, u0114:0-94 %%
+DM: There didn't used to be nearly as much land between Drankor to the West right like you could basically go you know 100 miles or 200 miles west of Drankor and then the coastlines started turning north.
 
 %% u0115:0-3, u0116:0-67 %%
 Kenzo: And and once we get to Darba we were potentially looking for the cloak.
@@ -830,8 +830,8 @@ Seeker: Wait the Traveler is a dragon?
 %% u0520:0-29 %%
 Wellby: And gods who appears dragons.
 
-%% u0521:0-134, u0522:0-82, u0523:0-268 %%
-DM: Or powers that appears not not so much gods but like like the like first dragons back like way back before time began were like these insanely powerful like great wyrms like the sort of mythical dragons of magic and and all the subsequent dragons were created by them, right? And so {{she}} was like a dragon, basically, and there are other dragon gods around, but this is different from sort of normal dragons that populate the world, and those are like the offspring of the dragon gods.
+%% u0521:0-134, u0522:0-82, u0523:0-270 %%
+DM: Or powers that appears not not so much gods but like like the like first dragons back like way back before time began were like these insanely powerful like great wyrms like the sort of mythical dragons of magic and and all the subsequent dragons were created by them, right? And so Cha’mutte was like a dragon, basically, and there are other dragon gods around, but this is different from sort of normal dragons that populate the world, and those are like the offspring of the dragon gods.
 
 %% u0524:0-134 %%
 DM: Sort of equivalent to like the elves or the dwarves the like firstborn or the firstborn of the gods and then you know the race exists.
@@ -1505,8 +1505,8 @@ DM: And he prayed specifically to Aagir, ‘Just save me and I'll do whatever yo
 %% u0961:0-43, u0962:0-9, u0963:0-9, u0964:0-91 %%
 DM: And he woke up some time later is not sure how long when I'm in the back of a wagon listening to a strange language which he later learned was Dwarvish.
 
-%% u0965:0-40, u0966:0-7, u0967:0-29, u0968:0-44, u0969:0-166 %%
-DM: And spent the next 10 years of his life living among the dwarves of Askandi. Had having been rescued by a dwarven trader caravan of dwarven traders moving, traveling from Tokra to {{turn Turner}}, who fished him out of the river, convinced he was dead, but treated him the best they could.
+%% u0965:0-40, u0966:0-7, u0967:0-29, u0968:0-44, u0969:0-162 %%
+DM: And spent the next 10 years of his life living among the dwarves of Askandi. Had having been rescued by a dwarven trader caravan of dwarven traders moving, traveling from Tokra to Tharn Todor, who fished him out of the river, convinced he was dead, but treated him the best they could.
 
 %% u0970:0-20, u0971:0-64, u0972:0-6 %%
 DM: During that time he he spent a lot of his life wondering what he had been saved for. Until—
@@ -6275,8 +6275,8 @@ DM: I believe there is, you must have recovered quite a lot of items of value fr
 %% u3279:0-14 %%
 DM: We have money.
 
-%% u3280:0-115, u3281:0-89 %%
-DM: And much to trade before we {{turn back West and rot turn back East and ride to think}}, I would like to offer you some coin in exchange for perhaps some of the treasures you recovered from that creature.
+%% u3280:0-112, u3281:0-89 %%
+DM: And much to trade before we turn back west and ride—turn back east and ride to Tokra, I would like to offer you some coin in exchange for perhaps some of the treasures you recovered from that creature.
 
 %% u3282:0-38 %%
 DM: Would you be interested in discussing?

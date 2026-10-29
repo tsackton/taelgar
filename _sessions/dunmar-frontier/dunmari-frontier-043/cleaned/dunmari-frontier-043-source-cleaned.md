@@ -77,7 +77,7 @@
 [u0077 | 00:06:03.780-00:06:05.880 | Seeker] there's dwarven Kingdom there.
 [u0078 | 00:06:06.780-00:06:11.670 | DM] yeah there it's a dwarven kingdom made entirely of the refugees who fled.
 [u0079 | 00:06:13.050-00:06:14.520 | DM] That the southern.
-[u0080 | 00:06:16.350-00:06:26.340 | DM] Area of the of the big mountains in the middle, like where {{couldn't are}} is right, where God lives there used to be a big dwarven kingdom underneath there but it got completely.
+[u0080 | 00:06:16.350-00:06:26.340 | DM] Area of the of the big mountains in the middle, like where Kunda is right, where Drikod lives there used to be a big dwarven kingdom underneath there but it got completely.
 [u0081 | 00:06:28.200-00:06:30.540 | DM] destroyed by mind flayers and the Great War.
 [u0082 | 00:06:31.530-00:06:32.310 | DM] So there were like.
 [u0083 | 00:06:32.430-00:06:44.370 | DM] Huge migrations of dwarves across Dunmar in right after the Great War like 10s or hundreds of thousands of dwarves like walked across the country, and in fact saved the Dunmari a bunch of times because.
@@ -111,7 +111,7 @@
 [u0111 | 00:09:08.850-00:09:09.330 | Unknown] Nice.
 [u0112 | 00:09:12.360-00:09:15.120 | DM] There didn't used to be nearly as much land between Drankor.
 [u0113 | 00:09:17.250-00:09:19.860 | DM] To the West right like you could basically go.
-[u0114 | 00:09:21.090-00:09:26.760 | DM] You know 100 miles or 200 miles west of Drankor and then the coastlines started turning {{dark}}.
+[u0114 | 00:09:21.090-00:09:26.760 | DM] You know 100 miles or 200 miles west of Drankor and then the coastlines started turning north.
 [u0115 | 00:09:34.560-00:09:34.980 | Kenzo] and
 [u0116 | 00:09:37.050-00:09:40.440 | Kenzo] And once we get to Darba we were potentially looking for the cloak.
 [u0117 | 00:09:42.840-00:09:44.220 | DM] that's your theory yep.
@@ -520,7 +520,7 @@
 [u0520 | 00:47:36.900-00:47:38.610 | Wellby] And gods who appears dragons.
 [u0521 | 00:47:39.690-00:47:50.130 | DM] or powers that appears not not so much gods but like like the like first dragons back like way back before time began were like these.
 [u0522 | 00:47:51.060-00:47:58.350 | DM] insanely powerful like great wyrms like the sort of mythical dragons of magic and.
-[u0523 | 00:47:58.890-00:48:15.570 | DM] And all the subsequent dragons were created by them right and so {{she}} was like a dragon basically and there are other dragon gods around, but this is different from sort of normal dragons that populate the world, and those are like the offspring of the dragon gods.
+[u0523 | 00:47:58.890-00:48:15.570 | DM] And all the subsequent dragons were created by them right and so Cha’mutte was like a dragon basically and there are other dragon gods around, but this is different from sort of normal dragons that populate the world, and those are like the offspring of the dragon gods.
 [u0524 | 00:48:16.860-00:48:26.160 | DM] sort of equivalent to like the elves or the dwarves the like firstborn or the firstborn of the gods and then you know the race exists.
 [u0525 | 00:48:28.440-00:48:33.180 | DM] So this is definitely not like a dragon God roaming the world, but whether it's some kind of.
 [u0526 | 00:48:34.380-00:48:38.130 | DM] dragon kin or a young dragon they just don't really know.
@@ -966,7 +966,7 @@
 [u0966 | 01:28:01.380-01:28:02.040 | DM] Living.
 [u0967 | 01:28:03.180-01:28:05.310 | DM] Among the dwarves of Askandi.
 [u0968 | 01:28:06.480-01:28:10.410 | DM] Had having been rescued by a dwarven trader.
-[u0969 | 01:28:13.380-01:28:23.520 | DM] caravan of dwarven traders moving traveling from Tokra to {{turn Turner}} who fished him out of the River convinced, he was dead, but treated him the best they could.
+[u0969 | 01:28:13.380-01:28:23.520 | DM] caravan of dwarven traders moving traveling from Tokra to Tharn Todor who fished him out of the River convinced, he was dead, but treated him the best they could.
 [u0970 | 01:28:25.680-01:28:27.210 | DM] During that time he.
 [u0971 | 01:28:29.280-01:28:33.630 | DM] He spent a lot of his life wondering what he had been saved for.
 [u0972 | 01:28:35.100-01:28:35.880 | DM] Until.
@@ -3277,7 +3277,7 @@
 [u3277 | 04:21:59.910-04:22:05.790 | DM] recovered quite a lot of items of value from that creature Agata.
 [u3278 | 04:22:07.140-04:22:07.410 | DM] Ah.
 [u3279 | 04:22:08.820-04:22:09.690 | DM] We have money.
-[u3280 | 04:22:10.800-04:22:19.830 | DM] and much to trade before we {{turn back West and rot turn back East and ride to think}}, I would like to offer you.
+[u3280 | 04:22:10.800-04:22:19.830 | DM] and much to trade before we turn back west and ride—turn back east and ride to Tokra, I would like to offer you.
 [u3281 | 04:22:23.820-04:22:29.670 | DM] Some coin in exchange for perhaps some of the treasures you recovered from that creature.
 [u3282 | 04:22:32.280-04:22:34.920 | DM] Would you be interested in discussing.
 [u3283 | 04:22:37.410-04:22:40.470 | DM] I do have quite a lot of coin.

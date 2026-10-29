@@ -40,3 +40,35 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-043/sources/zoom-session-043.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 3706
+  issues: 3
+  artifacts:
+    original:
+      path: sources/merged.transcript.vtt
+      sha256: 41bbc4a4567e0e61be33f7043e580e6e3880142a18219484284b169ce574c5e5
+    prepared:
+      path: cleaned/dunmari-frontier-043-source-prepared.md
+      sha256: 16fde57ed3f841878d47961f5c722c315c462bcf125cbb1875b1c798969e8fe1
+    cleaned:
+      path: cleaned/dunmari-frontier-043-source-cleaned.md
+      sha256: a06c9f5f6eb71c6dc092418cd4552fc93eeccec210d0b23291326f1d4107055e
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-043-transcript.md
+      sha256: 1327c9364464c829ad7990da41f6b00e21f423bdf730c9c924e3481e5cdb5a68
+  speakerCorrections:
+  - uid: u2542
+    start: 0
+    end: 85
+    speaker: Riswynn
+  - uid: u2543
+    start: 0
+    end: 38
+    speaker: Riswynn
+  - uid: u2556
+    start: 0
+    end: 23
+    speaker: Riswynn
