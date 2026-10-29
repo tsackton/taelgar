@@ -118,7 +118,7 @@
 [u0118 | 00:07:58.240-00:07:59.809 | Seeker] I can't tell you actually
 [u0119 | 00:07:59.850-00:08:02.460 | Seeker] what color it is right now, because Tim will have to say
 [u0120 | 00:08:04.180-00:08:05.960 | DM] it's
-[u0121 | 00:08:06.310-00:08:07.810 | DM] {{a dog r}}
+[u0121 | 00:08:06.310-00:08:07.810 | DM] a dark red
 [u0122 | 00:08:12.380-00:08:13.290 | Unknown] So Seeker.
 [u0123 | 00:08:13.460-00:08:14.610 | Seeker] twists it around and
 [u0124 | 00:08:14.650-00:08:15.620 | Unknown] holds it up to the light
@@ -133,9 +133,9 @@
 [u0133 | 00:08:35.330-00:08:39.389 | Seeker] pale white streak that wasn't there before down the center of his head.
 [u0134 | 00:08:45.990-00:08:47.219 | Seeker] And he's also got
 [u0135 | 00:08:48.030-00:08:49.180 | Seeker] the strange
-[u0136 | 00:08:49.320-00:08:50.320 | Seeker] {{that}}
+[u0136 | 00:08:49.320-00:08:50.320 | Seeker] gauntlet
 [u0137 | 00:08:50.940-00:08:52.060 | Seeker] but just one
-[u0138 | 00:08:53.540-00:08:55.360 | Kenzo] {{as you got the wet.}}
+[u0138 | 00:08:53.540-00:08:55.360 | Kenzo] Has he got the what?
 [u0139 | 00:08:55.400-00:08:56.269 | Seeker] but just one
 [u0140 | 00:08:57.580-00:08:58.709 | Wellby] which hand is it?
 [u0141 | 00:09:00.400-00:09:01.730 | Seeker] Oh, I didn't think about that.
@@ -143,8 +143,8 @@
 [u0143 | 00:09:07.420-00:09:09.590 | Kenzo] Does that have any like giant stones in it?
 [u0144 | 00:09:12.380-00:09:13.629 | Seeker] He's he's not
 [u0145 | 00:09:14.610-00:09:16.779 | Seeker] wearing it on his hand at the moment it's at
-[u0146 | 00:09:17.270-00:09:18.110 | Unknown] {{Advice}}
-[u0147 | 00:09:18.270-00:09:19.839 | Seeker] {{firm was built, but}}
+[u0146 | 00:09:17.270-00:09:18.110 | Unknown] Advice
+[u0147 | 00:09:18.270-00:09:19.839 | Seeker] from his belt, but
 [u0148 | 00:09:20.260-00:09:21.550 | Seeker] you notice it
 [u0149 | 00:09:21.600-00:09:23.480 | Seeker] a little bit with 2 gemstones.
 [u0150 | 00:09:30.020-00:09:33.680 | Wellby] Well, Wellby, I think, is just arriving
@@ -211,7 +211,7 @@
 [u0211 | 00:14:24.860-00:14:26.880 | Caulaus] so he he calls out,
 [u0212 | 00:14:27.180-00:14:27.980 | Caulaus] at
 [u0213 | 00:14:28.210-00:14:29.160 | Caulaus] in.
-[u0214 | 00:14:29.990-00:14:31.960 | Caulaus] They're ready to you. Speak, Craig?
+[u0214 | 00:14:29.990-00:14:31.960 | Caulaus] David, do you speak Drankorian?
 [u0215 | 00:14:33.830-00:14:40.770 | Caulaus] Yeah, I do, he he calls out. Just a hello in Drankorian.
 [u0216 | 00:14:40.940-00:14:41.870 | Caulaus] And then
 [u0217 | 00:14:43.370-00:14:45.239 | Kenzo] do Seeker and I know who this is.
@@ -270,7 +270,7 @@
 [u0270 | 00:17:50.020-00:17:50.909 | Unknown] there? It is
 [u0271 | 00:17:51.720-00:17:52.600 | Kenzo] a 9.
 [u0272 | 00:17:55.020-00:17:56.739 | DM] No, I mean. There's
-[u0273 | 00:17:56.860-00:17:58.140 | DM] you, you add.
+[u0273 | 00:17:56.860-00:17:58.140 | DM] you, you had.
 [u0274 | 00:17:59.040-00:18:05.540 | DM] studied this long, long list of Drankorian, and then Chardonian emperors
 [u0275 | 00:18:07.070-00:18:18.059 | DM] at 1 point in with Kaeso, and he was sort of like you don't care about this. I don't care about this. It was like it was like that time I skimmed that George R. R. Martin book.
 [u0276 | 00:18:18.120-00:18:19.750 | DM] Yeah, exactly.
@@ -280,7 +280,7 @@
 [u0280 | 00:18:31.890-00:18:34.669 | Seeker] apparently this is our one chance to get home.
 [u0281 | 00:18:36.810-00:18:39.180 | Caulaus] You must have some news of the world.
 [u0282 | 00:18:40.150-00:18:41.320 | Caulaus] It can't have been
-[u0283 | 00:18:42.390-00:18:43.470 | Unknown] that one
+[u0283 | 00:18:42.390-00:18:43.470 | Unknown] that long
 [u0284 | 00:18:44.810-00:18:46.810 | Caulaus] Drankor still stands. Yes.
 [u0285 | 00:18:48.030-00:18:49.939 | Seeker] not as far as we know.
 [u0286 | 00:18:52.050-00:18:54.340 | Kenzo] So sad news about that.
@@ -296,7 +296,7 @@
 [u0296 | 00:19:22.730-00:19:23.510 | Kenzo] we're at.
 [u0297 | 00:19:24.190-00:19:25.860 | Kenzo] Oh, in the future.
 [u0298 | 00:19:27.390-00:19:27.980 | Unknown] Yeah.
-[u0299 | 00:19:34.510-00:19:36.430 | Caulaus] does pass strangely, but
+[u0299 | 00:19:34.510-00:19:36.430 | Caulaus] Time does pass strangely, but
 [u0300 | 00:19:37.390-00:19:39.379 | Caulaus] Drankor can't have been forgotten.
 [u0301 | 00:19:40.850-00:19:42.030 | Seeker] We know of Drankor.
 [u0302 | 00:19:42.990-00:19:45.870 | Kenzo] I speak in Drankorian to him it is not forgotten.
@@ -335,7 +335,7 @@
 [u0335 | 00:21:30.100-00:21:32.269 | Caulaus] but I cannot for some reason.
 [u0336 | 00:21:33.020-00:21:33.760 | Caulaus] and
 [u0337 | 00:21:33.900-00:21:35.320 | Caulaus] the griffins
-[u0338 | 00:21:35.510-00:21:39.459 | Caulaus] were flying overhead. I remember that. {{Why, that nothing at}}
+[u0338 | 00:21:35.510-00:21:39.459 | Caulaus] were flying overhead. I remember that. Why, that nothing at
 [u0339 | 00:21:41.960-00:21:43.070 | Caulaus] But there was a
 [u0340 | 00:21:43.090-00:21:45.000 | Caulaus] there was a there was a dragon
 [u0341 | 00:21:45.290-00:21:46.400 | Caulaus] dragons.
@@ -386,8 +386,8 @@
 [u0386 | 00:24:19.120-00:24:22.749 | Caulaus] I do not remember more, but I assume it was not killed.
 [u0387 | 00:24:23.160-00:24:27.879 | Seeker] Tim. This thing, apart from what we've seen with Grash, this thing of like raising
 [u0388 | 00:24:28.220-00:24:29.609 | Seeker] the dead in battle.
-[u0389 | 00:24:29.830-00:24:30.900 | Seeker] {{His last name.}}
-[u0390 | 00:24:31.560-00:24:32.360 | Seeker] {{You like it.}}
+[u0389 | 00:24:29.830-00:24:30.900 | Seeker] His last name.
+[u0390 | 00:24:31.560-00:24:32.360 | Seeker] You like it.
 [u0391 | 00:24:32.840-00:24:35.450 | Seeker] or is it extremely rare?
 [u0392 | 00:24:36.910-00:24:41.160 | DM] It would require powerful magic to the best of your knowledge. But it's
 [u0393 | 00:24:41.950-00:24:45.999 | DM] I mean, Certainly this sort of thing happens in stories and
@@ -404,7 +404,7 @@
 [u0404 | 00:25:20.860-00:25:21.450 | Unknown] Possible
 [u0405 | 00:25:22.810-00:25:28.939 | DM] powerful. But I mean it's the sort it's sort of like dragons right? It's like there's plenty of tales of it, but
 [u0406 | 00:25:29.120-00:25:30.010 | DM] you know
-[u0407 | 00:25:33.070-00:25:35.729 | Seeker] most people with them to have.
+[u0407 | 00:25:33.070-00:25:35.729 | Seeker] Most people wouldn't have.
 [u0408 | 00:25:36.000-00:25:37.439 | DM] Yeah, exactly.
 [u0409 | 00:25:40.740-00:25:45.259 | Wellby] Do you know of a black tower on a perfectly circular island in the sea.
 [u0410 | 00:25:50.210-00:25:53.009 | Caulaus] I'm looking at Tim here.
@@ -473,13 +473,13 @@
 [u0473 | 00:29:29.840-00:29:30.710 | Seeker] friends.
 [u0474 | 00:29:31.170-00:29:33.220 | Seeker] You're traveling between the planes.
 [u0475 | 00:29:33.390-00:29:37.850 | Seeker] What I at least I've always dreamed to do. It's not so
-[u0476 | 00:29:38.810-00:29:41.279 | Seeker] {{the the and fluid of transition is.}}
+[u0476 | 00:29:38.810-00:29:41.279 | Seeker] the the and fluid of transition is.
 [u0477 | 00:29:41.570-00:29:42.990 | Seeker] I hope, but we're learning
 [u0478 | 00:29:45.150-00:29:46.770 | Seeker] This is a strange place.
 [u0479 | 00:29:47.160-00:29:48.670 | Seeker] Where's Delwath the Wild.
 [u0480 | 00:29:49.430-00:29:51.319 | Seeker] I don't know you haven't seen him
 [u0481 | 00:29:53.050-00:29:54.180 | Caulaus] who is Delwath.
-[u0482 | 00:29:56.060-00:29:57.720 | Kenzo] Is this the {{Mon itself}}?
+[u0482 | 00:29:56.060-00:29:57.720 | Kenzo] Is this the one that's all
 [u0483 | 00:29:57.830-00:30:00.890 | Kenzo] Don't worry about him. Yeah. Bent on destroying the world is fine.
 [u0484 | 00:30:00.930-00:30:02.300 | Kenzo] very shadowy, dark.
 [u0485 | 00:30:04.350-00:30:06.130 | Seeker] And yet somehow, my friend.
@@ -500,7 +500,7 @@
 [u0500 | 00:31:02.210-00:31:05.010 | Wellby] and
 [u0501 | 00:31:09.170-00:31:19.409 | Wellby] a lot of things happened. But long story short. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.
 [u0502 | 00:31:20.020-00:31:24.220 | Seeker] I I hate to cut your story short. Apparently I didn't. It was very.
-[u0503 | 00:31:24.330-00:31:26.100 | Seeker] It's the thing to put. But
+[u0503 | 00:31:24.330-00:31:26.100 | Seeker] succinctly put. But
 [u0504 | 00:31:28.440-00:31:29.840 | Seeker] i'm hearing from
 [u0505 | 00:31:30.550-00:31:36.499 | Seeker] Typhina, the fey spirit trapped in this in this ring that we collected from Agata's lair
 [u0506 | 00:31:36.810-00:31:38.140 | Seeker] that
@@ -649,7 +649,7 @@
 [u0649 | 00:39:35.110-00:39:36.870 | Caulaus] scout all directions.
 [u0650 | 00:39:39.410-00:39:42.710 | Caulaus] but he seems like he knows where he's going. Come.
 [u0651 | 00:39:43.190-00:39:44.490 | Caulaus] companions.
-[u0652 | 00:39:44.760-00:39:47.759 | Caulaus] I think we should do. Is this
+[u0652 | 00:39:44.760-00:39:47.759 | Caulaus] I think we should do as this
 [u0653 | 00:39:48.750-00:39:50.570 | Caulaus] Typhina? Says I,
 [u0654 | 00:39:53.080-00:39:55.150 | Caulaus] are the creatures gaining on us?
 [u0655 | 00:39:57.990-00:40:02.539 | Kenzo] they do seem to be gaining on you a little bit. So I soul-sight Caulaus.
@@ -759,7 +759,7 @@
 [u0759 | 00:47:05.800-00:47:06.830 | Seeker] it's the new ladder.
 [u0760 | 00:47:07.550-00:47:11.780 | Seeker] I think the first ladder was destroyed. The trusty ladder was destroyed by the
 [u0761 | 00:47:11.930-00:47:12.930 | Seeker] I have a ladder
-[u0762 | 00:47:13.820-00:47:14.890 | Seeker] or somebody desks.
+[u0762 | 00:47:13.820-00:47:14.890 | Seeker] or somebody does.
 [u0763 | 00:47:14.940-00:47:19.960 | Caulaus] I mean Tim. These These pillars like the hope is that there's like an underhang or something, so that
 [u0764 | 00:47:20.360-00:47:22.520 | Caulaus] they would have to land and come at us to come.
 [u0765 | 00:47:23.150-00:47:24.979 | DM] Yeah, yeah, yeah.
@@ -768,7 +768,7 @@
 [u0768 | 00:47:31.230-00:47:32.479 | Seeker] all 3.
 [u0769 | 00:47:33.500-00:47:34.390 | DM] Okay.
 [u0770 | 00:47:36.400-00:47:41.890 | DM] You as you land as you sort of approach the pillar, they've now gotten to be about
-[u0771 | 00:47:42.140-00:47:42.899 | DM] and out
+[u0771 | 00:47:42.140-00:47:42.899 | DM] and about
 [u0772 | 00:47:43.390-00:47:46.479 | DM] 300 5,300 feet away.
 [u0773 | 00:47:46.830-00:47:51.360 | DM] And you find so so this giant pillar of rock there is a
 [u0774 | 00:47:51.550-00:47:55.010 | DM] there's an overhang that stretches out maybe
@@ -843,14 +843,14 @@
 [u0843 | 00:52:05.670-00:52:09.259 | Caulaus] Yes, You see, 14
 [u0844 | 00:52:11.250-00:52:12.660 | Wellby] strong rolls.
 [u0845 | 00:52:14.360-00:52:16.830 | DM] Yeah.
-[u0846 | 00:52:17.650-00:52:20.489 | Seeker] Seeker is not just kind of
-[u0847 | 00:52:21.210-00:52:22.160 | DM] hot.
+[u0846 | 00:52:17.650-00:52:20.489 | Seeker] Seeker is now just kind of
+[u0847 | 00:52:21.210-00:52:22.160 | DM] caught.
 [u0848 | 00:52:25.670-00:52:30.890 | DM] standing there, I would say, kind of unsure as to what to do at the
 [u0849 | 00:52:32.550-00:52:35.600 | Seeker] that must be a very confusing sensation to be charmed, and then
 [u0850 | 00:52:35.710-00:52:38.689 | DM] we have a
 [u0851 | 00:52:38.810-00:52:43.550 | DM] which are still like plunging down out of the sky, heading for Seeker
 [u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. Dasoclese
-[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us Dasoclese. This echo is basically that's the quizzer's got to be Typhina's
+[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us Dasoclese. This echo is basically—Dasoclese has got to be Typhina's
 [u0854 | 00:52:57.460-00:53:00.450 | Caulaus] true name, or something like that, or fey name, or
 [u0855 | 00:53:01.120-00:53:03.280 | Seeker] maybe it's Caulaus. Who knows
 [u0856 | 00:53:04.540-00:53:09.579 | Caulaus] the we? We have no Dasoclese, no argument here.
@@ -972,7 +972,7 @@
 [u0972 | 01:01:03.880-01:01:05.290 | DM] come.
 [u0973 | 01:01:05.500-01:01:06.549 | DM] Follow me!
 [u0974 | 01:01:06.690-01:01:09.160 | DM] We will take our revenge together.
-[u0975 | 01:01:09.950-01:01:11.689 | Unknown] {{Vandasa, please.}}
+[u0975 | 01:01:09.950-01:01:11.689 | Unknown] on Dasoclese.
 [u0976 | 01:01:13.160-01:01:16.789 | Seeker] yes, revenge on whoever that may be.
 [u0977 | 01:01:17.000-01:01:21.749 | Wellby] Dasoclese! Yes, Who is that? Can I shoot her?
 [u0978 | 01:01:22.210-01:01:23.579 | DM] Yeah, you can see her.
@@ -1071,7 +1071,7 @@
 [u1071 | 01:08:19.800-01:08:22.200 | Kenzo] Yeah. Stunning Strike. Then we'll just knock them out right.
 [u1072 | 01:08:22.640-01:08:26.239 | DM] it stuns them. Yup! Go ahead and make your attack. I will do that.
 [u1073 | 01:08:26.819-01:08:30.690 | Kenzo] Can I do Stunning Strike with my—I do a Stunning Strike with my staff as well as—yeah.
-[u1074 | 01:08:30.800-01:08:31.899 | Kenzo] All right for me to see you.
+[u1074 | 01:08:30.800-01:08:31.899 | Kenzo] All right, let me see here.
 [u1075 | 01:08:36.490-01:08:40.789 | DM] 13 hits. Yeah, They're pretty easy to hit.
 [u1076 | 01:08:40.880-01:08:42.450 | Kenzo] Okay, Great. And then I will.
 [u1077 | 01:08:42.510-01:08:43.450 | DM] As an
@@ -1114,7 +1114,7 @@
 [u1114 | 01:11:12.010-01:11:18.550 | Caulaus] Yeah. And actually it 2 points of damage. Yeah, it also takes one d 4 extra damage
 [u1115 | 01:11:19.380-01:11:22.390 | Caulaus] from my dreadful strike.
 [u1116 | 01:11:24.480-01:11:26.120 | DM] Okay, that one
-[u1117 | 01:11:27.880-01:11:29.440 | Kenzo] inoculate I one
+[u1117 | 01:11:27.880-01:11:29.440 | Kenzo] Don't kill that one.
 [u1118 | 01:11:29.660-01:11:30.990 | DM] also dies.
 [u1119 | 01:11:31.230-01:11:33.960 | Kenzo] I yelled out that they're cursed. We're trying to like not kill them right
 [u1120 | 01:11:34.260-01:11:35.040 | Unknown] is that
@@ -1198,7 +1198,7 @@
 [u1198 | 01:16:34.710-01:16:36.869 | Wellby] Listen, land and talk.
 [u1199 | 01:16:38.360-01:16:40.840 | Wellby] I'll spare your life. So we spared those 2?
 [u1200 | 01:16:42.500-01:16:46.090 | DM] It hisses and it says.
-[u1201 | 01:16:46.620-01:16:48.290 | DM] {{in waging for Demo.}}
+[u1201 | 01:16:46.620-01:16:48.290 | DM] been waiting for
 [u1202 | 01:16:48.960-01:16:50.630 | DM] Dasoclese
 [u1203 | 01:16:51.770-01:16:53.800 | DM] many, many years.
 [u1204 | 01:16:55.230-01:16:57.089 | Wellby] So it sounds like you're not in a hurry.
@@ -1209,7 +1209,7 @@
 [u1209 | 01:17:13.650-01:17:19.840 | DM] Yes, this one's badly all right. How far away are we from everyone else like 100 feet.
 [u1210 | 01:17:20.340-01:17:21.080 | Unknown] all right.
 [u1211 | 01:17:21.110-01:17:23.010 | Wellby] so i'll raise my hand.
-[u1212 | 01:17:23.310-01:17:30.929 | Wellby] Who are you talking about? Who is {{Jacob}}? Why are you waiting? How come those 2 changed back into elf fairy people.
+[u1212 | 01:17:23.310-01:17:30.929 | Wellby] Who are you talking about? Who is Dasoclese? Why are you waiting? How come those 2 changed back into elf fairy people.
 [u1213 | 01:17:31.160-01:17:32.420 | Wellby] What's going on here?
 [u1214 | 01:17:38.200-01:17:40.440 | DM] So many questions
 [u1215 | 01:17:42.950-01:17:43.570 | DM] He
@@ -1250,7 +1250,7 @@
 [u1250 | 01:19:55.680-01:19:56.859 | Seeker] the her.
 [u1251 | 01:19:58.690-01:20:00.740 | Seeker] and everything that they know about that.
 [u1252 | 01:20:01.820-01:20:02.599 | Unknown] See?
-[u1253 | 01:20:04.860-01:20:06.470 | Seeker] Start with a Jessic question
+[u1253 | 01:20:04.860-01:20:06.470 | Seeker] Start with a basic question
 [u1254 | 01:20:06.830-01:20:07.880 | Seeker] and definitely.
 [u1255 | 01:20:12.740-01:20:16.130 | Wellby] what about where Agata's home is in the Feywild
 [u1256 | 01:20:16.350-01:20:22.900 | Caulaus] Metagame. I was thinking that, too. I don't. I don't know if they would necessarily know.
@@ -1330,9 +1330,9 @@
 [u1330 | 01:25:36.110-01:25:37.740 | Seeker] I sometimes think
 [u1331 | 01:25:41.660-01:25:42.809 | Caulaus] I did.
 [u1332 | 01:25:43.620-01:25:45.210 | Caulaus] Maybe i'd remember
-[u1333 | 01:25:49.950-01:25:52.019 | Wellby] well Trask in a herpan. Where?
+[u1333 | 01:25:49.950-01:25:52.019 | Wellby] Well, ask the harpy. Where?
 [u1334 | 01:25:52.240-01:25:53.849 | Wellby] Where is the Cloudspinner?
-[u1335 | 01:25:56.030-01:25:57.979 | Wellby] We've got some time. We'll go for you.
+[u1335 | 01:25:56.030-01:25:57.979 | Wellby] We've got some time. We'll go free her.
 [u1336 | 01:26:04.120-01:26:06.219 | DM] The harpy begins to.
 [u1337 | 01:26:06.660-01:26:07.820 | DM] fly off and
 [u1338 | 01:26:12.150-01:26:14.209 | DM] got your 3 questions.
@@ -1435,7 +1435,7 @@
 [u1435 | 01:31:31.730-01:31:33.459 | DM] I was young when I
 [u1436 | 01:31:34.910-01:31:37.099 | DM] took on the guardianship and
 [u1437 | 01:31:38.090-01:31:40.250 | DM] faced Agata.
-[u1438 | 01:31:40.910-01:31:43.850 | Seeker] {{and that which they see prevent more than that}}
+[u1438 | 01:31:40.910-01:31:43.850 | Seeker] and that's what they seek revenge for, then, that
 [u1439 | 01:31:44.360-01:31:45.500 | Seeker] since. Because
 [u1440 | 01:31:47.150-01:31:47.719 | Unknown] yeah.
 [u1441 | 01:31:52.860-01:31:53.690 | DM] They did
@@ -1564,7 +1564,7 @@
 [u1564 | 01:41:11.420-01:41:19.550 | DM] But there's nothing like it's nothing at all like the god trees of the Deno'qai or something, and these aren't like huge trees that stretch up to the sky.
 [u1565 | 01:41:21.980-01:41:23.549 | DM] And then you can see
 [u1566 | 01:41:24.470-01:41:27.210 | DM] out of your way from the grove. But
-[u1567 | 01:41:27.520-01:41:28.269 | DM] Bum
+[u1567 | 01:41:27.520-01:41:28.269 | DM] Um
 [u1568 | 01:41:28.360-01:41:29.640 | Kenzo] should be west and.
 [u1569 | 01:41:29.930-01:41:31.320 | Kenzo] Do I see a side quest?
 [u1570 | 01:41:33.460-01:41:37.470 | Caulaus] You see what looks like
@@ -1610,7 +1610,7 @@
 [u1610 | 01:44:41.240-01:44:44.249 | DM] But it's dry now, so there's no way to travel.
 [u1611 | 01:44:44.720-01:44:47.019 | Seeker] It flows towards the past, and it's interesting.
 [u1612 | 01:44:48.580-01:44:49.730 | Kenzo] There's no water there.
-[u1613 | 01:44:50.170-01:45:03.059 | DM] Yeah, it's completely dry. There's no water. But you still sort of feel that vibration, and we are like, so this picture is our. This immersive background is an accurate there's no water. Yeah, yeah, this is You're on your way to this immersive.
+[u1613 | 01:44:50.170-01:45:03.059 | DM] Yeah, it's completely dry. There's no water. But you still sort of feel that vibration, and we are like, so this picture is our. This immersive background is inaccurate there's no water. Yeah, yeah, this is You're on your way to this immersive.
 [u1614 | 01:45:03.120-01:45:04.669 | DM] You're crossing the river. But
 [u1615 | 01:45:06.190-01:45:11.090 | DM] But then, on the other side of the river there's a stand of dead trees.
 [u1616 | 01:45:12.090-01:45:17.790 | DM] where there is a little pool of water gathered, and in that stand of dead trees.
@@ -1693,7 +1693,7 @@
 [u1693 | 01:50:10.640-01:50:13.079 | Wellby] It might be slowed down.
 [u1694 | 01:50:13.290-01:50:14.690 | DM] but it's hard to tell
 [u1695 | 01:50:15.630-01:50:20.870 | DM] like it's not like, you know. Oh, 3 days has passed since you got here right.
-[u1696 | 01:50:21.490-01:50:24.650 | DM] Some will not. Any time has passed, but it's hard to say exactly how much.
+[u1696 | 01:50:21.490-01:50:24.650 | DM] Some amount of time has passed, but it's hard to say exactly how much.
 [u1697 | 01:50:25.720-01:50:28.840 | DM] but not in not a week or not, you know.
 [u1698 | 01:50:31.760-01:50:32.420 | Wellby] Okay.
 [u1699 | 01:50:33.910-01:50:37.350 | Kenzo] then, what's the flora and fauna situation here in the grotto.
@@ -1712,7 +1712,7 @@
 [u1712 | 01:51:25.620-01:51:26.219 | Unknown] just
 [u1713 | 01:51:26.410-01:51:34.929 | DM] slightly moving the waters below, but it's quite murky, so it's difficult to see much, and sorry I metagame. We're here again, because in the Grotto, because
 [u1714 | 01:51:35.720-01:51:36.500 | Seeker] there's a nymph.
-[u1715 | 01:51:37.420-01:51:38.979 | Seeker] that Typhina in the chair.
+[u1715 | 01:51:37.420-01:51:38.979 | Seeker] that Typhina mentioned.
 [u1716 | 01:51:40.140-01:51:40.929 | Kenzo] What's that?
 [u1717 | 01:51:41.130-01:51:42.890 | Kenzo] Is that the nymph that Typhina mentioned?
 [u1718 | 01:51:43.150-01:51:44.190 | Unknown] Yeah.
@@ -1836,7 +1836,7 @@
 [u1836 | 01:59:03.430-01:59:06.649 | DM] mislead the unwary and keep there.
 [u1837 | 01:59:07.040-01:59:08.860 | DM] true identities safe
 [u1838 | 01:59:09.870-01:59:11.540 | Seeker] that I was
-[u1839 | 01:59:12.180-01:59:15.060 | DM] {{done by any name of this creature.}}
+[u1839 | 01:59:12.180-01:59:15.060 | DM] done by any name of this creature.
 [u1840 | 01:59:18.150-01:59:20.520 | DM] I doubt Agata was her true name.
 [u1841 | 01:59:23.200-01:59:24.269 | Seeker] Fair enough
 [u1842 | 01:59:27.150-01:59:28.900 | Kenzo] that you only knew her as Agata.
@@ -1854,7 +1854,7 @@
 [u1854 | 02:00:13.200-02:00:14.960 | DM] and I wore it until
 [u1855 | 02:00:16.120-02:00:17.090 | DM] Agata
 [u1856 | 02:00:17.890-02:00:18.960 | DM] stole
-[u1857 | 02:00:20.430-02:00:22.430 | DM] from the {{festival}} from the
+[u1857 | 02:00:20.430-02:00:22.430 | DM] from the festival from the
 [u1858 | 02:00:22.980-02:00:24.340 | DM] Heartwood Grove
 [u1859 | 02:00:26.770-02:00:30.959 | DM] after Cloudspinner passed or vanished. Whatever happened to her
 [u1860 | 02:00:32.000-02:00:34.030 | DM] protections were weaker, and
@@ -2071,7 +2071,7 @@
 [u2071 | 02:13:35.990-02:13:36.920 | Kenzo] Oh, no.
 [u2072 | 02:13:36.970-02:13:37.599 | Caulaus] no!
 [u2073 | 02:13:38.000-02:13:39.050 | Caulaus] It's a
-[u2074 | 02:13:39.270-02:13:41.080 | Kenzo] tahini. A hand
+[u2074 | 02:13:39.270-02:13:41.080 | Kenzo] Typhina. A hand
 [u2075 | 02:13:41.860-02:13:45.019 | DM] white and wrinkled, starts to reach out of the tree.
 [u2076 | 02:13:45.320-02:13:46.150 | Seeker] we
 [u2077 | 02:13:46.360-02:13:48.520 | Kenzo] that any I I need
@@ -2214,7 +2214,7 @@
 [u2214 | 02:32:17.780-02:32:20.190 | DM] They show up in D and D. Beyond. That's fine.
 [u2215 | 02:32:20.450-02:32:21.270 | Kenzo] I'll let it.
 [u2216 | 02:32:23.170-02:32:24.260 | DM] yeah.
-[u2217 | 02:32:25.180-02:32:30.620 | Caulaus] maybe you're going to have extension very missile to for for to just switch Kenzo, and
+[u2217 | 02:32:25.180-02:32:30.620 | Caulaus] maybe you're going to have extension very reasonable to for for to just switch Kenzo, and
 [u2218 | 02:32:30.790-02:32:31.519 | Caulaus] Wellby
 [u2219 | 02:32:34.180-02:32:37.420 | Caulaus] as well. Yeah, he's making the first. Yeah, yeah, let's do that.
 [u2220 | 02:32:37.590-02:32:38.420 | DM] Because
@@ -2481,7 +2481,7 @@
 [u2481 | 02:49:23.080-02:49:26.989 | Kenzo] and I like, Get down, and like, just knock her out.
 [u2482 | 02:49:28.470-02:49:38.279 | Kenzo] I mean you can fall 60. You can fall 30 feet without taking any damage right. I know. I'm just saying, because I have a bonus action like for my bonus action, can I? Can. I just like knock her out?
 [u2483 | 02:49:40.390-02:49:42.580 | DM] I mean she's not.
-[u2484 | 02:49:42.780-02:49:49.630 | Caulaus] She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just attack her. I'll attack her, and I don't Frank.
+[u2484 | 02:49:42.780-02:49:49.630 | Caulaus] She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just attack her. I'll attack her, and I don't flank.
 [u2485 | 02:49:51.780-02:49:56.060 | Wellby] Whoa, we we we you could also tie her up and give it to the Harpies.
 [u2486 | 02:49:57.350-02:50:00.380 | Kenzo] We've got to knock her out for it. She's not.
 [u2487 | 02:50:00.990-02:50:01.699 | Wellby] You're right.
@@ -2517,7 +2517,7 @@
 [u2517 | 02:51:37.320-02:51:38.740 | Kenzo] doesn't want to take one
 [u2518 | 02:51:39.620-02:51:43.029 | Wellby] steady AIM and and stab it. I assume i'm in melee with it.
 [u2519 | 02:51:43.810-02:51:44.430 | DM] Yeah.
-[u2520 | 02:51:46.690-02:51:48.670 | DM] That that it
+[u2520 | 02:51:46.690-02:51:48.670 | DM] That that hits
 [u2521 | 02:51:49.170-02:51:50.810 | Caulaus] the crit's for sure
 [u2522 | 02:51:50.840-02:51:53.590 | Wellby] that is a that's a happy crit
 [u2523 | 02:51:53.660-02:51:55.670 | Wellby] that's going to kill?
@@ -2604,7 +2604,7 @@
 [u2604 | 02:57:52.280-02:58:02.090 | DM] cloud of like mites and fleas like on the echo that's taking the death blow. Awesome. That's why I wanted to play it out. But very clever
 [u2605 | 02:58:02.600-02:58:12.069 | DM] mites and fleas run up her arm, and swarm over the echo like devouring its arm. It vanishes because it only has one hit point.
 [u2606 | 02:58:13.160-02:58:15.190 | DM] and she is unconscious on the ground.
-[u2607 | 02:58:15.470-02:58:19.460 | Caulaus] Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.
+[u2607 | 02:58:15.470-02:58:19.460 | Caulaus] Just out of spite, I mean. I know she's like conscious, but it's his advantages. I'll just resummon it.
 [u2608 | 02:58:20.810-02:58:25.310 | DM] Just stand next to it. Say, that was very good, that the echo took the death blow.
 [u2609 | 02:58:26.240-02:58:31.189 | Kenzo] What would have happened to us if one about the day. By taking it you'd have taken a lot of necrotic damage.
 [u2610 | 02:58:32.520-02:58:36.880 | Caulaus] Wow! I it was only because I missed on my first. That was fate
@@ -2640,7 +2640,7 @@
 [u2640 | 03:00:40.840-03:00:42.190 | DM] What do you want to ask it?
 [u2641 | 03:00:49.830-03:00:51.260 | Kenzo] My name is Kenzo.
 [u2642 | 03:00:51.590-03:00:52.889 | Kenzo] I'm here with friends
-[u2643 | 03:00:54.270-03:00:55.240 | Kenzo] onions.
+[u2643 | 03:00:54.270-03:00:55.240 | Kenzo] companions.
 [u2644 | 03:00:58.720-03:01:00.240 | Kenzo] What is your relationship with
 [u2645 | 03:01:00.350-03:01:01.160 | Kenzo] to.
 [u2646 | 03:01:01.650-03:01:03.630 | Kenzo] or what's that? Dasoclese.
@@ -2652,7 +2652,7 @@
 [u2652 | 03:01:32.280-03:01:33.989 | DM] the living wood from me.
 [u2653 | 03:01:36.550-03:01:38.139 | DM] turned it to evil.
 [u2654 | 03:01:42.840-03:01:43.970 | Unknown] You
-[u2655 | 03:01:47.590-03:01:50.169 | Kenzo] maybe return it. Where is the living wood now?
+[u2655 | 03:01:47.590-03:01:50.169 | Kenzo] Can we return it? Where is the living wood now?
 [u2656 | 03:01:52.050-03:01:52.959 | Wellby] We destroyed it?
 [u2657 | 03:01:53.360-03:01:54.820 | Caulaus] We did destroy it.
 [u2658 | 03:01:55.320-03:01:55.900 | Kenzo] Yeah.
@@ -2713,9 +2713,9 @@
 [u2713 | 03:06:28.930-03:06:30.130 | Kenzo] and what is your name
 [u2714 | 03:06:30.270-03:06:31.109 | Kenzo] to the tree?
 [u2715 | 03:06:35.940-03:06:36.940 | DM] I
-[u2716 | 03:06:39.470-03:06:41.020 | Kenzo] The Gp: 2 is right there.
+[u2716 | 03:06:39.470-03:06:41.020 | Kenzo] GPT-2 is right there.
 [u2717 | 03:06:41.340-03:06:42.110 | DM] What?
-[u2718 | 03:06:42.190-03:06:43.599 | Kenzo] Gp: 3 is right there.
+[u2718 | 03:06:42.190-03:06:43.599 | Kenzo] GPT-3 is right there.
 [u2719 | 03:06:44.140-03:06:45.360 | Seeker] Nice
 [u2720 | 03:06:58.110-03:07:00.449 | DM] the Heartwood Tree
 [u2721 | 03:07:02.710-03:07:03.979 | Kenzo] Heartwood Tree. Yeah.
@@ -2781,7 +2781,7 @@
 [u2781 | 03:11:11.030-03:11:12.340 | Caulaus] places
 [u2782 | 03:11:12.800-03:11:15.969 | Caulaus] still like it, I would have you remember
 [u2783 | 03:11:16.090-03:11:18.159 | Caulaus] what was best of Drankor.
-[u2784 | 03:11:21.300-03:11:24.159 | Caulaus] Alice, take take this as a reminder.
+[u2784 | 03:11:21.300-03:11:24.159 | Caulaus] Alas, take take this as a reminder.
 [u2785 | 03:11:27.060-03:11:29.429 | Caulaus] and then he, like he reaches out to the tree.
 [u2786 | 03:11:29.570-03:11:31.180 | Caulaus] just puts his hand on the tree.
 [u2787 | 03:11:32.300-03:11:38.160 | Caulaus] his echo kind of is like peering about like in the branches of the tree. You just, he says something in
@@ -2790,7 +2790,7 @@
 [u2790 | 03:11:45.150-03:11:46.210 | Caulaus] Go ahead. Sorry.
 [u2791 | 03:11:46.390-03:11:49.280 | Kenzo] you know. Kenzo also says that you know. Caulaus before we leave.
 [u2792 | 03:11:50.320-03:11:52.719 | Kenzo] Tell me your story, and i'll be sure that.
-[u2793 | 03:11:53.660-03:11:54.920 | Kenzo] restoring this on
+[u2793 | 03:11:53.660-03:11:54.920 | Kenzo] your story lives on
 [u2794 | 03:11:55.240-03:11:57.430 | Kenzo] in that Drankor's past.
 [u2795 | 03:11:57.970-03:11:59.639 | Kenzo] and the goodness of the
 [u2796 | 03:12:02.360-03:12:03.440 | Caulaus] I will
@@ -2924,7 +2924,7 @@
 [u2924 | 03:19:45.610-03:19:48.179 | Caulaus] where I was really, and how long it had been.
 [u2925 | 03:19:48.440-03:19:56.600 | Caulaus] something happened i'd forget again. Go back to that day that I had just come through believing that there was still a war to win
 [u2926 | 03:19:58.090-03:19:59.240 | Kenzo] as a
-[u2927 | 03:20:00.610-03:20:05.570 | Caulaus] {{that. I just here is the first place, I think I can remember clearly since I've been}}
+[u2927 | 03:20:00.610-03:20:05.570 | Caulaus] that. I just here is the first place, I think I can remember clearly since I've been
 [u2928 | 03:20:07.510-03:20:10.140 | Caulaus] done whatever has happened to the Cloudspinner
 [u2929 | 03:20:11.730-03:20:27.309 | Kenzo] the entire time Caulaus is speaking, Kenzo is alternating between rapidly etching into the into his staff, which again, it's very strange. You're kind of watching him etching to the staff, and there's definitely Some seems to be some magic, some like kind of glowing light, as he's etching.
 [u2930 | 03:20:27.320-03:20:32.960 | Kenzo] and he seems to be etching in the same place. But it looks like there's more being written. It's a strange optical effect.
@@ -2958,7 +2958,7 @@
 [u2958 | 03:21:59.810-03:22:01.070 | Caulaus] sides
 [u2959 | 03:22:02.270-03:22:04.809 | Caulaus] who upheld the ideals of Drankor.
 [u2960 | 03:22:05.390-03:22:06.299 | Unknown] I fear
-[u2961 | 03:22:09.260-03:22:11.329 | Kenzo] part of the Omnis Pura before
+[u2961 | 03:22:09.260-03:22:11.329 | Kenzo] I've heard of the Omnis Pura before
 [u2962 | 03:22:11.370-03:22:12.729 | Kenzo] I remember that name.
 [u2963 | 03:22:15.390-03:22:18.929 | Kenzo] That's what—Kenzo glances at Seeker and Wellby
 [u2964 | 03:22:20.760-03:22:23.109 | Kenzo] When I was in the dream world
@@ -3057,7 +3057,7 @@
 [u3057 | 03:27:57.560-03:27:58.920 | Seeker] Agata's body.
 [u3058 | 03:28:00.820-03:28:04.550 | Kenzo] Oh, yeah, Kenzo relays how the the tree is gonna
 [u3059 | 03:28:05.340-03:28:09.539 | Kenzo] They're going to they're going to imprison Agata for now until the Cloudspinner
-[u3060 | 03:28:10.010-03:28:10.910 | Seeker] since a lot.
+[u3060 | 03:28:10.010-03:28:10.910 | Seeker] comes along.
 [u3061 | 03:28:12.870-03:28:18.749 | DM] Yeah. So as you're as you're doing, the Seeker, you see, like a crack open up in the side of this tree.
 [u3062 | 03:28:19.420-03:28:20.390 | Seeker] and
 [u3063 | 03:28:20.740-03:28:25.709 | DM] 2 roots reach out and sort of grab Agata's body and whisk it
@@ -3250,15 +3250,15 @@
 [u3250 | 03:40:41.420-03:40:42.410 | Seeker] It could be
 [u3251 | 03:40:49.150-03:40:52.060 | Wellby] the level of detail and names
 [u3252 | 03:40:52.290-03:40:53.070 | Unknown] and
-[u3253 | 03:40:53.160-03:41:03.149 | Wellby] events. Yeah, like the the whole, the whole, the whole average of the full of hope, free plot with the other fey
-[u3254 | 03:41:03.460-03:41:08.990 | Kenzo] like Balimore. And whatever yeah, that's my guess.
+[u3253 | 03:40:53.160-03:41:03.149 | Wellby] events. Yeah, like the the whole, the whole, the whole Amberglow of the full of hope, free plot with the other fey
+[u3254 | 03:41:03.460-03:41:08.990 | Kenzo] like Bellator. And whatever yeah, that's my guess.
 [u3255 | 03:41:09.080-03:41:09.980 | Unknown] I'm with that.
 [u3256 | 03:41:10.730-03:41:15.960 | DM] That's I wrote the first 2 paragraphs, and it filled in the rest.
 [u3257 | 03:41:16.280-03:41:27.769 | DM] I changed. I added to Typhina there, there, and a few other things. It actually came up with the Harpies. I wanted, like cool allies for a for a hag.
 [u3258 | 03:41:28.280-03:41:29.619 | DM] and it suggested
 [u3259 | 03:41:29.660-03:41:33.310 | DM] harpies could attack the adventurers as they cross the plains.
 [u3260 | 03:41:36.030-03:41:53.359 | Kenzo] But that was cool, though, because the harpies they were trying, they were trying. They were actually on our side. They were trying to get yeah, and we killed them because you didn't understand. But they were. We only killed two of them. We did. We did. Okay, yeah, you only killed two. That's not horrible.
-[u3261 | 03:41:53.370-03:41:58.110 | Kenzo] That's cool, though, like that's cool that we like killed things that we're supposed to kill like that's that's nice.
+[u3261 | 03:41:53.370-03:41:58.110 | Kenzo] That's cool, though, like that's cool that we like killed things that we weren't supposed to kill like that's that's nice.
 [u3262 | 03:41:58.200-03:41:59.160 | Kenzo] That's awesome.
 [u3263 | 03:42:00.380-03:42:03.550 | Kenzo] And then and then you wrote the nymph, Tim.
 [u3264 | 03:42:04.930-03:42:15.830 | DM] I added the nymph, and then ChatGPT generated the description of the where the nymph lives, based on my characterization of the nymph and
