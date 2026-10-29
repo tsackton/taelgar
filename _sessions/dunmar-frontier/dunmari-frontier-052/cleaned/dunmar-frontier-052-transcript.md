@@ -8089,8 +8089,8 @@ Delwath: Mostly dawn. Mostly what I'm aiming for is pre-dawn. I mean night and p
 %% u3796:0-6 %%
 DM: Right.
 
-%% u3797:0-5, u3798:0-47, u3799:0-83, u3800:0-5 %%
-Delwath: Like, are the Deno'qai still camped? Where is Mezzar? Um, every once in a, every, you know, I'll check in on Faustus occasionally, right? Like-
+%% u3797:0-5, u3798:0-47, u3799:0-82, u3800:0-5 %%
+Delwath: Like, are the Deno'qai still camped? Where is Mezzar? Um, every once in a, every, you know, I'll check in on Fausto occasionally, right? Like-
 
 %% u3801:0-53, u3802:0-5, u3803:0-118 %%
 DM: Okay, none of your scrys against Mezzar ever succeed. Okay. The Deno'qai are still in, are, every time you check, you manage to find somebody that are still camped in the forest.
@@ -8122,8 +8122,8 @@ Delwath: Interesting.
 %% u3812:0-3 %%
 DM: Um-
 
-%% u3813:0-37, u3814:0-93, u3815:0-110 %%
-Delwath: And I'll occasionally check on the... Um, you know, I'm not gonna check on Faustus or Grasha or any of our other enemies right now. All I'm using my scrys for is to try and track the Deno'qai, keep up with Mezzar, which is gonna keep failing.
+%% u3813:0-37, u3814:0-92, u3815:0-110 %%
+Delwath: And I'll occasionally check on the... Um, you know, I'm not gonna check on Fausto or Grasha or any of our other enemies right now. All I'm using my scrys for is to try and track the Deno'qai, keep up with Mezzar, which is gonna keep failing.
 
 %% u3816:0-6 %%
 DM: Right.
@@ -8794,8 +8794,8 @@ Wellby: [laughs]
 %% u4338:0-19 %%
 DM: But it's different.
 
-%% u4339:0-13, u4340:0-112 %%
-Delwath: It's, it's... I still think that if Faustus was working for Apollyon, Apollyon doesn't want to destroy Taelgar by crashing it.
+%% u4339:0-13, u4340:0-111 %%
+Delwath: It's, it's... I still think that if Fausto was working for Apollyon, Apollyon doesn't want to destroy Taelgar by crashing it.
 
 %% u4341:0-51 %%
 DM: Yeah, remember Cha'mutte and Apollyon were enemies.

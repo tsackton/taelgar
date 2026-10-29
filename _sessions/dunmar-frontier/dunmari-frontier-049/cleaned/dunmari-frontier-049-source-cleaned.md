@@ -7,7 +7,7 @@
 [u0007 | 00:01:13.170-00:01:19.890 | DM] From the lofty heights of the spire the bustle of students faculty tutors and others coming and going from the University.
 [u0008 | 00:01:20.280-00:01:30.690 | DM] proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human is this.
 [u0009 | 00:01:32.340-00:01:47.280 | DM] They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics.
-[u0010 | 00:01:48.420-00:02:00.090 | DM] The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Faustus, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
+[u0010 | 00:01:48.420-00:02:00.090 | DM] The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Fausto, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
 [u0011 | 00:02:02.640-00:02:05.490 | DM] As you leave the chapter House a quiet student tavern.
 [u0012 | 00:02:06.810-00:02:16.410 | DM] And head towards the nearest toss so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east.
 [u0013 | 00:02:17.610-00:02:23.670 | DM] A young dwarven student, barely past his caste ceremony, takes pity on you and leads you to Sibyl's Hall.
@@ -771,11 +771,11 @@
 [u0771 | 01:05:07.980-01:05:09.690 | Riswynn] Now we know where the chalice and the eyes...
 [u0772 | 01:05:09.690-01:05:10.110 | Riswynn] Are we.
 [u0773 | 01:05:10.170-01:05:11.940 | Riswynn] We should sort of get her opinion of.
-[u0774 | 01:05:12.090-01:05:15.360 | Delwath] We should, we should certainly find out as much as we can, about Faustus.
+[u0774 | 01:05:12.090-01:05:15.360 | Delwath] We should, we should certainly find out as much as we can, about Fausto.
 [u0775 | 01:05:16.050-01:05:17.940 | Seeker] Yes, generally assessing.
 [u0776 | 01:05:18.450-01:05:22.980 | Seeker] The state of corruption within the society, which is a delicate matter to ask about.
 [u0777 | 01:05:24.300-01:05:27.090 | Delwath] How corrupt are your peers? Are they evil secretly?
-[u0778 | 01:05:27.690-01:05:32.640 | Riswynn] But if we asked about the two we think are particularly corrupt, you know, Faustus and the guy whose...
+[u0778 | 01:05:27.690-01:05:32.640 | Riswynn] But if we asked about the two we think are particularly corrupt, you know, Fausto and the guy whose...
 [u0779 | 01:05:32.700-01:05:34.440 | Riswynn] name begins with G. What is...
 [u0780 | 01:05:34.620-01:05:37.050 | Riswynn] Galen, yeah, that's the same, Galen.
 [u0781 | 01:05:38.550-01:05:39.090 | Riswynn] She might.
@@ -783,7 +783,7 @@
 [u0783 | 01:05:42.060-01:05:53.730 | Kenzo] Well, presumably if she's, she's Kaeso's, like, you know, old master, then she might be able to give us some more honest insight into what's going on, right? She, she, she's hopefully someone trustworthy.
 [u0784 | 01:05:54.510-01:06:01.980 | Wellby] I think trustworthy, but remember they don't talk about the society at all anymore. Like, I think these are all good goals, but to proceed diligently.
 [u0785 | 01:06:02.040-01:06:08.190 | Delwath] yeah and and I think we might be better off trying to get a.
-[u0786 | 01:06:09.720-01:06:17.490 | Delwath] We have an in on asking about Faustus particularly because we can be, we have a fairly good cover story, right, that...
+[u0786 | 01:06:09.720-01:06:17.490 | Delwath] We have an in on asking about Fausto particularly because we can be, we have a fairly good cover story, right, that...
 [u0787 | 01:06:18.660-01:06:24.270 | Delwath] We we met some people who were talking about this he's hiring people and.
 [u0788 | 01:06:24.270-01:06:24.960 | Seeker] White were.
 [u0789 | 01:06:25.200-01:06:29.520 | Delwath] were like kind of interested in is that you know, is it crazy to work.
@@ -1094,7 +1094,7 @@
 [u1094 | 01:29:18.570-01:29:20.130 | DM] She turns and she says now.
 [u1095 | 01:29:23.040-01:29:31.260 | DM] Lyra and I wanted to hear some stories of this tower, and I believe you are curious about the Society of the Open Scroll. Is that true?
 [u1096 | 01:29:32.910-01:29:33.780 | Kenzo] Is.
-[u1097 | 01:29:36.090-01:29:39.360 | Delwath] In particular we're curious about a man named Faustus.
+[u1097 | 01:29:36.090-01:29:39.360 | Delwath] In particular we're curious about a man named Fausto.
 [u1098 | 01:29:42.060-01:29:43.980 | DM] She looks over at Lyra.
 [u1099 | 01:29:46.080-01:29:48.360 | DM] I know of him, yes, he is.
 [u1100 | 01:29:52.350-01:29:53.880 | DM] Has his hand in everything.
@@ -1251,7 +1251,7 @@
 [u1251 | 01:51:23.490-01:51:26.280 | Wellby] And here's the thing we know that um what's his name again.
 [u1252 | 01:51:27.090-01:51:27.870 | Riswynn] Is this.
 [u1253 | 01:51:27.960-01:51:28.320 | Unknown] best.
-[u1254 | 01:51:31.110-01:51:37.110 | Wellby] Faustus, right, you know, or at least that that's who they went back to. We have...
+[u1254 | 01:51:31.110-01:51:37.110 | Wellby] Fausto, right, you know, or at least that that's who they went back to. We have...
 [u1255 | 01:51:38.310-01:51:45.270 | Wellby] A few things have a pretty good worth, but if you were in our shoes, how would you go to him to negotiate.
 [u1256 | 01:51:48.840-01:51:51.720 | DM] Well, I don't know him that well, other than.
 [u1257 | 01:51:53.430-01:51:57.450 | DM] extremely wealthy, I do not think coin is going to sway him.
@@ -1261,7 +1261,7 @@
 [u1261 | 01:52:20.310-01:52:22.770 | DM] Something that nobody else in Chardon has.
 [u1262 | 01:52:24.180-01:52:25.560 | DM] If you truly want to.
 [u1263 | 01:52:30.480-01:52:32.220 | DM] If this is that important to you.
-[u1264 | 01:52:36.180-01:52:39.120 | Kenzo] You know, has Faustus been in Chardon long?
+[u1264 | 01:52:36.180-01:52:39.120 | Kenzo] You know, has Fausto been in Chardon long?
 [u1265 | 01:52:41.160-01:52:42.000 | DM] Oh alright.
 [u1266 | 01:52:43.290-01:52:48.870 | DM] grew up here as far as I know, it's been around the university since the student days.
 [u1267 | 01:52:49.890-01:52:55.380 | Kenzo] and has he always had an interest in these types of items of power, or is it a more recent.
@@ -1292,7 +1292,7 @@
 [u1292 | 01:54:25.230-01:54:26.640 | Riswynn] Right i'm.
 [u1293 | 01:54:26.670-01:54:28.140 | Unknown] Trying to ask.
 [u1294 | 01:54:29.970-01:54:30.270 | Riswynn] If.
-[u1295 | 01:54:31.860-01:54:37.740 | Riswynn] She says she does not know Faustus, a very public person, and probably...
+[u1295 | 01:54:31.860-01:54:37.740 | Riswynn] She says she does not know Fausto, a very public person, and probably...
 [u1296 | 01:54:39.030-01:54:49.380 | Riswynn] This other name I'm going to mention may not also be someone in her circles, but I'd like to know more of Galen and whether he is the sort of person to trade...
 [u1297 | 01:54:50.580-01:54:52.170 | Riswynn] or approach in an expert.
 [u1298 | 01:54:53.430-01:54:55.980 | DM] Yes, he's a colleague.
@@ -1357,7 +1357,7 @@
 [u1357 | 01:59:35.490-01:59:40.200 | DM] Is there anything else you'd like us to speak of? I have another engagement shortly.
 [u1358 | 01:59:41.520-01:59:41.970 | Kenzo] So I was.
 [u1359 | 01:59:42.510-01:59:43.590 | DM] enjoyed meeting you.
-[u1360 | 01:59:44.340-01:59:53.580 | Kenzo] We've definitely enjoyed meeting you greatly, Roscelia. I guess again, just back to Faustus, you said that, I was asking his interest in sending...
+[u1360 | 01:59:44.340-01:59:53.580 | Kenzo] We've definitely enjoyed meeting you greatly, Roscelia. I guess again, just back to Fausto, you said that, I was asking his interest in sending...
 [u1361 | 01:59:55.110-02:00:07.410 | Kenzo] Him sending out these large expeditions to the east, all of this funding, this wealth, when would you say that that really picked up? You know, you said he grew up in Chardon and he's been here his whole life. Has he, has he always had, had money, or is this...
 [u1362 | 02:00:08.280-02:00:10.350 | DM] Oh no, definitely not.
 [u1363 | 02:00:11.670-02:00:17.670 | DM] He does not come from one of the richer families or even a merchant of new wealth.
@@ -1378,7 +1378,7 @@
 [u1378 | 02:01:06.150-02:01:06.630 | DM] it's like.
 [u1379 | 02:01:06.660-02:01:10.170 | DM] It's not quite the Great Library spire, but it's like 200 feet tall.
 [u1380 | 02:01:11.280-02:01:13.950 | DM] Ever like has his power as well now.
-[u1381 | 02:01:14.010-02:01:18.540 | DM] Like, would you say, where is Faustus's tower, anybody would be able to point.
+[u1381 | 02:01:14.010-02:01:18.540 | DM] Like, would you say, where is Fausto's tower, anybody would be able to point.
 [u1382 | 02:01:21.090-02:01:26.310 | Kenzo] Was he was he powerful before five years ago, or did he become.
 [u1383 | 02:01:26.550-02:01:29.040 | DM] Oh yes, he's is.
 [u1384 | 02:01:30.690-02:01:37.980 | DM] Whatever else, one might say about him, he is indeed quite a skilled student and a dedicated.
@@ -1448,19 +1448,19 @@
 [u1448 | 02:06:23.280-02:06:25.320 | DM] The next the rest of your time.
 [u1449 | 02:06:26.670-02:06:27.030 | Delwath] don't.
 [u1450 | 02:06:28.770-02:06:29.670 | Delwath] Do we have.
-[u1451 | 02:06:32.280-02:06:35.040 | Delwath] Like, do we know anything about how we're going to go to Faustus?
+[u1451 | 02:06:32.280-02:06:35.040 | Delwath] Like, do we know anything about how we're going to go to Fausto?
 [u1452 | 02:06:35.160-02:06:40.800 | Kenzo] Or, as well, so okay, now, yeah, let's talk about that. And, Tim, can you tell me Roscelia's, like, full title?
 [u1453 | 02:06:43.890-02:06:44.400 | DM] Yes.
 [u1454 | 02:06:45.240-02:06:47.370 | Wellby] We recommend asking Roscelia...
-[u1455 | 02:06:47.400-02:06:52.290 | Wellby] For an introduction to Faustus. Was that particularly why we were going to see her in the first place?
-[u1456 | 02:06:52.710-02:06:55.020 | DM] You have an introduction to Faustus.
+[u1455 | 02:06:47.400-02:06:52.290 | Wellby] For an introduction to Fausto. Was that particularly why we were going to see her in the first place?
+[u1456 | 02:06:52.710-02:06:55.020 | DM] You have an introduction to Fausto.
 [u1457 | 02:06:55.020-02:06:56.100 | Kenzo] From Dee and Dain.
 [u1458 | 02:06:56.940-02:07:04.920 | Delwath] yeah and I got the sense that she doesn't really know him and he doesn't really know her very well like they travel in pretty different circles.
 [u1459 | 02:07:05.730-02:07:07.290 | Kenzo] I think it's better to get it from this.
 [u1460 | 02:07:07.320-02:07:10.020 | Kenzo] To me, it's because then we're just a bunch of adventurers and...
 [u1461 | 02:07:10.140-02:07:13.560 | Kenzo] Oh we've got a cool item to trade but also like hire us for.
 [u1462 | 02:07:14.730-02:07:18.690 | Kenzo] You know, in fact, okay, so a couple things. This is now in character, so...
-[u1463 | 02:07:20.220-02:07:31.980 | Kenzo] My guess is Faustus can fuck us all up pretty badly if he's Kadmos and Casian’s boss, and all of this. I think he is...
+[u1463 | 02:07:20.220-02:07:31.980 | Kenzo] My guess is Fausto can fuck us all up pretty badly if he's Kadmos and Casian’s boss, and all of this. I think he is...
 [u1464 | 02:07:33.180-02:07:34.020 | Kenzo] Not our friend.
 [u1465 | 02:07:35.460-02:07:35.910 | Kenzo] I think.
 [u1466 | 02:07:36.210-02:07:40.590 | Kenzo] If he knows I think he'll be able to figure out what we're carrying and you should not bring.
@@ -1492,7 +1492,7 @@
 [u1492 | 02:09:33.450-02:09:33.960 | Kenzo] Just.
 [u1493 | 02:09:34.740-02:09:37.320 | Seeker] Surely the Faculty of magic has dealt at some point.
 [u1494 | 02:09:38.760-02:09:39.870 | Seeker] With this type of problem.
-[u1495 | 02:09:40.650-02:09:53.880 | Kenzo] Look, this is, I think the likelihood that Faustus is in with dark forces is very high. I think the likelihood that at some point we're gonna have to kill Faustus in battle, also very high. I think the likelihood that...
+[u1495 | 02:09:40.650-02:09:53.880 | Kenzo] Look, this is, I think the likelihood that Fausto is in with dark forces is very high. I think the likelihood that at some point we're gonna have to kill Fausto in battle, also very high. I think the likelihood that...
 [u1496 | 02:09:55.080-02:10:02.250 | Kenzo] If we walk into his magical fucking home tower carrying with us the things that we normally carry around and.
 [u1497 | 02:10:02.640-02:10:03.510 | Seeker] If he's no good.
 [u1498 | 02:10:03.930-02:10:10.950 | Kenzo] The likelihood that he will detect it may be small, but not zero, and if he does, we're not getting the fuck out of there alive.
@@ -1527,7 +1527,7 @@
 [u1527 | 02:12:19.320-02:12:22.110 | Kenzo] one of us, not at least one of us not go and.
 [u1528 | 02:12:23.520-02:12:23.850 | Kenzo] Careful.
 [u1529 | 02:12:24.540-02:12:30.390 | Seeker] Not to mush things too much, but we need to trade something for the chalice as well, and what would, what would we be able to trade for that?
-[u1530 | 02:12:31.650-02:12:38.580 | Riswynn] I don't think that we have, the party have two things that will satisfy Galen and Faustus, and...
+[u1530 | 02:12:31.650-02:12:38.580 | Riswynn] I don't think that we have, the party have two things that will satisfy Galen and Fausto, and...
 [u1531 | 02:12:39.750-02:12:41.100 | Riswynn] If the dwarves know where...
 [u1532 | 02:12:42.300-02:12:52.470 | Riswynn] This object is, I can speak to them about hiring their own adventurers to go find something worth trading or something.
 [u1533 | 02:12:54.300-02:12:58.680 | Riswynn] I don't I don't you are my good friends, but I don't think that the.
@@ -1554,7 +1554,7 @@
 [u1554 | 02:14:20.550-02:14:23.790 | Delwath] I think, bringing it back there would not cause too much harm.
 [u1555 | 02:14:24.690-02:14:26.700 | Kenzo] Look, Riswynn, we...
 [u1556 | 02:14:27.270-02:14:34.140 | Kenzo] You're very gracious. I think if you are willing to, upon meeting Galen...
-[u1557 | 02:14:36.480-02:14:52.560 | Kenzo] figure out with your people how to negotiate with him, then it leaves us just with the problem of what might we entice Faustus with. And if it is the mirror, then as you've all been saying, maybe we do want to figure out a way to...
+[u1557 | 02:14:36.480-02:14:52.560 | Kenzo] figure out with your people how to negotiate with him, then it leaves us just with the problem of what might we entice Fausto with. And if it is the mirror, then as you've all been saying, maybe we do want to figure out a way to...
 [u1558 | 02:14:54.630-02:14:55.440 | Kenzo] release the.
 [u1559 | 02:14:57.750-02:15:04.890 | Kenzo] There, you know, this is actually a good thing. If we can retcon this with Roscelia to ask her, is there a place in Chardon, and because there must be...
 [u1560 | 02:15:05.010-02:15:07.500 | Kenzo] There must be a jail or a weird like.
@@ -1576,7 +1576,7 @@
 [u1576 | 02:16:00.060-02:16:02.520 | DM] Yeah, tomorrow.
 [u1577 | 02:16:02.700-02:16:03.420 | Seeker] Tomorrow okay.
 [u1578 | 02:16:03.450-02:16:06.150 | Delwath] But wait what days tomorrow is tomorrow, Thursday yeah.
-[u1579 | 02:16:06.900-02:16:11.550 | Delwath] So we don't have to... Are we in a rush to talk to Faustus? We could wait till Friday, right?
+[u1579 | 02:16:06.900-02:16:11.550 | Delwath] So we don't have to... Are we in a rush to talk to Fausto? We could wait till Friday, right?
 [u1580 | 02:16:11.820-02:16:12.660 | Kenzo] We can totally wait.
 [u1581 | 02:16:12.990-02:16:14.940 | Kenzo] I think I think we need to empty the mirror.
 [u1582 | 02:16:15.420-02:16:23.250 | Kenzo] I think we need to empty the mirror of definitely the hobgoblin, the reaver, and we can leave in there... What's, what else is in there?
@@ -1587,13 +1587,13 @@
 [u1587 | 02:16:29.220-02:16:31.800 | Seeker] poison troll it's probably a little less.
 [u1588 | 02:16:32.340-02:16:35.520 | Seeker] of interest to exotic creature collectors but you know.
 [u1589 | 02:16:35.640-02:16:43.260 | Delwath] See, before we worry too much about emptying the mirror of a hobgoblin, it'd be good to find out a little more.
-[u1590 | 02:16:44.850-02:16:56.910 | Delwath] From what we've heard of Faustus, he strikes me as the kind of guy who, of course, might very well be interested in the world, but also is not interested in hobgoblins and would be their mortal enemies.
+[u1590 | 02:16:44.850-02:16:56.910 | Delwath] From what we've heard of Fausto, he strikes me as the kind of guy who, of course, might very well be interested in the world, but also is not interested in hobgoblins and would be their mortal enemies.
 [u1591 | 02:16:58.800-02:17:04.050 | Wellby] 200 I think the moral perspective too, it's really, it's not really our problem.
 [u1592 | 02:17:04.860-02:17:05.460 | Kenzo] Wait wait, but.
 [u1593 | 02:17:06.150-02:17:18.750 | Kenzo] Don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did {{i'm sorry I}} get captured again?
 [u1594 | 02:17:20.160-02:17:21.270 | DM] Like eight years ago.
 [u1595 | 02:17:21.870-02:17:24.870 | Delwath] I don't think he's working with Grash. If he's working...
-[u1596 | 02:17:26.610-02:17:41.670 | Delwath] If, if they're related, Faustus is Grash's commander, and probably has a plan to dispose of Grash when he's done, but I don't... Why would Faustus leave Grash with a powerful artifact?
+[u1596 | 02:17:26.610-02:17:41.670 | Delwath] If, if they're related, Fausto is Grash's commander, and probably has a plan to dispose of Grash when he's done, but I don't... Why would Fausto leave Grash with a powerful artifact?
 [u1597 | 02:17:42.030-02:17:50.670 | Wellby] Who said what what, if that is in itself information worth trading like we know where the ring of undying.
 [u1598 | 02:17:51.090-02:17:51.450 | Unknown] Ah.
 [u1599 | 02:17:53.370-02:17:54.570 | Delwath] that's a good idea.
@@ -1625,7 +1625,7 @@
 [u1625 | 02:19:16.020-02:19:16.950 | Delwath] let's.
 [u1626 | 02:19:19.410-02:19:21.540 | Delwath] Do we, so Galen has a thing tomorrow night.
 [u1627 | 02:19:22.290-02:19:23.730 | DM] is open tomorrow afternoon.
-[u1628 | 02:19:24.270-02:19:28.320 | Delwath] Tomorrow afternoon, we want to go there first and then Faustus.
+[u1628 | 02:19:24.270-02:19:28.320 | Delwath] Tomorrow afternoon, we want to go there first and then Fausto.
 [u1629 | 02:19:29.790-02:19:31.890 | Kenzo] I think we learn a little bit more about this mirror.
 [u1630 | 02:19:32.760-02:19:36.510 | Riswynn] Tomorrow day we go to learn about the mirror from the library book that.
 [u1631 | 02:19:37.170-02:19:41.250 | Riswynn] Ulfgar has for Seeker to read in the office, so...
@@ -2098,7 +2098,7 @@
 [u2098 | 03:00:27.390-03:00:29.550 | DM] So, so what is your.
 [u2099 | 03:00:31.680-03:00:35.190 | DM] Tomorrow Riswynn will go get the money and take the candle and the...
 [u2100 | 03:00:38.970-03:00:39.480 | DM] And the.
-[u2101 | 03:00:40.980-03:00:49.200 | DM] gold to get the chalice. You have a standing invitation, you have an introduction to Faustus, you can...
+[u2101 | 03:00:40.980-03:00:49.200 | DM] gold to get the chalice. You have a standing invitation, you have an introduction to Fausto, you can...
 [u2102 | 03:00:51.150-03:00:53.190 | DM] Only go anytime you want to approach him to.
 [u2103 | 03:00:53.190-03:00:53.850 | DM] be like.
 [u2104 | 03:00:57.720-03:00:57.960 | Riswynn] In.
@@ -2108,9 +2108,9 @@
 [u2108 | 03:01:16.980-03:01:17.730 | Riswynn] So.
 [u2109 | 03:01:20.340-03:01:21.900 | Riswynn] or self-destruct it or anything.
 [u2110 | 03:01:24.120-03:01:24.600 | Delwath] um.
-[u2111 | 03:01:26.250-03:01:30.450 | Delwath] So I think tomorrow, let's, let's get on with it, go to Faustus, let's...
+[u2111 | 03:01:26.250-03:01:30.450 | Delwath] So I think tomorrow, let's, let's get on with it, go to Fausto, let's...
 [u2112 | 03:01:30.570-03:01:31.200 | Kenzo] pull it.
-[u2113 | 03:01:32.340-03:01:38.850 | Kenzo] But go to Faustus, like, what, with, with our mirror and our hobgoblin, like, sorcerer trapped inside that we're just going to give him?
+[u2113 | 03:01:32.340-03:01:38.850 | Kenzo] But go to Fausto, like, what, with, with our mirror and our hobgoblin, like, sorcerer trapped inside that we're just going to give him?
 [u2114 | 03:01:39.330-03:01:40.260 | Delwath] yep yep.
 [u2115 | 03:01:40.920-03:01:44.490 | Wellby] I mean, I think we negotiate without the mirror on our person and then...
 [u2116 | 03:01:44.580-03:01:46.680 | Wellby] arrange delivery, yes.
@@ -2149,7 +2149,7 @@
 [u2149 | 03:03:55.140-03:03:55.890 | DM] So you meet.
 [u2150 | 03:03:57.240-03:03:59.370 | DM] The four of you, without.
 [u2151 | 03:04:01.320-03:04:04.440 | DM] Without Riswynn, who's off running errands, um...
-[u2152 | 03:04:05.550-03:04:09.810 | DM] At Faustus's tower in the morning. His, his tower is...
+[u2152 | 03:04:05.550-03:04:09.810 | DM] At Fausto's tower in the morning. His, his tower is...
 [u2153 | 03:04:11.550-03:04:14.010 | DM] So it's maybe 200 feet tall.
 [u2154 | 03:04:15.540-03:04:20.190 | DM] The there's a two stories at the bottom that are like.
 [u2155 | 03:04:22.050-03:04:23.700 | DM] Like not a tower it's like a.
@@ -2161,7 +2161,7 @@
 [u2161 | 03:05:23.910-03:05:30.510 | DM] an audience chamber of sorts right so it's not exactly a throne room but.
 [u2162 | 03:05:32.160-03:05:37.710 | DM] You know, there's like a chair on a raised dais and then, like...
 [u2163 | 03:05:38.730-03:05:44.670 | DM] A table at the bottom, where people can sit and he sort of comes comes down from the Chair he's.
-[u2164 | 03:05:45.840-03:05:47.430 | DM] Faustus is a...
+[u2164 | 03:05:45.840-03:05:47.430 | DM] Fausto is a...
 [u2165 | 03:05:51.480-03:05:56.340 | DM] he's a young, maybe, maybe in his.
 [u2166 | 03:05:56.400-03:05:56.790 | Unknown] yeah.
 [u2167 | 03:06:01.980-03:06:06.180 | Seeker] i'm sorry, there was a car accident like directly in front of my house, so there was.
@@ -2174,7 +2174,7 @@
 [u2174 | 03:06:24.690-03:06:26.160 | Seeker] yeah yeah.
 [u2175 | 03:06:26.820-03:06:28.740 | Seeker] Just startling.
 [u2176 | 03:06:30.210-03:06:30.750 | DM] turn away.
-[u2177 | 03:06:34.770-03:06:36.840 | DM] So at Faustus's tower...
+[u2177 | 03:06:34.770-03:06:36.840 | DM] So at Fausto's tower...
 [u2178 | 03:06:37.980-03:06:44.670 | DM] Riswynn is off getting the chalice and getting money from the dwarves and stuff. You've just been ushered into his...
 [u2179 | 03:06:46.890-03:06:48.090 | DM] into his.
 [u2180 | 03:06:49.380-03:07:14.760 | DM] Like audience chamber sort of room, and he's like maybe early 30s, well-groomed. Not, not ostentatiously wealthy, like some of the other people you've met in the sort of upper strata of Chardonian society, but, um, you know, a well-tailored silk tunic and, and trousers and...
@@ -2564,7 +2564,7 @@
 [u2564 | 03:35:02.730-03:35:10.590 | DM] So the rest of you go with the scroll of Pandemonium, your normal equipment, and Riswynn's not coming.
 [u2565 | 03:35:11.970-03:35:14.370 | DM] Riswynn's staying to guard the lead box.
 [u2566 | 03:35:14.400-03:35:15.330 | DM] Yes, okay.
-[u2567 | 03:35:16.620-03:35:20.040 | DM] Ah, you arrive at Faustus's door.
+[u2567 | 03:35:16.620-03:35:20.040 | DM] Ah, you arrive at Fausto's door.
 [u2568 | 03:35:22.380-03:35:25.740 | DM] And he, he greets you, and he says...
 [u2569 | 03:35:26.820-03:35:26.970 | Kenzo] well.
 [u2570 | 03:35:27.420-03:35:29.940 | Delwath] You're right, I have magic going.
@@ -2592,7 +2592,7 @@
 [u2592 | 03:36:53.460-03:36:55.890 | DM] Are you wearing your Armor now so like.
 [u2593 | 03:36:56.850-03:36:57.240 | Unknown] magic.
 [u2594 | 03:36:59.250-03:37:02.130 | Kenzo] whoa hold on hold on i'm actually a.
-[u2595 | 03:37:04.170-03:37:04.740 | Kenzo] Faustus.
+[u2595 | 03:37:04.170-03:37:04.740 | Kenzo] Fausto.
 [u2596 | 03:37:06.090-03:37:06.870 | Unknown] yeah yes.
 [u2597 | 03:37:07.950-03:37:08.880 | Kenzo] So um.
 [u2598 | 03:37:09.900-03:37:12.630 | Kenzo] You plan on completing this deal with us right.
@@ -2626,7 +2626,7 @@
 [u2626 | 03:39:25.140-03:39:28.440 | DM] Oh, well, you wouldn't want to be killed by traps, would you?
 [u2627 | 03:39:31.800-03:39:32.190 | Wellby] know.
 [u2628 | 03:39:36.180-03:39:41.760 | DM] keeps walking please let's continue, we have business to conduct.
-[u2629 | 03:39:42.930-03:39:43.560 | Kenzo] Faustus.
+[u2629 | 03:39:42.930-03:39:43.560 | Kenzo] Fausto.
 [u2630 | 03:39:44.670-03:39:47.670 | Kenzo] we're just get I just feel like this is getting a little.
 [u2631 | 03:39:48.720-03:39:49.290 | Wellby] Good good good good.
 [u2632 | 03:39:50.190-03:39:50.520 | Unknown] Good.
@@ -2738,8 +2738,8 @@
 [u2738 | 03:47:19.110-03:47:20.610 | Delwath] huh what do we see.
 [u2739 | 03:47:21.900-03:47:22.170 | DM] A.
 [u2740 | 03:47:23.550-03:47:24.090 | Delwath] token.
-[u2741 | 03:47:24.210-03:47:25.590 | Delwath] meant to represent Faustus?
-[u2742 | 03:47:25.620-03:47:27.210 | DM] That's Faustus, yes.
+[u2741 | 03:47:24.210-03:47:25.590 | Delwath] meant to represent Fausto?
+[u2742 | 03:47:25.620-03:47:27.210 | DM] That's Fausto, yes.
 [u2743 | 03:47:27.660-03:47:28.590 | Seeker] Oh, I can't even see him.
 [u2744 | 03:47:31.170-03:47:32.640 | DM] Go he's around the corner from you.
 [u2745 | 03:47:32.670-03:47:33.000 | Unknown] yeah.
@@ -2835,7 +2835,7 @@
 [u2835 | 03:53:17.910-03:53:19.230 | Delwath] I will target.
 [u2836 | 03:53:22.620-03:53:24.360 | Delwath] As so i'm going to move.
 [u2837 | 03:53:24.720-03:53:29.550 | Delwath] That up to here it's it's 20 so i'm going to move in combat range with.
-[u2838 | 03:53:30.900-03:53:36.810 | Delwath] Faustus first, I don't move. It's 20, it's 20, 30-foot...
+[u2838 | 03:53:30.900-03:53:36.810 | Delwath] Fausto first, I don't move. It's 20, it's 20, 30-foot...
 [u2839 | 03:53:38.790-03:53:48.360 | Delwath] 30 foot radius, but I want to put it so that basically it no keep going I don't want to hit any of us, I can't can I drag that thing.
 [u2840 | 03:53:52.380-03:53:53.190 | Delwath] yeah like there's.
 [u2841 | 03:53:53.610-03:53:54.900 | DM] Like there yeah.
@@ -2893,7 +2893,7 @@
 [u2893 | 03:56:30.720-03:56:33.750 | DM] He kind of looks at you, and you know.
 [u2894 | 03:56:36.090-03:56:39.960 | DM] What do you think, what do you think you are doing, fools?
 [u2895 | 03:56:42.510-03:56:43.770 | Kenzo] Is that also talking to her.
-[u2896 | 03:56:44.460-03:56:45.570 | DM] That's Faustus. He's like...
+[u2896 | 03:56:44.460-03:56:45.570 | DM] That's Fausto. He's like...
 [u2897 | 03:56:49.200-03:56:50.160 | DM] All of you are.
 [u2898 | 03:56:53.520-03:56:54.450 | DM] You came here.
 [u2899 | 03:56:55.500-03:56:56.250 | DM] You knew.
@@ -3029,7 +3029,7 @@
 [u3029 | 04:05:15.420-04:05:17.820 | DM] something's not working.
 [u3030 | 04:05:19.950-04:05:24.390 | DM] hold on a SEC I can't see any of the dice rolls it just kind of initially.
 [u3031 | 04:05:25.920-04:05:27.870 | Kenzo] So this is so cool.
-[u3032 | 04:05:27.900-04:05:29.610 | Kenzo] So Faustus is working with Grash.
+[u3032 | 04:05:27.900-04:05:29.610 | Kenzo] So Fausto is working with Grash.
 [u3033 | 04:05:30.000-04:05:32.580 | Delwath] Clearly, I mean Obviously he knew I mean I.
 [u3034 | 04:05:37.350-04:05:38.130 | Delwath] gotta clear eight.
 [u3035 | 04:05:38.850-04:05:39.180 | Kenzo] Oh yeah.
@@ -3200,7 +3200,7 @@
 [u3200 | 04:16:37.440-04:16:37.770 | DM] Ah.
 [u3201 | 04:16:40.200-04:16:43.890 | DM] Yeah, so Kenzo's gone, one of the eyes is gone.
 [u3202 | 04:16:45.030-04:16:45.360 | DM] i'm.
-[u3203 | 04:16:52.440-04:16:53.910 | DM] Okay, Faustus.
+[u3203 | 04:16:52.440-04:16:53.910 | DM] Okay, Fausto.
 [u3204 | 04:16:55.650-04:16:59.700 | DM] One round, so no, he's not back yet. You still got one more round. Okay, Delwath, you're up.
 [u3205 | 04:17:05.400-04:17:10.680 | Delwath] i'm not sure the best option here if I if I leave.
 [u3206 | 04:17:13.290-04:17:17.640 | Delwath] before your are you gonna survive do you have any way of how much damage can you suck.
@@ -3369,7 +3369,7 @@
 [u3369 | 04:26:58.050-04:26:58.830 | Wellby] It makes sense to me.
 [u3370 | 04:26:58.980-04:27:00.660 | Kenzo] Like wow these questions, some.
 [u3371 | 04:27:01.950-04:27:03.090 | Kenzo] Other various locations matter.
-[u3372 | 04:27:03.090-04:27:05.010 | DM] Faustus sticks his head out the window.
+[u3372 | 04:27:03.090-04:27:05.010 | DM] Fausto sticks his head out the window.
 [u3373 | 04:27:06.180-04:27:13.020 | DM] Here, this like it's not even you don't even it's not even something you hear it's this.
 [u3374 | 04:27:14.280-04:27:21.660 | DM] Like echoing sort of twisting i'm psychic resonance that.
 [u3375 | 04:27:23.100-04:27:26.970 | DM] Oh, it's only gonna get Delwath and Seeker.
@@ -3384,9 +3384,9 @@
 [u3384 | 04:27:46.560-04:27:47.340 | Seeker] yeah.
 [u3385 | 04:27:47.820-04:27:52.560 | Delwath] I mean, I would have gone all the way my full move to start.
 [u3386 | 04:27:54.480-04:27:57.900 | DM] Right that's why I was asking if you came back on your turn to help seeker.
-[u3387 | 04:27:58.320-04:28:00.810 | Delwath] Has my turn already happened before Faustus?
+[u3387 | 04:27:58.320-04:28:00.810 | Delwath] Has my turn already happened before Fausto?
 [u3388 | 04:28:00.930-04:28:02.070 | DM] Your turn happens before.
-[u3389 | 04:28:02.070-04:28:03.750 | Delwath] Faustus, yes, I would have come back down.
+[u3389 | 04:28:02.070-04:28:03.750 | Delwath] Fausto, yes, I would have come back down.
 [u3390 | 04:28:05.100-04:28:09.000 | DM] Ah, so both of you need to make Intelligence saving throws.
 [u3391 | 04:28:16.530-04:28:17.160 | DM] i'm.
 [u3392 | 04:28:18.030-04:28:19.530 | Seeker] nailed it for once.
@@ -3503,7 +3503,7 @@
 [u3503 | 04:34:00.030-04:34:01.320 | DM] gather there's like people.
 [u3504 | 04:34:01.320-04:34:02.160 | DM] Looking at you.
 [u3505 | 04:34:02.220-04:34:02.820 | Delwath] yeah we.
-[u3506 | 04:34:03.750-04:34:12.210 | DM] Faustus now sticks his head out the window and yells in a clearly magically enhanced voice, stop those thieves!
+[u3506 | 04:34:03.750-04:34:12.210 | DM] Fausto now sticks his head out the window and yells in a clearly magically enhanced voice, stop those thieves!
 [u3507 | 04:34:13.380-04:34:15.570 | Delwath] Did he just said he just yell stop thief.
 [u3508 | 04:34:15.960-04:34:17.250 | DM] Yeah, stop those thieves.
 [u3509 | 04:34:17.670-04:34:19.020 | Delwath] I can't you're breaking up I.
@@ -3640,14 +3640,14 @@
 [u3640 | 04:42:05.790-04:42:06.480 | Delwath] And nobody.
 [u3641 | 04:42:07.170-04:42:07.560 | Wellby] In the mirror.
 [u3642 | 04:42:07.680-04:42:16.050 | Delwath] suspicion is I mean our hope here is that nobody has really connected, and I mean we ran out of there very quickly right like.
-[u3643 | 04:42:17.220-04:42:18.630 | Seeker] Hopefully, but Faustus...
-[u3644 | 04:42:19.080-04:42:21.510 | Delwath] I mean, Faustus will probably start spreading tales, but...
+[u3643 | 04:42:17.220-04:42:18.630 | Seeker] Hopefully, but Fausto...
+[u3644 | 04:42:19.080-04:42:21.510 | Delwath] I mean, Fausto will probably start spreading tales, but...
 [u3645 | 04:42:22.470-04:42:22.740 | Seeker] I mean, he.
 [u3646 | 04:42:23.040-04:42:25.740 | Wellby] will go directly to the mage guard and say, hunt them down, here's the...
 [u3647 | 04:42:26.100-04:42:26.700 | Wellby] Their location.
 [u3648 | 04:42:27.330-04:42:28.230 | Seeker] yeah we have no time.
 [u3649 | 04:42:30.180-04:42:30.780 | DM] So I might do.
-[u3650 | 04:42:30.840-04:42:31.920 | Delwath] Faustus doesn't necessarily know.
+[u3650 | 04:42:30.840-04:42:31.920 | Delwath] Fausto doesn't necessarily know.
 [u3651 | 04:42:34.980-04:42:36.870 | Kenzo] They've been supporting us, right, with chalice.
 [u3652 | 04:42:38.790-04:42:39.000 | Wellby] Li.
 [u3653 | 04:42:39.150-04:42:42.540 | Wellby] We put the stone, we put everything in the hole, close it back up again.
@@ -3820,7 +3820,7 @@
 [u3820 | 04:54:00.270-04:54:03.660 | Delwath] Take a short rest slowly regain so I mean we could in theory.
 [u3821 | 04:54:06.150-04:54:08.160 | Delwath] Effectively stay invisible.
 [u3822 | 04:54:09.270-04:54:11.310 | Seeker] Depends exactly how we're being tracked, but yeah.
-[u3823 | 04:54:13.170-04:54:22.620 | Delwath] Well, I don't think, I mean, if the entire might of Chardon is after us, we're dead, right? We've got to assume that Faustus isn't gonna be, like...
+[u3823 | 04:54:13.170-04:54:22.620 | Delwath] Well, I don't think, I mean, if the entire might of Chardon is after us, we're dead, right? We've got to assume that Fausto isn't gonna be, like...
 [u3824 | 04:54:24.660-04:54:27.000 | Delwath] deadly focused on destroying us.
 [u3825 | 04:54:28.110-04:54:30.870 | Seeker] Right so yeah I think marching off invisible sensible.
 [u3826 | 04:54:30.990-04:54:38.550 | Delwath] It's just one of us has to be visible, so I think, well, I mean, while we get, get Baxter out, we never took him out of the mirror, right?
@@ -3834,10 +3834,10 @@
 [u3834 | 04:55:03.660-04:55:04.530 | Delwath] Or really...
 [u3835 | 04:55:06.660-04:55:24.960 | Delwath] All day and night heading towards, like, we want to kind of circle around towards the river, and then we want to find, then we want to hope that we're far enough away. I think we have to send some letters to Chardon. Should really send, like, a letter to the people we knew and met, like...
 [u3836 | 04:55:25.650-04:55:28.440 | Delwath] What's her name, Roscelia. We should, like, send her a letter that says...
-[u3837 | 04:55:28.860-04:55:30.300 | Delwath] Faustus is like something's...
+[u3837 | 04:55:28.860-04:55:30.300 | Delwath] Fausto is like something's...
 [u3838 | 04:55:30.360-04:55:31.740 | Kenzo] Wrong yes oh yeah.
-[u3839 | 04:55:32.760-04:55:36.360 | Kenzo] Faustus is in league with, like, fucking dark forces and...
-[u3840 | 04:55:37.440-04:55:44.700 | Delwath] We could write a letter describing what he's doing and basically say Faustus is either controlling him or in league with him.
+[u3839 | 04:55:32.760-04:55:36.360 | Kenzo] Fausto is in league with, like, fucking dark forces and...
+[u3840 | 04:55:37.440-04:55:44.700 | Delwath] We could write a letter describing what he's doing and basically say Fausto is either controlling him or in league with him.
 [u3841 | 04:55:45.240-04:55:46.140 | Delwath] Read he.
 [u3842 | 04:55:46.710-04:55:50.700 | Delwath] Falsely accused, he went back on a deal with us, tried to kill us and is accusing...
 [u3843 | 04:55:51.660-04:55:54.390 | Kenzo] Oh, we can't do Sending because we don't have Riswynn anymore, yeah.
@@ -3887,8 +3887,8 @@
 [u3887 | 04:58:27.390-04:58:39.510 | DM] I mean, mage guard is controlled by the imperial forces, not the, the university. It's unlikely they, they would care enough.
 [u3888 | 04:58:41.190-04:58:41.790 | Kenzo] But.
 [u3889 | 04:58:42.240-04:58:43.440 | Seeker] Jurisdictional issues.
-[u3890 | 04:58:43.590-04:58:46.200 | DM] Whether Faustus decides to, like...
-[u3891 | 04:58:46.650-04:58:49.050 | Kenzo] Faustus is going to send some fucking people after us for sure.
+[u3890 | 04:58:43.590-04:58:46.200 | DM] Whether Fausto decides to, like...
+[u3891 | 04:58:46.650-04:58:49.050 | Kenzo] Fausto is going to send some fucking people after us for sure.
 [u3892 | 04:58:49.050-04:58:51.210 | Seeker] People after you he'll hire some guys yeah.
 [u3893 | 04:58:52.200-04:58:52.920 | Wellby] So, but.
 [u3894 | 04:58:52.950-04:58:56.100 | Wellby] You know who's gonna get back to Chardon in just a couple of weeks.
@@ -3943,7 +3943,7 @@
 [u3943 | 05:01:09.210-05:01:10.890 | Seeker] yeah ask how the.
 [u3944 | 05:01:12.870-05:01:14.040 | DM] fourth or fifth level.
 [u3945 | 05:01:14.850-05:01:15.990 | Wellby] Halfway never tells.
-[u3946 | 05:01:16.560-05:01:26.160 | Kenzo] So that we send messages to all of them and just tell them everything, right? We tell them about Grash, we tell them that Faustus is in league with Grash, right.
+[u3946 | 05:01:16.560-05:01:26.160 | Kenzo] So that we send messages to all of them and just tell them everything, right? We tell them about Grash, we tell them that Fausto is in league with Grash, right.
 [u3947 | 05:01:26.700-05:01:32.910 | Riswynn] I mean long messages, or is Delwath having long dreams, or am I sending short Sendings that are based...
 [u3948 | 05:01:33.720-05:01:33.960 | Delwath] let's.
 [u3949 | 05:01:34.050-05:01:35.310 | Riswynn] figure this out, I feel.
@@ -3955,7 +3955,7 @@
 [u3955 | 05:01:54.960-05:01:55.470 | Delwath] Hopefully, like.
 [u3956 | 05:01:55.530-05:01:59.100 | DM] up some distance upstream from Chardon, yeah.
 [u3957 | 05:01:59.760-05:02:01.860 | Delwath] Like maybe two weeks after whatever.
-[u3958 | 05:02:02.250-05:02:08.250 | DM] Whatever makes sense. It's not going to be two weeks because Faustus’s people are going to catch up before that probably.
+[u3958 | 05:02:02.250-05:02:08.250 | DM] Whatever makes sense. It's not going to be two weeks because Fausto’s people are going to catch up before that probably.
 [u3959 | 05:02:09.150-05:02:11.010 | Seeker] don't don't, we have to drop off the eyes first.
 [u3960 | 05:02:11.790-05:02:12.240 | Delwath] No, no.
 [u3961 | 05:02:12.300-05:02:12.930 | Kenzo] that's a lot of the.
@@ -3979,9 +3979,9 @@
 [u3979 | 05:02:48.510-05:02:48.810 | Unknown] That.
 [u3980 | 05:02:51.390-05:02:58.500 | DM] It's like an entire werewolf cult traded the Scepter of Power for Scepter of Command for it.
 [u3981 | 05:03:00.660-05:03:01.260 | DM] Remember.
-[u3982 | 05:03:01.710-05:03:07.650 | Seeker] Yeah, whoops, but Faustus was very interested in it, and he was like, oh this, wow, yeah, so...
+[u3982 | 05:03:01.710-05:03:07.650 | Seeker] Yeah, whoops, but Fausto was very interested in it, and he was like, oh this, wow, yeah, so...
 [u3983 | 05:03:07.740-05:03:08.880 | DM] you'll just have to see what happens.
-[u3984 | 05:03:09.300-05:03:15.660 | Delwath] But the werewolf cult wanted to just, I mean maybe Faustus also wants to strike out, right?
+[u3984 | 05:03:09.300-05:03:15.660 | Delwath] But the werewolf cult wanted to just, I mean maybe Fausto also wants to strike out, right?
 [u3985 | 05:03:17.460-05:03:18.240 | Delwath] It doesn't sound like.
 [u3986 | 05:03:18.690-05:03:20.820 | Delwath] You can't control, Pandemonium is the opposite of control.
 [u3987 | 05:03:21.600-05:03:22.380 | Seeker] Right that's true.

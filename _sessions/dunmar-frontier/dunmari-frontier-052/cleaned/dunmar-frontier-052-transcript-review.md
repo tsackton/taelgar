@@ -4,7 +4,7 @@ Decisions awaiting review: 1.
 
 Review one session at a time. Resolve each item as `proposed`, `alternative 1`, `correction`, or `retain`; leave undecided items `pending`. A correction replaces only the indicated target. Retain preserves the original uncertainty.
 
-%% transcript-review:v1 {"version": 1, "title": "Dunmar Frontier — Session 52", "artifacts": {"original": "sources/dunmar-frontier-052.transcript.vtt", "prepared": "cleaned/dunmar-frontier-052-source-prepared.md", "cleaned": "cleaned/dunmar-frontier-052-source-cleaned.md", "polishedMarkdown": "cleaned/dunmar-frontier-052-transcript.md", "sessionMetadata": "cleaned/dunmar-frontier-052-session.yaml"}, "hashes": {"sources/dunmar-frontier-052.transcript.vtt": "8426b339c6ce0176bf786b5561f25453b47792dc5955f3c277c15c73dc1e05eb", "cleaned/dunmar-frontier-052-source-prepared.md": "cfcf1deffe3003a1251d2e35fb22f3d0affded2985a41cbdf6f55ccea98482f1", "cleaned/dunmar-frontier-052-source-cleaned.md": "0ddeb3a1d45cd64faea7ccf066c9cf5cec3fd3c8128eb7d1970689f169342b49", "cleaned/dunmar-frontier-052-transcript.md": "7c23836e738ad4073ec487bfe4ad321ea90601fa0bdfdca729ef944dc66f6f38", "cleaned/dunmar-frontier-052-session.yaml": "0a11e7ae191bca2a4179275d79d1692501d928c563e002489fbc73cfbca31200"}, "qualityComplete": true, "revisionActive": false, "retainedIssues": 0, "uncertainty": false} %%
+%% transcript-review:v1 {"version": 1, "title": "Dunmar Frontier — Session 52", "artifacts": {"original": "sources/dunmar-frontier-052.transcript.vtt", "prepared": "cleaned/dunmar-frontier-052-source-prepared.md", "cleaned": "cleaned/dunmar-frontier-052-source-cleaned.md", "polishedMarkdown": "cleaned/dunmar-frontier-052-transcript.md", "sessionMetadata": "cleaned/dunmar-frontier-052-session.yaml"}, "hashes": {"sources/dunmar-frontier-052.transcript.vtt": "8426b339c6ce0176bf786b5561f25453b47792dc5955f3c277c15c73dc1e05eb", "cleaned/dunmar-frontier-052-source-prepared.md": "cfcf1deffe3003a1251d2e35fb22f3d0affded2985a41cbdf6f55ccea98482f1", "cleaned/dunmar-frontier-052-source-cleaned.md": "faff477b109d83510afb73247e0fc4c7fe027ab1830f48800e89c57f3f90cad8", "cleaned/dunmar-frontier-052-transcript.md": "c2bbe69a4cd1942d1d42e3b8fe6d64f7d6c036acd1473765d6c6815b81b552aa", "cleaned/dunmar-frontier-052-session.yaml": "0a11e7ae191bca2a4179275d79d1692501d928c563e002489fbc73cfbca31200"}, "qualityComplete": true, "revisionActive": true, "retainedIssues": 0, "uncertainty": false} %%
 
 %% transcript-issue:v1 {"id": "issue-923cd4eee0676582", "uid": "u4249", "target": {"before": "Laston", "end": 6, "start": 0}, "contextRange": {"endUid": "u4265", "startUid": "u4224"}} %%
 ### u4249
@@ -14,8 +14,6 @@ u4249 · 02:42:05.077-02:42:07.117 · DM
 **Original:** Laston, I, I know him.
 
 **Proposed:** Last one, I, I know him.
-
-**Recognition concern:** “Laston” may be a fused recognition of “Last one,” referring to the second friend just named, Drago; it could also be a separately spoken name. The following survivor account makes that distinction consequential.
 
 **Recommendation:** Prefer “Last one” as the closest contextual and phonetic reading, but confirm before assigning the survivor account to Drago. Retain “Laston” unresolved if the recording does not distinguish the phrase from a name.
 

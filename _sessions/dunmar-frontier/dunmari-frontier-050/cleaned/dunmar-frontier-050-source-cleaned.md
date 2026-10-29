@@ -98,7 +98,7 @@
 [u0098 | 00:04:50.060-00:04:50.260 | Delwath] right?
 [u0099 | 00:04:51.060-00:04:52.420 | Seeker] We're being a little paranoid here.
 [u0100 | 00:04:53.260-00:04:53.540 | Kenzo] No, no.
-[u0101 | 00:04:53.540-00:04:57.000 | Seeker] I'm imagining a split screen of the situation and Faustus is just like, "Oh, oh well.
+[u0101 | 00:04:53.540-00:04:57.000 | Seeker] I'm imagining a split screen of the situation and Fausto is just like, "Oh, oh well.
 [u0102 | 00:04:57.020-00:04:58.980 | Seeker] Good luck, space citizen." And then he leaves.
 [u0103 | 00:04:59.080-00:05:00.000 | DM] I... No, I don't think.
 [u0104 | 00:05:01.160-00:05:02.620 | Delwath] I think we're being reasonable here.
@@ -108,7 +108,7 @@
 [u0108 | 00:05:11.060-00:05:11.960 | Seeker] That's the other question.
 [u0109 | 00:05:13.520-00:05:17.840 | Seeker] The danger is surely coming from some quarter that we're not looking in.
 [u0110 | 00:05:18.800-00:05:21.400 | Delwath] But the hope is that at least it will...
-[u0111 | 00:05:23.940-00:05:31.680 | Delwath] If it doesn't, I mean, Faustus is gonna find us eventually, but until we, like, sneak off into the Elderwood, out of reach.
+[u0111 | 00:05:23.940-00:05:31.680 | Delwath] If it doesn't, I mean, Fausto is gonna find us eventually, but until we, like, sneak off into the Elderwood, out of reach.
 [u0112 | 00:05:32.300-00:05:32.480 | Delwath] But
 [u0113 | 00:05:33.360-00:05:34.320 | Delwath] how far to the Elderwood, Tim?
 [u0114 | 00:05:37.960-00:05:38.940 | DM] It's far. It's about
@@ -812,7 +812,7 @@
 [u0812 | 00:40:58.900-00:41:03.920 | Seeker] He's, he's, he's collected the, the literature over millennia.
 [u0813 | 00:41:05.420-00:41:09.160 | Seeker] It's not to say that it's anyone, anyone's definitive account.
 [u0814 | 00:41:11.800-00:41:16.040 | Seeker] But, from what I can tell, people do go in and out of these Feywild portals.
-[u0815 | 00:41:24.080-00:41:25.080 | Kenzo] What about Faustus?
+[u0815 | 00:41:24.080-00:41:25.080 | Kenzo] What about Fausto?
 [u0816 | 00:41:27.200-00:41:29.380 | Wellby] I expect we probably should have seen that coming.
 [u0817 | 00:41:30.580-00:41:32.000 | Kenzo] I felt like I did see it coming.
 [u0818 | 00:41:33.000-00:41:33.420 | Kenzo] How so?
@@ -855,7 +855,7 @@
 [u0855 | 00:43:19.644-00:43:26.964 | DM] Perhaps, though, [laughs] we should have not got so much attention to ourselves just back here.
 [u0856 | 00:43:27.624-00:43:28.484 | Kenzo] I agree, yeah.
 [u0857 | 00:43:28.504-00:43:29.824 | Seeker] We're trying to lay low, right?
-[u0858 | 00:43:30.584-00:43:38.484 | Kenzo] Well, Faustus is gonna try to kill us, and there's almost certainly a Chardonian, uh, very, very powerful Chardonian, uh,
+[u0858 | 00:43:30.584-00:43:38.484 | Kenzo] Well, Fausto is gonna try to kill us, and there's almost certainly a Chardonian, uh, very, very powerful Chardonian, uh,
 [u0859 | 00:43:39.964-00:43:40.484 | Kenzo] characters
 [u0860 | 00:43:41.584-00:43:42.264 | Kenzo] on our trail.
 [u0861 | 00:43:42.364-00:43:43.684 | Seeker] Is there any clue
@@ -1025,19 +1025,19 @@
 [u1025 | 00:50:36.040-00:50:36.380 | Seeker] Yeah.
 [u1026 | 00:50:37.780-00:50:39.220 | Kenzo] Oh, like what happened to me?
 [u1027 | 00:50:39.300-00:50:39.780 | DM] Yeah, yeah, yeah.
-[u1028 | 00:50:39.780-00:50:42.320 | Delwath] Did you, did Faustus say something about
+[u1028 | 00:50:39.780-00:50:42.320 | Delwath] Did you, did Fausto say something about
 [u1029 | 00:50:43.660-00:50:47.260 | DM] doing something to us? He didn't try and do something?
 [u1030 | 00:50:47.260-00:50:48.020 | DM] I can't remember.
 [u1031 | 00:50:48.020-00:50:52.140 | DM] He said none of you are even pure enough to be worth the effort.
 [u1032 | 00:50:52.140-00:50:54.780 | Seeker] What is this sense of purity that he's talking about?
 [u1033 | 00:50:57.280-00:50:58.660 | Kenzo] So what's interesting here, too,
-[u1034 | 00:51:00.600-00:51:04.400 | Kenzo] it does feel as though Faustus himself was cleansed.
+[u1034 | 00:51:00.600-00:51:04.400 | Kenzo] it does feel as though Fausto himself was cleansed.
 [u1035 | 00:51:05.040-00:51:05.840 | DM] He was.
 [u1036 | 00:51:05.840-00:51:13.260 | Kenzo] He doesn't... So in other words, in the hierarchy, there's clearly, or it feels as though there's somebody, like, he's reporting to.
 [u1037 | 00:51:15.120-00:51:23.120 | DM] The question is, does Grash report to him or does he report to a higher-up?
 [u1038 | 00:51:23.140-00:51:27.560 | Seeker] If I had to guess, I would guess there's some hidden actor that they both report to.
 [u1039 | 00:51:27.720-00:51:28.100 | Kenzo] Agreed.
-[u1040 | 00:51:33.200-00:51:35.480 | Seeker] Somehow it doesn't seem like Grash would be scared of Faustus.
+[u1040 | 00:51:33.200-00:51:35.480 | Seeker] Somehow it doesn't seem like Grash would be scared of Fausto.
 [u1041 | 00:51:47.340-00:51:47.500 | Kenzo] Right.
 [u1042 | 00:51:47.500-00:51:47.840 | Seeker] I mean,
 [u1043 | 00:51:55.700-00:51:57.380 | Seeker] doing a lot of preparation here.
@@ -1061,7 +1061,7 @@
 [u1061 | 00:52:54.500-00:52:56.639 | Kenzo] We need to disseminate this information widely.
 [u1062 | 00:52:56.639-00:52:58.360 | Seeker] I mean, surely people have some inkling.
 [u1063 | 00:52:58.360-00:53:01.680 | Seeker] Like, there was a crazy commotion and suddenly disappeared.
-[u1064 | 00:53:03.240-00:53:04.760 | Seeker] Faustus will probably tell people.
+[u1064 | 00:53:03.240-00:53:04.760 | Seeker] Fausto will probably tell people.
 [u1065 | 00:53:05.400-00:53:06.860 | Wellby] Wow, that is still weird.
 [u1066 | 00:53:06.860-00:53:09.100 | DM] Yeah, that was, uh, that was weird.
 [u1067 | 00:53:09.100-00:53:09.640 | DM] Yeah, that was
@@ -2238,9 +2238,9 @@
 [u2238 | 01:44:45.988-01:44:52.708 | Delwath] I'm not trying to just... I'm, I'm looking for a clue that says she's not, that she's made it in the mountains of the east.
 [u2239 | 01:44:52.728-01:44:52.808 | DM] Yes.
 [u2240 | 01:44:52.828-01:44:55.068 | Delwath] You can just say yes and find a clue that she has made
-[u2241 | 01:44:56.868-01:44:58.088 | Delwath] it. And I will scry Faustus.
+[u2241 | 01:44:56.868-01:44:58.088 | Delwath] it. And I will scry Fausto.
 [u2242 | 01:44:59.108-01:45:02.388 | Kenzo] I believe. [laughs]
-[u2243 | 01:45:02.428-01:45:03.848 | Kenzo] Faustus? Is that a gay bar?
+[u2243 | 01:45:02.428-01:45:03.848 | Kenzo] Fausto? Is that a gay bar?
 [u2244 | 01:45:03.848-01:45:05.988 | Unknown] [laughs]
 [u2245 | 01:45:06.068-01:45:07.588 | DM] He's probably the biggest sinner.
 [u2246 | 01:45:07.688-01:45:08.248 | Delwath] Yeah.
@@ -5081,7 +5081,7 @@
 [u5081 | 03:47:04.288-03:47:05.428 | Kenzo] Let's check that here.
 [u5082 | 03:47:06.988-03:47:08.308 | Delwath] He's sleeping for eight hours.
 [u5083 | 03:47:08.848-03:47:09.728 | Delwath] Twelve.
-[u5084 | 03:47:16.928-03:47:18.608 | Delwath] I'm gonna scry Faustus, though.
+[u5084 | 03:47:16.928-03:47:18.608 | Delwath] I'm gonna scry Fausto, though.
 [u5085 | 03:47:21.468-03:47:23.328 | Kenzo] Have you-- Has anybody drawn a picture of him yet?
 [u5086 | 03:47:25.348-03:47:26.908 | Seeker] I've seen him at a bad time too, but...
 [u5087 | 03:47:29.288-03:47:29.468 | DM] Yeah.
@@ -5103,7 +5103,7 @@
 [u5103 | 03:48:32.828-03:48:35.848 | DM] Just sort of like [crosstalk]
 [u5104 | 03:48:35.848-03:48:44.108 | DM] Yeah, sort of dark [crosstalk] Um,
 [u5105 | 03:48:45.468-03:48:46.228 | DM] what are you scrying?
-[u5106 | 03:48:48.048-03:48:49.268 | DM] I'm gonna scry Faustus.
+[u5106 | 03:48:48.048-03:48:49.268 | DM] I'm gonna scry Fausto.
 [u5107 | 03:48:51.748-03:48:52.768 | Delwath] I think we have a picture.
 [u5108 | 03:48:53.608-03:48:54.188 | DM] Yeah, that's a good idea too.
 [u5109 | 03:48:54.668-03:49:02.708 | DM] Okay.
