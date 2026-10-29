@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 29
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-029-source-cleaned.md
 
 ## Transcript
@@ -5165,8 +5165,8 @@ DM: There was one mysterious one who didn't seem to speak much and seemed to be 
 %% u2722:0-92, u2723:0-104, u2724:0-95 %%
 DM: Chatty they told us some strange tales of the desert some oasis surrounded by walls of sand. Not sure how much I believed worms that erupted out of the earth to attack them said they fend them off. Fought some things like that around here those insect beasts that spit acid sometimes come out.
 
-%% u2725:0-35, u2726:0-132, u2727:0-35, u2728:0-89, u2729:0-121, u2730:0-27, u2731:0-6, u2732:0-49, u2733:0-96 %%
-DM: But then I noticed one of them had—had saddled their horse with something that was clearly of Dunmari make into my mind seemed like it must be magical. It was very old. {{Last}} said it dated back to the to the second Hobgoblin War 150 years ago, and yet it was still completely new condition. Said he found that out in the desert, and I said well if I found your halberd lying on the ground with that make it mine? He didn't really like that but I— Got my men together my band, and we, you know we— You know, we wanted to take back what was ours this, why should they ride off with Dunmari gear.
+%% u2725:0-35, u2726:0-132, u2727:0-30, u2728:0-89, u2729:0-121, u2730:0-27, u2731:0-6, u2732:0-49, u2733:0-96 %%
+DM: But then I noticed one of them had—had saddled their horse with something that was clearly of Dunmari make into my mind seemed like it must be magical. It was very old. Lad said it dated back to the to the second Hobgoblin War 150 years ago, and yet it was still completely new condition. Said he found that out in the desert, and I said well if I found your halberd lying on the ground with that make it mine? He didn't really like that but I— Got my men together my band, and we, you know we— You know, we wanted to take back what was ours this, why should they ride off with Dunmari gear.
 
 %% u2734:0-13, u2735:0-83, u2736:0-16, u2737:0-58 %%
 DM: But Candrosa— Told us Candrosa calm people down, he said now's not the time to start a fight and— In this climate— You know, we can't be threatening those who come in peace.
@@ -6200,8 +6200,8 @@ Wellby: That would be interesting.
 %% u3374:0-26 %%
 Delwath: That would be interesting.
 
-%% u3375:0-85 %%
-Delwath: And remind me what we know about {{profit cars}} is the Chardonians stole them right?
+%% u3375:0-84 %%
+Delwath: And remind me what we know about Hralgar's eyes is the Chardonians stole them right?
 
 %% u3376:0-36, u3377:0-40 %%
 DM: Yeah presumption is the Chardonians liberated them and took them to Chardon.
@@ -6350,11 +6350,11 @@ Kenzo: Is a [garbled] Chidya.
 %% u3459:0-69 %%
 DM: Holly there's actually there's actually four more because you've got—
 
-%% u3460:0-13 %%
-Delwath: {{OSHA una}}.
+%% u3460:0-14 %%
+Delwath: Bhishma, Laka.
 
-%% u3461:0-12, u3462:0-15, u3463:0-34 %%
-DM: {{una}} and Shakun and and and Bhishma but sort of demi gods.
+%% u3461:0-9, u3462:0-15, u3463:0-34 %%
+DM: Laka and Shakun and and and Bhishma but sort of demi gods.
 
 %% u3464:0-26 %%
 Delwath: They only like half count.

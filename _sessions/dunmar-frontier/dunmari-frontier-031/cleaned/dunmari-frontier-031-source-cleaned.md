@@ -273,7 +273,7 @@
 [u0273 | 00:22:34.020-00:22:35.280 | Wellby] Until they've recovered enough.
 [u0274 | 00:22:37.170-00:22:38.280 | Delwath] If they will recover.
 [u0275 | 00:22:39.270-00:22:43.980 | Kenzo] it's true the where are we relative to the two monks additional months.
-[u0276 | 00:22:44.790-00:22:47.700 | DM] {{are two are very close to the bathroom}}.
+[u0276 | 00:22:44.790-00:22:47.700 | DM] You are—you are very close to Bas Udda.
 [u0277 | 00:22:49.680-00:22:50.850 | Kenzo] Okay got it.
 [u0278 | 00:22:51.060-00:22:54.930 | Delwath] So not actually we're probably about equidistant to Karawa and the stone.
 [u0279 | 00:22:54.990-00:22:55.980 | DM] you're you're.
@@ -1606,7 +1606,7 @@
 [u1606 | 01:51:42.030-01:51:44.040 | Kenzo] Okay, I get two attacks, so I can I can.
 [u1607 | 01:51:44.040-01:51:44.490 | Kenzo] shoot out you're.
 [u1608 | 01:51:44.520-01:51:47.370 | DM] Not with it that you're casting a spell you're not attacking yeah.
-[u1609 | 01:51:49.530-01:51:53.310 | Kenzo] Okay, and then I guess can I bonus action soul Clinton.
+[u1609 | 01:51:49.530-01:51:53.310 | Kenzo] Okay, and then I guess can I bonus action Soul Sight.
 [u1610 | 01:51:55.140-01:51:55.560 | Kenzo] you're having a.
 [u1611 | 01:51:55.890-01:51:56.460 | DM] Hard yeah.
 [u1612 | 01:51:57.690-01:51:59.310 | Kenzo] i'll do, that is.
@@ -3176,7 +3176,7 @@
 [u3176 | 03:50:41.520-03:50:41.850 | Unknown] I mean.
 [u3177 | 03:50:45.390-03:50:45.810 | Delwath] yeah.
 [u3178 | 03:50:50.310-03:50:50.850 | Kenzo] What is it.
-[u3179 | 03:50:51.420-03:50:53.970 | Delwath] I just I wonder if we should federal the.
+[u3179 | 03:50:51.420-03:50:53.970 | Delwath] I just I wonder if we should ferry the.
 [u3180 | 03:50:55.260-03:50:56.340 | Delwath] Dunmari first.
 [u3181 | 03:50:56.370-03:51:01.470 | Kenzo] yeah bring them in about this i'll bring the I can bring the Dunmari into town with me.
 [u3182 | 03:51:01.980-03:51:14.460 | Kenzo] Cintra because they're obviously just need care so Cintra Cintra can help you know get them set up so that they're being cared for someplace probably in the temple and then and then i'll bring Cintra out to talk about the items.
@@ -3447,7 +3447,7 @@
 [u3447 | 04:09:55.590-04:09:57.420 | Kenzo] most important thing we need to know is who's trapped in.
 [u3448 | 04:09:57.510-04:09:58.710 | Delwath] them yeah I think we.
 [u3449 | 04:09:58.740-04:10:01.740 | Delwath] We show the mirror to the mirror and the question we ask is.
-[u3450 | 04:10:02.130-04:10:04.620 | Delwath] Who is a shocker well i've seen you over the years.
+[u3450 | 04:10:02.130-04:10:04.620 | Delwath] Who has Agata put inside you?
 [u3451 | 04:10:04.770-04:10:07.650 | Seeker] The WHO who volunteers to hold up the mirror the mirror.
 [u3452 | 04:10:08.130-04:10:09.420 | Wellby] Oh, this has been done before.
 [u3453 | 04:10:09.750-04:10:10.650 | Kenzo] Oh yeah but.
@@ -3682,7 +3682,7 @@
 [u3682 | 04:25:51.450-04:25:53.160 | DM] it's probably pre Great War.
 [u3683 | 04:25:54.270-04:25:55.380 | DM] Is your best guess.
 [u3684 | 04:25:58.080-04:26:01.980 | DM] This is the kind of style of ruin that sort of litters.
-[u3685 | 04:26:04.680-04:26:23.430 | DM] So south of the like ruins, you know up on the map like up here, these big ruins if you can see the like giant crater with {{monster}} used to be south of there like along here there's like there used to be, you know fairly substantial hobgoblin presence here.
+[u3685 | 04:26:04.680-04:26:23.430 | DM] So south of the like ruins, you know up on the map like up here, these big ruins if you can see the like giant crater where mountains used to be south of there like along here there's like there used to be, you know fairly substantial hobgoblin presence here.
 [u3686 | 04:26:24.150-04:26:26.100 | DM] And this is where a lot of hobgoblins fought.
 [u3687 | 04:26:26.130-04:26:27.000 | DM] In the Great War.
 [u3688 | 04:26:28.530-04:26:33.900 | DM] And that's so there's a bunch of ruins along there now and that's kind of what this feels like to you.
@@ -3858,7 +3858,7 @@
 [u3858 | 04:38:36.480-04:38:37.110 | Kenzo] yeah let's.
 [u3859 | 04:38:37.650-04:38:38.460 | DM] I will wait.
 [u3860 | 04:38:39.750-04:38:40.830 | Kenzo] let's free the other three.
-[u3861 | 04:38:41.100-04:38:43.440 | Delwath] yeah {{you don't really}} orc either.
+[u3861 | 04:38:41.100-04:38:43.440 | Delwath] yeah we don't free the orc either.
 [u3862 | 04:38:43.950-04:38:44.580 | Kenzo] yeah just.
 [u3863 | 04:38:44.610-04:38:45.810 | Seeker] there's two there's two yeah.
 [u3864 | 04:38:46.560-04:38:47.760 | DM] What number are you gonna say.

@@ -685,7 +685,7 @@
 [u0685 | 00:59:23.670-00:59:28.200 | Delwath] And the centaurs felt like she could be dealt with.
 [u0686 | 00:59:29.970-00:59:32.130 | Delwath] They had an agreement with her did they not.
 [u0687 | 00:59:32.640-00:59:35.580 | Seeker] Indeed, did they did, and still.
-[u0688 | 00:59:38.700-00:59:49.380 | Kenzo] sort of looks at Cintra. It's a long story. We, there was a—there's a storm giant in {{it's our fan}}, it was—we had some interactions with it.
+[u0688 | 00:59:38.700-00:59:49.380 | Kenzo] sort of looks at Cintra. It's a long story. We, there was a—there's a storm giant and it's our friend, it was—we had some interactions with it.
 [u0689 | 00:59:50.580-00:59:56.160 | Kenzo] There we ran into some centaurs. They are now currently in Karawa helping to.
 [u0690 | 00:59:57.330-01:00:02.460 | Kenzo] protect the temple alongside Candrosa until the heart can be returned.
 [u0691 | 01:00:03.600-01:00:06.030 | Kenzo] We can tell more the details there's there's a lot.

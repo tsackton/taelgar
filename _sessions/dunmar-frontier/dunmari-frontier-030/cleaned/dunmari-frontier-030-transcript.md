@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 30
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-030-source-cleaned.md
 
 ## Transcript
@@ -26,8 +26,8 @@ DM: Cintra and her daughter Jumi, now safe back in the Temple of Shakun, with Sh
 %% u0016:0-153, u0017:0-112, u0018:0-124 %%
 DM: With Seeker and Wellby having asked to have your connections to the heart cauterized and ended, so as not to be a continual drain on its power, can feel this sort of sense, this magic slowly fading in your consciousness as the memories of this web among the Mystai become hard for you to concentrate on. Other memories of your adventures remain, but when you try and recall the details of—
 
-%% u0019:0-152, u0020:0-222, u0021:0-238 %%
-DM: What Shakun's heart is, you find your mind slipping away from that knowledge. Kenzo and Drikod, intending to be fully bound into this web of power when—when you return and can go through the full initiation ritual, can feel it growing stronger, becoming more real and real and substantial than you could have imagined before, and you can actually almost see the sort of, um, sort of energy creeping out across the land and inching out from Karawa towards the border, and with each pulse of the heart this power stretches a little bit further, and you can feel your connection to it begin to {{have a little bit}}.
+%% u0019:0-152, u0020:0-222, u0021:0-233 %%
+DM: What Shakun's heart is, you find your mind slipping away from that knowledge. Kenzo and Drikod, intending to be fully bound into this web of power when—when you return and can go through the full initiation ritual, can feel it growing stronger, becoming more real and real and substantial than you could have imagined before, and you can actually almost see the sort of, um, sort of energy creeping out across the land and inching out from Karawa towards the border, and with each pulse of the heart this power stretches a little bit further, and you can feel your connection to it begin to ebb a little bit.
 
 %% u0022:0-44, u0023:0-4, u0024:0-21, u0025:0-8, u0026:0-145 %%
 DM: As dawn broke, you said goodbye to Candrosa, who brought a small cart—leading a donkey pulling a small cart laden with what supplies he could find and, just in case it turns out to matter, like food's kind of short in town.
@@ -791,8 +791,8 @@ Seeker: Can think of something similar but different. Ideally in the form of gog
 %% u0497:0-66 %%
 Kenzo: Never thought I'd have to Soul Sight one of our own party members.
 
-%% u0498:0-42, u0499:0-38 %%
-Delwath: I kind of like, none of you trust Delwath. You're just prejudiced against [garbled].
+%% u0498:0-42, u0499:0-40 %%
+Delwath: I kind of like, none of you trust Delwath. You're just prejudiced against darkness.
 
 %% u0500:0-163 %%
 Drikod: Drikod is thinking of how his villages run themselves, which are all consensus-based. How can you use consensus to decide to use a weapon that overrides consensus?
@@ -851,8 +851,8 @@ Kenzo: The Drankorians were human, right?
 %% u0537:0-10 %%
 DM: Yeah yeah.
 
-%% u0538:0-203 %%
-Delwath: But they had, like, this connection to the elves, right? Like there was the whole elven, dead elven advisors, and like {{didn't cry}} was like Drankorian, his people were like Drankorian in some fashion.
+%% u0538:0-192 %%
+Delwath: But they had, like, this connection to the elves, right? Like there was the whole elven, dead elven advisors, and like Rai was like Drankorian, his people were like Drankorian in some fashion.
 
 %% u0539:0-7 %%
 DM: Mm hmm.
@@ -1214,8 +1214,8 @@ Kenzo: Which, in a pinch, Seeker could always do, or I guess even Wellby could d
 %% u0768:0-5 %%
 Seeker: Also—
 
-%% u0769:0-143 %%
-Wellby: Wondering perhaps, like {{if perhaps knows her nose or fly}}, is it not possible that it's only visible from the air, possible to approach, or.
+%% u0769:0-145 %%
+Wellby: Wondering perhaps, like if perhaps it knows her, knows her fly, is it not possible that it's only visible from the air, possible to approach, or.
 
 %% u0770:0-116 %%
 Seeker: An interesting thought. So one of us could take the fly up and over the trees, just to look down and see what we see.
@@ -5240,8 +5240,8 @@ DM: I'm.
 %% u2839:0-36 %%
 Delwath: Is there any cooking equipment here?
 
-%% u2840:0-34 %%
-DM: No, there's {{medical equipment}}.
+%% u2840:0-33 %%
+DM: No, there's no cooking equipment.
 
 %% u2841:0-42 %%
 Kenzo: Each cell's got, like, a different author.
