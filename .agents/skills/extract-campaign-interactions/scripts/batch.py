@@ -6,14 +6,14 @@ import os
 from pathlib import Path
 from urllib.parse import quote
 from jsonschema import ValidationError
-from session_model import apply_review, validate, render, critical_queue, check_evidence, digest, vault_path
+from session_model import apply_review, validate, render, critical_queue, check_evidence, campaign_name, entity_anchor, review_entities, ready
 
 
 def read(path):
     return json.loads(Path(path).read_text())
 
 
-def audit_chain(folder, vault, selection=None):
+def audit_chain(folder, vault, selection=None, source_revision=None):
     """Replay the immutable trial reports; later edits need a new review candidate."""
     folder = Path(folder)
     data = read(folder / 'extraction.json')
@@ -61,9 +61,9 @@ def audit_chain(folder, vault, selection=None):
             if len(removals) != len(removed) or {r['target'] for r in removals} != removed:
                 raise ValueError('Removed records require explicit removal decisions')
             for removal in removals:
-                check_evidence(removal, validate(data, vault)['catalog'], vault)
+                check_evidence(removal, validate(data, vault, source_revision)['catalog'], vault)
             data = corrected
-        data = apply_review(data, report, vault)
+        data = apply_review(data, report, vault, source_revision=source_revision)
         findings.update({d['target']:d['reason'] for d in report['decisions']})
     if data != read(folder / 'session.json'):
         raise ValueError('Published session differs from its reviewed candidate chain')
@@ -72,7 +72,8 @@ def audit_chain(folder, vault, selection=None):
             raise ValueError('Published execution does not match sampled campaign/session')
         if len(data['sources']) != 1 or data['sources'][0]['path'] != selection['source']:
             raise ValueError('Published execution does not match sampled transcript')
-        if digest(vault_path(vault, data['sources'][0]['path'])) != selection['sha256']:
+        catalog = validate(data, vault, source_revision)['catalog']
+        if catalog.hashes[data['sources'][0]['id']] != selection['sha256']:
             raise ValueError('Published transcript changed since sampling')
     execution = read(folder / 'execution.json')
     if execution.get('correctionAttempts') != len(reports) - 1:
@@ -85,55 +86,71 @@ def audit_chain(folder, vault, selection=None):
     return data, findings
 
 
-def build(vault, sample, results, output):
-    rows = []
-    def link(path, label):
-        return f'[{label}]({quote(os.path.relpath(path, Path(output).parent), safe="/.-_")})'
-    lines = [f'# {len(sample["selected"])}-session interaction trial', '',
-             'Schema v5 · Agent extraction followed by a separate semantic review · Existing beats used only as optional review hints.', '',
-             'This is a prototype of the extraction and review process, not an automatic promotion of all records into canon. Medium/low critical records remain provisional.', '',
-             f'Seed: `{sample["seed"]}`. {len(sample["selected"])} sessions selected without replacement from {len(sample["population"])} available transcripts, with campaign variety guaranteed before filling remaining slots.', '',
-             '| Session | Scenes / entities / interactions | Critical metadata | Provisional entities | Review |',
-             '| --- | --- | --- | --- | --- |']
+def build(vault, sample, results, output, source_revision=None, exclusions=None):
+    rows, directory = [], []
+    exclusions = exclusions or {}
+    if set(exclusions) - {s['id'] for s in sample['selected']}:
+        raise ValueError('Display exclusions refer to an unsampled session')
+    def link(path, label, anchor=''):
+        return f'[{label}]({quote(os.path.relpath(path, Path(output).parent), safe="/.-_")}{anchor})'
+    lines = [f'# Entity reviews · {len(sample["selected"])} sessions', '',
+             'Choose a session to review its NPCs, significant items and organizations. Each entity has an overview, vault match, confidence, review notes and expandable quotes and interactions.', '',
+             'Ordinary treasure is excluded from the review lists. Original extraction JSON and review decisions are retained.', '']
     if (Path(results) / 'FINDINGS.md').exists():
-        lines[2:2] = [link(Path(results) / 'FINDINGS.md', 'Findings and suggested starting points') + ' · [Model overview](../MODEL_OVERVIEW.md)', '']
+        lines += [link(Path(results) / 'FINDINGS.md', 'Trial findings') + ' · [Model overview](../MODEL_OVERVIEW.md)', '']
+    if source_revision:
+        lines += [f'Transcript links and audit checks use the reviewed source snapshot at `{source_revision[:9]}`. Sessions whose current transcript has changed are marked below; their extraction has not been refreshed.', '']
+    lines += ['| Session | NPCs | Items | Organizations | Provisional entities | Session metadata | Source |',
+              '| --- | --- | --- | --- | --- | --- | --- |']
     for selection in sample['selected']:
         folder = Path(results) / selection['id']
         row = {'id':selection['id'], 'status':'pending'}
         if (folder / 'session.json').exists():
             try:
-                data, findings = audit_chain(folder, vault, selection)
-                checks = validate(data, vault); checks.pop('catalog')
-                cards = render(data, vault, folder / 'review.md', findings)
-                if (folder / 'independent-audit.json').exists():
-                    audit = read(folder / 'independent-audit.json')
-                    cards += '\n## Independent audit observations\n\n'
-                    cards += '\n'.join(f'- `{f["target"]}`: {f["reason"]}' for f in audit.get('findings', [])) + '\n'
+                data, findings = audit_chain(folder, vault, selection, source_revision)
+                checks = validate(data, vault, source_revision)
+                catalog = checks.pop('catalog')
+                excluded = exclusions.get(selection['id'], {})
+                entities = review_entities(data, excluded)
+                observations = read(folder / 'independent-audit.json').get('findings', []) if (folder / 'independent-audit.json').exists() else []
+                cards = render(data, vault, folder / 'review.md', findings, source_revision, excluded, observations)
                 (folder / 'review.md').write_text(cards)
                 queue = critical_queue(data)
                 for item in queue:item['reason'] = findings.get(item['target'], item['reason'])
                 (folder / 'queue.json').write_text(json.dumps(queue, ensure_ascii=False, indent=2) + '\n')
                 counts = [len(data.get(k, [])) for k in ['scenes','entities','interactions']]
-                row.update(status='reviewed', counts=counts, checks=checks, criticalQueue=queue)
-                state = 'Ready' if checks['metadataReady'] else data['review']['confidence'] + ' · provisional'
-                lines.append(f'| {selection["id"]} | {" / ".join(map(str, counts))} | {state} | {checks["provisionalEntities"]} | {link(folder / "review.md", "Cards")} · {link(folder / "session.json", "JSON")} |')
+                row.update(status='reviewed', counts=counts, checks=checks, criticalQueue=queue,
+                           displayedEntities=len(entities), excludedEntities=excluded, currentSourceChanged=bool(catalog.current_changed))
+                title = f'{campaign_name(data, vault)} {data["session"]}'
+                kind_counts = [sum(e['kind'] == k for e in entities) for k in ['npc','item','organization']]
+                state = 'High · reviewed' if checks['metadataReady'] else data.get('review', {}).get('confidence', 'unknown').capitalize() + ' · provisional'
+                source_state = '**Changed since review**' if catalog.current_changed else 'Unchanged'
+                provisional = sum(not ready(e) for e in entities)
+                lines.append(f'| {link(folder / "review.md", title, "#entity-list")} | {kind_counts[0]} | {kind_counts[1]} | {kind_counts[2]} | {provisional} | {state} | {source_state} |')
+                directory += [f'### {link(folder / "review.md", title)}', '']
+                for kind, label in [('npc', 'NPCs'), ('item', 'Items'), ('organization', 'Organizations')]:
+                    names = [link(folder / 'review.md', e['label'].replace('|', '\\|'), '#' + entity_anchor(e['id'])) + (' **(?)**' if not ready(e) else '') for e in entities if e['kind'] == kind]
+                    if names:directory += [f'**{label}:** ' + ' · '.join(names), '']
             except (ValueError, KeyError, OSError, ValidationError) as error:
                 row.update(status='invalid', error=str(error))
-                lines.append(f'| {selection["id"]} | — | Audit failed | — | {str(error).replace("|", "/")} |')
+                lines.append(f'| {selection["id"]} | — | — | — | — | Audit failed | {str(error).replace("|", "/")} |')
         else:
-            lines.append(f'| {selection["id"]} | — | Pending | — | — |')
+            lines.append(f'| {selection["id"]} | — | — | — | — | Pending | — |')
         rows.append(row)
     complete = all(r['status']=='reviewed' for r in rows)
-    lines += ['', f'Execution coverage: **{sum(r["status"]=="reviewed" for r in rows)}/{len(rows)} reviewed**. A reviewed execution may still have provisional critical facts.', '',
-              '## What to critique', '',
-              '- Are scenes divided usefully, and do conversations remain whole?',
-              '- Are the selected NPCs, items and organizations useful without becoming exhaustive creature lists?',
-              '- Do the quotes and short summaries make the source worth opening?',
-              '- Are the unresolved critical questions specific enough for fast review?', '',
-              'Each folder preserves the initial extraction, digest-bound review decisions, any one-round correction candidate, final session, execution evidence and unresolved queue. Links open the original source range. AI summaries are navigation aids.', '',
-              'The Python commands prepare inputs, validate provenance, apply externally authored review judgments and render results. Agents perform semantic extraction and review; this trial does not measure autonomous API cost or calibrated confidence accuracy.', '']
+    lines += ['', '## What to review', '',
+              '- Are the right entities included, with the right vault matches?',
+              '- Does each overview capture the entity’s role in the session?',
+              '- Are the featured quotes useful, and are review questions easy to resolve?', '',
+              '## Entity directory', '', '**(?)** marks a provisional entity. Names link directly to its review entry.', '', *directory,
+              '<details>', '<summary>Sampling and validation details</summary>', '',
+              f'Schema v5. Seed `{sample["seed"]}`; {len(sample["selected"])} sessions selected without replacement from {len(sample["population"])} available transcripts, across the available campaigns.', '',
+              f'**{sum(r["status"]=="reviewed" for r in rows)}/{len(rows)} execution chains verified**' + (' against the reviewed transcript snapshot.' if source_revision else '.'), '',
+              'Saved confidence and review states are unchanged. Passing the audit does not resolve provisional facts or constitute a new semantic review. Display exclusions are presentation choices; they do not rewrite the original extraction or its review history.', '',
+              'Agents performed extraction and semantic review; Python validates and renders their records. Existing beats were optional review hints. This trial does not measure autonomous API cost or calibrated confidence.', '',
+              '</details>', '']
     Path(output).write_text('\n'.join(lines))
-    return {'seed':sample['seed'],'complete':complete,'executions':rows}
+    return {'seed':sample['seed'],'complete':complete,'sourceRevision':source_revision,'executions':rows}
 
 
 def main():
@@ -143,9 +160,13 @@ def main():
     p.add_argument('--results', type=Path, required=True)
     p.add_argument('--output', type=Path, required=True)
     p.add_argument('--status', type=Path)
+    p.add_argument('--review-options', type=Path, help='Presentation-only sourceRevision and excludedEntities settings')
     p.add_argument('--require-complete', action='store_true')
     a = p.parse_args()
-    result = build(a.vault.resolve(), read(a.sample), a.results, a.output)
+    options = read(a.review_options) if a.review_options else {}
+    if set(options) - {'sourceRevision', 'excludedEntities'}:
+        raise ValueError('Unknown review options')
+    result = build(a.vault.resolve(), read(a.sample), a.results, a.output, options.get('sourceRevision'), options.get('excludedEntities'))
     if a.status:a.status.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n')
     print(json.dumps({'complete':result['complete'],'statuses':{r['id']:r['status'] for r in result['executions']}}))
     if a.require_complete and not result['complete']:raise SystemExit(1)

@@ -2,6 +2,8 @@
 
 All ten sampled transcripts were processed: **165 scenes, 197 entities and 358 interactions** across six campaigns. The sample was fixed before extraction, using seed `20261028` and a population of 153 available transcripts. No sessions were replaced after seeing their results.
 
+The rebuilt [entity review directory](README.md) displays **195 entities**: two ordinary-treasure entries are omitted under the updated inclusion rule. Original JSON and review decisions are preserved. Transcript links use the reviewed source version at `5c88c732c`; Dunmar 57, 58 and 64 have newer transcripts, so those pages explicitly identify the extraction as historical.
+
 **191 of 197 entity records passed critical review. Eight session metadata groups remain provisional:** six have chronology questions, and the two Dragonets sessions lack individual vault pages for their participating PCs. There are 14 critical queue entries overall. These are unresolved questions, not a measured count of factual errors.
 
 ## Useful places to start

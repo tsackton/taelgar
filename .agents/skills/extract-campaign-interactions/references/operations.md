@@ -59,6 +59,18 @@ The batch auditor replays review reports, binds each execution to the sampled ca
 
 The audit continues across failed sessions and distinguishes reviewed executions from high-confidence critical facts. It renders actionable queue reasons from review decisions. For an individual rendering, add repeated `--report` arguments in chronological order to `process.py render` to show the same reasons.
 
+Reviews open with an entity index, then entity overviews, vault matches and confidence. Provisional review reasons and independent audit observations appear beside the affected entity. Featured quotes and interactions expand on demand; scene context is linked from interactions and collected at the end. The batch index includes a directory linking directly to every displayed entity.
+
+For a presentation-only rebuild of the published v5 pilot, use its explicit review options:
+
+```sh
+python .agents/skills/extract-campaign-interactions/scripts/batch.py --vault . --sample _sessions/interaction-pilot/v5/sample.json --results _sessions/interaction-pilot/v5 --output _sessions/interaction-pilot/v5/README.md --status _sessions/interaction-pilot/v5/batch-status.json --review-options _sessions/interaction-pilot/v5/review-options.json --require-complete
+```
+
+`sourceRevision` in that options file is a full Git commit SHA. It reads historical transcript bytes without checking out or overwriting sources, still checks the saved hashes and verbatim quotes, and links to that immutable GitHub version. Changed current transcripts are explicitly marked. Without this option, changed sources continue to fail validation. This audits the original evidence; it does not refresh the extraction or promote its confidence.
+
+`excludedEntities` maps session IDs to item IDs and explicit reasons. This pilot uses it solely to omit two ordinary-treasure records from the display under the user's updated rule. The exclusions are disclosed in the review, while canonical JSON, review reports, and the complete critical queue stay intact. It is not a way to delete review decisions or silently clear uncertain records. New extractions should exclude ordinary treasure at extraction time.
+
 This audit verifies the execution record, not the truth of an agent's judgments or the calibration of confidence. Agent review still has to happen. The stateless `apply-review` command only checks that an attempt is 0 or 1; use the batch audit and retain its input chain to check the execution-wide limit.
 
 Checks:

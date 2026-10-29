@@ -1,6 +1,15 @@
-# mawar session 3
+# Mawar Adventures · Session 3
 
-Real-world date: 2021-11-27 · Critical metadata: **medium / automatedReviewed** · **Provisional critical metadata**
+[All sessions](../README.md) · [Original session JSON](session.json)
+
+**22 entities** · 0 provisional · Played 2021-11-27
+
+Start with the entity list. Each entry has its session overview, vault match and review notes; expand quotes or interactions for evidence.
+
+Metadata: medium confidence · automated review · **Provisional critical metadata**
+
+<details>
+<summary>Session dates, PCs, locations and metadata review</summary>
 
 In-world span: 1747-10-23 to 1747-10-28
 
@@ -8,690 +17,1128 @@ PCs: [Ryu](../../../../People/PCs/Mawar/Ryu.md), [Trok](../../../../People/PCs/M
 
 Locations: [Hamri](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Hamri.md), [Leviathan Inn](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Leviathan%20Inn.md), [Mirmir](../../../../Gazetteer/Northwest%20Coast/Rivers/Mirmir.md), [Mawakel Peninsula](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Mawakel%20Peninsula.md), [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md)
 
-AI summaries are navigation/review aids, not source evidence or replacement narrative.
+Metadata review: Added Wazir because the DM concretely portrays him detecting magic, recognizing wine and dwarven writing, and receiving the papers after the return; this does not claim his player attended or that he joined the four-person expedition. Ander remains excluded. Rechecked chronology: the explicit single camp yields an Oct25 tomb visit, while Oct28 is only the manifest anchor for a vaguely dated return; exact endpoint remains an unresolved critical date issue.
 
-## Scene division
+</details>
 
-Collection review: high / automatedReviewed
+Transcript links use the reviewed version at `5c88c732c`.
 
-| Scene | Type | Location | In-world time | AI summary | Source |
-| --- | --- | --- | --- | --- | --- |
-| 1 | conversation | [Hamri](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Hamri.md); Trok's beach shack north of town | 1747-10-23; evening | Kaleho visits Trok; Orden asks them to find his missing daughter Hiyasa. | [u0006–u0348](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L6-L348) |
-| 2 | conversation | [Hamri](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Hamri.md); Ryu's tower and departure preparations | 1747-10-24; morning | The next morning, Ryu joins the search and Nerissa introduces herself. | [u0349–u0580](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L349-L580) |
-| 3 | conversation | [Leviathan Inn](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Leviathan%20Inn.md); Common room | 1747-10-24; morning | Abelard recalls Hiyasa seeking an ancient tomb upriver. | [u0581–u0698](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L581-L698) |
-| 4 | conversation | [Hamri](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Hamri.md); Ryu's tower | 1747-10-24 | Ryu reports that Blu has found a trail along the river. | [u0699–u0717](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L699-L717) |
-| 5 | travel | [Mirmir](../../../../Gazetteer/Northwest%20Coast/Rivers/Mirmir.md); Forested riverbank above the waterfall | 1747-10-24; day into late afternoon | The party follows recent tracks upriver until nightfall. | [u0718–u0758](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L718-L758) |
-| 6 | exploration | [Mirmir](../../../../Gazetteer/Northwest%20Coast/Rivers/Mirmir.md); Sheltered riverside campsite | 1747-10-24 – 1747-10-25; night | The party camps and keeps three uneventful watches. | [u0759–u0792](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L759-L792) |
-| 7 | exploration | [Mirmir](../../../../Gazetteer/Northwest%20Coast/Rivers/Mirmir.md); An abandoned campsite farther upriver | 1747-10-25; morning | A deserted one-person camp leads to a trail away from the river. | [u0793–u0836](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L793-L836) |
-| 8 | travel | [Mawakel Peninsula](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Mawakel%20Peninsula.md); Dense inland forest | 1747-10-25 | The party follows the cut trail through dense forest for most of the day. | [u0837–u0847](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L837-L847) |
-| 9 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Exterior monument and roof entrance | 1747-10-25 | The party reads the tomb inscription, scouts the roof, and climbs toward the open entrance. | [u0848–u1057](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L848-L1057) |
-| 10 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Entrance shaft and upper mosaic hall | 1747-10-25 | A blade trap and a fall injure Trok and Kaleho during the descent. | [u1058–u1273](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1058-L1273) |
-| 11 | combat | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Upper mosaic hall | 1747-10-25 | The party destroys four gargoyles before they can fully activate a snake-headed statue. | [u1274–u1806](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1274-L1806) |
-| 12 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Upper mosaic hall and locked side door | 1747-10-25 | The party examines the statue, gathers stone keys, follows tracks, and heals. | [u1807–u1954](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1807-L1954) |
-| 13 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Small side chamber and connecting stairs | 1747-10-25 | Tracks lead past a connecting passage and down the staircase. | [u1955–u2055](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1955-L2055) |
-| 14 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Lower corridor with a mud trap | 1747-10-25 | The party detects a mud-filled stretch and crosses using jumps and pitons. | [u2056–u2312](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2056-L2312) |
-| 15 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inscribed chamber above the inner sanctum | 1747-10-25 | Lightning strikes Kaleho; crawling beneath the crystals allows the party to descend. | [u2313–u2410](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2313-L2410) |
-| 16 | conversation | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum | 1747-10-25 | Hiyasa is trapped in stone; a speaking guardian rejects the party’s oceanic offerings. | [u2411–u2560](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2411-L2560) |
-| 17 | combat | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum | 1747-10-25 | The stone guardian traps the party in mud and fells Trok before Ryu destroys it. | [u2561–u3295](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2561-L3295) |
-| 18 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum as mud hardens | 1747-10-25 | Ryu revives Trok, Nerissa teleports free, and Trok escapes the hardening mud. | [u3296–u3434](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3296-L3434) |
-| 19 | conversation | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum and six gem-topped jars | 1747-10-25 | Hiyasa explains her treasure map after being caught taking loot; the party examines the jars. | [u3435–u3689](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3435-L3689) |
-| 20 | travel | [Mawakel Peninsula](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Mawakel%20Peninsula.md); Tomb exit and return route to Hamri | unspecified | The party retraces the traps, conceals the entrance, and carries the recovered treasure back to Hamri. | [u3690–u3707](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3690-L3707) |
-| 21 | conversation | [Leviathan Inn](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Leviathan%20Inn.md); Return to Hamri several days later | unspecified | Wazir examines the treasure; the party divides gold, gives Nerissa the pearl, and leaves Wazir the ancient papers. | [u3708–u3798](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3708-L3798) |
+AI summaries are review aids. Confidence and review labels below are the saved assessments.
 
-## Orden · npc
+## Entity list
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+| Entity | Kind | Vault match | Review |
+| --- | --- | --- | --- |
+| [Hiyasa](#entity-686979617361) | NPC | [Hiyasa](../../../../People/Mawarans/Hiyasa.md) | high confidence · automated review |
+| [Orden](#entity-6f7264656e) | NPC | [Orden](../../../../People/Mawarans/Orden.md) | high confidence · automated review |
+| [Stone guardian of Yerkir-khor’s tomb](#entity-677561726469616e) | NPC | No linked page | high confidence · automated review |
+| [Abelard](#entity-6162656c617264) | NPC | [Abelard](../../../../People/Mawarans/Abelard.md) | high confidence · automated review |
+| [Blu](#entity-626c75) | NPC | [Blu](../../../../People/PCs/Mawar/Blu.md) | high confidence · automated review |
+| [Yerkir-khor](#entity-7965726b69722d6b686f72) | NPC | [Yerkir-khor](../../../../People/Other%20Nonhumans/Yerkir-khor.md) | high confidence · automated review |
+| [Airion the Mistspeaker](#entity-616972696f6e) | NPC | [Airion](../../../../People/Other%20Humans/Airion.md) | high confidence · automated review |
+| [Azar](#entity-617a6172) | NPC | [Azar the Lost](../../../../People/Mawarans/Azar%20the%20Lost.md) | high confidence · automated review |
+| [Benat](#entity-62656e6174) | NPC | [Benat](../../../../People/Lizardfolk/Benat.md) | high confidence · automated review |
+| [Sentient Ocean](#entity-73656e7469656e742d6f6365616e) | NPC | [Sentient Ocean](../../../../People/Extraplanar%20Powers/Sentient%20Ocean.md) | high confidence · automated review |
+| [Ancient Texts of Yerkir-Khor](#entity-7465787473) | Item | [Ancient Texts of Yerkir-Khor](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Ancient%20Texts%20of%20Yerkir-Khor.md) | high confidence · automated review |
+| [Gargoyles’ stone keys](#entity-6b657973) | Item | No linked page | high confidence · automated review |
+| [Hiyasa’s treasure map](#entity-6d6170) | Item | [Hiyasa's Treasure Map](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Hiyasa%27s%20Treasure%20Map.md) | high confidence · automated review |
+| [Kaleho’s crossbow of warning](#entity-63726f7373626f77) | Item | No linked page | high confidence · automated review |
+| [Kaleho’s merfolk artifact](#entity-6d6572666f6c6b2d6172746966616374) | Item | No linked page | high confidence · automated review |
+| [Nerissa’s teleporting sword](#entity-73776f7264) | Item | No linked page | high confidence · automated review |
+| [Obsidian-topped bottomless jar](#entity-6f6273696469616e2d6a6172) | Item | No linked page | high confidence · automated review |
+| [Pearl of power](#entity-706561726c) | Item | No linked page | high confidence · automated review |
+| [Ryu’s returning spear](#entity-7370656172) | Item | No linked page | high confidence · automated review |
+| [Six gem-topped funerary jars](#entity-6a617273) | Item | No linked page | high confidence · automated review |
+| [Snake-headed statue in the upper hall](#entity-736e616b652d737461747565) | Item | No linked page | high confidence · automated review |
+| [Trok’s unfinished family letter](#entity-66616d696c792d6c6574746572) | Item | No linked page | high confidence · automated review |
 
-[Orden](../../../../People/Mawarans/Orden.md)
+1 ordinary-treasure record(s) omitted from this list; see [display exclusions](#display-exclusions).
 
-Orden asks Trok and Kaleho to find Hiyasa, his daughter, who has not returned from an upriver treasure hunt.
+<a id="entity-686979617361"></a>
 
-> You know I live by myself, but it, I do have some family. my daughter Hiyasa. She came home. Maybe. Two weeks, three weeks ago. she's been gone for. A decade traveling. I don't know why she came home she went tell me, maybe trouble. She. wasn't happy with how I was living really. thought we needed money. She had some. papers and notes some. maps and she said, there was lots of places you could get money in the in the forests lots of gold ruins around here. She had it out. said she'd be back in a few days, but it's been. Eight days now. i'm afraid. Something might have happened to her.
+## Hiyasa
 
-AI-suggested featured color quote · [u0211–u0229](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L211-L229)
+NPC · **high confidence · automated review**
 
-> How I hope so. you're the adventure. I don't know what to do.
-
-AI-suggested featured color quote · [u0298–u0300](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L298-L300)
-
-> But I would be. in your debt if you try and find her.
-
-AI-suggested featured color quote · [u0261–u0262](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L261-L262)
-
-> Talking over your your meal you hear footsteps from the beach and then sort of a knock on your door and a. kind of. unkempt looking man short and stocky with great bushy hair and a beard. Many like earrings and and piercings. kind of leans in this is Orden, Trok, one of your friends who also lives on this beach, and he says hey Trok.
-
-AI-suggested featured introduction quote · [u0190–u0194](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L190-L194)
-
-### orden-request · interacted · star
-
-Scenes: 1 · Review: high / automatedReviewed
-
-Orden describes Hiyasa’s disappearance and persuades Trok and Kaleho to search upriver.
-
-primary: [u0189–u0348](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L189-L348)
-
-### orden-planning · mentioned · supporting
-
-Scenes: 2 · Review: high / automatedReviewed
-
-The party discusses Orden’s family troubles and his request for help.
-
-primary: [u0381–u0430](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L381-L430)
-
-### orden-rescue-explanation · mentioned · supporting
-
-Scenes: 19 · Review: high / automatedReviewed
-
-Trok explains that Orden sent them, and Hiyasa says she wanted to help her father.
-
-primary: [u3461–u3523](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3461-L3523)
-
-### orden-fee · mentioned · cameo
-
-Scenes: 21 · Review: high / automatedReviewed
-
-The party discusses whether to give more of its shares to Orden after Hiyasa’s finder’s fee.
-
-primary: [u3765–u3780](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3765-L3780)
-
-
-## Hiyasa · npc
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-[Hiyasa](../../../../People/Mawarans/Hiyasa.md)
+Vault match: [Hiyasa](../../../../People/Mawarans/Hiyasa.md)
 
 The party rescues Orden’s daughter from a stone guardian and questions her about her treasure hunt. She shares a sketch of three tomb sites and receives a finder’s fee.
 
+<details>
+<summary>Featured quotes (4)</summary>
+
 > I thought you are just random tomb raiders like me it's going to try and grab some loot and run for you noticed.
 
-AI-suggested featured color quote · [u3489–u3489](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3489)
+color · [u3489–u3489](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3489)
 
 > Watch out he can turn the earth. You can turn the stone to mud and back again.
 
-AI-suggested featured color quote · [u2472–u2473](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2472-L2473)
+color · [u2472–u2473](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2472-L2473)
 
 > i've been traveling for 10 years I have my sources.
 
-AI-suggested featured color quote · [u3536–u3536](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3536)
+color · [u3536–u3536](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3536)
 
 > Seriously, someone came to rescue me.
 
-AI-suggested featured color quote · [u3482–u3482](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3482)
+color · [u3482–u3482](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3482)
 
-### hiyasa-request · mentioned · supporting
+</details>
 
-Scenes: 1 · Review: high / automatedReviewed
+<details>
+<summary>Review evidence</summary>
+
+Orden names the missing daughter, the inner-sanctum woman matches his description, and the rescue dialogue confirms Orden sent the party; the later fee is her payment, not Orden’s established receipt.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (6)</summary>
+
+### Mentioned · supporting
 
 Orden describes Hiyasa’s return, appearance, and disappearance while searching for treasure.
 
-primary: [u0209–u0339](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L209-L339)
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `hiyasa-request`
 
-### hiyasa-planning · mentioned · supporting
+Primary: [u0209–u0339](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L209-L339)
 
-Scenes: 2 · Review: high / automatedReviewed
+### Mentioned · supporting
 
 Trok and Kaleho explain the search for Hiyasa to Ryu.
 
-primary: [u0381–u0430](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L381-L430)
+Scenes: [2](#scene-2) · high confidence · automated review · ID: `hiyasa-planning`
 
-### hiyasa-inn-lead · mentioned · supporting
+Primary: [u0381–u0430](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L381-L430)
 
-Scenes: 3 · Review: high / automatedReviewed
+### Mentioned · supporting
 
 Abelard recalls Hiyasa leaving to investigate a tomb and expecting to return after a few days.
 
-primary: [u0617–u0678](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L617-L678)
+Scenes: [3](#scene-3) · high confidence · automated review · ID: `hiyasa-inn-lead`
 
-### hiyasa-rescue · interacted · star
+Primary: [u0617–u0678](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L617-L678)
 
-Scenes: 16, 17, 18 · Review: high / automatedReviewed
+### Interacted · star
 
 Hiyasa warns the party about the guardian and escapes the mud with Nerissa’s inspiration during the battle.
 
-primary: [u2424–u3434](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2424-L3434)
+Scenes: [16](#scene-16), [17](#scene-17), [18](#scene-18) · high confidence · automated review · ID: `hiyasa-rescue`
+
+Primary: [u2424–u3434](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2424-L3434)
 
 > Well, the first thing you notice is that, in the middle of the room there is what looks like an emaciated woman. Her from her upper thighs below encased in stone. Empty water skin string next to her, I mean not emaciated in like she's been starving for months sort of thing, but like a trapped without water for a day, maybe like. returns to look as you enter.
 
-introduction quote · [u2424–u2427](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2424-L2427)
+introduction · [u2424–u2427](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2424-L2427)
 
-### hiyasa-tomb-conversation · interacted · star
-
-Scenes: 19, 20 · Review: high / automatedReviewed
+### Interacted · star
 
 Confronted while taking treasure, Hiyasa explains her expedition, sketches the map, and returns with the party.
 
-primary: [u3435–u3701](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3435-L3701)
+Scenes: [19](#scene-19), [20](#scene-20) · high confidence · automated review · ID: `hiyasa-tomb-conversation`
 
-### hiyasa-finders-fee · interacted · supporting
+Primary: [u3435–u3701](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3435-L3701)
 
-Scenes: 21 · Review: high / automatedReviewed
+### Interacted · supporting
 
 Hiyasa receives a 60-gold finder’s fee and offers more information about the other sites for payment.
 
-primary: [u3765–u3790](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3765-L3790)
+Scenes: [21](#scene-21) · high confidence · automated review · ID: `hiyasa-finders-fee`
 
+Primary: [u3765–u3790](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3765-L3790)
 
-## Abelard · npc
+</details>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+[Back to entity list](#entity-list)
 
-[Abelard](../../../../People/Mawarans/Abelard.md)
 
-The hungover storyteller recalls Hiyasa seeking treasure in an ancient tomb upriver.
+<a id="entity-6f7264656e"></a>
 
-> There is actually one person that you see who who you've. you've seen around before his name's Abelard he's a storyteller and a performer who hangs around the Leviathan, a lot um. You get the sense that he often exaggerates his exploits and he's sort of has a reputation as a bit of a. Teller of tall tales, but when you have passed through before you, you know chatted with him and he's certainly observant and he seems to be here i'm like nursing a hangover basically.
+## Orden
 
-AI-suggested featured introduction quote · [u0607–u0610](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L607-L610)
+NPC · **high confidence · automated review**
 
-> Woman headed out forever maybe a week ago. She is a. Pretty put together if you ask me i'm. had some. an ancient tomb up there. Supposedly, full of lost treasure.
+Vault match: [Orden](../../../../People/Mawarans/Orden.md)
 
-AI-suggested featured color quote · [u0642–u0647](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L642-L647)
+Orden asks Trok and Kaleho to find Hiyasa, his daughter, who has not returned from an upriver treasure hunt.
 
-> She didn't think she would be gone for more than a few days. haven't seen her around actually.
+<details>
+<summary>Featured quotes (4)</summary>
 
-AI-suggested featured color quote · [u0649–u0650](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L649-L650)
+> You know I live by myself, but it, I do have some family. my daughter Hiyasa. She came home. Maybe. Two weeks, three weeks ago. she's been gone for. A decade traveling. I don't know why she came home she went tell me, maybe trouble. She. wasn't happy with how I was living really. thought we needed money. She had some. papers and notes some. maps and she said, there was lots of places you could get money in the in the forests lots of gold ruins around here. She had it out. said she'd be back in a few days, but it's been. Eight days now. i'm afraid. Something might have happened to her.
 
-### abelard-conversation · interacted · supporting
+color · [u0211–u0229](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L211-L229)
 
-Scenes: 3 · Review: high / automatedReviewed
+> How I hope so. you're the adventure. I don't know what to do.
 
-The party buys Abelard a drink and questions him about Hiyasa and the tomb.
+color · [u0298–u0300](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L298-L300)
 
-primary: [u0607–u0678](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L607-L678)
+> But I would be. in your debt if you try and find her.
 
+color · [u0261–u0262](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L261-L262)
 
-## Blu · npc
+> Talking over your your meal you hear footsteps from the beach and then sort of a knock on your door and a. kind of. unkempt looking man short and stocky with great bushy hair and a beard. Many like earrings and and piercings. kind of leans in this is Orden, Trok, one of your friends who also lives on this beach, and he says hey Trok.
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+introduction · [u0190–u0194](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L190-L194)
 
-[Blu](../../../../People/PCs/Mawar/Blu.md)
+</details>
 
-Ryu’s osprey companion scouts the trail and tomb and helps fight both sets of guardians.
+<details>
+<summary>Review evidence</summary>
 
-> You see Blu, Blu, Blu, what kind of bird again? Blu. osprey kind of either sitting sitting on the top of the tower, the tower like watching you as you come up the stairs and then.
+The speaker is explicitly named as Trok’s beach-dwelling friend, identifies Hiyasa as his daughter, and requests this rescue; the canonical page matches those distinguishing relationships.
 
-AI-suggested featured introduction quote · [u0370–u0371](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L370-L371)
+</details>
 
-### blu-tower · observed · cameo
+<details>
+<summary>Interactions and source passages (4)</summary>
 
-Scenes: 2 · Review: high / automatedReviewed
+### Interacted · star
 
-Blu watches the visitors from the tower.
+Orden describes Hiyasa’s disappearance and persuades Trok and Kaleho to search upriver.
 
-primary: [u0370–u0371](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L370-L371)
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `orden-request`
 
-### blu-river-scouting · interacted · supporting
+Primary: [u0189–u0348](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L189-L348)
 
-Scenes: 4, 5 · Review: high / automatedReviewed
+### Mentioned · supporting
 
-Blu helps Ryu find and follow the trail upriver.
+The party discusses Orden’s family troubles and his request for help.
 
-primary: [u0699–u0758](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L699-L758)
+Scenes: [2](#scene-2) · high confidence · automated review · ID: `orden-planning`
 
-### blu-tomb-scouting · interacted · supporting
+Primary: [u0381–u0430](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L381-L430)
 
-Scenes: 7, 8, 9, 10 · Review: high / automatedReviewed
+### Mentioned · supporting
 
-Blu helps track the route and scouts the tomb roof before the descent.
+Trok explains that Orden sent them, and Hiyasa says she wanted to help her father.
 
-primary: [u0793–u1059](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L793-L1059)
+Scenes: [19](#scene-19) · high confidence · automated review · ID: `orden-rescue-explanation`
 
-### blu-gargoyles · interacted · supporting
+Primary: [u3461–u3523](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3461-L3523)
 
-Scenes: 11 · Review: high / automatedReviewed
+### Mentioned · cameo
 
-Ryu directs Blu’s diving attacks against the gargoyles.
+The party discusses whether to give more of its shares to Orden after Hiyasa’s finder’s fee.
 
-primary: [u1374–u1794](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1374-L1794)
+Scenes: [21](#scene-21) · high confidence · automated review · ID: `orden-fee`
 
-### blu-guardian · interacted · supporting
+Primary: [u3765–u3780](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3765-L3780)
 
-Scenes: 17 · Review: high / automatedReviewed
+</details>
 
-Blu repeatedly attacks the stone guardian while staying out of the mud.
+[Back to entity list](#entity-list)
 
-primary: [u2566–u3295](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2566-L3295)
 
+<a id="entity-677561726469616e"></a>
 
-## Yerkir-khor · npc
+## Stone guardian of Yerkir-khor’s tomb
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+NPC · **high confidence · automated review**
 
-[Yerkir-khor](../../../../People/Other%20Nonhumans/Yerkir-khor.md)
-
-Inscriptions and mosaics identify the tomb’s earth-lord and depict his powers, worshippers, and trade. The party never meets Yerkir-khor himself.
-
-> Here lies Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
-
-AI-suggested featured introduction quote · [u0877–u0877](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L877)
-
-### yerkir-inscription · mentioned · supporting
-
-Scenes: 9 · Review: high / automatedReviewed
-
-The entrance inscription names Yerkir-khor and his titles.
-
-primary: [u0864–u0909](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L864-L909)
-
-### yerkir-warning · mentioned · supporting
-
-Scenes: 15 · Review: high / automatedReviewed
-
-An inscription promises wisdom to the faithful and entombment to intruders.
-
-primary: [u2338–u2403](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2338-L2403)
-
-### yerkir-sanctum · mentioned · supporting
-
-Scenes: 16 · Review: high / automatedReviewed
-
-The mosaics depict an earth-lord receiving tribute, and his guardian demands offerings in his name.
-
-primary: [u2431–u2560](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2431-L2560)
-
-
-## Stone guardian of Yerkir-khor’s tomb · npc
-
-Entity review: **high / automatedReviewed** · Ready for normal use
+Vault match: No linked page
 
 An unnamed speaking stone guardian demands tribute and rejects offerings associated with the ocean. It fights the party with stone and mud magic until Ryu destroys it.
 
+<details>
+<summary>Featured quotes (4)</summary>
+
 > You would defile the tomb of my master with the leavings of our ancient enemies.
 
-AI-suggested featured color quote · [u2560–u2560](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2560)
+color · [u2560–u2560](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2560)
 
 > worthless trash. You would insult, a lot of earth with such garbage. I asked again what tribute, have you brought you claim to be faithful.
 
-AI-suggested featured color quote · [u2494–u2496](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2494-L2496)
+color · [u2494–u2496](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2494-L2496)
 
 > What tribute, have you brought for a Yerkir-khor's tomb on this plane.
 
-AI-suggested featured color quote · [u2486–u2486](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2486)
+color · [u2486–u2486](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2486)
 
 > I know this, this is just a giant like a 15 foot tall stone statue of a. This one looks like just a person it's not the same as the as the creature that's depicted in the. Most of the hacks.
 
-AI-suggested featured introduction quote · [u2675–u2677](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2675-L2677)
+introduction · [u2675–u2677](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2675-L2677)
 
-### guardian-negotiation · interacted · star
+</details>
 
-Scenes: 16 · Review: high / automatedReviewed
+<details>
+<summary>Review evidence</summary>
+
+This singular speaking humanoid stone guardian demands offerings and fights with mud and stone magic; it is distinct from the snake-headed upper statue and is appropriately unresolved to a page.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (2)</summary>
+
+### Interacted · star
 
 The guardian demands tribute and rejects shells, a pearl, and Kaleho’s merfolk artifact.
 
-primary: [u2479–u2560](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2479-L2560)
+Scenes: [16](#scene-16) · high confidence · automated review · ID: `guardian-negotiation`
 
-### guardian-combat · interacted · star
+Primary: [u2479–u2560](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2479-L2560)
 
-Scenes: 17 · Review: high / automatedReviewed
+### Interacted · star
 
 The party fights and destroys the guardian after it traps adventurers in mud and knocks Trok unconscious.
 
-primary: [u2561–u3295](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2561-L3295)
+Scenes: [17](#scene-17) · high confidence · automated review · ID: `guardian-combat`
+
+Primary: [u2561–u3295](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2561-L3295)
+
+</details>
+
+[Back to entity list](#entity-list)
 
 
-## Azar · npc
+<a id="entity-6162656c617264"></a>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+## Abelard
 
-[Azar the Lost](../../../../People/Mawarans/Azar%20the%20Lost.md)
+NPC · **high confidence · automated review**
 
-The party recalls Azar’s earlier crimes and his convalescence with the lizardfolk.
+Vault match: [Abelard](../../../../People/Mawarans/Abelard.md)
 
-### azar-recalled · mentioned · cameo
+The hungover storyteller recalls Hiyasa seeking treasure in an ancient tomb upriver.
 
-Scenes: 1 · Review: high / automatedReviewed
+<details>
+<summary>Featured quotes (3)</summary>
 
-The opening discussion recalls Azar’s defeat and planned recovery among the lizardfolk.
+> There is actually one person that you see who who you've. you've seen around before his name's Abelard he's a storyteller and a performer who hangs around the Leviathan, a lot um. You get the sense that he often exaggerates his exploits and he's sort of has a reputation as a bit of a. Teller of tall tales, but when you have passed through before you, you know chatted with him and he's certainly observant and he seems to be here i'm like nursing a hangover basically.
 
-primary: [u0075–u0119](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L75-L119)
+introduction · [u0607–u0610](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L607-L610)
 
-### azar-update · mentioned · cameo
+> Woman headed out forever maybe a week ago. She is a. Pretty put together if you ask me i'm. had some. an ancient tomb up there. Supposedly, full of lost treasure.
 
-Scenes: 3 · Review: high / automatedReviewed
+color · [u0642–u0647](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L642-L647)
 
-The conversation recalls someone caring for Azar back home.
+> She didn't think she would be gone for more than a few days. haven't seen her around actually.
 
-primary: [u0659–u0674](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L659-L674)
+color · [u0649–u0650](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L649-L650)
+
+</details>
+
+<details>
+<summary>Review evidence</summary>
+
+The inn speaker is introduced by name as its familiar storyteller, and answers the question about Hiyasa; the public identity note matches the performer and location.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Interacted · supporting
+
+The party buys Abelard a drink and questions him about Hiyasa and the tomb.
+
+Scenes: [3](#scene-3) · high confidence · automated review · ID: `abelard-conversation`
+
+Primary: [u0607–u0678](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L607-L678)
+
+</details>
+
+[Back to entity list](#entity-list)
 
 
-## Benat · npc
+<a id="entity-626c75"></a>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+## Blu
 
-[Benat](../../../../People/Lizardfolk/Benat.md)
+NPC · **high confidence · automated review**
 
-The opening discussion recalls Benat taking Azar to a lizardfolk village to recover.
+Vault match: [Blu](../../../../People/PCs/Mawar/Blu.md)
 
-### benat-recalled · mentioned · cameo
+Ryu’s osprey companion scouts the trail and tomb and helps fight both sets of guardians.
 
-Scenes: 1 · Review: high / automatedReviewed
+<details>
+<summary>Featured quotes (1)</summary>
 
-The opening discussion recalls Benat taking Azar to the lizardfolk village.
+> You see Blu, Blu, Blu, what kind of bird again? Blu. osprey kind of either sitting sitting on the top of the tower, the tower like watching you as you come up the stairs and then.
 
-primary: [u0099–u0109](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L99-L109)
+introduction · [u0370–u0371](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L370-L371)
+
+</details>
+
+<details>
+<summary>Review evidence</summary>
+
+Ryu identifies Blu as his osprey; scouting and commanded attacks establish direct involvement. Its companion identity remains an eligible NPC, despite its page living under PCs.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (5)</summary>
+
+### Observed · cameo
+
+Blu watches the visitors from the tower.
+
+Scenes: [2](#scene-2) · high confidence · automated review · ID: `blu-tower`
+
+Primary: [u0370–u0371](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L370-L371)
+
+### Interacted · supporting
+
+Blu helps Ryu find and follow the trail upriver.
+
+Scenes: [4](#scene-4), [5](#scene-5) · high confidence · automated review · ID: `blu-river-scouting`
+
+Primary: [u0699–u0758](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L699-L758)
+
+### Interacted · supporting
+
+Blu helps track the route and scouts the tomb roof before the descent.
+
+Scenes: [7](#scene-7), [8](#scene-8), [9](#scene-9), [10](#scene-10) · high confidence · automated review · ID: `blu-tomb-scouting`
+
+Primary: [u0793–u1059](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L793-L1059)
+
+### Interacted · supporting
+
+Ryu directs Blu’s diving attacks against the gargoyles.
+
+Scenes: [11](#scene-11) · high confidence · automated review · ID: `blu-gargoyles`
+
+Primary: [u1374–u1794](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1374-L1794)
+
+### Interacted · supporting
+
+Blu repeatedly attacks the stone guardian while staying out of the mud.
+
+Scenes: [17](#scene-17) · high confidence · automated review · ID: `blu-guardian`
+
+Primary: [u2566–u3295](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2566-L3295)
+
+</details>
+
+[Back to entity list](#entity-list)
 
 
-## Airion the Mistspeaker · npc
+<a id="entity-7965726b69722d6b686f72"></a>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+## Yerkir-khor
 
-[Airion](../../../../People/Other%20Humans/Airion.md)
+NPC · **high confidence · automated review**
+
+Vault match: [Yerkir-khor](../../../../People/Other%20Nonhumans/Yerkir-khor.md)
+
+Inscriptions and mosaics identify the tomb’s earth-lord and depict his powers, worshippers, and trade. The party never meets Yerkir-khor himself.
+
+<details>
+<summary>Featured quotes (1)</summary>
+
+> Here lies Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
+
+introduction · [u0877–u0877](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L877)
+
+</details>
+
+<details>
+<summary>Review evidence</summary>
+
+The inscription gives the exact name and titles and the guardian calls him master; the person is only represented or mentioned, not directly met, and the matched note has the same tomb association.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (3)</summary>
+
+### Mentioned · supporting
+
+The entrance inscription names Yerkir-khor and his titles.
+
+Scenes: [9](#scene-9) · high confidence · automated review · ID: `yerkir-inscription`
+
+Primary: [u0864–u0909](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L864-L909)
+
+### Mentioned · supporting
+
+An inscription promises wisdom to the faithful and entombment to intruders.
+
+Scenes: [15](#scene-15) · high confidence · automated review · ID: `yerkir-warning`
+
+Primary: [u2338–u2403](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2338-L2403)
+
+### Mentioned · supporting
+
+The mosaics depict an earth-lord receiving tribute, and his guardian demands offerings in his name.
+
+Scenes: [16](#scene-16) · high confidence · automated review · ID: `yerkir-sanctum`
+
+Primary: [u2431–u2560](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2431-L2560)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-616972696f6e"></a>
+
+## Airion the Mistspeaker
+
+NPC · **high confidence · automated review**
+
+Vault match: [Airion](../../../../People/Other%20Humans/Airion.md)
 
 The opening discussion recalls the ancient scholar whose research Azar had followed.
 
-### airion-recalled · mentioned · cameo
+<details>
+<summary>Review evidence</summary>
 
-Scenes: 1 · Review: high / automatedReviewed
+The opening names Airion the Mistspeaker as an older elemental scholar whose research Azar followed; the full-name alias and scholar identity support the page match.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Mentioned · cameo
 
 The opening discussion identifies Airion as the older elemental scholar whose clues Azar followed.
 
-primary: [u0089–u0096](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L89-L96)
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `airion-recalled`
+
+Primary: [u0089–u0096](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L89-L96)
+
+</details>
+
+[Back to entity list](#entity-list)
 
 
-## Sentient Ocean · npc
+<a id="entity-617a6172"></a>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+## Azar
 
-[Sentient Ocean](../../../../People/Extraplanar%20Powers/Sentient%20Ocean.md)
+NPC · **high confidence · automated review**
+
+Vault match: [Azar the Lost](../../../../People/Mawarans/Azar%20the%20Lost.md)
+
+The party recalls Azar’s earlier crimes and his convalescence with the lizardfolk.
+
+<details>
+<summary>Review evidence</summary>
+
+The remembered warlock who used living water and went with Benat to recover matches Azar the Lost, not the dwarven god sharing his short name; both interactions remain mentions.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (2)</summary>
+
+### Mentioned · cameo
+
+The opening discussion recalls Azar’s defeat and planned recovery among the lizardfolk.
+
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `azar-recalled`
+
+Primary: [u0075–u0119](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L75-L119)
+
+### Mentioned · cameo
+
+The conversation recalls someone caring for Azar back home.
+
+Scenes: [3](#scene-3) · high confidence · automated review · ID: `azar-update`
+
+Primary: [u0659–u0674](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L659-L674)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-62656e6174"></a>
+
+## Benat
+
+NPC · **high confidence · automated review**
+
+Vault match: [Benat](../../../../People/Lizardfolk/Benat.md)
+
+The opening discussion recalls Benat taking Azar to a lizardfolk village to recover.
+
+<details>
+<summary>Review evidence</summary>
+
+The opening identifies Benat as the lizardfolk liaison who agreed to escort Azar; the canonical liaison identity matches and no renewed meeting is claimed.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Mentioned · cameo
+
+The opening discussion recalls Benat taking Azar to the lizardfolk village.
+
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `benat-recalled`
+
+Primary: [u0099–u0109](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L99-L109)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-73656e7469656e742d6f6365616e"></a>
+
+## Sentient Ocean
+
+NPC · **high confidence · automated review**
+
+Vault match: [Sentient Ocean](../../../../People/Extraplanar%20Powers/Sentient%20Ocean.md)
 
 The opening discussion recalls the stolen living water used in Azar’s earlier experiments.
 
-### ocean-recalled · mentioned · cameo
+<details>
+<summary>Review evidence</summary>
 
-Scenes: 1 · Review: high / automatedReviewed
+The named sentient water is recalled as a living entity from which a piece was stolen; this is a mention of the entity rather than a new water-fragment encounter.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Mentioned · cameo
 
 The opening discussion recalls Azar stealing a fragment of the Sentient Ocean.
 
-primary: [u0075–u0088](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L75-L88)
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `ocean-recalled`
 
+Primary: [u0075–u0088](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L75-L88)
 
-## Hiyasa’s treasure map · item
+</details>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+[Back to entity list](#entity-list)
 
-[Hiyasa's Treasure Map](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Hiyasa%27s%20Treasure%20Map.md)
 
-Hiyasa sketches three ancient tomb sites from a map she saw, including this tomb and two unexplored locations.
+<a id="entity-7465787473"></a>
 
-> takes out a blank piece of paper from her backpack and beginning sketching something she says, I saw I. saw a map. had a few places marked it's like three little access. These are. Long abandoned tombs from. Before the mall or even came here. From what I know.
+## Ancient Texts of Yerkir-Khor
 
-AI-suggested featured whole quote · [u3506–u3512](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3506-L3512)
+Item · **high confidence · automated review**
 
-### map-mentioned · mentioned · supporting
-
-Scenes: 1 · Review: high / automatedReviewed
-
-Orden remembers Hiyasa carrying maps and notes about ruins with treasure.
-
-primary: [u0211–u0240](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L211-L240)
-
-### map-sketch · interacted · supporting
-
-Scenes: 19 · Review: high / automatedReviewed
-
-Hiyasa sketches three sites from the map she saw while explaining her treasure hunt.
-
-primary: [u3493–u3554](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3493-L3554)
-
-### map-two-sites · mentioned · supporting
-
-Scenes: 21 · Review: high / automatedReviewed
-
-Two unexplored marks remain on the map, and Hiyasa offers more information for payment.
-
-primary: [u3758–u3780](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3758-L3780)
-
-
-## Snake-headed statue in the upper hall · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-A large snake-headed statue has jeweled eyes, gold bands, and a removable arm gem that the gargoyles try to pull. The party leaves the gem in place.
-
-### snake-statue-examination · interacted · supporting
-
-Scenes: 10, 11, 12, 13 · Review: high / automatedReviewed
-
-The party notices the statue stirring as a gargoyle works its gem, examines it afterward, and leaves a warning note.
-
-supporting: [u1124–u1130](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1124-L1130)
-
-supporting: [u1719–u1723](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1719-L1723)
-
-primary: [u1832–u1899](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1832-L1899)
-
-supporting: [u1977–u1981](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1977-L1981)
-
-
-## Gargoyles’ stone keys · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-The party collects four stone keys from the shattered gargoyles and uses one to open the door behind the statue.
-
-### keys-found-used · interacted · supporting
-
-Scenes: 12, 13 · Review: high / automatedReviewed
-
-The party gathers the gargoyles’ keys and opens the locked side door.
-
-primary: [u1847–u1966](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1847-L1966)
-
-
-## Kaleho’s crossbow of warning · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-Kaleho’s magical crossbow warns him as the gargoyles attack and remains his weapon against the stone guardian.
-
-### crossbow-warning · interacted · supporting
-
-Scenes: 11 · Review: high / automatedReviewed
-
-The crossbow’s warning lets Kaleho react as the gargoyles attack.
-
-primary: [u1296–u1318](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1296-L1318)
-
-### crossbow-guardian · interacted · supporting
-
-Scenes: 17 · Review: high / automatedReviewed
-
-Kaleho shoots the guardian while restrained in a stone hand.
-
-primary: [u3194–u3215](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3194-L3215)
-
-
-## Ryu’s returning spear · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-Ryu repeatedly throws his returning spear at the gargoyles and the stone guardian, delivering the final blow against the latter.
-
-### spear-gargoyles · interacted · supporting
-
-Scenes: 11 · Review: high / automatedReviewed
-
-Ryu’s spear returns after his throws and destroys a gargoyle attempting to activate the statue.
-
-primary: [u1651–u1794](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1651-L1794)
-
-### spear-guardian · interacted · supporting
-
-Scenes: 17 · Review: high / automatedReviewed
-
-Ryu rushes the guardian and delivers the killing blow after it fells Trok.
-
-primary: [u3282–u3295](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3282-L3295)
-
-
-## Kaleho’s merfolk artifact · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-Kaleho offers a treasured, worn merfolk-associated object as tribute, provoking the guardian’s hostility.
-
-### merfolk-offering · interacted · supporting
-
-Scenes: 16 · Review: high / automatedReviewed
-
-Kaleho offers his treasured merfolk artifact, angering the guardian further.
-
-primary: [u2535–u2560](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2535-L2560)
-
-
-## Nerissa’s teleporting sword · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-Nerissa uses a charge from her sword to teleport free of the hardening mud.
-
-### sword-escape · interacted · supporting
-
-Scenes: 18 · Review: high / automatedReviewed
-
-Nerissa expends a sword charge to teleport out of the hardening mud.
-
-primary: [u3349–u3384](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3349-L3384)
-
-
-## Six gem-topped funerary jars · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-Six large stone jars behind the tomb contain treasure and strange substances, which the party examines and carries away.
-
-### jars-first-seen · observed · supporting
-
-Scenes: 16 · Review: high / automatedReviewed
-
-Six gem-stoppered jars stand behind the central statue.
-
-primary: [u2461–u2466](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2461-L2466)
-
-### jars-examined · interacted · supporting
-
-Scenes: 19 · Review: high / automatedReviewed
-
-After stopping Hiyasa from taking treasure, the party opens the jars and investigates their contents.
-
-primary: [u3435–u3689](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3435-L3689)
-
-
-## Pearl of power · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-The small pearl recovered from a jar is eventually identified as a pearl of power and given to Nerissa.
-
-### pearl-found · interacted · supporting
-
-Scenes: 19 · Review: high / automatedReviewed
-
-Kaleho inspects the small pearl but initially finds nothing unusual.
-
-primary: [u3626–u3638](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3626-L3638)
-
-### pearl-identified-given · interacted · supporting
-
-Scenes: 21 · Review: high / automatedReviewed
-
-The pearl is identified as a pearl of power and assigned to Nerissa.
-
-primary: [u3717–u3787](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3717-L3787)
-
-
-## Ancient Texts of Yerkir-Khor · item
-
-Entity review: **high / automatedReviewed** · Ready for normal use
-
-[Ancient Texts of Yerkir-Khor](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Ancient%20Texts%20of%20Yerkir-Khor.md)
+Vault match: [Ancient Texts of Yerkir-Khor](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Ancient%20Texts%20of%20Yerkir-Khor.md)
 
 Magical yellow dust preserves a sheaf of extremely old papers in an unreadable language. The party entrusts them to Wazir for later deciphering.
 
+<details>
+<summary>Featured quotes (1)</summary>
+
 > And you eventually managed to sort out the yellow dost which is i'm. A magical and Chairman that's protecting a sheaf of papers. written in a language, none of you understand. where's that which will be. A mystery for another time. During this. These are like. Ancient papers it's like more than 1000 year old paper so like even touching them they begin to crumble.
 
-AI-suggested featured whole quote · [u3750–u3757](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3750-L3757)
+whole · [u3750–u3757](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3750-L3757)
 
-### texts-dust-found · observed · supporting
+</details>
 
-Scenes: 19 · Review: high / automatedReviewed
+<details>
+<summary>Review evidence</summary>
 
-Known as: Yellow dust
+The yellow dust is revealed to protect ancient fragile papers of an unknown language and the party leaves them with Wazir; the matched object note gives exactly that provenance without adding deciphered contents.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (2)</summary>
+
+### Observed · supporting
 
 A yellowish glowing substance and dust are found in the yellow-topped jar.
 
-primary: [u3639–u3647](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3639-L3647)
+Scenes: [19](#scene-19) · high confidence · automated review · ID: `texts-dust-found`
 
-### texts-discovered-given · interacted · supporting
+Known as: Yellow dust
 
-Scenes: 21 · Review: high / automatedReviewed
+Primary: [u3639–u3647](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3639-L3647)
+
+### Interacted · supporting
 
 The dust is found to preserve ancient papers, which are left with Wazir to decipher.
 
-primary: [u3738–u3791](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3738-L3791)
+Scenes: [21](#scene-21) · high confidence · automated review · ID: `texts-discovered-given`
+
+Primary: [u3738–u3791](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3738-L3791)
+
+</details>
+
+[Back to entity list](#entity-list)
 
 
-## Obsidian-topped bottomless jar · item
+<a id="entity-6b657973"></a>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+## Gargoyles’ stone keys
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
+
+The party collects four stone keys from the shattered gargoyles and uses one to open the door behind the statue.
+
+<details>
+<summary>Review evidence</summary>
+
+Each of four newly shattered gargoyles bears a key, the party opens the locked door with one, and the DM confirms they took all of them; a collection card is supported.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Interacted · supporting
+
+The party gathers the gargoyles’ keys and opens the locked side door.
+
+Scenes: [12](#scene-12), [13](#scene-13) · high confidence · automated review · ID: `keys-found-used`
+
+Primary: [u1847–u1966](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1847-L1966)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-6d6170"></a>
+
+## Hiyasa’s treasure map
+
+Item · **high confidence · automated review**
+
+Vault match: [Hiyasa's Treasure Map](../../../../Campaigns/Mawar%20Adventures/Items%20and%20Treasure/Hiyasa%27s%20Treasure%20Map.md)
+
+Hiyasa sketches three ancient tomb sites from a map she saw, including this tomb and two unexplored locations.
+
+<details>
+<summary>Featured quotes (1)</summary>
+
+> takes out a blank piece of paper from her backpack and beginning sketching something she says, I saw I. saw a map. had a few places marked it's like three little access. These are. Long abandoned tombs from. Before the mall or even came here. From what I know.
+
+whole · [u3506–u3512](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3506-L3512)
+
+</details>
+
+<details>
+<summary>Review evidence</summary>
+
+Hiyasa explicitly sketches three marks after saying she saw a map; the source note embeds an image independently inspected and containing three X-marked sites. The card correctly describes her sketch/report, without claiming possession of an original.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (3)</summary>
+
+### Mentioned · supporting
+
+Orden remembers Hiyasa carrying maps and notes about ruins with treasure.
+
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `map-mentioned`
+
+Primary: [u0211–u0240](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L211-L240)
+
+### Interacted · supporting
+
+Hiyasa sketches three sites from the map she saw while explaining her treasure hunt.
+
+Scenes: [19](#scene-19) · high confidence · automated review · ID: `map-sketch`
+
+Primary: [u3493–u3554](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3493-L3554)
+
+### Mentioned · supporting
+
+Two unexplored marks remain on the map, and Hiyasa offers more information for payment.
+
+Scenes: [21](#scene-21) · high confidence · automated review · ID: `map-two-sites`
+
+Primary: [u3758–u3780](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3758-L3780)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-63726f7373626f77"></a>
+
+## Kaleho’s crossbow of warning
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
+
+Kaleho’s magical crossbow warns him as the gargoyles attack and remains his weapon against the stone guardian.
+
+<details>
+<summary>Review evidence</summary>
+
+Kaleho explicitly calls it a crossbow of warning and obtains the surprise exception; its later use while restrained is directly described, so inclusion is more than routine weapon inventory.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (2)</summary>
+
+### Interacted · supporting
+
+The crossbow’s warning lets Kaleho react as the gargoyles attack.
+
+Scenes: [11](#scene-11) · high confidence · automated review · ID: `crossbow-warning`
+
+Primary: [u1296–u1318](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1296-L1318)
+
+### Interacted · supporting
+
+Kaleho shoots the guardian while restrained in a stone hand.
+
+Scenes: [17](#scene-17) · high confidence · automated review · ID: `crossbow-guardian`
+
+Primary: [u3194–u3215](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3194-L3215)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-6d6572666f6c6b2d6172746966616374"></a>
+
+## Kaleho’s merfolk artifact
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
+
+Kaleho offers a treasured, worn merfolk-associated object as tribute, provoking the guardian’s hostility.
+
+<details>
+<summary>Review evidence</summary>
+
+Kaleho explicitly offers a treasured worn merfolk artifact and the guardian responds to it; its exact form is unclear in ASR, but the draft deliberately makes no subtype or page assertion. That narrow identity is well supported.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Interacted · supporting
+
+Kaleho offers his treasured merfolk artifact, angering the guardian further.
+
+Scenes: [16](#scene-16) · high confidence · automated review · ID: `merfolk-offering`
+
+Primary: [u2535–u2560](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2535-L2560)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-73776f7264"></a>
+
+## Nerissa’s teleporting sword
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
+
+Nerissa uses a charge from her sword to teleport free of the hardening mud.
+
+<details>
+<summary>Review evidence</summary>
+
+The DM explicitly distinguishes the sword charge from a spell slot, and Nerissa touches the sword to teleport free; no unsupported weapon name or page match is supplied.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Interacted · supporting
+
+Nerissa expends a sword charge to teleport out of the hardening mud.
+
+Scenes: [18](#scene-18) · high confidence · automated review · ID: `sword-escape`
+
+Primary: [u3349–u3384](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3349-L3384)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-6f6273696469616e2d6a6172"></a>
+
+## Obsidian-topped bottomless jar
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
 
 The obsidian-topped jar swallows a shell without returning it or revealing a bottom. The DM later establishes that it shattered upon leaving the tomb.
 
-### obsidian-experiment · interacted · supporting
+<details>
+<summary>Review evidence</summary>
 
-Scenes: 19 · Review: high / automatedReviewed
+The obsidian jar swallows a shell without returning it, and a later DM correction explicitly states it shattered on leaving the tomb; the draft preserves the retrospective nature.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (2)</summary>
+
+### Interacted · supporting
 
 The party drops a shell into the apparently bottomless jar and cannot recover it.
 
-primary: [u3663–u3677](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3663-L3677)
+Scenes: [19](#scene-19) · high confidence · automated review · ID: `obsidian-experiment`
 
-### obsidian-shattered · interacted · supporting
+Primary: [u3663–u3677](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3663-L3677)
 
-Scenes: 20, 21 · Review: high / automatedReviewed
+### Interacted · supporting
 
 The DM establishes retrospectively that the obsidian jar shattered when carried out of the tomb.
 
-primary: [u3733–u3737](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3733-L3737)
+Scenes: [20](#scene-20), [21](#scene-21) · high confidence · automated review · ID: `obsidian-shattered`
+
+Primary: [u3733–u3737](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3733-L3737)
+
+</details>
+
+[Back to entity list](#entity-list)
 
 
-## Ancient coins and uncut gems · item
+<a id="entity-706561726c"></a>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+## Pearl of power
 
-Ancient dwarven coins and uncut gems from the jars provide approximately 600 gold in treasure, divided with a 60-gold finder’s fee for Hiyasa.
+Item · **high confidence · automated review**
 
-### treasure-found · interacted · supporting
+Vault match: No linked page
 
-Scenes: 19 · Review: high / automatedReviewed
+The small pearl recovered from a jar is eventually identified as a pearl of power and given to Nerissa.
 
-The party finds unfamiliar ancient coins and uncut quartz and amethyst in the jars.
+<details>
+<summary>Review evidence</summary>
 
-primary: [u3555–u3621](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3555-L3621)
+The small pearl is taken from the white-quartz jar, initially seems ordinary, is later detected as magical and identified as a pearl of power, and is assigned to Nerissa.
 
-### treasure-divided · interacted · supporting
+</details>
 
-Scenes: 21 · Review: high / automatedReviewed
+<details>
+<summary>Interactions and source passages (2)</summary>
 
-The coins are recognized as ancient dwarven money and roughly 600 gold is divided into Hiyasa’s 60 and four 135-gold shares.
+### Interacted · supporting
 
-primary: [u3724–u3798](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3724-L3798)
+Kaleho inspects the small pearl but initially finds nothing unusual.
+
+Scenes: [19](#scene-19) · high confidence · automated review · ID: `pearl-found`
+
+Primary: [u3626–u3638](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3626-L3638)
+
+### Interacted · supporting
+
+The pearl is identified as a pearl of power and assigned to Nerissa.
+
+Scenes: [21](#scene-21) · high confidence · automated review · ID: `pearl-identified-given`
+
+Primary: [u3717–u3787](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3717-L3787)
+
+</details>
+
+[Back to entity list](#entity-list)
 
 
-## Trok’s unfinished family letter · item
+<a id="entity-7370656172"></a>
 
-Entity review: **high / automatedReviewed** · Ready for normal use
+## Ryu’s returning spear
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
+
+Ryu repeatedly throws his returning spear at the gargoyles and the stone guardian, delivering the final blow against the latter.
+
+<details>
+<summary>Review evidence</summary>
+
+Ryu and the DM repeatedly describe the spear returning after throws; his final melee rush against the guardian follows the same spear combat, with no competing named weapon introduced.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (2)</summary>
+
+### Interacted · supporting
+
+Ryu’s spear returns after his throws and destroys a gargoyle attempting to activate the statue.
+
+Scenes: [11](#scene-11) · high confidence · automated review · ID: `spear-gargoyles`
+
+Primary: [u1651–u1794](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1651-L1794)
+
+### Interacted · supporting
+
+Ryu rushes the guardian and delivers the killing blow after it fells Trok.
+
+Scenes: [17](#scene-17) · high confidence · automated review · ID: `spear-guardian`
+
+Primary: [u3282–u3295](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3282-L3295)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-6a617273"></a>
+
+## Six gem-topped funerary jars
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
+
+Six large stone jars behind the tomb contain treasure and strange substances, which the party examines and carries away.
+
+<details>
+<summary>Review evidence</summary>
+
+Six distinct gem-stoppered stone jars are counted and subsequently opened; grouping the containers while retaining separately handled contents is supported by the source.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (2)</summary>
+
+### Observed · supporting
+
+Six gem-stoppered jars stand behind the central statue.
+
+Scenes: [16](#scene-16) · high confidence · automated review · ID: `jars-first-seen`
+
+Primary: [u2461–u2466](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2461-L2466)
+
+### Interacted · supporting
+
+After stopping Hiyasa from taking treasure, the party opens the jars and investigates their contents.
+
+Scenes: [19](#scene-19) · high confidence · automated review · ID: `jars-examined`
+
+Primary: [u3435–u3689](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3435-L3689)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-736e616b652d737461747565"></a>
+
+## Snake-headed statue in the upper hall
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
+
+A large snake-headed statue has jeweled eyes, gold bands, and a removable arm gem that the gargoyles try to pull. The party leaves the gem in place.
+
+<details>
+<summary>Review evidence</summary>
+
+The upper statue’s snake head, jeweled eyes, bands, loose arm gem and incipient movement are directly described; no completed awakening or second guardian identity is asserted.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Interacted · supporting
+
+The party notices the statue stirring as a gargoyle works its gem, examines it afterward, and leaves a warning note.
+
+Scenes: [10](#scene-10), [11](#scene-11), [12](#scene-12), [13](#scene-13) · high confidence · automated review · ID: `snake-statue-examination`
+
+Supporting: [u1124–u1130](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1124-L1130)
+
+Supporting: [u1719–u1723](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1719-L1723)
+
+Primary: [u1832–u1899](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1832-L1899)
+
+Supporting: [u1977–u1981](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1977-L1981)
+
+</details>
+
+[Back to entity list](#entity-list)
+
+
+<a id="entity-66616d696c792d6c6574746572"></a>
+
+## Trok’s unfinished family letter
+
+Item · **high confidence · automated review**
+
+Vault match: No linked page
 
 Trok repeatedly starts a promised letter to his family but struggles with confusion and resentment, leaving it unfinished.
 
-### letter-drafting · interacted · supporting
+<details>
+<summary>Review evidence</summary>
 
-Scenes: 1 · Review: high / automatedReviewed
+Added a consequential personal document omitted from the draft: the promised family letter has been started 17 times, is being worked on at the shack, and is discussed as unfinished because of family resentment; no delivery or page match is asserted.
+
+</details>
+
+<details>
+<summary>Interactions and source passages (1)</summary>
+
+### Interacted · supporting
 
 Trok works on another attempt at the letter before discussing his difficulty finishing it with Kaleho.
 
-primary: [u0099–u0164](../../../mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L99-L164)
+Scenes: [1](#scene-1) · high confidence · automated review · ID: `letter-drafting`
 
-## Critical review queue
+Primary: [u0099–u0164](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L99-L164)
 
-- `session`: Added Wazir because the DM concretely portrays him detecting magic, recognizing wine and dwarven writing, and receiving the papers after the return; this does not claim his player attended or that he joined the four-person expedition. Ander remains excluded. Rechecked chronology: the explicit single camp yields an Oct25 tomb visit, while Oct28 is only the manifest anchor for a vaguely dated return; exact endpoint remains an unresolved critical date issue.
+</details>
+
+[Back to entity list](#entity-list)
+
+## Display exclusions
+
+<details>
+<summary>Ordinary treasure omitted from the entity review</summary>
+
+These entries remain in the original JSON and audit history. They are excluded from this review under the ordinary-treasure rule.
+
+- **Ancient coins and uncut gems** (`treasure`): Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule.
+
+</details>
+
+## Scene reference
+
+<details>
+<summary>Scene division and context (21 scenes)</summary>
+
+Collection review: high confidence · automated review
+
+| Scene | Type | Location | In-world time | AI summary | Source |
+| --- | --- | --- | --- | --- | --- |
+| <a id="scene-1"></a>1 | conversation | [Hamri](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Hamri.md); Trok's beach shack north of town | 1747-10-23; evening | Kaleho visits Trok; Orden asks them to find his missing daughter Hiyasa. | [u0006–u0348](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L6-L348) |
+| <a id="scene-2"></a>2 | conversation | [Hamri](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Hamri.md); Ryu's tower and departure preparations | 1747-10-24; morning | The next morning, Ryu joins the search and Nerissa introduces herself. | [u0349–u0580](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L349-L580) |
+| <a id="scene-3"></a>3 | conversation | [Leviathan Inn](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Leviathan%20Inn.md); Common room | 1747-10-24; morning | Abelard recalls Hiyasa seeking an ancient tomb upriver. | [u0581–u0698](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L581-L698) |
+| <a id="scene-4"></a>4 | conversation | [Hamri](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Hamri.md); Ryu's tower | 1747-10-24 | Ryu reports that Blu has found a trail along the river. | [u0699–u0717](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L699-L717) |
+| <a id="scene-5"></a>5 | travel | [Mirmir](../../../../Gazetteer/Northwest%20Coast/Rivers/Mirmir.md); Forested riverbank above the waterfall | 1747-10-24; day into late afternoon | The party follows recent tracks upriver until nightfall. | [u0718–u0758](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L718-L758) |
+| <a id="scene-6"></a>6 | exploration | [Mirmir](../../../../Gazetteer/Northwest%20Coast/Rivers/Mirmir.md); Sheltered riverside campsite | 1747-10-24 – 1747-10-25; night | The party camps and keeps three uneventful watches. | [u0759–u0792](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L759-L792) |
+| <a id="scene-7"></a>7 | exploration | [Mirmir](../../../../Gazetteer/Northwest%20Coast/Rivers/Mirmir.md); An abandoned campsite farther upriver | 1747-10-25; morning | A deserted one-person camp leads to a trail away from the river. | [u0793–u0836](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L793-L836) |
+| <a id="scene-8"></a>8 | travel | [Mawakel Peninsula](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Mawakel%20Peninsula.md); Dense inland forest | 1747-10-25 | The party follows the cut trail through dense forest for most of the day. | [u0837–u0847](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L837-L847) |
+| <a id="scene-9"></a>9 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Exterior monument and roof entrance | 1747-10-25 | The party reads the tomb inscription, scouts the roof, and climbs toward the open entrance. | [u0848–u1057](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L848-L1057) |
+| <a id="scene-10"></a>10 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Entrance shaft and upper mosaic hall | 1747-10-25 | A blade trap and a fall injure Trok and Kaleho during the descent. | [u1058–u1273](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1058-L1273) |
+| <a id="scene-11"></a>11 | combat | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Upper mosaic hall | 1747-10-25 | The party destroys four gargoyles before they can fully activate a snake-headed statue. | [u1274–u1806](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1274-L1806) |
+| <a id="scene-12"></a>12 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Upper mosaic hall and locked side door | 1747-10-25 | The party examines the statue, gathers stone keys, follows tracks, and heals. | [u1807–u1954](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1807-L1954) |
+| <a id="scene-13"></a>13 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Small side chamber and connecting stairs | 1747-10-25 | Tracks lead past a connecting passage and down the staircase. | [u1955–u2055](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L1955-L2055) |
+| <a id="scene-14"></a>14 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Lower corridor with a mud trap | 1747-10-25 | The party detects a mud-filled stretch and crosses using jumps and pitons. | [u2056–u2312](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2056-L2312) |
+| <a id="scene-15"></a>15 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inscribed chamber above the inner sanctum | 1747-10-25 | Lightning strikes Kaleho; crawling beneath the crystals allows the party to descend. | [u2313–u2410](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2313-L2410) |
+| <a id="scene-16"></a>16 | conversation | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum | 1747-10-25 | Hiyasa is trapped in stone; a speaking guardian rejects the party’s oceanic offerings. | [u2411–u2560](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2411-L2560) |
+| <a id="scene-17"></a>17 | combat | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum | 1747-10-25 | The stone guardian traps the party in mud and fells Trok before Ryu destroys it. | [u2561–u3295](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L2561-L3295) |
+| <a id="scene-18"></a>18 | exploration | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum as mud hardens | 1747-10-25 | Ryu revives Trok, Nerissa teleports free, and Trok escapes the hardening mud. | [u3296–u3434](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3296-L3434) |
+| <a id="scene-19"></a>19 | conversation | [Tomb of Yerkir-Khor](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Tomb%20of%20Yerkir-Khor.md); Inner sanctum and six gem-topped jars | 1747-10-25 | Hiyasa explains her treasure map after being caught taking loot; the party examines the jars. | [u3435–u3689](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3435-L3689) |
+| <a id="scene-20"></a>20 | travel | [Mawakel Peninsula](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Mawakel%20Peninsula.md); Tomb exit and return route to Hamri | unspecified | The party retraces the traps, conceals the entrance, and carries the recovered treasure back to Hamri. | [u3690–u3707](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3690-L3707) |
+| <a id="scene-21"></a>21 | conversation | [Leviathan Inn](../../../../Gazetteer/Northwest%20Coast/Mawar%20Confederacy/Leviathan%20Inn.md); Return to Hamri several days later | unspecified | Wazir examines the treasure; the party divides gold, gives Nerissa the pearl, and leaves Wazir the ancient papers. | [u3708–u3798](https://github.com/tsackton/taelgar/blob/5c88c732cad96082b20786df99e9cca6d395267f/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md?plain=1#L3708-L3798) |
+
+</details>

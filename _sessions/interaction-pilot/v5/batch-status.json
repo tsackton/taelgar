@@ -1,6 +1,7 @@
 {
   "seed": 20261028,
   "complete": true,
+  "sourceRevision": "5c88c732cad96082b20786df99e9cca6d395267f",
   "executions": [
     {
       "id": "labyrinths-of-the-lost-002",
@@ -18,7 +19,10 @@
         "readyEntities": 12,
         "provisionalEntities": 0
       },
-      "criticalQueue": []
+      "criticalQueue": [],
+      "displayedEntities": 12,
+      "excludedEntities": {},
+      "currentSourceChanged": false
     },
     {
       "id": "mawar-adventures-003",
@@ -45,7 +49,12 @@
           },
           "reason": "Added Wazir because the DM concretely portrays him detecting magic, recognizing wine and dwarven writing, and receiving the papers after the return; this does not claim his player attended or that he joined the four-person expedition. Ander remains excluded. Rechecked chronology: the explicit single camp yields an Oct25 tomb visit, while Oct28 is only the manifest anchor for a vaguely dated return; exact endpoint remains an unresolved critical date issue."
         }
-      ]
+      ],
+      "displayedEntities": 22,
+      "excludedEntities": {
+        "treasure": "Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule."
+      },
+      "currentSourceChanged": false
     },
     {
       "id": "dragonets-002",
@@ -81,7 +90,10 @@
           },
           "reason": "The reply at u0365 is fragmented and follows the ambiguous “Groovy the” at u0364; it supports a possible habitual contact but does not settle the full name or identity. No vault match resolves it."
         }
-      ]
+      ],
+      "displayedEntities": 28,
+      "excludedEntities": {},
+      "currentSourceChanged": false
     },
     {
       "id": "lost-in-the-feywild-001",
@@ -99,7 +111,12 @@
         "readyEntities": 18,
         "provisionalEntities": 0
       },
-      "criticalQueue": []
+      "criticalQueue": [],
+      "displayedEntities": 17,
+      "excludedEntities": {
+        "promised-hoard": "An undifferentiated promise of gold, gems and jewelry; excluded under the user's ordinary-treasure rule."
+      },
+      "currentSourceChanged": false
     },
     {
       "id": "into-the-chasm-004",
@@ -126,7 +143,10 @@
           },
           "reason": "Context confirms four material days elapsed since labyrinth entry and that emergence occurs in the afternoon; absolute January dates remain manifest anchors and are not promoted from notes."
         }
-      ]
+      ],
+      "displayedEntities": 29,
+      "excludedEntities": {},
+      "currentSourceChanged": false
     },
     {
       "id": "dunmari-frontier-064",
@@ -153,7 +173,10 @@
           },
           "reason": "Full contextual reread confirms the attendance, identities, locations, and passage of days; no spoken calendar date independently fixes the manifest’s November 6–13 span, which remains provisional."
         }
-      ]
+      ],
+      "displayedEntities": 24,
+      "excludedEntities": {},
+      "currentSourceChanged": true
     },
     {
       "id": "dunmari-frontier-058",
@@ -189,7 +212,10 @@
           },
           "reason": "Rechecked the exact Nora passage against both Odim Mavdyrson’s identity and Hagrim’s public account: the father, place, attackers and betrayal strongly match, but Magerson still lacks an explicit alias to the canonical spelling. Keep the positive match visibly provisional instead of normalizing away the uncertainty."
         }
-      ]
+      ],
+      "displayedEntities": 15,
+      "excludedEntities": {},
+      "currentSourceChanged": true
     },
     {
       "id": "dunmari-frontier-007",
@@ -225,7 +251,10 @@
           },
           "reason": "Contextual recheck of the full closing negotiation still identifies only remaining Karawa people, sages and dreamwalkers, not an explicit identity with the temple mystai; preserve the possible collective connection as provisional."
         }
-      ]
+      ],
+      "displayedEntities": 15,
+      "excludedEntities": {},
+      "currentSourceChanged": false
     },
     {
       "id": "dragonets-001",
@@ -252,7 +281,10 @@
           },
           "reason": "Manifest real-world date and Circular Island identity are supported, and game dates are explicitly unknown; all four named PCs attend, but independent vault index/name checks find no individual PC pages, leaving the required attendance links unresolved."
         }
-      ]
+      ],
+      "displayedEntities": 15,
+      "excludedEntities": {},
+      "currentSourceChanged": false
     },
     {
       "id": "dunmari-frontier-057",
@@ -306,7 +338,10 @@
           },
           "reason": "The reference identifies four divine faces venerated collectively, not an ordinary organization; keep the type provisional rather than silently inventing a new schema kind."
         }
-      ]
+      ],
+      "displayedEntities": 18,
+      "excludedEntities": {},
+      "currentSourceChanged": true
     }
   ]
 }

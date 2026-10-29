@@ -1,6 +1,6 @@
 # Campaign interaction extraction — review materials
 
-**Start with the [ten-session v5 trial](v5/README.md)** for the current extraction and review results. The [model overview](MODEL_OVERVIEW.md) explains the agreed structured model; [bulk review and preprocessing](WORKFLOW_DISCUSSION.md) describes the adopted workflow.
+**Start with the [ten-session entity review directory](v5/README.md)**. Each session opens with its entity list, followed by overviews, vault matches, confidence and review questions. Quotes and interactions expand beneath each entity; scenes are linked supporting context. The [model overview](MODEL_OVERVIEW.md) explains the agreed structured model; [bulk review and preprocessing](WORKFLOW_DISCUSSION.md) describes the adopted workflow.
 
 The current executable baseline is **v5, transcript-only extraction with separate semantic review**. It covers NPCs, important items and organizations, whole conversations, shared scenes, pull quotes, aggregate metadata and confidence/review states. The trial spans six campaigns and preserves unresolved critical questions for feedback. This is a design checkpoint, not a deployed Taelgarverse feature.
 

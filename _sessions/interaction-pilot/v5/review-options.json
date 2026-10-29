@@ -1,0 +1,11 @@
+{
+  "sourceRevision": "5c88c732cad96082b20786df99e9cca6d395267f",
+  "excludedEntities": {
+    "mawar-adventures-003": {
+      "treasure": "Ordinary coins and uncut gems divided by value; excluded under the user's ordinary-treasure rule."
+    },
+    "lost-in-the-feywild-001": {
+      "promised-hoard": "An undifferentiated promise of gold, gems and jewelry; excluded under the user's ordinary-treasure rule."
+    }
+  }
+}
