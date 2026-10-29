@@ -195,7 +195,7 @@
 [u0195 | 00:16:42.330-00:16:42.990 | Kenzo] reddish it okay.
 [u0196 | 00:16:43.470-00:16:45.150 | Kenzo] i'm reddish ochre stone.
 [u0197 | 00:16:46.590-00:16:47.190 | Seeker] Men.
-[u0198 | 00:16:47.280-00:16:49.440 | Seeker] A {{shadow stone}} or a rough one.
+[u0198 | 00:16:47.280-00:16:49.440 | Seeker] A shaped stone or a rough one.
 [u0199 | 00:16:50.850-00:16:52.920 | Seeker] Reddish rough ochre stone like.
 [u0200 | 00:16:55.500-00:17:05.310 | Seeker] I mean that describes this the sandstone that the Mesa of where the temple of Shakun is carved.
 [u0201 | 00:17:05.970-00:17:07.140 | Kenzo] It is made of.
@@ -1190,7 +1190,7 @@
 [u1190 | 01:41:39.240-01:41:41.100 | Delwath] I can't I can't quite a bit I don't know.
 [u1191 | 01:41:42.480-01:41:43.200 | Kenzo] I mean.
 [u1192 | 01:41:43.860-01:41:45.420 | Seeker] Oh, did Rai switch sides oh.
-[u1193 | 01:41:46.830-01:41:51.510 | Kenzo] Maybe maybe rise to about history month army i'm.
+[u1193 | 01:41:46.830-01:41:51.510 | Kenzo] Maybe maybe Rai's about to his monk army i'm.
 [u1194 | 01:41:53.400-01:41:57.330 | Delwath] arrogant enough to think they could succeed when, in fact, maybe they could.
 [u1195 | 01:42:02.610-01:42:03.090 | Kenzo] i'm.
 [u1196 | 01:42:04.410-01:42:08.910 | Kenzo] TIM was the CEO of i've Kenzo had a previous.
@@ -2664,7 +2664,7 @@
 [u2664 | 03:42:11.070-03:42:21.210 | Delwath] To combine their plane of consciousness why Rai couldn't just kind of do it, I don't know but combined to their plane of consciousness magic with Web.
 [u2665 | 03:42:21.750-03:42:22.320 | Kenzo] worst part.
 [u2666 | 03:42:22.920-03:42:27.810 | DM] yeah I was busy with something else the the in my other campaign, I have a.
-[u2667 | 03:42:29.010-03:42:34.530 | DM] mysterious disappearing lizard folk plotline that is eventually going to involve kiner.
+[u2667 | 03:42:29.010-03:42:34.530 | DM] mysterious disappearing lizard folk plotline that is eventually going to involve Kyr.
 [u2668 | 03:42:34.920-03:42:35.760 | Unknown] wow.
 [u2669 | 03:42:39.120-03:42:48.900 | Delwath] But so Rai went out to the somehow hooked up with the monks, to try to close this hole he may be succeeded, but probably really didn't and.
 [u2670 | 03:42:49.560-03:42:59.640 | Delwath] Just angered the thing you know lashed out and knocked off his hand, or maybe shattered him and so he's possibly scattered over the desert, or possibly just one part of him is scattered over the desert.

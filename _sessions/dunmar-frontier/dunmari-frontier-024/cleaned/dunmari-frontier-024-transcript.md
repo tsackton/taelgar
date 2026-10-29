@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 24
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-024-source-cleaned.md
 
 ## Transcript
@@ -11,8 +11,8 @@ DM: Okay, so. As we start tonight, it's almost two months since you met in Karaw
 %% u0004:0-21, u0005:0-207, u0006:0-172, u0007:0-20 %%
 DM: Since leaving Karawa, you've learned of the Order of the Awakened Soul, the Mystai of Bhishma, who since the Great War have dedicated themselves to finding the unburied dead in the desolation of Cha'mutte and putting them to rest. You also learned that these same monks, 30 years ago, embarked on a mission somehow involving the great mage Rai to close the portal or cleanse the land or heal evil somehow. Seem to have failed.
 
-%% u0008:0-162, u0009:0-23, u0010:0-87, u0011:0-257 %%
-DM: According to Karmana, the ghost of the last master of the Bhishma Mystai, um, who remained behind to protect the monastery, since this failure evil has been growing slowly across the land. Until last summer, when darkness arrived in Kharsan in the form of Grash the Bladed One. Grash, now apparently the master and commander of an ever-growing clan of orcs, is bent on, on war, at least for now against Uzgash's horde, an apparently peaceful clan of orcs living somewhere along one of the desert rivers, farming and keeping to themselves.
+%% u0008:0-162, u0009:0-23, u0010:0-89, u0011:0-257 %%
+DM: According to Karmana, the ghost of the last master of the Bhishma Mystai, um, who remained behind to protect the monastery, since this failure evil has been growing slowly across the land. Until last summer, when darkness arrived in Kharsan in the form of Grash the Blighted One. Grash, now apparently the master and commander of an ever-growing clan of orcs, is bent on, on war, at least for now against Uzgash's horde, an apparently peaceful clan of orcs living somewhere along one of the desert rivers, farming and keeping to themselves.
 
 %% u0012:0-126, u0013:0-32, u0014:0-36, u0015:0-198, u0016:0-54, u0017:0-160 %%
 DM: While exploring the monastery, you also discovered the still-divine passageway to the initiation rituals of the Bhishma Mystai, which Kenzo and Seeker followed. Well, at the end Seeker turned away. Kenzo committed to becoming a Mystai and learning that Shakun, the daughter of Bhishma and Laka, was present with her parents, as always, in the realm of Arkash, the spiritual plane of the Five Siblings. But she could not reach the world, cannot reach Karawa, could not reach her temple there to power the mystical protections of Dunmar, because their heart, a red ochre stone imbued with her divine essence, was missing.
@@ -2546,8 +2546,8 @@ Wellby: Yes.
 %% u1536:0-17 %%
 Kenzo: I like that idea.
 
-%% u1537:0-82 %%
-DM: All right, back to [garbled] is probably a great place to hang glide off.
+%% u1537:0-79 %%
+DM: All right, back to Karawa, the mesa is probably a great place to hang glide off.
 
 %% u1538:0-20 %%
 Seeker: Just recreationally.

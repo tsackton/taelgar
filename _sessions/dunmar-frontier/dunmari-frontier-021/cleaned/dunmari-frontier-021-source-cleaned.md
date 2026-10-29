@@ -108,7 +108,7 @@
 [u0108 | 00:10:52.110-00:10:56.460 | Seeker] And is all darkness evil.
 [u0109 | 00:10:57.510-00:11:00.870 | Seeker] Is all evil to be found in darkness.
 [u0110 | 00:11:02.190-00:11:05.340 | Seeker] Maybe, but maybe there's more to the world than we know.
-[u0111 | 00:11:06.870-00:11:11.940 | Seeker] or, conversely, perhaps this prediction what can happen still with even though.
+[u0111 | 00:11:06.870-00:11:11.940 | Seeker] or, conversely, perhaps this prediction what can happen to Delwath even though.
 [u0112 | 00:11:12.990-00:11:14.670 | Seeker] It seems unlikely I.
 [u0113 | 00:11:14.790-00:11:19.590 | Kenzo] I feel like it's within the spectrum of possible now I don't hold it against you just to be clear about that, though.
 [u0114 | 00:11:20.010-00:11:28.230 | Kenzo] it's not something I have no personal you know interactions it feels like you know you're you're actually a liberator of the Great War, so I you know I don't really do but.
@@ -340,7 +340,7 @@
 [u0340 | 00:31:17.340-00:31:18.810 | DM] Havdar.
 [u0341 | 00:31:24.360-00:31:28.590 | DM] Havdar then like turns to you anything you want to know.
 [u0342 | 00:31:41.070-00:31:42.120 | Seeker] Why did they attack.
-[u0343 | 00:31:44.400-00:31:46.080 | Delwath] who have they been to recently.
+[u0343 | 00:31:44.400-00:31:46.080 | Delwath] where have they been to recently.
 [u0344 | 00:31:47.760-00:31:48.510 | Wellby] Who do they serve.
 [u0345 | 00:31:49.140-00:31:50.520 | Seeker] Who do they serve.
 [u0346 | 00:31:51.720-00:31:55.110 | DM] That the orc starts laughing.
@@ -1298,7 +1298,7 @@
 [u1298 | 01:58:07.650-01:58:12.000 | Wellby] And it can give us a sense of whether it is safe or not to go into the city much as I'd like to go.
 [u1299 | 01:58:13.590-01:58:15.210 | Kenzo] let's recap, what do we know about the monastery.
 [u1300 | 01:58:18.870-01:58:22.500 | Seeker] Well, this is the place that an attempt was made 30 years ago.
-[u1301 | 01:58:24.420-01:58:27.660 | Seeker] To something something blade of she might.
+[u1301 | 01:58:24.420-01:58:27.660 | Seeker] To something something plague of Cha'mutte.
 [u1302 | 01:58:30.090-01:58:35.640 | DM] Not necessarily at this monastery it was, but its associated with the group of monks who made that attempt.
 [u1303 | 01:58:37.080-01:58:40.800 | Seeker] Oh, I thought they were gonna like they all went there to do it there.
 [u1304 | 01:58:41.850-01:58:42.960 | Seeker] They might have gone somewhere else.

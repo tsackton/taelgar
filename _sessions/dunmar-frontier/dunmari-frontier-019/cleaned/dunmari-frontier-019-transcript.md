@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 19
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-019-source-cleaned.md
 
 ## Transcript
@@ -1088,8 +1088,8 @@ DM: It's expected to be deserted, yes. Nobody has been back there since the ramp
 %% u0754:0-24 %%
 Seeker: See what happened there.
 
-%% u0755:0-220 %%
-Kenzo: And Agata Dustmother supposed to be around where the green is, yeah? And then the weird cottage-house thing is where the red red thing is, yep, and then Delwath's tower is where the—is right on the edge of the library here.
+%% u0755:0-224 %%
+Kenzo: And Agata Dustmother supposed to be around where the green is, yeah? And then the weird cottage-house thing is where the red red thing is, yep, and then Delwath's tower is where the—is right on the edge of the light green here.
 
 %% u0756:0-4 %%
 Unknown: Yes.

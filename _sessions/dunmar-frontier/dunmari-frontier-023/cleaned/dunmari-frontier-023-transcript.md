@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 23
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-023-source-cleaned.md
 
 ## Transcript
@@ -299,8 +299,8 @@ DM: A—you're not a—reddish, reddish.
 %% u0195:0-16, u0196:0-24 %%
 Kenzo: Reddish, it—okay. I'm—reddish ochre stone.
 
-%% u0197:0-4, u0198:0-34, u0199:0-31, u0200:0-95 %%
-Seeker: Men—a {{shadow stone}} or a rough one? Reddish rough ochre stone, like—I mean that describes this the sandstone that the Mesa of where the temple of Shakun is carved.
+%% u0197:0-4, u0198:0-30, u0199:0-31, u0200:0-95 %%
+Seeker: Men—a shaped stone or a rough one? Reddish rough ochre stone, like—I mean that describes this the sandstone that the Mesa of where the temple of Shakun is carved.
 
 %% u0201:0-14 %%
 Kenzo: It—is made of.
@@ -1670,8 +1670,8 @@ Kenzo: I mean.
 %% u1192:0-28 %%
 Seeker: Oh, did Rai switch sides? Oh.
 
-%% u1193:0-49 %%
-Kenzo: Maybe, maybe rise to about history month army. I'm—
+%% u1193:0-45 %%
+Kenzo: Maybe, maybe Rai's about to his monk army. I'm—
 
 %% u1194:0-76 %%
 Delwath: Arrogant enough to think they could succeed when, in fact, maybe they could.
@@ -3686,8 +3686,8 @@ Delwath: So my take is 30 years ago that—well, 40 years ago—these monks some
 %% u2665:0-11 %%
 Kenzo: Worst part.
 
-%% u2666:0-75, u2667:0-87 %%
-DM: Yeah I was busy with something else. The, the—in my other campaign, I have a mysterious disappearing lizard folk plotline that is eventually going to involve kiner.
+%% u2666:0-75, u2667:0-85 %%
+DM: Yeah I was busy with something else. The, the—in my other campaign, I have a mysterious disappearing lizard folk plotline that is eventually going to involve Kyr.
 
 %% u2668:0-4 %%
 Unknown: Wow.

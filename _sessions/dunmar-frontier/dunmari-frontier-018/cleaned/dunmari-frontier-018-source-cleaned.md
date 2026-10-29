@@ -1512,7 +1512,7 @@
 [u1512 | 02:08:43.980-02:08:49.020 | DM] 200 years ago 150 years ago.
 [u1513 | 02:08:55.740-02:08:57.810 | DM] or something no not entirely.
 [u1514 | 02:09:02.070-02:09:03.120 | Kenzo] You know, of her origin.
-[u1515 | 02:09:03.510-02:09:04.770 | DM] motivator is a.
+[u1515 | 02:09:03.510-02:09:04.770 | DM] Mother Agata is a.
 [u1516 | 02:09:11.940-02:09:16.620 | DM] There is a fey spirit in her or of her part of her.
 [u1517 | 02:09:19.560-02:09:21.630 | DM] she's not entirely of this plane.
 [u1518 | 02:09:26.220-02:09:28.620 | Seeker] Fey spirit, what does that mean.
@@ -1743,7 +1743,7 @@
 [u1743 | 02:28:41.370-02:28:42.270 | DM] So I do not know.
 [u1744 | 02:28:43.650-02:28:45.330 | Wellby] get to talk to Candrosa.
 [u1745 | 02:28:47.100-02:28:49.710 | DM] I will not speak with him, while a curse hangs over him.
-[u1746 | 02:28:52.350-02:28:53.580 | DM] {{Our car}} has said so.
+[u1746 | 02:28:52.350-02:28:53.580 | DM] Our seer has said so.
 [u1747 | 02:28:55.200-02:28:55.470 | Kenzo] What do you.
 [u1748 | 02:28:55.530-02:28:57.510 | Seeker] A curse hangs over.
 [u1749 | 02:28:58.860-02:28:59.580 | Unknown] A shadow.
@@ -2536,7 +2536,7 @@
 [u2536 | 03:31:02.850-03:31:04.200 | DM] Well, it was never really clear.
 [u2537 | 03:31:04.560-03:31:09.090 | Delwath] very clear but conceptually he, like went back in time and.
 [u2538 | 03:31:09.120-03:31:11.700 | Delwath] Created his own race yes.
-[u2539 | 03:31:13.980-03:31:21.570 | Wellby] In in my recollection which which could be very much wrong went back in time and met the Scott forstall who, in the present was Aerin's God.
+[u2539 | 03:31:13.980-03:31:21.570 | Wellby] In in my recollection which which could be very much wrong went back in time and met Vortishaal who, in the present was Aerin's God.
 [u2540 | 03:31:21.810-03:31:32.370 | Wellby] Yes, but in the past wasn't unfortunate was just like very favorably impressed and was like i'm going to pattern my life after you from here on out and making cuz you look cool.
 [u2541 | 03:31:33.060-03:31:33.390 | DM] Right.
 [u2542 | 03:31:34.230-03:31:40.920 | DM] wasn't entirely clear if you became the God or if you just turned the god into the kenku God somehow.
@@ -2759,7 +2759,7 @@
 [u2759 | 03:51:15.600-03:51:16.590 | DM] very valuable.
 [u2760 | 03:51:18.060-03:51:21.270 | Kenzo] Have you not asked Candrosa to commune with it.
 [u2761 | 03:51:24.750-03:51:27.000 | DM] I argued for such an approach, yes.
-[u2762 | 03:51:30.120-03:51:35.880 | DM] The omen seeker the {{omen car}} of our tribe warned against that.
+[u2762 | 03:51:30.120-03:51:35.880 | DM] The omen seeker the omen seer of our tribe warned against that.
 [u2763 | 03:51:38.040-03:51:38.790 | DM] Saying.
 [u2764 | 03:51:42.420-03:51:44.760 | DM] The curse lay upon Candrosa the.
 [u2765 | 03:51:46.170-03:51:51.120 | DM] And don't mistake me curse not meaning an evil presence, but this.

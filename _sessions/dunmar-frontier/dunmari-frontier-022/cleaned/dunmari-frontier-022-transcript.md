@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 22
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-022-source-cleaned.md
 
 ## Transcript
@@ -4820,8 +4820,8 @@ Delwath: So Thursday.
 %% u2613:0-9 %%
 Kenzo: I got it.
 
-%% u2614:0-69, u2615:0-9 %%
-DM: Sorry got the 23 rd Friday, and the 30 th Kung Fu Punk, and then the six [garbled].
+%% u2614:0-69, u2615:0-8 %%
+DM: Sorry got the 23 rd Friday, and the 30 th Cthulupunk, and then the sixth Taelgar.
 
 %% u2616:0-4 %%
 Unknown: Yep.
@@ -5153,8 +5153,8 @@ Seeker: Do you—do you have to like stay here and live here? No?
 %% u2851:0-3 %%
 Kenzo: No.
 
-%% u2852:0-3, u2853:0-58 %%
-Seeker: No. I mean you're—you've given your life to traditional, right?
+%% u2852:0-3, u2853:0-54 %%
+Seeker: No. I mean you're—you've given your life to Jeevali, right?
 
 %% u2854:0-22 %%
 Kenzo: I think I already had.

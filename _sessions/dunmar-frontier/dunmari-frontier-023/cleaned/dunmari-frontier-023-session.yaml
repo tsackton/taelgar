@@ -36,3 +36,131 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/sources/zoom-session-023.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2891
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20210424-002908_Recording.transcript.vtt
+      sha256: cf64a0eb2ab976a25d8b7fb56fb44427dfb816a461139d311af8f9645bb08c22
+    prepared:
+      path: cleaned/dunmari-frontier-023-source-prepared.md
+      sha256: 964acf4c373abb2e61007405b76edfc13c9148c86fbbd43ae8389f1a1229e7d7
+    cleaned:
+      path: cleaned/dunmari-frontier-023-source-cleaned.md
+      sha256: e231d216a7771f80207fbcae24d6b343948379ea0830856be4b6d87aafa52e40
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-023-transcript.md
+      sha256: 5915da8115c21d95138adb58558b0010a254ba01e40de6bd1a7af8427f7cecea
+  speakerCorrections:
+  - uid: u2357
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u2375
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u2388
+    start: 0
+    end: 20
+    speaker: DM
+  - uid: u2390
+    start: 0
+    end: 17
+    speaker: DM
+  - uid: u2399
+    start: 0
+    end: 6
+    speaker: DM
+  - uid: u2407
+    start: 0
+    end: 32
+    speaker: DM
+  - uid: u2415
+    start: 0
+    end: 22
+    speaker: DM
+  - uid: u2417
+    start: 0
+    end: 23
+    speaker: DM
+  - uid: u2418
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u2426
+    start: 0
+    end: 28
+    speaker: DM
+  - uid: u2430
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u2434
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u2436
+    start: 0
+    end: 30
+    speaker: DM
+  - uid: u2454
+    start: 0
+    end: 41
+    speaker: DM
+  - uid: u2456
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u2467
+    start: 0
+    end: 6
+    speaker: DM
+  - uid: u2517
+    start: 0
+    end: 17
+    speaker: DM
+  - uid: u2523
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u2529
+    start: 0
+    end: 35
+    speaker: DM
+  - uid: u2537
+    start: 0
+    end: 21
+    speaker: DM
+  - uid: u2540
+    start: 0
+    end: 19
+    speaker: DM
+  - uid: u2542
+    start: 0
+    end: 15
+    speaker: DM
+  - uid: u2543
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u2556
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u2575
+    start: 0
+    end: 26
+    speaker: DM
+  - uid: u2580
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u2587
+    start: 0
+    end: 22
+    speaker: DM

@@ -7,7 +7,7 @@
 [u0007 | 00:01:22.350-00:01:23.850 | DM] seem to have failed.
 [u0008 | 00:01:26.220-00:01:39.690 | DM] According to Karmana, the ghost of the last master of the Bhishma Mystai um who remained behind to protect the monastery since this failure evil has been growing.
 [u0009 | 00:01:41.670-00:01:43.350 | DM] Slowly across the land.
-[u0010 | 00:01:44.610-00:01:50.310 | DM] Until last summer when darkness arrived in Kharsan in the form of Grash the Bladed One.
+[u0010 | 00:01:44.610-00:01:50.310 | DM] Until last summer when darkness arrived in Kharsan in the form of Grash the Blighted One.
 [u0011 | 00:01:51.720-00:02:08.580 | DM] Grash now apparently the master and commander of an ever growing clan of orcs is bent on, on war, at least for now against Uzgash's horde, an apparently peaceful clan of orcs living somewhere along one of the desert rivers farming and keeping to themselves.
 [u0012 | 00:02:11.730-00:02:18.450 | DM] While exploring the monastery you also discovered the still divine passageway to the initiation rituals of the Bhishma Mystai.
 [u0013 | 00:02:20.010-00:02:21.810 | DM] Which Kenzo and Seeker followed.
@@ -1534,7 +1534,7 @@
 [u1534 | 02:09:31.500-02:09:34.320 | Seeker] I wish it made sense for me to make a hang glider but I don't think it does.
 [u1535 | 02:09:37.050-02:09:37.530 | Wellby] Yes.
 [u1536 | 02:09:38.550-02:09:39.540 | Kenzo] I like that idea.
-[u1537 | 02:09:40.200-02:09:43.740 | DM] All right back to carry their resumes is probably a great place to hang glide off.
+[u1537 | 02:09:40.200-02:09:43.740 | DM] All right back to Karawa, the mesa is probably a great place to hang glide off.
 [u1538 | 02:09:44.460-02:09:45.540 | Seeker] Just recreationally.
 [u1539 | 02:09:45.570-02:09:46.740 | DM] Just recreationally.
 [u1540 | 02:09:50.940-02:09:52.770 | Seeker] We'll never make it um.

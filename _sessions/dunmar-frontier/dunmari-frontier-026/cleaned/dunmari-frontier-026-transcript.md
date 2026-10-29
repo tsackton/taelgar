@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 26
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-026-source-cleaned.md
 
 ## Transcript
@@ -131,8 +131,8 @@ DM: And there's a fair fair number of mystai who remain. There's probably 40 or 
 %% u0138:0-37, u0139:0-72, u0140:0-43, u0141:0-36, u0142:0-31, u0143:0-99, u0144:0-146, u0145:0-24, u0146:0-16 %%
 DM: I am so glad to see you. It has been... The past few days have been—well, sorry, the past month has not been easy. I would speak in private, briefly, I think. There are things we have to discuss. Was leaning on his staff as he kind of walks. So he takes you the same place you've spoken with him before kind of into the temple. And like not—not into the main part of the temple, but there's this like little office, conference room off off on the side as you enter the temple. And he sits and he says—hold on one sec.
 
-%% u0147:0-13, u0148:0-16 %%
-Kenzo: [garbled]. Okay, so second.
+%% u0147:0-14, u0148:0-16 %%
+Kenzo: My Soul Sight. Okay, so second.
 
 %% u0149:0-23, u0150:0-6 %%
 DM: Sorry, give me one sec. Salsa.

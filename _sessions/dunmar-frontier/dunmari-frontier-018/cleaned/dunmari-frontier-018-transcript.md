@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 18
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-018-source-cleaned.md
 
 ## Transcript
@@ -2162,8 +2162,8 @@ DM: Many, many years. My father's father's time, maybe. 200 years ago, 150 years
 %% u1514:0-24 %%
 Kenzo: You know of her origin?
 
-%% u1515:0-15, u1516:0-51, u1517:0-33 %%
-DM: [garbled] is a... There is a fey spirit in her, or of her, part of her. She's not entirely of this plane.
+%% u1515:0-18, u1516:0-51, u1517:0-33 %%
+DM: Mother Agata is a... There is a fey spirit in her, or of her, part of her. She's not entirely of this plane.
 
 %% u1518:0-32 %%
 Seeker: Fey spirit, what does that mean?
@@ -2357,8 +2357,8 @@ DM: This is not my kind of magic. We did not traffic with the gods. Not... We ar
 %% u1744:0-24 %%
 Wellby: Get to talk to Candrosa?
 
-%% u1745:0-56, u1746:0-24 %%
-DM: I will not speak with him while a curse hangs over him. {{Our car}} has said so.
+%% u1745:0-56, u1746:0-21 %%
+DM: I will not speak with him while a curse hangs over him. Our seer has said so.
 
 %% u1747:0-12 %%
 Kenzo: What do you.
@@ -3677,8 +3677,8 @@ DM: Well, it was never really clear.
 %% u2537:0-59, u2538:0-25 %%
 Delwath: Very clear, but conceptually, he like went back in time and created his own race, yes.
 
-%% u2539:0-140, u2540:0-177 %%
-Wellby: In, in my recollection, which which could be very much wrong, went back in time and met the Scott forstall who in the present was Aerin's god. Yes, but in the past, wasn't unfortunate was just like very favorably impressed and was like, “I'm going to pattern my life after you from here on out and making cuz you look cool.”
+%% u2539:0-132, u2540:0-177 %%
+Wellby: In, in my recollection, which which could be very much wrong, went back in time and met Vortishaal who in the present was Aerin's god. Yes, but in the past, wasn't unfortunate was just like very favorably impressed and was like, “I'm going to pattern my life after you from here on out and making cuz you look cool.”
 
 %% u2541:0-6, u2542:0-101 %%
 DM: Right. Wasn't entirely clear if you became the god, or if you just turned the god into the kenku god somehow.
@@ -3989,8 +3989,8 @@ DM: Artifact of great power, and could be... Even, even a brief moment with this
 %% u2760:0-47 %%
 Kenzo: Have you not asked Candrosa to commune with it?
 
-%% u2761:0-35, u2762:0-66, u2763:0-7, u2764:0-32, u2765:0-66, u2766:0-18, u2767:0-26, u2768:0-97 %%
-DM: I argued for such an approach, yes. The omen seeker—the {{omen car}} of our tribe warned against that, saying the curse lay upon Candrosa. The... And don't mistake me: curse not meaning an evil presence, but this loss, this absence. And while it lay upon him, his actions were tainted, his his control was tainted, and it would not be wise for us to approach.
+%% u2761:0-35, u2762:0-63, u2763:0-7, u2764:0-32, u2765:0-66, u2766:0-18, u2767:0-26, u2768:0-97 %%
+DM: I argued for such an approach, yes. The omen seeker—the omen seer of our tribe warned against that, saying the curse lay upon Candrosa. The... And don't mistake me: curse not meaning an evil presence, but this loss, this absence. And while it lay upon him, his actions were tainted, his his control was tainted, and it would not be wise for us to approach.
 
 %% u2769:0-104 %%
 Kenzo: I had an experience with this staff when I first arrived in this town, not soon not soon after I arrived.
