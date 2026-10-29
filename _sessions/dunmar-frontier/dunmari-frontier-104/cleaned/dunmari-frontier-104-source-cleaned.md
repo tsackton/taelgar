@@ -1,7 +1,7 @@
 [u0001 | 00:00:00.010-00:00:00.740 | DM] I'd
 [u0002 | 00:00:07.313-00:00:08.540 | DM] okay. So
 [u0003 | 00:00:09.760-00:00:11.010 | DM] we began
-[u0004 | 00:00:13.490-00:00:15.100 | DM] on Vindersharna.
+[u0004 | 00:00:13.490-00:00:15.100 | DM] on Vindristjarna.
 [u0005 | 00:00:16.630-00:00:22.130 | DM] The hot afternoon sun of the pre-monsoon summer beats down.
 [u0006 | 00:00:25.227-00:00:26.510 | DM] As you sail.
 [u0007 | 00:00:26.730-00:00:29.100 | DM] What are you doing, Eric?
@@ -11,7 +11,7 @@
 [u0011 | 00:00:45.396-00:00:46.970 | DM] amazing. Okay.
 [u0012 | 00:00:47.120-00:00:49.339 | DM] The sun beats down.
 [u0013 | 00:00:51.590-00:00:57.869 | DM] this high up the winds keep you cool, but the endless expanse of sand and rock below
-[u0014 | 00:00:57.890-00:00:59.480 | DM] {{slowly}} in the heat
+[u0014 | 00:00:57.890-00:00:59.480 | DM] swelters in the heat
 [u0015 | 00:01:01.930-00:01:03.730 | DM] we'll switch to other phones.
 [u0016 | 00:01:10.330-00:01:11.510 | DM] you.
 [u0017 | 00:01:11.860-00:01:13.309 | DM] So as we begin.
@@ -51,17 +51,17 @@
 [u0051 | 00:02:54.080-00:02:56.830 | DM] Doppelganger and Kenzo Doppelganger
 [u0052 | 00:02:56.910-00:03:03.500 | DM] attacked Chardon and opened a rift to pandemonium, using Fausto's Pandemonium Skull
 [u0053 | 00:03:04.670-00:03:08.200 | DM] but since then you've learned considerably more.
-[u0054 | 00:03:09.980-00:03:13.279 | DM] When you return to Vindersharna from the
+[u0054 | 00:03:09.980-00:03:13.279 | DM] When you return to Vindristjarna from the
 [u0055 | 00:03:13.450-00:03:17.029 | DM] elemental plane of water, you learn from your crew
 [u0056 | 00:03:17.460-00:03:20.650 | DM] that a Seeker clone had attacked the skyship.
 [u0057 | 00:03:21.590-00:03:24.190 | DM] killing Yota and Igol.
-[u0058 | 00:03:24.420-00:03:26.520 | DM] who are resurrected by Rizwind
-[u0059 | 00:03:26.890-00:03:31.610 | DM] before being defeated largely by Faldrick and the ice turrets.
+[u0058 | 00:03:24.420-00:03:26.520 | DM] who are resurrected by Riswynn
+[u0059 | 00:03:26.890-00:03:31.610 | DM] before being defeated largely by Faldrak and the ice turrets.
 [u0060 | 00:03:33.280-00:03:35.840 | DM] You also learn from Sura that a
 [u0061 | 00:03:36.180-00:03:38.020 | DM] another clone of
 [u0062 | 00:03:38.420-00:03:39.570 | DM] Wellby
 [u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the Nevos Sea as a pirate, killing indiscriminately.
-[u0064 | 00:03:44.910-00:03:46.659 | DM] and a clone of Rizwind
+[u0064 | 00:03:44.910-00:03:46.659 | DM] and a clone of Riswynn
 [u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of Tharn Todor
 [u0066 | 00:03:51.680-00:03:54.189 | DM] was a was a had come
 [u0067 | 00:03:54.420-00:04:00.680 | DM] into Tharn Todor, the main dwarven city, apparently recruiting dwarves for some mission to the depths
@@ -91,13 +91,13 @@
 [u0091 | 00:05:49.840-00:05:50.790 | DM] and
 [u0092 | 00:05:51.290-00:05:56.070 | DM] Kenzo Clones, you saw them pacing the docks at what you
 [u0093 | 00:05:56.100-00:05:59.120 | DM] presumed was the city of Drankor
-[u0094 | 00:06:02.140-00:06:03.250 | DM] style
+[u0094 | 00:06:02.140-00:06:03.250 | DM] So
 [u0095 | 00:06:03.750-00:06:05.887 | DM] in a brilliant
 [u0096 | 00:06:07.820-00:06:09.070 | DM] decision to
 [u0097 | 00:06:09.180-00:06:11.599 | DM] do 3 things at once.
-[u0098 | 00:06:12.620-00:06:16.429 | DM] Rizwind teleported to deal with the Rizwind clone
+[u0098 | 00:06:12.620-00:06:16.429 | DM] Riswynn teleported to deal with the Riswynn clone
 [u0099 | 00:06:16.560-00:06:17.939 | DM] with the dwarfs.
-[u0100 | 00:06:19.850-00:06:21.780 | DM] So Rizwind's gone. But Keith, just
+[u0100 | 00:06:19.850-00:06:21.780 | DM] So Riswynn's gone. But Kate, just
 [u0101 | 00:06:21.970-00:06:24.044 | DM] sitting in for a few minutes,
 [u0102 | 00:06:25.250-00:06:27.370 | DM] And rather than split the party.
 [u0103 | 00:06:27.890-00:06:29.179 | DM] you created
@@ -112,7 +112,7 @@
 [u0112 | 00:06:48.810-00:06:50.080 | DM] So
 [u0113 | 00:06:50.440-00:06:52.029 | DM] as we begin.
 [u0114 | 00:06:52.880-00:06:58.309 | DM] you've got maybe 50 h of travel to go to the place where Kenzo sensed the jade.
-[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of Tharn Todor and help deal with the Rizwind Doppelganger making trouble there.
+[u0115 | 00:06:58.440-00:07:07.080 | DM] Riswynn is gone. Having teleported to join the dwarves of Tharn Todor and help deal with the Riswynn Doppelganger making trouble there.
 [u0116 | 00:07:08.210-00:07:10.190 | DM] and Delwath is
 [u0117 | 00:07:10.250-00:07:12.589 | DM] now taking out his
 [u0118 | 00:07:12.830-00:07:14.840 | DM] scrying focus, his
@@ -121,26 +121,26 @@
 [u0121 | 00:07:24.840-00:07:30.609 | DM] to find out what happened in the battle.
 [u0122 | 00:07:32.410-00:07:33.750 | DM] Standing around.
 [u0123 | 00:07:33.750-00:07:34.670 | Seeker] Your bets.
-[u0124 | 00:07:35.060-00:07:39.038 | DM] Yeah, last chance for your bet. Standing around Vindersharna.
-[u0125 | 00:07:42.820-00:07:47.566 | DM] Faldrick is flying now, and now having been
+[u0124 | 00:07:35.060-00:07:39.038 | DM] Yeah, last chance for your bet. Standing around Vindristjarna.
+[u0125 | 00:07:42.820-00:07:47.566 | DM] Faldrak is flying now, and now having been
 [u0126 | 00:07:48.210-00:07:55.280 | DM] promoted to some long, meaningless title that I don't remember last session
 [u0127 | 00:07:56.020-00:07:57.039 | DM] by Seeker.
 [u0128 | 00:07:57.440-00:08:00.070 | Seeker] Assistant to the Regional Deputy Captain.
-[u0129 | 00:08:03.950-00:08:04.740 | DM] I've been
+[u0129 | 00:08:03.950-00:08:04.740 | DM] And then
 [u0130 | 00:08:09.730-00:08:11.420 | DM] the rest of the crew
 [u0131 | 00:08:12.532-00:08:19.337 | DM] in various states of unease and nervousness.
 [u0132 | 00:08:21.080-00:08:22.540 | DM] The 2
 [u0133 | 00:08:23.156-00:08:28.629 | DM] Igol, the Orc and Yota, the Denocai, who you found among the
 [u0134 | 00:08:28.940-00:08:31.590 | DM] Vargaldi, the people of the North.
 [u0135 | 00:08:31.850-00:08:38.029 | DM] are looking pale and resting underneath the shade of the tree.
-[u0136 | 00:08:39.080-00:08:42.644 | DM] after being returned from the dead by Rizwind
+[u0136 | 00:08:39.080-00:08:42.644 | DM] after being returned from the dead by Riswynn
 [u0137 | 00:08:43.140-00:08:44.749 | DM] Agnera, the elf
 [u0138 | 00:08:45.980-00:08:48.120 | DM] staying near the 2 of them
 [u0139 | 00:08:49.057-00:08:51.860 | DM] tending the tree and bringing water.
-[u0140 | 00:08:54.370-00:09:01.339 | DM] Amel is pacing with nervous energy, wearing his new helm of telepathy that you gifted him
+[u0140 | 00:08:54.370-00:09:01.339 | DM] Amil is pacing with nervous energy, wearing his new helm of telepathy that you gifted him
 [u0141 | 00:09:03.700-00:09:10.710 | DM] waiting, curious, looking over at, Delwath every now and then trying to see what might have happened.
-[u0142 | 00:09:13.890-00:09:16.450 | DM] Katherine, I think, went with Rizwind
-[u0143 | 00:09:20.630-00:09:25.449 | DM] and the halflings. Milo, Thistlefoot, Tilly Breinhardt and their crew
+[u0142 | 00:09:13.890-00:09:16.450 | DM] Kethra, I think, went with Riswynn
+[u0143 | 00:09:20.630-00:09:25.449 | DM] and the halflings. Milo, Thistlefoot, Tilly Brineheart and their crew
 [u0144 | 00:09:26.520-00:09:29.190 | DM] currently feeling a bit cooped up in this.
 [u0145 | 00:09:29.490-00:09:30.350 | DM] Yeah.
 [u0146 | 00:09:32.470-00:09:34.069 | DM] non-ship
@@ -199,11 +199,11 @@
 [u0199 | 00:12:45.100-00:12:46.719 | Kenzo] from the jade forest.
 [u0200 | 00:12:50.090-00:12:55.740 | DM] It's now about 2 days since you returned. So you got back may 12th
 [u0201 | 00:12:57.059-00:13:02.150 | DM] and then it's been 2 days since then that you've been traveling across the desert.
-[u0202 | 00:13:06.150-00:13:11.760 | Kenzo] Kenzo, since he's been back, has been spending a lot of time training Amel
+[u0202 | 00:13:06.150-00:13:11.760 | Kenzo] Kenzo, since he's been back, has been spending a lot of time training Amil
 [u0203 | 00:13:12.100-00:13:18.130 | Kenzo] and and continues to do that. This telepathy helmet. Where did that come from? Again?
 [u0204 | 00:13:21.350-00:13:21.850 | Delwath] That.
-[u0205 | 00:13:21.850-00:13:22.880 | DM] Beruli.
-[u0206 | 00:13:22.880-00:13:24.459 | Delwath] Beruli had it. Yeah.
+[u0205 | 00:13:21.850-00:13:22.880 | DM] Buruli.
+[u0206 | 00:13:22.880-00:13:24.459 | Delwath] Buruli had it. Yeah.
 [u0207 | 00:13:25.220-00:13:25.650 | Seeker] Right.
 [u0208 | 00:13:25.650-00:13:27.070 | Kenzo] And and what does it do again.
 [u0209 | 00:13:31.960-00:13:33.010 | DM] it's
@@ -212,7 +212,7 @@
 [u0212 | 00:13:43.090-00:13:45.850 | DM] and you can send telepathic messages.
 [u0213 | 00:13:49.780-00:13:52.470 | DM] while you're using detect thoughts.
 [u0214 | 00:13:53.170-00:13:53.790 | Kenzo] Cool.
-[u0215 | 00:13:55.075-00:13:58.950 | Kenzo] Yeah, Kenzo continues training Amel. He's
+[u0215 | 00:13:55.075-00:13:58.950 | Kenzo] Yeah, Kenzo continues training Amil. He's
 [u0216 | 00:13:59.260-00:14:00.497 | Kenzo] he wants to
 [u0217 | 00:14:04.630-00:14:05.910 | Kenzo] improve his.
 [u0218 | 00:14:06.100-00:14:08.089 | Kenzo] His ability to
@@ -253,7 +253,7 @@
 [u0253 | 00:16:09.890-00:16:11.180 | DM] bow nocked
 [u0254 | 00:16:11.400-00:16:13.440 | DM] just about to loose an arrow
 [u0255 | 00:16:14.350-00:16:15.800 | DM] which flies
-[u0256 | 00:16:16.590-00:16:20.079 | DM] again striking Kenzo. But at the last minute Kenzo
+[u0256 | 00:16:16.590-00:16:20.079 | DM] again striking Kenzo. But at the last minute Kenzo's
 [u0257 | 00:16:20.240-00:16:23.250 | DM] arm flies up and he bats the arrow away.
 [u0258 | 00:16:23.420-00:16:24.400 | Seeker] Yes.
 [u0259 | 00:16:24.400-00:16:26.089 | DM] But as he does, the
@@ -285,7 +285,7 @@
 [u0285 | 00:17:49.920-00:17:51.620 | DM] again, Kenzo
 [u0286 | 00:17:52.060-00:17:58.780 | DM] knocking the arrow, not quite, just deflecting it enough, so it just barely scrapes past him.
 [u0287 | 00:17:59.550-00:18:01.460 | DM] and then Kenzo looks around, and he
-[u0288 | 00:18:01.800-00:18:05.029 | DM] no seems to notice that Wellby has retreated
+[u0288 | 00:18:01.800-00:18:05.029 | DM] now seems to notice that Wellby has retreated
 [u0289 | 00:18:05.220-00:18:08.280 | DM] to within about 10 feet of the edge of the
 [u0290 | 00:18:08.750-00:18:09.650 | DM] deck.
 [u0291 | 00:18:10.010-00:18:12.670 | DM] and suddenly you see this glowing
@@ -402,7 +402,7 @@
 [u0402 | 00:24:56.260-00:25:00.249 | DM] the existing one disintegrates back into snow.
 [u0403 | 00:25:00.250-00:25:01.050 | Seeker] Right.
 [u0404 | 00:25:05.840-00:25:07.580 | Kenzo] And how hard is it to make another one
-[u0405 | 00:25:08.420-00:25:09.070 | Kenzo] security.
+[u0405 | 00:25:08.420-00:25:09.070 | Kenzo] Seeker.
 [u0406 | 00:25:09.070-00:25:12.449 | DM] 100 gp. Worth of rubies and.
 [u0407 | 00:25:12.750-00:25:13.140 | Seeker] 12, or.
 [u0408 | 00:25:13.140-00:25:16.640 | DM] 12 h. Yeah. Casting a 7th level spell.
@@ -457,7 +457,7 @@
 [u0457 | 00:27:53.090-00:28:00.619 | Kenzo] That's not horrible, because if he gets it he's north of Chardon, and then we've got a way to communicate with them, and then he can like, do shit for us remotely.
 [u0458 | 00:28:01.090-00:28:02.560 | Seeker] Alright, that's your job.
 [u0459 | 00:28:02.760-00:28:04.039 | Kenzo] What else? What else?
-[u0460 | 00:28:04.660-00:28:08.310 | Wellby] Was there something? Was there something in Eloria we were looking for or wanted?
+[u0460 | 00:28:04.660-00:28:08.310 | Wellby] Was there something? Was there something in Illoria we were looking for or wanted?
 [u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the Nevos Sea?
 [u0462 | 00:28:11.440-00:28:12.770 | Seeker] Didn't we think the cloak was there?
 [u0463 | 00:28:12.770-00:28:13.820 | Delwath] Thought at 1 point.
@@ -495,7 +495,7 @@
 [u0495 | 00:29:36.910-00:29:37.540 | Wellby] For us.
 [u0496 | 00:29:37.880-00:29:39.740 | Delwath] Oh, yeah, that's great. Yeah.
 [u0497 | 00:29:40.180-00:29:40.690 | Kenzo] I'll see that.
-[u0498 | 00:29:41.440-00:29:44.790 | DM] Basically send them to Darba to convince Carnos that.
+[u0498 | 00:29:41.440-00:29:44.790 | DM] Basically send them to Darba to convince Karnas that.
 [u0499 | 00:29:45.700-00:29:46.510 | Kenzo] There are clones.
 [u0500 | 00:29:46.510-00:29:50.070 | DM] Are clones of you running around doing bad things.
 [u0501 | 00:29:50.200-00:29:50.620 | Wellby] Yes.
@@ -522,7 +522,7 @@
 [u0522 | 00:30:31.892-00:30:33.140 | Kenzo] I like this guy.
 [u0523 | 00:30:34.520-00:30:35.660 | Kenzo] Well, I want to meet.
 [u0524 | 00:30:36.130-00:30:37.650 | Kenzo] Buy him a fake beer.
-[u0525 | 00:30:39.310-00:30:42.919 | Seeker] Totally a simulated beer. I'm an ice cream.
+[u0525 | 00:30:39.310-00:30:42.919 | Seeker] Totally a simulated beer. And an ice cream.
 [u0526 | 00:30:44.556-00:30:46.339 | Seeker] Kenzo wins big in the
 [u0527 | 00:30:46.860-00:30:49.190 | Seeker] games on aboard the ship.
 [u0528 | 00:30:49.300-00:30:50.280 | Seeker] Oh, yeah.
@@ -550,10 +550,10 @@
 [u0550 | 00:32:06.200-00:32:08.689 | DM] You know a few people you met in town.
 [u0551 | 00:32:08.870-00:32:13.890 | Kenzo] Yeah, he should go directly to like the halfling inn and like, Tell everybody there that.
 [u0552 | 00:32:14.070-00:32:15.320 | Kenzo] hey? I'm a clone
-[u0553 | 00:32:15.400-00:32:19.410 | Kenzo] like, Hey, it's me, Kenzo. I'm a clone. I want to talk to Carnos.
+[u0553 | 00:32:15.400-00:32:19.410 | Kenzo] like, Hey, it's me, Kenzo. I'm a clone. I want to talk to Karnas.
 [u0554 | 00:32:22.100-00:32:34.270 | DM] Yeah, Ken Kenzo has. You would have enough connections to at least have a way to start given that you had cause. Clone Kenzo has all real Kenzo's memories. So.
 [u0555 | 00:32:35.450-00:32:38.390 | Kenzo] Perfect. And then and then I'm
-[u0556 | 00:32:39.160-00:32:47.209 | Kenzo] what was it? Yeah. And then like, so if if he somehow doesn't get to Carnos, or whatever, at least like word will have spread, and somebody that we know can like tell us what happened.
+[u0556 | 00:32:39.160-00:32:47.209 | Kenzo] what was it? Yeah. And then like, so if if he somehow doesn't get to Karnas, or whatever, at least like word will have spread, and somebody that we know can like tell us what happened.
 [u0557 | 00:32:47.830-00:32:48.450 | DM] Right.
 [u0558 | 00:32:49.860-00:32:50.490 | Kenzo] Great.
 [u0559 | 00:32:50.720-00:32:51.440 | Kenzo] brilliant.
@@ -684,7 +684,7 @@
 [u0684 | 00:40:55.890-00:40:56.610 | Delwath] Yeah.
 [u0685 | 00:40:56.790-00:40:58.320 | DM] 34 more hours.
 [u0686 | 00:40:58.320-00:41:02.420 | Wellby] We can always teleport back on and still have a nice long rest afterwards. Right.
-[u0687 | 00:41:02.420-00:41:08.440 | Delwath] I was just gonna actually say we could all just drop down, and then you could teleport us back to Vindersharna.
+[u0687 | 00:41:02.420-00:41:08.440 | Delwath] I was just gonna actually say we could all just drop down, and then you could teleport us back to Vindristjarna.
 [u0688 | 00:41:09.630-00:41:14.290 | Seeker] What if I what if I just cast clairvoyance first? And we'll just see if there's anything inside the tower.
 [u0689 | 00:41:14.900-00:41:16.679 | Delwath] Yeah, that's a good plan.
 [u0690 | 00:41:17.350-00:41:19.070 | Wellby] You want to test it on our way down.
@@ -824,17 +824,17 @@
 [u0824 | 00:48:26.020-00:48:28.060 | DM] You cannot use the Rainbow Bridge.
 [u0825 | 00:48:29.820-00:48:30.490 | Delwath] So if we
 [u0826 | 00:48:30.750-00:48:34.860 | Delwath] fly down here. Oh, no! But as long as Seeker doesn't use his 7th level spell
-[u0827 | 00:48:35.070-00:48:37.310 | Delwath] we can teleport back to Vindersharna.
+[u0827 | 00:48:35.070-00:48:37.310 | Delwath] we can teleport back to Vindristjarna.
 [u0828 | 00:48:37.640-00:48:38.340 | Delwath] We want.
 [u0829 | 00:48:40.510-00:48:41.630 | Seeker] That's true.
 [u0830 | 00:48:48.190-00:48:53.499 | Seeker] What does the probability table look like for that? That should be an easy one.
 [u0831 | 00:48:53.680-00:48:57.159 | DM] That should be pretty easy, because it's although there's a little like
-[u0832 | 00:49:02.520-00:49:06.610 | DM] Yes, Vindersharna is a is a very familiar location.
+[u0832 | 00:49:02.520-00:49:06.610 | DM] Yes, Vindristjarna is a is a very familiar location.
 [u0833 | 00:49:06.720-00:49:10.080 | DM] The only slight quirk is because it's moving.
 [u0834 | 00:49:10.840-00:49:11.610 | Seeker] There might be.
 [u0835 | 00:49:11.610-00:49:14.299 | DM] Some potential complications.
 [u0836 | 00:49:15.050-00:49:17.210 | Seeker] What about the associated object thing?
-[u0837 | 00:49:19.060-00:49:21.729 | DM] Yeah, you could bring a {{vendor service}} down.
+[u0837 | 00:49:19.060-00:49:21.729 | DM] Yeah, you could bring a piece of Vindristjarna down.
 [u0838 | 00:49:22.470-00:49:25.539 | Seeker] Yeah. Yeah. And then that locks it in.
 [u0839 | 00:49:26.070-00:49:26.650 | DM] Right.
 [u0840 | 00:49:30.830-00:49:32.519 | Seeker] So how do we get down? We just.
@@ -851,7 +851,7 @@
 [u0851 | 00:50:01.630-00:50:02.100 | Delwath] I can talk.
 [u0852 | 00:50:02.100-00:50:02.970 | Seeker] I'll drink.
 [u0853 | 00:50:02.970-00:50:03.410 | Delwath] So.
-[u0854 | 00:50:03.410-00:50:05.320 | Seeker] Bring. Bring Faldrick on deck.
+[u0854 | 00:50:03.410-00:50:05.320 | Seeker] Bring. Bring Faldrak on deck.
 [u0855 | 00:50:07.600-00:50:09.280 | Seeker] Ask him to just
 [u0856 | 00:50:09.600-00:50:10.610 | Seeker] hold position.
 [u0857 | 00:50:11.400-00:50:12.660 | Delwath] No keep going.
@@ -861,7 +861,7 @@
 [u0861 | 00:50:18.140-00:50:20.589 | Delwath] I think he keeps going, and we just teleport back.
 [u0862 | 00:50:21.190-00:50:22.160 | Seeker] Fair, fair.
 [u0863 | 00:50:23.360-00:50:24.059 | Wellby] Let's do it.
-[u0864 | 00:50:25.610-00:50:27.549 | Seeker] Okay. Faldrick just keep flying.
+[u0864 | 00:50:25.610-00:50:27.549 | Seeker] Okay. Faldrak just keep flying.
 [u0865 | 00:50:28.640-00:50:34.299 | Delwath] I mean, it might be worth dipping down a little bit lower, so that we are a little close like he may as well
 [u0866 | 00:50:34.330-00:50:38.560 | Delwath] bring us within a thousand feet, so that when we jump off we have less to fly.
 [u0867 | 00:50:39.010-00:50:42.510 | Seeker] Yeah, and then just take it back up to cruising altitude and continue.
@@ -893,7 +893,7 @@
 [u0893 | 00:51:36.070-00:51:37.690 | Delwath] Then come back.
 [u0894 | 00:51:38.710-00:51:43.270 | Delwath] recover our bones, and then flee as far away from Apollyon as he can.
 [u0895 | 00:51:49.930-00:51:51.250 | DM] kind of nods.
-[u0896 | 00:51:52.510-00:51:55.459 | DM] I I guess, if necessary, I'll run to Rizwind.
+[u0896 | 00:51:52.510-00:51:55.459 | DM] I I guess, if necessary, I'll run to Riswynn.
 [u0897 | 00:51:57.640-00:51:58.590 | Delwath] Probably smart.
 [u0898 | 00:52:00.040-00:52:02.649 | Delwath] But maybe try and go to another plane, too.
 [u0899 | 00:52:06.920-00:52:07.940 | DM] Okay.
@@ -903,19 +903,19 @@
 [u0903 | 00:52:23.360-00:52:27.300 | Delwath] Go find Seeker's Seeker's brother in the Plane of Fire.
 [u0904 | 00:52:28.210-00:52:28.890 | DM] I don't
 [u0905 | 00:52:29.690-00:52:31.430 | DM] think I could do that.
-[u0906 | 00:52:32.380-00:52:33.499 | Delwath] Rizwind will help you.
+[u0906 | 00:52:32.380-00:52:33.499 | Delwath] Riswynn will help you.
 [u0907 | 00:52:33.910-00:52:34.680 | DM] Okay.
-[u0908 | 00:52:40.540-00:52:42.411 | Kenzo] Added to Rizwind's list.
-[u0909 | 00:52:43.610-00:52:46.209 | DM] Rizwind will just resurrect you all.
+[u0908 | 00:52:40.540-00:52:42.411 | Kenzo] Added to Riswynn's list.
+[u0909 | 00:52:43.610-00:52:46.209 | DM] Riswynn will just resurrect you all.
 [u0910 | 00:52:47.190-00:52:51.640 | Seeker] He's really competent, just always gets things done for us.
 [u0911 | 00:52:57.405-00:53:00.490 | Delwath] So we're jumping off the thing and flying.
 [u0912 | 00:53:00.910-00:53:02.270 | DM] Okay? So you
-[u0913 | 00:53:02.430-00:53:05.000 | DM] Faldrick drops you low enough so that it's like.
+[u0913 | 00:53:02.430-00:53:05.000 | DM] Faldrak drops you low enough so that it's like.
 [u0914 | 00:53:05.280-00:53:06.680 | DM] you know, of
 [u0915 | 00:53:06.920-00:53:10.290 | DM] 5 min flight to the top of the tower.
 [u0916 | 00:53:11.650-00:53:15.940 | Delwath] I'm tempted to just fall for a while and then cast fly like when we're you know.
 [u0917 | 00:53:16.460-00:53:19.060 | DM] Okay, that's fair enough, too.
-[u0918 | 00:53:19.950-00:53:20.900 | DM] dog
+[u0918 | 00:53:19.950-00:53:20.900 | DM] down
 [u0919 | 00:53:21.220-00:53:22.380 | DM] the tower.
 [u0920 | 00:53:22.390-00:53:24.779 | DM] So as you fly down to the tower.
 [u0921 | 00:53:25.660-00:53:27.190 | DM] let's get some.
@@ -1101,9 +1101,9 @@
 [u1101 | 01:04:39.970-01:04:43.409 | Delwath] And there's no head right just an arm sticking up so it's like.
 [u1102 | 01:04:43.410-01:04:44.799 | DM] Only the arm is sticking out.
 [u1103 | 01:04:44.800-01:04:48.489 | Delwath] So it like. Looks like it's reaching above its head like banging.
-[u1104 | 01:04:48.490-01:04:49.130 | DM] {{Forest, line}}.
+[u1104 | 01:04:48.490-01:04:49.130 | DM] Or it's lying
 [u1105 | 01:04:49.130-01:04:49.520 | Seeker] Past.
-[u1106 | 01:04:49.520-01:04:50.270 | DM] Side.
+[u1106 | 01:04:49.520-01:04:50.270 | DM] on its side.
 [u1107 | 01:04:50.640-01:04:52.070 | Seeker] Is it possible? It's
 [u1108 | 01:04:52.810-01:04:53.380 | Seeker] a body.
 [u1109 | 01:04:53.770-01:04:55.690 | Seeker] Not not got all the other parts.
@@ -1124,7 +1124,7 @@
 [u1124 | 01:05:48.850-01:05:49.480 | DM] Yeah.
 [u1125 | 01:05:49.850-01:05:51.759 | DM] it's probably it's it's
 [u1126 | 01:05:52.530-01:05:57.810 | DM] just the way it looks. It's more likely on its side than it is like standing up
-[u1127 | 01:05:59.710-01:06:03.710 | DM] right based on the size of it stood up, its head would come almost to
+[u1127 | 01:05:59.710-01:06:03.710 | DM] right based on the size if it stood up, its head would come almost to
 [u1128 | 01:06:03.720-01:06:05.080 | DM] where you are.
 [u1129 | 01:06:06.088-01:06:12.300 | Delwath] Because there's not enough. The tower doesn't. I mean, I just was envisioning. We don't know. The tower could be a hundred feet down.
 [u1130 | 01:06:12.300-01:06:15.369 | DM] Could keep going down a hundred more feet easily. Yes.
@@ -1233,7 +1233,7 @@
 [u1233 | 01:11:57.100-01:11:59.009 | Delwath] Are the lenses themselves magical.
 [u1234 | 01:11:59.010-01:11:59.500 | DM] Yes.
 [u1235 | 01:11:59.500-01:12:06.629 | Seeker] I think so. Yeah, all right. Well, I'll I'll gather them up carefully and make a mental note to have
-[u1236 | 01:12:06.710-01:12:08.670 | Seeker] Faldrick look at them with me.
+[u1236 | 01:12:06.710-01:12:08.670 | Seeker] Faldrak look at them with me.
 [u1237 | 01:12:10.320-01:12:13.709 | Seeker] he could probably fabricate whatever housing is needed.
 [u1238 | 01:12:23.430-01:12:26.140 | Seeker] so I didn't decide what to do
 [u1239 | 01:12:26.440-01:12:27.650 | Seeker] about this creature.
@@ -1326,8 +1326,8 @@
 [u1326 | 01:17:46.200-01:17:47.729 | DM] of the Tower itself.
 [u1327 | 01:17:49.710-01:17:51.270 | DM] you can feel
 [u1328 | 01:17:51.600-01:17:52.900 | DM] the pounding
-[u1329 | 01:17:53.690-01:17:54.530 | DM] {{of doubt}}.
-[u1330 | 01:17:54.990-01:17:56.479 | DM] {{part of the fang}}
+[u1329 | 01:17:53.690-01:17:54.530 | DM] of the
+[u1330 | 01:17:54.990-01:17:56.479 | DM] heart of the fang
 [u1331 | 01:18:00.520-01:18:02.429 | DM] an irregular beating.
 [u1332 | 01:18:09.280-01:18:10.989 | DM] but nobody dared
 [u1333 | 01:18:12.430-01:18:17.409 | DM] enter, or at least there are no stories of anybody who entered the tower and returned.
@@ -1567,7 +1567,7 @@
 [u1567 | 01:33:29.700-01:33:31.710 | Delwath] I mean, I can Banish.
 [u1568 | 01:33:31.820-01:33:32.510 | Delwath] Oh.
 [u1569 | 01:33:32.990-01:33:37.549 | Delwath] massive Downside, except that I have to, I think, probably get in range of its creepy eye.
-[u1570 | 01:33:38.250-01:33:38.969 | Delwath] How many {{bands}}.
+[u1570 | 01:33:38.250-01:33:38.969 | Delwath] How many banishes.
 [u1571 | 01:33:38.970-01:33:39.770 | Kenzo] You get
 [u1572 | 01:33:39.960-01:33:40.650 | Kenzo] 2.
 [u1573 | 01:33:42.000-01:33:44.589 | Kenzo] So what if it has 2 legendary resistances?
@@ -1755,7 +1755,7 @@
 [u1755 | 01:43:59.400-01:44:02.540 | Seeker] it's either trap it in the mirror or nothing. Probably.
 [u1756 | 01:44:04.020-01:44:04.350 | Delwath] Be bro.
 [u1757 | 01:44:04.350-01:44:04.890 | Seeker] Don't have it.
-[u1758 | 01:44:04.890-01:44:08.600 | Delwath] Any way of like mass. I guess Rizwind has all those spells not.
+[u1758 | 01:44:04.890-01:44:08.600 | Delwath] Any way of like mass. I guess Riswynn has all those spells not.
 [u1759 | 01:44:08.600-01:44:14.439 | DM] I mean mold earth can shift a 5 foot cube of sand, but it would take a fair bit of engineering to.
 [u1760 | 01:44:14.610-01:44:17.310 | DM] because Sand's pouring in the windows right like you're
 [u1761 | 01:44:17.440-01:44:20.160 | DM] you're like 20 feet below the level of
@@ -1854,7 +1854,7 @@
 [u1854 | 01:49:43.750-01:49:46.260 | Delwath] And I'm also so okay, so I'm going to cast sanctuary
 [u1855 | 01:49:46.690-01:49:47.700 | Delwath] on me.
 [u1856 | 01:49:48.210-01:49:49.070 | Delwath] Right.
-[u1857 | 01:49:49.550-01:49:50.270 | DM] Our guy.
+[u1857 | 01:49:49.550-01:49:50.270 | DM] All right.
 [u1858 | 01:49:50.890-01:49:52.220 | Delwath] Then I'll
 [u1859 | 01:49:52.720-01:49:54.650 | Delwath] sneak. I'll try and
 [u1860 | 01:49:55.040-01:49:58.850 | Delwath] position myself to get off the spell, and then I'll retreat as soon as I cast the spell.
@@ -1908,7 +1908,7 @@
 [u1908 | 01:52:53.510-01:52:59.029 | DM] I mean, it seems like it's taking some damage. It's immune to exhaustion.
 [u1909 | 01:52:59.200-01:53:01.660 | DM] It's hard to judge how much damage is taken.
 [u1910 | 01:53:01.660-01:53:02.290 | Delwath] It doesn't.
-[u1911 | 01:53:02.290-01:53:04.689 | DM] Thrashing around does not {{count that}}.
+[u1911 | 01:53:02.290-01:53:04.689 | DM] Thrashing around does not count that.
 [u1912 | 01:53:08.180-01:53:08.880 | Seeker] And.
 [u1913 | 01:53:10.220-01:53:11.849 | Wellby] Do you have another spell? Slot.
 [u1914 | 01:53:12.100-01:53:13.890 | Delwath] Yeah, I could. I mean.
@@ -2331,7 +2331,7 @@
 [u2331 | 02:16:05.440-02:16:09.179 | Seeker] so probably can't. There's probably not a way to open the door.
 [u2332 | 02:16:14.960-02:16:15.990 | Seeker] and I can't.
 [u2333 | 02:16:16.350-02:16:19.450 | Seeker] Well, if I release Polymorph right now.
-[u2334 | 02:16:21.680-02:16:22.989 | Seeker] {{You're on down there}}.
+[u2334 | 02:16:21.680-02:16:22.989 | Seeker] You're on down there.
 [u2335 | 02:16:22.990-02:16:24.680 | DM] Surrounded by
 [u2336 | 02:16:25.030-02:16:26.010 | DM] sand.
 [u2337 | 02:16:26.360-02:16:28.250 | Seeker] And then I could dimension door
@@ -2365,7 +2365,7 @@
 [u2365 | 02:17:54.119-02:17:55.689 | DM] what looks like
 [u2366 | 02:17:55.759-02:17:57.689 | DM] racks and racks of
 [u2367 | 02:17:57.759-02:18:00.659 | DM] scrolls of various kinds. They look.
-[u2368 | 02:18:00.660-02:18:01.340 | Seeker] Gore.
+[u2368 | 02:18:00.660-02:18:01.340 | Seeker] Score.
 [u2369 | 02:18:02.820-02:18:09.641 | DM] I mean, they've been sitting here for a long time. It looks like one touch might disintegrate them.
 [u2370 | 02:18:10.070-02:18:11.370 | DM] On the
 [u2371 | 02:18:12.240-02:18:13.600 | DM] on the
@@ -2467,7 +2467,7 @@
 [u2467 | 02:23:51.400-02:23:54.763 | Delwath] I don't know what else at this point. What are we gonna do? We're not gonna run away.
 [u2468 | 02:23:55.220-02:23:58.249 | Wellby] No, the sunk cost is so high by this.
 [u2469 | 02:23:59.870-02:24:05.479 | DM] I mean, what difference does it make if Apollyon gets freed because you diddle around in the desert for weeks.
-[u2470 | 02:24:05.950-02:24:10.297 | Delwath] It's not wasting any time. Faldrick is driving for 24 h.
+[u2470 | 02:24:05.950-02:24:10.297 | Delwath] It's not wasting any time. Faldrak is driving for 24 h.
 [u2471 | 02:24:10.660-02:24:11.259 | Seeker] That's right.
 [u2472 | 02:24:11.260-02:24:12.440 | DM] Oh, that's true!
 [u2473 | 02:24:12.440-02:24:14.500 | Seeker] We're going to hop back on the ship. We're just gonna.
@@ -2479,7 +2479,7 @@
 [u2479 | 02:24:25.330-02:24:26.060 | DM] Right.
 [u2480 | 02:24:26.060-02:24:31.789 | Delwath] We can long rest. I mean, we can't long rest in the middle of the day, because we just long rested, but we can long rest
 [u2481 | 02:24:32.190-02:24:36.649 | Delwath] we can. We can long rest in the evening. Go kill this thing.
-[u2482 | 02:24:37.320-02:24:46.060 | Delwath] go teleport down in the early pre-dawn, and then teleport back just around to the point in time at which Faldrick would start to get worried.
+[u2482 | 02:24:37.320-02:24:46.060 | Delwath] go teleport down in the early pre-dawn, and then teleport back just around to the point in time at which Faldrak would start to get worried.
 [u2483 | 02:24:47.070-02:24:50.780 | Seeker] Amazing. All right. I I Dimension Door
 [u2484 | 02:24:50.950-02:24:52.170 | Seeker] back up
 [u2485 | 02:24:52.290-02:24:55.110 | Seeker] vertically, as Wellby suggests.
@@ -2614,7 +2614,7 @@
 [u2614 | 02:30:51.710-02:30:52.450 | Seeker] Hey?
 [u2615 | 02:30:56.880-02:30:57.600 | Seeker] Where? It's.
 [u2616 | 02:30:57.600-02:30:59.599 | Wellby] Go! Put put the mirror away again.
-[u2617 | 02:31:02.330-02:31:08.930 | Kenzo] Hey? So I like fall asleep for like half an hour. We do. We haven't. We haven't captured song yet. No, we killed it. We killed it.
+[u2617 | 02:31:02.330-02:31:08.930 | Kenzo] Hey? So I like fall asleep for like half an hour. We do. We haven't. We haven't captured something yet. No, we killed it. We killed it.
 [u2618 | 02:31:08.930-02:31:09.479 | Delwath] The big one.
 [u2619 | 02:31:09.480-02:31:13.310 | DM] Giant colossus was killed with a series of
 [u2620 | 02:31:14.880-02:31:17.049 | Delwath] Delwath just cast Sickening Radiance over and over.
@@ -2683,7 +2683,7 @@
 [u2683 | 02:33:55.450-02:33:56.290 | Seeker] We used it.
 [u2684 | 02:33:56.290-02:33:57.360 | Kenzo] Long rest, right, now.
 [u2685 | 02:33:57.640-02:33:58.910 | Delwath] Because
-[u2686 | 02:33:59.810-02:34:04.339 | Delwath] so the problem is, we don't want to waste 2 days, because then Faldrick will panic.
+[u2686 | 02:33:59.810-02:34:04.339 | Delwath] so the problem is, we don't want to waste 2 days, because then Faldrak will panic.
 [u2687 | 02:34:05.780-02:34:08.119 | Delwath] So if we long rest now.
 [u2688 | 02:34:08.120-02:34:14.839 | DM] Only has 1 7th level spell slot, so you can only teleport once per day. Right? So if you teleport into the room.
 [u2689 | 02:34:15.100-02:34:16.569 | Delwath] We can't then teleport out of it.
@@ -2955,7 +2955,7 @@
 [u2955 | 02:48:48.850-02:48:50.110 | DM] If you're within 5 feet.
 [u2956 | 02:48:50.110-02:48:51.310 | Kenzo] What do you think I read?
 [u2957 | 02:48:52.620-02:48:54.930 | DM] Seeker. Sorry how much damage was that
-[u2958 | 02:48:55.190-02:48:55.730 | DM] Schwarz.
+[u2958 | 02:48:55.190-02:48:55.730 | DM] Schwartz.
 [u2959 | 02:48:55.730-02:48:57.470 | Wellby] 1, 27.
 [u2960 | 02:48:58.140-02:48:58.830 | DM] Okay.
 [u2961 | 02:49:00.360-02:49:01.480 | DM] says.
@@ -3196,7 +3196,7 @@
 [u3196 | 03:00:58.730-03:01:02.400 | DM] lightly magical. This is like reminiscent of that, like.
 [u3197 | 03:01:03.053-03:01:06.509 | DM] you know, prepped for making a scroll.
 [u3198 | 03:01:06.850-03:01:07.280 | Delwath] Right.
-[u3199 | 03:01:07.280-03:01:10.670 | DM] That you got at the Bishma monastery a long time ago.
+[u3199 | 03:01:07.280-03:01:10.670 | DM] That you got at the Bhishma monastery a long time ago.
 [u3200 | 03:01:14.460-03:01:15.050 | Seeker] Cool.
 [u3201 | 03:01:16.082-03:01:18.010 | DM] Wellby warns you that
 [u3202 | 03:01:18.827-03:01:20.440 | DM] at least the
@@ -3241,7 +3241,7 @@
 [u3241 | 03:03:32.760-03:03:33.950 | Seeker] we better just
 [u3242 | 03:03:34.840-03:03:35.840 | Seeker] just yeah.
 [u3243 | 03:03:35.840-03:03:39.439 | Delwath] Try and read it, and let 3 quarters of them disintegrate.
-[u3244 | 03:03:41.050-03:03:46.960 | Delwath] I was wondering if Rizwind could like fix them all with mending, or some other kind of magic. If we came back
+[u3244 | 03:03:41.050-03:03:46.960 | Delwath] I was wondering if Riswynn could like fix them all with mending, or some other kind of magic. If we came back
 [u3245 | 03:03:47.030-03:03:48.410 | Delwath] later.
 [u3246 | 03:03:48.410-03:03:49.350 | Seeker] Yeah.
 [u3247 | 03:03:49.540-03:03:51.410 | Delwath] Like after we kill Apollyon.
@@ -3252,7 +3252,7 @@
 [u3252 | 03:04:06.590-03:04:08.160 | Kenzo] Yeah, because if it's just like.
 [u3253 | 03:04:08.160-03:04:09.930 | DM] Yeah, you can try and unroll one.
 [u3254 | 03:04:09.930-03:04:11.340 | Delwath] Yeah, I'll just try.
-[u3255 | 03:04:11.340-03:04:16.389 | Kenzo] Because, you know, if it's like Gollum, you know, recipe for like oatmeal.
+[u3255 | 03:04:11.340-03:04:16.389 | Kenzo] Because, you know, if it's like golem, you know, recipe for like oatmeal.
 [u3256 | 03:04:16.390-03:04:18.150 | Delwath] The one I took out with Mage Hand. I will
 [u3257 | 03:04:18.250-03:04:22.720 | Delwath] try to unroll it a little bit enough that I can at least see
 [u3258 | 03:04:23.350-03:04:24.050 | Delwath] the.
@@ -3361,13 +3361,13 @@
 [u3361 | 03:09:20.550-03:09:21.490 | Kenzo] yeah.
 [u3362 | 03:09:22.670-03:09:23.922 | Delwath] Okay, so let's
 [u3363 | 03:09:24.340-03:09:26.810 | DM] Stone chests, both of which are too heavy.
-[u3364 | 03:09:27.040-03:09:28.750 | DM] Brand new Week.
+[u3364 | 03:09:27.040-03:09:28.750 | DM] And you're weak.
 [u3365 | 03:09:28.750-03:09:30.050 | Delwath] We gotta open them.
 [u3366 | 03:09:30.370-03:09:31.670 | Kenzo] But but we're doing it after.
 [u3367 | 03:09:31.900-03:09:33.869 | Delwath] Wait, wait, wait, wait! Wait! Hold on!
 [u3368 | 03:09:34.360-03:09:41.140 | Delwath] Couldn't! Oh, he can't cast spells. Polymorph! Never mind, I was gonna say, oh, wait could Seeker polymorph, one of us.
 [u3369 | 03:09:41.220-03:09:43.920 | Delwath] into a super strong something.
-[u3370 | 03:09:44.260-03:09:51.829 | Delwath] and then pick up the chest. The super strong person would pick up the chest, and then we teleport back to the ship as the {{follow dwarf}}.
+[u3370 | 03:09:44.260-03:09:51.829 | Delwath] and then pick up the chest. The super strong person would pick up the chest, and then we teleport back to the ship as the polymorphed.
 [u3371 | 03:09:52.320-03:09:55.720 | Wellby] I am very good at opening chests and disarming chests. I.
 [u3372 | 03:09:55.720-03:09:58.000 | Delwath] Kenzo volunteered to take the blast.
 [u3373 | 03:09:58.100-03:10:00.809 | Delwath] That one will stay far away.
@@ -3496,7 +3496,7 @@
 [u3496 | 03:15:59.270-03:16:00.680 | DM] at 1d100.
 [u3497 | 03:16:01.090-03:16:01.639 | Kenzo] Oh, my God!
 [u3498 | 03:16:01.640-03:16:02.460 | Seeker] Oh, right!
-[u3499 | 03:16:02.460-03:16:07.229 | DM] Now you have a piece of Vindersharna, but Vindersharna has travelled quite a bit from
+[u3499 | 03:16:02.460-03:16:07.229 | DM] Now you have a piece of Vindristjarna, but Vindristjarna has travelled quite a bit from
 [u3500 | 03:16:07.250-03:16:08.430 | DM] where you
 [u3501 | 03:16:08.950-03:16:12.139 | DM] last, so this downgrades it from
 [u3502 | 03:16:14.170-03:16:17.160 | DM] associated object to very familiar.
@@ -3530,19 +3530,19 @@
 [u3530 | 03:17:18.150-03:17:18.850 | Kenzo] Good roll.
 [u3531 | 03:17:18.960-03:17:21.110 | Seeker] That is a 27.
 [u3532 | 03:17:21.110-03:17:22.040 | Kenzo] Yeah.
-[u3533 | 03:17:22.040-03:17:22.400 | Seeker] Police.
+[u3533 | 03:17:22.040-03:17:22.400 | Seeker] Please.
 [u3534 | 03:17:22.400-03:17:24.639 | DM] Sweet, but you succeed.
 [u3535 | 03:17:24.860-03:17:25.890 | Kenzo] For Adele.
 [u3536 | 03:17:26.940-03:17:29.639 | Wellby] No, not never. Yeah, yeah.
 [u3537 | 03:17:30.890-03:17:31.780 | Seeker] Amazing.
-[u3538 | 03:17:34.080-03:17:37.609 | DM] And you appear on the surface of Vindersharna
+[u3538 | 03:17:34.080-03:17:37.609 | DM] And you appear on the surface of Vindristjarna
 [u3539 | 03:17:39.160-03:17:39.810 | DM] above a.
 [u3540 | 03:17:39.810-03:17:40.480 | Seeker] Longer!
 [u3541 | 03:17:41.740-03:17:42.260 | Seeker] Oh!
 [u3542 | 03:17:42.260-03:17:46.079 | DM] Is like pacing back and forth, having an argument with
 [u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess Kethra is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back
 [u3544 | 03:17:57.710-03:17:58.390 | DM] to
-[u3545 | 03:17:59.397-03:18:01.909 | DM] to Amel like.
+[u3545 | 03:17:59.397-03:18:01.909 | DM] to Amil like.
 [u3546 | 03:18:02.110-03:18:03.439 | DM] are you sure?
 [u3547 | 03:18:03.850-03:18:06.859 | DM] And then you appear, and he's like I told you.
 [u3548 | 03:18:07.390-03:18:13.399 | DM] No problem, hey? We're flying over a jungle now. Was that supposed to happen.
@@ -3558,7 +3558,7 @@
 [u3558 | 03:18:41.350-03:18:42.059 | DM] Yeah, what did.
 [u3559 | 03:18:42.060-03:18:42.960 | Delwath] we find.
 [u3560 | 03:18:43.260-03:18:44.620 | Delwath] Can you identify it?
-[u3561 | 03:18:45.580-03:18:51.919 | Seeker] Here. Look, Faldrick, we got we found these lenses. Can you figure out how to assemble them into a
+[u3561 | 03:18:45.580-03:18:51.919 | Seeker] Here. Look, Faldrak, we got we found these lenses. Can you figure out how to assemble them into a
 [u3562 | 03:18:52.120-03:18:53.590 | Seeker] some kind of useful thing?
 [u3563 | 03:18:53.590-03:18:54.200 | DM] See
 [u3564 | 03:18:55.110-03:18:56.100 | DM] like holds it.
@@ -3572,7 +3572,7 @@
 [u3572 | 03:19:22.860-03:19:25.009 | DM] dig back through my notes. You know.
 [u3573 | 03:19:26.080-03:19:27.390 | DM] There was a
 [u3574 | 03:19:28.540-03:19:30.639 | DM] telescope maker in
-[u3575 | 03:19:32.120-03:19:33.300 | DM] Sambara
+[u3575 | 03:19:32.120-03:19:33.300 | DM] Sembara
 [u3576 | 03:19:34.340-03:19:36.431 | DM] dwarf I had heard of
 [u3577 | 03:19:37.370-03:19:42.110 | DM] they were. They would be perfect for this. I I got them. Maybe I can write to them and
 [u3578 | 03:19:42.910-03:19:46.890 | DM] ask about their designs. If we could figure out just how to set this up right.
@@ -3725,7 +3725,7 @@
 [u3725 | 03:29:04.980-03:29:06.799 | Delwath] especially for going into like
 [u3726 | 03:29:07.280-03:29:09.980 | Delwath] an extended period where we're not likely to get rests.
 [u3727 | 03:29:10.420-03:29:11.839 | Kenzo] Oh, I see. Yeah, right?
-[u3728 | 03:29:11.840-03:29:14.819 | Delwath] Like, especially Seeker. And Rizwind
+[u3728 | 03:29:11.840-03:29:14.819 | Delwath] Like, especially Seeker. And Riswynn
 [u3729 | 03:29:14.860-03:29:17.859 | Delwath] scribing, yeah, stuff could be quite useful.
 [u3730 | 03:29:18.210-03:29:19.110 | Delwath] Yeah. Backup.
 [u3731 | 03:29:19.110-03:29:20.020 | Seeker] Something else right?
@@ -3745,7 +3745,7 @@
 [u3745 | 03:29:56.850-03:29:57.850 | DM] Around, with that.
 [u3746 | 03:29:58.670-03:30:00.230 | Delwath] Like a a proper telescope.
 [u3747 | 03:30:00.230-03:30:04.140 | DM] Proper telescope that that's, you know, 10 x magnification or something.
-[u3748 | 03:30:04.140-03:30:09.749 | Delwath] Which we want to mount, and let us investigate the ground from Vindersharna quite carefully.
+[u3748 | 03:30:04.140-03:30:09.749 | Delwath] Which we want to mount, and let us investigate the ground from Vindristjarna quite carefully.
 [u3749 | 03:30:09.970-03:30:11.300 | Seeker] Yeah, yeah.
 [u3750 | 03:30:11.720-03:30:15.020 | Kenzo] Tim, did you expect us to spend this entire session doing that? One thing.
 [u3751 | 03:30:15.680-03:30:16.820 | DM] Nope.
@@ -3753,7 +3753,7 @@
 [u3753 | 03:30:17.960-03:30:20.169 | Delwath] You expect us to do? I'm actually really curious.
 [u3754 | 03:30:20.170-03:30:21.460 | DM] Honestly.
 [u3755 | 03:30:21.660-03:30:26.859 | DM] I 100% improvised that entire thing. I just had a random note in my
-[u3756 | 03:30:27.120-03:30:28.390 | DM] invite
+[u3756 | 03:30:27.120-03:30:28.390 | DM] in my
 [u3757 | 03:30:28.500-03:30:32.239 | DM] travel description. Oh, there's a white marble tower below you.
 [u3758 | 03:30:32.610-03:30:33.543 | Wellby] That's amazing.
 [u3759 | 03:30:35.810-03:30:44.060 | Seeker] So if we had instead investigated that the the weird little lake, with tiny creatures going up to it, we would have had a different, totally improvised adventure.
@@ -3764,7 +3764,7 @@
 [u3764 | 03:31:00.100-03:31:01.639 | Kenzo] And now we do have a telescope.
 [u3765 | 03:31:01.640-03:31:03.190 | DM] Well, you gotta make
 [u3766 | 03:31:03.889-03:31:08.320 | DM] but yes, you'll eventually have a telescope now before we wrap up
-[u3767 | 03:31:09.580-03:31:14.539 | DM] over the next. The course of the next few hours you fly on Vindersharna
+[u3767 | 03:31:09.580-03:31:14.539 | DM] over the next. The course of the next few hours you fly on Vindristjarna
 [u3768 | 03:31:16.790-03:31:18.230 | DM] until you reach
 [u3769 | 03:31:18.540-03:31:20.409 | DM] what looks like the
 [u3770 | 03:31:23.220-03:31:25.130 | DM] the so
@@ -3835,7 +3835,7 @@
 [u3835 | 03:35:34.080-03:35:34.720 | Seeker] That's.
 [u3836 | 03:35:34.720-03:35:39.630 | Delwath] But that's where we're going to end up at some point. We have to end up there at some point right like. Yes.
 [u3837 | 03:35:40.460-03:35:41.440 | Delwath] so.
-[u3838 | 03:35:42.570-03:35:46.569 | Kenzo] Isn't the perfectly circular place where Apollyon's and where's Dimitriar?
+[u3838 | 03:35:42.570-03:35:46.569 | Kenzo] Isn't the perfectly circular place where Apollyon's and where's Dimitaur?
 [u3839 | 03:35:47.610-03:35:49.979 | Delwath] He's probably guarding the last piece of jade.
 [u3840 | 03:35:56.030-03:36:02.670 | Delwath] My gut feeling says the cave is a dead end, and we should head into the sea of storms and
 [u3841 | 03:36:04.260-03:36:05.859 | Delwath] try and find our way.
@@ -3875,7 +3875,7 @@
 [u3875 | 03:38:05.190-03:38:05.680 | Kenzo] it was.
 [u3876 | 03:38:05.680-03:38:08.280 | Seeker] Go back back to the weird lake in the desert.
 [u3877 | 03:38:11.890-03:38:14.240 | Kenzo] Can we retcon that? We went to the lake? Then.
-[u3878 | 03:38:15.790-03:38:16.580 | DM] Owl.
+[u3878 | 03:38:15.790-03:38:16.580 | DM] Well.
 [u3879 | 03:38:17.500-03:38:18.260 | Seeker] No.
 [u3880 | 03:38:18.260-03:38:21.380 | DM] Got to be some mysteries for you to explore later.
 [u3881 | 03:38:21.450-03:38:24.570 | DM] Actually, the tower was much more interesting than the lake.
@@ -3890,9 +3890,9 @@
 [u3890 | 03:39:11.290-03:39:12.200 | Kenzo] We saw that.
 [u3891 | 03:39:12.630-03:39:13.390 | DM] Yeah, projects.
 [u3892 | 03:39:13.390-03:39:13.770 | Delwath] All that.
-[u3893 | 03:39:13.770-03:39:15.869 | DM] You were in the tower. Faldrick, saw that.
+[u3893 | 03:39:13.770-03:39:15.869 | DM] You were in the tower. Faldrak, saw that.
 [u3894 | 03:39:17.210-03:39:19.340 | DM] That was the 3rd of my 3.
-[u3895 | 03:39:19.340-03:39:28.670 | Delwath] I mean, that sounds like the best one. Let's go back for that. Okay. So next session Faldrick tells us about the cool waterfall he saw, and we said, Screw this. Let's go back to that.
+[u3895 | 03:39:19.340-03:39:28.670 | Delwath] I mean, that sounds like the best one. Let's go back for that. Okay. So next session Faldrak tells us about the cool waterfall he saw, and we said, Screw this. Let's go back to that.
 [u3896 | 03:39:29.580-03:39:30.480 | Delwath] Wait now.
 [u3897 | 03:39:30.480-03:39:34.319 | Kenzo] Somebody add this to the side quest. We have to go back to the. We definitely need.
 [u3898 | 03:39:34.320-03:39:35.437 | Delwath] Yeah, that that.
