@@ -19,8 +19,8 @@
 [u0019 | 00:01:30.150-00:01:31.769 | Seeker] Oh, yeah, cool. They look good.
 [u0020 | 00:01:32.830-00:01:33.850 | Delwath] Okay.
 [u0021 | 00:01:36.310-00:01:47.719 | DM] So we pick up in the temple of Apollyon the 5 of you, plus
-[u0022 | 00:01:48.110-00:01:52.010 | DM] a chelite zombie. And here we'll swap out the
-[u0023 | 00:01:55.330-00:01:56.970 | DM] you want to do some of the metal one.
+[u0022 | 00:01:48.110-00:01:52.010 | DM] a chalyte zombie. And here we'll swap out the
+[u0023 | 00:01:55.330-00:01:56.970 | DM] you wanted to summon the metal one.
 [u0024 | 00:01:57.220-00:01:58.020 | Seeker] Correct.
 [u0025 | 00:01:59.458-00:02:00.970 | DM] It's medium or large.
 [u0026 | 00:02:02.270-00:02:02.565 | Seeker] Oh!
@@ -48,7 +48,7 @@
 [u0048 | 00:03:53.851-00:04:04.680 | DM] or smaller, I should say, not small themselves side areas, side chapels of sorts.
 [u0049 | 00:04:05.860-00:04:11.020 | DM] The whole Temple slash tomb, slash prison is
 [u0050 | 00:04:11.500-00:04:16.479 | DM] in a state of construction. It was never finished before
-[u0051 | 00:04:16.920-00:04:20.180 | DM] Chamut attacked and destroyed the city.
+[u0051 | 00:04:16.920-00:04:20.180 | DM] Cha'mutte attacked and destroyed the city.
 [u0052 | 00:04:21.170-00:04:32.920 | DM] And so you see partially carved murals, stone cutting tools strewn around statues that have not been finished.
 [u0053 | 00:04:33.674-00:04:43.149 | DM] Even the large massive statue of Apollyon. That many of you are standing near or on right now does not seem complete. The the
 [u0054 | 00:04:43.310-00:04:50.450 | DM] face and the and the features just hinted at rather than carved in pure detail
@@ -64,16 +64,16 @@
 [u0064 | 00:05:46.500-00:05:47.210 | Delwath] M.
 [u0065 | 00:05:48.100-00:05:51.129 | Seeker] Oh, no, it's not actually on my character sheet. It used to be.
 [u0066 | 00:05:51.130-00:05:52.060 | DM] The spell.
-[u0067 | 00:05:53.530-00:05:54.450 | DM] No, it's a spill.
+[u0067 | 00:05:53.530-00:05:54.450 | DM] No, it's a spell.
 [u0068 | 00:05:55.780-00:05:58.820 | Seeker] Do, do, do stone, sense.
 [u0069 | 00:05:59.940-00:06:01.920 | Riswynn] We just barely stopped fighting.
 [u0070 | 00:06:03.750-00:06:08.289 | Riswynn] Have we actually had a chance to poke around the side chapels and see if there's any stairwells going down.
 [u0071 | 00:06:08.460-00:06:10.010 | Seeker] What did we resurrect?
 [u0072 | 00:06:10.360-00:06:11.490 | Seeker] The elf.
-[u0073 | 00:06:11.490-00:06:13.940 | Riswynn] {{We rather have to}} Delwath, or
+[u0073 | 00:06:11.490-00:06:13.940 | Riswynn] We revivified Delwath, or
 [u0074 | 00:06:14.260-00:06:17.270 | Riswynn] Riswynn is offering Cure Wounds if he's.
 [u0075 | 00:06:17.460-00:06:18.350 | Delwath] So.
-[u0076 | 00:06:18.350-00:06:24.019 | Riswynn] {{Rest that brings some sort of restoration}}. I can still top that up with Cure Wounds. Let me know.
+[u0076 | 00:06:18.350-00:06:24.019 | Riswynn] Unless that brings some sort of restoration. I can still top that up with Cure Wounds. Let me know.
 [u0077 | 00:06:24.860-00:06:31.589 | Delwath] Yeah. So Delwath comes back from the dead, looking quite shaken, not having ever died before.
 [u0078 | 00:06:31.850-00:06:33.259 | Delwath] Unlike some of you.
 [u0079 | 00:06:33.370-00:06:35.729 | Kenzo] It didn't stop 1st time. 1st time's always.
@@ -184,7 +184,7 @@
 [u0184 | 00:14:23.880-00:14:25.999 | DM] Time for Delwath healing, by the way.
 [u0185 | 00:14:26.000-00:14:28.930 | Riswynn] Oh, I roll that! I didn't know.
 [u0186 | 00:14:28.930-00:14:36.970 | Delwath] You're sorry. I forgot you were doing that. I just I'll I'll take back, I mean, doesn't really matter. I got back to full health by spending hit dice and.
-[u0187 | 00:14:36.970-00:14:42.020 | DM] I don't think you're gonna have another chance to spend hit dice before either you're dead or instead.
+[u0187 | 00:14:36.970-00:14:42.020 | DM] I don't think you're gonna have another chance to spend hit dice before either you're dead or he's dead.
 [u0188 | 00:14:42.020-00:14:43.880 | Delwath] I would just. I would just
 [u0189 | 00:14:44.680-00:14:53.260 | Delwath] just get back your Channel divinity and have full set. I don't need healing, I I the prayer of healing, plus my hit dice got me back to full health.
 [u0190 | 00:14:53.490-00:14:54.100 | Riswynn] Okay.
@@ -265,7 +265,7 @@
 [u0265 | 00:21:05.290-00:21:16.810 | Delwath] Also during the short rest, I mean Delwath is praying. This spell is like a Prayer of Healing. It goes on for 10 min. Usually, when Delwath casts these like religious spells, he's mostly kind of
 [u0266 | 00:21:17.770-00:21:25.189 | Delwath] not very religious about it, like he's asking the Deno'qai spirits that he gets magic from to help.
 [u0267 | 00:21:25.500-00:21:39.879 | Delwath] But it comes across as actually like, we're asking an ally for like, Hey, can you help out with this problem as opposed to prayer, but he's actually, during this prayer for healing like, was praying to
-[u0268 | 00:21:40.560-00:21:49.029 | Delwath] Almerica, the elven god, who you've never heard him pray to before, but like he seems very
+[u0268 | 00:21:40.560-00:21:49.029 | Delwath] Elmerca, the elven god, who you've never heard him pray to before, but like he seems very
 [u0269 | 00:21:50.420-00:21:58.110 | Delwath] sort of lost in some degree of thought, and asking the elvish God for guidance.
 [u0270 | 00:21:59.540-00:22:02.290 | Wellby] All it took was dying to really find religion there.
 [u0271 | 00:22:03.320-00:22:04.740 | Delwath] Dying is a big deal.
@@ -354,7 +354,7 @@
 [u0354 | 00:31:01.120-00:31:01.870 | Seeker] Somebody.
 [u0355 | 00:31:03.470-00:31:06.099 | Seeker] I love that little little dial, a little monitor there.
 [u0356 | 00:31:07.640-00:31:11.329 | DM] I've got too many tabs, but I gotta find it again. I'll just.
-[u0357 | 00:31:11.330-00:31:13.819 | Riswynn] Checking on the Chelite knight's darkvision, right?
+[u0357 | 00:31:11.330-00:31:13.819 | Riswynn] Checking on the chalyte knight's darkvision, right?
 [u0358 | 00:31:16.490-00:31:17.090 | DM] Yeah.
 [u0359 | 00:31:17.090-00:31:18.629 | Seeker] Maybe it's gonna level up.
 [u0360 | 00:31:19.524-00:31:22.195 | DM] As it starts to descend.
@@ -363,7 +363,7 @@
 [u0363 | 00:31:34.890-00:31:41.839 | DM] something being shouted loudly in Drankorian over and over, and over and over and over again.
 [u0364 | 00:31:42.070-00:31:46.009 | DM] It's like shaking its head and having a hard time concentrating.
 [u0365 | 00:31:50.660-00:31:51.430 | Seeker] Hmm.
-[u0366 | 00:31:51.860-00:32:02.250 | Riswynn] That there's a magic effect on the stairs, and {{need to bring paper 26}}.
+[u0366 | 00:31:51.860-00:32:02.250 | Riswynn] That there's a magic effect on the stairs, and need to bring paper 26.
 [u0367 | 00:32:05.050-00:32:07.170 | Wellby] Dispel Magic.
 [u0368 | 00:32:11.840-00:32:12.730 | Riswynn] Good.
 [u0369 | 00:32:17.700-00:32:19.419 | Riswynn] Guess if we have to go through here.
@@ -381,13 +381,13 @@
 [u0381 | 00:33:22.550-00:33:24.070 | DM] 9.
 [u0382 | 00:33:25.470-00:33:32.120 | DM] That's 14. Succeeds.
 [u0383 | 00:33:32.570-00:33:35.010 | DM] You seem to have dispelled something.
-[u0384 | 00:33:37.170-00:33:41.919 | Riswynn] Do I still sense the Chelite knight's echoes of noisiness?
+[u0384 | 00:33:37.170-00:33:41.919 | Riswynn] Do I still sense the chalyte knight's echoes of noisiness?
 [u0385 | 00:33:41.920-00:33:48.539 | DM] Yeah, your target. Wait. Are you targeting the knight or the stairs?
 [u0386 | 00:33:50.030-00:33:50.990 | Wellby] Stairs.
 [u0387 | 00:33:50.990-00:33:51.949 | DM] Yeah, yeah, okay.
 [u0388 | 00:33:52.520-00:33:57.839 | DM] You think you've managed to dispel whatever the trap is. But the ongoing effect is not ended.
 [u0389 | 00:33:59.490-00:34:00.130 | Riswynn] Yeah.
-[u0390 | 00:34:01.010-00:34:05.839 | Seeker] Does that make sense? It kind of does. It's a condition now. It's not a {{measure}}.
+[u0390 | 00:34:01.010-00:34:05.839 | Seeker] Does that make sense? It kind of does. It's a condition now. It's not a magic.
 [u0391 | 00:34:05.840-00:34:07.819 | Delwath] Yeah, yeah, that makes sense.
 [u0392 | 00:34:08.090-00:34:08.760 | Seeker] All right.
 [u0393 | 00:34:10.590-00:34:11.400 | Seeker] Okay.
@@ -409,7 +409,7 @@
 [u0409 | 00:35:13.850-00:35:16.350 | Kenzo] Oh, my God!
 [u0410 | 00:35:16.630-00:35:18.860 | DM] It was gonna be total chaos.
 [u0411 | 00:35:19.150-00:35:21.080 | Kenzo] Oh, man!
-[u0412 | 00:35:21.080-00:35:22.580 | Delwath] There's everywhere.
+[u0412 | 00:35:21.080-00:35:22.580 | Delwath] Chairs everywhere.
 [u0413 | 00:35:22.580-00:35:24.809 | Seeker] All bow to Emperor, ladder.
 [u0414 | 00:35:25.500-00:35:29.640 | Kenzo] All furniture across Taelgar is, is.
 [u0415 | 00:35:30.330-00:35:31.650 | Seeker] The rise of the furniture.
@@ -419,7 +419,7 @@
 [u0419 | 00:35:46.010-00:35:47.510 | DM] So you descend the stairs.
 [u0420 | 00:35:47.510-00:35:48.090 | Seeker] It.
 [u0421 | 00:35:49.040-00:35:53.310 | Seeker] Yes, I take a minute to animate the ladder.
-[u0422 | 00:35:56.480-00:35:59.610 | Riswynn] Let me keep an eye on the Chelite knight, just in case whatever.
+[u0422 | 00:35:56.480-00:35:59.610 | Riswynn] Let me keep an eye on the chalyte knight, just in case whatever.
 [u0423 | 00:35:59.610-00:36:01.829 | Seeker] Literally a connection. Yeah.
 [u0424 | 00:36:02.400-00:36:02.970 | Riswynn] Yes.
 [u0425 | 00:36:03.360-00:36:11.120 | DM] So you find yourself now in this undercrypt that I described before, looking at when Delwath was looking with Ghostly Gaze.
@@ -434,9 +434,9 @@
 [u0434 | 00:36:44.930-00:36:46.959 | Riswynn] Is it like pitch black down here?
 [u0435 | 00:36:47.220-00:36:47.800 | Riswynn] Thank you.
 [u0436 | 00:36:47.800-00:36:56.940 | DM] It's pitch black down here. Yes, you have dark vision. Oh, construct, maybe. Can't see anything.
-[u0437 | 00:36:58.310-00:36:59.640 | Wellby] Bring a drift logo.
+[u0437 | 00:36:58.310-00:36:59.640 | Wellby] Bring a driftglobe.
 [u0438 | 00:37:06.540-00:37:07.480 | Wellby] So let's.
-[u0439 | 00:37:07.480-00:37:08.790 | Seeker] 60 feet on the car.
+[u0439 | 00:37:07.480-00:37:08.790 | Seeker] 60 feet on the construct.
 [u0440 | 00:37:08.790-00:37:11.300 | DM] Okay. So everybody's got 60 feet of darkvision.
 [u0441 | 00:37:13.350-00:37:16.919 | Wellby] Search this level figure out what's going on down here.
 [u0442 | 00:37:18.600-00:37:19.649 | Kenzo] Somewhere, to plan.
@@ -498,7 +498,7 @@
 [u0498 | 00:41:27.290-00:41:30.590 | Seeker] That prevents people from seeing or hearing through it.
 [u0499 | 00:41:30.910-00:41:38.430 | Seeker] and no sensors created by divination can pass through, no teleporting in or out and so forth.
 [u0500 | 00:41:38.630-00:41:45.120 | Seeker] Creatures in the area can't be targeted by divination spells. Would that actually be helpful in protecting us briefly if we needed to rest.
-[u0501 | 00:41:46.700-00:41:47.490 | Seeker] Log in here.
+[u0501 | 00:41:46.700-00:41:47.490 | Seeker] Long in here.
 [u0502 | 00:41:47.490-00:41:48.030 | Delwath] I.
 [u0503 | 00:41:50.800-00:41:51.459 | Riswynn] Probably the only.
 [u0504 | 00:41:51.460-00:41:52.050 | Seeker] Seems.
@@ -523,7 +523,7 @@
 [u0523 | 00:42:50.780-00:42:53.320 | DM] Delwath, you see a scrying sensor appear.
 [u0524 | 00:42:55.160-00:42:56.380 | Delwath] We're being scryed.
 [u0525 | 00:42:56.510-00:42:57.350 | Seeker] Oh, boy!
-[u0526 | 00:43:01.680-00:43:03.740 | DM] Nothing happens to the Chelite knight, though.
+[u0526 | 00:43:01.680-00:43:03.740 | DM] Nothing happens to the chalyte knight, though.
 [u0527 | 00:43:05.580-00:43:07.539 | Delwath] Apollyon's watching us, I presume.
 [u0528 | 00:43:10.762-00:43:13.659 | Delwath] Is it following one of us.
 [u0529 | 00:43:15.992-00:43:17.859 | DM] It is following
@@ -555,7 +555,7 @@
 [u0555 | 00:45:55.830-00:46:00.260 | Seeker] Does that do anything else again? I don't know where the description is of that ability.
 [u0556 | 00:46:03.620-00:46:09.649 | Seeker] It looks like it's just automatically pinpoint the location of anything that is in contact with the ground.
 [u0557 | 00:46:10.000-00:46:14.660 | Delwath] Yeah, it doesn't have to be moving. It's anything that's standing or moving.
-[u0558 | 00:46:15.970-00:46:17.690 | Seeker] {{160}}-foot range.
+[u0558 | 00:46:15.970-00:46:17.690 | Seeker] 160-foot range.
 [u0559 | 00:46:21.290-00:46:22.490 | DM] Yup, nothing, though.
 [u0560 | 00:46:34.380-00:46:40.170 | DM] So you proceed.
 [u0561 | 00:46:40.170-00:46:46.790 | Riswynn] I mean fucking like we're already at foot of the stairs, about to enter this tiny room full of
@@ -585,10 +585,10 @@
 [u0585 | 00:48:23.850-00:48:24.490 | DM] Then.
 [u0586 | 00:48:24.490-00:48:26.660 | Kenzo] Spend some ki and just try to figure out where it is.
 [u0587 | 00:48:26.660-00:48:28.620 | Riswynn] Possibly around one of the corners.
-[u0588 | 00:48:28.840-00:48:29.970 | Delwath] Possibly life.
-[u0589 | 00:48:30.110-00:48:31.229 | Riswynn] Shouldn't write a head.
+[u0588 | 00:48:28.840-00:48:29.970 | Delwath] Possibly left.
+[u0589 | 00:48:30.110-00:48:31.229 | Riswynn] Should be right ahead.
 [u0590 | 00:48:31.620-00:48:33.700 | Delwath] Should we go, scout?
-[u0591 | 00:48:34.040-00:48:37.210 | Delwath] Should we all advance together? Should we send the Chelite knight?
+[u0591 | 00:48:34.040-00:48:37.210 | Delwath] Should we all advance together? Should we send the chalyte knight?
 [u0592 | 00:48:37.590-00:48:39.889 | Seeker] Oh, we need a ladder token also, please.
 [u0593 | 00:48:40.260-00:48:41.640 | DM] I got it. It's right here.
 [u0594 | 00:48:42.090-00:48:42.899 | Seeker] Thank you.
@@ -621,16 +621,16 @@
 [u0621 | 00:50:23.550-00:50:25.390 | Kenzo] 2 to 4, the.
 [u0622 | 00:50:25.390-00:50:27.550 | Delwath] So like 20 to 40 feet.
 [u0623 | 00:50:27.550-00:50:29.790 | DM] Yeah, a couple dozen.
-[u0624 | 00:50:30.640-00:50:31.710 | Kenzo] Proper Dental.
+[u0624 | 00:50:30.640-00:50:31.710 | Kenzo] Proper dozen.
 [u0625 | 00:50:31.710-00:50:33.689 | Delwath] 2 to 4 dozen.
 [u0626 | 00:50:34.450-00:50:35.359 | Kenzo] This is annoying.
 [u0627 | 00:50:36.030-00:50:37.570 | Delwath] All right. Let's keep going.
 [u0628 | 00:50:38.260-00:50:40.450 | DM] Okay, who's stepping out first?
-[u0629 | 00:50:40.450-00:50:43.330 | Delwath] The Chelite trap-triggerer.
+[u0629 | 00:50:40.450-00:50:43.330 | Delwath] The chalyte trap-triggerer.
 [u0630 | 00:50:43.330-00:50:43.800 | Wellby] You.
 [u0631 | 00:50:43.800-00:50:45.640 | Delwath] Right. It's he's not real.
-[u0632 | 00:50:46.640-00:50:48.100 | DM] The Chelite.
-[u0633 | 00:50:48.820-00:51:01.000 | DM] The Chelite knight, at Riswynn's command, steps into the room, and you see him shake his head, and then slowly begin to kneel and start chanting something in Drankorian.
+[u0632 | 00:50:46.640-00:50:48.100 | DM] The chalyte.
+[u0633 | 00:50:48.820-00:51:01.000 | DM] The chalyte knight, at Riswynn's command, steps into the room, and you see him shake his head, and then slowly begin to kneel and start chanting something in Drankorian.
 [u0634 | 00:51:02.200-00:51:06.509 | Delwath] Can you command him to stop being dominated by the spell.
 [u0635 | 00:51:09.120-00:51:16.340 | DM] make a yeah. You can make a yeah. Can make another wisdom save his wisdom. Saves are not great.
 [u0636 | 00:51:16.890-00:51:18.610 | DM] Unfortunately.
@@ -640,7 +640,7 @@
 [u0640 | 00:51:39.680-00:51:44.290 | DM] Oh, no! He like shakes it off, and stands up.
 [u0641 | 00:51:44.859-00:51:45.429 | Seeker] Nice.
 [u0642 | 00:51:46.020-00:51:49.350 | DM] And begins walking forward.
-[u0643 | 00:51:52.220-00:51:57.499 | Riswynn] We didn't dispel whatever it was {{to get people together}}.
+[u0643 | 00:51:52.220-00:51:57.499 | Riswynn] We didn't dispel whatever it was to get people together.
 [u0644 | 00:51:58.000-00:51:58.690 | Delwath] Yeah.
 [u0645 | 00:51:59.920-00:52:02.619 | Riswynn] So should I have Dispel Magic?
 [u0646 | 00:52:05.030-00:52:08.810 | Delwath] I mean, do we do we? Can I sense a source of magic here?
@@ -679,7 +679,7 @@
 [u0679 | 00:54:05.110-00:54:07.869 | Delwath] At 25 to clear out some of the troubles.
 [u0680 | 00:54:08.440-00:54:10.090 | Kenzo] Well, I mean, I have 27.
 [u0681 | 00:54:10.090-00:54:11.719 | Delwath] No, at 27. That's even better.
-[u0682 | 00:54:11.720-00:54:16.669 | DM] So it's going to be Riswynn, Wellby, Delwath, Seeker, Kenzo, Chelite knight.
+[u0682 | 00:54:11.720-00:54:16.669 | DM] So it's going to be Riswynn, Wellby, Delwath, Seeker, Kenzo, chalyte knight.
 [u0683 | 00:54:19.670-00:54:22.300 | DM] Okay. So Riswynn's gonna step forward.
 [u0684 | 00:54:22.770-00:54:23.310 | Riswynn] Yep.
 [u0685 | 00:54:23.830-00:54:25.459 | Delwath] And make a wisdom saving, throw.
@@ -733,7 +733,7 @@
 [u0733 | 00:58:09.530-00:58:11.620 | Wellby] All right, Wisdom save.
 [u0734 | 00:58:15.350-00:58:21.230 | DM] Wellby also resists, just barely, the call of Apollyon's worship.
 [u0735 | 00:58:21.760-00:58:23.110 | Kenzo] What do you roll?
-[u0736 | 00:58:23.530-00:58:24.610 | Delwath] Money Ready.
+[u0736 | 00:58:23.530-00:58:24.610 | Delwath] 20, right?.
 [u0737 | 00:58:25.420-00:58:26.380 | Kenzo] Just barely.
 [u0738 | 00:58:26.380-00:58:27.740 | Wellby] Just merely.
 [u0739 | 00:58:29.410-00:58:30.799 | Delwath] A rough Wisdom save.
@@ -800,8 +800,8 @@
 [u0800 | 01:02:27.200-01:02:28.609 | DM] There are
 [u0801 | 01:02:32.690-01:02:33.790 | DM] 5 of them.
 [u0802 | 01:02:33.930-01:02:34.680 | DM] So yeah.
-[u0803 | 01:02:37.810-01:02:41.870 | DM] that's a 24, Jersey.
-[u0804 | 01:02:42.800-01:02:44.259 | Riswynn] See it with free.
+[u0803 | 01:02:37.810-01:02:41.870 | DM] that's a 24, your AC.
+[u0804 | 01:02:42.800-01:02:44.259 | Riswynn] AC 23.
 [u0805 | 01:02:45.410-01:02:57.040 | DM] Okay. So Riswynn takes 20 points of necrotic damage, and you are silenced.
 [u0806 | 01:02:58.990-01:03:06.049 | DM] You cannot speak or cast spells, or use any abilities that have verbal ability, verbal components
 [u0807 | 01:03:06.250-01:03:10.590 | DM] until the end of your next turn. Seeker, you're up.
@@ -843,9 +843,9 @@
 [u0843 | 01:05:37.010-01:05:39.761 | Kenzo] Okay. Alright. Well, that's okay. Cool.
 [u0844 | 01:05:40.540-01:05:45.190 | Kenzo] alright, yeah, I will step over here
 [u0845 | 01:05:46.520-01:05:50.380 | Kenzo] and so the dude that the circle guy.
-[u0846 | 01:05:51.600-01:05:52.380 | DM] The Chelite.
+[u0846 | 01:05:51.600-01:05:52.380 | DM] The chalyte.
 [u0847 | 01:05:52.380-01:05:53.020 | DM] 8.
-[u0848 | 01:05:53.410-01:05:55.400 | Kenzo] Oh, that's the Chelite knight. What's the—
+[u0848 | 01:05:53.410-01:05:55.400 | Kenzo] Oh, that's the chalyte knight. What's the—
 [u0849 | 01:05:55.400-01:05:56.910 | DM] On your side. He's next.
 [u0850 | 01:05:57.720-01:06:02.240 | Kenzo] Oh, he's next oh, I guess I can attack and then move right so.
 [u0851 | 01:06:02.710-01:06:03.400 | DM] Yeah.
@@ -882,17 +882,17 @@
 [u0882 | 01:07:40.540-01:07:41.810 | DM] Yeah, that kills two.
 [u0883 | 01:07:42.180-01:07:43.460 | Kenzo] Hell. Yeah. Nice.
 [u0884 | 01:07:43.770-01:07:53.540 | DM] Kenzo rushes forward in a flurry of blows, just shades vanishing with strike after strike after strike.
-[u0885 | 01:07:55.120-01:08:03.490 | DM] The Chelite knight will run forward now to there
+[u0885 | 01:07:55.120-01:08:03.490 | DM] The chalyte knight will run forward now to there
 [u0886 | 01:08:04.000-01:08:09.970 | DM] and start by attacking this one. He's got disadvantage because of the echoing in his head
 [u0887 | 01:08:10.460-01:08:15.820 | DM] and still hits, because it's hard to miss these things. That's 1 attack
 [u0888 | 01:08:16.990-01:08:20.170 | DM] runs forward. There's more around the corner.
 [u0889 | 01:08:22.439-01:08:28.569 | DM] Natural 1, 4 and a 2. But I think that's still gonna hit.
 [u0890 | 01:08:29.000-01:08:32.540 | DM] Yeah, that still hits, so he kills another one
-[u0891 | 01:08:34.540-01:08:38.699 | DM] That ends the Chelite knight's turn. The rest of the minions
+[u0891 | 01:08:34.540-01:08:38.699 | DM] That ends the chalyte knight's turn. The rest of the minions
 [u0892 | 01:08:39.130-01:08:42.340 | DM] Now we'll swarm him
-[u0893 | 01:08:45.710-01:08:54.090 | DM] and I think 20-something, that's gonna hit. The Chelite knight takes another
+[u0893 | 01:08:45.710-01:08:54.090 | DM] and I think 20-something, that's gonna hit. The chalyte knight takes another
 [u0894 | 01:08:54.260-01:09:02.100 | DM] 24 points of damage. So he's down to 115 minus 24.
-[u0895 | 01:09:02.649-01:09:05.639 | DM] Chelite knight is down to 91 HP.
+[u0895 | 01:09:02.649-01:09:05.639 | DM] chalyte knight is down to 91 HP.
 [u0896 | 01:09:06.899-01:09:15.200 | DM] That ends the second minions' turn. Riswynn is up. You cannot—you're still silenced. You cannot speak, but you can do anything that doesn't require speaking.
 [u0897 | 01:09:16.040-01:09:16.670 | Riswynn] Oh, thank!
 [u0898 | 01:09:16.670-01:09:18.699 | DM] It's like there's 6 minions left.
@@ -903,8 +903,8 @@
 [u0903 | 01:09:41.310-01:09:46.929 | Riswynn] Nice nice shirt, the global center.
 [u0904 | 01:09:47.340-01:09:47.880 | Riswynn] You guys.
 [u0905 | 01:09:47.880-01:09:51.750 | DM] I can't tell what you're sorry. What are you trying to? I can't hear you for some reason.
-[u0906 | 01:09:52.700-01:10:02.160 | Riswynn] My Turn Undead Channel Divinity is to censure the undead {{plans}}.
-[u0907 | 01:10:05.170-01:10:08.460 | Riswynn] But I can just {{have more humor}}.
+[u0906 | 01:09:52.700-01:10:02.160 | Riswynn] My Turn Undead Channel Divinity is to censure the undead plans.
+[u0907 | 01:10:05.170-01:10:08.460 | Riswynn] But I can just have more humor.
 [u0908 | 01:10:16.710-01:10:23.579 | DM] No, I don't think it required. It doesn't say it requires a verbal component, although I don't know censure.
 [u0909 | 01:10:26.380-01:10:30.210 | DM] I guess I guess that's probably a verb. You probably have to say a prayer.
 [u0910 | 01:10:30.470-01:10:31.790 | DM] so you can't do that.
@@ -930,10 +930,10 @@
 [u0930 | 01:12:00.990-01:12:05.470 | DM] Yeah, Riswynn, Riswynn should kill that one and
 [u0931 | 01:12:06.720-01:12:10.319 | DM] the other one here, so Wellby can kill 2 easily.
 [u0932 | 01:12:12.890-01:12:14.309 | Wellby] Yeah, or yeah.
-[u0933 | 01:12:14.350-01:12:16.570 | DM] What risen there, Wellby can kill 2.
+[u0933 | 01:12:14.350-01:12:16.570 | DM] With Riswynn there, Wellby can kill 2.
 [u0934 | 01:12:17.690-01:12:19.770 | Wellby] Hopefully, 21.
 [u0935 | 01:12:20.120-01:12:25.610 | DM] Wellby's arrow pierces through these 2 minions, and they vanish.
-[u0936 | 01:12:27.120-01:12:31.750 | DM] The last 2 minions, not one, aren't going to do anything to the Chelite knight.
+[u0936 | 01:12:27.120-01:12:31.750 | DM] The last 2 minions, not one, aren't going to do anything to the chalyte knight.
 [u0937 | 01:12:32.391-01:12:40.560 | DM] Seeker doesn't have to do anything. Kenzo can run forward and slaughter the last 2 minions without having to spend any ki.
 [u0938 | 01:12:41.560-01:12:42.650 | DM] And now.
 [u0939 | 01:12:42.900-01:12:43.730 | Seeker] Fine.
@@ -975,7 +975,7 @@
 [u0975 | 01:15:34.180-01:15:36.199 | Seeker] Well, we know he's down below right.
 [u0976 | 01:15:36.200-01:15:38.900 | Delwath] Let's just keep yeah. Let's keep going going.
 [u0977 | 01:15:41.390-01:15:42.359 | DM] You go down.
-[u0978 | 01:15:42.530-01:15:44.420 | Seeker] Side quit! Oh.
+[u0978 | 01:15:42.530-01:15:44.420 | Seeker] Side quest! Oh.
 [u0979 | 01:15:44.560-01:15:45.780 | Wellby] One more level.
 [u0980 | 01:15:47.370-01:15:52.269 | DM] It's now been about 30 min since the 1st battle.
 [u0981 | 01:15:52.460-01:15:56.459 | DM] which means that the construct still has half an hour left.
@@ -1001,8 +1001,8 @@
 [u1001 | 01:17:08.380-01:17:11.280 | DM] Oh, I don't have night vision turned on for Wellby.
 [u1002 | 01:17:13.170-01:17:17.680 | DM] Okay, now, how can you? Obviously, okay.
 [u1003 | 01:17:20.630-01:17:26.729 | DM] Okay. So you emerge at what seems to be the lowest, lowest obvious level of the crypt.
-[u1004 | 01:17:27.340-01:17:28.540 | Riswynn] Where's Chelite knight?
-[u1005 | 01:17:29.150-01:17:32.349 | DM] Oh, I don't have, I don't have Chelite knight.
+[u1004 | 01:17:27.340-01:17:28.540 | Riswynn] Where's chalyte knight?
+[u1005 | 01:17:29.150-01:17:32.349 | DM] Oh, I don't have, I don't have chalyte knight.
 [u1006 | 01:17:43.080-01:17:44.499 | DM] There is the room.
 [u1007 | 01:17:44.600-01:17:49.719 | DM] small room that you emerge into at the bottom of the stairs, and a narrow passageway
 [u1008 | 01:17:49.980-01:17:52.649 | DM] only about 5 feet wide.
@@ -1028,8 +1028,8 @@
 [u1028 | 01:19:22.000-01:19:23.540 | DM] It turns and twists.
 [u1029 | 01:19:23.540-01:19:24.830 | Delwath] Right, right? Right? Right?
 [u1030 | 01:19:29.390-01:19:33.499 | Delwath] I mean, do we just walk into the trap? I don't know what else to do.
-[u1031 | 01:19:34.300-01:19:42.880 | Seeker] Well, we could send the Chelite knight and/or the construct, not the ladder, obviously, first.
-[u1032 | 01:19:44.190-01:19:47.039 | Delwath] Yeah. Why don't we send the Chelite knight first and see what happens?
+[u1031 | 01:19:34.300-01:19:42.880 | Seeker] Well, we could send the chalyte knight and/or the construct, not the ladder, obviously, first.
+[u1032 | 01:19:44.190-01:19:47.039 | Delwath] Yeah. Why don't we send the chalyte knight first and see what happens?
 [u1033 | 01:19:47.630-01:19:49.540 | Seeker] That's been our strategy thus far.
 [u1034 | 01:19:50.450-01:19:51.369 | Wellby] Served us well.
 [u1035 | 01:19:53.620-01:19:55.810 | DM] Guy disappears around the corner.
@@ -1070,7 +1070,7 @@
 [u1070 | 01:21:31.360-01:21:35.809 | Delwath] Right like, I think we just keep going.
 [u1071 | 01:21:35.810-01:21:39.650 | Wellby] I mean, I can Beast Sense and, and look ahead down the corridor. That's
 [u1072 | 01:21:39.750-01:21:42.009 | Wellby] helpful, like, if we want to see what's out there.
-[u1073 | 01:21:45.350-01:21:48.819 | Delwath] I think nothing. The Chelite knight is not turning.
+[u1073 | 01:21:45.350-01:21:48.819 | Delwath] I think nothing. The chalyte knight is not turning.
 [u1074 | 01:21:50.690-01:21:57.060 | Delwath] Tell it to go 20 feet and then come back. If it hasn't encountered any danger.
 [u1075 | 01:22:00.600-01:22:01.780 | DM] It comes back.
 [u1076 | 01:22:02.560-01:22:04.390 | Delwath] So let's catch up to it.
@@ -1131,7 +1131,7 @@
 [u1131 | 01:25:38.970-01:25:42.080 | Riswynn] I'm so close, anyway, that I just went the last distance.
 [u1132 | 01:25:44.668-01:25:46.510 | Delwath] Apollyon can fly, right?
 [u1133 | 01:25:47.940-01:25:50.950 | Delwath] Wait, Riswynn, you ran off before even talking to us.
-[u1134 | 01:25:51.350-01:25:55.140 | Riswynn] Well, my, my poor Chelite knight was in danger. Okay, fine. I didn't.
+[u1134 | 01:25:51.350-01:25:55.140 | Riswynn] Well, my, my poor chalyte knight was in danger. Okay, fine. I didn't.
 [u1135 | 01:25:55.550-01:25:56.085 | Delwath] Yep.
 [u1136 | 01:25:57.680-01:26:00.249 | Kenzo] See? Shit. Can anybody else see anything.
 [u1137 | 01:26:00.560-01:26:02.330 | DM] This corridor. Oh, sorry!
@@ -1211,7 +1211,7 @@
 [u1211 | 01:30:54.560-01:30:56.690 | Kenzo] Alright. I'm just gonna go start attacking them. Then.
 [u1212 | 01:30:58.341-01:31:02.919 | DM] Okay, let me just write everybody down. Sorry, gotta roll for Apollyon.
 [u1213 | 01:31:03.570-01:31:04.360 | DM] Yeah.
-[u1214 | 01:31:05.100-01:31:07.709 | DM] And I gotta roll for the Chelite knight. That's it.
+[u1214 | 01:31:05.100-01:31:07.709 | DM] And I gotta roll for the chalyte knight. That's it.
 [u1215 | 01:31:07.960-01:31:09.280 | DM] 15.
 [u1216 | 01:31:12.110-01:31:20.320 | DM] Okay? So Kenzo. Then Wellby, yeah.
 [u1217 | 01:31:25.670-01:31:28.920 | Seeker] Would it be weird to do? Identify during a battle? Because.
@@ -1225,7 +1225,7 @@
 [u1225 | 01:31:54.460-01:31:55.913 | Kenzo] And then
 [u1226 | 01:31:58.620-01:32:02.630 | Kenzo] I guess I, we already soul-sighted him, so I just don't really need to do that again.
 [u1227 | 01:32:04.240-01:32:07.312 | Kenzo] And well, I guess.
-[u1228 | 01:32:08.940-01:32:12.149 | Kenzo] So I'm just gonna go and {{mimic my parents}}.
+[u1228 | 01:32:08.940-01:32:12.149 | Kenzo] So I'm just gonna go and make my appearance.
 [u1229 | 01:32:13.242-01:32:18.340 | Kenzo] I'm just gonna see. So is there any advantage to being able to like pull him, or or anything like that.
 [u1230 | 01:32:19.300-01:32:23.150 | Delwath] I don't. I mean getting him closer to us. Can't
 [u1231 | 01:32:23.490-01:32:26.720 | Delwath] I don't think would hurt, but I don't think there's a big advantage.
@@ -1307,7 +1307,7 @@
 [u1307 | 01:37:37.720-01:37:39.449 | DM] you use that the 1st time you fought him.
 [u1308 | 01:37:42.280-01:37:43.279 | Wellby] Did I shit.
 [u1309 | 01:37:43.280-01:37:43.910 | DM] Yeah.
-[u1310 | 01:37:44.162-01:37:44.920 | Delwath] Used to quack.
+[u1310 | 01:37:44.162-01:37:44.920 | Delwath] Used the clock.
 [u1311 | 01:37:45.960-01:37:47.719 | Wellby] Yeah, yeah, know, that's right.
 [u1312 | 01:37:48.060-01:37:51.139 | Wellby] Yeah, use the Clockwork Amulet, which is also once a day.
 [u1313 | 01:37:53.790-01:37:57.410 | Wellby] All right, I roll a 30. I really, I really hope that hits.
@@ -1332,7 +1332,7 @@
 [u1332 | 01:39:04.620-01:39:07.028 | DM] Emerging out of the pillars.
 [u1333 | 01:39:08.260-01:39:09.050 | Wellby] That place.
 [u1334 | 01:39:09.820-01:39:12.310 | DM] 4 bolts of energy.
-[u1335 | 01:39:13.840-01:39:21.689 | DM] strike at Kenzo, Riswynn, Chelite knight, and Delwath. Everybody make a Constitution saving throw.
+[u1335 | 01:39:13.840-01:39:21.689 | DM] strike at Kenzo, Riswynn, chalyte knight, and Delwath. Everybody make a Constitution saving throw.
 [u1336 | 01:39:26.870-01:39:29.920 | DM] Delwath, you take 19 points of necrotic damage.
 [u1337 | 01:39:30.490-01:39:33.840 | Delwath] Okay, but I resist resistance to all damage.
 [u1338 | 01:39:33.840-01:39:36.680 | DM] You take half half of that, do you? Round, up or down.
@@ -1340,7 +1340,7 @@
 [u1340 | 01:39:37.440-01:39:40.079 | DM] You take—you round down, you take 9 damage.
 [u1341 | 01:39:40.480-01:39:41.930 | Kenzo] 25, then.
 [u1342 | 01:39:42.420-01:39:44.570 | DM] Kenzo, you take no damage.
-[u1343 | 01:39:45.535-01:39:49.489 | DM] Chelite knight rolled high. Chelite knight takes no damage.
+[u1343 | 01:39:45.535-01:39:49.489 | DM] chalyte knight rolled high. chalyte knight takes no damage.
 [u1344 | 01:39:49.490-01:39:50.270 | Kenzo] Nice.
 [u1345 | 01:39:50.750-01:39:53.050 | DM] That ends the lair action. Seeker, you're up.
 [u1346 | 01:39:54.596-01:40:03.020 | Seeker] I will cast erupting earth at 6th level.
@@ -1353,7 +1353,7 @@
 [u1353 | 01:40:22.027-01:40:23.789 | DM] Your spell fails.
 [u1354 | 01:40:24.050-01:40:24.690 | Seeker] Did you not.
 [u1355 | 01:40:24.690-01:40:25.840 | DM] Just a spell slot, though, by the way.
-[u1356 | 01:40:25.840-01:40:29.209 | DM] Well, no. So this is slightly different than normal, Chem.
+[u1356 | 01:40:25.840-01:40:29.209 | DM] Well, no. So this is slightly different than normal Counterspell.
 [u1357 | 01:40:29.594-01:40:29.980 | Delwath] Okay.
 [u1358 | 01:40:30.783-01:40:32.600 | DM] You may choose to take
 [u1359 | 01:40:32.730-01:40:36.500 | DM] necrotic damage equal to 5 times the spell level.
@@ -1374,7 +1374,7 @@
 [u1374 | 01:41:24.820-01:41:25.170 | Seeker] Yeah.
 [u1375 | 01:41:25.533-01:41:27.350 | DM] Yeah, he fails the save.
 [u1376 | 01:41:29.427-01:41:30.380 | Seeker] So it's a.
-[u1377 | 01:41:30.380-01:41:30.909 | Kenzo] Find them again.
+[u1377 | 01:41:30.380-01:41:30.909 | Kenzo] Blind him again.
 [u1378 | 01:41:30.910-01:41:32.069 | Seeker] Area of effect.
 [u1379 | 01:41:35.220-01:41:37.630 | DM] And that makes this difficult terrain.
 [u1380 | 01:41:37.800-01:41:38.610 | Seeker] That's right.
@@ -1458,15 +1458,15 @@
 [u1458 | 01:46:37.320-01:46:38.229 | Delwath] Once a combat, Tim? Just.
 [u1459 | 01:46:38.230-01:46:39.240 | DM] Once a combat.
 [u1460 | 01:46:39.400-01:46:46.569 | Kenzo] Okay, thank goodness, okay, cool bills of souls. I mean, he's level 26. That's pretty powerful. Yeah.
-[u1461 | 01:46:46.570-01:46:49.289 | DM] Chelite knight. What do you want the Chelite knight to do?
+[u1461 | 01:46:46.570-01:46:49.289 | DM] chalyte knight. What do you want the chalyte knight to do?
 [u1462 | 01:46:50.661-01:46:51.990 | Delwath] Punch him a lot. I think.
-[u1463 | 01:46:51.990-01:46:53.120 | Riswynn] Closing button.
-[u1464 | 01:46:54.280-01:46:58.570 | DM] Chelite knight will step forward and make his 3 attacks against Apollyon.
+[u1463 | 01:46:51.990-01:46:53.120 | Riswynn] Close and bludgeon.
+[u1464 | 01:46:54.280-01:46:58.570 | DM] chalyte knight will step forward and make his 3 attacks against Apollyon.
 [u1465 | 01:46:58.990-01:47:01.039 | DM] 2 natural twenties.
 [u1466 | 01:47:01.040-01:47:02.290 | Kenzo] What?
 [u1467 | 01:47:02.530-01:47:03.140 | Seeker] Wow!
-[u1468 | 01:47:03.140-01:47:08.020 | Kenzo] Go, chat, you know. Maybe Cheli's not so bad.
-[u1469 | 01:47:08.688-01:47:10.659 | Delwath] Kind of a 7. Second thought.
+[u1468 | 01:47:03.140-01:47:08.020 | Kenzo] Go, chalyte, you know. Maybe chalyte's not so bad.
+[u1469 | 01:47:08.688-01:47:10.659 | Delwath] Kind of having second thoughts.
 [u1470 | 01:47:11.365-01:47:12.070 | Kenzo] The.
 [u1471 | 01:47:13.980-01:47:14.890 | DM] Well.
 [u1472 | 01:47:17.420-01:47:26.409 | DM] That's 8, 4. That's 8d6, because Apollyon's immune to necrotic. So he doesn't do the necrotic. That's 8d6 plus 12 damage. Kate, do you want to roll?
@@ -1475,14 +1475,14 @@
 [u1475 | 01:47:44.830-01:47:45.680 | Riswynn] Ugh!
 [u1476 | 01:47:47.120-01:47:49.690 | Riswynn] Everyone as well. Did you say.
 [u1477 | 01:47:49.910-01:47:51.990 | DM] Yeah, I got it.
-[u1478 | 01:47:54.243-01:47:59.360 | DM] That ends the Chelite knight's turn. The second round of lair actions.
+[u1478 | 01:47:54.243-01:47:59.360 | DM] That ends the chalyte knight's turn. The second round of lair actions.
 [u1479 | 01:48:03.190-01:48:06.179 | DM] 4 spirits depart from the
 [u1480 | 01:48:08.350-01:48:16.290 | DM] from these 4 pillars and come to surround, forming a protective shell around Apollyon. Delwath.
 [u1481 | 01:48:17.732-01:48:23.479 | Delwath] I'm going to. Is he making attack rolls against me? By the way, yes, I'm making attack rolls. Okay.
 [u1482 | 01:48:23.480-01:48:24.869 | DM] They're making attacks.
 [u1483 | 01:48:25.100-01:48:28.280 | Delwath] I am going to mark.
-[u1484 | 01:48:29.170-01:48:34.599 | Delwath] I'm gonna use my bonus action to mark him with my Yazali. I'll
-[u1485 | 01:48:35.620-01:48:38.929 | Delwath] call down Yazali to to bite him
+[u1484 | 01:48:29.170-01:48:34.599 | Delwath] I'm gonna use my bonus action to mark him with my Yezali. I'll
+[u1485 | 01:48:35.620-01:48:38.929 | Delwath] call down Yezali to to bite him
 [u1486 | 01:48:39.714-01:48:42.259 | Delwath] and then I will attack him.
 [u1487 | 01:48:42.480-01:48:44.919 | Delwath] Hold on, let me just find where to check that off.
 [u1488 | 01:48:45.851-01:48:47.860 | DM] Make a wisdom saving throw.
@@ -1650,7 +1650,7 @@
 [u1650 | 01:59:01.260-01:59:02.660 | Seeker] 9 9 is good.
 [u1651 | 01:59:02.970-01:59:04.240 | Delwath] 9 is good.
 [u1652 | 01:59:04.350-01:59:06.390 | Delwath] 9 is good for Apollyon.
-[u1653 | 01:59:08.120-01:59:09.460 | DM] Bigger and.
+[u1653 | 01:59:08.120-01:59:09.460 | DM] Seeker and.
 [u1654 | 01:59:09.460-01:59:10.170 | Kenzo] 20.
 [u1655 | 01:59:11.450-01:59:12.790 | DM] 20. Yeah.
 [u1656 | 01:59:13.690-01:59:16.580 | Riswynn] Is this something we can reroll with heroic inspiration.
@@ -1708,7 +1708,7 @@
 [u1708 | 02:02:19.390-02:02:20.220 | DM] None of that happened.
 [u1709 | 02:02:20.380-02:02:21.110 | Seeker] The Spirit.
 [u1710 | 02:02:21.110-02:02:22.140 | DM] Distract you.
-[u1711 | 02:02:22.670-02:02:23.309 | Seeker] Oh, the sport!
+[u1711 | 02:02:22.670-02:02:23.309 | Seeker] Oh, the spirit!
 [u1712 | 02:02:23.310-02:02:24.640 | Seeker] One spirit left.
 [u1713 | 02:02:25.070-02:02:25.549 | DM] You are.
 [u1714 | 02:02:25.550-02:02:26.389 | Delwath] Do you have?
@@ -1763,7 +1763,7 @@
 [u1763 | 02:05:00.210-02:05:06.380 | DM] Kenzo shakes off the humming noise from the pillar that was about to
 [u1764 | 02:05:07.072-02:05:10.929 | DM] force him to make attacks against somebody else.
 [u1765 | 02:05:10.930-02:05:15.180 | Kenzo] Thank God! Thank God! Strong use of Bardic. Seeker, you're on.
-[u1766 | 02:05:15.180-02:05:24.850 | DM] Remember, you cannot cast a spell of level 3 or higher, and you can also not command your construct to do anything, but the ladder still {{are order}}.
+[u1766 | 02:05:15.180-02:05:24.850 | DM] Remember, you cannot cast a spell of level 3 or higher, and you can also not command your construct to do anything, but the ladder still takes orders.
 [u1767 | 02:05:24.850-02:05:26.800 | Seeker] I can't command the construct.
 [u1768 | 02:05:26.800-02:05:28.959 | Delwath] Because it's an 8th-level spell.
 [u1769 | 02:05:29.170-02:05:31.000 | Delwath] It's yeah. It's paused.
@@ -1798,7 +1798,7 @@
 [u1798 | 02:07:28.548-02:07:32.320 | DM] And then and refreshes his reactions.
 [u1799 | 02:07:35.510-02:07:36.140 | DM] Oh,
 [u1800 | 02:07:36.590-02:07:38.029 | Kenzo] I was able to do that.
-[u1801 | 02:07:38.030-02:07:44.299 | Delwath] He, he used his lair thingy to give himself a {{second way out of magic}}.
+[u1801 | 02:07:38.030-02:07:44.299 | Delwath] He, he used his lair thingy to give himself a second wind of magic.
 [u1802 | 02:07:45.100-02:07:45.990 | Seeker] Yeah.
 [u1803 | 02:07:46.190-02:07:48.240 | Kenzo] How many times do you think? How many times can you do that?
 [u1804 | 02:07:48.430-02:07:49.100 | Delwath] Probably just one.
@@ -1820,7 +1820,7 @@
 [u1820 | 02:08:56.840-02:08:57.850 | Seeker] Yeah.
 [u1821 | 02:08:57.850-02:09:01.559 | DM] And Seeker takes 10 d. 6. So
 [u1822 | 02:09:04.100-02:09:10.400 | DM] Seeker takes 39 points of fire damage, concentration save.
-[u1823 | 02:09:11.650-02:09:12.040 | Delwath] Alpha.
+[u1823 | 02:09:11.650-02:09:12.040 | Delwath] Oh, fuck.
 [u1824 | 02:09:12.040-02:09:13.010 | Seeker] Construct.
 [u1825 | 02:09:13.800-02:09:16.579 | Seeker] How do I—that's just a Con save, but.
 [u1826 | 02:09:16.580-02:09:17.990 | Delwath] You might have advantage.
@@ -1834,7 +1834,7 @@
 [u1834 | 02:09:38.030-02:09:39.259 | Delwath] How you doing, Seeker.
 [u1835 | 02:09:39.680-02:09:44.949 | Seeker] You notice that Seeker seems to have gotten tougher since the last time you looked.
 [u1836 | 02:09:44.950-02:09:46.050 | Delwath] Good job, Seeker.
-[u1837 | 02:09:46.050-02:09:49.559 | Seeker] He's still. He's no, but he's standing.
+[u1837 | 02:09:46.050-02:09:49.559 | Seeker] He's still. He's low, but he's standing.
 [u1838 | 02:09:51.652-02:09:54.610 | DM] So that's another Con, Con save.
 [u1839 | 02:09:55.410-02:09:57.979 | Seeker] Oh, whoops! What happened that time? It didn't ask me just.
 [u1840 | 02:09:57.980-02:09:58.840 | Delwath] Scroll it again.
@@ -1867,11 +1867,11 @@
 [u1867 | 02:10:51.750-02:10:53.120 | Seeker] Yeah, no, it's not worth it.
 [u1868 | 02:10:54.330-02:10:56.480 | DM] Riswynn, what's your AC?
 [u1869 | 02:10:57.580-02:10:58.859 | Riswynn] 23.
-[u1870 | 02:10:59.930-02:11:07.500 | DM] So 21 misses. That ends Apollyon's turn. Chelite knight is up.
+[u1870 | 02:10:59.930-02:11:07.500 | DM] So 21 misses. That ends Apollyon's turn. chalyte knight is up.
 [u1871 | 02:11:07.920-02:11:08.949 | Delwath] Charge him.
 [u1872 | 02:11:09.400-02:11:17.140 | DM] 1, 1, 2, 3, 4, 5, 3 attacks oof
 [u1873 | 02:11:17.990-02:11:22.069 | DM] miss all 3, miss paying for the natural twenties last time
-[u1874 | 02:11:22.930-02:11:28.460 | DM] That ends Chelite knight's turn. Lair action number 2.
+[u1874 | 02:11:22.930-02:11:28.460 | DM] That ends chalyte knight's turn. Lair action number 2.
 [u1875 | 02:11:31.460-02:11:38.310 | DM] Riswynn, Delwath, Kenzo and Seeker
 [u1876 | 02:11:38.430-02:11:40.430 | DM] all make Constitution saves.
 [u1877 | 02:11:43.020-02:11:44.130 | Kenzo] What's this for.
@@ -2084,7 +2084,7 @@
 [u2084 | 02:24:34.230-02:24:36.960 | Seeker] Can I just like run through the ladder here, over there.
 [u2085 | 02:24:36.960-02:24:40.450 | DM] Yeah, you need to be in the area on Kate's turn. I believe.
 [u2086 | 02:24:40.940-02:24:43.159 | Seeker] Oh! When is that coming up.
-[u2087 | 02:24:43.330-02:24:48.270 | DM] That's at the end. Apollyon, the Chelite knight, Delwath, then Riswynn.
+[u2087 | 02:24:43.330-02:24:48.270 | DM] That's at the end. Apollyon, the chalyte knight, Delwath, then Riswynn.
 [u2088 | 02:24:48.770-02:24:53.310 | Seeker] All right. Well, I'm getting in there because seems worth it.
 [u2089 | 02:24:54.722-02:24:58.230 | Seeker] I'm down to 30, so
 [u2090 | 02:24:59.120-02:25:01.210 | Seeker] another hit could take me down easily.
@@ -2188,7 +2188,7 @@
 [u2188 | 02:30:17.960-02:30:19.220 | DM] Oh, I'm on it!
 [u2189 | 02:30:20.468-02:30:22.300 | DM] He is going to
 [u2190 | 02:30:25.170-02:30:26.640 | Delwath] Am I next.
-[u2191 | 02:30:28.120-02:30:30.380 | DM] Chelite knight, and then you.
+[u2191 | 02:30:28.120-02:30:30.380 | DM] chalyte knight, and then you.
 [u2192 | 02:30:30.380-02:30:30.990 | Delwath] Okay.
 [u2193 | 02:30:32.120-02:30:34.370 | DM] And then he is going to turn to Seeker.
 [u2194 | 02:30:38.730-02:30:39.700 | Delwath] Actually.
@@ -2205,25 +2205,25 @@
 [u2205 | 02:31:17.224-02:31:17.559 | Seeker] But.
 [u2206 | 02:31:17.560-02:31:21.069 | Delwath] Hold out, Seeker, hold out till Delwath's turn. I can heal you.
 [u2207 | 02:31:21.240-02:31:22.950 | Seeker] Stay in the cylinder. Okay.
-[u2208 | 02:31:24.033-02:31:29.349 | DM] And then the Chelite knight's—he's actually teleflying far enough.
+[u2208 | 02:31:24.033-02:31:29.349 | DM] And then the chalyte knight's—he's actually teleflying far enough.
 [u2209 | 02:31:30.160-02:31:35.090 | Delwath] Oh, man! And oof oof Seeker.
 [u2210 | 02:31:36.110-02:31:37.479 | DM] He'll be like there.
 [u2211 | 02:31:38.280-02:31:40.649 | DM] We'll have to make sure he's oh, no.
 [u2212 | 02:31:42.940-02:31:45.420 | DM] still in range. He'll be there.
 [u2213 | 02:31:47.500-02:31:49.949 | DM] Let me just make sure his teleport is his.
 [u2214 | 02:31:51.410-02:31:54.780 | Delwath] That's I mean, the ranges on here are not super accurate because
-[u2215 | 02:31:56.430-02:32:00.700 | Delwath] he can't, he can't get there. The Chelite knight can't get there, because it's too much.
+[u2215 | 02:31:56.430-02:32:00.700 | Delwath] he can't, he can't get there. The chalyte knight can't get there, because it's too much.
 [u2216 | 02:32:01.710-02:32:03.389 | DM] Oh, right? Because it's different. Has his.
 [u2217 | 02:32:03.660-02:32:04.470 | Delwath] One.
 [u2218 | 02:32:04.470-02:32:09.790 | DM] Bonus action move is 90 feet, anyway. So okay, so he's he's gonna go a little further back
 [u2219 | 02:32:10.490-02:32:12.570 | DM] because he's got 90 feet of move.
 [u2220 | 02:32:15.870-02:32:18.459 | DM] So he was there. Okay, that's perfect.
-[u2221 | 02:32:18.930-02:32:21.690 | DM] Okay, that ends Apollyon's turn. Chelite knight.
-[u2222 | 02:32:23.710-02:32:25.670 | Delwath] I think Chelite knight should charge him, but.
+[u2221 | 02:32:18.930-02:32:21.690 | DM] Okay, that ends Apollyon's turn. chalyte knight.
+[u2222 | 02:32:23.710-02:32:25.670 | Delwath] I think chalyte knight should charge him, but.
 [u2223 | 02:32:26.195-02:32:26.720 | DM] Dash!
 [u2224 | 02:32:26.910-02:32:27.530 | Delwath] Yeah.
 [u2225 | 02:32:28.710-02:32:31.010 | DM] So with Dash he can close to there.
-[u2226 | 02:32:33.170-02:32:35.039 | DM] That ends Chelite Knight's turn.
+[u2226 | 02:32:33.170-02:32:35.039 | DM] That ends chalyte Knight's turn.
 [u2227 | 02:32:37.390-02:32:44.699 | DM] There are no longer 2 lair actions as you've cracked 2 of the pillars, so lair action 2 is gone.
 [u2228 | 02:32:44.860-02:32:45.470 | DM] Delwath.
 [u2229 | 02:32:45.960-02:32:49.020 | Delwath] Seeker. Wait, Riswynn, you're next, right?
@@ -2400,7 +2400,7 @@
 [u2400 | 02:41:58.740-02:41:59.260 | Seeker] It's like.
 [u2401 | 02:41:59.260-02:42:00.380 | DM] And.
 [u2402 | 02:42:00.380-02:42:00.949 | Seeker] 190.
-[u2403 | 02:42:00.950-02:42:03.760 | DM] Oh, the Chelite knight is gone too. Sorry!
+[u2403 | 02:42:00.950-02:42:03.760 | DM] Oh, the chalyte knight is gone too. Sorry!
 [u2404 | 02:42:05.320-02:42:12.400 | DM] How does Dex save? He only had 91 hit points left, and then Apollyon teleports
 [u2405 | 02:42:15.260-02:42:17.569 | DM] here, using his last reaction.
 [u2406 | 02:42:19.070-02:42:19.870 | Kenzo] One dude.
@@ -2419,7 +2419,7 @@
 [u2419 | 02:43:04.560-02:43:06.720 | Kenzo] How do you draw arrows for the distance.
 [u2420 | 02:43:06.720-02:43:07.650 | Delwath] Click, on.
 [u2421 | 02:43:07.650-02:43:08.270 | DM] Click on the little.
-[u2422 | 02:43:08.270-02:43:08.940 | Delwath] Leisure.
+[u2422 | 02:43:08.270-02:43:08.940 | Delwath] Measure.
 [u2423 | 02:43:08.940-02:43:09.420 | DM] As well.
 [u2424 | 02:43:09.420-02:43:09.850 | Delwath] There!
 [u2425 | 02:43:10.220-02:43:11.680 | Seeker] The second to last one. Yeah.
@@ -2430,7 +2430,7 @@
 [u2430 | 02:43:21.990-02:43:23.900 | Kenzo] Oh, yeah, although that's from Wellby. Oh, yeah.
 [u2431 | 02:43:23.900-02:43:25.179 | Delwath] Counting from Wellby. You're fine.
 [u2432 | 02:43:25.180-02:43:31.990 | Kenzo] Yeah, yeah, I'm totally in. I'm totally in. Yeah. Super easy. Okay. Yeah. Kenzo. Saunters over.
-[u2433 | 02:43:34.040-02:43:37.490 | Delwath] Double! Shouted Elvish. He's faster than you.
+[u2433 | 02:43:34.040-02:43:37.490 | Delwath] Delwath! Shouted Elvish. He's faster than you.
 [u2434 | 02:43:40.970-02:43:46.791 | Kenzo] All right, all right, all right, all right, Kenzo. Kenzo gets over there and starts
 [u2435 | 02:43:47.510-02:43:51.879 | Kenzo] channeling all of his, all of Delwath's elvish rage
 [u2436 | 02:43:52.050-02:43:57.930 | Kenzo] for for once, or just for this combat, you know, like really really embracing his inner elf.
@@ -2515,7 +2515,7 @@
 [u2515 | 02:48:10.180-02:48:11.439 | Kenzo] I'm sure he's gonna do just.
 [u2516 | 02:48:11.440-02:48:15.644 | DM] Can't get away from Kenzo. Kenzo's very, very annoying.
 [u2517 | 02:48:16.870-02:48:17.780 | DM] Everything.
-[u2518 | 02:48:17.780-02:48:20.550 | Kenzo] Security attack, opportunity attack.
+[u2518 | 02:48:17.780-02:48:20.550 | Kenzo] Opportunity attack, opportunity attack.
 [u2519 | 02:48:20.930-02:48:26.770 | DM] Well, if he moves, he's going to use his bonus action to teleport, to turn into shadow,
 [u2520 | 02:48:30.404-02:48:32.900 | DM] okay, he needs something.
 [u2521 | 02:48:33.110-02:48:34.089 | Delwath] Come, kill the elf.
@@ -2532,7 +2532,7 @@
 [u2532 | 02:49:14.440-02:49:18.629 | DM] And now does that put Wellby down?
 [u2533 | 02:49:19.190-02:49:20.769 | Wellby] I'm at 73 now. Yep.
 [u2534 | 02:49:21.550-02:49:25.720 | DM] Wait. Oh, you didn't take anything from the okay. He didn't take anything from the.
-[u2535 | 02:49:26.310-02:49:29.779 | DM] And then product image. Okay, he's gonna take one at.
+[u2535 | 02:49:26.310-02:49:29.779 | DM] And then necrotic damage. Okay, he's gonna take one at.
 [u2536 | 02:49:30.330-02:49:36.619 | DM] so he probably wouldn't have bothered with Wellby. But that's okay. I'll let him fire at Wellby. He's going to fire one at Riswynn.
 [u2537 | 02:49:38.710-02:49:40.449 | DM] That's a 30.
 [u2538 | 02:49:40.960-02:49:42.900 | Riswynn] That beat the 23 armor.
@@ -2544,7 +2544,7 @@
 [u2544 | 02:50:09.160-02:50:11.499 | Riswynn] No, I am at 3 whole hit points.
 [u2545 | 02:50:12.210-02:50:12.920 | Wellby] Whoa!
 [u2546 | 02:50:12.920-02:50:14.070 | Riswynn] Hale and hearty.
-[u2547 | 02:50:14.830-02:50:17.880 | DM] Gong. It doesn't. Wanna?
+[u2547 | 02:50:14.830-02:50:17.880 | DM] Kong. It doesn't. Wanna?
 [u2548 | 02:50:18.770-02:50:19.690 | DM] It's very annoying.
 [u2549 | 02:50:19.690-02:50:23.670 | Delwath] No, no, he should. I'm gonna like I'm gonna yell at him like you're ignoring me.
 [u2550 | 02:50:24.120-02:50:26.360 | Delwath] What's wrong with you? I'll like, look bloody.
@@ -2617,7 +2617,7 @@
 [u2617 | 02:54:28.070-02:54:28.780 | Seeker] Okay.
 [u2618 | 02:54:29.400-02:54:32.710 | Delwath] And then I'm just, I'm gonna, I'll just blast him.
 [u2619 | 02:54:33.730-02:54:34.540 | Seeker] Whew! Thank you.
-[u2620 | 02:54:35.050-02:54:36.219 | Kenzo] Death, glow.
+[u2620 | 02:54:35.050-02:54:36.219 | Kenzo] Death blow.
 [u2621 | 02:54:36.730-02:54:39.139 | Delwath] And I'll just blast. Here we go.
 [u2622 | 02:54:41.010-02:54:42.280 | Delwath] First one misses.
 [u2623 | 02:54:42.280-02:54:43.030 | DM] That's.
@@ -2661,11 +2661,11 @@
 [u2661 | 02:56:54.050-02:56:56.809 | Delwath] So he takes 15 more damage from those 3 attacks.
 [u2662 | 02:56:57.030-02:57:02.120 | DM] All right. So Delwath's last blow, good. That made it kind of anticlimactic.
 [u2663 | 02:57:02.514-02:57:04.090 | Delwath] Sorry. I don't know.
-[u2664 | 02:57:04.920-02:57:06.330 | Riswynn] My technicality.
+[u2664 | 02:57:04.920-02:57:06.330 | Riswynn] By technicality.
 [u2665 | 02:57:06.330-02:57:09.920 | Delwath] Technicality. I forgot about my ability.
 [u2666 | 02:57:10.590-02:57:14.070 | DM] So the tanshi comes swooping in. That was.
-[u2667 | 02:57:14.070-02:57:14.460 | Delwath] 8 o'clock.
-[u2668 | 02:57:14.460-02:57:15.090 | Delwath] Fast.
+[u2667 | 02:57:14.070-02:57:14.460 | Delwath] Eldritch.
+[u2668 | 02:57:14.460-02:57:15.090 | Delwath] Blast.
 [u2669 | 02:57:15.090-02:57:19.139 | DM] On the last blast. I'll put all the 15 points of damage exactly.
 [u2670 | 02:57:20.740-02:57:23.680 | DM] The last shot that Delwath fires.
 [u2671 | 02:57:24.453-02:57:25.639 | Delwath] You see.
@@ -2700,7 +2700,7 @@
 [u2700 | 02:59:15.120-02:59:16.230 | Riswynn] No.
 [u2701 | 02:59:17.230-02:59:22.789 | Seeker] The Seeker's a little dazed, gets back up again, runs over to the
 [u2702 | 02:59:23.200-02:59:26.159 | Seeker] the runes on the ground just to take a quick look.
-[u2703 | 02:59:26.660-02:59:27.350 | Kenzo] Hey! Sam.
+[u2703 | 02:59:26.660-02:59:27.350 | Kenzo] Hey! Tim.
 [u2704 | 02:59:27.350-02:59:30.759 | Seeker] Runes are gone. They disappeared when he healed himself. Hey, Tim.
 [u2705 | 02:59:30.880-02:59:31.610 | DM] Yep.
 [u2706 | 02:59:32.120-02:59:33.890 | Kenzo] Can I take everybody to the dream world.
@@ -2733,7 +2733,7 @@
 [u2733 | 03:00:38.720-03:00:39.470 | Seeker] True.
 [u2734 | 03:00:39.760-03:00:43.817 | Delwath] The, the one time we tried, the really crazy teleport you used
 [u2735 | 03:00:44.130-03:00:45.430 | DM] Is your chance to be for that.
-[u2736 | 03:00:45.430-03:00:46.220 | Delwath] Sweeper.
+[u2736 | 03:00:45.430-03:00:46.220 | Delwath] Seeker.
 [u2737 | 03:00:46.220-03:00:47.429 | Seeker] That's right. That's right.
 [u2738 | 03:00:49.450-03:00:51.989 | Delwath] Okay, so is this room falling apart.
 [u2739 | 03:00:51.990-03:00:52.720 | DM] No.
@@ -2750,7 +2750,7 @@
 [u2750 | 03:01:49.960-03:01:52.510 | DM] for the next 4 days at least.
 [u2751 | 03:01:54.200-03:01:56.099 | DM] So now you find yourself
 [u2752 | 03:01:59.670-03:02:08.700 | DM] strangely, with little to do as you contemplate your injuries, some more life-threatening than others.
-[u2753 | 03:02:10.210-03:02:26.159 | Kenzo] Kenzo like, like looks at himself, and it's like totally clean, just like completely like just looks like he was freshly laundered, you know, just like came out of like a song as like, you know, his hair looks really good, and he's just like looking, and he's looking at—he looks over at Seeker, and everybody needs
+[u2753 | 03:02:10.210-03:02:26.159 | Kenzo] Kenzo like, like looks at himself, and it's like totally clean, just like completely like just looks like he was freshly laundered, you know, just like came out of like a salon as like, you know, his hair looks really good, and he's just like looking, and he's looking at—he looks over at Seeker, and everybody needs
 [u2754 | 03:02:26.650-03:02:29.550 | Kenzo] doesn't say anything, but he's just like kind of marveling at, like how how.
 [u2755 | 03:02:29.550-03:02:33.079 | DM] Kenzo also took no damage from the dragon fight, right?
 [u2756 | 03:02:33.080-03:02:40.009 | Kenzo] Yeah, I haven't taken damage in a while in a combat, because when they actually hit me when they hit me, I can reflect and do the fucking. So it's just like.
@@ -2778,7 +2778,7 @@
 [u2778 | 03:03:40.360-03:03:41.440 | Kenzo] Yeah, let's check in.
 [u2779 | 03:03:41.550-03:03:42.829 | Kenzo] How's, how's Tokra?
 [u2780 | 03:03:44.270-03:03:45.750 | DM] Tokra is safe.
-[u2781 | 03:03:46.830-03:03:54.580 | DM] She has received scouting reports that the Stoneborn have reached Tokra and have driven the Chelite assassins out of the city.
+[u2781 | 03:03:46.830-03:03:54.580 | DM] She has received scouting reports that the Stoneborn have reached Tokra and have driven the chalyte assassins out of the city.
 [u2782 | 03:03:56.980-03:04:01.370 | DM] The Chardonians are marching back to Chardon.
 [u2783 | 03:04:03.050-03:04:09.660 | DM] Some splinter group fled to the north and is hiding in the wilderness, but
 [u2784 | 03:04:10.680-03:04:13.670 | DM] at the moment everybody is a bit too.
@@ -2791,14 +2791,14 @@
 [u2791 | 03:05:00.820-03:05:06.230 | DM] No news from Karnas or the navy as of yet.
 [u2792 | 03:05:08.550-03:05:12.960 | DM] Nobody knows what's happening in Darba in the south of the country.
 [u2793 | 03:05:14.970-03:05:19.810 | DM] She sent scouts and messengers, and is hoping to have news in the next day.
-[u2794 | 03:05:26.260-03:05:29.760 | Kenzo] Riswynn? How goes the chelite trade destruction?
+[u2794 | 03:05:26.260-03:05:29.760 | Kenzo] Riswynn? How goes the chalyte trade destruction?
 [u2795 | 03:05:33.000-03:05:36.130 | DM] Well, it's been only a day. There's not that much that's been.
 [u2796 | 03:05:36.850-03:05:38.929 | Kenzo] But it's still happening right like
 [u2797 | 03:05:39.360-03:05:43.630 | Kenzo] there's nothing, nothing, and nothing has occurred that would that would alter that.
 [u2798 | 03:05:44.390-03:05:45.169 | Kenzo] That's fine.
 [u2799 | 03:05:45.170-03:05:50.330 | DM] Riswynn is still attuned to the crown, and still asserting the
-[u2800 | 03:06:00.300-03:06:15.920 | DM] asserting the immorality of chelite, and its anti-Mos Numena anti-divine feeling, and
-[u2801 | 03:06:16.180-03:06:20.520 | DM] various people within the sort of Chelite bureaucracy are
+[u2800 | 03:06:00.300-03:06:15.920 | DM] asserting the immorality of chalyte, and its anti-Mos Numena anti-divine feeling, and
+[u2801 | 03:06:16.180-03:06:20.520 | DM] various people within the sort of chalyte bureaucracy are
 [u2802 | 03:06:21.740-03:06:28.950 | DM] strategizing and planning, but nothing, you know, has immediately changed. Within 36 h.
 [u2803 | 03:06:33.890-03:06:35.200 | Delwath] Are we?
 [u2804 | 03:06:35.680-03:06:41.749 | Delwath] Is the this prison? The cracking of the prison?
@@ -2874,7 +2874,7 @@
 [u2874 | 03:12:05.600-03:12:13.299 | DM] Magistros Midas, the, the ruler of Chardon, at the head of the Chardonian navy,
 [u2875 | 03:12:13.730-03:12:19.420 | DM] has won a great naval victory outside of Darba, and has entered the city.
 [u2876 | 03:12:21.100-03:12:31.479 | DM] Negotiations are proceeding between Midas and Karnas as to the ultimate fate of Darba and the
-[u2877 | 03:12:31.700-03:12:34.920 | DM] Niahar part of Dunmar. But
+[u2877 | 03:12:31.700-03:12:34.920 | DM] Nayan part of Dunmar. But
 [u2878 | 03:12:38.230-03:12:44.379 | DM] the Magistros, uncertain as to what's going on with his legions, and why they have
 [u2879 | 03:12:45.190-03:12:51.930 | DM] left to return to Chardon, and beginning to hear rumors of unrest in Chardon,
 [u2880 | 03:12:52.960-03:12:58.069 | DM] is not interested in remaining long or attempting to conquer any of Dunmar, particularly.
@@ -2884,7 +2884,7 @@
 [u2884 | 03:13:15.510-03:13:22.260 | DM] taking advantage of the chaos caused by a
 [u2885 | 03:13:23.530-03:13:27.279 | DM] battle that broke out between a faction of the
 [u2886 | 03:13:27.550-03:13:34.110 | DM] Mageguard remaining in Chardon and some faculty at the University. The first
-[u2887 | 03:13:35.070-03:13:41.469 | DM] Chelite strike has occurred, and hundreds of pounds of chelite were dumped into the river.
+[u2887 | 03:13:35.070-03:13:41.469 | DM] chalyte strike has occurred, and hundreds of pounds of chalyte were dumped into the river.
 [u2888 | 03:13:43.900-03:13:45.410 | Kenzo] Viva la resistance!
 [u2889 | 03:13:49.820-03:13:51.689 | DM] Another day passes.
 [u2890 | 03:13:52.960-03:13:55.609 | DM] You can feel now the outside world
@@ -2893,7 +2893,7 @@
 [u2893 | 03:14:05.740-03:14:14.880 | DM] You hear news that negotiations are continuing between Karnas and Midas.
 [u2894 | 03:14:15.780-03:14:19.839 | DM] but that Sura has refused to have any part to do with whatever.
 [u2895 | 03:14:20.070-03:14:23.719 | Riswynn] Karnas may negotiate for whatever.
-[u2896 | 03:14:24.640-03:14:29.200 | DM] Status Darba and Niahar may have with respect to Chardon.
+[u2896 | 03:14:24.640-03:14:29.200 | DM] Status Darba and Nayan may have with respect to Chardon.
 [u2897 | 03:14:30.110-03:14:32.989 | DM] and the people of Central Dunmar are behind her.
 [u2898 | 03:14:36.950-03:14:43.360 | DM] Chaos spreads in Chardon. There now seems.
 [u2899 | 03:14:43.550-03:14:49.130 | DM] be a pitched battle between many of the faculty at the University.
@@ -2905,11 +2905,11 @@
 [u2905 | 03:15:18.010-03:15:20.030 | DM] Saying, The
 [u2906 | 03:15:23.030-03:15:26.830 | DM] the god Apollyon, who will return in glory.
 [u2907 | 03:15:28.830-03:15:38.510 | DM] driven out of the city, and in the chaos several {{merchant back}} and
-[u2908 | 03:15:38.930-03:15:47.640 | DM] convoys with news racing north to the chelite mines near Voltara of the unrest in Chardon destroyed.
+[u2908 | 03:15:38.930-03:15:47.640 | DM] convoys with news racing north to the chalyte mines near Voltara of the unrest in Chardon destroyed.
 [u2909 | 03:15:47.920-03:15:51.979 | DM] Although messengers got away, and news will soon reach the
 [u2910 | 03:15:54.260-03:15:54.904 | DM] The
-[u2911 | 03:15:55.970-03:16:07.040 | DM] miner—the sort of mining conglomerates, and most of the chelite is mined far to the north around the city of Voltara, and is shipped south to Chardon for processing.
-[u2912 | 03:16:09.740-03:16:20.040 | DM] Violent reprisals against the striking chelite workers are not fully stopped, and many die.
+[u2911 | 03:15:55.970-03:16:07.040 | DM] miner—the sort of mining conglomerates, and most of the chalyte is mined far to the north around the city of Voltara, and is shipped south to Chardon for processing.
+[u2912 | 03:16:09.740-03:16:20.040 | DM] Violent reprisals against the striking chalyte workers are not fully stopped, and many die.
 [u2913 | 03:16:25.010-03:16:26.899 | DM] Another day passes.
 [u2914 | 03:16:27.690-03:16:33.310 | DM] The 30th of May dawns, and you feel crack.
 [u2915 | 03:16:34.430-03:16:39.880 | DM] and then another, and then another, as the prison ends.
@@ -2925,7 +2925,7 @@
 [u2925 | 03:17:29.260-03:17:32.139 | DM] around this temple is beginning to dissipate.
 [u2926 | 03:17:36.680-03:17:39.220 | DM] The temple itself still stands.
 [u2927 | 03:17:47.870-03:17:58.229 | DM] You arrive on Vindristjarna, accept the congratulations and thanks and cheer of your followers.
-[u2928 | 03:18:02.790-03:18:09.330 | DM] Faldrick says, Yeah, I think even I wouldn't have gone in after you.
+[u2928 | 03:18:02.790-03:18:09.330 | DM] Faldrak says, Yeah, I think even I wouldn't have gone in after you.
 [u2929 | 03:18:09.690-03:18:11.379 | DM] I'm glad you made it out.
 [u2930 | 03:18:16.190-03:18:18.010 | Riswynn] Glad you kept the ship safe.
 [u2931 | 03:18:18.500-03:18:20.279 | Seeker] In some ways it was a close thing.
@@ -3066,8 +3066,8 @@
 [u3066 | 03:28:22.740-03:28:26.960 | DM] And then you see Apollyon standing in life
 [u3067 | 03:28:27.610-03:28:35.489 | DM] standing in front of the doors to this temple, wearing the crown, holding out
 [u3068 | 03:28:35.740-03:28:41.020 | DM] the scepter as bands of magic fly from
-[u3069 | 03:28:42.520-03:28:46.050 | DM] him towards Chamut, flying in the sky above him.
-[u3070 | 03:28:46.190-03:28:51.810 | DM] and as Chamut breathes and rends, the red mist piles around Apollyon.
+[u3069 | 03:28:42.520-03:28:46.050 | DM] him towards Cha'mutte, flying in the sky above him.
+[u3070 | 03:28:46.190-03:28:51.810 | DM] and as Cha'mutte breathes and rends, the red mist piles around Apollyon.
 [u3071 | 03:28:53.090-03:29:00.519 | DM] Strand after strand after strand, hundreds of strands break, thousands of strands break.
 [u3072 | 03:29:03.220-03:29:07.620 | DM] It must be 5, 6, 7, 8,000 people in
 [u3073 | 03:29:07.960-03:29:14.290 | DM] command of Apollyon through this crown die and die and die and die.
@@ -3076,7 +3076,7 @@
 [u3076 | 03:29:28.910-03:29:30.140 | DM] and drinks it
 [u3077 | 03:29:32.670-03:29:38.809 | DM] as the walls of his temple seal up around him, and the crown is tossed from his head
 [u3078 | 03:29:41.360-03:29:50.049 | DM] across Drankor, skipping, and time jumps suddenly back a long time back.
-[u3079 | 03:29:50.780-03:30:00.390 | DM] You don't ever see how Apollyon found it. Back to Hakar.
+[u3079 | 03:29:50.780-03:30:00.390 | DM] You don't ever see how Apollyon found it. Back to Hkar.
 [u3080 | 03:30:03.480-03:30:17.440 | DM] The great War people terrified a giant Armada bearing down on the island.
 [u3081 | 03:30:18.410-03:30:20.489 | DM] Nobody's sure what to do.
 [u3082 | 03:30:24.600-03:30:34.389 | DM] The crown sitting again now a plain iron band on a marble table in a temple.
@@ -3146,7 +3146,7 @@
 [u3146 | 03:35:50.060-03:35:51.140 | Wellby] I think.
 [u3147 | 03:35:51.140-03:35:55.340 | DM] So from a Meta point of view, if you keep the crown, you become an Npc.
 [u3148 | 03:35:55.340-03:35:56.080 | Delwath] Yeah.
-[u3149 | 03:35:56.080-03:35:59.759 | DM] You cannot hold the crown and still be a {{cleric}}.
+[u3149 | 03:35:56.080-03:35:59.759 | DM] You cannot hold the crown and still be a player.
 [u3150 | 03:35:59.760-03:36:06.289 | Delwath] That's kind of what I meant. We can't keep it as a it's not like something an adventuring party can use right.
 [u3151 | 03:36:06.440-03:36:10.709 | Wellby] Like, I think Delwath struggling with that is like a really interesting story point.
 [u3152 | 03:36:11.370-03:36:20.379 | Wellby] But I also think, like any of us struggling with that like, we'll have that same struggle. But then, I also think, like trying to figure out what to do with it like
@@ -3165,7 +3165,7 @@
 [u3165 | 03:37:07.640-03:37:12.490 | Wellby] I don't know if he's faster than Wellby and Kenzo.
 [u3166 | 03:37:12.670-03:37:17.479 | Delwath] Wow! But if nobody was expecting it, I think that it would.
 [u3167 | 03:37:19.170-03:37:19.860 | Wellby] Yeah.
-[u3168 | 03:37:19.860-03:37:21.620 | Wellby] Inspected it for 4 years.
+[u3168 | 03:37:19.860-03:37:21.620 | Wellby] Expected it for 4 years.
 [u3169 | 03:37:21.620-03:37:27.650 | Delwath] That's the reason to have the meta cover right? There's there's no point I have no interest in turning into like a
 [u3170 | 03:37:27.800-03:37:32.569 | Delwath] turning Delwath into a villain, right, like, and having it all be conflict, right? So like
 [u3171 | 03:37:33.340-03:37:34.520 | Delwath] it works, and.
@@ -3244,10 +3244,10 @@
 [u3244 | 03:43:13.980-03:43:15.840 | Delwath] Probably all of existence.
 [u3245 | 03:43:17.730-03:43:22.360 | Seeker] But but humans in particular, at that historic, did that
 [u3246 | 03:43:22.950-03:43:27.390 | Seeker] bottleneck moment in their history they could not have survived without it. Is that true?
-[u3247 | 03:43:27.540-03:43:34.839 | Delwath] Well, there were plenty of humans already off Hakar, but nobody knows why.
+[u3247 | 03:43:27.540-03:43:34.839 | Delwath] Well, there were plenty of humans already off Hkar, but nobody knows why.
 [u3248 | 03:43:36.060-03:43:37.659 | Delwath] I mean there was.
 [u3249 | 03:43:40.150-03:43:45.970 | Delwath] I don't think we have any idea what would have happened if the quote, unquote good guys had lost the downfall.
-[u3250 | 03:43:50.120-03:43:55.289 | Wellby] We've said that matter. We don't know that this was the one deciding factor.
+[u3250 | 03:43:50.120-03:43:55.289 | Wellby] For that matter. We don't know that this was the one deciding factor.
 [u3251 | 03:43:55.290-03:43:55.990 | Delwath] No.
 [u3252 | 03:43:56.890-03:44:00.760 | Wellby] In the history of the thing. In fact, it was. But but with
 [u3253 | 03:44:00.880-03:44:04.069 | Wellby] I mean, it's a counterfactual like. There's no, there's no way of knowing
@@ -3260,7 +3260,7 @@
 [u3260 | 03:44:36.390-03:44:47.760 | Riswynn] We have just averted the worst case in our time frame, and the next noble quest of like
 [u3261 | 03:44:48.420-03:44:53.800 | Riswynn] some number of months to years of like cleanup of like hench people
 [u3262 | 03:44:54.120-03:44:57.520 | Riswynn] is not the noble quest that this crown must.
-[u3263 | 03:44:57.720-03:45:04.579 | Riswynn] or else {{vanity fail}}, like it's just like it'll take us months, or take us 4 months.
+[u3263 | 03:44:57.720-03:45:04.579 | Riswynn] or else humanity fail, like it's just like it'll take us months, or take us 4 months.
 [u3264 | 03:45:05.560-03:45:09.259 | Delwath] Undervalues the lives of everybody who will die.
 [u3265 | 03:45:12.620-03:45:19.500 | Kenzo] Yeah, but I think we can do it without the crown.
 [u3266 | 03:45:19.890-03:45:20.550 | Wellby] Yeah.
@@ -3274,7 +3274,7 @@
 [u3274 | 03:45:54.110-03:46:04.000 | Delwath] But everything we've learned about this says that it's not unable to be used.
 [u3275 | 03:46:04.860-03:46:07.899 | Kenzo] It is, it disappeared for.
 [u3276 | 03:46:08.940-03:46:11.010 | Delwath] No, no, no, no, no! Sorry! I mean.
-[u3277 | 03:46:11.120-03:46:18.940 | Delwath] there's nothing in its history that suggests its uses, corrupting.
+[u3277 | 03:46:11.120-03:46:18.940 | Delwath] there's nothing in its history that suggests its use is corrupting.
 [u3278 | 03:46:21.940-03:46:22.680 | Riswynn] Yes.
 [u3279 | 03:46:23.950-03:46:24.550 | Seeker] T.
 [u3280 | 03:46:24.740-03:46:26.050 | Riswynn] Now is corrupt.
@@ -3303,7 +3303,7 @@
 [u3303 | 03:48:11.830-03:48:18.719 | DM] there's a lot you don't know. There's a lot you are unable to do, right? Basically, you're just taking over what Fausto was doing.
 [u3304 | 03:48:18.910-03:48:19.680 | Riswynn] Right.
 [u3305 | 03:48:20.130-03:48:22.710 | Delwath] Like. Presumably you can't actually make
-[u3306 | 03:48:22.840-03:48:26.779 | Delwath] the circular island walk back to Hakar at this current moment.
+[u3306 | 03:48:22.840-03:48:26.779 | Delwath] the circular island walk back to Hkar at this current moment.
 [u3307 | 03:48:28.950-03:48:29.810 | Delwath] But clearly.
 [u3308 | 03:48:29.950-03:48:32.010 | DM] Something the crown could theoretically.
 [u3309 | 03:48:32.010-03:48:39.339 | Delwath] Crown did do that with proper time and training, and many, many magic things
@@ -3341,10 +3341,10 @@
 [u3341 | 03:51:04.770-03:51:06.189 | Riswynn] Worked, to.
 [u3342 | 03:51:07.790-03:51:11.730 | Delwath] Save all of human civilization.
 [u3343 | 03:51:14.130-03:51:17.329 | Riswynn] Wasn't a wow. But whatever.
-[u3344 | 03:51:17.330-03:51:23.769 | Delwath] Well, no, no, no, no! It was like the vast majority, I mean Hakar was, that was like the circular island that
-[u3345 | 03:51:24.300-03:51:38.649 | Delwath] that we went to in {{Colorado}}, and that was the lifeboat for basically all Chardonians, Sambarans, Drankorians, all like a big swath of humanity, right? Millions and millions of people.
+[u3344 | 03:51:17.330-03:51:23.769 | Delwath] Well, no, no, no, no! It was like the vast majority, I mean Hkar was, that was like the circular island that
+[u3345 | 03:51:24.300-03:51:38.649 | Delwath] that we went to in Colorado, and that was the lifeboat for basically all Chardonians, Sembarans, Drankorians, all like a big swath of humanity, right? Millions and millions of people.
 [u3346 | 03:51:39.880-03:51:44.699 | Delwath] I I don't think we can dismiss this as evil.
-[u3347 | 03:51:45.210-03:51:47.599 | Wellby] No, I don't think it's you. I.
+[u3347 | 03:51:45.210-03:51:47.599 | Wellby] No, I don't think it's evil. I.
 [u3348 | 03:51:47.600-03:51:49.869 | Seeker] I don't think it's evil either. I don't think
 [u3349 | 03:51:49.870-03:51:53.600 | Seeker] any more than those 2 examples. Or are those the 2 main things we know about.
 [u3350 | 03:51:53.960-03:51:55.530 | Delwath] Well, those are the only 2. The mirror showed.
@@ -3365,7 +3365,7 @@
 [u3365 | 03:53:21.600-03:53:28.389 | Seeker] who who carries the memory of events and artifacts over that kind of timescale over thousands of years.
 [u3366 | 03:53:28.620-03:53:33.449 | Kenzo] I mean the one that we're we have some connection to is the stone giant.
 [u3367 | 03:53:35.810-03:53:36.880 | Seeker] Oh, yeah.
-[u3368 | 03:53:37.210-03:53:40.660 | DM] Hrogar, Hrogar would definitely not take it.
+[u3368 | 03:53:37.210-03:53:40.660 | DM] Hralgar, Hralgar would definitely not take it.
 [u3369 | 03:53:41.470-03:53:43.059 | DM] But you also. You can't. I mean.
 [u3370 | 03:53:43.060-03:53:44.780 | Seeker] It's way too small for his head.
 [u3371 | 03:53:44.780-03:53:52.950 | DM] But I just to be clear. The vibe is very you cannot, you cannot leave it unused.
@@ -3378,9 +3378,9 @@
 [u3378 | 03:54:12.180-03:54:13.239 | DM] Or you pick somebody.
 [u3379 | 03:54:13.240-03:54:14.329 | Delwath] Person in the world.
 [u3380 | 03:54:14.330-03:54:17.799 | DM] Who's already an Npc. And try and convince them to attune to it.
-[u3381 | 03:54:17.800-03:54:19.150 | Seeker] Such as Demitar.
+[u3381 | 03:54:17.800-03:54:19.150 | Seeker] Such as Dimitaur.
 [u3382 | 03:54:19.370-03:54:24.329 | Riswynn] Such as, like the people who I'm keep going back to this example. The people who
-[u3383 | 03:54:24.850-03:54:30.209 | Riswynn] set up the circular island we're like a group of 12 wise people.
+[u3383 | 03:54:24.850-03:54:30.209 | Riswynn] set up the circular island were like a group of 12 wise people.
 [u3384 | 03:54:30.210-03:54:32.950 | Delwath] We are a group of 5 wise people.
 [u3385 | 03:54:33.150-03:54:37.580 | Riswynn] We could all become Npcs and just stop playing right now. But.
 [u3386 | 03:54:37.580-03:54:42.279 | DM] We couldn't all. Only one of us could. I think only one person can attune to it. Yeah.
@@ -3403,17 +3403,17 @@
 [u3403 | 03:56:15.690-03:56:23.570 | Kenzo] Riswynn's making an interesting proposal, which is to act as an instrument at the behest of a larger democratic order.
 [u3404 | 03:56:23.930-03:56:28.150 | Seeker] Or a secret world government that we install.
 [u3405 | 03:56:29.050-03:56:31.990 | Delwath] No, that's Delwath's idea now, totally.
-[u3406 | 03:56:31.990-03:56:33.790 | Seeker] Is doubtless.
+[u3406 | 03:56:31.990-03:56:33.790 | Seeker] Is Delwath's.
 [u3407 | 03:56:33.790-03:56:37.460 | Wellby] But I like, I think, I think for Wellby, like coming from
 [u3408 | 03:56:38.110-03:56:51.339 | Wellby] coming from this halfling place, both of like like a semi-communal society, but also with a racial memory that, like both combines and spans individuals like
 [u3409 | 03:56:51.870-03:56:58.359 | Wellby] to me it feels like any use of the crown, any
 [u3410 | 03:56:58.640-03:57:06.590 | Wellby] all of the uses of it, for good and for evil are about cutting off the ability of like the flow of time
 [u3411 | 03:57:07.010-03:57:28.710 | Wellby] to unfold as it's going to. It's about reshaping the world to an individual's will rather than allowing the world to make its own choice about how it's going to unfold itself. And and everything does that right, like the the light spell. Does that in a dark place? Right? It contravenes the world's darkness right? And each individual does it. But
-[u3412 | 03:57:29.380-03:57:51.829 | Wellby] but there's a difference in scale when one individual can have that impact to, to change and shape the choices of thousands for the same reasons that it's bad for Apollyon or Chamut to be able to do that in empire and conquest. Inevitably, even when it's for the good it's cutting off futures that are possible.
+[u3412 | 03:57:29.380-03:57:51.829 | Wellby] but there's a difference in scale when one individual can have that impact to, to change and shape the choices of thousands for the same reasons that it's bad for Apollyon or Cha'mutte to be able to do that in empire and conquest. Inevitably, even when it's for the good it's cutting off futures that are possible.
 [u3413 | 03:57:52.260-03:57:53.260 | Riswynn] That's really.
 [u3414 | 03:57:53.260-03:57:53.780 | Seeker] No.
 [u3415 | 03:57:53.780-03:58:02.380 | Riswynn] But and I want to add that there's only a moment when that's perhaps needed some dire case like
-[u3416 | 03:58:02.660-03:58:05.079 | Riswynn] like Holding island time.
+[u3416 | 03:58:02.660-03:58:05.079 | Riswynn] like walking island time.
 [u3417 | 03:58:05.080-03:58:05.960 | Delwath] See, I.
 [u3418 | 03:58:05.960-03:58:07.140 | Riswynn] There's not, it's not.
 [u3419 | 03:58:07.140-03:58:10.710 | Delwath] I think that I mean
@@ -3550,7 +3550,7 @@
 [u3550 | 04:09:52.080-04:09:54.209 | Delwath] Could a group of 20 I
 [u3551 | 04:09:55.110-04:10:15.320 | Delwath] personally, I don't think Delwath would be interested in a quest to destroy it, and I'm not sure that I would be, right? It seems a bit—you're right, maybe it could be unmade if you like did the right stuff. But we're obviously, we would need to, that would have to become our new party goal is to find a way to unmake this thing. And what do you do with it in the meantime?
 [u3552 | 04:10:17.120-04:10:24.559 | Wellby] Right, which also doesn't sound like metagame interesting as an adventure to go on. But like I think philosophically that's very much where Wellby is.
-[u3553 | 04:10:24.560-04:10:32.129 | Seeker] Honestly, if we'd somehow gotten the cloak and the scepter and the crown at the same time, Finn.
+[u3553 | 04:10:24.560-04:10:32.129 | Seeker] Honestly, if we'd somehow gotten the cloak and the scepter and the crown at the same time, then.
 [u3554 | 04:10:32.240-04:10:34.219 | Seeker] just think what we could have accomplished.
 [u3555 | 04:10:34.220-04:10:37.770 | Delwath] I mean, you know, if
 [u3556 | 04:10:41.940-04:10:48.220 | Delwath] if Wellby was really interested in finding a way to unmake it, and you found one,
@@ -3565,7 +3565,7 @@
 [u3565 | 04:11:23.900-04:11:27.120 | Kenzo] Well, that's what we're going. That's that's 1 of the side quests we're going to. Anyways.
 [u3566 | 04:11:27.120-04:11:29.690 | DM] Oh, yeah, that's your level. 20 adventure.
 [u3567 | 04:11:30.460-04:11:35.970 | Seeker] Idea, though we better hold on to the Crown until.
-[u3568 | 04:11:35.970-04:11:50.289 | Kenzo] Let's just look. I mean, you know, right now, like, do we have to decide this like right this second? Right now it's just happily attuned with Riswynn, where, you know, some good is happening right now with the Chardonians and the chelite. We're gonna learn a little bit more about—we don't decide right now, right this second.
+[u3568 | 04:11:35.970-04:11:50.289 | Kenzo] Let's just look. I mean, you know, right now, like, do we have to decide this like right this second? Right now it's just happily attuned with Riswynn, where, you know, some good is happening right now with the Chardonians and the chalyte. We're gonna learn a little bit more about—we don't decide right now, right this second.
 [u3569 | 04:11:50.290-04:11:51.330 | Delwath] It is 1230.
 [u3570 | 04:11:52.670-04:11:53.199 | Seeker] I don't know.
 [u3571 | 04:11:53.200-04:11:53.920 | Seeker] Easter is with.
@@ -3653,7 +3653,7 @@
 [u3653 | 04:18:21.090-04:18:28.430 | Kenzo] It's still, it's still Riswynn enacting like the will. It's sort of like the 12, the Council, you know. It's like you got, there's still like a larger, a larger body.
 [u3654 | 04:18:29.400-04:18:30.120 | Kenzo] you know.
 [u3655 | 04:18:30.120-04:18:38.799 | DM] If Riswynn does want to take it, an interesting quest from a meta worldbuilding perspective would be to
-[u3656 | 04:18:39.200-04:18:44.050 | DM] {{mess with Thark, Freemore}} orcs.
+[u3656 | 04:18:39.200-04:18:44.050 | DM] mess with Thark, free more orcs.
 [u3657 | 04:18:45.570-04:18:46.279 | Kenzo] May work.
 [u3658 | 04:18:46.950-04:18:49.750 | DM] Into a, into a real {{non}}.
 [u3659 | 04:18:49.750-04:18:50.520 | Delwath] Honestly.
