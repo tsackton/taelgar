@@ -27,8 +27,8 @@
 [u0027 | 00:02:15.270-00:02:16.940 | DM] Enjoy your breakfast.
 [u0028 | 00:02:20.380-00:02:21.949 | DM] Seeker Three leaves.
 [u0029 | 00:02:23.630-00:02:31.060 | DM] So as we begin just to recap in case you don't remember all of the people. So Tiberius.
-[u0030 | 00:02:31.370-00:02:36.770 | DM] close ally of Mitus, {{are a Torian}}
-[u0031 | 00:02:39.020-00:02:49.919 | DM] Auratan. Sorry, not {{a Torian}}, Mitus Auratan, the Magistros, also a powerful wizard in his own right, although not as powerful as Seeker
+[u0030 | 00:02:31.370-00:02:36.770 | DM] close ally of Mitus, are a Torian
+[u0031 | 00:02:39.020-00:02:49.919 | DM] Auratan. Sorry, not a Torian, Mitus Auratan, the Magistros, also a powerful wizard in his own right, although not as powerful as Seeker
 [u0032 | 00:02:50.580-00:02:56.949 | DM] captain of—well, Windcaller, which is not quite the same as captain, although
 [u0033 | 00:02:57.190-00:02:59.950 | DM] in a lot of ways has more control.
 [u0034 | 00:03:01.194-00:03:04.449 | DM] Of the Auratan's Pride.
@@ -72,7 +72,7 @@
 [u0072 | 00:06:51.010-00:06:52.140 | Kenzo] We stayed on the ship.
 [u0073 | 00:06:52.140-00:06:57.110 | DM] The ship, and so you then had time for a more extended conversation about chalyte.
 [u0074 | 00:06:57.110-00:06:59.620 | Kenzo] Okay, got it, got it, got it, got it?
-[u0075 | 00:07:00.750-00:07:01.740 | DM] Come.
+[u0075 | 00:07:00.750-00:07:01.740 | DM] Um.
 [u0076 | 00:07:02.360-00:07:17.649 | DM] and none, I mean Kenzo knows a bit of the vibe of the city, but, like, when you were growing up, you never paid attention to politics like, you know, the you know the slums, you know, the chalyte levels and and the basin and the riverside slums and everything on the north bank.
 [u0077 | 00:07:19.930-00:07:23.380 | Kenzo] So here's a question from the conversation with Tiberius.
 [u0078 | 00:07:24.320-00:07:27.200 | Kenzo] You know, Kenzo is always thinking about
@@ -181,7 +181,7 @@
 [u0181 | 00:17:05.950-00:17:07.590 | DM] No, it's just the 3 of you.
 [u0182 | 00:17:11.609-00:17:15.789 | DM] You're in a private room like nobody else around.
 [u0183 | 00:17:16.689-00:17:32.050 | DM] Waitress comes in and drops off a plate loaded with breakfast eggs and fried smelts and fresh bread.
-[u0184 | 00:17:39.220-00:17:41.760 | Delwath] How's the mood in the {{sub city}}? Wellby?
+[u0184 | 00:17:39.220-00:17:41.760 | Delwath] How's the mood in the sub city? Wellby?
 [u0185 | 00:17:48.140-00:17:51.140 | Wellby] You know, I spent all my time talking with halflings, really, and
 [u0186 | 00:17:51.310-00:17:53.940 | Wellby] we sort of weather the ups and the downs as they come.
 [u0187 | 00:17:54.652-00:17:57.550 | Wellby] So I can't speak for the larger city, but
@@ -218,9 +218,9 @@
 [u0218 | 00:20:51.670-00:20:59.800 | Delwath] Tim, hold on, it wasn't totally clear. Does the Hetaeri Magica have a legal monopoly? Is that? Is that what we're supposed to take from that.
 [u0219 | 00:21:01.270-00:21:04.559 | Delwath] They're the only ones allowed to buy it, or sell? I mean.
 [u0220 | 00:21:09.090-00:21:09.710 | DM] no.
-[u0221 | 00:21:09.710-00:21:11.190 | DM] {{Is that the 4 really}}.
+[u0221 | 00:21:09.710-00:21:11.190 | DM] Is that the 4 really.
 [u0222 | 00:21:11.190-00:21:15.980 | Wellby] The 4 families are the only ones who can mine. It.
-[u0223 | 00:21:16.100-00:21:24.490 | DM] {{Thanks purchasing project}}. The charter monopoly has to do with this with the ore, the dust and the refined.
+[u0223 | 00:21:16.100-00:21:24.490 | DM] Thanks purchasing project. The charter monopoly has to do with this with the ore, the dust and the refined.
 [u0224 | 00:21:25.290-00:21:34.400 | DM] the somehow it's not completely obvious how to Tiberius, or necessarily the Halflings. The Hetaeri Magica
 [u0225 | 00:21:34.700-00:21:44.270 | DM] was the only people who was buying chalyte from the registered chartered sellers.
 [u0226 | 00:21:46.140-00:21:50.330 | DM] and then they were jacking up the price and reselling it around the city.
@@ -249,9 +249,9 @@
 [u0249 | 00:23:53.110-00:23:58.580 | Delwath] So, but he doesn't have plans to do something about it now, or we don't know, or he wouldn't say.
 [u0250 | 00:23:59.890-00:24:00.970 | DM] I mean.
 [u0251 | 00:24:05.740-00:24:07.900 | DM] he's obviously not going to do anything
-[u0252 | 00:24:08.580-00:24:22.749 | DM] against the wishes of the Magistros. He is annoyed at the Magistros, although he acts understanding about the Magistros' reluctance to do anything. He was clearly annoyed about that, but obviously is not going to pursue any {{independence}}.
+[u0252 | 00:24:08.580-00:24:22.749 | DM] against the wishes of the Magistros. He is annoyed at the Magistros, although he acts understanding about the Magistros' reluctance to do anything. He was clearly annoyed about that, but obviously is not going to pursue any independence.
 [u0253 | 00:24:22.750-00:24:23.230 | Delwath] Danny.
-[u0254 | 00:24:24.010-00:24:33.240 | Delwath] So now the Windcallers are the Magistros' {{personal loyalty}}, and they're just waiting for the Magistros to say the rules have changed or not. Basically.
+[u0254 | 00:24:24.010-00:24:33.240 | Delwath] So now the Windcallers are the Magistros' personal loyalty, and they're just waiting for the Magistros to say the rules have changed or not. Basically.
 [u0255 | 00:24:33.500-00:24:34.330 | DM] Exactly.
 [u0256 | 00:24:34.330-00:24:35.020 | Delwath] Yeah.
 [u0257 | 00:24:35.380-00:24:44.819 | Delwath] and they might be internally pressuring you to change something. But it's not like they're motivated to go to the Chamber of Stamps and be like, we're setting up a new organization that meets these rules.
@@ -272,7 +272,7 @@
 [u0272 | 00:25:46.890-00:25:50.083 | Delwath] Has any chalyte actually been sold since
 [u0273 | 00:25:50.750-00:25:53.900 | Delwath] since Fausto came to fight us?
 [u0274 | 00:25:54.210-00:25:57.609 | Wellby] What I hear is nothing. Since the Eightfold Flame protests erupted.
-[u0275 | 00:26:02.830-00:26:06.830 | Delwath] So the whole thing's {{a bit pop}}.
+[u0275 | 00:26:02.830-00:26:06.830 | Delwath] So the whole thing's a bit pop.
 [u0276 | 00:26:08.400-00:26:13.080 | Delwath] So the bureaucrats who control the sale have vanished.
 [u0277 | 00:26:13.430-00:26:15.640 | Delwath] The chalyte has vanished.
 [u0278 | 00:26:17.060-00:26:19.040 | Wellby] Well, the supplies are gone. But I
@@ -304,7 +304,7 @@
 [u0304 | 00:28:40.770-00:28:44.500 | DM] Piled up in a harbor somewhere upriver like well, well.
 [u0305 | 00:28:44.500-00:28:45.150 | Delwath] You know that?
 [u0306 | 00:28:45.150-00:28:45.870 | Delwath] I think.
-[u0307 | 00:28:45.870-00:29:00.199 | DM] You do know that. Remember, everything's vertically integrated. So it's unlikely that the mining families who are the same families who own the refineries would send a bunch of chalyte ore downriver {{into rockets}}.
+[u0307 | 00:28:45.870-00:29:00.199 | DM] You do know that. Remember, everything's vertically integrated. So it's unlikely that the mining families who are the same families who own the refineries would send a bunch of chalyte ore downriver into riots.
 [u0308 | 00:29:06.280-00:29:06.970 | Delwath] Right.
 [u0309 | 00:29:06.970-00:29:16.710 | Wellby] Were the mining families part of what Fausto was controlling, or were they not cleansed but just aligned? Their interests were aligned.
 [u0310 | 00:29:17.970-00:29:23.469 | DM] As as far as you know, from the list that Kenzo made
@@ -588,11 +588,11 @@
 [u0588 | 00:55:55.330-00:55:58.700 | Delwath] other than Kenzo knows who some of them were right.
 [u0589 | 00:56:00.180-00:56:01.690 | Wellby] Maybe Kenzo goes after that.
 [u0590 | 00:56:01.690-00:56:02.500 | DM] Their names.
-[u0591 | 00:56:02.830-00:56:05.080 | Delwath] Yeah. Well, I could just try and describe them.
+[u0591 | 00:56:02.830-00:56:05.080 | Delwath] Yeah. Well, I could just try and scry them.
 [u0592 | 00:56:05.650-00:56:06.389 | Kenzo] There you go!
-[u0593 | 00:56:07.890-00:56:08.550 | Kenzo] Surprise.
+[u0593 | 00:56:07.890-00:56:08.550 | Kenzo] Scry.
 [u0594 | 00:56:08.550-00:56:09.960 | DM] You need is a name.
-[u0595 | 00:56:11.580-00:56:14.409 | Delwath] You need somebody. Yeah, I mean, {{it's my}} they got plus 5.
+[u0595 | 00:56:11.580-00:56:14.409 | Delwath] You need somebody. Yeah, I mean, it's my they got plus 5.
 [u0596 | 00:56:14.410-00:56:14.730 | Delwath] Yes.
 [u0597 | 00:56:15.860-00:56:16.490 | DM] Right.
 [u0598 | 00:56:17.010-00:56:19.170 | Delwath] I mean, I assume Kenzo has
@@ -652,7 +652,7 @@
 [u0652 | 01:00:44.210-01:00:50.890 | DM] So if there's 20,000 people in the slums, you need.
 [u0653 | 01:00:52.430-01:00:53.989 | Delwath] 200 gold a day.
 [u0654 | 01:00:53.990-01:00:55.250 | DM] 200 gold.
-[u0655 | 01:00:55.250-01:00:56.310 | Delwath] {{Every call, today}}.
+[u0655 | 01:00:55.250-01:00:56.310 | Delwath] 200 gold a day.
 [u0656 | 01:00:58.070-01:01:00.689 | DM] So you're talking about, you know.
 [u0657 | 01:01:03.890-01:01:05.860 | Delwath] So like a hundred thousand
 [u0658 | 01:01:06.230-01:01:10.840 | Delwath] would probably keep them going for 6 months easily.
@@ -687,7 +687,7 @@
 [u0687 | 01:03:36.150-01:03:39.040 | Wellby] the only reason why that works is because of the rule of law
 [u0688 | 01:03:39.260-01:03:44.760 | Wellby] like, if the Magistros can decide just to starve the north bank with no repercussions.
 [u0689 | 01:03:45.160-01:03:48.709 | Wellby] a strike fund is not relevant any longer at that point.
-[u0690 | 01:03:48.710-01:03:49.290 | Delwath] Trevor.
+[u0690 | 01:03:48.710-01:03:49.290 | Delwath] True.
 [u0691 | 01:03:49.830-01:03:56.560 | DM] So I like the direction you're thinking. But let me. Yeah, let me just make it clear like
 [u0692 | 01:03:57.070-01:04:02.300 | DM] this could be a. This could be a bargaining chip with the Magistros, if you're like.
 [u0693 | 01:04:03.910-01:04:07.720 | DM] Look, this doesn't have to come out of your treasury, we can help support.
@@ -714,7 +714,7 @@
 [u0714 | 01:05:40.470-01:05:46.660 | Delwath] What what information can we bring to the meeting with the Magistros that he might not already have?
 [u0715 | 01:05:47.040-01:05:52.950 | Delwath] And what can we bring to the meeting with the Magistros that will help guide us towards what he wants.
 [u0716 | 01:05:53.680-01:06:21.069 | Kenzo] Well, I don't think he's got any visibility or understanding about like what's going on with the chalyte refineries, and, like all of it like the working class stuff I don't think he's got. My guess is he probably doesn't have great visibility on what the hell's going on there. I mean? He might have some idea like, Oh, there are these fires happening like he might, I mean, if so, so, here's a question, is that like is the fact that the chalyte industry is now disrupted. How is that impacting the Magistros.
-[u0717 | 01:06:24.404-01:06:25.400 | Delwath] Again, question.
+[u0717 | 01:06:24.404-01:06:25.400 | Delwath] Good question.
 [u0718 | 01:06:25.400-01:06:30.180 | Kenzo] Is he like, oh, is that this is a big deal, is I gotta I gotta get this back online like.
 [u0719 | 01:06:30.180-01:06:34.829 | DM] You know that he's close allies with the Windcallers, and you know that the Windcallers
 [u0720 | 01:06:35.060-01:06:40.819 | DM] themselves rely heavily on chalyte, although everything they've said to you.
@@ -811,7 +811,7 @@
 [u0811 | 01:14:56.560-01:15:02.640 | Delwath] I'm gonna so I'm gonna target whoever seems like the most senior. But I want to know if I'm gonna succeed before I cast this spell.
 [u0812 | 01:15:04.540-01:15:09.469 | DM] Okay, you are not going to succeed on the most senior one.
 [u0813 | 01:15:09.470-01:15:13.279 | Delwath] Okay, and I'll try the next. most senior.
-[u0814 | 01:15:14.640-01:15:19.600 | DM] This one. You don't know if you're going to succeed. Right? Because {{that's what you pay. That's a fail}}.
+[u0814 | 01:15:14.640-01:15:19.600 | DM] This one. You don't know if you're going to succeed. Right? Because that's what you pay. That's a fail.
 [u0815 | 01:15:20.790-01:15:22.589 | DM] Okay, so
 [u0816 | 01:15:26.560-01:15:32.480 | DM] let's see. Let's pick a name for this guy.
 [u0817 | 01:15:38.210-01:15:43.750 | DM] So the second most senior is Gaspar
@@ -938,7 +938,7 @@
 [u0938 | 01:25:37.130-01:25:37.999 | Delwath] Knock on his door.
 [u0939 | 01:25:38.000-01:25:39.860 | DM] How to get information
 [u0940 | 01:25:39.960-01:25:51.990 | DM] show up at his at his estate. So this is. This is on the slopes of Mount Nera, so you can see the like, the bulk of the spur of the obsidian volcano rising to the west.
-[u0941 | 01:25:54.380-01:25:56.640 | Delwath] {{Trick heads on heel conditions}}.
+[u0941 | 01:25:54.380-01:25:56.640 | Delwath] Check Kenzo's heal conditions.
 [u0942 | 01:25:58.890-01:26:01.940 | Delwath] What is? What does Cleansing Touch, when you heal?
 [u0943 | 01:26:04.550-01:26:05.980 | Delwath] Can you heal madness.
 [u0944 | 01:26:07.580-01:26:08.340 | Kenzo] Double check.
@@ -950,7 +950,7 @@
 [u0950 | 01:26:37.650-01:26:38.690 | Delwath] We'll say.
 [u0951 | 01:26:38.690-01:26:46.859 | DM] Somewhat disinclined to let in visitors. Oh, my master is indisposed at the present.
 [u0952 | 01:26:46.860-01:26:52.404 | Delwath] Yes, we. I'll tell him that.
-[u0953 | 01:26:54.940-01:26:59.980 | Delwath] {{That's a good not. True. Why}}, but
+[u0953 | 01:26:54.940-01:26:59.980 | Delwath] That's a good not-true lie, but
 [u0954 | 01:27:05.940-01:27:08.270 | Delwath] I want to tell them that we are
 [u0955 | 01:27:13.210-01:27:19.589 | Delwath] that we are here to that we know his master is is indisposed, and that and I'm
 [u0956 | 01:27:20.400-01:27:23.440 | Delwath] just hold on a second while I sort of. Think of exactly what I'm saying.
@@ -967,8 +967,8 @@
 [u0967 | 01:28:10.810-01:28:12.369 | Delwath] Yeah, yeah, go ahead.
 [u0968 | 01:28:13.240-01:28:14.230 | DM] Roll.
 [u0969 | 01:28:14.890-01:28:22.420 | DM] I don't actually know if this is persuasion or deception, but whichever you feel is more appropriate. I don't know if you have the same plus in both.
-[u0970 | 01:28:22.420-01:28:27.380 | Delwath] Yeah, plus, I have a plus 11 in persuasion and a plus 5. I rolled a {{6, 30}}.
-[u0971 | 01:28:27.380-01:28:33.299 | DM] Yeah. Well, a straight 16, {{5 plus the licenses}}.
+[u0970 | 01:28:22.420-01:28:27.380 | Delwath] Yeah, plus, I have a plus 11 in persuasion and a plus 5. I rolled a 6, 30.
+[u0971 | 01:28:27.380-01:28:33.299 | DM] Yeah. Well, a straight 16, 5 plus the 11 is 16.
 [u0972 | 01:28:33.300-01:28:42.730 | DM] Okay? So 16 with persuasion, he's yeah, I mean, he's he's convinced he's you know, not not.
 [u0973 | 01:28:43.218-01:28:45.660 | DM] He doesn't seem to be particular like.
 [u0974 | 01:28:46.530-01:28:50.740 | DM] you know. If it if you make noise like you might be able to help. He's
@@ -1034,7 +1034,7 @@
 [u1034 | 01:35:21.270-01:35:26.630 | DM] like this is this, this is like what this is too too reminiscent of the past.
 [u1035 | 01:35:27.380-01:35:29.070 | Kenzo] What is too reminiscent of the past.
 [u1036 | 01:35:31.970-01:35:34.850 | DM] Intrusive mental magic.
-[u1037 | 01:35:36.270-01:35:41.129 | DM] {{But what is intrusive? Mentality}}, thought spell.
+[u1037 | 01:35:36.270-01:35:41.129 | DM] But what is intrusive? Mentality, thought spell.
 [u1038 | 01:35:41.130-01:35:52.499 | Kenzo] Oh, okay, okay, oh, so so it's being he's being. He's reacting fear. And he just sorry when I soul sighted him. He's just like a normal dude, right? He's not like a he's not like a level, whatever.
 [u1039 | 01:35:52.830-01:35:54.989 | DM] No, no, he has. No, he's just a normal dude. Yeah.
 [u1040 | 01:35:54.990-01:35:55.460 | Kenzo] He's a civil.
@@ -1088,7 +1088,7 @@
 [u1088 | 01:40:48.570-01:40:52.299 | Delwath] We didn't like keep his head or anything like that. No, no, he did not.
 [u1089 | 01:40:57.110-01:40:58.220 | Delwath] What do you mean?
 [u1090 | 01:40:58.790-01:40:59.950 | Kenzo] When we killed him.
-[u1091 | 01:41:01.800-01:41:02.710 | DM] Wedded! What.
+[u1091 | 01:41:01.800-01:41:02.710 | DM] What did—what?
 [u1092 | 01:41:02.710-01:41:04.609 | Kenzo] What did Fausto have on him when we killed him?
 [u1093 | 01:41:04.610-01:41:06.140 | Delwath] The crown.
 [u1094 | 01:41:06.140-01:41:07.310 | DM] The crown.
@@ -1109,7 +1109,7 @@
 [u1109 | 01:42:07.320-01:42:11.199 | Delwath] Might be a bit to show and that you know.
 [u1110 | 01:42:11.830-01:42:14.240 | DM] Killed most of the. I guess you have, Antonia.
 [u1111 | 01:42:15.340-01:42:18.430 | DM] But she was oh, you have the people who were.
-[u1112 | 01:42:18.430-01:42:19.210 | Delwath] Freight.
+[u1112 | 01:42:18.430-01:42:19.210 | Delwath] Right.
 [u1113 | 01:42:20.500-01:42:23.019 | DM] Yeah. Hektor's in the mirror. Vola's on the ship.
 [u1114 | 01:42:23.282-01:42:24.070 | Delwath] The other 2.
 [u1115 | 01:42:25.030-01:42:26.789 | DM] The other 2 are in Tokra.
@@ -1137,8 +1137,8 @@
 [u1137 | 01:44:33.580-01:44:44.469 | DM] His. His hands are shaking, and and he starts coughing a little bit, but he's yelling more, and he's like waving the servant over.
 [u1138 | 01:44:45.470-01:44:53.260 | DM] and he starts. He grabs the the paper and he starts writing again, and
 [u1139 | 01:44:54.070-01:44:57.920 | DM] he's like trying really hard to like make words, and
-[u1140 | 01:44:58.740-01:45:07.780 | DM] just sort of stops and relaxes himself and begins writing like the {{E}}.
-[u1141 | 01:45:08.210-01:45:09.480 | DM] {{Ow}}.
+[u1140 | 01:44:58.740-01:45:07.780 | DM] just sort of stops and relaxes himself and begins writing like the E.
+[u1141 | 01:45:08.210-01:45:09.480 | DM] Ow.
 [u1142 | 01:45:10.080-01:45:14.960 | DM] The A. R.
 [u1143 | 01:45:15.220-01:45:16.400 | DM] I.
 [u1144 | 01:45:17.200-01:45:20.589 | DM] And then he like underlines it. And what you're
@@ -1218,7 +1218,7 @@
 [u1218 | 01:52:17.815-01:52:23.690 | DM] you know you talk to sailors and merchants and people. There's more grumbling, right, like, you know.
 [u1219 | 01:52:25.390-01:52:29.119 | DM] but it's sort of directionally the same. A lot of the grumblings like,
 [u1220 | 01:52:30.920-01:52:34.729 | DM] you know, he's cut what he pays
-[u1221 | 01:52:35.130-01:52:45.540 | DM] grain merchants from the really. So. There's really productive agricultural land sort of along the river between here and the {{Never}} and Lake Valandros.
+[u1221 | 01:52:35.130-01:52:45.540 | DM] grain merchants from the really. So. There's really productive agricultural land sort of along the river between here and the Nevos and Lake Valandros.
 [u1222 | 01:52:45.880-01:52:49.060 | DM] and he's like cut into the profits of
 [u1223 | 01:52:49.750-01:52:58.419 | DM] the grain merchants in order to lower the price of the grain dole for the people of Chardon.
 [u1224 | 01:53:00.670-01:53:02.711 | DM] you know he's he's not.
@@ -1226,7 +1226,7 @@
 [u1226 | 01:53:09.810-01:53:14.910 | DM] the sort of more cynical people are like. Oh, you know he likes fame.
 [u1227 | 01:53:16.010-01:53:16.430 | Wellby] Hmm.
 [u1228 | 01:53:16.430-01:53:18.789 | DM] He. He's doing it because
-[u1229 | 01:53:20.300-01:53:24.859 | DM] some people are like, yeah, okay, this is like {{how he thinks the situation}}. But other people are like
+[u1229 | 01:53:20.300-01:53:24.859 | DM] some people are like, yeah, okay, this is like how he fixes the situation. But other people are like
 [u1230 | 01:53:26.290-01:53:31.840 | DM] he likes to hear stories of himself as the hero like he's this is the sort of cynical. Take
 [u1231 | 01:53:34.070-01:53:38.049 | DM] But again, it's sort of directionally the same as what the people in the Navy say. It's like.
 [u1232 | 01:53:38.190-01:53:40.779 | DM] The stories you hear are mostly of
@@ -1283,7 +1283,7 @@
 [u1283 | 01:58:35.210-01:58:39.960 | Wellby] meet back, and anything else we want to know out here.
 [u1284 | 01:58:43.700-01:58:45.800 | DM] So so at this point, you know.
 [u1285 | 01:58:50.090-01:58:56.664 | DM] you know, it's like mid afternoon. Wellby has been out sort of for the bulk of the day
-[u1286 | 01:58:57.370-01:59:04.680 | DM] Delwath, and Kenzo are just returning from the {{Nebo's}}, from the Nera Domains, talking to Gaspar.
+[u1286 | 01:58:57.370-01:59:04.680 | DM] Delwath, and Kenzo are just returning from the Nebo's, from the Nera Domains, talking to Gaspar.
 [u1287 | 01:59:05.230-01:59:10.781 | DM] and all 3 of you at the same time get a message, a sending message in your head.
 [u1288 | 01:59:12.050-01:59:14.420 | DM] Apologies for the late notice.
 [u1289 | 01:59:14.640-01:59:18.179 | DM] Tomorrow, 9 Am. Imperial Palace.
@@ -1306,7 +1306,7 @@
 [u1306 | 02:00:51.860-02:00:53.780 | Delwath] The other question would be.
 [u1307 | 02:00:54.680-02:00:56.240 | DM] Got your private room back.
 [u1308 | 02:00:56.480-02:00:58.669 | Delwath] Do we know anything about the
-[u1309 | 02:00:59.040-02:01:02.380 | Delwath] I keep wanting to say, {{Bargallde}}, but what are they called so so.
+[u1309 | 02:00:59.040-02:01:02.380 | Delwath] I keep wanting to say, Bargallde, but what are they called so so.
 [u1310 | 02:01:02.880-02:01:04.020 | DM] Veldari.
 [u1311 | 02:01:04.020-02:01:08.020 | Delwath] Oh, sorry we know anything about the Veldari.
 [u1312 | 02:01:09.720-02:01:11.180 | Wellby] Wait. Who are they? Again? Sorry.
@@ -1351,7 +1351,7 @@
 [u1351 | 02:04:43.010-02:04:49.439 | DM] deal they were. They didn't try and cheat you like. It's not like their factories were safe, but.
 [u1352 | 02:04:50.210-02:04:50.939 | Delwath] This is the.
 [u1353 | 02:04:50.940-02:04:51.510 | DM] So like.
-[u1354 | 02:04:51.750-02:04:53.290 | Delwath] {{Orion}} family. You said.
+[u1354 | 02:04:51.750-02:04:53.290 | Delwath] Orion family. You said.
 [u1355 | 02:04:53.730-02:04:58.800 | DM] The the Caloren and the Auratan are the 2, the 2 sort of
 [u1356 | 02:04:59.820-02:05:07.800 | DM] I mean. The Auratan was the original oligarch, and the Caloren were like their close allies historically.
 [u1357 | 02:05:08.130-02:05:13.790 | DM] And they're both like old patrician families, basically like they're sort of, you know.
@@ -1440,7 +1440,7 @@
 [u1440 | 02:13:38.360-02:13:42.810 | DM] Not atypical, for speaking with heads of state.
 [u1441 | 02:13:43.200-02:13:44.110 | Kenzo] All right. Fine.
 [u1442 | 02:13:44.570-02:13:45.150 | Wellby] Yeah.
-[u1443 | 02:13:45.310-02:13:46.140 | Kenzo] {{Be my staff}}.
+[u1443 | 02:13:45.310-02:13:46.140 | Kenzo] Leave my staff.
 [u1444 | 02:13:46.680-02:13:47.410 | Kenzo] Well.
 [u1445 | 02:13:48.700-02:13:53.630 | DM] I mean Kenzo honestly, is equally dangerous with or without his.
 [u1446 | 02:13:54.000-02:13:56.500 | DM] It makes pretty much no difference.
@@ -1479,7 +1479,7 @@
 [u1479 | 02:16:57.010-02:16:58.030 | Kenzo] Then soul sight.
 [u1480 | 02:17:00.375-02:17:02.399 | DM] Nothing, see nothing.
 [u1481 | 02:17:02.770-02:17:03.740 | Kenzo] Oh!
-[u1482 | 02:17:06.269-02:17:09.949 | Kenzo] {{That is a new, so sad of me}}, and it's fascinating.
+[u1482 | 02:17:06.269-02:17:09.949 | Kenzo] That is a new soul sight for me, and it's fascinating.
 [u1483 | 02:17:12.820-02:17:14.559 | DM] He is wearing several rings.
 [u1484 | 02:17:15.330-02:17:16.080 | Kenzo] How many.
 [u1485 | 02:17:16.879-02:17:17.859 | DM] 3 rings.
@@ -1492,7 +1492,7 @@
 [u1492 | 02:18:17.930-02:18:18.260 | DM] Right.
 [u1493 | 02:18:18.260-02:18:20.170 | Kenzo] And he's like, Oh, shit! That was really cool.
 [u1494 | 02:18:20.389-02:18:30.900 | Kenzo] And so then I was with like Jen and her friend, and they were. They were like drinking a little bit, and then, like, you know, they had dinner earlier, and then, like we were talking for talking, and then I ended up doing.
-[u1495 | 02:18:32.059-02:18:35.569 | Delwath] Our cat caught a mouse, and {{data}} did not want to deal with it.
+[u1495 | 02:18:32.059-02:18:35.569 | Delwath] Our cat caught a mouse, and data did not want to deal with it.
 [u1496 | 02:18:36.020-02:18:49.726 | Kenzo] Nice nice Mike, while we were taking. I was just very quickly. I was just telling him about like after last session. I did a little mini DM for Jen and her her friend and I basically played out the scene where the 2 of them were Druids and they
 [u1497 | 02:18:50.250-02:18:54.789 | Kenzo] and they they one of them could like talk to inside, and I had it so. Each one had a familiar like one.
 [u1498 | 02:18:54.790-02:18:55.240 | Delwath] Yeah.
@@ -1639,7 +1639,7 @@
 [u1639 | 02:32:23.215-02:32:27.310 | Kenzo] I could see within Gaspar at least, the wounded
 [u1640 | 02:32:28.910-02:32:32.920 | Kenzo] kind of inner soul, as it were, and
 [u1641 | 02:32:33.310-02:32:35.680 | Kenzo] would be happy to speak with your priests about
-[u1642 | 02:32:36.290-02:32:39.810 | Kenzo] ways to more quickly {{heal those recovery}}.
+[u1642 | 02:32:36.290-02:32:39.810 | Kenzo] ways to more quickly heal those recovery.
 [u1643 | 02:32:42.810-02:32:44.430 | DM] He he! He!
 [u1644 | 02:32:45.130-02:32:46.500 | DM] On the the
 [u1645 | 02:32:46.610-02:32:54.690 | DM] arm of this sort of fancy chair not quite throne. He sort of picks up what looks like a small polished stone.
@@ -1680,7 +1680,7 @@
 [u1680 | 02:36:30.210-02:36:34.670 | DM] Yeah, definitely. He's not a scholar right? Like he knows some details, but.
 [u1681 | 02:36:36.600-02:36:39.610 | Delwath] But also tell them what we know about like
 [u1682 | 02:36:40.560-02:36:45.820 | Delwath] where Apollyon came from, and Apollyon, sort of ultimate.
-[u1683 | 02:36:48.610-02:36:56.160 | Delwath] the the origins that we know of on this part of the idea that, like {{forever, we}} Drankorian sort of.
+[u1683 | 02:36:48.610-02:36:56.160 | Delwath] the the origins that we know of on this part of the idea that, like forever, we Drankorian sort of.
 [u1684 | 02:36:57.080-02:36:58.680 | DM] Right, right.
 [u1685 | 02:36:58.680-02:37:01.840 | Delwath] Where that came from, and you know that.
 [u1686 | 02:37:06.060-02:37:09.270 | Delwath] I wonder. I wonder. I wonder if he is he rich?
@@ -1688,7 +1688,7 @@
 [u1688 | 02:37:12.120-02:37:16.430 | Delwath] Yeah. I wonder if he wants any of our like cool artifacts that we don't have any good use for.
 [u1689 | 02:37:16.430-02:37:22.159 | Wellby] I think it'd be a really good thing to give him some like ancient art.
 [u1690 | 02:37:22.860-02:37:26.020 | Delwath] Yeah, like, like, you know, I'll mention
-[u1691 | 02:37:26.360-02:37:31.059 | Delwath] {{how may}} I'll tell them about the Circular Island, actually, why not? We'll tell them everything we know. I'll tell them what we know about.
+[u1691 | 02:37:26.360-02:37:31.059 | Delwath] how may I'll tell them about the Circular Island, actually, why not? We'll tell them everything we know. I'll tell them what we know about.
 [u1692 | 02:37:31.060-02:37:32.019 | Kenzo] What? What the fuck.
 [u1693 | 02:37:32.020-02:37:33.329 | Wellby] No, no, no, no!
 [u1694 | 02:37:33.330-02:37:34.019 | Wellby] The second one.
@@ -1905,7 +1905,7 @@
 [u1905 | 02:58:13.920-02:58:15.230 | DM] We have.
 [u1906 | 02:58:15.770-02:58:16.619 | Kenzo] Any luck.
 [u1907 | 02:58:19.610-02:58:20.950 | DM] Maybe.
-[u1908 | 02:58:21.900-02:58:23.420 | Kenzo] {{Do you say it's not}}.
+[u1908 | 02:58:21.900-02:58:23.420 | Kenzo] Do you say it's not.
 [u1909 | 02:58:30.350-02:58:39.810 | DM] There was an expedition before my time, early in my aunt's rule as Magistros
 [u1910 | 02:58:40.580-02:58:47.600 | DM] to the what the You, what the Dunmari call the Chataan Mountains, near north of Darba.
 [u1911 | 02:58:48.190-02:58:49.959 | DM] southern edge of the Empire.
@@ -1918,7 +1918,7 @@
 [u1918 | 02:59:36.690-02:59:45.040 | DM] and at the time did not seem worth the effort or the expense of trying to
 [u1919 | 02:59:47.330-02:59:55.880 | DM] infiltrate or destroy this emperor of giants who seemed to control chalyte.
 [u1920 | 02:59:56.720-03:00:04.739 | DM] We have long suspected that there is chalyte in the Chataan Mountains.
-[u1921 | 03:00:08.220-03:00:09.770 | Kenzo] {{Well, 20}}. Where's this.
+[u1921 | 03:00:08.220-03:00:09.770 | Kenzo] Well, Tim. Where's this.
 [u1922 | 03:00:11.133-03:00:18.709 | DM] It's like the the mountain range that's just north of Darba. That sort of separates Chardon from Dunmar.
 [u1923 | 03:00:27.710-03:00:28.970 | Kenzo] Yeah keep talking.
 [u1924 | 03:00:30.300-03:00:31.340 | DM] That said.
@@ -2084,7 +2084,7 @@
 [u2084 | 03:18:48.370-03:18:50.140 | Kenzo] What do you mean? Figure out what we're doing like? Go.
 [u2085 | 03:18:50.140-03:18:50.650 | Delwath] That.
 [u2086 | 03:18:50.650-03:18:52.040 | Kenzo] You go, execute the plan.
-[u2087 | 03:18:52.040-03:18:58.430 | Delwath] Yeah. Well, to get to make the plan slightly less {{fresh}}, so that we could retreat
+[u2087 | 03:18:52.040-03:18:58.430 | Delwath] Yeah. Well, to get to make the plan slightly less fresh, so that we could retreat
 [u2088 | 03:18:59.490-03:19:06.519 | Delwath] if we go down towards the Giants and decide. It's like insane and too difficult. And we're all gonna die right. If everything
 [u2089 | 03:19:07.560-03:19:08.350 | Delwath] wet.
 [u2090 | 03:19:08.350-03:19:09.550 | Kenzo] Tim just told us it's not.
@@ -2092,7 +2092,7 @@
 [u2092 | 03:19:12.860-03:19:13.710 | Kenzo] Yeah, but.
 [u2093 | 03:19:13.710-03:19:17.989 | Delwath] I guess I was thinking about this when when I thought Tim might have been setting us up to.
 [u2094 | 03:19:18.264-03:19:24.310 | Kenzo] We can choose what we want to do here like. But it's not gonna like we're we're like, gonna die right? So.
-[u2095 | 03:19:24.310-03:19:26.560 | Delwath] {{Still think it would be crazy to}}
+[u2095 | 03:19:24.310-03:19:26.560 | Delwath] Still think it would be crazy to
 [u2096 | 03:19:26.890-03:19:30.569 | Delwath] try to establish a little bit more of a lasting peace
 [u2097 | 03:19:30.960-03:19:33.900 | Delwath] right a month or so of like
 [u2098 | 03:19:34.330-03:19:37.530 | Delwath] of like no riots, no barricades, no.
@@ -2154,7 +2154,7 @@
 [u2154 | 03:23:23.770-03:23:28.180 | Kenzo] we we I mean, it's as long as you want. We could kill the giants. It's how, how complex do you want the fight?
 [u2155 | 03:23:28.180-03:23:31.359 | DM] Yeah, it's like, it's like 2 sessions. Probably.
 [u2156 | 03:23:31.700-03:23:34.289 | Delwath] But I'm happy to start the next session like.
-[u2157 | 03:23:35.400-03:23:41.050 | DM] What I'm proposing is, let's start the next session, like in transit, {{perfect}}, the giants roughly.
+[u2157 | 03:23:35.400-03:23:41.050 | DM] What I'm proposing is, let's start the next session, like in transit, perfect, the giants roughly.
 [u2158 | 03:23:41.050-03:23:41.619 | Kenzo] That's great!
 [u2159 | 03:23:41.620-03:23:50.199 | DM] And I'll just assume the next couple of days in Chardon are like buying rings of fire resistance, and this sort of careful negotiation with the
 [u2160 | 03:23:51.150-03:23:54.279 | DM] with Red. And people just to like, you know.
@@ -2180,7 +2180,7 @@
 [u2180 | 03:25:49.210-03:25:51.119 | DM] so you'll have his. You'll have
 [u2181 | 03:25:51.340-03:25:56.289 | DM] some of his magic to help out. He just won't get spell slots back so.
 [u2182 | 03:25:57.210-03:25:58.220 | Kenzo] All right.
-[u2183 | 03:25:58.480-03:25:58.969 | DM] Hi! There!
+[u2183 | 03:25:58.480-03:25:58.969 | DM] Bye there!
 [u2184 | 03:25:58.970-03:25:59.590 | DM] Everybody!
 [u2185 | 03:25:59.590-03:26:00.070 | Delwath] Awesome.
 [u2186 | 03:26:00.070-03:26:00.540 | Delwath] Right.
