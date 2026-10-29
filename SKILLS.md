@@ -2,7 +2,7 @@
 
 Last reviewed: **2026-10-29**
 
-This guide covers the 27 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 29 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -22,9 +22,15 @@ For transcript products, use **process-transcript** once a raw transcript or ses
 
 ### Individual session stages
 
-For an optional smaller input to interaction extraction, use [prepare-interaction-transcript](.agents/skills/prepare-interaction-transcript/SKILL.md) after polished Markdown exists. It creates only `<stem>-interactions-draft.md`, preserves meaningful speech and lore, and replaces routine combat/mechanics/chatter with `((rolls))`-style labels retaining every original UID span. Metadata is limited to format version, session YAML path, and polished-source hash; snips need no separate records. Restoring an edited turn recovers its complete polished text. Example: “Make a conservative in-world draft from Dunmar 10’s polished transcript,” or “Replace dice arithmetic with `((rolls))` while keeping the surrounding lore.” Original transcripts and session YAML remain unchanged; this experimental derivative is not yet wired into the interaction extractor.
+For an optional smaller input to interaction extraction, use [prepare-interaction-transcript](.agents/skills/prepare-interaction-transcript/SKILL.md) after polished Markdown exists. It creates only `<stem>-interactions-draft.md`, preserves meaningful speech and lore, and replaces routine combat/mechanics/chatter with `((rolls))`-style labels retaining every original UID span. Ambiguous remarks remain even beside technical chatter. Metadata is limited to format version, session YAML path, and polished-source hash; snips need no separate records. Restoring an edited turn recovers its complete polished text. Example: “Make a conservative in-world draft from Dunmar 10’s polished transcript,” or “Replace dice arithmetic with `((rolls))` while keeping the surrounding lore.” Original transcripts and session YAML remain unchanged; this experimental derivative is not yet wired into the interaction extractor.
 
-These are normally called by the session pipeline, except for the optional transcript polisher after the recap. Use them directly when you want one stage, rather than the whole process.
+For provisional scene indexing and the key session-date validation, use [map-transcript-scenes](.agents/skills/map-transcript-scenes/SKILL.md) after polishing, optionally with an interactions draft as a reading view. It checks transcript chronology using YAML as the calendar anchor, leads review with conflicts or material timeline uncertainty, accounts for every UID as a scene or contextual passage, and renders a compact table on demand. An unstated spoken calendar date alone is not a review concern. It preserves source files and YAML, and does not generate entities, interactions, or recaps. Example: “Map this session's scenes and check its YAML dates against the transcript.” Its scene map feeds entity checking and v7 candidate projection; final interaction generation is still to integrate.
+
+For entity identity and vault-link checking, use [check-session-entities](.agents/skills/check-session-entities/SKILL.md) after scene mapping. It inventories NPCs, divine beings, significant items, and organizations, verifies candidate pages against original speech, and gives an entity-first review with confidence and meaningful exclusions. Divine/NPC inventories can be viewed separately. It reuses YAML and the scene map without generating interactions or changing source files. Example: “Check the entities in this session,” or “Show the evidence for entity e003.”
+
+These new stages are experimental; assisted review and Obsidian integration are unfinished. The [pipeline and model contract](.agents/skills/check-session-entities/references/pipeline-model.md) documents current scene/entity maps and the concrete v7 `session.json` schema, including divine entities and contextual mentions. A read-only helper validates v7 or projects current maps into a candidate; it does not generate interactions, apply human decisions, or publish final outputs.
+
+The stages below are normally called by the session pipeline, except for the optional transcript polisher after the recap. Use them directly when you want one stage, rather than the whole process.
 
 | Skill | What it does | Example use case |
 | --- | --- | --- |

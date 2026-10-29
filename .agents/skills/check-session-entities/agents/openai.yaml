@@ -1,0 +1,4 @@
+interface:
+  display_name: "Check Session Entities"
+  short_description: "Check entity identities and vault links using existing scene maps"
+  default_prompt: "Use $check-session-entities to identify NPCs, divine beings, significant items, and organizations in this session. Track religious mentions as divine entities without inferring direct encounters; keep clergy as NPCs. Reuse its YAML and scene map, verify original evidence and vault matches, preserve ambiguity, and show an entity-first review with meaningful exclusions. Do not generate interactions or change source files."
