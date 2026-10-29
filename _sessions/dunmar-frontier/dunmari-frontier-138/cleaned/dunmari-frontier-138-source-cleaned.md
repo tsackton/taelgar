@@ -58,7 +58,7 @@
 [u0058 | 00:03:06.621-00:03:09.081 | Delwath] The nodule of chaos that caused this whole problem.
 [u0059 | 00:03:09.941-00:03:12.221 | Kenzo] Oh, so we think it's like an actual, like physical artifact?
 [u0060 | 00:03:12.221-00:03:12.641 | Wellby] We need to like-
-[u0061 | 00:03:12.681-00:03:13.341 | DM] Water organ
+[u0061 | 00:03:12.681-00:03:13.341 | DM] Or an organ
 [u0062 | 00:03:13.341-00:03:16.021 | Wellby] ... like to x-ray the whole thing to understand.
 [u0063 | 00:03:16.921-00:03:18.421 | Kenzo] Well, it's kind of, kind of how the...
 [u0064 | 00:03:20.301-00:03:23.461 | Kenzo] Yeah. I'm sure we have the right kind of a metal mapper at least.
@@ -131,7 +131,7 @@
 [u0131 | 00:06:53.515-00:06:56.975 | Wellby] And so that all serves to just kill the ooze and then
 [u0132 | 00:06:59.055-00:07:00.875 | Wellby] deal with the thing once the ooze is dead?
 [u0133 | 00:07:02.955-00:07:03.415 | Unknown] Well, I guess...
-[u0134 | 00:07:04.715-00:07:07.515 | Wellby] But if you, you know, if it's the Dread Mutagen, then
+[u0134 | 00:07:04.715-00:07:07.515 | Wellby] But if you, you know, if it's the driver mutation, then
 [u0135 | 00:07:08.535-00:07:09.915 | Wellby] the rest of it's already grown.
 [u0136 | 00:07:09.915-00:07:10.355 | Wellby] Like...
 [u0137 | 00:07:10.374-00:07:11.475 | Delwath] But it's unclear...
@@ -360,7 +360,7 @@
 [u0360 | 00:16:28.731-00:16:30.331 | Unknown] Oh, 20. Sorry.
 [u0361 | 00:16:30.411-00:16:33.251 | Kenzo] Oh, yeah. I got a, um, also a really high
 [u0362 | 00:16:34.631-00:16:36.371 | Seeker] initiative modifier is 20.
-[u0363 | 00:16:36.591-00:16:37.851 | Unknown] Wait, should we bring up the Paraceratops?
+[u0363 | 00:16:36.591-00:16:37.851 | Unknown] Wait, should we bring up the Triceratops?
 [u0364 | 00:16:38.591-00:16:38.871 | Unknown] Oh, 31.
 [u0365 | 00:16:38.871-00:16:40.791 | DM] Can't. Seven-day recharge.
 [u0366 | 00:16:40.871-00:16:41.411 | Unknown] Oh.
@@ -583,7 +583,7 @@
 [u0583 | 00:23:26.218-00:23:27.698 | Seeker] So it just has the singular damage types.
 [u0584 | 00:23:28.538-00:23:30.338 | Delwath] Yeah, which is tough as leviathans.
 [u0585 | 00:23:31.498-00:23:31.778 | Unknown] But so-
-[u0586 | 00:23:31.838-00:23:32.558 | Kenzo] It's also omnilugent
+[u0586 | 00:23:31.838-00:23:32.558 | Kenzo] It's also only bludgeoning
 [u0587 | 00:23:32.558-00:23:35.298 | Delwath] ... and acid, but presumably permanently immune to acid.
 [u0588 | 00:23:35.298-00:23:36.818 | DM] You know it's immune to acid.
 [u0589 | 00:23:37.238-00:23:37.578 | Unknown] Yeah.
@@ -1002,12 +1002,12 @@
 [u1002 | 00:36:50.080-00:36:51.400 | DM] That fails.
 [u1003 | 00:36:51.400-00:36:51.760 | Unknown] Um,
 [u1004 | 00:36:53.460-00:36:56.040 | Delwath] I have bardic. I think bardic's a better-
-[u1005 | 00:36:56.080-00:36:56.860 | Wellby] Just do it. Make it restraint
+[u1005 | 00:36:56.080-00:36:56.860 | Wellby] Just do it. Might get restrained
 [u1006 | 00:36:56.860-00:36:58.300 | Delwath] ... 'cause it was like a, a-
 [u1007 | 00:36:58.300-00:36:59.760 | Wellby] A glob of slime or a net of slime?
 [u1008 | 00:37:00.460-00:37:02.520 | Unknown] Um, this one looks like a glob of slime
 [u1009 | 00:37:02.720-00:37:03.160 | Unknown] No, I'm using-
-[u1010 | 00:37:03.180-00:37:04.380 | Wellby] This quest will restrain you anyways.
+[u1010 | 00:37:03.180-00:37:04.380 | Wellby] This could still restrain you anyways.
 [u1011 | 00:37:04.960-00:37:06.180 | Delwath] Ah, no, it's 28.
 [u1012 | 00:37:06.760-00:37:08.680 | DM] 28 succeeds. You dodge out of the way.
 [u1013 | 00:37:10.080-00:37:12.960 | DM] Uh, oh, you do still take nine points of acid damage,
@@ -1044,7 +1044,7 @@
 [u1044 | 00:38:21.260-00:38:22.180 | Delwath] I'm 10 feet away.
 [u1045 | 00:38:23.020-00:38:24.380 | DM] Yeah, you're within 60 feet-
 [u1046 | 00:38:24.500-00:38:24.560 | Unknown] Okay
-[u1047 | 00:38:24.560-00:38:26.140 | DM] ... so the acid spray still hits it.
+[u1047 | 00:38:24.560-00:38:26.140 | DM] ... so the acid spray still hits you.
 [u1048 | 00:38:27.200-00:38:27.340 | Unknown] Yeah.
 [u1049 | 00:38:28.580-00:38:28.920 | DM] Do what?
 [u1050 | 00:38:29.080-00:38:33.260 | Seeker] I was thinking about trying to i- incapacitate it with Rune of Psychic Disruption-
@@ -1066,7 +1066,7 @@
 [u1066 | 00:39:09.160-00:39:12.001 | Kenzo] All right. So yeah, I will do the Psychic Disruption.
 [u1067 | 00:39:12.001-00:39:13.461 | Wellby] Nice. It's immune to exhaustion
 [u1068 | 00:39:13.961-00:39:14.941 | DM] It's immune to exhaustion
-[u1069 | 00:39:15.061-00:39:16.021 | Seeker] And to save, you can empty.
+[u1069 | 00:39:15.061-00:39:16.021 | Seeker] Int save, DC 20.
 [u1070 | 00:39:18.021-00:39:18.301 | DM] Uh,
 [u1071 | 00:39:19.421-00:39:21.101 | DM] it burns a legendary resistance.
 [u1072 | 00:39:21.121-00:39:21.681 | Wellby] Nice.
@@ -1260,7 +1260,7 @@
 [u1260 | 00:45:18.659-00:45:20.159 | DM] Yeah. [laughs] Jesus. Okay.
 [u1261 | 00:45:20.179-00:45:24.559 | DM] Well, I'm calculating this with a spreadsheet, so 18, 14, just tell me what the 6d 12 are.
 [u1262 | 00:45:26.199-00:45:28.799 | Kenzo] Okay. So 6d 1, 2, 3, 4...
-[u1263 | 00:45:28.799-00:45:29.679 | Kenzo] Wait, is somewhere.
+[u1263 | 00:45:28.799-00:45:29.679 | Kenzo] Wait, it's somewhere.
 [u1264 | 00:45:30.419-00:45:31.719 | DM] Yeah, that should be 20. That's a 12.
 [u1265 | 00:45:31.719-00:45:36.419 | Kenzo] Yeah, yeah, yeah.
 [u1266 | 00:45:36.419-00:45:37.819 | Kenzo] [dice rolling] Okay. If, uh...
@@ -1550,7 +1550,7 @@
 [u1550 | 00:54:36.273-00:54:38.113 | DM] You've burned one legendary resistance, yeah
 [u1551 | 00:54:38.273-00:54:40.233 | Kenzo] Yeah, make it do some other unsavvy things
 [u1552 | 00:54:42.457-00:54:43.697 | Seeker] Versus just trying to move a lot more
-[u1553 | 00:54:43.837-00:54:46.297 | DM] And wait, Dal- you were the last one to attack it.
+[u1553 | 00:54:43.837-00:54:46.297 | DM] And wait, Del- you were the last one to attack it.
 [u1554 | 00:54:46.316-00:54:46.457 | Unknown] Yes, I did.
 [u1555 | 00:54:46.457-00:54:48.077 | DM] So it's currently immune to slashing.
 [u1556 | 00:54:49.557-00:54:49.997 | Unknown] Currently what?
@@ -2760,7 +2760,7 @@
 [u2760 | 01:33:58.906-01:33:59.406 | Unknown] Oh, shit.
 [u2761 | 01:34:01.106-01:34:02.646 | DM] Uh, you take
 [u2762 | 01:34:03.806-01:34:03.966 | DM] 69-
-[u2763 | 01:34:03.986-01:34:06.426 | Wellby] Probably this other call auto kicks in if you're in the air
+[u2763 | 01:34:03.986-01:34:06.426 | Wellby] Probably this feather fall auto kicks in if you're in the air
 [u2764 | 01:34:06.426-01:34:08.406 | Delwath] ... C- can you, you can, you can dodge it.
 [u2765 | 01:34:09.066-01:34:09.366 | Unknown] Oh, I can.
 [u2766 | 01:34:09.366-01:34:09.626 | Kenzo] Right?
@@ -3656,7 +3656,7 @@
 [u3656 | 02:00:22.331-02:00:23.591 | DM] You have to be Seeker to use the glove.
 [u3657 | 02:00:23.651-02:00:27.531 | Seeker] Yes. And remove my, um, shapechange.
 [u3658 | 02:00:29.251-02:00:30.151 | Unknown] Be brave, Seeker.
-[u3659 | 02:00:30.151-02:00:35.731 | Seeker] [laughs] When I use the Glove of Crystalized Magic to convert the damage type to thunder of...
+[u3659 | 02:00:30.151-02:00:35.731 | Seeker] [laughs] When I use the Glove of Crystallized Magic to convert the damage type to thunder of...
 [u3660 | 02:00:38.231-02:00:39.151 | Delwath] Eighth level chain lightning.
 [u3661 | 02:00:39.591-02:00:40.151 | Unknown] Eighth level.
 [u3662 | 02:00:40.191-02:00:41.431 | DM] Well, it doesn't scale.
@@ -4217,7 +4217,7 @@
 [u4217 | 02:16:55.678-02:16:56.418 | Wellby] So is it 100%?
 [u4218 | 02:16:56.958-02:16:58.218 | DM] Yeah, it's guaranteed if you,
 [u4219 | 02:16:59.258-02:16:59.458 | DM] um-
-[u4220 | 02:16:59.718-02:17:01.118 | Unknown] Sover. No.
+[u4220 | 02:16:59.718-02:17:01.118 | Unknown] Sober. No.
 [u4221 | 02:17:01.178-02:17:02.038 | Unknown] I'm just too good at this.
 [u4222 | 02:17:02.378-02:17:02.858 | DM] Yeah.
 [u4223 | 02:17:02.858-02:17:04.818 | Unknown] [laughs]
