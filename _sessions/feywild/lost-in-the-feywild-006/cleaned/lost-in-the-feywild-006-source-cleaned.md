@@ -7,7 +7,7 @@
 [u0007 | 00:00:33.410-00:00:34.009 | Kaito Min] I'm just so on track.
 [u0008 | 00:00:34.010-00:00:34.730 | DM] Correct.
 [u0009 | 00:00:34.730-00:00:37.030 | Kaito Min] Keep staring at this robot in the room, in the library.
-[u0010 | 00:00:37.030-00:00:40.469 | DM] this party of misfits from Tolin.
+[u0010 | 00:00:37.030-00:00:40.469 | DM] this party of misfits from Tollen.
 [u0011 | 00:00:41.350-00:00:52.590 | DM] were engaged by, Lord Hulda to go through a door in his basement and break a treaty held by the man on the other side. They go through.
 [u0012 | 00:00:53.010-00:01:02.139 | DM] Finding that on the other side is a fey lord who has been tricked into an agreement with his neighbor up the road.
 [u0013 | 00:01:02.660-00:01:07.389 | DM] who turns out to have been the head of a Drankorian society.
@@ -37,7 +37,7 @@
 [u0037 | 00:04:39.880-00:04:54.379 | DM] Importantly, I'll remind this because he's not here this session, picks up a desk-sized clock that is working and tracks and, you know, shows you the year and the coordinate location of where you are in each room that you move through.
 [u0038 | 00:04:54.470-00:05:05.860 | DM] Or, excuse me, shows you the year and coordinate location of the central prison room, location, each time you step from one room to another.
 [u0039 | 00:05:05.970-00:05:19.990 | DM] In the next room, it's one of those big mechanical rooms, and you hear the transcriptions of, something with an unending, thirst for
-[u0040 | 00:05:19.990-00:05:27.219 | DM] Dreamers are full of souls, something that's fallen in love with them and just can't, like an addict, get enough of it.
+[u0040 | 00:05:19.990-00:05:27.219 | DM] Dreamers, or for souls, something that's fallen in love with them and just can't, like an addict, get enough of it.
 [u0041 | 00:05:27.560-00:05:46.510 | DM] In the next room, it's an animal experimentation lab, and there are mushroom men there who attack Menestheus, wound him very badly, actually drop him below zero, but you rescue him, killing and burning both infected bodies, but Menestheus is…
 [u0042 | 00:05:46.600-00:05:48.030 | DM] Infected.
 [u0043 | 00:05:48.160-00:05:50.859 | DM] And
@@ -90,7 +90,7 @@
 [u0090 | 00:12:28.260-00:12:48.029 | Kaito Min] infinite time, and these weird puzzles, and everything that's going on. It's both alienating, but also weirdly a return to something deeper and more ancient, connected to his elven heritage, which, in many ways, he may have been running from, or just kind of ignoring, or not thinking about.
 [u0091 | 00:12:48.180-00:12:51.150 | Kaito Min] As he's been engaging in this sort of,
 [u0092 | 00:12:51.890-00:12:56.280 | Kaito Min] Human samsara of, like, money and…
-[u0093 | 00:12:56.570-00:13:05.770 | Kaito Min] ego, and just living this kind of weird, Tolin lifestyle, and so… He also is feeling…
+[u0093 | 00:12:56.570-00:13:05.770 | Kaito Min] ego, and just living this kind of weird, Tollen lifestyle, and so… He also is feeling…
 [u0094 | 00:13:08.690-00:13:13.219 | Kaito Min] Confused and shaken up by this whole experience, but also…
 [u0095 | 00:13:13.390-00:13:24.509 | Kaito Min] It's like, it also… like, this all could end really well, and he could all kind of, like, wake up a little bit from what he's been doing and think a little bit more deeply about his life, or not. So we'll see what happens.
 [u0096 | 00:13:24.630-00:13:29.619 | Kaito Min] But for now, he's… he's, you know, also glancing at his… at his companions, and…
@@ -105,7 +105,7 @@
 [u0105 | 00:14:32.860-00:14:45.330 | Edric] He feels like there's an enemy here, and having smashed the mushroom men is feeling energized by that sense of something to fight.
 [u0106 | 00:14:45.330-00:14:56.770 | Edric] Which is more his natural habitat than puzzles and mysteries and strange things to do. Longer term, he's…
 [u0107 | 00:14:58.730-00:15:04.890 | Edric] More convinced than ever that The Night Queen must have a purpose for him.
-[u0108 | 00:15:06.060-00:15:17.020 | Edric] But he is… not sure that this… wandering across the plains… It's really it.
+[u0108 | 00:15:06.060-00:15:17.020 | Edric] But he is… not sure that this… wandering across the planes… It's really it.
 [u0109 | 00:15:17.860-00:15:19.629 | Edric] And he's wondering a little bit.
 [u0110 | 00:15:20.590-00:15:22.990 | Edric] How he ended up here.
 [u0111 | 00:15:23.440-00:15:34.450 | Edric] And… I'm not really questioning the mercenary life exactly, but… But… thinking… Thoughts that maybe…
@@ -125,7 +125,7 @@
 [u0125 | 00:17:20.730-00:17:26.830 | Ayveen] I don't know if this society that gave Menestheus so much, you know, confidence that they knew what they were doing.
 [u0126 | 00:17:27.060-00:17:29.089 | Ayveen] Would really be helpful if they were…
 [u0127 | 00:17:29.370-00:17:36.240 | Ayveen] Less represented by just one crazy mushroom breeder. And,
-[u0128 | 00:17:36.930-00:17:45.260 | Ayveen] out of his element, mathematician, but I don't know, maybe Tolin has some sort of wise secret societies that need… need volunteers.
+[u0128 | 00:17:36.930-00:17:45.260 | Ayveen] out of his element, mathematician, but I don't know, maybe Tollen has some sort of wise secret societies that need… need volunteers.
 [u0129 | 00:17:46.900-00:17:52.910 | Ayveen] I don't know, just… it might be nice to be part of something that has some clarity and direction.
 [u0130 | 00:17:58.820-00:18:02.910 | Edric] The aimlessness is really wearing on all of us, it sounds.
 [u0131 | 00:18:05.030-00:18:07.559 | DM] It makes me so happy. I just… I love it.
@@ -135,7 +135,7 @@
 [u0135 | 00:18:22.200-00:18:32.729 | DM] which is the moment of Feywild, has become such a part of the, I don't know, the mind state of each of the characters. That's…
 [u0136 | 00:18:33.020-00:18:34.770 | DM] Makes me really happy.
 [u0137 | 00:18:35.310-00:18:38.090 | DM] I mean, in a tragic, doomed sort of way, but…
-[u0138 | 00:18:43.670-00:18:46.279 | Ayveen] Project Doom made manifest great.
+[u0138 | 00:18:43.670-00:18:46.279 | Ayveen] Tragic doom made manifest great.
 [u0139 | 00:18:46.830-00:18:47.385 | DM] Yeah.
 [u0140 | 00:18:49.140-00:18:55.109 | DM] Can we quick, put our heads together? How do we want to, handle Tarek this session?
 [u0141 | 00:18:57.680-00:19:00.299 | Txarro] Usually, the simplest way is to just…
@@ -207,7 +207,7 @@
 [u0207 | 00:25:13.070-00:25:19.549 | Txarro] We haven't heard any… we don't… there's nothing obvious that I'm missing about what we've learned about the glass key, is that correct?
 [u0208 | 00:25:20.300-00:25:21.720 | DM] Correct.
 [u0209 | 00:25:21.720-00:25:28.950 | Ayveen] Yeah, it got a lot more complicated when you two got infected, because otherwise we were just gonna take the key and…
-[u0210 | 00:25:29.140-00:25:36.570 | Ayveen] go out to, like, Menestheus knew where there were other portals back to Kaldar, and just travel the Feywild.
+[u0210 | 00:25:29.140-00:25:36.570 | Ayveen] go out to, like, Menestheus knew where there were other portals back to Taelgar, and just travel the Feywild.
 [u0211 | 00:25:37.460-00:25:46.000 | Ayveen] to, like, some… freely access… freely accessible portal home, and leave… behind us.
 [u0212 | 00:25:46.000-00:25:51.919 | Txarro] And our… our understanding, although it might be wrong, is if we take the key.
 [u0213 | 00:25:52.070-00:25:56.090 | Txarro] But don't destroy it, or give it to…
@@ -294,8 +294,8 @@
 [u0294 | 00:32:23.410-00:32:25.750 | DM] And I write a story about who you are.
 [u0295 | 00:32:27.050-00:32:30.660 | Kaito Min] That is amazing. Who were the last people that you met before us?
 [u0296 | 00:32:34.720-00:32:49.159 | DM] you hear the sound of… of whirring and clicking as the computation begins to unfold. And actually, I want to pause there and go over to Tarek, if there's… if there's anything that…
-[u0297 | 00:32:49.370-00:32:50.449 | DM] That you wouldn't do.
-[u0298 | 00:32:51.470-00:32:52.510 | Txarro] You mean a drink?
+[u0297 | 00:32:49.370-00:32:50.449 | DM] That you want to do.
+[u0298 | 00:32:51.470-00:32:52.510 | Txarro] You mean Edric?
 [u0299 | 00:32:52.510-00:32:54.879 | DM] Yeah, yeah, sorry, sorry, Edric, yeah.
 [u0300 | 00:32:55.990-00:32:59.860 | Edric] Edric has really… not.
 [u0301 | 00:33:01.310-00:33:03.020 | Edric] He's kind of pacing around.
@@ -330,7 +330,7 @@
 [u0330 | 00:36:03.710-00:36:14.579 | DM] This one, in fact, she left it here. This is part of the frustration of not having arms or legs. I can't reshelve the books. And he nods towards a book that's been left on the desk in front of him.
 [u0331 | 00:36:16.500-00:36:17.769 | Kaito Min] Would you like me to…
 [u0332 | 00:36:19.610-00:36:26.139 | DM] I would appreciate that. It's the third row back, the second shelf on the left, Second from the bottom.
-[u0333 | 00:36:26.140-00:36:27.400 | Txarro] is the book.
+[u0333 | 00:36:26.140-00:36:27.400 | Txarro] What is the book?
 [u0334 | 00:36:27.400-00:36:28.720 | Ayveen] Why did she want it?
 [u0335 | 00:36:30.420-00:36:40.270 | DM] It's called Allegories for the Initiated. It's a collection of, stories…
 [u0336 | 00:36:41.290-00:36:43.949 | DM] Meant for members of the Order.
@@ -486,21 +486,21 @@
 [u0486 | 00:49:45.030-00:49:50.260 | DM] That you could bind a soul to a phylactery to create a lich form.
 [u0487 | 00:49:50.440-00:49:58.690 | DM] But the author seems to think that even that application is still basic in terms of what's possible.
 [u0488 | 00:49:59.000-00:50:07.670 | DM] He says on one page, one can drink from a stream, but the wise man builds a water wheel and binds the force of moving water to use.
-[u0489 | 00:50:07.980-00:50:27.850 | DM] Such a phylactery is like a millstone set to the water of souls useful, but only the barest beginning of the possible. Imagine, for example, a golem or automaton powered by such mode of force. Imagine, for example, anything possible powered by a captive soul.
-[u0490 | 00:50:28.380-00:50:34.870 | DM] And it's motion trying to move elsewhere, but forever prevented from doing so.
+[u0489 | 00:50:07.980-00:50:27.850 | DM] Such a phylactery is like a millstone set to the water of souls useful, but only the barest beginning of the possible. Imagine, for example, a golem or automaton powered by such motive force. Imagine, for example, anything possible powered by a captive soul.
+[u0490 | 00:50:28.380-00:50:34.870 | DM] And its motion trying to move elsewhere, but forever prevented from doing so.
 [u0491 | 00:50:38.200-00:50:41.760 | DM] The automaton pipes up and says,
 [u0492 | 00:50:42.260-00:50:50.820 | DM] There's one other note in this book that I think may be applicable to the exit from the inside of the room. Check page 225.
 [u0493 | 00:50:51.430-00:50:52.509 | Kaito Min] Of the same book.
 [u0494 | 00:50:52.510-00:51:10.090 | DM] 225 in the same book is a long passage on what the, the author is talking about entities that are soul hoarders, and speaking of them incredibly disparagingly, collectors of souls who don't put them to use.
 [u0495 | 00:51:10.090-00:51:12.700 | DM] doing things.
-[u0496 | 00:51:12.930-00:51:20.229 | DM] There's one passage which says, a soul hoarder is like the great worm whose horde lust has become its master.
-[u0497 | 00:51:20.340-00:51:33.679 | DM] Whether it be the spice-scented timbers of Eloria, or the gold-wrought statues through which the forest people wish to fashion a new god, the worm sits on its treasure neither using nor destroying it.
-[u0498 | 00:51:33.790-00:51:45.229 | DM] And it goes on to say, Eucostus relates a story on a scroll since destroyed, that Yendela once met a sojourner who had themself escaped from such a soul horde.
+[u0496 | 00:51:12.930-00:51:20.229 | DM] There's one passage which says, a soul hoarder is like the great wyrm whose hoard lust has become its master.
+[u0497 | 00:51:20.340-00:51:33.679 | DM] Whether it be the spice-scented timbers of Illoria, or the gold-wrought statues through which the forest people wish to fashion a new god, the wyrm sits on its treasure neither using nor destroying it.
+[u0498 | 00:51:33.790-00:51:45.229 | DM] And it goes on to say, Eucaustis relates a story on a scroll since destroyed, that Yendalo once met a sojourner who had themself escaped from such a soul hoard.
 [u0499 | 00:51:45.230-00:51:58.320 | DM] The door to which sits inside a tree root beyond the setting sun. Leaving aside the veracity of such a story, I will comment merely on the absurdity and waste that such fecundity of soul energy should sit idle.
 [u0500 | 00:51:59.880-00:52:04.360 | Kaito Min] Kaito Min's like, who wrote this book? He looks at the cover. Who's the author of the book?
 [u0501 | 00:52:04.910-00:52:09.230 | DM] Some Arithrimos Lamperum person centuries ago.
 [u0502 | 00:52:09.750-00:52:15.910 | Kaito Min] What's the relationship between the author of this book and the creation of this whole, place that we are in?
-[u0503 | 00:52:16.350-00:52:17.680 | Kaito Min] And by the way, what's her name?
+[u0503 | 00:52:16.350-00:52:17.680 | Kaito Min] And by the way, what's your name?
 [u0504 | 00:52:20.020-00:52:21.989 | DM] I'm a research assistant.
 [u0505 | 00:52:23.210-00:52:24.630 | DM] I was never given a name.
 [u0506 | 00:52:25.110-00:52:26.119 | Kaito Min] Would you like a name?
@@ -602,8 +602,8 @@
 [u0602 | 01:00:13.040-01:00:17.089 | DM] Listen… A lot of wizards did a lot of weird shit, right?
 [u0603 | 01:00:17.710-01:00:19.540 | DM] You saw the fungus, lady.
 [u0604 | 01:00:21.110-01:00:22.650 | DM] That's not my department.
-[u0605 | 01:00:27.800-01:00:30.180 | Edric] She seemed to be telling the truth.
-[u0606 | 01:00:31.060-01:00:32.459 | DM] You're really insane.
+[u0605 | 01:00:27.800-01:00:30.180 | Edric] Does he seem to be telling the truth?
+[u0606 | 01:00:31.060-01:00:32.459 | DM] Give me an Insight.
 [u0607 | 01:00:36.680-01:00:38.510 | Edric] See, like…
 [u0608 | 01:00:51.820-01:00:52.840 | Edric] 21.
 [u0609 | 01:00:54.420-01:00:58.930 | DM] yeah. Yeah. It… it… he…
@@ -700,7 +700,7 @@
 [u0700 | 01:09:41.100-01:09:46.999 | Txarro] Mine said, on my screen, it looked like 18. Anyway, it's an 8, so I probably don't know.
 [u0701 | 01:09:49.040-01:09:52.529 | Txarro] That's weird.
 [u0702 | 01:09:53.310-01:09:54.970 | DM] Yeah, you can re-roll if you want.
-[u0703 | 01:09:56.740-01:09:58.220 | Txarro] Where did that look like?
+[u0703 | 01:09:56.740-01:09:58.220 | Txarro] What did that look like?
 [u0704 | 01:09:59.370-01:10:02.859 | Txarro] That's a 15, so that's a 19.
 [u0705 | 01:10:05.520-01:10:07.020 | DM] With a 19.
 [u0706 | 01:10:08.380-01:10:20.030 | DM] you are… pretty confident that Lesser Restoration would resolve your symptoms, but you are not at all confident
@@ -762,7 +762,7 @@
 [u0762 | 01:14:26.270-01:14:35.709 | Kaito Min] I'm cool with that. Is that… but don't… we don't have… don't we… we… freeing it is not going in the door, or freeing it is going in the door? Somebody help me with this.
 [u0763 | 01:14:35.990-01:14:37.100 | Txarro] We don't really know.
 [u0764 | 01:14:37.100-01:14:38.059 | Edric] We don't really know.
-[u0765 | 01:14:38.060-01:14:40.040 | Ayveen] Appropriate either way.
+[u0765 | 01:14:38.060-01:14:40.040 | Ayveen] Or free it either way?
 [u0766 | 01:14:40.040-01:14:42.789 | Edric] Possibly either one would be a possibility.
 [u0767 | 01:14:42.960-01:14:53.020 | Edric] for freeing it, we're not… we don't know… I guess explicitly. We don't know very clearly what's happening here.
 [u0768 | 01:14:53.020-01:14:55.480 | Ayveen] It feels like there might be two flavors of freeing it.
@@ -853,12 +853,12 @@
 [u0853 | 01:20:54.740-01:20:56.490 | DM] She did not live in a house.
 [u0854 | 01:20:56.620-01:20:58.749 | DM] But sat beside the one gate
 [u0855 | 01:20:59.020-01:21:05.149 | DM] Which sits in the fence that divides night from day, the twilight gate that keeps the two apart from each other.
-[u0856 | 01:21:06.390-01:21:22.159 | DM] Each time a bright sun was born, it passed through the world, and over the village, and through the gate into the darkness to the place where all stars go after they've gone out, and each time the old woman would open the gate and gently greet her son by its name as it went through.
-[u0857 | 01:21:22.850-01:21:27.740 | DM] Until one day, a boy in the village fell in love with the sons that went by.
+[u0856 | 01:21:06.390-01:21:22.159 | DM] Each time a bright sun was born, it passed through the world, and over the village, and through the gate into the darkness to the place where all stars go after they've gone out, and each time the old woman would open the gate and gently greet her sun by its name as it went through.
+[u0857 | 01:21:22.850-01:21:27.740 | DM] Until one day, a boy in the village fell in love with the suns that went by.
 [u0858 | 01:21:28.330-01:21:32.539 | DM] All day long he watched them, and cried when they passed beyond his sight.
 [u0859 | 01:21:33.040-01:21:44.849 | DM] So he fashioned a net at the end of a tall pole, and caught the sun as it passed, and put it in a box just for himself, not knowing that the old woman was waiting for her child at the gate that divides night from day.
 [u0860 | 01:21:46.170-01:21:51.440 | DM] What is the purpose of a trustworthy friend under that twilight sky?
-[u0861 | 01:21:52.880-01:21:58.240 | DM] How would one be a friend to the old woman, and to the son, and to the boy?
+[u0861 | 01:21:52.880-01:21:58.240 | DM] How would one be a friend to the old woman, and to the sun, and to the boy?
 [u0862 | 01:22:01.530-01:22:03.820 | DM] Whose story is next?
 [u0863 | 01:22:07.000-01:22:09.209 | DM] Kaito Min.
 [u0864 | 01:22:09.330-01:22:13.250 | DM] I will tell you a story about reason and consequence and purpose.
@@ -888,7 +888,7 @@
 [u0888 | 01:24:36.630-01:24:42.630 | DM] Row after row of saplings grew up straight and strong and upright and beautiful.
 [u0889 | 01:24:43.370-01:24:51.909 | DM] The forester would walk down the rows of trees and sigh with contentment, because everything was right and in its rightful place.
 [u0890 | 01:24:52.080-01:25:07.349 | DM] When the tree lost a branch in the storm, she would bandage it. When another needed healing, she would heal it and help them grow strong again. And when they grew sad at the thought of one day being cut down, she would help them remember that all things which have a beginning have an ending.
-[u0891 | 01:25:08.950-01:25:14.859 | DM] But a storm that started on a distant ocean… Slivered the leaves with hail.
+[u0891 | 01:25:08.950-01:25:14.859 | DM] But a storm that started on a distant ocean… Silvered the leaves with hail.
 [u0892 | 01:25:14.990-01:25:26.499 | DM] And burned the branches with lightning, and overturned the trunks with wind, so the forester packed her bag, and put on her warm, clean coat, and tucked her dagger into her belt, and went looking for another forest.
 [u0893 | 01:25:26.850-01:25:39.790 | DM] For a place where everything made sense and the trees grew right, where she could tend a new grove in straight lines as it grew secure and upright and strong and beautiful and orderly.
 [u0894 | 01:25:40.590-01:25:42.350 | DM] Where she could tend a new growth.
@@ -945,8 +945,8 @@
 [u0945 | 01:29:43.680-01:29:44.350 | Kaito Min] Great.
 [u0946 | 01:29:46.550-01:29:47.890 | DM] Okay.
 [u0947 | 01:29:48.510-01:29:54.090 | DM] You cross through the library.
-[u0948 | 01:29:55.600-01:29:59.010 | DM] Pass the stacks and the shelves.
-[u0949 | 01:30:00.610-01:30:06.780 | DM] you notice, in passing as you go, there's a whole shelf of books on cosmology by Ashara Ven.
+[u0948 | 01:29:55.600-01:29:59.010 | DM] Past the stacks and the shelves.
+[u0949 | 01:30:00.610-01:30:06.780 | DM] you notice, in passing as you go, there's a whole shelf of books on cosmology by Ishara Venn.
 [u0950 | 01:30:06.780-01:30:07.660 | Kaito Min] It's mandatory.
 [u0951 | 01:30:07.660-01:30:11.950 | DM] coded and annotated and cross-referenced commentary of Upon the Fractured Earth.
 [u0952 | 01:30:12.090-01:30:19.100 | DM] There's one shelf, which is just Journey of the Souls, a commentary in five volumes, immediately followed by Journey of the Souls: A Refutation…
@@ -955,7 +955,7 @@
 [u0955 | 01:30:26.700-01:30:31.779 | Txarro] recent? Like, from long after Drankor fell? Or no?
 [u0956 | 01:30:32.740-01:30:34.400 | Txarro] I don't know whether you're dropping…
 [u0957 | 01:30:34.840-01:30:40.770 | Txarro] I don't know whether you… okay, maybe… maybe Txarro doesn't know, so it doesn't matter anyway. Yeah, yeah.
-[u0958 | 01:30:40.770-01:30:45.630 | DM] it just as flavor. That's… that's more… more Easter eggs for the… for the real fans.
+[u0958 | 01:30:40.770-01:30:45.630 | DM] It's just as flavor. That's… that's more… more Easter eggs for the… for the real fans.
 [u0959 | 01:30:47.260-01:30:53.389 | DM] Tim, you need to add the dates of composition to your book entries in Taelgarverse, is the real takeaway here.
 [u0960 | 01:30:53.390-01:30:54.490 | Ayveen] They're not…
 [u0961 | 01:30:54.490-01:30:58.919 | Txarro] Wait… Oh, oh, this is all stuff, you probably were looking.
@@ -963,7 +963,7 @@
 [u0963 | 01:31:04.450-01:31:06.589 | Edric] Like, I woke up this afternoon, okay, cool.
 [u0964 | 01:31:08.070-01:31:09.380 | Txarro] Oh, that one doesn't.
 [u0965 | 01:31:10.190-01:31:14.610 | Txarro] This one does. So, I haven't invented dates for everything yet.
-[u0966 | 01:31:16.420-01:31:19.449 | DM] Oh, you're right about Ashara, then… okay.
+[u0966 | 01:31:16.420-01:31:19.449 | DM] Oh, you're right about Ishara, then… okay.
 [u0967 | 01:31:20.310-01:31:21.159 | Edric] Oh, yeah, yeah.
 [u0968 | 01:31:21.160-01:31:23.879 | DM] Well, I'll stand by Journey of the Souls, at least.
 [u0969 | 01:31:26.000-01:31:32.630 | DM] The Riven Veil! There's a whole shelf devoted to the works of Marcion of Iridel.
@@ -1032,7 +1032,7 @@
 [u1032 | 01:37:07.270-01:37:08.560 | Txarro] is usually…
 [u1033 | 01:37:10.110-01:37:12.869 | Edric] I mean, Edric often goes through things first, but I don't know.
 [u1034 | 01:37:12.870-01:37:20.649 | Txarro] Edric at the front, Tarek… Txarro or Tarek in the back, because they have decent perception.
-[u1035 | 01:37:21.250-01:37:26.379 | Txarro] The other one of those two second, and the two barbs in the safe spots in the middle.
+[u1035 | 01:37:21.250-01:37:26.379 | Txarro] The other one of those two second, and the two bards in the safe spots in the middle.
 [u1036 | 01:37:29.960-01:37:35.689 | Txarro] I will say, for simplicity, since Eric's not here, Txarro is in back.
 [u1037 | 01:37:36.130-01:37:40.279 | Txarro] Keeping watch on what's behind us. Tarek is second.
 [u1038 | 01:37:43.150-01:37:52.609 | DM] When you, when you head over, Txarro, you realize
@@ -1059,7 +1059,7 @@
 [u1059 | 01:39:16.000-01:39:17.959 | Txarro] One of those little micro-lizards.
 [u1060 | 01:39:19.360-01:39:23.220 | Txarro] So I… but I can climb on… I can climb on walls, too, so…
 [u1061 | 01:39:23.220-01:39:28.719 | DM] It still didn't hit, and he's far enough behind you that if you all want to hustle through the door and slam it behind you, you certainly can.
-[u1062 | 01:39:28.720-01:39:29.990 | Edric] We didn't accept that.
+[u1062 | 01:39:28.720-01:39:29.990 | Edric] We do exactly that.
 [u1063 | 01:39:29.990-01:39:32.980 | Ayveen] Does that mean you dropped the… Aurae?
 [u1064 | 01:39:32.980-01:39:36.590 | Kaito Min] No, already strapped onto the… we jury-rigged a thing.
 [u1065 | 01:39:36.590-01:39:37.330 | DM] Aurae's the backpack.
@@ -1112,7 +1112,7 @@
 [u1112 | 01:41:54.820-01:42:00.419 | Kaito Min] We'll see, but then it's gonna be Kaito Min's, like, goal to reanimate it, and it's gonna be a whole adventure.
 [u1113 | 01:42:00.420-01:42:01.120 | Edric] Yeah.
 [u1114 | 01:42:01.280-01:42:01.870 | Edric] Sounds like…
-[u1115 | 01:42:01.870-01:42:09.439 | Txarro] And then, eventually, Seeker is gonna meet Kaito Min, and then Vindra Sharna's gonna have a talking AI head.
+[u1115 | 01:42:01.870-01:42:09.439 | Txarro] And then, eventually, Seeker is gonna meet Kaito Min, and then Vindristjarna's gonna have a talking AI head.
 [u1116 | 01:42:09.640-01:42:12.419 | Kaito Min] Yeah, all of these things are true, yes.
 [u1117 | 01:42:14.670-01:42:15.740 | Edric] Yeah?
 [u1118 | 01:42:15.740-01:42:16.580 | Kaito Min] Awesome.
@@ -1120,9 +1120,9 @@
 [u1120 | 01:42:16.970-01:42:17.590 | Txarro] Okay. Awesome.
 [u1121 | 01:42:17.590-01:42:22.220 | Edric] Alright, I'm gonna go to bed, since we ended early, because I was tired, so… night, everyone.
 [u1122 | 01:42:22.220-01:42:23.750 | Txarro] Next week.
-[u1123 | 01:42:25.750-01:42:32.030 | Txarro] Kong and I are gonna figure some stuff out now, so we can have a very efficient Session Zero for Dragonettes.
+[u1123 | 01:42:25.750-01:42:32.030 | Txarro] Kong and I are gonna figure some stuff out now, so we can have a very efficient Session Zero for Dragonets.
 [u1124 | 01:42:32.630-01:42:33.100 | Edric] Are we…
-[u1125 | 01:42:33.820-01:42:42.670 | Edric] wait, super quickly, sorry, I know I just said I was gonna… is there, like, some idea? Are we, like, running with classes and stuff? Like, what should we be thinking about for a Dragonite character?
+[u1125 | 01:42:33.820-01:42:42.670 | Edric] wait, super quickly, sorry, I know I just said I was gonna… is there, like, some idea? Are we, like, running with classes and stuff? Like, what should we be thinking about for a dragonet character?
 [u1126 | 01:42:42.670-01:42:47.930 | Txarro] That's what I… that's what I'm gonna figure out… that's what Kong and I are gonna figure out right now, and we'll text people.
 [u1127 | 01:42:48.420-01:42:49.310 | Edric] Text us, okay.
 [u1128 | 01:42:49.310-01:42:51.299 | Kaito Min] Yeah, but worldbuilding…
