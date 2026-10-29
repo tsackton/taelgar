@@ -208,7 +208,7 @@
 [u0208 | 00:16:55.370-00:17:04.010 | Heska] This dream having shifted to the meal quite hungry and looks over at Zeno, and says…
 [u0209 | 00:17:06.700-00:17:08.439 | Heska] You want to start a band?
 [u0210 | 00:17:10.060-00:17:10.589 | DM] I think.
-[u0211 | 00:17:10.599-00:17:11.269 | Zeno] yet.
+[u0211 | 00:17:10.599-00:17:11.269 | Zeno] Yeah.
 [u0212 | 00:17:11.270-00:17:14.870 | Heska] Maybe a restaurant too. What do you think?
 [u0213 | 00:17:16.060-00:17:21.090 | DM] No, no pause, no reply. Let's go to the next, hold, hold your, hold your reply, Eric.
 [u0214 | 00:17:21.630-00:17:22.140 | DM] Zeno.
@@ -270,7 +270,7 @@
 [u0270 | 00:22:06.550-00:22:13.870 | Sculpit] The whatever energy was in the storm, take over and he felt something sort of move through him.
 [u0271 | 00:22:14.200-00:22:17.400 | Sculpit] And he appeared back on the Wanderer's hand.
 [u0272 | 00:22:18.280-00:22:19.260 | Sculpit] Apart.
-[u0273 | 00:22:20.640-00:22:24.350 | Sculpit] You know how he got there. And from that day, he started to…
+[u0273 | 00:22:20.640-00:22:24.350 | Sculpit] Not knowing how he got there. And from that day, he started to…
 [u0274 | 00:22:24.980-00:22:29.750 | Sculpit] experience, that's when he started casting spells.
 [u0275 | 00:22:30.130-00:22:32.409 | Sculpit] But he was always a little afraid.
 [u0276 | 00:22:32.650-00:22:33.630 | Sculpit] of…
@@ -423,7 +423,7 @@
 [u0423 | 00:35:57.050-00:36:07.250 | DM] And also some, like, strange animal catch that looks really good. But then there's some really weird other food that you don't know what the it is. It's like…
 [u0424 | 00:36:07.370-00:36:15.620 | DM] One of them is, like, this strange-looking, like, loafy thing that's got a texture that you don't know what it is.
 [u0425 | 00:36:15.650-00:36:23.680 | DM] Some of the, the fluids and the beverages, like, have these strange tastes and flavors and, like, weird fizzy things and
-[u0426 | 00:36:23.680-00:36:46.389 | DM] There's definitely stuff here that that the Dragonets seem to be very into, but then also things that are just you did no idea. I've never seen these things before. No idea. Like these weird, strange, like little individual strands and these small kind of like starchy pellets. Like it's all like a big mix of strange objects that you may or may not have identified before. And what's even crazier is in this scene.
+[u0426 | 00:36:23.680-00:36:46.389 | DM] There's definitely stuff here that that the Dragonets seem to be very into, but then also things that are just you have no idea. I've never seen these things before. No idea. Like these weird, strange, like little individual strands and these small kind of like starchy pellets. Like it's all like a big mix of strange objects that you may or may not have identified before. And what's even crazier is in this scene.
 [u0427 | 00:36:46.590-00:36:54.389 | DM] And you spot Xena also, who's here in a giant crowd. I mean, there's like probably 20 or 30 dragonets all hanging around this contraption.
 [u0428 | 00:36:54.390-00:36:56.680 | Heska] Heska immediately starts flying the other direction.
 [u0429 | 00:36:56.680-00:36:57.070 | DM] just.
@@ -681,7 +681,7 @@
 [u0681 | 00:56:22.390-00:56:25.889 | Sculpit] And then I'm gonna go over and talk to Xena.
 [u0682 | 00:56:26.310-00:56:37.730 | DM] So, you know, you end up, if it's one of everything, it's like one of everything. I mean, there's like just, you know, strange dishes that you don't know, chewy, weird things that are made of textures that you've never seen before.
 [u0683 | 00:56:37.730-00:56:38.369 | Sculpit] That's kind of cool.
-[u0684 | 00:56:38.370-00:56:40.895 | DM] I learned weird sauces and stuff, it's like, I don't know, what the.
+[u0684 | 00:56:38.370-00:56:40.895 | DM] And weird sauces and stuff, it's like, I don't know, what the.
 [u0685 | 00:56:41.180-00:56:52.840 | Sculpit] You know? Not really trying to taste it, like, I'm just curious, I'm like, I wanna study these later, right? Like, this… Especially, honestly, I'll tell it to get one of everything that it doesn't recognize.
 [u0686 | 00:56:53.110-00:56:55.109 | DM] Oh, you have a lot of that, yeah, there's…
 [u0687 | 00:56:55.110-00:57:01.080 | Sculpit] I don't want, I don't want the, like, I'm not interested in, like, the fish and the, like, and the, like, crabs.
@@ -734,7 +734,7 @@
 [u0734 | 01:00:39.860-01:00:40.710 | DM] Oh.
 [u0735 | 01:00:41.140-01:00:42.129 | Zeno] That was it.
 [u0736 | 01:00:42.130-01:00:45.390 | Little Tony] No, no, no, no, please, please, please. That was an insight.
-[u0737 | 01:00:45.390-01:00:49.490 | Heska] It's just gonna like skulk off. It was very tasty. Yeah, just.
+[u0737 | 01:00:45.390-01:00:49.490 | Heska] He's just gonna like skulk off. It was very tasty. Yeah, just.
 [u0738 | 01:00:49.490-01:00:50.369 | DM] It's worth it to share.
 [u0739 | 01:00:50.370-01:00:51.410 | Heska] with you.
 [u0740 | 01:00:51.410-01:00:53.780 | DM] Xena, Xena, like, like, like…
@@ -1051,13 +1051,13 @@
 [u1051 | 01:23:19.340-01:23:33.239 | DM] Well, first of all, strange things have been happening all over the island. I'm guessing you've heard by now, but the roads have been lighting up, these machines have been working, the fountains have been turning on. People say that the eyes of the statues have been opening and closing. There is some…
 [u1052 | 01:23:33.590-01:23:35.710 | DM] Something happening on this island that.
 [u1053 | 01:23:38.840-01:23:47.989 | DM] Is very Exciting. And new, and we haven't seen or heard anything like this.
-[u1054 | 01:23:48.230-01:23:48.950 | DM] And.
+[u1054 | 01:23:48.230-01:23:48.950 | DM] In.
 [u1055 | 01:23:48.950-01:23:49.420 | DM] memory.
 [u1056 | 01:23:50.230-01:23:51.120 | DM] And…
 [u1057 | 01:23:51.710-01:23:58.099 | DM] The 4 of you here, I, we, we heard that you were able to turn 1 of the machines on. What did you do to turn the machines on?
 [u1058 | 01:24:01.180-01:24:02.529 | Sculpit] We walked near it.
 [u1059 | 01:24:03.660-01:24:04.400 | Sculpit] Didn't they all?
-[u1060 | 01:24:04.400-01:24:08.639 | Zeno] How to kind of… I had a kind of deep humming to it.
+[u1060 | 01:24:04.400-01:24:08.639 | Zeno] Had a kind of… I had a kind of deep humming to it.
 [u1061 | 01:24:09.340-01:24:09.740 | Little Tony] then.
 [u1062 | 01:24:09.740-01:24:10.670 | Zeno] The.
 [u1063 | 01:24:10.670-01:24:14.609 | Little Tony] closer we got, like the louder it got and then we thought really hard.
@@ -1333,14 +1333,14 @@
 [u1333 | 01:39:09.660-01:39:19.449 | Sculpit] it was only like 20% non-sarcastic in that sentence. But like, they really need some advice. They're so close to inventing like a new art form.
 [u1334 | 01:39:19.920-01:39:22.210 | Sculpit] But they're so distractible.
 [u1335 | 01:39:22.910-01:39:23.470 | Sculpit] Like.
-[u1336 | 01:39:23.470-01:39:28.579 | DM] The shaman, or, or, or, like, like, like has a real, like, kind of looks over at Sculpit and it's like.
+[u1336 | 01:39:23.470-01:39:28.579 | DM] The shaman, Oru, Oru, Oru, like, like, like has a real, like, kind of looks over at Sculpit and it's like.
 [u1337 | 01:39:29.830-01:39:30.670 | DM] Sculpit.
 [u1338 | 01:39:31.810-01:39:32.380 | DM] you have.
 [u1339 | 01:39:32.380-01:39:33.000 | DM] gift.
 [u1340 | 01:39:34.860-01:39:35.860 | DM] Them?
 [u1341 | 01:39:37.590-01:39:39.360 | DM] They like gifts.
 [u1342 | 01:39:41.360-01:39:43.480 | DM] We all like gifts. We all love gifts.
-[u1343 | 01:39:43.480-01:39:44.790 | Heska] No, we haven't, Jeff.
+[u1343 | 01:39:43.480-01:39:44.790 | Heska] No, we have a gift.
 [u1344 | 01:39:45.040-01:39:45.560 | Sculpit] Oh.
 [u1345 | 01:39:45.560-01:39:46.879 | DM] I love gifts.
 [u1346 | 01:39:47.720-01:39:49.490 | DM] And you have one.
@@ -1757,7 +1757,7 @@
 [u1757 | 02:11:27.510-02:11:29.049 | DM] So you move towards an edge?
 [u1758 | 02:11:29.500-02:11:33.460 | Heska] I move towards an edge if there's somewhere I can hide, and I'm gonna hide.
 [u1759 | 02:11:33.970-02:11:34.310 | DM] Okay.
-[u1760 | 02:11:35.520-02:11:36.459 | Heska] Sackton hide.
+[u1760 | 02:11:35.520-02:11:36.459 | Heska] Bonus action hide.
 [u1761 | 02:11:37.210-02:11:38.750 | Heska] That's a 25.
 [u1762 | 02:11:40.230-02:11:41.240 | DM] And that's for what?
 [u1763 | 02:11:41.610-02:11:42.370 | Heska] Hide.
@@ -1983,7 +1983,7 @@
 [u1983 | 02:24:53.570-02:24:57.469 | DM] One, he misses, the second one…
 [u1984 | 02:25:00.750-02:25:02.580 | DM] Second one hits.
 [u1985 | 02:25:02.880-02:25:11.180 | DM] This one does… 10 more damage… Roska is bloody, guys. He is definitely, in rough-looking shape.
-[u1986 | 02:25:12.520-02:25:14.090 | Little Tony] Hong, is the iris still open?
+[u1986 | 02:25:12.520-02:25:14.090 | Little Tony] Kong, is the iris still open?
 [u1987 | 02:25:14.690-02:25:15.400 | DM] It closed behind you.
 [u1988 | 02:25:16.820-02:25:18.549 | Heska] Yeah, it closed when we came in.
 [u1989 | 02:25:19.320-02:25:20.500 | Little Tony] Can any of us get him out of here?
@@ -2123,7 +2123,7 @@
 [u2123 | 02:33:37.670-02:33:42.750 | Sculpit] I'm trying to think of what I would miss. Hit, don't, don't…
 [u2124 | 02:33:42.910-02:33:46.310 | Sculpit] Let Little Tony get hit. That would ruin the bit.
 [u2125 | 02:33:47.530-02:33:53.430 | DM] Amazing. The 10 lands. The laser avoids, dodges, hits through the mist.
-[u2126 | 02:33:53.980-02:33:59.650 | DM] It looked like a perfect strike, but just curved out of the way. And this is both Little Tony and Roska.
+[u2126 | 02:33:53.980-02:33:59.650 | DM] It looked like a perfect strike, but just curved out of the way. And misses both Little Tony and Roska.
 [u2127 | 02:33:59.650-02:34:03.059 | DM] And finally, we are at Sculpit. Sculpit, it is your turn.
 [u2128 | 02:34:05.200-02:34:06.369 | DM] Mike, Sculpit.
 [u2129 | 02:34:06.770-02:34:12.069 | Sculpit] I'm gonna dimension, I'm gonna go grab Little Tony and be like, not Little Tony,
@@ -2252,7 +2252,7 @@
 [u2252 | 02:42:26.900-02:42:27.250 | Zeno] there.
 [u2253 | 02:42:27.800-02:42:28.710 | DM] Welcome.
 [u2254 | 02:42:29.140-02:42:30.860 | DM] Welcome.
-[u2255 | 02:42:30.860-02:42:33.609 | Heska] We're gonna, like, motion everybody, like, I really wanna go see once.
+[u2255 | 02:42:30.860-02:42:33.609 | Heska] We're gonna, like, motion everybody, like, I really wanna go see what's…
 [u2256 | 02:42:33.610-02:42:34.969 | Little Tony] Yeah, yeah, let's go, let's go.
 [u2257 | 02:42:36.500-02:42:42.129 | Heska] Like if they're not stopped, I'm like going very cautiously because I want to make sure the statues aren't trying to stop us.
 [u2258 | 02:42:42.130-02:42:51.939 | DM] you But Heska's like… What is this? Like, there's something weird up here. Let's go see what it is.
@@ -2396,7 +2396,7 @@
 [u2396 | 02:52:43.070-02:52:49.700 | Sculpit] Right? I'll think very calming thoughts to the statue, like, like, we're here to… to observe…
 [u2397 | 02:52:49.700-02:52:50.450 | Heska] Walk past.
 [u2398 | 02:52:50.450-02:52:51.080 | Sculpit] day.
-[u2399 | 02:52:51.080-02:52:52.170 | Heska] Warm!
+[u2399 | 02:52:51.080-02:52:52.170 | Heska] Storm!
 [u2400 | 02:52:52.170-02:52:54.340 | Zeno] Wanderer's gonna wander.
 [u2401 | 02:52:54.340-02:52:55.460 | Heska] Yeah, come on.
 [u2402 | 02:52:55.460-02:52:56.370 | Zeno] it'll be.
@@ -2499,7 +2499,7 @@
 [u2499 | 02:59:53.750-02:59:54.590 | DM] impossible.
 [u2500 | 02:59:54.940-02:59:56.330 | DM] How is this possible?
 [u2501 | 03:00:00.020-03:00:00.710 | DM] It can only mean.
-[u2502 | 03:00:00.800-03:00:01.490 | DM] Hey.
+[u2502 | 03:00:00.800-03:00:01.490 | DM] The.
 [u2503 | 03:00:03.400-03:00:04.180 | DM] firstborn.
 [u2504 | 03:00:21.190-03:00:22.729 | DM] The music's a tiny bit loud.
 [u2505 | 03:00:24.430-03:00:25.610 | DM] Maybe that's on purpose.
