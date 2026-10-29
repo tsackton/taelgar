@@ -23,7 +23,7 @@
 [u0023 | 00:01:46.820-00:01:53.180 | DM] But you hardly notice as your steps slow, then stop, and you realize that you are staring at an image out of your dreams.
 [u0024 | 00:01:54.660-00:01:58.380 | DM] A temple is carved into the side of the mesa, and extends from it.
 [u0025 | 00:01:58.380-00:02:03.039 | DM] The oasis is enclosed in a stone pool and surrounded by swaying palms.
-[u0026 | 00:02:03.040-00:02:13.040 | DM] There's a small village that seems to have sprung up around, of mud houses and narrow streets, punctured by a few larger buildings and a large sandstone plaza.
+[u0026 | 00:02:03.040-00:02:13.040 | DM] There's a small village that seems to have sprung up around, of mud houses and narrow streets, punctuated by a few larger buildings and a large sandstone plaza.
 [u0027 | 00:02:13.040-00:02:16.320 | DM] All of this has grown up from the desert of your dreams.
 [u0028 | 00:02:16.320-00:02:21.660 | DM] A bustling tavern caravanserai stands on the outskirts of town.
 [u0029 | 00:02:21.660-00:02:27.800 | DM] But take away the buildings, and the scene in front of you is unmistakably one you have seen many times over the past week of travel.
@@ -249,7 +249,7 @@
 [u0249 | 00:16:13.514-00:16:13.844 | Unknown] Sounds good.
 [u0250 | 00:16:15.154-00:16:20.124 | Kenzo] Okay. You see a, a plainly dressed figure, um, hooded, a simple tunic.
 [u0251 | 00:16:20.124-00:16:23.024 | Kenzo] A very, very, um, non, nondescript
-[u0252 | 00:16:24.504-00:16:25.964 | Kenzo] blend.
+[u0252 | 00:16:24.504-00:16:25.964 | Kenzo] bland.
 [u0253 | 00:16:25.964-00:16:33.944 | Kenzo] [laughs] But carrying a, carrying a, um, a staff, and, um, looking very alarmed at, at the scene unfolding.
 [u0254 | 00:16:33.944-00:16:41.344 | Kenzo] Um, about 6' tall, athletic looking, um, but, but hard to get a look at his face right now because he's, he's hooded, despite...
 [u0255 | 00:16:41.344-00:16:43.084 | Kenzo] And it's, uh, it... What's the temperature right now?
@@ -304,7 +304,7 @@
 [u0304 | 00:19:15.956-00:19:17.316 | DM] Eric, why don't you go first?
 [u0305 | 00:19:17.316-00:19:17.535 | Unknown] Okay.
 [u0306 | 00:19:18.536-00:19:19.976 | DM] Um, a
-[u0307 | 00:19:21.696-00:19:31.836 | Seeker] great big, uh, beard appears first, uh, blonde braided beard, uh, proceeding, um, a scurrying, uh, scholarly looking dwarf
+[u0307 | 00:19:21.696-00:19:31.836 | Seeker] great big, uh, beard appears first, uh, blonde braided beard, uh, preceding, um, a scurrying, uh, scholarly looking dwarf
 [u0308 | 00:19:32.956-00:19:36.536 | Seeker] who's, um, working on getting his, uh, short sword out of its sheath,
 [u0309 | 00:19:37.696-00:19:42.406 | Seeker] uh, while with the other hand, um, consulting a small notebook, uh, and-
 [u0310 | 00:19:42.406-00:19:42.406 | Unknown] [laughs]
@@ -864,7 +864,7 @@
 [u0864 | 00:47:22.092-00:47:23.202 | Delwath] How much damage did you say it was?
 [u0865 | 00:47:24.322-00:47:25.982 | DM] Uh, seven.
 [u0866 | 00:47:28.882-00:47:29.082 | Unknown] Okay.
-[u0867 | 00:47:29.082-00:47:32.822 | DM] And our... There's, like, uncertain as to which way to go.
+[u0867 | 00:47:29.082-00:47:32.822 | DM] And now... It's, like, uncertain as to which way to go.
 [u0868 | 00:47:32.822-00:47:42.921 | DM] And as it rips into you, and then this, this black shadowy flame strikes around it, it decides the antelope looks like better prey, and then
 [u0869 | 00:47:42.922-00:47:44.282 | Seeker] runs...
 [u0870 | 00:47:44.282-00:47:45.392 | DM] Where is the antelope again?
@@ -1484,7 +1484,7 @@
 [u1484 | 01:19:33.804-01:19:36.494 | Seeker] You can see the, at the convergence point of this, this star.
 [u1485 | 01:19:36.494-01:19:43.494 | Seeker] I think that that point is, um, somewhere inside of the, the temple over there in that sandstone, uh, mesa.
 [u1486 | 01:19:45.054-01:19:50.794 | Seeker] Uh, and I, I should say, uh, I have some familiarity with, with rocks and stones, and there's-
-[u1487 | 01:19:50.794-01:19:54.114 | DM] Oh, my God, everybody else stopped messaging me at the same time.
+[u1487 | 01:19:50.794-01:19:54.114 | DM] Oh, my God, everybody else stop messaging me at the same time.
 [u1488 | 01:19:54.114-01:19:54.834 | Unknown] [laughs]
 [u1489 | 01:19:54.834-01:19:55.414 | DM] Oh, no.
 [u1490 | 01:19:55.414-01:19:59.094 | DM] I'm still, like, four messages behind to Mike, so keep talking.
@@ -1604,7 +1604,7 @@
 [u1604 | 01:26:45.382-01:26:45.542 | Unknown] Um,
 [u1605 | 01:26:46.862-01:26:54.642 | DM] she takes another one of these, um, sort of vials of this sort of muddy, muddy sort of powder, and again kind of rubs it on the wound.
 [u1606 | 01:26:54.642-01:26:55.862 | DM] Um, and she says, "I..."
-[u1607 | 01:26:55.862-01:27:03.402 | DM] She, like, looks up at you slightly, and awe, and, um, rec- recognizes you as, you know, Dunmari,
+[u1607 | 01:26:55.862-01:27:03.402 | DM] She, like, looks up at you slightly, in awe, and, um, rec- recognizes you as, you know, Dunmari,
 [u1608 | 01:27:04.722-01:27:08.362 | DM] uh, natively from here, even though y- she doesn't know you personally.
 [u1609 | 01:27:08.362-01:27:09.682 | DM] And she says, um,
 [u1610 | 01:27:11.102-01:27:13.822 | DM] "That was..." Almost, like, breathlessly, "That was
@@ -2149,7 +2149,7 @@
 [u2149 | 01:57:03.104-01:57:03.984 | DM] So yeah,
 [u2150 | 01:57:05.064-01:57:07.504 | DM] I also just made it up, so that may be-
 [u2151 | 01:57:07.504-01:57:08.284 | Seeker] Mm-hmm
-[u2152 | 01:57:08.284-01:57:11.984 | Seeker] ... two. [laughs]
+[u2152 | 01:57:08.284-01:57:11.984 | Seeker] ... too. [laughs]
 [u2153 | 01:57:11.984-01:57:12.694 | Seeker] Um.
 [u2154 | 01:57:12.694-01:57:14.004 | DM] I think you don't, I'm not sure-
 [u2155 | 01:57:14.004-01:57:15.504 | DM] Kong has vanished.
@@ -2461,7 +2461,7 @@
 [u2461 | 02:14:40.368-02:14:42.068 | DM] You don't sense any magic.
 [u2462 | 02:14:42.068-02:14:43.628 | Seeker] Got it. Thank you.
 [u2463 | 02:14:43.628-02:14:44.068 | Unknown] What's the, what's-
-[u2464 | 02:14:44.068-02:14:48.778 | Kenzo] Tell, do you think these hyenas are m- you, you think these, uh, these, uh, hyenas are magical in nature?
+[u2464 | 02:14:44.068-02:14:48.778 | Kenzo] Del, do you think these hyenas are m- you, you think these, uh, these, uh, hyenas are magical in nature?
 [u2465 | 02:14:51.088-02:14:53.228 | Seeker] It's an open question, I think.
 [u2466 | 02:14:53.228-02:14:54.588 | Delwath] Uh, perhaps.
 [u2467 | 02:14:56.528-02:14:58.108 | Delwath] Or they were, um-
@@ -2586,7 +2586,7 @@
 [u2586 | 02:21:55.864-02:21:56.424 | Kenzo] Yeah.
 [u2587 | 02:21:59.904-02:22:00.344 | Unknown] So,
 [u2588 | 02:22:03.704-02:22:07.764 | DM] um, at this point, um, the elf and,
-[u2589 | 02:22:09.124-02:22:13.944 | DM] and, um, Kenzo have kind of fallen behind a little bit in our, in our talking.
+[u2589 | 02:22:09.124-02:22:13.944 | DM] and, um, Kenzo have kind of fallen behind a little bit and are, and are talking.
 [u2590 | 02:22:13.944-02:22:14.184 | Unknown] And
 [u2591 | 02:22:15.244-02:22:19.744 | DM] Seeker, the Seeker seems to be kind of, um, distracted by
 [u2592 | 02:22:21.204-02:22:24.244 | DM] the geology of the terrain, and you're kind of looking around, like,
