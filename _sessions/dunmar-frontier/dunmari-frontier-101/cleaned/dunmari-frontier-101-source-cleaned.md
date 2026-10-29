@@ -87,7 +87,7 @@
 [u0087 | 00:05:16.600-00:05:17.040 | Seeker] Really.
 [u0088 | 00:05:17.040-00:05:19.810 | DM] You presumably need to pass in order to
 [u0089 | 00:05:20.550-00:05:21.230 | DM] that
-[u0090 | 00:05:21.560-00:05:22.490 | DM] {{outen}}
+[u0090 | 00:05:21.560-00:05:22.490 | DM] outen
 [u0091 | 00:05:24.420-00:05:28.229 | DM] in order to enter the plane of water and find
 [u0092 | 00:05:28.250-00:05:29.676 | DM] a jade.
 [u0093 | 00:05:31.840-00:05:36.789 | DM] Oh, let me start some music if you want to take a couple of minutes to
@@ -105,11 +105,11 @@
 [u0105 | 00:06:20.290-00:06:21.390 | Delwath] just kill it.
 [u0106 | 00:06:22.419-00:06:22.829 | Seeker] Yeah.
 [u0107 | 00:06:27.090-00:06:27.990 | Seeker] Oh, yeah.
-[u0108 | 00:06:27.990-00:06:28.960 | Kenzo] {{Where's an account?}}
+[u0108 | 00:06:27.990-00:06:28.960 | Kenzo] Where's an account?
 [u0109 | 00:06:30.300-00:06:32.160 | Seeker] Okay. Okay. Okay. Okay.
 [u0110 | 00:06:33.460-00:06:35.950 | Kenzo] Didn't want to go in and then have it, but.
-[u0111 | 00:06:36.700-00:06:37.010 | Delwath] Ray.
-[u0112 | 00:06:37.260-00:06:45.169 | Kenzo] Go into some unknown thing, unknown situation, and then have it follow us, and or have it waiting on the other side like, {{why fill it}}. Now, while we have the advantage.
+[u0111 | 00:06:36.700-00:06:37.010 | Delwath] Right.
+[u0112 | 00:06:37.260-00:06:45.169 | Kenzo] Go into some unknown thing, unknown situation, and then have it follow us, and or have it waiting on the other side like, why kill it. Now, while we have the advantage.
 [u0113 | 00:06:47.890-00:06:48.190 | Delwath] Yep.
 [u0114 | 00:06:51.160-00:06:52.019 | Delwath] I don't remember.
 [u0115 | 00:06:52.020-00:06:52.410 | DM] Yeah.
@@ -195,10 +195,10 @@
 [u0195 | 00:11:45.380-00:11:46.990 | Seeker] Could incidentally
 [u0196 | 00:11:47.070-00:11:51.260 | Seeker] jam that coral into the portal if we need to temporarily block it.
 [u0197 | 00:11:53.250-00:11:54.090 | Seeker] Maybe
-[u0198 | 00:11:54.750-00:11:55.370 | Seeker] {{Breckenwald}}.
+[u0198 | 00:11:54.750-00:11:55.370 | Seeker] wrecking ball.
 [u0199 | 00:11:55.370-00:11:55.990 | DM] Possibly.
 [u0200 | 00:11:55.990-00:11:56.580 | Seeker] Tim.
-[u0201 | 00:11:57.680-00:11:59.919 | DM] You could, certainly, {{while it's done. The portal.}}
+[u0201 | 00:11:57.680-00:11:59.919 | DM] You could, certainly, while it's done. The portal.
 [u0202 | 00:12:00.610-00:12:01.170 | Seeker] Yeah.
 [u0203 | 00:12:01.170-00:12:05.460 | Riswynn] I mean, I think we just want to take the fight through the portal. If that's the way the fight rolls, because
 [u0204 | 00:12:05.930-00:12:07.730 | Riswynn] we want to go that way, anyway.
@@ -229,7 +229,7 @@
 [u0229 | 00:13:12.510-00:13:14.410 | DM] your move is unaffected.
 [u0230 | 00:13:14.510-00:13:15.230 | DM] Yep.
 [u0231 | 00:13:17.870-00:13:22.900 | DM] Wellby also is a strong swimmer from his days as a
-[u0232 | 00:13:24.860-00:13:25.970 | DM] {{staliner}}.
+[u0232 | 00:13:24.860-00:13:25.970 | DM] sailor.
 [u0233 | 00:13:26.470-00:13:30.610 | DM] so you Wellby is unaffected. The rest of you move at half speed.
 [u0234 | 00:13:31.530-00:13:33.660 | Seeker] But if I polymorph into a
 [u0235 | 00:13:34.050-00:13:36.889 | Seeker] tuna or something, I could have a reasonable speed.
@@ -360,7 +360,7 @@
 [u0360 | 00:21:04.900-00:21:05.450 | DM] You know. Want to.
 [u0361 | 00:21:05.450-00:21:05.830 | Seeker] I like.
 [u0362 | 00:21:05.830-00:21:09.440 | DM] Are inside the room to start now, because.
-[u0363 | 00:21:10.860-00:21:12.439 | Riswynn] {{It'll run my battles.}}
+[u0363 | 00:21:10.860-00:21:12.439 | Riswynn] It'll run my battles.
 [u0364 | 00:21:13.890-00:21:16.169 | DM] Also, you're doing this before
 [u0365 | 00:21:17.210-00:21:23.989 | DM] combat starts, and you want to preserve the ability of the invisible people to get at least advantage on initiative.
 [u0366 | 00:21:24.470-00:21:29.290 | Seeker] I mean, do we have? Does that mean we basically have only the option to show up like, right behind the coral.
@@ -412,16 +412,16 @@
 [u0412 | 00:23:14.800-00:23:18.169 | DM] now's your chance. But it's Delwath, Wellby, Riswynn.
 [u0413 | 00:23:19.420-00:23:20.075 | DM] Where?
 [u0414 | 00:23:21.420-00:23:22.160 | Riswynn] Are you okay?
-[u0415 | 00:23:22.160-00:23:23.050 | DM] {{Rosebery}}.
+[u0415 | 00:23:22.160-00:23:23.050 | DM] Rosebery.
 [u0416 | 00:23:23.830-00:23:25.330 | Riswynn] I appreciate that. Sorry.
 [u0417 | 00:23:26.142-00:23:29.727 | Riswynn] Why is Zachary? Zachary is not outside.
 [u0418 | 00:23:30.530-00:23:33.950 | Delwath] He probably is. He was at Hodgkin's Park at the front, and he's on his way home.
 [u0419 | 00:23:37.090-00:23:42.417 | DM] It's Delwath, Wellby, Riswynn, Seeker, Kenzo, in that order. So if you wanna.
 [u0420 | 00:23:42.750-00:23:46.040 | Delwath] He's literally right inside your house right now, Kate.
-[u0421 | 00:23:46.040-00:23:47.400 | Riswynn] Yeah, that's just waived.
+[u0421 | 00:23:46.040-00:23:47.400 | Riswynn] Yeah, that's just waved.
 [u0422 | 00:23:48.980-00:23:57.090 | Riswynn] I wondered why my son was shouting, and I had to go. Make sure that there was no bad reason, my son, shouting, Alright, alright! Go back to fighting! The tentacle monster.
 [u0423 | 00:23:57.220-00:24:00.439 | Wellby] I assume. Better for me to shoot first. Don't.
-[u0424 | 00:24:00.660-00:24:02.379 | Riswynn] Distracting nephew, citing.
+[u0424 | 00:24:00.660-00:24:02.379 | Riswynn] Distracting nephew sighting.
 [u0425 | 00:24:02.570-00:24:07.309 | Delwath] As soon as I cast a spell, you're losing invisibility. So everybody should. I? I wanna go last
 [u0426 | 00:24:07.440-00:24:08.490 | Delwath] from a
 [u0427 | 00:24:10.200-00:24:12.809 | Delwath] I wanna go last before it.
@@ -449,7 +449,7 @@
 [u0449 | 00:25:40.060-00:25:41.989 | Seeker] Only on the the bottom.
 [u0450 | 00:25:42.710-00:25:44.979 | Wellby] Or the I kick my little toes extra fast.
 [u0451 | 00:25:49.760-00:25:52.940 | Delwath] Choice. You should come through the center door.
-[u0452 | 00:25:57.155-00:25:58.070 | Wellby] Sugar!
+[u0452 | 00:25:57.155-00:25:58.070 | Wellby] Sure!
 [u0453 | 00:25:58.530-00:26:05.129 | Delwath] You wanna be in the sickening radiance, right? You wanna actually get as far away from it as possible to the left.
 [u0454 | 00:26:06.600-00:26:07.089 | Wellby] Yeah, but.
 [u0455 | 00:26:07.090-00:26:07.680 | Delwath] The end.
@@ -477,12 +477,12 @@
 [u0477 | 00:26:51.635-00:26:56.490 | Wellby] Cunning strike disarm, which is, gonna be a DC 18
 [u0478 | 00:26:56.940-00:26:57.620 | Wellby] check.
 [u0479 | 00:26:57.730-00:27:00.139 | Wellby] save if it's success.
-[u0480 | 00:27:00.140-00:27:01.660 | DM] Why you got to hit first.
+[u0480 | 00:27:00.140-00:27:01.660 | DM] Well, you got to hit first.
 [u0481 | 00:27:02.820-00:27:03.340 | DM] Yeah.
 [u0482 | 00:27:03.340-00:27:04.670 | Wellby] But can you have it?
 [u0483 | 00:27:05.190-00:27:06.620 | DM] 27 hits, yep.
 [u0484 | 00:27:09.105-00:27:09.440 | Wellby] So.
-[u0485 | 00:27:09.440-00:27:11.630 | Seeker] {{You're accused}} with your shortbow.
+[u0485 | 00:27:09.440-00:27:11.630 | Seeker] You're accused with your shortbow.
 [u0486 | 00:27:11.930-00:27:12.660 | Seeker] Yep.
 [u0487 | 00:27:12.970-00:27:14.000 | Seeker] underwater.
 [u0488 | 00:27:14.000-00:27:14.609 | DM] Take away!
@@ -513,7 +513,7 @@
 [u0513 | 00:28:18.330-00:28:20.890 | Wellby] So 25 to get that, and then I'm going.
 [u0514 | 00:28:22.870-00:28:24.580 | Wellby] I don't know something like over there.
 [u0515 | 00:28:24.910-00:28:25.769 | Wellby] So here I go.
-[u0516 | 00:28:25.770-00:28:26.480 | DM] Our guy.
+[u0516 | 00:28:25.770-00:28:26.480 | DM] Okay.
 [u0517 | 00:28:27.180-00:28:27.930 | Seeker] Like in the other way, but.
 [u0518 | 00:28:27.930-00:28:28.560 | DM] So Wellby.
 [u0519 | 00:28:28.560-00:28:29.400 | Seeker] Go fast.
@@ -560,7 +560,7 @@
 [u0560 | 00:30:37.220-00:30:38.650 | DM] 30 foot diameter.
 [u0561 | 00:30:39.110-00:30:40.370 | Delwath] 30 foot radius
 [u0562 | 00:30:40.980-00:30:43.159 | Delwath] 60 foot diameter. Yes, yeah.
-[u0563 | 00:30:43.420-00:30:44.109 | DM] So guy.
+[u0563 | 00:30:43.420-00:30:44.109 | DM] So, okay.
 [u0564 | 00:30:45.900-00:30:47.129 | Delwath] So it should be
 [u0565 | 00:30:47.190-00:30:48.290 | Delwath] 12.
 [u0566 | 00:30:53.060-00:30:54.459 | DM] Yeah, it should be 12.
@@ -577,7 +577,7 @@
 [u0577 | 00:31:20.740-00:31:22.270 | Delwath] mark it with
 [u0578 | 00:31:22.300-00:31:23.390 | Delwath] my
 [u0579 | 00:31:23.540-00:31:24.819 | Delwath] hunter's mark.
-[u0580 | 00:31:25.450-00:31:26.180 | DM] Our guy.
+[u0580 | 00:31:25.450-00:31:26.180 | DM] Okay.
 [u0581 | 00:31:27.220-00:31:31.410 | Delwath] And I'm using a I'm using a sorcery point to, when I cast.
 [u0582 | 00:31:31.560-00:31:32.900 | Delwath] Sickening radiance
 [u0583 | 00:31:33.030-00:31:35.620 | Delwath] Delwath. Well, all 5 of us are.
@@ -588,7 +588,7 @@
 [u0588 | 00:31:47.500-00:31:48.070 | Delwath] 19.
 [u0589 | 00:31:48.070-00:31:49.729 | DM] Its Con modifier
 [u0590 | 00:31:53.800-00:31:56.359 | DM] 13 plus. That's a 19.
-[u0591 | 00:31:57.720-00:31:58.770 | Delwath] {{Eyes that I would create.}}
+[u0591 | 00:31:57.720-00:31:58.770 | Delwath] Ties go to the creature.
 [u0592 | 00:31:58.770-00:31:59.340 | DM] Leads.
 [u0593 | 00:31:59.770-00:32:00.600 | Delwath] Has succeeded.
 [u0594 | 00:32:01.910-00:32:04.109 | DM] And then it is going to.
@@ -645,7 +645,7 @@
 [u0645 | 00:34:48.929-00:34:50.009 | DM] A
 [u0646 | 00:34:51.579-00:34:53.099 | DM] I can probably make it go away.
 [u0647 | 00:34:53.100-00:34:54.910 | Riswynn] It can be kelp or something.
-[u0648 | 00:34:56.040-00:34:56.529 | DM] Sir.
+[u0648 | 00:34:56.040-00:34:56.529 | DM] Sure.
 [u0649 | 00:34:58.605-00:35:00.930 | DM] Seeker's next, and then Kenzo.
 [u0650 | 00:35:01.230-00:35:04.509 | Riswynn] Alright, so I'm going to get myself into the.
 [u0651 | 00:35:06.060-00:35:11.580 | Riswynn] I can't get all the way over there to be that helpful, but I can at least get myself into the sickening radiance and
@@ -776,7 +776,7 @@
 [u0776 | 00:40:58.180-00:40:59.400 | DM] But up
 [u0777 | 00:40:59.530-00:41:00.020 | DM] that can. Yeah.
 [u0778 | 00:41:00.020-00:41:00.940 | Seeker] Yeah, but.
-[u0779 | 00:41:01.230-00:41:02.270 | DM] So it's like, OP.
+[u0779 | 00:41:01.230-00:41:02.270 | DM] So it's like, up.
 [u0780 | 00:41:02.270-00:41:02.940 | Seeker] Woof, woof.
 [u0781 | 00:41:02.940-00:41:05.750 | DM] 20 feet. It's like halfway in between the.
 [u0782 | 00:41:05.870-00:41:15.520 | DM] It's sort of close to the ceiling as you grab it and yank it. You rip it with such force that its tentacles detach from Wellby.
@@ -828,7 +828,7 @@
 [u0828 | 00:43:23.705-00:43:24.080 | DM] Things.
 [u0829 | 00:43:24.080-00:43:24.440 | Delwath] Yeah.
 [u0830 | 00:43:24.440-00:43:28.290 | Kenzo] Alright, I will do that. I'm gonna start unarmed attacking it like a lot.
-[u0831 | 00:43:29.210-00:43:29.530 | DM] Guy.
+[u0831 | 00:43:29.210-00:43:29.530 | DM] Okay.
 [u0832 | 00:43:30.830-00:43:32.910 | Kenzo] Okay. So
 [u0833 | 00:43:33.410-00:43:35.430 | Kenzo] alright. First, I'm gonna do an aura strike.
 [u0834 | 00:43:36.330-00:43:38.170 | Kenzo] Oh, actually sorry at the at the roll.
@@ -843,7 +843,7 @@
 [u0843 | 00:44:18.760-00:44:19.520 | Kenzo] Okay?
 [u0844 | 00:44:20.460-00:44:22.390 | Kenzo] 20 damage.
 [u0845 | 00:44:22.390-00:44:23.490 | DM] 20 damage.
-[u0846 | 00:44:23.856-00:44:24.680 | Kenzo] And then. Now Scott.
+[u0846 | 00:44:23.856-00:44:24.680 | Kenzo] And then. Now it's got.
 [u0847 | 00:44:24.680-00:44:26.090 | DM] You attempt to stun it.
 [u0848 | 00:44:26.090-00:44:27.219 | Kenzo] Yeah, stun?
 [u0849 | 00:44:27.720-00:44:29.220 | DM] That's it's stunned.
@@ -863,7 +863,7 @@
 [u0863 | 00:45:05.120-00:45:05.950 | DM] More attacks.
 [u0864 | 00:45:05.950-00:45:06.670 | Kenzo] 2 more. attacks. Yeah.
 [u0865 | 00:45:06.670-00:45:07.680 | DM] 3 more attacks.
-[u0866 | 00:45:08.600-00:45:12.030 | Kenzo] 3 more {{cancel platform}}. 3 more. Yeah. Okay, so
+[u0866 | 00:45:08.600-00:45:12.030 | Kenzo] 3 more cancel platform. 3 more. Yeah. Okay, so
 [u0867 | 00:45:12.190-00:45:16.370 | Kenzo] 24. Okay, so 24 hits.
 [u0868 | 00:45:18.200-00:45:20.560 | Kenzo] another 9. Damage.
 [u0869 | 00:45:20.610-00:45:22.169 | Kenzo] Okay, 2 more attacks
@@ -1001,7 +1001,7 @@
 [u1001 | 00:52:26.670-00:52:31.859 | DM] from the shooting out of this portal, knocking you away from the Herald, and
 [u1002 | 00:52:35.540-00:52:38.140 | DM] As you're being pushed against this
 [u1003 | 00:52:38.961-00:52:42.220 | DM] this wall, you are grappled.
-[u1004 | 00:52:42.740-00:52:43.550 | Kenzo] Emmets.
+[u1004 | 00:52:42.740-00:52:43.550 | Kenzo] Dammit.
 [u1005 | 00:52:44.140-00:52:45.100 | Seeker] He woo.
 [u1006 | 00:52:48.638-00:52:49.189 | Kenzo] Much damage, I think.
 [u1007 | 00:52:49.513-00:52:55.009 | DM] That you don't take any damage. You just. You're just restrained. That brings us back to Wellby.
@@ -1121,7 +1121,7 @@
 [u1121 | 00:58:44.520-00:58:45.779 | Delwath] if its turn was happening.
 [u1122 | 00:58:45.780-00:58:47.330 | DM] Oh, right cause, if it's in the
 [u1123 | 00:58:47.610-00:58:49.370 | DM] that's a 20.
-[u1124 | 00:58:50.090-00:58:50.889 | Delwath] And exit.
+[u1124 | 00:58:50.090-00:58:50.889 | Delwath] And that's it.
 [u1125 | 00:58:54.525-00:58:57.440 | DM] So that brings us to Riswynn.
 [u1126 | 00:58:58.880-00:58:59.720 | Riswynn] All right.
 [u1127 | 00:59:01.700-00:59:02.059 | Riswynn] So
@@ -1152,7 +1152,7 @@
 [u1152 | 01:00:19.487-01:00:20.139 | Seeker] Spelled, I think.
 [u1153 | 01:00:20.140-01:00:21.839 | DM] You can do damage to it.
 [u1154 | 01:00:22.860-01:00:23.340 | DM] Her own.
-[u1155 | 01:00:23.340-01:00:25.210 | Seeker] Company, months.
+[u1155 | 01:00:23.340-01:00:25.210 | Seeker] Components.
 [u1156 | 01:00:29.180-01:00:32.310 | DM] No, you make. You can use your action to maintain your grip.
 [u1157 | 01:00:33.545-01:00:33.930 | Seeker] Yeah.
 [u1158 | 01:00:33.930-01:00:36.490 | DM] So you make another ability check
@@ -1198,7 +1198,7 @@
 [u1198 | 01:02:51.150-01:02:52.170 | DM] swims
 [u1199 | 01:02:52.860-01:02:56.140 | DM] out. That was your action, but you can still.
 [u1200 | 01:02:56.580-01:02:59.005 | Kenzo] I will move. I will move
-[u1201 | 01:03:00.190-01:03:04.020 | Kenzo] any particular spot like right here, like right next to the {{day}}.
+[u1201 | 01:03:00.190-01:03:04.020 | Kenzo] any particular spot like right here, like right next to the guy.
 [u1202 | 01:03:04.020-01:03:08.170 | Delwath] If you have enough move to get into the sickening radiance, I would do that.
 [u1203 | 01:03:08.170-01:03:10.140 | Kenzo] Oh, yeah, I've got. I've got 60 move.
 [u1204 | 01:03:10.390-01:03:13.120 | Delwath] Yeah, I would try and get like on the other side of him.
@@ -1206,7 +1206,7 @@
 [u1206 | 01:03:15.855-01:03:16.200 | Seeker] And.
 [u1207 | 01:03:16.910-01:03:19.024 | Kenzo] Alright, I will use
 [u1208 | 01:03:20.520-01:03:24.279 | Kenzo] some ki and do extra attacks.
-[u1209 | 01:03:26.484-01:03:26.830 | DM] Guy.
+[u1209 | 01:03:26.484-01:03:26.830 | DM] Okay.
 [u1210 | 01:03:27.780-01:03:34.399 | Kenzo] Alright. So 1st on. So basically, how many, how many attacks do I get? Then, Tim? So I get 3 more.
 [u1211 | 01:03:34.580-01:03:35.710 | Kenzo] If I spend ki
 [u1212 | 01:03:36.590-01:03:37.370 | Kenzo] right.
@@ -1230,7 +1230,7 @@
 [u1230 | 01:04:29.370-01:04:30.560 | DM] So as Kenzo.
 [u1231 | 01:04:31.510-01:04:33.929 | DM] swims in and starts pummeling it.
 [u1232 | 01:04:35.990-01:04:38.180 | Kenzo] I did an extra 6 damage, Tim, on that one.
-[u1233 | 01:04:38.180-01:04:38.810 | DM] So guy.
+[u1233 | 01:04:38.180-01:04:38.810 | DM] So, okay.
 [u1234 | 01:04:39.841-01:04:42.548 | Kenzo] My second attack with advantage.
 [u1235 | 01:04:45.826-01:04:48.060 | Kenzo] okay. 26. That hits.
 [u1236 | 01:04:48.580-01:04:49.600 | Kenzo] Yeah.
@@ -1283,7 +1283,7 @@
 [u1283 | 01:07:02.560-01:07:03.379 | Seeker] and I rolled it.
 [u1284 | 01:07:03.380-01:07:05.180 | Delwath] All the yeah. You're all the.
 [u1285 | 01:07:05.180-01:07:06.190 | Seeker] 4 and a 10.
-[u1286 | 01:07:06.190-01:07:06.600 | DM] Sex.
+[u1286 | 01:07:06.190-01:07:06.600 | DM] Six.
 [u1287 | 01:07:06.600-01:07:07.780 | Delwath] And yeah, 2.
 [u1288 | 01:07:08.330-01:07:10.330 | DM] So telekinesis ends.
 [u1289 | 01:07:11.070-01:07:11.590 | DM] you'll.
@@ -1329,7 +1329,7 @@
 [u1329 | 01:09:40.399-01:09:47.710 | DM] at the creature which is now looking badly hurt and flailing around, looking for a way out
 [u1330 | 01:09:47.930-01:09:51.619 | DM] as Wellby's turn ends, and Delwath's turn begins.
 [u1331 | 01:09:52.520-01:09:54.730 | Delwath] Let's attack 3 times.
-[u1332 | 01:09:55.650-01:09:56.020 | DM] Guy.
+[u1332 | 01:09:55.650-01:09:56.020 | DM] Okay.
 [u1333 | 01:09:57.753-01:09:58.349 | Delwath] for.
 [u1334 | 01:09:58.350-01:09:59.319 | DM] 21 hits.
 [u1335 | 01:09:59.320-01:10:01.390 | Delwath] On the first. That's 14 damage.
@@ -1339,7 +1339,7 @@
 [u1339 | 01:10:16.190-01:10:16.750 | DM] That the.
 [u1340 | 01:10:16.750-01:10:18.930 | Delwath] Well, 17, 17 damage.
 [u1341 | 01:10:20.636-01:10:22.329 | DM] So with
-[u1342 | 01:10:22.930-01:10:23.750 | DM] Bat
+[u1342 | 01:10:22.930-01:10:23.750 | DM] that
 [u1343 | 01:10:23.960-01:10:26.208 | DM] Delwath's last strike,
 [u1344 | 01:10:28.610-01:10:31.330 | DM] flashes into this creature, and as it's
 [u1345 | 01:10:31.790-01:10:36.219 | DM] blind and restrained—well, not restrained anymore, or stunned, but it
@@ -1415,7 +1415,7 @@
 [u1415 | 01:14:10.670-01:14:11.580 | Seeker] So, okay.
 [u1416 | 01:14:13.293-01:14:14.180 | Riswynn] How many
 [u1417 | 01:14:17.100-01:14:18.820 | Riswynn] so
-[u1418 | 01:14:19.390-01:14:24.469 | Riswynn] matching Seeker's {{illness}} to my number of d8. How about 4d8 plus 11.
+[u1418 | 01:14:19.390-01:14:24.469 | Riswynn] matching Seeker's illness to my number of d8. How about 4d8 plus 11.
 [u1419 | 01:14:25.920-01:14:26.940 | Delwath] Wellby.
 [u1420 | 01:14:28.720-01:14:29.830 | Riswynn] I'm I don't need.
 [u1421 | 01:14:29.830-01:14:36.380 | DM] Wellby gets, Wellby gets 4d8 plus 11 plus 5, not plus 11. Where did plus 11 come from.
@@ -1448,7 +1448,7 @@
 [u1448 | 01:15:50.110-01:15:51.480 | Riswynn] Do it again if you're not.
 [u1449 | 01:15:51.680-01:15:55.564 | Riswynn] but you can't do it on the same turn like I thought you're still paying a good time.
 [u1450 | 01:15:55.780-01:15:56.600 | DM] Another.
-[u1451 | 01:15:57.107-01:16:01.310 | DM] Wellby rolled 17. That's better than what you rolled so Wellby, take your {{note}}.
+[u1451 | 01:15:57.107-01:16:01.310 | DM] Wellby rolled 17. That's better than what you rolled so Wellby, take your number.
 [u1452 | 01:16:01.310-01:16:05.600 | Riswynn] Oh, apparently I'm rolling again. Way to go recovered website.
 [u1453 | 01:16:08.930-01:16:09.290 | DM] I guess.
 [u1454 | 01:16:09.290-01:16:09.760 | Riswynn] Just trying, so.
@@ -1520,7 +1520,7 @@
 [u1520 | 01:19:04.230-01:19:07.370 | DM] expanse of water in all directions.
 [u1521 | 01:19:08.020-01:19:12.009 | DM] The only light that you can see is this sort of
 [u1522 | 01:19:12.320-01:19:13.490 | DM] faint
-[u1523 | 01:19:13.900-01:19:14.580 | DM] 8
+[u1523 | 01:19:13.900-01:19:14.580 | DM] a
 [u1524 | 01:19:15.010-01:19:24.879 | DM] sort of constant glow in the water that seems to be created by some sort of bioluminescence that's casting an eerie soft glow across the scene.
 [u1525 | 01:19:25.440-01:19:32.460 | DM] But the further you get from this platform that you step onto the vast dark expanse of water, stretches
 [u1526 | 01:19:33.010-01:19:36.710 | DM] infinitely with no sea floor, or surface in sight
@@ -1531,7 +1531,7 @@
 [u1531 | 01:19:48.810-01:19:49.820 | DM] for him
 [u1532 | 01:19:51.640-01:19:56.353 | DM] friends. There's very cheerful people sitting around waiting to greet you.
 [u1533 | 01:19:57.210-01:19:57.790 | Kenzo] Welcoming us.
-[u1534 | 01:19:57.790-01:19:58.780 | Riswynn] Singing, Murphy.
+[u1534 | 01:19:57.790-01:19:58.780 | Riswynn] Singing merfolk.
 [u1535 | 01:19:58.780-01:19:59.710 | Wellby] Do for once.
 [u1536 | 01:20:00.120-01:20:02.020 | Kenzo] Favorite foods, relaxing the.
 [u1537 | 01:20:02.020-01:20:03.779 | DM] 10
@@ -1567,7 +1567,7 @@
 [u1567 | 01:22:51.740-01:22:53.519 | DM] The instant that Riswynn.
 [u1568 | 01:22:54.750-01:22:56.940 | Delwath] Sorry? Is this scale accurate, or is this.
 [u1569 | 01:22:56.940-01:22:59.559 | DM] Yeah. So it's about a hundred feet in diameter. Roughly.
-[u1570 | 01:22:59.895-01:23:00.230 | Delwath] Guy.
+[u1570 | 01:22:59.895-01:23:00.230 | Delwath] Okay.
 [u1571 | 01:23:00.920-01:23:02.130 | DM] I think that should be about.
 [u1572 | 01:23:02.130-01:23:02.810 | Delwath] Yeah, and.
 [u1573 | 01:23:02.810-01:23:04.854 | DM] A little bit more than a hundred feet.
@@ -1653,7 +1653,7 @@
 [u1653 | 01:28:01.120-01:28:03.730 | DM] this the one with the silver rapier gets
 [u1654 | 01:28:03.750-01:28:05.430 | DM] gets the jump on you.
 [u1655 | 01:28:05.930-01:28:09.870 | DM] and runs. Let me see what his swim speed is.
-[u1656 | 01:28:15.550-01:28:16.420 | DM] bath
+[u1656 | 01:28:15.550-01:28:16.420 | DM] that
 [u1657 | 01:28:18.260-01:28:19.800 | DM] is gonna run!
 [u1658 | 01:28:25.910-01:28:30.830 | DM] About halfway there yelling for his troops to follow
 [u1659 | 01:28:31.797-01:28:32.852 | DM] and then
@@ -1674,7 +1674,7 @@
 [u1674 | 01:29:39.440-01:29:42.779 | DM] Okay, everybody but Seeker takes
 [u1675 | 01:29:43.000-01:29:46.480 | DM] 16 points of cold damage.
 [u1676 | 01:29:46.680-01:29:49.590 | DM] Seeker takes 32 points of cold damage.
-[u1677 | 01:29:49.780-01:29:50.610 | Seeker] Hatch.
+[u1677 | 01:29:49.780-01:29:50.610 | Seeker] Ouch.
 [u1678 | 01:29:53.280-01:29:54.260 | Seeker] 32.
 [u1679 | 01:29:55.380-01:29:57.590 | DM] and that will end his turn.
 [u1680 | 01:29:57.730-01:29:59.619 | DM] And then these warriors
@@ -1721,7 +1721,7 @@
 [u1721 | 01:32:13.540-01:32:15.329 | DM] maybe halfling-made.
 [u1722 | 01:32:16.040-01:32:16.660 | Wellby] Really.
 [u1723 | 01:32:16.950-01:32:17.870 | Seeker] A.
-[u1724 | 01:32:18.030-01:32:18.910 | Kenzo] Cloth, West.
+[u1724 | 01:32:18.030-01:32:18.910 | Kenzo] Plot twist.
 [u1725 | 01:32:21.030-01:32:21.750 | Wellby] And I
 [u1726 | 01:32:22.720-01:32:25.070 | Wellby] I don't know. Should I stay in the open or go in the hut?
 [u1727 | 01:32:26.900-01:32:28.339 | Wellby] Is there anything in the hut.
@@ -1791,14 +1791,14 @@
 [u1791 | 01:35:35.550-01:35:41.299 | Riswynn] There's a bunch of them around us. I am casting
 [u1792 | 01:35:44.210-01:35:46.360 | Riswynn] spiritual
 [u1793 | 01:35:51.010-01:35:52.940 | Riswynn] spirit guardians.
-[u1794 | 01:35:55.520-01:35:55.880 | DM] Guy.
+[u1794 | 01:35:55.520-01:35:55.880 | DM] Okay.
 [u1795 | 01:36:01.140-01:36:02.900 | DM] That's a 15 foot radius.
 [u1796 | 01:36:03.350-01:36:04.140 | Kenzo] Yep.
 [u1797 | 01:36:07.390-01:36:08.090 | DM] Yeah.
 [u1798 | 01:36:10.390-01:36:13.290 | DM] and that's when they start. their turn, so Delwath is next.
 [u1799 | 01:36:13.730-01:36:18.389 | Delwath] Okay, I'm going to Misty Step using a sorcerer slot here
 [u1800 | 01:36:21.580-01:36:23.539 | Delwath] and then attack these guys.
-[u1801 | 01:36:24.260-01:36:25.010 | DM] Yeah, guy.
+[u1801 | 01:36:24.260-01:36:25.010 | DM] Yeah, okay.
 [u1802 | 01:36:28.300-01:36:31.230 | Delwath] The guy on the left. 24.
 [u1803 | 01:36:31.830-01:36:32.740 | DM] That hits.
 [u1804 | 01:36:36.110-01:36:37.360 | Delwath] For 8 damage.
@@ -1806,7 +1806,7 @@
 [u1806 | 01:36:40.060-01:36:42.220 | Delwath] Attack him again, 16.
 [u1807 | 01:36:43.330-01:36:44.879 | DM] That hits.
 [u1808 | 01:36:47.670-01:36:49.170 | Delwath] For 8 more damage.
-[u1809 | 01:36:52.530-01:36:54.960 | Delwath] {{Fantastic}}, 21.
+[u1809 | 01:36:52.530-01:36:54.960 | Delwath] Fantastic, 21.
 [u1810 | 01:36:55.460-01:36:56.310 | DM] Hits.
 [u1811 | 01:36:57.250-01:36:58.430 | Delwath] For her
 [u1812 | 01:36:58.450-01:37:00.040 | Delwath] 13 damage.
@@ -1825,7 +1825,7 @@
 [u1825 | 01:37:40.239-01:37:46.679 | DM] Dex and int are his worst resistant to cold and fire. Damage. Nothing, no other.
 [u1826 | 01:37:47.290-01:37:48.140 | DM] But that's his.
 [u1827 | 01:37:48.140-01:37:49.020 | Delwath] Challenge
-[u1828 | 01:37:50.380-01:37:52.610 | Delwath] {{8 and 10. Edit.}} Okay.
+[u1828 | 01:37:50.380-01:37:52.610 | Delwath] 8 and 10. Edit. Okay.
 [u1829 | 01:37:54.230-01:37:55.080 | Kenzo] Doc.
 [u1830 | 01:37:55.080-01:37:56.090 | DM] Super strong.
 [u1831 | 01:37:56.320-01:37:56.980 | Delwath] Yeah.
@@ -1858,7 +1858,7 @@
 [u1858 | 01:39:09.661-01:39:11.019 | Kenzo] Is there advantage right now?
 [u1859 | 01:39:12.505-01:39:18.170 | DM] No, no, no advantage, only on the spellcaster, who? Wellby had.
 [u1860 | 01:39:18.170-01:39:20.480 | Kenzo] Okay. 11 on the 1st one damage.
-[u1861 | 01:39:20.930-01:39:22.870 | Delwath] Way. Hold on.
+[u1861 | 01:39:20.930-01:39:22.870 | Delwath] Wait. Hold on.
 [u1862 | 01:39:23.060-01:39:24.390 | Delwath] no doubt. Isn't.
 [u1863 | 01:39:24.550-01:39:26.300 | Delwath] Isn't he still invisible?
 [u1864 | 01:39:28.980-01:39:33.639 | DM] Oh, yeah, you didn't cast the concentration spell. Yeah. Kenzo's still invisible. You got advantage on your 1st attack.
@@ -1885,7 +1885,7 @@
 [u1885 | 01:40:38.165-01:40:38.520 | Seeker] Dex.
 [u1886 | 01:40:39.400-01:40:42.080 | DM] Dex, and intelligence.
 [u1887 | 01:40:43.420-01:40:47.150 | Kenzo] Dex and intelligence. Also try to stun it.
-[u1888 | 01:40:48.500-01:40:49.150 | DM] But Guy.
+[u1888 | 01:40:48.500-01:40:49.150 | DM] Okay.
 [u1889 | 01:40:49.420-01:40:50.889 | DM] just regular stun
 [u1890 | 01:40:52.340-01:40:57.029 | DM] Nope, that's a 19 plus 3 is 22.
 [u1891 | 01:40:57.830-01:40:59.319 | Kenzo] Okay, and then final attack.
@@ -1895,7 +1895,7 @@
 [u1895 | 01:41:10.580-01:41:11.350 | DM] So with you.
 [u1896 | 01:41:11.660-01:41:16.490 | DM] So sorry! How much damage was that total 15 for the second, and 15 for the first.
 [u1897 | 01:41:19.790-01:41:21.550 | Kenzo] 11 for the first, 15 for the second.
-[u1898 | 01:41:21.550-01:41:22.230 | DM] But, Guy.
+[u1898 | 01:41:21.550-01:41:22.230 | DM] Okay.
 [u1899 | 01:41:22.840-01:41:25.200 | DM] and then roll your extra d. 10 for
 [u1900 | 01:41:26.010-01:41:28.110 | DM] succeed, because it succeeded, save.
 [u1901 | 01:41:28.110-01:41:30.710 | Kenzo] Reminding man. I always forget about that extra d 10,
@@ -1906,7 +1906,7 @@
 [u1906 | 01:41:39.810-01:41:44.079 | DM] takes out 4 minions and then dives at this leader
 [u1907 | 01:41:44.260-01:41:45.490 | DM] and then
 [u1908 | 01:41:46.130-01:41:47.090 | DM] these
-[u1909 | 01:41:47.200-01:41:48.660 | DM] to here
+[u1909 | 01:41:47.200-01:41:48.660 | DM] two here
 [u1910 | 01:41:49.540-01:41:54.610 | DM] dash user action to dash so they can move. 1, 2, 3, 4.
 [u1911 | 01:41:54.610-01:41:55.150 | Delwath] Which ones.
 [u1912 | 01:41:55.150-01:41:57.879 | DM] 5, 6, these 2 down here.
@@ -1920,19 +1920,19 @@
 [u1920 | 01:42:18.910-01:42:19.540 | Seeker] For slow.
 [u1921 | 01:42:19.875-01:42:20.210 | DM] Slow.
 [u1922 | 01:42:21.010-01:42:22.120 | Seeker] It's 18.
-[u1923 | 01:42:22.120-01:42:24.990 | DM] 1818. Actually one of them.
+[u1923 | 01:42:22.120-01:42:24.990 | DM] 18, 18. Actually one of them.
 [u1924 | 01:42:25.240-01:42:27.379 | DM] this one here does succeed.
 [u1925 | 01:42:29.640-01:42:32.879 | DM] The other one is still slowed that ends
 [u1926 | 01:42:33.090-01:42:34.330 | DM] their turn.
 [u1927 | 01:42:35.208-01:42:38.210 | DM] These 2 are also going to dash.
 [u1928 | 01:42:39.240-01:42:39.800 | Delwath] Which 2.
 [u1929 | 01:42:39.800-01:42:43.809 | DM] Though you can choose the 2 next to you, you can choose who you're gonna make an opportunity attack against.
-[u1930 | 01:42:44.000-01:42:47.199 | Delwath] One. I'll make {{it up to. Jacob has the hard one}}.
-[u1931 | 01:42:47.860-01:42:48.540 | DM] So guy.
+[u1930 | 01:42:44.000-01:42:47.199 | Delwath] One. I'll make an opportunity attack on the hurt one.
+[u1931 | 01:42:47.860-01:42:48.540 | DM] Okay.
 [u1932 | 01:42:52.010-01:42:52.720 | Delwath] Or.
 [u1933 | 01:42:53.050-01:42:53.710 | DM] That hits.
 [u1934 | 01:42:55.080-01:42:56.250 | Delwath] 14 damage.
-[u1935 | 01:42:57.480-01:42:58.230 | DM] Guy.
+[u1935 | 01:42:57.480-01:42:58.230 | DM] Okay.
 [u1936 | 01:42:58.900-01:43:02.189 | DM] and that will end their turn. They also both get
 [u1937 | 01:43:02.920-01:43:04.789 | DM] a chance to save again.
 [u1938 | 01:43:06.270-01:43:08.510 | DM] What's their plus here?
@@ -1964,7 +1964,7 @@
 [u1964 | 01:44:43.160-01:44:44.090 | Kenzo] alright.
 [u1965 | 01:44:44.740-01:44:46.629 | Kenzo] getting kind of hurt.
 [u1966 | 01:44:49.190-01:44:52.759 | DM] And that brings up Wellby, who will keep
-[u1967 | 01:44:53.200-01:44:57.160 | DM] shooting as appropriate {{according to sports}}, so which does Wellby want to shoot.
+[u1967 | 01:44:53.200-01:44:57.160 | DM] shooting as appropriate according to Schwartz, so which does Wellby want to shoot.
 [u1968 | 01:44:58.585-01:45:00.599 | Delwath] The guys who are getting away.
 [u1969 | 01:45:01.070-01:45:01.600 | Seeker] Yeah.
 [u1970 | 01:45:01.600-01:45:04.059 | Delwath] Injured person in front of him to start.
@@ -1996,7 +1996,7 @@
 [u1996 | 01:46:23.960-01:46:25.289 | DM] With a catapult.
 [u1997 | 01:46:25.290-01:46:26.260 | Seeker] Strike one.
 [u1998 | 01:46:26.750-01:46:35.859 | DM] Yeah, if the first, if the 1st one dodges under the second in line behind it, you have a chance to catch the second one with the catapult, but it
-[u1999 | 01:46:36.220-01:46:36.920 | DM] dude, damn, and.
+[u1999 | 01:46:36.220-01:46:36.920 | DM] do damage.
 [u2000 | 01:46:36.920-01:46:38.400 | Delwath] It's a Dex save right.
 [u2001 | 01:46:38.890-01:46:39.250 | DM] Yes.
 [u2002 | 01:46:39.553-01:46:40.160 | Seeker] Yeah, she.
@@ -2013,7 +2013,7 @@
 [u2013 | 01:47:25.270-01:47:26.400 | Riswynn] movement.
 [u2014 | 01:47:26.940-01:47:30.449 | DM] Moves closer, to which one, the one running away, or the.
 [u2015 | 01:47:30.900-01:47:32.020 | Riswynn] The one running way.
-[u2016 | 01:47:32.799-01:47:33.160 | DM] Guy.
+[u2016 | 01:47:32.799-01:47:33.160 | DM] Okay.
 [u2017 | 01:47:35.610-01:47:39.099 | Riswynn] But I think I make it so that he's in the range of.
 [u2018 | 01:47:39.530-01:47:41.250 | DM] Yeah, so you can get there.
 [u2019 | 01:47:41.870-01:47:46.700 | DM] So that actually reduces the speed further. So now he can move like nothing.
@@ -2027,7 +2027,7 @@
 [u2027 | 01:48:07.260-01:48:07.930 | DM] I.
 [u2028 | 01:48:07.930-01:48:10.560 | Riswynn] Okay, fine. I'll take that advice.
 [u2029 | 01:48:10.560-01:48:13.810 | DM] I mean, you'll do way more damage with a cantrip.
-[u2030 | 01:48:15.650-01:48:17.000 | Riswynn] Share her.
+[u2030 | 01:48:15.650-01:48:17.000 | Riswynn] Sure.
 [u2031 | 01:48:18.470-01:48:19.680 | Riswynn] well, acceptable.
 [u2032 | 01:48:19.700-01:48:21.539 | Riswynn] All of my cantrips are
 [u2033 | 01:48:22.390-01:48:23.240 | Riswynn] well.
@@ -2051,7 +2051,7 @@
 [u2051 | 01:49:00.660-01:49:02.890 | DM] pretty wounded at this point, Delwath.
 [u2052 | 01:49:03.600-01:49:05.329 | Delwath] I will. I'll just blast
 [u2053 | 01:49:05.410-01:49:09.280 | Delwath] the 1st blast at one of the minions.
-[u2054 | 01:49:10.000-01:49:10.670 | DM] But guy.
+[u2054 | 01:49:10.000-01:49:10.670 | DM] Okay.
 [u2055 | 01:49:11.970-01:49:12.760 | Delwath] 23.
 [u2056 | 01:49:12.760-01:49:13.470 | DM] That's.
 [u2057 | 01:49:16.030-01:49:17.060 | Delwath] For 1 point of damage.
@@ -2059,7 +2059,7 @@
 [u2059 | 01:49:18.889-01:49:19.160 | Riswynn] Awesome.
 [u2060 | 01:49:19.160-01:49:19.799 | Delwath] It's blast.
 [u2061 | 01:49:19.800-01:49:20.660 | DM] Because he's a Minion.
-[u2062 | 01:49:20.870-01:49:23.180 | Delwath] Yeah. Second blasted another minion
+[u2062 | 01:49:20.870-01:49:23.180 | Delwath] Yeah. Second blast at another minion
 [u2063 | 01:49:23.730-01:49:24.779 | Delwath] 28.
 [u2064 | 01:49:25.210-01:49:25.640 | DM] Dead.
 [u2065 | 01:49:26.110-01:49:33.020 | Delwath] Or 10 points of damage. Then I will 3rd blast at the escaping guy.
@@ -2072,7 +2072,7 @@
 [u2072 | 01:49:53.120-01:49:55.271 | Delwath] And then I will wait. I'm gonna move.
 [u2073 | 01:49:55.910-01:49:56.650 | DM] Bonus action.
 [u2074 | 01:49:56.880-01:49:59.260 | Delwath] Well, I'm not using my bonus action, I'm just moving.
-[u2075 | 01:49:59.995-01:50:00.370 | DM] Guys.
+[u2075 | 01:49:59.995-01:50:00.370 | DM] Okay.
 [u2076 | 01:50:00.620-01:50:02.160 | Delwath] Just want to get closer to him.
 [u2077 | 01:50:03.260-01:50:07.510 | Delwath] So I handle the 3 right, Tim, half move. So there we go.
 [u2078 | 01:50:09.120-01:50:10.340 | Delwath] Kenzo.
@@ -2085,7 +2085,7 @@
 [u2085 | 01:50:29.700-01:50:32.619 | Kenzo] Worth it to stun him. Why not?
 [u2086 | 01:50:33.049-01:50:33.480 | Delwath] Not.
 [u2087 | 01:50:34.240-01:50:36.800 | Delwath] Yeah, maybe it is. I guess it is actually.
-[u2088 | 01:50:37.840-01:50:39.350 | Kenzo] 1016.
+[u2088 | 01:50:37.840-01:50:39.350 | Kenzo] 10, 16.
 [u2089 | 01:50:39.750-01:50:45.390 | DM] 16 hits as he uses his reaction to create this ice shield in front of him.
 [u2090 | 01:50:45.887-01:50:48.879 | DM] You punch through it, roll your damage.
 [u2091 | 01:50:48.880-01:50:49.640 | Kenzo] 14.
@@ -2139,7 +2139,7 @@
 [u2139 | 01:52:52.630-01:52:55.859 | Delwath] Is this tower or this building are either.
 [u2140 | 01:52:55.860-01:52:56.190 | Seeker] Well.
 [u2141 | 01:52:56.190-01:52:57.170 | Delwath] Buildings.
-[u2142 | 01:52:57.590-01:52:59.639 | Seeker] These houses are {{held}} enclosed.
+[u2142 | 01:52:57.590-01:52:59.639 | Seeker] These houses are all enclosed.
 [u2143 | 01:53:00.130-01:53:07.730 | DM] These are huts. These are like the roofs of huts, and there's like a building that's connected to the side going over the edge. Now
 [u2144 | 01:53:08.120-01:53:12.130 | DM] 2 guards were running towards these structures.
 [u2145 | 01:53:12.510-01:53:14.520 | Delwath] Yeah, I don't. I'm I meant.
@@ -2242,7 +2242,7 @@
 [u2242 | 01:57:50.320-01:57:51.389 | DM] The white thing. Yeah.
 [u2243 | 01:57:51.390-01:57:51.860 | Delwath] Okay. But.
 [u2244 | 01:57:51.860-01:57:52.440 | Wellby] Unit, to.
-[u2245 | 01:57:52.440-01:57:53.669 | DM] I guess {{I'm excellent}}
+[u2245 | 01:57:52.440-01:57:53.669 | DM] I guess I'm excellent
 [u2246 | 01:57:53.850-01:57:56.370 | DM] structure of some kind.
 [u2247 | 01:57:57.138-01:58:04.170 | DM] Is sitting here, and then in the tower. This guard tower, you know, there's like
 [u2248 | 01:58:05.820-01:58:08.489 | DM] it's like a a guard post.
@@ -2441,7 +2441,7 @@
 [u2441 | 02:09:56.350-02:09:57.479 | Delwath] What do we have?
 [u2442 | 02:09:58.610-02:10:03.950 | Wellby] So I mean giant weapon from like that's that's some solid loot right there.
 [u2443 | 02:10:04.200-02:10:07.370 | Seeker] What? Wellby ran and grabbed it before we went to the portal. No doubt
-[u2444 | 02:10:07.670-02:10:08.839 | Seeker] he was in English.
+[u2444 | 02:10:07.670-02:10:08.839 | Seeker] he was invisible.
 [u2445 | 02:10:08.840-02:10:11.720 | DM] I can believe that Wellby would have
 [u2446 | 02:10:12.890-02:10:15.350 | DM] carried it through. I guess.
 [u2447 | 02:10:15.650-02:10:21.129 | Wellby] Imagine how good it's gonna look like going down mounted, going down the center of our dining table.
@@ -2511,9 +2511,9 @@
 [u2511 | 02:13:36.900-02:13:39.500 | DM] If the if the pen is
 [u2512 | 02:13:40.660-02:13:45.660 | DM] is like northeast, the jade is almost directly due east
 [u2513 | 02:13:46.230-02:13:48.320 | DM] into the pitch darkness.
-[u2514 | 02:13:49.230-02:13:52.380 | Seeker] To east, so not where that road goes.
+[u2514 | 02:13:49.230-02:13:52.380 | Seeker] Due east, so not where that road goes.
 [u2515 | 02:13:52.380-02:13:54.089 | DM] Not following the road.
-[u2516 | 02:13:56.230-02:14:00.280 | Seeker] Well, then, we should go do East into the pitch darkness, I guess.
+[u2516 | 02:13:56.230-02:14:00.280 | Seeker] Well, then, we should go due East into the pitch darkness, I guess.
 [u2517 | 02:14:00.380-02:14:01.400 | Seeker] Good Lord!
 [u2518 | 02:14:04.700-02:14:05.140 | DM] Style
 [u2519 | 02:14:05.870-02:14:12.099 | DM] Kenzo is communing with, well, okay, so Delwath is searching. What is everybody else doing? while Delwath's searching.
@@ -2548,12 +2548,12 @@
 [u2548 | 02:15:51.270-02:15:51.689 | Seeker] On, that.
 [u2549 | 02:15:51.690-02:15:53.110 | Delwath] Some point it.
 [u2550 | 02:15:53.110-02:15:53.560 | Seeker] Yeah.
-[u2551 | 02:15:53.560-02:15:55.069 | Delwath] Magic circles a minute.
+[u2551 | 02:15:53.560-02:15:55.069 | Delwath] Magic Circle's a minute.
 [u2552 | 02:15:55.905-02:15:56.400 | Seeker] Okay.
 [u2553 | 02:15:56.400-02:15:58.800 | Delwath] So it's not a great combat spell.
 [u2554 | 02:15:59.120-02:16:00.970 | Seeker] I see I didn't realize that
 [u2555 | 02:16:02.400-02:16:06.410 | DM] But it's extremely useful for protecting yourself from elementals.
-[u2556 | 02:16:06.410-02:16:06.880 | Delwath] Crack!
+[u2556 | 02:16:06.410-02:16:06.880 | Delwath] Correct!
 [u2557 | 02:16:07.275-02:16:07.670 | Seeker] S.
 [u2558 | 02:16:07.780-02:16:09.820 | Seeker] The other thing that seems really wanted to.
 [u2559 | 02:16:09.820-02:16:10.939 | DM] And short rest.
@@ -2650,7 +2650,7 @@
 [u2650 | 02:23:09.970-02:23:12.440 | Wellby] M.T. Is Milo Thistlefoot.
 [u2651 | 02:23:13.420-02:23:14.530 | Wellby] That's the guy.
 [u2652 | 02:23:15.417-02:23:19.019 | Delwath] Man, this is Milo's stuff you're very smart. Wellby.
-[u2653 | 02:23:19.460-02:23:20.280 | Kenzo] {{20 miles, then}}.
+[u2653 | 02:23:19.460-02:23:20.280 | Kenzo] Totally Milo's, then.
 [u2654 | 02:23:20.320-02:23:21.610 | Wellby] Loans.
 [u2655 | 02:23:23.970-02:23:25.290 | Delwath] I'm sure it says.
 [u2656 | 02:23:25.290-02:23:26.030 | Seeker] Ballad.
@@ -2724,7 +2724,7 @@
 [u2724 | 02:27:34.020-02:27:34.580 | Seeker] But.
 [u2725 | 02:27:34.580-02:27:44.930 | Riswynn] If we, if we had no other information, if we didn't kill anybody or wake anybody up or interrogating anybody, we would have to choose between going into the darkness towards Kenzo's
 [u2726 | 02:27:46.040-02:27:47.430 | Riswynn] jade vibe
-[u2727 | 02:27:48.190-02:27:52.459 | Riswynn] on the lit trail, which is probably to wherever they've imprisoned Milo. If he's alive.
+[u2727 | 02:27:48.190-02:27:52.459 | Riswynn] or the lit trail, which is probably to wherever they've imprisoned Milo. If he's alive.
 [u2728 | 02:27:54.020-02:27:55.639 | Riswynn] I would say that's
 [u2729 | 02:28:00.100-02:28:10.759 | Riswynn] so, if we find. But if we find out that Milo is alive along the trail, do we still? Do we not go for the jade? I mean. I think we still gotta go for the jade. I mean, I feel bad for Milo, but.
 [u2730 | 02:28:11.310-02:28:12.969 | Seeker] We're gonna go for the jade. Yeah.
@@ -2733,7 +2733,7 @@
 [u2733 | 02:28:19.250-02:28:21.279 | Wellby] Yeah, we swing over. We pick them up.
 [u2734 | 02:28:21.340-02:28:23.860 | Wellby] We bring a spare horse and we go get the
 [u2735 | 02:28:24.120-02:28:26.790 | Wellby] we go get the jade. We all. We all go home.
-[u2736 | 02:28:26.790-02:28:28.119 | Kenzo] My little friend, her enemy.
+[u2736 | 02:28:26.790-02:28:28.119 | Kenzo] Milo, friend or enemy.
 [u2737 | 02:28:28.980-02:28:32.740 | Riswynn] Oh, friend, halfling adventurer, who got
 [u2738 | 02:28:32.930-02:28:34.840 | Riswynn] trapped trying to do what we're doing.
 [u2739 | 02:28:35.400-02:28:37.209 | Seeker] But it's not somebody that we've ever met.
@@ -2968,12 +2968,12 @@
 [u2968 | 02:41:46.180-02:41:49.909 | Delwath] now I'm gonna I'm gonna use. I'm gonna use my.
 [u2969 | 02:41:51.060-02:41:51.869 | Delwath] And you said, Oh.
 [u2970 | 02:41:51.870-02:41:52.880 | DM] That's the Pact Keeper.
-[u2971 | 02:41:52.880-02:41:57.179 | Delwath] {{Getters}}. But I'm gonna use my Rod of the Pact Keeper to get tongues
-[u2972 | 02:41:57.300-02:41:59.969 | Delwath] {{to get back to, else}} I have to cast Tongues.
-[u2973 | 02:42:04.265-02:42:04.630 | DM] Guy.
+[u2971 | 02:41:52.880-02:41:57.179 | Delwath] Getters. But I'm gonna use my Rod of the Pact Keeper to get tongues
+[u2972 | 02:41:57.300-02:41:59.969 | Delwath] to get back to, else I have to cast Tongues.
+[u2973 | 02:42:04.265-02:42:04.630 | DM] Okay.
 [u2974 | 02:42:06.200-02:42:07.870 | DM] so he understands you. Now.
 [u2975 | 02:42:10.042-02:42:14.199 | Delwath] And I'm gonna take the approach of threatening him.
-[u2976 | 02:42:14.660-02:42:19.410 | Delwath] basically saying, We're, I'm gonna go on the where we're friends of Milo's.
+[u2976 | 02:42:14.660-02:42:19.410 | Delwath] basically saying, We're, I'm gonna go on the we're we're friends of Milo's.
 [u2977 | 02:42:19.410-02:42:19.730 | Kenzo] 3 0.
 [u2978 | 02:42:19.730-02:42:20.959 | Delwath] You have his stuff.
 [u2979 | 02:42:20.960-02:42:22.109 | Kenzo] Care of like.
@@ -3136,12 +3136,12 @@
 [u3136 | 02:51:46.620-02:51:48.679 | Seeker] It just doesn't work for me for something.
 [u3137 | 02:51:49.070-02:51:50.210 | Seeker] anyway.
 [u3138 | 02:51:51.190-02:51:52.440 | Seeker] and healed.
-[u3139 | 02:51:53.320-02:51:54.150 | DM] Guy.
+[u3139 | 02:51:53.320-02:51:54.150 | DM] Okay.
 [u3140 | 02:52:02.960-02:52:03.940 | DM] so
 [u3141 | 02:52:07.240-02:52:08.710 | DM] as you
 [u3142 | 02:52:09.250-02:52:14.089 | DM] finish your rest and contemplate your next moves, what are your next? Moves.
 [u3143 | 02:52:14.854-02:52:18.599 | Kenzo] By the way, I can hear everything. I'm just moving around, but I'm I'm here.
-[u3144 | 02:52:18.965-02:52:19.330 | DM] Guy.
+[u3144 | 02:52:18.965-02:52:19.330 | DM] Okay.
 [u3145 | 02:52:19.590-02:52:21.049 | Riswynn] Alright good luck.
 [u3146 | 02:52:21.740-02:52:26.030 | Riswynn] I think we should. I kinda like the deception plan
 [u3147 | 02:52:27.029-02:52:27.480 | Riswynn] like
@@ -3481,7 +3481,7 @@
 [u3481 | 03:13:31.420-03:13:36.890 | Wellby] I know technically we have a person who is flying our ship right now, but I don't think.
 [u3482 | 03:13:36.890-03:13:37.230 | Seeker] We think.
 [u3483 | 03:13:37.230-03:13:38.850 | Wellby] Call him a captain. Exactly.
-[u3484 | 03:13:40.510-03:13:45.400 | DM] But, Frederick, not a captain. He would be very offended to hear you say that. Wellby.
+[u3484 | 03:13:40.510-03:13:45.400 | DM] But, Faldrak, not a captain. He would be very offended to hear you say that. Wellby.
 [u3485 | 03:13:45.400-03:13:47.106 | Wellby] That's why I'm not sitting near it.
 [u3486 | 03:13:49.310-03:13:52.959 | Seeker] What what kind of a bubble is this that we're looking at?
 [u3487 | 03:13:53.270-03:13:57.920 | DM] Well, though, that's what I was asking. Do you want to get close? I mean, how close do you want to get? It is
@@ -3536,7 +3536,7 @@
 [u3536 | 03:17:31.060-03:17:39.130 | Riswynn] so door, or whatever it is, is not on the side. It's on the side, where it's likely will be spotted on the tower.
 [u3537 | 03:17:39.130-03:17:39.929 | Seeker] What if we
 [u3538 | 03:17:40.100-03:17:41.390 | Seeker] or if we puncture it.
-[u3539 | 03:17:42.870-03:17:44.869 | Seeker] it'll {{start spring. So live}}.
+[u3539 | 03:17:42.870-03:17:44.869 | Seeker] it'll start spring. So live.
 [u3540 | 03:17:44.870-03:17:46.459 | Riswynn] Will get angry at us.
 [u3541 | 03:17:47.350-03:17:49.419 | Riswynn] I think it's it's the
 [u3542 | 03:17:49.970-03:17:52.850 | Riswynn] entity, or whatever the word is that starts with an E.
@@ -3554,7 +3554,7 @@
 [u3554 | 03:18:37.210-03:18:38.010 | Riswynn] Great.
 [u3555 | 03:18:38.160-03:18:40.740 | DM] One could always try.
 [u3556 | 03:18:40.740-03:18:43.049 | Wellby] And keep everybody else in. I love this.
-[u3557 | 03:18:43.440-03:18:45.289 | Seeker] I am now {{sorry we're in there}}
+[u3557 | 03:18:43.440-03:18:45.289 | Seeker] I am now sorry we're in there
 [u3558 | 03:18:45.760-03:18:49.570 | Seeker] to the binding stones of Amloch.
 [u3559 | 03:18:50.410-03:19:00.310 | Seeker] Now the stones are named as follows, the mirror stone, the chaos stone, the echostone, the Anger stone, the Peace Stone.
 [u3560 | 03:19:00.820-03:19:05.070 | Seeker] and the following spells are rumored to be part of the abilities of the stones, including
@@ -3607,7 +3607,7 @@
 [u3607 | 03:21:56.550-03:22:01.510 | Seeker] how many 5th Level slots? I guess I'll use a 6th level slot. Is that a bad idea?
 [u3608 | 03:22:02.580-03:22:04.669 | Delwath] Kind of. But that's okay.
 [u3609 | 03:22:04.670-03:22:08.559 | Seeker] Yeah, cause we're gonna have to. We're gonna get in a fight. I'm gonna I will try 4th Level.
-[u3610 | 03:22:09.455-03:22:09.810 | DM] Guy.
+[u3610 | 03:22:09.455-03:22:09.810 | DM] Okay.
 [u3611 | 03:22:10.290-03:22:15.209 | Riswynn] I mean, if you're short on slots, I also have Dispel Magic at 4th or 5th level.
 [u3612 | 03:22:16.000-03:22:16.750 | Seeker] Oh.
 [u3613 | 03:22:17.970-03:22:22.150 | Seeker] I'm not that short. But I just don't have many slots at the high levels.
@@ -3615,7 +3615,7 @@
 [u3615 | 03:22:26.160-03:22:30.300 | Riswynn] I mean it would use up either my last 4th or my last 5th Level spell.
 [u3616 | 03:22:30.300-03:22:33.220 | Seeker] Oh, okay, I have 2 more 4th Level ones.
 [u3617 | 03:22:33.220-03:22:34.860 | Riswynn] Alright, so you use it for us.
-[u3618 | 03:22:35.115-03:22:35.370 | DM] Guy.
+[u3618 | 03:22:35.115-03:22:35.370 | DM] Okay.
 [u3619 | 03:22:35.370-03:22:38.670 | Seeker] I will use a 4th Level spell, slot and cast
 [u3620 | 03:22:39.160-03:22:40.679 | Seeker] Dispel Magic.
 [u3621 | 03:22:41.610-03:22:44.530 | DM] So as Seeker reaches out to cast you. You
@@ -3630,7 +3630,7 @@
 [u3630 | 03:23:15.090-03:23:16.210 | DM] You have, like
 [u3631 | 03:23:16.760-03:23:19.599 | DM] 10 seconds in real life. What are you doing.
 [u3632 | 03:23:19.600-03:23:21.509 | Wellby] Wellby charges forwards.
-[u3633 | 03:23:22.440-03:23:24.160 | DM] I mean, Jim. I'll be charged always.
+[u3633 | 03:23:22.440-03:23:24.160 | DM] I mean, Wellby charges forwards.
 [u3634 | 03:23:24.160-03:23:25.600 | Delwath] I'll follow Wellby.
 [u3635 | 03:23:25.600-03:23:26.030 | DM] Okay.
 [u3636 | 03:23:26.030-03:23:27.210 | Seeker] Seeker {{doesn't charge us}}.
@@ -3651,7 +3651,7 @@
 [u3651 | 03:24:03.210-03:24:05.390 | DM] It's almost like squid ink around you. So
 [u3652 | 03:24:06.350-03:24:09.490 | DM] it's not just that. It's dark. It's that it's obscured.
 [u3653 | 03:24:10.937-03:24:12.220 | DM] You can go.
-[u3654 | 03:24:13.360-03:24:15.540 | Delwath] And so we {{wrapped up}} the manta rays.
+[u3654 | 03:24:13.360-03:24:15.540 | Delwath] And so we hopped off the manta rays.
 [u3655 | 03:24:15.730-03:24:19.610 | DM] Yeah, yeah, you had to. The manta rays wouldn't fit through. They're pretty big.
 [u3656 | 03:24:20.115-03:24:21.990 | DM] They're like large size creatures.
 [u3657 | 03:24:22.940-03:24:24.120 | DM] you can go.
@@ -3725,7 +3725,7 @@
 [u3725 | 03:28:03.031-03:28:04.479 | DM] Like a little bit below it.
 [u3726 | 03:28:04.770-03:28:05.120 | Delwath] Okay.
 [u3727 | 03:28:05.120-03:28:06.949 | DM] You can see the edge above you, you can.
-[u3728 | 03:28:07.570-03:28:11.070 | DM] {{and great}} if you wanted to. The halflings are still in front, not above you.
+[u3728 | 03:28:07.570-03:28:11.070 | DM] and great if you wanted to. The halflings are still in front, not above you.
 [u3729 | 03:28:17.040-03:28:20.169 | Wellby] Can I reach out to them telepathically? Are they within 120 feet.
 [u3730 | 03:28:22.540-03:28:23.269 | Seeker] And now they are.
 [u3731 | 03:28:23.710-03:28:26.150 | DM] Not quite.
@@ -3736,7 +3736,7 @@
 [u3736 | 03:28:39.540-03:28:41.819 | DM] 50 feet before they're within range.
 [u3737 | 03:28:50.250-03:28:50.570 | Delwath] Nothing.
 [u3738 | 03:28:50.790-03:28:55.160 | DM] So are we under the platform going over the platform, climbing up onto the platform.
-[u3739 | 03:28:56.650-03:29:03.089 | Riswynn] I'm biased by this artistic rendering that you have, as our background is the bottom of the platform, like literally jagged {{select}}.
+[u3739 | 03:28:56.650-03:29:03.089 | Riswynn] I'm biased by this artistic rendering that you have, as our background is the bottom of the platform, like literally jagged select.
 [u3740 | 03:29:03.090-03:29:06.240 | DM] No, this is this is smooth. The bottom of the
 [u3741 | 03:29:06.450-03:29:10.190 | DM] coral of the portal platform you came in was this jagged.
 [u3742 | 03:29:11.830-03:29:15.870 | Delwath] But this is floating. So when you say Platform, you're, I mean, like a floating rock.
@@ -3834,7 +3834,7 @@
 [u3834 | 03:35:53.220-03:35:54.919 | DM] Kenzo takes no damage
 [u3835 | 03:35:55.510-03:35:57.490 | DM] because Kenzo is immune to poison
 [u3836 | 03:35:57.630-03:35:58.140 | DM] good.
-[u3837 | 03:35:58.140-03:35:58.720 | Seeker] Catalog.
+[u3837 | 03:35:58.140-03:35:58.720 | Seeker] Not a lot.
 [u3838 | 03:36:03.090-03:36:06.479 | DM] you then proceed again, and Wellby.
 [u3839 | 03:36:06.480-03:36:08.909 | Delwath] Swim the front and clear all the jellyfish for the rest of the.
 [u3840 | 03:36:08.910-03:36:12.076 | DM] Yeah. Kenzo clears all the jellyfish away from the rest of you.
@@ -3855,10 +3855,10 @@
 [u3855 | 03:36:55.830-03:36:56.540 | Kenzo] Got it.
 [u3856 | 03:36:56.540-03:36:57.430 | Seeker] Hmm.
 [u3857 | 03:36:57.430-03:37:00.730 | DM] Yeah, that I agree with. Okay, he responds in halfling
-[u3858 | 03:37:02.930-03:37:03.730 | DM] Owen.
+[u3858 | 03:37:02.930-03:37:03.730 | DM] Oh, and
 [u3859 | 03:37:03.920-03:37:06.070 | DM] I forget the names of the
 [u3860 | 03:37:06.360-03:37:07.809 | DM] halfling gods now. But
-[u3861 | 03:37:07.960-03:37:09.640 | DM] think the 1st ones.
+[u3861 | 03:37:07.960-03:37:09.640 | DM] thank the First Ones.
 [u3862 | 03:37:10.250-03:37:11.770 | DM] Who the hell are you?
 [u3863 | 03:37:12.860-03:37:13.335 | DM] And.
 [u3864 | 03:37:15.600-03:37:21.070 | Wellby] I'm Wellby Goodbarrel, and I give the sort of standard like halfling description of my extended family
@@ -3891,7 +3891,7 @@
 [u3891 | 03:39:03.360-03:39:06.460 | Wellby] Also? We picked up your sword and your pipe, but your pipe broke.
 [u3892 | 03:39:07.390-03:39:09.879 | DM] Well, the sword is the important one. Did you get
 [u3893 | 03:39:11.590-03:39:14.320 | DM] Tilly's arcane focus by any chance?
-[u3894 | 03:39:15.330-03:39:17.409 | DM] {{What's all our speakers, though?}}
+[u3894 | 03:39:15.330-03:39:17.409 | DM] What's all our speakers, though?
 [u3895 | 03:39:18.536-03:39:20.960 | Wellby] Do we get that? Yeah, yeah.
 [u3896 | 03:39:22.880-03:39:25.530 | DM] That is truly good news.
 [u3897 | 03:39:29.960-03:39:30.760 | DM] But
@@ -3907,7 +3907,7 @@
 [u3907 | 03:39:57.650-03:40:00.929 | Delwath] No, no, no, Dispel Magic, and then give her the dose
 [u3908 | 03:40:01.170-03:40:03.149 | Delwath] of the yeah stuff.
 [u3909 | 03:40:03.710-03:40:04.670 | Delwath] Thank you. I'll tell you.
-[u3910 | 03:40:04.670-03:40:06.899 | DM] Yeah. {{Goes to the Yale magic}}.
+[u3910 | 03:40:04.670-03:40:06.899 | DM] Yeah. Goes to the Yale magic.
 [u3911 | 03:40:07.340-03:40:08.170 | DM] Does he know.
 [u3912 | 03:40:08.170-03:40:11.729 | Delwath] We want spellcasters. We like spellcasters on our side.
 [u3913 | 03:40:12.040-03:40:13.330 | Seeker] That's for sure.
@@ -3948,7 +3948,7 @@
 [u3948 | 03:42:14.970-03:42:17.270 | Delwath] That big the army of merfolk.
 [u3949 | 03:42:18.340-03:42:22.519 | Wellby] When you say, giant army of merfolk, what! What do you? What do you? What's Giant.
 [u3950 | 03:42:25.460-03:42:28.639 | DM] I had a crew at 25 when we came down.
-[u3951 | 03:42:31.260-03:42:31.950 | DM] owned
+[u3951 | 03:42:31.260-03:42:31.950 | DM] and
 [u3952 | 03:42:34.510-03:42:36.699 | DM] we were outnumbered 3 to one.
 [u3953 | 03:42:39.450-03:42:41.940 | Wellby] Yeah, we didn't. We didn't run into them.
 [u3954 | 03:42:42.810-03:42:43.370 | Seeker] He!
@@ -3959,18 +3959,18 @@
 [u3959 | 03:42:55.520-03:42:58.319 | DM] what month it is? Is it on the outside.
 [u3960 | 03:42:59.420-03:43:01.530 | Wellby] I'll share the month and date.
 [u3961 | 03:43:02.540-03:43:03.470 | Delwath] What is that like.
-[u3962 | 03:43:04.384-03:43:04.710 | DM] {{June}}.
+[u3962 | 03:43:04.384-03:43:04.710 | DM] June.
 [u3963 | 03:43:06.480-03:43:07.340 | DM] No, it's.
-[u3964 | 03:43:07.340-03:43:07.880 | Delwath] Team.
-[u3965 | 03:43:07.880-03:43:09.069 | DM] {{End of May}} is when.
-[u3966 | 03:43:09.070-03:43:10.909 | Delwath] {{1745}},
-[u3967 | 03:43:11.310-03:43:12.400 | Delwath] {{46}}.
-[u3968 | 03:43:12.720-03:43:13.680 | DM] {{45}}.
-[u3969 | 03:43:13.850-03:43:14.590 | Delwath] {{45}}.
+[u3964 | 03:43:07.340-03:43:07.880 | Delwath] Tim.
+[u3965 | 03:43:07.880-03:43:09.069 | DM] End of May is when.
+[u3966 | 03:43:09.070-03:43:10.909 | Delwath] 1745,
+[u3967 | 03:43:11.310-03:43:12.400 | Delwath] 46.
+[u3968 | 03:43:12.720-03:43:13.680 | DM] 45.
+[u3969 | 03:43:13.850-03:43:14.590 | Delwath] 45.
 [u3970 | 03:43:14.892-03:43:16.099 | DM] So that was only
-[u3971 | 03:43:17.860-03:43:20.339 | DM] {{6 months ago}} now
+[u3971 | 03:43:17.860-03:43:20.339 | DM] 6 months ago now
 [u3972 | 03:43:24.630-03:43:26.050 | DM] feels like longer.
-[u3973 | 03:43:30.820-03:43:31.510 | Wellby] {{Wells}}.
+[u3973 | 03:43:30.820-03:43:31.510 | Wellby] Wells.
 [u3974 | 03:43:31.510-03:43:32.410 | DM] Months ago
 [u3975 | 03:43:32.670-03:43:35.809 | DM] there was an army of at least 75 of them
 [u3976 | 03:43:36.980-03:43:39.560 | DM] guarding some dig site.
@@ -4007,7 +4007,7 @@
 [u4007 | 03:45:19.297-03:45:21.259 | DM] Compass is a nice trinket, but
 [u4008 | 03:45:21.380-03:45:23.870 | DM] don't really need a compass to tell direction.
 [u4009 | 03:45:24.380-03:45:26.940 | DM] Once you've been around as long as I have
-[u4010 | 03:45:27.810-03:45:29.130 | DM] fall in the head.
+[u4010 | 03:45:27.810-03:45:29.130 | DM] all in the head.
 [u4011 | 03:45:34.350-03:45:35.170 | Delwath] Am.
 [u4012 | 03:45:35.340-03:45:40.629 | Wellby] What? What else is in here? So walk us through the guards. What's inside the house? What should we expect.
 [u4013 | 03:45:42.990-03:45:48.060 | DM] I don't know what's in that. Whenever they find some they have us searching for these
@@ -4029,7 +4029,7 @@
 [u4029 | 03:46:46.860-03:46:48.410 | Seeker] investigate the house
 [u4030 | 03:46:48.850-03:46:50.140 | Seeker] before yeah.
 [u4031 | 03:46:50.140-03:46:53.259 | DM] If you're gonna go investigate the house. We'll run that next time, cause
-[u4032 | 03:46:54.156-03:46:58.350 | DM] start a combat with bad elementals {{before at midnight}}.
+[u4032 | 03:46:54.156-03:46:58.350 | DM] start a combat with bad elementals before at midnight.
 [u4033 | 03:47:01.500-03:47:02.430 | DM] Awesome.
 [u4034 | 03:47:02.890-03:47:03.500 | Delwath] What?
 [u4035 | 03:47:03.690-03:47:05.229 | Delwath] So are we just wrapping.
@@ -4048,7 +4048,7 @@
 [u4048 | 03:47:36.210-03:47:36.900 | Delwath] Bat.
 [u4049 | 03:47:37.070-03:47:37.820 | Delwath] hit.
 [u4050 | 03:47:38.960-03:47:46.909 | DM] Yeah, I don't. I mean, it's let's not. We don't have to go further into this. You found. Argue tomorrow, next time in
-[u4051 | 03:47:47.380-03:47:50.249 | DM] it's fairly season. Our next session is so.
+[u4051 | 03:47:47.380-03:47:50.249 | DM] it's fairly soon. Our next session is so.
 [u4052 | 03:47:50.250-03:47:51.490 | Delwath] Yeah, or our.
 [u4053 | 03:47:51.720-03:47:55.650 | Kenzo] So wait. So we're gonna learn the origins of the Sentient Ocean. That's pretty cool.
 [u4054 | 03:47:56.040-03:47:58.150 | Riswynn] Have the opportunity to
