@@ -816,7 +816,7 @@
 [u0816 | 00:36:38.102-00:36:42.542 | Delwath] But he kind of takes out the, um, the fruit, the sisila fruit he took from the-
 [u0817 | 00:36:42.762-00:36:43.502 | Unknown] Mm, mm
 [u0818 | 00:36:43.502-00:36:43.862 | Unknown] ... um,
-[u0819 | 00:36:44.942-00:36:46.562 | Unknown] {{unclear; possibly "chaos"}} tree.
+[u0819 | 00:36:44.942-00:36:46.562 | Unknown] chaos tree.
 [u0820 | 00:36:46.562-00:36:48.562 | Kenzo] Which he never really said what was in it.
 [u0821 | 00:36:48.562-00:36:51.882 | Delwath] Maybe hinted a little bit, but he's not actually cut it open yet.
 [u0822 | 00:36:51.882-00:36:53.162 | Delwath] Um, but I,
@@ -1290,7 +1290,7 @@
 [u1290 | 00:53:45.448-00:53:46.528 | Unknown] Probably somewhere in the Feywild.
 [u1291 | 00:53:47.968-00:53:48.968 | Wellby] Or Ursk.
 [u1292 | 00:53:48.988-00:53:51.208 | Delwath] Or somewhere in Ursk. Or somewhere in...
-[u1293 | 00:53:51.208-00:53:52.628 | Delwath] Maybe they're screwing with the Bar Ghooly.
+[u1293 | 00:53:51.208-00:53:52.628 | Delwath] Maybe they're screwing with the Vargaldi.
 [u1294 | 00:53:52.628-00:53:54.748 | Unknown] [laughs]
 [u1295 | 00:53:54.748-00:53:56.848 | Wellby] Wellby checks under the table quickly.
 [u1296 | 00:53:56.848-00:54:00.428 | Wellby] [laughs]
@@ -1687,7 +1687,7 @@
 [u1687 | 01:09:59.232-01:10:00.192 | Wellby] The golden city.
 [u1688 | 01:10:01.832-01:10:02.152 | Unknown] Possibly.
 [u1689 | 01:10:02.152-01:10:03.532 | DM] [coughs] What?
-[u1690 | 01:10:04.392-01:10:04.672 | Unknown] Mir town.
+[u1690 | 01:10:04.392-01:10:04.672 | Unknown] Targu.
 [u1691 | 01:10:04.672-01:10:06.472 | DM] Yeah, that was one of the, um,
 [u1692 | 01:10:07.852-01:10:11.272 | DM] one of the, uh, souls that you rescued-
 [u1693 | 01:10:11.352-01:10:11.512 | Unknown] Right

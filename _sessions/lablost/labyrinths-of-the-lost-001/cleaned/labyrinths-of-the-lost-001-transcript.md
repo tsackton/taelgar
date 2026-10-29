@@ -1,6 +1,6 @@
 # Labyrinths of the Lost — Session 1
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: labyrinths-of-the-lost-001-source-cleaned.md
 
 ## Transcript
@@ -2059,8 +2059,8 @@ Gaudin: I could be out there and goblin, though. And and I could have her with m
 %% u1342:0-118, u1343:0-178, u1344:0-55, u1345:0-34, u1346:0-30 %%
 Dilion: I think that's—I think we should just—I—I wanna use this goblin nonsense because it's great but I think there 3 of us could probably just hide. Oh, sorry 2 of us, me and the just hide and just be ready. And if the goblins are getting to suss, we can just jump out and we can always knock them out. We don't have to kill them. We can just knock them out. Let's say non-lethally, so we can interrogate them, and another—
 
-%% u1347:0-59, u1348:0-99, u1349:0-136 %%
-Gaudin: [garbled] that works for me. So do it. Okay. So Gaudin goes off out of line of sight and returns looking more or less like one of the dead goblins. I—I rub some of this—I take some of the rotten food and stink and kind of put it in my pocket, so I have the the whole goblin ambiance.
+%% u1347:0-54, u1348:0-99, u1349:0-136 %%
+Gaudin: And nonlethally, that works for me. So do it. Okay. So Gaudin goes off out of line of sight and returns looking more or less like one of the dead goblins. I—I rub some of this—I take some of the rotten food and stink and kind of put it in my pocket, so I have the the whole goblin ambiance.
 
 %% u1350:0-67, u1351:0-12 %%
 DM: Sorry. Which of the dead ones do you look like: the boss lady or the sneaky one?
@@ -3208,8 +3208,8 @@ Dilion: Last.
 %% u2046:0-52, u2047:0-22, u2048:0-8, u2049:0-49, u2050:0-10, u2051:0-14 %%
 Acescale: You might be able to let us in the the barracks ones, like, “You never saw us. Goodbye.” Or we try and long rest, and then they ambush us. Depends on what we think.
 
-%% u2052:0-5, u2053:0-82, u2054:0-4, u2055:0-169, u2056:0-133 %%
-Dilion: Like, how many people are gonna come out? How many goblins gonna come out to investigate like if they're coming in an hour or something again, this is the next station. But for like, if they're coming out in an hour, how many come out? Because if this 10 goblins, {{the old Tina, gonna}} come at once. So they did say, “Tell Ulgna I'm gonna deal with Morky. I'll be back an hour,” and Ulgna is like—
+%% u2052:0-5, u2053:0-82, u2054:0-4, u2055:0-169, u2056:0-127 %%
+Dilion: Like, how many people are gonna come out? How many goblins gonna come out to investigate like if they're coming in an hour or something again, this is the next station. But for like, if they're coming out in an hour, how many come out? Because if this 10 goblins, all ten are gonna come at once. So they did say, “Tell Ulgna I'm gonna deal with Morky. I'll be back an hour,” and Ulgna is like—
 
 %% u2057:0-44 %%
 Loria: I think Ulgna is like the head of the goblin.

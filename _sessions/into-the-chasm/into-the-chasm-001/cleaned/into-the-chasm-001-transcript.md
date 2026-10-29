@@ -93,7 +93,7 @@ DM: When the rainbow sign was followed by a living sheet of ice that swam out of
 DM: And then, at the start of January, the sky above the chasm turned black, and held darkness, blotting out the sun over the chasm, like a huge dark cloud on the horizon for 5 days and nights.
 
 %% u0055:0-23, u0056:0-8, u0057:0-67, u0058:0-125, u0059:0-5, u0060:0-23 %%
-DM: And so, on January 8th of 1730, two weeks before Quintarim, the Sambaran feast day of the Wanderer, the Vejo Vaikai gathered some of their wisest mystics and sent them, with a few of the warriors of the Kemeko, to investigate— they… what might be going on.
+DM: And so, on January 8th of 1730, two weeks before Quintarum, the Sembaran feast day of the Wanderer, the Vejo Vaikai gathered some of their wisest mystics and sent them, with a few of the warriors of the Kemeko, to investigate— they… what might be going on.
 
 %% u0061:0-17, u0062:0-62 %%
 DM: It's now January… 22nd. More than two weeks have passed, and none have returned.
@@ -527,8 +527,8 @@ Ekko: All of us?
 %% u0326:0-13 %%
 DM: No, just Tim.
 
-%% u0327:0-5 %%
-Finnan: [garbled]
+%% u0327:0-3 %%
+Finnan: 15.
 
 %% u0328:0-252, u0329:0-106 %%
 DM: As you start to sing, the wind picks up a little bit, and it, like, almost… you, like, it, like, blows across you, and, like, it takes a minute for you to, like, regain the strength of your song. It's almost like the wind is trying to steal your voice. But you recover the strength of your song, and you… you finish, and she calms down, and… and looks around.
@@ -1337,8 +1337,8 @@ Finnan: Mirror image.
 %% u0728:0-132, u0729:0-40 %%
 DM: Yes. The wind, again, blows down. Every time… like, it seems like when you're trying to summon strong magical effects, there's this… this wind comes and tries to steal your…
 
-%% u0730:0-5 %%
-Finnan: [garbled]
+%% u0730:0-3 %%
+Finnan: 15.
 
 %% u0731:0-20 %%
 DM: Don't falter at all.
@@ -2708,8 +2708,8 @@ DM: Schwartz, are you gonna say?
 %% u1439:0-283, u1440:0-15 %%
 Justas: Yeah, I'll go looking among, like, all the different, like, charms and relics and symbols of the Kestavo that I've accumulated over the years for something from the high mountains, like, something that I might guess at her being familiar with based on, sort of, dress and speech and… Anything short?
 
-%% u1441:0-7 %%
-DM: [garbled]
+%% u1441:0-5 %%
+DM: Sure.
 
 %% u1442:0-21 %%
 Justas: But where she's from.
@@ -3057,7 +3057,7 @@ Justas: Well, I was traveling with the halfling. We were coming because we'd hea
 Ekko: Mike, what are the Kestavo houses? Did I know about those?
 
 %% u1678:0-240, u1679:0-282, u1680:0-74, u1681:0-105, u1682:0-27 %%
-DM: So you would know, but yeah, so the Kestavo are the local religion. It's basically a sort of small gods tradition, where the idea is that there's, like, a god in every… a little god in a brook, or in a tree, or in a mountain, or in a… in a… waterfall, or… and so… and people sort of build little shrines to the different small gods in these different little places, and worship them, and it's kind of the… it's faded a bit, because the Mos Numena, like, the Eight Divines religion, has kind of come up from Sambara, and is… a more powerful set of gods, and so it's not as widespread as it was, but… They would… you would know. I mean, it's the local religion. You would think of it kind of like, sort of… Shinto, Japanese… with God.
+DM: So you would know, but yeah, so the Kestavo are the local religion. It's basically a sort of small gods tradition, where the idea is that there's, like, a god in every… a little god in a brook, or in a tree, or in a mountain, or in a… in a… waterfall, or… and so… and people sort of build little shrines to the different small gods in these different little places, and worship them, and it's kind of the… it's faded a bit, because the Mos Numena, like, the Eight Divines religion, has kind of come up from Sembara, and is… a more powerful set of gods, and so it's not as widespread as it was, but… They would… you would know. I mean, it's the local religion. You would think of it kind of like, sort of… Shinto, Japanese… with God.
 
 %% u1683:0-25 %%
 Ekko: Sounds very Shinto, yeah.

@@ -1958,7 +1958,7 @@
 [u1958 | 02:44:52.650-02:44:53.760 | Trok] Water out of their mouth.
 [u1959 | 02:44:55.260-02:44:57.000 | Wazir] kids his dead wife and kids yeah.
 [u1960 | 02:44:57.480-02:44:59.970 | Wazir] Man, I think that that.
-[u1961 | 02:45:01.020-02:45:04.590 | Wazir] Six people in that drown flats word children a collapse.
+[u1961 | 02:45:01.020-02:45:04.590 | Wazir] Six people in the drowned flats were killed in a collapsed
 [u1962 | 02:45:04.620-02:45:06.900 | Wazir] Building bodies never found.
 [u1963 | 02:45:07.350-02:45:09.870 | Trok] So, probably this guy's behind that unless.
 [u1964 | 02:45:09.900-02:45:11.250 | Wazir] It was poking around.

@@ -1484,7 +1484,7 @@
 [u1484 | 01:58:59.460-01:59:01.740 | DM] You're opening the door to my house.
 [u1485 | 01:59:01.950-01:59:03.780 | DM] I am sending you onward.
 [u1486 | 01:59:05.360-01:59:07.199 | DM] And that's the last of the entries.
-[u1487 | 01:59:12.530-01:59:15.160 | Tarek] I love all those dust shorts. It's so good.
+[u1487 | 01:59:12.530-01:59:15.160 | Tarek] I love all those, Schwartz. It's so good.
 [u1488 | 01:59:15.530-01:59:18.710 | Tarek] The shape of possibility was something from.
 [u1489 | 01:59:19.070-01:59:20.680 | Tarek] Previous session, or no?
 [u1490 | 01:59:22.230-01:59:25.600 | DM] It was a book you found. It was one of the books that,

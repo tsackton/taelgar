@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 139
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmar-frontier-139-source-cleaned.md
 
 ## Transcript
@@ -1817,8 +1817,8 @@ Delwath: But he kind of takes out the, um, the fruit, the sisila fruit he took f
 %% u0817:0-6 %%
 Unknown: Mm, mm.
 
-%% u0818:0-7, u0819:0-35 %%
-Delwath: ... um, {{unclear; possibly "chaos"}} tree.
+%% u0818:0-7, u0819:0-11 %%
+Delwath: ... um, chaos tree.
 
 %% u0820:0-42 %%
 Kenzo: Which he never really said what was in it.
@@ -2996,8 +2996,8 @@ Unknown: Probably somewhere in the Feywild.
 %% u1291:0-8 %%
 Wellby: Or Ursk.
 
-%% u1292:0-40, u1293:0-43 %%
-Delwath: Or somewhere in Ursk. Or somewhere in... Maybe they're screwing with the Bar Ghooly.
+%% u1292:0-40, u1293:0-41 %%
+Delwath: Or somewhere in Ursk. Or somewhere in... Maybe they're screwing with the Vargaldi.
 
 %% u1294:0-8 %%
 Unknown: [laughs]
@@ -3836,8 +3836,8 @@ Unknown: Possibly.
 %% u1689:0-14 %%
 DM: [coughs] What?
 
-%% u1690:0-9 %%
-Unknown: Mir town.
+%% u1690:0-6 %%
+Unknown: Targu.
 
 %% u1691:0-30, u1692:0-39 %%
 DM: Yeah, that was one of the, um, one of the, uh, souls that you rescued-

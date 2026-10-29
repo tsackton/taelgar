@@ -56,7 +56,7 @@
 [u0056 | 00:04:56.180-00:05:00.399 | DM] Little news comes in or out, and the Leviathan stands quiet.
 [u0057 | 00:05:01.100-00:05:04.030 | DM] Through the long, hard winter.
 [u0058 | 00:05:04.870-00:05:12.819 | DM] Into April, when spring comes late, a month of dreary rain and shuttered harbors, weeks of gray weather.
-[u0059 | 00:05:13.890-00:05:17.100 | DM] half-trad roads… Mud.
+[u0059 | 00:05:13.890-00:05:17.100 | DM] half-drowned roads… Mud.
 [u0060 | 00:05:17.200-00:05:26.160 | DM] It's not till May of that year that the winter… that the weather finally breaks. And as spring turns to summer, the port of Hamri fills with news and trade.
 [u0061 | 00:05:26.550-00:05:42.069 | DM] Wild rumors from the north of an ancient black dragon, a vicious beast that defeated even the best Chardonian legions, and drove the orc warlord Grumella before him in fear, finally killed by the heroes of the Battle of Voltara.
 [u0062 | 00:05:42.480-00:05:51.129 | DM] From Chardon, the tales in the spring repeat the common refrains. The merchants and traders tell stories of the wealth and glory of empire.
@@ -123,7 +123,7 @@
 [u0123 | 00:12:44.560-00:12:52.690 | DM] Leviathan to hear this woman's story. So maybe everybody could just get us back in Mawar, give a…
 [u0124 | 00:12:53.040-00:12:58.210 | DM] Brief or extended as your mood strikes your description of your character.
 [u0125 | 00:13:05.630-00:13:08.209 | Ryu] I can start. So…
-[u0126 | 00:13:10.050-00:13:19.680 | Ryu] Sorry, feeding cat simultaneously. So, and actually, no, this is my familiar. This is, this is, this is, also blue slash.
+[u0126 | 00:13:10.050-00:13:19.680 | Ryu] Sorry, feeding cat simultaneously. So, and actually, no, this is my familiar. This is, this is, this is, also Blu slash.
 [u0127 | 00:13:19.680-00:13:28.020 | DM] Familiar. Anyways, Ryu, walks into the Leviathan.
 [u0128 | 00:13:28.020-00:13:29.599 | Ryu] Having looked, like.
 [u0129 | 00:13:30.300-00:13:41.450 | DM] He just got off the boat and was in the ocean, is, like, wet, dark clothes, like, soaked, just smells of sea salt.
@@ -2707,7 +2707,7 @@
 [u2707 | 03:20:55.670-03:20:56.830 | Nerissa] Crypt is coming!
 [u2708 | 03:20:56.830-03:20:58.240 | DM] completely flooded.
 [u2709 | 03:21:00.730-03:21:02.869 | Ryu] I, revived, Geo.
-[u2710 | 03:21:03.030-03:21:04.379 | Ryu] AKA turf game.
+[u2710 | 03:21:03.030-03:21:04.379 | Ryu] AKA Turk again.
 [u2711 | 03:21:05.820-03:21:10.290 | Ryu] Can we… can I… like, you know, is there any cool treasure to liberate, you know?
 [u2712 | 03:21:10.550-03:21:11.509 | Ryu] Cool items.
 [u2713 | 03:21:12.250-03:21:18.449 | DM] I mean… Trok already looted all of the offerings.

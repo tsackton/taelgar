@@ -38,3 +38,255 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-002/sources/dragonets-ep02-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-002/cleaned/dragonets-002-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2659
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20260930-004700_Recording.transcript.vtt
+      sha256: dfab2d5659a6064a75d10ae6c3bd0ceaa0e6bbbf51c3a8ac73d0e68f30055669
+    prepared:
+      path: cleaned/dragonets-002-source-prepared.md
+      sha256: f118f0de05089745ab65031abdea992bd12f46848194bdea68af0c8e60a18a05
+    cleaned:
+      path: cleaned/dragonets-002-source-cleaned.md
+      sha256: b83dc68cb3b3cff7581be11493508f7cd9f7bfb363bc2dcd7b8c03f2b4d3ab05
+    polishedMarkdown:
+      path: cleaned/dragonets-002-transcript.md
+      sha256: 9da91e0da2b7e241769afae9f46dbaecb0528e24db937b333b7f371cb4be2777
+  speakerCorrections:
+  - uid: u0126
+    start: 0
+    end: 45
+    speaker: Zeno
+  - uid: u0666
+    start: 4
+    end: 27
+    speaker: Heska
+  - uid: u1767
+    start: 0
+    end: 41
+    speaker: Heska
+  - uid: u1772
+    start: 0
+    end: 50
+    speaker: Heska
+  - uid: u1802
+    start: 22
+    end: 49
+    speaker: Little Tony
+  - uid: u1804
+    start: 0
+    end: 45
+    speaker: Little Tony
+  - uid: u1805
+    start: 0
+    end: 5
+    speaker: Little Tony
+  - uid: u1806
+    start: 0
+    end: 113
+    speaker: Little Tony
+  - uid: u1806
+    start: 122
+    end: 135
+    speaker: Little Tony
+  - uid: u1808
+    start: 0
+    end: 12
+    speaker: Little Tony
+  - uid: u1810
+    start: 0
+    end: 59
+    speaker: Little Tony
+  - uid: u1818
+    start: 0
+    end: 175
+    speaker: Little Tony
+  - uid: u1821
+    start: 0
+    end: 20
+    speaker: Little Tony
+  - uid: u1822
+    start: 0
+    end: 51
+    speaker: Little Tony
+  - uid: u1824
+    start: 0
+    end: 9
+    speaker: Little Tony
+  - uid: u1844
+    start: 0
+    end: 64
+    speaker: Heska
+  - uid: u1872
+    start: 0
+    end: 21
+    speaker: Sculpit
+  - uid: u1884
+    start: 0
+    end: 24
+    speaker: Sculpit
+  - uid: u1885
+    start: 0
+    end: 19
+    speaker: Sculpit
+  - uid: u1888
+    start: 0
+    end: 16
+    speaker: Sculpit
+  - uid: u1890
+    start: 0
+    end: 8
+    speaker: Sculpit
+  - uid: u1891
+    start: 0
+    end: 43
+    speaker: Sculpit
+  - uid: u1903
+    start: 0
+    end: 44
+    speaker: Zeno
+  - uid: u1960
+    start: 0
+    end: 23
+    speaker: Zeno
+  - uid: u1961
+    start: 0
+    end: 15
+    speaker: Zeno
+  - uid: u1961
+    start: 22
+    end: 28
+    speaker: Zeno
+  - uid: u1963
+    start: 0
+    end: 5
+    speaker: Zeno
+  - uid: u1995
+    start: 0
+    end: 43
+    speaker: Little Tony
+  - uid: u2013
+    start: 0
+    end: 29
+    speaker: Little Tony
+  - uid: u2015
+    start: 0
+    end: 28
+    speaker: Little Tony
+  - uid: u2017
+    start: 0
+    end: 89
+    speaker: Little Tony
+  - uid: u2019
+    start: 0
+    end: 46
+    speaker: Little Tony
+  - uid: u2020
+    start: 0
+    end: 39
+    speaker: Little Tony
+  - uid: u2026
+    start: 0
+    end: 45
+    speaker: Little Tony
+  - uid: u2028
+    start: 0
+    end: 28
+    speaker: Little Tony
+  - uid: u2034
+    start: 0
+    end: 43
+    speaker: Little Tony
+  - uid: u2036
+    start: 0
+    end: 79
+    speaker: Sculpit
+  - uid: u2050
+    start: 0
+    end: 10
+    speaker: Little Tony
+  - uid: u2057
+    start: 0
+    end: 9
+    speaker: Heska
+  - uid: u2059
+    start: 0
+    end: 5
+    speaker: Heska
+  - uid: u2060
+    start: 0
+    end: 93
+    speaker: Heska
+  - uid: u2063
+    start: 0
+    end: 70
+    speaker: Heska
+  - uid: u2064
+    start: 0
+    end: 20
+    speaker: Heska
+  - uid: u2066
+    start: 0
+    end: 6
+    speaker: Heska
+  - uid: u2068
+    start: 0
+    end: 7
+    speaker: Heska
+  - uid: u2113
+    start: 0
+    end: 10
+    speaker: Sculpit
+  - uid: u2120
+    start: 0
+    end: 7
+    speaker: Sculpit
+  - uid: u2121
+    start: 0
+    end: 61
+    speaker: Sculpit
+  - uid: u2138
+    start: 0
+    end: 24
+    speaker: Sculpit
+  - uid: u2210
+    start: 0
+    end: 18
+    speaker: Heska
+  - uid: u2211
+    start: 0
+    end: 31
+    speaker: Heska
+  - uid: u2258
+    start: 0
+    end: 99
+    speaker: Heska
+  - uid: u2309
+    start: 34
+    end: 57
+    speaker: Heska
+  - uid: u2310
+    start: 0
+    end: 53
+    speaker: Heska
+  - uid: u2318
+    start: 0
+    end: 28
+    speaker: Heska
+  - uid: u2319
+    start: 0
+    end: 38
+    speaker: Heska
+  - uid: u2321
+    start: 0
+    end: 56
+    speaker: Heska
+  - uid: u2357
+    start: 0
+    end: 69
+    speaker: Sculpit

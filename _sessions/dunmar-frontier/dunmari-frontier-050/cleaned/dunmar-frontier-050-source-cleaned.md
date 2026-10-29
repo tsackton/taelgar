@@ -125,7 +125,7 @@
 [u0125 | 00:06:06.640-00:06:08.020 | DM] Is that a very Chardon?
 [u0126 | 00:06:08.020-00:06:09.320 | DM] Is that, that's part of Chardon.
 [u0127 | 00:06:10.020-00:06:10.260 | DM] Yeah.
-[u0128 | 00:06:11.120-00:06:12.880 | DM] That is a Chardon incident.
+[u0128 | 00:06:11.120-00:06:12.880 | DM] That is a Chardonian city.
 [u0129 | 00:06:13.120-00:06:13.640 | Kenzo] True.
 [u0130 | 00:06:13.660-00:06:15.380 | DM] And that's in the middle of the Elderwood,
 [u0131 | 00:06:16.660-00:06:17.640 | DM] on the edge of the wood.
@@ -288,7 +288,7 @@
 [u0288 | 00:12:59.948-00:13:01.188 | Kenzo] ... that's the away from.
 [u0289 | 00:13:01.188-00:13:05.728 | Wellby] But I think the toward is to find the forest people, find out more about-
 [u0290 | 00:13:06.088-00:13:06.088 | Delwath] Yeah
-[u0291 | 00:13:06.088-00:13:13.068 | Wellby] ... what Duke Ryas' kisses are, and then jump in the Feywild portal, cross back to northeastern Dunmar and-
+[u0291 | 00:13:06.088-00:13:13.068 | Wellby] ... what the Rai pieces are, and then jump in the Feywild portal, cross back to northeastern Dunmar and-
 [u0292 | 00:13:13.188-00:13:16.408 | Delwath] Right, and give. Oh, we also identified all those items.
 [u0293 | 00:13:17.508-00:13:18.148 | Kenzo] Oh, yeah.
 [u0294 | 00:13:19.468-00:13:22.508 | Kenzo] While we were invisible and riding Sesemul?
@@ -988,7 +988,7 @@
 [u0988 | 00:48:51.880-00:48:52.220 | DM] Um,
 [u0989 | 00:48:53.080-00:48:53.660 | DM] but I think
 [u0990 | 00:48:57.580-00:48:58.460 | Delwath] it also ...
-[u0991 | 00:49:01.220-00:49:03.160 | Delwath] Faustus closed you with a crush.
+[u0991 | 00:49:01.220-00:49:03.160 | Delwath] Fausto closed you with a crush.
 [u0992 | 00:49:03.960-00:49:07.500 | Seeker] Okay, Tim, so is there anything associated with the cleanse and pandemonium?
 [u0993 | 00:49:08.520-00:49:10.500 | DM] Uh, make um...
 [u0994 | 00:49:12.340-00:49:15.060 | Seeker] And I have like, like a plus 1,000 on that.
@@ -1210,7 +1210,7 @@
 [u1210 | 00:59:57.928-00:59:59.768 | Wellby] Do we have a way to see if we're being scryed?
 [u1211 | 01:00:04.088-01:00:07.888 | Kenzo] If we are being scryed, can they understand our speech?
 [u1212 | 01:00:07.888-01:00:08.128 | Kenzo] Yeah.
-[u1213 | 01:00:08.968-01:00:13.548 | Kenzo] As long as we're speaking Monkywe, they won't get it back to them, obviously, they understand language.
+[u1213 | 01:00:08.968-01:00:13.548 | Kenzo] As long as we're speaking Dunmari, they won't get it back to them, obviously, they understand language.
 [u1214 | 01:00:13.548-01:00:14.728 | Delwath] We need a Seeker language.
 [u1215 | 01:00:16.268-01:00:16.568 | Delwath] So if,
 [u1216 | 01:00:21.988-01:00:23.488 | Delwath] if any of us can see invisible,
@@ -1265,7 +1265,7 @@
 [u1265 | 01:02:43.508-01:02:45.528 | DM] I think the Elderwood is where we go next.
 [u1266 | 01:02:46.788-01:02:47.108 | Seeker] Agreed.
 [u1267 | 01:02:49.408-01:02:51.288 | Delwath] I think it's where we can lose-- Remember,
-[u1268 | 01:02:53.448-01:02:55.348 | Delwath] Dyson-- Nya said
+[u1268 | 01:02:53.448-01:02:55.348 | Delwath] Gnaeus said
 [u1269 | 01:02:56.308-01:02:56.588 | Delwath] that
 [u1270 | 01:02:58.568-01:03:02.728 | Delwath] the paths in were hard to find without a guide, without a fine pinch.
 [u1271 | 01:03:04.468-01:03:06.848 | Delwath] It feels like a safe place.
@@ -1814,10 +1814,10 @@
 [u1814 | 01:25:27.400-01:25:29.180 | Wellby] How easy is it to communicate with the,
 [u1815 | 01:25:30.300-01:25:32.020 | Kenzo] uh, Zamarian past him?
 [u1816 | 01:25:35.120-01:25:35.540 | DM] Interesting.
-[u1817 | 01:25:36.380-01:25:39.560 | Wellby] That moment of Frisbee teleporting away without any of us was awesome.
+[u1817 | 01:25:36.380-01:25:39.560 | Wellby] That moment of Riswynn teleporting away without any of us was awesome.
 [u1818 | 01:25:39.560-01:25:40.560 | Wellby] [laughs]
 [u1819 | 01:25:40.560-01:25:41.800 | Kenzo] That was, that was really cool.
-[u1820 | 01:25:41.800-01:25:44.040 | DM] Save us, Frisbee. [laughs] Okay.
+[u1820 | 01:25:41.800-01:25:44.040 | DM] Save us, Riswynn. [laughs] Okay.
 [u1821 | 01:25:44.040-01:25:45.040 | Wellby] [laughs]
 [u1822 | 01:25:45.040-01:25:46.540 | Seeker] Whoops. Where'd you go?
 [u1823 | 01:25:46.780-01:25:47.260 | DM] Yeah.
@@ -2655,9 +2655,9 @@
 [u2655 | 02:04:11.380-02:04:13.220 | DM] Yeah, he have-- he has a map.
 [u2656 | 02:04:13.220-02:04:14.980 | DM] There's four that he knows.
 [u2657 | 02:04:14.980-02:04:15.020 | DM] Uh,
-[u2658 | 02:04:16.220-02:04:20.340 | DM] not here. Like, there's one that's like southeast of the Alder.
+[u2658 | 02:04:16.220-02:04:20.340 | DM] not here. Like, there's one that's like southeast of the Elderwood.
 [u2659 | 02:04:20.340-02:04:21.980 | DM] There's one that's like due east
-[u2660 | 02:04:23.420-02:04:23.800 | DM] of the Alder.
+[u2660 | 02:04:23.420-02:04:23.800 | DM] of the Elderwood.
 [u2661 | 02:04:23.800-02:04:23.960 | Unknown] [laughs]
 [u2662 | 02:04:23.980-02:04:24.760 | DM] There's one that's-
 [u2663 | 02:04:25.140-02:04:32.620 | Kenzo] I think this is a warning to the fae to not come here because drink water and you will turn to stone.
@@ -2721,7 +2721,7 @@
 [u2721 | 02:06:49.920-02:06:51.940 | DM] Scry for horses that were at the ground.
 [u2722 | 02:06:52.560-02:06:53.940 | Kenzo] But I want to see the different horses.
 [u2723 | 02:06:53.940-02:06:57.740 | Wellby] Unless the caster has the ability to see invisibility.
-[u2724 | 02:06:57.740-02:06:59.860 | Wellby] Scry has the same vision ability as Sense does.
+[u2724 | 02:06:57.740-02:06:59.860 | Wellby] Scry has the same vision ability as the caster does.
 [u2725 | 02:06:59.860-02:07:00.440 | DM] Does it?
 [u2726 | 02:07:00.460-02:07:00.900 | DM] Yeah.
 [u2727 | 02:07:00.960-02:07:02.700 | Delwath] Ah, well, then I could see the difference.
@@ -2949,7 +2949,7 @@
 [u2949 | 02:17:22.212-02:17:23.192 | Delwath] We, we just don't-
 [u2950 | 02:17:23.532-02:17:23.672 | DM] Right
 [u2951 | 02:17:23.672-02:17:25.632 | Delwath] ... we think to find the villages that
-[u2952 | 02:17:26.592-02:17:28.712 | Delwath] Nyas talked about, we have to go up the river.
+[u2952 | 02:17:26.592-02:17:28.712 | Delwath] Gnaeus talked about, we have to go up the river.
 [u2953 | 02:17:28.712-02:17:30.292 | DM] And we need to cross the road at the end.
 [u2954 | 02:17:31.052-02:17:35.832 | Kenzo] Oh, right. Because that's where the, that's where we can find the guide to get us into the mountains.
 [u2955 | 02:17:35.832-02:17:44.532 | DM] Right. You can totally, I mean, you're, you're like, what, 40, 50 miles from the, the forest or maybe 80 miles from the forest.
@@ -5235,7 +5235,7 @@
 [u5235 | 03:56:13.759-03:56:14.960 | DM] Uh, and the messenger, they,
 [u5236 | 03:56:16.240-03:56:22.240 | DM] they talk for a moment, and the messenger says, um, "I rode all the way to Tokra.
 [u5237 | 03:56:24.940-03:56:25.100 | DM] But
-[u5238 | 03:56:26.140-03:56:30.720 | DM] the walking ones are not sure how to turn something back to stone.
+[u5238 | 03:56:26.140-03:56:30.720 | DM] the walking ones are not sure how to turn something back from stone.
 [u5239 | 03:56:32.800-03:56:36.380 | DM] I don't know how you think you can be stopped from that."
 [u5240 | 03:56:38.100-03:56:39.660 | Seeker] Who's been turned to stone?
 [u5241 | 03:56:40.640-03:56:41.400 | DM] Well, what do you say?
@@ -5289,8 +5289,8 @@
 [u5289 | 03:58:55.028-03:58:55.148 | DM] uh,
 [u5290 | 03:58:55.908-03:58:56.568 | DM] Casian,
 [u5291 | 03:58:57.968-03:58:58.168 | DM] uh,
-[u5292 | 03:58:58.228-03:58:58.868 | DM] Kadtherina.
-[u5293 | 03:59:02.148-03:59:04.087 | DM] And Tokra.
+[u5292 | 03:58:58.228-03:58:58.868 | DM] Antonia.
+[u5293 | 03:59:02.148-03:59:04.087 | DM] And Hektor.
 [u5294 | 03:59:04.087-03:59:09.828 | DM] But that should do. And he's, he's sitting a little bit apart from them, and he is like,
 [u5295 | 03:59:11.448-03:59:12.288 | DM] is just kind of
 [u5296 | 03:59:14.568-03:59:18.248 | DM] staring at the three, at the three paintings.

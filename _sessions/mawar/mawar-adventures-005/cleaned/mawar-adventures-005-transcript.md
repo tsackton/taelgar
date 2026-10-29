@@ -35,8 +35,8 @@ DM: It never really came up. Yeah. Kenzo is still training in the monastery of�
 %% u0050:0-11, u0051:0-171, u0052:0-22, u0053:0-123, u0054:0-43, u0055:0-127, u0056:0-60, u0057:0-30 %%
 DM: But in… in… the Mawar Confederacy in Hamri, the winter is bitterly cold and storm-lashed, with repeated gales and then hard freezes that leave ice lingering far longer than it should. The town hunkers down. It's a winter of hunger and hardship, where people speak in low voices of nightmares and strange songs on the wind, though no supernatural danger ever really emerges. But the ordinary dangers are enough: cold, hunger, and isolation take the toll, and for many families, that's a winter of loss. Little news comes in or out, and the Leviathan stands quiet through the long, hard winter.
 
-%% u0058:0-104, u0059:0-21, u0060:0-156 %%
-DM: Into April, when spring comes late: a month of dreary rain and shuttered harbors, weeks of gray weather, [garbled]… mud. It's not till May of that year that the winter… that the weather finally breaks. And as spring turns to summer, the port of Hamri fills with news and trade.
+%% u0058:0-104, u0059:0-24, u0060:0-156 %%
+DM: Into April, when spring comes late: a month of dreary rain and shuttered harbors, weeks of gray weather, half-drowned roads… mud. It's not till May of that year that the winter… that the weather finally breaks. And as spring turns to summer, the port of Hamri fills with news and trade.
 
 %% u0061:0-228, u0062:0-139, u0063:0-170, u0064:0-9, u0065:0-22, u0066:0-124 %%
 DM: Wild rumors from the north of an ancient black dragon, a vicious beast that defeated even the best Chardonian legions, and drove the orc warlord Grumella before him in fear, finally killed by the heroes of the Battle of Voltara. From Chardon, the tales in the spring repeat the common refrains. The merchants and traders tell stories of the wealth and glory of empire. Others tell stories of the tightening fists of the wizards of the Academy. Rumors of scholarly expeditions sent to plunder treasure, ancient artifacts of magic and power from all points of the compass. But none of these expeditions ever come to Mawar, or at least not to Hamri, and it's hard to tell if these are just stories.
@@ -98,8 +98,8 @@ DM: We begin… On a pleasant evening, a late spring storm has blown through yes
 %% u0122:0-38, u0123:0-97, u0124:0-74 %%
 DM: And Wazir has summoned you all to the… Leviathan to hear this woman's story. So maybe everybody could just get us back in Mawar, give a… brief or extended, as your mood strikes, your description of your character.
 
-%% u0125:0-16, u0126:0-121, u0127:0-49, u0128:0-20, u0129:0-114, u0130:0-172, u0131:0-4, u0132:0-223, u0133:0-21, u0134:0-77 %%
-Ryu: I can start. So… Sorry, feeding cat simultaneously. So, and actually, no, this is my familiar. This is, this is, this is, [garbled]. Familiar. Anyways, Ryu, walks into the Leviathan having looked, like he just got off the boat and was in the ocean, is, like, wet, dark clothes, like, soaked, just smells of sea salt. Has his, spear that you've all seen him use to great effect in battle and for, big game, hunting. And he's sort of leaning on it heavily, because he has had a big, big day and walks in tired, and, kind of glances over at, Wazir and some of the folks that work there that he knows. Of course, he knows everybody there, and just sort of gives a glance and a nod, and, you know, the folks know exactly what he wants to eat and drink, and, settles down, exhausted, and kind of sighs, but also content.
+%% u0125:0-16, u0126:0-120, u0127:0-49, u0128:0-20, u0129:0-114, u0130:0-172, u0131:0-4, u0132:0-223, u0133:0-21, u0134:0-77 %%
+Ryu: I can start. So… Sorry, feeding cat simultaneously. So, and actually, no, this is my familiar. This is, this is, this is, also Blu slash—familiar. Anyways, Ryu, walks into the Leviathan having looked, like he just got off the boat and was in the ocean, is, like, wet, dark clothes, like, soaked, just smells of sea salt. Has his, spear that you've all seen him use to great effect in battle and for, big game, hunting. And he's sort of leaning on it heavily, because he has had a big, big day and walks in tired, and, kind of glances over at, Wazir and some of the folks that work there that he knows. Of course, he knows everybody there, and just sort of gives a glance and a nod, and, you know, the folks know exactly what he wants to eat and drink, and, settles down, exhausted, and kind of sighs, but also content.
 
 %% u0135:0-24 %%
 DM: How old is Ryu, roughly?
@@ -4523,8 +4523,8 @@ Nerissa: Crypt is coming!
 %% u2708:0-19 %%
 DM: Completely flooded.
 
-%% u2709:0-16, u2710:0-14, u2711:0-80, u2712:0-11 %%
-Ryu: I revived Geo. [garbled]. Can we… can I… like, you know, is there any cool treasure to liberate, you know? Cool items.
+%% u2709:0-16, u2710:0-15, u2711:0-80, u2712:0-11 %%
+Ryu: I revived Geo. AKA Turk again. Can we… can I… like, you know, is there any cool treasure to liberate, you know? Cool items.
 
 %% u2713:0-49, u2714:0-31, u2715:0-38, u2716:0-162 %%
 DM: I mean… Trok already looted all of the offerings left here for Guzo the Mariner. Otherwise, I mean, this… there's been… This is not an intact ruin, there's been a bunch of… there's been, like, storms that have swept through, and the floor is, you know, it's piles of rubble, mostly.

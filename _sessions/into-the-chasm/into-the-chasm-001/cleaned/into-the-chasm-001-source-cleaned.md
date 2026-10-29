@@ -54,7 +54,7 @@
 [u0054 | 00:04:31.880-00:04:33.589 | DM] For 5 days and nights.
 [u0055 | 00:04:34.710-00:04:36.529 | DM] And so, on January 8th.
 [u0056 | 00:04:36.730-00:04:38.539 | DM] of 1730.
-[u0057 | 00:04:38.540-00:04:43.200 | DM] Two weeks before Quintarim, the Sambaran feast day of the Wanderer.
+[u0057 | 00:04:38.540-00:04:43.200 | DM] Two weeks before Quintarum, the Sembaran feast day of the Wanderer.
 [u0058 | 00:04:43.240-00:04:51.039 | DM] The Vejo Vaikai gathered some of their wisest mystics and sent them, with a few of the warriors of the Kemeko, to investigate
 [u0059 | 00:04:51.380-00:04:52.080 | DM] They…
 [u0060 | 00:04:52.210-00:04:53.679 | DM] What might be going on?
@@ -324,7 +324,7 @@
 [u0324 | 00:43:11.240-00:43:20.660 | DM] You start… as you start to sing, make a… this… this has… well, all your spells have verbal components, make a… make a constitution saving throw.
 [u0325 | 00:43:22.580-00:43:23.509 | Ekko] All of us?
 [u0326 | 00:43:23.720-00:43:25.000 | DM] No, just Tim.
-[u0327 | 00:43:27.080-00:43:27.880 | Finnan] Dean.
+[u0327 | 00:43:27.080-00:43:27.880 | Finnan] 15.
 [u0328 | 00:43:28.270-00:43:43.470 | DM] As you start to sing, the wind picks up a little bit, and it, like, almost… you, like, it, like, blows across you, and, like, it takes a minute for you to, like, regain the strength of your song. It's almost like the wind is trying to steal your voice.
 [u0329 | 00:43:43.470-00:43:51.910 | DM] But you recover the strength of your song, and you… you finish, and she calms down, and… and looks around.
 [u0330 | 00:43:52.350-00:43:52.840 | Ekko] him, am I?
@@ -727,7 +727,7 @@
 [u0727 | 01:10:17.880-01:10:19.100 | Finnan] mirror image.
 [u0728 | 01:10:20.450-01:10:27.379 | DM] Yes. The wind, again, blows down. Every time… like, it seems like when you're trying to summon strong magical effects, there's this…
 [u0729 | 01:10:27.380-01:10:29.820 | DM] This wind comes and tries to steal your…
-[u0730 | 01:10:29.820-01:10:30.820 | Finnan] Dean.
+[u0730 | 01:10:29.820-01:10:30.820 | Finnan] 15.
 [u0731 | 01:10:32.470-01:10:33.760 | DM] Don't falter at all.
 [u0732 | 01:10:35.170-01:10:42.059 | Finnan] And, you now see four Finnans next to each other.
 [u0733 | 01:10:42.690-01:10:43.600 | Eolo] Whoa.
@@ -1438,7 +1438,7 @@
 [u1438 | 01:57:07.090-01:57:08.309 | DM] Schwartz, are you gonna say?
 [u1439 | 01:57:08.310-01:57:24.690 | Justas] Yeah, I'll go looking among, like, all the different, like, charms and relics and symbols of the Kestavo that I've accumulated over the years for something from the high mountains, like, something that I might guess at her being familiar with based on, sort of, dress and speech and…
 [u1440 | 01:57:25.430-01:57:26.020 | Justas] Anything short?
-[u1441 | 01:57:26.020-01:57:26.380 | DM] Church.
+[u1441 | 01:57:26.020-01:57:26.380 | DM] Sure.
 [u1442 | 01:57:26.380-01:57:27.540 | Justas] But where she's from.
 [u1443 | 01:57:27.750-01:57:43.369 | DM] There's a… there's a famous, well-known Kestavo called Romil, the Glacier King, who is supposed to live on the highest peak of the Sentinels, but is also supposed to have a very ancient provenance, and, like, is the old, you know, is…
 [u1444 | 01:57:43.920-01:57:47.439 | DM] Was here when the people first came, kind of thing.
@@ -1676,7 +1676,7 @@
 [u1676 | 02:16:01.840-02:16:08.350 | Justas] Keepers of the Kestavo's houses, the spirits who live in this land all over.
 [u1677 | 02:16:08.350-02:16:10.920 | Ekko] Mike, what are the Kestavo houses? Did I know about those?
 [u1678 | 02:16:10.920-02:16:26.589 | DM] So you would know, but yeah, so the Kestavo are the local religion. It's basically a sort of small gods tradition, where the idea is that there's, like, a god in every… a little god in a brook, or in a tree, or in a mountain, or in a… in a…
-[u1679 | 02:16:27.140-02:16:43.489 | DM] waterfall, or… and so… and people sort of build little shrines to the different small gods in these different little places, and worship them, and it's kind of the… it's faded a bit, because the Mos Numena, like, the Eight Divines religion, has kind of come up from Sambara, and is…
+[u1679 | 02:16:27.140-02:16:43.489 | DM] waterfall, or… and so… and people sort of build little shrines to the different small gods in these different little places, and worship them, and it's kind of the… it's faded a bit, because the Mos Numena, like, the Eight Divines religion, has kind of come up from Sembara, and is…
 [u1680 | 02:16:43.600-02:16:48.469 | DM] A more powerful set of gods, and so it's not as widespread as it was, but…
 [u1681 | 02:16:48.750-02:16:53.649 | DM] They would… you would know. I mean, it's the local religion. You would think of it kind of like, sort of…
 [u1682 | 02:16:53.860-02:16:57.099 | DM] Shinto, Japanese… With God.

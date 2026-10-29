@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 53
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-053-source-cleaned.md
 
 ## Transcript
@@ -245,8 +245,8 @@ Delwath: North that they, that that empire isn't—
 %% u0200:0-92, u0201:0-224, u0202:0-37 %%
 DM: Anywhere close to them. Like the, the most of the trade they have is actually like with them. I mean, if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open plains that where the kenku live, so.
 
-%% u0203:0-192, u0204:0-73 %%
-DM: Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out. So you got that sort of story from this young boy Zevi who's guiding you.
+%% u0203:0-188, u0204:0-73 %%
+DM: Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the elves, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out. So you got that sort of story from this young boy Zevi who's guiding you.
 
 %% u0205:0-20, u0206:0-135, u0207:0-111, u0208:0-52, u0209:0-127, u0210:0-22, u0211:0-256 %%
 DM: And when you arrive, you know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the—there's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the—it's, you know, everything's A-frames with like log—insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm. There's some reindeer. But, you know, it's very, it's, it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place.
@@ -335,8 +335,8 @@ Delwath: I will—Delwath will ask her a series of questions, try and pinpoint e
 %% u0277:0-5 %%
 Unknown: Yeah.
 
-%% u0278:0-61 %%
-DM: Yeah, it's exactly the day that the {{Dunbar}} was destroyed.
+%% u0278:0-58 %%
+DM: Yeah, it's exactly the day that the armband was destroyed.
 
 %% u0279:0-3, u0280:0-14, u0281:0-9, u0282:0-45, u0283:0-72 %%
 Delwath: So, I'll say that, "That day I fell from the, from the sky. I fell from the place of shadows where I was trapped that very day this was destroyed."
@@ -365,8 +365,8 @@ DM: "And you say Yezali was trapped by a similar armband?"
 %% u0309:0-47, u0310:0-16, u0311:0-55, u0312:0-43, u0313:0-33, u0314:0-23, u0315:0-8, u0316:0-74 %%
 Delwath: "Yes, when he—when they fought the great demons as a wolf and a eagle and a fox and other creatures that hunt at night, tearing through this creature's flesh, but—not, but being torn apart as well, feeling close to death, tore at some general or—and touched one of these very bands. I saw it in a vision."
 
-%% u0317:0-44, u0318:0-48, u0319:0-130 %%
-DM: "That is the story of the Battle of Darkfire. The other silent ones fought in battles as well. The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow."
+%% u0317:0-44, u0318:0-48, u0319:0-126 %%
+DM: "That is the story of the Battle of Darkfire. The other silent ones fought in battles as well. The Battle of the Endless Dark, where Taraka fell silent after three days without a sunrise, a place now constantly in shadow."
 
 %% u0320:0-194, u0321:0-26, u0322:0-6, u0323:0-100 %%
 DM: "The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter. The battle of the Yemo'te, where Midri and K'onisati fell silent, protecting the crossing of the river from endless hobgoblin hordes."
@@ -426,7 +426,7 @@ DM: I think, because Aaron's gonna need some time to, like get—I suspect we'll
 Delwath: I mean it doesn't have to be—
 
 %% u0373:0-53, u0374:0-31 %%
-DM: But I also want to do a Mylar adventure in September. Yeah, everybody that I hope you—
+DM: But I also want to do a Mawar adventure in September. Yeah, everybody that I hope you—
 
 %% u0375:0-25 %%
 Delwath: Join for you to get here.

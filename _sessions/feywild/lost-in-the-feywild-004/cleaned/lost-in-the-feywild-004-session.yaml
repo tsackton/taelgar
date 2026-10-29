@@ -45,6 +45,8 @@ speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docu
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-speaker-stats.json
 
+# status reports changed_after_finalization until the revision is finalized.
+
 transcriptProcessing:
   version: 1
   status: complete_with_uncertainty
@@ -59,10 +61,10 @@ transcriptProcessing:
       sha256: 898dab306b290a9be756f265a9f41e104a86607d9d03f1d84429cbcf28fb52fe
     cleaned:
       path: cleaned/lost-in-the-feywild-004-source-cleaned.md
-      sha256: fc9920a48ad0a6bbe458de7395d6c9937f85ff79b91968ecd0d7f89d7b8380d2
+      sha256: 8eb74198145d80988e9f2b12d2cb64e081a7e722bc6733db3e0fa5759db63978
     polishedMarkdown:
       path: cleaned/lost-in-the-feywild-004-transcript.md
-      sha256: 41d0636bd1103ee965ffb3678d9ce1539d3bae79307b5f41ffc0fce16003a685
+      sha256: 716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a
   speakerCorrections:
   - uid: u0189
     start: 0

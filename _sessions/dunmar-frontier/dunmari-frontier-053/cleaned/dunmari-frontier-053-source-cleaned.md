@@ -200,7 +200,7 @@
 [u0200 | 00:18:49.890-00:18:56.460 | DM] anywhere close to them like the the most of the trade, they have is actually like with them.
 [u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open.
 [u0202 | 00:19:09.150-00:19:11.640 | DM] Plains that where the kenku live, so.
-[u0203 | 00:19:12.960-00:19:26.670 | DM] Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out.
+[u0203 | 00:19:12.960-00:19:26.670 | DM] Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the elves, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out.
 [u0204 | 00:19:28.530-00:19:34.140 | DM] So you got that sort of story from this young boy Zevi who's guiding you.
 [u0205 | 00:19:36.060-00:19:37.170 | DM] And when you arrive.
 [u0206 | 00:19:38.430-00:19:46.950 | DM] You know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the.
@@ -275,7 +275,7 @@
 [u0275 | 00:26:14.580-00:26:15.030 | Unknown] Yes.
 [u0276 | 00:26:16.470-00:26:22.710 | Delwath] I will, Delwath will ask her a series of questions, try and pinpoint exactly what, like what was the, what was the date.
 [u0277 | 00:26:23.490-00:26:23.910 | Unknown] yeah.
-[u0278 | 00:26:25.020-00:26:29.490 | DM] Yeah, it's exactly the day that the {{Dunbar}} was destroyed.
+[u0278 | 00:26:25.020-00:26:29.490 | DM] Yeah, it's exactly the day that the armband was destroyed.
 [u0279 | 00:26:32.460-00:26:33.030 | Delwath] So.
 [u0280 | 00:26:34.170-00:26:35.130 | Delwath] I'll say that.
 [u0281 | 00:26:38.190-00:26:39.180 | Delwath] That day.
@@ -316,7 +316,7 @@
 [u0316 | 00:29:34.170-00:29:38.940 | Delwath] Some general or—and touched one of these very bands, I saw it in a vision.
 [u0317 | 00:29:41.700-00:29:44.460 | DM] That is the story of the Battle of Darkfire.
 [u0318 | 00:29:47.850-00:29:51.000 | DM] The other silent ones fought in battles as well.
-[u0319 | 00:29:52.230-00:30:01.230 | DM] The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow.
+[u0319 | 00:29:52.230-00:30:01.230 | DM] The Battle of the Endless Dark, where Taraka fell silent after three days without a sunrise, a place now constantly in shadow.
 [u0320 | 00:30:02.910-00:30:16.020 | DM] The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter.
 [u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the Yemo'te.
 [u0322 | 00:30:20.610-00:30:21.000 | DM] Where.
@@ -370,7 +370,7 @@
 [u0370 | 00:34:22.290-00:34:22.980 | DM] Like get.
 [u0371 | 00:34:23.760-00:34:28.290 | DM] I suspect we'll do the Feywild one last, right, when everybody's.
 [u0372 | 00:34:28.320-00:34:29.880 | Delwath] I mean it doesn't have to be.
-[u0373 | 00:34:30.660-00:34:33.330 | DM] But I also want to do a Mylar adventure in September.
+[u0373 | 00:34:30.660-00:34:33.330 | DM] But I also want to do a Mawar adventure in September.
 [u0374 | 00:34:33.360-00:34:35.100 | DM] yeah everybody that I hope you.
 [u0375 | 00:34:35.130-00:34:36.210 | Delwath] Join for you to get here.
 [u0376 | 00:34:36.210-00:34:38.940 | DM] writing a one shot anyway um.

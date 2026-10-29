@@ -156,7 +156,7 @@
 [u0156 | 00:13:37.960-00:13:42.170 | Delwath] a horde of orcs with the cloak and have them all just be freed.
 [u0157 | 00:13:42.560-00:13:43.410 | Seeker] Boom!
 [u0158 | 00:13:45.070-00:13:55.229 | Riswynn] Riswynn got the impression that it was just sort of the state of that person's sort of internal unrest with their God to begin with, or something that some of them would be
-[u0159 | 00:13:56.370-00:13:59.489 | Riswynn] {{paperwork to the unchaining of someone}}
+[u0159 | 00:13:56.370-00:13:59.489 | Riswynn] favorable to the unchaining of someone
 [u0160 | 00:14:00.310-00:14:10.949 | Wellby] I have something unrelated. But I don't want to end this thread.
 [u0161 | 00:14:11.380-00:14:12.680 | Unknown] So I
 [u0162 | 00:14:14.070-00:14:16.199 | Delwath] at least this is not they. They're
@@ -390,7 +390,7 @@
 [u0390 | 00:33:02.910-00:33:06.149 | Seeker] You'll be interesting to us to find out where we're doing
 [u0391 | 00:33:07.020-00:33:11.540 | Kenzo] fascinating, fascinating, and and what is that magical stone called
 [u0392 | 00:33:11.740-00:33:12.470 | Unknown] for?
-[u0393 | 00:33:12.840-00:33:22.119 | Seeker] William? Well, it's Tim.
+[u0393 | 00:33:12.840-00:33:22.119 | Seeker] Well? Well let's ask Tim.
 [u0394 | 00:33:22.360-00:33:27.559 | Kenzo] it is a it's known as a
 [u0395 | 00:33:29.060-00:33:29.750 | Unknown] like the.
 [u0396 | 00:33:30.070-00:33:31.780 | DM] I have not heard
@@ -441,7 +441,7 @@
 [u0441 | 00:38:05.510-00:38:09.180 | Seeker] some intuitions I've had for for a while, but it is a
 [u0442 | 00:38:09.270-00:38:16.150 | Kenzo] a more precise articulation of the concept. And what evidence do you have from your
 [u0443 | 00:38:16.760-00:38:21.779 | Kenzo] I have. I have no magic myself, and
-[u0444 | 00:38:21.950-00:38:35.489 | Kenzo] I've never been able to test any of these hypotheses. I am sadly reduced to being {{in this matter}}, and my duties keep me
+[u0444 | 00:38:21.950-00:38:35.489 | Kenzo] I've never been able to test any of these hypotheses. I am sadly reduced to being in this matter, and my duties keep me
 [u0445 | 00:38:36.110-00:38:40.690 | DM] far more.
 [u0446 | 00:38:40.810-00:38:42.200 | DM] And
 [u0447 | 00:38:47.230-00:38:58.650 | Kenzo] is that
@@ -935,7 +935,7 @@
 [u0935 | 01:25:01.350-01:25:16.010 | Kenzo] So wait. Let's- oh my God! We set up a room where they think the fucking- like we do- what we do is what Agata does. Yeah, you know, we get them all to go into a fucking room, and they just go in one after one, and they all just get fucking trapped. Just remember, if they break the mirror,
 [u0936 | 01:25:16.260-01:25:21.040 | Seeker] everything comes out, which is also a great trap, which is also a great trap
 [u0937 | 01:25:21.440-01:25:24.849 | Delwath] at some level chaos
-[u0938 | 01:25:26.910-01:25:29.410 | Kenzo] look a back in poison for the segment.
+[u0938 | 01:25:26.910-01:25:29.410 | Kenzo] Like a fucking poison troll, for example.
 [u0939 | 01:25:31.170-01:25:35.509 | Delwath] Some some good, some bad there, right like
 [u0940 | 01:25:36.080-01:25:44.679 | Delwath] I mean, maybe we could somehow get the really powerful hobgoblin mage on our side. But I just don't know how to do that.
 [u0941 | 01:25:46.850-01:25:52.729 | Wellby] I think we should. We should definitely talk with this Orc, though, over dinner, even if it's just for a minute.
@@ -1282,7 +1282,7 @@
 [u1282 | 01:58:22.390-01:58:27.699 | DM] obvious to like the there's. It's like it's like sort of
 [u1283 | 01:58:28.280-01:58:36.479 | DM] it's almost as if there's some like UV light, or something coming off the cloak that is lighting up this thread
 [u1284 | 01:58:38.040-01:58:49.040 | Seeker] Seeker starts to experiment a little bit with it, stretching it, twisting it, listening. Such a beautiful- this Queen of Sunset!
-[u1285 | 01:58:50.930-01:58:52.510 | Seeker] {{But she was when they restored}}
+[u1285 | 01:58:50.930-01:58:52.510 | Seeker] Would she were one day restored.
 [u1286 | 01:58:55.370-01:58:58.779 | DM] indeed, for Lubash, speaking now
 [u1287 | 01:59:00.020-01:59:00.980 | DM] are.
 [u1288 | 01:59:09.620-01:59:20.050 | DM] it has been painfully slow to free our people. Only these threads- and he pulls the cloak around him.
@@ -2208,7 +2208,7 @@
 [u2208 | 03:27:10.110-03:27:14.509 | DM] It was in my father's mother's time
 [u2209 | 03:27:15.530-03:27:16.640 | DM] as chief
 [u2210 | 03:27:20.440-03:27:24.169 | DM] she was.
-[u2211 | 03:27:26.530-03:27:29.050 | DM] So that- you're okay, {{Miss Tesla}}.
+[u2211 | 03:27:26.530-03:27:29.050 | DM] So that—“You’re okay,” he says to her.
 [u2212 | 03:27:30.070-03:27:31.110 | DM] You're safe.
 [u2213 | 03:27:34.040-03:27:35.650 | DM] says she was
 [u2214 | 03:27:38.170-03:27:40.250 | DM] captured, kidnapped

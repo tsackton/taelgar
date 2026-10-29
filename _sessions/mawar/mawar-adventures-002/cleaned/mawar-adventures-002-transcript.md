@@ -1,6 +1,6 @@
 # Mawar Adventures — Session 2
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: mawar-adventures-002-source-cleaned.md
 
 ## Transcript
@@ -3059,8 +3059,8 @@ Trok: It's in the scroll. He's trying to— Resurrect his dead wife by water out
 %% u1959:0-33, u1960:0-23 %%
 Wazir: Kids his dead wife and kids yeah. Man, I think that that—
 
-%% u1961:0-56, u1962:0-28 %%
-Wazir: Six people in that drown flats word children a collapse building. Bodies never found.
+%% u1961:0-58, u1962:0-28 %%
+Wazir: Six people in the drowned flats were killed in a collapsed building. Bodies never found.
 
 %% u1963:0-43 %%
 Trok: So, probably this guy's behind that unless—
