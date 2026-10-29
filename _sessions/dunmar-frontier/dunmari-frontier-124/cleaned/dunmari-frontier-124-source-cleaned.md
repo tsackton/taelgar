@@ -239,7 +239,7 @@
 [u0239 | 00:23:47.830-00:24:01.609 | DM] yeah. People. I mean, we'll do a little time. Skip right? But I think we can. I think I I mean, I don't know, Eric. I don't. Wanna. I don't wanna kick you out. I also don't wanna keep you longer. I don't wanna make you stay up so
 [u0240 | 00:24:02.735-00:24:07.079 | DM] there's obviously some planning discussion that you guys have to have.
 [u0241 | 00:24:07.620-00:24:11.489 | Seeker] Yeah point for me, like, I'm just like doing this until like
-[u0242 | 00:24:12.020-00:24:19.119 | Seeker] 1111 30, and then I'll feed her a bottle, and then I'm doing this again until like one. So it's just like.
+[u0242 | 00:24:12.020-00:24:19.119 | Seeker] 11, 11:30, and then I'll feed her a bottle, and then I'm doing this again until like one. So it's just like.
 [u0243 | 00:24:19.120-00:24:20.520 | Delwath] A hangout right.
 [u0244 | 00:24:20.520-00:24:21.040 | Kenzo] Yeah, perfect.
 [u0245 | 00:24:21.040-00:24:22.739 | Seeker] Yeah, I guess so.
@@ -264,7 +264,7 @@
 [u0264 | 00:25:39.810-00:25:42.570 | DM] Gnaeus, the guy who infiltrated the
 [u0265 | 00:25:42.710-00:25:46.739 | DM] the like historian who wrote the book that got you to the.
 [u0266 | 00:25:46.740-00:25:47.560 | Delwath] Right.
-[u0267 | 00:25:48.050-00:25:56.159 | DM] {{For us}} like you don't. The only person you know for sure has fled.
+[u0267 | 00:25:48.050-00:25:56.159 | DM] forest like you don't. The only person you know for sure has fled.
 [u0268 | 00:25:56.280-00:25:57.833 | DM] Chardon is
 [u0269 | 00:25:59.790-00:26:05.950 | DM] It is Kaeso, Kenzo's mentor, and the
 [u0270 | 00:26:06.740-00:26:11.309 | DM] Dee Wildcloak, the halfling adventurer who ran from the
@@ -281,7 +281,7 @@
 [u0281 | 00:27:21.770-00:27:24.090 | DM] So you get Sura as she.
 [u0282 | 00:27:25.580-00:27:26.810 | DM] Yes.
 [u0283 | 00:27:29.702-00:27:38.440 | Kenzo] Sura, it's it's Kenzo we are back on this plane
-[u0284 | 00:27:38.610-00:27:46.310 | Kenzo] after after being gone for a little bit, but just calling to {{heard}}.
+[u0284 | 00:27:38.610-00:27:46.310 | Kenzo] after after being gone for a little bit, but just calling to hear.
 [u0285 | 00:27:46.490-00:27:49.859 | Kenzo] Wanted to see how things are going with you, and how
 [u0286 | 00:27:50.568-00:27:57.459 | Kenzo] how things are playing out in Dunmar, and if you had any engagement with Chardon or any Chardon related entities recently.
 [u0287 | 00:28:01.330-00:28:08.300 | DM] I, so much has happened. I don't remember the last news you had.
@@ -416,7 +416,7 @@
 [u0416 | 00:40:40.110-00:40:47.709 | Delwath] Her entrapment, I think, was of a different nature.
 [u0417 | 00:40:48.170-00:40:51.050 | Delwath] and she, I think, is of a different nature.
 [u0418 | 00:40:52.250-00:40:52.980 | Delwath] Add.
-[u0419 | 00:40:53.920-00:40:54.760 | DM] Buffet.
+[u0419 | 00:40:53.920-00:40:54.760 | DM] But fey.
 [u0420 | 00:40:56.920-00:41:00.109 | Delwath] And and she is not an ordinary fey
 [u0421 | 00:41:04.180-00:41:04.950 | Delwath] at.
 [u0422 | 00:41:05.360-00:41:07.590 | Delwath] She is probably one of the few
@@ -431,7 +431,7 @@
 [u0431 | 00:41:43.220-00:41:49.250 | Wellby] Well. Wellby puts his hand over the phone for just a sec. She's definitely escaped by now, right.
 [u0432 | 00:41:49.250-00:41:52.080 | Kenzo] I'm sure she's totally not in captivity.
 [u0433 | 00:41:52.482-00:41:53.690 | Delwath] She hasn't just.
-[u0434 | 00:41:54.070-00:41:56.180 | Delwath] There's no {{trows off}}.
+[u0434 | 00:41:54.070-00:41:56.180 | Delwath] There's no trows off.
 [u0435 | 00:41:56.340-00:41:59.320 | Kenzo] I'm sure it's I'm sure that situation is totally under control.
 [u0436 | 00:42:00.810-00:42:05.559 | Delwath] Hey? Just remind me didn't the Cloudspinner leave us with a way to contact her.
 [u0437 | 00:42:05.560-00:42:09.850 | DM] The Cloudspinner gave Wellby a hat that functions as a.
@@ -478,7 +478,7 @@
 [u0478 | 00:45:56.870-00:45:59.300 | DM] I mean you stayed with Kaeso.
 [u0479 | 00:45:59.300-00:45:59.990 | Kenzo] Yeah.
 [u0480 | 00:46:00.628-00:46:02.920 | DM] But he's since fled, Chardon.
-[u0481 | 00:46:02.920-00:46:05.160 | DM] He has fled, {{but I for now}}.
+[u0481 | 00:46:02.920-00:46:05.160 | DM] He has fled, but I for now.
 [u0482 | 00:46:05.160-00:46:16.349 | Kenzo] I'm forgetting. But I'm assuming that, like Kenzo when he was there, you know, he's got a small, small kind of but you know, loyal network of like a few people that he knows that. Still, he's still in touch with.
 [u0483 | 00:46:16.640-00:46:20.469 | DM] Yeah, I mean, you know, Kenzo grew up there. He was
 [u0484 | 00:46:20.840-00:46:25.710 | DM] certainly like he grew up on the streets in the like, bad neighborhood and
@@ -951,7 +951,7 @@
 [u0951 | 01:25:33.370-01:25:40.290 | DM] big chalyte gems to make powder and stuff and ingredients for magic items, and the
 [u0952 | 01:25:41.700-01:25:54.810 | DM] so the legions have sort of begun to infiltrate some parts of this northern neighborhood. The north bank, where Kenzo grew up. But there's plenty of sort of pockets of that neighborhood that are.
 [u0953 | 01:25:54.940-01:25:55.670 | Kenzo] Okay.
-[u0954 | 01:25:55.670-01:25:58.560 | DM] Under that are completely not under {{improvement}}.
+[u0954 | 01:25:55.670-01:25:58.560 | DM] Under that are completely not under imperial control.
 [u0955 | 01:25:58.560-01:26:07.429 | Kenzo] Kenzo basically names like a few spots, you know, that is that spot still, is that like, are any of these spots still safe? But he kind of names a few that that you know him and Xavier both know.
 [u0956 | 01:26:07.980-01:26:11.379 | DM] Yeah, that's that's good.
 [u0957 | 01:26:11.900-01:26:16.489 | Kenzo] Perfect. So look! Are you still at names an address.
@@ -982,7 +982,7 @@
 [u0982 | 01:27:43.510-01:27:47.619 | Delwath] death sentence on your head withdrawn would be useful, and I guess Delwath's too.
 [u0983 | 01:27:47.620-01:27:50.856 | Riswynn] I was just gonna say, maybe not just you 2.
 [u0984 | 01:27:51.380-01:27:51.730 | Kenzo] That.
-[u0985 | 01:27:52.053-01:27:52.700 | Kenzo] Stow up.
+[u0985 | 01:27:52.053-01:27:52.700 | Kenzo] Show up.
 [u0986 | 01:27:53.610-01:27:59.000 | Kenzo] I mean while we still have a death sentence that might not be the best way to get to do the whole audience thing. Yeah.
 [u0987 | 01:28:01.110-01:28:07.009 | Delwath] I mean, on the one hand, sure, on the other hand.
 [u0988 | 01:28:09.850-01:28:12.450 | Delwath] doesn't he want to know what is going on.
@@ -1007,7 +1007,7 @@
 [u1007 | 01:30:06.720-01:30:09.649 | DM] the sort of elite Mage guard
 [u1008 | 01:30:10.500-01:30:17.290 | DM] which is a group of maybe 20 or so powerful wizards who served the Emperor.
 [u1009 | 01:30:17.740-01:30:23.800 | DM] Whoever commands their loyalty is functionally the Emperor, because they can destroy anybody else in the city.
-[u1010 | 01:30:24.060-01:30:27.929 | Kenzo] So. Okay. So those are the people that we need to {{take up when}} win over on our side.
+[u1010 | 01:30:24.060-01:30:27.929 | Kenzo] So. Okay. So those are the people that we need to take out—win win over on our side.
 [u1011 | 01:30:29.400-01:30:32.310 | DM] And then you don't know how like.
 [u1012 | 01:30:33.110-01:30:42.249 | DM] Kenzo was already gone from Chardon when Seva Auratan died, and Mitus Auratan became the magistros.
 [u1013 | 01:30:42.480-01:30:52.469 | DM] That that's not like you don't know any of the backstory there, really, and it's not like Kenzo was paying attention. But you definitely would have heard stories about Mitus.
@@ -1020,7 +1020,7 @@
 [u1020 | 01:31:30.120-01:31:31.370 | Kenzo] very interesting.
 [u1021 | 01:31:34.920-01:31:43.179 | Kenzo] should we do some role playing for Riswynn and or the or and or what's going on with the.
 [u1022 | 01:31:44.150-01:31:44.630 | DM] Yeah.
-[u1023 | 01:31:44.630-01:31:49.129 | DM] Quadra, yeah, let's let's say, good. Let's let's let's say goodbye to Riswynn. Okay.
+[u1023 | 01:31:44.630-01:31:49.129 | DM] Faldrak, yeah, let's let's say, good. Let's let's let's say goodbye to Riswynn. Okay.
 [u1024 | 01:31:57.210-01:32:10.720 | Riswynn] So having been hanging out for a while and talking to the Orcs and Kethra, have they
 [u1025 | 01:32:11.200-01:32:17.579 | Riswynn] seized on this with excitement and said, Oh, yeah, we've got some ideas, or are they hesitant like, where are they coming.
 [u1026 | 01:32:22.220-01:32:24.310 | DM] So they
@@ -1057,7 +1057,7 @@
 [u1057 | 01:35:54.440-01:36:00.890 | Riswynn] Did we start provisioning for like standard travel without a
 [u1058 | 01:36:01.630-01:36:06.520 | Riswynn] airship or teleportation, and plan to get going where we're going.
 [u1059 | 01:36:07.970-01:36:08.610 | DM] Yeah.
-[u1060 | 01:36:13.570-01:36:17.670 | Riswynn] Or we could wait around and see {{if wants}} to just drop us off.
+[u1060 | 01:36:13.570-01:36:17.670 | Riswynn] Or we could wait around and see if Seeker wants to just drop us off.
 [u1061 | 01:36:17.890-01:36:18.849 | Riswynn] I don't know.
 [u1062 | 01:36:19.350-01:36:23.230 | Riswynn] I was asking about whether there were any of these threads we wanted to pursue
 [u1063 | 01:36:23.420-01:36:27.110 | Riswynn] as we traveled by foot, but if not.
@@ -1072,7 +1072,7 @@
 [u1072 | 01:37:09.800-01:37:12.120 | Riswynn] Never mind walking or airships.
 [u1073 | 01:37:13.180-01:37:15.679 | Delwath] Yep, teleport's always the best way to go.
 [u1074 | 01:37:17.150-01:37:18.430 | Riswynn] Oh, yeah.
-[u1075 | 01:37:18.680-01:37:23.790 | Delwath] Teleport {{isn't something some sort of successful}} teleport right Word of Recall.
+[u1075 | 01:37:18.680-01:37:23.790 | Delwath] Teleport isn't something some sort of successful teleport right Word of Recall.
 [u1076 | 01:37:27.060-01:37:35.290 | Riswynn] I'm not, you know. We only have one gifted teleport expert in the party, and the other dwarf.
 [u1077 | 01:37:36.070-01:37:36.660 | Delwath] Yes.
 [u1078 | 01:37:38.010-01:37:44.540 | DM] So. You know you had your party day. You got some information
@@ -1308,7 +1308,7 @@
 [u1308 | 01:54:18.040-01:54:19.380 | Wellby] Wish, I think.
 [u1309 | 01:54:20.020-01:54:20.500 | Delwath] Yeah.
 [u1310 | 01:54:22.850-01:54:23.299 | Kenzo] There you go!
-[u1311 | 01:54:23.300-01:54:31.740 | Riswynn] Shipping teleport one ally from somewhere in the material plane to your battle.
+[u1311 | 01:54:23.300-01:54:31.740 | Riswynn] Should be: teleport one ally from somewhere in the material plane to your battle.
 [u1312 | 01:54:31.900-01:54:33.140 | Riswynn] What is that spell.
 [u1313 | 01:54:33.140-01:54:34.830 | Kenzo] Do that as like a reaction.
 [u1314 | 01:54:35.450-01:54:36.390 | Riswynn] That's right.
@@ -1381,7 +1381,7 @@
 [u1381 | 01:58:43.900-01:58:48.410 | DM] I'm not sure. Functionally speaking, a war room would work on Vindristjarna.
 [u1382 | 01:58:48.410-01:58:51.549 | Delwath] Yeah, it's a little bit of a weird fit for Vindristjarna. Right?
 [u1383 | 01:58:53.780-01:58:54.270 | Wellby] That means.
-[u1384 | 01:58:54.640-01:58:59.700 | Delwath] 8 a demi. Oh, we should definitely create the demiplane. Absolutely right.
+[u1384 | 01:58:54.640-01:58:59.700 | Delwath] A, a demi. Oh, we should definitely create the demiplane. Absolutely right.
 [u1385 | 01:58:59.860-01:59:02.076 | Delwath] The demiplane gives us
 [u1386 | 01:59:05.880-01:59:11.409 | Wellby] Proof against scrying is one of the big things right like that could be. Our meeting room could be in a demi plane.
 [u1387 | 01:59:12.770-01:59:13.580 | Delwath] Yeah.
@@ -1474,7 +1474,7 @@
 [u1474 | 02:07:42.680-02:07:51.200 | Kenzo] Yeah, cause he's unreluct. He's so so. Oh, unreluctant, yeah, so unreluctant.
 [u1475 | 02:07:51.200-02:07:55.820 | Delwath] Reluctant. I get it unreluctant.
 [u1476 | 02:07:55.820-02:07:57.720 | Kenzo] Unanimous.
-[u1477 | 02:07:57.720-02:07:59.330 | Delwath] I didn't reelected.
+[u1477 | 02:07:57.720-02:07:59.330 | Delwath] Unelected.
 [u1478 | 02:07:59.330-02:08:01.129 | Kenzo] Yeah, that's what I'm saying. 2 UN's.
 [u1479 | 02:08:01.580-02:08:02.160 | Delwath] Yeah.
 [u1480 | 02:08:02.780-02:08:03.850 | Kenzo] So disappointing.
@@ -1624,7 +1624,7 @@
 [u1624 | 02:21:16.380-02:21:17.560 | DM] I don't know her.
 [u1625 | 02:21:20.870-02:21:24.669 | Delwath] Her page on Taelgarverse. Says she's particularly friendly with Marcella.
 [u1626 | 02:21:25.180-02:21:32.149 | Delwath] Yeah, that's why I mentioned her. I assumed we knew that because it's on her page on Taelgarverse.
-[u1627 | 02:21:40.120-02:21:44.220 | DM] Oh, hey, yeah, okay. So maybe she {{didn't know}}. Marcella.
+[u1627 | 02:21:40.120-02:21:44.220 | DM] Oh, hey, yeah, okay. So maybe she didn't know. Marcella.
 [u1628 | 02:21:45.040-02:21:46.900 | DM] I'm just trying to use the notes here.
 [u1629 | 02:21:46.900-02:21:49.330 | DM] Yeah, no, no. I should have checked my notes, too.
 [u1630 | 02:21:49.330-02:21:49.860 | Delwath] Okay.
@@ -1709,12 +1709,12 @@
 [u1709 | 02:29:31.420-02:29:38.228 | DM] you know neither of them are that strong. They're like, you know, mid low, level warriors.
 [u1710 | 02:29:39.890-02:29:42.270 | DM] is grateful and relieved.
 [u1711 | 02:29:42.810-02:29:49.810 | DM] His twin brother Vargus is a bit confused, especially because he never
-[u1712 | 02:29:50.080-02:29:58.980 | DM] like he doesn't remember ever meeting you. You never met him before, {{he went right on}}, possessed but
+[u1712 | 02:29:50.080-02:29:58.980 | DM] like he doesn't remember ever meeting you. You never met him before, he went right on, possessed but
 [u1713 | 02:29:59.680-02:30:06.889 | DM] like is sort of leaning on his brother a little bit, and just kind of looking to him to gauge how he should respond, and
 [u1714 | 02:30:07.050-02:30:08.579 | DM] when his brother is
 [u1715 | 02:30:08.890-02:30:15.759 | DM] like, seems happy and pleased and not scared. He sort of reacts in the same way.
 [u1716 | 02:30:17.980-02:30:19.170 | Delwath] We are.
-[u1717 | 02:30:20.820-02:30:23.259 | Delwath] Why ain't in this?
+[u1717 | 02:30:20.820-02:30:23.259 | Delwath] Flying in this—
 [u1718 | 02:30:24.340-02:30:28.800 | Delwath] We are. We are heading for Chardon in a flying castle
 [u1719 | 02:30:29.710-02:30:33.189 | Delwath] to see if there is any further
 [u1720 | 02:30:34.220-02:30:38.550 | Delwath] fallout from Fausto's schemes that require our attention.
@@ -1757,13 +1757,13 @@
 [u1757 | 02:34:36.190-02:34:43.629 | Delwath] enjoy our hospitality for the evening. We'll talk again. You'll find Vola in the dining area
 [u1758 | 02:34:43.800-02:34:53.010 | Delwath] if you wish to speak with another who went through your who was possessed by Fausto.
 [u1759 | 02:34:54.150-02:34:57.329 | DM] He looks over at Vargus, who sort of shakes his head at.
-[u1760 | 02:34:58.240-02:35:01.920 | DM] We've been talking {{Inc.}}
+[u1760 | 02:34:58.240-02:35:01.920 | DM] We've been talking and
 [u1761 | 02:35:03.530-02:35:07.149 | DM] I think we just want to put this behind us as quickly as possible.
 [u1762 | 02:35:08.150-02:35:08.760 | Delwath] Of course.
 [u1763 | 02:35:09.000-02:35:19.279 | DM] Maybe go find a nice little inn somewhere where that needs a bartender and a kitchen staff, or something.
 [u1764 | 02:35:21.070-02:35:23.700 | Kenzo] I mean, we do have a new pub.
 [u1765 | 02:35:27.050-02:35:28.770 | DM] Looks over you.
-[u1766 | 02:35:29.850-02:35:35.030 | DM] He looks over your chef, looks over at your crew.
+[u1766 | 02:35:29.850-02:35:35.030 | DM] He looks over your ship, looks over at your crew.
 [u1767 | 02:35:37.900-02:35:41.349 | DM] I I appreciate the offer. I really do.
 [u1768 | 02:35:42.880-02:35:47.150 | DM] But I had in mind something a little quieter.
 [u1769 | 02:35:48.770-02:35:49.460 | Delwath] Of course.
@@ -1869,7 +1869,7 @@
 [u1869 | 02:44:47.820-02:44:52.370 | DM] I mean Agon he he saved me from.
 [u1870 | 02:44:52.800-02:44:53.770 | Kenzo] Who's Agon?
 [u1871 | 02:44:53.770-02:44:55.989 | DM] Agon was like her mentor, who
-[u1872 | 02:44:56.670-02:45:02.080 | DM] was turned out to be {{one of the cleansed}} and like, brought her to Fausto to be possessed.
+[u1872 | 02:44:56.670-02:45:02.080 | DM] was turned out to be one of the cleansed and like, brought her to Fausto to be possessed.
 [u1873 | 02:45:02.080-02:45:06.879 | Kenzo] Oh, shit, fuck! Oh, that's fucked up. Okay, sorry. Go on.
 [u1874 | 02:45:11.410-02:45:16.019 | DM] I spent years looking up to him, and he always
 [u1875 | 02:45:17.280-02:45:21.689 | DM] told me, like, you know, we're doing good here the society is, gonna
@@ -1878,8 +1878,8 @@
 [u1878 | 02:45:31.860-02:45:35.770 | DM] And he was the bad thing I mean, come on, what would you do with that.
 [u1879 | 02:45:36.380-02:45:38.949 | Kenzo] Where's Agon? Is he still alive?
 [u1880 | 02:45:39.150-02:45:39.969 | DM] I don't know.
-[u1881 | 02:45:41.120-02:45:44.460 | Delwath] But if he, {{this client}}, cool.
-[u1882 | 02:45:44.790-02:45:47.979 | DM] No, no, he was, he was {{not cleansed himself}}. He was.
+[u1881 | 02:45:41.120-02:45:44.460 | Delwath] But if he, he's cleansed, cool.
+[u1882 | 02:45:44.790-02:45:47.979 | DM] No, no, he was, he was not cleansed himself. He was.
 [u1883 | 02:45:47.980-02:45:49.050 | Delwath] Ow! He was.
 [u1884 | 02:45:49.050-02:45:49.719 | DM] {{Clan}}. Yeah.
 [u1885 | 02:45:49.720-02:45:51.260 | Delwath] Yay!
@@ -2011,7 +2011,7 @@
 [u2011 | 02:56:38.290-02:56:42.707 | Delwath] Oh, well, yeah, there's that I didn't. I didn't think of that.
 [u2012 | 02:56:42.960-02:56:43.970 | Kenzo] It's a little secret.
 [u2013 | 02:56:44.840-02:56:46.130 | Delwath] Yay!
-[u2014 | 02:56:46.730-02:56:48.289 | Wellby] Fly on the wyvern, {{Detroit}}.
+[u2014 | 02:56:46.730-02:56:48.289 | Wellby] Fly on the wyvern, to shore.
 [u2015 | 02:56:48.560-02:56:57.419 | Delwath] But I was just gonna say, what about the idea of landing landing like
 [u2016 | 02:56:58.470-02:57:00.759 | Delwath] a hundred miles away, or whatever?
 [u2017 | 02:57:01.040-02:57:01.820 | Delwath] And.
