@@ -15,11 +15,9 @@ u0369 · 00:36:49.870-00:36:51.699 · Ayveen
 
 **Proposed:** I don't actually know what makes heads disappear.
 
-**Alternative 1:** I honestly know what makes heads disappear.
-
 **Recommendation:** Prefer I don’t actually know in this exchange, but the recognized affirmative is a substantive alternative and needs a listening decision.
 
-**Question:** Did Ayveen say she does not know what makes heads disappear, say she knows, or should this remain unresolved?
+**Question:** Use the proposed negative wording, retain the recognized affirmative, supply the spoken wording, or leave unresolved?
 
 **Resolution:** pending
 
