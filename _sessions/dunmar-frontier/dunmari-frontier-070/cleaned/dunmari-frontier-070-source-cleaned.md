@@ -1658,7 +1658,7 @@
 [u1658 | 01:51:01.120-01:51:01.830 | DM] I don't
 [u1659 | 01:51:02.230-01:51:03.460 | DM] my friend.
 [u1660 | 01:51:06.930-01:51:07.610 | DM] Hmm.
-[u1661 | 01:51:08.490-01:51:09.910 | DM] {{Had I lived alone}}.
+[u1661 | 01:51:08.490-01:51:09.910 | DM] Have I lived alone?
 [u1662 | 01:51:13.640-01:51:14.469 | DM] Come.
 [u1663 | 01:51:14.850-01:51:18.090 | DM] and he looks. He's like looking way way over your heads.
 [u1664 | 01:51:21.500-01:51:23.080 | DM] He he will guide you.
@@ -1858,7 +1858,7 @@
 [u1858 | 02:05:00.910-02:05:03.729 | DM] There are not so many mountains west of here
 [u1859 | 02:05:05.820-02:05:06.450 | Unknown] Right?
 [u1860 | 02:05:10.720-02:05:11.780 | DM] Not no
-[u1861 | 02:05:12.430-02:05:13.449 | Unknown] {{your content}}
+[u1861 | 02:05:12.430-02:05:13.449 | Unknown] your content
 [u1862 | 02:05:15.170-02:05:16.309 | DM] that all the
 [u1863 | 02:05:16.950-02:05:18.670 | DM] Drankorian frontier.
 [u1864 | 02:05:20.600-02:05:22.269 | DM] but it is good to hear.
@@ -1948,7 +1948,7 @@
 [u1948 | 02:10:50.100-02:10:51.810 | Delwath] dimension he was trapped in.
 [u1949 | 02:10:53.530-02:10:54.599 | Delwath] Was that
 [u1950 | 02:10:56.660-02:10:59.159 | Delwath] was a tanshi of the Deno'qai.
-[u1951 | 02:11:00.920-02:11:02.920 | Delwath] They called themselves {{Yavoi}}.
+[u1951 | 02:11:00.920-02:11:02.920 | Delwath] They called themselves Yezali.
 [u1952 | 02:11:05.600-02:11:06.320 | Delwath] but I
 [u1953 | 02:11:06.390-02:11:07.630 | Delwath] at the time
 [u1954 | 02:11:08.240-02:11:09.370 | Delwath] knew it not.
@@ -2582,7 +2582,7 @@
 [u2582 | 02:55:46.360-02:55:47.199 | DM] And yet
 [u2583 | 02:55:50.920-02:55:53.180 | DM] he like, tries to move His other hand
 [u2584 | 02:55:53.480-02:55:56.000 | DM] cannot see what holds me here.
-[u2585 | 02:55:57.240-02:55:59.630 | DM] {{Let's see}} how to break these bonds.
+[u2585 | 02:55:57.240-02:55:59.630 | DM] I cannot see how to break these bonds.
 [u2586 | 02:56:11.390-02:56:16.110 | DM] You say you are honorable. You have gone to great lengths
 [u2587 | 02:56:16.150-02:56:17.300 | DM] to save
 [u2588 | 02:56:18.570-02:56:20.180 | DM] to save me. And yet
@@ -2933,7 +2933,7 @@
 [u2933 | 03:19:25.770-03:19:27.249 | Seeker] Riswynn, let's go
 [u2934 | 03:19:27.470-03:19:29.870 | Riswynn] all right. We run into the dream world.
 [u2935 | 03:19:31.140-03:19:35.340 | Wellby] Try and attack the ghost version of him in the
-[u2936 | 03:19:36.460-03:19:38.049 | Riswynn] {{save the stick}}.
+[u2936 | 03:19:36.460-03:19:38.049 | Riswynn] save the stick.
 [u2937 | 03:19:40.910-03:19:43.500 | DM] As you run up into the dream world
 [u2938 | 03:19:43.640-03:19:45.339 | DM] carrying the eyes.
 [u2939 | 03:19:46.040-03:19:48.810 | DM] they begin to pulse with life.

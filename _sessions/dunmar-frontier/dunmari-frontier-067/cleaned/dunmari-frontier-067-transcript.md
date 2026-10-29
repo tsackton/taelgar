@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 67
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-067-source-cleaned.md
 
 ## Transcript
@@ -489,7 +489,7 @@ Wellby: I haven't, no, but thinking of how to date our friend's life, and whethe
 Kenzo: Metagame. Was that what it was? What was the deal with the island?
 
 %% u0433:0-18 %%
-DM: In in [garbled].
+DM: In in high school.
 
 %% u0434:0-10 %%
 Wellby: No island.
@@ -1874,8 +1874,8 @@ Caulaus: Cloudspinner was the queen of this realm many years ago.
 %% u1321:0-33 %%
 Wellby: Wasn't Typhina the queen of this?
 
-%% u1322:0-21, u1323:0-25, u1324:0-12, u1325:0-28 %%
-Caulaus: No, I was a guardian, one of the Cloudspinner's advisors and courtiers, but not the Queen.
+%% u1322:0-23, u1323:0-25, u1324:0-12, u1325:0-28 %%
+Caulaus: No, she was a guardian, one of the Cloudspinner's advisors and courtiers, but not the Queen.
 
 %% u1326:0-26 %%
 Wellby: Y'all, I smell a side quest.

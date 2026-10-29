@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 75
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-075-source-cleaned.md
 
 ## Transcript
@@ -2051,8 +2051,8 @@ Seeker: Can you?
 %% u1077:0-47 %%
 Wellby: We have a—we can talk to one dead person, right?
 
-%% u1078:0-43 %%
-Kenzo: {{Find out worth my spending}} on this guy.
+%% u1078:0-36 %%
+Kenzo: Is it worth my spending on this guy?
 
 %% u1079:0-4 %%
 Seeker: You?
@@ -2529,7 +2529,7 @@ DM: To take Tokra.
 Kenzo: Are you going to lead any forces to defend the eastern border?
 
 %% u1336:0-31, u1337:0-44, u1338:0-24, u1339:0-35, u1340:0-25, u1341:0-29 %%
-DM: I could send a small force now. We cannot commit the bulk of my forces until—but—well, I am sure that we will not be attacked from behind by the wizards of Chardon in league or not, with {{C.}}.
+DM: I could send a small force now. We cannot commit the bulk of my forces until—but—well, I am sure that we will not be attacked from behind by the wizards of Chardon in league or not, with Karnas.
 
 %% u1342:0-6, u1343:0-75, u1344:0-8, u1345:0-30, u1346:0-36, u1347:0-93, u1348:0-24, u1349:0-10, u1350:0-66 %%
 Kenzo: Alesh. I believe you are wise to be wary of the Chardonian mages. This is prudent. However, and this is a critical moment, we ride east right now. We head east to try to prevent what maybe the unleashing of a horrible, terrible army that will head west. And if Shakun's power is disbanded, as is the goal of our—of—of—we told—have we told her about Grash?
@@ -2681,8 +2681,8 @@ Wellby: Why do you believe that?
 %% u1463:0-54 %%
 DM: My emissaries have spoken to the Temple priests there.
 
-%% u1464:0-3, u1465:0-25, u1466:0-10, u1467:0-9, u1468:0-16, u1469:0-35, u1470:0-34, u1471:0-35 %%
-DM: And Karnas, for all his flaws, {{prized}} {{doubt}} {{on weakness}}. He has always been close to Sonkar. He will not fight on her holy day, the month of atonement and renewal.
+%% u1464:0-3, u1465:0-25, u1466:0-6, u1467:0-5, u1468:0-13, u1469:0-35, u1470:0-34, u1471:0-35 %%
+DM: And Karnas, for all his flaws, pride, doubt and weakness. He has always been close to Sonkar. He will not fight on her holy day, the month of atonement and renewal.
 
 %% u1472:0-29, u1473:0-21, u1474:0-8, u1475:0-33, u1476:0-39, u1477:0-14, u1478:0-30, u1479:0-19 %%
 DM: And so I aim to move quickly, make my possession of the East unassailable in the next 2 weeks, camp a small force in the Copper Hills, easy to defend, and send the bulk of my forces east to the borders.
@@ -2786,8 +2786,8 @@ DM: The day of Sonkar, Sonkar's Day, or Day of Atonement.
 %% u1534:0-58, u1535:0-51, u1536:0-15, u1537:0-75, u1538:0-121 %%
 Kenzo: Give us these 2 weeks in the Day of Atonement, that period. That'll be enough time for us to see if we can stop Grash from from from achieving the—the item that he needs. If we're able to stop them, then Shakun's protection remains. If we're unable to, then you'll know, and the only thing to do would be to fight to survive.
 
-%% u1539:0-41, u1540:0-9, u1541:0-13, u1542:0-27, u1543:0-17, u1544:0-16, u1545:0-36, u1546:0-25, u1547:0-2, u1548:0-73, u1549:0-162 %%
-DM: If you are fleeing west on the heels of a Orc army, and there are 50 trained Chardonian mages waiting in Tokra, they will either step up to attack the Orcs and claim overlordship of our land, or our theories about the corruption in the heart of the Empire are correct. They will {{fight the old parks}}. I do not think you want Chardonian Mages lingering in Tokra? If there is an orc army charging from the West, I certainly don't.
+%% u1539:0-41, u1540:0-9, u1541:0-13, u1542:0-27, u1543:0-17, u1544:0-16, u1545:0-36, u1546:0-25, u1547:0-2, u1548:0-73, u1549:0-157 %%
+DM: If you are fleeing west on the heels of a Orc army, and there are 50 trained Chardonian mages waiting in Tokra, they will either step up to attack the Orcs and claim overlordship of our land, or our theories about the corruption in the heart of the Empire are correct. They will fight for the orcs. I do not think you want Chardonian Mages lingering in Tokra? If there is an orc army charging from the West, I certainly don't.
 
 %% u1550:0-30 %%
 Kenzo: How are you going to move them?

@@ -797,7 +797,7 @@
 [u0797 | 01:12:37.430-01:12:39.100 | DM] the sun rising.
 [u0798 | 01:12:41.130-01:12:44.080 | DM] Hralgar stands, and he looks at you all, and he
 [u0799 | 01:12:45.560-01:12:48.480 | DM] turns to each of you in turn, and and to
-[u0800 | 01:12:49.740-01:12:52.750 | DM] Seeker, {{or in there}}, and he says.
+[u0800 | 01:12:49.740-01:12:52.750 | DM] Seeker, and Riswynn, and he says.
 [u0801 | 01:12:54.880-01:12:58.360 | DM] I wish you luck. Finding the phasing stone
 [u0802 | 01:13:00.540-01:13:02.630 | DM] and I give you my blessing.
 [u0803 | 01:13:05.050-01:13:09.060 | DM] Repair this ship. It would be a joy to see it fly again.

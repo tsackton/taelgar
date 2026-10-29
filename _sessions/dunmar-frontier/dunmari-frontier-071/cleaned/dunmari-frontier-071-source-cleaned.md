@@ -19,7 +19,7 @@
 [u0019 | 00:01:44.450-00:01:48.150 | DM] who alternately believed himself to be
 [u0020 | 00:01:48.180-00:01:51.360 | DM] Hralgar or Hralgar's
 [u0021 | 00:01:52.490-00:01:54.100 | DM] friend and
-[u0022 | 00:02:00.200-00:02:03.990 | DM] {{and with named}}.
+[u0022 | 00:02:00.200-00:02:03.990 | DM] and with named.
 [u0023 | 00:02:10.520-00:02:15.140 | DM] until, through clever use of stories
 [u0024 | 00:02:15.800-00:02:23.350 | DM] and tales, you managed to remind Hralgar that, in fact, he was trapped in a prison.
 [u0025 | 00:02:25.280-00:02:26.560 | DM] and
@@ -923,7 +923,7 @@
 [u0923 | 01:17:23.150-01:17:24.020 | DM] all right.
 [u0924 | 01:17:24.500-01:17:31.650 | DM] A lot of a lot of elves who were trying to like, you know, be interested and creative weren't, necessarily interested in writing about
 [u0925 | 01:17:32.060-01:17:36.470 | DM] giants and dragons, and these, like mythic past, right? So
-[u0926 | 01:17:38.550-01:17:43.930 | Seeker] so the book itself would not be that uncommon because it would have been {{orthopedic}}.
+[u0926 | 01:17:38.550-01:17:43.930 | Seeker] so the book itself would not be that uncommon because it would have been orthopedic.
 [u0927 | 01:17:44.460-01:17:47.100 | DM] so the book would be fairly common, but
 [u0928 | 01:17:47.160-01:17:55.980 | DM] but sort of the type of thing that most, many libraries or most libraries would have a copy of, but not a lot of people had bothered to read.
 [u0929 | 01:17:57.450-01:18:00.650 | Kenzo] Who do we still know at
@@ -1060,7 +1060,7 @@
 [u1060 | 01:30:43.150-01:30:45.000 | DM] Cha'mutte was his name.
 [u1061 | 01:30:48.970-01:30:50.260 | DM] but they were.
 [u1062 | 01:30:54.580-01:30:55.690 | DM] I don't know.
-[u1063 | 01:30:56.890-01:30:59.150 | DM] I do not think {{they side}}. I
+[u1063 | 01:30:56.890-01:30:59.150 | DM] I do not think they saw eye to eye. I
 [u1064 | 01:30:59.840-01:31:00.480 | Seeker] Hmm.
 [u1065 | 01:31:05.700-01:31:13.510 | DM] Drankor was full of war in those days and arrogance
 [u1066 | 01:31:15.750-01:31:18.530 | Unknown] after the Civil War and the end of the
@@ -1238,7 +1238,7 @@
 [u1238 | 01:46:15.240-01:46:16.990 | Unknown] guide. Our decisions.
 [u1239 | 01:46:20.480-01:46:23.390 | DM] He left when he was a young giant.
 [u1240 | 01:46:24.570-01:46:28.670 | DM] just barely 20 feet tall. still growing.
-[u1241 | 01:46:32.320-01:46:34.960 | DM] and he journeyed {{stylish}}.
+[u1241 | 01:46:32.320-01:46:34.960 | DM] and he journeyed south-ish.
 [u1242 | 01:46:37.070-01:46:40.460 | DM] spent many years traveling through the great deserts
 [u1243 | 01:46:41.780-01:46:53.540 | DM] on the—beyond Drankor, on the eastern—beyond the eastern frontiers, chasing the sandstorms and
 [u1244 | 01:46:54.990-01:47:01.940 | DM] winds that would crisscross those lands. The rare thunderstorm that brought life
@@ -1254,7 +1254,7 @@
 [u1254 | 01:47:51.320-01:47:54.980 | DM] I was known then as something of a scholar. I guess
 [u1255 | 01:47:56.000-01:47:59.340 | DM] something of a gatherer of tales and
 [u1256 | 01:48:00.010-01:48:02.880 | DM] sharer of history.
-[u1257 | 01:48:05.920-01:48:18.060 | DM] Much of the {{G}} of our people is not necessarily remembered by us, but is recorded in the lore of the dwarves and the stone born especially, and in those days
+[u1257 | 01:48:05.920-01:48:18.060 | DM] Much of the history of our people is not necessarily remembered by us, but is recorded in the lore of the dwarves and the stone born especially, and in those days
 [u1258 | 01:48:18.490-01:48:22.620 | DM] the kingdom of Ardith, but I believe is now destroyed
 [u1259 | 01:48:24.140-01:48:26.680 | DM] below the mountains just north of here
 [u1260 | 01:48:28.210-01:48:33.190 | DM] was also renowned as a center of learning for history and
@@ -2032,7 +2032,7 @@
 [u2032 | 02:57:00.630-02:57:01.700 | Delwath] totally gone
 [u2033 | 02:57:01.760-02:57:02.940 | DM] completely gone.
 [u2034 | 02:57:03.270-02:57:05.090 | Seeker] Wow. Yeah.
-[u2035 | 02:57:05.960-02:57:08.830 | Riswynn] {{A peak in my pony. My.}}
+[u2035 | 02:57:05.960-02:57:08.830 | Riswynn] I peek at my pony.
 [u2036 | 02:57:10.430-02:57:13.650 | Delwath] I'm going to offer to hunt with him.
 [u2037 | 02:57:26.930-02:57:28.490 | DM] Sure, I mean
 [u2038 | 02:57:30.500-02:57:38.070 | DM] he. He welcomes you to join him for a little bit, but he also wants some time just to travel by him. So just to like.
@@ -2118,7 +2118,7 @@
 [u2118 | 03:05:23.770-03:05:41.540 | Delwath] he's not one of those. The enemy of my enemy is a friend thing I mean, yeah, like Stalin verse, Hitler. Neither one of them is a good guy.
 [u2119 | 03:05:41.850-03:05:42.730 | Delwath] True.
 [u2120 | 03:05:44.590-03:05:46.600 | Kenzo] he only wants to kill some of the gods.
-[u2121 | 03:05:49.480-03:05:54.320 | Kenzo] We we can ask him to about, so we nobody knows {{how to drink, or in a parl}} still right.
+[u2121 | 03:05:49.480-03:05:54.320 | Kenzo] We we can ask him to about, so we nobody knows how Drankor and Apollyon fell still right.
 [u2122 | 03:05:58.440-03:06:02.550 | Kenzo] and nobody knows that it was the origin of the red mist.
 [u2123 | 03:06:04.090-03:06:11.930 | DM] Not I mean, that's none of this stuff, Hralgar would be able to tell you it was after he was in.
 [u2124 | 03:06:13.410-03:06:16.520 | Kenzo] Yeah, we got something about the artifacts. If there is anything about those

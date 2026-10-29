@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 72
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-072-source-cleaned.md
 
 ## Transcript
@@ -944,8 +944,8 @@ Delwath: So that one text.
 %% u0795:0-6 %%
 Kenzo: Right?
 
-%% u0796:0-33, u0797:0-15, u0798:0-47, u0799:0-40, u0800:0-37 %%
-DM: So as you wake up in the morning, the sun rising, Hralgar stands, and he looks at you all, and he turns to each of you in turn, and and to Seeker, {{or in there}}, and he says,
+%% u0796:0-33, u0797:0-15, u0798:0-47, u0799:0-40, u0800:0-33 %%
+DM: So as you wake up in the morning, the sun rising, Hralgar stands, and he looks at you all, and he turns to each of you in turn, and and to Seeker, and Riswynn, and he says,
 
 %% u0801:0-42, u0802:0-27, u0803:0-56, u0804:0-62 %%
 DM: "I wish you luck finding the phasing stone, and I give you my blessing. Repair this ship. It would be a joy to see it fly again, and perhaps some day I will be a passing storm across your bow."

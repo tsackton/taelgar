@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 74
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-074-source-cleaned.md
 
 ## Transcript
@@ -1484,8 +1484,8 @@ Kenzo: I think I did. Yeah, my Soul Sight—Alesh, is it—is this actually Ales
 %% u0981:57-189, u0982:0-54, u0983:0-114, u0984:0-18, u0985:0-28 %%
 DM: Yeah, definitely her. She's surprised and delighted and curious and like looks up at you and—and goes to get a horse, and it's like: "I—I guess I should have guessed it. It would have been you 2 here when the rains are gone. I've been wondering about this tower for—or this place, you know, ever since I—ever since I first heard the stories of—of that—"
 
-%% u0986:0-66, u0987:0-21, u0988:0-129, u0989:0-27 %%
-DM: Now I can't find in my notes. What if the tower used to be called? Hold on. [garbled]. That—there's too many things that come up when I search Stormcaller Tower because it's tagged in like literally half of my notes. The Tower of the Wild Wind.
+%% u0986:0-66, u0987:0-17, u0988:0-129, u0989:0-27 %%
+DM: Now I can't find in my notes. What if the tower used to be called? Hold on. Eudomes. That—there's too many things that come up when I search Stormcaller Tower because it's tagged in like literally half of my notes. The Tower of the Wild Wind.
 
 %% u0990:0-77, u0991:0-143, u0992:0-72 %%
 DM: "I had heard stories about it. It was cursed place of strange magic, but never a permanent storm. And so when that—that was something new and that happened, I didn't think it was a safe place to go. I—I guess you are such—wow! I mean, I don't know that there's anywhere that's dangerous for you.
@@ -2237,8 +2237,8 @@ DM: Sorry, what was they saying? Oh, right, the message stone. So the—there wa
 %% u1448:0-28 %%
 Kenzo: Do you know what that's now?
 
-%% u1449:0-176, u1450:0-75 %%
-DM: Ikram would know. I wasn't supposed to be there. {{I couldn't threw it in it through it}} somewhere, he said, "Get rid of this," and give it to one of his buddies, and rode off and tossed it in a well, or the desert, or in the oasis or something like that.
+%% u1449:0-162, u1450:0-75 %%
+DM: Ikram would know. I wasn't supposed to be there. Ikram threw it—he threw it somewhere, he said, "Get rid of this," and give it to one of his buddies, and rode off and tossed it in a well, or the desert, or in the oasis or something like that.
 
 %% u1451:0-35 %%
 Wellby: Metagame. So—so somewhere in Dunmar—
@@ -2810,8 +2810,8 @@ Kenzo: Who said that?
 %% u1816:0-37 %%
 Seeker: Who has purple dots of light for eyes?
 
-%% u1817:0-28, u1818:0-28, u1819:0-28 %%
-Riswynn: So like {{klight obsessed}}. There was a chalyte creature hunting people, right? Maybe.
+%% u1817:0-25, u1818:0-28, u1819:0-28 %%
+Riswynn: So like chalyte-obsessed. There was a chalyte creature hunting people, right? Maybe.
 
 %% u1820:0-21 %%
 Kenzo: Yeah, is it Apollyon?
