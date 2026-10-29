@@ -474,7 +474,7 @@
 [u0474 | 00:37:55.290-00:37:55.710 | DM] That.
 [u0475 | 00:37:58.080-00:37:58.440 | Riswynn] Um
 [u0476 | 00:37:58.980-00:38:00.420 | Seeker] Just weirdos
-[u0477 | 00:38:00.810-00:38:05.940 | Riswynn] Going back to the hobgoblins {{during his can never said anything about like}}
+[u0477 | 00:38:00.810-00:38:05.940 | Riswynn] Going back to the hobgoblins Uncle Eberk—Riswynn's kin—never said anything about, like—
 [u0478 | 00:38:08.580-00:38:09.540 | Unknown] Dinner so
 [u0479 | 00:38:12.510-00:38:13.500 | DM] Know,
 [u0480 | 00:38:13.890-00:38:15.600 | DM] That they fled maybe
@@ -497,7 +497,7 @@
 [u0497 | 00:39:57.090-00:39:58.830 | Riswynn] Seems to be in mind.
 [u0498 | 00:40:03.150-00:40:18.000 | Seeker] As I work out some new techniques for adding spatial temporal dimensions to maps. I'm starting to see how it might improve the view of multiple layers in the ground of this map and noticing how it could be a little confusing.
 [u0499 | 00:40:21.390-00:40:22.620 | Riswynn] To clarify, who's trying
-[u0500 | 00:40:25.320-00:40:39.960 | Seeker] I'm curious to get down to that vault where I do sense something powerful down there to the south of a destination starting place to find my family's treasure that's really. And so there's a passage way down.
+[u0500 | 00:40:25.320-00:40:39.960 | Seeker] I'm curious to get down to that vault where I do sense something powerful down there to the south of a destination starting place to find my family's treasure naturally. And so there's a passage way down.
 [u0501 | 00:40:40.980-00:40:45.960 | Seeker] But must be beneath where we're standing. But how do we get to that passage way.
 [u0502 | 00:40:47.160-00:40:48.900 | Unknown] Tavern and living space.
 [u0503 | 00:40:50.760-00:40:54.360 | Seeker] But do we see any exits in this tavern. You say the floor was rotted
@@ -818,7 +818,7 @@
 [u0818 | 01:08:10.920-01:08:11.880 | Kenzo] She might like that, pearl.
 [u0819 | 01:08:13.440-01:08:15.690 | Seeker] But the but but I also like the
 [u0820 | 01:08:17.610-01:08:19.320 | Kenzo] We might like what's in the vault even more.
-[u0821 | 01:08:25.980-01:08:34.500 | Unknown] I mean, unless {{it was when there's like some member of their group was going by the roper and so they know the roper had to throw in one stone}}.
+[u0821 | 01:08:25.980-01:08:34.500 | Unknown] I mean, unless it was when there's like some member of their group was eaten by the roper and so they know the roper had the pearl in its stomach.
 [u0822 | 01:08:35.520-01:08:42.090 | Kenzo] It. I mean, we could try showing it to her and see if she she responds and then perhaps barter.
 [u0823 | 01:08:43.560-01:08:50.370 | Seeker] My guess is, regardless of whether she even knew it existed before she would insist that it was hers, and that should, we should give it back to her.
 [u0824 | 01:08:51.150-01:08:52.560 | Kenzo] Well, she doesn't know that we found it there.
@@ -831,7 +831,7 @@
 [u0831 | 01:09:27.090-01:09:28.770 | Delwath] Or was it more
 [u0832 | 01:09:32.340-01:09:32.580 | Unknown] I don't
 [u0833 | 01:09:36.060-01:09:38.100 | DM] Know there's no I you know that
-[u0834 | 01:09:39.240-01:09:44.010 | Unknown] {{Process thousand she can replace}}, but she wanted the roper gone so she can loot the place.
+[u0834 | 01:09:39.240-01:09:44.010 | Unknown] Wants us out so she can loot the place, but she wanted the roper gone so she can loot the place.
 [u0835 | 01:09:45.090-01:09:45.420 | Unknown] But
 [u0836 | 01:09:46.710-01:09:50.490 | Riswynn] We don't know what we're giving up if we haven't found anything other than the pearl.
 [u0837 | 01:09:51.750-01:09:55.980 | Riswynn] But I don't really care. Unless I'm really wanting it to them.

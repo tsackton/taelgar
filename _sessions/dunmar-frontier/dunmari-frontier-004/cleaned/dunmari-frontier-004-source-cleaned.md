@@ -1711,7 +1711,7 @@
 [u1711 | 02:05:31.860-02:05:34.740 | DM] Persuasion check with advantage because
 [u1712 | 02:05:42.720-02:05:43.620 | Unknown] She says,
 [u1713 | 02:05:48.660-02:05:50.310 | DM] Why do you say this
-[u1714 | 02:05:51.660-02:05:58.500 | DM] I'm not sure that you should linger much longer here until the rest of you seem to have gotten very cold.
+[u1714 | 02:05:51.660-02:05:58.500 | DM] I'm not sure that you should linger much longer here. And to the rest of you, she seems to have gotten very cold.
 [u1715 | 02:05:59.370-02:05:59.790 | Unknown] Huh.
 [u1716 | 02:06:03.870-02:06:10.380 | Wellby] Three days ago, in the caves northeast of here, beneath an abandoned stronghold,
 [u1717 | 02:06:11.310-02:06:22.440 | Wellby] we found a staff that spoke to us in the same voice that seems to speak to your sick companion—when I use, again, that Halfling word for sick.
@@ -2250,7 +2250,7 @@
 [u2250 | 02:48:45.300-02:48:48.030 | Delwath] Since I joined
 [u2251 | 02:48:48.570-02:48:51.930 | Delwath] the battle against Cha'mutte 300 years ago,
 [u2252 | 02:48:53.700-02:48:54.870 | Delwath] I've always been
-[u2253 | 02:48:57.930-02:48:59.670 | Delwath] I've always hated
+[u2253 | 02:48:57.930-02:48:59.670 | Delwath] I've always aided
 [u2254 | 02:49:00.120-02:49:00.720 | Delwath] Those
 [u2255 | 02:49:00.870-02:49:01.830 | Delwath] who oppose
 [u2256 | 02:49:01.980-02:49:02.970 | Unknown] The forces of evil.

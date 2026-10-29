@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 15
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-015-source-cleaned.md
 
 ## Transcript
@@ -200,8 +200,8 @@ Seeker: Weird place for a tower. Except for the obvious utility access.
 %% u0157:0-6 %%
 Unknown: Right.
 
-%% u0158:0-11, u0159:0-44, u0160:0-68, u0161:0-97 %%
-Riswynn: We're here. Whatever happened to them survived it laughs. You didn't advance their needs to linger here. Does it and vampires. Do we have a duty to help whatever is trapped? We have a duty to keep trapped whatever is trapped?
+%% u0158:0-11, u0159:0-46, u0160:0-68, u0161:0-97 %%
+Riswynn: We're here. Whatever happened to them survived it and left. You didn't advance their needs to linger here. Does it and vampires. Do we have a duty to help whatever is trapped? We have a duty to keep trapped whatever is trapped?
 
 %% u0162:0-38 %%
 Seeker: Personally, I'd like to find out more.
@@ -1485,7 +1485,7 @@ DM: By water creatures. Kong.
 Seeker: It was—
 
 %% u0924:0-23, u0925:0-51, u0926:0-28, u0927:0-39 %%
-DM: It was, it was mechanic that Kenzo speaks, not Drankorian. You still have to—use two unknown languages to—some, some languages you haven't picked.
+DM: It was, it was Draconic that Kenzo speaks, not Drankorian. You still have to—use two unknown languages to—some, some languages you haven't picked.
 
 %% u0928:0-32 %%
 Kenzo: Right, right, right. Okay, cool.
@@ -3746,8 +3746,8 @@ DM: "He was, yes. That was many years ago now."
 %% u2208:0-33 %%
 Kenzo: When did you last speak with him?
 
-%% u2209:0-57, u2210:0-15, u2211:0-4 %%
-DM: "I do not know exactly the years I have been trapped here. I only a while ago."
+%% u2209:0-57, u2210:0-20, u2211:0-4 %%
+DM: "I do not know exactly the years I have been trapped here. I only awoke a while ago."
 
 %% u2212:0-72 %%
 Kenzo: Is that timing makes sense for when this weird electrical storm appeared?

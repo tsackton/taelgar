@@ -205,7 +205,7 @@
 [u0205 | 00:21:28.140-00:21:28.500 | Kenzo] You know,
 [u0206 | 00:21:28.980-00:21:33.210 | DM] the great mages of the Great War, of Haldir and Rai,
 [u0207 | 00:21:34.890-00:21:36.030 | DM] A traveler.
-[u0208 | 00:21:37.080-00:21:41.790 | DM] There are stories even dating a lot before that—Taelsin the Traveler.
+[u0208 | 00:21:37.080-00:21:41.790 | DM] There are stories even dating a lot before that—Airion the Mistspeaker.
 [u0209 | 00:21:44.940-00:21:48.030 | DM] Of course, there are stories. How much of this is true.
 [u0210 | 00:21:50.820-00:21:51.630 | DM] Hard to say.
 [u0211 | 00:21:56.520-00:22:07.230 | Kenzo] Um, Tim, would I know where to research more about these kinds of mages, like Chardon, some place with a library? Are there places where I would actually be able to study?
@@ -2271,7 +2271,7 @@
 [u2271 | 03:04:19.590-03:04:20.130 | Unknown] Ravens.
 [u2272 | 03:04:21.870-03:04:25.590 | Wellby] Raven's Hold, some malevolent force, something that's
 [u2273 | 03:04:26.550-03:04:27.240 | Seeker] Missing
-[u2274 | 03:04:27.270-03:04:29.310 | Wellby] The light or doing some evil there.
+[u2274 | 03:04:27.270-03:04:29.310 | Wellby] Blight or doing some evil there.
 [u2275 | 03:04:31.980-03:04:33.990 | Wellby] The festival finishes and your people.
 [u2276 | 03:04:33.990-03:04:35.670 | Wellby] Scattered back to their
 [u2277 | 03:04:35.700-03:04:39.000 | Wellby] Fields and flocks, they'll be an

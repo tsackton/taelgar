@@ -2398,7 +2398,7 @@
 [u2398 | 03:17:23.070-03:17:28.650 | DM] really up to you but for sure there are Brawnanvils.
 [u2399 | 03:17:29.700-03:17:35.370 | DM] In Chardon I mean, a lot of the dwarves from the Yuvanti mountains, who have, you know, spread
 [u2400 | 03:17:37.620-03:17:52.320 | DM] Who haven't sort of stayed in there in in the mountains, you know, have tended to move north and west towards Chardon so you had very likely have like distant relations there, but nobody. You don't have like close contacts.
-[u2401 | 03:17:57.240-03:17:59.670 | Riswynn] I know some work soon as the doors.
+[u2401 | 03:17:57.240-03:17:59.670 | Riswynn] I can also work through the dwarves.
 [u2402 | 03:18:03.540-03:18:09.450 | Riswynn] That might be an avenue by which we could be contacted you are in Chardon that we're looking for, Wellby, or
 [u2403 | 03:18:10.710-03:18:11.160 | Wellby] Here.
 [u2404 | 03:18:12.210-03:18:19.350 | Riswynn] Or people to investigate more about the goings on in Chardon. I don't know if that will be something that my

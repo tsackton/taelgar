@@ -1753,7 +1753,7 @@
 [u1753 | 02:18:35.550-02:18:38.730 | DM] Sorry, I missed it, what do you what it. Somebody asked me something.
 [u1754 | 02:18:40.650-02:18:41.610 | Delwath] Now, I don't think so.
 [u1755 | 02:18:41.910-02:18:42.210 | Unknown] Okay.
-[u1756 | 02:18:44.310-02:18:46.260 | Seeker] Well, there's, there's also a giant store.
+[u1756 | 02:18:44.310-02:18:46.260 | Seeker] Well, there's, there's also a giant sword.
 [u1757 | 02:18:48.540-02:19:01.050 | Riswynn] So we came, we saw, the message in the shadows. We found the circle where the demon probably came from. Any of us have the capacity to safely shut down.
 [u1758 | 02:19:01.080-02:19:02.790 | Delwath] Demonic summoning circles. I'm
 [u1759 | 02:19:04.140-02:19:05.640 | Delwath] cutting it open with my sword.
@@ -2101,7 +2101,7 @@
 [u2101 | 02:43:30.090-02:43:31.740 | Delwath] As it falls dead.
 [u2102 | 02:43:32.640-02:43:37.110 | Delwath] You see like a thin stream of
 [u2103 | 02:43:38.340-02:43:40.350 | Delwath] Of like pale gray, white
-[u2104 | 02:43:41.790-02:43:44.730 | Delwath] Come from the shadow thing, and by one have Delwath.
+[u2104 | 02:43:41.790-02:43:44.730 | Delwath] Come from the shadow thing, and fly back to Delwath.
 [u2105 | 02:43:51.120-02:43:51.660 | Seeker] Come from where
 [u2106 | 02:43:52.380-02:43:53.250 | Delwath] The thing we killed
 [u2107 | 02:43:57.000-02:43:57.420 | DM] And

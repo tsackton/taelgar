@@ -156,7 +156,7 @@
 [u0156 | 00:14:24.630-00:14:25.530 | Seeker] Utility access
 [u0157 | 00:14:26.910-00:14:27.180 | Unknown] Right.
 [u0158 | 00:14:36.690-00:14:37.290 | Riswynn] We're here.
-[u0159 | 00:14:38.370-00:14:41.490 | Riswynn] Whatever happened to them survived it laughs
+[u0159 | 00:14:38.370-00:14:41.490 | Riswynn] Whatever happened to them survived it and left
 [u0160 | 00:14:43.980-00:14:49.350 | Riswynn] You didn't advance their needs to linger here. Does it and vampires.
 [u0161 | 00:14:51.600-00:14:56.820 | Riswynn] Do we have a duty to help whatever is trapped, we have a duty to keep trapped whatever is trapped
 [u0162 | 00:15:03.510-00:15:05.010 | Seeker] Personally, I'd like to find out more.
@@ -921,7 +921,7 @@
 [u0921 | 01:19:17.940-01:19:18.570 | Seeker] Has to be grabbed
 [u0922 | 01:19:18.600-01:19:19.680 | DM] By water creatures Kong.
 [u0923 | 01:19:19.710-01:19:20.310 | Seeker] It was
-[u0924 | 01:19:20.340-01:19:22.260 | DM] It was it was mechanic.
+[u0924 | 01:19:20.340-01:19:22.260 | DM] It was it was Draconic.
 [u0925 | 01:19:22.380-01:19:25.830 | DM] That Kenzo speaks not Drankorian, you still have to
 [u0926 | 01:19:26.190-01:19:28.290 | DM] Use two unknown languages to
 [u0927 | 01:19:28.620-01:19:30.300 | DM] some, some languages you haven't picked
@@ -2207,7 +2207,7 @@
 [u2207 | 03:13:54.720-03:13:56.100 | DM] Many years ago now.
 [u2208 | 03:13:56.670-03:13:57.900 | Kenzo] When did you last speak with him.
 [u2209 | 03:14:01.710-03:14:04.740 | DM] I do not know exactly the years I have been trapped here.
-[u2210 | 03:14:06.270-03:14:07.080 | DM] I only a while.
+[u2210 | 03:14:06.270-03:14:07.080 | DM] I only awoke a while
 [u2211 | 03:14:12.660-03:14:13.140 | DM] Ago.
 [u2212 | 03:14:18.660-03:14:21.540 | Kenzo] Is that timing makes sense for when this weird electrical storm appeared
 [u2213 | 03:14:23.250-03:14:30.390 | DM] Tim Yeah, roughly, I'm interesting. I mean, you heard rumors of it when you were back in Karawa.

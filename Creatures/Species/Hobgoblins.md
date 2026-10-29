@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/lint]
+tags: [creature]
 name: Hobgoblins
 aliases: [hobgoblin, hobgoblins, Hobgoblin]
 dm_owner: joint
@@ -35,7 +35,7 @@ Little is known about hobgoblin reproduction, age of maturity, family life, or a
 
 ## Settlements and Homelands
 
-Since Cha'mutte's defeat in the [[Great War]], hobgoblins have gradually been pushed away from human realms, and now tend to occupy marginal land where they can, surviving at the margins of the [[Plaguelands]], in the foothills of the [[Sentinel Range|Sentinels]], and the northern slopes of the [[Fiatara Mountains]]. 
+Since Cha'mutte's defeat in the [[Great War]], hobgoblins have gradually been pushed away from human realms, and now tend to occupy marginal land where they can, surviving at the margins of the [[Plaguelands]], in the foothills of the [[Sentinel Range|Sentinels]], and the northern slopes of the [[Fiatara Mountains]]. Rumors from the [[Skullcleaver Clan|east of hobgoblin pirates]] suggest that some larger settlements and kingdoms might still linger in places. 
 
 %% no other details of hobgoblin settlements are invented, though see DM Notes below. no details about hobgoblin towns or cities are invented. %%
 
@@ -121,26 +121,4 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern species overview, with historical discussion of the Great War and its aftermath; the current clan dispositions include the Iron Fang defeat in DR 1749 and should not be projected onto earlier periods.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Corrected small grammar, spelling, and duplicated-article errors while preserving meaning, uncertainty, and section structure.
-- Canonicalized the two `Campaign:none` marker spellings without changing their scope, and added persistent name and modern temporal metadata.
-
-### Validated judgments
-- The ordinary English species name needs no pronunciation guide. Its in-world name language is not established, so the name block records `unknown` without deriving it from Katonylev.
-- The article already has the Halflings-style appearance, language/naming, lifecycle, settlements, culture, history, and DM sections. Hobgoblins are not included in [[Playable Species of Taelgar]]; no playable-species format finding is needed.
-- The current clan account incorporates the DR 1749 Iron Fang defeat while preserving uncertainty about survivors. Earlier Raven's Hold journal language about gods was revised in the shared handout and does not establish hobgoblin religion.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** Clarify the apparent metaphysical discrepancy between “They lack soulstuff entirely” in Metaphysics and Creation (also supported by [[Metaphysics of Creatures]]) and [[Session 129 (DuFr)]], which says Kenzo “felt only hobgoblin souls.” The session records what Kenzo perceived, and a soul-sight ability need not by itself prove soulstuff; the explicit wording nevertheless leaves the relationship unresolved. Preserve both accounts pending a decision about whether this is perception terminology or an intended exception. Proposed nearby clarification comment: `%% [[Session 129 (DuFr)]] describes Kenzo perceiving “hobgoblin souls.” Clarify how that observation relates to the no-soulstuff account before applying it to perception or resurrection rules; no reconciliation is established here. %%`
-
-- [ ] **Suggestion — editorial.public_material_candidate:** The hidden Skullcleaver clan bullet contains a useful eastern homeland example already supported by the public [[Skullcleaver Clan]] note. Proposed addition to Settlements and Homelands: “Hobgoblins also hold territory in northeastern [[Irrla]], where the [[Skullcleaver Clan]] maintains significant naval forces and raids shipping from [[Ursk]]. Its lands are hemmed in by the fortified borders of the [[Republic of Svolhas]].” This broadens the public geographic account beyond the western marginal territories. Keep the uncertain chronology, possible independence from Cha'mutte, other unresolved populations, and the remaining DM guidance hidden.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
 %%^End%%

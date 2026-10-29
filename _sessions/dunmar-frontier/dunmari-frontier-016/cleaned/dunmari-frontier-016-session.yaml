@@ -40,3 +40,95 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/sources/zoom-session-016.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2494
+  issues: 1
+  artifacts:
+    original:
+      path: sources/GMT20210109-020009_Taelgar-Re.transcript.vtt
+      sha256: 6c20cd23fd65923d2b54b7fccac49793ad3dbcacc22010230c03cdf89d1f01bd
+    prepared:
+      path: cleaned/dunmari-frontier-016-source-prepared.md
+      sha256: e0be51d834406babbaad4dc160990efa3f62904a53c26f9f585ba18ea9090b0b
+    cleaned:
+      path: cleaned/dunmari-frontier-016-source-cleaned.md
+      sha256: bd70cd639d42ac1d245efc99709fe1ac71e70e5b01fbc8989b2666db4cc3b87d
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-016-transcript.md
+      sha256: f71f3abaa930b9d72c00ca7ea15e10dd9f37126626cbd4681da1ce859f88b991
+  speakerCorrections:
+  - uid: u0072
+    start: 0
+    end: 38
+    speaker: DM
+  - uid: u0079
+    start: 0
+    end: 2
+    speaker: DM
+  - uid: u0104
+    start: 0
+    end: 26
+    speaker: DM
+  - uid: u0131
+    start: 73
+    end: 74
+    speaker: DM
+  - uid: u0184
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0278
+    start: 0
+    end: 14
+    speaker: DM
+  - uid: u0306
+    start: 0
+    end: 13
+    speaker: DM
+  - uid: u0432
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u0622
+    start: 0
+    end: 13
+    speaker: DM
+  - uid: u0757
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u0952
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u1076
+    start: 0
+    end: 6
+    speaker: Seeker
+  - uid: u1134
+    start: 0
+    end: 3
+    speaker: Seeker
+  - uid: u1330
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u1341
+    start: 0
+    end: 14
+    speaker: DM
+  - uid: u1883
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u2478
+    start: 0
+    end: 15
+    speaker: Riswynn
+  - uid: u2480
+    start: 0
+    end: 28
+    speaker: Riswynn

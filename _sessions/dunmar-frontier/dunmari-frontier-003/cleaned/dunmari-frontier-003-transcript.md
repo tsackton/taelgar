@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 3
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-003-source-cleaned.md
 
 ## Transcript
@@ -1013,8 +1013,8 @@ Unknown: Okay.
 %% u0595:0-9 %%
 DM: That hits.
 
-%% u0596:0-24, u0597:0-4, u0598:0-128, u0599:0-205 %%
-Kenzo: Excellent. And so again, ooh. Nice. So basically you see Kenzo just rush over extremely quickly. He sees the danger and launches himself right next to Wellby. Tries to use his staff to slash at the mandibles and create a little distance. Misses, but then, again, just Flurry of Blows—just up, up, up, up—striking different parts of the beast and doing some damage.
+%% u0596:0-24, u0597:0-4, u0598:0-161, u0599:0-205 %%
+Kenzo: Excellent. And so again, ooh. Nice, very nice. Nice. So basically you see Kenzo just just rush over extremely quickly, just boom. He sees the danger and launches himself right next to Wellby. Tries to use his staff to slash at the mandibles and create a little distance. Misses, but then, again, just Flurry of Blows—just up, up, up, up—striking different parts of the beast and doing some damage.
 
 %% u0600:0-20 %%
 Seeker: Am I able to is this—
@@ -1532,8 +1532,8 @@ DM: It's not locked. Who’s pushing it open?
 %% u0885:0-122, u0886:0-51, u0887:0-115 %%
 Delwath: Why don't we step back? Delwath sort of motions for everybody to stand back a little bit, like 30 feet away from the door. And hell. Let's stand to the side a little bit too. And then he'll wave his arm a little bit, and you see a small hand float across the 30 feet and push the door open.
 
-%% u0888:0-58, u0889:0-112, u0890:0-79, u0891:0-274, u0892:0-55, u0893:0-41, u0894:0-303, u0895:0-23 %%
-DM: As the door swings open you can see inside the building is mostly dark except for there seems to be on on one of the walls, what you can see from this distance, anyway, is a flame, about the size of your hand, that seems to be burning touching nothing kind of just floating in the air, casting light around. And from the light of this flame, you can see the area inside looks as if a large earthquake has struck it. It's been shaken and things are cracked, but it's clearly a temple to the Five Siblings, the Dunmari pantheon. Each of the five sides has an altar to one of the gods. Jeevali, the goddess of life and rebirth, home, and family; Laka, the god of knowledge, agriculture, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, artisans, and justice; and Chidya, the goddess of nature, the land, animals, and weather. A few of the altars are.
+%% u0888:0-58, u0889:0-112, u0890:0-79, u0891:0-274, u0892:0-55, u0893:0-41, u0894:0-260, u0895:0-23 %%
+DM: As the door swings open you can see inside the building is mostly dark except for there seems to be on on one of the walls, what you can see from this distance, anyway, is a flame, about the size of your hand, that seems to be burning touching nothing kind of just floating in the air, casting light around. And from the light of this flame, you can see the area inside looks as if a large earthquake has struck it. It's been shaken and things are cracked, but it's clearly a temple to the Five Siblings, the Dunmari pantheon. Each of the five walls has an altar to one of the gods. Jeevali, the goddess of life and rebirth, home, and family; Laka, the god of knowledge, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals. A few of the altars are.
 
 %% u0896:0-7 %%
 Unknown: Cracked.
@@ -3554,8 +3554,8 @@ DM: Delwath freezes for a moment. And the rest of you see—who was second in li
 %% u1991:0-37 %%
 Seeker: I think that's gonna be me, actually.
 
-%% u1992:0-71, u1993:0-95, u1994:0-180, u1995:0-16, u1996:0-24, u1997:0-38, u1998:0-21 %%
-DM: Okay, as Delwath freezes as he steps towards the entrance of this cave, you see ahead of you like looking past his shoulder a larger opening in front of you. There's a there's a cave opening up, and you can see a faint glow from the far side of the cave down the passageway. And you see, dropping from the ceiling as Delwath stands in front of you, three skeletons. Where do you want to do? They're starting to lumber towards our—Weight, they’ll stop.
+%% u1992:0-71, u1993:0-95, u1994:0-180, u1995:0-16, u1996:0-24, u1997:0-37, u1998:0-22 %%
+DM: Okay, as Delwath freezes as he steps towards the entrance of this cave, you see ahead of you like looking past his shoulder a larger opening in front of you. There's a there's a cave opening up, and you can see a faint glow from the far side of the cave down the passageway. And you see, dropping from the ceiling as Delwath stands in front of you, three skeletons. Where do you want to do? They're starting to lumber towards, uh, where Delwath stopped.
 
 %% u1999:0-31 %%
 Delwath: Can I ask you something? Can we—
@@ -5189,8 +5189,8 @@ Unknown: All right, Tim.
 %% u2859:0-11 %%
 Wellby: Hello, sir?
 
-%% u2860:0-59, u2861:0-51 %%
-Kenzo: Yeah, I take the spearpoint, put it into the flaw, and then rear it back and take a smack with my quarterstaff.
+%% u2860:0-74, u2861:0-51 %%
+Kenzo: Yeah, I take, I take the spearpoint, put it into the—the defect, and then— rear it back and take a smack with my quarterstaff.
 
 %% u2862:0-46 %%
 Seeker: Kenzo, put your back into it. Just giving you—

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 13
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-013-source-cleaned.md
 
 ## Transcript
@@ -3156,7 +3156,7 @@ Delwath: Now, I don't think so.
 Unknown: Okay.
 
 %% u1756:0-42 %%
-Seeker: Well, there's there's also a giant store.
+Seeker: Well, there's there's also a giant sword.
 
 %% u1757:0-152 %%
 Riswynn: So we came, we saw the message in the shadows. We found the circle where the demon probably came from. Any of us have the capacity to safely shut down...?
@@ -3693,7 +3693,7 @@ DM: Click on that. Click on the red short bow right underneath the 25 for the cr
 DM: So Wellby pauses for a moment in the sort of chaos as it's staggering back, takes aim at this sort of blackened area where Riswynn and Delwath have both, with their curses, both blackened it. Spots, aims carefully, takes a shot, and your arrow flies true. Strikes at as it, hits with enough force to just drive it back half a step as it then slips on the mud, collapsing into the river. Which then you hear a cracking sound, and this flood of water just cascades down, sweeping it past, as the vines and mud and energy that was being it, you know holding this flow of water back is swept away.
 
 %% u2101:0-17, u2102:0-29, u2103:0-24, u2104:0-52 %%
-Delwath: As it falls dead, you see like a thin stream of, of like pale gray-white come from the shadow thing and [garbled] Delwath.
+Delwath: As it falls dead, you see like a thin stream of, of like pale gray-white come from the shadow thing and fly back to Delwath.
 
 %% u2105:0-15 %%
 Seeker: Come from where?

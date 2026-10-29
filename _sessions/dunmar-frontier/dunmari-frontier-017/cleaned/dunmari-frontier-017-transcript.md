@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 17
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-017-source-cleaned.md
 
 ## Transcript
@@ -104,8 +104,8 @@ Kenzo: Well, some—I have a feeling we're going to be heading north at some poi
 %% u0115:0-21, u0116:0-74, u0117:0-25, u0118:0-17, u0119:0-32, u0120:0-28 %%
 Delwath: Sometimes I think the memory of home would be tarnished if I found what it is now. I fear it's a different place or gone. I'd almost rather live in exile than discover that there's no home to return to.
 
-%% u0121:0-30, u0122:0-6, u0123:0-56, u0124:0-102, u0125:0-79 %%
-Kenzo: I feel similarly about Chardon. It was not a good place for a kid like me in a place like that. A lot of magic, but not for everyone, only for folks like this, is it opens for open scroll and I think... I have a feeling we're going to end up there at some point before for long, but...
+%% u0121:0-30, u0122:0-6, u0123:0-56, u0124:0-99, u0125:0-79 %%
+Kenzo: I feel similarly about Chardon. It was not a good place for a kid like me in a place like that. A lot of magic, but not for everyone, only for folks like the Society of the Open Scroll and I think... I have a feeling we're going to end up there at some point before for long, but...
 
 %% u0126:0-113, u0127:0-51, u0128:0-40, u0129:0-67, u0130:0-11, u0131:0-128, u0132:0-11, u0133:0-132 %%
 Kenzo: If you were of the right lineage and from the right family, Chardon can be a very, very special place. But I think for young people like myself, my friends, you know, the idea of magic, I think, was much more, you know, dealing with the toxic waste from the chalyte refineries. Seeing what magic for the elites meant for us and the strange aftereffects from all the experiments that we would see in our neighborhood. So I feel like got a lot of mixed feelings about about Chardon and potentially journeying there. But something about it calls to me still, I think.
@@ -563,8 +563,8 @@ Unknown: Mm hmm.
 %% u0467:0-9, u0468:0-97, u0469:0-79 %%
 Delwath: There are—there are, of course. My last memory of this plane before the Shadow Realm was nowhere near here. I mean, the battle, Tim—I assume the battle I was fighting in would have been...
 
-%% u0470:0-46 %%
-DM: Another city or homeland too far to the north.
+%% u0470:0-48 %%
+DM: Another city in your homeland, far to the north.
 
 %% u0471:0-210 %%
 Delwath: Like way up, way up here somewhere, like way up in the north, you know, in one of those poor desolate places that were surrounded by the army of half a million hobgoblins she must summon from a pocket dimension.
@@ -2813,8 +2813,8 @@ DM: Just moving slowly, but moving.
 %% u2108:0-32 %%
 Wellby: Which direction were they moving?
 
-%% u2109:0-38, u2110:0-122, u2111:0-3, u2112:0-129, u2113:0-45 %%
-DM: Like southwest into the desert itself. Not having supplies or time or water to venture deep into the wastelands of the Garamjala, we skirted the northern boundary and came about as far west as as bad as it, so right to a bit here before we started cutting back east, heading for the sort of central—central plane here before turning west again.
+%% u2109:0-38, u2110:0-122, u2111:0-3, u2112:0-125, u2113:0-45 %%
+DM: Like southwest into the desert itself. Not having supplies or time or water to venture deep into the wastelands of the Garamjala, we skirted the northern boundary and came about as far west as Bas Udda, so right to a bit here before we started cutting back east, heading for the sort of central—central plane here before turning west again.
 
 %% u2114:0-112, u2115:0-8, u2116:0-50, u2117:0-21, u2118:0-86, u2119:0-49, u2120:0-121, u2121:0-27, u2122:0-15, u2123:0-96 %%
 DM: One odd things, scouting around the north side of the Garamjala, it seemed like we were not perhaps the only ones watching. So, while we were tracking them, the gnolls I mean, I noticed there was a large raven that was not acting the way I would expect a bird to act. It seemed to be soaring high above the gnolls and following them. Seemed out of place, like it was keeping watch or something. It’s stuck with them for two, three hours before falling back, and then a few hours later came out of the northeast again, caught up with the previous position, and then headed south west into the desert.

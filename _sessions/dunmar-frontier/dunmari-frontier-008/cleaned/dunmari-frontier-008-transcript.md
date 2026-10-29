@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 8
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-008-source-cleaned.md
 
 ## Transcript
@@ -4865,8 +4865,8 @@ DM: Okay, it is going to look around.
 %% u2766:0-25 %%
 Seeker: It also has disadvantage.
 
-%% u2767:0-43, u2768:0-33 %%
-Delwath: You know what? I'm going to draw your own to just in case it comes towards me.
+%% u2767:0-42, u2768:0-33 %%
+Delwath: You know what? I'm going to drop prone, too, just in case it comes towards me.
 
 %% u2769:0-82 %%
 DM: It has disadvantage? No, it succeeded on its Constitution save, so it does not have...
