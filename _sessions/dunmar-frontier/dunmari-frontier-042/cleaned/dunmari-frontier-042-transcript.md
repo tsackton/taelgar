@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 42
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-042-source-cleaned.md
 
 ## Transcript
@@ -176,8 +176,8 @@ Seeker: Have we done so already, we must have known.
 %% u0084:0-17 %%
 Delwath: That you've just—
 
-%% u0085:0-64 %%
-DM: You just kept {{the data file}} I haven't actually looked at it.
+%% u0085:0-58 %%
+DM: You just cast Identify; you haven’t actually looked at it.
 
 %% u0086:0-109 %%
 Seeker: In general, in terms of the way scrolls work does unrolling it brings with it a risk of accidentally casting?
@@ -515,8 +515,8 @@ Kenzo: Was another character Delwath?
 %% u0300:0-44, u0301:0-17 %%
 Seeker: Ship there was there were shadows and armor it's pretty self—
 
-%% u0302:0-31, u0303:0-89 %%
-Delwath: [garbled]. Darkness has evolved that's, just like the most obvious trope in the world it's not true.
+%% u0302:0-31, u0303:0-85 %%
+Delwath: [garbled]. Darkness is evil that's, just like the most obvious trope in the world it's not true.
 
 %% u0304:0-5, u0305:0-23, u0306:0-8 %%
 Seeker: Nice. That's exactly what it is yeah.
@@ -1958,8 +1958,8 @@ DM: As you leave Tokra this first week of the monsoon rainy season you feel acro
 %% u1219:0-185, u1220:0-122, u1221:0-118 %%
 DM: And as you begin to turn west from the first day of your journey, you know, that, in the south and west, on the other side of the rocky mountains it's been raining for weeks already and. The rivers are in flood the Nayan and Shrev overflowing their banks and nourishing the fields and farms of Western Dunmar. The grass and trees, of the dry savannas are springing to life as animals wild and domestic feast on the fresh shoots—
 
-%% u1222:0-94, u1223:0-164, u1224:0-120 %%
-DM: In Darba nearly due west of Tokra the rains arrived, maybe two weeks ago, a week before Tokra. Well, here, the influence of the Nevos Sea modulates the dry season and the small rivers that cascade from the foothills of the {{you want the intercom}} mountains. That flow to the coast run year round. Still the people of the Darba coast celebrate the Day of Renewal like all Dunmari.
+%% u1222:0-94, u1223:0-158, u1224:0-120 %%
+DM: In Darba nearly due west of Tokra the rains arrived, maybe two weeks ago, a week before Tokra. Well, here, the influence of the Nevos Sea modulates the dry season and the small rivers that cascade from the foothills of the Yuvanti and Chataan mountains. That flow to the coast run year round. Still the people of the Darba coast celebrate the Day of Renewal like all Dunmari.
 
 %% u1225:0-52, u1226:0-83, u1227:0-14, u1228:0-140, u1229:0-96 %%
 DM: Over the past week since rains have gotten to Tokra the rains of the monsoon have moved slowly north across the plains and central our little corner first, falling in the foothills of the Yuvanti and the Copper Hills west of Tokra feeding the rivers and dry washes that flow into the Hara then spreading across the plains between Tokra and Sungar bringing life to the brown grasslands—
@@ -3251,8 +3251,8 @@ DM: Well we're on our way back to Chardon, I assume, she must be there already�
 %% u2053:0-28 %%
 Delwath: Yeah two months or more now.
 
-%% u2054:0-19, u2055:0-23 %%
-Wellby: And she was headed directly with less are—
+%% u2054:0-19, u2055:0-18 %%
+Wellby: And she was headed directly west, or—
 
 %% u2056:0-19, u2057:0-36 %%
 DM: We traveled enough wait you yeah you try—you knew Vola?
@@ -3971,8 +3971,8 @@ Delwath: I don't think she did, actually.
 %% u2480:0-21, u2481:0-40, u2482:0-29 %%
 DM: He didn't have to be magical like she has a natural you know, it's like a firewall between—
 
-%% u2483:0-146 %%
-Delwath: The tower defeated us right like we did end up saving {{for Oscar}} he kind of I mean, it was a stalemate, but we fled in terror, at the end right—
+%% u2483:0-140 %%
+Delwath: The tower defeated us right like we did end up saving Hralgar he kind of I mean, it was a stalemate, but we fled in terror, at the end right—
 
 %% u2484:0-21 %%
 Riswynn: Well, yes, there was—
