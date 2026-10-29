@@ -10,7 +10,7 @@
 [u0010 | 00:00:56.290-00:00:59.280 | Unknown] very clever deception from
 [u0011 | 00:00:59.620-00:01:05.510 | DM] Gaudin convincing the pirate that you, in fact, were his lost love.
 [u0012 | 00:01:05.640-00:01:18.770 | DM] What was her name? Petrona? He revealed that Grimstone comes up and down this trap door once a week when he goes to petrify his victims.
-[u0013 | 00:01:19.420-00:01:32.150 | DM] and had been attending or encouraging, telling this ghost that he would bring news of. Yes. woman he lost
+[u0013 | 00:01:19.420-00:01:32.150 | DM] and had been pretending or encouraging, telling this ghost that he would bring news of. this woman he lost
 [u0014 | 00:01:32.850-00:01:45.329 | DM] never did until you pretended to be her, and he turned angrily against. yeah, that was awesome. Yes, that was a very clever bit of
 [u0015 | 00:01:45.560-00:01:48.559 | DM] role playing there.
 [u0016 | 00:01:49.590-00:01:53.399 | DM] So you're now staring down into this dark
@@ -44,48 +44,48 @@
 [u0044 | 00:04:22.250-00:04:27.430 | DM] Look around, spend spend a few minutes searching before you proceed.
 [u0045 | 00:04:27.480-00:04:36.950 | Unknown] go ahead and make pick 2 of you to make either a perception or investigation. Check the lead searchers.
 [u0046 | 00:04:38.810-00:04:41.080 | Unknown] I'm pretty perceptive, but I'm not super.
-[u0047 | 00:04:42.130-00:04:44.409 | Acescale] I forgot investigation.
+[u0047 | 00:04:42.130-00:04:44.409 | Acescale] I've got investigation.
 [u0048 | 00:04:45.330-00:04:46.040 | Unknown] Okay.
 [u0049 | 00:04:52.230-00:04:56.140 | Unknown] 13 for perception. or, again, for investigation.
 [u0050 | 00:04:56.790-00:05:02.860 | DM] Just get those out of the way. Now.
 [u0051 | 00:05:03.100-00:05:16.450 | DM] There's there's no signs of exits from this room besides the hole that's been smashed in the wall. One thing that does seem clear is this, I mean this
-[u0052 | 00:05:17.530-00:05:27.629 | DM] manner, this construction. The nicely laid masonry, was like the same style of construction as the rest of the manor that you've seen. This was probably like a
+[u0052 | 00:05:17.530-00:05:27.629 | DM] manor, this construction. The nicely laid masonry, was like the same style of construction as the rest of the manor that you've seen. This was probably like a
 [u0053 | 00:05:28.320-00:05:34.850 | DM] a much older vault constructed by the original occupants of the manor and the
 [u0054 | 00:05:34.970-00:05:43.799 | Unknown] wall that's been smashed open on the north side is newer, not super new. but certainly newer.
 [u0055 | 00:05:43.990-00:05:49.259 | DM] There's evidence that this has been. This vault has been looted like you can see that there's
 [u0056 | 00:05:49.400-00:05:54.030 | DM] a corner of the room where there's like a faded
 [u0057 | 00:05:54.110-00:06:01.410 | DM] square marking, where, like a wooden chest sat for a super long time, but it's been removed
 [u0058 | 00:06:01.740-00:06:03.589 | Unknown] quite some time ago.
-[u0059 | 00:06:08.340-00:06:10.739 | Unknown] otherwise nothing which to find here.
+[u0059 | 00:06:08.340-00:06:10.739 | Unknown] otherwise nothing much to find here.
 [u0060 | 00:06:13.540-00:06:17.059 | Gaudin] There's still some light shining down from the room above.
 [u0061 | 00:06:21.360-00:06:23.049 | Unknown] Are you ready to move forward?
 [u0062 | 00:06:23.370-00:06:24.480 | Loria] Think so?
-[u0063 | 00:06:26.740-00:06:29.229 | DM] So? Who's who's taking her to lead?
+[u0063 | 00:06:26.740-00:06:29.229 | DM] So? Who's who's taking the lead?
 [u0064 | 00:06:29.490-00:06:31.870 | Gaudin] Slowly and quietly. Maybe
 [u0065 | 00:06:32.830-00:06:38.239 | DM] this is this is a narrow corridor. It's like a 5 foot wide
 [u0066 | 00:06:38.290-00:06:50.070 | Unknown] corridor. So what order are you? And are you walking in? Does the dog have like? I can't imagine mechanical dog smells all that. Well.
-[u0067 | 00:06:58.890-00:07:19.980 | Dilion] Oh, cause you know how sometimes like a pit has like advantage on like I honest, I don't see it on the step blocks. I I'm I'm just trying to suggest that we want. It's not bad. No, for sure. Why, we can. We can let take a sort of lead cause
+[u0067 | 00:06:58.890-00:07:19.980 | Dilion] Oh, cause you know how sometimes like a pet has like advantage on like I honest, I don't see it on the stat blocks. I I'm I'm just trying to suggest that we want. It's not bad. No, for sure. Why, we can. We can let take a sort of lead cause
 [u0068 | 00:07:20.000-00:07:26.670 | Dilion] Sad to say, that the mechanical dog is somewhat expendable compared to the rest of us.
 [u0069 | 00:07:27.610-00:07:31.059 | Dilion] We sorry, sir? Alright! It's not darkfish, and
-[u0070 | 00:07:31.480-00:07:47.190 | Dilion] yes, and I don't have dark vision. So I imagine we're also going to probably light some sort of watch if the darkness is strong enough, because, you see, there's some light coming through in this original. Yeah. So as soon as you enter this corridor that leads north.
+[u0070 | 00:07:31.480-00:07:47.190 | Dilion] yes, and I don't have dark vision. So I imagine we're also going to probably light some sort of torch if the darkness is strong enough, because, you see, there's some light coming through in this original. Yeah. So as soon as you enter this corridor that leads north.
 [u0071 | 00:07:47.250-00:07:49.510 | DM] this like 5 foot circular
-[u0072 | 00:07:49.790-00:07:51.520 | Unknown] that's been dead out of the earth.
+[u0072 | 00:07:49.790-00:07:51.520 | Unknown] that's been dug out of the earth.
 [u0073 | 00:07:51.940-00:07:56.829 | DM] It's pitch blackness, there's no light. The light from the trap door doesn't
 [u0074 | 00:07:57.080-00:08:02.439 | Gaudin] just illuminates the room that you're in. Ca, I have dark vision if that helps any.
-[u0075 | 00:08:02.750-00:08:03.940 | Loria] and you too.
+[u0075 | 00:08:02.750-00:08:03.940 | Loria] I do too.
 [u0076 | 00:08:05.530-00:08:07.850 | Acescale] So dog, first
 [u0077 | 00:08:08.180-00:08:12.019 | Gaudin] dog can definitely go first.
-[u0078 | 00:08:12.040-00:08:13.770 | Acescale] Is the pop.
-[u0079 | 00:08:13.860-00:08:17.970 | Acescale] Yes, the steampup fully healed at this point, or would you like
+[u0078 | 00:08:12.040-00:08:13.770 | Acescale] Is the pup.
+[u0079 | 00:08:13.860-00:08:17.970 | Acescale] Is the steampup fully healed at this point, or would you like
 [u0080 | 00:08:18.450-00:08:23.669 | Dilion] oh, I mean, if you gave him a minute? He is 17 out of 20 health, so I mean.
 [u0081 | 00:08:23.930-00:08:36.640 | Dilion] I thought Mending. Don't bother rolling that just oh, yeah, I think it's automatic. Let's just do it. Yeah, okay, quick. A quick mending spell would give the steampup back to full health.
-[u0082 | 00:08:39.039-00:08:48.889 | Dilion] yeah, like, did we want to torture? Is that dual work? And that's gonna be too alarming or alerting to anything that might be lurking in this dark.
-[u0083 | 00:08:51.390-00:08:57.229 | Dilion] because otherwise Sarah myself's characters are gonna be effectively blind. But I mean
+[u0082 | 00:08:39.039-00:08:48.889 | Dilion] yeah, like, did we want a torch here? Is that gonna work? And that's gonna be too alarming or alerting to anything that might be lurking in this dark.
+[u0083 | 00:08:51.390-00:08:57.229 | Dilion] because otherwise Sara and myself's characters are gonna be effectively blind. But I mean
 [u0084 | 00:09:03.210-00:09:05.470 | Loria] and well, we could always split the party.
 [u0085 | 00:09:05.890-00:09:13.279 | Dilion] Oh, stop it.
 [u0086 | 00:09:13.530-00:09:18.410 | Loria] Y'all stand here in the dark. We'll be right back.
-[u0087 | 00:09:19.630-00:09:21.609 | DM] So dogfirst. Then
-[u0088 | 00:09:22.060-00:09:23.189 | DM] who's after Stephen?
+[u0087 | 00:09:19.630-00:09:21.609 | DM] So dog first. Then
+[u0088 | 00:09:22.060-00:09:23.189 | DM] who's after steampup?
 [u0089 | 00:09:25.270-00:09:34.000 | Acescale] We could do dark vision, no dark vision, dark vision, no dark vision, dark vision, and then we can just kind of guide the folks that can't see.
 [u0090 | 00:09:35.310-00:09:40.950 | Gaudin] I'm a little low on health. I'm at 16, so I'll step towards the back.
 [u0091 | 00:09:41.050-00:09:44.530 | Loria] Yeah, okay, I can go behind steampup.
@@ -97,10 +97,10 @@
 [u0097 | 00:10:17.190-00:10:20.640 | DM] moving along as as quietly as it as it can.
 [u0098 | 00:10:21.610-00:10:23.930 | Acescale] keeping an eye out 50%.
 [u0099 | 00:10:24.410-00:10:26.300 | DM] And and as you move
-[u0100 | 00:10:28.240-00:10:35.709 | DM] 1020, 30, 40 feet, suddenly the dog stops short.
+[u0100 | 00:10:28.240-00:10:35.709 | DM] 10, 20, 30, 40 feet, suddenly the dog stops short.
 [u0101 | 00:10:37.160-00:10:38.360 | DM] turns back
 [u0102 | 00:10:39.010-00:10:41.170 | DM] and kind of
-[u0103 | 00:10:41.420-00:10:51.679 | DM] m motions, and so use Acescale. Who's in front? Who's can see over the tiny little hop like you notice that there's a giant hole
+[u0103 | 00:10:41.420-00:10:51.679 | DM] motions, and so you, Acescale, Who's in front? Who's can see over the tiny little pup like you notice that there's a giant hole
 [u0104 | 00:10:52.310-00:10:54.039 | DM] in the middle of the floor
 [u0105 | 00:10:55.120-00:10:56.409 | DM] of the tunnel.
 [u0106 | 00:10:58.410-00:11:05.909 | Acescale] I will relay that back. Is it the entire floor entire floor? How long is the
@@ -109,7 +109,7 @@
 [u0109 | 00:11:15.540-00:11:22.189 | DM] 10 feet horizontally. and then the corridor turns to the right after the hole.
 [u0110 | 00:11:22.860-00:11:25.160 | Gaudin] and how deep's the hole? Can we see the bottom?
 [u0111 | 00:11:25.910-00:11:35.779 | DM] Acescale? You can see the bottom there. It's about 30 feet to the bottom. It looks like a cavern of some kind that you're looking down into
-[u0112 | 00:11:37.470-00:11:41.680 | Dilion] like natural. Look, Doug, like a natural cavern. Yeah.
+[u0112 | 00:11:37.470-00:11:41.680 | Dilion] like natural, not dug, like a natural cavern. Yeah.
 [u0113 | 00:11:41.940-00:11:42.720 | Gaudin] Hmm.
 [u0114 | 00:11:43.040-00:11:46.599 | Dilion] Oh, now, that's
 [u0115 | 00:11:46.740-00:11:47.580 | Unknown] hmm.
@@ -124,7 +124,7 @@
 [u0124 | 00:12:41.050-00:12:44.710 | Loria] So can you see anything at the bottom of the cavern?
 [u0125 | 00:12:46.150-00:12:51.720 | Loria] I'll get there like yeah. was like, so
 [u0126 | 00:12:52.040-00:12:55.290 | DM] you can. I guess you can squeeze. The. The
-[u0127 | 00:12:55.550-00:12:57.220 | Unknown] funnel is pretty tight.
+[u0127 | 00:12:55.550-00:12:57.220 | Unknown] tunnel is pretty tight.
 [u0128 | 00:12:57.350-00:13:04.550 | DM] but Loria is pretty small, so I think you can probably squeeze past her and look down over the edge.
 [u0129 | 00:13:04.690-00:13:06.599 | Unknown] Make a perception check
 [u0130 | 00:13:13.880-00:13:20.679 | DM] and that is gonna have a because it's dim light that's oops. That was a performance check
@@ -132,7 +132,7 @@
 [u0132 | 00:13:24.880-00:13:26.390 | DM] Sorry they're both minus one.
 [u0133 | 00:13:26.630-00:13:29.849 | DM] Okay? And because of dim light.
 [u0134 | 00:13:29.870-00:13:32.959 | Unknown] you have minus 5 to perception checks.
-[u0135 | 00:13:33.520-00:13:38.369 | DM] I mean, it's dark, so it counts as dim light for dark version. So minus 5. So
+[u0135 | 00:13:33.520-00:13:38.369 | DM] I mean, it's dark, so it counts as dim light for darkvision. So minus 5. So
 [u0136 | 00:13:38.560-00:13:39.639 | Unknown] I mean.
 [u0137 | 00:13:40.670-00:13:47.390 | DM] there's a there's a cavern floor. Can't really get a good
 [u0138 | 00:13:48.750-00:13:54.310 | DM] line on how big the cavern is, but it seems like you know.
@@ -147,14 +147,14 @@
 [u0147 | 00:14:39.390-00:14:42.959 | Unknown] I can send Mage hand down, holding the torch.
 [u0148 | 00:14:43.420-00:14:50.249 | Gaudin] Get a little better view. So if anything's down there it will, it will. Yeah.
 [u0149 | 00:14:53.540-00:14:56.819 | Acescale] I don't mind using my flight here.
-[u0150 | 00:14:56.870-00:15:04.940 | Acescale] but maybe with a rope tied around my waist so that you can call me back if I'm swarmed by spiders, or something
+[u0150 | 00:14:56.870-00:15:04.940 | Acescale] but maybe with a rope tied around my waist so that you can haul me back if I'm swarmed by spiders, or something
 [u0151 | 00:15:05.140-00:15:06.670 | Unknown] sounds practical
 [u0152 | 00:15:08.410-00:15:10.440 | Loria] that works for me
 [u0153 | 00:15:10.630-00:15:19.090 | Gaudin] alright. How long does your flight last 10 min. Oh, so you can like circle the cavern and then fly back up. And
 [u0154 | 00:15:19.310-00:15:27.939 | Acescale] yeah, I think II take the corner first to just to see if what's there, and then go down into the cavern. If there isn't something immediately important.
 [u0155 | 00:15:29.070-00:15:30.000 | Unknown] Okay.
 [u0156 | 00:15:30.410-00:15:36.389 | Acescale] I swig my potion and I'm flying 10 feet around. Okay.
-[u0157 | 00:15:36.570-00:15:47.370 | DM] so you wanna fly across the poll first and see where the quarter goes. Yeah, I'll fly across the little gap. Okay, you fly across the gap
+[u0157 | 00:15:36.570-00:15:47.370 | DM] so you wanna fly across the hole first and see where the corridor goes. Yeah, I'll fly across the little gap. Okay, you fly across the gap
 [u0158 | 00:15:47.450-00:16:05.319 | DM] and follow the corridor, and after this, as you peek around the sharp turn. There's just about 10 feet beyond the sharp turn. There's a just the corridor ends. There's like a pile of rubble. It's like, never been excavated, or this is where they were tossing the dirt
 [u0159 | 00:16:05.680-00:16:09.649 | Gaudin] as they were excavating. It just stops.
 [u0160 | 00:16:10.000-00:16:11.530 | Unknown] Okay?
@@ -185,8 +185,8 @@
 [u0185 | 00:18:28.180-00:18:33.819 | DM] 7 kind of shadowy creatures.
 [u0186 | 00:18:35.240-00:18:41.059 | DM] shades of some kind kind of pacing back and forth
 [u0187 | 00:18:41.530-00:18:42.580 | DM] great
-[u0188 | 00:18:42.630-00:18:50.529 | DM] hint of like, you know, Stellar's coats with high necks and like little pirate taps on their heads.
-[u0189 | 00:18:51.780-00:19:04.830 | DM] They are they are ghosties, they are ghosty. I mean, they're not ghosts like the guy upstairs was like battery shades. But they're incorporated. Yes, they seem not to have noticed.
+[u0188 | 00:18:42.630-00:18:50.529 | DM] hint of like, you know, sailors' coats with high necks and like little pirate caps on their heads.
+[u0189 | 00:18:51.780-00:19:04.830 | DM] They are they are ghosties, they are ghosty. I mean, they're not ghosts like the guy upstairs was like battery shades. But they're incorporeal. Yes, they seem not to have noticed.
 [u0190 | 00:19:05.690-00:19:08.299 | Unknown] Yeah, I will drift back up
 [u0191 | 00:19:08.440-00:19:10.020 | DM] and
 [u0192 | 00:19:10.030-00:19:13.939 | Acescale] let everyone know that we you said, like Sep, several or 7,
@@ -196,9 +196,9 @@
 [u0196 | 00:19:43.310-00:19:45.080 | Gaudin] However, we want to do this.
 [u0197 | 00:19:45.630-00:19:52.259 | Acescale] do they? Do. I know enough that it wouldn't make sense to try and talk to a shade? Or is there like a
 [u0198 | 00:19:53.670-00:19:55.420 | DM] potential
-[u0199 | 00:19:56.440-00:20:00.980 | Unknown] Anybody who has Arkana or religion can roll a check?
-[u0200 | 00:20:01.640-00:20:05.720 | Dilion] Anybody has proficiency in our economy or religion.
-[u0201 | 00:20:06.160-00:20:10.690 | Acescale] Think, though 2 artifices, I think I think both of us have it.
+[u0199 | 00:19:56.440-00:20:00.980 | Unknown] Anybody who has Arcana or religion can roll a check?
+[u0200 | 00:20:01.640-00:20:05.720 | Dilion] Anybody has proficiency in Arcana or religion.
+[u0201 | 00:20:06.160-00:20:10.690 | Acescale] Think, though 2 artificers, I think I think both of us have it.
 [u0202 | 00:20:10.810-00:20:11.480 | Unknown] Bye.
 [u0203 | 00:20:12.320-00:20:14.039 | Dilion] I am proficient.
 [u0204 | 00:20:15.020-00:20:17.189 | DM] Okay, make an arcana check
@@ -216,7 +216,7 @@
 [u0216 | 00:21:09.130-00:21:17.069 | Acescale] It'll be probably challenging for us to get down the rope ladder and 50 feet across the room without them knowing.
 [u0217 | 00:21:18.410-00:21:19.190 | Loria] Hmm!
 [u0218 | 00:21:19.900-00:21:21.939 | Dilion] I mean, lure them towards us.
-[u0219 | 00:21:22.070-00:21:33.409 | Acescale] I could have to splash the weak looking ones from on high in the sky, and then and then fly back or get pulled violently by you all, if you like.
+[u0219 | 00:21:22.070-00:21:33.409 | Acescale] I could Acid Splash the weak looking ones from on high in the sky, and then and then fly back or get pulled violently by you all, if you like.
 [u0220 | 00:21:37.290-00:21:47.930 | Acescale] but then we're then we're fighting them in a 5 foot wide hallway with a 30 foot drop beside us. I don't know if it's any better for you. That's true. It's true
 [u0221 | 00:21:52.790-00:22:01.980 | Dilion] cause that's the this is the only direction we've got. Sorry just to just to reiterate for the other directions. Yes, one was 2020 feet 50 feet shades at the end.
 [u0222 | 00:22:02.350-00:22:03.070 | Dilion] Yeah.
@@ -233,36 +233,36 @@
 [u0233 | 00:23:14.320-00:23:17.010 | Acescale] Then we'd have the light at the bottom.
 [u0234 | 00:23:17.330-00:23:20.610 | Acescale] Maybe a couple of them hit, and
 [u0235 | 00:23:21.430-00:23:24.310 | Acescale] and then they'd be lured one way or the other, maybe.
-[u0236 | 00:23:24.570-00:23:27.280 | Loria] Yeah. But Portuguese, right?
+[u0236 | 00:23:24.570-00:23:27.280 | Loria] Yeah. But torches, right?
 [u0237 | 00:23:27.580-00:23:31.370 | Loria] Oh, but like this one's bright light cause, I know, like
-[u0238 | 00:23:31.450-00:23:40.059 | Dilion] not many gaming, but it's like things that are sensitive to to sunlight as a consensus equivalent of bright light. So
+[u0238 | 00:23:31.450-00:23:40.059 | Dilion] not metagaming, but it's like things that are sensitive to to sunlight as a consensus equivalent of bright light. So
 [u0239 | 00:23:40.290-00:23:42.510 | Dilion] I just had that idea like
-[u0240 | 00:23:43.350-00:23:54.549 | Dilion] So II don't know. Just give us the opportunity to see. And then if they're gonna float up to us. I don't know. It's kind of at least it's a whole way where we can deal with them one on one kind of thing. But
+[u0240 | 00:23:43.350-00:23:54.549 | Dilion] So II don't know. Just give us the opportunity to see. And then if they're gonna float up to us. I don't know. It's kind of at least it's a hallway where we can deal with them one on one kind of thing. But
 [u0241 | 00:23:57.360-00:23:59.909 | Loria] I have fairy fire, but
 [u0242 | 00:24:00.030-00:24:05.640 | Loria] outline everyone in light
 [u0243 | 00:24:10.990-00:24:14.369 | Acescale] that would be good. Is that your last slot?
 [u0244 | 00:24:15.090-00:24:16.950 | Loria] Yeah.
 [u0245 | 00:24:17.520-00:24:18.250 | Acescale] yeah.
-[u0246 | 00:24:18.700-00:24:22.990 | Acescale] is really touch for boss battles.
+[u0246 | 00:24:18.700-00:24:22.990 | Acescale] is really clutch for boss battles.
 [u0247 | 00:24:23.200-00:24:26.070 | Loria] So we should. Yeah.
 [u0248 | 00:24:26.110-00:24:29.999 | Acescale] oh, is like a full spell slot for you, too.
 [u0249 | 00:24:30.030-00:24:47.240 | Dilion] I think, putting a light down and see how they react to it, because maybe they're like, Oh, let's talk or like, that that's painful. And then we can keep you.
 [u0250 | 00:24:48.420-00:24:49.320 | Acescale] Sure.
 [u0251 | 00:24:49.530-00:24:51.019 | Loria] Yeah, I'm gonna go to that plan.
-[u0252 | 00:24:51.200-00:24:57.609 | Dilion] Do we have just a small May, I can scrub like a rock or something? Yeah, there's plenty of pebbles. Yeah. Yeah.
+[u0252 | 00:24:51.200-00:24:57.609 | Dilion] Do we have just a small—maybe I can just grab like a rock or something? Yeah, there's plenty of pebbles. Yeah. Yeah.
 [u0253 | 00:24:58.290-00:25:05.399 | Dilion] sorry light. So I like, yeah, I can. I could give
-[u0254 | 00:25:07.000-00:25:10.970 | Dilion] Elizabeth Elizabeth folk a
+[u0254 | 00:25:07.000-00:25:10.970 | Dilion] a lizard—a lizardfolk a
 [u0255 | 00:25:12.430-00:25:26.250 | Acescale] bright, a bright rock for the time being, or
-[u0256 | 00:25:27.300-00:25:29.920 | Acescale] Paypal down there, too.
+[u0256 | 00:25:27.300-00:25:29.920 | Acescale] pebble down there, too.
 [u0257 | 00:25:30.820-00:25:43.679 | Dilion] If you if you decide to throw Nate on? We will. We will back you up. I how do we get down there? I think it's the other thing, cause you're able to fly.
-[u0258 | 00:25:43.760-00:25:46.240 | Acescale] There's a rope letter. Yeah.
+[u0258 | 00:25:43.760-00:25:46.240 | Acescale] There's a rope ladder. Yeah.
 [u0259 | 00:25:46.380-00:25:50.629 | Dilion] Okay? And so the rope ladder descends. Is it 50 feet down.
 [u0260 | 00:25:51.120-00:25:54.410 | Dilion] 30 feet down, 30 feet? 30 feet. Okay
 [u0261 | 00:25:54.680-00:25:57.749 | Dilion] in terms of movement, speed and stuff.
 [u0262 | 00:25:58.260-00:26:05.150 | Dilion] so half speed while climbing down a ladder. So if you dash, you could get to the bottom in one turn
 [u0263 | 00:26:05.270-00:26:05.950 | Dilion] hack.
 [u0264 | 00:26:06.680-00:26:16.050 | Dilion] Do we think we could get down there without this these and ghostly dudes seeing us like
-[u0265 | 00:26:16.440-00:26:21.489 | Acescale] I turn to to Gabon, and I say
+[u0265 | 00:26:16.440-00:26:21.489 | Acescale] I turn to to Gaudin, and I say
 [u0266 | 00:26:21.740-00:26:24.170 | Acescale] you can cast invisibility right?
 [u0267 | 00:26:24.350-00:26:25.530 | Gaudin] Yes.
 [u0268 | 00:26:25.880-00:26:26.750 | Acescale] Could
@@ -277,44 +277,44 @@
 [u0277 | 00:27:19.440-00:27:23.850 | DM] They're at the far end, the the here let me draw it. It's like
 [u0278 | 00:27:27.400-00:27:31.760 | DM] 1, 2,
 [u0279 | 00:27:42.000-00:27:44.420 | DM] this at the top. Here is the
-[u0280 | 00:27:45.220-00:27:46.900 | DM] exet. The
+[u0280 | 00:27:45.220-00:27:46.900 | DM] exit. The
 [u0281 | 00:27:48.010-00:27:50.550 | DM] 10 foot hole is like, right about there.
 [u0282 | 00:27:52.160-00:27:53.000 | Acescale] Okay.
 [u0283 | 00:27:54.220-00:27:58.960 | Acescale] the shades are all at the exit here. Let me
 [u0284 | 00:28:00.160-00:28:01.369 | DM] put them out.
 [u0285 | 00:28:05.730-00:28:09.049 | Dilion] Could spend time making lots of
 [u0286 | 00:28:09.220-00:28:20.529 | Dilion] pebbles, because each pebble lasts an hour like The light cantrip lasts an hour on an object so I could get like a bunch of objects, and then we can just go like da
-[u0287 | 00:28:20.990-00:28:28.320 | Dilion] pocket pibbles and just like, scare me. Yeah. Scattered them around quite violently. I don't know.
+[u0287 | 00:28:20.990-00:28:28.320 | Dilion] pocket pebbles and just like, scatter them. Yeah. Scatter them around quite violently. I don't know.
 [u0288 | 00:28:28.440-00:28:35.779 | Acescale] Yeah, if there's nothing to. If there's sort of nowhere for me to get behind them to pull them that way than having, you know.
 [u0289 | 00:28:36.340-00:28:43.269 | Acescale] 20 of them in a in a little bag that I whip out so that they have have something to look out on that.
 [u0290 | 00:28:43.440-00:28:45.820 | Acescale] But I've only got another. Maybe I don't know.
 [u0291 | 00:28:46.270-00:29:00.580 | Dilion] 7 min of flying. 5 min of flying, I think. Alright.
-[u0292 | 00:29:00.590-00:29:04.079 | Dilion] if we say we do 1010 trips a minute.
+[u0292 | 00:29:00.590-00:29:04.079 | Dilion] if we say we do 10 cantrips a minute.
 [u0293 | 00:29:05.620-00:29:17.930 | Dilion] Yeah. So let's say, 2 min have light doesn't work that way because it ends. If you cast it again. it does. If you touch you, you only have one light at a time.
 [u0294 | 00:29:18.570-00:29:25.559 | Dilion] One shiny bit. Don't be good. We can both do magical tinkering to make 3 pebbles that are
-[u0295 | 00:29:25.730-00:29:27.419 | Acescale] admitting that's true.
+[u0295 | 00:29:25.730-00:29:27.419 | Acescale] emitting that's true.
 [u0296 | 00:29:28.070-00:29:44.150 | DM] 6 pebbles. You can have that one bright and 6. Yeah. Sorry. What was the magical tinkering under your actions? You should have magical tinkering as an option magical object with a magical property.
-[u0297 | 00:29:47.110-00:29:59.090 | Dilion] Yeah, we have the tools you can touch a tiny, non-edual object doesn't actually give. She is bright, light and 5 foot. So it's like a light tantrum, but a lot, but like less intense.
+[u0297 | 00:29:47.110-00:29:59.090 | Dilion] Yeah, we have the tools you can touch a tiny, nonmagical object doesn't actually give. sheds bright light in 5 foot. So it's like a light cantrip, but a lot, but like less intense.
 [u0298 | 00:29:59.130-00:30:06.790 | Acescale] Yeah, we can also get a static visual effect. So maybe one's one's light. One's like
 [u0299 | 00:30:06.930-00:30:09.439 | Acescale] an explosion with no sound.
-[u0300 | 00:30:12.160-00:30:39.919 | Dilion] I think we do. Okay, let's have a let's let's just call it a bag of distractions differently. One pimple that's extra light, extra bright. I've made like a an explosion sound a scream and and something that just reeks of cabbage.
+[u0300 | 00:30:12.160-00:30:39.919 | Dilion] I think we do. Okay, let's have a let's let's just call it a bag of distractions differently. One pebble that's extra light, extra bright. I've made like a an explosion sound a scream and and something that just reeks of cabbage.
 [u0301 | 00:30:39.960-00:30:46.890 | Dilion] All mine are light based. I guess I'm all I'm doing the light ones
 [u0302 | 00:30:47.230-00:30:58.749 | Acescale] alright. So I'm invisible. I've got a bag of distractions. II unclip the the rope ladder and silently hand it to whoever is going to come down first.
 [u0303 | 00:30:58.890-00:31:12.180 | Dilion] I'll come down, because since I'm very upfront, right like I'm the upfront vices that makes sense for me to go down to to I guess someone can. Someone
 [u0304 | 00:31:12.540-00:31:15.379 | Dilion] I know I'm not gonna say we should throw the dog
 [u0305 | 00:31:15.680-00:31:16.670 | Gaudin] down.
-[u0306 | 00:31:16.830-00:31:31.140 | Dilion] But how do
-[u0307 | 00:31:32.080-00:32:01.540 | Dilion] he's dog? Wait.
-[u0308 | 00:32:01.670-00:32:11.289 | Dilion] ready done! Alright. Plan goes. Well, float down Acescale floats down, holding
-[u0309 | 00:32:12.060-00:32:13.290 | DM] steam. Pop.
+[u0306 | 00:31:16.830-00:31:31.140 | Dilion] But how much
+[u0307 | 00:31:32.080-00:32:01.540 | Dilion] does dog weigh?
+[u0308 | 00:32:01.670-00:32:11.289 | Dilion] Alrighty then! Alright. Plan goes. Well, float down Acescale floats down, holding
+[u0309 | 00:32:12.060-00:32:13.290 | DM] steampup.
 [u0310 | 00:32:13.650-00:32:14.700 | Gaudin] Yeah.
-[u0311 | 00:32:15.560-00:32:19.500 | DM] wow! Dylan hooks the
+[u0311 | 00:32:15.560-00:32:19.500 | DM] wow! Dilion hooks the
 [u0312 | 00:32:19.850-00:32:29.029 | DM] hooks, the ladder. You see now that there's like hooks you can attach it to to make it easier to. It's like coiled up, and you can uncoil it and hook it on the
 [u0313 | 00:32:29.460-00:32:31.909 | DM] edge so you can climb down.
 [u0314 | 00:32:34.990-00:32:40.000 | DM] the so you begin to climb down the ladder as Acescale floats down
 [u0315 | 00:32:40.200-00:32:56.530 | Dilion] and wait. When is the bag of distractions going off as soon as I've got the dog on the ground. I'm gonna take off and go as high and as far as I can, and then drop the distractions on the unsuspecting shades.
 [u0316 | 00:32:56.800-00:33:09.219 | DM] Cool catchphrase. I don't want them to know it came from me. I'm just gonna be silent up there and have them do their thing.
-[u0317 | 00:33:09.440-00:33:21.590 | DM] Dylan is not invisible, and you're just climbing down. Okay? So Dylan, make a Stealth check as you.
+[u0317 | 00:33:09.440-00:33:21.590 | DM] Dilion is not invisible, and you're just climbing down. Okay? So Dilion, make a Stealth check as you.
 [u0318 | 00:33:22.170-00:33:30.360 | Loria] Yeah, I knew you're gonna ask us is not gonna point it out
 [u0319 | 00:33:30.850-00:33:35.949 | Dilion] 12. That's not great, but it is.
 [u0320 | 00:33:38.500-00:33:39.530 | DM] and
@@ -329,9 +329,9 @@
 [u0329 | 00:34:21.340-00:34:23.499 | Unknown] Who goes there?
 [u0330 | 00:34:26.010-00:34:28.040 | Dilion] Cool? Huh?
 [u0331 | 00:34:30.550-00:34:38.939 | Dilion] bag of distractions? Yes.
-[u0332 | 00:34:40.820-00:34:44.509 | DM] Okay. Role initiative with advantage.
+[u0332 | 00:34:40.820-00:34:44.509 | DM] Okay. Roll initiative with advantage.
 [u0333 | 00:34:44.730-00:34:47.200 | Gaudin] So once the bag goes off.
-[u0334 | 00:34:47.360-00:34:52.370 | Gaudin] then me and Loria, I just simmer down.
+[u0334 | 00:34:47.360-00:34:52.370 | Gaudin] then me and Loria, I just shimmy down.
 [u0335 | 00:34:52.949-00:34:53.750 | Unknown] Yeah.
 [u0336 | 00:34:53.900-00:34:56.180 | DM] yeah. yeah. I mean.
 [u0337 | 00:34:56.250-00:35:01.599 | Gaudin] oh, you can snipe from up there. If that's easier.
@@ -339,14 +339,14 @@
 [u0339 | 00:35:05.560-00:35:14.310 | Dilion] No, you just have advantage on initiative, because they're quite distracted.
 [u0340 | 00:35:14.400-00:35:16.630 | Dilion] you know. 5,
 [u0341 | 00:35:16.920-00:35:18.330 | Gaudin] 13
-[u0342 | 00:35:21.370-00:35:27.400 | Loria] f. 5 for Dylan. 13. What did Loria roll?
-[u0343 | 00:35:28.690-00:35:50.209 | DM] Okay, so Dylan's the only one who Dylan was was also distracted by the bag of distractions, I mean, knew it was comic, but when it goes off it was. I wasn't sure how dramatic it was gonna be, but it was. It was screams and smells. And it was a lot.
+[u0342 | 00:35:21.370-00:35:27.400 | Loria] f. 5 for Dilion. 13. What did Loria roll?
+[u0343 | 00:35:28.690-00:35:50.209 | DM] Okay, so Dilion's the only one who Dilion was was also distracted by the bag of distractions, I mean, knew it was coming, but when it goes off it was. I wasn't sure how dramatic it was gonna be, but it was. It was screams and smells. And it was a lot.
 [u0344 | 00:35:50.230-00:35:54.430 | Gaudin] I mean, and the touch of light. So you all can see them.
 [u0345 | 00:35:54.520-00:36:00.000 | DM] Yeah, yeah, it's bright enough that you can see now, because you've got a bunch of light. You've got 4 lights on
-[u0346 | 00:36:00.050-00:36:08.779 | DM] scattered over now. So yes. But Acescale, Loria, and Gaudin, I'll get the jump from them.
+[u0346 | 00:36:00.050-00:36:08.779 | DM] scattered over now. So yes. But Acescale, Loria, and Gaudin, all get the jump on them.
 [u0347 | 00:36:09.620-00:36:12.580 | Unknown] So you, whenever you'd like to do the 3 of you
 [u0348 | 00:36:15.410-00:36:17.139 | Loria] who's first
-[u0349 | 00:36:18.130-00:36:20.249 | Loria] a scales first.
+[u0349 | 00:36:18.130-00:36:20.249 | Loria] Acescale first.
 [u0350 | 00:36:21.310-00:36:25.599 | Loria] still flying, still invisible, you make as advantage.
 [u0351 | 00:36:25.820-00:36:28.520 | Acescale] I assume that the
 [u0352 | 00:36:28.590-00:36:36.490 | Acescale] the Lord of the rings looking ones are the minions, the 5, the square ones are the minions. Yup.
@@ -354,7 +354,7 @@
 [u0354 | 00:36:40.570-00:36:43.680 | Acescale] I will drop a
 [u0355 | 00:36:45.310-00:36:48.870 | Acescale] and where did it go?
 [u0356 | 00:36:49.580-00:36:56.300 | Acescale] I'll drop an acid splash on the the one closest to the door with the 2, 2 next to it.
-[u0357 | 00:36:56.750-00:37:04.810 | Acescale] And so oh, I guess I get to choose to. So both of the ones that are get against the wall. And
+[u0357 | 00:36:56.750-00:37:04.810 | Acescale] And so oh, I guess I get to choose two. So both of the ones that are get against the wall. And
 [u0358 | 00:37:06.720-00:37:10.070 | Acescale] yeah, save yeah.
 [u0359 | 00:37:11.660-00:37:14.799 | DM] that's a natural one.
 [u0360 | 00:37:14.930-00:37:16.159 | Acescale] That's pretty good
@@ -376,25 +376,25 @@
 [u0376 | 00:38:50.400-00:38:51.320 | Dilion] Okay.
 [u0377 | 00:38:51.800-00:38:56.930 | Loria] Oof, all right you are. You are right here you missed the ladder
 [u0378 | 00:38:58.620-00:39:01.789 | Loria] do I still have? Because that's
-[u0379 | 00:39:02.100-00:39:18.609 | Loria] that would be movement and bonus? Right? So I can still do something you can. Yup poorly. First of all you have to stand up, which takes 50 feet of movement, but then you still have 5 feet of movement left perfect, so I will take my 5 feet.
+[u0379 | 00:39:02.100-00:39:18.609 | Loria] that would be movement and bonus? Right? So I can still do something you can. Yup poorly. First of all you have to stand up, which takes 15 feet of movement, but then you still have 5 feet of movement left perfect, so I will take my 5 feet.
 [u0380 | 00:39:18.650-00:39:22.729 | Loria] and then I will attack the shade. Closest me with my short swords.
-[u0381 | 00:39:23.230-00:39:25.819 | DM] Okay, the the menu, and are the
+[u0381 | 00:39:23.230-00:39:25.819 | DM] Okay, the the minion, and are the
 [u0382 | 00:39:25.920-00:39:31.559 | Loria] oh, sorry. I was gonna go for the Minion
 [u0383 | 00:39:36.800-00:39:38.399 | Loria] 22 to hit. That hits
 [u0384 | 00:39:39.040-00:39:46.459 | DM] wasn't the most graceful entry, but, like landing at the end
 [u0385 | 00:39:46.630-00:39:49.240 | DM] you can add your
 [u0386 | 00:39:50.720-00:39:57.669 | Loria] short sword, and then
-[u0387 | 00:39:58.030-00:40:02.959 | Loria] Or for this morning. my little bird.
+[u0387 | 00:39:58.030-00:40:02.959 | Loria] Roll for the swarm. my little bird.
 [u0388 | 00:40:03.150-00:40:08.770 | DM] that is enough damage. So as you stab through with your short sword, and your birds follow through
 [u0389 | 00:40:08.990-00:40:15.979 | DM] and swarm the shade next to next to them, killing the second shade as well.
-[u0390 | 00:40:17.090-00:40:23.680 | DM] and say, you used your bonus action on your acrobatic move. So no bonus action attacks. But as your turn.
-[u0391 | 00:40:24.000-00:40:25.790 | DM] Gareth, and you're up
+[u0390 | 00:40:17.090-00:40:23.680 | DM] and say, you used your bonus action on your acrobatic move. So no bonus action attacks. But that's your turn.
+[u0391 | 00:40:24.000-00:40:25.790 | DM] Gaudin, and you're up
 [u0392 | 00:40:25.910-00:40:26.990 | Gaudin] so
 [u0393 | 00:40:27.000-00:40:32.320 | Gaudin] I can be up top like if I'm would I be like here if I didn't go down the ladder.
 [u0394 | 00:40:32.960-00:40:37.820 | DM] If you didn't go down the ladder you're like anywhere around the top of this this hole. Here.
-[u0395 | 00:40:37.890-00:40:47.310 | Gaudin] Eldridge
+[u0395 | 00:40:37.890-00:40:47.310 | Gaudin] Eldritch
 [u0396 | 00:40:48.490-00:40:50.810 | Gaudin] Mini minion
-[u0397 | 00:40:50.930-00:40:52.200 | DM] make an attack all.
+[u0397 | 00:40:50.930-00:40:52.200 | DM] make an attack roll.
 [u0398 | 00:41:02.640-00:41:04.499 | DM] Yep, that's gonna hit
 [u0399 | 00:41:09.590-00:41:14.500 | DM] that kills that. You would have killed another. But there's no more minions left to kill.
 [u0400 | 00:41:14.540-00:41:18.899 | DM] So with that blast you knock out the last of the minions
@@ -403,40 +403,40 @@
 [u0403 | 00:41:31.310-00:41:34.140 | DM] Oh. no intruders!
 [u0404 | 00:41:35.030-00:41:41.169 | DM] As one reaches out with its freezing cold hand.
 [u0405 | 00:41:41.470-00:41:45.279 | DM] That's a that's a 21 that's gonna hit you.
-[u0406 | 00:41:46.090-00:41:47.890 | Gaudin] How do you take
+[u0406 | 00:41:46.090-00:41:47.890 | Gaudin] And you take
 [u0407 | 00:41:49.310-00:41:52.290 | DM] 8 points of cold damage
 [u0408 | 00:41:52.420-00:41:57.930 | DM] and your dexterity score is reduced by 2 until you take a short or long rest.
-[u0409 | 00:41:58.510-00:42:05.500 | Loria] Oh, we think about short rest after this short rest. X is definitely
+[u0409 | 00:41:58.510-00:42:05.500 | Loria] Oh, we think about short rest after this short rest. Dex is definitely
 [u0410 | 00:42:06.090-00:42:07.360 | Loria] very long.
 [u0411 | 00:42:07.470-00:42:10.259 | DM] Yeah. The second one
-[u0412 | 00:42:10.270-00:42:14.350 | DM] was a 10 to hit, which I think will mess.
+[u0412 | 00:42:10.270-00:42:14.350 | DM] was a 10 to hit, which I think will miss.
 [u0413 | 00:42:14.680-00:42:16.699 | Gaudin] Where's the second one. Sorry
 [u0414 | 00:42:16.960-00:42:20.130 | DM] there's the 2 of them are right next to each other here here.
-[u0415 | 00:42:21.670-00:42:24.570 | Unknown] Oh, for Summary's like they are the ones coming up this week.
-[u0416 | 00:42:24.940-00:42:28.910 | DM] Dylan, distracted by
+[u0415 | 00:42:21.670-00:42:24.570 | Unknown] Oh, for some reason like they are the ones coming up this week.
+[u0416 | 00:42:24.940-00:42:28.910 | DM] Dilion, distracted by
 [u0417 | 00:42:30.790-00:42:37.129 | DM] bag of distraction, now finally shakes it off and gets to do something
 [u0418 | 00:42:37.510-00:42:45.419 | Dilion] I like how I was supposed to be the front line fighter, and then just let someone fall in front, and
-[u0419 | 00:42:47.660-00:42:56.829 | Dilion] I lit my pop notes. attack! They attack the ghosts. I feel like he knows what that means.
+[u0419 | 00:42:47.660-00:42:56.829 | Dilion] I let my pup know, attack! They attack the ghosts. I feel like he knows what that means.
 [u0420 | 00:42:57.300-00:43:04.290 | Dilion] cause. I think that whether they can be attacked by the dog is a whole nother question.
 [u0421 | 00:43:04.980-00:43:06.689 | Unknown] But I'll attack
-[u0422 | 00:43:07.560-00:43:11.500 | Dilion] The one is not coming up on my overall. 20, but the one right next to
+[u0422 | 00:43:07.560-00:43:11.500 | Dilion] The one is not coming up on my Roll20, but the one right next to
 [u0423 | 00:43:12.140-00:43:13.150 | DM] right there.
 [u0424 | 00:43:13.250-00:43:15.590 | Dilion] Yep, yeah. Yep, yep.
-[u0425 | 00:43:15.600-00:43:17.739 | Unknown] I'll tack that one. Let's see.
+[u0425 | 00:43:15.600-00:43:17.739 | Unknown] I'll attack that one. Let's see.
 [u0426 | 00:43:24.170-00:43:30.289 | DM] Okay, yes, I think I think they'll hit
 [u0427 | 00:43:30.960-00:43:36.959 | Dilion] So it's 2D. 8 plus 4, and this is my infused weapon as well. So have them
 [u0428 | 00:43:37.030-00:43:39.300 | Dilion] magical trait. Yep.
 [u0429 | 00:43:40.140-00:43:41.440 | Unknown] just in case.
-[u0430 | 00:43:43.340-00:43:47.740 | Unknown] So it's 2D 8. So I'm just gonna click twice. One look that was rough.
+[u0430 | 00:43:43.340-00:43:47.740 | Unknown] So it's 2D 8. So I'm just gonna click twice. Oh, look that was rough.
 [u0431 | 00:43:47.970-00:43:52.090 | Dilion] That was also kind of rough. As damage goes.
 [u0432 | 00:43:52.310-00:43:56.510 | Dilion] Damn 7 damage on the
-[u0433 | 00:43:57.170-00:44:06.750 | DM] still enough to pretty badly wound up. It's definitely blow half health with that hair, and then and the dog.
+[u0433 | 00:43:57.170-00:44:06.750 | DM] still enough to pretty badly wound it. It's definitely below half health with that hit, and then and the dog.
 [u0434 | 00:44:07.090-00:44:13.480 | Dilion] I think he's just gonna go for the closest one that he can get to. So probably the other one.
 [u0435 | 00:44:14.010-00:44:24.140 | Dilion] it's attack. Damage is force damage. It doesn't say it. Yep. yeah, but I don't know if that means magical or not, but you can
 [u0436 | 00:44:24.200-00:44:36.709 | DM] all all for all, non bludgeoning, slashing, piercing. It's always counts as magical, but he's not gonna so that's not no important.
-[u0437 | 00:44:36.760-00:44:45.340 | DM] But as Dylan turn a scal, you see the shade these 2 shadows closing in on Loria below you.
+[u0437 | 00:44:36.760-00:44:45.340 | DM] But that's Dilion's turn. Acescale, you see the shade these 2 shadows closing in on Loria below you.
 [u0438 | 00:44:45.470-00:44:51.500 | Acescale] I'll rinse and repeat the acid splash from on
-[u0439 | 00:44:54.280-00:44:58.749 | DM] 12 and 8. So I'll go for the bail again.
+[u0439 | 00:44:54.280-00:44:58.749 | DM] 12 and 8. So they both fail again.
 [u0440 | 00:44:59.980-00:45:03.810 | Acescale] Only 2 acid damage each this time, though.
 [u0441 | 00:45:04.440-00:45:05.460 | DM] Okay?
 [u0442 | 00:45:06.700-00:45:08.240 | Acescale] And
@@ -446,22 +446,22 @@
 [u0446 | 00:45:25.410-00:45:31.040 | Loria] The shade that I can reach with my short sword first.
 [u0447 | 00:45:32.930-00:45:34.520 | Loria] 17.
 [u0448 | 00:45:35.180-00:45:39.070 | DM] Got it. It's actually only
-[u0449 | 00:45:40.890-00:45:44.079 | Loria] oh, you adjusted your next area already. I did. Yeah.
+[u0449 | 00:45:40.890-00:45:44.079 | Loria] oh, you adjusted your dexterity already. I did. Yeah.
 [u0450 | 00:45:44.210-00:45:47.739 | DM] Okay, 6, damage
 [u0451 | 00:45:48.920-00:45:51.199 | DM] and roll your swarm.
-[u0452 | 00:45:51.970-00:46:01.869 | Loria] Okay, it's still alive, because your store doesn't really seem to hurt it as much as you would expect.
+[u0452 | 00:45:51.970-00:46:01.869 | Loria] Okay, it's still alive, because your sword doesn't really seem to hurt it as much as you would expect.
 [u0453 | 00:46:02.510-00:46:08.949 | Loria] But what kind of damage does your swarm do? Is it the same as the swarm is.
 [u0454 | 00:46:09.840-00:46:17.919 | Loria] It's the same as it's piercing damage. Okay? But you can't reduce damage to 0. So that still counts. Okay?
 [u0455 | 00:46:17.930-00:46:23.930 | Loria] And then second, attack my second attack with the second short sword. Because
-[u0456 | 00:46:24.330-00:46:28.519 | Loria] alright. Now it's 30, 20.
+[u0456 | 00:46:24.330-00:46:28.519 | Loria] alright. Now it's dirty 20.
 [u0457 | 00:46:29.690-00:46:30.790 | DM] Got it?
 [u0458 | 00:46:31.130-00:46:34.249 | Loria] Damage? Yeah, that kills it.
 [u0459 | 00:46:34.260-00:46:37.639 | DM] Get your revenge, as the shade dissipates
-[u0460 | 00:46:38.000-00:46:46.560 | DM] to a second sorrow. As Gordon, you look down and see now only one shade remaining.
-[u0461 | 00:46:47.250-00:46:53.219 | Gaudin] so I lock eyes with it. And, Eldridge, blast
+[u0460 | 00:46:38.000-00:46:46.560 | DM] to a second sorrow. As Gaudin, you look down and see now only one shade remaining.
+[u0461 | 00:46:47.250-00:46:53.219 | Gaudin] so I lock eyes with it. And, Eldritch, blast
 [u0462 | 00:46:53.830-00:46:54.819 | Unknown] you got it?
 [u0463 | 00:46:55.710-00:46:57.889 | DM] 18 that hits
-[u0464 | 00:47:04.950-00:47:09.090 | DM] that was another to hit, not your image.
+[u0464 | 00:47:04.950-00:47:09.090 | DM] that was another to hit, not your damage.
 [u0465 | 00:47:09.570-00:47:11.830 | DM] although that would have been a better to hit roll.
 [u0466 | 00:47:12.860-00:47:15.890 | Unknown] That's a good damage roll that is enough to kill it.
 [u0467 | 00:47:18.590-00:47:21.489 | DM] So the second shadow dissipates as
@@ -470,17 +470,17 @@
 [u0470 | 00:47:29.790-00:47:31.200 | Unknown] vanishes.
 [u0471 | 00:47:32.800-00:47:51.159 | DM] and you look around now, the light from your bag of distraction, now revealing the scene of the cavern, and everything is like scorched and black, you see, like these. 7 skeletons, like all like black.
 [u0472 | 00:47:51.420-00:47:55.059 | DM] burned like they were burned to a crisp
-[u0473 | 00:47:55.270-00:48:10.609 | DM] you see just like it looks like fire would just port into this entire room like somebody stood up above and just cast a few fireballs down there. But long ago. This isn't fresh. This is
+[u0473 | 00:47:55.270-00:48:10.609 | DM] you see just like it looks like fire was just poured into this entire room like somebody stood up above and just cast a few fireballs down there. But long ago. This isn't fresh. This is
 [u0474 | 00:48:10.910-00:48:12.550 | Unknown] very old.
 [u0475 | 00:48:13.870-00:48:17.000 | Acescale] II was like.
 [u0476 | 00:48:17.120-00:48:24.300 | Acescale] I'm like, damn! I was joking about jumping down. That's crazy.
-[u0477 | 00:48:24.770-00:48:37.940 | Loria] clutching my ribs. Kind of hold place. Are we gonna do a short rest, I assume? Yes, I think I think lauriel needs
+[u0477 | 00:48:24.770-00:48:37.940 | Loria] clutching my ribs. Kind of hold place. Are we gonna do a short rest, I assume? Yes, I think I think Loria needs
 [u0478 | 00:48:39.070-00:48:53.259 | Loria] do we have the capacity to short rest in the storyline like, I feel like we're in a fire scorched cavern
 [u0479 | 00:48:53.470-00:48:57.719 | Gaudin] with one eager like one way in, like we could kind of
 [u0480 | 00:48:58.730-00:49:00.979 | Gaudin] just short rest of the 5 h
-[u0481 | 00:49:01.440-00:49:20.590 | Dilion] it could be one hour. Yeah, yeah, I think a long race has to be longer than eight hours. Yeah, I think a short race is up to 4. If I'm not mistaken. Yeah. So we could. We could go here, or we could just like go back upstairs and show him the dead end around the corner for an hour, and then
+[u0481 | 00:49:01.440-00:49:20.590 | Dilion] it could be one hour. Yeah, yeah, I think a long rest has to be longer than eight hours. Yeah, I think a short rest is up to 4. If I'm not mistaken. Yeah. So we could. We could go here, or we could just like go back upstairs and chill in the dead end around the corner for an hour, and then
 [u0482 | 00:49:21.920-00:49:23.760 | Dilion] cause they don't put out there.
-[u0483 | 00:49:23.830-00:49:31.369 | Loria] They're gonna check a dead end, especially if it's around a corner. Yeah, I prefer dead end rest than getting into the fire cab
+[u0483 | 00:49:23.830-00:49:31.369 | Loria] They're gonna check a dead end, especially if it's around a corner. Yeah, I prefer dead end rest than getting into the fire cavern
 [u0484 | 00:49:31.840-00:49:34.219 | Gaudin] that works for me, too.
 [u0485 | 00:49:34.620-00:49:35.800 | Loria] Oh, thank God.
 [u0486 | 00:49:36.040-00:49:38.379 | DM] that is easy enough to arrange.
@@ -490,10 +490,10 @@
 [u0490 | 00:50:10.130-00:50:21.749 | Dilion] I'm I'm I'm with them. Acescale. Make an investigation check, or both of you making this
 [u0491 | 00:50:22.050-00:50:23.040 | Dilion] good for me.
 [u0492 | 00:50:24.030-00:50:26.680 | Acescale] I'm not so good this time.
-[u0493 | 00:50:26.800-00:50:29.560 | DM] 24, a scout, you know.
+[u0493 | 00:50:26.800-00:50:29.560 | DM] 24, Acescale, you know.
 [u0494 | 00:50:29.570-00:50:44.299 | DM] You don't find anything. I was looking up on the ceiling, and I was just like, Why is there should be stuff up here. I don't get it. You've you've never flown before. This is the first time you've ever done it, and it's just a really like you're still riding that high
 [u0495 | 00:50:44.510-00:50:55.669 | DM] flying in the air. If the explosion blew stuff up, it should be here right.
-[u0496 | 00:50:56.070-00:50:58.859 | DM] However. Dylan.
+[u0496 | 00:50:56.070-00:50:58.859 | DM] However. Dilion.
 [u0497 | 00:50:58.940-00:51:02.160 | DM] you managed to do to uncover a few things.
 [u0498 | 00:51:02.700-00:51:06.849 | DM] you find a
 [u0499 | 00:51:08.000-00:51:14.520 | DM] well. it's probably not that useful, but there is like a melted clump of
@@ -508,28 +508,28 @@
 [u0508 | 00:52:09.820-00:52:19.940 | DM] like? These were presumably the just from the skeleton, from like little bits of of armor that's remained from the melted bits of the swords.
 [u0509 | 00:52:20.060-00:52:32.459 | DM] These are probably pirates, like from the same as the captain up above. Who made this lair their lair here 30 or 40 years ago.
 [u0510 | 00:52:33.020-00:52:35.859 | DM] How? How far from the coast up.
-[u0511 | 00:52:36.180-00:52:37.589 | Dilion] Mike, is this out?
+[u0511 | 00:52:36.180-00:52:37.589 | Dilion] Like, is this out?
 [u0512 | 00:52:38.060-00:52:39.480 | DM] 20 miles?
 [u0513 | 00:52:39.880-00:52:55.839 | DM] You're not that you're you're not that far from the coast. But this whole area, this whole, like coastal area, was basically ruled by pirates 50 years ago, and then the like navy from across the sea. Cameo came in and drove all the pirates out.
 [u0514 | 00:52:56.080-00:52:57.979 | DM] And now
-[u0515 | 00:52:58.050-00:53:07.480 | DM] this, like other country, Tolen or City tollen, pretty much rules this area. But you know, 50 years ago this was basically like a pirate
-[u0516 | 00:53:07.910-00:53:14.249 | DM] safe haven, essentially. And so there would be all these like bulls in the hills.
+[u0515 | 00:52:58.050-00:53:07.480 | DM] this, like other country, Tollen or City Tollen, pretty much rules this area. But you know, 50 years ago this was basically like a pirate
+[u0516 | 00:53:07.910-00:53:14.249 | DM] safe haven, essentially. And so there would be all these like bolt-holes in the hills.
 [u0517 | 00:53:16.320-00:53:22.409 | DM] you, you do also see. It looks like there are
 [u0518 | 00:53:22.880-00:53:38.020 | DM] tracks going back and forth like frequent recent tracks, like into the past, the door into the sort of cavern beyond, and then back and in and back. It looks like a pretty well worn trail.
 [u0519 | 00:53:38.310-00:53:46.009 | DM] From where you the pit where you came down the rope ladder into the cavern and back.
 [u0520 | 00:53:47.880-00:53:49.609 | DM] but not
 [u0521 | 00:53:49.890-00:53:52.899 | DM] not like tracks of an army like one or 2 people.
-[u0522 | 00:53:53.320-00:54:00.419 | DM] It's been like a smuggling a smugglers din. And oh, this is a lot more recent. This is probably this would be like crimson.
-[u0523 | 00:54:01.280-00:54:16.520 | Dilion] Yeah. But like, maybe it was a smuggler's been for the virus. And now it's become a bit of like a co-opted sort of I don't know in not inventory management. Maybe they're trying to shuffle particular things, people, statues, maybe. In and out of
+[u0522 | 00:53:53.320-00:54:00.419 | DM] It's been like a smuggling a smuggler's den. And oh, this is a lot more recent. This is probably this would be like Grimstone.
+[u0523 | 00:54:01.280-00:54:16.520 | Dilion] Yeah. But like, maybe it was a smuggler's den for the pirates. And now it's become a bit of like a co-opted sort of I don't know in not inventory management. Maybe they're trying to shuffle particular things, people, statues, maybe. In and out of
 [u0524 | 00:54:16.630-00:54:18.220 | Dilion] area. Okay.
 [u0525 | 00:54:18.230-00:54:23.580 | Dilion] just a chew toy for the steampup. And I think I was, I was able to
 [u0526 | 00:54:23.860-00:54:27.610 | Gaudin] really get from a nice, a nice silver
-[u0527 | 00:54:27.940-00:54:33.909 | DM] ingot bone for steam seems like exactly where that sort of metal guard
-[u0528 | 00:54:34.490-00:54:36.270 | Dilion] Chopin, his teeth are and
+[u0527 | 00:54:27.940-00:54:33.909 | DM] ingot bone for steam seems like exactly where that sort of metal dog
+[u0528 | 00:54:34.490-00:54:36.270 | Dilion] Sharpen his teeth and
 [u0529 | 00:54:39.290-00:54:40.110 | Dilion] cool.
 [u0530 | 00:54:41.630-00:54:44.869 | Dilion] so you rest. Sure is yes.
 [u0531 | 00:54:45.560-00:54:47.330 | DM] go ahead and use hit die.
-[u0532 | 00:54:47.950-00:54:54.790 | DM] your Loria, your taxes restored as you complete your short rest.
+[u0532 | 00:54:47.950-00:54:54.790 | DM] your Loria, your Dex is restored as you complete your short rest.
 [u0533 | 00:54:55.410-00:54:59.049 | DM] Gaudin. You get your spell slot back.
 [u0534 | 00:55:06.820-00:55:08.130 | Gaudin] How do you have it?
 [u0535 | 00:55:12.280-00:55:14.270 | Gaudin] Stop here.
@@ -542,7 +542,7 @@
 [u0542 | 00:55:41.650-00:55:45.959 | Gaudin] still didn't.
 [u0543 | 00:55:47.570-00:55:50.360 | DM] Well, you can always just roll and add it yourself.
 [u0544 | 00:55:51.060-00:55:55.759 | Gaudin] Yeah, I rolled a one d8 plus 2. I didn't do that.
-[u0545 | 00:55:56.720-00:55:59.209 | Loria] That's correct, Wendy, plus 2.
+[u0545 | 00:55:56.720-00:55:59.209 | Loria] That's correct, one d8, plus 2.
 [u0546 | 00:56:08.470-00:56:32.410 | Loria] Yeah, I don't know. The short rest in in interface on Dnd. Beyond is a little bit. I had to select the boxes and then click the thing that, said healing that pops up on Dnd, yeah. Okay.
 [u0547 | 00:56:32.410-00:56:39.140 | Gaudin] 33. Seems like a lot of healing. You're very restored.
 [u0548 | 00:56:39.140-00:56:45.800 | Loria] Didn't mean to anyways figured it out. I know now how to take a short rest on Dnd.
@@ -551,13 +551,13 @@
 [u0551 | 00:56:54.620-00:56:57.930 | Loria] I felt not good after falling into the ghost hole.
 [u0552 | 00:56:59.050-00:57:02.420 | DM] Yeah. Oh, plus you've got right. You've got d 10.
 [u0553 | 00:57:02.770-00:57:06.050 | Loria] Yeah, I realize you're an actual frontliner.
-[u0554 | 00:57:06.390-00:57:15.900 | DM] Unlike these fake front liners I just happened to not be able to see, and then fell down the whole, which didn't really do me a lot of
-[u0555 | 00:57:16.110-00:57:25.300 | Loria] favors in that battle. Hey? You got down fast. It's a bruise ego and a bruise forever, too.
+[u0554 | 00:57:06.390-00:57:15.900 | DM] Unlike these fake front liners I just happened to not be able to see, and then fell down the hole, which didn't really do me a lot of
+[u0555 | 00:57:16.110-00:57:25.300 | Loria] favors in that battle. Hey? You got down fast. It's a bruised ego and a bruised rib or two.
 [u0556 | 00:57:25.550-00:57:26.400 | DM] Yeah.
 [u0557 | 00:57:33.950-00:57:34.970 | DM] So
 [u0558 | 00:57:36.710-00:57:38.450 | DM] as you finish resting
-[u0559 | 00:57:39.640-00:57:52.940 | DM] proceed back down into this cavern and your face. Now with this door. It's not a particularly fancy door.
-[u0560 | 00:57:53.570-00:58:04.970 | DM] It's just a plain sort of wooden door that's been sat into the the like wall of this natural cavern.
+[u0559 | 00:57:39.640-00:57:52.940 | DM] proceed back down into this cavern and you're faced now with this door. It's not a particularly fancy door.
+[u0560 | 00:57:53.570-00:58:04.970 | DM] It's just a plain sort of wooden door that's been set into the the like wall of this natural cavern.
 [u0561 | 00:58:05.210-00:58:15.139 | DM] The the cave itself is not. This hasn't been excavated or really improved at all, except for this sort of incongruous door.
 [u0562 | 00:58:18.280-00:58:19.330 | Loria] Can we
 [u0563 | 00:58:19.600-00:58:24.600 | Loria] check the door by tossing a rock at it, or something to make sure it's
@@ -594,31 +594,31 @@
 [u0594 | 01:01:04.020-01:01:09.710 | Unknown] possibly to not do much. but anyway, it swings open as you push.
 [u0595 | 01:01:10.210-01:01:21.039 | Loria] Can I reach the big iron knocker that's on it or no. Yeah, it's like it's like nose height. Okay? I want to like, hold that
 [u0596 | 01:01:21.140-01:01:25.729 | DM] as I slowly and sneakily, or at least quietly.
-[u0597 | 01:01:27.150-01:01:28.900 | Unknown] make a self-check.
+[u0597 | 01:01:27.150-01:01:28.900 | Unknown] make a Stealth check.
 [u0598 | 01:01:36.290-01:01:43.190 | DM] It's not the quietest you've heard anybody open a door.
 [u0599 | 01:01:43.380-01:01:46.249 | Loria] It's not super loud, I mean
 [u0600 | 01:01:46.680-01:01:58.569 | DM] it, just, you know. Don't quite grasp the iron ring, and it just bangs up against the wall a little bit. As you step through, you can hear hear a faint echo down
-[u0601 | 01:01:58.750-01:02:10.250 | DM] the the corridor, and you can see like ahead of you. Well, I don't know. What do you? What what's happened to all the light puddles is somebody carrying them? Are they shielded? Is it pitch black?
+[u0601 | 01:01:58.750-01:02:10.250 | DM] the the corridor, and you can see like ahead of you. Well, I don't know. What do you? What what's happened to all the light pebbles is somebody carrying them? Are they shielded? Is it pitch black?
 [u0602 | 01:02:10.310-01:02:13.030 | Dilion] Think I don't like? It's like one
 [u0603 | 01:02:13.090-01:02:17.810 | Dilion] or something just like in my hands. So I'm not just walking in complete darkness.
 [u0604 | 01:02:18.150-01:02:18.940 | DM] Okay.
-[u0605 | 01:02:19.190-01:02:22.719 | Dilion] I wasn't sure if Mario was wanting to
+[u0605 | 01:02:19.190-01:02:22.719 | Dilion] I wasn't sure if Loria was wanting to
 [u0606 | 01:02:23.240-01:02:32.720 | Dilion] keep some for his keep, some. I can't see anything right now. Yeah. So I feel like you would have had like maybe one or 2. You can see.
 [u0607 | 01:02:33.200-01:02:35.720 | DM] you know, the flickering light from the
 [u0608 | 01:02:36.080-01:02:38.789 | DM] pebble extends 10 feet
-[u0609 | 01:02:39.490-01:02:48.010 | DM] into this corridor, which looks like a narrow natural cave corridor, right like this is like, there's the rag tights on the top. There's
-[u0610 | 01:02:48.230-01:02:56.469 | DM] swag mites on the bottom. It's just like I mean that? Well, the swag mites on the bottom have been crushed right. It's like people have been walking back and forth here.
+[u0609 | 01:02:39.490-01:02:48.010 | DM] into this corridor, which looks like a narrow natural cave corridor, right like this is like, there's the stalactites on the top. There's
+[u0610 | 01:02:48.230-01:02:56.469 | DM] stalagmites on the bottom. It's just like I mean that? Well, the stalagmites on the bottom have been crushed right. It's like people have been walking back and forth here.
 [u0611 | 01:02:57.200-01:03:01.989 | DM] and you know, 20 feet in past where the light shines. It's just
 [u0612 | 01:03:03.980-01:03:06.220 | Dilion] back to the same formation. We reckon
 [u0613 | 01:03:06.410-01:03:08.280 | Dilion] it's like dog
-[u0614 | 01:03:08.590-01:03:14.539 | Dilion] pull a person that could see the doc.
-[u0615 | 01:03:14.720-01:03:18.610 | Loria] Oh, Loria Dylan Gaudin.
+[u0614 | 01:03:08.590-01:03:14.539 | Dilion] follow a person that could see in the dark.
+[u0615 | 01:03:14.720-01:03:18.610 | Loria] Oh, Loria Dilion Gaudin.
 [u0616 | 01:03:18.640-01:03:24.539 | Loria] Gaudin, how are you feeling after the rest? Are you okay? I'm up. I'm up to my 24. So oh, yeah.
 [u0617 | 01:03:24.720-01:03:25.949 | Dilion] imagine he is
 [u0618 | 01:03:27.050-01:03:29.840 | Dilion] up to fighting force. Yes.
-[u0619 | 01:03:30.530-01:03:34.019 | Gaudin] excellent! My Eldridge blast is loaded. So
+[u0619 | 01:03:30.530-01:03:34.019 | Gaudin] excellent! My Eldritch blast is loaded. So
 [u0620 | 01:03:36.010-01:03:40.359 | DM] So you sneak along
-[u0621 | 01:03:40.440-01:03:44.380 | DM] quietly down this quarter. Can everybody make a stop? Check
+[u0621 | 01:03:40.440-01:03:44.380 | DM] quietly down this corridor. Can everybody make a Stealth check
 [u0622 | 01:03:45.060-01:03:45.790 | Dilion] oops?
 [u0623 | 01:03:53.090-01:03:54.200 | Dilion] Oh, yeah.
 [u0624 | 01:03:55.170-01:03:57.639 | DM] oh, wow! You guys are doing. Wow!
@@ -634,10 +634,10 @@
 [u0634 | 01:05:06.780-01:05:13.380 | DM] And as you sneak along this corridor, keeping the light as dim as you can, just so you can see a little bit ahead.
 [u0635 | 01:05:13.840-01:05:16.559 | DM] Loria, you hear
 [u0636 | 01:05:16.600-01:05:17.670 | DM] maybe
-[u0637 | 01:05:18.010-01:05:22.230 | DM] 30 feet ahead out of the range of your site.
+[u0637 | 01:05:18.010-01:05:22.230 | DM] 30 feet ahead out of the range of your sight.
 [u0638 | 01:05:22.900-01:05:27.859 | DM] And in the blackness what sounds?
 [u0639 | 01:05:29.020-01:05:36.129 | DM] It's quite a strange sound to be hearing in a pirate cave full of ghosts. It sounds like somebody like hitting a punching bag.
-[u0640 | 01:05:37.430-01:05:39.229 | DM] Fuck, duck, but
+[u0640 | 01:05:37.430-01:05:39.229 | DM] Thuck, thuck, thuck.
 [u0641 | 01:05:48.340-01:05:49.100 | Acescale] cool.
 [u0642 | 01:05:49.790-01:05:51.200 | Loria] Don't don't love that.
 [u0643 | 01:05:51.740-01:05:52.790 | Gaudin] Yeah.
@@ -645,29 +645,29 @@
 [u0645 | 01:05:54.630-01:05:58.980 | Loria] they're probably already tired. At least we're gonna get them like
 [u0646 | 01:05:59.770-01:06:02.730 | Acescale] post workouts. That's easy.
 [u0647 | 01:06:02.810-01:06:12.030 | Acescale] or they're warmed up. Maybe they're not strict, you know.
-[u0648 | 01:06:13.220-01:06:16.289 | Dilion] you know. Pull a handy while doing anything else.
+[u0648 | 01:06:13.220-01:06:16.289 | Dilion] you know. Pull a hammy while doing anything else.
 [u0649 | 01:06:18.130-01:06:23.670 | Loria] Are you just continuing down the corridor, are you?
 [u0650 | 01:06:27.480-01:06:29.760 | Loria] What's happening here? I don't know.
 [u0651 | 01:06:30.030-01:06:41.999 | Loria] It's only one way forward.
 [u0652 | 01:06:42.710-01:06:43.560 | Loria] Fair.
-[u0653 | 01:06:44.150-01:06:46.989 | DM] I mean, steam pops nearly as big as you.
+[u0653 | 01:06:44.150-01:06:46.989 | DM] I mean, steampup's nearly as big as you.
 [u0654 | 01:06:49.220-01:06:50.530 | Unknown] Yeah, that's fair
 [u0655 | 01:06:52.520-01:06:54.830 | Loria] steampup is
-[u0656 | 01:06:56.610-01:07:08.909 | Loria] steam up as medium. You are small steam pops actually bigger than you. I would like to be riding steam. Pub, please.
+[u0656 | 01:06:56.610-01:07:08.909 | Loria] steampup is Medium. You are small steampup's actually bigger than you. I would like to be riding steampup, please.
 [u0657 | 01:07:09.520-01:07:12.989 | Acescale] You're likely to be at the front lines in the fight right?
 [u0658 | 01:07:13.850-01:07:17.070 | Loria] You usually swing in your sword at the front.
 [u0659 | 01:07:17.320-01:07:20.869 | Unknown] I toss you a potion that'll give you plus one A/C
 [u0660 | 01:07:22.460-01:07:23.430 | Unknown] you.
 [u0661 | 01:07:24.150-01:07:27.140 | Acescale] That's the end of my alchemy.
-[u0662 | 01:07:27.270-01:07:43.839 | DM] So you continue, although if you want to play again, remember, you can spend the First Level slot to make another person have like a time limit? Or is it just a permanent increase.
-[u0663 | 01:07:46.150-01:07:55.120 | Dilion] perfect long enough for like a 5.
+[u0662 | 01:07:27.270-01:07:43.839 | DM] So you continue, although if you want to play again, remember, you can spend the First Level slot to make another potion have like a time limit? Or is it just a permanent increase.
+[u0663 | 01:07:46.150-01:07:55.120 | Dilion] perfect long enough for like a fight.
 [u0664 | 01:07:56.890-01:07:59.039 | DM] So as you continue
 [u0665 | 01:08:00.790-01:08:06.480 | Unknown] forward. the sound of this punching gets louder, and now you can see.
-[u0666 | 01:08:06.840-01:08:15.430 | DM] like coming from around the the bend the quarter ahead of you. Bend slightly to the right, and there's flickering torchlight
+[u0666 | 01:08:06.840-01:08:15.430 | DM] like coming from around the the bend the corridor ahead of you. Bend slightly to the right, and there's flickering torchlight
 [u0667 | 01:08:16.060-01:08:18.390 | Unknown] shining now into the corridor
 [u0668 | 01:08:20.149-01:08:25.159 | Unknown] from like around the bend, and from the direction that this punching sound is coming from
 [u0669 | 01:08:27.540-01:08:30.030 | Unknown] definitely. Sounds like somebody is working out.
-[u0670 | 01:08:36.000-01:08:37.709 | Unknown] You probably know, more than
+[u0670 | 01:08:36.000-01:08:37.709 | Unknown] You're probably no more than
 [u0671 | 01:08:38.300-01:08:42.029 | DM] 20 feet from from the bend in the corridor where
 [u0672 | 01:08:42.470-01:08:44.730 | Unknown] you know that's illuminated with torch lighting
 [u0673 | 01:08:46.700-01:08:49.789 | Acescale] silly question. But what time of day is it at this point?
@@ -677,7 +677,7 @@
 [u0677 | 01:09:25.500-01:09:26.740 | Acescale] onward.
 [u0678 | 01:09:26.899-01:09:29.530 | Loria] Yeah, up to the back.
 [u0679 | 01:09:30.960-01:09:32.109 | DM] So
-[u0680 | 01:09:33.729-01:09:40.290 | DM] a half lane. I'm a dog rounds the corner and you see
+[u0680 | 01:09:33.729-01:09:40.290 | DM] a halfling on a dog rounds the corner and you see
 [u0681 | 01:09:40.580-01:09:41.390 | Unknown] a
 [u0682 | 01:09:42.680-01:09:50.010 | DM] briefly staring at you in total surprise. This large man.
 [u0683 | 01:09:50.100-01:09:51.410 | DM] oh.
@@ -685,7 +685,7 @@
 [u0685 | 01:10:04.130-01:10:07.310 | DM] tattered shirt, and
 [u0686 | 01:10:07.640-01:10:16.459 | DM] with like a suit of like this. Not very well maintained leather armor on top of it.
 [u0687 | 01:10:16.560-01:10:22.229 | DM] does not seem to have any weapons nearby.
-[u0688 | 01:10:22.630-01:10:29.599 | DM] Any rap means like there's like this is like, another cavern, right? But what you can
+[u0688 | 01:10:22.630-01:10:29.599 | DM] And, I mean, like there's like this is like, another cavern, right? But what you can
 [u0689 | 01:10:30.170-01:10:33.759 | Unknown] see as you as you glance here is.
 [u0690 | 01:10:34.450-01:10:43.519 | DM] There's like straw bedding in a corner. There's 3 torches around the room. The room itself is maybe 20 foot by 20 foot. There's
 [u0691 | 01:10:43.910-01:10:55.700 | DM] 3 passageways that exit from this room. So basically, every wall has a has a corridor that leads out from it, including the one you're coming in from
@@ -700,7 +700,7 @@
 [u0700 | 01:11:44.750-01:11:46.870 | Unknown] No, I think I took a wrong turn.
 [u0701 | 01:11:48.030-01:11:51.269 | Loria] Is this the way to the wine cellar?
 [u0702 | 01:11:52.750-01:11:57.970 | DM] Moves down the hallway a little bit in your direction? Make a deception check.
-[u0703 | 01:11:59.410-01:12:05.020 | DM] Oh, no, this is this is where I popped my car.
+[u0703 | 01:11:59.410-01:12:05.020 | DM] Oh, no, this is this is where I parked my car.
 [u0704 | 01:12:10.340-01:12:12.340 | Unknown] I don't think so.
 [u0705 | 01:12:12.690-01:12:19.330 | Gaudin] Can we hear what's going on farther back in the
 [u0706 | 01:12:19.460-01:12:24.690 | Gaudin] 5 feet behind, though I quickly step in
@@ -709,14 +709,14 @@
 [u0709 | 01:12:32.600-01:12:33.270 | Unknown] so.
 [u0710 | 01:12:33.610-01:12:35.979 | Gaudin] and I'm like.
 [u0711 | 01:12:36.210-01:12:38.680 | Unknown] they never shut up, don't they?
-[u0712 | 01:12:41.720-01:12:44.780 | Unknown] This like a special treat for Grimsthin?
+[u0712 | 01:12:41.720-01:12:44.780 | Unknown] This like a special treat for Grimstone?
 [u0713 | 01:12:45.520-01:12:47.620 | Gaudin] What are you doing now?
 [u0714 | 01:12:47.720-01:12:49.669 | Unknown] I just do what I'm told.
 [u0715 | 01:12:51.190-01:12:53.270 | Unknown] Can you point me where I need to take him.
 [u0716 | 01:12:54.890-01:12:56.610 | Unknown] Haven't even had lunch yet.
 [u0717 | 01:12:59.950-01:13:03.060 | Unknown] I'm not certain what's happening here.
 [u0718 | 01:13:04.330-01:13:05.180 | DM] This
-[u0719 | 01:13:05.610-01:13:08.259 | Unknown] a flank is for Grimstone, but it's
+[u0719 | 01:13:05.610-01:13:08.259 | Unknown] halfling is for Grimstone, but it's
 [u0720 | 01:13:08.460-01:13:10.070 | DM] you're a day early.
 [u0721 | 01:13:11.940-01:13:14.629 | DM] and who are you? I've never seen you before.
 [u0722 | 01:13:17.020-01:13:21.610 | Gaudin] I was told. Bring these idiots to him.
@@ -725,7 +725,7 @@
 [u0725 | 01:13:31.450-01:13:36.279 | Loria] right, make a deception check.
 [u0726 | 01:13:47.790-01:13:49.720 | DM] He looks. He kind of
 [u0727 | 01:13:49.860-01:13:52.110 | Unknown] relaxes a little bit.
-[u0728 | 01:13:52.310-01:13:59.160 | DM] I was just looking at at God. And what what is what are you disguised as at the moment. still in your still in Alf.
+[u0728 | 01:13:52.310-01:13:59.160 | DM] I was just looking at at Gaudin what what is what are you disguised as at the moment. still in your still in elf.
 [u0729 | 01:13:59.170-01:14:01.110 | Gaudin] yeah. And my elf disguise.
 [u0730 | 01:14:01.390-01:14:02.150 | DM] Okay.
 [u0731 | 01:14:04.550-01:14:12.799 | DM] kind of relaxes a moment and then kind of does a slight double take as he as he looks at you, and is just
@@ -744,9 +744,9 @@
 [u0744 | 01:15:25.710-01:15:29.200 | DM] Roots around for another minute. Are. Y'all just standing there
 [u0745 | 01:15:30.580-01:15:33.760 | Gaudin] like I don't think he wants these stoned.
 [u0746 | 01:15:37.400-01:15:41.470 | DM] I've never seen you before. Don't know who you are.
-[u0747 | 01:15:42.180-01:15:44.710 | DM] I'm not gonna risk Kid's wrath.
+[u0747 | 01:15:42.180-01:15:44.710 | DM] I'm not gonna risk his wrath.
 [u0748 | 01:15:46.120-01:15:49.009 | DM] See what happens. The last person that he
-[u0749 | 01:15:50.480-01:15:54.000 | DM] hmm want my head smashed in.
+[u0749 | 01:15:50.480-01:15:54.000 | DM] Don't want my head smashed in.
 [u0750 | 01:15:55.180-01:15:56.299 | DM] do you?
 [u0751 | 01:15:57.230-01:15:58.100 | Gaudin] No.
 [u0752 | 01:15:58.310-01:16:01.800 | Gaudin] I'm like looking at everybody else.
@@ -756,12 +756,12 @@
 [u0756 | 01:16:17.060-01:16:19.710 | Gaudin] Maybe this is what he needs.
 [u0757 | 01:16:20.480-01:16:23.990 | Gaudin] These are not visitors, these are ingredients.
 [u0758 | 01:16:27.480-01:16:38.689 | DM] I found it. It takes out this vial of this like greenish sort of thick liquid. That's sort of bubbling slightly in this
-[u0759 | 01:16:38.730-01:16:40.920 | DM] small file.
+[u0759 | 01:16:38.730-01:16:40.920 | DM] small vial.
 [u0760 | 01:16:42.190-01:16:45.940 | DM] Damn had only one dose. Well.
-[u0761 | 01:16:49.860-01:16:53.819 | DM] Amy mean I didn't give it.
+[u0761 | 01:16:49.860-01:16:53.819 | DM] Eeny meeny I didn't give it.
 [u0762 | 01:16:53.950-01:17:01.310 | Gaudin] I've been worried about this item. Go I've been worried about. I'm
 [u0763 | 01:17:02.640-01:17:05.149 | Gaudin] give me a minute.
-[u0764 | 01:17:05.980-01:17:12.840 | DM] Eeny meeny miny mouth catch a tiger by the tow. If he hollers, let him go.
+[u0764 | 01:17:05.980-01:17:12.840 | DM] Eeny meeny miny moe catch a tiger by the toe. If he hollers, let him go.
 [u0765 | 01:17:14.030-01:17:15.620 | DM] I'll throw it out.
 [u0766 | 01:17:15.720-01:17:18.659 | DM] I'll throw a screaming rock
 [u0767 | 01:17:18.960-01:17:21.490 | Acescale] across
@@ -770,7 +770,7 @@
 [u0770 | 01:17:36.510-01:17:38.010 | Acescale] That's not gonna be great.
 [u0771 | 01:17:38.930-01:17:43.509 | DM] it bounces like
 [u0772 | 01:17:43.750-01:17:47.220 | DM] slightly past
-[u0773 | 01:17:47.860-01:17:53.619 | DM] like into the Strava is betting and it when it's just screaming, it's just like randomly screaming.
+[u0773 | 01:17:47.860-01:17:53.619 | DM] like into the straw of his bedding and it when it's just screaming, it's just like randomly screaming.
 [u0774 | 01:17:57.310-01:17:58.650 | DM] what the hell
 [u0775 | 01:18:00.150-01:18:01.180 | DM] goes
 [u0776 | 01:18:02.310-01:18:04.100 | DM] one of you doing magic.
@@ -783,40 +783,40 @@
 [u0783 | 01:18:32.640-01:18:33.930 | DM] that the expression.
 [u0784 | 01:18:34.820-01:18:38.500 | DM] your graveyard that doesn't make sense your coffin
 [u0785 | 01:18:40.040-01:18:41.319 | DM] something like that.
-[u0786 | 01:18:43.160-01:18:46.020 | DM] It's your fate. If you mess with Faith
+[u0786 | 01:18:43.160-01:18:46.020 | DM] It's your fate. If you mess with fate
 [u0787 | 01:18:47.370-01:18:49.720 | Gaudin] Earth. I
 [u0788 | 01:18:49.900-01:18:51.700 | Gaudin] I'm just doing what I'm told.
 [u0789 | 01:18:52.770-01:18:56.480 | Gaudin] I I kick the dog again. Let's go
 [u0790 | 01:18:56.740-01:18:59.499 | Gaudin] where at least one of them's gotta be stone.
-[u0791 | 01:19:00.820-01:19:11.570 | Gaudin] Let's do this dog. I'm tired of it clicks and clacks when it walks. The Halfland's getting a little uppity as it gets to ride it.
+[u0791 | 01:19:00.820-01:19:11.570 | Gaudin] Let's do this dog. I'm tired of it clicks and clacks when it walks. The halfling's getting a little uppity as it gets to ride it.
 [u0792 | 01:19:12.980-01:19:18.270 | DM] Okay, fine. He walks up towards the dog he
 [u0793 | 01:19:19.180-01:19:27.650 | DM] reaches out and grabs Loria, and he's like more than twice your size. probably just about twice your size.
-[u0794 | 01:19:27.970-01:19:38.889 | DM] And it just lifts you up in the air like dangling above the dog. Then it takes us file and just smashes it on the dog's head. Constitution safety throw for the dog.
+[u0794 | 01:19:27.970-01:19:38.889 | DM] And it just lifts you up in the air like dangling above the dog. Then it takes this vial and just smashes it on the dog's head. Constitution saving throw for the dog.
 [u0795 | 01:19:39.670-01:19:41.990 | Dilion] Sure.
-[u0796 | 01:19:42.720-01:19:45.259 | Dilion] that's so much shake. It's got a box for
-[u0797 | 01:19:46.780-01:19:56.519 | Dilion] saving throws, plus 2 plus. Pb. What's Pb. Stand for? That's your provision. So it should be plus 4, it should be plus 4. I thought so. Yeah.
+[u0796 | 01:19:42.720-01:19:45.259 | Dilion] that's so much check. It's got a box for
+[u0797 | 01:19:46.780-01:19:56.519 | Dilion] saving throws, plus 2 plus. Pb. What's Pb. Stand for? That's your proficiency. So it should be plus 4, it should be plus 4. I thought so. Yeah.
 [u0798 | 01:20:00.350-01:20:07.710 | DM] you can see the stone begin to
 [u0799 | 01:20:07.890-01:20:14.140 | DM] like creep over the dog. This is like the basilisk, like. If somebody smashes it off.
 [u0800 | 01:20:15.550-01:20:22.190 | DM] the dog won't be petrified, but then, at the end of each round. is it at the end of each round
 [u0801 | 01:20:23.730-01:20:27.380 | DM] double check for fast there. And
 [u0802 | 01:20:36.310-01:20:48.009 | DM] yeah, somebody can knock the stone off of him. Next round he gets another saving throw. If he fails, he's turned to stone.
-[u0803 | 01:20:48.710-01:20:57.629 | Gaudin] Yeah, more expendable than the rest of us. Dylan. We're we're we're back around the corner. Is that
+[u0803 | 01:20:48.710-01:20:57.629 | Gaudin] Yeah, more expendable than the rest of us. Dilion. We're we're we're back around the corner. Is that
 [u0804 | 01:20:57.840-01:21:01.080 | Acescale] like the situation at this point, we haven't been seen yet.
 [u0805 | 01:21:01.800-01:21:04.099 | DM] Ii think
-[u0806 | 01:21:04.650-01:21:20.709 | Acescale] I thought that was the situation. You're you're standing out of the light, so nobody's seeing you. So I would turn to Dylan and be like, are we just gonna let this keep going? Or are we just gonna fry this guy? I'm just like motioning like
+[u0806 | 01:21:04.650-01:21:20.709 | Acescale] I thought that was the situation. You're you're standing out of the light, so nobody's seeing you. So I would turn to Dilion and be like, are we just gonna let this keep going? Or are we just gonna fry this guy? I'm just like motioning like
 [u0807 | 01:21:21.580-01:21:31.950 | Dilion] Happy, to quote quote before we do that, though like what? What direction, what door is it
 [u0808 | 01:21:34.040-01:21:41.299 | Gaudin] cause? I pick up the stone thing, and I grab the halfling by the hand make another saving throw for the dog.
 [u0809 | 01:21:41.940-01:21:47.890 | Unknown] Yeah. how many doors are there? 3. Okay.
 [u0810 | 01:21:48.820-01:21:51.709 | Loria] Can I start trying to beat the stone off of the dog.
 [u0811 | 01:21:51.870-01:22:02.329 | Dilion] Hmm. Oh, 13, hey? That's a 13. Okay. Dog beats the DC. 12.
-[u0812 | 01:22:02.430-01:22:09.300 | DM] damn it, week batch, I guess.
+[u0812 | 01:22:02.430-01:22:09.300 | DM] damn it, weak batch, I guess.
 [u0813 | 01:22:10.570-01:22:17.289 | DM] you do what you want with your prisoners. I
 [u0814 | 01:22:18.960-01:22:21.149 | Unknown] I don't want to be anywhere around.
 [u0815 | 01:22:23.780-01:22:26.110 | Unknown] How did you get past the guards?
 [u0816 | 01:22:28.380-01:22:30.619 | Unknown] I told them what I told you.
 [u0817 | 01:22:31.620-01:22:39.630 | Unknown] I'm bringing ingredients. Okay. Well, somebody must have given you the password. So that's fine.
 [u0818 | 01:22:40.970-01:22:42.600 | Unknown] I'm just gonna go.
-[u0819 | 01:22:45.460-01:22:49.700 | Unknown] I'm staying out of us. You deal with Grimstone.
+[u0819 | 01:22:45.460-01:22:49.700 | Unknown] I'm staying out of this. You deal with Grimstone.
 [u0820 | 01:22:50.770-01:22:54.600 | DM] If you interrupt him in the middle of making a potion. He's gonna be so pissed
 [u0821 | 01:22:55.650-01:23:02.009 | Unknown] unless these actually are ingredients which, like, I don't think but I'm just there.
 [u0822 | 01:23:02.220-01:23:09.899 | DM] and he just walks off down, down the corner and sees the 2 of you standing there. It's like what the hell
@@ -854,18 +854,18 @@
 [u0854 | 01:25:56.810-01:26:00.449 | DM] 2 water skins, there's a
 [u0855 | 01:26:01.400-01:26:04.130 | Unknown] half drunk bottle of brandy.
 [u0856 | 01:26:05.630-01:26:08.830 | DM] There's a there's a pouch which is empty.
-[u0857 | 01:26:10.110-01:26:15.320 | DM] The second one seems to be more like our chemical supplies, but it's it's mostly not
+[u0857 | 01:26:10.110-01:26:15.320 | DM] The second one seems to be more like alchemical supplies, but it's it's mostly not
 [u0858 | 01:26:16.520-01:26:17.360 | Unknown] a.
-[u0859 | 01:26:17.810-01:26:30.389 | DM] It's like empty stuff, right? Like it's a bunch of glass like he spent a while rooting around, and there was nothing was all just like empty glass vials like you, Acescale would recognize this. This is basically a complete set of Alcatra
-[u0860 | 01:26:30.640-01:26:32.120 | DM] chemists, tools
+[u0859 | 01:26:17.810-01:26:30.389 | DM] It's like empty stuff, right? Like it's a bunch of glass like he spent a while rooting around, and there was nothing was all just like empty glass vials like you, Acescale would recognize this. This is basically a complete set of alchemist's
+[u0860 | 01:26:30.640-01:26:32.120 | DM] tools
 [u0861 | 01:26:32.310-01:26:41.169 | Acescale] as well as like a dozen nice glass vials that you could make potions in grabbing. I'm grabbing all that up
 [u0862 | 01:26:42.020-01:26:47.760 | Acescale] other than the one vial that he took out. Nothing has anything in it
 [u0863 | 01:26:48.760-01:26:50.170 | Acescale] and
 [u0864 | 01:26:50.560-01:26:54.889 | Acescale] Gaudin. That was pretty incredible.
 [u0865 | 01:26:54.970-01:26:59.959 | Acescale] In a kind of weird way. I'm wondering
 [u0866 | 01:27:01.660-01:27:04.279 | Acescale] you want to do it again. I've got an idea.
-[u0867 | 01:27:04.770-01:27:15.479 | Gaudin] I take it. Sip of the brandy. I say, I say, what what if you disguised yourself, as him
-[u0868 | 01:27:15.670-01:27:24.710 | Acescale] wore some of these clothes. and when it interrupted grim scale in there. say the basilisk is escaping, or something.
+[u0867 | 01:27:04.770-01:27:15.479 | Gaudin] I take a sip of the brandy. I say, I say, what what if you disguised yourself, as him
+[u0868 | 01:27:15.670-01:27:24.710 | Acescale] wore some of these clothes. and went and interrupted Grimstone in there. say the basilisk is escaping, or something.
 [u0869 | 01:27:25.030-01:27:29.319 | Acescale] and then he comes through, and we just just nail him, you know.
 [u0870 | 01:27:31.310-01:27:35.040 | Dilion] like we did with the stairs. Remember that went well.
 [u0871 | 01:27:35.070-01:27:37.180 | Gaudin] that went
@@ -873,12 +873,12 @@
 [u0873 | 01:27:39.140-01:27:51.099 | Acescale] If he's if he's gonna get pissed off and and and be storming through. Maybe he won't be at his most perceptive as opposed to actually opening a door as a group of random
 [u0874 | 01:27:51.290-01:27:55.019 | Gaudin] or not knowing the password and alerting a guard or something.
 [u0875 | 01:27:55.460-01:27:56.460 | Gaudin] Yeah.
-[u0876 | 01:28:00.630-01:28:10.319 | Dilion] yeah. L, lower them out a little bit, the back, the basilisk being loose, definitely. Get some attention for sure
+[u0876 | 01:28:00.630-01:28:10.319 | Dilion] yeah. Lure them out a little bit, the back, the basilisk being loose, definitely. Get some attention for sure
 [u0877 | 01:28:10.950-01:28:13.220 | Acescale] cause he needs it. By the sounds of it.
-[u0878 | 01:28:13.540-01:28:19.280 | Gaudin] I mean, we don't even need, though, like we could just bang on the door and say the Baskolas has escaped.
+[u0878 | 01:28:13.540-01:28:19.280 | Gaudin] I mean, we don't even need, though, like we could just bang on the door and say the basilisk has escaped.
 [u0879 | 01:28:20.680-01:28:23.549 | Loria] I mean, we know he's on the other side of that door.
 [u0880 | 01:28:24.900-01:28:28.670 | Gaudin] We think so. He's looking at his potions.
-[u0881 | 01:28:28.850-01:28:33.640 | DM] There, there's not, there's not doors. These are just corridors, that exile.
+[u0881 | 01:28:28.850-01:28:33.640 | DM] There, there's not, there's not doors. These are just corridors, that exit.
 [u0882 | 01:28:33.840-01:28:39.169 | DM] and some distance to caverns. Then I would I could disguise.
 [u0883 | 01:28:39.350-01:28:40.210 | Unknown] go.
 [u0884 | 01:28:45.320-01:28:49.559 | Loria] Would it help to light any of the straw on fire as part of our plan.
@@ -891,7 +891,7 @@
 [u0891 | 01:29:18.060-01:29:23.459 | Gaudin] I can also misty, step my way over the fire if I need to
 [u0892 | 01:29:23.790-01:29:25.630 | Gaudin] get away from them.
 [u0893 | 01:29:29.050-01:29:33.080 | Acescale] If yeah, if he's got, if he's got like guards with him.
-[u0894 | 01:29:33.100-01:29:41.390 | Acescale] maybe the fire could be used to split them off, or something. If if we had this draw in the corridor and you take the alchemist fire with you.
+[u0894 | 01:29:33.100-01:29:41.390 | Acescale] maybe the fire could be used to split them off, or something. If if we had the straw in the corridor and you take the alchemist fire with you.
 [u0895 | 01:29:42.510-01:29:45.660 | Acescale] you can maybe drop it and and skip up.
 [u0896 | 01:29:47.000-01:29:48.820 | Unknown] Cut some of them off, or something
 [u0897 | 01:29:51.850-01:29:58.750 | Unknown] anything that could have guards. I say, we we spent all of our resources at the point of the trap.
@@ -907,15 +907,15 @@
 [u0907 | 01:30:40.060-01:30:45.019 | Gaudin] they can't get around us. We can focus our attacks. Aoes, acid, splash.
 [u0908 | 01:30:45.780-01:30:47.500 | Gaudin] etc., etc.
 [u0909 | 01:30:47.580-01:30:55.909 | Dilion] Yeah, do we? Do? We have like a tripwire. We wanted to put between 2 these little hallways, all these corridors just to.
-[u0910 | 01:30:56.020-01:31:06.629 | Dilion] I don't know how easy. This put a triple light again. I guess my character would know either. But I have a snare that I can set again, but that would be my last spell. Slot.
+[u0910 | 01:30:56.020-01:31:06.629 | Dilion] I don't know how easy. it is to put a tripwire again. I guess my character wouldn't know either. But I have a snare that I can set again, but that would be my last spell. Slot.
 [u0911 | 01:31:07.430-01:31:09.659 | Dilion] No, I wouldn't want to waste that
-[u0912 | 01:31:14.890-01:31:25.800 | Dilion] just trying to get the like unknowns there. So if we have any plan, and it all just falls pot because we didn't. Consider all the the variables coming at us.
+[u0912 | 01:31:14.890-01:31:25.800 | Dilion] just trying to get the like unknowns there. So if we have any plan, and it all just falls apart because we didn't. Consider all the the variables coming at us.
 [u0913 | 01:31:25.910-01:31:30.810 | Dilion] Oh.
 [u0914 | 01:31:33.180-01:31:34.920 | Dilion] I ain't saw a bad plan
 [u0915 | 01:31:35.350-01:31:39.939 | Gaudin] better than just opening the door and charging in.
 [u0916 | 01:31:41.270-01:31:50.619 | Dilion] Yeah, II think I think, yeah. And then just whoever's coming out, we just start shanking. I guess the the one downside to it would be if
 [u0917 | 01:31:50.890-01:31:56.760 | Unknown] if he is like actively working on a potion. you may not be
-[u0918 | 01:31:57.200-01:32:05.250 | Acescale] kid it out for a fight or an emergency, and if we go in and say, there's an emergency, you may grab a bunch of stuff and start heading out.
+[u0918 | 01:31:57.200-01:32:05.250 | Acescale] kitted out for a fight or an emergency, and if we go in and say, there's an emergency, you may grab a bunch of stuff and start heading out.
 [u0919 | 01:32:05.600-01:32:08.440 | Unknown] I can try to express the urgency of it
 [u0920 | 01:32:10.710-01:32:11.440 | Unknown] like.
 [u0921 | 01:32:16.620-01:32:20.490 | Gaudin] yeah, what's he's a wizard. How much equipment does he need?
@@ -925,20 +925,20 @@
 [u0925 | 01:32:44.110-01:32:45.210 | Unknown] assembly?
 [u0926 | 01:32:49.050-01:32:54.540 | Gaudin] What's your plan? Do we do we do we vote on this?
 [u0927 | 01:32:55.520-01:32:59.200 | Gaudin] I mean, I'm fine with this. Yeah.
-[u0928 | 01:32:59.360-01:33:05.199 | Unknown] I will knock on the door as the deuce this guy! So the Baskolis has escaped.
-[u0929 | 01:33:05.760-01:33:16.349 | Gaudin] So so it's not remember it's not a door, it's just a oh, sorry door, so it's a corridor. I will start screaming the vasculus, the vasculus, and I'll run in. I don't have his voice
+[u0928 | 01:32:59.360-01:33:05.199 | Unknown] I will knock on the door as the deuce this guy! So the basilisk has escaped.
+[u0929 | 01:33:05.760-01:33:16.349 | Gaudin] So so it's not remember it's not a door, it's just a oh, sorry door, so it's a corridor. I will start screaming the basilisk, the basilisk, and I'll run in. I don't have his voice
 [u0930 | 01:33:18.260-01:33:35.770 | Acescale] head down the corridor, and we've before he leaves we would set up some sort of like straw situation that would create a a pretty big fireball when alchemist fire hits it.
 [u0931 | 01:33:35.920-01:33:41.180 | Acescale] That would be where they're going to walk through to get back out of the corridor.
 [u0932 | 01:33:41.430-01:33:42.420 | Unknown] Okay?
 [u0933 | 01:33:43.790-01:33:45.090 | Unknown] And you.
-[u0934 | 01:33:45.560-01:33:54.009 | DM] John, you disguise gout and disguises himself as this guy who just ran off, who shortly is gonna come to a
-[u0935 | 01:33:54.840-01:33:58.779 | DM] tavern with no guards, and perhaps wonder
+[u0934 | 01:33:45.560-01:33:54.009 | DM] John, you disguise Gaudin disguises himself as this guy who just ran off, who shortly is gonna come to a
+[u0935 | 01:33:54.840-01:33:58.779 | DM] cavern with no guards, and perhaps wonder
 [u0936 | 01:33:59.040-01:34:09.850 | DM] what happened to the guards. But that's a problem. For a few minutes. 30 s, or however long it takes.
 [u0937 | 01:34:10.230-01:34:11.030 | Loria] Okay.
-[u0938 | 01:34:11.450-01:34:20.219 | Acescale] and the rest of us are are hidden out of sight like along the wall that the corridor is the end of oh! So the corridor is lit by torque light.
+[u0938 | 01:34:11.450-01:34:20.219 | Acescale] and the rest of us are are hidden out of sight like along the wall that the corridor is the end of oh! So the corridor is lit by torchlight.
 [u0939 | 01:34:20.780-01:34:24.310 | DM] and you walk down it. It goes about
 [u0940 | 01:34:24.380-01:34:29.140 | DM] 20 feet, and then curves and descends slightly. I have
-[u0941 | 01:34:29.250-01:34:35.499 | DM] As Gordon comes around the bend of the corridor you can see that it
+[u0941 | 01:34:29.250-01:34:35.499 | DM] As Gaudin comes around the bend of the corridor you can see that it
 [u0942 | 01:34:35.540-01:34:40.599 | DM] opens up about 20 feet ahead of you. So about 40 feet in total from the
 [u0943 | 01:34:40.950-01:34:45.189 | Unknown] this, like entry room where this guy was was.
 [u0944 | 01:34:45.650-01:34:55.000 | DM] And you're looking into a cave like a natural cavern, but the floor has been completely smooth and cleared, and there are
@@ -951,21 +951,21 @@
 [u0951 | 01:35:39.260-01:35:41.610 | DM] And there's a man
 [u0952 | 01:35:41.790-01:35:47.429 | DM] sitting at the bench. He's wearing this white marble mask he's got like a sort of frizz of hair
 [u0953 | 01:35:47.520-01:35:55.170 | DM] above the mask curled up, and he's sort of muttering to himself as he
-[u0954 | 01:35:55.490-01:36:04.019 | DM] carefully. He's wearing like robes, but also he's got what looks like a ocean bandelier like strung across his
+[u0954 | 01:35:55.490-01:36:04.019 | DM] carefully. He's wearing like robes, but also he's got what looks like a potion bandolier like strung across his
 [u0955 | 01:36:04.230-01:36:05.820 | Unknown] his chest.
 [u0956 | 01:36:06.100-01:36:08.760 | DM] And he's just he's like muttering to himself.
 [u0957 | 01:36:08.830-01:36:16.750 | DM] Maybe this is it? Maybe maybe I found it this time. Yes, yes, he picks up a little pinch and drops it in.
 [u0958 | 01:36:16.760-01:36:24.449 | Unknown] And there's like this. This puffing is like very close, very close. Think. think it's the right combination. I just need to mix
 [u0959 | 01:36:24.850-01:36:29.870 | DM] the right bones. No stones or bones or stones. Yes.
 [u0960 | 01:36:30.740-01:36:35.649 | Gaudin] fingers and toes, my friends sprinkling, sprinkling, sir, sir.
-[u0961 | 01:36:37.070-01:36:44.599 | DM] you don't interrupt me, and he grabs a potion. He hooks it up. Make a dexterity.
+[u0961 | 01:36:37.070-01:36:44.599 | DM] you don't interrupt me, and he grabs a potion. He hucks it. Make a dexterity.
 [u0962 | 01:36:47.200-01:36:49.030 | Dilion] I mean fun, but
 [u0963 | 01:36:49.170-01:36:50.740 | Acescale] good saved!
 [u0964 | 01:36:50.960-01:36:53.589 | DM] Good save
 [u0965 | 01:36:54.470-01:36:55.780 | Unknown] You take
 [u0966 | 01:36:57.280-01:37:00.539 | DM] 7 points of fire damage
-[u0967 | 01:37:00.660-01:37:03.799 | Unknown] as this potion-yuck. You explodes
-[u0968 | 01:37:05.350-01:37:10.570 | Gaudin] and he yells, get out! Now, you may have ruined this. the basilis. It's escaped.
+[u0967 | 01:37:00.660-01:37:03.799 | Unknown] as this potion he hucked at you explodes
+[u0968 | 01:37:05.350-01:37:10.570 | Gaudin] and he yells, get out! Now, you may have ruined this. the basilisk. It's escaped.
 [u0969 | 01:37:11.160-01:37:13.469 | Unknown] That's what I pay them for. Now leave.
 [u0970 | 01:37:14.430-01:37:20.559 | DM] and he starts working. I think I think he ruined. I think he ruined it. I think he ruined it.
 [u0971 | 01:37:20.580-01:37:24.479 | Gaudin] I'm running out now
@@ -988,10 +988,10 @@
 [u0988 | 01:38:26.580-01:38:29.569 | Dilion] Yeah. And
 [u0989 | 01:38:30.210-01:38:31.500 | Unknown] probably
 [u0990 | 01:38:32.530-01:38:43.350 | Acescale] I look at the Burns. I was like, how did he hit you? He has like potion grenades, a lot of maybe maybe we stay a little distance from each other.
-[u0991 | 01:38:43.450-01:38:47.339 | Gaudin] Yeah, it was about a 10 foot explosion when the person landed.
+[u0991 | 01:38:43.450-01:38:47.339 | Gaudin] Yeah, it was about a 10 foot explosion when the potion landed.
 [u0992 | 01:38:47.350-01:38:51.540 | Acescale] Let's stay a long distance from each other.
-[u0993 | 01:38:51.640-01:38:55.300 | Loria] This does anybody have a heel?
-[u0994 | 01:38:55.560-01:38:58.210 | Gaudin] If you need a saber slots. That's fine.
+[u0993 | 01:38:51.640-01:38:55.300 | Loria] This does anybody have a heal?
+[u0994 | 01:38:55.560-01:38:58.210 | Gaudin] If you need to save your slots. That's fine.
 [u0995 | 01:38:59.010-01:39:03.689 | Loria] Have a spell scroll, true, but
 [u0996 | 01:39:05.010-01:39:06.400 | Loria] I don't know what it is.
 [u0997 | 01:39:06.710-01:39:08.069 | DM] It's cure wounds.
@@ -1012,29 +1012,29 @@
 [u1012 | 01:40:19.140-01:40:29.779 | Acescale] I could. He doesn't immediately turn around and come and fight us, and he goes back and gets that whole group of hobgoblins from the armory. That's what I'm worried about.
 [u1013 | 01:40:29.800-01:40:37.700 | Acescale] Then, even if we have a decent fight against this guy, we may get ambushed by 8 hobgoblins on the way out. I think we should just go kill him.
 [u1014 | 01:40:42.570-01:40:50.430 | Dilion] Yeah. And then we could just put these like the the main, the the potion grenade man has like a robe or something. I'm sure we could just
-[u1015 | 01:40:50.700-01:40:52.110 | Unknown] chuck that odd and
-[u1016 | 01:40:52.400-01:40:55.310 | Dilion] punch over something and be like
+[u1015 | 01:40:50.700-01:40:52.110 | Unknown] chuck that on and
+[u1016 | 01:40:52.400-01:40:55.310 | Dilion] hunch over something and be like
 [u1017 | 01:40:55.810-01:41:01.989 | Dilion] it's all going badly. You should leave, or something, so we could imitate it a little bit
 [u1018 | 01:41:02.230-01:41:10.620 | Dilion] grouchy potion man, I'm sure, between Acescale and Gaudin we can make something work.
 [u1019 | 01:41:12.030-01:41:16.560 | Gaudin] So what do we do? We really take care of the
 [u1020 | 01:41:17.330-01:41:18.839 | Unknown] the muscle first.
 [u1021 | 01:41:20.700-01:41:30.690 | Acescale] I think so. He's not going. And the the potion guys not going anywhere change unless he cures unless he, unless he becomes immortal in the next, like
 [u1022 | 01:41:30.770-01:41:33.390 | Acescale] literally 2 min of battle.
-[u1023 | 01:41:33.620-01:41:38.109 | Gaudin] Was there anybody else in the post-it room that I saw?
+[u1023 | 01:41:33.620-01:41:38.109 | Gaudin] Was there anybody else in the potion room that I saw?
 [u1024 | 01:41:38.730-01:41:43.479 | DM] There were no other people. There were 2 statues of
 [u1025 | 01:41:43.640-01:41:47.550 | Unknown] likes like One of them looked like
 [u1026 | 01:41:47.860-01:41:53.130 | DM] like a wasp that was about 3 feet long, super, life-like.
 [u1027 | 01:41:53.160-01:41:56.209 | DM] The other was a
-[u1028 | 01:41:56.360-01:42:08.370 | Gaudin] fairly large spider, also about 3 feet long, but they look like stone statues. There wasn't anybody else moving. Okay, they were the only intact statute in the room. Everything else was like pieces of statue.
+[u1028 | 01:41:56.360-01:42:08.370 | Gaudin] fairly large spider, also about 3 feet long, but they look like stone statues. There wasn't anybody else moving. Okay, they were the only intact statues in the room. Everything else was like pieces of statue.
 [u1029 | 01:42:08.960-01:42:14.969 | Gaudin] Okay? So I would like to do is we could I wanna disguise self as the potion guy
 [u1030 | 01:42:14.990-01:42:24.819 | Gaudin] run after the doofus guy and told him to go run back into the room and grab the stone spider and then let the potion. Guy attack him.
 [u1031 | 01:42:26.010-01:42:30.050 | Unknown] enraged because he already saw him interrupt him once. And now he's coming back again.
 [u1032 | 01:42:30.310-01:42:32.899 | Loria] That'd be funny.
 [u1033 | 01:42:33.180-01:42:40.359 | Gaudin] I mean, the worst side is with 2 of them at once, but like I don't think they'll be working together, and you'll be injured.
-[u1034 | 01:42:40.450-01:42:47.900 | Acescale] if not, dad, and maybe he's dropped a couple of his fireball potions on his on his own underlay.
+[u1034 | 01:42:40.450-01:42:47.900 | Acescale] if not, dead, and maybe he's dropped a couple of his fireball potions on his on his own underling.
 [u1035 | 01:42:48.940-01:42:50.750 | Unknown] Yeah, that's fun.
 [u1036 | 01:42:51.180-01:43:00.460 | Gaudin] Okay. So I finished the whole brandy and okay. So I disguise self as old potion man.
-[u1037 | 01:43:00.540-01:43:07.039 | Gaudin] Well, we'll go down some of the other quarters. So we're completely out of the way. Yeah, got it. Okay?
+[u1037 | 01:43:00.540-01:43:07.039 | Gaudin] Well, we'll go down some of the other corridors. So we're completely out of the way. Yeah, got it. Okay?
 [u1038 | 01:43:07.110-01:43:10.470 | Gaudin] And then I chase after him.
 [u1039 | 01:43:10.930-01:43:13.329 | Dilion] Okay, pulling a little weight, and
 [u1040 | 01:43:14.260-01:43:24.300 | DM] you run back down the corridor and you see him kind of standing like scratching his head in the middle of the of the cavern.
@@ -1055,7 +1055,7 @@
 [u1055 | 01:44:25.890-01:44:30.310 | DM] Sniffing a little bit like just kind of
 [u1056 | 01:44:33.680-01:44:35.220 | Unknown] who are you.
 [u1057 | 01:44:39.200-01:44:40.860 | Gaudin] i'm his new minion.
-[u1058 | 01:44:43.360-01:44:48.450 | Dilion] no, I don't think so. Role initiative.
+[u1058 | 01:44:43.360-01:44:48.450 | Dilion] no, I don't think so. Roll initiative.
 [u1059 | 01:44:49.000-01:44:58.370 | Dilion] where this is all you but I would split the party, one in 3.
 [u1060 | 01:44:58.480-01:44:59.160 | Unknown] Hmm.
 [u1061 | 01:45:00.340-01:45:03.590 | Gaudin] Okay, 10 feet away.
@@ -1070,10 +1070,10 @@
 [u1070 | 01:45:46.370-01:45:50.820 | Gaudin] down the alley or down the the corridor towards everybody else.
 [u1071 | 01:45:50.990-01:45:56.940 | Gaudin] And then when I get at the end, then I use either. I misty step
 [u1072 | 01:45:57.120-01:45:58.590 | Unknown] the last
-[u1073 | 01:45:59.120-01:46:12.169 | DM] 30 feet. Okay. So the rest of you just see gout in materialize back in the torchlet corridor
+[u1073 | 01:45:59.120-01:46:12.169 | DM] 30 feet. Okay. So the rest of you just see Gaudin materialize back in the torchlit corridor
 [u1074 | 01:46:12.670-01:46:13.970 | Unknown] suddenly
 [u1075 | 01:46:13.980-01:46:17.389 | Gaudin] not good.
-[u1076 | 01:46:17.440-01:46:21.049 | DM] and you hear the fighting sound of
+[u1076 | 01:46:17.440-01:46:21.049 | DM] and you hear the thudding sound of
 [u1077 | 01:46:22.090-01:46:25.279 | DM] footsteps. Somebody running
 [u1078 | 01:46:25.780-01:46:27.239 | DM] in the other direction.
 [u1079 | 01:46:28.430-01:46:31.959 | Dilion] Unleash the dog, unleash the dog.
@@ -1087,43 +1087,43 @@
 [u1087 | 01:47:14.240-01:47:17.280 | DM] turns. and that
 [u1088 | 01:47:18.600-01:47:20.330 | Unknown] you came from.
 [u1089 | 01:47:23.520-01:47:24.880 | DM] And
-[u1090 | 01:47:26.820-01:47:30.189 | DM] Gordon just materializes right here.
+[u1090 | 01:47:26.820-01:47:30.189 | DM] Gaudin just materializes right here.
 [u1091 | 01:47:31.730-01:47:35.459 | DM] we don't need that shade anymore.
 [u1092 | 01:47:35.650-01:47:38.459 | Acescale] We'd be off on the the side ones like here.
 [u1093 | 01:47:38.470-01:47:40.440 | DM] yeah, you'd be off
 [u1094 | 01:47:42.050-01:47:44.980 | DM] like there, or you could be further back.
 [u1095 | 01:47:46.840-01:47:48.920 | DM] And suddenly boom!
-[u1096 | 01:47:49.050-01:48:16.849 | DM] Gaudin is in the middle of the room, and you hear the budding footsteps of somebody running. I think it's probably easier to have initiative. Just have this starts.
-[u1097 | 01:48:17.600-01:48:24.600 | DM] But at the moment you're all other than Gowing, you're all kind of hidden down the corridor.
+[u1096 | 01:47:49.050-01:48:16.849 | DM] Gaudin is in the middle of the room, and you hear the thudding footsteps of somebody running. I think it's probably easier to have initiative. Just have this starts.
+[u1097 | 01:48:17.600-01:48:24.600 | DM] But at the moment you're all other than Gaudin, you're all kind of hidden down the corridor.
 [u1098 | 01:48:27.160-01:48:28.630 | DM] Yeah?
 [u1099 | 01:48:29.720-01:48:32.619 | Dilion] Oh, 22.
-[u1100 | 01:48:33.540-01:48:37.000 | DM] So, Dylan, you're 21. Sorry
-[u1101 | 01:48:37.190-01:48:39.110 | DM] Europe and Earth
-[u1102 | 01:48:39.150-01:48:40.570 | DM] Cowden.
+[u1100 | 01:48:33.540-01:48:37.000 | DM] So, Dilion, you're 21. Sorry
+[u1101 | 01:48:37.190-01:48:39.110 | DM] You're up, and then
+[u1102 | 01:48:39.150-01:48:40.570 | DM] Gaudin.
 [u1103 | 01:48:44.160-01:48:47.579 | DM] I didn't see what everybody else rolled. Sorry.
 [u1104 | 01:48:48.150-01:48:49.570 | DM] 14,
-[u1105 | 01:48:51.690-01:48:55.259 | Dilion] though. You guys have done well on the mission, have you all?
+[u1105 | 01:48:51.690-01:48:55.259 | Dilion] though. You guys have done well on the initiative, have you all?
 [u1106 | 01:48:55.270-01:48:56.860 | DM] You're all beaten
 [u1107 | 01:49:00.150-01:49:12.979 | DM] so basically you can all I mean, you might want to like ready actions, for when you see him instead of do it, or you can charge out, it's up to you at the moment you can't see him, but you can hear him running in this direction.
-[u1108 | 01:49:13.110-01:49:17.600 | DM] So Dylan first.
+[u1108 | 01:49:13.110-01:49:17.600 | DM] So Dilion first.
 [u1109 | 01:49:19.620-01:49:28.150 | Dilion] Oh, so I'm not mistaken. 40 feet would get to him. But I guess we kind of want to get to this little
 [u1110 | 01:49:28.320-01:49:31.040 | Dilion] area first. That's sort of the plan here
 [u1111 | 01:49:31.290-01:49:32.340 | Loria] like this.
 [u1112 | 01:49:33.170-01:49:35.179 | Dilion] with the flank and the whole lot.
 [u1113 | 01:49:35.300-01:49:47.459 | Dilion] I mean, I'll let my dog know to. I'll I mean I'll come out, can I? Can I walk over my dog? Is that gonna cost me some extra. That's just it's 5 feet of activity.
 [u1114 | 01:49:47.580-01:49:50.969 | Dilion] I'll tell my dog.
-[u1115 | 01:49:52.200-01:49:55.429 | Dilion] Go on the other side of the whole way and
+[u1115 | 01:49:52.200-01:49:55.429 | Dilion] Go on the other side of the hallway and
 [u1116 | 01:49:55.690-01:50:02.409 | Dilion] nibble the strange man
 [u1117 | 01:50:02.790-01:50:12.130 | Dilion] to our guests. I'm gonna go 5. So I imagine you can't see me. But I'll go
 [u1118 | 01:50:12.670-01:50:16.720 | Dilion] here, and my plan is to or I'll at least I'll go like
 [u1119 | 01:50:17.160-01:50:19.040 | Unknown] out of sight a little bit.
-[u1120 | 01:50:19.670-01:50:25.650 | Dilion] and just like really in action, in case the strange, hostile man comes into view to like
+[u1120 | 01:50:19.670-01:50:25.650 | Dilion] and just like ready an action, in case the strange, hostile man comes into view to like
 [u1121 | 01:50:25.710-01:50:29.699 | Dilion] attacking, whether that will get triggered or not is sort of.
 [u1122 | 01:50:30.080-01:50:31.280 | Unknown] and I'll hold safe.
 [u1123 | 01:50:32.940-01:50:35.639 | Dilion] Okay? And then my dog is just gonna
 [u1124 | 01:50:35.830-01:50:40.270 | Dilion] go on this side. Read, to quote unquote
 [u1125 | 01:50:40.350-01:50:46.189 | DM] nibble the strange man
-[u1126 | 01:50:46.220-01:50:48.100 | Unknown] already across Fobold.
+[u1126 | 01:50:46.220-01:50:48.100 | Unknown] I'll ready a crossbow bolt.
 [u1127 | 01:50:48.450-01:50:49.380 | DM] Okay.
 [u1128 | 01:50:53.510-01:50:54.390 | Unknown] got it?
 [u1129 | 01:50:55.170-01:50:58.870 | Gaudin] can I move? Yeah.
@@ -1140,20 +1140,20 @@
 [u1140 | 01:51:37.170-01:51:40.309 | Unknown] and it just takes one look
 [u1141 | 01:51:42.580-01:51:44.569 | DM] not worth it. 6,
 [u1142 | 01:51:44.890-01:51:49.550 | DM] 789-10-1112.
-[u1143 | 01:51:54.480-01:52:01.629 | Acescale] Then I can I shoot when he becomes anybody who wants to shoot before he turns and please is welcome to do so.
+[u1143 | 01:51:54.480-01:52:01.629 | Acescale] Then I can I shoot when he becomes anybody who wants to shoot before he turns and flees is welcome to do so.
 [u1144 | 01:52:02.780-01:52:08.209 | Gaudin] Well, can we all do a round and see how we get, because we're all loaded up.
 [u1145 | 01:52:08.760-01:52:13.400 | DM] Yeah, yeah. So everybody can trigger their actions as he comes into the room.
-[u1146 | 01:52:13.690-01:52:15.410 | Unknown] I'll elder fast
+[u1146 | 01:52:13.690-01:52:15.410 | Unknown] I'll Eldritch Blast
 [u1147 | 01:52:15.590-01:52:17.250 | DM] 23 that hits.
-[u1148 | 01:52:19.780-01:52:21.699 | Unknown] That wasn't. That was crossbar sorry
-[u1149 | 01:52:23.960-01:52:25.890 | DM] in scale. So
+[u1148 | 01:52:19.780-01:52:21.699 | Unknown] That wasn't. That was crossbow sorry
+[u1149 | 01:52:23.960-01:52:25.890 | DM] Acescale. So
 [u1150 | 01:52:26.770-01:52:29.550 | Unknown] so how far? And did he get? Did he get like, right? Like.
 [u1151 | 01:52:30.200-01:52:32.049 | DM] he came right there? Yeah.
 [u1152 | 01:52:33.220-01:52:35.529 | Unknown] Okay. But he's good.
 [u1153 | 01:52:35.600-01:52:43.480 | DM] Dash away! I imagine Danny's dashing away. Yup! Anybody who wants to
 [u1154 | 01:52:43.660-01:52:45.820 | Unknown] trigger their ready actions.
 [u1155 | 01:52:46.150-01:52:58.219 | Dilion] I think mine would. It would be the stand. My dog would probably do. Then just chase after him. I don't think the dog would like get their really reaction.
-[u1156 | 01:52:58.400-01:53:02.369 | DM] I think that's probably fair. You have a dark and ready in action.
+[u1156 | 01:52:58.400-01:53:02.369 | DM] I think that's probably fair. You have a dog ready an action.
 [u1157 | 01:53:04.980-01:53:09.170 | DM] that hits.
 [u1158 | 01:53:10.390-01:53:14.810 | Unknown] Yeah. I'm gonna that's yeah. That's like a 21 or something. Yeah.
 [u1159 | 01:53:16.250-01:53:17.850 | Unknown] there we go.
@@ -1166,15 +1166,15 @@
 [u1166 | 01:53:55.230-01:54:02.359 | DM] There we go. Dog is also a plus is A. d8 is a d8 plus plus 4. I believe
 [u1167 | 01:54:03.410-01:54:10.289 | Dilion] I think it's only plus 2 sorry, plus 2 proficiency bonus. Yes, a 7 matches.
 [u1168 | 01:54:10.420-01:54:11.490 | Unknown] There you go.
-[u1169 | 01:54:11.670-01:54:20.790 | DM] Okay, Loria. You don't get to make your bonus action attack, but you can still make your regular short sort of regular short sword
+[u1169 | 01:54:11.670-01:54:20.790 | DM] Okay, Loria. You don't get to make your bonus action attack, but you can still make your regular short sword, a regular short sword
 [u1170 | 01:54:24.260-01:54:27.109 | DM] 11 misses.
 [u1171 | 01:54:27.520-01:54:30.520 | Loria] Oh, okay. Well, then, I don't have anything on him
 [u1172 | 01:54:31.930-01:54:32.950 | Unknown] running.
 [u1173 | 01:54:36.850-01:54:41.410 | Unknown] He basically comes into the room. He's like. not worth it.
-[u1174 | 01:54:42.290-01:54:48.160 | DM] We do have each other turns, and he runs. You're welcome to transact them if you want.
+[u1174 | 01:54:42.290-01:54:48.160 | DM] We do have each other turns, and he runs. You're welcome to chase after him if you want.
 [u1175 | 01:54:48.470-01:54:53.549 | DM] He seems pretty wounded from that round of attacks, but now he's in a narrow corner, so
 [u1176 | 01:54:53.870-01:54:55.050 | Unknown] harder to.
-[u1177 | 01:54:56.350-01:55:09.269 | Acescale] for for those people who were in melee with him when he came in. Did they get opportunity? It uses your reaction to trigger your witness. You don't have a reaction for an opportunity tech as well.
+[u1177 | 01:54:56.350-01:55:09.269 | Acescale] for for those people who were in melee with him when he came in. Did they get opportunity? It uses your reaction to trigger your readied action. You don't have a reaction for an opportunity attack as well.
 [u1178 | 01:55:09.430-01:55:10.239 | Dilion] take care.
 [u1179 | 01:55:13.280-01:55:17.400 | Gaudin] Say, we let sleeping dogs lie for this one.
 [u1180 | 01:55:18.460-01:55:23.890 | Loria] Yeah, I don't even know if he'll know what to say if he does
@@ -1184,14 +1184,14 @@
 [u1184 | 01:55:39.660-01:55:44.300 | Acescale] I think I'd wanna I'd want to finish him off. So I chase after him with the dog.
 [u1185 | 01:55:44.710-01:55:45.650 | DM] Yeah.
 [u1186 | 01:55:47.050-01:55:52.440 | Dilion] And the dogs got 6. I got a 40 foot standard movement. So I mean.
-[u1187 | 01:55:53.280-01:56:01.170 | Dilion] it's gonna chase after him. Pretty good. So yeah, I think if it's my 10 they're on my own.
+[u1187 | 01:55:53.280-01:56:01.170 | Dilion] it's gonna chase after him. Pretty good. So yeah, I think if it's my turn they're on my own.
 [u1188 | 01:56:01.670-01:56:03.600 | Dilion] I would just tell the dog to
 [u1189 | 01:56:03.640-01:56:06.709 | Dilion] chase after him until he climbs
 [u1190 | 01:56:07.120-01:56:21.700 | Dilion] the ladder. I think it's the only way out. Is that the only way out from from that direction, and then come back when you're when you're satisfied. No, wait. Have the dog just rip down the
 [u1191 | 01:56:23.090-01:56:29.369 | Gaudin] stupid
 [u1192 | 01:56:29.900-01:56:39.730 | Gaudin] we need to get them to later. I can misty step over or something, and you can pass it up, or how it's tomorrow's problem.
 [u1193 | 01:56:40.030-01:56:43.950 | Gaudin] I mean. But the new does come back. I don't know.
-[u1194 | 01:56:43.960-01:56:48.110 | Dilion] Rip and tear him, or the letter go.
+[u1194 | 01:56:43.960-01:56:48.110 | Dilion] Rip and tear him, or the ladder go.
 [u1195 | 01:56:49.300-01:56:53.809 | Dilion] So I guess. 5, 10, the 15,
 [u1196 | 01:56:54.250-01:56:57.020 | Dilion] 20, I mean 20 oops.
 [u1197 | 01:56:57.530-01:56:58.710 | Dilion] Pretty science
@@ -1201,20 +1201,20 @@
 [u1201 | 01:57:11.750-01:57:16.150 | Dilion] too hungry can't bite properly. Yup.
 [u1202 | 01:57:18.430-01:57:21.209 | DM] Anybody else chasing after him?
 [u1203 | 01:57:22.140-01:57:27.670 | Loria] Loria.
-[u1204 | 01:57:29.640-01:57:34.520 | Gaudin] I'll try one more passing Eldridge blast. Can I get close enough to blast him down the corridor.
+[u1204 | 01:57:29.640-01:57:34.520 | Gaudin] I'll try one more passing Eldritch blast. Can I get close enough to blast him down the corridor.
 [u1205 | 01:57:35.750-01:57:36.520 | DM] Okay?
 [u1206 | 01:57:37.920-01:57:42.649 | DM] yeah. If you got to. There he'd have. He'd have
-[u1207 | 01:57:42.880-01:57:44.869 | Gaudin] half. However, yeah.
+[u1207 | 01:57:42.880-01:57:44.869 | Gaudin] half cover, yeah.
 [u1208 | 01:57:45.090-01:57:46.520 | Gaudin] so disadvantage.
-[u1209 | 01:57:47.720-01:57:54.710 | Gaudin] Now, it gives them a plus 2 days. Okay. or you can't both be in that spot.
+[u1209 | 01:57:47.720-01:57:54.710 | Gaudin] Now, it gives them a plus 2 AC. Okay. or you can't both be in that spot.
 [u1210 | 01:57:54.940-01:57:59.030 | DM] One of you is gonna have only one of you can get a clear shot at him.
-[u1211 | 01:58:00.970-01:58:04.019 | DM] Oh, what the lizard. Manhattan.
+[u1211 | 01:58:00.970-01:58:04.019 | DM] Oh, let the lizard man have it.
 [u1212 | 01:58:04.470-01:58:12.749 | Gaudin] do you only get one blast, or do you get 2? Right now? I only get one right now. Okay, I yeah. I get a oned 10 plus 3.
 [u1213 | 01:58:12.830-01:58:19.890 | Acescale] You can both take a shot, but but Gaudin, you, you take. You take the better one. You go for it. Okay.
-[u1214 | 01:58:22.510-01:58:25.960 | Gaudin] Wish me to lock my dark patrons
+[u1214 | 01:58:22.510-01:58:25.960 | Gaudin] Wish me luck my dark patrons
 [u1215 | 01:58:31.940-01:58:33.260 | DM] that hits.
 [u1216 | 01:58:37.700-01:58:40.030 | DM] He's badly wounded.
-[u1217 | 01:58:42.430-01:58:45.109 | DM] Not quite, dad, but looking quite hurt.
+[u1217 | 01:58:42.430-01:58:45.109 | DM] Not quite, dead, but looking quite hurt.
 [u1218 | 01:58:45.300-01:58:48.059 | Acescale] I'll take the crossbow shot.
 [u1219 | 01:58:48.400-01:58:51.020 | DM] Okay, this one is gonna be partial cover.
 [u1220 | 01:58:51.180-01:58:52.070 | Acescale] Okay.
@@ -1222,19 +1222,19 @@
 [u1222 | 01:58:57.400-01:58:59.450 | DM] I didn't see it in the world, but
 [u1223 | 01:58:59.660-01:59:04.050 | Acescale] it would be a 16 A/C with partial cover.
 [u1224 | 01:59:04.200-01:59:04.860 | Gaudin] Hmm.
-[u1225 | 01:59:08.970-01:59:22.349 | DM] I think the dog should be able to take care of him now, if he's mostly dead. So so as this Eldred blast hits him, he just like collapses on his knees and like, No, no, please stop, I don't wanna die.
+[u1225 | 01:59:08.970-01:59:22.349 | DM] I think the dog should be able to take care of him now, if he's mostly dead. So so as this Eldritch blast hits him, he just like collapses on his knees and like, No, no, please stop, I don't wanna die.
 [u1226 | 01:59:23.530-01:59:24.860 | Gaudin] Hmm!
 [u1227 | 01:59:25.460-01:59:29.440 | Dilion] That's not what the dog the dog cannot talk back, and was not instructed to.
 [u1228 | 01:59:31.680-01:59:33.110 | Gaudin] She's talking
-[u1229 | 01:59:33.310-01:59:38.940 | DM] dark and kill them if you want to. It's top of the round now. So that's Dylan's turn.
+[u1229 | 01:59:33.310-01:59:38.940 | DM] dog can kill him if you want to. It's top of the round now. So that's Dilion's turn.
 [u1230 | 01:59:39.090-01:59:40.999 | Dilion] Yeah. Dogs!
-[u1231 | 01:59:45.260-01:59:52.160 | DM] That misses! Oh, no, that hits, because that's a puzzle. Okay, the dog's gonna murder him in cold blood.
+[u1231 | 01:59:45.260-01:59:52.160 | DM] That misses! Oh, no, that hits, because that's a plus four. Okay, the dog's gonna murder him in cold blood.
 [u1232 | 01:59:52.530-01:59:54.270 | Dilion] The dog is already
 [u1233 | 01:59:54.290-02:00:05.860 | DM] an amalgamation of machine. I mean, he's probably killed lots of people. That's how Gaudin justified this to himself.
-[u1234 | 02:00:05.980-02:00:20.029 | DM] So as he's kneeling down like his hands up, please don't kill me. The steam puff just leaps at his chest, knocks, knocking him down, and his head whacks the back of the
+[u1234 | 02:00:05.980-02:00:20.029 | DM] So as he's kneeling down like his hands up, please don't kill me. The steampup just leaps at his chest, knocks, knocking him down, and his head whacks the back of the
 [u1235 | 02:00:20.130-02:00:24.230 | DM] the corridor. You can see the light fade from his eyes.
 [u1236 | 02:00:26.320-02:00:31.300 | Gaudin] That's dark. Well, at least he won't be calling for help.
-[u1237 | 02:00:32.830-02:00:39.299 | Dilion] The light is still intact then, so you know, wonderful! That's true.
+[u1237 | 02:00:32.830-02:00:39.299 | Dilion] The ladder is still intact then, so you know, wonderful! That's true.
 [u1238 | 02:00:40.630-02:00:43.079 | Gaudin] We only we took no damage.
 [u1239 | 02:00:44.420-02:00:46.330 | Gaudin] and only used
 [u1240 | 02:00:48.000-02:00:50.809 | Gaudin] One's one of my not bad.
@@ -1244,16 +1244,16 @@
 [u1244 | 02:01:16.110-02:01:18.080 | DM] what is it? When now.
 [u1245 | 02:01:18.120-02:01:20.450 | Gaudin] Can I have that healing scroll?
 [u1246 | 02:01:20.650-02:01:27.970 | Loria] Do we ever settle on that? No, yeah. Sorry. I yes, absolutely. It is yours. I thought I had given it to you already.
-[u1247 | 02:01:28.020-02:01:35.299 | Loria] How does that work like? What's it's like heel roll, or it's let me just look up cure wounds real quick.
+[u1247 | 02:01:28.020-02:01:35.299 | Loria] How does that work like? What's it's like heal roll, or it's let me just look up cure wounds real quick.
 [u1248 | 02:01:35.700-02:01:40.470 | DM] One d8, plus your spellcasting modifier, so wisdom would be plus
 [u1249 | 02:01:41.760-02:01:44.939 | DM] 2. So one d8 plus 2.
-[u1250 | 02:01:50.450-02:01:57.640 | DM] So you roll Sarah, and give it to, and then
+[u1250 | 02:01:50.450-02:01:57.640 | DM] So you roll Sara, and give it to, and then
 [u1251 | 02:01:57.820-02:01:59.400 | Loria] a one.
 [u1252 | 02:02:01.390-02:02:08.840 | Loria] that's a 7 plus 2. So 9.
 [u1253 | 02:02:09.120-02:02:10.400 | Gaudin] Nice. Yeah.
 [u1254 | 02:02:11.220-02:02:14.159 | Gaudin] thank you. Feeling refreshed.
 [u1255 | 02:02:16.880-02:02:19.400 | DM] So you're now still back
-[u1256 | 02:02:19.550-02:02:21.400 | DM] in the quarter you started with
+[u1256 | 02:02:19.550-02:02:21.400 | DM] in the corridor you started with
 [u1257 | 02:02:21.700-02:02:24.410 | Gaudin] this passageway to the north
 [u1258 | 02:02:24.610-02:02:30.309 | DM] leads to the alchemy lair and the potion throwing madman
 [u1259 | 02:02:30.460-02:02:35.320 | DM] these 2 passages lead to you are not sure. Why
@@ -1263,7 +1263,7 @@
 [u1263 | 02:02:49.800-02:02:59.209 | Dilion] I'm gonna plan while using the bath.
 [u1264 | 02:07:48.660-02:07:49.520 | DM] Hmm!
 [u1265 | 02:07:51.580-02:07:52.610 | Acescale] Cheers
-[u1266 | 02:08:02.240-02:08:06.279 | Acescale] as a Mike. Can you hear me? Is my thing connected? Can you hear me?
+[u1266 | 02:08:02.240-02:08:06.279 | Acescale] Is the mic. Can you hear me? Is my thing connected? Can you hear me?
 [u1267 | 02:08:09.650-02:08:10.990 | Acescale] Can you hear me or no.
 [u1268 | 02:08:13.050-02:08:14.449 | Acescale] I can't hear you now.
 [u1269 | 02:08:14.570-02:08:15.330 | DM] Oh.
@@ -1273,8 +1273,8 @@
 [u1273 | 02:08:25.750-02:08:29.049 | Acescale] you know. I drink. In the second half of the session.
 [u1274 | 02:08:31.300-02:08:34.900 | DM] You guys are very fast and efficient, though I'm enjoying this.
 [u1275 | 02:08:35.170-02:08:38.109 | Acescale] It's been remarkably
-[u1276 | 02:08:39.160-02:08:48.569 | Acescale] well executed, I would say, or there's been some luck along the way. John keeps getting extremely good roles on his crazy deception plans.
-[u1277 | 02:08:50.730-02:08:57.419 | DM] but actually your roles. There's been some bad roles, but they've mostly been in just amusing circumstances. Not in.
+[u1276 | 02:08:39.160-02:08:48.569 | Acescale] well executed, I would say, or there's been some luck along the way. John keeps getting extremely good rolls on his crazy deception plans.
+[u1277 | 02:08:50.730-02:08:57.419 | DM] but actually your rolls. There's been some bad rolls, but they've mostly been in just amusing circumstances. Not in.
 [u1278 | 02:09:03.230-02:09:03.960 | DM] Aye.
 [u1279 | 02:09:05.150-02:09:06.450 | DM] how's the dog
 [u1280 | 02:09:09.250-02:09:12.030 | Acescale] after chicken and rice all day he
@@ -1283,7 +1283,7 @@
 [u1283 | 02:09:23.410-02:09:25.660 | Acescale] fingers crossed that we're getting it sorted out.
 [u1284 | 02:09:27.130-02:09:27.970 | DM] Yeah.
 [u1285 | 02:09:29.210-02:09:33.879 | Acescale] but I think I'm less concerned than I was this morning, for sure.
-[u1286 | 02:09:42.730-02:09:44.670 | DM] That's the end of the semester, Sarah.
+[u1286 | 02:09:42.730-02:09:44.670 | DM] How's the end of the semester, Sara.
 [u1287 | 02:09:46.380-02:09:50.840 | Loria] you have a lot of grading to do.
 [u1288 | 02:09:51.370-02:09:55.529 | Loria] Yeah. I don't have that many.
 [u1289 | 02:09:55.590-02:10:02.689 | Loria] Well, the problem is my, the final exam that I do have to run this semester isn't until the 20 first.
@@ -1300,19 +1300,19 @@
 [u1300 | 02:10:43.930-02:10:50.969 | Loria] great. And then and then it'll start again on the fourth of January, because so quick.
 [u1301 | 02:10:51.990-02:10:55.580 | Loria] that's so fast you don't have any like break. No.
 [u1302 | 02:10:55.770-02:11:14.890 | Loria] my parents like middle school, and I think, even last year, too. My colleagues, that all have children were saying that we started a week before public schools. So they had like no childcare line, the beginning of the semester last year, and I think it's probably gonna be the same this year.
-[u1303 | 02:11:16.040-02:11:23.790 | Loria] Dylan's in the same boat as me, though. our like. January fourth. Start for the new snack.
+[u1303 | 02:11:16.040-02:11:23.790 | Loria] Dylan's in the same boat as me, though. our like. January fourth. Start for the new semester.
 [u1304 | 02:11:24.070-02:11:32.199 | Dilion] Yeah, I got a class on on the fourth of January. I get back in the country on the second, and then teach on the Thursday, and like
 [u1305 | 02:11:32.370-02:11:41.849 | Dilion] I have 4 and a half hours of lecture on the Thursday on January. I mean, you're not gonna like show, like proper stuff. It's gonna be like.
-[u1306 | 02:11:41.860-02:11:44.219 | Dilion] Hey, welcome to the chorus.
+[u1306 | 02:11:41.860-02:11:44.219 | Dilion] Hey, welcome to the course.
 [u1307 | 02:11:44.270-02:11:56.150 | Loria] No, I do.
-[u1308 | 02:11:56.160-02:12:06.120 | Loria] Yeah, I'll double check. But I'm pretty sure the fourth, which is the mapped it out this week, and cried a little bit in my office.
+[u1308 | 02:11:56.160-02:12:06.120 | Loria] Yeah, I'll double check. But I'm pretty sure the fourth, which is—I mapped it out this week, and cried a little bit in my office.
 [u1309 | 02:12:07.810-02:12:10.909 | Dilion] but, like even the students are like like.
 [u1310 | 02:12:10.980-02:12:23.529 | Dilion] we don't have time to waste like we need to use every single like class time that we can.
 [u1311 | 02:12:23.760-02:12:30.269 | Gaudin] That's why I teach for 4 and a half hours on January fourth, and it can't just be like, here's the syllabus go home.
 [u1312 | 02:12:31.280-02:12:35.440 | Loria] It's the worst anyways. Yes, semester is great.
 [u1313 | 02:12:35.830-02:12:42.729 | Loria] Then I was probably expecting for that answer. But
 [u1314 | 02:12:43.220-02:12:51.329 | Dilion] I'm definitely not doing a hard session. Hard class that first Thursday. I'm gonna keep it easy and breezy.
-[u1315 | 02:12:52.800-02:12:54.090 | Loria] Sorry, Sarah.
+[u1315 | 02:12:52.800-02:12:54.090 | Loria] Sorry, Sara.
 [u1316 | 02:12:55.010-02:13:10.379 | Loria] but caps on that first day. That's why. Yeah, we don't need to do this so sorry everybody else
 [u1317 | 02:13:10.390-02:13:21.340 | DM] they remember there's some marking to do, and they go up the road. I'm sure it'll be fine.
 [u1318 | 02:13:21.470-02:13:24.209 | Dilion] That's what I call my.
@@ -1327,7 +1327,7 @@
 [u1327 | 02:14:02.820-02:14:09.619 | Dilion] There's a lot of alchemy stuff, and we have an alchemist man, and he could just go
 [u1328 | 02:14:09.680-02:14:24.539 | Dilion] lab, boom, boom. I mean carbon monoxide poisoning in an enclosed space. When this fire going, we're gonna ignore that. We're gonna assume there's enough insulation.
 [u1329 | 02:14:24.800-02:14:37.059 | Gaudin] That could be an interesting distraction. And and with environmental hazard he has like this like a belt of potions. If we could attack that and maybe get his ammo off of him.
-[u1330 | 02:14:37.300-02:14:39.259 | Gaudin] Get the handle off there like that!
+[u1330 | 02:14:37.300-02:14:39.259 | Gaudin] Get the ammo off there like that!
 [u1331 | 02:14:41.120-02:14:45.320 | Acescale] What if someone went in invisible and just like
 [u1332 | 02:14:46.780-02:14:51.830 | Acescale] at that, and pulled
 [u1333 | 02:14:53.770-02:14:57.730 | Gaudin] that may not. Who's our most ex
@@ -1335,18 +1335,18 @@
 [u1335 | 02:15:00.610-02:15:01.889 | Loria] I think I am.
 [u1336 | 02:15:02.410-02:15:03.900 | Dilion] Assume. So. Yeah.
 [u1337 | 02:15:04.210-02:15:05.120 | Loria] yeah.
-[u1338 | 02:15:06.200-02:15:09.369 | Loria] I would assume. So I've got yeah. I've got a plus 5 on myself.
-[u1339 | 02:15:11.100-02:15:15.630 | Gaudin] What's your? Is there a slide of hand? What's your slide of hand?
+[u1338 | 02:15:06.200-02:15:09.369 | Loria] I would assume. So I've got yeah. I've got a plus 5 on my Stealth.
+[u1339 | 02:15:11.100-02:15:15.630 | Gaudin] What's your? Is there a Sleight of Hand? What's your Sleight of Hand?
 [u1340 | 02:15:15.640-02:15:17.039 | Loria] Only plus 3?
 [u1341 | 02:15:28.150-02:15:32.300 | Acescale] But yeah, the rest of us could like go in and attack and distract.
 [u1342 | 02:15:33.650-02:15:36.910 | Acescale] You could go around back and try and disarm them, basically
-[u1343 | 02:15:39.190-02:15:48.029 | Gaudin] or assistive in the back with advantage, one or the other. He is so focused. I think you could probably like the best bet is to try to do it before we attack.
+[u1343 | 02:15:39.190-02:15:48.029 | Gaudin] or just stab him in the back with advantage, one or the other. He is so focused. I think you could probably like the best bet is to try to do it before we attack.
 [u1344 | 02:15:48.390-02:15:50.110 | Loria] Yeah, like.
 [u1345 | 02:15:50.390-02:15:52.339 | Loria] and I'm sure I could like
 [u1346 | 02:15:53.100-02:15:57.210 | Loria] I can try to like hide behind stuff in the lab as we go around.
-[u1347 | 02:15:59.250-02:16:02.740 | Gaudin] Visibility last for how long
+[u1347 | 02:15:59.250-02:16:02.740 | Gaudin] Invisibility last for how long
 [u1348 | 02:16:03.140-02:16:08.560 | DM] an hour, but it ends as soon as you make an attack or cast the spell.
-[u1349 | 02:16:11.610-02:16:15.999 | Gaudin] this slide of hand would count is something that would remove invisibility.
+[u1349 | 02:16:11.610-02:16:15.999 | Gaudin] this Sleight of Hand would count is something that would remove invisibility.
 [u1350 | 02:16:16.600-02:16:30.020 | DM] Yeah, if you're attempting to disarm somebody that's effectively making attack. Yes.
 [u1351 | 02:16:33.760-02:16:35.629 | DM] yeah, I think.
 [u1352 | 02:16:45.820-02:16:48.080 | DM] Yeah. Cause you're basically using a.
@@ -1362,21 +1362,21 @@
 [u1362 | 02:17:43.959-02:17:49.549 | Dilion] you know, wrestling and jaws, or something again. The dog can go up in flames right
 [u1363 | 02:17:52.570-02:17:55.710 | Dilion] if you needed, like. An assistance is what I'm saying.
 [u1364 | 02:17:56.160-02:17:57.860 | Gaudin] I say, we try this.
-[u1365 | 02:17:58.600-02:18:07.320 | Gaudin] We send her an invisible. We're ready to go, and the moment it fails, make a noise, or if it does succeed.
+[u1365 | 02:17:58.600-02:18:07.320 | Gaudin] We send her in invisible. We're ready to go, and the moment it fails, make a noise, or if it does succeed.
 [u1366 | 02:18:07.790-02:18:13.829 | Gaudin] you'll still be notified. So either way you'll have will run in as soon as you become the
 [u1367 | 02:18:13.850-02:18:15.460 | Gaudin] become visible again.
 [u1368 | 02:18:15.700-02:18:16.440 | Dilion] Yeah.
 [u1369 | 02:18:17.200-02:18:19.359 | Gaudin] non invisible. Yeah.
-[u1370 | 02:18:19.490-02:18:29.240 | Dilion] And we hope our good roles will carry with us. Your first one was like when it fails, which is
+[u1370 | 02:18:19.490-02:18:29.240 | Dilion] And we hope our good rolls will carry with us. Your first one was like when it fails, which is
 [u1371 | 02:18:29.389-02:18:54.270 | Dilion] the inevitable unsuccessful aspect of our plan makes it full. Our plans are always flawless. I don't know what you're talking about. I don't know. I feel like the stairs with the grease in the trap was like peak organization, and it's all gonna be downhill like that, was it? That was as good as we were gonna do? And now from here on this like, I'll fumble, yeah, I I'm happy, cause I can see the dog is sort of just
 [u1372 | 02:18:54.450-02:18:57.500 | Dilion] go go doggy.
 [u1373 | 02:18:57.889-02:18:59.290 | Dilion] and I can just
 [u1374 | 02:18:59.340-02:19:02.990 | Dilion] come in for an assist if we need some upfront, stabby stab.
-[u1375 | 02:19:03.950-02:19:06.989 | Dilion] But I also met a gaming. Oh, did you?
+[u1375 | 02:19:03.950-02:19:06.989 | Dilion] But I also metagaming. Oh, did you?
 [u1376 | 02:19:07.280-02:19:10.869 | Dilion] Continue recording? Tim?
-[u1377 | 02:19:11.290-02:19:29.069 | Dilion] Yes, again. Thank you. Okay, the only problem was, as many gaming. Is this my sales like I beat you, no matter what plan we have. Whatever thing Tim wants to do is gonna happen. We can't plan all of the shenanigans he has planned for us. So part of me is just like
+[u1377 | 02:19:11.290-02:19:29.069 | Dilion] Yes, again. Thank you. Okay, the only problem was, as metagaming. It's just my sense, like I bet you, no matter what plan we have. Whatever thing Tim wants to do is gonna happen. We can't plan all of the shenanigans he has planned for us. So part of me is just like
 [u1378 | 02:19:30.200-02:19:48.549 | Gaudin] damage.
-[u1379 | 02:19:48.610-02:19:52.330 | Gaudin] and we try to get his little bandalier first.
+[u1379 | 02:19:48.610-02:19:52.330 | Gaudin] and we try to get his little bandolier first.
 [u1380 | 02:19:53.190-02:19:59.059 | Acescale] Okay? And either way, that'll still get Loria close to him for for
 [u1381 | 02:19:59.260-02:20:05.070 | Loria] yeah, which I need like anything in the battle. So
 [u1382 | 02:20:05.610-02:20:11.000 | Acescale] before you, before you do the invisibility. Yes.
@@ -1387,7 +1387,7 @@
 [u1387 | 02:20:33.500-02:20:37.940 | Gaudin] I assume we're following as close as we can to be out of sight. And
 [u1388 | 02:20:40.450-02:20:42.950 | Acescale] feeling something like that.
 [u1389 | 02:20:43.920-02:20:46.259 | Gaudin] Yeah, so you can rush in when needed.
-[u1390 | 02:20:46.430-02:20:51.430 | DM] Yeah, okay, so, Loria, make us stuff check with advantage.
+[u1390 | 02:20:46.430-02:20:51.430 | DM] Yeah, okay, so, Loria, make a Stealth check with advantage.
 [u1391 | 02:20:58.350-02:21:02.730 | Loria] Oh, my God. 8.
 [u1392 | 02:21:03.340-02:21:07.449 | DM] you begin! You begin to creep forward
 [u1393 | 02:21:07.840-02:21:08.630 | DM] and
@@ -1401,7 +1401,7 @@
 [u1401 | 02:22:01.150-02:22:11.299 | DM] like discarded experiments, vials just kind of rolling around. and as you begin to creep along the side like you just
 [u1402 | 02:22:12.570-02:22:16.029 | DM] accidentally kick one of these glass vials.
 [u1403 | 02:22:16.150-02:22:17.520 | Unknown] So
-[u1404 | 02:22:17.890-02:22:20.130 | DM] Honey walks up.
+[u1404 | 02:22:17.890-02:22:20.130 | DM] And he looks up.
 [u1405 | 02:22:22.840-02:22:27.000 | DM] grabs a potion off of his belt. Yowls!
 [u1406 | 02:22:27.130-02:22:30.330 | DM] I told you not to interrupt me
 [u1407 | 02:22:30.870-02:22:33.460 | DM] and roll initiative.
@@ -1410,22 +1410,22 @@
 [u1410 | 02:22:42.770-02:22:45.379 | Loria] Why, let's do this so rolling
 [u1411 | 02:22:45.560-02:22:48.390 | Loria] happily through initiative, too. So
 [u1412 | 02:22:49.250-02:22:51.390 | Loria] well, that is 8,
-[u1413 | 02:22:52.070-02:22:58.820 | Dilion] (121) 111-1111. Sorry. 18 for ace. Go
+[u1413 | 02:22:52.070-02:22:58.820 | Dilion] (121) 111-1111. Sorry. 18 for Acescale
 [u1414 | 02:23:01.480-02:23:03.000 | Gaudin] 21.
 [u1415 | 02:23:03.620-02:23:07.159 | Loria] I got that 9 for 9 for Loria.
 [u1416 | 02:23:07.440-02:23:08.300 | DM] Okay.
 [u1417 | 02:23:09.100-02:23:11.890 | Dilion] of course you are still invisible.
 [u1418 | 02:23:12.910-02:23:14.300 | Loria] Yep.
 [u1419 | 02:23:14.370-02:23:16.070 | Loria] 12, 4
-[u1420 | 02:23:17.460-02:23:18.629 | DM] for Dylan.
-[u1421 | 02:23:18.780-02:23:22.519 | Dilion] Yeah, no. Sorry I live in for me. Sorry.
-[u1422 | 02:23:22.540-02:23:26.800 | Dilion] I played another character recently with a bit higher Dicks and I keep getting the
+[u1420 | 02:23:17.460-02:23:18.629 | DM] for Dilion.
+[u1421 | 02:23:18.780-02:23:22.519 | Dilion] Yeah, no. Sorry eleven for me. Sorry.
+[u1422 | 02:23:22.540-02:23:26.800 | Dilion] I played another character recently with a bit higher Dex and I keep getting the
 [u1423 | 02:23:27.110-02:23:28.060 | DM] so
 [u1424 | 02:23:28.170-02:23:31.829 | DM] so at as this.
-[u1425 | 02:23:34.090-02:23:41.639 | DM] as he looks up and yells and like grabs this potion and begins to throw it gout, and you get the jump. You can do whatever you'd like.
-[u1426 | 02:23:42.270-02:23:45.180 | Gaudin] Hmm! Has he found the potion yet?
+[u1425 | 02:23:34.090-02:23:41.639 | DM] as he looks up and yells and like grabs this potion and begins to throw it Gaudin you get the jump. You can do whatever you'd like.
+[u1426 | 02:23:42.270-02:23:45.180 | Gaudin] Hmm! Has he thrown the potion yet?
 [u1427 | 02:23:45.640-02:23:46.390 | DM] Nope.
-[u1428 | 02:23:46.520-02:23:49.059 | Gaudin] can I try to. Eldridge blast the potion.
+[u1428 | 02:23:46.520-02:23:49.059 | Gaudin] can I try to. Eldritch blast the potion.
 [u1429 | 02:23:51.940-02:23:58.250 | DM] Sure. it's gonna be much harder to hit than his normal A/C.
 [u1430 | 02:24:00.210-02:24:04.629 | Gaudin] And he's throwing it at where we heard a noise
 [u1431 | 02:24:05.260-02:24:13.680 | Gaudin] not entirely clear where he's throwing it out. As do we engage we're gonna continue the high-risk, high-reward approach.
@@ -1442,7 +1442,7 @@
 [u1442 | 02:25:01.080-02:25:08.279 | Acescale] I do not want to be in a group like this. So I'm gonna do. 5, 1015,
 [u1443 | 02:25:09.290-02:25:14.119 | Acescale] 2530. Oh, that's still not far enough. Hold on!
 [u1444 | 02:25:15.240-02:25:18.439 | Acescale] Believe in you. It's 10 to get through the dog right?
-[u1445 | 02:25:18.960-02:25:20.590 | DM] Tend to get through the dog.
+[u1445 | 02:25:18.960-02:25:20.590 | DM] Ten to get through the dog.
 [u1446 | 02:25:20.810-02:25:26.160 | Acescale] Yeah. Sorry. I thought the dog would be best sitting
 [u1447 | 02:25:27.490-02:25:30.579 | Acescale] 25. Sorry I can do that.
 [u1448 | 02:25:30.810-02:25:32.200 | DM] You can do that. Yeah.
@@ -1452,36 +1452,36 @@
 [u1452 | 02:25:45.390-02:25:48.050 | Acescale] spiritual affinity, dreams
 [u1453 | 02:25:48.320-02:25:53.380 | Acescale] to glimpse into the dream world, seeing all possible
 [u1454 | 02:25:53.430-02:25:55.809 | Acescale] answers and paths forward
-[u1455 | 02:25:56.080-02:26:02.730 | Dilion] and advantage. Get an advantage on my attack role.
+[u1455 | 02:25:56.080-02:26:02.730 | Dilion] and advantage. Get an advantage on my attack roll.
 [u1456 | 02:26:02.830-02:26:05.640 | Acescale] which will be a
 [u1457 | 02:26:06.870-02:26:12.629 | Acescale] final spell. Slot, ray of sickness on him. Whoa! Solid one.
 [u1458 | 02:26:13.070-02:26:14.050 | Gaudin] Hmm!
 [u1459 | 02:26:15.600-02:26:24.620 | Acescale] Just had to believe
 [u1460 | 02:26:25.040-02:26:26.559 | Acescale] first, one's no good.
 [u1461 | 02:26:28.400-02:26:33.380 | Acescale] second, one's a hit, probably
-[u1462 | 02:26:33.600-02:26:34.870 | DM] that's the head. Yeah.
+[u1462 | 02:26:33.600-02:26:34.870 | DM] that's a hit. Yeah.
 [u1463 | 02:26:35.000-02:26:38.140 | Gaudin] wasn't you had advantage? Yes.
 [u1464 | 02:26:38.250-02:26:41.350 | Acescale] and then I will see. Yes, to roll.
-[u1465 | 02:26:42.720-02:26:49.920 | Acescale] Yes, to roll a con. 13, or be poisoned until the end of my next turn.
+[u1465 | 02:26:42.720-02:26:49.920 | Acescale] He has to roll a con. 13, or be poisoned until the end of my next turn.
 [u1466 | 02:26:51.460-02:26:53.100 | Acescale] And vowel's Nope.
 [u1467 | 02:26:53.460-02:26:54.769 | DM] That's a 3,
 [u1468 | 02:26:55.050-02:26:59.870 | Acescale] though he's poisoned, and also he's gonna take
 [u1469 | 02:27:00.340-02:27:03.530 | Acescale] 9. Poison damage
 [u1470 | 02:27:04.100-02:27:05.330 | DM] okay.
-[u1471 | 02:27:05.940-02:27:11.779 | DM] So this rain bursts out from a scales hand striking him, and he looks up like
+[u1471 | 02:27:05.940-02:27:11.779 | DM] So this ray bursts out from Acescale's hand striking him, and he looks up like
 [u1472 | 02:27:12.120-02:27:16.760 | DM] potion hand angry surprised as he looks over at you.
-[u1473 | 02:27:17.280-02:27:20.679 | DM] and Gelin leaps into action.
+[u1473 | 02:27:17.280-02:27:20.679 | DM] and Dilion leaps into action.
 [u1474 | 02:27:21.270-02:27:27.260 | Acescale] and I'll say, Give me back my poker, winnings my face.
-[u1475 | 02:27:28.500-02:27:40.669 | Acescale] and then take a a cuff on the old cigarette, and that's my turn directly into the line of ocean fire. I say, don't come near me. No one in the back.
+[u1475 | 02:27:28.500-02:27:40.669 | Acescale] and then take a a puff on the old cigarette, and that's my turn directly into the line of potion fire. I say, don't come near me. No one in the back.
 [u1476 | 02:27:41.930-02:27:44.059 | Dilion] I mean, I'll
-[u1477 | 02:27:45.320-02:27:52.979 | Dilion] tell my dog to, because I guess I can't really get past, or I'll I can spit some extra move and getting past up you can. I mean you're
+[u1477 | 02:27:45.320-02:27:52.979 | Dilion] tell my dog to, because I guess I can't really get past, or I'll I can spend some extra movement getting past up you can. I mean you're
 [u1478 | 02:27:53.290-02:27:54.699 | DM] your dog, can
 [u1479 | 02:27:56.260-02:28:04.290 | Dilion] he? He'll he'll act after my turn. But I don't mind just kind of moving a little bit forward. I'm also just thinking we probably want
-[u1480 | 02:28:04.530-02:28:12.380 | Dilion] getting here to move up. So I think I'm probably just gonna have to take an L for the first
-[u1481 | 02:28:12.510-02:28:19.439 | Dilion] for my first round. At least it's just fine. I'll tell Mike because it's a small card or someone had to.
+[u1480 | 02:28:04.530-02:28:12.380 | Dilion] Gaudin here to move up. So I think I'm probably just gonna have to take an L for the first
+[u1481 | 02:28:12.510-02:28:19.439 | Dilion] for my first round. At least it's just fine. I'll tell Mike because it's a small corridor, someone had to.
 [u1482 | 02:28:20.750-02:28:30.530 | Dilion] Yeah, I'll tell the dog to go after the the unfriendly one, I feel like recognizes the friendly ones. So
 [u1483 | 02:28:31.020-02:28:38.379 | Dilion] yeah, I think what I could do as a prepped action is, I'll move forward with
-[u1484 | 02:28:38.510-02:28:40.930 | Dilion] gayden. So like.
+[u1484 | 02:28:38.510-02:28:40.930 | Dilion] Gaudin. So like.
 [u1485 | 02:28:41.910-02:28:45.200 | Dilion] that's who's that's who's in front of me. Right? Yeah.
 [u1486 | 02:28:45.210-02:28:54.040 | Dilion] Yeah. So like, I'll move forward with him so I can use my movement. Some some movements be as my reaction just to come into the room a little bit more so I don't have to like didn't
 [u1487 | 02:28:54.180-02:28:57.649 | Dilion] dashed. So I think I'll just move with him
@@ -1489,7 +1489,7 @@
 [u1489 | 02:28:59.670-02:29:05.609 | Dilion] It's my reaction. So then I believe the dog had with a 40 foot movement. We'll go 5,
 [u1490 | 02:29:05.750-02:29:06.760 | Dilion] 10,
 [u1491 | 02:29:06.820-02:29:08.070 | Dilion] 15,
-[u1492 | 02:29:08.090-02:29:16.620 | Dilion] 20, and I like the idea. Just systematic is like the dog is doing that cool like jump over the table. Kind of thing
+[u1492 | 02:29:08.090-02:29:16.620 | Dilion] 20, and I like the idea. Just cinematically is like the dog is doing that cool like jump over the table. Kind of thing
 [u1493 | 02:29:16.740-02:29:21.219 | Dilion] not doesn't mean it has to like knock him back or anything. But just like as a cool like.
 [u1494 | 02:29:21.730-02:29:26.290 | DM] yeah leaps up over the table. I am.
 [u1495 | 02:29:28.830-02:29:30.429 | Unknown] or a whopping.
@@ -1504,13 +1504,13 @@
 [u1504 | 02:30:12.420-02:30:17.319 | DM] Dexterity saving throw as this potion lands right here.
 [u1505 | 02:30:17.650-02:30:19.310 | Acescale] Yep.
 [u1506 | 02:30:20.890-02:30:23.169 | Gaudin] at least it's only 1% roll. Then.
-[u1507 | 02:30:23.930-02:30:25.679 | Unknown] it's not an attack. All
+[u1507 | 02:30:23.930-02:30:25.679 | Unknown] it's not an attack roll
 [u1508 | 02:30:26.740-02:30:28.709 | Unknown] I'm gonna get hit for it.
 [u1509 | 02:30:30.100-02:30:34.439 | Acescale] Oh, wait! Just lucky. Maybe I should.
 [u1510 | 02:30:34.590-02:30:36.260 | Acescale] yeah, I'm gonna use lucky
 [u1511 | 02:30:36.750-02:30:38.260 | Acescale] I haven't got left for that.
 [u1512 | 02:30:38.700-02:30:40.310 | Unknown] Let's try that again.
-[u1513 | 02:30:42.100-02:30:46.360 | Acescale] Perfect. I'll get rid of 2 bad rules and then get hit for a lot of fire.
+[u1513 | 02:30:42.100-02:30:46.360 | Acescale] Perfect. I'll get rid of 2 bad rolls and then get hit for a lot of fire.
 [u1514 | 02:30:46.470-02:30:52.990 | DM] You take 12 points of fire damage as a potion explodes at your feet
 [u1515 | 02:30:54.850-02:30:56.400 | Unknown] and he yells.
 [u1516 | 02:30:57.300-02:30:59.399 | DM] you've ruined
@@ -1520,13 +1520,13 @@
 [u1520 | 02:31:08.350-02:31:14.290 | DM] and that's bonus action. He's going to take out of his pocket this like thick, goopy thing
 [u1521 | 02:31:14.300-02:31:15.659 | DM] and hurl it
 [u1522 | 02:31:15.700-02:31:18.010 | Unknown] at the statue of the Spider.
-[u1523 | 02:31:19.300-02:31:21.479 | DM] Nope, that's gonna end his term.
+[u1523 | 02:31:19.300-02:31:21.479 | DM] Nope, that's gonna end his turn.
 [u1524 | 02:31:21.760-02:31:23.119 | Unknown] Loria, you're up.
 [u1525 | 02:31:25.050-02:31:29.830 | Loria] you're invisible. So any attack you make has advantage.
 [u1526 | 02:31:31.040-02:31:50.420 | Loria] Okay? So I'm gonna can I reach over his lab bench? If I only get to in front of it. You can reach under his lab bench for sure under his lap. So it's not like a like bolted to the floor like, no, no, it's just like a table. Basically, it's like, it's like 5 feet high. So you could stand underneath of it.
 [u1527 | 02:31:50.660-02:31:58.580 | Unknown] Yeah, going for the ankles is my signature. So I'm gonna run in. And then I am going to attack with
 [u1528 | 02:31:58.680-02:32:00.200 | DM] both my short swords.
-[u1529 | 02:32:00.310-02:32:03.709 | Loria] Okay? First world's got advantage first with advantage.
+[u1529 | 02:32:00.310-02:32:03.709 | Loria] Okay? First roll's got advantage first with advantage.
 [u1530 | 02:32:05.170-02:32:07.509 | DM] 23 that hits
 [u1531 | 02:32:08.080-02:32:09.120 | Unknown] nice.
 [u1532 | 02:32:10.090-02:32:10.830 | Loria] That's
@@ -1538,37 +1538,37 @@
 [u1538 | 02:32:31.820-02:32:35.030 | DM] and that's another 7 points of damage.
 [u1539 | 02:32:37.480-02:32:42.470 | DM] He's not looking super happy with you all showing up and ruining his experiments.
 [u1540 | 02:32:42.480-02:32:46.160 | DM] That ends Loria's turn.
-[u1541 | 02:32:47.330-02:32:48.490 | Unknown] Kayden, you're up
+[u1541 | 02:32:47.330-02:32:48.490 | Unknown] Gaudin, you're up
 [u1542 | 02:32:49.670-02:32:50.850 | Gaudin] so
 [u1543 | 02:32:51.150-02:32:54.210 | Unknown] I move and
 [u1544 | 02:32:54.530-02:32:56.469 | Gaudin] bit for spacing.
-[u1545 | 02:32:56.970-02:33:01.679 | Gaudin] so somebody else can also sneak in, and I will outrage. Blast
+[u1545 | 02:32:56.970-02:33:01.679 | Gaudin] so somebody else can also sneak in, and I will Eldritch Blast
 [u1546 | 02:33:02.320-02:33:03.170 | Unknown] alright
 [u1547 | 02:33:08.620-02:33:16.069 | DM] That hits this one's aim squarely at the body this time
 [u1548 | 02:33:18.110-02:33:31.349 | Unknown] 4 points of damage! He yells in anger as his bolt of force strikes him. and on initiative, count 20. This statue of a giant spider that he threw
-[u1549 | 02:33:32.800-02:33:34.340 | Unknown] this potion hat
+[u1549 | 02:33:32.800-02:33:34.340 | Unknown] this potion at
 [u1550 | 02:33:35.730-02:33:39.140 | DM] animates and splits into about
 [u1551 | 02:33:39.460-02:33:43.049 | Gaudin] 50 tiny little spiders
-[u1552 | 02:33:43.840-02:33:53.039 | Unknown] that run towards gate in and swarm all over you. Did you say? 15 or 50?
+[u1552 | 02:33:43.840-02:33:53.039 | Unknown] that run towards Gaudin and swarm all over you. Did you say? 15 or 50?
 [u1553 | 02:33:53.580-02:33:57.659 | DM] It's a swarm. It's like 50 tiny little spiders.
 [u1554 | 02:33:58.200-02:34:00.800 | Unknown] But that's only going to be an 8 to hit
 [u1555 | 02:34:01.150-02:34:03.929 | DM] So I think that misses you.
 [u1556 | 02:34:06.070-02:34:08.569 | Unknown] and that ends the spider's turn.
-[u1557 | 02:34:08.980-02:34:12.839 | Gaudin] It's still on main right? They're still crawling all over you. Yeah, yeah.
+[u1557 | 02:34:08.980-02:34:12.839 | Gaudin] It's still on me right? They're still crawling all over you. Yeah, yeah.
 [u1558 | 02:34:14.380-02:34:15.700 | Acescale] Sorry. Was that me up?
 [u1559 | 02:34:16.360-02:34:17.520 | Unknown] That's you up? Yup.
 [u1560 | 02:34:17.660-02:34:19.320 | Acescale] okay,
 [u1561 | 02:34:20.910-02:34:22.630 | Acescale] I will
 [u1562 | 02:34:24.320-02:34:28.289 | Acescale] shoot with the crossbow at the guy.
-[u1563 | 02:34:32.850-02:34:36.910 | Acescale] Natty was. That
+[u1563 | 02:34:32.850-02:34:36.910 | Acescale] Natty one. That
 [u1564 | 02:34:37.860-02:34:45.769 | Acescale] that will be that. I'm going to move from everyone else and
 [u1565 | 02:34:45.820-02:34:51.490 | Acescale] maybe duck down behind this table if possible. Okay, that'll give you partial cover.
 [u1566 | 02:34:51.720-02:34:57.840 | DM] so plus 2 to dexterity saving throws and attack. Yeah. And A/C.
 [u1567 | 02:34:58.030-02:34:58.950 | Acescale] Alright.
 [u1568 | 02:34:59.600-02:35:05.330 | Acescale] I say, well, now, I'll just be over here dying
 [u1569 | 02:35:05.470-02:35:06.530 | Dilion] speed.
-[u1570 | 02:35:06.750-02:35:16.720 | DM] Dylan, you're up.
-[u1571 | 02:35:17.080-02:35:27.009 | Dilion] Okay. Dog will continue attacking after my 10. I moved up with Gaudin when he did so. Now I have enough 5, 1015,
+[u1570 | 02:35:06.750-02:35:16.720 | DM] Dilion, you're up.
+[u1571 | 02:35:17.080-02:35:27.009 | Dilion] Okay. Dog will continue attacking after my turn. I moved up with Gaudin when he did so. Now I have enough 5, 1015,
 [u1572 | 02:35:30.010-02:35:32.780 | Dilion] 30 to get right to the back of them.
 [u1573 | 02:35:32.930-02:35:39.120 | Dilion] Without having to spend any extra thing, and I'll just stab away. It's time to
 [u1574 | 02:35:40.100-02:35:43.010 | DM] go for it. Just do the things.
@@ -1586,7 +1586,7 @@
 [u1586 | 02:36:48.870-02:36:50.760 | DM] So that's gonna be.
 [u1587 | 02:36:51.290-02:36:52.800 | Dilion] Oh.
 [u1588 | 02:36:54.110-02:36:55.480 | Dilion] oh.
-[u1589 | 02:36:55.970-02:37:03.459 | DM] right there and then, since nobody can see them. So no opportunity tax, he's gonna run
+[u1589 | 02:36:55.970-02:37:03.459 | DM] right there and then, since nobody can see them. So no opportunity attacks, he's gonna run
 [u1590 | 02:37:04.560-02:37:05.620 | DM] here
 [u1591 | 02:37:08.050-02:37:10.940 | DM] and also
 [u1592 | 02:37:12.290-02:37:18.039 | DM] come over here. Look at Acescale for a moment, also ducking behind this
@@ -1603,8 +1603,8 @@
 [u1603 | 02:38:22.930-02:38:24.160 | Loria] Okay, okay.
 [u1604 | 02:38:25.270-02:38:26.050 | Loria] real flat.
 [u1605 | 02:38:27.390-02:38:29.349 | Loria] Oh, no. That is
-[u1606 | 02:38:29.570-02:38:39.480 | DM] that misses. Still coughing a little bit from the after effects of this poison cloud, you slide under the bench and swing with your first sword, which ducks away from
-[u1607 | 02:38:40.960-02:38:44.139 | DM] swaying with your second sword. Yeah, which catches him.
+[u1606 | 02:38:29.570-02:38:39.480 | DM] that misses. Still coughing a little bit from the after effects of this poison cloud, you slide under the bench and swing with your first sword, which he ducks away from
+[u1607 | 02:38:40.960-02:38:44.139 | DM] swing with your second sword. Yeah, which catches him.
 [u1608 | 02:38:44.260-02:38:45.210 | Loria] which is
 [u1609 | 02:38:45.470-02:38:47.750 | DM] still, do your swarm damage?
 [u1610 | 02:38:48.100-02:38:50.809 | Loria] Yeah. So 9 for the short sword.
@@ -1612,15 +1612,15 @@
 [u1612 | 02:38:53.710-02:39:03.010 | DM] 3 for my little fluttering birds. So as the birds fly and stabbing him, you can see he's like leaning, panting a little bit clearly, badly wounded
 [u1613 | 02:39:03.170-02:39:06.169 | DM] below, half half below. Half is health.
 [u1614 | 02:39:06.660-02:39:12.200 | DM] As he looks at you like distraught and angry as
-[u1615 | 02:39:12.750-02:39:17.490 | DM] Dan covered in stone spiders.
-[u1616 | 02:39:17.620-02:39:23.240 | Gaudin] it might any otherwise like disadvantage other than being stone spidered.
+[u1615 | 02:39:12.750-02:39:17.490 | DM] Gaudin covered in stone spiders.
+[u1616 | 02:39:17.620-02:39:23.240 | Gaudin] Am I any otherwise like disadvantage other than being stone spidered.
 [u1617 | 02:39:23.500-02:39:29.990 | DM] No, they're just trying to chew on you. So in a second they're gonna attack you again, but otherwise, Nope.
-[u1618 | 02:39:30.160-02:39:32.479 | DM] they're not liking your eyes or anything.
-[u1619 | 02:39:33.080-02:39:58.859 | Gaudin] I focus on the big batty at hand and Elders flat. Is he a disadvantage? Sorry in May app. Is he in? Cover? Your he has. He has partial cover from you, cause he's behind this bank. So plus 2 days. Lacey, okay, so. I will ask Swordburst. Try to get as many of the
+[u1618 | 02:39:30.160-02:39:32.479 | DM] they're not like in your eyes or anything.
+[u1619 | 02:39:33.080-02:39:58.859 | Gaudin] I focus on the big baddie at hand and Eldritch Blast. Is he a disadvantage? Sorry in melee. Is he in? Cover? Your he has. He has partial cover from you, cause he's behind this bench. So plus 2 to his AC, okay, so. I will cast Swordburst. Try to get as many of the
 [u1620 | 02:39:59.190-02:40:02.940 | Gaudin] that's a saving throw. Which saving throw is that
-[u1621 | 02:40:04.090-02:40:06.640 | Gaudin] it's Dax.
+[u1621 | 02:40:04.090-02:40:06.640 | Gaudin] it's Dex.
 [u1622 | 02:40:07.290-02:40:10.230 | Gaudin] Wait! I don't know. What do you mean by sorry
-[u1623 | 02:40:10.790-02:40:14.430 | Gaudin] sword burst. Is a dex hit? PC,
+[u1623 | 02:40:10.790-02:40:14.430 | Gaudin] sword burst. Is a Dex save DC,
 [u1624 | 02:40:15.140-02:40:22.200 | DM] yeah. Okay. So he rolled a 9 so that fail. There was a swarm roll the 9. So that fails. So how much damage does it do?
 [u1625 | 02:40:26.270-02:40:29.630 | DM] You killed about
 [u1626 | 02:40:31.060-02:40:35.079 | DM] 20% of the little stone spiders as this burst of
@@ -1632,10 +1632,10 @@
 [u1632 | 02:40:58.220-02:40:59.460 | Unknown] I hit.
 [u1633 | 02:40:59.700-02:41:06.180 | DM] Okay, so you take 10 points of piercing damage as a bunch of these little
 [u1634 | 02:41:06.720-02:41:10.939 | Gaudin] stone jaws chew on you. Sorry how much damage
-[u1635 | 02:41:11.100-02:41:17.850 | DM] 10 points of piercing damage and that and the spider's turn, Dylan, you're up or, sorry. Ace, yeah, you're up.
+[u1635 | 02:41:11.100-02:41:17.850 | DM] 10 points of piercing damage and that and the spider's turn, Dilion, you're up or, sorry. Acescale, yeah, you're up.
 [u1636 | 02:41:20.630-02:41:30.280 | Acescale] still in next? Okay.
 [u1637 | 02:41:30.640-02:41:33.960 | Acescale] I will
-[u1638 | 02:41:35.600-02:41:49.509 | Acescale] take my Cross Co. And point from nearly point blank range and say, No, give me back poker wings, and I will try to hit him with better than a one this time, and I do.
+[u1638 | 02:41:35.600-02:41:49.509 | Acescale] take my crossbow. And point from nearly point blank range and say, No, give me back poker winnings, and I will try to hit him with better than a one this time, and I do.
 [u1639 | 02:41:50.170-02:41:58.089 | Acescale] Crossbow will do. Oh, good roll 11 piercing damage
 [u1640 | 02:41:59.560-02:42:03.600 | DM] he's looking. He's looking. That catches him solidly.
 [u1641 | 02:42:03.680-02:42:05.010 | DM] and he's
@@ -1644,26 +1644,26 @@
 [u1644 | 02:42:13.570-02:42:18.450 | DM] Perfect. II will. I will move into contact with him
 [u1645 | 02:42:19.110-02:42:24.610 | Acescale] alright. so that if he, if he tries to run again I've got opportunity.
 [u1646 | 02:42:25.730-02:42:28.840 | Dilion] We're gonna surround him. I'm pretty sure.
-[u1647 | 02:42:30.240-02:42:32.660 | DM] Dylan make a constitution saving throw.
+[u1647 | 02:42:30.240-02:42:32.660 | DM] Dilion make a constitution saving throw.
 [u1648 | 02:42:32.740-02:42:58.109 | Dilion] hey? And just for the dog's sake, is it poison? Because I think he's immune to poison. No, you've got a plus
 [u1649 | 02:42:58.390-02:43:02.919 | DM] So you take
 [u1650 | 02:43:06.880-02:43:13.789 | Unknown] you take 8 points of poison damage and you are poisoned until the start of your next turn.
-[u1651 | 02:43:13.990-02:43:18.319 | DM] Poison means I have disadvantaged all the tax and stuff things like that. Yeah.
+[u1651 | 02:43:13.990-02:43:18.319 | DM] Poison means I have disadvantage on all attacks and stuff things like that. Yeah.
 [u1652 | 02:43:18.430-02:43:25.990 | Dilion] yeah. So the the dog is immune both from damage. Yeah. So he's fine.
 [u1653 | 02:43:26.190-02:43:40.980 | Dilion] can we see out of this like, is it okay to just walk out? Let us know. Yeah, I mean you. You are aware enough of their your surroundings to know where the exits are. But you cannot see anything. Cloud. Okay, I just tell my dog to follow Gaudin.
 [u1654 | 02:43:41.550-02:43:52.960 | Dilion] and then I'll just do what I need to, but I guess I have disadvantage. You've got disadvantage on your attack. Now, if I chose to use my last luck point
-[u1655 | 02:43:53.710-02:43:56.620 | DM] that would cancel the disadvantage. So be a straight bowl.
+[u1655 | 02:43:53.710-02:43:56.620 | DM] that would cancel the disadvantage. So be a straight roll.
 [u1656 | 02:43:57.230-02:43:59.370 | Dilion] Yeah. I mean.
 [u1657 | 02:44:00.870-02:44:03.879 | Dilion] think I am allowed to choose it after rolling them.
 [u1658 | 02:44:03.930-02:44:15.790 | DM] Yeah, you can roll it. Yes, you could. You roll your disadvantage. If you want to use luck, you could make you just erase your disadvantage. Really, roll one more time again.
 [u1659 | 02:44:18.870-02:44:20.110 | Unknown] Just roll it.
 [u1660 | 02:44:24.120-02:44:30.130 | Dilion] If I choose luck, then I can just use that which would definitely hit alright. Let's
 [u1661 | 02:44:31.130-02:44:32.340 | Dilion] say
-[u1662 | 02:44:32.500-02:44:43.800 | Dilion] yes. And so I imagine then a 18 would hit, which is great cause. Then I can do just some dam I mean. Otherwise it's gonna forget about the lock point.
+[u1662 | 02:44:32.500-02:44:43.800 | Dilion] yes. And so I imagine then a 18 would hit, which is great cause. Then I can do just some dam I mean. Otherwise it's gonna forget about the luck point.
 [u1663 | 02:44:48.360-02:44:50.420 | Dilion] Well, oh, wow!
-[u1664 | 02:44:50.430-02:44:58.780 | Dilion] Live damage! I believe if I'm not mistaken from my actions. Yeah, it's a da plus 4, right? Well, 5. There you go
+[u1664 | 02:44:50.430-02:44:58.780 | Dilion] Five damage! I believe if I'm not mistaken from my actions. Yeah, it's a d8 plus 4, right? Well, 5. There you go
 [u1665 | 02:44:59.390-02:45:05.640 | DM] The dog still gets its turn. Yes, so now, immediately after my turn, the dog will
-[u1666 | 02:45:05.890-02:45:08.379 | Dilion] follow Dad 5, 10,
+[u1666 | 02:45:05.890-02:45:08.379 | Dilion] follow that 5, 10,
 [u1667 | 02:45:08.490-02:45:12.849 | Dilion] 15, and I guess 20, and he's still within 5 feet, so the dog can
 [u1668 | 02:45:12.890-02:45:14.669 | Dilion] nibble away.
 [u1669 | 02:45:19.710-02:45:22.709 | Dilion] Yeah, the dog is dog is
@@ -1681,15 +1681,15 @@
 [u1681 | 02:46:09.850-02:46:11.700 | Dilion] and then dog
 [u1682 | 02:46:13.120-02:46:15.690 | Dilion] what does that
 [u1683 | 02:46:15.870-02:46:19.640 | Dilion] saving throws one plus? So he would have a 13.
-[u1684 | 02:46:20.230-02:46:27.470 | DM] Okay? Anybody who rolled. I didn't see what a scamrolled! Anybody who rolled a
+[u1684 | 02:46:20.230-02:46:27.470 | DM] Okay? Anybody who rolled. I didn't see what Acescale rolled! Anybody who rolled a
 [u1685 | 02:46:28.020-02:46:37.700 | DM] 14 or higher takes 6 points of fire damage. Anybody who rolled below a 14 takes 12 points of fire. Damage, dog. No.
 [u1686 | 02:46:37.920-02:46:41.360 | Gaudin] take take damage as well.
 [u1687 | 02:46:41.390-02:46:42.490 | DM] He
 [u1688 | 02:46:43.140-02:46:53.559 | Dilion] made it save, but he does take damage. Does take 6 damage. Nice. dog took a beating 12 damn a J.
 [u1689 | 02:46:56.300-02:46:59.779 | Gaudin] Rock on, sweet old steampup
 [u1690 | 02:46:59.960-02:47:04.970 | Dilion] 6 damage.
-[u1691 | 02:47:05.100-02:47:07.269 | DM] Sorry, Loria. Why did you roll?
-[u1692 | 02:47:07.610-02:47:16.470 | DM] Oh, I got a 9. II wasn't even close to Savior.
+[u1691 | 02:47:05.100-02:47:07.269 | DM] Sorry, Loria. What did you roll?
+[u1692 | 02:47:07.610-02:47:16.470 | DM] Oh, I got a 9. II wasn't even close to save.
 [u1693 | 02:47:16.650-02:47:18.010 | DM] now
 [u1694 | 02:47:19.310-02:47:26.010 | DM] pretty hurt at this point, having just dropped a flaming potion at his feet.
 [u1695 | 02:47:26.890-02:47:28.800 | Unknown] He is going to
@@ -1701,31 +1701,31 @@
 [u1701 | 02:48:02.550-02:48:04.969 | Unknown] alright. So that is.
 [u1702 | 02:48:07.200-02:48:11.550 | Loria] I have advantage on my bonus attack on my short sword.
 [u1703 | 02:48:13.150-02:48:15.090 | DM] So then, Zephyr strike
-[u1704 | 02:48:15.210-02:48:19.950 | Loria] takes a bonus auction. So you don't. Oh, is it? Bonus? Okay? So sorry. So I have my.
+[u1704 | 02:48:15.210-02:48:19.950 | Loria] takes a bonus action. So you don't. Oh, is it? Bonus? Okay? So sorry. So I have my.
 [u1705 | 02:48:20.050-02:48:24.129 | DM] but you can. You can choose to take advantage on your
 [u1706 | 02:48:24.560-02:48:30.199 | Loria] my normal attack is, gonna take advantage of my normal attack.
 [u1707 | 02:48:30.860-02:48:35.610 | Loria] which is a Nat. 20 Tao
-[u1708 | 02:48:35.960-02:48:40.750 | DM] that doubles the that doubles everything. So it doubles the da
+[u1708 | 02:48:35.960-02:48:40.750 | DM] that doubles the that doubles everything. So it doubles the d8
 [u1709 | 02:48:40.930-02:48:44.730 | Loria] yeah, doubles the double zephyr
-[u1710 | 02:48:44.790-02:48:52.370 | DM] right? It doubles supper, it doubles the swarm and it doubles. So it's 46 plus 2D. 8
+[u1710 | 02:48:44.790-02:48:52.370 | DM] right? It doubles Zephyr, it doubles the swarm and it doubles. So it's 46 plus 2D. 8
 [u1711 | 02:48:52.480-02:48:58.220 | Loria] delicious wait, using 4 d. 6 plus 2D. 8.
 [u1712 | 02:48:58.300-02:49:08.569 | Loria] Yeah. Cause d 6 for your long boat. D 6 for the swarm times 2 is 4 plus d8 for the he's got 14 hit points left.
 [u1713 | 02:49:09.020-02:49:13.109 | Dilion] Pretty likely he's gonna be gone.
 [u1714 | 02:49:13.230-02:49:15.820 | Loria] So 4 d. 6, 2D. 8,
-[u1715 | 02:49:16.070-02:49:20.089 | Loria] 46, and 28. I've never rolled this many days before
+[u1715 | 02:49:16.070-02:49:20.089 | Loria] 46, and 28. I've never rolled this many dice before
 [u1716 | 02:49:20.300-02:49:23.689 | Dilion] you deserve it.
 [u1717 | 02:49:23.770-02:49:27.500 | DM] Yup, that is going to finish him off.
 [u1718 | 02:49:27.990-02:49:32.450 | DM] Good! So, standing here
-[u1719 | 02:49:33.370-02:49:46.070 | DM] you swing and hemp! Cut him down. and he bends down to one knee as your swarm of birds just warms down on top of him.
-[u1720 | 02:49:46.140-02:49:48.630 | DM] breaking him as he falls backwards.
+[u1719 | 02:49:33.370-02:49:46.070 | DM] you swing and hemp! Cut him down. and he bends down to one knee as your swarm of birds just swarms down on top of him.
+[u1720 | 02:49:46.140-02:49:48.630 | DM] raking him as he falls backwards.
 [u1721 | 02:49:49.820-02:49:51.659 | DM] falling on the ground.
 [u1722 | 02:49:53.010-02:49:55.780 | DM] potions rolling from his body.
-[u1723 | 02:49:58.190-02:50:02.139 | DM] As Gordon is still surrounded by a swarm of
-[u1724 | 02:50:02.250-02:50:05.420 | Loria] stone spiders. Oh, yeah, sorry, Gaddaf.
+[u1723 | 02:49:58.190-02:50:02.139 | DM] As Gaudin is still surrounded by a swarm of
+[u1724 | 02:50:02.250-02:50:05.420 | Loria] stone spiders. Oh, yeah, sorry, Gaudin.
 [u1725 | 02:50:06.150-02:50:09.800 | Gaudin] And there's that wasp thing
 [u1726 | 02:50:10.780-02:50:15.469 | Gaudin] right? So the goo is like working on the stone wasp right now.
 [u1727 | 02:50:15.820-02:50:16.580 | DM] Yup.
-[u1728 | 02:50:16.860-02:50:22.699 | Gaudin] is. The storm was susceptible to force
+[u1728 | 02:50:16.860-02:50:22.699 | Gaudin] is. The swarm was susceptible to force
 [u1729 | 02:50:23.050-02:50:24.819 | Gaudin] like in the stone mode.
 [u1730 | 02:50:26.270-02:50:27.650 | DM] Possibly.
 [u1731 | 02:50:29.470-02:50:33.020 | Gaudin] I make a
@@ -1736,18 +1736,18 @@
 [u1736 | 02:50:54.990-02:50:55.770 | Gaudin] Stop.
 [u1737 | 02:50:57.160-02:51:00.620 | Gaudin] I will. Can I like?
 [u1738 | 02:51:01.110-02:51:04.460 | Gaudin] What can I do to attack the things on top of me?
-[u1739 | 02:51:04.510-02:51:07.270 | Gaudin] I can't like Eldred's blast myself. Right?
-[u1740 | 02:51:07.350-02:51:11.380 | DM] I mean, they're swarming around the ground at your feet, too. You cannot just blast them.
-[u1741 | 02:51:11.390-02:51:14.539 | Gaudin] Okay, so I will just Eldridge glass them.
+[u1739 | 02:51:04.510-02:51:07.270 | Gaudin] I can't like Eldritch Blast myself. Right?
+[u1740 | 02:51:07.350-02:51:11.380 | DM] I mean, they're swarming around the ground at your feet, too. You can just blast them.
+[u1741 | 02:51:11.390-02:51:14.539 | Gaudin] Okay, so I will just Eldritch Blast them.
 [u1742 | 02:51:14.770-02:51:15.720 | DM] Okay.
 [u1743 | 02:51:18.980-02:51:20.430 | Loria] Got it
-[u1744 | 02:51:24.300-02:51:32.979 | DM] like more than like 2 thirds of the remaining spiders. Just get shattered as this last, of course.
+[u1744 | 02:51:24.300-02:51:32.979 | DM] like more than like 2 thirds of the remaining spiders. Just get shattered as this blast of force.
 [u1745 | 02:51:33.410-02:51:39.930 | DM] cracks a bunch of them, and then the remaining ones try and bite you, but there's not enough of them to get past your armor.
 [u1746 | 02:51:40.290-02:51:44.460 | DM] But the wasp does appear.
 [u1747 | 02:51:47.120-02:51:49.799 | DM] Yeah, where's my token for that?
 [u1748 | 02:51:52.030-02:51:55.439 | DM] this stone wasp
 [u1749 | 02:51:56.690-02:52:00.140 | DM] buzzing out
-[u1750 | 02:52:00.310-02:52:02.030 | DM] wise towards
+[u1750 | 02:52:00.310-02:52:02.030 | DM] flies towards
 [u1751 | 02:52:04.140-02:52:08.070 | DM] well, Acescale, I guess, is the closest obvious target.
 [u1752 | 02:52:08.720-02:52:13.639 | DM] and takes a swing at you with its stinger, which is a 15 to hit.
 [u1753 | 02:52:14.590-02:52:16.250 | Acescale] That's my A/C
@@ -1763,18 +1763,18 @@
 [u1763 | 02:52:57.570-02:52:59.280 | DM] stiffen
 [u1764 | 02:52:59.990-02:53:01.769 | DM] and turned to stone.
 [u1765 | 02:53:03.100-02:53:09.720 | DM] That ends the wasps. Turn.
-[u1766 | 02:53:09.950-02:53:14.639 | DM] That is a scales turn. Make another constitution saving throw.
+[u1766 | 02:53:09.950-02:53:14.639 | DM] That is Acescale's turn. Make another constitution saving throw.
 [u1767 | 02:53:15.330-02:53:16.480 | Acescale] I'm down
-[u1768 | 02:53:17.670-02:53:33.330 | DM] right where you're not. Actually, you're stable, but you're turning to st10, the the poison damage doesn't. It's a special poison. If it reduces you to 0 hit points. You're stable, but you begin to turn to stone. All right, let's go.
+[u1768 | 02:53:17.670-02:53:33.330 | DM] right where you're not. Actually, you're stable, but you're turning to stone, the the poison damage doesn't. It's a special poison. If it reduces you to 0 hit points. You're stable, but you begin to turn to stone. All right, let's go.
 [u1769 | 02:53:33.410-02:53:36.670 | Acescale] So I guess I can say that I've got successes on my
 [u1770 | 02:53:37.940-02:53:41.720 | Acescale] death save you don't have to roll death save you're considered stable.
 [u1771 | 02:53:41.910-02:53:48.450 | Acescale] Okay? So I've had 3 successes then for the purpose of D and D beyond exactly.
 [u1772 | 02:53:48.650-02:53:51.729 | Acescale] But I may also stone now.
-[u1773 | 02:53:51.910-02:53:59.239 | Dilion] but we could heal him and his. Now. you know, like, if I kill.
+[u1773 | 02:53:51.910-02:53:59.239 | Dilion] but we could heal him and his. Now. you know, like, if I heal.
 [u1774 | 02:53:59.510-02:54:00.889 | Acescale] I think so.
-[u1775 | 02:54:01.140-02:54:18.989 | DM] You have to fail to. You have to fail to save. This is slower poison than the other one. You have to 0 at poison. But you can see the stone from where the stinger was beginning to like creep over a skill's body, and he is stiff, standing there
+[u1775 | 02:54:01.140-02:54:18.989 | DM] You have to fail two. You have to fail two saves. This is slower poison than the other one. You have to be at 0 hit points. But you can see the stone from where the stinger was beginning to like creep over Acescale's body, and he is stiff, standing there
 [u1776 | 02:54:19.240-02:54:36.759 | DM] like unable to move, as like you see where his scales are. Suddenly there's like this like little bits of stone starting to creep over him. He fail. One more save you are petrified off him, but he's at 0. HP,
-[u1777 | 02:54:37.510-02:54:48.679 | DM] mechanically, this poison works differently. If he's ke if you heal him above 0. HP, he stops turning the stone.
+[u1777 | 02:54:37.510-02:54:48.679 | DM] mechanically, this poison works differently. If he's ke if you heal him above 0. HP, he stops turning to stone.
 [u1778 | 02:54:48.790-02:54:51.710 | Loria] I was gonna heal him. Okay, great
 [u1779 | 02:54:52.220-02:54:54.619 | DM] it's still a drop.
 [u1780 | 02:54:55.500-02:55:02.690 | Dilion] Can I go? This is not the same as the as the basilisk poison. This is a different poison. Can I go this way over the
@@ -1786,7 +1786,7 @@
 [u1786 | 02:55:27.730-02:55:28.950 | Dilion] I believe in you.
 [u1787 | 02:55:34.720-02:55:36.330 | Acescale] I believe in myself.
 [u1788 | 02:55:36.410-02:55:38.480 | DM] So even so as
-[u1789 | 02:55:38.490-02:55:49.140 | DM] as a Dylan touches you, and you begin to the magic crosses through your body, you can see this stone fade away.
+[u1789 | 02:55:38.490-02:55:49.140 | DM] as Dilion touches you, and you begin to the magic crosses through your body, you can see this stone fade away.
 [u1790 | 02:55:49.260-02:55:50.230 | DM] and you
 [u1791 | 02:55:50.760-02:55:59.120 | DM] you're still restrained until the start of your next turn. But you are no longer at 0 hit points, and you are no longer turning to stone.
 [u1792 | 02:55:59.140-02:56:16.270 | Dilion] Amazing. That's what I had.
@@ -1809,10 +1809,10 @@
 [u1809 | 02:57:47.300-02:57:49.750 | Unknown] and this wasp is clearly badly hurt.
 [u1810 | 02:57:50.630-02:57:52.699 | DM] Gaudin, you're up!
 [u1811 | 02:57:53.600-02:57:59.320 | Gaudin] I see the wasp as it is hurt, and want to finish it off.
-[u1812 | 02:57:59.930-02:58:04.300 | Gaudin] Aldridge. Blast that just misses.
+[u1812 | 02:57:59.930-02:58:04.300 | Gaudin] Eldritch Blast that just misses.
 [u1813 | 02:58:05.540-02:58:08.019 | DM] dodges away as your blast
 [u1814 | 02:58:08.070-02:58:09.120 | DM] strikes
-[u1815 | 02:58:09.140-02:58:14.769 | Gaudin] harmlessly against its stone body is made. Hand a bonus action.
+[u1815 | 02:58:09.140-02:58:14.769 | Gaudin] harmlessly against its stone body is Mage Hand a bonus action.
 [u1816 | 02:58:15.350-02:58:18.740 | DM] Nope, that's an action
 [u1817 | 02:58:18.910-02:58:19.810 | DM] that
 [u1818 | 02:58:20.070-02:58:25.250 | DM] remaining spiders can't get any purchase on you. There's so few of them left.
@@ -1825,7 +1825,7 @@
 [u1825 | 02:58:50.410-02:58:53.010 | Acescale] well, this one will work. I have. Faith.
 [u1826 | 02:58:54.400-02:58:55.150 | Acescale] Nope.
 [u1827 | 02:58:55.310-02:59:01.839 | Acescale] it really wants to put me to stone this thing, man.
-[u1828 | 02:59:02.690-02:59:05.489 | Acescale] 3 or 4 rules under 5.
+[u1828 | 02:59:02.690-02:59:05.489 | Acescale] 3 or 4 rolls under 5.
 [u1829 | 02:59:05.550-02:59:08.579 | Dilion] I try. Yeah, that's
 [u1830 | 02:59:09.690-02:59:14.249 | DM] What is that? 5, 3, one. That's a 9 points of poison damage
 [u1831 | 02:59:14.290-02:59:15.730 | Acescale] I'm under again.
@@ -1833,12 +1833,12 @@
 [u1833 | 02:59:26.560-02:59:33.020 | DM] Acescale is now turning back to stones and making it the Constitution saving throw
 [u1834 | 02:59:33.770-02:59:34.890 | Acescale] alright
 [u1835 | 02:59:36.120-02:59:38.210 | DM] still, not
-[u1836 | 02:59:38.610-02:59:52.269 | DM] How's the 130, there you go! But these are 11. You've been rolling very poorly. I've been rolling just terribly so. Am I at 0 now? Stable. So you're stable at 0 hit points. You're no longer target step.
+[u1836 | 02:59:38.610-02:59:52.269 | DM] That was a 13, there you go! But these are 11. You've been rolling very poorly. I've been rolling just terribly so. Am I at 0 now? Stable. So you're stable at 0 hit points. You're no longer turning to stone.
 [u1837 | 02:59:52.950-02:59:55.840 | Acescale] Okay, but they got it still stable.
 [u1838 | 02:59:56.430-02:59:58.850 | Acescale] like I had been. Spare the dying
-[u1839 | 02:59:59.020-03:00:01.870 | DM] exactly exactly like you had been. Spare the dime.
+[u1839 | 02:59:59.020-03:00:01.870 | DM] exactly exactly like you had been. Spare the Dying.
 [u1840 | 03:00:01.900-03:00:02.950 | Acescale] Okay.
-[u1841 | 03:00:03.930-03:00:05.099 | DM] Dylan, you're up
+[u1841 | 03:00:03.930-03:00:05.099 | DM] Dilion, you're up
 [u1842 | 03:00:05.260-03:00:08.750 | Dilion] alrighty. Can we just kill the wasp?
 [u1843 | 03:00:09.010-03:00:11.359 | Dilion] I think you can do it.
 [u1844 | 03:00:12.590-03:00:14.600 | DM] It only has 8 hit points left.
@@ -1846,31 +1846,31 @@
 [u1846 | 03:00:17.900-03:00:20.610 | DM] I have faith in you.
 [u1847 | 03:00:20.740-03:00:50.009 | Dilion] I the dog, is needing to pull its own weight today. He definitely has had a good time, so I'll attack with my sword standard. And that would be, yeah, yeah, so that's me attacking. And this would be a, was it? 3, 7? Okay.
 [u1848 | 03:00:50.680-03:00:54.799 | Loria] got it? Okay?
-[u1849 | 03:00:55.270-03:01:00.019 | DM] Is good job, Steve Pop.
+[u1849 | 03:00:55.270-03:01:00.019 | DM] Is good job, steampup.
 [u1850 | 03:01:00.190-03:01:14.070 | DM] In the interest of time Loria and Gaudin are easily able to do the remaining 4, 3 hit points of damage needed to crush the last stone spiders before they attack again.
 [u1851 | 03:01:15.130-03:01:18.530 | Gaudin] and you find yourself now standing
-[u1852 | 03:01:18.910-03:01:24.220 | Unknown] in Grimstones. a chemical laboratory of some kind.
+[u1852 | 03:01:18.910-03:01:24.220 | Unknown] in Grimstone's alchemical laboratory of some kind.
 [u1853 | 03:01:26.750-03:01:29.300 | Unknown] Yes, I'm looking for any signs of
 [u1854 | 03:01:30.110-03:01:33.640 | Dilion] the real steampup that could be.
 [u1855 | 03:01:34.210-03:01:35.739 | DM] Yeah.
 [u1856 | 03:01:35.760-03:01:41.830 | DM] there's 2 other passageways you haven't explored yet.
 [u1857 | 03:01:41.910-03:01:43.960 | Unknown] Here, however, you see
 [u1858 | 03:01:44.570-03:01:46.559 | DM] quite a number of
-[u1859 | 03:01:47.990-03:02:03.489 | DM] like our chemical ingredients. There's potions in various states of completion. There's notes kind of scattered around.
+[u1859 | 03:01:47.990-03:02:03.489 | DM] like alchemical ingredients. There's potions in various states of completion. There's notes kind of scattered around.
 [u1860 | 03:02:03.670-03:02:09.389 | DM] All the statues now are totally smashed after you smashed the 2 intact ones.
-[u1861 | 03:02:13.080-03:02:18.440 | Acescale] so is scale lying unconscious on the ground.
+[u1861 | 03:02:13.080-03:02:18.440 | Acescale] so Acescale lying unconscious on the ground.
 [u1862 | 03:02:19.250-03:02:25.260 | Acescale] says, Who who are any of these healing potions?
-[u1863 | 03:02:28.440-03:02:32.460 | DM] Some of them do look like Healy cushions.
+[u1863 | 03:02:28.440-03:02:32.460 | DM] Some of them do look like healing potions.
 [u1864 | 03:02:33.410-03:02:35.399 | Unknown] If one of the
-[u1865 | 03:02:35.540-03:02:43.950 | Loria] more people in this party could tell me what a healing potion looks like, I would like to refer to Acescale.
-[u1866 | 03:02:45.900-03:02:51.320 | DM] Yeah, you can definitely find a healing person things that look healing potion.
+[u1865 | 03:02:35.540-03:02:43.950 | Loria] more people in this party could tell me what a healing potion looks like, I would like to feed it to Acescale.
+[u1866 | 03:02:45.900-03:02:51.320 | DM] Yeah, you can definitely find a healing potion things that look healing potion.
 [u1867 | 03:02:51.330-03:03:04.230 | Dilion] It's important. It's unfortunate. The guy who would probably be. I identify the potions. The most is the one primary colors, and being like this looks like help. And then, just like
 [u1868 | 03:03:04.370-03:03:09.919 | DM] as as you pick up the potion, just roll a d. 4, please.
 [u1869 | 03:03:10.220-03:03:12.100 | Unknown] as I do. Oh, no!
 [u1870 | 03:03:13.210-03:03:15.540 | Loria] And then roll the roll, the healing.
 [u1871 | 03:03:15.900-03:03:19.700 | Unknown] 3 on the d. 4. Okay.
-[u1872 | 03:03:20.080-03:03:26.139 | Loria] And then what would be the alien for I don't know what I'm doing.
-[u1873 | 03:03:27.160-03:03:30.249 | DM] A person of healing is, I think.
+[u1872 | 03:03:20.080-03:03:26.139 | Loria] And then what would be the healing for I don't know what I'm doing.
+[u1873 | 03:03:27.160-03:03:30.249 | DM] A potion of healing is, I think.
 [u1874 | 03:03:30.410-03:03:31.840 | Acescale] 3, 4, 2,
 [u1875 | 03:03:32.160-03:03:34.419 | Dilion] 2, d. 4, plus 2,
 [u1876 | 03:03:34.680-03:03:36.610 | Loria] 2D. 4 plus 2.
@@ -1879,7 +1879,7 @@
 [u1879 | 03:03:46.370-03:03:49.709 | DM] feed this potion to Acescale, Acescale, you start
 [u1880 | 03:03:49.750-03:03:55.950 | Gaudin] choking on the poisoned drink that you are fed. Oh, no!
 [u1881 | 03:03:56.890-03:04:01.850 | Loria] Oh, make a oh, sorry. Okay,
-[u1882 | 03:04:01.940-03:04:03.459 | Acescale] I make a concept.
+[u1882 | 03:04:01.940-03:04:03.459 | Acescale] I make a Con save.
 [u1883 | 03:04:04.020-03:04:05.420 | Unknown] Yeah.
 [u1884 | 03:04:05.780-03:04:08.100 | Acescale] Okay.
 [u1885 | 03:04:10.620-03:04:15.720 | Loria] okay. So
@@ -1888,14 +1888,14 @@
 [u1888 | 03:04:29.820-03:04:36.650 | DM] Somebody will have to think quick to do something to stabilize you.
 [u1889 | 03:04:36.660-03:04:40.830 | Dilion] You're probably the only one who has medicine proficiency right?
 [u1890 | 03:04:41.000-03:04:56.919 | DM] Exactly the right. The worst person to be unconscious in this situation.
-[u1891 | 03:04:57.110-03:05:01.160 | DM] make an arc make a arkana check. Actually.
+[u1891 | 03:04:57.110-03:05:01.160 | DM] make an arc make a Arcana check. Actually.
 [u1892 | 03:05:01.680-03:05:04.359 | Unknown] like I'm not potion, savvy? But maybe
 [u1893 | 03:05:05.650-03:05:10.980 | Unknown] 25. Look at that! So.
 [u1894 | 03:05:11.440-03:05:14.170 | DM] looking at the potion that
 [u1895 | 03:05:14.250-03:05:17.679 | DM] was just fed to Acescale, and
 [u1896 | 03:05:17.860-03:05:24.530 | Unknown] the 3 remaining healing potions. you notice that one of them.
 [u1897 | 03:05:24.550-03:05:33.890 | DM] one of the 3 remaining just has this like. So there's something subtly off about it. It doesn't quite look right. You're not trained as an alchemist, but
-[u1898 | 03:05:33.940-03:05:38.100 | DM] you have enough, like artificial background, to realize that
+[u1898 | 03:05:33.940-03:05:38.100 | DM] you have enough, like artificer background, to realize that
 [u1899 | 03:05:39.780-03:05:45.889 | DM] one of the other 3 is probably also poison. But as far as you can tell. The other 2 are probably safe.
 [u1900 | 03:05:46.360-03:05:47.080 | Unknown] hey?
 [u1901 | 03:05:47.970-03:05:52.069 | DM] So while I'm doing that, go ahead and make a death saving throw. So
@@ -1906,11 +1906,11 @@
 [u1906 | 03:06:13.300-03:06:15.039 | DM] Just roll a d 20.
 [u1907 | 03:06:15.590-03:06:16.400 | Acescale] Okay.
 [u1908 | 03:06:17.150-03:06:19.819 | DM] it shouldn't. It shouldn't matter, though, because
-[u1909 | 03:06:21.040-03:06:26.629 | DM] that was a good enough archonic Jack that you do know. Okay, I got one fail
+[u1909 | 03:06:21.040-03:06:26.629 | DM] that was a good enough Arcana check that you do know. Okay, I got one fail
 [u1910 | 03:06:26.880-03:06:34.849 | Dilion] which does, in fact, turn out to be a healing potion.
 [u1911 | 03:06:34.940-03:06:36.200 | Gaudin] Oh.
 [u1912 | 03:06:36.340-03:06:40.169 | Dilion] I got a I got a B minus in in potions, so I'm glad I
-[u1913 | 03:06:40.180-03:06:46.789 | DM] just scraping by on your like half remembered potion more
+[u1913 | 03:06:40.180-03:06:46.789 | DM] just scraping by on your like half remembered potion lore
 [u1914 | 03:06:47.440-03:06:58.749 | DM] so that 2d4 plus 2. So for
 [u1915 | 03:07:00.430-03:07:04.770 | Acescale] I say, what a ride!
 [u1916 | 03:07:05.060-03:07:09.130 | Acescale] Please don't go under again.
@@ -1924,11 +1924,11 @@
 [u1924 | 03:07:54.510-03:07:58.080 | DM] But the other 4 are
 [u1925 | 03:07:59.060-03:08:08.440 | DM] look pretty safe and just based on your alchemist background. 2 of them are clearly anti-petrification.
 [u1926 | 03:08:08.690-03:08:12.039 | DM] so they'll reverse petrification
-[u1927 | 03:08:12.150-03:08:17.640 | Acescale] if applied within an hour of when somebody turns this down.
+[u1927 | 03:08:12.150-03:08:17.640 | Acescale] if applied within an hour of when somebody turns to stone.
 [u1928 | 03:08:18.350-03:08:19.780 | DM] one is.
 [u1929 | 03:08:20.580-03:08:23.460 | Acescale] go ahead. One is a potion of growth
 [u1930 | 03:08:25.000-03:08:27.709 | Acescale] which makes you big for an hour.
-[u1931 | 03:08:27.770-03:08:39.330 | DM] and one's a potion of advantage which gives you advantage on one role within an hour of drinking it, and there's still one potion of healing.
+[u1931 | 03:08:27.770-03:08:39.330 | DM] and one's a potion of advantage which gives you advantage on one roll within an hour of drinking it, and there's still one potion of healing.
 [u1932 | 03:08:40.610-03:08:43.130 | Acescale] and you also find
 [u1933 | 03:08:43.180-03:08:44.710 | DM] a recipe.
 [u1934 | 03:08:45.660-03:08:51.270 | DM] It looks like research notes or something for a glowing poison
@@ -1937,7 +1937,7 @@
 [u1937 | 03:09:05.120-03:09:09.489 | DM] has to make a constitution saving throw
 [u1938 | 03:09:09.980-03:09:11.740 | DM] with your spell, DC.
 [u1939 | 03:09:11.860-03:09:19.189 | DM] And if they fail, they shed bright light in a 10 foot radius and dim light for an additional 10 feet.
-[u1940 | 03:09:19.250-03:09:29.329 | DM] giving advantage on all attack roles against the poisoned creature. and preventing them from benefiting from invisibility until the eight hours are up.
+[u1940 | 03:09:19.250-03:09:29.329 | DM] giving advantage on all attack rolls against the poisoned creature. and preventing them from benefiting from invisibility until the eight hours are up.
 [u1941 | 03:09:34.180-03:09:36.139 | DM] But it takes time to make.
 [u1942 | 03:09:36.250-03:09:39.129 | DM] There is also, like, you know.
 [u1943 | 03:09:39.190-03:09:41.699 | DM] probably at least 50 gold worth of
@@ -1946,7 +1946,7 @@
 [u1946 | 03:10:11.720-03:10:14.440 | DM] So anybody who wants to take any treasure can.
 [u1947 | 03:10:15.560-03:10:30.589 | Dilion] I mean, take note. I feel like the alchemists probably gonna be the most excited over all those potions. At least, Loria, I might like a potion of growth
 [u1948 | 03:10:31.290-03:10:32.290 | Dilion] kind of fun.
-[u1949 | 03:10:32.490-03:10:46.829 | Gaudin] slide under tables. maps, or things on logistics of like, how is he getting supplies and anything like that that could be of note for David?
+[u1949 | 03:10:32.490-03:10:46.829 | Gaudin] slide under tables. maps, or things on logistics of like, how is he getting supplies and anything like that that could be of note for Gaudin?
 [u1950 | 03:10:47.940-03:10:49.559 | DM] Not in this room.
 [u1951 | 03:10:50.150-03:10:53.310 | Loria] Yeah, I think we need to go look in the other rooms.
 [u1952 | 03:10:54.060-03:10:58.249 | Gaudin] Is this a good time for a short rest
@@ -1967,13 +1967,13 @@
 [u1967 | 03:12:48.810-03:12:53.280 | Loria] right. But remember, if you only have 3 hit dice. So if you use.
 [u1968 | 03:12:53.290-03:12:57.870 | DM] you only get to use those many hit dice you didn't use last short rest.
 [u1969 | 03:12:58.020-03:13:01.539 | Gaudin] Oh, did not realize that
-[u1970 | 03:13:02.440-03:13:05.739 | DM] you still get your spouse back if you're a warlock.
+[u1970 | 03:13:02.440-03:13:05.739 | DM] you still get your spells back if you're a warlock.
 [u1971 | 03:13:16.220-03:13:16.930 | Unknown] Yes.
 [u1972 | 03:13:17.410-03:13:22.039 | Dilion] for the short rest. Sorry, since we're level 3. Do we? Can we use 2
 [u1973 | 03:13:22.060-03:13:30.759 | Dilion] hit die, or is it? Only it just depends on how many you use the last short rest. So if you use
 [u1974 | 03:13:31.470-03:13:34.900 | DM] 0, the last short rest you can use up to 3 hit die.
 [u1975 | 03:13:35.370-03:13:51.490 | Dilion] and then is, do you? Plus the con modifier? It's plus con as well for each one. So each one is for each one. Yeah. okay, I will use one and maybe 2. Let's have a look. So for
-[u1976 | 03:13:51.610-03:13:58.709 | Dilion] artificial is my hit die or not, it's should be one d8 plus your con d 8 plus
+[u1976 | 03:13:51.610-03:13:58.709 | Dilion] artificer is my hit die or not, it's should be one d8 plus your con d 8 plus
 [u1977 | 03:13:58.740-03:13:59.750 | Dilion] 2.
 [u1978 | 03:14:01.170-03:14:02.920 | Unknown] Let me just do.
 [u1979 | 03:14:07.530-03:14:09.809 | Dilion] I will be fine with,
@@ -1981,7 +1981,7 @@
 [u1981 | 03:14:13.690-03:14:15.740 | Unknown] gonna be bold enough.
 [u1982 | 03:14:20.820-03:14:23.299 | Dilion] So I guess we're looking down the other hallways right?
 [u1983 | 03:14:24.640-03:14:28.699 | DM] Yeah. So west or east first.
-[u1984 | 03:14:30.900-03:14:34.540 | Loria] Oh. Wes.
+[u1984 | 03:14:30.900-03:14:34.540 | Loria] Oh. west.
 [u1985 | 03:14:36.450-03:14:41.190 | DM] so creeping down this hallway. There's
 [u1986 | 03:14:41.380-03:14:42.550 | DM] no
 [u1987 | 03:14:42.580-03:14:48.659 | DM] light, there's no sign of any noise. There doesn't seem to be anybody here.
@@ -1994,12 +1994,12 @@
 [u1994 | 03:15:17.500-03:15:18.500 | DM] There's
 [u1995 | 03:15:19.740-03:15:25.559 | DM] a whole set of notes about basilisks how to catch and keep them.
 [u1996 | 03:15:25.920-03:15:41.369 | DM] Many, many like sort of half sketched out alchemical formula, and most of this seems to be sort of unhinged ranting about something called the Prime Arcana stone, or the stone of the prime, which is
-[u1997 | 03:15:41.480-03:15:50.850 | DM] a mystical substance, that when pattern allows the creation of particularly powerful potions and elixirs. and it's like.
+[u1997 | 03:15:41.480-03:15:50.850 | DM] a mystical substance, that when powdered allows the creation of particularly powerful potions and elixirs. and it's like.
 [u1998 | 03:15:51.400-03:15:58.440 | DM] you know, transmutation of flesh and body is the essence of flesh. Stone from magic is magic. Blah blah blah.
 [u1999 | 03:15:58.520-03:16:03.170 | DM] The living stone must be the answer, and as you spend some time
 [u2000 | 03:16:05.800-03:16:13.920 | DM] reading, flipping through these, you get the sense that somehow Grimstone thought that if you petrified the right person
 [u2001 | 03:16:14.020-03:16:17.769 | DM] they would become this Prime Arcana stone.
-[u2002 | 03:16:19.020-03:16:26.299 | DM] There's a bunch of notes like maybe Medusa layers, and like no, the stone is too old and too decayed
+[u2002 | 03:16:19.020-03:16:26.299 | DM] There's a bunch of notes like maybe Medusa lairs, and like no, the stone is too old and too decayed
 [u2003 | 03:16:27.370-03:16:29.190 | DM] need fresh stone.
 [u2004 | 03:16:30.310-03:16:40.710 | DM] all just kind of scribbled around. You see a map that shows this place circled and marked with a little Medusa next to it. and like a check and underline.
 [u2005 | 03:16:41.280-03:16:41.980 | DM] Okay.
@@ -2009,7 +2009,7 @@
 [u2009 | 03:16:57.010-03:17:03.160 | DM] somebody who was convinced that the more people he turned to stone, the closer he was to immortality.
 [u2010 | 03:17:04.190-03:17:07.520 | Dilion] There's no other exit or anything to that particular room.
 [u2011 | 03:17:07.780-03:17:11.520 | DM] Nope, there's a unlocked chest with
-[u2012 | 03:17:12.860-03:17:17.000 | DM] close maintain personal goods, but nothing else.
+[u2012 | 03:17:12.860-03:17:17.000 | DM] clothes, mundane personal goods, but nothing else.
 [u2013 | 03:17:21.770-03:17:26.210 | Loria] Yes, to the East, then. Yeah, I guess if there's nothing else in that room of note.
 [u2014 | 03:17:26.550-03:17:27.920 | DM] So as you
 [u2015 | 03:17:28.110-03:17:40.149 | DM] creep down to this room, you see first of all, you see, Pikeia, your dog, the flesh version of your dog tied up in this chamber.
@@ -2049,20 +2049,20 @@
 [u2049 | 03:20:43.670-03:20:50.910 | DM] But this again seems to be like this whole story of the Prime Arcana, and it talks about
 [u2050 | 03:20:51.090-03:21:03.290 | DM] how you can achieve, how you can make potion of invulnerability, how you can make a potion of immortality that resets that regenerates you 10 years potion of a youth.
 [u2051 | 03:21:03.350-03:21:08.270 | DM] All of these things can be constructed if you can only figure out how to make
-[u2052 | 03:21:08.670-03:21:10.700 | DM] the primary.
+[u2052 | 03:21:08.670-03:21:10.700 | DM] the Prime Arcana.
 [u2053 | 03:21:11.630-03:21:19.330 | DM] and it's just like a list of like 50 different things. You could make recipes for each one in this very
 [u2054 | 03:21:19.340-03:21:21.979 | DM] cribbed small handwriting
 [u2055 | 03:21:22.200-03:21:25.669 | DM] and a lot of ingredients don't make sense. They're things like, you know.
 [u2056 | 03:21:26.190-03:21:28.100 | DM] The the tears
 [u2057 | 03:21:28.260-03:21:29.180 | DM] of
 [u2058 | 03:21:29.560-03:21:33.080 | DM] a ship at sea collected in moonlight.
-[u2059 | 03:21:33.680-03:21:39.520 | DM] but then every single one has, like a. you know, add a pinch of the primark on.
+[u2059 | 03:21:33.680-03:21:39.520 | DM] but then every single one has, like a. you know, add a pinch of the Prime Arcana.
 [u2060 | 03:21:39.930-03:21:40.810 | Loria] Hmm.
 [u2061 | 03:21:46.550-03:21:48.750 | DM] Seems to be something that have been
 [u2062 | 03:21:48.960-03:21:51.030 | Acescale] good. Sorry. Go ahead.
 [u2063 | 03:21:52.460-03:21:58.570 | Acescale] II was just gonna say, I'm worried that Acescale would start to get like a little curious about it. At this point
 [u2064 | 03:21:58.600-03:22:02.910 | Acescale] I'm here just for my poker winnings. But this is a really nice lab and
-[u2065 | 03:22:03.010-03:22:11.070 | Acescale] man a mortality that could be worth a lot. I bet I could sell that for a lot of money. And well, we've already got all these statues here. And the
+[u2065 | 03:22:03.010-03:22:11.070 | Acescale] man immortality that could be worth a lot. I bet I could sell that for a lot of money. And well, we've already got all these statues here. And the
 [u2066 | 03:22:11.260-03:22:18.129 | Dilion] it could be the new. There's gonna be the new
 [u2067 | 03:22:18.290-03:22:21.620 | Acescale] yeah.
 [u2068 | 03:22:21.660-03:22:28.330 | Acescale] how does the how does the mask fit? Is it a good? It's my snout in the way. What's the deal? It's a little small for you.
@@ -2080,7 +2080,7 @@
 [u2080 | 03:23:13.400-03:23:14.320 | DM] it feels
 [u2081 | 03:23:14.480-03:23:19.060 | Unknown] heavier in hand as you roll it, and like you can almost
 [u2082 | 03:23:20.470-03:23:26.919 | DM] feel you can almost feel it as you roll it like in your mind. You can see it clicking around all
-[u2083 | 03:23:27.540-03:23:33.080 | Unknown] besides, and as it stops you see a second before it stops. What the number is
+[u2083 | 03:23:27.540-03:23:33.080 | Unknown] the sides, and as it stops you see a second before it stops. What the number is
 [u2084 | 03:23:35.210-03:23:40.879 | Loria] I can't imagine why this would be handy at all, and I just pocket it.
 [u2085 | 03:23:42.030-03:23:46.420 | DM] There are. There's a necklace of pearls.
 [u2086 | 03:23:47.370-03:23:50.369 | Unknown] probably worth a good chunk of money.
@@ -2098,10 +2098,10 @@
 [u2098 | 03:24:55.980-03:24:56.980 | Loria] Yeah.
 [u2099 | 03:24:57.160-03:25:00.980 | DM] Yeah. So that was the chest. The one chest
 [u2100 | 03:25:03.970-03:25:05.679 | Dilion] case number 2.
-[u2101 | 03:25:07.140-03:25:12.350 | Loria] Lauren got a ring has no interest in opening any other desk. She's at a bad day.
+[u2101 | 03:25:07.140-03:25:12.350 | Loria] Loria got a ring has no interest in opening any other chest. She's had a bad day.
 [u2102 | 03:25:12.570-03:25:16.980 | Loria] 2 dogs sniffs.
 [u2103 | 03:25:17.880-03:25:21.630 | DM] It doesn't smell like anything weird.
-[u2104 | 03:25:25.960-03:25:29.449 | Gaudin] II can open it with made chains as we step away.
+[u2104 | 03:25:25.960-03:25:29.449 | Gaudin] II can open it with Mage Hand as we step away.
 [u2105 | 03:25:29.980-03:25:32.539 | Gaudin] just in case there's something.
 [u2106 | 03:25:34.220-03:25:36.780 | Gaudin] So we all back away
 [u2107 | 03:25:36.930-03:25:41.180 | Gaudin] very carefully, slowly opens the lid
@@ -2109,7 +2109,7 @@
 [u2109 | 03:25:48.410-03:25:53.199 | DM] springs forward, trying to bite this invisible hand
 [u2110 | 03:25:54.130-03:26:03.329 | Acescale] out. You've been calling mimic since the first minute
 [u2111 | 03:26:04.390-03:26:17.229 | DM] I am like I find a piece of paper and write like mimic. Can I put it like near, quickly back, away from it.
-[u2112 | 03:26:17.270-03:26:20.800 | DM] It was very slowly easy for you to escape
+[u2112 | 03:26:17.270-03:26:20.800 | DM] It moves very slowly. Easy for you to escape
 [u2113 | 03:26:20.810-03:26:24.040 | Gaudin] cool. Yeah. No dogs out.
 [u2114 | 03:26:27.110-03:26:28.290 | Unknown] so
 [u2115 | 03:26:29.540-03:26:32.930 | Unknown] you rest. recover.
@@ -2137,19 +2137,19 @@
 [u2137 | 03:28:11.050-03:28:12.540 | DM] from the
 [u2138 | 03:28:13.910-03:28:23.510 | DM] you know, back way, slipping over the wall. The goblins seem to have fled as soon as the hobgoblins
 [u2139 | 03:28:24.750-03:28:33.689 | DM] As soon as everybody, as soon as they realize that Grimstone wasn't coming out for the normal Sunday morning, ritual goblins took off.
-[u2140 | 03:28:34.380-03:28:38.749 | DM] pop, goblins got mad, and you escape in the chaos.
+[u2140 | 03:28:34.380-03:28:38.749 | DM] hobgoblins got mad, and you escape in the chaos.
 [u2141 | 03:28:39.950-03:28:41.320 | DM] Good thanks.
 [u2142 | 03:28:42.810-03:28:47.709 | DM] On the road down from these mountains into the valley.
 [u2143 | 03:28:47.840-03:28:49.050 | DM] You
 [u2144 | 03:28:49.180-03:28:52.149 | DM] say your goodbyes. Make plans
 [u2145 | 03:28:53.380-03:28:58.470 | DM] split up your treasure. I'll just give everybody like a minute to
 [u2146 | 03:28:59.140-03:29:02.580 | DM] wrap up their character's story. However they want.
-[u2147 | 03:29:04.000-03:29:19.259 | Dilion] Do we get a Grimstone-to-Acescale room-scale essay? Then you, then, you boss, I yeah, I don't think I'm going back there
+[u2147 | 03:29:04.000-03:29:19.259 | Dilion] Do we get a Grimstone-to-Acescale Grimscale, as the new, the new boss? I yeah, I don't think I'm going back there
 [u2148 | 03:29:19.480-03:29:33.910 | Acescale] But I do have a nice set of alchemy equipment and some new skills that I didn't have going in. So I've definitely got a 9 to 5 lined up. I think I can probably start a little potion store.
 [u2149 | 03:29:34.180-03:29:41.260 | Acescale] but I I take probably like half of my loot.
 [u2150 | 03:29:41.340-03:29:59.219 | Acescale] and then divide it up between the 3 of you I was. I am like playing with the die that I grabbed, and I was like this has got to be worth somewhere in the realm of via this. And II wanna make sure that I'm on the good side of luck and Karma. So I say, thank you all for for the help.
 [u2151 | 03:29:59.230-03:30:05.749 | Acescale] it was lovely to meet you, and I hope this serves you all well.
-[u2152 | 03:30:05.760-03:30:16.580 | Acescale] going forward. I'm gonna I'm gonna play a little double or nothing with this dye, I think, from time to time, so that the dye works. I'm sure it'll never come up, but it works
+[u2152 | 03:30:05.760-03:30:16.580 | Acescale] going forward. I'm gonna I'm gonna play a little double or nothing with this die, I think, from time to time, so that the die works. I'm sure it'll never come up, but it works
 [u2153 | 03:30:16.830-03:30:22.299 | DM] the minute it leaves your hand. You know what number it's gonna roll. So
 [u2154 | 03:30:23.420-03:30:32.719 | Acescale] yeah, so I'll get people pick a number between one and 6. And I'll tell you if this is gonna be higher or lower when I roll it and they bet on it. Yeah.
 [u2155 | 03:30:33.140-03:30:42.729 | Acescale] yeah, I think that's that's probably Acescale a little bit. Little bit of gambling and a little bit of 9 to 5 potion crafting.
@@ -2163,7 +2163,7 @@
 [u2163 | 03:31:20.290-03:31:21.680 | Gaudin] and
 [u2164 | 03:31:21.910-03:31:33.449 | Gaudin] is kind of intrigued about the the network and probably be snooping around this area, figuring out what he can learn from what was going on here. For his smuggling.
 [u2165 | 03:31:34.010-03:31:38.839 | DM] One of the maps had a bunch of pirate old pirate hideouts marked on it. So
-[u2166 | 03:31:44.710-03:32:13.140 | Dilion] guess, Dylan, now that he has the ability to create another dog was so such distraught from losing, one was able to create another. And now he can go back to wondering the wilderness. But now, with 2 dogs looking for a place to settle down. But maybe the wildness is where he feels the most comfortable because it's with his his 2 pets.
+[u2166 | 03:31:44.710-03:32:13.140 | Dilion] guess, Dilion, now that he has the ability to create another dog was so such distraught from losing, one was able to create another. And now he can go back to wandering the wilderness. But now, with 2 dogs looking for a place to settle down. But maybe the wildness is where he feels the most comfortable because it's with his his 2 pets.
 [u2167 | 03:32:13.270-03:32:18.349 | Dilion] Maybe a third is on the way.
 [u2168 | 03:32:19.150-03:32:28.100 | Dilion] Yeah, I just like the idea. You just kinda goes off like and stuff, but into it was exploring the area already. And I think kind of
 [u2169 | 03:32:28.730-03:32:35.240 | Dilion] yeah enjoys the exploration aspect. But I mean. it's 2 dogs, but one lit but one of them you don't have to feed
@@ -2174,7 +2174,7 @@
 [u2174 | 03:32:59.180-03:33:02.439 | Unknown] she parts ways, apologizing for her
 [u2175 | 03:33:02.770-03:33:13.840 | Loria] somewhat feeble spirit in the face of adversity. And knowing that this isn't really her path, this this whole combat thing, unless she's like forced into it.
 [u2176 | 03:33:14.000-03:33:16.879 | Loria] She
-[u2177 | 03:33:16.940-03:33:30.709 | Loria] decide to set off back south again. Try to find the King more of us, and to see if she can be admitted to it, and as she walks down like a very soft boot
+[u2177 | 03:33:16.940-03:33:30.709 | Loria] decide to set off back south again. Try to find the kingdom of Orenlas, and to see if she can be admitted to it, and as she walks down like a very soft hoot
 [u2178 | 03:33:30.860-03:33:34.589 | Loria] of owls as she goes, and her little birds fly around her
 [u2179 | 03:33:34.810-03:33:39.699 | Loria] go off, and she sort of almost disappears in a little bit of a flurry of wings.
 [u2180 | 03:33:41.050-03:33:46.480 | Loria] Alfred Hitchcock. Much like
@@ -2182,8 +2182,8 @@
 [u2182 | 03:33:49.010-03:33:51.190 | DM] perfect, great ending.
 [u2183 | 03:33:51.450-03:33:56.200 | Gaudin] And Loria was pretty. I mean, you had a few crucial natural 20. S. Yeah.
 [u2184 | 03:33:56.550-03:34:06.760 | Loria] Yeah. But like she didn't want to. It was all like and then, just like it happened, I think you could have had the highest like dps like it really seemed like you really like
-[u2185 | 03:34:07.150-03:34:10.289 | DM] laying on it. Pretty convenient welding is.
-[u2186 | 03:34:10.570-03:34:16.330 | Loria] Do like, do it? Welding ranges are pretty good. We'll make this fun. This is the first time I've done
+[u2185 | 03:34:07.150-03:34:10.289 | DM] laying on it. Pretty convenient wielding is.
+[u2186 | 03:34:10.570-03:34:16.330 | Loria] Do like, dual-wielding rangers are pretty good. We'll make this fun. This is the first time I've done
 [u2187 | 03:34:16.480-03:34:18.219 | Gaudin] like 2 weapon fighting
 [u2188 | 03:34:18.700-03:34:19.999 | Loria] that that is.
 [u2189 | 03:34:20.890-03:34:26.430 | Loria] that with the swarm aspect of it really way more damage than I was expecting.
