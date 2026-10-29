@@ -2724,7 +2724,7 @@
 [u2724 | 03:21:14.580-03:21:20.190 | DM] Fought some things like that around here those insect beasts that spit acid sometimes come out.
 [u2725 | 03:21:22.680-03:21:24.780 | DM] But then I noticed one of them had.
 [u2726 | 03:21:27.270-03:21:37.980 | DM] Had saddled their horse with something that was clearly of Dunmari make into my mind seemed like it must be magical it was very old.
-[u2727 | 03:21:40.290-03:21:42.060 | DM] {{Last}} said it dated back to the.
+[u2727 | 03:21:40.290-03:21:42.060 | DM] Lad said it dated back to the.
 [u2728 | 03:21:43.890-03:21:51.030 | DM] To the second Hobgoblin War 150 years ago, and yet it was still completely new condition.
 [u2729 | 03:21:53.130-03:22:02.850 | DM] Said he found that out in the desert, and I said well if I found your halberd lying on the ground with that make it mine.
 [u2730 | 03:22:04.980-03:22:06.240 | DM] He didn't really like that.
@@ -3372,7 +3372,7 @@
 [u3372 | 04:13:02.886-04:13:06.096 | DM] East with the group, right now, supposedly lives north of Tokra.
 [u3373 | 04:13:07.956-04:13:09.006 | Wellby] That would be interesting.
 [u3374 | 04:13:09.336-04:13:10.536 | Delwath] That would be interesting.
-[u3375 | 04:13:11.406-04:13:17.646 | Delwath] and remind me what we know about {{profit cars}} is the Chardonians stole them right.
+[u3375 | 04:13:11.406-04:13:17.646 | Delwath] and remind me what we know about Hralgar's eyes is the Chardonians stole them right.
 [u3376 | 04:13:17.706-04:13:19.986 | DM] yeah presumption is the Chardonians.
 [u3377 | 04:13:20.226-04:13:23.916 | DM] liberated them and took them to Chardon.
 [u3378 | 04:13:26.766-04:13:27.096 | Seeker] yeah.
@@ -3457,8 +3457,8 @@
 [u3457 | 04:20:07.206-04:20:12.066 | Delwath] where's the where's the initiate where's the monastery of Chidya yeah there.
 [u3458 | 04:20:12.696-04:20:14.796 | Kenzo] Is a one volume Chidya.
 [u3459 | 04:20:15.186-04:20:19.416 | DM] holly there's actually there's actually four more because you've got.
-[u3460 | 04:20:19.776-04:20:20.556 | Delwath] {{OSHA una}}.
-[u3461 | 04:20:20.916-04:20:21.546 | DM] {{una}} and.
+[u3460 | 04:20:19.776-04:20:20.556 | Delwath] Bhishma, Laka.
+[u3461 | 04:20:20.916-04:20:21.546 | DM] Laka and.
 [u3462 | 04:20:21.726-04:20:23.136 | DM] Shakun and and.
 [u3463 | 04:20:24.486-04:20:26.886 | DM] and Bhishma but sort of demi gods.
 [u3464 | 04:20:28.866-04:20:30.186 | Delwath] They only like half count.

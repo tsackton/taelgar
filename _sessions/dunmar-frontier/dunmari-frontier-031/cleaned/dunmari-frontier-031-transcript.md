@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 31
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-031-source-cleaned.md
 
 ## Transcript
@@ -431,8 +431,8 @@ Delwath: If they will recover.
 %% u0275:0-71 %%
 Kenzo: It's true the where are we relative to the [garbled].
 
-%% u0276:0-43 %%
-DM: {{are two are very close to the bathroom}}.
+%% u0276:0-39 %%
+DM: You are—you are very close to Bas Udda.
 
 %% u0277:0-12 %%
 Kenzo: Okay got it.
@@ -3062,8 +3062,8 @@ Kenzo: Okay, I get two attacks, so I can I can shoot out you're.
 %% u1608:0-66 %%
 DM: Not with it that you're casting a spell you're not attacking yeah.
 
-%% u1609:0-55, u1610:0-16 %%
-Kenzo: Okay, and then I guess can I bonus action soul [garbled] you're having a.
+%% u1609:0-53, u1610:0-16 %%
+Kenzo: Okay, and then I guess can I bonus action Soul Sight you're having a.
 
 %% u1611:0-10 %%
 DM: Hard yeah.
@@ -5855,8 +5855,8 @@ Delwath: Yeah.
 %% u3178:0-11 %%
 Kenzo: What is it?
 
-%% u3179:0-41, u3180:0-14 %%
-Delwath: I just I wonder if we should [garbled] the Dunmari first.
+%% u3179:0-39, u3180:0-14 %%
+Delwath: I just I wonder if we should ferry the Dunmari first.
 
 %% u3181:0-87, u3182:0-228 %%
 Kenzo: Yeah bring them in about this I'll bring the I can bring the Dunmari into town with me. Cintra because they're obviously just need care so Cintra Cintra can help you know get them set up so that they're being cared for someplace probably in the temple and then and then I'll bring Cintra out to talk about the items.
@@ -6332,8 +6332,8 @@ Drikod: I don't know what's a more pressing piece of knowledge, you need um well
 %% u3447:0-57 %%
 Kenzo: Most important thing we need to know is who's trapped in.
 
-%% u3448:0-21, u3449:0-60, u3450:0-51 %%
-Delwath: Them yeah I think we. We show the mirror to the mirror and the question we ask is. [garbled]
+%% u3448:0-21, u3449:0-60, u3450:0-29 %%
+Delwath: Them yeah I think we. We show the mirror to the mirror and the question we ask is. Who has Agata put inside you?
 
 %% u3451:0-56 %%
 Seeker: The—who, who volunteers to hold up the mirror the mirror?
@@ -6675,8 +6675,8 @@ DM: So. I would say Seeker. I mean, for this is this is how I mean this is defin
 %% u3677:0-31 %%
 Kenzo: Except for the psychedelic era.
 
-%% u3678:0-31, u3679:0-8, u3680:0-17, u3681:0-44, u3682:0-28, u3683:0-19, u3684:0-55, u3685:0-260, u3686:0-45, u3687:0-17, u3688:0-102, u3689:0-109, u3690:0-44 %%
-DM: Except for the psychedelic era. This is. You know this is. You don't think this is particularly recent it's probably pre Great War, is your best guess. This is the kind of style of ruin that sort of litters. So south of the like ruins, you know up on the map like up here, these big ruins if you can see the like giant crater with {{monster}} used to be south of there like along here there's like there used to be, you know fairly substantial hobgoblin presence here. And this is where a lot of hobgoblins fought in the Great War. And that's so there's a bunch of ruins along there now and that's kind of what this feels like to you. Drikod as well, like you would have heard you may have heard stories of because that's not too far from your. [garbled] right so it's that kind of style.
+%% u3678:0-31, u3679:0-8, u3680:0-17, u3681:0-44, u3682:0-28, u3683:0-19, u3684:0-55, u3685:0-259, u3686:0-45, u3687:0-17, u3688:0-102, u3689:0-109, u3690:0-44 %%
+DM: Except for the psychedelic era. This is. You know this is. You don't think this is particularly recent it's probably pre Great War, is your best guess. This is the kind of style of ruin that sort of litters. So south of the like ruins, you know up on the map like up here, these big ruins if you can see the like giant crater where mountains used to be south of there like along here there's like there used to be, you know fairly substantial hobgoblin presence here. And this is where a lot of hobgoblins fought in the Great War. And that's so there's a bunch of ruins along there now and that's kind of what this feels like to you. Drikod as well, like you would have heard you may have heard stories of because that's not too far from your. [garbled] right so it's that kind of style.
 
 %% u3691:0-8 %%
 Kenzo: And the.
@@ -6975,8 +6975,8 @@ DM: I will wait.
 %% u3860:0-27 %%
 Kenzo: Let's free the other three.
 
-%% u3861:0-37 %%
-Delwath: Yeah {{you don't really}} orc either.
+%% u3861:0-34 %%
+Delwath: Yeah we don't free the orc either.
 
 %% u3862:0-10 %%
 Kenzo: Yeah just.

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 28
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-028-source-cleaned.md
 
 ## Transcript
@@ -951,7 +951,7 @@ Delwath: And the centaurs felt like she could be dealt with they had an agreemen
 Seeker: Indeed, did they did, and still.
 
 %% u0688:0-143, u0689:0-77, u0690:0-70, u0691:0-51 %%
-Kenzo: Sort of looks at Cintra. It's a long story. We, there was a—there's a storm giant in {{it's our fan}}, it was—we had some interactions with it. There we ran into some centaurs. They are now currently in Karawa helping to protect the temple alongside Candrosa until the heart can be returned. We can tell more the details there's there's a lot.
+Kenzo: Sort of looks at Cintra. It's a long story. We, there was a—there's a storm giant and it's our friend, it was—we had some interactions with it. There we ran into some centaurs. They are now currently in Karawa helping to protect the temple alongside Candrosa until the heart can be returned. We can tell more the details there's there's a lot.
 
 %% u0692:0-10 %%
 Seeker: It's true.

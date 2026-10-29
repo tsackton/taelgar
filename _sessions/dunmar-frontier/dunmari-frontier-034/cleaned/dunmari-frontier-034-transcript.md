@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 34
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-034-source-cleaned.md
 
 ## Transcript
@@ -26,8 +26,8 @@ DM: A few hours ago you cross the bridge over the Hara to Tokra before turning s
 %% u0019:0-104, u0020:0-30, u0021:0-109, u0022:0-41, u0023:0-60 %%
 DM: The temple to which you have a letter of introduction to the head priest there from Candrosa, should you wish to journey there and ask for favors or anything. And it's also the temple here is also the center of civil administration for the city. Near the temple two other buildings both smaller and with a few dwarven architectural elements stand.
 
-%% u0024:0-68, u0025:0-255 %%
-DM: Also, rising above the walls, maybe 300 feet tall is a massive tree. It is now seemingly made of stone with dry cracked bark and leafless branches, but Kenzo having lived here for several years, you know that it will flower after the rains come filling the city with the scent of vanilla {{till at least start}} in the fall.
+%% u0024:0-68, u0025:0-251 %%
+DM: Also, rising above the walls, maybe 300 feet tall is a massive tree. It is now seemingly made of stone with dry cracked bark and leafless branches, but Kenzo having lived here for several years, you know that it will flower after the rains come filling the city with the scent of vanilla will at least start in the fall.
 
 %% u0026:0-24 %%
 Kenzo: How old's the tree, Tim?
@@ -170,8 +170,8 @@ Wellby: I put a sign on him that says, “I am a working animal.” “Please do
 %% u0133:0-18, u0134:0-40 %%
 Seeker: Any problems like steals people's lunch, as he walks past.
 
-%% u0135:0-182 %%
-Wellby: He's pretty bad like I think he's a very nice [garbled] but he's very like bad ass looking and he's got his own armor now and all his gear, so I think people probably give him a wide berth.
+%% u0135:0-188 %%
+Wellby: He's pretty bad like I think he's a very nice axe beak but he's very like bad ass looking and he's got his own armor now and all his gear, so I think people probably give him a wide berth.
 
 %% u0136:0-12 %%
 Seeker: Yeah reason.
@@ -455,8 +455,8 @@ Kenzo: Have you settled down for dinner yet?
 %% u0359:0-135, u0360:0-8, u0361:0-22 %%
 Wellby: Oh I've had a bite or two, but I could always do more I sort of intended to get get settled here and then head back out your way again. Perfect. There within the hour.
 
-%% u0362:0-138, u0363:0-94, u0364:0-27 %%
-Kenzo: Okay Kenzo kind of says right, I mean we could go and meet Wellby in the city and go meet up {{the quran}} at the inn at the tavern there. Or we could all spend a little time here and chat a little bit more before we decide to go in. Whatever whatever you want.
+%% u0362:0-136, u0363:0-94, u0364:0-27 %%
+Kenzo: Okay Kenzo kind of says right, I mean we could go and meet Wellby in the city and go meet up with Kirian at the inn at the tavern there. Or we could all spend a little time here and chat a little bit more before we decide to go in. Whatever whatever you want.
 
 %% u0365:0-50, u0366:0-12, u0367:0-44, u0368:0-75, u0369:0-13, u0370:0-45 %%
 Delwath: I would only wonder if we disappear for the night, will people—how noticed were we crossing the bridge? How—is anybody you'd be spreading rumors that that that we're here already and nobody knows where we are? Feels to me like establishing a.
@@ -1202,8 +1202,8 @@ DM: I think there are a small contingent of the Mage Guard. The magical forces t
 %% u0852:0-25, u0853:0-201 %%
 DM: I gather that Karnas had sent some letter asking for help, and there was some concern about what magical dangers could come off the blasted plains in the absence of defenses and so Chardon sent a few wizards to watch our back.
 
-%% u0854:0-68 %%
-Kenzo: Right and it {{wouldn't have no reason to do the archives, with a}}?
+%% u0854:0-73 %%
+Kenzo: Right, and they wouldn't have no reason to loot the archives, would they?
 
 %% u0855:0-35 %%
 DM: That is a theory, I have not heard.
@@ -1436,8 +1436,8 @@ DM: All right, you talk, you mentioned that yeah.
 %% u0999:0-28 %%
 Seeker: Well, there were some other.
 
-%% u1000:0-11, u1001:0-25, u1002:0-22, u1003:0-63 %%
-Delwath: Some other some other way, yes yeah there was another way. But now Delwath can {{read all right now, the goal}} languages.
+%% u1000:0-11, u1001:0-25, u1002:0-22, u1003:0-61 %%
+Delwath: Some other some other way, yes yeah there was another way. But now Delwath can read all writing now, like all languages.
 
 %% u1004:0-72 %%
 DM: How, and now you can make two people fly or make three people invisible.

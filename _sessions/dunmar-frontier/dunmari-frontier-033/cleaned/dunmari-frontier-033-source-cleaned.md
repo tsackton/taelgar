@@ -789,7 +789,7 @@
 [u0789 | 01:01:12.900-01:01:13.950 | Seeker] What was what was there.
 [u0790 | 01:01:15.570-01:01:16.260 | DM] humans.
 [u0791 | 01:01:16.620-01:01:17.340 | Seeker] Humans were there.
-[u0792 | 01:01:18.180-01:01:19.680 | Delwath] That was that was {{barrel someone}}.
+[u0792 | 01:01:18.180-01:01:19.680 | Delwath] That was that was Beryl's homeland.
 [u0793 | 01:01:21.510-01:01:23.430 | Wellby] Oh that's right.
 [u0794 | 01:01:23.520-01:01:25.680 | Kenzo] And the Kyr's village was over here somewhere.
 [u0795 | 01:01:26.160-01:01:27.000 | Delwath] Oh really wasn't it.
@@ -816,7 +816,7 @@
 [u0816 | 01:02:24.960-01:02:26.460 | Delwath] Well, the red mist came back.
 [u0817 | 01:02:27.990-01:02:31.200 | Delwath] Same plague probably right wait.
 [u0818 | 01:02:31.320-01:02:31.800 | Delwath] For it.
-[u0819 | 01:02:31.830-01:02:33.990 | Delwath] {{She might the strange probably district drink}}.
+[u0819 | 01:02:31.830-01:02:33.990 | Delwath] Cha'mutte's strain probably destroyed Drankor.
 [u0820 | 01:02:34.410-01:02:36.000 | Delwath] I don't know if we ever discovered that.
 [u0821 | 01:02:36.090-01:02:37.290 | Seeker] Mist, mist variant.
 [u0822 | 01:02:38.760-01:02:39.900 | Kenzo] i'm.
@@ -1094,7 +1094,7 @@
 [u1094 | 01:25:19.260-01:25:19.590 | Seeker] yeah.
 [u1095 | 01:25:19.860-01:25:21.720 | Kenzo] You know, like only side quests.
 [u1096 | 01:25:22.290-01:25:24.030 | Delwath] God, why don't we go find the.
-[u1097 | 01:25:24.930-01:25:26.820 | Delwath] village that his {{God}} came from.
+[u1097 | 01:25:24.930-01:25:26.820 | Delwath] village that Drikod came from.
 [u1098 | 01:25:27.150-01:25:28.080 | Kenzo] i'm into that one too.
 [u1099 | 01:25:28.140-01:25:29.250 | Kenzo] I'd like— I'll support that.
 [u1100 | 01:25:29.400-01:25:30.060 | Kenzo] I would go there.
@@ -1615,7 +1615,7 @@
 [u1615 | 02:04:30.990-02:04:36.060 | Delwath] i'll go poke around and help them cook slash see if I can learn something.
 [u1616 | 02:04:37.830-02:04:40.440 | DM] So they so so so she brings out.
 [u1617 | 02:04:41.820-02:04:53.640 | DM] The like the Nice stuff right, so they have some some dried some dried fruit and um just like a nice platter of like like flat breads dried fruit.
-[u1618 | 02:04:55.170-02:05:03.600 | DM] they've goat here because they slaughtered a goat a couple days ago, and so they've got goat skewers cooked over the fire nicely spiced.
+[u1618 | 02:04:55.170-02:05:03.600 | DM] they've got goat here because they slaughtered a goat a couple days ago, and so they've got goat skewers cooked over the fire nicely spiced.
 [u1619 | 02:05:05.970-02:05:09.720 | DM] Some, like like honey cakes for dessert.
 [u1620 | 02:05:10.980-02:05:18.390 | DM] it's a it's a pretty good spread it's it's like you know better it's all fresh right you're mostly eating trail rations which is pretty much.
 [u1621 | 02:05:19.260-02:05:35.370 | DM] You know hard goats cheese hard goat's cheese and and dried jerky and like hard bread or cracker type things right so it's nice to get some fresh food some especially some.
@@ -1949,7 +1949,7 @@
 [u1949 | 02:29:00.600-02:29:01.080 | Kenzo] and
 [u1950 | 02:29:01.710-02:29:04.380 | Seeker] You wouldn't be referring to the Iron Swan would you.
 [u1951 | 02:29:06.480-02:29:06.810 | Kenzo] TIM.
-[u1952 | 02:29:07.710-02:29:09.690 | DM] know the place, you know as {{vm off}}.
+[u1952 | 02:29:07.710-02:29:09.690 | DM] No, the place you know is Vimal's.
 [u1953 | 02:29:09.990-02:29:10.230 | Unknown] You.
 [u1954 | 02:29:11.400-02:29:16.710 | Kenzo] know what you what what's I've heard of the Iron Swan TIM probably right.
 [u1955 | 02:29:16.800-02:29:21.570 | DM] Maybe yeah name rings a bell it's a dwarven tavern there's like a small dwarven quarter.

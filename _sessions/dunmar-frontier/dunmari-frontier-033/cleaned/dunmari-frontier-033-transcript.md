@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 33
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-033-source-cleaned.md
 
 ## Transcript
@@ -1370,8 +1370,8 @@ DM: Humans.
 %% u0791:0-18 %%
 Seeker: Humans were there.
 
-%% u0792:0-37 %%
-Delwath: That was that was {{barrel someone}}.
+%% u0792:0-35 %%
+Delwath: That was that was Beryl's homeland.
 
 %% u0793:0-16 %%
 Wellby: Oh that's right.
@@ -1436,8 +1436,8 @@ Delwath: Yeah yeah.
 %% u0815:0-13 %%
 Kenzo: The red mist.
 
-%% u0816:0-29, u0817:0-32, u0818:0-7, u0819:0-50, u0820:0-40 %%
-Delwath: Well, the red mist came back. Same plague probably, right? Wait for it. {{She might the strange probably district drink}}. I don't know if we ever discovered that.
+%% u0816:0-29, u0817:0-32, u0818:0-7, u0819:0-46, u0820:0-40 %%
+Delwath: Well, the red mist came back. Same plague probably, right? Wait for it. Cha'mutte's strain probably destroyed Drankor. I don't know if we ever discovered that.
 
 %% u0821:0-19 %%
 Seeker: Mist, mist variant.
@@ -1850,8 +1850,8 @@ Seeker: Yeah.
 %% u1095:0-32 %%
 Kenzo: You know, like only side quests.
 
-%% u1096:0-30, u1097:0-35 %%
-Delwath: God, why don't we go find the village that his {{God}} came from.
+%% u1096:0-30, u1097:0-30 %%
+Delwath: God, why don't we go find the village that Drikod came from.
 
 %% u1098:0-22, u1099:0-28, u1100:0-17 %%
 Kenzo: I'm into that one too. I'd like— I'll support that. I would go there.
@@ -2762,8 +2762,8 @@ DM: Oh yeah yeah so so she's right she's very grateful for all of this um you kn
 %% u1615:0-74 %%
 Delwath: I'll go poke around and help them cook slash see if I can learn something.
 
-%% u1616:0-32, u1617:0-146, u1618:0-136, u1619:0-40, u1620:0-141, u1621:0-172, u1622:0-97 %%
-DM: So they so so so she brings out the, like, the nice stuff, right? So they have some, some dried, some dried fruit and, um, just like a nice platter of, like, like flat breads, dried fruit. They've goat here because they slaughtered a goat a couple days ago, and so they've got goat skewers cooked over the fire, nicely spiced. Some, like like honey cakes for dessert. It's a, it's a pretty good spread. It's, it's like, you know, better. It's all fresh, right? You're mostly eating trail rations, which is pretty much you know, hard goats cheese, hard goat's cheese and, and dried jerky and, like, hard bread or cracker type things, right? So it's nice to get some fresh food, some especially some. You know the the freshly cooked meat and then the honey cake for dessert is a nice treat as well.
+%% u1616:0-32, u1617:0-146, u1618:0-140, u1619:0-40, u1620:0-141, u1621:0-172, u1622:0-97 %%
+DM: So they so so so she brings out the, like, the nice stuff, right? So they have some, some dried, some dried fruit and, um, just like a nice platter of, like, like flat breads, dried fruit. They've got goat here because they slaughtered a goat a couple days ago, and so they've got goat skewers cooked over the fire, nicely spiced. Some, like like honey cakes for dessert. It's a, it's a pretty good spread. It's, it's like, you know, better. It's all fresh, right? You're mostly eating trail rations, which is pretty much you know, hard goats cheese, hard goat's cheese and, and dried jerky and, like, hard bread or cracker type things, right? So it's nice to get some fresh food, some especially some. You know the the freshly cooked meat and then the honey cake for dessert is a nice treat as well.
 
 %% u1623:0-20, u1624:0-213 %%
 DM: So it's a nice meal. Everybody's pleased. Like, the, the kids are like running up the ramp and, like, look— poking around and look at it. Pretty disappointed that, like, anything they pour, nothing happens. Like, try it in the morning, you know.
@@ -3398,8 +3398,8 @@ Seeker: You wouldn't be referring to the Iron Swan would you?
 %% u1951:0-4 %%
 Kenzo: Tim.
 
-%% u1952:0-39 %%
-DM: Know the place you know as {{vm off}}.
+%% u1952:0-34 %%
+DM: No, the place you know is Vimal's.
 
 %% u1953:0-4 %%
 Unknown: You.

@@ -22,7 +22,7 @@
 [u0022 | 00:02:21.060-00:02:23.550 | DM] near the temple two other buildings both.
 [u0023 | 00:02:25.020-00:02:30.600 | DM] Smaller and with a few dwarven architectural elements stand.
 [u0024 | 00:02:32.370-00:02:36.810 | DM] Also, rising above the walls, maybe 300 feet tall is a massive tree.
-[u0025 | 00:02:38.250-00:02:53.550 | DM] It is now seemingly made of stone with dry cracked bark and leafless branches, but Kenzo having lived here for several years, you know that it will flower after the rains come filling the city with the scent of vanilla {{till at least start}} in the fall.
+[u0025 | 00:02:38.250-00:02:53.550 | DM] It is now seemingly made of stone with dry cracked bark and leafless branches, but Kenzo having lived here for several years, you know that it will flower after the rains come filling the city with the scent of vanilla will at least start in the fall.
 [u0026 | 00:02:54.720-00:02:55.590 | Kenzo] How old's the tree, Tim?
 [u0027 | 00:02:56.280-00:02:57.390 | DM] How old is the tree.
 [u0028 | 00:02:58.830-00:03:03.150 | DM] No one knows it's it's been here since the city was built around it.
@@ -132,7 +132,7 @@
 [u0132 | 00:12:35.250-00:12:36.090 | Wellby] Please do not pet.
 [u0133 | 00:12:37.080-00:12:37.890 | Seeker] Any problems like.
 [u0134 | 00:12:38.040-00:12:40.410 | Seeker] steals people's lunch, as he walks past.
-[u0135 | 00:12:42.600-00:12:54.060 | Wellby] he's pretty bad like I think he's a very nice xp but he's very like bad ass looking and he's got his own Armor now and all his gear, so I think people probably give him a wide berth.
+[u0135 | 00:12:42.600-00:12:54.060 | Wellby] he's pretty bad like I think he's a very nice axe beak but he's very like bad ass looking and he's got his own Armor now and all his gear, so I think people probably give him a wide berth.
 [u0136 | 00:12:54.090-00:12:55.500 | Seeker] yeah reason.
 [u0137 | 00:12:55.710-00:13:01.860 | Kenzo] Are you riding him throughout town, because you guys you're like riding them as you go like slowly walking with them, or you like beside him.
 [u0138 | 00:13:02.250-00:13:04.470 | Wellby] Garret's on foot so I'm probably on foot to leading him.
@@ -359,7 +359,7 @@
 [u0359 | 00:30:12.180-00:30:18.630 | Wellby] Oh I've had a bite or two, but I could always do more I sort of intended to get get settled here and then head back out your way again.
 [u0360 | 00:30:19.590-00:30:20.040 | Wellby] perfect.
 [u0361 | 00:30:20.100-00:30:21.060 | Wellby] There within the hour.
-[u0362 | 00:30:22.830-00:30:31.080 | Kenzo] Okay Kenzo kind of says right, I mean we could go and meet Wellby in the city and go meet up {{the quran}} at the inn at the tavern there.
+[u0362 | 00:30:22.830-00:30:31.080 | Kenzo] Okay Kenzo kind of says right, I mean we could go and meet Wellby in the city and go meet up with Kirian at the inn at the tavern there.
 [u0363 | 00:30:32.100-00:30:36.180 | Kenzo] Or we could all spend a little time here and chat a little bit more before we decide to go in.
 [u0364 | 00:30:37.560-00:30:38.700 | Kenzo] Whatever whatever you want.
 [u0365 | 00:30:39.420-00:30:44.730 | Delwath] I would only wonder if we disappear for the night.
@@ -851,7 +851,7 @@
 [u0851 | 01:11:15.900-01:11:18.540 | DM] Maybe 10 or 15 of them at most.
 [u0852 | 01:11:19.650-01:11:22.890 | DM] I gather that Karnas had.
 [u0853 | 01:11:23.940-01:11:38.880 | DM] sent some letter asking for help, and there was some concern about what magical dangers could come off the blasted plains in the absence of defenses and so Chardon sent a few wizards to watch our back.
-[u0854 | 01:11:42.360-01:11:44.550 | Kenzo] right and it {{wouldn't have no reason to do the archives, with a}}.
+[u0854 | 01:11:42.360-01:11:44.550 | Kenzo] Right, and they wouldn't have no reason to loot the archives, would they?
 [u0855 | 01:11:49.500-01:11:51.420 | DM] That is a theory, I have not heard.
 [u0856 | 01:11:52.980-01:11:53.430 | Delwath] It doesn't it.
 [u0857 | 01:11:55.080-01:11:56.760 | Delwath] doesn't sound like the archives were looted.
@@ -1000,7 +1000,7 @@
 [u1000 | 01:24:26.790-01:24:27.480 | Delwath] Some other.
 [u1001 | 01:24:28.500-01:24:30.930 | Delwath] Some other way, yes yeah.
 [u1002 | 01:24:33.300-01:24:34.770 | Delwath] There was another way.
-[u1003 | 01:24:36.750-01:24:40.260 | Delwath] But now Delwath can {{read all right now, the goal}} languages.
+[u1003 | 01:24:36.750-01:24:40.260 | Delwath] But now Delwath can read all writing now, like all languages.
 [u1004 | 01:24:40.650-01:24:45.330 | DM] How, and now you can make two people fly or make three people invisible.
 [u1005 | 01:24:45.390-01:24:46.170 | Delwath] also true.
 [u1006 | 01:24:47.220-01:24:48.030 | DM] Yes, very.

@@ -18,7 +18,7 @@
 [u0018 | 00:02:49.500-00:02:57.360 | DM] Become hard for you to concentrate on. Other memories of your adventures remain, but when you try and recall the details of.
 [u0019 | 00:02:57.840-00:03:07.740 | DM] What Shakun's heart is, you find your mind slipping away from that knowledge. Kenzo and Drikod, intending to be fully bound into this web of power when.
 [u0020 | 00:03:08.250-00:03:21.810 | DM] When you return and can go through the full initiation ritual, can feel it growing stronger, becoming more real and real and substantial than you could have imagined before, and you can actually almost see the sort of, um.
-[u0021 | 00:03:23.970-00:03:39.960 | DM] Sort of energy creeping out across the land and inching out from Karawa towards the border, and with each pulse of the heart this power stretches a little bit further, and you can feel your connection to it begin to {{have a little bit}}.
+[u0021 | 00:03:23.970-00:03:39.960 | DM] Sort of energy creeping out across the land and inching out from Karawa towards the border, and with each pulse of the heart this power stretches a little bit further, and you can feel your connection to it begin to ebb a little bit.
 [u0022 | 00:03:42.150-00:03:45.600 | DM] As dawn broke, you said goodbye to Candrosa.
 [u0023 | 00:03:46.650-00:03:47.190 | DM] Who.
 [u0024 | 00:03:49.800-00:03:51.510 | DM] Brought a small cart.
@@ -496,7 +496,7 @@
 [u0496 | 00:46:46.440-00:46:47.910 | Seeker] Ideally in the form of goggles, actually.
 [u0497 | 00:46:54.120-00:46:57.750 | Kenzo] Never thought I'd have to Soul Sight one of our own party members.
 [u0498 | 00:46:59.610-00:47:01.470 | Delwath] I kind of like, none of you trust Delwath.
-[u0499 | 00:47:01.890-00:47:04.110 | Delwath] You're just prejudiced against ductus.
+[u0499 | 00:47:01.890-00:47:04.110 | Delwath] You're just prejudiced against darkness.
 [u0500 | 00:47:06.600-00:47:20.250 | Drikod] Drikod is thinking of how his villages run themselves, which are all consensus-based. How can you use consensus to decide to use a weapon that overrides consensus?
 [u0501 | 00:47:22.590-00:47:24.210 | Kenzo] Okay, Kenzo sort of.
 [u0502 | 00:47:24.960-00:47:25.470 | Kenzo] let's see.
@@ -535,7 +535,7 @@
 [u0535 | 00:49:43.740-00:49:46.710 | Delwath] Just to see if anything if it helps us understand what it does.
 [u0536 | 00:49:49.980-00:49:51.240 | Kenzo] The Drankorians were human, right?
 [u0537 | 00:49:51.630-00:49:52.080 | DM] yeah yeah.
-[u0538 | 00:49:54.510-00:50:08.400 | Delwath] But they had, like, this connection to the elves, right? Like there was the whole elven, dead elven advisors, and like {{didn't cry}} was like Drankorian, his people were like Drankorian in some fashion.
+[u0538 | 00:49:54.510-00:50:08.400 | Delwath] But they had, like, this connection to the elves, right? Like there was the whole elven, dead elven advisors, and like Rai was like Drankorian, his people were like Drankorian in some fashion.
 [u0539 | 00:50:08.430-00:50:08.850 | DM] mm hmm.
 [u0540 | 00:50:09.990-00:50:10.290 | Unknown] yep.
 [u0541 | 00:50:13.230-00:50:13.710 | DM] So.
@@ -766,7 +766,7 @@
 [u0766 | 01:09:59.700-01:10:00.090 | Seeker] Right.
 [u0767 | 01:10:01.650-01:10:06.930 | Kenzo] Which, in a pinch, Seeker could always do, or I guess even Wellby could do it, go get help.
 [u0768 | 01:10:08.310-01:10:08.640 | Seeker] Also.
-[u0769 | 01:10:10.350-01:10:20.250 | Wellby] Wondering perhaps, like {{if perhaps knows her nose or fly}}, is it not possible that it's only visible from the air, possible to approach, or.
+[u0769 | 01:10:10.350-01:10:20.250 | Wellby] Wondering perhaps, like if perhaps it knows her, knows her fly, is it not possible that it's only visible from the air, possible to approach, or.
 [u0770 | 01:10:22.110-01:10:29.610 | Seeker] An interesting thought so one of us could take the fly up and over the trees, just to look down and see what we see.
 [u0771 | 01:10:32.610-01:10:32.850 | Delwath] yeah.
 [u0772 | 01:10:33.930-01:10:34.260 | Wellby] yeah I.
@@ -2837,7 +2837,7 @@
 [u2837 | 03:31:24.780-03:31:30.690 | Delwath] Is this food just disguise? It doesn't seem like it's also what they're eating, like is it.
 [u2838 | 03:31:32.550-03:31:33.060 | DM] i'm.
 [u2839 | 03:31:33.360-03:31:34.920 | Delwath] Is there any cooking equipment here?
-[u2840 | 03:31:35.400-03:31:37.050 | DM] No, there's {{medical equipment}}.
+[u2840 | 03:31:35.400-03:31:37.050 | DM] No, there's no cooking equipment.
 [u2841 | 03:31:40.800-03:31:42.690 | Kenzo] Each cell's got, like, a different author.
 [u2842 | 03:31:45.630-03:31:47.430 | DM] The third sack has.
 [u2843 | 03:31:49.320-03:31:50.010 | DM] A.
