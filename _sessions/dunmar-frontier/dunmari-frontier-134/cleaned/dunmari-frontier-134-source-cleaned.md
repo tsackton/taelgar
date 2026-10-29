@@ -10,9 +10,9 @@
 [u0010 | 00:01:13.490-00:01:15.160 | DM] Among others.
 [u0011 | 00:01:15.630-00:01:16.660 | Seeker] That was amazing.
 [u0012 | 00:01:17.270-00:01:18.270 | DM] as…
-[u0013 | 00:01:18.270-00:01:19.020 | Kenzo] Press there, Doc.
+[u0013 | 00:01:18.270-00:01:19.020 | Kenzo] Triceratops.
 [u0014 | 00:01:20.540-00:01:21.240 | Wellby] Yeah, true.
-[u0015 | 00:01:21.240-00:01:22.279 | DM] It's our tops.
+[u0015 | 00:01:21.240-00:01:22.279 | DM] Triceratops.
 [u0016 | 00:01:23.430-00:01:24.949 | Seeker] Seeker 5 RIP.
 [u0017 | 00:01:25.890-00:01:31.789 | DM] Seeker 5… Yes. Seeker discovering his perfect…
 [u0018 | 00:01:32.140-00:01:37.379 | DM] Combat setup. Protected by a force cage.
@@ -115,9 +115,9 @@
 [u0115 | 00:11:48.230-00:11:48.710 | Kenzo] Anyways…
 [u0116 | 00:11:48.710-00:11:49.030 | DM] It's true.
 [u0117 | 00:11:49.030-00:11:49.449 | Kenzo] Don't do that.
-[u0118 | 00:11:50.080-00:11:50.560 | Kenzo] Peter, yeah.
+[u0118 | 00:11:50.080-00:11:50.560 | Kenzo] Future, yeah.
 [u0119 | 00:11:51.160-00:11:54.130 | Kenzo] Honoring all past, present, ladders.
-[u0120 | 00:11:55.650-00:11:58.799 | Seeker] Yeah, that was a joke about speed alive, you're right, dude.
+[u0120 | 00:11:55.650-00:11:58.799 | Seeker] Yeah, that was a joke about the Media Lab, you're right, dude.
 [u0121 | 00:12:01.760-00:12:06.800 | Wellby] I think Wellby's going around and… And,
 [u0122 | 00:12:07.340-00:12:16.950 | Wellby] he wants to get, like, the stories of this place, and, like, the Heartroot, and what settlement's been like here. Like, he… he was moving quick when he passed through. He wants to get to know the…
 [u0123 | 00:12:17.260-00:12:20.550 | Wellby] Sort of the people, and the place, and the history, and all that.
@@ -250,10 +250,10 @@
 [u0250 | 00:24:43.080-00:24:45.030 | Kenzo] Yeah, yeah, yeah, yeah. Okay, yeah.
 [u0251 | 00:24:45.030-00:24:45.969 | Seeker] Being in shape.
 [u0252 | 00:24:45.970-00:24:52.650 | Kenzo] The final… well, the final mission is we need to bring it to the… we need to bring the Heartroot with us and bring it home, basically. That's kind of the…
-[u0253 | 00:24:53.040-00:25:00.420 | Kenzo] And actually, showing the mirror actually is gonna be super interesting, because it will… it will bring us back to some of the history of, like, all the weird shit, {{how it didn't appear}}.
+[u0253 | 00:24:53.040-00:25:00.420 | Kenzo] And actually, showing the mirror actually is gonna be super interesting, because it will… it will bring us back to some of the history of, like, all the weird shit, how it ended up here.
 [u0254 | 00:25:00.420-00:25:01.010 | Wellby] Yeah.
-[u0255 | 00:25:01.010-00:25:06.720 | Kenzo] to be, it used to be where the, the polluted… {{Who's playing this?}}
-[u0256 | 00:25:06.720-00:25:07.979 | Wellby] {{He's a guy. Isn't he?}}
+[u0255 | 00:25:01.010-00:25:06.720 | Kenzo] to be, it used to be where the, the polluted… Plaguelands
+[u0256 | 00:25:06.720-00:25:07.979 | Wellby] Isingue, isn't it?
 [u0257 | 00:25:08.950-00:25:09.520 | DM] Yep.
 [u0258 | 00:25:10.090-00:25:15.279 | Kenzo] Yeah, let's do it. Should we show the… let's do the mirror to the Heartroot, yeah?
 [u0259 | 00:25:16.610-00:25:17.460 | DM] Okay.
@@ -269,7 +269,7 @@
 [u0269 | 00:25:59.440-00:26:04.209 | Delwath] Yeah, I was… We're on the same wavelength, so I was gonna say the same thing. Home.
 [u0270 | 00:26:04.540-00:26:05.220 | Kenzo] Damn.
 [u0271 | 00:26:05.890-00:26:06.960 | Delwath] But also…
-[u0272 | 00:26:07.910-00:26:14.330 | Seeker] being taken from your home, because who knows what this life story was {{in the long heart}}. The thing may be very old.
+[u0272 | 00:26:07.910-00:26:14.330 | Seeker] being taken from your home, because who knows what this life story was in the long heart. The thing may be very old.
 [u0273 | 00:26:14.680-00:26:19.999 | Kenzo] Yeah, but it's like, tell me, tell the story, tell all aspects of the story of your home.
 [u0274 | 00:26:20.210-00:26:24.039 | Kenzo] Like, where it is, where you long to go, where you were taken from.
 [u0275 | 00:26:25.000-00:26:27.579 | Seeker] Do we want to know, like, from when you were a seed?
@@ -298,7 +298,7 @@
 [u0298 | 00:28:25.900-00:28:28.029 | Kenzo] Is this some, like, beginning of time shit?
 [u0299 | 00:28:28.460-00:28:30.240 | Kenzo] It's like, the Heartroot, like…
 [u0300 | 00:28:30.500-00:28:31.300 | Seeker] Yeah, what was that?
-[u0301 | 00:28:31.300-00:28:34.580 | Kenzo] {{I was}} as old as, like, Creation of the universe?
+[u0301 | 00:28:31.300-00:28:34.580 | Kenzo] It was as old as, like, Creation of the universe?
 [u0302 | 00:28:34.800-00:28:36.810 | DM] Give me a sec, I wanna…
 [u0303 | 00:28:37.410-00:28:39.480 | DM] I wanna see if Mike rejoins.
 [u0304 | 00:28:39.830-00:28:43.090 | Kenzo] Oh yeah, there's probably… this is some, like, Beryl and the…
@@ -320,7 +320,7 @@
 [u0320 | 00:30:33.000-00:30:34.190 | Wellby] Yep.
 [u0321 | 00:30:39.260-00:30:40.489 | Wellby] Poops in a Box.
 [u0322 | 00:30:43.890-00:30:47.129 | DM] D&D characters don't poop. I mean, you know that, right?
-[u0323 | 00:30:47.130-00:30:49.890 | Kenzo] That's true, we never used the rest, that's actually very true.
+[u0323 | 00:30:47.130-00:30:49.890 | Kenzo] That's true, we never used the restroom, that's actually very true.
 [u0324 | 00:30:50.660-00:30:54.339 | Kenzo] Oh man, can you imagine what the portable hole's like? Ew.
 [u0325 | 00:30:54.520-00:30:57.780 | Kenzo] Gross.
 [u0326 | 00:31:02.400-00:31:06.299 | DM] Yeah, you need a dimensional toilet that just goes somewhere.
@@ -333,7 +333,7 @@
 [u0333 | 00:31:42.070-00:31:52.350 | DM] I mean… There's, like, I don't know, in the… in the Dungeon Master's Guide, there's… there's not a…
 [u0334 | 00:31:54.770-00:31:55.700 | Seeker] of excrementation.
 [u0335 | 00:31:55.700-00:31:57.950 | DM] Per se, but there's, like…
-[u0336 | 00:31:57.950-00:31:58.420 | Audio shared by Tim Sackton] Fair.
+[u0336 | 00:31:57.950-00:31:58.420 | Audio shared by Tim Sackton] There are.
 [u0337 | 00:31:58.420-00:32:02.599 | DM] Demon Lords that are the… Kings of it.
 [u0338 | 00:32:03.510-00:32:14.180 | DM] Illness and, like… Pestilence and things like that, and clearly are sort of… the slime pits.
 [u0339 | 00:32:17.790-00:32:18.300 | Audio shared by Tim Sackton] Okay.
@@ -366,7 +366,7 @@
 [u0366 | 00:34:33.239-00:34:34.099 | Kenzo] Path of the what?
 [u0367 | 00:34:34.570-00:34:36.230 | Seeker] Is that a river?
 [u0368 | 00:34:36.239-00:34:39.259 | DM] Istaros is the river that runs past Isingue.
-[u0369 | 00:34:41.000-00:34:41.730 | Seeker] Worse.
+[u0369 | 00:34:41.000-00:34:41.730 | Seeker] Of course.
 [u0370 | 00:34:42.489-00:34:42.969 | Kenzo] How?
 [u0371 | 00:34:42.969-00:34:43.749 | DM] And…
 [u0372 | 00:34:43.750-00:34:44.290 | Kenzo] Oh, go, go ahead.
@@ -401,7 +401,7 @@
 [u0401 | 00:37:33.710-00:37:34.130 | Seeker] Whoa.
 [u0402 | 00:37:35.730-00:37:36.650 | Kenzo] Cool.
 [u0403 | 00:37:38.310-00:37:38.710 | DM] So…
-[u0404 | 00:37:40.880-00:37:41.620 | DM] Yet.
+[u0404 | 00:37:40.880-00:37:41.620 | DM] Yeah.
 [u0405 | 00:37:43.900-00:37:46.199 | Seeker] I'm just looking at the river Istaros.
 [u0406 | 00:37:46.870-00:37:50.290 | Seeker] We've… we've been there before.
 [u0407 | 00:37:51.420-00:37:53.810 | Seeker] Haven't we? Isn't… is the city…
@@ -432,7 +432,7 @@
 [u0432 | 00:39:08.330-00:39:20.440 | Seeker] Symbiotic, in other words, like, is the creature making up the roots themselves distinct from whatever is flowing through the glowing pulses?
 [u0433 | 00:39:21.000-00:39:23.950 | Seeker] Like, is it a mycorrhizome situation?
 [u0434 | 00:39:25.160-00:39:28.629 | DM] Well, right now, you're still watching the vision in the mirror.
-[u0435 | 00:39:30.150-00:39:35.890 | DM] But, but yes, it is a micro-rival… micro rib… thing, situation.
+[u0435 | 00:39:30.150-00:39:35.890 | DM] But, but yes, it is a mycorrhizal… myco rib… thing, situation.
 [u0436 | 00:39:36.400-00:39:40.219 | DM] It's a… it's like a massive symbiotic organism that…
 [u0437 | 00:39:42.030-00:39:46.990 | DM] You know, makes everything it touches grow stronger and better.
 [u0438 | 00:39:47.940-00:39:49.670 | DM] and was created.
@@ -490,7 +490,7 @@
 [u0490 | 00:45:05.620-00:45:10.529 | Delwath] when the… the whole thing happened, right?
 [u0491 | 00:45:13.630-00:45:15.209 | DM] When what whole thing happened?
 [u0492 | 00:45:15.210-00:45:20.389 | Delwath] Rai tried to clean everything up. Sorry, keep going. Sorry, sorry, sorry. Just keep going.
-[u0493 | 00:45:20.390-00:45:26.129 | DM] I'll be reading his lips. Seems to have a… be having a conversation with… a friend.
+[u0493 | 00:45:20.390-00:45:26.129 | DM] You'll be reading his lips. Seems to have a… be having a conversation with… a friend.
 [u0494 | 00:45:28.630-00:45:30.110 | DM] In the sky.
 [u0495 | 00:45:31.390-00:45:32.410 | Wellby] Awesome.
 [u0496 | 00:45:32.610-00:45:35.100 | DM] Talking on and on, like, you know.
@@ -536,7 +536,7 @@
 [u0536 | 00:48:36.080-00:48:37.300 | Delwath] But, like…
 [u0537 | 00:48:37.580-00:48:38.490 | Kenzo] Oh, go, go ahead.
 [u0538 | 00:48:38.490-00:48:39.399 | Delwath] No, no, go ahead.
-[u0539 | 00:48:40.380-00:48:57.969 | Kenzo] I was just gonna say, like, meta note, I think it's, like, really cool how… like, it's been so, so, so long that we play those characters, that they really do feel just, like, NPC, like, weird god characters. It's like, I have no idea. I couldn't play Rai right now if I even wanted to, I don't even have no idea, you know what I mean? It's, like, completely impossible.
+[u0539 | 00:48:40.380-00:48:57.969 | Kenzo] I was just gonna say, like, meta note, I think it's, like, really cool how… like, it's been so, so, so long since we played those characters, that they really do feel just, like, NPC, like, weird god characters. It's like, I have no idea. I couldn't play Rai right now if I even wanted to, I don't even have no idea, you know what I mean? It's, like, completely impossible.
 [u0540 | 00:48:57.970-00:48:58.970 | Seeker] Hmm, yeah.
 [u0541 | 00:48:58.970-00:49:03.559 | Kenzo] It's pretty cool. It's like, they have… yeah, they're just… weird.
 [u0542 | 00:49:03.670-00:49:04.970 | Kenzo] Historical.
@@ -594,7 +594,7 @@
 [u0594 | 00:53:06.450-00:53:08.380 | Wellby] Just hold the wand from the other end.
 [u0595 | 00:53:10.240-00:53:11.100 | Seeker] I just run it backwards.
 [u0596 | 00:53:11.100-00:53:28.510 | DM] You are level 19 characters with a bastion and massive quantities of abilities that let you ask questions. You might just consider using some of your massive quantity of abilities that let you do research and ask questions to, you know, ask about that.
-[u0597 | 00:53:28.510-00:53:29.370 | Wellby] What if we just spent.
+[u0597 | 00:53:28.510-00:53:29.370 | Wellby] What if we just went.
 [u0598 | 00:53:29.370-00:53:30.080 | Seeker] Good idea.
 [u0599 | 00:53:30.080-00:53:30.790 | Wellby] bed.
 [u0600 | 00:53:30.790-00:53:31.620 | Kenzo] I, I like that.
@@ -754,7 +754,7 @@
 [u0754 | 01:04:23.590-01:04:24.329 | Delwath] They were like.
 [u0755 | 01:04:24.330-01:04:24.730 | DM] Wow.
 [u0756 | 01:04:24.730-01:04:25.860 | Delwath] At the beginning, and then we.
-[u0757 | 01:04:25.860-01:04:35.169 | DM] Very early on, I made a… when Seeker got to level 4, I made a homebrew feat to make {{Ley Line's route}}, like, actually do stuff, but Eric…
+[u0757 | 01:04:25.860-01:04:35.169 | DM] Very early on, I made a… when Seeker got to level 4, I made a homebrew feat to make ley lines work, like, actually do stuff, but Eric…
 [u0758 | 01:04:35.550-01:04:41.509 | DM] Didn't want to take it, or it didn't seem right for the moment, so then we just kind of dropped it.
 [u0759 | 01:04:41.830-01:04:43.240 | Seeker] Hmm.
 [u0760 | 01:04:43.240-01:04:47.140 | Wellby] Is the Stoneborn metaphysicist Yendalo still living?
@@ -763,7 +763,7 @@
 [u0763 | 01:04:53.720-01:04:55.049 | DM] No, I think not.
 [u0764 | 01:04:55.050-01:04:57.660 | Delwath] I can cast Speak with Dead at will.
 [u0765 | 01:04:57.800-01:04:59.330 | Delwath] Let's go talk to Yendalo!
-[u0766 | 01:04:59.330-01:05:00.410 | Seeker] That's a good boy.
+[u0766 | 01:04:59.330-01:05:00.410 | Seeker] That's a good point.
 [u0767 | 01:05:05.590-01:05:08.029 | Seeker] The Yendalist heresies. Yes.
 [u0768 | 01:05:16.440-01:05:18.969 | Kenzo] Oh yeah, Mike, we were trying to figure out how to talk to Beryl.
 [u0769 | 01:05:19.510-01:05:20.170 | Delwath] Yeah.
@@ -919,7 +919,7 @@
 [u0919 | 01:20:59.400-01:21:00.580 | Kenzo] killed Apollyon?
 [u0920 | 01:21:02.670-01:21:05.309 | DM] Not something you did, it's more something Apollyon did.
 [u0921 | 01:21:07.830-01:21:09.650 | Kenzo] Apollyon…
-[u0922 | 01:21:10.380-01:21:13.379 | Delwath] Apollyon was trying to {{take a crack out of his prison}}.
+[u0922 | 01:21:10.380-01:21:13.379 | Delwath] Apollyon was trying to take a crack out of his prison.
 [u0923 | 01:21:14.210-01:21:20.420 | Delwath] By mucking with the plane of the… by mucking with the… Land of the Dead?
 [u0924 | 01:21:22.910-01:21:25.039 | Delwath] Did you do something else that we're forgetting?
 [u0925 | 01:21:27.680-01:21:31.200 | DM] the… What was the prison made out of?
@@ -960,7 +960,7 @@
 [u0960 | 01:24:17.660-01:24:22.879 | Kenzo] Yeah, we need… and who knows, maybe, like, you go in there and it's only been a day, you know, it's one of those… one of those things.
 [u0961 | 01:24:23.900-01:24:30.900 | Kenzo] So we go to Limbo now, we help Rai and a bunch of monks pull the plane back into.
 [u0962 | 01:24:30.900-01:24:31.926 | Seeker] Good point.
-[u0963 | 01:24:32.440-01:24:33.720 | Wellby] Yeah, piss kick.
+[u0963 | 01:24:32.440-01:24:33.720 | Wellby] Yeah, piece of cake.
 [u0964 | 01:24:37.030-01:24:44.110 | Delwath] actually seems pretty straightforward, other than Limbo being, like, antithetical to all… Life.
 [u0965 | 01:24:44.560-01:24:50.170 | Kenzo] I mean… or does Limbo just had bad PR? You know? Like, is it really that…
 [u0966 | 01:24:51.760-01:24:58.050 | Wellby] I mean, I asked that same question about Apollyon, and no, it didn't turn out to be bad PR.
@@ -1027,7 +1027,7 @@
 [u1027 | 01:29:25.500-01:29:26.350 | Wellby] Diets.
 [u1028 | 01:29:27.680-01:29:29.510 | Delwath] Lots of…
 [u1029 | 01:29:29.510-01:29:30.740 | Wellby] Lots of right angles.
-[u1030 | 01:29:30.740-01:29:38.690 | Kenzo] completely full ITALs, and we just… we're… and then we're just targets. Limbo's gonna be like, fuck, I don't want to be out there, I gotta go and fix the thing inside.
+[u1030 | 01:29:30.740-01:29:38.690 | Kenzo] completely full iCals, and we just… we're… and then we're just targets. Limbo's gonna be like, fuck, I don't want to be out there, I gotta go and fix the thing inside.
 [u1031 | 01:29:40.560-01:29:46.600 | Kenzo] I'm being facetious, but I'm also kind of not. Like, maybe the… like, what is the, you know, how do we… how do we attract Limbo itself?
 [u1032 | 01:29:46.600-01:29:58.060 | Delwath] Gemstones… diamonds, very regimented, regular type thing. But I actually think we should ask the Philosopher's Guild.
 [u1033 | 01:29:58.550-01:30:03.630 | Delwath] And then, like, can't we do some of our own research, too?
@@ -1037,7 +1037,7 @@
 [u1037 | 01:30:23.610-01:30:32.079 | DM] I mean, the library… Lets you learn 3 accurate pieces of information.
 [u1038 | 01:30:32.400-01:30:36.179 | DM] The Hall of Stories lets you learn…
 [u1039 | 01:30:37.150-01:30:47.399 | DM] Three accurate pieces of information about a legend, a kind of creature, or a famous object, but… there's probably a way you can make that work.
-[u1040 | 01:30:48.570-01:30:54.150 | DM] {{Everyone}} lets you learn about a location, so Limbo is fine.
+[u1040 | 01:30:48.570-01:30:54.150 | DM] The other one lets you learn about a location, so Limbo is fine.
 [u1041 | 01:30:55.560-01:31:01.390 | DM] Observatory lets you cast Contact Other Plane, and Delwath can also ask.
 [u1042 | 01:31:01.770-01:31:05.009 | DM] About, and then you have something else, too.
 [u1043 | 01:31:09.490-01:31:15.249 | Kenzo] Tim, by the way, Kenzo's gonna carve the story of the Heartroot into his staff.
@@ -1065,12 +1065,12 @@
 [u1065 | 01:32:40.270-01:32:43.579 | Delwath] Can we use Contact Other Plane to contact Rai?
 [u1066 | 01:32:45.770-01:32:47.890 | Seeker] If we knew…
 [u1067 | 01:32:48.560-01:32:49.590 | DM] Yes.
-[u1068 | 01:32:49.960-01:32:50.430 | Kenzo] {{Rise of 2.}}
+[u1068 | 01:32:49.960-01:32:50.430 | Kenzo] Rai's there too.
 [u1069 | 01:32:50.430-01:32:50.930 | Wellby] Great idea.
 [u1070 | 01:32:50.930-01:32:52.810 | Kenzo] With the other monks.
-[u1071 | 01:32:56.580-01:32:57.600 | Seeker] It's worse, right?
+[u1071 | 01:32:56.580-01:32:57.600 | Seeker] It's words, right?
 [u1072 | 01:32:57.600-01:32:58.500 | Kenzo] He's in Limbo.
-[u1073 | 01:32:59.060-01:33:00.619 | Seeker] And the O, yes.
+[u1073 | 01:32:59.060-01:33:00.619 | Seeker] And the—oh, yes.
 [u1074 | 01:33:01.020-01:33:03.210 | Kenzo] Yeah, yeah, yeah, so it's basically, .
 [u1075 | 01:33:03.760-01:33:08.170 | DM] I mean, yes, but you can still only get one-word answers.
 [u1076 | 01:33:08.170-01:33:08.849 | Delwath] Yeah, yeah, yeah.
@@ -1197,7 +1197,7 @@
 [u1197 | 01:45:18.950-01:45:20.890 | Delwath] Potion of Invulnerability? Yes.
 [u1198 | 01:45:20.890-01:45:23.790 | DM] There's the Potion of Dragon's Majesty.
 [u1199 | 01:45:23.970-01:45:29.979 | DM] Which Kenzo just used. There's the potion of bottled knowledge, which Seeker used.
-[u1200 | 01:45:33.640-01:45:39.050 | DM] Oh, there's Dust of Glibness, which, like, you might not need, because… Yeah, no, {{I could spell that}}.
+[u1200 | 01:45:33.640-01:45:39.050 | DM] Oh, there's Dust of Glibness, which, like, you might not need, because… Yeah, no, I could spell that.
 [u1201 | 01:45:39.050-01:45:41.290 | Delwath] Yep. But, like, the greatsword?
 [u1202 | 01:45:41.460-01:45:49.299 | DM] There's the Greatsword, there's the Triceratops, there's the Wellby's Bow.
 [u1203 | 01:45:49.300-01:45:50.460 | Kenzo] No. There's…
@@ -1282,7 +1282,7 @@
 [u1282 | 01:50:35.950-01:50:38.609 | DM] Yeah, Eric's asleep right now, you can't commit Seeker.
 [u1283 | 01:50:38.610-01:50:42.780 | Kenzo] Wait, wait, wait, not Frankar. Who's the name of the other dwarf?
 [u1284 | 01:50:42.780-01:50:43.230 | Delwath] Faldrak.
-[u1285 | 01:50:43.230-01:50:43.930 | DM] Oh, fault.
+[u1285 | 01:50:43.230-01:50:43.930 | DM] Oh, Fal—
 [u1286 | 01:50:43.930-01:50:45.400 | Kenzo] Faldrak, yeah, yeah.
 [u1287 | 01:50:45.400-01:50:50.389 | DM] I don't think the Philosopher's Guild would accept Faldrak. Why? To be perfectly honest.
 [u1288 | 01:50:50.390-01:50:51.090 | Wellby] Old!
@@ -1324,7 +1324,7 @@
 [u1324 | 01:52:52.920-01:52:53.740 | Delwath] What's her name?
 [u1325 | 01:52:53.740-01:52:57.929 | DM] Kenzo's got a love interest in Tollen. {{Beryl's}} got a love interest in Tollen.
 [u1326 | 01:52:58.910-01:52:59.740 | Delwath] That what you mean?
-[u1327 | 01:52:59.740-01:53:01.550 | Kenzo] {{Delta's 11.}}
+[u1327 | 01:52:59.740-01:53:01.550 | Kenzo] Delwath's in love.
 [u1328 | 01:53:01.550-01:53:05.650 | Delwath] The centaur was never a love interest, except in Kenzo's mind.
 [u1329 | 01:53:05.650-01:53:10.609 | Kenzo] Don't fight it! Don't fight it. Delwath just gotta, just gotta flow with it. Just gotta flow with it.
 [u1330 | 01:53:10.610-01:53:14.560 | Wellby] It hasn't happened yet, like, it's… it can happen,
@@ -1360,7 +1360,7 @@
 [u1360 | 01:56:00.320-01:56:09.009 | Delwath] who fought Apollyon, and be like, dude, we killed him. It's, like, all better now. I mean, it's not really all better, like, he still destroys your home, but, like…
 [u1361 | 01:56:09.250-01:56:11.070 | Delwath] Don't you think she'd want to know?
 [u1362 | 01:56:13.700-01:56:18.840 | Delwath] We never even used her five… our five meta resources of what would she do? We only.
-[u1363 | 01:56:18.840-01:56:20.870 | DM] No, I think {{2 is the one, but I used to.}}
+[u1363 | 01:56:18.840-01:56:20.870 | DM] No, I think 2 is the one, but I used to.
 [u1364 | 01:56:20.870-01:56:21.660 | Delwath] like, two.
 [u1365 | 01:56:21.660-01:56:22.779 | DM] One or two, yeah.
 [u1366 | 01:56:22.780-01:56:23.330 | Delwath] Yeah.
@@ -1386,7 +1386,7 @@
 [u1386 | 01:58:07.180-01:58:08.869 | DM] Right. To contact Rai?
 [u1387 | 01:58:09.550-01:58:11.370 | Delwath] And ask 5 questions.
 [u1388 | 01:58:12.430-01:58:19.850 | DM] Okay, well, if you care about what the five questions are, you should tell me. If you don't care, I'll pick things that would be the most useful for you.
-[u1389 | 01:58:20.530-01:58:21.960 | Kenzo] Let's just see that.
+[u1389 | 01:58:20.530-01:58:21.960 | Kenzo] Let's just do that.
 [u1390 | 01:58:22.670-01:58:27.390 | Delwath] Well, there's a few that I think we should ask, like,
 [u1391 | 01:58:28.780-01:58:38.190 | Delwath] Well, obviously, if we contact Rai successfully, the first thing is simply the act of contacting Rai successfully implies Rai is not dead.
 [u1392 | 01:58:38.540-01:58:39.860 | Delwath] Right? Right.
@@ -1433,7 +1433,7 @@
 [u1433 | 02:01:18.480-02:01:26.740 | Wellby] Maybe, maybe, I mean, and hear me out, maybe the secret is that Limbo is AMAZING, and nobody who goes there wants to come back again.
 [u1434 | 02:01:26.740-02:01:32.899 | Kenzo] This is what I'm saying. The whole thing, it's just like this big ruse to get us to think it's this horrible, chaotic place.
 [u1435 | 02:01:32.900-02:01:36.400 | Wellby] Why do we need to expand the rift instead of close it?
-[u1436 | 02:01:36.920-02:01:37.820 | Kenzo] C.
+[u1436 | 02:01:36.920-02:01:37.820 | Kenzo] See?
 [u1437 | 02:01:39.920-02:01:42.479 | Seeker] It's a waiting room.
 [u1438 | 02:01:43.400-02:01:44.349 | Kenzo] What's that, Eric?
 [u1439 | 02:01:44.750-02:01:48.660 | Seeker] Limbo's obviously a waiting room, but it's a waiting room for somewhere awesome.
