@@ -174,7 +174,7 @@
 [u0174 | 00:11:00.740-00:11:02.780 | Wellby] like a cart and horses.
 [u0175 | 00:11:03.688-00:11:09.589 | Wellby] But the the opportunity to travel through Ursk to take the road from one side of the country to the other, like
 [u0176 | 00:11:09.920-00:11:13.440 | Wellby] how many people get to do this? That that would be fair. That'd be a vacation.
-[u0177 | 00:11:15.163-00:11:15.689 | Delwath] That clay.
+[u0177 | 00:11:15.163-00:11:15.689 | Delwath] Exactly.
 [u0178 | 00:11:16.990-00:11:20.940 | Delwath] and we might wanna stock up right. We can't use magic.
 [u0179 | 00:11:21.020-00:11:23.550 | Delwath] you know. You might want to actually like, buy food.
 [u0180 | 00:11:25.420-00:11:26.999 | Wellby] Oh, that's right.
@@ -224,10 +224,10 @@
 [u0224 | 00:13:27.300-00:13:28.530 | Delwath] get out.
 [u0225 | 00:13:28.530-00:13:33.539 | DM] Yeah. So so Roman, I mean, he gives you the basic lay of the land. It's it's
 [u0226 | 00:13:33.870-00:13:38.250 | DM] the beginning of mud season. So
-[u0227 | 00:13:39.260-00:13:50.439 | DM] the rivers are. The ice is starting to melt the the the snow is starting to melt, especially in the valleys, the roads okay. It's possible.
+[u0227 | 00:13:39.260-00:13:50.439 | DM] the rivers are. The ice is starting to melt the the the snow is starting to melt, especially in the valleys, the roads okay. It's passable.
 [u0228 | 00:13:52.560-00:14:00.790 | DM] The the road from here to Vedmakov is well is pretty well maintained, and actually, he says, as far as as far west as Yamgov.
 [u0229 | 00:14:02.731-00:14:06.310 | DM] The road is, is reasonably well maintained
-[u0230 | 00:14:06.540-00:14:07.400 | DM] at
+[u0230 | 00:14:06.540-00:14:07.400 | DM] but
 [u0231 | 00:14:08.100-00:14:13.310 | DM] all the tracks to the little villages. Just mud, mud, mud, mud, mud, mud.
 [u0232 | 00:14:14.070-00:14:16.470 | DM] It's gonna take you days
 [u0233 | 00:14:16.490-00:14:20.960 | DM] to trudge unless you go up to the foothills, where the ground's still frozen.
@@ -247,13 +247,13 @@
 [u0247 | 00:15:10.740-00:15:20.880 | Delwath] some horses, and you know it? Do people travel in groups? Is it safe to travel on our own? Do we have to worry about things? Crossing the border?
 [u0248 | 00:15:20.960-00:15:22.819 | Delwath] Is, you know, is there some
 [u0249 | 00:15:23.060-00:15:26.279 | Delwath] area where it's safe or not safe, is there? You know.
-[u0250 | 00:15:27.010-00:15:30.046 | DM] So {{how do? Spouse}} is quite safe.
+[u0250 | 00:15:27.010-00:15:30.046 | DM] So further south is quite safe.
 [u0251 | 00:15:32.470-00:15:33.200 | DM] the.
 [u0252 | 00:15:34.840-00:15:38.680 | DM] Of course, if you're heading towards Vedmakov, the Watchers patrol.
 [u0253 | 00:15:39.410-00:15:40.510 | Seeker] Hmm! But.
 [u0254 | 00:15:40.510-00:15:46.209 | DM] The further south you get the safer. The country is you're going in the right direction. If you want safety.
 [u0255 | 00:15:47.720-00:15:51.499 | DM] it's only up here on the frontier. We've got to worry about these things.
-[u0256 | 00:15:52.600-00:15:54.140 | DM] {{and the aspire}}.
+[u0256 | 00:15:52.600-00:15:54.140 | DM] and the Spire.
 [u0257 | 00:15:55.540-00:15:56.029 | Seeker] Either any good.
 [u0258 | 00:15:56.030-00:16:00.530 | Riswynn] Across through the frozen foothill foothills. If they're looking for
 [u0259 | 00:16:00.680-00:16:02.690 | Riswynn] encounters with creatures.
@@ -345,7 +345,7 @@
 [u0345 | 00:20:33.120-00:20:36.089 | Delwath] you could help make introductions for us. We'd want to travel with
 [u0346 | 00:20:36.170-00:20:37.569 | Delwath] the best, of course.
 [u0347 | 00:20:40.980-00:20:41.330 | DM] Wow!
-[u0348 | 00:20:42.290-00:20:43.689 | DM] {{Who are so armed}}?
+[u0348 | 00:20:42.290-00:20:43.689 | DM] Who are so armed?
 [u0349 | 00:20:45.375-00:20:46.320 | DM] Think on that
 [u0350 | 00:20:50.420-00:20:53.770 | DM] there should be at least 2. When are you planning on leaving.
 [u0351 | 00:20:55.710-00:20:57.710 | Delwath] As soon as our goods are sold and
@@ -363,7 +363,7 @@
 [u0363 | 00:21:33.630-00:21:37.049 | Seeker] our own equipment, horses and wagons, and so forth.
 [u0364 | 00:21:37.090-00:21:39.579 | Seeker] We're used to traveling comfortably so.
 [u0365 | 00:21:40.230-00:21:41.010 | Seeker] and we'll be.
-[u0366 | 00:21:41.010-00:21:42.180 | Wellby] Versus eventually, right.
+[u0366 | 00:21:41.010-00:21:42.180 | Wellby] Horses eventually, right.
 [u0367 | 00:21:42.180-00:21:47.029 | Delwath] We? We? We would like. Yes, we would, of course, like our own horses and supplies.
 [u0368 | 00:21:47.909-00:21:48.290 | DM] Denver!
 [u0369 | 00:21:48.290-00:21:51.279 | Delwath] 2 weeks on the road. In in case we get separated
@@ -388,7 +388,7 @@
 [u0388 | 00:22:45.680-00:22:51.070 | Delwath] Plus. Of course he's gonna give us, you know, a discount cause he thinks we're great, and I'll hint that, too.
 [u0389 | 00:22:51.070-00:22:52.250 | DM] Supplies
 [u0390 | 00:22:53.070-00:22:54.769 | DM] 2 weeks of food.
-[u0391 | 00:22:58.790-00:22:59.150 | Delwath] Injured.
+[u0391 | 00:22:58.790-00:22:59.150 | Delwath] Indeed.
 [u0392 | 00:22:59.150-00:23:02.109 | DM] And introduction to somebody leaving on Monday morning.
 [u0393 | 00:23:02.990-00:23:04.909 | DM] I will, I will make inquiries.
 [u0394 | 00:23:09.870-00:23:11.540 | Delwath] that that's all I wanted. I mean.
@@ -616,7 +616,7 @@
 [u0616 | 00:40:56.640-00:40:57.880 | DM] 2 other
 [u0617 | 00:40:58.110-00:40:59.840 | DM] powerful wizards
 [u0618 | 00:40:59.850-00:41:03.889 | DM] confused rumors like this, but it seems they were involved in some
-[u0619 | 00:41:10.530-00:41:11.640 | DM] bales.
+[u0619 | 00:41:10.530-00:41:11.640 | DM] battles.
 [u0620 | 00:41:11.700-00:41:18.189 | DM] some something went wrong, some dragon defense of Ursk against dragons went wrong last winter.
 [u0621 | 00:41:18.630-00:41:19.740 | DM] and it's being
 [u0622 | 00:41:19.920-00:41:23.229 | DM] almost entirely blamed on Voknaz
@@ -729,7 +729,7 @@
 [u0729 | 00:50:00.520-00:50:03.990 | Riswynn] taking up all her time? Or you know.
 [u0730 | 00:50:04.510-00:50:05.720 | Delwath] Yeah, and and.
 [u0731 | 00:50:05.720-00:50:07.350 | Riswynn] Like, just friendly like.
-[u0732 | 00:50:07.650-00:50:08.790 | Riswynn] I'm Michael.
+[u0732 | 00:50:07.650-00:50:08.790 | Riswynn] Amicable.
 [u0733 | 00:50:09.883-00:50:10.689 | Delwath] Is she
 [u0734 | 00:50:12.770-00:50:13.490 | Delwath] like?
 [u0735 | 00:50:16.020-00:50:19.450 | Delwath] How did she come to, I mean, without? I don't want to apply like a
@@ -901,7 +901,7 @@
 [u0901 | 01:01:50.850-01:01:51.320 | Delwath] The Great War.
 [u0902 | 01:01:51.760-01:01:52.200 | Kenzo] Safe!
 [u0903 | 01:01:54.420-01:01:56.099 | DM] Is there anything else you want to?
-[u0904 | 01:01:57.604-01:02:03.119 | DM] Role play as the conversation winds down where you just making sort of the.
+[u0904 | 01:01:57.604-01:02:03.119 | DM] Role play as the conversation winds down or are you just making sort of the.
 [u0905 | 01:02:03.120-01:02:06.160 | Delwath] No chat. I I don't. I don't know the other people.
 [u0906 | 01:02:12.460-01:02:13.960 | DM] So the next day.
 [u0907 | 01:02:19.080-01:02:19.899 | DM] April
@@ -1101,7 +1101,7 @@
 [u1101 | 01:15:24.260-01:15:26.070 | DM] morning of
 [u1102 | 01:15:26.440-01:15:28.150 | DM] April twentieth.
 [u1103 | 01:15:30.330-01:15:32.041 | DM] you set out with
-[u1104 | 01:15:36.780-01:15:37.760 | DM] Was his issue.
+[u1104 | 01:15:36.780-01:15:37.760 | DM] What's his...
 [u1105 | 01:15:37.900-01:15:39.830 | DM] Karel's caravan.
 [u1106 | 01:15:42.350-01:15:43.320 | DM] it's
 [u1107 | 01:15:43.500-01:15:52.409 | DM] so just, you know, roughly, if you. If you were to split off from the caravan and you know.
@@ -1199,7 +1199,7 @@
 [u1199 | 01:22:38.590-01:22:40.430 | Kenzo] Can I soul sight him?
 [u1200 | 01:22:48.420-01:22:49.360 | DM] there.
 [u1201 | 01:22:49.820-01:22:52.629 | DM] make a make a wisdom, check.
-[u1202 | 01:23:01.080-01:23:02.789 | Kenzo] My stop check.
+[u1202 | 01:23:01.080-01:23:02.789 | Kenzo] My stat check.
 [u1203 | 01:23:03.510-01:23:05.309 | DM] 1d20 plus 5.
 [u1204 | 01:23:06.980-01:23:09.410 | Kenzo] Should be plus five. Okay? Well, that should be 16. Then.
 [u1205 | 01:23:09.650-01:23:10.289 | DM] Guy.
@@ -1335,7 +1335,7 @@
 [u1335 | 01:32:21.530-01:32:23.090 | DM] wall of fire
 [u1336 | 01:32:27.570-01:32:28.070 | DM] marking.
 [u1337 | 01:32:28.860-01:32:33.239 | DM] You think the headquarters of the Rodnya Voknaz.
-[u1338 | 01:32:33.850-01:32:34.680 | Wellby] But scoop.
+[u1338 | 01:32:33.850-01:32:34.680 | Wellby] That's cool.
 [u1339 | 01:32:36.260-01:32:37.450 | DM] Go to sleep
 [u1340 | 01:32:41.020-01:32:42.110 | DM] when
 [u1341 | 01:32:42.830-01:32:44.900 | DM] no, nothing happens except
@@ -1391,7 +1391,7 @@
 [u1391 | 01:36:26.640-01:36:28.540 | Kenzo] That was the 3 word summary
 [u1392 | 01:36:31.440-01:36:34.890 | Kenzo] the larger vision I had.
 [u1393 | 01:36:35.610-01:36:36.520 | Kenzo] I'm
-[u1394 | 01:36:37.100-01:36:44.039 | Kenzo] I think I've shared with you before how we had a bit of eye contact at 1 point, and the plane of consciousness.
+[u1394 | 01:36:37.100-01:36:44.039 | Kenzo] I think I've shared with you before how we had a bit of eye contact at 1 point, in the plane of consciousness.
 [u1395 | 01:36:44.450-01:36:45.660 | Kenzo] I share that with you.
 [u1396 | 01:36:45.770-01:36:47.220 | Kenzo] When we all were
 [u1397 | 01:36:47.240-01:36:48.960 | Kenzo] on our various solo
@@ -1548,7 +1548,7 @@
 [u1548 | 01:45:31.450-01:45:33.170 | Seeker] bigger on the inside, that I've.
 [u1549 | 01:45:33.620-01:45:34.859 | DM] Not one you ever seen.
 [u1550 | 01:45:34.860-01:45:39.890 | Seeker] At this scale, because I mean, like a portable hole, is like a little bit. But.
-[u1551 | 01:45:41.200-01:45:43.899 | DM] And not a portal, {{like the sky}}.
+[u1551 | 01:45:41.200-01:45:43.899 | DM] And not a portal, like the sky.
 [u1552 | 01:45:45.940-01:45:46.690 | Seeker] Right.
 [u1553 | 01:45:46.910-01:45:48.600 | Seeker] That's a case of
 [u1554 | 01:45:49.330-01:45:50.289 | Seeker] portal between
@@ -1592,7 +1592,7 @@
 [u1592 | 01:47:54.270-01:47:59.000 | DM] Yes, you're like 99% sure that these guys have the jade hand. And in fact.
 [u1593 | 01:47:59.180-01:48:00.790 | DM] very likely it is.
 [u1594 | 01:48:00.790-01:48:01.140 | Seeker] Fingers.
-[u1595 | 01:48:01.140-01:48:02.769 | DM] {{Awesome with the blaming them all}}.
+[u1595 | 01:48:01.140-01:48:02.769 | DM] castle with the flaming wall.
 [u1596 | 01:48:04.000-01:48:04.330 | Seeker] Right.
 [u1597 | 01:48:05.370-01:48:06.230 | Kenzo] From.
 [u1598 | 01:48:06.820-01:48:09.100 | Kenzo] and Kenzo has a staff
@@ -1698,7 +1698,7 @@
 [u1698 | 01:53:22.620-01:53:27.600 | Riswynn] Where right now all we have to say is, we want to do a quest
 [u1699 | 01:53:28.170-01:53:29.280 | Riswynn] are like
 [u1700 | 01:53:29.440-01:53:35.289 | Riswynn] not so secret like. We might also be poking around because we're looking for some I don't know.
-[u1701 | 01:53:35.340-01:53:41.759 | Riswynn] {{Wastelf}} or something Delwath has some sort of side story, side quest cover, storyish sort of thing.
+[u1701 | 01:53:35.340-01:53:41.759 | Riswynn] lost elf or something Delwath has some sort of side story, side quest cover, storyish sort of thing.
 [u1702 | 01:53:41.840-01:53:46.530 | Riswynn] But what we're also actually kind of poking around is maybe we'll run into the hut where
 [u1703 | 01:53:46.940-01:53:51.029 | Riswynn] Dude, who found the jade hand, is sort of convalescing.
 [u1704 | 01:53:51.220-01:53:55.530 | Delwath] We don't care about that at this point we're pretty sure that the jade hand is literally in this building.
@@ -1719,7 +1719,7 @@
 [u1719 | 01:54:51.770-01:54:52.260 | Wellby] Oh, yeah.
 [u1720 | 01:54:52.260-01:54:54.709 | Riswynn] Leave. We just say we want it. Now.
 [u1721 | 01:54:55.380-01:55:00.950 | Riswynn] there's like, yeah, no quest. No, no, no, no, no, never mind. Kill these people now.
-[u1722 | 01:55:01.600-01:55:03.770 | Seeker] {{We want. How would they teleframe}}.
+[u1722 | 01:55:01.600-01:55:03.770 | Seeker] We want. How would they teleframe.
 [u1723 | 01:55:04.250-01:55:06.290 | Delwath] Why, why would they care?
 [u1724 | 01:55:07.370-01:55:08.360 | Delwath] Yeah, placing.
 [u1725 | 01:55:08.360-01:55:09.029 | Kenzo] This is this is.
@@ -1798,7 +1798,7 @@
 [u1798 | 01:59:58.570-02:00:00.789 | Delwath] Okay, twentieth-level wizard!
 [u1799 | 02:00:01.100-02:00:02.330 | DM] He's a wizard.
 [u1800 | 02:00:02.730-02:00:03.129 | Kenzo] Fuck.
-[u1801 | 02:00:05.120-02:00:05.700 | Kenzo] Pull.
+[u1801 | 02:00:05.120-02:00:05.700 | Kenzo] Cool.
 [u1802 | 02:00:06.060-02:00:08.969 | DM] He is. He is like calm.
 [u1803 | 02:00:10.330-02:00:12.059 | DM] mildly curious.
 [u1804 | 02:00:17.050-02:00:19.810 | DM] you know, eager to see where this conversation.
@@ -1809,7 +1809,7 @@
 [u1809 | 02:00:30.455-02:00:30.860 | DM] We.
 [u1810 | 02:00:32.060-02:00:37.579 | DM] Fausto was also significantly higher level than you were, but you were only eighth level when you met him.
 [u1811 | 02:00:37.750-02:00:39.940 | DM] So this guy might actually be higher level.
-[u1812 | 02:00:41.290-02:00:41.690 | Kenzo] Up, ship.
+[u1812 | 02:00:41.290-02:00:41.690 | Kenzo] Oh, shit.
 [u1813 | 02:00:41.963-02:00:42.510 | Seeker] Take him.
 [u1814 | 02:00:42.510-02:00:43.130 | Kenzo] Cool.
 [u1815 | 02:00:44.530-02:00:48.560 | DM] But Fausto is probably leveled up a few times since you met him before. So
@@ -1824,7 +1824,7 @@
 [u1824 | 02:01:13.880-02:01:16.919 | DM] and the unseen servant goes around pouring
 [u1825 | 02:01:17.650-02:01:19.389 | DM] wine for everybody.
 [u1826 | 02:01:20.504-02:01:21.200 | Kenzo] Let's just do the.
-[u1827 | 02:01:21.200-02:01:25.969 | DM] {{Garlic and wine}} imported from the South at great cost. The best there is.
+[u1827 | 02:01:21.200-02:01:25.969 | DM] Garlic and wine imported from the South at great cost. The best there is.
 [u1828 | 02:01:27.520-02:01:29.530 | Kenzo] Wonderful. Thank you for the hospitality.
 [u1829 | 02:01:31.910-02:01:35.259 | Kenzo] Tim, so he's just curious. He's not threatening in any way.
 [u1830 | 02:01:35.260-02:01:40.439 | DM] No, not threatening. He I mean, he's quite confident in his own powers, right like.
@@ -1936,7 +1936,7 @@
 [u1936 | 02:07:48.640-02:07:49.899 | Wellby] that could help you.
 [u1937 | 02:07:54.970-02:07:56.450 | Kenzo] Well said, Wellby.
 [u1938 | 02:07:57.250-02:07:58.970 | DM] What is it that you want.
-[u1939 | 02:08:01.870-02:08:02.570 | Wellby] Hug
+[u1939 | 02:08:01.870-02:08:02.570 | Wellby] Uh
 [u1940 | 02:08:03.220-02:08:05.309 | Wellby] a glance over at somebody else. Ken Kenzo, yeah.
 [u1941 | 02:08:05.310-02:08:07.469 | Kenzo] I think, Kenzo Kenzo. Well, first.
 [u1942 | 02:08:08.430-02:08:10.999 | Kenzo] do you believe that we may be of service to you?
@@ -1996,7 +1996,7 @@
 [u1996 | 02:11:32.120-02:11:32.460 | Riswynn] Yes.
 [u1997 | 02:11:37.010-02:11:38.780 | DM] Seems to be considering.
 [u1998 | 02:11:39.310-02:11:41.939 | Kenzo] Kenzo can reincarnate also using his feat.
-[u1999 | 02:11:50.330-02:11:52.789 | DM] It pauses for a moment and
+[u1999 | 02:11:50.330-02:11:52.789 | DM] He pauses for a moment and
 [u2000 | 02:11:53.950-02:11:56.930 | DM] casts a spell, and he seems to be casting a spell.
 [u2001 | 02:11:58.800-02:11:59.180 | DM] Mountain.
 [u2002 | 02:12:01.680-02:12:02.999 | DM] What is the?
@@ -2244,7 +2244,7 @@
 [u2244 | 02:26:49.350-02:26:51.300 | DM] Perhaps if you are creatures of
 [u2245 | 02:26:51.750-02:26:54.869 | DM] ice yourselves, you might make some friends.
 [u2246 | 02:26:56.750-02:27:01.720 | Wellby] Wellby makes a long, significant look at Seeker, and then just shakes his head.
-[u2247 | 02:27:02.410-02:27:03.079 | Wellby] Go close.
+[u2247 | 02:27:02.410-02:27:03.079 | Wellby] So close.
 [u2248 | 02:27:03.420-02:27:03.760 | Seeker] It.
 [u2249 | 02:27:04.810-02:27:05.969 | DM] If you are lucky.
 [u2250 | 02:27:08.030-02:27:10.789 | DM] there are some frost giants who dwell there.
@@ -2496,7 +2496,7 @@
 [u2496 | 02:42:10.070-02:42:11.320 | DM] I don't know. Do you.
 [u2497 | 02:42:11.840-02:42:17.470 | Kenzo] Do I? I mean, do I have any sense of them like, is it? You know? Again I'm I'm like lose using all of all of my my.
 [u2498 | 02:42:18.476-02:42:20.090 | DM] They sound.
-[u2499 | 02:42:20.140-02:42:21.230 | DM] my son
+[u2499 | 02:42:20.140-02:42:21.230 | DM] they sound
 [u2500 | 02:42:22.450-02:42:23.850 | DM] quite nervous.
 [u2501 | 02:42:33.210-02:42:37.599 | Kenzo] They sound quite nervous. They're speaking in Drankorian. Do I recognize the accent.
 [u2502 | 02:42:40.400-02:42:43.910 | DM] I mean Drankorian is like Latin, right? It's like nobody.
@@ -2609,7 +2609,7 @@
 [u2609 | 02:48:51.860-02:48:53.489 | DM] understand? Well.
 [u2610 | 02:48:53.870-02:48:57.629 | DM] course they would understand if they thought about it. I don't believe they've thought.
 [u2611 | 02:48:59.900-02:49:03.970 | DM] about the implications of making peace with a vampire who will never die.
-[u2612 | 02:49:05.440-02:49:07.459 | DM] {{We will help and never die}}.
+[u2612 | 02:49:05.440-02:49:07.459 | DM] We will help and never die.
 [u2613 | 02:49:12.200-02:49:14.329 | Wellby] I don't think you think they've thought about that.
 [u2614 | 02:49:14.950-02:49:17.629 | Wellby] That seems like a significant thing to consider.
 [u2615 | 02:49:31.580-02:49:36.629 | DM] Decisions in Ursk are not made in the way you think they might be made. In other places
@@ -2636,7 +2636,7 @@
 [u2636 | 02:50:52.620-02:50:55.139 | DM] teleportation magic available to you.
 [u2637 | 02:50:56.960-02:50:57.879 | Seeker] We may.
 [u2638 | 02:50:59.870-02:51:02.879 | DM] You do this, you must leave in the next 10 min.
-[u2639 | 02:51:05.350-02:51:06.719 | DM] {{Why is that}} teleport
+[u2639 | 02:51:05.350-02:51:06.719 | DM] Why is that teleport
 [u2640 | 02:51:07.050-02:51:08.590 | DM] out of this place.
 [u2641 | 02:51:12.520-02:51:13.509 | DM] and to
 [u2642 | 02:51:14.970-02:51:17.419 | DM] the outskirts of the vampire's kingdom.
@@ -2721,13 +2721,13 @@
 [u2721 | 02:56:14.330-02:56:17.399 | DM] tinkering with things that should not be tinkered with
 [u2722 | 02:56:17.610-02:56:19.070 | DM] head of this order.
 [u2723 | 02:56:20.350-02:56:21.789 | Seeker] Are you a
-[u2724 | 02:56:21.800-02:56:23.179 | Seeker] {{I used to be in, and}}
+[u2724 | 02:56:21.800-02:56:23.179 | Seeker] Eyes of Vedmakov
 [u2725 | 02:56:25.370-02:56:26.189 | Seeker] is it easy.
 [u2726 | 02:56:26.190-02:56:27.060 | Kenzo] And inform.
 [u2727 | 02:56:27.380-02:56:28.130 | DM] Is, what.
-[u2728 | 02:56:28.550-02:56:30.599 | Kenzo] Is this {{got a mage}} that we had said to everybody.
+[u2728 | 02:56:28.550-02:56:30.599 | Kenzo] Is this got a mage that we had said to everybody.
 [u2729 | 02:56:30.600-02:56:33.729 | Seeker] Same one, not the same one we talked to it did. There's a different.
-[u2730 | 02:56:33.730-02:56:35.750 | Delwath] {{And the same one we talk to honestly}}.
+[u2730 | 02:56:33.730-02:56:35.750 | Delwath] And the same one we talk to honestly.
 [u2731 | 02:56:36.440-02:56:38.860 | Kenzo] He's being watched. He's being watched earlier.
 [u2732 | 02:56:39.480-02:56:41.429 | Delwath] No! He cast an anti scry, spell.
 [u2733 | 02:56:43.580-02:56:43.920 | Seeker] Right.
@@ -2776,7 +2776,7 @@
 [u2776 | 02:59:35.620-02:59:38.490 | Wellby] Like insight. Check this guy, or is
 [u2777 | 02:59:39.076-02:59:41.289 | Wellby] Cannot tell if he's lying to us or not.
 [u2778 | 02:59:41.800-02:59:43.580 | Kenzo] Seriously, can we all collectively insight.
-[u2779 | 02:59:43.580-02:59:44.840 | DM] Go ahead and {{test, chat}}.
+[u2779 | 02:59:43.580-02:59:44.840 | DM] Go ahead and insight check.
 [u2780 | 02:59:45.190-02:59:45.540 | Kenzo] Things.
 [u2781 | 02:59:45.760-02:59:47.459 | Delwath] One other question.
 [u2782 | 02:59:47.580-02:59:50.200 | Delwath] why must we leave so urgently fast?
@@ -2901,7 +2901,7 @@
 [u2901 | 03:07:31.290-03:07:32.390 | DM] Could just leave now.
 [u2902 | 03:07:33.375-03:07:34.050 | Delwath] But
 [u2903 | 03:07:34.673-03:07:35.700 | Delwath] but like.
-[u2904 | 03:07:35.700-03:07:44.160 | DM] Although, keep in mind if you secretly teleport into the inner sanctum, steal the jade, Seeker only has {{10}}, you could rainbow Bridge out.
+[u2904 | 03:07:35.700-03:07:44.160 | DM] Although, keep in mind if you secretly teleport into the inner sanctum, steal the jade, Seeker only has 10, you could rainbow Bridge out.
 [u2905 | 03:07:44.590-03:07:45.240 | Delwath] Yep.
 [u2906 | 03:07:49.500-03:07:52.600 | Delwath] because rainbow Bridge, rainbow Bridge goes across planes right.
 [u2907 | 03:07:52.925-03:07:53.250 | DM] Yep.
@@ -3260,11 +3260,11 @@
 [u3260 | 03:28:00.760-03:28:01.990 | Seeker] We had a lot of that.
 [u3261 | 03:28:03.970-03:28:08.150 | DM] So anybody from the plane of ice could just wander onto Vindristjarna.
 [u3262 | 03:28:08.670-03:28:09.430 | Seeker] Threat.
-[u3263 | 03:28:09.430-03:28:11.379 | Kenzo] But the {{frustrates}}. There are {{frustrates}}. There.
+[u3263 | 03:28:09.430-03:28:11.379 | Kenzo] But the frost giants. There are frost giants. There.
 [u3264 | 03:28:11.380-03:28:12.270 | Seeker] We already have.
-[u3265 | 03:28:12.270-03:28:13.640 | DM] The coward.
+[u3265 | 03:28:12.270-03:28:13.640 | DM] The card.
 [u3266 | 03:28:14.165-03:28:14.410 | Seeker] He!
-[u3267 | 03:28:14.410-03:28:17.320 | Delwath] Is a coward. Is that really? How the that's how the Rainbow Bridge works.
+[u3267 | 03:28:14.410-03:28:17.320 | Delwath] Here’s the card. Is that really? How the that's how the Rainbow Bridge works.
 [u3268 | 03:28:18.230-03:28:22.819 | DM] Yeah, it's not keyed to you. That's why you always dismiss it after you.
 [u3269 | 03:28:25.640-03:28:29.630 | Kenzo] Okay, what I don't understand. Then in this, a whole scenario like.
 [u3270 | 03:28:30.620-03:28:35.860 | Kenzo] why don't we go do what we said that we were? Gonna do the fucking ice mission right
@@ -3399,7 +3399,7 @@
 [u3399 | 03:36:21.340-03:36:21.930 | Riswynn] Good.
 [u3400 | 03:36:21.930-03:36:29.796 | Seeker] I really like this fork that Tim made for us, because there's no wrong answer. There's just all kinds of terrible things that could happen, and we we don't even know.
 [u3401 | 03:36:30.050-03:36:30.650 | Kenzo] Great.
-[u3402 | 03:36:33.240-03:36:34.720 | Kenzo] What do you think sounds like that?
+[u3402 | 03:36:33.240-03:36:34.720 | Kenzo] What do you think, Schwartz, about that?
 [u3403 | 03:36:36.480-03:36:37.420 | Wellby] I think they're
 [u3404 | 03:36:38.210-03:36:40.739 | Wellby] hugely more
 [u3405 | 03:36:41.050-03:36:44.380 | Wellby] possible unintended consequences from killing the vampire.
@@ -3414,7 +3414,7 @@
 [u3414 | 03:37:10.120-03:37:11.830 | Wellby] going and killing the vampire.
 [u3415 | 03:37:12.690-03:37:14.670 | Kenzo] Yeah, I think we're totally.
 [u3416 | 03:37:14.990-03:37:15.310 | Delwath] Hey!
-[u3417 | 03:37:16.310-03:37:16.660 | DM] Guy.
+[u3417 | 03:37:16.310-03:37:16.660 | DM] Okay.
 [u3418 | 03:37:17.460-03:37:18.430 | DM] great.
 [u3419 | 03:37:18.980-03:37:19.390 | Seeker] Seeker's too.
 [u3420 | 03:37:19.390-03:37:19.809 | DM] I thought.
