@@ -174,12 +174,12 @@
 [u0174 | 00:19:07.650-00:19:10.250 | DM] Moving quicker and quicker up the stairs.
 [u0175 | 00:19:12.690-00:19:13.820 | DM] Kong.
 [u0176 | 00:19:14.450-00:19:15.290 | Delwath] Hey!
-[u0177 | 00:19:15.290-00:19:17.320 | Kenzo] Sorry about that show. I'm back.
+[u0177 | 00:19:15.290-00:19:17.320 | Kenzo] Sorry about that, so. I'm back.
 [u0178 | 00:19:17.320-00:19:21.450 | DM] No worries. Kenzo, Delwath,
 [u0179 | 00:19:22.040-00:19:27.640 | DM] Riswynn and Seeker dimension doored back to out from the chamber back to the
 [u0180 | 00:19:28.411-00:19:34.460 | DM] base camp where the satyr and the and the
 [u0181 | 00:19:35.660-00:19:42.259 | DM] and the griffins are waiting, and Wellby is currently trying to flee on his own through the darkness.
-[u0182 | 00:19:42.260-00:19:42.820 | Wellby] He's a kick.
+[u0182 | 00:19:42.260-00:19:42.820 | Wellby] Piece of cake.
 [u0183 | 00:19:42.820-00:19:43.220 | Kenzo] Oh, shit.
 [u0184 | 00:19:43.220-00:19:43.740 | Wellby] Cheesecake.
 [u0185 | 00:19:43.740-00:19:44.890 | Kenzo] Why are you doing that.
@@ -222,7 +222,7 @@
 [u0222 | 00:23:20.080-00:23:37.529 | DM] coming from the the courtyard below. That, you see, you can see now is like all this boiling sort of seething darkness reaching up to try and grab you, and it misses. But you see, streaming up from the ground.
 [u0223 | 00:23:38.030-00:23:40.759 | DM] moving considerably slower than you are.
 [u0224 | 00:23:43.470-00:23:56.250 | DM] Just a swarming mass of dark shapes and flying out of
-[u0225 | 00:24:05.616-00:24:10.140 | DM] {{flying out of that you}}!
+[u0225 | 00:24:05.616-00:24:10.140 | DM] flying out at you!
 [u0226 | 00:24:12.130-00:24:18.216 | DM] This sort of, as you're zipping past running to escape them.
 [u0227 | 00:24:19.580-00:24:29.280 | DM] This sound, this screech of terror strikes you. That's 11, plus
 [u0228 | 00:24:29.500-00:24:33.709 | DM] that's a 21 to hit.
@@ -437,7 +437,7 @@
 [u0437 | 00:39:49.730-00:39:53.040 | DM] Yes, let me just double check like.
 [u0438 | 00:39:53.040-00:39:56.170 | Delwath] Do you have a spell of longstrider, or just some.
 [u0439 | 00:39:56.860-00:39:58.259 | DM] No, it's a rune.
-[u0440 | 00:39:58.260-00:40:00.580 | Riswynn] I have a, yeah, I have a door.
+[u0440 | 00:39:58.260-00:40:00.580 | Riswynn] I have a, yeah, I have a dwar...
 [u0441 | 00:40:01.280-00:40:02.500 | Delwath] Dwarven rune.
 [u0442 | 00:40:02.630-00:40:03.309 | Riswynn] Yes, I have.
 [u0443 | 00:40:03.310-00:40:05.059 | Delwath] You can't, you can't upcast it.
@@ -449,7 +449,7 @@
 [u0449 | 00:40:19.835-00:40:20.310 | DM] Yes!
 [u0450 | 00:40:21.960-00:40:25.569 | Delwath] But there's actually 10 of us.
 [u0451 | 00:40:29.240-00:40:34.459 | DM] Animal shapes can do any number of willing creatures that you can see within range.
-[u0452 | 00:40:34.460-00:40:35.090 | Delwath] Ow.
+[u0452 | 00:40:34.460-00:40:35.090 | Delwath] Oh.
 [u0453 | 00:40:41.660-00:40:47.090 | DM] But I don't think you're gonna I mean, both Wyverns and Griffins are quite fast.
 [u0454 | 00:40:47.480-00:40:54.630 | DM] I don't know that you're going to get a faster creature with animal shapes, you just might be able to cause confusion with animal shapes right.
 [u0455 | 00:40:54.630-00:40:57.440 | Delwath] Okay, yeah, m.
@@ -459,7 +459,7 @@
 [u0459 | 00:41:17.120-00:41:21.870 | Delwath] with either 2 of us, or or
 [u0460 | 00:41:22.990-00:41:27.580 | Delwath] we'll have 2 2. Well, 4 creatures that now I can make 4 creatures invisible.
 [u0461 | 00:41:28.790-00:41:38.830 | Delwath] but it seems like we need something. So that I mean, if we just 2, if 2 of us just pop out of the sky, the invisibility seems potentially less useful.
-[u0462 | 00:41:39.840-00:41:43.590 | Delwath] Right. So how do we {{drink that}}.
+[u0462 | 00:41:39.840-00:41:43.590 | Delwath] Right. So how do we trick that.
 [u0463 | 00:41:43.590-00:41:47.949 | Riswynn] I mean, we're all flying like we go. I don't know.
 [u0464 | 00:41:48.790-00:41:49.999 | Delwath] I just get worried.
 [u0465 | 00:41:50.000-00:41:55.079 | Delwath] I'm just worried. If they assume there's some invisible creature, then why would they not hunt for it and find it?
@@ -543,7 +543,7 @@
 [u0543 | 00:47:54.510-00:47:56.850 | Riswynn] I can see that argument, too. So
 [u0544 | 00:47:57.360-00:48:01.950 | Riswynn] just Delwath seemed very concerned about having a distraction, but the distraction delays it.
 [u0545 | 00:48:02.420-00:48:06.580 | Riswynn] I kind of think I'm talking myself back into thinking we should do it sooner and not have it. Yeah.
-[u0546 | 00:48:06.580-00:48:13.190 | Delwath] I think we should just do it sooner, too. We should like fly in a {{why}}, in a
+[u0546 | 00:48:06.580-00:48:13.190 | Delwath] I think we should just do it sooner, too. We should like fly in a Y, in a
 [u0547 | 00:48:14.220-00:48:16.020 | Delwath] we we can like try and.
 [u0548 | 00:48:16.020-00:48:18.690 | Riswynn] Dancers that try to what all themselves up.
 [u0549 | 00:48:18.870-00:48:23.579 | Delwath] Yeah, get the griffins to like fly around a little bit in a in a pattern right?
@@ -551,7 +551,7 @@
 [u0551 | 00:48:30.980-00:48:37.549 | Delwath] and then turn invisible. Well, no, I have to touch you to turn well, no, I could metamagic it to not have to touch actually.
 [u0552 | 00:48:38.840-00:48:40.689 | Delwath] what does that? Let me do? Hold on.
 [u0553 | 00:48:42.190-00:48:43.450 | DM] Probably 30 feet.
-[u0554 | 00:48:43.450-00:48:45.370 | Delwath] I almost charged 30 feet.
+[u0554 | 00:48:43.450-00:48:45.370 | Delwath] I'm almost sure it's 30 feet.
 [u0555 | 00:48:46.450-00:48:51.770 | Delwath] Yeah, so you could dive, and I could catch it. I could make you invisible.
 [u0556 | 00:48:55.210-00:48:56.269 | Delwath] So let's do it.
 [u0557 | 00:48:56.380-00:48:58.080 | Delwath] Any other tweaks.
@@ -559,7 +559,7 @@
 [u0559 | 00:49:02.020-00:49:05.369 | Delwath] Well, you can longstrider first, come through and longstrider.
 [u0560 | 00:49:05.370-00:49:07.840 | Riswynn] I'm going to fly through and longstrider.
 [u0561 | 00:49:08.140-00:49:08.900 | DM] Okay.
-[u0562 | 00:49:09.690-00:49:15.950 | DM] So the wyvern and Valeris's griffin and {{Kenzo's}} griffin are all. Now
+[u0562 | 00:49:09.690-00:49:15.950 | DM] So the wyvern and Valeris's griffin and Kenzo's griffin are all. Now
 [u0563 | 00:49:16.070-00:49:19.059 | DM] get a boost of energy and speed from.
 [u0564 | 00:49:19.200-00:49:25.660 | DM] So now, if they go their full speed instead of being closed.
 [u0565 | 00:49:26.020-00:49:35.159 | DM] instead of getting closing 50 feet a minute, you will be gaining 50 feet a minute.
@@ -611,7 +611,7 @@
 [u0611 | 00:54:03.510-00:54:09.049 | DM] the Wyvern might still be visible this far away, but like from a mile in a sort of
 [u0612 | 00:54:09.300-00:54:10.130 | DM] you know.
 [u0613 | 00:54:10.820-00:54:29.260 | DM] featureless sky. The griffins are going to look at best like dots, right? I mean, that's close to the resolution that we should be able to spot them, and at this point, as you're as you're slowly gaining ground, they've now long past flown past where the invisible folks are.
-[u0614 | 00:54:31.220-00:54:37.510 | DM] Wellby turns a little bit on the {{griffin}}, and you're sort of following the course of the river a little bit, following the sparkles
+[u0614 | 00:54:31.220-00:54:37.510 | DM] Wellby turns a little bit on the griffin, and you're sort of following the course of the river a little bit, following the sparkles
 [u0615 | 00:54:38.090-00:54:45.349 | DM] from beneath you, at least for a minute.
 [u0616 | 00:54:45.670-00:54:47.809 | DM] You seem to be out of sight.
 [u0617 | 00:54:51.740-00:54:55.400 | DM] whether you've lost them permanently, or
@@ -629,13 +629,13 @@
 [u0629 | 00:55:54.190-00:56:05.100 | Riswynn] No, I just mean you said Wait, and we're not like waiting. We're just progressing in the same direction.
 [u0630 | 00:56:05.100-00:56:13.860 | DM] Yeah, yeah. But the shadow beasts are now in. It's like the Wyvern, the shadow beasts. And then you you're behind them because they've flown past you.
 [u0631 | 00:56:13.860-00:56:19.999 | Riswynn] Yeah, no, I know. I objected to the word 'wait.'
-[u0632 | 00:56:22.190-00:56:27.439 | Riswynn] Now, it's like we're chasing the shadow beasts who are chasing {{people like anymore}}, except the wyvern.
+[u0632 | 00:56:22.190-00:56:27.439 | Riswynn] Now, it's like we're chasing the shadow beasts who are chasing people they can't see anymore, except the wyvern.
 [u0633 | 00:56:30.440-00:56:31.190 | Delwath] Right.
 [u0634 | 00:56:35.610-00:56:38.730 | DM] Now an hour is almost up as you are.
 [u0635 | 00:56:42.150-00:56:45.100 | Delwath] I mean invisibility will run out in an hour too.
 [u0636 | 00:56:45.430-00:56:46.360 | DM] Right.
 [u0637 | 00:56:46.360-00:56:51.149 | Riswynn] Then we will have to hide, or something
-[u0638 | 00:56:51.970-00:56:55.219 | Riswynn] {{which is chased upon them from behind}}. A surprise attack.
+[u0638 | 00:56:51.970-00:56:55.219 | Riswynn] we could just pounce upon them from behind. A surprise attack.
 [u0639 | 00:56:55.780-00:56:57.970 | DM] Seeker is considering animal shapes.
 [u0640 | 00:56:59.630-00:57:05.410 | Delwath] I mean animal shapes. Would you could just turn into little birds and flutter off right.
 [u0641 | 00:57:05.410-00:57:06.710 | DM] Exactly.
@@ -707,7 +707,7 @@
 [u0707 | 01:01:26.550-01:01:30.920 | Wellby] I think, just to put that in context, too. Like if they're gaining 10 feet per round.
 [u0708 | 01:01:31.360-01:01:38.209 | Wellby] and I can start shooting at them from 320 feet away, like I have 32 rounds of sneak attacks on those guys.
 [u0709 | 01:01:40.130-01:01:40.760 | DM] Oh, yeah.
-[u0710 | 01:01:40.950-01:01:42.560 | Wellby] {{Maybe}} they can get close.
+[u0710 | 01:01:40.950-01:01:42.560 | Wellby] Maybe they can get close.
 [u0711 | 01:01:45.910-01:01:47.120 | Delwath] It's true.
 [u0712 | 01:01:47.690-01:01:53.620 | Delwath] Wellby on an arrow, Wellby mounted on a wyvern shooting arrows back towards them.
 [u0713 | 01:01:53.620-01:01:55.299 | DM] Is pretty effective.
@@ -752,7 +752,7 @@
 [u0752 | 01:05:11.820-01:05:17.200 | DM] So you begin racing the last 10 min.
 [u0753 | 01:05:19.710-01:05:27.529 | DM] Seeker and Riswynn now starting to catch up. Not not so far behind you now, maybe only a few minutes behind.
 [u0754 | 01:05:28.510-01:05:30.210 | Delwath] Until within.
-[u0755 | 01:05:31.800-01:05:38.450 | DM] The {{Wyvern's}} still like half a mile away or so. Right, they haven't. They've only closed up
+[u0755 | 01:05:31.800-01:05:38.450 | DM] The Wyvern's still like half a mile away or so. Right, they haven't. They've only closed up
 [u0756 | 01:05:38.610-01:05:50.160 | DM] a small part of the gap. The warg riders and duskhounds noticing you. But you're too high up. They're they're sort of beginning to wheel and circle towards the
 [u0757 | 01:05:50.460-01:05:59.310 | DM] towards the mist, when suddenly you burst through the clouds
 [u0758 | 01:06:02.440-01:06:09.320 | DM] and see swirling below you a pool
@@ -898,8 +898,8 @@
 [u0898 | 01:17:27.710-01:17:30.429 | Riswynn] the Max of my move to see if I could see better.
 [u0899 | 01:17:30.680-01:17:36.389 | Riswynn] and either get hit by something or be able to cast a spell before I get hit by something
 [u0900 | 01:17:36.770-01:17:43.650 | Riswynn] I don't know. I know it'll make me more visible to them. But if I can possibly place sunbursts
-[u0901 | 01:17:43.820-01:17:52.170 | Riswynn] with some amount of you know, skill, instead of just shooting into the clouds instant
-[u0902 | 01:17:52.730-01:17:57.810 | Riswynn] bad to just shoot into the clouds with my one 8th-level spell slot, show so.
+[u0901 | 01:17:43.820-01:17:52.170 | Riswynn] with some amount of you know, skill, instead of just shooting into the clouds and it's
+[u0902 | 01:17:52.730-01:17:57.810 | Riswynn] bad to just shoot into the clouds with my one 8th-level spell slot, so, so.
 [u0903 | 01:17:58.520-01:18:03.639 | DM] You do not need to see the point where you target sunburst for what it's worth.
 [u0904 | 01:18:03.840-01:18:06.920 | Riswynn] I know, but I don't know what. If I put it.
 [u0905 | 01:18:07.110-01:18:09.630 | Riswynn] we'll we'll just trust that you're not going to be that mean.
@@ -925,7 +925,7 @@
 [u0925 | 01:19:38.280-01:19:39.000 | DM] Okay.
 [u0926 | 01:19:44.640-01:19:49.709 | DM] Oh, are you—are you all—Wellby, Kenzo, or sorry, Kenzo,
 [u0927 | 01:19:50.210-01:19:52.009 | DM] Delwath, either of you doing anything?
-[u0928 | 01:19:52.010-01:19:52.980 | Delwath] Ughb!
+[u0928 | 01:19:52.010-01:19:52.980 | Delwath] Uh!
 [u0929 | 01:19:54.440-01:20:01.439 | Delwath] I would have summoned my little insect spirit, but just have it.
 [u0930 | 01:20:08.760-01:20:14.669 | Delwath] Just have it for now. Just fly around nearby, and just kind of
 [u0931 | 01:20:21.010-01:20:22.440 | Delwath] See what?
@@ -1006,7 +1006,7 @@
 [u1006 | 01:29:04.530-01:29:13.530 | DM] and Seeker stumbles back as the spirit of Lady Eventide departs.
 [u1007 | 01:29:14.440-01:29:17.690 | DM] and she turns to look at all of you.
 [u1008 | 01:29:18.510-01:29:24.810 | DM] a sort of question in her eyes, and a sort of deep weariness on her brow.
-[u1009 | 01:29:28.560-01:29:33.750 | DM] I know not who you are, E.
+[u1009 | 01:29:28.560-01:29:33.750 | DM] I know not who you are, eh.
 [u1010 | 01:29:34.760-01:29:36.980 | DM] But I thank you for what you have done.
 [u1011 | 01:29:39.480-01:29:41.549 | DM] She gives a bow.
 [u1012 | 01:29:45.960-01:29:50.620 | Kenzo] Hey? Tim, for fun, Kenzo soul sights, perhaps better.
@@ -1056,7 +1056,7 @@
 [u1056 | 01:33:01.320-01:33:05.570 | Delwath] We were just. It was because we were being chased, and we didn't really have a better option.
 [u1057 | 01:33:06.050-01:33:08.410 | Riswynn] Well, also, because we've heard of all the wonderful things she does.
 [u1058 | 01:33:08.410-01:33:09.360 | Riswynn] Yeah, yeah, yeah.
-[u1059 | 01:33:09.360-01:33:11.179 | Riswynn] Day. And everybody's miserable without her.
+[u1059 | 01:33:09.360-01:33:11.179 | Riswynn] Yeah. And everybody's miserable without her.
 [u1060 | 01:33:11.180-01:33:11.580 | Delwath] Yeah.
 [u1061 | 01:33:13.270-01:33:14.249 | Kenzo] What was in it for us.
 [u1062 | 01:33:14.250-01:33:15.959 | DM] Yes, the proximate, the approximate.
@@ -1116,7 +1116,7 @@
 [u1116 | 01:38:41.560-01:38:46.730 | DM] the purpose of those who used the crown before you is still imprinted on it.
 [u1117 | 01:38:49.450-01:38:50.040 | Riswynn] We feel it.
 [u1118 | 01:38:50.040-01:39:01.019 | DM] You must either create a new purpose for it, or eventually succumb
-[u1119 | 01:39:03.580-01:39:10.720 | DM] to the bonds of control that it now {{believes}}, and
+[u1119 | 01:39:03.580-01:39:10.720 | DM] to the bonds of control that it now weaves, and
 [u1120 | 01:39:15.430-01:39:17.330 | DM] it is bonded to you, but
 [u1121 | 01:39:20.420-01:39:23.070 | DM] eventually, either you must
 [u1122 | 01:39:23.440-01:39:30.810 | DM] compel it to a new goal, your own goal, to make it fully your own, or it will eventually overpower you.
@@ -1166,7 +1166,7 @@
 [u1166 | 01:44:41.520-01:44:52.070 | DM] as hundreds of bonds of control are burned away, and the crown.
 [u1167 | 01:44:53.550-01:44:57.729 | DM] its appearance has already changed to look sort of dwarven.
 [u1168 | 01:44:59.230-01:45:02.000 | DM] But it settles in a way it
-[u1169 | 01:45:03.090-01:45:12.479 | DM] less sort of ostentatious and more {{green, real}}, more grounded.
+[u1169 | 01:45:03.090-01:45:12.479 | DM] less sort of ostentatious and more green, real, more grounded.
 [u1170 | 01:45:15.570-01:45:16.990 | DM] and
 [u1171 | 01:45:18.700-01:45:25.870 | DM] Riswynn, you feel everybody who was connected to the crown, including several people currently trapped in the mirror.
 [u1172 | 01:45:26.400-01:45:30.590 | DM] Suddenly their minds released.
@@ -1236,7 +1236,7 @@
 [u1236 | 01:50:34.020-01:50:41.310 | DM] I suppose you must return, and I would not ask you to keep your
 [u1237 | 01:50:42.130-01:50:47.019 | DM] crew in suspense. I do not know long how long you have been gone.
 [u1238 | 01:50:47.850-01:50:52.219 | Wellby] And you, now that you have taken this mission. Turning to Riswynn.
-[u1239 | 01:50:53.850-01:50:55.810 | DM] There {{won't}} be much to do.
+[u1239 | 01:50:53.850-01:50:55.810 | DM] There won't be much to do.
 [u1240 | 01:50:59.180-01:51:01.079 | DM] And then she turns and looks at
 [u1241 | 01:51:01.280-01:51:10.589 | DM] Valeris, the satyr, who's been hiding behind as many people as possible, trying not to be noticed.
 [u1242 | 01:51:13.000-01:51:16.360 | DM] And what would you do, my fey friend?
