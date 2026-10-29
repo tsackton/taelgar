@@ -22,7 +22,7 @@
 [u0022 | 00:01:29.190-00:01:29.920 | Edric] the wires.
 [u0023 | 00:01:31.290-00:01:32.489 | DM] There we are.
 [u0024 | 00:01:32.880-00:01:35.970 | DM] We're just getting the speech, not the music sounds, I think.
-[u0025 | 00:01:37.040-00:01:37.740 | Edric] The news is coming.
+[u0025 | 00:01:37.040-00:01:37.740 | Edric] The music is coming.
 [u0026 | 00:01:37.740-00:01:38.169 | Tarek] There it is.
 [u0027 | 00:01:38.170-00:01:45.060 | DM] The others… All the wires… It was the wires.
 [u0028 | 00:01:45.740-00:01:47.170 | Tarek] I sense the tone shifting.
@@ -111,10 +111,10 @@
 [u0111 | 00:11:04.200-00:11:06.990 | DM] The last room, too, was a… was a library, so…
 [u0112 | 00:11:07.220-00:11:10.859 | DM] Perhaps you found a book that was just absorbing and ignored what was going on?
 [u0113 | 00:11:25.000-00:11:32.340 | DM] But he's also… A little puzzled by the sensation of the clock striking zero, because clearly it makes…
-[u0114 | 00:11:33.510-00:11:37.319 | Tarek] Zero chimes allowed, so how do you even know that that has occurred?
+[u0114 | 00:11:33.510-00:11:37.319 | Tarek] Zero chimes aloud, so how do you even know that that has occurred?
 [u0115 | 00:11:37.320-00:11:39.399 | DM] But he knows it nonetheless.
 [u0116 | 00:11:44.300-00:11:46.729 | DM] I suppose I should tell… everyone.
-[u0117 | 00:11:47.220-00:11:51.600 | DM] But in his confusion, he, only mumble something.
+[u0117 | 00:11:47.220-00:11:51.600 | DM] But in his confusion, he, only mumbles something.
 [u0118 | 00:11:53.860-00:11:55.750 | DM] It struck… it struck zero?
 [u0119 | 00:12:06.930-00:12:08.270 | Edric] Edric is…
 [u0120 | 00:12:08.960-00:12:11.560 | DM] I mean, you can't see them, it's pitch black.
@@ -127,7 +127,7 @@
 [u0127 | 00:12:41.120-00:12:46.469 | Edric] Which he probably wouldn't admit to. Well, he has two fears, one of which he probably would admit to, and one of which he probably wouldn't.
 [u0128 | 00:12:46.890-00:12:54.389 | Edric] That he would admit to is just he's afraid he's gotten himself into something that's gonna… Peril his soul.
 [u0129 | 00:12:54.820-00:13:02.880 | Edric] In the literal, not in the modern Christian sense of the word or anything like that, but in the literal sense of, is this going to eat my soul?
-[u0130 | 00:13:05.830-00:13:06.820 | Edric] has…
+[u0130 | 00:13:05.830-00:13:06.820 | Edric] His…
 [u0131 | 00:13:07.620-00:13:13.920 | Edric] Fear that maybe he wouldn't admit to is… does he… does he even know who the good guys and the bad guys are?
 [u0132 | 00:13:14.260-00:13:18.210 | Edric] And… is he doing the right thing by making assumptions about.
 [u0133 | 00:13:18.600-00:13:20.390 | DM] Which ones are which?
@@ -160,7 +160,7 @@
 [u0160 | 00:15:30.370-00:15:34.930 | Txarro] The tentacle of… Menestheus.
 [u0161 | 00:15:35.280-00:15:37.609 | Txarro] Moments ago.
 [u0162 | 00:15:39.820-00:15:49.800 | Txarro] You cannot hear or see him, but at the moment he is… likely trying to run up Edric's…
-[u0163 | 00:15:49.960-00:15:55.800 | Txarro] Leg, so it's to not be stepped on.
+[u0163 | 00:15:49.960-00:15:55.800 | Txarro] Leg, so as to not be stepped on.
 [u0164 | 00:15:56.170-00:15:57.640 | Txarro] And…
 [u0165 | 00:15:58.100-00:16:09.879 | Txarro] Possibly wishing that he were a tiger instead of a lizard at this moment, as he looks into the darkness, which is presumably impenetrable even with darkvision.
 [u0166 | 00:16:10.910-00:16:18.010 | Txarro] And wonders… Where the way home is.
@@ -249,7 +249,7 @@
 [u0249 | 00:23:51.520-00:24:00.219 | DM] But it starts to angle out, so you can keep proceeding up, but you're… you're moving more at, like, a 30 or 40 degree angle towards the center of the room than straight up towards the ceiling.
 [u0250 | 00:24:03.350-00:24:05.639 | Txarro] So, like, the… the wa… the…
 [u0251 | 00:24:06.890-00:24:08.709 | Ayveen] The wall has, like, an eave.
-[u0252 | 00:24:09.280-00:24:11.250 | Txarro] As an eave? Okay.
+[u0252 | 00:24:09.280-00:24:11.250 | Txarro] Has an eave? Okay.
 [u0253 | 00:24:11.560-00:24:17.519 | DM] Yeah, an eave, that's not the substance of the wall itself, but the substance of that stuff.
 [u0254 | 00:24:17.810-00:24:18.830 | DM] root stuff.
 [u0255 | 00:24:24.050-00:24:28.940 | Txarro] I guess we keep going forward. What other choice do we have?
@@ -275,7 +275,7 @@
 [u0275 | 00:25:47.670-00:25:51.859 | DM] zero, which is now, I suppose. Or was now.
 [u0276 | 00:25:54.390-00:25:58.060 | Tarek] Does that coincide with the contractual agreement?
 [u0277 | 00:25:59.510-00:26:02.900 | DM] It's… close… Yeah.
-[u0278 | 00:26:02.900-00:26:04.100 | Tarek] form after?
+[u0278 | 00:26:02.900-00:26:04.100 | Tarek] Before or after?
 [u0279 | 00:26:04.100-00:26:09.089 | DM] 1352 was the deed's origination date.
 [u0280 | 00:26:12.380-00:26:14.519 | Tarek] I said it was just… one year before.
 [u0281 | 00:26:16.340-00:26:17.930 | Tarek] Oh, strange.
@@ -327,7 +327,7 @@
 [u0327 | 00:30:57.920-00:30:58.390 | Tarek] Oh, yeah.
 [u0328 | 00:30:58.390-00:31:00.309 | DM] Watching the dreams.
 [u0329 | 00:31:00.730-00:31:02.110 | Tarek] You're like the beaver dam.
-[u0330 | 00:31:02.380-00:31:12.410 | DM] to the dreams listening to me outside the walls, and I am asking them to let me go home, and they are telling me it is too important that I eat the dreams they bring to me.
+[u0330 | 00:31:02.380-00:31:12.410 | DM] to the dreamers listening to me outside the walls, and I am asking them to let me go home, and they are telling me it is too important that I eat the dreams they bring to me.
 [u0331 | 00:31:12.720-00:31:17.619 | DM] They're telling me the door to my house does not open big enough for me to go.
 [u0332 | 00:31:18.340-00:31:18.970 | DM] and my teacher.
 [u0333 | 00:31:18.970-00:31:19.670 | Tarek] Sure.
@@ -705,7 +705,7 @@
 [u0705 | 01:08:11.180-01:08:12.330 | DM] Who's ready.
 [u0706 | 01:08:12.330-01:08:17.309 | DM] The result is that he might let go of souls, or some of them, or all of them.
 [u0707 | 01:08:20.540-01:08:21.060 | DM] Yes.
-[u0708 | 01:08:21.069-01:08:23.539 | Tarek] Sorry about ourselves, or about someone else, or…
+[u0708 | 01:08:21.069-01:08:23.539 | Tarek] Story about ourselves, or about someone else, or…
 [u0709 | 01:08:27.019-01:08:32.079 | DM] Or about him, or about the future, or about the past, or about…
 [u0710 | 01:08:32.080-01:08:33.140 | Tarek] A name?
 [u0711 | 01:08:33.149-01:08:37.449 | DM] for the present moment that you're in right now that reshapes it.
@@ -746,7 +746,7 @@
 [u0746 | 01:11:30.390-01:11:31.570 | DM] Yes. Fine.
 [u0747 | 01:11:31.570-01:11:33.300 | Edric] On this story.
 [u0748 | 01:11:33.700-01:11:34.860 | Tarek] I need to buy experience.
-[u0749 | 01:11:34.860-01:11:42.240 | Edric] I need to find a dot, but I'll… I'll tell… I can just roll on the… I can just roll on the team. So… so Edric's story is kind of like… so, like, he…
+[u0749 | 01:11:34.860-01:11:42.240 | Edric] I need to find a die, but I'll… I'll tell… I can just roll on the… I can just roll on the team. So… so Edric's story is kind of like… so, like, he…
 [u0750 | 01:11:42.530-01:11:51.280 | Edric] he, like, prays to the Night Queen, and… and, like, well, we're still in pitch darkness, right? So you can't actually see him, but you can hear his prayer.
 [u0751 | 01:11:51.520-01:11:56.509 | Edric] And, again, you have this sense of, like, palpable…
 [u0752 | 01:11:57.060-01:12:02.629 | Edric] This palpable sense of, like, religious fervor just in the room, like…
@@ -824,7 +824,7 @@
 [u0824 | 01:17:10.030-01:17:11.960 | DM] Yep. Yes.
 [u0825 | 01:17:12.390-01:17:14.099 | DM] Yes, and, I mean, I…
 [u0826 | 01:17:14.710-01:17:18.729 | DM] I think part of what I want to do is just make it really expansive. It's not merely, like.
-[u0827 | 01:17:18.800-01:17:19.330 | DM] And…
+[u0827 | 01:17:18.800-01:17:19.330 | DM] An…
 [u0828 | 01:17:19.330-01:17:26.489 | DM] argument in favor of letting go of souls. Yes. But it could be any flavor or… I mean, it could be a fairy tale, it could be a…
 [u0829 | 01:17:26.870-01:17:27.789 | Kaito Min] I got it, okay.
 [u0830 | 01:17:27.790-01:17:29.499 | DM] I wanna go next.
@@ -834,7 +834,7 @@
 [u0834 | 01:17:50.310-01:17:53.740 | DM] And… He gets down on his knees.
 [u0835 | 01:17:54.150-01:17:55.179 | DM] and kind of…
 [u0836 | 01:17:55.340-01:17:59.910 | DM] You know, is in a… is facing in a general direction to where he hears the voice.
-[u0837 | 01:18:01.010-01:18:03.240 | DM] And… E.
+[u0837 | 01:18:01.010-01:18:03.240 | DM] And… he…
 [u0838 | 01:18:04.960-01:18:11.199 | Kaito Min] I guess he's thinking this in his mind, because he doesn't say this out loud, actually. This is more of a private conversation with the,
 [u0839 | 01:18:12.240-01:18:15.740 | Kaito Min] With this voice, whomever… whomever this is.
 [u0840 | 01:18:16.060-01:18:18.100 | Kaito Min] And Kaito's basically, like.
@@ -1175,7 +1175,7 @@
 [u1175 | 01:44:11.370-01:44:14.169 | Txarro] Because we learned our lesson. We realized.
 [u1176 | 01:44:14.660-01:44:17.880 | Txarro] We had to let him… find himself.
 [u1177 | 01:44:18.500-01:44:25.419 | Txarro] And so we opened our hands, we broke the bonds of those nets, and we let him…
-[u1178 | 01:44:25.600-01:44:28.230 | Txarro] Blow down the river to where fate took him.
+[u1178 | 01:44:25.600-01:44:28.230 | Txarro] Flow down the river to where fate took him.
 [u1179 | 01:44:30.810-01:44:36.250 | Txarro] And that is how he is here now, and that is what you now can do for yourself.
 [u1180 | 01:44:39.710-01:44:42.340 | Txarro] And Txarro's eyes open, and he sort of blinks.
 [u1181 | 01:44:42.470-01:44:48.279 | Txarro] And looks around, sort of mutters, did I… Did I say something?
@@ -1273,7 +1273,7 @@
 [u1273 | 01:54:33.330-01:54:48.159 | DM] It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster.
 [u1274 | 01:54:48.160-01:54:59.999 | DM] can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing.
 [u1275 | 01:55:01.520-01:55:04.859 | DM] And in that place, which is not a place.
-[u1276 | 01:55:05.610-01:55:08.830 | DM] It doesn't think of the soul horde it kept.
+[u1276 | 01:55:05.610-01:55:08.830 | DM] It doesn't think of the soul hoard it kept.
 [u1277 | 01:55:10.150-01:55:15.289 | DM] But of the teacher who found it as a lost child and loved it into speech.
 [u1278 | 01:55:17.590-01:55:22.180 | DM] And finally… Finally.
 [u1279 | 01:55:22.530-01:55:29.840 | DM] Under a twilight sky, Wide green lawns rise from the river to a beautiful manor house.
@@ -1352,7 +1352,7 @@
 [u1352 | 02:00:10.220-02:00:15.700 | Edric] But, so, Endless Ending was… Right.
 [u1353 | 02:00:16.460-02:00:23.290 | Edric] was found with this guy. I guess it's not very clear what… this Twilight Kingdom was before.
 [u1354 | 02:00:23.620-02:00:24.830 | Edric] or after.
-[u1355 | 02:00:27.450-02:00:29.040 | Txarro] Well, there were many hazards.
+[u1355 | 02:00:27.450-02:00:29.040 | Txarro] Well, there were many houses.
 [u1356 | 02:00:29.040-02:00:30.830 | Edric] I guess there's many houses.
 [u1357 | 02:00:30.830-02:00:31.220 | Txarro] But…
 [u1358 | 02:00:31.220-02:00:32.500 | Edric] once…
@@ -1436,7 +1436,7 @@
 [u1436 | 02:05:50.120-02:05:52.630 | Txarro] This is… did I send you, Schwartz to…
 [u1437 | 02:05:55.080-02:05:57.820 | Txarro] history at… I sent you that history at the end of.
 [u1438 | 02:05:58.230-02:05:58.900 | DM] Yeah.
-[u1439 | 02:05:58.900-02:06:02.990 | Txarro] Telco, right? Okay, yeah, yeah. This is not on… I should put this on Telgoverse.
+[u1439 | 02:05:58.900-02:06:02.990 | Txarro] Taelgar, right? Okay, yeah, yeah. This is not on… I should put this on Taelgarverse.
 [u1440 | 02:06:03.670-02:06:11.510 | Txarro] This is a deep cut that you couldn't have picked up on… nobody else could have picked up on because of the fact that it's not public.
 [u1441 | 02:06:11.510-02:06:12.110 | Edric] which…
 [u1442 | 02:06:12.660-02:06:13.190 | Edric] one.
@@ -1469,7 +1469,7 @@
 [u1469 | 02:08:01.410-02:08:03.650 | Txarro] of the room.
 [u1470 | 02:08:03.930-02:08:13.910 | Txarro] the central room in the prison was always at a random… pointing to a random time back in Taelgar. But… some of them presumably attempted to…
 [u1471 | 02:08:14.440-02:08:18.879 | Txarro] Either from conversation with the entity.
-[u1472 | 02:08:19.160-02:08:26.060 | Txarro] the first, or out of their own volition. That, I think, is… was not clear from what we were able to learn.
+[u1472 | 02:08:19.160-02:08:26.060 | Txarro] the Thirst, or out of their own volition. That, I think, is… was not clear from what we were able to learn.
 [u1473 | 02:08:26.960-02:08:30.630 | Txarro] Tried to figure out ways to…
 [u1474 | 02:08:31.360-02:08:37.960 | Txarro] get people back to free the entity, or at least interact with the entity, and Hulda…
 [u1475 | 02:08:38.270-02:08:44.550 | Txarro] showed up in 1351 Sembara. Sembara didn't exist at that point, actually.
@@ -1564,7 +1564,7 @@
 [u1564 | 02:15:33.190-02:15:35.640 | DM] Yeah, that was… I asked for the…
 [u1565 | 02:15:35.750-02:15:41.039 | Txarro] Was a similar mechanism, except it was the reverse, the souls getting out.
 [u1566 | 02:15:41.170-02:15:44.529 | Txarro] We're actually destroying the prison, not create…
-[u1567 | 02:15:44.870-02:15:46.240 | Txarro] Yes, the energy of the sun.
+[u1567 | 02:15:44.870-02:15:46.240 | Txarro] Yes, the energy of the souls.
 [u1568 | 02:15:46.240-02:15:47.340 | Tarek] How are you?
 [u1569 | 02:15:47.560-02:15:49.449 | Txarro] was destroying the prison. Yeah.
 [u1570 | 02:15:49.450-02:15:52.490 | Edric] It was just that the energy was directed into something different for the.
@@ -1710,7 +1710,7 @@
 [u1710 | 02:27:56.820-02:27:59.050 | DM] At which point, you leave the prison.
 [u1711 | 02:28:00.120-02:28:06.639 | DM] And it doesn't matter what… from the perspective of Lord Ending, it does not matter what year you leave the prison.
 [u1712 | 02:28:09.040-02:28:14.840 | DM] as long as it's after the agreement that he's made. As long as it's after his party has started ending.
-[u1713 | 02:28:14.840-02:28:24.380 | Txarro] But I don't think… I think once we… I think it was pretty unlikely that we were gonna go back in time, not… I think not… at least from Child's perspective, not because…
+[u1713 | 02:28:14.840-02:28:24.380 | Txarro] But I don't think… I think once we… I think it was pretty unlikely that we were gonna go back in time, not… I think not… at least from Txarro's perspective, not because…
 [u1714 | 02:28:24.930-02:28:32.120 | Txarro] Of selfishness, just because… That's all… that's, like, even more scary than talking to some weird child, is, like.
 [u1715 | 02:28:33.440-02:28:39.760 | DM] So I agree that it was really unlikely, but I also imagine a scenario in which you as players thought.
 [u1716 | 02:28:39.960-02:28:41.580 | DM] Time travel, fuck yeah, let's do this!
@@ -1823,7 +1823,7 @@
 [u1823 | 02:37:51.100-02:37:52.130 | DM] Well, there were lots of…
 [u1824 | 02:37:52.130-02:37:53.110 | Tarek] to reveal.
 [u1825 | 02:37:53.430-02:38:02.099 | DM] The mystery story I wanted to tell was progressive, which I think is, like, a different in kind sort of a game than…
-[u1826 | 02:38:02.220-02:38:03.200 | DM] You know, dragging that.
+[u1826 | 02:38:02.220-02:38:03.200 | DM] You know, dragonet.
 [u1827 | 02:38:03.200-02:38:06.080 | Txarro] Yeah, I don't think any of us mind playing in…
 [u1828 | 02:38:06.210-02:38:20.229 | Txarro] tightly scripted games, it's… it's sort of… it's slightly… like, you wouldn't want to put this on Reddit. You get a million people who say you're a terrible DM because players have no agency, but I don't think…
 [u1829 | 02:38:20.640-02:38:22.120 | Txarro] We feel that way, so…
@@ -1890,7 +1890,7 @@
 [u1890 | 02:42:46.760-02:42:54.980 | Kaito Min] And they… it just didn't… like… like, for me as, like, my character, and even for me, like, as Dave, like, I didn't know how deep the fucking well went, you know what I mean?
 [u1891 | 02:42:54.980-02:42:56.060 | Edric] It's deep.
 [u1892 | 02:42:56.060-02:43:05.279 | Kaito Min] Yeah, and so one thing is, like, how… I don't know how, just because, like, it was such a rich, like, web of possibilities, but, like, there were some.
-[u1893 | 02:43:05.280-02:43:08.150 | Edric] Everything. Everything got to be 10 times more obvious.
+[u1893 | 02:43:05.280-02:43:08.150 | Edric] Everything. Everything's got to be 10 times more obvious.
 [u1894 | 02:43:08.150-02:43:08.680 | Kaito Min] What's that?
 [u1895 | 02:43:08.680-02:43:23.310 | Edric] Like, everything has to be 10 times… like, I agree with that. I did not really… partly it's because, like, we've been playing… a lot of the plot… a lot of the detail drops are coming late at night, and not all of us are necessarily always as awake, but…
 [u1896 | 02:43:23.600-02:43:28.310 | Edric] Part of it is also just, it's hard to follow everything that's happening, and so…
@@ -1923,8 +1923,8 @@
 [u1923 | 02:45:19.360-02:45:29.519 | Txarro] like, you see the connections that, like, I… there's no way that, like, totally would be… I would be shocked if any of you caught the far realm deep cut.
 [u1924 | 02:45:30.140-02:45:31.450 | Txarro] Draw.
 [u1925 | 02:45:31.450-02:45:36.920 | Edric] The thing is, I literally looked up that book when Schwartz mentioned it, but I did not put two and two together as…
-[u1926 | 02:45:36.920-02:45:37.400 | Txarro] Rev.
-[u1927 | 02:45:37.400-02:45:37.990 | Edric] Bart ride.
+[u1926 | 02:45:36.920-02:45:37.400 | Txarro] Right.
+[u1927 | 02:45:37.400-02:45:37.990 | Edric] But right.
 [u1928 | 02:45:37.990-02:45:40.839 | Txarro] But it's different… having written something and just looking something.
 [u1929 | 02:45:40.840-02:45:41.230 | Edric] No.
 [u1930 | 02:45:41.230-02:45:47.530 | Txarro] is a very different experience, right? And I spent a huge amount of time constructing the whole intellectual history of.
@@ -1956,7 +1956,7 @@
 [u1956 | 02:48:17.910-02:48:23.959 | Kaito Min] No, but Schwartz, I think you did a great job, like, giving us, like, it was, like, kind of a high.
 [u1957 | 02:48:23.960-02:48:24.450 | Tarek] Right.
 [u1958 | 02:48:24.450-02:48:31.020 | Kaito Min] Simple enough prompt, but then we could kind of all, like, go into ours. So, I super agree with Michael that you're saying, it's like.
-[u1959 | 02:48:31.020-02:48:54.900 | Kaito Min] like, even though there was this, like, deep realm of choices that we could have made to do all this fucking time junking and blah blah blah, like, in a way, like, like, Kaito Min was just like, I don't know what the fuck is going on, I'm in a dark place, but I'm also, like… and it really was, I think, like, I felt me, like, Dave Kong playing this character, I was embracing… I just felt the same, like, totally lost as, like, my character felt, and then it was just sort of like, okay, cool, like.
+[u1959 | 02:48:31.020-02:48:54.900 | Kaito Min] like, even though there was this, like, deep realm of choices that we could have made to do all this fucking time jumping and blah blah blah, like, in a way, like, like, Kaito Min was just like, I don't know what the fuck is going on, I'm in a dark place, but I'm also, like… and it really was, I think, like, I felt me, like, Dave Kong playing this character, I was embracing… I just felt the same, like, totally lost as, like, my character felt, and then it was just sort of like, okay, cool, like.
 [u1960 | 02:48:54.900-02:49:02.359 | Kaito Min] So there was a certain element of, like, getting swept away into the… and because the narrative was so rich and the vibe was so, like, thick, you know?
 [u1961 | 02:49:02.440-02:49:08.029 | Kaito Min] And Schwartz, the other thing, too, is, like, I remember from the very first one, it was, like, it just felt like a Kubrick movie, you know what I mean?
 [u1962 | 02:49:08.600-02:49:13.090 | Kaito Min] like, I think, remarkably, every session still felt like that. Like, every… even though it kind of.
@@ -1983,7 +1983,7 @@
 [u1983 | 02:50:17.370-02:50:18.490 | Txarro] Oh, yeah.
 [u1984 | 02:50:18.490-02:50:20.490 | Ayveen] Get a word in edgewise and say goodnight!
 [u1985 | 02:50:20.490-02:50:21.210 | Edric] Thank you.
-[u1986 | 02:50:21.210-02:50:22.020 | Kaito Min] Hi, Kate, bye-bye.
+[u1986 | 02:50:21.210-02:50:22.020 | Kaito Min] Bye, Kate, bye-bye.
 [u1987 | 02:50:22.020-02:50:22.630 | Txarro] Yay.
 [u1988 | 02:50:24.860-02:50:26.549 | Txarro] What I… and I'm sure Mike wants to go.
 [u1989 | 02:50:26.550-02:50:27.960 | Edric] I'm off to bed.
@@ -2034,7 +2034,7 @@
 [u2034 | 02:54:35.890-02:54:40.029 | DM] He could… he could have been a way to invite the time
 [u2035 | 02:54:40.280-02:54:43.730 | DM] He could have been a way to plant the idea that you can go to any time you want, right?
 [u2036 | 02:54:43.730-02:54:45.060 | Kaito Min] Yeah. Yeah.
-[u2037 | 02:54:45.060-02:54:45.380 | Tarek] 11.
+[u2037 | 02:54:45.060-02:54:45.380 | Tarek] Love it.
 [u2038 | 02:54:45.380-02:54:45.950 | Txarro] But I think…
 [u2039 | 02:54:47.980-02:54:50.009 | Edric] I didn't need that choice, honestly.
 [u2040 | 02:54:50.010-02:54:54.809 | Txarro] Is my point. But it's not… I think my… my… what I'm trying to get to for…
@@ -2053,7 +2053,7 @@
 [u2053 | 02:56:12.770-02:56:18.129 | Txarro] There wasn't really a choice we could have made differently that would have allowed us to
 [u2054 | 02:56:18.570-02:56:22.040 | Txarro] understand who the prisoner… like, all the clues…
 [u2055 | 02:56:22.040-02:56:33.449 | DM] No, no, wait a minute, wait a minute, wait a minute. There absolutely is. You could have rolled a goddamn investigation check in every single room with a book that you walked into, and…
-[u2056 | 02:56:33.450-02:56:33.830 | Kaito Min] And then we'll.
+[u2056 | 02:56:33.450-02:56:33.830 | Kaito Min] And then what?
 [u2057 | 02:56:33.830-02:56:34.330 | DM] No, no.
 [u2058 | 02:56:34.330-02:56:35.270 | Kaito Min] What happened?
 [u2059 | 02:56:36.300-02:56:44.980 | DM] Me… this actually… this is not really a complaint. Me in the early sessions, I had prepped, like, half of the books that you ended up reading in the later sessions.
@@ -2073,7 +2073,7 @@
 [u2073 | 02:57:56.900-02:57:59.950 | Edric] Pick something to make it the focus of, and…
 [u2074 | 02:57:59.950-02:58:09.309 | Tarek] And you're a strong improviser, Kong, and so as long as you have the kind of bones of the world and of the motivations of the characters that we're gonna.
 [u2075 | 02:58:09.310-02:58:09.860 | Edric] I'm excited.
-[u2076 | 02:58:09.860-02:58:10.329 | Tarek] I built it.
+[u2076 | 02:58:09.860-02:58:10.329 | Tarek] inhabit.
 [u2077 | 02:58:10.330-02:58:11.790 | Edric] Like, full on…
 [u2078 | 02:58:11.790-02:58:12.340 | Tarek] thought.
 [u2079 | 02:58:12.470-02:58:14.850 | Edric] big boss battles, and, you know…
@@ -2158,7 +2158,7 @@
 [u2158 | 03:05:56.300-03:06:00.829 | Txarro] It's really hard to get players to do research on
 [u2159 | 03:06:02.010-03:06:05.560 | Txarro] the mysteries that the DM creates, because…
 [u2160 | 03:06:05.670-03:06:08.659 | Txarro] You don't even know what you're supposed to research.
-[u2161 | 03:06:08.660-03:06:09.130 | Edric] Rev.
+[u2161 | 03:06:08.660-03:06:09.130 | Edric] Right.
 [u2162 | 03:06:09.130-03:06:11.090 | Tarek] Yeah, they might be real. Schwartz…
 [u2163 | 03:06:11.090-03:06:17.440 | Kaito Min] I actually thought our Aurae, like, interacting with Aurae, was actually really satisfying.
 [u2164 | 03:06:17.440-03:06:17.770 | Edric] Yeah.
@@ -2180,7 +2180,7 @@
 [u2180 | 03:07:48.410-03:07:51.390 | Edric] That's the mechanic that's always difficult with…
 [u2181 | 03:07:52.600-03:07:56.670 | Txarro] I mean, the thing that I try to do that I'm not… sorry, go ahead, Schwartz.
 [u2182 | 03:07:56.670-03:08:00.889 | DM] just briefly, I also feel like I experienced the flip side of that a little bit, that, like.
-[u2183 | 03:08:01.790-03:08:07.860 | DM] Welby had all of these skills, and it seemed like… It didn't seem very fun…
+[u2183 | 03:08:01.790-03:08:07.860 | DM] Wellby had all of these skills, and it seemed like… It didn't seem very fun…
 [u2184 | 03:08:08.040-03:08:10.560 | DM] To just, like, roll a skill, to be like…
 [u2185 | 03:08:10.680-03:08:14.769 | DM] I'm gonna roll the die, and that's the thing, like, I… there was part of me that wanted to, like.
 [u2186 | 03:08:14.920-03:08:16.569 | DM] I don't know.
@@ -2203,7 +2203,7 @@
 [u2203 | 03:09:37.490-03:09:38.560 | Edric] I'm gonna… Go ahead.
 [u2204 | 03:09:38.560-03:09:44.260 | Kaito Min] really ask, because I just, this is like a dragonet thing.
 [u2205 | 03:09:44.260-03:09:44.580 | Edric] Right?
-[u2206 | 03:09:44.580-03:09:49.110 | Kaito Min] Before you guys, I'll leave. So… That, like.
+[u2206 | 03:09:44.580-03:09:49.110 | Kaito Min] Before you guys all leave. So… That, like.
 [u2207 | 03:09:49.720-03:10:06.959 | Kaito Min] my hope for the dragonets is that, again, just as it relates to, like, mechanics and, like, skill stuff, it's like the whole, like, like, going back, and Mike, I think you've said this, and it just, like, like, it just felt like a very strong thing, where it's like, you know, the cool thing about your character is, like, the little, like, you know, things that you've created that.
 [u2208 | 03:10:06.960-03:10:07.450 | Edric] Yeah.
 [u2209 | 03:10:07.450-03:10:19.179 | Kaito Min] like, and you, like, what's satisfying as a player is to get to do the things that your character… that you, like, the character, have created for yourself to go and do, right? So it's like, what I want to try to do…
@@ -2495,7 +2495,7 @@
 [u2495 | 03:34:06.890-03:34:13.020 | Txarro] But it's just, like, a way to have… Organize the Markdown notes.
 [u2496 | 03:34:13.270-03:34:21.569 | Kaito Min] Yeah, I mean, I think… I think for what I'm gonna try to do, just given this little mini… mini campaign, I think, like, a Google Doc is perfect. A Google Doc with some tabs?
 [u2497 | 03:34:21.570-03:34:22.140 | Txarro] Yeah.
-[u2498 | 03:34:22.140-03:34:22.770 | Kaito Min] We'll seat me back.
+[u2498 | 03:34:22.140-03:34:22.770 | Kaito Min] Will suit me best.
 [u2499 | 03:34:22.770-03:34:24.960 | Txarro] I used to… I used to do everything in Google Docs.
 [u2500 | 03:34:25.300-03:34:26.060 | Kaito Min] Yeah, that's not super popular.
 [u2501 | 03:34:27.360-03:34:29.909 | Txarro] It works, it works well up to a point.
