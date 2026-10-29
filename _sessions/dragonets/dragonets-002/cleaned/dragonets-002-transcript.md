@@ -1,6 +1,6 @@
 # Dragonets — Session 2
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dragonets-002-source-cleaned.md
 
 ## Transcript
@@ -218,8 +218,8 @@ Sculpit: At one point, There was some… bob… you know, thing out in the ocean
 %% u0263:0-24, u0264:0-125, u0265:0-175, u0266:0-17, u0267:0-96, u0268:0-36, u0269:0-31, u0270:0-95 %%
 Sculpit: But, unbeknownst to him—or, unexpectedly, rather, the storm shifted, as it does sometimes, right? And he wasn't intending to fly near the storm, but… All of a sudden, he found himself surrounded by thunder and lightning, and this… crashing winds and crashing waves, and… Didn't know which way was up or down, and didn't know… where to go, and… he tried fighting against it for a long time, and felt like he was probably gonna die. And then… At the end of his sort of energy, he—he… just let go, and… and… let the whatever energy was in the storm, take over and he felt something sort of move through him.
 
-%% u0271:0-44, u0272:0-6, u0273:0-60, u0274:0-50 %%
-Sculpit: And he appeared back on the Wanderer's hand. Apart. You know how he got there. And from that day, he started to… experience, that's when he started casting spells.
+%% u0271:0-44, u0272:0-6, u0273:0-63, u0274:0-50 %%
+Sculpit: And he appeared back on the Wanderer's hand. Apart. Not knowing how he got there. And from that day, he started to… experience, that's when he started casting spells.
 
 %% u0275:0-34, u0276:0-3, u0277:0-95, u0278:0-55, u0279:0-29 %%
 Sculpit: But he was always a little afraid of… this thing that he assumes gave him the power to cast spells. It was always a little scary and… and he was always a little bit afraid of his own magic. And he feels less afraid now.

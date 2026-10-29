@@ -2450,8 +2450,8 @@ DM: And another. "I see the shape of their dreaming. Everyone is different, but 
 %% u1473:0-23, u1474:0-38, u1475:0-30, u1476:0-29, u1477:0-34, u1478:0-31, u1479:0-28, u1480:0-75, u1481:0-56, u1482:0-28, u1483:0-23, u1484:0-36, u1485:0-24, u1486:0-35 %%
 DM: And then another entry. "I see you making the letters on paper. You are afraid that I see you. Do not be. You understand me. You know what it is to be trapped. I see the shape of possibility. You think that's impossible. I see the things that you are thirsty for and do not believe you can drink. I am making it possible. I am seeing your dreaming soul. I'm giving you a full glass. I'm talking to you now. You're opening the door to my house. I am sending you onward." And that's the last of the entries.
 
-%% u1487:0-43, u1488:0-44, u1489:0-24 %%
-Tarek: I love all those [garbled]. It's so good. The shape of possibility was something from previous session, or no?
+%% u1487:0-41, u1488:0-44, u1489:0-24 %%
+Tarek: I love all those, Schwartz. It's so good. The shape of possibility was something from previous session, or no?
 
 %% u1490:0-54 %%
 DM: It was a book you found. It was one of the books that…

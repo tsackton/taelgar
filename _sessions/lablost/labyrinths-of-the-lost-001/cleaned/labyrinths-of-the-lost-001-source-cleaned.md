@@ -1344,7 +1344,7 @@
 [u1344 | 02:21:20.090-02:21:24.000 | Dilion] We don't have to kill them. We can just knock them out.
 [u1345 | 02:21:24.550-02:21:27.460 | Dilion] let's say non, lethally, so we can
 [u1346 | 02:21:27.660-02:21:29.759 | Dilion] interrogate them, and another.
-[u1347 | 02:21:29.880-02:21:37.749 | Gaudin] and it will leisurely that works for me. So do it. Okay. So
+[u1347 | 02:21:29.880-02:21:37.749 | Gaudin] And nonlethally, that works for me. So do it. Okay. So
 [u1348 | 02:21:38.580-02:21:48.369 | Gaudin] Gaudin goes off out of line of sight and returns looking more or less like one of the dead goblins.
 [u1349 | 02:21:49.990-02:21:59.099 | Gaudin] I I rub some of this. I take some of the rotten food and stink and kind of put it in my pocket, so I have the the whole goblin ambiance.
 [u1350 | 02:21:59.210-02:22:04.250 | DM] Sorry. Which of the dead ones do you look like the boss lady or the
@@ -2053,7 +2053,7 @@
 [u2053 | 03:27:48.670-03:27:53.380 | Dilion] how many people are gonna come out? How many goblins gonna come out to investigate
 [u2054 | 03:27:53.530-03:27:54.310 | Dilion] like
 [u2055 | 03:27:54.940-03:28:04.129 | Dilion] if they're coming in an hour or something again. This is the next station. But for like, if they're coming out in an hour, how many come out, because if this 10 goblins.
-[u2056 | 03:28:04.490-03:28:14.250 | Dilion] {{the old Tina, gonna}} come at once. So they did say, Tell Ulgna I'm gonna deal with Morky. I'll be back an hour, and Ulgna is like.
+[u2056 | 03:28:04.490-03:28:14.250 | Dilion] All ten are gonna come at once. So they did say, Tell Ulgna I'm gonna deal with Morky. I'll be back an hour, and Ulgna is like.
 [u2057 | 03:28:14.660-03:28:17.350 | Loria] I think Ulgna is like the head of the goblin
 [u2058 | 03:28:17.820-03:28:18.680 | Acescale] right?
 [u2059 | 03:28:18.990-03:28:25.020 | Loria] So Ulgna either goes to check herself or sends them out.

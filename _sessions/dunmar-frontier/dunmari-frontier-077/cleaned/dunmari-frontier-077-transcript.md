@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 77
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-077-source-cleaned.md
 
 ## Transcript
@@ -239,8 +239,8 @@ Delwath: Delwath got the impression youth was important, and that you could just
 %% u0157:0-5 %%
 Seeker: Boom!
 
-%% u0158:0-172, u0159:0-42 %%
-Riswynn: Riswynn got the impression that it was just sort of the state of that person's sort of internal unrest with their God to begin with, or something that some of them would be {{paperwork to the unchaining of someone}}.
+%% u0158:0-172, u0159:0-38 %%
+Riswynn: Riswynn got the impression that it was just sort of the state of that person's sort of internal unrest with their God to begin with, or something that some of them would be favorable to the unchaining of someone.
 
 %% u0160:0-64 %%
 Wellby: I have something unrelated. But I don't want to end this thread.
@@ -563,8 +563,8 @@ DM: Fascinating, fascinating, and and what is that magical stone called?
 %% u0392:0-4 %%
 Unknown: For?
 
-%% u0393:0-24 %%
-Seeker: William? Well, it's Tim.
+%% u0393:0-25 %%
+Seeker: Well? Well let's ask Tim.
 
 %% u0394:0-23 %%
 Kenzo: It is a— it's known as a—
@@ -653,8 +653,8 @@ DM: It is said— Well, there are many tales, and sorting the truth of these tal
 %% u0440:0-98, u0441:0-53, u0442:0-83 %%
 Seeker: Seeker's fiercely scribbling and cross-referencing: resonance with a particular place. That matches some intuitions I've had for for a while, but it is a a more precise articulation of the concept. And what evidence do you have from your—
 
-%% u0443:0-35, u0444:0-123, u0445:0-9, u0446:0-3 %%
-DM: I have. I have no magic myself, and I've never been able to test any of these hypotheses. I am sadly reduced to being {{in this matter}}, and my duties keep me far more— And—
+%% u0443:0-35, u0444:0-119, u0445:0-9, u0446:0-3 %%
+DM: I have. I have no magic myself, and I've never been able to test any of these hypotheses. I am sadly reduced to being in this matter, and my duties keep me far more— And—
 
 %% u0447:0-7 %%
 Kenzo: Is that.
@@ -1421,8 +1421,8 @@ Seeker: Everything comes out, which is also a great trap, which is also a great 
 %% u0937:0-19 %%
 Delwath: At some level, chaos.
 
-%% u0938:0-38 %%
-Kenzo: Look a back in poison for the segment.
+%% u0938:0-41 %%
+Kenzo: Like a fucking poison troll, for example.
 
 %% u0939:0-42 %%
 Delwath: Some some good, some bad there, right? Like—
@@ -1931,8 +1931,8 @@ DM: Like it's like it's sort of reflecting the light of the cloak in a way that 
 %% u1283:0-111 %%
 DM: It's almost as if there's some like UV light, or something coming off the cloak that is lighting up this thread.
 
-%% u1284:0-128, u1285:0-34 %%
-Seeker: Seeker starts to experiment a little bit with it, stretching it, twisting it, listening. Such a beautiful- this Queen of Sunset! {{But she was when they restored}}.
+%% u1284:0-128, u1285:0-32 %%
+Seeker: Seeker starts to experiment a little bit with it, stretching it, twisting it, listening. Such a beautiful- this Queen of Sunset! Would she were one day restored.
 
 %% u1286:0-32, u1287:0-4 %%
 DM: Indeed, for— Lubash speaking now— Are—
@@ -3659,8 +3659,8 @@ Delwath: Yes, it does strange things to your sense of time.
 %% u2208:0-35, u2209:0-8, u2210:0-8 %%
 DM: It was in my father's mother's time as chief she was—
 
-%% u2211:0-37, u2212:0-12 %%
-DM: So that- you're okay, {{Miss Tesla}}. You're safe.
+%% u2211:0-38, u2212:0-12 %%
+DM: So that—“You’re okay,” he says to her. You're safe.
 
 %% u2213:0-12, u2214:0-19, u2215:0-8, u2216:0-32 %%
 DM: Says she was captured, kidnapped by orcs, the chained ones on our borders.

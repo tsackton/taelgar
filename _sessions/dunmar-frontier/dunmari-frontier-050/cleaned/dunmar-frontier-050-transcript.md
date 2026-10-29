@@ -1,6 +1,6 @@
 # Dunmar Frontier — Session 50
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmar-frontier-050-source-cleaned.md
 
 ## Transcript
@@ -230,8 +230,8 @@ DM: ... do we just go fast all the way to the Elderwood?
 %% u0122:0-35, u0123:0-33 %%
 Delwath: Maybe. What's the, like, last city? Is there, like, a city somewhere-
 
-%% u0124:0-5, u0125:0-23, u0126:0-32, u0127:0-5, u0128:0-27 %%
-DM: Nice. Is that a very Chardon? Is that, that's part of Chardon. Yeah. That is a Chardon incident.
+%% u0124:0-5, u0125:0-23, u0126:0-32, u0127:0-5, u0128:0-26 %%
+DM: Nice. Is that a very Chardon? Is that, that's part of Chardon. Yeah. That is a Chardonian city.
 
 %% u0129:0-5 %%
 Kenzo: True.
@@ -521,8 +521,8 @@ Wellby: But I think the toward is to find the forest people, find out more about
 %% u0290:0-4 %%
 Delwath: Yeah.
 
-%% u0291:0-107 %%
-Wellby: ... what Duke Ryas' kisses are, and then jump in the Feywild portal, cross back to northeastern Dunmar and-
+%% u0291:0-104 %%
+Wellby: ... what the Rai pieces are, and then jump in the Feywild portal, cross back to northeastern Dunmar and-
 
 %% u0292:0-56 %%
 Delwath: Right, and give. Oh, we also identified all those items.
@@ -1565,8 +1565,8 @@ Seeker: It'll take a few minutes.
 %% u0987:0-5, u0988:0-3, u0989:0-11 %%
 DM: Okay. Um, but I think—
 
-%% u0990:0-11, u0991:0-32 %%
-Delwath: It also... Faustus closed you with a crush.
+%% u0990:0-11, u0991:0-31 %%
+Delwath: It also... Fausto closed you with a crush.
 
 %% u0992:0-76 %%
 Seeker: Okay, Tim, so is there anything associated with the cleanse and pandemonium?
@@ -1968,7 +1968,7 @@ Kenzo: Yeah. I agree.
 Wellby: Do we have a way to see if we're being scryed?
 
 %% u1211:0-55, u1212:0-5, u1213:0-103 %%
-Kenzo: If we are being scryed, can they understand our speech? Yeah. As long as we're speaking Monkywe, they won't get it back to them, obviously, they understand language.
+Kenzo: If we are being scryed, can they understand our speech? Yeah. As long as we're speaking Dunmari, they won't get it back to them, obviously, they understand language.
 
 %% u1214:0-26, u1215:0-6, u1216:0-31, u1217:0-16, u1218:0-31 %%
 Delwath: We need a Seeker language. So if, if any of us can see invisible, then nobody has, except one scroll I think, but-
@@ -2063,8 +2063,8 @@ DM: I think the Elderwood is where we go next.
 %% u1266:0-7 %%
 Seeker: Agreed.
 
-%% u1267:0-42, u1268:0-16, u1269:0-4, u1270:0-69, u1271:0-27 %%
-Delwath: I think it's where we can lose-- Remember, Dyson-- Nya said that the paths in were hard to find without a guide, without a fine pinch. It feels like a safe place.
+%% u1267:0-42, u1268:0-11, u1269:0-4, u1270:0-69, u1271:0-27 %%
+Delwath: I think it's where we can lose-- Remember, Gnaeus said that the paths in were hard to find without a guide, without a fine pinch. It feels like a safe place.
 
 %% u1272:0-15 %%
 Seeker: To get lost in.
@@ -3141,13 +3141,13 @@ Kenzo: Uh, Zamarian past him?
 DM: Interesting.
 
 %% u1817:0-70, u1818:0-8 %%
-Wellby: That moment of Frisbee teleporting away without any of us was awesome. [laughs]
+Wellby: That moment of Riswynn teleporting away without any of us was awesome. [laughs]
 
 %% u1819:0-31 %%
 Kenzo: That was, that was really cool.
 
 %% u1820:0-32 %%
-DM: Save us, Frisbee. [laughs] Okay.
+DM: Save us, Riswynn. [laughs] Okay.
 
 %% u1821:0-8 %%
 Wellby: [laughs]
@@ -4548,8 +4548,8 @@ DM: Hralgar has like this, there's like three pages of just a list of every sing
 %% u2653:0-38 %%
 Kenzo: Does he have any, uh, maps of portals?
 
-%% u2654:0-16, u2655:0-29, u2656:0-27, u2657:0-3, u2658:0-63, u2659:0-32, u2660:0-13 %%
-DM: Like where they- Yeah, he have-- he has a map. There's four that he knows. Uh, not here. Like, there's one that's like southeast of the Alder. There's one that's like due east of the Alder.
+%% u2654:0-16, u2655:0-29, u2656:0-27, u2657:0-3, u2658:0-67, u2659:0-32, u2660:0-17 %%
+DM: Like where they- Yeah, he have-- he has a map. There's four that he knows. Uh, not here. Like, there's one that's like southeast of the Elderwood. There's one that's like due east of the Elderwood.
 
 %% u2661:0-8 %%
 Unknown: [laughs]
@@ -4662,8 +4662,8 @@ DM: Scry for horses that were at the ground.
 %% u2722:0-39 %%
 Kenzo: But I want to see the different horses.
 
-%% u2723:0-54, u2724:0-47 %%
-Wellby: Unless the caster has the ability to see invisibility. Scry has the same vision ability as Sense does.
+%% u2723:0-54, u2724:0-52 %%
+Wellby: Unless the caster has the ability to see invisibility. Scry has the same vision ability as the caster does.
 
 %% u2725:0-8, u2726:0-5 %%
 DM: Does it? Yeah.
@@ -5044,8 +5044,8 @@ Delwath: We, we just don't-
 %% u2950:0-5 %%
 DM: Right.
 
-%% u2951:0-38, u2952:0-46 %%
-Delwath: ... we think to find the villages that Nyas talked about, we have to go up the river.
+%% u2951:0-38, u2952:0-48 %%
+Delwath: ... we think to find the villages that Gnaeus talked about, we have to go up the river.
 
 %% u2953:0-41 %%
 DM: And we need to cross the road at the end.
@@ -9206,10 +9206,10 @@ DM: That succeeds.
 %% u5204:0-40 %%
 Delwath: Is what Sura will do, middle of the day.
 
-%% u5205:0-33, u5206:0-18, u5207:0-3, u5208:0-11, u5209:0-18, u5210:0-3, u5211:0-6, u5212:0-35, u5213:0-54, u5214:0-18, u5215:0-75, u5216:0-19, u5217:0-29, u5218:0-32, u5219:0-25, u5220:0-27, u5221:0-55, u5222:0-65, u5223:0-3, u5224:0-24, u5225:0-14, u5226:0-25, u5227:0-10, u5228:0-17, u5229:0-18, u5230:0-42, u5231:0-36, u5232:0-28, u5233:0-26, u5234:0-38, u5235:0-28, u5236:0-81, u5237:0-3, u5238:0-66, u5239:0-57 %%
+%% u5205:0-33, u5206:0-18, u5207:0-3, u5208:0-11, u5209:0-18, u5210:0-3, u5211:0-6, u5212:0-35, u5213:0-54, u5214:0-18, u5215:0-75, u5216:0-19, u5217:0-29, u5218:0-32, u5219:0-25, u5220:0-27, u5221:0-55, u5222:0-65, u5223:0-3, u5224:0-24, u5225:0-14, u5226:0-25, u5227:0-10, u5228:0-17, u5229:0-18, u5230:0-42, u5231:0-36, u5232:0-28, u5233:0-26, u5234:0-38, u5235:0-28, u5236:0-81, u5237:0-3, u5238:0-68, u5239:0-57 %%
 DM: Well, it's not middle of the day. It's like evening. Um, uh, Sura is sitting in a tent. Um, a, uh, pretty substantial, elaborate tent. You can't see her in it because she's inside the tent. It looks like, uh, it's like a big, you know, there's like room for eight people or something. Um, and she is, um, uh, sh- she is currently, um, it looks like she's waiting for, uh, for somebody. She is, um, flipping through, um, a prayer book, like a, a book of daily, of daily prayers.
 
-Um, about five minutes into the scry, she looks up and you see a, um, uh, a messenger come in. Um, he's been, uh, looks like he's been, um, riding hard. He's tired. And Sura looks up. When she looks up, she looks concerned and anxious to see this, this messenger. And she says, uh, "Any word? Can, can anybody at the... Does anybody seem to know what to do?" Uh, and the messenger, they, they talk for a moment, and the messenger says, um, "I rode all the way to Tokra. But the walking ones are not sure how to turn something back to stone. I don't know how you think you can be stopped from that."
+Um, about five minutes into the scry, she looks up and you see a, um, uh, a messenger come in. Um, he's been, uh, looks like he's been, um, riding hard. He's tired. And Sura looks up. When she looks up, she looks concerned and anxious to see this, this messenger. And she says, uh, "Any word? Can, can anybody at the... Does anybody seem to know what to do?" Uh, and the messenger, they, they talk for a moment, and the messenger says, um, "I rode all the way to Tokra. But the walking ones are not sure how to turn something back from stone. I don't know how you think you can be stopped from that."
 
 %% u5240:0-27 %%
 Seeker: Who's been turned to stone?
@@ -9301,8 +9301,8 @@ Seeker: Exactly.
 %% u5287:0-19 %%
 Unknown: He has a scry back.
 
-%% u5288:0-85, u5289:0-3, u5290:0-7, u5291:0-3, u5292:0-11, u5293:0-10, u5294:0-88, u5295:0-15, u5296:0-45, u5297:0-37, u5298:0-58, u5299:0-11, u5300:0-9, u5301:0-19, u5302:0-4 %%
-DM: Kadmos is, um, sitting on a road, uh, making dinner, talking to, or sitting with, um, uh, Casian, uh, Kadtherina. And Tokra. But that should do. And he's, he's sitting a little bit apart from them, and he is like, is just kind of staring at the three, at the three paintings. Seems almost like he's watching them. It's always, it's like constantly sort of looking at them.
+%% u5288:0-85, u5289:0-3, u5290:0-7, u5291:0-3, u5292:0-8, u5293:0-11, u5294:0-88, u5295:0-15, u5296:0-45, u5297:0-37, u5298:0-58, u5299:0-11, u5300:0-9, u5301:0-19, u5302:0-4 %%
+DM: Kadmos is, um, sitting on a road, uh, making dinner, talking to, or sitting with, um, uh, Casian, uh, Antonia. And Hektor. But that should do. And he's, he's sitting a little bit apart from them, and he is like, is just kind of staring at the three, at the three paintings. Seems almost like he's watching them. It's always, it's like constantly sort of looking at them.
 
 And then he looks up, and stares right at you.
 

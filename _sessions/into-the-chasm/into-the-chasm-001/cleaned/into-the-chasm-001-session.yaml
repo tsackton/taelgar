@@ -54,10 +54,10 @@ transcriptProcessing:
       sha256: d725c916cd7f123f03947fa37293d993d8459c0c52d5c66028da41778868a8a8
     cleaned:
       path: cleaned/into-the-chasm-001-source-cleaned.md
-      sha256: 9d07d1cdcf7a2433a1bb84c4792c16923042a57f022d074d1cf91dd8861fc55b
+      sha256: bec65c358fd0fdd80cb1a3414c11822963809a7630bfb63b4f79425af5102d1d
     polishedMarkdown:
       path: cleaned/into-the-chasm-001-transcript.md
-      sha256: f22dd848d070cc9e770098ccdc2c4f094e973ca85962fd7816438ae80d092f48
+      sha256: 66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647
   speakerCorrections:
   - uid: u0209
     start: 0
