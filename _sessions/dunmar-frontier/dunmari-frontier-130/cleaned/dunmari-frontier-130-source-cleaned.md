@@ -18,7 +18,7 @@
 [u0018 | 00:01:49.659-00:01:50.979 | DM] Told you.
 [u0019 | 00:01:51.539-00:01:57.429 | DM] That this moment has been planned for… A decade or more.
 [u0020 | 00:01:57.539-00:02:05.009 | DM] When the Empress of Chaos would reach the strongholds, corrupt the heart of the land, and take control of the magic of Isingue.
-[u0021 | 00:02:09.849-00:02:13.599 | DM] When she did… Bye.
+[u0021 | 00:02:09.849-00:02:13.599 | DM] When she did… By…
 [u0022 | 00:02:14.309-00:02:21.309 | DM] And he gestured, as he told you this, with his sword, stabbing like a spear, taking her spear and stabbing it through.
 [u0023 | 00:02:22.059-00:02:24.249 | DM] Somewhere, the heart of the land.
 [u0024 | 00:02:24.769-00:02:33.119 | DM] Chaos would spread, and… the Hobgoblins, under her control, would…
@@ -70,7 +70,7 @@
 [u0070 | 00:05:15.820-00:05:24.529 | Kenzo] We're doing good. The one thing that we have not done, which, Seeker has not heard anything about, is any Chaos Metal. Just, like, pretend…
 [u0071 | 00:05:24.930-00:05:33.309 | Kenzo] There has been no conversation about that, that does not exist. It's just, there's no… no such metal. Only… only normal things that are not chaos.
 [u0072 | 00:05:33.310-00:05:38.070 | Seeker] Coincidence, Seeker has a new… he's gonna go to grad school, that's dissertation topic, actually.
-[u0073 | 00:05:38.270-00:05:40.120 | Kenzo] Fuck. I'd pay off metals.
+[u0073 | 00:05:38.270-00:05:40.120 | Kenzo] Fuck. Chaos metals.
 [u0074 | 00:05:42.160-00:05:44.160 | Kenzo] Their theory and applications.
 [u0075 | 00:05:44.560-00:05:45.140 | Seeker] Right.
 [u0076 | 00:05:46.340-00:05:49.940 | Delwath] His Philosopher's Guild, dissertation study.
@@ -107,7 +107,7 @@
 [u0107 | 00:07:09.290-00:07:11.140 | Kenzo] I thought the centipede was mechanical.
 [u0108 | 00:07:12.240-00:07:12.840 | Delwath] Yeah.
 [u0109 | 00:07:15.040-00:07:15.960 | DM] Sort of.
-[u0110 | 00:07:15.960-00:07:18.159 | Kenzo] Well, when I looked at it, it wasn't alive, it wasn't like a bee.
+[u0110 | 00:07:15.960-00:07:18.159 | Kenzo] Well, when I looked at it, it wasn't alive, it wasn't like a being.
 [u0111 | 00:07:18.160-00:07:21.740 | DM] It's not alive, no, no, it's more magical than mechanical, it's like….
 [u0112 | 00:07:21.740-00:07:22.210 | Kenzo] Okay, so….
 [u0113 | 00:07:22.210-00:07:33.690 | DM] Glowing metal sort of creeping across the landscape and making this giant booming noise as massive cavities open on its back and unleash billowing ash and then slam shut and then open again.
@@ -196,7 +196,7 @@
 [u0196 | 00:13:14.560-00:13:21.920 | Kenzo] I'll say to… I'll say to everybody else in, I don't know, Dunmari or something, is there anything else we ask this guy, or should we put him in the mirror?
 [u0197 | 00:13:23.770-00:13:27.139 | Kenzo] I think we've, we've learned A good amount. Yeah, let's put them in the mirror.
 [u0198 | 00:13:27.760-00:13:31.629 | Delwath] when… when… Should we anticipate our death?
-[u0199 | 00:13:31.970-00:13:38.359 | Delwath] Mighty Warrior, from your… from your… patriots and soldiers.
+[u0199 | 00:13:31.970-00:13:38.359 | Delwath] Mighty Warrior, from your… from your… compatriots and soldiers.
 [u0200 | 00:13:42.140-00:13:46.789 | DM] You wish to die with honor and prepare. That is… that is wise, elf.
 [u0201 | 00:13:48.990-00:13:51.290 | DM] Your death will be upon you.
 [u0202 | 00:13:51.840-00:13:59.889 | DM] N… … Wait, what is today? Hold on, I need to look at my timeline.
@@ -228,7 +228,7 @@
 [u0228 | 00:16:11.490-00:16:13.460 | DM] Fishing gear strapped to his back.
 [u0229 | 00:16:13.740-00:16:18.700 | DM] a little… pack of, like, two or three, like, two or three lizardfolk and humans, kind of.
 [u0230 | 00:16:19.210-00:16:24.039 | DM] In the dis- like, hiding behind, some fallen logs.
-[u0231 | 00:16:24.870-00:16:30.079 | DM] {{I ain't him any}}… He, like, begins to creep out. His eyes are wide.
+[u0231 | 00:16:24.870-00:16:30.079 | DM] I ain't him any… He, like, begins to creep out. His eyes are wide.
 [u0232 | 00:16:30.780-00:16:39.170 | DM] Bright, interested, and also scared, and super curious, and… Says, in halting common.
 [u0233 | 00:16:41.100-00:16:43.830 | DM] is… Is it dangerous?
 [u0234 | 00:16:45.830-00:16:47.509 | Wellby] The lizardfolk spins….
@@ -272,7 +272,7 @@
 [u0272 | 00:19:56.100-00:19:57.290 | Seeker] As we know, under….
 [u0273 | 00:19:57.490-00:19:58.250 | DM] Here.
 [u0274 | 00:19:59.000-00:20:10.229 | Seeker] Pine trees, suppress undergrowth with the acidity of their needles, with the exception of mosses. And so, Seeker lifts a little patch of moss
-[u0275 | 00:20:10.870-00:20:18.370 | Seeker] Raves a puff of magic into it, and it crawls off of his hand onto a tree root.
+[u0275 | 00:20:10.870-00:20:18.370 | Seeker] Breathes a puff of magic into it, and it crawls off of his hand onto a tree root.
 [u0276 | 00:20:18.550-00:20:21.730 | Seeker] And wanders around… exploring.
 [u0277 | 00:20:24.500-00:20:27.190 | DM] You are so cool, dwarf!
 [u0278 | 00:20:28.150-00:20:30.830 | Seeker] That's your new pet mossy. It will only last an hour.
@@ -308,7 +308,7 @@
 [u0308 | 00:22:28.970-00:22:31.659 | DM] The mirror clears, and Revaka appears.
 [u0309 | 00:22:32.060-00:22:32.840 | DM] What?
 [u0310 | 00:22:33.300-00:22:34.939 | Delwath] Remember, I still have Glibness?
-[u0311 | 00:22:36.420-00:22:38.580 | Delwath] {{I solvedness}}.
+[u0311 | 00:22:36.420-00:22:38.580 | Delwath] I still have Glibness.
 [u0312 | 00:22:39.110-00:22:39.720 | DM] Yep.
 [u0313 | 00:22:40.660-00:22:47.160 | Delwath] … Let you go… Mmm.
 [u0314 | 00:22:48.750-00:22:54.199 | Delwath] You haven't done anything to convince us that that would be a wise or safe course of action.
@@ -325,7 +325,7 @@
 [u0325 | 00:23:38.630-00:23:41.689 | Wellby] How about Chaos Metal? I'll say to Delwath.
 [u0326 | 00:23:44.220-00:23:45.890 | Delwath] I'll ask her about Chaos Metal.
 [u0327 | 00:23:48.130-00:23:49.760 | DM] Never heard of such thing.
-[u0328 | 00:23:51.470-00:23:52.210 | DM] Big sentence.
+[u0328 | 00:23:51.470-00:23:52.210 | DM] Makes sense.
 [u0329 | 00:23:52.210-00:23:52.920 | Seeker] Good thing.
 [u0330 | 00:23:53.740-00:23:55.160 | Wellby] Heart of the land?
 [u0331 | 00:23:55.160-00:23:58.430 | Kenzo] Vortex of the Heart of the land, the vortex thing.
@@ -461,7 +461,7 @@
 [u0461 | 00:35:23.390-00:35:26.150 | DM] Yeah, it would. It's under the control of whoever casts the spell.
 [u0462 | 00:35:26.150-00:35:26.620 | Delwath] Oh, really?
 [u0463 | 00:35:26.620-00:35:26.940 | Seeker] Yeah.
-[u0464 | 00:35:27.170-00:35:29.019 | Kenzo] {{of the midst of}} simulacrums of us.
+[u0464 | 00:35:27.170-00:35:29.019 | Kenzo] of the midst of simulacrums of us.
 [u0465 | 00:35:29.200-00:35:31.240 | Delwath] Oh, yeah, of course. Right, right, right, right.
 [u0466 | 00:35:31.920-00:35:37.429 | Delwath] I mean, we could always try taking her out, it's just there's a certain risk to that, that she might… I mean, we could…
 [u0467 | 00:35:37.850-00:35:41.520 | Delwath] Unless she has teleport memorized, that would be the danger.
@@ -506,7 +506,7 @@
 [u0506 | 00:38:39.220-00:38:45.689 | Delwath] if it, like, gives a decent test of her capabilities, right? Like, if she comes out of this with him
 [u0507 | 00:38:46.110-00:38:47.390 | Delwath] Loyal to her.
 [u0508 | 00:38:47.590-00:38:56.380 | Delwath] then… … That's a good… that's some evidence that she might be able to succeed, right?
-[u0509 | 00:38:56.380-00:39:02.659 | Kenzo] But hold on, would we ever want to want them to interrogate the {{other deeds}} separately? Because once they're together, we can't really separate them, right?
+[u0509 | 00:38:56.380-00:39:02.659 | Kenzo] But hold on, would we ever want to want them to interrogate the other dudes separately? Because once they're together, we can't really separate them, right?
 [u0510 | 00:39:03.230-00:39:03.710 | Delwath] True.
 [u0511 | 00:39:03.710-00:39:04.880 | Wellby] You can… But we couldn't take….
 [u0512 | 00:39:04.880-00:39:08.649 | DM] You can't separate them, because you could… you could release both of them.
@@ -610,7 +610,7 @@
 [u0610 | 00:46:35.190-00:46:37.340 | DM] I mean, Seeker 4 can teleport you, but….
 [u0611 | 00:46:37.640-00:46:38.560 | Delwath] But we shouldn't.
 [u0612 | 00:46:38.820-00:46:41.239 | DM] But also, we shouldn't… we shouldn't wait.
-[u0613 | 00:46:41.240-00:46:42.660 | Wellby] It'll ship the flyover.
+[u0613 | 00:46:41.240-00:46:42.660 | Wellby] Animal shape and fly over.
 [u0614 | 00:46:43.210-00:46:46.599 | DM] that simulacrum spell slots don't come back. That's true.
 [u0615 | 00:46:46.780-00:46:47.999 | Delwath] We shouldn't waste them.
 [u0616 | 00:46:48.910-00:46:53.930 | Delwath] Let's just… I mean, we could… the lizardfolk wants to see magic? Okay, let's turn into birds.
@@ -685,11 +685,11 @@
 [u0685 | 00:52:33.160-00:52:37.080 | Delwath] Yeah, well, let's… let's ask… I mean, let's have a conversation with these folks first.
 [u0686 | 00:52:37.080-00:52:37.780 | Wellby] And it's funny.
 [u0687 | 00:52:37.780-00:52:38.239 | Seeker] Yeah, what the hell.
-[u0688 | 00:52:38.240-00:52:39.510 | Delwath] place is, Steven.
+[u0688 | 00:52:38.240-00:52:39.510 | Delwath] place is, even.
 [u0689 | 00:52:40.440-00:52:41.959 | Seeker] And what they're planning to do.
 [u0690 | 00:52:44.810-00:52:47.010 | Seeker] So we'd land on top of the tent.
 [u0691 | 00:52:47.310-00:52:49.190 | Seeker] Carefully not pooping on it.
-[u0692 | 00:52:49.770-00:52:51.369 | Delwath] I mean, I think we should turn back into this.
+[u0692 | 00:52:49.770-00:52:51.369 | Delwath] I mean, I think we should turn back into us.
 [u0693 | 00:52:51.370-00:52:54.839 | Wellby] Seeker, change back into humans and I'll fall through the roof.
 [u0694 | 00:52:56.250-00:52:59.690 | Seeker] We land in front of the tent and change into people, yeah.
 [u0695 | 00:52:59.810-00:53:00.560 | Delwath] Yes.
@@ -730,7 +730,7 @@
 [u0730 | 00:56:12.590-00:56:16.839 | DM] I believe a stoneborn messenger arrived this morning to speak.
 [u0731 | 00:56:18.860-00:56:24.169 | DM] So… I don't know what news you bring.
 [u0732 | 00:56:26.540-00:56:28.789 | Delwath] We will share it with the council.
-[u0733 | 00:56:30.350-00:56:32.539 | DM] {{Many voices I used to hear}}.
+[u0733 | 00:56:30.350-00:56:32.539 | DM] Many voices I used to hear.
 [u0734 | 00:56:34.110-00:56:36.240 | Delwath] It's easiest to tell them all at once.
 [u0735 | 00:56:38.040-00:56:41.900 | DM] Okay, then… come.
 [u0736 | 00:56:44.060-00:56:50.949 | DM] And I… I would say for myself, I'm… I know that there is…
@@ -777,7 +777,7 @@
 [u0777 | 01:00:13.270-01:00:15.119 | DM] Yeah, these are… this is the council.
 [u0778 | 01:00:15.120-01:00:17.619 | Delwath] You should have put names on them, though, that would have been helpful.
 [u0779 | 01:00:18.590-01:00:20.240 | DM] Well, you don't know anybody's name.
-[u0780 | 01:00:20.240-01:00:23.130 | Delwath] Right now, but that's when we weren't heard names.
+[u0780 | 01:00:20.240-01:00:23.130 | Delwath] Right now, but as and when we learn names.
 [u0781 | 01:00:23.520-01:00:26.520 | DM] You could just add them easily enough. I can add them easily.
 [u0782 | 01:00:26.520-01:00:27.030 | Delwath] Yes.
 [u0783 | 01:00:27.030-01:00:27.990 | Seeker] Very cool.
@@ -799,7 +799,7 @@
 [u0799 | 01:01:13.540-01:01:16.180 | Seeker] And, … Doc.
 [u0800 | 01:01:16.530-01:01:17.730 | DM] like, here….
 [u0801 | 01:01:18.010-01:01:19.140 | Delwath] The little dotted lines are like.
-[u0802 | 01:01:19.140-01:01:19.930 | Seeker] tracks me.
+[u0802 | 01:01:19.140-01:01:19.930 | Seeker] tracks, maybe.
 [u0803 | 01:01:20.220-01:01:20.770 | DM] That's the word.
 [u0804 | 01:01:20.770-01:01:21.420 | Delwath] plateau.
 [u0805 | 01:01:21.580-01:01:22.220 | DM] Here….
@@ -897,7 +897,7 @@
 [u0897 | 01:08:05.990-01:08:08.080 | Kenzo] … Yes.
 [u0898 | 01:08:09.560-01:08:15.530 | Kenzo] … Depends on the last name? Forgot about this.
 [u0899 | 01:08:18.439-01:08:22.129 | Kenzo] Yeah, just Kenzo, Kenzo of the Awakened Soul.
-[u0900 | 01:08:23.819-01:08:27.149 | Kenzo] Telling originally from… Chardon.
+[u0900 | 01:08:23.819-01:08:27.149 | Kenzo] Hailing originally from… Chardon.
 [u0901 | 01:08:28.309-01:08:29.059 | Kenzo] Dunmar.
 [u0902 | 01:08:34.729-01:08:35.629 | Delwath] 12.
 [u0903 | 01:08:36.279-01:08:37.679 | Delwath] No, go ahead, sorry, go ahead.
@@ -998,7 +998,7 @@
 [u0998 | 01:15:41.930-01:15:42.850 | DM] Stop.
 [u0999 | 01:15:42.850-01:15:43.800 | Kenzo] approximate, like.
 [u1000 | 01:15:43.800-01:15:46.649 | DM] Yeah, what is your… what is the vibe you're trying to get here?
-[u1001 | 01:15:46.650-01:15:51.079 | Kenzo] Yeah, well, I just watched, number one, just get a sense of, like, you know.
+[u1001 | 01:15:46.650-01:15:51.079 | Kenzo] Yeah, well, I just want to, number one, just get a sense of, like, you know.
 [u1002 | 01:15:51.270-01:16:02.759 | Kenzo] what everybody's specialty is, and kind of how powerful they are. And then, atmosphere. Like, anybody, everybody, you know, what's the, what's the kind of general vibe? Scared, nervous, lying?
 [u1003 | 01:16:04.070-01:16:04.530 | DM] Great.
 [u1004 | 01:16:04.530-01:16:06.180 | Kenzo] Wrist plant, you know.
@@ -1025,12 +1025,12 @@
 [u1025 | 01:17:43.930-01:17:44.809 | Kenzo] Good call.
 [u1026 | 01:17:45.090-01:17:46.360 | DM] Nobody's scrying.
 [u1027 | 01:17:46.360-01:17:51.240 | Delwath] So as an aside, I now have TrueSight, so if anybody's scrying on us, I can see it.
-[u1028 | 01:17:51.240-01:17:53.940 | DM] Yeah, you don't need to top anymore, Delwath can just see space.
+[u1028 | 01:17:51.240-01:17:53.940 | DM] Yeah, you don't need the top anymore, Delwath can just see space.
 [u1029 | 01:17:53.940-01:17:56.920 | Delwath] I see all invisible automatically.
 [u1030 | 01:17:56.920-01:17:57.620 | Wellby] Awesome.
 [u1031 | 01:17:57.620-01:18:01.879 | DM] But you don't… you're not fighting an enemy who has a crystal ball, so…
 [u1032 | 01:18:02.460-01:18:07.339 | DM] You're probably not likely to be repeatedly scryed on these days.
-[u1033 | 01:18:10.960-01:18:26.099 | DM] Okay, so… so, SoulSight, … as Kenzo, as soul-sighting everybody, Cateline's… … Is finishing this, like.
+[u1033 | 01:18:10.960-01:18:26.099 | DM] Okay, so… so, SoulSight, … as Kenzo is soul-sighting everybody, Cateline's… … Is finishing this, like.
 [u1034 | 01:18:27.700-01:18:28.430 | DM] You know.
 [u1035 | 01:18:29.640-01:18:35.829 | DM] must… Swear on something that means something to you before I speak more of this.
 [u1036 | 01:18:37.510-01:18:40.020 | DM] She turns and looks in this, and the stoneborn…
@@ -1090,7 +1090,7 @@
 [u1090 | 01:23:23.480-01:23:25.449 | DM] So much where the blessing came from.
 [u1091 | 01:23:25.810-01:23:27.210 | DM] Just what it did for us.
 [u1092 | 01:23:28.890-01:23:30.849 | DM] It grew through the soil.
-[u1093 | 01:23:31.340-01:23:35.750 | DM] {{Trapped like roots growing between… Plants}}.
+[u1093 | 01:23:31.340-01:23:35.750 | DM] Spread like roots growing between… Plants.
 [u1094 | 01:23:36.550-01:23:38.919 | DM] A network that spread.
 [u1095 | 01:23:40.860-01:23:42.880 | DM] And made everything it touched.
 [u1096 | 01:23:43.150-01:23:44.840 | DM] Bountiful and fertile.
@@ -1160,11 +1160,11 @@
 [u1160 | 01:28:47.360-01:28:49.000 | Delwath] Or is it part of the soil?
 [u1161 | 01:28:50.220-01:28:51.440 | Delwath] Part of the land.
 [u1162 | 01:28:54.760-01:28:56.999 | Seeker] Well, it was moved once, wasn't it?
-[u1163 | 01:28:58.470-01:28:59.520 | DM] {{You can}}.
+[u1163 | 01:28:58.470-01:28:59.520 | DM] You can.
 [u1164 | 01:29:02.160-01:29:03.990 | DM] Fear to do so.
 [u1165 | 01:29:05.240-01:29:09.810 | DM] for… It is…
 [u1166 | 01:29:16.110-01:29:18.280 | DM] The stories of Isingue.
-[u1167 | 01:29:18.900-01:29:19.800 | DM] {{Kharkov}}.
+[u1167 | 01:29:18.900-01:29:19.800 | DM] Heartroot.
 [u1168 | 01:29:24.800-01:29:30.860 | DM] They speak almost as if this was a… A living thing itself.
 [u1169 | 01:29:34.480-01:29:36.279 | DM] Mesh of a web.
 [u1170 | 01:29:37.720-01:29:39.060 | DM] bound the land.
@@ -1179,7 +1179,7 @@
 [u1179 | 01:30:07.340-01:30:08.680 | DM] Transplant.
 [u1180 | 01:30:10.750-01:30:11.650 | DM] Again.
 [u1181 | 01:30:15.580-01:30:17.410 | DM] How do we know it would survive?
-[u1182 | 01:30:20.630-01:30:29.589 | Delwath] Taking it on Vindristjarna, our… flying castle, and… using it to, {{of them}}.
+[u1182 | 01:30:20.630-01:30:29.589 | Delwath] Taking it on Vindristjarna, our… flying castle, and… using it to, of them.
 [u1183 | 01:30:36.690-01:30:41.330 | Delwath] draw the Empress of Chaos away is perhaps not…
 [u1184 | 01:30:45.100-01:30:47.030 | Delwath] Our first best plan.
 [u1185 | 01:30:52.990-01:30:55.479 | DM] I would have to speak to others of my order.
@@ -1219,7 +1219,7 @@
 [u1219 | 01:33:52.750-01:33:59.940 | DM] 3,000 troops, in… Two days, though it'll take some time to position them.
 [u1220 | 01:34:00.690-01:34:02.239 | DM] And maybe another…
 [u1221 | 01:34:05.330-01:34:07.039 | DM] Twice that again.
-[u1222 | 01:34:09.450-01:34:11.319 | DM] {{Sometime after all, though}}.
+[u1222 | 01:34:09.450-01:34:11.319 | DM] Sometime after, although.
 [u1223 | 01:34:13.470-01:34:20.380 | DM] Hobgoblins, not… Not every one of us is well-trained.
 [u1224 | 01:34:22.840-01:34:25.719 | DM] To face such a devastating foe.
 [u1225 | 01:34:29.000-01:34:31.279 | DM] But we were certainly better prepared than the…
@@ -1294,7 +1294,7 @@
 [u1294 | 01:40:16.070-01:40:18.729 | Wellby] I mean, I agree, it's just hard to imagine a way to separate her.
 [u1295 | 01:40:25.640-01:40:33.670 | Kenzo] I mean, we knocked one of the hobgoblins off the centipede, and she flew back by herself and, like, scouted around, you know?
 [u1296 | 01:40:34.720-01:40:36.159 | Kenzo] Didn't seem that hard.
-[u1297 | 01:40:37.170-01:40:42.549 | Delwath] But she was only… A couple… not even a couple hundred feet from our troops, right?
+[u1297 | 01:40:37.170-01:40:42.549 | Delwath] But she was only… A couple… not even a couple hundred feet from her troops, right?
 [u1298 | 01:40:45.730-01:40:47.680 | Delwath] I don't know if she would have gone further.
 [u1299 | 01:40:51.850-01:40:53.750 | Wellby] Can you teleport someone unwillingly?
 [u1300 | 01:40:53.750-01:40:58.469 | Delwath] I was just literally thinking that. I know we can't… Teleport is not. Scatter?
@@ -1318,7 +1318,7 @@
 [u1318 | 01:42:06.620-01:42:07.300 | Kenzo] Hmm.
 [u1319 | 01:42:12.080-01:42:19.109 | Delwath] So… I just… I wonder if it would be easier to separate her.
 [u1320 | 01:42:20.460-01:42:21.920 | Delwath] In the chaos of a battle.
-[u1321 | 01:42:25.400-01:42:26.100 | Wellby] bread.
+[u1321 | 01:42:25.400-01:42:26.100 | Wellby] Right.
 [u1322 | 01:42:27.000-01:42:27.630 | Delwath] Right?
 [u1323 | 01:42:28.820-01:42:36.390 | Kenzo] Tim, when we were checking out the Hobgoblin Army, were there any obvious, like, you know, super strong, you know, lieutenant-type guys, you know?
 [u1324 | 01:42:36.730-01:42:41.469 | DM] Not that you saw, but it was hard to tell, right? I mean, it's…
@@ -1417,7 +1417,7 @@
 [u1417 | 01:49:45.680-01:49:46.370 | Wellby] Hmm.
 [u1418 | 01:49:47.310-01:49:47.670 | DM] there.
 [u1419 | 01:49:47.670-01:49:48.210 | Delwath] Wow.
-[u1420 | 01:49:49.070-01:49:50.449 | Delwath] A guy would know that.
+[u1420 | 01:49:49.070-01:49:50.449 | Delwath] Our guy would know that.
 [u1421 | 01:49:51.680-01:49:52.380 | DM] Yeah.
 [u1422 | 01:49:52.620-01:49:57.159 | DM] If they're… if they're traveling… They were not going…
 [u1423 | 01:49:57.610-01:50:04.690 | DM] So, if they were traveling, say, 12 hours a day, then 40 miles a day implies
@@ -1452,7 +1452,7 @@
 [u1452 | 01:51:58.910-01:51:59.500 | DM] Right.
 [u1453 | 01:51:59.800-01:52:03.349 | Delwath] And… If he fails to save, I can, like…
 [u1454 | 01:52:03.480-01:52:09.200 | Delwath] Probe his brain for things that… He doesn't say, right?
-[u1455 | 01:52:10.050-01:52:11.139 | Kenzo] We like her brand, bro.
+[u1455 | 01:52:10.050-01:52:11.139 | Kenzo] We like a brain probe.
 [u1456 | 01:52:24.220-01:52:33.209 | Delwath] I mean, it can try and break my… he can make an Intelligence Arcana check to stop me, but again, DC20, I'm not that worried.
 [u1457 | 01:52:33.550-01:52:36.870 | Wellby] All of this is good, it's worth asking, let's keep it in our pocket.
 [u1458 | 01:52:37.300-01:52:40.890 | Wellby] But does it meaningfully change the plans we're making?
@@ -1523,7 +1523,7 @@
 [u1523 | 01:57:32.490-01:57:36.309 | Kenzo] Away from… before… before it arrives close to the camp.
 [u1524 | 01:57:37.730-01:57:38.950 | Kenzo] Or we just wait.
 [u1525 | 01:57:39.180-01:57:40.109 | Kenzo] We just wait.
-[u1526 | 01:57:40.110-01:57:45.220 | Delwath] I… That was upset, I… I think…
+[u1526 | 01:57:40.110-01:57:45.220 | Delwath] I… That all said, I… I think…
 [u1527 | 01:57:46.100-01:57:52.390 | Delwath] This is not a time when… To Perrin, he'll say.
 [u1528 | 01:57:54.000-01:58:01.850 | Delwath] The choice is not… To f- fight, or… not.
 [u1529 | 01:58:02.730-01:58:08.390 | Delwath] These… This army is… is coming to this place.
@@ -1543,7 +1543,7 @@
 [u1543 | 01:59:20.910-01:59:22.250 | Delwath] Or eagles?
 [u1544 | 01:59:23.150-01:59:24.809 | Delwath] The size of horses?
 [u1545 | 01:59:26.210-01:59:29.189 | Delwath] Or, or… elephants?
-[u1546 | 01:59:29.190-01:59:30.200 | Wellby] Lies of horses.
+[u1546 | 01:59:29.190-01:59:30.200 | Wellby] Size of horses.
 [u1547 | 01:59:30.200-01:59:35.410 | Kenzo] This is a great point. Why don't we fly over it and just drop all kinds of shit?
 [u1548 | 01:59:36.730-01:59:42.130 | Delwath] Yeah? Like, on the other hand, Vindristjarna will be here in 4 days, why don't… why don't we just bomb it?
 [u1549 | 01:59:43.230-01:59:57.260 | Kenzo] And also, why don't we spend the next days, every single day, just, like, like, doing… doing guerrilla warfare shit against the centipede? Like, learn about it, figure out how it works, and then start, you know, like, trapping it, with it.
@@ -1607,7 +1607,7 @@
 [u1607 | 02:04:01.780-02:04:05.839 | Wellby] After we're done with the battle, what if it does glom onto Vindristjarna?
 [u1608 | 02:04:07.050-02:04:08.010 | Wellby] I bet.
 [u1609 | 02:04:08.410-02:04:09.899 | Wellby] Is there something there?
-[u1610 | 02:04:10.350-02:04:11.030 | Kenzo] {{Giant pen}}.
+[u1610 | 02:04:10.350-02:04:11.030 | Kenzo] Giant pet.
 [u1611 | 02:04:12.120-02:04:14.759 | Kenzo] If we can control the Chaos Metal, of course.
 [u1612 | 02:04:15.320-02:04:17.889 | Delwath] So… I, I think….
 [u1613 | 02:04:17.890-02:04:19.120 | Kenzo] Let's do all of that.
@@ -1640,7 +1640,7 @@
 [u1640 | 02:06:18.530-02:06:20.269 | DM] Through the mountains to protect.
 [u1641 | 02:06:23.360-02:06:24.350 | DM] This relic.
 [u1642 | 02:06:27.910-02:06:30.550 | DM] Seems now secrecy is lost somehow.
-[u1643 | 02:06:34.660-02:06:35.520 | DM] apps.
+[u1643 | 02:06:34.660-02:06:35.520 | DM] Perhaps.
 [u1644 | 02:06:37.540-02:06:39.500 | DM] If it is true, you say…
 [u1645 | 02:06:40.090-02:06:42.520 | DM] Do you think it is possible that this…
 [u1646 | 02:06:42.990-02:06:45.760 | DM] Empress of Chaos has explored Isingue?
@@ -1653,7 +1653,7 @@
 [u1653 | 02:07:29.540-02:07:32.310 | DM] spell focus and she begins speaking.
 [u1654 | 02:07:32.740-02:07:39.989 | DM] Spell, and then she says… Fox and Hunter, please guide us.
 [u1655 | 02:07:41.930-02:07:43.569 | DM] Would it be a mistake?
-[u1656 | 02:07:43.960-02:07:46.190 | DM] And move our troops to defend.
+[u1656 | 02:07:43.960-02:07:46.190 | DM] To move our troops to defend.
 [u1657 | 02:07:46.340-02:07:48.150 | DM] the Heartroot in force.
 [u1658 | 02:07:52.530-02:07:54.740 | DM] She closes her eyes for a moment.
 [u1659 | 02:07:57.120-02:07:59.340 | DM] She opens them again, and she says.
@@ -1709,7 +1709,7 @@
 [u1709 | 02:12:42.960-02:12:44.399 | Wellby] Is this something to ask?
 [u1710 | 02:12:44.830-02:12:46.099 | Wellby] Your gods about?
 [u1711 | 02:12:47.130-02:12:49.160 | Delwath] Gods cannot predict the future.
-[u1712 | 02:12:49.400-02:12:50.180 | Wellby] Nate.
+[u1712 | 02:12:49.400-02:12:50.180 | Wellby] Right.
 [u1713 | 02:12:50.180-02:12:57.339 | Delwath] But… We… We are not done seeking information.
 [u1714 | 02:12:58.730-02:13:07.670 | Delwath] Mustering in… Mustering towards… The heart… Root.
 [u1715 | 02:13:07.770-02:13:14.060 | Delwath] does not… Prevent us from… redirecting.
@@ -1717,7 +1717,7 @@
 [u1717 | 02:13:17.750-02:13:24.610 | DM] It's 80 miles from Aursenbourg to… The fortresses in the mountains.
 [u1718 | 02:13:26.330-02:13:31.219 | DM] It will be hard to move an army of some thousands with any speed that distance.
 [u1719 | 02:13:48.250-02:13:52.570 | Delwath] Let us… consider this.
-[u1720 | 02:13:54.260-02:13:58.720 | Delwath] Was that what the look at Wellby. Perhaps we should bring out the prisoner.
+[u1720 | 02:13:54.260-02:13:58.720 | Delwath] I’ll say that with a look at Wellby. Perhaps we should bring out the prisoner.
 [u1721 | 02:14:00.450-02:14:01.040 | Wellby] True.
 [u1722 | 02:14:02.140-02:14:02.940 | Wellby] ….
 [u1723 | 02:14:03.150-02:14:05.040 | Kenzo] Like, not here, with everybody, right?
@@ -1804,7 +1804,7 @@
 [u1804 | 02:21:12.670-02:21:17.900 | DM] that these… Valiant heroes who have come to our aid?
 [u1805 | 02:21:18.500-02:21:22.899 | DM] Will seek to learn what they can about the true purpose of this Hobgoblin army.
 [u1806 | 02:21:25.780-02:21:29.399 | DM] And… We will assist them in whatever…
-[u1807 | 02:21:29.890-02:21:32.630 | DM] It's needed to delay and distract.
+[u1807 | 02:21:29.890-02:21:32.630 | DM] Is needed to delay and distract.
 [u1808 | 02:21:33.550-02:21:34.660 | DM] Beast.
 [u1809 | 02:21:38.510-02:21:40.939 | DM] To give us the best chance of success.
 [u1810 | 02:21:42.020-02:21:43.389 | DM] In the wars to come.
@@ -1852,7 +1852,7 @@
 [u1852 | 02:26:02.920-02:26:10.080 | Kenzo] When do we do the, giant, fucking Air Force? Like, how often can we do that? Like, the, the, the, the arm… the 500,
 [u1853 | 02:26:10.080-02:26:11.160 | Delwath] Once a day.
 [u1854 | 02:26:12.850-02:26:16.569 | DM] I mean, they're a little bit far away for that at the moment, because… Yeah.
-[u1855 | 02:26:18.840-02:26:19.629 | DM] We can help.
+[u1855 | 02:26:18.840-02:26:19.629 | DM] We can teleport.
 [u1856 | 02:26:19.630-02:26:24.019 | Kenzo] ourselves there to wherever they are. We can scry, teleport ourselves to wherever they are, and then….
 [u1857 | 02:26:24.950-02:26:28.250 | DM] You can teleport yourselves, but you can't teleport 400 people.
 [u1858 | 02:26:28.430-02:26:31.130 | DM] Teleport, specifically, is only 8 people.
@@ -1882,7 +1882,7 @@
 [u1882 | 02:27:53.300-02:27:54.219 | Delwath] you know.
 [u1883 | 02:27:54.660-02:27:56.280 | DM] A bit of a, sort of…
 [u1884 | 02:27:58.170-02:28:01.049 | DM] state, right? He's, like, starting to draw his sword.
-[u1885 | 02:28:01.860-02:28:06.529 | DM] You obviously get to jump on him and subdue him without any trouble.
+[u1885 | 02:28:01.860-02:28:06.529 | DM] You obviously get the jump on him and subdue him without any trouble.
 [u1886 | 02:28:06.720-02:28:14.280 | DM] … And he's… pretty… You know, he's angry, he's, like, snarling at you, kind of.
 [u1887 | 02:28:14.520-02:28:19.730 | DM] … Basically, Just pissed.
 [u1888 | 02:28:20.340-02:28:21.010 | Delwath] Yep.
@@ -1908,7 +1908,7 @@
 [u1908 | 02:29:44.530-02:29:49.799 | DM] Don't let them know that we stop for the 6 hours in the middle of each day.
 [u1909 | 02:29:51.000-02:29:54.680 | DM] Sometimes more. 8, 10, depends on how hot it is.
 [u1910 | 02:29:55.020-02:29:59.429 | DM] Whether there's clouds… Probably not. Okay.
-[u1911 | 02:30:00.260-02:30:00.900 | Delwath] They have tucks.
+[u1911 | 02:30:00.260-02:30:00.900 | Delwath] Detect Thoughts.
 [u1912 | 02:30:00.900-02:30:01.719 | DM] Tell them that.
 [u1913 | 02:30:02.540-02:30:04.310 | Kenzo] Great. Next question.
 [u1914 | 02:30:05.300-02:30:05.780 | Delwath] battle.
@@ -1962,7 +1962,7 @@
 [u1962 | 02:33:42.900-02:33:45.530 | DM] Darkness will flow through their water.
 [u1963 | 02:33:46.090-02:33:53.159 | DM] The people will die, and the cities will be yours for the taking. All the plunder will be yours with no…
 [u1964 | 02:33:53.780-02:33:56.799 | DM] Concern. Let us first corrupt.
-[u1965 | 02:33:56.970-02:33:57.930 | DM] A land.
+[u1965 | 02:33:56.970-02:33:57.930 | DM] The land.
 [u1966 | 02:33:58.390-02:34:07.499 | Kenzo] Okay, I was literally gonna ask, what do they eat? Like, we need to poison all of them. Like, like, at night, like, their camp. Like, poison all their food and shit? Like, what are they eating? The hobgoblins.
 [u1967 | 02:34:07.680-02:34:09.550 | Kenzo] What, like, what do they eat?
 [u1968 | 02:34:10.180-02:34:14.870 | DM] … Awesome… yeah, okay, you've got… this is your last question.
@@ -2125,7 +2125,7 @@
 [u2125 | 02:46:03.670-02:46:04.400 | DM] Okay.
 [u2126 | 02:46:06.140-02:46:09.390 | Delwath] And I'll… and it's the middle of the day, I can wait, and…
 [u2127 | 02:46:09.690-02:46:15.689 | Delwath] I guess, do you have to go to sleep to… I forget how dream works.
-[u2128 | 02:46:19.010-02:46:23.320 | Delwath] Okay, you enter a trance state to access Dream Messenger. So…
+[u2128 | 02:46:19.010-02:46:23.320 | Delwath] Okay, you enter a trance state to act as Dream Messenger. So…
 [u2129 | 02:46:23.590-02:46:29.810 | Delwath] it's fine, I could just… I'm gonna… I'm gonna short rest, and then scry, and then cast Dream.
 [u2130 | 02:46:31.550-02:46:32.250 | DM] Okay.
 [u2131 | 02:46:33.910-02:46:38.070 | Delwath] I mean, it's possible that it will work, but I'm just curious what happens.
@@ -2150,16 +2150,16 @@
 [u2150 | 02:47:53.940-02:47:54.900 | DM] Yeah….
 [u2151 | 02:47:54.900-02:47:55.580 | Delwath] I don't know.
 [u2152 | 02:47:55.950-02:47:56.890 | Delwath] Whatever you want.
-[u2153 | 02:47:56.890-02:48:00.559 | DM] {{As I asked plus 5}}, … So what's your DC?
+[u2153 | 02:47:56.890-02:48:00.559 | DM] I guess plus 5, … So what's your DC?
 [u2154 | 02:48:01.150-02:48:01.890 | Delwath] 20.
-[u2155 | 02:48:06.050-02:48:13.610 | DM] Okay, … you… C… the camp.
+[u2155 | 02:48:06.050-02:48:13.610 | DM] Okay, … you… See… the camp.
 [u2156 | 02:48:13.890-02:48:17.880 | DM] Most of the Hobgoblins are just, like, passed out across the ground.
 [u2157 | 02:48:18.120-02:48:23.360 | DM] … the… your…
 [u2158 | 02:48:25.790-02:48:33.200 | DM] you're inside an ash cloud, because the sensor appears within 10 feet of the creature that you're targeting. There's, like, a…
 [u2159 | 02:48:33.620-02:48:41.040 | DM] Billowing cloud of ash that's up above you, blocking the sun, and extends as far, like.
 [u2160 | 02:48:42.080-02:48:44.240 | DM] 60, 70, 80 feet.
 [u2161 | 02:48:44.390-02:48:53.890 | DM] as far as you can see, essentially covering this entire… probably more than, actually, because, like, all of the Hobgoblins are off the beast now. Most of them are…
-[u2162 | 02:48:54.420-02:48:59.050 | DM] … Just, like, sort of cast on the ground, wrapped in cloaks.
+[u2162 | 02:48:54.420-02:48:59.050 | DM] … Just, like, sort of crashed on the ground, wrapped in cloaks.
 [u2163 | 02:49:01.530-02:49:09.180 | DM] Resting… In, you know, small haphazard groups, all underneath this, like, billowing cloud.
 [u2164 | 02:49:09.720-02:49:11.450 | DM] The Empress herself.
 [u2165 | 02:49:11.630-02:49:16.510 | DM] … is… Standing.
@@ -2203,7 +2203,7 @@
 [u2203 | 02:52:33.430-02:52:35.960 | DM] And then you see another flash, just like a…
 [u2204 | 02:52:37.010-02:52:39.789 | DM] Very chaotic, random pattern of lights.
 [u2205 | 02:52:41.990-02:52:43.480 | DM] And then the spell ends.
-[u2206 | 02:52:45.920-02:52:47.749 | Delwath] He was the one doing the patrolling.
+[u2206 | 02:52:45.920-02:52:47.749 | Delwath] She was the one doing the patrolling.
 [u2207 | 02:52:48.560-02:52:50.040 | DM] She was patrolling, yeah.
 [u2208 | 02:52:50.430-02:52:53.139 | DM] Well, there was obviously hobgoblins outside.
 [u2209 | 02:52:53.140-02:52:53.960 | Delwath] Yay!
@@ -2217,13 +2217,13 @@
 [u2217 | 02:53:29.000-02:53:30.120 | Delwath] Sunburst.
 [u2218 | 02:53:33.030-02:53:35.010 | Delwath] A point you choose within range.
 [u2219 | 02:53:39.980-02:53:42.550 | DM] 60-foot radius sphere, that's pretty big.
-[u2220 | 02:53:42.800-02:53:53.359 | Delwath] {{And 100 feet}}, if he doubles it twice, that's 600 feet away. {{Because being}} Vindristjarna, 600 feet away, and drop a 60-foot radius sunburst, you'd kill a ton of them.
+[u2220 | 02:53:42.800-02:53:53.359 | Delwath] And 100 feet, if he doubles it twice, that's 600 feet away. We could be in Vindristjarna, 600 feet away, and drop a 60-foot radius sunburst, you'd kill a ton of them.
 [u2221 | 02:53:58.880-02:53:59.490 | DM] Yeah?
 [u2222 | 02:53:59.880-02:54:05.390 | Delwath] do that, like… Do that, like, 5 times, like, 4 times, if you have 4 days worth of time.
 [u2223 | 02:54:05.980-02:54:08.109 | Delwath] I mean, that's pretty effective.
 [u2224 | 02:54:13.310-02:54:16.540 | Delwath] But yes, you need something that's… that doesn't require…
 [u2225 | 02:54:19.080-02:54:20.979 | Delwath] A point, a point you can see.
-[u2226 | 02:54:21.140-02:54:21.800 | DM] Night.
+[u2226 | 02:54:21.140-02:54:21.800 | DM] Right.
 [u2227 | 02:54:23.790-02:54:26.040 | DM] Okay, so as the scrying ends…
 [u2228 | 02:54:29.810-02:54:30.380 | DM] ….
 [u2229 | 02:54:30.380-02:54:31.100 | Delwath] Yep.
@@ -2261,7 +2261,7 @@
 [u2261 | 02:57:13.320-02:57:14.000 | Delwath] Yeah.
 [u2262 | 02:57:14.750-02:57:17.170 | Kenzo] On a giant metal centipede, you know?
 [u2263 | 02:57:17.690-02:57:18.390 | Delwath] Yeah.
-[u2264 | 02:57:30.640-02:57:31.320 | Delwath] Bye.
+[u2264 | 02:57:30.640-02:57:31.320 | Delwath] But…
 [u2265 | 02:57:32.360-02:57:35.410 | Delwath] I think our harassment campaign could be pretty effective.
 [u2266 | 02:57:35.600-02:57:37.180 | Kenzo] It's gonna be extremely effective.
 [u2267 | 02:57:38.380-02:57:43.020 | Delwath] I'm just looking at all the spells that… Because Seeker could cast any…
@@ -2305,8 +2305,8 @@
 [u2305 | 03:01:39.700-03:01:41.100 | DM] starting point.
 [u2306 | 03:01:43.360-03:01:48.119 | Delwath] But as a point you choose, so as long as you can… as long as you can see the cloud…
 [u2307 | 03:01:50.760-03:01:52.599 | Delwath] It becomes pretty devastating.
-[u2308 | 03:01:54.920-03:01:59.690 | Delwath] I mean, the waiter… It's only the first…
-[u2309 | 03:02:03.730-03:02:12.490 | Delwath] It's only 50 feet thick, so only the first 50 feet takes the full damage, and then each, as it moves, each additional 50 foot takes {{5 to 10 less damage}}.
+[u2308 | 03:01:54.920-03:01:59.690 | Delwath] I mean, the water… It's only the first…
+[u2309 | 03:02:03.730-03:02:12.490 | Delwath] It's only 50 feet thick, so only the first 50 feet takes the full damage, and then each, as it moves, each additional 50 foot takes 5d10 less damage.
 [u2310 | 03:02:12.900-03:02:20.830 | Delwath] Until it's passed through all of them, and the last section only takes 1d10 damage. So really, it would only kill maybe a third of them.
 [u2311 | 03:02:22.570-03:02:27.320 | Delwath] And then they'd have an opportunity to come up with some way to defend against it before we kill all of them.
 [u2312 | 03:02:27.750-03:02:35.160 | DM] They would kill… The centipede is 400 feet, was more than 400 feet long.
@@ -2317,7 +2317,7 @@
 [u2317 | 03:02:49.700-03:02:52.200 | Delwath] Well, if they don't come up with a way to stop us, yeah?
 [u2318 | 03:02:53.180-03:02:59.780 | Kenzo] Of course, we do this shit every day. We fuckin' tsunami them, drop Sunfire shit, fuckin', you know… Wow.
 [u2319 | 03:02:59.780-03:03:05.449 | Delwath] I can only cast one 8th level… one of these spells a day, because it requires his 9th level slot.
-[u2320 | 03:03:05.450-03:03:10.349 | Kenzo] perfect. Then it becomes, like, a biblical story that the Hobgoblins themselves for centuries, like.
+[u2320 | 03:03:05.450-03:03:10.349 | Kenzo] perfect. Then it becomes, like, a biblical story that the Hobgoblins tell themselves for centuries, like.
 [u2321 | 03:03:10.350-03:03:15.350 | Delwath] It absolutely is a biblical story. Today, it was the burst of sun, tomorrow it was the….
 [u2322 | 03:03:15.350-03:03:15.910 | Kenzo] Exactly.
 [u2323 | 03:03:15.910-03:03:17.500 | Delwath] Tsunami of death.
@@ -2350,7 +2350,7 @@
 [u2350 | 03:05:38.040-03:05:40.219 | Delwath] I just… I don't want them to, like…
 [u2351 | 03:05:41.580-03:05:46.869 | Delwath] Turn the centipede inside out into an impenetrable wall of force and hide inside it or something.
 [u2352 | 03:05:46.870-03:06:03.249 | Kenzo] Fine, fine. We hit them with the fire, the water the first day. But I think we should announce it. As soon as the tsunami is coming, we say, you know, we abandon your false leader, right? We sow discord.
-[u2353 | 03:06:03.620-03:06:11.789 | Wellby] Half the lynxes go and say, I am the spirit of the heart of the land, and like, and this land is turning against you, now it turns out….
+[u2353 | 03:06:03.620-03:06:11.789 | Wellby] Have the lynxes go and say, I am the spirit of the heart of the land, and like, and this land is turning against you, now it turns out….
 [u2354 | 03:06:11.790-03:06:13.059 | Delwath] And generic.
 [u2355 | 03:06:13.940-03:06:20.390 | Delwath] I like that, like, a generic, don't tell them what's coming at first, right? Send the first message as.
 [u2356 | 03:06:21.030-03:06:29.760 | Delwath] the land, you are… you are… you are leaving the safety of the Plaguelands. Your Empress has not told you the dangers that await you.
@@ -2397,8 +2397,8 @@
 [u2397 | 03:09:27.520-03:09:37.720 | Delwath] It's gonna be hard to… harder to hit than we think, and they're gonna be able to respond, presumably by, like, making the ash cloud even bigger, so it's even harder to hit our targets.
 [u2398 | 03:09:38.420-03:09:40.209 | Delwath] and stuff like that, right? Like….
 [u2399 | 03:09:41.900-03:09:44.200 | Kenzo] Is there… is there a way to blow away the ash cloud?
-[u2400 | 03:09:45.800-03:09:49.189 | Delwath] Ow. You know what, there is a… there's a spell called Whirlwind.
-[u2401 | 03:09:50.880-03:09:51.830 | Kenzo] What's that, dude?
+[u2400 | 03:09:45.800-03:09:49.189 | Delwath] Oh. You know what, there is a… there's a spell called Whirlwind.
+[u2401 | 03:09:50.880-03:09:51.830 | Kenzo] What's that do?
 [u2402 | 03:09:52.270-03:09:56.950 | Delwath] I gotta look it up again. I was looking at it earlier. I think it's a 7th level spell.
 [u2403 | 03:09:57.950-03:10:03.170 | Delwath] Earthquake… hold on, I got distracted. Earthquake.
 [u2404 | 03:10:03.170-03:10:04.359 | Kenzo] Does it sound cool? Yeah.
@@ -2442,7 +2442,7 @@
 [u2442 | 03:12:10.250-03:12:10.880 | Delwath] So….
 [u2443 | 03:12:10.880-03:12:11.290 | Kenzo] How much.
 [u2444 | 03:12:11.290-03:12:16.589 | Delwath] The thing about that is it can sweep down the whole line, right? It'll only get one side, but….
-[u2445 | 03:12:17.770-03:12:18.290 | Wellby] Proof!
+[u2445 | 03:12:17.770-03:12:18.290 | Wellby] Poof!
 [u2446 | 03:12:18.290-03:12:20.549 | DM] Well, a 20-foot radius sphere is not gonna…
 [u2447 | 03:12:21.440-03:12:23.829 | DM] That's, like, a quarter of one side.
 [u2448 | 03:12:23.830-03:12:25.120 | Delwath] Yes, yeah.
@@ -2519,7 +2519,7 @@
 [u2519 | 03:18:27.030-03:18:33.640 | Delwath] … He should be here soon, as we said, he's traveling with our ship.
 [u2520 | 03:18:33.920-03:18:40.520 | Delwath] Vola… wished to… Escape bad memories.
 [u2521 | 03:18:45.040-03:18:48.469 | DM] We left her… where did we leave her? Tokra? Did we leave her in Tokra? I can't remember where we left her.
-[u2522 | 03:18:50.850-03:18:57.670 | DM] G… Left Chardon to go towards Apporia, and see what she found.
+[u2522 | 03:18:50.850-03:18:57.670 | DM] She… Left Chardon to go towards Apporia, and see what she found.
 [u2523 | 03:19:03.460-03:19:04.470 | DM] It seems…
 [u2524 | 03:19:07.770-03:19:11.080 | DM] Well… I can't complain.
 [u2525 | 03:19:11.330-03:19:16.920 | DM] And… Kadmos and Casian?
@@ -2620,12 +2620,12 @@
 [u2620 | 03:28:06.550-03:28:07.719 | DM] We'll end there.
 [u2621 | 03:28:08.870-03:28:14.470 | DM] As you drift off for the night, And we'll pick up again.
 [u2622 | 03:28:16.140-03:28:18.189 | DM] On… when's our next session?
-[u2623 | 03:28:22.530-03:28:23.300 | Delwath] Go now.
+[u2623 | 03:28:22.530-03:28:23.300 | Delwath] Don't know.
 [u2624 | 03:28:23.660-03:28:24.829 | DM] September 11th.
 [u2625 | 03:28:25.040-03:28:27.970 | Delwath] I was gonna say, it's not for a while, it's after Burning Man.
 [u2626 | 03:28:27.970-03:28:28.940 | DM] After Burning Man.
 [u2627 | 03:28:30.800-03:28:33.069 | Kenzo] Night of my colonoscopy. Exciting.
-[u2628 | 03:28:33.070-03:28:33.750 | Delwath] Bright.
+[u2628 | 03:28:33.070-03:28:33.750 | Delwath] Right.
 [u2629 | 03:28:33.750-03:28:35.750 | DM] So, pick up then.
 [u2630 | 03:28:36.530-03:28:43.420 | DM] And then we'll see how things go, and whether we need to use the… Extra session we've got scheduled.
 [u2631 | 03:28:43.900-03:28:47.999 | Delwath] Do we only have… Two more sessions between now and….
