@@ -1,5 +1,5 @@
 [u0001 | 00:00:03.870-00:00:05.120 | DM] We pick up
-[u0002 | 00:00:06.680-00:00:10.019 | DM] it should actually change this. Let's do.
+[u0002 | 00:00:06.680-00:00:10.019 | DM] I should actually change this. Let's do.
 [u0003 | 00:00:13.090-00:00:14.480 | DM] Let's do
 [u0004 | 00:00:14.820-00:00:16.120 | DM] the storm
 [u0005 | 00:00:17.320-00:00:18.710 | DM] we pick up.
@@ -33,7 +33,7 @@
 [u0033 | 00:02:07.690-00:02:09.377 | DM] In his words
 [u0034 | 00:02:10.320-00:02:13.349 | DM] daringly and perhaps foolheartedly
 [u0035 | 00:02:13.650-00:02:15.829 | DM] sailed straight into
-[u0036 | 00:02:18.280-00:02:24.360 | DM] it {{dispel}}, it is impenetrable to magic. So the ship could not fly in.
+[u0036 | 00:02:18.280-00:02:24.360 | DM] it dispel, it is impenetrable to magic. So the ship could not fly in.
 [u0037 | 00:02:24.470-00:02:30.180 | DM] although he has been scheming for various ways, for when they need rescuing. I have to be prepared.
 [u0038 | 00:02:32.140-00:02:33.750 | DM] But fortunately
 [u0039 | 00:02:33.830-00:02:36.210 | DM] that has not turned out to be necessary.
@@ -90,7 +90,7 @@
 [u0090 | 00:07:10.170-00:07:13.340 | Delwath] You know. It used to be that elves were a bigger
 [u0091 | 00:07:13.950-00:07:18.769 | Delwath] part of the world, and had this whole interaction with humanity, and
 [u0092 | 00:07:19.300-00:07:21.649 | Delwath] were integrated into
-[u0093 | 00:07:23.130-00:07:27.420 | Delwath] the sort of empire. And I know there's a sense of like
+[u0093 | 00:07:23.130-00:07:27.420 | Delwath] the sort of empire. And, you know, there's a sense of like
 [u0094 | 00:07:27.510-00:07:29.160 | Delwath] seeing a
 [u0095 | 00:07:29.230-00:07:31.120 | Delwath] time that
 [u0096 | 00:07:31.480-00:07:37.580 | Delwath] he almost would have rather like a you know, a golden age from his perspective, and it's all kind of
@@ -245,10 +245,10 @@
 [u0245 | 00:20:48.890-00:20:55.209 | DM] electrum and tin and brass and zinc and stranger things like
 [u0246 | 00:20:55.230-00:20:57.799 | DM] tungsten and manganese.
 [u0247 | 00:20:58.950-00:21:05.309 | DM] 47 of them are things that you mostly don't recognize, some Mithril, some Chalyte.
-[u0248 | 00:21:05.410-00:21:11.039 | DM] And then there's a bunch that are labeled like weird things like vulcanite, ethereum.
-[u0249 | 00:21:11.170-00:21:12.620 | DM] kupralith.
+[u0248 | 00:21:05.410-00:21:11.039 | DM] And then there's a bunch that are labeled like weird things like vulcanite, aetherium.
+[u0249 | 00:21:11.170-00:21:12.620 | DM] cuprilith.
 [u0250 | 00:21:12.670-00:21:14.360 | DM] lumentium.
-[u0251 | 00:21:14.650-00:21:19.239 | DM] star iron, fey steel nocturnium.
+[u0251 | 00:21:14.650-00:21:19.239 | DM] star iron, fey steel nocturium.
 [u0252 | 00:21:19.880-00:21:22.310 | DM] just like random metals.
 [u0253 | 00:21:22.840-00:21:24.430 | DM] all from the forge.
 [u0254 | 00:21:24.690-00:21:28.249 | DM] all like there'll be a list of all of this in on
@@ -294,7 +294,7 @@
 [u0294 | 00:24:27.973-00:24:31.309 | DM] There's 1 ring that functions as the pearl of power.
 [u0295 | 00:24:31.670-00:24:39.169 | DM] 2 that are a matched set that function as sending stones. So if you're out wearing one, you can talk to.
 [u0296 | 00:24:39.170-00:24:39.870 | Delwath] That's useful.
-[u0297 | 00:24:39.870-00:24:40.949 | DM] Is wearing the other.
+[u0297 | 00:24:39.870-00:24:40.949 | DM] whoever is wearing the other.
 [u0298 | 00:24:40.950-00:24:42.600 | Delwath] We could use some more sending stones.
 [u0299 | 00:24:44.260-00:24:48.830 | DM] Two that let you cast mending once a day. Two that let you cast guidance.
 [u0300 | 00:24:49.100-00:24:54.710 | DM] one only if you're using the survival skill one. Only if you're using the acrobatic skill.
@@ -342,7 +342,7 @@
 [u0342 | 00:27:51.800-00:27:54.560 | DM] But that is, that is really good thinking.
 [u0343 | 00:27:56.330-00:27:58.460 | Riswynn] Is the Silver Dragon?
 [u0344 | 00:27:59.510-00:28:03.520 | Riswynn] Did you meet some silver dragons? You talked some silver dragons? No.
-[u0345 | 00:28:03.520-00:28:05.810 | Delwath] No, no! We we killed a {{peikong}}.
+[u0345 | 00:28:03.520-00:28:05.810 | Delwath] No, no! We we killed a black one.
 [u0346 | 00:28:06.520-00:28:08.200 | Kenzo] No!
 [u0347 | 00:28:10.110-00:28:11.390 | Kenzo] What's up? How you doing?
 [u0348 | 00:28:12.670-00:28:16.310 | Kenzo] Joining you from stormy Iowa?
@@ -402,7 +402,7 @@
 [u0402 | 00:31:43.400-00:31:45.049 | Seeker] Who is going to be the one to do that.
 [u0403 | 00:31:45.050-00:31:45.980 | Kenzo] You. It's 2, 30.
 [u0404 | 00:31:45.980-00:31:46.750 | Seeker] Whatever.
-[u0405 | 00:31:46.750-00:31:48.080 | Delwath] When it was about
+[u0405 | 00:31:46.750-00:31:48.080 | Delwath] What about
 [u0406 | 00:31:48.450-00:31:56.100 | Delwath] one of our hirelings. Yeah, because, Faldrak, doesn't he want to be a silver dragon, or you know, one of the Orcs, or something.
 [u0407 | 00:31:56.100-00:31:59.609 | Wellby] What if you polymorph the ladder into something that can drink.
 [u0408 | 00:31:59.610-00:32:02.019 | Seeker] Now you're talking.
@@ -422,12 +422,12 @@
 [u0422 | 00:32:44.390-00:32:47.250 | Kenzo] And it does, and it never knows that it's a ladder like until
 [u0423 | 00:32:48.850-00:32:49.829 | Kenzo] that's fucked up.
 [u0424 | 00:32:49.830-00:32:53.050 | Wellby] The deep lore that all dragons in Taelgar once were.
-[u0425 | 00:32:53.050-00:32:54.140 | DM] One that matters.
+[u0425 | 00:32:53.050-00:32:54.140 | DM] Were ladders.
 [u0426 | 00:32:54.140-00:32:56.409 | Delwath] Or or just at least household objects of some.
 [u0427 | 00:32:56.410-00:32:57.900 | Kenzo] Yeah, yeah, yeah.
 [u0428 | 00:32:57.900-00:32:59.970 | Delwath] Ladder, you know.
 [u0429 | 00:32:59.970-00:33:00.710 | Kenzo] That generate.
-[u0430 | 00:33:00.710-00:33:01.325 | Delwath] Cables.
+[u0430 | 00:33:00.710-00:33:01.325 | Delwath] Tables.
 [u0431 | 00:33:02.225-00:33:02.509 | Seeker] Oh!
 [u0432 | 00:33:02.510-00:33:04.180 | Kenzo] Oh, my God! Ultimate plot twist.
 [u0433 | 00:33:04.895-00:33:05.610 | Riswynn] Yeah.
@@ -468,7 +468,7 @@
 [u0468 | 00:36:24.310-00:36:34.810 | DM] The arrow flies to the location you described, passing through any obstacles and leaving behind a glowing trail that only you can perceive which marks the most direct path to that location.
 [u0469 | 00:36:36.150-00:36:37.670 | DM] The trail fades after.
 [u0470 | 00:36:37.670-00:36:38.020 | Delwath] Does it?
-[u0471 | 00:36:38.020-00:36:38.440 | DM] {{Hours}}.
+[u0471 | 00:36:38.020-00:36:38.440 | DM] Hours.
 [u0472 | 00:36:38.440-00:36:41.720 | Delwath] Count if we saw it in the mirror of the past.
 [u0473 | 00:36:42.330-00:36:44.179 | DM] Yep, as long as you can describe it.
 [u0474 | 00:36:44.350-00:36:46.379 | Delwath] So we can find Apollyon's
@@ -502,7 +502,7 @@
 [u0502 | 00:39:36.830-00:39:39.890 | DM] If you succeed, you open a permanent portal
 [u0503 | 00:39:40.200-00:39:43.589 | DM] to a location you describe on the plane that you target.
 [u0504 | 00:39:44.330-00:39:50.020 | DM] If you fail by 5 or less, you open a permanent portal to a random location on that plane.
-[u0505 | 00:39:50.350-00:40:07.929 | DM] If you fail by more than 5, you fail to contain the energy. Everybody within a hundred feet of the wand has to make a charisma saving throw, taking 20 d. 6 {{failure damage}} and being teleported to a random location on the plane on a failure.
+[u0505 | 00:39:50.350-00:40:07.929 | DM] If you fail by more than 5, you fail to contain the energy. Everybody within a hundred feet of the wand has to make a charisma saving throw, taking 20 d. 6 force damage and being teleported to a random location on the plane on a failure.
 [u0506 | 00:40:07.930-00:40:10.080 | Wellby] So there's no way to fail, is what you're saying.
 [u0507 | 00:40:10.470-00:40:14.980 | DM] Basically, there's no way to fail. You always get to the other plane.
 [u0508 | 00:40:14.980-00:40:17.350 | Seeker] This is amazing. We're definitely doing this.
@@ -528,7 +528,7 @@
 [u0528 | 00:41:43.350-00:41:44.630 | DM] Hi, Nathaniel!
 [u0529 | 00:41:46.280-00:41:48.640 | DM] And I think that is everything.
 [u0530 | 00:41:51.060-00:41:53.120 | DM] None of these are in D and d beyond yet.
-[u0531 | 00:41:54.550-00:42:05.160 | DM] but I will, depending on what you decide to take. I will put them on D and D. Some of them are real items that I did homebrew. So those are on d and d beyond.
+[u0531 | 00:41:54.550-00:42:05.160 | DM] but I will, depending on what you decide to take. I will put them on D and D. Some of them are real items that I didn't homebrew. So those are on d and d beyond.
 [u0532 | 00:42:06.780-00:42:10.750 | Wellby] I'm saying. What was the item that lets you, polymorph, into any creature.
 [u0533 | 00:42:11.510-00:42:13.130 | Seeker] It's the ring of the ocean.
 [u0534 | 00:42:13.130-00:42:16.750 | DM] The ring of the ocean. Any creature that has a swim speed right.
@@ -568,7 +568,7 @@
 [u0568 | 00:44:21.370-00:44:22.200 | Delwath] Yeah.
 [u0569 | 00:44:22.200-00:44:26.300 | Riswynn] Tropical island, or something that's where like Fake Delwath, is right.
 [u0570 | 00:44:26.300-00:44:27.310 | Delwath] Yes, right?
-[u0571 | 00:44:44.370-00:44:45.300 | DM] dow.
+[u0571 | 00:44:44.370-00:44:45.300 | DM] So.
 [u0572 | 00:44:47.780-00:44:51.150 | DM] anyway, the question is, what do you want to take?
 [u0573 | 00:44:52.200-00:44:57.769 | DM] Who wants to take what? And then we'll we'll switch to the to Eric's
 [u0574 | 00:44:58.560-00:44:59.770 | DM] presentation.
@@ -598,7 +598,7 @@
 [u0598 | 00:46:13.030-00:46:17.290 | Delwath] Or not potion of I I wouldn't mind the potion of invulnerability.
 [u0599 | 00:46:19.200-00:46:19.630 | Kenzo] That's.
 [u0600 | 00:46:19.630-00:46:20.290 | Delwath] Useful
-[u0601 | 00:46:21.049-00:46:24.769 | Delwath] you're in of. You are resistant to all damage for an hour.
+[u0601 | 00:46:21.049-00:46:24.769 | Delwath] you're invul— You are resistant to all damage for an hour.
 [u0602 | 00:46:25.000-00:46:26.930 | Delwath] so all damage is halved.
 [u0603 | 00:46:30.680-00:46:31.989 | Seeker] Yeah, that's strong.
 [u0604 | 00:46:34.510-00:46:35.000 | Seeker] Yeah, that's.
@@ -617,7 +617,7 @@
 [u0617 | 00:47:00.170-00:47:02.090 | Delwath] Triceratops is also kind of cool.
 [u0618 | 00:47:02.780-00:47:03.240 | Seeker] Yeah.
 [u0619 | 00:47:03.240-00:47:05.239 | Kenzo] Wait. I missed the Triceratops. What's that?
-[u0620 | 00:47:06.500-00:47:06.830 | DM] Thank you.
+[u0620 | 00:47:06.500-00:47:06.830 | DM] Statue.
 [u0621 | 00:47:06.830-00:47:08.680 | Delwath] That can turn into a triceratops.
 [u0622 | 00:47:08.680-00:47:11.320 | DM] Triceratops that turns into a triceratops.
 [u0623 | 00:47:12.280-00:47:14.210 | Kenzo] What it lasts for.
@@ -892,7 +892,7 @@
 [u0892 | 01:03:27.700-01:03:32.950 | Wellby] using the bow or the arrow of seeking whatever it was like, at least we could find where it was a few 100 years ago.
 [u0893 | 01:03:33.260-01:03:34.380 | Delwath] That's true.
 [u0894 | 01:03:35.030-01:03:38.960 | Delwath] Also. I wonder how much adamantine there is in Drankor.
-[u0895 | 01:03:39.920-01:03:44.479 | Seeker] And I can sense it. How, although not only at a few 100 feet.
+[u0895 | 01:03:39.920-01:03:44.479 | Seeker] And I can sense it, although only at a few 100 feet.
 [u0896 | 01:03:44.480-01:03:48.210 | Delwath] How long does your how, what's your what's your range?
 [u0897 | 01:03:50.900-01:03:53.030 | Seeker] Think it's only 300 feet. But let me
 [u0898 | 01:04:02.530-01:04:07.450 | Seeker] oh, over a thousand feet, if I name a particular type of ore.
@@ -1008,7 +1008,7 @@
 [u1008 | 01:11:04.280-01:11:06.330 | Delwath] It doesn't necessarily make sense for Taelgar.
 [u1009 | 01:11:06.330-01:11:10.909 | DM] No, it normally makes sense, but I think liches in particular are.
 [u1010 | 01:11:11.100-01:11:11.580 | Delwath] I mean.
-[u1011 | 01:11:11.580-01:11:13.030 | DM] Wizard, the Current Base.
+[u1011 | 01:11:11.580-01:11:13.030 | DM] Wizard, arcana-based.
 [u1012 | 01:11:13.030-01:11:15.649 | Delwath] Knows kind of a lot about
 [u1013 | 01:11:15.660-01:11:16.790 | Delwath] liches like he.
 [u1014 | 01:11:16.790-01:11:19.360 | DM] He was briefly possessed, briefly possessed.
@@ -1050,7 +1050,7 @@
 [u1050 | 01:13:38.940-01:13:41.169 | Delwath] We should be okay.
 [u1051 | 01:13:41.780-01:13:46.920 | Delwath] Fine, because it's a thousand feet from your current position. Right? So you can.
 [u1052 | 01:13:47.500-01:13:48.210 | Seeker] Right.
-[u1053 | 01:13:48.760-01:13:56.759 | Delwath] And how fast does I mean? I don't not sort of 2 ways to do the math, but it feels intuitive like in 5 or 6 h you could crisscross with a flying ship
+[u1053 | 01:13:48.760-01:13:56.759 | Delwath] And how fast does I mean? I don't—sort of too lazy to do the math, but it feels intuitive like in 5 or 6 h you could crisscross with a flying ship
 [u1054 | 01:13:57.710-01:13:59.130 | Delwath] a thousand feet.
 [u1055 | 01:14:00.520-01:14:01.600 | Delwath] Now
 [u1056 | 01:14:01.990-01:14:08.359 | Delwath] I don't know how we'd have to cast a spell. It only last 10 min you each get a 1. You each get 10 min
@@ -1126,7 +1126,7 @@
 [u1126 | 01:18:03.790-01:18:04.940 | Riswynn] 5 h.
 [u1127 | 01:18:05.210-01:18:09.939 | Delwath] Let's revisit. It's what time of day is it? How much time? What's what's the time on the clock
 [u1128 | 01:18:10.750-01:18:12.309 | Delwath] we have like 3 days, 5 days.
-[u1129 | 01:18:12.310-01:18:12.920 | DM] Case.
+[u1129 | 01:18:12.310-01:18:12.920 | DM] Days.
 [u1130 | 01:18:13.050-01:18:14.800 | Delwath] 9 days we have tons of time.
 [u1131 | 01:18:15.670-01:18:18.660 | Delwath] What are we doing going to Drankor we have time for a whole side quest?
 [u1132 | 01:18:20.200-01:18:21.480 | Delwath] It's correct.
@@ -1190,14 +1190,14 @@
 [u1190 | 01:22:05.270-01:22:06.470 | DM] A riverbed.
 [u1191 | 01:22:07.100-01:22:14.619 | DM] And you actually don't even I mean, this is a. This map is based on like stories of the Dunmari. You don't actually even know if.
 [u1192 | 01:22:15.140-01:22:16.020 | Delwath] Right.
-[u1193 | 01:22:16.240-01:22:17.620 | Seeker] I'll connect.
+[u1193 | 01:22:16.240-01:22:17.620 | Seeker] all connect.
 [u1194 | 01:22:17.800-01:22:22.960 | DM] It all connects, because, you know, it's all shifted now, and it could be that it just forms a
 [u1195 | 01:22:23.730-01:22:26.850 | DM] swamp. And you know that the the
 [u1196 | 01:22:27.200-01:22:27.950 | DM] the
 [u1197 | 01:22:28.160-01:22:36.130 | DM] eastern branch connects because the Orcs told you it does. The one that flows past Xurkhaz.
-[u1198 | 01:22:47.340-01:22:48.290 | Riswynn] We're doing more.
+[u1198 | 01:22:47.340-01:22:48.290 | Riswynn] Could we do more.
 [u1199 | 01:22:48.290-01:22:48.950 | DM] Same Kirk.
-[u1200 | 01:22:48.950-01:22:49.790 | Riswynn] Praying.
+[u1200 | 01:22:48.950-01:22:49.790 | Riswynn] Scrying.
 [u1201 | 01:22:50.820-01:22:51.840 | Delwath] I mean the ship.
 [u1202 | 01:22:52.290-01:22:53.330 | DM] Sails.
 [u1203 | 01:22:53.330-01:22:54.880 | Delwath] Were you asking about scrying.
@@ -1216,7 +1216,7 @@
 [u1216 | 01:23:46.020-01:23:50.010 | Delwath] guess it's tough like. Who would we send? What would we send?
 [u1217 | 01:23:52.320-01:23:55.039 | Delwath] We don't have a lot of
 [u1218 | 01:24:07.870-01:24:09.600 | Delwath] I'm just looking at my spells.
-[u1219 | 01:24:27.650-01:24:35.129 | Riswynn] Like if we took ourselves within range of some long distance {{scrap}}, you know, beast sense, or something.
+[u1219 | 01:24:27.650-01:24:35.129 | Riswynn] Like if we took ourselves within range of some long distance scry— you know, beast sense, or something.
 [u1220 | 01:24:36.130-01:24:40.000 | Riswynn] and then brought ourselves back to plan. After we got more information.
 [u1221 | 01:24:40.210-01:24:41.980 | Delwath] Yeah, I mean, that's a
 [u1222 | 01:24:42.370-01:24:45.700 | Delwath] that's a reasonable starting spot.
@@ -1347,7 +1347,7 @@
 [u1347 | 01:32:55.690-01:32:57.120 | Seeker] And so how can we
 [u1348 | 01:32:57.420-01:32:57.990 | Seeker] set.
 [u1349 | 01:32:57.990-01:32:58.420 | Delwath] Does.
-[u1350 | 01:32:58.420-01:32:58.990 | Seeker] Sured
+[u1350 | 01:32:58.420-01:32:58.990 | Seeker] ensure
 [u1351 | 01:32:59.310-01:33:01.740 | Seeker] fighting, only one of them at a time.
 [u1352 | 01:33:04.010-01:33:07.100 | Delwath] Delwath has a couple of 300 feet spells. Actually.
 [u1353 | 01:33:07.720-01:33:15.470 | Delwath] although I don't know like I changed my spells right like, do they do these guys get the 2024 rules? Or do they stuck with the 2014 rules.
@@ -1779,7 +1779,7 @@
 [u1779 | 01:58:32.720-01:58:39.169 | Delwath] Use that we're being scryed against them right by making all kinds of plans. We're not going to keep
 [u1780 | 01:58:39.240-01:58:40.340 | Delwath] potentially
 [u1781 | 01:58:42.130-01:58:43.080 | Delwath] right.
-[u1782 | 01:58:45.270-01:58:47.769 | Riswynn] Like we did in {{New York City}}. Sort of
+[u1782 | 01:58:45.270-01:58:47.769 | Riswynn] Like we did in New York City. Sort of
 [u1783 | 01:58:48.570-01:58:50.580 | Riswynn] how about? How would that go.
 [u1784 | 01:58:50.580-01:58:57.939 | Delwath] So I are we approaching Drankor I mean, I I think I'm convinced that there's not really a better strategy than just
 [u1785 | 01:58:58.370-01:59:02.349 | Delwath] coming up, coming up with a plan to fight the doppelgangers and just doing it.
@@ -1943,7 +1943,7 @@
 [u1943 | 02:08:13.490-02:08:14.930 | Riswynn] That's what I'm looking up.
 [u1944 | 02:08:19.060-02:08:24.890 | Seeker] I feel like we're going to end up off the ship. It's going to be a messy situation with people flying around.
 [u1945 | 02:08:25.770-02:08:28.790 | Delwath] Oh, immunity to the frightened! No, we should totally do it.
-[u1946 | 02:08:30.320-02:08:33.600 | Delwath] The creature has {{a resistance}}, we should absolutely do a hero's feast.
+[u1946 | 02:08:30.320-02:08:33.600 | Delwath] The creature has a resistance, we should absolutely do a hero's feast.
 [u1947 | 02:08:37.400-02:08:41.870 | Delwath] We should absolutely do a hero's feast, because immunity to frightened is amazingly good.
 [u1948 | 02:08:41.910-02:08:45.780 | Delwath] because we know that the place is full of people, frightening us.
 [u1949 | 02:08:47.500-02:08:51.120 | Seeker] Oh! And the doppelgangers might not be solo. They might have other creatures.
@@ -2012,7 +2012,7 @@
 [u2012 | 02:12:23.490-02:12:24.210 | Seeker] Man.
 [u2013 | 02:12:24.210-02:12:25.580 | Delwath] We have to take the little item
 [u2014 | 02:12:26.320-02:12:29.840 | Delwath] they they have a little item that we have to take off them, which is what powers the res.
-[u2015 | 02:12:29.840-02:12:30.719 | Kenzo] I'm just one of the nuts.
+[u2015 | 02:12:29.840-02:12:30.719 | Kenzo] And each one of them has?
 [u2016 | 02:12:30.720-02:12:31.240 | Delwath] Yeah.
 [u2017 | 02:12:31.520-02:12:33.280 | DM] Each one of them does, yeah. But.
 [u2018 | 02:12:33.280-02:12:37.629 | Delwath] Do we have to take it off them before they die, or can we take it off their corpses? Do we know.
@@ -2119,7 +2119,7 @@
 [u2119 | 02:17:43.759-02:17:45.159 | Delwath] I mean, or I mean.
 [u2120 | 02:17:45.249-02:17:47.219 | Delwath] maybe Seeker right? You could
 [u2121 | 02:17:48.224-02:17:49.079 | Delwath] double.
-[u2122 | 02:17:49.080-02:17:50.769 | DM] Have 2 Seekers, 2 laptops.
+[u2122 | 02:17:49.080-02:17:50.769 | DM] Have 2 Seekers, 2 ladders.
 [u2123 | 02:17:50.770-02:17:51.740 | Delwath] 2 ladders.
 [u2124 | 02:17:51.740-02:17:52.420 | DM] Few, content.
 [u2125 | 02:17:52.420-02:17:53.150 | Delwath] God.
@@ -2166,7 +2166,7 @@
 [u2166 | 02:20:33.710-02:20:36.720 | Delwath] Are we like approaching this from.
 [u2167 | 02:20:37.120-02:20:39.950 | DM] Sorry. Let me just ask before it. Are you casting heroes' feast.
 [u2168 | 02:20:40.410-02:20:41.340 | Delwath] Tonight, yeah.
-[u2169 | 02:20:41.340-02:20:47.880 | DM] Tonight {{won't be}} heroes' feast. Whoa!
+[u2169 | 02:20:41.340-02:20:47.880 | DM] Tonight won't be heroes' feast. Whoa!
 [u2170 | 02:20:49.060-02:20:51.199 | DM] That's an interesting question.
 [u2171 | 02:20:55.290-02:20:57.840 | DM] Does it? Copy ongoing effects.
 [u2172 | 02:21:08.910-02:21:10.530 | Seeker] I would guess. No, but.
@@ -2197,7 +2197,7 @@
 [u2197 | 02:22:28.920-02:22:34.080 | Riswynn] Faldrak Kethra. Are any of the others like in the mood to like charge up into.
 [u2198 | 02:22:34.080-02:22:36.694 | Delwath] I think the the Orc fighter
 [u2199 | 02:22:38.070-02:22:38.790 | Delwath] I mean.
-[u2200 | 02:22:38.790-02:22:41.629 | DM] {{Of them}} are really in the mood to go into Drankor.
+[u2200 | 02:22:38.790-02:22:41.629 | DM] None of them are really in the mood to go into Drankor.
 [u2201 | 02:22:42.391-02:22:48.019 | Delwath] But no fear. We want everybody who it's mostly about the the immune to fright bit
 [u2202 | 02:22:49.110-02:22:50.990 | Delwath] is the main thing we're after.
 [u2203 | 02:23:02.540-02:23:06.390 | DM] Yeah. So you've got 2 halflings. You've got the elf
@@ -2325,7 +2325,7 @@
 [u2325 | 02:30:30.250-02:30:32.559 | Seeker] What else can I do with my 7th level slot?
 [u2326 | 02:30:33.660-02:30:36.889 | DM] I mean, that's your teleport to safety. Slot.
 [u2327 | 02:30:37.250-02:30:38.560 | Seeker] Oh, I need that one.
-[u2328 | 02:30:38.850-02:30:39.699 | DM] Yes, you could use the name.
+[u2328 | 02:30:38.850-02:30:39.699 | DM] Yes, you could use an eighth.
 [u2329 | 02:30:39.700-02:30:40.590 | Delwath] Now.
 [u2330 | 02:30:40.880-02:30:45.490 | Delwath] realistically, you're not gonna cast animal shapes.
 [u2331 | 02:30:47.590-02:30:48.500 | Delwath] True.
@@ -2507,7 +2507,7 @@
 [u2507 | 02:41:29.200-02:41:35.240 | Seeker] like 1,000 feet up, and just drop rocks on it to smash everything apart first
 [u2508 | 02:41:35.240-02:41:37.580 | Delwath] I mean. I don't know what the range of the
 [u2509 | 02:41:37.780-02:41:39.810 | Delwath] I don't know what the range of the
-[u2510 | 02:41:40.400-02:41:43.840 | Delwath] wasty things is, but it's awfully tempting.
+[u2510 | 02:41:40.400-02:41:43.840 | Delwath] blasty things is, but it's awfully tempting.
 [u2511 | 02:41:44.060-02:41:46.239 | Delwath] It's awfully tempting to come in
 [u2512 | 02:41:47.080-02:41:49.080 | Delwath] when we're 500 feet away.
 [u2513 | 02:41:49.530-02:41:56.569 | Delwath] Dimension door to the top of the tower. Only 4 of us can come. Some somebody has to fly right? So only 4 of us can actually go.
@@ -2623,7 +2623,7 @@
 [u2623 | 02:47:42.700-02:47:45.639 | DM] only Delwath prime casts aid. You're not using it.
 [u2624 | 02:47:45.640-02:47:46.860 | Delwath] Correct. No. Okay.
 [u2625 | 02:47:46.870-02:47:48.580 | Seeker] Well, let's come up with a.
-[u2626 | 02:47:48.580-02:47:49.730 | DM] Accident, hit points.
+[u2626 | 02:47:48.580-02:47:49.730 | DM] Extra hit points.
 [u2627 | 02:47:49.910-02:47:51.160 | Seeker] Terminology
 [u2628 | 02:47:51.710-02:47:52.829 | Seeker] there's Delwath
 [u2629 | 02:47:53.370-02:47:53.970 | Seeker] that was.
@@ -2655,7 +2655,7 @@
 [u2655 | 02:48:55.110-02:48:58.119 | DM] You also all get 2D. 10 from aid. So.
 [u2656 | 02:48:59.570-02:49:01.259 | DM] Kate, do you want to.
 [u2657 | 02:49:01.260-02:49:02.400 | Riswynn] Heroes' feast. Yeah.
-[u2658 | 02:49:02.400-02:49:04.290 | DM] From here, so he's not in.
+[u2658 | 02:49:02.400-02:49:04.290 | DM] From heroes' feast, not—
 [u2659 | 02:49:07.250-02:49:09.469 | Delwath] Those stack right like hit point, Max.
 [u2660 | 02:49:09.470-02:49:11.580 | DM] Yeah, yeah. Their hit point. Max, increase.
 [u2661 | 02:49:11.580-02:49:12.450 | Delwath] Attempts. Yeah.
@@ -2690,7 +2690,7 @@
 [u2690 | 02:50:36.510-02:50:37.010 | DM] that.
 [u2691 | 02:50:37.010-02:50:40.340 | Delwath] The aid gives you 20, and the heroes feast gives you another 20.
 [u2692 | 02:50:46.300-02:50:47.360 | DM] So.
-[u2693 | 02:50:47.550-02:50:48.410 | Seeker] Lenny.
+[u2693 | 02:50:47.550-02:50:48.410 | Seeker] Twenty.
 [u2694 | 02:50:49.680-02:50:51.269 | Seeker] Alright, I'm in better shape.
 [u2695 | 02:50:51.270-02:50:52.969 | DM] Delwath short rests
 [u2696 | 02:50:52.980-02:50:57.589 | DM] as the Vindristjarna creeps closer, traveling up the river.
@@ -2702,7 +2702,7 @@
 [u2702 | 02:51:20.130-02:51:25.140 | DM] light of the Bahrâzel keeping you from descending into
 [u2703 | 02:51:25.520-02:51:26.550 | DM] fear
 [u2704 | 02:51:26.780-02:51:28.100 | DM] and terror.
-[u2705 | 02:51:30.740-02:51:34.979 | DM] The 2 halflings {{who are not}} the Copperharps are like
+[u2705 | 02:51:30.740-02:51:34.979 | DM] The 2 halflings who are not the Copperharps are like
 [u2706 | 02:51:35.000-02:51:40.899 | DM] huddled in a corner, like sort of just holding each other, and, you know.
 [u2707 | 02:51:42.340-02:51:48.010 | DM] telling each other stories as they shiver in fear, while the rest of your crew is
 [u2708 | 02:51:48.180-02:51:49.099 | DM] at least
@@ -2814,7 +2814,7 @@
 [u2814 | 02:57:42.440-02:57:43.689 | DM] what about now?
 [u2815 | 02:57:48.180-02:57:51.729 | DM] Okay, keep talking. I'll I'll figure it out.
 [u2816 | 02:57:58.640-02:57:59.129 | DM] Would have.
-[u2817 | 02:57:59.130-02:58:04.930 | Seeker] We got rid of the top. Yeah, there it is to the top of the tower. So just to invite Delwath onto our ship.
+[u2817 | 02:57:59.130-02:58:04.930 | Seeker] We could bridge to the top. Yeah, there it is to the top of the tower. So just to invite Delwath onto our ship.
 [u2818 | 02:58:11.450-02:58:12.230 | Delwath] I think
 [u2819 | 02:58:12.620-02:58:16.130 | Delwath] the chance of anybody taking the bait is relatively low.
 [u2820 | 02:58:17.110-02:58:18.020 | Delwath] right?
@@ -2970,7 +2970,7 @@
 [u2970 | 03:08:39.670-03:08:40.240 | DM] Yeah.
 [u2971 | 03:08:41.800-03:08:44.490 | Riswynn] That's what I think. We're attempting to
 [u2972 | 03:08:46.280-03:08:47.430 | Riswynn] signal.
-[u2973 | 03:08:49.820-03:08:50.990 | DM] Stow.
+[u2973 | 03:08:49.820-03:08:50.990 | DM] So.
 [u2974 | 03:08:53.470-03:08:54.970 | DM] You find yourself
 [u2975 | 03:08:55.080-03:08:59.061 | DM] now, as I think we should probably wrap up shortly.
 [u2976 | 03:09:01.060-03:09:04.709 | DM] and we need to confirm schedules for upcoming sessions.
@@ -3160,7 +3160,7 @@
 [u3160 | 03:20:08.110-03:20:12.409 | Delwath] use the Chanceweaver's dice to successfully teleport into the top of the tower.
 [u3161 | 03:20:15.980-03:20:16.759 | Kenzo] Like that.
 [u3162 | 03:20:18.950-03:20:20.020 | Kenzo] I like that.
-[u3163 | 03:20:21.210-03:20:24.730 | Delwath] {{5%}} chance of succeeding without the Chanceweaver's dice.
+[u3163 | 03:20:21.210-03:20:24.730 | Delwath] 5% chance of succeeding without the Chanceweaver's dice.
 [u3164 | 03:20:26.630-03:20:27.920 | Seeker] I just really want
 [u3165 | 03:20:28.130-03:20:32.659 | Seeker] the ship to get hit by lightning with ice. Shield on and see what happens.
 [u3166 | 03:20:33.052-03:20:38.150 | Delwath] I mean to be honest. Wait! Oh, by the way, we everybody
@@ -3234,7 +3234,7 @@
 [u3234 | 03:23:36.810-03:23:44.010 | Kenzo] You know, magic items are meant to be used. You know what I mean. It's a great moment for it, like, let's go.
 [u3235 | 03:23:44.010-03:23:47.620 | Delwath] Really think the nice thing about teleport. How many people does teleport cover
 [u3236 | 03:23:48.180-03:23:48.710 | Delwath] upset.
-[u3237 | 03:23:48.710-03:23:49.590 | Seeker] {{You to say about}}
+[u3237 | 03:23:48.710-03:23:49.590 | Seeker] You to say about
 [u3238 | 03:23:50.460-03:23:51.270 | Seeker] ladders?
 [u3239 | 03:23:53.300-03:23:54.070 | Seeker] yeah.
 [u3240 | 03:23:54.230-03:23:55.100 | Seeker] no.
@@ -3277,13 +3277,13 @@
 [u3277 | 03:25:19.240-03:25:20.910 | Seeker] Spell slot, because.
 [u3278 | 03:25:20.910-03:25:21.660 | Kenzo] Yeah, yeah, maybe.
 [u3279 | 03:25:21.660-03:25:22.439 | Delwath] Say man.
-[u3280 | 03:25:23.440-03:25:25.119 | Kenzo] {{Take out bees}}. We can move around.
+[u3280 | 03:25:23.440-03:25:25.119 | Kenzo] Take out bees. We can move around.
 [u3281 | 03:25:27.240-03:25:27.850 | Seeker] Say again.
 [u3282 | 03:25:27.850-03:25:30.579 | DM] I mean, you don't have to cast it at a high level, though.
-[u3283 | 03:25:30.580-03:25:32.069 | Kenzo] {{Zaradella}}, casting it.
+[u3283 | 03:25:30.580-03:25:32.069 | Kenzo] Zaradella, casting it.
 [u3284 | 03:25:32.760-03:25:34.500 | Seeker] All right. I forgot. Yeah.
 [u3285 | 03:25:34.890-03:25:38.879 | DM] I mean casting it at 8th level against the dragon was very strong, but.
-[u3286 | 03:25:39.050-03:25:40.360 | Seeker] But it's not an {{old spell}}. Yeah.
+[u3286 | 03:25:39.050-03:25:40.360 | Seeker] But it's not an eighth-level spell. Yeah.
 [u3287 | 03:25:40.360-03:25:40.820 | Delwath] Yeah.
 [u3288 | 03:25:40.820-03:25:42.390 | DM] It's not an 8th level slot.
 [u3289 | 03:25:42.940-03:25:43.510 | Seeker] Okay.
@@ -3336,7 +3336,7 @@
 [u3336 | 03:27:53.530-03:28:00.820 | DM] So Wellby would presumably yeah, Wellby would have to run. Or it's like, not clear exactly what would happen.
 [u3337 | 03:28:00.820-03:28:01.420 | Kenzo] Yes.
 [u3338 | 03:28:01.630-03:28:05.219 | Kenzo] so it would. It would just be 3. It'd be riz. It'd be Bizarro Riswynn.
-[u3339 | 03:28:06.360-03:28:09.449 | Kenzo] BR. Bk, and B. Yes.
+[u3339 | 03:28:06.360-03:28:09.449 | Kenzo] BR. BK, and BS.
 [u3340 | 03:28:09.730-03:28:11.169 | Delwath] Also unless they
 [u3341 | 03:28:11.180-03:28:12.200 | Delwath] brought in.
 [u3342 | 03:28:12.240-03:28:21.659 | Delwath] unless Bizarro Seeker has an item from the top of the tower, which I guess maybe that's their backup plan that they could all just teleport to the top of the tower, but
@@ -3397,5 +3397,5 @@
 [u3397 | 03:30:46.200-03:30:47.460 | DM] combat
 [u3398 | 03:30:47.650-03:30:52.129 | DM] Bizarro Delwath. will do his best to fight back, but.
 [u3399 | 03:30:54.280-03:30:54.600 | Kenzo] Excited.
-[u3400 | 03:30:54.600-03:30:55.300 | DM] Thou?
+[u3400 | 03:30:54.600-03:30:55.300 | DM] So?
 [u3401 | 03:30:56.160-03:30:56.619 | DM] Let's
