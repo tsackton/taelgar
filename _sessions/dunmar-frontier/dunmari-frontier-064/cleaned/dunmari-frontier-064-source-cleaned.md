@@ -10,7 +10,7 @@
 [u0010 | 00:01:01.170-00:01:04.470 | DM] elemental corruption, this imbalance, that's
 [u0011 | 00:01:04.930-00:01:12.960 | DM] ah spreading from the footprint of the gods was caused by some powerful creature from the spirit realm,
 [u0012 | 00:01:14.160-00:01:15.759 | DM] wounded,
-[u0013 | 00:01:15.910-00:01:18.270 | DM] throwing their land of
+[u0013 | 00:01:15.910-00:01:18.270 | DM] throwing the land of
 [u0014 | 00:01:18.500-00:01:24.019 | DM] rich connections to extraplanar sources of energy out of balance.
 [u0015 | 00:01:25.350-00:01:33.860 | DM] Just moments ago, at the lava river you met Somi-nai, a fire spirit, the soul of the volcano that bears his name,
 [u0016 | 00:01:34.340-00:01:39.640 | DM] fleeing his home and under attack from fire cursed beasts
@@ -42,7 +42,7 @@
 [u0042 | 00:04:29.590-00:04:35.390 | DM] In one hand he holds a long pike decorated with vine,
 [u0043 | 00:04:36.250-00:04:43.479 | DM] like a vine motif that runs up the side and ending in a cluster of thorns, from which the spear point erupts.
 [u0044 | 00:04:43.990-00:04:49.839 | DM] His armor is decorated with many symbols which you recognize as the marks of villages in the kingdom of,
-[u0045 | 00:04:49.900-00:04:56.380 | DM] Orekatu, the lizardfolk kingdom you're in, presumably showing off his heroic endeavors {{across the way. I've done}}
+[u0045 | 00:04:49.900-00:04:56.380 | DM] Orekatu, the lizardfolk kingdom you're in, presumably showing off his heroic endeavors across the way. I've done
 [u0046 | 00:04:56.930-00:05:02.369 | DM] In the last session you learned from him that he is a skilled
 [u0047 | 00:05:02.860-00:05:19.019 | DM] tracker and guide and traveler having once been as far to the west as the deserts on the far side of the mountains, where the strange gnomish creatures, like dwarves, but above ground, dwell
 [u0048 | 00:05:26.570-00:05:27.500 | Izzarak] cool.
@@ -66,8 +66,8 @@
 [u0066 | 00:07:31.520-00:07:38.789 | DM] It takes an extra 1d6 necrotic damage, and has to make a Wisdom saving throw. If it fails,
 [u0067 | 00:07:39.100-00:07:51.290 | DM] it's under the effects of the slow spell. So it's like Wow! Slow down. That's them. I get a I roll a natural twenty. I'll try and stop that with the staff. Yeah.
 [u0068 | 00:07:51.400-00:07:52.610 | Izzarak] Nice
-[u0069 | 00:07:53.090-00:07:54.560 | Izzarak] tens of hours
-[u0070 | 00:07:55.320-00:07:56.820 | Kenzo] that must air.
+[u0069 | 00:07:53.090-00:07:54.560 | Izzarak] Kenzo powers.
+[u0070 | 00:07:55.320-00:07:56.820 | Kenzo] That's my staff.
 [u0071 | 00:07:56.960-00:07:58.909 | Kenzo] It's Staff of the Forest Soul.
 [u0072 | 00:08:00.070-00:08:02.060 | Izzarak] Izzarak is a
 [u0073 | 00:08:03.390-00:08:05.879 | Izzarak] contemplative lizardfolk
@@ -90,14 +90,14 @@
 [u0090 | 00:09:01.320-00:09:06.729 | Izzarak] okay, yes. I was given them to take
 [u0091 | 00:09:07.700-00:09:11.069 | Izzarak] back to this place to the footprint of the gods.
 [u0092 | 00:09:12.330-00:09:16.290 | Izzarak] But exactly what that means, or who I am to give them to is unclear,
-[u0093 | 00:09:16.870-00:09:20.259 | Unknown] and {{they're right in to me}} by that lizardfolk elder.
+[u0093 | 00:09:16.870-00:09:20.259 | Unknown] and they were given to me by that lizardfolk elder.
 [u0094 | 00:09:21.050-00:09:23.300 | DM] They were given to you by
 [u0095 | 00:09:24.720-00:09:26.310 | DM] by a jaguar,
 [u0096 | 00:09:26.540-00:09:28.859 | Izzarak] was it? How I forget about the jaguar? Thank you.
 [u0097 | 00:09:32.890-00:09:36.610 | Izzarak] That's so cool. It's it's tricky enough to play in
 [u0098 | 00:09:36.680-00:09:45.010 | Izzarak] each of these one-shots. Tim has to actually, like, create everything. And then, like
 [u0099 | 00:09:45.190-00:09:47.450 | Izzarak] like running many campaigns,
-[u0100 | 00:09:49.380-00:09:55.919 | DM] I guess it helps that he write stuff down. I do have quite a lot of notes um
+[u0100 | 00:09:49.380-00:09:55.919 | DM] I guess it helps that you write stuff down. I do have quite a lot of notes um
 [u0101 | 00:09:56.160-00:10:04.169 | DM] as you are, as you're sort of looking at. The jungle Enari comes over to you Kenzo you Um!
 [u0102 | 00:10:05.020-00:10:09.300 | DM] Because, Izzarak, Were you? Were you? Were you wounded in the last fight,
 [u0103 | 00:10:09.410-00:10:25.159 | DM] or was it just Kenzo? I do not have any hit points knocked off. Okay, I think it was just Kenzo, and you know, all right, because you were staying back. He comes over to Kenzo, and he takes like out of a a pouch at the side of his um
@@ -118,7 +118,7 @@
 [u0118 | 00:11:46.740-00:11:51.849 | Izzarak] Wellby. Where are you?
 [u0119 | 00:12:02.800-00:12:08.110 | Kenzo] Well, we'll see if he responds. Oh, my God, that's funny.
 [u0120 | 00:12:11.830-00:12:13.760 | Kenzo] Um!
-[u0121 | 00:12:15.460-00:12:18.750 | Kenzo] {{How far does I jump in? Able to see}}
+[u0121 | 00:12:15.460-00:12:18.750 | Kenzo] How far does my jumping ability...
 [u0122 | 00:12:18.880-00:12:24.280 | DM] with your with? If you spend a ki and you use the jump spell, you can jump.
 [u0123 | 00:12:24.440-00:12:27.820 | Kenzo] Ah, fifty feet. Okay, all right,
 [u0124 | 00:12:28.230-00:12:30.940 | DM] if you use your ring of jumping and you spend a ki.
@@ -140,7 +140,7 @@
 [u0140 | 00:13:47.930-00:13:51.860 | Kenzo] something and a something a large that flies
 [u0141 | 00:13:52.060-00:13:53.560 | Kenzo] about that large enough.
 [u0142 | 00:13:53.940-00:13:55.479 | Kenzo] What about like a pterodactyl?
-[u0143 | 00:13:56.060-00:14:01.039 | DM] There we go. Yeah, that would be large enough, {{and twice that's on them}}.
+[u0143 | 00:13:56.060-00:14:01.039 | DM] There we go. Yeah, that would be large enough, and twice that's on them.
 [u0144 | 00:14:01.950-00:14:03.060 | Unknown] Toss it.
 [u0145 | 00:14:03.180-00:14:04.360 | Izzarak] Uh!
 [u0146 | 00:14:04.800-00:14:07.810 | Izzarak] Why, yes, I can transform into flying dinosaur
@@ -151,7 +151,7 @@
 [u0151 | 00:14:18.410-00:14:20.349 | DM] do you think you could
 [u0152 | 00:14:21.280-00:14:22.610 | DM] carry me,
 [u0153 | 00:14:24.230-00:14:26.100 | Izzarak] Tim? A question?
-[u0154 | 00:14:26.750-00:14:38.530 | DM] I mean, Yeah, if you're turning into a large creature, the babies are are small, {{or you can hold the babies in right on your back}}. I'm sure I could jump with them, holding one of the babies too.
+[u0154 | 00:14:26.750-00:14:38.530 | DM] I mean, Yeah, if you're turning into a large creature, the babies are are small, or you can hold the babies and ride on your back. I'm sure I could jump with them, holding one of the babies too.
 [u0155 | 00:14:43.170-00:14:45.549 | Izzarak] Yes, let's give it a try
 [u0156 | 00:14:45.930-00:14:46.820 | Izzarak] um.
 [u0157 | 00:14:49.120-00:14:50.799 | Izzarak] So I cast.
@@ -163,7 +163,7 @@
 [u0163 | 00:15:12.610-00:15:15.959 | Kenzo] A brief rest sounds fine. Is it safer on the other side.
 [u0164 | 00:15:17.670-00:15:23.499 | Kenzo] I can't imagine anywhere in this forest is a safe place for a night's sleep.
 [u0165 | 00:15:23.610-00:15:27.479 | Kenzo] You have a chance to get your spell slot back if you if you do it, you just short rest after
-[u0166 | 00:15:28.940-00:15:39.450 | Izzarak] I don't think I {{I don't only jaw with gets spell it stuff that's back on short rest}}, {{so I keep that on short rest}}. Right. You get ki back on the short rest.
+[u0166 | 00:15:28.940-00:15:39.450 | Izzarak] I don't think I I don't... only warlocks get spell slots back on short rest, so I get ki back on short rest. Right. You get ki back on the short rest.
 [u0167 | 00:15:45.050-00:15:46.810 | DM] Well, let's see this.
 [u0168 | 00:15:49.580-00:15:53.010 | DM] Let's see this creature that you can turn into.
 [u0169 | 00:15:53.030-00:15:55.340 | Izzarak] Uh, so Izzarak
@@ -174,7 +174,7 @@
 [u0174 | 00:16:08.760-00:16:11.089 | Izzarak] There's a sort of spinning transformation
 [u0175 | 00:16:11.770-00:16:13.330 | Kenzo] as he crouches down
 [u0176 | 00:16:13.690-00:16:16.569 | Izzarak] and expands outward into
-[u0177 | 00:16:20.050-00:16:21.880 | Izzarak] {{twenty. Could I be}}?
+[u0177 | 00:16:20.050-00:16:21.880 | Izzarak] what could I be?
 [u0178 | 00:16:22.100-00:16:27.850 | DM] Do we have it? Yeah, we're using the regular Taelgar
 [u0179 | 00:16:28.770-00:16:30.650 | DM] Revisited for this.
 [u0180 | 00:16:30.880-00:16:31.870 | Izzarak] Okay,
@@ -258,7 +258,7 @@
 [u0258 | 00:22:33.520-00:22:39.510 | DM] So So you do know. So actually you would know a little bit of this.
 [u0259 | 00:22:40.250-00:22:41.310 | DM] Ah,
 [u0260 | 00:22:42.590-00:22:46.710 | DM] so you you haven't heard the name Motua before, but
-[u0261 | 00:22:47.190-00:22:52.610 | DM] the geard or sorry Gidari
+[u0261 | 00:22:47.190-00:22:52.610 | DM] the Gidar or sorry Gidari
 [u0262 | 00:22:53.280-00:22:55.710 | DM] are a
 [u0263 | 00:22:56.190-00:23:07.009 | DM] at least according to lizardfolk myth and legend. So there's the There's the land of the dead, where all souls who die. Go. It's sort of the transition between
 [u0264 | 00:23:07.350-00:23:13.410 | DM] the spirit realms and between the material plane and the realms of the gods.
@@ -300,7 +300,7 @@
 [u0300 | 00:26:25.870-00:26:27.670 | DM] anybody.
 [u0301 | 00:26:32.830-00:26:34.340 | Kenzo] I just
 [u0302 | 00:26:34.930-00:26:39.329 | Kenzo] wonder if there's a way we can reason with this with this serpent, and not have to do battle,
-[u0303 | 00:26:43.810-00:26:45.900 | Izzarak] and we learn that it takes it does take {{the former}}
+[u0303 | 00:26:43.810-00:26:45.900 | Izzarak] and we learn that it takes it does take the form of
 [u0304 | 00:26:46.860-00:26:47.890 | Unknown] right.
 [u0305 | 00:26:51.800-00:26:55.349 | Izzarak] I look back at the river of lava for a minute.
 [u0306 | 00:26:56.040-00:26:58.270 | Unknown] Does behave strangely like it.
@@ -318,7 +318,7 @@
 [u0318 | 00:27:54.490-00:27:56.770 | DM] when you can put your hand like you,
 [u0319 | 00:27:57.070-00:28:14.979 | DM] six inches from the lava, and don't feel any heat, and if you go a little closer, and when you're like a couple inches away it starts to feel hot, and then like intensely hot, and you pull back before you can touch it. But there's a much steeper heat gradient than is natural,
 [u0320 | 00:28:16.140-00:28:18.709 | Izzarak] and make sure to keep the babies well clear.
-[u0321 | 00:28:19.870-00:28:21.860 | Izzarak] {{Be submitted to any experiment}}.
+[u0321 | 00:28:19.870-00:28:21.860 | Izzarak] Be submitted to any experiment.
 [u0322 | 00:28:26.040-00:28:32.169 | Kenzo] Your audio is a little off. By the way, it's like a little quiet or a weird
 [u0323 | 00:28:32.650-00:28:38.039 | Kenzo] Tim. Are you getting that, too? Eric's audio is like a little quieter, a little muffled. Suddenly.
 [u0324 | 00:28:39.220-00:28:44.699 | Kenzo] I I I'm, I'm hearing it. Okay, Okay, All right. There's just
@@ -329,7 +329,7 @@
 [u0329 | 00:29:10.010-00:29:13.489 | Izzarak] like there's a boundary around it, or uh
 [u0330 | 00:29:15.660-00:29:16.690 | Izzarak] a zone
 [u0331 | 00:29:17.180-00:29:19.080 | Izzarak] into which it's intruded.
-[u0332 | 00:29:19.350-00:29:20.720 | Izzarak] Only perfect.
+[u0332 | 00:29:19.350-00:29:20.720 | Izzarak] Only partially.
 [u0333 | 00:29:22.840-00:29:26.029 | Izzarak] Is there a sharp edge around it, like where it
 [u0334 | 00:29:26.490-00:29:28.060 | Izzarak] can flow, and where it can't.
 [u0335 | 00:29:29.720-00:29:44.819 | DM] I mean where it's flowing. It's burned everything in its path, so there is now a sharp edge. Whether there was a sharp edge before is difficult to say, and it's not changing. Is it the shape of No,
@@ -337,7 +337,7 @@
 [u0337 | 00:29:47.660-00:29:49.730 | DM] out from its edge.
 [u0338 | 00:29:59.550-00:30:01.749 | Izzarak] We'll have to cross all that water
 [u0339 | 00:30:02.400-00:30:04.970 | Izzarak] that will provide a challenge of its own as well.
-[u0340 | 00:30:05.870-00:30:09.760 | Izzarak] I can take that pteranodon form again, but {{not for it}}.
+[u0340 | 00:30:05.870-00:30:09.760 | Izzarak] I can take that pteranodon form again, but not forever.
 [u0341 | 00:30:15.160-00:30:18.909 | DM] I mean the the lake formed by this is
 [u0342 | 00:30:19.300-00:30:20.320 | DM] so I
 [u0343 | 00:30:20.420-00:30:23.620 | DM] It's I mean, Yeah, it's probably,
@@ -390,7 +390,7 @@
 [u0390 | 00:33:59.080-00:34:02.120 | DM] And you're You're able to be pretty
 [u0391 | 00:34:03.220-00:34:05.600 | DM] uh pretty stealthy.
 [u0392 | 00:34:06.190-00:34:07.400 | DM] Ah,
-[u0393 | 00:34:12.020-00:34:17.029 | DM] it takes {{a cup an hour}}, maybe, to get to the edge of this lake
+[u0393 | 00:34:12.020-00:34:17.029 | DM] it takes a couple... an hour, maybe, to get to the edge of this lake
 [u0394 | 00:34:17.230-00:34:28.679 | DM] the sort of flooded jungle, and you can see that the so you're You're sort of coming down off the slope, off a gentle slope off the side of the volcano into what used to be
 [u0395 | 00:34:28.710-00:34:30.599 | DM] um a basin
 [u0396 | 00:34:30.630-00:34:33.829 | DM] like a a low point in the ground,
@@ -398,7 +398,7 @@
 [u0398 | 00:34:38.460-00:34:53.340 | DM] at just an expanse of of water that starts quite shallow. But as you look out you can see there it gets deeper and deeper because the the tops of the trees get lower, and the water gets higher relative to the tops of the trees.
 [u0399 | 00:34:53.780-00:35:01.070 | DM] It's there's some mist, and and you know from the pterosaur scouting that there is
 [u0400 | 00:35:01.700-00:35:02.669 | DM] ah
-[u0401 | 00:35:03.220-00:35:15.300 | DM] more mist {{that the the of this thing}}, and actually from Kenzo's communing with the jungle, you can still actually feel the pull towards the middle of this
+[u0401 | 00:35:03.220-00:35:15.300 | DM] more mist at the center of this thing, and actually from Kenzo's communing with the jungle, you can still actually feel the pull towards the middle of this
 [u0402 | 00:35:15.850-00:35:23.020 | DM] of this jungle, the the sort of low point of this basin, where there's you can feel this kind of uh
 [u0403 | 00:35:23.660-00:35:29.049 | DM] spiritual pull of something. It almost now feels like something's tugging at
 [u0404 | 00:35:30.060-00:35:32.230 | DM] at you at your
@@ -410,18 +410,18 @@
 [u0410 | 00:35:52.200-00:35:59.639 | DM] reaches into his pouch, and and takes this sort of a very, very dark black dust
 [u0411 | 00:35:59.770-00:36:11.580 | DM] blows it in. It forms this sort of cloud that clusters around you that shadows you and hides you from view. It's not invisibility, but it gives you a plus ten to stealth.
 [u0412 | 00:36:13.300-00:36:15.410 | Izzarak] Sweet
-[u0413 | 00:36:16.930-00:36:24.139 | Kenzo] Metagame. I still can use speak with plants. So we think of a use for speaking purple with plants.
+[u0413 | 00:36:16.930-00:36:24.139 | Kenzo] Metagame. I still can use speak with plants. So we think of a use for speaking with plants.
 [u0414 | 00:36:26.100-00:36:28.259 | Kenzo] You know, when we get closer,
 [u0415 | 00:36:28.360-00:36:41.859 | Kenzo] what what are the most intelligent plants that I've learned about that Kenzo has learned about in this like what are like the most intelligent plants I mean trees, the the taller and older a tree is, the more it's likely to have seen and remembered
 [u0416 | 00:36:41.910-00:36:42.859 | Izzarak] right
-[u0417 | 00:36:43.440-00:36:44.399 | Kenzo] part.
+[u0417 | 00:36:43.440-00:36:44.399 | Kenzo] Perfect.
 [u0418 | 00:36:44.960-00:36:46.659 | Kenzo] I want to talk with a tree.
 [u0419 | 00:36:47.320-00:36:49.309 | Kenzo] It can tell me something about Motua.
 [u0420 | 00:36:50.740-00:36:55.330 | Kenzo] I just don't want to like I'm like I'm sure we could come and kill Motua in a combat
 [u0421 | 00:36:56.400-00:36:58.259 | Kenzo] was like, I want to figure out like,
 [u0422 | 00:36:58.880-00:37:08.429 | Kenzo] you know. Maybe we just sacrifice the babies. You know what I mean. I don't know. You know it's like I got to be some way to like like. Not just like kill Motua. You know what I mean, right?
 [u0423 | 00:37:08.530-00:37:13.060 | Kenzo] It must be like a trade or a bargain. Something we can learn about him or something. He wants
-[u0424 | 00:37:13.500-00:37:14.490 | Unknown] the final
+[u0424 | 00:37:13.500-00:37:14.490 | Unknown] to find out
 [u0425 | 00:37:15.560-00:37:16.529 | Unknown] right.
 [u0426 | 00:37:17.280-00:37:19.099 | Izzarak] The babies are a puzzle because it
 [u0427 | 00:37:21.060-00:37:22.860 | Kenzo] none of us want to be there right
@@ -556,8 +556,8 @@
 [u0556 | 00:48:01.560-00:48:04.880 | DM] I do not know what has happened to her in this water.
 [u0557 | 00:48:07.830-00:48:09.350 | DM] She was a
 [u0558 | 00:48:11.400-00:48:14.430 | DM] she was home to a spirit.
-[u0559 | 00:48:17.430-00:48:18.720 | DM] Allua.
-[u0560 | 00:48:22.940-00:48:25.709 | DM] I don't know if Allua could survive.
+[u0559 | 00:48:17.430-00:48:18.720 | DM] Eleuha.
+[u0560 | 00:48:22.940-00:48:25.709 | DM] I don't know if Eleuha could survive.
 [u0561 | 00:48:29.470-00:48:31.500 | DM] She was not a tall tree
 [u0562 | 00:48:33.630-00:48:35.020 | DM] not like me.
 [u0563 | 00:48:39.920-00:48:43.780 | DM] I have not seen her floating past. I have not felt her
@@ -648,7 +648,7 @@
 [u0648 | 00:55:41.860-00:55:45.349 | DM] where this sensation is weaker, and where it's stronger,
 [u0649 | 00:55:46.320-00:55:49.899 | DM] it seems to be running in towards the middle of the
 [u0650 | 00:55:49.930-00:55:51.699 | DM] of the um.
-[u0651 | 00:55:52.690-00:55:56.029 | DM] {{What did John call you?}} Just follow it.
+[u0651 | 00:55:52.690-00:55:56.029 | DM] flooded jungle. You Just follow it.
 [u0652 | 00:55:56.150-00:55:57.060 | Kenzo] Yeah,
 [u0653 | 00:55:57.450-00:55:58.939 | Kenzo] we're going there, anyways.
 [u0654 | 00:55:59.240-00:56:03.479 | Izzarak] While Kenzo talks to the tree. Izzarak will
@@ -709,7 +709,7 @@
 [u0709 | 01:01:05.640-01:01:07.429 | Izzarak] perch the babies
 [u0710 | 01:01:08.060-01:01:09.580 | Izzarak] on a branch of the tree
 [u0711 | 01:01:10.490-01:01:12.649 | Izzarak] and dive down.
-[u0712 | 01:01:18.240-01:01:24.070 | Izzarak] What were the babies' names again? Do you remember I made them up {{last to know that they wrote it down}}?
+[u0712 | 01:01:18.240-01:01:24.070 | Izzarak] What were the babies' names again? Do you remember I made them up last time. I don't know that I wrote it down?
 [u0713 | 01:01:29.650-01:01:30.839 | DM] Ah,
 [u0714 | 01:01:30.980-01:01:33.539 | Izzarak] Zan and Zach something like that.
 [u0715 | 01:01:34.100-01:01:43.460 | DM] Okay, um. So you dive down, Kenzo, You're kind of waiting um Enari is just kind of keeping an eye around.
@@ -742,8 +742,8 @@
 [u0742 | 01:03:39.060-01:03:41.120 | DM] What are you doing here?
 [u0743 | 01:03:43.440-01:03:45.469 | DM] Addressing the babies?
 [u0744 | 01:03:51.890-01:03:56.079 | Kenzo] They didn't say anything. Did the tree say the name of the daughter?
-[u0745 | 01:03:57.320-01:03:58.560 | DM] Allua
-[u0746 | 01:03:59.280-01:04:01.529 | Kenzo] Kenzo says Allua,
+[u0745 | 01:03:57.320-01:03:58.560 | DM] Eleuha
+[u0746 | 01:03:59.280-01:04:01.529 | Kenzo] Kenzo says Eleuha,
 [u0747 | 01:04:03.550-01:04:04.989 | DM] Who are you
 [u0748 | 01:04:09.600-01:04:11.189 | Kenzo] Can I soul-sight a little bit?
 [u0749 | 01:04:12.330-01:04:14.459 | DM] Ah!
@@ -799,7 +799,7 @@
 [u0799 | 01:08:32.880-01:08:35.380 | Izzarak] And as you're searching around
 [u0800 | 01:08:35.529-01:08:37.250 | DM] the uh
 [u0801 | 01:08:37.899-01:08:39.189 | DM] that, the
-[u0802 | 01:08:39.340-01:08:44.669 | DM] tree spirit um Allua looks back at Kenzo and says,
+[u0802 | 01:08:39.340-01:08:44.669 | DM] tree spirit um Eleuha looks back at Kenzo and says,
 [u0803 | 01:08:45.800-01:08:47.749 | DM] I don't know about you.
 [u0804 | 01:08:49.420-01:08:50.759 | DM] You're coming from.
 [u0805 | 01:08:51.920-01:08:57.379 | DM] You say you want peace and to help us, and yet you disavow responsibility for
@@ -813,8 +813,8 @@
 [u0813 | 01:09:46.069-01:09:46.969 | Unknown] here.
 [u0814 | 01:09:47.060-01:09:58.210 | DM] I did not know that they were the children of Lengau, but I have so only because they're important babies they're worth protecting. If they were unimportant babies you just let them drown.
 [u0815 | 01:09:59.100-01:10:05.700 | Kenzo] I'm protecting them, no matter what we just like. Do you see how damaged I am right now? This is all from protecting them earlier
-[u0816 | 01:10:05.720-01:10:21.390 | Kenzo] Is fucking Izzarak back yet? what the fuck. What, Izzarak's? Back? Izzarak pops his head up. In the middle of this conversation. Izzarak, guardian of the babies, will you please please meet my new friend Allua, and please explain the baby situation to her. Please.
-[u0817 | 01:10:22.010-01:10:27.110 | Izzarak] Wonderful to meet you Allua. If you'll. If you'll forgive me, they might need a snack.
+[u0816 | 01:10:05.720-01:10:21.390 | Kenzo] Is fucking Izzarak back yet? what the fuck. What, Izzarak's? Back? Izzarak pops his head up. In the middle of this conversation. Izzarak, guardian of the babies, will you please please meet my new friend Eleuha, and please explain the baby situation to her. Please.
+[u0817 | 01:10:22.010-01:10:27.110 | Izzarak] Wonderful to meet you Eleuha. If you'll. If you'll forgive me, they might need a snack.
 [u0818 | 01:10:27.160-01:10:28.050 | Izzarak] I just
 [u0819 | 01:10:28.290-01:10:30.059 | Izzarak] put them on my back once again,
 [u0820 | 01:10:30.390-01:10:31.280 | Izzarak] and
@@ -854,7 +854,7 @@
 [u0854 | 01:12:44.270-01:12:46.100 | Izzarak] asked me this favor.
 [u0855 | 01:12:47.950-01:12:49.530 | Izzarak] Take these two littles
 [u0856 | 01:12:51.360-01:12:52.599 | Izzarak] here to the footprint.
-[u0857 | 01:12:53.680-01:12:56.349 | Izzarak] {{Was that a? But then, to do them I didn't know.}}
+[u0857 | 01:12:53.680-01:12:56.349 | Izzarak] What then to do with them I didn't know.
 [u0858 | 01:13:00.640-01:13:02.659 | DM] Maybe you are needed.
 [u0859 | 01:13:14.660-01:13:17.080 | Kenzo] What does all of this have to do with Motua
 [u0860 | 01:13:20.160-01:13:21.599 | DM] Motua
@@ -886,7 +886,7 @@
 [u0886 | 01:14:59.380-01:15:02.519 | DM] driven off by Motua, I think.
 [u0887 | 01:15:04.050-01:15:08.409 | Izzarak] But why would he send me here with these two little ones.
 [u0888 | 01:15:09.860-01:15:12.390 | Izzarak] Did you say that they were his children?
-[u0889 | 01:15:14.170-01:15:15.589 | DM] They are there.
+[u0889 | 01:15:14.170-01:15:15.589 | DM] They are the...
 [u0890 | 01:15:17.370-01:15:18.429 | Unknown] Hmm.
 [u0891 | 01:15:19.580-01:15:21.980 | DM] The wards of this place.
 [u0892 | 01:15:23.320-01:15:24.730 | DM] They are
@@ -1007,7 +1007,7 @@
 [u1007 | 01:25:20.990-01:25:25.079 | DM] Uh, that was like some ritual that
 [u1008 | 01:25:25.500-01:25:26.719 | DM] Ah,
 [u1009 | 01:25:27.530-01:25:37.499 | DM] what was his name? Um, that was Elazar yeah, the lizardfolk. Yeah, there's not an easy way for you to get there on your own
-[u1010 | 01:25:38.130-01:25:40.870 | Kenzo] Kenzo. Looks at um, Allua.
+[u1010 | 01:25:38.130-01:25:40.870 | Kenzo] Kenzo. Looks at um, Eleuha.
 [u1011 | 01:25:42.390-01:25:44.010 | DM] Um, Yeah,
 [u1012 | 01:25:45.960-01:25:48.510 | DM] the the dryad,
 [u1013 | 01:25:48.610-01:25:49.890 | Kenzo] the dryad. Yeah.
@@ -1030,7 +1030,7 @@
 [u1030 | 01:26:55.990-01:26:57.809 | DM] almost sounds like
 [u1031 | 01:26:57.900-01:27:01.040 | DM] chains rattling and screams
 [u1032 | 01:27:03.000-01:27:04.570 | DM] very unsettling,
-[u1033 | 01:27:07.980-01:27:09.939 | Izzarak] {{so you can take a this tree}}.
+[u1033 | 01:27:07.980-01:27:09.939 | Izzarak] so you can take a this tree.
 [u1034 | 01:27:11.510-01:27:12.340 | Unknown] That's it.
 [u1035 | 01:27:12.490-01:27:19.299 | DM] No, I I I can't take you to the plane of souls. I I wouldn't even know the first thing about getting there. I I I
 [u1036 | 01:27:20.080-01:27:23.470 | DM] I'm a spirit who lives in a tree. What do you take me for,
@@ -1041,8 +1041,8 @@
 [u1041 | 01:27:38.340-01:27:41.750 | DM] I guess I can do the second one I can't walk on water
 [u1042 | 01:27:43.170-01:27:44.800 | Kenzo] Izzarak, what was your question?
 [u1043 | 01:27:45.890-01:27:48.040 | Izzarak] Oh, do you travel from here to
-[u1044 | 01:27:49.360-01:27:50.560 | Izzarak] {{it is another part of the}}
-[u1045 | 01:27:51.100-01:27:52.990 | Izzarak] {{you've been disabled to it yourself}}.
+[u1044 | 01:27:49.360-01:27:50.560 | Izzarak] to this other part of the
+[u1045 | 01:27:51.100-01:27:52.990 | Izzarak] you've been able to visit it yourself.
 [u1046 | 01:27:53.160-01:27:54.920 | Izzarak] How do you know these things about them?
 [u1047 | 01:27:57.140-01:27:58.420 | DM] Just listen.
 [u1048 | 01:28:02.290-01:28:04.380 | DM] You can feel it in the water,
@@ -1053,7 +1053,7 @@
 [u1053 | 01:28:25.940-01:28:30.389 | DM] just Don't get sucked into the plane of water. If you go to confront Motua?
 [u1054 | 01:28:34.390-01:28:35.410 | Izzarak] I wonder if we might
 [u1055 | 01:28:35.770-01:28:38.510 | Izzarak] deposit the little ones here with you,
-[u1056 | 01:28:39.020-01:28:39.899 | Izzarak] {{since keeping to}}
+[u1056 | 01:28:39.020-01:28:39.899 | Izzarak] for safekeeping too
 [u1057 | 01:28:42.260-01:28:43.919 | Unknown] it will be dangerous where we're going.
 [u1058 | 01:28:50.430-01:28:53.720 | DM] I I would be happy to.
 [u1059 | 01:28:53.910-01:28:54.809 | Unknown] If
@@ -1062,14 +1062,14 @@
 [u1062 | 01:29:03.950-01:29:05.420 | DM] Be careful
 [u1063 | 01:29:05.770-01:29:06.740 | Unknown] exactly.
 [u1064 | 01:29:08.170-01:29:10.670 | Izzarak] We'll have to do our best to protect them. Anyway,
-[u1065 | 01:29:12.490-01:29:15.720 | Kenzo] all right. Kenzo gives thanks to Allua,
-[u1066 | 01:29:20.650-01:29:23.060 | Kenzo] Kenzo gives thanks to Allua.
+[u1065 | 01:29:12.490-01:29:15.720 | Kenzo] all right. Kenzo gives thanks to Eleuha,
+[u1066 | 01:29:20.650-01:29:23.060 | Kenzo] Kenzo gives thanks to Eleuha.
 [u1067 | 01:29:23.270-01:29:25.760 | Kenzo] Looks at the lizardfolk, and It's like
 [u1068 | 01:29:27.270-01:29:33.499 | Kenzo] I'm trying to fact. Figure out a peaceful way to do this. But clearly we gotta go kill a snake and or
 [u1069 | 01:29:33.570-01:29:38.870 | Kenzo] pull out like a giant thorn that's in the snake side or something. But we need to go through the vortex.
 [u1070 | 01:29:39.200-01:29:42.050 | Izzarak] I I get the sense that the snake is trapped somewhere.
 [u1071 | 01:29:44.310-01:29:45.650 | Unknown] Chapter two
-[u1072 | 01:29:45.680-01:29:50.129 | Kenzo] Has a wound, maybe that we need to fix {{stuck}}.
+[u1072 | 01:29:45.680-01:29:50.129 | Kenzo] Has a wound, maybe that we need to fix stuck.
 [u1073 | 01:29:50.320-01:29:56.660 | DM] I mean, you saw you saw that that that Motua was wounded in the dream world.
 [u1074 | 01:30:00.060-01:30:03.940 | Kenzo] Can you describe to me again with what what I what K. I saw in the dream world? Sorry.
 [u1075 | 01:30:04.190-01:30:07.569 | DM] All you saw was a
@@ -1091,7 +1091,7 @@
 [u1091 | 01:31:31.950-01:31:32.980 | DM] ah
 [u1092 | 01:31:33.080-01:31:41.380 | DM] lakes behind dams where there's a drain from the dam under the water, and it's just this like clear surface. Then there's just this, like.
 [u1093 | 01:31:41.410-01:31:43.519 | DM] Ah, massive,
-[u1094 | 01:31:43.920-01:31:46.510 | DM] We're all sort of like,
+[u1094 | 01:31:43.920-01:31:46.510 | DM] whirl sort of like,
 [u1095 | 01:31:47.830-01:31:49.740 | Izzarak] you know. Uh
 [u1096 | 01:31:52.720-01:31:54.290 | DM] uh here,
 [u1097 | 01:31:55.370-01:31:56.480 | DM] Um,
@@ -1104,7 +1104,7 @@
 [u1104 | 01:32:21.530-01:32:24.040 | DM] Wait. You want to swim into the whirlpool.
 [u1105 | 01:32:24.570-01:32:26.280 | Kenzo] Is that where the vortex is?
 [u1106 | 01:32:26.310-01:32:27.719 | Izzarak] That sounds dangerous
-[u1107 | 01:32:28.660-01:32:37.590 | DM] uh That's where the that's where the portal to the elemental plane of water is. Motua is on the other side of the {{port of}} the whirlpool.
+[u1107 | 01:32:28.660-01:32:37.590 | DM] uh That's where the that's where the portal to the elemental plane of water is. Motua is on the other side of the por... the whirlpool.
 [u1108 | 01:32:39.490-01:32:57.850 | DM] What's the like? There's like mists and fog on the other side of the whirlpool, like if you can somehow manage to get around it. There's like mist and fog on the other side. There's another side, as in like through the pool right right right? Right? Right? Sorry
 [u1109 | 01:32:57.960-01:33:02.319 | DM] All good, all right, but the current is now getting pretty strong,
 [u1110 | 01:33:03.640-01:33:07.710 | DM] like. If you get any closer you risk getting swept into it.
@@ -1123,7 +1123,7 @@
 [u1123 | 01:34:45.340-01:34:46.690 | DM] Ah,
 [u1124 | 01:34:47.680-01:34:50.609 | DM] that will be athletics.
 [u1125 | 01:34:51.330-01:34:52.889 | DM] Um!
-[u1126 | 01:34:54.590-01:34:58.560 | DM] He's got a good O, okay. He is totally fine. He swims
+[u1126 | 01:34:54.590-01:34:58.560 | DM] He's got a good... Oh, okay. He is totally fine. He swims
 [u1127 | 01:34:58.600-01:35:04.220 | DM] about a third of the way around. And what are you doing? Izzarak?
 [u1128 | 01:35:04.870-01:35:09.780 | Izzarak] I was just looking at wild shape to see if I should turn into a fish or something. But
 [u1129 | 01:35:09.960-01:35:10.800 | Izzarak] oh,
@@ -1182,7 +1182,7 @@
 [u1182 | 01:39:40.850-01:39:46.639 | DM] um Enari and Kenzo. Enari and Kenzo are a bit ahead of you.
 [u1183 | 01:39:46.720-01:39:49.260 | DM] Uh, Kenzo, What are you doing?
 [u1184 | 01:39:50.580-01:39:53.430 | Kenzo] Um! Can I get out and run again?
-[u1185 | 01:39:54.420-01:39:57.599 | Izzarak] Ah, you know, just stand up {{overwhelming}}.
+[u1185 | 01:39:54.420-01:39:57.599 | Izzarak] Ah, you know, just stand up while swimming.
 [u1186 | 01:40:01.970-01:40:06.330 | DM] That's an interesting question. I don't think you can really just stand up
 [u1187 | 01:40:07.280-01:40:12.509 | DM] right. So the idea! The idea is you're sort of once you're moving. You're moving. But you
 [u1188 | 01:40:14.000-01:40:15.210 | DM] uh
@@ -1200,8 +1200,8 @@
 [u1200 | 01:41:15.300-01:41:23.269 | DM] uh has a plus twelve Athletics. So Oh, No, Enari gets pulled.
 [u1201 | 01:41:24.810-01:41:29.759 | DM] He takes six points of damage and starts to get pulled
 [u1202 | 01:41:29.910-01:41:31.139 | DM] now
-[u1203 | 01:41:31.170-01:41:37.199 | DM] closer to the vortex, and, like more tentacles, are now {{starting to on him}}.
-[u1204 | 01:41:37.370-01:41:40.229 | DM] Uh, let's see, {{Ken, Is it two}}?
+[u1203 | 01:41:31.170-01:41:37.199 | DM] closer to the vortex, and, like more tentacles, are now starting to grab onto him.
+[u1204 | 01:41:37.370-01:41:40.229 | DM] Uh, let's see, Ken, is it you?
 [u1205 | 01:41:40.460-01:41:42.210 | DM] Ah Izzarak
 [u1206 | 01:41:42.250-01:41:43.949 | DM] continue to swim?
 [u1207 | 01:41:45.350-01:41:47.840 | DM] Another d twenty plus eight.
@@ -1316,7 +1316,7 @@
 [u1316 | 01:50:57.460-01:50:58.570 | DM] and you,
 [u1317 | 01:50:59.460-01:51:01.010 | DM] as you walk
 [u1318 | 01:51:01.090-01:51:03.720 | DM] like you occasionally get this.
-[u1319 | 01:51:04.740-01:51:08.329 | DM] You hear a sort of Kenzo distant,
+[u1319 | 01:51:04.740-01:51:08.329 | DM] You hear a sort of kind of distant,
 [u1320 | 01:51:09.500-01:51:13.000 | DM] soft, and close. It's hard to say which.
 [u1321 | 01:51:13.710-01:51:15.260 | DM] Um uh!
 [u1322 | 01:51:17.190-01:51:21.110 | DM] Not exactly a scream, but more like a hiss of pain,
@@ -1476,7 +1476,7 @@
 [u1476 | 02:01:44.420-02:01:46.249 | DM] I didn't know what to do.
 [u1477 | 02:01:47.300-02:01:49.710 | DM] I tried to help my brother.
 [u1478 | 02:01:52.380-02:01:53.510 | DM] He
-[u1479 | 02:01:54.210-02:01:55.929 | DM] he had {{an inner}}.
+[u1479 | 02:01:54.210-02:01:55.929 | DM] he had an inn.
 [u1480 | 02:01:57.100-02:01:59.850 | DM] I tried to keep the farm going, but
 [u1481 | 02:02:00.250-02:02:03.030 | DM] the land was sick,
 [u1482 | 02:02:04.650-02:02:06.010 | DM] even though
@@ -1511,7 +1511,7 @@
 [u1511 | 02:04:19.300-02:04:20.840 | DM] emerging like
 [u1512 | 02:04:21.100-02:04:25.849 | DM] I guess you were just sort of meditating focused on this wound.
 [u1513 | 02:04:25.890-02:04:27.300 | DM] Step out,
-[u1514 | 02:04:29.190-02:04:31.029 | DM] Come back! No, too at
+[u1514 | 02:04:29.190-02:04:31.029 | DM] Come back! Motua
 [u1515 | 02:04:31.260-02:04:40.399 | Kenzo] It's just to go back really quick. When Motua started speaking and telling me his story like it. First, I was recording
 [u1516 | 02:04:40.750-02:05:06.480 | Kenzo] like I start like when I when I do stories on the staff. It's like there's like each. Each story is like I I the story to like, use me, and like the the essence of like whoever's telling the story to like shape, so it's like it's like the runes are all different. You know what I mean, because depending on who's telling the story like the the the story writes itself differently. You know I'm just a vessel for the story to like, manifest itself and carve itself into the thing.
 [u1517 | 02:05:06.600-02:05:09.560 | Kenzo] So when Motua started telling the story,
@@ -1525,7 +1525,7 @@
 [u1525 | 02:05:54.580-02:06:05.720 | DM] get on to you almost as if they're reaching for you or the babies. What are you doing? Izzarak then back to Kenzo Um, and you also see that there's that there's um.
 [u1526 | 02:06:06.620-02:06:18.119 | DM] There's shadows that are starting to emerge from the ground, and Enari is like running to try and keep the shadows off of you. He says I, I'll handle these. You
 [u1527 | 02:06:18.320-02:06:19.990 | DM] deal with that thing
-[u1528 | 02:06:20.500-02:06:24.880 | Kenzo] Kenzo is going to go. Um! Oh, sorry it's not my turn Enari or {{He's}}
+[u1528 | 02:06:20.500-02:06:24.880 | Kenzo] Kenzo is going to go. Um! Oh, sorry it's not my turn Enari or Izzarak
 [u1529 | 02:06:24.980-02:06:30.420 | Kenzo] Kenzo is going to shout first, and he's just going to shout, Do your best. I'm going to heal Motua.
 [u1530 | 02:06:40.130-02:06:43.399 | Izzarak] What type of damage do these chains cause?
 [u1531 | 02:06:44.280-02:06:48.310 | DM] Ah, you don't know neither one hit none of them hit you.
@@ -1550,7 +1550,7 @@
 [u1550 | 02:08:33.520-02:08:35.559 | Izzarak] over there
 [u1551 | 02:08:35.920-02:08:38.520 | Izzarak] detect the presence of
 [u1552 | 02:08:39.140-02:08:42.460 | Izzarak] the elementals, I guess I don't
-[u1553 | 02:08:48.810-02:08:50.660 | Izzarak] my stuff he we do.
+[u1553 | 02:08:48.810-02:08:50.660 | Izzarak] my stuff. Here we go.
 [u1554 | 02:08:52.590-02:08:55.859 | Izzarak] Can I try like a healing spell on Motua?
 [u1555 | 02:08:58.800-02:09:02.969 | Kenzo] I think what healing is is what I'm doing, which is like listening to the
 [u1556 | 02:09:03.510-02:09:05.110 | Izzarak] therapeutic healing.
@@ -1561,7 +1561,7 @@
 [u1561 | 02:09:20.000-02:09:27.320 | DM] I mean, they're like writhing, in melee with you. If you back away they'll all get opportunity attacks on you, but you can certainly do that.
 [u1562 | 02:09:36.130-02:09:37.580 | Izzarak] Maybe I can try to
 [u1563 | 02:09:38.390-02:09:40.339 | Izzarak] using the Wrath of Nature
-[u1564 | 02:09:41.490-02:09:43.589 | Izzarak] {{is there? I would keep them}}.
+[u1564 | 02:09:41.490-02:09:43.589 | Izzarak] is there? I would keep them.
 [u1565 | 02:09:54.030-02:09:57.130 | DM] I mean, there's lots of trees around, too. So
 [u1566 | 02:09:59.260-02:10:00.530 | Izzarak] in this part of this.
 [u1567 | 02:10:03.300-02:10:06.799 | DM] There's lots of trees around, too, so you So the
@@ -1571,14 +1571,14 @@
 [u1571 | 02:10:17.720-02:10:20.449 | Izzarak] I can use roots and vines to restrain,
 [u1572 | 02:10:23.100-02:10:25.829 | DM] and you can also throw rocks at things
 [u1573 | 02:10:27.250-02:10:30.920 | Izzarak] All right. So I'll use Wrath of Nature. Okay,
-[u1574 | 02:10:39.300-02:10:43.249 | Izzarak] and it's sixty-foot {{to the}} trees, rocks, and grasses,
+[u1574 | 02:10:39.300-02:10:43.249 | Izzarak] and it's sixty-foot cube trees, rocks, and grasses,
 [u1575 | 02:10:46.320-02:10:48.059 | DM] so that the
 [u1576 | 02:10:48.460-02:10:54.999 | DM] the land itself just kind of comes under your control, and the um,
 [u1577 | 02:10:56.610-02:11:10.899 | DM] the undergrowth and grass starts to grasp at the chains and keep them slow them down. Ah! You can see that all the trees around here are like sort of moving in your under your control, and um!
 [u1578 | 02:11:13.320-02:11:19.610 | DM] You can launch a rock at one of them. You'll have disadvantage because you're in melee, but you can make a
 [u1579 | 02:11:19.760-02:11:22.989 | DM] ranged spell attack with disadvantage and see if you hit.
 [u1580 | 02:11:25.180-02:11:26.519 | Izzarak] Uh yeah, okay,
-[u1581 | 02:11:27.810-02:11:29.600 | Izzarak] they do the click, the scale tax and
+[u1581 | 02:11:27.810-02:11:29.600 | Izzarak] they do the click, the spell attacks and
 [u1582 | 02:11:34.370-02:11:35.400 | Unknown] fifteen
 [u1583 | 02:11:36.850-02:11:38.980 | DM] uh fifteen just hits
 [u1584 | 02:11:39.530-02:11:43.029 | DM] So roll damage. So a rock comes flying out.
@@ -1596,7 +1596,7 @@
 [u1596 | 02:12:36.430-02:12:40.559 | DM] Yeah. So they have to make Strength saving throws.
 [u1597 | 02:12:47.230-02:12:48.590 | DM] Um.
 [u1598 | 02:12:48.820-02:12:53.440 | DM] So what's your spell save DC? both of them fail
-[u1599 | 02:12:54.380-02:12:55.660 | Izzarak] {{sense out}}
+[u1599 | 02:12:54.380-02:12:55.660 | Izzarak] sense out
 [u1600 | 02:12:55.750-02:12:58.600 | DM] fifteen and eleven, so both of them fail.
 [u1601 | 02:12:58.930-02:13:03.919 | DM] Um, So they're both. These two chains are grasped by
 [u1602 | 02:13:04.030-02:13:09.340 | DM] um grasped and restrained, which gives them disadvantage on attacks and
@@ -1620,7 +1620,7 @@
 [u1620 | 02:14:03.780-02:14:06.579 | Kenzo] uh do. That sounds awesome.
 [u1621 | 02:14:07.700-02:14:19.019 | DM] You can do that. Well, it's a bonus action, so you can do it before you cast this spell again. Next turn. Okay, Kenzo, you going into another wound.
 [u1622 | 02:14:22.200-02:14:23.609 | Unknown] What happened to Kenzo
-[u1623 | 02:14:31.090-02:14:32.150 | DM] Cog.
+[u1623 | 02:14:31.090-02:14:32.150 | DM] Kong.
 [u1624 | 02:14:44.260-02:14:45.300 | Izzarak] Here you go.
 [u1625 | 02:14:45.700-02:14:47.030 | DM] I don't know.
 [u1626 | 02:14:52.820-02:14:55.899 | DM] Oh, and you can also fly when you're in dragon form.
@@ -1644,7 +1644,7 @@
 [u1644 | 02:15:57.770-02:15:58.809 | DM] um
 [u1645 | 02:16:00.780-02:16:02.210 | DM] Traveler, she
 [u1646 | 02:16:02.420-02:16:06.060 | DM] looks up as you as you turn and says in a
-[u1647 | 02:16:06.880-02:16:09.809 | DM] croaking voice. {{When you come}}
+[u1647 | 02:16:06.880-02:16:09.809 | DM] croaking voice. When you come
 [u1648 | 02:16:10.080-02:16:11.750 | DM] towards me
 [u1649 | 02:16:14.230-02:16:16.880 | Kenzo] I've come to help you complete your work.
 [u1650 | 02:16:22.480-02:16:24.329 | DM] I am dying.
@@ -1680,7 +1680,7 @@
 [u1680 | 02:18:31.280-02:18:32.590 | DM] My name?
 [u1681 | 02:18:37.900-02:18:40.570 | DM] Make a make a Wisdom check
 [u1682 | 02:18:42.709-02:18:44.489 | DM] also with advantage.
-[u1683 | 02:18:47.730-02:18:48.760 | Kenzo] {{Fight it}},
+[u1683 | 02:18:47.730-02:18:48.760 | Kenzo] Fight it,
 [u1684 | 02:18:54.959-02:19:02.670 | DM] Emerging out of her out of her mouth as she is beginning to speak. You see a snake, this like a miniature version of Motua.
 [u1685 | 02:19:02.700-02:19:07.740 | DM] It crawls out, and it opens. It grows and opens up, and it says
 [u1686 | 02:19:08.299-02:19:11.329 | DM] they do not have names anymore.
@@ -1776,7 +1776,7 @@
 [u1776 | 02:25:28.580-02:25:32.939 | DM] do the right thing in the end, and he turns and he looks behind the
 [u1777 | 02:25:33.510-02:25:43.369 | DM] at the people running when he looks at the swarm of shadowy, shifting monsters. You can see there's like blood coming down from his.
 [u1778 | 02:25:44.980-02:26:03.140 | DM] Yeah, like the gap in the shoulder. There's like a bleeding wound, and then he would hold this shield up as he's talking to another like monster forms. Now it looks, as it appears, out of the shadows, almost like a troll takes a swipe at him, and he stabs back with his sword, and then kind of retreats a bit and looks back.
-[u1779 | 02:26:05.440-02:26:08.799 | Kenzo] {{Let me use your}} but it would be so easy to turn and run,
+[u1779 | 02:26:05.440-02:26:08.799 | Kenzo] Let me use your but it would be so easy to turn and run,
 [u1780 | 02:26:09.450-02:26:11.500 | Kenzo] don't, turn and run. Stay,
 [u1781 | 02:26:11.950-02:26:12.999 | Kenzo] I'll help.
 [u1782 | 02:26:17.360-02:26:18.989 | DM] Why would you do that,
@@ -1784,7 +1784,7 @@
 [u1784 | 02:26:31.360-02:26:35.650 | DM] Okay, Um, make a Wisdom check
 [u1785 | 02:26:38.210-02:26:39.950 | DM] not with advantage.
 [u1786 | 02:26:41.670-02:26:42.590 | Kenzo] Five.
-[u1787 | 02:26:42.700-02:26:44.260 | Kenzo] {{You that with advantage}}.
+[u1787 | 02:26:42.700-02:26:44.260 | Kenzo] You that with advantage.
 [u1788 | 02:26:44.560-02:26:51.619 | Kenzo] Not really bad for the advantage. I got a twenty one without advantage. I only get a six.
 [u1789 | 02:26:52.100-02:26:53.300 | DM] The
 [u1790 | 02:26:53.350-02:26:54.330 | DM] ah!
@@ -1938,8 +1938,8 @@
 [u1938 | 02:38:17.680-02:38:19.369 | DM] with all that Power
 [u1939 | 02:38:20.730-02:38:22.090 | DM] started
 [u1940 | 02:38:23.690-02:38:24.949 | DM] like me
-[u1941 | 02:38:26.070-02:38:28.519 | Kenzo] {{and their shoes and the wounds}}.
-[u1942 | 02:38:28.670-02:38:29.879 | Kenzo] {{In the daylight}}
+[u1941 | 02:38:26.070-02:38:28.519 | Kenzo] and then shows him the wounds.
+[u1942 | 02:38:28.670-02:38:29.879 | Kenzo] In the daylight
 [u1943 | 02:38:32.860-02:38:34.690 | Kenzo] I grew up with no parents.
 [u1944 | 02:38:35.370-02:38:36.809 | Unknown] I grew up alone.
 [u1945 | 02:38:38.020-02:38:42.120 | Kenzo] It was only by sheer luck that I was taken in by somebody who could teach me.
@@ -1997,7 +1997,7 @@
 [u1997 | 02:42:43.660-02:42:50.199 | DM] you are not reduced to unconsciousness. You are reduced to one hit point, and the chain
 [u1998 | 02:42:50.960-02:42:53.960 | DM] wraps itself around your soul.
 [u1999 | 02:42:54.260-02:42:59.230 | DM] You now have disadvantage on death saving until you figure out what to do with it.
-[u2000 | 02:43:07.930-02:43:10.719 | Izzarak] {{I was Bill. You don't need you to crash}}
+[u2000 | 02:43:07.930-02:43:10.719 | Izzarak] I have a spell. You don't need you to crash
 [u2001 | 02:43:13.700-02:43:15.440 | Kenzo] What, we have a spell called what?
 [u2002 | 02:43:16.960-02:43:17.839 | Izzarak] I can
 [u2003 | 02:43:18.600-02:43:25.219 | DM] wake up the dead, and the other two chains are then promptly killed by bashing
@@ -2025,7 +2025,7 @@
 [u2025 | 02:44:56.330-02:44:58.530 | DM] that is part of your past.
 [u2026 | 02:44:59.750-02:45:01.760 | DM] It has meaning to you
 [u2027 | 02:45:03.230-02:45:04.689 | DM] which you can part with
-[u2028 | 02:45:07.700-02:45:09.019 | DM] {{is a India}}
+[u2028 | 02:45:07.700-02:45:09.019 | DM] as a medium
 [u2029 | 02:45:11.610-02:45:14.080 | DM] through which this curse can depart,
 [u2030 | 02:45:20.900-02:45:22.300 | Izzarak] cast Lesser Restoration.
 [u2031 | 02:45:23.290-02:45:25.229 | DM] We need greater restoration.
@@ -2059,7 +2059,7 @@
 [u2059 | 02:47:07.600-02:47:09.319 | DM] Be freed of this.
 [u2060 | 02:47:10.790-02:47:13.660 | DM] It's not a boon I can grant you.
 [u2061 | 02:47:13.940-02:47:15.480 | Kenzo] I understand Motua
-[u2062 | 02:47:17.380-02:47:18.500 | Kenzo] or two on
+[u2062 | 02:47:17.380-02:47:18.500 | Kenzo] Motua
 [u2063 | 02:47:21.660-02:47:23.989 | Kenzo] I'm so happy that you are free.
 [u2064 | 02:47:25.540-02:47:27.070 | Kenzo] I'm so happy that
 [u2065 | 02:47:27.390-02:47:28.659 | Kenzo] you are healed,
@@ -2137,7 +2137,7 @@
 [u2137 | 02:53:11.630-02:53:13.329 | Izzarak] Perhaps it is my destiny to.
 [u2138 | 02:53:18.980-02:53:21.490 | DM] We would welcome you to this land.
 [u2139 | 02:53:23.390-02:53:25.659 | DM] There is much good you could do here.
-[u2140 | 02:53:28.640-02:53:30.199 | Izzarak] {{It work to them}},
+[u2140 | 02:53:28.640-02:53:30.199 | Izzarak] Good work to do,
 [u2141 | 02:53:30.400-02:53:31.500 | DM] indeed,
 [u2142 | 02:53:33.210-02:53:36.519 | DM] and turns the jaguar turns and paces to Kenzo,
 [u2143 | 02:53:38.160-02:53:39.270 | DM] and
@@ -2158,7 +2158,7 @@
 [u2158 | 02:54:56.890-02:54:58.440 | DM] I would ask,
 [u2159 | 02:55:00.090-02:55:07.479 | DM] Is there any other boon I can grant you? Is there anywhere I can send you to anywhere you wish to travel
 [u2160 | 02:55:09.690-02:55:10.530 | Izzarak] nice
-[u2161 | 02:55:12.960-02:55:15.729 | Kenzo] before I go, {{and there is}}
+[u2161 | 02:55:12.960-02:55:15.729 | Kenzo] before I go, and there is
 [u2162 | 02:55:28.130-02:55:29.650 | Kenzo] through my staff.
 [u2163 | 02:55:32.700-02:55:34.730 | Kenzo] Maintain my connection here.
 [u2164 | 02:55:35.710-02:55:37.280 | Unknown] Commune Here
@@ -2200,7 +2200,7 @@
 [u2200 | 02:58:11.790-02:58:15.729 | DM] But if the creature has been dead for more than twenty four hours,
 [u2201 | 02:58:15.770-02:58:19.230 | DM] um, or if the body is not intact, it doesn't work,
 [u2202 | 02:58:21.480-02:58:24.060 | DM] the
-[u2203 | 02:58:24.540-02:58:44.500 | DM] lets you remove all reductions, {{cleanse One keeps creatures here}} at lets you remove all conditions, reductions to ability, scores, reductions to hit point maximums, curses. You could just use that up right now to get rid of your chain if you want to. I'm gonna wait. I'm a way to
+[u2203 | 02:58:24.540-02:58:44.500 | DM] lets you remove all reductions, cleanse one creature's spirit at lets you remove all conditions, reductions to ability, scores, reductions to hit point maximums, curses. You could just use that up right now to get rid of your chain if you want to. I'm gonna wait. I'm a way to
 [u2204 | 02:58:44.590-02:58:47.140 | DM] um, and then the
 [u2205 | 02:58:47.240-02:58:53.619 | DM] uh enhances your speed and reflexes, giving you the benefits of the haste spell for one minute.
 [u2206 | 02:58:55.330-02:58:59.119 | DM] So those are all one off effects. You can do each one
@@ -2231,7 +2231,7 @@
 [u2231 | 03:02:50.290-03:02:51.820 | DM] So
 [u2232 | 03:02:52.550-03:02:57.670 | DM] days go by, and it, and time seems not to pass for you.
 [u2233 | 03:02:58.180-03:02:59.320 | DM] Um
-[u2234 | 03:02:59.640-03:03:08.649 | DM] {{returns to the lizardfolk village}} to report back on what's happened and tell them things are safe. Izzarak
+[u2234 | 03:02:59.640-03:03:08.649 | DM] Enari returns to the lizardfolk village to report back on what's happened and tell them things are safe. Izzarak
 [u2235 | 03:03:08.680-03:03:15.390 | DM] um establish. It begins to sort of figure out how he will help heal the land.
 [u2236 | 03:03:15.550-03:03:35.200 | Kenzo] Oh, and Izzarak also is a badass tattoo artist like super fucking skilled, badass tattoo artist, and like gives Kenzo like a sweet like Motua, and Lengau like tattoo, like I'll figure out where and they they don't have to be magical. These are just like cool, cool, cool, you know, tattoos, but you know it's like, because, you know, lizardfolk are fucking badass at tattooing. So
 [u2237 | 03:03:35.470-03:03:44.019 | DM] that is true, because it just seems like a jaguar and a and a snake tattoo on that. That's that's pretty pretty.
@@ -2295,7 +2295,7 @@
 [u2295 | 03:09:18.290-03:09:20.240 | Izzarak] stealing the souls back.
 [u2296 | 03:09:20.540-03:09:31.589 | Kenzo] Um! So he's like a he's like a Motua. He's like one of those like a a Gidari. Is that what was it called?
 [u2297 | 03:09:32.150-03:09:37.490 | DM] He's teleported in and killed the Guardian, and like.
-[u2298 | 03:09:39.300-03:09:48.520 | DM] And this all happened a year ago. {{I here in the vision}}. But that's clear, as you {{promote to that}}
+[u2298 | 03:09:39.300-03:09:48.520 | DM] And this all happened a year ago. I hear in the vision. But that's clear, as you commune with Motua
 [u2299 | 03:09:49.150-03:09:52.670 | Kenzo] right? Right? Yeah. But now Motua is back,
 [u2300 | 03:09:53.550-03:09:59.080 | DM] but it'll take Motua some time to recover and make it back into the
 [u2301 | 03:10:00.200-03:10:12.970 | Kenzo] Yeah. Um yeah, that's fucking awesome. I love that Kenzo has a fucking like jaguar jaguar snake like mentor now like sick so cool.
