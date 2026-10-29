@@ -37,3 +37,215 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/sources/zoom-session-004.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2485
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20200710-005807_Taelgar.transcript.vtt
+      sha256: 043bf35a66a6effee1aed9321b135e2d2f107a592202d9e957d169ced57d793c
+    prepared:
+      path: cleaned/dunmari-frontier-004-source-prepared.md
+      sha256: 4d4886a7ec349584f63b612e2d039e0f44da213d947af937314bd200588c0ad3
+    cleaned:
+      path: cleaned/dunmari-frontier-004-source-cleaned.md
+      sha256: 79824c4daf1ac301c3ded809a3e280aa3a52f236691939ae24ae96159d4b3e5b
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-004-transcript.md
+      sha256: 3310903b46fdda728b744d6c9e18735ede66a9009735c622ebaf0ad3d92762f6
+  speakerCorrections:
+  - uid: u0280
+    start: 0
+    end: 15
+    speaker: DM
+  - uid: u0282
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0427
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0443
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u0468
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u0471
+    start: 0
+    end: 14
+    speaker: DM
+  - uid: u0476
+    start: 0
+    end: 32
+    speaker: DM
+  - uid: u0617
+    start: 0
+    end: 25
+    speaker: DM
+  - uid: u0626
+    start: 0
+    end: 24
+    speaker: Kenzo
+  - uid: u0638
+    start: 0
+    end: 3
+    speaker: DM
+  - uid: u0664
+    start: 0
+    end: 13
+    speaker: DM
+  - uid: u0726
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u0888
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u0896
+    start: 0
+    end: 6
+    speaker: DM
+  - uid: u0992
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u1025
+    start: 0
+    end: 24
+    speaker: DM
+  - uid: u1050
+    start: 0
+    end: 2
+    speaker: DM
+  - uid: u1081
+    start: 0
+    end: 30
+    speaker: DM
+  - uid: u1228
+    start: 0
+    end: 7
+    speaker: Kenzo
+  - uid: u1310
+    start: 0
+    end: 21
+    speaker: Kenzo
+  - uid: u1431
+    start: 0
+    end: 12
+    speaker: Delwath
+  - uid: u1447
+    start: 76
+    end: 80
+    speaker: Seeker
+  - uid: u1661
+    start: 0
+    end: 21
+    speaker: DM
+  - uid: u1712
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u1720
+    start: 0
+    end: 23
+    speaker: Wellby
+  - uid: u1762
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u1907
+    start: 0
+    end: 14
+    speaker: DM
+  - uid: u1993
+    start: 0
+    end: 6
+    speaker: Kenzo
+  - uid: u2111
+    start: 0
+    end: 1
+    speaker: DM
+  - uid: u2146
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u2156
+    start: 0
+    end: 20
+    speaker: DM
+  - uid: u2197
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u2232
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u2256
+    start: 0
+    end: 19
+    speaker: Delwath
+  - uid: u2280
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u2343
+    start: 0
+    end: 25
+    speaker: Seeker
+  - uid: u2345
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u2362
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u2392
+    start: 0
+    end: 13
+    speaker: DM
+  - uid: u2399
+    start: 0
+    end: 8
+    speaker: DM
+  - uid: u2400
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u2414
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u2416
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u2428
+    start: 0
+    end: 8
+    speaker: DM
+  - uid: u2433
+    start: 0
+    end: 8
+    speaker: DM
+  - uid: u2446
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u2455
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u2458
+    start: 0
+    end: 4
+    speaker: DM

@@ -2764,7 +2764,7 @@
 [u2764 | 03:25:24.120-03:25:24.900 | Delwath] Yeah, that's my turn.
 [u2765 | 03:25:27.090-03:25:30.750 | DM] Okay, it is going to look around.
 [u2766 | 03:25:35.010-03:25:36.510 | Seeker] It also has disadvantage.
-[u2767 | 03:25:36.780-03:25:38.580 | Delwath] You know what I'm going to draw your own to
+[u2767 | 03:25:36.780-03:25:38.580 | Delwath] You know what I'm going to drop prone, too
 [u2768 | 03:25:39.270-03:25:40.920 | Delwath] Just in case it comes towards me.
 [u2769 | 03:25:44.070-03:25:48.450 | DM] It has disadvantage? No, it succeeded on its Constitution save so it does not have
 [u2770 | 03:25:49.380-03:25:49.620 | Unknown] Okay.

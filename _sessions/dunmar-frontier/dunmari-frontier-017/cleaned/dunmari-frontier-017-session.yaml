@@ -36,3 +36,83 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/sources/zoom-session-017.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2393
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20210123-020056_Taelgar-Re.transcript.vtt
+      sha256: 13329db11dd2a2d475104e250b48ae943954edb20eba59d746e0b81342e58923
+    prepared:
+      path: cleaned/dunmari-frontier-017-source-prepared.md
+      sha256: 9c3daf550606055374f1d3203a1a85faaa08d26b00c1ce4b383e22c453ba7948
+    cleaned:
+      path: cleaned/dunmari-frontier-017-source-cleaned.md
+      sha256: 99ba46b8518c72058618c0c20271858f3471cc29667eaaaa581fa6cf09f2a83c
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-017-transcript.md
+      sha256: 9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69
+  speakerCorrections:
+  - uid: u0025
+    start: 0
+    end: 23
+    speaker: Seeker
+  - uid: u0096
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u0152
+    start: 0
+    end: 3
+    speaker: Delwath
+  - uid: u0211
+    start: 0
+    end: 6
+    speaker: Wellby
+  - uid: u0665
+    start: 0
+    end: 21
+    speaker: DM
+  - uid: u0884
+    start: 0
+    end: 4
+    speaker: Delwath
+  - uid: u0890
+    start: 0
+    end: 23
+    speaker: Kenzo
+  - uid: u1159
+    start: 0
+    end: 19
+    speaker: DM
+  - uid: u1234
+    start: 0
+    end: 6
+    speaker: DM
+  - uid: u1313
+    start: 0
+    end: 39
+    speaker: DM
+  - uid: u1536
+    start: 0
+    end: 2
+    speaker: DM
+  - uid: u1598
+    start: 0
+    end: 14
+    speaker: Kenzo
+  - uid: u1686
+    start: 0
+    end: 4
+    speaker: Seeker
+  - uid: u2111
+    start: 0
+    end: 3
+    speaker: DM
+  - uid: u2130
+    start: 0
+    end: 18
+    speaker: DM

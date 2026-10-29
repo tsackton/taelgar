@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 16
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-016-source-cleaned.md
 
 ## Transcript
@@ -4178,8 +4178,8 @@ Unknown: There's.
 %% u2397:0-45, u2398:0-52, u2399:0-94, u2400:0-223 %%
 DM: So, yeah, you'd probably—there's nobody who's really up to you, but for sure there are Brawnanvils in Chardon. I mean, a lot of the dwarves from the Yuvanti Mountains who have, you know, spread, who haven't sort of stayed in there—in—in the mountains, you know, have tended to move north and west towards Chardon. So you had very likely have like distant relations there, but nobody—you don't have like close contacts.
 
-%% u2401:0-35, u2402:0-108 %%
-Riswynn: I know some work soon as the doors. That might be an avenue by which we could be contacted you are in Chardon that we're looking for, Wellby, or…?
+%% u2401:0-36, u2402:0-108 %%
+Riswynn: I can also work through the dwarves. That might be an avenue by which we could be contacted you are in Chardon that we're looking for, Wellby, or…?
 
 %% u2403:0-5 %%
 Wellby: Here.

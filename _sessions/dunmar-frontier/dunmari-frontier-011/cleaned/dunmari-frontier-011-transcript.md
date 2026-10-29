@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 11
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-011-source-cleaned.md
 
 ## Transcript
@@ -1406,8 +1406,8 @@ DM: Definitely seems quick, and like it gets, you know, with claws look pretty n
 %% u0851:0-25 %%
 Kenzo: Does he have any weapons?
 
-%% u0852:0-22 %%
-DM: Or is he like weapons?
+%% u0852:0-26 %%
+DM: You don't see any weapons.
 
 %% u0853:0-16 %%
 Kenzo: I see. So, okay.

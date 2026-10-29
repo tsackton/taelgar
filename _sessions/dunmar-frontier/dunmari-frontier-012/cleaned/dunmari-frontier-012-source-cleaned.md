@@ -5,7 +5,7 @@
 [u0005 | 00:00:43.500-00:01:00.750 | DM] And rescuing the Chardonian adventurer Vola Forena you began to uncover the secrets of this place a small group of gnolls seems to have made this a base where they're herding and keeping animals wild dogs jackals hyenas lions and more for some apparent ritual of
 [u0006 | 00:01:03.360-00:01:19.620 | DM] Investigating the inner keep of Raven's Hold you found a demon occupying it and patiently waiting for something and beginning to corrupt the dead bodies of antelope other prey for some unknown purpose.
 [u0007 | 00:01:21.120-00:01:27.660 | DM] Not really wanting to wait and see where this was leading you attacked and despite the
-[u0008 | 00:01:28.830-00:01:32.370 | DM] Dangerous poison stinger on its BB tail and
+[u0008 | 00:01:28.830-00:01:32.370 | DM] Dangerous poison stinger on its barbed tail and
 [u0009 | 00:01:35.310-00:01:44.340 | DM] Disease it the poison diseases caused you prevailed watching the demon's body disintegrate after Kenzo's killing blow.
 [u0010 | 00:01:46.620-00:01:48.810 | DM] Thinking back a month ago in Karawa
 [u0011 | 00:01:50.070-00:01:55.110 | DM] You are surprised to realize that it was only a short time ago that
@@ -2543,7 +2543,7 @@
 [u2543 | 03:05:55.080-03:05:56.100 | Seeker] Make an Arcana check
 [u2544 | 03:05:59.190-03:06:01.680 | Kenzo] Seeker's Arcana is strong
 [u2545 | 03:06:03.780-03:06:07.380 | DM] Seeker, yes, Seeker has—Seeker studied extensively
-[u2546 | 03:06:08.670-03:06:11.760 | DM] {{Torben}} um so
+[u2546 | 03:06:08.670-03:06:11.760 | DM] dwarven um so
 [u2547 | 03:06:12.900-03:06:14.280 | DM] Except Seeker does not
 [u2548 | 03:06:16.980-03:06:18.870 | DM] Has not read. Read of gnolls
 [u2549 | 03:06:28.170-03:06:31.020 | DM] However, Delwath has

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 4
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-004-source-cleaned.md
 
 ## Transcript
@@ -2642,8 +2642,8 @@ Unknown: No.
 %% u1706:0-16, u1707:0-253, u1708:0-35, u1709:0-15, u1710:0-89 %%
 Wellby: I'll say to her, "You're traveling with someone sick," and then I'll emphasize that with, like, the Halfling word for sick, with a connotation of someone sick in spirit, not just in body, which presumably there's some Halfling word that gets the nuance of that just right. "You're traveling with someone sick. Let us help you. I think the sickness that they have is a sickness that we saw just two or three days ago."
 
-%% u1711:0-39, u1712:0-9, u1713:0-19, u1714:0-105 %%
-DM: Persuasion check with advantage because—she says, "Why do you say this? I'm not sure that you should linger much longer here until the rest of you seem to have gotten very cold."
+%% u1711:0-39, u1712:0-9, u1713:0-19, u1714:0-113 %%
+DM: Persuasion check with advantage because—she says, "Why do you say this? I'm not sure that you should linger much longer here." And to the rest of you, she seems to have gotten very cold.
 
 %% u1715:0-4 %%
 Unknown: Huh.
@@ -3462,7 +3462,7 @@ Unknown: Clearly, that will say—
 Kenzo: Help.
 
 %% u2248:0-22, u2249:0-17, u2250:0-14, u2251:0-43, u2252:0-16, u2253:0-17, u2254:0-5, u2255:0-10, u2256:0-19, u2257:0-14, u2258:0-8, u2259:0-11 %%
-Delwath: That all those who are—Delwath will say, "Since I joined the battle against Cha'mutte 300 years ago, I've always been—I've always hated those who oppose the forces of evil. If that is you, then yes, I will aid."
+Delwath: That all those who are—Delwath will say, "Since I joined the battle against Cha'mutte 300 years ago, I've always been—I've always aided those who oppose the forces of evil. If that is you, then yes, I will aid."
 
 %% u2260:0-8, u2261:0-17, u2262:0-29, u2263:0-54, u2264:0-17 %%
 DM: Seems to relax as you all—as you all sort of answer, and he knows the spell that, that nobody is hiding anything. And he says then—

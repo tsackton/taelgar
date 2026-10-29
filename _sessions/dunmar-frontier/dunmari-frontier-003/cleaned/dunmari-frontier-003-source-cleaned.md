@@ -595,7 +595,7 @@
 [u0595 | 00:48:04.740-00:48:05.640 | DM] That hits
 [u0596 | 00:48:06.240-00:48:09.000 | Kenzo] Excellent. And so again,
 [u0597 | 00:48:11.070-00:48:11.550 | Kenzo] Ooh.
-[u0598 | 00:48:11.700-00:48:26.970 | Kenzo] Nice. So basically you see Kenzo just rush over extremely quickly. He sees the danger and launches himself right next to Wellby.
+[u0598 | 00:48:11.700-00:48:26.970 | Kenzo] Nice, very nice. Nice. So basically you see Kenzo just just rush over extremely quickly, just boom. He sees the danger and launches himself right next to Wellby.
 [u0599 | 00:48:28.020-00:48:42.060 | Kenzo] Tries to use his staff to slash at the mandibles and create a little distance. Misses, but then, again, just Flurry of Blows—just up, up, up, up—striking different parts of the beast and doing some damage.
 [u0600 | 00:48:42.300-00:48:43.890 | Seeker] Am I able to is this
 [u0601 | 00:48:43.980-00:48:45.690 | Kenzo] Does my kind of attack help to
@@ -889,9 +889,9 @@
 [u0889 | 01:10:33.600-01:10:44.610 | DM] Mostly dark except for there seems to be on on one of the walls, what you can see from this distance. Anyway, is
 [u0890 | 01:10:46.410-01:10:54.240 | DM] A flame, about the size of your hand. That seems to be burning touching nothing
 [u0891 | 01:10:57.750-01:11:17.160 | DM] kind of just floating in the air, casting light around. And from the light of this flame, you can see the area inside looks as if a large earthquake has struck it. It's been shaken and things are cracked, but it's clearly a temple to the Five Siblings, the Dunmari pantheon.
-[u0892 | 01:11:18.510-01:11:22.110 | DM] Each of the five sides has an altar to one of the gods.
+[u0892 | 01:11:18.510-01:11:22.110 | DM] Each of the five walls has an altar to one of the gods.
 [u0893 | 01:11:24.540-01:11:27.210 | DM] Jeevali, the goddess of life and rebirth,
-[u0894 | 01:11:28.350-01:11:48.750 | DM] home, and family; Laka, the god of knowledge, agriculture, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, artisans, and justice; and Chidya, the goddess of nature, the land, animals, and weather.
+[u0894 | 01:11:28.350-01:11:48.750 | DM] home, and family; Laka, the god of knowledge, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals.
 [u0895 | 01:11:51.030-01:11:53.460 | DM] A few of the altars are
 [u0896 | 01:11:53.460-01:11:54.090 | Unknown] cracked
 [u0897 | 01:11:55.320-01:11:58.770 | DM] The tapestries and artwork are sort of crumbled and destroyed.
@@ -1994,8 +1994,8 @@
 [u1994 | 02:36:37.050-02:36:48.240 | DM] There's a cave opening up, and you can see a faint glow from the far side of the cave down the passageway. And you see, dropping from the ceiling as Delwath stands in front of you,
 [u1995 | 02:36:49.470-02:36:50.790 | DM] Three skeletons.
 [u1996 | 02:37:02.280-02:37:03.030 | DM] Where do you want to do.
-[u1997 | 02:37:06.330-02:37:08.130 | DM] They're starting to lumber towards our
-[u1998 | 02:37:08.220-02:37:08.970 | DM] Weight, they'll stop.
+[u1997 | 02:37:06.330-02:37:08.130 | DM] They're starting to lumber towards uh
+[u1998 | 02:37:08.220-02:37:08.970 | DM] where Delwath stopped.
 [u1999 | 02:37:14.460-02:37:16.950 | Delwath] Can I ask you something. Can we
 [u2000 | 02:37:17.310-02:37:18.480 | Kenzo] Do initiative here, are we
 [u2001 | 02:37:21.420-02:37:23.220 | DM] Are you gonna are gonna run
@@ -2857,7 +2857,7 @@
 [u2857 | 03:37:01.020-03:37:01.680 | Seeker] Might work. Yeah.
 [u2858 | 03:37:02.490-03:37:03.000 | Unknown] All right, Tim.
 [u2859 | 03:37:04.860-03:37:05.280 | Wellby] Hello, sir.
-[u2860 | 03:37:07.530-03:37:12.210 | Kenzo] Yeah, I take the spearpoint, put it into the flaw, and then
+[u2860 | 03:37:07.530-03:37:12.210 | Kenzo] Yeah, I take, I take the spearpoint, put it into the—the defect, and then—
 [u2861 | 03:37:13.980-03:37:16.410 | Kenzo] rear it back and take a smack with my quarterstaff.
 [u2862 | 03:37:16.560-03:37:19.110 | Seeker] Kenzo, put your back into it. Just giving you—
 [u2863 | 03:37:19.170-03:37:21.330 | DM] Make an attack roll.

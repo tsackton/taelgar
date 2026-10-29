@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 12
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-012-source-cleaned.md
 
 ## Transcript
@@ -11,8 +11,8 @@ DM: Okay, so we begin tonight as the morning sun rises over Raven's Hold. It was
 %% u0004:0-115, u0005:0-262 %%
 DM: Yesterday, after traveling through the dwarven strongholds, finding your way into Raven's Hold underneath the valley, and rescuing the Chardonian adventurer Vola Forena, you began to uncover the secrets of this place. A small group of gnolls seems to have made this a base where they're herding and keeping animals—wild dogs, jackals, hyenas, lions, and more—for some apparent ritual of—
 
-%% u0006:0-201, u0007:0-86, u0008:0-43, u0009:0-118 %%
-DM: Investigating the inner keep of Raven's Hold, you found a demon occupying it and patiently waiting for something, and beginning to corrupt the dead bodies of antelope other prey for some unknown purpose. Not really wanting to wait and see where this was leading, you attacked, and despite the dangerous poison stinger on its [garbled] tail and disease it—the poison diseases caused, you prevailed, watching the demon's body disintegrate after Kenzo's killing blow.
+%% u0006:0-201, u0007:0-86, u0008:0-47, u0009:0-118 %%
+DM: Investigating the inner keep of Raven's Hold, you found a demon occupying it and patiently waiting for something, and beginning to corrupt the dead bodies of antelope other prey for some unknown purpose. Not really wanting to wait and see where this was leading, you attacked, and despite the dangerous poison stinger on its barbed tail and disease it—the poison diseases caused, you prevailed, watching the demon's body disintegrate after Kenzo's killing blow.
 
 %% u0010:0-35, u0011:0-67, u0012:0-60, u0013:0-105, u0014:0-110 %%
 DM: Thinking back a month ago in Karawa, you are surprised to realize that it was only a short time ago that... And the fact that you are now destroying actual demons seems sometimes hard to believe. Despite the fitful and restless night filled with unwanted dreams of violence, you awake with a renewed sense of confidence and purpose, and a better sense of your capabilities and strengths.
@@ -4613,8 +4613,8 @@ Seeker: Cool, check. Make an Arcana check.
 %% u2544:0-25 %%
 Kenzo: Seeker's Arcana is strong.
 
-%% u2545:0-50, u2546:0-16, u2547:0-22, u2548:0-28, u2549:0-20 %%
-DM: Seeker, yes, Seeker has—Seeker studied extensively {{Torben}} um, so—except Seeker does not—has not read, read of gnolls. However, Delwath has.
+%% u2545:0-50, u2546:0-13, u2547:0-22, u2548:0-28, u2549:0-20 %%
+DM: Seeker, yes, Seeker has—Seeker studied extensively dwarven um, so—except Seeker does not—has not read, read of gnolls. However, Delwath has.
 
 %% u2550:0-36, u2551:0-47, u2552:0-44, u2553:0-72, u2554:0-12, u2555:0-33, u2556:0-29, u2557:0-4, u2558:0-11, u2559:0-31, u2560:0-14, u2561:0-52, u2562:0-53, u2563:0-13, u2564:0-23 %%
 DM: Delwath, you have, I mean you haven't—you haven't, you know, studied this extensively, but just kind of thinking through all of the, you know, everything that's happened, you do—you do remember as a story or a sort of legend of—from, from long ago from back even in your childhood, that the sort of demonic corruption, the sort of abyssal energy, is like a virus that transforms what it touches, that its presence can infect the land with its corruption. It can infect flesh, and it can infect—

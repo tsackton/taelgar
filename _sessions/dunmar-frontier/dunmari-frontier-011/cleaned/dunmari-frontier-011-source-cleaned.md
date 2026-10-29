@@ -849,7 +849,7 @@
 [u0849 | 01:09:40.290-01:09:41.580 | DM] Barbed tail like
 [u0850 | 01:09:42.150-01:09:44.340 | DM] Moving around sort of independently from that.
 [u0851 | 01:09:44.820-01:09:45.960 | Kenzo] Does he have any weapons.
-[u0852 | 01:09:46.020-01:09:47.430 | DM] Or is he like weapons.
+[u0852 | 01:09:46.020-01:09:47.430 | DM] You don't see any weapons.
 [u0853 | 01:09:47.820-01:09:49.290 | Kenzo] I see. So, okay.
 [u0854 | 01:09:50.010-01:09:51.330 | Wellby] On that, how far you know any of the
 [u0855 | 01:09:53.970-01:09:59.070 | DM] Ah, currently in the room. There are two of them. Two of the gnoll creatures.

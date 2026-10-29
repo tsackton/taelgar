@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 5
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-005-source-cleaned.md
 
 ## Transcript
@@ -182,8 +182,8 @@ DM: I do not know. I did not. I have not heard of a man with a jade arm. I mean,
 %% u0205:0-9 %%
 Kenzo: You know,
 
-%% u0206:0-52, u0207:0-11, u0208:0-69, u0209:0-55, u0210:0-12 %%
-DM: The great mages of the Great War, of Haldir and Rai, a traveler. There are stories even dating a lot before that—Taelsin the Traveler. Of course, there are stories. How much of this is true? Hard to say.
+%% u0206:0-52, u0207:0-11, u0208:0-71, u0209:0-55, u0210:0-12 %%
+DM: The great mages of the Great War, of Haldir and Rai, a traveler. There are stories even dating a lot before that—Airion the Mistspeaker. Of course, there are stories. How much of this is true? Hard to say.
 
 %% u0211:0-171 %%
 Kenzo: Um, Tim, would I know where to research more about these kinds of mages, like Chardon, some place with a library? Are there places where I would actually be able to study?
@@ -3281,8 +3281,8 @@ Wellby: Raven's Hold, some malevolent force, something that's
 %% u2273:0-7 %%
 Seeker: Missing—
 
-%% u2274:0-35 %%
-Wellby: The light or doing some evil there.
+%% u2274:0-32 %%
+Wellby: Blight or doing some evil there.
 
 %% u2275:0-38, u2276:0-23, u2277:0-32, u2278:0-140 %%
 Wellby: The festival finishes and your people scattered back to their fields and flocks, they'll be an easy target for anything that comes from the south or from the north or again from the east. There may be more yet beyond what we destroyed.

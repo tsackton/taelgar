@@ -121,7 +121,7 @@
 [u0121 | 00:12:43.890-00:12:45.480 | Kenzo] I feel similarly about Chardon
 [u0122 | 00:12:47.490-00:12:47.940 | Kenzo] It was
 [u0123 | 00:12:51.150-00:12:55.080 | Kenzo] Not a good place for a kid like me in a place like that.
-[u0124 | 00:12:56.550-00:13:05.220 | Kenzo] A lot of magic but not for everyone, only for folks like this, is it opens for open scroll and I think
+[u0124 | 00:12:56.550-00:13:05.220 | Kenzo] A lot of magic but not for everyone, only for folks like the Society of the Open Scroll and I think
 [u0125 | 00:13:06.780-00:13:11.460 | Kenzo] I have a feeling we're going to end up there at some point before for long, but
 [u0126 | 00:13:14.280-00:13:22.860 | Kenzo] If you were of the right lineage and from the right family Chardon can be a very, very special place, but I think
 [u0127 | 00:13:24.510-00:13:29.250 | Kenzo] For young people like myself, my friends, you know,
@@ -467,7 +467,7 @@
 [u0467 | 00:41:54.270-00:41:54.990 | Delwath] There are
 [u0468 | 00:41:55.380-00:42:03.000 | Delwath] There are, of course, my last memory of this plane before the Shadow Realm was nowhere near here.
 [u0469 | 00:42:05.910-00:42:10.350 | Delwath] I mean, the battle, Tim. I assume the battle. I was fighting in would have been
-[u0470 | 00:42:11.460-00:42:14.010 | DM] Another city or homeland too far to the north.
+[u0470 | 00:42:11.460-00:42:14.010 | DM] Another city in your homeland, far to the north.
 [u0471 | 00:42:14.040-00:42:29.640 | Delwath] Like way up way up here somewhere like way up in the north, you know, in one of those poor desolate places that were surrounded by the army of half a million hobgoblins, she must summon from a pocket dimension.
 [u0472 | 00:42:30.420-00:42:34.890 | Kenzo] Yes. So you somehow travel thousands of miles.
 [u0473 | 00:42:36.630-00:42:40.080 | Kenzo] To end up physically where you are over the millennia.
@@ -2109,7 +2109,7 @@
 [u2109 | 03:08:53.220-03:08:56.550 | DM] Like Southwest into the desert itself.
 [u2110 | 03:08:59.250-03:09:09.090 | DM] Not having supplies or time or water to venture deep into the wastelands of the Garamjala we skirted the northern boundary
 [u2111 | 03:09:11.100-03:09:11.580 | Unknown] And
-[u2112 | 03:09:13.560-03:09:26.730 | DM] came about as far west as as bad as it so right to a bit here before we started cutting back east heading for the sort of central
+[u2112 | 03:09:13.560-03:09:26.730 | DM] came about as far west as Bas Udda so right to a bit here before we started cutting back east heading for the sort of central
 [u2113 | 03:09:28.680-03:09:31.650 | DM] Central plane here before turning West again.
 [u2114 | 03:09:34.170-03:09:42.540 | DM] One odd things scouting around the north side of the Garamjala it seemed like we were not perhaps the only ones.
 [u2115 | 03:09:44.250-03:09:44.970 | DM] Watching

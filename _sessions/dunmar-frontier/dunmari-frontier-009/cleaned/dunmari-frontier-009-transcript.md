@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 9
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-009-source-cleaned.md
 
 ## Transcript
@@ -809,8 +809,8 @@ Riswynn: Um—
 %% u0476:0-12 %%
 Seeker: Just weirdos.
 
-%% u0477:0-78 %%
-Riswynn: Going back to the hobgoblins {{during his can never said anything about like}}
+%% u0477:0-87 %%
+Riswynn: Going back to the hobgoblins, Uncle Eberk—Riswynn's kin—never said anything about, like—
 
 %% u0478:0-9 %%
 Unknown: [garbled]
@@ -842,8 +842,14 @@ Seeker: As I work out some new techniques for adding spatial temporal dimensions
 %% u0499:0-24 %%
 Riswynn: To clarify, who's trying—
 
-%% u0500:0-208, u0501:0-80 %%
-Seeker: I'm curious to get down to that vault where I do sense something powerful down there to the south of a destination, starting place to find my family's treasure. That's really— and so there's a passage way down, but must be beneath where we're standing. But how do we get to that passage way?
+%% u0500:0-115 %%
+Seeker: I'm curious to get down to that vault where I do sense something powerful down there to the south of a destination.
+
+%% u0500:115-159 %%
+Riswynn: Starting place to find my family's treasure.
+
+%% u0500:159-204, u0501:0-80 %%
+Seeker: Naturally—and so there's a passage way down, but must be beneath where we're standing. But how do we get to that passage way?
 
 %% u0502:0-24 %%
 Unknown: Tavern and living space.
@@ -1352,8 +1358,8 @@ Seeker: But the—but—but I also like the—
 %% u0820:0-44 %%
 Kenzo: We might like what's in the vault even more.
 
-%% u0821:0-147 %%
-Unknown: I mean, unless {{it was when there's like some member of their group was going by the roper and so they know the roper had to throw in one stone}}.
+%% u0821:0-146 %%
+Unknown: I mean, unless it was when there's like some member of their group was eaten by the roper and so they know the roper had the pearl in its stomach.
 
 %% u0822:0-95 %%
 Kenzo: It—I mean, we could try showing it to her and see if she she responds and then perhaps barter.
@@ -1379,8 +1385,8 @@ Unknown: I don't—
 %% u0833:0-31 %%
 DM: Know. There's no—I—you know that.
 
-%% u0834:0-94, u0835:0-3 %%
-Unknown: {{Process thousand she can replace}}, but she wanted the roper gone so she can loot the place. But—
+%% u0834:0-96, u0835:0-3 %%
+Unknown: Wants us out so she can loot the place, but she wanted the roper gone so she can loot the place. But—
 
 %% u0836:0-85, u0837:0-62 %%
 Riswynn: We don't know what we're giving up if we haven't found anything other than the pearl. But I don't really care. [garbled]
