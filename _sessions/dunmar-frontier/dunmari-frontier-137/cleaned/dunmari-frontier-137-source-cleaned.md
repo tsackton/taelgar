@@ -8,7 +8,7 @@
 [u0008 | 00:00:12.800-00:00:13.940 | Delwath] Like what are they actually-
 [u0009 | 00:00:14.540-00:00:15.100 | Kenzo] Well, so I kind of-
 [u0010 | 00:00:15.140-00:00:15.920 | Seeker] Like a little rivalry.
-[u0011 | 00:00:15.980-00:00:25.720 | Kenzo] Yeah. Well, that's what I was gonna say. I, I was gonna say, so one of the funnest shit was like when, uh, when Seeker and, and um, and Kenzo were, we were like throwing eggs at each other and like kind of fighting and having like little piece of chat like.
+[u0011 | 00:00:15.980-00:00:25.720 | Kenzo] Yeah. Well, that's what I was gonna say. I, I was gonna say, so one of the funnest shit was like when, uh, when Seeker and, and um, and Kenzo were, we were like throwing eggs at each other and like kind of fighting and having like little PC chat like.
 [u0012 | 00:00:26.080-00:00:26.420 | Unknown] Yeah.
 [u0013 | 00:00:26.460-00:00:28.260 | Kenzo] Or even, or even like, uh, um, Kenzo-
 [u0014 | 00:00:28.320-00:00:29.520 | DM] There's the little Kenzo, Ja-
@@ -776,7 +776,7 @@
 [u0776 | 00:25:51.732-00:25:56.832 | Delwath] And you almost just have handouts, and if people read the handouts at the beginning and then everybody talks about it.
 [u0777 | 00:25:56.972-00:25:57.232 | Unknown] Right.
 [u0778 | 00:25:57.232-00:25:58.272 | Seeker] I think I saved my-
-[u0779 | 00:25:58.812-00:26:01.752 | Delwath] But it's easy for it to be generating, why don't I just forward you the email?
+[u0779 | 00:25:58.812-00:26:01.752 | Delwath] But it's easy for it to degenerate into, why don't I just forward you the email?
 [u0780 | 00:26:02.112-00:26:02.392 | Unknown] Yeah.
 [u0781 | 00:26:02.412-00:26:02.412 | Unknown] Right.
 [u0782 | 00:26:02.432-00:26:02.472 | Unknown] And then-
@@ -1251,7 +1251,7 @@
 [u1251 | 00:45:52.241-00:45:52.601 | Unknown] Oh.
 [u1252 | 00:45:52.601-00:45:54.561 | Delwath] But I generally cast Aid every morning.
 [u1253 | 00:45:54.861-00:45:55.081 | DM] Right
-[u1254 | 00:45:55.081-00:45:57.821 | Delwath] Because Aid asks, lasts for eight hours.
+[u1254 | 00:45:55.081-00:45:57.821 | Delwath] Because Aid lasts for eight hours.
 [u1255 | 00:45:58.021-00:45:58.221 | Unknown] Yeah.
 [u1256 | 00:45:58.701-00:46:00.301 | Delwath] And I can
 [u1257 | 00:46:01.926-00:46:04.926 | Delwath] cast it and then make breakfast and short rest again to get my spell slots back.
@@ -4345,7 +4345,7 @@
 [u4345 | 02:40:23.693-02:40:29.573 | Unknown] Oh, Wellby in the back. [die rolling]
 [u4346 | 02:40:29.713-02:40:29.893 | Unknown] 16.
 [u4347 | 02:40:29.893-02:40:30.553 | DM] That fails.
-[u4348 | 02:40:32.053-02:40:34.313 | Kenzo] Grog? Or, or, uh, bardic?
+[u4348 | 02:40:32.053-02:40:34.313 | Kenzo] Heroic? Or, or, uh, bardic?
 [u4349 | 02:40:34.453-02:40:37.353 | Wellby] Uh, I'll still only take half damage, so I'll...
 [u4350 | 02:40:37.353-02:40:38.153 | Wellby] I'm gonna see how this is.
 [u4351 | 02:40:39.173-02:40:39.333 | DM] Um,
@@ -4370,7 +4370,7 @@
 [u4370 | 02:41:25.133-02:41:27.293 | Wellby] Is restrained the same or different from grappled?
 [u4371 | 02:41:27.313-02:41:28.433 | DM] It is different from grappled
 [u4372 | 02:41:28.433-02:41:31.053 | Wellby] So the advantage that I have to escape from grappled is not the same as-
-[u4373 | 02:41:31.093-02:41:32.813 | DM] Does not the same as advantage or restrained
+[u4373 | 02:41:31.093-02:41:32.813 | DM] That's not the same as advantage on restrained.
 [u4374 | 02:41:33.701-02:41:33.801 | Wellby] Yeah.
 [u4375 | 02:41:33.873-02:41:34.653 | DM] Um, you get a save-
 [u4376 | 02:41:34.693-02:41:36.773 | Kenzo] Yeah, because the g- you get knocked out, and then we have to spend-
@@ -4556,7 +4556,7 @@
 [u4556 | 02:47:22.373-02:47:25.741 | DM] ... and then 15 plus- ...
 [u4557 | 02:47:25.741-02:47:27.481 | DM] nine I rolled the exact same thing twice.
 [u4558 | 02:47:28.863-02:47:35.483 | DM] Um, I mean, you might stop to think for like a second about why it might be, again, going against Wellby.
-[u4559 | 02:47:35.501-02:47:37.401 | Delwath] Yeah, 'cause he's the tongue of the pseudopod.
+[u4559 | 02:47:35.501-02:47:37.401 | Delwath] Yeah, 'cause he's cutting off the pseudopod.
 [u4560 | 02:47:38.301-02:47:38.621 | Wellby] Yes.
 [u4561 | 02:47:39.941-02:47:40.181 | DM] Um-
 [u4562 | 02:47:40.501-02:47:42.241 | Wellby] All right, I just lost half my hit points-
