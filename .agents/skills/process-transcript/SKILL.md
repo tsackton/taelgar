@@ -176,8 +176,10 @@ errors, not a fresh rewrite. Use the response schema in
   may have no mentions; the inspection checklist records that it was considered.
 - Record a speaker correction only when context or human evidence supports it.
   The helper stores an attribution overlay with source character spans; prepared
-  and cleaned headers remain stable. Both polished output and its structured
-  provenance use this overlay. It also supports multiple speakers within one UID.
+  and cleaned headers remain stable. During processing, polished output and its
+  structured provenance use this overlay. After finalization, corrected speakers
+  are retained in the polished Markdown and its source spans, not duplicated in
+  session YAML. This also supports multiple speakers within one UID.
   Preserve uncertain speakers as such and assess their materiality.
 
 Write the response only to the returned bundle-local response path, then submit:
@@ -301,7 +303,10 @@ Finalization keeps the **original, prepared UID, cleaned UID, polished Markdown,
 and session YAML**. The prepared transcript remains the permanent original-text
 lookup by UUID. Existing session metadata and its comments are preserved; a compact
 completion field records the retained paths, current fingerprints, completion
-status, and any speaker corrections needed because UID headers remain unchanged.
+status, and counts. Corrected speakers and within-UID speaker boundaries remain
+in the polished Markdown's labelled turns and source spans; do not write a
+`speakerCorrections` list to session YAML. Consumers needing corrected attribution
+must read the polished transcript, since prepared and cleaned headers remain unchanged.
 These fingerprints detect later changes without keeping processing history.
 
 Finalization removes the pipeline's JSON/HTML exports, entity index, completed

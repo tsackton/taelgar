@@ -59,8 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-045-transcript.md
       sha256: 3a87bce054ff6b78c4cb4408465dec1ecb59fda824d6b1764e06ff5148cbc5e8
-  speakerCorrections:
-  - uid: u0414
-    start: 0
-    end: 27
-    speaker: Wellby

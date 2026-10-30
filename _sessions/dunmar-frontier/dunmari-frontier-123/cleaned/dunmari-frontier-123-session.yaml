@@ -58,16 +58,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-123-transcript.md
       sha256: 6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8
-  speakerCorrections:
-  - uid: u0163
-    start: 0
-    end: 73
-    speaker: Wellby
-  - uid: u0732
-    start: 0
-    end: 17
-    speaker: DM
-  - uid: u1238
-    start: 0
-    end: 66
-    speaker: DM

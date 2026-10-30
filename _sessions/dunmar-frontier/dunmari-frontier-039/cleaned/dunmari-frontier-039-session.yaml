@@ -59,20 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-039-transcript.md
       sha256: 0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff
-  speakerCorrections:
-  - uid: u0134
-    start: 0
-    end: 58
-    speaker: DM
-  - uid: u0551
-    start: 0
-    end: 28
-    speaker: DM
-  - uid: u0552
-    start: 0
-    end: 5
-    speaker: DM
-  - uid: u2013
-    start: 0
-    end: 19
-    speaker: Delwath

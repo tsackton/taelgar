@@ -55,28 +55,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-130-transcript.md
       sha256: 4d36e7c23579f9991e3c8ec7501b1debe2548ff07a5e3070e1c7648fed254938
-  speakerCorrections:
-  - uid: u0131
-    start: 0
-    end: 24
-    speaker: DM
-  - uid: u0208
-    start: 0
-    end: 78
-    speaker: DM
-  - uid: u1444
-    start: 0
-    end: 52
-    speaker: Delwath
-  - uid: u1625
-    start: 0
-    end: 102
-    speaker: DM
-  - uid: u1855
-    start: 0
-    end: 16
-    speaker: Kenzo
-  - uid: u1900
-    start: 0
-    end: 87
-    speaker: DM

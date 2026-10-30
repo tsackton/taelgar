@@ -59,12 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-112-transcript.md
       sha256: f80dd00d54f72e40a2ab34310f34c6740f851bead8784b059f9f3bfe0baae5f3
-  speakerCorrections:
-  - uid: u0278
-    start: 0
-    end: 11
-    speaker: Wellby
-  - uid: u3494
-    start: 0
-    end: 11
-    speaker: Seeker

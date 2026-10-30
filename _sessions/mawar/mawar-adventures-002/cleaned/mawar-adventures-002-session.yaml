@@ -59,8 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/mawar-adventures-002-transcript.md
       sha256: e8631eaaf4aa087d83e776df5e9b8d9f1c7592b7e8efcd35c455a6e85ce9e1f6
-  speakerCorrections:
-  - uid: u2523
-    start: 0
-    end: 29
-    speaker: DM

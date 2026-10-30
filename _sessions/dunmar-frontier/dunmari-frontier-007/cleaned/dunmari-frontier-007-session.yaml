@@ -59,36 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-007-transcript.md
       sha256: 4b969e6a5857c19f8ab0236f3d981b5a5d03f36b90f12f78e6c2b404e58add25
-  speakerCorrections:
-  - uid: u0087
-    start: 0
-    end: 26
-    speaker: Wellby
-  - uid: u0540
-    start: 0
-    end: 9
-    speaker: DM
-  - uid: u0541
-    start: 0
-    end: 11
-    speaker: DM
-  - uid: u0623
-    start: 0
-    end: 32
-    speaker: DM
-  - uid: u0784
-    start: 0
-    end: 23
-    speaker: DM
-  - uid: u2494
-    start: 0
-    end: 49
-    speaker: DM
-  - uid: u2792
-    start: 0
-    end: 13
-    speaker: DM
-  - uid: u1213
-    start: 0
-    end: 4
-    speaker: Wellby
