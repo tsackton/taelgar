@@ -286,7 +286,7 @@
 [u0286 | 00:26:01.260-00:26:04.589 | DM] Okay, they would be receptive to
 [u0287 | 00:26:04.820-00:26:05.960 | DM] to
 [u0288 | 00:26:06.380-00:26:08.660 | DM] being commanded
-[u0289 | 00:26:08.690-00:26:14.299 | DM] by the {{up there}}. I know they would.
+[u0289 | 00:26:08.690-00:26:14.299 | DM] by the scepter. I know they would.
 [u0290 | 00:26:16.940-00:26:27.909 | DM] Okay, you fly over and because I'm carrying the portable... You've got the portable hole in the locket around your neck. So you have both mirrors and scepter.
 [u0291 | 00:26:31.640-00:26:37.090 | Wellby] I was just thinking, is the is there anything in the alchemy jug?
 [u0292 | 00:26:37.420-00:26:40.520 | Wellby] I think Seeker has the alchemy...
@@ -541,7 +541,7 @@
 [u0541 | 00:45:50.910-00:45:52.359 | DM] as you
 [u0542 | 00:45:52.630-00:45:54.569 | DM] start away with that whistle.
 [u0543 | 00:45:55.040-00:46:01.440 | DM] Good thing they have disadvantage. I rolled two natural twenties, but it turns out it turns into an eight and a sixteen
-[u0544 | 00:46:01.690-00:46:06.659 | DM] cool. So both of them miss because you're one thousand eight hundred and seventeen right.
+[u0544 | 00:46:01.690-00:46:06.659 | DM] cool. So both of them miss because your AC is seventeen right.
 [u0545 | 00:46:09.520-00:46:14.129 | Wellby] And now you're out of range. Almost fifty points of damage through that, but
 [u0546 | 00:46:14.320-00:46:16.179 | Wellby] they're not in great shape.
 [u0547 | 00:46:17.470-00:46:23.090 | DM] Hobgoblins with crossbows are nasty. Six crossbows just taking potshots at you.
@@ -879,7 +879,7 @@
 [u0879 | 01:10:06.340-01:10:09.920 | DM] Hmm. But I have my doubts.
 [u0880 | 01:10:12.340-01:10:14.889 | DM] In any case. I've never spoken to one.
 [u0881 | 01:10:16.430-01:10:17.840 | Wellby] Well, if the
-[u0882 | 01:10:20.340-01:10:23.319 | Wellby] {{I have any thoughts}}, maybe the sea elves will
+[u0882 | 01:10:20.340-01:10:23.319 | Wellby] kenku don't have any thoughts, maybe the sea elves will
 [u0883 | 01:10:27.940-01:10:31.199 | Wellby] you? You haven't heard of it?
 [u0884 | 01:10:31.960-01:10:33.999 | Wellby] Crossings into the Feywild.
 [u0885 | 01:10:34.410-01:10:40.019 | DM] There are stories of all kinds around the Eastern Isles. I've certainly heard of

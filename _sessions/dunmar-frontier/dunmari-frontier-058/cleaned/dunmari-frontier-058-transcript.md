@@ -1,12 +1,12 @@
 # Dunmari Frontier — Session 58
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-058-source-cleaned.md
 
 ## Transcript
 
-%% u0001:0-107, u0002:0-248, u0003:0-9, u0004:0-65, u0005:0-95, u0006:0-135 %%
-DM: Okay. So our adventure today starts in Morkalan, the bleak domain of the Shadowfell, a land of ash and mud, where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of {{arm}} {{test}}, turning on them and slaughtering them in the midst of the battle. But now you all have come to this dark realm to find him and confront him about his evil deeds. And you use the Chalice of the Runepriest to send him from this domain, either to judgment or forgiveness, depending on what you decide.
+%% u0001:0-107, u0002:0-240, u0003:0-7, u0004:0-65, u0005:0-95, u0006:0-135 %%
+DM: Okay. So our adventure today starts in Morkalan, the bleak domain of the Shadowfell, a land of ash and mud, where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of Ardith, turning on them and slaughtering them in the midst of the battle. But now you all have come to this dark realm to find him and confront him about his evil deeds. And you use the Chalice of the Runepriest to send him from this domain, either to judgment or forgiveness, depending on what you decide.
 
 %% u0007:0-134, u0008:0-65, u0009:0-48, u0010:0-74, u0011:0-207, u0012:0-64 %%
 DM: After you accepted this quest and arrived in Morkalan, you found the village of Bleakhold where you met the zombie-like village watch, who spoke little, but warned you that Morkalan is always watching. In the seemingly deserted town, you learned that living dwarves do dwell here. But if you venture out to explore the world, the only names that you heard of travelers or wanderers outside of Bleakhold, who might be able to tell you something about this place are the mad priest who was exiled to the Ashfield some time ago, and Tak, a young dwarf born in Morkalan, who had been missing for a week.
@@ -56,8 +56,8 @@ Thror: Yeah, it's too funny. What are we planning on to make?
 %% u0093:0-32, u0094:0-26, u0095:0-32, u0096:0-44 %%
 Riswynn: I think we just want to ask her. It's for information about her history with this place, and hold beard, or whatever that ghost’s name is.
 
-%% u0097:0-16 %%
-Rothfis: {{agriculture}}.
+%% u0097:0-7 %%
+Rothfis: Hagrim.
 
 %% u0098:0-90 %%
 Thror: Well, then, the I think probably the three of us subtly glance over at Riswynn and give up.
@@ -164,8 +164,8 @@ DM: Do not know why I should trust you. What will you do for us? What will you d
 %% u0195:0-29 %%
 Thror: What do you mean, this place?
 
-%% u0196:0-31, u0197:0-49, u0198:0-36, u0199:0-11, u0200:0-35, u0201:0-12, u0202:0-12, u0203:0-7, u0204:0-12, u0205:0-35, u0206:0-21, u0207:0-32, u0208:0-34, u0209:0-23 %%
-DM: Do not know. It's been so long. She turns, and she sort of, and she looks at Tak. {{There was born here. I've never,}} {{or even}} {{the blessing of the gods of the}} their names. We have been cut off for so long. You say that the gods sent you, but many have come before claiming to be sent by the gods. Why should we? Why should I trust? Why should I trust you?
+%% u0196:0-31, u0197:0-49, u0198:0-27, u0199:0-10, u0200:0-27, u0201:0-12, u0202:0-12, u0203:0-7, u0204:0-12, u0205:0-35, u0206:0-21, u0207:0-32, u0208:0-34, u0209:0-23 %%
+DM: Do not know. It's been so long. She turns, and she sort of, and she looks at Tak. I was born here. I've never even heard the blessing of the gods or their names. We have been cut off for so long. You say that the gods sent you, but many have come before claiming to be sent by the gods. Why should we? Why should I trust? Why should I trust you?
 
 %% u0210:0-43, u0211:0-12, u0212:0-81 %%
 Rothfis: Well, did any of them have a cup like that? Why, don't I— you're not interested in ale. Maybe you're interested in whatever she's offering.
@@ -182,11 +182,11 @@ DM: She looks, um, kind of hungrily at the chalice.
 %% u0234:0-39, u0235:0-15, u0236:0-22, u0237:0-15, u0238:0-8, u0239:0-73, u0240:0-33, u0241:0-11, u0242:0-48 %%
 DM: I guess I can share the story with you. If you bear the artifacts of the gods... It's, it's—it's— We left, I don't know how many years ago now—time passes strangely in this place— traveling with that very chalice, looking for refuge for those who had survived the Great War.
 
-%% u0243:0-6, u0244:0-19, u0245:0-16, u0246:0-7, u0247:0-31, u0248:0-20, u0249:0-13, u0250:0-30, u0251:0-24, u0252:0-62, u0253:0-48, u0254:0-8, u0255:0-13, u0256:0-13, u0257:0-30, u0258:0-15, u0259:0-51 %%
-DM: Hagrim in those days was a seasoned veteran, fought mind flayers and worse, and the the deeps underneath the mountains. Happened to him there, because well, he didn't want to. He didn't want to go. He was reluctant to join our expedition. I think he was hoping maybe, for a heroic death. We found many refugees, turned south. {{We did, but not to feed It}} fled with maybe five hundred dwarfs, hoping to lead them to safety.
+%% u0243:0-6, u0244:0-19, u0245:0-16, u0246:0-7, u0247:0-31, u0248:0-20, u0249:0-13, u0250:0-30, u0251:0-24, u0252:0-62, u0253:0-48, u0254:0-8, u0255:0-13, u0256:0-13, u0257:0-24, u0258:0-15, u0259:0-51 %%
+DM: Hagrim in those days was a seasoned veteran, fought mind flayers and worse, and the the deeps underneath the mountains. Happened to him there, because well, he didn't want to. He didn't want to go. He was reluctant to join our expedition. I think he was hoping maybe, for a heroic death. We found many refugees, turned south. Wounded but not defeated, fled with maybe five hundred dwarfs, hoping to lead them to safety.
 
-%% u0260:0-47, u0261:0-12, u0262:0-42, u0263:0-29, u0264:0-9, u0265:0-46, u0266:0-16, u0267:0-38, u0268:0-9, u0269:0-17, u0270:0-5, u0271:0-21, u0272:0-80 %%
-DM: North of the human city of Tokra we encountered the son of a fire giant who had been slaughtered by the the humans. He called himself Magerson. He was leading an army of trolls, and we were— We were trapped. We holed up. We built a fortification, hoping to outlast the giant. Think— I think we would have... Sort of pauses for a moment, and, like, her features become slightly indistinct.
+%% u0260:0-47, u0261:0-12, u0262:0-42, u0263:0-29, u0264:0-10, u0265:0-46, u0266:0-16, u0267:0-38, u0268:0-9, u0269:0-17, u0270:0-5, u0271:0-21, u0272:0-80 %%
+DM: North of the human city of Tokra we encountered the son of a fire giant who had been slaughtered by the the humans. He called himself Mavdyrson. He was leading an army of trolls, and we were— We were trapped. We holed up. We built a fortification, hoping to outlast the giant. Think— I think we would have... Sort of pauses for a moment, and, like, her features become slightly indistinct.
 
 %% u0273:0-20, u0274:0-27 %%
 DM: I was commanding the the flank of the war bands.
@@ -3662,11 +3662,11 @@ Unknown: Haring off after them.
 %% u3023:0-3, u3024:0-53, u3025:0-3, u3026:0-16, u3027:0-73, u3028:0-37, u3029:0-67, u3030:0-25, u3031:0-56, u3032:0-39, u3033:0-23, u3034:0-40 %%
 DM: So, as you all sort of gather to explain what's happened, and— is that all? The— the refugees, now returned one hundred and fifty years later to where they were some time ago, to a land changed. It's up to each of you what you decide to do. Return to your lives, travel with these people. If you wish to return to your lives, you have the choice, teleport back to where you were before, I guess, except Riswynn. Riswynn, you’re stuck with these people.
 
-%% u3035:0-11, u3036:0-42 %%
-Riswynn: I got that. It's okay. I know the way {{from uh to a}}.
+%% u3035:0-11, u3036:0-40 %%
+Riswynn: I got that. It's okay. I know the way to Tharn Todor.
 
 %% u3037:0-39, u3038:0-81, u3039:0-32, u3040:0-35, u3041:0-136, u3042:0-33, u3043:0-39, u3044:0-61, u3045:0-26, u3046:0-33, u3047:0-39, u3048:0-72 %%
-Rothfis: Rothfis shrinks down to normal size and looks around to you. You see that—you see that he has aged. I don't know that one— see that he's aged twenty years, and he shakes his head, and he says, "So, first the Ironhorns took ten good years of me in that marriage, and then that ghost took twenty good years from me in one fell kick. I have got to go back to the pub." He will say, "If you're ever in Chardon, Stonefist Steins and Stables always has an open room for you," and let them know as well. But I think if it's like a little chest tap or whatever, that from that, if, you know, after a quick goodbye he's just going to blink a—blink out.
+Rothfis: Rothfis shrinks down to normal size and looks around to you. You see that—you see that he has aged. I don't know that one— see that he's aged twenty years, and he shakes his head, and he says, "So, first the Ironcorns took ten good years of me in that marriage, and then that ghost took twenty good years from me in one fell kick. I have got to go back to the pub." He will say, "If you're ever in Chardon, Stonefist Steins and Stables always has an open room for you," and let them know as well. But I think if it's like a little chest tap or whatever, that from that, if, you know, after a quick goodbye he's just going to blink a—blink out.
 
 %% u3049:0-17 %%
 DM: How about Merash?

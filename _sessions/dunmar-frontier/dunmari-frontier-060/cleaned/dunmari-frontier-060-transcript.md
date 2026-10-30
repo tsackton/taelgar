@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 60
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-060-source-cleaned.md
 
 ## Transcript
@@ -305,8 +305,8 @@ DM: We'll keep an eye out for you.
 %% u0282:0-104, u0283:0-94, u0284:0-26, u0285:0-102 %%
 Wellby: And I'm trying to think if there's something that I could make the armor look like that would be useful. I think what I'll try to do—I don't know if mechanically this will have any effect, but I'll— I'll make—I'll use the, um, the kenku studded leather to glamour it and try and match the color of the sky above me as best I can.
 
-%% u0286:0-32, u0287:0-2, u0288:0-15, u0289:0-39 %%
-DM: Okay, they would be receptive to—to being commanded by the {{up there}}. I know they would.
+%% u0286:0-32, u0287:0-2, u0288:0-15, u0289:0-34 %%
+DM: Okay, they would be receptive to—to being commanded by the scepter. I know they would.
 
 %% u0290:0-23 %%
 DM: Okay, you fly over, and—
@@ -599,8 +599,8 @@ DM: You're all set, um,
 %% u0531:0-70, u0532:0-75, u0533:0-26, u0534:0-89, u0535:0-3, u0536:0-76, u0537:0-61, u0538:0-34, u0539:0-3 %%
 DM: And they seem to have—you know, their—this is a pretty organized crew. They're managing to get the fire under control. That—that sail is done for, and they're clear—I mean, there, you can see now that the halfling ship is already starting to gain ground on them. And you know, without that sail there's no way they're gonna be able to keep up, even if they can replace it. It's going to take them hours to, you know, re-rig it and everything. Um,
 
-%% u0540:0-102, u0541:0-6, u0542:0-29, u0543:0-119, u0544:0-89, u0545:0-29 %%
-DM: But the last two ah crossbow fighters are still going to take two more potshots at you in the distance as you start away with that whistle. Good thing they have disadvantage. I rolled two natural twenties, but it turns out—it turns into an eight and a sixteen. Cool, so both of them miss because you're [garbled] seventeen, right? And now you're out of range.
+%% u0540:0-102, u0541:0-6, u0542:0-29, u0543:0-119, u0544:0-62, u0545:0-29 %%
+DM: But the last two ah crossbow fighters are still going to take two more potshots at you in the distance as you start away with that whistle. Good thing they have disadvantage. I rolled two natural twenties, but it turns out—it turns into an eight and a sixteen. Cool, so both of them miss because your AC is seventeen, right? And now you're out of range.
 
 %% u0545:29-76, u0546:0-27 %%
 Wellby: Almost fifty points of damage through that, but they're not in great shape.
@@ -890,8 +890,8 @@ DM: I don't think so. Maybe shy is a better word than unfriendly.
 %% u0876:0-63, u0877:0-41, u0878:0-54, u0879:0-26, u0880:0-38 %%
 DM: Some sailors I know, some Brightmoons, have claimed to see them in the distance when we've been trying to find an island that seems to have gotten away from us. Hmm, but I have my doubts. In any case, I've never spoken to one.
 
-%% u0881:0-12, u0882:0-49, u0883:0-29, u0884:0-27 %%
-Wellby: Well, if the {{I have any thoughts}}, maybe the sea elves will. You—you haven't heard of it? Crossings into the Feywild?
+%% u0881:0-12, u0882:0-55, u0883:0-29, u0884:0-27 %%
+Wellby: Well, if the kenku don't have any thoughts, maybe the sea elves will. You—you haven't heard of it? Crossings into the Feywild?
 
 %% u0885:0-80, u0886:0-15, u0887:0-24, u0888:0-6, u0889:0-19, u0890:0-23, u0891:0-79, u0892:0-19, u0893:0-25, u0894:0-4 %%
 DM: There are stories of all kinds around the Eastern Isles. I've certainly heard of people who have sailed through the wrong strait, not come out again, they say. Sometimes the—the passageways through the Eastern Isles lead not to the Endless Ocean, but to stranger places: the Elemental Plane of Water, you—

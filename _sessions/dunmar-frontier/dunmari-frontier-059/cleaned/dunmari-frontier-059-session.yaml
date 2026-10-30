@@ -28,3 +28,227 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-059/sources/zoom-session-059.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2064
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20221007-004325_Recording.transcript.vtt
+      sha256: 8c39d58c17324bb9203fe0bb0b7485c9c301676a3c2ed9d77cae859a50ba502b
+    prepared:
+      path: cleaned/dunmari-frontier-059-source-prepared.md
+      sha256: 98d531946008cc08ef18f3a7d2b40ac46c1624ce432ff0bc9afef4e447d06527
+    cleaned:
+      path: cleaned/dunmari-frontier-059-source-cleaned.md
+      sha256: fe37972f29b2a994208307b66c94ee607c155b74b904ad389f12145fce1c8ae5
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-059-transcript.md
+      sha256: 868ab075c0abbb79b21602bcd6ff02750330e254b7697dcba9829758e7deb101
+  speakerCorrections:
+  - uid: u0106
+    start: 0
+    end: 47
+    speaker: Kenzo
+  - uid: u0285
+    start: 110
+    end: 249
+    speaker: Izzarak
+  - uid: u0512
+    start: 0
+    end: 36
+    speaker: Izzarak
+  - uid: u0513
+    start: 0
+    end: 15
+    speaker: Izzarak
+  - uid: u0516
+    start: 0
+    end: 12
+    speaker: Izzarak
+  - uid: u0579
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u0628
+    start: 0
+    end: 4
+    speaker: Kenzo
+  - uid: u0813
+    start: 0
+    end: 4
+    speaker: Izzarak
+  - uid: u0970
+    start: 0
+    end: 8
+    speaker: DM
+  - uid: u0971
+    start: 0
+    end: 58
+    speaker: Izzarak
+  - uid: u0994
+    start: 0
+    end: 55
+    speaker: DM
+  - uid: u1026
+    start: 0
+    end: 78
+    speaker: DM
+  - uid: u1046
+    start: 0
+    end: 52
+    speaker: Kenzo
+  - uid: u1046
+    start: 104
+    end: 143
+    speaker: Kenzo
+  - uid: u1054
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u1101
+    start: 0
+    end: 64
+    speaker: Kenzo
+  - uid: u1101
+    start: 154
+    end: 159
+    speaker: Kenzo
+  - uid: u1113
+    start: 0
+    end: 43
+    speaker: DM
+  - uid: u1114
+    start: 0
+    end: 2
+    speaker: DM
+  - uid: u1148
+    start: 0
+    end: 46
+    speaker: DM
+  - uid: u1149
+    start: 0
+    end: 36
+    speaker: DM
+  - uid: u1285
+    start: 0
+    end: 41
+    speaker: DM
+  - uid: u1399
+    start: 0
+    end: 41
+    speaker: DM
+  - uid: u1408
+    start: 58
+    end: 104
+    speaker: Kenzo
+  - uid: u1409
+    start: 168
+    end: 256
+    speaker: Kenzo
+  - uid: u1410
+    start: 0
+    end: 19
+    speaker: Kenzo
+  - uid: u1412
+    start: 0
+    end: 92
+    speaker: DM
+  - uid: u1416
+    start: 99
+    end: 132
+    speaker: Kenzo
+  - uid: u1416
+    start: 187
+    end: 203
+    speaker: Kenzo
+  - uid: u1505
+    start: 0
+    end: 40
+    speaker: Izzarak
+  - uid: u1617
+    start: 0
+    end: 92
+    speaker: DM
+  - uid: u1618
+    start: 32
+    end: 62
+    speaker: Izzarak
+  - uid: u1631
+    start: 0
+    end: 29
+    speaker: Izzarak
+  - uid: u1633
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u1638
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u1677
+    start: 0
+    end: 27
+    speaker: DM
+  - uid: u1683
+    start: 0
+    end: 24
+    speaker: DM
+  - uid: u1688
+    start: 0
+    end: 29
+    speaker: Izzarak
+  - uid: u1729
+    start: 0
+    end: 20
+    speaker: DM
+  - uid: u1735
+    start: 0
+    end: 73
+    speaker: Kenzo
+  - uid: u1736
+    start: 0
+    end: 45
+    speaker: DM
+  - uid: u1737
+    start: 0
+    end: 30
+    speaker: Kenzo
+  - uid: u1740
+    start: 0
+    end: 117
+    speaker: DM
+  - uid: u1785
+    start: 0
+    end: 33
+    speaker: DM
+  - uid: u1800
+    start: 56
+    end: 76
+    speaker: Kenzo
+  - uid: u1850
+    start: 0
+    end: 37
+    speaker: Kenzo
+  - uid: u1851
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u1859
+    start: 0
+    end: 24
+    speaker: DM
+  - uid: u1962
+    start: 0
+    end: 22
+    speaker: DM
+  - uid: u2063
+    start: 14
+    end: 85
+    speaker: DM
+  - uid: u2064
+    start: 53
+    end: 87
+    speaker: Kenzo

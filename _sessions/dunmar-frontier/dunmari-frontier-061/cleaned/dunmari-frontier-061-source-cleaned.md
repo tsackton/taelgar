@@ -481,7 +481,7 @@
 [u0481 | 00:38:11.360-00:38:13.089 | Seeker] What numbers does it show?
 [u0482 | 00:38:14.060-00:38:15.250 | DM] um
 [u0483 | 00:38:16.040-00:38:17.679 | DM] keeps changing,
-[u0484 | 00:38:28.890-00:38:30.359 | Seeker] and so there is no {{ourcon}} on that
+[u0484 | 00:38:28.890-00:38:30.359 | Seeker] and so there is no arcana on that
 [u0485 | 00:38:30.400-00:38:31.439 | Unknown] that I
 [u0486 | 00:38:32.270-00:38:35.990 | Seeker] We can draw no connections that I can make
 [u0487 | 00:38:36.640-00:38:38.500 | DM] it's, I mean.
@@ -654,7 +654,7 @@
 [u0654 | 00:51:35.210-00:51:38.030 | Seeker] Well, this is all very interesting.
 [u0655 | 00:51:41.160-00:51:43.540 | Seeker] I I would love to be able to to
 [u0656 | 00:51:49.560-00:51:51.799 | Seeker] see cheating, or something like that happening,
-[u0657 | 00:51:52.650-00:51:57.779 | Seeker] but I don't know if I have a way to do that. I have a scroll of {{detectivity}}, which is, if I'm out with you
+[u0657 | 00:51:52.650-00:51:57.779 | Seeker] but I don't know if I have a way to do that. I have a scroll of Detect Magic, which is, if I'm out with you
 [u0658 | 00:51:58.050-00:52:01.160 | Seeker] here. I don't have a spell that does that. I don't think
 [u0659 | 00:52:02.400-00:52:07.190 | DM] you have the Wand of Detect Magic that you just got from the dragon's hoard.
 [u0660 | 00:52:07.330-00:52:09.080 | Seeker] Ah, geez,
@@ -1168,7 +1168,7 @@
 [u1168 | 01:30:55.330-01:31:00.630 | DM] normally you think of magic as sort of running in neat channels through the world,
 [u1169 | 01:31:00.670-01:31:04.910 | DM] but when it overflows those channels it
 [u1170 | 01:31:05.400-01:31:07.849 | DM] you get this sort of wild magic,
-[u1171 | 01:31:10.050-01:31:14.089 | Seeker] and {{is unrelated}} to Delwath's Magic, which is like
+[u1171 | 01:31:10.050-01:31:14.089 | Seeker] and is it related to Delwath's Magic, which is like
 [u1172 | 01:31:15.200-01:31:18.480 | Seeker] connected to
 [u1173 | 01:31:20.130-01:31:26.590 | Seeker] But I Haven't necessarily seen it in practice. But I read about it right. You've read. This would be something you read about. Not
 [u1174 | 01:31:29.110-01:31:40.839 | Seeker] you like Oskar sort of scornful of it. It's like that's not even worth paying attention to I mean. Oh, yeah, no, he would never write about. Something as like prosaic as wild magic

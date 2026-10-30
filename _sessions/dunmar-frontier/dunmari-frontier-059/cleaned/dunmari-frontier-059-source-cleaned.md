@@ -1858,7 +1858,7 @@
 [u1858 | 02:46:51.840-02:46:53.110 | DM] beast.
 [u1859 | 02:47:00.580-02:47:02.590 | Unknown] I don't know the word in
 [u1860 | 02:47:04.640-02:47:06.849 | DM] any tongue but my own
-[u1861 | 02:47:06.880-02:47:10.810 | DM] {{Ramanaka, Palmer, Kazoo}}
+[u1861 | 02:47:06.880-02:47:10.810 | DM] Ramanaka Palamakazoo
 [u1862 | 02:47:11.490-02:47:12.330 | DM] Up,
 [u1863 | 02:47:13.810-02:47:15.390 | DM] creature of the
 [u1864 | 02:47:17.560-02:47:19.090 | DM] the veil,
