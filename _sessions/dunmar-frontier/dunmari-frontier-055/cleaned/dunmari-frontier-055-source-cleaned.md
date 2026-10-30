@@ -207,7 +207,7 @@
 [u0207 | 00:18:32.460-00:18:33.480 | Aristaea] And this doesn't ring.
 [u0208 | 00:18:33.480-00:18:37.200 | DM] A bell like you know that there is a fire giant that fought.
 [u0209 | 00:18:38.970-00:18:42.150 | DM] In this battle, supposedly against Taraka.
-[u0210 | 00:18:46.350-00:18:51.600 | Delwath] Taraka we did fleet Naka died as far as being trapped.
+[u0210 | 00:18:46.350-00:18:51.600 | Delwath] Taraka really did flee, not die, as far as being trapped.
 [u0211 | 00:18:52.440-00:18:55.830 | Aristaea] yeah maybe getting trapped in a parallel dimension counts as fleeing.
 [u0212 | 00:19:04.200-00:19:08.340 | Delwath] Sure we're here to punish those who have fled and bring honor to the battlefield, why not.
 [u0213 | 00:19:12.300-00:19:13.620 | DM] Like the ghost kind of.
@@ -280,7 +280,7 @@
 [u0280 | 00:24:57.000-00:24:57.900 | Delwath] think we just go in.
 [u0281 | 00:25:01.200-00:25:01.530 | Iascaire] or.
 [u0282 | 00:25:01.800-00:25:02.880 | Aristaea] it's not a one way trip.
-[u0283 | 00:25:08.670-00:25:20.490 | Iascaire] Maybe they're hungry, we could set up a campfire I could cook some fish, we could waft that smoke in the darkness and perhaps the hobgoblins would come on reddit.
+[u0283 | 00:25:08.670-00:25:20.490 | Iascaire] Maybe they're hungry, we could set up a campfire I could cook some fish, we could waft that smoke in the darkness and perhaps the hobgoblins would come running.
 [u0284 | 00:25:26.760-00:25:29.460 | Delwath] Nobody has any planar.
 [u0285 | 00:25:32.910-00:25:34.320 | Iascaire] don't think I have planar travel.
 [u0286 | 00:25:37.890-00:25:38.130 | Iascaire] No.
@@ -290,7 +290,7 @@
 [u0290 | 00:25:54.300-00:25:55.710 | Delwath] No, I could get us back.
 [u0291 | 00:26:02.760-00:26:03.180 | Iascaire] yeah.
 [u0292 | 00:26:06.810-00:26:07.230 | Iascaire] Okay.
-[u0293 | 00:26:08.010-00:26:13.800 | Aristaea] If we're in the shadows and you banish yourself from the shadows will end up in the {{pit before us and said}}.
+[u0293 | 00:26:08.010-00:26:13.800 | Aristaea] If we're in the shadows and you banish yourself from the shadows will end up in the creepy forest instead.
 [u0294 | 00:26:14.310-00:26:14.550 | Unknown] yep.
 [u0295 | 00:26:18.870-00:26:20.820 | Aristaea] Right charge.
 [u0296 | 00:26:23.220-00:26:27.690 | Delwath] native to a different plane of existence, then the one you're on, the target is banished returns home plane.
@@ -2307,7 +2307,7 @@
 [u2307 | 03:11:33.450-03:11:33.720 | Delwath] I mean.
 [u2308 | 03:11:33.810-03:11:38.100 | Delwath] I got it might be nice if somebody dropped some fire, so that I don't get.
 [u2309 | 03:11:38.880-03:11:40.950 | Iascaire] The wall of fire goes down if I drop.
-[u2310 | 03:11:41.670-03:11:43.800 | Delwath] I know, but if I drop Fly, the flag.
+[u2310 | 03:11:41.670-03:11:43.800 | Delwath] I know, but if I drop Fly, they fall.
 [u2311 | 03:11:45.840-03:11:46.590 | DM] I'm coming here.
 [u2312 | 03:11:48.150-03:11:48.450 | DM] Okay.
 [u2313 | 03:11:48.480-03:11:51.690 | Delwath] Thank you that's really what we need is somebody with no concentration spell up.

@@ -5,11 +5,11 @@
 [u0005 | 00:00:47.910-00:00:57.840 | DM] To the growth of the university after the fall of Drankor or the founding of the Council of Magic the Hetaeri Magica to help regulate magical training and the growing academy.
 [u0006 | 00:00:58.410-00:01:11.040 | DM] And finally, in the loss and pain after the Great War, the founding of the Society of the Open Scroll to preserve and protect magical and esoteric knowledge in the aftermath of that devastation.
 [u0007 | 00:01:13.170-00:01:19.890 | DM] From the lofty heights of the spire the bustle of students faculty tutors and others coming and going from the University.
-[u0008 | 00:01:20.280-00:01:30.690 | DM] proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human is this.
+[u0008 | 00:01:20.280-00:01:30.690 | DM] proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human these days.
 [u0009 | 00:01:32.340-00:01:47.280 | DM] They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics.
 [u0010 | 00:01:48.420-00:02:00.090 | DM] The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Fausto, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
 [u0011 | 00:02:02.640-00:02:05.490 | DM] As you leave the chapter House a quiet student tavern.
-[u0012 | 00:02:06.810-00:02:16.410 | DM] And head towards the nearest toss so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east.
+[u0012 | 00:02:06.810-00:02:16.410 | DM] And head towards the nearest hall so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east.
 [u0013 | 00:02:17.610-00:02:23.670 | DM] A young dwarven student, barely past his caste ceremony, takes pity on you and leads you to Sibyl's Hall.
 [u0014 | 00:02:24.750-00:02:37.800 | DM] Sibyl's Hall is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of Chardon, and since the Great War and the rise of the imperial power...
 [u0015 | 00:02:39.660-00:02:43.260 | DM] influence of many of the ancient religious orders has diminished.
@@ -17,7 +17,7 @@
 [u0017 | 00:02:56.010-00:03:01.680 | DM] The dwarven student leads you to a small lecture room in an ancient building now in need of extensive repairs.
 [u0018 | 00:03:02.880-00:03:04.770 | DM] at the front of the room.
 [u0019 | 00:03:06.360-00:03:07.710 | DM] A disheveled man.
-[u0020 | 00:03:10.230-00:03:22.080 | DM] Maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on {{object}}.
+[u0020 | 00:03:10.230-00:03:22.080 | DM] Maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on logic.
 [u0021 | 00:03:23.310-00:03:26.400 | DM] To four students in the room.
 [u0022 | 00:03:28.470-00:03:39.000 | DM] But as you enter and the dwarf, the young dwarf scurries away, he slowly trails off to nothing and turns to stare at you.
 [u0023 | 00:03:41.070-00:03:50.130 | DM] This man is apparently looks up and says, aggravated and glancing over your armor and your...
@@ -147,7 +147,7 @@
 [u0147 | 00:14:01.650-00:14:07.560 | DM] Baz'aku, a tribe of the Deno'qai people, would come trade and, you know, they...
 [u0148 | 00:14:08.880-00:14:11.460 | DM] claimed anyway, the stories they told was.
 [u0149 | 00:14:12.870-00:14:15.870 | DM] How they were the first people to settle Taelgar.
-[u0150 | 00:14:18.540-00:14:21.780 | DM] They lived in these woods since the {{empire, as of the House}}.
+[u0150 | 00:14:18.540-00:14:21.780 | DM] They lived in these woods since the empires of the elves.
 [u0151 | 00:14:25.770-00:14:32.130 | DM] So when I came to Chardon and studied history, it was, it was natural that I would...
 [u0152 | 00:14:34.350-00:14:38.430 | DM] I would want to go back and see what was true and what was myth.
 [u0153 | 00:14:40.920-00:14:42.900 | DM] So much was lost in the wars, though.
@@ -168,7 +168,7 @@
 [u0168 | 00:16:00.870-00:16:04.350 | DM] They claim that there were once forests that stretched from...
 [u0169 | 00:16:06.210-00:16:07.080 | DM] Dunmar.
 [u0170 | 00:16:09.900-00:16:14.070 | DM] The deserts now to the south, all the way North beyond the edge of the.
-[u0171 | 00:16:15.510-00:16:18.630 | DM] Of the {{cercone an}} Empire before the Downfall.
+[u0171 | 00:16:15.510-00:16:18.630 | DM] Of the Chardonian Empire before the Downfall.
 [u0172 | 00:16:20.550-00:16:22.170 | DM] They said their people remembered.
 [u0173 | 00:16:26.160-00:16:27.090 | DM] Even beyond.
 [u0174 | 00:16:27.480-00:16:31.830 | DM] Far north as the land of fire and ice where the sun never sets in summer.
@@ -213,7 +213,7 @@
 [u0213 | 00:19:57.750-00:19:58.290 | DM] This side.
 [u0214 | 00:20:01.320-00:20:02.580 | DM] I mean this was.
 [u0215 | 00:20:03.900-00:20:04.650 | DM] Right like.
-[u0216 | 00:20:06.330-00:20:10.800 | DM] {{Pandora is not sure much}} armies were up north, right? It's not on the map.
+[u0216 | 00:20:06.330-00:20:10.800 | DM] Pandar, Cha'mutte's armies were up north, right? It's not on the map.
 [u0217 | 00:20:11.100-00:20:17.730 | DM] Right, but Delwath was, would have been fighting some significantly north of where he's talking about, so this...
 [u0218 | 00:20:19.080-00:20:23.250 | DM] Wait, where's my... This, like, southern forest here is the Elderwood.
 [u0219 | 00:20:24.120-00:20:24.720 | Unknown] Right okay.
@@ -759,7 +759,7 @@
 [u0759 | 01:04:10.380-01:04:15.210 | DM] Because Kaeso knows her and you said, do you know anyone in the Society of the Open Scroll?
 [u0760 | 01:04:17.100-01:04:22.350 | Delwath] Right she's like the society person who kind of knows who right okay.
 [u0761 | 01:04:23.370-01:04:23.850 | Delwath] um.
-[u0762 | 01:04:26.250-01:04:30.870 | Riswynn] It turns out that {{and further}}, whatever his name was, was also in this society.
+[u0762 | 01:04:26.250-01:04:30.870 | Riswynn] It turns out that Ulfgar, whatever his name was, was also in this society.
 [u0763 | 01:04:32.460-01:04:39.660 | Riswynn] But we don't know to what level right society membership, you know so she could be slightly less clueless.
 [u0764 | 01:04:40.470-01:04:40.920 | Riswynn] or not.
 [u0765 | 01:04:42.900-01:04:43.260 | Delwath] um.
@@ -878,10 +878,10 @@
 [u0878 | 01:13:42.660-01:13:44.100 | DM] My friend Lyra here as...
 [u0879 | 01:13:45.390-01:13:54.210 | DM] She is quite curious to hear of your adventures, she has recently returned from the north managing treasure hunting parties.
 [u0880 | 01:13:56.220-01:13:57.210 | DM] in Voltara.
-[u0881 | 01:13:59.760-01:14:06.780 | DM] And would be quite curious to know of your experience in the {{cerrone and}} plains. I hope you don't mind.
+[u0881 | 01:13:59.760-01:14:06.780 | DM] And would be quite curious to know of your experience in the Chardonian plains. I hope you don't mind.
 [u0882 | 01:14:08.640-01:14:08.850 | Unknown] But.
 [u0883 | 01:14:10.080-01:14:10.830 | Delwath] Did she just called.
-[u0884 | 01:14:11.550-01:14:12.810 | Wellby] {{Dirty and}} plains, yeah.
+[u0884 | 01:14:11.550-01:14:12.810 | Wellby] Dunmari plains, yeah.
 [u0885 | 01:14:14.310-01:14:16.290 | DM] That was unintentional she meant to say.
 [u0886 | 01:14:17.400-01:14:17.670 | Kenzo] No.
 [u0887 | 01:14:19.530-01:14:19.740 | Kenzo] No.
@@ -890,7 +890,7 @@
 [u0890 | 01:14:29.790-01:14:30.300 | DM] She said.
 [u0891 | 01:14:31.440-01:14:31.740 | Delwath] Okay.
 [u0892 | 01:14:34.500-01:14:36.150 | Riswynn] Just doesn't know his Taelgar geography.
-[u0893 | 01:14:38.040-01:14:40.530 | Delwath] It'd be kind of cooler if she had said the {{child already in}} plains.
+[u0893 | 01:14:38.040-01:14:40.530 | Delwath] It'd be kind of cooler if she had said the Chardonian plains.
 [u0894 | 01:14:40.530-01:14:41.250 | Delwath] yeah that would.
 [u0895 | 01:14:42.420-01:14:43.830 | Delwath] Change Delwath, everything.
 [u0896 | 01:14:43.860-01:14:44.340 | Delwath] Right yes.
@@ -1056,7 +1056,7 @@
 [u1056 | 01:26:37.320-01:26:39.420 | Delwath] of older gods.
 [u1057 | 01:26:41.910-01:26:42.930 | DM] Yes, there are.
 [u1058 | 01:26:43.530-01:26:48.060 | Delwath] Have you heard stories of tanshi, I think it might have been talked on, so...
-[u1059 | 01:26:49.440-01:26:56.160 | DM] Yes, there's many tales of the {{Gestapo}}, the tanshi, I suspect they're all...
+[u1059 | 01:26:49.440-01:26:56.160 | DM] Yes, there's many tales of the Kestavo, the tanshi, I suspect they're all...
 [u1060 | 01:26:57.810-01:27:00.450 | DM] fey creatures who have taken advantage of...
 [u1061 | 01:27:03.630-01:27:05.670 | DM] Early settlers.
 [u1062 | 01:27:06.720-01:27:08.370 | DM] trick them into worshiping.
@@ -1206,7 +1206,7 @@
 [u1206 | 01:46:10.020-01:46:13.530 | Delwath] Like all I know is that Isaac's crew works for the Great Library somewhere in the north.
 [u1207 | 01:46:14.220-01:46:14.580 | Unknown] Right.
 [u1208 | 01:46:17.040-01:46:19.680 | Delwath] It just felt plausible that they were one and the same people.
-[u1209 | 01:46:22.530-01:46:24.450 | Seeker] The garages working for Isaac.
+[u1209 | 01:46:22.530-01:46:24.450 | Seeker] Grash is working for Isaac.
 [u1210 | 01:46:27.120-01:46:32.460 | Delwath] Tim did say once that we're gonna have a crossover and they're gonna beat us because they're better players than we are, they're more tactical, or you...
 [u1211 | 01:46:35.880-01:46:37.050 | DM] know either consortia.
 [u1212 | 01:46:38.460-01:46:38.730 | Delwath] yeah.
@@ -1590,7 +1590,7 @@
 [u1590 | 02:16:44.850-02:16:56.910 | Delwath] From what we've heard of Fausto, he strikes me as the kind of guy who, of course, might very well be interested in the world, but also is not interested in hobgoblins and would be their mortal enemies.
 [u1591 | 02:16:58.800-02:17:04.050 | Wellby] 200 I think the moral perspective too, it's really, it's not really our problem.
 [u1592 | 02:17:04.860-02:17:05.460 | Kenzo] Wait wait, but.
-[u1593 | 02:17:06.150-02:17:18.750 | Kenzo] Don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did {{i'm sorry I}} get captured again?
+[u1593 | 02:17:06.150-02:17:18.750 | Kenzo] Don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did Sura get captured again?
 [u1594 | 02:17:20.160-02:17:21.270 | DM] Like eight years ago.
 [u1595 | 02:17:21.870-02:17:24.870 | Delwath] I don't think he's working with Grash. If he's working...
 [u1596 | 02:17:26.610-02:17:41.670 | Delwath] If, if they're related, Fausto is Grash's commander, and probably has a plan to dispose of Grash when he's done, but I don't... Why would Fausto leave Grash with a powerful artifact?
@@ -2120,7 +2120,7 @@
 [u2120 | 03:02:06.630-03:02:08.010 | Delwath] Riswynn was in Eudomes's tower.
 [u2121 | 03:02:09.630-03:02:12.180 | Riswynn] That was was the last that was last thing we did before I.
 [u2122 | 03:02:13.380-03:02:14.550 | Riswynn] Will and I read off.
-[u2123 | 03:02:14.970-03:02:20.400 | Delwath] Right, last time we saw Riswynn prior to the werewolves and {{TELCO was villains}} was Eudomes's tower.
+[u2123 | 03:02:14.970-03:02:20.400 | Delwath] Right, last time we saw Riswynn prior to the werewolves and Tokra was Eudomes's tower.
 [u2124 | 03:02:20.730-03:02:21.210 | Kenzo] mm hmm.
 [u2125 | 03:02:25.590-03:02:25.860 | Wellby] yeah.
 [u2126 | 03:02:26.280-03:02:29.520 | Wellby] Well let's maybe tonight we see if we can set up a meeting tomorrow.

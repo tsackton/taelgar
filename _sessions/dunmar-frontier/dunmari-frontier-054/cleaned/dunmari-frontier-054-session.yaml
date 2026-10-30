@@ -35,3 +35,59 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/sources/dunmar-frontier-session054-speaker-mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 3136
+  issues: 2
+  artifacts:
+    original:
+      path: sources/merged.transcript.vtt
+      sha256: b2d4962e969f718e6330e50a238c137c3389c651b8ad11d596318d3e0d5ed3e5
+    prepared:
+      path: cleaned/dunmari-frontier-054-source-prepared.md
+      sha256: 969a049187618349b2ad35dd2e7c61e02ceb18b3827255f4158e489a853ad470
+    cleaned:
+      path: cleaned/dunmari-frontier-054-source-cleaned.md
+      sha256: 4027acac4cca82f361675a5e51849139aa16673b33d8a7f3f6dbc38ca177f2a2
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-054-transcript.md
+      sha256: 77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f
+  speakerCorrections:
+  - uid: u0108
+    start: 0
+    end: 5
+    speaker: Aristaea
+  - uid: u0172
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u0218
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u0242
+    start: 0
+    end: 7
+    speaker: Delwath
+  - uid: u0911
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0976
+    start: 0
+    end: 28
+    speaker: Aristaea
+  - uid: u1550
+    start: 0
+    end: 32
+    speaker: DM
+  - uid: u1649
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u1745
+    start: 0
+    end: 23
+    speaker: DM

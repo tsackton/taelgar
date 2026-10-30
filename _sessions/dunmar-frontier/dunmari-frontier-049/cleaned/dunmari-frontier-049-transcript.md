@@ -1,18 +1,18 @@
 # Dunmari Frontier — Session 49
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-049-source-cleaned.md
 
 ## Transcript
 
-%% u0001:0-69, u0002:0-82, u0003:0-85, u0004:0-172, u0005:0-175, u0006:0-194, u0007:0-122, u0008:0-179, u0009:0-257, u0010:0-194, u0011:0-54, u0012:0-163, u0013:0-105, u0014:0-249, u0015:0-65, u0016:0-102, u0017:0-110, u0018:0-25, u0019:0-17, u0020:0-157, u0021:0-29, u0022:0-121, u0023:0-93, u0024:0-21, u0025:0-67, u0026:0-5, u0027:0-41, u0028:0-57 %%
+%% u0001:0-69, u0002:0-82, u0003:0-85, u0004:0-172, u0005:0-175, u0006:0-194, u0007:0-122, u0008:0-182, u0009:0-257, u0010:0-194, u0011:0-54, u0012:0-163, u0013:0-105, u0014:0-249, u0015:0-65, u0016:0-102, u0017:0-110, u0018:0-25, u0019:0-17, u0020:0-152, u0021:0-29, u0022:0-121, u0023:0-93, u0024:0-21, u0025:0-67, u0026:0-5, u0027:0-41, u0028:0-57 %%
 DM: In the middle of the oldest part of Chardon, the spire of the great... The spire of the Great Library stretches more than 700 feet, twisting into the air. From its lofty heights where you can see many of the smaller towers, the scattered halls and colleges that make up the university laid out, one might even imagine the long history of this place from the founding of the Great Library nearly 1000 years ago, to the growth of the university after the fall of Drankor or the founding of the Council of Magic, the Hetaeri Magica, to help regulate magical training and the growing academy; and finally, in the loss and pain after the Great War, the founding of the Society of the Open Scroll to preserve and protect magical and esoteric knowledge in the aftermath of that devastation.
 
-From the lofty heights of the spire the bustle of students, faculty, tutors and others coming and going from the University proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human [garbled]. They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics. The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Fausto, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
+From the lofty heights of the spire the bustle of students, faculty, tutors and others coming and going from the University proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human these days. They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics. The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Fausto, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
 
-As you leave the Chapter House, a quiet student tavern, and head towards the nearest [garbled] so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east. A young dwarven student, barely past his caste ceremony, takes pity on you and leads you to Sibyl's Hall. Sibyl's Hall is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of Chardon, and since the Great War and the rise of the imperial power influence of many of the ancient religious orders has diminished. And so too has their wealth and power and the upkeep and prestige of the colleges they have supported.
+As you leave the Chapter House, a quiet student tavern, and head towards the nearest hall so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east. A young dwarven student, barely past his caste ceremony, takes pity on you and leads you to Sibyl's Hall. Sibyl's Hall is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of Chardon, and since the Great War and the rise of the imperial power influence of many of the ancient religious orders has diminished. And so too has their wealth and power and the upkeep and prestige of the colleges they have supported.
 
-The dwarven student leads you to a small lecture room in an ancient building now in need of extensive repairs. At the front of the room, a disheveled man, maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on {{object}} to four students in the room. But as you enter and the dwarf, the young dwarf scurries away, he slowly trails off to nothing and turns to stare at you. This man is apparently... looks up and says, aggravated and glancing over your armor and your traveling cloaks and clear signs of if not extravagant wealth, at least power and skill. “Well, why are you disturbing my meager lessons? What do such clearly powerful men and women want with me?”
+The dwarven student leads you to a small lecture room in an ancient building now in need of extensive repairs. At the front of the room, a disheveled man, maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on logic to four students in the room. But as you enter and the dwarf, the young dwarf scurries away, he slowly trails off to nothing and turns to stare at you. This man is apparently... looks up and says, aggravated and glancing over your armor and your traveling cloaks and clear signs of if not extravagant wealth, at least power and skill. “Well, why are you disturbing my meager lessons? What do such clearly powerful men and women want with me?”
 
 %% u0029:0-34 %%
 Kenzo: We're interested in your research.
@@ -149,12 +149,12 @@ DM: Yeah he's a human.
 %% u0132:0-26 %%
 Kenzo: What's it look like again?
 
-%% u0133:0-31, u0134:0-5, u0135:0-83, u0136:0-166, u0137:0-39, u0138:0-143, u0139:0-53, u0140:0-53, u0141:0-21, u0142:0-10, u0143:0-24, u0144:0-49, u0145:0-31, u0146:0-4, u0147:0-80, u0148:0-42, u0149:0-49, u0150:0-64, u0151:0-85, u0152:0-64, u0153:0-37, u0154:0-58, u0155:0-26, u0156:0-40, u0157:0-17, u0158:0-50, u0159:0-104, u0160:0-26, u0161:0-27, u0162:0-24, u0163:0-71, u0164:0-22, u0165:0-62, u0166:0-62, u0167:0-68, u0168:0-62, u0169:0-7, u0170:0-71, u0171:0-49, u0172:0-34, u0173:0-12, u0174:0-73 %%
+%% u0133:0-31, u0134:0-5, u0135:0-83, u0136:0-166, u0137:0-39, u0138:0-143, u0139:0-53, u0140:0-53, u0141:0-21, u0142:0-10, u0143:0-24, u0144:0-49, u0145:0-31, u0146:0-4, u0147:0-80, u0148:0-42, u0149:0-49, u0150:0-57, u0151:0-85, u0152:0-64, u0153:0-37, u0154:0-58, u0155:0-26, u0156:0-40, u0157:0-17, u0158:0-50, u0159:0-104, u0160:0-26, u0161:0-27, u0162:0-24, u0163:0-71, u0164:0-22, u0165:0-62, u0166:0-62, u0167:0-68, u0168:0-62, u0169:0-7, u0170:0-71, u0171:0-45, u0172:0-34, u0173:0-12, u0174:0-73 %%
 DM: He's like mid 40s sort of thin face. Stubble, a few days, three, four days of stubble with little flecks of white in it. Sunken, kind of gaunt eyes. He clearly looks like he doesn't get, doesn't have frequent large meals. Black hair that's kind of scraggly and tied back in a short tail. Maybe fairly tall like almost six feet. But not, not wearing nice clothes. Like he's wearing dingy, like, you know, gray robes that clearly have been patched in places and not, not you know, infrequently laundered, that sort of thing. So, as he, as he eats for a minute, he kind of sighs. This is 25 years ago. I grew up. So I grew up in Arendum near the Crimson Forest in the Elderwood and I... You know, I was always curious.
 
-The Baz'aku, a tribe of the Deno'qai people, would come trade and, you know, they claimed anyway, the stories they told was how they were the first people to settle Taelgar. They lived in these woods since the {{empire, as of the House}}. So when I came to Chardon and studied history, it was, it was natural that I would... I would want to go back and see what was true and what was myth. So much was lost in the wars, though. You know, the battles against hobgoblins and trolls and when the dragons attacked drove back the Chard- Chardonian forces across the Chasa. Devastating Battle of Shadowfire close to Chardon. Nobody's ever really ventured back into the woods after that. Was 150 years ago almost 200 years ago now. There's stories of course.
+The Baz'aku, a tribe of the Deno'qai people, would come trade and, you know, they claimed anyway, the stories they told was how they were the first people to settle Taelgar. They lived in these woods since the empires of the elves. So when I came to Chardon and studied history, it was, it was natural that I would... I would want to go back and see what was true and what was myth. So much was lost in the wars, though. You know, the battles against hobgoblins and trolls and when the dragons attacked drove back the Chard- Chardonian forces across the Chasa. Devastating Battle of Shadowfire close to Chardon. Nobody's ever really ventured back into the woods after that. Was 150 years ago almost 200 years ago now. There's stories of course.
 
-So I went to the Elderwood, went up the Kayan River, spent six months at the Baz'aku, earning their trust, learning about their way of life and you know, how they lived in the eaves of the Elderwood, the myths of the Deno'qai, the people of the gods in their tongue. Supposedly, the first humans to leave Hkar long before the Downfall. They claim that there were once forests that stretched from Dunmar, the deserts now to the south, all the way north beyond the edge of the of the {{cercone an}} Empire before the Downfall. They said their people remembered even beyond, far north as the land of fire and ice where the sun never sets in summer.
+So I went to the Elderwood, went up the Kayan River, spent six months at the Baz'aku, earning their trust, learning about their way of life and you know, how they lived in the eaves of the Elderwood, the myths of the Deno'qai, the people of the gods in their tongue. Supposedly, the first humans to leave Hkar long before the Downfall. They claim that there were once forests that stretched from Dunmar, the deserts now to the south, all the way north beyond the edge of the of the Chardonian Empire before the Downfall. They said their people remembered even beyond, far north as the land of fire and ice where the sun never sets in summer.
 
 %% u0175:0-22, u0176:0-24 %%
 Delwath: Those claims are true. The elves also remember.
@@ -198,8 +198,8 @@ DM: Um, great. He pauses for a moment. I wanted to find what was at the heart of
 %% u0212:0-60 %%
 Delwath: One other question: which side of the mountains was Delwath?
 
-%% u0213:0-10, u0214:0-16, u0215:0-11, u0216:0-78, u0217:0-113, u0218:0-70 %%
-DM: This side. I mean this was right like. {{Pandora is not sure much}} armies were up north, right? It's not on the map. Right, but Delwath was, would have been fighting some significantly north of where he's talking about, so this... Wait, where's my... This, like, southern forest here is the Elderwood.
+%% u0213:0-10, u0214:0-16, u0215:0-11, u0216:0-69, u0217:0-113, u0218:0-70 %%
+DM: This side. I mean this was right like. Pandar, Cha'mutte's armies were up north, right? It's not on the map. Right, but Delwath was, would have been fighting some significantly north of where he's talking about, so this... Wait, where's my... This, like, southern forest here is the Elderwood.
 
 %% u0219:0-11 %%
 Unknown: Right okay.
@@ -901,8 +901,8 @@ DM: Because Kaeso knows her and you said, do you know anyone in the Society of t
 %% u0760:0-69, u0761:0-3 %%
 Delwath: Right she's like the society person who kind of knows who right okay. Um.
 
-%% u0762:0-83, u0763:0-106, u0764:0-7 %%
-Riswynn: It turns out that {{and further}}, whatever his name was, was also in this society. But we don't know to what level right society membership, you know so she could be slightly less clueless or not.
+%% u0762:0-74, u0763:0-106, u0764:0-7 %%
+Riswynn: It turns out that Ulfgar, whatever his name was, was also in this society. But we don't know to what level right society membership, you know so she could be slightly less clueless or not.
 
 %% u0765:0-3, u0766:0-19, u0767:0-110 %%
 Delwath: Um. Before we go in, do... Do we know what we want to get out of talking to her? Like questions, what do we, what are we trying to learn?
@@ -1078,12 +1078,12 @@ DM: Was the original name for the entire forest that now consists of the Elderwo
 %% u0856:0-7 %%
 Unknown: Better.
 
-%% u0857:0-72, u0858:0-73, u0859:0-84, u0860:0-11, u0861:0-170, u0862:0-10, u0863:0-9, u0864:0-40, u0865:0-27, u0866:0-192, u0867:0-44, u0868:0-17, u0869:0-19, u0870:0-14, u0871:0-59, u0872:0-102, u0873:0-24, u0874:0-119, u0875:0-98, u0876:0-71, u0877:0-15, u0878:0-25, u0879:0-124, u0880:0-11, u0881:0-107 %%
+%% u0857:0-72, u0858:0-73, u0859:0-84, u0860:0-11, u0861:0-170, u0862:0-10, u0863:0-9, u0864:0-40, u0865:0-27, u0866:0-192, u0867:0-44, u0868:0-17, u0869:0-19, u0870:0-14, u0871:0-59, u0872:0-102, u0873:0-24, u0874:0-119, u0875:0-98, u0876:0-71, u0877:0-15, u0878:0-25, u0879:0-124, u0880:0-11, u0881:0-102 %%
 DM: Okay, please come in and sort of gives the bow and he turns and he says. He leads you through the entry hall into this sort of formal dining room. And, and as you enter, he says, kind of by way of briefing, he says, um, there is there is a string quartet playing, and he bows and he says, ma'am, I present Seeker of Highkeep, Riswynn of Tharn Todor, Kenzo of Chardon, Wellby of the Green Sea, and Delwath of Ainumarya. Roscelia. And she is an older woman, maybe 70-ish. Gray hair tied up in a bun. Elegantly dressed in a, in a, in a green dress with some color that goes with green trim, and jewelry that shows off wealth, like a long string of pearls around her neck, diamond earrings, um. Sitting next to her is a much younger woman.
 
 Maybe in her 30s. Golden blonde hair, sort of lanky. Blue eyes, like sharp features, like a sharp nose, sharp... A little too harsh maybe, like pretty, like harsh face, right? Very, in some ways, very stern-looking. And Lyra, the archivist. And the butler bows, backs out, and you can see there's places set for all of you and there's like, you know, little cups like little tea cups and like four different sets of utensils and everything and sort of set. And Roscelia stands, gives you a pretty bow and says, please be seated. I have invited my friend Lyra here as she is quite curious to hear of your adventures, she has recently returned from the north managing treasure hunting parties in Voltara.
 
-And would be quite curious to know of your experience in the {{cerrone and}} plains. I hope you don't mind.
+And would be quite curious to know of your experience in the Chardonian plains. I hope you don't mind.
 
 %% u0882:0-4 %%
 Unknown: But.
@@ -1091,8 +1091,8 @@ Unknown: But.
 %% u0883:0-20 %%
 Delwath: Did she just called.
 
-%% u0884:0-27 %%
-Wellby: {{Dirty and}} plains, yeah.
+%% u0884:0-21 %%
+Wellby: Dunmari plains, yeah.
 
 %% u0885:0-40 %%
 DM: That was unintentional she meant to say.
@@ -1115,8 +1115,8 @@ Delwath: Okay.
 %% u0892:0-40 %%
 Riswynn: Just doesn't know his Taelgar geography.
 
-%% u0893:0-71, u0894:0-16, u0895:0-27, u0896:0-10, u0897:0-5, u0898:0-2 %%
-Delwath: It'd be kind of cooler if she had said the {{child already in}} plains. Yeah that would Change Delwath, everything. Right yes. Okay. I.
+%% u0893:0-61, u0894:0-16, u0895:0-27, u0896:0-10, u0897:0-5, u0898:0-2 %%
+Delwath: It'd be kind of cooler if she had said the Chardonian plains. Yeah that would Change Delwath, everything. Right yes. Okay. I.
 
 %% u0899:0-14 %%
 DM: Don't see how.
@@ -1361,8 +1361,8 @@ DM: Yes, there are.
 %% u1058:0-77 %%
 Delwath: Have you heard stories of tanshi, I think it might have been talked on, so...
 
-%% u1059:0-80, u1060:0-44, u1061:0-15, u1062:0-27, u1063:0-135 %%
-DM: Yes, there's many tales of the {{Gestapo}}, the tanshi, I suspect they're all fey creatures who have taken advantage of early settlers trick them into worshiping. The creatures of the Fey as gods. There are many fey spirits that inhabit these ancient wood forests, I'm sure you must know as an elf.
+%% u1059:0-76, u1060:0-44, u1061:0-15, u1062:0-27, u1063:0-135 %%
+DM: Yes, there's many tales of the Kestavo, the tanshi, I suspect they're all fey creatures who have taken advantage of early settlers trick them into worshiping. The creatures of the Fey as gods. There are many fey spirits that inhabit these ancient wood forests, I'm sure you must know as an elf.
 
 %% u1064:0-4 %%
 Unknown: Yes.
@@ -1556,8 +1556,8 @@ Unknown: Right.
 %% u1208:0-62 %%
 Delwath: It just felt plausible that they were one and the same people.
 
-%% u1209:0-30 %%
-Seeker: [garbled] working for Isaac.
+%% u1209:0-27 %%
+Seeker: Grash is working for Isaac.
 
 %% u1210:0-153 %%
 Delwath: Tim did say once that we're gonna have a crossover and they're gonna beat us because they're better players than we are, they're more tactical, or you...
@@ -2156,8 +2156,8 @@ Delwath: See, before we worry too much about emptying the mirror of a hobgoblin,
 %% u1591:0-80 %%
 Wellby: 200 I think the moral perspective too, it's really, it's not really our problem.
 
-%% u1592:0-15, u1593:0-235 %%
-Kenzo: Wait wait, but don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did {{i'm sorry I}} get captured again?
+%% u1592:0-15, u1593:0-224 %%
+Kenzo: Wait wait, but don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did Sura get captured again?
 
 %% u1594:0-21 %%
 DM: Like eight years ago.
@@ -2868,8 +2868,8 @@ Delwath: Riswynn was in Eudomes's tower.
 %% u2121:0-58, u2122:0-20 %%
 Riswynn: That was was the last that was last thing we did before I [garbled]
 
-%% u2123:0-103 %%
-Delwath: Right, last time we saw Riswynn prior to the werewolves and {{TELCO was villains}} was Eudomes's tower.
+%% u2123:0-86 %%
+Delwath: Right, last time we saw Riswynn prior to the werewolves and Tokra was Eudomes's tower.
 
 %% u2124:0-7 %%
 Kenzo: Mm hmm.

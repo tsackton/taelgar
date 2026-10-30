@@ -180,7 +180,7 @@
 [u0180 | 00:16:36.920-00:16:39.420 | Kenzo] So Flurry of Blows. This is also plus ten
 [u0181 | 00:16:39.870-00:16:42.770 | DM] ah plus nine. You get one more staff attack.
 [u0182 | 00:16:42.980-00:16:45.310 | Kenzo] Oh, fucking! I i'm so powerful
-[u0183 | 00:16:46.860-00:16:50.229 | Kenzo] one more {{sample that got a good guy}}. Oh, twenty, That is
+[u0183 | 00:16:46.860-00:16:50.229 | Kenzo] one more staff attack on the other guy. Oh, twenty, That is
 [u0184 | 00:16:50.240-00:16:51.180 | DM] yeah,
 [u0185 | 00:16:51.330-00:16:55.500 | Kenzo] and then um 1d8 plus six.
 [u0186 | 00:16:56.510-00:17:01.179 | Kenzo] Twelve damage nice, and i'll use another ki for another frightening Strike
@@ -1420,7 +1420,7 @@
 [u1420 | 01:58:16.820-01:58:19.990 | DM] but yet again a different song,
 [u1421 | 01:58:20.000-01:58:21.899 | DM] an elven song
 [u1422 | 01:58:23.930-01:58:26.050 | DM] and a Deno'qai song,
-[u1423 | 01:58:26.230-01:58:29.539 | Kenzo] and {{what's on}}?
+[u1423 | 01:58:26.230-01:58:29.539 | Kenzo] and what song?
 [u1424 | 01:58:35.890-01:58:38.219 | DM] And then uh,
 [u1425 | 01:58:39.820-01:58:43.310 | DM] yeah, okay, so that you're those are the five Um
 [u1426 | 01:58:47.230-01:58:58.250 | DM] and and Ohana you are the most familiar with already. That's the that is the sort of material side of ki this life force of
@@ -1567,7 +1567,7 @@
 [u1567 | 02:09:57.330-02:09:58.820 | DM] Ah,
 [u1568 | 02:09:59.290-02:10:00.420 | DM] how
 [u1569 | 02:10:07.760-02:10:10.820 | Kenzo] I call upon all of the spirits!
-[u1570 | 02:10:12.020-02:10:26.800 | Kenzo] My! From to Bhishma! The {{Logkin gods}}, just any, any protecting spirit, any. I should have done this before I went here actually. But I call upon all of my
+[u1570 | 02:10:12.020-02:10:26.800 | Kenzo] My! From to Bhishma! Laka, the gods, just any, any protecting spirit, any. I should have done this before I went here actually. But I call upon all of my
 [u1571 | 02:10:27.340-02:10:35.869 | Kenzo] the different gods and the tree spirits, all of them, and I asked for the protection.
 [u1572 | 02:10:39.480-02:10:40.980 | DM] So
 [u1573 | 02:10:42.580-02:10:44.099 | DM] you see,
@@ -1788,7 +1788,7 @@
 [u1788 | 02:28:08.360-02:28:15.889 | DM] the so at the in Karawa there's the beneath the temple. There was that
 [u1789 | 02:28:15.900-02:28:30.930 | Kenzo] Yup! There was actually a very similar ritual where you went into the water. And yep, that that Mesa, you're almost positive Now, that's also where Krat, where Candrosa took you through with the spirit staff. Yeah,
 [u1790 | 02:28:31.000-02:28:33.990 | Kenzo] perfect. Yeah, So that that's that's one that makes a lot.
-[u1791 | 02:28:34.000-02:28:42.320 | Kenzo] And now that you think about it, you're basically positive that the red mesa is connected to the {{class}} that makes perfect sense that makes perfect sense.
+[u1791 | 02:28:34.000-02:28:42.320 | Kenzo] And now that you think about it, you're basically positive that the red mesa is connected to the staff that makes perfect sense that makes perfect sense.
 [u1792 | 02:28:42.940-02:28:44.220 | Kenzo] You'll be it.
 [u1793 | 02:28:44.590-02:28:46.849 | DM] And the other place you suspect is
 [u1794 | 02:28:50.170-02:28:51.830 | Unknown] Tokra tree,

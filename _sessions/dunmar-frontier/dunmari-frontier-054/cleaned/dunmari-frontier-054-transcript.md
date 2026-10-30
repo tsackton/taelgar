@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 54
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-054-source-cleaned.md
 
 ## Transcript
@@ -3021,7 +3021,7 @@ Delwath: Which will be right at this point right there.
 DM: Okay, so that also just remember the the sword only has one charge. So if you magic Sir, I can't do…
 
 %% u1972:0-51, u1973:0-6, u1974:0-37, u1975:0-25 %%
-Delwath: I can’t dispel, I know. Where it only has one charge. I can— instead of banish is just as good as [garbled] either way.
+Delwath: I can’t dispel, I know. Where it only has one charge. I can— instead of banish is just as good as Charisma save either way.
 
 %% u1976:0-7 %%
 DM: Circle.
@@ -4014,7 +4014,7 @@ Delwath: 60 points of fire damage will be pretty good.
 DM: Giant trees don't have great Dex 13 that's got a minus two Dex, seven. The swarm only has two points left, so it's gone. So well [garbled], okay. Dex, the wolf— the wolf rolled an 18, so the wolf takes half damage, the swarm is gone, the tree is looking badly hurt as it burst into flames. A…
 
 %% u2501:0-28 %%
-Delwath: Big tree or the little [garbled]?
+Delwath: Big tree or the little tree?
 
 %% u2502:0-54 %%
 DM: The big tree the little tree is blown away completely.

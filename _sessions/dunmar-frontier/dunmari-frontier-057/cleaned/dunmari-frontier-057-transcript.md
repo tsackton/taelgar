@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 57
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-057-source-cleaned.md
 
 ## Transcript
@@ -239,8 +239,8 @@ Kenzo: So Flurry of Blows. This is also plus ten?
 %% u0181:0-44 %%
 DM: Ah, plus nine. You get one more staff attack.
 
-%% u0182:0-30, u0183:0-60 %%
-Kenzo: Oh, fucking! I, I'm so powerful. One more {{sample that got a good guy}}. Oh, twenty, that is—
+%% u0182:0-30, u0183:0-59 %%
+Kenzo: Oh, fucking! I, I'm so powerful. One more staff attack on the other guy. Oh, twenty, that is—
 
 %% u0184:0-5 %%
 DM: Yeah.
@@ -1418,8 +1418,8 @@ DM: But there, Urtaro pierces through that veil and goes up into the divine real
 %% u1418:0-77, u1419:0-37, u1420:0-31, u1421:0-13, u1422:0-20 %%
 DM: And now as you, as you look at your staff, you can actually see that there is some of this energy entwined as well, but yet again a different song, an elven song and a Deno'qai song.
 
-%% u1423:0-18 %%
-Kenzo: And {{what's on}}?
+%% u1423:0-14 %%
+Kenzo: And what song?
 
 %% u1424:0-12, u1425:0-48, u1426:0-123, u1427:0-56, u1428:0-4, u1429:0-43, u1430:0-15, u1431:0-17, u1432:0-89 %%
 DM: And then, uh, yeah, okay, so that you're—those are the five, um, and, and Ohana you are the most familiar with already. That's the—that is the sort of material side of ki, this life force of— this is what you've been communing with in the forest in— in a— the back with the Deno'qai, and, and here it— it's different, but it recognizes—it recognizes the staff, and it almost as if you're greeting a cousin or something like...
@@ -1556,8 +1556,8 @@ Kenzo: Can I wash them out?
 %% u1567:0-3, u1568:0-3 %%
 DM: Ah, how?
 
-%% u1569:0-31, u1570:0-158, u1571:0-85 %%
-Kenzo: I call upon all of the spirits! My—from to Bhishma, the {{Logkin gods}}, just any, any protecting spirit, any—I should have done this before I went here actually. But I call upon all of my— the different gods and the tree spirits, all of them, and I asked for the protection.
+%% u1569:0-31, u1570:0-153, u1571:0-85 %%
+Kenzo: I call upon all of the spirits! My—from to Bhishma, Laka, the gods, just any, any protecting spirit, any—I should have done this before I went here actually. But I call upon all of my— the different gods and the tree spirits, all of them, and I asked for the protection.
 
 %% u1572:0-2, u1573:0-8, u1574:0-24, u1575:0-40, u1576:0-11, u1577:0-50, u1578:0-3, u1579:0-38, u1580:0-37, u1581:0-57 %%
 DM: So you see, so, so the spirits gather and sort of begin to cluster around you. But you can— you, you can sort of perceive now that this is not— um, this has nothing to do with your soul. This is like somebody scrying on you. There's nothing the spirits can do. This is arcane magic.
@@ -1751,10 +1751,10 @@ DM: There was actually a very similar ritual where you went into the water. And 
 %% u1789:209-214, u1790:0-58 %%
 Kenzo: Yeah, perfect, yeah. So that, that's, that's one that makes a lot.
 
-%% u1791:0-107 %%
-DM: And now that you think about it, you're basically positive that the red mesa is connected to the {{class}}.
+%% u1791:0-103 %%
+DM: And now that you think about it, you're basically positive that the red mesa is connected to the staff.
 
-%% u1791:107-157, u1792:0-13 %%
+%% u1791:103-153, u1792:0-13 %%
 Kenzo: That makes perfect sense. That makes perfect sense. You'll be it.
 
 %% u1793:0-34, u1794:0-11, u1795:0-17, u1796:0-22, u1797:0-20 %%
