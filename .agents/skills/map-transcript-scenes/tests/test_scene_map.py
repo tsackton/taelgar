@@ -27,10 +27,10 @@ class SceneMapTests(unittest.TestCase):
             '%% u0004:0-5 %%\nPC: I roll a 12.\n\n'
             '%% u0004:5-10 %%\nDM: He invites you inside.\n\n'
             '%% u0005:0-10 %%\nPC: We enter the hall.\n\n'
-            '%% u0006:0-10 %%\nDM: Afterwards: the old king also used this hall.\n\n')
+            '%% u0006:0-10 %%\nDM: Afterwards: the old king also used this hall.\n\n', encoding='utf-8', newline='\n')
         self.yaml.write_text('sourceType: transcript\nrealWorldDate: 2020-10-02\n'
             'drStart: 1748-04-12\ndrEnd: 1748-04-14\ntranscriptProcessing:\n  artifacts:\n'
-            '    polishedMarkdown:\n      path: cleaned/demo-transcript.md\n')
+            '    polishedMarkdown:\n      path: cleaned/demo-transcript.md\n', encoding='utf-8', newline='\n')
         self.bundle = self.load()
         self.originals = {p: p.read_bytes() for p in (self.yaml, self.source)}
         self.proposal = {
@@ -106,7 +106,7 @@ class SceneMapTests(unittest.TestCase):
     def test_invalid_draft_fails_auto_but_polished_remains_available(self):
         m.draft.initialize(self.bundle)
         path = self.bundle['draft']
-        path.write_text(path.read_text().replace('Grash greets', 'Grash attacks'))
+        path.write_text(path.read_text(encoding='utf-8').replace('Grash greets', 'Grash attacks'), encoding='utf-8', newline='\n')
         with self.assertRaises(ValueError):
             m.window(self.bundle)
         self.assertIn('Grash greets', m.window(self.bundle, view='polished'))
@@ -168,13 +168,13 @@ class SceneMapTests(unittest.TestCase):
 
     def test_stale_source_and_semantic_yaml_change(self):
         doc = self.document()
-        self.yaml.write_text(self.yaml.read_text() + '\n# formatting only\ninteractionExtraction: {}\n')
+        self.yaml.write_text(self.yaml.read_text(encoding='utf-8') + '\n# formatting only\ninteractionExtraction: {}\n', encoding='utf-8', newline='\n')
         m.validate(self.load(), doc)
-        self.yaml.write_text(self.yaml.read_text().replace('drEnd: 1748-04-14', 'drEnd: 1748-04-15'))
+        self.yaml.write_text(self.yaml.read_text(encoding='utf-8').replace('drEnd: 1748-04-14', 'drEnd: 1748-04-15'), encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(m.MapError, 'inputs changed'):
             m.validate(self.load(), doc)
         self.yaml.write_bytes(self.originals[self.yaml])
-        self.source.write_text(self.source.read_text().replace('Grash', 'Gresh'))
+        self.source.write_text(self.source.read_text(encoding='utf-8').replace('Grash', 'Gresh'), encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(m.MapError, 'inputs changed'):
             m.validate(self.load(), doc)
 
@@ -202,7 +202,7 @@ class SceneMapTests(unittest.TestCase):
         self.assertNotEqual(path.read_bytes(), original)
 
     def test_changed_input_during_write_is_rejected(self):
-        self.source.write_text(self.source.read_text() + '\n')
+        self.source.write_text(self.source.read_text(encoding='utf-8') + '\n', encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(m.MapError, 'Input changed during mapping'):
             m.save(self.bundle, self.proposal)
         self.assertFalse(self.bundle['mapPath'].exists())
@@ -221,7 +221,7 @@ class SceneMapTests(unittest.TestCase):
     def test_location_path_is_optional_but_must_resolve_when_supplied(self):
         place = self.vault / 'Places/Gate.md'
         place.parent.mkdir()
-        place.write_text('# Gate\n')
+        place.write_text('# Gate\n', encoding='utf-8', newline='\n')
         doc = self.document()
         doc['scenes'][0]['location'] = 'Places/Gate.md'
         m.validate(self.bundle, doc)
@@ -240,11 +240,11 @@ class SceneMapTests(unittest.TestCase):
 
     def test_preview_source_links_point_to_actual_mapping_lines(self):
         text = m.preview(self.bundle, self.document())
-        lines = self.source.read_text().splitlines()
+        lines = self.source.read_text(encoding='utf-8').splitlines()
         for uid in ('u0001', 'u0002', 'u0005', 'u0006'):
             line = self.bundle['lines'][uid]
             self.assertTrue(lines[line - 1].startswith('%% ' + uid + ':'))
-            self.assertIn(f'{self.source}:{line}', text)
+            self.assertIn(m.quote(str(self.source), safe='/') + f':{line}', text)
 
     def test_undated_scenes_do_not_automatically_validate_yaml(self):
         doc = self.document()

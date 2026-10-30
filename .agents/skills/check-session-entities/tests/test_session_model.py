@@ -114,7 +114,7 @@ class SessionModelTests(unittest.TestCase):
                 self.check(doc)
 
     def test_schema_is_well_formed_and_unknown_paths_are_null_not_empty(self):
-        m.jsonschema.Draft202012Validator.check_schema(json.loads(m.SCHEMA.read_text()))
+        m.jsonschema.Draft202012Validator.check_schema(json.loads(m.SCHEMA.read_text(encoding='utf-8')))
         self.doc['entities'][0]['note'] = None
         self.doc['scenes'][0]['location'] = None
         self.check()

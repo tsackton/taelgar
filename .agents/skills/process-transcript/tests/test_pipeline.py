@@ -77,7 +77,7 @@ class PipelineTests(unittest.TestCase):
         retained = {a[k]: (self.root/a[k]).read_bytes() for k in finalization.RETAINED}
         result = self.finalize()
         self.assertTrue(result['finalized']); self.assertEqual(result['status'], 'complete')
-        self.assertEqual({str(p.relative_to(self.root)) for p in self.root.rglob('*') if p.is_file()},
+        self.assertEqual({p.relative_to(self.root).as_posix() for p in self.root.rglob('*') if p.is_file()},
                          set(retained) | {a['sessionMetadata'], 'cleaned/session-recap.md'})
         for path, data in retained.items(): self.assertEqual((self.root/path).read_bytes(), data)
         self.assertEqual(unrelated.read_text(), 'Unrelated recap.')
@@ -267,7 +267,7 @@ class PipelineTests(unittest.TestCase):
     def test_stale_response_and_output_detection(self):
         self.init();job=self.work('clean')
         state,units=pipeline.load(self.root);units[0]['text'] += ' Oh.'
-        (self.root / state['artifacts']['cleaned']).write_text(core.render_units(units))
+        (self.root / state['artifacts']['cleaned']).write_bytes(core.render_units(units).encode('utf-8'))
         with self.assertRaisesRegex(core.PipelineError,'Stale'): self.response(job,checks=sorted(core.CHECKS),edits=[],issues=[],mentions=[])
         self.complete()
         state,units=pipeline.load(self.root)
@@ -312,6 +312,8 @@ class PipelineTests(unittest.TestCase):
         self.init();state,_=pipeline.load(self.root)
         p=pipeline.local_reference(self.root,'/some/other/live/session/sources/raw.vtt','sources')
         self.assertEqual(p,self.root/state['artifacts']['original'])
+        for reference in (r'C:\some\other\session\sources\raw.vtt', r'\\server\share\session\sources\raw.vtt'):
+            self.assertEqual(pipeline.local_reference(self.root,reference,'sources'),p)
 
     def test_independent_bundles_have_independent_locks(self):
         self.init();other=self.parent/'session-002';other.mkdir()
@@ -469,7 +471,7 @@ review_test.decide(['correction'],{0:'Well, well, it got darker.'},'Well, well, 
 with t.core.lock(root):review.apply(root);review.finalize(root)
 '''
         env=dict(os.environ,PYTHONPATH=os.pathsep.join([str(Path(__file__).parent),str(Path(core.__file__).parent)]),PYTHONDONTWRITEBYTECODE='1')
-        result=subprocess.run([sys.executable,'-B','-c',script,str(self.root),str(self.original)],env=env,capture_output=True,text=True)
+        result=subprocess.run([sys.executable,'-X','utf8','-B','-c',script,str(self.root),str(self.original)],env=env,capture_output=True,text=True)
         self.assertEqual(result.returncode,0,result.stderr)
 
     def test_polished_substitution_preserves_surrounding_words_and_source(self):

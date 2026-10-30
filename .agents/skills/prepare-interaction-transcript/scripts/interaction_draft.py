@@ -17,7 +17,7 @@ import sys
 
 sys.dont_write_bytecode = True
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / 'process-transcript' / 'scripts'))
-from transcript_core import lock, safe, parse_units  # shared read-only parsing / directory lock
+from transcript_core import lock, safe, parse_units, open_no_follow  # shared read-only parsing / directory lock
 import yaml
 
 SOURCE_ID = 'transcriptProcessing.artifacts.polishedMarkdown'
@@ -146,7 +146,7 @@ def load(session_yaml):
 
 
 def metadata(bundle):
-    return {'version': 4, 'sessionYaml': str(bundle['manifest'].relative_to(bundle['root'])),
+    return {'version': 4, 'sessionYaml': bundle['manifest'].relative_to(bundle['root']).as_posix(),
             'sourceSha256': bundle['sourceSha256']}
 
 
@@ -258,11 +258,11 @@ def write_only_draft(bundle, text, before=None):
         require(sha(safe(bundle['root'], relative).read_bytes()) == digest, f'Input changed during work: {relative}')
     path = safe(bundle['root'], str(bundle['draft'].relative_to(bundle['root'])))
     if before is None:
-        flags = os.O_WRONLY | os.O_CREAT | os.O_EXCL | os.O_NOFOLLOW
+        flags = os.O_WRONLY | os.O_CREAT | os.O_EXCL
     else:
         require(path.read_bytes() == before, 'Draft changed concurrently')
-        flags = os.O_RDWR | os.O_NOFOLLOW
-    fd = os.open(path, flags, 0o644)
+        flags = os.O_RDWR
+    fd = open_no_follow(path, flags, 0o644)
     try:
         require(os.fstat(fd).st_nlink == 1, 'Draft must not be a hard link')
         if before is not None:
