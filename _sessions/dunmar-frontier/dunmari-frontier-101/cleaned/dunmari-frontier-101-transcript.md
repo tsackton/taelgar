@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 101
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-101-source-cleaned.md
 
 ## Transcript
@@ -5120,8 +5120,8 @@ Delwath: I'm gonna try Elvish.
 %% u2960:0-8 %%
 DM: Nothing.
 
-%% u2961:0-2, u2962:0-13 %%
-Delwath: Or {{a summon}}.
+%% u2961:0-2, u2962:0-7 %%
+Delwath: Or Sylvan.
 
 %% u2963:0-44 %%
 Kenzo: Can you text it to me, Bab? The correct one.
@@ -5891,8 +5891,8 @@ Seeker: And then Dimension Door myself and one other person back out. I could go
 %% u3460:0-97, u3461:0-9, u3462:0-50, u3463:0-47 %%
 Kenzo: Wait, wait, wait, wait, wait, wait, wait, wait, wait, wait, wait! Wait! Or we Rainbow Bridge out, everybody at the end. So we go get the jade. Come back here. Dimension door in, and then Rainbow Bridge out.
 
-%% u3464:0-86, u3465:0-37, u3466:0-64, u3467:0-74 %%
-DM: We had a whole discussion about this while you were getting food, and the decision was— advantage of getting Milo 1st is that it preserves the option to smash and grab, to grab the jade, and immediately flee with the Rainbow Bridge without having to kill {{layer}}.
+%% u3464:0-86, u3465:0-37, u3466:0-64, u3467:0-71 %%
+DM: We had a whole discussion about this while you were getting food, and the decision was— advantage of getting Milo 1st is that it preserves the option to smash and grab, to grab the jade, and immediately flee with the Rainbow Bridge without having to kill Buruli.
 
 %% u3468:0-15 %%
 Seeker: I, I think that—
@@ -6158,8 +6158,8 @@ Delwath: I'll follow Wellby.
 %% u3635:0-5 %%
 DM: Okay.
 
-%% u3636:0-29 %%
-Seeker: Seeker {{doesn't charge us}}.
+%% u3636:0-20 %%
+Seeker: Seeker just charges.
 
 %% u3637:0-20 %%
 DM: So Seeker goes, and.

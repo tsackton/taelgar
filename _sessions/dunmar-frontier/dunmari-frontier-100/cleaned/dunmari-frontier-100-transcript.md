@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 100
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-100-source-cleaned.md
 
 ## Transcript
@@ -146,8 +146,8 @@ DM: And as they do, these faces seem to swirl around you, forming this long, thi
 %% u0277:0-14, u0278:0-59, u0279:0-36, u0280:0-60, u0281:0-26, u0282:0-96, u0283:0-18, u0284:0-28, u0285:0-55, u0286:0-15, u0287:0-27, u0288:0-4 %%
 DM: Says to Wellby, "Wellby, you could have stayed, stayed in the Green Sea with family and road homes and ship homes. Delwath could have stayed in tree homes and fey wanderings, could have not gone to war. Riswynn, could have stayed in deep mine homes and mountain homes and sheltered homes, and served your gods in quiet. Seeker could have stayed in ancient mountain homes and city homes and family homes. Yet you didn't," and it seems to be waiting. "Why?"
 
-%% u0289:0-6, u0290:0-28, u0291:0-20, u0292:0-35, u0293:0-33, u0294:0-42, u0295:0-11, u0296:0-14, u0297:0-63, u0298:0-25, u0299:0-42 %%
-Wellby: Wellby says or thinks or imagines all those homes, the tidy, tight little ship cabins that he sailed in for years and years. The sound of the gulls over the water, the wagon homes, a little vibe, you know, cabins along with the wagons filled with trade goods. But also thinks and says, beyond all of those {{this was my fault}}.
+%% u0289:0-6, u0290:0-28, u0291:0-20, u0292:0-35, u0293:0-33, u0294:0-42, u0295:0-11, u0296:0-14, u0297:0-63, u0298:0-25, u0299:0-37 %%
+Wellby: Wellby says or thinks or imagines all those homes, the tidy, tight little ship cabins that he sailed in for years and years. The sound of the gulls over the water, the wagon homes, a little vibe, you know, cabins along with the wagons filled with trade goods. But also thinks and says, beyond all of those, this was my home.
 
 %% u0300:0-27, u0301:0-2, u0302:0-75, u0303:0-52, u0304:0-59, u0305:0-46, u0306:0-58, u0307:0-9, u0308:0-90, u0309:0-21, u0310:0-22, u0311:0-31, u0312:0-35, u0313:0-28 %%
 Wellby: And remembers thinking back to all the different times with a map spread out on the table in front of him, all the different map shops and map sellers, and the little book of maps that his family had and the sea charts, and over and over again, putting a finger down across all different ages, from a little young halfling to grown man, on the blank places on the map and saying, "What's there? What's there?" over and over again, and at last says that it took me a long time to realize it down to my bones, but that's where my home really is. The blank places on the map.
@@ -788,8 +788,8 @@ DM: He refuses to close the portal. The Sentient Ocean refuses to go after him, 
 %% u1333:0-90, u1334:0-45, u1335:0-57, u1336:0-46, u1337:0-5 %%
 Kenzo: Right, but so, so, like, but he's got one piece of jade. We've got 3 pieces of jade. Doesn't 3—3 more powerful one? So, like, we win, right? We we just like, stand there and then we're like, Ha, ha! 3 greater than one, and then it's over, right? Okay.
 
-%% u1338:0-226 %%
-DM: I mean, if you didn't want the piece of jade you could just try and close the portal. {{At least you could trapped on the other side.}} That's certainly the case, but but jade would then be trapped on the other side with them.
+%% u1338:0-223 %%
+DM: I mean, if you didn't want the piece of jade you could just try and close the portal. At least you could trap him on the other side. That's certainly the case, but but jade would then be trapped on the other side with them.
 
 %% u1339:0-3, u1340:0-3 %%
 Kenzo: Hmm. So.
@@ -863,8 +863,8 @@ DM: Using Azar as his. That's right.
 %% u1388:0-13 %%
 Delwath: And we don't—
 
-%% u1389:0-66 %%
-Kenzo: {{Mile and a sample of it}}, and then, like came chasing after it.
+%% u1389:0-61 %%
+Kenzo: Ryu had a sample of it, and then, like came chasing after it.
 
 %% u1390:0-11 %%
 Delwath: Don't know.

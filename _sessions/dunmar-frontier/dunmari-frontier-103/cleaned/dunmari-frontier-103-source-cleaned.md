@@ -2547,7 +2547,7 @@
 [u2547 | 02:34:52.070-02:34:52.630 | Delwath] Okay.
 [u2548 | 02:34:53.570-02:34:57.480 | DM] Fancy dock like it's completely overgrown by jungle.
 [u2549 | 02:34:57.830-02:34:58.670 | DM] But
-[u2550 | 02:34:59.340-02:35:00.060 | DM] {{at Frank.}}
+[u2550 | 02:34:59.340-02:35:00.060 | DM] Drankorian.
 [u2551 | 02:35:00.060-02:35:03.510 | Delwath] Of course, is this, I mean, does this look like a Drankorian dock?
 [u2552 | 02:35:03.510-02:35:04.350 | DM] Yes.
 [u2553 | 02:35:05.110-02:35:07.039 | DM] they seem to be watching the river.
@@ -2958,7 +2958,7 @@
 [u2958 | 02:57:02.920-02:57:03.750 | Kenzo] Oh, the last!
 [u2959 | 02:57:03.750-02:57:04.120 | Seeker] That is.
 [u2960 | 02:57:04.120-02:57:08.019 | Kenzo] piece. Yeah. Oh, we have to fight ourselves to get the last piece.
-[u2961 | 02:57:08.020-02:57:11.219 | DM] {{Wow! That looks like a mute.}} It’s like 300 miles. But.
+[u2961 | 02:57:08.020-02:57:11.219 | DM] Well, that’s quite a commute. It’s like 300 miles. But.
 [u2962 | 02:57:11.220-02:57:12.560 | Seeker] So true.
 [u2963 | 02:57:12.560-02:57:19.870 | Kenzo] So this is. But this is exactly the plot of every great video game. You know. It's like the the second, the last boss. You always have to fight yourself. Yeah.
 [u2964 | 02:57:20.410-02:57:25.739 | Kenzo] either that or it's the last boss, because after you beat the boss and you think you're over, then you have to fight yourself. You know what I mean. So.
