@@ -15,13 +15,13 @@ u0288 · 00:25:29.250-00:25:31.620 · Izzarak
 
 **Proposed:** Do they serve the gods or the mortals?
 
-**Recommendation:** The gods or the mortals is a plausible reading of the contrast, but an audio check is needed to recover the groups actually named.
+**Recommendation:** Recommend the gods or the mortals: of the model is a close recognition error, and the immediate answer Neither followed by an explanation of neutrality supports the contrast. This remains a text-based recovery.
 
 **Question:** Use the gods or the mortals, supply the actual wording, or retain unresolved?
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -75,13 +75,13 @@ u0727 · 01:02:38.680-01:02:39.979 · DM
 
 **Suggested disposition:** Retain unresolved; no supported correction.
 
-**Recommendation:** Retain unresolved until an audio check identifies the names. These may differ from the player's Zan and Zach nicknames, so do not substitute those automatically.
+**Recommendation:** Recommend retaining these uncertain forms. The relevant character notes, session narrative, and Kenzo adventure notes do not identify the names. Do not substitute the player nicknames automatically. The later Khrushchev fragment may be the repeated first name, but its broken surrounding exchange does not establish that.
 
 **Question:** What name is spoken here, or should this remain unresolved?
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -139,13 +139,13 @@ u0728 · 01:02:40.370-01:02:41.609 · DM
 
 **Suggested disposition:** Retain unresolved; no supported correction.
 
-**Recommendation:** Retain unresolved until an audio check identifies the names. These may differ from the player's Zan and Zach nicknames, so do not substitute those automatically.
+**Recommendation:** Recommend retaining these uncertain forms. The relevant character notes, session narrative, and Kenzo adventure notes do not identify the names. Do not substitute the player nicknames automatically. The later Khrushchev fragment may be the repeated first name, but its broken surrounding exchange does not establish that.
 
 **Question:** What name is spoken here, or should this remain unresolved?
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -203,13 +203,13 @@ u0827 · 01:10:52.220-01:10:54.139 · DM
 
 **Suggested disposition:** Retain unresolved; no supported correction.
 
-**Recommendation:** Retain unresolved until an audio check identifies the names. These may differ from the player's Zan and Zach nicknames, so do not substitute those automatically.
+**Recommendation:** Recommend retaining these uncertain forms. The relevant character notes, session narrative, and Kenzo adventure notes do not identify the names. Do not substitute the player nicknames automatically. The later Khrushchev fragment may be the repeated first name, but its broken surrounding exchange does not establish that.
 
 **Question:** What name is spoken here, or should this remain unresolved?
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -275,13 +275,13 @@ u1673 · 02:18:02.639-02:18:04.309 · DM
 
 **Alternative 1:** I don't miss them, but
 
-**Recommendation:** I'll miss them fits the farewell exchange and is a plausible recognition repair, but preserve the negative unless the spoken contraction is confirmed.
+**Recommendation:** Recommend I’ll miss them as a likely contraction error in the farewell. The speaker asks that her family be told she loves them, then continues but I lived a good life and I knew the risks. The original negative remains an available alternative; no audio was checked.
 
 **Question:** Use I'll miss them, confirm I don't miss them, supply another correction, or retain unresolved?
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -335,7 +335,7 @@ u2033 · 02:45:28.940-02:45:30.649 · Izzarak
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -371,7 +371,7 @@ u2287 · 03:08:47.880-03:08:49.699 · Izzarak
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -421,7 +421,7 @@ u2290 · 03:09:01.370-03:09:02.310 · Izzarak
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -471,7 +471,7 @@ u2292 · 03:09:07.960-03:09:11.079 · Izzarak
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 

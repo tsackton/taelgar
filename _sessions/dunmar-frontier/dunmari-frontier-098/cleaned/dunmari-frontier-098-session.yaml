@@ -40,3 +40,99 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-098/sources/zoom-session-098.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 3400
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20240503-002037_Recording.transcript.vtt
+      sha256: 9c23504569f46c883be0a12dc54838cd6e04ca82edf16c9ac81c0c040d709050
+    prepared:
+      path: cleaned/dunmari-frontier-098-source-prepared.md
+      sha256: 73b1a72af311d0c52633fdd7d8ec3ee0d46b7b1cc62e3c8db0fab3fcd072df50
+    cleaned:
+      path: cleaned/dunmari-frontier-098-source-cleaned.md
+      sha256: 9aa3e8d84bc88938b3e979dc17b3c1857b65fe265b623b23b6aa04cc144852a8
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-098-transcript.md
+      sha256: 0187460ec4860892c91cc533f7affde6c2d0b7d354a5dfb2c480b3f45edd1d0f
+  speakerCorrections:
+  - uid: u1917
+    start: 0
+    end: 117
+    speaker: Recorded song
+  - uid: u1918
+    start: 13
+    end: 61
+    speaker: Recorded song
+  - uid: u1919
+    start: 0
+    end: 117
+    speaker: Recorded song
+  - uid: u1920
+    start: 0
+    end: 135
+    speaker: Recorded song
+  - uid: u1921
+    start: 0
+    end: 210
+    speaker: Recorded song
+  - uid: u3126
+    start: 0
+    end: 228
+    speaker: Recorded song
+  - uid: u3127
+    start: 0
+    end: 294
+    speaker: Recorded song
+  - uid: u3128
+    start: 0
+    end: 203
+    speaker: Recorded song
+  - uid: u3129
+    start: 0
+    end: 266
+    speaker: Recorded song
+  - uid: u3151
+    start: 0
+    end: 157
+    speaker: Recorded song
+  - uid: u3152
+    start: 0
+    end: 46
+    speaker: Recorded song
+  - uid: u3153
+    start: 0
+    end: 2
+    speaker: Recorded song
+  - uid: u3154
+    start: 0
+    end: 198
+    speaker: Recorded song
+  - uid: u3155
+    start: 0
+    end: 59
+    speaker: Recorded song
+  - uid: u3156
+    start: 0
+    end: 2
+    speaker: Recorded song
+  - uid: u3157
+    start: 0
+    end: 2
+    speaker: Recorded song
+  - uid: u3158
+    start: 0
+    end: 2
+    speaker: Recorded song
+  - uid: u3159
+    start: 0
+    end: 202
+    speaker: Recorded song
+  - uid: u3160
+    start: 0
+    end: 135
+    speaker: Recorded song

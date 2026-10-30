@@ -1407,7 +1407,7 @@
 [u1407 | 01:56:07.400-01:56:10.300 | Shoal] Yeah. Well, I'm: Yeah, i'm out of stuff.
 [u1408 | 01:56:10.480-01:56:12.190 | Artem Novolozek] Cosmic revenge.
 [u1409 | 01:56:13.810-01:56:15.050 | Wellby] I
-[u1410 | 01:56:15.260-01:56:25.510 | Wellby] I don't think Wellby can stop himself from stabbing this person. Yeah, regardless asking you to the right. Tactics are
+[u1410 | 01:56:15.260-01:56:25.510 | Wellby] I don't think Wellby can stop himself from stabbing this person. Yeah, regardless of what the right tactics are
 [u1411 | 01:56:26.400-01:56:28.620 | DM] fifteen misses.
 [u1412 | 01:56:28.900-01:56:30.170 | Wellby] Oh, no,
 [u1413 | 01:56:30.540-01:56:35.790 | Wellby] uh sorry. Wellby can stop himself from stabbing this person.
@@ -1770,7 +1770,7 @@
 [u1770 | 02:27:18.890-02:27:20.579 | Artem Novolozek] Oh, you know what
 [u1771 | 02:27:20.730-02:27:25.149 | Artem Novolozek] Crabby might make a return, Mr. Giant Crab.
 [u1772 | 02:27:26.260-02:27:29.360 | Artem Novolozek] Could polymorph him into a giant crab and send them to fight.
-[u1773 | 02:27:30.300-02:27:39.520 | Rufus] Uh, you know, there's actually one crucial story flaw with this plan, which is that {{my character happened today}}.
+[u1773 | 02:27:30.300-02:27:39.520 | Rufus] Uh, you know, there's actually one crucial story flaw with this plan, which is that my character happens to hate crabs.
 [u1774 | 02:27:47.940-02:28:04.260 | Artem Novolozek] Oh, we could find a different creature to to to polymorph. I mean, I only have one concentration effect at a time, right? So if i'm going to use it on polymorph him into a into a creature. Then I can't also make somebody invisible.
 [u1775 | 02:28:04.660-02:28:08.170 | Rufus] Would Rufus's expertise, do you think, include?
 [u1776 | 02:28:08.310-02:28:10.359 | Rufus] Given a particular
@@ -2415,7 +2415,7 @@
 [u2415 | 03:23:33.040-03:23:34.640 | DM] Okay?
 [u2416 | 03:23:35.350-03:23:37.509 | DM] Ah, you cannot see her.
 [u2417 | 03:23:37.630-03:23:45.209 | DM] Oh, sorry. You don't notice that because I was looking at Rufus's passive perception, not yours. Forget I said anything. You notice nothing.
-[u2418 | 03:23:45.430-03:23:49.020 | Wellby] I know a shortcuts ice graph.
+[u2418 | 03:23:45.430-03:23:49.020 | Wellby] I know a shark has ice breath.
 [u2419 | 03:23:49.210-03:23:50.520 | DM] Yes,
 [u2420 | 03:23:50.950-03:23:53.190 | DM] you take
 [u2421 | 03:23:54.720-03:23:55.869 | DM] um.
@@ -3302,7 +3302,7 @@
 [u3302 | 04:35:20.259-04:35:22.379 | DM] Okay, that succeeds.
 [u3303 | 04:35:23.790-04:35:28.090 | Artem Novolozek] No, I think Artem would know that it's he wouldn't fall for a trick.
 [u3304 | 04:35:28.550-04:35:29.780 | DM] Okay,
-[u3305 | 04:35:29.950-04:35:32.520 | DM] brings us back to stop around to
+[u3305 | 04:35:29.950-04:35:32.520 | DM] brings us back to the top of the round to
 [u3306 | 04:35:33.340-04:35:39.689 | DM] Rufus, who unwittingly starts his turn adjacent to
 [u3307 | 04:35:39.900-04:35:42.189 | DM] the wall, and the coral
 [u3308 | 04:35:42.590-04:35:44.620 | DM] reaches out around him.

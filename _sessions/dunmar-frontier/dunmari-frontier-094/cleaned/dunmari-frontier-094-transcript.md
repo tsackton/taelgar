@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 94
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-094-source-cleaned.md
 
 ## Transcript
@@ -89,8 +89,8 @@ Delwath: Pacing about, also practicing Ursk trading phrases with Seeker now and 
 %% u0068:0-24, u0069:0-8, u0070:0-56, u0071:0-31 %%
 Delwath: But as otherwise his his hair is—he looks—He actually looks a bit different than normal. His hair is more neatly combed.
 
-%% u0072:0-89, u0073:0-8, u0074:0-89 %%
-Delwath: Lot of the signs of the tanshi are tucked away. Normally, he wears, you know, feather and a silver {{rating around. Is that get}} a few other sort of amulets and symbols of the tanshi. But
+%% u0072:0-89, u0073:0-8, u0074:0-79 %%
+Delwath: Lot of the signs of the tanshi are tucked away. Normally, he wears, you know, feather and a silver ring around his neck a few other sort of amulets and symbols of the tanshi. But
 
 %% u0075:0-100, u0076:0-29, u0077:0-85, u0078:0-18, u0079:0-89 %%
 Delwath: He looks more elvish. He looks. He looks mo—more elvish than you've ever seen him look actually more like the Elves of Orenlas, or I guess that's the only other sort of met. You know, his hair more neat, his clothing neater, less human. Everything about him just has a little bit of a vibe slightly less hum—human than normal.
@@ -773,11 +773,11 @@ DM: Plus we have a frost giant. He's a bit of a coward, but Kecha has been pract
 %% u0618:0-32 %%
 Seeker: The ice shield. Oh, that's cool.
 
-%% u0619:0-102, u0620:0-107 %%
-DM: {{Emma Chrissie}}, I mean they seem to end—, and Jotha has joined the crew. The Deno'qai woman, who had been living with Vargaldi for some time, and has taken over tending the tanshi shrine that Delwath has made.
+%% u0619:0-100, u0620:0-107 %%
+DM: Amil and Kethra, I mean they seem to end—, and Jotha has joined the crew. The Deno'qai woman, who had been living with Vargaldi for some time, and has taken over tending the tanshi shrine that Delwath has made.
 
-%% u0621:0-51, u0622:0-175, u0623:0-23, u0624:0-83, u0625:0-41, u0626:0-55 %%
-DM: You know that the frost giant is not likely to stay for long. He's not gonna leave the North when you depart. And he keeps talking about finding his sister somewhere. {{You have a padre}} also seems to be keen on this question. Keep telling them like, “No, don't go haring off on a wild goose chase,” but he's spent a little bit too long hanging out with you and watching you now to know, to like trust, that you're serious about that.
+%% u0621:0-51, u0622:0-170, u0623:0-23, u0624:0-83, u0625:0-41, u0626:0-55 %%
+DM: You know that the frost giant is not likely to stay for long. He's not gonna leave the North when you depart. And he keeps talking about finding his sister somewhere. Your apprentice also seems to be keen on this question. Keep telling them like, “No, don't go haring off on a wild goose chase,” but he's spent a little bit too long hanging out with you and watching you now to know, to like trust, that you're serious about that.
 
 %% u0627:0-2, u0628:0-74 %%
 DM: So they wave goodbye to you. Any last instructions you want to give your crew?
@@ -1079,10 +1079,10 @@ DM: This, almost like emerging out of the stone, is this like wax sigil that he 
 %% u0821:0-53, u0822:0-20, u0823:0-14, u0824:0-62, u0825:0-11, u0826:0-5, u0827:0-13, u0828:0-22, u0829:0-36, u0830:0-3, u0831:0-91, u0832:0-39, u0833:0-71, u0834:0-74, u0835:0-36 %%
 DM: And he and the the guy who's been talking to you says, “You might speak with Lena Sorokina. She's one of the watchers. But but don't let that put you off. She's fair. She's quite strong. And has connections to 3 of the Rodnya who are often asking for—well, I don't rightly know what they might be asking for, but if anyone in town would know what would get you truly a good price, secret dangers might be lurking, that some powerful wizard, wants dead. It would be her. If you have no objections to speaking with the Watchers. Know not all of your kind like them.”
 
-%% u0835:36-165, u0836:0-23 %%
-Wellby: Mmm. Wellby shrugs non-committally. We have a finder's fee, and you have a finder's fee. What what will it take to convince her? {{Or is the service}}.
+%% u0835:36-165, u0836:0-18 %%
+Wellby: Mmm. Wellby shrugs non-committally. We have a finder's fee, and you have a finder's fee. What what will it take to convince her? for her services.
 
-%% u0836:23-114 %%
+%% u0836:18-109 %%
 DM: He kind of laughs again, sort of cheerfully. He seems like he's enjoying this conversation.
 
 %% u0837:0-24, u0838:0-46, u0839:0-54 %%

@@ -871,7 +871,7 @@
 [u0871 | 01:23:42.100-01:23:43.950 | Seeker] Well, that costs 3 charges, though
 [u0872 | 01:23:44.960-01:23:49.159 | Riswynn] I mean Kenzo and I both took damage. Did anybody else take damage?
 [u0873 | 01:23:49.650-01:23:51.990 | Kenzo] Nope, yeah, I took some damage.
-[u0874 | 01:23:52.250-01:24:00.010 | Riswynn] But I mean, I was just thinking I was gonna have to {{check it wrong}} at some point. But I guess that's {{an oh itself}}. Never mind, I can't do that. I can only do it for myself.
+[u0874 | 01:23:52.250-01:24:00.010 | Riswynn] But I mean, I was just thinking I was gonna have to {{check it wrong}} at some point. But I guess that's only self. Never mind, I can't do that. I can only do it for myself.
 [u0875 | 01:24:01.530-01:24:03.529 | Delwath] I forgot that it was self.
 [u0876 | 01:24:03.750-01:24:10.650 | Delwath] I mean, if you want to cast a spell, and then quickly, do your 1 min surge of adrenaline certainly can.
 [u0877 | 01:24:11.100-01:24:24.380 | Seeker] No, it's not even worth it. I can get a slot back with my Rod of the Pact Keeper, right? Anybody need to ride the Ladder because I can make it really fast. And I mean, are we gonna fly like we're landing instead of flying?
@@ -1172,7 +1172,7 @@
 [u1172 | 01:47:47.050-01:47:53.019 | Riswynn] after us if we don't put up some sort of wall. So I think the answer is 120. I'm in range
 [u1173 | 01:47:53.080-01:47:57.520 | Kenzo] right now. It feels like we should fuck him up and try to get the ring off of this thing.
 [u1174 | 01:47:57.780-01:48:01.949 | Riswynn] Oh, yes, but I just don't want to be distracted from fucking him up by being attacked by
-[u1175 | 01:48:02.520-01:48:06.660 | Riswynn] 2,000 {{semi-tarical}} undead?
+[u1175 | 01:48:02.520-01:48:06.660 | Riswynn] 2,000 semi-ethereal undead?
 [u1176 | 01:48:07.570-01:48:12.099 | Seeker] Does Psychic Lance increase damage at higher levels? It does. Okay. I cast
 [u1177 | 01:48:12.960-01:48:15.510 | Seeker] Psychic Lance at sixth level.
 [u1178 | 01:48:16.020-01:48:19.540 | Riswynn] All right, but if hordes start coming after us, then drop a wall.
@@ -1788,7 +1788,7 @@
 [u1788 | 02:39:10.200-02:39:15.029 | DM] So you want to. So if you want to attack, if you want to try and bite his hand off. It's an attack with disadvantage.
 [u1789 | 02:39:15.430-02:39:30.750 | Kenzo] That's fine. Okay, but but I can do that at any point, or do I have to do that once he's down to 15 hit points, or what's the oh, shit. So I'm just gonna do that 5 times. Then I'm just gonna try to attack 5 times, try to bite his hand off 5 times.
 [u1790 | 02:39:31.320-02:39:33.689 | Kenzo] You've got to do 15 points of
-[u1791 | 02:39:34.790-02:39:38.149 | DM] piercing damage {{and the surge}} slashing damage from the bites.
+[u1791 | 02:39:34.790-02:39:38.149 | DM] piercing damage or slashing damage from the bites.
 [u1792 | 02:39:38.640-02:39:39.870 | Kenzo] Okay, so
 [u1793 | 02:39:40.020-02:39:44.520 | Kenzo] okay, holy spot. Alright, so inspiration! Come on. How much inspiration can I get
 [u1794 | 02:39:45.000-02:39:50.300 | Seeker] it? We we apply it. I can do it once per turn. Is that right?
@@ -2069,7 +2069,7 @@
 [u2069 | 03:07:01.700-03:07:05.080 | Kenzo] Well, it seems that we came exactly on time
 [u2070 | 03:07:07.640-03:07:09.610 | Wellby] does
 [u2071 | 03:07:11.450-03:07:15.240 | DM] less of the city might have been destroyed if you had gotten a few days earlier.
-[u2072 | 03:07:16.580-03:07:22.039 | Seeker] Seems like there's some {{damage price}} of the mirror vision of the elemental forge.
+[u2072 | 03:07:16.580-03:07:22.039 | Seeker] Seems like there's some damage. Price of the mirror vision of the elemental forge.
 [u2073 | 03:07:22.540-03:07:25.139 | Kenzo] nothing that can't be rebuilt. True.
 [u2074 | 03:07:33.800-03:07:34.860 | DM] So
 [u2075 | 03:07:36.550-03:07:38.450 | DM] as the day passes

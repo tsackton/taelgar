@@ -144,7 +144,7 @@
 [u0144 | 00:16:33.840-00:16:35.680 | Delwath] Cha'mutte's shadow armband.
 [u0145 | 00:16:36.460-00:16:38.060 | Kenzo] What do we have
 [u0146 | 00:16:38.660-00:16:48.829 | Delwath] That was from the armbands Cha'mutte was using to travel to the shadow dimensions and transport troops all over the place.
-[u0147 | 00:16:48.840-00:16:53.200 | Seeker] {{45 pairs}}. So it's it's not that useful
+[u0147 | 00:16:48.840-00:16:53.200 | Seeker] four or five pairs. So it's it's not that useful
 [u0148 | 00:16:53.510-00:17:02.219 | Kenzo] it? Thi? It's not that useful. But the Philosophers Guild might be interested. We should also think of some things to show the mirror, and it's like just about mirror time.
 [u0149 | 00:17:03.030-00:17:05.199 | Seeker] Oh, is it got it?
 [u0150 | 00:17:05.720-00:17:09.290 | DM] Is that
@@ -780,7 +780,7 @@
 [u0780 | 01:20:30.190-01:20:32.180 | DM] soul jar somewhere where
 [u0781 | 01:20:32.630-01:20:44.950 | Kenzo] that he can return to, and he cannot be destroyed until he cannot be destroyed until that is destroyed. Right is it also like if he gets reunited with it, or like even more super fucked.
 [u0782 | 01:20:46.440-01:20:48.830 | DM] He's our, I mean.
-[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? {{He wasn't renated with it}} 30 years ago. He just was really weak because
+[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? He was reunited with it 30 years ago. He just was really weak because
 [u0784 | 01:20:57.280-01:21:03.460 | DM] he had been trapped unable to access it for
 [u0785 | 01:21:04.920-01:21:07.299 | Kenzo] 1,000 years.
 [u0786 | 01:21:09.590-01:21:13.620 | Kenzo] So wait. Just do we still know yet like what?
@@ -831,7 +831,7 @@
 [u0831 | 01:25:58.830-01:26:09.099 | DM] or you could just use the binding stones to bind Apollyon. No, but he can cast ninth-level Dispel Magic. That's right.
 [u0832 | 01:26:09.380-01:26:16.659 | Delwath] I mean, I assume he's at 18th-level mage, 17th, wizard
 [u0833 | 01:26:18.710-01:26:27.550 | Delwath] maybe we could use the binding stones on Fausto or what level is Fausto? Oh, he's definitely not he. We could totally use the binding stones on Fausto.
-[u0834 | 01:26:27.610-01:26:29.740 | Kenzo] {{We're crossing the mirror}}, too.
+[u0834 | 01:26:27.610-01:26:29.740 | Kenzo] Or toss him in the mirror, too.
 [u0835 | 01:26:30.080-01:26:34.630 | Delwath] Grash! We should just kill. But the binding stones on Fausto, a touch of like
 [u0836 | 01:26:35.350-01:26:36.140 | Delwath] that's
 [u0837 | 01:26:36.360-01:26:39.720 | Delwath] dark, but kind of appealingly dark.
@@ -930,7 +930,7 @@
 [u0930 | 01:35:21.890-01:35:22.990 | DM] I mean.
 [u0931 | 01:35:23.230-01:35:30.430 | Delwath] He didn't say he would tell you nothing for the just go for the foot and give him the coin.
 [u0932 | 01:35:38.460-01:35:47.560 | DM] Okay? So he says. you know, again, he'll need to investigate. What he can tell you is, Frankar is definitely alive somewhere.
-[u0933 | 01:35:47.610-01:35:49.340 | DM] {{Anonymous land}}
+[u0933 | 01:35:47.610-01:35:49.340 | DM] On another plane
 [u0934 | 01:35:51.140-01:35:52.160 | Kenzo] that's huge
 [u0935 | 01:35:54.440-01:35:57.069 | Seeker] Seeker, Anything else you wish to know?
 [u0936 | 01:35:57.300-01:35:58.020 | Unknown] A.

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 65
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-065-source-cleaned.md
 
 ## Transcript
@@ -401,8 +401,8 @@ Raven: I am. I consider myself to be quite stealthy if you wish we could try, an
 %% u0398:0-32, u0399:0-22 %%
 Seeker: If you're going to scout ahead I would appreciate that.
 
-%% u0400:0-9, u0401:0-20, u0402:0-33 %%
-Caulaus: Yes, some some scouting is uh, [garbled], under the circumstances.
+%% u0400:0-9, u0401:0-20, u0402:0-34 %%
+Caulaus: Yes, some some scouting is uh, in order, under the circumstances.
 
 %% u0403:0-13, u0404:0-54, u0405:0-43 %%
 Spirala: Right, if we—if we could sneak up on him, I might try to blind him. But let's see how the lay of the land goes.
@@ -3113,8 +3113,8 @@ Raven: You know.
 %% u2248:0-20, u2249:0-7, u2250:0-28, u2251:0-3, u2252:0-25, u2253:0-34, u2254:0-43, u2255:0-13 %%
 Caulaus: Caulaus will sort of salute, and wish you a good journey. Um! And look at the other two clearly fey creatures, and sort of nod at you and say, “I do not think you need guidance here.”
 
-%% u2256:0-11, u2257:0-60, u2258:0-17, u2259:0-29 %%
-Raven: I am going. It is almost time for {{a spoil}} to return to the caves and {{the Internet.}} I wouldn't want to miss that.
+%% u2256:0-11, u2257:0-60, u2258:0-10, u2259:0-29 %%
+Raven: I am going. It is almost time for {{a spoil}} to return to the caves and hibernate. I wouldn't want to miss that.
 
 %% u2260:0-79 %%
 Spirala: For perhaps you could be a guide for Caulaus, and he could explore Shimmersong.

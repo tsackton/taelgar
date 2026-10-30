@@ -71,7 +71,7 @@
 [u0071 | 00:06:37.090-00:06:39.270 | Delwath] His hair is more neatly combed.
 [u0072 | 00:06:39.420-00:06:44.249 | Delwath] Lot of the signs of the tanshi are tucked away. Normally, he wears, you know, feather and
 [u0073 | 00:06:44.570-00:06:46.160 | Delwath] a silver
-[u0074 | 00:06:46.270-00:06:51.360 | Delwath] {{rating around. Is that get}} a few other sort of amulets and symbols of the tanshi. But
+[u0074 | 00:06:46.270-00:06:51.360 | Delwath] ring around his neck a few other sort of amulets and symbols of the tanshi. But
 [u0075 | 00:06:52.050-00:06:58.820 | Delwath] he looks more elvish. He looks. He looks mo more elvish than you've ever seen him look actually more
 [u0076 | 00:06:59.140-00:07:03.979 | Delwath] like the Elves of Orenlas, or
 [u0077 | 00:07:05.030-00:07:10.849 | Delwath] I guess that's the only other sort of met. You know, his hair more neat, his clothing
@@ -616,10 +616,10 @@
 [u0616 | 01:02:36.490-01:02:50.599 | DM] in like scouting in circles around the ship, and basically being like an artillery spotter like that air balloon. Whatever spotter to like direct where the where the frost
 [u0617 | 01:02:50.640-01:02:55.309 | DM] icicle spears should go from a distance, even if the ship is protected by
 [u0618 | 01:02:55.690-01:02:58.990 | Seeker] the ice shield. Oh, that's cool.
-[u0619 | 01:02:59.220-01:03:10.650 | DM] {{Emma Chrissie}}, I mean they seem to end, and Jotha has joined the crew. The Deno'qai woman, who had
+[u0619 | 01:02:59.220-01:03:10.650 | DM] Amil and Kethra, I mean they seem to end, and Jotha has joined the crew. The Deno'qai woman, who had
 [u0620 | 01:03:10.780-01:03:19.079 | DM] been living with Vargaldi for some time. and has taken over tending the tanshi shrine that Delwath has made
 [u0621 | 01:03:21.240-01:03:28.860 | DM] you know that the frost giant is not likely to stay
-[u0622 | 01:03:29.050-01:03:40.240 | DM] for long. He's not gonna leave the North when you depart. and he keeps talking about finding his sister somewhere. {{You have a padre}} also seems to be keen on this question.
+[u0622 | 01:03:29.050-01:03:40.240 | DM] for long. He's not gonna leave the North when you depart. and he keeps talking about finding his sister somewhere. Your apprentice also seems to be keen on this question.
 [u0623 | 01:03:40.560-01:03:41.929 | DM] Keep telling them like.
 [u0624 | 01:03:42.000-01:03:47.699 | DM] no, don't go haring off on a wild goose chase, but he's spent a little bit too long
 [u0625 | 01:03:48.600-01:03:51.350 | DM] hanging out with you and watching you now
@@ -833,7 +833,7 @@
 [u0833 | 01:23:28.190-01:23:35.149 | DM] Secret dangers might be lurking, that some powerful wizard, wants dead.
 [u0834 | 01:23:36.250-01:23:40.260 | DM] it would be her. If you have no objections to speaking with. The watchers.
 [u0835 | 01:23:41.640-01:23:54.380 | Wellby] Know not all of your kind like them. Mmm. Wellby shrugs non-committally. We have a finder's fee, and you have a finder's fee. What what will it take to convince her?
-[u0836 | 01:23:59.920-01:24:06.430 | Wellby] {{Or is the service}}. He kind of laughs again, sort of cheerfully. He seems like he's enjoying this conversation.
+[u0836 | 01:23:59.920-01:24:06.430 | Wellby] for her services. He kind of laughs again, sort of cheerfully. He seems like he's enjoying this conversation.
 [u0837 | 01:24:07.860-01:24:10.979 | DM] I've I've never met her.
 [u0838 | 01:24:13.070-01:24:18.120 | DM] You'll if you want to know what she wants. Oh.
 [u0839 | 01:24:19.650-01:24:24.940 | DM] you know she has a reputation. I get all my news from.

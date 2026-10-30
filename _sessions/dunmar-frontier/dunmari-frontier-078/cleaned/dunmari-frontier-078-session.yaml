@@ -41,3 +41,343 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-078/sources/zoom-session-078.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2654
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20230602-011006_Recording.transcript.vtt
+      sha256: 8bb794e07e1dd185f817fea3f81c815d80beb17afb36f9cd1c5ac3aaade31e21
+    prepared:
+      path: cleaned/dunmari-frontier-078-source-prepared.md
+      sha256: dcef8caa484b11bb12db5f031a353683752b823ce63a8bc321bc51d0db8cf836
+    cleaned:
+      path: cleaned/dunmari-frontier-078-source-cleaned.md
+      sha256: b0337dcd62bcb8b8630ffd3c06fc2b99e82976953c3c04dee3050a78e0dd9239
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-078-transcript.md
+      sha256: aede2d2f44da3f7899ee624a9792939069513ff55785aaa8f329858056d01b71
+  speakerCorrections:
+  - uid: u0080
+    start: 0
+    end: 23
+    speaker: Delwath
+  - uid: u0083
+    start: 0
+    end: 97
+    speaker: Delwath
+  - uid: u0083
+    start: 97
+    end: 151
+    speaker: Kenzo
+  - uid: u0160
+    start: 0
+    end: 33
+    speaker: Kenzo
+  - uid: u0228
+    start: 0
+    end: 64
+    speaker: DM
+  - uid: u0228
+    start: 108
+    end: 140
+    speaker: DM
+  - uid: u0239
+    start: 89
+    end: 235
+    speaker: DM
+  - uid: u0258
+    start: 0
+    end: 39
+    speaker: DM
+  - uid: u0284
+    start: 0
+    end: 85
+    speaker: DM
+  - uid: u0317
+    start: 0
+    end: 31
+    speaker: Kenzo
+  - uid: u0326
+    start: 76
+    end: 112
+    speaker: DM
+  - uid: u0346
+    start: 0
+    end: 25
+    speaker: DM
+  - uid: u0446
+    start: 0
+    end: 39
+    speaker: DM
+  - uid: u0512
+    start: 88
+    end: 199
+    speaker: Kenzo
+  - uid: u0585
+    start: 36
+    end: 66
+    speaker: Delwath
+  - uid: u0596
+    start: 87
+    end: 170
+    speaker: DM
+  - uid: u0668
+    start: 115
+    end: 211
+    speaker: DM
+  - uid: u0777
+    start: 0
+    end: 19
+    speaker: Unknown
+  - uid: u0777
+    start: 19
+    end: 132
+    speaker: Delwath
+  - uid: u0806
+    start: 23
+    end: 84
+    speaker: DM
+  - uid: u0810
+    start: 0
+    end: 60
+    speaker: DM
+  - uid: u0828
+    start: 0
+    end: 36
+    speaker: Kenzo
+  - uid: u0837
+    start: 61
+    end: 98
+    speaker: DM
+  - uid: u0855
+    start: 18
+    end: 112
+    speaker: Delwath
+  - uid: u0876
+    start: 8
+    end: 69
+    speaker: DM
+  - uid: u0879
+    start: 128
+    end: 187
+    speaker: Wellby
+  - uid: u0907
+    start: 0
+    end: 86
+    speaker: Seeker
+  - uid: u0995
+    start: 0
+    end: 49
+    speaker: Riswynn
+  - uid: u0997
+    start: 0
+    end: 47
+    speaker: DM
+  - uid: u1066
+    start: 52
+    end: 119
+    speaker: Kenzo
+  - uid: u1099
+    start: 41
+    end: 105
+    speaker: DM
+  - uid: u1102
+    start: 0
+    end: 65
+    speaker: Wellby
+  - uid: u1186
+    start: 51
+    end: 107
+    speaker: DM
+  - uid: u1304
+    start: 9
+    end: 66
+    speaker: DM
+  - uid: u1382
+    start: 0
+    end: 68
+    speaker: DM
+  - uid: u1388
+    start: 8
+    end: 182
+    speaker: Delwath
+  - uid: u1408
+    start: 0
+    end: 16
+    speaker: DM
+  - uid: u1433
+    start: 79
+    end: 106
+    speaker: Seeker
+  - uid: u1434
+    start: 0
+    end: 14
+    speaker: Seeker
+  - uid: u1438
+    start: 49
+    end: 94
+    speaker: Kenzo
+  - uid: u1439
+    start: 0
+    end: 55
+    speaker: Kenzo
+  - uid: u1446
+    start: 146
+    end: 189
+    speaker: DM
+  - uid: u1479
+    start: 17
+    end: 55
+    speaker: DM
+  - uid: u1692
+    start: 0
+    end: 68
+    speaker: DM
+  - uid: u1721
+    start: 0
+    end: 71
+    speaker: Delwath
+  - uid: u1722
+    start: 0
+    end: 40
+    speaker: Delwath
+  - uid: u1747
+    start: 0
+    end: 32
+    speaker: DM
+  - uid: u1762
+    start: 201
+    end: 384
+    speaker: DM
+  - uid: u1765
+    start: 0
+    end: 38
+    speaker: Riswynn
+  - uid: u1767
+    start: 165
+    end: 287
+    speaker: Riswynn
+  - uid: u1847
+    start: 3
+    end: 84
+    speaker: DM
+  - uid: u1854
+    start: 109
+    end: 122
+    speaker: DM
+  - uid: u1926
+    start: 224
+    end: 288
+    speaker: Riswynn
+  - uid: u1926
+    start: 356
+    end: 430
+    speaker: Riswynn
+  - uid: u1995
+    start: 58
+    end: 124
+    speaker: Delwath
+  - uid: u2015
+    start: 20
+    end: 136
+    speaker: Kenzo
+  - uid: u2019
+    start: 22
+    end: 93
+    speaker: DM
+  - uid: u2074
+    start: 0
+    end: 66
+    speaker: Kenzo
+  - uid: u2142
+    start: 6
+    end: 31
+    speaker: Delwath
+  - uid: u2157
+    start: 142
+    end: 182
+    speaker: Delwath
+  - uid: u2185
+    start: 0
+    end: 74
+    speaker: DM
+  - uid: u2188
+    start: 66
+    end: 129
+    speaker: DM
+  - uid: u2216
+    start: 0
+    end: 40
+    speaker: DM
+  - uid: u2216
+    start: 79
+    end: 113
+    speaker: DM
+  - uid: u2226
+    start: 20
+    end: 86
+    speaker: DM
+  - uid: u2284
+    start: 109
+    end: 173
+    speaker: DM
+  - uid: u2313
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u2333
+    start: 193
+    end: 277
+    speaker: Seeker
+  - uid: u2369
+    start: 6
+    end: 44
+    speaker: DM
+  - uid: u2370
+    start: 0
+    end: 17
+    speaker: DM
+  - uid: u2376
+    start: 0
+    end: 98
+    speaker: Kenzo
+  - uid: u2401
+    start: 73
+    end: 129
+    speaker: Kenzo
+  - uid: u2436
+    start: 34
+    end: 102
+    speaker: Delwath
+  - uid: u2437
+    start: 126
+    end: 237
+    speaker: Delwath
+  - uid: u2460
+    start: 11
+    end: 49
+    speaker: DM
+  - uid: u2471
+    start: 107
+    end: 180
+    speaker: Delwath
+  - uid: u2508
+    start: 18
+    end: 96
+    speaker: Kenzo
+  - uid: u2530
+    start: 0
+    end: 42
+    speaker: Riswynn
+  - uid: u2556
+    start: 117
+    end: 158
+    speaker: DM
+  - uid: u2576
+    start: 36
+    end: 71
+    speaker: DM

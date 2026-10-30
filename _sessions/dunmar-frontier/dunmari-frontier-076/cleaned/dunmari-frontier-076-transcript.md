@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 76
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-076-source-cleaned.md
 
 ## Transcript
@@ -221,8 +221,8 @@ Delwath: So, just remind me. Sorry I did read the session notes. But did we have
 %% u0134:0-152 %%
 DM: Not that I can figure out. I mean, get to somehow prevent from getting the cloak. Yeah, I mean. Grash is obviously here with his army to take the cloak.
 
-%% u0135:0-77, u0136:0-38, u0137:0-104 %%
-Delwath: And then turn around and march into Dunmar. And do we have any allies or help? {{we die when allies are home.}} Okay. It's not a—we've done so. Our plan is just to show up and cause we're so awesome, we will turn the tide.
+%% u0135:0-77, u0136:0-39, u0137:0-104 %%
+Delwath: And then turn around and march into Dunmar. And do we have any allies or help? We don't have any allies or help. Okay. It's not a—we've done so. Our plan is just to show up and cause we're so awesome, we will turn the tide.
 
 %% u0138:0-107 %%
 Kenzo: I mean, we gotta like talk to them and negotiate and stuff, which I, which I think we should talk about now.
@@ -2558,8 +2558,8 @@ Delwath: Well tell him what we know. The only thing I'm going to leave out again
 %% u1885:0-169 %%
 Kenzo: Yeah, I I tell him everything about the Plane of Souls and Grash, and the ring, and you know the end, or like his ability to raise the dead, and and also seeing Apollyon.
 
-%% u1886:0-179, u1887:0-46, u1888:0-67, u1889:0-122, u1890:0-116, u1891:0-27, u1892:0-19, u1893:0-358 %%
-Delwath: That was creepy and weird. I mean happy to tell them the story of Rai and the jade handbrake, I assume all. But oh, no, no, we should not tell him that we should not tell him that that we have anything to do with that Apollyon. Isn't that how we know almost everything, because Rai was trying to— hold Apollyon, because Rai was holding the the well. But Kenzo also saw Apollyon in his spirit journey. That's more direct. Well, we could stick with that mostly. But Fausto we could tell the whole story of Fausto and yeah Chardon research. The the like, the Cleansed, almost dying. Yeah. The venturing parties seeking these artifacts in the desert. Yeah. And I'll be for us. And the fact that yeah is working for Apollyon. These people are all hunting these things which and the those people that likely showed up and tried to like to like, infiltrate, you guys, and you kick them out so that that should confirm some stuff that they already know.
+%% u1886:0-179, u1887:0-46, u1888:0-67, u1889:0-122, u1890:0-116, u1891:0-27, u1892:0-19, u1893:0-356 %%
+Delwath: That was creepy and weird. I mean happy to tell them the story of Rai and the jade handbrake, I assume all. But oh, no, no, we should not tell him that we should not tell him that that we have anything to do with that Apollyon. Isn't that how we know almost everything, because Rai was trying to— hold Apollyon, because Rai was holding the the well. But Kenzo also saw Apollyon in his spirit journey. That's more direct. Well, we could stick with that mostly. But Fausto we could tell the whole story of Fausto and yeah Chardon research. The the like, the Cleansed, almost dying. Yeah. The venturing parties seeking these artifacts in the desert. Yeah. And I'll be for us. And the fact that he is working for Apollyon. These people are all hunting these things which and the those people that likely showed up and tried to like to like, infiltrate, you guys, and you kick them out so that that should confirm some stuff that they already know.
 
 %% u1894:0-14 %%
 Kenzo: Come, all that.
@@ -3113,8 +3113,8 @@ Kenzo: But I'm sure he cast more spells than he.
 %% u2294:0-10, u2295:0-91 %%
 Delwath: He didn't. He cast a spell almost every like. He definitely cast more spells. Now I'm doubting myself.
 
-%% u2296:0-39 %%
-Kenzo: Why does it matter? {{I'm into demon}}.
+%% u2296:0-41 %%
+Kenzo: Why does it matter? I mean, he's a demon.
 
 %% u2297:0-110, u2298:0-30, u2299:0-119 %%
 Delwath: Why does it matter? Because it is a Fifth level spell. He could probably only do it once a day or twice a day. It's very expensive. It's just warlocks get their spells back every hour, every short rest. So it's a lot cheaper. I see, you’re a warlock. Yeah, you.

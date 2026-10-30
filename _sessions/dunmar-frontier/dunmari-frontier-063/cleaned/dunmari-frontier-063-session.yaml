@@ -38,3 +38,483 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/sources/zoom-session-063.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2468
+  issues: 2
+  artifacts:
+    original:
+      path: sources/GMT20221105-003201_Recording.transcript.vtt
+      sha256: 511d7b256c16a8cb3652e260c5a116b96a1e0e038ed9cb07fd26d47c5caaa3e0
+    prepared:
+      path: cleaned/dunmari-frontier-063-source-prepared.md
+      sha256: c85c8159f00ffacafa0cd5a222fae8e14b999750d58874428681e31301ed50bc
+    cleaned:
+      path: cleaned/dunmari-frontier-063-source-cleaned.md
+      sha256: eaa9b651b808fc4a29c6e776f42fe1f1a0f4c9c13feda15331a7a4a791f88f79
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-063-transcript.md
+      sha256: 7641b7dae355886a7e85a649322867b167b5ee98625bafcbd28dbc1dee5f4637
+  speakerCorrections:
+  - uid: u0238
+    start: 76
+    end: 110
+    speaker: DM
+  - uid: u0314
+    start: 0
+    end: 6
+    speaker: Raven
+  - uid: u0324
+    start: 0
+    end: 48
+    speaker: DM
+  - uid: u0488
+    start: 0
+    end: 48
+    speaker: Spirala
+  - uid: u0506
+    start: 44
+    end: 126
+    speaker: DM
+  - uid: u0508
+    start: 172
+    end: 262
+    speaker: Raven
+  - uid: u0626
+    start: 37
+    end: 82
+    speaker: DM
+  - uid: u0640
+    start: 0
+    end: 59
+    speaker: DM
+  - uid: u0646
+    start: 19
+    end: 53
+    speaker: Raven
+  - uid: u0657
+    start: 0
+    end: 79
+    speaker: DM
+  - uid: u0662
+    start: 42
+    end: 104
+    speaker: Seeker
+  - uid: u0673
+    start: 0
+    end: 67
+    speaker: DM
+  - uid: u0714
+    start: 37
+    end: 54
+    speaker: Seeker
+  - uid: u0718
+    start: 0
+    end: 34
+    speaker: Seeker
+  - uid: u0748
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u0748
+    start: 18
+    end: 130
+    speaker: DM
+  - uid: u0766
+    start: 0
+    end: 55
+    speaker: DM
+  - uid: u0769
+    start: 99
+    end: 118
+    speaker: DM
+  - uid: u0786
+    start: 61
+    end: 93
+    speaker: DM
+  - uid: u0787
+    start: 0
+    end: 33
+    speaker: Raven
+  - uid: u0808
+    start: 0
+    end: 31
+    speaker: Spirala
+  - uid: u0837
+    start: 132
+    end: 162
+    speaker: DM
+  - uid: u0838
+    start: 0
+    end: 54
+    speaker: DM
+  - uid: u0876
+    start: 85
+    end: 97
+    speaker: Mikasa
+  - uid: u0909
+    start: 0
+    end: 115
+    speaker: DM
+  - uid: u0920
+    start: 0
+    end: 56
+    speaker: DM
+  - uid: u0924
+    start: 0
+    end: 63
+    speaker: DM
+  - uid: u0929
+    start: 0
+    end: 49
+    speaker: Raven
+  - uid: u0931
+    start: 46
+    end: 113
+    speaker: Raven
+  - uid: u1008
+    start: 0
+    end: 29
+    speaker: Spirala
+  - uid: u1013
+    start: 72
+    end: 153
+    speaker: DM
+  - uid: u1067
+    start: 0
+    end: 31
+    speaker: Seeker
+  - uid: u1073
+    start: 0
+    end: 32
+    speaker: Mikasa
+  - uid: u1086
+    start: 159
+    end: 321
+    speaker: DM
+  - uid: u1099
+    start: 0
+    end: 20
+    speaker: DM
+  - uid: u1101
+    start: 0
+    end: 34
+    speaker: DM
+  - uid: u1102
+    start: 0
+    end: 30
+    speaker: DM
+  - uid: u1191
+    start: 0
+    end: 15
+    speaker: Seeker
+  - uid: u1198
+    start: 0
+    end: 30
+    speaker: DM
+  - uid: u1210
+    start: 0
+    end: 44
+    speaker: Seeker
+  - uid: u1257
+    start: 72
+    end: 127
+    speaker: DM
+  - uid: u1261
+    start: 0
+    end: 24
+    speaker: Spirala
+  - uid: u1334
+    start: 0
+    end: 66
+    speaker: Seeker
+  - uid: u1338
+    start: 0
+    end: 13
+    speaker: DM
+  - uid: u1345
+    start: 0
+    end: 58
+    speaker: DM
+  - uid: u1357
+    start: 0
+    end: 47
+    speaker: DM
+  - uid: u1392
+    start: 0
+    end: 51
+    speaker: DM
+  - uid: u1397
+    start: 81
+    end: 131
+    speaker: DM
+  - uid: u1405
+    start: 0
+    end: 37
+    speaker: DM
+  - uid: u1411
+    start: 0
+    end: 26
+    speaker: DM
+  - uid: u1421
+    start: 0
+    end: 44
+    speaker: DM
+  - uid: u1433
+    start: 0
+    end: 30
+    speaker: Spirala
+  - uid: u1486
+    start: 0
+    end: 24
+    speaker: DM
+  - uid: u1495
+    start: 0
+    end: 21
+    speaker: DM
+  - uid: u1545
+    start: 0
+    end: 28
+    speaker: Raven
+  - uid: u1609
+    start: 60
+    end: 77
+    speaker: Raven
+  - uid: u1623
+    start: 0
+    end: 30
+    speaker: Mikasa
+  - uid: u1668
+    start: 56
+    end: 122
+    speaker: DM
+  - uid: u1676
+    start: 0
+    end: 55
+    speaker: Spirala
+  - uid: u1722
+    start: 0
+    end: 46
+    speaker: Raven
+  - uid: u1729
+    start: 91
+    end: 142
+    speaker: DM
+  - uid: u1754
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u1764
+    start: 0
+    end: 34
+    speaker: DM
+  - uid: u1803
+    start: 146
+    end: 218
+    speaker: DM
+  - uid: u1857
+    start: 44
+    end: 58
+    speaker: Raven
+  - uid: u1859
+    start: 66
+    end: 113
+    speaker: DM
+  - uid: u1915
+    start: 0
+    end: 40
+    speaker: DM
+  - uid: u1917
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u1918
+    start: 0
+    end: 26
+    speaker: DM
+  - uid: u1936
+    start: 0
+    end: 23
+    speaker: DM
+  - uid: u1941
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u1949
+    start: 0
+    end: 39
+    speaker: Raven
+  - uid: u1971
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u1987
+    start: 0
+    end: 85
+    speaker: Seeker
+  - uid: u1989
+    start: 0
+    end: 36
+    speaker: Mikasa
+  - uid: u1992
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u2019
+    start: 0
+    end: 148
+    speaker: Mikasa
+  - uid: u2021
+    start: 52
+    end: 84
+    speaker: Mikasa
+  - uid: u2050
+    start: 60
+    end: 94
+    speaker: Mikasa
+  - uid: u2056
+    start: 0
+    end: 24
+    speaker: Seeker
+  - uid: u2066
+    start: 29
+    end: 62
+    speaker: Seeker
+  - uid: u2112
+    start: 0
+    end: 51
+    speaker: Spirala
+  - uid: u2125
+    start: 59
+    end: 112
+    speaker: Spirala
+  - uid: u2130
+    start: 0
+    end: 80
+    speaker: DM
+  - uid: u2136
+    start: 117
+    end: 196
+    speaker: Raven
+  - uid: u2138
+    start: 0
+    end: 22
+    speaker: Raven
+  - uid: u2141
+    start: 11
+    end: 63
+    speaker: Raven
+  - uid: u2150
+    start: 0
+    end: 17
+    speaker: DM
+  - uid: u2153
+    start: 26
+    end: 52
+    speaker: DM
+  - uid: u2155
+    start: 142
+    end: 195
+    speaker: Raven
+  - uid: u2167
+    start: 60
+    end: 84
+    speaker: Seeker
+  - uid: u2209
+    start: 0
+    end: 71
+    speaker: Raven
+  - uid: u2210
+    start: 27
+    end: 128
+    speaker: DM
+  - uid: u2251
+    start: 97
+    end: 145
+    speaker: DM
+  - uid: u2261
+    start: 0
+    end: 25
+    speaker: DM
+  - uid: u2262
+    start: 28
+    end: 63
+    speaker: DM
+  - uid: u2267
+    start: 16
+    end: 46
+    speaker: DM
+  - uid: u2280
+    start: 0
+    end: 84
+    speaker: DM
+  - uid: u2280
+    start: 160
+    end: 190
+    speaker: DM
+  - uid: u2302
+    start: 0
+    end: 46
+    speaker: Raven
+  - uid: u2303
+    start: 20
+    end: 70
+    speaker: Raven
+  - uid: u2326
+    start: 0
+    end: 50
+    speaker: Spirala
+  - uid: u2328
+    start: 13
+    end: 92
+    speaker: Spirala
+  - uid: u2365
+    start: 27
+    end: 55
+    speaker: DM
+  - uid: u2366
+    start: 37
+    end: 115
+    speaker: Raven
+  - uid: u2366
+    start: 162
+    end: 172
+    speaker: Raven
+  - uid: u2367
+    start: 0
+    end: 59
+    speaker: Raven
+  - uid: u2378
+    start: 0
+    end: 37
+    speaker: DM
+  - uid: u2379
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u2383
+    start: 0
+    end: 44
+    speaker: DM
+  - uid: u2384
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u2386
+    start: 0
+    end: 22
+    speaker: DM
+  - uid: u2398
+    start: 0
+    end: 36
+    speaker: DM
+  - uid: u2399
+    start: 0
+    end: 11
+    speaker: Seeker
+  - uid: u2412
+    start: 0
+    end: 83
+    speaker: DM

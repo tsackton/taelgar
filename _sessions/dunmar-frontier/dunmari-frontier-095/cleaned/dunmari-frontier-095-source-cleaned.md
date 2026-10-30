@@ -16,7 +16,7 @@
 [u0016 | 00:01:08.940-00:01:16.170 | DM] Tension rises, and the Legion is out in force, keeping the peace. As the city waits for the spring rains
 [u0017 | 00:01:17.190-00:01:28.390 | DM] in Tokra, the temple conclave begins to gather as priests travel from across Dunmar to settle the matter of the Nayan succession amidst the oppressive heat of high summer
 [u0018 | 00:01:29.110-00:01:30.390 | DM] somewhere.
-[u0019 | 00:01:30.450-00:01:31.850 | DM] {{and the note}}
+[u0019 | 00:01:30.450-00:01:31.850 | DM] in the north
 [u0020 | 00:01:32.000-00:01:37.700 | DM] Faldrak pilots Vindristjarna hopefully to quiet and safe ends
 [u0021 | 00:01:39.000-00:01:44.890 | DM] back at the Silver Wolf inn, cut off from the news of the outside world, and still with a few more days to wait
 [u0022 | 00:01:44.900-00:01:47.240 | DM] till you get your letters of transit
@@ -333,7 +333,7 @@
 [u0333 | 00:19:42.240-00:19:48.859 | DM] the central artery that runs east to west from the river to Yamgov.
 [u0334 | 00:19:50.330-00:19:51.870 | DM] Well supplied.
 [u0335 | 00:19:53.118-00:19:54.869 | DM] The routes, the route
-[u0336 | 00:19:56.310-00:19:59.079 | DM] here south to the {{Zoo City}}
+[u0336 | 00:19:56.310-00:19:59.079 | DM] here south to the southern city
 [u0337 | 00:19:59.680-00:20:00.930 | DM] on the border.
 [u0338 | 00:20:02.980-00:20:05.969 | DM] I should have made up a few more names, slightly less.
 [u0339 | 00:20:06.650-00:20:12.589 | DM] I would. I would bring supplies for the first 2 or 3 days. If I were you most caravans.

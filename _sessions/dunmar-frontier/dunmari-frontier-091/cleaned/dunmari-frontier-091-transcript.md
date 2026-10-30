@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 91
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-091-source-cleaned.md
 
 ## Transcript
@@ -26,8 +26,8 @@ DM: Okay. So his first memory is the searing pain of new sunlight. Does not unde
 %% u0013:0-139, u0014:0-150, u0015:0-32, u0016:0-190, u0017:0-167 %%
 DM: He gives a call, a twisted shout, and feels the massive wing beats of an approaching gloom stalker, a Wyvern-like creature made of shadows. He leaps into the sky, soaring, and sees behind him another gloom stalker carrying another hunter like him. Like him. Good! He will not be alone. Then the first nights he flies south. The movement of his quarry tracking south as well, far to the east. They're moving much faster than he is, but he does not care, for eventually they must stop long enough for him to catch up. Then a pause as he gains ground, but it is short-lived, and they begin moving again. A stroke of fortune: they turned west, heading for him. Will only be a few days now.
 
-%% u0018:0-106, u0019:0-69, u0020:0-51, u0021:0-85, u0022:0-65 %%
-DM: Does not care how they were able to travel so quickly. Now it helps him as his quarry rapidly approaches. The light grows bright, intense, and the taste of victory taunts him. It reminds him of something, some forgotten memory: the taste of salt and wind, the memory of gusts of air that obeyed his every thought. A quiet ship on a strange river cut impossibly through {{hells}}.
+%% u0018:0-106, u0019:0-69, u0020:0-51, u0021:0-85, u0022:0-61 %%
+DM: Does not care how they were able to travel so quickly. Now it helps him as his quarry rapidly approaches. The light grows bright, intense, and the taste of victory taunts him. It reminds him of something, some forgotten memory: the taste of salt and wind, the memory of gusts of air that obeyed his every thought. A quiet ship on a strange river cut impossibly through hills.
 
 %% u0023:0-72, u0024:0-68, u0025:0-166, u0026:0-27, u0027:0-199 %%
 DM: He pushes himself as hard as possible to catch them. But it is too late. They turn north, disappearing faster than he can catch up. No matter now. They have been still for a long time. Plenty of time. Yeah, sure he will catch them. Finally he grows closer and closer. There, in a city full of warmth of people. He swoops over the streets, enjoying the screams and shrieks of the people as his gloom stalker grabs victims and drops them from a great height and turns racing across the water towards the great stone ship where the light is.
@@ -1925,8 +1925,8 @@ DM: There are giant bats that patrol the skies.
 %% u1035:0-102 %%
 Riswynn: Larger even than the creatures you fought last night, much in the harbor there, but—or whatever inlet—
 
-%% u1036:0-17, u1037:0-49 %%
-DM: In the mountains. {{I do not cross the ocean. The scare are safe}}.
+%% u1036:0-17, u1037:0-47 %%
+DM: In the mountains. They do not cross the ocean. The Skar are safe.
 
 %% u1038:0-2 %%
 Seeker: It
@@ -2276,8 +2276,8 @@ DM: He's, he's hanging out in Hamri, reconnect—reconnecting with his old buddy
 %% u1213:0-60 %%
 Kenzo: Is he also, like, in the illicit gatza trade now? Is he, like—
 
-%% u1214:0-123 %%
-DM: He's always interested in, like, weird rituals and stuff. He's probably spent some time talking to the {{salt wizard phone}}.
+%% u1214:0-117 %%
+DM: He's always interested in, like, weird rituals and stuff. He's probably spent some time talking to the salt lizardfolk.
 
 %% u1215:0-9 %%
 Kenzo: Wow. Sec.
@@ -3389,8 +3389,8 @@ Delwath: Certain magnetism, Wellby! I’m now a mighty warrior who killed death.
 %% u2010:0-60, u2011:0-52, u2012:0-27 %%
 DM: “Well, you don’t understand what it’s like out here, halfling. Are there tales that it was better before? Sure, but do we live in the past? No.”
 
-%% u2013:0-69, u2014:0-25 %%
-Wellby: Fair enough. Is it safe to talk to {{when chatted with them}}? Is that the dangerous proposition?
+%% u2013:0-59, u2014:0-25 %%
+Wellby: Fair enough. Is it safe to talk to Brimskarda, then? Is that the dangerous proposition?
 
 %% u2015:0-38, u2016:0-11, u2017:0-39, u2018:0-22 %%
 DM: They kind of work—look at each other. “I wouldn’t. I don’t know anything about you, though. You don’t look strong.”

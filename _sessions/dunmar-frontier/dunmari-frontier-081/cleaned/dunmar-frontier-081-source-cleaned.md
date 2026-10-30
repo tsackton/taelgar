@@ -8734,7 +8734,7 @@
 [u8734 | 05:53:56.333-05:53:57.133 | DM] ... moderately stronger
 [u8735 | 05:53:57.133-05:53:58.153 | DM] ... I can boost it.
 [u8736 | 05:53:58.153-05:53:59.553 | DM] Like, level
-[u8737 | 05:54:00.433-05:54:00.713 | DM] 60.
+[u8737 | 05:54:00.433-05:54:00.713 | DM] 16.
 [u8738 | 05:54:03.993-05:54:05.073 | Delwath] With the glove.
 [u8739 | 05:54:05.073-05:54:05.153 | Unknown] [laughs]
 [u8740 | 05:54:05.173-05:54:07.213 | Unknown] But there's four of you and there's only one of it.
@@ -9846,7 +9846,7 @@
 [u9846 | 06:28:25.381-06:28:26.381 | Kenzo] That's like last ditch.
 [u9847 | 06:28:26.381-06:28:26.521 | DM] [laughs]
 [u9848 | 06:28:26.521-06:28:28.121 | Kenzo] 'Cause it's like I can only do it one time.
-[u9849 | 06:28:29.301-06:28:33.121 | Kenzo] This is what I would have used for us when the Fallgar thing, when I wasn't there.
+[u9849 | 06:28:29.301-06:28:33.121 | Kenzo] This is what I would have used for us when the Hralgar thing, when I wasn't there.
 [u9850 | 06:28:33.181-06:28:33.701 | DM] Right
 [u9851 | 06:28:33.701-06:28:34.181 | Kenzo] Remember in the-
 [u9852 | 06:28:34.361-06:28:34.481 | DM] Uh-

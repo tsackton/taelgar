@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 98
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-098-source-cleaned.md
 
 ## Transcript
@@ -515,8 +515,8 @@ DM: Okay, so—so keep in mind that the further you get from the though— like 
 %% u0389:0-18, u0390:0-127, u0391:0-38, u0392:0-33, u0393:0-59 %%
 DM: So there—there is— there’s probably not a, like—if—what if you get all the way up to the tip of this peninsula? There’s probably not a resistance, only because there's not really like a Imperial presence to begin with. Probably a tax ship that comes 3 times a year or something.
 
-%% u0394:0-113, u0395:0-28 %%
-Kenzo: Alright, so, I mean, the likelihood we can find, like, sympathetic people, like {{Nick one charter}}, it’s—it’s high, like as we get farther away.
+%% u0394:0-109, u0395:0-28 %%
+Kenzo: Alright, so, I mean, the likelihood we can find, like, sympathetic people, like not like Chardon, it’s—it’s high, like as we get farther away.
 
 %% u0396:0-20, u0397:0-55, u0398:0-37, u0399:0-10, u0400:0-95 %%
 DM: I mean, whether they— what their attitudes towards Chardon are, you don’t know. The most prevalent attitude might be, “Don’t care,” right? Like, the further away you get, the more people are just like, “Chardon doesn’t matter to me.”
@@ -2165,8 +2165,8 @@ Wellby: I’ll climb aboard, and, like, we’ll tie a little ship against theirs
 %% u1510:0-11 %%
 DM: Yeah, yeah.
 
-%% u1511:0-64, u1512:0-40 %%
-DM: She gives you a little bow with her hat. She introduces herself: “{{have agreed, though}} at your service.”
+%% u1511:0-64, u1512:0-34 %%
+DM: She gives you a little bow with her hat. She introduces herself: “Pippa Greenbarrow at your service.”
 
 %% u1513:0-39, u1514:0-7, u1515:0-66, u1516:0-27, u1517:0-40, u1518:0-11, u1519:0-6 %%
 Wellby: Wellby Goodbarrel. It is a pleasure. I’m heading around the Cape with my friends here, who have proven to be really deeply incompetent sailors, and looking for a better crew than them. I wonder if there—
@@ -2219,8 +2219,8 @@ DM: She meant that she was gonna sail up to Castrella and then cut across the—
 %% u1558:0-6 %%
 Seeker: I say.
 
-%% u1559:0-63 %%
-DM: {{Angela}} is the next town. It’s like, I don’t know, here or so.
+%% u1559:0-61 %%
+DM: Antissus is the next town. It’s like, I don’t know, here or so.
 
 %% u1560:0-39 %%
 Delwath: So, and I—I get it. I get it. I get it.

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 78
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-078-source-cleaned.md
 
 ## Transcript
@@ -779,8 +779,8 @@ Kenzo: I sense some specters? Or some any undead?
 %% u0446:0-39, u0447:0-20, u0448:0-32 %%
 DM: You don't sense anything within 6 miles. Another hour passes. Kenzo rests, regenerates his ki.
 
-%% u0449:0-136 %%
-Riswynn: Should we [garbled] on the fact that we saw them sleeping to like quickly relocate, without having to worry about invisibility? And ever.
+%% u0449:0-137 %%
+Riswynn: Should we capitalize on the fact that we saw them sleeping to like quickly relocate, without having to worry about invisibility? And ever.
 
 %% u0450:0-106, u0451:0-62, u0452:0-24, u0453:0-157, u0454:0-97, u0455:0-14, u0456:0-36, u0457:0-136, u0458:0-94 %%
 DM: So, as the sun sets and they're sleeping, you return to your position underneath the beds and manage to re—reconnect with, re—we get Lubash into the telepathic link, who—who tells you: There's 2 2 2 warriors who have come to join this defense, this defense of the cloak. They were part of a group of a half dozen that left before the battle last night, and were set upon by about 40—but 40 ghostly, undead spectres and related creatures on the river. Fled overland. 4 of their companions were killed by 40 specters, but him and his and his companion, the woman, managed to get away, although they still have not fully healed from the battle, and they seem to be the specters’ attacks weakened them in a way that normal rest did not heal.
@@ -2393,8 +2393,8 @@ Seeker: He's a.
 %% u1239:0-30 %%
 Delwath: He probably doesn't have great—
 
-%% u1240:0-231 %%
-Kenzo: Int saves. I can tell you exactly what Kadmos is. Kadmos is not strong or dex—dexterous. High Int and Charisma. Okay? So this is an Int saving throw. So Int saves. I probably get against him. Now he's {{middle as high}} as charisma.
+%% u1240:0-226 %%
+Kenzo: Int saves. I can tell you exactly what Kadmos is. Kadmos is not strong or dex—dexterous. High Int and Charisma. Okay? So this is an Int saving throw. So Int saves. I probably get against him. No, his Int is as high as Charisma.
 
 %% u1241:0-35, u1242:0-76 %%
 Seeker: Yeah, yeah, I'm going to do this at Fourth Level. I get no fifth level. This is your fifth level. Save it. Okay?

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 63
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-063-source-cleaned.md
 
 ## Transcript
@@ -596,8 +596,8 @@ Seeker: Um, thank you. Uh, first, um—
 %% u0514:0-99 %%
 Seeker: I'll just kneel and poke around a little bit. Are there any loose rubble bits of chunks of crystal?
 
-%% u0515:0-72, u0516:0-24, u0517:0-129, u0518:0-22, u0519:0-101, u0520:0-30, u0521:0-54 %%
-DM: Yeah, there's like loose, you know, there's some like loose bits of like— It almost looks like uh, like glass beads, like round about hailstone size, bits of colored glass, and mixed in with them, you'll occasionally see, like a piece of quartz, or, or like yellow quartz, or rose quartz, like various crystal crystalline gems in more traditional sort of six-sided hexagonal gem shapes and then the occasional like geode split open as well.
+%% u0515:0-72, u0516:0-24, u0517:0-129, u0518:0-22, u0519:0-101, u0520:0-44, u0521:0-54 %%
+DM: Yeah, there's like loose, you know, there's some like loose bits of like— It almost looks like uh, like glass beads, like round about hailstone size, bits of colored glass, and mixed in with them, you'll occasionally see, like a piece of quartz, or, or like yellow quartz, or rose quartz, like various crystal crystalline gems in more traditional sort of six-sided hexagonal gems. They are in shapes and then the occasional like geode split open as well.
 
 %% u0522:0-115, u0523:0-18, u0524:0-14, u0525:0-24 %%
 Seeker: There's just all sorts of crystalline stuff all together in one place, the way it normally would not be. Well, I, um, I find a beautiful geode fragment and stand back up again.

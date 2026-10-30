@@ -133,7 +133,7 @@
 [u0133 | 00:13:27.250-00:13:32.890 | Delwath] So Just remind me. Sorry I did read the session notes. But did we have a plan for why we're going to these orcs.
 [u0134 | 00:13:33.860-00:13:44.500 | DM] Not that I can figure out. I mean, get to somehow prevent from getting the cloak. Yeah, I mean. Grash is obviously here with his army to take the cloak.
 [u0135 | 00:13:44.580-00:13:48.920 | Delwath] and then turn around and march into Dunmar. And do we have any allies or help
-[u0136 | 00:13:51.040-00:13:53.300 | Delwath] {{we die when allies are home.}} Okay.
+[u0136 | 00:13:51.040-00:13:53.300 | Delwath] We don't have any allies or help. Okay.
 [u0137 | 00:13:53.550-00:13:59.320 | Delwath] it's not a we've done so. Our plan is just to show up and cause we're so awesome. We will turn the tide.
 [u0138 | 00:14:00.920-00:14:06.070 | Kenzo] I mean, we gotta like talk to them and negotiate and stuff which I which I think we should talk about. Now.
 [u0139 | 00:14:06.560-00:14:21.140 | Riswynn] Yeah, I'm going to. I think it's the logical thing that nobody has actually articulated is adding the 5 of us to the might of the peaceful Orcs is probably not going to turn the tide of an entire like
@@ -1890,7 +1890,7 @@
 [u1890 | 02:57:04.020-02:57:10.730 | Delwath] Well, we could stick with that mostly. But Fausto we could tell the whole story of Fausto and yeah Chardon research.
 [u1891 | 02:57:11.010-02:57:14.270 | Delwath] the the like, the Cleansed.
 [u1892 | 02:57:14.720-02:57:17.580 | Delwath] almost dying. Yeah.
-[u1893 | 02:57:18.020-02:57:36.000 | Delwath] The venturing parties seeking these artifacts in the desert. Yeah. And i'll be for us. And the fact that yeah is working for Apollyon these people are all hunting these things which and the those people that likely showed up and tried to like to like, infiltrate, you guys, and you kick them out so that that should confirm some stuff that they already know.
+[u1893 | 02:57:18.020-02:57:36.000 | Delwath] The venturing parties seeking these artifacts in the desert. Yeah. And i'll be for us. And the fact that he is working for Apollyon these people are all hunting these things which and the those people that likely showed up and tried to like to like, infiltrate, you guys, and you kick them out so that that should confirm some stuff that they already know.
 [u1894 | 02:57:36.140-02:57:36.960 | Kenzo] Come, all that
 [u1895 | 02:57:38.910-02:57:41.470 | DM] make a make a persuasion check
 [u1896 | 02:57:42.010-02:57:43.030 | Kenzo] all of us.
@@ -2293,7 +2293,7 @@
 [u2293 | 03:41:25.510-03:41:28.460 | Kenzo] but i'm sure he cast more spells than he
 [u2294 | 03:41:28.710-03:41:29.580 | Delwath] he didn't.
 [u2295 | 03:41:30.560-03:41:35.760 | Delwath] He cast a spell almost every like. He definitely cast more spells. Now i'm doubting myself.
-[u2296 | 03:41:37.180-03:41:39.210 | Kenzo] Why does it matter? {{I'm into demon}}.
+[u2296 | 03:41:37.180-03:41:39.210 | Kenzo] Why does it matter? I mean, he's a demon.
 [u2297 | 03:41:40.170-03:41:46.370 | Delwath] Why does it matter? Because it is a Fifth level spell. He could probably only do it once a day or twice a day.
 [u2298 | 03:41:46.430-03:41:48.720 | Delwath] It's very expensive. It's just
 [u2299 | 03:41:48.790-03:41:58.000 | Delwath] warlocks get their spells back every hour, every short rest. So it's a lot cheaper. I see, you’re a warlock. Yeah, you.

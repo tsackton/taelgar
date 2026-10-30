@@ -517,7 +517,7 @@
 [u0517 | 00:43:12.630-00:43:22.709 | DM] like glass beads, like round about hailstone size, bits of colored glass, and mixed in with them. You'll occasionally see, like a
 [u0518 | 00:43:22.760-00:43:25.040 | DM] piece of quartz, or or
 [u0519 | 00:43:25.500-00:43:32.579 | DM] like yellow quartz, or rose quartz, like various crystal crystalline gems in more traditional sort of
-[u0520 | 00:43:32.910-00:43:36.440 | DM] six-sided hexagonal gem shapes
+[u0520 | 00:43:32.910-00:43:36.440 | DM] six-sided hexagonal gems. They are in shapes
 [u0521 | 00:43:37.360-00:43:41.469 | DM] and then the occasional like geode split open as well.
 [u0522 | 00:43:42.950-00:43:51.370 | Seeker] There's just all sorts of crystalline stuff all together in one place, the way it normally would not be Well, I um.
 [u0523 | 00:43:52.460-00:43:54.409 | Seeker] I find a beautiful

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 88
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-088-source-cleaned.md
 
 ## Transcript
@@ -1496,8 +1496,8 @@ Riswynn: I mean Kenzo and I both took damage. Did anybody else take damage?
 %% u0873:0-31 %%
 Kenzo: Nope, yeah, I took some damage.
 
-%% u0874:0-180 %%
-Riswynn: But I mean, I was just thinking I was gonna have to {{check it wrong}} at some point. But I guess that's {{an oh itself}}. Never mind, I can't do that. I can only do it for myself.
+%% u0874:0-173 %%
+Riswynn: But I mean, I was just thinking I was gonna have to {{check it wrong}} at some point. But I guess that's only self. Never mind, I can't do that. I can only do it for myself.
 
 %% u0875:0-26 %%
 Delwath: I forgot that it was self.
@@ -2126,8 +2126,8 @@ Riswynn: After us if we don't put up some sort of wall. So I think the answer is
 %% u1173:0-89 %%
 Kenzo: Right now. It feels like we should fuck him up and try to get the ring off of this thing.
 
-%% u1174:0-88, u1175:0-30 %%
-Riswynn: Oh, yes, but I just don't want to be distracted from fucking him up by being attacked by— 2,000 {{semi-tarical}} undead?
+%% u1174:0-88, u1175:0-27 %%
+Riswynn: Oh, yes, but I just don't want to be distracted from fucking him up by being attacked by— 2,000 semi-ethereal undead?
 
 %% u1176:0-74, u1177:0-29 %%
 Seeker: Does Psychic Lance increase damage at higher levels? It does. Okay. I cast Psychic Lance at sixth level.
@@ -3482,8 +3482,8 @@ DM: So you want to. So if you want to attack, if you want to try and bite his ha
 %% u1789:0-247, u1790:0-29 %%
 Kenzo: That's fine. Okay, but but I can do that at any point, or do I have to do that once he's down to 15 hit points, or what's the oh, shit. So I'm just gonna do that 5 times. Then I'm just gonna try to attack 5 times, try to bite his hand off 5 times. You've got to do 15 points of—
 
-%% u1791:0-65 %%
-DM: Piercing damage {{and the surge}} slashing damage from the bites.
+%% u1791:0-50 %%
+DM: Piercing damage or slashing damage from the bites.
 
 %% u1792:0-8, u1793:0-81 %%
 Kenzo: Okay, so— okay, holy spot. Alright, so inspiration! Come on. How much inspiration can I get?
@@ -4025,8 +4025,8 @@ Wellby: Does—
 %% u2071:0-80 %%
 DM: Less of the city might have been destroyed if you had gotten a few days earlier.
 
-%% u2072:0-85 %%
-Seeker: Seems like there's some {{damage price}} of the mirror vision of the elemental forge.
+%% u2072:0-82 %%
+Seeker: Seems like there's some damage. Price of the mirror vision of the elemental forge.
 
 %% u2073:0-36 %%
 Kenzo: Nothing that can't be rebuilt. True.

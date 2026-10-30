@@ -2,6 +2,8 @@
 
 Decisions awaiting review: 4.
 
+**Audio review queue:** Deferred at the user’s request until the end, alongside Session 64. All three question groups (four targets) remain pending; no proposals are accepted yet.
+
 Review one session at a time. Resolve each item as `proposed`, `alternative 1`, `correction`, or `retain`; leave undecided items `pending`. A correction replaces only the indicated target. Retain preserves the original uncertainty.
 
 %% transcript-review:v1 {"version": 1, "title": "Dunmari Frontier — Session 92", "artifacts": {"original": "sources/GMT20240207-015003_Recording.transcript.vtt", "prepared": "cleaned/dunmari-frontier-092-source-prepared.md", "cleaned": "cleaned/dunmari-frontier-092-source-cleaned.md", "polishedMarkdown": "cleaned/dunmari-frontier-092-transcript.md", "sessionMetadata": "cleaned/dunmari-frontier-092-session.yaml"}, "hashes": {"sources/GMT20240207-015003_Recording.transcript.vtt": "b5b3259c6dd9fe42a76e9548d3473fbee2353c3b6d888ad6da62b3504d6b2625", "cleaned/dunmari-frontier-092-source-prepared.md": "8a8ccc4293c6fbd13d50bfde9b5100704d3aaae5745d9de52d8b47c850e467ab", "cleaned/dunmari-frontier-092-source-cleaned.md": "753b036e80da1529990972fd99199a38524d6743c11cb5eeacd0eee64cc0f753", "cleaned/dunmari-frontier-092-transcript.md": "8ea1e099a84f8541d7c1ff639d196809f43728820f2fc4d6a3ae1df35bcba5f3", "cleaned/dunmari-frontier-092-session.yaml": "c058d91167a0c6079b26d842cc4cae2f6d9fb23330d47bb0146283592810051e"}, "qualityComplete": true, "revisionActive": false, "retainedIssues": 0, "uncertainty": true} %%
@@ -21,7 +23,7 @@ u0695 · 01:06:39.360-01:06:41.660 · DM
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -85,7 +87,7 @@ u1109 · 01:45:21.260-01:45:23.380 · Kenzo
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -105,21 +107,21 @@ u1109 · 01:45:21.260-01:45:23.380 · Kenzo
 >
 
 %% transcript-issue:v1 {"id": "issue-677e40eb96b66f2d", "uid": "u1272", "target": {"before": "{{Erawa}}", "end": 36, "start": 27}, "contextRange": {"endUid": "u1274", "startUid": "u1263"}} %%
-### island-name
+### u1272
 
 u1272 · 01:58:32.720-01:58:35.590 · Delwath
 
 **Original:** Tim didn't want to make up {{Erawa}}, this island
 
-**Suggested disposition:** Retain unresolved; no supported correction.
+**Proposed:** Tim didn't want to make up Irrla, this island
 
-**Recommendation:** Retain the two recognized forms unresolved. An audio check or human spelling is needed to identify the spoken island; do not select a different island from geography alone.
+**Recommendation:** Use Irrla in both mentions: Gazetteer/Eastern Green Sea/Irrla.md establishes the Green Sea island and its documented pronunciation EAR-la, a close match to Airla and a plausible match to Erawa. The route discussion supports this identification.
 
-**Question:** Which island name was spoken here, or should the recognized forms remain unresolved?
+**Question:** Accept Irrla for both island references, supply a different name, or retain unresolved?
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 
@@ -149,21 +151,21 @@ u1272 · 01:58:32.720-01:58:35.590 · Delwath
 >
 
 %% transcript-issue:v1 {"id": "issue-f6da9b36cefc5f7b", "uid": "u1273", "target": {"before": "{{Airla}}", "end": 119, "start": 110}, "contextRange": {"endUid": "u1274", "startUid": "u1263"}} %%
-### island-name
+### u1273
 
 u1273 · 01:58:35.710-01:58:45.709 · Delwath
 
 **Original:** you wanted to make up the north. No, because the kenku that's what the kenku knows, right? He's never been to {{Airla}}. He can guide you through the yes.
 
-**Suggested disposition:** Retain unresolved; no supported correction.
+**Proposed:** you wanted to make up the north. No, because the kenku that's what the kenku knows, right? He's never been to Irrla. He can guide you through the yes.
 
-**Recommendation:** Retain the two recognized forms unresolved. An audio check or human spelling is needed to identify the spoken island; do not select a different island from geography alone.
+**Recommendation:** Use Irrla in both mentions: Gazetteer/Eastern Green Sea/Irrla.md establishes the Green Sea island and its documented pronunciation EAR-la, a close match to Airla and a plausible match to Erawa. The route discussion supports this identification.
 
-**Question:** Which island name was spoken here, or should the recognized forms remain unresolved?
+**Question:** Accept Irrla for both island references, supply a different name, or retain unresolved?
 
 **Resolution:** pending
 
-**Correction:** 
+**Correction:**
 
 **Conversation context:**
 

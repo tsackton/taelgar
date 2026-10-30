@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 97
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-097-source-cleaned.md
 
 ## Transcript
@@ -6707,8 +6707,8 @@ Delwath: Yeah.
 %% u3781:0-5 %%
 Seeker: Yeah.
 
-%% u3782:0-59, u3783:0-96, u3784:0-37, u3785:0-117, u3786:0-3, u3787:0-94 %%
-DM: Seeker, we've—hmm, good to hear from you. It's been a month. You've had quite a number of great successes in that time. You would be quite interested to hear we {{needed}} some hobgoblin pirates. We made a connection with some rebel giants. I think they're gonna head west and maybe do something about Brimskarda. Can—we rescued some halflings, and I think there might be a reward for us if we go back to Tollen.
+%% u3782:0-59, u3783:0-96, u3784:0-35, u3785:0-117, u3786:0-3, u3787:0-94 %%
+DM: Seeker, we've—hmm, good to hear from you. It's been a month. You've had quite a number of great successes in that time. You would be quite interested to hear we defeated some hobgoblin pirates. We made a connection with some rebel giants. I think they're gonna head west and maybe do something about Brimskarda. Can—we rescued some halflings, and I think there might be a reward for us if we go back to Tollen.
 
 %% u3788:0-10 %%
 Seeker: Real time.

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 84
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-084-source-cleaned.md
 
 ## Transcript
@@ -239,8 +239,8 @@ Kenzo: What do we have?
 %% u0146:0-122 %%
 Delwath: That was from the armbands Cha'mutte was using to travel to the shadow dimensions and transport troops all over the place.
 
-%% u0147:0-42 %%
-Seeker: {{45 pairs}}. So it's—it's not that useful.
+%% u0147:0-48 %%
+Seeker: Four or five pairs. So it's—it's not that useful.
 
 %% u0148:0-172 %%
 Kenzo: It? Thi? It's not that useful, but the Philosophers Guild might be interested. We should also think of some things to show the mirror, and it's, like, just about mirror time.
@@ -1286,8 +1286,8 @@ Kenzo: That he can return to, and he cannot be destroyed until—he cannot be de
 %% u0782:0-17 %%
 DM: He's our—I mean—
 
-%% u0783:0-116, u0784:0-43 %%
-DM: That's why he's getting stronger, right? {{He wasn't renated with it}} 30 years ago. He just was really weak because he had been trapped unable to access it for—
+%% u0783:0-110, u0784:0-43 %%
+DM: That's why he's getting stronger, right? He was reunited with it 30 years ago. He just was really weak because he had been trapped unable to access it for—
 
 %% u0785:0-12 %%
 Kenzo: 1,000 years.
@@ -1397,8 +1397,8 @@ Delwath: I mean, I assume he's at 18th-level mage, 17th wizard.
 %% u0833:0-151 %%
 Delwath: Maybe we could use the binding stones on Fausto, or what level is Fausto? Oh, he's definitely not—he—we could totally use the binding stones on Fausto.
 
-%% u0834:0-35 %%
-Kenzo: {{We're crossing the mirror}}, too.
+%% u0834:0-31 %%
+Kenzo: Or toss him in the mirror, too.
 
 %% u0835:0-77, u0836:0-6, u0837:0-35 %%
 Delwath: Grash, we should just kill. But the binding stones on Fausto, a touch of, like—that's dark, but kind of appealingly dark.
@@ -1616,8 +1616,8 @@ Delwath: He didn't say he would tell you nothing for the—just go for the foot 
 %% u0932:0-125 %%
 DM: Okay? So he says, you know, again he'll need to investigate. What he can tell you is Frankar is definitely alive somewhere.
 
-%% u0933:0-18 %%
-DM: {{Anonymous land}}.
+%% u0933:0-16 %%
+DM: On another plane.
 
 %% u0934:0-11 %%
 Kenzo: That's huge.

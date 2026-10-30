@@ -912,7 +912,7 @@
 [u0912 | 01:28:15.950-01:28:26.089 | DM] thing that I found? That proves that everybody is all of Dunmari history has been orchestrated by Agata just to get me. Has he ever met an elf?
 [u0913 | 01:28:29.540-01:28:30.650 | Seeker] I don't know.
 [u0914 | 01:28:31.270-01:28:32.959 | DM] Probably there's
-[u0915 | 01:28:33.230-01:28:40.680 | Riswynn] like the {{Chardonian and trading}}. There was at least one who passed through Nayahar about a decade ago
+[u0915 | 01:28:33.230-01:28:40.680 | Riswynn] like the Chardonian trader. There was at least one who passed through Nayahar about a decade ago
 [u0916 | 01:28:44.020-01:28:47.119 | DM] before he was ruling, but he was prominent. There.
 [u0917 | 01:28:55.200-01:28:57.119 | Delwath] I just
 [u0918 | 01:29:04.280-01:29:18.009 | Seeker] yeah. How do you get on the good side of a paranoid his? Trusted mystic? We should talk to them.
