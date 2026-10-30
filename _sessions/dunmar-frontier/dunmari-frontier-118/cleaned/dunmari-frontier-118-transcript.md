@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 118
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-118-source-cleaned.md
 
 ## Transcript
@@ -899,8 +899,8 @@ DM: And you left her in the 3rd?
 %% u0571:0-59 %%
 Delwath: Well, do you know how to break free—break her out of that?
 
-%% u0572:0-12 %%
-DM: {{Me, her}}.
+%% u0572:0-15 %%
+DM: Take me to her.
 
 %% u0573:0-69 %%
 Delwath: Okay, but you're not very nice about this. Try, try honey next time.
@@ -1244,8 +1244,8 @@ DM: Okay, let me make sure the distance is about right here.
 %% u0745:0-33, u0746:0-11 %%
 Wellby: Just confirm it. Hit the big bad. Yeah, sure.
 
-%% u0747:0-27, u0748:0-90 %%
-Delwath: I don't have a better idea. I don't know if the big bad is {{honor}}. I mean, it's just darkness, right? We don't even—
+%% u0747:0-27, u0748:0-87 %%
+Delwath: I don't have a better idea. I don't know if the big bad is Harrow. I mean, it's just darkness, right? We don't even—
 
 %% u0749:0-152, u0750:0-77 %%
 DM: Now all you can really see is darkness, although you see—you can see the shape of this claws beginning to form in this flying creature that seems to be face and arms emerging out of what looks like a gargantuan cloud of darkness.
@@ -1322,8 +1322,8 @@ Riswynn: Okay.
 %% u0787:0-15 %%
 DM: Must have this.
 
-%% u0788:0-41, u0789:0-66, u0790:0-53 %%
-DM: And then the shades will immediately rush {{risens}}, wearing armor—will immediately rush to attack. Faldrak is looking at you like, “Why did you call me out here?”
+%% u0788:0-41, u0789:0-65, u0790:0-53 %%
+DM: And then the shades will immediately rush Riswynn's, wearing armor—will immediately rush to attack. Faldrak is looking at you like, “Why did you call me out here?”
 
 %% u0791:0-26 %%
 Delwath: Where is the, where is the—
@@ -3605,8 +3605,8 @@ DM: You never soul sighted one of these shadow clouds.
 %% u1823:0-20 %%
 Kenzo: I'll Soul Sight him.
 
-%% u1824:0-156 %%
-DM: They are immune to charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage, and resist necrotic {{insanity}}.
+%% u1824:0-155 %%
+DM: They are immune to charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage, and resist necrotic and psychic.
 
 %% u1825:0-17 %%
 Kenzo: What about charm?
@@ -4700,8 +4700,8 @@ Delwath: What's the deal with the lantern? Is it gone? Can we recover it?
 %% u2324:0-24, u2325:0-59, u2326:0-109 %%
 DM: No, it's not gone, it is— It went out when she died, and it's now like a banked fire. Somebody would have to attune to it to rouse it into light again, and nobody has attunement slots as far as—
 
-%% u2327:0-44 %%
-Riswynn: {{I've just done the tune from this crown}}.
+%% u2327:0-38 %%
+Riswynn: I could just unattune from this crown.
 
 %% u2328:0-5, u2329:0-166 %%
 DM: Yeah, right. Riswynn can't actually die as long as you're willing to sacrifice people so you can never actually lose a combat as long as Riswynn's letting other people die.

@@ -1568,7 +1568,7 @@
 [u1568 | 01:35:09.550-01:35:10.590 | Delwath] So obnoxious.
 [u1569 | 01:35:10.970-01:35:11.720 | Seeker] Did she just pass?
 [u1570 | 01:35:11.720-01:35:12.240 | DM] No.
-[u1571 | 01:35:12.240-01:35:14.840 | Seeker] Did she pass right by {{midnight}}?
+[u1571 | 01:35:12.240-01:35:14.840 | Seeker] Did she pass right by my Ladder?
 [u1572 | 01:35:15.200-01:35:17.920 | Seeker] It's, it's minus 10 because of the Ladder.
 [u1573 | 01:35:18.440-01:35:21.299 | DM] Oh, okay. Within 20 feet of Kenzo.
 [u1574 | 01:35:22.920-01:35:25.030 | DM] Until it gets blasted.

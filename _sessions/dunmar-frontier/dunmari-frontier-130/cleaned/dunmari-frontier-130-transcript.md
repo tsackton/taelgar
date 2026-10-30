@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 130
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-130-source-cleaned.md
 
 ## Transcript
@@ -243,7 +243,7 @@ DM: I know not the Shattered Ice, what happened to them.
 Seeker: Totally, they love it.
 
 %% u0143:0-25, u0144:0-19, u0145:0-33 %%
-DM: Maybe the {{old counts}} by the… human scum. Scum killing scum, good riddance.
+DM: Maybe they're all killed by the… human scum. Scum killing scum, good riddance.
 
 %% u0146:0-38, u0147:0-53, u0148:0-16 %%
 Kenzo: … Tell us again your plans in Isingue. Your story. Tell us the story of what you hope to do. In great detail.
@@ -3533,8 +3533,8 @@ DM: But they were Agata's, you gave them to her, and she used them… that was p
 %% u2601:0-71, u2602:0-50 %%
 Wellby: I’ll tell her, “No, no, no, keep, keep them, keep them. Those are yours. I leave fewer and fewer tracks anyways these days.”
 
-%% u2603:0-10, u2604:0-4, u2605:0-37, u2606:0-28, u2607:0-32, u2608:0-64, u2609:0-62, u2610:0-92, u2611:0-21, u2612:0-43, u2613:0-37 %%
-DM: Thank you. Wow. Feel like it’s gonna be a busy… week. I think I will turn in soon. Happy to… catch up anytime, and… certainly let me know when Hektor gets here, I’m sure I will be… I'm sure I'll be very busy, and… {{in a… Need a hand or two}}. Rangers in the fight, and… at some point, we’ll have to talk tactics and see what we can do… to help you the most. For tonight, let's just get some rest, and… there will be battles in the morning.
+%% u2603:0-10, u2604:0-4, u2605:0-37, u2606:0-28, u2607:0-32, u2608:0-64, u2609:0-57, u2610:0-92, u2611:0-21, u2612:0-43, u2613:0-37 %%
+DM: Thank you. Wow. Feel like it’s gonna be a busy… week. I think I will turn in soon. Happy to… catch up anytime, and… certainly let me know when Hektor gets here, I’m sure I will be… I'm sure I'll be very busy, and… leading a band or two of rangers in the fight, and… at some point, we’ll have to talk tactics and see what we can do… to help you the most. For tonight, let's just get some rest, and… there will be battles in the morning.
 
 %% u2614:0-5 %%
 DM: Yeah?

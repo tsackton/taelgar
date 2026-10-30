@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 136
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-136-source-cleaned.md
 
 ## Transcript
@@ -22691,8 +22691,8 @@ Kenzo: And, and, uh, b— b— uh, I, uh, Kenzo before the battle ended grabbed 
 %% u10075:0-8 %%
 DM: The dust.
 
-%% u10076:0-31 %%
-Kenzo: ... the, the ash of the ladder—
+%% u10076:0-29 %%
+Kenzo: ... the, the ash of the lady—
 
 %% u10077:0-10 %%
 DM: Yeah, yeah.

@@ -587,7 +587,7 @@
 [u0587 | 00:34:43.949-00:34:47.849 | DM] Heading to like here, which is where Kenzo sensed the jade.
 [u0588 | 00:34:48.085-00:34:49.029 | Kenzo] Hold on! I can't.
 [u0589 | 00:34:49.030-00:34:51.440 | Seeker] Coast, beyond Drankor.
-[u0590 | 00:34:52.469-00:34:54.079 | DM] The coast {{last of}} Drankor.
+[u0590 | 00:34:52.469-00:34:54.079 | DM] The coast west of Drankor.
 [u0591 | 00:34:54.080-00:34:55.819 | Delwath] Okay, so like, we're
 [u0592 | 00:34:56.060-00:34:56.790 | Delwath] okay.
 [u0593 | 00:34:59.090-00:35:02.110 | DM] You're you're somewhere here now. You've got
@@ -1300,7 +1300,7 @@
 [u1300 | 01:15:41.190-01:15:43.459 | DM] you know, since this was desert
 [u1301 | 01:15:43.600-01:15:45.640 | DM] clearly, which dates to
 [u1302 | 01:15:47.650-01:15:48.630 | DM] the
-[u1303 | 01:15:48.980-01:15:52.926 | DM] the end of the Great War, the {{Florida Desert}} for 200 years.
+[u1303 | 01:15:48.980-01:15:52.926 | DM] the end of the Great War, this has only been desert for 200 years.
 [u1304 | 01:15:55.360-01:15:56.420 | DM] The
 [u1305 | 01:16:00.540-01:16:02.256 | DM] What else can you learn?
 [u1306 | 01:16:03.490-01:16:05.990 | DM] so it's constructed. Probably
@@ -1586,7 +1586,7 @@
 [u1586 | 01:34:11.340-01:34:12.299 | Seeker] Yeah, I think.
 [u1587 | 01:34:16.520-01:34:17.049 | Delwath] So like I can't.
 [u1588 | 01:34:17.050-01:34:17.470 | Kenzo] Cool.
-[u1589 | 01:34:17.470-01:34:18.909 | Delwath] {{It from here}} right.
+[u1589 | 01:34:17.470-01:34:18.909 | Delwath] see it from here right.
 [u1590 | 01:34:19.080-01:34:21.020 | Kenzo] Is protecting something cool.
 [u1591 | 01:34:22.470-01:34:23.370 | Seeker] Hmm.
 [u1592 | 01:34:25.080-01:34:27.879 | Wellby] It's probably like Staff of God killing.
@@ -1647,7 +1647,7 @@
 [u1647 | 01:37:36.470-01:37:37.280 | Seeker] Alright.
 [u1648 | 01:37:37.280-01:37:38.950 | Wellby] Do we have gaseous forms still.
 [u1649 | 01:37:39.740-01:37:41.689 | Seeker] No, I think we use that.
-[u1650 | 01:37:41.690-01:37:43.940 | DM] {{Jersey}} is the gaseous form person.
+[u1650 | 01:37:41.690-01:37:43.940 | DM] Seeker used the gaseous form potion.
 [u1651 | 01:37:43.940-01:37:45.960 | Wellby] That would be super handy.
 [u1652 | 01:37:46.590-01:37:48.540 | Delwath] That would be handy, actually.
 [u1653 | 01:37:51.460-01:37:54.779 | Seeker] we could put the immovable rod in place and show it how to use it.
@@ -3177,7 +3177,7 @@
 [u3177 | 03:00:00.090-03:00:01.850 | DM] no title on the cover
 [u3178 | 03:00:01.990-03:00:03.200 | DM] unmarked.
 [u3179 | 03:00:04.430-03:00:05.270 | DM] But
-[u3180 | 03:00:06.470-03:00:07.720 | DM] {{rapture}}!
+[u3180 | 03:00:06.470-03:00:07.720 | DM] wrapped!
 [u3181 | 03:00:07.980-03:00:10.440 | DM] It's magical. It's definitely magical.
 [u3182 | 03:00:10.510-03:00:13.650 | DM] and it's it's locked like it's got, you know, a
 [u3183 | 03:00:14.070-03:00:19.900 | DM] like metal bindings over some elaborate cover that's then locked so that

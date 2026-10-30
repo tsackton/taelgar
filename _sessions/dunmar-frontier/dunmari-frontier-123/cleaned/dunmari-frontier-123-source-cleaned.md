@@ -874,7 +874,7 @@
 [u0874 | 01:15:36.740-01:15:37.550 | Delwath] Seeker.
 [u0875 | 01:15:38.930-01:15:40.519 | DM] Okay, Seeker, Seeker's
 [u0876 | 01:15:40.520-01:15:40.870 | Delwath] Hilton.
-[u0877 | 01:15:40.870-01:15:43.260 | DM] {{Buy}} out of the exposed position.
+[u0877 | 01:15:40.870-01:15:43.260 | DM] way out of the exposed position.
 [u0878 | 01:15:45.200-01:15:54.319 | DM] An arrow bounces off Riswynn's armor, and Kenzo just instinctively steps to the side as as an arrow flies past him.
 [u0879 | 01:15:55.340-01:15:58.910 | DM] Then you begin to see sort of tendrils of of
 [u0880 | 01:15:59.110-01:16:07.839 | DM] blackness begin to sort of creep their way through the the clouds on the edge, anybody doing anything.
@@ -1107,7 +1107,7 @@
 [u1107 | 01:37:46.620-01:37:48.489 | DM] What you need is simple.
 [u1108 | 01:37:51.690-01:37:52.510 | DM] a purpose.
 [u1109 | 01:37:52.510-01:37:53.090 | Delwath] Cool.
-[u1110 | 01:37:54.570-01:38:04.480 | DM] {{Put the crown to something powerful enough to break}}.
+[u1110 | 01:37:54.570-01:38:04.480 | DM] Put the crown to something powerful enough to break.
 [u1111 | 01:38:05.890-01:38:10.259 | DM] and she stops for a minute and closes her eyes, as if
 [u1112 | 01:38:12.460-01:38:23.149 | DM] soul sighting the crown or Riswynn, or you get the sense that she's reaching out somehow, magically.
 [u1113 | 01:38:26.340-01:38:29.290 | DM] decades and decades.

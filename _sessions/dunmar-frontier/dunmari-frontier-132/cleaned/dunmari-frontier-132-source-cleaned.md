@@ -421,7 +421,7 @@
 [u0421 | 00:34:38.960-00:34:45.009 | DM] 24 hours after that. So the plan is… Guerrilla attack, On the cliff tomorrow night.
 [u0422 | 00:34:45.449-00:34:49.969 | DM] Take a long rest on Vindristjarna as you fly back to the Heartroot.
 [u0423 | 00:34:50.869-00:34:53.559 | DM] Or teleport and take a long rest.
-[u0424 | 00:34:53.709-00:34:57.379 | DM] And then, by… The battle {{at the apartment}}.
+[u0424 | 00:34:53.709-00:34:57.379 | DM] And then, by… The battle at the escarpment.
 [u0425 | 00:34:57.380-00:34:59.239 | Delwath] Okay, here's a crazy idea.
 [u0426 | 00:34:59.570-00:35:01.110 | Delwath] Tomorrow morning.
 [u0427 | 00:35:02.070-00:35:10.250 | Delwath] Seeker casts Simulacrum using a slot. Sorry, we're basically… our entire goal here is to optimize the number of wishes that Seeker can cast.
@@ -1870,7 +1870,7 @@
 [u1870 | 02:13:58.520-02:13:59.029 | Audio shared by Tim Sackton] You know.
 [u1871 | 02:14:00.460-02:14:11.250 | Audio shared by Tim Sackton] Like, if the whole army is there just to distract and whatever, and her whole thing is to get to that specific spot as close as possible, we definitely need to be…
 [u1872 | 02:14:11.390-02:14:12.450 | Audio shared by Tim Sackton] Closer to it.
-[u1873 | 02:14:14.330-02:14:17.680 | Audio shared by Tim Sackton] Like, if she darts past us somehow, then, you know, the {{holding is fine}}.
+[u1873 | 02:14:14.330-02:14:17.680 | Audio shared by Tim Sackton] Like, if she darts past us somehow, then, you know, the whole thing is fucked.
 [u1874 | 02:14:19.720-02:14:20.839 | Audio shared by Tim Sackton] What goes around behind?
 [u1875 | 02:14:23.560-02:14:26.019 | Audio shared by Tim Sackton] I mean, I guess we could… we could…
 [u1876 | 02:14:28.150-02:14:32.320 | Delwath] But if we… if we position ourselves by the Heartroot, we're basically…

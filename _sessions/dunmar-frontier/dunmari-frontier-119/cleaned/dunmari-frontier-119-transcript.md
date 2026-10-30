@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 119
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-119-source-cleaned.md
 
 ## Transcript
@@ -380,8 +380,8 @@ Riswynn: I have.
 %% u0186:0-3 %%
 Seeker: So.
 
-%% u0187:0-15 %%
-Delwath: {{Quest does.}}
+%% u0187:0-10 %%
+Delwath: Kate does.
 
 %% u0188:0-3 %%
 Seeker: Oh!
@@ -1595,8 +1595,8 @@ Wellby: You know, on the “go to the palace and look for clues,” it's pretty 
 %% u0855:0-45 %%
 Delwath: Do we know anything at all about the Feywild?
 
-%% u0856:0-26 %%
-Seeker: Hey, {{Fina}} is our ally.
+%% u0856:0-25 %%
+Seeker: Hey, Typhina is our ally.
 
 %% u0857:0-28 %%
 Wellby: I gotcha, we can always ask.

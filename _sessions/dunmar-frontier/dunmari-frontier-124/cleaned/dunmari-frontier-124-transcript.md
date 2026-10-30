@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 124
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-124-source-cleaned.md
 
 ## Transcript

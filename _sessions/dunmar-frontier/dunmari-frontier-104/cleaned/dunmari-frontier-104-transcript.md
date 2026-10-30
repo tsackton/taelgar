@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 104
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-104-source-cleaned.md
 
 ## Transcript
@@ -782,8 +782,8 @@ Kenzo: Hold on! I can't.
 %% u0589:0-22 %%
 Seeker: Coast, beyond Drankor.
 
-%% u0590:0-30 %%
-DM: The coast {{last of}} Drankor.
+%% u0590:0-26 %%
+DM: The coast west of Drankor.
 
 %% u0591:0-20, u0592:0-5 %%
 Delwath: Okay, so like, we're okay.
@@ -1967,8 +1967,8 @@ DM: You guys are good skills these days. You, as Seeker and Wellby—the Seeker 
 %% u1296:0-11 %%
 Seeker: It's at 30.
 
-%% u1297:0-84, u1298:0-5, u1299:0-62, u1300:0-31, u1301:0-23, u1302:0-3, u1303:0-63, u1304:0-3, u1305:0-24 %%
-DM: You know, poking around a little bit. This is—this is clearly dates to the Drankorian days based on the like—the weathering of the sand. It's been here, you know, since this was desert, clearly, which dates to the, the end of the Great War, the {{Florida Desert}} for 200 years. The—what else can you learn?
+%% u1297:0-84, u1298:0-5, u1299:0-62, u1300:0-31, u1301:0-23, u1302:0-3, u1303:0-66, u1304:0-3, u1305:0-24 %%
+DM: You know, poking around a little bit. This is—this is clearly dates to the Drankorian days based on the like—the weathering of the sand. It's been here, you know, since this was desert, clearly, which dates to the, the end of the Great War. This has only been desert for 200 years. The—what else can you learn?
 
 %% u1306:0-29, u1307:0-12, u1308:0-54, u1309:0-210 %%
 DM: So it's constructed probably early in the—it—during the Drankorian Empire. There's probably like more than a thousand—it's probably around a thousand years old, something like that, this tower. And now you're—now that you're thinking about it and you're here, you're, you're starting to put 2 and 2 together.
@@ -2313,7 +2313,7 @@ Delwath: So like I can't.
 Kenzo: Cool.
 
 %% u1589:0-23 %%
-Delwath: {{It from here}} right?
+Delwath: See it from here, right?
 
 %% u1590:0-29 %%
 Kenzo: Is protecting something cool.
@@ -2444,8 +2444,8 @@ Wellby: Do we have gaseous forms still?
 %% u1649:0-24 %%
 Seeker: No, I think we use that.
 
-%% u1650:0-38 %%
-DM: {{Jersey}} is the gaseous form person.
+%% u1650:0-36 %%
+DM: Seeker used the gaseous form potion.
 
 %% u1651:0-26 %%
 Wellby: That would be super handy.
@@ -5108,8 +5108,8 @@ Kenzo: What am I doing yeah, checking for other consciousness, or or others arou
 %% u3170:0-8, u3171:0-106, u3172:0-19, u3173:0-10, u3174:0-5 %%
 DM: Okay, so absolutely nothing living anywhere you can sense, or even no constructs. It's like the deadest you've ever reached out to find the world. Yeah.
 
-%% u3175:0-43, u3176:0-55, u3177:0-21, u3178:0-9, u3179:0-3, u3180:0-12, u3181:0-38, u3182:0-47, u3183:0-72, u3184:0-4 %%
-DM: Delwath looks into the 2 chests. One chest, the only thing that seems to be in it is a single book. No title on the cover. Unmarked. But {{rapture}}! It's magical. It's definitely magical, and it's, it's locked. Like it's got, you know, a—like metal bindings over some elaborate cover that's then locked so that the—
+%% u3175:0-43, u3176:0-55, u3177:0-21, u3178:0-9, u3179:0-3, u3180:0-8, u3181:0-38, u3182:0-47, u3183:0-72, u3184:0-4 %%
+DM: Delwath looks into the 2 chests. One chest, the only thing that seems to be in it is a single book. No title on the cover. Unmarked. But wrapped! It's magical. It's definitely magical, and it's, it's locked. Like it's got, you know, a—like metal bindings over some elaborate cover that's then locked so that the—
 
 %% u3185:0-21 %%
 Delwath: Demons can't get out.

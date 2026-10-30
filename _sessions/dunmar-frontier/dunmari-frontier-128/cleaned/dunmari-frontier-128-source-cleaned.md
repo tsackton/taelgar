@@ -2126,7 +2126,7 @@
 [u2126 | 02:14:27.680-02:14:28.829 | Kenzo] I do have to roll.
 [u2127 | 02:14:29.510-02:14:30.410 | Kenzo] Hold on!
 [u2128 | 02:14:31.000-02:14:35.279 | Seeker] Sorry. Which of the stone? Which of the giants was the imprisoned one, and which one's the.
-[u2129 | 02:14:35.980-02:14:37.190 | DM] The one at the top {{isn't}}.
+[u2129 | 02:14:35.980-02:14:37.190 | DM] The one at the top isn't.
 [u2130 | 02:14:37.190-02:14:37.790 | Kenzo] Okay.
 [u2131 | 02:14:37.790-02:14:38.640 | Seeker] Okay.
 [u2132 | 02:14:39.658-02:14:44.290 | Kenzo] What the heck! I can't roll dice on. Roll20. What happened here? Hold on.

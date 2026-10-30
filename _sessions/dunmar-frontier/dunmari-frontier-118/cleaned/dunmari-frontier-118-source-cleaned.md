@@ -569,7 +569,7 @@
 [u0569 | 00:57:32.720-00:57:33.989 | Delwath] but the 3rd one's a bit.
 [u0570 | 00:57:33.990-00:57:36.200 | DM] And you left her in the 3rd
 [u0571 | 00:57:37.140-00:57:39.870 | Delwath] Well, do you know how to break free? Break her out of that.
-[u0572 | 00:57:39.960-00:57:41.470 | DM] {{Me, her}}.
+[u0572 | 00:57:39.960-00:57:41.470 | DM] Take me to her.
 [u0573 | 00:57:44.650-00:57:48.749 | Delwath] Okay, but you're not very nice about this. Try try, honey, next time.
 [u0574 | 00:57:53.420-00:57:55.790 | DM] Seeker, Seeker holds up his hand.
 [u0575 | 00:57:57.940-00:58:03.969 | DM] I would love the beautiful golden color of straw.
@@ -745,7 +745,7 @@
 [u0745 | 01:13:44.920-01:13:47.219 | Wellby] Just confirm it. Hit the big bad.
 [u0746 | 01:13:48.030-01:13:49.760 | Wellby] Yeah, sure.
 [u0747 | 01:13:50.640-01:13:52.520 | Delwath] I don't have a better idea.
-[u0748 | 01:13:52.630-01:13:56.899 | Delwath] I don't know if the big bad is {{honor}}. I mean, it's just darkness right? We don't even.
+[u0748 | 01:13:52.630-01:13:56.899 | Delwath] I don't know if the big bad is Harrow. I mean, it's just darkness right? We don't even.
 [u0749 | 01:13:56.900-01:14:06.809 | DM] Now all you can really see is darkness, although, you see you can see the shape of this claws beginning to form in this flying creature that seems to be
 [u0750 | 01:14:07.540-01:14:14.340 | DM] face and arms emerging out of what looks like a Gargantuan cloud of darkness.
 [u0751 | 01:14:16.290-01:14:17.150 | Delwath] Right.
@@ -786,7 +786,7 @@
 [u0786 | 01:17:50.420-01:17:51.350 | Riswynn] Okay.
 [u0787 | 01:17:52.810-01:17:53.880 | DM] Must have this.
 [u0788 | 01:18:02.100-01:18:08.269 | DM] and then the shades will immediately rush
-[u0789 | 01:18:09.430-01:18:13.029 | DM] {{risens}}, wearing armor will immediately rush to attack. Faldrak
+[u0789 | 01:18:09.430-01:18:13.029 | DM] Riswynn's, wearing armor will immediately rush to attack. Faldrak
 [u0790 | 01:18:16.920-01:18:22.070 | DM] is looking at you like, why did you call me out here.
 [u0791 | 01:18:23.300-01:18:25.840 | Delwath] Where is the where is the.
 [u0792 | 01:18:25.840-01:18:27.590 | DM] This is the control room. Here.
@@ -1821,7 +1821,7 @@
 [u1821 | 02:28:12.610-02:28:15.519 | Kenzo] All right. What's what's their what's their weaknesses?
 [u1822 | 02:28:15.800-02:28:18.829 | DM] You never soul sighted one of these shadow clouds.
 [u1823 | 02:28:18.830-02:28:19.820 | Kenzo] I'll Soul Sight him.
-[u1824 | 02:28:20.683-02:28:30.250 | DM] They are immune to charmed exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage and resist necrotic {{insanity}}.
+[u1824 | 02:28:20.683-02:28:30.250 | DM] They are immune to charmed exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage and resist necrotic and psychic.
 [u1825 | 02:28:31.120-02:28:32.050 | Kenzo] What about charm?
 [u1826 | 02:28:32.770-02:28:33.420 | DM] Yeah. Charmed.
 [u1827 | 02:28:33.420-02:28:34.340 | Delwath] Immune to charm.
@@ -2324,7 +2324,7 @@
 [u2324 | 03:04:40.710-03:04:43.118 | DM] No, it's not gone, it is
 [u2325 | 03:04:44.580-03:04:50.500 | DM] It went out when she died, and it's now like a banked fire.
 [u2326 | 03:04:51.710-03:04:57.540 | DM] Somebody would have to attune to it, to rouse it into light again, and nobody has attunement slots as far as.
-[u2327 | 03:04:58.890-03:05:01.009 | Riswynn] {{I've just done the tune from this crown}}.
+[u2327 | 03:04:58.890-03:05:01.009 | Riswynn] I could just unattune from this crown.
 [u2328 | 03:05:02.230-03:05:02.940 | DM] Yeah,
 [u2329 | 03:05:05.330-03:05:13.409 | DM] right. Riswynn can't actually die as long as you're willing to sacrifice people so you can never actually lose a combat as long as Riswynn's letting other people die.
 [u2330 | 03:05:13.750-03:05:16.070 | Riswynn] Riswynn's not doing that.

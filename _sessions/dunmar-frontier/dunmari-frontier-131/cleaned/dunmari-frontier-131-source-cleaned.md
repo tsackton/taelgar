@@ -57,7 +57,7 @@
 [u0057 | 00:06:13.090-00:06:17.730 | Kenzo] space, or just the… like, what is their goal? Do we know their, like, specific goal?
 [u0058 | 00:06:23.280-00:06:31.959 | Delwath] All I remember… I don't think we know anything beyond…
 [u0059 | 00:06:32.280-00:06:39.869 | Delwath] that this… this Empress of Chaos, or whatever she's calling herself, Thinks that it'll somehow help.
-[u0060 | 00:06:40.400-00:06:42.290 | Delwath] Control {{that is engaged}}.
+[u0060 | 00:06:40.400-00:06:42.290 | Delwath] Control the Isingue ooze.
 [u0061 | 00:06:44.070-00:06:48.019 | Kenzo] But, like, what, though? Like, a specific tree? Is it, like, a…
 [u0062 | 00:06:48.270-00:06:50.999 | Kenzo] Are they trying to kill… you know what I mean? Like, what are they…
 [u0063 | 00:06:51.000-00:06:54.319 | Delwath] I thought… I thought they were trying to take it, but did I misunderstand that, Tim?
@@ -266,7 +266,7 @@
 [u0266 | 00:26:09.940-00:26:13.290 | DM] You know, a few hundred miles away from you.
 [u0267 | 00:26:17.470-00:26:18.330 | Delwath] So…
 [u0268 | 00:26:21.160-00:26:30.990 | Delwath] Delwath's been, like, sort of sketching, like, little maps and the little things in the earth, and, like, scratching them out, and, like, sort of muttering about, like, if only general
-[u0269 | 00:26:31.280-00:26:37.509 | Delwath] you know, {{alamandas}} was here, you know.
+[u0269 | 00:26:31.280-00:26:37.509 | Delwath] you know, Alamandas was here, you know.
 [u0270 | 00:26:38.180-00:26:48.900 | Delwath] she would really know what to do. But I think…
 [u0271 | 00:26:50.480-00:26:56.959 | Delwath] if we use the right… if we use Seeker's vast knowledge of every spell in D&D,
 [u0272 | 00:26:59.560-00:27:05.560 | Delwath] or ability to cast any spell in D&D, there's some pretty… Devastating attacks.
@@ -404,7 +404,7 @@
 [u0404 | 00:36:58.620-00:36:59.679 | Seeker] You know, cut its…
 [u0405 | 00:37:01.230-00:37:07.930 | Seeker] or something, and then it will stop moving, or it has some other control mechanism that you could take over and steer it into the ocean or whatever.
 [u0406 | 00:37:07.930-00:37:12.700 | Delwath] I bet you it's, like, sentient metal. Wasn't it very Terminator 2 vibey?
-[u0407 | 00:37:14.380-00:37:16.139 | Seeker] That was the special armor of the {{Corps}}.
+[u0407 | 00:37:14.380-00:37:16.139 | Seeker] That was the special armor of the Empress.
 [u0408 | 00:37:16.140-00:37:16.520 | Wellby] Jesus.
 [u0409 | 00:37:17.190-00:37:17.910 | Wellby] Yeah.
 [u0410 | 00:37:19.000-00:37:21.310 | Delwath] Oh, is the centipede more like a normal mech?
@@ -1618,7 +1618,7 @@
 [u1618 | 02:02:35.960-02:02:36.940 | Audio shared by Tim Sackton] And…
 [u1619 | 02:02:37.570-02:02:40.959 | Delwath] If she comes out, I mean, you know what?
 [u1620 | 02:02:41.260-02:02:45.550 | Delwath] Maybe we hang out here? Like, does it look like they've been camped for a long time?
-[u1621 | 02:02:46.860-02:02:48.550 | Delwath] {{Dude, we can't attack.}}
+[u1621 | 02:02:46.860-02:02:48.550 | Delwath] Dude, we can't attack.
 [u1622 | 02:02:48.680-02:02:50.709 | DM] It's hard to… I mean, you can't really…
 [u1623 | 02:02:50.890-02:02:52.110 | Audio shared by Tim Sackton] Hell, but like…
 [u1624 | 02:02:52.110-02:03:03.820 | DM] A bunch of them are sleeping. I mean, there's… the clairvoyant sensor is inside, right? It's inside this basket. The… the shell of the creature is, like, forming the… like, the egg.

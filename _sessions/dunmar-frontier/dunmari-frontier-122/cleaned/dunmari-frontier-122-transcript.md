@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 122
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-122-source-cleaned.md
 
 ## Transcript
@@ -1553,8 +1553,8 @@ Delwath: Wisdom, Wisdom.
 %% u0860:0-17 %%
 DM: Oh, wisdom. Okay.
 
-%% u0861:0-12, u0862:0-14, u0863:0-133 %%
-Delwath: But hold on! Sorry, with the—what was this? What was the Eldritch {{America's}} thing? I can know if it succeeds or fails its save before I cast the spell, right?
+%% u0861:0-12, u0862:0-14, u0863:0-129 %%
+Delwath: But hold on! Sorry, with the—what was this? What was the Eldritch—Elmerca's thing? I can know if it succeeds or fails its save before I cast the spell, right?
 
 %% u0864:0-4 %%
 DM: Yes!

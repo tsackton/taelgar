@@ -204,7 +204,7 @@
 [u0204 | 00:23:01.070-00:23:05.459 | DM] heard it's a place bleached of color.
 [u0205 | 00:23:05.880-00:23:06.690 | Seeker] Oh!
 [u0206 | 00:23:08.120-00:23:12.609 | DM] Even though the afternoon golden light still shines, it's
-[u0207 | 00:23:13.900-00:23:16.890 | DM] Blott and Wayne. And of course.
+[u0207 | 00:23:13.900-00:23:16.890 | DM] Black and white. And of course.
 [u0208 | 00:23:17.130-00:23:21.370 | DM] should the Cloud Spinner return, so would the color that lights up her realm.
 [u0209 | 00:23:26.960-00:23:28.039 | DM] So many reasons
 [u0210 | 00:23:28.040-00:23:30.840 | Wellby] Would be bad for the Cloud Spinner to return.

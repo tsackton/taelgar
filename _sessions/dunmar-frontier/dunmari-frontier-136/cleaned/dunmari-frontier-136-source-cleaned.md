@@ -10073,7 +10073,7 @@
 [u10073 | 05:33:04.988-05:33:05.268 | DM] ... into a storm.
 [u10074 | 05:33:05.268-05:33:09.728 | Kenzo] And, and, uh, b- b- uh, I, uh, Kenzo before the battle ended grabbed a handful of the, uh-
 [u10075 | 05:33:09.768-05:33:10.348 | DM] The dust
-[u10076 | 05:33:10.348-05:33:11.288 | Kenzo] ... the, the ash of the ladder-
+[u10076 | 05:33:10.348-05:33:11.288 | Kenzo] ... the, the ash of the lady-
 [u10077 | 05:33:11.328-05:33:11.468 | DM] Yeah, yeah
 [u10078 | 05:33:11.468-05:33:12.168 | Kenzo] ... that I was fucking-
 [u10079 | 05:33:12.328-05:33:14.408 | DM] No, I know. You said you wanted to do that.
