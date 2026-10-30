@@ -1,6 +1,6 @@
 [u0001 | 00:00:03.580-00:00:16.119 | DM] Okay. So our adventure today starts in Morkalan, the bleak domain of the Shadowfell, a land of ash and mud,
-[u0002 | 00:00:17.050-00:00:35.090 | DM] where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of {{arm}}
-[u0003 | 00:00:35.100-00:00:35.970 | Unknown] {{test}},
+[u0002 | 00:00:17.050-00:00:35.090 | DM] where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of
+[u0003 | 00:00:35.100-00:00:35.970 | Unknown] Ardith,
 [u0004 | 00:00:36.840-00:00:40.239 | DM] turning on them and slaughtering them in the midst of the battle.
 [u0005 | 00:00:41.460-00:00:52.029 | DM] But now you all have come to this dark realm to find him and confront him about his evil deeds.
 [u0006 | 00:00:53.320-00:01:04.050 | DM] And you use the Chalice of the Runepriest to send him from this domain, either to judgment or forgiveness, depending on what you decide
@@ -94,7 +94,7 @@
 [u0094 | 00:09:14.740-00:09:16.950 | Riswynn] It's for information about
 [u0095 | 00:09:17.110-00:09:20.700 | Riswynn] her history with this place, and
 [u0096 | 00:09:21.380-00:09:23.649 | Riswynn] hold beard, or whatever that ghost’s name is
-[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] {{agriculture}}.
+[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] Hagrim.
 [u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Riswynn and give up
 [u0099 | 00:09:40.360-00:09:42.349 | Unknown] bye,
 [u0100 | 00:09:42.760-00:09:45.129 | Riswynn] I will Yes, go ask her
@@ -195,9 +195,9 @@
 [u0195 | 00:17:56.600-00:17:58.630 | Thror] What do you mean, this place?
 [u0196 | 00:18:04.740-00:18:07.330 | DM] Do not know. It's been so long.
 [u0197 | 00:18:11.550-00:18:14.639 | DM] She turns, and she sort of, and she looks at Tak.
-[u0198 | 00:18:17.150-00:18:19.629 | DM] {{There was born here. I've never,}}
-[u0199 | 00:18:22.030-00:18:23.630 | DM] {{or even}}
-[u0200 | 00:18:24.040-00:18:27.749 | DM] {{the blessing of the gods of the}}
+[u0198 | 00:18:17.150-00:18:19.629 | DM] I was born here. I've never
+[u0199 | 00:18:22.030-00:18:23.630 | DM] even heard
+[u0200 | 00:18:24.040-00:18:27.749 | DM] the blessing of the gods or
 [u0201 | 00:18:29.390-00:18:31.120 | DM] their names.
 [u0202 | 00:18:34.530-00:18:36.010 | DM] We have been
 [u0203 | 00:18:36.040-00:18:37.500 | DM] cut off
@@ -254,14 +254,14 @@
 [u0254 | 00:22:15.430-00:22:17.350 | DM] We found
 [u0255 | 00:22:17.360-00:22:19.150 | Unknown] many refugees
 [u0256 | 00:22:20.170-00:22:22.759 | DM] turned south.
-[u0257 | 00:22:23.120-00:22:25.759 | DM] {{We did, but not to feed It}}
+[u0257 | 00:22:23.120-00:22:25.759 | DM] Wounded but not defeated
 [u0258 | 00:22:25.830-00:22:27.409 | DM] fled with maybe
 [u0259 | 00:22:27.520-00:22:30.860 | DM] five hundred dwarfs, hoping to lead them to safety.
 [u0260 | 00:22:34.180-00:22:37.860 | DM] North of the human city of Tokra we encountered
 [u0261 | 00:22:39.470-00:22:41.040 | DM] the son of a
 [u0262 | 00:22:41.160-00:22:44.139 | DM] fire giant who had been slaughtered by the
 [u0263 | 00:22:44.570-00:22:46.990 | DM] the humans. He called himself
-[u0264 | 00:22:47.330-00:22:49.160 | DM] Magerson.
+[u0264 | 00:22:47.330-00:22:49.160 | DM] Mavdyrson.
 [u0265 | 00:22:50.610-00:22:53.509 | DM] He was leading an army of trolls, and we were.
 [u0266 | 00:22:56.840-00:22:58.389 | DM] We were trapped.
 [u0267 | 00:23:00.530-00:23:03.220 | DM] We holed up. We built a fortification,
@@ -3033,12 +3033,12 @@
 [u3033 | 04:08:39.970-04:08:42.049 | DM] I guess, except Riswynn
 [u3034 | 04:08:42.060-04:08:44.770 | DM] Riswynn, you’re stuck with these people.
 [u3035 | 04:08:45.060-04:08:46.660 | Riswynn] I got that.
-[u3036 | 04:08:47.760-04:08:51.829 | Riswynn] It's okay. I know the way {{from uh to a}}
+[u3036 | 04:08:47.760-04:08:51.829 | Riswynn] It's okay. I know the way to Tharn Todor
 [u3037 | 04:08:56.610-04:09:00.499 | Rothfis] Rothfis shrinks down to normal size and
 [u3038 | 04:09:01.460-04:09:08.189 | Rothfis] looks around to you. You see that you see that he has aged. I don't know that one
 [u3039 | 04:09:13.070-04:09:16.010 | Rothfis] see that he’s aged twenty years,
 [u3040 | 04:09:16.690-04:09:19.549 | Rothfis] and he shakes his head, and he says
-[u3041 | 04:09:20.350-04:09:32.519 | Rothfis] so. First the Ironhorns took ten good years of me in that marriage, and then that ghost took twenty good years from me in one fell kick.
+[u3041 | 04:09:20.350-04:09:32.519 | Rothfis] so. First the Ironcorns took ten good years of me in that marriage, and then that ghost took twenty good years from me in one fell kick.
 [u3042 | 04:09:34.430-04:09:37.670 | Rothfis] I have got to go back to the pub.
 [u3043 | 04:09:38.190-04:09:44.400 | Rothfis] He will say, if you're ever in Chardon.
 [u3044 | 04:09:44.550-04:09:48.750 | Rothfis] Stonefist Steins and Stables always has an open room for you,

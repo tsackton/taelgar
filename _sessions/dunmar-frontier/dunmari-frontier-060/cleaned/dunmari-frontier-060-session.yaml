@@ -24,3 +24,211 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-060/sources/zoom-session-060.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 1247
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20221014-021258_Recording.transcript.vtt
+      sha256: e095c9dcab9d697a8d6119ec4554f36e7dd78295c356222512401736ffa9cd3b
+    prepared:
+      path: cleaned/dunmari-frontier-060-source-prepared.md
+      sha256: 59c449b31de485c81a354bb3f76e191d9146e7fb0a762bcf93ec91dd8c75e1bc
+    cleaned:
+      path: cleaned/dunmari-frontier-060-source-cleaned.md
+      sha256: 8676d8c0498fb3f56d97bf91fc70326e8877e85b55545dda5361ae705ecb7566
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-060-transcript.md
+      sha256: f32f7209d66427995985c907deab9868a0ec590bf722c8a8f1c825614ff997d9
+  speakerCorrections:
+  - uid: u0089
+    start: 0
+    end: 48
+    speaker: DM
+  - uid: u0092
+    start: 0
+    end: 45
+    speaker: Wellby
+  - uid: u0114
+    start: 4
+    end: 29
+    speaker: DM
+  - uid: u0134
+    start: 0
+    end: 30
+    speaker: DM
+  - uid: u0136
+    start: 0
+    end: 65
+    speaker: DM
+  - uid: u0156
+    start: 0
+    end: 38
+    speaker: DM
+  - uid: u0260
+    start: 100
+    end: 115
+    speaker: DM
+  - uid: u0272
+    start: 17
+    end: 80
+    speaker: DM
+  - uid: u0281
+    start: 0
+    end: 30
+    speaker: DM
+  - uid: u0290
+    start: 23
+    end: 60
+    speaker: Wellby
+  - uid: u0343
+    start: 16
+    end: 37
+    speaker: DM
+  - uid: u0343
+    start: 90
+    end: 163
+    speaker: DM
+  - uid: u0361
+    start: 40
+    end: 78
+    speaker: DM
+  - uid: u0374
+    start: 0
+    end: 15
+    speaker: DM
+  - uid: u0403
+    start: 0
+    end: 23
+    speaker: DM
+  - uid: u0425
+    start: 0
+    end: 71
+    speaker: DM
+  - uid: u0451
+    start: 66
+    end: 118
+    speaker: DM
+  - uid: u0518
+    start: 0
+    end: 52
+    speaker: DM
+  - uid: u0545
+    start: 0
+    end: 29
+    speaker: DM
+  - uid: u0558
+    start: 0
+    end: 40
+    speaker: DM
+  - uid: u0578
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0615
+    start: 0
+    end: 7
+    speaker: Wellby
+  - uid: u0626
+    start: 0
+    end: 36
+    speaker: DM
+  - uid: u0705
+    start: 0
+    end: 43
+    speaker: DM
+  - uid: u0721
+    start: 0
+    end: 22
+    speaker: DM
+  - uid: u0737
+    start: 0
+    end: 24
+    speaker: Wellby
+  - uid: u0764
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0768
+    start: 0
+    end: 3
+    speaker: DM
+  - uid: u0806
+    start: 0
+    end: 47
+    speaker: DM
+  - uid: u0808
+    start: 0
+    end: 20
+    speaker: DM
+  - uid: u0846
+    start: 0
+    end: 3
+    speaker: DM
+  - uid: u0894
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0979
+    start: 0
+    end: 49
+    speaker: DM
+  - uid: u1011
+    start: 0
+    end: 39
+    speaker: DM
+  - uid: u1013
+    start: 0
+    end: 7
+    speaker: Wellby
+  - uid: u1041
+    start: 0
+    end: 30
+    speaker: DM
+  - uid: u1044
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u1045
+    start: 0
+    end: 38
+    speaker: DM
+  - uid: u1132
+    start: 0
+    end: 37
+    speaker: Wellby
+  - uid: u1171
+    start: 0
+    end: 74
+    speaker: DM
+  - uid: u1172
+    start: 0
+    end: 23
+    speaker: DM
+  - uid: u1183
+    start: 0
+    end: 42
+    speaker: DM
+  - uid: u1186
+    start: 0
+    end: 40
+    speaker: DM
+  - uid: u1194
+    start: 0
+    end: 44
+    speaker: DM
+  - uid: u1229
+    start: 0
+    end: 14
+    speaker: DM
+  - uid: u1236
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u1240
+    start: 0
+    end: 54
+    speaker: DM

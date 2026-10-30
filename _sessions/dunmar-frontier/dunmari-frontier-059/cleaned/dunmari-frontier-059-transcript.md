@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 59
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-059-source-cleaned.md
 
 ## Transcript
@@ -2312,8 +2312,8 @@ Kenzo: Kenzo points towards the whirlwind. I felt that since I arrived. What's g
 %% u1856:0-5, u1857:0-5, u1858:0-6 %%
 DM: Motua. Great beast.
 
-%% u1859:0-24, u1860:0-21, u1861:0-27, u1862:0-3, u1863:0-15, u1864:0-9 %%
-DM: I don't know the word in any tongue but my own: {{Ramanaka, Palmer, Kazoo}} Up— creature of the the veil.
+%% u1859:0-24, u1860:0-21, u1861:0-20, u1862:0-3, u1863:0-15, u1864:0-9 %%
+DM: I don't know the word in any tongue but my own: Ramanaka Palamakazoo Up— creature of the the veil.
 
 %% u1865:0-23 %%
 Izzarak: A creature of the veil.

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 61
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-061-source-cleaned.md
 
 ## Transcript
@@ -434,8 +434,8 @@ Seeker: What numbers does it show?
 %% u0482:0-2, u0483:0-15 %%
 DM: Um, keeps changing.
 
-%% u0484:0-37, u0485:0-6, u0486:0-42 %%
-Seeker: And so there is no {{ourcon}} on that that I— we can draw no connections that I can make—
+%% u0484:0-33, u0485:0-6, u0486:0-42 %%
+Seeker: And so there is no arcana on that that I— we can draw no connections that I can make—
 
 %% u0487:0-13, u0488:0-109, u0489:0-31, u0490:0-17 %%
 DM: It's, I mean, ah, it is—you are skilled enough at this point in your career—it is not a metal of the Prime Material plane, like this is not something that exists in Taelgar.
@@ -590,8 +590,8 @@ Seeker: And you can see that a new sensation each time, or there are some tokens
 %% u0650:0-3, u0651:0-40 %%
 DM: Ah, well, you only saw the end of the round.
 
-%% u0652:0-2, u0653:0-2, u0654:0-35, u0655:0-31, u0656:0-47, u0657:0-110, u0658:0-56 %%
-Seeker: Um, a— well, this is all very interesting. I—I would love to be able to—to see cheating, or something like that happening, but I don't know if I have a way to do that. I have a scroll of {{detectivity}}, which is, if I'm out with you— here. I don't have a spell that does that, I don't think.
+%% u0652:0-2, u0653:0-2, u0654:0-35, u0655:0-31, u0656:0-47, u0657:0-107, u0658:0-56 %%
+Seeker: Um, a— well, this is all very interesting. I—I would love to be able to—to see cheating, or something like that happening, but I don't know if I have a way to do that. I have a scroll of Detect Magic, which is, if I'm out with you— here. I don't have a spell that does that, I don't think.
 
 %% u0659:0-76 %%
 DM: You have the Wand of Detect Magic that you just got from the dragon's hoard.
@@ -1052,8 +1052,8 @@ Seeker: Wild magic? So, actually, that's interesting, in game. Do I know anythin
 %% u1150:0-81, u1151:0-2, u1152:0-30, u1153:0-49, u1154:0-160, u1155:0-3, u1156:0-6, u1157:0-47, u1158:0-22, u1159:0-103, u1160:0-44, u1161:0-55, u1162:0-34, u1163:0-63, u1164:0-34, u1165:0-2, u1166:0-79, u1167:0-3, u1168:0-82, u1169:0-39, u1170:0-32 %%
 DM: There's—there's definitely—so you—you've read about places on Taelgar that where, um, magic is sort of unmoored, and it's—it's—it's—it's almost like ley lines sort of gone to chaos. If you cast a spell, it'll—it'll usually do what you intended, but then other things will happen, like you might—you might cast a spell, and then, ah, in our— do whatever you are hoping to do, and then also turn your staff into a slug, or, you know, shoot a lightning bolt out of your hand, like completely. You've also heard rumors of people who are sorcerers, people who are born, uh, with some uncontrolled connection to magic, who can— who can channel this wild magic, um, and—and everything that you've read about it is very much like, it's chaotic and uncontrolled, and, um, something to do—you don't quite know the metaphysics, but something to do with, ah, normally you think of magic as sort of running in neat channels through the world, but when it overflows those channels it— you get this sort of wild magic.
 
-%% u1171:0-54, u1172:0-12, u1173:0-74 %%
-Seeker: And {{is unrelated}} to Delwath's magic, which is like connected to—but I haven't necessarily seen it in practice, but I read about it, right?
+%% u1171:0-51, u1172:0-12, u1173:0-74 %%
+Seeker: And is it related to Delwath's magic, which is like connected to—but I haven't necessarily seen it in practice, but I read about it, right?
 
 %% u1173:74-130 %%
 DM: You've read. This would be something you read about, not—
