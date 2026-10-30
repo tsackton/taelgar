@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 90
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-090-source-cleaned.md
 
 ## Transcript
@@ -1412,8 +1412,8 @@ Seeker: I don't know.
 %% u0914:0-16 %%
 DM: Probably there's
 
-%% u0915:0-105 %%
-Riswynn: Like the {{Chardonian and trading}}. There was at least one who passed through Nayahar about a decade ago,
+%% u0915:0-96 %%
+Riswynn: Like the Chardonian trader. There was at least one who passed through Nayahar about a decade ago,
 
 %% u0916:0-50 %%
 DM: Before he was ruling, but he was prominent there.

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 87
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-087-source-cleaned.md
 
 ## Transcript
@@ -227,8 +227,8 @@ Seeker: Dear Seeker and companions, so on and so forth, your gift was of much in
 %% u0179:0-57, u0180:0-38 %%
 Delwath: The mace of the Mace of terror was—we stole from Fausto. The Warlord is one of the 8 divines of—
 
-%% u0181:0-19 %%
-Seeker: [garbled].
+%% u0181:0-15 %%
+Seeker: Mos Numena—that—
 
 %% u0182:0-23 %%
 Delwath: The Chardonian religion.
@@ -2366,8 +2366,8 @@ DM: No, that was never like her the way she tells it. He had the cloak, scepter,
 %% u1825:0-25 %%
 Delwath: Right, who has the crown?
 
-%% u1826:0-14, u1827:0-67 %%
-Kenzo: {{Mr. Kandu}}. It makes the Cleansed it—it, like, turn—it turns people into zombies.
+%% u1826:0-1, u1827:0-67 %%
+Kenzo: It makes the Cleansed it—it, like, turn—it turns people into zombies.
 
 %% u1828:0-42 %%
 Delwath: We should maybe we should go get the crown.

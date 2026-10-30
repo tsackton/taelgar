@@ -20,7 +20,7 @@
 [u0020 | 00:01:27.210-00:01:35.540 | DM] a pile of now gear and and random treasure and weapons stripped from the
 [u0021 | 00:01:35.620-00:01:40.260 | DM] folks that you had you have just defeated, scattered around, but
 [u0022 | 00:01:41.710-00:01:43.849 | DM] not even yet looked at.
-[u0023 | 00:01:45.560-00:01:48.960 | DM] {{The air, are propped up now nearly fall.}}
+[u0023 | 00:01:45.560-00:01:48.960 | DM] The mirror propped up, now nearly full.
 [u0024 | 00:01:50.360-00:01:54.029 | DM] Meanwhile the orcs, wounded in battle, struggling.
 [u0025 | 00:01:56.740-00:01:59.410 | DM] pull themselves together. Chief Lubash,
 [u0026 | 00:01:59.500-00:02:04.260 | DM] near death, wounded, drained, exhausted by the
@@ -469,7 +469,7 @@
 [u0469 | 00:42:04.180-00:42:06.560 | Delwath] space as the scepter until we understand
 [u0470 | 00:42:07.910-00:42:11.969 | Wellby] Agreed. I’ll put this all in the bag.
 [u0471 | 00:42:12.260-00:42:16.729 | Delwath] Yeah, I think so, for for all we know that like creepy gem is like
-[u0472 | 00:42:18.590-00:42:19.780 | Unknown] {{adverse is}}
+[u0472 | 00:42:18.590-00:42:19.780 | Unknown] Kadmos’s
 [u0473 | 00:42:20.200-00:42:26.859 | Delwath] soul, and will go and possess the scepter if we put it in the same portable hole as him.
 [u0474 | 00:42:27.380-00:42:32.300 | Seeker] Yeah, let's segregate. That's a great idea, Delwath. Did somebody spin the top?
 [u0475 | 00:42:33.640-00:42:35.400 | Unknown] Is the top spinning.
@@ -1144,7 +1144,7 @@
 [u1144 | 01:46:38.810-01:46:39.780 | DM] yeah.
 [u1145 | 01:46:39.960-01:46:43.429 | DM] Wellby just doesn't have a lot of magic items compared to the rest of you.
 [u1146 | 01:46:45.470-01:46:48.250 | Delwath] You might give him the priority, being
-[u1147 | 01:46:48.340-01:46:53.819 | Delwath] in line for some boots of speed. I mean, I have a {{ring of this, There's delic}}
+[u1147 | 01:46:48.340-01:46:53.819 | Delwath] in line for some boots of speed. I mean, I have a Ring of Displacement, {{There's delic}}
 [u1148 | 01:46:53.870-01:46:56.440 | Delwath] good trade, that right
 [u1149 | 01:46:58.230-01:47:04.829 | Delwath] depending on how good it is, although boots of speed is not, I think, something Delwath really needs necessarily.
 [u1150 | 01:47:05.980-01:47:11.060 | Delwath] okay, should we talk to Antonia?
@@ -1407,7 +1407,7 @@
 [u1407 | 02:11:24.010-02:11:27.830 | Delwath] to stop him. If you tell us what you know.
 [u1408 | 02:11:32.610-02:11:37.930 | Delwath] We don't ask you to betray Chardon or Drankor, just Grash and Fausto.
 [u1409 | 02:11:41.020-02:11:43.920 | DM] Kadmos was pretty sure that you had the scepter.
-[u1410 | 02:11:46.490-02:11:48.190 | DM] Knew {{Apollon}} had it.
+[u1410 | 02:11:46.490-02:11:48.190 | DM] Knew Agata had it.
 [u1411 | 02:11:49.790-02:11:52.790 | DM] You, you killed her. You knew how Agata had it.
 [u1412 | 02:11:53.400-02:11:58.510 | DM] Knew you killed Agata. Who did she say was pretty sure we had the scepter?
 [u1413 | 02:12:01.790-02:12:05.430 | Wellby] Grash learned about it. I had this wonderful
@@ -1540,7 +1540,7 @@
 [u1540 | 02:23:37.910-02:23:44.269 | Seeker] okay, we we'd be defending ourselves against a future threat but going towards them
 [u1541 | 02:23:45.120-02:23:48.549 | Seeker] anyway, what's is there anything else we want to ask, Antonia
 [u1542 | 02:23:57.940-02:24:00.320 | Seeker] it did. We just learn the
-[u1543 | 02:24:00.720-02:24:05.009 | Seeker] that the 3 items are the scepter, cloak and {{I am that before}}
+[u1543 | 02:24:00.720-02:24:05.009 | Seeker] that the 3 items are the scepter, cloak and crown. Did we know that before?
 [u1544 | 02:24:06.030-02:24:12.640 | Seeker] she doesn't. And she didn't include the ring, the rain. the crown, the ring, the scepter, and the cloak are the 4 items.
 [u1545 | 02:24:13.470-02:24:17.010 | Delwath] Obviously nobody was looking for the crown because Fausto already has it,
 [u1546 | 02:24:17.140-02:24:20.060 | Delwath] and nobody is looking for the ring because Grash already has

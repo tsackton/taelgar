@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 95
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-095-source-cleaned.md
 
 ## Transcript
@@ -32,8 +32,8 @@ DM: In Chardon, an unseasonable heat wave lies heavy on the city, bringing short
 %% u0017:0-170 %%
 DM: In Tokra, the temple conclave begins to gather as priests travel from across Dunmar to settle the matter of the Nayan succession amidst the oppressive heat of high summer.
 
-%% u0018:0-10, u0019:0-16, u0020:0-61 %%
-DM: Somewhere, {{and the note}} Faldrak pilots Vindristjarna, hopefully to quiet and safe ends.
+%% u0018:0-10, u0019:0-12, u0020:0-61 %%
+DM: Somewhere, in the north Faldrak pilots Vindristjarna, hopefully to quiet and safe ends.
 
 %% u0021:0-111, u0022:0-36, u0023:0-180, u0024:0-31 %%
 DM: Back at the Silver Wolf inn, cut off from the news of the outside world, and still with a few more days to wait till you get your letters of transit, you find a pleased Roman who has scoured the market for anyone who might be willing to bring magic items to trade, and he lists a number of choices for you while serving your lunch in a private corner of the inn.
@@ -509,8 +509,8 @@ Delwath: Is there plentiful inns and places to stay on the road? Do we need to b
 %% u0331:0-25, u0332:0-4, u0333:0-67, u0334:0-14 %%
 DM: Once you cross the river, yes, the central artery that runs east to west from the river to Yamgov, well supplied.
 
-%% u0335:0-21, u0336:0-30, u0337:0-14, u0338:0-54 %%
-DM: The routes, the route here south to the {{Zoo City}} on the border— I should have made up a few more names, slightly less—
+%% u0335:0-21, u0336:0-31, u0337:0-14, u0338:0-54 %%
+DM: The routes, the route here south to the southern city on the border— I should have made up a few more names, slightly less—
 
 %% u0339:0-87, u0340:0-79, u0341:0-62, u0342:0-43, u0343:0-17 %%
 DM: I would, I would bring supplies for the first 2 or 3 days if I were you. Most caravans— although I'm sure you could find a caravan to travel with if you're interested— there's—they leave almost every other day heading south. Well, the days after the markets: Sunday, Monday, Thursday, Friday.

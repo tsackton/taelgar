@@ -1,6 +1,6 @@
 # Dunmar Frontier — Session 80
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmar-frontier-080-source-cleaned.md
 
 ## Transcript
@@ -509,8 +509,8 @@ Wellby: Actually, I entirely agree with this.
 %% u0224:0-29 %%
 Seeker: ... w- what, what's going on-
 
-%% u0225:0-41 %%
-Delwath: Wait, why didn't you hit the plague head?
+%% u0225:0-30 %%
+Delwath: Wait, when did the plague hit?
 
 %% u0226:0-58 %%
 Seeker: ... in the abandoned city because it might be interesting.
@@ -2384,8 +2384,8 @@ DM: Controls this, the Straits of Cymea, which are the passage into the Green Se
 %% u1049:0-6 %%
 Unknown: Right.
 
-%% u1050:0-50 %%
-DM: And it is a much stronger naval power than Uzghar.
+%% u1050:0-48 %%
+DM: And it is a much stronger naval power than Ursk.
 
 %% u1051:0-44, u1052:0-81 %%
 Kenzo: Is this, is this like, uh, the Panama Canal? Is there, like, some kind of, like, entity that controls this and, like, fucking-
@@ -11360,8 +11360,8 @@ Unknown: So tomorrow we need to talk to the priestess, who will tell us more abo
 %% u4914:0-57 %%
 Kenzo: Oh, and then we're gonna break the curse, and in doing so—
 
-%% u4915:0-34 %%
-Delwath: Get access to the elemental lodge-
+%% u4915:0-33 %%
+Delwath: Get access to the elemental lord-
 
 %% u4916:0-7 %%
 Delwath: Correct.

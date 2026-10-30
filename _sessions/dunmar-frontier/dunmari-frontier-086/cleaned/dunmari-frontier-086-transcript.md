@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 86
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-086-source-cleaned.md
 
 ## Transcript
@@ -4010,8 +4010,8 @@ DM: So as things calm down, let me change the music.
 %% u2073:0-10 %%
 Kenzo: Thank you.
 
-%% u2074:0-497 %%
-Kenzo: This was awesome, this whole, this whole adventure's been the [garbled] shit. Yeah, this was good. And there's been an amazing adventure like everything about it since. Yeah, I'm glad I assume that was the climax, though. Cause— Oh, yeah, yeah, I do. Kinda wanna try and go to bed in 50. Yeah, now, you just need to figure out what magic items you wanna make. So, a, a—as, as now, the the elemental has calmed. Kenzo is still gonna continue to sit and commune with it and and try to try to as it relaxes.
+%% u2074:0-498 %%
+Kenzo: This was awesome, this whole, this whole adventure's been the fucking shit. Yeah, this was good. And there's been an amazing adventure like everything about it since. Yeah, I'm glad I assume that was the climax, though. Cause— Oh, yeah, yeah, I do. Kinda wanna try and go to bed in 50. Yeah, now, you just need to figure out what magic items you wanna make. So, a, a—as, as now, the the elemental has calmed. Kenzo is still gonna continue to sit and commune with it and and try to try to as it relaxes.
 
 %% u2075:0-14, u2076:0-15, u2077:0-17, u2078:0-184 %%
 Kenzo: Kenzo tries to, you know, kinda continue to share his own aura again, you know, projecting calm and relaxation. So he, so that the elemental has a sense of Kenzo energy, but then also is try is inviting it to share more about itself,—

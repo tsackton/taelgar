@@ -222,7 +222,7 @@
 [u0222 | 00:08:21.464-00:08:30.044 | Seeker] well I just wanted to see what's happening in this, this, uh, abandoned city that we're flying over right now, because we're flying over it and it was just an opportunity to find out, you know, what-
 [u0223 | 00:08:30.084-00:08:31.684 | Wellby] Actually, I entirely agree with this
 [u0224 | 00:08:31.684-00:08:33.344 | Seeker] ... w- what, what's going on-
-[u0225 | 00:08:33.344-00:08:33.384 | Delwath] Wait, why didn't you hit the plague head?
+[u0225 | 00:08:33.344-00:08:33.384 | Delwath] Wait, when did the plague hit?
 [u0226 | 00:08:33.384-00:08:35.184 | Seeker] ... in the abandoned city because it might be interesting.
 [u0227 | 00:08:35.204-00:08:35.764 | Delwath] That would've been-
 [u0228 | 00:08:35.824-00:08:36.184 | Wellby] You know, this
@@ -1047,7 +1047,7 @@
 [u1047 | 00:42:05.610-00:42:06.030 | Delwath] Mm.
 [u1048 | 00:42:06.030-00:42:10.570 | DM] Controls this, the Straits of Cymea, which are the passage into the Green Sea.
 [u1049 | 00:42:11.450-00:42:11.690 | Unknown] Right.
-[u1050 | 00:42:12.090-00:42:15.150 | DM] And it is a much stronger naval power than Uzghar.
+[u1050 | 00:42:12.090-00:42:15.150 | DM] And it is a much stronger naval power than Ursk.
 [u1051 | 00:42:15.210-00:42:17.390 | Kenzo] Is this, is this like, uh, the Panama Canal?
 [u1052 | 00:42:17.390-00:42:20.290 | Kenzo] Is there, like, some kind of, like, entity that controls this and, like, fucking-
 [u1053 | 00:42:20.330-00:42:22.310 | DM] That's... Tollen controls those straits.
@@ -4912,7 +4912,7 @@
 [u4912 | 03:32:54.322-03:32:56.922 | Kenzo] Totally. Okay. So that, that's, that's gonna be the goal tomorrow.
 [u4913 | 03:32:56.982-03:33:01.002 | Unknown] So tomorrow we need to talk to the priestess, who will tell us more about the Skaer curse.
 [u4914 | 03:33:01.062-03:33:03.642 | Kenzo] Oh, and then we're gonna break the curse, and in doing so
-[u4915 | 03:33:05.222-03:33:06.742 | Delwath] get access to the elemental lodge-
+[u4915 | 03:33:05.222-03:33:06.742 | Delwath] get access to the elemental lord-
 [u4916 | 03:33:06.802-03:33:07.202 | Delwath] Correct
 [u4917 | 03:33:07.202-03:33:08.422 | Kenzo] ... who originally destroyed the scepter.
 [u4918 | 03:33:09.242-03:33:09.402 | Delwath] Yeah.

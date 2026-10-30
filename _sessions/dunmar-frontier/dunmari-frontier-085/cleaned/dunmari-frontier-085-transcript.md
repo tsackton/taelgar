@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 85
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-085-source-cleaned.md
 
 ## Transcript
@@ -32,8 +32,8 @@ Seeker: So I've I've just a handful of things. The interval of quiet and rest wa
 %% u0031:0-142, u0032:0-30, u0033:0-117, u0034:0-37 %%
 Seeker: At any rate, thinking about time, also got Seeker thinking about his family. And so he's written a letter updating his parents on his travels, occasionally amazed by his own densely packed adventures, and also asking for any—were there details that you recall about brother’s disappearance? We are hopefully doing investigation.
 
-%% u0035:0-152, u0036:0-45, u0037:0-54 %%
-Seeker: The rest of the time has been spent {{raping}} around the skyship with Faldrak, and planning for the opening of our ship's inaugural artist in residence program, perhaps with an introductory seminar or lecture that Faldrak will give once we are underway.
+%% u0035:0-151, u0036:0-45, u0037:0-54 %%
+Seeker: The rest of the time has been spent traipsing around the skyship with Faldrak, and planning for the opening of our ship's inaugural artist in residence program, perhaps with an introductory seminar or lecture that Faldrak will give once we are underway.
 
 %% u0038:0-3 %%
 Unknown: You.
@@ -878,8 +878,8 @@ DM: The—
 %% u0538:0-86, u0539:0-52, u0540:0-10, u0541:0-36, u0542:0-147, u0543:0-111, u0544:0-10, u0545:0-173, u0546:0-42, u0547:0-47, u0548:0-73, u0549:0-9, u0550:0-53, u0551:0-19 %%
 DM: Kenzo, as as Seeker, is poking around at the, you know, poking at these curious rocks, you're extending your senses, and you also feel this quietness. There's nothing. Like this cavern is—feels empty to you, and as you begin to stretch out your senses, you can see—I mean, it's winter, right? It's the, you know, it's January. This is some decent elevation above sea level, even though you've moved considerably south of Tollen. You've also moved higher up. So while it's not as cold as it was in Tollen, there's not a lot of animal life around in general, I mean, you can sense some blue jays and some squirrels kind of above you. But as you reach your senses down into the following, the course of the river and into the into the deeper into the caverns, you get this almost very alien sense of it's not—it's not that it's unnatural; it's not of this world. Extraplanar energy.
 
-%% u0552:0-85, u0553:0-38 %%
-Kenzo: Downriver. Yeah, definitely feels like there's an elemental forge down there. And, or powerful elemental {{as it is.}} magic.
+%% u0552:0-85, u0553:0-34 %%
+Kenzo: Downriver. Yeah, definitely feels like there's an elemental forge down there. And, or powerful elemental entities. Magic.
 
 %% u0554:0-36 %%
 Wellby: Downriver. Not off the side passage.
@@ -1994,8 +1994,8 @@ Kenzo: On the boat. Faldrak Rocks.
 %% u1297:0-45, u1298:0-12, u1299:0-69, u1300:0-159, u1301:0-90, u1302:0-155 %%
 DM: And can you make it? Let's see if he can make—actually, it— you know what, he's gonna vanish and reappear. He's gonna copy Seeker. He's gonna vanish. He reappears right there and then he like steps on to land, and then he turns around and takes his his silver cane, and he like holds it up. He points it at one of these sparks and this, like bolt of fire, comes flying out of that and you can see as a bolt of fire comes flying out there, these, like runes carved at the end of his cane that light up as it comes flying out of the end.
 
-%% u1303:0-40 %%
-Seeker: So those beads are {{in sections}}. Wow!
+%% u1303:0-34 %%
+Seeker: So those beads are infusions. Wow!
 
 %% u1304:0-2, u1305:0-18, u1306:0-29, u1307:0-53 %%
 DM: He blows that one up. And that ends Faldrak's turn. Bringing us to the top of the round. Wellby and Kenzo.

@@ -541,7 +541,7 @@
 [u0541 | 01:01:01.910-01:01:09.720 | Seeker] It's good to know they're interested in flying the ship. We can do some training sessions, and we'll we're gonna ease into it. This particular spot.
 [u0542 | 01:01:10.710-01:01:12.220 | DM] How hard could it be?
 [u0543 | 01:01:13.850-01:01:19.379 | Seeker] Is not the best place we we don't really know what's down there. That's why we're going down there.
-[u0544 | 01:01:19.410-01:01:22.880 | Delwath] {{Kenza are much more talented than they look}}.
+[u0544 | 01:01:19.410-01:01:22.880 | Delwath] Kenzo is much more talented than they look.
 [u0545 | 01:01:23.150-01:01:25.270 | Delwath] It's much harder than it seems.
 [u0546 | 01:01:25.330-01:01:30.209 | DM] There is nothing down there. That's gonna hurt the people who killed Grash.
 [u0547 | 01:01:30.680-01:01:36.120 | DM] I mean. Come on, who do you take yourselves for I'm like totally convinced. Now
@@ -1484,7 +1484,7 @@
 [u1484 | 02:27:25.510-02:27:30.069 | DM] Amil is just like totally taken aback by this whole thing as he
 [u1485 | 02:27:31.310-02:27:45.669 | DM] as he comes, and you get the sense like he's been here now for 2 years, like he's pretty much trained up, and he's just. you know. He's been kind of at loose ends like he's not quite sure what he wants to do next. He doesn't want to just go back to.
 [u1486 | 02:27:46.550-02:27:47.420 | DM] You know
-[u1487 | 02:27:47.730-02:27:57.560 | DM] the the plains, the the deserts of {{parallel is from}}. but he looks around just kind of amazed at what Kenzo's
+[u1487 | 02:27:47.730-02:27:57.560 | DM] the the plains, the the deserts of wherever he's from. but he looks around just kind of amazed at what Kenzo's
 [u1488 | 02:27:58.790-02:28:00.690 | DM] constructed here.
 [u1489 | 02:28:01.320-02:28:03.350 | Kenzo] And it's definitely just like.
 [u1490 | 02:28:03.500-02:28:04.290 | Kenzo] yeah.
@@ -1599,7 +1599,7 @@
 [u1599 | 02:39:19.530-02:39:27.139 | Delwath] It's not that we have a relationship with him exactly, but we could tell them about the scepter could tell him we destroyed it.
 [u1600 | 02:39:27.320-02:39:35.379 | Kenzo] Well, it's just a matter a matter of trust, is he? It is yet is he already prejudiced against us or not? Is the question. He won't listen to his own gods.
 [u1601 | 02:39:35.530-02:39:37.800 | Riswynn] I mean, listen to the five of us.
-[u1602 | 02:39:37.990-02:39:41.900 | Delwath] I don't know if {{his God's deception has been destroyed, or are telling him that}}
+[u1602 | 02:39:37.990-02:39:41.900 | Delwath] I don't know if his gods know the scepter has been destroyed, or are telling him that.
 [u1603 | 02:39:42.440-02:39:44.870 | Delwath] Gods speak in riddles right
 [u1604 | 02:39:45.400-02:39:46.530 | Riswynn] well they do.
 [u1605 | 02:39:48.020-02:39:51.809 | Riswynn] but he seems determined to misinterpret their riddles.

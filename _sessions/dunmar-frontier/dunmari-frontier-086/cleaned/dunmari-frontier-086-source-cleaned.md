@@ -2071,7 +2071,7 @@
 [u2071 | 03:14:14.980-03:14:17.919 | DM] So as things calm down.
 [u2072 | 03:14:21.430-03:14:22.879 | DM] let me change the music.
 [u2073 | 03:14:23.090-03:14:23.860 | Kenzo] Thank you.
-[u2074 | 03:14:24.880-03:15:03.319 | Kenzo] This was awesome, this whole, this whole adventure's been the button shit. Yeah, this was good. And there's been an amazing adventure like everything about it since. Yeah, I'm glad I assume that was the climax, though. Cause? Oh, yeah, yeah, I do. Kinda wanna try and go to bed in 50. Yeah, now, you just need to figure out what magic items you wanna make so a a as as now. The the elemental has calmed. Kenzo is still gonna continue to sit and commune with it and and try to try to as it relaxes.
+[u2074 | 03:14:24.880-03:15:03.319 | Kenzo] This was awesome, this whole, this whole adventure's been the fucking shit. Yeah, this was good. And there's been an amazing adventure like everything about it since. Yeah, I'm glad I assume that was the climax, though. Cause? Oh, yeah, yeah, I do. Kinda wanna try and go to bed in 50. Yeah, now, you just need to figure out what magic items you wanna make so a a as as now. The the elemental has calmed. Kenzo is still gonna continue to sit and commune with it and and try to try to as it relaxes.
 [u2075 | 03:15:03.440-03:15:06.270 | Kenzo] Kenzo tries to
 [u2076 | 03:15:06.560-03:15:08.720 | Kenzo] you know. Kinda
 [u2077 | 03:15:08.760-03:15:11.460 | Kenzo] continue to share

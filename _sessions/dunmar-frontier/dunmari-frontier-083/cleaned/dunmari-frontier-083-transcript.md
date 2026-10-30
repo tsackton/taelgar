@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 83
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-083-source-cleaned.md
 
 ## Transcript
@@ -761,11 +761,11 @@ Kenzo: You have—your scroll is is curious. I wonder if it knows much about the
 %% u0508:0-23 %%
 Kenzo: and what what became of
 
-%% u0509:0-40 %%
-Kenzo: The jade statue that he transmuted into.
+%% u0509:0-42 %%
+Kenzo: The jade statue that he transmutated into.
 
-%% u0510:0-41 %%
-DM: I flew over here once. Did you know that?
+%% u0510:0-43 %%
+DM: Rai flew over here once. Did you know that?
 
 %% u0511:0-44 %%
 Kenzo: Did not. When did that happen? Before the war?
@@ -1964,8 +1964,8 @@ Delwath: But no, Eric, you know the main quest is just the stuff we don't do, ri
 %% u1367:0-60, u1368:0-100, u1369:0-142, u1370:0-161, u1371:0-59, u1372:0-5, u1373:0-13 %%
 DM: So while Seeker's talking, Delwath has been circulating, and you know you talk to a bunch of people, like you talk to Melindir for a bit. You you know you talk to the kenku, you know, you talk to the kenku you talk to you know you, you say hi to Thomas Hawke, and sort of pass around food to his entourage, and dropping these sorts of questions, and and you pick up you pick up a few rumors, a few. It's sometimes a little bit hard to tell what's like a rumor and what—obviously, like, you know what the rumor—what's true? What? what? What's false?
 
-%% u1374:0-133, u1375:0-79, u1376:0-28, u1377:0-13, u1378:0-89, u1379:0-10, u1380:0-5, u1381:0-96, u1382:0-70, u1383:0-166, u1384:0-58, u1385:0-226 %%
-DM: But you pick up a few bits of information. The first one is is—so, the multiple people, halflings, others know the holy wells of Parmo. The holy wells of Parmo are a small—on a small island off the coast of Sembara, and they are supposedly like ancient, like original, and Drankorian like an original Drankorian well, and this really well preserved Drankorian ruins dedicated to dedicated to the the Eight Divines to to Mos Numena, I think, mostly to the mother. And it's a it's a a sort of minor pilgrimage location. It's it's not a—this far away, It's not like, you know, most people have heard rumors, and it's not a significant enough site that you travel that distance, but certainly, like among, you know, Sembaran things like that you actually hear from—from Escobar. Escobar actually originally grew up in a small village in {{the end}}, and he's he's heard of this place. Oh, yeah, that's like, you know, a a a friend of a cousin knew somebody who went on a pilgrimage there.
+%% u1374:0-133, u1375:0-79, u1376:0-28, u1377:0-13, u1378:0-89, u1379:0-10, u1380:0-5, u1381:0-96, u1382:0-70, u1383:0-166, u1384:0-58, u1385:0-220 %%
+DM: But you pick up a few bits of information. The first one is is—so, the multiple people, halflings, others know the holy wells of Parmo. The holy wells of Parmo are a small—on a small island off the coast of Sembara, and they are supposedly like ancient, like original, and Drankorian like an original Drankorian well, and this really well preserved Drankorian ruins dedicated to dedicated to the the Eight Divines to to Mos Numena, I think, mostly to the mother. And it's a it's a a sort of minor pilgrimage location. It's it's not a—this far away, It's not like, you know, most people have heard rumors, and it's not a significant enough site that you travel that distance, but certainly, like among, you know, Sembaran things like that you actually hear from—from Escobar. Escobar actually originally grew up in a small village in Cymea, and he's he's heard of this place. Oh, yeah, that's like, you know, a a a friend of a cousin knew somebody who went on a pilgrimage there.
 
 %% u1386:0-165 %%
 Kenzo: That sort of thing. But quick metagame. We're just like at the at the height of the Drankorian Empire like where was Drankor like where did it spread to? And we know.
@@ -2519,8 +2519,8 @@ Delwath: Oh, I was just—I was hoping to wrap up soon. I'm really, really tired
 %% u1929:0-55, u1930:0-34, u1931:0-27, u1932:0-22, u1933:0-32, u1934:0-4, u1935:0-25, u1936:0-11, u1937:0-35, u1938:0-65 %%
 DM: I have like, 10 more minutes, Matt. That's our, what, 20, 23 more minutes, like hard stopping, ideally 10 min before that. But I do want to know. Conversation was very important. I've—figure out what I need to and I will. Just so you're aware, we'll play it. I don't want to play it tonight. We can play it next session. The.
 
-%% u1939:0-50, u1940:0-24 %%
-DM: The Edge of Echoes is, in fact, between Tollen and {{they're they're cut}}.
+%% u1939:0-50, u1940:0-8 %%
+DM: The Edge of Echoes is, in fact, between Tollen and Xurkhaz.
 
 %% u1941:0-79, u1942:0-58, u1943:0-85 %%
 Delwath: So it's kind of on the way. It's kind of on the way. That's kind of on the way. I think the safe thing to do here is prep. I mean, I'm I'm— I think we will likely stop at any distraction on the way, that is not—that we're not.

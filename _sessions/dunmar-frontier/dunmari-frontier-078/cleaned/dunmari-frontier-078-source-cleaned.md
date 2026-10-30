@@ -446,7 +446,7 @@
 [u0446 | 00:40:51.850-00:40:55.040 | Kenzo] You don't sense anything within 6 miles
 [u0447 | 00:40:58.010-00:40:59.920 | DM] another hour passes.
 [u0448 | 00:41:01.580-00:41:05.460 | DM] Kenzo rests, regenerates his ki.
-[u0449 | 00:41:06.650-00:41:17.600 | Riswynn] Should we have less on the fact that we saw them sleeping to like quickly relocate, without having to worry about invisibility. And ever
+[u0449 | 00:41:06.650-00:41:17.600 | Riswynn] Should we capitalize on the fact that we saw them sleeping to like quickly relocate, without having to worry about invisibility. And ever
 [u0450 | 00:41:18.550-00:41:27.820 | DM] so, as the sun sets and they're sleeping. You return to your position underneath the beds and manage to re
 [u0451 | 00:41:29.370-00:41:37.709 | DM] Reconnect with, re—we get Lubash into the telepathic link. Who
 [u0452 | 00:41:37.990-00:41:41.580 | DM] who tells you? There's 2
@@ -1237,7 +1237,7 @@
 [u1237 | 01:48:09.320-01:48:10.839 | Kenzo] Kadmos is the most powerful.
 [u1238 | 01:48:10.940-01:48:12.120 | Seeker] He's a
 [u1239 | 01:48:12.660-01:48:14.830 | Delwath] he probably doesn't have great
-[u1240 | 01:48:15.010-01:48:28.330 | Kenzo] Int saves. I can tell you exactly what Kadmos is. Kadmos is not strong or dex—dexterous high Int and Charisma. Okay? So this is an Int saving throw. So Int saves. I probably get against him. Now he's {{middle as high}} as charisma.
+[u1240 | 01:48:15.010-01:48:28.330 | Kenzo] Int saves. I can tell you exactly what Kadmos is. Kadmos is not strong or dex—dexterous high Int and Charisma. Okay? So this is an Int saving throw. So Int saves. I probably get against him. No, his Int is as high as charisma.
 [u1241 | 01:48:28.400-01:48:31.999 | Seeker] Yeah, yeah, I'm going to do this at
 [u1242 | 01:48:33.430-01:48:39.259 | Seeker] Fourth Level. I get no fifth level. This is your fifth level. Save it. Okay?
 [u1243 | 01:48:39.370-01:48:40.849 | Delwath] I think so. Right?

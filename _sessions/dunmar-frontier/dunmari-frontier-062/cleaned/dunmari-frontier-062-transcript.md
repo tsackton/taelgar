@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 62
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-062-source-cleaned.md
 
 ## Transcript
@@ -1970,8 +1970,8 @@ Shoal: Yeah. Well, I'm: Yeah, I'm out of stuff.
 %% u1408:0-15 %%
 Artem Novolozek: Cosmic revenge.
 
-%% u1409:0-1, u1410:0-118 %%
-Wellby: I I don't think Wellby can stop himself from stabbing this person. Yeah, [garbled].
+%% u1409:0-1, u1410:0-111 %%
+Wellby: I I don't think Wellby can stop himself from stabbing this person. Yeah, regardless of what the right tactics are.
 
 %% u1411:0-15 %%
 DM: Fifteen misses.
@@ -2579,8 +2579,8 @@ DM: I mean he's terrified. He wants to run. He's not like he's not super willing
 %% u1769:0-26, u1770:0-17, u1771:0-43, u1772:0-61 %%
 Artem Novolozek: You know what we could do. Oh, you know what Crabby might make a return, Mr. Giant Crab. Could polymorph him into a giant crab and send them to fight.
 
-%% u1773:0-116 %%
-Rufus: Uh, you know, there's actually one crucial story flaw with this plan, which is that {{my character happened today}}.
+%% u1773:0-119 %%
+Rufus: Uh, you know, there's actually one crucial story flaw with this plan, which is that my character happens to hate crabs.
 
 %% u1774:0-231 %%
 Artem Novolozek: Oh, we could find a different creature to to to polymorph. I mean, I only have one concentration effect at a time, right? So if I'm going to use it on polymorph him into a into a creature. Then I can't also make somebody invisible.
@@ -3635,8 +3635,8 @@ DM: Ah, it takes um and it like like as it's going to charge you like, Whack it 
 %% u2413:0-51, u2414:0-100, u2415:0-5, u2416:0-23, u2417:0-140 %%
 DM: Um. You notice, as it opens its mouth that there is a person hiding inside the mouth of this giant shark, and it just got. She just cast a spell at you. Okay? Ah, you cannot see her. Oh, sorry. You don't notice that because I was looking at Rufus's passive perception, not yours. Forget I said anything. You notice nothing.
 
-%% u2418:0-29 %%
-Wellby: I know a [garbled].
+%% u2418:0-30 %%
+Wellby: I know a shark has ice breath.
 
 %% u2419:0-4, u2420:0-8, u2421:0-3, u2422:0-8, u2423:0-47 %%
 DM: Yes, you take um. Come on. Ah, you take thirty eight points of cold damage.
@@ -5009,8 +5009,8 @@ Artem Novolozek: No, I think Artem would know that it's he wouldn't fall for a t
 %% u3304:0-5 %%
 DM: Okay.
 
-%% u3305:0-32, u3306:0-50, u3307:0-23, u3308:0-23, u3309:0-3, u3310:0-51, u3311:0-3 %%
-DM: Brings us back to stop around to Rufus, who unwittingly starts his turn adjacent to the wall, and the coral reaches out around him. Ah, [garbled] Kill Eric's character when he's not here. Ah.
+%% u3305:0-41, u3306:0-50, u3307:0-23, u3308:0-23, u3309:0-3, u3310:0-51, u3311:0-3 %%
+DM: Brings us back to the top of the round—to Rufus, who unwittingly starts his turn adjacent to the wall, and the coral reaches out around him. Ah, [garbled] Kill Eric's character when he's not here. Ah.
 
 %% u3312:0-45, u3313:0-22, u3314:0-23, u3315:0-17 %%
 DM: He takes thirty five points of psychic damage and falls unconscious. That ends Rufus's turn. Wellby, you're up.

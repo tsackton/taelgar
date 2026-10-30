@@ -3781,7 +3781,7 @@
 [u3781 | 03:23:10.510-03:23:10.920 | Seeker] Yeah.
 [u3782 | 03:23:11.303-03:23:15.909 | DM] Seeker, we've hmm good to hear from you. It's been a month.
 [u3783 | 03:23:15.950-03:23:21.909 | DM] You've had quite a number of great successes in that time. You would be quite interested to hear
-[u3784 | 03:23:22.814-03:23:25.839 | DM] we {{needed}} some hobgoblin pirates.
+[u3784 | 03:23:22.814-03:23:25.839 | DM] we defeated some hobgoblin pirates.
 [u3785 | 03:23:27.370-03:23:38.280 | DM] We made a connection with some rebel giants. I think they're gonna head west and maybe do something about Brimskarda.
 [u3786 | 03:23:39.350-03:23:40.220 | DM] Can
 [u3787 | 03:23:40.800-03:23:45.579 | DM] we rescued some halflings, and I think there might be a reward for us if we go back to Tollen.

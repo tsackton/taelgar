@@ -178,7 +178,7 @@
 [u0178 | 00:17:11.790-00:17:16.420 | Seeker] Who's that? Referring to that mace of terror that we had, we gave them. For this
 [u0179 | 00:17:17.170-00:17:21.279 | Delwath] the mace of the Mace of terror was, we stole from Fausto.
 [u0180 | 00:17:21.520-00:17:25.749 | Delwath] The Warlord is one of the 8 divines of
-[u0181 | 00:17:26.349-00:17:29.100 | Seeker] Moss Newman at that
+[u0181 | 00:17:26.349-00:17:29.100 | Seeker] Mos Numena that
 [u0182 | 00:17:29.110-00:17:42.110 | Seeker] the Chardonian religion also? Well, that makes sense, because the magic of the divine is the most challenging to unravel and the most mysterious to us. We've endeavored to provide a worthwhile value for such gift, which is good because we really wanted to know what these binding stones were about.
 [u0183 | 00:17:42.310-00:17:55.650 | Seeker] The stones you speak of, known as the binding stones of Amloch are a unique item. From what we've been able to learn. They are also an ancient item created more than 3,000 years ago.
 [u0184 | 00:17:56.230-00:17:59.740 | Seeker] before the downfall in the land of Hkar.
@@ -1823,7 +1823,7 @@
 [u1823 | 03:17:03.250-03:17:06.200 | Delwath] Does she know anything about the ring of undying?
 [u1824 | 03:17:07.820-03:17:19.630 | DM] No, that was never like her the way she tells it. He had the cloak, scepter, and crown like that. Seems like it's maybe not connected to like the artifacts and Apollyon's power
 [u1825 | 03:17:19.800-03:17:29.049 | Delwath] Right, who has the crown.
-[u1826 | 03:17:29.150-03:17:30.450 | Kenzo] {{Mr. Kandu}}.
+[u1826 | 03:17:29.150-03:17:30.450 | Kenzo] —
 [u1827 | 03:17:31.060-03:17:37.920 | Kenzo] It makes the Cleansed it it like turn it turns people into zombies.
 [u1828 | 03:17:38.530-03:17:40.970 | Delwath] We should maybe we should go get the crown
 [u1829 | 03:17:43.660-03:17:44.960 | Unknown] you're

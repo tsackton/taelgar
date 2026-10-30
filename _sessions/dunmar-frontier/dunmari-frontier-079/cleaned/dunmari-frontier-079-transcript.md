@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 79
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-079-source-cleaned.md
 
 ## Transcript
@@ -17,8 +17,8 @@ DM: The battle was chaotic and scattered around the large hall you are in, you c
 %% u0014:0-89, u0015:0-26, u0016:0-3, u0017:0-15, u0018:0-10, u0019:0-12 %%
 DM: The older woman, Evelina, sorcerer, died in battle. Her body's still lying on the ground. Kadmos, beheaded and dead; his bizarre seeming, shrunk and faded almost.
 
-%% u0020:0-72, u0021:0-64, u0022:0-23, u0023:0-44 %%
-DM: A pile of now gear and and random treasure and weapons stripped from the folks that you had you have just defeated, scattered around, but not even yet looked at. {{The air, are propped up now nearly fall.}}
+%% u0020:0-72, u0021:0-64, u0022:0-23, u0023:0-39 %%
+DM: A pile of now gear and and random treasure and weapons stripped from the folks that you had you have just defeated, scattered around, but not even yet looked at. The mirror propped up, now nearly full.
 
 %% u0024:0-50, u0025:0-39, u0026:0-46, u0027:0-64, u0028:0-90, u0029:0-47 %%
 DM: Meanwhile the orcs, wounded in battle, struggling pull themselves together. Chief Lubash, near death, wounded, drained, exhausted by the sickening radiance of Delwath's spell that he was caught within, recovered the cloak, wearing it propped up, leaning against the wall, talking quietly with General Murook, who is standing guard over him.
@@ -626,8 +626,8 @@ Delwath: The, I don't think we should put anything from Kadmos in the same space
 %% u0470:0-37 %%
 Wellby: Agreed. I’ll put this all in the bag.
 
-%% u0471:0-66, u0472:0-14, u0473:0-88 %%
-Delwath: Yeah, I think so, for for all we know that like creepy gem is like {{adverse is}} soul, and will go and possess the scepter if we put it in the same portable hole as him.
+%% u0471:0-66, u0472:0-8, u0473:0-88 %%
+Delwath: Yeah, I think so, for for all we know that like creepy gem is like Kadmos’s soul, and will go and possess the scepter if we put it in the same portable hole as him.
 
 %% u0474:0-79 %%
 Seeker: Yeah, let's segregate. That's a great idea, Delwath. Did somebody spin the top?
@@ -1544,8 +1544,8 @@ Delwath: Yes.
 %% u1144:0-5, u1145:0-74 %%
 DM: Yeah. Wellby just doesn't have a lot of magic items compared to the rest of you.
 
-%% u1146:0-38, u1147:0-81, u1148:0-22, u1149:0-113, u1150:0-32 %%
-Delwath: You might give him the priority, being in line for some boots of speed. I mean, I have a {{ring of this, There's delic}} good trade, that right? Depending on how good it is, although boots of speed is not, I think, something Delwath really needs necessarily. Okay, should we talk to Antonia?
+%% u1146:0-38, u1147:0-89, u1148:0-22, u1149:0-113, u1150:0-32 %%
+Delwath: You might give him the priority, being in line for some boots of speed. I mean, I have a Ring of Displacement, {{There's delic}} good trade, that right? Depending on how good it is, although boots of speed is not, I think, something Delwath really needs necessarily. Okay, should we talk to Antonia?
 
 %% u1151:0-5 %%
 Wellby: Yeah.
@@ -1952,8 +1952,8 @@ DM: And if that means Grash Grash gets the scepter, he succeeds. He’s saying t
 %% u1402:0-55, u1403:0-31, u1404:0-5, u1405:0-36, u1406:0-18, u1407:0-42, u1408:0-69 %%
 Delwath: You don't know where the undead army will be unleashed, but I would fear, for your city. Grash is not close to getting the scepter. There is much time to stop him. If you tell us what you know. We don't ask you to betray Chardon or Drankor, just Grash and Fausto.
 
-%% u1409:0-48, u1410:0-24, u1411:0-47, u1412:0-23 %%
-DM: Kadmos was pretty sure that you had the scepter. Knew {{Apollon}} had it. You, you killed her. You knew how Agata had it. Knew you killed Agata.
+%% u1409:0-48, u1410:0-18, u1411:0-47, u1412:0-23 %%
+DM: Kadmos was pretty sure that you had the scepter. Knew Agata had it. You, you killed her. You knew how Agata had it. Knew you killed Agata.
 
 %% u1412:23-74 %%
 Delwath: Who did she say was pretty sure we had the scepter?
@@ -2180,8 +2180,8 @@ DM: It's not right. It's 40,000 square feet. So it's like 200 by 200 feet. Yeah,
 %% u1540:0-83, u1541:0-61 %%
 Seeker: Okay, we we'd be defending ourselves against a future threat but going towards them anyway, what's is there anything else we want to ask, Antonia?
 
-%% u1542:0-25, u1543:0-64, u1544:0-120 %%
-Seeker: It did. We just learn the that the 3 items are the scepter, cloak and {{I am that before}}? She doesn't. And she didn't include the ring, the rain— the crown, the ring, the scepter, and the cloak are the 4 items.
+%% u1542:0-25, u1543:0-75, u1544:0-120 %%
+Seeker: It did. We just learn the that the 3 items are the scepter, cloak and crown. Did we know that before? She doesn't. And she didn't include the ring, the rain— the crown, the ring, the scepter, and the cloak are the 4 items.
 
 %% u1545:0-73, u1546:0-60 %%
 Delwath: Obviously nobody was looking for the crown because Fausto already has it, and nobody is looking for the ring because Grash already has.

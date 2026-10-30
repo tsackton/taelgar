@@ -32,7 +32,7 @@
 [u0032 | 00:04:24.040-00:04:26.600 | Seeker] occasionally amazed by his own
 [u0033 | 00:04:28.750-00:04:38.090 | Seeker] densely packed adventures. and also asking for any. Were there details that you recall about brother’s disappearance?
 [u0034 | 00:04:38.670-00:04:41.000 | Seeker] We are hopefully doing investigation.
-[u0035 | 00:04:45.530-00:04:55.850 | Seeker] The rest of the time has been spent {{raping}} around the skyship with Faldrak. and planning for the opening of our ship's inaugural artist in residence
+[u0035 | 00:04:45.530-00:04:55.850 | Seeker] The rest of the time has been spent traipsing around the skyship with Faldrak. and planning for the opening of our ship's inaugural artist in residence
 [u0036 | 00:04:56.980-00:05:02.590 | Seeker] program. Perhaps with an introductory seminar
 [u0037 | 00:05:03.070-00:05:06.890 | Seeker] or lecture that Faldrak will give once we are underway
 [u0038 | 00:05:08.040-00:05:09.750 | Unknown] you
@@ -550,7 +550,7 @@
 [u0550 | 00:55:42.480-00:55:46.910 | DM] It's not that it's unnatural. It's not of this world.
 [u0551 | 00:55:49.830-00:55:52.110 | DM] Extraplanar energy.
 [u0552 | 00:55:52.170-00:56:01.479 | Kenzo] downriver. yeah, definitely feels like there's an elemental forge down there. And, or
-[u0553 | 00:56:02.530-00:56:06.790 | Kenzo] powerful elemental {{as it is.}} magic
+[u0553 | 00:56:02.530-00:56:06.790 | Kenzo] powerful elemental entities. magic
 [u0554 | 00:56:09.640-00:56:12.440 | Wellby] downriver. Not off the side passage.
 [u0555 | 00:56:13.460-00:56:19.970 | DM] Downriver is where you're feeling it. And and it's also like the further downriver you go, the more
 [u0556 | 00:56:22.010-00:56:30.930 | DM] almost lonely it feels it. Almost you almost get the feeling like as you extend your senses for a mile downstream.
@@ -1300,7 +1300,7 @@
 [u1300 | 02:04:19.300-02:04:29.869 | DM] He's gonna vanish. He reappears right there and then he like steps on to land, and then he turns around and takes his his silver cane, and he like holds it up.
 [u1301 | 02:04:30.240-02:04:36.580 | DM] He points it at one of these sparks and this, like bolt of fire, comes flying out of that.
 [u1302 | 02:04:36.630-02:04:46.839 | DM] and you can see as a bolt of fire comes flying out there, these, like runes carved at the end of his cane. That light up as it comes flying out of the end.
-[u1303 | 02:04:47.620-02:04:49.859 | Seeker] So those beads are {{in sections}}. Wow!
+[u1303 | 02:04:47.620-02:04:49.859 | Seeker] So those beads are infusions. Wow!
 [u1304 | 02:04:50.950-02:04:52.080 | DM] He
 [u1305 | 02:04:53.840-02:04:55.590 | DM] blows that one up.
 [u1306 | 02:04:57.650-02:04:59.820 | DM] and that ends Faldrak's turn.

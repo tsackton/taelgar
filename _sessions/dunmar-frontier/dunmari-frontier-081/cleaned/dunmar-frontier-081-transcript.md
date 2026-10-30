@@ -1,6 +1,6 @@
 # Dunmar Frontier — Session 81
 
-- Status: Some passages need review
+- Status: Complete
 - Source Transcript: dunmar-frontier-081-source-cleaned.md
 
 ## Transcript
@@ -17994,7 +17994,7 @@ DM: ... moderately stronger.
 Seeker: ... I can boost it.
 
 %% u8736:0-11, u8737:0-3 %%
-DM: Like, level 60.
+DM: Like, level 16.
 
 %% u8738:0-15 %%
 Delwath: With the glove.
@@ -20598,7 +20598,7 @@ Kenzo: That's like last ditch.
 DM: [laughs]
 
 %% u9848:0-43, u9849:0-82 %%
-Kenzo: 'Cause it's like I can only do it one time. This is what I would have used for us when the Fallgar thing, when I wasn't there.
+Kenzo: 'Cause it's like I can only do it one time. This is what I would have used for us when the Hralgar thing, when I wasn't there.
 
 %% u9850:0-5 %%
 DM: Right.

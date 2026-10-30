@@ -391,7 +391,7 @@
 [u0391 | 00:24:02.990-00:24:05.269 | DM] only because there's not really like a
 [u0392 | 00:24:06.550-00:24:08.909 | DM] Imperial presence. To begin with.
 [u0393 | 00:24:09.570-00:24:13.369 | DM] probably a tax ship that comes 3 times a year or something.
-[u0394 | 00:24:14.380-00:24:20.280 | Kenzo] Alright. So I mean the likelihood we can find, like sympathetic people like {{Nick one charter}}. It's it's high.
+[u0394 | 00:24:14.380-00:24:20.280 | Kenzo] Alright. So I mean the likelihood we can find, like sympathetic people like not like Chardon. It's it's high.
 [u0395 | 00:24:20.890-00:24:22.339 | Kenzo] like as we get farther away.
 [u0396 | 00:24:22.580-00:24:24.470 | DM] I mean whether they.
 [u0397 | 00:24:24.770-00:24:28.120 | DM] what their attitudes towards Chardon are you don't know
@@ -1509,7 +1509,7 @@
 [u1509 | 01:29:31.630-01:29:35.466 | Wellby] I’ll climb aboard, and like we’ll tie a little ship against theirs and
 [u1510 | 01:29:35.740-01:29:36.850 | DM] Yeah, yeah.
 [u1511 | 01:29:37.300-01:29:40.649 | DM] She gives you a little bow with her hat. She introduces herself.
-[u1512 | 01:29:40.970-01:29:43.429 | DM] {{have agreed, though}} at your service.
+[u1512 | 01:29:40.970-01:29:43.429 | DM] Pippa Greenbarrow at your service.
 [u1513 | 01:29:44.710-01:29:48.580 | Wellby] Wellby Goodbarrel. It is a pleasure I'm
 [u1514 | 01:29:49.786-01:29:50.243 | Wellby] heading
 [u1515 | 01:29:50.820-01:29:55.280 | Wellby] around the Cape with my friends here, who have proven to be really
@@ -1556,7 +1556,7 @@
 [u1556 | 01:32:11.940-01:32:13.080 | DM] the bay
 [u1557 | 01:32:13.620-01:32:15.310 | DM] north up the coast.
 [u1558 | 01:32:16.050-01:32:16.780 | Seeker] I say.
-[u1559 | 01:32:16.780-01:32:19.859 | DM] {{Angela}} is the next town. It's like I don't know here or so.
+[u1559 | 01:32:16.780-01:32:19.859 | DM] Antissus is the next town. It's like I don't know here or so.
 [u1560 | 01:32:19.860-01:32:22.110 | Delwath] So, and I I get it. I get it. I get it.
 [u1561 | 01:32:23.130-01:32:24.060 | Wellby] Like we're
 [u1562 | 01:32:24.220-01:32:28.329 | Wellby] we're looking for some sort of like a mermaid garden in a

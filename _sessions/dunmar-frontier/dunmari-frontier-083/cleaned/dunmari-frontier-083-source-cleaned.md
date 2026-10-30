@@ -506,8 +506,8 @@
 [u0506 | 00:52:11.130-00:52:16.890 | Kenzo] you have. Your scroll is is curious. I wonder if
 [u0507 | 00:52:17.270-00:52:22.040 | Kenzo] it knows much about the hero of the Great War, Rai.
 [u0508 | 00:52:24.980-00:52:27.380 | Unknown] and what what became of
-[u0509 | 00:52:28.010-00:52:32.050 | Kenzo] the jade statue that he transmuted into.
-[u0510 | 00:52:36.040-00:52:39.310 | DM] I flew over here once. Did you know that?
+[u0509 | 00:52:28.010-00:52:32.050 | Kenzo] the jade statue that he transmutated into.
+[u0510 | 00:52:36.040-00:52:39.310 | DM] Rai flew over here once. Did you know that?
 [u0511 | 00:52:39.570-00:52:46.049 | Kenzo] Did not? When did that happen before the war
 [u0512 | 00:52:46.930-00:52:52.319 | DM] in? I guess, as the war was starting, one should say.
 [u0513 | 00:52:53.070-00:52:55.569 | Seeker] don't know if he ever visited
@@ -1382,7 +1382,7 @@
 [u1382 | 02:22:41.940-02:22:49.299 | Unknown] And it's a it's a a sort of minor pilgrimage location. It's it's not a
 [u1383 | 02:22:49.890-02:23:00.319 | DM] this far away. It's not like, you know. Most people have heard rumors, and it's not a significant enough site that you travel that distance, but certainly, like among
 [u1384 | 02:23:01.070-02:23:04.679 | Unknown] you know. Sembaran things like that you actually hear from
-[u1385 | 02:23:09.770-02:23:24.710 | DM] From Escobar. Escobar actually originally grew up in a small village in {{the end}}, and he's he's heard of this place. Oh, yeah, that's like, you know, a. A. A friend of a cousin knew somebody who went on. A pilgrimage there.
+[u1385 | 02:23:09.770-02:23:24.710 | DM] From Escobar. Escobar actually originally grew up in a small village in Cymea, and he's he's heard of this place. Oh, yeah, that's like, you know, a. A. A friend of a cousin knew somebody who went on. A pilgrimage there.
 [u1386 | 02:23:25.780-02:23:36.779 | Kenzo] that sort of thing. But quick metagame. We're just like at the at the height of the Drankorian Empire like where was Drankor like where did it spread to? And we know
 [u1387 | 02:23:38.900-02:23:45.749 | DM] Tollen was a northern border. It spread as far as the river Volta, and no further
 [u1388 | 02:23:45.790-02:23:48.829 | DM] the whole Sembaran Peninsula
@@ -1937,7 +1937,7 @@
 [u1937 | 03:23:09.310-03:23:13.299 | DM] Just so you're aware we'll play it.
 [u1938 | 03:23:13.440-03:23:16.799 | Unknown] I don't want to play it tonight. We can play it next session. The
 [u1939 | 03:23:17.610-03:23:22.759 | DM] the Edge of Echoes is, in fact, between Tollen and
-[u1940 | 03:23:25.310-03:23:27.749 | DM] {{they're they're cut}}.
+[u1940 | 03:23:25.310-03:23:27.749 | DM] Xurkhaz.
 [u1941 | 03:23:29.340-03:23:38.109 | Delwath] So it's kind of on the way. It's kind of on the way. That's kind of on the way.
 [u1942 | 03:23:38.570-03:23:43.769 | Delwath] I think the safe thing to do here is prep. I mean, I'm I'm
 [u1943 | 03:23:44.700-03:23:53.139 | Delwath] I think we will likely stop at any distraction on the way. That is not that we're not

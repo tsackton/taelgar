@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 89
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-089-source-cleaned.md
 
 ## Transcript
@@ -758,8 +758,8 @@ DM: How hard could it be?
 %% u0543:0-99 %%
 Seeker: Is not the best place. We—we don't really know what's down there. That's why we're going down there.
 
-%% u0544:0-48, u0545:0-31 %%
-Delwath: {{Kenza are much more talented than they look}}. It's much harder than it seems.
+%% u0544:0-43, u0545:0-31 %%
+Delwath: Kenzo is much more talented than they look. It's much harder than it seems.
 
 %% u0546:0-75, u0547:0-79 %%
 DM: There is nothing down there that's gonna hurt the people who killed Grash. I mean, come on, who do you take yourselves for? I'm, like, totally convinced now.
@@ -1994,8 +1994,8 @@ DM: Pava and Avaras are like the—
 %% u1480:0-575, u1481:0-8, u1482:0-94, u1483:0-160 %%
 Kenzo: Yeah, and then, yeah. So Kenzo will bring them to, you know, log on the ship. But Kenzo, in particular, is gonna take them to the parts of the ship where he's been—he's been writing the stories of—I mean, he shows him his staff where he's been—he's been part of this, but now that—once we—once we got the ship, Kenzo's been focusing on on using the ship as the the larger kind of, you know, story archive. And so, you know, Kenzo—Kenzo is basically it—you know, it's interesting because Kenzo's not done it yet for the, you know, for the characters in the in the campaign. But Kenzo is, you know, shares with—with Pava that he'd be—he would—he thinks it would be great for him to to—to capture, since he was so integral in Delwath's origin, you know, capturing some of those aspects of the story here, should he—should he so be interested.
 
-%% u1484:0-63, u1485:0-249, u1486:0-8, u1487:0-112, u1488:0-17 %%
-DM: Amil is just, like, totally taken aback by this whole thing as he— as he comes. And you get the sense, like, he's been here now for 2 years, like he's pretty much trained up, and he's just, you know, he's been kind of at loose ends, like he's not quite sure what he wants to do next. He doesn't want to just go back to— You know the the plains, the the deserts of {{parallel is from}}. But he looks around just kind of amazed at what Kenzo's constructed here.
+%% u1484:0-63, u1485:0-249, u1486:0-8, u1487:0-110, u1488:0-17 %%
+DM: Amil is just, like, totally taken aback by this whole thing as he— as he comes. And you get the sense, like, he's been here now for 2 years, like he's pretty much trained up, and he's just, you know, he's been kind of at loose ends, like he's not quite sure what he wants to do next. He doesn't want to just go back to— You know the the plains, the the deserts of wherever he's from. But he looks around just kind of amazed at what Kenzo's constructed here.
 
 %% u1489:0-30, u1490:0-5, u1491:0-390, u1492:0-139 %%
 Kenzo: And it's definitely just, like— yeah. Tracing the history. And it's not just words, right? It's like, there's art. And there's, like, carvings and things. It's definitely, like, again, like Kenzo is bringing, again, it's like, there's iconography. There's, like, lizard folkish iconography. There's, like, it's not the traditional, like, Bhishma storytelling. It's, like, it's connected to it, but it's not that, you know. So, so this is the— you know. So Kenzo is like watching Amil, you know, kind of engage with it, and seeing his interest, and is is excited to see that he is a
@@ -2129,8 +2129,8 @@ Kenzo: Well, it's just a matter—a matter of trust. Is he—it is yet—is he a
 %% u1601:0-33 %%
 Riswynn: I mean, listen to the five of us.
 
-%% u1602:0-83, u1603:0-27 %%
-Delwath: I don't know if {{his God's deception has been destroyed, or are telling him that}} Gods speak in riddles, right?
+%% u1602:0-86, u1603:0-27 %%
+Delwath: I don't know if his gods know the scepter has been destroyed, or are telling him that. Gods speak in riddles, right?
 
 %% u1604:0-13, u1605:0-54 %%
 Riswynn: Well, they do, but he seems determined to misinterpret their riddles.

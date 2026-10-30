@@ -825,7 +825,7 @@
 [u0825 | 01:30:39.500-01:30:44.679 | DM] Come up here. enjoy the fireworks and the light show
 [u0826 | 01:30:46.100-01:30:47.940 | Kenzo] perfect. We'll be there.
 [u0827 | 01:30:48.490-01:30:50.370 | DM] I bet Thomas will be around
-[u0828 | 01:30:53.470-01:31:11.159 | Kenzo] perfect, Tim. I'll also. while I'm with Cecilia I will get her story to inscribe on the staff for for Grishma. Okay, cool. That is fine. I just wanted to make a minute. Make sure.
+[u0828 | 01:30:53.470-01:31:11.159 | Kenzo] perfect, Tim. I'll also. while I'm with Cecilia I will get her story to inscribe on the staff for for Bhishma. Okay, cool. That is fine. I just wanted to make a minute. Make sure.
 [u0829 | 01:31:11.960-01:31:16.810 | Kenzo] Oh, yeah, I did get her story right? I got her story, and I got Iskra's story last time. Okay, okay.
 [u0830 | 01:31:17.330-01:31:20.099 | DM] Okay. So
 [u0831 | 01:31:23.190-01:31:25.000 | DM] let's see. Wellby.
@@ -1028,7 +1028,7 @@
 [u1028 | 01:53:34.340-01:53:37.119 | DM] it's fun to watch, though it is.
 [u1029 | 01:53:37.560-01:53:38.940 | Delwath] it is diverting.
 [u1030 | 01:53:39.980-01:53:52.660 | Kenzo] Aurelia, I know that you don't go to the parties. This is our first time here in Tollen. But I think you may enjoy coming to the airship, and certainly, Delwath would enjoy your company tomorrow. So speaking for Delwath.
-[u1031 | 01:53:53.300-01:54:00.039 | Delwath] I whisper, {{Adela}}, did you did you mention Tharandros's name.
+[u1031 | 01:53:53.300-01:54:00.039 | Delwath] I whisper, to Delwath, did you did you mention Tharandros's name.
 [u1032 | 01:54:01.430-01:54:19.710 | DM] Did you? Did anybody else mention Tharandros? Kenzo was the one who was like, but not this far North.
 [u1033 | 01:54:20.130-01:54:24.860 | DM] I gave up the migratory life a long time ago.
 [u1034 | 01:54:24.960-01:54:27.519 | DM] and I haven't looked back.
@@ -1742,7 +1742,7 @@
 [u1742 | 03:05:10.250-03:05:39.990 | Delwath] but you had to give us the side quest. So you know the side quest Isingue the city. We flew over that held. Yeah, go to the people. There's like the whole community of refugees that
 [u1743 | 03:05:40.040-03:05:55.790 | Delwath] care a lot about the city. This place to the South, called the refounded alliance of Aurbez, and so we should go there and tell them that we know what's going on with their city. Then they'll hire us to go clean it up and figure out what's going on.
 [u1744 | 03:05:56.270-03:05:57.200 | Kenzo] I mean.
-[u1745 | 03:05:57.780-03:06:03.360 | Delwath] But to that part {{I don't need to be higher level}} to deal with a giant living pool of acid that
+[u1745 | 03:05:57.780-03:06:03.360 | Delwath] But to that part I think we need to be higher level to deal with a giant living pool of acid that
 [u1746 | 03:06:03.780-03:06:09.400 | DM] easily attacked your skyship from 400 feet away. That is a good point.
 [u1747 | 03:06:09.960-03:06:11.800 | DM] I mean, let's see, you know.
 [u1748 | 03:06:12.850-03:06:14.520 | Kenzo] and hinting

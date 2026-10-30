@@ -19,7 +19,7 @@
 [u0019 | 00:01:58.580-00:02:02.759 | DM] the light grows bright, intense, and the taste of victory taunts him.
 [u0020 | 00:02:03.360-00:02:06.310 | DM] It reminds him of something, some forgotten memory.
 [u0021 | 00:02:06.560-00:02:12.400 | DM] the taste of salt and wind, the memory of gusts of air that obeyed his every thought.
-[u0022 | 00:02:12.440-00:02:17.210 | DM] A quiet ship on a strange river cut impossibly through {{hells}}.
+[u0022 | 00:02:12.440-00:02:17.210 | DM] A quiet ship on a strange river cut impossibly through hills.
 [u0023 | 00:02:18.300-00:02:22.289 | DM] He pushes himself as hard as possible to catch them. But it is too late.
 [u0024 | 00:02:22.330-00:02:26.259 | DM] They turn north, disappearing faster than he can catch up. No matter
 [u0025 | 00:02:28.060-00:02:39.799 | DM] now. They have been still for a long time. Plenty of time. Yeah, sure he will catch them. Finally he grows closer and closer there in a city full of warmth of people.
@@ -1034,7 +1034,7 @@
 [u1034 | 01:24:20.120-01:24:23.480 | DM] There are giant bats that patrol the skies.
 [u1035 | 01:24:24.230-01:24:30.939 | Riswynn] larger even than the creatures you fought last night, much in the harbor there, but, or whatever inlet
 [u1036 | 01:24:32.630-01:24:34.259 | DM] in the mountains.
-[u1037 | 01:24:36.440-01:24:39.720 | DM] {{I do not cross the ocean. The scare are safe}}.
+[u1037 | 01:24:36.440-01:24:39.720 | DM] They do not cross the ocean. The Skar are safe.
 [u1038 | 01:24:43.870-01:24:44.650 | Seeker] It
 [u1039 | 01:24:50.390-01:24:51.500 | Delwath] what's
 [u1040 | 01:24:58.400-01:25:01.219 | Seeker] Right? So we want to avoid
@@ -1211,7 +1211,7 @@
 [u1211 | 01:39:43.150-01:39:47.169 | Kenzo] Give up! What is he doing? What's what's what's he been up to?
 [u1212 | 01:39:47.380-01:39:54.150 | DM] He's he's hanging out in Hamri. reconnect reconnecting with his old buddy Wazir
 [u1213 | 01:39:54.370-01:40:00.649 | Kenzo] is he also? like in the illicit gatza trade. Now, is he like
-[u1214 | 01:40:02.090-01:40:09.000 | DM] he's always interested in like weird rituals and stuff. He's probably spent some time talking to the {{salt wizard phone}}.
+[u1214 | 01:40:02.090-01:40:09.000 | DM] he's always interested in like weird rituals and stuff. He's probably spent some time talking to the salt lizardfolk.
 [u1215 | 01:40:09.240-01:40:11.140 | Kenzo] Wow. sec.
 [u1216 | 01:40:16.820-01:40:25.080 | DM] but he's he's settled it, and he seems this seems like a pretty safe place to at least spend the winter not planning on traveling until
 [u1217 | 01:40:26.660-01:40:29.119 | DM] May at the soonest.
@@ -2010,7 +2010,7 @@
 [u2010 | 02:56:12.550-02:56:17.319 | DM] Well, you don't understand what it's like out here halfling.
 [u2011 | 02:56:20.850-02:56:24.289 | Delwath] Are there tales that it was better before. Sure. But
 [u2012 | 02:56:24.860-02:56:26.979 | DM] do we live in the past? No.
-[u2013 | 02:56:32.460-02:56:39.719 | Wellby] fair enough Is it safe to talk to {{when chatted with them}}? Is that
+[u2013 | 02:56:32.460-02:56:39.719 | Wellby] fair enough Is it safe to talk to Brimskarda, then? Is that
 [u2014 | 02:56:39.770-02:56:41.529 | Wellby] the dangerous proposition
 [u2015 | 02:56:46.770-02:56:49.510 | DM] they kind of work. Look at each other.
 [u2016 | 02:56:50.410-02:56:51.660 | DM] I wouldn't.

@@ -399,7 +399,7 @@
 [u0399 | 00:30:21.100-00:30:22.649 | Seeker] would appreciate that.
 [u0400 | 00:30:24.130-00:30:25.780 | Caulaus] Yes, some
 [u0401 | 00:30:26.420-00:30:28.740 | Caulaus] some scouting is uh,
-[u0402 | 00:30:28.960-00:30:31.250 | Caulaus] not her, under the circumstances,
+[u0402 | 00:30:28.960-00:30:31.250 | Caulaus] in order, under the circumstances,
 [u0403 | 00:30:34.010-00:30:35.450 | Spirala] right? If we,
 [u0404 | 00:30:36.170-00:30:39.010 | Spirala] If we could sneak up on him, I might try to blind him.
 [u0405 | 00:30:39.100-00:30:41.730 | Spirala] But Let's see how the lay of the land goes.
@@ -2255,7 +2255,7 @@
 [u2255 | 02:57:32.440-02:57:34.080 | Caulaus] guidance Here
 [u2256 | 02:57:37.610-02:57:41.060 | Raven] I am going.
 [u2257 | 02:57:41.280-02:57:46.189 | Raven] It is almost time for {{a spoil}} to return to the caves and
-[u2258 | 02:57:46.530-02:57:49.110 | Raven] {{the Internet.}}
+[u2258 | 02:57:46.530-02:57:49.110 | Raven] hibernate.
 [u2259 | 02:57:49.670-02:57:51.729 | Raven] I wouldn't want to miss that,
 [u2260 | 02:57:52.820-02:57:57.400 | Spirala] for perhaps you could be a guide for Caulaus, and he could explore Shimmersong.
 [u2261 | 02:57:58.510-02:57:59.480 | Raven] Who

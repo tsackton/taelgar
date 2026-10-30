@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 82
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-082-source-cleaned.md
 
 ## Transcript
@@ -1299,7 +1299,7 @@ Kenzo: Perfect. We'll be there.
 DM: I bet Thomas will be around.
 
 %% u0828:0-179, u0829:0-100 %%
-Kenzo: Perfect, Tim. I'll also, while I'm with Cecilia, I will get her story to inscribe on the staff for for Grishma. Okay, cool. That is fine. I just wanted to make a minute—make sure. Oh, yeah, I did get her story, right? I got her story, and I got Iskra's story last time. Okay, okay.
+Kenzo: Perfect, Tim. I'll also, while I'm with Cecilia, I will get her story to inscribe on the staff for for Bhishma. Okay, cool. That is fine. I just wanted to make a minute—make sure. Oh, yeah, I did get her story, right? I got her story, and I got Iskra's story last time. Okay, okay.
 
 %% u0830:0-8, u0831:0-18, u0832:0-88, u0833:0-111, u0834:0-13, u0835:0-36, u0836:0-72 %%
 DM: Okay, so, let's see. Wellby, are you—what else? You're you're traveling around to a couple of different halfling inns, you know, speaking to speaking to the storytellers that tend to gather at the Windward Sail at at Wendel's Inn. Also perhaps traveling out to your aunt's tavern. Just kind of spreading the word. Anything else that you are hoping to do?
@@ -1574,8 +1574,8 @@ Delwath: It is diverting.
 %% u1030:0-220 %%
 Kenzo: Aurelia, I know that you don't go to the parties. This is our first time here in Tollen. But I think you may enjoy coming to the airship, and certainly, Delwath would enjoy your company tomorrow. So, speaking for Delwath.
 
-%% u1031:0-64 %%
-Unknown: I whisper, {{Adela}}, did you—did you mention Tharandros's name?
+%% u1031:0-65 %%
+Unknown: I whisper to Delwath, did you—did you mention Tharandros's name?
 
 %% u1032:0-101, u1033:0-45, u1034:0-26 %%
 DM: Did you? Did anybody else mention Tharandros? Kenzo was the one who was like—but not this far North. I gave up the migratory life a long time ago. And I haven't looked back.
@@ -2432,8 +2432,8 @@ Delwath: But you had to give us the side quest. So, you know, the side quest—I
 %% u1744:0-7 %%
 Kenzo: I mean.
 
-%% u1745:0-98 %%
-Delwath: But to that part, {{I don't need to be higher level}} to deal with a giant living pool of acid that—
+%% u1745:0-97 %%
+Delwath: But to that part, I think we need to be higher level to deal with a giant living pool of acid that—
 
 %% u1746:0-70, u1747:0-28 %%
 DM: Easily attacked your skyship from 400 feet away. That is a good point. I mean, let's see, you know.
