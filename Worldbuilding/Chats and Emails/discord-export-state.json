@@ -3,7 +3,7 @@
   "channel_id": "1059870250440593520",
   "timezone": "America/New_York",
   "first_day": "2023-01-03",
-  "last_complete_day": "2026-10-04",
+  "last_complete_day": "2026-10-29",
   "days": {
     "2023-01-03": {
       "status": "written",
@@ -10251,6 +10251,199 @@
       "retained_count": 0,
       "notes": [],
       "reviewed_at_utc": "2026-10-05T14:57:19+00:00"
+    },
+    "2026-10-05": {
+      "status": "no-taelgar",
+      "source_count": 10,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:39+00:00"
+    },
+    "2026-10-06": {
+      "status": "no-taelgar",
+      "source_count": 2,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:39+00:00"
+    },
+    "2026-10-07": {
+      "status": "no-taelgar",
+      "source_count": 0,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:39+00:00"
+    },
+    "2026-10-08": {
+      "status": "written",
+      "source_count": 35,
+      "retained_count": 2,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-08 - Dwarven Wizard Character Premise.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:27:40+00:00"
+    },
+    "2026-10-09": {
+      "status": "no-taelgar",
+      "source_count": 3,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:40+00:00"
+    },
+    "2026-10-10": {
+      "status": "written",
+      "source_count": 23,
+      "retained_count": 15,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-10 - Dwarven Refugee Wizard and Chardon.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:27:40+00:00"
+    },
+    "2026-10-11": {
+      "status": "no-taelgar",
+      "source_count": 0,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:40+00:00"
+    },
+    "2026-10-12": {
+      "status": "no-taelgar",
+      "source_count": 0,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:40+00:00"
+    },
+    "2026-10-13": {
+      "status": "no-taelgar",
+      "source_count": 6,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:41+00:00"
+    },
+    "2026-10-14": {
+      "status": "no-taelgar",
+      "source_count": 3,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:27:41+00:00"
+    },
+    "2026-10-15": {
+      "status": "no-taelgar",
+      "source_count": 0,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:03+00:00"
+    },
+    "2026-10-16": {
+      "status": "no-taelgar",
+      "source_count": 0,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:03+00:00"
+    },
+    "2026-10-17": {
+      "status": "no-taelgar",
+      "source_count": 0,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:03+00:00"
+    },
+    "2026-10-18": {
+      "status": "no-taelgar",
+      "source_count": 56,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:04+00:00"
+    },
+    "2026-10-19": {
+      "status": "no-taelgar",
+      "source_count": 113,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:04+00:00"
+    },
+    "2026-10-20": {
+      "status": "no-taelgar",
+      "source_count": 204,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:04+00:00"
+    },
+    "2026-10-21": {
+      "status": "no-taelgar",
+      "source_count": 42,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:05+00:00"
+    },
+    "2026-10-22": {
+      "status": "written",
+      "source_count": 54,
+      "retained_count": 3,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-22 - Dwarven History and the Sundering.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:28:05+00:00"
+    },
+    "2026-10-23": {
+      "status": "written",
+      "source_count": 93,
+      "retained_count": 15,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-23 - Dwarven Kingdoms Void Mind and Elves.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:28:06+00:00"
+    },
+    "2026-10-24": {
+      "status": "written",
+      "source_count": 142,
+      "retained_count": 99,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-24 - Green Sea Regions South Cymea and the MTP.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:28:06+00:00"
+    },
+    "2026-10-25": {
+      "status": "written",
+      "source_count": 6,
+      "retained_count": 1,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-25 - Elmerca and Elven Garden Magic.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:28:07+00:00"
+    },
+    "2026-10-26": {
+      "status": "written",
+      "source_count": 41,
+      "retained_count": 7,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-26 - Elmerca Aldanor and Elven Magic.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:28:07+00:00"
+    },
+    "2026-10-27": {
+      "status": "written",
+      "source_count": 100,
+      "retained_count": 50,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-27 - Fey Kobolds and Kenku.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:28:07+00:00"
+    },
+    "2026-10-28": {
+      "status": "no-taelgar",
+      "source_count": 139,
+      "retained_count": 0,
+      "notes": [],
+      "reviewed_at_utc": "2026-10-30T11:28:08+00:00"
+    },
+    "2026-10-29": {
+      "status": "written",
+      "source_count": 119,
+      "retained_count": 36,
+      "notes": [
+        "Worldbuilding/Chats and Emails/Chats/2026-10-29 - Kobold Origins and Kenku Culture.md"
+      ],
+      "reviewed_at_utc": "2026-10-30T11:28:08+00:00"
     }
   }
 }
