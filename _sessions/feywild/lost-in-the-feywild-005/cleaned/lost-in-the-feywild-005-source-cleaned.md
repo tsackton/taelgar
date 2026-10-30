@@ -180,7 +180,7 @@
 [u0180 | 00:16:33.610-00:16:38.249 | Ayveen] Not moon, and… All the things are missing.
 [u0181 | 00:16:39.520-00:16:48.389 | Ayveen] But she's still got her gleaming armor, she's still looking like she's raring to go on this adventure.
 [u0182 | 00:16:49.180-00:16:51.310 | Ayveen] And she's ready to…
-[u0183 | 00:16:52.280-00:17:08.479 | Ayveen] keep everyone's spirits up as they figure out what is right. They will figure out what is right, and it is hard because, you know, maybe helping Lord Endless Ending would mean accidentally, corollarily helping Hulda, who we don't want to help anymore.
+[u0183 | 00:16:52.280-00:17:08.479 | Ayveen] keep everyone's spirits up as they figure out what is right. They will figure out what is right, and it is hard because, you know, maybe helping Lord Hulda would mean accidentally, corollarily helping Hulda, who we don't want to help anymore.
 [u0184 | 00:17:08.640-00:17:12.400 | Ayveen] But maybe not, and… Helping Lord who…
 [u0185 | 00:17:12.470-00:17:33.670 | Ayveen] Endless Ending would also possibly end all of these mortals being sent to this prison house to probably die here or get infected with mushrooms. Maybe we can cure the mushroom thing. That would be generally good all around, right? She doesn't know, but maybe we can do some good here. As soon as we figure out what "do some good" looks like.
 [u0186 | 00:17:33.670-00:17:34.690 | DM] And.
@@ -800,7 +800,7 @@
 [u0800 | 01:05:25.010-01:05:31.339 | DM] an animal that eats? Animals get hungry and eat? I'm sure… I don't know.
 [u0801 | 01:05:31.720-01:05:32.740 | Edric] I kill animals.
 [u0802 | 01:05:32.740-01:05:33.090 | DM] True.
-[u0803 | 01:05:33.090-01:05:35.130 | Edric] Animals that eat souls, I call monsters.
+[u0803 | 01:05:33.090-01:05:35.130 | Edric] Eat souls. I call them monsters.
 [u0804 | 01:05:35.850-01:05:39.119 | Edric] That's what this is for! He brandishes his hammer.
 [u0805 | 01:05:39.480-01:05:45.620 | DM] Yeah, that's the same thing that rabbits say about foxes.
 [u0806 | 01:05:49.440-01:05:50.040 | Tarek] E.
@@ -916,7 +916,7 @@
 [u0916 | 01:12:18.780-01:12:25.699 | Kaito Min] I mean, Kaito kind of whispers back, like, you're helping us do what?
 [u0917 | 01:12:25.820-01:12:26.690 | Kaito Min] I don't know
 [u0918 | 01:12:29.850-01:12:33.659 | Kaito Min] Is there any communication? Is it, like, bidirectional, or is it just the… can you.
-[u0919 | 01:12:33.660-01:12:34.430 | DM] by this time.
+[u0919 | 01:12:33.660-01:12:34.430 | DM] Not at this time.
 [u0920 | 01:12:34.430-01:12:35.359 | Kaito Min] Never mind, okay.
 [u0921 | 01:12:36.820-01:12:43.139 | Kaito Min] Well, it says that, they're always hungry, but they're full of dreams, so they can't eat anymore.
 [u0922 | 01:12:43.630-01:12:47.300 | Kaito Min] And instead of eating us, We're helping it.
@@ -1557,7 +1557,7 @@
 [u1557 | 01:50:24.610-01:50:27.160 | DM] Menestheus, hello!
 [u1558 | 01:50:27.550-01:50:28.180 | DM] What a fact.
 [u1559 | 01:50:28.480-01:50:29.010 | Edric] So that'.
-[u1560 | 01:50:29.010-01:50:33.510 | DM] Menestheus is screaming and bleeding, screaming uncontrollably, and…
+[u1560 | 01:50:29.010-01:50:33.510 | DM] screaming and bleeding, screaming uncontrollably, and…
 [u1561 | 01:50:33.910-01:50:35.690 | DM] Oh, bleeding uncontrollably.
 [u1562 | 01:50:36.340-01:50:37.080 | Tarek] It's not.
 [u1563 | 01:50:37.080-01:50:37.570 | Edric] Bad.
@@ -1832,7 +1832,7 @@
 [u1832 | 02:06:28.960-02:06:30.900 | Edric] Do any of the bards have healing spells.
 [u1833 | 02:06:31.270-02:06:32.260 | DM] You don't see him move.
 [u1834 | 02:06:32.390-02:06:33.060 | DM] Or breathe.
-[u1835 | 02:06:33.060-02:06:33.500 | Ayveen] Healing Word.
+[u1835 | 02:06:33.060-02:06:33.500 | Ayveen] Word.
 [u1836 | 02:06:36.660-02:06:41.649 | DM] And then, the Mushroom Man will look,
 [u1837 | 02:06:43.740-02:06:45.380 | DM] And sort of see itself…
 [u1838 | 02:06:46.720-02:06:47.400 | DM] Out.
@@ -2191,7 +2191,7 @@
 [u2191 | 02:27:37.160-02:27:38.170 | DM] And.
 [u2192 | 02:27:39.730-02:27:43.950 | DM] We gotta wake up our guy with the big… Blunt instrument.
 [u2193 | 02:27:43.970-02:27:45.449 | Tarek] They opened this door, I think.
-[u2194 | 02:27:46.320-02:27:51.630 | Edric] I can smash the door. I kind of lost track of where, why we're smashing a door, but Edric'll smash it.
+[u2194 | 02:27:46.320-02:27:51.630 | Edric] I can smash the door. I kind of lost track of where, why we're smashing a door, but sure, I'll smash it.
 [u2195 | 02:27:51.630-02:27:53.549 | Kaito Min] It's Thalestria's office.
 [u2196 | 02:27:55.340-02:27:57.330 | Edric] Sounds like a good thing to smash open.
 [u2197 | 02:27:57.330-02:27:58.990 | Tarek] Just hit it right about there.

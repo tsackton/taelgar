@@ -366,7 +366,7 @@
 [u0366 | 00:36:35.990-00:36:40.120 | Tarek] Maybe you get your head taken off if you try to leave without being summoned to the party.
 [u0367 | 00:36:40.320-00:36:47.200 | Kaito Min] Wait, wait, somebody back up to the bell and heads disappearing? What are y'all talking about? What happens… what makes heads disappear?
 [u0368 | 00:36:48.500-00:36:49.020 | DM] No, no.
-[u0369 | 00:36:49.870-00:36:51.699 | Ayveen] I honestly know what makes heads disappear.
+[u0369 | 00:36:49.870-00:36:51.699 | Ayveen] I don't actually know what makes heads disappear.
 [u0370 | 00:36:52.300-00:36:52.940 | DM] Okay.
 [u0371 | 00:36:52.940-00:36:54.089 | Tarek] I mean, Edric knows.
 [u0372 | 00:36:54.540-00:36:58.059 | Kaito Min] I like my head. Edric, can you, educate us? What's the… how do I keep my head?
@@ -419,7 +419,7 @@
 [u0419 | 00:39:24.430-00:39:35.039 | Ayveen] Have been infected with the bad smell the guards are afraid of, tried to run, in some order, have tried to run toward the root house, have been infected with the bad smell.
 [u0420 | 00:39:35.250-00:39:38.040 | Ayveen] And have lost their heads. In some order.
 [u0421 | 00:39:39.660-00:39:43.939 | Ayveen] So… I don't…
-[u0422 | 00:39:44.030-00:39:45.760 | Ayveen] I don't want to be one of those mortals.
+[u0422 | 00:39:44.030-00:39:45.760 | Ayveen] Want to be one of those mortals.
 [u0423 | 00:39:45.760-00:39:57.309 | Kaito Min] Yeah, I don't think any of us do… do we know what the nature is of this agreement? Why they're sending mortals down the road? For… in exchange for what? For what purpose?
 [u0424 | 00:39:58.790-00:39:59.810 | Kaito Min] Anybody know?
 [u0425 | 00:40:00.840-00:40:01.160 | Ayveen] if…
@@ -1497,7 +1497,7 @@
 [u1497 | 01:53:01.570-01:53:06.080 | DM] Which was also magical, well-preserved, when everything else in Dandelion House was falling apart.
 [u1498 | 01:53:08.230-01:53:09.079 | Kaito Min] What was the relationship?
 [u1499 | 01:53:09.080-01:53:09.430 | Tarek] you're gonna love.
-[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min] What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
+[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min] Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
 [u1501 | 01:53:13.940-01:53:15.940 | DM] No, it's just sort of standing in the corner.
 [u1502 | 01:53:16.090-01:53:18.200 | DM] Y'all zipped past it on the way upstairs.
 [u1503 | 01:53:21.410-01:53:23.139 | DM] There are lots of old, weird stuff in that house.
@@ -2318,7 +2318,7 @@
 [u2318 | 02:55:10.980-02:55:13.049 | DM] You don't know about brilliant numbers.
 [u2319 | 02:55:14.830-02:55:19.099 | DM] you're in for a treat. They are so incredibly beautiful.
 [u2320 | 02:55:19.100-02:55:21.670 | DM] Oh my goodness. A brilliant number.
-[u2321 | 02:55:22.400-02:55:27.109 | DM] A brilliant number is a number which is itself the product only of two other primes.
+[u2321 | 02:55:22.400-02:55:27.109 | DM] A brilliant number is a prime which is itself the product only of two other primes.
 [u2322 | 02:55:27.310-02:55:27.809 | DM] And then he.
 [u2323 | 02:55:27.810-02:55:30.680 | DM] Stares at you, expectantly. Excitedly.
 [u2324 | 02:55:31.230-02:55:32.240 | Edric] Can you be safe.
@@ -2366,7 +2366,7 @@
 [u2366 | 02:57:13.800-02:57:14.949 | Tarek] Oh, come on.
 [u2367 | 02:57:16.050-02:57:17.130 | Tarek] Did it roll?
 [u2368 | 02:57:19.250-02:57:20.050 | Tarek] Damn.
-[u2369 | 02:57:20.150-02:57:26.189 | Tarek] Let's try it again. Sleight of hand…
+[u2369 | 02:57:20.150-02:57:26.189 | Tarek] Let's try it again. Sleight of Hand… Customize beyond honey.
 [u2370 | 02:57:27.620-02:57:28.080 | DM] Pretty just.
 [u2371 | 02:57:28.080-02:57:29.169 | Tarek] Oh, here we go.
 [u2372 | 02:57:29.170-02:57:30.160 | DM] Very, that's weird.
@@ -2384,7 +2384,7 @@
 [u2384 | 02:58:23.140-02:58:27.229 | DM] And then he began speaking very quickly and slightly incomprehensibly.
 [u2385 | 02:58:27.820-02:58:43.930 | DM] On the surface of a sphere, draw a grid of four-sided polygons such that there are 89 sort of bands, from the top to the bottom, and 89 slices radiating out from the center, covering the whole surface completely in equally sized boxes. Now, onto the sphere. Overlay any map of a spherical plane
 [u2386 | 02:58:44.350-02:59:01.320 | DM] plane whose topology is essentially spheroid, and you have 7,921 locations on the surface of the sphere. Within each individual location square, draw a second 89 by 89 grid, choose any one of those locations, repeat again, depending on the level of specificity that you need, such that the
-[u2387 | 02:59:01.780-02:59:19.800 | DM] First grid encompasses a set on a sphere the size of Taelgar itself, roughly 89,000 square miles, and the second is roughly 10 square miles, and then at the third level, you're about 600 feet on a side, 600 feet on a side, and the fourth, here's the thing, here's the thing, by the time you get to the fourth.
+[u2387 | 02:59:01.780-02:59:19.800 | DM] First grid encompasses a set on a sphere the size of Taelgar itself, roughly 89,000 square miles, and the second is roughly 10 square miles, and then at the third level, you're about 600 square feet on, 600 square feet on the side, and the fourth, here's the thing, here's the thing, by the time you get to the fourth.
 [u2388 | 02:59:19.950-02:59:26.010 | DM] layer down, you're in a grid of about, and he reaches his arms out about…
 [u2389 | 02:59:26.140-02:59:33.000 | DM] Six and a half feet on a side. So… With a set of four, Two-digit number… excuse me.
 [u2390 | 02:59:33.170-02:59:39.000 | DM] He chuckles at himself, having fallen over his own numbers.
@@ -2400,7 +2400,7 @@
 [u2400 | 03:00:24.250-03:00:28.719 | Tarek] I understand all of that, but what's a planet?
 [u2401 | 03:00:31.550-03:00:32.320 | DM] the thing.
 [u2402 | 03:00:33.830-03:00:41.839 | DM] You don't actually want anyone to know particular locations, so you hide them inside of Brilliant Numbers.
-[u2403 | 03:00:43.080-03:00:47.730 | DM] Large numbers, with only two prime factors. There happens to be about…
+[u2403 | 03:00:43.080-03:00:47.730 | DM] Large primes, with only two factors. There happens to be about…
 [u2404 | 03:00:49.390-03:00:55.029 | DM] Just a shade over 7,921 of them, which…
 [u2405 | 03:00:55.090-03:00:58.050 | DM] Obviously, is… The square of…
 [u2406 | 03:00:58.070-03:01:02.599 | DM] 89, which is why we're doing an 89 by 89 grid.
@@ -2530,7 +2530,7 @@
 [u2530 | 03:09:19.960-03:09:21.309 | Kaito Min] That.
 [u2531 | 03:09:21.710-03:09:23.550 | Ayveen] the Drankorian Empire ended.
 [u2532 | 03:09:23.550-03:09:25.219 | DM] Sometime in the 1000s.
-[u2533 | 03:09:25.500-03:09:28.110 | Ayveen] I mean, I can roll a history, right?
+[u2533 | 03:09:25.500-03:09:28.110 | Ayveen] I mean, I can roll an arcana, right?
 [u2534 | 03:09:28.320-03:09:31.720 | Txarro] You probably know, you're profici- you have expertise in history.
 [u2535 | 03:09:32.860-03:09:36.979 | Edric] Yeah, you would definitely know if you have any… I mean, it's a pretty meaningful year.
 [u2536 | 03:09:37.300-03:09:39.830 | Ayveen] Plus 6 to my history, yes. I probably don't.

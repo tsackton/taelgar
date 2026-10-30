@@ -2425,7 +2425,7 @@
 [u2425 | 03:05:45.160-03:05:50.880 | DM] The, the, the… you hear occasional words shouted in Old Zimkovan, yes.
 [u2426 | 03:05:51.090-03:05:51.740 | Finnan] Okay.
 [u2427 | 03:05:51.970-03:05:56.779 | DM] Like… like, you know… Oh, bring…
-[u2428 | 03:05:58.340-03:06:01.980 | DM] bring, {{Yassin}}, right? Like,
+[u2428 | 03:05:58.340-03:06:01.980 | DM] bring, Yassin, right? Like,
 [u2429 | 03:06:02.220-03:06:05.920 | DM] And then there's something like, you know,
 [u2430 | 03:06:06.280-03:06:15.310 | DM] you hear, like, sort of Zeyfa mentioned. Like, it's very faint, right? Like, it's… but it sounds like a group of people is maybe preparing to go somewhere.
 [u2431 | 03:06:15.870-03:06:18.709 | Finnan] And which direction, roughly, is the sound coming from?
@@ -2487,7 +2487,7 @@
 [u2487 | 03:11:36.700-03:11:47.449 | DM] Finds the, finds the spirit… who, taunted the master.
 [u2488 | 03:11:48.390-03:11:52.450 | DM] It must be around somewhere. Must have come from somewhere.
 [u2489 | 03:11:54.040-03:11:55.259 | DM] Check the,
-[u2490 | 03:11:58.610-03:12:02.490 | DM] Check with, check with {{Yasem}} at the wall.
+[u2490 | 03:11:58.610-03:12:02.490 | DM] Check with, check with Yassin at the wall.
 [u2491 | 03:12:02.680-03:12:04.330 | DM] Maybe he saw something.
 [u2492 | 03:12:12.060-03:12:18.250 | DM] And they start to… I mean, they're marching across now. They're sort of muttering a little bit.
 [u2493 | 03:12:24.550-03:12:25.700 | Finnan] Okay.

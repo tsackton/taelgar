@@ -1,6 +1,6 @@
 # Dragonets — Session 1
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dragonets-001-source-cleaned.md
 
 ## Transcript
@@ -473,8 +473,8 @@ DM: Okay. Moving on, I trust you, I'mma give it some time, you all go… do what
 %% u0395:0-43, u0396:0-139, u0397:0-54 %%
 DM: Very important thing to talk about with you, Sculpit, about this duo that I think needs to happen now, because I woke up this morning, and I had a vision of myself and another dragonet that has incredible flying prowess doing this with me.
 
-%% u0398:0-141, u0399:0-19, u0400:0-19, u0401:0-130, u0402:0-133, u0403:0-97, u0404:0-5, u0405:0-31 %%
-DM: And I have an idea, and she just, like, Zeno, she just, like, pulls you in, you know, and just, like… and… this is my brother, you know Zeno. Zeno is gonna help, because… he thinks… that the best partner for me for this situation is Heska. And I did not think that was a great idea. I said that that's not smart. Because Heska, you know, he’s all this hunter guy, mysterious and everybody. But I agreed after he begged me. He begged me and said, like, he was gonna denounce me as a sister if I didn’t do it. So, because of the begging, I said, “Okay. I will do it, but only without.”
+%% u0398:0-141, u0399:0-19, u0400:0-19, u0401:0-130, u0402:0-133, u0403:0-97, u0404:0-5, u0405:0-32 %%
+DM: And I have an idea, and she just, like, Zeno, she just, like, pulls you in, you know, and just, like… and… this is my brother, you know Zeno. Zeno is gonna help, because… he thinks… that the best partner for me for this situation is Heska. And I did not think that was a great idea. I said that that's not smart. Because Heska, you know, he’s all this hunter guy, mysterious and everybody. But I agreed after he begged me. He begged me and said, like, he was gonna denounce me as a sister if I didn’t do it. So, because of the begging, I said, “Okay. I will do it, but only with him.”
 
 %% u0406:0-10 %%
 Sculpit: That's it.
@@ -2112,7 +2112,7 @@ Zeno: I'm gonna have to, like, kind of lose… melody. Crew, we're better than y
 DM: Okay, okay, on the strength, on the strength of, like, just the performance… you should get it. Yeah, you get an additional, you get an additional plus 5 on that. So, like… add a plus 5 to whatever your performance roll is. That was sick. Okay, let's roll it. That's a 25 out of the gate, so a 30 total. Wow! After, after, after you call Roska a phony…
 
 %% u1372:0-27 %%
-Heska: Like, almost a [garbled] roll.
+Heska: Like, almost a Seeker roll.
 
 %% u1373:0-36, u1374:0-134, u1375:0-69, u1376:0-169 %%
 DM: After, after you call Roska a phony, like, everybody, like, erupts, and, like, Roska… Roska just, like, looks at you, and he's like… he gets down on a knee, and he's like… he’s just like, “Game recognizes game, that’s it.” He’s like, “I’m done.” And then, like, Roska, like, comes over and gives you, like, a big hug, and he’s like, “Dude, you killed that. That was crazy. That was crazy.” And everybody is just like…
@@ -3248,8 +3248,8 @@ DM: And as you get closer, you realize that there's a figure on the ground. Lyin
 %% u2022:0-63, u2023:0-48, u2024:0-49, u2025:0-26, u2026:0-31, u2027:0-48, u2028:0-51 %%
 DM: And as you get closer to this dragonet, you realize it’s dying. And not only is it dying, it’s, like, gonna die very, very soon, that these are his last breaths. And as you get closer now, you’re now inside the dragonet. You're… you are the dragonet, and you are dying. And you're experiencing the last gasps and breaths.
 
-%% u2029:0-128, u2030:0-28, u2031:0-322 %%
-DM: And as you, the lying… as you, the dragonet, lying on the ground, dying, looking at the sky on fire, and these lights going out, you can see in the distance small little sparks start to fly out of the sky. These little… these bright points are going out, but then these streaks of light are flying around. And you see one of these streaks of light flying closer and closer and closer to you. And you know you're gonna die soon. You know any moment this could be your last breath.
+%% u2029:0-128, u2030:0-28, u2031:0-321 %%
+DM: And as you, the lying… as you, the dragonet, lying on the ground, dying, looking at the sky on fire, and these lights going out, you can see in the distance small little sparks start to fly out of the sky. These little… these bright points are going up, but then these streaks of light are flying around. And you see one of these streaks of light flying closer and closer and closer to you. And you know you're gonna die soon. You know any moment this could be your last breath.
 
 %% u2032:0-4, u2033:0-114, u2034:0-89, u2035:0-61 %%
 DM: But… as it gets closer, you feel to yourself a little bit of, “I need to stay alive, at least to see what this light is.” And the light gets closer and closer, and closer and brighter, and brighter and brighter. And finally, the light comes, and it consumes you completely.

@@ -1004,7 +1004,7 @@
 [u1004 | 01:26:01.050-01:26:01.800 | Trok] I don't know.
 [u1005 | 01:26:02.640-01:26:04.590 | DM] I think that's from one of your tattoo is.
 [u1006 | 01:26:05.940-01:26:06.930 | Trok] Oh interesting.
-[u1007 | 01:26:08.040-01:26:11.910 | DM] Where that even be yes, you do have darkvision and tremorsense.
+[u1007 | 01:26:08.040-01:26:11.910 | DM] Where that even be yes, you do have darkvision and it's under senses.
 [u1008 | 01:26:14.460-01:26:21.660 | DM] You have 120 feet of dark vision amazing so you can actually see down the shaft.
 [u1009 | 01:26:22.740-01:26:39.150 | DM] There is actually a stone like not exactly a ladder, but like stone like notches carved into the side of the shaft descending down so it's definitely climbable and it goes down, maybe 40 feet.
 [u1010 | 01:26:41.040-01:26:44.730 | DM] which would take you just about to ground level.
@@ -1045,7 +1045,7 @@
 [u1045 | 01:29:44.760-01:29:51.630 | Nerissa] Start drifting through the through the space lighting like small torches, for us to see where we're going.
 [u1046 | 01:29:52.680-01:29:55.620 | Trok] is wonderful, thank you could sell those in town, if you wanted to.
 [u1047 | 01:29:57.810-01:30:02.760 | DM] So, with the light now are you so you can you can place them up to 120 feet away.
-[u1048 | 01:30:03.690-01:30:04.950 | Nerissa] Yes, I said Thaumaturgy.
+[u1048 | 01:30:03.690-01:30:04.950 | Nerissa] Yes, I said submitted.
 [u1049 | 01:30:04.950-01:30:23.610 | DM] Okay, so so with the light now, you can see that, indeed, this is a mosaic of like glittering like multicolored gems sort of a big cavern almost with i'm like gemstone like almost like you're inside of a geode.
 [u1050 | 01:30:24.990-01:30:26.010 | DM] Is what it looks like.
 [u1051 | 01:30:26.610-01:30:31.620 | Nerissa] um because mosaic looks like that, or because their actual crystals.
@@ -2105,7 +2105,7 @@
 [u2105 | 02:49:19.230-02:49:27.390 | DM] The question is, going up off the stair first I mean Trok first we already went off the stair if you're looking down the corridor.
 [u2106 | 02:49:28.020-02:49:29.430 | Trok] Is Kaleho first.
 [u2107 | 02:49:32.040-02:49:32.670 | Ryu] Trok.
-[u2108 | 02:49:33.180-02:49:35.370 | Ryu] Trok will set off all the traps.
+[u2108 | 02:49:33.180-02:49:35.370 | Ryu] Trok Trok Trok will set off all the traps.
 [u2109 | 02:49:35.430-02:49:36.960 | Ryu] I like Kaleho first.
 [u2110 | 02:49:37.380-02:49:52.860 | Kaleho] So I will very carefully and daintily move down the stairs and as soon as I have the clearance to do a perception check, I will do a perception check to see using the light to make sure there's no traps that I can see, or anything just.
 [u2111 | 02:49:52.920-02:49:54.480 | DM] On the far in this room.
@@ -2963,7 +2963,7 @@
 [u2963 | 03:49:10.530-03:49:11.160 | DM] hammer to.
 [u2964 | 03:49:11.280-03:49:11.880 | Unknown] Free her.
 [u2965 | 03:49:12.960-03:49:13.980 | Trok] um.
-[u2966 | 03:49:16.380-03:49:23.610 | Trok] I oh I forgot about this tattoo water thing um and oh he's the Water Delike or i'm.
+[u2966 | 03:49:16.380-03:49:23.610 | Trok] I oh I forgot about this tattoo water thing um and oh he's the {{water dislike}} or i'm.
 [u2967 | 03:49:24.990-03:49:27.300 | Ryu] Thinking man, but make it in the mud.
 [u2968 | 03:49:27.960-03:49:30.180 | Trok] No it's doesn't do that it's a charm.
 [u2969 | 03:49:32.880-03:49:41.970 | Trok] It gives it speed zero I should have thought of that before alright activate a swirling tattoo on my left thigh that.
@@ -3395,7 +3395,7 @@
 [u3395 | 04:15:19.290-04:15:24.570 | DM] lying underneath the mud right now prone the sardines, having healed you.
 [u3396 | 04:15:26.370-04:15:29.640 | Trok] So I have a some kind of divine.
 [u3397 | 04:15:30.840-04:15:33.750 | Trok] blessing thing what's that called.
-[u3398 | 04:15:37.650-04:15:44.250 | Trok] favor of the hansat nope not that one Spiritual Affinity to {{Tuanesco}}.
+[u3398 | 04:15:37.650-04:15:44.250 | Trok] favor of the hansat nope not that one Spiritual Affinity to Tharzen Anzinakoa.
 [u3399 | 04:15:45.900-04:15:53.310 | Trok] Before you make a roll grant yourself advantage? I grant myself advantage on my because all I have to do is make a strength check to get out right.
 [u3400 | 04:15:54.150-04:15:57.120 | Trok] Yes, Okay, so I grant myself advantage.
 [u3401 | 04:15:57.450-04:15:58.050 | Unknown] Okay.
@@ -3564,7 +3564,7 @@
 [u3564 | 04:27:03.750-04:27:15.150 | DM] Like they're they're solid right i'm like you could lift one up but they probably weigh 15 pounds that jars are the tops are just kind of loosely placed on.
 [u3565 | 04:27:17.310-04:27:17.880 | Ryu] Use Insight.
 [u3566 | 04:27:19.440-04:27:37.110 | DM] Ah there's six of them which one do you want to open there's one with a there's like one with a plain white quartz there's one with the purple gem there's one with a like Teal green gem one with like a reddish gem one with the yellow gem, and one with a like jet black obsidian.
-[u3567 | 04:27:38.070-04:27:38.850 | Ryu] {{Open? English?}}.
+[u3567 | 04:27:38.070-04:27:38.850 | Ryu] Open the greenish?
 [u3568 | 04:27:41.220-04:27:45.000 | DM] It is filled with so.
 [u3569 | 04:27:46.050-04:27:49.320 | DM] The bottom maybe third of the.
 [u3570 | 04:27:52.650-04:27:56.640 | DM] Of the of the stone thing is filled with a.

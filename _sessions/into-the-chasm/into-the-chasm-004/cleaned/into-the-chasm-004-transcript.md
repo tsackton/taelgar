@@ -1,6 +1,6 @@
 # Into the Chasm — Session 4
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: into-the-chasm-004-source-cleaned.md
 
 ## Transcript
@@ -194,8 +194,8 @@ DM: Alright. Justas, you're wakened up.
 %% u0115:0-4, u0116:0-5 %%
 Justas: Hmm? Yeah.
 
-%% u0117:0-20 %%
-Jrain: There's nobody here.
+%% u0117:0-22 %%
+Jrain: There's somebody here.
 
 %% u0118:0-9, u0119:0-136 %%
 DM: You hear… you hear the door close [garbled]… like, you didn't hear it open, but you hear it shut. Like, you hear a noise of a door, like, shutting.
@@ -242,8 +242,8 @@ DM: You know, Finnan saw, like, these… this group of, like, 8 or 10 people mar
 %% u0150:0-5 %%
 Jrain: Okay.
 
-%% u0151:0-97 %%
-DM: It looks like Kalima is trying to be… stealthy. Kalima and this person are trying to be stealthy.
+%% u0151:0-87 %%
+DM: It looks like Kalima is trying to be… Kalima and this person are trying to be stealthy.
 
 %% u0152:0-5 %%
 Jrain: Okay.
@@ -1040,8 +1040,8 @@ DM: True.
 %% u0697:0-29 %%
 Jrain: A interplanar interface leak.
 
-%% u0698:0-55 %%
-Justas: Have you ever seen… Iskander, or anyone in the… Palace?
+%% u0698:0-52 %%
+Justas: Have you ever seen… Zeyfa, or anyone in the… Palace?
 
 %% u0699:0-4, u0700:0-4 %%
 DM: The… Yes.
@@ -3056,8 +3056,8 @@ Jrain: Okay.
 %% u1974:0-15 %%
 Finnan: I mean, so… So…
 
-%% u1975:0-31 %%
-Jrain: Jrain is gonna propose that we…
+%% u1975:0-32 %%
+Finnan: Finnan is gonna propose that we…
 
 %% u1976:0-27, u1977:0-56, u1978:0-16, u1979:0-37, u1980:0-57 %%
 Finnan: That we wait for nightfall. As soon as the stars come out, we take out the necklace, go back through… spend as little as time in the other… Well, then we have to fight orcs at night, so maybe it's…

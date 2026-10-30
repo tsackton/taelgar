@@ -1,6 +1,6 @@
 # Dragonets — Session 3
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dragonets-003-source-cleaned.md
 
 ## Transcript
@@ -5864,8 +5864,8 @@ DM: And as all of this is happening, the ship is pulsing, and, you know, you all
 %% u3072:0-4, u3073:0-12, u3074:0-42, u3075:0-22, u3076:0-4, u3077:0-10, u3078:0-83, u3079:0-31, u3080:0-16, u3081:0-64 %%
 DM: And… as the ship… The ship explodes, and as you escape with… whatever these beings… are… Who knows? It was exactly what was going on the ship, and whatever is happening in this space… You fly out now, just, kind of… feeling through… What the hell is going on with this giant ship and these beings?
 
-%% u3082:0-32, u3083:0-13, u3084:0-12, u3085:0-5, u3086:0-12, u3087:0-15, u3088:0-27, u3089:0-24, u3090:0-15 %%
-DM: And you go back to go and visit… Shai, who is… still alive… He's… in the ship… Low hit points. It's… but it's still awake. And he beckons you over. He says to you…
+%% u3082:0-32, u3083:0-14, u3084:0-12, u3085:0-5, u3086:0-12, u3087:0-15, u3088:0-27, u3089:0-24, u3090:0-15 %%
+DM: And you go back to go and visit… Aksha, who is… still alive… He's… in the ship… Low hit points. It's… but it's still awake. And he beckons you over. He says to you…
 
 %% u3091:0-27, u3092:0-39, u3093:0-25, u3094:0-9, u3095:0-31 %%
 DM: “They know that you're here. They're not gonna stop looking for you. You know what this means. You know? [garbled]… You can't stay here.”

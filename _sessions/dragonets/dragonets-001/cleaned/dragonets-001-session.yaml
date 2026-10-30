@@ -38,3 +38,51 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-001/sources/dragonets-ep01-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-001/cleaned/dragonets-001-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2203
+  issues: 1
+  artifacts:
+    original:
+      path: sources/GMT20260918-010103_Recording.transcript.vtt
+      sha256: dfb5aa90b305151ca96e1b9b3bd7bd672b8b717d65994f006ab6027574b31650
+    prepared:
+      path: cleaned/dragonets-001-source-prepared.md
+      sha256: 28fdf5fec740848bc6aa69e2f393fb9707a7f98191ebabf934f38594fccf611d
+    cleaned:
+      path: cleaned/dragonets-001-source-cleaned.md
+      sha256: 54b423f16aea1878662c35495984a17b6fe339ab8a7ca4d088ab52fdd77edb20
+    polishedMarkdown:
+      path: cleaned/dragonets-001-transcript.md
+      sha256: 273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a
+  speakerCorrections:
+  - uid: u0727
+    start: 87
+    end: 112
+    speaker: DM
+  - uid: u1147
+    start: 0
+    end: 27
+    speaker: Zeno
+  - uid: u1148
+    start: 0
+    end: 50
+    speaker: Zeno
+  - uid: u1190
+    start: 48
+    end: 148
+    speaker: Zeno
+  - uid: u1794
+    start: 20
+    end: 42
+    speaker: DM
+  - uid: u1921
+    start: 0
+    end: 26
+    speaker: Little Tony
+  - uid: u2148
+    start: 0
+    end: 25
+    speaker: DM

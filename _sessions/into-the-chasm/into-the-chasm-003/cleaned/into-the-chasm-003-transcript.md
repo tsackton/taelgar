@@ -1,6 +1,6 @@
 # Into the Chasm — Session 3
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: into-the-chasm-003-source-cleaned.md
 
 ## Transcript
@@ -4172,8 +4172,8 @@ DM: The, the, the… you hear occasional words shouted in Old Zimkovan, yes.
 %% u2426:0-5 %%
 Finnan: Okay.
 
-%% u2427:0-32, u2428:0-31, u2429:0-42, u2430:0-155 %%
-DM: Like… like, you know… oh, bring… bring, {{Yassin}}, right? Like… and then there's something like, you know, you hear, like, sort of Zeyfa mentioned. Like, it's very faint, right? Like, it's… but it sounds like a group of people is maybe preparing to go somewhere.
+%% u2427:0-32, u2428:0-27, u2429:0-42, u2430:0-155 %%
+DM: Like… like, you know… oh, bring… bring, Yassin, right? Like… and then there's something like, you know, you hear, like, sort of Zeyfa mentioned. Like, it's very faint, right? Like, it's… but it sounds like a group of people is maybe preparing to go somewhere.
 
 %% u2431:0-55 %%
 Finnan: And which direction, roughly, is the sound coming from?
@@ -4238,8 +4238,8 @@ Finnan: Yeah, I'll… I'll switch to hearing briefly.
 %% u2473:0-47, u2474:0-87, u2475:0-37, u2476:0-71, u2477:0-26, u2478:0-18, u2479:0-33, u2480:0-98, u2481:0-52, u2482:0-9, u2483:0-22, u2484:0-15, u2485:0-66 %%
 DM: They're… they say, you hear one of them saying, ‘A trickster, Zeyfa said, a trickster. Maybe… if we catch it, something new will happen.’ The other one says, it’s best not to… yeah. The other one says it’s… sorry, I’m just, it’s… it’s best not to… ‘It’s best not to question. Survival is proof.’ And the other one says, ‘Yes, wow. Some novelty in life would be nice occasionally, don’t you think?’ And the other one says, ‘Novelty!’ Like, scoffing. Like, ‘Nothing good has come of that. Survival. That’s why we’re here.’ [garbled] mutters a little bit under their breath that you can't quite hear.
 
-%% u2486:0-55, u2487:0-53, u2488:0-59, u2489:0-10, u2490:0-45, u2491:0-23, u2492:0-95 %%
-DM: You hear somebody else say, remember your orders. Find… finds the, finds the spirit… who taunted the master. It must be around somewhere. Must have come from somewhere. Check the, check with, check with {{Yasem}} at the wall. Maybe he saw something. And they start to… I mean, they're marching across now. They're sort of muttering a little bit.
+%% u2486:0-55, u2487:0-53, u2488:0-59, u2489:0-10, u2490:0-42, u2491:0-23, u2492:0-95 %%
+DM: You hear somebody else say, remember your orders. Find… finds the, finds the spirit… who taunted the master. It must be around somewhere. Must have come from somewhere. Check the, check with, check with Yassin at the wall. Maybe he saw something. And they start to… I mean, they're marching across now. They're sort of muttering a little bit.
 
 %% u2493:0-5, u2494:0-7, u2495:0-69 %%
 Finnan: Okay. I will… tell Kalima, I will ask Kalima how often people come from the palace.

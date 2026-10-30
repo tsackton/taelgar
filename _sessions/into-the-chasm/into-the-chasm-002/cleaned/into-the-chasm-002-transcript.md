@@ -1,6 +1,6 @@
 # Into the Chasm — Session 2
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: into-the-chasm-002-source-cleaned.md
 
 ## Transcript
@@ -2042,8 +2042,8 @@ Ekko: How it formed?
 %% u1171:0-23 %%
 Finnan: Where did it come from?
 
-%% u1172:0-76 %%
-Ekko: Good question. What's the, what's the canonical belief amongst the Mist Eye?
+%% u1172:0-74 %%
+Ekko: Good question. What's the, what's the canonical belief amongst the Mezhai?
 
 %% u1173:0-56, u1174:0-43, u1175:0-52, u1176:0-162, u1177:0-229 %%
 DM: I think… I think it's almost… like… People don't really… It's too mysterious, like, it's not really… There's so many stories, it's like nobody is really… there's not really a canonical, like… like, a lot of people think it's been there forever, right? It came with Taelgar, right? Like, where did anything come from? Right? Some people will say it's the oldest thing there is, right? It came from wherever… where did the mountains come from? Where did the rivers come from, right? Like, it's just been here forever. Other people think it's, like,

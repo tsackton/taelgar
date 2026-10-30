@@ -1,6 +1,6 @@
 # Lost in the Feywild — Session 5
 
-- Status: Some passages need review
+- Status: Complete
 - Source Transcript: lost-in-the-feywild-005-source-cleaned.md
 
 ## Transcript
@@ -230,8 +230,8 @@ DM: Perfect. Oh.
 %% u0175:0-7, u0176:0-84, u0177:0-47, u0178:0-38, u0179:0-25, u0180:0-42 %%
 Ayveen: Ayveen? Really wants to find the light and the joy and promote, like, the well-being of the… people who need light, and she can't figure out… what people need in this fey realm of… not time and not day and… not moon, and… all the things are missing.
 
-%% u0181:0-102, u0182:0-19, u0183:0-251, u0184:0-37, u0185:0-341 %%
-Ayveen: But she's still got her gleaming armor, she's still looking like she's raring to go on this adventure. And she's ready to… keep everyone's spirits up as they figure out what is right. They will figure out what is right, and it is hard because, you know, maybe helping Lord Endless Ending would mean accidentally, corollarily helping Hulda, who we don't want to help anymore. But maybe not, and… helping Lord who… Endless Ending would also possibly end all of these mortals being sent to this prison house to probably die here or get infected with mushrooms. Maybe we can cure the mushroom thing. That would be generally good all around, right? She doesn't know, but maybe we can do some good here. As soon as we figure out what "do some good" looks like.
+%% u0181:0-102, u0182:0-19, u0183:0-242, u0184:0-37, u0185:0-341 %%
+Ayveen: But she's still got her gleaming armor, she's still looking like she's raring to go on this adventure. And she's ready to… keep everyone's spirits up as they figure out what is right. They will figure out what is right, and it is hard because, you know, maybe helping Lord Hulda would mean accidentally, corollarily helping Hulda, who we don't want to help anymore. But maybe not, and… helping Lord who… Endless Ending would also possibly end all of these mortals being sent to this prison house to probably die here or get infected with mushrooms. Maybe we can cure the mushroom thing. That would be generally good all around, right? She doesn't know, but maybe we can do some good here. As soon as we figure out what "do some good" looks like.
 
 %% u0186:0-4 %%
 DM: And.
@@ -1262,8 +1262,8 @@ Edric: I kill animals.
 %% u0802:0-5 %%
 DM: True.
 
-%% u0803:0-40, u0804:0-50 %%
-Edric: Animals that eat souls, I call monsters. "That's what this is for!" He brandishes his hammer.
+%% u0803:0-32, u0804:0-50 %%
+Edric: Eat souls. I call them monsters. "That's what this is for!" He brandishes his hammer.
 
 %% u0805:0-57 %%
 DM: Yeah, that's the same thing that rabbits say about foxes.
@@ -1502,8 +1502,8 @@ Kaito Min: Yeah, yeah, yeah.
 %% u0915:0-68, u0916:0-69, u0917:0-12, u0918:0-83 %%
 Kaito Min: I mean, it really wants to help. It says there's a hole in the wall. I mean, Kaito kind of whispers back, like, "You're helping us do what?" I don't know… Is there any communication? Is it, like, bidirectional, or is it just the… can you…?
 
-%% u0919:0-13 %%
-DM: By this time.
+%% u0919:0-17 %%
+DM: Not at this time.
 
 %% u0920:0-17 %%
 Kaito Min: Never mind, okay.
@@ -2801,8 +2801,8 @@ DM: And while he does that, the other mushroom man… is holding Menestheus in p
 %% u1559:0-9 %%
 Edric: So that'…
 
-%% u1560:0-68, u1561:0-28 %%
-DM: Menestheus is screaming and bleeding, screaming uncontrollably, and… Oh, bleeding uncontrollably.
+%% u1560:0-54, u1561:0-28 %%
+DM: Screaming and bleeding, screaming uncontrollably, and… Oh, bleeding uncontrollably.
 
 %% u1562:0-9 %%
 Tarek: It's not…
@@ -3344,8 +3344,8 @@ Edric: Do any of the bards have healing spells?
 %% u1833:0-23, u1834:0-11 %%
 DM: You don't see him move… or breathe.
 
-%% u1835:0-13 %%
-Ayveen: Healing Word.
+%% u1835:0-5 %%
+Ayveen: Word.
 
 %% u1836:0-37, u1837:0-23, u1838:0-4, u1839:0-59, u1840:0-36, u1841:0-33, u1842:0-41 %%
 DM: And then, the Mushroom Man will look… and sort of see itself… out… outclassed and outgunned, and instead take its second hand… and reach it around Menestheus also… to do… more damage to his corpse… and to try and stuff him inside its body.
@@ -3938,8 +3938,8 @@ DM: And… We gotta wake up our guy with the big… blunt instrument.
 %% u2193:0-31 %%
 Tarek: They opened this door, I think.
 
-%% u2194:0-102 %%
-Edric: I can smash the door. I kind of lost track of where, why we're smashing a door, but Edric'll smash it.
+%% u2194:0-104 %%
+Edric: I can smash the door. I kind of lost track of where, why we're smashing a door, but sure, I'll smash it.
 
 %% u2195:0-25 %%
 Kaito Min: It's Thalestria's office.
