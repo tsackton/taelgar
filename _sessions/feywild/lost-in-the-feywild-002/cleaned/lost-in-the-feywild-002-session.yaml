@@ -42,3 +42,11 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/sources/feywild-ep02-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-speaker-stats.json
+transcriptProcessing:
+  artifacts:
+    polishedMarkdown:
+      path: cleaned/lost-in-the-feywild-002-transcript.md
+      sha256: dfd47dda452e8689bc33e91fb2d8884862c387c21c01b227791860ce9c78502e
+    cleaned:
+      path: cleaned/lost-in-the-feywild-002-source-cleaned.md
+      sha256: 9835a6496c452208f1ca52ff791ef012ffcc697dd46588ff3c2a93a222f03fe4

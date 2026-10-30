@@ -21,6 +21,7 @@ FINDING_KINDS = {'boundary', 'context', 'location', 'dateConflict'}
 YAML_TIME_FIELDS = {'drStart', 'drEnd', 'drStartTime', 'drEndTime'}
 YAML_DATE_FIELDS = YAML_TIME_FIELDS | {'realWorldDate'}
 DATE_RESULTS = {'consistent', 'conflict', 'insufficientEvidence'}
+CONFIDENCE_RATINGS = {'high', 'medium', 'low'}
 
 
 class MapError(ValueError):
@@ -123,7 +124,7 @@ def date_value(value, label):
 
 def validate(bundle, document):
     object_fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'scenes', 'contextBlocks'},
-                  {'findings', 'dateValidation'}, 'map')
+                  {'findings', 'dateValidation', 'splitConfidence'}, 'map')
     require(type(document['schemaVersion']) is int and document['schemaVersion'] == 1,
             'Unsupported scene-map version')
     require(document['sessionYaml'] == bundle['sessionYaml'], 'Map belongs to a different session YAML')
@@ -204,13 +205,23 @@ def validate(bundle, document):
         has_conflict = any(f['kind'] == 'dateConflict' for f in findings)
         require(has_conflict == (assessment['result'] == 'conflict'),
                 'Date assessment must agree with recorded dateConflict findings')
+    confidence = document.get('splitConfidence')
+    if 'splitConfidence' not in document:
+        confidence = {'rating': 'notAssessed',
+                      'reason': 'No overall split confidence recorded; structural coverage does not supply a rating.'}
+    else:
+        object_fields(confidence, {'rating', 'reason'}, set(), 'splitConfidence')
+        require(isinstance(confidence['rating'], str) and confidence['rating'] in CONFIDENCE_RATINGS,
+                'Unknown splitConfidence rating')
+        string(confidence['reason'], 'splitConfidence.reason')
     return {'coverage': 'complete', 'sourceUids': len(bundle['coverage']),
             'scenes': len(document['scenes']), 'contextBlocks': len(document['contextBlocks']),
-            'dateValidation': assessment, 'findings': notices, 'semanticReview': 'not established by validation'}
+            'dateValidation': assessment, 'splitConfidence': confidence,
+            'findings': notices, 'semanticReview': 'not established by validation'}
 
 
 def build(bundle, proposal):
-    object_fields(proposal, {'scenes', 'contextBlocks', 'dateValidation'}, {'findings'}, 'proposal')
+    object_fields(proposal, {'scenes', 'contextBlocks', 'dateValidation', 'splitConfidence'}, {'findings'}, 'proposal')
     document = {'schemaVersion': 1, 'sessionYaml': bundle['sessionYaml'],
                 'inputs': bundle['inputs'], **proposal}
     validate(bundle, document)
@@ -311,6 +322,9 @@ def preview(bundle, document):
     if date_findings:
         text.extend(['', 'Date findings:', ''])
         text.extend(finding_line(bundle, item) for item in sorted(date_findings, key=lambda f: f['severity'] != 'critical'))
+    confidence = result['splitConfidence']
+    text.extend(['', f"Overall scene-split confidence: **{confidence['rating']}** (agent assessment).",
+                 cell(confidence['reason'])])
     text.extend(['', '| Scene / context | Source UIDs | Type | Place | Time | AI summary |',
                  '| --- | --- | --- | --- | --- | --- |'])
     rows = [*document['scenes'], *document['contextBlocks']]

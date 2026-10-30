@@ -84,7 +84,8 @@ always equals source order.
 ## Implemented scene map
 
 Required envelope: `schemaVersion: 1`, `sessionYaml`, `inputs`, `scenes`,
-`contextBlocks`, and, for new/revised saves, `dateValidation`. Optional `findings`.
+`contextBlocks`, and, for new/revised saves, `dateValidation` and `splitConfidence`.
+Optional `findings`.
 `sessionYaml` is vault-relative. Inputs bind semantic YAML and source hashes;
 adding the future `interactionExtraction` output pointer does not stale the YAML
 digest, and neither do comment/formatting-only YAML changes.
@@ -101,10 +102,14 @@ digest, and neither do comment/formatting-only YAML changes.
 | `aiSummary` | No | At most 25 words; navigation aid, not replacement narrative. |
 
 Optional place/date/time values may be omitted or null. There is no scene title,
-participant list, “other NPCs,” or individual scene confidence. Meaningful moves,
-time skips and combat boundaries divide scenes; topic changes, minor mechanics,
-and jokes do not fragment a conversation. Source order may revisit an earlier
-moment. A later interaction may span several scenes.
+participant list, “other NPCs,” or individual scene confidence. Scenes map where
+and when the session takes place: continuous stays at meaningful sites and movement
+along routes. Geographic transitions and in-world time discontinuities divide
+scenes; rooms, NPCs, activity changes, and combat starting/ending do not independently
+create boundaries. Unrelated chatter and table breaks can remain inside a single
+contiguous scene range. `type` is an optional activity label, not a segmentation
+rule. Source order may revisit an earlier moment. Downstream retrieval must inspect
+individual passages and does not determine scene granularity.
 
 `contextBlocks` have `kind`, `source`, and `aiSummary` (at most 25 words). Kinds are
 `recap`, `loreDiscussion`, and `tableChatter`. Together with scenes they cover every
@@ -126,6 +131,14 @@ event. Entity occurrences can point into these blocks.
 YAML may clarify unstated dates or extend beyond recorded action. Do not truncate
 it to extracted scene dates. Legacy missing assessments display `notChecked`.
 Other findings identify boundary, contextual-framing, or location questions.
+
+`splitConfidence` contains one `rating: high | medium | low` and a brief `reason`
+for the overall scene/context division, assessed after semantic review. It covers
+site/route granularity and place/time boundaries, not individual scene scores.
+It is separate from date compatibility and place-note matching unless those
+uncertainties affect the division. Legacy omissions display `notAssessed`;
+new/revised saves require an authored assessment. Validation never infers it.
+This provisional assessment does not establish final `sceneReview` or human review.
 
 ## Implemented entity map
 

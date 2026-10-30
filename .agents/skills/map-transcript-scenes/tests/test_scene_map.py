@@ -34,6 +34,8 @@ class SceneMapTests(unittest.TestCase):
         self.bundle = self.load()
         self.originals = {p: p.read_bytes() for p in (self.yaml, self.source)}
         self.proposal = {
+            'splitConfidence': {'rating': 'high',
+                                'reason': 'The played spans and separate contextual framing have clear boundaries.'},
             'dateValidation': {'result': 'insufficientEvidence',
                                'reason': 'This recording supplies no usable calendar anchors.', 'evidence': []},
             'scenes': [
@@ -134,7 +136,8 @@ class SceneMapTests(unittest.TestCase):
                 m.validate(self.bundle, doc)
 
     def test_discussion_only_recording(self):
-        doc = m.build(self.bundle, {'dateValidation': self.proposal['dateValidation'], 'scenes': [], 'contextBlocks': [{
+        doc = m.build(self.bundle, {'dateValidation': self.proposal['dateValidation'],
+            'splitConfidence': self.proposal['splitConfidence'], 'scenes': [], 'contextBlocks': [{
             'kind': 'loreDiscussion', 'source': m.source('u0001', 'u0006'),
             'aiSummary': 'Campaign planning and historical context; no current play.'}]})
         self.assertEqual(m.validate(self.bundle, doc)['scenes'], 0)
@@ -298,6 +301,63 @@ class SceneMapTests(unittest.TestCase):
         self.assertEqual(result['dateValidation']['result'], 'insufficientEvidence')
         self.assertEqual(result['findings'], [])
         self.assertIn('**insufficientEvidence**', m.preview(self.bundle, doc))
+
+    def test_overall_confidence_roundtrips_and_previews_once(self):
+        for rating in ('high', 'medium', 'low'):
+            with self.subTest(rating=rating):
+                self.proposal['splitConfidence'] = {
+                    'rating': rating, 'reason': 'The whole partition has been assessed against place and time continuity.'}
+                path = self.bundle['mapPath']
+                expected = m.draft.sha(path.read_bytes()) if path.exists() else None
+                doc = m.save(self.bundle, self.proposal, expected)
+                self.assertEqual(m.read_map(self.bundle)['splitConfidence'], self.proposal['splitConfidence'])
+                self.assertEqual(m.validate(self.bundle, doc)['splitConfidence'], self.proposal['splitConfidence'])
+                text = m.preview(self.bundle, doc)
+                self.assertEqual(text.count('Overall scene-split confidence:'), 1)
+                self.assertLess(text.index('Overall scene-split confidence:'), text.index('| Scene / context |'))
+
+    def test_legacy_confidence_is_unassessed_but_new_saves_require_it(self):
+        doc = self.document()
+        del doc['splitConfidence']
+        self.assertEqual(m.validate(self.bundle, doc)['splitConfidence']['rating'], 'notAssessed')
+        self.assertNotIn('splitConfidence', doc)
+        self.assertIn('**notAssessed**', m.preview(self.bundle, doc))
+        proposal = copy.deepcopy(self.proposal)
+        del proposal['splitConfidence']
+        with self.assertRaisesRegex(m.MapError, 'splitConfidence'):
+            m.save(self.bundle, proposal)
+        self.assertFalse(self.bundle['mapPath'].exists())
+        raw = m.encoded(doc)
+        self.bundle['mapPath'].write_bytes(raw)
+        self.assertEqual(m.read_map(self.bundle), doc)
+        self.assertEqual(self.bundle['mapPath'].read_bytes(), raw)
+
+    def test_confidence_rejects_missing_reason_invalid_ratings_and_per_scene_scores(self):
+        for value in (None, 'high', {}, {'rating': 'high'}, {'rating': 'notAssessed', 'reason': 'Unknown.'},
+                      {'rating': 0.9, 'reason': 'Numeric.'}, {'rating': 'high', 'reason': ''},
+                      {'rating': 'high', 'reason': 'Two\nlines'},
+                      {'rating': 'high', 'reason': 'Clear.', 'status': 'humanReviewed'}):
+            with self.subTest(value=value):
+                proposal = copy.deepcopy(self.proposal)
+                proposal['splitConfidence'] = value
+                with self.assertRaises(m.MapError):
+                    m.save(self.bundle, proposal)
+                self.assertFalse(self.bundle['mapPath'].exists())
+        for key in ('confidence', 'splitConfidence'):
+            doc = self.document()
+            doc['scenes'][0][key] = 'high'
+            with self.assertRaises(m.MapError):
+                m.validate(self.bundle, doc)
+
+    def test_date_conflict_does_not_determine_split_confidence(self):
+        doc = self.document()
+        doc['findings'] = [{'kind': 'dateConflict', 'source': m.source('u0002', 'u0004'),
+                            'yamlFields': ['drStart'], 'reason': 'Explicit current date contradicts YAML.'}]
+        doc['dateValidation'] = {'result': 'conflict', 'reason': 'A date differs; the source division is clear.',
+                                 'evidence': [m.source('u0002', 'u0004')]}
+        result = m.validate(self.bundle, doc)
+        self.assertEqual(result['splitConfidence']['rating'], 'high')
+        self.assertEqual(result['dateValidation']['result'], 'conflict')
 
 
 if __name__ == '__main__':

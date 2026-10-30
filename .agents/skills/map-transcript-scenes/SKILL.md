@@ -1,12 +1,18 @@
 ---
 name: map-transcript-scenes
-description: Map a YAML-registered polished session transcript into contiguous scenes and check timeline compatibility using YAML as the calendar anchor. Preserve UID evidence, distinguish contextual discussion, and surface date conflicts or material timeline uncertainty before later entity and interaction extraction.
+description: Map where and when a session takes place from its YAML-registered polished transcript. Divide continuous source ranges by meaningful places and in-world time, preserve UID evidence, and check chronology against the session YAML.
 ---
 
 # Map Transcript Scenes
 
 Use after `process-transcript`, optionally after `prepare-interaction-transcript`.
-This stage owns both scene division and the primary evidence-based check of the
+The goal is a geographic and temporal index: where and when did the session take
+place? A scene is a continuous source span covering a stay at a meaningful place
+or movement along a route during a continuous interval of in-world time. Scene
+boundaries serve that map; NPC appearances, encounters, and narrative developments
+do not define them.
+
+This stage owns scene division and the primary evidence-based check of the
 session YAML's dates. Date validation is a required outcome of a run, even when
 individual scene dates remain unknown. It does not extract entities, interactions,
 quotes, beats, or narrative recaps. The Python helper checks structure and date
@@ -45,13 +51,10 @@ uses the existing bundle directory lock. Do not save a second review document,
 full transcript copy, or log. Present the complete scene table in the review
 handoff as described below.
 
-This first version deliberately stays independently runnable on `main`. Its scene
-records use the agreed interaction model's fields. A later integration should
-adopt these records into shared processing/final output, not create a competing
-second segmentation or quietly change the interaction branch's processing schema.
-The [pipeline/model contract](../check-session-entities/references/pipeline-model.md)
-defines the concrete v7 session model, including indexed contextual passages.
-Assisted review and final interaction generation remain unfinished.
+The map runs independently on `main`. Its fields remain compatible with the
+[pipeline/model contract](../check-session-entities/references/pipeline-model.md),
+but possible downstream entity or interaction uses do not determine scene
+granularity. No NPC transcript or encounter segmentation is required here.
 
 ## Map the complete source
 
@@ -68,13 +71,34 @@ Divide source order into played scenes and contextual blocks, accounting for
 every original UID exactly once. A short scene is fine; do not target a scene
 count or word/token budget.
 
-- Split meaningful location changes, time skips, departures/returns, and combat
-  starts/ends. A narrated journey can be one travel scene across several days;
-  split stops and distinct events actually played along the way.
-- Keep one ongoing conversation together through topic changes, brief mechanics,
-  table jokes, and interruptions. Keep a combat encounter together through turns,
-  rounds, and brief dialogue. Neither a snip nor a reading-window boundary creates
-  a scene boundary. Later interactions can span multiple scenes.
+When a place/time boundary is genuinely ambiguous at the site or route scale,
+prefer retaining a few defensible extra scenes for later merging over creating
+a broad span that will be harder to split. This is a tie-breaker, not a return to
+fine segmentation: rooms, NPCs, activities, and encounters still do not
+independently justify boundaries.
+
+- Split at meaningful geographic transitions or discontinuities in in-world time:
+  arrival at a distinct site, a substantial time skip or rest, or departure and
+  later return after intervening activity elsewhere. Explain each proposed boundary
+  in terms of place or time. Leave unsupported whereabouts or timing unknown.
+- Use places at site scale: a dungeon, tower, manor, or a continuous travel route.
+  Rooms, floors, corridors, different alleys, and positions along the same road are
+  location details within that setting. A city can contain several distinct sites;
+  sharing a city or a vault location link does not merge separate visits.
+- Preserve a continuous stay through conversations, NPC arrivals/departures,
+  demonstrations, searches, and combat. A change in speaker, topic, activity,
+  objective, or dramatic stakes alone creates no boundary. A brief character
+  detour within the site also stays inside the scene. A sustained source cut to
+  another group's distinct location or time can require a separate scene.
+- A narrated journey may span several days. Keep movement along the route together;
+  split out a sustained stop at a distinct place or a material temporal discontinuity.
+  Tactical pauses, changes of travel method, and roadside events alone do not split
+  a continuous route. A pursuit can cross nearby streets, alleys, and fields before
+  ending at a meaningful destination or shelter.
+- Unrelated chatter and table breaks stay inside the scene when play resumes the
+  same place/time span. Keep one contiguous UID range through those interruptions;
+  their length alone creates no boundary. Neither a snip nor a reading-window
+  boundary creates a scene boundary.
 - Preserve source order even when players return to an earlier moment: a played
   flashback or retroactively declared action is still play, with its own source
   range if needed. Do not reorder it into chronology or confuse it with a recap.
@@ -84,7 +108,11 @@ count or word/token budget.
   and record a short `boundary` finding if the imprecision matters. Do not edit
   the transcript to make the model easier to fill.
 
-Use separate `contextBlocks` for sustained passages outside played scenes:
+Use separate `contextBlocks` for passages outside an ongoing place/time span, such
+as opening setup or recap, postgame discussion, or standalone chatter between
+completed scenes. Keep an interruption inside a scene when that place/time span
+continues afterward; do not cut the scene into pieces to classify it separately.
+Scenes and context blocks still account for each UID exactly once, without overlap.
 
 - `recap`: recounting previously played events, not a new enactment.
 - `loreDiscussion`: postgame clarification, setting discussion, hypothetical
@@ -94,20 +122,21 @@ Use separate `contextBlocks` for sustained passages outside played scenes:
   with no meaningful setting/play content.
 
 These are accounted passages, **not blanket exclusions from later extraction**.
-In-character planning is a conversation scene, even though its proposed events
-have not happened. OOC wording alone does not make a contextual block. A brief
-clarification inside a conversation stays with it; later entity extraction must
-still distinguish a mention or hypothetical from participation. Do not fragment
-a whole exchange to isolate every aside. For inseparable mixed contextual
+In-character planning belongs to the current place/time span; proposed journeys
+do not establish visits. OOC wording and unrelated subject matter do not by themselves
+make a contextual block. Including a passage inside a scene does not make it played
+action or establish its speakers as in-world participants; later entity and
+interaction extraction must inspect its framing. For standalone mixed contextual
 material, retain it as `loreDiscussion`, not `tableChatter`.
 
 ## Scene context, vault locations, and times
 
-Require only `index` and `source` on each scene. Usually add `type` and an
-`aiSummary` of at most 25 words; fragments are welcome. These are navigation aids,
-not narrative replacements. Type is the dominant activity: `conversation`,
-`exploration`, `combat`, or `travel`. Do not infer combat from discussion of a past
-battle, or travel from a proposed trip.
+Require only `index` and `source` on each scene; emphasize supported location and
+time context. Optional `type` describes a dominant activity (`conversation`,
+`exploration`, `combat`, or `travel`); omit it when a stay mixes activities without
+a useful dominant type. Never split a place/time span to obtain a uniform type.
+An optional `aiSummary` of at most 25 words can aid navigation; fragments are
+welcome. Neither field substitutes for location/time context or requires a recap.
 
 **Strongly encourage location and time context on every played scene.** These
 fields remain optional: make an evidence-based effort to populate them during
@@ -216,7 +245,7 @@ but later stages must not promote that map to verified session chronology.
 ## Save, check, and inspect
 
 Read [the format](references/format.md). Author a proposal containing `scenes`,
-`contextBlocks`, `dateValidation`, and optionally `findings`. Prefer stdin or in-memory decisions;
+`contextBlocks`, `dateValidation`, `splitConfidence`, and optionally `findings`. Prefer stdin or in-memory decisions;
 the helper supplies source/YAML fingerprints and the manifest reference.
 
 ```bash
@@ -233,12 +262,14 @@ unrelated decisions, and supply its inspected byte hash using
 `--expect-sha256 HASH` for an intentional revision. Downstream consumers must bind
 to the map hash: changed boundaries/indexes invalidate dependent references.
 
-Perform a distinct semantic boundary pass: inspect both sides of every boundary,
-check continuity of conversations and combat, and recheck every contextual block
-against the original. Look especially for lore in closing chatter, recaps mistaken
-for encounters, future plans mistaken for travel, and named places mentioned but
-not visited. Review the scene division as a whole, not with per-scene confidence
-scores. Also check each scene for a meaningful vault location match and supported
+Perform a distinct semantic boundary pass: inspect both sides of every boundary
+and identify the geographic or temporal reason to retain it. Merge boundaries
+created only by room changes, NPCs, activity changes, or combat starting/ending.
+Recheck every contextual block against the original, retaining interruptions
+inside a continuing place/time span. Look especially for lore in closing chatter,
+recaps mistaken for current visits, future plans mistaken for travel, and named
+places mentioned but not visited. Review the division as a whole, not with
+per-scene confidence scores. Also check each scene for a meaningful vault location match and supported
 time context: add overlooked anchors, remove forced links, and distinguish
 inferred times from explicit ones. Routine absence of a suitable page or time
 anchor needs no finding; record only material uncertainty. The validator proves
@@ -246,9 +277,31 @@ source accounting and structure, not the truth of
 scene assignments, dates, or summaries. Do not claim human or automated semantic
 review from a passing validation command.
 
+## Overall split confidence
+
+After the semantic review, record one `splitConfidence` for the entire session's
+division: `rating: high | medium | low` and a brief `reason`. Assess whether the
+site/route scale, place/time boundaries, and scene-versus-context partition form
+a coherent whole. Do not rate individual scenes or average per-scene scores.
+
+- `high`: the overall division is well supported; only minor alternatives remain.
+- `medium`: the division is usable, but plausible alternative boundaries or
+  contextual framing merit selective review.
+- `low`: material source gaps or competing interpretations could substantially
+  change the division and require broader review.
+
+Explain the main basis or uncertainty, referring to relevant findings when useful.
+A few defensible extra scenes retained under the calibration tie-breaker do not
+automatically lower confidence. Keep the rating separate from `dateValidation`:
+a conflicting calendar date or unmatched place note need not weaken the split
+unless it changes where boundaries belong. Structural validation never supplies
+confidence. Older maps without this assessment display `notAssessed`; every new
+or revised save requires an authored rating and reason.
+
 ## Review presentation
 
-Lead with the session date assessment and any YAML discrepancies, then present
+Lead with the session date assessment and any YAML discrepancies, followed by
+the overall split-confidence rating and its reason. Then present
 a **compact table with one row for every scene**, in source order, using the
 scene indexes from the saved map. This table belongs in the user-facing review
 or completion report, not only in tool output or the linked JSON. Do not merge

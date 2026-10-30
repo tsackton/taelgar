@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+  "inputs": {
+    "sessionYamlDigest": "fed2833a3a461d280ab0c040c59aded201e9c74fac459644a147b05768e1fe55",
+    "sources": {
+      "transcriptProcessing.artifacts.polishedMarkdown": "37a377664a8ac8e9267c1f1a0125b49717e25ea772c78373d4d45047b8b059d5",
+      "transcriptProcessing.artifacts.cleaned": "5cac6afa6e422c06da0d0d713117482ea1bb065f90aa2515827d56e94bc1daec"
+    }
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0041",
+        "endUid": "u0190"
+      },
+      "locationDetail": "Allied camp south of the battlefield, near the stream from Heartroot Vale and the river",
+      "time": "Late afternoon through supper and the first stars",
+      "dateStart": "1749-08-12",
+      "dateEnd": "1749-08-12"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0191",
+        "endUid": "u0779"
+      },
+      "locationDetail": "Walk across the battlefield and continuous stay at the Heartroot in Heartroot Vale",
+      "time": "Nightfall under the stars, after supper",
+      "dateStart": "1749-08-12",
+      "dateEnd": "1749-08-12"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0780",
+        "endUid": "u1336"
+      },
+      "locationDetail": "Return to the allied camp, including Cateline Malras's tent and subsequent planning",
+      "time": "Same evening, still not very late",
+      "dateStart": "1749-08-12",
+      "dateEnd": "1749-08-12"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1337",
+        "endUid": "u1344"
+      },
+      "locationDetail": "Narrated Tollen downtime using Guild, Bastion, and University resources",
+      "time": "Several weeks, possibly up to a month, after the battle; travel and exact dates unstated",
+      "location": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    }
+  ],
+  "contextBlocks": [
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "kind": "tableChatter",
+      "aiSummary": "Opening setup."
+    },
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0007",
+        "endUid": "u0040"
+      },
+      "kind": "recap",
+      "aiSummary": "Aftermath of the already completed battle, framing the afternoon camp."
+    },
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1345",
+        "endUid": "u1447"
+      },
+      "kind": "loreDiscussion",
+      "aiSummary": "Postgame research requests and proposed later travel, including Orenlas; no further journey enacted."
+    },
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1448",
+        "endUid": "u1478"
+      },
+      "kind": "tableChatter",
+      "aiSummary": "Real-world travel, food, and farewells."
+    }
+  ],
+  "dateValidation": {
+    "result": "conflict",
+    "reason": "The afternoon and evening after the battle fit 1749-08-12, but the DM then narrates several weeks, possibly a month, in Tollen. The single-day drEnd does not cover that downtime; exact revised dates are unstated.",
+    "evidence": [
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0041",
+        "endUid": "u0055"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0175",
+        "endUid": "u0184"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1337",
+        "endUid": "u1344"
+      }
+    ]
+  },
+  "findings": [
+    {
+      "kind": "dateConflict",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1337",
+        "endUid": "u1344"
+      },
+      "yamlFields": [
+        "drEnd"
+      ],
+      "reason": "YAML drEnd is 1749-08-12; the closing narration enacts several weeks, possibly up to a month, of research in Tollen after the battle. No exact replacement end date is justified."
+    },
+    {
+      "kind": "context",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1359",
+        "endUid": "u1376"
+      },
+      "reason": "Orenlas is proposed as a later stop, not visited here. Historical mirror and prayer visions likewise do not relocate the party."
+    }
+  ]
+}

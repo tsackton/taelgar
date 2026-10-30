@@ -1,4 +1,4 @@
 interface:
   display_name: "Map Transcript Scenes"
-  short_description: "Map scenes and validate session YAML dates against transcript evidence"
-  default_prompt: "Use $map-transcript-scenes to map this session and check timeline compatibility using YAML as the calendar anchor. Relative chronology is sufficient; an unspoken calendar date alone is not insufficient evidence. Surface clear conflicts or material timeline uncertainty, preserve source UIDs, and keep conversations whole."
+  short_description: "Map session places and times against transcript evidence"
+  default_prompt: "Use $map-transcript-scenes to map where and when this session takes place, using meaningful sites and continuous routes, preserving source UIDs through table breaks, and checking in-world chronology against the session YAML."
