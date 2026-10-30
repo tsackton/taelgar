@@ -12,6 +12,7 @@ of the final interaction data. No new source paths or copied session metadata.
 | `scenes` | Yes | Ordered played scenes; may be empty for a discussion-only recording. |
 | `contextBlocks` | Yes | Ordered passages outside played scenes; may be empty. |
 | `dateValidation` | For new/revised maps | Agent's session-level assessment of YAML dates against transcript evidence. |
+| `splitConfidence` | For new/revised maps | One confidence rating and reason for the whole scene/context division. |
 | `findings` | No | Material boundary, context, location, or date questions with source evidence. |
 
 `inputs.sessionYamlDigest` hashes parsed YAML as sorted compact JSON (date values
@@ -26,9 +27,12 @@ semantic YAML context requires a new mapping/recheck, not editing stored hashes.
 ## Scenes
 
 Each scene requires `index` (positive integer, unique and increasing in source
-order) and `source`. Optional fields use the interaction model's names:
+order) and `source`. It indexes a continuous stay at a meaningful place or movement
+along a route, bounded by geographic or in-world temporal changes. Rooms, NPCs,
+activity changes, and combat boundaries do not independently divide scenes.
+Optional fields retain the existing schema's names:
 
-- `type`: `conversation | exploration | combat | travel`.
+- `type`: `conversation | exploration | combat | travel`; omit when no useful dominant activity exists. Never split a scene to make this uniform.
 - `location`: verified vault-relative note path, or null.
 - `locationDetail`: narrative subplace, or null.
 - `dateStart`, `dateEnd`: supported ISO in-world dates, or null.
@@ -57,9 +61,8 @@ chronology rather than mechanically copying the session's aggregate endpoints.
     "startUid": "u0013",
     "endUid": "u0137"
   },
-  "type": "conversation",
   "locationDetail": "Hunting camp on a mountain slope",
-  "aiSummary": "Delwath meets the hunters and discusses his connection to Yezali."
+  "aiSummary": "An afternoon at the hunters' mountain camp, including conversation and preparations."
 }
 ```
 
@@ -67,14 +70,21 @@ Ranges are inclusive, contiguous original UIDs in source order. The only support
 source kind is currently `transcript`. Boundaries must respect both complete UIDs
 and complete polished turns; a turn combining UIDs cannot be divided between them.
 Several turns sharing one UID stay together. No partial-UID alignment is invented.
+The range may include unrelated chatter or a table break when play resumes the
+same place/time span. Those passages stay inside the single range; no additional
+range or overlapping context block is needed. Scene membership alone does not
+classify every included passage as in-world action or dialogue.
 
 ## Context and findings
 
 A context block requires `source`, `kind` (`recap | loreDiscussion | tableChatter`),
 and `aiSummary` (at most 25 words explaining the passage's framing). These blocks
 are not final extraction exclusions. Recap and lore material remain available to
-entity mapping; even `tableChatter` is a provisional classification. Brief asides
-can remain within scenes to preserve conversational continuity.
+entity mapping; even `tableChatter` is a provisional classification. Separate
+context blocks cover material outside an ongoing place/time span. Interruptions,
+including sustained unrelated chatter and table breaks, remain within the scene
+when the same place/time span continues afterward; their length alone is not a
+boundary.
 
 The union of scenes and contextual blocks partitions the complete source without
 gaps, overlaps, or duplicate coverage. Each collection is independently ordered;
@@ -117,7 +127,8 @@ This assessment is separate from scene coverage and individual scene dates.
 An absent assessment on an older provisional map is reported as `notChecked`.
 The reader can still display that map, but the writer requires an explicit
 assessment for every new or revised map. `notChecked` cannot be authored as a
-completed assessment. No new confidence scores or per-field review objects.
+completed assessment. Date validation has no confidence score; overall split
+confidence is recorded separately.
 
 The assessment is authored by the mapping/review agent, never inferred from
 successful mechanical validation. The validator checks its shape, evidence
@@ -125,6 +136,40 @@ ranges, and consistency with recorded conflicts; it cannot prove that all date
 statements were read or that the temporal reasoning is correct. YAML values are
 resolved for display, not copied into the map. Corrected YAML changes the input
 digest and requires a fresh evidence-based date assessment.
+
+## Overall split confidence
+
+`splitConfidence` contains `rating: high | medium | low` and a nonempty, brief
+`reason` for the session's overall scene/context division. It covers site/route
+granularity, place/time boundaries, and contextual framing together, without
+per-scene or per-field scores:
+
+- `high`: the overall division is well supported, with only minor alternatives.
+- `medium`: usable division with plausible alternative boundaries or context
+  assignments needing selective review.
+- `low`: material gaps or competing interpretations may substantially change
+  the division and need broader review.
+
+The mapping agent authors this after semantic review; successful structural
+validation does not generate or establish the rating. Keep it independent of
+calendar-date accuracy and location-note matching unless those uncertainties
+affect the split. A few defensible extra scenes do not automatically reduce it.
+For example:
+
+```json
+{
+  "splitConfidence": {
+    "rating": "medium",
+    "reason": "The overnight boundaries are clear; treating the chapel and main house as separate sites is a plausible merge choice."
+  }
+}
+```
+
+New and revised saves require both fields. Legacy maps without the object remain
+readable; validation and preview report `rating: notAssessed` without adding it
+to the saved map or inferring confidence. `notAssessed` is a display fallback,
+not an authorable rating. This is an additive version-1 field; no existing maps
+are automatically migrated or re-rated.
 
 ## Reading, review, and downstream use
 
@@ -134,7 +179,8 @@ source windows. If a collapsed snip crosses a requested window, it displays
 polished text for that window instead of misleadingly assigning the entire snip
 to one scene. `validate` checks the default map or an explicit `--map PATH`.
 `preview` leads with the date assessment, current YAML date values, source links,
-and date discrepancies, then the compact scene table and remaining findings. It
+and date discrepancies, followed by overall split confidence and its reason,
+then the compact scene table and remaining findings. It
 prints to stdout and persists no review document. The user-facing handoff follows
 the skill's **Review presentation** section: one row per saved scene with place
 and date/time context, even when some values are unknown; AI summaries are optional.
@@ -147,11 +193,10 @@ to reject inputs changed since reading began. An existing file requires its actu
 `--expect-sha256` value, including when revising after a changed input. The writer checks all inputs again under the
 shared directory lock and protects sources, symlinks, and hard links.
 
-Entity mapping reuses these indexes/ranges and retains whether an
-occurrence comes from a scene or contextual discussion. Interaction extraction
-should adopt this scene division, correcting specific boundaries when evidence
-requires it. It must inspect source context before inferring presence, quotations,
-events, or exclusions. The [v7 session model](../../check-session-entities/references/pipeline-model.md)
-and read-only projection preserve these scenes and give context blocks their own
-indexes. Integration with `session-processing-data.json`, YAML output registration,
-assisted review, and final interaction generation is subsequent work.
+Existing consumers can reuse these indexes/ranges and retain contextual framing.
+They must inspect individual passages before inferring presence, quotations,
+events, or exclusions; a scene can include multiple activities and unrelated table
+discussion. Downstream NPC or interaction retrieval does not determine these
+geographic and temporal boundaries. The [v7 session model](../../check-session-entities/references/pipeline-model.md)
+and read-only projection preserve the records and give context blocks their own
+indexes. No schema migration or downstream output generation is part of mapping.

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+  "inputs": {
+    "sessionYamlDigest": "f12f30bd47f0cbc02f39a55e81f631409d4d1911c326ca9093ea347aabfd9034",
+    "sources": {
+      "transcriptProcessing.artifacts.polishedMarkdown": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a",
+      "transcriptProcessing.artifacts.cleaned": "8eb74198145d80988e9f2b12d2cb64e081a7e722bc6733db3e0fa5759db63978"
+    }
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0204",
+        "endUid": "u0384"
+      },
+      "location": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Promontory.md",
+      "locationDetail": "Bluff before the freestanding door into the 27th House",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "time": "Twilight at the door",
+      "aiSummary": "The party prepares on the bluff, then Menestheus opens the freestanding door."
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0385",
+        "endUid": "u1403"
+      },
+      "location": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "locationDetail": "Entry and rotating interior rooms, ending with a long rest in the chapel",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-06",
+      "time": "After twilight entry; exploration followed by an eight-hour long rest",
+      "aiSummary": "Exploring the rotating house, the party studies a listening journal and eventually takes a long rest in the chapel."
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1404",
+        "endUid": "u2108"
+      },
+      "location": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "locationDetail": "Chapel after rest, further listening rooms, and Kallipseis's fungal laboratory in room 18",
+      "dateStart": "1740-10-06",
+      "dateEnd": "1740-10-06",
+      "time": "After the eight-hour long rest; exact hour unknown",
+      "aiSummary": "Further exploration leads to Kallipseis's laboratory, where she discusses the prison, infection, golems, and possible exits."
+    }
+  ],
+  "contextBlocks": [
+    {
+      "kind": "recap",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0001",
+        "endUid": "u0203"
+      },
+      "aiSummary": "Opening recap and clarifications of earlier play, the bargain, Menestheus, and the party's reasons to enter the house."
+    },
+    {
+      "kind": "loreDiscussion",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2109",
+        "endUid": "u2522"
+      },
+      "aiSummary": "Postgame debrief explains the rotating house, discusses puzzle design, revisits fungal-infection clues, and references other campaigns."
+    },
+    {
+      "kind": "tableChatter",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2523",
+        "endUid": "u2542"
+      },
+      "aiSummary": "Closing logistics, next week's game, session notes, a proposed maze simulator, and goodnights."
+    }
+  ],
+  "dateValidation": {
+    "result": "consistent",
+    "reason": "Using YAML as the calendar anchor, twilight entry on October 5, continuous exploration, and an explicit eight-hour long rest followed by resumed play fit October 5-6. No contradictory current date or further overnight transition appears; exact hours remain unknown.",
+    "evidence": [
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0204",
+        "endUid": "u0213"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1383",
+        "endUid": "u1412"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2094",
+        "endUid": "u2147"
+      }
+    ]
+  }
+}

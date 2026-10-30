@@ -1,0 +1,319 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+  "inputs": {
+    "sessionYamlDigest": "f0655b187fab359e68fc37e98286c37fd7243a67a05a47909db76f057e83c1a7",
+    "sources": {
+      "transcriptProcessing.artifacts.polishedMarkdown": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9",
+      "transcriptProcessing.artifacts.cleaned": "6c8c0f97aba1cbc7427e2d463417c1882c6bddabc632573779bfc50fc7a61f19"
+    }
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0012",
+        "endUid": "u0347"
+      },
+      "locationDetail": "Ryu's watchtower, deck and entrance",
+      "dateStart": "1747-11-08",
+      "dateEnd": "1747-11-08",
+      "time": "Late morning, explicitly stated",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/North Cliffs.md",
+      "type": "conversation"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0348",
+        "endUid": "u0449"
+      },
+      "locationDetail": "Approach to and visit inside Nerissa's neighboring tower",
+      "dateStart": "1747-11-08",
+      "dateEnd": "1747-11-08",
+      "time": "Later that morning; carried from the late-morning reunion",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/North Cliffs.md",
+      "type": "conversation"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0450",
+        "endUid": "u0453"
+      },
+      "locationDetail": "Town preparations, horse care, and overnight delay before departure",
+      "dateStart": "1747-11-08",
+      "dateEnd": "1747-11-09",
+      "time": "Later on the first day through early next morning",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md"
+    },
+    {
+      "index": 4,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0454",
+        "endUid": "u0495"
+      },
+      "locationDetail": "Coastal sailing route from Hamri, past the Splinters and barrier islands, approaching Eskorola",
+      "dateStart": "1747-11-09",
+      "dateEnd": "1747-11-09",
+      "time": "Early morning departure; five or six hours sailing into midday or early afternoon",
+      "type": "travel"
+    },
+    {
+      "index": 5,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0496",
+        "endUid": "u0713"
+      },
+      "locationDetail": "Dock, communal fireside building, then canoe boarding area",
+      "dateStart": "1747-11-09",
+      "dateEnd": "1747-11-09",
+      "time": "Midday or early afternoon, inferred after the five-to-six-hour sail",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Eskorola.md",
+      "type": "conversation"
+    },
+    {
+      "index": 6,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0714",
+        "endUid": "u0720"
+      },
+      "locationDetail": "Canoe route from Eskorola to the marsh side of a barrier island attack site",
+      "dateStart": "1747-11-09",
+      "dateEnd": "1747-11-09",
+      "time": "Afternoon, after the village conversation",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola.md",
+      "type": "travel"
+    },
+    {
+      "index": 7,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0721",
+        "endUid": "u0933"
+      },
+      "locationDetail": "Marsh-side attack site on the barrier island; waiting for Blu and discussing the evidence",
+      "dateStart": "1747-11-09",
+      "dateEnd": "1747-11-09",
+      "time": "Afternoon through explicit sunset; Blu returns as the sun sinks",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola.md"
+    },
+    {
+      "index": 8,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0934",
+        "endUid": "u0936"
+      },
+      "locationDetail": "Village lodgings and unsuccessful gatza ceremony",
+      "dateStart": "1747-11-09",
+      "dateEnd": "1747-11-10",
+      "time": "Evening and overnight rest",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Eskorola.md"
+    },
+    {
+      "index": 9,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0937",
+        "endUid": "u1045"
+      },
+      "locationDetail": "Village breakfast and preparations to take a canoe north",
+      "dateStart": "1747-11-10",
+      "dateEnd": "1747-11-10",
+      "time": "Break of dawn and early morning, explicitly stated",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Eskorola.md"
+    },
+    {
+      "index": 10,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1046",
+        "endUid": "u1311"
+      },
+      "locationDetail": "Northbound canoe route through the torn marsh channel; remote scouting by Blu/Turk",
+      "dateStart": "1747-11-10",
+      "dateEnd": "1747-11-10",
+      "time": "Morning; a couple of hours paddling, followed by further approach and twenty or thirty minutes",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola.md",
+      "type": "travel"
+    },
+    {
+      "index": 11,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1312",
+        "endUid": "u3120"
+      },
+      "locationDetail": "Hidden lair: mist-covered entrance pool, vegetation dome, interior pool and beach",
+      "dateStart": "1747-11-10",
+      "dateEnd": "1747-11-10",
+      "time": "Later that morning, inferred from the continuous dawn departure and approach",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola.md"
+    },
+    {
+      "index": 12,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u3121",
+        "endUid": "u3147"
+      },
+      "locationDetail": "Return route to Eskorola on Chaessenth",
+      "dateStart": "1747-11-10",
+      "dateEnd": "1747-11-10",
+      "time": "After the lair encounter; duration unstated",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola.md",
+      "type": "travel"
+    },
+    {
+      "index": 13,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u3148",
+        "endUid": "u3183"
+      },
+      "locationDetail": "Village arrival, explanation to the lizardfolk, and farewell to Chaessenth and Blu",
+      "dateStart": "1747-11-10",
+      "dateEnd": "1747-11-10",
+      "time": "After the ride back from the lair",
+      "location": "Gazetteer/Northwest Coast/Mawar Confederacy/Eskorola.md"
+    },
+    {
+      "index": 14,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u3184",
+        "endUid": "u3188"
+      },
+      "locationDetail": "Closing return to town; probably Hamri, destination not explicitly named",
+      "dateStart": "1747-11-10",
+      "dateEnd": "1747-11-10",
+      "time": "Later, after the Eskorola farewell; return duration unstated",
+      "type": "travel"
+    }
+  ],
+  "contextBlocks": [
+    {
+      "kind": "loreDiscussion",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "aiSummary": "Opening discussion compares bard spells and a previously played character before this session begins."
+    },
+    {
+      "kind": "tableChatter",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u3189",
+        "endUid": "u3192"
+      },
+      "aiSummary": "The DM closes the session because it is late; final table reactions."
+    }
+  ],
+  "dateValidation": {
+    "result": "conflict",
+    "reason": "Play includes two successive overnight transitions, but YAML spans only November 8 morning to November 9 afternoon. Retaining drStart places dawn/lair play on November 10. The final afternoon endpoint is not independently established.",
+    "evidence": [
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0045",
+        "endUid": "u0049"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0450",
+        "endUid": "u0461"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0928",
+        "endUid": "u0939"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2657",
+        "endUid": "u2660"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u3184",
+        "endUid": "u3192"
+      }
+    ]
+  },
+  "findings": [
+    {
+      "kind": "dateConflict",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0450",
+        "endUid": "u0939"
+      },
+      "yamlFields": [
+        "drStart",
+        "drEnd"
+      ],
+      "reason": "YAML 1747-11-08 through 1747-11-09 allows one overnight. Departure is explicitly next morning at u0450-u0453, followed by sunset, another night of rest, and dawn at u0930-u0939. If drStart remains November 8, the final played day is at least November 10; alternatively the opening date needs review. No YAML correction is selected."
+    },
+    {
+      "kind": "boundary",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0450",
+        "endUid": "u0457"
+      },
+      "reason": "The complete u0450-u0453 polished turn combines town preparations, the overnight delay, and the following morning. It remains one short span; the sailing route starts at the next safe turn boundary, u0454."
+    },
+    {
+      "kind": "boundary",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0714",
+        "endUid": "u0723"
+      },
+      "reason": "The complete u0714-u0720 polished turn combines the canoe journey and landing at the attack site. The sustained site stay begins at the next safe boundary, u0721; the arrival wording remains in the preceding travel scene."
+    },
+    {
+      "kind": "location",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u3184",
+        "endUid": "u3188"
+      },
+      "reason": "The closing return is only called a return to town. Hamri is likely given the contemplated report to Wazir, but the destination and elapsed journey are unstated; no definite location link or exact time is assigned."
+    }
+  ]
+}

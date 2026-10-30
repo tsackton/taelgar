@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+  "inputs": {
+    "sessionYamlDigest": "07c0ab8157087dec34b2a7746ec19783b00c7f8564b211faa5cddf4202423e09",
+    "sources": {
+      "transcriptProcessing.artifacts.polishedMarkdown": "dfd47dda452e8689bc33e91fb2d8884862c387c21c01b227791860ce9c78502e",
+      "transcriptProcessing.artifacts.cleaned": "9835a6496c452208f1ca52ff791ef012ffcc697dd46588ff3c2a93a222f03fe4"
+    }
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0066",
+        "endUid": "u0197"
+      },
+      "location": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Dandelion Root Portal.md",
+      "locationDetail": "Root passage, bone-like antechamber, and stairs to the Feywild exit",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "time": "After the pre-dawn departure recounted in the recap; crossing duration unstated"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0198",
+        "endUid": "u0964"
+      },
+      "location": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Kingdom.md",
+      "locationDetail": "Ruined portal house and continuous road toward the manor, including roadside bodies, pyre, hedge, and scouting",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "time": "Fixed twilight, initially described as half an hour after sunset; roughly an hour's approach with pauses"
+    },
+    {
+      "index": 3,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0965",
+        "endUid": "u2336"
+      },
+      "location": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Lord Endless Ending's Manor.md",
+      "locationDetail": "Estate gate, lawns, patios, ballroom, library, and bar; brief step back onto the road",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-05",
+      "time": "Same fixed twilight; after at least an hour in the Feywild, through the clock striking zero"
+    }
+  ],
+  "contextBlocks": [
+    {
+      "kind": "tableChatter",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0001",
+        "endUid": "u0014"
+      },
+      "aiSummary": "Opening music and technical setup."
+    },
+    {
+      "kind": "recap",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0015",
+        "endUid": "u0065"
+      },
+      "aiSummary": "The DM recaps the commission, Dandelion House, pre-dawn departure, and entry into the root passage."
+    },
+    {
+      "kind": "loreDiscussion",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2337",
+        "endUid": "u2384"
+      },
+      "aiSummary": "Closing discussion considers the treaty, binding bargains, and next session; no further visit or journey is enacted."
+    }
+  ],
+  "dateValidation": {
+    "result": "consistent",
+    "reason": "Continuous passage, road approach, and manor visit fit the YAML's single date. The DM explicitly identifies unmoving twilight after at least an hour; guests' centuries and repeated party moments are lore, not elapsed party travel.",
+    "evidence": [
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0198",
+        "endUid": "u0215"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0504",
+        "endUid": "u0507"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1052",
+        "endUid": "u1061"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1418",
+        "endUid": "u1438"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2312",
+        "endUid": "u2336"
+      }
+    ]
+  },
+  "findings": [
+    {
+      "kind": "context",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1052",
+        "endUid": "u1061"
+      },
+      "reason": "Sunset remains stationary after at least an hour in the Feywild. Twilight is local environmental context, not an elapsed-day marker; the YAML date anchors the party's continuous visit."
+    },
+    {
+      "kind": "boundary",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1453",
+        "endUid": "u1470"
+      },
+      "reason": "Edric steps about ten paces back to the gate and briefly onto the road before immediately returning. This tests the site's boundary but does not begin a separate visit."
+    }
+  ]
+}

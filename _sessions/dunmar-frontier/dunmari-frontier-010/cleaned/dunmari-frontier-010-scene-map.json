@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+  "inputs": {
+    "sessionYamlDigest": "1c529ecea863e85c14d88bc07945581e0c5b499d54b7c30d2d06846a8cbd1550",
+    "sources": {
+      "transcriptProcessing.artifacts.polishedMarkdown": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4",
+      "transcriptProcessing.artifacts.cleaned": "40b5ec26b2d9874bf178bf9c5324ee32b988a087dd68e28ba4defb75763e2242"
+    }
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0001",
+        "endUid": "u0145"
+      },
+      "locationDetail": "Locked exit from the dwarven outpost and the underground passage toward Raven's Hold, ending at the ascent",
+      "dateStart": "1748-04-12",
+      "dateEnd": "1748-04-12",
+      "time": "Afternoon, before the late-afternoon scouting of the fort"
+    },
+    {
+      "index": 2,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0146",
+        "endUid": "u2867"
+      },
+      "location": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+      "locationDetail": "Entire fort visit: underground storerooms and prison, lookout passages, linked towers and their floors; ending in the secured tower",
+      "dateStart": "1748-04-12",
+      "dateEnd": "1748-04-12",
+      "time": "Late afternoon through sunset to about 7 p.m.; includes an hour watching and resting"
+    }
+  ],
+  "contextBlocks": [
+    {
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2868",
+        "endUid": "u2875"
+      },
+      "kind": "loreDiscussion",
+      "aiSummary": "Closing roleplay-context request, possible further rest, and scheduling; no additional rest or departure enacted."
+    }
+  ],
+  "dateValidation": {
+    "result": "consistent",
+    "reason": "The continuous approach and fort visit progress from late afternoon through a one-hour watch at sunset to about 7 p.m., compatible with the single-day YAML anchor.",
+    "evidence": [
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0861",
+        "endUid": "u0871"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1437",
+        "endUid": "u1454"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2849",
+        "endUid": "u2850"
+      }
+    ]
+  },
+  "findings": [
+    {
+      "kind": "boundary",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1437",
+        "endUid": "u1471"
+      },
+      "reason": "The hour-long short rest is spent continuously watching the same fort; narrated observations continue throughout, so it does not divide the visit."
+    }
+  ]
+}

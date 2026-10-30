@@ -1,0 +1,97 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+  "inputs": {
+    "sessionYamlDigest": "7e52de64e65717be44f65bfb7c8627835baa03c682755643df2d82e5fd80a3c2",
+    "sources": {
+      "transcriptProcessing.artifacts.polishedMarkdown": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647",
+      "transcriptProcessing.artifacts.cleaned": "bec65c358fd0fdd80cb1a3414c11822963809a7630bfb63b4f79425af5102d1d"
+    }
+  },
+  "scenes": [
+    {
+      "index": 1,
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0084",
+        "endUid": "u2241"
+      },
+      "location": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Labyrinth.md",
+      "locationDetail": "Arrival through the white storm and the floating entrance platform, including immediate bridges and edges; snow tunnels only scouted",
+      "time": "After a storm around 3 p.m.; continuous afternoon stay with a short rest credited during conversation"
+    }
+  ],
+  "contextBlocks": [
+    {
+      "kind": "loreDiscussion",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0001",
+        "endUid": "u0083"
+      },
+      "aiSummary": "Opening table setup and historical framing; the DM explicitly sets the current date to January 22 before play begins."
+    },
+    {
+      "kind": "tableChatter",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2242",
+        "endUid": "u2254"
+      },
+      "aiSummary": "The group stops before entering the snow tunnels and discusses scheduling and the session."
+    }
+  ],
+  "dateValidation": {
+    "result": "conflict",
+    "reason": "The DM explicitly sets the current date to January 22, 1730, whereas both YAML endpoints are January 25. Continuous afternoon play and a credited short rest do not account for three days.",
+    "evidence": [
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0055",
+        "endUid": "u0062"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0348",
+        "endUid": "u0349"
+      },
+      {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1916",
+        "endUid": "u1920"
+      }
+    ]
+  },
+  "findings": [
+    {
+      "kind": "dateConflict",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0055",
+        "endUid": "u0062"
+      },
+      "yamlFields": [
+        "drStart",
+        "drEnd"
+      ],
+      "reason": "The DM says it is now January 22 after narrating January 8, 1730. YAML drStart and drEnd both give 1730-01-25. Neither speech nor YAML is corrected here."
+    },
+    {
+      "kind": "boundary",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1916",
+        "endUid": "u1920"
+      },
+      "reason": "The DM credits a short rest for time already spent talking. This is continuous play at the same platform rather than a newly narrated time skip, so it remains one scene."
+    }
+  ]
+}
