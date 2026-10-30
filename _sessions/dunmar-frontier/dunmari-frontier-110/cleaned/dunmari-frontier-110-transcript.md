@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 110
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-110-source-cleaned.md
 
 ## Transcript
