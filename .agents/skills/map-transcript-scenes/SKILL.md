@@ -42,7 +42,8 @@ canonical session/source registry. Preserve all source files, the reduction draf
 YAML, existing processing files, and final extraction. The helper may create a
 temporary file beside the map for an atomic write, removing it afterwards; it
 uses the existing bundle directory lock. Do not save a second review document,
-full transcript copy, or log. Render the compact table on demand.
+full transcript copy, or log. Present the complete scene table in the review
+handoff as described below.
 
 This first version deliberately stays independently runnable on `main`. Its scene
 records use the agreed interaction model's fields. A later integration should
@@ -100,7 +101,7 @@ still distinguish a mention or hypothetical from participation. Do not fragment
 a whole exchange to isolate every aside. For inseparable mixed contextual
 material, retain it as `loreDiscussion`, not `tableChatter`.
 
-## Minimal scene context
+## Scene context, vault locations, and times
 
 Require only `index` and `source` on each scene. Usually add `type` and an
 `aiSummary` of at most 25 words; fragments are welcome. These are navigation aids,
@@ -108,16 +109,42 @@ not narrative replacements. Type is the dominant activity: `conversation`,
 `exploration`, `combat`, or `travel`. Do not infer combat from discussion of a past
 battle, or travel from a proposed trip.
 
-Optional `location` is a verified vault-relative note path, including `.md`.
-Search filenames/aliases and read the candidate before linking. Do not infer a
-visit from a mentioned place. `locationDetail` is the narrative subplace, such as
-“hunting camp on the mountain slope”; it can stand alone while the vault anchor
-is unknown. Omit uncertain anchors rather than inventing notes or forcing matches.
-Entity matching and a reviewed session location list belong to subsequent stages.
+**Strongly encourage location and time context on every played scene.** These
+fields remain optional: make an evidence-based effort to populate them during
+mapping, rather than leaving the work to a later stage or treating a complete
+table as a reason to guess. Missing values do not block saving a map.
+
+`location` is a verified vault-relative note path, including `.md`. Search
+filenames, names, and aliases and read the candidate before linking. Choose a
+page that meaningfully identifies where the scene takes place. A room within a
+documented fortress can link to that fortress, with the room in `locationDetail`.
+A nearby fortress does not automatically cover the surrounding valley or bridge;
+nor does a continent or mountain range become a useful match simply because it
+contains the scene. Use a regional page when the region itself meaningfully
+describes the scene's setting, not as a fallback to fill the field. Do not infer
+a visit from a mentioned place.
+
+`locationDetail` describes the actual subplace, such as “hunting camp on the
+mountain slope”. Provide it when useful, including when no suitable vault page
+exists. Leave `location` omitted or null for an unnamed campsite or unmatched
+place; do not invent a note, force a broad link, or request note creation merely
+to complete the map. Full entity matching and a reviewed session location list
+belong to subsequent stages, but supported scene-location links belong here.
 
 Optional `dateStart`, `dateEnd`, and `time` describe the played moment. Use explicit
-source dates or defensible relative chronology. Do not stamp every scene with the
-session start/end, equate recording time with game time, or fill unexplained days.
+source dates or defensible relative chronology. Actively carry supported time
+anchors through continuous play: “morning, after breakfast”, “late morning”,
+“after the battle”, or “afternoon to evening” can be useful without an exact
+clock time. State broad or relative estimates as such and widen them when elapsed
+time is uncertain. Do not assign times by evenly dividing the session or by
+recording timestamps. An exact hour requires source support.
+
+Use YAML as the calendar anchor and the transcript to place each scene within it.
+A compatible single-day session with continuous play can support the same date
+on several scenes even when the date is not spoken. For a longer span, assign
+dates only where transitions or other evidence locate the scenes; do not stamp
+every scene with the session endpoints or fill unexplained days. A session-level
+date check does not replace adding supported scene dates and times.
 The YAML may extend beyond recorded play or clarify an unstated date. That is not
 a contradiction. A clear conflicting date gets a `dateConflict` finding with the
 source range, affected YAML fields, and a short explanation; do not change YAML
@@ -211,14 +238,49 @@ check continuity of conversations and combat, and recheck every contextual block
 against the original. Look especially for lore in closing chatter, recaps mistaken
 for encounters, future plans mistaken for travel, and named places mentioned but
 not visited. Review the scene division as a whole, not with per-scene confidence
-scores. The validator proves source accounting and structure, not the truth of
+scores. Also check each scene for a meaningful vault location match and supported
+time context: add overlooked anchors, remove forced links, and distinguish
+inferred times from explicit ones. Routine absence of a suitable page or time
+anchor needs no finding; record only material uncertainty. The validator proves
+source accounting and structure, not the truth of
 scene assignments, dates, or summaries. Do not claim human or automated semantic
 review from a passing validation command.
 
-Hand off the date assessment and YAML discrepancies first, followed by the compact
-table, map path, other substantive findings, and review actually performed.
-Do not require routine human approval of every scene; unresolved
-boundaries can remain findings for selective review. Do not run entity mapping or
+## Review presentation
+
+Lead with the session date assessment and any YAML discrepancies, then present
+a **compact table with one row for every scene**, in source order, using the
+scene indexes from the saved map. This table belongs in the user-facing review
+or completion report, not only in tool output or the linked JSON. Do not merge
+several scenes into a narrative chunk, a range such as “Scenes 3–7”, or a single
+row because they share a place, time, or activity. “Compact” means concise cells,
+not fewer scenes. Include all scene types, including conversations and travel.
+
+The table must show **Scene**, **Place**, and date/time context for each row.
+Date and time may share a **Date/Time** column or use separate columns. When all
+played scenes occur on one supported date, state that date once above the table
+and use a **Time** column; do not repeat the same date in every row. For sessions
+spanning multiple dates, show each scene's supported date or date range alongside
+its time, preserving source order.
+An **AI summary** column is optional; scene type and source UID ranges can also
+be included when useful. In Place, show the meaningful vault location link when
+present and the specific `locationDetail` when available; a descriptive place
+without a vault match stays unlinked. Use the recorded scene dates and narrative
+times, preserving ranges and uncertainty. Display unavailable values as
+“Unknown” or an em dash; required presentation columns do not make the underlying
+fields mandatory or authorize filling them by guesswork.
+
+Keep contextual blocks visibly distinct from scenes, either as clearly labeled
+rows interleaved in source order or in a separate compact table. Do not count
+them as played scenes. Before sending, compare the displayed scene indexes and
+row count with the saved map so every scene appears exactly once. For a long
+map, split the table into consecutive parts while preserving every row; a prose
+overview or artifact link may supplement the table but does not replace it.
+
+Follow the table with the map path, other substantive findings, and the review
+actually performed. This is a presentation requirement, not a requirement to
+obtain approval for every scene. Unresolved boundaries can remain findings for
+selective review. Do not run entity mapping or
 final session generation unless requested.
 
 ## Maintenance checks
