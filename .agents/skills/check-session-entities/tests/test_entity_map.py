@@ -29,7 +29,7 @@ class EntityMapTests(unittest.TestCase):
         e.scenes.save(f.bundle, f.proposal)
         self.note = f.vault / 'People/Grash.md'
         self.note.parent.mkdir()
-        self.note.write_text('---\nname: Grash\n---\n# Grash\nA camp leader.\n')
+        self.note.write_text('---\nname: Grash\n---\n# Grash\nA camp leader.\n', encoding='utf-8', newline='\n')
         self.bundle = self.load()
         self.proposal = {'entities': [{
             'id': 'e001', 'kind': 'npc', 'label': 'Grash', 'note': 'People/Grash.md',
@@ -94,7 +94,7 @@ class EntityMapTests(unittest.TestCase):
     def test_source_and_scene_changes_invalidate_review(self):
         doc = self.document()
         scene_path = self.bundle['mapPath']
-        scene_path.write_text(scene_path.read_text() + '\n')
+        scene_path.write_text(scene_path.read_text(encoding='utf-8') + '\n', encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(ValueError, 'inputs changed'):
             e.validate(self.load(), doc)
         with self.assertRaisesRegex(ValueError, 'Scene map changed'):
@@ -102,7 +102,7 @@ class EntityMapTests(unittest.TestCase):
 
     def test_note_changed_after_read_invalidates_review_and_save(self):
         doc = self.document()
-        self.note.write_text(self.note.read_text() + 'Different identity.\n')
+        self.note.write_text(self.note.read_text(encoding='utf-8') + 'Different identity.\n', encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(ValueError, 'inputs changed'):
             e.validate(self.load(), doc)
         with self.assertRaisesRegex(ValueError, 'evidence changed'):

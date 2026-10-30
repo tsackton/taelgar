@@ -11,7 +11,7 @@ import argparse
 import copy
 import html
 import json
-from pathlib import Path
+from pathlib import Path, PurePosixPath, PureWindowsPath
 import re
 import uuid
 import yaml
@@ -60,15 +60,16 @@ def local_reference(root, reference, directory):
         return None
     p = Path(reference)
     # Copied bundles must never follow old absolute paths back into the vault.
-    if not p.is_absolute():
+    foreign = PureWindowsPath(reference) if PureWindowsPath(reference).is_absolute() else PurePosixPath(reference)
+    if not p.is_absolute() and not foreign.is_absolute():
         candidate = safe(root, reference)
         if candidate.is_file():
             return candidate
-    elif p.is_relative_to(root):
+    elif p.is_absolute() and p.is_relative_to(root):
         candidate = safe(root, str(p.relative_to(root)))
         if candidate.is_file():
             return candidate
-    candidate = safe(root, directory + '/' + p.name)
+    candidate = safe(root, directory + '/' + foreign.name)
     return candidate if candidate.is_file() else None
 
 

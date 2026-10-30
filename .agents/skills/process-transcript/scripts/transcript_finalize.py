@@ -14,7 +14,7 @@ def completion(root):
     """Locate completion in existing metadata, including explicitly named manifests."""
     matches = []
     for path in sorted({*root.rglob('*.yaml'), *root.rglob('*.yml')}):
-        relative = str(path.relative_to(root))
+        relative = path.relative_to(root).as_posix()
         if relative.startswith(WORK + '/'):
             continue
         data = safe(root, relative).read_bytes()
@@ -77,7 +77,7 @@ def work_files(root):
     files, directories = {}, []
     if folder.exists():
         for path in [folder, *folder.rglob('*')]:
-            relative = str(path.relative_to(root))
+            relative = path.relative_to(root).as_posix()
             path = safe(root, relative)
             if path.is_dir():
                 directories.append(relative)

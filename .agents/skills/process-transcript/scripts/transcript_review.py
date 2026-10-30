@@ -62,7 +62,7 @@ def report_path(root):
 
 def portable(root):
     path = report_path(root)
-    return bool(path and HEADER.search(path.read_text()))
+    return bool(path and HEADER.search(path.read_text(encoding='utf-8')))
 
 
 def field(section, name, default=None):
@@ -75,7 +75,7 @@ def field(section, name, default=None):
 def read(root):
     path = report_path(root)
     require(path is not None, 'Missing review Markdown')
-    text = path.read_text()
+    text = path.read_text(encoding='utf-8')
     headers = HEADER.findall(text)
     require(len(headers) == 1, 'Review Markdown needs portable control data; do not recreate processing history')
     meta = json.loads(headers[0])
@@ -171,9 +171,9 @@ def inputs(root):
     require(set(meta['hashes']) == set(a.values()), 'Incomplete review fingerprints')
     for rel, digest in meta['hashes'].items():
         require(current_hash(safe(root, rel)) == digest, f'Review input changed: {rel}; reconcile before applying decisions')
-    units = parse_units(safe(root, a['cleaned']).read_text())
-    validate_baseline(parse_units(safe(root, a['prepared']).read_text()), units)
-    text = safe(root, a['polishedMarkdown']).read_text()
+    units = parse_units(safe(root, a['cleaned']).read_text(encoding='utf-8'))
+    validate_baseline(parse_units(safe(root, a['prepared']).read_text(encoding='utf-8')), units)
+    text = safe(root, a['polishedMarkdown']).read_text(encoding='utf-8')
     turns, matches = parse_markdown(text, units)
     by_uid = {u['uid']: u for u in units}
     for issue in issues:
@@ -330,15 +330,15 @@ def prepare(root, uids):
     require(final.completed_status(root, manifest, record)['outputsCurrent'], 'Retained references changed; reconcile them before preparing review')
     artifacts = {k: v['path'] for k, v in record['artifacts'].items()}
     artifacts['sessionMetadata'] = manifest
-    units = parse_units(safe(root, artifacts['cleaned']).read_text())
-    turns, _ = parse_markdown(safe(root, artifacts['polishedMarkdown']).read_text(), units)
+    units = parse_units(safe(root, artifacts['cleaned']).read_text(encoding='utf-8'))
+    turns, _ = parse_markdown(safe(root, artifacts['polishedMarkdown']).read_text(encoding='utf-8'), units)
     by_uid = {u['uid']: u for u in units}
     require(uids and len(set(uids)) == len(uids) and all(uid in by_uid for uid in uids), 'Select distinct existing UIDs for bounded review')
     issues = [dict(id='revision-'+uid, uid=uid, target=dict(start=0, end=len(by_uid[uid]['text']), before=by_uid[uid]['text']),
                    contextRange=context_range(units, uid), proposal='', alternatives=[],
                    recommendation='Narrow the target to the words requiring correction; supply supported wording or retain it.',
                    question='Supply a correction or retain the original wording?', disposition='pending') for uid in uids]
-    metadata = yaml.safe_load(safe(root, manifest).read_text())
+    metadata = yaml.safe_load(safe(root, manifest).read_text(encoding='utf-8'))
     meta = dict(version=1, title=f"{metadata['campaign']} — Session {metadata['sessionNumber']}", artifacts=artifacts,
                 hashes={p: current_hash(safe(root, p)) for p in artifacts.values()}, qualityComplete=True,
                 revisionActive=True, retainedIssues=record['issues'], uncertainty=record['status']=='complete_with_uncertainty')

@@ -161,9 +161,12 @@ Entity selection:
   divine collectives. Meaningful religious mentions are worth tracking separately
   from NPC encounters. Clergy remain NPCs; supernatural origin alone is insufficient.
 - **Item:** plot-significant objects and meaningful finding, acquisition, trade,
-  loss, destruction, or property discovery. Omit ordinary treasure and routine
-  combat use of party gear. Do not merge separate items merely because one generic
-  item page describes their class.
+  loss, destruction, property discovery, or discussion of in-world lore, powers,
+  limitations, and possible roles. Substantive discussion of a lore-rich artifact
+  qualifies without actual use or a new revelation; proposed uses remain discussion.
+  Omit ordinary treasure, incidental inventory mentions, and routine combat use of
+  party gear. Extensive vault lore alone does not make routine use significant.
+  Do not merge separate items merely because one generic item page describes their class.
 - **Organization:** identifiable tribes, factions, institutions, and organized
   groups. Religious institutions belong here; divine collectives belong under divine.
 

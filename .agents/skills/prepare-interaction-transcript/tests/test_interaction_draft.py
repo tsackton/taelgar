@@ -23,10 +23,10 @@ class DraftTests(unittest.TestCase):
             '%% u0002:0-5 %%\nPC: I roll.\n\n'
             '%% u0002:5-10 %%\nDM: Ten damage.\n\n'
             '%% u0003:0-40 %%\nDM: Grash says the gate opens tomorrow.\n\n'
-            '%% u0004:0-10 %%\nPC: I roll again.\n\n')
+            '%% u0004:0-10 %%\nPC: I roll again.\n\n', encoding='utf-8', newline='\n')
         self.manifest.write_text('sourceType: transcript\nrealWorldDate: 2020-10-02\n'
             'drStart: 1748-04-12\ndrEnd: 1748-04-12\ntranscriptProcessing:\n  artifacts:\n'
-            '    polishedMarkdown:\n      path: cleaned/demo-transcript.md\n')
+            '    polishedMarkdown:\n      path: cleaned/demo-transcript.md\n', encoding='utf-8', newline='\n')
         self.before = {p: p.read_bytes() for p in self.root.rglob('*') if p.is_file()}
         self.bundle = d.load(self.manifest)
 
@@ -37,7 +37,7 @@ class DraftTests(unittest.TestCase):
         d.initialize(self.bundle)
         d.snip(self.bundle, 2, 3, 'dice rolls')
         self.assertEqual(d.stats(self.bundle)['sourceUids'], 4)
-        self.assertIn('u0002:0-5, u0002:5-10', self.bundle['draft'].read_text())
+        self.assertIn('u0002:0-5, u0002:5-10', self.bundle['draft'].read_text(encoding='utf-8'))
         d.restore(self.bundle, 2)
         self.assertEqual(d.stats(self.bundle)['snips'], 0)
         for p, data in self.before.items():
@@ -50,28 +50,28 @@ class DraftTests(unittest.TestCase):
         _, blocks, snippets = d.inspect_draft(self.bundle)
         self.assertEqual(len(blocks), 3)
         self.assertEqual(len(snippets), 2)
-        self.assertIn('gate opens tomorrow', self.bundle['draft'].read_text())
+        self.assertIn('gate opens tomorrow', self.bundle['draft'].read_text(encoding='utf-8'))
         # Either range can be restored independently; there is no encounter ledger.
         d.restore(self.bundle, 1)
         self.assertEqual(d.stats(self.bundle)['snips'], 1)
-        self.assertIn(self.bundle['turns'][0]['raw'], self.bundle['draft'].read_text())
-        self.assertIn('((combat continues))', self.bundle['draft'].read_text())
+        self.assertIn(self.bundle['turns'][0]['raw'], self.bundle['draft'].read_text(encoding='utf-8'))
+        self.assertIn('((combat continues))', self.bundle['draft'].read_text(encoding='utf-8'))
 
     def test_missing_dates_no_draft(self):
         for field in ('realWorldDate', 'drStart', 'drEnd'):
-            self.manifest.write_text('\n'.join(s for s in self.before[self.manifest].decode().splitlines() if not s.startswith(field + ':')))
+            self.manifest.write_text('\n'.join(s for s in self.before[self.manifest].decode().splitlines() if not s.startswith(field + ':')), encoding='utf-8', newline='\n')
             with self.assertRaisesRegex(d.DraftError, field):
                 d.load(self.manifest)
         self.assertFalse(self.bundle['draft'].exists())
 
     def test_bad_dates(self):
         for end in ('1748-04-11', '1748-02-31'):
-            self.manifest.write_text(self.before[self.manifest].decode().replace('drEnd: 1748-04-12', 'drEnd: ' + end))
+            self.manifest.write_text(self.before[self.manifest].decode().replace('drEnd: 1748-04-12', 'drEnd: ' + end), encoding='utf-8', newline='\n')
             with self.assertRaises(d.DraftError):
                 d.load(self.manifest)
 
     def test_missing_path_no_guessing(self):
-        self.manifest.write_text(self.manifest.read_text().replace('cleaned/demo-transcript.md', 'missing.md'))
+        self.manifest.write_text(self.manifest.read_text(encoding='utf-8').replace('cleaned/demo-transcript.md', 'missing.md'), encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(d.DraftError, 'cannot be located'):
             d.load(self.manifest)
         self.assertFalse(self.bundle['draft'].exists())
@@ -83,7 +83,7 @@ class DraftTests(unittest.TestCase):
             d.inspect_draft(d.load(self.manifest))
         self.source.write_bytes(self.before[self.source])
         # Valid canonical date corrections do not make unchanged transcript work stale.
-        self.manifest.write_text(self.manifest.read_text().replace('drEnd: 1748-04-12', 'drEnd: 1748-04-13'))
+        self.manifest.write_text(self.manifest.read_text(encoding='utf-8').replace('drEnd: 1748-04-12', 'drEnd: 1748-04-13'), encoding='utf-8', newline='\n')
         d.inspect_draft(d.load(self.manifest))
 
     def test_source_changed_after_load(self):
@@ -95,23 +95,23 @@ class DraftTests(unittest.TestCase):
         self.assertEqual(before, self.bundle['draft'].read_bytes())
 
     def test_declared_hash(self):
-        self.manifest.write_text(self.manifest.read_text() + '      sha256: wrong\n')
+        self.manifest.write_text(self.manifest.read_text(encoding='utf-8') + '      sha256: wrong\n', encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(d.DraftError, 'fingerprint'):
             d.load(self.manifest)
 
     def test_cleaned_reference_coverage(self):
         # A registered cleaned reference must agree with every UID's final offset.
         path = self.root / 'cleaned/demo-source-cleaned.md'
-        path.write_text(''.join(f'[u{i:04d} | 0-1 | DM] ' + ('x' * n) + '\n' for i,n in [(1,10),(2,10),(3,40),(4,10)]))
+        path.write_text(''.join(f'[u{i:04d} | 0-1 | DM] ' + ('x' * n) + '\n' for i,n in [(1,10),(2,10),(3,40),(4,10)]), encoding='utf-8', newline='\n')
         self.before[path] = path.read_bytes()
-        self.manifest.write_text(self.manifest.read_text() + '    cleaned:\n      path: cleaned/demo-source-cleaned.md\n')
+        self.manifest.write_text(self.manifest.read_text(encoding='utf-8') + '    cleaned:\n      path: cleaned/demo-source-cleaned.md\n', encoding='utf-8', newline='\n')
         self.assertEqual(len(d.load(self.manifest)['coverage']),4)
-        path.write_text(path.read_text().replace('x' * 40, 'x' * 41))
+        path.write_text(path.read_text(encoding='utf-8').replace('x' * 40, 'x' * 41), encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(d.DraftError,'completely cover'):
             d.load(self.manifest)
 
     def test_malformed_source_comment_not_silently_ignored(self):
-        self.source.write_text(self.source.read_text().replace('%% u0002:5-10 %%','%% u0002:five-ten %%'))
+        self.source.write_text(self.source.read_text(encoding='utf-8').replace('%% u0002:5-10 %%','%% u0002:five-ten %%'), encoding='utf-8', newline='\n')
         with self.assertRaises(d.DraftError):
             d.load(self.manifest)
 
@@ -135,13 +135,13 @@ class DraftTests(unittest.TestCase):
             with self.assertRaisesRegex(d.DraftError, 'hard link'):
                 d.snip(self.bundle, 2, 3, 'dice rolls')
             self.assertEqual(before, self.bundle['draft'].read_bytes())
-        self.manifest.write_text(self.manifest.read_text().replace('cleaned/demo-transcript.md', '../outside.md'))
+        self.manifest.write_text(self.manifest.read_text(encoding='utf-8').replace('cleaned/demo-transcript.md', '../outside.md'), encoding='utf-8', newline='\n')
         with self.assertRaises(ValueError):
             d.load(self.manifest)
 
     def test_unmarked_edits_and_missing_or_overlapping_spans(self):
         d.initialize(self.bundle)
-        text = self.bundle['draft'].read_text()
+        text = self.bundle['draft'].read_text(encoding='utf-8')
         for changed in (text.replace('gate opens tomorrow', 'gate is open'),
                         text.replace('u0002:5-10', 'u0002:6-10'),
                         text.replace('%% u0004:0-10 %%\nPC: I roll again.\n\n', ''),
@@ -152,7 +152,7 @@ class DraftTests(unittest.TestCase):
     def test_reassigned_span_partition(self):
         d.initialize(self.bundle)
         d.snip(self.bundle, 2, 3, 'dice rolls')
-        text = self.bundle['draft'].read_text().replace('u0002:0-5, u0002:5-10', 'u0002:0-10')
+        text = self.bundle['draft'].read_text(encoding='utf-8').replace('u0002:0-5, u0002:5-10', 'u0002:0-10')
         with self.assertRaisesRegex(d.DraftError, 'source map'):
             d.inspect_draft(self.bundle, text)
 
@@ -170,7 +170,7 @@ class DraftTests(unittest.TestCase):
         meta, _, _ = d.inspect_draft(self.bundle)
         self.assertEqual(meta, {'version': 4, 'sessionYaml': 'cleaned/demo-session.yaml',
                                 'sourceSha256': d.sha(self.source.read_bytes())})
-        text = self.bundle['draft'].read_text()
+        text = self.bundle['draft'].read_text(encoding='utf-8')
         self.assertNotIn('interactions-snip:', text)
         self.assertIn('%% u0001:0-10, u0002:0-5, u0002:5-10 %%\n((Combat against Grash.))', text)
         before = self.bundle['draft'].read_bytes()
@@ -185,7 +185,7 @@ class DraftTests(unittest.TestCase):
 
     def test_metadata_tampering_and_old_format_rejected(self):
         d.initialize(self.bundle)
-        text = self.bundle['draft'].read_text()
+        text = self.bundle['draft'].read_text(encoding='utf-8')
         for changed in (text.replace('"version":4', '"version":3'),
                         text.replace('cleaned/demo-session.yaml', 'cleaned/other-session.yaml'),
                         text.replace(d.sha(self.source.read_bytes()), 'wrong'),
@@ -194,7 +194,7 @@ class DraftTests(unittest.TestCase):
                 d.inspect_draft(self.bundle, changed)
 
     def mixed(self, speech='I rolled a 12. With my bonus that is 17. Grash says the gate opens tomorrow.'):
-        self.source.write_text(self.source.read_text().replace('Grash says the gate opens tomorrow.', speech))
+        self.source.write_text(self.source.read_text(encoding='utf-8').replace('Grash says the gate opens tomorrow.', speech), encoding='utf-8', newline='\n')
         self.before[self.source] = self.source.read_bytes()
         self.bundle = d.load(self.manifest)
         d.initialize(self.bundle)
@@ -202,7 +202,7 @@ class DraftTests(unittest.TestCase):
     def test_inline_cut_preserves_lore_and_original_map(self):
         self.mixed()
         d.cut(self.bundle, 4, 'I rolled a 12. With my bonus that is 17.', 'rolls')
-        text = self.bundle['draft'].read_text()
+        text = self.bundle['draft'].read_text(encoding='utf-8')
         self.assertIn('%% u0003:0-40 %%\nDM: ((rolls)) Grash says the gate opens tomorrow.', text)
         self.assertNotIn('interactions-cuts', text)
         self.assertEqual(d.stats(self.bundle)['inlineSnips'], 1)
@@ -214,20 +214,20 @@ class DraftTests(unittest.TestCase):
         self.mixed('Roll a 12. Grash speaks. I rolled a 17. The gate opens tomorrow.')
         d.cut(self.bundle, 4, 'I rolled a 17.', 'rolls')
         d.cut(self.bundle, 4, 'Roll a 12.', 'rolls')
-        self.assertIn('DM: ((rolls)) Grash speaks. ((rolls)) The gate opens tomorrow.', self.bundle['draft'].read_text())
+        self.assertIn('DM: ((rolls)) Grash speaks. ((rolls)) The gate opens tomorrow.', self.bundle['draft'].read_text(encoding='utf-8'))
         d.restore(self.bundle, 4)
         self.assertEqual(d.stats(self.bundle)['inlineSnips'], 0)
-        self.assertIn(self.bundle['turns'][3]['raw'], self.bundle['draft'].read_text())
+        self.assertIn(self.bundle['turns'][3]['raw'], self.bundle['draft'].read_text(encoding='utf-8'))
 
     def test_restore_turn_does_not_restore_neighbor_sharing_uid(self):
         self.mixed('“Ésa?” I rolled a 12.\n\nGrash speaks.')
         d.cut(self.bundle, 4, 'I rolled a 12.', 'rolls')
         d.cut(self.bundle, 2, 'roll', 'rolls')
         d.cut(self.bundle, 3, 'Ten', 'damage')
-        self.assertIn('“Ésa?” ((rolls))\n\nGrash speaks.', self.bundle['draft'].read_text())
+        self.assertIn('“Ésa?” ((rolls))\n\nGrash speaks.', self.bundle['draft'].read_text(encoding='utf-8'))
         d.restore(self.bundle, 3)
-        self.assertIn(self.bundle['turns'][2]['raw'], self.bundle['draft'].read_text())
-        self.assertIn('%% u0002:0-5 %%\nPC: I ((rolls)).', self.bundle['draft'].read_text())
+        self.assertIn(self.bundle['turns'][2]['raw'], self.bundle['draft'].read_text(encoding='utf-8'))
+        self.assertIn('%% u0002:0-5 %%\nPC: I ((rolls)).', self.bundle['draft'].read_text(encoding='utf-8'))
         self.assertEqual(d.stats(self.bundle)['inlineSnips'], 2)
         self.assertEqual(d.stats(self.bundle)['sourceUids'], 4)
 
@@ -264,7 +264,7 @@ class DraftTests(unittest.TestCase):
             with self.assertRaises(d.DraftError):
                 d.cut(self.bundle, 4, 'Rolls.', 'rolls', occurrence)
         d.cut(self.bundle, 4, 'Rolls.', 'rolls', occurrence=2)
-        self.assertIn('DM: Rolls. Grash speaks. ((rolls)) The gate opens tomorrow.', self.bundle['draft'].read_text())
+        self.assertIn('DM: Rolls. Grash speaks. ((rolls)) The gate opens tomorrow.', self.bundle['draft'].read_text(encoding='utf-8'))
         d.cut(self.bundle, 4, 'Rolls.', 'rolls')
         self.assertEqual(d.stats(self.bundle)['inlineSnips'], 2)
 
@@ -277,7 +277,7 @@ class DraftTests(unittest.TestCase):
     def test_inline_unmarked_changes(self):
         self.mixed()
         d.cut(self.bundle, 4, 'I rolled a 12.', 'rolls')
-        text = self.bundle['draft'].read_text()
+        text = self.bundle['draft'].read_text(encoding='utf-8')
         for changed in (text.replace('gate opens tomorrow','gate opens today'),
                         text.replace('DM: ((rolls))','PC: ((rolls))'),
                         text.replace('((rolls))','(rolls)'),
@@ -289,11 +289,11 @@ class DraftTests(unittest.TestCase):
     def test_restore_multi_turn_snip_by_contained_turn(self):
         self.mixed()
         d.snip(self.bundle, 2, 3, 'rolls')
-        self.assertIn('((rolls))', self.bundle['draft'].read_text())
+        self.assertIn('((rolls))', self.bundle['draft'].read_text(encoding='utf-8'))
         d.restore(self.bundle, 3)
         self.assertEqual(d.stats(self.bundle)['snips'], 0)
         for turn in self.bundle['turns']:
-            self.assertIn(turn['raw'], self.bundle['draft'].read_text())
+            self.assertIn(turn['raw'], self.bundle['draft'].read_text(encoding='utf-8'))
 
     def test_inline_labels_and_original_parentheses(self):
         self.mixed('I rolled a 12. Grash (the guard) speaks.')
@@ -301,13 +301,13 @@ class DraftTests(unittest.TestCase):
             with self.assertRaises(d.DraftError):
                 d.cut(self.bundle, 4, 'I rolled a 12.', label)
         d.cut(self.bundle, 4, 'I rolled a 12.', 'rolls')
-        self.assertIn('Grash (the guard) speaks.', self.bundle['draft'].read_text())
+        self.assertIn('Grash (the guard) speaks.', self.bundle['draft'].read_text(encoding='utf-8'))
         self.assertEqual(d.stats(self.bundle)['inlineSnips'], 1)
 
     def test_combined_uids_need_no_saved_turn_range(self):
-        self.source.write_text(self.source.read_text().replace(
+        self.source.write_text(self.source.read_text(encoding='utf-8').replace(
             '%% u0003:0-40 %%', '%% u0003:0-40, u0004:0-5 %%').replace(
-            '%% u0004:0-10 %%', '%% u0004:5-10 %%'))
+            '%% u0004:0-10 %%', '%% u0004:5-10 %%'), encoding='utf-8', newline='\n')
         self.bundle = d.load(self.manifest)
         d.initialize(self.bundle)
         d.snip(self.bundle, 4, 5, 'combat ends')
@@ -315,10 +315,10 @@ class DraftTests(unittest.TestCase):
         self.assertEqual((snippets[0]['startTurn'], snippets[0]['endTurn']), (4, 5))
         d.restore(self.bundle, 5)
         for turn in self.bundle['turns']:
-            self.assertIn(turn['raw'], self.bundle['draft'].read_text())
+            self.assertIn(turn['raw'], self.bundle['draft'].read_text(encoding='utf-8'))
 
     def test_reserved_syntax_in_source_fails_without_writes(self):
-        self.source.write_text(self.source.read_text().replace('Grash attacks.', 'Grash ((attacks)).'))
+        self.source.write_text(self.source.read_text(encoding='utf-8').replace('Grash attacks.', 'Grash ((attacks)).'), encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(d.DraftError, 'reserved'):
             d.load(self.manifest)
         self.assertFalse(self.bundle['draft'].exists())

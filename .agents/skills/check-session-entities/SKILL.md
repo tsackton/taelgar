@@ -61,11 +61,18 @@ Select:
   Priests, godcallers, and worshippers remain NPCs; religious institutions remain
   organizations. Supernatural origin alone does not make a ghost, demon, dragon,
   or other creature divine. Use source/vault context, not a folder or keyword alone.
-- `item`: particular items found, acquired, traded, destroyed, lost, or meaningfully
-  discovered, and items central to a plot. A significant property revelation can
-  qualify. Exclude ordinary money/gems and routine uses of party equipment, even
-  magical equipment. Distinguish separate physical items; a generic item-type page
-  does not establish that two objects are the same.
+- `item`: particular items found, acquired, traded, destroyed, lost, meaningfully
+  discovered, or central to a plot. Meaningful discussion of an item's in-world
+  history, identity, powers, limitations, or possible role also qualifies, even
+  when it is never used and no new property is established. Include substantive
+  consideration of lore-rich artifacts such as the Binding Stones or Mirror of
+  Soul Trapping as possible solutions; preserve proposed uses as discussion.
+  Exclude ordinary money/gems, incidental inventory mentions, and routine combat
+  uses of party equipment, such as weapon attacks, standard activations, or damage
+  arithmetic. Extensive vault lore alone does not make an otherwise routine use
+  significant; the session must meaningfully engage with the item. Distinguish
+  separate physical items; a generic item-type page does not establish that two
+  objects are the same.
 - `organization`: identifiable tribes, factions, institutions, or organized groups.
   Generic species, languages, populations, and incidental crowds are not organizations.
 
