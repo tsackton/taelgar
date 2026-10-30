@@ -36,7 +36,7 @@
 [u0036 | 00:02:32.550-00:02:41.010 | DM] Apollyon's tomb, slash temple. Moments ago Apollyon, in a
 [u0037 | 00:02:41.380-00:02:47.299 | DM] fit of rage and hatred against elves unwilling to let one
 [u0038 | 00:02:48.060-00:02:56.330 | DM] survive in his presence, which maybe wasn't as clear as I intended it to be last night, turned to
-[u0039 | 00:02:56.460-00:03:07.350 | DM] Delwath, and commanded him to die, and then fled in the face of {{well laughed}}.
+[u0039 | 00:02:56.460-00:03:07.350 | DM] Delwath, and commanded him to die, and then fled in the face of Wellby.
 [u0040 | 00:03:10.410-00:03:11.380 | Riswynn] Dorm dolphin.
 [u0041 | 00:03:11.790-00:03:12.550 | Riswynn] Yeah.
 [u0042 | 00:03:13.060-00:03:25.230 | DM] Turning into a gray mist, black mist, and disappearing through the floor, leaving you to resuscitate Delwath.
@@ -2904,7 +2904,7 @@
 [u2904 | 03:15:14.330-03:15:18.010 | Riswynn] It's not the people of the pandemic.
 [u2905 | 03:15:18.010-03:15:20.030 | DM] Saying, The
 [u2906 | 03:15:23.030-03:15:26.830 | DM] the god Apollyon, who will return in glory.
-[u2907 | 03:15:28.830-03:15:38.510 | DM] driven out of the city, and in the chaos several {{merchant back}} and
+[u2907 | 03:15:28.830-03:15:38.510 | DM] driven out of the city, and in the chaos several merchant barges and
 [u2908 | 03:15:38.930-03:15:47.640 | DM] convoys with news racing north to the chalyte mines near Voltara of the unrest in Chardon destroyed.
 [u2909 | 03:15:47.920-03:15:51.979 | DM] Although messengers got away, and news will soon reach the
 [u2910 | 03:15:54.260-03:15:54.904 | DM] The
@@ -3655,14 +3655,14 @@
 [u3655 | 04:18:30.120-04:18:38.799 | DM] If Riswynn does want to take it, an interesting quest from a meta worldbuilding perspective would be to
 [u3656 | 04:18:39.200-04:18:44.050 | DM] mess with Thark, free more orcs.
 [u3657 | 04:18:45.570-04:18:46.279 | Kenzo] May work.
-[u3658 | 04:18:46.950-04:18:49.750 | DM] Into a, into a real {{non}}.
+[u3658 | 04:18:46.950-04:18:49.750 | DM] Into a, into a real non.
 [u3659 | 04:18:49.750-04:18:50.520 | Delwath] Honestly.
 [u3660 | 04:18:50.840-04:18:52.560 | Kenzo] That's pretty cool. That would really.
 [u3661 | 04:18:52.560-04:18:55.299 | Delwath] I mean, if Riswynn came up with that, that would totally sell Delwath.
 [u3662 | 04:18:55.300-04:18:55.950 | Kenzo] That's pretty dope.
 [u3663 | 04:18:55.950-04:19:03.810 | Delwath] If Riswynn was like, Okay, actually, I've thought about it, and I would like to go try to like turn
 [u3664 | 04:19:03.810-04:19:04.540 | Kenzo] The rainbow.
-[u3665 | 04:19:04.540-04:19:08.790 | Delwath] Orcs into the {{main}} orcs, like.
+[u3665 | 04:19:04.540-04:19:08.790 | Delwath] Orcs into the main orcs, like.
 [u3666 | 04:19:08.790-04:19:09.460 | Kenzo] That's pretty dope.
 [u3667 | 04:19:09.520-04:19:14.559 | Delwath] That's a compelling—that's a something that Riswynn's—Delwath would never feel comfortable, like he's not.
 [u3668 | 04:19:15.240-04:19:22.480 | Delwath] He's not in the right place, like that's Riswynn's quest. Not like—she's all related to the orcs from all the heroics and all the stuff she did, right.

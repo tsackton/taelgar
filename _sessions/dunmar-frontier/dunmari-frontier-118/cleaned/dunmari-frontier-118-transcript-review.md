@@ -235,11 +235,11 @@ u1824 · 02:28:20.683-02:28:30.250 · DM
 
 **Original:** They are immune to charmed exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage and resist necrotic {{insanity}}.
 
-**Suggested disposition:** Retain unresolved; no supported correction.
+**Proposed:** They are immune to charmed exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage and resist necrotic and psychic.
 
-**Recommendation:** Retain unresolved. An audio check is needed to distinguish an additional resistance from an incidental trailing phrase; do not fill in a stat block from mechanics.
+**Recommendation:** Propose “and psychic”: it is a plausible phonetic recovery of “insanity” after “necrotic” in a spoken resistance list. This is a wording reconstruction, not a correction from a stat block; retain unresolved if the reading is not recognized.
 
-**Question:** Supply the spoken ending after “necrotic,” or retain unresolved?
+**Question:** Use “and psychic,” supply the spoken ending, or retain unresolved?
 
 **Resolution:** pending
 

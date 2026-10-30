@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 117
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-117-source-cleaned.md
 
 ## Transcript
@@ -80,8 +80,8 @@ DM: Okay, we pick up on the main floor of a—
 %% u0035:0-17 %%
 Seeker: Character sheet.
 
-%% u0036:0-57, u0037:0-57, u0038:0-97, u0039:0-81 %%
-DM: Apollyon's tomb, slash temple. Moments ago Apollyon, in a fit of rage and hatred against elves, unwilling to let one survive in his presence, which maybe wasn't as clear as I intended it to be last night, turned to Delwath, and commanded him to die, and then fled in the face of {{well laughed}}.
+%% u0036:0-57, u0037:0-57, u0038:0-97, u0039:0-71 %%
+DM: Apollyon's tomb, slash temple. Moments ago Apollyon, in a fit of rage and hatred against elves, unwilling to let one survive in his presence, which maybe wasn't as clear as I intended it to be last night, turned to Delwath, and commanded him to die, and then fled in the face of Wellby.
 
 %% u0040:0-13, u0041:0-5 %%
 Riswynn: [garbled] Yeah.
@@ -6167,8 +6167,8 @@ DM: Oh, calling themselves 'cult to be determined.'
 %% u2904:0-36 %%
 Riswynn: It's not the people of the pandemic.
 
-%% u2905:0-11, u2906:0-43, u2907:0-70, u2908:0-100, u2909:0-58, u2910:0-3, u2911:0-165, u2912:0-91 %%
-DM: Saying, the— the god Apollyon, who will return in glory, driven out of the city, and in the chaos several {{merchant back}} and convoys with news racing north to the chalyte mines near Voltara of the unrest in Chardon destroyed. Although messengers got away, and news will soon reach the the— miner—the sort of mining conglomerates, and most of the chalyte is mined far to the north around the city of Voltara and is shipped south to Chardon for processing. Violent reprisals against the striking chalyte workers are not fully stopped, and many die.
+%% u2905:0-11, u2906:0-43, u2907:0-68, u2908:0-100, u2909:0-58, u2910:0-3, u2911:0-165, u2912:0-91 %%
+DM: Saying, the— the god Apollyon, who will return in glory, driven out of the city, and in the chaos several merchant barges and convoys with news racing north to the chalyte mines near Voltara of the unrest in Chardon destroyed. Although messengers got away, and news will soon reach the the— miner—the sort of mining conglomerates, and most of the chalyte is mined far to the north around the city of Voltara and is shipped south to Chardon for processing. Violent reprisals against the striking chalyte workers are not fully stopped, and many die.
 
 %% u2913:0-19, u2914:0-42, u2915:0-55 %%
 DM: Another day passes. The 30th of May dawns, and you feel crack, and then another, and then another, as the prison ends.
@@ -7529,8 +7529,8 @@ DM: If Riswynn does want to take it, an interesting quest from a meta worldbuild
 %% u3657:0-9 %%
 Kenzo: May work.
 
-%% u3658:0-28 %%
-DM: Into a, into a real {{non}}—
+%% u3658:0-24 %%
+DM: Into a, into a real non—
 
 %% u3659:0-9 %%
 Delwath: Honestly.
@@ -7550,8 +7550,8 @@ Delwath: If Riswynn was, like, 'Okay, actually, I've thought about it, and I wou
 %% u3664:0-12 %%
 Kenzo: The rainbow.
 
-%% u3665:0-34 %%
-Delwath: Orcs into the {{main}} orcs,' like—
+%% u3665:0-30 %%
+Delwath: Orcs into the main orcs,' like—
 
 %% u3666:0-19 %%
 Kenzo: That's pretty dope.

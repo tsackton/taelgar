@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 115
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-115-source-cleaned.md
 
 ## Transcript
@@ -299,8 +299,8 @@ Kenzo: 200 dragonets in a trench coat is one person. This is a—this is a, a fu
 %% u0173:0-5 %%
 Seeker: It's.
 
-%% u0174:0-31 %%
-Riswynn: Our friendly person is {{Sir}}.
+%% u0174:0-28 %%
+Riswynn: Our friendly person is Sura.
 
 %% u0175:0-163 %%
 Kenzo: I mean our friendly. The storm giant is is like, legit, friendly and powerful, like that actually is. Yeah. And the Centaurs also are legit, friendly and powerful.
@@ -2675,8 +2675,8 @@ DM: Khemut of Targu. You also have a coin that—
 %% u1260:0-5 %%
 Delwath: That.
 
-%% u1261:0-33 %%
-DM: {{Bergu}}, the Sword of the Wind.
+%% u1261:0-36 %%
+DM: Selem Shurga, the Sword of the Wind.
 
 %% u1262:0-14, u1263:0-100 %%
 Delwath: Right, we have— And then those are the only—weren't those the only 3 that we didn't have bios and faces of from the—
@@ -3632,8 +3632,8 @@ Kenzo: I do have a lady in this town. Yeah, no.
 %% u1724:0-11 %%
 Delwath: Yeah, yeah.
 
-%% u1725:0-47 %%
-DM: {{Tattoo}}, like the priestess at the top. The—
+%% u1725:0-44 %%
+DM: Talk to, like the priestess at the top. The—
 
 %% u1726:0-10, u1727:0-55, u1728:0-39 %%
 Delwath: The other I was mildly tempted to go talk to was Caelynn the Fae. But I don't know if that's a good idea.
