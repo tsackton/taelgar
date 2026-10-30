@@ -35,8 +35,18 @@ order) and `source`. Optional fields use the interaction model's names:
 - `time`: supported narrative time such as “after dinner”, or null.
 - `aiSummary`: at most 25 words of navigation/summary text.
 
+Location and time context are strongly encouraged during authoring, although
+they remain optional in the schema. `location` should meaningfully identify the
+scene's setting; a broad containing region is not an automatic fallback.
+`locationDetail` can stand alone when no suitable vault page exists. `time` can
+use supported broad or relative wording, including estimates carried through
+continuous play; exact hours need source evidence. Missing values do not block
+validation or require a finding. See the skill's scene-context guidance for
+matching and chronology decisions.
+
 No separate title, participant list, entity records, interaction classifications,
-or per-scene confidence metadata. Do not copy YAML's aggregate dates into scenes.
+or per-scene confidence metadata. Resolve scene dates against YAML and transcript
+chronology rather than mechanically copying the session's aggregate endpoints.
 
 ```json
 {
@@ -125,7 +135,13 @@ polished text for that window instead of misleadingly assigning the entire snip
 to one scene. `validate` checks the default map or an explicit `--map PATH`.
 `preview` leads with the date assessment, current YAML date values, source links,
 and date discrepancies, then the compact scene table and remaining findings. It
-prints to stdout and persists no review document. `save --proposal - --expect-input-digest DIGEST` validates and
+prints to stdout and persists no review document. The user-facing handoff follows
+the skill's **Review presentation** section: one row per saved scene with place
+and date/time context, even when some values are unknown; AI summaries are optional.
+Date and time may share a column. For a session occurring on one supported date,
+state that date above the table and show only times in the rows.
+Do not compress multiple scenes into a narrative group or rely on tool output
+alone to deliver the table. `save --proposal - --expect-input-digest DIGEST` validates and
 writes the default map from stdin. Use the input digest from the initial `inspect`
 to reject inputs changed since reading began. An existing file requires its actual
 `--expect-sha256` value, including when revising after a changed input. The writer checks all inputs again under the
