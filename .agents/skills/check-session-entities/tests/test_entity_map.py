@@ -26,7 +26,6 @@ class EntityMapTests(unittest.TestCase):
         self.fixture.setUp()
         self.addCleanup(self.fixture.doCleanups)
         f = self.fixture
-        e.scenes.save(f.bundle, f.proposal)
         self.note = f.vault / 'People/Grash.md'
         self.note.parent.mkdir()
         self.note.write_text('---\nname: Grash\n---\n# Grash\nA camp leader.\n', encoding='utf-8', newline='\n')
@@ -43,16 +42,23 @@ class EntityMapTests(unittest.TestCase):
     def document(self):
         return e.build(self.bundle, copy.deepcopy(self.proposal))
 
-    def test_reuses_source_and_derives_scene_vs_recap(self):
+    def test_works_from_polished_source_without_scene_map(self):
         doc = self.document()
         self.assertEqual(e.validate(self.bundle, doc)['entities'], 1)
-        self.assertEqual(e.owner(self.bundle, doc['entities'][0]['occurrences'][0]['source']), 'recap u0001')
-        self.assertEqual(e.owner(self.bundle, doc['entities'][0]['occurrences'][1]['source']), 'Scene 1')
+        self.assertFalse(self.bundle['mapPath'].exists())
+        self.assertEqual(doc['schemaVersion'], 2)
+        self.assertNotIn('sceneMapSha256', doc['inputs'])
         self.assertNotIn('pcs', doc)
         self.assertNotIn('scenes', doc)
 
-    def test_cross_scene_and_partial_turn_ranges_rejected(self):
-        for start, end in [('u0001', 'u0004'), ('u0003', 'u0004'), ('u0002', 'u0005'), ('u0009', 'u0009')]:
+    def test_evidence_can_cross_prospective_scene_and_context_boundaries(self):
+        doc = self.document()
+        doc['entities'][0]['occurrences'] = [{'source': e.scenes.source('u0001', 'u0006')}]
+        self.assertEqual(e.validate(self.bundle, doc)['entities'], 1)
+
+    def test_partial_turn_unknown_and_reversed_ranges_rejected(self):
+        for start, end in [('u0003', 'u0004'), ('u0002', 'u0002'),
+                           ('u0004', 'u0002'), ('u0009', 'u0009')]:
             doc = self.document()
             doc['entities'][0]['occurrences'] = [{'source': e.scenes.source(start, end)}]
             with self.assertRaises(ValueError):
@@ -91,14 +97,69 @@ class EntityMapTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'not both'):
             e.build(self.bundle, p)
 
-    def test_source_and_scene_changes_invalidate_review(self):
+    def test_later_identification_preserves_session_label_and_is_flagged(self):
+        p = copy.deepcopy(self.proposal)
+        row = p['entities'][0]
+        row.update(label='Unnamed camp leader', identifiedLater=True,
+                   reason='Later public material identifies the camp leader as Grash.')
+        doc = e.build(self.bundle, p)
+        e.save(self.bundle, p)
+        reopened = e.read_map(self.load())
+        self.assertEqual(reopened['entities'][0]['label'], 'Unnamed camp leader')
+        self.assertEqual(reopened['entities'][0]['review']['confidence'], 'high')
+        self.assertEqual(reopened['entities'][0]['occurrences'], row['occurrences'])
+        preview = e.preview(self.bundle, doc)
+        self.assertIn('identified later', preview)
+        self.assertIn(row['reason'], preview)
+
+    def test_later_identification_requires_boolean_note_and_reason(self):
+        for value in ('true', 1, None):
+            doc = self.document()
+            doc['entities'][0]['identifiedLater'] = value
+            with self.assertRaisesRegex(ValueError, 'must be a boolean'):
+                e.validate(self.bundle, doc)
+        for missing in ('note', 'reason'):
+            doc = self.document()
+            row = doc['entities'][0]
+            row.update(identifiedLater=True, reason='A later identification.')
+            row.pop(missing)
+            with self.assertRaises(ValueError):
+                e.validate(self.bundle, doc)
+
+    def test_scene_maps_are_not_read_or_fingerprinted(self):
         doc = self.document()
         scene_path = self.bundle['mapPath']
-        scene_path.write_text(scene_path.read_text(encoding='utf-8') + '\n', encoding='utf-8', newline='\n')
-        with self.assertRaisesRegex(ValueError, 'inputs changed'):
-            e.validate(self.load(), doc)
-        with self.assertRaisesRegex(ValueError, 'Scene map changed'):
-            e.save(self.bundle, self.proposal)
+        scene_path.write_text('not even JSON', encoding='utf-8')
+        self.assertEqual(self.bundle['entityInputDigest'], self.load()['entityInputDigest'])
+        e.save(self.bundle, self.proposal)
+        scene_path.write_text('changed scene map', encoding='utf-8')
+        self.assertEqual(e.read_map(self.load()), doc)
+        self.assertIn('Grash', e.preview(self.load(), doc))
+        scene_path.unlink()
+        self.assertEqual(e.read_map(self.load()), doc)
+
+    def test_source_and_yaml_changes_invalidate_review_and_save(self):
+        for path, suffix in [(self.fixture.source, '\n'),
+                             (self.fixture.yaml, 'participants: []\n')]:
+            with self.subTest(path=path.name):
+                before = path.read_bytes()
+                bundle = self.load()
+                doc = e.build(bundle, self.proposal)
+                path.write_bytes(before + suffix.encode())
+                try:
+                    with self.assertRaisesRegex(ValueError, 'inputs changed'):
+                        e.validate(self.load(), doc)
+                    with self.assertRaisesRegex(ValueError, 'Input changed'):
+                        e.save(bundle, self.proposal)
+                finally:
+                    path.write_bytes(before)
+
+    def test_legacy_scene_bound_maps_require_explicit_recheck(self):
+        doc = self.document()
+        doc['schemaVersion'] = 1
+        doc['inputs']['sceneMapSha256'] = 'old-scene-hash'
+        with self.assertRaisesRegex(ValueError, 'recheck legacy decisions'):
+            e.validate(self.bundle, doc)
 
     def test_note_changed_after_read_invalidates_review_and_save(self):
         doc = self.document()
@@ -120,6 +181,7 @@ class EntityMapTests(unittest.TestCase):
         after = {p for p in self.fixture.vault.rglob('*') if p.is_file()}
         self.assertEqual(after - before.keys(), {self.bundle['entityPath']})
         self.assertEqual(e.read_map(self.bundle)['entities'], self.proposal['entities'])
+        self.assertFalse(self.bundle['mapPath'].exists())
 
     def test_concurrent_output_and_unsafe_paths_rejected(self):
         e.save(self.bundle, self.proposal)
@@ -161,6 +223,9 @@ class EntityMapTests(unittest.TestCase):
         self.assertEqual(e.validate(self.bundle, doc)['exclusions'], 1)
         self.assertIn('Excluded candidates', e.preview(self.bundle, doc))
         self.assertIn('Ordinary treasure.', e.preview(self.bundle, doc))
+        doc['exclusions'][0]['source'] = e.scenes.source('u0003', 'u0003')
+        with self.assertRaisesRegex(ValueError, 'splits a polished turn'):
+            e.validate(self.bundle, doc)
 
     def test_preview_is_entity_first_with_evidence_only_on_request(self):
         doc = self.document()
@@ -169,7 +234,8 @@ class EntityMapTests(unittest.TestCase):
         self.assertNotIn('DM: Grash greets', summary)
         detail = e.preview(self.bundle, doc, 'e001')
         self.assertIn('DM: Grash greets', detail)
-        self.assertIn('recap u0001', detail)
+        self.assertIn('u0001–u0001', detail)
+        self.assertNotIn('Scene 1', detail)
         self.assertEqual(doc['entities'][0]['review']['status'], 'unreviewed')
         with self.assertRaisesRegex(ValueError, 'Unknown entity'):
             e.preview(self.bundle, doc, 'missing')
@@ -187,7 +253,7 @@ class EntityMapTests(unittest.TestCase):
         self.assertNotIn('| e001 | Grash |', gods)
         self.assertIn('| e001 | Grash | npc |', npcs)
         self.assertNotIn('| e002 |', npcs)
-        self.assertIn('recap u0001', gods)
+        self.assertIn('u0001–u0001', gods)
         self.assertNotIn('interaction', divine)
         self.assertEqual(divine['occurrences'], doc['entities'][0]['occurrences'])
         self.assertIn('Showing 0 item entities', e.preview(self.bundle, doc, kind='item'))

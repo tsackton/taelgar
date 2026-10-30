@@ -1,0 +1,929 @@
+{
+  "schemaVersion": 2,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "2cedd30fb8ebbc062a9bb3034e73819332e4e9d839dcfb214b194c842581dc3b",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "4e4af61933f2a0a65d0a895a50a5b0958d1952b002c94fc2b418fcc8ea2b63b4",
+        "transcriptProcessing.artifacts.cleaned": "53d41d4602086234ae5fb8d05b2511390862b39e46977e3e602a641599e423fb"
+      }
+    },
+    "vaultNotes": {
+      "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 20 (DuFr).md": "33e36d4252aac307df87d4b1be0078bce76eaaedd511dba8bc384bebd6fd4475",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate.md": "f9460aeaa3adc6792e8763a856aecf2acdefffad1dd4255a7c006246385f6301",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Goggles of Object Reading.md": "3ad8e9f5c8a89a3ddeffc5117172f9ff07e2c3c4d6a3bb69ed08c8e6ac21c90b",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Narengril.md": "06a8814a06af5b856437cac67a4b3c4c41b962eb019375f1262cd2b099ef459c",
+      "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md": "19664d9b166d7ae2ca054ee3552f2475e5d71b214ae7fa3766b64714e26ad3f0",
+      "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali.md": "cd1adbff5d039fd70f05c519238574a0cf691277504c0887137dd91ea93248ef",
+      "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md": "b75b98870a7ec28e0623559a737536c447182218eda2f7768addcd9688fc9dd0",
+      "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md": "7cce3c37695786a166f754f14a06df24ac7e9cfcfcd5269a3e825c17d8f486bb",
+      "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md": "bad2517aae7dfc353a46ae5b2f2a393f75fe7ee393f69f2e7e1ea46398a51d27",
+      "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md": "6730c788eb9681a23d43df9449b8ec6cdf69e846d97fe1723ed72f053e6c8609",
+      "Groups/Havdar's Warband.md": "04d5257c3cb5301239221529918f0dad6c5266ce18b9e36ee787d45d0cfa8fde",
+      "Groups/Orc Hordes/People of the Rainbow.md": "b5120d283897e2e54bb9b22da64408712f589c398dac57606f206312d62ddb05",
+      "People/Chardonians/Arcus.md": "729d120ff7726cef6f0bd30ef5045602dcfc990c55a72fcf85223a178f608797",
+      "People/Chardonians/Vola.md": "a85db62c69e9f3cd573c9bad589c05d02de9160249ea40f0c06ac71235c7a557",
+      "People/Dunmari/Alesh.md": "c8ed6caf1957a8a0c0d20043fb1b4cdbca700c05e03911ab2460b3b2716e4510",
+      "People/Dunmari/Amil.md": "0cd0075cd00a1b57cee738ff30e98c26aeb3890d2b4becb2a2b65fd4e5129b33",
+      "People/Dunmari/Avaras.md": "fe9782500ed64c82e670a967fc3f6dac98b29b25a6f04ad041fbba15c1b6be2a",
+      "People/Dunmari/Havdar.md": "48b557e5078910ce480e2f1ad6ba2bd5fca9e40c6a3337968b9e52b38c76aff2",
+      "People/Dunmari/Pava.md": "ab64f6e2b0fef81be161580456bbbda7d9767bf07db48ccfb0013306a9d80a2c",
+      "People/Extraplanar Powers/Cha'mutte.md": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb",
+      "People/Fey/Agata.md": "344a86d57ada2058995f35bed38fff8512f0796a3fe4f27d64af6691115ab3de",
+      "People/Giants/Hralgar.md": "ef68474891d4adc97152ec7617986c4903fe2a1eb85df85be092f99efdbc5910",
+      "People/Historical Figures/Dunmari Rulers/Kotana.md": "a2ee6639a13f0c5599a6fd47e98d92d16a169940ad2c9eb074ea3955a6df5637",
+      "People/Orcs/Gorkil.md": "09de7370060c51d61dc1209ab22acb171695728918e04939eb768a00d4d7078b",
+      "People/PCs/Dunmar Fellowship/Companions/Baxter.md": "ecbb7ca7b70682e6b8360ca56ca052cc5a14270c5a9f3b8eb19f7e95a0f20fc7",
+      "People/PCs/Dunmar Fellowship/Companions/Taster.md": "926672cfc30eff072d63973ace7dda876c3cd0778143adca4e232804d19ef1d1"
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Pava",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0018",
+            "endUid": "u0024"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1212",
+            "endUid": "u1219"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dunmari/Pava.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Avaras",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0018",
+            "endUid": "u0024"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0086",
+            "endUid": "u0100"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0643",
+            "endUid": "u0660"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dunmari/Avaras.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Amil",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0010"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0029"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1196",
+            "endUid": "u1204"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dunmari/Amil.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Havdar",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0005"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1512",
+            "endUid": "u1514"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2364",
+            "endUid": "u2367"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dunmari/Havdar.md"
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Alesh",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0005"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0041",
+            "endUid": "u0045"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dunmari/Alesh.md",
+      "reason": "Mentioned as a scout and earlier visitor; no current encounter."
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Agata Dustmother",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0048",
+            "endUid": "u0050"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0614",
+            "endUid": "u0630"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1062",
+            "endUid": "u1071"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Fey/Agata.md",
+      "reason": "Discussed as a possible threat and future destination, never encountered here.",
+      "names": [
+        "Dustmother"
+      ]
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Cha'mutte",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0342",
+            "endUid": "u0346"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0516",
+            "endUid": "u0527"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md",
+      "reason": "Historical enemy; an elder wyrm, with no session evidence of worship or a divine identity."
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Hralgar",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1016",
+            "endUid": "u1028"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Giants/Hralgar.md",
+      "reason": "Recollection of the storm giant and the earlier encounter in his consciousness."
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Vola",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0739",
+            "endUid": "u0751"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1062",
+            "endUid": "u1071"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "humanReviewed"
+      },
+      "note": "People/Chardonians/Vola.md"
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Arcus",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0739",
+            "endUid": "u0751"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Chardonians/Arcus.md"
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Kotana",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0853",
+            "endUid": "u0859"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Historical Figures/Dunmari Rulers/Kotana.md",
+      "reason": "Named historical ruler; mortal identity remains distinct from divine parentage."
+    },
+    {
+      "id": "e012",
+      "kind": "divine",
+      "label": "Bhishma",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0193",
+            "endUid": "u0200"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0298",
+            "endUid": "u0311"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0760",
+            "endUid": "u0767"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+    },
+    {
+      "id": "e013",
+      "kind": "divine",
+      "label": "Laka",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0273",
+            "endUid": "u0280"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0307",
+            "endUid": "u0308"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md"
+    },
+    {
+      "id": "e014",
+      "kind": "divine",
+      "label": "Shakun",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0273",
+            "endUid": "u0280"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0303",
+            "endUid": "u0311"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1133",
+            "endUid": "u1146"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+    },
+    {
+      "id": "e015",
+      "kind": "divine",
+      "label": "Jeevali",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0760",
+            "endUid": "u0767"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali.md",
+      "reason": "Mentioned in the founding and resurrection story; no current manifestation."
+    },
+    {
+      "id": "e016",
+      "kind": "organization",
+      "label": "Mystai of Bhishma",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0193",
+            "endUid": "u0200"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0661",
+            "endUid": "u0673"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0789",
+            "endUid": "u0802"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md",
+      "reason": "The order page identifies Bhishma’s mystai; its formal historical name is not spoken in this transcript."
+    },
+    {
+      "id": "e017",
+      "kind": "organization",
+      "label": "Havdar's warband",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0005"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1455",
+            "endUid": "u1457"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2330",
+            "endUid": "u2334"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Groups/Havdar's Warband.md"
+    },
+    {
+      "id": "e018",
+      "kind": "organization",
+      "label": "Five Chardonian treasure seekers",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0695",
+            "endUid": "u0710"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0729",
+            "endUid": "u0751"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "reason": "An identifiable expedition, distinct from Vola and Arcus. No supported group-page match in organization filenames, aliases, or the session reference; selection as an unnamed organization merits review."
+    },
+    {
+      "id": "e019",
+      "kind": "item",
+      "label": "Delwath's elven breastplate",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0347",
+            "endUid": "u0349"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0400",
+            "endUid": "u0423"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0560",
+            "endUid": "u0597"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate.md",
+      "reason": "Recovered armor with substantial investigation of its shadows and new metal; later revelations about that metal are not imported."
+    },
+    {
+      "id": "e020",
+      "kind": "item",
+      "label": "Delwath's summoned shadow weapon",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0481",
+            "endUid": "u0510"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0541",
+            "endUid": "u0543"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "reason": "Its connection to Delwath’s patron is substantively discussed. Keep separate from the breastplate and later swords; source and treasure-note searches do not establish a dedicated matching object page."
+    },
+    {
+      "id": "e021",
+      "kind": "divine",
+      "label": "Delwath's unidentified patron",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0921",
+            "endUid": "u0940"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0969",
+            "endUid": "u0980"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Later reference identifies Delwath’s patron as Yezali, also called Aaviskar, a tanshi. Classify as divine while retaining the session’s unnamed, uncertain description. No later rescue or revelation is made an event here.",
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Wellby's axebeak",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1316",
+            "endUid": "u1321"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1339",
+            "endUid": "u1346"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1355",
+            "endUid": "u1363"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "humanReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
+      "reason": "The note identifies Wellby’s axebeak mount; Baxter is only a naming suggestion here, so the label preserves the source’s uncertainty.",
+      "names": [
+        "Baxter (proposed)"
+      ]
+    },
+    {
+      "id": "e023",
+      "kind": "npc",
+      "label": "Taster",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1347",
+            "endUid": "u1350"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md",
+      "reason": "Named rabbit companion explicitly confirmed to be traveling with Seeker."
+    },
+    {
+      "id": "e024",
+      "kind": "npc",
+      "label": "Unnamed orc commander",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1579",
+            "endUid": "u1585"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1866",
+            "endUid": "u1869"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2274",
+            "endUid": "u2277"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "A distinctive armored commander issuing orders; no supported individual match in person filenames, aliases, or the battle reference."
+    },
+    {
+      "id": "e025",
+      "kind": "npc",
+      "label": "Captured orc spellcaster",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1824",
+            "endUid": "u1832"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2007",
+            "endUid": "u2017"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2321",
+            "endUid": "u2329"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Later reference identifies the captured cleric at Havdar’s camp as Gorkil. Preserve the unnamed spellcaster label and this session’s evidence; his subsequent interrogation and fate are not current events.",
+      "note": "People/Orcs/Gorkil.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e026",
+      "kind": "organization",
+      "label": "Peaceful desert orcs",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1094",
+            "endUid": "u1108"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "reason": "A distinct orc community is discussed despite uncertain peacefulness. The People of the Rainbow are a possible match, but these particular orcs are not identified by the speakers; preserve that uncertainty.",
+      "candidates": [
+        "Groups/Orc Hordes/People of the Rainbow.md"
+      ]
+    },
+    {
+      "id": "e027",
+      "kind": "npc",
+      "label": "Havdar's unnamed lieutenant",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1455",
+            "endUid": "u1457"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "humanReviewed"
+      },
+      "reason": "A particular lieutenant distinguished from Havdar and the ordinary warriors. No dedicated person page found in filenames, names, aliases, or warband references; a speaking role is not required for inclusion."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Current party PCs",
+      "reason": "Kenzo, Wellby, Delwath, and Seeker are this session’s PCs, supplied by YAML; their speech does not create NPC records.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0074",
+        "endUid": "u0085"
+      }
+    },
+    {
+      "label": "Goggles of Object Reading",
+      "reason": "Routine use to examine the recovered armor; the session does not meaningfully explore the goggles’ identity, history, or powers.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0465",
+        "endUid": "u0472"
+      }
+    },
+    {
+      "label": "Spear of the War Leader",
+      "reason": "A brief inventory reminder of the spear taken from a gnoll boss, without a new acquisition or substantive item discussion.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1322",
+        "endUid": "u1327"
+      }
+    },
+    {
+      "label": "Generic orc troops and fireball caster",
+      "reason": "Combat roles and attacks alone do not distinguish every enemy as an individual entity; retain the commander and specific surviving captive separately.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1562",
+        "endUid": "u1571"
+      }
+    },
+    {
+      "label": "Schwartz’s dog and Gnocchi",
+      "reason": "Real-world pet discussion during a pause, rather than in-world entities.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2043",
+        "endUid": "u2056"
+      }
+    },
+    {
+      "label": "Satan",
+      "reason": "An out-of-character joke about the unidentified patron, without an in-world identity claim.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0499",
+        "endUid": "u0510"
+      }
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Narengril.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Goggles of Object Reading.md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 20 (DuFr).md"
+  ]
+}

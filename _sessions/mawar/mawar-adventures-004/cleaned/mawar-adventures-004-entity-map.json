@@ -1,0 +1,803 @@
+{
+  "schemaVersion": 2,
+  "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "f0655b187fab359e68fc37e98286c37fd7243a67a05a47909db76f057e83c1a7",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9",
+        "transcriptProcessing.artifacts.cleaned": "6c8c0f97aba1cbc7427e2d463417c1882c6bddabc632573779bfc50fc7a61f19"
+      }
+    },
+    "vaultNotes": {
+      "Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map.md": "f9b6a1a1b6a2ea9511a47e43d37638086a981f326b32a00fe05de20ecc3e9f7c",
+      "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md": "440ada3fa7013c6ea5fd9e816664894e23227ff81e67cc9c4fb38d373fea2b13",
+      "Gods and Religions/Gods/Embodied Gods/Bahrazel/Azar.md": "eb4594797fc2ac4a72caaed3ea87011655c3e7dbd68c29ec3f5df0c7c93b21cf",
+      "People/Extraplanar Powers/Sentient Ocean.md": "0c0b1b758889afef326dc1bb5f4ef807ccf1bd55834351abbcf56e7824d04994",
+      "People/Lizardfolk/Amaya.md": "cd54f1651b4a375839b5ab0b3cd20dcef1f99df4f5e1b87b270df1d1cd6abe80",
+      "People/Lizardfolk/Benat.md": "ea17810396d254ae1a8977fde7d81e688c9db23d7279e5f43fc638b60650c3a3",
+      "People/Lizardfolk/Itzal.md": "332d35be05efdbf5d414ed41195b70fdcde5235b3577c887c2ae8797339db69d",
+      "People/Mawarans/Azar the Lost.md": "c20109c43b2dfae0db9b272e68219fd830ec2752a9b2c28b1a61e5e32b64d119",
+      "People/Mawarans/Hiyasa.md": "c93b48780b780b201c5f8793f79d3a9330da4e82d58c231e34cf053ab0a0a6ab",
+      "People/Mawarans/Jaeson.md": "768b387611634e0bac1b8245f6a8b38c53434f306eceb0d4b21d7b98065c8621",
+      "People/Mawarans/Yaz.md": "8a4b96fe84871348767586788d94be42266132feff0ee8748b4d6b27c632b911",
+      "People/Other Humans/Khathayi.md": "9dc75c9768180bc9421674a589e19a0d197954eec793a49a3802ad79f0922bff",
+      "People/Other Nonhumans/Chaessenth.md": "317a60f59eea12e1c7e8009b98e0a683f02ddf1060d1450e23b5377605ad775b",
+      "People/Other Nonhumans/Yerkir-khor.md": "e622a9aa6478943385d073094a597e85549a023f1e274b083855317047940e74",
+      "People/PCs/Mawar/Blu.md": "dcf61a234de16773ae158fadee1a9ad3abbc0b66f2c5e90f8b4b35845628763d",
+      "People/PCs/Mawar/Kaleho.md": "adb1f5803ae369b137c340251967d0b95812750e1c2933314bdb61b6b14f1a56",
+      "People/PCs/Mawar/Trok.md": "502269de8334a234293454dc38f64eebb134abc379c0365e693aaecf5445c232",
+      "People/PCs/Mawar/Turk.md": "228743b445555d4ce65eacff9bf057e6fbe47c21477f8a5648a7164fa58ad433",
+      "People/PCs/Mawar/Wazir.md": "74b473505cc200f12478db17069b7969634614c6d8c9c5f02c10b57f0e9ed11c",
+      "Things/Materials/Gatza.md": "dcd2b5c1d80cff9cd2a7f1736fd8f99c32bd2e8afa1124d076d5df251cd01837"
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Jaeson",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0184",
+            "endUid": "u0196"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0254",
+            "endUid": "u0263"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Mawarans/Jaeson.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Itzal",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0519",
+            "endUid": "u0524"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0550",
+            "endUid": "u0582"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Lizardfolk/Itzal.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Amaya",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0652",
+            "endUid": "u0664"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0704",
+            "endUid": "u0720"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Lizardfolk/Amaya.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Blu and Turk",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0323",
+            "endUid": "u0343"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1239",
+            "endUid": "u1258"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3154",
+            "endUid": "u3159"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Mawar/Blu.md",
+      "reason": "One shapeshifting companion, explicitly changing between osprey and shark; Turk’s separate vault page is supporting evidence, not a second entity.",
+      "names": [
+        "Blu",
+        "Turk"
+      ]
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Chaessenth",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2145",
+            "endUid": "u2153"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2631",
+            "endUid": "u2647"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2995",
+            "endUid": "u3025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3133",
+            "endUid": "u3146"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Other Nonhumans/Chaessenth.md",
+      "reason": "Captive dragon turtle, freed and named in play; Timmy is a discarded out-of-character naming joke."
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Benat",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0491",
+            "endUid": "u0492"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Lizardfolk/Benat.md",
+      "reason": "Mentioned as the lizardfolk historian with Azar; conflicting location claims in other notes do not change this identity."
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Azar",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0491",
+            "endUid": "u0492"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Mawarans/Azar the Lost.md",
+      "reason": "The previously captured warlock with Benat, not the dwarven god of the same name. Preserve the transcript’s location claim without endorsing the separate continuity dispute."
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Wazir",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0020",
+            "endUid": "u0020"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0162",
+            "endUid": "u0165"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0315",
+            "endUid": "u0320"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Mawar/Wazir.md",
+      "reason": "A PC from other sessions, explicitly absent here but meaningfully identified as the innkeeper and a potential ally."
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Trok",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0162",
+            "endUid": "u0165"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0315",
+            "endUid": "u0320"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0412",
+            "endUid": "u0415"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Mawar/Trok.md",
+      "reason": "A PC from other sessions, explicitly absent here; discussed as an ally with ties to the lizardfolk, without implying player attendance."
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Kaleho",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0421",
+            "endUid": "u0427"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Mawar/Kaleho.md",
+      "reason": "An absent PC from other sessions, described as a visiting sailor seeking merfolk; no attendance inferred."
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Hiyasa",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3160",
+            "endUid": "u3165"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Mawarans/Hiyasa.md",
+      "reason": "Named as the source of the treasure map; only mentioned."
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Yaz",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3187",
+            "endUid": "u3188"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Mawarans/Yaz.md",
+      "reason": "Named ocean watcher suggested as a future source about Wanui Teora."
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Khathayi the Flametongue",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2946",
+            "endUid": "u2952"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2965",
+            "endUid": "u2987"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "note": "People/Other Humans/Khathayi.md",
+      "reason": "Named ancient fire-associated being sought by the mage. Godlike folklore does not establish worship or divinity; NPC classification remains a calibration question."
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "Wanui Teora",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0111",
+            "endUid": "u0117"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3073",
+            "endUid": "u3095"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3187",
+            "endUid": "u3188"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "note": "People/Extraplanar Powers/Sentient Ocean.md",
+      "reason": "Named living ocean matched through an explicit alias. An alien power and its songs are established; divine or worshipped status is not, so classification needs review."
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Durandal the horse",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0432",
+            "endUid": "u0441"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Ander explicitly names his horse after his sword. Distinct physical referent; no individual horse page in filenames, names, aliases, or campaign references."
+    },
+    {
+      "id": "e016",
+      "kind": "item",
+      "label": "Durandal the sword",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0332",
+            "endUid": "u0343"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1249",
+            "endUid": "u1253"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1395",
+            "endUid": "u1406"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "A named speaking sword introduced and discussed beyond routine attacks. No dedicated object page in filenames, names, aliases, or campaign references; do not merge with Ander’s horse."
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Unnamed dockside messenger",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0497",
+            "endUid": "u0518"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "A specific greeter speaks to the party and fetches Itzal. No individual match in person filenames, metadata, and village references."
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Armored fire guardian",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1565",
+            "endUid": "u1582"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1812",
+            "endUid": "u1818"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1994",
+            "endUid": "u2003"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2023",
+            "endUid": "u2040"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Distinct guardian who negotiates, serves a master, and explodes on death. No individual match in person filenames, aliases, or campaign references."
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Fire mage controlling Chaessenth",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2154",
+            "endUid": "u2168"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2533",
+            "endUid": "u2536"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2705",
+            "endUid": "u2736"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2906",
+            "endUid": "u2914"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Distinct captor controlling the turtle and seeking Khathayi; no individual page in person filenames, metadata, or campaign references."
+    },
+    {
+      "id": "e020",
+      "kind": "item",
+      "label": "Burning black control arrow",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2150",
+            "endUid": "u2153"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2421",
+            "endUid": "u2438"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2489",
+            "endUid": "u2509"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "The burning implement lodged in Chaessenth’s neck is removed and dropped in the water. No object-page match in filename, metadata, or campaign searches; preserve the transcript’s alternating arrow and spear labels.",
+      "names": [
+        "spear",
+        "arrow"
+      ]
+    },
+    {
+      "id": "e021",
+      "kind": "item",
+      "label": "Threatening note in a bottle",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0575",
+            "endUid": "u0582"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0803",
+            "endUid": "u0821"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Specific plot-bearing demand delivered with a body, examined by the party. No dedicated note page in object filenames, metadata, or campaign references."
+    },
+    {
+      "id": "e022",
+      "kind": "item",
+      "label": "Hiyasa's treasure map",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3160",
+            "endUid": "u3177"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map.md"
+    },
+    {
+      "id": "e023",
+      "kind": "divine",
+      "label": "Yerkir-Khor",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3164",
+            "endUid": "u3172"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Other Nonhumans/Yerkir-khor.md",
+      "reason": "The monument discussion refers to its associated earth-lord. The public tomb and being accounts describe religious honoring and offerings, supporting divine classification; the name is more than a route label here."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Current party PCs",
+      "reason": "Ryu, Ander, and Nerissa are the active PCs; other registered characters are discussed as absent.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0021",
+        "endUid": "u0026"
+      }
+    },
+    {
+      "label": "Ryu’s returning spear",
+      "reason": "Standard returning attacks and routine equipment use; keep distinct from the burning implement lodged in the turtle.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1477",
+        "endUid": "u1494"
+      }
+    },
+    {
+      "label": "Gatza tribute",
+      "reason": "Gatza is a material and the planned tribute, with no individually acquired batch or distinct physical object. Flag this exclusion for calibration because its spirit-contact properties drive the plot.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u3176",
+        "endUid": "u3183"
+      }
+    },
+    {
+      "label": "Steam imps",
+      "reason": "A group of generic summoned or elemental enemies, without distinct personal identities.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1130",
+        "endUid": "u1151"
+      }
+    },
+    {
+      "label": "Real-world children and Riswynn side-game anecdote",
+      "reason": "Family conversation and discussion of another game during a break; no events or attendance in this session.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0944",
+        "endUid": "u1015"
+      }
+    },
+    {
+      "label": "Timmy",
+      "reason": "A suggested joke name explicitly superseded when the DM names the turtle Chaessenth.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2995",
+        "endUid": "u3010"
+      }
+    },
+    {
+      "label": "Healing potion and Pearl of Power",
+      "reason": "Routine healing and spell-slot recovery, without an item discovery or substantive lore discussion.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2050",
+        "endUid": "u2056"
+      }
+    }
+  ],
+  "evidenceNotes": [
+    "People/PCs/Mawar/Turk.md",
+    "Things/Materials/Gatza.md",
+    "Gods and Religions/Gods/Embodied Gods/Bahrazel/Azar.md",
+    "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+  ]
+}

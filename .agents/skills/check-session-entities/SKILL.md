@@ -1,12 +1,12 @@
 ---
 name: check-session-entities
-description: Identify and check session entities against vault notes using a session YAML, polished transcript, and existing scene map. Distinguish NPCs, divine beings, significant items, and organizations in an entity-first review with confidence, UID evidence, unresolved matches, and meaningful exclusions. Preserve all source files and scene boundaries.
+description: Identify and check session entities against vault notes directly from a YAML-registered polished transcript, without requiring a scene map. Distinguish NPCs, divine beings, significant items, and organizations in an entity-first review with confidence, UID evidence, unresolved matches, and meaningful exclusions. Preserve all source files.
 ---
 
 # Check Session Entities
 
-Use after `map-transcript-scenes`. This stage resolves **who or what is being
-referred to**, whether it belongs in the entity list, and which vault page it
+Use once a polished transcript is registered in the session YAML. This stage
+resolves **who or what is being referred to**, whether it belongs in the entity list, and which vault page it
 matches. It does not generate interactions, importance, quotations, narrative
 overviews, final `session.json`, or new vault notes.
 
@@ -17,12 +17,12 @@ for the concrete v7 final-session structure and the current review limitations.
 ## Inputs and boundaries
 
 Read repository instructions and inspect branch/worktree. Resolve the session
-YAML and its current `<stem>-scene-map.json`. Reuse the scene helper for YAML,
-polished-source resolution, UID ranges, draft reading, and safe writes. Do not
+YAML and its registered polished transcript. No scene map or reduction draft is
+required; entity checking can run before scene mapping. Reuse the existing helper's
+YAML/source reader, UID ranges, and safe writes without loading a scene map. Do not
 create another source registry or PC list. The YAML remains the calendar anchor;
-carry existing date findings into the handoff, without reclassifying an unstated
-calendar date as insufficient evidence. A date conflict does not prevent identity
-work, but time-dependent matches must preserve that uncertainty.
+preserve material time uncertainty in time-dependent identity matches. Full scene
+division and chronology validation remain separate work.
 
 The ordinary run writes only `cleaned/<stem>-entity-map.json`. Source transcripts,
 reduction drafts, scene maps, YAML, and vault notes are read-only. Render review
@@ -38,19 +38,20 @@ fields. Later integration should consume these decisions, not rematch everything
 
 ## Read once and inventory
 
-Read the complete source using the existing scene divisions. A validated reduction
-draft can be the reading view, but reopen original polished turns for every identity
-claim and any snip that could conceal names, introductions, item events, or lore.
-Read contextual blocks as well as scenes. Recaps, hypothetical plans, and postgame
-discussion may identify entities without placing them in current play. A brief
-aside retained inside a scene is still an aside. Do not use beats or generated
+Read the complete polished transcript in order, using bounded UID windows as
+needed. Infer each passage's context from the surrounding speech rather than
+requiring preclassified scenes or contextual blocks. Recaps, hypothetical plans,
+and postgame discussion may identify entities without placing them in current play.
+A brief aside inside a conversation is still an aside. Do not use beats or generated
 recaps to populate this inventory; later review may consult them as fallible hints.
 
 Select:
 
 - `npc`: named individuals outside the divine category, and distinctive
   unnamed people who could plausibly receive a name. A recurring unnamed guide or
-  a specific prospective companion qualifies; anonymous crowds, generic monsters,
+  a specific prospective companion qualifies. An individually identified role,
+  such as Havdar's lieutenant, can qualify even without dialogue or a personal name;
+  anonymous crowds, generic monsters,
   and rumors of unspecified creatures do not. Keep source labels for unnamed
   people; never invent a proper name.
 - `divine`: gods, named religious spirits such as tanshi, and other beings whose
@@ -61,6 +62,10 @@ Select:
   Priests, godcallers, and worshippers remain NPCs; religious institutions remain
   organizations. Supernatural origin alone does not make a ghost, demon, dragon,
   or other creature divine. Use source/vault context, not a folder or keyword alone.
+  Classify a clearly resolved identity using established vault evidence even when
+  its nature was unknown in the session. For example, Delwath's unnamed patron is
+  divine when identified as Yezali; retain the session's uncertainty in the label
+  and evidence, and flag the later identification as described below.
 - `item`: particular items found, acquired, traded, destroyed, lost, meaningfully
   discovered, or central to a plot. Meaningful discussion of an item's in-world
   history, identity, powers, limitations, or possible role also qualifies, even
@@ -73,19 +78,41 @@ Select:
   significant; the session must meaningfully engage with the item. Distinguish
   separate physical items; a generic item-type page does not establish that two
   objects are the same.
+  A brief but concrete in-world lore remark also qualifies: recognition of an old
+  elven blade or discussion of its provenance is enough. Do not require a long
+  conversation, a completed origin story, or a new revelation. An adjective such
+  as "wonderful" alone is insufficient; preserve the actual lore-bearing passage.
 - `organization`: identifiable tribes, factions, institutions, or organized groups.
-  Generic species, languages, populations, and incidental crowds are not organizations.
+  A distinct people or community, such as the peaceful desert orcs, can qualify
+  without a spoken formal name or explicit leadership structure. Recognizable
+  historical adventuring parties, including the Heroes of the Great War, also
+  qualify. Generic species, languages, populations, and incidental crowds are not
+  organizations merely for being mentioned.
 
 Use YAML participant roles to identify the session's PCs; do not create entity
 records merely because they are transcript speakers. A PC from another session
 may be a meaningful named referent here, but do not infer attendance. Ignore player
-names in scheduling. Place matching remains in the scene map; do not invent a
+names in scheduling. Place matching belongs to scene mapping; do not invent a
 place entity kind or turn every mentioned place into a visited location.
 
 Group occurrences by contextual identity, not just matching words. Keep separate
 people with the same name, and combine pronouns/titles only when supported. A name
 inside a place name alone is not necessarily a reference to that person. Do not
 promote historical stories, speculation, or discussion of next session into events.
+When a named tomb, monument, or memorial is discussed for its associated being or
+lore, check that being as an entity too; do not automatically discard it as a place
+name. The Yerkir-Khor monument discussion is such a reference. A bare route label
+like "Chanceweaver's Court" still does not establish a meaningful personal mention.
+
+### Dunmari Frontier exception: ladders
+
+Only when the YAML identifies the campaign as **Dunmari Frontier**, track the
+party's ladders as `npc` companions, including when carried or used as equipment.
+This campaign convention overrides the ordinary item/routine-gear rule; it does
+not assert that a ladder was animated or acting in that passage. Match the
+existing Ladder page where supported, and distinguish the current ladder from
+destroyed predecessors. A passing joke about a predecessor need not create
+another record. Do not apply this exception to other campaigns.
 
 ## Match against the vault
 
@@ -94,8 +121,20 @@ variants, both sides of wikilinks, and relevant backlinks. Reuse existing search
 tools or an available name index as candidate discovery; do not persist a second
 vault-wide registry. Search/read actual notes before choosing a match. Exact spelling
 alone is insufficient when role, geography, time, or context disagrees. Read each
-candidate in full and account for uncertainty/status comments. Avoid using future
-revelations to silently identify a masked or unnamed person.
+candidate in full and account for uncertainty/status comments.
+
+Use clear later material to resolve an unnamed or masked referent rather than
+leaving an established identity as a candidate solely because the name was not yet
+known. Set `note` to the supported page and `identifiedLater: true`. Keep `label`
+and `names` faithful to what the entity was known as in this session; put the later
+name and the basis for identification in `reason`. Inspect and fingerprint the
+supporting later page like any other evidence. This flag is explicit provenance,
+not an uncertainty score: a clear later identification can have high confidence.
+Do not rewrite transcript evidence, imply the characters already knew the later
+name or nature, or import unrelated later events or private revelations. For
+example, "Captured orc spellcaster" can link to Gorkil with this flag while keeping
+that session label. Genuine competing identities or weak contextual similarities
+still require `candidates` and an uncertainty reason.
 
 Keep `note` absent/null when unresolved. Supply plausible `candidates` and a brief
 `reason` when there is a specific ambiguity. A clearly identified new person can
@@ -118,6 +157,8 @@ Extraction starts `unreviewed`. Perform a distinct semantic pass over the entire
 entity list, exclusions, and evidence before setting `automatedReviewed`. Mechanical
 validation is not semantic review. Use `humanReviewed` only for the specific entity
 decisions the user has actually reviewed, not their acceptance of scene boundaries.
+A broad comment that inclusions look correct does not mark every record
+`humanReviewed`; apply explicit row decisions and preserve the remaining review state.
 Do not overwrite an earlier human decision without explicit direction; preserve
 stable IDs on revision. Changed entity decisions return to `unreviewed` until
 rechecked. A stale map/note invalidates relying on its old review.
@@ -125,13 +166,15 @@ rechecked. A stale map/note invalidates relying on its old review.
 ## Keep evidence and review small
 
 Record representative `occurrences` as original transcript source ranges, with at
-least one useful passage per scene/context block where the entity meaningfully
-appears or is discussed. Do not catalog every name token or pronoun. Prefer a short
-introduction or identity-bearing passage over a whole conversation. Add another
-passage in the same scene only when it materially aids identification/checking.
-Each range must fit a single existing scene or context block and respect whole
-UIDs/polished turns. The helper derives scene/context labels; no duplicate scene
-registry is stored. Occurrence does not mean presence or interaction.
+least one useful passage for each distinct encounter or substantive discussion
+where the entity meaningfully appears or is discussed. Do not catalog every name
+token or pronoun. Prefer a short introduction or identity-bearing passage over a
+whole conversation. Add another
+passage in the same discussion only when it materially aids identification/checking.
+Each range must respect whole UIDs/polished turns. Keep passages focused enough
+that recap, speculation, and played action are not conflated; separate them where
+useful without authoring scene boundaries. The helper links evidence directly to
+polished transcript UID ranges. Occurrence does not mean presence or interaction.
 In particular, a divine mention, invocation, or claim of intervention does not
 establish a manifestation or direct conversation. Retain the original wording and
 uncertainty for later processing. Final v7 uses the ordinary interaction vocabulary
@@ -145,10 +188,12 @@ Do not inventory every coin, animal, or ordinary noun. These are entity-selectio
 decisions, not deletions or exclusions of entire transcript blocks.
 
 No AI biography is needed. Optional `reason` is a short identity/selection rationale,
-required for unresolved matches or medium/low confidence. Optional `names` contains
+required for unresolved matches, medium/low confidence, or later identification.
+Optional `identifiedLater: true` flags a resolved identity supplied by later
+material; previews must display it even for a high-confidence match. Optional `names` contains
 useful source variants/titles, not a copied vault alias list. Review is entity-first:
 uncertain/unreviewed entities first, clear matches compactly, exclusions separately.
-Open selected entity evidence on demand instead of reprinting every scene.
+Open selected entity evidence on demand instead of reprinting the transcript.
 
 ## Commands and verification
 
@@ -171,21 +216,28 @@ Before reading candidate notes, `inspect --note` each selected/candidate/support
 page (repeat the flag). Retain that `inputDigest` through review/save. Reinspect and
 reread if adding notes or if inputs change. An existing map needs its inspected
 `--expect-sha256` for intentional revision. Save the proposal through stdin or a
-temporary file, never by bypassing the helper. It fingerprints sources, YAML, scene
-map, and consulted vault pages; preserves original sources; and uses the existing
+temporary file, never by bypassing the helper. It fingerprints sources, YAML,
+and consulted vault pages; preserves original sources; and uses the existing
 directory lock and atomic write helper. `evidenceNotes` can retain consulted pages
 which informed a decision without being candidate targets. No fingerprint proves
 all possible notes were searched or that matching was correct.
 
-Verify source preservation, whole-turn ranges, scene/context containment, stable
+Verify source preservation, whole-turn ranges, contextual framing, stable
 IDs, duplicate identities, meaningful exclusions, and all low/medium matches.
 Reopen at least the identity-bearing original passage and chosen note for the
 separate semantic pass. Prefer targeted human review; do not require approval of
 every clear match. Hand off the compact entity preview, open questions, map path,
 and review performed. Stop before interactions and final session generation.
+New entity maps use schema version 2 without scene-map fingerprints. Recheck any
+legacy version 1 decisions before an intentional version 2 save, preserving stable
+IDs and human decisions; never silently migrate old review attestations.
 
 For maintenance run:
 `python3 -B -m unittest discover -s .agents/skills/check-session-entities/tests -v`.
 Install dependencies from `requirements.txt`. The separate `session_model.py`
 provides read-only v7 validation and candidate projection; it is not an automated
 interaction generator or review-application workflow.
+
+For user-requested saved reviews, feedback round trips, and agent handoffs, see
+the [review workflow](references/review-workflow.md). It documents manual review
+application and the calibration reviewer; it does not add an automatic importer.
