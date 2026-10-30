@@ -59,20 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-121-transcript.md
       sha256: 1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0
-  speakerCorrections:
-  - uid: u1108
-    start: 0
-    end: 66
-    speaker: Delwath
-  - uid: u1243
-    start: 0
-    end: 96
-    speaker: Kenzo
-  - uid: u1301
-    start: 0
-    end: 61
-    speaker: DM
-  - uid: u2071
-    start: 0
-    end: 31
-    speaker: Riswynn

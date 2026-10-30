@@ -20,7 +20,7 @@ coverage, speaker overlays including within-UID splits, cross-chunk continuity,
 neighbor-review invalidation, human-decision invalidation, manual export changes,
 resumption, interrupted writes, dependency conflicts, source-format adapters,
 path/symlink restrictions, independent session locks, and removal/regeneration of
-optional display/review views without losing retained references or pending review. Finalization tests cover permanent prepared-text retention, minimal remaining files, metadata/comment preservation, speaker overrides, review gates, edited references, interrupted retirement, symlinks, and idempotent completion without recreating state.
+optional display/review views without losing retained references or pending review. Finalization tests cover permanent prepared-text retention, minimal remaining files, metadata/comment preservation, corrected speakers retained only in polished Markdown, review gates, edited references, interrupted retirement, symlinks, and idempotent completion without recreating state.
 A child-process audit hook observes filesystem writes across an entire processing and finalization run and rejects any
 write outside that session's bundle. Substitution tests cover intact surrounding
 words, valid labels and spans, overlapping/invalid ranges, protected review markers
@@ -78,6 +78,10 @@ checks cannot certify that an agent has correctly distinguished a recognition
 problem from a spoken mistake; that remains an explicit editorial review task.
 
 ## Finalization evaluation, 2026-10-28
+
+Historical result: at that time finalization also retained YAML speaker overrides.
+The current workflow omits that redundant list and preserves corrected attribution
+in polished Markdown, including after bounded review and reopening.
 
 The expanded suite passed all 32 tests, including the seven copied-bundle checks.
 A completed synthetic session retained exactly four transcript files and session

@@ -59,16 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-118-transcript.md
       sha256: 1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002
-  speakerCorrections:
-  - uid: u1369
-    start: 0
-    end: 40
-    speaker: Riswynn
-  - uid: u1417
-    start: 0
-    end: 55
-    speaker: Kenzo
-  - uid: u1767
-    start: 0
-    end: 113
-    speaker: Wellby

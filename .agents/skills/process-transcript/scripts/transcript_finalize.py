@@ -94,11 +94,6 @@ def begin(root, state, outcome, manifest, expected):
               'issues': outcome['issues'], 'artifacts': {
                   key: {'path': a[key], 'sha256': (state['outputHashes'][a[key]] if key == 'polishedMarkdown'
                                                  else expected[a[key]])} for key in RETAINED}}
-    if state['attributions']:
-        # These corrections are functional data: stable UID headers retain the
-        # original attribution, so downstream readers still need the overrides.
-        record['speakerCorrections'] = [{key: item[key] for key in ('uid', 'start', 'end', 'speaker')}
-                                        for item in state['attributions']]
     metadata = safe(root, manifest).read_bytes()
     after = append_completion(metadata, record)
     discard, directories = work_files(root)

@@ -59,8 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-119-transcript.md
       sha256: 887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35
-  speakerCorrections:
-  - uid: u0056
-    start: 0
-    end: 44
-    speaker: Seeker

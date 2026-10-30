@@ -189,9 +189,17 @@ class ReviewTests(unittest.TestCase):
         path.write_text(review.document(meta,issues,units,turns))
         self.decide([],{1:'it got much darker.'});self.apply();self.finalize()
         record=yaml.safe_load((self.root/a['sessionMetadata']).read_text())[final.KEY]
-        self.assertEqual(record['speakerCorrections'][0]['speaker'],'Player')
-        self.assertEqual(record['speakerCorrections'][0]['start'],split)
-        self.assertEqual(record['speakerCorrections'][0]['end'],len('Well, well, it got much darker.'))
+        self.assertNotIn('speakerCorrections', record)
+        units=core.parse_units((self.root/a['cleaned']).read_text())
+        turns,_=review.parse_markdown((self.root/a['polishedMarkdown']).read_text(),units)
+        self.assertEqual(turns[1]['speaker'],'Player')
+        self.assertEqual(turns[1]['sources'],[dict(uid='u0001',start=split,end=len('Well, well, it got much darker.'))])
+        self.assertEqual(units[0]['speaker'],'DM')
+        with core.lock(self.root):review.prepare(self.root,['u0001'])
+        reopened=review.inputs(self.root)[6]
+        self.assertEqual(reopened,turns)
+        self.decide(['retain']);self.apply();self.finalize()
+        self.assertNotIn('speakerCorrections',yaml.safe_load((self.root/a['sessionMetadata']).read_text())[final.KEY])
 
     def test_recovery_after_interrupted_markdown_application(self):
         a=self.export();self.handoff(a);self.decide(['proposed'],{0:'Well, well, it got darker.'})

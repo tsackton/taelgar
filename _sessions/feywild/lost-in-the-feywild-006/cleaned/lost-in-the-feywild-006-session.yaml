@@ -63,8 +63,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/lost-in-the-feywild-006-transcript.md
       sha256: 6e6f446b422becd948b3402a0ff3caf74ea0044909b7dd24e38213984b2b389d
-  speakerCorrections:
-  - uid: u0433
-    start: 0
-    end: 28
-    speaker: Kaito Min

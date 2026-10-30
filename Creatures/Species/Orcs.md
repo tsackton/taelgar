@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [creature, status/wip, status/check/lint, status/check/ai]
+tags: [creature, status/wip]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
 dm_owner: none
@@ -15,7 +15,7 @@ POV: modern
 >_O Thark, whose chains no hand can break, by fire and blood this soul we bind._  
 >_No peace. No rest. Let hunger burn. Let strife be all this soul shall find._
 
-Scattered across Taelgar, small orc bands roam the margins of settled lands, raiding and pillaging in the name of [[Thark]], the God of War Without End. Fighting as much amongst themselves as with other species of the world, orcs are Thark's creation, bound to his will and driven to ceaseless conflict. The burning fire of his curse turns their strength against neighboring peoples and one another alike, unless a strong leader arises blessed by Thark, who can force warring bands to fight as one in a fearsome horde. 
+Scattered across Taelgar, small orc bands roam the margins of settled lands, raiding and pillaging in the name of [[Thark]], the God of War Without End. Fighting as much amongst themselves as with other species of the world, orcs are Thark's creation, bound to his will and driven to ceaseless conflict. The burning fire of his curse turns their strength against neighboring peoples and one another alike, unless a strong leader arises blessed by Thark, who can force warring bands to fight as one in a ravaging horde. These hordes, emerging from marginal lands and sweeping across the land, are what give orcs their fearsome reputation. 
 
 ## Appearance and Lifecycle
 
@@ -31,22 +31,25 @@ At times, a leader blessed by [[Thark]] may unite many small bands together, tur
 
 ## Thark's Chains
 
-Thark's will dominates and controls the lives of those bound to him. Orcish religion, such as it is, glorifies strength, victory, and f. Thark drives his followers to fight one another, bringing strength to the victors, and their leaders must continually turn this violence toward external enemies to hold their warbands together. War serves his will even when nothing is gained from it: his curse demands violence without purpose, war for the sake of war.
+Thark's will dominates and controls the lives of those bound to him. Orcish religion, such as it is, glorifies strength, victory, and the idea that might makes right. Thark drives his followers to fight one another, blessing the victors with strength. War serves his will even when nothing is gained from it: his curse demands violence without purpose, war for the sake of war. But it is also through this constant churn of violence that, occasionally, a leader arises who can forge disparate warbands into a horde. 
 
-The bond to Thark is imposed through a blood ritual performed on newborn orcs. Few outsiders understand its workings, though accounts of the rite circulate under many names, including the Blood Binding and the Blood Oath of the Crimson Blade, a name used by human scholars. These accounts describe a ritual that infuses the child with the strength and fire of Thark's will, binding it to a life of conflict. Infants who cannot or will not accept the curse are said not to survive the rite.
+The bond to Thark is imposed through a ritual performed on newborn orcs, a ritual that all orcs bound by Thark feel compelled to carry out. Few outsiders understand its workings, and orcs do not allow others to observe it, but it is rumored that this ritual infuses a newborn orc with the fire and strength of Thark's will through a cleansing fire that binds them to a life of conflict. Infants who cannot or will not accept the curse are said not to survive the rite.
+
+Rumors circulate throughout Taelgar of unchained orcs, free orcs that have broken the bounds of [[Thark]]'s curse, and live without the burning fire of [[Thark]]'s divine will driving them to ceaseless violence.
 
 %%^Campaign:dufr%%
 ## Free Orcs
 
-Thark's hold can be escaped. Orcs who have never undergone the binding ritual grow up free of his compulsion, and their children can likewise be born and raised free. Others have had their bonds severed through powerful magic. These free orcs remain the same people in body and potential, able to build families and communities beyond the demands of their creator.
+Thark's chains can be escaped. Orcs who have never undergone the binding ritual grow up free of his compulsion, and free to live their lives for themselves. Others have had their bonds severed through powerful magic. Once tied to [[Thark]], breaking the connection is very hard, so most free orcs are those who were born free, usually to other free orcs who, naturally, refuse to carry out the binding ritual.
 
-For those once bound, freedom can be difficult. [[Murook]], freed in childhood through the [[Cloak of Rainbows]], describes the fire of Thark's chains still burning at times, long after her liberation. The [[Hezguli]] offer support and fellowship to orcs learning to live with these scars. Such struggles belong to the experience of binding and release; orcs born free have never endured the chains themselves.
+For those once bound, freedom can be difficult. Some orcs in this situation describes the fire of Thark's chains still burning at times, long after liberation. Among the [[People of the Rainbow]], The [[Hezguli]] offer support and fellowship to orcs learning to live with these scars. 
 
-Freedom also brings danger from outside. None are more hated by Thark's followers than those who have broken free: communities that turn from his way face unceasing attacks, forcing them to conceal themselves or find protection against his reach. The loss of such protection does not itself bind free orcs anew, but can expose them to attack and deprive those once bound of relief from the lingering effects of his influence. Among other peoples, free orcs must also contend with the fearsome reputation of Thark's warbands, and often struggle to distinguish themselves from those still bound to him.
-
-Because of this, orcs have a fearsome reputation, and free orcs who have escaped [[Thark]]'s chains often struggle to distinguish themselves from their [[Thark]]-cursed brethren.
+Orcs born free, having never endured the chains of Thark themselves, do not suffer the scars of Thark. But all free orcs face danger from outside. None are more hated by Thark's followers than those who have broken free: any community that turns from [[Thark]]'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [[Thark]]'s probing eyes. Among other peoples, free orcs must also contend with the fearsome reputation of Thark's warbands, and often struggle to distinguish themselves from their [[Thark]]-cursed brethren.
 
 ## The People of the Rainbow
+
+Among the most famous free orcs are the [[People of the Rainbow]], living in the deserts east of [[Dunmar]]. 
+
 
 The [[People of the Rainbow]] have lived free of Thark for many generations. They trace their beginnings to orc children raised in [[Amberglow]], under the protection of the [[Cloudspinner]]. Her gift of the [[Cloak of Rainbows]] allowed them to venture into Taelgar and free others. After the cloak was stolen, they survived for centuries in scattered, hidden communities, until its recovery by [[Uzgash]] made possible the founding of [[Xurkhaz]], their homeland in the deserts east of [[Dunmar]].
 
@@ -66,54 +69,11 @@ Among the People of the Rainbow is the belief that a life well lived becomes poi
 - [[Session 103 (DuFr)]] — the source-cleaned transcript u1799–u1813 records Nuzkar explaining her people's belief that a good, happy life makes a soul poisonous to Thark. This is a belief, not confirmation of the fate of free-orc souls.
 %%
 
-%%^Campaign:none%%
-
-
-## Thark, the God of War Without End
-
-Orcs are tightly bound to, and cursed by, [[Thark]], the embodied god of war without end. Through [[Thark]]'s dominion, orcs are compelled to violence without purpose, war for the sake of war. 
-
-Orcish religion, the manifestation of [[Thark]]'s will in the world, glorifies strength and resolving conflicts through violence. But the real power of [[Thark]]'s curse is enforced by a mysterious rumored ritual known by many names, and often referred to as the Blood Oath of the Crimson Blade by human scholars. While few details of this ritual are known to non-orcs, it is rumored that this ritual, performed on all newborn orcs, infuses them with the strength and fire of [[Thark]]'s will. Those who cannot or will not accept the curse of [[Thark]] do not survive the ritual. 
-
-%%SECRET[v2:28d9bd32f1fd40a9739253f2257944de]%%
-## Unchained Orcs
-Rumors circulate throughout Taelgar of unchained orcs, free orcs that have broken the bounds of [[Thark]]'s curse, and live without the burning fire of [[Thark]]'s divine will driving them to ceaseless violence.
-
-The most famous of these orcs are the [[People of the Rainbow]], living in the deserts east of [[Dunmar]]. 
-
-Free orcs live in the constant shadow of [[Thark]]'s hunters. [[Thark]] watches over his orcs, driving them to fight each other, bringing strength to the victors. But none are more hated by [[Thark]]'s orcs than those who have broken free: any tribe that tries to turn from [[Thark]]'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [[Thark]]'s probing eyes. 
-
-%%SECRET[v2:91bea42275a3217d29741081b3b334b6]%%
-
-%%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Orcs, language: unknown}
+- {name: Orcs, language: Common}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; the species description, Thark's curse, and the existence of free orcs form a current-era overview without a narrower dated snapshot.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized the order of the DM metadata fields.
-- Added a minimal name entry and broadly modern temporal metadata.
-
-### Validated judgments
-- Orcs is an ordinary species name; no pronunciation guide is needed, and its name-language origin is not established.
-- `status/wip` is not assessable: the note provides a usable species overview, but the tag records an unfinished formatting intention that requires its author's judgment. Preserved unchanged.
-- Reviewed the local DM evidence, both SECRET blocks, and the shared editorial comment; preserved their privacy and provisional status and retained the human DM attestations.
-
-### Open findings
-
-- [ ] **Suggestion — editorial.objective_copyediting:** Three small errors remain in the public prose. In the opening paragraph, replace “Although most orcs live in small groups, but when a leader blessed by [[Thark]] arises” with “Although most orcs live in small groups, when a leader blessed by [[Thark]] arises” to remove the doubled conjunction. In “Imposing and Violent,” replace “breathren” with “brethren.” In “Families and Hordes,” replace “a group of orcs often extend no further” with “a group of orcs often extends no further” for subject–verb agreement. These preserve the existing claims and can be applied as one bounded copyedit.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Archive Mysteries]]
-- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 70 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 71 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 72 - DM Notes]]
 %%^End%%

@@ -55,16 +55,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-137-transcript.md
       sha256: 374d0923dd4e652a7dc33e919c9a4b774003f4d2b47b3e2d29b15b369872cfd2
-  speakerCorrections:
-  - uid: u1915
-    start: 0
-    end: 46
-    speaker: Delwath
-  - uid: u5453
-    start: 27
-    end: 45
-    speaker: Seeker
-  - uid: u2652
-    start: 0
-    end: 77
-    speaker: Delwath

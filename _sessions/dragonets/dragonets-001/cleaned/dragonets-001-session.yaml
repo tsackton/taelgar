@@ -57,32 +57,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dragonets-001-transcript.md
       sha256: 273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a
-  speakerCorrections:
-  - uid: u0727
-    start: 87
-    end: 112
-    speaker: DM
-  - uid: u1147
-    start: 0
-    end: 27
-    speaker: Zeno
-  - uid: u1148
-    start: 0
-    end: 50
-    speaker: Zeno
-  - uid: u1190
-    start: 48
-    end: 148
-    speaker: Zeno
-  - uid: u1794
-    start: 20
-    end: 42
-    speaker: DM
-  - uid: u1921
-    start: 0
-    end: 26
-    speaker: Little Tony
-  - uid: u2148
-    start: 0
-    end: 25
-    speaker: DM

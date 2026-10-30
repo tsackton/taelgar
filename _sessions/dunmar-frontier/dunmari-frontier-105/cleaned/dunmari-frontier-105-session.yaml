@@ -55,12 +55,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-105-transcript.md
       sha256: e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b
-  speakerCorrections:
-  - uid: u2469
-    start: 0
-    end: 17
-    speaker: Delwath
-  - uid: u1997
-    start: 40
-    end: 71
-    speaker: Wellby

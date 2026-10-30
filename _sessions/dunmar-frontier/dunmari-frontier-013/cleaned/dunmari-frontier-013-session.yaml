@@ -59,16 +59,3 @@ transcriptProcessing:
     polishedMarkdown:
       path: cleaned/dunmari-frontier-013-transcript.md
       sha256: 8ea110dde5deab1517d950bea0071df4577d82e38a6d638f4a2a999a57c98019
-  speakerCorrections:
-  - uid: u0238
-    start: 0
-    end: 45
-    speaker: DM
-  - uid: u1937
-    start: 0
-    end: 22
-    speaker: DM
-  - uid: u2031
-    start: 0
-    end: 92
-    speaker: DM

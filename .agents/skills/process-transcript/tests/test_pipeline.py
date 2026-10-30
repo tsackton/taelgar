@@ -236,11 +236,14 @@ class PipelineTests(unittest.TestCase):
         with self.assertRaises(core.PipelineError):
             bad = copy.deepcopy(job['draftTurns']); bad[0]['speaker'] = 'Player'; core.validate_turns(bad, job['source'], job['attributions'])
         self.response(self.work('quality'), verdict='pass', findings=[], checks=['wording','punctuation','speaker_turns','uncertainty','boundary_continuity'], note='The recorded speaker correction is retained in the split turn.')
-        with core.lock(self.root): pipeline.export(self.root)
+        with core.lock(self.root): exported = pipeline.export(self.root)
+        polished = (self.root/exported['artifacts']['polishedMarkdown']).read_bytes()
         result = self.finalize()
         metadata = yaml.safe_load((self.root/result['artifacts']['sessionMetadata']).read_text())
-        self.assertEqual(metadata[finalization.KEY]['speakerCorrections'],
-                         [{k: attribution[k] for k in ('uid', 'start', 'end', 'speaker')}])
+        self.assertNotIn('speakerCorrections', metadata[finalization.KEY])
+        self.assertEqual((self.root/result['artifacts']['polishedMarkdown']).read_bytes(), polished)
+        self.assertIn(f'%% u0001:{split}-{len(u["text"])} %%\nPlayer:', polished.decode())
+        self.assertEqual((self.root/result['artifacts']['cleaned']).read_text(), source)
 
     def test_unassessed_markers_block_and_material_acceptance_persists(self):
         self.init(); job=self.work('clean');u=job['source'][0]

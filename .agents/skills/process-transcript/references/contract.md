@@ -52,7 +52,7 @@ These roles are independent of the current `cleaned/` directory layout:
 | `<stem>-source-prepared.md` | Permanent technical reference: normalized original wording and stable UID/time/speaker baseline for comparison and source links. |
 | `<stem>-source-cleaned.md` | Permanent working reference: best supported transcription; primary input to later analysis. |
 | `<stem>-transcript.md` | Permanent polished transcript: readable speech, corrected speaker turns, and hidden source-span comments. This is the retained reading/website source. |
-| `<stem>-session.yaml` | Permanent session metadata, plus a compact completion field and any speaker overrides still needed by consumers of the stable UID headers. |
+| `<stem>-session.yaml` | Permanent session metadata, plus completion status, counts, and retained artifact paths/fingerprints. Corrected attribution lives in the polished Markdown, not a duplicate YAML list. |
 | `<stem>-transcript.json` | Temporary structured export for inspection/integration during processing. Removed at finalization; no permanent duplicate of the Markdown is required. |
 | `<stem>-transcript.html` | Temporary display/QA export. Removed at finalization; future display can render the retained Markdown. |
 | `<stem>-transcript-entities.json` | Temporary exact-mention index supporting the cleanup pass. Removed at finalization; it is not a separate final product. |
@@ -181,7 +181,8 @@ Use actual source offsets. Correcting only part of a UID is allowed; turns must
 respect each attribution boundary. If wording changes on a unit with an existing
 overlay, explicitly recheck its offsets and resubmit the overlay. Never transfer
 an old speaker mapping to changed text without review. The helper retains original
-headers and records the corrected attribution separately for downstream consumers.
+headers and uses the attribution overlay during processing. Downstream consumers
+read corrected speakers and their source spans from the polished Markdown.
 
 ## Polish response
 
@@ -266,10 +267,11 @@ cleaned and readable text and remaps offsets without the original processing sta
 After current export and review, `finalize` retires disposable outputs and working
 state. Its five retained files are the original, prepared UID, cleaned UID, polished
 Markdown, and session YAML. The `transcriptProcessing` metadata field contains the
-completion status, counts, and four transcript paths/fingerprints. When speaker
-overrides exist, `speakerCorrections` preserves just their UID, character span,
-and corrected speaker, tied to the cleaned transcript fingerprint. It does not
-retain reasons, evidence, submitted responses, or a parallel polished JSON edition.
+completion status, counts, and four transcript paths/fingerprints. It does not
+write `speakerCorrections`: corrected speakers and within-UID boundaries are
+already retained in the polished Markdown's labelled turns and source spans.
+Prepared and cleaned headers remain unchanged. Finalization does not retain
+attribution reasons, evidence, submitted responses, or a parallel polished JSON edition.
 
 After finalization, `status`/`init` read that record without recreating work. Status
 adds `finalized: true`; later missing/edited references produce

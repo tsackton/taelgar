@@ -354,9 +354,6 @@ def finalize(root):
     uncertain = meta['uncertainty'] or any(MARKER.search(u['text']) for u in units) or bool(re.search(r'\[(?:garbled|cross-talk)\]', text))
     record = dict(version=1, status='complete_with_uncertainty' if uncertain else 'complete', units=len(units),
                   issues=meta['retainedIssues'], artifacts={k:dict(path=artifacts[k], sha256=meta['hashes'][artifacts[k]]) for k in final.RETAINED})
-    by_uid = {u['uid']: u for u in units}
-    corrections = [dict(span, speaker=t['speaker']) for t in turns for span in t['sources'] if by_uid[span['uid']]['speaker'] != t['speaker']]
-    if corrections: record['speakerCorrections'] = corrections
     manifest = safe(root, artifacts['sessionMetadata'])
     before = manifest.read_bytes()
     after = final.replace_completion(before, record)
