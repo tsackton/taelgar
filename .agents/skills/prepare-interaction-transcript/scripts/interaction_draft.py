@@ -92,7 +92,14 @@ def coverage(turns):
     return result
 
 
-def load(session_yaml):
+def check_draft_syntax(turns):
+    for turn in turns:
+        require('((' not in turn['body'] and '))' not in turn['body'],
+                'Polished source uses reserved ((...)) syntax; report the collision without editing it')
+
+
+def load(session_yaml, *, for_draft=True):
+    """Read shared sources; reserve snip delimiters only for reduction work."""
     manifest = Path(session_yaml).absolute()
     require(manifest.name.endswith('-session.yaml') and manifest.parent.name == 'cleaned',
             'Expected cleaned/<stem>-session.yaml inside a session bundle')
@@ -125,8 +132,9 @@ def load(session_yaml):
     require(META not in header, 'Input is already a derivative')
     for turn in turns:
         require(re.match(r'[^\n:]+: ', turn['body']) is not None, 'Expected a speaker-labelled polished turn')
-        require('((' not in turn['body'] and '))' not in turn['body'], 'Polished source uses reserved ((...)) syntax; report the collision without editing it')
         require(not re.search(r'^%%', turn['body'], re.M), 'Unsupported or malformed comment in polished turn; inspect without altering source')
+    if for_draft:
+        check_draft_syntax(turns)
     # Strengthen coverage against retained cleaned text when registered. It is never edited.
     fingerprints = {str(manifest.relative_to(root)): sha(manifest_bytes), artifact['path']: sha(source_bytes)}
     cleaned = artifacts.get('cleaned')
@@ -146,6 +154,7 @@ def load(session_yaml):
 
 
 def metadata(bundle):
+    check_draft_syntax(bundle['turns'])
     return {'version': 4, 'sessionYaml': bundle['manifest'].relative_to(bundle['root']).as_posix(),
             'sourceSha256': bundle['sourceSha256']}
 

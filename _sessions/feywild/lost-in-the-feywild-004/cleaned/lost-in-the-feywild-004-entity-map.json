@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
   "inputs": {
     "sessionInputs": {
@@ -149,8 +149,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Other Humans/Thalestria.md",
-      "reason": "Discussed through history and Kallipseis’s beliefs. Her fate is uncertain in this transcript; do not import later revelations."
+      "note": "People/Other Humans/Thalestria.md"
     },
     {
       "id": "e004",
@@ -214,8 +213,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Other Nonhumans/Rakshasa.md",
-      "reason": "A specific prior party guest recalled here, rather than a generic creature type."
+      "note": "People/Other Nonhumans/Rakshasa.md"
     },
     {
       "id": "e006",
@@ -251,8 +249,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "People/Fey/Lord Endless Ending.md",
-      "reason": "The named fey lord and bargain are clear; identifying him as the journal’s teacher is only presumptive in the source. Retain his session-era title."
+      "note": "People/Fey/Lord Endless Ending.md"
     },
     {
       "id": "e007",
@@ -305,7 +302,6 @@
         "status": "unreviewed"
       },
       "note": "People/Other Nonhumans/Prisoner in the 27th Room.md",
-      "reason": "The Child and Dreamer accounts apparently describe the prisoner studied through listening windows. Their shared identity is provisional; later origin and name revelations are not imported.",
       "names": [
         "Child (voice)",
         "Dreamer (voice)"
@@ -329,7 +325,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "Retrospective reference identifies Hulda’s pale recruiter as Alden through his appearance, employer, and guiding role. Keep the unnamed session label; no later origin or fate is assigned to this encounter.",
       "note": "People/Sembarans/Alden.md",
       "identifiedLater": true
     },
@@ -350,8 +345,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "A particular unnamed deed-giver in the recap. No supported individual match from person filenames, aliases, Hulda references, or deed references; do not identify the elf with another fey without evidence."
+      }
     },
     {
       "id": "e010",
@@ -370,8 +364,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "A particular earlier guest is discussed, but even the DM’s recollection of a human woman is tentative. No supported named person match from party-guest or Menestheus references."
+      }
     },
     {
       "id": "e011",
@@ -390,8 +383,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "The Dreamer account identifies a particular visiting neighbor, possibly the earlier teacher. No independently supported match from names, aliases, or prisoner references; keep this role unresolved rather than force a merger."
+      }
     },
     {
       "id": "e012",
@@ -411,7 +403,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "The order’s retrospective history explicitly identifies Apollyon as the emperor resisted by Kallipseis. Keep the session’s unnamed imperial title and do not imply the characters named him here.",
       "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
       "identifiedLater": true
     },
@@ -440,8 +431,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A specific recurring companion, though unnamed. No individual owl page found in person filenames, aliases, or companion references."
+      }
     },
     {
       "id": "e014",
@@ -513,8 +503,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Night Queen.md",
-      "reason": "Recognized symbols and prayers, without a claimed divine encounter."
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Night Queen.md"
     },
     {
       "id": "e016",
@@ -534,8 +523,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md",
-      "reason": "The devotional architecture invokes the pantheon collectively; do not infer eight individually mentioned gods."
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md"
     },
     {
       "id": "e017",
@@ -554,8 +542,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "The particular deed and its condition motivate the expedition. No dedicated item page found in object names, aliases, or deed references."
+      }
     },
     {
       "id": "e018",
@@ -582,8 +569,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular plot device discussed for moving mortals between realms. No dedicated object page found in clock names, aliases, or house references; distinct from the smaller mantel clocks."
+      }
     },
     {
       "id": "e019",
@@ -610,8 +596,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular sought key connected with the bargain and breaking the door. No dedicated item page from names, aliases, or key references; its possible use is discussed, not acquisition."
+      }
     },
     {
       "id": "e020",
@@ -654,8 +639,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular physical journal transcribing the Child account. No individual object page found; the vault’s transcription compilation covers several journals and is retained as supporting evidence instead of a shared object identity."
+      }
     },
     {
       "id": "e021",
@@ -682,8 +666,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A separate physical journal with Dreamer entries. No individual object page found; do not merge it with the Child journal merely because both accounts appear in one vault compilation."
+      }
     },
     {
       "id": "e022",
@@ -746,8 +729,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "A particular constructed body central to her escape plan, treated as an unfinished object rather than another person. No dedicated item page found in body/golem filenames, aliases, or Kallipseis references."
+      }
     },
     {
       "id": "e024",
@@ -766,8 +748,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular smaller clock Kallipseis left in the greenhouse, discussed as a way to verify the party’s claims. No individual object page found in clock names, aliases, or house references."
+      }
     },
     {
       "id": "e025",
@@ -786,70 +767,93 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A second smaller clock Kallipseis left in the animal lab, discussed for verification. No individual object page found in clock names, aliases, or house references; keep it distinct from the greenhouse clock."
+      }
     }
   ],
   "exclusions": [
     {
       "label": "Active PCs",
       "reason": "Kaito Min, Edric, Tarek, Ayveen, and Txarro are YAML-registered PCs, not entity records simply for speaking.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0001",
-        "endUid": "u0007"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0007"
+          }
+        }
+      ]
     },
     {
       "label": "Two remaining halfling party guests",
       "reason": "An undifferentiated pair in the recap, without individual identities or substantive discussion here.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0059",
-        "endUid": "u0061"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0061"
+          }
+        }
+      ]
     },
     {
       "label": "Construct helpers",
       "reason": "Generic workshop assistants without distinct personal identities; Kallipseis’s own unfinished body is tracked separately as a plot object.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1658",
-        "endUid": "u1688"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1658",
+            "endUid": "u1688"
+          }
+        }
+      ]
     },
     {
       "label": "Unidentified corpses",
       "reason": "Anonymous remains encountered during exploration do not establish distinctive individual NPCs.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1015",
-        "endUid": "u1076"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1015",
+            "endUid": "u1076"
+          }
+        }
+      ]
     },
     {
       "label": "House rooms, prison machinery, and pipes",
       "reason": "Architectural locations and infrastructure belong outside these four entity kinds; no separate named portable artifact is established.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1937",
-        "endUid": "u1962"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1937",
+            "endUid": "u1962"
+          }
+        }
+      ]
     },
     {
       "label": "Agata, her ring, and the golem manual in postgame analogies",
       "reason": "Other-campaign comparisons used to explain play and construction; no substantive current-session entity discussion.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u2450",
-        "endUid": "u2451"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2450",
+            "endUid": "u2451"
+          }
+        }
+      ]
     }
   ],
   "evidenceNotes": [

@@ -135,12 +135,21 @@
           ],
           "format": "date"
         },
-        "time": {
+        "timeStart": {
           "type": [
             "string",
             "null"
           ],
-          "minLength": 1
+          "minLength": 1,
+          "description": "Supported narrative time at the scene's start; relative or approximate wording is allowed."
+        },
+        "timeEnd": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "minLength": 1,
+          "description": "Supported narrative time at the scene's end; omit or use null when unknown."
         },
         "aiSummary": {
           "type": "string",

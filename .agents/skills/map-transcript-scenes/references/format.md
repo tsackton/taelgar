@@ -1,4 +1,4 @@
-# Provisional scene map v1
+# Provisional scene map v2
 
 One `cleaned/<stem>-scene-map.json` per selected session. This is a processing
 artifact. It neither changes the canonical session YAML nor declares acceptance
@@ -6,14 +6,13 @@ of the final interaction data. No new source paths or copied session metadata.
 
 | Field | Required | Meaning |
 | --- | --- | --- |
-| `schemaVersion` | Yes | `1`, the scene-map format, not the session.json version. |
+| `schemaVersion` | Yes | `2`, the scene-map format, not the session.json version. |
 | `sessionYaml` | Yes | Vault-relative path to the authoritative manifest. |
 | `inputs` | Yes | Generated fingerprints described below. |
 | `scenes` | Yes | Ordered played scenes; may be empty for a discussion-only recording. |
 | `contextBlocks` | Yes | Ordered passages outside played scenes; may be empty. |
-| `dateValidation` | For new/revised maps | Agent's session-level assessment of YAML dates against transcript evidence. |
-| `splitConfidence` | For new/revised maps | One confidence rating and reason for the whole scene/context division. |
-| `findings` | No | Material boundary, context, location, or date questions with source evidence. |
+| `review` | Yes | Shared `{confidence, status}` for the overall scene/context division and source accounting. |
+| `issues` | No | AI-generated concerns, each with a short description and optional transcript evidence. |
 
 `inputs.sessionYamlDigest` hashes parsed YAML as sorted compact JSON (date values
 serialized as ISO strings), ignoring only the final `interactionExtraction`
@@ -36,16 +35,18 @@ Optional fields retain the existing schema's names:
 - `location`: verified vault-relative note path, or null.
 - `locationDetail`: narrative subplace, or null.
 - `dateStart`, `dateEnd`: supported ISO in-world dates, or null.
-- `time`: supported narrative time such as “after dinner”, or null.
+- `timeStart`, `timeEnd`: supported narrative times at the scene's beginning and
+  ending, respectively, or null. Each endpoint is independently optional.
 - `aiSummary`: at most 25 words of navigation/summary text.
 
 Location and time context are strongly encouraged during authoring, although
 they remain optional in the schema. `location` should meaningfully identify the
 scene's setting; a broad containing region is not an automatic fallback.
-`locationDetail` can stand alone when no suitable vault page exists. `time` can
-use supported broad or relative wording, including estimates carried through
-continuous play; exact hours need source evidence. Missing values do not block
-validation or require a finding. See the skill's scene-context guidance for
+`locationDetail` can stand alone when no suitable vault page exists. `timeStart`
+and `timeEnd` can use supported broad or relative wording, including estimates
+carried through continuous play; exact hours need source evidence. Leave an
+unknown endpoint absent/null, even when the other is known. Missing values do not block
+validation or require an issue. See the skill's scene-context guidance for
 matching and chronology decisions.
 
 No separate title, participant list, entity records, interaction classifications,
@@ -75,7 +76,7 @@ same place/time span. Those passages stay inside the single range; no additional
 range or overlapping context block is needed. Scene membership alone does not
 classify every included passage as in-world action or dialogue.
 
-## Context and findings
+## Context
 
 A context block requires `source`, `kind` (`recap | loreDiscussion | tableChatter`),
 and `aiSummary` (at most 25 words explaining the passage's framing). These blocks
@@ -91,85 +92,64 @@ gaps, overlaps, or duplicate coverage. Each collection is independently ordered;
 the helper renders their merged source order. Context blocks do not consume scene
 indexes. Empty `scenes` requires full coverage by contextual blocks, and vice versa.
 
-A finding requires `kind` (`boundary | context | location | dateConflict`),
-`source`, and `reason`. A `dateConflict` additionally requires `yamlFields`, a
-nonempty list drawn from `drStart`, `drEnd`, `drStartTime`, `drEndTime`, and
-`realWorldDate` (only with independent real-world evidence). Findings
-may overlap scenes/context blocks; they annotate evidence rather than covering
-additional source. They are questions/contradictions needing attention, not a
-second review-status system. Unknown dictionary keys are rejected to catch typos.
+## AI issues
 
-The validator emits a critical finding for recorded `dateConflict` entries and a
-warning for scene dates outside YAML's span. That warning is not proof of a clear
-transcript conflict: inspect whether the scene is a flashback or the date was
-assigned incorrectly. It does not reject a longer/clarifying YAML date span.
+`issues` is an optional array for specific AI-generated concerns. Omit it, or use
+an empty array, when there are no concerns to report. Its sole purpose is to
+surface concerns and supporting evidence in a review workflow. Issue presence
+does not fail validation or automatically change confidence or review status.
+Each issue has:
 
-## Session date validation
+| Field | Required? | Meaning |
+| --- | --- | --- |
+| `description` | Yes | Brief, nonempty, single-line explanation of the concern and what needs checking. |
+| `evidence` | No | Nonempty array of original transcript `SourceRef` ranges supporting the concern. Omit when a whole-map concern cannot be localized. |
 
-This assessment is separate from scene coverage and individual scene dates.
-`dateValidation` contains `result`, `reason` (brief explanation and limits), and
-`evidence` (an array of existing transcript source references):
+Issues can concern dates, uncertain boundaries, contextual framing, or location
+matches. There is no required issue taxonomy, severity, separate date assessment,
+or positive validation statement. For a date discrepancy, name the affected YAML
+field and explain the source comparison in the description. Keep uncertainty
+explicit; a concern does not establish a correction or authorize changing YAML.
 
-- `consistent`: the transcript timeline is compatible with YAML as its calendar
-  anchor. Relative elapsed time and transitions suffice; an explicitly spoken
-  calendar date is not required. This does not independently confirm every YAML
-  value. Requires at least one source range.
-- `conflict`: at least one clear discrepancy is recorded in `findings` as
-  `dateConflict`. Requires at least one source range. Each conflict supplies its
-  affected YAML fields and comparison/correction rationale. An unresolved
-  conflict cannot coexist with a `consistent` assessment.
-- `insufficientEvidence`: the source cannot meaningfully test the chronology or
-  leaves a material timing question unresolved, without a clear contradiction.
-  Identify the material uncertainty, such as ambiguous travel duration that could
-  exceed the YAML span. An unstated calendar date alone does not qualify. Evidence
-  may be empty if there is no usable timeline evidence.
+Evidence may overlap scenes, context blocks, and other issues. It annotates a
+concern rather than adding a coverage bucket. Source ranges still respect whole
+turns/UIDs. Unknown keys are rejected. The helper checks shape and source ranges;
+it does not author concerns, infer a successful date check, or certify their truth.
+An absent issue list is not proof that all potential problems were checked.
 
-An absent assessment on an older provisional map is reported as `notChecked`.
-The reader can still display that map, but the writer requires an explicit
-assessment for every new or revised map. `notChecked` cannot be authored as a
-completed assessment. Date validation has no confidence score; overall split
-confidence is recorded separately.
+Use YAML as the calendar anchor. Its span may extend beyond recorded action, and
+an unspoken calendar date or unknown time endpoint alone is not a concern. Check
+assigned dates outside the YAML span against source framing before raising an
+issue; flashbacks or an incorrect assignment can explain the difference.
 
-The assessment is authored by the mapping/review agent, never inferred from
-successful mechanical validation. The validator checks its shape, evidence
-ranges, and consistency with recorded conflicts; it cannot prove that all date
-statements were read or that the temporal reasoning is correct. YAML values are
-resolved for display, not copied into the map. Corrected YAML changes the input
-digest and requires a fresh evidence-based date assessment.
+## Map review
 
-## Overall split confidence
+`review` uses the shared structure, with exactly two required fields:
 
-`splitConfidence` contains `rating: high | medium | low` and a nonempty, brief
-`reason` for the session's overall scene/context division. It covers site/route
-granularity, place/time boundaries, and contextual framing together, without
-per-scene or per-field scores:
+- `confidence`: `high | medium | low`, for the overall scene/context division and
+  source accounting. High is well supported, medium has selective boundary/context
+  questions, and low has material gaps or competing divisions.
+- `status`: `unreviewed | automatedReviewed | humanReviewed`. Automated review
+  requires a distinct semantic pass; human review requires an actual user decision
+  on this map. Validation supplies neither.
 
-- `high`: the overall division is well supported, with only minor alternatives.
-- `medium`: usable division with plausible alternative boundaries or context
-  assignments needing selective review.
-- `low`: material gaps or competing interpretations may substantially change
-  the division and need broader review.
+There is no rating/reason pair or per-scene review field. Keep confidence separate
+from date compatibility and note matching unless those uncertainties affect the
+division. A few defensible extra scenes need not lower confidence. Review values
+are caller attestations; write guards protect inputs and output versions, not
+the truth of review claims.
 
-The mapping agent authors this after semantic review; successful structural
-validation does not generate or establish the rating. Keep it independent of
-calendar-date accuracy and location-note matching unless those uncertainties
-affect the split. A few defensible extra scenes do not automatically reduce it.
-For example:
-
-```json
-{
-  "splitConfidence": {
-    "rating": "medium",
-    "reason": "The overnight boundaries are clear; treating the chapel and main house as separate sites is a plausible merge choice."
-  }
-}
-```
-
-New and revised saves require both fields. Legacy maps without the object remain
-readable; validation and preview report `rating: notAssessed` without adding it
-to the saved map or inferring confidence. `notAssessed` is a display fallback,
-not an authorable rating. This is an additive version-1 field; no existing maps
-are automatically migrated or re-rated.
+Version 1 maps remain readable, including their legacy scene `time` and optional
+`splitConfidence`. New scene records use only `timeStart` and `timeEnd`.
+They have no shared review; validation reports `review: null` and preview says
+“not recorded”. An old rating does not establish any review status. An intentional
+revision must author the shared review after checking evidence and save as v2
+with the normal input/output guards. Version 1's `findings` and `dateValidation`
+remain readable; previews surface recorded concerns without positive date
+assessments or rewriting the file. On revision, consolidate substantive concerns
+into `issues` and discard obsolete pass statements. Recheck original speech to
+assign separate time endpoints; do not copy or automatically split the old narrative time span.
+Never invent values just to migrate a file.
 
 ## Reading, review, and downstream use
 
@@ -178,14 +158,14 @@ are automatically migrated or re-rated.
 source windows. If a collapsed snip crosses a requested window, it displays
 polished text for that window instead of misleadingly assigning the entire snip
 to one scene. `validate` checks the default map or an explicit `--map PATH`.
-`preview` leads with the date assessment, current YAML date values, source links,
-and date discrepancies, followed by overall split confidence and its reason,
-then the compact scene table and remaining findings. It
+`preview` leads with any AI-generated concerns and their evidence, then YAML
+calendar context, map-review confidence/status, and the compact scene table. It
 prints to stdout and persists no review document. The user-facing handoff follows
-the skill's **Review presentation** section: one row per saved scene with place
-and date/time context, even when some values are unknown; AI summaries are optional.
-Date and time may share a column. For a session occurring on one supported date,
-state that date above the table and show only times in the rows.
+the skill's **Review presentation** section: one row per saved scene with place,
+start, and end context, even when some values are unknown; AI summaries are optional.
+Each endpoint can combine date and time. If every scene has the same supported
+start/end date, state it above the table and show separate Start time / End time
+columns. Legacy previews retain the unsplit text in a clearly labeled column.
 Do not compress multiple scenes into a narrative group or rely on tool output
 alone to deliver the table. `save --proposal - --expect-input-digest DIGEST` validates and
 writes the default map from stdin. Use the input digest from the initial `inspect`

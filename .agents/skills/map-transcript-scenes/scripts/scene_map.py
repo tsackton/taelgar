@@ -17,11 +17,13 @@ from transcript_core import atomic, lock, safe
 VAULT = Path(__file__).resolve().parents[4]
 SCENE_TYPES = {'conversation', 'exploration', 'combat', 'travel'}
 CONTEXT_KINDS = {'recap', 'loreDiscussion', 'tableChatter'}
-FINDING_KINDS = {'boundary', 'context', 'location', 'dateConflict'}
+LEGACY_FINDING_KINDS = {'boundary', 'context', 'location', 'dateConflict'}
 YAML_TIME_FIELDS = {'drStart', 'drEnd', 'drStartTime', 'drEndTime'}
 YAML_DATE_FIELDS = YAML_TIME_FIELDS | {'realWorldDate'}
-DATE_RESULTS = {'consistent', 'conflict', 'insufficientEvidence'}
+LEGACY_DATE_RESULTS = {'consistent', 'conflict', 'insufficientEvidence'}
 CONFIDENCE_RATINGS = {'high', 'medium', 'low'}
+REVIEW_STATUSES = {'unreviewed', 'automatedReviewed', 'humanReviewed'}
+SCHEMA_VERSION = 2
 
 
 class MapError(ValueError):
@@ -58,8 +60,16 @@ def string(value, label, limit=None, nullable=False):
         require(len(value.split()) <= limit, f'{label} exceeds {limit} words')
 
 
+def validate_review(value, label='review'):
+    object_fields(value, {'confidence', 'status'}, set(), label)
+    require(isinstance(value['confidence'], str) and value['confidence'] in CONFIDENCE_RATINGS,
+            f'{label} has unknown confidence')
+    require(isinstance(value['status'], str) and value['status'] in REVIEW_STATUSES,
+            f'{label} has unknown review status')
+
+
 def load(session_yaml, vault_root=VAULT):
-    bundle = draft.load(session_yaml)
+    bundle = draft.load(session_yaml, for_draft=False)
     vault = Path(vault_root).resolve()
     require(bundle['manifest'].is_relative_to(vault), 'Session YAML must be inside the selected vault')
     session_relative = bundle['manifest'].relative_to(vault).as_posix()
@@ -122,15 +132,85 @@ def date_value(value, label):
     return parsed
 
 
+def validate_issues(bundle, issues):
+    require(isinstance(issues, list), 'issues must be an array')
+    for n, issue in enumerate(issues):
+        label = f'issues[{n}]'
+        object_fields(issue, {'description'}, {'evidence'}, label)
+        string(issue['description'], label + '.description')
+        if 'evidence' in issue:
+            require(isinstance(issue['evidence'], list) and issue['evidence'],
+                    f'{label}.evidence must be a nonempty array when supplied')
+            for ref in issue['evidence']:
+                source_bounds(bundle, ref, label + '.evidence')
+    return issues
+
+
+def legacy_issues(bundle, document):
+    """Read v1 concerns without writing a migration or retaining positive assessments."""
+    findings = document.get('findings', [])
+    require(isinstance(findings, list), 'Legacy findings must be an array')
+    issues = []
+    for finding in findings:
+        object_fields(finding, {'kind', 'source', 'reason'}, {'yamlFields'}, 'legacy finding')
+        require(isinstance(finding['kind'], str) and finding['kind'] in LEGACY_FINDING_KINDS,
+                'Unknown legacy finding kind')
+        source_bounds(bundle, finding['source'], 'legacy finding.source')
+        string(finding['reason'], 'legacy finding.reason')
+        prefix = finding['kind']
+        if finding['kind'] == 'dateConflict':
+            fields = finding.get('yamlFields')
+            require(isinstance(fields, list) and fields
+                    and all(isinstance(k, str) and k in YAML_DATE_FIELDS for k in fields),
+                    'Legacy dateConflict must identify affected YAML date/time fields')
+            require(len(fields) == len(set(fields)), 'yamlFields must not contain duplicates')
+            prefix = 'Date concern (' + ', '.join(fields) + ')'
+        else:
+            require('yamlFields' not in finding, 'yamlFields applies only to legacy dateConflict')
+        issues.append({'description': prefix + ': ' + finding['reason'],
+                       'evidence': [finding['source']]})
+    if 'dateValidation' in document:
+        old = document['dateValidation']
+        object_fields(old, {'result', 'reason', 'evidence'}, set(), 'legacy dateValidation')
+        require(isinstance(old['result'], str) and old['result'] in LEGACY_DATE_RESULTS,
+                'Unknown legacy dateValidation result')
+        string(old['reason'], 'legacy dateValidation.reason')
+        require(isinstance(old['evidence'], list), 'Legacy date evidence must be an array')
+        for ref in old['evidence']:
+            source_bounds(bundle, ref, 'legacy date evidence')
+        require(old['result'] == 'insufficientEvidence' or old['evidence'],
+                'Legacy consistent/conflict assessment requires evidence')
+        require(any(f['kind'] == 'dateConflict' for f in findings) == (old['result'] == 'conflict'),
+                'Legacy date assessment must agree with its findings')
+        if old['result'] == 'insufficientEvidence':
+            issue = {'description': old['reason']}
+            if old['evidence']:
+                issue['evidence'] = old['evidence']
+            issues.append(issue)
+    return validate_issues(bundle, issues)
+
+
 def validate(bundle, document):
     object_fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'scenes', 'contextBlocks'},
-                  {'findings', 'dateValidation', 'splitConfidence'}, 'map')
-    require(type(document['schemaVersion']) is int and document['schemaVersion'] == 1,
+                  {'issues', 'review', 'findings', 'dateValidation', 'splitConfidence'}, 'map')
+    require(type(document['schemaVersion']) is int and document['schemaVersion'] in (1, SCHEMA_VERSION),
             'Unsupported scene-map version')
+    if document['schemaVersion'] == SCHEMA_VERSION:
+        object_fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'scenes', 'contextBlocks',
+                                'review'}, {'issues'}, 'map')
+        validate_review(document['review'])
+    else:
+        object_fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'scenes', 'contextBlocks'},
+                      {'findings', 'dateValidation', 'splitConfidence'}, 'legacy map')
+        if 'splitConfidence' in document:
+            legacy = document['splitConfidence']
+            object_fields(legacy, {'rating', 'reason'}, set(), 'legacy splitConfidence')
+            require(isinstance(legacy['rating'], str) and legacy['rating'] in CONFIDENCE_RATINGS,
+                    'Unknown legacy splitConfidence rating')
+            string(legacy['reason'], 'legacy splitConfidence.reason')
     require(document['sessionYaml'] == bundle['sessionYaml'], 'Map belongs to a different session YAML')
     require(document['inputs'] == bundle['inputs'], 'Map inputs changed; recheck the map against current sources/YAML')
-    intervals, notices = [], []
-    yaml_start, yaml_end = (date.fromisoformat(str(bundle['data'][k])) for k in ('drStart', 'drEnd'))
+    intervals = []
     for collection in ('scenes', 'contextBlocks'):
         rows = document[collection]
         require(isinstance(rows, list), f'{collection} must be an array')
@@ -138,14 +218,15 @@ def validate(bundle, document):
         for n, row in enumerate(rows):
             label = f'{collection}[{n}]'
             if collection == 'scenes':
+                time_fields = {'time'} if document['schemaVersion'] == 1 else {'timeStart', 'timeEnd'}
                 object_fields(row, {'index', 'source'},
-                              {'type', 'location', 'locationDetail', 'dateStart', 'dateEnd', 'time', 'aiSummary'}, label)
+                              {'type', 'location', 'locationDetail', 'dateStart', 'dateEnd', 'aiSummary'} | time_fields, label)
                 require(type(row['index']) is int and row['index'] > last_index,
                         'Scene indexes must be positive, unique and increasing')
                 last_index = row['index']
                 if 'type' in row:
                     require(isinstance(row['type'], str) and row['type'] in SCENE_TYPES, f'{label} has unknown scene type')
-                for key in ('location', 'locationDetail', 'time'):
+                for key in ('location', 'locationDetail', *sorted(time_fields)):
                     if key in row:
                         string(row[key], f'{label}.{key}', nullable=True)
                 if row.get('location'):
@@ -155,9 +236,6 @@ def validate(bundle, document):
                             f'{label} cannot expose private DM paths')
                 starts, ends = (date_value(row.get(k), f'{label}.{k}') for k in ('dateStart', 'dateEnd'))
                 require(not (starts and ends and ends < starts), f'{label} dateEnd precedes dateStart')
-                if any(v and not yaml_start <= v <= yaml_end for v in (starts, ends)):
-                    notices.append({'severity': 'warning', 'kind': 'dateOutsideYaml', 'scene': row['index'],
-                                    'reason': 'Scene date is outside the YAML span; check source framing and the assignment.'})
             else:
                 object_fields(row, {'kind', 'source', 'aiSummary'}, set(), label)
                 require(isinstance(row['kind'], str) and row['kind'] in CONTEXT_KINDS, f'{label} has unknown context kind')
@@ -172,57 +250,16 @@ def validate(bundle, document):
         require(start == cursor, f'Source coverage gap or overlap before {label}')
         cursor = end + 1
     require(cursor == len(bundle['coverage']), 'Source coverage incomplete at end of transcript')
-    findings = document.get('findings', [])
-    require(isinstance(findings, list), 'findings must be an array')
-    for n, finding in enumerate(findings):
-        label = f'findings[{n}]'
-        object_fields(finding, {'kind', 'source', 'reason'}, {'yamlFields'}, label)
-        require(isinstance(finding['kind'], str) and finding['kind'] in FINDING_KINDS, f'{label} has unknown kind')
-        source_bounds(bundle, finding['source'], label + '.source')
-        string(finding['reason'], label + '.reason')
-        if finding['kind'] == 'dateConflict':
-            fields = finding.get('yamlFields')
-            require(isinstance(fields, list) and fields and all(isinstance(k, str) and k in YAML_DATE_FIELDS for k in fields),
-                    'dateConflict must identify affected YAML date/time fields')
-            require(len(fields) == len(set(fields)), 'yamlFields must not contain duplicates')
-        else:
-            require('yamlFields' not in finding, 'yamlFields applies only to dateConflict')
-        notices.append({'severity': 'critical' if finding['kind'] == 'dateConflict' else 'info', **finding})
-    assessment = document.get('dateValidation')
-    if 'dateValidation' not in document:
-        assessment = {'result': 'notChecked', 'reason': 'No session date assessment recorded; structural coverage is not date validation.',
-                      'evidence': []}
-    else:
-        object_fields(assessment, {'result', 'reason', 'evidence'}, set(), 'dateValidation')
-        require(isinstance(assessment['result'], str) and assessment['result'] in DATE_RESULTS,
-                'Unknown dateValidation result')
-        string(assessment['reason'], 'dateValidation.reason')
-        require(isinstance(assessment['evidence'], list), 'dateValidation.evidence must be an array')
-        for ref in assessment['evidence']:
-            source_bounds(bundle, ref, 'dateValidation.evidence')
-        require(assessment['result'] == 'insufficientEvidence' or assessment['evidence'],
-                'A consistent/conflict date assessment requires transcript evidence')
-        has_conflict = any(f['kind'] == 'dateConflict' for f in findings)
-        require(has_conflict == (assessment['result'] == 'conflict'),
-                'Date assessment must agree with recorded dateConflict findings')
-    confidence = document.get('splitConfidence')
-    if 'splitConfidence' not in document:
-        confidence = {'rating': 'notAssessed',
-                      'reason': 'No overall split confidence recorded; structural coverage does not supply a rating.'}
-    else:
-        object_fields(confidence, {'rating', 'reason'}, set(), 'splitConfidence')
-        require(isinstance(confidence['rating'], str) and confidence['rating'] in CONFIDENCE_RATINGS,
-                'Unknown splitConfidence rating')
-        string(confidence['reason'], 'splitConfidence.reason')
+    issues = (legacy_issues(bundle, document) if document['schemaVersion'] == 1
+              else validate_issues(bundle, document.get('issues', [])))
     return {'coverage': 'complete', 'sourceUids': len(bundle['coverage']),
             'scenes': len(document['scenes']), 'contextBlocks': len(document['contextBlocks']),
-            'dateValidation': assessment, 'splitConfidence': confidence,
-            'findings': notices, 'semanticReview': 'not established by validation'}
+            'review': document.get('review'), 'issues': issues, 'semanticReview': 'not established by validation'}
 
 
 def build(bundle, proposal):
-    object_fields(proposal, {'scenes', 'contextBlocks', 'dateValidation', 'splitConfidence'}, {'findings'}, 'proposal')
-    document = {'schemaVersion': 1, 'sessionYaml': bundle['sessionYaml'],
+    object_fields(proposal, {'scenes', 'contextBlocks', 'review'}, {'issues'}, 'proposal')
+    document = {'schemaVersion': SCHEMA_VERSION, 'sessionYaml': bundle['sessionYaml'],
                 'inputs': bundle['inputs'], **proposal}
     validate(bundle, document)
     return document
@@ -301,46 +338,66 @@ def source_link(bundle, ref):
     return f"[{label}](<{quote(str(bundle['source']), safe='/')}:{line}>)"
 
 
-def finding_line(bundle, item):
-    ref = item.get('source')
-    where = source_link(bundle, ref) if ref else f"scene {item['scene']}"
-    fields = ', '.join(f"{k}={cell(bundle['data'].get(k))}" for k in item.get('yamlFields', []))
-    return f"- {item['severity']}: {where}" + (f"; YAML {fields}" if fields else '') + f" — {cell(item['reason'])}"
+def issue_line(bundle, issue):
+    text = '- ' + cell(issue['description'])
+    evidence = issue.get('evidence', [])
+    if evidence:
+        text += ' — ' + ', '.join(source_link(bundle, ref) for ref in evidence)
+    return text
 
 
 def preview(bundle, document):
     result = validate(bundle, document)
-    assessment = result['dateValidation']
-    text = ['Provisional scene map; structural validation does not establish semantic review.', '',
-            f"Session date validation: **{assessment['result']}** (agent assessment).",
-            'YAML: ' + ', '.join(f"{k}={cell(bundle['data'][k])}" for k in ('drStart', 'drEnd', 'drStartTime', 'drEndTime')
-                                if bundle['data'].get(k) is not None) + '.',
-            cell(assessment['reason'])]
-    if assessment['evidence']:
-        text.append('Evidence: ' + ', '.join(source_link(bundle, ref) for ref in assessment['evidence']) + '.')
-    date_findings = [item for item in result['findings'] if item['kind'] in {'dateConflict', 'dateOutsideYaml'}]
-    if date_findings:
-        text.extend(['', 'Date findings:', ''])
-        text.extend(finding_line(bundle, item) for item in sorted(date_findings, key=lambda f: f['severity'] != 'critical'))
-    confidence = result['splitConfidence']
-    text.extend(['', f"Overall scene-split confidence: **{confidence['rating']}** (agent assessment).",
-                 cell(confidence['reason'])])
-    text.extend(['', '| Scene / context | Source UIDs | Type | Place | Time | AI summary |',
-                 '| --- | --- | --- | --- | --- | --- |'])
+    text = ['Provisional scene map; structural validation does not establish semantic review.', '']
+    if result['issues']:
+        text.extend(['AI-generated concerns:', ''])
+        text.extend(issue_line(bundle, issue) for issue in result['issues'])
+        text.append('')
+    text.append('YAML: ' + ', '.join(f"{k}={cell(bundle['data'][k])}"
+                for k in ('drStart', 'drEnd', 'drStartTime', 'drEndTime')
+                if bundle['data'].get(k) is not None) + '.')
+    review = result['review']
+    review_text = (f"**{review['confidence']} / {review['status']}**" if review
+                   else '**not recorded** (legacy map)')
+    text.extend(['', f'Scene map review: {review_text}.'])
+    legacy_times = document['schemaVersion'] == 1
+    dates = [row.get('dateStart') for row in document['scenes']]
+    common_date = dates[0] if dates and dates[0] and all(
+        row.get('dateStart') == dates[0] and (row.get('dateEnd') == dates[0]
+            or (legacy_times and row.get('dateEnd') is None))
+        for row in document['scenes']) else None
+    if common_date:
+        text.extend(['', f'Played scenes: {common_date}.'])
+    if legacy_times:
+        time_headings = ['Time (legacy)' if common_date else 'Date/Time (legacy)']
+    else:
+        time_headings = ['Start time', 'End time'] if common_date else ['Start', 'End']
+    headings = ['Scene / context', 'Source UIDs', 'Type', 'Place', *time_headings, 'AI summary']
+    text.extend(['', '| ' + ' | '.join(headings) + ' |',
+                 '| ' + ' | '.join('---' for _ in headings) + ' |'])
     rows = [*document['scenes'], *document['contextBlocks']]
     for row in sorted(rows, key=lambda r: bundle['positions'][r['source']['startUid']]):
         ref = row['source']
         label = f"Scene {row['index']}" if 'index' in row else row['kind']
-        dates = [row.get(k) for k in ('dateStart', 'dateEnd', 'time') if row.get(k)]
-        location = ' / '.join(filter(None, (Path(row['location']).stem if row.get('location') else None, row.get('locationDetail'))))
-        values = (label, f"{ref['startUid']}–{ref['endUid']}", row.get('type'), location, ', '.join(dates), row.get('aiSummary'))
+        if legacy_times:
+            dates = [] if common_date else list(dict.fromkeys(
+                row[k] for k in ('dateStart', 'dateEnd') if row.get(k)))
+            timing = [', '.join([*dates, *([row['time']] if row.get('time') else [])])]
+        else:
+            timing = [', '.join(filter(None, (
+                None if common_date else row.get('date' + endpoint), row.get('time' + endpoint))))
+                for endpoint in ('Start', 'End')]
+        location = []
+        if row.get('location'):
+            path = bundle['vault'] / row['location']
+            location.append(f'[{cell(path.stem)}](<{quote(str(path), safe="/")}>)')
+        if row.get('locationDetail'):
+            location.append(cell(row['locationDetail']))
+        values = (label, f"{ref['startUid']}–{ref['endUid']}", row.get('type'), '', *timing, row.get('aiSummary'))
         cells = [cell(v) for v in values]
         cells[1] = source_link(bundle, ref)
+        cells[3] = ' / '.join(location) or '—'
         text.append('| ' + ' | '.join(cells) + ' |')
-    other_findings = [item for item in result['findings'] if item not in date_findings]
-    if other_findings:
-        text.extend(['', 'Other findings:', ''])
-        text.extend(finding_line(bundle, item) for item in other_findings)
     relative = bundle['source'].relative_to(bundle['vault']).as_posix()
     text.extend(['', f"Polished source: [{cell(relative)}](<{quote(str(bundle['source']), safe='/')}>)",
                  'Source links open the first mapped line; use the UID range to retrieve the whole passage.'])

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
   "inputs": {
     "sessionInputs": {
@@ -72,7 +72,6 @@
         "status": "unreviewed"
       },
       "note": "People/Sembarans/Kalima.md",
-      "reason": "The initially unnamed woman gives her name before the session ends; combine these passages without importing her later family history.",
       "names": [
         "Zimkovan woman"
       ]
@@ -111,8 +110,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/PCs/Other PCs/Into the Chasm/Rala.md",
-      "reason": "Jrain’s hawk companion. The table clarifies she survived this storm and recovered during the short rest; preserve that correction over the initial assumption she was unavailable."
+      "note": "People/PCs/Other PCs/Into the Chasm/Rala.md"
     },
     {
       "id": "e003",
@@ -140,8 +138,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Sembarans/Eidrikas.md",
-      "reason": "Ekko’s missing mentor in the earlier expedition, discussed without being encountered here."
+      "note": "People/Sembarans/Eidrikas.md"
     },
     {
       "id": "e004",
@@ -177,8 +174,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Sembarans/Pakrinek.md",
-      "reason": "Named missing Kemeko warrior; no later account of his fate is imported."
+      "note": "People/Sembarans/Pakrinek.md"
     },
     {
       "id": "e005",
@@ -227,7 +223,6 @@
         "status": "unreviewed"
       },
       "note": "People/PCs/Great War/Aerin.md",
-      "reason": "The remembered Great War teacher of kenku combat likely matches Aerin. The polished transcript says Eren; retain that variant and flag the match for confirmation.",
       "names": [
         "Aerin (possible)"
       ]
@@ -265,8 +260,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "A specific feared minion to which the paths lead, known here only through Kalima’s stories. No supported person-page match from names, aliases, or labyrinth references; no encounter is claimed."
+      }
     },
     {
       "id": "e008",
@@ -311,7 +305,6 @@
         "status": "unreviewed"
       },
       "note": "Gods and Religions/Gods/Kestavo/Zeyfa.md",
-      "reason": "A named spirit of religious tradition, included under the skill’s divine category. Appeasement and attributed powers do not establish godhood, manifestation, or the identity of an underlying creature.",
       "names": [
         "Cruel West Wind"
       ]
@@ -335,7 +328,6 @@
         "status": "unreviewed"
       },
       "note": "Gods and Religions/Gods/Kestavo/Romil.md",
-      "reason": "The named kestavo invoked while giving Kalima a glowing token; attributed power is not a direct divine appearance.",
       "names": [
         "Glacier King"
       ]
@@ -374,8 +366,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "Gods and Religions/Religions/Northern Folk Religions/Kestavo.md",
-      "reason": "The local small gods are discussed collectively. Review whether this religious category warrants a collective entity alongside the individually named spirits."
+      "note": "Gods and Religions/Religions/Northern Folk Religions/Kestavo.md"
     },
     {
       "id": "e011",
@@ -395,8 +386,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wanderer.md",
-      "reason": "Named as the deity whose feast is Quintarum in the historical introduction."
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wanderer.md"
     },
     {
       "id": "e012",
@@ -416,8 +406,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md",
-      "reason": "Named pantheon in discussion of Mos Numena’s growth; a collective religious mention."
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md"
     },
     {
       "id": "e013",
@@ -497,8 +486,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md",
-      "reason": "The organized warrior community using Kemeko, distinct from the building as a visited place; the monastery page describes this institution."
+      "note": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md"
     },
     {
       "id": "e015",
@@ -518,7 +506,6 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "reason": "Likely a name and epithet for the same Brevan defenders. The similarly spelled Mezhai note is empty staging material; grouping, organization status, and the match need review.",
       "candidates": [
         "Worldbuilding/Staging/Chasm/Mezhai.md"
       ]
@@ -541,8 +528,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Groups/Halfling Families/Oakstrides.md",
-      "reason": "Finnan names his ancestral clan while telling its migration story; this is more than his own surname."
+      "note": "Groups/Halfling Families/Oakstrides.md"
     },
     {
       "id": "e017",
@@ -561,8 +547,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A specific organized army in the introduction. No dedicated group page found in group filenames, names, aliases, or the war-leader reference."
+      }
     },
     {
       "id": "e018",
@@ -581,90 +566,121 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "Justas gives Kalima a particular devotional token and lights it to reassure her. No individual item page in object names, aliases, or shrine references; review whether this transfer is significant enough for inclusion."
+      }
     }
   ],
   "exclusions": [
     {
       "label": "Session PCs",
       "reason": "Finnan, Jrain, Eolo, Ekko, and Justas are the active PCs registered in YAML.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0195",
-        "endUid": "u0201"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0195",
+            "endUid": "u0201"
+          }
+        }
+      ]
     },
     {
       "label": "Ice wolves, wind shades, and chasm wisps",
       "reason": "Generic combat creatures, without distinctive personal identities. Do not mistake the wind attacks for a proven direct encounter with Zeyfa.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0598",
-        "endUid": "u0602"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0598",
+            "endUid": "u0602"
+          }
+        }
+      ]
     },
     {
       "label": "Eolo’s runic quiver and crossbows",
       "reason": "Equipment description and standard ammunition generation in combat, without substantive item lore or a newly acquired object.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0474",
-        "endUid": "u0487"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0474",
+            "endUid": "u0487"
+          }
+        }
+      ]
     },
     {
       "label": "Ekko’s Amulet of the Moon",
       "reason": "Inventory confirmation during setup; no meaningful discovery or discussion of the amulet itself.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0112",
-        "endUid": "u0116"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0112",
+            "endUid": "u0116"
+          }
+        }
+      ]
     },
     {
       "label": "Justas’s shield and Jrain’s cloak",
       "reason": "Existing equipment is described and checked for magic, without a new object event or substantive item discovery.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1921",
-        "endUid": "u1938"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1921",
+            "endUid": "u1938"
+          }
+        }
+      ]
     },
     {
       "label": "Ordinary packs, weapons, and ammunition lost in the storm",
       "reason": "Setup records ordinary equipment losses and retained supplies. Individual mundane inventory entries are omitted; review this boundary if all losses should count.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0084",
-        "endUid": "u0108"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0084",
+            "endUid": "u0108"
+          }
+        }
+      ]
     },
     {
       "label": "Blood feathers",
       "reason": "An out-of-character proposal for Kemeko insignia, not an acquired or identified physical item.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1822",
-        "endUid": "u1825"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1822",
+            "endUid": "u1825"
+          }
+        }
+      ]
     },
     {
       "label": "Vargaldi and Deno’qai",
       "reason": "Named cultures in linguistic and historical comparisons, without a specific organized faction or individual referent.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1840",
-        "endUid": "u1845"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1840",
+            "endUid": "u1845"
+          }
+        }
+      ]
     }
   ],
   "evidenceNotes": [

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
   "inputs": {
     "sessionInputs": {
@@ -103,7 +103,6 @@
         "status": "unreviewed"
       },
       "note": "People/Extraplanar Powers/Archfey/Lord Soven.md",
-      "reason": "The polished transcript calls him Sorven; the vault filename and some references use Soven. Role and court identify the same person; retain the source spelling without renaming anything.",
       "names": [
         "Master of the Revels"
       ]
@@ -150,8 +149,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Fey/Lady Eventide.md",
-      "reason": "Her spirit occupies Seeker and speaks through that PC’s body; she remains a separate NPC identity."
+      "note": "People/Fey/Lady Eventide.md"
     },
     {
       "id": "e003",
@@ -203,8 +201,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
-      "reason": "An imprisoned archfey, not divine merely for her power. The DM corrects the earlier Apollyon attribution to Cha’mutte; no release occurs in this session."
+      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md"
     },
     {
       "id": "e004",
@@ -276,8 +273,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
-      "reason": "A defeated lich in the party’s retrospective stories. The later correction distinguishes his aims from Cha’mutte’s role in imprisoning Cloudspinner."
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
     },
     {
       "id": "e006",
@@ -321,8 +317,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Extraplanar Powers/Archfey/Harrow.md",
-      "reason": "Named hostile archfey, discussed through servants and threats. Keep Harrow and Wend separately addressable; their deeper relationship is not settled by the notes."
+      "note": "People/Extraplanar Powers/Archfey/Harrow.md"
     },
     {
       "id": "e007",
@@ -366,8 +361,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Extraplanar Powers/Archfey/Wend.md",
-      "reason": "Named hostile archfey; references to servants do not constitute a direct encounter with Wend."
+      "note": "People/Extraplanar Powers/Archfey/Wend.md"
     },
     {
       "id": "e008",
@@ -411,8 +405,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Fey/Lirien.md",
-      "reason": "Her past guidance, Amberlight, mount, and death are recalled; she is not alive at the revel."
+      "note": "People/Fey/Lirien.md"
     },
     {
       "id": "e009",
@@ -571,8 +564,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Extraplanar Powers/Archfey/Lord Umbraeth.md",
-      "reason": "The named ruler of Duskmire matches the public Gloomshaper alias. His threatened intervention is discussed, not played."
+      "note": "People/Extraplanar Powers/Archfey/Lord Umbraeth.md"
     },
     {
       "id": "e012",
@@ -671,8 +663,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A named person in Valeris’s curse story, not a current guest. No individual note in person filenames, names, aliases, or Yasara references; Valeris’s note preserves the same story."
+      }
     },
     {
       "id": "e014",
@@ -740,8 +731,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Fey/Ismara.md",
-      "reason": "The DM immediately corrects Ashara to Ismara. Her book and questioning initially raise suspicion; the later checks support her stated scholarly purpose, without proving every possible motive."
+      "note": "People/Fey/Ismara.md"
     },
     {
       "id": "e015",
@@ -788,8 +778,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular past dueling opponent whose story Arendel recalls. No supported individual match from names, aliases, or duel/Sunset Gate references; do not invent her name or attendance."
+      }
     },
     {
       "id": "e017",
@@ -817,8 +806,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/PCs/Dunmar Fellowship/Guests/Caulaus.md",
-      "reason": "A former guest PC substantively discussed as a separate person with missing memories; no present attendance is inferred."
+      "note": "People/PCs/Dunmar Fellowship/Guests/Caulaus.md"
     },
     {
       "id": "e018",
@@ -846,8 +834,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Fey/Agata.md",
-      "reason": "The party discusses her earlier imprisonment and uncertain continuing danger. Do not turn speculation about killing her again into an escape or new encounter."
+      "note": "People/Fey/Agata.md"
     },
     {
       "id": "e019",
@@ -867,7 +854,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "The retrospective guardian account identifies the murdered Heartwood Grove guardian as Typhina. Keep the unnamed session label and distinguish the real guardian from Agata’s impersonation; this is a reported past death.",
       "note": "People/Fey/Typhina.md",
       "identifiedLater": true
     },
@@ -889,8 +875,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Extraplanar Powers/Cha'mutte.md",
-      "reason": "The elder dragon in Vashan’s recovered memories, distinguished from Apollyon by the explicit correction. Killing gods was his ambition, not proof that he was divine."
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
     },
     {
       "id": "e021",
@@ -910,8 +895,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Other Nonhumans/Ra'ghemdros.md",
-      "reason": "The particular daughter guarding the island prison matches Ra’ghemdros’s public history. Retain the source role; this is a retrospective reminder, not a live encounter."
+      "note": "People/Other Nonhumans/Ra'ghemdros.md"
     },
     {
       "id": "e022",
@@ -938,8 +922,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular companion mount recalled as a transport example. No individual page found in person filenames, aliases, or Lirien/stag references."
+      }
     },
     {
       "id": "e023",
@@ -990,8 +973,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular former captive becomes a prospective companion and mount. No named individual page in filenames, aliases, or mirror references. Willingness to carry riders is not reliable combat obedience."
+      }
     },
     {
       "id": "e024",
@@ -1010,8 +992,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular earlier prisoner recalled in the mirror inventory. No individual page in person filenames, aliases, or mage/messenger references. Current custody is asserted here; later uncertainty is not resolved retroactively."
+      }
     },
     {
       "id": "e025",
@@ -1031,7 +1012,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "Retrospective mirror accounts identify the long-held hobgoblin spellcaster as Revaka. Keep the session’s role label and distinguish her from the Kinzal messenger; no new interrogation occurs here.",
       "note": "People/Other Nonhumans/Revaka.md",
       "identifiedLater": true
     },
@@ -1052,8 +1032,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A specific former mirror captive now said to rule the ruins, not a generic monster. No individual page in person filenames, aliases, or poison-troll references."
+      }
     },
     {
       "id": "e027",
@@ -1073,7 +1052,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "Retrospective Shadowkeep accounts identify the vampire in the earlier Urskan negotiation as Rhodar von Glauer. Keep the session’s unnamed role; no surviving vampire or new meeting is inferred.",
       "note": "People/Other Nonhumans/Rhodar von Glauer.md",
       "identifiedLater": true
     },
@@ -1095,8 +1073,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Other Nonhumans/Grash.md",
-      "reason": "Named in the discussion of Wellby’s earlier death and return; not currently present."
+      "note": "People/Other Nonhumans/Grash.md"
     },
     {
       "id": "e029",
@@ -1115,8 +1092,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A distinctive individual who welcomes and serves the party. No individual match from person names, aliases, Sunwine court references, or appearance; do not silently identify him with Lord Sorven."
+      }
     },
     {
       "id": "e030",
@@ -1136,8 +1112,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "Groups/The Cleansed.md",
-      "reason": "The source uses the faction name while discussing Riswynn-controlled captives. Review this grouping: affiliation or magical coercion does not establish that every prisoner was a willing cult member."
+      "note": "Groups/The Cleansed.md"
     },
     {
       "id": "e031",
@@ -1181,8 +1156,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
-      "reason": "The ruler’s court functions as a named political and social institution. The shared hall page explicitly describes the court, but review the boundary between institution and location."
+      "note": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md"
     },
     {
       "id": "e032",
@@ -1201,8 +1175,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular gifted guide whose tune leads the party to Sunwine Hall. No individual page from item filenames, aliases, or flute/Mulberry references; the gift is recalled rather than newly received here."
+      }
     },
     {
       "id": "e033",
@@ -1237,8 +1210,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular remaining layer of imprisonment shown to Vashan. No individual object page in item filenames, aliases, or prison references; do not mistake showing it for freeing its captive."
+      }
     },
     {
       "id": "e034",
@@ -1302,8 +1274,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight.md",
-      "reason": "This type page explicitly records Lirien’s particular lantern. Track that instance without merging all captured Amberlights into one physical object."
+      "note": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight.md"
     },
     {
       "id": "e036",
@@ -1331,8 +1302,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "Things/Artifacts of Power/Crown of Purity.md",
-      "reason": "The dangerous, not-yet-mastered artifact carried by Riswynn matches the crown’s public ownership and origin. The source describes its nature but never names it here; review the contextual match."
+      "note": "Things/Artifacts of Power/Crown of Purity.md"
     },
     {
       "id": "e037",
@@ -1367,8 +1337,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A particular magical book used to summon historical images and record speech by tracing fingers. No dedicated item page in filenames, aliases, or Ismara/book references; distinct from Ulfgar’s published book."
+      }
     },
     {
       "id": "e038",
@@ -1396,8 +1365,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "Things/Books/The Lore of the Feywild.md",
-      "reason": "A named book used as authority for Gleamwater’s identity. Review whether this brief reference is significant enough for the item inventory; no newly acquired physical copy is established."
+      "note": "Things/Books/The Lore of the Feywild.md"
     },
     {
       "id": "e039",
@@ -1433,8 +1401,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
-      "reason": "The party revisits its prisoners, releases a wyvern, and discusses recapture limits. This is substantive inventory and capability discussion rather than a routine activation alone."
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md"
     },
     {
       "id": "e040",
@@ -1461,8 +1428,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "The party seeks a particular surviving vial through the keeps’ history and sunlight requirement. No dedicated item page from names, aliases, or vial references; existence and location of this prospective instance remain unconfirmed."
+      }
     },
     {
       "id": "e041",
@@ -1490,8 +1456,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Things/Ships/Vindristjarna.md",
-      "reason": "The specific ship is recalled in stories and explains how the party crossed the wasteland; no current flight in this Feywild session is inferred."
+      "note": "Things/Ships/Vindristjarna.md"
     },
     {
       "id": "e042",
@@ -1519,110 +1484,149 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Narengril.md",
-      "reason": "Arendel recognizes the blade’s elven origin and age, and Delwath introduces its acquisition story. This brief lore warrants inclusion; the full origin story is not recorded. Narëngril matches the public ownership account."
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Narengril.md"
     }
   ],
   "exclusions": [
     {
       "label": "Current PCs, including Seeker",
       "reason": "The YAML PC identities remain distinct from Lady Eventide, who occupies Seeker. Seeker’s lack of an active speaking identifier does not make him a new NPC.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0029",
-        "endUid": "u0040"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0029",
+            "endUid": "u0040"
+          }
+        }
+      ]
     },
     {
       "label": "Putrid Agnes and Hansel and Gretel analogy",
       "reason": "The DM uses these as comparisons for a trap that this party is not; no substantive discussion of those individuals occurs.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0171",
-        "endUid": "u0179"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0171",
+            "endUid": "u0179"
+          }
+        }
+      ]
     },
     {
       "label": "Arendel’s sword and Delwath’s shield",
       "reason": "Appearance and normal duel uses do not establish meaningful object lore or new objects.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1002",
-        "endUid": "u1031"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1002",
+            "endUid": "u1031"
+          }
+        }
+      ]
     },
     {
       "label": "Yezali’s Frost and unnamed gods in duel banter",
       "reason": "A named combat feature and general blessing/toast do not identify a separate substantive divine referent here.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0978",
-        "endUid": "u1001"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0978",
+            "endUid": "u1001"
+          }
+        }
+      ]
     },
     {
       "label": "Ordinary Feywine and feast provisions",
       "reason": "Consumables and a regional substance, not individually distinguished artifacts. The wine’s memory effects remain important evidence for Vashan and the wyvern.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1928",
-        "endUid": "u1931"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1928",
+            "endUid": "u1931"
+          }
+        }
+      ]
     },
     {
       "label": "Five colorful griffins",
       "reason": "Loaned mounts are described collectively, without names or individually distinguishing traits. Review whether to include a collective companion record or five separate unnamed NPCs.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u2161",
-        "endUid": "u2178"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2161",
+            "endUid": "u2178"
+          }
+        }
+      ]
     },
     {
       "label": "Duskhounds, shadow minions, musicians, and party crowds",
       "reason": "Creature types and unspecified followers or crowds do not establish individual NPCs or a separately named organization.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0472",
-        "endUid": "u0481"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0472",
+            "endUid": "u0481"
+          }
+        }
+      ]
     },
     {
       "label": "Chanceweaver in Chanceweaver’s Court",
       "reason": "The name occurs only as a location on Ismara’s travel route, without substantive reference to its ruler.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1944",
-        "endUid": "u1952"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1944",
+            "endUid": "u1952"
+          }
+        }
+      ]
     },
     {
       "label": "Prismwell, keeps, archives, and Cloud Palace",
       "reason": "Places and architectural locations rather than separate entity kinds in this map. Planned visits and historical images do not establish attendance.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1171",
-        "endUid": "u1199"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1171",
+            "endUid": "u1199"
+          }
+        }
+      ]
     },
     {
       "label": "Unnamed dragons and early duel opponents",
       "reason": "Passing generic recollections without enough individual identity to resolve; the specifically identified prison-guard daughter is tracked separately.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1125",
-        "endUid": "u1139"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1125",
+            "endUid": "u1139"
+          }
+        }
+      ]
     }
   ],
   "evidenceNotes": []
