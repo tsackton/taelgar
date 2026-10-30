@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check/save agent-authored entity maps using the existing session and scene readers."""
+"""Check/save agent-authored entity maps from a YAML-registered polished transcript."""
 from __future__ import annotations
 
 import argparse
@@ -19,6 +19,7 @@ string = scenes.string
 KINDS = {'npc', 'divine', 'item', 'organization'}
 CONFIDENCE = {'high', 'medium', 'low'}
 STATUS = {'unreviewed', 'automatedReviewed', 'humanReviewed'}
+SCHEMA_VERSION = 2
 
 
 def note_path(bundle, value):
@@ -47,26 +48,14 @@ def note_refs(proposal):
 
 
 def load(session_yaml, vault_root=scenes.VAULT, notes=()):
+    # Reuse source/UID parsing only; scenes.load does not read a scene map.
     bundle = scenes.load(session_yaml, vault_root)
-    scene_bytes = bundle['mapPath'].read_bytes()
-    scene_doc = json.loads(scene_bytes)
-    scenes.validate(bundle, scene_doc)
-    inputs = {'sessionInputs': bundle['inputs'], 'sceneMapSha256': scenes.draft.sha(scene_bytes),
-              'vaultNotes': note_hashes(bundle, notes)}
+    inputs = {'sessionInputs': bundle['inputs'], 'vaultNotes': note_hashes(bundle, notes)}
     stem = bundle['manifest'].name.removesuffix('-session.yaml')
-    bundle.update(sceneDocument=scene_doc, entityInputs=inputs,
+    bundle.update(entityInputs=inputs,
                   entityPath=scenes.safe(bundle['root'], f'cleaned/{stem}-entity-map.json'))
     bundle['entityInputDigest'] = scenes.digest({'sessionYaml': bundle['sessionYaml'], 'inputs': inputs})
     return bundle
-
-
-def owner(bundle, ref):
-    start, end = scenes.source_bounds(bundle, ref, 'entity source')
-    for row in [*bundle['sceneDocument']['scenes'], *bundle['sceneDocument']['contextBlocks']]:
-        a, z = scenes.source_bounds(bundle, row['source'], 'scene/context source')
-        if a <= start <= end <= z:
-            return f"Scene {row['index']}" if 'index' in row else f"{row['kind']} {row['source']['startUid']}"
-    raise scenes.MapError('Entity source crosses a scene/context boundary')
 
 
 def text_array(value, label):
@@ -79,20 +68,19 @@ def text_array(value, label):
 def validate(bundle, document):
     fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'entities'},
            {'exclusions', 'evidenceNotes'}, 'entity map')
-    require(type(document['schemaVersion']) is int and document['schemaVersion'] == 1,
-            'Unsupported entity-map version')
+    require(type(document['schemaVersion']) is int and document['schemaVersion'] == SCHEMA_VERSION,
+            'Unsupported entity-map version; recheck legacy decisions and save as version 2')
     require(document['sessionYaml'] == bundle['sessionYaml'], 'Different session YAML')
     expected = {'sessionInputs': bundle['inputs'],
-                'sceneMapSha256': bundle['entityInputs']['sceneMapSha256'],
                 'vaultNotes': note_hashes(bundle, note_refs(document))}
-    require(document['inputs'] == expected, 'Entity inputs changed; recheck sources, scene map, and vault notes')
+    require(document['inputs'] == expected, 'Entity inputs changed; recheck sources and vault notes')
     text_array(document.get('evidenceNotes', []), 'evidenceNotes')
     rows = document['entities']
     require(isinstance(rows, list), 'entities must be an array')
     ids, matched, priorities = set(), set(), []
     for row in rows:
         fields(row, {'id', 'kind', 'label', 'occurrences', 'review'},
-               {'note', 'names', 'candidates', 'reason'}, 'entity')
+               {'note', 'names', 'candidates', 'reason', 'identifiedLater'}, 'entity')
         string(row['id'], 'id')
         require(re.fullmatch(r'[a-z][a-z0-9_-]*', row['id']) and row['id'] not in ids,
                 'Entity IDs must be unique stable lowercase identifiers')
@@ -101,6 +89,10 @@ def validate(bundle, document):
         string(row['label'], 'label')
         text_array(row.get('names', []), 'names')
         text_array(row.get('candidates', []), 'candidates')
+        require(type(row.get('identifiedLater', False)) is bool,
+                'identifiedLater must be a boolean')
+        if row.get('identifiedLater'):
+            require(bool(row.get('note')), 'Later identification requires a chosen note')
         fields(row['review'], {'confidence', 'status'}, set(), 'review')
         confidence, status = row['review']['confidence'], row['review']['status']
         require(isinstance(confidence, str) and confidence in CONFIDENCE, 'Unknown confidence')
@@ -111,7 +103,7 @@ def validate(bundle, document):
             require(not row.get('candidates'), 'Resolve note OR retain candidates, not both')
             require(row['note'] not in matched, 'Multiple entities matched to the same note')
             matched.add(row['note'])
-        if not row.get('note') or confidence != 'high':
+        if not row.get('note') or confidence != 'high' or row.get('identifiedLater'):
             require('reason' in row, 'Unresolved or uncertain entities need a reason')
         if 'reason' in row:
             string(row['reason'], 'reason', limit=40)
@@ -123,7 +115,6 @@ def validate(bundle, document):
             start, end = scenes.source_bounds(bundle, item['source'], 'occurrence source')
             require(start > last_end, 'Entity occurrences must be ordered and non-overlapping')
             last_end = end
-            owner(bundle, item['source'])
         if confidence != 'high' or status == 'unreviewed':
             priorities.append(row['id'])
     excluded = document.get('exclusions', [])
@@ -132,7 +123,7 @@ def validate(bundle, document):
         fields(row, {'label', 'reason', 'source'}, set(), 'exclusion')
         string(row['label'], 'exclusion label')
         string(row['reason'], 'exclusion reason', limit=40)
-        owner(bundle, row['source'])
+        scenes.source_bounds(bundle, row['source'], 'exclusion source')
     return {'entities': len(rows), 'matched': len(matched), 'reviewPriority': priorities,
             'exclusions': len(excluded), 'semanticReview': 'not established by validation'}
 
@@ -141,7 +132,7 @@ def build(bundle, proposal):
     fields(proposal, {'entities'}, {'exclusions', 'evidenceNotes'}, 'proposal')
     require(note_hashes(bundle, note_refs(proposal)) == bundle['entityInputs']['vaultNotes'],
             'Vault evidence changed or differs from inspection; inspect every consulted note')
-    document = {'schemaVersion': 1, 'sessionYaml': bundle['sessionYaml'],
+    document = {'schemaVersion': SCHEMA_VERSION, 'sessionYaml': bundle['sessionYaml'],
                 'inputs': bundle['entityInputs'], **proposal}
     validate(bundle, document)
     return document
@@ -151,8 +142,6 @@ def save(bundle, proposal, expected=None):
     document = build(bundle, proposal)
     with scenes.lock(bundle['root']):
         scenes.check_inputs(bundle)
-        require(scenes.draft.sha(bundle['mapPath'].read_bytes()) == document['inputs']['sceneMapSha256'],
-                'Scene map changed during entity checking')
         require(note_hashes(bundle, note_refs(document)) == document['inputs']['vaultNotes'],
                 'Vault notes changed during entity checking')
         path = scenes.safe(bundle['root'], bundle['entityPath'].relative_to(bundle['root']))
@@ -194,20 +183,18 @@ def preview(bundle, document, entity_id=None, kind=None):
            f"{len(result['reviewPriority'])} review priorities. Structural validation does not establish semantic review.", '']
     if kind is not None:
         out.extend([f'Showing {len(rows)} {kind} entities; counts above describe the full map.', ''])
-    assessment = bundle['sceneDocument'].get('dateValidation', {})
-    if assessment.get('result') in {'conflict', 'insufficientEvidence'}:
-        out.extend([f"Existing scene-map date finding: **{assessment['result']}** — {cell(assessment['reason'])}", ''])
     out.extend(['| ID | Entity | Kind | Vault match | Confidence / review | Evidence |',
                 '| --- | --- | --- | --- | --- | --- |'])
     for row in rows:
         note = row.get('note')
         match = f"[{cell(Path(note).stem)}](<{quote(str(bundle['vault'] / note), safe='/')}>)" if note else 'Unlinked'
+        if row.get('identifiedLater'):
+            match += ' — identified later'
         refs = row['occurrences']
-        evidence = ', '.join(dict.fromkeys(owner(bundle, r['source']) for r in refs))
-        first = refs[0]['source']
+        evidence = ', '.join(scenes.source_link(bundle, r['source']) for r in refs)
         out.append('| ' + ' | '.join([cell(row['id']), cell(row['label']), row['kind'], match,
                    cell(row['review']['confidence'] + ' / ' + row['review']['status']),
-                   cell(evidence) + '; ' + scenes.source_link(bundle, first)]) + ' |')
+                   evidence]) + ' |')
     explained = [row for row in rows if row.get('reason') or row.get('candidates') or entity_id]
     if explained:
         out.extend(['', '## Identity questions and rationale', ''])
@@ -218,7 +205,7 @@ def preview(bundle, document, entity_id=None, kind=None):
         if entity_id:
             for item in row['occurrences']:
                 ref = item['source']
-                out.extend(['', f"**{cell(owner(bundle, ref))}** — {scenes.source_link(bundle, ref)}", '',
+                out.extend(['', f"**Polished source** — {scenes.source_link(bundle, ref)}", '',
                             '````text', scenes.window(bundle, ref['startUid'], ref['endUid'], 'polished').rstrip(), '````', ''])
     if not entity_id and kind is None and document.get('exclusions'):
         out.extend(['', '## Excluded candidates', ''])

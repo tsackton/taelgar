@@ -117,10 +117,11 @@ def project(session_yaml, vault_root=scenes.VAULT):
     """Project identity decisions and source structure, without inventing interactions."""
     bundle = entities.load(session_yaml, vault_root)
     mapped = entities.read_map(bundle)
+    scene_doc = scenes.read_map(bundle)
     doc = {'schemaVersion': 7, 'sessionYaml': bundle['sessionYaml'],
-           'scenes': copy.deepcopy(bundle['sceneDocument']['scenes']),
+           'scenes': copy.deepcopy(scene_doc['scenes']),
            'contextBlocks': [dict(index=i, **copy.deepcopy(row)) for i, row in
-                             enumerate(bundle['sceneDocument']['contextBlocks'], 1)],
+                             enumerate(scene_doc['contextBlocks'], 1)],
            'entities': [{k: copy.deepcopy(row[k]) for k in ('id', 'kind', 'label', 'note', 'review') if k in row}
                         for row in mapped['entities']]}
     # Aggregate location review is separate; do not imply acceptance by deduplicating scene links.

@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "purpose": "entity-map-calibration-feedback",
+  "exportedAt": "2026-10-30T11:58:14.628Z",
+  "mapSnapshots": [
+    {
+      "key": "d20",
+      "label": "Dunmar 20",
+      "mapPath": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-entity-map.json",
+      "sha256": "b41e72435da5c090bc79f5166d3d72052b236da8c72e1720d38a1557ed271c4d"
+    },
+    {
+      "key": "mawar4",
+      "label": "Mawar 4",
+      "mapPath": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-entity-map.json",
+      "sha256": "d44518d7f0e113841a27debde582f5109b153c1a1b9f585db54044f95dbb20b9"
+    },
+    {
+      "key": "chasm1",
+      "label": "Into the Chasm 1",
+      "mapPath": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-entity-map.json",
+      "sha256": "2f574b864fb2649ccaf9f6923ceb8c24af74f9ba6fd88b1e07a8de22493ba984"
+    },
+    {
+      "key": "fey4",
+      "label": "Lost in the Feywild 4",
+      "mapPath": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-entity-map.json",
+      "sha256": "671b052be0b1cc58b04e833041e3170e4db1fbfeb3369e12c796e019469ebb99"
+    },
+    {
+      "key": "d70",
+      "label": "Dunmar 70",
+      "mapPath": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-entity-map.json",
+      "sha256": "db3c0d01c234478f18b6cad32a0edbb220c3f63f085802eca2e72d9ea9135e7c"
+    },
+    {
+      "key": "d120",
+      "label": "Dunmar 120",
+      "mapPath": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-entity-map.json",
+      "sha256": "bada9b5229b07542a1e46d30c4991bccc0f4de0dc7f551f9ff75c6da16eecd00"
+    }
+  ],
+  "decisions": {
+    "d20:x01": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d20:x02": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d20:x03": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d20:x04": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d20:x05": {
+      "decision": "include",
+      "comment": ""
+    },
+    "d20:x06": {
+      "decision": "include",
+      "comment": ""
+    },
+    "d20:x07": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d20:x08": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x01": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x02": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x03": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x04": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x05": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x06": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x08": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "mawar4:x07": {
+      "decision": "change",
+      "comment": ""
+    },
+    "chasm1:x01": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "chasm1:x02": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "chasm1:x03": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "chasm1:x04": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "chasm1:x05": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "chasm1:x06": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "chasm1:x07": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "chasm1:x08": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "fey4:x01": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "fey4:x02": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "fey4:x03": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "fey4:x04": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "fey4:x05": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "fey4:x06": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x01": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x02": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x03": {
+      "decision": "change",
+      "comment": "We need a special rule for Dunmari frontier only to treat ladders as NPCs."
+    },
+    "d70:x04": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x05": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x06": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x07": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x08": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x10": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x11": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d70:x09": {
+      "decision": "include",
+      "comment": "this is the Heroes of the Great War, although it was hard to tell from the passage."
+    },
+    "d120:x01": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x02": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x03": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x04": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x05": {
+      "decision": "include",
+      "comment": "worth keeping when lore is mentioned"
+    },
+    "d120:x06": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x07": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x08": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x09": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x10": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d120:x11": {
+      "decision": "keep",
+      "comment": ""
+    },
+    "d20:e009": {
+      "decision": "accept",
+      "comment": ""
+    },
+    "d20:e022": {
+      "decision": "accept",
+      "comment": ""
+    }
+  },
+  "missing": {}
+}

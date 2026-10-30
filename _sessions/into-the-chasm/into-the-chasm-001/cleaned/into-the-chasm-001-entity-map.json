@@ -1,0 +1,673 @@
+{
+  "schemaVersion": 2,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "7e52de64e65717be44f65bfb7c8627835baa03c682755643df2d82e5fd80a3c2",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647",
+        "transcriptProcessing.artifacts.cleaned": "bec65c358fd0fdd80cb1a3414c11822963809a7630bfb63b4f79425af5102d1d"
+      }
+    },
+    "vaultNotes": {
+      "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md": "9f6fb988b0b83386da3758f6fa785690e650cf770b706a75ed02f2a0ae024155",
+      "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md": "ca58969278fd8ee2581d9f6c0125bc82611901f1d7ad2a12f6a68fad5d5fb7d1",
+      "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wanderer.md": "b1770aea9956a2e014033828c1a3b6da94e0adf530664f27ed40aff7d05a284c",
+      "Gods and Religions/Gods/Kestavo/Romil.md": "8c670ade489cc5e0ae616d0d11bf7735f2d52371f982dc42cad2d41118820c0a",
+      "Gods and Religions/Gods/Kestavo/Zeyfa.md": "a0bd354049e7c11c5c0bff2c02bfff6b12bba7b7384c43402098bc5d84fdc580",
+      "Gods and Religions/Religions/Northern Folk Religions/Kestavo.md": "aa457936791d8bd17a70752214671b3eaffed6b4a165226182939b1601fc4300",
+      "Groups/Cultures/Zimka.md": "7694cb977434b63a2dd66e4719fa8bd1c9b4d1a535c0b122669795b608756720",
+      "Groups/Halfling Families/Oakstrides.md": "f4539952482d22f9ac4f274dc267e47a1bead49828b778922a80ee58a66c08f9",
+      "Groups/Vejo Vaikai.md": "b82c4c2aa58b9d5130068b8f953ebdd96a046bbdcfe3bea72095bee47d2c44cc",
+      "People/Orcs/Ravager of Winter.md": "de2f20bc4cbbb186f2b7c0768a3c9cb2ceb523742f6ded43dcb76ab29235c1f4",
+      "People/PCs/Great War/Aerin.md": "c5fa0d0238e829cc4c3e98cdc37d009faf609e704f17b9cee5bd434835ded165",
+      "People/PCs/Other PCs/Into the Chasm/Rala.md": "96e9b53582f0bba35375b9c36df400da78055eb529ff9a4960ee8cb480924d3e",
+      "People/Sembarans/Eidrikas.md": "78d969a65b13be761cea95edaedfb068d20f7d428d59f14178fb246c692e808a",
+      "People/Sembarans/Kalima.md": "f162440ed73ed06525bedff8761795fa84867e7b9deaea5af0618b51fdfc06b4",
+      "People/Sembarans/Pakrinek.md": "f697e5128a986e896494bcf7de57dc0f7cc8f17a4c1371791e3d5c8cd185c94f",
+      "Worldbuilding/Staging/Chasm/Mezhai.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Kalima",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0284",
+            "endUid": "u0301"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1310",
+            "endUid": "u1325"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2062",
+            "endUid": "u2082"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2217",
+            "endUid": "u2230"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Sembarans/Kalima.md",
+      "reason": "The initially unnamed woman gives her name before the session ends; combine these passages without importing her later family history.",
+      "names": [
+        "Zimkovan woman"
+      ]
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Rala",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1646",
+            "endUid": "u1664"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2129",
+            "endUid": "u2157"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2161",
+            "endUid": "u2182"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Other PCs/Into the Chasm/Rala.md",
+      "reason": "Jrain’s hawk companion. The table clarifies she survived this storm and recovered during the short rest; preserve that correction over the initial assumption she was unavailable."
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Eidrikas",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1619",
+            "endUid": "u1626"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1646",
+            "endUid": "u1657"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Sembarans/Eidrikas.md",
+      "reason": "Ekko’s missing mentor in the earlier expedition, discussed without being encountered here."
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Pakrinek",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1619",
+            "endUid": "u1621"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1639",
+            "endUid": "u1644"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1646",
+            "endUid": "u1657"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Sembarans/Pakrinek.md",
+      "reason": "Named missing Kemeko warrior; no later account of his fate is imported."
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Ravager of Winter",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0036",
+            "endUid": "u0042"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1541",
+            "endUid": "u1545"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Orcs/Ravager of Winter.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Eren",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1707",
+            "endUid": "u1710"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Great War/Aerin.md",
+      "reason": "The remembered Great War teacher of kenku combat likely matches Aerin. The polished transcript says Eren; retain that variant and flag the match for confirmation.",
+      "names": [
+        "Aerin (possible)"
+      ]
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "The beast in Zeyfa’s labyrinth",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1394",
+            "endUid": "u1400"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1953",
+            "endUid": "u1962"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2066",
+            "endUid": "u2084"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "reason": "A specific feared minion to which the paths lead, known here only through Kalima’s stories. No supported person-page match from names, aliases, or labyrinth references; no encounter is claimed."
+    },
+    {
+      "id": "e008",
+      "kind": "divine",
+      "label": "Zeyfa",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0032",
+            "endUid": "u0035"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1321",
+            "endUid": "u1346"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1372",
+            "endUid": "u1379"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1899",
+            "endUid": "u1910"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Kestavo/Zeyfa.md",
+      "reason": "A named spirit of religious tradition, included under the skill’s divine category. Appeasement and attributed powers do not establish godhood, manifestation, or the identity of an underlying creature.",
+      "names": [
+        "Cruel West Wind"
+      ]
+    },
+    {
+      "id": "e009",
+      "kind": "divine",
+      "label": "Romil",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1439",
+            "endUid": "u1457"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Kestavo/Romil.md",
+      "reason": "The named kestavo invoked while giving Kalima a glowing token; attributed power is not a direct divine appearance.",
+      "names": [
+        "Glacier King"
+      ]
+    },
+    {
+      "id": "e010",
+      "kind": "divine",
+      "label": "Kestavo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0265",
+            "endUid": "u0270"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1439",
+            "endUid": "u1457"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1674",
+            "endUid": "u1692"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Religions/Northern Folk Religions/Kestavo.md",
+      "reason": "The local small gods are discussed collectively. Review whether this religious category warrants a collective entity alongside the individually named spirits."
+    },
+    {
+      "id": "e011",
+      "kind": "divine",
+      "label": "The Wanderer",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0055",
+            "endUid": "u0060"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wanderer.md",
+      "reason": "Named as the deity whose feast is Quintarum in the historical introduction."
+    },
+    {
+      "id": "e012",
+      "kind": "divine",
+      "label": "Eight Divines",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1677",
+            "endUid": "u1684"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md",
+      "reason": "Named pantheon in discussion of Mos Numena’s growth; a collective religious mention."
+    },
+    {
+      "id": "e013",
+      "kind": "organization",
+      "label": "Vejo Vaikai",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0032",
+            "endUid": "u0035"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0055",
+            "endUid": "u0062"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1635",
+            "endUid": "u1638"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1686",
+            "endUid": "u1692"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Groups/Vejo Vaikai.md"
+    },
+    {
+      "id": "e014",
+      "kind": "organization",
+      "label": "Kemeko warriors",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0032",
+            "endUid": "u0035"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0055",
+            "endUid": "u0060"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1701",
+            "endUid": "u1719"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md",
+      "reason": "The organized warrior community using Kemeko, distinct from the building as a visited place; the monastery page describes this institution."
+    },
+    {
+      "id": "e015",
+      "kind": "organization",
+      "label": "Mezai or Woodswalkers",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0036",
+            "endUid": "u0042"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "reason": "Likely a name and epithet for the same Brevan defenders. The similarly spelled Mezhai note is empty staging material; grouping, organization status, and the match need review.",
+      "candidates": [
+        "Worldbuilding/Staging/Chasm/Mezhai.md"
+      ]
+    },
+    {
+      "id": "e016",
+      "kind": "organization",
+      "label": "Oakstrides",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1472",
+            "endUid": "u1487"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Groups/Halfling Families/Oakstrides.md",
+      "reason": "Finnan names his ancestral clan while telling its migration story; this is more than his own surname."
+    },
+    {
+      "id": "e017",
+      "kind": "organization",
+      "label": "Ravager of Winter’s horde",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0036",
+            "endUid": "u0042"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "A specific organized army in the introduction. No dedicated group page found in group filenames, names, aliases, or the war-leader reference."
+    },
+    {
+      "id": "e018",
+      "kind": "item",
+      "label": "Romil’s sea-glass token",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1443",
+            "endUid": "u1457"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "reason": "Justas gives Kalima a particular devotional token and lights it to reassure her. No individual item page in object names, aliases, or shrine references; review whether this transfer is significant enough for inclusion."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Session PCs",
+      "reason": "Finnan, Jrain, Eolo, Ekko, and Justas are the active PCs registered in YAML.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0195",
+        "endUid": "u0201"
+      }
+    },
+    {
+      "label": "Ice wolves, wind shades, and chasm wisps",
+      "reason": "Generic combat creatures, without distinctive personal identities. Do not mistake the wind attacks for a proven direct encounter with Zeyfa.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0598",
+        "endUid": "u0602"
+      }
+    },
+    {
+      "label": "Eolo’s runic quiver and crossbows",
+      "reason": "Equipment description and standard ammunition generation in combat, without substantive item lore or a newly acquired object.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0474",
+        "endUid": "u0487"
+      }
+    },
+    {
+      "label": "Ekko’s Amulet of the Moon",
+      "reason": "Inventory confirmation during setup; no meaningful discovery or discussion of the amulet itself.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0112",
+        "endUid": "u0116"
+      }
+    },
+    {
+      "label": "Justas’s shield and Jrain’s cloak",
+      "reason": "Existing equipment is described and checked for magic, without a new object event or substantive item discovery.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1921",
+        "endUid": "u1938"
+      }
+    },
+    {
+      "label": "Ordinary packs, weapons, and ammunition lost in the storm",
+      "reason": "Setup records ordinary equipment losses and retained supplies. Individual mundane inventory entries are omitted; review this boundary if all losses should count.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0084",
+        "endUid": "u0108"
+      }
+    },
+    {
+      "label": "Blood feathers",
+      "reason": "An out-of-character proposal for Kemeko insignia, not an acquired or identified physical item.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1822",
+        "endUid": "u1825"
+      }
+    },
+    {
+      "label": "Vargaldi and Deno’qai",
+      "reason": "Named cultures in linguistic and historical comparisons, without a specific organized faction or individual referent.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1840",
+        "endUid": "u1845"
+      }
+    }
+  ],
+  "evidenceNotes": [
+    "Groups/Cultures/Zimka.md"
+  ]
+}

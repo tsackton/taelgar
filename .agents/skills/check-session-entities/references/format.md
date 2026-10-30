@@ -1,7 +1,8 @@
-# Provisional entity map v1
+# Provisional entity map v2
 
 Output: `cleaned/<stem>-entity-map.json`. Session metadata and source paths stay in
-YAML. The helper supplies `schemaVersion: 1`, `sessionYaml`, and `inputs`.
+YAML. The helper supplies `schemaVersion: 2`, `sessionYaml`, and `inputs`.
+The polished transcript is sufficient; no scene map or reduction draft is required.
 
 Author a proposal with required `entities` (possibly empty), optional `exclusions`
 and `evidenceNotes` (vault-relative consulted note paths). No final `session.json`
@@ -19,8 +20,13 @@ Each entity requires:
 
 Optional fields: `note` (existing vault-relative `.md` path or null), `names`
 (distinct source variants/titles), `candidates` (plausible vault note paths while
-unresolved), and `reason` (at most 40 words). Require `reason` when `note` is absent
-or confidence is medium/low. A chosen `note` and competing `candidates` cannot
+unresolved), `identifiedLater` (boolean, omitted or false by default), and `reason`
+(at most 40 words). `identifiedLater: true` requires a chosen `note` and a `reason`
+identifying the later name and supporting context. Keep `label` and `names` as
+known in the session. A clear later match may have high confidence; this flag does
+not mean the identity is unresolved or the characters already knew it.
+Require `reason` when `note` is absent or confidence is medium/low as well.
+A chosen `note` and competing `candidates` cannot
 coexist: retain uncertainty instead of emitting a definite match. Two entities
 cannot resolve to the same page; revisit a possible duplicate or overly broad page.
 
@@ -42,10 +48,12 @@ cannot resolve to the same page; revisit a possible duplicate or overly broad pa
 ```
 
 These ranges are illustrative. Use actual whole-turn UID boundaries from the
-selected scene map. An occurrence stays inside one scene/context block. Its owner
-is derived from the scene map; no new scene indexes or interaction classifications
-are authored. Occurrences are representative retrieval passages, not exhaustive
-name-token offsets or evidence of attendance. A recap or future plan remains such
+polished transcript. Occurrences need no scene/context ownership and may cross
+future scene boundaries. Keep evidence focused and preserve the surrounding
+speech's recap, speculation, or played-action framing during review. No scene
+indexes or interaction classifications are authored. Occurrences are representative
+retrieval passages, not exhaustive name-token offsets or evidence of attendance.
+A recap or future plan remains such
 even when it names a real entity. Multiple entities may share a source passage.
 Divine occurrences include meaningful religious mentions and invocations; they do
 not imply a direct encounter or prove an attributed intervention. No extra fields
@@ -58,29 +66,38 @@ omitted from this stage, not an excluded source block. `reason` is at most 40 wo
 `inputs` contains:
 
 - `sessionInputs`: the scene helper's YAML/source fingerprints, not metadata values.
-- `sceneMapSha256`: exact scene-map byte hash; revisions require rechecking references.
 - `vaultNotes`: byte hashes of selected/candidate/evidence notes, supplied by the
   helper from inspected files. Changed notes require rechecking affected decisions.
 
-The inspection digest binds all three. The reader refuses stale inputs rather
+The inspection digest binds both. The reader refuses stale inputs rather
 than displaying an old automated/human status as current. Reinspect, revise the
 proposal, and save with the expected old output hash after semantic rechecking.
-Changes to a reduction draft alone do not stale evidence pointing to original
-polished speech. Only the entity map is persisted during an ordinary run; previews
-and source windows go to stdout. No copied transcript or separate review log.
+Scene-map creation, revision, or deletion and changes to a reduction draft do not
+stale evidence pointing to original polished speech. Only the entity map is persisted
+during an ordinary run; previews and source windows go to stdout. No copied
+transcript or separate review log.
 
 `preview` groups review priorities and produces one compact row per entity plus
 exclusions. `preview --entity ID` opens that entity's rationale, candidates, and
-original polished passages with scene/context labels. `preview --kind divine`
+original polished passages with direct UID links. `preview --kind divine`
 or `--kind npc` separates those inventories for review; filtered views omit the
 unclassified exclusions, which remain available in the full preview. Neither view
 silently accepts an entity. `humanReviewed` requires actual user review; passing
 validation never sets it. Automated status is an agent attestation, not a guarantee.
+Later identifications display an explicit flag beside the chosen vault match;
+their rationale remains visible at high confidence. `identifiedLater` is processing
+metadata retained in the map, not a new final v7 entity field.
 
 The core fields feed the concrete [v7 session model](pipeline-model.md#final-sessionjson-v7),
 whose [schema](session.schema.json) includes `divine`. The read-only
 `session_model.py project` preserves those fields and scene/context accounting.
-Occurrences inform retrieval, not whole-conversation grouping; that later stage may
-join several scenes. Preserve selection decisions and identities while generating
+Projection separately loads and validates a current scene map; entity checking
+can finish before one exists. Occurrences inform retrieval, not whole-conversation
+grouping; that later stage may join several scenes. Preserve selection decisions and identities while generating
 interactions. Assisted review/application remains unfinished; helpers accept
 caller-authored review values and do not yet enforce human-decision protection.
+
+Legacy version 1 maps bound decisions to a scene-map hash. They are rejected with
+an explicit recheck message, not silently upgraded. For an intentional version 2
+revision, inspect the existing output hash, recheck source and note evidence,
+preserve stable IDs and human decisions, and use the normal guarded save.

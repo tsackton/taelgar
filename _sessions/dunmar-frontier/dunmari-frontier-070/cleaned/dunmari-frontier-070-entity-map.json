@@ -1,0 +1,1121 @@
+{
+  "schemaVersion": 2,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "f79be65bd8afe974ede0376a7bc47f45879b495965153d88e71e0d7c247dc7d5",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "7d3eda88c65caa7ffb24580c3b905654ad755d59646c8134c2c081c9f1fc9a27",
+        "transcriptProcessing.artifacts.cleaned": "a6234b3e09966dc819945c58e20da744cd30748f54cfbf1a24b08fe65fe093ef"
+      }
+    },
+    "vaultNotes": {
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones.md": "8b09b34fa5b3dd6d68f353118a02c8cccba8e8ccb34bc46d9cb3fe4c1b145279",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband.md": "0edb695e26076d70494322453cf02468b5f1ee1b89ab3dfdfb36e7107c04e61b",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Glove of Crystalized Magic.md": "dc45c6f1931eb32c796a0e5876437277999b265ae4ccd2bfdf1a4cfe22875411",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md": "b02acc9459cb468a35aa24f96361cf15676c47d11b1026335604c4695b7afe42",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md": "bf35e3836b64715e767ca9ecd5e580bdf18022024f653049a05fb9d597368ba9",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Portable Hole.md": "2793f1292b1032f1196f9503e364a5184858cac4feeb39523f7d45ee6832e2e6",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Shield of the Brawnanvil Clan.md": "d7c3b28d60716f45bd21582960ea848512bbf91c901414d58690ef40ec1f85f6",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Silverspark Gauntlets.md": "a9b6f2ffe0bd471cc8c28f0b63e2221e97cc9e21aa6d7d90df109f5b38963e92",
+      "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md": "a8563902c0c72bcabd8b2d8372b917e154817be284d68d7047ac9c3f8bfb3281",
+      "Gods and Religions/Gods/Embodied Gods/Thark.md": "129ebffd9f6e42fd8383caa123f92c2a14fcc61e460b0f4cf6bd161b40e9ebb3",
+      "Gods and Religions/Gods/Tanshi/Meswati/K'onisati.md": "42f00dc50e200e792170676b96ac5b52b68f882ba32f6511e8529c653f284648",
+      "Gods and Religions/Gods/Tanshi/Meswati/Midri.md": "5f5e63ae1d6bbc815f876e152d0434fb0bd8bb81b102d319e40e858121c3c6c1",
+      "Gods and Religions/Gods/Tanshi/Meswati/Nisir.md": "6b3c56ea6c08e8cb7f5326c41cd9a7f3e7e01e13abefde1d6282c74da0503d0b",
+      "Gods and Religions/Gods/Tanshi/Meswati/Taraka.md": "3080278ddc80422ce3caac6fec1131cea2e4eb0118ec44ca1ffd15da7cf95a30",
+      "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md": "bad2517aae7dfc353a46ae5b2f2a393f75fe7ee393f69f2e7e1ea46398a51d27",
+      "People/Dunmari/Nayan Karnas.md": "d34f444db1f7ce858d70c1e14446ae3f2f7a6b39ee50ac40eb86d7c305c59dab",
+      "People/Dunmari/Sura.md": "941f93c06a1a6344cf9167aa87439345cc37d66ce49c05e3f9579ac96b99cfd8",
+      "People/Elves/Nelawe.md": "00161ab787ab1dcf0fa05064b0b23d3550c0e52658220dce17e500f60853a47f",
+      "People/Fey/Agata.md": "344a86d57ada2058995f35bed38fff8512f0796a3fe4f27d64af6691115ab3de",
+      "People/Giants/Hralgar.md": "ef68474891d4adc97152ec7617986c4903fe2a1eb85df85be092f99efdbc5910",
+      "People/Giants/Jorundr.md": "4784717672dabab9fc8f514ed984a44c204590c15700add9ed249f0394e3f958",
+      "People/Historical Figures/Drankorian Emperors/Akaston.md": "d09195fe1e7c28b935f4ac2bb7dda9cd3bdc991e9cf9bd2a494c8241765e2b5f",
+      "People/Historical Figures/Drankorian Emperors/Apollyon.md": "5abe8d26c4100d856d46c6140144a02736ced035825a4d4f75a94c3e4494a002",
+      "People/Historical Figures/Eudomes.md": "2aeab026b0cacac571cf7d098df44b266626bee8477d2bb4bb8ff0fcc3b45c2a",
+      "People/Orcs/Lubash.md": "d7d8c8ab9648ec108284edeb8299d39f27c02cad41f0a35c2be97d3b9c04d912",
+      "People/Other Nonhumans/Grash.md": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484",
+      "People/PCs/Dunmar Fellowship/Companions/Baxter.md": "ecbb7ca7b70682e6b8360ca56ca052cc5a14270c5a9f3b8eb19f7e95a0f20fc7",
+      "People/PCs/Dunmar Fellowship/Companions/Ladder.md": "193634c8a030d8a891baba05bcd0c8af2d4fba5b7808df51a291bc797130f193",
+      "People/PCs/Great War/Heroes of the Great War.md": "430b83d5a11b0803039a63e52d7d1a45d8158048f948cb38a30b052579c83b86",
+      "Things/Artifacts of Power/Chalice of the Runepriest.md": "6768b80cd7a85269c3447ebdac10b140e18ff4bd493094f7f3df0fe240b007c6",
+      "Things/Artifacts of Power/Cloak of Rainbows.md": "0bbd9d2d1655d65c8bbce739c8137284d9f8a09c7453daae2237cbcfd81ad41d",
+      "Things/Books/Lyrics of a New Age.md": "d027e00402ae72270038f28306104ecafe6d41b0f40b95024ad892dff6ade1ea",
+      "Things/Magic Items/Phasing Stones.md": "e7ec8d72a899de78afdb4f40fdb18b61148e416e1fadb489e9e6252956e35ebb",
+      "Things/Ships/Vindristjarna.md": "8c55e2b0e0e818abbe72532bc573a1f0e4d51e592e5b81ceda0d3ec23fc50e27"
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Hralgar",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0024"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0080",
+            "endUid": "u0108"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0592",
+            "endUid": "u0616"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1615",
+            "endUid": "u1677"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1862",
+            "endUid": "u1882"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2032",
+            "endUid": "u2054"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2184",
+            "endUid": "u2227"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2505",
+            "endUid": "u2581"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2683",
+            "endUid": "u2708"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2920",
+            "endUid": "u2943"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Giants/Hralgar.md",
+      "reason": "The storm giant is not divine merely because of his power. Distinguish his speech through Kenzo, the dream-palace meeting, and the final struggle; the session ends before his release."
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Jorundr",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1720",
+            "endUid": "u1758"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2574",
+            "endUid": "u2581"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2718",
+            "endUid": "u2744"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Giants/Jorundr.md",
+      "reason": "Kenzo speaks as Hralgar’s former giant apprentice and later recalls that life. Track the named historical identity separately from the active PC, without making Kenzo an ordinary NPC."
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Eudomes",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0024"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Historical Figures/Eudomes.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Priscilla",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0029"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0056",
+            "endUid": "u0066"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "The players identify the fleeing northern woman by this name. No matching person note found after filenames, names, aliases, and vault-wide exact-name references; preserve the transcript spelling."
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Samraat king of Dunmar",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0034",
+            "endUid": "u0038"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0073"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dunmari/Nayan Karnas.md",
+      "reason": "The reigning king worrying about his sister matches Karnas’s public role and sibling relationship; this is introductory distant news, not an encounter.",
+      "names": [
+        "Nayan Karnas"
+      ]
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "The king’s sister",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0034",
+            "endUid": "u0038"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0073"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Dunmari/Sura.md",
+      "reason": "Karnas’s sister Sura is the subject of the king’s suspicions. These are worries about control, not a finding that she is controlled.",
+      "names": [
+        "Nayan Sura"
+      ]
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "The hag feared by the king",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0034",
+            "endUid": "u0038"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0073"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Retrospective public accounts identify Agata as the hag behind Karnas’s suspicions about Sura. Retain the session’s unnamed hag reference; the suspicion is not proof that Sura is controlled.",
+      "note": "People/Fey/Agata.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Baxter",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0172",
+            "endUid": "u0193"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0524",
+            "endUid": "u0537"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md"
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Riswynn’s current pony",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0172",
+            "endUid": "u0193"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "A particular companion left with Baxter, explicitly distinguished from a previous pony that ran away. No individual page in person filenames, aliases, or pony references; do not merge the two mounts."
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Orc wearing the cloak in the vision",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0684",
+            "endUid": "u0709"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Retrospective cloak and ruler accounts identify Lubash as the orc ruler wearing the cloak. Retain the unnamed vision label and the party’s uncertainty about what they saw; no face-to-face meeting is implied.",
+      "note": "People/Orcs/Lubash.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Emperor Akaston",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1875",
+            "endUid": "u1891"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Akaston.md",
+      "reason": "Hralgar names the emperor he believes current. That belief reflects his confused chronology, not the session’s present-day emperor."
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Nias",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1888",
+            "endUid": "u1891"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "Named potential source for a list of emperors. No person note found in filenames, names, aliases, or exact-name references; preserve the polished name rather than guess another scholar."
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Nelawe",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2748",
+            "endUid": "u2757"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2806",
+            "endUid": "u2824"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Elves/Nelawe.md"
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "Apollon",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2718",
+            "endUid": "u2728"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+      "reason": "The Drankorian ruler in Jorundr’s historical memories matches Apollyon. The source leaves his involvement in Hralgar’s capture unresolved.",
+      "names": [
+        "Apollyon"
+      ]
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Ghostly version of Hralgar",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2920",
+            "endUid": "u2943"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "unreviewed"
+      },
+      "reason": "A specific attacking manifestation appears separate from Hralgar at the cliffhanger. No distinct person page from names, aliases, or Hralgar references; review whether this should merge into Hralgar rather than remain a separate entity."
+    },
+    {
+      "id": "e016",
+      "kind": "divine",
+      "label": "Yezali",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1945",
+            "endUid": "u1979"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2003",
+            "endUid": "u2025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2380",
+            "endUid": "u2394"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+      "reason": "A named tanshi recalled in Delwath’s imprisonment story, not directly encountered in this session."
+    },
+    {
+      "id": "e017",
+      "kind": "divine",
+      "label": "K’onisati",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1988",
+            "endUid": "u2002"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/K'onisati.md",
+      "reason": "Delwath corrects an initial misremembered domain to butterflies and colorful insects; preserve the correction."
+    },
+    {
+      "id": "e018",
+      "kind": "divine",
+      "label": "Midri",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2003",
+            "endUid": "u2025"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Midri.md"
+    },
+    {
+      "id": "e019",
+      "kind": "divine",
+      "label": "Nisir",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2003",
+            "endUid": "u2025"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Nisir.md"
+    },
+    {
+      "id": "e020",
+      "kind": "divine",
+      "label": "Taraka",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2003",
+            "endUid": "u2025"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Taraka.md"
+    },
+    {
+      "id": "e021",
+      "kind": "divine",
+      "label": "The orc god",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0701",
+            "endUid": "u0720"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md",
+      "reason": "The divine compulsion of orcs and the cloak’s protection identify Thark through public lore. The party’s prediction about losing protection is speculation, not an observed change.",
+      "names": [
+        "Thark"
+      ]
+    },
+    {
+      "id": "e022",
+      "kind": "item",
+      "label": "Hralgar’s Eyes",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0125",
+            "endUid": "u0158"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1459",
+            "endUid": "u1470"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1506",
+            "endUid": "u1518"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2441",
+            "endUid": "u2472"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2839",
+            "endUid": "u2857"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2890",
+            "endUid": "u2943"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md"
+    },
+    {
+      "id": "e023",
+      "kind": "item",
+      "label": "Binding Stones",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1513",
+            "endUid": "u1535"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1550",
+            "endUid": "u1572"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1587",
+            "endUid": "u1590"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2839",
+            "endUid": "u2843"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2904",
+            "endUid": "u2904"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones.md",
+      "reason": "Substantive discussion of binding, activation, and arrangement qualifies even though the party does not reactivate the stones."
+    },
+    {
+      "id": "e024",
+      "kind": "item",
+      "label": "Mantle of Protection",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0633",
+            "endUid": "u0649"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0684",
+            "endUid": "u0720"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Things/Artifacts of Power/Cloak of Rainbows.md",
+      "names": [
+        "Cloak of Rainbows"
+      ]
+    },
+    {
+      "id": "e025",
+      "kind": "item",
+      "label": "Seeker’s phasing-stone glove",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2200",
+            "endUid": "u2242"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Glove of Crystalized Magic.md",
+      "reason": "Hralgar identifies the glove’s fragments as a broken skyship heart. This is a significant lore discussion, not a routine activation; do not merge it with another intact phasing stone."
+    },
+    {
+      "id": "e026",
+      "kind": "item",
+      "label": "Crashed skyship beneath Stormcaller Tower",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0011",
+            "endUid": "u0018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0788",
+            "endUid": "u0793"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2244",
+            "endUid": "u2265"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Things/Ships/Vindristjarna.md",
+      "reason": "The ship’s identity and history are discussed while it remains crashed. The vault supplies its eventual name; no restoration or present-day flight is inferred."
+    },
+    {
+      "id": "e027",
+      "kind": "item",
+      "label": "Twisted metal mechanism knocked off the tower",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1396",
+            "endUid": "u1401"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1415",
+            "endUid": "u1418"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "The party discusses a particular large mechanism and whether it controlled the ship. No separate supported item page found in treasure names, aliases, or tower references; its purpose remains uncertain."
+    },
+    {
+      "id": "e028",
+      "kind": "item",
+      "label": "Riswynn’s clan-story heirloom",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2294",
+            "endUid": "u2306"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "The retrospective shield account identifies Riswynn’s recovered clan-story heirloom as the Shield of the Brawnanvil Clan. Keep the source’s descriptive label and its framing as an earlier quest.",
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Shield of the Brawnanvil Clan.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e029",
+      "kind": "item",
+      "label": "Lyrics of a New Age",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2748",
+            "endUid": "u2757"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2806",
+            "endUid": "u2824"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2874",
+            "endUid": "u2893"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "note": "Things/Books/Lyrics of a New Age.md",
+      "reason": "The party recalls the sold poetry book and recites lines to undo the binding. The poem is a work within this book, not another physical object.",
+      "names": [
+        "Book containing A Lament for Lost Thunder"
+      ]
+    },
+    {
+      "id": "e030",
+      "kind": "item",
+      "label": "Divine object in Riswynn’s earlier rescue",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2307",
+            "endUid": "u2336"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "unreviewed"
+      },
+      "reason": "The retrospective Morkalan account identifies Riswynn’s divine rescue object as the Chalice of the Runepriest. Keep the session’s descriptive label; the earlier rescue is recalled, not repeated here.",
+      "note": "Things/Artifacts of Power/Chalice of the Runepriest.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e031",
+      "kind": "npc",
+      "label": "Seeker’s current rope ladder",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0224",
+            "endUid": "u0249"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0443",
+            "endUid": "u0446"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1112",
+            "endUid": "u1119"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "humanReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+      "reason": "Dunmari Frontier treats the party’s ladders as NPC companions even during equipment use. Track this current ladder separately from the destroyed predecessor; the passage does not claim it was animated."
+    },
+    {
+      "id": "e032",
+      "kind": "organization",
+      "label": "Great War story’s adventurer party",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2161",
+            "endUid": "u2183"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "humanReviewed"
+      },
+      "note": "People/PCs/Great War/Heroes of the Great War.md",
+      "reason": "Identified in calibration as the Heroes of the Great War. This is the recognized historical adventuring party in Seeker’s story, not an unnamed generic crowd or a present encounter."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Active PCs",
+      "reason": "Kenzo, Wellby, Delwath, Seeker, and Riswynn are YAML-registered PCs. Jorundr’s historical identity is tracked separately.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u1833",
+        "endUid": "u1856"
+      }
+    },
+    {
+      "label": "Portable Hole, lead locket, and soul-trapping mirror",
+      "reason": "Standard storage and access, without substantive new item lore. The eyes and binding stones retrieved from storage are tracked separately.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0125",
+        "endUid": "u0158"
+      }
+    },
+    {
+      "label": "Previously destroyed hero ladder",
+      "reason": "A joking remembrance of a prior ladder’s destruction, not a substantive item discussion here.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0230",
+        "endUid": "u0238"
+      }
+    },
+    {
+      "label": "Storm, tornado, and thunder creatures",
+      "reason": "Generic hostile manifestations without distinct personal identities.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0959",
+        "endUid": "u0979"
+      }
+    },
+    {
+      "label": "Summoned scouting rat",
+      "reason": "A temporary generic scouting animal, without individual identity.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0916",
+        "endUid": "u0950"
+      }
+    },
+    {
+      "label": "Shadow hunters and marching troops in the introduction",
+      "reason": "Unspecified hunters and armies, without sufficient identity to establish a particular organization.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u0030",
+        "endUid": "u0044"
+      }
+    },
+    {
+      "label": "Shadow armbands in the warning",
+      "reason": "A plural artifact-class warning with no particular physical armband identified; do not merge every pair into the one surviving item page.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2032",
+        "endUid": "u2049"
+      }
+    },
+    {
+      "label": "Dwarven gods collectively",
+      "reason": "Generic religious reference in Riswynn’s story without a named individual or named divine collective.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2325",
+        "endUid": "u2336"
+      }
+    },
+    {
+      "label": "Deno’qai, Drankorians, and ancient kingdoms",
+      "reason": "Cultural or geographic references here, without a distinct named faction or institution selected as an organization.",
+      "source": {
+        "kind": "transcript",
+        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+        "startUid": "u2516",
+        "endUid": "u2563"
+      }
+    }
+  ],
+  "evidenceNotes": [
+    "People/Other Nonhumans/Grash.md",
+    "Things/Magic Items/Phasing Stones.md",
+    "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Silverspark Gauntlets.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Portable Hole.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband.md"
+  ]
+}

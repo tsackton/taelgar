@@ -135,21 +135,38 @@ class SessionModelTests(unittest.TestCase):
             self.check()
 
     def test_projection_preserves_divine_ids_and_context_without_writes(self):
-        m.scenes.save(self.f.bundle, self.f.proposal)
-        b = m.entities.load(self.f.yaml, self.f.vault)
+        note = self.f.vault / 'Gods/Eran.md'
+        note.parent.mkdir()
+        note.write_text('# Eran\nThe old king was Eran.\n', encoding='utf-8')
+        b = m.entities.load(self.f.yaml, self.f.vault, notes=['Gods/Eran.md'])
         m.entities.save(b, {'entities': [{
-            'id': 'e1', 'kind': 'divine', 'label': 'The old king', 'reason': 'No page found.',
+            'id': 'e1', 'kind': 'divine', 'label': 'The old king', 'note': 'Gods/Eran.md',
+            'identifiedLater': True, 'reason': 'Later material identifies the old king as Eran.',
             'occurrences': [{'source': m.scenes.source('u0006', 'u0006')}],
             'review': {'confidence': 'high', 'status': 'unreviewed'}}]})
+        # Entities can be completed first; projection separately requires scenes.
+        with self.assertRaises(FileNotFoundError):
+            m.project(self.f.yaml, self.f.vault)
+        m.scenes.save(self.f.bundle, self.f.proposal)
         before = {p: p.read_bytes() for p in self.f.root.rglob('*') if p.is_file()}
         doc = m.project(self.f.yaml, self.f.vault)
         self.assertEqual(doc['entities'][0]['kind'], 'divine')
         self.assertEqual(doc['entities'][0]['id'], 'e1')
+        self.assertEqual(doc['entities'][0]['label'], 'The old king')
+        self.assertEqual(doc['entities'][0]['note'], 'Gods/Eran.md')
+        self.assertNotIn('identifiedLater', doc['entities'][0])
         self.assertNotIn('occurrences', doc['entities'][0])
         self.assertNotIn('interactions', doc)
         self.assertNotIn('review', doc)
         self.assertEqual(len(doc['contextBlocks']), 2)
         self.assertEqual(before, {p: p.read_bytes() for p in self.f.root.rglob('*') if p.is_file()})
+        scene_path = self.f.bundle['mapPath']
+        scene_doc = json.loads(scene_path.read_text(encoding='utf-8'))
+        scene_doc['inputs']['sessionYamlDigest'] = 'stale'
+        scene_path.write_text(json.dumps(scene_doc), encoding='utf-8')
+        with self.assertRaisesRegex(ValueError, 'Map inputs changed'):
+            m.project(self.f.yaml, self.f.vault)
+        self.assertEqual(m.entities.read_map(b)['entities'][0]['id'], 'e1')
 
 
 if __name__ == '__main__':

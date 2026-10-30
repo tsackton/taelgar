@@ -15,9 +15,11 @@ generation and publication are not implemented here. The current formats are spe
 
 ```text
 session YAML + registered polished transcript
-    → optional conservative reduction draft
-    → scene map + YAML date compatibility assessment
-    → entity map + identity/vault-link checking
+    ├─ scene map + YAML date compatibility assessment
+    │    (optional conservative reduction draft as a reading view)
+    └─ entity map + identity/vault-link checking, directly from polished speech
+         (independent of scene mapping; either stage can run first)
+current scene map + entity map
     → assisted review of selected decisions                 [not implemented]
     → interactions + final session.json + processing data  [not integrated]
 ```
@@ -115,7 +117,8 @@ individual passages and does not determine scene granularity.
 `recap`, `loreDiscussion`, and `tableChatter`. Together with scenes they cover every
 UID exactly once. They are **available context, not automatic extraction exclusions**.
 Postgame clarification can contain important lore; a recap is not a newly played
-event. Entity occurrences can point into these blocks.
+event. Entity evidence can be located in these blocks by UID during later
+integration; entity checking reads the polished speech without requiring this map.
 
 `dateValidation` contains `result`, a brief `reason`, and source `evidence`:
 
@@ -142,10 +145,11 @@ This provisional assessment does not establish final `sceneReview` or human revi
 
 ## Implemented entity map
 
-Required envelope: `schemaVersion: 1`, `sessionYaml`, `inputs`, `entities`.
+Required envelope: `schemaVersion: 2`, `sessionYaml`, `inputs`, `entities`.
 Optional `exclusions` and `evidenceNotes`. Inputs bind the scene helper's input
-fingerprints, the exact scene-map hash, and consulted vault-note hashes. Scene
-changes invalidate dependent evidence. Changed consulted notes invalidate relying
+fingerprints (YAML and registered transcript sources) and consulted vault-note
+hashes. No scene map is read, hashed, or required. Scene-map changes do not stale
+entity decisions. Changed consulted notes invalidate relying
 on the old review; hashes do not prove that every possible note was searched or
 detect newly created candidate pages elsewhere in the vault.
 
@@ -159,34 +163,47 @@ detect newly created candidate pages elsewhere in the vault.
 | `note` | No | Matched vault-relative `.md` page or null. |
 | `names` | No | Useful source variants/titles, not copied vault aliases. |
 | `candidates` | No | Plausible note paths while unresolved; cannot coexist with a definite `note`. |
-| `reason` | Conditional | At most 40 words; required for unlinked or medium/low-confidence entities. |
+| `identifiedLater` | No | Boolean flag for a clear identity supplied by later material; requires a chosen `note` while preserving the session's label and names. |
+| `reason` | Conditional | At most 40 words; required for unlinked, medium/low-confidence, or later-identified entities. |
 
-An occurrence fits one existing scene or contextual block. The helper derives the
-owning scene/context; it does not store another set of scene IDs. Occurrences are
+An occurrence respects whole polished turns and UIDs, independently of any scene
+or contextual boundaries. Preview links evidence directly to transcript UID ranges;
+there are no owning scene/context labels. Read surrounding speech to distinguish
+recaps, hypothetical plans, and played action. Occurrences are
 representative retrieval passages, not every name/pronoun and not final interactions.
 They do not establish attendance, presence, or a completed event.
 
 Entity selection:
 
 - **NPC:** named individuals and distinctive unnamed people who plausibly have a
-  name. Omit generic crowds, every monster, and rumors of unspecified creatures.
+  name, including a distinct lieutenant identified only by role. Omit generic
+  crowds, every monster, and rumors of unspecified creatures. Dunmari Frontier
+  alone treats the party's ladders as NPC companions, even during equipment use.
 - **Divine:** gods, named religious spirits, comparable divine beings, and named
   divine collectives. Meaningful religious mentions are worth tracking separately
-  from NPC encounters. Clergy remain NPCs; supernatural origin alone is insufficient.
+  from NPC encounters. Apply a clearly established divine identity even if learned
+  later, with the later-identification flag and session knowledge preserved.
+  Clergy remain NPCs; supernatural origin alone is insufficient.
 - **Item:** plot-significant objects and meaningful finding, acquisition, trade,
   loss, destruction, property discovery, or discussion of in-world lore, powers,
   limitations, and possible roles. Substantive discussion of a lore-rich artifact
   qualifies without actual use or a new revelation; proposed uses remain discussion.
+  Brief concrete lore, such as recognition of an old elven blade, also qualifies
+  without a long conversation or fully recounted origin story.
   Omit ordinary treasure, incidental inventory mentions, and routine combat use of
   party gear. Extensive vault lore alone does not make routine use significant.
   Do not merge separate items merely because one generic item page describes their class.
 - **Organization:** identifiable tribes, factions, institutions, and organized
-  groups. Religious institutions belong here; divine collectives belong under divine.
+  groups, distinct communities, and recognizable historical adventuring parties.
+  Religious institutions belong here; divine collectives belong under divine.
 
 Session PCs remain YAML-owned. A named companion not acting as this session's PC
 can still be an entity; do not equate that with the player's attendance. A chosen
 vault match can identify an unnamed speaker while `label` preserves how the source
-describes them. Conflicting names or uncertain identity retain candidate matches.
+describes them. Clear later material resolves a match with `identifiedLater: true`
+and a reason naming that evidence; it does not replace the session label or imply
+knowledge at the time. Conflicting names or uncertain identity retain candidates.
+This provenance flag remains in processing data, outside the final v7 entity core.
 
 `exclusions` are `{label, reason, source}` for plausible entity candidates omitted
 with a specific reason. They do not exclude those source blocks from later use.
@@ -226,7 +243,9 @@ The final JSON is the canonical structured enrichment. YAML remains canonical fo
 metadata and sources. [session.schema.json](session.schema.json) is the normative
 JSON Schema; [session_model.py](../scripts/session_model.py) checks source ranges,
 references, paths, and exact quotations against the actual registered transcript.
-The model version is **7**, independent of the intermediate maps' version 1.
+The model version is **7**, independent of scene-map version 1 and entity-map
+version 2. Legacy entity-map v1 files require explicit evidence rechecking and a
+guarded v2 save preserving IDs and human decisions; they are not silently upgraded.
 The predecessor branch's v6 files are not silently upgraded or accepted as v7.
 
 | Final root field | Required? | Purpose |
@@ -252,9 +271,10 @@ the manifest must resolve and pass preflight during source-aware validation.
 Final context blocks require `index`, `kind`, and `source`; `aiSummary` is optional
 and limited to 25 words. Kinds remain `recap | loreDiscussion | tableChatter`.
 Their positive indexes form a **separate namespace** from scene indexes. Projection
-assigns them in source order; consumers must bind dependent references to the input
-map revision, as they do scene indexes. One contiguous range per block; no source
-range can overlap another scene or context block. Complete source accounting means
+assigns them in source order; downstream interaction consumers must bind dependent
+references to the scene-map revision, as they do scene indexes. Entity maps use
+transcript UIDs and do not depend on these indexes. One contiguous range per block;
+no source range can overlap another scene or context block. Complete source accounting means
 every UID belongs to exactly one scene or context block. It does not require an
 interaction for every block. Table chatter can remain accounted with no entities.
 
@@ -325,9 +345,10 @@ python3 -B .agents/skills/check-session-entities/scripts/session_model.py projec
 python3 -B .agents/skills/check-session-entities/scripts/session_model.py validate PATH_TO_SESSION_JSON --require-coverage
 ```
 
-Both commands are read-only and print JSON to stdout. `project` requires current
-scene/entity maps, preserves scene indexes and entity identities, adds indexed
-context blocks, and checks full coverage. It carries entity review values without
+Both commands are read-only and print JSON to stdout. `project` separately loads
+and validates the scene map alongside the independently generated entity map.
+It requires both maps to be current, preserves scene indexes and entity identities,
+adds indexed context blocks, and checks full coverage. It carries entity review values without
 claiming a completed final review. It does not fabricate interactions, summaries,
 quotes, an accepted aggregate location list, or aggregate review statuses. Explicit
 redirection can save this **candidate**, but the helper never registers it in YAML.
