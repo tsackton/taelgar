@@ -1,66 +1,52 @@
-# Session interaction pipeline: structures and integration contract
+# Session interaction pipeline and v7 model
 
-**Development checkpoint, not a production-ready workflow.** Reduction, scene
-mapping, and entity checking run on `main`. Assisted human review, Obsidian review
-integration, and generation of the final session enrichment remain unfinished.
-The current Python helpers validate structure and protect writes; they do not
-decide identities or prove that an agent reviewed the evidence.
+This contract describes the implemented stages and the candidate final model.
+Interaction generation, guarded review application, Obsidian integration, and
+publication are not implemented. Helpers validate structure and protect writes;
+they do not decide identities or establish semantic review.
 
-This document specifies the intermediate formats and the concrete **v7 final
-model**, including its schema, read-only validator, and map projection. Interaction
-generation and publication are not implemented here. The current formats are specified in [scene-map format](../../map-transcript-scenes/references/format.md),
-[entity-map format](format.md), and [reduction draft contract](../../prepare-interaction-transcript/references/format.md).
-
-## Pipeline and ownership
+## Implemented stages and ownership
 
 ```text
 session YAML + registered polished transcript
-    ├─ scene map + YAML date compatibility assessment
-    │    (optional conservative reduction draft as a reading view)
-    └─ entity map + identity/vault-link checking, directly from polished speech
-         (independent of scene mapping; either stage can run first)
+    ├─ optional interaction draft: conservative reading view
+    ├─ scene map: place/time partition + optional AI concerns
+    └─ entity map: identity, selection, and vault-link decisions
 current scene map + entity map
-    → assisted review of selected decisions                 [not implemented]
-    → interactions + final session.json + processing data  [not integrated]
+    → read-only v7 candidate projection
+    → interaction generation, review, publication [not implemented]
 ```
 
-The target is bulk processing roughly 150–200 sessions with selective human
-attention. Session dates, PC identity, visited locations, and entity vault links
-are the most consequential claims. Scene granularity and interaction details
-are lower stakes; flavor quotations and convenient transcript links are lower
-stakes still. Favor extraction and short navigation aids over generated narrative.
+Scene and entity mapping can run in either order. Scene mapping can read a
+validated reduction draft; entity mapping reads polished speech directly.
+Neither requires beats or generated recaps. YAML owns campaign/session metadata,
+dates, PC roles, and transcript registration; do not create another manifest,
+source registry, or participant list.
 
-| Artifact | Owner and purpose | Current status |
+Each format has one maintained definition:
+
+| Artifact | Contract | Ownership |
 | --- | --- | --- |
-| `cleaned/<stem>-session.yaml` | Canonical campaign/session metadata and source declarations. | Existing pipeline; read-only in these new stages. |
-| Registered polished Markdown | Canonical readable transcript, retaining original UID mapping comments. | Existing `process-transcript` output. |
-| `<stem>-interactions-draft.md` | Conservative, reversible reading view. | Reduction skill writes this file only. |
-| `<stem>-scene-map.json` | Source partition, scene context, date assessment and findings. | Scene skill writes this file only. |
-| `<stem>-entity-map.json` | Entity selection, identity matches, representative evidence and review confidence. | Entity skill writes this file only. |
-| Review artifact / decision store | Obsidian-friendly review, explicit user decisions and resumability. | Storage and workflow still to design; no prescribed final home. |
-| `session.json` | Canonical structured enrichment accompanying YAML. | v7 schema, validation, and candidate map projection implemented; interaction generation/publication not integrated. |
-| `session-processing-data.json` | Input provenance, processing evidence, excluded blocks and findings. | Earlier branch prototype; integration with new maps still needed. |
+| `cleaned/<stem>-interactions-draft.md` | [Draft format](../../prepare-interaction-transcript/references/format.md) | Optional reversible view; source text remains authoritative. |
+| `cleaned/<stem>-scene-map.json` | [Scene map v2](../../map-transcript-scenes/references/format.md) | Complete source partition, locations/times, shared map review, optional AI issues. |
+| `cleaned/<stem>-entity-map.json` | [Entity map v3](format.md) | Identity decisions, representative UID evidence, confidence/review, meaningful exclusions. |
+| Candidate `session.json` | [v7 schema](session.schema.json), detailed below | Projection to stdout; no final generation, registration, or publication. |
 
-Do not build a second session manifest or a competing scene division. The earlier
-end-to-end prototype is on `codex/campaign-interactions-review`, under
-`.agents/skills/extract-campaign-interactions/`. Its v6 schemas and validators are
-reference material, not an instruction to merge that branch or enable its workflow.
+Entity decisions bind to YAML/source and consulted-note fingerprints, not scene
+maps. Scene/context indexes are revision-dependent: downstream consumers using
+them must bind to the originating scene-map hash. Changed inputs require evidence
+rechecking, not replacement of stored hashes. Hashes detect changes in inspected
+files; they prove neither search completeness nor semantic correctness.
 
-## Session YAML and source references
+Use the [entity review workflow](review-workflow.md) for saved reviews and manual
+feedback application. Helpers accept caller-authored review statuses and do not
+enforce human-decision preservation, review history, or selective reset. Agents
+must preserve stable IDs and accepted decisions and recheck changed records.
+An automated or human review must be an actual review, not a validation result.
 
-The YAML owns campaign identity, session number, real-world date, in-world start/end
-dates and optional times, participant roles, and transcript artifacts. There is no
-separate guest-versus-recurring-PC distinction in the enrichment. Resolve PC roles
-from YAML and character pages; speaker mappings alone do not establish attendance.
+## Source references
 
-Current preflight requires `sourceType: transcript`, valid `realWorldDate`, `drStart`,
-`drEnd`, and a locatable `transcriptProcessing.artifacts.polishedMarkdown` path.
-Read optional registered cleaned text to verify the original UID mapping. Paths
-inside `transcriptProcessing.artifacts` are bundle-relative. Propose concrete YAML
-repairs if primary source paths are broken; do not guess substitute inputs.
-
-Every structured source reference is a discriminated union. Only one kind is
-implemented now:
+The only implemented source kind is a YAML-registered polished transcript:
 
 ```json
 {
@@ -71,340 +57,185 @@ implemented now:
 }
 ```
 
-`sourceId` is a dotted YAML artifact key, not a locally invented source ID. Ranges
-are inclusive, contiguous, and in transcript order. A polished turn may combine
-several UIDs; multiple turns may share one UID. Boundaries respect both whole turns
-and whole UIDs. Original comments also contain character offsets, but these stages
-do not invent sub-turn source ranges. Recording timestamps are not in-world time.
+`sourceId` is the dotted YAML artifact key. Artifact paths are bundle-relative.
+Ranges are inclusive and contiguous in transcript order and respect both whole
+polished turns and whole UIDs. A turn combining UIDs cannot be split; turns
+sharing one UID remain together. Original character offsets do not authorize
+invented sub-turn locators. Recording timestamps are not in-world times.
+Other source kinds would need explicit locators and readers before use.
 
-The model should later support authored accounts, emails, and other sources by
-adding discriminated source kinds with suitable locators and YAML declarations.
-No extractor for those sources is part of this checkpoint. Avoid hard-coding the
-assumption that every future source is a transcript or that narrative chronology
-always equals source order.
-
-## Implemented scene map
-
-Required envelope: `schemaVersion: 1`, `sessionYaml`, `inputs`, `scenes`,
-`contextBlocks`, and, for new/revised saves, `dateValidation` and `splitConfidence`.
-Optional `findings`.
-`sessionYaml` is vault-relative. Inputs bind semantic YAML and source hashes;
-adding the future `interactionExtraction` output pointer does not stale the YAML
-digest, and neither do comment/formatting-only YAML changes.
-
-| Scene field | Required? | Meaning |
-| --- | --- | --- |
-| `index` | Yes | Positive, unique scene index in source order. Shared by downstream references. |
-| `source` | Yes | One contiguous original-source range. |
-| `type` | No | `conversation`, `exploration`, `combat`, or `travel`. |
-| `location` | No | Verified vault-relative place-note path, including `.md`. |
-| `locationDetail` | No | Narrative subplace, such as a room or camp within that place. |
-| `dateStart`, `dateEnd` | No | Supported in-world ISO dates. |
-| `time` | No | Supported time description, such as “after dinner.” |
-| `aiSummary` | No | At most 25 words; navigation aid, not replacement narrative. |
-
-Optional place/date/time values may be omitted or null. There is no scene title,
-participant list, “other NPCs,” or individual scene confidence. Scenes map where
-and when the session takes place: continuous stays at meaningful sites and movement
-along routes. Geographic transitions and in-world time discontinuities divide
-scenes; rooms, NPCs, activity changes, and combat starting/ending do not independently
-create boundaries. Unrelated chatter and table breaks can remain inside a single
-contiguous scene range. `type` is an optional activity label, not a segmentation
-rule. Source order may revisit an earlier moment. Downstream retrieval must inspect
-individual passages and does not determine scene granularity.
-
-`contextBlocks` have `kind`, `source`, and `aiSummary` (at most 25 words). Kinds are
-`recap`, `loreDiscussion`, and `tableChatter`. Together with scenes they cover every
-UID exactly once. They are **available context, not automatic extraction exclusions**.
-Postgame clarification can contain important lore; a recap is not a newly played
-event. Entity evidence can be located in these blocks by UID during later
-integration; entity checking reads the polished speech without requiring this map.
-
-`dateValidation` contains `result`, a brief `reason`, and source `evidence`:
-
-- `consistent`: relative chronology fits YAML as its calendar anchor. Nobody needs
-  to say the calendar date aloud. Afternoon-to-evening play can validate compatibility
-  with a single-day span.
-- `conflict`: clear contrary evidence; record a `dateConflict` finding with affected
-  YAML fields and the actual source comparison. Do not automatically edit YAML.
-- `insufficientEvidence`: a material timeline uncertainty prevents assessment,
-  such as ambiguous travel that could exceed the YAML span. An unstated date alone
-  does not qualify.
-
-YAML may clarify unstated dates or extend beyond recorded action. Do not truncate
-it to extracted scene dates. Legacy missing assessments display `notChecked`.
-Other findings identify boundary, contextual-framing, or location questions.
-
-`splitConfidence` contains one `rating: high | medium | low` and a brief `reason`
-for the overall scene/context division, assessed after semantic review. It covers
-site/route granularity and place/time boundaries, not individual scene scores.
-It is separate from date compatibility and place-note matching unless those
-uncertainties affect the division. Legacy omissions display `notAssessed`;
-new/revised saves require an authored assessment. Validation never infers it.
-This provisional assessment does not establish final `sceneReview` or human review.
-
-## Implemented entity map
-
-Required envelope: `schemaVersion: 2`, `sessionYaml`, `inputs`, `entities`.
-Optional `exclusions` and `evidenceNotes`. Inputs bind the scene helper's input
-fingerprints (YAML and registered transcript sources) and consulted vault-note
-hashes. No scene map is read, hashed, or required. Scene-map changes do not stale
-entity decisions. Changed consulted notes invalidate relying
-on the old review; hashes do not prove that every possible note was searched or
-detect newly created candidate pages elsewhere in the vault.
-
-| Entity field | Required? | Meaning |
-| --- | --- | --- |
-| `id` | Yes | Stable session-local identity; preserve across edits. |
-| `kind` | Yes | `npc`, `divine`, `item`, or `organization`. |
-| `label` | Yes | Readable name or a source-grounded descriptive identity. |
-| `occurrences` | Yes | Ordered, nonempty array of `{source}` evidence passages. |
-| `review` | Yes here | Whole-entity confidence and review status. |
-| `note` | No | Matched vault-relative `.md` page or null. |
-| `names` | No | Useful source variants/titles, not copied vault aliases. |
-| `candidates` | No | Plausible note paths while unresolved; cannot coexist with a definite `note`. |
-| `identifiedLater` | No | Boolean flag for a clear identity supplied by later material; requires a chosen `note` while preserving the session's label and names. |
-| `reason` | Conditional | At most 40 words; required for unlinked, medium/low-confidence, or later-identified entities. |
-
-An occurrence respects whole polished turns and UIDs, independently of any scene
-or contextual boundaries. Preview links evidence directly to transcript UID ranges;
-there are no owning scene/context labels. Read surrounding speech to distinguish
-recaps, hypothetical plans, and played action. Occurrences are
-representative retrieval passages, not every name/pronoun and not final interactions.
-They do not establish attendance, presence, or a completed event.
-
-Entity selection:
-
-- **NPC:** named individuals and distinctive unnamed people who plausibly have a
-  name, including a distinct lieutenant identified only by role. Omit generic
-  crowds, every monster, and rumors of unspecified creatures. Dunmari Frontier
-  alone treats the party's ladders as NPC companions, even during equipment use.
-- **Divine:** gods, named religious spirits, comparable divine beings, and named
-  divine collectives. Meaningful religious mentions are worth tracking separately
-  from NPC encounters. Apply a clearly established divine identity even if learned
-  later, with the later-identification flag and session knowledge preserved.
-  Clergy remain NPCs; supernatural origin alone is insufficient.
-- **Item:** plot-significant objects and meaningful finding, acquisition, trade,
-  loss, destruction, property discovery, or discussion of in-world lore, powers,
-  limitations, and possible roles. Substantive discussion of a lore-rich artifact
-  qualifies without actual use or a new revelation; proposed uses remain discussion.
-  Brief concrete lore, such as recognition of an old elven blade, also qualifies
-  without a long conversation or fully recounted origin story.
-  Omit ordinary treasure, incidental inventory mentions, and routine combat use of
-  party gear. Extensive vault lore alone does not make routine use significant.
-  Do not merge separate items merely because one generic item page describes their class.
-- **Organization:** identifiable tribes, factions, institutions, and organized
-  groups, distinct communities, and recognizable historical adventuring parties.
-  Religious institutions belong here; divine collectives belong under divine.
-
-Session PCs remain YAML-owned. A named companion not acting as this session's PC
-can still be an entity; do not equate that with the player's attendance. A chosen
-vault match can identify an unnamed speaker while `label` preserves how the source
-describes them. Clear later material resolves a match with `identifiedLater: true`
-and a reason naming that evidence; it does not replace the session label or imply
-knowledge at the time. Conflicting names or uncertain identity retain candidates.
-This provenance flag remains in processing data, outside the final v7 entity core.
-
-`exclusions` are `{label, reason, source}` for plausible entity candidates omitted
-with a specific reason. They do not exclude those source blocks from later use.
-`evidenceNotes` records consulted pages that are neither chosen nor candidate
-targets. A missing individual page can coexist with high-confidence identity.
-
-`preview`, `preview --kind divine`, `preview --kind npc`, and `preview --entity ID`
-render the inventory or selected original evidence without writing a review file.
-Current local-path links are command-line conveniences; they are not an implemented
-portable Obsidian navigation system.
-
-## Review state and unfinished workflow
-
-Review objects contain `confidence: high | medium | low` and
-`status: unreviewed | automatedReviewed | humanReviewed`. Confidence covers the
-whole record, not separate scores for every field. Entity-map review covers
-selection, identity grouping, and the vault match. Automated review is a distinct
-semantic pass; validation cannot supply it. Human review requires an actual user
-decision for the selected entity, not approval of a scene example or the skill.
-
-The helpers currently accept caller-authored review values. They do **not** yet
-provide a guarded human decision/apply command, enforce immutability of human
-decisions, record review history, or selectively reset only affected decisions.
-The skills instruct the agent to preserve decisions and recheck changes; the
-desktop review implementation must make that behavior concrete and testable.
-
-The next workflow should support selective approval/correction, inclusion/exclusion,
-candidate matching, identity merge/split, deferred questions, and rerunning selected
-records without discarding accepted work. Those are requirements to design against,
-not implemented commands or a settled review-document schema. Choose the review
-artifact's home with the user; do not assume “processing log” is the final answer.
-No mandatory human approval of every entity/session is intended.
+Scene membership does not classify every passage as played action: one site/time
+span can contain chatter, recaps, or hypotheticals. Context blocks and reduction
+snips are not blanket extraction exclusions. Inspect individual passages before
+inferring visits, presence, events, or dialogue.
 
 ## Final session.json v7
 
-The final JSON is the canonical structured enrichment. YAML remains canonical for
-metadata and sources. [session.schema.json](session.schema.json) is the normative
-JSON Schema; [session_model.py](../scripts/session_model.py) checks source ranges,
-references, paths, and exact quotations against the actual registered transcript.
-The model version is **7**, independent of scene-map version 1 and entity-map
-version 2. Legacy entity-map v1 files require explicit evidence rechecking and a
-guarded v2 save preserving IDs and human decisions; they are not silently upgraded.
-The predecessor branch's v6 files are not silently upgraded or accepted as v7.
+[session.schema.json](session.schema.json) is the normative structural definition.
+[session_model.py](../scripts/session_model.py) adds source-aware checks against
+the registered transcript. Version **7** is independent of scene-map v2,
+entity-map v3, and draft v4. There is no automatic version migration.
 
-| Final root field | Required? | Purpose |
+| Root field | Required? | Purpose |
 | --- | --- | --- |
 | `schemaVersion` | Yes | Exactly `7`. |
 | `sessionYaml` | Yes | Vault-relative canonical manifest reference. |
-| `locations` | No | Deduplicated visited vault place paths, independently reviewed; mentioned places are not visits. |
-| `scenes` | No | Reviewed scene records with the same scene fields/indexes described above. |
-| `contextBlocks` | No | Indexed non-play passages, preserving recap/lore/chatter framing and source accounting. |
-| `entities` | No | Final entity records described below. |
-| `interactions` | No | Entity/party interactions anchored to scenes, or mentions anchored to contextual passages. |
+| `locations` | No | Deduplicated visited vault place paths, independently reviewed. |
+| `scenes` | No | Scene records using the scene-map scene fields/indexes. |
+| `contextBlocks` | No | Indexed contextual passages retaining recap/lore/chatter framing. |
+| `entities` | No | Entity records defined below. |
+| `interactions` | No | Entity/party interactions with scene/context anchors. |
 | `review` | No | Aggregate consistency with YAML metadata and reviewed visited locations. |
-| `sceneReview` | No | Review of the overall scene division and source accounting. |
+| `sceneReview` | No | Overall scene division and source accounting review. |
 
-There is no copied campaign name, session number, real-world date, PC/guest list,
-source registry, or aggregate date span in the final JSON. These belong in YAML.
-Optional collections can be absent or empty; optional note/place/date/time values
-can be absent or null. Minimal structural validity is not evidence of readiness.
-Unknown properties are rejected. The smallest valid document is
-`{"schemaVersion": 7, "sessionYaml": "<vault-relative manifest path>"}`;
-the manifest must resolve and pass preflight during source-aware validation.
+Do not copy campaign names, session numbers/dates, PCs, source registries, or an
+aggregate date span from YAML. Unknown properties are rejected. Optional arrays
+may be absent/empty; optional note/place/date/time values may be absent/null,
+not empty strings. Minimal validity does not mean readiness: a document containing
+only `schemaVersion: 7` and a valid `sessionYaml` passes partial validation.
 
-Final context blocks require `index`, `kind`, and `source`; `aiSummary` is optional
-and limited to 25 words. Kinds remain `recap | loreDiscussion | tableChatter`.
-Their positive indexes form a **separate namespace** from scene indexes. Projection
-assigns them in source order; downstream interaction consumers must bind dependent
-references to the scene-map revision, as they do scene indexes. Entity maps use
-transcript UIDs and do not depend on these indexes. One contiguous range per block;
-no source range can overlap another scene or context block. Complete source accounting means
-every UID belongs to exactly one scene or context block. It does not require an
-interaction for every block. Table chatter can remain accounted with no entities.
+### Scene and contextual anchors
 
-Final entity required fields: `id`, `kind`, `label`. Kinds are
-`npc | divine | item | organization`. Optional: `note`, `aiSummary` (one per entity per session,
-at most two sentences), `aiSuggestedFeaturedQuotes` (quote IDs), and `review`.
-Intermediate `occurrences`, `candidates`, `names`, and selection `reason` are
-processing/review evidence, not automatically additional final-entity fields.
+Scenes retain the scene-map scene fields, including independent optional
+`timeStart` and `timeEnd` text endpoints beside `dateStart` and `dateEnd`.
+Relative/approximate wording is allowed; unknown endpoints stay absent/null.
+The single `time` field is retired. Map-level `review` projects to final
+`sceneReview`; optional AI `issues` and fingerprints stay in the scene map.
+Issues serve only to surface concerns to a reviewer; their presence does not
+change validation results, confidence, or review status.
+Final context blocks require
+`index`, `kind`, and `source`, with optional `aiSummary` of at most 25 words.
+Kinds are `recap | loreDiscussion | tableChatter`. Scene and context indexes are
+positive, ordered, and unique in **separate namespaces**. Projection assigns
+context indexes in source order.
 
-Final interaction required fields: `id`, `entity` (entity ID), and `interaction`,
-plus at least one nonempty anchor array: `scenes` (existing scene indexes) or
-`contexts` (existing context-block indexes). Each array is ordered and unique.
-The interaction vocabulary is:
+Ranges cannot overlap within or across those collections. Complete accounting
+means every UID belongs to one scene or context block; it does not require an
+interaction for every block. Partial candidates can leave UIDs unaccounted.
 
-- `interacted`: meaningful direct exchange/action; replaces the misleading “met.”
-- `observed`: the party observes the entity without a direct exchange.
-- `present`: the entity is known to be around but does not otherwise act.
-- `mentioned`: discussed without establishing current participation.
+### Entities and review
 
-Any interaction with a nonempty `contexts` array must be `mentioned`, even if it
-also references scenes. A context-only mention needs no invented played scene.
-When a direct exchange has related postgame commentary, keep the played exchange
-anchored to its scenes and the commentary as a separate contextual mention. This
-preserves what happened versus what was said about it. In-scene recollections or
-hypotheticals also use `mentioned`; a scene anchor alone does not prove presence.
+Required entity fields: `id`, `kind`, `label`. Kinds are
+`npc | divine | item | organization`. Optional fields:
 
-All four interaction types apply to divine entities under these same evidence
-rules. Prayer, invocation, belief, and attributed intervention alone are mentions;
-an explicitly played manifestation can be observed/present, and a supported direct
-exchange can be interacted. No additional divine interaction taxonomy is needed.
-Kind allows renderers to separate religious references from NPC encounters.
+- `note`: verified vault-relative `.md` path or null.
+- `aiSummary`: one entity/session overview, at most two sentences.
+- `aiSuggestedFeaturedQuotes`: IDs of that entity's existing quotes.
+- `review`: whole-record confidence and status.
 
-Optional interaction fields: `importance` (`star | supporting | cameo`), `knownAs`
+Intermediate `occurrences`, `names`, `candidates`, and `identifiedLater`
+remain map/review evidence. They are not extra final entity fields. Later stage
+interaction authoring must preserve session knowledge, using `knownAs` where
+helpful; projection alone does not generate those interactions.
+
+Review objects contain `confidence: high | medium | low` and
+`status: unreviewed | automatedReviewed | humanReviewed`. Confidence covers the
+whole decision rather than separate field scores. Automated review is a distinct
+semantic pass; human review requires an actual decision on that record. Projection
+can carry entity review values and scene-map review without establishing overall
+final-output review. Legacy scene maps lacking review do not acquire `sceneReview`
+through projection.
+
+### Interactions
+
+Required: `id`, `entity` (an existing entity ID), `interaction`, and at least one
+nonempty anchor array: `scenes` or `contexts`. Anchor arrays contain existing,
+ordered, unique indexes. Interaction types:
+
+| Value | Meaning |
+| --- | --- |
+| `interacted` | Meaningful direct exchange/action. |
+| `observed` | The party observes the entity without a direct exchange. |
+| `present` | The entity is known to be around but does not otherwise act. |
+| `mentioned` | Discussion without establishing current participation. |
+
+Any nonempty `contexts` array requires `mentioned`, even with scene anchors.
+Separate a played exchange from related postgame commentary; context-only
+mentions need no invented scene. In-scene recollections and hypotheticals also
+use `mentioned`. Scene anchors alone do not prove presence.
+
+The same vocabulary applies to divine entities. Prayer, invocation, belief, and
+attributed intervention alone are mentions. An explicitly played manifestation
+can be observed/present; a supported direct exchange can be interacted. Divine
+kind allows separate religious views without another interaction taxonomy.
+
+Optional interaction fields: `importance: star | supporting | cameo`, `knownAs`
 (source-specific name), `aiSummary` (at most one sentence), `passages`, `quotes`,
-and `review`. No separate `fought` type. Preserve a whole conversation as one
-interaction through brief interruptions, even if it spans scenes. Importance is
-an interaction judgment, not a permanent entity rank.
+and `review`. Importance belongs to that interaction, not the permanent entity.
+Preserve a whole conversation through brief interruptions, even across scenes.
+There is no separate `fought` type.
 
-Passage required field: `source`. Optional: `relevance` (`primary | supporting`)
-and `aiSummary` (at most one sentence). Usually one primary passage is enough;
-additional passages recover meaningful discontinuous portions. No `purpose` field.
-Passages are the meaningful parts of the interaction, not full-scene copies.
+### Passages and quotations
 
-Quote required fields: `id`, `type`, `text`, `source`. One quote structure supports:
+A passage requires `source`; optional fields are
+`relevance: primary | supporting` and `aiSummary` (at most one sentence). Usually
+one primary passage suffices, with additional passages for meaningful discontinuous
+portions. Do not copy whole scenes or add a `purpose` field.
+
+A quote requires `id`, `type`, `text`, and `source`. Types:
 
 - `introduction`: wording introducing the entity, spoken by a PC or DM.
 - `color`: a memorable line spoken by the entity.
-- `whole`: the entire meaningful interaction is a short quotable passage, spoken
-  by a PC or DM.
+- `whole`: the entire meaningful exchange is a short quotable passage, spoken by a PC or DM.
 
-No separate attribution field was chosen. Quotes are verbatim original-source
-text; never quote reduction labels or silently join across cuts. Significant NPCs
-may have multiple pull quotes. `aiSuggestedFeaturedQuotes` references that entity's
-existing quote IDs without duplicating text. Quote IDs are unique across the
-session. Selected passages/quotes must fit within the union of their interaction's
-linked scene/context ranges, with no unlinked gaps. Passages are ordered and do
-not overlap. Quotes can select part of a turn's text, but their source locators
-still respect whole turns/UIDs. Speaker/type interpretation and summary sentence
-limits require semantic review, not just the mechanical validator.
+Quote IDs are session-unique. Featured-quote IDs must belong to that entity.
+Quotes must be verbatim polished-source text, never reduction labels or fragments
+joined across snips. There is no separate attribution field. Significant entities
+may have several quotes.
 
-### Validation and projection
+Passages/quotes must fit inside the union of their interaction's scene/context
+anchors without unlinked gaps. Passages are ordered and non-overlapping. A quote
+can select part of a turn's text, but its locator still respects whole turns/UIDs.
+Speaker/type interpretation and sentence limits require semantic review; the
+mechanical validator does not establish them.
 
-Install the skill's [requirements](../requirements.txt) in the local Python
-environment. Run from the vault root:
+## Validation and projection
+
+Install [requirements](../requirements.txt), then run from the vault root:
 
 ```bash
 python3 -B .agents/skills/check-session-entities/scripts/session_model.py project --session-yaml PATH
 python3 -B .agents/skills/check-session-entities/scripts/session_model.py validate PATH_TO_SESSION_JSON --require-coverage
 ```
 
-Both commands are read-only and print JSON to stdout. `project` separately loads
-and validates the scene map alongside the independently generated entity map.
-It requires both maps to be current, preserves scene indexes and entity identities,
-adds indexed context blocks, and checks full coverage. It carries entity review values without
-claiming a completed final review. It does not fabricate interactions, summaries,
-quotes, an accepted aggregate location list, or aggregate review statuses. Explicit
-redirection can save this **candidate**, but the helper never registers it in YAML.
+Both commands are **read-only**, printing JSON to stdout. `project` requires
+current scene and entity maps, preserves scene indexes and entity identities,
+adds indexed contextual blocks, and checks full coverage. It does not fabricate
+interactions, summaries, quotes, aggregate visited locations, or aggregate final review.
+Explicit redirection can save a candidate but does not register it in YAML.
+Legacy scene maps containing single `time` descriptions remain readable, but
+projection stops until their endpoints are assigned from source evidence. It does
+not silently drop the description or invent a start/end conversion.
 
-`validate` without `--require-coverage` accepts partial working candidates and
-reports unaccounted UIDs. With that flag, it requires complete scene/context
-coverage. Neither mode establishes semantic accuracy or workflow completion;
-`publicationReady: false` means this helper does not certify publication. It is
-not a stored final-session field. Fingerprints and publication checks belong to
-the processing workflow, rather than duplicated source metadata in session.json.
+Without `--require-coverage`, validation accepts partial candidates and reports
+unaccounted UIDs. With the flag it requires complete scene/context coverage.
+Neither mode certifies accuracy or completion. The returned
+`publicationReady: false` is a validator result, not a stored final-session field.
 
-For a deliberate v6 migration, preserve compatible fields/IDs, review divine
-classification, and reconstruct contextual ranges from the current source map.
-Do not automatically turn old excluded blocks into scenes or discard their lore.
-Update references and validate as v7; merely changing the version number is not a
-migration. The old branch's v6 extractor/readers need explicit adaptation before
-using this model. No existing session outputs are migrated by this checkpoint.
+Entity-map v2 upgrades remove the retired entity `reason` field and wrap each
+exclusion's single source in an `occurrences` array. Verify inputs and preserve
+all other decisions in a guarded v3 save. Version 1 additionally needs
+source and identity rechecking because it depended on scene maps. Adapting
+v6 final outputs requires reviewing divine classification and contextual ranges,
+preserving compatible IDs/decisions, and validating v7; changing only the version
+number is insufficient. No historical branch or extractor is a runtime dependency.
 
-## Processing companion and remaining workflow integration
+## Remaining integration
 
-Keep fingerprints, review evidence/history, excluded source blocks with reasons,
-metadata findings, and pipeline progress outside final narrative/enrichment records.
-The earlier branch's `session-processing-data.json` has `schemaVersion`,
-`sessionYaml`, `inputs`, `stage`, `fullTranscriptRead`, `excludedBlocks`,
-`metadataFindings`, and `reviews`. Reuse useful infrastructure after reconciling
-its semantics with these stages; do not declare the review-history location settled.
+Final generation must consume map decisions rather than rematch everything,
+produce evidence-grounded interactions, and bind the result to input/map revisions.
+Visited-location review is independent of scene links. Safe selective review must
+handle approval, corrections, inclusion/exclusion, candidate matching, merge/split,
+deferred questions, and reruns without discarding accepted work. Approval of every
+clear record is not intended.
 
-The v7 accounting rule is scenes plus context blocks. Processing exclusions are
-annotations explaining why material produced no interaction or entity, not a
-third coverage bucket and not permission to lose contextual lore. Keep source
-ranges and reasons in that companion; entity-map exclusions remain the distinct
-record of omitted entity candidates. Do not treat every contextual block as an
-exclusion. The companion's persistence and review-history UI are not implemented
-by the final-session validator.
+Keep fingerprints, review evidence/history, excluded-source annotations, metadata
+concerns, and progress outside final enrichment records. There is no implemented
+processing-companion format or review-history store in these helpers. Entity-map
+exclusions describe omitted candidates; source exclusions would explain why a
+passage yielded no interaction, not form a third coverage bucket.
 
-Remaining workflow implementation:
-
-1. Use the projection to transfer scene/entity decisions and stable IDs, then
-   generate interactions from evidence without independently rematching everything.
-   Bind the result to processing fingerprints and reset stale decisions appropriately.
-2. Adapt downstream readers/renderers to v7, including separate divine views and
-   contextual mentions. The final schema and their representation are defined above.
-3. Review the aggregate visited-location list independently. Scene links exist,
-   but there is no implemented independent location review in the new entity skill.
-4. Design safe review application, change invalidation and explicit completion.
-   Only then wire up YAML output registration. The earlier branch uses:
-
-   ```yaml
-   interactionExtraction:
-     sessionJson: ../interactions/session.json
-     processingData: ../interactions/session-processing-data.json
-   ```
-
-   These output paths are relative to the YAML directory, unlike bundle-relative
-   transcript artifact paths. Current new stages never append these pointers.
-
-Beats/facts/recaps remain optional automated-review hints, not canonical source
-registries or extraction prerequisites. Do not integrate or overwrite existing
-note pipelines as a side effect of building the Obsidian review workflow.
+Only after review/application and completion checks are implemented should final
+outputs be registered in YAML. Current stages never append `interactionExtraction`
+output pointers or change existing note pipelines. Use existing beats/facts/recaps
+only as optional review hints, not source registries or prerequisites.

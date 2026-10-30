@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
   "inputs": {
     "sessionInputs": {
@@ -152,7 +152,6 @@
         "status": "unreviewed"
       },
       "note": "People/PCs/Mawar/Blu.md",
-      "reason": "One shapeshifting companion, explicitly changing between osprey and shark; Turk’s separate vault page is supporting evidence, not a second entity.",
       "names": [
         "Blu",
         "Turk"
@@ -200,8 +199,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Other Nonhumans/Chaessenth.md",
-      "reason": "Captive dragon turtle, freed and named in play; Timmy is a discarded out-of-character naming joke."
+      "note": "People/Other Nonhumans/Chaessenth.md"
     },
     {
       "id": "e006",
@@ -221,8 +219,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Lizardfolk/Benat.md",
-      "reason": "Mentioned as the lizardfolk historian with Azar; conflicting location claims in other notes do not change this identity."
+      "note": "People/Lizardfolk/Benat.md"
     },
     {
       "id": "e007",
@@ -242,8 +239,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Mawarans/Azar the Lost.md",
-      "reason": "The previously captured warlock with Benat, not the dwarven god of the same name. Preserve the transcript’s location claim without endorsing the separate continuity dispute."
+      "note": "People/Mawarans/Azar the Lost.md"
     },
     {
       "id": "e008",
@@ -279,8 +275,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/PCs/Mawar/Wazir.md",
-      "reason": "A PC from other sessions, explicitly absent here but meaningfully identified as the innkeeper and a potential ally."
+      "note": "People/PCs/Mawar/Wazir.md"
     },
     {
       "id": "e009",
@@ -316,8 +311,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/PCs/Mawar/Trok.md",
-      "reason": "A PC from other sessions, explicitly absent here; discussed as an ally with ties to the lizardfolk, without implying player attendance."
+      "note": "People/PCs/Mawar/Trok.md"
     },
     {
       "id": "e010",
@@ -337,8 +331,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/PCs/Mawar/Kaleho.md",
-      "reason": "An absent PC from other sessions, described as a visiting sailor seeking merfolk; no attendance inferred."
+      "note": "People/PCs/Mawar/Kaleho.md"
     },
     {
       "id": "e011",
@@ -358,8 +351,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Mawarans/Hiyasa.md",
-      "reason": "Named as the source of the treasure map; only mentioned."
+      "note": "People/Mawarans/Hiyasa.md"
     },
     {
       "id": "e012",
@@ -379,8 +371,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Mawarans/Yaz.md",
-      "reason": "Named ocean watcher suggested as a future source about Wanui Teora."
+      "note": "People/Mawarans/Yaz.md"
     },
     {
       "id": "e013",
@@ -408,8 +399,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "People/Other Humans/Khathayi.md",
-      "reason": "Named ancient fire-associated being sought by the mage. Godlike folklore does not establish worship or divinity; NPC classification remains a calibration question."
+      "note": "People/Other Humans/Khathayi.md"
     },
     {
       "id": "e014",
@@ -445,8 +435,7 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "note": "People/Extraplanar Powers/Sentient Ocean.md",
-      "reason": "Named living ocean matched through an explicit alias. An alien power and its songs are established; divine or worshipped status is not, so classification needs review."
+      "note": "People/Extraplanar Powers/Sentient Ocean.md"
     },
     {
       "id": "e015",
@@ -465,8 +454,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "Ander explicitly names his horse after his sword. Distinct physical referent; no individual horse page in filenames, names, aliases, or campaign references."
+      }
     },
     {
       "id": "e016",
@@ -501,8 +489,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A named speaking sword introduced and discussed beyond routine attacks. No dedicated object page in filenames, names, aliases, or campaign references; do not merge with Ander’s horse."
+      }
     },
     {
       "id": "e017",
@@ -521,8 +508,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A specific greeter speaks to the party and fetches Itzal. No individual match in person filenames, metadata, and village references."
+      }
     },
     {
       "id": "e018",
@@ -565,8 +551,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "Distinct guardian who negotiates, serves a master, and explodes on death. No individual match in person filenames, aliases, or campaign references."
+      }
     },
     {
       "id": "e019",
@@ -609,8 +594,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "Distinct captor controlling the turtle and seeking Khathayi; no individual page in person filenames, metadata, or campaign references."
+      }
     },
     {
       "id": "e020",
@@ -646,7 +630,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "The burning implement lodged in Chaessenth’s neck is removed and dropped in the water. No object-page match in filename, metadata, or campaign searches; preserve the transcript’s alternating arrow and spear labels.",
       "names": [
         "spear",
         "arrow"
@@ -677,8 +660,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "Specific plot-bearing demand delivered with a body, examined by the party. No dedicated note page in object filenames, metadata, or campaign references."
+      }
     },
     {
       "id": "e022",
@@ -718,80 +700,107 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Other Nonhumans/Yerkir-khor.md",
-      "reason": "The monument discussion refers to its associated earth-lord. The public tomb and being accounts describe religious honoring and offerings, supporting divine classification; the name is more than a route label here."
+      "note": "People/Other Nonhumans/Yerkir-khor.md"
     }
   ],
   "exclusions": [
     {
       "label": "Current party PCs",
       "reason": "Ryu, Ander, and Nerissa are the active PCs; other registered characters are discussed as absent.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0021",
-        "endUid": "u0026"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0021",
+            "endUid": "u0026"
+          }
+        }
+      ]
     },
     {
       "label": "Ryu’s returning spear",
       "reason": "Standard returning attacks and routine equipment use; keep distinct from the burning implement lodged in the turtle.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1477",
-        "endUid": "u1494"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1477",
+            "endUid": "u1494"
+          }
+        }
+      ]
     },
     {
       "label": "Gatza tribute",
       "reason": "Gatza is a material and the planned tribute, with no individually acquired batch or distinct physical object. Flag this exclusion for calibration because its spirit-contact properties drive the plot.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u3176",
-        "endUid": "u3183"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3176",
+            "endUid": "u3183"
+          }
+        }
+      ]
     },
     {
       "label": "Steam imps",
       "reason": "A group of generic summoned or elemental enemies, without distinct personal identities.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1130",
-        "endUid": "u1151"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1130",
+            "endUid": "u1151"
+          }
+        }
+      ]
     },
     {
       "label": "Real-world children and Riswynn side-game anecdote",
       "reason": "Family conversation and discussion of another game during a break; no events or attendance in this session.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0944",
-        "endUid": "u1015"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0944",
+            "endUid": "u1015"
+          }
+        }
+      ]
     },
     {
       "label": "Timmy",
       "reason": "A suggested joke name explicitly superseded when the DM names the turtle Chaessenth.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u2995",
-        "endUid": "u3010"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2995",
+            "endUid": "u3010"
+          }
+        }
+      ]
     },
     {
       "label": "Healing potion and Pearl of Power",
       "reason": "Routine healing and spell-slot recovery, without an item discovery or substantive lore discussion.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u2050",
-        "endUid": "u2056"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2050",
+            "endUid": "u2056"
+          }
+        }
+      ]
     }
   ],
   "evidenceNotes": [

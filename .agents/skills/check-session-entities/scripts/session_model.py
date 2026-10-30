@@ -22,7 +22,7 @@ SCHEMA = Path(__file__).resolve().parents[1] / 'references/session.schema.json'
 
 
 def validate_schema(document):
-    schema = json.loads(SCHEMA.read_text())
+    schema = json.loads(SCHEMA.read_text(encoding='utf-8'))
     jsonschema.Draft202012Validator(schema, format_checker=jsonschema.FormatChecker()).validate(document)
 
 
@@ -118,12 +118,16 @@ def project(session_yaml, vault_root=scenes.VAULT):
     bundle = entities.load(session_yaml, vault_root)
     mapped = entities.read_map(bundle)
     scene_doc = scenes.read_map(bundle)
+    require(all('time' not in row for row in scene_doc['scenes']),
+            'Legacy scene.time needs evidence-based timeStart/timeEnd assignment before v7 projection')
     doc = {'schemaVersion': 7, 'sessionYaml': bundle['sessionYaml'],
            'scenes': copy.deepcopy(scene_doc['scenes']),
            'contextBlocks': [dict(index=i, **copy.deepcopy(row)) for i, row in
                              enumerate(scene_doc['contextBlocks'], 1)],
            'entities': [{k: copy.deepcopy(row[k]) for k in ('id', 'kind', 'label', 'note', 'review') if k in row}
                         for row in mapped['entities']]}
+    if 'review' in scene_doc:
+        doc['sceneReview'] = copy.deepcopy(scene_doc['review'])
     # Aggregate location review is separate; do not imply acceptance by deduplicating scene links.
     # Per-entity status is carried, but it cannot establish final output review/currentness.
     validate(doc, vault_root, require_coverage=True)
@@ -143,7 +147,7 @@ def main():
         if args.command == 'project':
             result = project(args.session_yaml)
         else:
-            doc = json.loads(Path(args.session_json).read_text())
+            doc = json.loads(Path(args.session_json).read_text(encoding='utf-8'))
             result = validate(doc, require_coverage=args.require_coverage)
         print(json.dumps(result, ensure_ascii=False, indent=2))
     except (ValueError, OSError, KeyError, TypeError, jsonschema.ValidationError) as exc:

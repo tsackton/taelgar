@@ -46,10 +46,22 @@ class EntityMapTests(unittest.TestCase):
         doc = self.document()
         self.assertEqual(e.validate(self.bundle, doc)['entities'], 1)
         self.assertFalse(self.bundle['mapPath'].exists())
-        self.assertEqual(doc['schemaVersion'], 2)
+        self.assertEqual(doc['schemaVersion'], 3)
         self.assertNotIn('sceneMapSha256', doc['inputs'])
         self.assertNotIn('pcs', doc)
         self.assertNotIn('scenes', doc)
+
+    def test_entity_reads_preserve_literal_double_parentheses(self):
+        source = self.fixture.source
+        source.write_text(source.read_text(encoding='utf-8').replace(
+            'Grash greets you', 'Grash ((the guide)) greets you'), encoding='utf-8', newline='\n')
+        original = source.read_bytes()
+        bundle = self.load()
+        e.save(bundle, self.proposal)
+        self.assertIn('Grash ((the guide))', e.preview(bundle, e.read_map(bundle), 'e001'))
+        self.assertEqual(source.read_bytes(), original)
+        self.assertFalse(bundle['draft'].exists())
+        self.assertFalse(bundle['mapPath'].exists())
 
     def test_evidence_can_cross_prospective_scene_and_context_boundaries(self):
         doc = self.document()
@@ -64,17 +76,23 @@ class EntityMapTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 e.validate(self.bundle, doc)
 
-    def test_unlinked_high_confidence_identity_is_allowed_with_reason(self):
+    def test_unlinked_high_confidence_identity_needs_no_reason(self):
         p = copy.deepcopy(self.proposal)
         row = p['entities'][0]
         del row['note']
         row['label'] = 'Unnamed camp spokesman'
-        row['reason'] = 'Distinct individual; no suitable page in searched camp references.'
         doc = e.build(self.load(notes=()), p)
         self.assertEqual(e.validate(self.load(notes=()), doc)['matched'], 0)
-        del row['reason']
-        with self.assertRaisesRegex(ValueError, 'need a reason'):
-            e.build(self.load(notes=()), p)
+        self.assertNotIn('reason', doc['entities'][0])
+
+    def test_entity_reasons_are_rejected_without_changing_existing_output(self):
+        e.save(self.bundle, self.proposal)
+        before = self.bundle['entityPath'].read_bytes()
+        p = copy.deepcopy(self.proposal)
+        p['entities'][0]['reason'] = 'Repeated identity explanation.'
+        with self.assertRaisesRegex(ValueError, 'unknown fields.*reason'):
+            e.save(self.bundle, p, e.scenes.draft.sha(before))
+        self.assertEqual(self.bundle['entityPath'].read_bytes(), before)
 
     def test_no_duplicate_ids_or_matching_two_people_to_same_page(self):
         for change_id in (False, True):
@@ -91,8 +109,10 @@ class EntityMapTests(unittest.TestCase):
         row = p['entities'][0]
         row['candidates'] = [row.pop('note')]
         row['review']['confidence'] = 'medium'
-        row['reason'] = 'Similar name, but the role is ambiguous.'
-        self.assertEqual(e.validate(self.bundle, e.build(self.bundle, p))['reviewPriority'], ['e001'])
+        doc = e.build(self.bundle, p)
+        self.assertEqual(e.validate(self.bundle, doc)['reviewPriority'], ['e001'])
+        self.assertIn('Unresolved candidates', e.preview(self.bundle, doc))
+        self.assertIn('People/Grash.md', e.preview(self.bundle, doc))
         row['note'] = 'People/Grash.md'
         with self.assertRaisesRegex(ValueError, 'not both'):
             e.build(self.bundle, p)
@@ -100,8 +120,7 @@ class EntityMapTests(unittest.TestCase):
     def test_later_identification_preserves_session_label_and_is_flagged(self):
         p = copy.deepcopy(self.proposal)
         row = p['entities'][0]
-        row.update(label='Unnamed camp leader', identifiedLater=True,
-                   reason='Later public material identifies the camp leader as Grash.')
+        row.update(label='Unnamed camp leader', identifiedLater=True)
         doc = e.build(self.bundle, p)
         e.save(self.bundle, p)
         reopened = e.read_map(self.load())
@@ -110,21 +129,22 @@ class EntityMapTests(unittest.TestCase):
         self.assertEqual(reopened['entities'][0]['occurrences'], row['occurrences'])
         preview = e.preview(self.bundle, doc)
         self.assertIn('identified later', preview)
-        self.assertIn(row['reason'], preview)
+        self.assertNotIn('reason', reopened['entities'][0])
+        self.assertNotIn('Matched against source', e.preview(self.bundle, doc, 'e001'))
 
-    def test_later_identification_requires_boolean_note_and_reason(self):
+    def test_later_identification_requires_boolean_and_chosen_note(self):
         for value in ('true', 1, None):
             doc = self.document()
             doc['entities'][0]['identifiedLater'] = value
             with self.assertRaisesRegex(ValueError, 'must be a boolean'):
                 e.validate(self.bundle, doc)
-        for missing in ('note', 'reason'):
-            doc = self.document()
-            row = doc['entities'][0]
-            row.update(identifiedLater=True, reason='A later identification.')
-            row.pop(missing)
-            with self.assertRaises(ValueError):
-                e.validate(self.bundle, doc)
+        doc = self.document()
+        row = doc['entities'][0]
+        row['identifiedLater'] = True
+        row.pop('note')
+        doc['evidenceNotes'] = ['People/Grash.md']
+        with self.assertRaisesRegex(ValueError, 'requires a chosen note'):
+            e.validate(self.bundle, doc)
 
     def test_scene_maps_are_not_read_or_fingerprinted(self):
         doc = self.document()
@@ -160,6 +180,22 @@ class EntityMapTests(unittest.TestCase):
         doc['inputs']['sceneMapSha256'] = 'old-scene-hash'
         with self.assertRaisesRegex(ValueError, 'recheck legacy decisions'):
             e.validate(self.bundle, doc)
+
+    def test_v2_requires_explicit_removal_before_guarded_v3_save(self):
+        old = self.document()
+        old['schemaVersion'] = 2
+        old['entities'][0]['reason'] = 'Former v2 explanation.'
+        raw = e.scenes.encoded(old)
+        self.bundle['entityPath'].write_bytes(raw)
+        with self.assertRaisesRegex(ValueError, 'explicit removal of entity reasons'):
+            e.read_map(self.bundle)
+        with self.assertRaisesRegex(ValueError, 'expect-sha256'):
+            e.save(self.bundle, self.proposal)
+        self.assertEqual(self.bundle['entityPath'].read_bytes(), raw)
+        migrated = e.save(self.bundle, self.proposal, e.scenes.draft.sha(raw))
+        self.assertEqual(migrated['schemaVersion'], 3)
+        self.assertNotIn('reason', migrated['entities'][0])
+        self.assertEqual(migrated['entities'][0]['review'], old['entities'][0]['review'])
 
     def test_note_changed_after_read_invalidates_review_and_save(self):
         doc = self.document()
@@ -216,15 +252,51 @@ class EntityMapTests(unittest.TestCase):
             with self.assertRaises(ValueError):
                 e.validate(self.bundle, doc)
 
-    def test_exclusions_have_source_and_do_not_partition_transcript(self):
+    def test_exclusions_have_occurrences_and_do_not_partition_transcript(self):
         doc = self.document()
         doc['exclusions'] = [{'label': 'Routine gold', 'reason': 'Ordinary treasure.',
-                              'source': e.scenes.source('u0005', 'u0005')}]
+                              'occurrences': [{'source': e.scenes.source('u0005', 'u0005')}]}]
         self.assertEqual(e.validate(self.bundle, doc)['exclusions'], 1)
         self.assertIn('Excluded candidates', e.preview(self.bundle, doc))
         self.assertIn('Ordinary treasure.', e.preview(self.bundle, doc))
-        doc['exclusions'][0]['source'] = e.scenes.source('u0003', 'u0003')
+        missing_reason = copy.deepcopy(doc)
+        del missing_reason['exclusions'][0]['reason']
+        with self.assertRaisesRegex(ValueError, 'missing fields.*reason'):
+            e.validate(self.bundle, missing_reason)
+        doc['exclusions'][0]['occurrences'][0]['source'] = e.scenes.source('u0003', 'u0003')
         with self.assertRaisesRegex(ValueError, 'splits a polished turn'):
+            e.validate(self.bundle, doc)
+
+    def test_multiple_exclusion_occurrences_roundtrip_and_all_appear_in_preview(self):
+        proposal = copy.deepcopy(self.proposal)
+        proposal['exclusions'] = [{'label': 'Routine equipment', 'reason': 'Ordinary gear use.',
+            'occurrences': [{'source': e.scenes.source('u0001', 'u0001')},
+                            {'source': e.scenes.source('u0005', 'u0005')}]}]
+        document = e.save(self.bundle, proposal)
+        self.assertEqual(e.read_map(self.load())['exclusions'], proposal['exclusions'])
+        preview = e.preview(self.bundle, document)
+        exclusion_text = preview.split('## Excluded candidates', 1)[1]
+        self.assertIn('u0001–u0001', exclusion_text)
+        self.assertIn('u0005–u0005', exclusion_text)
+        self.assertNotIn('source', document['exclusions'][0])
+
+    def test_exclusion_occurrences_reject_empty_reversed_duplicate_and_old_shape(self):
+        first = {'source': e.scenes.source('u0001', 'u0001')}
+        last = {'source': e.scenes.source('u0005', 'u0005')}
+        for refs in ([], None, [last, first], [first, first],
+                     [{'source': e.scenes.source('u0002', 'u0004')},
+                      {'source': e.scenes.source('u0004', 'u0005')}],
+                     [{'source': e.scenes.source('u9999', 'u9999')}]):
+            with self.subTest(occurrences=refs):
+                doc = self.document()
+                doc['exclusions'] = [{'label': 'Routine equipment', 'reason': 'Ordinary gear use.',
+                                      'occurrences': refs}]
+                with self.assertRaises(ValueError):
+                    e.validate(self.bundle, doc)
+        doc = self.document()
+        doc['exclusions'] = [{'label': 'Routine equipment', 'reason': 'Ordinary gear use.',
+                              'source': first['source']}]
+        with self.assertRaisesRegex(ValueError, 'missing fields.*occurrences'):
             e.validate(self.bundle, doc)
 
     def test_preview_is_entity_first_with_evidence_only_on_request(self):
@@ -243,8 +315,7 @@ class EntityMapTests(unittest.TestCase):
     def test_divine_identity_keeps_evidence_and_filters_separately(self):
         doc = self.document()
         divine = copy.deepcopy(doc['entities'][0])
-        divine.update(id='e002', kind='divine', label='Spirit of the gate', note=None,
-                      reason='Named religious spirit; no individual vault page.')
+        divine.update(id='e002', kind='divine', label='Spirit of the gate', note=None)
         doc['entities'].append(divine)
         e.validate(self.bundle, doc)
         gods = e.preview(self.bundle, doc, kind='divine')

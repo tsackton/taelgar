@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
   "inputs": {
     "sessionInputs": {
@@ -201,8 +201,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Dunmari/Alesh.md",
-      "reason": "Mentioned as a scout and earlier visitor; no current encounter."
+      "note": "People/Dunmari/Alesh.md"
     },
     {
       "id": "e006",
@@ -239,7 +238,6 @@
         "status": "unreviewed"
       },
       "note": "People/Fey/Agata.md",
-      "reason": "Discussed as a possible threat and future destination, never encountered here.",
       "names": [
         "Dustmother"
       ]
@@ -270,8 +268,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Extraplanar Powers/Cha'mutte.md",
-      "reason": "Historical enemy; an elder wyrm, with no session evidence of worship or a divine identity."
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
     },
     {
       "id": "e008",
@@ -291,8 +288,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Giants/Hralgar.md",
-      "reason": "Recollection of the storm giant and the earlier encounter in his consciousness."
+      "note": "People/Giants/Hralgar.md"
     },
     {
       "id": "e009",
@@ -360,8 +356,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/Historical Figures/Dunmari Rulers/Kotana.md",
-      "reason": "Named historical ruler; mortal identity remains distinct from divine parentage."
+      "note": "People/Historical Figures/Dunmari Rulers/Kotana.md"
     },
     {
       "id": "e012",
@@ -481,8 +476,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali.md",
-      "reason": "Mentioned in the founding and resurrection story; no current manifestation."
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali.md"
     },
     {
       "id": "e016",
@@ -518,8 +512,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md",
-      "reason": "The order page identifies Bhishma’s mystai; its formal historical name is not spoken in this transcript."
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md"
     },
     {
       "id": "e017",
@@ -582,8 +575,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "An identifiable expedition, distinct from Vola and Arcus. No supported group-page match in organization filenames, aliases, or the session reference; selection as an unnamed organization merits review."
+      }
     },
     {
       "id": "e019",
@@ -619,8 +611,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate.md",
-      "reason": "Recovered armor with substantial investigation of its shadows and new metal; later revelations about that metal are not imported."
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate.md"
     },
     {
       "id": "e020",
@@ -647,8 +638,7 @@
       "review": {
         "confidence": "medium",
         "status": "unreviewed"
-      },
-      "reason": "Its connection to Delwath’s patron is substantively discussed. Keep separate from the breastplate and later swords; source and treasure-note searches do not establish a dedicated matching object page."
+      }
     },
     {
       "id": "e021",
@@ -676,7 +666,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "Later reference identifies Delwath’s patron as Yezali, also called Aaviskar, a tanshi. Classify as divine while retaining the session’s unnamed, uncertain description. No later rescue or revelation is made an event here.",
       "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
       "identifiedLater": true
     },
@@ -715,7 +704,6 @@
         "status": "humanReviewed"
       },
       "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
-      "reason": "The note identifies Wellby’s axebeak mount; Baxter is only a naming suggestion here, so the label preserves the source’s uncertainty.",
       "names": [
         "Baxter (proposed)"
       ]
@@ -738,8 +726,7 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md",
-      "reason": "Named rabbit companion explicitly confirmed to be traveling with Seeker."
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md"
     },
     {
       "id": "e024",
@@ -774,8 +761,7 @@
       "review": {
         "confidence": "high",
         "status": "unreviewed"
-      },
-      "reason": "A distinctive armored commander issuing orders; no supported individual match in person filenames, aliases, or the battle reference."
+      }
     },
     {
       "id": "e025",
@@ -811,7 +797,6 @@
         "confidence": "high",
         "status": "unreviewed"
       },
-      "reason": "Later reference identifies the captured cleric at Havdar’s camp as Gorkil. Preserve the unnamed spellcaster label and this session’s evidence; his subsequent interrogation and fate are not current events.",
       "note": "People/Orcs/Gorkil.md",
       "identifiedLater": true
     },
@@ -833,7 +818,6 @@
         "confidence": "medium",
         "status": "unreviewed"
       },
-      "reason": "A distinct orc community is discussed despite uncertain peacefulness. The People of the Rainbow are a possible match, but these particular orcs are not identified by the speakers; preserve that uncertainty.",
       "candidates": [
         "Groups/Orc Hordes/People of the Rainbow.md"
       ]
@@ -855,70 +839,93 @@
       "review": {
         "confidence": "high",
         "status": "humanReviewed"
-      },
-      "reason": "A particular lieutenant distinguished from Havdar and the ordinary warriors. No dedicated person page found in filenames, names, aliases, or warband references; a speaking role is not required for inclusion."
+      }
     }
   ],
   "exclusions": [
     {
       "label": "Current party PCs",
       "reason": "Kenzo, Wellby, Delwath, and Seeker are this session’s PCs, supplied by YAML; their speech does not create NPC records.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0074",
-        "endUid": "u0085"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0074",
+            "endUid": "u0085"
+          }
+        }
+      ]
     },
     {
       "label": "Goggles of Object Reading",
       "reason": "Routine use to examine the recovered armor; the session does not meaningfully explore the goggles’ identity, history, or powers.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0465",
-        "endUid": "u0472"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0465",
+            "endUid": "u0472"
+          }
+        }
+      ]
     },
     {
       "label": "Spear of the War Leader",
       "reason": "A brief inventory reminder of the spear taken from a gnoll boss, without a new acquisition or substantive item discussion.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1322",
-        "endUid": "u1327"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1322",
+            "endUid": "u1327"
+          }
+        }
+      ]
     },
     {
       "label": "Generic orc troops and fireball caster",
       "reason": "Combat roles and attacks alone do not distinguish every enemy as an individual entity; retain the commander and specific surviving captive separately.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u1562",
-        "endUid": "u1571"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1562",
+            "endUid": "u1571"
+          }
+        }
+      ]
     },
     {
       "label": "Schwartz’s dog and Gnocchi",
       "reason": "Real-world pet discussion during a pause, rather than in-world entities.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u2043",
-        "endUid": "u2056"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2043",
+            "endUid": "u2056"
+          }
+        }
+      ]
     },
     {
       "label": "Satan",
       "reason": "An out-of-character joke about the unidentified patron, without an in-world identity claim.",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "u0499",
-        "endUid": "u0510"
-      }
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0499",
+            "endUid": "u0510"
+          }
+        }
+      ]
     }
   ],
   "evidenceNotes": [

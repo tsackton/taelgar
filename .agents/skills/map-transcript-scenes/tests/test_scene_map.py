@@ -26,7 +26,7 @@ class SceneMapTests(unittest.TestCase):
             '%% u0002:0-10, u0003:0-10 %%\nDM: Grash greets you at the gate.\n\n'
             '%% u0004:0-5 %%\nPC: I roll a 12.\n\n'
             '%% u0004:5-10 %%\nDM: He invites you inside.\n\n'
-            '%% u0005:0-10 %%\nPC: We enter the hall.\n\n'
+            '%% u0005:0-10 %%\nPC: We reach the mountain shrine.\n\n'
             '%% u0006:0-10 %%\nDM: Afterwards: the old king also used this hall.\n\n', encoding='utf-8', newline='\n')
         self.yaml.write_text('sourceType: transcript\nrealWorldDate: 2020-10-02\n'
             'drStart: 1748-04-12\ndrEnd: 1748-04-14\ntranscriptProcessing:\n  artifacts:\n'
@@ -34,10 +34,7 @@ class SceneMapTests(unittest.TestCase):
         self.bundle = self.load()
         self.originals = {p: p.read_bytes() for p in (self.yaml, self.source)}
         self.proposal = {
-            'splitConfidence': {'rating': 'high',
-                                'reason': 'The played spans and separate contextual framing have clear boundaries.'},
-            'dateValidation': {'result': 'insufficientEvidence',
-                               'reason': 'This recording supplies no usable calendar anchors.', 'evidence': []},
+            'review': {'confidence': 'high', 'status': 'unreviewed'},
             'scenes': [
                 {'index': 1, 'source': m.source('u0002', 'u0004'), 'type': 'conversation',
                  'aiSummary': 'Grash greets the party and invites them inside.'},
@@ -86,7 +83,19 @@ class SceneMapTests(unittest.TestCase):
         self.assertIn('I roll a 12.', view)
         self.assertIn('He invites you inside.', view)
         self.assertEqual(view.count('[u0004–u0004]'), 1)
-        self.assertNotIn('We enter the hall', view)
+        self.assertNotIn('We reach the mountain shrine', view)
+
+    def test_polished_parentheses_do_not_require_draft_compatibility(self):
+        self.source.write_text(self.source.read_text(encoding='utf-8').replace(
+            'Grash greets you', 'Grash ((the guide)) greets you'), encoding='utf-8', newline='\n')
+        bundle = self.load()
+        original = self.source.read_bytes()
+        self.assertIn('Grash ((the guide))', m.window(bundle, 'u0002', 'u0004', 'polished'))
+        m.save(bundle, self.proposal)
+        with self.assertRaisesRegex(ValueError, 'reserved'):
+            m.draft.initialize(bundle)
+        self.assertFalse(bundle['draft'].exists())
+        self.assertEqual(self.source.read_bytes(), original)
 
     def test_read_window_expands_combined_uids(self):
         view = m.window(self.bundle, 'u0003', 'u0003')
@@ -136,8 +145,7 @@ class SceneMapTests(unittest.TestCase):
                 m.validate(self.bundle, doc)
 
     def test_discussion_only_recording(self):
-        doc = m.build(self.bundle, {'dateValidation': self.proposal['dateValidation'],
-            'splitConfidence': self.proposal['splitConfidence'], 'scenes': [], 'contextBlocks': [{
+        doc = m.build(self.bundle, {'review': self.proposal['review'], 'scenes': [], 'contextBlocks': [{
             'kind': 'loreDiscussion', 'source': m.source('u0001', 'u0006'),
             'aiSummary': 'Campaign planning and historical context; no current play.'}]})
         self.assertEqual(m.validate(self.bundle, doc)['scenes'], 0)
@@ -146,10 +154,10 @@ class SceneMapTests(unittest.TestCase):
         doc = self.document()
         doc['scenes'][0].update(dateStart='1748-04-13', dateEnd=None)
         doc['scenes'][1].update(dateStart='1748-04-12')
-        self.assertEqual(m.validate(self.bundle, doc)['findings'], [])
+        self.assertEqual(m.validate(self.bundle, doc)['issues'], [])
         doc['scenes'][1]['dateStart'] = '1748-04-11'
         result = m.validate(self.bundle, doc)
-        self.assertEqual(result['findings'][0]['severity'], 'warning')
+        self.assertEqual(result['issues'], [])  # Validation does not author AI concerns.
 
     def test_invalid_dates_and_reversed_ranges(self):
         for fields in ({'dateStart': '1748-02-31'}, {'dateStart': '1748-04-14', 'dateEnd': '1748-04-12'}):
@@ -158,16 +166,20 @@ class SceneMapTests(unittest.TestCase):
             with self.assertRaises(m.MapError):
                 m.validate(self.bundle, doc)
 
-    def test_clear_date_conflict_is_critical_with_yaml_and_source_evidence(self):
-        doc = self.document()
-        doc['findings'] = [{'kind': 'dateConflict', 'source': m.source('u0002', 'u0004'),
-                            'yamlFields': ['drStart'], 'reason': 'Explicit current date differs from YAML.'}]
-        doc['dateValidation'] = {'result': 'conflict', 'reason': 'The current date contradicts YAML drStart.',
-                                 'evidence': [m.source('u0002', 'u0004')]}
-        self.assertEqual(m.validate(self.bundle, doc)['findings'][0]['severity'], 'critical')
-        del doc['findings'][0]['yamlFields']
-        with self.assertRaisesRegex(m.MapError, 'affected YAML'):
-            m.validate(self.bundle, doc)
+    def test_ai_concerns_roundtrip_with_multiple_evidence_ranges(self):
+        self.proposal['issues'] = [{
+            'description': 'The explicit current date disagrees with YAML drStart; check both endpoints.',
+            'evidence': [m.source('u0001', 'u0001'), m.source('u0002', 'u0004')]}]
+        doc = m.save(self.bundle, self.proposal)
+        self.assertEqual(m.read_map(self.bundle)['issues'], self.proposal['issues'])
+        self.assertEqual(m.validate(self.bundle, doc)['issues'], self.proposal['issues'])
+        text = m.preview(self.bundle, doc)
+        self.assertLess(text.index('AI-generated concerns:'), text.index('| Scene / context |'))
+        self.assertIn(self.proposal['issues'][0]['description'], text)
+        self.assertIn('u0001–u0001', text)
+        self.assertIn('u0002–u0004', text)
+        self.assertNotIn('dateValidation', doc)
+        self.assertNotIn('findings', doc)
 
     def test_stale_source_and_semantic_yaml_change(self):
         doc = self.document()
@@ -249,115 +261,217 @@ class SceneMapTests(unittest.TestCase):
             self.assertTrue(lines[line - 1].startswith('%% ' + uid + ':'))
             self.assertIn(m.quote(str(self.source), safe='/') + f':{line}', text)
 
-    def test_undated_scenes_do_not_automatically_validate_yaml(self):
+    def test_preview_links_places_and_shows_a_common_date_once_above_rows(self):
+        place = self.vault / 'Places/The Gate.md'
+        place.parent.mkdir()
+        place.write_text('# Gate\n', encoding='utf-8')
         doc = self.document()
-        del doc['dateValidation']
-        result = m.validate(self.bundle, doc)
-        self.assertEqual(result['coverage'], 'complete')
-        self.assertEqual(result['dateValidation']['result'], 'notChecked')
-        self.assertIn('**notChecked**', m.preview(self.bundle, doc))
-        proposal = copy.deepcopy(self.proposal)
-        del proposal['dateValidation']
-        with self.assertRaisesRegex(m.MapError, 'dateValidation'):
-            m.save(self.bundle, proposal)
-        self.assertFalse(self.bundle['mapPath'].exists())
-
-    def test_consistent_assessment_needs_positive_source_evidence(self):
-        doc = self.document()
-        doc['dateValidation']['result'] = 'consistent'
-        with self.assertRaisesRegex(m.MapError, 'requires transcript evidence'):
-            m.validate(self.bundle, doc)
-        doc['dateValidation']['evidence'] = [m.source('u0002', 'u0004')]
-        doc['dateValidation']['reason'] = 'The current-day anchor is compatible; the final endpoint is unconfirmed.'
-        self.assertEqual(m.validate(self.bundle, doc)['dateValidation']['result'], 'consistent')
-        doc['dateValidation']['evidence'][0]['endUid'] = 'u9999'
-        with self.assertRaisesRegex(m.MapError, 'unknown endUid'):
-            m.validate(self.bundle, doc)
-
-    def test_conflict_cannot_be_hidden_by_clean_assessment_or_undated_scenes(self):
-        doc = self.document()
-        doc['findings'] = [{'kind': 'dateConflict', 'source': m.source('u0002', 'u0004'),
-                            'yamlFields': ['drStart', 'drEnd'], 'reason': 'Explicit current date contradicts the YAML span.'}]
-        for outcome in ('consistent', 'insufficientEvidence'):
-            doc['dateValidation'] = {'result': outcome, 'reason': 'Attempted clean outcome.',
-                                     'evidence': [m.source('u0002', 'u0004')]}
-            with self.assertRaisesRegex(m.MapError, 'must agree'):
-                m.validate(self.bundle, doc)
-        doc['dateValidation']['result'] = 'conflict'
-        result = m.validate(self.bundle, doc)
-        self.assertEqual(result['findings'][0]['severity'], 'critical')
+        for row in doc['scenes']:
+            row.update(dateStart='1748-04-12', dateEnd='1748-04-12')
+        doc['scenes'][0].update(location='Places/The Gate.md', locationDetail='Outer gate',
+                                timeStart='Afternoon', timeEnd='Sunset')
         text = m.preview(self.bundle, doc)
-        self.assertLess(text.index('Date findings:'), text.index('| Scene / context |'))
-        self.assertIn('drStart=1748-04-12', text)
-        self.assertIn('drEnd=1748-04-14', text)
-        self.assertIn('u0002–u0004', text)
-        doc['findings'] = []
-        with self.assertRaisesRegex(m.MapError, 'must agree'):
-            m.validate(self.bundle, doc)
+        self.assertIn(f'[The Gate](<{m.quote(str(place), safe="/")}>) / Outer gate', text)
+        self.assertIn('Played scenes: 1748-04-12.', text)
+        self.assertIn('| Place | Start time | End time |', text)
+        rows = [line for line in text.splitlines() if line.startswith('| Scene ')]
+        self.assertTrue(all('1748-04-12' not in line for line in rows))
+        self.assertTrue(any('Afternoon' in line for line in rows))
+        self.assertTrue(any('Sunset' in line for line in rows))
+        doc['scenes'][1].update(dateStart='1748-04-13', dateEnd='1748-04-14')
+        text = m.preview(self.bundle, doc)
+        self.assertNotIn('Played scenes:', text)
+        self.assertIn('| Place | Start | End |', text)
+        self.assertIn('1748-04-13 | 1748-04-14', text)
 
-    def test_insufficient_evidence_can_save_without_claiming_an_error(self):
-        doc = m.save(self.bundle, self.proposal)
-        result = m.validate(self.bundle, doc)
-        self.assertEqual(result['dateValidation']['result'], 'insufficientEvidence')
-        self.assertEqual(result['findings'], [])
-        self.assertIn('**insufficientEvidence**', m.preview(self.bundle, doc))
-
-    def test_overall_confidence_roundtrips_and_previews_once(self):
-        for rating in ('high', 'medium', 'low'):
-            with self.subTest(rating=rating):
-                self.proposal['splitConfidence'] = {
-                    'rating': rating, 'reason': 'The whole partition has been assessed against place and time continuity.'}
+    def test_time_endpoints_roundtrip_independently_without_inventing_missing_values(self):
+        cases = ({'timeStart': 'After breakfast'}, {'timeEnd': 'About sunset'},
+                 {'timeStart': None, 'timeEnd': None},
+                 {'dateStart': '1748-04-12', 'timeStart': 'Late evening',
+                  'dateEnd': '1748-04-13', 'timeEnd': 'Before dawn'})
+        for values in cases:
+            with self.subTest(values=values):
+                proposal = copy.deepcopy(self.proposal)
+                proposal['scenes'][0].update(values)
                 path = self.bundle['mapPath']
                 expected = m.draft.sha(path.read_bytes()) if path.exists() else None
-                doc = m.save(self.bundle, self.proposal, expected)
-                self.assertEqual(m.read_map(self.bundle)['splitConfidence'], self.proposal['splitConfidence'])
-                self.assertEqual(m.validate(self.bundle, doc)['splitConfidence'], self.proposal['splitConfidence'])
-                text = m.preview(self.bundle, doc)
-                self.assertEqual(text.count('Overall scene-split confidence:'), 1)
-                self.assertLess(text.index('Overall scene-split confidence:'), text.index('| Scene / context |'))
-
-    def test_legacy_confidence_is_unassessed_but_new_saves_require_it(self):
+                doc = m.save(self.bundle, proposal, expected)
+                self.assertEqual(m.read_map(self.bundle), doc)
+                self.assertNotIn('time', doc['scenes'][0])
+                for key in ('timeStart', 'timeEnd'):
+                    self.assertEqual(key in doc['scenes'][0], key in values)
+                    self.assertEqual(doc['scenes'][0].get(key), values.get(key))
+        for field in ('timeStart', 'timeEnd'):
+            for invalid in ('', 'Two\nlines', 9, []):
+                doc = self.document()
+                doc['scenes'][0][field] = invalid
+                with self.assertRaises(m.MapError):
+                    m.validate(self.bundle, doc)
         doc = self.document()
-        del doc['splitConfidence']
-        self.assertEqual(m.validate(self.bundle, doc)['splitConfidence']['rating'], 'notAssessed')
-        self.assertNotIn('splitConfidence', doc)
-        self.assertIn('**notAssessed**', m.preview(self.bundle, doc))
-        proposal = copy.deepcopy(self.proposal)
-        del proposal['splitConfidence']
-        with self.assertRaisesRegex(m.MapError, 'splitConfidence'):
-            m.save(self.bundle, proposal)
-        self.assertFalse(self.bundle['mapPath'].exists())
+        doc['scenes'][0]['time'] = 'Afternoon to evening'
+        with self.assertRaisesRegex(m.MapError, 'unknown fields.*time'):
+            m.validate(self.bundle, doc)
+
+    def test_legacy_time_remains_verbatim_without_synthesized_endpoints(self):
+        doc = self.document()
+        doc['schemaVersion'] = 1
+        del doc['review']
+        doc['scenes'][0]['time'] = 'After dinner through an eight-hour rest'
         raw = m.encoded(doc)
         self.bundle['mapPath'].write_bytes(raw)
         self.assertEqual(m.read_map(self.bundle), doc)
+        text = m.preview(self.bundle, doc)
+        self.assertIn('Date/Time (legacy)', text)
+        self.assertIn('After dinner through an eight-hour rest', text)
+        self.assertNotIn('timeStart', doc['scenes'][0])
+        self.assertNotIn('timeEnd', doc['scenes'][0])
         self.assertEqual(self.bundle['mapPath'].read_bytes(), raw)
 
-    def test_confidence_rejects_missing_reason_invalid_ratings_and_per_scene_scores(self):
-        for value in (None, 'high', {}, {'rating': 'high'}, {'rating': 'notAssessed', 'reason': 'Unknown.'},
-                      {'rating': 0.9, 'reason': 'Numeric.'}, {'rating': 'high', 'reason': ''},
-                      {'rating': 'high', 'reason': 'Two\nlines'},
-                      {'rating': 'high', 'reason': 'Clear.', 'status': 'humanReviewed'}):
+    def test_issues_can_be_omitted_without_creating_a_date_assessment(self):
+        doc = m.save(self.bundle, self.proposal)
+        self.assertNotIn('issues', doc)
+        result = m.validate(self.bundle, doc)
+        self.assertEqual(result['issues'], [])
+        self.assertNotIn('dateValidation', result)
+        self.assertNotIn('findings', result)
+        text = m.preview(self.bundle, doc)
+        for unwanted in ('Session date validation', 'notChecked', 'AI-generated concerns:'):
+            self.assertNotIn(unwanted, text)
+        proposal = copy.deepcopy(self.proposal)
+        proposal['issues'] = []
+        m.build(self.bundle, proposal)
+
+    def test_issues_allow_map_wide_concerns_and_validate_supplied_evidence(self):
+        doc = self.document()
+        doc['issues'] = [{'description': 'The recording gap makes the route boundary uncertain.'}]
+        m.validate(self.bundle, doc)
+        self.assertIn(doc['issues'][0]['description'], m.preview(self.bundle, doc))
+        for value in ('wrong', None, [{}], [{'description': ''}],
+                      [{'description': 'Two\nlines'}],
+                      [{'description': 'Question', 'status': 'unreviewed'}],
+                      [{'description': 'Question', 'evidence': []}],
+                      [{'description': 'Question', 'evidence': [m.source('u9999', 'u9999')]}],
+                      [{'description': 'Question', 'evidence': [m.source('u0003', 'u0003')]}]):
+            with self.subTest(issues=value):
+                doc['issues'] = value
+                with self.assertRaises(m.MapError):
+                    m.validate(self.bundle, doc)
+
+    def test_retired_date_assessment_and_findings_are_rejected_in_v2(self):
+        for retired, value in (
+            ('dateValidation', {'result': 'consistent', 'reason': 'Old pass.',
+                                'evidence': [m.source('u0001', 'u0001')]}),
+            ('findings', []),
+        ):
+            with self.subTest(field=retired):
+                proposal = dict(self.proposal, **{retired: value})
+                with self.assertRaisesRegex(m.MapError, 'unknown fields.*' + retired):
+                    m.save(self.bundle, proposal)
+                self.assertFalse(self.bundle['mapPath'].exists())
+
+    def test_legacy_concerns_remain_visible_without_positive_assessments_or_writes(self):
+        doc = self.document()
+        doc['schemaVersion'] = 1
+        del doc['review']
+        doc['findings'] = [{'kind': 'dateConflict', 'source': m.source('u0002', 'u0004'),
+                            'yamlFields': ['drStart'], 'reason': 'The spoken current date differs.'}]
+        doc['dateValidation'] = {'result': 'conflict', 'reason': 'Former date assessment.',
+                                 'evidence': [m.source('u0002', 'u0004')]}
+        raw = m.encoded(doc)
+        self.bundle['mapPath'].write_bytes(raw)
+        self.assertEqual(m.read_map(self.bundle), doc)
+        text = m.preview(self.bundle, doc)
+        self.assertIn('The spoken current date differs.', text)
+        self.assertIn('drStart', text)
+        self.assertNotIn('Former date assessment.', text)
+        self.assertEqual(self.bundle['mapPath'].read_bytes(), raw)
+        doc['findings'] = []
+        doc['dateValidation'] = {'result': 'consistent', 'reason': 'Old compatible timeline.',
+                                 'evidence': [m.source('u0002', 'u0004')]}
+        self.assertEqual(m.validate(self.bundle, doc)['issues'], [])
+        self.assertNotIn('Old compatible timeline.', m.preview(self.bundle, doc))
+        doc['dateValidation'] = {'result': 'insufficientEvidence',
+            'reason': 'Uncertain travel may exceed YAML drEnd.', 'evidence': []}
+        issues = m.validate(self.bundle, doc)['issues']
+        self.assertEqual(issues, [{'description': 'Uncertain travel may exceed YAML drEnd.'}])
+
+    def test_map_review_roundtrips_all_shared_values_and_previews_once(self):
+        for confidence in ('high', 'medium', 'low'):
+            for status in ('unreviewed', 'automatedReviewed', 'humanReviewed'):
+                with self.subTest(confidence=confidence, status=status):
+                    self.proposal['review'] = {'confidence': confidence, 'status': status}
+                    path = self.bundle['mapPath']
+                    expected = m.draft.sha(path.read_bytes()) if path.exists() else None
+                    doc = m.save(self.bundle, self.proposal, expected)
+                    self.assertEqual(doc['schemaVersion'], 2)
+                    self.assertNotIn('splitConfidence', doc)
+                    self.assertEqual(m.read_map(self.bundle)['review'], self.proposal['review'])
+                    self.assertEqual(m.validate(self.bundle, doc)['review'], self.proposal['review'])
+                    text = m.preview(self.bundle, doc)
+                    self.assertEqual(text.count('Scene map review:'), 1)
+                    self.assertIn(f'**{confidence} / {status}**', text)
+                    self.assertLess(text.index('Scene map review:'), text.index('| Scene / context |'))
+
+    def test_legacy_maps_stay_readable_without_inventing_review(self):
+        for old_confidence in (None, {'rating': 'high', 'reason': 'A former boundary assessment.'}):
+            doc = self.document()
+            doc['schemaVersion'] = 1
+            del doc['review']
+            if old_confidence:
+                doc['splitConfidence'] = old_confidence
+            raw = m.encoded(doc)
+            self.bundle['mapPath'].write_bytes(raw)
+            self.assertIsNone(m.validate(self.bundle, doc)['review'])
+            self.assertNotIn('review', doc)
+            self.assertIn('**not recorded**', m.preview(self.bundle, doc))
+            self.assertEqual(m.read_map(self.bundle), doc)
+            self.assertEqual(self.bundle['mapPath'].read_bytes(), raw)
+        proposal = copy.deepcopy(self.proposal)
+        del proposal['review']
+        with self.assertRaisesRegex(m.MapError, 'review'):
+            m.save(self.bundle, proposal, m.draft.sha(raw))
+        self.assertEqual(self.bundle['mapPath'].read_bytes(), raw)
+
+    def test_review_rejects_wrong_shapes_extra_prose_and_per_scene_scores(self):
+        for value in (None, 'high', {}, {'confidence': 'high'}, {'status': 'unreviewed'},
+                      {'rating': 'high', 'reason': 'Old shape.'},
+                      {'confidence': 'notAssessed', 'status': 'unreviewed'},
+                      {'confidence': 0.9, 'status': 'unreviewed'},
+                      {'confidence': 'high', 'status': 'accepted'},
+                      {'confidence': 'high', 'status': 'unreviewed', 'reason': 'Extra prose.'}):
             with self.subTest(value=value):
                 proposal = copy.deepcopy(self.proposal)
-                proposal['splitConfidence'] = value
+                proposal['review'] = value
                 with self.assertRaises(m.MapError):
                     m.save(self.bundle, proposal)
                 self.assertFalse(self.bundle['mapPath'].exists())
-        for key in ('confidence', 'splitConfidence'):
+        for key in ('confidence', 'splitConfidence', 'review'):
             doc = self.document()
             doc['scenes'][0][key] = 'high'
             with self.assertRaises(m.MapError):
                 m.validate(self.bundle, doc)
-
-    def test_date_conflict_does_not_determine_split_confidence(self):
         doc = self.document()
-        doc['findings'] = [{'kind': 'dateConflict', 'source': m.source('u0002', 'u0004'),
-                            'yamlFields': ['drStart'], 'reason': 'Explicit current date contradicts YAML.'}]
-        doc['dateValidation'] = {'result': 'conflict', 'reason': 'A date differs; the source division is clear.',
-                                 'evidence': [m.source('u0002', 'u0004')]}
+        doc['splitConfidence'] = {'rating': 'high', 'reason': 'Retired field.'}
+        with self.assertRaisesRegex(m.MapError, 'unknown fields.*splitConfidence'):
+            m.validate(self.bundle, doc)
+
+    def test_v2_requires_review_and_does_not_infer_it_from_validation(self):
+        doc = self.document()
+        del doc['review']
+        with self.assertRaisesRegex(m.MapError, 'missing fields.*review'):
+            m.validate(self.bundle, doc)
+        doc = self.document()
+        self.assertEqual(doc['review']['status'], 'unreviewed')
+        m.validate(self.bundle, doc)
+        self.assertEqual(doc['review']['status'], 'unreviewed')
+
+    def test_a_date_concern_does_not_automatically_change_map_review(self):
+        doc = self.document()
+        doc['issues'] = [{'description': 'The current date may disagree with YAML drStart.',
+                          'evidence': [m.source('u0002', 'u0004')]}]
         result = m.validate(self.bundle, doc)
-        self.assertEqual(result['splitConfidence']['rating'], 'high')
-        self.assertEqual(result['dateValidation']['result'], 'conflict')
+        self.assertEqual(result['review'], {'confidence': 'high', 'status': 'unreviewed'})
+        self.assertEqual(doc['review']['status'], 'unreviewed')
 
 
 if __name__ == '__main__':

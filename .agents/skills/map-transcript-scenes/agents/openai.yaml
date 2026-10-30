@@ -1,4 +1,4 @@
 interface:
   display_name: "Map Transcript Scenes"
-  short_description: "Map session places and times against transcript evidence"
-  default_prompt: "Use $map-transcript-scenes to map where and when this session takes place, using meaningful sites and continuous routes, preserving source UIDs through table breaks, and checking in-world chronology against the session YAML."
+  short_description: "Map session places and times and flag specific AI concerns"
+  default_prompt: "Use $map-transcript-scenes to map where and when this session takes place, using meaningful sites and continuous routes, separate time endpoints, source UIDs, and the shared Review structure. Record specific source-grounded concerns in optional issues; do not produce a separate date-validation result."

@@ -1,222 +1,154 @@
 ---
 name: prepare-interaction-transcript
-description: Make a conservative in-world interaction draft from a session YAML and polished transcript. Preserve meaningful dialogue, lore, events and uncertainty; replace mechanics, routine combat and irrelevant chatter with short labelled snips, including small substitutions within turns. Retain every original UID span and verify all other wording unchanged. Only the new interactions-draft Markdown may be written.
+description: Make a conservative interaction draft from a YAML-registered polished transcript. Preserve meaningful speech, lore, events, uncertainty, and every UID span; replace only clearly dispensable mechanics or chatter with labelled snips. Write only the derivative draft.
 ---
 
 # Prepare Interaction Transcript
 
-Use for “make an in-world transcript,” “shrink this polished transcript for
-interaction extraction,” or “prepare an interactions draft.” This is an
-experimental derivative for later processing, not a replacement transcript,
-recap, canonical account, or polished narrative.
+Use for “make an in-world transcript” or “shrink this polished transcript for
+interaction extraction.” The draft is an optional reading view. Scene mapping
+can use it; entity checking reads the polished transcript directly. It does not
+replace the source or generate a recap or interactions.
 
-## Hard boundary
+## Inputs and boundary
 
-During a session run, **the only file you may create or modify is
-`cleaned/<stem>-interactions-draft.md`** in the selected bundle. All transcripts,
-session YAML, beats, notes and existing processing files are read-only. No YAML
-registration, logs, JSON plans, lock files, snapshots, temporary files or sidecars.
-Use the helper with `python3 -B` to prevent Python cache writes. Read-only tools
-and in-memory decisions are fine. Skill maintenance/tests are separate from a
-session run; tests use synthetic bundles in temporary directories.
+Follow repository branch/worktree instructions. Resolve one existing
+`cleaned/<stem>-session.yaml` and its registered polished transcript. Read
+[the format](references/format.md) for metadata and restoration details.
 
-Use the provided helper for draft writes. It shares the transcript pipeline's
-directory lock without creating a lock file. It refuses source changes, stale
-drafts, symlinks, hard-linked drafts, unmarked edits, missing/duplicated spans and
-accidental replacement of an existing draft. Never repair a blocked run by
-editing an input or changing its fingerprint.
+During a session run, write **only `cleaned/<stem>-interactions-draft.md`** using
+the helper. All other files are read-only. Do not create YAML registrations,
+plans, logs, lock files, snapshots, temporary files, or sidecars. Use `python3 -B`
+to prevent cache files. Maintenance tests are separate and use temporary bundles.
 
-## Resolve and copy
-
-Follow repository branch/worktree requirements. Resolve a supplied session to a
-single existing `cleaned/<stem>-session.yaml`; ask only when selection is ambiguous.
-Set `HELPER` to this skill's `scripts/interaction_draft.py` and `YAML` to that path.
+Set `HELPER` to this skill's `scripts/interaction_draft.py` and `YAML` to the
+session manifest; substitute their actual paths in the commands below.
 
 ```bash
 python3 -B HELPER --session-yaml YAML inspect
 python3 -B HELPER --session-yaml YAML init
 ```
 
-`inspect` is read-only. It requires `sourceType: transcript`, known, valid
-`realWorldDate`, `drStart`, and `drEnd`, and a locatable
-`transcriptProcessing.artifacts.polishedMarkdown.path`. Artifact paths are
-bundle-relative, following `process-transcript`. It checks registered hashes and
-UID coverage; when the cleaned reference is registered, it also checks against
-every cleaned unit. Without that reference it verifies the complete polished
-source map, not completeness against earlier audio/ASR.
+Preflight requires `sourceType: transcript`, valid `realWorldDate`, `drStart`,
+`drEnd`, and a locatable `transcriptProcessing.artifacts.polishedMarkdown.path`.
+Artifact paths are bundle-relative. It checks registered hashes and full polished
+UID coverage, including agreement with registered cleaned text when available.
+Without cleaned text, coverage is relative to the polished map, not earlier ASR.
+Report missing/invalid fields and proposed repairs without changing inputs or
+choosing a similar filename. YAML dates do not authorize rewriting speech.
 
-If dates or paths are absent/invalid, report the exact missing field or proposed
-path correction and stop before creating a draft. Do not infer dates or silently
-choose a transcript with a similar filename. YAML dates remain metadata context:
-do not rewrite speech or manufacture chronology to fit them.
+`init` copies the polished text and adds a derivative heading and one metadata
+comment. Never replace an existing draft: validate it and resume. Older formats,
+changed sources, and source text containing reserved `((...))` syntax require
+explicit resolution; do not silently migrate or reset them. An unchanged copy
+is not a completed reduction.
 
-`init` copies all polished content into the new draft, adding an explicit derivative
-heading and one comment with **version, session YAML path, and polished-source
-hash**. No other processing metadata is stored. An existing draft is never replaced;
-use `validate`, inspect its current snips, and resume. Do not treat an unchanged
-copy as a completed experiment.
+## Select conservatively
 
-## Read and conservatively select
+Read the **entire polished transcript**, in overlapping portions if needed:
 
-Read **the entire polished source**, in manageable overlapping portions if needed.
-The helper's read-only `show --start N --end N` displays original turn numbers and
-UIDs. Turn numbers are selectors tied to this exact source fingerprint; original
-UIDs and offsets remain the enduring provenance. Current UIDs are `u0001`-style
-identifiers, not newly generated UUIDs. Never renumber them.
+```bash
+python3 -B HELPER --session-yaml YAML show --start 1 --end 100
+```
 
-Preserve, in original order and wording:
+Turn numbers select this exact source version; original UIDs and offsets remain
+provenance. Keep their comments unchanged, including turns combining UIDs or
+several turns sharing a UID. Never renumber or guess sub-turn source alignment.
 
-- NPC/PC speech, introductions, memorable lines, whole exchanges and replies needed
-  to interpret them; keep speaker labels and meaningful emotional reactions.
-- Lore, identities, affiliations, relationships, geography, dates, time skips,
-  travel and location changes, clues, plans, decisions and actions—even when
-  discussed in third person, as a rules question, or out of character.
-- Questions and answers about how the world works; descriptions of meaningful
-  creatures, magical properties, artifacts and discoveries; uncertainty, negation,
-  corrections, conflicting claims and attribution. “We think Arcus is dead” must
-  not become “Arcus died.”
-- Distinctive combat developments: named participants, introductions, dialogue,
-  surrender, capture, escape, death, significant injuries, transformation,
-  discoveries, allegiances, important item changes, and aftermath. Preserve actual
-  occurrence versus hypothetical tactics. Do not silently lose these in a summary.
+Preserve original order and wording for:
 
-Snip only clearly dispensable material: dice arithmetic, initiative bookkeeping,
-turn sequencing, damage/hit-point accounting, repeated movement/range questions,
-routine attacks and gear use, technical setup, scheduling, breaks, unrelated jokes.
-“In-world” describes the information retained, not the grammatical style. Do not
-rewrite retained words into character speech or repair names/ASR. If unsure, keep.
+- Meaningful NPC/PC speech, memorable lines, introductions, replies, reactions,
+  and enough of each exchange to interpret it.
+- Lore, identities, relationships, geography, dates, travel, time/location changes,
+  clues, plans, decisions, actions, and meaningful creature/item properties.
+- Uncertainty, attribution, negation, corrections, and conflicting claims. Keep
+  world information even in third-person speech, rules questions, or OOC discussion.
+- Distinctive combat events: named participants, dialogue, surrender, capture,
+  escape, death, significant injuries, transformation, discoveries, allegiances,
+  consequential item changes, and aftermath. Distinguish events from proposed tactics.
 
-Technical chatter nearby does not make every ambiguous remark technical. Preserve
-phrases such as “you're all just very still” when they could describe the characters
-or an in-world reaction; do not label them a connection check merely because an
-earlier line mentions a frozen call. Snip only clearly technical wording. If review
-finds such an ambiguous cut, restore its complete polished turn.
+Snip only clearly dispensable dice arithmetic, initiative/turn bookkeeping,
+routine attacks and gear use, repeated range questions, technical setup,
+scheduling, breaks, or unrelated jokes. Nearby technical chatter does not make
+an ambiguous line technical: “you're all just very still” might describe the
+characters even after a frozen-call complaint. If unsure, keep it.
 
-**Small substitutions inside mixed turns are encouraged.** Replace a clearly
-mechanical phrase such as “I rolled a 12” with `((rolls))` while preserving the
-question, answer, named entities, uncertainty and consequences around it. Work at
-the smallest useful boundary; do not keep a long rules preamble merely because
-the same turn contains lore. Keep meaningful out-of-character information exactly
-as spoken. Do not automatically strip all uses of “roll,” numbers, or rules terms:
-an in-character dice game, a date, an injury, or a magical property's limits may
-matter. Search can locate candidates; an agent must classify each in context.
+Small cuts inside mixed turns are encouraged. Remove the mechanical phrase while
+keeping the lore, question/answer, names, and consequences exactly as spoken.
+Do not automatically remove numbers or rules terms: dates, injuries, an in-world
+dice game, and magical limitations can matter. Search locates candidates; the
+agent classifies them in context. Never repair ASR or smooth retained wording.
 
-Polished turns can cover multiple UIDs or parts of one UID. Keep each turn's
-existing UID comment unchanged. There is no additional source map inside a turn:
-`((label))` marks a snip, and restoration recovers the entire polished turn.
-Do not guess alignment to cleaned text. Keep ambiguous passages and
-short replies whose meaning depends on neighbors. Never delete a hedge or a
-negation and thereby strengthen the remaining claim.
+## Cut and restore
 
-## Replace selected spans
-
-For a small cut, quote the exact words still present in the draft:
+Quote exact words still present in the draft:
 
 ```bash
 python3 -B HELPER --session-yaml YAML cut --turn 12 --text 'I rolled a 12.' --label rolls
 python3 -B HELPER --session-yaml YAML restore --turn 12
 ```
 
-The example assumes other meaningful speech remains in turn 12. `cut` preserves
-the speaker and all text outside the selection and inserts `((rolls))`. No cut
-offsets, removed words, or extra comments are stored. Labels are at most six words,
-usually `((rolls))`, `((rules))`, or `((table chatter))`; labels themselves are
-generated, not speech. Select punctuation that belongs to the removed phrase,
-leave existing spacing outside the cut intact,
-and inspect the resulting sentence. Do not rewrite the surviving words to make
-them smoother. Prefer one contiguous cut over adjacent tiny cuts when all of
-that material is dispensable; do not absorb meaningful connective text to merge.
+The cut must leave meaningful original speech. It preserves the speaker and
+surrounding text, rejects word fragments and overlaps with uncertainty markers
+or wikilinks, and inserts a generated label. Select the phrase's punctuation,
+preserve spacing outside it, and inspect the result. Prefer one contiguous cut
+when all intervening material is dispensable; never absorb meaningful words.
+Use `--occurrence 2` for the second occurrence in retained speech, excluding labels.
+Restoration recovers the **complete original turn**, undoing all its inline cuts.
+A neighboring turn sharing a UID is unchanged.
 
-If the same words occur more than once, pass `--occurrence 2` to select the second
-occurrence in remaining speech (excluding generated labels). The helper rejects
-cuts into existing labels, word fragments, speakers, uncertainty markers or
-wikilinks. `restore --turn N` restores that complete original polished turn,
-undoing all its inline snips together. Other turns remain as they are, even if
-they share a UID. Do not use partial cuts to hide named combat events; preserve
-their dialogue/context under the combat rules below.
-
-Snip contiguous complete original turns with short double-parenthesized labels.
-Each replacement retains their exact ordered UID/character spans. Those spans
-identify the original turns: no separate snip record or turn range is stored.
-The removed words remain in the polished source. Read both neighboring turns first.
+For complete contiguous turns, read both neighbors before collapsing them:
 
 ```bash
 python3 -B HELPER --session-yaml YAML snip --start 12 --end 15 --label 'dice rolls'
 python3 -B HELPER --session-yaml YAML snip --start 81 --end 120 --label 'Combat against Grash and his allies.' --name Grash
-python3 -B HELPER --session-yaml YAML snip --start 125 --end 150 --label 'combat continues against Grash' --name Grash
-python3 -B HELPER --session-yaml YAML restore --turn 12
+python3 -B HELPER --session-yaml YAML restore --turn 81
 ```
 
-These numbers/names are illustrative. Supply actual selected ranges. All proper
-names carrying setting information inside removed combat must survive in its
-label or an untouched meaningful turn; use `--name` for names in a label. The
-helper checks each supplied name against the source and label during that edit;
-it does not save a name list or prove you identified all names. This needs semantic
-review. Do not include unrelated player names from table chatter merely because
-they are capitalized.
+Numbers and names are illustrative. A whole-turn snip inherits every exact source
+span in order; removed words remain in the polished source. Restoring any contained
+turn recovers the entire snip. Restore inline cuts before collapsing their whole
+turn, and restore a whole-turn snip before editing inside it. Independent snips
+can be restored in any order. An in-memory caller may batch helper operations;
+do not save an action plan or bypass write guards.
 
-Use **one overview sentence per encounter**, at most 40 words, normally much
-shorter. It should identify opponents, named foes and a supported consequential
-outcome if that outcome is inside the replaced span. Never add an outcome from
-later speech to an earlier snip or imply an uncertain outcome is established.
-If useful dialogue or an event interrupts combat mechanics, leave it verbatim and
-use short continuation labels (at most 12 words) for the remaining mechanics.
-This preserves order and conversation while avoiding repeated summaries. Other
-labels are at most 12 words, e.g. `((dice rolls))`, `((rules bookkeeping))`, `((scheduling))`.
-An encounter can therefore contain several snips and retained passages but only
-one generated overview. The agent checks this during semantic review; no encounter
-IDs or overview flags are stored. Do not manufacture NPC/entity records at this stage.
-
-When the selected turn is inside a snip covering several complete turns, `restore`
-recovers that snip's entire original range. Snips can be restored independently,
-in any order. For many snips, an in-memory Python caller may use the same helper
-functions; never save a separate action plan or bypass its guards. Restore existing
-inline cuts before replacing their whole turn, or restore a whole-turn snip before
-editing inside it. The current experimental format is version 4; do not silently
-overwrite drafts in an older format. Double parentheses are reserved for generated
-labels; if the original source already contains that syntax, preflight stops and
-reports the collision without editing any file.
+Keep labels short and plain: inline labels at most six words, ordinary and
+continuation labels at most 12, and **one combat overview sentence per encounter**
+at most 40 words. Preserve useful dialogue/events verbatim between continuation
+snips. The overview identifies opponents, setting-relevant proper names, and only
+a supported outcome inside its range; do not import a later outcome or strengthen
+uncertainty. Names must survive in the label or retained meaningful speech.
+`--name` verifies each supplied name against source and label, but cannot prove
+all names were noticed. Player names from unrelated chatter need not survive.
+No encounter IDs, entity records, name lists, or review flags are stored.
 
 ## Verify and hand off
 
-Perform a distinct second pass against **every removed range and its boundaries**,
-including each inline cut and the complete edited turn.
-Look especially for lore concealed in mechanics, new names, speech, world actions,
-dates, place transitions, item events, and outcomes. Restore questionable ranges.
-Check the complete draft for broken conversations and invented causal connections.
-Neither smaller size nor complete UID coverage proves semantic preservation.
+Make a **distinct second pass over every removed range and its boundaries**,
+including complete turns with inline cuts. Look for concealed lore, names, speech,
+world actions, dates, place transitions, item events, and outcomes. Restore a
+questionable cut's complete turn or snip. Check the full draft for broken exchanges,
+lost hedges/negation, invented causal connections, and repeated combat overviews.
 
 ```bash
 python3 -B HELPER --session-yaml YAML validate
 ```
 
-Validation checks coverage, the polished-source hash, verbatim retained wording
-around inline markers, and label syntax/length. It does not certify semantic
-review or check one overview per encounter. Report the review performed in the
-handoff; do not store review status, notes, timestamps, or a draft-body hash.
-Confirm the original inputs remain unchanged and report the draft link,
-reading-text reduction, source UID count, and material limitations. Readability
-word counts exclude mapping comments; they are not model-token savings.
+Validation checks source hashes, exact coverage/partitions, retained wording,
+and label syntax. It cannot certify semantic preservation or one overview per
+encounter. Confirm unchanged inputs and report the draft link, review performed,
+reading-text reduction, UID count, and material limitations. Visible word reduction
+excludes mapping comments and is not a model-token measurement.
 
-The YAML remains authoritative and is revalidated on every run. Valid YAML
-updates do not invalidate an unchanged polished source. Input fingerprints used
-to prevent changes during a write stay in memory; only the polished-source hash
-is kept in the draft.
+Valid YAML updates are rechecked without staling an unchanged polished source.
+Write guards reject concurrent edits, source changes, symlinks, and hard-linked
+drafts. Single-file updates use the shared directory lock but are not crash-atomic.
+If interrupted, report damage and recover from unchanged source and inspected
+surviving snips; do not silently reset the draft or alter fingerprints.
 
-No sidecar state is written. In-place single-file writes avoid extra files but are
-not crash-atomic; interrupted drafts fail validation. Report damage and recover
-from the unchanged source plus inspected surviving snips; never silently reset
-the draft or touch original references.
+## Maintenance
 
-See [format and downstream integration](references/format.md) for the contract,
-examples and suggested interaction-skill integration. Do not modify that skill or
-register this experimental draft as the canonical transcript during this run.
-
-## Maintenance verification
-
-Requires Python 3.9+ and PyYAML, as does the existing transcript pipeline. Run
-`python3 -B -m unittest discover -s .agents/skills/prepare-interaction-transcript/tests -v`
-from the vault root. Synthetic tests cover input/date failures, exact coverage,
-split UIDs, Unicode text, multiple cuts/whole-turn restoration, retained dialogue,
-names, minimal metadata, source protection and the single-output boundary. A real
-sample also needs the semantic passes above.
+Requires Python 3.9+ and PyYAML; the tests use Python 3.10+.
+Run from the vault root:
+`python3 -B -m unittest discover -s .agents/skills/prepare-interaction-transcript/tests -v`.
+A real sample still needs the semantic passes above.

@@ -43,6 +43,11 @@ partitions, including when a turn combines UIDs or a UID spans multiple turns.
 Their offsets refer to **cleaned text**, not polished wording or generated labels.
 No new sub-turn mapping is added.
 
+Author inline labels in at most six words, ordinary/continuation labels in at
+most 12, and one combat overview sentence per encounter in at most 40. The helper
+enforces the six-word inline and 40-word whole-snip ceilings; the agent checks
+stricter ordinary-label limits and encounter-level overview semantics.
+
 `((label))` is generated text, never a quotation. Ordinary parentheses remain
 original speech. Preflight rejects source text already using double parentheses
 so a reader can identify snips without another annotation.
@@ -67,23 +72,19 @@ continuity, outcomes, and one overview sentence per encounter. The optional
 that edit, without persisting it. There is no machine-readable encounter grouping
 or review attestation in the draft.
 
-## Suggested interaction-skill adapter (not implemented here)
+## Downstream reading
 
-1. Treat the draft as a derivative view of the YAML's polished source. Validate
-   it first; continue resolving dates, participants and artifacts through YAML.
-2. Use retained wording to find interactions and original UIDs to reopen evidence.
-   Resolve quotations against the polished transcript. Never quote generated
-   labels or join fragments across a snip into an apparent verbatim quotation.
-3. Snips are gaps, not automatic scene or conversation boundaries. Their labels
-   are retrieval hints. Reopen the surrounding source for combat boundaries,
-   participants, item changes, outcomes, or other consequential claims.
-4. Determine processing exclusions from the source context, not the mere presence
-   of a snip. Combat describes played events; partly retained turns cannot have
-   their entire UID range classified as excluded.
-5. If adopted, add a shared reader and YAML artifact pointer as a separate change.
-   Current runs write only the draft. Keep source resolution in the existing
-   pipeline rather than introducing another registry.
+Scene mapping already supports this draft as a validated reading view. Entity
+checking reads the original polished transcript instead. Final interaction
+generation is not implemented; future consumers must follow these rules:
 
-Measure model tokens separately from visible word reduction: inherited UID
-comments can remain substantial. A later reading view may hide them while keeping
-source lookup available. The stored draft retains the complete mappings.
+- Resolve metadata and original evidence through YAML and inherited UIDs.
+- Quote original polished text, never generated labels or fragments joined across
+  snips. Labels are retrieval hints, not evidence for outcomes or participants.
+- Snips are gaps, not scene/conversation boundaries or extraction exclusions.
+  Reopen original speech for consequential claims. A partly retained turn cannot
+  have its entire UID range classified as excluded merely because of a cut.
+
+No YAML pointer is registered for this experimental derivative. Model-token
+savings must be measured separately from visible word reduction; retained mapping
+comments can be substantial.
