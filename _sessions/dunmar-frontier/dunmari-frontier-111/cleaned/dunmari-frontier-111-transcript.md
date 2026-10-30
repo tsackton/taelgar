@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 111
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-111-source-cleaned.md
 
 ## Transcript
@@ -1688,11 +1688,11 @@ Delwath: Oh, you weren't there! We we interviewed this Elven Paladin, or somethi
 %% u1296:0-8 %%
 DM: Arheste.
 
-%% u1297:0-12, u1298:0-365, u1299:0-8, u1300:0-8, u1301:0-28 %%
-Delwath: Arheste. She fought Apollyon at the fall of Drankor, like she's a thousand, over a thousand years old, and was like there at at his original rise, and was like his enemy, and we spent a long time interviewing her. But we didn't actually play that out in game cause that's too complicated, right? And so Tim just said we could ask 5 times for her advice retroactively, right? Like. Was that—was that in {{Alexandria}}? Was that?
+%% u1297:0-12, u1298:0-365, u1299:0-8, u1300:0-8, u1301:0-24 %%
+Delwath: Arheste. She fought Apollyon at the fall of Drankor, like she's a thousand, over a thousand years old, and was like there at at his original rise, and was like his enemy, and we spent a long time interviewing her. But we didn't actually play that out in game cause that's too complicated, right? And so Tim just said we could ask 5 times for her advice retroactively, right? Like. Was that—was that in Alexandria? Was that?
 
-%% u1302:0-133 %%
-DM: No, that was on your way back, remember you. So after you destroyed the scepter in {{Alexandria}}, you were like, "Oh, Riswynn's fine."
+%% u1302:0-129 %%
+DM: No, that was on your way back, remember you. So after you destroyed the scepter in Alexandria, you were like, "Oh, Riswynn's fine."
 
 %% u1303:0-36 %%
 Delwath: Fine. Right right right right right.

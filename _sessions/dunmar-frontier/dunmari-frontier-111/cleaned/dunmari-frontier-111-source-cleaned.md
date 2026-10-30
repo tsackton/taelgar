@@ -1298,8 +1298,8 @@
 [u1298 | 01:29:39.990-01:30:02.900 | Delwath] fought Apollyon at the fall of Drankor, like she's a thousand over a thousand years old, and was like there at at his original rise, and was like his enemy, and we spent a long time interviewing her. But we didn't actually play that out in game cause. That's too complicated, right? And so Tim just said we could ask 5 times for her advice retroactively. Right like
 [u1299 | 01:30:03.850-01:30:05.510 | Delwath] was that
 [u1300 | 01:30:06.040-01:30:07.540 | Delwath] was that
-[u1301 | 01:30:08.740-01:30:11.960 | Delwath] in {{Alexandria}}? Was that.
-[u1302 | 01:30:12.590-01:30:20.989 | DM] No, that was on your way back, remember you. So after you destroyed the scepter in {{Alexandria}}, you were like, Oh, Riswynn's fine.
+[u1301 | 01:30:08.740-01:30:11.960 | Delwath] in Alexandria? Was that.
+[u1302 | 01:30:12.590-01:30:20.989 | DM] No, that was on your way back, remember you. So after you destroyed the scepter in Alexandria, you were like, Oh, Riswynn's fine.
 [u1303 | 01:30:20.990-01:30:22.550 | Delwath] Fine. Right right right right right.
 [u1304 | 01:30:22.550-01:30:28.899 | DM] We're just gonna like, Go take Faldrak to the elemental forge and.
 [u1305 | 01:30:28.900-01:30:29.640 | Delwath] Right! Oh.

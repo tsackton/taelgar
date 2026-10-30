@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 112
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-112-source-cleaned.md
 
 ## Transcript
@@ -506,8 +506,8 @@ Delwath: We did scry that group.
 %% u0259:0-31, u0260:0-10 %%
 Kenzo: And what was he doing in there? He was in—
 
-%% u0261:0-12, u0262:0-7 %%
-Delwath: {{Calling}}. Did we—
+%% u0261:0-8, u0262:0-7 %%
+Delwath: Scrying. Did we—
 
 %% u0263:0-17 %%
 Wellby: Where the people.
@@ -923,8 +923,8 @@ DM: Turns, turns and looks at Wellby. Before he can open his mouth, what are you
 %% u0475:0-15 %%
 Delwath: You're on mute.
 
-%% u0476:0-39, u0477:0-9, u0478:0-9 %%
-Wellby: Sorry, shoot, he—let's see, I'm gonna use {{scare}} {{hero}}.
+%% u0476:0-39, u0477:0-5, u0478:0-6 %%
+Wellby: Sorry, shoot, he—let's see, I'm gonna use Skaer arrow.
 
 %% u0479:0-5 %%
 DM: Okay.
@@ -6356,8 +6356,8 @@ DM: And Bizarro Seeker:
 %% u3281:0-28 %%
 DM: 'I've got to get out of here.'
 
-%% u3282:0-12, u3283:0-14 %%
-DM: So it's time {{or demand}}.
+%% u3282:0-12, u3283:0-19 %%
+DM: So it's time for Dimension Door.
 
 %% u3284:0-6 %%
 Seeker: Oh no!

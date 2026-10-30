@@ -258,7 +258,7 @@
 [u0258 | 00:16:39.330-00:16:40.709 | Delwath] We did scry that group.
 [u0259 | 00:16:40.710-00:16:41.820 | Kenzo] And what was he doing in there?
 [u0260 | 00:16:42.940-00:16:43.889 | Kenzo] He was in.
-[u0261 | 00:16:43.890-00:16:44.500 | Delwath] {{Calling}}.
+[u0261 | 00:16:43.890-00:16:44.500 | Delwath] Scrying.
 [u0262 | 00:16:44.800-00:16:45.300 | Delwath] did we.
 [u0263 | 00:16:45.300-00:16:45.799 | Wellby] Where the people.
 [u0264 | 00:16:45.800-00:16:46.800 | DM] What happens.
@@ -474,8 +474,8 @@
 [u0474 | 00:26:54.530-00:26:55.500 | DM] What are you doing.
 [u0475 | 00:26:57.640-00:26:58.280 | Delwath] You're on mute.
 [u0476 | 00:26:58.280-00:27:02.005 | Wellby] Sorry shoot he let's see, I'm gonna use
-[u0477 | 00:27:02.930-00:27:06.130 | Wellby] {{scare}}
-[u0478 | 00:27:06.440-00:27:07.530 | Wellby] {{hero}}.
+[u0477 | 00:27:02.930-00:27:06.130 | Wellby] Skaer
+[u0478 | 00:27:06.440-00:27:07.530 | Wellby] arrow.
 [u0479 | 00:27:07.530-00:27:08.100 | DM] Okay.
 [u0480 | 00:27:08.100-00:27:10.340 | Wellby] He's wearing armor right? Yep.
 [u0481 | 00:27:10.750-00:27:11.480 | Wellby] and.
@@ -3280,7 +3280,7 @@
 [u3280 | 02:48:34.130-02:48:36.140 | DM] And Bizarro Seeker.
 [u3281 | 02:48:36.840-02:48:38.560 | DM] I've got to get out of here.
 [u3282 | 02:48:39.380-02:48:40.910 | DM] so it's time
-[u3283 | 02:48:41.370-02:48:41.890 | DM] {{or demand}}.
+[u3283 | 02:48:41.370-02:48:41.890 | DM] for Dimension Door.
 [u3284 | 02:48:41.890-02:48:42.510 | Seeker] Oh no!
 [u3285 | 02:48:42.510-02:48:43.310 | Delwath] Counterspell.
 [u3286 | 02:48:43.310-02:48:44.080 | Seeker] Oh, no!
