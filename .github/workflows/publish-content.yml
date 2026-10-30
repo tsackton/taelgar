@@ -78,6 +78,7 @@ jobs:
           path: |
             core/.cache/publish/materialization-report.json
             core/.cache/publish/conversion-report.json
+            core/.cache/cloudflare/header-conversion-report.json
             core/.cache/publish/search-receipt.json
             core/.cache/publish/checkpoint.json
             core/.cache/publish/latest.json
