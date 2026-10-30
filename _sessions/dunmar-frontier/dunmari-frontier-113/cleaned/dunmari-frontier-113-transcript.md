@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 113
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-113-source-cleaned.md
 
 ## Transcript
@@ -3428,8 +3428,8 @@ Delwath: Oh, oh, right! So we know where they went. We could find their house. W
 %% u1925:0-15 %%
 Riswynn: Or the Peronar.
 
-%% u1926:0-77, u1927:0-92, u1928:0-43, u1929:0-132, u1930:0-27, u1931:0-78 %%
-DM: There is—there is one human. Now I'm making up all the names. So the human is— so the one thing about the human, the other—the last human who's not in the Book of Martyrs, their name—their name is {{not very it's}}, which is—which is definitely not—I mean, that's not—that's not a typical Drankorian name. And of course Apollyon has not recorded details about these people. But it certainly sounds like somebody who was perhaps a foreigner in the city.
+%% u1926:0-77, u1927:0-92, u1928:0-39, u1929:0-132, u1930:0-27, u1931:0-78 %%
+DM: There is—there is one human. Now I'm making up all the names. So the human is— so the one thing about the human, the other—the last human who's not in the Book of Martyrs, their name—their name is not very it's, which is—which is definitely not—I mean, that's not—that's not a typical Drankorian name. And of course Apollyon has not recorded details about these people. But it certainly sounds like somebody who was perhaps a foreigner in the city.
 
 %% u1932:0-69 %%
 Wellby: Do we know what the origin, like what nationality that name might be?
@@ -4520,8 +4520,8 @@ Kenzo: Have him drop a PIN.
 %% u2501:0-80, u2502:0-81, u2503:0-50 %%
 Riswynn: Alright. So I will say all the appropriate authentication codes, and we're gonna spend the night here. But we need to know your status, or we'll change our plans. And where exactly are you, and what's your status?
 
-%% u2504:0-27, u2505:0-31, u2506:0-27, u2507:0-14 %%
-DM: The message you get back is: 'You seem too dangerous to stay. Not sure we were up for it. Heading north.'
+%% u2504:0-27, u2505:0-32, u2506:0-27, u2507:0-14 %%
+DM: The message you get back is: 'It seemed too dangerous to stay. Not sure we were up for it. Heading north.'
 
 %% u2508:0-64 %%
 Wellby: It's doesn't seem like an answer to the question that was asked.

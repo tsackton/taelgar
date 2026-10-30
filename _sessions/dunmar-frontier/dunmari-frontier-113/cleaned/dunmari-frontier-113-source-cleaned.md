@@ -1925,7 +1925,7 @@
 [u1925 | 02:45:39.270-02:45:40.729 | Riswynn] Or the Peronar.
 [u1926 | 02:45:41.652-02:45:48.899 | DM] There is there is one human. Now I'm making up all the names. So the human is
 [u1927 | 02:45:49.541-02:45:56.418 | DM] so the one thing about the human, the other the last human who's not in the Book of Martyrs?
-[u1928 | 02:45:57.911-02:46:07.216 | DM] their name. Their name is {{not very it's}}
+[u1928 | 02:45:57.911-02:46:07.216 | DM] their name. Their name is not very it's
 [u1929 | 02:46:15.130-02:46:24.810 | DM] which is, which is definitely not. I mean, that's not. That's not a typical Drankorian name. And of course Apollyon has not recorded
 [u1930 | 02:46:25.080-02:46:26.999 | DM] details about these people.
 [u1931 | 02:46:28.910-02:46:37.270 | DM] But it certainly sounds like somebody who was perhaps a foreigner in the city.
@@ -2502,7 +2502,7 @@
 [u2502 | 03:34:04.710-03:34:10.199 | Riswynn] spend the night here. But we need to know your status, or we'll change our plans.
 [u2503 | 03:34:10.700-03:34:15.140 | Riswynn] And where exactly are you? And what's your status?
 [u2504 | 03:34:21.730-03:34:24.490 | DM] The message you get back is
-[u2505 | 03:34:30.120-03:34:34.690 | DM] You seem too dangerous to stay.
+[u2505 | 03:34:30.120-03:34:34.690 | DM] It seemed too dangerous to stay.
 [u2506 | 03:34:35.890-03:34:37.900 | DM] Not sure we were up for it.
 [u2507 | 03:34:41.800-03:34:44.110 | DM] heading north.
 [u2508 | 03:34:45.730-03:34:51.100 | Wellby] It's doesn't seem like an answer to the question that was asked.

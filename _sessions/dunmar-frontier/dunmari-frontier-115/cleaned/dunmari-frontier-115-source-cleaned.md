@@ -171,7 +171,7 @@
 [u0171 | 00:15:37.970-00:15:39.779 | Kenzo] There's some like dragon, we know.
 [u0172 | 00:15:40.420-00:15:44.720 | Kenzo] like we killed a bunch of dragons. But is there like a friendly dragon? We know that we can like call in a favor.
 [u0173 | 00:15:47.180-00:15:47.850 | Seeker] It's.
-[u0174 | 00:15:48.450-00:15:50.320 | Riswynn] Our friendly person is {{Sir}}.
+[u0174 | 00:15:48.450-00:15:50.320 | Riswynn] Our friendly person is Sura.
 [u0175 | 00:15:51.470-00:15:59.169 | Kenzo] I mean our friendly. The storm giant is is like, legit, friendly and powerful, like that actually is. Yeah. And the Centaurs also are legit, friendly and powerful.
 [u0176 | 00:15:59.930-00:16:01.339 | Seeker] Yeah, although we haven't.
 [u0177 | 00:16:01.340-00:16:01.800 | Delwath] Well.
@@ -1258,7 +1258,7 @@
 [u1258 | 01:26:38.440-01:26:41.050 | Delwath] Of the foreigner person.
 [u1259 | 01:26:41.320-01:26:44.820 | DM] Khemut of Targu. You also have a coin that.
 [u1260 | 01:26:44.820-01:26:45.330 | Delwath] That.
-[u1261 | 01:26:45.330-01:26:47.070 | DM] {{Bergu}}, the Sword of the Wind.
+[u1261 | 01:26:45.330-01:26:47.070 | DM] Selem Shurga, the Sword of the Wind.
 [u1262 | 01:26:47.650-01:26:50.410 | Delwath] Right we have.
 [u1263 | 01:26:50.650-01:26:58.070 | Delwath] And then those are the only weren't those the only 3 that we didn't have bios and faces of from the.
 [u1264 | 01:26:58.070-01:27:02.970 | DM] Oh, so here's I actually wrote, I finally wrote out the actual bios of the
@@ -1722,7 +1722,7 @@
 [u1722 | 02:00:36.410-02:00:37.940 | Riswynn] Got a lady in this town.
 [u1723 | 02:00:38.260-02:00:41.810 | Kenzo] I do have a lady in this town. Yeah, no.
 [u1724 | 02:00:41.810-02:00:42.590 | Delwath] Yeah, yeah.
-[u1725 | 02:00:42.590-02:00:45.160 | DM] {{Tattoo}}, like the priestess at the top. The.
+[u1725 | 02:00:42.590-02:00:45.160 | DM] Talk to, like the priestess at the top. The.
 [u1726 | 02:00:45.160-02:00:45.639 | Delwath] The other.
 [u1727 | 02:00:46.310-02:00:51.209 | Delwath] I was mildly tempted to go talk to was Caelynn the Fae.
 [u1728 | 02:00:52.260-02:00:54.949 | Delwath] But I don't know if that's a good idea.
