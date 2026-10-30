@@ -1,6 +1,6 @@
 # Transcript Review — Dunmari Frontier — Session 49
 
-Decisions awaiting review: 11.
+Decisions awaiting review: 14.
 
 Review one session at a time. Resolve each item as `proposed`, `alternative 1`, `correction`, or `retain`; leave undecided items `pending`. A correction replaces only the indicated target. Retain preserves the original uncertainty.
 
@@ -13,9 +13,9 @@ u0020 · 00:03:10.230-00:03:22.080 · DM
 
 **Original:** Maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on {{object}}.
 
-**Suggested disposition:** Retain unresolved; no supported correction.
+**Proposed:** Maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on logic.
 
-**Recommendation:** Retain unresolved unless audio identifies the subject; the text alone does not distinguish a specific discipline.
+**Recommendation:** Prefer logic: the matching opening narration in the session preparation explicitly says a text on logic, and the sounds fit.
 
 **Question:** Use the proposed wording, supply another correction, or retain unresolved?
 
@@ -175,9 +175,9 @@ u0171 · 00:16:15.510-00:16:18.630 · DM
 
 **Original:** Of the {{cercone an}} Empire before the Downfall.
 
-**Proposed:** Of the Drankorian Empire before the Downfall.
+**Proposed:** Of the Chardonian Empire before the Downfall.
 
-**Recommendation:** Check the spoken empire name; Drankorian is a candidate, but the pre-Downfall context makes automatic identification unsafe.
+**Recommendation:** Prefer Chardonian as the closer phonetic candidate; preserve the spoken pre-Downfall claim without correcting its chronology.
 
 **Question:** Use the proposed wording, supply another correction, or retain unresolved?
 
@@ -299,9 +299,9 @@ u0762 · 01:04:26.250-01:04:30.870 · Riswynn
 
 **Original:** It turns out that {{and further}}, whatever his name was, was also in this society.
 
-**Suggested disposition:** Retain unresolved; no supported correction.
+**Proposed:** It turns out that Ulfgar, whatever his name was, was also in this society.
 
-**Recommendation:** Retain unresolved unless the audio identifies this member; “whatever his name was” may also reflect a spoken forgotten name.
+**Recommendation:** Prefer Ulfgar from the sounds and the recent conversation with him; preserve whatever his name was.
 
 **Question:** Use the proposed wording, supply another correction, or retain unresolved?
 
@@ -609,9 +609,9 @@ u1593 · 02:17:06.150-02:17:18.750 · Kenzo
 
 **Original:** Don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did {{i'm sorry I}} get captured again?
 
-**Suggested disposition:** Retain unresolved; no supported correction.
+**Proposed:** Don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did Sura get captured again?
 
-**Recommendation:** Retain unresolved pending an audio check of the name.
+**Recommendation:** Prefer Sura: the sounds are compatible and the answer eight years matches her capture discussed in earlier sessions.
 
 **Question:** Use the proposed wording, supply another correction, or retain unresolved?
 
@@ -692,6 +692,154 @@ u2123 · 03:02:14.970-03:02:20.400 · Delwath
 > **Riswynn:** i'm running solo errands where I get money have candle get chalice.
 >
 
+%% transcript-issue:v1 {"id": "secondary-review-u0008", "uid": "u0008", "target": {"before": "is this", "start": 171, "end": 178}, "contextRange": {"startUid": "u0001", "endUid": "u0014"}} %%
+### u0008
+
+u0008 · 00:01:20.280-00:01:30.690 · DM
+
+**Original:** proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human is this.
+
+**Proposed:** proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human these days.
+
+**Recommendation:** Recover the matching spoken opening narration; this phrase appears in the preparation text and fits the sounds.
+
+**Question:** Use the proposal, provide another reading, or retain unresolved?
+
+**Resolution:** pending
+
+**Correction:**
+
+**Conversation context:**
+
+> **DM:** In the middle of the oldest part of Chardon the spire of the great...
+>
+> **DM:** The spire of the great library stretches more than 700 feet twisting into the air.
+>
+> **DM:** From its lofty heights where you can see many of the smaller towers, the scattered...
+>
+> **DM:** halls and colleges that make up the university laid out, one might even imagine the long history of this place from the founding of the great library nearly 1000 years ago.
+>
+> **DM:** To the growth of the university after the fall of Drankor or the founding of the Council of Magic the Hetaeri Magica to help regulate magical training and the growing academy.
+>
+> **DM:** And finally, in the loss and pain after the Great War, the founding of the Society of the Open Scroll to preserve and protect magical and esoteric knowledge in the aftermath of that devastation.
+>
+> **DM:** From the lofty heights of the spire the bustle of students faculty tutors and others coming and going from the University.
+>
+> **DM:** proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human is this.
+>
+> **DM:** They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics.
+>
+> **DM:** The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Fausto, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
+>
+> **DM:** As you leave the chapter House a quiet student tavern.
+>
+> **DM:** And head towards the nearest toss so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east.
+>
+> **DM:** A young dwarven student, barely past his caste ceremony, takes pity on you and leads you to Sibyl's Hall.
+>
+> **DM:** Sibyl's Hall is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of Chardon, and since the Great War and the rise of the imperial power...
+>
+
+%% transcript-issue:v1 {"id": "secondary-review-u0012", "uid": "u0012", "target": {"before": "toss", "start": 29, "end": 33}, "contextRange": {"startUid": "u0006", "endUid": "u0022"}} %%
+### u0012
+
+u0012 · 00:02:06.810-00:02:16.410 · DM
+
+**Original:** And head towards the nearest toss so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east.
+
+**Proposed:** And head towards the nearest hall so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east.
+
+**Recommendation:** Recover hall from the matching opening narration in the preparation text.
+
+**Question:** Use the proposal, provide another reading, or retain unresolved?
+
+**Resolution:** pending
+
+**Correction:**
+
+**Conversation context:**
+
+> **DM:** And finally, in the loss and pain after the Great War, the founding of the Society of the Open Scroll to preserve and protect magical and esoteric knowledge in the aftermath of that devastation.
+>
+> **DM:** From the lofty heights of the spire the bustle of students faculty tutors and others coming and going from the University.
+>
+> **DM:** proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human is this.
+>
+> **DM:** They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics.
+>
+> **DM:** The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Fausto, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
+>
+> **DM:** As you leave the chapter House a quiet student tavern.
+>
+> **DM:** And head towards the nearest toss so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east.
+>
+> **DM:** A young dwarven student, barely past his caste ceremony, takes pity on you and leads you to Sibyl's Hall.
+>
+> **DM:** Sibyl's Hall is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of Chardon, and since the Great War and the rise of the imperial power...
+>
+> **DM:** influence of many of the ancient religious orders has diminished.
+>
+> **DM:** And so too has their wealth and power and the upkeep and prestige of the colleges they have supported.
+>
+> **DM:** The dwarven student leads you to a small lecture room in an ancient building now in need of extensive repairs.
+>
+> **DM:** at the front of the room.
+>
+> **DM:** A disheveled man.
+>
+> **DM:** Maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on {{object}}.
+>
+> **DM:** To four students in the room.
+>
+> **DM:** But as you enter and the dwarf, the young dwarf scurries away, he slowly trails off to nothing and turns to stare at you.
+>
+
+%% transcript-issue:v1 {"id": "secondary-review-u1209", "uid": "u1209", "target": {"before": "The garages", "start": 0, "end": 11}, "contextRange": {"startUid": "u1204", "endUid": "u1216"}} %%
+### u1209
+
+u1209 · 01:46:22.530-01:46:24.450 · Seeker
+
+**Original:** The garages working for Isaac.
+
+**Proposed:** Grash is working for Isaac.
+
+**Recommendation:** Recover Grash from the sounds in a joking discussion of Isaac’s group; retain the statement as table talk.
+
+**Question:** Use the proposal, provide another reading, or retain unresolved?
+
+**Resolution:** pending
+
+**Correction:**
+
+**Conversation context:**
+
+> **Riswynn:** I had been racking my brain trying to remember how I knew of art to this Lyra, who had dropped that before, who we had talked to, and then when you, when he said something about the party with the elf, I made the connection right as you said.
+>
+> **Delwath:** I mean, I was just wildly guessing but it just sounded like isaac's group.
+>
+> **Delwath:** Like all I know is that Isaac's crew works for the Great Library somewhere in the north.
+>
+> **Unknown:** Right.
+>
+> **Delwath:** It just felt plausible that they were one and the same people.
+>
+> **Seeker:** The garages working for Isaac.
+>
+> **Delwath:** Tim did say once that we're gonna have a crossover and they're gonna beat us because they're better players than we are, they're more tactical, or you...
+>
+> **DM:** know either consortia.
+>
+> **Delwath:** yeah.
+>
+> **Delwath:** The rest of them are probably weigh them down.
+>
+> **DM:** A little bit.
+>
+> **Riswynn:** There is much turning into different animals tactical identities.
+>
+> **DM:** Well, you're catching up with them in levels now. They're only level nine.
+>
+
 %% transcript-polish:v1 {"index": 0, "before": "In the middle of the oldest part of Chardon, the spire of the great... The spire of the Great Library stretches more than 700 feet, twisting into the air. From its lofty heights where you can see many of the smaller towers, the scattered halls and colleges that make up the university laid out, one might even imagine the long history of this place from the founding of the Great Library nearly 1000 years ago, to the growth of the university after the fall of Drankor or the founding of the Council of Magic, the Hetaeri Magica, to help regulate magical training and the growing academy; and finally, in the loss and pain after the Great War, the founding of the Society of the Open Scroll to preserve and protect magical and esoteric knowledge in the aftermath of that devastation.\n\nFrom the lofty heights of the spire the bustle of students, faculty, tutors and others coming and going from the University proceeds over these layers of history, and into this activity come five adventurers, notable as it's rare to see an elf traveling with two dwarves, a halfling and a human [garbled]. They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics. The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Fausto, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.\n\nAs you leave the Chapter House, a quiet student tavern, and head towards the nearest [garbled] so you can connect with the disgraced tutor named Gnaeus, who knows something of the mysterious people in the forest to the east. A young dwarven student, barely past his caste ceremony, takes pity on you and leads you to Sibyl's Hall. Sibyl's Hall is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of Chardon, and since the Great War and the rise of the imperial power influence of many of the ancient religious orders has diminished. And so too has their wealth and power and the upkeep and prestige of the colleges they have supported.\n\nThe dwarven student leads you to a small lecture room in an ancient building now in need of extensive repairs. At the front of the room, a disheveled man, maybe in his 40s, scraggly black hair tied back, in need of a shave, with a gaunt, hungry look in his eyes, is reading desultorily from a text on {{object}} to four students in the room. But as you enter and the dwarf, the young dwarf scurries away, he slowly trails off to nothing and turns to stare at you. This man is apparently... looks up and says, aggravated and glancing over your armor and your traveling cloaks and clear signs of if not extravagant wealth, at least power and skill. “Well, why are you disturbing my meager lessons? What do such clearly powerful men and women want with me?”", "after": null, "substitutions": []} %%
 %% transcript-polish:v1 {"index": 46, "before": "He's like mid 40s sort of thin face. Stubble, a few days, three, four days of stubble with little flecks of white in it. Sunken, kind of gaunt eyes. He clearly looks like he doesn't get, doesn't have frequent large meals. Black hair that's kind of scraggly and tied back in a short tail. Maybe fairly tall like almost six feet. But not, not wearing nice clothes. Like he's wearing dingy, like, you know, gray robes that clearly have been patched in places and not, not you know, infrequently laundered, that sort of thing. So, as he, as he eats for a minute, he kind of sighs. This is 25 years ago. I grew up. So I grew up in Arendum near the Crimson Forest in the Elderwood and I... You know, I was always curious.\n\nThe Baz'aku, a tribe of the Deno'qai people, would come trade and, you know, they claimed anyway, the stories they told was how they were the first people to settle Taelgar. They lived in these woods since the {{empire, as of the House}}. So when I came to Chardon and studied history, it was, it was natural that I would... I would want to go back and see what was true and what was myth. So much was lost in the wars, though. You know, the battles against hobgoblins and trolls and when the dragons attacked drove back the Chard- Chardonian forces across the Chasa. Devastating Battle of Shadowfire close to Chardon. Nobody's ever really ventured back into the woods after that. Was 150 years ago almost 200 years ago now. There's stories of course.\n\nSo I went to the Elderwood, went up the Kayan River, spent six months at the Baz'aku, earning their trust, learning about their way of life and you know, how they lived in the eaves of the Elderwood, the myths of the Deno'qai, the people of the gods in their tongue. Supposedly, the first humans to leave Hkar long before the Downfall. They claim that there were once forests that stretched from Dunmar, the deserts now to the south, all the way north beyond the edge of the of the {{cercone an}} Empire before the Downfall. They said their people remembered even beyond, far north as the land of fire and ice where the sun never sets in summer.", "after": null, "substitutions": []} %%
 %% transcript-polish:v1 {"index": 61, "before": "This side. I mean this was right like. {{Pandora is not sure much}} armies were up north, right? It's not on the map. Right, but Delwath was, would have been fighting some significantly north of where he's talking about, so this... Wait, where's my... This, like, southern forest here is the Elderwood.", "after": null, "substitutions": []} %%
@@ -700,5 +848,6 @@ u2123 · 03:02:14.970-03:02:20.400 · Delwath
 %% transcript-polish:v1 {"index": 356, "before": "{{Dirty and}} plains, yeah.", "after": null, "substitutions": []} %%
 %% transcript-polish:v1 {"index": 364, "before": "It'd be kind of cooler if she had said the {{child already in}} plains. Yeah that would Change Delwath, everything. Right yes. Okay. I.", "after": null, "substitutions": []} %%
 %% transcript-polish:v1 {"index": 446, "before": "Yes, there's many tales of the {{Gestapo}}, the tanshi, I suspect they're all fey creatures who have taken advantage of early settlers trick them into worshiping. The creatures of the Fey as gods. There are many fey spirits that inhabit these ancient wood forests, I'm sure you must know as an elf.", "after": null, "substitutions": []} %%
+%% transcript-polish:v1 {"index": 511, "before": "[garbled] working for Isaac.", "after": null, "substitutions": []} %%
 %% transcript-polish:v1 {"index": 711, "before": "Wait wait, but don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did {{i'm sorry I}} get captured again?", "after": null, "substitutions": []} %%
 %% transcript-polish:v1 {"index": 945, "before": "Right, last time we saw Riswynn prior to the werewolves and {{TELCO was villains}} was Eudomes's tower.", "after": null, "substitutions": []} %%

@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 47
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-047-source-cleaned.md
 
 ## Transcript
@@ -1970,8 +1970,8 @@ Riswynn: Right if it serves their needs, might be less likely to trade them away
 %% u1564:0-60 %%
 Delwath: But the Mirror of Soul Trapping's pretty immensely powerful.
 
-%% u1565:0-178 %%
-Kenzo: Yeah is incredibly powerful. It's got—there's a woman or the woman in there. There's one other, we trapped little animals in there too, right? There's [garbled] and and then there's the?
+%% u1565:0-179 %%
+Kenzo: Yeah is incredibly powerful. It's got—there's a woman or the woman in there. There's one other, we trapped little animals in there too, right? There's wyvern and and then there's the?
 
 %% u1566:0-37 %%
 DM: There's the poison troll and there's.
@@ -2159,8 +2159,8 @@ DM: Right, nobody really knows how the Praecanti Primis get their power to begin
 %% u1698:0-17, u1699:0-17, u1700:0-55 %%
 Delwath: Wasn't—was Aerin—then I know it's crossing streams which wasn't Aerin, in the mage guard?
 
-%% u1701:0-53, u1702:0-119, u1703:0-79, u1704:0-18 %%
-DM: He was in the in that so there's the Praecanti, um, ah... I need a name for them. {{regarding the second day}} right? Like, I don't know if that's going to be their permanent name. But they're the they're like the city watch. Their the mage guard of the people. Aerin was in that.
+%% u1701:0-53, u1702:0-108, u1703:0-79, u1704:0-18 %%
+DM: He was in the in that so there's the Praecanti, um, ah... I need a name for them. Praecanti Secundi right? Like, I don't know if that's going to be their permanent name. But they're the they're like the city watch. Their the mage guard of the people. Aerin was in that.
 
 %% u1705:0-95, u1706:0-218, u1707:0-85, u1708:0-17, u1709:0-74 %%
 DM: They are organized much more like an army, right like they have ranks and they have commanders. Praecanti Primis is much more like you know, right secret police, except not in the sense that they're constantly going around and people's business right like a lot of what they seem to do is keep the Emperor in power. But like nobody really knows, right? Nobody knows anything about the inner workings of Praecanti Primis. Or even how what what can they even do, right? Like nobody really knows how.
@@ -2171,8 +2171,8 @@ Kenzo: It is our understanding is the Society of the Open Scroll like connected 
 %% u1711:0-27, u1712:0-49, u1713:0-54, u1714:0-50, u1715:0-17 %%
 DM: A library is the academics. They have their whole other magical Council that. Everybody kind of figures, there must be some kind of there must be some kind of connection between the you know, the the.
 
-%% u1716:0-165, u1717:0-40, u1718:0-4, u1719:0-66 %%
-DM: Civil bureaucracy. Somehow the Emperor keeps the civil bureaucracy, the the Praecanti Primis the you know, the emperor's personal, the Magistros's personal mage guard. {{down for a second}} is the city watch. The you know, that they're there must be a good like there's different.
+%% u1716:0-165, u1717:0-36, u1718:0-4, u1719:0-66 %%
+DM: Civil bureaucracy. Somehow the Emperor keeps the civil bureaucracy, the the Praecanti Primis the you know, the emperor's personal, the Magistros's personal mage guard. Praecanti Secundi is the city watch. The you know, that they're there must be a good like there's different.
 
 %% u1720:0-26 %%
 Kenzo: Power centers right right.
