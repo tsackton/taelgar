@@ -1562,7 +1562,7 @@
 [u1562 | 02:19:55.980-02:20:07.140 | Kenzo] Like the thing that, like the thing that we know about the giant's eyes is it doesn't matter what powers they have right, even if we get them we're not keeping them were the purpose of getting them is to get the lightning storm giant on our side, like.
 [u1563 | 02:20:09.030-02:20:15.090 | Riswynn] right if it serves their needs, might be less likely to trade them away if they're if they are aware of their immense power.
 [u1564 | 02:20:17.700-02:20:19.770 | Delwath] But the Mirror of Soul Trapping's pretty immensely powerful.
-[u1565 | 02:20:20.220-02:20:27.900 | Kenzo] yeah is incredibly powerful it's got there's a woman or the woman in there there's one other, we trapped little animals in there too right there's liver and and then there's the.
+[u1565 | 02:20:20.220-02:20:27.900 | Kenzo] yeah is incredibly powerful it's got there's a woman or the woman in there there's one other, we trapped little animals in there too right there's wyvern and and then there's the.
 [u1566 | 02:20:28.650-02:20:31.080 | DM] there's the poison troll and there's.
 [u1567 | 02:20:34.920-02:20:38.280 | Delwath] A poison troll an orc and the mega powerful hobgoblin wizard.
 [u1568 | 02:20:39.270-02:20:39.540 | Unknown] yeah.
@@ -1699,7 +1699,7 @@
 [u1699 | 02:33:10.800-02:33:11.970 | Delwath] Then I know it's.
 [u1700 | 02:33:12.060-02:33:14.490 | Delwath] Crossing streams which wasn't Aerin, in the mage guard.
 [u1701 | 02:33:15.420-02:33:21.120 | DM] He was in the in that so there's the Praecanti um ah.
-[u1702 | 02:33:24.030-02:33:31.740 | DM] I need a name for them {{regarding the second day}} right like I don't know if that's going to be their permanent name.
+[u1702 | 02:33:24.030-02:33:31.740 | DM] I need a name for them Praecanti Secundi right like I don't know if that's going to be their permanent name.
 [u1703 | 02:33:32.820-02:33:38.670 | DM] But they're the they're like the city watch their the mage guard of the people.
 [u1704 | 02:33:39.990-02:33:41.100 | DM] Aerin was in that.
 [u1705 | 02:33:42.480-02:33:47.820 | DM] They are organized much more like an army, right like they have ranks and they have commanders.
@@ -1714,7 +1714,7 @@
 [u1714 | 02:34:49.110-02:34:53.040 | DM] There must be some kind of connection between the.
 [u1715 | 02:34:57.420-02:34:58.830 | DM] You know the the.
 [u1716 | 02:35:01.830-02:35:15.540 | DM] Civil bureaucracy somehow the Emperor keeps the civil bureaucracy, the the Praecanti Primis the you know the emperor's personal, the Magistros's personal mage guard.
-[u1717 | 02:35:16.650-02:35:20.370 | DM] {{down for a second}} is the city watch.
+[u1717 | 02:35:16.650-02:35:20.370 | DM] Praecanti Secundi is the city watch.
 [u1718 | 02:35:22.200-02:35:22.620 | DM] The.
 [u1719 | 02:35:24.570-02:35:27.360 | DM] You know that they're there must be a good like there's different.
 [u1720 | 02:35:27.390-02:35:28.740 | Kenzo] Power centers right right.

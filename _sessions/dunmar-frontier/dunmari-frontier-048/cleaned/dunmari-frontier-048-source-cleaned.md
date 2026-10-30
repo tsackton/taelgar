@@ -229,8 +229,8 @@
 [u0229 | 00:18:25.890-00:18:27.690 | Kenzo] Guys, we're going to the forest first though, right.
 [u0230 | 00:18:27.930-00:18:30.000 | Riswynn] Our plan is the book thing.
 [u0231 | 00:18:30.330-00:18:38.490 | Delwath] yeah our plan, if I remember it was get the eyes go North into the forest the opposite direction from.
-[u0232 | 00:18:38.880-00:18:47.550 | Delwath] this Hralgar guy right find the people who worship Rai see what's going on there, possibly find {{dealt with the people worship}}.
-[u0233 | 00:18:48.750-00:18:49.680 | Delwath] {{office guy}} that was.
+[u0232 | 00:18:38.880-00:18:47.550 | Delwath] this Hralgar guy right find the people who worship Rai see what's going on there, possibly find Dewalth the people who worship.
+[u0233 | 00:18:48.750-00:18:49.680 | Delwath] Aviskar that was.
 [u0234 | 00:18:51.120-00:18:51.750 | DM] A while.
 [u0235 | 00:18:51.840-00:18:53.400 | Seeker] The less likely it is that any.
 [u0236 | 00:18:53.820-00:18:54.690 | DM] Better we're gonna.
@@ -1266,7 +1266,7 @@
 [u1266 | 01:42:51.510-01:42:52.530 | DM] whole story of.
 [u1267 | 01:42:55.380-01:42:59.220 | DM] Your history here I don't know this Kadmos character or.
 [u1268 | 01:43:00.690-01:43:01.350 | Kenzo] Let me ask you this.
-[u1269 | 01:43:01.530-01:43:02.730 | DM] Fantastic character.
+[u1269 | 01:43:01.530-01:43:02.730 | DM] Casian character.
 [u1270 | 01:43:03.270-01:43:12.210 | Kenzo] Is the is the society vanishing people at night or other people that you're aware of that are suddenly getting disappeared into dark places in Chardon, is shit like that happening.
 [u1271 | 01:43:14.940-01:43:16.440 | DM] Chardon is a big city.
 [u1272 | 01:43:22.380-01:43:23.970 | DM] Lots of stuff happens to lots of.
@@ -1940,7 +1940,7 @@
 [u1940 | 02:31:38.580-02:31:47.430 | Wellby] All the humans will eventually fade away, I mean it's obviously true, but I feel like putting it in their face just kind of elevates the temperature of the room, a little bit.
 [u1941 | 02:31:51.270-02:31:53.040 | Delwath] One more glass of wine that I should have.
 [u1942 | 02:31:55.710-02:31:59.400 | Seeker] what's worse is Drankorian supremacy worse or elven supremacy.
-[u1943 | 02:32:01.230-02:32:05.160 | Delwath] {{While the Drake Koreans have us destroyed the world they have saved it}} you tell me.
+[u1943 | 02:32:01.230-02:32:05.160 | Delwath] Well, the Drankorians have destroyed the world; we have saved it you tell me.
 [u1944 | 02:32:07.980-02:32:08.550 | Seeker] I see.
 [u1945 | 02:32:08.910-02:32:13.980 | Kenzo] At some point, did the elves and the Drankorians ever have a battle.
 [u1946 | 02:32:15.090-02:32:16.560 | Delwath] They weren't buddy buddy.
@@ -2751,7 +2751,7 @@
 [u2751 | 03:29:53.460-03:29:54.450 | DM] We come to the tower.
 [u2752 | 03:29:57.960-03:29:59.400 | DM] Not too hard to get in the door.
 [u2753 | 03:30:02.520-03:30:03.690 | DM] start to explore.
-[u2754 | 03:30:05.130-03:30:13.680 | DM] Some some stuff some few few {{loose are the mentors}} one door that's locked some sort of magic we can't get past.
+[u2754 | 03:30:05.130-03:30:13.680 | DM] Some some stuff some few few loose elementals one door that's locked some sort of magic we can't get past.
 [u2755 | 03:30:16.230-03:30:20.070 | DM] So we move on, very quiet eerily quiet.
 [u2756 | 03:30:23.250-03:30:25.380 | DM] But there's you know there's enough.
 [u2757 | 03:30:26.490-03:30:27.870 | DM] treasure it's worth exploring.
@@ -3078,8 +3078,8 @@
 [u3078 | 03:52:53.580-03:52:55.170 | Delwath] Mind controlled, so we have to give.
 [u3079 | 03:52:55.170-03:52:56.640 | Delwath] It back to Fausto right.
 [u3080 | 03:52:56.880-03:52:57.120 | Delwath] Okay.
-[u3081 | 03:52:57.210-03:52:59.430 | Delwath] So Chapter two he's really garage.
-[u3082 | 03:53:01.650-03:53:07.710 | Riswynn] {{Okay ugly the same magic that Agata used on that that either over}}.
+[u3081 | 03:52:57.210-03:52:59.430 | Delwath] So Chapter two he's really Grash.
+[u3082 | 03:53:01.650-03:53:07.710 | Riswynn] Okay, like the same magic that Agata used on that, that other ogre.
 [u3083 | 03:53:08.340-03:53:08.850 | Delwath] To me.
 [u3084 | 03:53:09.510-03:53:15.000 | Kenzo] Well just just to recap, I know it's late, but just to recap, this is what we've learned let's let's set this aside for a moment.
 [u3085 | 03:53:15.240-03:53:29.970 | Kenzo] So in Chardon it's basically like there's like a billionaire class there's like the Elon musk's and the lucky winner classes Chardon that basically like rents out, you know adventurers to go and fucking get these rare artifacts for them.

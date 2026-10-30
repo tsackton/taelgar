@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 48
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-048-source-cleaned.md
 
 ## Transcript
@@ -468,8 +468,8 @@ Kenzo: Guys, we're going to the forest first though, right?
 %% u0230:0-27 %%
 Riswynn: Our plan is the book thing.
 
-%% u0231:0-102, u0232:0-130, u0233:0-24 %%
-Delwath: Yeah, our plan, if I remember it was get the eyes go North into the forest the opposite direction from this Hralgar guy right find the people who worship Rai see what's going on there, possibly find {{dealt with the people worship}}. {{office guy}} that was.
+%% u0231:0-102, u0232:0-127, u0233:0-17 %%
+Delwath: Yeah, our plan, if I remember it was get the eyes go North into the forest the opposite direction from this Hralgar guy right find the people who worship Rai see what's going on there, possibly find Dewalth, the people who worship Aviskar that was.
 
 %% u0234:0-8 %%
 DM: A while.
@@ -2158,8 +2158,8 @@ DM: I do not know the whole story of your history here I don't know this Kadmos 
 %% u1268:0-20 %%
 Kenzo: Let me ask you this.
 
-%% u1269:0-20 %%
-DM: Fantastic character.
+%% u1269:0-17 %%
+DM: Casian character.
 
 %% u1270:0-180 %%
 Kenzo: Is the is the society vanishing people at night or other people that you're aware of that are suddenly getting disappeared into dark places in Chardon, is shit like that happening?
@@ -3270,8 +3270,8 @@ Delwath: One more glass of wine that I should have.
 %% u1942:0-62 %%
 Seeker: What's worse is Drankorian supremacy worse or elven supremacy?
 
-%% u1943:0-87 %%
-Delwath: {{While the Drake Koreans have us destroyed the world they have saved it}} you tell me.
+%% u1943:0-77 %%
+Delwath: Well, the Drankorians have destroyed the world; we have saved it. You tell me.
 
 %% u1944:0-6 %%
 Seeker: I see.
@@ -4665,8 +4665,8 @@ DM: Yeah, not sure what he was thinking, to be honest.
 %% u2748:0-12 %%
 Wellby: Anyway, but.
 
-%% u2749:0-71, u2750:0-3, u2751:0-21, u2752:0-32, u2753:0-17, u2754:0-115, u2755:0-39, u2756:0-36, u2757:0-30, u2758:0-40, u2759:0-56, u2760:0-199 %%
-DM: Yeah, the goal, he wanted to find he was looking for something specific. So. We come to the tower. Not too hard to get in the door start to explore. Some some stuff some few few {{loose are the mentors}} one door that's locked some sort of magic we can't get past. So we move on, very quiet eerily quiet. But there's you know there's enough treasure it's worth exploring.
+%% u2749:0-71, u2750:0-3, u2751:0-21, u2752:0-32, u2753:0-17, u2754:0-106, u2755:0-39, u2756:0-36, u2757:0-30, u2758:0-40, u2759:0-56, u2760:0-199 %%
+DM: Yeah, the goal, he wanted to find he was looking for something specific. So. We come to the tower. Not too hard to get in the door start to explore. Some some stuff some few few loose elementals one door that's locked some sort of magic we can't get past. So we move on, very quiet eerily quiet. But there's you know there's enough treasure it's worth exploring.
 
 Alban sorcerer tells us we come to this room with a statue of a head looks like eight feet tall. Two giant eyes, like a mouth and and nose, but the eyes are all proportioned a little bit long like it like it's not just a big human right it's like a giant I don't know if you've ever seen a giant.
 
@@ -5093,11 +5093,11 @@ Delwath: And what will will find the cloak in Illoria, I will.
 %% u3077:0-17 %%
 Unknown: Bring it back to.
 
-%% u3078:0-36, u3079:0-24, u3080:0-5, u3081:0-34 %%
-Delwath: Mind controlled, so we have to give it back to Fausto right. Okay. So Chapter two he's really garage.
+%% u3078:0-36, u3079:0-24, u3080:0-5, u3081:0-33 %%
+Delwath: Mind controlled, so we have to give it back to Fausto right. Okay. So Chapter two he's really Grash.
 
-%% u3082:0-70 %%
-Riswynn: {{Okay, ugly the same magic that Agata used on that that either over}}.
+%% u3082:0-67 %%
+Riswynn: Okay, like the same magic that Agata used on that, that other ogre.
 
 %% u3083:0-6 %%
 Delwath: To me.
