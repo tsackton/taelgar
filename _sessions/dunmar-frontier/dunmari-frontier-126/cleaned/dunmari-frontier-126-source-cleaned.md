@@ -1703,7 +1703,7 @@
 [u1703 | 02:38:13.710-02:38:15.809 | Wellby] Still assassinate him. It's not too late.
 [u1704 | 02:38:16.160-02:38:17.450 | Delwath] That's true. We could.
 [u1705 | 02:38:17.560-02:38:18.100 | Kenzo] Well, that's
-[u1706 | 02:38:18.100-02:38:26.500 | Kenzo] I mean, Kenzo wants to wants to hear like what his perspective is on the chalyte trade, and what the fuck's going on with the people. Is he? Is he {{an admin}} or not? We don't know.
+[u1706 | 02:38:18.100-02:38:26.500 | Kenzo] I mean, Kenzo wants to wants to hear like what his perspective is on the chalyte trade, and what the fuck's going on with the people. Is he? Is he a bad man or not? We don't know.
 [u1707 | 02:38:26.500-02:38:31.580 | Delwath] So yeah, I'll I'll mention Apollyon's tower, and that before, how he became a.
 [u1708 | 02:38:31.580-02:38:32.520 | Wellby] Yeah, so.
 [u1709 | 02:38:32.520-02:38:33.270 | Delwath] That's fair.

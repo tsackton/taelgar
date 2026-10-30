@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 126
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-126-source-cleaned.md
 
 ## Transcript
@@ -2423,8 +2423,8 @@ Wellby: Still assassinate him. It's not too late.
 %% u1704:0-22 %%
 Delwath: That's true. We could.
 
-%% u1705:0-12, u1706:0-182 %%
-Kenzo: Well, that's—I mean, Kenzo wants to wants to hear like what his perspective is on the chalyte trade, and what the fuck's going on with the people. Is he? Is he {{an admin}} or not? We don't know.
+%% u1705:0-12, u1706:0-179 %%
+Kenzo: Well, that's—I mean, Kenzo wants to wants to hear like what his perspective is on the chalyte trade, and what the fuck's going on with the people. Is he? Is he a bad man or not? We don't know.
 
 %% u1707:0-78 %%
 Delwath: So yeah, I'll I'll mention Apollyon's tower, and that before, how he became a—

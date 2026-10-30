@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 99
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-099-source-cleaned.md
 
 ## Transcript
@@ -1724,8 +1724,8 @@ Seeker: Around in here. Water helmet, you know.
 %% u1429:0-29 %%
 DM: You could— probably one does.
 
-%% u1430:0-85 %%
-Riswynn: {{Costa}}, did you already do the, like, breathing underwater thing? Just for yourself.
+%% u1430:0-88 %%
+Riswynn: Plus, Delwath, did you already do the, like, breathing underwater thing? Just for yourself.
 
 %% u1431:0-24, u1432:0-13 %%
 Delwath: That only lasts an hour. Well, I mean...
@@ -3029,8 +3029,8 @@ Kenzo: In Colwyn.
 %% u2393:0-8, u2394:0-19 %%
 Seeker: Jazilla. Yeah, probably. So.
 
-%% u2395:0-22, u2396:0-18, u2397:0-14, u2398:0-5, u2399:0-20, u2400:0-9, u2401:0-18, u2402:0-9, u2403:0-15, u2404:0-15, u2405:0-13, u2406:0-24, u2407:0-26, u2408:0-1, u2409:0-11, u2410:0-20, u2411:0-3, u2412:0-8, u2413:0-15, u2414:0-5, u2415:0-30, u2416:0-4, u2417:0-46, u2418:0-26 %%
-DM: "I'm remembering now. I— people would come, people who had lost people to the ocean. Why did I— and take them out? There's a— you could hear their whispers. You're there, soft and comforting, and thoughts and memories, and I think I was {{read out at one}}. But— and what— music for this— and I— I did, did not get to speak to— hmm— Caloria. There were others— were there others? Were the merfolk fighting?"
+%% u2395:0-22, u2396:0-18, u2397:0-14, u2398:0-5, u2399:0-20, u2400:0-9, u2401:0-18, u2402:0-9, u2403:0-15, u2404:0-15, u2405:0-13, u2406:0-24, u2407:0-26, u2408:0-1, u2409:0-11, u2410:0-16, u2411:0-3, u2412:0-8, u2413:0-15, u2414:0-5, u2415:0-30, u2416:0-4, u2417:0-46, u2418:0-26 %%
+DM: "I'm remembering now. I— people would come, people who had lost people to the ocean. Why did I— and take them out? There's a— you could hear their whispers. You're there, soft and comforting, and thoughts and memories, and I think I was good at it once. But— and what— music for this— and I— I did, did not get to speak to— hmm— Caloria. There were others— were there others? Were the merfolk fighting?"
 
 %% u2419:0-17 %%
 Delwath: Yes, we think so.

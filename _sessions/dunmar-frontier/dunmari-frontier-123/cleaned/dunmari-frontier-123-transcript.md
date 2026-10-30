@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 123
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-123-source-cleaned.md
 
 ## Transcript
@@ -1505,8 +1505,8 @@ DM: Okay, Seeker, Seeker's—
 %% u0876:0-7 %%
 Delwath: Hilton.
 
-%% u0877:0-36, u0878:0-115 %%
-DM: {{Buy}} out of the exposed position. An arrow bounces off Riswynn's armor, and Kenzo just instinctively steps to the side as as an arrow flies past him.
+%% u0877:0-32, u0878:0-115 %%
+DM: Way out of the exposed position. An arrow bounces off Riswynn's armor, and Kenzo just instinctively steps to the side as as an arrow flies past him.
 
 %% u0879:0-44, u0880:0-102, u0881:0-23 %%
 DM: Then you begin to see sort of tendrils of of blackness begin to sort of creep their way through the the clouds on the edge. Anybody doing anything? Anybody doing anything?
@@ -1850,8 +1850,8 @@ DM: "What you need is simple: a purpose."
 %% u1109:0-5 %%
 Delwath: Cool.
 
-%% u1110:0-56 %%
-DM: {{Put the crown to something powerful enough to break}}.
+%% u1110:0-52 %%
+DM: Put the crown to something powerful enough to break—
 
 %% u1111:0-53, u1112:0-100 %%
 DM: And she stops for a minute and closes her eyes, as if soul sighting the crown or Riswynn, or you get the sense that she's reaching out somehow, magically.

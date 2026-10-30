@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 64
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-064-source-cleaned.md
 
 ## Transcript
@@ -356,8 +356,8 @@ DM: This place shows up in the mythology of almost every culture on Taelgar and 
 %% u0275:0-48, u0276:0-114, u0277:0-19, u0278:0-101, u0279:0-96, u0280:0-9, u0281:0-15, u0282:0-25, u0283:0-122, u0284:0-63, u0285:0-5, u0286:0-71, u0287:0-62 %%
 DM: So there is like a combination of like, you know the ferrymen from Greek myth, but they're not really. You don't have to pay them a toll or anything. They're just. They're there, just you know, so no devil can swoop down and just claim all the souls they can harvest in one fell swoop. Right? They they make sure that everybody still ends up in the place that's supposed to go, and, you know, protect against ghosts and hauntings, and anything that might cause a soul to return as undead to the material plane like this is what in in myth this is what these these creatures are there for. They're there to sort of protect there the exposed souls on their journey from any malevolent force that might that might interrupt their journey to their final destination.
 
-%% u0288:0-40 %%
-Izzarak: Do they serve the gods of {{the model}}?
+%% u0288:0-38 %%
+Izzarak: Do they serve the gods or the mortals?
 
 %% u0289:0-7 %%
 DM: Neither.
@@ -875,8 +875,8 @@ DM: Okay, um. So you dive down, Kenzo, you're kind of waiting um Enari is just k
 %% u0716:0-12, u0717:0-16, u0718:0-2, u0719:0-9, u0720:0-20, u0721:0-17, u0722:0-34, u0723:0-3, u0724:0-3 %%
 DM: And you hear this this voice. Um a sort of hold on one Sec. Um, ah, Where is this... Sorry, guys. Give me a second here. Um, ah.
 
-%% u0725:0-22, u0726:0-8, u0727:0-11, u0728:0-7, u0729:0-16 %%
-DM: Ah, and the voice says quietly, {{Crucial}}, Kaiser, you've returned.
+%% u0725:0-22, u0726:0-8, u0727:0-6, u0728:0-6, u0729:0-16 %%
+DM: Ah, and the voice says quietly, Crushu, Kaisa, you've returned.
 
 %% u0730:0-62, u0731:0-8, u0732:0-9, u0733:0-24 %%
 DM: And you see kind of climbing out of the top of the branches. A a woman, a sort of vaguely tree-like woman.
@@ -1019,8 +1019,8 @@ DM: I didn't.
 %% u0826:0-23 %%
 Izzarak: You can [garbled].
 
-%% u0827:0-15 %%
-DM: {{Khrushchev}}.
+%% u0827:0-17 %%
+DM: Crushu and Kaisa.
 
 %% u0828:0-3 %%
 Izzarak: Uh.
@@ -1961,8 +1961,8 @@ DM: She kind of like pulls herself up. I just what... I just wanted to write a l
 %% u1668:0-57 %%
 Kenzo: Tell me the words you might... You wish your family to get.
 
-%% u1669:0-15, u1670:0-9, u1671:0-27, u1672:0-27, u1673:0-26, u1674:0-20, u1675:0-21, u1676:0-55, u1677:0-22, u1678:0-18 %%
-DM: Tell them this, tell them they will be taken care of. Tell them that I love them. {{I don't miss them}}, but I lived a good life, and I knew the risks, and do not refuse to live their life because I am gone, and we will meet again on the other side.
+%% u1669:0-15, u1670:0-9, u1671:0-27, u1672:0-27, u1673:0-19, u1674:0-20, u1675:0-21, u1676:0-55, u1677:0-22, u1678:0-18 %%
+DM: Tell them this, tell them they will be taken care of. Tell them that I love them. I'll miss them, but I lived a good life, and I knew the risks, and do not refuse to live their life because I am gone, and we will meet again on the other side.
 
 %% u1679:0-44 %%
 Kenzo: Kenzo carves all of this. What is your name?
@@ -2294,8 +2294,8 @@ Izzarak: Cast Lesser Restoration?
 %% u2031:0-28 %%
 DM: We need greater restoration.
 
-%% u2032:0-9, u2033:0-23 %%
-Izzarak: I was not... {{as I can cast that}}.
+%% u2032:0-9, u2033:0-30 %%
+Izzarak: I was not... I don't think I can cast that.
 
 %% u2034:0-33 %%
 DM: Yeah, Once you get back together.
@@ -2588,14 +2588,14 @@ Izzarak: Yeah, you know it's a me. I've brushed it.
 %% u2286:0-151 %%
 Kenzo: So wait. What did we learn about Grash? What was the thing that you learned about Grash? I'm not sure I totally learned it. Eric, Grash had this ability.
 
-%% u2287:0-28 %%
-Izzarak: {{dead or soldier as well}}.
+%% u2287:0-38 %%
+Izzarak: To resurrect dead orc soldiers, right?
 
 %% u2288:0-10 %%
 Kenzo: Yes, yeah.
 
-%% u2289:0-2, u2290:0-12, u2291:0-12, u2292:0-48 %%
-Izzarak: By {{Japanese}} walls of the the River of Souls {{world whenever he came up}}.
+%% u2289:0-2, u2290:0-14, u2291:0-12, u2292:0-38 %%
+Izzarak: By chopping holes—walls of the—the River of Souls world, whatever, like.
 
 %% u2293:0-10, u2294:0-19 %%
 Unknown: Them back, something like that.

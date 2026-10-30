@@ -285,7 +285,7 @@
 [u0285 | 00:25:11.880-00:25:12.770 | DM] there
 [u0286 | 00:25:14.130-00:25:20.139 | DM] the exposed souls on their journey from any malevolent force that might
 [u0287 | 00:25:23.170-00:25:28.190 | DM] that might interrupt their journey to their final destination?
-[u0288 | 00:25:29.250-00:25:31.620 | Izzarak] Do they serve the gods of {{the model}}?
+[u0288 | 00:25:29.250-00:25:31.620 | Izzarak] Do they serve the gods or the mortals?
 [u0289 | 00:25:33.310-00:25:34.620 | DM] Neither
 [u0290 | 00:25:36.400-00:25:41.139 | Kenzo] so is so. What is one of these? Uh, Gidari?
 [u0291 | 00:25:45.840-00:25:54.950 | DM] I mean in lizardfolk like mythology. They are creatures that keep the balance right. They don't serve the gods, because
@@ -724,8 +724,8 @@
 [u0724 | 01:02:16.070-01:02:17.419 | DM] Ah,
 [u0725 | 01:02:30.760-01:02:33.569 | DM] Ah! And the voice says
 [u0726 | 01:02:34.970-01:02:36.470 | DM] quietly,
-[u0727 | 01:02:38.680-01:02:39.979 | DM] {{Crucial}}
-[u0728 | 01:02:40.370-01:02:41.609 | DM] Kaiser,
+[u0727 | 01:02:38.680-01:02:39.979 | DM] Crushu
+[u0728 | 01:02:40.370-01:02:41.609 | DM] Kaisa,
 [u0729 | 01:02:42.610-01:02:44.220 | DM] you've returned,
 [u0730 | 01:02:44.690-01:02:49.600 | DM] and you see kind of climbing out of the top of the branches. A
 [u0731 | 01:02:50.590-01:02:52.090 | DM] a woman,
@@ -824,7 +824,7 @@
 [u0824 | 01:10:41.450-01:10:44.429 | Izzarak] like pulling out some grasshoppers.
 [u0825 | 01:10:47.600-01:10:48.709 | DM] I didn't
 [u0826 | 01:10:49.570-01:10:52.129 | Izzarak] you can all do. Come by
-[u0827 | 01:10:52.220-01:10:54.139 | DM] {{Khrushchev}}.
+[u0827 | 01:10:52.220-01:10:54.139 | DM] Crushu and Kaisa.
 [u0828 | 01:11:01.200-01:11:02.330 | Izzarak] Uh!
 [u0829 | 01:11:03.260-01:11:05.279 | Izzarak] I tell the story of the
 [u0830 | 01:11:05.590-01:11:08.310 | Izzarak] talking jaguar who gave them
@@ -1670,7 +1670,7 @@
 [u1670 | 02:17:53.180-02:17:54.510 | DM] tell them
 [u1671 | 02:17:56.520-02:17:58.639 | DM] they will be taken care of.
 [u1672 | 02:17:59.440-02:18:01.719 | DM] Tell them that I love them.
-[u1673 | 02:18:02.639-02:18:04.309 | DM] {{I don't miss them}}, but
+[u1673 | 02:18:02.639-02:18:04.309 | DM] I'll miss them, but
 [u1674 | 02:18:05.549-02:18:07.470 | DM] I lived a good life,
 [u1675 | 02:18:08.610-02:18:10.350 | DM] and I knew the risks,
 [u1676 | 02:18:13.629-02:18:18.009 | DM] and do not refuse to live their life because I am gone,
@@ -2030,7 +2030,7 @@
 [u2030 | 02:45:20.900-02:45:22.300 | Izzarak] cast Lesser Restoration.
 [u2031 | 02:45:23.290-02:45:25.229 | DM] We need greater restoration.
 [u2032 | 02:45:26.040-02:45:27.190 | Izzarak] I was not
-[u2033 | 02:45:28.940-02:45:30.649 | Izzarak] {{as I can cast that}}.
+[u2033 | 02:45:28.940-02:45:30.649 | Izzarak] I don't think I can cast that.
 [u2034 | 02:45:35.220-02:45:38.519 | DM] Yeah, Once you get back together,
 [u2035 | 02:45:38.630-02:45:39.539 | Izzarak] I see,
 [u2036 | 02:45:42.760-02:45:47.129 | DM] but you may just have to deal with the disadvantage of that
@@ -2284,12 +2284,12 @@
 [u2284 | 03:08:18.990-03:08:33.340 | Kenzo] Um, Tim. That was awesome. That was like super super great, really satisfying. I love that the the mechanic was not just like killing something else again. But it was like that was awesome. It was really really fun. That was really cool.
 [u2285 | 03:08:35.610-03:08:37.640 | Izzarak] Yeah, you know It's a me. I've brushed it.
 [u2286 | 03:08:38.960-03:08:46.210 | Kenzo] So wait. What did we learn about Grash? What was the thing that you learned about Grash? I'm not sure I totally learned it. Eric Grash had this ability
-[u2287 | 03:08:47.880-03:08:49.699 | Izzarak] {{dead or soldier as well}}.
+[u2287 | 03:08:47.880-03:08:49.699 | Izzarak] to resurrect dead orc soldiers, right?
 [u2288 | 03:08:50.000-03:08:51.180 | Kenzo] Yes, yeah,
 [u2289 | 03:08:58.470-03:08:59.770 | Izzarak] by
-[u2290 | 03:09:01.370-03:09:02.310 | Izzarak] {{Japanese}}
+[u2290 | 03:09:01.370-03:09:02.310 | Izzarak] chopping holes
 [u2291 | 03:09:03.060-03:09:04.729 | Izzarak] walls of the
-[u2292 | 03:09:07.960-03:09:11.079 | Izzarak] the River of Souls {{world whenever he came up}}
+[u2292 | 03:09:07.960-03:09:11.079 | Izzarak] the River of Souls world whatever like
 [u2293 | 03:09:12.010-03:09:12.970 | Unknown] them back,
 [u2294 | 03:09:14.610-03:09:15.449 | Unknown] something like that
 [u2295 | 03:09:18.290-03:09:20.240 | Izzarak] stealing the souls back.

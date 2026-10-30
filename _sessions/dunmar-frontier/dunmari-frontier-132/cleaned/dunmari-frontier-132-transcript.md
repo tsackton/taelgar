@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 132
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-132-source-cleaned.md
 
 ## Transcript
@@ -563,8 +563,8 @@ DM: The timeline is…
 %% u0415:0-15 %%
 Seeker: I cast tsunami.
 
-%% u0416:0-91, u0417:0-13, u0418:0-96, u0419:0-29, u0420:0-27, u0421:0-83, u0422:0-67, u0423:0-33, u0424:0-46 %%
-DM: Yes, so, the timeline is… it's… it's evening. Vindristjarna is showing up tomorrow morning. The set… the… Chaos Metal Centipede is expected to reach the cliff that goes up to the plateau tomorrow night. And then reach the Heartroot. 18 hours after that, 12 to… 24 hours after that. So the plan is… guerrilla attack on the cliff tomorrow night. Take a long rest on Vindristjarna as you fly back to the Heartroot. Or teleport and take a long rest. And then, by… The battle {{at the apartment}}.
+%% u0416:0-91, u0417:0-13, u0418:0-96, u0419:0-29, u0420:0-27, u0421:0-83, u0422:0-67, u0423:0-33, u0424:0-43 %%
+DM: Yes, so, the timeline is… it's… it's evening. Vindristjarna is showing up tomorrow morning. The set… the… Chaos Metal Centipede is expected to reach the cliff that goes up to the plateau tomorrow night. And then reach the Heartroot. 18 hours after that, 12 to… 24 hours after that. So the plan is… guerrilla attack on the cliff tomorrow night. Take a long rest on Vindristjarna as you fly back to the Heartroot. Or teleport and take a long rest. And then, by… The battle at the escarpment.
 
 %% u0425:0-26, u0426:0-17, u0427:0-140 %%
 Delwath: Okay, here's a crazy idea. Tomorrow morning. Seeker casts Simulacrum using a slot. Sorry, we're basically… our entire goal here is to optimize the number of wishes that Seeker can cast.
@@ -3203,8 +3203,8 @@ Kenzo: Cubed? Like, what, what, how big is it?
 %% u1868:40-65 %%
 DM: Maybe 10 feet by 10 feet.
 
-%% u1869:0-214, u1870:0-9, u1871:0-163, u1872:0-13, u1873:0-76, u1874:0-24, u1875:0-35 %%
-Kenzo: Yeah, I mean, if this is sort of like a football, like, kind of strategy, like, thing, like, I think we do want to be, like, we need to be able to get close to that thing. If she's got some crazy strategy to, like… you know… like, if the whole army is there just to distract and whatever, and her whole thing is to get to that specific spot as close as possible, we definitely need to be… closer to it. Like, if she darts past us somehow, then, you know, the {{holding is fine}}. What goes around behind? I mean, I guess we could… we could…
+%% u1869:0-214, u1870:0-9, u1871:0-163, u1872:0-13, u1873:0-78, u1874:0-24, u1875:0-35 %%
+Kenzo: Yeah, I mean, if this is sort of like a football, like, kind of strategy, like, thing, like, I think we do want to be, like, we need to be able to get close to that thing. If she's got some crazy strategy to, like… you know… like, if the whole army is there just to distract and whatever, and her whole thing is to get to that specific spot as close as possible, we definitely need to be… closer to it. Like, if she darts past us somehow, then, you know, the whole thing is fucked. What goes around behind? I mean, I guess we could… we could…
 
 %% u1876:0-70, u1877:0-78 %%
 Delwath: But if we… if we position ourselves by the Heartroot, we're basically… last line of defense. We can't do much until somebody comes towards us, right?

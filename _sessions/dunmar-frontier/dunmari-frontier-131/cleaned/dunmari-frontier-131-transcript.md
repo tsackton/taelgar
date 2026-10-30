@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 131
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-131-source-cleaned.md
 
 ## Transcript
@@ -47,8 +47,8 @@ Wellby: Can you see?
 %% u0054:0-30, u0055:0-14, u0056:0-423, u0057:0-84 %%
 Kenzo: A couple quick meta questions. So, Heartroot? Right? That's, like, where the goblins… hobgoblins are trying to get to. Do we know, like, are they just… like, what is Heartroot? Is it, like, a physical… like, what are they trying to… what's their goal? Like, what is the… because, like, we're setting our defenses there, which is great, but, like, what's the… do we understand what exact… what precisely their goal is? Like, are they trying to destroy, like, a physical… space, or just the… like, what is their goal? Do we know their, like, specific goal?
 
-%% u0058:0-54, u0059:0-100, u0060:0-28 %%
-Delwath: All I remember… I don't think we know anything beyond… that this… this Empress of Chaos, or whatever she's calling herself, thinks that it'll somehow help control {{that is engaged}}.
+%% u0058:0-54, u0059:0-100, u0060:0-25 %%
+Delwath: All I remember… I don't think we know anything beyond… that this… this Empress of Chaos, or whatever she's calling herself, thinks that it'll somehow help control the Isingue ooze.
 
 %% u0061:0-63, u0062:0-67 %%
 Kenzo: But, like, what, though? Like, a specific tree? Is it, like, a… Are they trying to kill… you know what I mean? Like, what are they…
@@ -308,8 +308,8 @@ DM: Okay.
 %% u0262:0-56, u0263:0-88, u0264:0-39, u0265:0-51, u0266:0-44 %%
 DM: So, a plan is to do some kind of attack. At the moment, as far as you're aware, the hobgoblins are something like 130 miles away from the river, and probably… Let's see, you're, maybe… you're maybe 120 miles away, so there are probably… you know, a few hundred miles away from you.
 
-%% u0267:0-3, u0268:0-184, u0269:0-43, u0270:0-46, u0271:0-77, u0272:0-78 %%
-Delwath: So… Delwath's been, like, sort of sketching, like, little maps and the little things in the earth, and, like, scratching them out, and, like, sort of muttering about, like, if only general you know, {{alamandas}} was here, you know, she would really know what to do. But I think… if we use the right… if we use Seeker's vast knowledge of every spell in D&D, or ability to cast any spell in D&D, there's some pretty devastating attacks.
+%% u0267:0-3, u0268:0-184, u0269:0-39, u0270:0-46, u0271:0-77, u0272:0-78 %%
+Delwath: So… Delwath's been, like, sort of sketching, like, little maps and the little things in the earth, and, like, scratching them out, and, like, sort of muttering about, like, if only General, you know, Alamandas was here, you know, she would really know what to do. But I think… if we use the right… if we use Seeker's vast knowledge of every spell in D&D, or ability to cast any spell in D&D, there's some pretty devastating attacks.
 
 %% u0273:0-36 %%
 Delwath: Tsunami? Have you looked at tsunami?
@@ -530,8 +530,8 @@ Seeker: Well, either it has a brain that you could… You know, cut its… or so
 %% u0406:0-72 %%
 Delwath: I bet you it's, like, sentient metal. Wasn't it very Terminator 2 vibey?
 
-%% u0407:0-44 %%
-Seeker: That was the special armor of the {{Corps}}.
+%% u0407:0-42 %%
+Seeker: That was the special armor of the Empress.
 
 %% u0408:0-6, u0409:0-5 %%
 Wellby: Jesus. Yeah.
@@ -2858,8 +2858,8 @@ DM: Yep.
 %% u1618:0-4 %%
 Delwath: And…
 
-%% u1619:0-40, u1620:0-84, u1621:0-26 %%
-Delwath: If she comes out, I mean, you know what? Maybe we hang out here? Like, does it look like they've been camped for a long time? {{Dude, we can't attack.}}
+%% u1619:0-40, u1620:0-84, u1621:0-22 %%
+Delwath: If she comes out, I mean, you know what? Maybe we hang out here? Like, does it look like they've been camped for a long time? Dude, we can't attack.
 
 %% u1622:0-39, u1623:0-15 %%
 DM: It's hard to… I mean, you can't really… hell, but like…

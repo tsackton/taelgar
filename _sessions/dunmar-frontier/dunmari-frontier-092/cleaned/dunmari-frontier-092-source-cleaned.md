@@ -692,7 +692,7 @@
 [u0692 | 01:06:27.350-01:06:28.120 | DM] yeah.
 [u0693 | 01:06:29.130-01:06:30.170 | DM] The Ket
 [u0694 | 01:06:36.480-01:06:38.570 | DM] in the
-[u0695 | 01:06:39.360-01:06:41.660 | DM] {{Yokoscar}} mountains
+[u0695 | 01:06:39.360-01:06:41.660 | DM] Yokolscar mountains
 [u0696 | 01:06:43.670-01:06:46.919 | DM] covered in glaciers buried in snow.
 [u0697 | 01:06:49.040-01:06:51.079 | DM] Vimfrost was.
 [u0698 | 01:06:54.320-01:06:59.099 | DM] the rumors are that he was one of the most powerful of his kind.
@@ -1106,7 +1106,7 @@
 [u1106 | 01:45:05.080-01:45:05.890 | Seeker] Umhm
 [u1107 | 01:45:06.530-01:45:12.320 | DM] is definitely weaker than you like, significantly weaker than you are.
 [u1108 | 01:45:18.230-01:45:20.620 | Kenzo] Wasn't there another scholar that was like him that we met
-[u1109 | 01:45:21.260-01:45:23.380 | Kenzo] from? {{Toe intel crap}}
+[u1109 | 01:45:21.260-01:45:23.380 | Kenzo] from? Toll-- Tokra?
 [u1110 | 01:45:27.100-01:45:31.790 | Kenzo] like I wrote books that nobody read and was like anyways.
 [u1111 | 01:45:34.830-01:45:36.920 | DM] Govir was writing a book, but
 [u1112 | 01:45:36.980-01:45:40.390 | Delwath] nobody read it, cause he got kidnapped by werewolves.
@@ -1269,8 +1269,8 @@
 [u1269 | 01:58:27.370-01:58:29.450 | Delwath] I don't know the kenku told us to go north.
 [u1270 | 01:58:29.620-01:58:30.610 | Wellby] That's true.
 [u1271 | 01:58:30.830-01:58:32.310 | Seeker] that's true.
-[u1272 | 01:58:32.720-01:58:35.590 | Delwath] Tim didn't want to make up {{Erawa}}, this island
-[u1273 | 01:58:35.710-01:58:45.709 | Delwath] you wanted to make up the north. No, because the kenku that's what the kenku knows, right? He's never been to {{Airla}}. He can guide you through the yes.
+[u1272 | 01:58:32.720-01:58:35.590 | Delwath] Tim didn't want to make up Irrla, this island
+[u1273 | 01:58:35.710-01:58:45.709 | Delwath] you wanted to make up the north. No, because the kenku that's what the kenku knows, right? He's never been to Irrla. He can guide you through the yes.
 [u1274 | 01:58:47.840-01:58:50.020 | DM] So it takes, you
 [u1275 | 01:58:51.270-01:58:54.710 | DM] see, that's like a hundred miles. And then that's
 [u1276 | 01:58:57.120-01:58:58.730 | DM] to

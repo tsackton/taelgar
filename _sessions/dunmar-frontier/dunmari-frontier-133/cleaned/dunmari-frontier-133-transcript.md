@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 133
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-133-source-cleaned.md
 
 ## Transcript
@@ -3305,8 +3305,8 @@ Seeker: Did she just pass?
 %% u1570:0-3 %%
 DM: No.
 
-%% u1571:0-35, u1572:0-42 %%
-Seeker: Did she pass right by {{midnight}}? It's, it's minus 10 because of the Ladder.
+%% u1571:0-32, u1572:0-42 %%
+Seeker: Did she pass right by my Ladder? It's, it's minus 10 because of the Ladder.
 
 %% u1573:0-34, u1574:0-22, u1575:0-53, u1576:0-34 %%
 DM: Oh, okay. Within 20 feet of Kenzo. Until it gets blasted. Yeah, she wouldn't have passed within Wellby's reach. Delwath already used his reaction.

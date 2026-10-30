@@ -1427,7 +1427,7 @@
 [u1427 | 01:25:42.810-01:25:43.859 | Seeker] Around in here.
 [u1428 | 01:25:43.990-01:25:45.659 | Seeker] Water helmet, you know.
 [u1429 | 01:25:47.480-01:25:50.380 | DM] You could. Probably one does.
-[u1430 | 01:25:50.610-01:25:55.300 | Riswynn] {{Costa}}, did you already do the like breathing underwater thing? Just for yourself.
+[u1430 | 01:25:50.610-01:25:55.300 | Riswynn] Plus Delwath, did you already do the like breathing underwater thing? Just for yourself.
 [u1431 | 01:25:55.300-01:25:56.699 | Delwath] That only lasts an hour.
 [u1432 | 01:25:59.840-01:26:00.470 | Delwath] Well, I mean.
 [u1433 | 01:26:00.470-01:26:01.469 | Riswynn] Back and forth.
@@ -2407,7 +2407,7 @@
 [u2407 | 02:24:23.390-02:24:25.449 | DM] thoughts and memories, and
 [u2408 | 02:24:30.320-02:24:31.250 | DM] I
 [u2409 | 02:24:34.280-02:24:35.400 | DM] think I was
-[u2410 | 02:24:36.000-02:24:37.559 | DM] {{read out at one}}.
+[u2410 | 02:24:36.000-02:24:37.559 | DM] good at it once.
 [u2411 | 02:24:43.600-02:24:44.290 | DM] But
 [u2412 | 02:24:45.620-02:24:46.590 | DM] and what
 [u2413 | 02:24:49.650-02:24:51.089 | DM] music for this.

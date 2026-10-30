@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 121
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-121-source-cleaned.md
 
 ## Transcript
@@ -300,7 +300,7 @@ DM: Oh, yes, I mean, I haven't been to Amberglow. It's too dangerous for the lik
 Seeker: Oh!
 
 %% u0206:0-57, u0207:0-31, u0208:0-77, u0209:0-15 %%
-DM: Even though the afternoon golden light still shines, it's [garbled]. And, of course, should the Cloud Spinner return, so would the color that lights up her realm. So many reasons.
+DM: Even though the afternoon golden light still shines, it's black and white. And, of course, should the Cloud Spinner return, so would the color that lights up her realm. So many reasons.
 
 %% u0210:0-45, u0211:0-64 %%
 Wellby: Would be bad for the Cloud Spinner to return? Everyone seems to think it would just be great all around, right?

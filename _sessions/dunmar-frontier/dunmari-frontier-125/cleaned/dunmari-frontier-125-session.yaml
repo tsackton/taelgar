@@ -32,3 +32,51 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-125/sources/zoom-session-125.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2460
+  issues: 2
+  artifacts:
+    original:
+      path: sources/GMT20250604-004337_Recording.transcript.vtt
+      sha256: 43ebcd6a8a9ed78050b0c465d36aa27ff467004ec49df829ebe50a9abf182209
+    prepared:
+      path: cleaned/dunmari-frontier-125-source-prepared.md
+      sha256: 603c4e5d96323ef9dc36f72142a2626c15eee3f4c1ca4370a483cb0b3aaa8edb
+    cleaned:
+      path: cleaned/dunmari-frontier-125-source-cleaned.md
+      sha256: 738c4bda893e1698065caf73e5d101da802e384b1668b75276c2fd3d833005f8
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-125-transcript.md
+      sha256: 212ba8ec430f582eba74f9f42a9de279af09f391e838bc39011b1d55e8d90b09
+  speakerCorrections:
+  - uid: u0328
+    start: 0
+    end: 55
+    speaker: DM
+  - uid: u0734
+    start: 0
+    end: 88
+    speaker: Delwath
+  - uid: u0738
+    start: 0
+    end: 111
+    speaker: Kenzo
+  - uid: u1397
+    start: 32
+    end: 196
+    speaker: DM
+  - uid: u1821
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u2060
+    start: 29
+    end: 51
+    speaker: DM
+  - uid: u2311
+    start: 0
+    end: 103
+    speaker: DM

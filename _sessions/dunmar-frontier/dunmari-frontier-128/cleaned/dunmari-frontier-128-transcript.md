@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 128
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-128-source-cleaned.md
 
 ## Transcript
@@ -4559,8 +4559,8 @@ Kenzo: I do have to roll. Hold on!
 %% u2128:0-91 %%
 Seeker: Sorry. Which of the stone? Which of the giants was the imprisoned one, and which one's the.
 
-%% u2129:0-29 %%
-DM: The one at the top {{isn't}}.
+%% u2129:0-25 %%
+DM: The one at the top isn't.
 
 %% u2130:0-5 %%
 Kenzo: Okay.

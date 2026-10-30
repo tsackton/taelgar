@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 134
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-134-source-cleaned.md
 
 ## Transcript
@@ -791,8 +791,8 @@ Kenzo: Oh, snap.
 %% u0528:0-5, u0529:0-14 %%
 Seeker: Whoa… Two weeks ago.
 
-%% u0530:0-32 %%
-Delwath: {{It's a barrel to talk to us.}}
+%% u0530:0-24 %%
+Delwath: Get Beryl to talk to us.
 
 %% u0531:0-59 %%
 Seeker: Wait, did we find all of the, like, jade fingers and stuff?
@@ -2435,8 +2435,8 @@ Kenzo: Oh, yeah.
 %% u1324:0-16 %%
 Delwath: What's her name?
 
-%% u1325:0-81 %%
-DM: Kenzo's got a love interest in Tollen. {{Beryl's}} got a love interest in Tollen.
+%% u1325:0-79 %%
+DM: Kenzo's got a love interest in Tollen. Delwath's got a love interest in Tollen.
 
 %% u1326:0-19 %%
 Delwath: That what you mean?

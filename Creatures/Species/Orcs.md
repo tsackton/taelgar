@@ -11,23 +11,29 @@ POV: modern
 ---
 # Orcs
 
-Orcs are the creation of [[Thark]], the God of War Without End. Across Taelgar, their warbands raid settlements, demand tribute, and fight one another under the compulsion of their creator. Most bands are small, but a powerful leader can gather a horde of hundreds or thousands, threatening neighboring cities and kingdoms.
+> [!quote] The Blood Binding, excerpt
+>_O Thark, whose chains no hand can break, by fire and blood this soul we bind._  
+>_No peace. No rest. Let hunger burn. Let strife be all this soul shall find._
 
-## Appearance and Life
+Scattered across Taelgar, small orc bands roam the margins of settled lands, raiding and pillaging in the name of [[Thark]], the God of War Without End. Fighting as much amongst themselves as with other species of the world, orcs are Thark's creation, bound to his will and driven to ceaseless conflict. The burning fire of his curse turns their strength against neighboring peoples and one another alike, unless a strong leader arises blessed by Thark, who can force warring bands to fight as one in a fearsome horde. 
 
-Orcs are robust and imposing, often standing over six feet tall, with tusks protruding from their lower lips. Their skin ranges from green to dull gray, and their eyes are typically black or red. They mature much faster than humans, reaching adulthood at about ten years of age. Although many die young in battle, their natural lifespan is similar to that of humans.
+## Appearance and Lifecycle
 
-## Thark's Chains
+Orcs are robust and imposing, often standing over six feet tall, with tusks protruding from their lower lips. Their skin ranges from green to dull gray, and their eyes are typically black or red. 
 
-[[Thark]] drives those bound to him toward ceaseless violence. His religion glorifies strength, victory, and the settlement of disputes through force. War serves his will even when nothing is gained from it, and the violence he inspires falls upon other orcs as readily as upon neighboring peoples.
-
-Few outsiders understand the rites through which this bond is imposed. Accounts speak of a blood ritual performed on infants, sometimes called the Blood Binding or the Blood Oath of the Crimson Blade, through which Thark claims the child and binds it to his will. Its precise workings remain obscure.
+Orcs mature much faster than humans, reaching adulthood at about ten years of age. Their natural lifespan is similar to that of humans, but most die in battle long before old age. Despite high birth rates, the constant warfare between orc bands usually keeps their populations small.
 
 ## Warbands and Hordes
 
-The orc bands encountered along the borders of settled lands often extend little beyond a large family group. Rivalries and fighting between these groups are frequent, and their violence usually prevents any lasting unity. Raids against neighboring settlements provide food, weapons, and treasure, while captives may be held for ransom, forced to labor, or killed.
+Orc communities are generally small, and scattered widely across Taelgar, often in marginal lands on the edges of settled realms. They lack centralized governance, and a group of orcs often includes no more than a large family group. Compelled to violence by [[Thark]], these orc groups frequently fight each other, although they raid settled areas when they can. These raids against neighboring settlements provide food, weapons, and treasure, as well as captives who may be held for ransom, forced to labor, or killed.
 
-At times, a leader believed to bear Thark's favor brings many bands together. Such hordes often take their leader's name, and may include other creatures drawn into their service or allied with them. Their leaders can organize patrols, seek powerful magic, demand tribute, and prepare sieges. Yet the rivalries within a horde remain dangerous: a common enemy or a feared commander may hold it together, but disputes can turn its warriors against one another.
+At times, a leader blessed by [[Thark]] may unite many small bands together, turning their violence towards a common enemy, and forming a horde that can number in the hundreds or thousands. These large hordes can emerge out of marginal lands unexpectedly, marching under the banner of a strong leader, and threatening the cities and kingdoms of other peoples. 
+
+## Thark's Chains
+
+Thark's will dominates and controls the lives of those bound to him. Orcish religion, such as it is, glorifies strength, victory, and f. Thark drives his followers to fight one another, bringing strength to the victors, and their leaders must continually turn this violence toward external enemies to hold their warbands together. War serves his will even when nothing is gained from it: his curse demands violence without purpose, war for the sake of war.
+
+The bond to Thark is imposed through a blood ritual performed on newborn orcs. Few outsiders understand its workings, though accounts of the rite circulate under many names, including the Blood Binding and the Blood Oath of the Crimson Blade, a name used by human scholars. These accounts describe a ritual that infuses the child with the strength and fire of Thark's will, binding it to a life of conflict. Infants who cannot or will not accept the curse are said not to survive the rite.
 
 %%^Campaign:dufr%%
 ## Free Orcs
@@ -36,7 +42,9 @@ Thark's hold can be escaped. Orcs who have never undergone the binding ritual gr
 
 For those once bound, freedom can be difficult. [[Murook]], freed in childhood through the [[Cloak of Rainbows]], describes the fire of Thark's chains still burning at times, long after her liberation. The [[Hezguli]] offer support and fellowship to orcs learning to live with these scars. Such struggles belong to the experience of binding and release; orcs born free have never endured the chains themselves.
 
-Freedom also brings danger from outside. Thark's followers hunt those who have escaped him, forcing free communities to conceal themselves or find protection against his reach. The loss of such protection does not itself bind free orcs anew, but can expose them to attack and deprive those once bound of relief from the lingering effects of his influence.
+Freedom also brings danger from outside. None are more hated by Thark's followers than those who have broken free: communities that turn from his way face unceasing attacks, forcing them to conceal themselves or find protection against his reach. The loss of such protection does not itself bind free orcs anew, but can expose them to attack and deprive those once bound of relief from the lingering effects of his influence. Among other peoples, free orcs must also contend with the fearsome reputation of Thark's warbands, and often struggle to distinguish themselves from those still bound to him.
+
+Because of this, orcs have a fearsome reputation, and free orcs who have escaped [[Thark]]'s chains often struggle to distinguish themselves from their [[Thark]]-cursed brethren.
 
 ## The People of the Rainbow
 
@@ -59,23 +67,10 @@ Among the People of the Rainbow is the belief that a life well lived becomes poi
 %%
 
 %%^Campaign:none%%
-## Previous Text — Retained for Review
 
->[!quote] The Blood Binding, excerpt
-*Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
 
-%% Tim has some DM notes about the details of the metaphysics, but not sure how much they really matter in-game, and none are definitively canon anyway %%
-
-Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [[Thark]], the god of war without end. Although most orcs live in small groups, when a leader blessed by [[Thark]] arises, they can bind many orcs together into a fearsome battle horde. 
-## Imposing and Violent
-Orcs are robust and imposing figures, often standing over 6 feet tall, usually with tusks protruding from their lower lips. Their skin tones range from shades of green to a dull gray, typically with black or red eyes. Most orcs die in battle, but those who manage to survive or who escape [[Thark]]'s chains have lifespans similar to humans, although they mature much quicker than humans. 
-
-Orcs are a decentralized and often chaotic race, driven to violence and conflict by their patron deity, [[Thark]]. Because of this, orcs have a fearsome reputation, and free orcs who have escaped [[Thark]]'s chains often struggle to distinguish themselves from their [[Thark]]-cursed brethren.
-## Families and Hordes
-Orc communities are generally small. They lack centralized governance, and a group of orcs often extends no further than a large family group. Compelled to violence by [[Thark]], these orc groups frequently fight each other, although they raid settled areas when they can. This constant war, even with high birth rates, usually keeps orc population sizes fairly low. 
-
-However, sometimes a leader blessed by [[Thark]] will unite many small groups together, forming a horde that can number in the hundreds or thousands. These hordes always form under the influence of a strong leader who can turn the violence of individual orcs to external purposes, and usually take on the name of the leader as their identity. These large hordes will often emerge out of marginal lands unexpectedly, threatening the cities and kingdoms of other races. 
 ## Thark, the God of War Without End
+
 Orcs are tightly bound to, and cursed by, [[Thark]], the embodied god of war without end. Through [[Thark]]'s dominion, orcs are compelled to violence without purpose, war for the sake of war. 
 
 Orcish religion, the manifestation of [[Thark]]'s will in the world, glorifies strength and resolving conflicts through violence. But the real power of [[Thark]]'s curse is enforced by a mysterious rumored ritual known by many names, and often referred to as the Blood Oath of the Crimson Blade by human scholars. While few details of this ritual are known to non-orcs, it is rumored that this ritual, performed on all newborn orcs, infuses them with the strength and fire of [[Thark]]'s will. Those who cannot or will not accept the curse of [[Thark]] do not survive the ritual. 

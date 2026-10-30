@@ -527,7 +527,7 @@
 [u0527 | 00:48:15.450-00:48:15.960 | Kenzo] Oh, snap.
 [u0528 | 00:48:15.960-00:48:16.825 | Seeker] Whoa…
 [u0529 | 00:48:18.660-00:48:19.709 | Seeker] Two weeks ago.
-[u0530 | 00:48:19.710-00:48:21.079 | Delwath] {{It's a barrel to talk to us.}}
+[u0530 | 00:48:19.710-00:48:21.079 | Delwath] Get Beryl to talk to us.
 [u0531 | 00:48:22.290-00:48:26.550 | Seeker] Wait, did we find all of the, like, jade fingers and stuff?
 [u0532 | 00:48:26.550-00:48:27.230 | DM] Yeah?
 [u0533 | 00:48:27.560-00:48:28.330 | Kenzo] data.
@@ -1322,7 +1322,7 @@
 [u1322 | 01:52:46.840-01:52:50.450 | DM] Kong can decide if Kenzo wants to reconnect with that.
 [u1323 | 01:52:52.580-01:52:52.920 | Kenzo] Oh, yeah.
 [u1324 | 01:52:52.920-01:52:53.740 | Delwath] What's her name?
-[u1325 | 01:52:53.740-01:52:57.929 | DM] Kenzo's got a love interest in Tollen. {{Beryl's}} got a love interest in Tollen.
+[u1325 | 01:52:53.740-01:52:57.929 | DM] Kenzo's got a love interest in Tollen. Delwath's got a love interest in Tollen.
 [u1326 | 01:52:58.910-01:52:59.740 | Delwath] That what you mean?
 [u1327 | 01:52:59.740-01:53:01.550 | Kenzo] Delwath's in love.
 [u1328 | 01:53:01.550-01:53:05.650 | Delwath] The centaur was never a love interest, except in Kenzo's mind.

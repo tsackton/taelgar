@@ -860,7 +860,7 @@
 [u0860 | 01:10:10.350-01:10:11.709 | DM] Oh, wisdom. Okay.
 [u0861 | 01:10:14.400-01:10:15.980 | Delwath] But hold on!
 [u0862 | 01:10:17.400-01:10:19.000 | Delwath] Sorry with the
-[u0863 | 01:10:20.450-01:10:29.889 | Delwath] what was this? What was the Eldritch {{America's}} thing? I can know if it succeeds or fails its save before I cast the spell, right?
+[u0863 | 01:10:20.450-01:10:29.889 | Delwath] what was this? What was the Eldritch Elmerca's thing? I can know if it succeeds or fails its save before I cast the spell, right?
 [u0864 | 01:10:31.165-01:10:31.660 | DM] Yes!
 [u0865 | 01:10:31.660-01:10:33.099 | Delwath] Okay. So I'm gonna use that
 [u0866 | 01:10:33.100-01:10:35.419 | DM] Targeting. You're targeting both of the

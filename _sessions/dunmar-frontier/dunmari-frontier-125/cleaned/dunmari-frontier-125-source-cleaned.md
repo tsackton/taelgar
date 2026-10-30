@@ -2017,7 +2017,7 @@
 [u2017 | 02:56:25.640-02:56:30.419 | Wellby] we would interpret you trying to find we're doing this as an act of good faith.
 [u2018 | 02:56:31.170-02:56:38.360 | Wellby] and we would interpret you trying to find what we know about the location of the Crown as a hostile act.
 [u2019 | 02:56:38.970-02:56:44.190 | Wellby] We think we're all friends here. I think you're not going to do that. And it's important. You know that before you start.
-[u2020 | 02:56:45.030-02:56:47.569 | Delwath] {{In every the other, and make it saved.}}
+[u2020 | 02:56:45.030-02:56:47.569 | Delwath] If he did the other, I'd make a save.
 [u2021 | 02:56:47.570-02:56:50.739 | Kenzo] The the other important thing to know is that
 [u2022 | 02:56:51.610-02:56:58.260 | Kenzo] before Fausto became our mortal enemy we thought that he was.
 [u2023 | 02:56:58.870-02:57:02.319 | Kenzo] I don't even know what we thought, but we didn't know that he was our mortal enemy until until.
@@ -2376,7 +2376,7 @@
 [u2376 | 03:28:22.520-03:28:24.360 | Delwath] He only knows the {{Pod system}}.
 [u2377 | 03:28:24.360-03:28:27.680 | DM] Knew Apollyon as the last Emperor of Drankor.
 [u2378 | 03:28:28.060-03:28:30.850 | Delwath] Cleansed, the Cleansed {{does not move}}.
-[u2379 | 03:28:33.070-03:28:39.699 | Delwath] The Cleansed, Fausto’s organization, comes from Drankor, {{revolt}}.
+[u2379 | 03:28:33.070-03:28:39.699 | Delwath] The Cleansed, Fausto’s organization, comes from Drankor, of old.
 [u2380 | 03:28:40.650-03:28:41.420 | DM] No.
 [u2381 | 03:28:43.170-03:28:44.610 | Delwath] Omnis Pura.
 [u2382 | 03:28:47.740-03:28:48.900 | Kenzo] Read our thoughts.

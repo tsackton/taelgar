@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 129
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-129-source-cleaned.md
 
 ## Transcript
@@ -1019,8 +1019,8 @@ DM: News eventually comes from Dunmar of a— of the treaty that… formalizes t
 %% u0682:0-96, u0683:0-77, u0684:0-85 %%
 DM: The country of Dunmar itself seems to have fractured into two, with Sura taking… command of the… northern and central parts of the country, and Karnas remaining in control of the areas south of Darba with the new Freeport as kind of a buffer zone between them.
 
-%% u0685:0-61, u0686:0-18, u0687:0-106, u0688:0-126, u0689:0-100, u0690:0-79, u0691:0-73, u0692:0-29 %%
-DM: And life continues as the… summer… turns from July to August. Things in Chardon… you know, are seeming to calm down a little. Kenzo’s pretty happy with the state of the negotiations here. … The… boards, the board of the refining Corporation has been appointed, and there's been negotiations about investments, and… a lot of conversation between the board and {{chart and Kenzo}} about invest— you know, essentially… buying back some of the properties that you now technically own, and using the… proceeds, rather than giving you wealth, to rebuild a bunch of apartments that are basically collapsed.
+%% u0685:0-61, u0686:0-18, u0687:0-106, u0688:0-126, u0689:0-97, u0690:0-79, u0691:0-73, u0692:0-29 %%
+DM: And life continues as the… summer… turns from July to August. Things in Chardon… you know, are seeming to calm down a little. Kenzo’s pretty happy with the state of the negotiations here. … The… boards, the board of the refining Corporation has been appointed, and there's been negotiations about investments, and… a lot of conversation between the board and Chard— and Kenzo about invest— you know, essentially… buying back some of the properties that you now technically own, and using the… proceeds, rather than giving you wealth, to rebuild a bunch of apartments that are basically collapsed.
 
 %% u0693:0-145, u0694:0-84, u0695:0-8 %%
 DM: Until one morning on August 6th, as you're feeling like things are mostly winding down, although there's still a little bit of negotiation to do. Wellby… oh, I should say, during this time also, I assume you've been continuing to, talk to…

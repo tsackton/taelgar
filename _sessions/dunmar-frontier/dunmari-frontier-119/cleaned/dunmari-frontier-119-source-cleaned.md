@@ -184,7 +184,7 @@
 [u0184 | 00:14:14.830-00:14:16.330 | Seeker] I have that spell. I don't.
 [u0185 | 00:14:16.840-00:14:17.440 | Riswynn] I have.
 [u0186 | 00:14:17.440-00:14:17.800 | Seeker] So.
-[u0187 | 00:14:18.563-00:14:19.589 | Delwath] {{Quest does.}}
+[u0187 | 00:14:18.563-00:14:19.589 | Delwath] Kate does.
 [u0188 | 00:14:20.060-00:14:20.810 | Seeker] Oh!
 [u0189 | 00:14:21.410-00:14:24.340 | DM] Do you have a a.
 [u0190 | 00:14:24.340-00:14:25.050 | Riswynn] But.
@@ -853,7 +853,7 @@
 [u0853 | 01:10:28.750-01:10:35.139 | Wellby] It’s pretty straightforward. On the allies thing, like, who do we know who were our allies
 [u0854 | 01:10:35.940-01:10:38.079 | Wellby] mean like, do? Where? Where would we start.
 [u0855 | 01:10:38.340-01:10:40.859 | Delwath] Do we know anything at all about the Feywild.
-[u0856 | 01:10:40.860-01:10:44.749 | Seeker] Hey, {{Fina}} is our ally.
+[u0856 | 01:10:40.860-01:10:44.749 | Seeker] Hey, Typhina is our ally.
 [u0857 | 01:10:44.750-01:10:46.250 | Wellby] I gotcha, we can always ask.
 [u0858 | 01:10:47.070-01:10:48.410 | Seeker] Where to find her.
 [u0859 | 01:10:48.410-01:10:50.520 | Seeker] It's true, it's true.

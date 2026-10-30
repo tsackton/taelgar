@@ -140,7 +140,7 @@
 [u0140 | 00:09:35.090-00:09:36.899 | DM] I know not the shattered ice.
 [u0141 | 00:09:39.640-00:09:41.199 | DM] What happened to them.
 [u0142 | 00:09:48.380-00:09:49.200 | Seeker] Totally, they love it.
-[u0143 | 00:09:49.200-00:09:50.689 | DM] Maybe the {{old counts}}.
+[u0143 | 00:09:49.200-00:09:50.689 | DM] Maybe they're all killed.
 [u0144 | 00:09:51.640-00:09:54.740 | DM] by the… Human scum.
 [u0145 | 00:09:56.150-00:09:58.740 | DM] Scum killing scum, good riddance.
 [u0146 | 00:10:01.480-00:10:05.930 | Kenzo] … Tell us again your plans in Isingue.
@@ -2606,7 +2606,7 @@
 [u2606 | 03:26:52.530-03:26:54.289 | DM] I think I will turn in soon.
 [u2607 | 03:26:59.010-03:27:02.309 | DM] Happy to… Catch up anytime, and…
 [u2608 | 03:27:02.950-03:27:06.430 | DM] Certainly let me know when Hektor gets here, I'm sure I will be.
-[u2609 | 03:27:08.360-03:27:15.349 | DM] I'm sure I'll be very busy, and… {{in a… Need a hand or two}}.
+[u2609 | 03:27:08.360-03:27:15.349 | DM] I'm sure I'll be very busy, and… leading a band or two of
 [u2610 | 03:27:15.930-03:27:22.459 | DM] Rangers in the fight, and… At some point, we'll have to talk tactics and see what we can do.
 [u2611 | 03:27:23.460-03:27:25.329 | DM] To help you the most.
 [u2612 | 03:27:28.260-03:27:31.120 | DM] For tonight, let's just get some rest, and…

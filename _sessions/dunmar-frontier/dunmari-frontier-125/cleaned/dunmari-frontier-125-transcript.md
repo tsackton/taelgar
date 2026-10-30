@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 125
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-125-source-cleaned.md
 
 ## Transcript
@@ -3212,8 +3212,8 @@ Kenzo: I don't think we had that—
 %% u2016:0-69, u2017:0-79, u2018:0-104, u2019:0-121 %%
 Wellby: No, but I think we will say to him like before he starts, You know we— we would interpret you trying to find—we’re doing this as an act of good faith, and we would interpret you trying to find what we know about the location of the Crown as a hostile act. We think we’re all friends here. I think you’re not going to do that. And it’s important you know that before you start.
 
-%% u2020:0-42 %%
-Delwath: {{In every the other, and make it saved.}}
+%% u2020:0-37 %%
+Delwath: If he did the other, I'd make a save.
 
 %% u2021:0-45, u2022:0-61, u2023:0-95 %%
 Kenzo: The the other important thing to know is that before Fausto became our mortal enemy, we thought that he was— I don't even know what we thought, but we didn't know that he was our mortal enemy until until—
@@ -3812,8 +3812,8 @@ Delwath: He only knows the {{Pod system}}.
 %% u2377:0-45 %%
 DM: Knew Apollyon as the last Emperor of Drankor.
 
-%% u2378:0-41, u2379:0-68 %%
-Delwath: Cleansed, the Cleansed {{does not move}}. The Cleansed, Fausto’s organization, comes from Drankor, {{revolt}}.
+%% u2378:0-41, u2379:0-64 %%
+Delwath: Cleansed, the Cleansed {{does not move}}. The Cleansed, Fausto’s organization, comes from Drankor, of old.
 
 %% u2380:0-3 %%
 DM: No.

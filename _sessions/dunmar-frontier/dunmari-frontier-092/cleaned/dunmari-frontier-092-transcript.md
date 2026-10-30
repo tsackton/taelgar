@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 92
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-092-source-cleaned.md
 
 ## Transcript
@@ -776,8 +776,8 @@ Seeker: We're here to learn.
 %% u0683:0-96, u0684:0-26, u0685:0-53, u0686:0-87, u0687:0-18 %%
 DM: It's a good thing that you came to my kingdom, for you surely would have died without my advice. Some hundreds of years ago great Dragon Vimfrost ruled the lands before my time. I think if I had been born in those days he would not have established such a presence. There's an option.
 
-%% u0688:0-78, u0689:0-2, u0690:0-8, u0691:0-46, u0692:0-5, u0693:0-7, u0694:0-6, u0695:0-22, u0696:0-35 %%
-DM: Vimfrost lived far to the east. The base of his territory was far to the east. In— He lived beyond the river that the—that the humans call yeah, the Ket, in the {{Yokoscar}} Mountains, covered in glaciers, buried in snow.
+%% u0688:0-78, u0689:0-2, u0690:0-8, u0691:0-46, u0692:0-5, u0693:0-7, u0694:0-6, u0695:0-19, u0696:0-35 %%
+DM: Vimfrost lived far to the east. The base of his territory was far to the east. In— He lived beyond the river that the—that the humans call yeah, the Ket, in the Yokolscar Mountains, covered in glaciers, buried in snow.
 
 %% u0697:0-13, u0698:0-64, u0699:0-42, u0700:0-29 %%
 DM: Vimfrost was— the rumors are that he was one of the most powerful of his kind, and hundreds of young dragons were spawned from him. Perhaps a thousand.
@@ -1196,8 +1196,8 @@ Seeker: Umhm.
 %% u1107:0-70 %%
 DM: Is definitely weaker than you, like, significantly weaker than you are.
 
-%% u1108:0-58, u1109:0-24, u1110:0-57 %%
-Kenzo: Wasn't there another scholar that was like him that we met from? {{Toe intel crap}} Like, "I wrote books that nobody read," and was like—anyways.
+%% u1108:0-58, u1109:0-19, u1110:0-57 %%
+Kenzo: Wasn't there another scholar that was like him that we met from? Toll— Tokra? Like, "I wrote books that nobody read," and was like—anyways.
 
 %% u1111:0-29 %%
 DM: Govir was writing a book, but—
@@ -1553,11 +1553,11 @@ Wellby: That's true.
 %% u1271:0-12 %%
 Seeker: That's true.
 
-%% u1272:0-49, u1273:0-33 %%
-Delwath: Tim didn't want to make up {{Erawa}}, this island, you wanted to make up the north.
+%% u1272:0-45, u1273:0-33 %%
+Delwath: Tim didn't want to make up Irrla, this island, you wanted to make up the north.
 
-%% u1273:33-154, u1274:0-16, u1275:0-49, u1276:0-2, u1277:0-28, u1278:0-7, u1279:0-43, u1280:0-15, u1281:0-4 %%
-DM: No, because the kenku—that's what the kenku knows, right? He's never been to {{Airla}}. He can guide you through the—yes. So it takes, you— see, that's like a hundred miles. And then that's to— 40. Okay? So that's one day. 2 days. Yeah. Okay, so we'll say you spend the next 3 days roughly here.
+%% u1273:33-150, u1274:0-16, u1275:0-49, u1276:0-2, u1277:0-28, u1278:0-7, u1279:0-43, u1280:0-15, u1281:0-4 %%
+DM: No, because the kenku—that's what the kenku knows, right? He's never been to Irrla. He can guide you through the—yes. So it takes, you— see, that's like a hundred miles. And then that's to— 40. Okay? So that's one day. 2 days. Yeah. Okay, so we'll say you spend the next 3 days roughly here.
 
 %% u1282:0-126 %%
 Kenzo: We should—we should have some place on the wiki, or whatever like, like a group shot of like our whole squad and all the NPCs.
