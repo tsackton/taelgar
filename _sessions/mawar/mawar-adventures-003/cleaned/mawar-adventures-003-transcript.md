@@ -1,6 +1,6 @@
 # Mawar Adventures — Session 3
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: mawar-adventures-003-source-cleaned.md
 
 ## Transcript
@@ -1424,8 +1424,8 @@ DM: I think that's from one of your tattoo is.
 %% u1006:0-15 %%
 Trok: Oh, interesting.
 
-%% u1007:0-63 %%
-DM: Where that even be? Yes, you do have darkvision and tremorsense.
+%% u1007:0-69 %%
+DM: Where that even be? Yes, you do have darkvision and it's under senses.
 
 %% u1008:0-80, u1009:0-192, u1010:0-48 %%
 DM: You have 120 feet of dark vision. Amazing. So you can actually see down the shaft. There is actually a stone, like not exactly a ladder, but like stone, like notches carved into the side of the shaft descending down, so it's definitely climbable and it goes down, maybe 40 feet, which would take you just about to ground level.
@@ -1487,8 +1487,8 @@ Trok: Is wonderful, thank you. Could sell those in town, if you wanted to.
 %% u1047:0-81 %%
 DM: So, with the light now, are you— so you can, you can place them up to 120 feet away?
 
-%% u1048:0-24 %%
-Nerissa: Yes, I said Thaumaturgy.
+%% u1048:0-22 %%
+Nerissa: Yes, I said [garbled].
 
 %% u1049:0-210, u1050:0-22 %%
 DM: Okay, so, so with the light now, you can see that, indeed, this is a mosaic of like glittering like multicolored gems, sort of a big cavern almost with, I'm— like gemstone, like almost like you're inside of a geode, is what it looks like.
@@ -3542,8 +3542,8 @@ DM: The question is, going up off the stair first? I mean, Trok first, we alread
 %% u2106:0-16 %%
 Trok: Is Kaleho first?
 
-%% u2107:0-5, u2108:0-32, u2109:0-20 %%
-Ryu: Trok. Trok will set off all the traps. I like Kaleho first.
+%% u2107:0-5, u2108:0-42, u2109:0-20 %%
+Ryu: Trok. Trok, Trok, Trok will set off all the traps. I like Kaleho first.
 
 %% u2110:0-236 %%
 Kaleho: So, I will very carefully and daintily move down the stairs and as soon as I have the clearance to do a perception check, I will do a perception check to see using the light to make sure there's no traps that I can see, or anything just—
@@ -5210,8 +5210,8 @@ Unknown: Free her.
 %% u2965:0-3 %%
 Trok: Um.
 
-%% u2966:0-83 %%
-Trok: I— oh, I forgot about this tattoo water thing, um, and, oh, he's the Water Delike or I'm—
+%% u2966:0-88 %%
+Trok: I— oh, I forgot about this tattoo water thing, um, and, oh, he's the {{water dislike}} or I'm—
 
 %% u2967:0-37 %%
 Ryu: Thinking man, but make it in the mud.
@@ -6137,8 +6137,8 @@ Ryu: Yeah, yeah.
 %% u3395:0-73 %%
 DM: Lying underneath the mud right now, prone the sardines, having healed you.
 
-%% u3396:0-32, u3397:0-34, u3398:0-73, u3399:0-147, u3400:0-39 %%
-Trok: So, I have a some kind of divine blessing thing, what's that called? Favor of the hansat— nope, not that one. Spiritual Affinity to {{Tuanesco}}. Before you make a roll, grant yourself advantage? I grant myself advantage on my— because all I have to do is make a strength check to get out, right? Yes, okay, so I grant myself advantage.
+%% u3396:0-32, u3397:0-34, u3398:0-78, u3399:0-147, u3400:0-39 %%
+Trok: So, I have a some kind of divine blessing thing, what's that called? Favor of the hansat— nope, not that one. Spiritual Affinity to Tharzen Anzinakoa. Before you make a roll, grant yourself advantage? I grant myself advantage on my— because all I have to do is make a strength check to get out, right? Yes, okay, so I grant myself advantage.
 
 %% u3401:0-5 %%
 Unknown: Okay.
@@ -6461,8 +6461,8 @@ Ryu: Use Insight?
 %% u3566:0-278 %%
 DM: Ah, there's six of them. Which one do you want to open? There's one with a— there's like one with a plain white quartz, there's one with the purple gem, there's one with a like Teal green gem, one with like a reddish gem, one with the yellow gem, and one with a like jet black obsidian.
 
-%% u3567:0-19 %%
-Ryu: {{Open? English?}}
+%% u3567:0-18 %%
+Ryu: Open the greenish?
 
 %% u3568:0-21, u3569:0-30, u3570:0-43, u3571:0-27, u3572:0-25, u3573:0-6, u3574:0-157 %%
 DM: It is filled with— so the bottom maybe third of the, of the, of the stone thing is filled with a— so there's a pile of coins mostly copper and silver. A few maybe gold glinting in there, but they're all like you don't recognize them at all. They're not Mawar, not Chardon. They're not coins from anywhere around here.

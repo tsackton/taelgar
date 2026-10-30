@@ -1,6 +1,6 @@
 # Lost in the Feywild — Session 2
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: lost-in-the-feywild-002-source-cleaned.md
 
 ## Transcript
@@ -3459,7 +3459,7 @@ Edric: Hold on, I'm just looking at one thing. I have to look it up deeply.
 Txarro: Yeah, I mean, what the treaty… it's… I guess I should say: It's… clear what… the treaty was described as. Why it is something that we could possibly convince him to break, but he can't choose to break himself, is completely opaque.
 
 %% u2351:0-42, u2352:0-49, u2353:0-24, u2354:0-28, u2355:0-139, u2356:0-25 %%
-DM: Well, I think on that point, in the story, he was challenged to… poetry game, a naming game. Where the winner had to… accept, you know, had to do… you know, er, sorry, where the loser had to accept whatever the winner wants. So, presumably, there's… something binding to that, at least… The Rakshasa has done so.
+DM: Well, I think on that point, in the story, he was challenged to… poetry game, a naming game. Where the winner had to… accept, you know, had to do… you know, er, sorry, where the loser had to accept whatever the winner wants. So, presumably, there's… something binding to that, at least… The Rakshasa has said so.
 
 %% u2357:0-30 %%
 Tarek: The Rakshasa is the tiger guy.

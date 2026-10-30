@@ -114,7 +114,7 @@
 [u0114 | 00:11:10.670-00:11:15.260 | DM] Yeah, whoever's closer to me. Alright. Justas, you're wakened up.
 [u0115 | 00:11:15.900-00:11:16.850 | Justas] Hmm?
 [u0116 | 00:11:17.110-00:11:18.290 | Justas] Yeah.
-[u0117 | 00:11:19.010-00:11:20.120 | Jrain] There's nobody here.
+[u0117 | 00:11:19.010-00:11:20.120 | Jrain] There's somebody here.
 [u0118 | 00:11:22.020-00:11:22.770 | DM] You hear…
 [u0119 | 00:11:22.970-00:11:31.250 | DM] you hear the door close more wag… like, you didn't hear it open, but you hear it shut. Like, you hear a noise of a door, like, shutting.
 [u0120 | 00:11:32.510-00:11:33.160 | Jrain] Okay.
@@ -148,7 +148,7 @@
 [u0148 | 00:13:28.870-00:13:31.540 | DM] Going into a house, like, 4 houses down.
 [u0149 | 00:13:32.630-00:13:34.529 | DM] I mean, that's, like, at a first glance.
 [u0150 | 00:13:35.460-00:13:35.820 | Jrain] Okay.
-[u0151 | 00:13:35.820-00:13:39.950 | DM] It looks like Kalima is trying to be… stealthy. Kalima and this person are trying to be stealthy.
+[u0151 | 00:13:35.820-00:13:39.950 | DM] It looks like Kalima is trying to be… Kalima and this person are trying to be stealthy.
 [u0152 | 00:13:41.030-00:13:41.790 | Jrain] Okay.
 [u0153 | 00:13:42.310-00:13:45.400 | DM] But I mean, they're not that well hidden from…
 [u0154 | 00:13:45.690-00:13:49.979 | DM] The door, but they seem to be moving quickly and quietly in a specific direction.
@@ -695,7 +695,7 @@
 [u0695 | 01:02:40.030-01:02:41.979 | Jrain] In our chasm, too, right?
 [u0696 | 01:02:44.800-01:02:45.560 | DM] true.
 [u0697 | 01:02:56.600-01:02:59.450 | Jrain] A interplanar interface leak.
-[u0698 | 01:03:03.430-01:03:08.790 | Justas] Have you ever seen… Iskander, or anyone in the… Palace?
+[u0698 | 01:03:03.430-01:03:08.790 | Justas] Have you ever seen… Zeyfa, or anyone in the… Palace?
 [u0699 | 01:03:11.550-01:03:12.810 | DM] the,
 [u0700 | 01:03:16.320-01:03:17.210 | DM] Yes.
 [u0701 | 01:03:18.250-01:03:20.500 | DM] Malquin.
@@ -1972,7 +1972,7 @@
 [u1972 | 02:53:53.080-02:53:53.690 | DM] Yeah.
 [u1973 | 02:54:02.640-02:54:03.460 | Jrain] Okay.
 [u1974 | 02:54:06.790-02:54:08.210 | Finnan] I mean, so… So…
-[u1975 | 02:54:08.920-02:54:11.259 | Jrain] Jrain is gonna propose that we…
+[u1975 | 02:54:08.920-02:54:11.259 | Jrain] Finnan is gonna propose that we…
 [u1976 | 02:54:11.330-02:54:13.310 | Finnan] That we wait for nightfall.
 [u1977 | 02:54:14.650-02:54:17.829 | Finnan] As soon as the stars come out, we take out the necklace.
 [u1978 | 02:54:18.240-02:54:19.889 | Finnan] go back through.

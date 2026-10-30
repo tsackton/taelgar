@@ -66,7 +66,7 @@
 [u0066 | 00:06:38.290-00:06:50.070 | Unknown] corridor. So what order are you? And are you walking in? Does the dog have like? I can't imagine mechanical dog smells all that. Well.
 [u0067 | 00:06:58.890-00:07:19.980 | Dilion] Oh, cause you know how sometimes like a pet has like advantage on like I honest, I don't see it on the stat blocks. I I'm I'm just trying to suggest that we want. It's not bad. No, for sure. Why, we can. We can let take a sort of lead cause
 [u0068 | 00:07:20.000-00:07:26.670 | Dilion] Sad to say, that the mechanical dog is somewhat expendable compared to the rest of us.
-[u0069 | 00:07:27.610-00:07:31.059 | Dilion] We sorry, sir? Alright! It's not darkfish, and
+[u0069 | 00:07:27.610-00:07:31.059 | Dilion] We sorry, sir? Alright! It's got darkvision, and
 [u0070 | 00:07:31.480-00:07:47.190 | Dilion] yes, and I don't have dark vision. So I imagine we're also going to probably light some sort of torch if the darkness is strong enough, because, you see, there's some light coming through in this original. Yeah. So as soon as you enter this corridor that leads north.
 [u0071 | 00:07:47.250-00:07:49.510 | DM] this like 5 foot circular
 [u0072 | 00:07:49.790-00:07:51.520 | Unknown] that's been dug out of the earth.
@@ -2144,7 +2144,7 @@
 [u2144 | 03:28:49.180-03:28:52.149 | DM] say your goodbyes. Make plans
 [u2145 | 03:28:53.380-03:28:58.470 | DM] split up your treasure. I'll just give everybody like a minute to
 [u2146 | 03:28:59.140-03:29:02.580 | DM] wrap up their character's story. However they want.
-[u2147 | 03:29:04.000-03:29:19.259 | Dilion] Do we get a Grimstone-to-Acescale Grimscale, as the new, the new boss? I yeah, I don't think I'm going back there
+[u2147 | 03:29:04.000-03:29:19.259 | Dilion] Do we—do we get a Grimstone—Grimscale, as the new, the new boss? I yeah, I don't think I'm going back there
 [u2148 | 03:29:19.480-03:29:33.910 | Acescale] But I do have a nice set of alchemy equipment and some new skills that I didn't have going in. So I've definitely got a 9 to 5 lined up. I think I can probably start a little potion store.
 [u2149 | 03:29:34.180-03:29:41.260 | Acescale] but I I take probably like half of my loot.
 [u2150 | 03:29:41.340-03:29:59.219 | Acescale] and then divide it up between the 3 of you I was. I am like playing with the die that I grabbed, and I was like this has got to be worth somewhere in the realm of via this. And II wanna make sure that I'm on the good side of luck and Karma. So I say, thank you all for for the help.

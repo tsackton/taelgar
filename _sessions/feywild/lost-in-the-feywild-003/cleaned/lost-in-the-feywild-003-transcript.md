@@ -1,6 +1,6 @@
 # Lost in the Feywild — Session 3
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: lost-in-the-feywild-003-source-cleaned.md
 
 ## Transcript
@@ -482,8 +482,8 @@ Kaito Min: Wait, wait, somebody back up to the bell and heads disappearing? What
 %% u0368:0-7 %%
 DM: No, no.
 
-%% u0369:0-43 %%
-Ayveen: I honestly know what makes heads disappear.
+%% u0369:0-49 %%
+Ayveen: I don't actually know what makes heads disappear.
 
 %% u0370:0-5 %%
 DM: Okay.
@@ -575,8 +575,8 @@ Ayveen: Creepy person that he's made a pact with. We are… we think is the pact
 %% u0416:0-35 %%
 Kaito Min: Why does the neighbor want mortals?
 
-%% u0417:0-13, u0418:0-59, u0419:0-172, u0420:0-41, u0421:0-12, u0422:0-40 %%
-Ayveen: I don't know. But the only mortals that we've seen outside of this house… have been infected with the bad smell the guards are afraid of, tried to run, in some order, have tried to run toward the root house, have been infected with the bad smell. And have lost their heads. In some order. So… I don't… I don't want to be one of those mortals.
+%% u0417:0-13, u0418:0-59, u0419:0-172, u0420:0-41, u0421:0-12, u0422:0-32 %%
+Ayveen: I don't know. But the only mortals that we've seen outside of this house… have been infected with the bad smell the guards are afraid of, tried to run, in some order, have tried to run toward the root house, have been infected with the bad smell. And have lost their heads. In some order. So… I don't want to be one of those mortals.
 
 %% u0423:0-170, u0424:0-13 %%
 Kaito Min: Yeah, I don't think any of us do… do we know what the nature is of this agreement? Why they're sending mortals down the road? For… in exchange for what? For what purpose? Anybody know?
@@ -2528,8 +2528,8 @@ Kaito Min: What was the relationship?
 %% u1499:0-18 %%
 Tarek: You're gonna love.
 
-%% u1500:0-173 %%
-Kaito Min: What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
+%% u1500:0-146 %%
+Kaito Min: Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
 
 %% u1501:0-45, u1502:0-41, u1503:0-49, u1504:0-8 %%
 DM: No, it's just sort of standing in the corner. Y'all zipped past it on the way upstairs. There are lots of old, weird stuff in that house. Alright.
@@ -3983,8 +3983,8 @@ DM: Arithrimos Lamperum?
 %% u2318:0-39, u2319:0-56 %%
 DM: You don't know about brilliant numbers? You're in for a treat. They are so incredibly beautiful.
 
-%% u2320:0-35, u2321:0-84, u2322:0-12, u2323:0-38 %%
-DM: Oh my goodness. A brilliant number. A brilliant number is a number which is itself the product only of two other primes. And then he stares at you, expectantly. Excitedly.
+%% u2320:0-35, u2321:0-83, u2322:0-12, u2323:0-38 %%
+DM: Oh my goodness. A brilliant number. A brilliant number is a prime which is itself the product only of two other primes. And then he stares at you, expectantly. Excitedly.
 
 %% u2324:0-16 %%
 Edric: Can you be safe?
@@ -4076,8 +4076,8 @@ Txarro: D20 plus 7.
 %% u2362:0-59, u2363:0-36 %%
 Edric: So, Edric will, like, reach over, like, put his drink down, and said, “Tell me more about primes.”
 
-%% u2364:0-33, u2365:0-5, u2366:0-12, u2367:0-12, u2368:0-5, u2369:0-36 %%
-Tarek: I pressed it, but it didn't roll. What? Oh, come on. Did it roll? Damn. Let's try it again. Sleight of hand…
+%% u2364:0-33, u2365:0-5, u2366:0-12, u2367:0-12, u2368:0-5, u2369:0-60 %%
+Tarek: I pressed it, but it didn't roll. What? Oh, come on. Did it roll? Damn. Let's try it again. Sleight of Hand… [garbled].
 
 %% u2370:0-12 %%
 DM: Pretty just.
@@ -4112,8 +4112,8 @@ DM: Opens his… what the hell? God, when I leave the Feywild, I am never coming
 %% u2383:0-79, u2384:0-70 %%
 DM: Listen… here's why we're called the Arithrimos Lamperum. Think of it like this. And then he began speaking very quickly and slightly incomprehensibly.
 
-%% u2385:0-294, u2386:0-289, u2387:0-309, u2388:0-73 %%
-DM: On the surface of a sphere, draw a grid of four-sided polygons such that there are 89 sort of bands, from the top to the bottom, and 89 slices radiating out from the center, covering the whole surface completely in equally sized boxes. Now, onto the sphere, overlay any map of a spherical plane plane whose topology is essentially spheroid, and you have 7,921 locations on the surface of the sphere. Within each individual location square, draw a second 89 by 89 grid, choose any one of those locations, repeat again, depending on the level of specificity that you need, such that the first grid encompasses a set on a sphere the size of Taelgar itself, roughly 89,000 square miles, and the second is roughly 10 square miles, and then at the third level, you're about 600 feet on a side, 600 feet on a side, and the fourth, here's the thing, here's the thing, by the time you get to the fourth layer down, you're in a grid of about, and he reaches his arms out about…
+%% u2385:0-294, u2386:0-289, u2387:0-318, u2388:0-73 %%
+DM: On the surface of a sphere, draw a grid of four-sided polygons such that there are 89 sort of bands, from the top to the bottom, and 89 slices radiating out from the center, covering the whole surface completely in equally sized boxes. Now, onto the sphere, overlay any map of a spherical plane plane whose topology is essentially spheroid, and you have 7,921 locations on the surface of the sphere. Within each individual location square, draw a second 89 by 89 grid, choose any one of those locations, repeat again, depending on the level of specificity that you need, such that the first grid encompasses a set on a sphere the size of Taelgar itself, roughly 89,000 square miles, and the second is roughly 10 square miles, and then at the third level, you're about 600 square feet on, 600 square feet on the side, and the fourth, here's the thing, here's the thing, by the time you get to the fourth layer down, you're in a grid of about, and he reaches his arms out about…
 
 %% u2389:0-83, u2390:0-59, u2391:0-52 %%
 DM: Six and a half feet on a side. So… with a set of four, two-digit number… excuse me. He chuckles at himself, having fallen over his own numbers. I'm sure you all understand the implication of this.
@@ -4136,8 +4136,8 @@ Tarek: I understand all of that, but what's a planet?
 %% u2401:0-10, u2402:0-106 %%
 DM: The thing. You don't actually want anyone to know particular locations, so you hide them inside of Brilliant Numbers.
 
-%% u2403:0-70, u2404:0-39, u2405:0-29, u2406:0-46 %%
-DM: Large numbers, with only two prime factors. There happens to be about… just a shade over 7,921 of them, which… obviously, is… the square of… 89, which is why we're doing an 89 by 89 grid.
+%% u2403:0-63, u2404:0-39, u2405:0-29, u2406:0-46 %%
+DM: Large primes, with only two factors. There happens to be about… just a shade over 7,921 of them, which… obviously, is… the square of… 89, which is why we're doing an 89 by 89 grid.
 
 %% u2407:0-64 %%
 DM: I'm gonna take those stares as just saying that you're tracking.
@@ -4359,7 +4359,7 @@ Ayveen: The Drankorian Empire ended?
 DM: Sometime in the 1000s.
 
 %% u2533:0-36 %%
-Ayveen: I mean, I can roll a history, right?
+Ayveen: I mean, I can roll an arcana, right?
 
 %% u2534:0-65 %%
 Txarro: You probably know, you're profici- you have expertise in history.

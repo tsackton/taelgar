@@ -38,3 +38,731 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/sources/dragonets-ep03-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 3097
+  issues: 2
+  artifacts:
+    original:
+      path: sources/GMT20261006-010311_Recording.transcript.vtt
+      sha256: 414f0f7c00d801c69df2297071d18a59feed04ec8650902497005d30ab88b6cd
+    prepared:
+      path: cleaned/dragonets-003-source-prepared.md
+      sha256: 6587435762fd00b4b614c7db44b11a8b7ce36db5e342343fb02140dc1b3f2ec4
+    cleaned:
+      path: cleaned/dragonets-003-source-cleaned.md
+      sha256: 7987e2caaa5ce9d83758c717990ac6e843e3bb320704094f2cb65ddc8b9d3c02
+    polishedMarkdown:
+      path: cleaned/dragonets-003-transcript.md
+      sha256: 4ff68ebd12dc245cef06400b0c583242a0403a757016f47ba0cbfba91670c9ec
+  speakerCorrections:
+  - uid: u0131
+    start: 0
+    end: 9
+    speaker: Little Tony
+  - uid: u0146
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u0207
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u1092
+    start: 0
+    end: 43
+    speaker: Little Tony
+  - uid: u1163
+    start: 0
+    end: 39
+    speaker: Little Tony
+  - uid: u1169
+    start: 0
+    end: 13
+    speaker: Zeno
+  - uid: u1170
+    start: 0
+    end: 28
+    speaker: Zeno
+  - uid: u1171
+    start: 0
+    end: 5
+    speaker: Zeno
+  - uid: u1239
+    start: 0
+    end: 48
+    speaker: Player
+  - uid: u1296
+    start: 0
+    end: 84
+    speaker: Little Tony
+  - uid: u1376
+    start: 0
+    end: 26
+    speaker: Player
+  - uid: u1422
+    start: 0
+    end: 10
+    speaker: Little Tony
+  - uid: u1732
+    start: 0
+    end: 49
+    speaker: Sculpit
+  - uid: u1735
+    start: 0
+    end: 50
+    speaker: Sculpit
+  - uid: u1760
+    start: 0
+    end: 29
+    speaker: Sculpit
+  - uid: u1762
+    start: 0
+    end: 40
+    speaker: Sculpit
+  - uid: u1763
+    start: 0
+    end: 11
+    speaker: Sculpit
+  - uid: u1764
+    start: 0
+    end: 5
+    speaker: Sculpit
+  - uid: u1765
+    start: 0
+    end: 22
+    speaker: Sculpit
+  - uid: u1771
+    start: 0
+    end: 15
+    speaker: Zeno
+  - uid: u1772
+    start: 0
+    end: 16
+    speaker: Zeno
+  - uid: u1773
+    start: 0
+    end: 26
+    speaker: Zeno
+  - uid: u1778
+    start: 0
+    end: 31
+    speaker: Zeno
+  - uid: u1779
+    start: 0
+    end: 73
+    speaker: Zeno
+  - uid: u1782
+    start: 0
+    end: 44
+    speaker: Zeno
+  - uid: u1818
+    start: 0
+    end: 36
+    speaker: Heska
+  - uid: u1819
+    start: 0
+    end: 11
+    speaker: Heska
+  - uid: u1825
+    start: 0
+    end: 24
+    speaker: Zeno
+  - uid: u1827
+    start: 6
+    end: 33
+    speaker: Zeno
+  - uid: u1835
+    start: 0
+    end: 14
+    speaker: Heska
+  - uid: u1839
+    start: 0
+    end: 64
+    speaker: Zeno
+  - uid: u1840
+    start: 0
+    end: 20
+    speaker: Zeno
+  - uid: u1841
+    start: 0
+    end: 11
+    speaker: Zeno
+  - uid: u1876
+    start: 0
+    end: 45
+    speaker: Little Tony
+  - uid: u1877
+    start: 0
+    end: 4
+    speaker: Little Tony
+  - uid: u1878
+    start: 0
+    end: 147
+    speaker: Little Tony
+  - uid: u1883
+    start: 0
+    end: 35
+    speaker: Little Tony
+  - uid: u1884
+    start: 0
+    end: 38
+    speaker: Little Tony
+  - uid: u1885
+    start: 0
+    end: 51
+    speaker: Little Tony
+  - uid: u1886
+    start: 0
+    end: 168
+    speaker: Little Tony
+  - uid: u1888
+    start: 0
+    end: 3
+    speaker: Little Tony
+  - uid: u1918
+    start: 0
+    end: 32
+    speaker: Zeno
+  - uid: u1925
+    start: 0
+    end: 40
+    speaker: Zeno
+  - uid: u1926
+    start: 0
+    end: 10
+    speaker: Zeno
+  - uid: u1927
+    start: 0
+    end: 8
+    speaker: Zeno
+  - uid: u1928
+    start: 0
+    end: 7
+    speaker: Zeno
+  - uid: u1929
+    start: 0
+    end: 51
+    speaker: Zeno
+  - uid: u1930
+    start: 0
+    end: 47
+    speaker: Zeno
+  - uid: u1931
+    start: 0
+    end: 22
+    speaker: Zeno
+  - uid: u1932
+    start: 0
+    end: 9
+    speaker: Zeno
+  - uid: u1933
+    start: 0
+    end: 11
+    speaker: Zeno
+  - uid: u1934
+    start: 0
+    end: 14
+    speaker: Zeno
+  - uid: u1935
+    start: 0
+    end: 5
+    speaker: Zeno
+  - uid: u1937
+    start: 0
+    end: 41
+    speaker: Little Tony
+  - uid: u1990
+    start: 0
+    end: 22
+    speaker: Heska
+  - uid: u1993
+    start: 0
+    end: 15
+    speaker: Heska
+  - uid: u1998
+    start: 0
+    end: 25
+    speaker: Heska
+  - uid: u2008
+    start: 0
+    end: 4
+    speaker: Little Tony
+  - uid: u2009
+    start: 0
+    end: 145
+    speaker: Little Tony
+  - uid: u2061
+    start: 0
+    end: 27
+    speaker: Sculpit
+  - uid: u2062
+    start: 0
+    end: 52
+    speaker: Sculpit
+  - uid: u2075
+    start: 95
+    end: 168
+    speaker: Sculpit
+  - uid: u2088
+    start: 0
+    end: 67
+    speaker: Sculpit
+  - uid: u2089
+    start: 0
+    end: 7
+    speaker: Sculpit
+  - uid: u2090
+    start: 0
+    end: 26
+    speaker: Sculpit
+  - uid: u2091
+    start: 0
+    end: 81
+    speaker: Sculpit
+  - uid: u2092
+    start: 0
+    end: 17
+    speaker: Sculpit
+  - uid: u2103
+    start: 0
+    end: 26
+    speaker: Zeno
+  - uid: u2107
+    start: 0
+    end: 58
+    speaker: Zeno
+  - uid: u2132
+    start: 0
+    end: 31
+    speaker: Zeno
+  - uid: u2136
+    start: 0
+    end: 40
+    speaker: Zeno
+  - uid: u2137
+    start: 0
+    end: 45
+    speaker: Zeno
+  - uid: u2138
+    start: 0
+    end: 56
+    speaker: Zeno
+  - uid: u2139
+    start: 0
+    end: 24
+    speaker: Zeno
+  - uid: u2142
+    start: 0
+    end: 21
+    speaker: Zeno
+  - uid: u2143
+    start: 0
+    end: 19
+    speaker: Zeno
+  - uid: u2165
+    start: 0
+    end: 47
+    speaker: Heska
+  - uid: u2171
+    start: 0
+    end: 4
+    speaker: Heska
+  - uid: u2172
+    start: 0
+    end: 13
+    speaker: Heska
+  - uid: u2174
+    start: 0
+    end: 45
+    speaker: Heska
+  - uid: u2175
+    start: 0
+    end: 59
+    speaker: Heska
+  - uid: u2219
+    start: 0
+    end: 136
+    speaker: Little Tony
+  - uid: u2221
+    start: 0
+    end: 51
+    speaker: Little Tony
+  - uid: u2240
+    start: 0
+    end: 113
+    speaker: Little Tony
+  - uid: u2251
+    start: 0
+    end: 96
+    speaker: Little Tony
+  - uid: u2252
+    start: 0
+    end: 31
+    speaker: Little Tony
+  - uid: u2253
+    start: 0
+    end: 70
+    speaker: Little Tony
+  - uid: u2284
+    start: 0
+    end: 17
+    speaker: Heska
+  - uid: u2285
+    start: 0
+    end: 24
+    speaker: Heska
+  - uid: u2313
+    start: 0
+    end: 78
+    speaker: Sculpit
+  - uid: u2321
+    start: 0
+    end: 5
+    speaker: Sculpit
+  - uid: u2322
+    start: 0
+    end: 90
+    speaker: Sculpit
+  - uid: u2323
+    start: 0
+    end: 39
+    speaker: Sculpit
+  - uid: u2325
+    start: 0
+    end: 39
+    speaker: Sculpit
+  - uid: u2326
+    start: 0
+    end: 34
+    speaker: Sculpit
+  - uid: u2334
+    start: 0
+    end: 24
+    speaker: Sculpit
+  - uid: u2335
+    start: 0
+    end: 147
+    speaker: Sculpit
+  - uid: u2337
+    start: 0
+    end: 8
+    speaker: Sculpit
+  - uid: u2338
+    start: 0
+    end: 31
+    speaker: Sculpit
+  - uid: u2369
+    start: 0
+    end: 12
+    speaker: Zeno
+  - uid: u2371
+    start: 0
+    end: 45
+    speaker: Zeno
+  - uid: u2372
+    start: 0
+    end: 69
+    speaker: Zeno
+  - uid: u2373
+    start: 0
+    end: 36
+    speaker: Zeno
+  - uid: u2376
+    start: 0
+    end: 15
+    speaker: Heska
+  - uid: u2388
+    start: 0
+    end: 63
+    speaker: Zeno
+  - uid: u2392
+    start: 0
+    end: 23
+    speaker: Zeno
+  - uid: u2495
+    start: 0
+    end: 90
+    speaker: Little Tony
+  - uid: u2496
+    start: 0
+    end: 8
+    speaker: DM
+  - uid: u2498
+    start: 0
+    end: 37
+    speaker: Little Tony
+  - uid: u2513
+    start: 0
+    end: 47
+    speaker: Little Tony
+  - uid: u2555
+    start: 0
+    end: 3
+    speaker: Heska
+  - uid: u2645
+    start: 0
+    end: 14
+    speaker: Sculpit
+  - uid: u2646
+    start: 0
+    end: 26
+    speaker: Sculpit
+  - uid: u2651
+    start: 0
+    end: 3
+    speaker: Sculpit
+  - uid: u2652
+    start: 0
+    end: 21
+    speaker: Sculpit
+  - uid: u2654
+    start: 0
+    end: 44
+    speaker: Sculpit
+  - uid: u2657
+    start: 0
+    end: 6
+    speaker: Sculpit
+  - uid: u2658
+    start: 0
+    end: 6
+    speaker: Sculpit
+  - uid: u2660
+    start: 0
+    end: 89
+    speaker: Sculpit
+  - uid: u2661
+    start: 0
+    end: 124
+    speaker: Sculpit
+  - uid: u2663
+    start: 54
+    end: 109
+    speaker: Sculpit
+  - uid: u2666
+    start: 0
+    end: 13
+    speaker: Sculpit
+  - uid: u2667
+    start: 0
+    end: 14
+    speaker: Sculpit
+  - uid: u2673
+    start: 0
+    end: 53
+    speaker: Sculpit
+  - uid: u2677
+    start: 0
+    end: 72
+    speaker: Zeno
+  - uid: u2687
+    start: 0
+    end: 69
+    speaker: Zeno
+  - uid: u2688
+    start: 0
+    end: 15
+    speaker: Zeno
+  - uid: u2689
+    start: 0
+    end: 16
+    speaker: Zeno
+  - uid: u2710
+    start: 0
+    end: 90
+    speaker: Heska
+  - uid: u2758
+    start: 0
+    end: 8
+    speaker: Little Tony
+  - uid: u2759
+    start: 0
+    end: 33
+    speaker: Little Tony
+  - uid: u2760
+    start: 0
+    end: 82
+    speaker: Little Tony
+  - uid: u2763
+    start: 0
+    end: 6
+    speaker: Little Tony
+  - uid: u2764
+    start: 0
+    end: 52
+    speaker: Little Tony
+  - uid: u2765
+    start: 0
+    end: 17
+    speaker: Little Tony
+  - uid: u2766
+    start: 0
+    end: 12
+    speaker: Little Tony
+  - uid: u2834
+    start: 0
+    end: 8
+    speaker: Heska
+  - uid: u2841
+    start: 0
+    end: 38
+    speaker: Little Tony
+  - uid: u2842
+    start: 0
+    end: 75
+    speaker: Little Tony
+  - uid: u2845
+    start: 0
+    end: 5
+    speaker: Little Tony
+  - uid: u2847
+    start: 0
+    end: 5
+    speaker: Little Tony
+  - uid: u2848
+    start: 0
+    end: 35
+    speaker: Little Tony
+  - uid: u2885
+    start: 0
+    end: 5
+    speaker: Player
+  - uid: u2886
+    start: 0
+    end: 13
+    speaker: Player
+  - uid: u2888
+    start: 0
+    end: 39
+    speaker: Player
+  - uid: u2891
+    start: 0
+    end: 58
+    speaker: Zeno
+  - uid: u2892
+    start: 0
+    end: 64
+    speaker: Player
+  - uid: u2916
+    start: 0
+    end: 65
+    speaker: Little Tony
+  - uid: u2936
+    start: 0
+    end: 8
+    speaker: Little Tony
+  - uid: u2938
+    start: 0
+    end: 24
+    speaker: Little Tony
+  - uid: u2944
+    start: 0
+    end: 89
+    speaker: Little Tony
+  - uid: u2950
+    start: 0
+    end: 17
+    speaker: Little Tony
+  - uid: u2951
+    start: 0
+    end: 43
+    speaker: Little Tony
+  - uid: u2952
+    start: 0
+    end: 36
+    speaker: Little Tony
+  - uid: u2954
+    start: 0
+    end: 90
+    speaker: Zeno
+  - uid: u2958
+    start: 0
+    end: 67
+    speaker: Zeno
+  - uid: u2980
+    start: 0
+    end: 54
+    speaker: Sculpit
+  - uid: u2982
+    start: 0
+    end: 64
+    speaker: Sculpit
+  - uid: u3014
+    start: 0
+    end: 40
+    speaker: Little Tony
+  - uid: u3016
+    start: 0
+    end: 68
+    speaker: Little Tony
+  - uid: u3018
+    start: 0
+    end: 5
+    speaker: Little Tony
+  - uid: u3019
+    start: 0
+    end: 96
+    speaker: Little Tony
+  - uid: u3020
+    start: 137
+    end: 305
+    speaker: Little Tony
+  - uid: u3021
+    start: 0
+    end: 125
+    speaker: Little Tony
+  - uid: u3022
+    start: 0
+    end: 27
+    speaker: Little Tony
+  - uid: u3025
+    start: 0
+    end: 8
+    speaker: Little Tony
+  - uid: u3026
+    start: 0
+    end: 22
+    speaker: Little Tony
+  - uid: u3029
+    start: 0
+    end: 13
+    speaker: Little Tony
+  - uid: u3031
+    start: 0
+    end: 57
+    speaker: Little Tony
+  - uid: u3033
+    start: 0
+    end: 7
+    speaker: Player
+  - uid: u3035
+    start: 0
+    end: 51
+    speaker: Little Tony
+  - uid: u3045
+    start: 0
+    end: 11
+    speaker: Heska
+  - uid: u3049
+    start: 0
+    end: 20
+    speaker: Zeno
+  - uid: u3050
+    start: 0
+    end: 39
+    speaker: Zeno
+  - uid: u3051
+    start: 0
+    end: 28
+    speaker: Zeno
+  - uid: u3052
+    start: 0
+    end: 32
+    speaker: Zeno
+  - uid: u3053
+    start: 0
+    end: 18
+    speaker: Zeno

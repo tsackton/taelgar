@@ -1,6 +1,6 @@
 # Labyrinths of the Lost — Session 3
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: labyrinths-of-the-lost-003-source-cleaned.md
 
 ## Transcript
@@ -107,8 +107,8 @@ DM: This is, this is a narrow corridor. It's like a 5 foot wide corridor. So wha
 %% u0067:0-240, u0068:0-86 %%
 Dilion: Oh, cause you know how sometimes like a pet has like advantage on like—I honest, I don't see it on the stat blocks. I, I'm, I'm just trying to suggest that we want—it's not bad. No, for sure. Why, we can, we can let take a sort of lead cause sad to say that the mechanical dog is somewhat expendable compared to the rest of us.
 
-%% u0069:0-46, u0070:0-206 %%
-Dilion: We—sorry, sir? Alright! It's not darkfish, and yes, and I don't have dark vision. So I imagine we're also going to probably light some sort of torch if the darkness is strong enough, because, you see, there's some light coming through in this original.
+%% u0069:0-48, u0070:0-206 %%
+Dilion: We—sorry, sir? Alright! It's got darkvision, and yes, and I don't have dark vision. So I imagine we're also going to probably light some sort of torch if the darkness is strong enough, because, you see, there's some light coming through in this original.
 
 %% u0070:206-267, u0071:0-25, u0072:0-33 %%
 DM: Yeah. So as soon as you enter this corridor that leads north, this like 5 foot circular that's been dug out of the earth—
@@ -4100,10 +4100,10 @@ DM: As soon as everybody, as soon as they realize that Grimstone wasn't coming o
 %% u2142:0-54, u2143:0-3, u2144:0-29, u2145:0-65, u2146:0-51 %%
 DM: On the road down from these mountains into the valley, you say your goodbyes, make plans, split up your treasure. I'll just give everybody like a minute to wrap up their character's story however they want.
 
-%% u2147:0-71 %%
-Dilion: Do we get a Grimstone-to-Acescale Grimscale, as the new, the new boss?
+%% u2147:0-65 %%
+Dilion: Do we—do we get a Grimstone—Grimscale, as the new, the new boss?
 
-%% u2147:71-113 %%
+%% u2147:65-107 %%
 Acescale: I—yeah, I don't think I'm going back there.
 
 %% u2148:0-188 %%

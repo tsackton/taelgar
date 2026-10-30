@@ -39,3 +39,99 @@ participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-source-prepared.md
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 1965
+  issues: 1
+  artifacts:
+    original:
+      path: sources/GMT20251204-015914_Recording.transcript.vtt
+      sha256: f10308c729e43b3b00ab22795fcb129d322708c2b42a2bb14136dd166c8ac231
+    prepared:
+      path: cleaned/into-the-chasm-002-source-prepared.md
+      sha256: 6bcac4d74f4e20123942aa0347ea4576dae52534599e2483314721420c28bbef
+    cleaned:
+      path: cleaned/into-the-chasm-002-source-cleaned.md
+      sha256: 3c96a9d9b2b1d128d00ea81c2fdf4ec799fe16be02f7d5547fb41481f01ce09e
+    polishedMarkdown:
+      path: cleaned/into-the-chasm-002-transcript.md
+      sha256: cf11e97e7d36f726ce088f3b7a8330fcf9d2d0434dd8a32e66bb506fbe260ce5
+  speakerCorrections:
+  - uid: u0064
+    start: 11
+    end: 16
+    speaker: DM
+  - uid: u0103
+    start: 0
+    end: 8
+    speaker: Finnan
+  - uid: u0188
+    start: 14
+    end: 42
+    speaker: Finnan
+  - uid: u0428
+    start: 0
+    end: 43
+    speaker: DM
+  - uid: u0582
+    start: 0
+    end: 11
+    speaker: Eolo
+  - uid: u0705
+    start: 0
+    end: 55
+    speaker: Justas
+  - uid: u0774
+    start: 0
+    end: 6
+    speaker: Finnan
+  - uid: u0870
+    start: 0
+    end: 13
+    speaker: Finnan
+  - uid: u0926
+    start: 0
+    end: 13
+    speaker: Jrain
+  - uid: u0958
+    start: 0
+    end: 37
+    speaker: Finnan
+  - uid: u0961
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u1003
+    start: 0
+    end: 61
+    speaker: Finnan
+  - uid: u1305
+    start: 0
+    end: 7
+    speaker: Jrain
+  - uid: u1363
+    start: 0
+    end: 8
+    speaker: Jrain
+  - uid: u1389
+    start: 0
+    end: 29
+    speaker: Justas
+  - uid: u1581
+    start: 0
+    end: 32
+    speaker: DM
+  - uid: u1659
+    start: 0
+    end: 40
+    speaker: Ekko
+  - uid: u1874
+    start: 0
+    end: 53
+    speaker: Ekko
+  - uid: u1880
+    start: 0
+    end: 51
+    speaker: DM

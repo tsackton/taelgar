@@ -3080,7 +3080,7 @@
 [u3080 | 03:07:22.570-03:07:23.620 | DM] feeling through.
 [u3081 | 03:07:24.060-03:07:28.649 | DM] What the hell is going on with this giant ship and these beings?
 [u3082 | 03:07:28.760-03:07:31.819 | DM] And you go back to go and visit.
-[u3083 | 03:07:32.040-03:07:33.529 | DM] Shai, who is.
+[u3083 | 03:07:32.040-03:07:33.529 | DM] Aksha, who is.
 [u3084 | 03:07:33.530-03:07:34.220 | DM] still alive.
 [u3085 | 03:07:34.990-03:07:35.830 | DM] He's.
 [u3086 | 03:07:37.190-03:07:38.310 | DM] in the ship.

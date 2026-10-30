@@ -402,7 +402,7 @@
 [u0402 | 00:42:36.440-00:42:45.039 | DM] Because Heska, you know, he's all this hunter guy, mysterious and everybody. But, I agreed after he begged me. He begged me and said.
 [u0403 | 00:42:45.340-00:42:54.340 | DM] Like, he was gonna denounce me as a sister if I didn't do it. So, because of the begging, I said.
 [u0404 | 00:42:54.590-00:42:55.470 | DM] Okay.
-[u0405 | 00:42:55.780-00:42:57.950 | DM] I will do it, but only without.
+[u0405 | 00:42:55.780-00:42:57.950 | DM] I will do it, but only with him.
 [u0406 | 00:42:57.950-00:42:58.560 | Sculpit] That's it.
 [u0407 | 00:42:58.860-00:43:00.950 | DM] So, Sculpit, this is…
 [u0408 | 00:43:01.280-00:43:16.730 | DM] I know, I know that you're the advisor, and that I know that the goal here is for me to listen to your advice, but in this situation, it's more like, you're gonna do exactly what I say, and that is we're gonna have Heska be my partner.
@@ -1369,7 +1369,7 @@
 [u1369 | 01:56:22.130-01:56:26.579 | DM] Add a plus 5 to whatever your performance roll is. That was sick.
 [u1370 | 01:56:27.590-01:56:32.929 | DM] Okay, let's roll it. That's a 25 out of the gate, so a 30 total.
 [u1371 | 01:56:32.930-01:56:35.879 | DM] Wow! After, after, after you call Roska a phony.
-[u1372 | 01:56:35.880-01:56:38.070 | Heska] Like, almost a seeker roll.
+[u1372 | 01:56:35.880-01:56:38.070 | Heska] Like, almost a Seeker roll.
 [u1373 | 01:56:38.070-01:56:40.810 | DM] After, after you call Roska a phony.
 [u1374 | 01:56:40.810-01:56:49.719 | DM] like, everybody, like, erupts, and, like, Roska… Roska just, like, looks at you, and he's like… he gets down on a knee, and he's like…
 [u1375 | 01:56:50.380-01:56:55.220 | DM] He's just like, game recognizes game, that's it. He's like, I'm done.
@@ -2028,7 +2028,7 @@
 [u2028 | 02:50:17.360-02:50:20.779 | DM] And you're experiencing the last gasps and breaths.
 [u2029 | 02:50:21.410-02:50:28.810 | DM] And as you, the lying… as you, the dragonet, lying on the ground, dying, looking at the sky on fire, and these lights going out.
 [u2030 | 02:50:29.740-02:50:31.910 | DM] You can see in the distance.
-[u2031 | 02:50:32.560-02:50:51.249 | DM] small little sparks start to fly out of the sky. These little… these bright points are going out, but then these streaks of light are flying around. And you see one of these streaks of light flying closer and closer and closer to you. And you know you're gonna die soon. You know any moment this could be your last breath.
+[u2031 | 02:50:32.560-02:50:51.249 | DM] small little sparks start to fly out of the sky. These little… these bright points are going up, but then these streaks of light are flying around. And you see one of these streaks of light flying closer and closer and closer to you. And you know you're gonna die soon. You know any moment this could be your last breath.
 [u2032 | 02:50:52.080-02:50:52.910 | DM] But…
 [u2033 | 02:50:53.090-02:51:00.110 | DM] As it gets closer, you feel to yourself a little bit of, I need to stay alive, at least to see what this light is.
 [u2034 | 02:51:00.910-02:51:06.960 | DM] And the light gets closer and closer, and closer and brighter, and brighter and brighter.

@@ -38,3 +38,235 @@ participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-source-prepared.md
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2002
+  issues: 1
+  artifacts:
+    original:
+      path: sources/GMT20260109-020348_Recording.transcript.vtt
+      sha256: 6fd0e02565b36207254937eba9bb872fa248a878ca2feb60a81d29545d59ef22
+    prepared:
+      path: cleaned/into-the-chasm-004-source-prepared.md
+      sha256: c0a0e6741a2b3c99b1a0fe3692a8d40739e8ddc721b2c643a2d9344f1cbe619e
+    cleaned:
+      path: cleaned/into-the-chasm-004-source-cleaned.md
+      sha256: d651bedf864b0d9b7035f56842d875c335a08698561e375385c757ea3073e935
+    polishedMarkdown:
+      path: cleaned/into-the-chasm-004-transcript.md
+      sha256: 17050223d012d38981ec5fdd1a2c975d0b1db81e5767cfaa35b844c57367252a
+  speakerCorrections:
+  - uid: u0013
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u0061
+    start: 0
+    end: 3
+    speaker: DM
+  - uid: u0063
+    start: 0
+    end: 69
+    speaker: DM
+  - uid: u0105
+    start: 0
+    end: 100
+    speaker: DM
+  - uid: u0114
+    start: 0
+    end: 30
+    speaker: Jrain
+  - uid: u0145
+    start: 0
+    end: 39
+    speaker: DM
+  - uid: u0173
+    start: 0
+    end: 13
+    speaker: Jrain
+  - uid: u0227
+    start: 8
+    end: 56
+    speaker: DM
+  - uid: u0230
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0275
+    start: 0
+    end: 23
+    speaker: DM
+  - uid: u0292
+    start: 0
+    end: 24
+    speaker: Finnan
+  - uid: u0297
+    start: 0
+    end: 24
+    speaker: DM
+  - uid: u0312
+    start: 0
+    end: 4
+    speaker: Finnan
+  - uid: u0329
+    start: 0
+    end: 6
+    speaker: DM
+  - uid: u0360
+    start: 0
+    end: 12
+    speaker: Ekko
+  - uid: u0460
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u0488
+    start: 0
+    end: 13
+    speaker: DM
+  - uid: u0516
+    start: 0
+    end: 33
+    speaker: DM
+  - uid: u0518
+    start: 0
+    end: 19
+    speaker: DM
+  - uid: u0531
+    start: 0
+    end: 4
+    speaker: DM
+  - uid: u0533
+    start: 0
+    end: 9
+    speaker: DM
+  - uid: u0567
+    start: 0
+    end: 12
+    speaker: DM
+  - uid: u0590
+    start: 0
+    end: 43
+    speaker: Justas
+  - uid: u0595
+    start: 0
+    end: 49
+    speaker: Finnan
+  - uid: u0596
+    start: 15
+    end: 24
+    speaker: Jrain
+  - uid: u0636
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u0642
+    start: 0
+    end: 25
+    speaker: DM
+  - uid: u0653
+    start: 0
+    end: 13
+    speaker: DM
+  - uid: u0654
+    start: 10
+    end: 75
+    speaker: Justas
+  - uid: u0658
+    start: 0
+    end: 5
+    speaker: DM
+  - uid: u0703
+    start: 0
+    end: 18
+    speaker: DM
+  - uid: u0709
+    start: 0
+    end: 9
+    speaker: Finnan
+  - uid: u0712
+    start: 0
+    end: 32
+    speaker: Finnan
+  - uid: u0714
+    start: 0
+    end: 36
+    speaker: Justas
+  - uid: u0721
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u0722
+    start: 0
+    end: 7
+    speaker: DM
+  - uid: u0754
+    start: 0
+    end: 23
+    speaker: Finnan
+  - uid: u0850
+    start: 0
+    end: 18
+    speaker: Jrain
+  - uid: u0851
+    start: 0
+    end: 14
+    speaker: Jrain
+  - uid: u0861
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u0977
+    start: 0
+    end: 17
+    speaker: Justas
+  - uid: u1019
+    start: 24
+    end: 70
+    speaker: DM
+  - uid: u1038
+    start: 0
+    end: 48
+    speaker: Finnan
+  - uid: u1061
+    start: 0
+    end: 85
+    speaker: Jrain
+  - uid: u1163
+    start: 0
+    end: 10
+    speaker: DM
+  - uid: u1320
+    start: 0
+    end: 27
+    speaker: Finnan
+  - uid: u1345
+    start: 0
+    end: 50
+    speaker: DM
+  - uid: u1364
+    start: 0
+    end: 15
+    speaker: DM
+  - uid: u1442
+    start: 73
+    end: 88
+    speaker: Finnan
+  - uid: u1448
+    start: 0
+    end: 45
+    speaker: DM
+  - uid: u1640
+    start: 0
+    end: 14
+    speaker: Finnan
+  - uid: u1924
+    start: 0
+    end: 99
+    speaker: DM
+  - uid: u1975
+    start: 0
+    end: 32
+    speaker: Finnan
