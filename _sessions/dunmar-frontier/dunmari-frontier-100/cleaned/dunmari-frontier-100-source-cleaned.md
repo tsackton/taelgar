@@ -296,7 +296,7 @@
 [u0296 | 00:20:29.690-00:20:31.429 | Wellby] a little vibe.
 [u0297 | 00:20:31.550-00:20:35.039 | Wellby] you know, cabins along with the wagons filled with trade goods.
 [u0298 | 00:20:39.100-00:20:41.490 | Wellby] but also thinks and says.
-[u0299 | 00:20:45.090-00:20:47.530 | Wellby] beyond all of those {{this was my fault}}.
+[u0299 | 00:20:45.090-00:20:47.530 | Wellby] beyond all of those this was my home.
 [u0300 | 00:20:47.780-00:20:50.130 | Wellby] and remembers thinking back
 [u0301 | 00:20:50.790-00:20:51.820 | Wellby] to
 [u0302 | 00:20:51.880-00:20:56.460 | Wellby] all the different times, with a map spread out on the table in front of him
@@ -1335,7 +1335,7 @@
 [u1335 | 01:24:38.200-01:24:40.780 | Kenzo] We we just like, stand there and then we're like, Ha, ha!
 [u1336 | 01:24:41.080-01:24:44.559 | Kenzo] 3 greater than one. And then it's over. Right?
 [u1337 | 01:24:45.620-01:24:46.360 | Kenzo] Okay.
-[u1338 | 01:24:46.360-01:24:56.563 | DM] I mean, if you didn't want the piece of jade you could just try and close the portal. {{At least you could trapped on the other side.}} That's certainly the case, but but jade would then be trapped on the other side with them.
+[u1338 | 01:24:46.360-01:24:56.563 | DM] I mean, if you didn't want the piece of jade you could just try and close the portal. At least you could trap him on the other side. That's certainly the case, but but jade would then be trapped on the other side with them.
 [u1339 | 01:24:56.940-01:24:57.600 | Kenzo] Hmm
 [u1340 | 01:24:58.060-01:24:58.850 | Kenzo] so.
 [u1341 | 01:24:59.860-01:25:00.520 | Wellby] So
@@ -1386,7 +1386,7 @@
 [u1386 | 01:27:20.200-01:27:20.680 | Kenzo] Oh, yeah.
 [u1387 | 01:27:20.680-01:27:24.359 | DM] Using Azar as his. That's right.
 [u1388 | 01:27:24.360-01:27:24.974 | Delwath] And we don't.
-[u1389 | 01:27:25.180-01:27:28.185 | Kenzo] {{Mile and a sample of it}}, and then, like came chasing after it.
+[u1389 | 01:27:25.180-01:27:28.185 | Kenzo] Ryu had a sample of it, and then, like came chasing after it.
 [u1390 | 01:27:28.400-01:27:28.890 | Delwath] Don't know.
 [u1391 | 01:27:28.890-01:27:29.240 | DM] He's.
 [u1392 | 01:27:29.240-01:27:30.690 | Delwath] Gazankoa, is.

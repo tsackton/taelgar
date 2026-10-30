@@ -2,6 +2,8 @@
 
 Decisions awaiting review: 2.
 
+**Audio review queue:** Deferred at the user’s request until the end, alongside Sessions 64 and 92. Both questions remain pending; no proposals are accepted.
+
 Review one session at a time. Resolve each item as `proposed`, `alternative 1`, `correction`, or `retain`; leave undecided items `pending`. A correction replaces only the indicated target. Retain preserves the original uncertainty.
 
 %% transcript-review:v1 {"version": 1, "title": "Dunmari Frontier — Session 99", "artifacts": {"original": "sources/GMT20240517-003545_Recording.transcript.vtt", "prepared": "cleaned/dunmari-frontier-099-source-prepared.md", "cleaned": "cleaned/dunmari-frontier-099-source-cleaned.md", "polishedMarkdown": "cleaned/dunmari-frontier-099-transcript.md", "sessionMetadata": "cleaned/dunmari-frontier-099-session.yaml"}, "hashes": {"sources/GMT20240517-003545_Recording.transcript.vtt": "66924d4ba229e443cb7e1ff0d11f7dcdd7b05f8481811eb2ff14647d14e4f7a5", "cleaned/dunmari-frontier-099-source-prepared.md": "521b3c9eba08897174a4629807b9dc2f79b5439abbbc00324c4745795a87aba1", "cleaned/dunmari-frontier-099-source-cleaned.md": "3d87492840c763bb6587b53dc7955ad834093f119f34b2e79920773cb901609f", "cleaned/dunmari-frontier-099-transcript.md": "d2c896927ae48c315fde2b1ae00bc063f84152280f1d446e0737f0010963e7f3", "cleaned/dunmari-frontier-099-session.yaml": "7b8ba64d9e8cedb13a2069a4c9bf9321f1aee1f6dea259cc61b9f94e02187fda"}, "qualityComplete": true, "revisionActive": false, "retainedIssues": 0, "uncertainty": true} %%

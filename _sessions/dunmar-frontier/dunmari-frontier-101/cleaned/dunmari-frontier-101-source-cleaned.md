@@ -2959,7 +2959,7 @@
 [u2959 | 02:41:07.920-02:41:09.500 | Delwath] I'm gonna try Elvish.
 [u2960 | 02:41:11.820-02:41:12.730 | DM] Nothing.
 [u2961 | 02:41:13.920-02:41:14.640 | Delwath] Or
-[u2962 | 02:41:16.700-02:41:17.980 | Delwath] {{a summon}}.
+[u2962 | 02:41:16.700-02:41:17.980 | Delwath] Sylvan.
 [u2963 | 02:41:18.340-02:41:20.567 | Kenzo] Can you text it to me, Bab? The correct one.
 [u2964 | 02:41:21.510-02:41:22.235 | DM] Nope.
 [u2965 | 02:41:24.270-02:41:25.060 | DM] then.
@@ -3464,7 +3464,7 @@
 [u3464 | 03:12:41.400-03:12:45.669 | DM] We had a whole discussion about this while you were getting food, and the decision was
 [u3465 | 03:12:46.860-03:12:49.369 | DM] advantage of getting Milo 1st is that
 [u3466 | 03:12:49.820-03:12:53.990 | DM] it preserves the option to smash and grab, to grab the jade, and
-[u3467 | 03:12:54.090-03:12:59.389 | DM] immediately flee with the Rainbow bridge without having to kill {{layer}}.
+[u3467 | 03:12:54.090-03:12:59.389 | DM] immediately flee with the Rainbow bridge without having to kill Buruli.
 [u3468 | 03:12:59.390-03:13:00.529 | Seeker] I I think that.
 [u3469 | 03:13:00.530-03:13:01.239 | Kenzo] That makes sense.
 [u3470 | 03:13:01.240-03:13:01.630 | Seeker] Yeah.
@@ -3633,7 +3633,7 @@
 [u3633 | 03:23:22.440-03:23:24.160 | DM] I mean, Wellby charges forwards.
 [u3634 | 03:23:24.160-03:23:25.600 | Delwath] I'll follow Wellby.
 [u3635 | 03:23:25.600-03:23:26.030 | DM] Okay.
-[u3636 | 03:23:26.030-03:23:27.210 | Seeker] Seeker {{doesn't charge us}}.
+[u3636 | 03:23:26.030-03:23:27.210 | Seeker] Seeker just charges.
 [u3637 | 03:23:27.210-03:23:28.170 | DM] So Seeker goes, and.
 [u3638 | 03:23:28.170-03:23:28.770 | Riswynn] Yeah. Everybody's.
 [u3639 | 03:23:28.770-03:23:29.649 | DM] Going through

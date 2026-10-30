@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 103
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-103-source-cleaned.md
 
 ## Transcript
@@ -3659,8 +3659,8 @@ DM: On a river.
 %% u2547:0-5 %%
 Delwath: Okay.
 
-%% u2548:0-52, u2549:0-3, u2550:0-13 %%
-DM: Fancy dock, like it’s completely overgrown by jungle. But— {{at Frank.}}
+%% u2548:0-52, u2549:0-3, u2550:0-11 %%
+DM: Fancy dock, like it’s completely overgrown by jungle. But— Drankorian.
 
 %% u2551:0-66 %%
 Delwath: Of course, is this, I mean, does this look like a Drankorian dock?
@@ -4316,8 +4316,8 @@ Seeker: That is.
 %% u2960:0-66 %%
 Kenzo: Piece. Yeah. Oh, we have to fight ourselves to get the last piece.
 
-%% u2961:0-58 %%
-DM: {{Wow! That looks like a mute.}} It’s like 300 miles. But—
+%% u2961:0-55 %%
+DM: Well, that’s quite a commute. It’s like 300 miles. But—
 
 %% u2962:0-8 %%
 Seeker: So true.

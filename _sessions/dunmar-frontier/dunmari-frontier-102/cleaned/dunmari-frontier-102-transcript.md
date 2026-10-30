@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 102
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-102-source-cleaned.md
 
 ## Transcript
@@ -4349,8 +4349,8 @@ Kenzo: So can I, like— well, first, first I'll—
 %% u2777:0-38 %%
 DM: It was an 8th level spell, by the way.
 
-%% u2778:0-17, u2779:0-16 %%
-Kenzo: First, I’ll soul {{Play}} Buruli.
+%% u2778:0-17, u2779:0-13 %%
+Kenzo: First, I’ll soul sight Buruli.
 
 %% u2780:0-11, u2781:0-11, u2782:0-40, u2783:0-39 %%
 DM: Okay, he is 15th level. He is good at constitution and charisma. He is bad at strength and intelligence.
@@ -5585,8 +5585,8 @@ Kenzo: Like a large.
 %% u3452:0-8 %%
 Seeker: Amazing.
 
-%% u3453:0-172 %%
-DM: {{Thinker}} tosses it, and it just goes flying wild, and Kenzo, despite being restrained, just gets his arm up and loops the amulet around his arm and slips it on his hand.
+%% u3453:0-167 %%
+DM: Seeker tosses it, and it just goes flying wild, and Kenzo, despite being restrained, just gets his arm up and loops the amulet around his arm and slips it on his hand.
 
 %% u3454:0-3, u3455:0-19, u3456:0-20, u3457:0-36, u3458:0-20, u3459:0-21 %%
 DM: And the tentacles part. And as that happens, a whirlpool appears in front of you, and Buruli teleports to right next to you.

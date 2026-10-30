@@ -2776,7 +2776,7 @@
 [u2776 | 02:41:25.510-02:41:27.260 | Kenzo] well first, first I'll.
 [u2777 | 02:41:27.260-02:41:29.490 | DM] It was an 8th level spell. By the way.
 [u2778 | 02:41:30.460-02:41:31.170 | DM] first, I’ll soul.
-[u2779 | 02:41:31.170-02:41:33.250 | Kenzo] {{Play}} Buruli.
+[u2779 | 02:41:31.170-02:41:33.250 | Kenzo] Sight Buruli.
 [u2780 | 02:41:34.040-02:41:35.960 | DM] Okay, he is
 [u2781 | 02:41:36.490-02:41:37.890 | DM] 15th level.
 [u2782 | 02:41:40.640-02:41:44.280 | DM] He is good at constitution and charisma.
@@ -3450,7 +3450,7 @@
 [u3450 | 03:16:45.400-03:16:45.980 | DM] Got that.
 [u3451 | 03:16:46.330-03:16:46.810 | Kenzo] Like a large.
 [u3452 | 03:16:46.810-03:16:47.310 | Seeker] Amazing.
-[u3453 | 03:16:47.310-03:16:57.929 | DM] {{Thinker}} tosses it, and it just goes flying wild, and Kenzo, despite being restrained, just gets his arm up and loops the amulet around his arm and slips it on his hand.
+[u3453 | 03:16:47.310-03:16:57.929 | DM] Seeker tosses it, and it just goes flying wild, and Kenzo, despite being restrained, just gets his arm up and loops the amulet around his arm and slips it on his hand.
 [u3454 | 03:16:59.450-03:17:00.250 | DM] and
 [u3455 | 03:17:00.440-03:17:02.100 | DM] the tentacles part.
 [u3456 | 03:17:02.820-03:17:04.640 | DM] and as that happens.
