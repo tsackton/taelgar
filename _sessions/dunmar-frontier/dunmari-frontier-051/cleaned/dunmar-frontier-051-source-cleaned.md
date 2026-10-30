@@ -953,15 +953,15 @@
 [u0953 | 00:46:27.524-00:46:28.764 | Kenzo] Marcilla, whatever her name was
 [u0954 | 00:46:28.844-00:46:28.964 | DM] Yeah
 [u0955 | 00:46:28.964-00:46:29.244 | Kenzo] Can we say it?
-[u0956 | 00:46:29.244-00:46:31.544 | Delwath] Voix, D and Dane
+[u0956 | 00:46:29.244-00:46:31.544 | Delwath] Vola, Dee and Dain
 [u0957 | 00:46:31.564-00:46:32.484 | Seeker] Ulfgar
 [u0958 | 00:46:32.484-00:46:33.044 | DM] Ulfgar
 [u0959 | 00:46:34.904-00:46:35.204 | Kenzo] You guys
 [u0960 | 00:46:36.664-00:46:38.544 | Delwath] Those are the only people we know in Chardon really
 [u0961 | 00:46:39.104-00:46:41.364 | Kenzo] Um, well, then there's the, the guy that we've...
 [u0962 | 00:46:41.364-00:46:44.284 | Kenzo] He's kind of low level though, the dude, the dude, dude with the jade statue book
-[u0963 | 00:46:45.864-00:46:46.263 | DM] Nias
-[u0964 | 00:46:47.263-00:46:49.184 | Kenzo] Yeah, Nias. He's not very well regarded though
+[u0963 | 00:46:45.864-00:46:46.263 | DM] Gnaeus
+[u0964 | 00:46:47.263-00:46:49.184 | Kenzo] Yeah, Gnaeus. He's not very well regarded though
 [u0965 | 00:46:51.504-00:46:59.904 | DM] Yeah. So are you gonna head so- or is the plan in the morning to go south to Arkad to send letters or continue and send letters from Arendum?
 [u0966 | 00:47:00.704-00:47:01.664 | Wellby] Arendum is the square?
 [u0967 | 00:47:01.924-00:47:02.304 | DM] Arendum is the square
@@ -1703,7 +1703,7 @@
 [u1703 | 01:25:03.787-01:25:05.567 | DM] supposedly worship Rai.
 [u1704 | 01:25:05.567-01:25:07.607 | Delwath] They live deep in the interior of the wood.
 [u1705 | 01:25:08.647-01:25:12.447 | DM] And then there's the Baz'aku who trade with Chardon,
-[u1706 | 01:25:13.207-01:25:14.887 | DM] according to Nias, and
+[u1706 | 01:25:13.207-01:25:14.887 | DM] according to Gnaeus, and
 [u1707 | 01:25:15.687-01:25:20.307 | DM] often you will s- I mean, he just found a guide in Arendum.
 [u1708 | 01:25:20.307-01:25:21.967 | DM] I mean, he grew up in Arendum. He knew-
 [u1709 | 01:25:22.287-01:25:23.007 | Kenzo] Which is where we are now, right
@@ -1736,7 +1736,7 @@
 [u1736 | 01:26:21.807-01:26:22.627 | DM] Baz'aku.
 [u1737 | 01:26:22.627-01:26:25.627 | Delwath] Baz'aku. The Baz'aku people trade with Chardon.
 [u1738 | 01:26:26.367-01:26:28.467 | Delwath] They must have villages along the river.
-[u1739 | 01:26:28.547-01:26:31.247 | Seeker] And, and Nias' information is from 20 years ago.
+[u1739 | 01:26:28.547-01:26:31.247 | Seeker] And, and Gnaeus' information is from 20 years ago.
 [u1740 | 01:26:31.387-01:26:31.667 | DM] Yeah,
 [u1741 | 01:26:32.967-01:26:33.747 | DM] 20, 25 years ago.
 [u1742 | 01:26:33.807-01:26:35.727 | Seeker] So things are likely to have changed.
@@ -1904,7 +1904,7 @@
 [u1904 | 01:34:12.855-01:34:15.695 | Kenzo] Hey, Tim, uh, in the book, does it describe like the...
 [u1905 | 01:34:15.695-01:34:20.315 | Kenzo] For the three different tribes, does it describe like their look, their garb, their customs, anything?
 [u1906 | 01:34:20.335-01:34:21.495 | Kenzo] Any of that type of information in the book?
-[u1907 | 01:34:21.555-01:34:26.355 | DM] So the way Nias describes it is they are like
+[u1907 | 01:34:21.555-01:34:26.355 | DM] So the way Gnaeus describes it is they are like
 [u1908 | 01:34:27.475-01:34:29.075 | DM] big, strong people,
 [u1909 | 01:34:30.335-01:34:31.975 | DM] often red or blonde hair,
 [u1910 | 01:34:33.115-01:34:34.755 | DM] carry colorful shields,

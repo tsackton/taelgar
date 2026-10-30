@@ -1,6 +1,6 @@
 # Dunmar Frontier — Session 51
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmar-frontier-051-source-cleaned.md
 
 ## Transcript
@@ -1733,8 +1733,8 @@ DM: Yeah.
 %% u0955:0-14 %%
 Kenzo: Can we say it?
 
-%% u0956:0-16 %%
-Delwath: Voix, D and Dane.
+%% u0956:0-18 %%
+Delwath: Vola, Dee and Dain.
 
 %% u0957:0-6 %%
 Seeker: Ulfgar.
@@ -1751,11 +1751,11 @@ Delwath: Those are the only people we know in Chardon really.
 %% u0961:0-49, u0962:0-81 %%
 Kenzo: Um, well, then there's the, the guy that we've... He's kind of low level though, the dude, the dude, dude with the jade statue book.
 
-%% u0963:0-4 %%
-DM: Nias.
+%% u0963:0-6 %%
+DM: Gnaeus.
 
-%% u0964:0-46 %%
-Kenzo: Yeah, Nias. He's not very well regarded though.
+%% u0964:0-48 %%
+Kenzo: Yeah, Gnaeus. He's not very well regarded though.
 
 %% u0965:0-141 %%
 DM: Yeah. So are you gonna head so- or is the plan in the morning to go south to Arkad to send letters or continue and send letters from Arendum?
@@ -3062,8 +3062,8 @@ DM: Uh, he describes there's, there's three, um, major like groups or tribes of 
 %% u1704:0-43 %%
 Delwath: They live deep in the interior of the wood.
 
-%% u1705:0-52, u1706:0-22, u1707:0-59, u1708:0-39 %%
-DM: And then there's the Baz'aku who trade with Chardon, according to Nias, and often you will s- I mean, he just found a guide in Arendum. I mean, he grew up in Arendum. He knew-
+%% u1705:0-52, u1706:0-24, u1707:0-59, u1708:0-39 %%
+DM: And then there's the Baz'aku who trade with Chardon, according to Gnaeus, and often you will s- I mean, he just found a guide in Arendum. I mean, he grew up in Arendum. He knew-
 
 %% u1709:0-32 %%
 Kenzo: Which is where we are now, right?
@@ -3125,8 +3125,8 @@ DM: It's the Te'kula are the ones who live in the woods. Oh, no. Sorry. B- Baz'a
 %% u1737:0-47, u1738:0-40 %%
 Delwath: Baz'aku. The Baz'aku people trade with Chardon. They must have villages along the river.
 
-%% u1739:0-48 %%
-Seeker: And, and Nias' information is from 20 years ago.
+%% u1739:0-50 %%
+Seeker: And, and Gnaeus' information is from 20 years ago.
 
 %% u1740:0-5, u1741:0-17 %%
 DM: Yeah, 20, 25 years ago.
@@ -3434,8 +3434,8 @@ Delwath: Yeah.
 %% u1904:0-55, u1905:0-102, u1906:0-44 %%
 Kenzo: Hey, Tim, uh, in the book, does it describe like the... For the three different tribes, does it describe like their look, their garb, their customs, anything? Any of that type of information in the book?
 
-%% u1907:0-45, u1908:0-19, u1909:0-25, u1910:0-23, u1911:0-9, u1912:0-26, u1913:0-53 %%
-DM: So the way Nias describes it is they are like big, strong people, often red or blonde hair, carry colorful shields, wear like furs and hide armor and... Well, not so much furs here, but like buckskin, hide.
+%% u1907:0-47, u1908:0-19, u1909:0-25, u1910:0-23, u1911:0-9, u1912:0-26, u1913:0-53 %%
+DM: So the way Gnaeus describes it is they are like big, strong people, often red or blonde hair, carry colorful shields, wear like furs and hide armor and... Well, not so much furs here, but like buckskin, hide.
 
 %% u1914:0-28 %%
 Kenzo: What language do they speak?

@@ -250,7 +250,7 @@
 [u0250 | 00:21:05.440-00:21:07.969 | Rothfis] He looked around and he said it. So it
 [u0251 | 00:21:08.490-00:21:13.530 | Rothfis] so succeed or fail, we get to go home. I
 [u0252 | 00:21:13.800-00:21:19.540 | Rothfis] are any of you here? Not not by our own will, I
-[u0253 | 00:21:21.620-00:21:27.190 | Rothfis] I thought I didn't ever think I'd have to pay {{it that to my x-y face}}.
+[u0253 | 00:21:21.620-00:21:27.190 | Rothfis] I thought I didn't ever think I'd have to pay a debt to my ex-wife's family.
 [u0254 | 00:21:27.460-00:21:31.059 | Rothfis] I just want to go home to my tavern, and
 [u0255 | 00:21:36.340-00:21:39.410 | Merash] I think that uh, Rothfis is kind of
 [u0256 | 00:21:39.970-00:21:51.790 | Merash] outburst there. Merash had her hand out, and was just about to touch the wispy, ephemeral drop that had been going towards her.
@@ -1310,7 +1310,7 @@
 [u1310 | 01:50:44.270-01:50:46.520 | DM] I told him it was nonsense
 [u1311 | 01:50:50.140-01:50:51.740 | DM] stories
 [u1312 | 01:50:54.740-01:50:56.520 | DM] his imagination,
-[u1313 | 01:50:58.500-01:51:04.899 | DM] Dworic encouraged. Did he like the stories? He knew they weren't real
+[u1313 | 01:50:58.500-01:51:04.899 | DM] Dworic encouraged it. He liked the stories? He knew they weren't real
 [u1314 | 01:51:11.920-01:51:13.790 | DM] Tak, said they weren't
 [u1315 | 01:51:13.810-01:51:15.040 | DM] ran.
 [u1316 | 01:51:17.510-01:51:18.580 | Thror] Come back.
@@ -1735,7 +1735,7 @@
 [u1735 | 02:32:11.940-02:32:13.590 | Merash] Um,
 [u1736 | 02:32:17.910-02:32:20.490 | DM] Okay. So one hand axe
 [u1737 | 02:32:21.390-02:32:23.699 | Merash] and then
-[u1738 | 02:32:24.800-02:32:30.840 | Merash] and then i'm going to use my second attack to throw my handaxe again. Because I have {{a zoom}}
+[u1738 | 02:32:24.800-02:32:30.840 | Merash] and then i'm going to use my second attack to throw my handaxe again. Because I have two
 [u1739 | 02:32:38.190-02:32:41.670 | DM] nineteen. Hits sorry it's not a crit.
 [u1740 | 02:32:43.610-02:32:44.830 | Merash] Yes,
 [u1741 | 02:32:48.010-02:32:52.299 | DM] and so another eight. Okay. So the two hand axes plunge into this one

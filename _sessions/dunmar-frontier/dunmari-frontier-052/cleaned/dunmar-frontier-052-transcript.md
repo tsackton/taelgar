@@ -1,6 +1,6 @@
 # Dunmar Frontier — Session 52
 
-- Status: Some passages need review
+- Status: Complete
 - Source Transcript: dunmar-frontier-052-source-cleaned.md
 
 ## Transcript
@@ -426,8 +426,8 @@ DM: Wow.
 %% u0266:0-8, u0267:0-114 %%
 Kenzo: Wait, so what else, like, uh, based on the Chardonian insignias and stuff like that, like is there any sense of, like, era?
 
-%% u0268:0-45, u0269:0-14, u0270:0-117, u0271:0-11, u0272:0-128, u0273:0-58, u0274:0-104 %%
-DM: This is like Great War era. I mean, you know, there was a... Uh, Nias told you, and y- you would've, some of you would probably know the, Seeker would certainly know the history.
+%% u0268:0-45, u0269:0-14, u0270:0-119, u0271:0-11, u0272:0-128, u0273:0-58, u0274:0-104 %%
+DM: This is like Great War era. I mean, you know, there was a... Uh, Gnaeus told you, and y- you would've, some of you would probably know the, Seeker would certainly know the history.
 
 There was a conclave of dragons after that in the sort of blood years after Cha'mutte fell that led hobgoblin armies through the forests and were finally defeated, um, about 50 miles east of Chardon. And that was what basically drove the Deno'qai that used to live here out of the forest for generations.
 
@@ -8692,8 +8692,8 @@ Unknown: [laughing]
 %% u4248:0-66 %%
 Kenzo: His corpse dragged, dragged through a swamp where he ran to death.
 
-%% u4249:0-22, u4250:0-30, u4251:0-5 %%
-DM: Laston, I, I know him. I fought with him in the wars. Pete-
+%% u4249:0-24, u4250:0-30, u4251:0-5 %%
+DM: Last one, I, I know him. I fought with him in the wars. Pete-
 
 %% u4252:0-28, u4253:0-6 %%
 Wellby: [laughs] His horrible death. Sorry.

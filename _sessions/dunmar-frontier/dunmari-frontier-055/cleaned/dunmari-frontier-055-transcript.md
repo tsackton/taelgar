@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 55
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-055-source-cleaned.md
 
 ## Transcript
@@ -320,8 +320,8 @@ Aristaea: And this doesn't ring.
 %% u0208:0-60, u0209:0-42 %%
 DM: A bell like you know, that there is a fire giant that fought in this battle, supposedly against Taraka.
 
-%% u0210:0-54 %%
-Delwath: Taraka we did fleet Naka died as far as being trapped.
+%% u0210:0-57 %%
+Delwath: Taraka really did flee, not die, as far as being trapped.
 
 %% u0211:0-69 %%
 Aristaea: Yeah, maybe getting trapped in a parallel dimension counts as fleeing.
@@ -416,8 +416,8 @@ Iascaire: Or.
 %% u0282:0-24 %%
 Aristaea: It's not a one way trip?
 
-%% u0283:0-162 %%
-Iascaire: Maybe they're hungry, we could set up a campfire I could cook some fish, we could waft that smoke in the darkness and perhaps the hobgoblins would come [garbled].
+%% u0283:0-160 %%
+Iascaire: Maybe they're hungry, we could set up a campfire I could cook some fish, we could waft that smoke in the darkness and perhaps the hobgoblins would come running.
 
 %% u0284:0-22 %%
 Delwath: Nobody has any planar.
@@ -437,8 +437,8 @@ Delwath: No, I could get us back.
 %% u0291:0-5, u0292:0-5 %%
 Iascaire: Yeah. Okay.
 
-%% u0293:0-111 %%
-Aristaea: If we're in the shadows and you banish yourself from the shadows will end up in the {{pit before us and said}}?
+%% u0293:0-106 %%
+Aristaea: If we're in the shadows and you banish yourself from the shadows will end up in the creepy forest instead?
 
 %% u0294:0-4 %%
 Unknown: Yep.
@@ -3683,8 +3683,8 @@ Delwath: I mean, I got it might be nice if somebody dropped some fire, so that I
 %% u2309:0-37 %%
 Iascaire: The wall of fire goes down if I drop.
 
-%% u2310:0-36 %%
-Delwath: I know, but if I drop Fly, the flag.
+%% u2310:0-37 %%
+Delwath: I know, but if I drop Fly, they fall.
 
 %% u2311:0-16, u2312:0-5 %%
 DM: I'm coming here okay.

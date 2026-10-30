@@ -1972,7 +1972,7 @@
 [u1972 | 02:58:57.360-02:59:01.020 | Delwath] I can't dispel I know where it only has one charge.
 [u1973 | 02:59:01.500-02:59:01.740 | Delwath] I can.
 [u1974 | 02:59:02.340-02:59:04.440 | Delwath] Instead of banish is just as good as.
-[u1975 | 02:59:07.980-02:59:08.850 | Delwath] Christmas Eve either way.
+[u1975 | 02:59:07.980-02:59:08.850 | Delwath] Charisma save either way.
 [u1976 | 02:59:10.170-02:59:11.220 | DM] circle.
 [u1977 | 02:59:14.610-02:59:14.850 | Delwath] it's.
 [u1978 | 02:59:15.120-02:59:15.750 | DM] Actually, not.
@@ -2498,7 +2498,7 @@
 [u2498 | 03:33:30.570-03:33:34.230 | DM] giant trees don't have great Dex 13.
 [u2499 | 03:33:38.070-03:33:40.260 | DM] that's got a minus two Dex, seven.
 [u2500 | 03:33:43.140-03:33:59.490 | DM] The swarm only has two points left so it's gone so well thousand okay Dex the wolf the wolf rolled an 18 so the wolf takes half damage the swarm is gone the tree is looking badly hurt as it burst into flames a.
-[u2501 | 03:33:59.490-03:34:00.840 | Delwath] Big tree or the little town.
+[u2501 | 03:33:59.490-03:34:00.840 | Delwath] Big tree or the little tree.
 [u2502 | 03:34:01.140-03:34:06.450 | DM] The big tree the little tree is blown away completely.
 [u2503 | 03:34:07.740-03:34:08.130 | Iascaire] Sweet.
 [u2504 | 03:34:09.540-03:34:09.960 | Iascaire] The.

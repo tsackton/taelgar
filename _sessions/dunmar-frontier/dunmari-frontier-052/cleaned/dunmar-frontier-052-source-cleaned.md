@@ -267,7 +267,7 @@
 [u0267 | 00:14:10.396-00:14:14.895 | Kenzo] what else, like, uh, based on the Chardonian insignias and stuff like that, like is there any sense of, like, era?
 [u0268 | 00:14:15.076-00:14:17.055 | DM] This is like Great War era. I mean, you know,
 [u0269 | 00:14:18.096-00:14:18.876 | DM] there was a...
-[u0270 | 00:14:20.696-00:14:26.796 | DM] Uh, Nias told you, and y- you would've, some of you would probably know the, Seeker would certainly know the history.
+[u0270 | 00:14:20.696-00:14:26.796 | DM] Uh, Gnaeus told you, and y- you would've, some of you would probably know the, Seeker would certainly know the history.
 [u0271 | 00:14:27.436-00:14:28.296 | DM] There was a
 [u0272 | 00:14:29.716-00:14:39.736 | DM] conclave of dragons after that in the sort of blood years after Cha'mutte fell that led hobgoblin armies through the forests and
 [u0273 | 00:14:39.736-00:14:44.236 | DM] were finally defeated, um, about 50 miles east of Chardon.
@@ -4246,7 +4246,7 @@
 [u4246 | 02:41:56.217-02:41:58.617 | Wellby] Oh, and him maimed and then eaten.
 [u4247 | 02:41:58.617-02:42:00.177 | Unknown] [laughing]
 [u4248 | 02:42:00.217-02:42:03.537 | Kenzo] His corpse dragged, dragged through a swamp where he ran to death.
-[u4249 | 02:42:05.077-02:42:07.117 | DM] Laston, I, I know him.
+[u4249 | 02:42:05.077-02:42:07.117 | DM] Last one, I, I know him.
 [u4250 | 02:42:07.117-02:42:08.717 | DM] I fought with him in the wars.
 [u4251 | 02:42:11.177-02:42:11.337 | DM] Pete-
 [u4252 | 02:42:11.337-02:42:14.157 | Wellby] [laughs] His horrible death.

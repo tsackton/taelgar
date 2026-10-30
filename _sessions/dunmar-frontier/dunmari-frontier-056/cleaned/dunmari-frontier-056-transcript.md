@@ -1,6 +1,6 @@
 # Dunmari Frontier — Session 56
 
-- Status: Some passages need review
+- Status: Complete with retained uncertainty
 - Source Transcript: dunmari-frontier-056-source-cleaned.md
 
 ## Transcript
@@ -170,8 +170,8 @@ DM: Obviously, even if it would, even if you think your character would just lea
 %% u0237:0-3, u0238:0-12, u0239:0-15, u0240:0-13, u0241:0-14, u0242:0-15, u0243:0-35, u0244:0-21, u0245:0-16, u0246:0-13, u0247:0-62 %%
 DM: Ah! And then, um, the images fade and the water turns to mist, and you can see through the mists, um, a muddy river, cliff, jagged cliffs, a shadowy realm, and the gods, the voice of the gods fades and leaves you to your companions.
 
-%% u0248:0-10, u0249:0-152, u0250:0-38, u0251:0-40, u0252:0-47, u0253:0-73, u0254:0-40 %%
-Rothfis: Ah! During everything that just transpired, Rothfis would have uncorked the keg and poured himself a drink and had it, and poured himself another drink and had it. He looked around and he said it. So it— so succeed or fail, we get to go home. I— are any of you here not, not by our own will? I— I thought, I didn't ever think I'd have to pay {{it that to my x-y face}}. I just want to go home to my tavern, and—
+%% u0248:0-10, u0249:0-152, u0250:0-38, u0251:0-40, u0252:0-47, u0253:0-76, u0254:0-40 %%
+Rothfis: Ah! During everything that just transpired, Rothfis would have uncorked the keg and poured himself a drink and had it, and poured himself another drink and had it. He looked around and he said it. So it— so succeed or fail, we get to go home. I— are any of you here not, not by our own will? I— I thought, I didn't ever think I'd have to pay a debt to my ex-wife's family. I just want to go home to my tavern, and—
 
 %% u0255:0-35, u0256:0-127, u0257:0-70, u0258:0-78, u0259:0-17, u0260:0-7, u0261:0-27, u0262:0-28, u0263:0-32, u0264:0-26, u0265:0-96 %%
 Merash: I think that, uh, Rothfis is kind of outburst there. Merash had her hand out, and was just about to touch the wispy, ephemeral drop that had been going towards her. It glinted on the blade of her knife, and before she could do anything she sort of snapped out of it, and just sort of looks around at this and goes, "This is something I never thought would come to pass, and I don't want to be here. I don't want to fulfill my debt," but the mists just sort of have fallen into this muddy river, jagged cliff mirage, and she just is lost and looks defeated.
@@ -1212,7 +1212,7 @@ Merash: How long ago did your boy last leave from here?
 DM: Almost four days? He's never been gone more than two before, said he had found somebody to the North talking about other worlds stories from a battle. I haven't fought any battles. Sounded like the mad priest.
 
 %% u1308:0-1, u1309:0-16, u1310:0-26, u1311:0-7, u1312:0-16, u1313:0-69, u1314:0-22, u1315:0-4 %%
-DM: I— I yelled at him. I told him it was nonsense, stories his imagination. Dworic encouraged. Did he like the stories? He knew they weren't real. Tak said they weren't, ran.
+DM: I— I yelled at him. I told him it was nonsense, stories his imagination. Dworic encouraged it. He liked the stories. He knew they weren't real. Tak said they weren't, ran.
 
 %% u1316:0-10 %%
 Thror: Come back.
@@ -1661,8 +1661,8 @@ Merash: Um,
 %% u1736:0-21 %%
 DM: Okay. So one hand axe
 
-%% u1737:0-8, u1738:0-95 %%
-Merash: And then, and then I'm going to use my second attack to throw my handaxe again. Because I have {{a zoom}}.
+%% u1737:0-8, u1738:0-88 %%
+Merash: And then, and then I'm going to use my second attack to throw my handaxe again. Because I have two.
 
 %% u1739:0-37 %%
 DM: Nineteen hits. Sorry, it's not a crit.
