@@ -10,7 +10,7 @@ from pathlib import Path
 from unittest import mock
 
 
-SCRIPT_PATH = Path(__file__).with_name("media_tools.py")
+SCRIPT_PATH = Path(__file__).resolve().parents[4] / '_scripts/audio_tools.py'
 SPEC = importlib.util.spec_from_file_location("media_tools_test_target", SCRIPT_PATH)
 assert SPEC and SPEC.loader
 MODULE = importlib.util.module_from_spec(SPEC)
@@ -19,6 +19,37 @@ SPEC.loader.exec_module(MODULE)
 
 
 class MediaToolsTests(unittest.TestCase):
+    def test_ffmpeg_profiles_and_original_recording_protection(self) -> None:
+        with tempfile.TemporaryDirectory() as raw_dir:
+            root=Path(raw_dir);source=root/'source.m4a';source.write_bytes(b'original')
+            backend=MODULE.MediaBackend('ffmpeg','ffmpeg')
+            def fake_run(command,**kwargs):
+                Path(command[-1]).write_bytes(b'clip')
+                return mock.Mock(returncode=0,stdout='',stderr='')
+            for profile,bitrate in [('sample','48k'),('highlight','64k')]:
+                with mock.patch.object(MODULE.subprocess,'run',side_effect=fake_run) as run:
+                    MODULE.extract_audio_clip(source,root/(profile+'.m4a'),start_seconds=2,end_seconds=5,backend=backend,profile=profile)
+                command=run.call_args.args[0]
+                self.assertEqual(command[command.index('-b:a')+1],bitrate)
+                self.assertEqual('-ar' in command,profile=='sample')
+            for start,end in [(float('nan'),5),(0,float('inf')),(-1,3),(4,2)]:
+                with self.assertRaises(MODULE.MediaToolError):
+                    MODULE.extract_audio_clip(source,root/'invalid.m4a',start_seconds=start,end_seconds=end,backend=backend)
+            with self.assertRaises(MODULE.MediaToolError):
+                MODULE.extract_audio_clip(source,source,start_seconds=0,end_seconds=1,backend=backend)
+            self.assertEqual(source.read_bytes(),b'original')
+
+    def test_verified_mapping_offsets_boundaries_and_overlapping_recordings(self) -> None:
+        with tempfile.TemporaryDirectory() as raw_dir:
+            source=Path(raw_dir)/'source.m4a';source.write_bytes(b'audio')
+            units=[dict(uid='u0001',timing='20-24'),dict(uid='u0002',timing='24-28'),dict(uid='u0003',timing='28-32')]
+            mapping=dict(startUid='u0001',endUid='u0003',audioPath=str(source),offsetSeconds=-10,verified=True)
+            with mock.patch.object(MODULE,'probe_duration',return_value=30):
+                clip=MODULE.map_audio_range(units,[mapping],'u0002',padding=10)
+                self.assertEqual((clip['start'],clip['end'],clip['targetStart']),(10,22,4))
+                for mappings in [[],[mapping,mapping],[dict(mapping,endUid='u0001'),dict(mapping,startUid='u0002')]]:
+                    with self.assertRaises(MODULE.MediaToolError):MODULE.map_audio_range(units,mappings,'u0001','u0002')
+
     def test_afinfo_duration_is_parsed(self) -> None:
         with tempfile.TemporaryDirectory() as raw_dir:
             source = Path(raw_dir) / "audio.m4a"

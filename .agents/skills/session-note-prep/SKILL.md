@@ -13,7 +13,7 @@ This is an orchestration skill.
 It does not replace the stage-specific rules in the component skills.
 At each stage, load the next skill and follow its rules strictly:
 
-- [`../transcript-cleaner/SKILL.md`](../transcript-cleaner/SKILL.md)
+- [`../process-transcript/SKILL.md`](../process-transcript/SKILL.md)
 - [`../transcript-splitter/SKILL.md`](../transcript-splitter/SKILL.md)
 - [`../beat-annotator/SKILL.md`](../beat-annotator/SKILL.md)
 - [`../session-summary/SKILL.md`](../session-summary/SKILL.md)
@@ -52,10 +52,10 @@ Prefer these canonical downstream artifact paths in `cleaned/`:
 
 Stage-specific helper artifacts may live in subdirectories under `cleaned/`, for example:
 
-- `cleanup-artifacts/`
+- `transcript-work/` (temporary; retired by process-transcript finalization)
 - `annotation-context/`
 
-Use these bundle paths in component commands rather than their illustrative output directories or prefixes. Keep beats, beat facts, chronology, scenes, summary context, and recap under `cleaned/`; use `cleaned/cleanup-artifacts/` for cleanup reports and `cleaned/annotation-context/` for extracted beat context. Where a command accepts `--file-prefix`, pass `<bundle-stem>`; where it accepts a full output filename, use the corresponding canonical path above.
+Use these bundle paths in component commands rather than their illustrative output directories or prefixes. Keep beats, beat facts, chronology, scenes, summary context, and recap under `cleaned/`; let process-transcript own its temporary work and portable review Markdown, and use `cleaned/annotation-context/` for extracted beat context. Where a command accepts `--file-prefix`, pass `<bundle-stem>`; where it accepts a full output filename, use the corresponding canonical path above.
 
 ## Modes
 
@@ -68,13 +68,13 @@ If the user does not specify a mode, default to `interactive`.
 - Make one narrow repair pass if the validator output is specific and easy to fix.
 - Do not pause for user confirmation between stages.
 - Do not ask for manual cleanup at checkpoint boundaries.
-- Still assess ASR importance and chronology. Preserve unresolved meaning as uncertainty; do not record human acceptance or edit `drStart`/`drEnd` without approval. Stop if a material ambiguity makes downstream work unreliable or chronology requires a human decision.
+- Still assess ASR importance and chronology. Complete transcript cleanup and quality review before surfacing consequential ASR questions. If process-transcript requires human decisions, stop with its portable review Markdown; auto mode cannot fabricate acceptance or bypass finalization gates. Do not edit `drStart`/`drEnd` without approval. Stop if chronology requires a human decision.
 - If a stage still has a hard blocker after the quick repair pass, stop the pipeline there and report the blocker clearly instead of pretending the next stage is reliable.
 
 ### `interactive`
 
 - Run all stages in order.
-- Complete cleanup before asking about ASR. Pause only if material unresolved issues remain; show the unresolved text, context, and judgment in chat and ask whether the uncertainty is tolerated. No issues, or only incidental chatter, means automatic continuation. Generate the optional audio correction page only if requested after this review.
+- Complete transcript cleanup, polishing, and quality review before asking about ASR. Pause only for process-transcript's consequential unresolved choices; show exact wording, the complete exchange, and a concrete proposal or recommendation to retain uncertainty. Apply actual user decisions and finalize each session before continuing. No pending decisions means automatic continuation. Requested audio review is evidence for those decisions, not a separate acceptance-state workflow.
 - Continue through beat splitting and annotation without routine approval pauses. After annotation, review chronology; pause only for discrepancies needing human input or proposed changes to session YAML dates.
 - Always present the scene proposal and date/time transition tables in chat, then wait for approval of the displayed scene split before drafting the recap. An already existing valid scene file or a supplied grouping does not bypass this review. A recorded approval of this exact displayed proposal remains valid on resume.
 - If the user edits an artifact during a checkpoint, reread it and rerun the validator before moving on.
@@ -95,14 +95,14 @@ A human-owned recap is allowed to fail the pipeline validator. Later skills may 
 
 ## Shared Rules
 
-- Honor the component skills' evidence rules and hard prohibitions, especially the ban on using files in `sources/` as correction or annotation evidence.
-- Playing verified original recordings for a requested human ASR review is permitted; archived text in `sources/` remains excluded as correction evidence.
+- Honor each component skill's evidence rules. Process-transcript may compare original and prepared references under its own contract; archived ASR wording is not independent corrective authority. Later annotation stages retain their own restrictions on `sources/`.
+- Playing verified original recordings for a requested human ASR review is permitted. Use process-transcript's [optional audio page](../process-transcript/references/audio-review.md); its answers feed the same review and application step. Standalone later edits belong to [correct-transcript](../correct-transcript/SKILL.md).
 - Never edit `drStart` or `drEnd` without approval of the specific proposed values. Scene approval is not approval to change YAML dates.
 - Treat validated downstream artifacts as the handoff between stages.
 - Do not silently weaken a stage's validation requirements just because this orchestrator is running the full pipeline.
 - Before starting a stage, check whether its expected bundle artifact already exists.
 - If an artifact already exists, validate it before trusting it.
-- If an existing artifact validates cleanly and its upstream dependencies are still current, reuse it and skip regenerating that stage. Validation alone is not human acceptance. Check saved cleanup decisions, chronology input hashes, and scene approval before bypassing their respective reviews.
+- If an existing artifact validates cleanly and its upstream dependencies are still current, reuse it and skip regenerating that stage. Validation alone is not human acceptance. Check transcript completion status, chronology input hashes, and scene approval before bypassing their respective reviews.
 - If an existing artifact fails validation, treat that stage as incomplete: repair or regenerate it, then continue forward.
 - The human-edited recap boundary above overrides these existing-artifact rules for `session_recap_md` after handoff.
 - Do not rerun completed stages just because this is a full-pipeline skill.
@@ -128,20 +128,23 @@ A human-owned recap is allowed to fail the pipeline validator. Later skills may 
    - else if `recap_scenes_json` exists and validates, verify current chronology and, in interactive mode, use `manage_recap_scenes.py --require-approval` with the full review inputs before resuming at `session-summary`; without matching approval, show the proposal tables and wait
    - else if `beat_facts_json` exists and validates, resume at the chronology review, then recap-scene proposal
    - else if `beats_json` exists and `manage_beats.py` passes, resume at `beat-annotator`
-   - else if `cleaned_transcript` exists and is structurally valid, check its materiality assessment and recorded tolerance before resuming at `transcript-splitter`; do not reopen unchanged accepted uncertainty
+   - else if `cleaned_transcript` exists, for transcript sources require process-transcript status to report `finalized: true` and `outputsCurrent: true` before resuming at `transcript-splitter`; otherwise resume Stage 1. For normalized non-transcript sources, reuse a structurally valid current cleaned source. Do not reopen unchanged accepted uncertainty
    - else start at transcript cleanup for `sourceType=transcript`, or source normalization for `sourceType=narrative|raw_notes`
 5. Create helper directories only if needed, for example:
-   - `cleaned/cleanup-artifacts/`
    - `cleaned/annotation-context/`
+
+   Process-transcript creates and retires its own work directories; do not create a new legacy `cleanup-artifacts/` review state.
 6. Run the remaining stages in order below. Before checking scene approval on resume, read [the scene-proposal procedure](references/scene-proposal.md).
 
 ## Stage 1: Upstream Source Cleanup Or Normalization
 
 Produce `cleaned/<bundle-stem>-source-cleaned.md`. If it already exists and is trustworthy under the shared resume rules, reuse it.
 
-For `sourceType=transcript`, load and follow [transcript-cleaner](../transcript-cleaner/SKILL.md), including its cleanup passes, diff-report command, structural validation, and Manual Review procedure. Use this bundle's prepared and cleaned source paths, with reports in `cleaned/cleanup-artifacts/`.
+For `sourceType=transcript`, load and follow [process-transcript](../process-transcript/SKILL.md). Inspect its status for this bundle first. Reuse current finalized references; otherwise resume or initialize from the existing session YAML and prepared source as that skill specifies. Preserve existing cleaned work through its import/resume rules rather than replacing it with a fresh copy of prepared text.
 
-Before source splitting, check the current cleanup report and acceptance state. Complete the whole cleanup before any material-ASR pause; follow the mode rules above and the cleaner's review procedure. At that pause, include changed-line and unresolved-issue counts and the cleanup summary path alongside the required source text, context, and materiality judgment. Generate the audio correction page only if the user requests it after this review. Do not reopen unchanged accepted uncertainty.
+Complete cleanup, full-session polishing, quality review, required human decisions, and finalization. The retained products are original, prepared UID, cleaned UID, polished Markdown, and session YAML. The portable review Markdown is the sole durable decision state while review remains open; do not add the retired cleaner's assessment or acceptance JSON files. Present pending decisions with exact text, complete context, and the proposed reading or explicit unresolved disposition. Apply chat or audio answers within process-transcript's review; do not route the user through another skill, repeat cleanup, or ask for the same decision again.
+
+Before source splitting, require process-transcript status to show `finalized: true` and `outputsCurrent: true`. Accepted uncertainty is compatible with completion and is not reopened. This Stage 1 requirement does not authorize retroactive processing of historical bundles already resumed from valid downstream products or human-owned recaps.
 
 For `sourceType=narrative|raw_notes`, run:
 
@@ -198,7 +201,7 @@ The run is complete when these files exist and pass their stage validations:
 - `cleaned/<bundle-stem>-session-summary-context.json`
 - `cleaned/<bundle-stem>-session-recap.md`
 
-Interactive completion also requires any material ASR uncertainty to have been resolved or accepted, and the current displayed scene grouping to have been approved. Structural validation does not substitute for these decisions. The human-owned recap boundary still applies to completed historical runs; do not retroactively rebuild them to add new review artifacts.
+For transcript sources processed through Stage 1 in this run, completion also requires current finalized process-transcript outputs, including the YAML-registered polished Markdown and completion fingerprints. Interactive completion requires consequential ASR decisions to have been resolved or explicitly retained, and the current displayed scene grouping to have been approved. Structural validation does not substitute for these decisions. The human-owned recap boundary still applies to completed historical runs; do not retroactively rebuild them to add new review artifacts.
 
 If the run stops early, report:
 

@@ -10,6 +10,11 @@ review-state file. Missing old work state is normal; never fabricate it.
 
 ## Present and record decisions
 
+Review is normally the simple chat loop: show issues with context, receive answers,
+apply them, finalize the completed session, and continue. Listening uses the optional
+[audio page](audio-review.md) as another way to collect those answers. It does not
+add a processing stage, repeat quality review, or require another approval.
+
 Read the review Markdown and relevant retained passages. Present one session at a
 time, showing original wording, proposed correction, and the complete exchange
 needed to interpret it. A proposal replaces only its exact target; adjacent speech
@@ -28,6 +33,14 @@ Record the user's actual choice in the item's **Resolution** field:
 unresolved” retains it. Use the user's intent; do not invent approval or infer an
 identity from an inconclusive clue. A confirmed noun does not by itself confirm
 speculative surrounding words. Label contextual reconstruction honestly.
+
+Audio pages save `Audio choice` and `Audio answer` fields in the same Markdown.
+The answer is a JSON-quoted string so free-form notes and line breaks round-trip.
+These fields preserve what the user entered; they do not themselves apply edits.
+Interpret `answer` in context, adopt `proposed` when selected, translate `retain`
+into retained uncertainty, and keep `defer` pending. Fill the normal decision and
+affected polished text as for chat answers. Untouched audio answers survive partial
+application. A vague clue is not approval of a speculative full reconstruction.
 
 ## Apply without the original processing queue
 
@@ -81,7 +94,15 @@ completion fingerprints and existing speaker assignments, and retires the review
 Markdown and any remaining temporary pipeline files. A human decision to retain
 uncertainty is sufficient; certainty about every spoken word is not required.
 
-For a later authorized correction to current finalized references:
+For a later standalone correction to finalized references, use
+[correct-transcript](../../correct-transcript/SKILL.md). During this review, stay in
+process-transcript: use the Markdown application above, or its shared
+`transcript_corrections.py` helper for speaker changes, turn splits, or coordinated
+display substitutions. Use one application path for each answer; the shared helper
+refuses to overwrite decisions already entered into the report. This does not add
+another skill invocation, preview/approval loop, or full-session validation pass.
+
+When new unresolved questions need their own bounded Markdown review:
 
 ```bash
 python3 -B HELPER review --bundle BUNDLE --prepare u0042 u0081

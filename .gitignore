@@ -61,7 +61,7 @@ assets/generated/
 # Source interfaces required by the reusable transcription review tools
 !.agents/skills/transcribe-session/assets/speaker-review.html
 !.agents/skills/transcribe-session/assets/speaker-audit.html
-!.agents/skills/transcript-cleaner/assets/cleanup-review.html
+!.agents/skills/process-transcript/assets/audio-review.html
 
 # Include gitignore
 !.gitignore

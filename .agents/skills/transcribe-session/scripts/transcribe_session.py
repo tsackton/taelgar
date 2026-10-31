@@ -19,7 +19,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable, Sequence
 
-from media_tools import (
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from audio_tools import (
     MediaBackend,
     MediaToolError,
     extract_audio_clip,

@@ -89,6 +89,9 @@ def read(root):
                      recommendation=field(section, 'Recommendation'), question=field(section, 'Question'),
                      resolution=field(section, 'Resolution'), correction=field(section, 'Correction', ''))
         issue['alternatives'] = re.findall(r'^\*\*Alternative \d+:\*\* (.*)$', section, re.M)
+        audio_choice = field(section, 'Audio choice', '')
+        if audio_choice:
+            issue['audio'] = dict(choice=audio_choice, text=json.loads(field(section, 'Audio answer', '""')))
         issues.append(issue)
     updates = [json.loads(m) for m in POLISH.findall(text)]
     require(len({i['id'] for i in issues}) == len(issues), 'Duplicate review issue')
@@ -140,8 +143,11 @@ def document(meta, issues, units, turns):
         for n, alternative in enumerate(issue.get('alternatives', []), 1):
             lines += [f'**Alternative {n}:** {alternative}', '']
         lines += [f"**Recommendation:** {issue['recommendation']}", '', f"**Question:** {issue['question']}", '',
-                  f"**Resolution:** {issue.get('resolution', 'pending')}", '', f"**Correction:** {issue.get('correction', '')}", '',
-                  '**Conversation context:**', '']
+                  f"**Resolution:** {issue.get('resolution', 'pending')}", '', f"**Correction:** {issue.get('correction', '')}", '']
+        if issue.get('audio'):
+            lines += [f"**Audio choice:** {issue['audio']['choice']}", '',
+                      '**Audio answer:** ' + json.dumps(issue['audio']['text'], ensure_ascii=False), '']
+        lines += ['**Conversation context:**', '']
         for u in context_units(units, issue['contextRange']):
             lines += [f"> **{u['speaker']}:** {u['text']}", '>']
         lines += ['']

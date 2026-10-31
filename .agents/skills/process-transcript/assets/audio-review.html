@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Transcript audio review</title>
+<style>
+:root{color-scheme:light dark;--bg:#f5f2eb;--card:#fffdf8;--ink:#282d29;--muted:#626b62;--line:#d9dfd4;--accent:#285e4b}
+@media(prefers-color-scheme:dark){:root{--bg:#1c211e;--card:#252c27;--ink:#f1f2eb;--muted:#b7c3b7;--line:#465247;--accent:#99cfb3}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,sans-serif}main{max-width:940px;margin:40px auto;padding:0 24px}h1{font:36px/1.15 Georgia,serif;margin-bottom:12px}h2{font-size:21px}p{margin:12px 0}.muted{color:var(--muted)}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:26px;margin:20px 0}blockquote{white-space:pre-wrap;margin:16px 0;padding:16px;border-left:3px solid var(--accent);background:var(--bg)}.context{white-space:pre-wrap}.context p{margin:8px 0}audio,textarea{width:100%}audio{margin:12px 0}textarea{min-height:115px;background:var(--bg);color:var(--ink);border:1px solid var(--line);border-radius:6px;padding:12px;font:inherit;resize:vertical}button,select{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:7px;padding:9px 13px}button{cursor:pointer;margin:8px 6px 0 0}button.primary{background:var(--accent);color:var(--bg)}button:disabled{opacity:.45;cursor:default}button:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid var(--accent);outline-offset:3px}.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.toolbar select{flex:1;min-width:180px;max-width:100%}label{display:block;margin:16px 0 6px;font-weight:600}details{border-top:1px solid var(--line);padding-top:12px;margin-top:20px}summary{cursor:pointer}#status{min-height:28px}#progress{margin-top:18px}
+</style>
+</head>
+<body><main>
+<h1>Listen and leave a correction</h1>
+<p class="muted">Your answers are saved as you go. When you’re finished, return to chat to apply them.</p>
+<div class="toolbar"><label for="jump">Passage</label><select id="jump" aria-label="Choose a passage"></select></div>
+<p id="progress" class="muted"></p><section id="card" class="card">Loading passages…</section>
+<div><button id="previous">Previous</button><button id="next">Next</button></div>
+<p id="status" role="status" aria-live="polite"></p>
+</main><script>
+const token='__REVIEW_TOKEN__';
+const state={items:[],index:0,saving:false,drafts:{},dirty:false};
+const el=id=>document.getElementById(id);
+const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const labels={answer:'Answer saved',proposed:'Proposal accepted',retain:'Leave unresolved',defer:'Deferred'};
+function remember(){const item=state.items[state.index];if(item&&el('answer'))state.drafts[item.key]=el('answer').value;}
+function render(){
+ const items=state.items,item=items[state.index];
+ const answered=items.filter(i=>i.answer&&i.answer.choice!=='defer').length,deferred=items.filter(i=>i.answer?.choice==='defer').length;
+ el('progress').textContent=`${answered} of ${items.length} answered${deferred?` · ${deferred} deferred`:''}`;
+ el('previous').disabled=state.index===0;el('next').disabled=state.index>=items.length-1;
+ el('jump').innerHTML=items.map((i,n)=>`<option value="${n}">${n+1}. ${esc(i.session)} · ${esc(i.uid)}${i.answer?' — '+labels[i.answer.choice]:''}</option>`).join('');
+ el('jump').value=String(state.index);
+ if(!item){el('card').textContent='No passages remain in this review. Return to chat to continue.';return;}
+ const context=item.context.map(u=>`<p><strong>${esc(u.speaker)}:</strong> ${esc(u.text)}</p>`).join('');
+ const polished=item.polished.map(t=>`<p><strong>${esc(t.speaker)}:</strong> ${esc(t.text)}</p>`).join('');
+ el('card').innerHTML=`<p class="muted">${esc(item.session)} · ${esc(item.uid)} · ${esc(item.time)}</p>
+ <h2>${esc(item.question)}</h2><blockquote>${esc(item.original)}</blockquote>
+ ${item.proposal?`<p><strong>Proposed reading</strong></p><blockquote>${esc(item.proposal)}</blockquote>`:''}
+ <p class="muted">${esc(item.recommendation)}</p>
+ <audio id="audio" controls preload="metadata" src="/clips/${encodeURIComponent(item.clip)}"></audio>
+ <div><button id="replay">Play passage</button><button id="context-start">Play from start</button><label for="speed" style="display:inline;font-weight:400">Speed </label><select id="speed"><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="1.25">1.25×</option></select></div>
+ <label for="answer">What do you hear?</label><textarea id="answer" placeholder="Type the words you hear, identify the speaker, or explain what is still unclear.">${esc(state.drafts[item.key]??item.answer?.text??'')}</textarea>
+ <div><button id="save" class="primary">Save answer</button>${item.proposal?'<button id="proposed">Use proposed reading</button>':''}<button id="retain">Leave unresolved</button><button id="defer">Defer for later</button></div>
+ <p class="muted">${item.answer?esc(labels[item.answer.choice]):'No answer saved yet.'} “Defer” keeps the question open.</p>
+ <details open><summary>Conversation context</summary><div class="context">${context}</div></details>
+ <details><summary>Current polished transcript</summary><div class="context">${polished}</div></details>`;
+ el('answer').oninput=()=>{remember();state.dirty=true;};
+ el('save').onclick=()=>save('answer');el('retain').onclick=()=>save('retain');el('defer').onclick=()=>save('defer');
+ if(el('proposed'))el('proposed').onclick=()=>save('proposed');
+ el('replay').onclick=()=>{el('audio').currentTime=item.targetStart;el('audio').play().catch(()=>{});};
+ el('context-start').onclick=()=>{el('audio').currentTime=0;el('audio').play().catch(()=>{});};
+ el('speed').onchange=()=>{el('audio').playbackRate=Number(el('speed').value);};
+ if(item.resolution!=='pending')for(const id of ['save','retain','defer','proposed'])if(el(id))el(id).disabled=true;
+}
+async function save(choice){
+ if(state.saving)return;
+ const item=state.items[state.index];remember();const answer=state.drafts[item.key]??'';
+ if(choice==='answer'&&!answer.trim()){el('status').textContent='Type an answer, or choose leave unresolved or defer.';return;}
+ state.saving=true;el('status').textContent='Saving…';document.querySelectorAll('button,select').forEach(x=>x.disabled=true);
+ try{
+  const response=await fetch('/api/answer',{method:'POST',headers:{'Content-Type':'application/json','X-Review-Token':token},body:JSON.stringify({key:item.key,version:item.version,choice,text:answer})});
+  const result=await response.json();if(!response.ok)throw Error(result.error||'Could not save.');
+  item.answer=result.answer;item.version=result.version;
+  state.dirty=state.items.some(i=>state.drafts[i.key]!==undefined&&state.drafts[i.key]!== (i.answer?.text??''));
+  const next=state.items.findIndex((i,n)=>n>state.index&&!i.answer);
+  const first=state.items.findIndex(i=>!i.answer);if(next>=0)state.index=next;else if(first>=0)state.index=first;
+  render();el('status').textContent=first<0?'All passages have a saved response. Return to chat when ready; deferred questions remain open.':'Saved.';
+ }catch(error){el('status').textContent=error.message;}
+ finally{state.saving=false;document.querySelectorAll('button,select').forEach(x=>x.disabled=false);el('previous').disabled=state.index===0;el('next').disabled=state.index>=state.items.length-1;if(state.items[state.index]?.resolution!=='pending')for(const id of ['save','retain','defer','proposed'])if(el(id))el(id).disabled=true;}
+}
+function move(index){if(state.saving)return;remember();state.index=Math.max(0,Math.min(state.items.length-1,index));render();}
+el('previous').onclick=()=>move(state.index-1);el('next').onclick=()=>move(state.index+1);el('jump').onchange=()=>move(Number(el('jump').value));
+window.addEventListener('beforeunload',event=>{if(state.dirty){event.preventDefault();event.returnValue='';}});
+async function load(){const r=await fetch('/api/review');const data=await r.json();if(!r.ok)throw Error(data.error||'Could not load review');state.items=data.items;const first=state.items.findIndex(i=>!i.answer);state.index=Math.max(0,first);render();}
+load().catch(error=>{el('card').textContent='Unable to load this review.';el('status').textContent=error.message;});
+</script></body></html>

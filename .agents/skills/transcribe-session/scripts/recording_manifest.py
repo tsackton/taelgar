@@ -17,7 +17,8 @@ from typing import Any, Sequence
 
 import yaml
 
-from media_tools import MediaBackend, MediaToolError, probe_duration, resolve_probe_backend
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from audio_tools import MediaBackend, MediaToolError, probe_duration, resolve_probe_backend
 from workspace_paths import resolve_transcription_output
 
 
