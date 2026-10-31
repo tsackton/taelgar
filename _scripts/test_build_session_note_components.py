@@ -1183,10 +1183,13 @@ class SessionNoteComponentsTest(unittest.TestCase):
         )
 
         with (
-            mock.patch.object(components, "resolve_ffmpeg_executable", return_value="ffmpeg"),
-            mock.patch.object(components.subprocess, "run") as run_mock,
+            mock.patch.object(components.audio_tools, "resolve_clip_backend", return_value=components.audio_tools.MediaBackend('ffmpeg','ffmpeg')),
+            mock.patch.object(components.audio_tools.subprocess, "run") as run_mock,
         ):
-            run_mock.return_value = subprocess.CompletedProcess(args=[], returncode=0, stdout="", stderr="")
+            def write_clip(command, **kwargs):
+                Path(command[-1]).write_bytes(b'clip')
+                return subprocess.CompletedProcess(args=command, returncode=0, stdout='', stderr='')
+            run_mock.side_effect = write_clip
             result = self.run_builder(vault)
 
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
@@ -1225,7 +1228,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(command[command.index("-b:a") + 1], "64k")
         self.assertIn("-ac", command)
         self.assertEqual(command[command.index("-ac") + 1], "1")
-        self.assertEqual(Path(command[-1]), audio_output)
+        self.assertEqual(Path(command[-1]), audio_output.resolve())
 
     def test_base_note_uses_session_template_frontmatter_key(self) -> None:
         vault = self.make_workspace()

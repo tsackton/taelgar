@@ -114,3 +114,47 @@ queue's lifetime or depend on its presence. These mechanical tests establish saf
 application and recovery, not that a model finds every recognition error; the
 editorial calibration examples in [review.md](review.md#editorial-calibration)
 address that separate judgment.
+
+## Bounded corrections, 2026-10-30
+
+The complete suite passes 69 tests, including 16 correction regressions and the
+opt-in checks on temporary copies of seven real bundles. Live bundle hashes remain
+unchanged. Correction tests cover preview without writes, exact wording propagation,
+merged multi-UID turns, Unicode offsets, speaker-only changes, within-UID speaker
+splits, rejected coverage gaps and boundary-crossing replacements, display labels
+and restoration, partial review with shifted targets, explicit uncertainty decisions,
+stale-plan rejection, existing Markdown decisions, interrupted writes/finalization,
+completion fingerprints, metadata preservation, and unchanged original/prepared
+references and unrelated derivatives. CLI inspection and stdin preview are exercised.
+
+`correct-transcript` uses the shared `scripts/transcript_corrections.py` implementation;
+it does not maintain another review-state format. These tests establish mechanical
+consistency, not the correctness of an agent's hearing or editorial judgments.
+
+## Optional audio review, 2026-10-30
+
+The process-transcript suite passes 80 tests, including 11 audio-review tests and
+the copied-bundle checks. Audio tests cover standalone selection without processing
+jobs, several sessions with identical UIDs, saved answers without transcript edits,
+distinct defer/retain choices, answer preservation through rebuild and partial
+application, stale/concurrent answer rejection, recording-clock checks, interrupted
+clip creation, the localhost server, cache cleanup, and protection of incomplete
+quality work. Four browser-script tests check failed saves, save-before-advance,
+deferred questions, and unsaved drafts.
+
+```bash
+node --test .agents/skills/process-transcript/tests/test_audio_page.js
+```
+
+Audio server tests need permission to bind to localhost. Use the installed project
+Python with PyYAML. The highlight suite requires Python 3.10+ and passes 42 tests.
+Transcription/media regression coverage passes 75 tests across the existing Python
+environments: the transcription API tests use the environment with python-dotenv;
+the remaining tests use the project environment. No dependency installation or
+external transcription is needed for these tests.
+
+A separate browser check used two synthetic session bundles and generated tone
+audio. Real clipping through the shared ffmpeg helper produced playable M4A files;
+the page displayed three items, saved a multiline answer, accepted a proposal,
+kept a deferred question open, and preserved all answers after reload. The temporary
+server was stopped afterward. No live session references were changed.

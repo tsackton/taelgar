@@ -7,14 +7,14 @@ from __future__ import annotations
 import argparse
 import json
 import re
-import shutil
-import subprocess
+import tempfile
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
 import yaml
+import audio_tools
 
 
 VAULT_ROOT = Path(__file__).resolve().parents[1]
@@ -1503,49 +1503,14 @@ def prefixed_audio_output_name(session_key: str, entry: Dict[str, str]) -> str:
 
 
 def extract_audio_clip(source_audio: Path, output_path: Path, start_seconds: float, end_seconds: float) -> None:
-    duration_seconds = end_seconds - start_seconds
-    command = [
-        resolve_ffmpeg_executable(),
-        "-y",
-        "-hide_banner",
-        "-loglevel",
-        "error",
-        "-ss",
-        f"{start_seconds:.3f}",
-        "-i",
-        str(source_audio),
-        "-t",
-        f"{duration_seconds:.3f}",
-        "-vn",
-        # Session highlights are speech clips; mono AAC keeps them small without getting brittle.
-        "-c:a",
-        "aac",
-        "-b:a",
-        "64k",
-        "-ac",
-        "1",
-        str(output_path),
-    ]
-    result = subprocess.run(command, capture_output=True, text=True, check=False)
-    if result.returncode != 0:
-        detail = (result.stderr or result.stdout or "ffmpeg failed").strip()
-        raise ComponentSlotParseError(f"Failed to create audio clip {output_path}: {detail}")
-
-
-def resolve_ffmpeg_executable() -> str:
-    path_candidate = shutil.which("ffmpeg")
-    if path_candidate:
-        return path_candidate
-
-    for candidate in (
-        Path("/opt/homebrew/bin/ffmpeg"),
-        Path("/usr/local/bin/ffmpeg"),
-        Path("/Applications/editor.app/Contents/Resources/bin/ffmpeg"),
-    ):
-        if candidate.exists() and candidate.is_file():
-            return str(candidate)
-
-    raise ComponentSlotParseError("ffmpeg was not found on PATH or in known local install locations.")
+    try:
+        backend = audio_tools.resolve_clip_backend()
+        with tempfile.TemporaryDirectory(prefix="taelgar-audio-") as work:
+            source, backend = audio_tools.prepare_clip_source(source_audio, backend=backend, work_dir=Path(work))
+            audio_tools.extract_audio_clip(source, output_path, start_seconds=start_seconds,
+                                           end_seconds=end_seconds, backend=backend, profile='highlight')
+    except audio_tools.MediaToolError as exc:
+        raise ComponentSlotParseError(str(exc)) from exc
 
 
 def build_party_whereabouts_slot(final_timeline: Optional[Dict[str, Any]]) -> str:

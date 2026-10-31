@@ -1,6 +1,6 @@
 ---
 name: process-transcript
-description: Process or resume an existing session transcript into original and prepared UID references, corrected UID text, and readable full-session Markdown. Makes reasonable contextual ASR repairs, substitutes unrecoverable incidental speech only in the polished version, and presents concrete proposals for consequential human decisions. Supports review from Markdown without saved processing state and bounded revisions of finalized transcripts. Starts after transcription; excludes factual correction, recaps, and highlights.
+description: Process or resume a session transcript through cleanup, polishing, human review, and finalization. Also generate a standalone audio-review page for selected questions or passages across sessions, without running transcript processing. Preserve source mappings and spoken meaning, use reasonable contextual ASR repairs, and retain consequential uncertainty. Starts after transcription; excludes factual correction, recaps, and highlights.
 ---
 
 # Process Transcript
@@ -10,6 +10,24 @@ Use this for requests such as “process the transcript from Dunmar session 53,�
 authorizes this workflow's transcript outputs and control files within the selected
 session bundle. A preview request stays read-only. Never run live sessions while
 developing/testing this skill unless the user separately requests that processing.
+
+## Choose the requested mode
+
+- **Full processing:** follow the cleanup, polish, quality, review, and finalization
+  stages below, resuming existing work when possible.
+- **Review only:** continue the current Markdown/chat review. Apply the user's
+  answers within this workflow; do not start another skill or repeat cleanup.
+- **Audio review only:** requests such as “Use process-transcript to generate an
+  audio review page for X, Y, and Z” go directly to
+  [audio-review.md](references/audio-review.md). Existing review questions or
+  selected passages from finalized transcripts are sufficient. Build one page for
+  the requested selections; do not initialize processing jobs or run cleanup,
+  polishing, or quality review to make it.
+
+[correct-transcript](../correct-transcript/SKILL.md) is the standalone entry for
+later targeted wording/speaker edits. Its underlying replacement helper may also
+serve this skill, but that is shared implementation, not another review stage.
+Explicit user answers need no second approval or repeated full-session readback.
 
 ## Products and boundaries
 
@@ -72,9 +90,11 @@ judging residual nonsense, negation, or lore-assisted candidates.
 
 This workflow does not transcribe/upload audio, classify voices, merge recordings,
 create beats/recaps, extract highlights, or modify canonical notes. Read relevant
-vault evidence when needed. Keep **every write inside the selected session bundle**,
+vault evidence when needed. Keep transcript writes inside the selected session bundle,
 including jobs, response plans, history, locks, snapshots, decisions, and temporary
-files. Do not use a global queue, `/tmp` plan, shared correction dictionary, or an
+files. Optional audio review writes its generated page/clips to an owned cache
+outside the vault and answers to each selected bundle's review Markdown. Do not use
+a global decision queue, `/tmp` decision-state file, shared correction dictionary, or an
 older helper whose output path comes from archived configuration. In particular,
 copied bundles may retain absolute paths pointing to the live vault.
 
@@ -271,6 +291,12 @@ only actual user decisions. Retaining uncertainty preserves the words; it does n
 confirm a reading as fact. The agent maintains the Markdown's hidden control blocks
 and readable-turn updates; the user can answer in ordinary chat.
 
+If listening is requested, use [audio-review.md](references/audio-review.md).
+Audio answers are another input to this same review. Read them when the user
+returns, apply actual decisions once, and finalize completed sessions normally.
+Defer leaves a question pending. Do not rerun cleanup/quality jobs merely because
+a human supplied a correction, or require a separate correct-transcript invocation.
+
 The older `accept` command remains available inside an active processing queue;
 it means accepting uncertainty, never applying a proposed correction. Do not require
 that queue when continuing a review from its Markdown handoff.
@@ -320,9 +346,11 @@ uncertainty may remain explicit in the retained transcripts. If interrupted, rer
 `finalize` or `recover`; later conflicting edits stop retirement for reconciliation.
 `status` remains read-only after completion, and repeated `init`/`finalize` does not
 recreate processing files. For a later authorized correction, use
-`review --prepare UID [UID ...]` to create a bounded Markdown review from current
-finalized references. Preserve existing
-speaker assignments; inspect and validate the revised turns. Do not silently
+[correct-transcript](../correct-transcript/SKILL.md), including speaker-only changes
+or explicit within-turn speaker splits. `review --prepare UID [UID ...]` remains
+available when a new bounded Markdown review is needed before decisions are known.
+Preserve existing speaker assignments except where explicitly corrected; inspect
+and validate the revised turns. Do not silently
 restart full processing or claim that old review covers the new words.
 See the [file lifecycle](references/contract.md#file-lifecycle) for retention details.
 

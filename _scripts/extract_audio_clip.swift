@@ -138,3 +138,4 @@ await writer.finishWriting()
 guard writer.status == .completed else {
     fail("AVFoundation could not finish the M4A clip: \(describe(writer.error))")
 }
+

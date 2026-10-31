@@ -166,7 +166,7 @@ The full highlights summary remains the complete record. The recap sections are 
 - Do not omit, summarize, reorder, or add substantive content.
 - Treat the output as an edited transcript, not a prose adaptation.
   Preserve the speaker's wording, tense, syntax, repetitions, rhetorical fragments, run-on cadence, and vocal texture unless they are clearly ASR errors or make the text hard to parse.
-- Polish more aggressively than `transcript-cleaner`:
+- Apply these excerpt-specific polishing rules:
   - fix grammar and punctuation
   - repair broken source-line boundaries and capitalization
   - remove obvious ASR filler and duplicated false starts when doing so preserves the speaker's meaning

@@ -132,7 +132,7 @@ Session-Audio.speaker-samples/
 - Preserve the raw Scribe v2 JSON unchanged.
 - Use the VTT as the transcript input for `prepare-session-source`.
 - Use the manifest to establish the audio hash, request settings, resolved keyterms, response summary, sample metadata, and output hashes.
-- Treat the speaker preview and linked audio excerpts as a diarization audit, not an identity map. The script selects up to three relatively long turns per Scribe ID and extracts short `.m4a` clips using `ffmpeg` or the skill's macOS AVFoundation pass-through helper. Preview samples alone do not justify a global participant mapping. After a verified model-assisted pass, however, a Scribe ID may supply short-cue labels when at least 80% of its durable model-classified cues agree on one participant.
+- Treat the speaker preview and linked audio excerpts as a diarization audit, not an identity map. The script selects up to three relatively long turns per Scribe ID and extracts short `.m4a` clips through the shared `_scripts/audio_tools.py` helper, using ffmpeg or macOS AVFoundation. This extraction code also serves transcript audio review and session highlights. Preview samples alone do not justify a global participant mapping. After a verified model-assisted pass, however, a Scribe ID may supply short-cue labels when at least 80% of its durable model-classified cues agree on one participant.
 - Never assume a speaker ID is stable across recordings, even when the device is unchanged.
 
 ## Speaker attribution

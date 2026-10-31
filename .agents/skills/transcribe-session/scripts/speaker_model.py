@@ -12,7 +12,8 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any, Sequence
 
-from media_tools import (
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from audio_tools import (
     MediaToolError,
     extract_audio_clip,
     prepare_clip_source,
