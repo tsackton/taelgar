@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
-tags: [power, status/check/lint]
+tags: [power]
 typeOf: embodied god
 gender: male
 name: Thark
+pronunciation: "THARK"
 dm_owner: tim
 dm_notes: important
 POV: modern
@@ -14,45 +15,37 @@ POV: modern
 >[!info]+ Information  
 > An [[Embodied Gods|embodied god]] (he/him)
 
-%% need to copy notes from various People of the Rainbow and DM documents %%
+Thark, the God of War Without End, gave rise to the [[Orcs]], and through his compulsion drives them to violence for the sake of violence. Thark is an [[Embodied Gods|Embodied God]], often counted among the Firstborn and metaphysically related to them, but unlike other [[Embodied Gods]], Thark was not created by the [[Divine Presence]]. Elves speak of the [[Void Mind]], something that wishes existence fo cease altogether, as Thark's creator. 
 
-Thark, the God of War Without End, gave rise to the [[Orcs]], and through his compulsion drives them to violence for the sake of violence. 
+Thark's will dominates the lives of the orcs bound to him. His religion glorifies strength, victory, and the idea that might makes right. He drives his followers to fight one another, blessing the victors with strength. The violence between rival orc bands serves Thark too, for it is said that from these battles Thark selects champions to lead glorious hordes against all who would stand before them. 
 
-Some [[Orcs]], including the [[People of the Rainbow]], the [[Orcs]] who now live in [[Xurkhaz]], have found a way to break Thark's hold and live free.
+The bond to Thark is imposed through a ritual performed on newborn orcs, which those already bound to him feel compelled to carry out. Few outsiders understand its workings, and orcs do not allow others to observe it. Infants who cannot or will not accept the curse are said not to survive the rite.
 
-%%^Metadata:names:v1%%
-- {"name": "Thark", "language": "unknown", "pronunciation": "THARK", "status": "proposed", "notes": "Proposed as one syllable, following the explicit naming discussion in [[2021-02-25 to 2021-02-27 - Thark and Orc Religion]]. That discussion deliberately distinguishes Thark from Tark. Retain th as in thin, ar as in dark, and final k. The Orcish Turkic analogue in [[Languages]] supports the simple a/r/k reading but does not settle th; the name language and exact pronunciation remain unconfirmed."}
-%%^End%%
+Nonetheless, rumors persist of orcs who live free of Thark's chains, beyond his compulsion to ceaseless war.
 
-%%^povNotes:v1%%
-Temporal coverage: broadly modern theology and Thark's continuing control over most orcs, with the People of the Rainbow established as a free exception; no narrower date is required by the visible account.
-%%^End%%
+%%^Campaign:none%%
+### Sources
 
-%%^Lint%%
-## Taelgar note lint
+- [[Orcs]] — binding, compulsion, warfare, and the public account of the newborn ritual.
+- [[Embodied Gods]] — Thark's classification, association with the Void Mind, and independence from belief.
+- [[2024-07-26 - Species and Souls]] — discussion distinguishing Thark from other powers associated with the Void Mind.
+- [[2025-02-07 - Cosmology and Planes]]; [[2026-10-23 - Dwarven Kingdoms Void Mind and Elves]] — the move away from the Three Despairs genealogy.
+- [[Historical Framework - Open Questions]] — unresolved chronology of Thark and the orcs.
+- [[Cosmology - Open Questions]] — unresolved limits on conflict between divine powers.
 
-### Applied changes
-- Normalized frontmatter ordering and collection formatting, preserving existing values and the header version.
-- Added the explicit subject name and persistent name and broadly modern temporal metadata.
-
-### Validated judgments
-- Confirmed local DM matches support the existing positive attestation; its value and all private contents remain unchanged.
-- The compact visible account establishes origin, compulsion, and the free-orc exception. Campaign plans to challenge Thark do not establish that his dominion has ended.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed `THARK` pronunciation in the persistent name entry. [[2021-02-25 to 2021-02-27 - Thark and Orc Religion]] records a one-syllable intention and explicitly distinguishes Thark from Tark, but supplies no pronunciation. The proposal retains th as in thin, ar as in dark, and final k. The Orcish Turkic analogue in [[Languages]] supports simple a/r/k sounds but does not settle th; the source language remains unknown. Accept with `pronunciation: THARK` and entry `status: documented`, or supply the intended reading.
-
-### DM evidence
-- [[_DM_/Secret Worldbuilding/Mulitverse]]
-- [[_DM_/_Dunmari Frontier/Brainstorming - DM]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra Area Map/Tokra Area Map]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/History of Blasted Plains]]
+### DM Notes
 - [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 103 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 70 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 71 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 72 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 83 - DM Notes]]
-- [[_DM_/_Taelgar-2/Setting/Taelgar-2 Intro]]
-- [[_DM_/_Taelgar-2/Setting/Taelgar-2 Species After the Godfall]]
+
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Thark", "language": "Orcish", "pronunciation": "THARK", "status": "documented", "notes": "Explicit naming discussion in [[2021-02-25 to 2021-02-27 - Thark and Orc Religion]].."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern theology and Thark's continuing control over most orcs, with the People of the Rainbow established as a free exception; no narrower date is required by the visible account.
 %%^End%%

@@ -12,9 +12,9 @@ Only --execute writes. --include-atypical widens deletion inside the three
 artifact directories, never directly under cleaned/. Recaps, both sources,
 manifests, beats, beat facts, scene maps and approvals, timeline evidence and
 reviews, speaker statistics, polished transcripts, highlights, drafts, and
-exports are preserved. The cleaned source
-and recap are the required inputs to beat-transcript-polisher; neither depends
-on the artifacts deleted here, even when polishing has not happened yet.
+exports are preserved. The finalized polished transcript
+and recap are the required inputs to transcript-excerpts; neither depends
+on the artifacts deleted here, even when excerpt generation has not happened yet.
 Regular .DS_Store files are disposable Finder metadata and are also deleted
 throughout cleaned/. They do not prevent otherwise empty artifact folders
 from being removed. Other directories are retained, even if emptied of metadata.

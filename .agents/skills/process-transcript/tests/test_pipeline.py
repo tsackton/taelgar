@@ -4,6 +4,7 @@ sys.dont_write_bytecode = True
 import argparse
 import copy
 import json
+import re
 from pathlib import Path
 import tempfile
 import unittest
@@ -28,8 +29,31 @@ class PipelineTests(unittest.TestCase):
     def tearDown(self):
         self.temp.cleanup()
 
+    def prepare_fixture(self):
+        """Supply an upstream prepared bundle; never use processing to create it.
+
+        The captions here are deliberately simple test data, not a raw-input
+        adapter. Real preparation integration is covered separately below.
+        """
+        manifest = self.root/'cleaned/session-001-session.yaml'
+        if manifest.exists():
+            return
+        (self.root/'sources').mkdir(exist_ok=True)
+        manifest.parent.mkdir(exist_ok=True)
+        archived = self.root/'sources/raw.vtt'
+        archived.write_bytes(self.original.read_bytes())
+        entries = re.findall(r'^([^\n]+) --> ([^\n]+)\n([^:\n]+): ([^\n]+)$', self.original.read_text(), re.M)
+        assert entries, 'Fixture needs simple timed captions'
+        prepared = self.root/'cleaned/session-001-source-prepared.md'
+        prepared.write_text(''.join(f'[u{i:04d} | {start}-{end} | {speaker}] {text}\n'
+                                    for i, (start, end, speaker, text) in enumerate(entries, 1)))
+        data = json.loads(self.metadata.read_text())
+        data.update(sourceType='transcript', sourceInputPath=str(archived), preparedSourcePath=str(prepared))
+        manifest.write_text(yaml.safe_dump(data, sort_keys=False))
+
     def init(self, **kwargs):
-        args = argparse.Namespace(source=str(self.original), metadata=str(self.metadata), manifest=None, prepared=None, cleaned=None, chunk_words=1800)
+        self.prepare_fixture()
+        args = argparse.Namespace(source=None, manifest=None, prepared=None, cleaned=None, chunk_words=1800)
         for k, v in kwargs.items(): setattr(args, k, v)
         with core.lock(self.root):
             return pipeline.initialize(self.root, args)
@@ -156,7 +180,7 @@ class PipelineTests(unittest.TestCase):
         self.assertFalse((self.root/core.WORK).exists())
         self.assertEqual(self.init()['status'], 'changed_after_finalization')
 
-    def test_new_source_end_to_end_and_idempotent_resume(self):
+    def test_prepared_bundle_end_to_end_and_idempotent_resume(self):
         raw = self.original.read_bytes()
         self.init()
         result = self.complete()
@@ -380,12 +404,88 @@ class PipelineTests(unittest.TestCase):
             with self.assertRaisesRegex(core.PipelineError,'input changed'):core.recover(self.root)
         self.assertFalse((self.root/'cleaned/second.json').exists())
 
-    def test_caption_formats_and_unsupported_text_fail_loudly(self):
-        for text in ['WEBVTT\n\n00:00:00.000 --> 00:00:01.000\n<v Speaker A>Hello!</v>\n', '1\n00:00:00,000 --> 00:00:01,000\nSpeaker A: Hello!\n', '[0-1] Speaker A: Hello!\n']:
-            units=pipeline.parse_raw(text,[dict(gameRole='DM',transcriptIdentifiers=['Speaker A'])])
-            self.assertEqual(units[0]['speaker'],'DM');self.assertEqual(units[0]['text'],'Hello!')
-        for text in ['WEBVTT\nUnparsed speech\n\n0 --> 1\nDM: Hi\n', 'WEBVTT\n\n0 --> 1\n<v DM>Hello</v><v Player>Hi</v>\n', 'Untimed speech must not disappear']:
-            with self.assertRaises(core.PipelineError):pipeline.parse_raw(text,[])
+    def test_unprepared_and_partial_bundles_are_rejected_without_writes(self):
+        args = argparse.Namespace(source=None, manifest=None, prepared=None, cleaned=None, chunk_words=1800)
+        def snapshot():
+            return {p: p.read_bytes() for p in self.root.rglob('*') if p.is_file()}
+        before = snapshot()
+        with self.assertRaisesRegex(core.PipelineError, 'prepare-session-source'):
+            pipeline.initialize(self.root, args)
+        self.assertEqual(snapshot(), before)
+        self.prepare_fixture()
+        prepared = self.root/'cleaned/session-001-source-prepared.md'
+        prepared.unlink()
+        before = snapshot()
+        with self.assertRaisesRegex(core.PipelineError, 'Missing prepared UID'):
+            pipeline.initialize(self.root, args)
+        self.assertEqual(snapshot(), before)
+        self.assertFalse((self.root/core.WORK).exists())
+
+    def test_initialization_preserves_prepared_bytes_metadata_and_original(self):
+        self.prepare_fixture()
+        prepared = self.root/'cleaned/session-001-source-prepared.md'
+        prepared.write_bytes(b'\xef\xbb\xbf' + prepared.read_bytes().replace(b'\n', b'\r\n'))
+        inputs = [prepared, self.root/'sources/raw.vtt', self.root/'cleaned/session-001-session.yaml']
+        before = {p: p.read_bytes() for p in inputs}
+        self.init()
+        self.assertEqual(before, {p: p.read_bytes() for p in inputs})
+        self.assertTrue(pipeline.status(self.root)['pending']['clean'])
+
+    def test_external_original_cannot_be_imported_by_initialization(self):
+        self.prepare_fixture()
+        archived = self.root/'sources/raw.vtt'
+        archived.unlink()
+        before = {p: p.read_bytes() for p in self.root.rglob('*') if p.is_file()}
+        with self.assertRaises(core.PipelineError):
+            self.init(source=str(self.original))
+        self.assertEqual(before, {p: p.read_bytes() for p in self.root.rglob('*') if p.is_file()})
+        self.assertFalse(archived.exists())
+
+    def test_cli_refuses_missing_bundle_and_removed_metadata_option(self):
+        import subprocess
+        helper = str(Path(pipeline.__file__))
+        missing = self.parent/'not-created'
+        result = subprocess.run([sys.executable, '-B', helper, 'init', '--bundle', str(missing)], capture_output=True, text=True)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn('prepare-session-source', result.stderr)
+        self.assertFalse(missing.exists())
+        result = subprocess.run([sys.executable, '-B', helper, 'init', '--bundle', str(self.root), '--metadata', str(self.metadata)], capture_output=True, text=True)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn('unrecognized arguments', result.stderr)
+        self.assertFalse((self.root/'cleaned').exists())
+
+    def test_real_prepare_session_source_handoff(self):
+        import subprocess
+        source = self.parent/'identified.txt'
+        source.write_text('[0-1] Referee: Well, well, it got denser.\n[1-2] Player: Are we going?\n')
+        roster = self.parent/'participants.yaml'
+        roster.write_text(yaml.safe_dump({'participants': [
+            {'name': 'Example DM', 'gameRole': 'DM'}, {'name': 'Example Player', 'gameRole': 'Player'}]}))
+        mappings = self.parent/'speakers.json'
+        mappings.write_text(json.dumps({'DM': ['Referee'], 'Player': ['Player']}))
+        config = self.parent/'source-prep.yaml'
+        config.write_text(yaml.safe_dump(dict(sourcePath=str(source), sourceType='transcript',
+            outputDir=str(self.parent/'intake'), campaign='Example', sessionNumber=1,
+            realWorldDate='2026-10-30', drStart=None, drEnd=None,
+            participantsPath=str(roster), transcriptFormat='speaker_lines')))
+        helper = Path(pipeline.__file__).resolve().parents[2]/'prepare-session-source/scripts/prepare_source.py'
+        result = subprocess.run([sys.executable, '-B', str(helper), '--config', str(config),
+                                 '--speaker-mappings', str(mappings)], capture_output=True, text=True)
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        bundle = self.parent/'intake/example-001'
+        before = {p: p.read_bytes() for p in bundle.rglob('*') if p.is_file()}
+        self.assertFalse((bundle/core.STATE).exists())
+        self.assertFalse(list((bundle/'cleaned').glob('*-source-cleaned.md')))
+        args = argparse.Namespace(source=None, manifest=None, prepared=None, cleaned=None, chunk_words=1800)
+        with core.lock(bundle):
+            result = pipeline.initialize(bundle, args)
+        self.assertEqual(result['status'], 'needs_work')
+        self.assertEqual(before, {p: p.read_bytes() for p in before})
+        state, units = pipeline.load(bundle)
+        self.assertEqual([u['speaker'] for u in units], ['DM', 'Player'])
+        self.assertEqual([u['uid'] for u in units], ['u0001', 'u0002'])
+        self.assertIsNone(state['session']['drStart'])
+        self.assertIsNone(state['session']['drEnd'])
 
     def test_percentage_and_annotation_characters_cannot_disappear(self):
         units=core.parse_units('[u0001 | 0-1 | DM] A 50% chance, +2, -2, 1/2, [laughs].\n')

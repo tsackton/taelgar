@@ -226,6 +226,42 @@ class CorrectionTests(unittest.TestCase):
         self.assertEqual(result['status']['issues'],0)
         self.assertEqual(self.turns()[0]['text'],'Here is Beryl.')
 
+    def test_word_speaker_and_display_corrections_flag_excerpt_derivatives_without_writing(self):
+        self.completed()
+        folder = self.root/'cleaned/beat-transcripts'
+        folder.mkdir()
+        derivatives = {
+            folder/'session-001-recap-001-transcript.md': 'Reviewed excerpt: keep until explicitly refreshed.\n',
+            folder/'session-001-transcript-highlights.md': 'Selected candidate: keep its wording and order.\n',
+        }
+        for path, text in derivatives.items():
+            path.write_text(text)
+        unrelated = folder/'personal-notes.md'
+        unrelated.write_text('Not a generated derivative.\n')
+        (folder/'not-a-file-transcript.md').mkdir()
+        expected = sorted(str(p.relative_to(self.root)) for p in derivatives)
+        operations = [
+            dict(edits=[self.edit('darker')]),
+            dict(turns=[dict(index=0, before='Well, well, it got darker.', speaker='Finnan')]),
+            dict(turns=[dict(index=0, before='Well, well, it got darker.',
+                            after='Well, well, it got [garbled].', substitutions=[
+                                dict(uid='u0001', start=19, end=25, kind='garbled',
+                                     reason='User confirmed unintelligible speech.')])]),
+        ]
+        for operation in operations:
+            with self.subTest(operation=operation):
+                plan = self.plan(**operation)
+                before = self.f.snapshot()
+                preview = corrections.build(self.root, plan)['preview']
+                self.assertEqual(preview['downstreamToInspect'], expected)
+                self.assertEqual(before, self.f.snapshot())
+                result = corrections.apply(self.root, plan)
+                self.assertEqual(result['downstreamToInspect'], expected)
+                self.assertTrue(set(expected).isdisjoint(result['changedFiles']))
+                for path, text in derivatives.items():
+                    self.assertEqual(path.read_text(), text)
+                self.assertEqual(unrelated.read_text(), 'Not a generated derivative.\n')
+
     def test_cli_stdin_preview_and_inspection(self):
         self.completed()
         helper = Path(corrections.__file__)

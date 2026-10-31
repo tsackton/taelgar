@@ -1,31 +1,29 @@
 # Transcript artifact and response contract
 
-## New inputs
+## Prepared inputs
 
-Create the explicitly selected session directory. Write a small JSON metadata file
-under `cleaned/transcript-work/input.json` with verified `campaign`, `sessionNumber`, and optional `realWorldDate`,
-`drStart`, `drEnd`, and `participants`. Participant entries contain `gameRole`, an
-optional real `name`, and `transcriptIdentifiers`. Do not infer unknown dates.
+Only prepare-session-source creates new bundles. Processing requires an existing
+`cleaned/*-session.yaml`, `cleaned/*-source-prepared.md`, and incoming original
+already archived under the bundle's `sources/`. The session YAML supplies identity
+and participant metadata; preserve unknown dates and existing speaker mappings.
+An absent bundle prompts an offer to use prepare-session-source, not automatic
+creation. A partial bundle needs inspected preparation repair before processing.
 
-```bash
-python3 -B HELPER init --bundle BUNDLE --source RAW_TRANSCRIPT --metadata BUNDLE/cleaned/transcript-work/input.json
-```
-
-Supported inputs are VTT (including voice tags), SRT, existing UID lines, and
-`[start-end] Speaker: text` lines. Unsupported formats need an explicit faithful
-adapter; do not invent timestamps or silently omit malformed units. An external
-raw transcript is read-only and copied into `sources/` without changing its bytes.
+`init --bundle BUNDLE` creates processing state and cleaned working text only.
+It does not parse raw captions, assign initial UIDs, create session metadata,
+copy external inputs, or rewrite the prepared baseline. `--metadata` is removed.
 
 For ambiguous existing artifacts, `init` accepts bundle-relative `--manifest`,
-`--prepared`, and `--cleaned` overrides. `--source` explicitly selects the incoming
-original. Existing headers must match between prepared and cleaned inputs.
+`--prepared`, and `--cleaned` overrides. `--source` selects an already archived
+original inside this bundle's `sources/`; it cannot import an external transcript.
+Existing headers must match between prepared and cleaned inputs.
 Source/header conflicts require an inspected migration, not automatic renumbering.
 
 ## Files and identity
 
 The helper registers existing prepared/cleaned filenames rather than renaming
-them. The existing session-manifest stem supplies new output names. New bundles
-use the directory name. Managed artifact paths are bundle-relative; copied legacy
+them. The existing session-manifest stem supplies new processing output names.
+Managed artifact paths are bundle-relative; copied legacy
 absolute paths are resolved against the copy's local directories, never followed
 back into the live vault for writes.
 

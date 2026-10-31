@@ -1,12 +1,12 @@
 ---
-name: beat-transcript-polisher
+name: transcript-excerpts
 description: Extract recap-scoped excerpts from a finalized polished transcript and select pull quotes and audio highlights. Preserve polished wording, speakers, source spans, and existing recap highlight selections. Use after a session recap exists; this is not another transcript polishing pass.
 ---
 
 # Transcript Excerpts and Highlights
 
-This optional workflow keeps the existing `beat-transcript-polisher` invocation
-and `cleaned/beat-transcripts/` filenames for compatibility. It copies reviewed
+Invoke this skill as `transcript-excerpts`. Its existing skill folder and
+`cleaned/beat-transcripts/` artifact filenames stay in place. It copies reviewed
 speech into recap excerpts and helps choose highlights. It is not part of default
 `session-note-prep` and does not rerun cleanup, polishing, or prose-quality review.
 

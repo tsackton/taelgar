@@ -9,7 +9,6 @@ import sys
 sys.dont_write_bytecode = True
 import argparse
 import copy
-import html
 import json
 from pathlib import Path, PurePosixPath, PureWindowsPath
 import re
@@ -40,7 +39,7 @@ def resolve(vault, campaign, session):
         data = yaml.safe_load(manifest.read_text())
         if str(data.get('sessionNumber')) == str(session) or str(data.get('sessionNumber')).lstrip('0') == str(session).lstrip('0'):
             candidates.append(str(manifest.parent.parent))
-    require(len(candidates) == 1, f'Expected one existing bundle for {campaign} {session}; found {len(candidates)}. Supply an explicit bundle/source for new sessions.')
+    require(len(candidates) == 1, f'Expected one existing bundle for {campaign} {session}; found {len(candidates)}. If none exists, ask whether to use prepare-session-source to create one; if ambiguous, select the intended existing bundle.')
     return {'bundle': candidates[0], 'campaign': item['name'], 'sessionNumber': str(session)}
 
 
@@ -73,74 +72,14 @@ def local_reference(root, reference, directory):
     return candidate if candidate.is_file() else None
 
 
-def parse_raw(text, participants):
-    text = text.lstrip('\ufeff')
-    if text.lstrip().startswith('[u'):
-        return parse_units(text)
-    names = {}
-    for p in participants:
-        role = p['gameRole']
-        for name in [role, p.get('name', ''), *p.get('transcriptIdentifiers', [])]:
-            if name:
-                require(name not in names or names[name] == role, f'Ambiguous participant identifier: {name}')
-                names[name] = role
-    entries = []
-    if '-->' in text:
-        lines = text.splitlines()
-        i = 0
-        while i < len(lines):
-            if '-->' not in lines[i]:
-                line = lines[i].strip()
-                if line.startswith(('NOTE', 'STYLE', 'REGION')):
-                    while i < len(lines) and lines[i].strip():
-                        i += 1
-                    continue
-                header = i == 0 and line.startswith('WEBVTT')
-                cue_id = i+1 < len(lines) and '-->' in lines[i+1]
-                require(not line or header or cue_id, f'Unrecognized text outside a caption at line {i+1}; inspect rather than discard it')
-                i += 1
-                continue
-            timing = re.fullmatch(r'\s*([\d:.,]+)\s*-->\s*([\d:.,]+)(?:\s+.*)?', lines[i])
-            require(timing is not None, 'Invalid VTT/SRT time range')
-            i += 1
-            body = []
-            while i < len(lines) and lines[i].strip():
-                body.append(lines[i].strip())
-                i += 1
-            wording = ' '.join(body)
-            voice = re.match(r'<v(?:\.[^ >]+)?\s+([^>]+)>(.*)', wording)
-            if voice:
-                speaker, wording = voice.groups()
-                wording = wording.removesuffix('</v>')
-            else:
-                match = re.match(r'([^:]{1,100}):\s*(.*)', wording)
-                speaker, wording = match.groups() if match else ('Unknown', wording)
-            require(not re.search(r'</?v(?:[. >])', wording), 'Multiple speaker voices within one caption need an explicit adapter')
-            require(not re.search(r'<[0-9][^>]*>', wording), 'Inline caption timestamps need an explicit adapter')
-            # Text styling in caption markup is presentation, not spoken words.
-            wording = html.unescape(re.sub(r'</?(?:b|i|u|c)(?:\.[^ >]+)?[^>]*>', '', wording))
-            require(bool(wording.strip()), 'Empty caption; inspect it instead of silently dropping it')
-            entries.append((timing[1].replace(',', '.'), timing[2].replace(',', '.'), speaker.strip(), wording))
-    else:
-        for line in text.splitlines():
-            if not line.strip():
-                continue
-            match = re.fullmatch(r'\[([\d:.]+)\s*-\s*([\d:.]+)\]\s*([^:]+):\s*(.+)', line)
-            require(match is not None, 'Expected VTT/SRT, UID lines, or [start-end] Speaker: text; timestamps must not be invented')
-            entries.append(match.groups())
-    require(entries, 'No transcript captions found')
-    return parse_units('\n'.join(f'[u{i:04d} | {start}-{end} | {names.get(speaker, speaker)}] {wording}'
-                                 for i, (start, end, speaker, wording) in enumerate(entries, 1)))
-
-
 def original_path(root, metadata, source):
     if source:
-        return Path(source).expanduser().resolve()
+        return safe(root, source)
     path = local_reference(root, metadata.get('sourceInputPath'), 'sources')
     if path:
         return path
     matches = [p for p in (root / 'sources').glob('*') if p.suffix.lower() in {'.vtt', '.srt'}]
-    require(len(matches) == 1, 'Original input is missing or ambiguous; provide --source. Do not manufacture an original from cleaned text.')
+    require(len(matches) == 1, 'Archived original is missing or ambiguous; select an existing bundle-local original with --source, or use prepare-session-source to repair intake. Do not manufacture an original from cleaned text.')
     return matches[0]
 
 
@@ -153,38 +92,39 @@ def initialize(root, args):
     if completed:
         return finalization.completed_status(root, *completed)
     manifest = one(root, 'cleaned/*-session.yaml', args.manifest, required=False)
-    manifest_bytes = manifest.read_bytes() if manifest else None
-    metadata = yaml.safe_load(manifest_bytes.decode('utf-8-sig')) if manifest else read_json(Path(args.metadata)) if args.metadata else {}
-    require(metadata.get('sourceType', 'transcript') == 'transcript', 'This pipeline accepts transcripts, not narrative/raw-notes bundles')
-    require(metadata.get('campaign') and metadata.get('sessionNumber') is not None, 'New bundles require --metadata with campaign and sessionNumber')
-    original = original_path(root, metadata, args.source)
-    require(original.is_file(), f'Missing source: {original}')
-    original_bytes = original.read_bytes()
-    archived = 'sources/' + original.name
-    if safe(root, archived).exists():
-        require(safe(root, archived).read_bytes() == original_bytes, 'Archive filename collision; select the correct input without replacing originals')
+    require(manifest is not None, 'Missing session YAML: process-transcript requires an existing prepared bundle. Ask whether to use prepare-session-source to create one.')
     prepared_path = one(root, 'cleaned/*-source-prepared.md', args.prepared, required=False)
+    require(prepared_path is not None, 'Missing prepared UID transcript: use prepare-session-source to complete or repair the bundle before processing; do not rebuild from raw input here.')
+    manifest_bytes = manifest.read_bytes()
+    metadata = yaml.safe_load(manifest_bytes.decode('utf-8-sig'))
+    require(isinstance(metadata, dict), 'Session YAML must be a mapping')
+    require(metadata.get('sourceType', 'transcript') == 'transcript', 'This pipeline accepts transcripts, not narrative/raw-notes bundles')
+    require(metadata.get('campaign') and metadata.get('sessionNumber') is not None, 'Existing session YAML needs campaign and sessionNumber; resolve intake metadata through prepare-session-source')
+    original = original_path(root, metadata, args.source)
+    require(original.is_file(), f'Missing archived source: {original}; use prepare-session-source to repair intake')
+    archived = str(original.relative_to(root))
+    require(archived.startswith('sources/'), 'Original input must already be archived under this bundle sources/ directory; use prepare-session-source for intake')
+    original_bytes = original.read_bytes()
     cleaned_path = one(root, 'cleaned/*-source-cleaned.md', args.cleaned, required=False)
-    stem = manifest.name.removesuffix('-session.yaml') if manifest else root.name
+    stem = manifest.name.removesuffix('-session.yaml')
     require(bool(re.fullmatch(r'[\w.-]+', stem)), 'Bundle file prefix must be a filename-safe identifier')
-    prepared_bytes = prepared_path.read_bytes() if prepared_path else None
+    prepared_bytes = prepared_path.read_bytes()
     cleaned_bytes = cleaned_path.read_bytes() if cleaned_path else None
-    prepared = parse_units(prepared_bytes.decode('utf-8-sig')) if prepared_path else parse_raw(original_bytes.decode('utf-8-sig'), metadata.get('participants', []))
+    prepared = parse_units(prepared_bytes.decode('utf-8-sig'))
     cleaned = parse_units(cleaned_bytes.decode('utf-8-sig')) if cleaned_path else copy.deepcopy(prepared)
     validate_baseline(prepared, cleaned)
-    artifacts = {'original': archived, 'prepared': str(prepared_path.relative_to(root)) if prepared_path else f'cleaned/{stem}-source-prepared.md',
+    artifacts = {'original': archived, 'prepared': str(prepared_path.relative_to(root)),
                  'cleaned': str(cleaned_path.relative_to(root)) if cleaned_path else f'cleaned/{stem}-source-cleaned.md',
                  'polishedMarkdown': f'cleaned/{stem}-transcript.md', 'polishedJson': f'cleaned/{stem}-transcript.json',
                  'polishedHtml': f'cleaned/{stem}-transcript.html', 'review': f'cleaned/{stem}-transcript-review.md',
                  'entities': f'cleaned/{stem}-transcript-entities.json',
-                 'sessionMetadata': str(manifest.relative_to(root)) if manifest else f'cleaned/{stem}-session.yaml'}
+                 'sessionMetadata': str(manifest.relative_to(root))}
     for path in artifacts.values():
         safe(root, path)
-    expected = {STATE: None, archived: sha(original_bytes) if safe(root, archived).exists() else None,
-                artifacts['prepared']: sha(prepared_bytes) if prepared_bytes is not None else None,
-                artifacts['cleaned']: sha(cleaned_bytes) if cleaned_bytes is not None else None}
-    if manifest:
-        expected[str(manifest.relative_to(root))] = sha(manifest_bytes)
+    expected = {STATE: None, archived: sha(original_bytes),
+                artifacts['prepared']: sha(prepared_bytes),
+                artifacts['cleaned']: sha(cleaned_bytes) if cleaned_bytes is not None else None,
+                artifacts['sessionMetadata']: sha(manifest_bytes)}
     inherited = []
     if cleaned_path:
         for p in (root / 'cleaned/cleanup-artifacts').glob('*-cleanup-decisions.json'):
@@ -198,15 +138,11 @@ def initialize(root, args):
                         inherited.append({'uid': u['uid'], 'span': match[1], 'textSha256': sha(u['text']), 'contextSha256': issue_context(cleaned, u['uid']),
                                           'reason': decision.get('reason', 'Previously recorded human acceptance'), 'source': str(p.relative_to(root))})
     state = {'schemaVersion': VERSION, 'contractVersion': VERSION, 'session': json.loads(encoded(metadata)), 'artifacts': artifacts,
-             'originalSha256': sha(original_bytes), 'preparedSha256': sha(render_units(prepared)),
+             'originalSha256': sha(original_bytes), 'preparedSha256': sha(prepared_bytes),
              'chunks': chunk_units(cleaned, args.chunk_words), 'cleanReviews': {}, 'polish': {}, 'quality': {},
              'attributions': [], 'humanDecisions': {}, 'inheritedAcceptance': inherited, 'revision': 1}
-    files = {archived: original_bytes, artifacts['prepared']: render_units(prepared), artifacts['cleaned']: render_units(cleaned), STATE: encoded(state)}
-    if not manifest:
-        session = dict(metadata, sourceType='transcript', sourceInputPath=str(root / archived), preparedSourcePath=str(root / artifacts['prepared']))
-        expected[f'cleaned/{stem}-session.yaml'] = None
-        files[f'cleaned/{stem}-session.yaml'] = yaml.safe_dump(session, sort_keys=False, allow_unicode=True)
-    commit(root, files, 'Normalize/register transcript artifacts; original bytes and existing UID headers preserved', expected)
+    files = {artifacts['cleaned']: render_units(cleaned), STATE: encoded(state)}
+    commit(root, files, 'Initialize transcript processing from existing prepared references', expected)
     return status(root)
 
 
@@ -551,7 +487,7 @@ def main():
             mode.add_argument('--apply', action='store_true')
             mode.add_argument('--finalize', dest='review_finalize', action='store_true')
         elif name == 'init':
-            for opt in ('source', 'metadata', 'manifest', 'prepared', 'cleaned'):
+            for opt in ('source', 'manifest', 'prepared', 'cleaned'):
                 p.add_argument('--' + opt)
             p.add_argument('--chunk-words', type=int, default=1800)
         elif name == 'work':
@@ -570,7 +506,7 @@ def main():
             result = resolve(args.vault_root.resolve(), args.campaign, args.session)
         else:
             root = args.bundle.expanduser().resolve()
-            require(root.is_dir(), 'The explicit session bundle directory must exist')
+            require(root.is_dir(), 'The prepared session bundle must already exist. Ask whether to use prepare-session-source to create one.')
             if args.command == 'status':
                 result = status(root)
             elif args.command == 'review' and not (args.prepare or args.apply or args.review_finalize):

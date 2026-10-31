@@ -1,6 +1,6 @@
 ---
 name: process-transcript
-description: Process or resume a session transcript through cleanup, polishing, human review, and finalization. Also generate a standalone audio-review page for selected questions or passages across sessions, without running transcript processing. Preserve source mappings and spoken meaning, use reasonable contextual ASR repairs, and retain consequential uncertainty. Starts after transcription; excludes factual correction, recaps, and highlights.
+description: Clean, polish, review, and finalize a transcript in an existing prepared session bundle. Also generate standalone audio-review pages without rerunning processing. If no prepared bundle exists, ask whether to use prepare-session-source to create one. Excludes bundle creation, factual correction, recaps, and highlights.
 ---
 
 # Process Transcript
@@ -10,6 +10,16 @@ Use this for requests such as â€œprocess the transcript from Dunmar session 53,â
 authorizes this workflow's transcript outputs and control files within the selected
 session bundle. A preview request stays read-only. Never run live sessions while
 developing/testing this skill unless the user separately requests that processing.
+
+`prepare-session-source` is the sole owner of new bundle creation. This skill
+starts with an existing session YAML, prepared UID transcript, and archived incoming
+transcript. If a user supplies only a raw transcript or no matching bundle exists,
+ask whether they want to use [prepare-session-source](../prepare-session-source/SKILL.md)
+to create one. Do not create a directory, metadata file, archive, or UID baseline
+as a shortcut. Explicit authorization already covering preparation satisfies this
+question; do not ask again. Incomplete bundles need an inspected preparation repair,
+not reconstruction over existing work. Preparation alone stops at a ready bundle;
+neither processing nor session-note preparation follows without that requested scope.
 
 ## Choose the requested mode
 
@@ -112,8 +122,9 @@ caches beside the skill. Commands below use `HELPER` for this skill's absolute
    ```
 
    Use the single returned bundle, or an explicitly supplied bundle path. Do not
-   create another copy during an ordinary processing run. Missing/ambiguous sources
-   require a precise selection, not guessed session identity. For development,
+   create another copy during an ordinary processing run. If no bundle exists, offer
+   prepare-session-source as described above; ambiguous matches require selection
+   of the intended existing bundle. For development,
    explicitly copy selected bundles to a temporary test directory first and pass
    only the copy to mutating commands.
 
@@ -128,17 +139,17 @@ caches beside the skill. Commands below use `HELPER` for this skill's absolute
    python3 -B HELPER status --bundle BUNDLE
    ```
 
-   `init` registers original/prepared/cleaned paths, normalizes working text to UTF-8
-   and LF, preserves existing UID/header structure, and creates a durable work queue.
+   `init` registers existing original/prepared paths, creates or normalizes cleaned
+   working text to UTF-8 and LF, preserves UID/header structure, and creates a work queue.
    It is idempotent. It does not move/rename files, normalize unrelated recap/beat
-   artifacts, or overwrite archived originals. Temporary recovery snapshots protect
+   artifacts, or write the archived original, prepared baseline, or intake metadata.
+   Temporary recovery snapshots protect
    interrupted writes. Existing cleaned text is the starting point, never discarded merely
    because an old report or acceptance file is missing.
 
-   For a new bundle with only a raw transcript, read
-   [the artifact and response contract](references/contract.md#new-inputs). Supply
-   verified campaign/session metadata and participant mappings; preserve unknown
-   dates. Never overwrite an existing baseline to resolve a structural mismatch.
+   See [required prepared inputs](references/contract.md#prepared-inputs) for path
+   selection. Missing required references stop initialization before any processing
+   files are written. Never rebuild a baseline to resolve a structural mismatch.
 
 3. Treat legacy polished excerpts as candidates. Jobs include overlapping excerpts
    and whether their words/speakers match the current cleaned source. Inspect
