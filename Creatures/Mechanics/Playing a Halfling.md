@@ -12,8 +12,6 @@ POV: modern
 *See more: [[Halflings]], [[First Ones]]*
 D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 
-The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. [[Halflings]] love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
-
 Halflings are wanderers and travelers, merchants and sailors, storytellers and poets, often seen in the communities of other species. Though many halflings are nomadic, and rarely settle in one place for long, they are deeply connected to each other by a unique ancestral consciousness that depends on their gods, the [[First Ones]]. Through this connection they remember fragments of their ancestors’ knowledge and lives, and can speak directly, mind-to-mind, to each other and to those with which they share a language. Halflings, while not as numerous as humans, are frequent sights across the realms of many species of Taelgar. Cheerful and friendly with outsiders, but private and protective of their kin and traditions, halfling traders, wanderers, and storytellers keep the world connected. 
 
 ---

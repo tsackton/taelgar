@@ -22,7 +22,7 @@ Near [[Marwick]], Drubgrak and her followers surrendered to the [[Heroes of Clee
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Drubgrak, language: Kobold, pronunciation: DRUB-grak, status: documented}
+- {name: Drubgrak, language: unknown, pronunciation: DRUB-grak, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
