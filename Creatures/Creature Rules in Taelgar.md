@@ -87,7 +87,7 @@ Notes:
 - Many of the species in this category simply have no origin story or metaphysics invented, and some might not even be species. They are likely in the "unique" category, but might not be. These include:
 	- Common fey - natives of the Feywild; definitely species but origin story very unclear. %% Whether these common folk comprise one species or two remains unresolved. See [[Metaphysics of Creatures#Accrete Soulstuff]] for the alternatives and open naming questions. %%
 	- Goblins - almost certainly a species but origin story very unclear; could, for example, be transformations of hobgoblins somehow granted the ability to accrete soulstuff or fey somehow banished from the Feywild
-	- Kobolds - definitely a species and very likely in this category, but origin story not invented
+	- Kobolds - definitely a species and very likely in this category; origin story involves pre-Riving creation but otherwise not invented; canonically kobolds don't know their own origin story
 	- Dragonets - might not be a species; if they are, might be transformations from dragons; if not, might just have a unique and interesting population on the circular island
 	- Bullywugs - might not be a species; if they are, might be a transformation from something, most likely a non-species 
 	- Djinn, Azer, Efreeti, Dao, Marid - natives of the elemental planes; very likely most/all of these are species, but details of how elemental planes natives arise is unclear. Could be echoes of ancient powers, for example; in an earlier conception of deep history the "elder elementals" were part of the primordial cosmos. 

@@ -85,6 +85,8 @@ The [[Fey]] are natives of the Feywild. They do not have a clear origin story, b
 
 [[Centaurs]] are native to the Material Plane; their origin myths speak of their close connection to the Material Plane. They do not worship gods, except the Material Plane itself as a kind of embodiment of divinity and creation. 
 
+[[Kobolds]] were created before the Riving, but otherwise have no invention around their creation story or metaphysics, except that kobolds themselves do not know their own creation story. 
+
 *Open Questions and Discussion:*
 - Dragons and giants share the properties of coming in different "flavors", often elemental-associated and having the potential to be very powerful. One possible in-world explanation for this is that these species, as they were created before the Riving, maintain some ability to accrete soulstuff from more than one plane. So a red dragon has both material plane soulstuff and plane of fire soulstuff, for example. This could potentially be a common property of both creatures and species that have some pre-Riving connection, though it seems unlikely there would be other species worth introducing that have this property (but might work for other high-CR monstrosities). 
 - Fae or Fey is not a great name for the human-like fey, as it is easily confused with Fey, the general creature type, including both species and non-species creatures native to the Feywild. Potentially need two new names: a name for the fey species as opposed to non-species fey creatures, and a name specifically for the human/elf-like common fey (e.g., a common name like beastfolk, changelings, fairies, satyr, etc, that can refer to a fey form without implying a species or culture exists).
@@ -100,8 +102,6 @@ Only a small number of species in Taelgar truly lack soulstuff. Besides hobgobli
 These species are canonically species, but their metaphysics are unclear for various reasons. 
 
 [[Merfolk]] were created by the [[Sentient Ocean]], which is a native inhabitant of a Far Realm, which it fled. However, they were created on Taelgar. This is probably compatible with either "Lack Soulstuff" or "Accrete Soulstuff" depending on the exact details of this story. 
-
-[[Kobolds]] have no invention at all around their creation story or metaphysics, except that it presumably has something to do with dragons. Either "Accrete Soulstuff" or "Gifted Soulstuff" are possible, although the former is more likely. The latter likely requires that kobolds are the creation of some ancient draconic entities that accreted so much power as to become gods themselves.
 
 [[Kenku]] were canonically created by, more or less, a time paradox that involved [[Aerin]] traveling to the [[Primordial Cosmos]] and becoming the "Kenku firstborn." This could plausibly mean Kenku are gifted soulstuff by Aerin in some manner, or could mean that Kenku accrete soulstuff. The latter seems more likely, but this is not determined canonically. 
 

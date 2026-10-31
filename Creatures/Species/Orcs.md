@@ -11,6 +11,10 @@ POV: modern
 ---
 # Orcs
 
+> [!image|hero]
+> ![[orcs-war-without-end.webp]]
+> *An orc warband on the march.*
+
 > [!quote] The Blood Binding, excerpt
 >_O Thark, whose chains no hand can break, by fire and blood this soul we bind._  
 >_No peace. No rest. Let hunger burn. Let strife be all this soul shall find._
@@ -24,6 +28,10 @@ Orcs are robust and imposing, often standing over six feet tall, with tusks prot
 Orcs mature much faster than humans, reaching adulthood at about ten years of age. Their natural lifespan is similar to that of humans, but most die in battle long before old age. Despite high birth rates, the constant warfare between orc bands usually keeps their populations small.
 
 ## Warbands and Hordes
+
+> [!image|right standard]
+> ![[orcs-horde-leader.webp]]
+> *An orc horde leader in battle gear.*
 
 Orc communities are generally small, and scattered widely across Taelgar, often in marginal lands on the edges of settled realms. They lack centralized governance, and an orc band often extends no further than a large family. Compelled to violence by [[Thark]], these orc groups frequently fight each other, although they raid settled areas when they can. These raids against neighboring settlements provide food, weapons, and treasure, as well as captives who may be held for ransom, forced to labor, or killed.
 
@@ -40,6 +48,10 @@ Rumors circulate throughout Taelgar of unchained orcs, free orcs that have broke
 %%^Campaign:dufr%%
 ## Free Orcs
 
+> [!image|right standard]
+> ![[orcs-farmer-at-rest.webp]]
+> *A free orc farmer rests beside his fields after a hot day's work.*
+
 Thark's chains can be escaped. Orcs who have never undergone the binding ritual grow up free of his compulsion, and free to live their lives for themselves. Others have had their bonds severed through powerful magic. Once tied to [[Thark]], breaking the connection is very hard, so most free orcs are those who were born free, usually to other free orcs who, naturally, refuse to carry out the binding ritual.
 
 For those once bound, freedom can be difficult. Some orcs freed from bondage describe the fire of Thark's chains still burning at times, long after liberation. Among the [[People of the Rainbow]], the [[Hezguli]] offer support and fellowship to orcs learning to live with these scars.
@@ -51,6 +63,10 @@ Orcs born free, having never endured the chains of Thark themselves, do not suff
 The [[People of the Rainbow]] are a community of free orcs living in the deserts east of [[Dunmar]]. They trace their beginnings to orc children raised in [[Amberglow]], under the protection of the [[Cloudspinner]], who kept them from Thark's influence, and wove the [[Cloak of Rainbows]] for them. The cloak protected them from Thark and allowed them to venture into Taelgar and free others. But it was not to last: the cloak was stolen by [[Apollyon]] and remained lost for centuries after the [[Fall of Drankor]]. The People of the Rainbow survived for centuries of darkness, in scattered, hidden communities.
 
 After the [[Great War]], the [[Cloak of Rainbows]] was found by [[Uzgash]], who settled [[Xurkhaz]] as the homeland of the People of the Rainbow in the deserts east of [[Dunmar]]. In Xurkhaz, irrigated fields and cattle pastures support villages and towns decorated with colorful paintings and carvings. The rulers of Xurkhaz maintain the cloak's protection by walking the kingdom's borders, while soldiers defend its settlements. Freeing others from Thark remains an enduring hope of the People of the Rainbow, alongside and as part of the work of sustaining their own families and communities.
+
+> [!image|figure standard]
+> ![[orcs-life-in-xurkhaz.webp]]
+> *Village life beside the irrigated fields of Xurkhaz.*
 
 Among the People of the Rainbow it is believed that a life well lived becomes poison to Thark. They believe that happiness, good deeds, and the defense of others strengthen a soul for a final blow against him after death.
 
@@ -73,7 +89,7 @@ Among the People of the Rainbow it is believed that a life well lived becomes po
 
 ### Open Questions and Ideas to Reuse
 
-- **Other free communities:** Nuzkar's search for stories and rumors provides an existing reason to discover them. Their locations, origins, and customs can be developed without assuming they all descend from the People of the Rainbow or depend on a second cloak.
+- **Other free communities:** There are presumably others, but haven't been developed. Since any free orc community would have a reason to hide, they can be dropped almost anywhere.
 - **Family life — brainstorming:** the November 2023 discussion suggests some free orcs avoid children because they fear Thark might claim them, while others have large families because they trust their freedom. This could give individuals contrasting relationships to parenthood.
 - **Religion and gratitude — brainstorming:** the same discussion explores distrust of gods, gratitude toward ancestors who earned the Cloudspinner's gift, and gratitude toward rulers who do the difficult work of maintaining Xurkhaz's protection. Riswynn offers a reason for some individuals to reconsider their attitudes toward divine powers. 
 

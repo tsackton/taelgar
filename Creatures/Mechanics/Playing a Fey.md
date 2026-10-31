@@ -9,7 +9,7 @@ POV: modern
 *See more: [[Fey]], [[Feywild]]*
 D&D Beyond Links: see Fey Options, below
 
-The fey, the natives of the [[Feywild]], are as varied as the realms they inhabit. Some resemble humans or elves, though often marked by unusual eyes or an otherworldly elegance. Others have wings, horns, fur, or feathers, or take entirely animal forms: the familiar satyrs have the legs of goats and the body of a human, but rabbit-folk, owl-folk, bear-folk, and others can be found across the Feywild. Some fey can change their appearance at will. Some are small, with fairy wings. 
+The fey, the natives of the [[Feywild]], are as varied as the realms they inhabit. Some resemble humans or elves, though often marked by unusual eyes or an otherworldly elegance. Others have wings, horns, fur, or feathers, or take entirely animal forms: familiar satyrs have the legs of goats and the body of a human, but rabbit-folk, owl-folk, bear-folk, and others can be found across the Feywild. Some fey can change their appearance at will. Some are small, with fairy wings. 
 
 The Feywild is a realm of magic and emotion, where time and distance do not follow mortal expectations. The sun does not move across the sky, but rather as a traveler moves east, the sun sinks lower and lower. Some realms are in perpetual afternoon sun, while others linger in eternal night. The archfey, the great powers of the Feywild, shape these domains by their own natures, so the weather, landscape, and dangers of each realm reflect the being at its heart. 
 

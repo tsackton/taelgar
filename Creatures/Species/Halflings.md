@@ -15,7 +15,8 @@ POV: modern
 > ![[halflings-under-full-sail.webp]]
 > *A halfling crew runs before a strong wind under brightly colored sails.*
 
-On roads and riverways, and in many harbors along the [[Green Sea]] and the [[Endless Ocean]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They often travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors or snubs, even generations later. Halflings commonly speak mind‑to‑mind among themselves, and their storytellers are famed for carrying memories older than any living person.
+The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. [[Halflings]] love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
+
 ## Appearance
 
 Halflings are small and sturdy, usually no more than 3 to 3½ feet tall, with a tendency toward a healthy stoutness and curly hair. Otherwise, they are quite variable in appearance, with diverse complexions, though with a strong tendency for bright eyes, usually green, brown, or hazel. Halflings favor practical garb, and often prefer travel‑ready coats and trousers built for long walks to more elaborate gear, though many cannot resist a few flashes of color and style. A halfling traveler, in muted traveler's clothes, with a brightly colored cloak or a well-tailored hat is a common sight. 
