@@ -37,14 +37,14 @@ covers saved reviews and manual feedback. The [pipeline/model contract](.agents/
 defines the read-only v7 candidate projection. Final interaction generation,
 automatic feedback application, and Obsidian review integration are unfinished.
 
-The stages below are normally called by the session pipeline, except for the optional transcript polisher after the recap. Use them directly when you want one stage, rather than the whole process.
+The stages below are normally called by the session pipeline, except for the optional excerpt and highlights workflow after the recap. Use them directly when you want one stage, rather than the whole process.
 
 | Skill | What it does | Example use case |
 | --- | --- | --- |
 | [transcript-splitter](.agents/skills/transcript-splitter/SKILL.md) | Divides a cleaned transcript or normalized written source into ordered story beats, preserving complete source coverage. Produces beat data and a readable preview. | “Split this cleaned source into beats.” |
 | [beat-annotator](.agents/skills/beat-annotator/SKILL.md) | Records the supported facts for each beat, including people, places, items, organizations, and combat. Full-session work also reviews chronology against the session dates; a single-beat mode is available. | “Annotate these beats and check the session chronology.” |
 | [session-summary](.agents/skills/session-summary/SKILL.md) | Builds the structured recap from finalized beats and facts, using the pipeline's scene grouping and chronology when applicable. Produces compact timeline entries and recap prose at three levels of detail. | “Draft the session recap from these finalized beats and facts.” |
-| [beat-transcript-polisher](.agents/skills/beat-transcript-polisher/SKILL.md) | Produces readable transcript excerpts organized around recap scenes and links them from the recap. Preserves unresolved ASR `{{...}}` markers for review. Use after the recap exists, when the transcript itself is wanted as a more detailed view. | “Add polished transcript excerpts for this completed recap.” |
+| [beat-transcript-polisher](.agents/skills/beat-transcript-polisher/SKILL.md) | Copies recap excerpts from the finalized polished transcript, preserving corrected speakers and source spans, and helps select quotes/audio highlights. Reruns preserve existing recap selections; no second polishing pass. | “Add transcript excerpts and highlight candidates for this recap, keeping my existing selections.” |
 
 ## Reviewing and completing vault notes
 

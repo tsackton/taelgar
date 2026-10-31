@@ -7,15 +7,17 @@ from __future__ import annotations
 import argparse
 import os
 import re
+import sys
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Sequence, Tuple
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / 'prepare-interaction-transcript' / 'scripts'))
+from interaction_draft import parse_polished, coverage, DraftError
 
-SOURCE_LINE_RE = re.compile(r"^(?P<header>\[(?P<uid>u\d{4,})(?:\s*\|[^\]]+)?\])\s*(?P<text>.*)$")
+
 RECAP_HEADING_RE = re.compile(r"^### (?P<block_id>recap-\d+)\s+\|\s+(?P<title>.+)$")
 RECAP_METADATA_RE = re.compile(r"^-\s+(?P<key>[^:]+):\s*(?P<value>.*)$")
 SOURCE_RANGE_VALUE_RE = re.compile(r"^(?P<start>u\d{4,})\s*->\s*(?P<end>u\d{4,})$")
-SOURCE_MARKER_RE = re.compile(r"^%%\s*(?P<start>u\d{4,})(?:-(?P<end>u\d{4,}))?\s*%%$")
 SPEAKER_TURN_RE = re.compile(r"^[^:\n]{1,80}:\s+\S")
 HIGHLIGHT_ID_RE = re.compile(r"^\s*-\s+ID:\s*(?P<id>[A-Za-z0-9_.:-]+)\s*$")
 TRANSCRIPT_HEADING = "## Transcript"
@@ -24,12 +26,11 @@ HIGHLIGHTS_HEADING = "## Pull Quotes"
 MONOLOGUES_HEADING = "## Audio Monologue Candidates"
 RECAP_PULL_QUOTES_HEADING = "## Pull Quotes"
 RECAP_AUDIO_HEADING = "## Audio Highlights"
-MAX_DRAFT_GROUP_LINES = 12
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Manage recap-scoped polished transcript files.")
-    parser.add_argument("--transcript", type=Path, required=True, help="Cleaned source transcript path.")
+    parser.add_argument("--transcript", type=Path, required=True, help="Finalized full-session polished Markdown path.")
     parser.add_argument(
         "--context-json",
         type=Path,
@@ -45,6 +46,8 @@ def parse_args() -> argparse.Namespace:
         help="Unique lowercase prefix for generated artifacts, e.g. 'addermarch-campaign-007'.",
     )
     parser.add_argument("--recap-block-id", type=str, default=None, help="Optional recap block id to process.")
+    parser.add_argument("--seed-highlights", action="store_true",
+                        help="Explicitly seed missing recap highlight sections; preserve every existing section, even empty.")
     parser.add_argument(
         "--validate-only",
         action="store_true",
@@ -64,8 +67,8 @@ def main() -> int:
     recap_path = args.session_recap_md.expanduser().resolve()
     output_dir = args.output_dir.expanduser().resolve()
     file_prefix = args.file_prefix.strip()
-    if not file_prefix:
-        raise SystemExit("--file-prefix must be non-empty.")
+    if not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9_.-]*', file_prefix):
+        raise SystemExit("--file-prefix must be a plain filename prefix.")
 
     for label, path in (
         ("--transcript", transcript_path),
@@ -74,19 +77,20 @@ def main() -> int:
     ):
         assert_not_in_sources_dir(path, label)
 
-    transcript_lines = read_source_lines(transcript_path)
-    uid_to_index = build_uid_index(transcript_lines)
+    transcript_lines = read_polished_turns(transcript_path)
     blocks = select_recap_blocks(read_recap_blocks(recap_path), args.recap_block_id)
     summary_path = output_dir / f"{file_prefix}-transcript-highlights.md"
     plan = build_plan(
         blocks=blocks,
         transcript_lines=transcript_lines,
-        uid_to_index=uid_to_index,
         transcript_path=transcript_path,
         recap_path=recap_path,
         output_dir=output_dir,
         file_prefix=file_prefix,
     )
+    for path in [summary_path, *(item['outputPath'] for item in plan)]:
+        if path.is_symlink() or path.resolve() in {transcript_path, recap_path}:
+            raise SystemExit(f"Output aliases a source or is a symlink: {path}")
 
     if not args.validate_only:
         output_dir.mkdir(parents=True, exist_ok=True)
@@ -94,7 +98,8 @@ def main() -> int:
         sync_file_headings(plan)
         write_missing_summary_file(summary_path, plan, transcript_path=transcript_path, recap_path=recap_path)
         patch_session_recap(recap_path, plan)
-        sync_recap_review_media(recap_path, summary_path)
+        if args.seed_highlights:
+            sync_recap_review_media(recap_path, summary_path)
 
     errors, warnings = validate_outputs(recap_path, plan, summary_path=summary_path)
     for warning in warnings:
@@ -117,35 +122,19 @@ def assert_not_in_sources_dir(path: Path, arg_name: str) -> None:
         raise SystemExit(f"{arg_name} must not point inside a bundle 'sources' directory: {path}")
 
 
-def read_source_lines(path: Path) -> List[Dict[str, str]]:
-    lines: List[Dict[str, str]] = []
-    for line_number, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
-        if not raw.strip():
-            continue
-        match = SOURCE_LINE_RE.match(raw)
-        if not match:
-            raise SystemExit(f"Invalid cleaned source line in {path}:{line_number}: {raw}")
-        lines.append(
-            {
-                "uid": match.group("uid"),
-                "raw": raw,
-                "speaker": extract_speaker(match.group("header")),
-                "text": match.group("text").strip(),
-            }
-        )
-    return lines
-
-
-def extract_speaker(header: str) -> str:
-    inner = header.strip()[1:-1]
-    parts = [part.strip() for part in inner.split("|")]
-    if len(parts) >= 3 and parts[-1]:
-        return parts[-1]
-    return "Source"
-
-
-def build_uid_index(transcript_lines: Sequence[Dict[str, str]]) -> Dict[str, int]:
-    return {line["uid"]: index for index, line in enumerate(transcript_lines)}
+def read_polished_turns(path: Path) -> List[Dict[str, Any]]:
+    text = path.read_bytes().decode("utf-8")
+    try:
+        header, turns = parse_polished(text)
+        if not re.search(r'^- Status: Complete(?: with retained uncertainty)?$', header, re.M):
+            raise DraftError("Use a finalized polished transcript (Status: Complete or Complete with retained uncertainty)")
+        coverage(turns)
+        for turn in turns:
+            if not SPEAKER_TURN_RE.match(turn['body']) or re.search(r'^%%', turn['body'], re.M):
+                raise DraftError("Malformed polished turn or source comment")
+    except DraftError as exc:
+        raise SystemExit(f"{path}: {exc}") from exc
+    return turns
 
 
 def read_recap_blocks(recap_path: Path) -> List[Dict[str, Any]]:
@@ -265,14 +254,24 @@ def select_recap_blocks(blocks: Sequence[Dict[str, Any]], block_id: Optional[str
 def build_plan(
     *,
     blocks: Sequence[Dict[str, Any]],
-    transcript_lines: Sequence[Dict[str, str]],
-    uid_to_index: Dict[str, int],
+    transcript_lines: Sequence[Dict[str, Any]],
     transcript_path: Path,
     recap_path: Path,
     output_dir: Path,
     file_prefix: str,
 ) -> List[Dict[str, Any]]:
     plan: List[Dict[str, Any]] = []
+    uid_to_index = {uid: i for i, (uid, _, _) in enumerate(coverage(transcript_lines))}
+    # A connected group can contain multiple speakers sharing one UID. Never
+    # cut a turn or strand another speaker's part of that UID at an edge.
+    groups = []
+    for turn in transcript_lines:
+        start, end = turn['spans'][0][0], turn['spans'][-1][0]
+        if groups and groups[-1]['end'] == start:
+            groups[-1]['end'] = end
+            groups[-1]['turns'].append(turn)
+        else:
+            groups.append(dict(start=start, end=end, turns=[turn]))
     for block in blocks:
         start_index = uid_to_index.get(block["startUid"])
         end_index = uid_to_index.get(block["endUid"])
@@ -283,7 +282,9 @@ def build_plan(
         output_path = output_dir / f"{file_prefix}-{safe_slug(block['blockId'])}-transcript.md"
         relative_path = relative_markdown_path(output_path, recap_path.parent)
         source_relative_path = relative_markdown_path(transcript_path, output_path.parent)
-        selected_lines = list(transcript_lines[start_index : end_index + 1])
+        selected_lines = [turn for group in groups
+                          if uid_to_index[group['end']] >= start_index and uid_to_index[group['start']] <= end_index
+                          for turn in group['turns']]
         plan.append(
             {
                 **block,
@@ -291,7 +292,8 @@ def build_plan(
                 "relativePath": relative_path,
                 "sourceRelativePath": source_relative_path,
                 "sourceLines": selected_lines,
-                "expectedUids": [line["uid"] for line in selected_lines],
+                "excerptStartUid": selected_lines[0]['spans'][0][0],
+                "excerptEndUid": selected_lines[-1]['spans'][-1][0],
             }
         )
     return plan
@@ -320,60 +322,18 @@ def render_transcript_file(item: Dict[str, Any]) -> str:
         "",
         f"- Recap Block: {item['blockId']}",
         f"- Beat IDs: {', '.join(item['beatIds']) if item['beatIds'] else 'none'}",
-        f"- Source Range: {item['startUid']} -> {item['endUid']}",
+        f"- Source Range: {item['excerptStartUid']} -> {item['excerptEndUid']}",
+        f"- Recap Source Range: {item['startUid']} -> {item['endUid']}",
         f"- Source Transcript: {item['sourceRelativePath']}",
         "",
         TRANSCRIPT_HEADING,
         "",
     ]
-    lines.extend(render_draft_turns(item["sourceLines"]))
-    return "\n".join(lines).rstrip() + "\n"
+    return "\n".join(lines) + "\n" + ''.join(turn['raw'] for turn in item['sourceLines'])
 
 
 def transcript_heading(item: Dict[str, Any]) -> str:
     return f"# {item['blockId']} | {item['title']}"
-
-
-def render_draft_turns(source_lines: Sequence[Dict[str, str]]) -> List[str]:
-    output: List[str] = []
-    for group in group_source_lines(source_lines):
-        output.append(format_source_marker([line["uid"] for line in group]))
-        output.append(f"{group[0]['speaker']}: {join_source_text(group)}")
-        output.append("")
-    while output and output[-1] == "":
-        output.pop()
-    return output
-
-
-def group_source_lines(source_lines: Sequence[Dict[str, str]]) -> List[List[Dict[str, str]]]:
-    groups: List[List[Dict[str, str]]] = []
-    current: List[Dict[str, str]] = []
-    for line in source_lines:
-        if (
-            current
-            and (
-                line["speaker"] != current[-1]["speaker"]
-                or len(current) >= MAX_DRAFT_GROUP_LINES
-            )
-        ):
-            groups.append(current)
-            current = []
-        current.append(line)
-    if current:
-        groups.append(current)
-    return groups
-
-
-def format_source_marker(uids: Sequence[str]) -> str:
-    if not uids:
-        raise ValueError("Cannot format an empty UID marker.")
-    if len(uids) == 1:
-        return f"%% {uids[0]} %%"
-    return f"%% {uids[0]}-{uids[-1]} %%"
-
-
-def join_source_text(lines: Sequence[Dict[str, str]]) -> str:
-    return " ".join(line["text"] for line in lines if line["text"]).strip()
 
 
 def sync_file_headings(plan: Sequence[Dict[str, Any]]) -> None:
@@ -382,14 +342,14 @@ def sync_file_headings(plan: Sequence[Dict[str, Any]]) -> None:
         if not output_path.exists():
             continue
         desired_heading = transcript_heading(item)
-        lines = output_path.read_text(encoding="utf-8").splitlines()
-        if lines and lines[0].startswith("# "):
-            lines[0] = desired_heading
-            if len(lines) == 1 or lines[1].strip():
-                lines.insert(1, "")
+        text = output_path.read_text(encoding="utf-8")
+        if text.startswith("# "):
+            _, separator, rest = text.partition('\n')
+            updated = desired_heading + separator + rest
         else:
-            lines = [desired_heading, ""] + lines
-        output_path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+            updated = desired_heading + '\n\n' + text
+        if updated != text:
+            output_path.write_text(updated, encoding="utf-8")
 
 
 def write_missing_summary_file(
@@ -451,12 +411,14 @@ def render_summary_file(plan: Sequence[Dict[str, Any]], *, transcript_path: Path
 def patch_session_recap(recap_path: Path, plan: Sequence[Dict[str, Any]]) -> None:
     path_by_block = {item["blockId"]: item["relativePath"] for item in plan}
     source_seen = {item["blockId"]: False for item in plan}
-    lines = recap_path.read_text(encoding="utf-8").splitlines()
+    lines = recap_path.read_text(encoding="utf-8").splitlines(keepends=True)
     patched: List[str] = []
     in_recap = False
     current_block_id: Optional[str] = None
+    metadata_open = False
 
-    for line in lines:
+    for raw in lines:
+        line = raw.rstrip('\r\n')
         if line.startswith("## "):
             in_recap = line == "## Recap"
             current_block_id = None
@@ -464,20 +426,25 @@ def patch_session_recap(recap_path: Path, plan: Sequence[Dict[str, Any]]) -> Non
             heading_match = RECAP_HEADING_RE.match(line)
             if heading_match:
                 current_block_id = heading_match.group("block_id")
-            if current_block_id in path_by_block and line.startswith(f"- {PATH_KEY}:"):
+                metadata_open = True
+            if line.startswith("#### "):
+                metadata_open = False
+            if metadata_open and current_block_id in path_by_block and line.startswith(f"- {PATH_KEY}:"):
                 continue
-            patched.append(line)
-            if current_block_id in path_by_block and line.startswith("- Source Range:"):
-                patched.append(f"- {PATH_KEY}: {path_by_block[current_block_id]}")
+            patched.append(raw)
+            if metadata_open and current_block_id in path_by_block and line.startswith("- Source Range:"):
+                if not raw.endswith('\n'):
+                    patched.append('\n')
+                patched.append(f"- {PATH_KEY}: {path_by_block[current_block_id]}\n")
                 source_seen[current_block_id] = True
             continue
-        patched.append(line)
+        patched.append(raw)
 
     missing_source = [block_id for block_id, seen in source_seen.items() if not seen]
     if missing_source:
         raise SystemExit("Could not find Source Range in recap blocks: " + ", ".join(missing_source))
 
-    updated = "\n".join(patched).rstrip() + "\n"
+    updated = "".join(patched)
     if updated != recap_path.read_text(encoding="utf-8"):
         recap_path.write_text(updated, encoding="utf-8")
 
@@ -490,16 +457,14 @@ def sync_recap_review_media(recap_path: Path, summary_path: Path) -> None:
     audio_candidates = parse_summary_entries(level2_section_after_heading(summary_text, MONOLOGUES_HEADING))
 
     recap_text = recap_path.read_text(encoding="utf-8")
-    updated = replace_level2_section(
-        recap_text,
-        RECAP_PULL_QUOTES_HEADING,
-        render_recap_pull_quotes_section(pull_quotes),
-    )
-    updated = replace_level2_section(
-        updated,
-        RECAP_AUDIO_HEADING,
-        render_recap_audio_section(audio_candidates),
-    )
+    updated = recap_text
+    # Seeding is explicit. Existing sections, including empty ones, are authoritative.
+    for heading, body in (
+        (RECAP_PULL_QUOTES_HEADING, render_recap_pull_quotes_section(pull_quotes)),
+        (RECAP_AUDIO_HEADING, render_recap_audio_section(audio_candidates)),
+    ):
+        if heading not in [line.strip() for line in recap_text.splitlines()] and body:
+            updated += ('\n\n' if not updated.endswith('\n\n') else '') + heading + '\n\n' + body + '\n'
     if updated != recap_text:
         recap_path.write_text(updated, encoding="utf-8")
 
@@ -544,7 +509,7 @@ def render_recap_pull_quotes_section(entries: Sequence[Dict[str, str]]) -> str:
         quote = entry.get("Quote", "").strip()
         speaker = entry.get("Speaker", "").strip()
         source_lines = entry.get("Source Lines", "").strip()
-        if not entry.get("ID") or not quote or not speaker or not source_lines:
+        if not entry.get("ID") or not quote or not speaker or not source_lines or any("TODO" in value for value in entry.values()):
             continue
         rendered_entries.extend(
             [
@@ -564,7 +529,7 @@ def render_recap_audio_section(entries: Sequence[Dict[str, str]]) -> str:
         entry_id = entry.get("ID", "").strip()
         speaker = entry.get("Speaker", "").strip()
         source_lines = entry.get("Source Lines", "").strip()
-        if not entry_id or not speaker or not source_lines:
+        if not entry_id or not speaker or not source_lines or any("TODO" in value for value in entry.values()):
             continue
         title = entry.get("Title", "").strip() or entry.get("Summary", "").strip() or entry_id
         output = entry.get("Output", "").strip() or f"{entry_id}.m4a"
@@ -583,47 +548,6 @@ def render_recap_audio_section(entries: Sequence[Dict[str, str]]) -> str:
                 rendered_entries.append(f"  - {optional_key}: {value}")
         rendered_entries.append("")
     return "\n".join(rendered_entries).rstrip()
-
-
-def replace_level2_section(text: str, heading: str, body: str) -> str:
-    lines = text.splitlines()
-    start: Optional[int] = None
-    end = len(lines)
-    for index, raw in enumerate(lines):
-        if raw.strip() == heading:
-            start = index
-            continue
-        if start is not None and index > start and raw.startswith("## "):
-            end = index
-            break
-
-    if not body.strip():
-        if start is None:
-            return text
-        new_lines = list(lines[:start])
-        while new_lines and not new_lines[-1].strip():
-            new_lines.pop()
-        tail = list(lines[end:])
-        while tail and not tail[0].strip():
-            tail.pop(0)
-        if tail:
-            new_lines.extend(["", *tail])
-        return "\n".join(new_lines).rstrip() + "\n"
-
-    section_lines = [heading, "", *body.splitlines()]
-    if start is None:
-        base = text.rstrip()
-        separator = "\n\n" if base else ""
-        section_text = "\n".join(section_lines)
-        return f"{base}{separator}{section_text}\n"
-
-    new_lines = [*lines[:start], *section_lines]
-    tail = list(lines[end:])
-    while tail and not tail[0].strip():
-        tail.pop(0)
-    if tail:
-        new_lines.extend(["", *tail])
-    return "\n".join(new_lines).rstrip() + "\n"
 
 
 def validate_outputs(recap_path: Path, plan: Sequence[Dict[str, Any]], *, summary_path: Path) -> Tuple[List[str], List[str]]:
@@ -646,20 +570,22 @@ def validate_outputs(recap_path: Path, plan: Sequence[Dict[str, Any]], *, summar
         first_line = first_nonempty_line(output_path)
         if first_line != expected_heading:
             errors.append(f"{item['blockId']} transcript heading mismatch: expected {expected_heading!r}, got {first_line!r}")
-        try:
-            actual_uids, format_errors = read_transcript_marker_uids(output_path, item["expectedUids"])
-        except ValueError as exc:
-            errors.append(f"{item['blockId']} {exc}")
-            continue
-        errors.extend(f"{item['blockId']} {error}" for error in format_errors)
-        if actual_uids != item["expectedUids"]:
-            errors.append(
-                f"{item['blockId']} UID coverage mismatch in {output_path}: "
-                f"expected {format_uid_span(item['expectedUids'])}, got {format_uid_span(actual_uids)}"
-            )
+        expected_body = ''.join(turn['raw'] for turn in item['sourceLines'])
         text = output_path.read_text(encoding="utf-8")
-        if "[[" in text or "]]" in text:
-            warnings.append(f"{item['blockId']} still contains unresolved [[...]] markers.")
+        prefix, separator, actual_body = text.partition(TRANSCRIPT_HEADING + '\n\n')
+        if not separator or actual_body != expected_body:
+            errors.append(f"{item['blockId']} excerpt differs from polished turns or source spans; refresh with --overwrite after reviewing existing edits")
+        for expected in (
+            f"- Source Transcript: {item['sourceRelativePath']}",
+            f"- Source Range: {item['excerptStartUid']} -> {item['excerptEndUid']}",
+            f"- Recap Source Range: {item['startUid']} -> {item['endUid']}",
+        ):
+            if expected not in prefix.splitlines():
+                errors.append(f"{item['blockId']} excerpt metadata is stale: expected {expected}")
+        if (item['excerptStartUid'], item['excerptEndUid']) != (item['startUid'], item['endUid']):
+            warnings.append(f"{item['blockId']} includes whole-turn context {item['excerptStartUid']} -> {item['excerptEndUid']}")
+        if "{{" in actual_body:
+            warnings.append(f"{item['blockId']} retains source uncertainty {{{{...}}}}; no new review required")
         if "TODO" in text:
             warnings.append(f"{item['blockId']} still contains TODO text.")
     summary_errors, summary_warnings = validate_summary_file(summary_path, plan)
@@ -696,7 +622,7 @@ def validate_summary_file(summary_path: Path, plan: Sequence[Dict[str, Any]]) ->
             heading = find_beat_heading(text, entry["beatId"])
             if heading is None:
                 errors.append(f"Transcript highlights summary is missing beat heading for {entry['beatId']}.")
-            elif not beat_section_has_id(text, heading):
+            elif not beat_section_has_id(text, heading) and "None identified." not in section_after_heading(text, heading):
                 errors.append(f"Transcript highlights summary beat section is missing a pull quote ID: {heading}")
     audio_text = section_after_heading(text, MONOLOGUES_HEADING)
     if "None identified." not in audio_text and audio_text.strip() and not collect_highlight_ids(audio_text):
@@ -743,82 +669,6 @@ def section_after_heading(text: str, heading: str) -> str:
         if capture:
             captured.append(raw)
     return "\n".join(captured)
-
-
-def read_transcript_marker_uids(path: Path, expected_uids: Sequence[str]) -> Tuple[List[str], List[str]]:
-    body_lines = transcript_body_lines(path)
-    uid_order = {uid: index for index, uid in enumerate(expected_uids)}
-    uids: List[str] = []
-    errors: List[str] = []
-    pending_marker_line: Optional[int] = None
-    pending_marker_has_turn = True
-
-    for line_number, raw in body_lines:
-        stripped = raw.strip()
-        if not stripped:
-            continue
-        marker_match = SOURCE_MARKER_RE.match(stripped)
-        if marker_match:
-            if pending_marker_line is not None and not pending_marker_has_turn:
-                errors.append(f"source marker at line {pending_marker_line} is not followed by a speaker turn.")
-            try:
-                uids.extend(expand_uid_marker(marker_match, uid_order, path, line_number))
-            except ValueError as exc:
-                errors.append(str(exc))
-            pending_marker_line = line_number
-            pending_marker_has_turn = False
-            continue
-        if SOURCE_LINE_RE.match(stripped):
-            errors.append(f"visible source header remains at line {line_number}: {stripped}")
-            pending_marker_has_turn = True
-            continue
-        if stripped.startswith("%%") and stripped.endswith("%%"):
-            errors.append(f"malformed source marker at line {line_number}: {stripped}")
-            continue
-        if not SPEAKER_TURN_RE.match(stripped):
-            errors.append(f"visible transcript line is not `Speaker: text` format at line {line_number}: {stripped}")
-            pending_marker_has_turn = True
-            continue
-        if pending_marker_line is None or pending_marker_has_turn:
-            errors.append(f"speaker turn at line {line_number} is missing an immediately preceding source marker.")
-        pending_marker_has_turn = True
-
-    if pending_marker_line is not None and not pending_marker_has_turn:
-        errors.append(f"source marker at line {pending_marker_line} is not followed by a speaker turn.")
-    return uids, errors
-
-
-def expand_uid_marker(match: re.Match[str], uid_order: Dict[str, int], path: Path, line_number: int) -> List[str]:
-    start_uid = match.group("start")
-    end_uid = match.group("end") or start_uid
-    if start_uid not in uid_order:
-        raise ValueError(f"source marker at {path}:{line_number} references unknown UID {start_uid}.")
-    if end_uid not in uid_order:
-        raise ValueError(f"source marker at {path}:{line_number} references unknown UID {end_uid}.")
-    start_index = uid_order[start_uid]
-    end_index = uid_order[end_uid]
-    if start_index > end_index:
-        raise ValueError(f"source marker at {path}:{line_number} has inverted range {start_uid}-{end_uid}.")
-    all_uids = list(uid_order)
-    return all_uids[start_index : end_index + 1]
-
-
-def transcript_body_lines(path: Path) -> List[Tuple[int, str]]:
-    raw_lines = path.read_text(encoding="utf-8").splitlines()
-    start_index = 0
-    for index, line in enumerate(raw_lines):
-        if line.strip() == TRANSCRIPT_HEADING:
-            start_index = index + 1
-            break
-    return [(index + 1, line) for index, line in enumerate(raw_lines[start_index:], start=start_index)]
-
-
-def format_uid_span(uids: Sequence[str]) -> str:
-    if not uids:
-        return "no UIDs"
-    if len(uids) == 1:
-        return uids[0]
-    return f"{uids[0]} -> {uids[-1]} ({len(uids)} lines)"
 
 
 if __name__ == "__main__":
