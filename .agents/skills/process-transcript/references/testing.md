@@ -18,7 +18,7 @@ The behavioral suite checks incomplete-work gates, word preservation outside exp
 repetitions/false starts, uncertainty, annotations, numerical notation, character
 coverage, speaker overlays including within-UID splits, cross-chunk continuity,
 neighbor-review invalidation, human-decision invalidation, manual export changes,
-resumption, interrupted writes, dependency conflicts, source-format adapters,
+resumption, interrupted writes, dependency conflicts, prepared-bundle intake gates,
 path/symlink restrictions, independent session locks, and removal/regeneration of
 optional display/review views without losing retained references or pending review. Finalization tests cover permanent prepared-text retention, minimal remaining files, metadata/comment preservation, corrected speakers retained only in polished Markdown, review gates, edited references, interrupted retirement, symlinks, and idempotent completion without recreating state.
 A child-process audit hook observes filesystem writes across an entire processing and finalization run and rejects any
@@ -158,3 +158,16 @@ audio. Real clipping through the shared ffmpeg helper produced playable M4A file
 the page displayed three items, saved a multiline answer, accepted a proposal,
 kept a deferred question open, and preserved all answers after reload. The temporary
 server was stopped afterward. No live session references were changed.
+
+## Prepared-bundle boundary, 2026-10-30
+
+The 85-test suite passed across the main run and the separately permitted localhost
+server test. Processing fixtures now supply prepared bundles before initialization.
+New regressions verify missing bundles/YAML/prepared text fail without creating
+processing artifacts, external originals cannot be imported, the removed metadata
+option is rejected, and prepared bytes (including BOM/CRLF) and intake metadata
+remain unchanged. A real prepare-session-source CLI invocation builds an isolated
+speaker-lines bundle and stops; processing then consumes it with its existing UIDs,
+mapped speakers, and unknown dates intact. Seven copied finalized sessions remain
+current without recreated work, with all live hashes unchanged. Raw-format parsing
+is no longer a process-transcript capability.

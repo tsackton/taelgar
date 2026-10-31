@@ -234,8 +234,11 @@ def build(root, plan):
     diff = ''.join(''.join(difflib.unified_diff(core.safe(root, p).read_text(encoding='utf-8').splitlines(True),
                          (value.decode() if isinstance(value, bytes) else value).splitlines(True), fromfile=p, tofile=p))
                    for p, value in changed_files.items())
-    dependencies = [str(p.relative_to(root)) for pattern in ('*-scene-map.json', '*-entity-map.json', '*-interactions-draft.md', '*-beats.json', '*-beat-facts.json', '*-session-recap.md')
-                    for p in (root/'cleaned').glob(pattern)]
+    dependencies = sorted({str(p.relative_to(root)) for pattern in (
+        '*-scene-map.json', '*-entity-map.json', '*-interactions-draft.md',
+        '*-beats.json', '*-beat-facts.json', '*-session-recap.md',
+        'beat-transcripts/*-transcript.md', 'beat-transcripts/*-transcript-highlights.md')
+        for p in (root/'cleaned').glob(pattern) if p.is_file()})
     return dict(data=data, files=changed_files, remaining=remaining, preview=dict(
         inputDigest=data['inputDigest'], changedFiles=list(changed_files), diff=diff,
         pendingIssues=len(remaining), finalizesReview=bool(data['path'] and not remaining),

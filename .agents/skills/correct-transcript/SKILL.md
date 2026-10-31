@@ -93,7 +93,12 @@ remains open while questions remain; when its last question is resolved, normal
 finalization removes temporary review/processing files. Original and prepared
 sources are never written. Cleanup, speakers, and display changes do not trigger
 new scene, beat, recap, or annotation work. `downstreamToInspect` lists existing
-derivatives that may need separate review, not automatic regeneration.
+derivatives that may need separate review, including recap excerpts and highlight
+candidate files under `cleaned/beat-transcripts/`. Report these as potentially
+stale after a correction, including a speaker-only or display-label correction.
+The list is conservative: it does not assert every listed passage changed.
+Do not regenerate excerpts or alter selected highlights automatically; use
+[transcript-excerpts](../beat-transcript-polisher/SKILL.md) for an authorized refresh.
 
 If a write or finalization is interrupted, run `HELPER --bundle BUNDLE recover`
 with Python and `-B`. This uses shared recovery and retires only committed correction

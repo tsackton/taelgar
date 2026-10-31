@@ -75,7 +75,7 @@ There is a wide range of other species that live on Taelgar and across the multi
 | Species             | Key Question(s)                                                                                                                                                                               | **Details**                 | Starting Languages             |
 | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------ |
 | Plane-touched       | Which plane touched your soul? Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it?                                              | [[Playing a Plane-Touched]] | 4 + the language of your plane |
-| [[Orcs\|Orc]]       | How did you escape the bonds of Thark? Were you born to a community of free orcs, or did something happen to you? How do you handle the suspicion and fear you generate in most of the world? | [[Playing a Free Orc]]      | 4                              |
+| [[Orcs\|Orc]]       | Were you born free, or freed from Thark’s chains? Did you grow up among free orcs or other peoples? How do you respond to the suspicion and fear you encounter in the wider world? | [[Playing a Free Orc]]      | 4                              |
 | [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                                                                        | [[Playing a Kobold]]        | 4                              |
 
 %%^povNotes:v1%%

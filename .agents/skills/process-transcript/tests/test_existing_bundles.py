@@ -28,7 +28,7 @@ class ExistingBundles(unittest.TestCase):
             with self.subTest(bundle=case), tempfile.TemporaryDirectory() as tmp:
                 live=vault/'_sessions'/case;before=snapshot(live)
                 root=Path(tmp).resolve()/live.name;shutil.copytree(live,root)
-                args=argparse.Namespace(source=None,metadata=None,manifest=None,prepared=None,cleaned=None,chunk_words=1800)
+                args=argparse.Namespace(source=None,manifest=None,prepared=None,cleaned=None,chunk_words=1800)
                 with core.lock(root):result=pipeline.initialize(root,args)
                 if result['finalized']:
                     self.assertTrue(result['outputsCurrent'])
@@ -43,7 +43,7 @@ class ExistingBundles(unittest.TestCase):
                 for kind in ['original','prepared','cleaned']:
                     relative=state['artifacts'][kind]
                     expected=(live/relative).read_bytes()
-                    if kind!='original':expected=core.render_units(core.parse_units(expected.decode('utf-8-sig'))).encode()
+                    if kind=='cleaned':expected=core.render_units(core.parse_units(expected.decode('utf-8-sig'))).encode()
                     self.assertEqual((root/relative).read_bytes(),expected)
                 managed={state['artifacts'][k] for k in ['original','prepared','cleaned']}
                 for relative,digest in before.items():

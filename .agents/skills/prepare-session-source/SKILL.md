@@ -1,6 +1,6 @@
 ---
 name: prepare-session-source
-description: Create and verify source configuration and speaker mappings, then build a prepared Taelgar session bundle from an existing transcript. Use before session-note-prep; this skill does not transcribe audio or run the downstream recap pipeline.
+description: Create a prepared Taelgar session bundle from an existing transcript, with verified source configuration, metadata, and speaker mappings. Sole owner of new bundle creation. Stops at a ready bundle; transcript processing and session-note preparation are separate requests.
 ---
 
 # Prepare Session Source
@@ -8,7 +8,7 @@ description: Create and verify source configuration and speaker mappings, then b
 ## Overview
 
 Prepare the maintained step-0 session bundle for the Taelgar session pipeline.
-This skill stops before `session-note-prep`; its job is to create or update the source prep YAML and speaker mapping JSON, show them to the user for verification, and then run `python .agents/skills/prepare-session-source/scripts/prepare_source.py` only after explicit approval.
+This skill owns bundle creation and stops at a prepared bundle. Its job is to create or update the source prep YAML and speaker mapping JSON, show them to the user for verification, and then run `python .agents/skills/prepare-session-source/scripts/prepare_source.py` only after explicit approval. Preparing a batch does not authorize transcript processing or session-note preparation. It is an independent workflow, not a stage owned by session-note-prep.
 
 ## Required Context
 
@@ -161,4 +161,9 @@ A ready source bundle completes this skill, not the downstream recap pipeline. A
 
 - files written by the command
 - any warnings about unknown speakers
-- the bundle root to pass to `session-note-prep`
+- the ready bundle root for later use by `process-transcript` or `session-note-prep`
+
+Stop after that report unless the user has also requested downstream work. If
+process-transcript referred a missing-bundle request here, resolve preparation
+first; continue processing only when that continuation is within the user's
+authorized request. Do not repeat approvals already supplied for the same setup.
