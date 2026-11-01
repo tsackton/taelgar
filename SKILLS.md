@@ -1,8 +1,8 @@
 # Taelgar Skills
 
-Last reviewed: **2026-10-30**
+Last reviewed: **2026-11-01**
 
-This guide covers the 28 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 29 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -30,11 +30,14 @@ mapping run independently; a reduction draft is optional for scene reading.
 | --- | --- | --- |
 | [prepare-interaction-transcript](.agents/skills/prepare-interaction-transcript/SKILL.md) | Makes a conservative smaller reading view, preserving speech/lore and all UID spans while replacing routine mechanics/chatter with restorable snips. Writes only the derivative draft. | “Prepare an interactions draft from Dunmar 10's polished transcript.” |
 | [map-transcript-scenes](.agents/skills/map-transcript-scenes/SKILL.md) | Maps continuous stays at meaningful sites and travel routes, with separate start/end dates and narrative times. Uses the shared confidence/status review structure; an optional issues block surfaces AI concerns for review only. | “Map Dunmar 49's places and times, treating each tower visit and continuous route as one span.” |
-| [check-session-entities](.agents/skills/check-session-entities/SKILL.md) | Checks NPCs, divine beings, significant items, and organizations directly from polished speech. Links vault identities and flags later identifications while preserving session labels. Its v3 map uses occurrence arrays for inclusions and exclusions; entity rationales are omitted. | “Check this session's entities without a scene map.” |
+| [check-session-entities](.agents/skills/check-session-entities/SKILL.md) | Checks NPCs, divine beings, significant items, and organizations directly from polished speech. Links vault identities and flags later identifications while preserving session labels. Its v4 map requires session-relative importance: star, supporting, or cameo, with no star quota. Flags items actually examined in the Mirror of the Past. | “Check this session's entities and assess their importance in this session, without a scene map.” |
+| [extract-entity-passages](.agents/skills/extract-entity-passages/SKILL.md) | Requires a current entity map with assessed importance and selected focal entities. Extracts verbatim interactions with marked cuts and preserves continuous narration. Item use/acquisition is minimal; original item lore stays complete and Mirror of the Past examinations are flagged. Other context is cut tighter for supporting entities and cameos. Uses an optional scene map and small selected batches for calibration. | “Using the entity map, extract Vola's interactions from Dunmar 10 with minimal setup and no rewrites,” or “Map these sessions first so we can select focal entities for a small trial.” |
 
 The [entity review workflow](.agents/skills/check-session-entities/references/review-workflow.md)
 covers saved reviews and manual feedback. The [pipeline/model contract](.agents/skills/check-session-entities/references/pipeline-model.md)
-defines the read-only v7 candidate projection. Final interaction generation,
+defines the read-only v7 candidate projection. Entity passage extraction is a
+separate readable derivative requiring an entity map with importance and selected focal entities; scene maps
+are optional. Final interaction generation,
 automatic feedback application, and Obsidian review integration are unfinished.
 
 The stages below are normally called by the session pipeline, except for the optional excerpt and highlights workflow after the recap. Use them directly when you want one stage, rather than the whole process.

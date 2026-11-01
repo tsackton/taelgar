@@ -124,7 +124,8 @@ def project(session_yaml, vault_root=scenes.VAULT):
            'scenes': copy.deepcopy(scene_doc['scenes']),
            'contextBlocks': [dict(index=i, **copy.deepcopy(row)) for i, row in
                              enumerate(scene_doc['contextBlocks'], 1)],
-           'entities': [{k: copy.deepcopy(row[k]) for k in ('id', 'kind', 'label', 'note', 'review') if k in row}
+           'entities': [{k: copy.deepcopy(row[k]) for k in
+                         ('id', 'kind', 'label', 'importance', 'examinedInMirrorOfPast', 'note', 'review') if k in row}
                         for row in mapped['entities']]}
     if 'review' in scene_doc:
         doc['sceneReview'] = copy.deepcopy(scene_doc['review'])

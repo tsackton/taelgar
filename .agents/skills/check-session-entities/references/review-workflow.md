@@ -13,7 +13,9 @@ add an HTML renderer, automatic importer, or final interaction generator.
    referents, and inspect/read candidate evidence. No scene map is required.
 3. On revision, retain the old map byte hash and a before-image for comparison.
    Preserve stable entity IDs and accepted human decisions. Confidence, selection,
-   identity grouping, and note matching are distinct judgments.
+   identity grouping, note matching, and session importance are distinct judgments.
+   On v3 upgrades, retain accepted identity decisions but assess importance before
+   claiming review of the expanded whole records; never default missing tiers.
 4. Use the guarded helper to save a complete proposal. Inspect every chosen,
    candidate, and supporting note, including unchanged records, and retain the
    full-set input digest. Additions to that evidence set require a new inspection
@@ -39,12 +41,17 @@ verbatim evidence:
 python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview
 python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview --entity e021
 python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview --kind divine
+python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview --importance supporting
 ```
 
 Put uncertain/unreviewed decisions first and keep all inclusions and meaningful
 exclusions accessible. Show session, stable entity ID, session label, kind, match/
-candidates, confidence/status, and UID evidence. Later-identification
+candidates, session importance, confidence/status, and UID evidence. Legacy maps
+must show importance as unassessed, not cameo. Later-identification
 flags must remain visible at high confidence. Occurrence does not imply presence.
+For items, visibly display `examinedInMirrorOfPast: true` and retain the occurrence
+showing the examination. Review this independently of importance; proposals and
+recollections of other sessions do not establish that it happened in this session.
 
 A saved reviewer is **additional user-requested work**. Render it from the saved
 maps rather than extracting a second inventory. There is no committed general
@@ -54,7 +61,7 @@ another checkout. Helper previews are the supported fallback.
 
 If building an offline HTML reviewer, provide:
 
-- Session, kind, confidence, match, later-identification filters, and text search.
+- Session, kind, importance, confidence, match, later-identification filters, and text search.
 - Separate entity/exclusion views and expandable original UID passages.
 - Entity actions: **Accept**, **Change / discuss**, **Exclude entity**.
 - Exclusion actions: **Keep exclusion**, **Change / discuss**, **Include entity**.
@@ -154,7 +161,9 @@ without enforcing these semantics.
 ## Verify and deliver
 
 Validate all affected maps and check changed selections, identities, kinds,
-grouping, and matches semantically. Compare original-source, YAML, and consulted
+grouping, importance, and matches semantically. Recheck stars against the whole
+session rather than a quota; use the [calibration](importance.md) for supporting
+and cameo boundaries. Compare original-source, YAML, and consulted
 note fingerprints; session-era labels and UID evidence must remain faithful.
 Run the scoped entity tests if helper code changes and `git diff --check`.
 

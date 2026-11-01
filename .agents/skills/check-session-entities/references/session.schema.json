@@ -166,6 +166,14 @@
     "entity": {
       "type": "object",
       "properties": {
+        "examinedInMirrorOfPast": {
+          "type": "boolean",
+          "description": "This item was specifically examined in the Mirror of the Past during this session; absence means unrecorded."
+        },
+        "importance": {
+          "enum": ["star", "supporting", "cameo"],
+          "description": "Importance in this session, relative to other non-PC entities. Required by entity-map v4; omitted for unassessed legacy projections."
+        },
         "id": {
           "type": "string",
           "minLength": 1
@@ -211,6 +219,10 @@
         "kind",
         "label"
       ],
+      "allOf": [{
+        "if": {"required": ["examinedInMirrorOfPast"]},
+        "then": {"properties": {"kind": {"const": "item"}}}
+      }],
       "additionalProperties": false
     },
     "interaction": {
@@ -242,6 +254,8 @@
           ]
         },
         "importance": {
+          "deprecated": true,
+          "description": "Legacy interaction-level rating; new authoring uses entities[*].importance for session importance. Do not infer one from the other.",
           "enum": [
             "star",
             "supporting",
