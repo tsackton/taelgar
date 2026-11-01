@@ -1,13 +1,14 @@
 ---
 name: check-session-entities
-description: Identify NPCs, divine beings, significant items, and organizations from a YAML-registered polished transcript, without a scene map. Check vault matches and UID evidence, flag later identifications while preserving session-era labels, and present confidence and meaningful exclusions. Preserve source files.
+description: Identify NPCs, divine beings, significant items, and organizations from a YAML-registered polished transcript, without a scene map. Assess each entity’s importance in this session as star, supporting, or cameo; check vault matches and UID evidence, preserve session-era labels, and present confidence and meaningful exclusions. Preserve source files.
 ---
 
 # Check Session Entities
 
 Use after a polished transcript is registered in session YAML. Resolve who or what
-is referred to, whether it belongs in the inventory, and which vault page matches.
-This stage does not generate interactions, importance, quotes, biographies,
+is referred to, whether it belongs in the inventory, which vault page matches,
+and how important the entity is in this session.
+This stage does not generate interactions, quotes, biographies,
 recaps, final `session.json`, or new vault notes.
 
 ## Inputs and boundary
@@ -24,6 +25,8 @@ review on demand; do not persist a lengthy report by default. A saved review nee
 a user request. Do not commit or push automatically.
 
 Read [the map format](references/format.md) for fields and validation.
+Read [session importance](references/importance.md) for the required tiers and
+calibration cases before assigning them.
 [The review workflow](references/review-workflow.md) covers saved reviewers,
 feedback, and handoffs; [the pipeline contract](references/pipeline-model.md)
 covers v7 projection. Human feedback application is manual; Obsidian integration
@@ -83,6 +86,39 @@ animation or action. Match the Ladder page when supported and distinguish curren
 and destroyed ladders; a passing predecessor joke need not create a record.
 Do not apply this convention to other campaigns.
 
+## Assess importance in this session
+
+Assign every included entity `importance: star | supporting | cameo` after reading
+the complete session. Apply the same session-relative standard to all four kinds.
+The PCs are the real protagonists; assess prominence relative to the other
+non-PC entities, never by equality with the players or by campaign-wide fame.
+
+- **Star:** a significant part of this session: a key ally or enemy, or a major
+  participant in several important encounters. One decisive, sustained encounter
+  can also establish this role. There is no quota: zero is valid, often there is
+  one, and more than a couple is rare. A group whose members comparably drive
+  important action is a legitimate exception; do not arbitrarily demote members
+  to meet a numeric cap.
+- **Supporting:** at least one meaningful scene is centered on the entity, such
+  as a substantive conversation, negotiation, or distinctive consequential
+  interaction. It need not dominate the session. Fighting an unnamed creature
+  does not by itself make that creature supporting.
+- **Cameo:** every other included entity. A brief description, useful item action,
+  mention, or discovery can merit inclusion while remaining a cameo.
+
+Inventory eligibility and importance are separate. Do not add otherwise excluded
+generic monsters or incidental nouns just to classify them as cameos. Judge
+substance, agency, and consequences, not name counts, transcript length, combat
+rounds, or the amount of available vault lore. A long search, approach, or rules
+discussion does not promote its target. Preserve representative source evidence
+for the rating, expanding occurrence windows only when needed to review it.
+
+Compare the proposed tiers across the session in the semantic pass. Recheck every
+star against the relative standard and the absence of a quota. Use the calibration
+cases to distinguish a supporting entity's meaningful scene from a cameo's brief
+moment. Importance guides later extraction depth; it is not a word count, identity
+confidence, permanent biography attribute, or a claim of direct interaction.
+
 ## Match identities
 
 Search filenames first, then frontmatter names/aliases, spelling variants, both
@@ -109,6 +145,16 @@ permitted note targets or evidence notes.
 
 ## Evidence and review
 
+For an item specifically examined in the **Mirror of the Past** during this
+session, set `examinedInMirrorOfPast: true` and include an occurrence showing the
+actual examination. This optional v4 item flag records an event, not importance
+or proof that the vision is literally true. A proposal to examine it, an earlier
+session's examination recalled in dialogue, mere appearance within another item's
+vision, or use of the Mirror of Soul Trapping does not qualify. Do not flag the
+Mirror of the Past itself just because it was used. Leave the flag absent when
+the event has not been established; do not infer it from an item name or lore.
+Preserve the flag in reviews and downstream projection.
+
 Record representative `occurrences`: at least one focused passage per distinct
 encounter or substantive discussion. Prefer identity-bearing speech, not entire
 conversations or every name/pronoun. Extra passages in one discussion should
@@ -127,13 +173,13 @@ Entity records have no `reason` field; retain evidence, candidates, confidence,
 and the later-identification flag instead of generated rationales. Optional `names`
 contains useful source variants/titles, not copied vault aliases.
 
-Confidence covers selection, identity grouping, and vault match together:
+Confidence covers selection, identity grouping, vault match, and session importance together:
 `high` is well supported, including an understood lack of a page; `medium` favors
 an interpretation with a material question; `low` is weak or conflicting. Surface
 material uncertainty in the review handoff instead of forcing links.
 
 Start `unreviewed`. Make a **distinct semantic pass** over the whole inventory,
-exclusions, identity-bearing speech, and chosen notes before `automatedReviewed`.
+exclusions, importance tiers, identity-bearing speech, and chosen notes before `automatedReviewed`.
 Validation is not review. `humanReviewed` requires explicit review of that actual
 entity decision; approval of scenes, the skill, or broadly correct inclusions does
 not approve every row. Preserve stable IDs and earlier human decisions. Changed
@@ -153,6 +199,7 @@ python3 -B HELPER --session-yaml YAML save --proposal - --expect-input-digest DI
 python3 -B HELPER --session-yaml YAML validate
 python3 -B HELPER --session-yaml YAML preview
 python3 -B HELPER --session-yaml YAML preview --kind divine
+python3 -B HELPER --session-yaml YAML preview --importance supporting
 python3 -B HELPER --session-yaml YAML preview --entity e001
 ```
 
@@ -166,14 +213,18 @@ changes. Use `evidenceNotes` for supporting pages outside chosen/candidate targe
 Save a complete proposal through stdin or a temporary file using the inspected
 digest. Intentional revisions also need the inspected `--expect-sha256 HASH`.
 Do not bypass guards or edit stored fingerprints. The helper rechecks sources,
-YAML, and notes and uses the shared directory lock and atomic write. Legacy v1
-maps require explicit evidence rechecking before a guarded v3 save. For v2 maps,
-remove entity `reason` fields, wrap each exclusion's source in an occurrence array,
-and save as v3 after verifying current inputs,
-preserving IDs, evidence, and review values. Do not silently migrate attestations.
+YAML, and notes and uses the shared directory lock and atomic write. New saves use
+v4 and require importance on every entity. Existing v3 maps remain readable with
+importance explicitly unassessed; never fill missing tiers with a default. To
+upgrade, review the complete session and assign tiers, preserving identity
+decisions, IDs, evidence, and unchanged fields. Whole-record review must cover the
+new assessment; earlier identity approval alone does not establish that. Legacy
+v1 additionally requires source/identity rechecking; v2 also requires removing
+entity `reason` fields and wrapping each exclusion's source in an occurrence array.
+Use the inspected old map hash for any upgrade. Do not silently migrate attestations.
 
 Verify unchanged inputs, focused whole-turn evidence, identity grouping, stable
-IDs, duplicates, exclusions, and all medium/low matches. Present an entity-first
+IDs, duplicates, importance, exclusions, and all medium/low decisions. Present an entity-first
 review: uncertain/unreviewed records first, clear matches compactly, exclusions
 separately, later-identity flags visible even at high confidence. Open evidence
 on demand. `--kind npc` and the other kinds filter the preview; unclassified

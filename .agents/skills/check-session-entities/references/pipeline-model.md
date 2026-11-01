@@ -11,7 +11,7 @@ they do not decide identities or establish semantic review.
 session YAML + registered polished transcript
     ├─ optional interaction draft: conservative reading view
     ├─ scene map: place/time partition + optional AI concerns
-    └─ entity map: identity, selection, and vault-link decisions
+    └─ entity map: identity, selection, session importance, and vault-link decisions
 current scene map + entity map
     → read-only v7 candidate projection
     → interaction generation, review, publication [not implemented]
@@ -29,7 +29,7 @@ Each format has one maintained definition:
 | --- | --- | --- |
 | `cleaned/<stem>-interactions-draft.md` | [Draft format](../../prepare-interaction-transcript/references/format.md) | Optional reversible view; source text remains authoritative. |
 | `cleaned/<stem>-scene-map.json` | [Scene map v2](../../map-transcript-scenes/references/format.md) | Complete source partition, locations/times, shared map review, optional AI issues. |
-| `cleaned/<stem>-entity-map.json` | [Entity map v3](format.md) | Identity decisions, representative UID evidence, confidence/review, meaningful exclusions. |
+| `cleaned/<stem>-entity-map.json` | [Entity map v4](format.md) | Identity decisions, session importance, representative UID evidence, confidence/review, meaningful exclusions. |
 | Candidate `session.json` | [v7 schema](session.schema.json), detailed below | Projection to stdout; no final generation, registration, or publication. |
 
 Entity decisions bind to YAML/source and consulted-note fingerprints, not scene
@@ -74,7 +74,8 @@ inferring visits, presence, events, or dialogue.
 [session.schema.json](session.schema.json) is the normative structural definition.
 [session_model.py](../scripts/session_model.py) adds source-aware checks against
 the registered transcript. Version **7** is independent of scene-map v2,
-entity-map v3, and draft v4. There is no automatic version migration.
+entity-map v4, and draft v4. V3 entity maps remain readable without assessed
+importance. There is no automatic version migration.
 
 | Root field | Required? | Purpose |
 | --- | --- | --- |
@@ -119,6 +120,13 @@ Required entity fields: `id`, `kind`, `label`. Kinds are
 `npc | divine | item | organization`. Optional fields:
 
 - `note`: verified vault-relative `.md` path or null.
+- `importance`: `star | supporting | cameo`, assessed across this session relative
+  to other non-PC entities. Required in entity-map v4 and preserved by projection;
+  optional here for legacy candidates. Absence means unassessed, never cameo.
+- `examinedInMirrorOfPast`: optional boolean, only valid on items. A positive value
+  records that this specific item was examined in the Mirror of the Past during
+  the session. Projection preserves it without inferring importance, creating an
+  interaction, or treating the vision as verified history. Absence means unrecorded.
 - `aiSummary`: one entity/session overview, at most two sentences.
 - `aiSuggestedFeaturedQuotes`: IDs of that entity's existing quotes.
 - `review`: whole-record confidence and status.
@@ -159,9 +167,13 @@ attributed intervention alone are mentions. An explicitly played manifestation
 can be observed/present; a supported direct exchange can be interacted. Divine
 kind allows separate religious views without another interaction taxonomy.
 
-Optional interaction fields: `importance: star | supporting | cameo`, `knownAs`
+Optional interaction fields: `knownAs`
 (source-specific name), `aiSummary` (at most one sentence), `passages`, `quotes`,
-and `review`. Importance belongs to that interaction, not the permanent entity.
+and `review`. New authoring uses `entities[*].importance` for importance in this
+session, not a permanent entity attribute. The former interaction-level
+`importance` field remains accepted for legacy v7 data but is deprecated; do not
+populate it in new work or infer a session tier from it. See the
+[importance calibration](importance.md).
 Preserve a whole conversation through brief interruptions, even across scenes.
 There is no separate `fought` type.
 
@@ -199,7 +211,8 @@ python3 -B .agents/skills/check-session-entities/scripts/session_model.py valida
 ```
 
 Both commands are **read-only**, printing JSON to stdout. `project` requires
-current scene and entity maps, preserves scene indexes and entity identities,
+current scene and entity maps, preserves scene indexes, entity identities, and
+assessed session importance,
 adds indexed contextual blocks, and checks full coverage. It does not fabricate
 interactions, summaries, quotes, aggregate visited locations, or aggregate final review.
 Explicit redirection can save a candidate but does not register it in YAML.
@@ -212,9 +225,11 @@ unaccounted UIDs. With the flag it requires complete scene/context coverage.
 Neither mode certifies accuracy or completion. The returned
 `publicationReady: false` is a validator result, not a stored final-session field.
 
-Entity-map v2 upgrades remove the retired entity `reason` field and wrap each
-exclusion's single source in an `occurrences` array. Verify inputs and preserve
-all other decisions in a guarded v3 save. Version 1 additionally needs
+Entity-map v3 upgrades require whole-session importance assessment for every
+entity before a guarded v4 save; missing ratings are never inferred. V2 upgrades
+also remove the retired entity `reason` field and wrap each exclusion's single
+source in an `occurrences` array. Verify inputs and preserve accepted identity
+decisions; review status must cover the expanded record. Version 1 additionally needs
 source and identity rechecking because it depended on scene maps. Adapting
 v6 final outputs requires reviewing divine classification and contextual ranges,
 preserving compatible IDs/decisions, and validating v7; changing only the version

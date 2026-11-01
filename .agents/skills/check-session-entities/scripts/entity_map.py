@@ -17,9 +17,10 @@ require = scenes.require
 fields = scenes.object_fields
 string = scenes.string
 KINDS = {'npc', 'divine', 'item', 'organization'}
+IMPORTANCE = ('star', 'supporting', 'cameo')
 CONFIDENCE = scenes.CONFIDENCE_RATINGS
 STATUS = scenes.REVIEW_STATUSES
-SCHEMA_VERSION = 3
+SCHEMA_VERSION = 4
 
 
 def note_path(bundle, value):
@@ -79,9 +80,10 @@ def validate(bundle, document):
     fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'entities'},
            {'exclusions', 'evidenceNotes'}, 'entity map')
     if type(document['schemaVersion']) is int and document['schemaVersion'] == 2:
-        raise scenes.MapError('Entity-map v2 needs explicit removal of entity reasons, exclusion occurrence arrays, and a guarded version 3 save')
-    require(type(document['schemaVersion']) is int and document['schemaVersion'] == SCHEMA_VERSION,
-            'Unsupported entity-map version; recheck legacy decisions and save as version 3')
+        raise scenes.MapError('Entity-map v2 needs explicit removal of entity reasons, exclusion occurrence arrays, session importance assessment, and a guarded version 4 save')
+    require(type(document['schemaVersion']) is int and document['schemaVersion'] in (3, SCHEMA_VERSION),
+            'Unsupported entity-map version; recheck legacy decisions and save as version 4')
+    rated = document['schemaVersion'] == SCHEMA_VERSION
     require(document['sessionYaml'] == bundle['sessionYaml'], 'Different session YAML')
     expected = {'sessionInputs': bundle['inputs'],
                 'vaultNotes': note_hashes(bundle, note_refs(document))}
@@ -91,13 +93,21 @@ def validate(bundle, document):
     require(isinstance(rows, list), 'entities must be an array')
     ids, matched, priorities = set(), set(), []
     for row in rows:
-        fields(row, {'id', 'kind', 'label', 'occurrences', 'review'},
-               {'note', 'names', 'candidates', 'identifiedLater'}, 'entity')
+        fields(row, {'id', 'kind', 'label', 'occurrences', 'review'} | ({'importance'} if rated else set()),
+               {'note', 'names', 'candidates', 'identifiedLater'} |
+               ({'examinedInMirrorOfPast'} if rated else set()), 'entity')
         string(row['id'], 'id')
         require(re.fullmatch(r'[a-z][a-z0-9_-]*', row['id']) and row['id'] not in ids,
                 'Entity IDs must be unique stable lowercase identifiers')
         ids.add(row['id'])
         require(isinstance(row['kind'], str) and row['kind'] in KINDS, 'Unknown entity kind')
+        if 'examinedInMirrorOfPast' in row:
+            require(row['kind'] == 'item', 'examinedInMirrorOfPast is only valid for items')
+            require(type(row['examinedInMirrorOfPast']) is bool,
+                    'examinedInMirrorOfPast must be a boolean')
+        if rated:
+            require(isinstance(row['importance'], str) and row['importance'] in IMPORTANCE,
+                    'Entity importance must be star, supporting, or cameo')
         string(row['label'], 'label')
         text_array(row.get('names', []), 'names')
         text_array(row.get('candidates', []), 'candidates')
@@ -124,6 +134,8 @@ def validate(bundle, document):
         string(row['reason'], 'exclusion reason', limit=40)
         validate_occurrences(bundle, row['occurrences'], 'Exclusion')
     return {'entities': len(rows), 'matched': len(matched), 'reviewPriority': priorities,
+            'importanceCounts': {level: sum(r.get('importance') == level for r in rows) for level in IMPORTANCE},
+            'unassessedImportance': 0 if rated else len(rows),
             'exclusions': len(excluded), 'semanticReview': 'not established by validation'}
 
 
@@ -167,7 +179,7 @@ def priority(row):
     return (row['review']['confidence'] == 'high', row['review']['status'] != 'unreviewed', row['label'].casefold())
 
 
-def preview(bundle, document, entity_id=None, kind=None):
+def preview(bundle, document, entity_id=None, kind=None, importance=None):
     result = validate(bundle, document)
     rows = sorted(document['entities'], key=priority)
     if entity_id:
@@ -176,14 +188,22 @@ def preview(bundle, document, entity_id=None, kind=None):
     if kind is not None:
         require(kind in KINDS, 'Unknown entity kind filter')
         rows = [r for r in rows if r['kind'] == kind]
+    if importance is not None:
+        require(importance in IMPORTANCE, 'Unknown importance filter')
+        rows = [r for r in rows if r.get('importance') == importance]
     cell = scenes.cell
     out = ['# Session entity check', '',
            f"{result['entities']} entities; {result['matched']} vault matches; "
            f"{len(result['reviewPriority'])} review priorities. Structural validation does not establish semantic review.", '']
+    out.extend(['Session importance: ' + ', '.join(f'{result["importanceCounts"][level]} {level}' for level in IMPORTANCE) + '.', ''])
+    if result['unassessedImportance']:
+        out.extend(['Legacy v3 map: session importance has not been assessed. Reassess before importance-guided extraction; no tiers are inferred.', ''])
     if kind is not None:
         out.extend([f'Showing {len(rows)} {kind} entities; counts above describe the full map.', ''])
-    out.extend(['| ID | Entity | Kind | Vault match | Confidence / review | Evidence |',
-                '| --- | --- | --- | --- | --- | --- |'])
+    if importance is not None:
+        out.extend([f'Showing {len(rows)} {importance} entities; counts above describe the full map.', ''])
+    out.extend(['| ID | Entity | Kind | Importance in this session | Vault match | Confidence / review | Evidence |',
+                '| --- | --- | --- | --- | --- | --- | --- |'])
     for row in rows:
         note = row.get('note')
         match = f"[{cell(Path(note).stem)}](<{quote(str(bundle['vault'] / note), safe='/')}>)" if note else 'Unlinked'
@@ -191,7 +211,10 @@ def preview(bundle, document, entity_id=None, kind=None):
             match += ' — identified later'
         refs = row['occurrences']
         evidence = ', '.join(scenes.source_link(bundle, r['source']) for r in refs)
-        out.append('| ' + ' | '.join([cell(row['id']), cell(row['label']), row['kind'], match,
+        label = cell(row['label'])
+        if row.get('examinedInMirrorOfPast'):
+            label += ' — Mirror of the Past: examined'
+        out.append('| ' + ' | '.join([cell(row['id']), label, row['kind'], row.get('importance', 'Not assessed'), match,
                    cell(row['review']['confidence'] + ' / ' + row['review']['status']),
                    evidence]) + ' |')
     candidates = [row for row in rows if row.get('candidates')]
@@ -206,7 +229,7 @@ def preview(bundle, document, entity_id=None, kind=None):
                 ref = item['source']
                 out.extend(['', f"**Polished source** — {scenes.source_link(bundle, ref)}", '',
                             '````text', scenes.window(bundle, ref['startUid'], ref['endUid'], 'polished').rstrip(), '````', ''])
-    if not entity_id and kind is None and document.get('exclusions'):
+    if not entity_id and kind is None and importance is None and document.get('exclusions'):
         out.extend(['', '## Excluded candidates', ''])
         for row in document['exclusions']:
             evidence = ', '.join(scenes.source_link(bundle, item['source']) for item in row['occurrences'])
@@ -227,6 +250,7 @@ def main():
     selection = view.add_mutually_exclusive_group()
     selection.add_argument('--entity')
     selection.add_argument('--kind', choices=sorted(KINDS))
+    view.add_argument('--importance', choices=IMPORTANCE)
     sub.add_parser('validate')
     writer = sub.add_parser('save')
     writer.add_argument('--proposal', required=True)
@@ -253,7 +277,7 @@ def main():
         else:
             document = read_map(bundle)
             if args.command == 'preview':
-                print(preview(bundle, document, args.entity, args.kind), end='')
+                print(preview(bundle, document, args.entity, args.kind, args.importance), end='')
                 return
             result = validate(bundle, document)
         print(json.dumps(result, ensure_ascii=False, indent=2))
