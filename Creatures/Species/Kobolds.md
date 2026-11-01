@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/ai]
+tags: [creature]
 name: Kobolds
 aliases: [kobold]
 dm_owner: joint
@@ -35,10 +35,7 @@ Some kobold settlements lie within the domains of dragons or other powerful patr
 
 ## Cultural Traits
 
-
-
-Religion is especially open to borrowing. With no known creator or shared religious authority, kobolds gather beliefs wherever they find them: worshipping dragons, venerating places of extraordinary magic, or adopting the gods of other peoples. Borrowed prayers mingle with inherited stories, and new observances need not displace older ones. Some kobolds seek protection or good fortune, while others find a faith worthy of lasting devotion. A community can be deeply attached to its adopted gods, even while remaining receptive to unfamiliar teachings.
-
+Kobolds readily adopt the skills, customs, and beliefs of those around them, whether they live in servitude under a powerful patron or in a hidden warren on the edges of a human realm. The diversity of attitudes and believes gives their scattered communities widely differing ways of life.
 
 ### Ingenuity and Opportunity
 
@@ -62,34 +59,39 @@ These stories shape how communities understand their lives. Those who believe th
 
 %%^Campaign:none%%
 
+## Details for DMs
 
+### Metaphysics and Creation
 
-## Metaphysics
+Kobolds were created before the [[Riving]]. Their creator, the process of their creation, and any original purpose remain unspecified. Kobolds do not know their own origins, and none of their surviving traditions is established as the true account. 
 
-Kobolds accrete [[Soulstuff]] independently. Their continued existence does not depend on a creator supplying their souls, and adopting the religion of another people does not by itself change the source of their soulstuff. Its precise planar composition remains unspecified; no unusual ability to accrete soulstuff from multiple planes is established.
+Their death and afterlife metaphysics remain open, as does the explanation for wings and other unusual draconic traits. 
 
-Their death and afterlife metaphysics remain open, as does the explanation for wings and other unusual draconic traits. These traits do not establish a particular planar affinity.
+### Kobolds in Play
 
-## Creation Story
+#### Addermarch Campaign
 
-Kobolds were created before the [[Riving]]. Their creator, the process of their creation, and any original purpose remain unspecified. Kobolds do not know their own origins, and none of their surviving traditions is established as the true account. Whether their pre-Riving antiquity is known in-world remains undecided.
+[[Zibzig Sparkscale]] featured one adventure. He was explicitly basically a run-away from home, somewhere undetermined. No details exist outside the linked note, really, but basically he was comic relief and roleplaying opportunity in a dungeon without many others. Some details on his "lair" in [[Adventure 4 - Into the Underdark]]. 
 
-These decisions were adopted on October 31, 2026. [[Metaphysics of Creatures#Unknown]] still leaves kobold soulstuff undecided, and the older draft in [[Playing a Kobold]] presents creation by dragons as fact; those accounts have not yet been reconciled with these decisions. [[Drubgrak]] also retains name metadata identifying her name's language as "Kobold", despite the decision that there is no separate kobold language; its actual language remains to be determined.
-
-## Additional Campaign Context
-
-### Cleenseau Campaign
+#### Cleenseau Campaign
 
 [[Cleenseau - Session 29]] and [[Cleenseau - Session 30]] establish competing factions among Krauzeth's followers, including kobolds who wanted to escape him. Drubgrak and Vikka's group helped the party arrange the ambush and fought hostile kobolds during the battle. Drubgrak's insistence that flight conferred authority led the group to offer tribute to [[Greymalkin]] after he flew. The [[cleenseau-blog-826614 - Original|original recap for Session 31]] records their settlement in Asineau, friendship between one kobold and the lizardfolk youths, and service as scouts during the royal escort.
 
 [[2025-11-11 - Species and Cultures]] records that the fleeing kobolds spoke Common because they feared Draconic might attract Krauzeth's attention. That fear was part of their portrayal, not an established magical property of the language.
 
+#### Dunmar Campaign
 
-### Addermarch Campaign
+Kobolds have only come up really in connection to some stuff that Kadmos and friends ended up dealing with, rumors of kobold bandits on the Chardon-Dunmar road west of Songara. Note that this is implied to be a long-standing "problem" based on [[Kirian]], who was wounded in DR 1720s fighting kobolds in this area. 
 
-[[Zibzig Sparkscale]] featured one adventure. He was explicitly basically a run-away from home, somewhere undetermined. No details exist outside the linked note, really, but basically he was comic relief and roleplaying opportunity in a dungeon without many others. Some details on his "lair" in [[Adventure 4 - Into the Underdark]]. 
+Some more detail in a non-canonical planning note, brainstorming in case you ended up chasing kobold rumors. The basic vibe is likely true; certainly kobold bandits in the Myraeni Gap are canonical: 
 
-### Great Library Campaign
+*The land north and west of [[Songara]] is known as the Myraeni Gap, an expanse of rough, broken terrain, full of cliffs and gullies, as the land tumbles down from the high plateaus of Dunmar to wide lowlands stretching to Chardon and the sea. During the years before the Great War, the area was patrolled by a strange people who protected this the wild broken lands between Chardon and Dunmar, keeping the trade safe, but never allowing outsiders into their hill forts near the Sentinel Range. Since the chaos of the Blood Years, they have been rarely seen; in their absence kobolds have become a nuisance, exacting heavy tolls on trade and often turning to banditry. While many Dunmari are wary of inviting the Chardonian empire to their borders, some in [[Songara]] now council that the Empire may be the only option for keeping the roads safe and trade possible.*
+
+Note that the vibe is not necessarily "war parties", and might involve more "contraptions that block the road unless you pay up." But none of this was canonically developed anyway. 
+
+The one canon piece is that Marcella hid in kobold tunnels from Kadmos for awhile, at least implying a complicated underground lair. 
+
+#### Great Library Campaign
 
 Kobolds came up four times in the Great Library campaign.
 
@@ -102,20 +104,7 @@ In this campaign tended to play them as either cunning / clever but susceptible 
 
 The bandits + dao scouts both had extensive lairs with traps. The beholder slaves and the fire elemental worshippers did not. 
 
-### Dunmar Campaign
-
-Kobolds have only come up really in connection to some stuff that Kadmos and friends ended up dealing with, rumors of kobold bandits on the Chardon-Dunmar road west of Songara. Note that this is implied to be a long-standing "problem" based on [[Kirian]], who was wounded in DR 1720s fighting kobolds in this area. 
-
-Some more detail in a non-canonical planning note, brainstorming in case you ended up chasing kobold rumors. The basic vibe is likely true; certainly kobold bandits in the Myraeni Gap are canonical: 
-
-*The land north and west of [[Songara]] is known as the Myraeni Gap, an expanse of rough, broken terrain, full of cliffs and gullies, as the land tumbles down from the high plateaus of Dunmar to wide lowlands stretching to Chardon and the sea. During the years before the Great War, the area was patrolled by a strange people who protected this the wild broken lands between Chardon and Dunmar, keeping the trade safe, but never allowing outsiders into their hill forts near the Sentinel Range. Since the chaos of the Blood Years, they have been rarely seen; in their absence kobolds have become a nuisance, exacting heavy tolls on trade and often turning to banditry. While many Dunmari are wary of inviting the Chardonian empire to their borders, some in [[Songara]] now council that the Empire may be the only option for keeping the roads safe and trade possible.*
-
-Note that the vibe is not necessarily "war parties", and might involve more "contraptions that block the road unless you pay up." But none of this was canonically developed anyway. 
-
-The one canon piece is that Marcella hid in kobold tunnels from Kadmos for awhile, at least implying a complicated underground lair. 
-
-
-Sources: 
+### Sources
 
 - [[Kobold Lair - DM Notes]]
 - [[Addermarch - Session 09]]
@@ -126,9 +115,6 @@ Sources:
 - [[Creatures of Taelgar]]
 - [[Playable Species of Taelgar]]
 - [[2025-11-10 - Species and Cultures]]
-
-
-
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 41]]
 - [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/North Coast Brainstorming]]
 
