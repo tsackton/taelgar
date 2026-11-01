@@ -42,9 +42,6 @@ The book records the theory and construction of the astrolabe, along with its op
 - **Immovable Rod.** A brass rod marked with fine measurement lines lies beside the experimental apparatus. It served as a fixed reference point for Airion's work. Use the standard **Uncommon** item.
 - **Carpet of Flying.** A rolled carpet depicts swirling clouds and currents, with small corrections embroidered over parts of the original pattern. Use the **Very Rare, 6-by-9-foot** version: **800-pound capacity and 30-foot flying speed**; it can carry up to **1,600 pounds at half speed**. Intended as shared transportation for the party on the Plane of Air. [Carpet of Flying rules](https://roll20.net/compendium/dnd5e/Items%3ACarpet%20of%20Flying?expansion=33359).
 
-%% The Carpet of Flying is included provisionally and might be replaced with a different party item. %%
-
-There are no consumable magic items in this hoard.
 
 ### Coins, Gems, and Precious Metals
 

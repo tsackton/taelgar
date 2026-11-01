@@ -28,3 +28,8 @@ A PC carrying the heart beside the hollow can spend **one action** to restore it
 Returning the heart immediately ends the song and every remaining compulsion. Award **1,000 XP per PC** for completing the adventure, under [[Fey Heart XP Rewards]].
 
 If the party left the refuge's attackers alive, they encounter [[Fey Heart Scene - Race to Tree 4|the ruined refuge and its surviving household]] after this scene.
+
+
+## Aftermath
+
+With the tree restored, the portal opens. Try to end the session with returning to town and leveling up. Probably will leave next session as a town episode? 
