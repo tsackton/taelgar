@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
 tags: [meta]
 name: Playing a Fey
 dm_owner: joint
@@ -9,18 +11,18 @@ POV: modern
 *See more: [[Fey]], [[Feywild]]*
 D&D Beyond Links: see Fey Options, below
 
-The fey, the natives of the [[Feywild]], are as varied as the realms they inhabit. Some resemble humans or elves, though often marked by unusual eyes or an otherworldly elegance. Others have wings, horns, fur, or feathers, or take entirely animal forms: familiar satyrs have the legs of goats and the body of a human, but rabbit-folk, owl-folk, bear-folk, and others can be found across the Feywild. Some fey can change their appearance at will. Some are small, with fairy wings. 
+The fey are the natives of the [[Feywild]], and are as varied and diverse as the realms they inhabit. Many fey resemble humans or elves, though usually with graceful features and often marked by unusual eyes or an otherworldly elegance. Others borrow features from animals, from familiar satyrs with legs of goats, to rabbit-folk, owl-kin, and other stranger and more unusual peoples. Some fey can change their appearance at will, shifting to whatever form and appearance pleases them. Some are small, with fairy wings. 
 
-The Feywild is a realm of magic and emotion, where time and distance do not follow mortal expectations. The sun does not move across the sky, but rather as a traveler moves east, the sun sinks lower and lower. Some realms are in perpetual afternoon sun, while others linger in eternal night. The archfey, the great powers of the Feywild, shape these domains by their own natures, so the weather, landscape, and dangers of each realm reflect the being at its heart. 
+The Feywild is a realm of magic and emotion, where time and distance do not follow mortal expectations. The sun does not move across the sky, but rather as a traveler moves east, the sun sinks lower and lower. This leaves some realms in perpetual afternoon sun, and others lingering in eternal night. The nature of these realms are determined by the archfey who rule them, the great powers of the Feywild.
 
 ---
 ## Creating Your Fey Character
 
-To create your fey character, start with the form and magic you want them to have. Are you nearly human in appearance, or unmistakably a visitor from another plane? Do you have an animal form, wings, or the ability to change your appearance? Are you a small fairy, resembling a pixie? Use the options below to choose mechanics that suit your idea.
+To create your fey character, start with your appearance. Are you nearly human, perhaps even able to pass as a human, or are you unmistakably a fey, perhaps with animal features? There are a wide range of folk who inhabit the Feywild: use the options below (Fey Options) for ideas, or work with your DM to invent something new. Most classic creatures of myth and fairy tale can fit in the Feywild somewhere. Fairies, satyrs, diverse beastfolk, changelings, and more are possible models. 
 
-Then, consider why you are in Taelgar. Did you leave your Feywild home due to danger, curiosity, or a quest? If you have a homeland in the Feywild, consider whether this is an important part of your character's story. If so, work with your DM to choose or develop the fey realm you came from and your relationship to it and its archfey. Your homeland and your relationship to the power that shapes it can be important parts of your story, whether you still live there or have made a life among mortals, but these details do not need to matter if you do not wish them to.
+Then, consider why you are in Taelgar. Did you leave your Feywild home due to danger, out of curiosity, for a particular purpose, or something else? Where are you from, and is your homeland in the Feywild an important part of your character's story? If so, work with your DM to choose or develop the fey realm you came from and your relationship to it and its archfey. Your homeland and your relationship to the power that shapes it can be important parts of your story, but need not be central to your character's story if you don't want them to be.  
 
-Consider also how comfortable you are among mortals. Do you pass as one of them, or make little effort to hide your nature? How do the gifts, promises, and bargains of your home shape the way you treat your companions?
+Consider also how comfortable you are among mortals. Depending on your form, you may be obviously marked as fey or you may be able to pass for a native of the Material Plane. Do you attempt to hide your nature, if you can? Are you open about your extraplanar origins? How do you react to the attention, whether curiosity, fear, or something else, of natives of the Material Plane? 
 
 A simple answer if engaging with fey lore is not of interest to you is that you come from a peaceful realm of a minor archfey, or even from one of the interstitial spaces ruled by no archfey, and left the Feywild out of curiosity about the mortal world. You can begin with curiosity and a reason to adventure and join your companions, leaving the details of your homeland for later.
 

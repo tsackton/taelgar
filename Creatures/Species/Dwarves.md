@@ -78,7 +78,7 @@ Clan, thuhr, and the Bahrâzel are the three pillars of dwarven culture, binding
 
 Extended families of dwarves are organized as clans, sharing a name and ties of obligation and mutual aid. While clans can be tightly hierarchical, and family elders often command deep loyalty, they also ensure the welfare of the entire clan. Many dwarves see their history primarily through the stories and history of their clan and family, including through family heirlooms such as the [[Shield of the Brawnanvil Clan]], which carries scenes of dwarven life and allows a dwarf holding it to experience stories from the clan’s past.
 
-Dwarves that settle among other species often do so with their clan: for example, the [[Redpeaks]] of Darba, the [[Hardstones]] of Tokra, and the [[Ferrystones]] of Rinburg. 
+Dwarves that settle among other species often do so with their clan: examples include the [[Redpeaks]] of Darba, the [[Hardstones]] of Tokra, and the [[Ferrystones]] of Rinburg. 
 
 ### Thuhr
 *Pronounced THUR: one syllable, like “third” without the final d.*
@@ -97,7 +97,7 @@ All adult dwarves who have completed their naming rite are also members of a thu
 
 Though each thuhr has a set of traditional associations, a dwarf’s thuhr does not determine their profession, and its importance varies from person to person. While for some, it is a central source of companionship and belonging, for others, it provides an apprenticeship or connections that become less important later in life, or even simply gives a background color of little importance to their life. 
 
-Thuhr ties also offer a way to build a life beyond the expectations of family and clan. When a young dwarf learns their thuhr, they will often apprentice to an elder of the same thuhr to learn a vocation, often traveling far from home for this purpose. This gives dwarves who feels constrained at home a socially sanctioned way to find a new path, turning to their thuhr for training, companionship, and connections outside of clan and kin. 
+Thuhr ties also offer a way to build a life beyond the expectations of family and clan. When a young dwarf learns their thuhr, they will often apprentice to an elder of the same thuhr to learn a vocation, sometimes traveling far from home for this purpose. This gives dwarves who feels constrained at home a socially sanctioned way to find a new path, turning to their thuhr for training, companionship, and connections outside of clan and kin. 
 
 Thuhr connect dwarves across clans, and play a central role in resolving conflicts between clans. Rare binthuhr dwarves (adults who never completed their pilgrimage to [[Heart of the Mountain]], and thus never learned their thuhr) challenge the strict traditions of the species and are usually outcasts from dwarven society.
 
@@ -120,7 +120,7 @@ During the rite of name-taking, a dwarf accepts obligations to the [[Bahrazel|Ba
 
 All adult dwarves who have completed the rite of name-taking can inscribe runes with minor magical effects. These runic inscriptions bring magic to tools, household objects, and many other aspects of dwarven society, and are a major component of the perception of dwarves as exceptional crafters, masons, and smiths. 
 
-Dwarven creations, both powered by runic magic and otherwise, are well-known. Perhaps most commonly seen are the floating crystals that illuminate their surroundings, known as [[Dwarven Driftglobe|driftglobes]], created in large numbers to light the vast underground cities of the dwarves. But individual dwarven clans and crafters often develop their own unique runic specializations: the [[Hardstones|Hardstone clan]], for example, uses minor runic magic to protect scrolls and repair damage, and makes magical imprints through which texts can be copied without transcription errors.
+Dwarven creations, both powered by runic magic and otherwise, are well-known. Perhaps most commonly seen are the floating crystals that illuminate their surroundings, known as [[Dwarven Driftglobe|driftglobes]], created in large numbers to light the vast underground cities of the dwarves. But individual dwarven clans and crafters often develop their own unique runic specializations. The [[Hardstones|Hardstone clan]], for example, uses minor runic magic to protect scrolls and repair damage, and makes magical imprints through which texts can be copied without transcription errors.
 
 > [!image|figure standard]
 > ![[dwarves-runic-mentorship.webp]]

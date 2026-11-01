@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [meta]
@@ -46,7 +45,7 @@ D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 **Creature Type:** Humanoid  
 **Size:** Small (about 2–4 feet tall) 
 **Speed:** 30 feet  
-**Age**: Halflings mature at roughly the same rate as humans, and typically live a little longer than humans, often reaching 100 with a rare few living substantially longer. \
+**Age**: Halflings mature at roughly the same rate as humans, and typically live a little longer than humans, often reaching 100 with a rare few living substantially longer. 
 **Languages:** The frequent travels and ancestral memory of halflings expose them to many languages. You may select five [[languages]] during character creation, which should likely include Halfling and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Halfling Traits
