@@ -1,8 +1,7 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/wip, status/check/lint]
+tags: [meta, status/wip]
 name: Playing a Kenku
 dm_owner: joint
 dm_notes: none

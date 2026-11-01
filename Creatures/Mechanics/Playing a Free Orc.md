@@ -11,16 +11,16 @@ POV: modern
 *See more: [[Orcs]]*
 D&D Beyond Link: [Orc](https://www.dndbeyond.com/species/1751442-orc)
 
-Across Taelgar, orcs are feared as the servants of [[Thark]], the God of War Without End, who binds orcs to lives of ceaseless violence. Their warbands raid settlements, fight one another, and gather into hordes under powerful leaders. But some orcs live beyond Thark’s reach, raising families and building communities free of his curse. Most of these free orcs were born free, never subjected to the ritual that binds newborn orcs to Thark. Others were freed through powerful magic, sometimes carrying the scars of their bondage long afterward.
+Across Taelgar, orcs are feared as the servants of [[Thark]], the God of War Without End, whose curse binds orcs, forcing them into lives of ceaseless violence. Orc warbands raid and fight, usually in small, scattered groups, though sometimes a strong leader will unite many orcs into a devastating and deadly horde. 
 
-Free orcs often conceal their communities from Thark’s followers, who hunt those who have escaped his control. Beyond these hidden homes, an orc traveler is an unusual sight, and may be met with fear or suspicion by people who know only stories of raiding warbands. Yet free orcs have their own reasons to venture into the world: to seek knowledge, practice a craft, defend others, find lost kin, or simply see what lies beyond their homeland.
+But some orcs live beyond Thark’s reach, in hidden communities free of his curse. Most of these free orcs were born free, never subjected to the ritual that binds newborn orcs to Thark. Others were freed through powerful magic, sometimes carrying the scars of their bondage long afterward. Outside these hidden homes, an orc traveler is a rare sight, met by fear and suspicion by people who know only stories of rampaging and violent hordes. Free orcs who venture into the world usually do so with a purpose strong enough to drive them to face the risks and suspicion of the outside world.
 
 ---
 ## Creating Your Free Orc Character
 
-When you create your free orc character, consider whether you were born free or freed from Thark’s chains. If you were born free, did you grow up in a community of free orcs, or among other peoples? What led you to leave home, and what ties do you retain to the people who raised you? If you were once bound to Thark, work with your DM to decide how you were freed, how long ago it happened, and how that experience has shaped your life.
+When you create your free orc character, first consider your relationship to Thark. Most likely, you were born free, among a community of free orcs hidden somewhere in the world. If you were freed from Thark’s chains, consider the circumstances and magic that led to this event, and how it shaped your later life.
 
-Consider also how you approach the world beyond your home. Have you already made friends among other peoples, or is this your first time traveling among them? How do you respond to people who fear you before they know you? You might also consider whether helping other orcs find freedom is important to your character, or whether your ambitions lie elsewhere.
+Next, consider your home and what led you to leave it. What is your home community like? What purpose made you abandon the safety of your community and face the perils and suspicions of the rest of the world? A common purpose might be helping other orcs find freedom; even if your ambition and goals lie elsewhere, you might consider how you feel about the cursed orcs still out in the world. Consider also how you approach the world beyond your home. How do you respond to people who fear you before they know you? 
 
 ### Free Orc Names
 

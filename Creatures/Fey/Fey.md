@@ -12,11 +12,11 @@ POV: modern
 
 The fey are the natives of the [[Feywild]]. They are generally referred to as the "fey", sometimes spelled "fae", or the "faerie", but there are distinctions, both obvious and subtle, among these folk. The fey can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home.  
 
-All fey honor bargains, and the feywild runs on gifts and promises. But whether these are offered genuinely, or in an attempt to deceive, can be difficult for mortal minds to decipher. And the risk of accepting a bargain you do not understand may well be servitude in an archfey's court. 
+All fey honor bargains, and the feywild runs on gifts and promises. But whether these are offered genuinely, or in an attempt to deceive, can be difficult for mortals to decipher. And the risk of accepting a bargain you do not understand may well be servitude in an archfey's court. 
 
 ## The Many Forms of the Fey
 
-The fey are a diverse folk, though more so in appearance than in nature. The common folk who inhabit the courts and gardens and wild paths of the Feywild, and sometimes find themselves on the Material Plane, do not divide themselves by form. Mortals on the Material Plane, however, typically distinguish these common forms.
+The fey are a diverse folk, in appearance more than in nature. The common folk who inhabit the courts and gardens and wild paths of the Feywild, and sometimes find themselves on the Material Plane, do not divide themselves by form. Mortals on the Material Plane, however, typically distinguish these common forms.
 
 - The fae, a folk generally human-like in appearance, but possessing an otherworldly elegance and an ethereal quality, are among the most common inhabitants of the Feywild. Though many of them could pass as human or elven to a casual glance, their strange grace and unusual eyes mark them as natives of the Feywild. These are the folk that dominate stories of fey courts, such as [[A Court of Whispers]], the [[Light of the Everglade]], and [[A Fool's Fortune]], and are often described in mortal works as lords and ladies, though whether this reflects mortal confusion or is a true representation of their status in the Feywild is unclear. These folk, usually simply called the fey by mortals, though often spelled fae, are who the mortals in many parts of Taelgar likely imagine, if they ever think on the Feywild. Some of these folk can change their appearance at will; those who can do this are often referred to as changelings in legends and poems from the mortal world. 
 - Rarer on the Material Plane, but common in the Feywild are the sometimes mischievous, sometimes helpful, often winged, and always magical fairies. These folk are usually small, and include creatures like the pixies, sprites, and brownies. 
@@ -41,7 +41,7 @@ Gifts, hospitality, and promises are central to the [[Feywild]] and to fey under
 
 ## Realms, Courts, and Archfey
 
-The strangest and most powerful of the fey are the Archfey. They are the great powers of the [[Feywild]], singular beings who rule the diverse realms of the Feywild, and whose realms take shape around their nature. An archfey’s domain is not merely ruled, but marked by them: its light, weather, paths, hungers, splendors, and dangers all echo the character of the power at its heart. Some realms become courts of beauty, revelry, and impossible grace; others darken into decay, fear, or ruin. Few mortals encounter an archfey directly, and those who do rarely return unchanged.
+The strangest and most powerful of the fey are the Archfey. They are the great powers of the [[Feywild]], singular beings who rule the diverse realms of the Feywild, and whose realms take shape around their nature. An archfey’s domain is not merely ruled: its light, weather, paths, hungers, splendors, and dangers all echo the character of the power at its heart. Some realms become courts of beauty, revelry, and impossible grace; others darken into decay, fear, or ruin. Few mortals encounter an archfey directly, and those who do rarely return unchanged.
 
 Most fey inhabit the realm of a particular archfey, and are shaped, temporarily or permanently, by the nature of that archfey. However, the relationship between the fey and the archfey is changeable, and some fey wander between realms, or dwell in interstitial spaces ruled by no single sovereign. 
 
