@@ -1,5 +1,5 @@
 # Hidden Refuge and Social Challenge
-
+ 
 Rumplewick, an old [leprechaun](https://www.dndbeyond.com/monsters/4635152-leprechaun), shelters a household inside an ancient hollow tree. Proud and fussy, with patched clothes and carefully kept crockery, he answers questions with questions, pounces on careless promises, and enjoys being cleverly outargued. His luck has kept the household safe as the forest grows violent.
 
 ## Intact refuge — before the Singing Tree
