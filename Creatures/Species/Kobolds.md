@@ -29,7 +29,7 @@ Kobolds hatch from reptilian eggs, and grow very quickly in their first few year
 
 ## Settlements and Homelands
 
-Kobolds communities can be found scattered across the world, though their settlements are usually tucked into overlooked places, such as caves, abandoned mines, or narrow tunnels beneath rough hills. Their tendency to hide can make kobolds seem less common than their really are. 
+Kobolds communities can be found scattered across the world, though their settlements are usually tucked into overlooked places, such as caves, abandoned mines, or narrow tunnels beneath rough hills. Their tendency to hide can make kobolds seem less common than they really are. 
 
 Some kobold settlements lie within the domains of dragons or other powerful patrons, whose protection shapes their communities and lives. Independent warrens are more likely to rely on secrecy for protection: their warrens can be intricate places, relying on concealed entrances, traps, and complex escape routes for defense. Individuals and small groups also make homes among other peoples, although the suspicion with which kobolds are sometimes treated may make such settlement difficult.
 
