@@ -35,7 +35,7 @@ Some kobold settlements lie within the domains of dragons or other powerful patr
 
 ## Cultural Traits
 
-Kobolds readily adopt the skills, customs, and beliefs of those around them, whether they live in servitude under a powerful patron or in a hidden warren on the edges of a human realm. The diversity of attitudes and believes gives their scattered communities widely differing ways of life.
+Kobolds readily adopt the skills, customs, and beliefs of those around them, whether they live in servitude under a powerful patron or independently in a hidden warren on the edges of a human realm. The diversity of attitudes and believes gives their scattered communities widely differing ways of life.
 
 ### Ingenuity and Opportunity
 
