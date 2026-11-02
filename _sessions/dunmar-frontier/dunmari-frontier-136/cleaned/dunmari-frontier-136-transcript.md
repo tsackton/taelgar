@@ -758,14 +758,14 @@ Kenzo: Oh, once it ends. Yeah. Huh. Do we have Sending?
 %% u0396:0-14, u0397:0-9 %%
 Unknown: Sendings down. Dreaming.
 
-%% u0398:0-53 %%
-Wellby: Do, do we have a pair of, uh, uh, Sending flowers or?
+%% u0398:0-52 %%
+Wellby: Do, do we have a pair of, uh, uh, Sending Stones or?
 
 %% u0399:0-64, u0400:0-57 %%
 DM: They're not, you have two, but they're not linked to each other. You should go find that boy in Chardon and take back his—
 
 %% u0401:0-52 %%
-Wellby: We should, we should get the one back from Sora too.
+Wellby: We should, we should get the one back from Sura too.
 
 %% u0402:0-56 %%
 DM: You should also... She probably doesn't want them anymore.

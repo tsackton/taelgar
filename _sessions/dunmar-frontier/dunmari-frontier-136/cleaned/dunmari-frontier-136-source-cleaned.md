@@ -395,10 +395,10 @@
 [u0395 | 00:17:47.760-00:17:49.000 | Kenzo] Do we have Sending?
 [u0396 | 00:17:49.400-00:17:50.140 | Unknown] Sendings down.
 [u0397 | 00:17:51.000-00:17:51.240 | Unknown] Dreaming.
-[u0398 | 00:17:51.260-00:17:55.560 | Wellby] Do, do we have a pair of, uh, uh, Sending flowers or?
+[u0398 | 00:17:51.260-00:17:55.560 | Wellby] Do, do we have a pair of, uh, uh, Sending Stones or?
 [u0399 | 00:17:55.600-00:17:57.900 | DM] They're not, you have two, but they're not linked to each other.
 [u0400 | 00:17:58.540-00:18:01.200 | DM] You should go find that boy in Chardon and take back his-
-[u0401 | 00:18:01.260-00:18:02.800 | Wellby] We should, we should get the one back from Sora too.
+[u0401 | 00:18:01.260-00:18:02.800 | Wellby] We should, we should get the one back from Sura too.
 [u0402 | 00:18:02.900-00:18:04.500 | DM] You should also, she probably doesn't want them anymore.
 [u0403 | 00:18:04.500-00:18:04.500 | Unknown] Yeah.
 [u0404 | 00:18:04.500-00:18:05.780 | Unknown] How about the fox messenger?
