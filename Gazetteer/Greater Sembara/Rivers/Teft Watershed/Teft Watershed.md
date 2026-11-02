@@ -2,9 +2,10 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: watershed
 name: Teft Watershed
+pronunciation: TEFT WAW-ter-shed
 whereabouts:
   - {type: home, location: Greater Sembara, linkText: in}
 dm_owner: none
@@ -12,6 +13,7 @@ dm_notes: none
 POV: modern
 ---
 # The Teft Watershed
+*(TEFT WAW-ter-shed)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -71,25 +73,11 @@ dv.table(["Place", "Type Of"],
  %%^End%%
 
 %%^Metadata:names:v1%%
-- {"name": "Teft Watershed", "language": "unknown", "pronunciation": "TEFT WAW-ter-shed", "status": "proposed", "notes": "Complete-form proposal combines the accepted TEFT in [[Teft]] with ordinary English watershed. The river name is documented as Sembaran there; the compound form’s language and the added descriptor’s reading remain unconfirmed."}
+- {name: Teft Watershed, language: Sembaran, pronunciation: "TEFT WAW-ter-shed", status: documented, notes: "The river-name component follows the documented Sembaran name and TEFT pronunciation in [[Teft]]; Watershed is the ordinary Common descriptor."}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern reference geography; no narrower temporal reading position is required.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
 
-### Applied changes
-- Normalized frontmatter where needed and recorded the article’s broadly modern POV with persistent temporal coverage.
-- Added an explicit subject name where absent and a persistent primary name entry.
-- Corrected “There is probably at least two missing rivers:” to “There are probably at least two missing rivers:” (objective grammar).
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or revise `TEFT WAW-ter-shed` in `Metadata:names:v1`. Complete-form proposal combines the accepted TEFT in [[Teft]] with ordinary English watershed. The river name is documented as Sembaran there; the compound form’s language and the added descriptor’s reading remain unconfirmed. If accepted, copy the accepted primary pronunciation to frontmatter and mark the entry `documented`; preserve uncertainty until that decision.
-%%^End%%
