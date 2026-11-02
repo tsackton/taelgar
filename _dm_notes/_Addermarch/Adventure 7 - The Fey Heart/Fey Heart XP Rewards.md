@@ -30,14 +30,14 @@ total: 1150 XP
 
 - [x] **Learn the guide’s name.** Identify Gwydren as someone who can guide the party through the forest. See [[Fey Heart Scene - The Following Foxes]] and [[Exploration Success - Guide Clue]].
 - [x] **Learn roughly where the guide lives.** Discover that Gwydren lives across the river, around the big trees. See [[Exploration Success - Guide Clue]].
-- [ ] **Defeat the boar and get through to the Singing Tree.**
+- [x] **Defeat the boar and get through to the Singing Tree.**
 
 ### Optional
 
 - [ ] **Learn more precise details about where to search for Gwydren.** Narrow the search to the biggest, oldest trees and learn that the trees can lead the party to him. See [[Exploration Success - Guide Clue]].
 - [x] **Get Past the Beast.** Find a way into the badgers tunnels
 - [ ] **Resolve the lost-hunters encounter in the tunnels.** Deal with the band and recover its treasure. See [[Fey Heart Scene - Race to Tree 3]].
-- [ ] **Save Rumplewick’s household.** Defeat the trees attacking the refuge and save the house. This reward does not require securing Rumplewick’s blessing. See [[Fey Heart Scene - Race to Tree 2]].
+- [x] **Save Rumplewick’s household.** Defeat the trees attacking the refuge and save the house. This reward does not require securing Rumplewick’s blessing. See [[Fey Heart Scene - Race to Tree 2]].
 
 ## Major milestones — 500 XP each
 
@@ -53,7 +53,7 @@ total: 1150 XP
 
 ## Adventure completion milestone — 1,000 XP
 
-- [ ] **Return the heart to the Singing Tree.** Complete the adventure’s central objective. This reward equals two major milestones.
+- [x] **Return the heart to the Singing Tree.** Complete the adventure’s central objective. This reward equals two major milestones.
 
 ## Awarding the milestones
 
