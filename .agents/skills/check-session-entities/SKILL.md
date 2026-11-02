@@ -1,6 +1,6 @@
 ---
 name: check-session-entities
-description: Identify NPCs, divine beings, significant items, and organizations from a YAML-registered polished transcript or prepared narrative, without a scene map. Consult existing same-session and earlier same-campaign entity maps for context without rereading earlier transcripts. Assess session importance, check vault matches and UID evidence, preserve session-era labels, and present confidence and meaningful exclusions. Read durable review JSON, preserve human corrections, and support feedback resolution and skill recalibration. Preserve source files.
+description: Identify NPCs, divine beings, significant items, and organizations from a YAML-registered polished transcript or prepared narrative, without a scene map. Consult existing same-session and earlier same-campaign entity maps for context without rereading earlier transcripts. Assess session importance, check vault matches and UID evidence, preserve session-era labels, and present confidence and meaningful exclusions, with short explanations for medium/low-confidence decisions. Read durable review JSON, preserve human corrections, and support feedback resolution and skill recalibration. Preserve source files.
 ---
 
 # Check Session Entities
@@ -48,7 +48,11 @@ calibration cases before assigning them.
 feedback, and handoffs; [the pipeline contract](references/pipeline-model.md)
 covers v7 projection. Obsidian supports table and one-at-a-time review;
 `scripts/entity_review.py` owns the durable `cleaned/<stem>-entities-review.json`
-feedback and human-change history. Final interaction generation remains separate.
+feedback and human-change history. Table review supports immediate field saves
+and reversible human exclusions; preserve the sidecar's archived excluded records
+and never recreate them during regeneration. See the review workflow for guarded
+Include, exclusion evidence, and the explicit human-only empty staging-note action.
+Final interaction generation remains separate.
 
 Before revising a map, read its review JSON, including human edit/removal history
 and open comments. Consult relevant prior-session feedback alongside prior maps.
@@ -85,7 +89,7 @@ session-local: preserve IDs and applicable human decisions when revising the sam
 map, but do not equate IDs across sessions or copy another session's approval.
 
 Prior maps are discovery aids, not `evidenceNotes` or occurrence sources. Inspect
-and fingerprint the actual chosen/candidate/supporting vault pages as usual, and
+and read the actual chosen/candidate/supporting vault pages as usual, and
 ground every occurrence in the current session. If a prior map is the only basis
 for a proposed identity, leave it unresolved rather than asserting the match.
 Mention which earlier maps informed the run and any unresolved conflicts in the
@@ -284,7 +288,7 @@ when role, geography, time, or context disagrees.
 
 Use clear later material to resolve an unnamed/masked identity. Choose its `note`,
 set `identifiedLater: true`, and keep `label`/`names` faithful to what the entity
-was called in this session. Inspect and fingerprint the supporting page. For
+was called in this session. Inspect and read the supporting page. For
 example, “Captured orc spellcaster” can link to Gorkil while retaining that label.
 The flag records provenance, not uncertainty;
 a clear later match can have high confidence. Do not imply knowledge at the time,
@@ -324,8 +328,8 @@ reason, and the same `occurrences: [{source}]` array as included entities. Retai
 multiple focused passages when a referent is excluded across distinct appearances.
 Do not inventory every ordinary noun. These decisions omit
 entities, not transcript blocks. Exclusion reasons are at most 40 words.
-Entity records have no `reason` field; retain evidence, candidates, confidence,
-and the later-identification flag instead of generated rationales. Optional `names`
+Entity records have no generic `reason` field. Keep evidence, candidates,
+confidence, the focused `confidenceExplanation` below, and later-identification flags. Optional `names`
 contains useful source variants/titles, not copied vault aliases.
 
 **Confidence estimates whether the agent's complete proposed decision is correct**
@@ -347,6 +351,20 @@ A clear name or identity match cannot compensate for weak confidence in inclusio
 or importance. State which judgment is uncertain when presenting a medium/low
 decision. A human-reviewed status records the user's decision separately; approval
 does not automatically change the agent's confidence to high.
+
+For each new or revised **medium/low-confidence** decision, record
+`confidenceExplanation` as one short sentence of at most 40 words, identifying the
+uncertainty that controls the rating. For example: “The name fits the vault note,
+but the source does not distinguish two plausible guides.” A **high-confidence**
+decision may also have a sentence when it adds useful context; omit filler.
+The explanation should address the actual inclusion, grouping, match, type, or
+importance judgment, supported by the inspected evidence. It is separate from
+exclusion reasons and human change notes. Preserve unchanged legacy decisions and
+protected human records without inventing retrospective explanations. New or
+changed agent-authored medium/low records need the field before saving; existing
+records remain readable without it. The desktop reviewer shows it alongside the
+confidence badge in the queue and inside Details on the main map.
+
 
 Use feedback to calibrate future estimates as well as selection rules. Record
 instructive mistakes with the original decision and confidence, the correction,
@@ -370,8 +388,10 @@ exclusions, importance tiers, identity-bearing speech, and chosen notes before `
 Validation is not review. `humanReviewed` requires explicit review of that actual
 entity decision; approval of scenes, the skill, or broadly correct inclusions does
 not approve every row. Preserve stable IDs and earlier human decisions. Changed
-decisions return to `unreviewed` until checked; stale source/note evidence
-invalidates relying on old review. Guarded saves protect existing human-reviewed records and prevent new agent-authored
+decisions return to `unreviewed` until checked. Vault-note content changes do not
+block processing or invalidate recorded human decisions. Transcript/session input
+changes require explicit human confirmation before continuing; confirmation keeps
+existing decisions and is not semantic rechecking. Guarded saves protect existing human-reviewed records and prevent new agent-authored
 human approvals. A human can reopen a record in the reviewer before agent revision.
 
 When the user requests confidence-based calibration, review every medium/low
@@ -403,14 +423,36 @@ python3 -B HELPER --session-yaml YAML preview --entity e001
 `NOTE_PATH` is an actual vault-relative note path. Before reading notes, inspect
 **every** chosen, candidate, and supporting page with repeated `--note` flags,
 including unchanged records on revision. Omit that flag
-when no pages are involved. Retain `inputDigest` and `mapSha256`. Adding notes
-requires inspecting the full set again and checking previously read evidence for
-changes. Use `evidenceNotes` for supporting pages outside chosen/candidate targets.
+when no pages are involved. Retain `inputDigest` and `mapSha256`. Notes are live
+references: their contents are not hashed or included in the input digest, and
+ordinary vault edits do not require a new processing run. Inspect newly consulted
+paths and read the relevant current notes for research. Use `evidenceNotes` for
+supporting pages outside chosen/candidate targets.
 
 Save a complete proposal through stdin or a temporary file using the inspected
 digest. Intentional revisions also need the inspected `--expect-sha256 HASH`.
-Do not bypass guards or edit stored fingerprints. The helper rechecks sources,
-YAML, and notes and uses the shared directory lock and atomic write. New saves use
+The helper rechecks transcript/session inputs and map concurrency, validates vault
+paths, and uses the shared directory lock and atomic write. It does not compare
+vault-note content SHAs. Legacy `inputs.vaultNotes` hashes are ignored and omitted
+by new saves. Do not edit stored fingerprints manually.
+
+When `inspect` reports `sourceChanges`, show the changed transcript/session inputs
+and ask the human whether to continue with the current revision. This task's
+general authorization is not confirmation of a future transcript revision. Only
+after explicit confirmation, use the inspected current digest and map hash:
+
+```bash
+python3 -B HELPER --session-yaml YAML confirm-sources --expect-input-digest DIGEST --expect-sha256 HASH
+```
+
+This records a human `confirmSourceChanges` history event and updates source
+fingerprints without changing entity decisions/statuses or source/YAML files.
+Reinspect afterwards. If either guard fails, show the new revision and obtain a
+fresh confirmation. Unknown UIDs or broken whole-turn references still require
+evidence repair; confirmation cannot waive structural validation. The Obsidian
+reviewer offers the same explicit **Continue with current transcript** action.
+
+New saves use
 v4 and require importance on every entity. Existing v3 maps remain readable with
 importance explicitly unassessed; never fill missing tiers with a default. To
 upgrade, review the complete session and assign tiers, preserving identity
@@ -420,7 +462,7 @@ v1 additionally requires source/identity rechecking; v2 also requires removing
 entity `reason` fields and wrapping each exclusion's source in an occurrence array.
 Use the inspected old map hash for any upgrade. Do not silently migrate attestations.
 
-Verify unchanged inputs, focused whole-turn evidence, identity grouping, stable
+Verify current confirmed transcript inputs, focused whole-turn evidence, identity grouping, stable
 IDs, duplicates, importance, exclusions, and all medium/low decisions. Present an entity-first
 review: uncertain/unreviewed records first, clear matches compactly, exclusions
 separately, later-identity flags visible even at high confidence. Open evidence

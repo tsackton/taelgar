@@ -35,6 +35,17 @@ claim. Use `high`, `medium`, or `low` according to the
 [confidence calibration](../SKILL.md#evidence-and-review); keep it distinct from
 the human/automated review status.
 
+`confidenceExplanation` is optional at the map-reader level for compatibility
+with existing maps. When present, it is nonempty single-line text of at most 40
+words. Agents author one short sentence for every new or revised medium/low
+decision; high-confidence explanations are optional. Guarded agent saves reject
+missing explanations on new/changed medium/low records, while preserving unchanged
+legacy records and protected human records (including required status-only
+demotion after evidence changes). Do not backfill an old decision with an invented
+reason. The field belongs to the entity map's review metadata; it is omitted from
+the strict v7 candidate projection, which keeps the shared `{confidence, status}`
+review object unchanged. Exclusion/reinclusion and review history retain it.
+
 The four identity fields have separate purposes:
 
 | Field | Meaning |
@@ -58,7 +69,8 @@ useful history. Proposed use, another session's examination, the Mirror of Soul
 Trapping, or an item merely appearing in another target's vision do not qualify.
 Previews visibly flag positive values and v7 projection preserves the field.
 
-Entity records do not accept `reason`; evidence and confidence remain explicit.
+Entity records do not accept a generic `reason`; use `confidenceExplanation` for
+the focused explanation of the agent's confidence.
 A chosen `note` and competing `candidates` cannot
 coexist: retain uncertainty instead of emitting a definite match. Two entities
 cannot resolve to the same page; revisit a possible duplicate or overly broad page.
@@ -75,7 +87,8 @@ cannot resolve to the same page; revisit a possible duplicate or overly broad pa
       "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
       "startUid": "u0037", "endUid": "u0044"
     }}],
-    "review": {"confidence": "high", "status": "unreviewed"}
+    "review": {"confidence": "medium", "status": "unreviewed"},
+    "confidenceExplanation": "The spokesman appears significant, but the passage does not distinguish him from another camp leader."
   }]
 }
 ```
@@ -106,12 +119,23 @@ the exclusion across separate appearances. Previews show every retained range.
 `inputs` contains:
 
 - `sessionInputs`: shared YAML/source fingerprints, not metadata values.
-- `vaultNotes`: byte hashes of selected/candidate/evidence notes, supplied by the
-  helper from inspected files. Changed notes require rechecking affected decisions.
+Vault notes remain referenced by `note`, `candidates`, and `evidenceNotes`; their
+content SHAs are not processing inputs. Existing v3/v4 reads tolerate legacy
+`inputs.vaultNotes` but ignore its hashes, and new writes omit that property.
+Changing a vault note does not block processing or reset review status. Vault
+paths and newly selected targets still undergo validation.
 
-The inspection digest binds both. The reader refuses stale inputs rather
-than displaying an old automated/human status as current. Reinspect, revise the
-proposal, and save with the expected old output hash after semantic rechecking.
+The inspection digest binds `sessionYaml` and `inputs.sessionInputs` only; it is
+independent of the consulted-note set and contents. Transcript/session metadata
+changes require explicit human confirmation. `inspect` reports `sourceChanges`
+with each changed name and previous/current SHA. After the human confirms the
+current revision, `confirm-sources --expect-input-digest DIGEST --expect-sha256 HASH`
+updates the map fingerprints and appends a `confirmSourceChanges` human history
+event containing before/after maps. Existing decisions/statuses stay unchanged;
+this is acknowledgement, not semantic review. A newer source or map revision
+requires fresh inspection and confirmation. Invalid UIDs/boundaries still fail.
+The source files and YAML remain unchanged. Ordinary reads/validation and agent
+saves cannot silently accept changed source fingerprints.
 Scene-map creation, revision, or deletion and changes to a reduction draft do not
 stale evidence pointing to original polished speech. New ordinary runs persist only the map; revisions with an existing entities-review
 JSON also append agent regeneration history. Human edits and comments use the

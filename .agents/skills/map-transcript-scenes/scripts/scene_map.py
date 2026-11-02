@@ -68,8 +68,9 @@ def validate_review(value, label='review'):
             f'{label} has unknown review status')
 
 
-def load(session_yaml, vault_root=VAULT, *, allow_unknown_dates=False):
-    bundle = draft.load(session_yaml, for_draft=False, allow_unknown_dates=allow_unknown_dates)
+def load(session_yaml, vault_root=VAULT, *, allow_unknown_dates=False, allow_source_changes=False):
+    bundle = draft.load(session_yaml, for_draft=False, allow_unknown_dates=allow_unknown_dates,
+                        allow_source_changes=allow_source_changes)
     vault = Path(vault_root).resolve()
     require(bundle['manifest'].is_relative_to(vault), 'Session YAML must be inside the selected vault')
     session_relative = bundle['manifest'].relative_to(vault).as_posix()
