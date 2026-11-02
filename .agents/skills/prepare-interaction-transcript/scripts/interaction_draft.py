@@ -98,8 +98,9 @@ def check_draft_syntax(turns):
                 'Polished source uses reserved ((...)) syntax; report the collision without editing it')
 
 
-def load(session_yaml, *, for_draft=True, allow_unknown_dates=False):
-    """Read shared sources; reserve snip delimiters only for reduction work."""
+def load(session_yaml, *, for_draft=True, allow_unknown_dates=False, allow_source_changes=False):
+    """Read shared sources; source-change inspection is a read-only entity opt-in."""
+    require(not (for_draft and allow_source_changes), 'Source-change inspection cannot initialize a reduction draft')
     manifest = Path(session_yaml).absolute()
     require(manifest.name.endswith('-session.yaml') and manifest.parent.name == 'cleaned',
             'Expected cleaned/<stem>-session.yaml inside a session bundle')
@@ -129,7 +130,7 @@ def load(session_yaml, *, for_draft=True, allow_unknown_dates=False):
     source = safe(root, artifact['path'])
     require(source.is_file(), f'YAML polished transcript cannot be located: {source}')
     source_bytes = source.read_bytes()
-    require(not artifact.get('sha256') or sha(source_bytes) == artifact['sha256'], 'Polished transcript differs from its YAML fingerprint')
+    require(allow_source_changes or not artifact.get('sha256') or sha(source_bytes) == artifact['sha256'], 'Polished transcript differs from its YAML fingerprint')
     header, turns = parse_polished(source_bytes.decode('utf-8'))
     mapped = coverage(turns)
     require(META not in header, 'Input is already a derivative')
@@ -144,7 +145,7 @@ def load(session_yaml, *, for_draft=True, allow_unknown_dates=False):
     if cleaned:
         path = safe(root, cleaned['path'])
         raw = path.read_bytes()
-        require(not cleaned.get('sha256') or sha(raw) == cleaned['sha256'], 'Cleaned transcript differs from its YAML fingerprint')
+        require(allow_source_changes or not cleaned.get('sha256') or sha(raw) == cleaned['sha256'], 'Cleaned transcript differs from its YAML fingerprint')
         units = parse_units(raw.decode('utf-8'))
         require(mapped == [(u['uid'], 0, len(u['text'])) for u in units], 'Polished mapping does not completely cover cleaned UIDs')
         fingerprints[cleaned['path']] = sha(raw)

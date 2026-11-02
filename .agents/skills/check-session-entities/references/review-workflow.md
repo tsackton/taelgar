@@ -3,15 +3,19 @@
 Use with [the skill](../SKILL.md), [map format](format.md), and repository
 `AGENTS.md`. The Obsidian Session review tab lists sessions with entity maps and
 provides **Show entities map** and **Review entities**. The first is an editable
-row per entity with UID source links and vault links; the second visits entities
+row per entity with inline type/status/role saves, explicit Accept, and reversible
+Exclude/Include tables. Details loads source passages and active feedback; the second visits entities
 that are **not human reviewed**, including high-confidence agent decisions.
-Skipping navigates without changing review status. A session stays unreviewed
+Skipping navigates without changing review status. The queue's Exclude and next
+requires a short exclusion reason, saves pending form edits into the archived
+record, moves it to the map's excluded list, and advances. Include can restore it. A session stays unreviewed
 while any included entity is not `humanReviewed`.
 
 ## Durable review JSON
 
 The decision store is `cleaned/<stem>-entities-review.json`, beside the map. It is
-created on the first edit or comment, never merely by opening the reviewer. Map
+created on the first edit, comment, or explicit source-change confirmation,
+never merely by opening the reviewer. Map
 edits immediately update `*-entity-map.json`; downstream readers see the actual
 human changes without applying an overlay or importing an export. Entity removal
 retains the complete old record in review history. Original sources and YAML stay
@@ -39,6 +43,63 @@ inspection completes that exact transaction only when the current map matches it
 before or after hash. Conflicts stop for reconciliation. Do not manually remove
 transaction data or rewrite hashes to suppress an error.
 
+## Included and excluded tables
+
+The map screen has one navigation/reload/status bar and a session/date title.
+Transcript and campaign session-note links appear only for existing files. Session
+notes resolve through `_scripts/session_note_campaigns.json`, including aliases and
+the registered `campaignRoot` / `notePattern`.
+
+The optional entity `confidenceExplanation` contains the agent's one-sentence
+explanation of medium/low confidence (and optionally high confidence). It appears
+next to the queue badge or in the main map's Details popup. Legacy missing
+explanations are identified as missing, never reconstructed by the reviewer.
+
+Inline type, status, and role changes save immediately. Accept marks the row human
+reviewed. Exclude asks for a reason of at most 40 words and moves the record into
+the map's existing `{label, reason, occurrences}` exclusions array. The review
+sidecar's optional `excludedRecords` retains the full entity paired with that
+exact exclusion. The map schema remains v4. Include consumes the archived record
+and restores its ID, note, flags, and passages as unreviewed, preserving feedback.
+Notes needed for restoration must be inspected before the write. Original
+exclusions without an archived record require explicit type and importance; the
+helper allocates a fresh ID, avoiding current, archived, and historical IDs.
+
+Agent regeneration must retain active human exclusions and cannot recreate their
+archived IDs. Only a human Include action reopens such an inclusion decision.
+Exclusion and inclusion use the same locked, recoverable transaction as other
+edits. They never rewrite source passages, YAML, or canonical vault notes.
+
+## Empty staging notes from the reviewer
+
+The entity-by-entity screen keeps entity feedback but omits session feedback,
+agent follow-up instructions, and history; those remain on the main map.
+For an unlinked entity, Create staging note asks the human to confirm a name and
+shows the target under `Worldbuilding/Staging/<campaign folder>/<name>.md`.
+`entity_review_staging.py` reuses an existing short folder when it uniquely matches
+the registered campaign name or aliases; otherwise it uses the canonical name.
+It rejects unsafe filenames and vault-wide filename/name/alias collisions, then
+creates the file exclusively with zero bytes. No template, frontmatter, status
+metadata, or content is added: this action explicitly creates an empty note.
+
+`createStagingNote` takes the current `token`, `entity`, human-chosen `name`, and
+optional current `changes` limited to label/type (`kind`)/role (`importance`). It
+saves those edits, links the empty file, and sets the entity unreviewed, preserving
+source evidence. The helper checks inputs again before committing map/history.
+Obsidian supplies a `noteIndex` snapshot of all Markdown paths and each cached
+frontmatter name/alias list. The helper compares normalized identities in memory
+and opens only notes missing cached metadata, avoiding a full vault reopen for
+each creation. Calls without an index retain the complete file-based collision
+scan. Target-path validation and exclusive creation remain the same.
+A failure after file creation retains the note and reports its path. Interrupted
+map/history writes recover through the existing transaction; never create a
+second note or delete the preserved file as a convenience fix. A stale-token or
+collision error before creation leaves all existing notes unchanged.
+
+This is a human UI action, not permission for an agent to create guessed names or
+empty stubs during an ordinary mapping run. Existing note-creation workflows keep
+their own content, template, and approval requirements.
+
 ## Agent API
 
 `scripts/entity_review.py` reads one JSON request from stdin and returns one JSON
@@ -51,17 +112,26 @@ model service runs inside the helper. Resolve the session YAML first. For exampl
 
 Inspection returns the map, review history/feedback, session identity, UID-resolved
 source links, and a token binding the current map bytes, review bytes, session
-inputs, and inspected notes. Use that actual token verbatim for writes:
+inputs, and inspected note paths. Vault-note contents are not hashed and their
+edits do not stale a token. Use that actual token verbatim for writes:
 
 ```json
 {"command":"resolveFeedback","sessionYaml":"<resolved YAML>","token":{},"feedbackId":"f000001","resolution":"<what changed, supporting evidence, or why no change was appropriate>"}
 ```
 
 `token: {}` above is only a placeholder. Reinspect after each write; use the token
-returned by the latest response. A stale map, feedback file, source, YAML, or
-consulted note rejects the write. `entityFeedback` records `comment` and optional
+returned by the latest response. A stale map, feedback file, transcript, or YAML
+rejects the write; vault-note content edits do not. `entityFeedback` records `comment` and optional
 `entity`; `entityUpdate` applies a selected human edit/removal and its optional
-`reason`. **Agents must not use entityUpdate to invent human actions.** Agent map
+`reason`. `entityUpdate` with `action: exclude` moves the entity using its
+40-word-limited `reason` and can include the same pending `changes` as an edit.
+Those fields and any new note target are validated before the record is moved;
+the archive retains the edits and confidence explanation. `exclusionInclude` selects an `exclusionIndex` bound to
+the current token, restoring an archived entity or requiring `kind` and
+`importance` for an original exclusion. `evidence` accepts `exclusionIndex` with
+the current `mapSha256` to read excluded passages. Inspection returns
+`exclusionDetails` with restoration availability and note-inspection paths.
+**Agents must not use entityUpdate, exclusionInclude, or createStagingNote to invent human actions.** Agent map
 changes use the ordinary guarded `entity_map.py save` workflow below.
 
 For a new vault link, inspect with `notes: ["People/Target.md"]` first. The helper
@@ -69,6 +139,32 @@ includes all existing chosen/candidate/evidence notes in that inspection. Eviden
 uses `command: evidence`, `entity`, and inspected `mapSha256`, and resolves actual
 whole-turn UIDs for transcript or prepared-narrative sources. Editor line numbers
 are zero based and temporary; they are never provenance.
+
+## Confirm changed transcript inputs
+
+If the entity map's transcript/session inputs differ, `inspect` returns
+`confirmationRequired: true`, `sourceChanges` (names and old/current SHAs),
+`session`, and the current guarded `token`, without exposing an editable map.
+Show the changes and ask whether to continue with the current transcript. After
+explicit human confirmation, submit:
+
+```json
+{"command":"confirmSourceChanges","sessionYaml":"<resolved YAML>","token":{}}
+```
+
+Use the actual challenge token, never the placeholder above. The helper checks
+the current source digest, map hash, and review hash, validates UID evidence, then
+updates only the map's input fingerprints using the normal recoverable transaction.
+It records a human `confirmSourceChanges` history event with whole before/after
+maps, preserves entity decisions/statuses, and returns a fresh inspection. A stale
+challenge must be inspected and confirmed again. Source files and YAML are not
+rewritten. Agents must not submit this human action without explicit confirmation.
+
+The CLI equivalent is `entity_map.py --session-yaml YAML confirm-sources
+--expect-input-digest DIGEST --expect-sha256 HASH`, using the current values from
+`entity_map.py inspect`. Ordinary reads/agent saves refuse a changed transcript
+until it has been acknowledged. Legacy `inputs.vaultNotes` hashes are ignored on
+read and omitted on the next guarded write. Note paths remain validated.
 
 ## Pick up feedback before mapping
 
@@ -95,10 +191,12 @@ review history and rejects modifying/removing a whole human-reviewed record,
 creating new human approvals, or recreating human-removed IDs. To reconsider a
 human-reviewed record, have the human reopen that record as unreviewed in the
 reviewer, then research and save the change. Unchanged human records stay intact.
-When registered sources or consulted note evidence change, first retain the
-human record’s other fields and reset its status to `unreviewed` through a guarded
-save. The prior approval remains in history; changed evidence cannot inherit it.
-Passing validation never supplies semantic review status.
+Vault-note content changes do not block processing or demote human decisions.
+When registered transcript/session inputs change, obtain explicit human
+confirmation of the current revision before continuing. Confirmation preserves
+the existing decisions/statuses and records the old/current fingerprints; it
+does not establish semantic review. Changed entity decisions still need actual
+review. Passing validation never supplies semantic review status.
 
 ## Recalibrate skill based on feedback
 

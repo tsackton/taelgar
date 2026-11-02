@@ -86,10 +86,8 @@ def protect_human(before, after, scenes):
     changed_evidence = set()
     before_inputs, after_inputs = before.get('inputs', {}), after.get('inputs', {})
     source_changed = before_inputs.get('sessionInputs') != after_inputs.get('sessionInputs')
-    old_hashes, new_hashes = before_inputs.get('vaultNotes', {}), after_inputs.get('vaultNotes', {})
     for key, row in old.items():
-        refs = [row.get('note'), *row.get('candidates', []), *before.get('evidenceNotes', [])]
-        stale = source_changed or any(old_hashes.get(p) != new_hashes.get(p) for p in refs if p)
+        stale = source_changed
         if stale:
             changed_evidence.add(key)
         if row['review']['status'] == 'humanReviewed':

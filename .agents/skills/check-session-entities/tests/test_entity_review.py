@@ -54,7 +54,8 @@ class EntityReviewTests(unittest.TestCase):
         inspected = self.call(notes=['People/Other.md'])
         changed = self.call('entityUpdate', token=inspected['token'], entity='e001', changes={'note': 'People/Other.md'})
         self.assertEqual(changed['review']['history'][0]['before']['note'], 'People/Grash.md')
-        self.assertEqual(changed['document']['inputs']['vaultNotes'].keys(), {'People/Other.md'})
+        self.assertNotIn('vaultNotes', changed['document']['inputs'])
+        self.assertEqual(changed['document']['entities'][0]['note'], 'People/Other.md')
         self.assertEqual(self.call()['token'], changed['token'])
 
     def test_remove_preserves_record_and_feedback(self):
@@ -103,20 +104,16 @@ class EntityReviewTests(unittest.TestCase):
             self.call('entityUpdate', token=result['token'], entity='e001', changes={'status': 'humanReviewed'})
         self.assertEqual(self.f.bundle['entityPath'].read_bytes(), before)
         self.f.fixture.source.write_bytes(self.f.fixture.source.read_bytes() + b'\n')
-        with self.assertRaises(ValueError):
-            self.call()
+        self.assertTrue(self.call()['confirmationRequired'])
 
-    def test_changed_note_requires_demotion_without_rewriting_human_decision(self):
+    def test_changed_note_preserves_human_decision_and_review_status(self):
         result = self.call()
         result = self.call('entityUpdate', token=result['token'], entity='e001', changes={'status': 'humanReviewed'})
         self.f.note.write_text('# Grash with revised evidence\n', encoding='utf-8')
         proposal = copy.deepcopy(self.f.proposal)
         proposal['entities'][0]['review']['status'] = 'humanReviewed'
-        with self.assertRaisesRegex(ValueError, 'reset to unreviewed'):
-            api.maps.save(self.f.load(), proposal, result['token']['mapSha256'])
-        proposal['entities'][0]['review']['status'] = 'unreviewed'
         api.maps.save(self.f.load(), proposal, result['token']['mapSha256'])
-        self.assertEqual(self.call()['document']['entities'][0]['review']['status'], 'unreviewed')
+        self.assertEqual(self.call()['document']['entities'][0]['review']['status'], 'humanReviewed')
 
     def test_regeneration_cannot_restore_a_human_removed_id(self):
         result = self.call()
