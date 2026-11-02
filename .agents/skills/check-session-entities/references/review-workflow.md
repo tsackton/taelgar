@@ -1,234 +1,272 @@
-# Entity review and feedback handoff
+# Entity review and feedback
 
-Use with [the entity skill](../SKILL.md), [map format](format.md), and repository
-`AGENTS.md`. Those own extraction, calibration, and field rules. This document
-covers preparing a review and manually applying exported feedback. It does not
-add an HTML renderer, automatic importer, or final interaction generator.
+Use with [the skill](../SKILL.md), [map format](format.md), and repository
+`AGENTS.md`. The Obsidian Session review tab lists sessions with entity maps and
+provides **Show entities map** and **Review entities**. The first is an editable
+row per entity with inline type/status/role saves, explicit Accept, and reversible
+Exclude/Include tables. Details loads source passages and active feedback; the second visits entities
+that are **not human reviewed**, including high-confidence agent decisions.
+Skipping navigates without changing review status. The queue's Exclude and next
+requires a short exclusion reason, saves pending form edits into the archived
+record, moves it to the map's excluded list, and advances. Include can restore it. A session stays unreviewed
+while any included entity is not `humanReviewed`.
 
-## Prepare from saved maps
+## Durable review JSON
 
-1. Inspect branch/worktree and resolve the requested YAMLs. Preserve unrelated
-   work; do not switch branches, commit, or push without authorization.
-2. Follow the entity skill to consult existing same-session and earlier
-   same-campaign maps for context, read the complete current polished transcript
-   (or registered prepared narrative), inventory referents, and inspect/read
-   candidate evidence. Do not routinely reread earlier transcripts. No scene map
-   is required.
-3. On revision, retain the old map byte hash and a before-image for comparison.
-   Preserve stable entity IDs and accepted human decisions. Confidence, selection,
-   identity grouping, note matching, and session importance are distinct judgments.
-   On v3 upgrades, retain accepted identity decisions but assess importance before
-   claiming review of the expanded whole records; never default missing tiers.
-4. Use the guarded helper to save a complete proposal. Inspect every chosen,
-   candidate, and supporting note, including unchanged records, and retain the
-   full-set input digest. Additions to that evidence set require a new inspection
-   and a check for changes to previously read notes.
-5. Validate and perform the separate semantic pass required by the skill.
+The decision store is `cleaned/<stem>-entities-review.json`, beside the map. It is
+created on the first edit, comment, or explicit source-change confirmation,
+never merely by opening the reviewer. Map
+edits immediately update `*-entity-map.json`; downstream readers see the actual
+human changes without applying an overlay or importing an export. Entity removal
+retains the complete old record in review history. Original sources and YAML stay
+unchanged. This workflow does not delete existing maps or historical feedback.
 
-For an intentional revision, the save command needs both guards:
+Review JSON v1 has `purpose: session-entities-review`, `sessionYaml`, the current
+map's byte `mapSha256`, an append-only `history`, and `feedback`:
+
+- History events have stable `id`, timestamp `at`, `actor` (`human` or `agent`),
+  `action`, session-local `entity` (or null for the whole map), optional-text
+  `reason`, exact before/after map hashes, and `before`/`after` record snapshots.
+  Map regeneration records complete before/after maps. The original confidence
+  and actual correction remain available for calibration.
+- Feedback records have stable `id`, timestamp, `author`, optional entity ID,
+  exact reviewed `mapSha256`, reviewed entity `record` (null for a session comment),
+  `comment`, and `status: open | resolved`. Resolution adds `resolution` and
+  `resolvedBy`. Resolving feedback never supplies human approval.
+- All feedback remains saved, including resolved comments and comments on removed
+  entities. Human changes and reasons are calibration evidence even without a
+  separate comment. A reason is optional; do not invent one from the correction.
+
+The helper uses the shared session lock and an atomic write-ahead `transaction`
+inside review JSON for two-file consistency. If interrupted, the next review
+inspection completes that exact transaction only when the current map matches its
+before or after hash. Conflicts stop for reconciliation. Do not manually remove
+transaction data or rewrite hashes to suppress an error.
+
+## Included and excluded tables
+
+The map screen has one navigation/reload/status bar and a session/date title.
+Transcript and campaign session-note links appear only for existing files. Session
+notes resolve through `_scripts/session_note_campaigns.json`, including aliases and
+the registered `campaignRoot` / `notePattern`.
+
+The optional entity `confidenceExplanation` contains the agent's one-sentence
+explanation of medium/low confidence (and optionally high confidence). It appears
+next to the queue badge or in the main map's Details popup. Legacy missing
+explanations are identified as missing, never reconstructed by the reviewer.
+
+Inline type, status, and role changes save immediately. Accept marks the row human
+reviewed. Exclude asks for a reason of at most 40 words and moves the record into
+the map's existing `{label, reason, occurrences}` exclusions array. The review
+sidecar's optional `excludedRecords` retains the full entity paired with that
+exact exclusion. The map schema remains v4. Include consumes the archived record
+and restores its ID, note, flags, and passages as unreviewed, preserving feedback.
+Notes needed for restoration must be inspected before the write. Original
+exclusions without an archived record require explicit type and importance; the
+helper allocates a fresh ID, avoiding current, archived, and historical IDs.
+
+Agent regeneration must retain active human exclusions and cannot recreate their
+archived IDs. Only a human Include action reopens such an inclusion decision.
+Exclusion and inclusion use the same locked, recoverable transaction as other
+edits. They never rewrite source passages, YAML, or canonical vault notes.
+
+## Empty staging notes from the reviewer
+
+The entity-by-entity screen keeps entity feedback but omits session feedback,
+agent follow-up instructions, and history; those remain on the main map.
+For an unlinked entity, Create staging note asks the human to confirm a name and
+shows the target under `Worldbuilding/Staging/<campaign folder>/<name>.md`.
+`entity_review_staging.py` reuses an existing short folder when it uniquely matches
+the registered campaign name or aliases; otherwise it uses the canonical name.
+It rejects unsafe filenames and vault-wide filename/name/alias collisions, then
+creates the file exclusively with zero bytes. No template, frontmatter, status
+metadata, or content is added: this action explicitly creates an empty note.
+
+`createStagingNote` takes the current `token`, `entity`, human-chosen `name`, and
+optional current `changes` limited to label/type (`kind`)/role (`importance`). It
+saves those edits, links the empty file, and sets the entity unreviewed, preserving
+source evidence. The helper checks inputs again before committing map/history.
+Obsidian supplies a `noteIndex` snapshot of all Markdown paths and each cached
+frontmatter name/alias list. The helper compares normalized identities in memory
+and opens only notes missing cached metadata, avoiding a full vault reopen for
+each creation. Calls without an index retain the complete file-based collision
+scan. Target-path validation and exclusive creation remain the same.
+A failure after file creation retains the note and reports its path. Interrupted
+map/history writes recover through the existing transaction; never create a
+second note or delete the preserved file as a convenience fix. A stale-token or
+collision error before creation leaves all existing notes unchanged.
+
+This is a human UI action, not permission for an agent to create guessed names or
+empty stubs during an ordinary mapping run. Existing note-creation workflows keep
+their own content, template, and approval requirements.
+
+## Agent API
+
+`scripts/entity_review.py` reads one JSON request from stdin and returns one JSON
+response on stdout. Invoke it from the vault root with `python3 -B`; no shell or
+model service runs inside the helper. Resolve the session YAML first. For example:
+
+```json
+{"command":"inspect","sessionYaml":"_sessions/demo/demo-001/cleaned/demo-001-session.yaml"}
+```
+
+Inspection returns the map, review history/feedback, session identity, UID-resolved
+source links, and a token binding the current map bytes, review bytes, session
+inputs, and inspected note paths. Vault-note contents are not hashed and their
+edits do not stale a token. Use that actual token verbatim for writes:
+
+```json
+{"command":"resolveFeedback","sessionYaml":"<resolved YAML>","token":{},"feedbackId":"f000001","resolution":"<what changed, supporting evidence, or why no change was appropriate>"}
+```
+
+`token: {}` above is only a placeholder. Reinspect after each write; use the token
+returned by the latest response. A stale map, feedback file, transcript, or YAML
+rejects the write; vault-note content edits do not. `entityFeedback` records `comment` and optional
+`entity`; `entityUpdate` applies a selected human edit/removal and its optional
+`reason`. `entityUpdate` with `action: exclude` moves the entity using its
+40-word-limited `reason` and can include the same pending `changes` as an edit.
+Those fields and any new note target are validated before the record is moved;
+the archive retains the edits and confidence explanation. `exclusionInclude` selects an `exclusionIndex` bound to
+the current token, restoring an archived entity or requiring `kind` and
+`importance` for an original exclusion. `evidence` accepts `exclusionIndex` with
+the current `mapSha256` to read excluded passages. Inspection returns
+`exclusionDetails` with restoration availability and note-inspection paths.
+**Agents must not use entityUpdate, exclusionInclude, or createStagingNote to invent human actions.** Agent map
+changes use the ordinary guarded `entity_map.py save` workflow below.
+
+For a new vault link, inspect with `notes: ["People/Target.md"]` first. The helper
+includes all existing chosen/candidate/evidence notes in that inspection. Evidence
+uses `command: evidence`, `entity`, and inspected `mapSha256`, and resolves actual
+whole-turn UIDs for transcript or prepared-narrative sources. Editor line numbers
+are zero based and temporary; they are never provenance.
+
+## Confirm changed transcript inputs
+
+If the entity map's transcript/session inputs differ, `inspect` returns
+`confirmationRequired: true`, `sourceChanges` (names and old/current SHAs),
+`session`, and the current guarded `token`, without exposing an editable map.
+Show the changes and ask whether to continue with the current transcript. After
+explicit human confirmation, submit:
+
+```json
+{"command":"confirmSourceChanges","sessionYaml":"<resolved YAML>","token":{}}
+```
+
+Use the actual challenge token, never the placeholder above. The helper checks
+the current source digest, map hash, and review hash, validates UID evidence, then
+updates only the map's input fingerprints using the normal recoverable transaction.
+It records a human `confirmSourceChanges` history event with whole before/after
+maps, preserves entity decisions/statuses, and returns a fresh inspection. A stale
+challenge must be inspected and confirmed again. Source files and YAML are not
+rewritten. Agents must not submit this human action without explicit confirmation.
+
+The CLI equivalent is `entity_map.py --session-yaml YAML confirm-sources
+--expect-input-digest DIGEST --expect-sha256 HASH`, using the current values from
+`entity_map.py inspect`. Ordinary reads/agent saves refuse a changed transcript
+until it has been acknowledged. Legacy `inputs.vaultNotes` hashes are ignored on
+read and omitted on the next guarded write. Note paths remain validated.
+
+## Pick up feedback before mapping
+
+Inspect existing same-session review JSON before revising its map. Discover review
+JSONs alongside earlier same-campaign maps when using those maps as context.
+Preserve entity IDs, human edits/removals, reasons, and open/resolved feedback.
+Compare feedback's record snapshot and map hash with the current record and
+intervening history. Old feedback must not silently replay onto a different
+record. A removed entity's feedback remains valid evidence of the removal; do
+not recreate it under another ID to bypass that decision.
+
+Revisions still require reading the complete current registered source, consulting
+full candidate/supporting notes, and the independent semantic pass. Prior maps and
+feedback are leads and decisions, not independent source evidence or canon.
+
+Save proposals using the standard helper with both inspected guards:
 
 ```bash
 python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML save --proposal - --expect-input-digest INPUT_DIGEST --expect-sha256 MAP_SHA256
 ```
 
-Substitute the actual manifest, initial input digest, and inspected old map hash;
-provide proposal JSON on stdin. Omit `--expect-sha256` for a new output. Do not
-edit map files directly or change fingerprints to bypass a stale-input error.
+New maps omit `--expect-sha256`. Inspect every consulted note. Regeneration preserves
+review history and rejects modifying/removing a whole human-reviewed record,
+creating new human approvals, or recreating human-removed IDs. To reconsider a
+human-reviewed record, have the human reopen that record as unreviewed in the
+reviewer, then research and save the change. Unchanged human records stay intact.
+Vault-note content changes do not block processing or demote human decisions.
+When registered transcript/session inputs change, obtain explicit human
+confirmation of the current revision before continuing. Confirmation preserves
+the existing decisions/statuses and records the old/current fingerprints; it
+does not establish semantic review. Changed entity decisions still need actual
+review. Passing validation never supplies semantic review status.
 
-## Present a review
+## Recalibrate skill based on feedback
 
-The supported general review is the helper's compact preview and on-demand
-verbatim evidence:
+Treat this phrase as a request to improve the entity skill from recorded feedback:
 
-```bash
-python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview
-python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview --entity e021
-python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview --kind divine
-python3 -B .agents/skills/check-session-entities/scripts/entity_map.py --session-yaml SESSION_YAML preview --importance supporting
-```
+1. Discover relevant review files (use the named session/campaign when supplied;
+   otherwise inspect the available review JSONs). Read history as well as comments,
+   including resolved feedback. Separate human corrections from agent regeneration.
+2. Reconcile each example to its reviewed snapshot and intervening history. Identify
+   the original judgment, original confidence, human correction, and stated reason.
+   Distinguish session-specific facts from a reusable inclusion, identity, importance,
+   evidence, or confidence rule. Do not infer a broad rule from an unexplained edit.
+3. Update the skill and appropriate references with supported rules and concrete
+   calibration examples. Preserve exceptions and uncertainty. Update `SKILLS.md`
+   in the same change. This request does not authorize bulk reclassification of maps.
+4. Report adopted rules and source review/event IDs; surface conflicting or ambiguous
+   feedback as questions. Resolve a specific open comment only after its requested
+   guidance change is actually implemented, with a recorded explanation. Human
+   corrections in history remain append-only and are not erased or marked consumed.
 
-Put uncertain/unreviewed decisions first and keep all inclusions and meaningful
-exclusions accessible. Show session, stable entity ID, session label, kind, match/
-candidates, session importance, confidence/status, and UID evidence. Legacy maps
-must show importance as unassessed, not cameo. Later-identification
-flags must remain visible at high confidence. Occurrence does not imply presence.
-For items, visibly display `examinedInMirrorOfPast: true` and retain the occurrence
-showing the examination. Review this independently of importance; proposals and
-recollections of other sessions do not establish that it happened in this session.
+## Resolve feedback with my help
 
-A saved reviewer is **additional user-requested work**. Render it from the saved
-maps rather than extracting a second inventory. There is no committed general
-HTML renderer or feedback-import command; the October 2026 calibration used
-one-off tooling. Do not assume a pilot HTML file, ZIP, or generator exists in
-another checkout. Helper previews are the supported fallback.
+Treat this phrase as an assisted pass through open feedback:
 
-### Confidence-based calibration
+1. Inspect the selected session(s), sort open feedback by session and stable ID,
+   and show one issue with the reviewed entity, exact human comment, relevant
+   history, and focused UID passages/vault evidence.
+2. Apply clear authorized corrections through guarded map saves. Ask a focused
+   question for ambiguous identity/grouping, missing entities, or conflicting
+   decisions. A comment is not approval of a guessed correction. Continue independent
+   research while awaiting the answer.
+3. Revalidate changes and preserve unchanged records. Changed agent records start
+   unreviewed until the semantic pass; the agent never promotes them to human
+   reviewed. A human decision on one field does not approve newly researched fields.
+4. Resolve the feedback ID only after implementing and checking the agreed outcome;
+   explain the change/evidence in `resolution`. Leave unanswered issues open.
+   Report remaining issues and files changed. Never start later pipeline stages,
+   commit, or push without corresponding authorization.
 
-When requested, reduce the human review queue after the complete automated
-semantic pass. The Mawar calibration preference is every medium/low-confidence
-decision plus four randomly selected high-confidence decisions per episode,
-presented one at a time. Confidence still estimates correctness of the complete
-decision; do not raise it to reduce the queue.
+The Obsidian UI saves feedback for this handoff; it does not start an agent.
 
-Assess exclusions too. They have no confidence or review-status fields in the
-map schema, so retain those assessments in the conversation or temporary review
-state, bound to each exclusion's label and complete occurrence references.
-Surface medium/low-confidence exclusions with the uncertain included entities.
-Include high-confidence exclusions in the sampling population alongside
-high-confidence inclusions unless the user limits the requested scope.
+## Confidence-based calibration
 
-Use an actual uniform random draw without replacement from the remaining
-high-confidence decisions; sample all if fewer than four remain. Exclude already
-human-reviewed, unchanged decisions from the pending queue. Retain the source map
-hash, eligible population, random seed, and selected identities in conversation
-or temporary review state. Freeze the draw before presenting it; do not choose
-convenient examples or reroll after feedback. A persistent reviewer artifact
-still requires a request.
+An explicitly requested calibration sample can still select every medium/low
+confidence decision plus four uniformly sampled high-confidence decisions per
+session, including exclusions, unless another scope is requested. Freeze the
+population, source hashes, random seed, and selected identities before presenting
+one at a time; do not reroll after feedback. Exclusions are identified by exact
+label and complete occurrence references, never mutable array positions. They
+have no review-status field in the map schema. Only explicitly reviewed included
+records receive `humanReviewed`. Completion of a sample does not make the whole
+session human reviewed; the ordinary Obsidian queue still includes every included
+entity lacking that status.
 
-Present the queue size and proceed at the requested pace. Keep the current
-pending entry first when it qualifies. Apply feedback to the skill and all
-affected decisions, adding newly uncertain decisions to the queue when needed.
-Preserve the sample across ordinary status updates; reconcile identities and
-source changes against the retained snapshot instead of treating changed array
-positions as the same decision.
+## Legacy feedback
 
-Only explicitly reviewed decisions receive `humanReviewed`. Other included
-entities remain `automatedReviewed` after the semantic pass. Once the selected
-queue is resolved, report its review coverage and continue to the next authorized
-session; do not require a review of every remaining high-confidence decision or
-describe the entire map as human reviewed.
-
-When the user explicitly authorizes an unattended batch, prepare each session in
-order and retain its pending review queue for later; do not pause the batch for
-individual judgments. Existing human decisions remain intact, and unattended
-work never supplies new human approvals.
-
-### Optional offline reviewer
-
-If building an offline HTML reviewer, provide:
-
-- Session, kind, importance, confidence, match, later-identification filters, and text search.
-- Separate entity/exclusion views and expandable original UID passages.
-- Entity actions: **Accept**, **Change / discuss**, **Exclude entity**.
-- Exclusion actions: **Keep exclusion**, **Change / discuss**, **Include entity**.
-- Per-record comments, per-session missing-entity feedback, map downloads, and
-  a separate **Export my feedback** action.
-
-Embed saved data and evidence; escape labels, comments, and transcript text as
-text. Browser storage is only a convenience: show when it is unavailable and
-instruct the user to export feedback. The browser does not update repo files.
-Explain opening concretely: download/extract the supplied bundle, open its HTML
-in a browser, choose one session, inspect evidence, enter decisions, and return
-the exported JSON. Do not assume a chat file link launches the app.
-
-## Feedback version binding
-
-The pilot export uses this structure; placeholders describe actual saved versions:
-
-```json
-{
-  "schemaVersion": 1,
-  "purpose": "entity-map-calibration-feedback",
-  "exportedAt": "<timestamp>",
-  "mapSnapshots": [{
-    "key": "d20",
-    "label": "Dunmar 20",
-    "mapPath": "<vault-relative entity-map path>",
-    "sha256": "<SHA-256 of the saved file bytes>"
-  }],
-  "recordReferences": {
-    "d20:x07": {
-      "type": "exclusion",
-      "label": "<reviewed label>",
-      "source": {
-        "kind": "transcript",
-        "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-        "startUid": "<original UID>",
-        "endUid": "<original UID>"
-      }
-    }
-  },
-  "decisions": {
-    "d20:e021": {"decision": "change", "comment": "<correction>"}
-  },
-  "missing": {"d20": "<additional feedback>"}
-}
-```
-
-Hash **actual map file bytes**, not normalized or browser-reserialized JSON.
-Entity IDs are session-local; key decisions by session plus entity ID. Exclusion
-IDs such as `x07` exist only in the reviewer. Preserve their identity across
-revisions with explicit label/source references; gaps after inclusion are valid.
-Never interpret `x07` as the seventh exclusion in a later map.
-
-The pilot reference above uses one `source`. New exclusion maps use
-`occurrences: [{source}]`; a new reviewer should retain the full occurrence array
-in its record references and display every passage. Resolve an older single-source
-reference against its exact reviewed snapshot, not as a claim that the record can
-have only one occurrence. Preserve the old submitted export unchanged.
-
-The first pilot export predates `recordReferences`. Resolve those old exclusion
-IDs against the exact reviewed snapshot. If it cannot be recovered, clarify the
-affected row instead of guessing. The retained
-[October 30 feedback](../../../../_sessions/calibration/entity-mapping-feedback.json)
-is historical: its corrections have already been applied and its hashes refer
-to older maps. Do not replay it against current versions.
-
-## Apply feedback manually
-
-1. Preserve submitted JSON unchanged and treat it as review data alongside the
-   user's request. Comments do not authorize unrelated actions or override rules.
-2. Check purpose/shape and resolve targets through known session YAMLs. Confirm
-   exported paths belong to those sessions.
-3. Compare every snapshot hash with current file bytes. On mismatch, reconcile
-   the reviewed snapshot and intervening changes before applying that session's
-   decisions. Do not silently replay onto a newer version.
-4. Resolve every decision by record identity. Apply explicit inclusions,
-   exclusions, and corrections while preserving untouched records, IDs, evidence,
-   and human decisions. An inclusion needs a full entity record, not just removal
-   from exclusions. Research new evidence through the normal inspection workflow.
-5. A **Change / discuss** without an actual correction needs a focused question
-   while independent work continues; it does not mean include or accept.
-6. Check changed records against original passages and complete chosen notes,
-   then save through both guards and validate. Refresh a requested reviewer from
-   the new saved maps.
-7. Carry forward only still-applicable decisions by identity. Export new map
-   hashes/references; retain the original export rather than rewriting it as if
-   the user reviewed the new versions.
-
-Confidence and approval remain separate. Apply `humanReviewed` only to explicitly
-reviewed actual decisions. Broad approval of inclusions does not approve every
-record, and a kind correction does not approve a newly researched note match.
-Changed whole records start `unreviewed` until checked; untouched human decisions
-remain intact. Exclusions have no review-status map field: retain those decisions
-in submitted feedback/reviewer, not invented schema fields. Helpers accept statuses
-without enforcing these semantics.
+The [October 30 export](../../../../_sessions/calibration/entity-mapping-feedback.json)
+is historical: its corrections were already applied and its hashes refer to old
+maps. Preserve it unchanged. Older exports with `mapSnapshots`, `decisions`, and
+`recordReferences` require exact snapshot reconciliation before use. Exclusion
+references may use an older single `source`; match them against the original
+snapshot, never a later array position. Do not automatically import/replay them.
+There is no migration from the old provisional `reviewState` queue; the current
+map schema has no such field. Unsupported legacy maps need an intentional guarded
+upgrade following the format reference, not silent schema normalization.
 
 ## Verify and deliver
 
-Validate all affected maps and check changed selections, identities, kinds,
-grouping, importance, and matches semantically. Recheck stars against the whole
-session rather than a quota; use the [calibration](importance.md) for supporting
-and cameo boundaries. Compare original-source, YAML, and consulted
-note fingerprints; session-era labels and UID evidence must remain faithful.
-Run the scoped entity tests if helper code changes and `git diff --check`.
-
-For an HTML change, exercise the real browser interface: filters, evidence,
-inclusion/exclusion actions, comments, export, approval carryover, and downloads.
-Downloaded map objects must equal saved maps; snapshot hashes must identify their
-file versions. Check a narrow viewport and browser errors, not just syntax.
-
-Deliver map paths, applied decisions, unresolved questions, and checks performed.
-When a saved reviewer was requested, provide a working download and opening/export
-instructions. Do not require approval of every clear entity before completing work.
-
-## Instruction for the next agent
-
-> Read `AGENTS.md`, the entity skill, map format, and this workflow. Review the
-> requested maps from their YAML-registered polished transcripts, preserving IDs
-> and human decisions. Apply the calibrated selection rules, flag clear later
-> identities, and retain session-era labels. Bind feedback to exact map versions,
-> resolve records by identity, and save only through inspected input/output guards.
-> Validate maps, verify source preservation, and report unresolved questions.
-> Create saved reviewers only when requested. Stop before other stages, commits,
-> or pushes unless separately authorized.
+Run the entity skill tests when helpers change and `git diff --check`. Test DOM
+controls and a real browser preview for UI changes, including table/source/vault
+links, every review status, skip, comments, removal, optional reasons, narrow
+layout, and failure handling. Do not use actual session writes as tests. Report
+changed files, checks, unresolved feedback, and whether a plugin build was installed.

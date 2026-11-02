@@ -223,16 +223,15 @@ class EntityMapTests(unittest.TestCase):
         self.assertNotIn('reason', migrated['entities'][0])
         self.assertEqual(migrated['entities'][0]['review'], old['entities'][0]['review'])
 
-    def test_note_changed_after_read_invalidates_review_and_save(self):
+    def test_note_changed_after_read_does_not_invalidate_review_or_save(self):
         doc = self.document()
         self.note.write_text(self.note.read_text(encoding='utf-8') + 'Different identity.\n', encoding='utf-8', newline='\n')
-        with self.assertRaisesRegex(ValueError, 'inputs changed'):
-            e.validate(self.load(), doc)
-        with self.assertRaisesRegex(ValueError, 'evidence changed'):
-            e.save(self.bundle, self.proposal)
+        self.assertEqual(e.validate(self.load(), doc)['entities'], 1)
+        self.assertEqual(e.save(self.bundle, self.proposal)['entities'], doc['entities'])
+        self.assertNotIn('vaultNotes', doc['inputs'])
 
     def test_new_evidence_must_be_inspected(self):
-        with self.assertRaisesRegex(ValueError, 'differs from inspection'):
+        with self.assertRaisesRegex(ValueError, 'differ from inspection'):
             e.build(self.load(notes=()), self.proposal)
 
     def test_source_preservation_and_only_one_output(self):
