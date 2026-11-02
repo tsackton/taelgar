@@ -13,7 +13,6 @@ name: Raven
 affiliations:
   - {org: Dunmar Fellowship, title: Guest}
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: player
 dm_notes: important
 POV: 1740s

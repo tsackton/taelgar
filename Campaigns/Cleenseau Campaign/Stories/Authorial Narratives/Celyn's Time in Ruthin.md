@@ -2,7 +2,7 @@
 tags: [story]
 campaign: Cleenseau
 DR: 1715
-excludePublish: ["all"]
+noPublish: true
 POV: 1710s
 ---
 

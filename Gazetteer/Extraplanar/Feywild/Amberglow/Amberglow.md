@@ -7,7 +7,6 @@ typeOf: extraplanar domain
 ancestry: fey
 name: Amberglow
 whereabouts: Feywild
-excludePublish: [clee]
 dm_owner: joint
 dm_notes: none
 POV: modern

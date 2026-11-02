@@ -4,7 +4,7 @@ lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/errors, status/check/lint]
 name: Humanity in Greater Sembara
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: none
 POV: modern

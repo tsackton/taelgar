@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [meta, status/check/ai, status/check/lint]
 name: Sentinels and Continental Weather Connections
-excludePublish: [all]
+noPublish: true
 POV: modern
 ---
 # Sentinels and Continental Weather Connections

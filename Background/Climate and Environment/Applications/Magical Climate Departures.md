@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [meta, status/check/ai, status/check/lint]
 name: Magical Climate Departures
-excludePublish: [all]
+noPublish: true
 POV: modern
 ---
 # Magical Climate Departures

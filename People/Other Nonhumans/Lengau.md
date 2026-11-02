@@ -11,7 +11,6 @@ gender: nonbinary
 pronouns: he/him or she/her (as they desire)
 name: Lengau
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
 POV: 1748

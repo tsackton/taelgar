@@ -1,6 +1,6 @@
 ---
 tags: [background]
-excludePublish: ["all"]
+noPublish: true
 dm_owner: none
 dm_notes: none
 ---

@@ -1,7 +1,7 @@
 ---
 tags: [story]
 campaign: Cleenseau
-excludePublish: ["all"]
+noPublish: true
 POV: 1710s
 ---
 # Celyn and the Players I

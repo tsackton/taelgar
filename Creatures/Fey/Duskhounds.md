@@ -4,7 +4,6 @@ lintVersion: "3.5"
 tags: [creature]
 name: Duskhounds
 aliases: [duskhound, Duskhounds, Duskhound]
-excludePublish: [dufr]
 dm_owner: mike
 dm_notes: important
 POV: modern

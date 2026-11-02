@@ -6,7 +6,7 @@ tags: [place, status/check/lint]
 typeOf: extraplanar domain
 name: Duskmire
 whereabouts: Feywild
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: important
 POV: modern

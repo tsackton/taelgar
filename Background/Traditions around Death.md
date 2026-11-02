@@ -3,7 +3,7 @@ lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [background]
 name: Traditions around Death
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: none
 POV: modern

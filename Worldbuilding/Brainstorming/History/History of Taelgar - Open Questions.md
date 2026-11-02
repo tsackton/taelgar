@@ -1,7 +1,7 @@
 ---
 tags: [background]
 name: History of Taelgar - Open Questions
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: none
 ---

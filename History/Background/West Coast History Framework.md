@@ -3,7 +3,7 @@ lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/cleanup/text, status/cleanup/map, status/check/lint]
 name: West Coast History Framework
-excludePublish: [all]
+noPublish: true
 dm_owner: tim
 dm_notes: none
 POV: modern

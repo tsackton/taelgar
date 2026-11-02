@@ -3,7 +3,7 @@ lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/review, status/check/lint]
 name: Great War Notes
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: important
 POV: modern

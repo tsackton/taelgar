@@ -14,7 +14,6 @@ whereabouts:
   - {type: away, start: 1748-06-05, location: Bas Udda}
   - {type: away, start: 1748-06-08, end: 9999, location: Karawa}
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
 POV: "1748"

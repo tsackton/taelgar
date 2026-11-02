@@ -11,7 +11,6 @@ name: "Shakun's Realm"
 pronunciation: "SHAH-koon's Realm"
 whereabouts:
   - {type: home, location: Divine Realms, wHome: "A <ancestry> <subtypeof><typeOf> in the <home:1>"}
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: none
 POV: 1740s

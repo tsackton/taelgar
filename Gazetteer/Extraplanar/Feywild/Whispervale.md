@@ -6,7 +6,6 @@ tags: [place, status/check/lint]
 typeOf: extraplanar domain
 name: Whispervale
 whereabouts: Feywild
-excludePublish: [dufr]
 dm_owner: none
 dm_notes: color
 POV: modern

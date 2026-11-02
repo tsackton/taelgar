@@ -4,7 +4,6 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [background, status/cleanup/text]
 name: Birthdays
-excludePublish: [dufr]
 dm_owner: none
 dm_notes: none
 POV: modern

@@ -3,7 +3,6 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [meta]
 name: House Rules (Tim)
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: none
 POV: undated

@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [status/wip, source, status/check/lint]
 name: The Story of the Scepter of Command
-excludePublish: [all]
+noPublish: true
 dm_owner: tim
 dm_notes: important
 POV: modern

@@ -1,6 +1,6 @@
 ---
 tags: [meta, status/check/ai]
-excludePublish: [all]
+noPublish: true
 ---
 # Tropical Habitats
 

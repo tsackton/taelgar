@@ -8,7 +8,6 @@ typeOfAlias: palace
 ancestry: fey
 name: Cloud Palace
 whereabouts: Amberglow
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: none
 POV: 1748

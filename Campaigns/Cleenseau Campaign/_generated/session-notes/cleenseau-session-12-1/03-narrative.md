@@ -1,5 +1,5 @@
 ---
-excludePublish: ["all"]
+noPublish: true
 sessionManifest: "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-012.1\\cleaned\\cleenseau-012.1-session.yaml"
 ---
 

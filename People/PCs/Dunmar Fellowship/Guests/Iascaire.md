@@ -14,7 +14,6 @@ affiliations:
   - {org: Dunmar Fellowship, title: Guest}
   - {org: "Ko'zula", type: primary}
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
 POV: 1748

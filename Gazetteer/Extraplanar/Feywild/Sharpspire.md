@@ -6,7 +6,6 @@ tags: [place]
 typeOf: extraplanar domain
 name: Sharpspire
 whereabouts: Feywild
-excludePublish: [dufr]
 dm_owner: tim
 dm_notes: important
 POV: modern

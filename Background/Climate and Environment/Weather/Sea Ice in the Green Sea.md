@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [meta, status/check/ai]
 name: Sea Ice in the Green Sea
-excludePublish: [all]
+noPublish: true
 POV: modern
 ---
 # Sea Ice in the Green Sea

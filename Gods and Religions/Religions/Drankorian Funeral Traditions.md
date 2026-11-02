@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/mosnumena, status/check/lint]
 name: Drankorian Funeral Traditions
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: important
 POV: modern
