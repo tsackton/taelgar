@@ -113,8 +113,9 @@ The inspection digest binds both. The reader refuses stale inputs rather
 than displaying an old automated/human status as current. Reinspect, revise the
 proposal, and save with the expected old output hash after semantic rechecking.
 Scene-map creation, revision, or deletion and changes to a reduction draft do not
-stale evidence pointing to original polished speech. Only the entity map is
-persisted during an ordinary run; previews and source windows go to stdout.
+stale evidence pointing to original polished speech. New ordinary runs persist only the map; revisions with an existing entities-review
+JSON also append agent regeneration history. Human edits and comments use the
+review helper and durable sidecar. Previews and source windows go to stdout.
 
 `preview` groups review priorities and produces one compact row per entity,
 including session importance, plus exclusions. It reports counts by tier without
@@ -136,8 +137,8 @@ The read-only `session_model.py project` preserves the entity core, assessed
 importance, and scene/context accounting; legacy missing importance stays absent.
 Projection separately loads and validates a current scene map; entity checking
 can finish before one exists. Occurrences inform retrieval, not final conversation
-grouping. The [review workflow](review-workflow.md) covers manual feedback; helpers
-accept caller-authored review values without enforcing human-decision protection.
+grouping. The [review workflow](review-workflow.md) covers durable review JSON and agent handoffs. Guarded saves preserve whole
+human-reviewed records, reject forged new approvals, and preserve removal decisions.
 
 V3 maps remain readable without importance. Preview marks them **Not assessed**;
 validation reports `unassessedImportance` separately from `importanceCounts`.

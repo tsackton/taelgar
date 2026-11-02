@@ -10,6 +10,8 @@ import sys
 from urllib.parse import quote
 
 sys.dont_write_bytecode = True
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import entity_review_store as review_store
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / 'map-transcript-scenes' / 'scripts'))
 import scene_map as scenes
 
@@ -240,7 +242,18 @@ def save(bundle, proposal, expected=None):
                     'Existing entity map requires its inspected --expect-sha256')
         else:
             require(expected is None, 'Expected entity map is missing')
-        scenes.atomic(bundle['root'], path.relative_to(bundle['root']), scenes.encoded(document))
+        before = json.loads(path.read_bytes()) if path.exists() else {'entities': []}
+        review_store.protect_human(before, document, scenes)
+        if review_store.review_path(bundle).exists():
+            require('transaction' not in review_store.read(bundle, scenes),
+                    'Interrupted entity review; run the review helper inspect to recover before regeneration')
+            state = review_store.current(bundle, scenes)
+            removed = {event['entity'] for event in state['history'] if event['action'] == 'remove'}
+            require(not removed.intersection(row['id'] for row in document['entities']),
+                    'Do not recreate human-removed entity IDs; reconcile removal feedback first')
+            review_store.commit(bundle, scenes, before, document, state, 'agent', 'regenerate')
+        else:
+            scenes.atomic(bundle['root'], path.relative_to(bundle['root']), scenes.encoded(document))
     return document
 
 

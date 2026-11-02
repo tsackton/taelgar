@@ -1,6 +1,6 @@
 ---
 name: check-session-entities
-description: Identify NPCs, divine beings, significant items, and organizations from a YAML-registered polished transcript or prepared narrative, without a scene map. Consult existing same-session and earlier same-campaign entity maps for context without rereading earlier transcripts. Assess session importance, check vault matches and UID evidence, preserve session-era labels, and present confidence and meaningful exclusions. Preserve source files.
+description: Identify NPCs, divine beings, significant items, and organizations from a YAML-registered polished transcript or prepared narrative, without a scene map. Consult existing same-session and earlier same-campaign entity maps for context without rereading earlier transcripts. Assess session importance, check vault matches and UID evidence, preserve session-era labels, and present confidence and meaningful exclusions. Read durable review JSON, preserve human corrections, and support feedback resolution and skill recalibration. Preserve source files.
 ---
 
 # Check Session Entities
@@ -35,7 +35,8 @@ metadata and headings alone do not establish an encounter. Assess importance
 from the events described, without inventing missing dialogue or detail. The
 remaining inventory and review rules apply equally to narrative sources.
 
-The ordinary run writes only `cleaned/<stem>-entity-map.json`. Transcripts, YAML,
+A new ordinary run writes only `cleaned/<stem>-entity-map.json`. Revisions with
+existing review JSON also append the agent regeneration to that history. Transcripts, YAML,
 vault notes, drafts, scene maps, and other processing files stay read-only. Render
 review on demand; do not persist a lengthy report by default. A saved review needs
 a user request. Do not commit or push automatically.
@@ -45,8 +46,17 @@ Read [session importance](references/importance.md) for the required tiers and
 calibration cases before assigning them.
 [The review workflow](references/review-workflow.md) covers saved reviewers,
 feedback, and handoffs; [the pipeline contract](references/pipeline-model.md)
-covers v7 projection. Human feedback application is manual; Obsidian integration
-and final interaction generation are unfinished.
+covers v7 projection. Obsidian supports table and one-at-a-time review;
+`scripts/entity_review.py` owns the durable `cleaned/<stem>-entities-review.json`
+feedback and human-change history. Final interaction generation remains separate.
+
+Before revising a map, read its review JSON, including human edit/removal history
+and open comments. Consult relevant prior-session feedback alongside prior maps.
+On **“recalibrate skill based on feedback”**, follow the review workflow’s
+calibration procedure to update supported rules and the skill catalog. On
+**“resolve feedback with my help”**, work through open issues with evidence and
+focused questions, then record checked resolutions. Neither mode invents human
+approval or silently replays comments against changed records.
 
 ## Prior entity maps as context
 
@@ -361,7 +371,8 @@ Validation is not review. `humanReviewed` requires explicit review of that actua
 entity decision; approval of scenes, the skill, or broadly correct inclusions does
 not approve every row. Preserve stable IDs and earlier human decisions. Changed
 decisions return to `unreviewed` until checked; stale source/note evidence
-invalidates relying on old review. Helpers do not enforce these review semantics.
+invalidates relying on old review. Guarded saves protect existing human-reviewed records and prevent new agent-authored
+human approvals. A human can reopen a record in the reviewer before agent revision.
 
 When the user requests confidence-based calibration, review every medium/low
 decision plus a random sample of four remaining high-confidence decisions per
