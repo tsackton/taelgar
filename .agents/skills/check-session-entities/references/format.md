@@ -4,6 +4,15 @@ Output: `cleaned/<stem>-entity-map.json`. Session metadata and source paths stay
 YAML. The helper supplies `schemaVersion: 4`, `sessionYaml`, and `inputs`.
 The polished transcript is sufficient; no scene map or reduction draft is required.
 
+Narrative-only sessions instead use the YAML `preparedSourcePath` UID source.
+Their occurrence references use `kind: narrative`, `sourceId: preparedSourcePath`,
+and the existing `startUid`/`endUid` fields. Each endpoint is a complete prepared
+narrative unit; never mix its UIDs with a separately normalized cleaned source.
+The helper fingerprints that source and YAML and preserves both unchanged. Legacy
+absolute prepared paths relocate only by the exact bundle/cleaned/prepared filename
+suffix. Narrative support is local to entity maps; scene mapping, passage
+extraction, and v7 projection still require their transcript workflows.
+
 Author a proposal with required `entities` (possibly empty), optional `exclusions`
 and `evidenceNotes` (vault-relative consulted note paths). No final `session.json`
 or source edits are made.
@@ -18,6 +27,13 @@ Each entity requires:
 | `importance` | Exactly `star`, `supporting`, or `cameo`: importance in this session relative to other non-PC entities. See [definitions and calibration](importance.md). |
 | `occurrences` | Nonempty ordered array of `{source}` identity-bearing passages. |
 | `review` | Whole-entity `{confidence, status}` using the agreed review vocabulary. |
+
+`review.confidence` is the agent's estimate that its complete proposed decision
+is correct: inclusion, kind, grouping, match or deliberate lack of one, and
+importance. It does not rate transcript clarity or the certainty of an in-world
+claim. Use `high`, `medium`, or `low` according to the
+[confidence calibration](../SKILL.md#evidence-and-review); keep it distinct from
+the human/automated review status.
 
 The four identity fields have separate purposes:
 

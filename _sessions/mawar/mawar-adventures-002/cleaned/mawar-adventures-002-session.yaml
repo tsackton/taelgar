@@ -55,7 +55,7 @@ transcriptProcessing:
       sha256: e4a6a8f2dc686534ee142053f8428577f99faaf32c568dbed31c5936829dccf9
     cleaned:
       path: cleaned/mawar-adventures-002-source-cleaned.md
-      sha256: d4aef15f8195707041e42538e9c8b005560e8ee2bc28dcb9b0281f62975e038f
+      sha256: e333c2cd429a5b1f9ce1a1a97a8ffe870d0b62fac5f652def3f22acaa59ec2e2
     polishedMarkdown:
       path: cleaned/mawar-adventures-002-transcript.md
-      sha256: e8631eaaf4aa087d83e776df5e9b8d9f1c7592b7e8efcd35c455a6e85ce9e1f6
+      sha256: 35de1d2930775f0bd8cf92fc93f3ee7e4d297b0a48b620b39207e3844e0b3bd7

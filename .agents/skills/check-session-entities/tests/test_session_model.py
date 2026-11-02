@@ -159,6 +159,7 @@ class SessionModelTests(unittest.TestCase):
         b = m.entities.load(self.f.yaml, self.f.vault, notes=['Gods/Eran.md'])
         m.entities.save(b, {'entities': [{
             'id': 'e1', 'kind': 'divine', 'label': 'The old king', 'note': 'Gods/Eran.md',
+            'importance': 'cameo',
             'identifiedLater': True,
             'occurrences': [{'source': m.scenes.source('u0006', 'u0006')}],
             'review': {'confidence': 'high', 'status': 'unreviewed'}}]})
@@ -207,6 +208,7 @@ class SessionModelTests(unittest.TestCase):
     def test_cli_json_round_trip_uses_utf8_under_a_non_utf8_locale(self):
         label = 'Gräsh Δ'
         proposal = {'entities': [{'id': 'e1', 'kind': 'npc', 'label': label,
+                     'importance': 'supporting',
                      'occurrences': [{'source': m.scenes.source('u0002', 'u0004')}],
                      'review': {'confidence': 'high', 'status': 'unreviewed'}}]}
         proposal_path = self.f.root / 'proposal.json'
