@@ -3,15 +3,17 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: region
 name: Nashtkar
+pronunciation: nasht-KAHR
 whereabouts: Greater Dunmar
 dm_owner: tim
 dm_notes: important
 POV: modern
 ---
 # Nashtkar
+*(nasht-KAHR)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -26,30 +28,7 @@ This area featured heavily in the beginnings of the Dunmar Frontier campaign, an
 
 %%
 
-%%^Metadata:names:v1%%
-- {"name": "Nashtkar", "language": "Dunmari", "pronunciation": "nuhsht-KAHR", "meaning": "blasted plains", "status": "proposed", "notes": "The opening sentence identifies this as a Dunmari name and supplies the gloss. Pronunciation is a Hindi-influenced proposal using the Dunmari analogue in [[Languages]]: short unstressed a approximated as uh, sh as in ship, a sounded t and k, and a longer ah in the final syllable with provisional final stress. The alternative Persian analogue may favor a fuller first a; exact in-world vowels and stress are unestablished."}
-%%^End%%
-
-%%^povNotes:v1%%
-Temporal coverage: broadly modern regional geography and lingering post-Great-War plague scars; no narrower reading position is required.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter ordering while preserving existing values.
-- Corrected the unambiguous grammar error “where scrubby plants clinging to life” to “where scrubby plants cling to life.”
-- Added persistent name metadata with the existing Dunmari gloss and a proposed pronunciation; recorded the broadly modern article POV and temporal coverage.
-
-### Validated judgments
-- The terrain, approximate borders, occasional monsoon rain, and uneven plague haunting are supported by the regional geography, climate reference, and [[Cha'mutte's Plague]]. No narrower article POV is required.
-- Confirmed local source matches support the existing positive `dm_notes` attestation; its value is unchanged. The two ordinary comments retain their editorial and source-routing functions.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or revise the persistent proposal `nuhsht-KAHR`. The article identifies Nashtkar as a Dunmari name, and [[Languages]] gives Dunmari a Hindi or other Indo-Iranian (Persian) analogue. The preferred Hindi-influenced reading approximates the first short, unstressed a as “uh,” reads sh as in “ship,” sounds the t and k, and uses a longer “ah” in the final syllable with provisional final stress. A Persian-influenced reading may retain a fuller first a; the analogue does not establish exact in-world vowels or stress. No accepted pronunciation was found in the reviewed vault evidence. If accepted, copy `pronunciation: nuhsht-KAHR` to frontmatter and mark the name entry `documented`; otherwise revise the proposed entry.
-
+%%
 ### DM evidence
 - [[_DM_/Secret Worldbuilding/Dunmar Notes]]
 - [[_DM_/Secret Worldbuilding/History of Dunmar]]
@@ -79,4 +58,14 @@ Temporal coverage: broadly modern regional geography and lingering post-Great-Wa
 - [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
 - [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - Dunmar Notes]]
+%%
+
+%%^Metadata:names:v1%%
+- {name: Nashtkar, language: Dunmari, pronunciation: nasht-KAHR, meaning: blasted plains, status: documented, notes: "The opening sentence identifies this as a Dunmari name and supplies the gloss. Pronunciation follows the Persian option of the Dunmari analogue in [[Languages]]: short first a as in ash, sh as in ship, a sounded t and k, and a longer ah in the final syllable with final stress. This is an adopted pronunciation, not a proposed Persian etymology."}
 %%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography and lingering post-Great-War plague scars; no narrower reading position is required.
+%%^End%%
+
+
