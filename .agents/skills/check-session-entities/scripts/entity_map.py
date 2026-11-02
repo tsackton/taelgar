@@ -53,7 +53,7 @@ def load(session_yaml, vault_root=scenes.VAULT, notes=()):
     data = scenes.draft.yaml.safe_load(Path(session_yaml).read_bytes())
     bundle = (load_narrative(session_yaml, vault_root)
               if isinstance(data, dict) and data.get('sourceType') == 'narrative'
-              else scenes.load(session_yaml, vault_root))
+              else scenes.load(session_yaml, vault_root, allow_unknown_dates=True))
     inputs = {'sessionInputs': bundle['inputs'], 'vaultNotes': note_hashes(bundle, notes)}
     stem = bundle['manifest'].name.removesuffix('-session.yaml')
     bundle.update(entityInputs=inputs,
