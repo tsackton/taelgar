@@ -1,0 +1,1091 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "3dc44b1230f0ae2a625c131b1bf4cbe809d15fd10f996adee2aedc8924333871",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "374d0923dd4e652a7dc33e919c9a4b774003f4d2b47b3e2d29b15b369872cfd2",
+        "transcriptProcessing.artifacts.cleaned": "a23f2ecdb3bf8f126f453fd1b0c06a1f696f567af928a1f3228f56bccaa67263"
+      }
+    },
+    "vaultNotes": {
+      "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 45 (DuFr).md": "5e3205117a76555d93c97dbb187b256c34899ad330e18e5ec3ca0051ca6846c5",
+      "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 97 (DuFr).md": "2525e6c5a4279b4592a1534ced91d0be2df5d5e0f7d7c621edff3781befbb4e5",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md": "d67c1c586e26fd3126a21315086f995a1f7f8f4423b50ac5df3a98368be75d26",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past.md": "804c7ebe2470f1c97648834c8af1caa11572b0852da6f98f34a836cdadac7c5f",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Wayfarer's Bow.md": "46fbaaeaec9055396351031f11e161934cfa4ba1cabb9a6a35bd5d3486bdc4d4",
+      "Cosmology/Planar Concepts/Seeds of Chaos.md": "8ec536b09c8b203785ffe8226f20ba0bcf1198fa5453ca7614492ddde4f50b2d",
+      "Gods and Religions/Gods/Tanshi/Tanshi.md": "3b3948c1c28301bde5d69129004d17cf2a6dd748ad62cdcec8907b9cd1d7dc7f",
+      "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md": "c74e06f525c8e72899cd1e71f3153e6467f75bfea82c260a21bb1b2f6bd1e898",
+      "Groups/Rangers.md": "f80618475f4dcb659f9371a6b6bfee09d2402ec397481bc3a8f192bdf3870514",
+      "People/Dwarves/Faldrak Bronzehammer.md": "acc84074e61bbc9c04335b27d34949f0b550876371ed34647295fb37d360adac",
+      "People/Extraplanar Powers/Cha'mutte.md": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb",
+      "People/Other Nonhumans/Mezzar.md": "9d2ad039eafbb9f046c55e31bc7a556b96e558ca7713c3e92b98777176c7e655",
+      "People/PCs/Great War/Beryl.md": "6d249218723c23e817872f06cdab198c9de5ebb5b68a9036324fb2bed6be0d8e",
+      "People/PCs/Great War/Rai.md": "dd386e4477ac053bf5e15de9f6cee82b157549366e1d3343355ab1db12e244ed",
+      "Things/Ships/Vindristjarna.md": "8c55e2b0e0e818abbe72532bc573a1f0e4d51e592e5b81ceda0d3ec23fc50e27",
+      "Worldbuilding/Staging/Dunmar/Heartroot.md": "113c62fd318d5da9ef1c907a6ae4618387d0d467f8ee605559e463351ce1bce7"
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Ooze beneath Isingue",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1403",
+            "endUid": "u1456"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1920",
+            "endUid": "u1968"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1997",
+            "endUid": "u2016"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2114",
+            "endUid": "u2195"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2263",
+            "endUid": "u2318"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2892",
+            "endUid": "u2917"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2938",
+            "endUid": "u2955"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2991",
+            "endUid": "u3048"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3221",
+            "endUid": "u3329"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3744",
+            "endUid": "u3821"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4271",
+            "endUid": "u4285"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4593",
+            "endUid": "u4645"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4891",
+            "endUid": "u4900"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5495",
+            "endUid": "u5527"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5741",
+            "endUid": "u5806"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Chaosroot",
+        "anti-Heartroot",
+        "Limbo slime mold"
+      ]
+    },
+    {
+      "id": "e002",
+      "kind": "item",
+      "label": "Crystallized ooze sample",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2991",
+            "endUid": "u3048"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3121",
+            "endUid": "u3184"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3185",
+            "endUid": "u3329"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "examinedInMirrorOfPast": true
+    },
+    {
+      "id": "e003",
+      "kind": "item",
+      "label": "Limbo nodule beneath Isingue",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2163",
+            "endUid": "u2213"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3274",
+            "endUid": "u3310"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5800",
+            "endUid": "u5813"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5835",
+            "endUid": "u5895"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "candidates": [
+        "Cosmology/Planar Concepts/Seeds of Chaos.md"
+      ]
+    },
+    {
+      "id": "e004",
+      "kind": "divine",
+      "label": "Tanshi consulted about the ooze",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1459",
+            "endUid": "u1503"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Tanshi.md"
+    },
+    {
+      "id": "e005",
+      "kind": "item",
+      "label": "Heartroot",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1273"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1288",
+            "endUid": "u1323"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2123",
+            "endUid": "u2143"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2303",
+            "endUid": "u2312"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3368",
+            "endUid": "u3384"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Worldbuilding/Staging/Dunmar/Heartroot.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Faldrak",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1586",
+            "endUid": "u1588"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Rai",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1423",
+            "endUid": "u1444"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Rai.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Cha'mutte",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1730",
+            "endUid": "u1732"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Poison troll previously trapped in the mirror",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0931",
+            "endUid": "u0940"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Shapeshifting green dragon fought previously",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2823",
+            "endUid": "u2843"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Mezzar.md"
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Ash centipede / goblin-army creature fought previously",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2250",
+            "endUid": "u2257"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e012",
+      "kind": "organization",
+      "label": "Rescued monks",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1344",
+            "endUid": "u1348"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1423",
+            "endUid": "u1437"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md"
+    },
+    {
+      "id": "e013",
+      "kind": "organization",
+      "label": "Rangers",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1288",
+            "endUid": "u1303"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Rangers.md"
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Vindristjarna",
+      "reason": "Existing ship used for travel, with discussion of speed, resting benefits, and rainbow-bridge recharge. No new acquisition, loss, original ship lore, or separate plot-object event qualifies beyond its routine transport and equipment functions.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1277"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1328",
+            "endUid": "u1355"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1586",
+            "endUid": "u1589"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2548",
+            "endUid": "u2554"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3491",
+            "endUid": "u3505"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of the Past",
+      "reason": "Showing the recovered crystal to the existing mirror is its usual equipment function. The new origin lore belongs to the ooze and its sample; the sample is separately flagged as examined in the mirror.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2335",
+            "endUid": "u2345"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3121",
+            "endUid": "u3129"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3185",
+            "endUid": "u3226"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3312",
+            "endUid": "u3329"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of Soul Trapping",
+      "reason": "A recalled troll imprisonment and proposed use against the ooze, with ordinary saving-throw and legendary-resistance considerations. No new acquisition, discovery, or original mirror lore occurs.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0931",
+            "endUid": "u0940"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1617",
+            "endUid": "u1629"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Binding Stones",
+      "reason": "Proposed use of existing equipment for imprisonment, with spell lists, casting time, and saving-throw discussion. No binding is attempted and no new in-world origin or history is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1219",
+            "endUid": "u1225"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1596",
+            "endUid": "u1616"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1630",
+            "endUid": "u1698"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5879",
+            "endUid": "u5883"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Routine PC weapons, armor, glove, amulet, scroll, potions, and other equipment",
+      "reason": "Existing gear appears through attacks, standard powers, attunement checks, healing, or proposed use. No separate acquisition or original item lore qualifies these references.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0590",
+            "endUid": "u0610"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1228",
+            "endUid": "u1232"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2652",
+            "endUid": "u2653"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2763",
+            "endUid": "u2766"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3103",
+            "endUid": "u3120"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3130",
+            "endUid": "u3139"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3533",
+            "endUid": "u3551"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3591",
+            "endUid": "u3596"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4066",
+            "endUid": "u4082"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4180",
+            "endUid": "u4200"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4841",
+            "endUid": "u4843"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5276",
+            "endUid": "u5279"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5696",
+            "endUid": "u5737"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delwath’s illusory double and the PCs’ transformed or astral forms",
+      "reason": "Mislead, astral projection, and dragon or leviathan transformations are PC spell or class effects, not independently continuing companions. The PCs remain outside this entity inventory.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1818",
+            "endUid": "u1857"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2362",
+            "endUid": "u2365"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2692",
+            "endUid": "u2708"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3571",
+            "endUid": "u3578"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3633",
+            "endUid": "u3666"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Proposed Seeker Seven and passing simulacrum recollections",
+      "reason": "A prospective replacement and passing reminders of earlier copies do not establish a current independent companion. The party chooses Heroes’ Feast instead; Seeker Seven is not created.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1828",
+            "endUid": "u1830"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2367",
+            "endUid": "u2391"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3404",
+            "endUid": "u3460"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hypothetical polymorph creatures and proposed scouting animals",
+      "reason": "Dragon types, an animal lord, a leviathan, and disposable scouting animals are discussed as mechanical options or PC forms. No separate individual of these descriptions is encountered.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0805",
+            "endUid": "u0825"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0834",
+            "endUid": "u0868"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0949",
+            "endUid": "u1011"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1105",
+            "endUid": "u1147"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1771",
+            "endUid": "u1774"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2508",
+            "endUid": "u2529"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Separate ooze pseudopods, concentrations, and temporary bodies",
+      "reason": "The session explicitly treats these as parts and temporary condensations of one distributed ooze, with different combat statistics. They are grouped under that entity rather than invented as separate individuals or organizations.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1931",
+            "endUid": "u1955"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2185",
+            "endUid": "u2213"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2303",
+            "endUid": "u2318"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2938",
+            "endUid": "u2955"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3751",
+            "endUid": "u3775"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4162",
+            "endUid": "u4166"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Vampires in the poison-troll recollection",
+      "reason": "Passing plural references identify the earlier adventure context, without distinguishing particular vampire individuals or establishing a persistent organization here.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0931",
+            "endUid": "u0940"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kenzo’s “chaos key” and the earlier Limbo tree",
+      "reason": "A brief recollection of earlier communion does not establish a separately identifiable physical key or individual tree here. The meaning of “key” remains unclear; do not turn it into a definite artifact.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2171",
+            "endUid": "u2179"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2250",
+            "endUid": "u2257"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Beryl in the transition to the mirror examination",
+      "reason": "One unclear name occurs while proposing to show the ooze sample to the mirror. The surrounding exchange establishes no distinct appearance or meaningful historical reference to Beryl; retain the source wording without asserting his involvement.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3121",
+            "endUid": "u3129"
+          }
+        }
+      ]
+    },
+    {
+      "label": "“Arrow” in the closing nodule question",
+      "reason": "One unresolved word in a proposed discovery question does not establish a named person or companion. A magical-arrow interpretation is possible, but the transcript alone does not settle it.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5812",
+            "endUid": "u5818"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Sentient Ocean, earlier-campaign jokes, and imaginary imprisonment history",
+      "reason": "Worldbuilding reminiscence, analogy, and joking about a previous campaign imprisoning this ooze do not establish current involvement or true historical events. Actual Rai and Cha’mutte references are assessed separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0441",
+            "endUid": "u0444"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1465",
+            "endUid": "u1466"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1637",
+            "endUid": "u1657"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ruined wells, cistern, ash storm, and surrounding places",
+      "reason": "Architecture, environmental hazards, and geography provide encounter context rather than independent characters, organizations, or portable plot items. The distinctive Limbo nodule is retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1359",
+            "endUid": "u1368"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1867",
+            "endUid": "u1914"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2424",
+            "endUid": "u2451"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2878",
+            "endUid": "u2891"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5790",
+            "endUid": "u5806"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/PCs/Great War/Beryl.md",
+    "Things/Ships/Vindristjarna.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 45 (DuFr).md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 97 (DuFr).md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Wayfarer's Bow.md"
+  ]
+}
