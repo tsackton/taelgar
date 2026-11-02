@@ -2,15 +2,17 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: inn
 name: Kirian’s
+pronunciation: kee-ree-AHNZ
 whereabouts: Tokra
 dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
 # Kirian’s
+*(kee-ree-AHNZ)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -23,29 +25,7 @@ Run by [[Kirian]], a retired Dunmari soldier from the west.
 3 gp/day for party for decent rooms and plain food.
 %%
 
-%%^Metadata:names:v1%%
-- {name: "Kirian’s", language: "unknown", pronunciation: "kee-ree-AHNZ", status: "proposed", notes: "Proposed from the Dunmari cultural context and the Persian option in the Hindi or Indo-Iranian analogue in Languages: hard k, separate ee vowels, open ah and final prominence, plus the possessive z. A Hindi-influenced reading could shift prominence or reduce the last vowel; the name language and in-world phonology are not documented."}
-%%^End%%
-
-%%^povNotes:v1%%
-Temporal coverage: a DR 1740s description of the inn under Kirian, corroborated by DR 1748 records; earlier and later ownership are not established.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Corrected the objective typo “solider” to “soldier.”
-- Normalized frontmatter while preserving its values; added proposed name pronunciation and a DR 1740s article viewpoint with temporal notes.
-
-### Validated judgments
-- Confirmed local source matches support the existing positive `dm_notes` attestation. The shared mechanics comment was reviewed and retained as DM guidance.
-- The merchant clientele, physical description, and proprietor are sufficient for this inn; [[Kirian's Story]] and [[Session 35 (DuFr)]] corroborate its proprietor and role without requiring a log of visits.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct `kee-ree-AHNZ`, the proposed pronunciation of Kirian’s. The strongest available guide is the Dunmari Hindi or Indo-Iranian analogue in [[Languages]]; this proposal favors its Persian option: hard k, separate ee vowels, open ah and final prominence, plus the possessive z. A Hindi-influenced reading could shift prominence or reduce the last vowel. The name’s language and exact in-world phonology are not established. Add the accepted primary pronunciation to frontmatter and mark the name entry `documented`, or replace the proposal.
-
+%%
 ### DM evidence
 - [[_DM_/Timelines/Old Timeline (Table)]]
 - [[_DM_/Timelines/Uncategorized Events]]
@@ -56,4 +36,14 @@ Temporal coverage: a DR 1740s description of the inn under Kirian, corroborated 
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 41]]
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Tokra (OneNote)]]
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Kenzo (OneNote)]]
+%%
+
+%%^Metadata:names:v1%%
+- {"name": "Kirian’s", "language": "Dunmari", "pronunciation": "kee-ree-AHNZ", "status": "documented", "notes": "Possessive form of [[Kirian]], preserving kee-ree-AHN and adding a voiced z. The base pronunciation follows the Persian option of the Dunmari analogue in [[Languages]]: hard k, separate ee vowels, an open ah final vowel, and final stress."}
 %%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1740s description of the inn under Kirian, corroborated by DR 1748 records; earlier and later ownership are not established.
+%%^End%%
+
+
