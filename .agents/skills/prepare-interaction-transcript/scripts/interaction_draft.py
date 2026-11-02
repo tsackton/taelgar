@@ -98,7 +98,7 @@ def check_draft_syntax(turns):
                 'Polished source uses reserved ((...)) syntax; report the collision without editing it')
 
 
-def load(session_yaml, *, for_draft=True):
+def load(session_yaml, *, for_draft=True, allow_unknown_dates=False):
     """Read shared sources; reserve snip delimiters only for reduction work."""
     manifest = Path(session_yaml).absolute()
     require(manifest.name.endswith('-session.yaml') and manifest.parent.name == 'cleaned',
@@ -113,13 +113,16 @@ def load(session_yaml, *, for_draft=True):
     require(isinstance(data, dict) and data.get('sourceType') == 'transcript', 'YAML sourceType must be transcript')
     dates = {}
     for field in ('realWorldDate', 'drStart', 'drEnd'):
+        if allow_unknown_dates and data.get(field) is None:
+            continue
         value = str(data.get(field, ''))
         require(bool(re.fullmatch(r'\d{4}-\d{2}-\d{2}', value)), f'YAML needs a known {field} date (YYYY-MM-DD)')
         try:
             dates[field] = date.fromisoformat(value)
         except ValueError as exc:
             raise DraftError(f'Invalid {field}: {value}') from exc
-    require(dates['drEnd'] >= dates['drStart'], 'YAML drEnd precedes drStart')
+    if 'drStart' in dates and 'drEnd' in dates:
+        require(dates['drEnd'] >= dates['drStart'], 'YAML drEnd precedes drStart')
     artifacts = data.get('transcriptProcessing', {}).get('artifacts', {})
     artifact = artifacts.get('polishedMarkdown', {})
     require(isinstance(artifact, dict) and artifact.get('path'), f'YAML must register {SOURCE_ID}.path; propose a repair without editing YAML')

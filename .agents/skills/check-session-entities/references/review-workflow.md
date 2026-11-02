@@ -98,6 +98,11 @@ queue is resolved, report its review coverage and continue to the next authorize
 session; do not require a review of every remaining high-confidence decision or
 describe the entire map as human reviewed.
 
+When the user explicitly authorizes an unattended batch, prepare each session in
+order and retain its pending review queue for later; do not pause the batch for
+individual judgments. Existing human decisions remain intact, and unattended
+work never supplies new human approvals.
+
 ### Optional offline reviewer
 
 If building an offline HTML reviewer, provide:

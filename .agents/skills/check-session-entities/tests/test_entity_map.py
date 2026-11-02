@@ -64,6 +64,31 @@ class EntityMapTests(unittest.TestCase):
         self.assertFalse(bundle['draft'].exists())
         self.assertFalse(bundle['mapPath'].exists())
 
+    def test_unknown_dates_allow_entities_without_relaxing_other_workflows(self):
+        data = e.scenes.draft.yaml.safe_load(self.fixture.yaml.read_bytes())
+        data['drStart'] = None
+        data['drEnd'] = None
+        self.fixture.yaml.write_text(e.scenes.draft.yaml.safe_dump(data), encoding='utf-8')
+        original = self.fixture.yaml.read_bytes()
+        bundle = self.load()
+        document = e.save(bundle, self.proposal)
+        self.assertEqual(e.read_map(self.load()), document)
+        self.assertIsNone(bundle['data']['drStart'])
+        self.assertEqual(self.fixture.yaml.read_bytes(), original)
+        self.assertIn('Grash', e.preview(bundle, document))
+        with self.assertRaisesRegex(ValueError, 'known drStart'):
+            e.scenes.load(self.fixture.yaml, self.fixture.vault)
+        with self.assertRaisesRegex(ValueError, 'known drStart'):
+            e.scenes.draft.load(self.fixture.yaml)
+        data['drStart'] = '1747-02-30'
+        self.fixture.yaml.write_text(e.scenes.draft.yaml.safe_dump(data), encoding='utf-8')
+        with self.assertRaisesRegex(ValueError, 'Invalid drStart'):
+            self.load()
+        data.update(drStart='1747-03-02', drEnd='1747-03-01')
+        self.fixture.yaml.write_text(e.scenes.draft.yaml.safe_dump(data), encoding='utf-8')
+        with self.assertRaisesRegex(ValueError, 'drEnd precedes'):
+            self.load()
+
     def test_evidence_can_cross_prospective_scene_and_context_boundaries(self):
         doc = self.document()
         doc['entities'][0]['occurrences'] = [{'source': e.scenes.source('u0001', 'u0006')}]

@@ -19,6 +19,12 @@ map or reduction draft is required. Reuse the helper's source reader and YAML-ow
 PC roles; do not build another source registry or PC list. Preserve material time
 uncertainty in identity matches; full chronology/scene mapping is separate.
 
+Unknown session dates do not block entity mapping. The shared source reader
+allows null or absent dates for this stage while retaining validation of supplied
+dates, source fingerprints, and UID coverage. Preserve the YAML's uncertainty;
+do not supply invented dates. Scene mapping and reduction retain their existing
+date requirements.
+
 For `sourceType: narrative`, read the complete UID source registered by
 `preparedSourcePath` instead of a polished transcript. The helper accepts a
 bundle-relative path or relocates a legacy absolute path only when its exact

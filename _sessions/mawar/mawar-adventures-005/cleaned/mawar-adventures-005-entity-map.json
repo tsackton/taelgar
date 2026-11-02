@@ -1,0 +1,1694 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "9245ef651e4b59e9b73272e440ec494197f07148f67d10cb4f1de976596ce712",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "a83dfba01c720887eae3320ccaeacb5db030db3efffbbff9b502e70e1c3f5430",
+        "transcriptProcessing.artifacts.cleaned": "d697f41453e708c0b81c33addf3e5b6761932ca3d997a926fcaf0b98e4e1cc8e"
+      }
+    },
+    "vaultNotes": {
+      "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 49 (DuFr).md": "2eb021fe9825f2ed9d923f864787d22efc68eb1a9622f0c797894bb1aa13aa52",
+      "Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones.md": "8b09b34fa5b3dd6d68f353118a02c8cccba8e8ccb34bc46d9cb3fe4c1b145279",
+      "Campaigns/Mawar Adventures/Items and Treasure/Crystallized Song Fragment.md": "b9b997bf607c9fffaa1cc27002961f2f82c3e5a018aa349da4629985f7c9e9e7",
+      "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md": "3201bf64b4d9692f9af9b7a92f657c35d331762ae499ccef241579b432de4f8b",
+      "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon.md": "af7998483a335c464576e0fa726a84af865f0d52eee974afa2464824416ba6cf",
+      "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md": "19664d9b166d7ae2ca054ee3552f2475e5d71b214ae7fa3766b64714e26ad3f0",
+      "Gods and Religions/Gods/Incorporeal Gods/Mawaran Saints/Guzo the Mariner.md": "212b4f8c0bceb71639ea8a6498328e67e52bd52238e41bbbf6e6fa5b0cb9c624",
+      "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md": "ca58969278fd8ee2581d9f6c0125bc82611901f1d7ad2a12f6a68fad5d5fb7d1",
+      "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother.md": "c07523f9474c8da3572e670cb304593fcf36d5a5c007b92432fb421e9dc50ffb",
+      "Gods and Religions/Religions/Mos Numena/Mos Numena.md": "23ef4ea123c4b6bfff16a8248b4b8db0e4110e1976b5d62d0c7b08166f36bc24",
+      "Groups/Chardonian Organizations/Chardonian Legion.md": "0d8efb525662df638230c6301954311029ca5ca4e7a62d82601ecc799a41d028",
+      "Groups/Society of Ocean Watchers.md": "f9c1e402f97ba37d91edd38c6e75f96e336667e369a4e91a7738501c72331b47",
+      "People/Chardonians/Fausto.md": "6b1184433b9973db6da55343bb958196acfbfa997bc63bf8f8385c51f3cd10cf",
+      "People/Chardonians/Kaeso.md": "a390865e0a1c4be792a63bb1a1d898b459642b5249eed9999cbeb41619c6122c",
+      "People/Dwarves/Ovina.md": "876b8434cc7df1e49de45961dba2b9840cf0a7caa8293d2bb48158623f5ab25a",
+      "People/Extraplanar Powers/Gazankoa.md": "94d368f242bcff2996220359d3903d3bd5a3429ba6f331bd0ea5ef5e83040a3a",
+      "People/Extraplanar Powers/Sentient Ocean.md": "0c0b1b758889afef326dc1bb5f4ef807ccf1bd55834351abbcf56e7824d04994",
+      "People/Mawarans/Abelard.md": "147adf2f430700c6b2aaa6bb30c52be01f635b413c240c6923401c358925a901",
+      "People/Mawarans/Azar the Lost.md": "c20109c43b2dfae0db9b272e68219fd830ec2752a9b2c28b1a61e5e32b64d119",
+      "People/Mawarans/Caleb.md": "32f978a483f4fe290763db5676dccc5d05130b4df328050cb3cb4518c6e01283",
+      "People/Mawarans/Rayna.md": "8874c42f357a69e5c9f24ab99dc13fba46591b682a049515a17ae90c38cb07b8",
+      "People/Mawarans/Yaz.md": "8a4b96fe84871348767586788d94be42266132feff0ee8748b4d6b27c632b911",
+      "People/Orcs/Grumella.md": "00fe02c8dcb5e6f8a7c762eec276b5c987fbe6b00c77fb47be38e3370a0d5209",
+      "People/Other Humans/Airion.md": "66337417703a2ea16b84f4bad6ffbf0c041f316a6654f20bbb70710658b5966f",
+      "People/Other Nonhumans/Buruli.md": "3f186237dcedbb5f3d8ab2df72231681e617e504a087100dbd3265cc62379e2e",
+      "People/Other Nonhumans/Nymthrax.md": "f88a025f757b8d2585287087d5af4fb4c7a0b186404db3d4917b3e148ec32dba",
+      "People/PCs/Dunmar Fellowship/Delwath.md": "fa772e8f3c941f297bfe338103036405023138e2adf07e586d4e793821c835b7",
+      "People/PCs/Dunmar Fellowship/Kenzo.md": "809317793bbffd0bf8fe64ab56ec211ca64cf74bd3ac5404a60e69f703821e5b",
+      "People/PCs/Dunmar Fellowship/Seeker.md": "8b2f8f32c624834ed7056f6507330f4150d10ed1ac2b9a65af1c335b8b5f10e5",
+      "People/PCs/Dunmar Fellowship/Wellby.md": "44de757e65c41e2e3ae2c2153aec3d98efe64e21b81ac1a52654379fd81f6016",
+      "People/PCs/Mawar/Blu.md": "dcf61a234de16773ae158fadee1a9ad3abbc0b66f2c5e90f8b4b35845628763d",
+      "People/PCs/Mawar/Geo.md": "e1ad07ea1cda022ccfbb08fc4b90ac0c65ea5d095a1539160691d196bb29f451",
+      "People/PCs/Mawar/Turk.md": "228743b445555d4ce65eacff9bf057e6fbe47c21477f8a5648a7164fa58ad433",
+      "People/PCs/Silver Tempests/Silver Tempests.md": "8e77ac218789d0581f0dee2909b20b7a7cff3529e010c29afff56ffb434ecc5e",
+      "Things/Artifacts of Power/Elemental Scrolls of Airion.md": "fedf374a318ca91bbce144f4e74224420aab0b954c3f4cfbfa4976b533e5d963"
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Rayna",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0195",
+            "endUid": "u0251"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0329",
+            "endUid": "u0351"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0477",
+            "endUid": "u0483"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0610",
+            "endUid": "u0637"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0814",
+            "endUid": "u0823"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2718",
+            "endUid": "u2747"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Rayna.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Yazran, the priest of Guzo",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0388",
+            "endUid": "u0417"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0444",
+            "endUid": "u0509"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Yazran",
+        "Yaz"
+      ],
+      "candidates": [
+        "People/Mawarans/Yaz.md"
+      ]
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Ovina",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0520",
+            "endUid": "u0581"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0601",
+            "endUid": "u0609"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0705",
+            "endUid": "u0710"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Ovina.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Trapped marid",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0944",
+            "endUid": "u0958"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0994",
+            "endUid": "u1000"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1295",
+            "endUid": "u1315"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1350",
+            "endUid": "u1364"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1417",
+            "endUid": "u1448"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2637",
+            "endUid": "u2653"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2682",
+            "endUid": "u2688"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Bossman",
+        "elemental"
+      ]
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Turk / Geo / Blu",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0743",
+            "endUid": "u0803"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1563",
+            "endUid": "u1592"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1735",
+            "endUid": "u1741"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1898",
+            "endUid": "u1909"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2709",
+            "endUid": "u2712"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Mawar/Blu.md",
+      "names": [
+        "Turk",
+        "Geo",
+        "Blu",
+        "Blue"
+      ]
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Caleb",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0213",
+            "endUid": "u0233"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Caleb.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Abelard",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0141",
+            "endUid": "u0153"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Abelard.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Kaeso",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0074",
+            "endUid": "u0089"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Kaeso.md"
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Airion the Mistspeaker",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0074",
+            "endUid": "u0082"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Airion.md"
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Grumella",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0061",
+            "endUid": "u0066"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Orcs/Grumella.md"
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Ancient black dragon slain by Voltara’s heroes",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0061",
+            "endUid": "u0066"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Nymthrax.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Fausto",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0071",
+            "endUid": "u0073"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0095"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Fausto.md"
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Kenzo",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0074",
+            "endUid": "u0082"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0095"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Kenzo.md"
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "Delwath",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0095"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Delwath.md"
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Halfling accused of the Chardon theft",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0071",
+            "endUid": "u0073"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Wellby.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e016",
+      "kind": "npc",
+      "label": "Dwarf accused of the Chardon theft",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0071",
+            "endUid": "u0073"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Seeker.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Doppelganger impersonating Kenzo",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0111"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Doppelganger impersonating Delwath",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0111"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Ghost of a dragon raiding Lake Philandras",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0067",
+            "endUid": "u0070"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e020",
+      "kind": "npc",
+      "label": "Water creature ordered to test the altar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1080",
+            "endUid": "u1096"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e021",
+      "kind": "npc",
+      "label": "Azar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1316",
+            "endUid": "u1327"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Azar the Lost.md"
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Buruli",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1316",
+            "endUid": "u1327"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Buruli.md"
+    },
+    {
+      "id": "e023",
+      "kind": "divine",
+      "label": "Sentient Ocean",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0224",
+            "endUid": "u0251"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0347",
+            "endUid": "u0351"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0814",
+            "endUid": "u0823"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2692",
+            "endUid": "u2702"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2718",
+            "endUid": "u2755"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Sentient Ocean.md"
+    },
+    {
+      "id": "e024",
+      "kind": "divine",
+      "label": "Gazankoa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0973",
+            "endUid": "u0989"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1310",
+            "endUid": "u1327"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1417",
+            "endUid": "u1448"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2682",
+            "endUid": "u2688"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2751",
+            "endUid": "u2755"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Gazankoa.md"
+    },
+    {
+      "id": "e025",
+      "kind": "divine",
+      "label": "Guzo the Mariner",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0224",
+            "endUid": "u0251"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0394",
+            "endUid": "u0417"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0551",
+            "endUid": "u0561"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1072",
+            "endUid": "u1079"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1223",
+            "endUid": "u1226"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1292"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mawaran Saints/Guzo the Mariner.md",
+      "names": [
+        "Guzo"
+      ]
+    },
+    {
+      "id": "e026",
+      "kind": "divine",
+      "label": "Eight Divines",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0224",
+            "endUid": "u0228"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md"
+    },
+    {
+      "id": "e027",
+      "kind": "divine",
+      "label": "The Mother",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0394",
+            "endUid": "u0399"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother.md"
+    },
+    {
+      "id": "e028",
+      "kind": "divine",
+      "label": "Bhishma",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0409",
+            "endUid": "u0414"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+    },
+    {
+      "id": "e029",
+      "kind": "organization",
+      "label": "Ocean Watchers",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0013",
+            "endUid": "u0025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0213",
+            "endUid": "u0223"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Society of Ocean Watchers.md"
+    },
+    {
+      "id": "e030",
+      "kind": "organization",
+      "label": "Chardonian legions",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0061",
+            "endUid": "u0066"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Chardonian Legion.md"
+    },
+    {
+      "id": "e031",
+      "kind": "organization",
+      "label": "Heroes of the Battle of Voltara",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0061",
+            "endUid": "u0066"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Silver Tempests/Silver Tempests.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e032",
+      "kind": "organization",
+      "label": "University in Chardon",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0074",
+            "endUid": "u0082"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon.md"
+    },
+    {
+      "id": "e033",
+      "kind": "item",
+      "label": "Crystallized fragment of ocean song",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0234",
+            "endUid": "u0251"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0433",
+            "endUid": "u0442"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1295",
+            "endUid": "u1307"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1417",
+            "endUid": "u1426"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2692",
+            "endUid": "u2702"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2718",
+            "endUid": "u2747"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Crystallized Song Fragment.md",
+      "names": [
+        "crystal",
+        "shard"
+      ]
+    },
+    {
+      "id": "e034",
+      "kind": "item",
+      "label": "Airion’s scrolls of elemental power",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0074",
+            "endUid": "u0082"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Elemental Scrolls of Airion.md"
+    },
+    {
+      "id": "e035",
+      "kind": "item",
+      "label": "Ancient elemental magic from a giant’s crown",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0071",
+            "endUid": "u0073"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "candidates": [
+        "Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones.md"
+      ]
+    },
+    {
+      "id": "e036",
+      "kind": "item",
+      "label": "Guzo ancestor-prayer book",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1184",
+            "endUid": "u1189"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1234",
+            "endUid": "u1242"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1292"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e037",
+      "kind": "item",
+      "label": "Illustrated book of saintly miracles",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1184",
+            "endUid": "u1198"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1273"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e038",
+      "kind": "item",
+      "label": "Shrine visitors’ prayer ledger",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1190",
+            "endUid": "u1198"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e039",
+      "kind": "item",
+      "label": "Trok’s drawing of Rayna’s vision",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0363",
+            "endUid": "u0385"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0458",
+            "endUid": "u0509"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Wazir’s mechanical flying fish",
+      "reason": "Routine homunculus creation, scouting, and attacks. No independent continuing personality or relationship establishes a companion identity; mechanical naming in the character interface does not change that.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0720",
+            "endUid": "u0742"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0767",
+            "endUid": "u0785"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1663",
+            "endUid": "u1665"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1832",
+            "endUid": "u1870"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Other water creatures and their expedition",
+      "reason": "Interchangeable elemental minions, including bulk speakers and tactical leaders, without individual identities. Their temporary retrieval mission does not establish an organization; the marid and borderline altar tester are tracked separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0805",
+            "endUid": "u0812"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0919",
+            "endUid": "u0958"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0983",
+            "endUid": "u1037"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2467",
+            "endUid": "u2472"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2690",
+            "endUid": "u2691"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Routine PC magic equipment and tattoos",
+      "reason": "Ordinary activation or use of existing equipment: Cloak of the Manta Ray, Mariner armor, secret-door wand, warning sword, weapons and magical tattoos. No qualifying acquisition or new original item lore occurs.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0645",
+            "endUid": "u0648"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0874",
+            "endUid": "u0894"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1111",
+            "endUid": "u1116"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1171",
+            "endUid": "u1183"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1615",
+            "endUid": "u1637"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2662",
+            "endUid": "u2670"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Glowing altar, statue and magical shrine doorway",
+      "reason": "Fixed features of the shrine rather than independently identified portable items or characters. Their protective magic and prayer mechanism remain context for Guzo and the recovered crystal.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1046",
+            "endUid": "u1050"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1072",
+            "endUid": "u1087"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1223",
+            "endUid": "u1292"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1427",
+            "endUid": "u1437"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1929",
+            "endUid": "u1932"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Miscellaneous offerings, jewelry and stone chest",
+      "reason": "Generic loot and a storage container, without independently meaningful object identities. The three recovered texts are individually distinguished.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1154",
+            "endUid": "u1166"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1184",
+            "endUid": "u1189"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2713",
+            "endUid": "u2716"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ryu’s boat, coastline sketch, and improvised debris weapons",
+      "reason": "Ordinary transport, navigation aid and improvised equipment. Their practical use does not establish distinct object identities beyond this expedition.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0565",
+            "endUid": "u0572"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0633",
+            "endUid": "u0637"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0843",
+            "endUid": "u0849"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1080",
+            "endUid": "u1082"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2107",
+            "endUid": "u2109"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unnamed captain thrown out of the Leviathan",
+      "reason": "A brief rumor-spreading visitor defined only by one past incident, without a name, continuing identity, or specific mystery attached to the person.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0071",
+            "endUid": "u0073"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rayna’s parents and lost ship crew",
+      "reason": "Unclear, incidental secondhand family and casualty references. Caleb has a name and meaningful personal history and is included separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0213",
+            "endUid": "u0233"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hypothetical painter, caving friends, and messenger",
+      "reason": "Generic contacts or proposed helpers without established individual identities or meaningful independent involvement; Trok ultimately draws the image himself.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0359",
+            "endUid": "u0385"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0444",
+            "endUid": "u0447"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mos Numena and St. Guzo’s church as organizations",
+      "reason": "The source describes a religious tradition and a local place of worship, without identifying a separate persistent institution to map. Its named divine beings and priest are retained.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0394",
+            "endUid": "u0417"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0448",
+            "endUid": "u0457"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0773",
+            "endUid": "u0778"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wizards of the Academy as a separate organization",
+      "reason": "Broad academic and magical establishment in a rumor, not one clearly bounded organization. The explicitly mentioned university is retained without conflating it with the independent Great Library or other societies.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0061",
+            "endUid": "u0066"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0074",
+            "endUid": "u0082"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Magistrates and the column of war wizards",
+      "reason": "Generic officeholders and a marching force in distant news, without enough identity detail to resolve a particular individual or persistent formation.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0095"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Riswynn, Lakan Monastery and other table framing",
+      "reason": "Early time-skip comparisons and hypothetical character abilities do not themselves establish meaningful involvement here. Later in-world rumors are assessed separately for the people they actually identify.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0033",
+            "endUid": "u0049"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0200",
+            "endUid": "u0206"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0764",
+            "endUid": "u0765"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1832",
+            "endUid": "u1838"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hamri, Omi, and generic merfolk rebuilding",
+      "reason": "Places and populations, not separately established organizations or individually identifiable people. The shared vision does not give its anonymous inhabitants distinct identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0003",
+            "endUid": "u0032"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2721",
+            "endUid": "u2747"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wazir’s staff named Claude",
+      "reason": "A table joke about contemporary AI, not established fictional identities of the inn staff.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0424",
+            "endUid": "u0427"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 49 (DuFr).md",
+    "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md",
+    "Gods and Religions/Religions/Mos Numena/Mos Numena.md",
+    "People/PCs/Mawar/Geo.md",
+    "People/PCs/Mawar/Turk.md"
+  ]
+}
