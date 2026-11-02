@@ -161,6 +161,7 @@ class SessionModelTests(unittest.TestCase):
             'id': 'e1', 'kind': 'divine', 'label': 'The old king', 'note': 'Gods/Eran.md',
             'importance': 'cameo',
             'identifiedLater': True,
+            'confidenceExplanation': 'The name and source passage uniquely identify this divine being.',
             'occurrences': [{'source': m.scenes.source('u0006', 'u0006')}],
             'review': {'confidence': 'high', 'status': 'unreviewed'}}]})
         # Entities can be completed first; projection separately requires scenes.
@@ -175,6 +176,7 @@ class SessionModelTests(unittest.TestCase):
         self.assertEqual(doc['entities'][0]['label'], 'The old king')
         self.assertEqual(doc['entities'][0]['note'], 'Gods/Eran.md')
         self.assertNotIn('identifiedLater', doc['entities'][0])
+        self.assertNotIn('confidenceExplanation', doc['entities'][0])
         self.assertNotIn('occurrences', doc['entities'][0])
         self.assertNotIn('interactions', doc)
         self.assertNotIn('review', doc)
@@ -184,6 +186,8 @@ class SessionModelTests(unittest.TestCase):
         self.assertNotIn('time', doc['scenes'][0])
         self.assertEqual(len(doc['contextBlocks']), 2)
         self.assertEqual(before, {p: p.read_bytes() for p in self.f.root.rglob('*') if p.is_file()})
+        note.write_bytes(b'# Updated Eran information\n')
+        self.assertEqual(m.project(self.f.yaml, self.f.vault), doc)
         scene_path = self.f.bundle['mapPath']
         scene_doc = json.loads(scene_path.read_text(encoding='utf-8'))
         scene_doc['schemaVersion'] = 1

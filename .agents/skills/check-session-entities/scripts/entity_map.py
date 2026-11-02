@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import copy
 import json
 from pathlib import Path
 import re
@@ -10,6 +11,8 @@ import sys
 from urllib.parse import quote
 
 sys.dont_write_bytecode = True
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import entity_review_store as review_store
 sys.path.insert(0, str(Path(__file__).resolve().parents[2] / 'map-transcript-scenes' / 'scripts'))
 import scene_map as scenes
 
@@ -35,10 +38,6 @@ def note_path(bundle, value):
     return path
 
 
-def note_hashes(bundle, paths):
-    return {p: scenes.draft.sha(note_path(bundle, p).read_bytes()) for p in sorted(set(paths))}
-
-
 def note_refs(proposal):
     paths = list(proposal.get('evidenceNotes', []))
     for row in proposal.get('entities', []):
@@ -53,10 +52,14 @@ def load(session_yaml, vault_root=scenes.VAULT, notes=()):
     data = scenes.draft.yaml.safe_load(Path(session_yaml).read_bytes())
     bundle = (load_narrative(session_yaml, vault_root)
               if isinstance(data, dict) and data.get('sourceType') == 'narrative'
-              else scenes.load(session_yaml, vault_root, allow_unknown_dates=True))
-    inputs = {'sessionInputs': bundle['inputs'], 'vaultNotes': note_hashes(bundle, notes)}
+              else scenes.load(session_yaml, vault_root, allow_unknown_dates=True, allow_source_changes=True))
+    # Vault notes are live references, not versioned processing inputs.
+    inspected_notes = sorted(set(notes))
+    for path in inspected_notes:
+        note_path(bundle, path)
+    inputs = {'sessionInputs': bundle['inputs']}
     stem = bundle['manifest'].name.removesuffix('-session.yaml')
-    bundle.update(entityInputs=inputs,
+    bundle.update(entityInputs=inputs, inspectedNotes=inspected_notes,
                   entityPath=scenes.safe(bundle['root'], f'cleaned/{stem}-entity-map.json'))
     bundle['entityInputDigest'] = scenes.digest({'sessionYaml': bundle['sessionYaml'], 'inputs': inputs})
     return bundle
@@ -151,6 +154,36 @@ def validate_occurrences(bundle, value, label):
         last_end = end
 
 
+def source_changes(bundle, document):
+    inputs = document.get('inputs')
+    fields(inputs, {'sessionInputs'}, {'vaultNotes'}, 'entity inputs')
+    previous = inputs['sessionInputs']
+    fields(previous, {'sessionYamlDigest', 'sources'}, set(), 'session inputs')
+    require(isinstance(previous['sources'], dict), 'Source fingerprints must be an object')
+    current = bundle['inputs']
+    changes = []
+    if previous['sessionYamlDigest'] != current['sessionYamlDigest']:
+        changes.append({'name': 'Session metadata', 'previousSha256': previous['sessionYamlDigest'],
+                        'currentSha256': current['sessionYamlDigest']})
+    for name in sorted(previous['sources'].keys() | current['sources'].keys()):
+        old, new = previous['sources'].get(name), current['sources'].get(name)
+        if old != new:
+            changes.append({'name': name, 'previousSha256': old, 'currentSha256': new})
+    return changes
+
+
+def acknowledge_sources(bundle, document, state):
+    """Caller holds the session lock and has obtained explicit human confirmation."""
+    require(source_changes(bundle, document), 'No transcript/session input changes to confirm')
+    before = copy.deepcopy(document)
+    document['inputs'] = copy.deepcopy(bundle['entityInputs'])
+    validate(bundle, document)
+    scenes.check_inputs(bundle)
+    review_store.commit(bundle, scenes, before, document, state, 'human', 'confirmSourceChanges',
+                        reason='Human confirmed continuing with the current transcript/session inputs.')
+    return document
+
+
 def validate(bundle, document):
     fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'entities'},
            {'exclusions', 'evidenceNotes'}, 'entity map')
@@ -160,16 +193,17 @@ def validate(bundle, document):
             'Unsupported entity-map version; recheck legacy decisions and save as version 4')
     rated = document['schemaVersion'] == SCHEMA_VERSION
     require(document['sessionYaml'] == bundle['sessionYaml'], 'Different session YAML')
-    expected = {'sessionInputs': bundle['inputs'],
-                'vaultNotes': note_hashes(bundle, note_refs(document))}
-    require(document['inputs'] == expected, 'Entity inputs changed; recheck sources and vault notes')
+    require(not source_changes(bundle, document),
+            'Transcript/session inputs changed; obtain human confirmation and run confirm-sources before continuing')
+    for path in set(note_refs(document)):
+        note_path(bundle, path)
     text_array(document.get('evidenceNotes', []), 'evidenceNotes')
     rows = document['entities']
     require(isinstance(rows, list), 'entities must be an array')
     ids, matched, priorities = set(), set(), []
     for row in rows:
         fields(row, {'id', 'kind', 'label', 'occurrences', 'review'} | ({'importance'} if rated else set()),
-               {'note', 'names', 'candidates', 'identifiedLater'} |
+               {'note', 'names', 'candidates', 'identifiedLater', 'confidenceExplanation'} |
                ({'examinedInMirrorOfPast'} if rated else set()), 'entity')
         string(row['id'], 'id')
         require(re.fullmatch(r'[a-z][a-z0-9_-]*', row['id']) and row['id'] not in ids,
@@ -190,6 +224,8 @@ def validate(bundle, document):
                 'identifiedLater must be a boolean')
         if row.get('identifiedLater'):
             require(bool(row.get('note')), 'Later identification requires a chosen note')
+        if 'confidenceExplanation' in row:
+            string(row['confidenceExplanation'], 'confidenceExplanation', limit=40)
         scenes.validate_review(row['review'])
         confidence, status = row['review']['confidence'], row['review']['status']
         if 'note' in row:
@@ -216,8 +252,8 @@ def validate(bundle, document):
 
 def build(bundle, proposal):
     fields(proposal, {'entities'}, {'exclusions', 'evidenceNotes'}, 'proposal')
-    require(note_hashes(bundle, note_refs(proposal)) == bundle['entityInputs']['vaultNotes'],
-            'Vault evidence changed or differs from inspection; inspect every consulted note')
+    require(set(note_refs(proposal)) <= set(bundle['inspectedNotes']),
+            'Vault targets differ from inspection; inspect every consulted note path')
     document = {'schemaVersion': SCHEMA_VERSION, 'sessionYaml': bundle['sessionYaml'],
                 'inputs': bundle['entityInputs'], **proposal}
     validate(bundle, document)
@@ -228,8 +264,6 @@ def save(bundle, proposal, expected=None):
     document = build(bundle, proposal)
     with scenes.lock(bundle['root']):
         scenes.check_inputs(bundle)
-        require(note_hashes(bundle, note_refs(document)) == document['inputs']['vaultNotes'],
-                'Vault notes changed during entity checking')
         path = scenes.safe(bundle['root'], bundle['entityPath'].relative_to(bundle['root']))
         protected = {scenes.safe(bundle['root'], p) for p in bundle['fingerprints']}
         protected.update((bundle['draft'], bundle['mapPath']))
@@ -240,7 +274,30 @@ def save(bundle, proposal, expected=None):
                     'Existing entity map requires its inspected --expect-sha256')
         else:
             require(expected is None, 'Expected entity map is missing')
-        scenes.atomic(bundle['root'], path.relative_to(bundle['root']), scenes.encoded(document))
+        before = json.loads(path.read_bytes()) if path.exists() else {'entities': []}
+        if before.get('schemaVersion') in (3, SCHEMA_VERSION):
+            require(not source_changes(bundle, before),
+                    'Transcript/session inputs changed; obtain human confirmation and run confirm-sources before saving')
+        previous = {row['id']: row for row in before.get('entities', [])}
+        for row in document['entities']:
+            if row['review']['confidence'] in ('medium', 'low') and not row.get('confidenceExplanation'):
+                require(previous.get(row['id']) == row or previous.get(row['id'], {}).get('review', {}).get('status') == 'humanReviewed',
+                        'New or changed medium/low-confidence decisions require confidenceExplanation; preserve unchanged legacy records instead of inventing a rationale')
+        review_store.protect_human(before, document, scenes)
+        if review_store.review_path(bundle).exists():
+            require('transaction' not in review_store.read(bundle, scenes),
+                    'Interrupted entity review; run the review helper inspect to recover before regeneration')
+            state = review_store.current(bundle, scenes)
+            for archived in state.get('excludedRecords', []):
+                require(archived['exclusion'] in document.get('exclusions', [])
+                        and not any(r['id'] == archived['record']['id'] for r in document['entities']),
+                        'Preserve human-excluded entities; use the reviewer Include action before reconsidering them')
+            removed = {event['entity'] for event in state['history'] if event['action'] == 'remove'}
+            require(not removed.intersection(row['id'] for row in document['entities']),
+                    'Do not recreate human-removed entity IDs; reconcile removal feedback first')
+            review_store.commit(bundle, scenes, before, document, state, 'agent', 'regenerate')
+        else:
+            scenes.atomic(bundle['root'], path.relative_to(bundle['root']), scenes.encoded(document))
     return document
 
 
@@ -290,7 +347,7 @@ def preview(bundle, document, entity_id=None, kind=None, importance=None):
         if row.get('examinedInMirrorOfPast'):
             label += ' — Mirror of the Past: examined'
         out.append('| ' + ' | '.join([cell(row['id']), label, row['kind'], row.get('importance', 'Not assessed'), match,
-                   cell(row['review']['confidence'] + ' / ' + row['review']['status']),
+                   cell(row['review']['confidence'] + ' / ' + row['review']['status'] + (' — ' + row['confidenceExplanation'] if row.get('confidenceExplanation') else '')),
                    evidence]) + ' |')
     candidates = [row for row in rows if row.get('candidates')]
     if candidates:
@@ -331,6 +388,9 @@ def main():
     writer.add_argument('--proposal', required=True)
     writer.add_argument('--expect-input-digest', required=True)
     writer.add_argument('--expect-sha256')
+    confirm = sub.add_parser('confirm-sources', help='Acknowledge current source SHAs only after explicit human confirmation')
+    confirm.add_argument('--expect-input-digest', required=True)
+    confirm.add_argument('--expect-sha256', required=True)
     args = parser.parse_args()
     try:
         proposal = None
@@ -340,9 +400,22 @@ def main():
             notes = note_refs(proposal)
         bundle = load(args.session_yaml, notes=notes)
         if args.command == 'inspect':
+            raw = bundle['entityPath'].read_bytes() if bundle['entityPath'].exists() else None
+            existing = json.loads(raw) if raw is not None else {}
             result = {'sessionYaml': bundle['sessionYaml'], 'inputDigest': bundle['entityInputDigest'],
-                      'notes': bundle['entityInputs']['vaultNotes'], 'output': str(bundle['entityPath']),
-                      'mapSha256': scenes.draft.sha(bundle['entityPath'].read_bytes()) if bundle['entityPath'].exists() else None}
+                      'notes': bundle['inspectedNotes'], 'output': str(bundle['entityPath']),
+                      'sourceChanges': source_changes(bundle, existing)
+                      if existing.get('schemaVersion') in (3, SCHEMA_VERSION) else [],
+                      'mapSha256': scenes.draft.sha(raw) if raw is not None else None}
+        elif args.command == 'confirm-sources':
+            require(args.expect_input_digest == bundle['entityInputDigest'], 'Inputs changed since confirmation; inspect and confirm again')
+            with scenes.lock(bundle['root']):
+                scenes.check_inputs(bundle)
+                require(scenes.draft.sha(bundle['entityPath'].read_bytes()) == args.expect_sha256,
+                        'Entity map changed since confirmation; inspect again')
+                document = json.loads(bundle['entityPath'].read_bytes())
+                state = review_store.current(bundle, scenes)
+                result = validate(bundle, acknowledge_sources(bundle, document, state))
         elif args.command == 'show':
             print(window(bundle, args.start_uid, args.end_uid), end='')
             return

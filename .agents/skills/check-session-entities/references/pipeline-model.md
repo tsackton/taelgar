@@ -32,11 +32,15 @@ Each format has one maintained definition:
 | `cleaned/<stem>-entity-map.json` | [Entity map v4](format.md) | Identity decisions, session importance, representative UID evidence, confidence/review, meaningful exclusions. |
 | Candidate `session.json` | [v7 schema](session.schema.json), detailed below | Projection to stdout; no final generation, registration, or publication. |
 
-Entity decisions bind to YAML/source and consulted-note fingerprints, not scene
-maps. Scene/context indexes are revision-dependent: downstream consumers using
-them must bind to the originating scene-map hash. Changed inputs require evidence
-rechecking, not replacement of stored hashes. Hashes detect changes in inspected
-files; they prove neither search completeness nor semantic correctness.
+Entity decisions bind to transcript/session fingerprints, not vault-note content
+SHAs or scene maps. Vault-note edits do not block processing. Changed transcript
+inputs require explicit human confirmation through the guarded entity helper;
+the acknowledgement updates recorded SHAs and preserves decisions/statuses,
+without implying semantic rechecking. Legacy vault hashes are ignored. See the
+[confirmation contract](review-workflow.md#confirm-changed-transcript-inputs).
+Scene/context indexes are revision-dependent: downstream consumers using them
+must bind to the originating scene-map hash. Scene-map validation remains its
+own guard. Hashes prove neither search completeness nor semantic correctness.
 
 Use the [entity review workflow](review-workflow.md) for saved reviews and manual
 feedback application. Helpers accept caller-authored review statuses and do not
