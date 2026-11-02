@@ -11,6 +11,7 @@ born: 1702
 activeYear: 1722
 gender: male
 name: Kirian
+pronunciation: kee-ree-AHN
 affiliations:
   - {place: "Kirian's", title: Proprietor, start: 1}
 whereabouts: Tokra
@@ -20,6 +21,7 @@ dm_notes: color
 POV: 1740s
 ---
 # Kirian
+*(kee-ree-AHN)*
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -42,7 +44,7 @@ Now runs an inn, [[Kirian's]], near the Trader's Market in [[Tokra]].
 %%
 
 %%^Metadata:names:v1%%
-- {name: Kirian, language: unknown, pronunciation: kee-ree-AHN, status: proposed, notes: "Proposed from the Dunmari cultural context and the Persian analogue in [[Languages]]; the name's language is not independently documented."}
+- {"name": "Kirian", "language": "Dunmari", "pronunciation": "kee-ree-AHN", "status": "documented", "notes": "Pronunciation follows the Persian option of the Dunmari analogue in [[Languages]]: hard k, separate ee vowels, an open ah final vowel, and final stress."}
 %%^End%%
 
 %%^povNotes:v1%%
