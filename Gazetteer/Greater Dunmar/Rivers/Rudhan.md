@@ -6,6 +6,7 @@ tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: river
 name: Rudhan
+pronunciation: RUDH-un
 whereabouts:
   - {type: primary, location: Coastal Dunmar}
 dm_owner: none
@@ -13,6 +14,7 @@ dm_notes: none
 POV: modern
 ---
 # Rudhan
+*(RUDH-un)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -24,7 +26,7 @@ Near its mouth stands [[Darba]], a walled port city perched above the flooded sw
 The Rudhan’s valley hosts a chain of small villages, often seasonally settled, along with waystations for travelers along the old [[Darba-Songara Road]]. Though no permanent bridges cross the river, it is easily forded in many places during the dry season. During the wet season, ferries provide crossings at many waystations, but the southern banks tend to flood and most travelers stay on the old Drankorian road, which crosses seasonal channels on stone causeways that seem to be able to withstand even the most intense floods.
 
 %%^Metadata:names:v1%%
-- {name: Rudhan, language: unknown, pronunciation: "RUDH-un", status: proposed, notes: "Preferred Hindi-informed reading from the Dunmari analogue guidance in [[Languages]]: first u short as in put, dh an aspirated/breathy d rather than English th, final a reduced to uh, and first-syllable stress. The name language and exact phonology are unestablished; a Persian-informed alternative would not preserve Hindi dh aspiration."}
+- {"name": "Rudhan", "language": "Dunmari", "pronunciation": "RUDH-un", "status": "documented", "notes": "Dunmari attribution and pronunciation accepted through human name review. The pronunciation follows the Hindi-informed Dunmari analogue in [[Languages]]: first u short as in put, dh an aspirated/breathy d rather than English th, final a reduced to uh, and first-syllable stress."}
 %%^End%%
 
 %%^Metadata:map:v1%%
