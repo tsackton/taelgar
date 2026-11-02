@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Great Library
 DR: 1752-06-29
 DR_end: 
@@ -58,6 +58,37 @@ Back in the vault, the party takes a breather, and then turns to the hot metal d
 Beyond the doors, a passage of dark stone leads to a large circular chamber. A pool of lava fills the center, with fire elemental dolphins jumping and playing in it. Golden runes cover the left hand side of the floor, channeling lava that flows out of the pool through complicated circuits before it disappears into the walls, near one of four exits that lead away from the chamber. 
 
 After a brief look around, including Samso's realization that the runes are some kind of energy control mechanism, the party leaves via the further away of the two right-side doors. This leads through a room with a stuck door and a channel of lava; Adrik leaps across the lava and forces the door open. The session ends as the [[Silver Tempests]] step into the next room, the lair of the iron golem that holds the fire key. 
+
+### Session 67
+
+%% initial AI generated summary %%
+
+%% Editorial review:
+- Played October 24, 2026; continues on the same in-world day as Session 66 (1752-07-03).
+- Verbatim source: Campaigns/Great Library Campaign/_generated/session-notes/great-library-session-67/raw-transcript.md.
+- Fire guardian combat details remain to be reconstructed from the D&D Beyond campaign log; only the dictated broad outline is included below.
+- The order of the magma-elemental room and the runic-machine room remains uncertain; check the original notes.
+- The dictation says "deep plane of air" while describing the earth tunnel. The source of the replenishing earth is left unspecified here.
+- The party recovers two earth gemhearts, but recovery of the earth key is not established in this session's dictation.
+%%
+
+We begin as the [[Silver Tempests]] confront the fire guardian in the fire realm within [[Airion's Secret Lair]]. Lava waterfalls and a lava river fill the chamber, where an iron golem and a blazing gorgon stand against the party. The golem regenerates when exposed to fire, and the party struggles to push it out of the lava. Eventually they win, recovering the fire key and a fire gemheart from the iron golem.
+
+Returning to the central lava chamber, the party begins exploring the three doors they have not yet opened. They force their way through a locked door into [[Airion]]'s private study. Most of its contents have decayed over the centuries, but an enchanted chest anchored to the floor holds Airion's notes on the workings of the lair. The party takes the notes to read later.
+
+In the room containing the lava runes, the party finds a fire elemental trapped within a magic circle. It scrapes the walls where lava pours down into carved runes, maintaining a complicated runic machine. The party spends some time trying to understand the mechanism while the elemental pleads to be freed. Eventually they break the circle, releasing the elemental and shutting down the machine. Later examination of the runes reveals that the mechanism is connected to maintaining the storm around the mountain. Before leaving, the elemental glances toward the back wall, drawing the party's attention to a secret room. After working out how to open it, they find more fire gemhearts stored within.
+
+Elsewhere in the fire realm, the party discovers a chamber where lava has overflowed from the Plane of Fire and magma elementals rest in the pool. The party and the elementals exchange a series of wary glances. The Silver Tempests slowly back out and close the door, avoiding another fight.
+
+Back in the main vault chamber, the party takes a short rest while [[Samso]] reads Airion's notes. They learn that Airion used a magical summoning mirror to obtain the four keys from the elemental guardians by speaking a command word. The mirror has been smashed, and the party does not know who destroyed it. Without the intact mirror or its command word, they have had to enter the elemental paths and confront the guardians themselves. They now hold three keys; only the earth key remains to be found.
+
+The party next enters the earth tunnel, where loose dirt continually replenishes itself when disturbed, frustrating any attempt to dig through. Small cracks provide another route: using the fire gemhearts to take smoke form, the party drifts through the earth.
+
+At a three-way fork, the middle tunnel slopes slightly downward, the left slightly upward, and the right steeply upward. The party chooses the right tunnel, following a twisting corridor into a large chamber with four massive stone pillars descending into the floor. A war band of air elementals allied with [[Zadkai]] is taking a short rest there. Still in smoke form, the party approaches stealthily and surprises them.
+
+The djinn leading the war band shouts for someone to escape and warn Zadkai that other enemies have entered the lair. The Silver Tempests track down and kill every fleeing enemy, defeating the war band and preventing word of their infiltration from reaching Zadkai.
+
+Exploring the chamber, the party discovers that the stone pillars can slide upward. Two have earth gemhearts attached to their lower ends. Raising the pillars also reveals holes leading down into a massive geode. Able to fly in smoke form, the party descends into the giant crystal structure below. This is where we end.
 
 ### Events
 
