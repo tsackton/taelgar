@@ -152,8 +152,8 @@ Trok: Gotta look out for that you know.
 %% u0090:0-25 %%
 Wazir: Wherever he was he flees.
 
-%% u0091:0-18, u0092:0-52, u0093:0-20, u0094:0-26, u0095:0-15, u0096:0-23, u0097:0-62, u0098:0-3, u0099:0-91, u0100:0-35 %%
-Wazir: And he has a clue that he chases after a name, Airion the Mistspeaker who as far as I can discover was a an ancient wizard and and maybe from these parts. Before the Great War kind of around the time of the great war. And he fought against Jamaat in the Great War and was known for leading elementals into battle. And supposedly had a flying castle.
+%% u0091:0-18, u0092:0-52, u0093:0-20, u0094:0-26, u0095:0-15, u0096:0-23, u0097:0-62, u0098:0-3, u0099:0-94, u0100:0-35 %%
+Wazir: And he has a clue that he chases after a name, Airion the Mistspeaker who as far as I can discover was a an ancient wizard and and maybe from these parts. Before the Great War kind of around the time of the great war. And he fought against Cha'mutte in the Great War and was known for leading elementals into battle. And supposedly had a flying castle.
 
 %% u0101:0-8 %%
 Ryu: Doesn't—

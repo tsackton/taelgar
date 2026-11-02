@@ -1,0 +1,1314 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "e2fde589855c152d5e45a56e19ec74e71a8dc72bbfbf95ec22a2b0377953614a",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "bd0dc53073f9a7f4a30a467781b9179827c04c54ca64770aad983969d504acc2",
+        "transcriptProcessing.artifacts.cleaned": "acd83616bd7a294612340276c4cae5d9e90843770f16d9c2b826678ddbec63bd"
+      }
+    },
+    "vaultNotes": {
+      "Campaigns/Mawar Adventures/Items and Treasure/Airion's Elemental Research.md": "a446a498ee5236d1e99bd132d2beedccc90627a09c42318e71214903071598ec",
+      "Campaigns/Mawar Adventures/Items and Treasure/Ancient Texts of Yerkir-Khor.md": "85f2942c0a40c49994c78f20d8bb05972699c373eb3fcbd552646bf0aff2140a",
+      "Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map.md": "f9b6a1a1b6a2ea9511a47e43d37638086a981f326b32a00fe05de20ecc3e9f7c",
+      "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md": "440ada3fa7013c6ea5fd9e816664894e23227ff81e67cc9c4fb38d373fea2b13",
+      "Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Tharzen Anzinakoa.md": "20f9a31d4aeefb6a5d522c9b06ac4b63527baf4afbecea2509abff4f5ea80a2f",
+      "Groups/Society of Ocean Watchers.md": "f9c1e402f97ba37d91edd38c6e75f96e336667e369a4e91a7738501c72331b47",
+      "People/Extraplanar Powers/Gazankoa.md": "94d368f242bcff2996220359d3903d3bd5a3429ba6f331bd0ea5ef5e83040a3a",
+      "People/Extraplanar Powers/Sentient Ocean.md": "0c0b1b758889afef326dc1bb5f4ef807ccf1bd55834351abbcf56e7824d04994",
+      "People/Lizardfolk/Benat.md": "ea17810396d254ae1a8977fde7d81e688c9db23d7279e5f43fc638b60650c3a3",
+      "People/Mawarans/Abelard.md": "147adf2f430700c6b2aaa6bb30c52be01f635b413c240c6923401c358925a901",
+      "People/Mawarans/Azar the Lost.md": "c20109c43b2dfae0db9b272e68219fd830ec2752a9b2c28b1a61e5e32b64d119",
+      "People/Mawarans/Hiyasa.md": "c93b48780b780b201c5f8793f79d3a9330da4e82d58c231e34cf053ab0a0a6ab",
+      "People/Mawarans/Nadine.md": "806eb6472f98b8f1bc11a6fc501564e1b0324d3e8370c540e0d0dc7aa5673f3f",
+      "People/Mawarans/Orden.md": "0c184edf637301f7889133f8bbabc7cf4d6765d1ab83adc45d6dde7611f1adc3",
+      "People/Other Humans/Airion.md": "66337417703a2ea16b84f4bad6ffbf0c041f316a6654f20bbb70710658b5966f",
+      "People/Other Nonhumans/Yerkir-khor.md": "e622a9aa6478943385d073094a597e85549a023f1e274b083855317047940e74",
+      "People/PCs/Mawar/Blu.md": "dcf61a234de16773ae158fadee1a9ad3abbc0b66f2c5e90f8b4b35845628763d",
+      "People/PCs/Mawar/Kaleho.md": "adb1f5803ae369b137c340251967d0b95812750e1c2933314bdb61b6b14f1a56",
+      "People/PCs/Mawar/Trok.md": "502269de8334a234293454dc38f64eebb134abc379c0365e693aaecf5445c232",
+      "People/PCs/Mawar/Wazir.md": "74b473505cc200f12478db17069b7969634614c6d8c9c5f02c10b57f0e9ed11c"
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Hiyasa",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0209",
+            "endUid": "u0229"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0639",
+            "endUid": "u0658"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2424",
+            "endUid": "u2430"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2470",
+            "endUid": "u2473"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3245",
+            "endUid": "u3252"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3454",
+            "endUid": "u3489"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3493",
+            "endUid": "u3536"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3765",
+            "endUid": "u3780"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "humanReviewed"
+      },
+      "note": "People/Mawarans/Hiyasa.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Orden",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0189",
+            "endUid": "u0195"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0209",
+            "endUid": "u0229"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0282",
+            "endUid": "u0302"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3499",
+            "endUid": "u3522"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3765",
+            "endUid": "u3778"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Orden.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Abelard",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0607",
+            "endUid": "u0610"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0614",
+            "endUid": "u0658"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Abelard.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Stone guardian of Yerkir-khor",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2479",
+            "endUid": "u2496"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2509",
+            "endUid": "u2530"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2543",
+            "endUid": "u2561"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2654",
+            "endUid": "u2677"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3070",
+            "endUid": "u3104"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3256",
+            "endUid": "u3297"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "humanReviewed"
+      }
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Blu",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0370",
+            "endUid": "u0374"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0699",
+            "endUid": "u0716"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0827",
+            "endUid": "u0834"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0928",
+            "endUid": "u0939"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1535",
+            "endUid": "u1557"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2731",
+            "endUid": "u2738"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "humanReviewed"
+      },
+      "note": "People/PCs/Mawar/Blu.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Azar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0076",
+            "endUid": "u0096"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0101",
+            "endUid": "u0109"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0360",
+            "endUid": "u0366"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0660",
+            "endUid": "u0674"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Azar the Lost.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Azar's wife",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0082",
+            "endUid": "u0088"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Mawarans/Nadine.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Airion the Mistspeaker",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0089",
+            "endUid": "u0096"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Airion.md"
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Benat",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0101",
+            "endUid": "u0109"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Lizardfolk/Benat.md"
+    },
+    {
+      "id": "e010",
+      "kind": "divine",
+      "label": "Yerkir-khor",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0874",
+            "endUid": "u0883"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2339",
+            "endUid": "u2348"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2437",
+            "endUid": "u2460"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2479",
+            "endUid": "u2496"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2555",
+            "endUid": "u2560"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3728",
+            "endUid": "u3730"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Yerkir-khor.md",
+      "names": [
+        "Yerkir-khor the Undaunted",
+        "Prince of Earth",
+        "Lord of the Rock Below",
+        "Guardian of the Crystal Skies"
+      ]
+    },
+    {
+      "id": "e011",
+      "kind": "divine",
+      "label": "Ancient undersea evil that corrupted Azar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0076",
+            "endUid": "u0078"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0101",
+            "endUid": "u0109"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Gazankoa.md"
+    },
+    {
+      "id": "e012",
+      "kind": "divine",
+      "label": "Sentient Ocean",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0082",
+            "endUid": "u0088"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0360",
+            "endUid": "u0366"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Sentient Ocean.md"
+    },
+    {
+      "id": "e013",
+      "kind": "divine",
+      "label": "Tharzen Anzinakoa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3396",
+            "endUid": "u3400"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Tharzen Anzinakoa.md"
+    },
+    {
+      "id": "e014",
+      "kind": "organization",
+      "label": "Ocean Watchers",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0066",
+            "endUid": "u0074"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Society of Ocean Watchers.md"
+    },
+    {
+      "id": "e015",
+      "kind": "item",
+      "label": "Hiyasa's treasure map",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3504",
+            "endUid": "u3522"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3758",
+            "endUid": "u3759"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3779",
+            "endUid": "u3780"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map.md"
+    },
+    {
+      "id": "e016",
+      "kind": "item",
+      "label": "Ancient papers protected by yellow dust",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3639",
+            "endUid": "u3644"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3717",
+            "endUid": "u3719"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3750",
+            "endUid": "u3757"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3788",
+            "endUid": "u3791"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Ancient Texts of Yerkir-Khor.md"
+    },
+    {
+      "id": "e017",
+      "kind": "item",
+      "label": "Pearl of Power",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3626",
+            "endUid": "u3638"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3717",
+            "endUid": "u3719"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3747",
+            "endUid": "u3749"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3781",
+            "endUid": "u3786"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "pearl"
+      ]
+    },
+    {
+      "id": "e018",
+      "kind": "item",
+      "label": "Obsidian-stoppered jar with a hole to nowhere",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3663",
+            "endUid": "u3677"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3717",
+            "endUid": "u3719"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3736",
+            "endUid": "u3739"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e019",
+      "kind": "item",
+      "label": "Ancient Dwarven coins",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3568",
+            "endUid": "u3574"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3724",
+            "endUid": "u3727"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3733",
+            "endUid": "u3735"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e020",
+      "kind": "item",
+      "label": "Kaleho's treasured merfolk artifact",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2543",
+            "endUid": "u2560"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e021",
+      "kind": "item",
+      "label": "Stolen sample of Sentient Ocean",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0082",
+            "endUid": "u0088"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0360",
+            "endUid": "u0366"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e022",
+      "kind": "item",
+      "label": "Airion's notebook",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0089",
+            "endUid": "u0096"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Mawar Adventures/Items and Treasure/Airion's Elemental Research.md"
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Wazir",
+      "reason": "The session YAML identifies Wazir as a PC. His absence during the expedition and DM-narrated help afterward do not establish a separate NPC identity; retain those passages as evidence for the recovered items.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0303",
+            "endUid": "u0316"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0554",
+            "endUid": "u0555"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3708",
+            "endUid": "u3727"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3788",
+            "endUid": "u3791"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Tomb gargoyles",
+      "reason": "Generic, interchangeable monsters guarding the tomb. Fighting, carrying keys, and trying to activate a statue do not establish individual identities or a persistent organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1120",
+            "endUid": "u1130"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1272",
+            "endUid": "u1292"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1466",
+            "endUid": "u1492"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1718",
+            "endUid": "u1723"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1783",
+            "endUid": "u1794"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1847",
+            "endUid": "u1858"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Serpent-headed statue with loose gem",
+      "reason": "A fixed tomb feature with a partly activated mechanism, not an independently identified character or significant portable object. It is distinct from the speaking guardian encountered deeper inside.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1120",
+            "endUid": "u1130"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1718",
+            "endUid": "u1723"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1832",
+            "endUid": "u1846"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2046",
+            "endUid": "u2080"
+          }
+        }
+      ]
+    },
+    {
+      "label": "PC weapons, tattoos, and spell focus",
+      "reason": "Routine use of existing PC equipment and powers: the warning crossbow, returning spear, Primal Might, Eldritch Maul, vision and water tattoos, teleporting sword, and Nerissa’s pipes. No separate qualifying acquisition or original item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1001",
+            "endUid": "u1010"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1044",
+            "endUid": "u1053"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1297",
+            "endUid": "u1301"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1392",
+            "endUid": "u1407"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1449",
+            "endUid": "u1465"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1653",
+            "endUid": "u1663"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1681",
+            "endUid": "u1687"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2966",
+            "endUid": "u2981"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3351",
+            "endUid": "u3367"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Healing spirit in the form of sardines",
+      "reason": "Routine spell manifestation used to heal Trok; no evidence of a companion with an ongoing individual identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3313",
+            "endUid": "u3325"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Stone keys and climbing equipment",
+      "reason": "Ordinary tools and access mechanisms. Their use, discovery, and traces help navigate the tomb without establishing distinct plot-object identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0854",
+            "endUid": "u0860"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1847",
+            "endUid": "u1858"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1952",
+            "endUid": "u1966"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2129",
+            "endUid": "u2144"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2281",
+            "endUid": "u2307"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hiyasa's single-use spell scrolls",
+      "reason": "Unspecified consumables mentioned as tools for bypassing gargoyles. No individual scroll, distinctive effect, acquisition, or original lore is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3523",
+            "endUid": "u3536"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Shells and pearl offered as tribute",
+      "reason": "Ordinary possessions offered during negotiation, without distinct object identities. The offered pearl is separate from the Pearl of Power discovered later in a jar.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2487",
+            "endUid": "u2496"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2509",
+            "endUid": "u2530"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Other treasure jars, uncut gems, and ancient wine",
+      "reason": "Ordinary containers and generic loot with no independently meaningful identities. The magical void jar, Pearl of Power, preserved papers, and historically identified coins are tracked separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2461",
+            "endUid": "u2466"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3563",
+            "endUid": "u3566"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3615",
+            "endUid": "u3621"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3658",
+            "endUid": "u3662"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3721",
+            "endUid": "u3723"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3733",
+            "endUid": "u3739"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Lizardfolk settlement south of Hamri",
+      "reason": "A settlement where Azar may recover. Benat’s liaison role does not establish a separately identifiable organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0101",
+            "endUid": "u0109"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Tower association and universal thieves guild",
+      "reason": "Table jokes and out-of-world comparisons, not evidence of persistent organizations established in this setting.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0448",
+            "endUid": "u0455"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3545",
+            "endUid": "u3552"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Seeker and Delwath",
+      "reason": "Cross-campaign table references and rules comparisons, not meaningful in-world referents in this adventure.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2474",
+            "endUid": "u2476"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3649",
+            "endUid": "u3655"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Drowned victims recalled from the previous adventure",
+      "reason": "Generic reanimated victims in a recap, without distinguishable individual identities. Azar’s wife is separately identifiable and retained.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0082",
+            "endUid": "u0088"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ancient worshippers and peoples depicted in the reliefs",
+      "reason": "Generic historical figures, populations, and species in religious imagery. No distinct person or persistent organization is established; the worshipped being is tracked separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2437",
+            "endUid": "u2460"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/PCs/Mawar/Wazir.md",
+    "People/PCs/Mawar/Kaleho.md",
+    "People/PCs/Mawar/Trok.md",
+    "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md"
+  ]
+}

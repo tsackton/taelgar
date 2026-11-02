@@ -96,7 +96,7 @@
 [u0096 | 00:08:23.220-00:08:26.280 | Wazir] maybe from these parts.
 [u0097 | 00:08:27.540-00:08:30.720 | Wazir] Before the Great War kind of around the time of the great war.
 [u0098 | 00:08:32.910-00:08:33.660 | Wazir] and
-[u0099 | 00:08:37.380-00:08:43.620 | Wazir] He fought against Jamaat in the Great War and was known for leading elementals into battle.
+[u0099 | 00:08:37.380-00:08:43.620 | Wazir] He fought against Cha'mutte in the Great War and was known for leading elementals into battle.
 [u0100 | 00:08:44.760-00:08:46.410 | Wazir] And supposedly had a flying castle.
 [u0101 | 00:08:47.910-00:08:48.390 | Ryu] doesn't.
 [u0102 | 00:08:49.590-00:08:50.190 | Trok] yeah.

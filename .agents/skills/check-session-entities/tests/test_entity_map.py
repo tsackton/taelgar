@@ -32,6 +32,7 @@ class EntityMapTests(unittest.TestCase):
         self.bundle = self.load()
         self.proposal = {'entities': [{
             'id': 'e001', 'kind': 'npc', 'label': 'Grash', 'note': 'People/Grash.md',
+            'importance': 'supporting',
             'occurrences': [{'source': e.scenes.source('u0001', 'u0001')},
                             {'source': e.scenes.source('u0002', 'u0004')}],
             'review': {'confidence': 'high', 'status': 'unreviewed'}}]}
@@ -46,7 +47,7 @@ class EntityMapTests(unittest.TestCase):
         doc = self.document()
         self.assertEqual(e.validate(self.bundle, doc)['entities'], 1)
         self.assertFalse(self.bundle['mapPath'].exists())
-        self.assertEqual(doc['schemaVersion'], 3)
+        self.assertEqual(doc['schemaVersion'], 4)
         self.assertNotIn('sceneMapSha256', doc['inputs'])
         self.assertNotIn('pcs', doc)
         self.assertNotIn('scenes', doc)
@@ -181,7 +182,7 @@ class EntityMapTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'recheck legacy decisions'):
             e.validate(self.bundle, doc)
 
-    def test_v2_requires_explicit_removal_before_guarded_v3_save(self):
+    def test_v2_requires_explicit_removal_before_guarded_v4_save(self):
         old = self.document()
         old['schemaVersion'] = 2
         old['entities'][0]['reason'] = 'Former v2 explanation.'
@@ -193,7 +194,7 @@ class EntityMapTests(unittest.TestCase):
             e.save(self.bundle, self.proposal)
         self.assertEqual(self.bundle['entityPath'].read_bytes(), raw)
         migrated = e.save(self.bundle, self.proposal, e.scenes.draft.sha(raw))
-        self.assertEqual(migrated['schemaVersion'], 3)
+        self.assertEqual(migrated['schemaVersion'], 4)
         self.assertNotIn('reason', migrated['entities'][0])
         self.assertEqual(migrated['entities'][0]['review'], old['entities'][0]['review'])
 

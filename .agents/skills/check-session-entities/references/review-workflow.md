@@ -9,8 +9,11 @@ add an HTML renderer, automatic importer, or final interaction generator.
 
 1. Inspect branch/worktree and resolve the requested YAMLs. Preserve unrelated
    work; do not switch branches, commit, or push without authorization.
-2. Follow the entity skill to read complete polished transcripts, inventory
-   referents, and inspect/read candidate evidence. No scene map is required.
+2. Follow the entity skill to consult existing same-session and earlier
+   same-campaign maps for context, read the complete current polished transcript
+   (or registered prepared narrative), inventory referents, and inspect/read
+   candidate evidence. Do not routinely reread earlier transcripts. No scene map
+   is required.
 3. On revision, retain the old map byte hash and a before-image for comparison.
    Preserve stable entity IDs and accepted human decisions. Confidence, selection,
    identity grouping, note matching, and session importance are distinct judgments.
@@ -58,6 +61,44 @@ maps rather than extracting a second inventory. There is no committed general
 HTML renderer or feedback-import command; the October 2026 calibration used
 one-off tooling. Do not assume a pilot HTML file, ZIP, or generator exists in
 another checkout. Helper previews are the supported fallback.
+
+### Confidence-based calibration
+
+When requested, reduce the human review queue after the complete automated
+semantic pass. The Mawar calibration preference is every medium/low-confidence
+decision plus four randomly selected high-confidence decisions per episode,
+presented one at a time. Confidence still estimates correctness of the complete
+decision; do not raise it to reduce the queue.
+
+Assess exclusions too. They have no confidence or review-status fields in the
+map schema, so retain those assessments in the conversation or temporary review
+state, bound to each exclusion's label and complete occurrence references.
+Surface medium/low-confidence exclusions with the uncertain included entities.
+Include high-confidence exclusions in the sampling population alongside
+high-confidence inclusions unless the user limits the requested scope.
+
+Use an actual uniform random draw without replacement from the remaining
+high-confidence decisions; sample all if fewer than four remain. Exclude already
+human-reviewed, unchanged decisions from the pending queue. Retain the source map
+hash, eligible population, random seed, and selected identities in conversation
+or temporary review state. Freeze the draw before presenting it; do not choose
+convenient examples or reroll after feedback. A persistent reviewer artifact
+still requires a request.
+
+Present the queue size and proceed at the requested pace. Keep the current
+pending entry first when it qualifies. Apply feedback to the skill and all
+affected decisions, adding newly uncertain decisions to the queue when needed.
+Preserve the sample across ordinary status updates; reconcile identities and
+source changes against the retained snapshot instead of treating changed array
+positions as the same decision.
+
+Only explicitly reviewed decisions receive `humanReviewed`. Other included
+entities remain `automatedReviewed` after the semantic pass. Once the selected
+queue is resolved, report its review coverage and continue to the next authorized
+session; do not require a review of every remaining high-confidence decision or
+describe the entire map as human reviewed.
+
+### Optional offline reviewer
 
 If building an offline HTML reviewer, provide:
 

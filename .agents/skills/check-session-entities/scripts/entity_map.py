@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Check/save agent-authored entity maps from a YAML-registered polished transcript."""
+"""Check/save entity maps from YAML-registered transcripts or prepared narratives."""
 from __future__ import annotations
 
 import argparse
@@ -50,13 +50,88 @@ def note_refs(proposal):
 
 def load(session_yaml, vault_root=scenes.VAULT, notes=()):
     # Reuse source/UID parsing only; scenes.load does not read a scene map.
-    bundle = scenes.load(session_yaml, vault_root)
+    data = scenes.draft.yaml.safe_load(Path(session_yaml).read_bytes())
+    bundle = (load_narrative(session_yaml, vault_root)
+              if isinstance(data, dict) and data.get('sourceType') == 'narrative'
+              else scenes.load(session_yaml, vault_root))
     inputs = {'sessionInputs': bundle['inputs'], 'vaultNotes': note_hashes(bundle, notes)}
     stem = bundle['manifest'].name.removesuffix('-session.yaml')
     bundle.update(entityInputs=inputs,
                   entityPath=scenes.safe(bundle['root'], f'cleaned/{stem}-entity-map.json'))
     bundle['entityInputDigest'] = scenes.digest({'sessionYaml': bundle['sessionYaml'], 'inputs': inputs})
     return bundle
+
+
+def load_narrative(session_yaml, vault_root):
+    """Read the registered prepared narrative, never guess a cleaned replacement."""
+    manifest = Path(session_yaml).absolute()
+    require(manifest.name.endswith('-session.yaml') and manifest.parent.name == 'cleaned',
+            'Expected cleaned/<stem>-session.yaml inside a session bundle')
+    root, vault = manifest.parent.parent.resolve(), Path(vault_root).resolve()
+    manifest = scenes.safe(root, 'cleaned/' + manifest.name)
+    require(manifest.is_relative_to(vault), 'Session YAML must be inside the selected vault')
+    relative = manifest.relative_to(vault).as_posix()
+    scenes.safe(vault, relative)
+    raw_yaml = manifest.read_bytes()
+    data = scenes.draft.yaml.safe_load(raw_yaml)
+    require(isinstance(data, dict) and data.get('sourceType') == 'narrative',
+            'YAML sourceType must be narrative')
+    registered = data.get('preparedSourcePath')
+    string(registered, 'preparedSourcePath')
+    stem = manifest.name.removesuffix('-session.yaml')
+    path = Path(registered)
+    if path.is_absolute():
+        # Legacy manifests retain a different machine's vault prefix. Only the
+        # exact bundle/cleaned/filename suffix may relocate into this bundle.
+        expected = (root.name, 'cleaned', f'{stem}-source-prepared.md')
+        require(path.parts[-3:] == expected, 'Unexpected legacy preparedSourcePath')
+        path = Path('cleaned') / path.name
+    source = scenes.safe(root, path.as_posix())
+    require(source != manifest and source.suffix == '.md', 'Invalid narrative source path')
+    raw = source.read_bytes()
+    units, positions, lines = [], {}, {}
+    for line, text in enumerate(raw.decode('utf-8').splitlines(keepends=True), 1):
+        if not text.strip():
+            continue
+        match = re.fullmatch(r'\[(u\d{4,})\] ([^\r\n]+)\n?', text)
+        require(match is not None, f'Invalid prepared narrative UID line {line}')
+        uid, wording = match.groups()
+        require(uid not in positions and wording.strip(), 'Duplicate UID or empty narrative unit')
+        positions[uid], lines[uid] = len(units), line
+        units.append((uid, text))
+    require(units, 'Narrative source is empty')
+    inputs = {'sessionYamlDigest': scenes.digest({k: v for k, v in data.items() if k != 'interactionExtraction'}),
+              'sources': {'preparedSourcePath': scenes.draft.sha(raw)}}
+    return {'root': root, 'vault': vault, 'manifest': manifest, 'data': data,
+            'sessionYaml': relative, 'source': source, 'narrativeUnits': units,
+            'positions': positions, 'lines': lines, 'inputs': inputs,
+            'fingerprints': {manifest.relative_to(root).as_posix(): scenes.draft.sha(raw_yaml),
+                             source.relative_to(root).as_posix(): scenes.draft.sha(raw)},
+            'draft': scenes.safe(root, f'cleaned/{stem}-interactions-draft.md'),
+            'mapPath': scenes.safe(root, f'cleaned/{stem}-scene-map.json')}
+
+
+def source_bounds(bundle, value, label):
+    if 'narrativeUnits' not in bundle:
+        return scenes.source_bounds(bundle, value, label)
+    fields(value, {'kind', 'sourceId', 'startUid', 'endUid'}, set(), label)
+    require(value['kind'] == 'narrative' and value['sourceId'] == 'preparedSourcePath',
+            f'{label} must reference the YAML prepared narrative')
+    for key in ('startUid', 'endUid'):
+        require(isinstance(value[key], str) and value[key] in bundle['positions'],
+                f'{label} has unknown {key}')
+    start, end = (bundle['positions'][value[k]] for k in ('startUid', 'endUid'))
+    require(start <= end, f'{label} range is reversed')
+    return start, end
+
+
+def window(bundle, start_uid, end_uid):
+    if 'narrativeUnits' not in bundle:
+        return scenes.window(bundle, start_uid, end_uid, 'polished')
+    ref = {'kind': 'narrative', 'sourceId': 'preparedSourcePath',
+           'startUid': start_uid, 'endUid': end_uid}
+    start, end = source_bounds(bundle, ref, 'reading window')
+    return 'View: prepared narrative source\n\n' + ''.join(t for _, t in bundle['narrativeUnits'][start:end + 1])
 
 
 def text_array(value, label):
@@ -71,7 +146,7 @@ def validate_occurrences(bundle, value, label):
     last_end = -1
     for item in value:
         fields(item, {'source'}, set(), 'occurrence')
-        start, end = scenes.source_bounds(bundle, item['source'], f'{label} occurrence source')
+        start, end = source_bounds(bundle, item['source'], f'{label} occurrence source')
         require(start > last_end, f'{label} occurrences must be ordered and non-overlapping')
         last_end = end
 
@@ -227,8 +302,8 @@ def preview(bundle, document, entity_id=None, kind=None, importance=None):
         for row in rows:
             for item in row['occurrences']:
                 ref = item['source']
-                out.extend(['', f"**Polished source** — {scenes.source_link(bundle, ref)}", '',
-                            '````text', scenes.window(bundle, ref['startUid'], ref['endUid'], 'polished').rstrip(), '````', ''])
+                out.extend(['', f"**Source** — {scenes.source_link(bundle, ref)}", '',
+                            '````text', window(bundle, ref['startUid'], ref['endUid']).rstrip(), '````', ''])
     if not entity_id and kind is None and importance is None and document.get('exclusions'):
         out.extend(['', '## Excluded candidates', ''])
         for row in document['exclusions']:
@@ -269,7 +344,7 @@ def main():
                       'notes': bundle['entityInputs']['vaultNotes'], 'output': str(bundle['entityPath']),
                       'mapSha256': scenes.draft.sha(bundle['entityPath'].read_bytes()) if bundle['entityPath'].exists() else None}
         elif args.command == 'show':
-            print(scenes.window(bundle, args.start_uid, args.end_uid, 'polished'), end='')
+            print(window(bundle, args.start_uid, args.end_uid), end='')
             return
         elif args.command == 'save':
             require(args.expect_input_digest == bundle['entityInputDigest'], 'Inputs changed since inspect')
