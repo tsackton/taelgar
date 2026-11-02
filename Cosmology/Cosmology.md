@@ -4,7 +4,7 @@ lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [meta]
 name: Cosmology
-excludePublish: [all]
+noPublish: true
 dm_owner: none
 dm_notes: none
 POV: modern

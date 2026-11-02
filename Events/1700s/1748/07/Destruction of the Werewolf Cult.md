@@ -8,7 +8,6 @@ partOf: Betrayer Moon Plot
 DR: 1748-07-03
 name: Destruction of the Werewolf Cult
 whereabouts: Tokra
-excludePublish: [Clee]
 dm_owner: none
 dm_notes: none
 POV: modern

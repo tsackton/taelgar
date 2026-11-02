@@ -1,6 +1,6 @@
 ---
 tags: [meta]
-excludePublish: ["all"]
+noPublish: true
 ---
 
 The *Labyrinths of the Lost* is a 3-4 session, D&D 5e adventure set in the world of Taelgar, my homebrew setting. 

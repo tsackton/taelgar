@@ -1,7 +1,7 @@
 ---
 tags: [background]
 name: Mythic History of Taelgar
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: none
 ---

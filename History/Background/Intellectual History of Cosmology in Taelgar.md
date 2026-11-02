@@ -4,7 +4,6 @@ lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint, status/check/ai]
 name: Intellectual History of Cosmology in Taelgar
-excludePublish: [clee]
 dm_owner: none
 dm_notes: none
 POV: modern

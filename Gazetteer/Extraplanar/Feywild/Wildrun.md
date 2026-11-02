@@ -8,7 +8,6 @@ typeOfAlias: realm
 ancestry: fey
 name: Wildrun
 whereabouts: Feywild
-excludePublish: [dufr, clee]
 dm_owner: tim
 dm_notes: none
 POV: modern

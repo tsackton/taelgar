@@ -4,7 +4,7 @@ lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [meta]
 name: Creatures
-excludePublish: [all]
+noPublish: true
 dm_owner: none
 dm_notes: none
 POV: undated

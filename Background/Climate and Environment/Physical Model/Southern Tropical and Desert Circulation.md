@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [meta, status/check/ai]
 name: Southern Tropical and Desert Circulation
-excludePublish: [all]
+noPublish: true
 POV: modern
 ---
 # Southern Tropical and Desert Circulation

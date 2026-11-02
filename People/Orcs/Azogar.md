@@ -15,7 +15,6 @@ affiliations:
   - {org: People of the Rainbow, type: primary}
 whereabouts: Uzgukhar
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: none
 dm_notes: none
 POV: 1749

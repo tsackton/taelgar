@@ -19,7 +19,6 @@ whereabouts:
   - {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
   - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
 POV: modern

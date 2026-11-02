@@ -14,7 +14,6 @@ affiliations:
 whereabouts:
   - {type: away, location: missing and presumed dead}
 knownTo: [dufr]
-excludePublish: [clee]
 player: Eric Rosenbaum
 dm_owner: tim
 dm_notes: color

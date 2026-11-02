@@ -7,7 +7,6 @@ typeOf: topographical feature
 typeOfAlias: magical place
 name: Sunset Gate
 whereabouts: Feywild
-excludePublish: [dufr]
 dm_owner: mike
 dm_notes: color
 POV: modern

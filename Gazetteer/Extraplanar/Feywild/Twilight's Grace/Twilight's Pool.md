@@ -9,7 +9,7 @@ name: "Twilight's Pool"
 whereabouts:
   - {type: home, location: "Twilight's Grace"}
   - {type: secondary, location: Tafolwern}
-excludePublish: [all]
+noPublish: true
 dm_owner: mike
 dm_notes: none
 POV: modern

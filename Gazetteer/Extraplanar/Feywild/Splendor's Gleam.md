@@ -8,7 +8,6 @@ typeOfAlias: realm
 ancestry: fey
 name: "Splendor's Gleam"
 whereabouts: Feywild
-excludePublish: [dufr, clee]
 dm_owner: none
 dm_notes: none
 POV: modern

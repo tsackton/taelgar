@@ -9,7 +9,6 @@ name: Awakened Jungle
 whereabouts: Drankorian Hinterland
 dm_owner: tim
 dm_notes: important
-excludePublish: ["clee"]
 POV: modern
 ---
 # The Awakened Jungle

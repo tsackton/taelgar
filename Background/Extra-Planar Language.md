@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [background]
 name: Extra-Planar Language
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: none
 POV: modern

@@ -8,7 +8,6 @@ typeOfAlias: grove
 ancestry: fey
 name: Heartwood Grove
 whereabouts: Amberglow
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: none
 POV: modern

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [meta]
-excludePublish: ["all"]
+noPublish: true
 dm_owner: none
 dm_notes: none
 ---

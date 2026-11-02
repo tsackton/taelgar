@@ -5,7 +5,7 @@ lintVersion: "3.5"
 displayDefaults: {defArt: a}
 tags: [background, status/check/errors, status/check/lint]
 name: Timeline of Sembaran History
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: none
 POV: 1710s

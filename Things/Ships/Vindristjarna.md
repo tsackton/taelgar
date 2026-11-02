@@ -27,7 +27,6 @@ whereabouts:
   - {type: away, start: 1749-05-30, end: 9999, location: Garamjala Desert}
   - {type: away, start: 1749-06-14, end: 9999, location: Gulf of Chardon}
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: important
 POV: 1749

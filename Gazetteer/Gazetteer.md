@@ -4,7 +4,7 @@ lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [meta]
 name: Gazetteer
-excludePublish: [all]
+noPublish: true
 dm_owner: none
 dm_notes: none
 POV: undated

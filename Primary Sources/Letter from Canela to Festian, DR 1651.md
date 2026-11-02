@@ -3,7 +3,7 @@ lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [status/check/mike, source, status/check/lint]
 name: "Letter from Canela to Festian, DR 1651"
-excludePublish: [all]
+noPublish: true
 dm_owner: mike
 dm_notes: important
 POV: 1651

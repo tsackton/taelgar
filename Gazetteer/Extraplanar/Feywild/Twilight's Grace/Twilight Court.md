@@ -5,7 +5,7 @@ lintVersion: "3.5"
 tags: [group]
 typeOf: fey court
 name: Twilight Court
-excludePublish: [all]
+noPublish: true
 dm_owner: joint
 dm_notes: none
 POV: modern

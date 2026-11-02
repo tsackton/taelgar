@@ -12,7 +12,6 @@ name: Baxter
 affiliations:
   - {org: Dunmar Fellowship, title: Companion}
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: player
 dm_notes: important
 POV: 1740s

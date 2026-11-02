@@ -13,7 +13,6 @@ name: Trok
 affiliations:
   - {org: Adventurers of Mawar}
 knownTo: [mawar]
-excludePublish: [clee]
 dm_owner: player
 dm_notes: important
 POV: 1740s

@@ -13,7 +13,6 @@ whereabouts:
   - {type: home, location: "Twilight's Grace"}
   - {type: home, location: Duskmire}
 knownTo: [adma, clee, dufr]
-excludePublish: [clee]
 dm_owner: mike
 dm_notes: important
 POV: modern

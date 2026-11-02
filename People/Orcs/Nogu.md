@@ -16,7 +16,6 @@ whereabouts:
   - {type: home, location: Xurkhaz}
   - {type: away, location: Mirror of Soul Trapping, start: 1680, end: 1748-12-04}
 knownTo: [dufr]
-excludePublish: [clee]
 dm_owner: tim
 dm_notes: color
 POV: 1748

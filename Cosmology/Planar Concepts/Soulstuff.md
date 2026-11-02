@@ -4,7 +4,6 @@ lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
 name: Soulstuff
-excludePublish: [clee]
 dm_owner: joint
 dm_notes: none
 POV: undated
