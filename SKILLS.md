@@ -38,8 +38,8 @@ Entity mapping also supports registered prepared narratives for narrative-only s
 The [entity review workflow](.agents/skills/check-session-entities/references/review-workflow.md)
 covers the Obsidian entity table/queue, inline review saves, reversible human exclusions,
 explicit human creation of empty staging notes with guarded links,
-durable human-change and feedback JSON, and assisted agent handoffs. The [pipeline/model contract](.agents/skills/check-session-entities/references/pipeline-model.md)
-defines the read-only v7 candidate projection. Entity passage extraction is a
+durable human-change and feedback JSON, and assisted agent handoffs. The [pipeline contract](.agents/skills/check-session-entities/references/pipeline-model.md)
+defines source ownership, fingerprints, and the independent mapping stages. Entity passage extraction is a
 separate readable derivative requiring an entity map with importance and selected focal entities; scene maps
 are optional. Final interaction generation remains unfinished. Obsidian review saves edits and
 feedback directly; agents resolve feedback explicitly through guarded helpers.

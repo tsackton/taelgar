@@ -6,7 +6,7 @@ of the final interaction data. No new source paths or copied session metadata.
 
 | Field | Required | Meaning |
 | --- | --- | --- |
-| `schemaVersion` | Yes | `2`, the scene-map format, not the session.json version. |
+| `schemaVersion` | Yes | `2`, the scene-map format. |
 | `sessionYaml` | Yes | Vault-relative path to the authoritative manifest. |
 | `inputs` | Yes | Generated fingerprints described below. |
 | `scenes` | Yes | Ordered played scenes; may be empty for a discussion-only recording. |
@@ -177,6 +177,6 @@ Existing consumers can reuse these indexes/ranges and retain contextual framing.
 They must inspect individual passages before inferring presence, quotations,
 events, or exclusions; a scene can include multiple activities and unrelated table
 discussion. Downstream NPC or interaction retrieval does not determine these
-geographic and temporal boundaries. The [v7 session model](../../check-session-entities/references/pipeline-model.md)
-and read-only projection preserve the records and give context blocks their own
-indexes. No schema migration or downstream output generation is part of mapping.
+geographic and temporal boundaries. See the [pipeline contract](../../check-session-entities/references/pipeline-model.md)
+for source ownership and independent mapping stages. Mapping does not generate
+a combined session bundle or migrate downstream artifacts.

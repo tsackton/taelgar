@@ -10,12 +10,11 @@ and the existing `startUid`/`endUid` fields. Each endpoint is a complete prepare
 narrative unit; never mix its UIDs with a separately normalized cleaned source.
 The helper fingerprints that source and YAML and preserves both unchanged. Legacy
 absolute prepared paths relocate only by the exact bundle/cleaned/prepared filename
-suffix. Narrative support is local to entity maps; scene mapping, passage
-extraction, and v7 projection still require their transcript workflows.
+suffix. Narrative support is local to entity maps; scene mapping
+and passage extraction still require their transcript workflows.
 
 Author a proposal with required `entities` (possibly empty), optional `exclusions`
-and `evidenceNotes` (vault-relative consulted note paths). No final `session.json`
-or source edits are made.
+and `evidenceNotes` (vault-relative consulted note paths). Source files remain unchanged.
 
 Each entity requires:
 
@@ -42,9 +41,8 @@ decision; high-confidence explanations are optional. Guarded agent saves reject
 missing explanations on new/changed medium/low records, while preserving unchanged
 legacy records and protected human records (including required status-only
 demotion after evidence changes). Do not backfill an old decision with an invented
-reason. The field belongs to the entity map's review metadata; it is omitted from
-the strict v7 candidate projection, which keeps the shared `{confidence, status}`
-review object unchanged. Exclusion/reinclusion and review history retain it.
+reason. The field belongs to the entity map's review metadata.
+Exclusion/reinclusion and review history retain it.
 
 The four identity fields have separate purposes:
 
@@ -67,7 +65,7 @@ session; include an occurrence evidencing that examination. It is only valid on
 happened. This is separate from importance and from whether the vision revealed
 useful history. Proposed use, another session's examination, the Mirror of Soul
 Trapping, or an item merely appearing in another target's vision do not qualify.
-Previews visibly flag positive values and v7 projection preserves the field.
+Previews visibly flag positive values.
 
 Entity records do not accept a generic `reason`; use `confidenceExplanation` for
 the focused explanation of the agent's confidence.
@@ -153,15 +151,10 @@ silently accepts an entity. `humanReviewed` requires actual user review; passing
 validation never sets it. Automated status is an agent attestation, not a guarantee.
 Later identifications display an explicit flag beside the chosen vault match,
 including at high confidence. `identifiedLater` is processing
-metadata retained in the map, not a new final v7 entity field.
+metadata retained in the map.
 
-The core fields feed the concrete [v7 session model](pipeline-model.md#final-sessionjson-v7),
-whose [schema](session.schema.json) includes `divine` and entity-level importance.
-The read-only `session_model.py project` preserves the entity core, assessed
-importance, and scene/context accounting; legacy missing importance stays absent.
-Projection separately loads and validates a current scene map; entity checking
-can finish before one exists. Occurrences inform retrieval, not final conversation
-grouping. The [review workflow](review-workflow.md) covers durable review JSON and agent handoffs. Guarded saves preserve whole
+Occurrences inform retrieval rather than final conversation grouping.
+The [review workflow](review-workflow.md) covers durable review JSON and agent handoffs. Guarded saves preserve whole
 human-reviewed records, reject forged new approvals, and preserve removal decisions.
 
 V3 maps remain readable without importance. Preview marks them **Not assessed**;

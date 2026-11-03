@@ -9,7 +9,7 @@ Use with a polished transcript or prepared narrative registered in session YAML.
 is referred to, whether it belongs in the inventory, which vault page matches,
 and how important the entity is in this session.
 This stage does not generate interactions, quotes, biographies,
-recaps, final `session.json`, or new vault notes.
+recaps or new vault notes.
 
 ## Inputs and boundary
 
@@ -22,8 +22,7 @@ uncertainty in identity matches; full chronology/scene mapping is separate.
 Unknown session dates do not block entity mapping. The shared source reader
 allows null or absent dates for this stage while retaining validation of supplied
 dates, source fingerprints, and UID coverage. Preserve the YAML's uncertainty;
-do not supply invented dates. Scene mapping and reduction retain their existing
-date requirements.
+do not supply invented dates. Scene mapping retains its existing date requirements.
 
 For `sourceType: narrative`, read the complete UID source registered by
 `preparedSourcePath` instead of a polished transcript. The helper accepts a
@@ -46,7 +45,7 @@ Read [session importance](references/importance.md) for the required tiers and
 calibration cases before assigning them.
 [The review workflow](references/review-workflow.md) covers saved reviewers,
 feedback, and handoffs; [the pipeline contract](references/pipeline-model.md)
-covers v7 projection. Obsidian supports table and one-at-a-time review;
+covers source ownership and independent mapping stages. Obsidian supports table and one-at-a-time review;
 `scripts/entity_review.py` owns the durable `cleaned/<stem>-entities-review.json`
 feedback and human-change history. Table review supports immediate field saves
 and reversible human exclusions; preserve the sidecar's archived excluded records
@@ -475,5 +474,3 @@ material questions; do not require approval of every clear match.
 Install [requirements](requirements.txt). Helpers require Python 3.9+; tests use
 Python 3.10+. Run
 `python3 -B -m unittest discover -s .agents/skills/check-session-entities/tests -v`.
-The separate `session_model.py` validates/projects v7 candidates read-only;
-its [contract](references/pipeline-model.md#final-sessionjson-v7) defines the limits.

@@ -53,8 +53,7 @@ Default to chat excerpts. A request to save, or an established output destinatio
 authorizes a saved derivative; otherwise do not persist a report. Default saved
 destination: `cleaned/<stem>-entity-passages.md`. Follow repository Git instructions
 before writing. Read any existing output completely and preserve unrelated
-entities and human edits. Sources, YAML, maps, vault notes, and `session.json`
-remain unchanged. Do not commit or publish automatically.
+entities and human edits. Sources, YAML, maps, and vault notes remain unchanged. Do not commit or publish automatically.
 
 ## Locate candidate scenes
 
@@ -255,9 +254,8 @@ For saved derivatives:
   passage may avoid duplication. Within one entity prefer a complete passage to
   redundant overlapping excerpts.
 
-This derivative is neither final v7 enrichment nor a full-coverage reduction
-draft. Do not put cut-bearing text into v7 verbatim `quotes`. The existing
-full-draft validator does not validate a partial entity collection. Extraction
+This derivative is a selected collection rather than a full-coverage transcript.
+Marked cuts are editorial labels, not verbatim source speech. Extraction
 does not migrate maps, add a review-status store, or register final output;
 complete any prerequisite map upgrade through the entity-mapping workflow.
 
