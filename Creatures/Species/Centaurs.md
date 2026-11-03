@@ -13,11 +13,12 @@ POV: modern
 
 > [!image|hero]
 > ![[centaurs-migration-stream-crossing.webp]]
+> *A migrating herd of centaurs crosses a stream.*
 
->[!quote] Centaur creation myth
-*Long ago, before the form of the world was fixed, we walked the ever-changing land, mindless and soulless, empty shells. Then Yestare, the Beginning, and Mettare, the Ending, stepped into this chaos, and spoke words of separation, words of renewal, words of power to fix the form of the world. In this timeless moment of sundering, the World reached out, and chose us to be its guardians.*
+> [!quote] Centaur creation myth
+> *Long ago, before the form of the world was fixed, we walked the ever-changing land, mindless and soulless, empty shells. Then Yestare, the Beginning, and Mettare, the Ending, stepped into this chaos, and spoke words of separation, words of renewal, words of power to fix the form of the world. In this timeless moment of sundering, the World reached out, and chose us to be its guardians.*
 >
-*Taelgar itself gave us life, a purpose, freedom and souls, an act of need to ensure the land was not forgotten, an act not of the gods, even Yestare and Mettare, but of a higher purpose. In that moment, we awoke to our new selves. Our hoofbeats were the first to stride across the new world, fixed in form. Our souls were the first to be made, not by any god or power but by the need of the land itself.*
+> *Taelgar itself gave us life, a purpose, freedom and souls, an act of need to ensure the land was not forgotten, an act not of the gods, even Yestare and Mettare, but of a higher purpose. In that moment, we awoke to our new selves. Our hoofbeats were the first to stride across the new world, fixed in form. Our souls were the first to be made, not by any god or power but by the need of the land itself.*
 
 Striding across the open plains of the south, their hoofbeats ringing, a herd of centaurs turns north, following the winds and weather. The gentle strum of a harp as voices raise in song, in praise of the earth, around a campfire. The cycle of migrations, following the seasons across Taelgar. These are the rhythms of the centaur life.
 
@@ -26,7 +27,7 @@ Striding across the open plains of the south, their hoofbeats ringing, a herd of
 With the torso, arms, and head of a human, and the four legs and body of a horse, centaurs are a blend of strength and grace. Typically standing 6 or 7 feet tall, with their equine bodies reaching 4 feet at the withers, centaurs are an imposing presence. They can run quickly, for miles, carrying a heavy load, and without tiring. While all centaurs share the same form, their appearance is otherwise as varied as the natural world they love.
 
 ## Language and Naming
-_See more: [[Playing a Centaur#Centaur Names|Centaur Names]]_
+_See also: [[Playing a Centaur#Centaur Names|Centaur Names]]_
 
 Centaurs speak their own language, rarely, but not never, taught to outsiders. Most centaurs speak Elvish, Sylvan, or both in addition to their own tongue, and most outsiders who must speak with them do so in one of those tongues.
 
@@ -46,7 +47,7 @@ Some more isolated bands have little contact with humans or others, preferring t
 
 ## Cultural Traits
 
-Centaurs tend to be reclusive, staying on the outskirts of the societies of other peoples. Their connection to Taelgar shapes both their pride in their independence and their concern for the health of the land, though it often makes centaurs appear aloof or arrogance to outsiders. 
+Centaurs tend to be reclusive, staying on the outskirts of the societies of other peoples. Their connection to Taelgar shapes both their pride in their independence and their concern for the health of the land, though it often makes centaurs appear aloof or arrogant to outsiders. 
 
 > [!image|figure standard]
 > ![[centaurs-song-around-the-fire.webp]]
@@ -127,8 +128,6 @@ Relationships with other species. Not necessarily canon; some of this was [[Thar
 - [[2024-07-26 - Species and Souls]]
 - [[2025-11-10 - Species and Cultures]]
 %%^End%%
-
-
 
 %%^Metadata:names:v1%%
 - {name: Centaurs, language: unknown}

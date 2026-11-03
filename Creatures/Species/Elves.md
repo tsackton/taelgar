@@ -9,29 +9,30 @@ dm_notes: none
 POV: modern
 ---
 # Elves
-
->[!quote] Memories of the First, Elven Oral Tradition
->*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and song in the world for the first time. Behold! For we are alive!*
-
 > [!image|hero]
 > ![[elves-bridge-above-the-mists.webp]]
 > *A living bridge arcs above the forest mists.*
 
+>[!quote] Memories of the First, Elven Oral Tradition
+>*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and song in the world for the first time. Behold! For we are alive!*
+
 Elves are an ancient people whose lives are entwined with magic, the living world, and their two gods, [[Aldanor]], the Living Tree, and [[Elmerca]], the Wild Star. In their forest homelands, they weave towers and palaces from living wood, cultivate gardens of extraordinary beauty, and preserve songs and stories across centuries. Their long lives follow a shared cycle of generations, drawing them outward into the world and home again, in a cycle known as the [[Elven Cycle of Generations|ka]]. Though they are known across the world from songs and legends, few elves settle among other species: for many people of Taelgar an encounter with an elf is a rare and memorable event.
+
 ## Appearance
 
 Elves are about the same height as humans, but are usually more slender and fine-featured, moving with a preternatural grace. Their skin encompasses the range of human complexions and more, often tending toward copper, bronze, or silver. Their hair can be green or gold, and their eyes sometimes resemble pools of liquid silver or gold. Elves have little body hair and typically no facial hair.
 
 Age leaves few obvious marks on an elf. Their coloration may fade slightly, but other species often find it difficult to distinguish a young adult from an elf who has lived for many centuries. Elves tend to favor simple, well-tailored clothing, elegantly made and often beautiful in its details.
+
 ## Language and Naming
-_See more: [[Playing an Elf#Elf Names|Elf Names]]_
+_See also: [[Playing an Elf#Elf Names|Elf Names]]_
 
 Elves speak Elvish, and their long lives give them time to learn the languages of other peoples. Those who travel beyond their homelands commonly learn the trade tongues and local languages of the places they visit.
 
 Elves typically use a single given name, adding their generation, homeland, or both when further distinction is needed. Names often have a lyrical sound; endings such as *-o*, *-ion*, *-or*, and *-on* are common in male names, while *-e*, *-iel*, *-ril*, and *-eth* are common in female names. Many names are used without regard to gender.
 
 ## Lifecycle
-_See more: [[Elven Cycle of Generations]]_
+_See also: [[Elven Cycle of Generations]]_
 
 Elven lives are shaped by the *ka*, the cycle of discrete elven generations, marked in a count since the first elves opened their eyes. The [[Elven Cycle of Generations|ka]] is defined by the ebb and flow of the *mela*, when [[Aldanor]]'s roots strengthen the bond between elves and the [[Material Plane]] and draw them towards home, and the *leya*, when [[Elmerca]] pushes the elves to explore and wander. 
 
@@ -50,23 +51,25 @@ Elves usually make their homes in forests and other wild places, shaping their s
 [[Orenlas]], east of the [[Sentinel Range|Sentinels]], is one of the oldest surviving elven forests. Its dreaming trees still echo the song of Aldanor, and its largest settlement, [[Erelion]], is claimed to be the oldest continually occupied city on Taelgar. In the west, the forests of [[Ainumarya]] once held great elven kingdoms, but many died or fled during the [[Great War]], and only scattered small communities of elves still make their home in these forests. 
 
 Beyond such ancient homelands, individual elves travel widely, though relatively few make permanent homes in the cities and towns of other peoples.
+
 ## Cultural Traits
 
-Elven culture and society are deeply shaped by the *ka*, the rhythm of the generations. Elves too are shaped by this cycle, as each elf moves through life, from a child dreaming with their generation-mates, to a young adult wandering during their first *leya*, to parenthood and tending their communities in their first *mela* and beyond. As the cycle repeats, over and over, the elves that remain are those with a deep attachment to the living world. Many elves feel this attachment as a desire to protect the world of Taelgar, though after the tragedies of the Great War, some feel the desire to protect what remains of their own homes pulling against any broader sense of obligation to the world beyond.
+Elven culture and society are deeply shaped by the *ka*, the rhythm of the generations. Elves too are shaped by this cycle, as each elf moves through life, from a child dreaming with their generation-mates, to a young adult wandering during their first *leya*, to parenthood and tending their communities in their first *mela* as adults and beyond. As the cycle repeats, over and over, the elves that remain are those with a deep attachment to the living world. Many elves feel this attachment as a desire to protect the world of Taelgar, though after the tragedies of the Great War, some feel the desire to protect what remains of their own homes pulling against any broader sense of obligation to the world beyond.
+
 ### Gods and Magic
 
-Elves call [[Aldanor]] and [[Elmerca]] the Firstborn, and understand their own life and magic through their connection to these deities, the divine creators of their species. Aldanor embodies life and growth, nuturing and connection, and a sense of place in the material world. It is Aldanor's roots that create the conditions for elves to procreate, and it is Aldanor's pull that anchors elves to the world across each cycle of the *ka*. Elves that cease to feel the connection to Aldanor's anchor pass on from this life. 
+Elves call [[Aldanor]] and [[Elmerca]] the Firstborn, and understand their own life and magic through their connection to these deities, the divine creators of their species. Aldanor embodies life and growth, nurturing and connection, and a sense of place in the material world. It is Aldanor's roots that create the conditions for elves to procreate, and it is Aldanor's pull that anchors elves to the world across each cycle of the *ka*. Elves that cease to feel the connection to Aldanor's anchor pass on from this life. 
 
 Elmerca is associated with insight, inspiration, analytical thought, foresight, and especially arcane magic. It is through Elmerca's grace that magic becomes part of ordinary elven life. Elmerca's grace sustains the elven magic of craft and artistic work, and guides and inspires those elves who devote their lives to the study of magical arts. 
 
-Together, Aldanor and Elmerca sustain the elven magic of living buildings and  allow elven gardens to grow all a settlement might need. 
+Together, Aldanor and Elmerca sustain the elven magic of living buildings and allow elven gardens to grow all a settlement might need. 
 
 %% Vibes:
 - Aldanor: trees, growth, nurturing
 - Elmerca: magic, inspiration, power
 %%
 
-### Community and the *ka* 
+### Community and the *ka*
 
 The *ka* shapes not just the lives of individual elves: it creates and guides the roles of each generation in elven society. Elves often regard their generation-mates as siblings, regardless of whether they share parents, and the bonds among those born into the same *ka* are central to elven identity. These generation-mates share the burden of responsibilities that shift with each new *ka*, together. 
 
@@ -99,7 +102,6 @@ Elven memory reaches back to the earliest ages of Taelgar, when great forest rea
 This long history is marked by cycles of loss and grief. Several times over their history, great evils have arisen, and elves have rallied to meet that evil and defend Taelgar. But each cycle has taken a terrible toll on the elves, and with each turning of the world the elves that live to see such times face grief and loss.
 
 For some elves, this means a further turn inward, and a desire to retreat from earthly affairs and protect their own homes and communities above all, or even flee to untouched wilds, perhaps beyond the Material Plane itself. For others, it means a turn outward, an acknowledgment that elves cannot protect the world alone. But no elf is unaffected, and the beauty and artistry of elves born in the *ka* since the [[Great War]] is often tinged with sadness.
-
 
 %%^Campaign:none%%
 ## Details for DMs

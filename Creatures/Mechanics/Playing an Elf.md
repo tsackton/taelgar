@@ -8,7 +8,7 @@ dm_notes: none
 POV: modern
 ---
 # Playing an Elf
-*See more: [[Elves]], [[Elven Cycle of Generations]], [[Aldanor]], [[Elmerca]]*
+*See also: [[Elves]], [[Elven Cycle of Generations]], [[Aldanor]], [[Elmerca]]*
 D&D Beyond Link: [Elf](https://www.dndbeyond.com/species/1755491-elf)
 
 [[Elves]] have a deep connection to magic and nature through their connection to their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements of other species, and though it is a rare person who has not heard of the elves, many common folk will have never met one.
@@ -16,11 +16,12 @@ D&D Beyond Link: [Elf](https://www.dndbeyond.com/species/1755491-elf)
 Elven culture and society are strongly shaped by the [[Elven Cycle of Generations]], known as the _ka_, a unique cycle of generations arising from elves' extremely long lifespans, but limited time when they can bear children. Elves can only have children for a handful of decades, when the roots of Aldanor tie them to the Material Plane, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping: the elves count these generations, called the *ka*, numbering from the first generation of the elves. 
 
 ---
+
 ## Creating Your Elf Character
 
-To create your elf character, consider first your age and your generation, or _ka_. For adventures set in the 1700s, a good default is the 37th _ka_. Elves of this generation were born roughly between 1630 and 1670, and emerged from the Dreaming around 1712. You would then be in your first *leya*, when many are encouraged to leave their home, travel, and explore, so this is a natural choice for an adventurer. 
+To create your elf character, consider first your age and your generation, or _ka_. For adventures set around DR 1750, a good default is the 37th _ka_. Elves of this generation were born roughly between 1630 and 1670, and emerged from the Dreaming around 1712. You would then be in your first *leya*, when many are encouraged to leave their home, travel, and explore, so this is a natural choice for an adventurer. 
 
-If you wish to be older, consider what has made you an adventurer later in life, what your early life was like, and whether you are a parent or chose not to have children. Elves of the 36th *ka* emerged from their Dreaming into the devastation of the Great War, where many died. Elves of the 35th *ka* awoke from their Dreaming almost 400 years ago (for games set in the 1700s), and saw their generation-mates and children fight and die in the Great War. 
+If you wish to be older, consider what has made you an adventurer later in life, what your early life was like, and whether you are a parent or chose not to have children. Elves of the 36th *ka* emerged from their Dreaming into the devastation of the Great War, where many died. Elves of the 35th *ka* awoke from their Dreaming about 360 years ago (for games set around DR 1750), and saw their generation-mates and children fight and die in the Great War. 
 
 Consider also where you are from, and your relationship with your kin and other species. A simple answer if engaging with the lore of elves is not of interest to you is that you came from an isolated elven kingdom (the kingdom of [[Orenlas]] is a good choice), were born in the 37th _ka_ and are now spending the years of your life before you decide whether to return to your home traveling and adventuring.
 
@@ -39,44 +40,58 @@ To choose the name for your Elven character, you might consider looking at [nam
 **Female Names:** Aiste, Angwen, Cariel, Ciweth, Degril, Linteil, Lauriel, Maeriel, Narwe, Nuriel, Tylinde, Sedril
 
 ---
+
 ## Basic Traits
 
-**Creature Type:** Humanoid  
-**Size:** Medium (about 5–6 feet tall)  
-**Speed:** 30 feet  
-**Age**: Elves do not die of old age, but during each cycle of the _ka_, the pull of the material world weakens for them. Few elves remain on Taelgar beyond their fifth _ka_ (approximately 800 years).  
-**Languages:** The long lifespan of elves means they typically learn many more languages than usual. You may select six [[Languages]] during character creation, which should usually include Elvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Creature Type:** Humanoid  
+**Size:** Medium (about 5–6 feet tall)  
+**Speed:** 30 feet  
+**Age:** Elves do not die of old age, but during each cycle of the _ka_, the pull of the material world weakens for them. Few elves remain on Taelgar beyond their fifth _ka_ (approximately 800 years).  
+**Languages:** The long lifespan of elves means they typically learn many more languages than usual. You may select six [[Languages]] during character creation, which should usually include Elvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Elf Traits
 
 As an Elf, you have these special traits.
-#### Darkvision
+
+### Darkvision
+
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
-#### Firstborn Gift
+
+### Firstborn Gift
+
 You have an innate understanding of the weave of magic from your connection to Elmerca, the Wild Star, and Aldanor, the Living Tree. You choose one of the following talents.
 
-- _Elmerca's Gift._ You know the [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) cantrip. When you finish a long rest, you can replace that cantrip with a different cantrip from the Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this gift).
+- _Elmerca's Gift._ You know the [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) cantrip. When you finish a Long Rest, you can replace that cantrip with a different cantrip from the Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this gift).
 - _Aldanor's Gift._ Your Speed increases to 35 feet, and you learn the [Druidcraft](https://www.dndbeyond.com/spells/2080-druidcraft) cantrip.
-- _Gift of the Sea._ You can breathe air and water, you gain a swimming speed equal to your walking speed, and you learn the [Shape Water](https://www.dndbeyond.com/spells/2397-shape-water) cantrip. 
-#### Elven Ritual Magic
+- _Gift of the Sea._ You can breathe air and water, you gain a Swim Speed equal to your Speed, and you learn the [Shape Water](https://www.dndbeyond.com/spells/2397-shape-water) cantrip. 
+
+### Elven Ritual Magic
+
 Your innate connection to the weave of magic allows you to learn one spell from among the choices below. You always have this spell prepared, you may cast this spell as a ritual, even if it does not have the ritual tag, and this spell does not require material components when you cast it as a ritual. 
 
-***When you reach character level 3***, you learn a second ritual from this trait. 
-
-***When you reach character level 5***, your skill with ritual magic intensifies. Spells you cast with this trait do not require Concentration, have triple the normal duration (if it is not Instantaneous), and can be cast with only a 1 minute ritual. Choose from these Rituals:
+Choose from these rituals:
 
 - _Ritual of Elmerca's Protection_: You learn [Mage Armor](https://www.dndbeyond.com/spells/2172-mage-armor).
 - _Ritual of Elmerca's Sight_: You learn [Detect Magic](https://www.dndbeyond.com/spells/2065-detect-magic).
 - _Ritual of Elmerca's Knowledge_: You learn [Comprehend Languages](https://www.dndbeyond.com/spells/2035-comprehend-languages).
 - _Ritual of Aldanor's Awareness_: You learn [Locate Animals or Plants](https://www.dndbeyond.com/spells/2168-locate-animals-or-plants).
 - _Ritual of Aldanor's Speech_: You learn [Speak with Animals](https://www.dndbeyond.com/spells/2258-speak-with-animals).
-- Ritual of _Aldanor's Ward_: You learn [Alarm](https://www.dndbeyond.com/spells/1991-alarm).
+- _Ritual of Aldanor's Ward_: You learn [Alarm](https://www.dndbeyond.com/spells/1991-alarm).
 
-#### Resilience of the Dream
+***When you reach character level 3***, you learn a second ritual from this trait. 
+
+***When you reach character level 5***, your skill with ritual magic intensifies. Spells you cast with this trait do not require Concentration, have triple the normal duration (if it is not Instantaneous), and can be cast with only a 1 minute ritual.
+
+### Resilience of the Dream
+
 The connection to Elmerca and Aldanor that developed during the first years of your life has left you resilient to mental and physical tolls. You have Advantage on saving throws you make to avoid or end the [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition, you are unaffected by mundane diseases, and you have Advantage on saving throws to avoid or end magical or unusual diseases.
-#### Keen Senses
+
+### Keen Senses
+
 You have proficiency in the [Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight), [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception), or [Survival](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Survival) skill.
-#### Trance
+
+### Trance
+
 You don’t need to sleep, and magic can’t put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
 %%^Campaign:none%%

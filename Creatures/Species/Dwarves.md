@@ -19,6 +19,7 @@ POV: modern
 > *Far under the mountains, long ago the First were made from solid stone. Born to delve and craft and seek, the [[Bahrazel|Bahrâzel]] made our mountain homes: [[Uzdan]], the Ruler, leader of people; [[Karthel]], the Runecrafter, shaper of magic; [[Fanrukel]], the Priest, keeper of lore; [[Tarbaka]], the Stoneworker, lord of the forge; [[Azar]], the Warrior, defender of cities; [[Maganna]], the Traveler, delver and miner; and [[Oshkir]], the Farmer, provider and healer. May their wisdom and protection guide you to your name and place. See now the past and the future as one.*
 
 Deep in the mountains, a glittering hall of crystal and light, enchanted with glowing runes. The echoes of hammers and picks delving for silver, forging iron and steel; and the slow tap-tap-tap of a crafter carefully shaping a cave of wonder beneath the mountains. Towering stone fortresses in the hills, full of beautiful stonework and ancient runes of power and protection. An abiding commitment to clan and family and thuhr. These are the common threads of dwarven life. 
+
 ## Appearance
 
 Dwarves are short, stocky, and often powerfully built. Though they average 4 to 4 ½ feet tall and rarely grow taller than 5 feet, their muscular build means they often weigh as much as a human 2 feet taller.
@@ -26,7 +27,7 @@ Dwarves are short, stocky, and often powerfully built. Though they average 4 to 
 Their appearance is as varied as the stones they shape: though many have ruddy complexions, with dark or red hair, dwarves of all colors are regularly seen in Taelgar. Most dwarven men, and some dwarven women, grow long beards, which they braid with intricate ribbons. As dwarves age, their hair, including their beards, generally turns gray or white, and their faces acquire deep wrinkles, especially around the eyes.
 
 ## Language and Naming
-_See more: [[Playing a Dwarf#Dwarf Names|Dwarf Names]]_
+_See also: [[Playing a Dwarf#Dwarf Names|Dwarf Names]]_
 
 Dwarves speak [[Languages#Dwarvish|Dwarvish]], a language that has remained essentially unchanged since the beginning of time, with no known dialects or variants. It has its own alphabet and is often learned by outsiders who trade with the dwarven kingdoms.
 
@@ -63,7 +64,6 @@ Dwarven kingdoms such as these, and others, often stretch deep underground, conn
 
 Despite their close-knit societies, many dwarves do not live in these traditional kingdoms. Indeed, many choose to live in the cities and realms of other species, especially humans. Across the cities, large and small, of Taelgar, one can find dwarven quarters, new and old, where dwarves dwell, sometimes as enclaves governed by their own communal laws. 
 
-
 > [!image|figure standard]
 > ![[dwarves-mountain-stronghold.webp]]
 > *A mountain stronghold welcomes travelers.*
@@ -81,6 +81,7 @@ Extended families of dwarves are organized as clans, sharing a name and ties of 
 Dwarves that settle among other species often do so with their clan: examples include the [[Redpeaks]] of Darba, the [[Hardstones]] of Tokra, and the [[Ferrystones]] of Rinburg. 
 
 ### Thuhr
+
 *Pronounced THUR: one syllable, like “third” without the final d.*
 
 All adult dwarves who have completed their naming rite are also members of a thuhr, a uniquely dwarven institution that is a combination of a guild, a secret society, a mentorship system, and a found family outside the traditional strictures of dwarven clans. A dwarf's thuhr is revealed to them during the ritual of name-taking at the age of maturity, when they find [[Heart of the Mountain]] and experience the divine revelation of the [[Bahrazel|Bahrâzel]]. There are seven thuhr, each associated with one of the [[Bahrazel|Bahrâzel]]: 
@@ -97,18 +98,18 @@ All adult dwarves who have completed their naming rite are also members of a thu
 
 Though each thuhr has a set of traditional associations, a dwarf’s thuhr does not determine their profession, and its importance varies from person to person. While for some, it is a central source of companionship and belonging, for others, it provides an apprenticeship or connections that become less important later in life, or even simply gives a background color of little importance to their life. 
 
-Thuhr ties also offer a way to build a life beyond the expectations of family and clan. When a young dwarf learns their thuhr, they will often apprentice to an elder of the same thuhr to learn a vocation, sometimes traveling far from home for this purpose. This gives dwarves who feels constrained at home a socially sanctioned way to find a new path, turning to their thuhr for training, companionship, and connections outside of clan and kin. 
+Thuhr ties also offer a way to build a life beyond the expectations of family and clan. When a young dwarf learns their thuhr, they will often apprentice to an elder of the same thuhr to learn a vocation, sometimes traveling far from home for this purpose. This gives dwarves who feel constrained at home a socially sanctioned way to find a new path, turning to their thuhr for training, companionship, and connections outside of clan and kin. 
 
 Thuhr connect dwarves across clans, and play a central role in resolving conflicts between clans. Rare binthuhr dwarves (adults who never completed their pilgrimage to [[Heart of the Mountain]], and thus never learned their thuhr) challenge the strict traditions of the species and are usually outcasts from dwarven society.
 
 ### The Bahrâzel
-*See more: [[Dwarven Religious Practice]]*
+*See also: [[Dwarven Religious Practice]]*
 
-The [[Bahrazel|Bahrâzel]], the [[Embodied Gods|embodied divinities]] and mystical firstborn of the dwarves, play a significant role in dwarven myth and society. Legend says the seven [[Bahrazel|Bahrâzel]] were created from living rock, given form and magic and empowered to create the dwarven people in their image. They are worshipped as the creators and protectors of the dwarven species, and dwarves call upon the [[Bahrazel|Bahrâzel]] in times of desperate need, with a prayer for intercession. While the Bahrâzel do have individual identities, many dwarves worship them as a whole, thinking of the seven deities as aspects of one divinity. Indeed, the metaphysical nature of the [[Bahrazel|Bahrâzel]] is much debated in dwarven society, and the question of whether they are property a pantheon, a single entity with multiple aspects, or something more complicated is a central, unanswered, theological question in dwarven religion. 
+The [[Bahrazel|Bahrâzel]], the [[Embodied Gods|embodied divinities]] and mystical firstborn of the dwarves, play a significant role in dwarven myth and society. Legend says the seven [[Bahrazel|Bahrâzel]] were created from living rock, given form and magic and empowered to create the dwarven people in their image. They are worshipped as the creators and protectors of the dwarven species, and dwarves call upon the [[Bahrazel|Bahrâzel]] in times of desperate need, with a prayer for intercession. While the Bahrâzel do have individual identities, many dwarves worship them as a whole, thinking of the seven deities as aspects of one divinity. Indeed, the metaphysical nature of the [[Bahrazel|Bahrâzel]] is much debated in dwarven society, and the question of whether they are properly a pantheon, a single entity with multiple aspects, or something more complicated is a central, unanswered, theological question in dwarven religion. 
 
 #### The Rite of Name-Taking
 
-The Bahrâzel are central to one of the most significant moments in dwarven life, the rite of name-taking upon reaching the age of maturity. Young dwarves who are ready to enter adulthood go on a pilgrimage, seeking the [[Heart of the Mountain]], the mystical and spiritual home of the [[Bahrazel|Bahrâzel]] and usually interpreted by most dwarves as an [[Divine Realms|extraplanar divine realm]]. There are no maps, and few people find it in the same place, but most dwarves find it eventually, through a mystical and magical process that none who experience can reliably narrate afterward. 
+The Bahrâzel are central to one of the most significant moments in dwarven life, the rite of name-taking upon reaching the age of maturity. Young dwarves who are ready to enter adulthood go on a pilgrimage, seeking the [[Heart of the Mountain]], the mystical and spiritual home of the [[Bahrazel|Bahrâzel]] and usually interpreted by most dwarves as an [[Divine Realms|extraplanar divine realm]]. There are no maps, and few people find it in the same place, but most dwarves find it eventually, through a mystical and magical process that none who experience it can reliably narrate afterward. 
 
 When a dwarf finds the chamber during the ritual of name-taking, they usually experience a vision of a significant moment in their lives, learning their thuhr at the same time. At death, dwarves hope to be returned to the [[Heart of the Mountain]] and have their name carved upon the walls of the chamber, to live in the mountains in perpetuity with the [[Bahrazel|Bahrâzel]].
 
@@ -133,7 +134,6 @@ Many dwarves can recite family histories going back thousands of years, to the e
 Among the defining events of ancient dwarven history was the Sundering, a schism over how to respond to dangers gathering beneath the mountains in the long quiet years before the [[The Downfall|Downfall]]. Some held that the dwarves must remain and defend their underground homes, honoring their obligations to their ancestors and the Bahrâzel. Others argued for leaving their ancestral halls, fleeing the dangers that threatened them, and building new lives far away. The division led many dwarves to depart, placing the claims of ancestral obligation and the freedom to choose another life in lasting tension.
 
 Much later, the [[Great War]] transformed the dwarven kingdoms of the western mountains. [[Ardith]] was destroyed, and its refugees crossed Dunmar to establish [[Nardith]] in the [[Yuvanti Mountains]]. [[Khatridun]], devastated by the war, turned inward toward its history, while [[Nidzahar]] grew wealthy through trade and technological innovation.
-
 
 %%^Campaign:none%%
 ## Details for DMs

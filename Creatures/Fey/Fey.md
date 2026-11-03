@@ -12,7 +12,7 @@ POV: modern
 
 The fey are the natives of the [[Feywild]]. They are generally referred to as the "fey", sometimes spelled "fae", or the "faerie", but there are distinctions, both obvious and subtle, among these folk. The fey can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home.  
 
-All fey honor bargains, and the feywild runs on gifts and promises. But whether these are offered genuinely, or in an attempt to deceive, can be difficult for mortals to decipher. And the risk of accepting a bargain you do not understand may well be servitude in an archfey's court. 
+All fey honor bargains, and the Feywild runs on gifts and promises. But whether these are offered genuinely, or in an attempt to deceive, can be difficult for mortals to decipher. And the risk of accepting a bargain you do not understand may well be servitude in an archfey's court. 
 
 ## The Many Forms of the Fey
 
@@ -25,11 +25,11 @@ The fey are a diverse folk, in appearance more than in nature. The common folk w
 Though a traveler to the court of an archfey might find fae, bear-folk, pixies, and satyrs all mingling together, there are some fey that are often seen as different and set apart, even among the fey themselves.
 
 - Throughout the Feywild, there are also innumerable [[Nymphs|dryads, nymphs, and other spirits of the land]]. These fey are typically strongly tied to a particular place, and rarely, if ever, leave the tree or river they call home, though a rare nymph may join the court of a particular archfey.
-- [[Story about Hags|Hags]] are also fey, and often powerful ones, feared even by other fey. Many leave the Feywild to find easier prey for their schemes in the material plane. 
-- Across the feywild can be found many strange, terrible, and wonderful creatures that serve the lord of a fey realm, an archfey. [[Duskhounds]], the terrifying hunters of the [[Lord Umbraeth|Gloomshaper]], are a particularly feared example of these types of creatures. 
+- [[Story about Hags|Hags]] are also fey, and often powerful ones, feared even by other fey. Many leave the Feywild to find easier prey for their schemes in the Material Plane. 
+- Across the Feywild can be found many strange, terrible, and wonderful creatures that serve the lord of a fey realm, an archfey. [[Duskhounds]], the terrifying hunters of the [[Lord Umbraeth|Gloomshaper]], are a particularly feared example of these types of creatures. 
 
 ## Language and Naming
-_See more: [[Playing a Fey#Fey Names|Fey Names]]_
+_See also: [[Playing a Fey#Fey Names|Fey Names]]_
 
 The fey speak [[Languages#Sylvan|Sylvan]]. This is a strange language, a language that carries some of the fraught beauty of the Feywild itself, a language of magic and artistry above all. Powerful fey, writing in [[Sylvan Writing|sylvan characters]], can make a story on a page change the emotions and even thoughts of the reader, not just through words alone but through the magical-emotional determinatives of the language. Few mortals learn the true depths of Sylvan; most visitors to the Feywild use the Elvish script to write the Sylvan tongue.
 
@@ -52,7 +52,6 @@ In the Feywild, the passage of time is complicated by the unchanging time of day
 Little is known about fey traditions around life and death. Fey can die on the mortal world, but it is rare and even in [[Tyrwingha]] there are no formal rites or rituals around the remains of deceased fey.  However, cremation is a common response, and [[Tyrwingha|Tyrwinghan]] folklore holds that the remains of powerful fey may carry curses, change form, or disappear.
 
 %% @Mike ^^ is this true based on Celyn's invention? Not sure what is canon and what is brainstorming around this %%
-
 
 %%^Campaign:none%%
 ## Details for DMs
@@ -100,7 +99,6 @@ Relationships with mortals:
 - [[Celyn Learning Languages]] — Authorial narrative of Celyn's friendship with the satyr Ampelos, teaching, reciprocal gifts, and encounters with Sylvan writing.
 
 %%^End%%
-
 
 %%^Metadata:names:v1%%
 - {name: Fey, language: Common}

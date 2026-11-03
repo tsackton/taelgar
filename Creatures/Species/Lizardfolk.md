@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/mike]
+tags: [creature]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
@@ -15,10 +15,10 @@ POV: modern
 > ![[lizardfolk-village-at-daybreak.webp]]
 > *Misty daybreak in a lizardfolk village.*
 
->[!quote] Lizardfolk saying, author unknown
-*At misty daybreak*
-*a quiet emerald swamp dreams*
-*of the setting sun*
+> [!quote] Lizardfolk saying, author unknown
+> *At misty daybreak*  
+> *a quiet emerald swamp dreams*  
+> *of the setting sun*
 
 Lizardfolk dwell where water and land meet, most commonly in swamps, river basins, and tidal marshes. Their villages are well‑kept places of fish weirs and reedcraft, hidden boardwalks and raised hearths, vibrant and teeming with life. Elders guide the growth of the community, so the land is never overburdened, and omens from dreams and ancestors steer important decisions in lizardfolk life. Though often living in isolated villages, when they settle near other species they usually build ties of trade and friendship, though rarely do lizardfolk depend on the trade of outsiders to sustain their way of life. 
 
@@ -27,13 +27,13 @@ Lizardfolk dwell where water and land meet, most commonly in swamps, river basin
 Lizardfolk are humanoid reptiles: upright, bipedal, hairless, with distinctly reptilian heads. They are typically powerfully built, averaging about six feet tall with a slightly forward-canted posture, especially among those with particularly large tails. They are covered in close-fitting scales, rather than skin. Lizardfolk coloration varies widely, though generally juveniles and adults are more likely to be brightly colored than elders, whose scales often fade to light blue-greens or other pastel colors, and lose the wet sheen. In moments of deep focus elders may seem to sparkle, and very rarely appear faintly translucent under direct sunlight.
 
 ## Language and Naming
-_See more: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]_
+_See also: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]_
 
 Lizardfolk speak their own tongue, called Lizardling or sometimes Lizardfolk by outsiders, but also speak easily in trade pidgins when they settle near other species, and often learn the languages of their neighbors as well. Lizardfolk usually have a single given name, often chosen to honor a favored ancestor, though names tend not to repeat within a generation. Names are often passed down in families, and frequently, but not always, have some meaning. Lizardfolk will add home‑place or descriptor when needed abroad, but tend not to use family names in their home communities. 
 
 ## Lifecycle
 
-Lizardfolk mature at roughly the same rate as humans, reaching adulthood in their late teens or early twenties. Once they mature, however, they age at an an increasingly slower rate compared to humans. A lizardfolk at a hundred is as hale and hearty as a human half their age, and lizardfolk elder years can last for a century or more, though vanishingly few lizardfolk live into their fourth century. Because of this extended old age, many generations of lizardfolk typically live together, and young lizardfolk commonly know their great-grandparents and great-great-grandparents. These long-lived elders hold an important place in community life, preserving knowledge of the land, family histories, and ancestral traditions.
+Lizardfolk mature at roughly the same rate as humans, reaching adulthood in their late teens or early twenties. Once they mature, however, they age at an increasingly slow rate compared to humans. A lizardfolk at a hundred is as hale and hearty as a human half their age, and lizardfolk elder years can last for a century or more, though vanishingly few lizardfolk live into their fourth century. Because of this extended old age, many generations of lizardfolk typically live together, and young lizardfolk commonly know their great-grandparents and great-great-grandparents. These long-lived elders hold an important place in community life, preserving knowledge of the land, family histories, and ancestral traditions.
 
 Lizardfolk communities consciously shape their population growth to remain in balance with what their homelands can support. Bringing children into the community is a collective decision, guided by the elders and the ancestors and the needs of the community. In many lizardfolk communities, children are rare: many grow up supported by large families of grandparents and elders, but with few age-mates. 
 
@@ -69,7 +69,7 @@ Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[
 
 ## Cultural Traits
 
-Lizardfolk cultures are shaped by a pair of deep connections: their enduring ties to their homelands, and the spiritual guidance of elders and ancestor. While diverse lizardfolk communities differ in specific customs, these shared connections give even widely separated lizardfolk settlements underlying commonalities. 
+Lizardfolk cultures are shaped by a pair of deep connections: their enduring ties to their homelands, and the spiritual guidance of elders and ancestors. While diverse lizardfolk communities differ in specific customs, these shared connections give even widely separated lizardfolk settlements underlying commonalities. 
 
 ### Lizardfolk Homelands
 
@@ -89,10 +89,9 @@ Elders hold a central place in lizardfolk communities. In many respects, most li
 
 Elders shape lizardfolk family life as well. Several generations often live alongside one another, and family relationships connect young lizardfolk to people whose memories reach far beyond their own experience. Decisions about the growth of a community, including bringing children into it, are collective concerns, typically shaped by the guidance of elders and ancestors.
 
-Elders also serve as the conduit between lizardfolk communities as their Firstborn creators, the divine [[Tharzen Anzinakoa]], worshipped both collectively and through their four faces: [[Negu]], [[Hazkunde]], [[Bero]], and [[Udazkena]]. All lizardfolk share a religious tradition that is built on dreams and prophecies and omens that connect the past and future, believed to be associated with the idea that the divine is a repeating cycle. Lizardfolk religion envisions the Tharzen Anzinakoa as the divine representation of this spiritual cycle, marking life from birth and renewal through growth, elderhood, and death. 
+Elders also serve as the conduit between lizardfolk communities and their Firstborn creators, the divine [[Tharzen Anzinakoa]], worshipped both collectively and through their four faces: [[Negu]], [[Hazkunde]], [[Bero]], and [[Udazkena]]. All lizardfolk share a religious tradition that is built on dreams and prophecies and omens that connect the past and future, believed to be associated with the idea that the divine is a repeating cycle. Lizardfolk religion envisions the Tharzen Anzinakoa as the divine representation of this spiritual cycle, marking life from birth and renewal through growth, elderhood, and death. 
 
 The precise way in which these are represented and connected to the Tharzen Anzinakoa varies widely. In the tradition associated with Greater Sembara and the various lizardfolk realms that were, in ancient days, part of a vast wetlands known as [[Urtzabala]], the four faces of the [[Tharzen Anzinakoa]] are typically described as representing the seasons. [[Hazkunde]] is associated with birth and renewal, and depicted as the coming of spring; [[Bero]] is associated with growth and the fullness of life, and depicted as the height of summer; [[Udazkena]] is associated with elderhood and responsibility, and depicted as the harvest of autumn; and [[Negu]] is associated with ancestors and death, and is depicted as the hibernation of winter. But, in other places, these associations vary, with local cultures. 
-
 
 %% Vibes notes
 
@@ -112,8 +111,7 @@ Lizardfolk communities are typically led by elders, with a strong connection to 
 
 %% @ Mike: too short? not sure really what else to say %%
 
-
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## Details for DMs
 
 ### Open Questions and Further Work
