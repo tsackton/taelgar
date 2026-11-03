@@ -1,0 +1,1002 @@
+{
+  "schemaVersion": "0.1-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:098",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-session.yaml",
+    "sessionYamlSha256": "7861119b82b6209df7f142ee5e46336f753d00e339fe7ffc9b7d2107c41f7bf2",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-transcript.md",
+    "transcriptSha256": "0187460ec4860892c91cc533f7affde6c2d0b7d354a5dfb2c480b3f45edd1d0f",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1749-05-05",
+      "end": "1749-05-07"
+    }
+  },
+  "review": {
+    "status": "pilot-human-unreviewed",
+    "method": "Ordered candidate sweep of all polished turns; expanded full-turn context at selected decisions; supplementary numeric-clock/spatial sweep; focused semantic review; deterministic provenance checks.",
+    "limitation": "Not an independent exhaustive semantic audit of every turn. Recall not measured. Source transcription uncertainty retained."
+  },
+  "summary": "Three occupied day slots and two completed nights; start date supplied by YAML. Split-party errands and mobile ship positions matter.",
+  "issues": [
+    "Morning → pre-dawn is local-clock change on teleport, not negative elapsed time.",
+    "Two completed overnights versus “three days” in the countdown: possibly inclusive counting, but an intended three elapsed days would conflict. Preserve both statements.",
+    "Final planned 4 a.m. departure is excluded from elapsed chronology.",
+    "No route coordinates are reconstructed from gestures at the Roll20 map; vessels have dynamic positions, not a permanent city parent."
+  ],
+  "model": "location-B-place-visit-route-graph",
+  "places": [
+    {
+      "id": "ursk",
+      "label": "Ursk departure point, exact site unstated",
+      "kind": "region",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "nevium",
+      "label": "Nevium",
+      "kind": "settlement",
+      "parentId": null,
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Nevium.md",
+      "parentRelation": null,
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "docks",
+      "label": "Nevium docks",
+      "kind": "subsite",
+      "parentId": "nevium",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l01",
+        "l02"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "sea",
+      "label": "Open sea northwest of Nevium",
+      "kind": "region",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l02",
+        "l03"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "cove",
+      "label": "Overnight cove on rocky coast near Artevus",
+      "kind": "site",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l03",
+        "l04",
+        "l06"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "hills",
+      "label": "Hills above overnight cove",
+      "kind": "site",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "artevus",
+      "label": "Artevus",
+      "kind": "settlement",
+      "parentId": null,
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Artevus.md",
+      "sessionLabel": "unnamed small town until u2036",
+      "parentRelation": null,
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l06",
+        "l08"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "inn",
+      "label": "Unnamed Artevus inn",
+      "kind": "building",
+      "parentId": "artevus",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l07"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "martino",
+      "label": "Martino’s house above town",
+      "kind": "building",
+      "parentId": "artevus",
+      "vaultPath": null,
+      "parentRelation": "above_near",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l09",
+        "l10"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "harbor-a",
+      "label": "Artevus harbor",
+      "kind": "subsite",
+      "parentId": "artevus",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l05",
+        "l08",
+        "l12"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "boat",
+      "label": "Party’s folding boat",
+      "kind": "mobile_platform",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "breeze",
+      "label": "Summer’s Breeze",
+      "kind": "mobile_platform",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l10",
+        "l11",
+        "l14",
+        "l20",
+        "l21",
+        "l22"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "bay",
+      "label": "Castrella Bay mouth / approach",
+      "kind": "route_endpoint",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l12"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "castrella",
+      "label": "Castrella",
+      "kind": "settlement",
+      "parentId": null,
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Castrella.md",
+      "parentRelation": null,
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l14"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "harbor-c",
+      "label": "Castrella harbor",
+      "kind": "subsite",
+      "parentId": "castrella",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l12",
+        "l13",
+        "l23"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "cafe",
+      "label": "Kenzo’s promenade cafe",
+      "kind": "building",
+      "parentId": "castrella",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l15",
+        "l19"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "mapshop",
+      "label": "Map seller’s shop in market",
+      "kind": "building",
+      "parentId": "castrella",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l16"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "juliana",
+      "label": "Juliana’s house",
+      "kind": "building",
+      "parentId": "castrella",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l17"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "crafts",
+      "label": "Craftspeople / market area, exact shop unstated",
+      "kind": "subsite",
+      "parentId": "castrella",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l18"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "taverns",
+      "label": "Dockside taverns / ballad venues",
+      "kind": "subsite",
+      "parentId": "castrella",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l21"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    }
+  ],
+  "visits": [
+    {
+      "id": "v-l01",
+      "placeId": "docks",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Teleport from Ursk to Nevium docks. Nevium identification supplied later in session.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l02",
+      "placeId": "sea",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l02"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Row out of harbor; sail past barrier island, bypass canal and head northwest offshore.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l03",
+      "placeId": "cove",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l03"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Reach rocky coast at sunset and settle in cove; sleep ashore.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l04",
+      "placeId": "hills",
+      "actors": [
+        "Delwath"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Delwath flies up to scout hills; sees nearby town and then scries its docks. Party has not entered town.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l06",
+      "placeId": "artevus",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l06"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Morning sail back along coast to vicinity of Artevus; departure cove and shore landing need not be identical.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l07",
+      "placeId": "inn",
+      "actors": [
+        "Delwath"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l07"
+      ],
+      "concurrencyGroup": "artevus-split",
+      "confidence": "high",
+      "statement": "Delwath approaches town from cliff side, then spends time in inn.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l08",
+      "placeId": "harbor-a",
+      "actors": [
+        "Wellby",
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "concurrencyGroup": "artevus-split",
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Companions sail to halfling ship while Delwath heads uphill; no whole-party visit to Martino.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l11",
+      "placeId": "breeze",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l11"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Everyone and Martino aboard Summer’s Breeze by noon/one; party’s vessel can fold away.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l09",
+      "placeId": "martino",
+      "actors": [
+        "Delwath"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l09"
+      ],
+      "concurrencyGroup": "artevus-split",
+      "confidence": "high",
+      "statement": "Delwath visits Martino’s house while other group negotiates aboard ship.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l10",
+      "placeId": "breeze",
+      "actors": [
+        "Delwath"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Delwath returns downhill and swims out to rejoin party beside/on Pippa’s ship.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l12",
+      "placeId": "harbor-c",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l12"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Summer’s Breeze sails up coast to mouth of Castrella Bay, then another 20-ish miles in that night.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l13",
+      "placeId": "harbor-c",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l13"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Dawn in Castrella harbor; Martino stays aboard.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l14",
+      "placeId": "castrella",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l14"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Party takes little boat from anchored halfling ship to Castrella docks.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l17",
+      "placeId": "juliana",
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l17"
+      ],
+      "concurrencyGroup": "castrella-errands",
+      "confidence": "high",
+      "statement": "Delwath and Seeker visit Juliana’s house.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l15",
+      "placeId": "cafe",
+      "actors": [
+        "Kenzo"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l15"
+      ],
+      "concurrencyGroup": "castrella-errands",
+      "confidence": "high",
+      "statement": "Kenzo’s cafe visit during split errands.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l16",
+      "placeId": "mapshop",
+      "actors": [
+        "Wellby"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l16"
+      ],
+      "concurrencyGroup": "castrella-errands",
+      "confidence": "high",
+      "statement": "Wellby visits map seller in market.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l18",
+      "placeId": "crafts",
+      "actors": [
+        "Riswynn"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l18"
+      ],
+      "concurrencyGroup": "castrella-errands",
+      "confidence": "high",
+      "statement": "Riswynn wanders town looking for craftspeople; no named smithy established.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l19",
+      "placeId": "cafe",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l19"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Reconvene at Kenzo’s cafe around lunch.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l20",
+      "placeId": "breeze",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l20"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Back aboard ship after errands and scrying attempt.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l21",
+      "placeId": "taverns",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l21"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Return to town for afternoon/evening inquiries and ballads.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l22",
+      "placeId": "breeze",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l22"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Back with halflings at dinner around 9 p.m.; next departure planned.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    }
+  ],
+  "journeys": [
+    {
+      "id": "r-l01",
+      "fromPlaceId": "ursk",
+      "toPlaceId": "docks",
+      "viaPlaceIds": [],
+      "mode": "teleport",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Teleport from Ursk to Nevium docks. Nevium identification supplied later in session."
+    },
+    {
+      "id": "r-l02",
+      "fromPlaceId": "docks",
+      "toPlaceId": "sea",
+      "viaPlaceIds": [],
+      "mode": "sail",
+      "vehicleId": "boat",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l02"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Row out of harbor; sail past barrier island, bypass canal and head northwest offshore."
+    },
+    {
+      "id": "r-l03",
+      "fromPlaceId": "sea",
+      "toPlaceId": "cove",
+      "viaPlaceIds": [],
+      "mode": "sail",
+      "vehicleId": "boat",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l03"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Reach rocky coast at sunset and settle in cove; sleep ashore."
+    },
+    {
+      "id": "r-l04",
+      "fromPlaceId": "cove",
+      "toPlaceId": "hills",
+      "viaPlaceIds": [],
+      "mode": "fly",
+      "vehicleId": null,
+      "actors": [
+        "Delwath"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Delwath flies up to scout hills; sees nearby town and then scries its docks. Party has not entered town."
+    },
+    {
+      "id": "r-l06",
+      "fromPlaceId": "cove",
+      "toPlaceId": "artevus",
+      "viaPlaceIds": [],
+      "mode": "sail",
+      "vehicleId": "boat",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l06"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Morning sail back along coast to vicinity of Artevus; departure cove and shore landing need not be identical."
+    },
+    {
+      "id": "r-l08",
+      "fromPlaceId": "artevus",
+      "toPlaceId": "harbor-a",
+      "viaPlaceIds": [],
+      "mode": "sail",
+      "vehicleId": "boat",
+      "actors": [
+        "Wellby",
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "concurrencyGroup": "artevus-split",
+      "geometry": null,
+      "statement": "Companions sail to halfling ship while Delwath heads uphill; no whole-party visit to Martino."
+    },
+    {
+      "id": "r-l10",
+      "fromPlaceId": "martino",
+      "toPlaceId": "breeze",
+      "viaPlaceIds": [],
+      "mode": "walk_then_swim",
+      "vehicleId": null,
+      "actors": [
+        "Delwath"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Delwath returns downhill and swims out to rejoin party beside/on Pippa’s ship."
+    },
+    {
+      "id": "r-l12",
+      "fromPlaceId": "harbor-a",
+      "toPlaceId": "harbor-c",
+      "viaPlaceIds": [
+        "bay"
+      ],
+      "mode": "sail",
+      "vehicleId": "breeze",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l12"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Summer’s Breeze sails up coast to mouth of Castrella Bay, then another 20-ish miles in that night."
+    },
+    {
+      "id": "r-l14",
+      "fromPlaceId": "breeze",
+      "toPlaceId": "castrella",
+      "viaPlaceIds": [],
+      "mode": "boat",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l14"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Party takes little boat from anchored halfling ship to Castrella docks."
+    },
+    {
+      "id": "r-l21",
+      "fromPlaceId": "breeze",
+      "toPlaceId": "taverns",
+      "viaPlaceIds": [],
+      "mode": "unspecified",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l21"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Return to town for afternoon/evening inquiries and ballads."
+    }
+  ],
+  "observations": [
+    {
+      "id": "l05",
+      "kind": "remote_observation",
+      "frame": "remote",
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "View town docks through scrying, not a visit.",
+      "placeId": "harbor-a",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0670",
+          "endUid": "u0671",
+          "quote": "Scrying on the docks now that I can see it, which is the next thing I'm gonna do."
+        },
+        {
+          "startUid": "u0731",
+          "endUid": "u0734",
+          "quote": "chatter on the docks"
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    }
+  ],
+  "plannedMovements": [
+    {
+      "id": "l23",
+      "kind": "journey",
+      "frame": "planned",
+      "actors": [
+        "party"
+      ],
+      "reading": "Future northwest sailing to search for Milo; no completed route added.",
+      "placeId": null,
+      "fromPlaceId": "harbor-c",
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u3363",
+          "endUid": "u3369",
+          "quote": "But they’ve made plans to—Pippa apparently stays up all night fairly frequently, and is going to wake the—wake Wellby and the crew at 4, and get the boat underway early dawn, heading fast as can be northwest up the coast, Looking for Milo, worried that he’s lost somewhere, and keeping an eye out on the side for caves where a stoneborn hermit might live."
+        }
+      ],
+      "mode": "sail",
+      "vehicleId": "breeze"
+    }
+  ],
+  "spatialRelations": [
+    {
+      "fromPlaceId": "bay",
+      "toPlaceId": "castrella",
+      "relation": "bay_approach_to",
+      "evidence": [
+        {
+          "startUid": "u2013",
+          "endUid": "u2019",
+          "quote": "And you can see here now, you—so you’ve traveled up the coast far enough that you can see there’s, like, a—a gulf or a—a— a bay that cuts in. You can see that on—on Roll20, this, like, thing right here. You’re basically at the mouth of this bay, and there— Castrella is at the far end of this bay. They’re heading— they're heading in."
+        },
+        {
+          "startUid": "u2020",
+          "endUid": "u2024",
+          "quote": "It's another 20 ish miles, but with a little convincing the halflings are willing to get you there tonight. It’s probably another 2 or 3 h of sailing, which I assume is what you’re interested in, yeah? Okay."
+        }
+      ],
+      "distance": {
+        "value": 20,
+        "unit": "mile",
+        "precision": "approximate"
+      }
+    }
+  ],
+  "evidenceLedger": "location-A.json",
+  "evidenceLedgerSha256": "49a2473d1645bc49877e70f1b514b0efff8cdac80c7bc19d6e00385fcf63f93d",
+  "timeMap": "time-B.json",
+  "timeMapSha256": "dd75908b8c026158331d50a035fef45c5698e0301c636dca8b2d8f21cf02858a",
+  "notes": [
+    "Local place IDs are session-scoped. A vault link is an identity match, not proof of a visit.",
+    "Routes express topology and direction; geometry remains null. A place mentioned in a vision is not physical presence.",
+    "Visit markers do not assign every transcript line or every speaker to a place. No NPC whereabouts are automatically published.",
+    "parentRelation distinguishes containment, adjacency, approach, and inferred shared base; inspect its evidence before aggregating presence."
+  ]
+}

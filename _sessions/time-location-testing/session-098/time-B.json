@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "0.1-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:098",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-session.yaml",
+    "sessionYamlSha256": "7861119b82b6209df7f142ee5e46336f753d00e339fe7ffc9b7d2107c41f7bf2",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-transcript.md",
+    "transcriptSha256": "0187460ec4860892c91cc533f7affde6c2d0b7d354a5dfb2c480b3f45edd1d0f",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1749-05-05",
+      "end": "1749-05-07"
+    }
+  },
+  "review": {
+    "status": "pilot-human-unreviewed",
+    "method": "Ordered candidate sweep of all polished turns; expanded full-turn context at selected decisions; supplementary numeric-clock/spatial sweep; focused semantic review; deterministic provenance checks.",
+    "limitation": "Not an independent exhaustive semantic audit of every turn. Recall not measured. Source transcription uncertainty retained."
+  },
+  "summary": "Three occupied day slots and two completed nights; start date supplied by YAML. Split-party errands and mobile ship positions matter.",
+  "issues": [
+    "Morning → pre-dawn is local-clock change on teleport, not negative elapsed time.",
+    "Two completed overnights versus “three days” in the countdown: possibly inclusive counting, but an intended three elapsed days would conflict. Preserve both statements.",
+    "Final planned 4 a.m. departure is excluded from elapsed chronology.",
+    "No route coordinates are reconstructed from gestures at the Roll20 map; vessels have dynamic positions, not a permanent city parent."
+  ],
+  "model": "time-B-constraint-chronology",
+  "nodes": [
+    {
+      "id": "n1",
+      "label": "Teleport arrival / first sailing day",
+      "markerIds": [
+        "t01",
+        "t02",
+        "t03",
+        "t04"
+      ],
+      "date": "1749-05-05",
+      "dateBasis": "YAML start only; no spoken civil date",
+      "timeOfDay": "local pre-dawn → noon → sunset"
+    },
+    {
+      "id": "n2",
+      "label": "Artevus errands / sail to Castrella",
+      "markerIds": [
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09"
+      ],
+      "date": "1749-05-06",
+      "dateBasis": "YAML start plus one observed overnight",
+      "timeOfDay": "morning → noon/one → evening → night"
+    },
+    {
+      "id": "n3",
+      "label": "Castrella errands and evening",
+      "markerIds": [
+        "t10",
+        "t11",
+        "t12",
+        "t14",
+        "t15",
+        "t16"
+      ],
+      "date": "1749-05-07",
+      "dateBasis": "YAML start plus two observed overnights",
+      "timeOfDay": "dawn → lunchtime → afternoon → about 9 p.m. → bedtime"
+    }
+  ],
+  "constraints": [
+    {
+      "id": "c1",
+      "fromNode": "n1",
+      "toNode": "n2",
+      "relation": "overnight",
+      "markerIds": [
+        "t05"
+      ],
+      "dateBoundaries": 1
+    },
+    {
+      "id": "c2",
+      "fromNode": "n2",
+      "toNode": "n3",
+      "relation": "overnight",
+      "markerIds": [
+        "t09",
+        "t10"
+      ],
+      "dateBoundaries": 1
+    },
+    {
+      "id": "c3",
+      "fromNode": "n3",
+      "toNode": "n3",
+      "relation": "parallel_activity",
+      "markerIds": [
+        "t11",
+        "t12"
+      ],
+      "countGroup": "castrella-errands",
+      "note": "Wellby’s half-hour is inside the morning errands, not after all other vignettes."
+    }
+  ],
+  "yamlAudit": {
+    "assessment": "compatible_relative",
+    "yamlExpectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "individuallyNarratedOvernights": 2,
+    "explanation": "Two completed overnight transitions independently support the YAML span length May 5–7. Civil start date and year still rely on YAML. Bedtime at the end does not establish completion of a third night; departure is future.",
+    "proposedYamlChange": null
+  },
+  "evidenceLedger": "time-A.json",
+  "evidenceLedgerSha256": "32577a14da42c2d660d459dfe22e63d726bb460e45595a9e92ea14a3ed9eee80",
+  "nonAdvancingInSourceOrder": [
+    "t17",
+    "t18"
+  ],
+  "contextSources": []
+}

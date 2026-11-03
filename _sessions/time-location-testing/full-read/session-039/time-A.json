@@ -1,0 +1,646 @@
+{
+  "schemaVersion": "0.2-full-read-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:039",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+    "sessionYamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "transcriptSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1748-07-03",
+      "end": "1748-07-03"
+    }
+  },
+  "review": {
+    "status": "full-read-pilot-human-unreviewed",
+    "method": "Assistant read every polished transcript turn sequentially without keyword/speaker filtering, then authored sparse markers and context exclusions; deterministic validation of provenance and references.",
+    "coverage": {
+      "turnCount": 1648,
+      "windowsRead": [
+        [
+          1,
+          280
+        ],
+        [
+          281,
+          560
+        ],
+        [
+          561,
+          840
+        ],
+        [
+          841,
+          1120
+        ],
+        [
+          1121,
+          1400
+        ],
+        [
+          1401,
+          1648
+        ]
+      ],
+      "complete": true,
+      "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+      "sourceSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+      "yamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+      "headerRead": true,
+      "parserBodyAccounting": "all non-whitespace body content accounted for",
+      "truncatedWindowsAccepted": false
+    },
+    "limitation": "Full reading is not an independent second annotator or a gold-standard recall measurement. Source transcription uncertainty retained."
+  },
+  "summary": "One current day near Tokra: pre-dawn lair check → tunnel → northern fort → tower fight and mist rescue → nearby interrogation/rest → compressed town return. Opening prior-night prologue and closing rest ambiguity remain explicit.",
+  "issues": [
+    "YAML July 3-only is compatible with wake-to-close action. Literal opening includes previous night: choose and document session-boundary semantics before flagging YAML mismatch.",
+    "One short rest is certain; closing recovery could repeat it or be a second rest. Do not sum blindly. No completed closing long rest.",
+    "Closing return to town is accepted compressed narration; cure, prisoner handover and northbound departure are intentions rather than individually played completions.",
+    "Archives detour canceled by explicit retained-map agreement; do not invent visit.",
+    "Riswynn enters mist physically during combat, but no planar crossing is supported. Tower with Laka monks is a different destination.",
+    "Chronology of reported werewolf history is approximate; do not resolve inconsistent year estimates by inventing dates.",
+    "Mode of outbound travel and horse placement are unclear; map gestures do not support exact coordinates or current whereabouts for mounts.",
+    "Local place labels only; no independent vault identity reconciliation or completeness gold standard."
+  ],
+  "model": "time-A-evidence-ledger",
+  "markers": [
+    {
+      "id": "t01",
+      "kind": "opening_rest",
+      "frame": "opening_boundary",
+      "actor": "party",
+      "reading": "Opening narrates drifting to sleep, full moon, then waking pre-dawn with long-rest recovery. Treat as boundary prologue to the current day, while retaining the literal overnight in transcript coverage.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "as you drift to sleep in the comfortable beds at the inn recovering from a long day of fighting werewolves"
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "And you awake in the pre-dawn darkness"
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "remember: long rest."
+        }
+      ],
+      "durationConvention": {
+        "minutes": 480,
+        "application": "prior-night boundary, excluded from current-day elapsed total"
+      }
+    },
+    {
+      "id": "t02",
+      "kind": "prospective_date",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "August 1 transformation/ritual discussed as future risk, not today’s date.",
+      "evidence": [
+        {
+          "startUid": "u0036",
+          "endUid": "u0039",
+          "quote": "Did you really? The Green Sea? Um, yeah, it'd be good to double check, be good to double check. I hope on August 1 I don't, you know, wake up and kill you all, you know, that definitely…"
+        },
+        {
+          "startUid": "u0490",
+          "endUid": "u0490",
+          "quote": "Jinnik's curse will overtake the land if thirteen werewolves lay down their lives or do something creepy on the August 1."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "kind": "prospective_wait",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Kassi’s research needs a few days, probably tomorrow; no wait completed here.",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0114",
+          "quote": "OK, asked her about Rai and about—right, various things like that. She, she said she needed a few days. So there tomorrow, probably more likely tomorrow."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "kind": "time_of_day",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Werewolf lair checked while still dark; guards report quiet night.",
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "it's still dark, but the moon is bright"
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "Quiet night."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "kind": "table_date",
+      "frame": "table",
+      "actor": "party",
+      "reading": "Sunday/two weeks ago/the 27th concern game scheduling and a player’s COVID test, not in-world chronology.",
+      "evidence": [
+        {
+          "startUid": "u0244",
+          "endUid": "u0244",
+          "quote": "Oh wait wasn't it last time that I'm after Riswynn cured my lycanthropy, I was going to test to see if I still had COVID. What day was that? When did we play last?"
+        },
+        {
+          "startUid": "u0245",
+          "endUid": "u0245",
+          "quote": "On Sunday."
+        },
+        {
+          "startUid": "u0247",
+          "endUid": "u0248",
+          "quote": "Two weeks ago, from today, [garbled] That I."
+        },
+        {
+          "startUid": "u0249",
+          "endUid": "u0250",
+          "quote": "Want to correct okay yeah I was still testing positive for COVID until until until the 27th. So that would have been something amazing, though, if."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "kind": "retcon",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Proposed archive retrieval is removed by agreement that party kept the map; no archive travel duration should be added.",
+      "evidence": [
+        {
+          "startUid": "u0300",
+          "endUid": "u0301",
+          "quote": "You go back down to the basement. Sorry, just to be clear, you're first you're going to go back to the archives then you're coming back here and going into."
+        },
+        {
+          "startUid": "u0305",
+          "endUid": "u0306",
+          "quote": "Took yes, I was trying to tell you earlier we're going to take the map, but it was in the course of conversation really I thought we always kept the map."
+        },
+        {
+          "startUid": "u0307",
+          "endUid": "u0307",
+          "quote": "Okay, if you want to have kept the map that's fine."
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0318",
+          "quote": "Yeah okay that's fine."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "kind": "dawn_and_travel",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Enter tunnels as sun begins to rise, emerge at dawn; then two narrated legs of roughly an hour each toward fort. Approximately two hours travel after tunnel exit.",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "So you head down into the tunnels as the sun is just beginning to creep above the horizon"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "maybe close to an hour's journey"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "Continue for another two, three miles, another hour"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate sum of two narrated legs"
+      },
+      "countGroup": "outbound-fort"
+    },
+    {
+      "id": "t08",
+      "kind": "trace_age",
+      "frame": "retrospective",
+      "actor": "party",
+      "reading": "Trail is at least 2–3 days old; age of tracks, not current elapsed time.",
+      "evidence": [
+        {
+          "startUid": "u0398",
+          "endUid": "u0398",
+          "quote": "Are those are there any fresh tracks in the last 24 hours?"
+        },
+        {
+          "startUid": "u0400",
+          "endUid": "u0402",
+          "quote": "The whole trail itself seems a bit stale, like at least—maybe at least two or three days since anyone's been this way."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "kind": "observation_duration",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Clairvoyance used at half-mile approach; observed behavior continues for a few minutes. Full ten-minute spell duration is not explicitly completed.",
+      "evidence": [
+        {
+          "startUid": "u0528",
+          "endUid": "u0530",
+          "quote": "Hmm all right I'm gonna put an eye into the Tower just to end this quick question. Um, so I sit cross legged on the ground, draw a glowing eye in the air and cast."
+        },
+        {
+          "startUid": "u0549",
+          "endUid": "u0558",
+          "quote": "This goes on for a few minutes"
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "value": null,
+        "precision": "a few; no numeric normalization"
+      },
+      "countGroup": "tower-observation"
+    },
+    {
+      "id": "t10",
+      "kind": "proposed_investigation",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "10–20 minutes required for structural inspection is an option, not an investigation that is subsequently performed.",
+      "evidence": [
+        {
+          "startUid": "u0625",
+          "endUid": "u0625",
+          "quote": "I mean if you are right next to the tower and spend some time investigating you're familiar enough with stonework you might be able to find something, but it would there's nothing obvious from clairvoyance and."
+        },
+        {
+          "startUid": "u0627",
+          "endUid": "u0629",
+          "quote": "I'm you'd have to do a whole perimeter and kind of you know, spend a good 10 or 20 minutes like investigating before you could be sure."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "kind": "combat_interval",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Continuous initiative encounter, including chase around tower and mist rescue. No explicit complete round tally / elapsed duration asserted; do not turn lengthy table discussion into hours.",
+      "evidence": [
+        {
+          "startUid": "u0735",
+          "endUid": "u0739",
+          "quote": "And this is basically the camp and so you run. Just to keep things simple and in order here let's let's roll initiative. I need to put your tokens on."
+        },
+        {
+          "startUid": "u1918",
+          "endUid": "u1921",
+          "quote": "That's us out as as the scene sort of quiet comes over the top of the hill. One werewolf presumably but not shifted into werewolf form cowering in the corner of the of the tower. The other in werewolf form unconscious behind the tower."
+        }
+      ],
+      "duration": {
+        "value": null,
+        "unit": "minute",
+        "precision": "unquantified short encounter"
+      }
+    },
+    {
+      "id": "t12",
+      "kind": "day_correction",
+      "frame": "retrospective",
+      "actor": "party",
+      "reading": "“Twice in one day” corrected: previous fog incident was yesterday / last night. Confirms separation from opening current day.",
+      "evidence": [
+        {
+          "startUid": "u1909",
+          "endUid": "u1910",
+          "quote": "That's like twice in one day getting out of a fog."
+        },
+        {
+          "startUid": "u1911",
+          "endUid": "u1911",
+          "quote": "No, the other time was yesterday was last night."
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "kind": "reported_shift",
+      "frame": "reported",
+      "actor": "female captive",
+      "reading": "Captive has been at tower a week, with alternating week-long watches from Tokra; reported history, not party travel.",
+      "evidence": [
+        {
+          "startUid": "u1998",
+          "endUid": "u1998",
+          "quote": "How long have you been here?"
+        },
+        {
+          "startUid": "u1999",
+          "endUid": "u2001",
+          "quote": "Week. Two of us in shifts. Week here then back."
+        },
+        {
+          "startUid": "u2003",
+          "endUid": "u2003",
+          "quote": "Back to Tokra."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "kind": "reported_history",
+      "frame": "reported",
+      "actor": "female captive",
+      "reading": "Female captive infected a few months ago; approached about a month after attack. Approximate personal history.",
+      "evidence": [
+        {
+          "startUid": "u2012",
+          "endUid": "u2012",
+          "quote": "It was only a few months ago."
+        },
+        {
+          "startUid": "u2019",
+          "endUid": "u2033",
+          "quote": "\"I wouldn't say I had a choice. I just—was I—when I was attacked and bandaged myself up and then a month later, they came and found me and said—I had been having horrible nightmares.\" Shakes a little. \"They're still here. And they said it could not be cured, and all I could only hope was to—was to join them and Jinnik could give me power. I didn't know what to do and followed them. After seeing what I had become, what polite society would have me if there was no cure?\""
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "kind": "proposed_return_duration",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Return to tunnels would take another couple hours; party instead stops nearby to interrogate now. Later compressed town return has no newly narrated duration.",
+      "evidence": [
+        {
+          "startUid": "u2180",
+          "endUid": "u2180",
+          "quote": "We're gonna get like at least a half mile away from."
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2183",
+          "quote": "The hill first, right? Yeah yeah we're gonna go all the way back into yeah good good. We—are we are we not going all the way back into the."
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2185",
+          "quote": "Tunnels, you can go back to the tunnels that will take you another couple hours."
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2189",
+          "quote": "Let's do it right here."
+        },
+        {
+          "startUid": "u2190",
+          "endUid": "u2190",
+          "quote": "Yes, yep."
+        },
+        {
+          "startUid": "u2191",
+          "endUid": "u2191",
+          "quote": "All right, we stop, um, so we can wake him up."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "route estimate; not independently completed here"
+      }
+    },
+    {
+      "id": "t16",
+      "kind": "rest",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Accepted short rest during interrogation: DM explicitly directs it and recovery follows. One hour is the short-rest convention; interrogation overlaps.",
+      "evidence": [
+        {
+          "startUid": "u2204",
+          "endUid": "u2204",
+          "quote": "I mean, can we take a short rest while we're doing this, too?"
+        },
+        {
+          "startUid": "u2205",
+          "endUid": "u2205",
+          "quote": "Sure."
+        },
+        {
+          "startUid": "u2222",
+          "endUid": "u2223",
+          "quote": "Take a short rest and interrogate them so who's casting a healing spell? Is anybody or is he still unconscious?"
+        },
+        {
+          "startUid": "u2230",
+          "endUid": "u2230",
+          "quote": "I feel much better."
+        }
+      ],
+      "durationConvention": {
+        "minutes": 60,
+        "application": "one accepted short rest; interrogation concurrent"
+      },
+      "countGroup": "rest-and-interrogation"
+    },
+    {
+      "id": "t17",
+      "kind": "reported_history",
+      "frame": "reported",
+      "actor": "male captive",
+      "reading": "Male captive gives approximate multiyear story: leader arrived ~10 years ago; scepter found 5–6 years later; leader returned ~7 months after leaving, perhaps 2 years ago; crossing ordered ~4 months ago. Preserve rough / potentially inconsistent intervals, without calendarizing them.",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2344",
+          "quote": "That is where I—those are my earliest memories. Raiding hunting on the desert making a living in the ruined buildings there with my pack. Know if we were happy exactly, but there was food. There was—it was okay. Until 10 years ago."
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2387",
+          "quote": "five, six years after he came"
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2387",
+          "quote": "seven months later"
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2387",
+          "quote": "That was maybe two years ago."
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2387",
+          "quote": "maybe four months ago"
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "kind": "table_time",
+      "frame": "table",
+      "actor": "party",
+      "reading": "11:45, another 45 minutes, and 15-minute wrap-up are real-world session scheduling; midnight/6 a.m. refer to player’s sleepover.",
+      "evidence": [
+        {
+          "startUid": "u2526",
+          "endUid": "u2527",
+          "quote": "So, so let me, let me just break in here for a moment to suggest it's at 1145. We have two options. I'm happy with either one. We could either just wind down the session here if people—if you actually do want to go North I'm happy to go another 45 minutes. We could certainly get to the beginnings of Saka."
+        },
+        {
+          "startUid": "u2531",
+          "endUid": "u2532",
+          "quote": "I'm as much fun, as it would be to keep going, I am really tired. I don't know if I'm going to last 45 more minutes. We had a sleep over last night. Four other 10 year olds, and so I did sleep some but they woke up at six and didn't go to bed till midnight so."
+        },
+        {
+          "startUid": "u2534",
+          "endUid": "u2535",
+          "quote": "I'm okay. Well let's let's spend 15 minutes wrapping up, yes, then that then I just won't rush you out of this moment to get you North I am so you know."
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "kind": "compressed_return",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Group agrees to hand-wave going back to town. No overnight or exact arrival clock narrated.",
+      "evidence": [
+        {
+          "startUid": "u2679",
+          "endUid": "u2679",
+          "quote": "Yeah so you'll you'll go back to town, basically, I mean one option would be, we can just kind of hand wave to going back to town stuff."
+        },
+        {
+          "startUid": "u2680",
+          "endUid": "u2680",
+          "quote": "Yeah yeah."
+        },
+        {
+          "startUid": "u2681",
+          "endUid": "u2681",
+          "quote": "I think we should do that yeah."
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "kind": "rest_choice",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Closing long-rest suggestion replaced by short rest / hit dice and same-day travel goal. No completed second long rest.",
+      "evidence": [
+        {
+          "startUid": "u2682",
+          "endUid": "u2683",
+          "quote": "Long rest. Are you going to take her take a rest in town before you head."
+        },
+        {
+          "startUid": "u2684",
+          "endUid": "u2684",
+          "quote": "North please let it hit once you're going to get a long rest."
+        },
+        {
+          "startUid": "u2685",
+          "endUid": "u2686",
+          "quote": "We should take a short rest and spend hit dice and get up there. Yeah we get up there today look by nightfall."
+        },
+        {
+          "startUid": "u2687",
+          "endUid": "u2687",
+          "quote": "Yeah I think we should do that to just burn hit dice and get your hit points back."
+        }
+      ],
+      "completion": "long_rest_not_taken"
+    },
+    {
+      "id": "t21",
+      "kind": "rest_ambiguity",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Closing short-rest recovery and hit dice occur, but may restate prior short rest or be another rest in town. Preserve both readings; do not automatically sum two hours.",
+      "evidence": [
+        {
+          "startUid": "u2685",
+          "endUid": "u2686",
+          "quote": "We should take a short rest and spend hit dice and get up there. Yeah we get up there today look by nightfall."
+        },
+        {
+          "startUid": "u2724",
+          "endUid": "u2724",
+          "quote": "No, that was fine I between hit dice and my."
+        },
+        {
+          "startUid": "u2759",
+          "endUid": "u2759",
+          "quote": "Mess, right now, so you can use three so so roll 3d8 plus three and add that to your hit points."
+        },
+        {
+          "startUid": "u2760",
+          "endUid": "u2760",
+          "quote": "Now is I'm full."
+        }
+      ],
+      "countGroup": "rest-and-interrogation",
+      "alternativeReadings": [
+        "restatement of t16 recovery",
+        "second short rest after return"
+      ],
+      "durationConvention": {
+        "minutes": 60,
+        "application": "only an additional hour if this is a distinct rest; unresolved"
+      }
+    },
+    {
+      "id": "t22",
+      "kind": "future_journey",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Goal to travel north today/by nightfall; next session starts on road north. Laka tower detour estimated two or three days, not completed.",
+      "evidence": [
+        {
+          "startUid": "u2685",
+          "endUid": "u2686",
+          "quote": "We should take a short rest and spend hit dice and get up there. Yeah we get up there today look by nightfall."
+        },
+        {
+          "startUid": "u2765",
+          "endUid": "u2765",
+          "quote": "Then we could just start next session on the road north."
+        },
+        {
+          "startUid": "u2771",
+          "endUid": "u2772",
+          "quote": "Lots of distractions I mean. The route you take brings you within like 15—within like a day's journey of the tower where the Laka monks went."
+        },
+        {
+          "startUid": "u2775",
+          "endUid": "u2775",
+          "quote": "But it's like a it's like a two day journey probably two or three day journey know what."
+        }
+      ]
+    }
+  ]
+}

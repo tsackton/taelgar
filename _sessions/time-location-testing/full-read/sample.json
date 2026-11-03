@@ -1,0 +1,971 @@
+{
+  "seed": 20261103,
+  "excludedPriorSessions": [
+    17,
+    32,
+    41,
+    98,
+    109
+  ],
+  "eligibleCount": 131,
+  "eligible": [
+    {
+      "session": 1,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-transcript.md",
+      "status": "complete",
+      "bytes": 192251
+    },
+    {
+      "session": 2,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 236373
+    },
+    {
+      "session": 3,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 199536
+    },
+    {
+      "session": 4,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 152635
+    },
+    {
+      "session": 5,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 206415
+    },
+    {
+      "session": 6,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 235484
+    },
+    {
+      "session": 7,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 179448
+    },
+    {
+      "session": 8,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 192345
+    },
+    {
+      "session": 9,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 175633
+    },
+    {
+      "session": 10,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 194152
+    },
+    {
+      "session": 11,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 182692
+    },
+    {
+      "session": 12,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 168284
+    },
+    {
+      "session": 13,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 177014
+    },
+    {
+      "session": 14,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 169070
+    },
+    {
+      "session": 15,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 167666
+    },
+    {
+      "session": 16,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 176625
+    },
+    {
+      "session": 18,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 203486
+    },
+    {
+      "session": 19,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 228202
+    },
+    {
+      "session": 20,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 153700
+    },
+    {
+      "session": 21,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 149332
+    },
+    {
+      "session": 22,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 216618
+    },
+    {
+      "session": 23,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 207262
+    },
+    {
+      "session": 24,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 177933,
+      "sourceSha256": "bd26b19c77a1df2bad0fa69308973160730fc3315746760a9ab68aa3b3fa712e",
+      "yamlSha256": "9c66851d2435f9347ecc225e11a2254476381651eccffe76899f4adbd2d593c6",
+      "yamlDates": [
+        "1748-05-11",
+        "1748-05-13"
+      ]
+    },
+    {
+      "session": 25,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 159707
+    },
+    {
+      "session": 26,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 184803
+    },
+    {
+      "session": 27,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 170916
+    },
+    {
+      "session": 28,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 235050
+    },
+    {
+      "session": 29,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 235287
+    },
+    {
+      "session": 30,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 230607
+    },
+    {
+      "session": 31,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 261809
+    },
+    {
+      "session": 33,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 155193
+    },
+    {
+      "session": 34,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 199778
+    },
+    {
+      "session": 35,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 196629
+    },
+    {
+      "session": 36,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 223080
+    },
+    {
+      "session": 37,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 236414
+    },
+    {
+      "session": 38,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 189524
+    },
+    {
+      "session": 39,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 172972,
+      "sourceSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+      "yamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+      "yamlDates": [
+        "1748-07-03",
+        "1748-07-03"
+      ]
+    },
+    {
+      "session": 40,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 180243
+    },
+    {
+      "session": 42,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 174367
+    },
+    {
+      "session": 43,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 255669
+    },
+    {
+      "session": 44,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 269849
+    },
+    {
+      "session": 45,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 91994
+    },
+    {
+      "session": 46,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 224437
+    },
+    {
+      "session": 47,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 169909
+    },
+    {
+      "session": 48,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 223840
+    },
+    {
+      "session": 49,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 263257
+    },
+    {
+      "session": 50,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 290186
+    },
+    {
+      "session": 51,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-051/cleaned/dunmar-frontier-051-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-051/cleaned/dunmar-frontier-051-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 344424
+    },
+    {
+      "session": 52,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-transcript.md",
+      "status": "complete",
+      "bytes": 611635
+    },
+    {
+      "session": 53,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 38889
+    },
+    {
+      "session": 54,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 205001
+    },
+    {
+      "session": 55,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 169583
+    },
+    {
+      "session": 56,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 133552
+    },
+    {
+      "session": 57,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 117619
+    },
+    {
+      "session": 58,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 171431
+    },
+    {
+      "session": 59,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 141876
+    },
+    {
+      "session": 60,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 73746
+    },
+    {
+      "session": 61,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 72704
+    },
+    {
+      "session": 62,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 227243
+    },
+    {
+      "session": 63,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 172200
+    },
+    {
+      "session": 64,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 151170
+    },
+    {
+      "session": 65,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 141294
+    },
+    {
+      "session": 66,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 198253
+    },
+    {
+      "session": 67,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 188069
+    },
+    {
+      "session": 68,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 205790
+    },
+    {
+      "session": 69,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 145482
+    },
+    {
+      "session": 70,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 150044
+    },
+    {
+      "session": 71,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 146272
+    },
+    {
+      "session": 72,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 162606
+    },
+    {
+      "session": 73,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 166332
+    },
+    {
+      "session": 74,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 161030
+    },
+    {
+      "session": 75,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 142440
+    },
+    {
+      "session": 76,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 176028
+    },
+    {
+      "session": 77,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 199843
+    },
+    {
+      "session": 78,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 204288
+    },
+    {
+      "session": 79,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 193767
+    },
+    {
+      "session": 80,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 290037
+    },
+    {
+      "session": 81,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-transcript.md",
+      "status": "complete",
+      "bytes": 761413
+    },
+    {
+      "session": 82,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 160135
+    },
+    {
+      "session": 83,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 165151
+    },
+    {
+      "session": 84,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 137897
+    },
+    {
+      "session": 85,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 171331
+    },
+    {
+      "session": 86,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 187898
+    },
+    {
+      "session": 87,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 170150
+    },
+    {
+      "session": 88,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 184952
+    },
+    {
+      "session": 89,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 142447
+    },
+    {
+      "session": 90,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 154760
+    },
+    {
+      "session": 91,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 172476
+    },
+    {
+      "session": 92,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 153226
+    },
+    {
+      "session": 93,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 174353
+    },
+    {
+      "session": 94,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 171758
+    },
+    {
+      "session": 95,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 192369
+    },
+    {
+      "session": 97,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 219397
+    },
+    {
+      "session": 99,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 171191
+    },
+    {
+      "session": 100,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 179792
+    },
+    {
+      "session": 101,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 224688
+    },
+    {
+      "session": 102,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 224839
+    },
+    {
+      "session": 103,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 177187
+    },
+    {
+      "session": 104,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 212988
+    },
+    {
+      "session": 105,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 192519
+    },
+    {
+      "session": 106,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 168930
+    },
+    {
+      "session": 108,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 330193
+    },
+    {
+      "session": 110,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 842723
+    },
+    {
+      "session": 111,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 204178
+    },
+    {
+      "session": 112,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 233882
+    },
+    {
+      "session": 113,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 189869
+    },
+    {
+      "session": 114,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 146116
+    },
+    {
+      "session": 115,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 190148
+    },
+    {
+      "session": 116,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 243093
+    },
+    {
+      "session": 117,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 238815
+    },
+    {
+      "session": 118,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 157062
+    },
+    {
+      "session": 119,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 107837
+    },
+    {
+      "session": 120,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 169172
+    },
+    {
+      "session": 121,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 178577
+    },
+    {
+      "session": 122,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 182410
+    },
+    {
+      "session": 123,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 91610
+    },
+    {
+      "session": 124,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 156396
+    },
+    {
+      "session": 125,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 196812
+    },
+    {
+      "session": 126,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 175146
+    },
+    {
+      "session": 127,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 161379
+    },
+    {
+      "session": 128,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 238521
+    },
+    {
+      "session": 129,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 193061
+    },
+    {
+      "session": 130,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 176781
+    },
+    {
+      "session": 131,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 213417
+    },
+    {
+      "session": 132,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 188919
+    },
+    {
+      "session": 133,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 173904
+    },
+    {
+      "session": 134,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 111587
+    },
+    {
+      "session": 136,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 541037
+    },
+    {
+      "session": 137,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 324419
+    },
+    {
+      "session": 138,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 226083
+    },
+    {
+      "session": 139,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 333995
+    }
+  ],
+  "selected": [
+    {
+      "session": 24,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 177933,
+      "sourceSha256": "bd26b19c77a1df2bad0fa69308973160730fc3315746760a9ab68aa3b3fa712e",
+      "yamlSha256": "9c66851d2435f9347ecc225e11a2254476381651eccffe76899f4adbd2d593c6",
+      "yamlDates": [
+        "1748-05-11",
+        "1748-05-13"
+      ]
+    },
+    {
+      "session": 39,
+      "yaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+      "transcript": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+      "status": "complete_with_uncertainty",
+      "bytes": 172972,
+      "sourceSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+      "yamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+      "yamlDates": [
+        "1748-07-03",
+        "1748-07-03"
+      ]
+    }
+  ],
+  "sampling": "Uniform sample of two sorted eligible manifests without replacement, no redraw"
+}

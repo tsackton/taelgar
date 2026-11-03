@@ -1,0 +1,445 @@
+{
+  "schemaVersion": "0.1-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:017",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+    "sessionYamlSha256": "ff51e2303345a07a32461c7aae31dd0ef415742d502a7b3118d729658a71a1c2",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
+    "transcriptSha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1748-04-16",
+      "end": "1748-04-24"
+    }
+  },
+  "review": {
+    "status": "pilot-human-unreviewed",
+    "method": "Ordered candidate sweep of all polished turns; expanded full-turn context at selected decisions; supplementary numeric-clock/spatial sweep; focused semantic review; deterministic provenance checks.",
+    "limitation": "Not an independent exhaustive semantic audit of every turn. Recall not measured. Source transcription uncertainty retained."
+  },
+  "summary": "Eight calendar boundaries, from April 16 morning to April 24 arrival. Exact total hours and arrival clock remain unknown.",
+  "issues": [
+    "Opening short-rest reference is retrospective; do not manufacture an extra rest after the gnoll encounter.",
+    "The eight-day tower recollection refers to an earlier event, not an additional eight-day transition."
+  ],
+  "model": "location-B-place-visit-route-graph",
+  "places": [
+    {
+      "id": "plains",
+      "label": "Dunmari plains",
+      "kind": "region",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "tower-camp",
+      "label": "Vola’s camp south of Hralgar’s tower",
+      "kind": "site",
+      "parentId": "plains",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l01",
+        "l02"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "encounter",
+      "label": "Gnoll encounter rise / nearby camp",
+      "kind": "site",
+      "parentId": "plains",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l02",
+        "l03",
+        "l04"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "road-camp",
+      "label": "Sheltered camp on old trade road north of Karawa",
+      "kind": "site",
+      "parentId": "plains",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l04",
+        "l05",
+        "l07"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "karawa",
+      "label": "Karawa",
+      "kind": "settlement",
+      "parentId": null,
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+      "parentRelation": null,
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "ridge",
+      "label": "Northern ridge / approach to Karawa",
+      "kind": "site",
+      "parentId": "karawa",
+      "vaultPath": null,
+      "parentRelation": "approach_to",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l07",
+        "l08"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "temple",
+      "label": "Temple of Shakun",
+      "kind": "building",
+      "parentId": "karawa",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "parentRelation": "within",
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "council",
+      "label": "Council room in temple outbuildings",
+      "kind": "room",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l09"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "mirror-workshop",
+      "label": "Dark workshop seen in mirror",
+      "kind": "remote_view",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l06"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    }
+  ],
+  "visits": [
+    {
+      "id": "v-l01",
+      "placeId": "tower-camp",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [],
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Opening camp, later explicitly identified as Vola’s camp south of the tower.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l02",
+      "placeId": "encounter",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n1",
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l02"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Head south across the plains on foot beside loaded horses; only a handful of miles by lunch.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l03",
+      "placeId": "encounter",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l03"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Gnoll encounter, then camp a little away from the bodies; not a separately located settlement.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l04",
+      "placeId": "road-camp",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3",
+        "n4"
+      ],
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Six-day southbound journey, reaching a sheltered old-road camp; intermediate camps remain unnamed.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l05",
+      "placeId": "road-camp",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n4"
+      ],
+      "evidenceMarkerIds": [
+        "l05"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Final roadside camp, half a day north of Karawa.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l07",
+      "placeId": "ridge",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n5"
+      ],
+      "evidenceMarkerIds": [
+        "l07"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Next morning follow the southbound track into Karawa; 10–15 miles from camp.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l08",
+      "placeId": "temple",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n5"
+      ],
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Descend into the ruined town and approach the temple.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l09",
+      "placeId": "council",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n5"
+      ],
+      "evidenceMarkerIds": [
+        "l09"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Enter temple outbuilding council room; Alesh and Candrosa present.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    }
+  ],
+  "journeys": [
+    {
+      "id": "r-l02",
+      "fromPlaceId": "tower-camp",
+      "toPlaceId": "encounter",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n1",
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l02"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Head south across the plains on foot beside loaded horses; only a handful of miles by lunch."
+    },
+    {
+      "id": "r-l04",
+      "fromPlaceId": "encounter",
+      "toPlaceId": "road-camp",
+      "viaPlaceIds": [],
+      "mode": "overland",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3",
+        "n4"
+      ],
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Six-day southbound journey, reaching a sheltered old-road camp; intermediate camps remain unnamed."
+    },
+    {
+      "id": "r-l07",
+      "fromPlaceId": "road-camp",
+      "toPlaceId": "ridge",
+      "viaPlaceIds": [],
+      "mode": "overland",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n5"
+      ],
+      "evidenceMarkerIds": [
+        "l07"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Next morning follow the southbound track into Karawa; 10–15 miles from camp."
+    },
+    {
+      "id": "r-l08",
+      "fromPlaceId": "ridge",
+      "toPlaceId": "temple",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n5"
+      ],
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Descend into the ruined town and approach the temple."
+    }
+  ],
+  "observations": [
+    {
+      "id": "l06",
+      "kind": "remote_observation",
+      "frame": "vision",
+      "actors": [
+        "party"
+      ],
+      "reading": "Mirror shows a historical workshop; party remains at camp.",
+      "placeId": "mirror-workshop",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1443",
+          "endUid": "u1454",
+          "quote": "a sort of dark workshop"
+        },
+        {
+          "startUid": "u1496",
+          "endUid": "u1503",
+          "quote": "this was old"
+        }
+      ],
+      "timeNodeIds": [
+        "n4"
+      ]
+    }
+  ],
+  "plannedMovements": [],
+  "spatialRelations": [
+    {
+      "fromPlaceId": "road-camp",
+      "toPlaceId": "karawa",
+      "relation": "north_of",
+      "evidence": [
+        {
+          "startUid": "u1217",
+          "endUid": "u1220",
+          "quote": "So, after six days on the plains, on the April 23, now a month and a day after you all met in Karawa at the occasion of the hyena attacks on the town, you find yourself now about half day's journey north of Karawa, camped in a sheltered spot along the old trade road running east-west."
+        }
+      ],
+      "distance": {
+        "description": "half-day journey; 10–15 miles at next morning",
+        "precision": "approximate"
+      }
+    }
+  ],
+  "evidenceLedger": "location-A.json",
+  "evidenceLedgerSha256": "a6a6c72d986c097a688d7a3b538b8e22410b010ba3fe91fbb141a83af96c0a9d",
+  "timeMap": "time-B.json",
+  "timeMapSha256": "0f32162fc67f57c6183a33e6aed7aa8cdd8bfd8b4e9d502022230ea9d6742e36",
+  "notes": [
+    "Local place IDs are session-scoped. A vault link is an identity match, not proof of a visit.",
+    "Routes express topology and direction; geometry remains null. A place mentioned in a vision is not physical presence.",
+    "Visit markers do not assign every transcript line or every speaker to a place. No NPC whereabouts are automatically published.",
+    "parentRelation distinguishes containment, adjacency, approach, and inferred shared base; inspect its evidence before aggregating presence."
+  ]
+}

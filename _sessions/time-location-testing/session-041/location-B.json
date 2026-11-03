@@ -1,0 +1,626 @@
+{
+  "schemaVersion": "0.1-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:041",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+    "sessionYamlSha256": "15e8b2ee17ff086eba3393e4283a06722fccf7aff07ce7f261166eee492fed9e",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md",
+    "transcriptSha256": "e2299384a8ef774a746661a1ccc01ca63fbfb9a0c94201427e09c215dc336671",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1748-07-06",
+      "end": "1748-07-13"
+    }
+  },
+  "review": {
+    "status": "pilot-human-unreviewed",
+    "method": "Ordered candidate sweep of all polished turns; expanded full-turn context at selected decisions; supplementary numeric-clock/spatial sweep; focused semantic review; deterministic provenance checks.",
+    "limitation": "Not an independent exhaustive semantic audit of every turn. Recall not measured. Source transcription uncertainty retained."
+  },
+  "summary": "Clear July 6–10 chronology, probable July 11 research visit, then loosely dated monastery downtime. YAML end July 13 remains unconfirmed.",
+  "issues": [
+    "End date July 13 is compatible with loose downtime but not independently established.",
+    "Kassi on July 11 is inferred, not a spoken date.",
+    "Monastery is modeled within Tokra vicinity, not inside city walls. Kirian’s and Red Lily are distinct places."
+  ],
+  "model": "location-B-place-visit-route-graph",
+  "places": [
+    {
+      "id": "region",
+      "label": "Tokra and surrounding plains",
+      "kind": "region",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "camp",
+      "label": "Saka’s camp north of Tokra",
+      "kind": "site",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l01",
+        "l02"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "tokra",
+      "label": "Tokra",
+      "kind": "settlement",
+      "parentId": "region",
+      "vaultPath": null,
+      "vaultCandidate": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l02",
+        "l03"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "kirian",
+      "label": "Kirian’s inn",
+      "kind": "building",
+      "parentId": "tokra",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "parentRelation": "within",
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l03",
+        "l05"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "common",
+      "label": "Kirian’s common room",
+      "kind": "room",
+      "parentId": "kirian",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "red-lily",
+      "label": "The Red Lily Inn",
+      "kind": "building",
+      "parentId": "tokra",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn.md",
+      "parentRelation": "within",
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l05",
+        "l06"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "archives",
+      "label": "Archives of Tokra",
+      "kind": "building",
+      "parentId": "tokra",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "parentRelation": "within",
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l06",
+        "l08"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "govir",
+      "label": "Govir’s room in Archives",
+      "kind": "room",
+      "parentId": "archives",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l07"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "plaza",
+      "label": "Plaza between Archives and temple",
+      "kind": "site",
+      "parentId": "tokra",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l08",
+        "l09"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "temple",
+      "label": "Temple in Tokra",
+      "kind": "building",
+      "parentId": "tokra",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "balcony",
+      "label": "Kaleha’s upper temple balcony",
+      "kind": "subsite",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l09"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "monastery",
+      "label": "Lakan Monastery",
+      "kind": "site",
+      "parentId": "region",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "parentRelation": "within",
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l10",
+        "l12"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "kassi",
+      "label": "Kassi’s office in small monastery library",
+      "kind": "room",
+      "parentId": "monastery",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l11"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    }
+  ],
+  "visits": [
+    {
+      "id": "v-l01",
+      "placeId": "camp",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Opening outside Saka’s in the northern camp.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l02",
+      "placeId": "tokra",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n1",
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l02"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Ride straight back to Tokra over the plains, reaching the gates.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l03",
+      "placeId": "kirian",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l03"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Ride through Tokra to Kirian’s.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l04",
+      "placeId": "common",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Meal and reunion in inn common room.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l05",
+      "placeId": "red-lily",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l05"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Next morning stop at Red Lily on way to archives. This is a different inn.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l06",
+      "placeId": "archives",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l06"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Head across to Archives; enter main room with shelves and desks.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l07",
+      "placeId": "govir",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l07"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Talk to Govir in his room within Archives.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l08",
+      "placeId": "plaza",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Leave Archives and cross plaza in rain.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l09",
+      "placeId": "balcony",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l09"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Enter temple and head up to Kaleha’s balcony.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l10",
+      "placeId": "monastery",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3",
+        "n4",
+        "n5",
+        "n6"
+      ],
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Move to monastery for several days; stay, not a departure for Darba.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l11",
+      "placeId": "kassi",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n5"
+      ],
+      "evidenceMarkerIds": [
+        "l11"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Kassi brings party into her library office.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l12",
+      "placeId": "monastery",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n6"
+      ],
+      "evidenceMarkerIds": [
+        "l12"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Lara and retinue arrive at monastery; party is already staying there.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    }
+  ],
+  "journeys": [
+    {
+      "id": "r-l02",
+      "fromPlaceId": "camp",
+      "toPlaceId": "tokra",
+      "viaPlaceIds": [],
+      "mode": "ride",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n1",
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l02"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Ride straight back to Tokra over the plains, reaching the gates."
+    },
+    {
+      "id": "r-l03",
+      "fromPlaceId": "tokra",
+      "toPlaceId": "kirian",
+      "viaPlaceIds": [],
+      "mode": "ride",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l03"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Ride through Tokra to Kirian’s."
+    },
+    {
+      "id": "r-l05",
+      "fromPlaceId": "kirian",
+      "toPlaceId": "red-lily",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l05"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Next morning stop at Red Lily on way to archives. This is a different inn."
+    },
+    {
+      "id": "r-l06",
+      "fromPlaceId": "red-lily",
+      "toPlaceId": "archives",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l06"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Head across to Archives; enter main room with shelves and desks."
+    },
+    {
+      "id": "r-l08",
+      "fromPlaceId": "archives",
+      "toPlaceId": "plaza",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Leave Archives and cross plaza in rain."
+    },
+    {
+      "id": "r-l09",
+      "fromPlaceId": "plaza",
+      "toPlaceId": "balcony",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l09"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Enter temple and head up to Kaleha’s balcony."
+    },
+    {
+      "id": "r-l10",
+      "fromPlaceId": "temple",
+      "toPlaceId": "monastery",
+      "viaPlaceIds": [],
+      "mode": "unspecified",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3",
+        "n4",
+        "n5",
+        "n6"
+      ],
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Move to monastery for several days; stay, not a departure for Darba."
+    }
+  ],
+  "observations": [],
+  "plannedMovements": [],
+  "spatialRelations": [
+    {
+      "fromPlaceId": "archives",
+      "toPlaceId": "temple",
+      "relation": "across_plaza_from",
+      "evidence": [
+        {
+          "startUid": "u0694",
+          "endUid": "u0694",
+          "quote": "So there's the big plaza. There's temple on one side of the plaza, the archives on the other side."
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "balcony",
+      "toPlaceId": "temple",
+      "relation": "upper_part_of",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1360",
+          "quote": "two thirds of the way up near the roof"
+        }
+      ]
+    }
+  ],
+  "evidenceLedger": "location-A.json",
+  "evidenceLedgerSha256": "e2252ef67b2c05c55995f0162d91283bb876c2cbf421ce14ff61224bece838ea",
+  "timeMap": "time-B.json",
+  "timeMapSha256": "2a2c4e257b20ad24017aa5c675a24221d947f72858de6f7d5adb6aa0063b0196",
+  "notes": [
+    "Local place IDs are session-scoped. A vault link is an identity match, not proof of a visit.",
+    "Routes express topology and direction; geometry remains null. A place mentioned in a vision is not physical presence.",
+    "Visit markers do not assign every transcript line or every speaker to a place. No NPC whereabouts are automatically published.",
+    "parentRelation distinguishes containment, adjacency, approach, and inferred shared base; inspect its evidence before aggregating presence."
+  ]
+}

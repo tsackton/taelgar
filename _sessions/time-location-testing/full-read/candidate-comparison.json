@@ -1,0 +1,1557 @@
+[
+  {
+    "session": 24,
+    "turns": 1320,
+    "candidateTurns": 298,
+    "nonCandidateTurnsRead": 1022,
+    "scope": "Coverage of cited evidence by frozen keyword filter, NOT extraction precision/recall or a controlled independent A/B test",
+    "time": [
+      {
+        "id": "t01",
+        "reading": "Almost two months since Karawa meeting, about one month since Raven’s Hold, perhaps two weeks since leaving Karawa: recap, not session elapsed time.",
+        "citedTurnIndexes": [
+          1
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t02",
+        "reading": "Opening leaves Hall of Stories near dusk.",
+        "citedTurnIndexes": [
+          6
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t03",
+        "reading": "Sunset estimate revised from about 30 to about 40 minutes; temple approach takes 5–10 minutes within that countdown.",
+        "citedTurnIndexes": [
+          12
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t04",
+        "reading": "Short rest offered but not taken: potions used instead and Kenzo later confirms no rest yet.",
+        "citedTurnIndexes": [
+          46,
+          51,
+          384
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          51
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t05",
+        "reading": "Ten-minute preparation accepted, then Fey Sight result narrated. Detect Good and Evil is cast afterward.",
+        "citedTurnIndexes": [
+          102,
+          103,
+          122,
+          123,
+          130
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          103,
+          122,
+          123,
+          130
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t06",
+        "reading": "About 15–20 minutes until sunset on entering the main temple.",
+        "citedTurnIndexes": [
+          188
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t07",
+        "reading": "Detect Good and Evil is fading after its stated ten-minute duration; overlaps temple exploration, not an additional interval.",
+        "citedTurnIndexes": [
+          120,
+          192
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t08",
+        "reading": "Ten minutes to sunset. Unit and event are in the question; the DM answer is only “Hmm, ten.”",
+        "citedTurnIndexes": [
+          359,
+          360
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          360
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t09",
+        "reading": "Retreat occurs as light falls below window; camp reached in sunset afterglow and evening.",
+        "citedTurnIndexes": [
+          379,
+          422,
+          423
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          379
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t10",
+        "reading": "First long rest: evening camp, watch changes, then dawn. One completed overnight.",
+        "citedTurnIndexes": [
+          440,
+          458,
+          489,
+          492
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t11",
+        "reading": "Early-morning Wellby scout: about 20 minutes searching up the riverbed to monastery.",
+        "citedTurnIndexes": [
+          644
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t12",
+        "reading": "Wellby initially returns, then explicitly retcons observations into that same scouting trip. Final return follows the additional search.",
+        "citedTurnIndexes": [
+          648,
+          650,
+          659,
+          662,
+          663
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          650,
+          663
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t13",
+        "reading": "About 15 minutes to check remaining monastery buildings; part of the retconned scouting visit.",
+        "citedTurnIndexes": [
+          659,
+          660,
+          662
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          660
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t14",
+        "reading": "Orc approach countdowns (30–40 minutes, later 15, then 10 to monastery / roughly 30 to camp) are estimates; not three additive elapsed intervals.",
+        "citedTurnIndexes": [
+          656,
+          796,
+          864
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t15",
+        "reading": "Packing happened during discussion; DM accepts the correction. Do not add a new packing interval.",
+        "citedTurnIndexes": [
+          859,
+          860,
+          861
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          860,
+          861
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t16",
+        "reading": "After riding south through the heat, reach end of cliffs about 3 p.m.; then turn west/north-northwest and ride until sunset.",
+        "citedTurnIndexes": [
+          882
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t17",
+        "reading": "About one extra hour riding past sunset, about five more miles north, then camp.",
+        "citedTurnIndexes": [
+          889,
+          890,
+          891,
+          895
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          890
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t18",
+        "reading": "Suggested departure 7 a.m. and bridge by 11 are plans; later actual wake is before 5 a.m.",
+        "citedTurnIndexes": [
+          893
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t19",
+        "reading": "Second night includes Seeker’s roughly 3 a.m. watch; everyone wakes shortly before 5 a.m. and receives a long rest.",
+        "citedTurnIndexes": [
+          899,
+          900,
+          901
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t20",
+        "reading": "After breakfast/packing, about ten miles north takes about three hours; road reached about 9–9:30 a.m. Wake-to-departure interval is unspecified.",
+        "citedTurnIndexes": [
+          904,
+          917
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t21",
+        "reading": "Horse shelter reached about 9:30–10 a.m. Wellby’s hawk scouting overlaps Seeker’s construction.",
+        "citedTurnIndexes": [
+          922,
+          947
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          947
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t22",
+        "reading": "Observed orc patrols pass a point about every 30 minutes; recurrence, not 30 minutes added to party clock.",
+        "citedTurnIndexes": [
+          934,
+          935
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          934
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t23",
+        "reading": "Bridge approach remains before noon.",
+        "citedTurnIndexes": [
+          1033
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t24",
+        "reading": "At bridge DM says “Like 10 minutes” following invisibility-duration question; Delwath then says 50 minutes remain from one hour. Context supports roughly ten minutes already used, not a ten-minute invisibility duration.",
+        "citedTurnIndexes": [
+          1059,
+          1060,
+          1061,
+          1073
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1059
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t25",
+        "reading": "First clairvoyance lasts ten minutes and visibly ends; remote observation occurs while Delwath scouts.",
+        "citedTurnIndexes": [
+          1139,
+          1140,
+          1153,
+          1252
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1140
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t26",
+        "reading": "Five weeks without magical loot is reported by Grash’s subordinate; do not add it to session span.",
+        "citedTurnIndexes": [
+          1126
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t27",
+        "reading": "Zombies ordered to search all night; army said to be ready by fall. Future NPC activity, not elapsed session time.",
+        "citedTurnIndexes": [
+          1127,
+          1128,
+          1218
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1127
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t28",
+        "reading": "Late requests for 15 minutes / five or ten more minutes concern finishing the recording session, not in-world elapsed time.",
+        "citedTurnIndexes": [
+          1189,
+          1191,
+          1192,
+          1196,
+          1198
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1191,
+          1192
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t29",
+        "reading": "Second clairvoyance: sensor recast, five minutes later Grash reacts, then spell fades. Five minutes is inside this observation, not added to its full duration.",
+        "citedTurnIndexes": [
+          1179,
+          1205,
+          1237,
+          1249
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1179,
+          1249
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t30",
+        "reading": "Delwath spends about 20 minutes inside city, including 5–10 minutes before voices, about five searching a shop, and 1–2 following a voice. Narrated after clairvoyance but explicitly concurrent.",
+        "citedTurnIndexes": [
+          1252,
+          1262,
+          1278,
+          1297,
+          1299
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t31",
+        "reading": "Party reunited at bridge; westward departure belongs to next session. Exact end clock is unstated.",
+        "citedTurnIndexes": [
+          1303,
+          1318,
+          1320
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1318
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      }
+    ],
+    "location": [
+      {
+        "id": "l01",
+        "reading": "Party leaves Hall of Stories tower within monastery.",
+        "citedTurnIndexes": [
+          6
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l02",
+        "reading": "Approach temple facing east, pause on entrance steps, then enter foyer after preparations.",
+        "citedTurnIndexes": [
+          12,
+          15,
+          20,
+          79
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l03",
+        "reading": "Enter Five Siblings chapel through arch from foyer.",
+        "citedTurnIndexes": [
+          130,
+          131,
+          132
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          130
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l04",
+        "reading": "Undead presence sensed below chapel; basement not physically explored.",
+        "citedTurnIndexes": [
+          137,
+          158,
+          425
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          137,
+          425
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l05",
+        "reading": "Follow Wellby through arches into main temple chamber.",
+        "citedTurnIndexes": [
+          186,
+          188
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l06",
+        "reading": "Wellby posts in entry chapel to watch room and exit; Seeker later confirms they are together.",
+        "citedTurnIndexes": [
+          238,
+          373,
+          374
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          373,
+          374
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l07",
+        "reading": "Kenzo enters side corridor; Delwath watches at its entrance, then remains near statue. Corrected cardinal orientation is south, not guessed west.",
+        "citedTurnIndexes": [
+          242,
+          254,
+          271,
+          289,
+          339
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          242,
+          254,
+          289
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l08",
+        "reading": "Three shadow creatures occupy corridor; one stops before sunlight. They have not followed party out.",
+        "citedTurnIndexes": [
+          347,
+          367,
+          379
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          379
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l09",
+        "reading": "Scouts return through main room to companions, then party exits.",
+        "citedTurnIndexes": [
+          370,
+          375,
+          377,
+          380
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          380
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l10",
+        "reading": "Party returns past bathhouse to dry riverbed, turns south and reaches camp with horses and Baxter.",
+        "citedTurnIndexes": [
+          422,
+          423
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l11",
+        "reading": "First overnight and dawn at undisturbed camp.",
+        "citedTurnIndexes": [
+          440,
+          492
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l12",
+        "reading": "Wellby scouts alone north up riverbed to monastery bathhouse.",
+        "citedTurnIndexes": [
+          641,
+          644
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l13",
+        "reading": "Bar removed, captive absent, orc bodies gone. Fate and destination unknown; do not infer their route.",
+        "citedTurnIndexes": [
+          644,
+          647,
+          648
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l14",
+        "reading": "Retconned spyglass view from monastery: activity at fort and approaching search parties. Observation occurs before Wellby’s final return; no second trip.",
+        "citedTurnIndexes": [
+          650,
+          653,
+          654
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          650
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l15",
+        "reading": "After checking other buildings for 15 minutes, Wellby returns to camp. Earlier narrated return is superseded by inserted scouting, not duplicated.",
+        "citedTurnIndexes": [
+          648,
+          650,
+          659,
+          662,
+          663
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          650,
+          663
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l16",
+        "reading": "Northern bridge route and eastern approach discussed but abandoned in favor of southern loop; no noon hiding place or Baxter decoy executed.",
+        "citedTurnIndexes": [
+          667,
+          801,
+          841,
+          852
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          841,
+          852
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l17",
+        "reading": "Ride south with horses and Baxter along dry riverbed to where cliffs end, arriving about 3 p.m.",
+        "citedTurnIndexes": [
+          881,
+          882
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l18",
+        "reading": "Turn west then north across rocky desert; ride beyond sunset and camp roughly ten miles south of road, 3–4 miles west of river.",
+        "citedTurnIndexes": [
+          882,
+          886,
+          889,
+          890,
+          895
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          886,
+          890
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l19",
+        "reading": "Second overnight at hidden desert camp; wake before 5 a.m.",
+        "citedTurnIndexes": [
+          899,
+          901
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l20",
+        "reading": "Next morning ride north about ten miles to Dunmari road, then east to shelter against cliffs.",
+        "citedTurnIndexes": [
+          917,
+          918,
+          919,
+          920,
+          922
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          919,
+          920
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l21",
+        "reading": "Wellby uses Beast Sense through hawk over fort and city; palace obscured by shadow. Wellby’s body remains at shelter; hawk moves.",
+        "citedTurnIndexes": [
+          922,
+          926,
+          929
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          926
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l22",
+        "reading": "Seeker constructs horse shelter while Wellby scouts; horses and Baxter stay here when party advances.",
+        "citedTurnIndexes": [
+          947,
+          965,
+          968
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          947,
+          965,
+          968
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "l23",
+        "reading": "Party creeps along cliffs, crosses last open ground, reaches shelter under bridge. Does not yet enter city.",
+        "citedTurnIndexes": [
+          1027,
+          1033,
+          1050,
+          1052
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1027,
+          1052
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l24",
+        "reading": "Two clairvoyance views of palace throne room from bridge. Seeker never physically enters palace.",
+        "citedTurnIndexes": [
+          1062,
+          1064,
+          1082,
+          1179,
+          1205
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1062,
+          1179
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l25",
+        "reading": "Skeletal figure identified in dialogue as Grash on black throne; two orcs executed and reanimated. Attested remotely, no party visit.",
+        "citedTurnIndexes": [
+          1083,
+          1115,
+          1134
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1115
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l26",
+        "reading": "Delwath alone leaves bridge, passes ruined northern gate and enters city while others remain observing.",
+        "citedTurnIndexes": [
+          1073,
+          1079,
+          1252,
+          1253
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l27",
+        "reading": "Delwath reaches small river market and searches probable glassblower’s shop; objects recovered.",
+        "citedTurnIndexes": [
+          1270,
+          1278,
+          1281,
+          1284,
+          1285
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1281,
+          1284,
+          1285
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l28",
+        "reading": "Delwath follows voice through ruins near city wall for 1–2 minutes but gets no closer to source; no source location established.",
+        "citedTurnIndexes": [
+          1296,
+          1297
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l29",
+        "reading": "Delwath leaves before patrol, exits gate, reunites with companions at bridge.",
+        "citedTurnIndexes": [
+          1301,
+          1303
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l30",
+        "reading": "Head west next; recording explicitly stops with leaving Kharsan deferred to next session. No arrival back at horses established.",
+        "citedTurnIndexes": [
+          1303,
+          1320
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      }
+    ],
+    "timeSummary": {
+      "markers": 31,
+      "markersWithNonCandidateEvidence": 16,
+      "markersWithNoCandidateEvidence": 0
+    },
+    "locationSummary": {
+      "markers": 30,
+      "markersWithNonCandidateEvidence": 17,
+      "markersWithNoCandidateEvidence": 1
+    },
+    "contextWindowSensitivity": [
+      {
+        "neighborTurnsEachSide": 0,
+        "turnsSelected": 298,
+        "markersWithNoSelectedCitedTurn": 1,
+        "markersWithSomeCitedEvidenceOutsideSelection": 33
+      },
+      {
+        "neighborTurnsEachSide": 2,
+        "turnsSelected": 852,
+        "markersWithNoSelectedCitedTurn": 1,
+        "markersWithSomeCitedEvidenceOutsideSelection": 14
+      },
+      {
+        "neighborTurnsEachSide": 5,
+        "turnsSelected": 1143,
+        "markersWithNoSelectedCitedTurn": 0,
+        "markersWithSomeCitedEvidenceOutsideSelection": 6
+      }
+    ]
+  },
+  {
+    "session": 39,
+    "turns": 1648,
+    "candidateTurns": 155,
+    "nonCandidateTurnsRead": 1493,
+    "scope": "Coverage of cited evidence by frozen keyword filter, NOT extraction precision/recall or a controlled independent A/B test",
+    "time": [
+      {
+        "id": "t01",
+        "reading": "Opening narrates drifting to sleep, full moon, then waking pre-dawn with long-rest recovery. Treat as boundary prologue to the current day, while retaining the literal overnight in transcript coverage.",
+        "citedTurnIndexes": [
+          1
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t02",
+        "reading": "August 1 transformation/ritual discussed as future risk, not today’s date.",
+        "citedTurnIndexes": [
+          15,
+          297
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          297
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t03",
+        "reading": "Kassi’s research needs a few days, probably tomorrow; no wait completed here.",
+        "citedTurnIndexes": [
+          63
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t04",
+        "reading": "Werewolf lair checked while still dark; guards report quiet night.",
+        "citedTurnIndexes": [
+          68
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t05",
+        "reading": "Sunday/two weeks ago/the 27th concern game scheduling and a player’s COVID test, not in-world chronology.",
+        "citedTurnIndexes": [
+          140,
+          141,
+          143,
+          144
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          141,
+          144
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t06",
+        "reading": "Proposed archive retrieval is removed by agreement that party kept the map; no archive travel duration should be added.",
+        "citedTurnIndexes": [
+          183,
+          186,
+          187,
+          196
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          183,
+          186,
+          187,
+          196
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "t07",
+        "reading": "Enter tunnels as sun begins to rise, emerge at dawn; then two narrated legs of roughly an hour each toward fort. Approximately two hours travel after tunnel exit.",
+        "citedTurnIndexes": [
+          212
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t08",
+        "reading": "Trail is at least 2–3 days old; age of tracks, not current elapsed time.",
+        "citedTurnIndexes": [
+          222,
+          224
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t09",
+        "reading": "Clairvoyance used at half-mile approach; observed behavior continues for a few minutes. Full ten-minute spell duration is not explicitly completed.",
+        "citedTurnIndexes": [
+          328,
+          331
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          328
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t10",
+        "reading": "10–20 minutes required for structural inspection is an option, not an investigation that is subsequently performed.",
+        "citedTurnIndexes": [
+          361,
+          363
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t11",
+        "reading": "Continuous initiative encounter, including chase around tower and mist rescue. No explicit complete round tally / elapsed duration asserted; do not turn lengthy table discussion into hours.",
+        "citedTurnIndexes": [
+          442,
+          1139
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1139
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t12",
+        "reading": "“Twice in one day” corrected: previous fog incident was yesterday / last night. Confirms separation from opening current day.",
+        "citedTurnIndexes": [
+          1131,
+          1132
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t13",
+        "reading": "Captive has been at tower a week, with alternating week-long watches from Tokra; reported history, not party travel.",
+        "citedTurnIndexes": [
+          1182,
+          1183,
+          1185
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1182,
+          1185
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t14",
+        "reading": "Female captive infected a few months ago; approached about a month after attack. Approximate personal history.",
+        "citedTurnIndexes": [
+          1190,
+          1194
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t15",
+        "reading": "Return to tunnels would take another couple hours; party instead stops nearby to interrogate now. Later compressed town return has no newly narrated duration.",
+        "citedTurnIndexes": [
+          1272,
+          1273,
+          1275,
+          1277,
+          1278,
+          1279
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1272,
+          1273,
+          1277,
+          1278
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t16",
+        "reading": "Accepted short rest during interrogation: DM explicitly directs it and recovery follows. One hour is the short-rest convention; interrogation overlaps.",
+        "citedTurnIndexes": [
+          1289,
+          1290,
+          1304,
+          1310
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1290,
+          1310
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t17",
+        "reading": "Male captive gives approximate multiyear story: leader arrived ~10 years ago; scepter found 5–6 years later; leader returned ~7 months after leaving, perhaps 2 years ago; crossing ordered ~4 months ago. Preserve rough / potentially inconsistent intervals, without calendarizing them.",
+        "citedTurnIndexes": [
+          1375,
+          1377
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1375
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t18",
+        "reading": "11:45, another 45 minutes, and 15-minute wrap-up are real-world session scheduling; midnight/6 a.m. refer to player’s sleepover.",
+        "citedTurnIndexes": [
+          1453,
+          1456,
+          1458
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t19",
+        "reading": "Group agrees to hand-wave going back to town. No overnight or exact arrival clock narrated.",
+        "citedTurnIndexes": [
+          1556,
+          1557,
+          1558
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1556,
+          1557,
+          1558
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "t20",
+        "reading": "Closing long-rest suggestion replaced by short rest / hit dice and same-day travel goal. No completed second long rest.",
+        "citedTurnIndexes": [
+          1559,
+          1560,
+          1561,
+          1562
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1562
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t21",
+        "reading": "Closing short-rest recovery and hit dice occur, but may restate prior short rest or be another rest in town. Preserve both readings; do not automatically sum two hours.",
+        "citedTurnIndexes": [
+          1561,
+          1589,
+          1615,
+          1616
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1589,
+          1615,
+          1616
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "t22",
+        "reading": "Goal to travel north today/by nightfall; next session starts on road north. Laka tower detour estimated two or three days, not completed.",
+        "citedTurnIndexes": [
+          1561,
+          1621,
+          1627,
+          1629
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      }
+    ],
+    "location": [
+      {
+        "id": "l01",
+        "reading": "Party wakes at unnamed inn in Tokra; opening sleep is previous-night framing.",
+        "citedTurnIndexes": [
+          1,
+          43
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          43
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l02",
+        "reading": "Party approaches and checks city-side werewolf lair, finding two palace temple guards in first room; despite initial intention, this is not outside tunnel exit.",
+        "citedTurnIndexes": [
+          65,
+          68,
+          172
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          65,
+          172
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l03",
+        "reading": "Two guards keep watch in lair’s first room; reported scavengers not identifiable visitors.",
+        "citedTurnIndexes": [
+          68,
+          71
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          71
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l04",
+        "reading": "Archive retrieval considered then canceled by agreement that party retained map. No completed visit.",
+        "citedTurnIndexes": [
+          168,
+          183,
+          186,
+          187,
+          196
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          168,
+          183,
+          186,
+          187,
+          196
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "l05",
+        "reading": "Descend lair basement and travel through secret tunnel, emerging in hollow outside walls at dawn. Initial archive detour removed.",
+        "citedTurnIndexes": [
+          181,
+          182,
+          212
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          182
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l06",
+        "reading": "Follow old trail north roughly 5–6 miles over two narrated legs, stopping about half a mile south of fort summit.",
+        "citedTurnIndexes": [
+          212
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l07",
+        "reading": "Seeker clairvoyantly observes three people in standing tower; party remains half a mile away. Tentative roofless description corrected to makeshift roof over observed chamber.",
+        "citedTurnIndexes": [
+          246,
+          328,
+          329,
+          368
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          246,
+          328,
+          368
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l08",
+        "reading": "Party advances to within about 50 feet, is heard, runs to tower opening and begins encounter.",
+        "citedTurnIndexes": [
+          393,
+          429,
+          432,
+          433,
+          442
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          429,
+          432,
+          433
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l09",
+        "reading": "Two werewolves and bound man occupy tower camp; bound man dies there and creature manifests.",
+        "citedTurnIndexes": [
+          593,
+          611,
+          620
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          593,
+          611,
+          620
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "l10",
+        "reading": "Male werewolf flees around back of tower; Kenzo follows and knocks him unconscious. This is a local pursuit, not a party journey away.",
+        "citedTurnIndexes": [
+          657,
+          658,
+          672,
+          676
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          657,
+          658,
+          672,
+          676
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "l11",
+        "reading": "Kenzo dashes back around tower to assist companions.",
+        "citedTurnIndexes": [
+          779,
+          780,
+          783
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          780,
+          783
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l12",
+        "reading": "Large shadow creature emerges from mist toward combat at tower entrance area.",
+        "citedTurnIndexes": [
+          718,
+          721,
+          761
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          718,
+          721,
+          761
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "l13",
+        "reading": "Riswynn physically enters mist to pursue creature; compelled deeper. No evidence she crosses fissure or enters Pandemonium.",
+        "citedTurnIndexes": [
+          1030,
+          1035,
+          1037
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l14",
+        "reading": "Rope rescue breaks compulsion; Riswynn pulls herself out of mist. Earlier “vanished” revised to near edge / lightly obscured, so no invented deep endpoint.",
+        "citedTurnIndexes": [
+          1061,
+          1102,
+          1130
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1061,
+          1102
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l15",
+        "reading": "After fight, unconscious male is dragged from behind tower to camp.",
+        "citedTurnIndexes": [
+          1139,
+          1140
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1139
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l16",
+        "reading": "Female captive says she lived in refugee camps by river outside town after arriving from east. Historical whereabouts, not current party visit.",
+        "citedTurnIndexes": [
+          1192
+        ],
+        "nonCandidateCitedTurnIndexes": [],
+        "allCitedTurnsMatched": true,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l17",
+        "reading": "Leave tower with two prisoners and stop away from hill for interrogation. Intended half-mile retreat is not a measured distance; decide against full tunnel return yet.",
+        "citedTurnIndexes": [
+          1231,
+          1272,
+          1273,
+          1275,
+          1277,
+          1279
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1272,
+          1273,
+          1277
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l18",
+        "reading": "Rest and interrogate captives at stop; both remain here through extended historical account.",
+        "citedTurnIndexes": [
+          1304,
+          1312
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1312
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l19",
+        "reading": "Male captive describes past pack life in Kharsan, then westward movement and arrival among Tokra refugees. Unspecified intermediate places stay unknown.",
+        "citedTurnIndexes": [
+          1372,
+          1377,
+          1379
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1372
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l20",
+        "reading": "Agreed hand-wave returns party and prisoners to town. No exact route, arrival building, cure completion, or handover scene is narrated.",
+        "citedTurnIndexes": [
+          1553,
+          1556,
+          1557,
+          1558
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1553,
+          1556,
+          1557,
+          1558
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "l21",
+        "reading": "Riswynn will remain in Tokra with dwarf friend, cure woman, and deliver male to Kaleha. These are wrap-up commitments; exact completed handover/cure not narrated.",
+        "citedTurnIndexes": [
+          1553,
+          1555,
+          1565,
+          1567
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          1553,
+          1555,
+          1565,
+          1567
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": false
+      },
+      {
+        "id": "l22",
+        "reading": "Four core companions intend northbound departure toward Saka, with next session starting on road. No arrival at Saka or monks’ tower.",
+        "citedTurnIndexes": [
+          268,
+          1621,
+          1627,
+          1629
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          268
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l23",
+        "reading": "Laka monks associated with a separate tower on possible future detour; distinct from current fort and not visited.",
+        "citedTurnIndexes": [
+          272,
+          273,
+          274,
+          275,
+          1627
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          272,
+          273,
+          274,
+          275
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      },
+      {
+        "id": "l24",
+        "reading": "Shadow creature retreats from tower combat into mist, becoming heavily obscured.",
+        "citedTurnIndexes": [
+          994,
+          998
+        ],
+        "nonCandidateCitedTurnIndexes": [
+          994
+        ],
+        "allCitedTurnsMatched": false,
+        "anyCitedTurnMatched": true
+      }
+    ],
+    "timeSummary": {
+      "markers": 22,
+      "markersWithNonCandidateEvidence": 12,
+      "markersWithNoCandidateEvidence": 2
+    },
+    "locationSummary": {
+      "markers": 24,
+      "markersWithNonCandidateEvidence": 21,
+      "markersWithNoCandidateEvidence": 6
+    },
+    "contextWindowSensitivity": [
+      {
+        "neighborTurnsEachSide": 0,
+        "turnsSelected": 155,
+        "markersWithNoSelectedCitedTurn": 8,
+        "markersWithSomeCitedEvidenceOutsideSelection": 33
+      },
+      {
+        "neighborTurnsEachSide": 2,
+        "turnsSelected": 568,
+        "markersWithNoSelectedCitedTurn": 0,
+        "markersWithSomeCitedEvidenceOutsideSelection": 18
+      },
+      {
+        "neighborTurnsEachSide": 5,
+        "turnsSelected": 930,
+        "markersWithNoSelectedCitedTurn": 0,
+        "markersWithSomeCitedEvidenceOutsideSelection": 10
+      }
+    ]
+  }
+]

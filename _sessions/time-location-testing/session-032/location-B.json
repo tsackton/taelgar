@@ -1,0 +1,557 @@
+{
+  "schemaVersion": "0.1-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:032",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-session.yaml",
+    "sessionYamlSha256": "ef29164de8ff2a3ebd2a077ac85e6d0e4f3378b7a0896925a52dd1bd7977b2cd",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-transcript.md",
+    "transcriptSha256": "db1fb31e6220b80b5320ba1d00502c4c1324ed77400ebf863415ab5856a04636",
+    "transcriptStatus": "complete",
+    "yamlDates": {
+      "start": "1748-06-09",
+      "end": "1748-06-20"
+    }
+  },
+  "review": {
+    "status": "pilot-human-unreviewed",
+    "method": "Ordered candidate sweep of all polished turns; expanded full-turn context at selected decisions; supplementary numeric-clock/spatial sweep; focused semantic review; deterministic provenance checks.",
+    "limitation": "Not an independent exhaustive semantic audit of every turn. Recall not measured. Source transcription uncertainty retained."
+  },
+  "summary": "A non-linear downtime session followed by a two-day festival and next-morning departure. Relative order is much stronger than civil dates.",
+  "issues": [
+    "Transcript order is not chronological: initiation appears before earlier mirror conversations.",
+    "No spoken civil date independently confirms June 9 or June 20. Do not date opening initiation as June 9 simply because it appears first.",
+    "Feast of Bhishma reference note has an unresolved June 17/18 calendar conflict; its date is not used as an independent anchor.",
+    "Dream and mirror locations are retained as observations, excluded from physical travel."
+  ],
+  "model": "location-B-place-visit-route-graph",
+  "places": [
+    {
+      "id": "karawa",
+      "label": "Karawa",
+      "kind": "settlement",
+      "parentId": null,
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+      "parentRelation": null,
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l09",
+        "l10",
+        "l13",
+        "l14"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "temple",
+      "label": "Temple of Shakun",
+      "kind": "building",
+      "parentId": "karawa",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "parentRelation": "within",
+      "identityStatus": "vault_match",
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "pool",
+      "label": "Underground initiation chamber / glowing pool",
+      "kind": "room",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l01",
+        "l03"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "mirror-gathering",
+      "label": "Unspecified gathering place in Karawa",
+      "kind": "site",
+      "parentId": "karawa",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l05"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "breakfast",
+      "label": "Breakfast gathering, exact site unspecified",
+      "kind": "site",
+      "parentId": "karawa",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l07",
+        "l08"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "council",
+      "label": "Temple conference room",
+      "kind": "room",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "oasis",
+      "label": "Oasis / temple steps assembly",
+      "kind": "site",
+      "parentId": "karawa",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l11"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "candrosa",
+      "label": "Candrosa farewell location; subsite unstated",
+      "kind": "site",
+      "parentId": "karawa",
+      "vaultPath": null,
+      "parentRelation": "within",
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l12"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "visions",
+      "label": "Ritual panorama of Dunmar and ancient landscapes",
+      "kind": "vision",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l02"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "dream",
+      "label": "Kenzo–Rai dream encounter",
+      "kind": "vision",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l04"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "hut",
+      "label": "Agata’s hut viewed historically in mirror",
+      "kind": "remote_view",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l06"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "north",
+      "label": "Northbound road toward Drikod’s mountains",
+      "kind": "route_endpoint",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l14"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    },
+    {
+      "id": "west",
+      "label": "Westbound road toward Tokra",
+      "kind": "route_endpoint",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null,
+      "identityStatus": "local_transcript_label",
+      "evidenceMarkerIds": [
+        "l13"
+      ],
+      "hierarchyBasis": "transcript spatial context; named vault match where supplied"
+    }
+  ],
+  "visits": [
+    {
+      "id": "v-l01",
+      "placeId": "pool",
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "frame": "flashback",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Candrosa takes Kenzo and Drikod down through the temple into the underground chamber.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l03",
+      "placeId": "pool",
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "frame": "flashback",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l03"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Eyes open again in the pool; physical location stayed in the chamber.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l05",
+      "placeId": "mirror-gathering",
+      "actors": [
+        "party"
+      ],
+      "frame": "flashback",
+      "timeNodeIds": [
+        "n0"
+      ],
+      "evidenceMarkerIds": [
+        "l05"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Earlier gathering around the mirror in Karawa; room not identified. Wellby joins by the lantern vision.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l07",
+      "placeId": "breakfast",
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Drikod",
+        "Wellby"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l07"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Breakfast in Karawa on festival morning; no specified room.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l08",
+      "placeId": "breakfast",
+      "actors": [
+        "Delwath"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l08"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Delwath walks back into Karawa from the desert and joins the group; only his movement is attested.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l09",
+      "placeId": "karawa",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "evidenceMarkerIds": [
+        "l09"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Festival activities in Karawa; avoid inventing an exact feast venue.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l10",
+      "placeId": "council",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "see source marker",
+      "statement": "Arrival via narrated journey: Messenger leads party to Sura in the temple conference room.",
+      "occupancyExtent": "arrival only; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l11",
+      "placeId": "oasis",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l11"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Sura addresses the assembly at temple steps by the oasis.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    },
+    {
+      "id": "v-l12",
+      "placeId": "candrosa",
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l12"
+      ],
+      "concurrencyGroup": null,
+      "confidence": "high",
+      "statement": "Party slips out to say goodbye to Candrosa; exact room not stated.",
+      "occupancyExtent": "attested at marker; no exhaustive UID occupancy implied"
+    }
+  ],
+  "journeys": [
+    {
+      "id": "r-l01",
+      "fromPlaceId": "temple",
+      "toPlaceId": "pool",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "frame": "flashback",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n1"
+      ],
+      "evidenceMarkerIds": [
+        "l01"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Candrosa takes Kenzo and Drikod down through the temple into the underground chamber."
+    },
+    {
+      "id": "r-l10",
+      "fromPlaceId": "karawa",
+      "toPlaceId": "council",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "party"
+      ],
+      "frame": "current",
+      "completion": "narrated",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "evidenceMarkerIds": [
+        "l10"
+      ],
+      "concurrencyGroup": null,
+      "geometry": null,
+      "statement": "Messenger leads party to Sura in the temple conference room."
+    },
+    {
+      "id": "r-l13",
+      "fromPlaceId": "karawa",
+      "toPlaceId": "west",
+      "viaPlaceIds": [],
+      "mode": "ride",
+      "vehicleId": null,
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby"
+      ],
+      "frame": "current",
+      "completion": "begun",
+      "timeNodeIds": [
+        "n4"
+      ],
+      "evidenceMarkerIds": [
+        "l13"
+      ],
+      "concurrencyGroup": "departure",
+      "geometry": null,
+      "statement": "Departure toward Tokra is begun, not completed in this transcript."
+    },
+    {
+      "id": "r-l14",
+      "fromPlaceId": "karawa",
+      "toPlaceId": "north",
+      "viaPlaceIds": [],
+      "mode": "walk",
+      "vehicleId": null,
+      "actors": [
+        "Drikod"
+      ],
+      "frame": "current",
+      "completion": "begun",
+      "timeNodeIds": [
+        "n4"
+      ],
+      "evidenceMarkerIds": [
+        "l14"
+      ],
+      "concurrencyGroup": "departure",
+      "geometry": null,
+      "statement": "Drikod departs north separately; no mountain arrival is shown."
+    }
+  ],
+  "observations": [
+    {
+      "id": "l02",
+      "kind": "remote_observation",
+      "frame": "vision",
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "reading": "Ritual vision flies across Dunmar and its past; no physical itinerary or new overnight.",
+      "placeId": "visions",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0067",
+          "endUid": "u0075",
+          "quote": "You're, you're flying over the land of Dunmar"
+        },
+        {
+          "startUid": "u0077",
+          "endUid": "u0087",
+          "quote": "Look to the past."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l04",
+      "kind": "remote_observation",
+      "frame": "vision",
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo continues a dream conversation with Rai across uncertain time.",
+      "placeId": "dream",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0479",
+          "endUid": "u0482",
+          "quote": "we left off when I directly asked Rai"
+        },
+        {
+          "startUid": "u0566",
+          "endUid": "u0570",
+          "quote": "Hmm. Well, he is with me at the moment. But again, we speak across I do not even know how many years."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "kind": "remote_observation",
+      "frame": "vision",
+      "actors": [
+        "party"
+      ],
+      "reading": "Mirror shows earlier events inside Agata’s hut, not a new journey there.",
+      "placeId": "hut",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u2227",
+          "endUid": "u2242",
+          "quote": "the interior of Agata's hut"
+        }
+      ],
+      "timeNodeIds": [
+        "n0"
+      ]
+    }
+  ],
+  "plannedMovements": [],
+  "spatialRelations": [],
+  "evidenceLedger": "location-A.json",
+  "evidenceLedgerSha256": "a7c091ff20cc618443ca6f87b7807d36d4755d39c418080395a3f71fc25a148c",
+  "timeMap": "time-B.json",
+  "timeMapSha256": "b3a3b179dac850f7bf2eb1f6ac3d3182dc2449150136202c926ff0132e89dcce",
+  "notes": [
+    "Local place IDs are session-scoped. A vault link is an identity match, not proof of a visit.",
+    "Routes express topology and direction; geometry remains null. A place mentioned in a vision is not physical presence.",
+    "Visit markers do not assign every transcript line or every speaker to a place. No NPC whereabouts are automatically published.",
+    "parentRelation distinguishes containment, adjacency, approach, and inferred shared base; inspect its evidence before aggregating presence."
+  ]
+}
