@@ -1,0 +1,40 @@
+{
+  "status": "passed",
+  "sessions": [
+    {
+      "session": 24,
+      "timeMarkers": 31,
+      "locationMarkers": 30,
+      "places": 25,
+      "evidenceRefs": 178,
+      "sourceHashMatches": true,
+      "yamlHashMatches": true,
+      "fullReadTurns": 1320
+    },
+    {
+      "session": 39,
+      "timeMarkers": 22,
+      "locationMarkers": 24,
+      "places": 19,
+      "evidenceRefs": 149,
+      "sourceHashMatches": true,
+      "yamlHashMatches": true,
+      "fullReadTurns": 1648
+    }
+  ],
+  "checks": [
+    "all turns covered once in full-read windows",
+    "source and YAML hashes unchanged",
+    "quotes exact and evidence aligned to complete polished turns",
+    "unique IDs, valid graph pointers, no parent cycles",
+    "YAML boundary arithmetic consistent with explicit scope",
+    "Session 24 two completed nights",
+    "Session 39 opening night preserved outside current span",
+    "canceled archives absent from visits",
+    "Riswynn mist entry preserved as physical visit",
+    "remote throne view and NPC presence do not become party visits",
+    "reported past route retained separately",
+    "future departures absent from physical routes"
+  ],
+  "limits": "No independent semantic ground truth; no claim of perfect recall or exact elapsed hours."
+}

@@ -1,0 +1,241 @@
+{
+  "schemaVersion": "0.2-full-read-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:039",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+    "sessionYamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "transcriptSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1748-07-03",
+      "end": "1748-07-03"
+    }
+  },
+  "review": {
+    "status": "full-read-pilot-human-unreviewed",
+    "method": "Assistant read every polished transcript turn sequentially without keyword/speaker filtering, then authored sparse markers and context exclusions; deterministic validation of provenance and references.",
+    "coverage": {
+      "turnCount": 1648,
+      "windowsRead": [
+        [
+          1,
+          280
+        ],
+        [
+          281,
+          560
+        ],
+        [
+          561,
+          840
+        ],
+        [
+          841,
+          1120
+        ],
+        [
+          1121,
+          1400
+        ],
+        [
+          1401,
+          1648
+        ]
+      ],
+      "complete": true,
+      "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+      "sourceSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+      "yamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+      "headerRead": true,
+      "parserBodyAccounting": "all non-whitespace body content accounted for",
+      "truncatedWindowsAccepted": false
+    },
+    "limitation": "Full reading is not an independent second annotator or a gold-standard recall measurement. Source transcription uncertainty retained."
+  },
+  "summary": "One current day near Tokra: pre-dawn lair check → tunnel → northern fort → tower fight and mist rescue → nearby interrogation/rest → compressed town return. Opening prior-night prologue and closing rest ambiguity remain explicit.",
+  "issues": [
+    "YAML July 3-only is compatible with wake-to-close action. Literal opening includes previous night: choose and document session-boundary semantics before flagging YAML mismatch.",
+    "One short rest is certain; closing recovery could repeat it or be a second rest. Do not sum blindly. No completed closing long rest.",
+    "Closing return to town is accepted compressed narration; cure, prisoner handover and northbound departure are intentions rather than individually played completions.",
+    "Archives detour canceled by explicit retained-map agreement; do not invent visit.",
+    "Riswynn enters mist physically during combat, but no planar crossing is supported. Tower with Laka monks is a different destination.",
+    "Chronology of reported werewolf history is approximate; do not resolve inconsistent year estimates by inventing dates.",
+    "Mode of outbound travel and horse placement are unclear; map gestures do not support exact coordinates or current whereabouts for mounts.",
+    "Local place labels only; no independent vault identity reconciliation or completeness gold standard."
+  ],
+  "model": "time-B-constraint-chronology",
+  "nodes": [
+    {
+      "id": "n0",
+      "label": "Opening night prologue",
+      "markerIds": [
+        "t01"
+      ],
+      "date": "1748-07-02",
+      "dateBasis": "conditional previous date if YAML day July 3 is waking day",
+      "timeOfDay": "night",
+      "frame": "opening_boundary",
+      "includeInCurrentSpan": false
+    },
+    {
+      "id": "n1",
+      "label": "Wake and lair check",
+      "markerIds": [
+        "t01",
+        "t04"
+      ],
+      "date": "1748-07-03",
+      "dateBasis": "YAML start only; no civil date spoken",
+      "timeOfDay": "pre-dawn"
+    },
+    {
+      "id": "n2",
+      "label": "Tunnel exit and northbound trail",
+      "markerIds": [
+        "t06",
+        "t07"
+      ],
+      "date": "1748-07-03",
+      "dateBasis": "conditional continuity from YAML start",
+      "timeOfDay": "dawn, then approximately two hours travel"
+    },
+    {
+      "id": "n3",
+      "label": "Fort scouting and confrontation",
+      "markerIds": [
+        "t09",
+        "t11"
+      ],
+      "date": "1748-07-03",
+      "dateBasis": "conditional continuity",
+      "timeOfDay": "morning; exact clock unknown"
+    },
+    {
+      "id": "n4",
+      "label": "Away from tower: rest and interrogation",
+      "markerIds": [
+        "t15",
+        "t16"
+      ],
+      "date": "1748-07-03",
+      "dateBasis": "conditional continuity",
+      "timeOfDay": "later same day; exact clock unknown"
+    },
+    {
+      "id": "n5",
+      "label": "Compressed return / departure setup",
+      "markerIds": [
+        "t19",
+        "t20",
+        "t21",
+        "t22"
+      ],
+      "date": "1748-07-03",
+      "dateBasis": "conditional same-day intent and no narrated overnight",
+      "timeOfDay": "clock unknown; by-nightfall arrival remains a goal"
+    }
+  ],
+  "constraints": [
+    {
+      "id": "c0",
+      "fromNode": "n0",
+      "toNode": "n1",
+      "relation": "opening_overnight_prologue",
+      "markerIds": [
+        "t01"
+      ],
+      "dateBoundaries": 1,
+      "includeInCurrentSpan": false,
+      "note": "Literal transcript includes a night; excludes it from wake-to-close current span. YAML boundary semantics need agreement."
+    },
+    {
+      "id": "c1",
+      "fromNode": "n1",
+      "toNode": "n2",
+      "relation": "dawn_then_travel",
+      "markerIds": [
+        "t04",
+        "t07"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "two approximate travel legs; excludes pre-departure and tunnel transit"
+      }
+    },
+    {
+      "id": "c2",
+      "fromNode": "n2",
+      "toNode": "n3",
+      "relation": "scout_and_combat",
+      "markerIds": [
+        "t09",
+        "t11"
+      ],
+      "dateBoundaries": 0,
+      "note": "Encounter duration not inferred from recording or token movements."
+    },
+    {
+      "id": "c3",
+      "fromNode": "n3",
+      "toNode": "n4",
+      "relation": "short_rest_with_interrogation",
+      "markerIds": [
+        "t16"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "short-rest convention; interrogation overlaps"
+      },
+      "dateBoundaries": 0
+    },
+    {
+      "id": "c4",
+      "fromNode": "n4",
+      "toNode": "n5",
+      "relation": "compressed_return_then_departure_setup",
+      "markerIds": [
+        "t15",
+        "t19",
+        "t20",
+        "t21",
+        "t22"
+      ],
+      "dateBoundaries": 0,
+      "note": "Return estimate is about two hours to tunnels, not an exact town arrival time. Closing rest may duplicate previous rest; no automatic extra hour."
+    }
+  ],
+  "yamlAudit": {
+    "assessment": "compatible_with_boundary_caveat",
+    "yamlExpectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "individuallyNarratedOvernights": 0,
+    "openingBoundaryOvernights": 1,
+    "literalNarrativeDateBoundariesIncludingOpening": 1,
+    "explanation": "Main action wakes pre-dawn, travels north, fights, interrogates/rests, and agrees a same-day return/departure setup. No subsequent overnight is completed. Opening prologue narrates the preceding sleep, so a literal first-narrated-instant audit would include one extra night. July 3 is YAML-only; boundary convention must be explicit.",
+    "proposedYamlChange": null
+  },
+  "evidenceLedger": "time-A.json",
+  "evidenceLedgerSha256": "e9d7c7babffeb6008237153a56e00884c7ccc95fb7b4b7a1a41bad098b6c4637",
+  "nonAdvancingInSourceOrder": [
+    "t01",
+    "t02",
+    "t03",
+    "t05",
+    "t08",
+    "t10",
+    "t12",
+    "t13",
+    "t14",
+    "t15",
+    "t17",
+    "t18",
+    "t20",
+    "t22"
+  ],
+  "contextSources": []
+}

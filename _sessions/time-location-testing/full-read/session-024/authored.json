@@ -1,0 +1,2359 @@
+{
+  "session": 24,
+  "timeMarkers": [
+    {
+      "id": "t01",
+      "kind": "recap",
+      "frame": "retrospective",
+      "actor": "party",
+      "reading": "Almost two months since Karawa meeting, about one month since Raven’s Hold, perhaps two weeks since leaving Karawa: recap, not session elapsed time.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "Okay, so. As we start tonight, it's almost two months since you met in Karawa on that fateful day of the hyena attack, about a month since you destroyed the demon in the fortress of Raven's Hold, and perhaps two weeks since you left the ruined town of Karawa to search the desert for information about orcs, gnolls, whatever else may be lurking in the depths of the Nashtkar, the blasted plains."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "kind": "time_of_day",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Opening leaves Hall of Stories near dusk.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0022",
+          "quote": "Now, as you leave the tower and the hall of stories, the sun is low on the horizon, casting the sandstone buildings of the monastery in a beautiful reddish golden light. As dusk approaches and the sounds of birds in the distance grows, the desert feels alive."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "kind": "countdown",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Sunset estimate revised from about 30 to about 40 minutes; temple approach takes 5–10 minutes within that countdown.",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0032",
+          "quote": "Heading over to the temple. So it's about maybe half an hour until sunset, um, maybe—maybe more like 40 minutes. And it takes you maybe five or 10 minutes to approach and start to look around the temple, so."
+        }
+      ],
+      "countGroup": "sunset-approach",
+      "duration": {
+        "min": 5,
+        "max": 10,
+        "unit": "minute",
+        "precision": "approximate approach only"
+      }
+    },
+    {
+      "id": "t04",
+      "kind": "offered_rest",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Short rest offered but not taken: potions used instead and Kenzo later confirms no rest yet.",
+      "evidence": [
+        {
+          "startUid": "u0105",
+          "endUid": "u0106",
+          "quote": "You can take your short rest if you want. It'll be—it'll be past dark when—by the time you're done."
+        },
+        {
+          "startUid": "u0111",
+          "endUid": "u0111",
+          "quote": "Order. Um, it might be more prudent to make use of the potions or healing mud."
+        },
+        {
+          "startUid": "u0717",
+          "endUid": "u0719",
+          "quote": "They didn't look too strong. I think we could have taken them if we could hit them or fight them, which I don't know if we could have. And I was remembering that I almost died—or I did die, actually—a few hours ago, and haven't still had a chance to rest so. Wellby, perhaps your prudence is rubbing off on me in unusual ways. Your sudden prudence."
+        }
+      ],
+      "completion": "not_taken"
+    },
+    {
+      "id": "t05",
+      "kind": "ritual",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Ten-minute preparation accepted, then Fey Sight result narrated. Detect Good and Evil is cast afterward.",
+      "evidence": [
+        {
+          "startUid": "u0182",
+          "endUid": "u0182",
+          "quote": "So you're gonna take 10 minutes for that?"
+        },
+        {
+          "startUid": "u0183",
+          "endUid": "u0183",
+          "quote": "Yeah, I mean, before we go in, I think we get caught in it. Yep."
+        },
+        {
+          "startUid": "u0206",
+          "endUid": "u0206",
+          "quote": "So I presume you do that after Delwath does—"
+        },
+        {
+          "startUid": "u0207",
+          "endUid": "u0207",
+          "quote": "Yeah, Fey Sight."
+        },
+        {
+          "startUid": "u0216",
+          "endUid": "u0220",
+          "quote": "Okay, so you don't see anything, Delwath. You see nothing with Fey Sight in your immediate vicinity, um, as you go in to the—into this first entry way. So your Detect Good and Evil is still running, and if you sense—you don't sense anything within 30 feet, so in this first first entry chapel."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "stated"
+      },
+      "countGroup": "sunset-approach"
+    },
+    {
+      "id": "t06",
+      "kind": "countdown",
+      "frame": "current",
+      "actor": "party",
+      "reading": "About 15–20 minutes until sunset on entering the main temple.",
+      "evidence": [
+        {
+          "startUid": "u0326",
+          "endUid": "u0336",
+          "quote": "setting in maybe 15 or 20 minutes."
+        }
+      ],
+      "countGroup": "sunset-approach"
+    },
+    {
+      "id": "t07",
+      "kind": "spell_expiry",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Detect Good and Evil is fading after its stated ten-minute duration; overlaps temple exploration, not an additional interval.",
+      "evidence": [
+        {
+          "startUid": "u0204",
+          "endUid": "u0204",
+          "quote": "Last for 10 minutes, so it lasts as you—"
+        },
+        {
+          "startUid": "u0351",
+          "endUid": "u0351",
+          "quote": "Yes, you sense the same about just as your spell is fading, about 25–30 feet to the left, beyond the edge of the of the temple, of this open chamber, but probably lurking in the hallway."
+        }
+      ],
+      "countGroup": "sunset-approach"
+    },
+    {
+      "id": "t08",
+      "kind": "countdown",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Ten minutes to sunset. Unit and event are in the question; the DM answer is only “Hmm, ten.”",
+      "evidence": [
+        {
+          "startUid": "u0671",
+          "endUid": "u0671",
+          "quote": "How much more—how many more minutes do we have before the sun goes down?"
+        },
+        {
+          "startUid": "u0672",
+          "endUid": "u0672",
+          "quote": "Hmm, ten."
+        }
+      ],
+      "countGroup": "sunset-approach"
+    },
+    {
+      "id": "t09",
+      "kind": "time_of_day",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Retreat occurs as light falls below window; camp reached in sunset afterglow and evening.",
+      "evidence": [
+        {
+          "startUid": "u0705",
+          "endUid": "u0710",
+          "quote": "No, you don't see anything following them. It's—I mean, you see the light of the light of Kenzo’s drift globe it's kind of—it's, you know, now with the sun below the lip of the—lip of the window, um there's you know everything sort of cast in twilight except for the for the drift globe, um, you know, lighting up this this 20 foot, just moves, with nobody holding it, but you figure Kenzo must be Kenzo."
+        },
+        {
+          "startUid": "u0767",
+          "endUid": "u0778",
+          "quote": "So in the twilight of... the... still... the western horizon still with that sort of afterglow of the sunset, the reds and oranges across the sky lighting your path past the manticores and dead orcs and back down to the river, and then past the bathhouse where the orc survivor is locked, to the dry riverbed, and then turning south to come back to your camp. You find your camp, thankfully, undisturbed."
+        },
+        {
+          "startUid": "u0779",
+          "endUid": "u0784",
+          "quote": "Baxter is very pleased to see you and rushes up as you approach. And the horses are sort of milling about; your supplies are intact. With it cooling off it's actually a—and now out of the perhaps somewhat spooky temple of shadows, it's actually a fairly pleasant evening as you settle in to your evening meal and rest."
+        }
+      ],
+      "countGroup": "sunset-approach"
+    },
+    {
+      "id": "t10",
+      "kind": "rest",
+      "frame": "current",
+      "actor": "party",
+      "reading": "First long rest: evening camp, watch changes, then dawn. One completed overnight.",
+      "evidence": [
+        {
+          "startUid": "u0815",
+          "endUid": "u0815",
+          "quote": "And long rest."
+        },
+        {
+          "startUid": "u0836",
+          "endUid": "u0838",
+          "quote": "The first chunk and then go to sleep it. Yeah, 2 am yeah, yeah. Okay."
+        },
+        {
+          "startUid": "u0880",
+          "endUid": "u0884",
+          "quote": "I give Wellby a gentle pat on the shoulder. ‘Hey. It’s all been quiet on my watch. But Delwath said he saw something, so keep your eyes open. I'm going back to sleep.’"
+        },
+        {
+          "startUid": "u0889",
+          "endUid": "u0895",
+          "quote": "So as dawn comes and everybody wakes, camp is undisturbed. The morning quiet. Birds—sound of birds and and insects loudest at dawn and dusk, as the most activity in the desert is then. You settle in for quick breakfast and plans for the day."
+        }
+      ],
+      "durationConvention": {
+        "minutes": 480,
+        "application": "long-rest convention only; do not equate exact night length with 8h"
+      }
+    },
+    {
+      "id": "t11",
+      "kind": "elapsed",
+      "frame": "current",
+      "actor": "Wellby",
+      "reading": "Early-morning Wellby scout: about 20 minutes searching up the riverbed to monastery.",
+      "evidence": [
+        {
+          "startUid": "u1164",
+          "endUid": "u1167",
+          "quote": "So you set out in the early morning desert light, um. You don't really find much along the river bed. Takes you maybe 20 minutes of searching to get up to where the monastery is, and you start to head up the up the path from the river to the monastery itself and the first thing you immediately notice as you approach the—the sort of bathhouse area is the bodies of the manticores are lying there, but the orcs are gone. There's no orc bodies."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate"
+      },
+      "countGroup": "wellby-scout"
+    },
+    {
+      "id": "t12",
+      "kind": "retcon",
+      "frame": "current",
+      "actor": "Wellby",
+      "reading": "Wellby initially returns, then explicitly retcons observations into that same scouting trip. Final return follows the additional search.",
+      "evidence": [
+        {
+          "startUid": "u1176",
+          "endUid": "u1180",
+          "quote": "I will stop my search and move with all deliberate speed back to camp. Hey guys, we’re fun. Do you remember all the orcs that we killed yesterday? Yeah, none of them are there anymore. And someone took the bar off the bathhouse from the outside, and there's no orc inside the bathhouse either."
+        },
+        {
+          "startUid": "u1182",
+          "endUid": "u1183",
+          "quote": "And in fact, actually, wait, Tim, kind of retcon, because I feel it the same thing. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?"
+        },
+        {
+          "startUid": "u1205",
+          "endUid": "u1206",
+          "quote": "Okay, can I also just check all the other buildings that are up here at the monastery? Like, poke my head—not like people camped out in these other buildings or something, is there?"
+        },
+        {
+          "startUid": "u1210",
+          "endUid": "u1210",
+          "quote": "Takes you about 15 minutes to do that."
+        },
+        {
+          "startUid": "u1211",
+          "endUid": "u1213",
+          "quote": "Okay, I'm gonna hustle back down. Okay, share the news. And the orcs are looking for us, yeah."
+        }
+      ],
+      "countGroup": "wellby-scout"
+    },
+    {
+      "id": "t13",
+      "kind": "elapsed",
+      "frame": "current",
+      "actor": "Wellby",
+      "reading": "About 15 minutes to check remaining monastery buildings; part of the retconned scouting visit.",
+      "evidence": [
+        {
+          "startUid": "u1205",
+          "endUid": "u1206",
+          "quote": "Okay, can I also just check all the other buildings that are up here at the monastery? Like, poke my head—not like people camped out in these other buildings or something, is there?"
+        },
+        {
+          "startUid": "u1207",
+          "endUid": "u1208",
+          "quote": "No. None of the other built—all the buildings are unchanged."
+        },
+        {
+          "startUid": "u1210",
+          "endUid": "u1210",
+          "quote": "Takes you about 15 minutes to do that."
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate"
+      },
+      "countGroup": "wellby-scout"
+    },
+    {
+      "id": "t14",
+      "kind": "forecast",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Orc approach countdowns (30–40 minutes, later 15, then 10 to monastery / roughly 30 to camp) are estimates; not three additive elapsed intervals.",
+      "evidence": [
+        {
+          "startUid": "u1199",
+          "endUid": "u1201",
+          "quote": "Yeah, I mean, they're moving slowly, but, moving slowly don't have more than—than like 30–40 minutes until they're at the monastery."
+        },
+        {
+          "startUid": "u1444",
+          "endUid": "u1444",
+          "quote": "You probably have about 15 minutes until they get to the monastery, and—"
+        },
+        {
+          "startUid": "u1556",
+          "endUid": "u1559",
+          "quote": "Still have about 10 minutes till the orcs are likely at the monastery. And after that, you're about a mile south, so even if they discover that you're gone from the monastery and sprint in this direction, you still have like say, 30 minutes before they’ll be at camp."
+        }
+      ],
+      "countGroup": "orc-approach"
+    },
+    {
+      "id": "t15",
+      "kind": "overlap",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Packing happened during discussion; DM accepts the correction. Do not add a new packing interval.",
+      "evidence": [
+        {
+          "startUid": "u1549",
+          "endUid": "u1551",
+          "quote": "No, just say you're gonna like pack up your camp, load everything onto the horses, which is probably going to take you some time."
+        },
+        {
+          "startUid": "u1552",
+          "endUid": "u1552",
+          "quote": "Well, no, we were all we were packed out this whole time as we were talking."
+        },
+        {
+          "startUid": "u1553",
+          "endUid": "u1553",
+          "quote": "While you’re talking, you are packing out."
+        }
+      ],
+      "countGroup": "morning-planning"
+    },
+    {
+      "id": "t16",
+      "kind": "clock",
+      "frame": "current",
+      "actor": "party",
+      "reading": "After riding south through the heat, reach end of cliffs about 3 p.m.; then turn west/north-northwest and ride until sunset.",
+      "evidence": [
+        {
+          "startUid": "u1589",
+          "endUid": "u1602",
+          "quote": "But traveling hard, pushing through the the heat of the day, by about, say, 3 pm like late mid-afternoon, you've come to the come far enough south that the—that the cliffs have dropped down, and and there's just the sort of flat expanse of of rocky desert to your west. If there is any pursuit, you've not seen signs of that, or you've left them so far behind that they are—not that they're not visible to you. And you turn to the west. Ah, heading sort of north-northwest a little bit, away from the riverbed and into the, sort of more rocky, cliff-like area of the desert. And as sun sets, do you want to make camp or keep going into the night?"
+        }
+      ],
+      "clock": "15:00",
+      "precision": "approximate",
+      "countGroup": "day2-ride"
+    },
+    {
+      "id": "t17",
+      "kind": "elapsed",
+      "frame": "current",
+      "actor": "party",
+      "reading": "About one extra hour riding past sunset, about five more miles north, then camp.",
+      "evidence": [
+        {
+          "startUid": "u1618",
+          "endUid": "u1624",
+          "quote": "Wellby and and Delwath are fine, but Kenzo and Seeker, the heat, not being used to the heat or the hard riding—this, you know, one—one—an extra hour or so of traveling, getting about another say let's say, five miles north, has just wiped you out. At the moment, you both have one level of exhaustion. You—you can keep pushing if you want, but if you fail another Constitution check, then you will be—you won't be able to recover fully in one night sleep."
+        },
+        {
+          "startUid": "u1625",
+          "endUid": "u1628",
+          "quote": "At the moment, you're maybe maybe 10 miles south of the—10 miles south of the road and about three miles. Three four miles west of the river."
+        },
+        {
+          "startUid": "u1629",
+          "endUid": "u1629",
+          "quote": "I think we can camp here."
+        },
+        {
+          "startUid": "u1635",
+          "endUid": "u1637",
+          "quote": "So you set camp, presume presumably quiet, hidden as best you can. And, yes."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate"
+      },
+      "countGroup": "day2-ride"
+    },
+    {
+      "id": "t18",
+      "kind": "planned_clock",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Suggested departure 7 a.m. and bridge by 11 are plans; later actual wake is before 5 a.m.",
+      "evidence": [
+        {
+          "startUid": "u1631",
+          "endUid": "u1633",
+          "quote": "Get up early, just before dawn. We should be able to cover 10—I mean, if we can cover five miles an hour, we could be—we break camp at 7 am, we could be at the bridge by eleven easily."
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "kind": "rest",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Second night includes Seeker’s roughly 3 a.m. watch; everyone wakes shortly before 5 a.m. and receives a long rest.",
+      "evidence": [
+        {
+          "startUid": "u1642",
+          "endUid": "u1647",
+          "quote": "Seeker is very tired. Yep, um, given your exhaustion you've you've... Delwath, you hear nothing or see nothing during your watch but the desert animals, um. You know, as the sun—you've ridden past sunset into twilight. By the time, you know, everybody's asleep and you're watching, it's—it started to get quiet, but you hear the occasional like hoot of an owl, see a small desert mouse scurrying across the camp."
+        },
+        {
+          "startUid": "u1648",
+          "endUid": "u1652",
+          "quote": "As you wake Seeker in the middle of the night, he... Seeker, you can barely keep your eyes open and find yourself dozing off a couple of times, snapping awake at like, you know, 3am, realizing you were—you have to wake up now, but not really having paid much attention during your watch. Wellby, your watch is also quiet and non-eventful."
+        },
+        {
+          "startUid": "u1653",
+          "endUid": "u1655",
+          "quote": "You wake everybody just before dawn, at you know 5 am a little before 5 am as the—as just the like pre-dawn light is starting to crack the sky. Again, that exhaustion you can remove. You can all take a long rest."
+        }
+      ],
+      "durationConvention": {
+        "minutes": 480,
+        "application": "long-rest convention; no exact bedtime established"
+      }
+    },
+    {
+      "id": "t20",
+      "kind": "travel",
+      "frame": "current",
+      "actor": "party",
+      "reading": "After breakfast/packing, about ten miles north takes about three hours; road reached about 9–9:30 a.m. Wake-to-departure interval is unspecified.",
+      "evidence": [
+        {
+          "startUid": "u1662",
+          "endUid": "u1662",
+          "quote": "As you head north and east in the pre-dawn light after a cold breakfast, the—"
+        },
+        {
+          "startUid": "u1681",
+          "endUid": "u1689",
+          "quote": "So you break camp, pack up your dwindling supply of water, um, head north, um, about 10 miles, takes you—takes you maybe three hours, again moving moving quickly. So by, you know, by nine 930, um, as the sun is now fully up in the sky, the desert is starting to get hot. From the—you know, the heat beginning to radiate from the ground as as it everything warms up. You've reached the road, maybe a little bit west of here."
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "approximate travel only"
+      },
+      "countGroup": "day3-approach"
+    },
+    {
+      "id": "t21",
+      "kind": "clock",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Horse shelter reached about 9:30–10 a.m. Wellby’s hawk scouting overlaps Seeker’s construction.",
+      "evidence": [
+        {
+          "startUid": "u1704",
+          "endUid": "u1714",
+          "quote": "Yeah, sure. The—so when you get here, while, um, Seeker is a—Seeker is beginning to construct his—his horsebox, um. It's now—yeah, it's like about 930 10 at this point, and so you know the thermals are going. The hawks who eat snakes and lizards are are definitely up in the sky. So make an Animal Handling check. Yeah, so you you're certainly able to again use your strategy that you've used in the past, lay out some food and you know, in this case particularly if you can snag a lizard or something and and lay it out a little way from the camp. Wait for a hawk to to approach and then just offer it, get it to come into your hand with some food. It sort of looks at you and seems to be willing for your—for your Beast Sense. So as it wolfs down the lizard, you slide into its mind."
+        },
+        {
+          "startUid": "u1770",
+          "endUid": "u1775",
+          "quote": "Well. While Wellby is scouting, Seeker, I presume you're constructing, with Mold Earth, a sand cube? It's not going to be super well camouflaged if you're just building it with Mold Earth."
+        }
+      ],
+      "clockRange": [
+        "09:30",
+        "10:00"
+      ],
+      "countGroup": "day3-approach"
+    },
+    {
+      "id": "t22",
+      "kind": "recurring_interval",
+      "frame": "current",
+      "actor": "orc patrols",
+      "reading": "Observed orc patrols pass a point about every 30 minutes; recurrence, not 30 minutes added to party clock.",
+      "evidence": [
+        {
+          "startUid": "u1744",
+          "endUid": "u1744",
+          "quote": "And how long does it take to go around the circuit? I mean, what's the—"
+        },
+        {
+          "startUid": "u1745",
+          "endUid": "u1745",
+          "quote": "So they’re spaced—maybe about every 30 minutes, one will pass a particular point."
+        }
+      ]
+    },
+    {
+      "id": "t23",
+      "kind": "time_of_day",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Bridge approach remains before noon.",
+      "evidence": [
+        {
+          "startUid": "u1907",
+          "endUid": "u1910",
+          "quote": "So you just dart along the shadows, taking advantage here, the fact that the sun, now higher in the sky but still in the east before noon, is is casting some shadows along the edge, you know, until you get to this final this final like quarter-mile distance, basically, where you just you're sort of creeping low on the ground, just kind of using little rocks or whatever you can find in it until eventually like there's about 100 yards that's just straight open terrain. You've got no choice but to just run and hope nobody sees you."
+        }
+      ],
+      "countGroup": "day3-approach"
+    },
+    {
+      "id": "t24",
+      "kind": "duration_bound",
+      "frame": "current",
+      "actor": "party",
+      "reading": "At bridge DM says “Like 10 minutes” following invisibility-duration question; Delwath then says 50 minutes remain from one hour. Context supports roughly ten minutes already used, not a ten-minute invisibility duration.",
+      "evidence": [
+        {
+          "startUid": "u1961",
+          "endUid": "u1961",
+          "quote": "Does invisibility last?"
+        },
+        {
+          "startUid": "u1962",
+          "endUid": "u1962",
+          "quote": "An hour."
+        },
+        {
+          "startUid": "u1963",
+          "endUid": "u1963",
+          "quote": "Like 10 minutes."
+        },
+        {
+          "startUid": "u1987",
+          "endUid": "u1988",
+          "quote": "I'm tempted to use the time that Seeker is clairvoyancing, since invisibility only last for 50 more minutes, to go—"
+        }
+      ],
+      "confidence": "medium",
+      "countGroup": "day3-approach"
+    },
+    {
+      "id": "t25",
+      "kind": "spell_interval",
+      "frame": "current",
+      "actor": "Seeker",
+      "reading": "First clairvoyance lasts ten minutes and visibly ends; remote observation occurs while Delwath scouts.",
+      "evidence": [
+        {
+          "startUid": "u2141",
+          "endUid": "u2141",
+          "quote": "I think it's 10 minutes."
+        },
+        {
+          "startUid": "u2142",
+          "endUid": "u2142",
+          "quote": "That sounds right. That's August."
+        },
+        {
+          "startUid": "u2173",
+          "endUid": "u2177",
+          "quote": "They look similar, yeah. Oh man, they they drift forth. He then kind of sits with his head in his hands like looking down for a moment, and then um reaches like, back and pulls out—begins to like reaches behind him and like sort of pulls a scroll out from his chair and starts to pull it down, and the spell ends."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2332",
+          "quote": "Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "stated spell duration"
+      },
+      "countGroup": "parallel-scouting"
+    },
+    {
+      "id": "t26",
+      "kind": "reported_history",
+      "frame": "reported",
+      "actor": "party",
+      "reading": "Five weeks without magical loot is reported by Grash’s subordinate; do not add it to session span.",
+      "evidence": [
+        {
+          "startUid": "u2107",
+          "endUid": "u2121",
+          "quote": "It's been five weeks since we found anything magical."
+        }
+      ]
+    },
+    {
+      "id": "t27",
+      "kind": "reported_plan",
+      "frame": "planned",
+      "actor": "Grash / followers",
+      "reading": "Zombies ordered to search all night; army said to be ready by fall. Future NPC activity, not elapsed session time.",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2122",
+          "quote": "Man, everbody's a looter."
+        },
+        {
+          "startUid": "u2279",
+          "endUid": "u2282",
+          "quote": "‘The orcs will be ready. The orcs will be ready to strike by fall, and Uzgash will fall. But the rest of the treasure remains hidden to me.’"
+        }
+      ]
+    },
+    {
+      "id": "t28",
+      "kind": "table_time",
+      "frame": "table",
+      "actor": "party",
+      "reading": "Late requests for 15 minutes / five or ten more minutes concern finishing the recording session, not in-world elapsed time.",
+      "evidence": [
+        {
+          "startUid": "u2227",
+          "endUid": "u2227",
+          "quote": "It—how much longer we wait another 15 minutes?"
+        },
+        {
+          "startUid": "u2229",
+          "endUid": "u2229",
+          "quote": "I can't go much longer."
+        },
+        {
+          "startUid": "u2230",
+          "endUid": "u2230",
+          "quote": "Yeah, I was gonna say, I think we got to finish this. We should finish the scouting, but—"
+        },
+        {
+          "startUid": "u2235",
+          "endUid": "u2235",
+          "quote": "I want like five or 10 minutes so Delwath can figure out what he sees to."
+        },
+        {
+          "startUid": "u2237",
+          "endUid": "u2238",
+          "quote": "Um, like another five minutes for this, um. OK, so the—"
+        }
+      ]
+    },
+    {
+      "id": "t29",
+      "kind": "spell_interval",
+      "frame": "current",
+      "actor": "Seeker",
+      "reading": "Second clairvoyance: sensor recast, five minutes later Grash reacts, then spell fades. Five minutes is inside this observation, not added to its full duration.",
+      "evidence": [
+        {
+          "startUid": "u2212",
+          "endUid": "u2212",
+          "quote": "No, I'm casting again, so I can put it—"
+        },
+        {
+          "startUid": "u2245",
+          "endUid": "u2250",
+          "quote": "I love working next, um. OK, so the sensor reappears, um. You begin you'd like trying to jot down the—the—the scroll what you see on this scroll as fast as you can, but as—as..."
+        },
+        {
+          "startUid": "u2306",
+          "endUid": "u2308",
+          "quote": "Five minutes later, um, he stops, and he throws his blade down on the ground."
+        },
+        {
+          "startUid": "u2324",
+          "endUid": "u2325",
+          "quote": "And with that, you see nothing else before the spell fades. Just Grash sitting after having cast that spell and received his reply, which apparently angered him."
+        }
+      ],
+      "countGroup": "parallel-scouting",
+      "durationConvention": {
+        "minutes": 10,
+        "application": "second cast inferred same spell duration; precise casting gaps unstated"
+      }
+    },
+    {
+      "id": "t30",
+      "kind": "parallel_elapsed",
+      "frame": "current",
+      "actor": "Delwath",
+      "reading": "Delwath spends about 20 minutes inside city, including 5–10 minutes before voices, about five searching a shop, and 1–2 following a voice. Narrated after clairvoyance but explicitly concurrent.",
+      "evidence": [
+        {
+          "startUid": "u2328",
+          "endUid": "u2332",
+          "quote": "Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands."
+        },
+        {
+          "startUid": "u2358",
+          "endUid": "u2368",
+          "quote": "five you know 5–10-ish minutes, maybe."
+        },
+        {
+          "startUid": "u2393",
+          "endUid": "u2394",
+          "quote": "Okay, so I'm going to look for a—I'm going to take like five minutes to search around in one of the shops for like an item, I don't know, like a coin or, or a cracked piece of pottery, or—"
+        },
+        {
+          "startUid": "u2444",
+          "endUid": "u2450",
+          "quote": "for a minute or two"
+        },
+        {
+          "startUid": "u2452",
+          "endUid": "u2454",
+          "quote": "Okay, so in terms of activity, um. You know, things are things are beyond the voices. You know, you—you hear—you let's say you've been in the city for about 20 minutes at this point."
+        }
+      ],
+      "countGroup": "parallel-scouting",
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate city visit aggregate"
+      }
+    },
+    {
+      "id": "t31",
+      "kind": "session_boundary",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Party reunited at bridge; westward departure belongs to next session. Exact end clock is unstated.",
+      "evidence": [
+        {
+          "startUid": "u2461",
+          "endUid": "u2463",
+          "quote": "So, with you all back at the bridge, your news—I assume at this point, you you're gonna head west?"
+        },
+        {
+          "startUid": "u2492",
+          "endUid": "u2492",
+          "quote": "We'll pick up with you—"
+        },
+        {
+          "startUid": "u2494",
+          "endUid": "u2495",
+          "quote": "Leaving Kharsan next time. I'm going to stop the recording."
+        }
+      ]
+    }
+  ],
+  "locationMarkers": [
+    {
+      "id": "l01",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Party leaves Hall of Stories tower within monastery.",
+      "placeId": "stories",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0022",
+          "quote": "Now, as you leave the tower and the hall of stories, the sun is low on the horizon, casting the sandstone buildings of the monastery in a beautiful reddish golden light. As dusk approaches and the sounds of birds in the distance grows, the desert feels alive."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l02",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Approach temple facing east, pause on entrance steps, then enter foyer after preparations.",
+      "placeId": null,
+      "fromPlaceId": "stories",
+      "toPlaceId": "foyer",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0032",
+          "quote": "Heading over to the temple. So it's about maybe half an hour until sunset, um, maybe—maybe more like 40 minutes. And it takes you maybe five or 10 minutes to approach and start to look around the temple, so."
+        },
+        {
+          "startUid": "u0040",
+          "endUid": "u0046",
+          "quote": "As you come approach the front facade, um, here now with the sun setting in the west, the temple facing east, the long shadows of the two tall towers that extend maybe 100 feet into the air, um, stretching far across the desert into the distance. The entry way into the temple is an elaborate arch, no doors, that is open. That is open into the—into the interior of the temple, with steps that lead up to this arch way."
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0060",
+          "quote": "Um. Hold on, I'm gonna—I'm gonna hold up my hand as we—as we're walking up the steps to the temple, like motioning people to stop."
+        },
+        {
+          "startUid": "u0146",
+          "endUid": "u0150",
+          "quote": "Okay. So with these preparations, you enter into the sort of foyer of the temple. So this—as you come up the stairs and go to the arch way you're in like a small kind of entry hall, almost, um. Looking—looking ahead, there's another open arch that seems to lead into some sort of—like... It looks like a small chapel or something like that in front of you, and then to your left and right there are stairs up."
+        }
+      ],
+      "viaPlaceIds": [
+        "temple"
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l03",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter Five Siblings chapel through arch from foyer.",
+      "placeId": null,
+      "fromPlaceId": "foyer",
+      "toPlaceId": "chapel",
+      "evidence": [
+        {
+          "startUid": "u0216",
+          "endUid": "u0220",
+          "quote": "Okay, so you don't see anything, Delwath. You see nothing with Fey Sight in your immediate vicinity, um, as you go in to the—into this first entry way. So your Detect Good and Evil is still running, and if you sense—you don't sense anything within 30 feet, so in this first first entry chapel."
+        },
+        {
+          "startUid": "u0221",
+          "endUid": "u0227",
+          "quote": "So, as you—as you head on, you can see the sort of entry chapel is—it looks like it was originally arranged as kind of a sort of preamble, a place dedicated to the Five Siblings before the main temple of Bhishma. There are altars to each of the Five Siblings placed around the room. There are mosaics depicting, again, scenes from Dunmari history, but they've been heavily looted, and most of the tiles have been pried out, so it's hard to tell what anything is actually supposed to be depicting."
+        },
+        {
+          "startUid": "u0228",
+          "endUid": "u0237",
+          "quote": "So, as you enter into this room, which is maybe—maybe 30 feet by 30 feet, ahead of you, you see again two arches, some light coming through those, but otherwise this room only lit with, with the light of your drift globes. To the left and right there are doors, and then slightly further north, close to the archways ahead of you, archways again leading left and right. I mean, as you come and start to pace around this room, ah, you see—you again, nothing magic and and no sense that the altars are still consecrated."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l04",
+      "kind": "observation",
+      "frame": "current",
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Undead presence sensed below chapel; basement not physically explored.",
+      "placeId": "below",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0243",
+          "endUid": "u0245",
+          "quote": "Oh geez, I start, I start to pause everybody. Below us."
+        },
+        {
+          "startUid": "u0274",
+          "endUid": "u0274",
+          "quote": "It's about 20 feet as far—it's below, it's—it's below us. Unless there's a trap door that falls down there, but—"
+        },
+        {
+          "startUid": "u0787",
+          "endUid": "u0787",
+          "quote": "I want to clarify, in character, one thing too. Did somebody sense evil below us on the main level of the temple there, and then it was seen on the same level? So maybe we didn't see everything."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l05",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Wellby through arches into main temple chamber.",
+      "placeId": null,
+      "fromPlaceId": "chapel",
+      "toPlaceId": "main",
+      "evidence": [
+        {
+          "startUid": "u0324",
+          "endUid": "u0324",
+          "quote": "Well, Wellby seems to have started walking forward so we'll just follow him."
+        },
+        {
+          "startUid": "u0326",
+          "endUid": "u0336",
+          "quote": "you walk forward into what is, as you enter"
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l06",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Wellby",
+        "Seeker (position confirmed later)"
+      ],
+      "reading": "Wellby posts in entry chapel to watch room and exit; Seeker later confirms they are together.",
+      "placeId": null,
+      "fromPlaceId": "main",
+      "toPlaceId": "chapel",
+      "evidence": [
+        {
+          "startUid": "u0447",
+          "endUid": "u0448",
+          "quote": "Can I put myself in that entry chapel so that I can see where they are in the main room, but also see the door? Yep, I think I'm gonna post myself."
+        },
+        {
+          "startUid": "u0694",
+          "endUid": "u0697",
+          "quote": "Yeah, so yeah, Kenzo steps back over, not sure exactly where Delwath is. But Kenzo invisible, holding the drift globe, so you just seem like like you know Kenzo’s drift globe moving around, and you know that Kenzo’s basically, you know, carrying it. And yeah, Kenzo—so which one is this cluster are you—you guys are together, right, Wellby and Seeker?"
+        },
+        {
+          "startUid": "u0698",
+          "endUid": "u0698",
+          "quote": "Yeah, we're together."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ],
+      "concurrencyGroup": "temple-scout"
+    },
+    {
+      "id": "l07",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Kenzo",
+        "Delwath (threshold / nearby statue)"
+      ],
+      "reading": "Kenzo enters side corridor; Delwath watches at its entrance, then remains near statue. Corrected cardinal orientation is south, not guessed west.",
+      "placeId": null,
+      "fromPlaceId": "main",
+      "toPlaceId": "hall",
+      "evidence": [
+        {
+          "startUid": "u0452",
+          "endUid": "u0453",
+          "quote": "Tim, Kenzo’s gonna sneak over sneakily, very sneakily, because he's so sneaky, to get a closer to where he sensed the undead evil and yeah just see what's over there."
+        },
+        {
+          "startUid": "u0474",
+          "endUid": "u0475",
+          "quote": "So you come around the corner, and and you're in a you're in a long hallway. Are you, though—what are you doing for light?"
+        },
+        {
+          "startUid": "u0508",
+          "endUid": "u0508",
+          "quote": "I'm gonna go up to the entrance so that I can look. Not going to go into the hallway, but I want to be able to look to the left and right."
+        },
+        {
+          "startUid": "u0542",
+          "endUid": "u0542",
+          "quote": "Well, as west—it would be evil to the south."
+        },
+        {
+          "startUid": "u0634",
+          "endUid": "u0635",
+          "quote": "I'll go do that. I'm not going to like hide it because I'm invisible, but I would stand, basically, the idea is to stand somewhere so it's not gonna—so if it goes out into the main hall it won't walk—it won't, like, accidentally bump into me."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ],
+      "concurrencyGroup": "temple-scout"
+    },
+    {
+      "id": "l08",
+      "kind": "observation",
+      "frame": "current",
+      "actors": [
+        "shadow creatures"
+      ],
+      "reading": "Three shadow creatures occupy corridor; one stops before sunlight. They have not followed party out.",
+      "placeId": "hall",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0651",
+          "quote": "And follow it. So you see you watch as it, um... It—the sort of darkness more intense darkness, drifts again up to the... So, the place where the light is spilling out, where it goes actually like sunlight, um, spilling into the corridor. It stops before it reaches the area."
+        },
+        {
+          "startUid": "u0681",
+          "endUid": "u0685",
+          "quote": "So you see, then, Delwath, as the light from the drift globe—now, as soon as you step into the hallway with the drift globe, I mean it extends like 20 feet in every direction, right? So, um, it immediately illuminates the hallway all the way down through this patch of darkness, and you see now, as the shadows are cast away, two more dark forms in the hallway. Great. And all of them—all of them now kind of faded up against the walls, looking basically like some sort of deformed shadows of people on the wall, just kind of eyeing this light."
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0710",
+          "quote": "No, you don't see anything following them. It's—I mean, you see the light of the light of Kenzo’s drift globe it's kind of—it's, you know, now with the sun below the lip of the—lip of the window, um there's you know everything sort of cast in twilight except for the for the drift globe, um, you know, lighting up this this 20 foot, just moves, with nobody holding it, but you figure Kenzo must be Kenzo."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l09",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Scouts return through main room to companions, then party exits.",
+      "placeId": null,
+      "fromPlaceId": "hall",
+      "toPlaceId": "chapel",
+      "evidence": [
+        {
+          "startUid": "u0690",
+          "endUid": "u0690",
+          "quote": "All right, Kenzo starts backing away with the drift globe, still invisible, and just kind of backs backs into the main the main room thinks the main temple area and—and wait, so Wellby and Seeker that you guys have your globes as well as well, Wellby has a drift globe."
+        },
+        {
+          "startUid": "u0699",
+          "endUid": "u0699",
+          "quote": "Okay, yeah. Kenzo comes over to where you both are and whispers quietly, ‘Yeah, why don't we leave?’"
+        },
+        {
+          "startUid": "u0702",
+          "endUid": "u0703",
+          "quote": "Delwath will follow basically is... As soon as Kenzo is leaving, I’ll sneak on behind him, staying in the basically in the light of the drift globe."
+        },
+        {
+          "startUid": "u0711",
+          "endUid": "u0712",
+          "quote": "So I guess—sweet, we exit the temple. So."
+        }
+      ],
+      "viaPlaceIds": [
+        "main"
+      ],
+      "timeNodeIds": [
+        "n1"
+      ]
+    },
+    {
+      "id": "l10",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Party returns past bathhouse to dry riverbed, turns south and reaches camp with horses and Baxter.",
+      "placeId": null,
+      "fromPlaceId": "temple",
+      "toPlaceId": "camp1",
+      "evidence": [
+        {
+          "startUid": "u0767",
+          "endUid": "u0778",
+          "quote": "So in the twilight of... the... still... the western horizon still with that sort of afterglow of the sunset, the reds and oranges across the sky lighting your path past the manticores and dead orcs and back down to the river, and then past the bathhouse where the orc survivor is locked, to the dry riverbed, and then turning south to come back to your camp. You find your camp, thankfully, undisturbed."
+        },
+        {
+          "startUid": "u0779",
+          "endUid": "u0784",
+          "quote": "Baxter is very pleased to see you and rushes up as you approach. And the horses are sort of milling about; your supplies are intact. With it cooling off it's actually a—and now out of the perhaps somewhat spooky temple of shadows, it's actually a fairly pleasant evening as you settle in to your evening meal and rest."
+        }
+      ],
+      "viaPlaceIds": [
+        "bath",
+        "river"
+      ],
+      "timeNodeIds": [
+        "n2"
+      ]
+    },
+    {
+      "id": "l11",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "First overnight and dawn at undisturbed camp.",
+      "placeId": "camp1",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0815",
+          "endUid": "u0815",
+          "quote": "And long rest."
+        },
+        {
+          "startUid": "u0889",
+          "endUid": "u0895",
+          "quote": "So as dawn comes and everybody wakes, camp is undisturbed. The morning quiet. Birds—sound of birds and and insects loudest at dawn and dusk, as the most activity in the desert is then. You settle in for quick breakfast and plans for the day."
+        }
+      ],
+      "timeNodeIds": [
+        "n2",
+        "n3"
+      ]
+    },
+    {
+      "id": "l12",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts alone north up riverbed to monastery bathhouse.",
+      "placeId": null,
+      "fromPlaceId": "camp1",
+      "toPlaceId": "bath",
+      "evidence": [
+        {
+          "startUid": "u1160",
+          "endUid": "u1161",
+          "quote": "I want to cut through the monastery, because I also want an excuse to look into the bathhouse and see what's going on with our friend."
+        },
+        {
+          "startUid": "u1164",
+          "endUid": "u1167",
+          "quote": "So you set out in the early morning desert light, um. You don't really find much along the river bed. Takes you maybe 20 minutes of searching to get up to where the monastery is, and you start to head up the up the path from the river to the monastery itself and the first thing you immediately notice as you approach the—the sort of bathhouse area is the bodies of the manticores are lying there, but the orcs are gone. There's no orc bodies."
+        }
+      ],
+      "viaPlaceIds": [
+        "river"
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "concurrencyGroup": "wellby-scout"
+    },
+    {
+      "id": "l13",
+      "kind": "observation",
+      "frame": "current",
+      "actors": [
+        "Wellby (observer)"
+      ],
+      "reading": "Bar removed, captive absent, orc bodies gone. Fate and destination unknown; do not infer their route.",
+      "placeId": "bath",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1164",
+          "endUid": "u1167",
+          "quote": "So you set out in the early morning desert light, um. You don't really find much along the river bed. Takes you maybe 20 minutes of searching to get up to where the monastery is, and you start to head up the up the path from the river to the monastery itself and the first thing you immediately notice as you approach the—the sort of bathhouse area is the bodies of the manticores are lying there, but the orcs are gone. There's no orc bodies."
+        },
+        {
+          "startUid": "u1173",
+          "endUid": "u1175",
+          "quote": "And there's no sound at all coming from the bathhouse itself. Empty. Locked? That bar? No, the bar has been removed, like you had a wooden bar on the outside that was there and that's been removed and cast aside on the ground."
+        },
+        {
+          "startUid": "u1176",
+          "endUid": "u1180",
+          "quote": "I will stop my search and move with all deliberate speed back to camp. Hey guys, we’re fun. Do you remember all the orcs that we killed yesterday? Yeah, none of them are there anymore. And someone took the bar off the bathhouse from the outside, and there's no orc inside the bathhouse either."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ]
+    },
+    {
+      "id": "l14",
+      "kind": "remote_observation",
+      "frame": "remote",
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Retconned spyglass view from monastery: activity at fort and approaching search parties. Observation occurs before Wellby’s final return; no second trip.",
+      "placeId": "fort",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1182",
+          "endUid": "u1183",
+          "quote": "And in fact, actually, wait, Tim, kind of retcon, because I feel it the same thing. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?"
+        },
+        {
+          "startUid": "u1187",
+          "endUid": "u1192",
+          "quote": "Yeah, it's about a thumb. Yeah, make a Perception check. Um, so, I mean, you see a fair—like, especially peering through your spyglass, you see a fair bit of activity at the orc fort. More than when you were scouting as a—as a—as a hawk, but of course that was mid-afternoon—that was like lunchtime 1130 when when people are given the desert heat, everybody's kind of starting to take the rest break. There's—there's several groups of orcs that you can see—presumably or. Even in the spyglass, it's a little bit far to identify types of humanoids, but presumably orcs—moving towards the city."
+        },
+        {
+          "startUid": "u1193",
+          "endUid": "u1197",
+          "quote": "And there are several moving, so it seems like there's one group that's moving slowly, as if they are tracking or searching um in the direction of the monastery. Come—and then there's another that you can see that's kind of heading that's on the like dry riverbed like right about here. So there's one like here and one like here that seemed to be moving slowly across the desert like groups of of like six, seven orcs like about the size of the band that you fought."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "eventOrder": "within scout, before l15"
+    },
+    {
+      "id": "l15",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "After checking other buildings for 15 minutes, Wellby returns to camp. Earlier narrated return is superseded by inserted scouting, not duplicated.",
+      "placeId": null,
+      "fromPlaceId": "monastery",
+      "toPlaceId": "camp1",
+      "evidence": [
+        {
+          "startUid": "u1176",
+          "endUid": "u1180",
+          "quote": "I will stop my search and move with all deliberate speed back to camp. Hey guys, we’re fun. Do you remember all the orcs that we killed yesterday? Yeah, none of them are there anymore. And someone took the bar off the bathhouse from the outside, and there's no orc inside the bathhouse either."
+        },
+        {
+          "startUid": "u1182",
+          "endUid": "u1183",
+          "quote": "And in fact, actually, wait, Tim, kind of retcon, because I feel it the same thing. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?"
+        },
+        {
+          "startUid": "u1205",
+          "endUid": "u1206",
+          "quote": "Okay, can I also just check all the other buildings that are up here at the monastery? Like, poke my head—not like people camped out in these other buildings or something, is there?"
+        },
+        {
+          "startUid": "u1210",
+          "endUid": "u1210",
+          "quote": "Takes you about 15 minutes to do that."
+        },
+        {
+          "startUid": "u1211",
+          "endUid": "u1213",
+          "quote": "Okay, I'm gonna hustle back down. Okay, share the news. And the orcs are looking for us, yeah."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ]
+    },
+    {
+      "id": "l16",
+      "kind": "planned_route",
+      "frame": "planned",
+      "actors": [
+        "party"
+      ],
+      "reading": "Northern bridge route and eastern approach discussed but abandoned in favor of southern loop; no noon hiding place or Baxter decoy executed.",
+      "placeId": null,
+      "fromPlaceId": "camp1",
+      "toPlaceId": "bridge",
+      "evidence": [
+        {
+          "startUid": "u1220",
+          "endUid": "u1224",
+          "quote": "So the way that I mean the obvious passageway is head up to the bridge and go west. The way that you came originally, in order to avoid—I think because this bridge is where Delwath appeared, and you wanted to avoid coming too close to Kharsan was you, you came from the south, remember? And so you could go back the way you came if you travel 20 miles south, and then the cliffs gradually dropped down to nothing, and you can turn west there. But you're pretty much only options are to go about 15–20 miles south or to go north to this passage way. Or, of course, very far north, but that doesn't make a lot—"
+        },
+        {
+          "startUid": "u1457",
+          "endUid": "u1463",
+          "quote": "build a—build a— building—build a hiding spot. Have Seeker shape a hiding spot that works for the horses, right? Set up our camp like we hastily fled, send back—Baxter south to outrun the orcs and make a trail going south, like, like we—like we fled, like we fled when we saw them, basically. Wait until the heat of the day, say noon, in our little hidey spot. And then make our way along the cliff north and go check out the ruins."
+        },
+        {
+          "startUid": "u1528",
+          "endUid": "u1529",
+          "quote": "Unfortunately, it makes more sense than most of the things that we've discussed, much as I like the hiding and deception and sending the Baxter and everything."
+        },
+        {
+          "startUid": "u1541",
+          "endUid": "u1541",
+          "quote": "Alright, so let's flee south and loop around."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride south with horses and Baxter along dry riverbed to where cliffs end, arriving about 3 p.m.",
+      "placeId": null,
+      "fromPlaceId": "camp1",
+      "toPlaceId": "turn",
+      "evidence": [
+        {
+          "startUid": "u1581",
+          "endUid": "u1588",
+          "quote": "Okay, so with the camp packed, and the—you know, the—on your horses, your—your three horses, one for each of Seeker, Delwath, and Kenzo, plus Baxter, which Wellby is riding on, plus your two spare horses with water and food and all your your you know survival gear to make it this far in the desert—you break south, riding hard along this dry riverbed, which is pretty solid terrain for for riding on. The dust cloud that is kicked up by your departure is obvious. And you can hear you know shouts in the distance from the orcs about a mile off, watching you know at the cliffs of the monastery, looking out over the plain."
+        },
+        {
+          "startUid": "u1589",
+          "endUid": "u1602",
+          "quote": "But traveling hard, pushing through the the heat of the day, by about, say, 3 pm like late mid-afternoon, you've come to the come far enough south that the—that the cliffs have dropped down, and and there's just the sort of flat expanse of of rocky desert to your west. If there is any pursuit, you've not seen signs of that, or you've left them so far behind that they are—not that they're not visible to you. And you turn to the west. Ah, heading sort of north-northwest a little bit, away from the riverbed and into the, sort of more rocky, cliff-like area of the desert. And as sun sets, do you want to make camp or keep going into the night?"
+        }
+      ],
+      "viaPlaceIds": [
+        "river"
+      ],
+      "mode": "mounted",
+      "timeNodeIds": [
+        "n3",
+        "n4"
+      ]
+    },
+    {
+      "id": "l18",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Turn west then north across rocky desert; ride beyond sunset and camp roughly ten miles south of road, 3–4 miles west of river.",
+      "placeId": null,
+      "fromPlaceId": "turn",
+      "toPlaceId": "camp2",
+      "evidence": [
+        {
+          "startUid": "u1589",
+          "endUid": "u1602",
+          "quote": "But traveling hard, pushing through the the heat of the day, by about, say, 3 pm like late mid-afternoon, you've come to the come far enough south that the—that the cliffs have dropped down, and and there's just the sort of flat expanse of of rocky desert to your west. If there is any pursuit, you've not seen signs of that, or you've left them so far behind that they are—not that they're not visible to you. And you turn to the west. Ah, heading sort of north-northwest a little bit, away from the riverbed and into the, sort of more rocky, cliff-like area of the desert. And as sun sets, do you want to make camp or keep going into the night?"
+        },
+        {
+          "startUid": "u1607",
+          "endUid": "u1611",
+          "quote": "So let's say you went 20 miles south and then about five miles west and then five miles north. So you're about 15 miles south of the road and the bridge, about. So 20 miles total."
+        },
+        {
+          "startUid": "u1618",
+          "endUid": "u1624",
+          "quote": "Wellby and and Delwath are fine, but Kenzo and Seeker, the heat, not being used to the heat or the hard riding—this, you know, one—one—an extra hour or so of traveling, getting about another say let's say, five miles north, has just wiped you out. At the moment, you both have one level of exhaustion. You—you can keep pushing if you want, but if you fail another Constitution check, then you will be—you won't be able to recover fully in one night sleep."
+        },
+        {
+          "startUid": "u1625",
+          "endUid": "u1628",
+          "quote": "At the moment, you're maybe maybe 10 miles south of the—10 miles south of the road and about three miles. Three four miles west of the river."
+        },
+        {
+          "startUid": "u1635",
+          "endUid": "u1637",
+          "quote": "So you set camp, presume presumably quiet, hidden as best you can. And, yes."
+        }
+      ],
+      "mode": "mounted",
+      "timeNodeIds": [
+        "n4",
+        "n5"
+      ]
+    },
+    {
+      "id": "l19",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Second overnight at hidden desert camp; wake before 5 a.m.",
+      "placeId": "camp2",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1642",
+          "endUid": "u1647",
+          "quote": "Seeker is very tired. Yep, um, given your exhaustion you've you've... Delwath, you hear nothing or see nothing during your watch but the desert animals, um. You know, as the sun—you've ridden past sunset into twilight. By the time, you know, everybody's asleep and you're watching, it's—it started to get quiet, but you hear the occasional like hoot of an owl, see a small desert mouse scurrying across the camp."
+        },
+        {
+          "startUid": "u1653",
+          "endUid": "u1655",
+          "quote": "You wake everybody just before dawn, at you know 5 am a little before 5 am as the—as just the like pre-dawn light is starting to crack the sky. Again, that exhaustion you can remove. You can all take a long rest."
+        }
+      ],
+      "timeNodeIds": [
+        "n5",
+        "n6"
+      ]
+    },
+    {
+      "id": "l20",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Next morning ride north about ten miles to Dunmari road, then east to shelter against cliffs.",
+      "placeId": null,
+      "fromPlaceId": "camp2",
+      "toPlaceId": "shelter",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1689",
+          "quote": "So you break camp, pack up your dwindling supply of water, um, head north, um, about 10 miles, takes you—takes you maybe three hours, again moving moving quickly. So by, you know, by nine 930, um, as the sun is now fully up in the sky, the desert is starting to get hot. From the—you know, the heat beginning to radiate from the ground as as it everything warms up. You've reached the road, maybe a little bit west of here."
+        },
+        {
+          "startUid": "u1690",
+          "endUid": "u1695",
+          "quote": "And this, this is the old—no, this is not the, this is not the like old trade road, that Drankorian trade road that runs east-west north of here. This is a, this is a Dunmari road and not—at the moment not... You know, this—this point in time, you know nope no paving stones, nothing, just a sort of flat place in the desert that's been cleared of debris and that cuts through these sort of rocky terrain in a straight path east. So are you you're following the road east to about here?"
+        },
+        {
+          "startUid": "u1696",
+          "endUid": "u1700",
+          "quote": "Is that your plan, what’s—yeah, basically. Somewhere in the cliffs here we’d like to set up a shelter for the horses, and then we’ll go. Well, I mean, that’s only, that's only a mile, right?"
+        },
+        {
+          "startUid": "u1701",
+          "endUid": "u1702",
+          "quote": "That's 1.5 miles from—yes, I mean, it's like it's like 1.5 1.6 miles along the road to like this point or somewhere, right?"
+        },
+        {
+          "startUid": "u1704",
+          "endUid": "u1714",
+          "quote": "Yeah, sure. The—so when you get here, while, um, Seeker is a—Seeker is beginning to construct his—his horsebox, um. It's now—yeah, it's like about 930 10 at this point, and so you know the thermals are going. The hawks who eat snakes and lizards are are definitely up in the sky. So make an Animal Handling check. Yeah, so you you're certainly able to again use your strategy that you've used in the past, lay out some food and you know, in this case particularly if you can snag a lizard or something and and lay it out a little way from the camp. Wait for a hawk to to approach and then just offer it, get it to come into your hand with some food. It sort of looks at you and seems to be willing for your—for your Beast Sense. So as it wolfs down the lizard, you slide into its mind."
+        }
+      ],
+      "viaPlaceIds": [
+        "road"
+      ],
+      "mode": "mounted",
+      "timeNodeIds": [
+        "n6",
+        "n7"
+      ]
+    },
+    {
+      "id": "l21",
+      "kind": "remote_observation",
+      "frame": "remote",
+      "actors": [
+        "Wellby (observer)",
+        "hawk (carrier)"
+      ],
+      "reading": "Wellby uses Beast Sense through hawk over fort and city; palace obscured by shadow. Wellby’s body remains at shelter; hawk moves.",
+      "placeId": "palace",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1704",
+          "endUid": "u1714",
+          "quote": "you slide into its mind."
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1725",
+          "quote": "Um, nothing to the west. The road is is quiet. There doesn't seem to be anything, you know, to the west of here are sort of moving on the cliffs or anything like that. As you approach sort of fly over you know soaring over the orc fort and then doing the loop around Kharsan, there's definitely more—is definitely activity around the orc fort. You can see that there now there are there seemed to be guards posted here and here at this southern gate that weren't there before. And you see a few sort of patrols that are doing a sort of a route. Not too many, there's maybe three of them that you spot that are doing sort of circuits around the city. There's still the activity of of moving back and forth here. There are also—"
+        },
+        {
+          "startUid": "u1732",
+          "endUid": "u1739",
+          "quote": "It seems like, you know, you can see in the distance there's a there seems to be a patrol sort of moving south this way, and another one coming north, which you can see just in the distance that the plume of dust. There seems to be two groups like converging just south of that just just west of the monastery, one going south, one going north. And there are clearly more guards stationed on the orc fort than there had been before. And the other thing you notice is the palace itself seems to be completely in shadow. Like, it's a sunny day, but the palace is—like you can't really see anything into the palace, because as you fly over it, it's like passing through a dark storm cloud, and everything's kind of hazy below, and the hawk hates it and basically won't go lower."
+        }
+      ],
+      "timeNodeIds": [
+        "n7"
+      ],
+      "concurrencyGroup": "hawk-and-shelter"
+    },
+    {
+      "id": "l22",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "Seeker",
+        "horses",
+        "Baxter"
+      ],
+      "reading": "Seeker constructs horse shelter while Wellby scouts; horses and Baxter stay here when party advances.",
+      "placeId": "shelter",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1770",
+          "endUid": "u1775",
+          "quote": "Well. While Wellby is scouting, Seeker, I presume you're constructing, with Mold Earth, a sand cube? It's not going to be super well camouflaged if you're just building it with Mold Earth."
+        },
+        {
+          "startUid": "u1800",
+          "endUid": "u1803",
+          "quote": "Okay, so just using—using—excavating the the sort of loose sand and dirt here, you like dig a little shallow entrenchment and build up a ridge wall that conceals the horses up against the side of the wall from the—against the side of the cliff, and then concealed from the east by this this ridge construction."
+        },
+        {
+          "startUid": "u1806",
+          "endUid": "u1806",
+          "quote": "And Baxter's going to stay with the horses."
+        }
+      ],
+      "timeNodeIds": [
+        "n7"
+      ],
+      "concurrencyGroup": "hawk-and-shelter"
+    },
+    {
+      "id": "l23",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Party creeps along cliffs, crosses last open ground, reaches shelter under bridge. Does not yet enter city.",
+      "placeId": null,
+      "fromPlaceId": "shelter",
+      "toPlaceId": "bridge",
+      "evidence": [
+        {
+          "startUid": "u1897",
+          "endUid": "u1899",
+          "quote": "So you—you creep along the edge of the cliff. Who—so who is invisible, Delwath and—"
+        },
+        {
+          "startUid": "u1907",
+          "endUid": "u1910",
+          "quote": "So you just dart along the shadows, taking advantage here, the fact that the sun, now higher in the sky but still in the east before noon, is is casting some shadows along the edge, you know, until you get to this final this final like quarter-mile distance, basically, where you just you're sort of creeping low on the ground, just kind of using little rocks or whatever you can find in it until eventually like there's about 100 yards that's just straight open terrain. You've got no choice but to just run and hope nobody sees you."
+        },
+        {
+          "startUid": "u1936",
+          "endUid": "u1942",
+          "quote": "So you sort of gear yourself up for this for this last sprint. Kenzo manages to run—run quite quickly. Wellby, for a second you're caught out in the open, and you're not sure if anybody saw you, if anybody happened to be looking at you, but you had like a minute there where you felt very exposed running across this open space. But you are now at the bridge, and there's not any sound of alarm, so not quite sure."
+        },
+        {
+          "startUid": "u1944",
+          "endUid": "u1948",
+          "quote": "And you are now all sort of crouched in the in the shadow of this bridge. So, so as you—as you approach the bridge, you can see that this—this is a stone bridge made of made of hard sandstone. But it's kind of pointless, as the river is just a dry wash. So it's this big bridge spanning nothing. It's early Dunmari construction, not not Drankorian, but solidly built, only crumbling in a few places."
+        }
+      ],
+      "mode": "on_foot",
+      "timeNodeIds": [
+        "n8"
+      ]
+    },
+    {
+      "id": "l24",
+      "kind": "remote_observation",
+      "frame": "remote",
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Two clairvoyance views of palace throne room from bridge. Seeker never physically enters palace.",
+      "placeId": "throne",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1964",
+          "endUid": "u1965",
+          "quote": "Okay, I'm gonna cast my Clairvoyance. Aiming..."
+        },
+        {
+          "startUid": "u1967",
+          "endUid": "u1968",
+          "quote": "Invisible sensor in the center point of the palace structure, aiming for the throne room. Okay, let's see what the center point would be. Oh God."
+        },
+        {
+          "startUid": "u1999",
+          "endUid": "u2006",
+          "quote": "So as the sensor appears, you see—you—your sensor appears in a large room, mostly dark, lit only by torches that line the wall, casting flickering shadows, you know, across the room. The—the windows have been bricked up and the—and the second story and third story of this building have been knocked out, so there's this one room that goes up maybe 35–40 feet tall. All the window is covered in stone, so it's completely dark. There's no light that gets in."
+        },
+        {
+          "startUid": "u2212",
+          "endUid": "u2212",
+          "quote": "No, I'm casting again, so I can put it—"
+        },
+        {
+          "startUid": "u2245",
+          "endUid": "u2250",
+          "quote": "I love working next, um. OK, so the sensor reappears, um. You begin you'd like trying to jot down the—the—the scroll what you see on this scroll as fast as you can, but as—as..."
+        }
+      ],
+      "timeNodeIds": [
+        "n8"
+      ],
+      "concurrencyGroup": "parallel-scouting"
+    },
+    {
+      "id": "l25",
+      "kind": "observed_presence",
+      "frame": "remote",
+      "actors": [
+        "Grash",
+        "two orcs"
+      ],
+      "reading": "Skeletal figure identified in dialogue as Grash on black throne; two orcs executed and reanimated. Attested remotely, no party visit.",
+      "placeId": "throne",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u2007",
+          "endUid": "u2030",
+          "quote": "The... On the ground, you see this looks like it was once a—an audience chamber, throne room type of deal. There is a—there is, like a dais at the far, dais at the far end that's raised up a few steps. There's debris as if, like old furniture has been cast aside. And there is just a plain—like dark black metal, possibly metal from a distance it's hard—from, you know, from this perspective it’s hard to say. Just a simple black chair sitting on this raised platform, and seated in the, middle metal chair—the—a skeletal creature, maybe seven foot tall, um, wearing chainmail armor. Resting against the—against the back of the throne is a wicked-looking glaive with a blade that sort of etched in, with like—like, it almost looks like it's been sort of [garbled], so it's got this jagged, jagged edge. This skeletal creature is sitting in this throne, looking intently at two orcs that are kneeling on the ground, like bow down entirely on the, throne—on the ground, and in front of this this chair, um, and he seems to be saying something quietly to them."
+        },
+        {
+          "startUid": "u2089",
+          "endUid": "u2094",
+          "quote": "So, as the—and as this ring pulses, you can you can see that the—the bodies like shrivel, as if all of the blood is being sucked out of them. And and creature, Grash kind of almost like takes it to like lifts his shoulders almost like taking a deep breath, and then, then looks around and seems to be speaking again."
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2133",
+          "quote": "You see. You see Grash pacing and like, holding up his finger and like twisting this ring and, as he twists it again there's like you it's almost like you can you can almost feel the like heat, the the energy of this thing, and he then lifts his hand and raises it towards the ceiling, and you see these two shriveled bodies of the orcs stand up."
+        }
+      ],
+      "timeNodeIds": [
+        "n8"
+      ]
+    },
+    {
+      "id": "l26",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath alone leaves bridge, passes ruined northern gate and enters city while others remain observing.",
+      "placeId": null,
+      "fromPlaceId": "bridge",
+      "toPlaceId": "north",
+      "evidence": [
+        {
+          "startUid": "u1987",
+          "endUid": "u1988",
+          "quote": "I'm tempted to use the time that Seeker is clairvoyancing, since invisibility only last for 50 more minutes, to go—"
+        },
+        {
+          "startUid": "u1995",
+          "endUid": "u1996",
+          "quote": "And probably pretty—so what say that's 15 minutes, so I should have I mean there and back, say. So that's half an hour to explore inside. Yep, I just want to poke around this north ruins and see if there's any thing."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2332",
+          "quote": "Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands."
+        },
+        {
+          "startUid": "u2333",
+          "endUid": "u2342",
+          "quote": "And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?"
+        }
+      ],
+      "mode": "on_foot",
+      "timeNodeIds": [
+        "n8"
+      ],
+      "concurrencyGroup": "parallel-scouting"
+    },
+    {
+      "id": "l27",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath reaches small river market and searches probable glassblower’s shop; objects recovered.",
+      "placeId": null,
+      "fromPlaceId": "north",
+      "toPlaceId": "shop",
+      "evidence": [
+        {
+          "startUid": "u2377",
+          "endUid": "u2383",
+          "quote": "As you—as you start a search for some landmark or something, what you do come across a little ways down this main road is the remains of a of a big open marketplace. Probably, given its its position in the city, um, this would have been like the river market, like goods coming back and forth on the river would have been you know brought into town, and this is where a lot of trade happened. It's it's not nearly as big as this east market that that um, that Wellby saw from the air, but there's a small market like right about here, and you can see, you know facing on that market, there's definitely there's a couple like shops and warehouses um that seem a little bit more intact, as well as, just off the market, what was probably a bath house or something like that, given the way that the interior construction is. The roof is no longer no longer there."
+        },
+        {
+          "startUid": "u2393",
+          "endUid": "u2394",
+          "quote": "Okay, so I'm going to look for a—I'm going to take like five minutes to search around in one of the shops for like an item, I don't know, like a coin or, or a cracked piece of pottery, or—"
+        },
+        {
+          "startUid": "u2398",
+          "endUid": "u2407",
+          "quote": "So let's see, um. So you do—you do find a shop that has a—where the—the walls and part of the roof of the first floor intact, and so this was clearly like... It looks like it was actually a, um... Well it's hard to it's hard to say what kind of shop it was, because it's the interior's mostly mostly been cleared out, but it's presumably a place where you know somebody has shop on the first floor, and then some artisan lived on the on the second floor and the second floor is gone, and the roof is kind of collapsed, but enough shelter that, you know, you can find."
+        },
+        {
+          "startUid": "u2414",
+          "endUid": "u2421",
+          "quote": "So, so this was this was probably a, um a glass blower's shop, and you find, just like three or four kind of shattered glass ornaments and one that seems still intact, um, sort of like you know, it's like—they’re like the tops of hurricane lamps that you put over candles, um, blown out of glass. And there’s some some like rusty glass blowing tools as well."
+        },
+        {
+          "startUid": "u2422",
+          "endUid": "u2425",
+          "quote": "I'll take it. I'll take all of it. Okay, I assume none of it's very heavy. No, um, and then on my way out, the only other thing I want to try and do is get a sense of what's been any—I mean, is there any activity, like in this part of town? Has anything—"
+        }
+      ],
+      "viaPlaceIds": [
+        "market"
+      ],
+      "timeNodeIds": [
+        "n8"
+      ],
+      "concurrencyGroup": "parallel-scouting"
+    },
+    {
+      "id": "l28",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath follows voice through ruins near city wall for 1–2 minutes but gets no closer to source; no source location established.",
+      "placeId": null,
+      "fromPlaceId": "shop",
+      "toPlaceId": "voices",
+      "evidence": [
+        {
+          "startUid": "u2443",
+          "endUid": "u2443",
+          "quote": "If there's a voice that's near, that seems like it's coming from a ruin or something like that, where I could stay on the edge of the town, I'll go towards it."
+        },
+        {
+          "startUid": "u2444",
+          "endUid": "u2450",
+          "quote": "Okay, so you you there is there is one um like a soft, soft sobbing voice that’s just kind of moaning and then or start crying and then occasionally saying, ‘Please, no.’ Um, it sounds like it’s sort of coming like close from close to the walls, and you, you walk in that direction sort of weaving through the ruins for for a minute or two, and don’t seem to get any closer. It's like it—you know, you’re clearly going in the direction it’s coming from, but as you proceed, you’re not, you're not getting closer to it."
+        }
+      ],
+      "timeNodeIds": [
+        "n8"
+      ],
+      "concurrencyGroup": "parallel-scouting"
+    },
+    {
+      "id": "l29",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath leaves before patrol, exits gate, reunites with companions at bridge.",
+      "placeId": null,
+      "fromPlaceId": "voices",
+      "toPlaceId": "bridge",
+      "evidence": [
+        {
+          "startUid": "u2458",
+          "endUid": "u2459",
+          "quote": "All right, I'm gonna, I'm gonna get out before the before I have to wait for the patrol to pass. I guess 10 minutes away, I'll go in front of it and just get back to the bridge, head out the gate."
+        },
+        {
+          "startUid": "u2461",
+          "endUid": "u2463",
+          "quote": "So, with you all back at the bridge, your news—I assume at this point, you you're gonna head west?"
+        }
+      ],
+      "viaPlaceIds": [
+        "north"
+      ],
+      "timeNodeIds": [
+        "n9"
+      ]
+    },
+    {
+      "id": "l30",
+      "kind": "planned_route",
+      "frame": "planned",
+      "actors": [
+        "party"
+      ],
+      "reading": "Head west next; recording explicitly stops with leaving Kharsan deferred to next session. No arrival back at horses established.",
+      "placeId": null,
+      "fromPlaceId": "bridge",
+      "toPlaceId": "shelter",
+      "evidence": [
+        {
+          "startUid": "u2461",
+          "endUid": "u2463",
+          "quote": "So, with you all back at the bridge, your news—I assume at this point, you you're gonna head west?"
+        },
+        {
+          "startUid": "u2494",
+          "endUid": "u2495",
+          "quote": "Leaving Kharsan next time. I'm going to stop the recording."
+        }
+      ],
+      "timeNodeIds": [
+        "n9"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "region",
+      "label": "Kharsan and monastery region",
+      "kind": "region",
+      "parentId": null,
+      "vaultPath": null,
+      "parentRelation": null
+    },
+    {
+      "id": "monastery",
+      "label": "Bhishma monastery complex",
+      "kind": "site",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "stories",
+      "label": "Hall of Stories tower",
+      "kind": "building",
+      "parentId": "monastery",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "temple",
+      "label": "Temple of Bhishma",
+      "kind": "building",
+      "parentId": "monastery",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "foyer",
+      "label": "Temple foyer",
+      "kind": "room",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "chapel",
+      "label": "Entry chapel of Five Siblings",
+      "kind": "room",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "main",
+      "label": "Main Bhishma chamber",
+      "kind": "room",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "hall",
+      "label": "Side corridor with shadow creatures",
+      "kind": "corridor",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "below",
+      "label": "Sensed undead below entry chapel",
+      "kind": "unvisited_subsite",
+      "parentId": "temple",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "bath",
+      "label": "Monastery bathhouse",
+      "kind": "building",
+      "parentId": "monastery",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "river",
+      "label": "Dry Kharja riverbed",
+      "kind": "landform",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "camp1",
+      "label": "First camp, about one mile south of monastery",
+      "kind": "camp",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "turn",
+      "label": "Southern end of cliffs / turnaround",
+      "kind": "route_endpoint",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "camp2",
+      "label": "Second camp, roughly ten miles south of road",
+      "kind": "camp",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "road",
+      "label": "Dunmari road toward bridge",
+      "kind": "route",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "shelter",
+      "label": "Horse shelter against cliffs west of bridge",
+      "kind": "camp",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "bridge",
+      "label": "Stone bridge over dry riverbed west of Kharsan",
+      "kind": "structure",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "kharsan",
+      "label": "Kharsan",
+      "kind": "city",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "north",
+      "label": "Ruined northern district / gate",
+      "kind": "district",
+      "parentId": "kharsan",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "market",
+      "label": "Small river market",
+      "kind": "subsite",
+      "parentId": "north",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "shop",
+      "label": "Probable former glassblower shop",
+      "kind": "building",
+      "parentId": "market",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "voices",
+      "label": "Ruins near city wall where voice is pursued",
+      "kind": "subsite",
+      "parentId": "north",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "palace",
+      "label": "Palace complex",
+      "kind": "site",
+      "parentId": "kharsan",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "throne",
+      "label": "Palace audience chamber / black throne",
+      "kind": "room",
+      "parentId": "palace",
+      "vaultPath": null,
+      "parentRelation": "within"
+    },
+    {
+      "id": "fort",
+      "label": "Orc fort outside city",
+      "kind": "fort",
+      "parentId": "region",
+      "vaultPath": null,
+      "parentRelation": "within"
+    }
+  ],
+  "timelineNodes": [
+    {
+      "id": "n1",
+      "label": "Opening and temple exploration",
+      "markerIds": [
+        "t02",
+        "t03",
+        "t05",
+        "t06",
+        "t08"
+      ],
+      "date": "1748-05-11",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "late afternoon to sunset"
+    },
+    {
+      "id": "n2",
+      "label": "First camp",
+      "markerIds": [
+        "t09",
+        "t10"
+      ],
+      "date": "1748-05-11",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "evening / overnight"
+    },
+    {
+      "id": "n3",
+      "label": "First dawn and scout",
+      "markerIds": [
+        "t10",
+        "t11",
+        "t12",
+        "t13",
+        "t15"
+      ],
+      "date": "1748-05-12",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "dawn / early morning"
+    },
+    {
+      "id": "n4",
+      "label": "Southern turnaround",
+      "markerIds": [
+        "t16"
+      ],
+      "date": "1748-05-12",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "about 3 p.m."
+    },
+    {
+      "id": "n5",
+      "label": "Second camp",
+      "markerIds": [
+        "t17"
+      ],
+      "date": "1748-05-12",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "about an hour past sunset"
+    },
+    {
+      "id": "n6",
+      "label": "Second wake",
+      "markerIds": [
+        "t19"
+      ],
+      "date": "1748-05-13",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "just before 5 a.m."
+    },
+    {
+      "id": "n7",
+      "label": "Road and horse shelter",
+      "markerIds": [
+        "t20",
+        "t21"
+      ],
+      "date": "1748-05-13",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "about 9–10 a.m."
+    },
+    {
+      "id": "n8",
+      "label": "Bridge and parallel scouting",
+      "markerIds": [
+        "t23",
+        "t24",
+        "t25",
+        "t29",
+        "t30"
+      ],
+      "date": "1748-05-13",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "bridge approach before noon; later clock unknown"
+    },
+    {
+      "id": "n9",
+      "label": "Reunited at bridge",
+      "markerIds": [
+        "t31"
+      ],
+      "date": "1748-05-13",
+      "dateBasis": "conditional on YAML start plus two transcript-attested nights; no independent civil date",
+      "timeOfDay": "after scouting; no exact clock"
+    }
+  ],
+  "timeConstraints": [
+    {
+      "id": "c1",
+      "fromNode": "n1",
+      "toNode": "n2",
+      "relation": "same_evening",
+      "markerIds": [
+        "t02",
+        "t09"
+      ],
+      "dateBoundaries": 0
+    },
+    {
+      "id": "c2",
+      "fromNode": "n2",
+      "toNode": "n3",
+      "relation": "completed_overnight",
+      "markerIds": [
+        "t10"
+      ],
+      "dateBoundaries": 1
+    },
+    {
+      "id": "c3",
+      "fromNode": "n3",
+      "toNode": "n4",
+      "relation": "ride_until_clock_anchor",
+      "markerIds": [
+        "t11",
+        "t13",
+        "t15",
+        "t16"
+      ],
+      "dateBoundaries": 0,
+      "note": "Preparation/scouting precede ride; no exact departure clock."
+    },
+    {
+      "id": "c4",
+      "fromNode": "n4",
+      "toNode": "n5",
+      "relation": "ride_through_sunset_then_extra_hour",
+      "markerIds": [
+        "t16",
+        "t17"
+      ],
+      "dateBoundaries": 0
+    },
+    {
+      "id": "c5",
+      "fromNode": "n5",
+      "toNode": "n6",
+      "relation": "completed_overnight",
+      "markerIds": [
+        "t19"
+      ],
+      "dateBoundaries": 1
+    },
+    {
+      "id": "c6",
+      "fromNode": "n6",
+      "toNode": "n7",
+      "relation": "prepare_then_travel",
+      "markerIds": [
+        "t20",
+        "t21"
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "travel component only"
+      },
+      "note": "Do not force 5 a.m. + 3h = 9:30; breakfast/packing time unspecified and clocks approximate."
+    },
+    {
+      "id": "c7",
+      "fromNode": "n7",
+      "toNode": "n8",
+      "relation": "approach_and_parallel_scout",
+      "markerIds": [
+        "t23",
+        "t24",
+        "t25",
+        "t29",
+        "t30"
+      ],
+      "dateBoundaries": 0,
+      "note": "Two spells and 20-minute city visit overlap. Do not sum them; casting gaps and transit are not fixed."
+    },
+    {
+      "id": "c8",
+      "fromNode": "n8",
+      "toNode": "n9",
+      "relation": "reunite",
+      "markerIds": [
+        "t31"
+      ],
+      "dateBoundaries": 0
+    }
+  ],
+  "spatialRelations": [
+    {
+      "fromPlaceId": "foyer",
+      "toPlaceId": "chapel",
+      "relation": "connected_by_arch",
+      "evidence": [
+        {
+          "startUid": "u0146",
+          "endUid": "u0150",
+          "quote": "Okay. So with these preparations, you enter into the sort of foyer of the temple. So this—as you come up the stairs and go to the arch way you're in like a small kind of entry hall, almost, um. Looking—looking ahead, there's another open arch that seems to lead into some sort of—like... It looks like a small chapel or something like that in front of you, and then to your left and right there are stairs up."
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "chapel",
+      "toPlaceId": "main",
+      "relation": "connected_by_offset_arches",
+      "evidence": [
+        {
+          "startUid": "u0442",
+          "endUid": "u0444",
+          "quote": "Not exactly, because of the way the the archways that lead into... So there's the way the entry chapel is arranged, there's there's an arch way into the entry chapel from the outside, and then straight ahead from that there's a wall and then the archways into the main temple are like offset because there's an altar."
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "below",
+      "toPlaceId": "chapel",
+      "relation": "below_sensed_not_visited",
+      "evidence": [
+        {
+          "startUid": "u0274",
+          "endUid": "u0274",
+          "quote": "It's about 20 feet as far—it's below, it's—it's below us. Unless there's a trap door that falls down there, but—"
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "main",
+      "toPlaceId": "hall",
+      "relation": "connected_by_side_arches",
+      "evidence": [
+        {
+          "startUid": "u0344",
+          "endUid": "u0349",
+          "quote": "As you enter, yeah and so, then, as you look around, you can see, there are... there's, like... all around the sides of this big room there are openings that lead to seemingly like past, you know passageways are sort of hallways to the left and right. Oh, whoops."
+        },
+        {
+          "startUid": "u0474",
+          "endUid": "u0475",
+          "quote": "So you come around the corner, and and you're in a you're in a long hallway. Are you, though—what are you doing for light?"
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "camp1",
+      "toPlaceId": "monastery",
+      "relation": "about_one_mile_south_and_below_cliffs",
+      "evidence": [
+        {
+          "startUid": "u0938",
+          "endUid": "u0940",
+          "quote": "Right, so the first question is, how do you want to approach Kharsan? You have—you have the monastery. That's where we were, right? You're—you're about a mile south of the monastery, just off the edge of this map."
+        },
+        {
+          "startUid": "u0953",
+          "endUid": "u0958",
+          "quote": "Ah, so there's a hill. What's just south of this map is there's like cliffs along the—along the sort of southern edge of the monastery here, and the river turns to the—turns to the east. On this map north is up, so the river swings to the east, and you are camped—I mean, there's no water in the river—the dry riverbed swings to the east. You’re camped, like, across the river and below the cliffs from the monastery. But does not—but this is all kind of river floodplains up here. It's pretty much flat terrain extending for you know, 5–10 miles to the east. There's not a lot of cover unless you unless you cross the river and go on the cliff side, then there's a lot of cover."
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "camp2",
+      "toPlaceId": "road",
+      "relation": "roughly_ten_miles_south",
+      "evidence": [
+        {
+          "startUid": "u1625",
+          "endUid": "u1628",
+          "quote": "At the moment, you're maybe maybe 10 miles south of the—10 miles south of the road and about three miles. Three four miles west of the river."
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "bridge",
+      "toPlaceId": "river",
+      "relation": "spans_dry_riverbed",
+      "evidence": [
+        {
+          "startUid": "u1944",
+          "endUid": "u1948",
+          "quote": "And you are now all sort of crouched in the in the shadow of this bridge. So, so as you—as you approach the bridge, you can see that this—this is a stone bridge made of made of hard sandstone. But it's kind of pointless, as the river is just a dry wash. So it's this big bridge spanning nothing. It's early Dunmari construction, not not Drankorian, but solidly built, only crumbling in a few places."
+        }
+      ]
+    },
+    {
+      "fromPlaceId": "fort",
+      "toPlaceId": "kharsan",
+      "relation": "outside_city",
+      "evidence": [
+        {
+          "startUid": "u0977",
+          "endUid": "u0977",
+          "quote": "Why did they build a fort outside of town?"
+        },
+        {
+          "startUid": "u0985",
+          "endUid": "u0985",
+          "quote": "And it's strange, right?"
+        },
+        {
+          "startUid": "u0998",
+          "endUid": "u1001",
+          "quote": "And the whole thing is constructed from, um, from recovered stone from Kharsan, pretty much."
+        }
+      ]
+    }
+  ],
+  "issues": [
+    "No civil date spoken. All May dates are conditional on YAML start; two nights are independently narrated.",
+    "Sunset countdowns, spell durations, and scouting subtotals overlap. No single exact elapsed-hours figure is warranted.",
+    "Morning wake, preparation, travel duration and arrival clock are approximate; no forced reconciliation or extra night.",
+    "Wellby’s retcon changes event order within one trip. Ledger keeps source order and records the insertion.",
+    "Bridge endpoint is confirmed; westward departure is next-session intent.",
+    "Place IDs and names are local transcript labels, with no vault identity reconciliation. Map gestures and corrected cardinal directions do not justify coordinates."
+  ],
+  "contextSources": [],
+  "audit": {
+    "assessment": "supported_relative_span",
+    "yamlExpectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "individuallyNarratedOvernights": 2,
+    "explanation": "Two completed camps/overnights link opening dusk to the morning of day 3. This supports May 11–13 if May 11 is accepted from YAML; the calendar dates themselves are not independently spoken.",
+    "proposedYamlChange": null
+  },
+  "summary": "Dusk temple exploration → first camp → dawn scout → long southern riding loop and second camp → next-morning Kharsan reconnaissance → reunion at bridge. Two nights; parallel scouting is counted once."
+}

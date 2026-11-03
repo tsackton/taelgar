@@ -1,0 +1,986 @@
+{
+  "schemaVersion": "0.2-full-read-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:039",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+    "sessionYamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "transcriptSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1748-07-03",
+      "end": "1748-07-03"
+    }
+  },
+  "review": {
+    "status": "full-read-pilot-human-unreviewed",
+    "method": "Assistant read every polished transcript turn sequentially without keyword/speaker filtering, then authored sparse markers and context exclusions; deterministic validation of provenance and references.",
+    "coverage": {
+      "turnCount": 1648,
+      "windowsRead": [
+        [
+          1,
+          280
+        ],
+        [
+          281,
+          560
+        ],
+        [
+          561,
+          840
+        ],
+        [
+          841,
+          1120
+        ],
+        [
+          1121,
+          1400
+        ],
+        [
+          1401,
+          1648
+        ]
+      ],
+      "complete": true,
+      "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+      "sourceSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+      "yamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+      "headerRead": true,
+      "parserBodyAccounting": "all non-whitespace body content accounted for",
+      "truncatedWindowsAccepted": false
+    },
+    "limitation": "Full reading is not an independent second annotator or a gold-standard recall measurement. Source transcription uncertainty retained."
+  },
+  "summary": "One current day near Tokra: pre-dawn lair check → tunnel → northern fort → tower fight and mist rescue → nearby interrogation/rest → compressed town return. Opening prior-night prologue and closing rest ambiguity remain explicit.",
+  "issues": [
+    "YAML July 3-only is compatible with wake-to-close action. Literal opening includes previous night: choose and document session-boundary semantics before flagging YAML mismatch.",
+    "One short rest is certain; closing recovery could repeat it or be a second rest. Do not sum blindly. No completed closing long rest.",
+    "Closing return to town is accepted compressed narration; cure, prisoner handover and northbound departure are intentions rather than individually played completions.",
+    "Archives detour canceled by explicit retained-map agreement; do not invent visit.",
+    "Riswynn enters mist physically during combat, but no planar crossing is supported. Tower with Laka monks is a different destination.",
+    "Chronology of reported werewolf history is approximate; do not resolve inconsistent year estimates by inventing dates.",
+    "Mode of outbound travel and horse placement are unclear; map gestures do not support exact coordinates or current whereabouts for mounts.",
+    "Local place labels only; no independent vault identity reconciliation or completeness gold standard."
+  ],
+  "model": "location-A-transition-ledger",
+  "markers": [
+    {
+      "id": "l01",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Party wakes at unnamed inn in Tokra; opening sleep is previous-night framing.",
+      "placeId": "inn",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "comfortable beds at the inn"
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "And you awake in the pre-dawn darkness"
+        },
+        {
+          "startUid": "u0085",
+          "endUid": "u0087",
+          "quote": "we're here at Tokra"
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ],
+      "placeLabel": "Unnamed inn in Tokra",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l02",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Party approaches and checks city-side werewolf lair, finding two palace temple guards in first room; despite initial intention, this is not outside tunnel exit.",
+      "placeId": null,
+      "fromPlaceId": "inn",
+      "toPlaceId": "lair",
+      "evidence": [
+        {
+          "startUid": "u0116",
+          "endUid": "u0117",
+          "quote": "Can somebody— One person investigation check, one person perception, you can choose who's doing, each one as you approach the lair."
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "Sorry, I didn't see your perception, so you know as you get there it's—it's still dark, but the moon is bright and you have your Driftglobe for extra light. And you can see the, you know, obviously everything's broken and ruined, right? Um. There are no fresh signs of disturbance and, in fact, as you approach, you can see—you can see torch light like a like a small fire light inside the first room and you see as you approach the glint of two Palace temple guards sitting there struggling to keep their eyes open but armed and armored ready for for combat. They sort of—one of them kind of looks up briefly as you approach recognizing you from your descriptions and from the fact that they clearly sent them—told them some at least of your story—looks up kind of groggy and says, \"Yes, we've been watching as per orders. Haven't seen anything so far, nothing out of the ordinary. Quiet night.\""
+        },
+        {
+          "startUid": "u0288",
+          "endUid": "u0288",
+          "quote": "That's where I thought we were going, but we came to the other entrance instead."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Unnamed inn in Tokra",
+      "toLabel": "Werewolf lair / ruined building"
+    },
+    {
+      "id": "l03",
+      "kind": "observed_presence",
+      "frame": "current",
+      "actors": [
+        "two palace temple guards"
+      ],
+      "reading": "Two guards keep watch in lair’s first room; reported scavengers not identifiable visitors.",
+      "placeId": "lair",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "Sorry, I didn't see your perception, so you know as you get there it's—it's still dark, but the moon is bright and you have your Driftglobe for extra light. And you can see the, you know, obviously everything's broken and ruined, right? Um. There are no fresh signs of disturbance and, in fact, as you approach, you can see—you can see torch light like a like a small fire light inside the first room and you see as you approach the glint of two Palace temple guards sitting there struggling to keep their eyes open but armed and armored ready for for combat. They sort of—one of them kind of looks up briefly as you approach recognizing you from your descriptions and from the fact that they clearly sent them—told them some at least of your story—looks up kind of groggy and says, \"Yes, we've been watching as per orders. Haven't seen anything so far, nothing out of the ordinary. Quiet night.\""
+        },
+        {
+          "startUid": "u0138",
+          "endUid": "u0140",
+          "quote": "Just a handful of scavengers. Looking for what food they could find in some ruined building. No one else."
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ],
+      "placeLabel": "Werewolf lair / ruined building",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l04",
+      "kind": "canceled_visit",
+      "frame": "planned",
+      "actors": [
+        "party"
+      ],
+      "reading": "Archive retrieval considered then canceled by agreement that party retained map. No completed visit.",
+      "placeId": "archives",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0283",
+          "endUid": "u0284",
+          "quote": "So you want to, are you going to go back to the archive so you can go back to the archives and."
+        },
+        {
+          "startUid": "u0300",
+          "endUid": "u0301",
+          "quote": "You go back down to the basement. Sorry, just to be clear, you're first you're going to go back to the archives then you're coming back here and going into."
+        },
+        {
+          "startUid": "u0305",
+          "endUid": "u0306",
+          "quote": "Took yes, I was trying to tell you earlier we're going to take the map, but it was in the course of conversation really I thought we always kept the map."
+        },
+        {
+          "startUid": "u0307",
+          "endUid": "u0307",
+          "quote": "Okay, if you want to have kept the map that's fine."
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0318",
+          "quote": "Yeah okay that's fine."
+        }
+      ],
+      "completion": "canceled",
+      "placeLabel": "Tokra archives",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l05",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend lair basement and travel through secret tunnel, emerging in hollow outside walls at dawn. Initial archive detour removed.",
+      "placeId": null,
+      "fromPlaceId": "lair",
+      "toPlaceId": "exit",
+      "evidence": [
+        {
+          "startUid": "u0298",
+          "endUid": "u0298",
+          "quote": "Okay, so heading down."
+        },
+        {
+          "startUid": "u0299",
+          "endUid": "u0299",
+          "quote": "So we go into the basement yeah."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "You travel through these tunnels and emerge"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "hollow on the side of a long sloping hill"
+        }
+      ],
+      "viaPlaceIds": [
+        "basement",
+        "tunnel"
+      ],
+      "mode": "on_foot",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Werewolf lair / ruined building",
+      "toLabel": "Tunnel exit hollow outside city walls"
+    },
+    {
+      "id": "l06",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow old trail north roughly 5–6 miles over two narrated legs, stopping about half a mile south of fort summit.",
+      "placeId": null,
+      "fromPlaceId": "exit",
+      "toPlaceId": "approach",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "Maybe five six miles south"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "leading north towards this fort"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "maybe half a mile south of the summit"
+        }
+      ],
+      "mode": "travel mode not securely stated; horses later discussed",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Tunnel exit hollow outside city walls",
+      "toLabel": "Approach about half a mile south of fort summit"
+    },
+    {
+      "id": "l07",
+      "kind": "remote_observation",
+      "frame": "remote",
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker clairvoyantly observes three people in standing tower; party remains half a mile away. Tentative roofless description corrected to makeshift roof over observed chamber.",
+      "placeId": "interior",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0428",
+          "endUid": "u0428",
+          "quote": "The tower is not intact there's no roof."
+        },
+        {
+          "startUid": "u0528",
+          "endUid": "u0530",
+          "quote": "Hmm all right I'm gonna put an eye into the Tower just to end this quick question. Um, so I sit cross legged on the ground, draw a glowing eye in the air and cast."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0547",
+          "quote": "there is like a makeshift roof above the eye"
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0547",
+          "quote": "there are three people camped"
+        },
+        {
+          "startUid": "u0636",
+          "endUid": "u0636",
+          "quote": "This is half a mile from you yeah."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Inside standing tower",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l22",
+      "kind": "planned_route",
+      "frame": "planned",
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Four core companions intend northbound departure toward Saka, with next session starting on road. No arrival at Saka or monks’ tower.",
+      "placeId": null,
+      "fromPlaceId": "tokra",
+      "toPlaceId": "saka",
+      "evidence": [
+        {
+          "startUid": "u0455",
+          "endUid": "u0455",
+          "quote": "Monk is somewhere North up the river."
+        },
+        {
+          "startUid": "u2765",
+          "endUid": "u2765",
+          "quote": "Then we could just start next session on the road north."
+        },
+        {
+          "startUid": "u2771",
+          "endUid": "u2772",
+          "quote": "Lots of distractions I mean. The route you take brings you within like 15—within like a day's journey of the tower where the Laka monks went."
+        },
+        {
+          "startUid": "u2775",
+          "endUid": "u2775",
+          "quote": "But it's like a it's like a two day journey probably two or three day journey know what."
+        }
+      ],
+      "viaPlaceIds": [
+        "northroad"
+      ],
+      "timeNodeIds": [
+        "n5"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Tokra",
+      "toLabel": "Saka’s location upriver (not reached)"
+    },
+    {
+      "id": "l23",
+      "kind": "reported_presence",
+      "frame": "reported",
+      "actors": [
+        "Laka monks"
+      ],
+      "reading": "Laka monks associated with a separate tower on possible future detour; distinct from current fort and not visited.",
+      "placeId": "lakatower",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0459",
+          "endUid": "u0459",
+          "quote": "Correct well not that you know of."
+        },
+        {
+          "startUid": "u0460",
+          "endUid": "u0460",
+          "quote": "Everybody's at this Tower over here."
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0461",
+          "quote": "This tower, is where the."
+        },
+        {
+          "startUid": "u0462",
+          "endUid": "u0462",
+          "quote": "Monks."
+        },
+        {
+          "startUid": "u2771",
+          "endUid": "u2772",
+          "quote": "Lots of distractions I mean. The route you take brings you within like 15—within like a day's journey of the tower where the Laka monks went."
+        }
+      ],
+      "placeLabel": "Separate tower where Laka monks went",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l08",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Party advances to within about 50 feet, is heard, runs to tower opening and begins encounter.",
+      "placeId": null,
+      "fromPlaceId": "approach",
+      "toPlaceId": "tower",
+      "evidence": [
+        {
+          "startUid": "u0666",
+          "endUid": "u0669",
+          "quote": "So you head up towards the cliff—or, sorry, the tower, who is who is traveling where? And you're obviously trying to be stealthy."
+        },
+        {
+          "startUid": "u0714",
+          "endUid": "u0717",
+          "quote": "Maybe 50 feet from the tower and you—I'm—Wellby, you hear like the sound of like somebody being poked and and voices like, \"Hey, what's that?\""
+        },
+        {
+          "startUid": "u0723",
+          "endUid": "u0723",
+          "quote": "We run."
+        },
+        {
+          "startUid": "u0724",
+          "endUid": "u0724",
+          "quote": "Yes, forward."
+        },
+        {
+          "startUid": "u0735",
+          "endUid": "u0739",
+          "quote": "And this is basically the camp and so you run. Just to keep things simple and in order here let's let's roll initiative. I need to put your tokens on."
+        }
+      ],
+      "mode": "on_foot",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Approach about half a mile south of fort summit",
+      "toLabel": "Standing tower, camp and immediate entrance area"
+    },
+    {
+      "id": "l09",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "male werewolf",
+        "female werewolf",
+        "bound man / mad one",
+        "manifested creature"
+      ],
+      "reading": "Two werewolves and bound man occupy tower camp; bound man dies there and creature manifests.",
+      "placeId": "interior",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0977",
+          "endUid": "u0981",
+          "quote": "\"Too soon, too soon. It's not time, not time yet, not time. Not enough, not enough. But he'll still come he'll still come and if if they are dead, even though he is weak so we're not ready, not prepared.\" And then he draws this—this creature, this mad creature in the back draws the silver dagger out of his—out of the sheath and you can you can smell his flesh burning as he just stabs the dagger into his chest and blood begins to pour out of him. As."
+        },
+        {
+          "startUid": "u1013",
+          "endUid": "u1022",
+          "quote": "Ah. So this one here, who is who is who is restrained is just kind of struggling against the quicksand and kind of looking around both in horror and awe at what this what this person did. It's like kind of looks looks almost terrified like she wants to run doesn't doesn't speak just looks basically like, \"What—what have you done? I'm not ready.\" And it's just kind of looking around in fear not, not so much at you."
+        },
+        {
+          "startUid": "u1035",
+          "endUid": "u1037",
+          "quote": "Creature spilled out, it's like teeth and mouths are starting to form in the middle of this pool of quicksand as the blood congeals."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Inside standing tower",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l10",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "male werewolf",
+        "Kenzo"
+      ],
+      "reading": "Male werewolf flees around back of tower; Kenzo follows and knocks him unconscious. This is a local pursuit, not a party journey away.",
+      "placeId": null,
+      "fromPlaceId": "tower",
+      "toPlaceId": "rear",
+      "evidence": [
+        {
+          "startUid": "u1096",
+          "endUid": "u1100",
+          "quote": "Any melee attack can be non lethal. That hits. Does not kill him either. He's gonna dash around to the backside of the Tower here. Okay Kenzo you're up."
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1101",
+          "quote": "Um I guess I'll chase after him."
+        },
+        {
+          "startUid": "u1115",
+          "endUid": "u1116",
+          "quote": "I will do that 1-234-567-8910 1112 yeah you can totally catch them. Right well that's a bonus action and your moves, so you still have your regular action. You can make two attacks against him, if you want to try and knock them out."
+        },
+        {
+          "startUid": "u1120",
+          "endUid": "u1121",
+          "quote": "That first one, misses. Still second attack that hits and 10 is enough to knock them out."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "concurrencyGroup": "tower-combat",
+      "placeLabel": null,
+      "fromLabel": "Standing tower, camp and immediate entrance area",
+      "toLabel": "Behind standing tower"
+    },
+    {
+      "id": "l12",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "large shadow creature"
+      ],
+      "reading": "Large shadow creature emerges from mist toward combat at tower entrance area.",
+      "placeId": null,
+      "fromPlaceId": "mist",
+      "toPlaceId": "tower",
+      "evidence": [
+        {
+          "startUid": "u1195",
+          "endUid": "u1195",
+          "quote": "Floating out of the mists behind you."
+        },
+        {
+          "startUid": "u1199",
+          "endUid": "u1199",
+          "quote": "It's a tall large shadowy creature, it seems to almost be forming and reforming."
+        },
+        {
+          "startUid": "u1263",
+          "endUid": "u1263",
+          "quote": "It didn't already take a turn?"
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "concurrencyGroup": "tower-combat",
+      "note": "No planar transit origin asserted.",
+      "placeLabel": null,
+      "fromLabel": "Mist around fissure between fort towers",
+      "toLabel": "Standing tower, camp and immediate entrance area"
+    },
+    {
+      "id": "l11",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo dashes back around tower to assist companions.",
+      "placeId": null,
+      "fromPlaceId": "rear",
+      "toPlaceId": "tower",
+      "evidence": [
+        {
+          "startUid": "u1300",
+          "endUid": "u1301",
+          "quote": "So Kenzo you know, ran around the camp, you know did his part to subdue the werewolf knocked unconscious preparing to casually stroll back around the corner to seeing, you know, of course, his companions defeating the struggling and imprisoned, you know weird monster thing and turns the corner. I guess, have to dash all the way back then not him."
+        },
+        {
+          "startUid": "u1302",
+          "endUid": "u1303",
+          "quote": "Yeah you have to dash all the way back. That gives you 90 feet so that's nine times that's."
+        },
+        {
+          "startUid": "u1306",
+          "endUid": "u1309",
+          "quote": "Okay, so I'm gonna get over here about here first and then realizes, \"Oh shit, what the fuck is happening to the all the peeps?\" And we'll run over to—oh, should I cure Delwath's blindness, or should I engage the monster? Is—question is doing the blindness thing as an action item or."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "concurrencyGroup": "tower-combat",
+      "placeLabel": null,
+      "fromLabel": "Behind standing tower",
+      "toLabel": "Standing tower, camp and immediate entrance area"
+    },
+    {
+      "id": "l24",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "large shadow creature"
+      ],
+      "reading": "Shadow creature retreats from tower combat into mist, becoming heavily obscured.",
+      "placeId": null,
+      "fromPlaceId": "tower",
+      "toPlaceId": "mist",
+      "evidence": [
+        {
+          "startUid": "u1687",
+          "endUid": "u1690",
+          "quote": "Ah. And then it will. No, it's going to just stay where it is. Now it's gonna it'll it's going to feel it's feeling risky. It's going to retreat further back into the mist so Kenzo you may use your reaction to make an attack of opportunity against that."
+        },
+        {
+          "startUid": "u1695",
+          "endUid": "u1696",
+          "quote": "It is now heavily obscured and, hopefully, presumably still on fire has only you guess a few hit points left probably almost any hit will kill it at this point, but it's not—it's heavily obscured. It's not visible."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "concurrencyGroup": "tower-combat",
+      "placeLabel": null,
+      "fromLabel": "Standing tower, camp and immediate entrance area",
+      "toLabel": "Mist around fissure between fort towers"
+    },
+    {
+      "id": "l13",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn physically enters mist to pursue creature; compelled deeper. No evidence she crosses fissure or enters Pandemonium.",
+      "placeId": null,
+      "fromPlaceId": "tower",
+      "toPlaceId": "mist",
+      "evidence": [
+        {
+          "startUid": "u1740",
+          "endUid": "u1744",
+          "quote": "I'll just. Seeker's next? Does Vicious Mockery not need sight? I'll just I'll go into the mist probably not the smartest thing. So I'm just gonna dash a little bit ways in to get him within the right in the edge of my little bubble So what does that, like three?"
+        },
+        {
+          "startUid": "u1750",
+          "endUid": "u1754",
+          "quote": "Ah. As you—as you enter the mist, you can hear somewhere deeper in there is there is some whispering something calling to you, some some structure, sound or thing you can see vaguely in the mist, and you start—you're drawn towards it, you start walking towards that, so how much movement? You have another—another 10 feet of movement right?"
+        },
+        {
+          "startUid": "u1756",
+          "endUid": "u1756",
+          "quote": "And you're just you're pulled you're compelled every turn to move to spend your full movement moving deeper into the mist. Riswynn has now vanished from sight from the rest of you."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "concurrencyGroup": "tower-combat",
+      "placeLabel": null,
+      "fromLabel": "Standing tower, camp and immediate entrance area",
+      "toLabel": "Mist around fissure between fort towers"
+    },
+    {
+      "id": "l14",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Rope rescue breaks compulsion; Riswynn pulls herself out of mist. Earlier “vanished” revised to near edge / lightly obscured, so no invented deep endpoint.",
+      "placeId": null,
+      "fromPlaceId": "mist",
+      "toPlaceId": "tower",
+      "evidence": [
+        {
+          "startUid": "u1802",
+          "endUid": "u1803",
+          "quote": "You cannot see either of them. They're they're both in the mists. That's fine, that's probably only lightly obscured; she's right at the edge still."
+        },
+        {
+          "startUid": "u1865",
+          "endUid": "u1865",
+          "quote": "I'm going to cast Mage Hand and tie the rope around her waist."
+        },
+        {
+          "startUid": "u1905",
+          "endUid": "u1908",
+          "quote": "You don't need that. You sort of shake your head and the rope pulling you short reminds you like you sort of come to come to yourself, again, and this like noise, the song that was calling you into the mist and—or you can still hear it, but its compulsion on you ends and you grab the rope and you sort of are able to pull yourself back out of the mists."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "concurrencyGroup": "tower-combat",
+      "placeLabel": null,
+      "fromLabel": "Mist around fissure between fort towers",
+      "toLabel": "Standing tower, camp and immediate entrance area"
+    },
+    {
+      "id": "l15",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "Kenzo",
+        "unconscious male captive"
+      ],
+      "reading": "After fight, unconscious male is dragged from behind tower to camp.",
+      "placeId": null,
+      "fromPlaceId": "rear",
+      "toPlaceId": "tower",
+      "evidence": [
+        {
+          "startUid": "u1918",
+          "endUid": "u1921",
+          "quote": "That's us out as as the scene sort of quiet comes over the top of the hill. One werewolf presumably but not shifted into werewolf form cowering in the corner of the of the tower. The other in werewolf form unconscious behind the tower."
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1922",
+          "quote": "And drag the body over to the camp."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Behind standing tower",
+      "toLabel": "Standing tower, camp and immediate entrance area"
+    },
+    {
+      "id": "l16",
+      "kind": "reported_presence",
+      "frame": "reported",
+      "actors": [
+        "female captive"
+      ],
+      "reading": "Female captive says she lived in refugee camps by river outside town after arriving from east. Historical whereabouts, not current party visit.",
+      "placeId": "refugees",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u2014",
+          "endUid": "u2017",
+          "quote": "Here outside of town, in the refugee camps, by the river. Came, came from the East, with so many others."
+        }
+      ],
+      "placeLabel": "Refugee camps by river outside Tokra",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l17",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party",
+        "female captive",
+        "male captive on floating disc"
+      ],
+      "reading": "Leave tower with two prisoners and stop away from hill for interrogation. Intended half-mile retreat is not a measured distance; decide against full tunnel return yet.",
+      "placeId": null,
+      "fromPlaceId": "tower",
+      "toPlaceId": "stop",
+      "evidence": [
+        {
+          "startUid": "u2113",
+          "endUid": "u2118",
+          "quote": "Yeah take him unconscious on the disc and she can walk. We'll get away from the tower. And then I think we should have a little sidebar out of her earshot. But I think we should—if he—he seemed, I'm, hesitant. He did surrender or was close to it."
+        },
+        {
+          "startUid": "u2180",
+          "endUid": "u2180",
+          "quote": "We're gonna get like at least a half mile away from."
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2183",
+          "quote": "The hill first, right? Yeah yeah we're gonna go all the way back into yeah good good. We—are we are we not going all the way back into the."
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2185",
+          "quote": "Tunnels, you can go back to the tunnels that will take you another couple hours."
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2189",
+          "quote": "Let's do it right here."
+        },
+        {
+          "startUid": "u2191",
+          "endUid": "u2191",
+          "quote": "All right, we stop, um, so we can wake him up."
+        }
+      ],
+      "mode": "on_foot_and_floating_disc",
+      "timeNodeIds": [
+        "n4"
+      ],
+      "confidence": "medium for exact stop location",
+      "placeLabel": null,
+      "fromLabel": "Standing tower, camp and immediate entrance area",
+      "toLabel": "Interrogation stop away from hill / tower"
+    },
+    {
+      "id": "l18",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party",
+        "two captives"
+      ],
+      "reading": "Rest and interrogate captives at stop; both remain here through extended historical account.",
+      "placeId": "stop",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u2222",
+          "endUid": "u2223",
+          "quote": "Take a short rest and interrogate them so who's casting a healing spell? Is anybody or is he still unconscious?"
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2236",
+          "quote": "Yeah that's a healing spell. Okay, so he comes awake, looking blindfolded struggling screaming and then sort of like gritting his teeth and kind of clearly in pain from and unable to do much from the manacles also unable to see and tied up."
+        }
+      ],
+      "timeNodeIds": [
+        "n4"
+      ],
+      "placeLabel": "Interrogation stop away from hill / tower",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l19",
+      "kind": "reported_journey",
+      "frame": "reported",
+      "actors": [
+        "male captive / pack"
+      ],
+      "reading": "Male captive describes past pack life in Kharsan, then westward movement and arrival among Tokra refugees. Unspecified intermediate places stay unknown.",
+      "placeId": null,
+      "fromPlaceId": "kharsan",
+      "toPlaceId": "tokra",
+      "evidence": [
+        {
+          "startUid": "u2331",
+          "endUid": "u2332",
+          "quote": "Little I remember actually of our life before Kharsan."
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2387",
+          "quote": "We left Kharsan, moved west"
+        },
+        {
+          "startUid": "u2389",
+          "endUid": "u2410",
+          "quote": "heading for Tokra"
+        }
+      ],
+      "placeLabel": null,
+      "fromLabel": "Kharsan",
+      "toLabel": "Tokra"
+    },
+    {
+      "id": "l20",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party",
+        "two prisoners"
+      ],
+      "reading": "Agreed hand-wave returns party and prisoners to town. No exact route, arrival building, cure completion, or handover scene is narrated.",
+      "placeId": null,
+      "fromPlaceId": "stop",
+      "toPlaceId": "tokra",
+      "evidence": [
+        {
+          "startUid": "u2676",
+          "endUid": "u2676",
+          "quote": "I think the plan, we stated, is the same plan right? We're gonna—Riswynn's gonna cure the woman and we're giving the other one to Kaleha."
+        },
+        {
+          "startUid": "u2679",
+          "endUid": "u2679",
+          "quote": "Yeah so you'll you'll go back to town, basically, I mean one option would be, we can just kind of hand wave to going back to town stuff."
+        },
+        {
+          "startUid": "u2680",
+          "endUid": "u2680",
+          "quote": "Yeah yeah."
+        },
+        {
+          "startUid": "u2681",
+          "endUid": "u2681",
+          "quote": "I think we should do that yeah."
+        }
+      ],
+      "mode": "unspecified",
+      "completion": "accepted_compressed_return",
+      "timeNodeIds": [
+        "n5"
+      ],
+      "confidence": "medium",
+      "placeLabel": null,
+      "fromLabel": "Interrogation stop away from hill / tower",
+      "toLabel": "Tokra"
+    },
+    {
+      "id": "l21",
+      "kind": "planned_presence",
+      "frame": "planned",
+      "actors": [
+        "Riswynn",
+        "two prisoners"
+      ],
+      "reading": "Riswynn will remain in Tokra with dwarf friend, cure woman, and deliver male to Kaleha. These are wrap-up commitments; exact completed handover/cure not narrated.",
+      "placeId": "tokra",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u2676",
+          "endUid": "u2676",
+          "quote": "I think the plan, we stated, is the same plan right? We're gonna—Riswynn's gonna cure the woman and we're giving the other one to Kaleha."
+        },
+        {
+          "startUid": "u2678",
+          "endUid": "u2678",
+          "quote": "Do whatever she wants."
+        },
+        {
+          "startUid": "u2691",
+          "endUid": "u2692",
+          "quote": "Think I'm gonna hang out in town, hanging out with my dwarven friend. You guys go."
+        },
+        {
+          "startUid": "u2694",
+          "endUid": "u2694",
+          "quote": "Wow she'll still be in Tokra a maybe we'll reconnect when you get back from Saka."
+        }
+      ],
+      "timeNodeIds": [
+        "n5"
+      ],
+      "placeLabel": "Tokra",
+      "fromLabel": null,
+      "toLabel": null
+    }
+  ]
+}

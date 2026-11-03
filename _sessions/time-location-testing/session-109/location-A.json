@@ -1,0 +1,946 @@
+{
+  "schemaVersion": "0.1-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:109",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+    "sessionYamlSha256": "3cb847415bd9208455b54ab70231b68899be7ac547cea3489305c49c8124ca3b",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-transcript.md",
+    "transcriptSha256": "bc3f08c9837ed8f1553993327bf05e5c45b979655630ae6d05ec31e11aa4d69b",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1749-05-19",
+      "end": "1749-05-19"
+    }
+  },
+  "review": {
+    "status": "pilot-human-unreviewed",
+    "method": "Ordered candidate sweep of all polished turns; expanded full-turn context at selected decisions; supplementary numeric-clock/spatial sweep; focused semantic review; deterministic provenance checks.",
+    "limitation": "Not an independent exhaustive semantic audit of every turn. Recall not measured. Source transcription uncertainty retained."
+  },
+  "summary": "One current day from sunrise to sunset, with a previous-evening scouting flashback. Study and short rests overlap; no exact total-hour reconstruction.",
+  "issues": [
+    "Rest conventions are explicit assumptions; a long rest does not automatically equal a new calendar date.",
+    "Previous-evening retcon is outside the current May 19 day; may need separate retrospective coverage if future YAML semantics include flashbacks.",
+    "Rooftop ritual was proposed, not completed; later rests overlap other activity.",
+    "Room dimensions and map gestures are inconsistent/imprecise; no metric floor plan or coordinate assignment is attempted.",
+    "Upper ritual-room anvil and lower magical forge remain distinct. Sibyl temple here is not the similarly named Tollen building."
+  ],
+  "model": "location-A-transition-ledger",
+  "markers": [
+    {
+      "id": "l01",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Morning at summit; visible tower to west is not yet visited.",
+      "placeId": "summit",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0043",
+          "quote": "So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools."
+        },
+        {
+          "startUid": "u0059",
+          "endUid": "u0059",
+          "quote": "This is Apollyon's Tower to the west that we can see now-"
+        }
+      ],
+      "timeNodeIds": [
+        "n1"
+      ],
+      "placeLabel": "Mountain summit / Dimitaur’s temple area",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l02",
+      "kind": "remote_observation",
+      "frame": "flashback_remote",
+      "actors": [
+        "Seeker",
+        "Kenzo (subsequent aura sensing)"
+      ],
+      "reading": "Retrospective clairvoyance observes dragon-lair surface, villa, plaza and pools; no physical visit.",
+      "placeId": "lair",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u0103",
+          "endUid": "u0104",
+          "quote": "Uh, you can discuss it. You have to roll... So before, we'll retcon back to before the long rest."
+        },
+        {
+          "startUid": "u0139",
+          "endUid": "u0139",
+          "quote": "Okay, so we're gonna look above ground at the dragon's lair."
+        },
+        {
+          "startUid": "u0166",
+          "endUid": "u0183",
+          "quote": "there is a structure here"
+        }
+      ],
+      "timeNodeIds": [
+        "n0"
+      ],
+      "placeLabel": "Dragon-lair surface: ruined villa, plaza, pools",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l03",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Party flies west as ospreys across forest, plain and jagged terrain to coastal tower.",
+      "placeId": null,
+      "fromPlaceId": "summit",
+      "toPlaceId": "roof",
+      "evidence": [
+        {
+          "startUid": "u0970",
+          "endUid": "u0976",
+          "quote": "you fly west"
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u0976",
+          "quote": "descend from the mountain"
+        },
+        {
+          "startUid": "u1005",
+          "endUid": "u1021",
+          "quote": "a couple hours pass as you fly"
+        }
+      ],
+      "viaPlaceIds": [
+        "flight"
+      ],
+      "mode": "fly",
+      "timeNodeIds": [
+        "n2"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Mountain summit / Dimitaur’s temple area",
+      "toLabel": "Upper rooftop / hatch"
+    },
+    {
+      "id": "l04",
+      "kind": "arrival",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Land at tower top under fire; hatch is on edge, not center after DM correction.",
+      "placeId": null,
+      "fromPlaceId": null,
+      "toPlaceId": "roof",
+      "evidence": [
+        {
+          "startUid": "u1152",
+          "endUid": "u1157",
+          "quote": "as you come in to land"
+        },
+        {
+          "startUid": "u1274",
+          "endUid": "u1276",
+          "quote": "Uh, I'm, I'm gonna turn out from... I'm gonna become back into Delwath, land and sit on the floor. There's no point in staying a bird."
+        },
+        {
+          "startUid": "u1751",
+          "endUid": "u1752",
+          "quote": "... the description was a little bit i- inaccurate. The trapdoor is not in the center of the-"
+        },
+        {
+          "startUid": "u1754",
+          "endUid": "u1754",
+          "quote": "... it's on the edge"
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": null,
+      "toLabel": "Upper rooftop / hatch"
+    },
+    {
+      "id": "l05",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Wellby first drops through hatch; others follow by ladder into ritual room.",
+      "placeId": null,
+      "fromPlaceId": "roof",
+      "toPlaceId": "ritual",
+      "evidence": [
+        {
+          "startUid": "u1544",
+          "endUid": "u1544",
+          "quote": "[chime] Thing opens."
+        },
+        {
+          "startUid": "u1556",
+          "endUid": "u1556",
+          "quote": "And I'll jump down into the hole."
+        },
+        {
+          "startUid": "u1568",
+          "endUid": "u1569",
+          "quote": "Okay, so, so Kenzo's up. Wellby jumps down into the hole."
+        },
+        {
+          "startUid": "u1799",
+          "endUid": "u1799",
+          "quote": "... as my action, climb down, closing the trapdoor behind me."
+        }
+      ],
+      "mode": "ladder",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "confidence": "high for room entry; arrival staggered",
+      "placeLabel": null,
+      "fromLabel": "Upper rooftop / hatch",
+      "toLabel": "Upper ritual room: manacles and small anvil"
+    },
+    {
+      "id": "l06",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Room has manacles and mundane small anvil; this is distinct from lower magical forge.",
+      "placeId": "ritual",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u1734",
+          "endUid": "u1737",
+          "quote": "... 20 feet in diameter. Um, on one wall there are manacles chained to the wa- ha- hanging on the wall. Um, and there is a, a channel carved into the floor that spirals and spirals and spirals and spirals downwards."
+        },
+        {
+          "startUid": "u1756",
+          "endUid": "u1761",
+          "quote": "So the ladder comes down like a wall. Um, there is also what looks like a, um, a anvil s- up against the, a wall on the opposite side of the-"
+        },
+        {
+          "startUid": "u1867",
+          "endUid": "u1869",
+          "quote": "Um, the... I mean, the manacles are magic. The f- the forge is not magic."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Upper ritual room: manacles and small anvil",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l07",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend uninterrupted spire staircase to terrace landing; exit is available but no terrace visit established.",
+      "placeId": null,
+      "fromPlaceId": "ritual",
+      "toPlaceId": "landing",
+      "evidence": [
+        {
+          "startUid": "u4476",
+          "endUid": "u4476",
+          "quote": "Descend the stairs."
+        },
+        {
+          "startUid": "u4497",
+          "endUid": "u4497",
+          "quote": "Okay. The stairs go down the entire length of the spire with no breaks or stops or doors."
+        },
+        {
+          "startUid": "u4506",
+          "endUid": "u4508",
+          "quote": "You come out in the middle section. There is a, there is a, uh... So you come out to a landing that has a door out to the middle section and then more stairs that go down."
+        },
+        {
+          "startUid": "u4511",
+          "endUid": "u4512",
+          "quote": "It's that door. Yeah, yeah, yeah. So, like, you're at a landing where you could exit to the middle section or you could continue down into the main tower."
+        }
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Upper ritual room: manacles and small anvil",
+      "toLabel": "Landing at middle terrace, below upper spire"
+    },
+    {
+      "id": "l08",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue down to large decayed room.",
+      "placeId": null,
+      "fromPlaceId": "landing",
+      "toPlaceId": "empty",
+      "evidence": [
+        {
+          "startUid": "u4547",
+          "endUid": "u4553",
+          "quote": "Um, you come down, um, into a, the, the, the next room down of the tower is just one large open room. There are stairs that continue down. There's windows. There were no windows in the room at the very top. The windows are open and you can smell the salt air of the sea blowing in. You can hear the waves crashing."
+        }
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Landing at middle terrace, below upper spire",
+      "toLabel": "Large decayed room below landing"
+    },
+    {
+      "id": "l09",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Next floor down: ruined library.",
+      "placeId": null,
+      "fromPlaceId": "empty",
+      "toPlaceId": "library",
+      "evidence": [
+        {
+          "startUid": "u4604",
+          "endUid": "u4604",
+          "quote": "Next floor."
+        },
+        {
+          "startUid": "u4606",
+          "endUid": "u4614",
+          "quote": "the next floor"
+        },
+        {
+          "startUid": "u4606",
+          "endUid": "u4614",
+          "quote": "once a library"
+        }
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Large decayed room below landing",
+      "toLabel": "Ruined library with two surviving books"
+    },
+    {
+      "id": "l10",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Next floor: divided room with statues; staircase ends here.",
+      "placeId": null,
+      "fromPlaceId": "library",
+      "toPlaceId": "statues",
+      "evidence": [
+        {
+          "startUid": "u4864",
+          "endUid": "u4869",
+          "quote": "Okay, so, um, uh, on this floor, you come out and there's like, there's a wall that goes, you come out in the middle of like, the pillar goes down the middle of the room, and the stairway stops here. There's a wall that runs in the middle, so you, you can only see half of the floor. There's two doors on either side of like about 10 feet away from the middle of the staircase. Um, and the, the side of it you-"
+        },
+        {
+          "startUid": "u4876",
+          "endUid": "u4895",
+          "quote": "three statues"
+        }
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Ruined library with two surviving books",
+      "toLabel": "Statue / meeting room at stair termination"
+    },
+    {
+      "id": "l11",
+      "kind": "remote_observation",
+      "frame": "remote",
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath sees through wall into rear half and through floor into bedroom; do not infer entry into rear room.",
+      "placeId": "rear",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u4914",
+          "endUid": "u4914",
+          "quote": "I'm gonna look through the wall."
+        },
+        {
+          "startUid": "u4923",
+          "endUid": "u4929",
+          "quote": "Delwath's looking through"
+        },
+        {
+          "startUid": "u4987",
+          "endUid": "u4987",
+          "quote": "Stairs down. The room beneath us is a bedroom with a chest of coins."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Rear half of divided floor, rattling remains",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l12",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Bypass rear room: transform to birds and fly into bedroom on next floor.",
+      "placeId": null,
+      "fromPlaceId": "statues",
+      "toPlaceId": "bedroom",
+      "evidence": [
+        {
+          "startUid": "u4996",
+          "endUid": "u4997",
+          "quote": "... use the stairs. So I turn everyone back into ospreys."
+        },
+        {
+          "startUid": "u5026",
+          "endUid": "u5026",
+          "quote": "Okay. So you fly into the next floor as birds."
+        },
+        {
+          "startUid": "u5061",
+          "endUid": "u5061",
+          "quote": "So we come in through the bedroom. And is there a door from the bedroom to the study?"
+        }
+      ],
+      "mode": "fly_via_exterior",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Statue / meeting room at stair termination",
+      "toLabel": "Bedroom/study floor entered through windows"
+    },
+    {
+      "id": "l13",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend through two more residential floors; compressed narration retains them as a group.",
+      "placeId": null,
+      "fromPlaceId": "bedroom",
+      "toPlaceId": "quarters",
+      "evidence": [
+        {
+          "startUid": "u5218",
+          "endUid": "u5222",
+          "quote": "No. Uh, the next level is very similar to this one. Uh, it looks like just more living space and private quarters, and the next one down after that as well. I mean, this is, like, three floors of just the heart of the living space of the tower. Uh, you know, another, like, 200 gold coins and, and 2,000 silver coins."
+        }
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Bedroom/study floor entered through windows",
+      "toLabel": "Two further residential floors"
+    },
+    {
+      "id": "l14",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Reach ground-floor foyer.",
+      "placeId": null,
+      "fromPlaceId": "quarters",
+      "toPlaceId": "foyer",
+      "evidence": [
+        {
+          "startUid": "u5273",
+          "endUid": "u5274",
+          "quote": "Uh, going through the living quarters, you come down finally to the ground floor."
+        },
+        {
+          "startUid": "u5314",
+          "endUid": "u5319",
+          "quote": "grand entrance foyer"
+        }
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Two further residential floors",
+      "toLabel": "Ground-floor entrance foyer"
+    },
+    {
+      "id": "l15",
+      "kind": "observation",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Look through small doorway into guard room with peepholes and descending stairs.",
+      "placeId": "guard",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u5368",
+          "endUid": "u5368",
+          "quote": "Right. Let's check out the little door."
+        },
+        {
+          "startUid": "u5370",
+          "endUid": "u5373",
+          "quote": "Um, there are stairs down, and what looks like a small sort of guard room that could, like, watch out. There's, like, a ar- a lookout so that you can look out to the, you can see out. There's, like, peepholes so you can see out to the outside, and then there's stairs down."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Small guard room with stairs down",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l16",
+      "kind": "observation",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Open interior doors onto audience chamber with skeletons, then shut doors. Initial observation is not full party entry.",
+      "placeId": "audience",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u5384",
+          "endUid": "u5401",
+          "quote": "you open the doors"
+        },
+        {
+          "startUid": "u5384",
+          "endUid": "u5401",
+          "quote": "audience chamber"
+        },
+        {
+          "startUid": "u5404",
+          "endUid": "u5405",
+          "quote": "I use the door that closes again. [laughs]"
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Ground-floor audience chamber / throne room",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l17",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath and Seeker outside for window attack; not evidence that all characters left.",
+      "placeId": "outside",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u5543",
+          "endUid": "u5543",
+          "quote": "All right. But you, can you magic me back into a bird when I'm outside?"
+        },
+        {
+          "startUid": "u5663",
+          "endUid": "u5663",
+          "quote": "I... We're outside."
+        },
+        {
+          "startUid": "u5667",
+          "endUid": "u5668",
+          "quote": "Oh, that's true. I will shout through the telepathy that Seeker is somehow possessed."
+        }
+      ],
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Outside audience-chamber windows",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l18",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Audience chamber subsequently accessed to handle throne; precise re-entry moment unstated.",
+      "placeId": "audience",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u5795",
+          "endUid": "u5795",
+          "quote": "If you want to open the doors to the throne room."
+        },
+        {
+          "startUid": "u5953",
+          "endUid": "u5954",
+          "quote": "... I don't think four elephants aren't gonna fit in this room. Maybe they would. It'd be a tight squeeze."
+        },
+        {
+          "startUid": "u5960",
+          "endUid": "u5960",
+          "quote": "Okay, let's, let's, we got the throne in the door."
+        }
+      ],
+      "confidence": "medium",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": "Ground-floor audience chamber / throne room",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l19",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend to storage level, then deeper stairs and solid metal door.",
+      "placeId": null,
+      "fromPlaceId": "audience",
+      "toPlaceId": "door",
+      "evidence": [
+        {
+          "startUid": "u6025",
+          "endUid": "u6027",
+          "quote": "Yeah. So the stairs come down and open out into what seems like a sort of storage room and keep going down. There's one more level."
+        },
+        {
+          "startUid": "u6052",
+          "endUid": "u6055",
+          "quote": "Okay, so the, the stairs, so the stairs are running along the side of the, of, of the tower, but it's hard to... Like, who knows whether the tower is... The circular shape continues. They actually go down slightly, um, and then turn a sharp corner, and go down slightly more, and come to a solid metal door."
+        }
+      ],
+      "viaPlaceIds": [
+        "guard",
+        "store"
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n3"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Ground-floor audience chamber / throne room",
+      "toLabel": "Lower corridor / metal-door threshold"
+    },
+    {
+      "id": "l20",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to throne room for accepted short rest; exact movement compressed.",
+      "placeId": null,
+      "fromPlaceId": "door",
+      "toPlaceId": "audience",
+      "evidence": [
+        {
+          "startUid": "u6134",
+          "endUid": "u6134",
+          "quote": "Back up in the throne room?"
+        },
+        {
+          "startUid": "u6135",
+          "endUid": "u6135",
+          "quote": "Let's go back into the throne room and, like- Yeah, where there's full of skeletons and stuff ..."
+        },
+        {
+          "startUid": "u6153",
+          "endUid": "u6153",
+          "quote": "Let's short rest. Okay. Yeah, you can short rest."
+        }
+      ],
+      "mode": "stairs",
+      "confidence": "medium",
+      "timeNodeIds": [
+        "n4"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Lower corridor / metal-door threshold",
+      "toLabel": "Ground-floor audience chamber / throne room"
+    },
+    {
+      "id": "l21",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "After rest return down to metal door; see forge through door, then fight from corridor.",
+      "placeId": null,
+      "fromPlaceId": "audience",
+      "toPlaceId": "door",
+      "evidence": [
+        {
+          "startUid": "u6199",
+          "endUid": "u6199",
+          "quote": "So you go back down to the door, you ghostly gaze."
+        },
+        {
+          "startUid": "u6209",
+          "endUid": "u6217",
+          "quote": "you do see through the door"
+        },
+        {
+          "startUid": "u6744",
+          "endUid": "u6744",
+          "quote": "... that's the corridor."
+        }
+      ],
+      "mode": "stairs",
+      "timeNodeIds": [
+        "n4"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Ground-floor audience chamber / throne room",
+      "toLabel": "Lower corridor / metal-door threshold"
+    },
+    {
+      "id": "l22",
+      "kind": "arrival",
+      "frame": "current",
+      "actors": [
+        "Delwath (first)",
+        "party (search)"
+      ],
+      "reading": "After fight Delwath runs into forge room; subsequent group search is local.",
+      "placeId": null,
+      "fromPlaceId": null,
+      "toPlaceId": "forge",
+      "evidence": [
+        {
+          "startUid": "u8687",
+          "endUid": "u8687",
+          "quote": "I'm, I'm just gonna run inside the room-"
+        },
+        {
+          "startUid": "u8693",
+          "endUid": "u8693",
+          "quote": "You, you run into the room?"
+        },
+        {
+          "startUid": "u8791",
+          "endUid": "u8791",
+          "quote": "[laughs] All right. Let's, uh, yeah, let's search the room."
+        },
+        {
+          "startUid": "u8792",
+          "endUid": "u8793",
+          "quote": "There's nothing... I mean, okay. Uh, so looking around this main room before you open any doors."
+        }
+      ],
+      "timeNodeIds": [
+        "n4"
+      ],
+      "placeLabel": null,
+      "fromLabel": null,
+      "toLabel": "Lower magical forge room"
+    },
+    {
+      "id": "l23",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Open door into metal-bar storeroom; observed/accessed room, not a new site.",
+      "placeId": "metal",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u8845",
+          "endUid": "u8845",
+          "quote": "Let's look in the metal room first."
+        },
+        {
+          "startUid": "u8849",
+          "endUid": "u8857",
+          "quote": "Um, so you open the door and you look in. Uh, there's, you know, there's a, there's a shelf that goes along the back that stretches about 10, 15 feet along the, along the, the side wall. It's a sort of empty, dusty stone room. Um, and, uh, there's like probably 200, like, metal bars all sort of evenly sized like this. Um, some fairly mundane. All the adamantine seems to have been used up."
+        }
+      ],
+      "timeNodeIds": [
+        "n4"
+      ],
+      "placeLabel": "Metal-bar storeroom",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l24",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter other side room: etching workshop.",
+      "placeId": "etching",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u9069",
+          "endUid": "u9069",
+          "quote": "Do you want to go into the other room?"
+        },
+        {
+          "startUid": "u9071",
+          "endUid": "u9076",
+          "quote": "Okay. So the other room, like, you spend a little bit... You go in there and you spend a little time looking around. Like, the Seeker recognizes this is clearly, um, like, the wor- a workshop for, like, etching metal. There's, like, a ceramic basin, there's, like, acid. There's, um, there's, like, vials of different chemicals that you can pour on things, various ways that you could etch metal here."
+        }
+      ],
+      "timeNodeIds": [
+        "n4"
+      ],
+      "placeLabel": "Etching workshop",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l25",
+      "kind": "presence",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "Research and preparations in lower forge area; exact subroom during all reading not pinned down.",
+      "placeId": "forge",
+      "fromPlaceId": null,
+      "toPlaceId": null,
+      "evidence": [
+        {
+          "startUid": "u9836",
+          "endUid": "u9837",
+          "quote": "It's like an hour and you're like, [sighs] \"I sort of think I'm piecing this together. Like, maybe if I had another hour or two.\""
+        },
+        {
+          "startUid": "u9868",
+          "endUid": "u9875",
+          "quote": "6:00."
+        },
+        {
+          "startUid": "u10045",
+          "endUid": "u10046",
+          "quote": "Fine, so we, we come back to the forge. We're not gonna... We're gonna teleport out to Dimitaur from here,"
+        }
+      ],
+      "confidence": "medium",
+      "timeNodeIds": [
+        "n5",
+        "n6"
+      ],
+      "placeLabel": "Lower magical forge room",
+      "fromLabel": null,
+      "toLabel": null
+    },
+    {
+      "id": "l26",
+      "kind": "journey",
+      "frame": "current",
+      "actors": [
+        "party"
+      ],
+      "reading": "At sunset teleport back to Sibyl temple where Dimitaur is; no physical route across island.",
+      "placeId": null,
+      "fromPlaceId": "forge",
+      "toPlaceId": "sibyl",
+      "evidence": [
+        {
+          "startUid": "u10074",
+          "endUid": "u10074",
+          "quote": "And you're leaving, teleporting back?"
+        },
+        {
+          "startUid": "u10076",
+          "endUid": "u10078",
+          "quote": "It's gotten dark. Sun... Well, it's not quite dark. The sun is setting."
+        },
+        {
+          "startUid": "u10079",
+          "endUid": "u10079",
+          "quote": "So we teleport back to the temple of s- the Sibyl?"
+        },
+        {
+          "startUid": "u10081",
+          "endUid": "u10081",
+          "quote": "Where Dimitaur is?"
+        },
+        {
+          "startUid": "u10085",
+          "endUid": "u10085",
+          "quote": "Okay."
+        }
+      ],
+      "mode": "teleport",
+      "timeNodeIds": [
+        "n7"
+      ],
+      "placeLabel": null,
+      "fromLabel": "Lower magical forge room",
+      "toLabel": "Temple of the Sibyl at summit, not Tollen’s temple"
+    }
+  ]
+}

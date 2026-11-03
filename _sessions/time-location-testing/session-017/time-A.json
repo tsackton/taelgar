@@ -1,0 +1,291 @@
+{
+  "schemaVersion": "0.1-experiment",
+  "provenance": {
+    "sessionId": "dunmar-frontier:017",
+    "campaignDisplay": "Dunmari Frontier",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+    "sessionYamlSha256": "ff51e2303345a07a32461c7aae31dd0ef415742d502a7b3118d729658a71a1c2",
+    "sourceKey": "transcriptProcessing.artifacts.polishedMarkdown",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
+    "transcriptSha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69",
+    "transcriptStatus": "complete_with_uncertainty",
+    "yamlDates": {
+      "start": "1748-04-16",
+      "end": "1748-04-24"
+    }
+  },
+  "review": {
+    "status": "pilot-human-unreviewed",
+    "method": "Ordered candidate sweep of all polished turns; expanded full-turn context at selected decisions; supplementary numeric-clock/spatial sweep; focused semantic review; deterministic provenance checks.",
+    "limitation": "Not an independent exhaustive semantic audit of every turn. Recall not measured. Source transcription uncertainty retained."
+  },
+  "summary": "Eight calendar boundaries, from April 16 morning to April 24 arrival. Exact total hours and arrival clock remain unknown.",
+  "issues": [
+    "Opening short-rest reference is retrospective; do not manufacture an extra rest after the gnoll encounter.",
+    "The eight-day tower recollection refers to an earlier event, not an additional eight-day transition."
+  ],
+  "model": "time-A-evidence-ledger",
+  "markers": [
+    {
+      "id": "t01",
+      "kind": "time_of_day",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Opening morning at camp; April 16 is YAML-anchored and independently recoverable from the next morning.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "as the morning heat begins to grow"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "kind": "clock",
+      "frame": "current",
+      "actor": "party",
+      "reading": "About 10 a.m.; prior night was sleepless, not a newly completed overnight.",
+      "evidence": [
+        {
+          "startUid": "u0624",
+          "endUid": "u0629",
+          "quote": "it's like 10 o'clock in the morning now. You were up all night."
+        }
+      ],
+      "clock": "10:00",
+      "precision": "approximate"
+    },
+    {
+      "id": "t03",
+      "kind": "elapsed",
+      "frame": "current",
+      "actor": "party",
+      "reading": "After lunch, then into afternoon during slow southbound travel.",
+      "evidence": [
+        {
+          "startUid": "u0766",
+          "endUid": "u0777",
+          "quote": "And so by after lunchtime, you've only made it, you know, a handful of miles. And as you press on into the afternoon"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "kind": "rest",
+      "frame": "retrospective",
+      "actor": "party",
+      "reading": "Short rest already happened before this fight; do not add a new hour here.",
+      "evidence": [
+        {
+          "startUid": "u0878",
+          "endUid": "u0878",
+          "quote": "Oh, here's a question. Did we do a short rest at some point?"
+        },
+        {
+          "startUid": "u0880",
+          "endUid": "u0880",
+          "quote": "We short rested, but we did not long rest."
+        },
+        {
+          "startUid": "u0881",
+          "endUid": "u0881",
+          "quote": "So click the short rest button to get all your ki back."
+        }
+      ],
+      "durationConvention": {
+        "minutes": 60,
+        "application": "prior rest; placement uncertain, not additive"
+      }
+    },
+    {
+      "id": "t05",
+      "kind": "time_of_day",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Mid-afternoon at the gnoll encounter site.",
+      "evidence": [
+        {
+          "startUid": "u1121",
+          "endUid": "u1121",
+          "quote": "Like mid afternoon now. You could just set up camp here."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "kind": "overnight",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Camp and sleep for the night; one long rest.",
+      "evidence": [
+        {
+          "startUid": "u1177",
+          "endUid": "u1179",
+          "quote": "as you set up camp here, sleep for the night. Ah, so, so, long rests."
+        }
+      ],
+      "durationConvention": {
+        "minutes": 480,
+        "application": "nominal long-rest duration, not exact elapsed overnight"
+      }
+    },
+    {
+      "id": "t07",
+      "kind": "date_anchor",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Morning of April 17.",
+      "evidence": [
+        {
+          "startUid": "u1186",
+          "endUid": "u1197",
+          "quote": "And the morning of April 17. April 17"
+        }
+      ],
+      "month": 4,
+      "day": 17,
+      "yearBasis": "YAML"
+    },
+    {
+      "id": "t08",
+      "kind": "montage",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Six days of travel; another long rest is included in that montage, not added to its duration.",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1210",
+          "quote": "Over the next six days you slowly, laboriously make your way across the plains"
+        },
+        {
+          "startUid": "u1198",
+          "endUid": "u1210",
+          "quote": "take another long rest to clear your conditions"
+        }
+      ],
+      "duration": {
+        "value": 6,
+        "unit": "day",
+        "precision": "approximate"
+      },
+      "countGroup": "travel-six-days"
+    },
+    {
+      "id": "t09",
+      "kind": "date_anchor",
+      "frame": "current",
+      "actor": "party",
+      "reading": "April 23, evening camp a half-day north of Karawa.",
+      "evidence": [
+        {
+          "startUid": "u1217",
+          "endUid": "u1220",
+          "quote": "So, after six days on the plains, on the April 23, now a month and a day after you all met in Karawa at the occasion of the hyena attacks on the town, you find yourself now about half day's journey north of Karawa, camped in a sheltered spot along the old trade road running east-west."
+        },
+        {
+          "startUid": "u1247",
+          "endUid": "u1247",
+          "quote": "So, camped the night before entering—returning to the city, what would you like to do?"
+        }
+      ],
+      "month": 4,
+      "day": 23,
+      "yearBasis": "YAML",
+      "countGroup": "travel-six-days"
+    },
+    {
+      "id": "t15",
+      "kind": "forecast",
+      "frame": "planned",
+      "actor": "party",
+      "reading": "Arrival by lunch tomorrow is a forecast at the April 23 camp; actual arrival time remains unstated.",
+      "evidence": [
+        {
+          "startUid": "u1221",
+          "endUid": "u1228",
+          "quote": "you expect that by lunch tomorrow you will be arriving in Karawa."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "kind": "retrospective_elapsed",
+      "frame": "retrospective",
+      "actor": "party",
+      "reading": "Eight days since the mirror was used inside the tower; cross-check only, no new advance.",
+      "evidence": [
+        {
+          "startUid": "u1270",
+          "endUid": "u1270",
+          "quote": "It's been eight days since you were inside the tower, since you talked to it."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "kind": "table_break",
+      "frame": "table",
+      "actor": "party",
+      "reading": "Five-minute table break, excluded from world time.",
+      "evidence": [
+        {
+          "startUid": "u1706",
+          "endUid": "u1706",
+          "quote": "Take a five minute break."
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "kind": "overnight",
+      "frame": "current",
+      "actor": "party",
+      "reading": "Next morning; leave camp for Karawa.",
+      "evidence": [
+        {
+          "startUid": "u1773",
+          "endUid": "u1774",
+          "quote": "So, fast forward to morning."
+        },
+        {
+          "startUid": "u1775",
+          "endUid": "u1784",
+          "quote": "The next morning dawns hot, dry, dusty in the desert"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "kind": "date_anchor",
+      "frame": "current",
+      "actor": "party",
+      "reading": "April 24 is explicitly stated on arrival.",
+      "evidence": [
+        {
+          "startUid": "u1841",
+          "endUid": "u1844",
+          "quote": "Ah, let's see. You left on April seven. It’s kind of April 24. So you've been gone not quite three weeks."
+        }
+      ],
+      "month": 4,
+      "day": 24,
+      "yearBasis": "YAML"
+    },
+    {
+      "id": "t14",
+      "kind": "reported_history",
+      "frame": "reported",
+      "actor": "party",
+      "reading": "Eight or nine days since the siege was broken: Candrosa recounts earlier events.",
+      "evidence": [
+        {
+          "startUid": "u1975",
+          "endUid": "u1979",
+          "quote": "But, you know, whatever they asked, I was happy to provide. It’s now been—it’s now been eight days, nine days since they broke the siege, and we've been slowly trying to rebuild."
+        }
+      ]
+    }
+  ]
+}
