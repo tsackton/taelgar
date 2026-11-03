@@ -6,6 +6,8 @@ This guide covers the 24 skills maintained in this repository under `.agents/ski
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
+For local Python dependencies and Windows setup, see [regression test setup](_scripts/tests/README.md).
+
 ## Session preparation
 
 For a recorded session, the core sequence is **transcribe-session → prepare-session-source → process-transcript**. Use **correct-transcript** for later targeted fixes. Start at the step that matches the material you already have. Each step has its own scope and approvals; requesting one does not automatically request the rest.

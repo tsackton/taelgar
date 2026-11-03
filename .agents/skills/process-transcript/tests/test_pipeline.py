@@ -22,9 +22,9 @@ class PipelineTests(unittest.TestCase):
         self.root = self.parent / 'session-001'
         self.root.mkdir()
         self.original = self.parent / 'raw.vtt'
-        self.original.write_text('WEBVTT\n\n00:00:00.000 --> 00:00:03.000\nDM: Well, well, it got denser.\n\n00:00:03.000 --> 00:00:06.000\nPlayer: Anyways, I—I mean, are we going?\n')
+        self.original.write_text('WEBVTT\n\n00:00:00.000 --> 00:00:03.000\nDM: Well, well, it got denser.\n\n00:00:03.000 --> 00:00:06.000\nPlayer: Anyways, I—I mean, are we going?\n', encoding='utf-8', newline='\n')
         self.metadata = self.root / 'metadata.json'
-        self.metadata.write_text(json.dumps({'campaign': 'Example', 'sessionNumber': 1, 'participants': [{'gameRole': 'DM'}, {'gameRole': 'Player'}]}))
+        self.metadata.write_text(json.dumps({'campaign': 'Example', 'sessionNumber': 1, 'participants': [{'gameRole': 'DM'}, {'gameRole': 'Player'}]}), encoding='utf-8', newline='\n')
 
     def tearDown(self):
         self.temp.cleanup()
@@ -42,14 +42,14 @@ class PipelineTests(unittest.TestCase):
         manifest.parent.mkdir(exist_ok=True)
         archived = self.root/'sources/raw.vtt'
         archived.write_bytes(self.original.read_bytes())
-        entries = re.findall(r'^([^\n]+) --> ([^\n]+)\n([^:\n]+): ([^\n]+)$', self.original.read_text(), re.M)
+        entries = re.findall(r'^([^\n]+) --> ([^\n]+)\n([^:\n]+): ([^\n]+)$', self.original.read_text(encoding='utf-8'), re.M)
         assert entries, 'Fixture needs simple timed captions'
         prepared = self.root/'cleaned/session-001-source-prepared.md'
         prepared.write_text(''.join(f'[u{i:04d} | {start}-{end} | {speaker}] {text}\n'
-                                    for i, (start, end, speaker, text) in enumerate(entries, 1)))
-        data = json.loads(self.metadata.read_text())
+                                    for i, (start, end, speaker, text) in enumerate(entries, 1)), encoding='utf-8', newline='\n')
+        data = json.loads(self.metadata.read_text(encoding='utf-8'))
         data.update(sourceType='transcript', sourceInputPath=str(archived), preparedSourcePath=str(prepared))
-        manifest.write_text(yaml.safe_dump(data, sort_keys=False))
+        manifest.write_text(yaml.safe_dump(data, sort_keys=False), encoding='utf-8', newline='\n')
 
     def init(self, **kwargs):
         self.prepare_fixture()
@@ -67,7 +67,7 @@ class PipelineTests(unittest.TestCase):
         value = {'schemaVersion': 1, 'stage': job['stage'], 'chunkId': job['chunk']['id'], 'sourceSha256': job['sourceSha256'], **kwargs}
         p = self.root / job['responsePath']
         p.parent.mkdir(parents=True, exist_ok=True)
-        p.write_text(json.dumps(value))
+        p.write_text(json.dumps(value), encoding='utf-8', newline='\n')
         with core.lock(self.root):
             return pipeline.submit(self.root, job['responsePath'])
 
@@ -97,14 +97,14 @@ class PipelineTests(unittest.TestCase):
         original_metadata = manifest.read_bytes() + b'# preserve this note\nextraField: untouched\n...\n'
         manifest.write_bytes(original_metadata)
         unrelated = self.root / 'cleaned/session-recap.md'
-        unrelated.write_text('Unrelated recap.')
+        unrelated.write_text('Unrelated recap.', encoding='utf-8', newline='\n')
         retained = {a[k]: (self.root/a[k]).read_bytes() for k in finalization.RETAINED}
         result = self.finalize()
         self.assertTrue(result['finalized']); self.assertEqual(result['status'], 'complete')
         self.assertEqual({p.relative_to(self.root).as_posix() for p in self.root.rglob('*') if p.is_file()},
                          set(retained) | {a['sessionMetadata'], 'cleaned/session-recap.md'})
         for path, data in retained.items(): self.assertEqual((self.root/path).read_bytes(), data)
-        self.assertEqual(unrelated.read_text(), 'Unrelated recap.')
+        self.assertEqual(unrelated.read_text(encoding='utf-8'), 'Unrelated recap.')
         new_metadata = yaml.safe_load(manifest.read_bytes())
         del new_metadata[finalization.KEY]
         self.assertEqual(new_metadata, yaml.safe_load(original_metadata))
@@ -121,12 +121,12 @@ class PipelineTests(unittest.TestCase):
         result = self.complete(); state, units = pipeline.load(self.root)
         units[0]['text'] += ' Yes.'
         source = self.root / state['artifacts']['cleaned']; old_source = source.read_bytes()
-        source.write_text(core.render_units(units))
+        source.write_text(core.render_units(units), encoding='utf-8', newline='\n')
         with self.assertRaises(core.PipelineError): self.finalize()
         source.write_bytes(old_source)
-        edited = self.root / result['artifacts']['polishedMarkdown']; edited.write_text('Human revision')
+        edited = self.root / result['artifacts']['polishedMarkdown']; edited.write_text('Human revision', encoding='utf-8', newline='\n')
         with self.assertRaises(core.PipelineError): self.finalize()
-        self.assertEqual(edited.read_text(), 'Human revision')
+        self.assertEqual(edited.read_text(encoding='utf-8'), 'Human revision')
         self.assertTrue((self.root/core.STATE).is_file())
         self.assertFalse((self.root/finalization.PLAN).exists())
 
@@ -151,10 +151,10 @@ class PipelineTests(unittest.TestCase):
         with patch.object(finalization, 'finish', side_effect=OSError('interrupted before retirement')):
             with self.assertRaises(OSError): self.finalize()
         source = self.root/result['artifacts']['cleaned']
-        source.write_text(source.read_text() + '\nHuman edit\n')
+        source.write_text(source.read_text(encoding='utf-8') + '\nHuman edit\n', encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(core.PipelineError, 'Permanent transcript changed'): self.finalize()
         self.assertTrue((self.root/core.STATE).is_file())
-        self.assertIn('Human edit', source.read_text())
+        self.assertIn('Human edit', source.read_text(encoding='utf-8'))
 
     def test_finalization_rejects_symlinks_and_protected_paths_in_work(self):
         self.init(); self.complete()
@@ -173,7 +173,7 @@ class PipelineTests(unittest.TestCase):
 
     def test_finalized_status_detects_later_source_changes_without_recreating_work(self):
         self.init(); self.complete(); result = self.finalize()
-        source = self.root/result['artifacts']['prepared']; source.write_text('Changed baseline')
+        source = self.root/result['artifacts']['prepared']; source.write_text('Changed baseline', encoding='utf-8', newline='\n')
         result = pipeline.status(self.root)
         self.assertEqual(result['status'], 'changed_after_finalization')
         self.assertFalse(result['outputsCurrent'])
@@ -255,7 +255,7 @@ class PipelineTests(unittest.TestCase):
         job = self.work('polish')
         self.assertEqual([t['speaker'] for t in job['draftTurns']], ['DM','Player','Player'])
         self.response(job, turns=job['draftTurns'])
-        source = (self.root / pipeline.status(self.root)['artifacts']['cleaned']).read_text()
+        source = (self.root / pipeline.status(self.root)['artifacts']['cleaned']).read_text(encoding='utf-8')
         self.assertIn('| DM]', source)
         with self.assertRaises(core.PipelineError):
             bad = copy.deepcopy(job['draftTurns']); bad[0]['speaker'] = 'Player'; core.validate_turns(bad, job['source'], job['attributions'])
@@ -263,11 +263,11 @@ class PipelineTests(unittest.TestCase):
         with core.lock(self.root): exported = pipeline.export(self.root)
         polished = (self.root/exported['artifacts']['polishedMarkdown']).read_bytes()
         result = self.finalize()
-        metadata = yaml.safe_load((self.root/result['artifacts']['sessionMetadata']).read_text())
+        metadata = yaml.safe_load((self.root/result['artifacts']['sessionMetadata']).read_text(encoding='utf-8'))
         self.assertNotIn('speakerCorrections', metadata[finalization.KEY])
         self.assertEqual((self.root/result['artifacts']['polishedMarkdown']).read_bytes(), polished)
         self.assertIn(f'%% u0001:{split}-{len(u["text"])} %%\nPlayer:', polished.decode())
-        self.assertEqual((self.root/result['artifacts']['cleaned']).read_text(), source)
+        self.assertEqual((self.root/result['artifacts']['cleaned']).read_text(encoding='utf-8'), source)
 
     def test_unassessed_markers_block_and_material_acceptance_persists(self):
         self.init(); job=self.work('clean');u=job['source'][0]
@@ -288,8 +288,8 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(pipeline.all_issues(*pipeline.load(self.root))[0]['disposition'],'accepted')
         finalized = self.finalize()
         self.assertEqual(finalized['status'], 'complete_with_uncertainty')
-        self.assertIn('{{denser}}', (self.root/finalized['artifacts']['cleaned']).read_text())
-        self.assertIn('{{denser}}', (self.root/finalized['artifacts']['polishedMarkdown']).read_text())
+        self.assertIn('{{denser}}', (self.root/finalized['artifacts']['cleaned']).read_text(encoding='utf-8'))
+        self.assertIn('{{denser}}', (self.root/finalized['artifacts']['polishedMarkdown']).read_text(encoding='utf-8'))
 
     def test_stale_response_and_output_detection(self):
         self.init();job=self.work('clean')
@@ -298,10 +298,10 @@ class PipelineTests(unittest.TestCase):
         with self.assertRaisesRegex(core.PipelineError,'Stale'): self.response(job,checks=sorted(core.CHECKS),edits=[],issues=[],mentions=[])
         self.complete()
         state,units=pipeline.load(self.root)
-        (self.root / state['artifacts']['polishedMarkdown']).write_text('human edit')
+        (self.root / state['artifacts']['polishedMarkdown']).write_text('human edit', encoding='utf-8', newline='\n')
         self.assertFalse(pipeline.status(self.root)['outputsCurrent'])
         with self.assertRaisesRegex(core.PipelineError,'manual changes'): pipeline.export(self.root)
-        self.assertEqual((self.root / state['artifacts']['polishedMarkdown']).read_text(),'human edit')
+        self.assertEqual((self.root / state['artifacts']['polishedMarkdown']).read_text(encoding='utf-8'),'human edit')
 
     def test_writes_cannot_escape_bundle(self):
         self.init()
@@ -332,7 +332,7 @@ class PipelineTests(unittest.TestCase):
         with core.lock(self.root):
             with patch.object(core,'atomic',side_effect=fail):
                 with self.assertRaises(OSError):core.commit(self.root,{'cleaned/first.json':b'first','cleaned/second.json':b'second'},'test')
-            (self.root/'cleaned/first.json').write_text('human changed')
+            (self.root/'cleaned/first.json').write_text('human changed', encoding='utf-8', newline='\n')
             with self.assertRaises(core.PipelineError):core.recover(self.root)
 
     def test_old_absolute_paths_are_rebased_inside_copy(self):
@@ -375,7 +375,7 @@ class PipelineTests(unittest.TestCase):
         self.assertIn('chunk-001',pipeline.status(self.root)['pending']['quality'])
 
     def test_chunk_join_preserves_continuation_and_all_source_spans(self):
-        self.original.write_text('WEBVTT\n\n0 --> 1\nDM: He says,\n\n1 --> 2\nDM: maybe.\n')
+        self.original.write_text('WEBVTT\n\n0 --> 1\nDM: He says,\n\n1 --> 2\nDM: maybe.\n', encoding='utf-8', newline='\n')
         self.init(chunk_words=1)
         state,units=pipeline.load(self.root)
         # Explicitly exercise an older chunk boundary in the middle of a sentence.
@@ -396,11 +396,11 @@ class PipelineTests(unittest.TestCase):
         def stop(root,path,data):
             if path.endswith('second.json'):raise OSError('simulated interruption')
             return atomic(root,path,data)
-        source='cleaned/source-dependency.txt';(self.root/source).write_text('reviewed input')
+        source='cleaned/source-dependency.txt';(self.root/source).write_text('reviewed input', encoding='utf-8', newline='\n')
         with core.lock(self.root):
             with patch.object(core,'atomic',side_effect=stop):
                 with self.assertRaises(OSError):core.commit(self.root,{'cleaned/first.json':b'1','cleaned/second.json':b'2'},'dependent operation',{source:core.sha('reviewed input')})
-            (self.root/source).write_text('changed after crash')
+            (self.root/source).write_text('changed after crash', encoding='utf-8', newline='\n')
             with self.assertRaisesRegex(core.PipelineError,'input changed'):core.recover(self.root)
         self.assertFalse((self.root/'cleaned/second.json').exists())
 
@@ -457,17 +457,17 @@ class PipelineTests(unittest.TestCase):
     def test_real_prepare_session_source_handoff(self):
         import subprocess
         source = self.parent/'identified.txt'
-        source.write_text('[0-1] Referee: Well, well, it got denser.\n[1-2] Player: Are we going?\n')
+        source.write_text('[0-1] Referee: Well, well, it got denser.\n[1-2] Player: Are we going?\n', encoding='utf-8', newline='\n')
         roster = self.parent/'participants.yaml'
         roster.write_text(yaml.safe_dump({'participants': [
-            {'name': 'Example DM', 'gameRole': 'DM'}, {'name': 'Example Player', 'gameRole': 'Player'}]}))
+            {'name': 'Example DM', 'gameRole': 'DM'}, {'name': 'Example Player', 'gameRole': 'Player'}]}), encoding='utf-8', newline='\n')
         mappings = self.parent/'speakers.json'
-        mappings.write_text(json.dumps({'DM': ['Referee'], 'Player': ['Player']}))
+        mappings.write_text(json.dumps({'DM': ['Referee'], 'Player': ['Player']}), encoding='utf-8', newline='\n')
         config = self.parent/'source-prep.yaml'
         config.write_text(yaml.safe_dump(dict(sourcePath=str(source), sourceType='transcript',
             outputDir=str(self.parent/'intake'), campaign='Example', sessionNumber=1,
             realWorldDate='2026-10-30', drStart=None, drEnd=None,
-            participantsPath=str(roster), transcriptFormat='speaker_lines')))
+            participantsPath=str(roster), transcriptFormat='speaker_lines')), encoding='utf-8', newline='\n')
         helper = Path(pipeline.__file__).resolve().parents[2]/'prepare-session-source/scripts/prepare_source.py'
         result = subprocess.run([sys.executable, '-B', str(helper), '--config', str(config),
                                  '--speaker-mappings', str(mappings)], capture_output=True, text=True)
@@ -545,6 +545,27 @@ class PipelineTests(unittest.TestCase):
                     changed['attributions'][0][field] = value
                     self.assertNotEqual(expected, pipeline.signature(changed, units, chunk, stage))
 
+    def test_utf8_sources_work_with_locale_defaults(self):
+        import os, subprocess
+        code = ('from test_pipeline import PipelineTests; '
+                't=PipelineTests(); t.setUp(); '
+                't.init(); t.complete(); t.finalize(); t.tearDown()')
+        env = dict(os.environ, PYTHONUTF8='0', PYTHONDONTWRITEBYTECODE='1',
+                   PYTHONPATH=os.pathsep.join([str(Path(__file__).parent),
+                                              str(Path(core.__file__).parent)]))
+        result = subprocess.run([sys.executable, '-B', '-c', code], env=env,
+                                capture_output=True, text=True, encoding='utf-8', errors='replace')
+        self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_registered_artifact_paths_are_portable(self):
+        self.init()
+        state, _ = pipeline.load(self.root)
+        self.assertEqual(state['artifacts']['original'], 'sources/raw.vtt')
+        self.assertEqual(state['artifacts']['prepared'], 'cleaned/session-001-source-prepared.md')
+        for path in state['artifacts'].values():
+            self.assertNotIn(chr(92), path)
+            self.assertFalse(Path(path).is_absolute())
+
     def test_real_runtime_writes_are_confined_to_bundle(self):
         import os, subprocess
         # An audit hook in a child process observes all Python file writes, not only helper calls.
@@ -615,13 +636,13 @@ with t.core.lock(root):review.apply(root);review.finalize(root)
         self.response(job,checks=sorted(core.CHECKS),edits=[],issues=[issue],mentions=[])
         job=self.work('polish');self.response(job,turns=job['draftTurns'])
         with core.lock(self.root):result=pipeline.export(self.root)
-        report=(self.root/result['artifacts']['review']).read_text()
+        report=(self.root/result['artifacts']['review']).read_text(encoding='utf-8')
         self.assertIn('Well, well, it got darker.',report);self.assertIn(issue['question'],report)
         self.assertIn(job['source'][0]['text'],report)
         self.assertNotIn('Incidental speech',report)
 
     def test_substitution_survives_join_export_and_finalization_without_altering_cleaned(self):
-        self.original.write_text('WEBVTT\n\n0 --> 1\nDM: Hello.\n\n1 --> 2\nDM: scrambled nonsense\n')
+        self.original.write_text('WEBVTT\n\n0 --> 1\nDM: Hello.\n\n1 --> 2\nDM: scrambled nonsense\n', encoding='utf-8', newline='\n')
         self.init(chunk_words=1)
         while pipeline.status(self.root)['pending']['clean']:self.clean()
         state,units=pipeline.load(self.root)
@@ -640,7 +661,7 @@ with t.core.lock(root):review.apply(root);review.finalize(root)
         self.assertEqual(result['displaySubstitutions'],1)
         self.assertEqual(result['status'],'complete_with_uncertainty')
         final=self.finalize()
-        self.assertIn('[cross-talk]',(self.root/final['artifacts']['polishedMarkdown']).read_text())
+        self.assertIn('[cross-talk]',(self.root/final['artifacts']['polishedMarkdown']).read_text(encoding='utf-8'))
         for k,v in baseline.items():self.assertEqual((self.root/final['artifacts'][k]).read_bytes(),v)
 
     def test_editorial_policy_change_invalidates_existing_reviews_without_reinitializing(self):

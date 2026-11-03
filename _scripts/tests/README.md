@@ -22,8 +22,8 @@ python3 _scripts/tests/run_isolated.py
 
 This runner discovers the Python, Ruby, and JavaScript tests in the first-party
 code directories and runs them in a temporary code-and-fixture-only tree. It
-does not move or hide anything in the working vault. Python needs PyYAML and
-Pillow; Ruby and Node.js must be available. Use `--python`, `--ruby`, or `--node`
+does not move or hide anything in the working vault. Python needs PyYAML,
+jsonschema, and Pillow; Ruby and Node.js must be available. Use `--python`, `--ruby`, or `--node`
 to select runtimes. The caller's environment is inherited, so Python packages
 can also be supplied through `PYTHONPATH`. This is data isolation for regression
 testing, not an operating-system sandbox against arbitrary file access.
@@ -33,6 +33,22 @@ and unresolved references by changing fixtures inside the temporary vault.
 Do not lock tests to current note counts, campaign lists, prose, model choices,
 or template section order. The session-component suite tests generated slot
 content; the Dunmar template's layout is freely editable.
+
+## Windows Python setup
+
+Use a local virtual environment so the interpreter running the tests has the
+schema-validation dependency as well as the source readers' YAML dependency:
+
+```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\python.exe -m pip install -r .agents/skills/check-session-entities/requirements.txt Pillow
+.\.venv\Scripts\python.exe -B _scripts/tests/run_isolated.py
+```
+
+Use the same interpreter for direct skill-helper or `unittest` commands. Ruby
+and Node.js are still required for the full regression runner. Test fixtures
+that model polished sources write UTF-8 with LF explicitly; narrative readers
+also accept CRLF while retaining the original source bytes and fingerprints.
 
 ## Optional live diagnostics
 

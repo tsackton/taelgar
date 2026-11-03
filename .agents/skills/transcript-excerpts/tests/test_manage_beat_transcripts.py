@@ -47,8 +47,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
             "- Beat IDs: B03\n"
             "- Source Range: u0699 -> u1415\n\n"
             "## Cast\n",
-            encoding="utf-8",
-        )
+            encoding="utf-8", newline='\n')
 
         blocks = manager.read_recap_blocks(recap_path)
 
@@ -70,8 +69,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
             "%% u0001:0-15 %%\nDM: The door opens.\n\n"
             "%% u0002:0-20 %%\nKaito: What could go wrong?\n\n"
             "%% u0003:0-11 %%\nDM: Everything.\n",
-            encoding="utf-8",
-        )
+            encoding="utf-8", newline='\n')
         recap_path.write_text(
             "# Session Recap\n\n"
             "## Recap\n\n"
@@ -81,8 +79,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
             "- Source Range: u0001 -> u0003\n\n"
             "#### Short\n"
             "The door opens.\n",
-            encoding="utf-8",
-        )
+            encoding="utf-8", newline='\n')
 
         old_argv = sys.argv
         try:
@@ -118,8 +115,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
             "# Session Recap\n\n"
             "## Source Files\n\n"
             "- Cleaned Source: source.md\n",
-            encoding="utf-8",
-        )
+            encoding="utf-8", newline='\n')
         summary_path.write_text(
             "# Transcript Highlights\n\n"
             "## Pull Quotes\n\n"
@@ -138,8 +134,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
             "  - Speaker: DM\n"
             "  - Summary: Holda tells his story.\n"
             "  - Why Called Out: Central exposition.\n",
-            encoding="utf-8",
-        )
+            encoding="utf-8", newline='\n')
 
         manager.sync_recap_review_media(recap_path, summary_path)
 
@@ -164,9 +159,9 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
             '%% u0003:6-12 %%\nDM: [cross-talk]\n\n'
             '%% u0004:0-5 %%\nKenzo: After.\n\n'
         )
-        source.write_text('# Session\n\n- Status: Complete with retained uncertainty\n\n## Transcript\n\n' + body)
+        source.write_text('# Session\n\n- Status: Complete with retained uncertainty\n\n## Transcript\n\n' + body, encoding='utf-8', newline='\n')
         recap = root / 'recap.md'
-        recap.write_text(f'# Recap\n\n## Recap\n\n### recap-001 | Arrival\n\n- Beat IDs: beat-001\n- Source Range: {start} -> {end}\n\n#### Short\nSummary.\n')
+        recap.write_text(f'# Recap\n\n## Recap\n\n### recap-001 | Arrival\n\n- Beat IDs: beat-001\n- Source Range: {start} -> {end}\n\n#### Short\nSummary.\n', encoding='utf-8', newline='\n')
         output = root / 'beat-transcripts'
         args = ['manager', '--transcript', str(source), '--session-recap-md', str(recap),
                 '--output-dir', str(output), '--file-prefix', 'example']
@@ -183,7 +178,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
         result, log = self.run_helper(args)
         self.assertEqual(result, 0, log)
         excerpt = output / 'example-recap-001-transcript.md'
-        text = excerpt.read_text()
+        text = excerpt.read_text(encoding='utf-8')
         self.assertEqual(text.split('## Transcript\n\n', 1)[1], body.split('%% u0004:', 1)[0])
         self.assertIn('- Source Range: u0001 -> u0003', text)
         self.assertIn('- Recap Source Range: u0002 -> u0002', text)
@@ -202,14 +197,14 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
                 _, _, output, args, _ = self.fixture()
                 self.assertEqual(self.run_helper(args)[0], 0)
                 excerpt = output / 'example-recap-001-transcript.md'
-                original = excerpt.read_text()
+                original = excerpt.read_text(encoding='utf-8')
                 edited = original.replace(before, after)
-                excerpt.write_text(edited)
+                excerpt.write_text(edited, encoding='utf-8', newline='\n')
                 self.assertEqual(self.run_helper(args, '--validate-only')[0], 1)
                 self.assertEqual(self.run_helper(args)[0], 1)
-                self.assertEqual(excerpt.read_text(), edited)
+                self.assertEqual(excerpt.read_text(encoding='utf-8'), edited)
                 self.assertEqual(self.run_helper(args, '--overwrite')[0], 0)
-                self.assertEqual(excerpt.read_text(), original)
+                self.assertEqual(excerpt.read_text(encoding='utf-8'), original)
 
     def test_default_and_overwrite_preserve_reviewed_highlights_and_candidates(self):
         _, recap, output, args, _ = self.fixture()
@@ -218,7 +213,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
                     '- ID: custom-a\n  - Quote: "Reordered"\n\n'
                     '## Audio Highlights\n\n- ID: audio-009\n  - Title: My title\n'
                     '  - Output: personal.m4a\n\n%% keep my comment %%\n\n')
-        recap.write_text(recap.read_text() + selected)
+        recap.write_text(recap.read_text(encoding='utf-8') + selected, encoding='utf-8', newline='\n')
         self.assertEqual(self.run_helper(args)[0], 0)
         summary = output / 'example-transcript-highlights.md'
         candidates = summary.read_bytes()
@@ -234,8 +229,8 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
                 _, recap, output, args, _ = self.fixture()
                 self.run_helper(args)
                 summary = output / 'example-transcript-highlights.md'
-                summary.write_text(summary.read_text().replace('TODO: Quote text.', 'A real quote.').replace('Speaker: TODO', 'Speaker: Rai').replace('Source Lines: TODO', 'Source Lines: u0002-u0002'))
-                recap.write_text(recap.read_text() + selected)
+                summary.write_text(summary.read_text(encoding='utf-8').replace('TODO: Quote text.', 'A real quote.').replace('Speaker: TODO', 'Speaker: Rai').replace('Source Lines: TODO', 'Source Lines: u0002-u0002'), encoding='utf-8', newline='\n')
+                recap.write_text(recap.read_text(encoding='utf-8') + selected, encoding='utf-8', newline='\n')
                 before = recap.read_bytes()
                 self.assertEqual(self.run_helper(args, '--overwrite')[0], 0)
                 self.assertEqual(recap.read_bytes(), before)
@@ -246,8 +241,8 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
     def test_seeding_skips_unfinished_candidates(self):
         _, recap, _, args, _ = self.fixture()
         self.assertEqual(self.run_helper(args, '--seed-highlights')[0], 0)
-        self.assertNotIn('## Pull Quotes', recap.read_text())
-        self.assertNotIn('## Audio Highlights', recap.read_text())
+        self.assertNotIn('## Pull Quotes', recap.read_text(encoding='utf-8'))
+        self.assertNotIn('## Audio Highlights', recap.read_text(encoding='utf-8'))
 
     def test_rejects_raw_or_unfinished_or_broken_mapping_before_writes(self):
         for text in ['[u0001 | DM] Raw source.\n',
@@ -255,7 +250,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
                      '# Done\n- Status: Complete\n%% u0002:0-4 %%\nDM: Test\n\n%% u0002:5-8 %%\nRai: More\n']:
             with self.subTest(text=text):
                 source, recap, output, args, _ = self.fixture()
-                source.write_text(text)
+                source.write_text(text, encoding='utf-8', newline='\n')
                 original = recap.read_bytes()
                 with self.assertRaises(SystemExit):
                     self.run_helper(args)
@@ -266,7 +261,7 @@ class ManageBeatTranscriptsTest(unittest.TestCase):
         _, recap, output, args, _ = self.fixture('u0004', 'u0004')
         self.assertEqual(self.run_helper(args)[0], 0)
         extra = '\n### recap-002 | Later\n\n- Beat IDs: beat-002\n- Source Range: u0001 -> u0003\n\n#### Short\nLater.\n'
-        recap.write_text(recap.read_text() + extra)
+        recap.write_text(recap.read_text(encoding='utf-8') + extra, encoding='utf-8', newline='\n')
         summary = output / 'example-transcript-highlights.md'
         before = summary.read_bytes()
         result, log = self.run_helper(args, '--recap-block-id', 'recap-002')

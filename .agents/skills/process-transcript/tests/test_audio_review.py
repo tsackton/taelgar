@@ -64,7 +64,7 @@ class AudioReviewTests(unittest.TestCase):
     def test_incomplete_quality_is_not_replaced_by_an_audio_review(self):
         path,meta,issues,_,units,_,turns,_=review.inputs(self.root)
         meta['qualityComplete']=False
-        path.write_text(review.document(meta,issues,units,turns))
+        path.write_text(review.document(meta,issues,units,turns), encoding='utf-8', newline='\n')
         before=path.read_bytes()
         with self.assertRaisesRegex(core.PipelineError,'quality work'):self.prepare(uids=['u0002'])
         self.assertEqual(before,path.read_bytes())
@@ -85,7 +85,7 @@ class AudioReviewTests(unittest.TestCase):
         with self.assertRaisesRegex(core.PipelineError,'changed'):self.save(item,text='stale overwrite')
         self.assertEqual(before,review.report_path(self.root).read_bytes())
         item=self.items()[0]
-        source=self.root/self.a['cleaned'];source.write_text(source.read_text().replace('denser','darker'))
+        source=self.root/self.a['cleaned'];source.write_text(source.read_text(encoding='utf-8').replace('denser','darker'), encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(core.PipelineError,'Transcript changed'):self.save(item)
 
     def test_standalone_selection_opens_finalized_review_without_processing(self):
@@ -140,7 +140,7 @@ class AudioReviewTests(unittest.TestCase):
 
     def test_cleanup_preserves_answers_and_refuses_unrelated_files(self):
         self.prepare();self.save(self.items()[0]);before=review.report_path(self.root).read_bytes()
-        extra=self.cache/'my-notes.txt';extra.write_text('Keep')
+        extra=self.cache/'my-notes.txt';extra.write_text('Keep', encoding='utf-8', newline='\n')
         with self.assertRaises(core.PipelineError):page.clean_cache(self.cache)
         self.assertTrue(extra.exists());extra.unlink();page.clean_cache(self.cache)
         self.assertFalse(self.cache.exists())

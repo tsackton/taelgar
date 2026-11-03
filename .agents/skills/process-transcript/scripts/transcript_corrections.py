@@ -34,7 +34,7 @@ def load(root):
                      'Apply or reconcile decisions already recorded in the review Markdown first')
         artifacts = meta['artifacts']
         expected = dict(meta['hashes'])
-        expected[str(path.relative_to(root))] = core.current_hash(path)
+        expected[path.relative_to(root).as_posix()] = core.current_hash(path)
         record = None
     else:
         completed = final.completion(root)
@@ -224,7 +224,7 @@ def build(root, plan):
         meta = copy.deepcopy(data['meta'])
         meta.update(revisionActive=True, retainedIssues=retained, uncertainty=bool(uncertain))
         meta['hashes'] = {p: hashes[p] for p in a.values()}
-        files[str(data['path'].relative_to(root))] = review.document(meta, remaining, units, next_turns)
+        files[data['path'].relative_to(root).as_posix()] = review.document(meta, remaining, units, next_turns)
     else:
         record = dict(version=core.VERSION, status='complete_with_uncertainty' if uncertain else 'complete',
                       units=len(units), issues=retained,
@@ -234,7 +234,7 @@ def build(root, plan):
     diff = ''.join(''.join(difflib.unified_diff(core.safe(root, p).read_text(encoding='utf-8').splitlines(True),
                          (value.decode() if isinstance(value, bytes) else value).splitlines(True), fromfile=p, tofile=p))
                    for p, value in changed_files.items())
-    dependencies = sorted({str(p.relative_to(root)) for pattern in (
+    dependencies = sorted({p.relative_to(root).as_posix() for pattern in (
         '*-scene-map.json', '*-entity-map.json', '*-interactions-draft.md',
         '*-beats.json', '*-beat-facts.json', '*-session-recap.md',
         'beat-transcripts/*-transcript.md', 'beat-transcripts/*-transcript-highlights.md')

@@ -194,7 +194,7 @@ def recover(root):
     for path in sorted(folder.glob('*.json')) if folder.exists() else []:
         tx = read_json(path)
         if tx['status'] == 'pending':
-            relative = str(path.relative_to(root))
+            relative = path.relative_to(root).as_posix()
             finish_transaction(root, relative, tx)
             recovered.append(relative)
     return recovered

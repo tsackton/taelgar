@@ -36,7 +36,7 @@ def resolve(vault, campaign, session):
     item = matches[0]
     candidates = []
     for manifest in (vault / '_sessions' / item['sessionRoot']).glob('*/cleaned/*-session.yaml'):
-        data = yaml.safe_load(manifest.read_text())
+        data = yaml.safe_load(manifest.read_text(encoding='utf-8'))
         if str(data.get('sessionNumber')) == str(session) or str(data.get('sessionNumber')).lstrip('0') == str(session).lstrip('0'):
             candidates.append(str(manifest.parent.parent))
     require(len(candidates) == 1, f'Expected one existing bundle for {campaign} {session}; found {len(candidates)}. If none exists, ask whether to use prepare-session-source to create one; if ambiguous, select the intended existing bundle.')
@@ -65,7 +65,7 @@ def local_reference(root, reference, directory):
         if candidate.is_file():
             return candidate
     elif p.is_absolute() and p.is_relative_to(root):
-        candidate = safe(root, str(p.relative_to(root)))
+        candidate = safe(root, p.relative_to(root).as_posix())
         if candidate.is_file():
             return candidate
     candidate = safe(root, directory + '/' + foreign.name)
@@ -102,7 +102,7 @@ def initialize(root, args):
     require(metadata.get('campaign') and metadata.get('sessionNumber') is not None, 'Existing session YAML needs campaign and sessionNumber; resolve intake metadata through prepare-session-source')
     original = original_path(root, metadata, args.source)
     require(original.is_file(), f'Missing archived source: {original}; use prepare-session-source to repair intake')
-    archived = str(original.relative_to(root))
+    archived = original.relative_to(root).as_posix()
     require(archived.startswith('sources/'), 'Original input must already be archived under this bundle sources/ directory; use prepare-session-source for intake')
     original_bytes = original.read_bytes()
     cleaned_path = one(root, 'cleaned/*-source-cleaned.md', args.cleaned, required=False)
@@ -113,12 +113,12 @@ def initialize(root, args):
     prepared = parse_units(prepared_bytes.decode('utf-8-sig'))
     cleaned = parse_units(cleaned_bytes.decode('utf-8-sig')) if cleaned_path else copy.deepcopy(prepared)
     validate_baseline(prepared, cleaned)
-    artifacts = {'original': archived, 'prepared': str(prepared_path.relative_to(root)),
-                 'cleaned': str(cleaned_path.relative_to(root)) if cleaned_path else f'cleaned/{stem}-source-cleaned.md',
+    artifacts = {'original': archived, 'prepared': prepared_path.relative_to(root).as_posix(),
+                 'cleaned': cleaned_path.relative_to(root).as_posix() if cleaned_path else f'cleaned/{stem}-source-cleaned.md',
                  'polishedMarkdown': f'cleaned/{stem}-transcript.md', 'polishedJson': f'cleaned/{stem}-transcript.json',
                  'polishedHtml': f'cleaned/{stem}-transcript.html', 'review': f'cleaned/{stem}-transcript-review.md',
                  'entities': f'cleaned/{stem}-transcript-entities.json',
-                 'sessionMetadata': str(manifest.relative_to(root))}
+                 'sessionMetadata': manifest.relative_to(root).as_posix()}
     for path in artifacts.values():
         safe(root, path)
     expected = {STATE: None, archived: sha(original_bytes),
@@ -136,7 +136,7 @@ def initialize(root, args):
                 if decision.get('action') == 'skip':
                     for match in MARKER.finditer(u['text']):
                         inherited.append({'uid': u['uid'], 'span': match[1], 'textSha256': sha(u['text']), 'contextSha256': issue_context(cleaned, u['uid']),
-                                          'reason': decision.get('reason', 'Previously recorded human acceptance'), 'source': str(p.relative_to(root))})
+                                          'reason': decision.get('reason', 'Previously recorded human acceptance'), 'source': p.relative_to(root).as_posix()})
     state = {'schemaVersion': VERSION, 'contractVersion': VERSION, 'session': json.loads(encoded(metadata)), 'artifacts': artifacts,
              'originalSha256': sha(original_bytes), 'preparedSha256': sha(prepared_bytes),
              'chunks': chunk_units(cleaned, args.chunk_words), 'cleanReviews': {}, 'polish': {}, 'quality': {},
@@ -155,8 +155,8 @@ def load(root):
     a = state['artifacts']
     require(sha(safe(root, a['original']).read_bytes()) == state['originalSha256'], 'Archived original changed')
     require(sha(safe(root, a['prepared']).read_bytes()) == state['preparedSha256'], 'Prepared baseline changed; preserve IDs and resolve source revision explicitly')
-    units = parse_units(safe(root, a['cleaned']).read_text())
-    validate_baseline(parse_units(safe(root, a['prepared']).read_text()), units)
+    units = parse_units(safe(root, a['cleaned']).read_text(encoding='utf-8'))
+    validate_baseline(parse_units(safe(root, a['prepared']).read_text(encoding='utf-8')), units)
     validate_attributions(units, state['attributions'])
     require([u['uid'] for c in state['chunks'] for u in selected(units, c)] == [u['uid'] for u in units], 'Work chunks have duplicate or missing UIDs')
     return state, units
@@ -238,7 +238,7 @@ def legacy_candidates(root, units):
     candidates = []
     for path in sorted(safe(root, 'cleaned/beat-transcripts').glob('*-transcript.md')):
         marker = None
-        for line in path.read_text().splitlines():
+        for line in path.read_text(encoding='utf-8').splitlines():
             match = re.fullmatch(r'%%\s*(u\d+)(?:-(u\d+))?\s*%%', line.strip())
             if match:
                 marker = match.groups()
@@ -254,7 +254,7 @@ def legacy_candidates(root, units):
                         fidelity = 'words_and_speakers_match'
                     except PipelineError:
                         fidelity = 'requires_reconciliation'
-                    candidates.append({'path': str(path.relative_to(root)), 'fidelity': fidelity, 'turn': candidate})
+                    candidates.append({'path': path.relative_to(root).as_posix(), 'fidelity': fidelity, 'turn': candidate})
                 marker = None
     return candidates
 
@@ -418,7 +418,7 @@ def export(root, replace_exports=False):
     title = f"{state['session']['campaign']} — Session {state['session']['sessionNumber']}"
     a = state['artifacts']
     md, page = render_polished(turns, title, Path(a['cleaned']).name, label)
-    review_artifacts = dict(a, sessionMetadata=a.get('sessionMetadata') or str(one(root, 'cleaned/*-session.yaml').relative_to(root)))
+    review_artifacts = dict(a, sessionMetadata=a.get('sessionMetadata') or one(root, 'cleaned/*-session.yaml').relative_to(root).as_posix())
     review_md = review.exported(root, review_artifacts, issues, units, turns, title, not outcome['pending']['quality'], md)
     mentions = [m for c in state['chunks'] for m in state['cleanReviews'][c['id']]['mentions']]
     source_hash = sha(safe(root, a['cleaned']).read_bytes())
@@ -463,7 +463,7 @@ def finalize(root):
     # Existing work queues predate the explicit metadata-path field.
     manifest = state['artifacts'].get('sessionMetadata')
     if not manifest:
-        manifest = str(one(root, 'cleaned/*-session.yaml').relative_to(root))
+        manifest = one(root, 'cleaned/*-session.yaml').relative_to(root).as_posix()
     expected = expected_inputs(state, units)
     require(all(sha(safe(root, path).read_bytes()) == digest for path, digest in expected.items()),
             'Inputs changed before finalization')

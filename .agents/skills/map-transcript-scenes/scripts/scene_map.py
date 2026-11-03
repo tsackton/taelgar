@@ -336,7 +336,7 @@ def cell(value):
 def source_link(bundle, ref):
     label = f"{ref['startUid']}–{ref['endUid']}"
     line = bundle['lines'][ref['startUid']]
-    return f"[{label}](<{quote(str(bundle['source']), safe='/')}:{line}>)"
+    return f"[{label}](<{quote(bundle['source'].as_posix(), safe='/')}:{line}>)"
 
 
 def issue_line(bundle, issue):
@@ -391,7 +391,7 @@ def preview(bundle, document):
         location = []
         if row.get('location'):
             path = bundle['vault'] / row['location']
-            location.append(f'[{cell(path.stem)}](<{quote(str(path), safe="/")}>)')
+            location.append(f'[{cell(path.stem)}](<{quote(path.as_posix(), safe="/")}>)')
         if row.get('locationDetail'):
             location.append(cell(row['locationDetail']))
         values = (label, f"{ref['startUid']}–{ref['endUid']}", row.get('type'), '', *timing, row.get('aiSummary'))
@@ -400,7 +400,7 @@ def preview(bundle, document):
         cells[3] = ' / '.join(location) or '—'
         text.append('| ' + ' | '.join(cells) + ' |')
     relative = bundle['source'].relative_to(bundle['vault']).as_posix()
-    text.extend(['', f"Polished source: [{cell(relative)}](<{quote(str(bundle['source']), safe='/')}>)",
+    text.extend(['', f"Polished source: [{cell(relative)}](<{quote(bundle['source'].as_posix(), safe='/')}>)",
                  'Source links open the first mapped line; use the UID range to retrieve the whole passage.'])
     return '\n'.join(text) + '\n'
 

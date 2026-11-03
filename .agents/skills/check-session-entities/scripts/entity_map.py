@@ -5,7 +5,7 @@ from __future__ import annotations
 import argparse
 import copy
 import json
-from pathlib import Path
+from pathlib import Path, PurePosixPath, PureWindowsPath
 import re
 import sys
 from urllib.parse import quote
@@ -82,13 +82,15 @@ def load_narrative(session_yaml, vault_root):
     registered = data.get('preparedSourcePath')
     string(registered, 'preparedSourcePath')
     stem = manifest.name.removesuffix('-session.yaml')
+    foreign = (PureWindowsPath(registered) if PureWindowsPath(registered).is_absolute()
+               else PurePosixPath(registered))
     path = Path(registered)
-    if path.is_absolute():
+    if foreign.is_absolute():
         # Legacy manifests retain a different machine's vault prefix. Only the
         # exact bundle/cleaned/filename suffix may relocate into this bundle.
         expected = (root.name, 'cleaned', f'{stem}-source-prepared.md')
-        require(path.parts[-3:] == expected, 'Unexpected legacy preparedSourcePath')
-        path = Path('cleaned') / path.name
+        require(foreign.parts[-3:] == expected, 'Unexpected legacy preparedSourcePath')
+        path = Path('cleaned') / foreign.name
     source = scenes.safe(root, path.as_posix())
     require(source != manifest and source.suffix == '.md', 'Invalid narrative source path')
     raw = source.read_bytes()
@@ -96,7 +98,7 @@ def load_narrative(session_yaml, vault_root):
     for line, text in enumerate(raw.decode('utf-8').splitlines(keepends=True), 1):
         if not text.strip():
             continue
-        match = re.fullmatch(r'\[(u\d{4,})\] ([^\r\n]+)\n?', text)
+        match = re.fullmatch(r'\[(u\d{4,})\] ([^\r\n]+)(?:\r?\n)?', text)
         require(match is not None, f'Invalid prepared narrative UID line {line}')
         uid, wording = match.groups()
         require(uid not in positions and wording.strip(), 'Duplicate UID or empty narrative unit')
@@ -338,7 +340,7 @@ def preview(bundle, document, entity_id=None, kind=None, importance=None):
                 '| --- | --- | --- | --- | --- | --- | --- |'])
     for row in rows:
         note = row.get('note')
-        match = f"[{cell(Path(note).stem)}](<{quote(str(bundle['vault'] / note), safe='/')}>)" if note else 'Unlinked'
+        match = f"[{cell(Path(note).stem)}](<{quote((bundle['vault'] / note).as_posix(), safe='/')}>)" if note else 'Unlinked'
         if row.get('identifiedLater'):
             match += ' — identified later'
         refs = row['occurrences']
@@ -353,7 +355,7 @@ def preview(bundle, document, entity_id=None, kind=None, importance=None):
     if candidates:
         out.extend(['', '## Unresolved candidates', ''])
     for row in candidates:
-        links = ', '.join(f"[{cell(Path(p).stem)}](<{quote(str(bundle['vault']/p), safe='/')}>)" for p in row['candidates'])
+        links = ', '.join(f"[{cell(Path(p).stem)}](<{quote((bundle['vault']/p).as_posix(), safe='/')}>)" for p in row['candidates'])
         out.append(f"- **{cell(row['id'])} — {cell(row['label'])}**: {links}")
     if entity_id:
         for row in rows:

@@ -29,7 +29,7 @@ def cache_folder(path, create=False):
     marker = path / CACHE_MARKER
     if create and not marker.exists():
         core.require(not any(path.iterdir()), 'Use an empty audio-review output directory')
-        marker.write_text('Generated audio-review cache. Answers are in session Markdown.\n')
+        marker.write_text('Generated audio-review cache. Answers are in session Markdown.\n', encoding='utf-8', newline='\n')
     core.require(marker.is_file(), 'Not an owned audio-review cache directory')
     return path
 
@@ -67,7 +67,7 @@ def ensure_questions(root, uids):
     existing = {u['index']:u for u in updates}
     text = review.POLISH.sub(lambda m:'%% transcript-polish:v1 '+json.dumps(
         existing.get(json.loads(m[1])['index'], json.loads(m[1])),ensure_ascii=False)+' %%',text)
-    core.atomic(root,str(path.relative_to(root)),text.encode())
+    core.atomic(root,path.relative_to(root).as_posix(),text.encode())
 
 
 def answer_version(meta, issue):
@@ -150,7 +150,7 @@ def prepare(selection, folder):
                 meta.update(audioReview=config,revisionActive=True)
                 text = before.decode('utf-8')
                 text = review.HEADER.sub(lambda m:'%% transcript-review:v1 '+json.dumps(meta,ensure_ascii=False)+' %%',text)
-                core.atomic(root,str(path.relative_to(root)),text.encode())
+                core.atomic(root,path.relative_to(root).as_posix(),text.encode())
                 count += len(items)
     (folder/'index.html').write_bytes(ASSET.read_bytes())
     return dict(items=count,bundles=[str(p) for p in roots],output=str(folder),
@@ -184,7 +184,7 @@ def save_answer(root, issue_id, version, choice, answer):
         text = text[:start]+section+text[end:]
         meta['revisionActive'] = True
         text = review.HEADER.sub(lambda m:'%% transcript-review:v1 '+json.dumps(meta,ensure_ascii=False)+' %%',text)
-        core.atomic(root,str(path.relative_to(root)),text.encode())
+        core.atomic(root,path.relative_to(root).as_posix(),text.encode())
         issue['audio'] = dict(choice=choice,text=answer)
         return dict(answer=issue['audio'],version=answer_version(meta,issue))
 
@@ -196,7 +196,7 @@ def make_server(roots, folder, port=0):
     initial = [item for root in roots for item in items_for(root,folder,durations={})]
     allowed = {item['key']:(Path(item['bundle']),item['issueId']) for item in initial}
     clips = {item['clip']:folder/item['clip'] for item in initial}
-    html = (folder/'index.html').read_text().replace('__REVIEW_TOKEN__',token).encode()
+    html = (folder/'index.html').read_text(encoding='utf-8').replace('__REVIEW_TOKEN__',token).encode()
 
     class Handler(BaseHTTPRequestHandler):
         def log_message(self,*args): pass

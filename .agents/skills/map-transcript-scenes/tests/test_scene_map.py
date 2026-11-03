@@ -259,7 +259,7 @@ class SceneMapTests(unittest.TestCase):
         for uid in ('u0001', 'u0002', 'u0005', 'u0006'):
             line = self.bundle['lines'][uid]
             self.assertTrue(lines[line - 1].startswith('%% ' + uid + ':'))
-            self.assertIn(m.quote(str(self.source), safe='/') + f':{line}', text)
+            self.assertIn(m.quote(self.source.as_posix(), safe='/') + f':{line}', text)
 
     def test_preview_links_places_and_shows_a_common_date_once_above_rows(self):
         place = self.vault / 'Places/The Gate.md'
@@ -271,7 +271,7 @@ class SceneMapTests(unittest.TestCase):
         doc['scenes'][0].update(location='Places/The Gate.md', locationDetail='Outer gate',
                                 timeStart='Afternoon', timeEnd='Sunset')
         text = m.preview(self.bundle, doc)
-        self.assertIn(f'[The Gate](<{m.quote(str(place), safe="/")}>) / Outer gate', text)
+        self.assertIn(f'[The Gate](<{m.quote(place.as_posix(), safe="/")}>) / Outer gate', text)
         self.assertIn('Played scenes: 1748-04-12.', text)
         self.assertIn('| Place | Start time | End time |', text)
         rows = [line for line in text.splitlines() if line.startswith('| Scene ')]

@@ -36,7 +36,7 @@ class CorrectionTests(unittest.TestCase):
     def turn(self, **kwargs):
         return dict(index=0, before='Well, well, it got denser.', **kwargs)
 
-    def text(self, key): return (self.root/self.a[key]).read_text()
+    def text(self, key): return (self.root/self.a[key]).read_text(encoding='utf-8')
 
     def turns(self):
         return review.parse_markdown(self.text('polishedMarkdown'), core.parse_units(self.text('cleaned')))[0]
@@ -44,7 +44,7 @@ class CorrectionTests(unittest.TestCase):
     def test_word_replacement_preview_readonly_and_preserves_references(self):
         self.completed()
         manifest = self.root/self.a['sessionMetadata']
-        manifest.write_text(manifest.read_text()+'# Human metadata\nextra: unchanged\n')
+        manifest.write_text(manifest.read_text(encoding='utf-8')+'# Human metadata\nextra: unchanged\n', encoding='utf-8', newline='\n')
         before = self.f.snapshot()
         plan = self.plan(edits=[self.edit()])
         preview = corrections.build(self.root, plan)['preview']
@@ -56,9 +56,9 @@ class CorrectionTests(unittest.TestCase):
         self.assertEqual(self.turns()[0]['sources'][0]['end'], 31)
         for key in ('original','prepared'):
             self.assertEqual(before[self.a[key]], (self.root/self.a[key]).read_bytes())
-        self.assertIn('# Human metadata\nextra: unchanged', manifest.read_text())
+        self.assertIn('# Human metadata\nextra: unchanged', manifest.read_text(encoding='utf-8'))
         self.assertFalse((self.root/core.WORK).exists())
-        self.assertNotIn('speakerCorrections', yaml.safe_load(manifest.read_text())[final.KEY])
+        self.assertNotIn('speakerCorrections', yaml.safe_load(manifest.read_text(encoding='utf-8'))[final.KEY])
 
     def test_speaker_only_preserves_cleaned_and_all_speech(self):
         self.completed()
@@ -210,12 +210,12 @@ class CorrectionTests(unittest.TestCase):
         self.a = self.f.export(lambda us:[],raw,merged)
         self.f.finalize()
         derivative = self.root/'cleaned/session-001-session-recap.md'
-        derivative.write_text('Human recap: unchanged.')
+        derivative.write_text('Human recap: unchanged.', encoding='utf-8', newline='\n')
         result = corrections.apply(self.root,self.plan(edits=[dict(uid='u0001',start=7,end=10,before='Bob',after='Beryl')]))
         self.assertEqual(self.turns()[0]['sources'],[dict(uid='u0001',start=0,end=13),dict(uid='u0002',start=0,end=16)])
         self.assertEqual(self.turns()[0]['text'],'Hé saw Beryl. Then called him.')
-        self.assertEqual(derivative.read_text(),'Human recap: unchanged.')
-        self.assertIn(str(derivative.relative_to(self.root)),result['downstreamToInspect'])
+        self.assertEqual(derivative.read_text(encoding='utf-8'),'Human recap: unchanged.')
+        self.assertIn(derivative.relative_to(self.root).as_posix(),result['downstreamToInspect'])
 
     def test_confirmed_marker_removal_closes_review_without_retained_issue(self):
         raw = 'WEBVTT\n\n0 --> 1\nDM: Here is {{Beryl}}.\n'
@@ -235,11 +235,11 @@ class CorrectionTests(unittest.TestCase):
             folder/'session-001-transcript-highlights.md': 'Selected candidate: keep its wording and order.\n',
         }
         for path, text in derivatives.items():
-            path.write_text(text)
+            path.write_text(text, encoding='utf-8', newline='\n')
         unrelated = folder/'personal-notes.md'
-        unrelated.write_text('Not a generated derivative.\n')
+        unrelated.write_text('Not a generated derivative.\n', encoding='utf-8', newline='\n')
         (folder/'not-a-file-transcript.md').mkdir()
-        expected = sorted(str(p.relative_to(self.root)) for p in derivatives)
+        expected = sorted(p.relative_to(self.root).as_posix() for p in derivatives)
         operations = [
             dict(edits=[self.edit('darker')]),
             dict(turns=[dict(index=0, before='Well, well, it got darker.', speaker='Finnan')]),
@@ -259,8 +259,8 @@ class CorrectionTests(unittest.TestCase):
                 self.assertEqual(result['downstreamToInspect'], expected)
                 self.assertTrue(set(expected).isdisjoint(result['changedFiles']))
                 for path, text in derivatives.items():
-                    self.assertEqual(path.read_text(), text)
-                self.assertEqual(unrelated.read_text(), 'Not a generated derivative.\n')
+                    self.assertEqual(path.read_text(encoding='utf-8'), text)
+                self.assertEqual(unrelated.read_text(encoding='utf-8'), 'Not a generated derivative.\n')
 
     def test_cli_stdin_preview_and_inspection(self):
         self.completed()

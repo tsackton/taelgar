@@ -194,7 +194,7 @@ def status(root):
     path, meta, issues, updates, units, text, turns, matches = inputs(root)
     return dict(bundle=str(root), status='needs_manual_review' if issues else 'ready_to_finalize', finalized=False,
                 outputsCurrent=True, units=len(units), pendingMaterialIssues=len(issues),
-                pendingMaterialGroups=len(issues), artifacts=dict(meta['artifacts'], review=str(path.relative_to(root))),
+                pendingMaterialGroups=len(issues), artifacts=dict(meta['artifacts'], review=path.relative_to(root).as_posix()),
                 review=str(path), processingStateRequired=False)
 
 
@@ -231,7 +231,7 @@ def validate_fragment(turn, by_uid, substitutions):
 def apply(root):
     path, meta, issues, updates, units, text, turns, matches = inputs(root)
     require(meta.get('qualityComplete') is True, 'Complete source/polish quality review before the Markdown handoff')
-    expected = dict(meta['hashes'], **{str(path.relative_to(root)): sha(path.read_bytes())})
+    expected = dict(meta['hashes'], **{path.relative_to(root).as_posix(): sha(path.read_bytes())})
     selected, patches = [], {}
     for issue in issues:
         choice = issue['resolution']
@@ -318,7 +318,7 @@ def apply(root):
         source_text = source_text.replace(before, old['header'] + old['separator'] + new['text'], 1)
     files = {meta['artifacts']['cleaned']: source_text, meta['artifacts']['polishedMarkdown']: new_text}
     meta['hashes'].update({rel: sha(value) for rel, value in files.items()})
-    files[str(path.relative_to(root))] = document(meta, remaining, changed, next_turns)
+    files[path.relative_to(root).as_posix()] = document(meta, remaining, changed, next_turns)
     tx = commit(root, files, 'Apply decisions recorded in the portable review Markdown', expected)
     # Recovery snapshots are transient write protection, not review state.
     if tx:

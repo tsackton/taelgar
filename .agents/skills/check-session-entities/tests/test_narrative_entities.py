@@ -70,8 +70,14 @@ class NarrativeEntityTests(unittest.TestCase):
             self.load()
 
     def test_legacy_relocation_is_exact_and_paths_are_safe(self):
-        self.write_yaml('/old/vault/_sessions/demo/demo-001/cleaned/demo-001-source-prepared.md')
-        self.assertEqual(self.load()['source'], self.source)
+        for registered in (
+            '/old/vault/_sessions/demo/demo-001/cleaned/demo-001-source-prepared.md',
+            'C:/old/vault/_sessions/demo/demo-001/cleaned/demo-001-source-prepared.md',
+            'C:\\old\\vault\\_sessions\\demo\\demo-001\\cleaned\\demo-001-source-prepared.md',
+        ):
+            with self.subTest(registered=registered):
+                self.write_yaml(registered)
+                self.assertEqual(self.load()['source'], self.source)
         for path in ('../escape.md', '/old/demo-002/cleaned/demo-001-source-prepared.md'):
             self.write_yaml(path)
             with self.assertRaises(ValueError):
@@ -81,3 +87,13 @@ class NarrativeEntityTests(unittest.TestCase):
         self.source.symlink_to(self.yaml)
         with self.assertRaises(ValueError):
             self.load()
+
+    def test_crlf_narrative_keeps_original_bytes_and_uid_evidence(self):
+        raw = b'[u0001] A scout arrives.\r\n[u0002] The scout returns the vial.\r\n'
+        self.source.write_bytes(raw)
+        bundle = self.load()
+        document = e.save(bundle, self.proposal)
+        self.assertEqual(e.read_map(self.load()), document)
+        self.assertEqual(bundle['fingerprints']['cleaned/demo-001-source-prepared.md'],
+                         e.scenes.draft.sha(raw))
+        self.assertEqual(self.source.read_bytes(), raw)

@@ -29,7 +29,7 @@ class ReviewTests(unittest.TestCase):
                     recommendation='Use the supported candidate or retain the uncertainty.', question='Which words were spoken?', **extra)
 
     def export(self, issue_factory=None, raw=None, turns_factory=None, quality=True):
-        if raw: self.f.original.write_text(raw)
+        if raw: self.f.original.write_text(raw, encoding='utf-8', newline='\n')
         self.f.init()
         job = self.f.work('clean')
         issues = issue_factory(job['source']) if issue_factory else [self.f.review_issue()]
@@ -51,7 +51,7 @@ class ReviewTests(unittest.TestCase):
 
     def decide(self, resolutions, polished=None, correction=None):
         path, _, issues, _ = review.read(self.root)
-        text = path.read_text()
+        text = path.read_text(encoding='utf-8')
         for issue, choice in zip(issues, resolutions):
             token = '%% transcript-issue:v1 '+json.dumps({k:issue[k] for k in ('id','uid','target','contextRange')},ensure_ascii=False)+' %%'
             start = text.index(token)
@@ -68,7 +68,7 @@ class ReviewTests(unittest.TestCase):
                     value.update(result if isinstance(result,dict) else {'after':result})
                 return '%% transcript-polish:v1 '+json.dumps(value,ensure_ascii=False)+' %%'
             text=review.POLISH.sub(update,text)
-        path.write_text(text)
+        path.write_text(text, encoding='utf-8', newline='\n')
 
     def apply(self):
         with core.lock(self.root): return review.apply(self.root)
@@ -76,7 +76,7 @@ class ReviewTests(unittest.TestCase):
     def finalize(self):
         with core.lock(self.root): return review.finalize(self.root)
 
-    def snapshot(self): return {str(p.relative_to(self.root)):p.read_bytes() for p in self.root.rglob('*') if p.is_file()}
+    def snapshot(self): return {p.relative_to(self.root).as_posix():p.read_bytes() for p in self.root.rglob('*') if p.is_file()}
 
     def test_markdown_only_handoff_applies_and_finalizes(self):
         a=self.export();self.handoff(a)
@@ -89,13 +89,13 @@ class ReviewTests(unittest.TestCase):
         result=self.finalize();self.assertTrue(result['outputsCurrent'])
         self.assertEqual(result['status'],'complete')
         self.assertEqual(len(self.snapshot()),5)
-        self.assertIn('it got darker',(self.root/a['polishedMarkdown']).read_text())
-        self.assertIn('- Status: Complete\n',(self.root/a['polishedMarkdown']).read_text())
+        self.assertIn('it got darker',(self.root/a['polishedMarkdown']).read_text(encoding='utf-8'))
+        self.assertIn('- Status: Complete\n',(self.root/a['polishedMarkdown']).read_text(encoding='utf-8'))
         for k,v in baseline.items():self.assertEqual((self.root/a[k]).read_bytes(),v)
 
     def test_retain_has_clear_disposition_and_needs_no_polished_rewrite(self):
         a=self.export(lambda us:[self.issue(us[0],'denser',None)])
-        report=(self.root/a['review']).read_text()
+        report=(self.root/a['review']).read_text(encoding='utf-8')
         self.assertIn('Retain unresolved; no supported correction',report)
         self.assertNotIn('**Proposed:**',report)
         self.handoff(a);self.decide(['retain']);self.apply()
@@ -118,11 +118,11 @@ class ReviewTests(unittest.TestCase):
         def merged(job):
             return [dict(speaker='Wazir',sources=[s for t in job['draftTurns'] for s in t['sources']],text='Six people word children a collapse building. Bodies never found.')]
         a=self.export(lambda us:[self.issue(us[0],'word children a collapse.','were killed in a collapsed')],raw,merged)
-        self.handoff(a);second=core.parse_units((self.root/a['cleaned']).read_text())[1]
+        self.handoff(a);second=core.parse_units((self.root/a['cleaned']).read_text(encoding='utf-8'))[1]
         self.decide(['proposed'],{0:'Six people were killed in a collapsed building. Bodies never found.'})
         self.apply()
-        self.assertEqual(core.parse_units((self.root/a['cleaned']).read_text())[1],second)
-        self.assertEqual((self.root/a['polishedMarkdown']).read_text().count('building.'),1)
+        self.assertEqual(core.parse_units((self.root/a['cleaned']).read_text(encoding='utf-8'))[1],second)
+        self.assertEqual((self.root/a['polishedMarkdown']).read_text(encoding='utf-8').count('building.'),1)
 
     def test_long_fragmented_exchange_and_explicit_context(self):
         units=core.parse_units('\n'.join(f'[u{i:04d} | {i}-{i+1} | '+('A' if i<15 else 'B')+'] words in this tiny caption.' for i in range(1,31)))
@@ -161,17 +161,17 @@ class ReviewTests(unittest.TestCase):
         a=self.export(quality=False)
         self.decide(['retain'])
         with self.assertRaisesRegex(core.PipelineError,'quality'):self.apply()
-        source=self.root/a['cleaned'];source.write_text(source.read_text().replace('denser','darker'))
+        source=self.root/a['cleaned'];source.write_text(source.read_text(encoding='utf-8').replace('denser','darker'), encoding='utf-8', newline='\n')
         with self.assertRaisesRegex(core.PipelineError,'input changed'):review.status(self.root)
 
     def test_completed_bundle_can_reopen_without_work_state(self):
         self.f.init();a=self.f.complete()['artifacts'];self.f.finalize()
-        manifest=self.root/a['sessionMetadata'];manifest.write_text(manifest.read_text()+'# preserve trailing comment\nextra: unchanged\n')
+        manifest=self.root/a['sessionMetadata'];manifest.write_text(manifest.read_text(encoding='utf-8')+'# preserve trailing comment\nextra: unchanged\n', encoding='utf-8', newline='\n')
         with core.lock(self.root):review.prepare(self.root,['u0001'])
         self.decide(['correction'],{0:'Well, well, it got darker.'},'Well, well, it got darker.')
         self.apply();self.finalize()
-        self.assertIn('# preserve trailing comment\nextra: unchanged',manifest.read_text())
-        self.assertEqual(yaml.safe_load(manifest.read_text())['extra'],'unchanged')
+        self.assertIn('# preserve trailing comment\nextra: unchanged',manifest.read_text(encoding='utf-8'))
+        self.assertEqual(yaml.safe_load(manifest.read_text(encoding='utf-8'))['extra'],'unchanged')
         self.assertFalse((self.root/core.WORK).exists())
 
     def test_split_speaker_bounds_are_preserved_and_crossing_patch_rejected(self):
@@ -185,13 +185,13 @@ class ReviewTests(unittest.TestCase):
         with self.assertRaisesRegex(core.PipelineError,'boundary'):self.apply()
         path,meta,issues,updates=review.read(self.root)
         issues[0].update(target=dict(start=19,end=25,before='denser'),correction='much darker',resolution='correction')
-        units=core.parse_units((self.root/a['cleaned']).read_text());turns,_=review.parse_markdown((self.root/a['polishedMarkdown']).read_text(),units)
-        path.write_text(review.document(meta,issues,units,turns))
+        units=core.parse_units((self.root/a['cleaned']).read_text(encoding='utf-8'));turns,_=review.parse_markdown((self.root/a['polishedMarkdown']).read_text(encoding='utf-8'),units)
+        path.write_text(review.document(meta,issues,units,turns), encoding='utf-8', newline='\n')
         self.decide([],{1:'it got much darker.'});self.apply();self.finalize()
-        record=yaml.safe_load((self.root/a['sessionMetadata']).read_text())[final.KEY]
+        record=yaml.safe_load((self.root/a['sessionMetadata']).read_text(encoding='utf-8'))[final.KEY]
         self.assertNotIn('speakerCorrections', record)
-        units=core.parse_units((self.root/a['cleaned']).read_text())
-        turns,_=review.parse_markdown((self.root/a['polishedMarkdown']).read_text(),units)
+        units=core.parse_units((self.root/a['cleaned']).read_text(encoding='utf-8'))
+        turns,_=review.parse_markdown((self.root/a['polishedMarkdown']).read_text(encoding='utf-8'),units)
         self.assertEqual(turns[1]['speaker'],'Player')
         self.assertEqual(turns[1]['sources'],[dict(uid='u0001',start=split,end=len('Well, well, it got much darker.'))])
         self.assertEqual(units[0]['speaker'],'DM')
@@ -199,7 +199,7 @@ class ReviewTests(unittest.TestCase):
         reopened=review.inputs(self.root)[6]
         self.assertEqual(reopened,turns)
         self.decide(['retain']);self.apply();self.finalize()
-        self.assertNotIn('speakerCorrections',yaml.safe_load((self.root/a['sessionMetadata']).read_text())[final.KEY])
+        self.assertNotIn('speakerCorrections',yaml.safe_load((self.root/a['sessionMetadata']).read_text(encoding='utf-8'))[final.KEY])
 
     def test_recovery_after_interrupted_markdown_application(self):
         a=self.export();self.handoff(a);self.decide(['proposed'],{0:'Well, well, it got darker.'})
@@ -215,7 +215,7 @@ class ReviewTests(unittest.TestCase):
 
     def test_quality_job_exposes_garbled_source_for_recovery(self):
         raw='WEBVTT\n\n0 --> 1\nDM: Church.\n'
-        self.f.original.write_text(raw);self.f.init();self.f.clean()
+        self.f.original.write_text(raw, encoding='utf-8', newline='\n');self.f.init();self.f.clean()
         job=self.f.work('polish');turn=job['draftTurns'][0]
         turn.update(text='[garbled]',substitutions=[dict(uid='u0001',start=0,end=7,kind='garbled',reason='Prior incidental classification')])
         self.f.response(job,turns=[turn])
@@ -237,7 +237,7 @@ class ReviewTests(unittest.TestCase):
         self.assertEqual(before,self.snapshot())
         self.decide([],{0:dict(after='Sure.',substitutions=[])})
         self.apply();self.finalize()
-        result=(self.root/a['polishedMarkdown']).read_text()
+        result=(self.root/a['polishedMarkdown']).read_text(encoding='utf-8')
         self.assertIn('DM: Sure.',result)
         self.assertIn('Player: [garbled]',result)
         self.assertEqual(result.count('[garbled]'),1)
@@ -247,7 +247,7 @@ class ReviewTests(unittest.TestCase):
         path,meta,_,_=review.read(self.root)
         old=meta['artifacts']['original'];bad='../raw.vtt'
         meta['artifacts']['original']=bad;meta['hashes'][bad]=meta['hashes'].pop(old)
-        path.write_text(review.HEADER.sub(lambda m:'%% transcript-review:v1 '+json.dumps(meta)+' %%',path.read_text()))
+        path.write_text(review.HEADER.sub(lambda m:'%% transcript-review:v1 '+json.dumps(meta)+' %%',path.read_text(encoding='utf-8')), encoding='utf-8', newline='\n')
         before=self.snapshot();outside=self.f.original.read_bytes()
         with self.assertRaisesRegex(core.PipelineError,'escapes'):self.apply()
         self.assertEqual(before,self.snapshot());self.assertEqual(outside,self.f.original.read_bytes())
