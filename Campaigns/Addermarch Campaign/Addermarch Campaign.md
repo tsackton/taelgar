@@ -45,6 +45,7 @@ The story of the [[Serpentine Battleaxe]] is told in:
 The story of the return of the fey heart stolen from the [[Thornweald]] is told in:
 - [[Addermarch - Session 21]]
 - [[Addermarch - Session 22]]
+- [[Addermarch - Session 23]]
 
 %%^Campaign:none%%
 
@@ -54,7 +55,7 @@ Level 1->2: after Session 2
 Level 2->3: after Session 3
 Level 3->4: after Session 9 or 10 
 Level 4->5: after Session 15
-Level 5->6: after Session 23 (planned)
+Level 5->6: after Session 23 
 
 Addermarch Campaign cleanup / to do list
 
