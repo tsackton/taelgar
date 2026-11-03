@@ -1,14 +1,16 @@
 ---
 name: extract-entity-passages
-description: Extract focused, complete interactions for selected entities from an entity map with assessed session importance. Cut progressively tighter for supporting entities and cameos. Keep original speech and actions, minimal setup, and marked cuts; never rewrite or summarize. A scene map is optional.
+description: Build interactions.json from a mapped session's polished transcript. Extract coherent exchanges with original text and marked cuts, per-exchange entity roles and actions, source provenance, and review confidence. Use for selected interaction trials or an explicitly requested session scope; scene maps are optional.
 ---
 
 # Extract Entity Passages
 
-Use for readable source passages showing what an entity said, did, or was described
-as. The agent selects, bounds, and cuts; it does not write replacement narrative.
-Read [calibration](references/calibration.md) before the first extraction in a
-conversation.
+Build exchange-based `interactions.json`, showing what entities said, did, or were
+described as. Each record holds one coherent exchange or continuous account, its
+extracted Markdown lines, one or more focal entities, and five original text lines
+on either side for boundary review. Select, bound, and cut;
+do not write replacement narrative. Read [the format](references/format.md) and
+[calibration](references/calibration.md) before the first extraction in a conversation.
 
 ## Inputs and scope
 
@@ -16,8 +18,9 @@ Resolve the selected session YAML and its registered
 `transcriptProcessing.artifacts.polishedMarkdown`. Reuse YAML participant roles
 and source registration. The source reader in
 `../prepare-interaction-transcript/scripts/interaction_draft.py`,
-`load(session_yaml, for_draft=False)`, checks source integrity and reads turns
-without writing. It requires Python 3.9+ and PyYAML, as documented in that skill.
+`load(session_yaml, for_draft=False, allow_unknown_dates=True)`, checks source integrity and reads turns
+without writing. It requires Python 3.9+ and PyYAML; the interaction validator
+also uses jsonschema, listed in [requirements.txt](requirements.txt).
 Do not initialize a reduction draft to extract passages. Recaps, beat narratives,
 vault biographies, and reduction labels are not substitutes for source speech.
 
@@ -38,22 +41,27 @@ Before extracting, identify the selected **focal entities** by session-local ent
 label. Use explicit user selections; otherwise present a compact map-based shortlist
 for selection. A request for maps first stops at that shortlist. Do not default to
 extracting every mapped entity. During calibration, use a small selected batch
-(normally one to three entities) and expand only after feedback. An explicitly
-requested target outside the map inventory, such as a PC, must be named as an
-exception; the session still requires its entity map.
+(normally one to three entities) and expand only after feedback. For an explicitly
+requested whole-session extraction, select coherent exchanges across that scope
+without requiring an entity-by-entity shortlist. Every serialized entity ID must
+resolve in the bound map. PCs may speak and act in the text through YAML-owned
+roles without entries in the entities array. A requested focal target absent from
+the map needs a separately authorized mapping/model decision; do not invent an ID
+or change the map to make the extraction fit.
 
-Declare the focal entity or entities for each passage. Other entities may speak or act
-as supporting participants without becoming additional focal entities. Co-focal entities must be
-explicitly selected, not added just to justify retaining more background. State a
-short editorial focus outside the excerpt, such as “the ocean challenges the
-intruders”; this is a selection description, not replacement narration.
+Declare focal entities as interaction-local `role: star`. Other mapped entities
+represented in retained text may be `supporting` or `cameo`; these entries do not
+authorize expanding the extraction. For a selected-entity trial, additional stars
+must also be selected, not added to justify background. A short `title` provides
+navigation; it is not extraction reasoning or a replacement summary.
 
-Default to chat excerpts. A request to save, or an established output destination,
-authorizes a saved derivative; otherwise do not persist a report. Default saved
-destination: `cleaned/<stem>-entity-passages.md`. Follow repository Git instructions
-before writing. Read any existing output completely and preserve unrelated
-entities and human edits. Sources, YAML, maps, vault notes, and `session.json`
-remain unchanged. Do not commit or publish automatically.
+A request to build or save interactions authorizes the scoped derivative at
+`cleaned/<stem>-interactions.json`. A request only to discuss, propose, or preview
+stays in chat. Read an existing output completely and inspect its local changes;
+preserve unrelated exchanges, stable IDs, and human edits. Existing Markdown
+trials remain untouched unless their conversion or replacement is requested.
+Sources, YAML, maps, vault notes, and `session.json` remain unchanged. Do not
+commit, publish, or register output in YAML automatically.
 
 ## Locate candidate scenes
 
@@ -83,9 +91,9 @@ discussions remain eligible; preserve their framing.
 For mapped scopes, scan outside candidate windows for other names/variants and
 follow newly found discussions. For comprehensive session coverage without known
 complete membership, read the remaining source in order. Otherwise label the
-result as selected-scene or occurrence-led extraction, not exhaustive. Respect an
-explicitly limited scene scope, expanding boundaries only as needed to finish the
-exchange. Maps should reduce reading work, not silently truncate conversations.
+result in the handoff as selected-scene or occurrence-led extraction, not exhaustive.
+Respect an explicitly limited scene scope, expanding boundaries only as needed to
+finish the exchange. Maps should reduce reading work, not silently truncate conversations.
 
 ## Select complete moments where the entity is the focus
 
@@ -145,6 +153,32 @@ excerpt to justify a promotion. The session-99 calibration classifies Caloria,
 Martino, and the Immovable Rod as cameos, and Dorian, Kazuro, and the Sentient
 Ocean as supporting.
 
+## Assign interaction-local entity roles and actions
+
+Use one `entities` array per exchange, with `{id, role, action}` for each mapped
+entity represented in retained text. Require at least one `star`, the local focus.
+`supporting` contributes meaningfully or is needed to understand the exchange;
+`cameo` is a brief relevant appearance or mention. These local roles are independent
+of entity-map session importance: a session cameo can star in its one short exchange.
+Do not list an entity whose entire contribution was cut, or inventory every passing
+name merely because it falls within the original source range.
+
+Classify each entity's involvement relative to the party:
+
+- `interacted`: meaningful direct exchange or action, including fighting, rescue,
+  threats, help, or using an item.
+- `observed`: perceived or examined without a direct exchange.
+- `present`: established as there, without substantive selected action or observation.
+- `mentioned`: discussed or described without establishing participation in the
+  current encounter. An absent entity can be the star of a discussion.
+
+Use the most substantive supported involvement within the exchange, rather than
+separate entries for seeing and then speaking to the same entity. Recaps, reported
+history, speculation, prayer, and attributed divine intervention alone are mentions;
+they do not establish a current direct encounter. A played manifestation or exchange
+can support observation or interaction. Keep this framing intelligible in the source
+text itself. `seen` is not a separate action value.
+
 ## Snip irrelevant material; never rewrite
 
 ### Items: brief use or acquisition, complete original lore
@@ -166,12 +200,13 @@ claiming external originality. Keep separate use/acquisition and lore moments
 separate rather than attaching all surrounding item discussion to the lore.
 
 When the item was specifically examined in the **Mirror of the Past** during this
-session, display **Mirror of the Past: examined** alongside its passage heading
-and carry `examinedInMirrorOfPast: true` in saved focal-item metadata. New runs
-consume the entity map's flag and its occurrence evidence. A correction to a
-legacy trial can flag a source-verified examination in that derivative without
-silently migrating its map. Preserve the resulting history/vision as a coherent
-lore passage, including events involving other participants in that history.
+session, consume the entity map's `examinedInMirrorOfPast` flag and its occurrence
+evidence. Preserve the resulting history/vision as a coherent lore passage,
+including events involving other participants in that history. The flag remains
+owned by the entity map; do not copy it into the lean interaction records. A chat
+preview may display **Mirror of the Past: examined** from the bound map. A targeted
+correction to a legacy Markdown trial may retain its existing source-verified flag
+without silently migrating the map.
 Flag the item being examined, not every item visible in the vision or the mirror
 merely used to view it. Proposed examinations, recollections of earlier sessions,
 unrelated visions, and the Mirror of Soul Trapping do not establish this flag.
@@ -221,44 +256,61 @@ distinguish it from editorial markers rather than silently treating it as a cut.
 Preserve attribution, hedges, negation, alternatives, corrections, and disagreement.
 Do not turn plans into events, attempts into successes, or claims into established
 facts. Keep enough context to resolve pronouns and DM-spoken lines, including
-switches between NPCs or narration. A brief separate attribution note is allowed;
-silently relabeling DM speech is not. Later vault knowledge must not change what
-the session said or knew.
+switches between NPCs or narration. Preserve source attribution rather than
+silently relabeling DM speech or inserting new narration. Later vault knowledge
+must not change what the session said or knew.
 
 ## Output and provenance
 
-Group passages by entity, in source order within each entity. Provide short
-navigation labels, explicit focal IDs/labels, mapped session importance, editorial focus, source links,
-and inclusive whole-turn UID ranges. Explain
-`((...))` once. Put necessary framing (recap, speculation, reported claim, or NPC
-attribution) outside the excerpt. Do not append AI summaries, trait lists,
-biographies, or motive explanations. Discuss editorial choices outside the
-extraction only when useful in exploration or requested.
+Author the [interactions v1 format](references/format.md), enforced structurally by
+[interactions.schema.json](references/interactions.schema.json). Store exchanges
+in source order, not grouped into duplicate copies per entity. Reuse stable IDs on
+revision; one shared record can serve multiple selected stars. Separate encounters
+remain separate. Overlap is allowed when distinct exchanges need common context,
+but avoid redundant overlapping extracts of the same exchange.
 
-For saved derivatives:
+Store original Markdown as `lines`, one physical line per array entry, including
+blank lines and original UID/offset comments. Whole-turn snips retain the omitted
+turns' source spans in order beside their cut label. Join with `"\n"` for display;
+do not embed newlines inside an entry or rewrap original retained prose. Outer
+source ranges respect whole turns and shared UIDs; offsets still refer to cleaned
+source. The title is the only content summary. There is no `framing`, separate
+`focalEntities`, copied entity metadata, scene anchor, or v7 quote collection.
 
-- Record vault-relative session YAML, the YAML source artifact key, and polished
-  source SHA-256 in an opening provenance comment. Record paths and byte hashes
-  of the required entity map and any scene map used. Record selected focal IDs and
-  any explicit target exceptions; identify each passage's focal entities alongside its
-  source range and mapped importance. Do not add passage-focus fields to the entity map or create another
-  metadata/source registry.
-- State reading scope: complete session, selected scenes, or occurrence-led.
-- Give each passage a source range. Preserve original UID/offset comments on
-  retained turns. Whole-turn snips retain the omitted turns' span entries in source
-  order with their cut label. Offsets still refer to cleaned source, not display
-  text or invented sub-turn alignment.
-- Ranges respect whole polished turns and whole UIDs, including combined/shared
-  UIDs. Displaying a cut-down turn does not authorize a partial-UID locator.
-- Overlap across different entities is legitimate. A local reference to a shared
-  passage may avoid duplication. Within one entity prefer a complete passage to
-  redundant overlapping excerpts.
+Bind the document to session YAML, the registered polished-source byte hash, and
+the entity-map path and byte hash. A scene map may assist discovery, but the saved
+artifact has no scene-index dependency. Do not create another participant/source
+registry. Explain reading scope and material limitations in the handoff, rather
+than adding undeclared schema fields. Empty interactions are permitted; say when
+the inspected scope yielded no meaningful exchange.
 
-This derivative is neither final v7 enrichment nor a full-coverage reduction
-draft. Do not put cut-bearing text into v7 verbatim `quotes`. The existing
-full-draft validator does not validate a partial entity collection. Extraction
-does not migrate maps, add a review-status store, or register final output;
-complete any prerequisite map upgrade through the entity-mapping workflow.
+Each interaction also requires `reviewContext: {before, after}`. Populate it with
+the five nonblank original physical transcript text lines immediately outside the
+complete source range, or fewer only where the transcript ends. Keep original
+wording/speaker labels; exclude blank lines and UID/offset comments. Use the
+helper's read-only `context` command documented in [the format](references/format.md)
+instead of selecting favorable context. Do not add these lines to `lines`, widen
+source bounds, or classify entities appearing only in review context. In HTML or
+other readable reviews, show them by default above and below the interaction in
+smaller, muted/grey text. Internal cut and summary disclosures show the raw omitted
+or summarized source only, without their own before/after windows. The five-line
+before/after context belongs only to the whole interaction.
+
+`review` is optional in the format; new agent-authored exchanges should include
+it. Confidence covers selection, boundaries, roles/actions, retained text, and
+cuts. Put a concise, specific explanation in `review.reason` for `medium` or `low`
+confidence; it is optional for `high`. A reason explains the uncertainty in this
+extraction, not the entity's biography or a chain of reasoning. Start unreviewed;
+use `automatedReviewed` only after the distinct second pass below. Use
+`humanReviewed` only after the user actually reviews that exchange and its cuts.
+Map approval and schema validation establish neither. Omitted review means no
+attestation. Preserve human-reviewed records on reruns; if their evidence changes,
+report the conflict rather than silently replacing them. Changed agent records
+need a fresh review, not a carried-forward attestation.
+
+This artifact replaces the Markdown collection as this skill's authored output;
+it does not enrich v7 `session.json`, migrate maps, or register final output.
+The existing full-draft validator does not validate this partial collection.
 
 ## Verify and hand off
 
@@ -274,13 +326,30 @@ Make a distinct second pass over each selected original range and its neighbors:
    speakers/punctuation. Check marked omissions and whole-turn source ranges.
    The draft reader's `match_inline` can check individual cut-bearing turns when
    their labels fit its syntax; it is not a collection or semantic validator.
-4. Check identity, recap/played-event framing, and continuity across cuts. Prior
-   map review does not review the new extraction.
-5. Before saving, recheck inspected source/map hashes and prior output state.
-   Re-read changed evidence rather than overwriting hashes. Review the saved
-   derivative, scoped diff, and unchanged inputs.
+4. Check identity, local roles/actions, recap/played-event framing, and continuity
+   across cuts. Prior map review does not review the new extraction. Check the
+   review confidence and conditional reason after this pass.
+5. Run the read-only helper with Python 3.9+, PyYAML, and jsonschema available:
 
-Return excerpts or the saved file plus material uncertainty/scope limitations.
+   ```bash
+   python -B .agents/skills/extract-entity-passages/scripts/interactions.py validate PATH_TO_INTERACTIONS_JSON
+   ```
+
+   It checks schema, conditional reasons, provenance, entity references, source
+   order, UID boundaries, source-span accounting in `lines`, and the exact adjacent
+   source text in `reviewContext`. It does not prove
+   retained wording, appropriate cuts, classifications, or semantic review.
+6. Before saving, recheck inspected source/map hashes and prior output state.
+   Re-read changed evidence rather than overwriting hashes. Never update the root
+   map hash while carrying forward uninspected exchanges: revalidate their entity
+   references and review any relevant map-decision changes first. Review the saved
+   derivative, scoped diff, and unchanged inputs. Validation must also pass on the
+   saved bytes; rerun it only if those differ from the validated proposal.
+
+Return the saved JSON or requested preview plus reading scope and material
+uncertainty/limitations. A preview may render `lines` as Markdown and resolve
+labels from the map; do not persist an extra Markdown report by default.
+Show the persisted boundary context visibly when rendering a requested review.
 For calibration, present the selected batch alone rather than another full-session
 collection. Retain earlier trials for comparison unless replacement was requested.
 Do not require approval of every clear passage. Human-reviewed means the user

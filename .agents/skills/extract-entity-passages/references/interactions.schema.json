@@ -1,0 +1,139 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Taelgar extracted interactions v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "sessionYaml", "inputs", "interactions"],
+  "properties": {
+    "schemaVersion": {"const": 1, "type": "integer"},
+    "sessionYaml": {"$ref": "#/$defs/line"},
+    "inputs": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["transcript", "entityMap"],
+      "properties": {
+        "transcript": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["sourceId", "sha256"],
+          "properties": {
+            "sourceId": {"const": "transcriptProcessing.artifacts.polishedMarkdown"},
+            "sha256": {"$ref": "#/$defs/sha256"}
+          }
+        },
+        "entityMap": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["path", "sha256"],
+          "properties": {
+            "path": {"$ref": "#/$defs/line"},
+            "sha256": {"$ref": "#/$defs/sha256"}
+          }
+        }
+      }
+    },
+    "interactions": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/interaction"}
+    }
+  },
+  "$defs": {
+    "line": {
+      "type": "string",
+      "pattern": "\\S",
+      "not": {"pattern": "[\\r\\n]"}
+    },
+    "sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "interaction": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "title", "entities", "source", "lines", "reviewContext"],
+      "properties": {
+        "id": {"$ref": "#/$defs/line"},
+        "title": {"$ref": "#/$defs/line"},
+        "entities": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/$defs/entityParticipation"},
+          "contains": {
+            "type": "object",
+            "required": ["role"],
+            "properties": {"role": {"const": "star"}}
+          },
+          "minContains": 1
+        },
+        "source": {"$ref": "#/$defs/sourceRange"},
+        "lines": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "not": {"pattern": "[\\r\\n]"}
+          },
+          "contains": {"type": "string", "pattern": "\\S"}
+        },
+        "reviewContext": {"$ref": "#/$defs/reviewContext"},
+        "review": {"$ref": "#/$defs/review"}
+      }
+    },
+    "entityParticipation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "role", "action"],
+      "properties": {
+        "id": {"$ref": "#/$defs/line"},
+        "role": {"enum": ["star", "supporting", "cameo"]},
+        "action": {"enum": ["interacted", "observed", "present", "mentioned"]}
+      }
+    },
+    "sourceRange": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["startUid", "endUid"],
+      "properties": {
+        "startUid": {"type": "string", "pattern": "^u[0-9]+$"},
+        "endUid": {"type": "string", "pattern": "^u[0-9]+$"}
+      }
+    },
+    "reviewContext": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["before", "after"],
+      "properties": {
+        "before": {
+          "type": "array",
+          "maxItems": 5,
+          "items": {"$ref": "#/$defs/line"}
+        },
+        "after": {
+          "type": "array",
+          "maxItems": 5,
+          "items": {"$ref": "#/$defs/line"}
+        }
+      },
+      "description": "Original nonblank transcript text lines immediately outside the interaction's source bounds. Five on each side, or fewer only at a transcript edge."
+    },
+    "review": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["confidence", "status"],
+      "properties": {
+        "confidence": {"enum": ["high", "medium", "low"]},
+        "status": {"enum": ["unreviewed", "automatedReviewed", "humanReviewed"]},
+        "reason": {"$ref": "#/$defs/line"}
+      },
+      "allOf": [
+        {
+          "if": {
+            "required": ["confidence"],
+            "properties": {"confidence": {"enum": ["medium", "low"]}}
+          },
+          "then": {"required": ["reason"]}
+        }
+      ]
+    }
+  }
+}
