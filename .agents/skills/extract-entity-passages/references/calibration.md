@@ -14,6 +14,14 @@ distinguishes session prominence from passage focus and requires much tighter
 cameo cuts. The earlier cases below describe source material to inspect, not a
 checklist of everything to retain. Apply the focal test to every stretch.
 
+These cases govern selection and cuts, not the retired per-entity Markdown
+layout. In interactions v1, each selected focal entity has local `role: star`,
+even when its session importance is supporting or cameo. Supporting/cameo entries
+describe other mapped entities represented in retained text; their inclusion
+does not broaden the focal selection. Store a shared exchange once, in source
+order, with original text and marked cuts in `lines`. Mirror-examination flags
+remain in the bound entity map rather than being copied into interaction JSON.
+
 ### Dunmari Frontier 99: Sentient Ocean
 
 Declare **Sentient Ocean alone** as the focal entity; its session importance is supporting. Preserve its resistance, watchful
