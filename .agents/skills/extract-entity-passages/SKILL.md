@@ -19,8 +19,8 @@ and source registration. The shared reader is
 `load(session_yaml, vault_root)` checks source integrity and reads whole-UID groups
 without writing. See the [shared library](../../../_scripts/taelgar_session/README.md)
 for imports and date-policy options. It requires Python 3.9+ and PyYAML.
-Do not initialize a reduction draft to extract passages. Recaps, beat narratives,
-vault biographies, and reduction labels are not substitutes for source speech.
+Recaps, beat narratives, vault biographies, and editorial cut labels are not
+substitutes for source speech.
 
 Require a current, validated v4 entity map with session importance assessed for
 every entity. Read the [importance calibration](../check-session-entities/references/importance.md).
@@ -179,9 +179,8 @@ unrelated visions, and the Mirror of Soul Trapping do not establish this flag.
 ### General cutting rules
 
 Read the complete candidate exchange before cutting. Remove irrelevant material
-as much as possible while preserving the target's meaningful interaction. Unlike
-the session-wide reduction draft, this selection need not preserve unrelated
-material about other entities.
+as much as possible while preserving the target's meaningful interaction.
+The selection need not preserve unrelated material about other entities.
 
 For each retained stretch, ask: does this show the focal interaction, or is it
 part of its coherent narration, or indispensable to understanding it? If none,

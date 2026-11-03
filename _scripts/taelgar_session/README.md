@@ -12,7 +12,6 @@ status. Existing skill helpers remain the command-line entry points.
 | `sources` | Load source bundles, group indivisible UIDs/turns, validate evidence ranges, render reading windows/links, and recheck inputs. |
 | `validation` | Shared map errors, fields, strings, confidence/status vocabulary, map JSON encoding, and canonical metadata digests. |
 | `passages` | Check exact retained wording around marked inline omissions, without judging relevance or completeness. |
-| `legacy_draft` | Validate/read existing reduction drafts. No draft creation or editing API remains. |
 
 ## Imports and policy
 
@@ -25,7 +24,7 @@ The package never imports skill scripts.
 from taelgar_session import sources
 
 bundle = sources.load(session_yaml, vault_root)
-text = sources.window(bundle, start_uid, end_uid, view='polished')
+text = sources.window(bundle, start_uid, end_uid)
 ```
 
 `load` requires known session dates by default. Entity mapping explicitly uses
@@ -36,7 +35,8 @@ and its occurrence references remain in the entity helper.
 
 `transcript.load` is the lower-level registered transcript reader.
 `sources.load` adds vault context, source fingerprints, whole-UID groups, and
-mapping input digests. Reading windows expand to complete groups; source bounds
+mapping input digests. Reading windows always use polished speech and expand to
+complete groups; source bounds
 reject endpoints that divide a combined turn or shared UID.
 
 `transcript_core` re-exports shared storage and UID functions for existing

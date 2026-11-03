@@ -15,7 +15,7 @@ recaps or new vault notes.
 
 Follow repository branch/worktree instructions. Resolve one session YAML and read
 its **complete polished transcript**, in order, using bounded UID windows. No scene
-map or reduction draft is required. Reuse the helper's source reader and YAML-owned
+map is required. Reuse the helper's source reader and YAML-owned
 PC roles; do not build another source registry or PC list. Preserve material time
 uncertainty in identity matches; full chronology/scene mapping is separate.
 
@@ -36,7 +36,7 @@ remaining inventory and review rules apply equally to narrative sources.
 
 A new ordinary run writes only `cleaned/<stem>-entity-map.json`. Revisions with
 existing review JSON also append the agent regeneration to that history. Transcripts, YAML,
-vault notes, drafts, scene maps, and other processing files stay read-only. Render
+vault notes, scene maps, and other processing files stay read-only. Render
 review on demand; do not persist a lengthy report by default. A saved review needs
 a user request. Do not commit or push automatically.
 

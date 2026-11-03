@@ -40,11 +40,11 @@ class SharedSourceTests(unittest.TestCase):
         self.assertEqual(bundle['coverage'], [('u0001', 0, 5), ('u0002', 0, 5), ('u0003', 0, 5)])
         self.assertEqual(bundle['sessionYaml'], '_sessions/demo/cleaned/demo-session.yaml')
         self.assertEqual(set(bundle['fingerprints']), {'cleaned/demo-session.yaml', 'cleaned/demo-transcript.md'})
-        first = sources.window(bundle, 'u0002', 'u0002', 'polished')
+        first = sources.window(bundle, 'u0002', 'u0002')
         self.assertIn('[u0001–u0002]', first)
         self.assertIn('Élan greets', first)
         self.assertNotIn('He answers', first)
-        shared = sources.window(bundle, 'u0003', 'u0003', 'polished')
+        shared = sources.window(bundle, 'u0003', 'u0003')
         self.assertIn('I ask.', shared)
         self.assertIn('He answers.', shared)
         self.assertEqual(shared.count('[u0003–u0003]'), 1)
@@ -105,8 +105,8 @@ class SharedSourceTests(unittest.TestCase):
     def test_literal_parentheses_are_valid_source_speech(self):
         self.source.write_bytes(self.source.read_bytes().replace(b'greets', b'((the guide)) greets'))
         bundle = sources.load(self.manifest, self.vault)
-        self.assertIn('((the guide))', sources.window(bundle, 'u0001', 'u0002', 'polished'))
-        self.assertFalse(bundle['draft'].exists())
+        self.assertIn('((the guide))', sources.window(bundle, 'u0001', 'u0002'))
+        self.assertNotIn('draft', bundle)
 
     def test_inline_omission_requires_exact_retained_text(self):
         turn = {'body': 'DM: Élan greets you, rolls dice, and answers.\n\n'}

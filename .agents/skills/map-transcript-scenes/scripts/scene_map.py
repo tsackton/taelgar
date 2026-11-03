@@ -178,7 +178,7 @@ def save(bundle, proposal, expected=None):
     with lock(bundle['root']):
         check_inputs(bundle)
         path = safe(bundle['root'], bundle['mapPath'].relative_to(bundle['root']))
-        input_paths = {safe(bundle['root'], p) for p in bundle['fingerprints']} | {bundle['draft']}
+        input_paths = {safe(bundle['root'], p) for p in bundle['fingerprints']}
         require(path not in input_paths, 'Map output aliases an input')
         if path.exists():
             require(path.is_file() and path.stat().st_nlink == 1, 'Existing map must be a regular file, not a hard link')
@@ -270,7 +270,6 @@ def main():
     show = sub.add_parser('show')
     show.add_argument('--start-uid')
     show.add_argument('--end-uid')
-    show.add_argument('--view', choices=['auto', 'draft', 'polished'], default='auto')
     for command in ('validate', 'preview'):
         sub.add_parser(command).add_argument('--map')
     writer = sub.add_parser('save')
@@ -284,10 +283,10 @@ def main():
             result = {'sessionYaml': bundle['sessionYaml'], 'inputDigest': bundle['inputDigest'],
                       'dates': {k: str(bundle['data'][k]) for k in ('realWorldDate', 'drStart', 'drEnd')},
                       'sourceUids': len(bundle['coverage']), 'safeGroups': len(bundle['groups']),
-                      'draftAvailable': bundle['draft'].exists(), 'map': str(bundle['mapPath']),
+                      'map': str(bundle['mapPath']),
                       'mapSha256': draft.sha(bundle['mapPath'].read_bytes()) if bundle['mapPath'].exists() else None}
         elif args.command == 'show':
-            print(window(bundle, args.start_uid, args.end_uid, args.view), end='')
+            print(window(bundle, args.start_uid, args.end_uid), end='')
             return
         elif args.command == 'save':
             require(args.expect_input_digest == bundle['inputDigest'], 'Inputs changed since inspect; recheck before saving')

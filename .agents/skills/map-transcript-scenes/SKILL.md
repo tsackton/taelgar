@@ -5,9 +5,8 @@ description: Map where and when a session takes place from its YAML-registered p
 
 # Map Transcript Scenes
 
-Use after `process-transcript`. An existing validated legacy reduction draft may
-still serve as a reading view; its authoring skill is retired. This stage creates a geographic and temporal index and
-checks the session YAML's dates. It does not extract entities, encounters,
+Use after `process-transcript`. Read the YAML-registered polished transcript to
+create a geographic and temporal index and check the session YAML's dates. It does not extract entities, encounters,
 interactions, quotes, beats, or recaps. Entity checking runs independently.
 
 ## Inputs and output
@@ -27,23 +26,18 @@ python3 -B HELPER --session-yaml YAML show --start-uid u0001 --end-uid u0100
 ```
 
 Retain the inspected `inputDigest` and existing `mapSha256` for saving. Artifact
-paths are bundle-relative. `show` prefers a validated reduction draft when present;
-use `--view polished` for original speech. Reading windows expand to whole turns
-and UIDs. If a collapsed snip crosses a window, the helper shows polished text.
-Report an invalid/stale draft and explicitly select polished view to continue;
-do not repair the draft here.
+paths are bundle-relative. `show` always reads original polished speech. Reading
+windows expand to whole turns and UIDs.
 
 The sole persistent output is `cleaned/<stem>-scene-map.json`. Sources, YAML,
-drafts, existing processing files, and final outputs stay unchanged. The helper
+existing processing files, and final outputs stay unchanged. The helper
 uses the shared directory lock and a removed-after-use temporary file for atomic
 writes. Do not persist another transcript, review document, or log by default.
 
 ## Divide by place and time
 
-Read the entire draft or polished transcript. With a draft, reopen original speech
-at every proposed boundary and wherever a snip might hide a place/time transition
-or evidence for a claim. Labels are retrieval hints, never evidence. Routine
-mechanics wholly inside an established scene need no second exhaustive reading.
+Read the complete polished transcript in source order. Inspect original speech
+on both sides of every proposed place/time boundary.
 
 A scene is one continuous source span covering a stay at a meaningful site or
 movement along a route during a continuous interval of in-world time. Account
@@ -64,8 +58,8 @@ for **every UID exactly once** as a scene or contextual block, in source order:
   travel-method changes, and roadside events alone do not split a route. A pursuit
   can cross nearby streets, alleys, and fields before reaching a destination.
 - Keep chatter and table breaks inside the scene if play resumes the same
-  place/time span, regardless of interruption length. Snips and reading windows
-  are not boundaries.
+  place/time span, regardless of interruption length. Reading windows are not
+  boundaries.
 - Preserve source order for flashbacks and retroactively declared actions; do not
   reorder into chronology or mistake played flashbacks for recaps.
 - Use contiguous inclusive UID ranges, respecting whole polished turns and shared
@@ -135,7 +129,7 @@ no material concerns. See [the issue format](references/format.md#ai-issues).
 While reading, compare current-date statements, overnight transitions, elapsed
 journeys/stays, corrections, and the first/last played moments with YAML. Verify
 material discrepancies in original speech, including relevant OOC/closing lore.
-Historical/recap dates, future plans, snip labels, and recording timestamps do not
+Historical/recap dates, future plans, and recording timestamps do not
 establish current in-world dates. For a date concern, identify the affected YAML
 field and the actual comparison in its description. Preserve uncertainty and
 propose a correction only when evidence supports it; do not edit YAML.

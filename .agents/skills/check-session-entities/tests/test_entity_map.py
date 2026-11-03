@@ -61,7 +61,7 @@ class EntityMapTests(unittest.TestCase):
         e.save(bundle, self.proposal)
         self.assertIn('Grash ((the guide))', e.preview(bundle, e.read_map(bundle), 'e001'))
         self.assertEqual(source.read_bytes(), original)
-        self.assertFalse(bundle['draft'].exists())
+        self.assertNotIn('draft', bundle)
         self.assertFalse(bundle['mapPath'].exists())
 
     def test_unknown_dates_allow_entities_without_relaxing_other_workflows(self):

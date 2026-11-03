@@ -8,7 +8,6 @@ These schemas document source-preparation artifacts and retained legacy session 
 - `cleanup-report.schema.json`: `<prefix>-cleanup-report.json` from `report_cleanup_diff.py`
 - `session-corrections.schema.json`: `<prefix>-session-corrections.yaml` from `report_cleanup_diff.py`
 - `beats.schema.json`: legacy `<prefix>-beats.json`
-- `beat-contexts.schema.json`: legacy `<prefix>-beat-contexts.json`
 - `beat-facts.schema.json`: legacy `<prefix>-beat-facts.json`
 
 The beat/recap authoring workflows have been retired. Their schemas remain to describe existing artifacts used by legacy consumers.

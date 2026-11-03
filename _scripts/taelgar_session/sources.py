@@ -68,28 +68,13 @@ def check_inputs(bundle):
                 f'Input changed during mapping: {relative}')
 
 
-def window(bundle, start_uid=None, end_uid=None, view='auto'):
-    require(view in {'auto', 'draft', 'polished'}, 'Unknown reading view')
+def window(bundle, start_uid=None, end_uid=None):
     start_uid = start_uid or bundle['coverage'][0][0]
     end_uid = end_uid or bundle['coverage'][-1][0]
     start, end = source_bounds(bundle, source(start_uid, end_uid), 'reading window', boundary=False)
     selected = [g for g in bundle['groups']
                 if bundle['positions'][g['endUid']] >= start and bundle['positions'][g['startUid']] <= end]
-    start, end = bundle['positions'][selected[0]['startUid']], bundle['positions'][selected[-1]['endUid']]
-    use_draft = view == 'draft' or (view == 'auto' and bundle['draft'].exists())
-    note = ''
-    if use_draft:
-        from .legacy_draft import inspect_draft
-        _, blocks, _ = inspect_draft(bundle)
-        # Do not attribute a collapsed snip from outside the window to this scene.
-        relevant = [b for b in blocks if bundle['positions'][b['spans'][-1][0]] >= start
-                    and bundle['positions'][b['spans'][0][0]] <= end]
-        if any(bundle['positions'][b['spans'][0][0]] < start or bundle['positions'][b['spans'][-1][0]] > end
-               for b in relevant):
-            use_draft = False
-            note = 'Collapsed draft snip crosses this window; showing polished source.\n\n'
-    if not use_draft:
-        relevant = [t for group in selected for t in group['turns']]
+    relevant = [t for group in selected for t in group['turns']]
     # Merge adjacent turns sharing a UID so displayed endpoints are always safe.
     rendered = []
     for block in relevant:
@@ -99,8 +84,7 @@ def window(bundle, start_uid=None, end_uid=None, view='auto'):
             rendered[-1][2] += block['body']
         else:
             rendered.append([first, last, block['body']])
-    label = 'draft; ((labels)) are generated' if use_draft else 'polished source'
-    return note + f'View: {label}\n\n' + ''.join(f'[{a}–{z}]\n{body}' for a, z, body in rendered)
+    return 'View: polished source\n\n' + ''.join(f'[{a}–{z}]\n{body}' for a, z, body in rendered)
 
 
 def source_link(bundle, ref):

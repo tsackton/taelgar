@@ -18,10 +18,9 @@ of the final interaction data. No new source paths or copied session metadata.
 serialized as ISO strings), ignoring only the final `interactionExtraction`
 pointer. Formatting changes and appending that pointer do not stale the map.
 `inputs.sources` maps the YAML artifact keys for polished text and, when registered,
-cleaned UID text to their byte hashes. The optional reduction draft is a reading
-view; validating it never makes it the source authority. Restoring its snips does
-not change the map's original-source references. A changed canonical source or
-semantic YAML context requires a new mapping/recheck, not editing stored hashes.
+cleaned UID text to their byte hashes. Reading windows always use polished speech.
+A changed canonical source or semantic YAML context requires a new mapping/recheck,
+not editing stored hashes.
 
 ## Scenes
 
@@ -154,10 +153,8 @@ Never invent values just to migrate a file.
 ## Reading, review, and downstream use
 
 `inspect` reports input metadata and the current map hash without writing.
-`show --start-uid ... --end-uid ... [--view auto|draft|polished]` prints readable
-source windows. If a collapsed snip crosses a requested window, it displays
-polished text for that window instead of misleadingly assigning the entire snip
-to one scene. `validate` checks the default map or an explicit `--map PATH`.
+`show --start-uid ... --end-uid ...` prints polished-source windows, expanded to
+whole turns and UIDs. `validate` checks the default map or an explicit `--map PATH`.
 `preview` leads with any AI-generated concerns and their evidence, then YAML
 calendar context, map-review confidence/status, and the compact scene table. It
 prints to stdout and persists no review document. The user-facing handoff follows

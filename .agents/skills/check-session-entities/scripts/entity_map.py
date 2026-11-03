@@ -117,7 +117,6 @@ def load_narrative(session_yaml, vault_root):
             'positions': positions, 'lines': lines, 'inputs': inputs,
             'fingerprints': {manifest.relative_to(root).as_posix(): sources.sha(raw_yaml),
                              source.relative_to(root).as_posix(): sources.sha(raw)},
-            'draft': sources.safe(root, f'cleaned/{stem}-interactions-draft.md'),
             'mapPath': sources.safe(root, f'cleaned/{stem}-scene-map.json')}
 
 
@@ -137,7 +136,7 @@ def source_bounds(bundle, value, label):
 
 def window(bundle, start_uid, end_uid):
     if 'narrativeUnits' not in bundle:
-        return sources.window(bundle, start_uid, end_uid, 'polished')
+        return sources.window(bundle, start_uid, end_uid)
     ref = {'kind': 'narrative', 'sourceId': 'preparedSourcePath',
            'startUid': start_uid, 'endUid': end_uid}
     start, end = source_bounds(bundle, ref, 'reading window')
@@ -273,7 +272,7 @@ def save(bundle, proposal, expected=None):
         sources.check_inputs(bundle)
         path = sources.safe(bundle['root'], bundle['entityPath'].relative_to(bundle['root']))
         protected = {sources.safe(bundle['root'], p) for p in bundle['fingerprints']}
-        protected.update((bundle['draft'], bundle['mapPath']))
+        protected.add(bundle['mapPath'])
         require(path not in protected, 'Entity output aliases an input')
         if path.exists():
             require(path.is_file() and path.stat().st_nlink == 1, 'Entity map must be regular, not a hard link')

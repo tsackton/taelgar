@@ -7,7 +7,8 @@ from .storage import safe, sha, open_no_follow
 from .units import parse_units
 
 SOURCE_ID = 'transcriptProcessing.artifacts.polishedMarkdown'
-META = '%% interactions-draft: '
+# Reject a former derivative accidentally registered as original polished speech.
+DERIVATIVE_MARKER = '%% interactions-draft: '
 SPAN = re.compile(r'^%% ([^\n%]+) %%\n', re.M)
 PART = re.compile(r'(u\d{4,}):(\d+)-(\d+)')
 
@@ -90,7 +91,7 @@ def load(session_yaml, *, allow_unknown_dates=False, allow_source_changes=False)
     require(allow_source_changes or not artifact.get('sha256') or sha(source_bytes) == artifact['sha256'], 'Polished transcript differs from its YAML fingerprint')
     header, turns = parse_polished(source_bytes.decode('utf-8'))
     mapped = coverage(turns)
-    require(META not in header, 'Input is already a derivative')
+    require(DERIVATIVE_MARKER not in header, 'Input is already a derivative')
     for turn in turns:
         require(re.match(r'[^\n:]+: ', turn['body']) is not None, 'Expected a speaker-labelled polished turn')
         require(not re.search(r'^%%', turn['body'], re.M), 'Unsupported or malformed comment in polished turn; inspect without altering source')
@@ -104,9 +105,6 @@ def load(session_yaml, *, allow_unknown_dates=False, allow_source_changes=False)
         units = parse_units(raw.decode('utf-8'))
         require(mapped == [(u['uid'], 0, len(u['text'])) for u in units], 'Polished mapping does not completely cover cleaned UIDs')
         fingerprints[cleaned['path']] = sha(raw)
-    stem = manifest.name.removesuffix('-session.yaml')
-    draft = safe(root, f'cleaned/{stem}-interactions-draft.md')
-    require(draft not in (manifest, source), 'Draft aliases an input')
-    return {'root': root, 'manifest': manifest, 'data': data, 'source': source, 'draft': draft,
+    return {'root': root, 'manifest': manifest, 'data': data, 'source': source,
             'header': header, 'turns': turns, 'fingerprints': fingerprints, 'coverage': mapped,
             'sourceSha256': sha(source_bytes)}

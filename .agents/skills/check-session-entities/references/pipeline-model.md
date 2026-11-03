@@ -15,8 +15,8 @@ current entity map + selected focal entities + original polished speech
     → readable entity passages, with an optional scene map for navigation
 ```
 
-Scene and entity mapping run independently. Neither requires beats, recaps,
-or a reduction draft. YAML owns campaign/session metadata, dates, PC roles,
+Scene and entity mapping run independently. Neither requires beats or recaps.
+YAML owns campaign/session metadata, dates, PC roles,
 and source registration; do not create another manifest or participant list.
 
 | Artifact | Contract | Ownership |

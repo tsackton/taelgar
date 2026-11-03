@@ -2,7 +2,7 @@
 
 Output: `cleaned/<stem>-entity-map.json`. Session metadata and source paths stay in
 YAML. The helper supplies `schemaVersion: 4`, `sessionYaml`, and `inputs`.
-The polished transcript is sufficient; no scene map or reduction draft is required.
+The polished transcript is sufficient; no scene map is required.
 
 Narrative-only sessions instead use the YAML `preparedSourcePath` UID source.
 Their occurrence references use `kind: narrative`, `sourceId: preparedSourcePath`,
@@ -134,8 +134,8 @@ this is acknowledgement, not semantic review. A newer source or map revision
 requires fresh inspection and confirmation. Invalid UIDs/boundaries still fail.
 The source files and YAML remain unchanged. Ordinary reads/validation and agent
 saves cannot silently accept changed source fingerprints.
-Scene-map creation, revision, or deletion and changes to a reduction draft do not
-stale evidence pointing to original polished speech. New ordinary runs persist only the map; revisions with an existing entities-review
+Scene-map creation, revision, or deletion does not stale evidence pointing to
+original polished speech. New ordinary runs persist only the map; revisions with an existing entities-review
 JSON also append agent regeneration history. Human edits and comments use the
 review helper and durable sidecar. Previews and source windows go to stdout.
 
