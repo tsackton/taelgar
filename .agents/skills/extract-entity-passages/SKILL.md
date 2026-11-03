@@ -17,7 +17,8 @@ Resolve the selected session YAML and its registered
 and source registration. The source reader in
 `../prepare-interaction-transcript/scripts/interaction_draft.py`,
 `load(session_yaml, for_draft=False)`, checks source integrity and reads turns
-without writing. It requires Python 3.9+ and PyYAML, as documented in that skill.
+without writing. This retained implementation requires Python 3.9+ and PyYAML;
+its former draft-authoring skill is retired.
 Do not initialize a reduction draft to extract passages. Recaps, beat narratives,
 vault biographies, and reduction labels are not substitutes for source speech.
 

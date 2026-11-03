@@ -2,7 +2,7 @@
 
 Last reviewed: **2026-11-02**
 
-This guide covers the 24 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 22 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -26,12 +26,11 @@ Bundle creation belongs solely to **prepare-session-source**, which stops at a r
 ### Individual session stages
 
 These stages work from YAML-registered polished transcripts. Scene and entity
-mapping run independently; a reduction draft is optional for scene reading.
+mapping run independently.
 Entity mapping also supports registered prepared narratives for narrative-only sessions.
 
 | Skill | What it does | Example use case |
 | --- | --- | --- |
-| [prepare-interaction-transcript](.agents/skills/prepare-interaction-transcript/SKILL.md) | Makes a conservative smaller reading view, preserving speech/lore and all UID spans while replacing routine mechanics/chatter with restorable snips. Writes only the derivative draft. | “Prepare an interactions draft from Dunmar 10's polished transcript.” |
 | [map-transcript-scenes](.agents/skills/map-transcript-scenes/SKILL.md) | Maps continuous stays at meaningful sites and travel routes, with separate start/end dates and narrative times. Uses the shared confidence/status review structure; an optional issues block surfaces AI concerns for review only. | “Map Dunmar 49's places and times, treating each tower visit and continuous route as one span.” |
 | [check-session-entities](.agents/skills/check-session-entities/SKILL.md) | Checks NPCs, divine beings, significant items, and organizations from polished speech or a registered prepared narrative. Entity mapping preserves unknown session dates without requiring invented dates. Vault-note edits do not stale processing; changed transcript/session SHAs require explicit human confirmation before continuing. Organizations must be persistent groups with their own identities; transient expeditions and gatherings are excluded. Settlements remain place references; shared residence or a liaison does not establish a separate organization. Borderline vessels used as encounter settings need a meaningful identity beyond that appearance. Magic items and specific mystery clues have lower inclusion thresholds, while uncertainty and session-relative importance remain explicit. Routine PC magic-item use is excluded, including noncombat use and lending an item for its standard powers. Distinguishes companions with ongoing identities from routine character abilities. Excludes unclear unnamed people mentioned only incidentally in secondhand accounts and generic casualties without meaningful individual identities; direct presence alone does not qualify them. Confidence estimates whether the complete proposed decision is correct, calibrated against human feedback; weak borderline inclusion decisions receive low confidence. Records a single short confidence explanation for new/revised medium or low decisions, with optional explanations for high confidence. Supports requested calibration review of every medium/low-confidence decision plus four randomly sampled high-confidence decisions per session, including exclusions; unsampled entries retain automated review status. Uses existing same-session and earlier same-campaign entity maps for context without rereading earlier transcripts. Links vault identities and flags later identifications while preserving session labels. Reads durable entities-review JSON, preserves human changes/reasons and comments, and supports “recalibrate skill based on feedback” and “resolve feedback with my help”. Its v4 map requires session-relative importance: star, supporting, or cameo, with no star quota. Extensive historical lore alone does not make a minimally involved character supporting. Calibrates stars against supporting encounter enemies; a climactic fight alone does not make its opponent a star. Flags items actually examined in the Mirror of the Past. | “Map Mawar's entities one episode at a time, using earlier maps for context,” or “Check this session's entities and importance without a scene map.” |
 | [extract-entity-passages](.agents/skills/extract-entity-passages/SKILL.md) | Requires a current entity map with assessed importance and selected focal entities. Extracts verbatim interactions with marked cuts and preserves continuous narration. Item use/acquisition is minimal; original item lore stays complete and Mirror of the Past examinations are flagged. Other context is cut tighter for supporting entities and cameos. Uses an optional scene map and small selected batches for calibration. | “Using the entity map, extract Vola's interactions from Dunmar 10 with minimal setup and no rewrites,” or “Map these sessions first so we can select focal entities for a small trial.” |
@@ -45,13 +44,7 @@ separate readable derivative requiring an entity map with importance and selecte
 are optional. Final interaction generation remains unfinished. Obsidian review saves edits and
 feedback directly; agents resolve feedback explicitly through guarded helpers.
 
-### Legacy recap excerpts
-
-The beat/recap generation skills have been retired. Existing recaps and beat facts remain available to their current consumers. Use the excerpt workflow below to maintain recap-linked transcripts and highlights from a finalized full transcript; it does not regenerate recaps.
-
-| Skill | What it does | Example use case |
-| --- | --- | --- |
-| [transcript-excerpts](.agents/skills/transcript-excerpts/SKILL.md) | Copies recap excerpts from the finalized polished transcript, preserving corrected speakers and source spans, and helps select quotes/audio highlights. Reruns preserve existing recap selections; no second polishing pass. | “Add transcript excerpts and highlight candidates for this recap, keeping my existing selections.” |
+Existing recaps, beat facts, recap excerpts, and highlight selections remain available to their current consumers. Their generation skills are retired. Transcript corrections still flag potentially stale derivatives for human inspection.
 
 ## Reviewing and completing vault notes
 

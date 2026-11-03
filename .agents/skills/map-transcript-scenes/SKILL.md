@@ -5,8 +5,8 @@ description: Map where and when a session takes place from its YAML-registered p
 
 # Map Transcript Scenes
 
-Use after `process-transcript`, optionally with a `prepare-interaction-transcript`
-draft as a reading view. This stage creates a geographic and temporal index and
+Use after `process-transcript`. An existing validated legacy reduction draft may
+still serve as a reading view; its authoring skill is retired. This stage creates a geographic and temporal index and
 checks the session YAML's dates. It does not extract entities, encounters,
 interactions, quotes, beats, or recaps. Entity checking runs independently.
 

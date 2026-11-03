@@ -97,8 +97,8 @@ derivatives that may need separate review, including recap excerpts and highligh
 candidate files under `cleaned/beat-transcripts/`. Report these as potentially
 stale after a correction, including a speaker-only or display-label correction.
 The list is conservative: it does not assert every listed passage changed.
-Do not regenerate excerpts or alter selected highlights automatically; use
-[transcript-excerpts](../beat-transcript-polisher/SKILL.md) for an authorized refresh.
+The excerpt-generation skill is retired. Report potentially stale excerpts for
+human inspection; do not regenerate them or alter selected highlights automatically.
 
 If a write or finalization is interrupted, run `HELPER --bundle BUNDLE recover`
 with Python and `-B`. This uses shared recovery and retires only committed correction
