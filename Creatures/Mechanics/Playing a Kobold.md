@@ -8,7 +8,7 @@ dm_notes: none
 POV: modern
 ---
 # Playing a Kobold
-*See more: [[Kobolds]]*
+*See also: [[Kobolds]]*
 D&D Beyond Links: [Kobold](https://www.dndbeyond.com/species/1026395-kobold) or  [Dragonborn](https://www.dndbeyond.com/species/1751435-dragonborn). 
 
 Kobolds are a draconic people, often living on the margins of other species' realms. While some kobolds do survive by theft or servitude, many kobold communities forge their own unique path in the world. Kobolds can be found everywhere: living under the protection of a powerful dragon, making homes in a hidden warren or abandoned mine, building independent communities deep in the mountains far from others. 
@@ -43,7 +43,7 @@ There is no single naming tradition shared by all kobolds, and kobolds do not sp
 
 ## Kobold Traits
 
-Choose one of the following sets of species traits:  [Kobold](https://www.dndbeyond.com/species/1026395-kobold) or  [Dragonborn](https://www.dndbeyond.com/species/1751435-dragonborn). 
+Choose one of the following sets of species traits: [Kobold](https://www.dndbeyond.com/species/1026395-kobold) or [Dragonborn](https://www.dndbeyond.com/species/1751435-dragonborn). Use the creature type, size, speed, age, and languages described under Basic Traits above in place of the published defaults. 
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern character creation guidance; no narrower campaign date is needed for the published traits.

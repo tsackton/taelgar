@@ -8,14 +8,15 @@ dm_notes: none
 POV: modern
 ---
 # Playing a Stoneborn
-*See more: [[Stoneborn]], [[Sentinel Range|Indalas]]*
-D&D Beyond Link: 
+*See also: [[Stoneborn]], [[Sentinel Range|Indalas]]*
+D&D Beyond Link: [Stoneborn](https://www.dndbeyond.com/species/2237365-stoneborn)
 
-[[Stoneborn]] are a reclusive species, tending to live in isolated, close-knit communities in extreme environments, especially high in the mountains. Often settling in inhospitable environments, rumors say that stoneborn rely on the hidden magic of [[Entamba]], their creator god, to thrive in places others would starve. Though few outsiders have seen their communal villages, Stoneborn are sometimes encountered in the settlements of humans, dwarves, and other species of Taelgar. These travelers are often master artisans, deeply skilled in their trades, and it is often said that individual stoneborn spend decades, or even a century, honing their craft. 
+[[Stoneborn]] are a reclusive species, tending to live in isolated, close-knit communities in extreme environments, especially high in the mountains. Often settling in inhospitable environments, rumors say that stoneborn rely on the hidden magic of [[Entamba]], their creator god, to thrive in places others would starve. Though few outsiders have seen their communal villages, stoneborn are sometimes encountered in the settlements of humans, dwarves, and other species of Taelgar. These travelers are often master artisans, deeply skilled in their trades, and it is often said that individual stoneborn spend decades, or even a century, honing their craft. 
 
 Stoneborn appear to be humanoids shaped of stone, and have appearances as diverse as the varied colors and textures of stone in the world. Stoneborn are born from stone and gradually return to it as they age. 
 
 ---
+
 ## Creating Your Stoneborn Character
 
 When you create your stoneborn character, consider why you left your community. Many stoneborn villages share an ethos of communal decision-making and consensus-building that creates extremely close-knit communities. Did you leave your home on a personal mission? A mission for your community? Or maybe a tragedy forced you to leave, or a personal mistake drove you into exile.
@@ -41,17 +42,18 @@ To choose the name for your stoneborn character, you might consider one of the b
 **Use Names:** Ironforger, Stonebreaker, Stonecarver, Quickblade, Strongaxe, Mindshaper, Loremaster, Farseer, Longstrider, Bloodbasher, Fistmaster, Steelbender, Quartzminer, Heartsinger.
 
 ---
+
 ## Basic Traits
 
-**Creature Type**: Humanoid
-**Size**: Stoneborn are between 6 and 8 feet tall and weigh between 300 and 500 pounds. Your size is Medium.
-**Speed**: 30 feet
-**Age**: Stoneborn reach physical maturity in their late 20s and usually settle into fully adult roles in their 30s. From around 150, many gradually withdraw from daily responsibilities while remaining valued advisors. Their metabolism and need for food diminish as their periods of stillness lengthen; an elder of 250 might bestir themselves only once a week. Some remain active much longer through dedication to a particular task or purpose, but most gradually return to stone.
-**Languages**: You may select four [[Languages]] during character creation, which likely include Common and Stoneborn. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
+**Creature Type:** Humanoid  
+**Size:** Stoneborn are between 6 and 8 feet tall and weigh between 300 and 500 pounds. Your size is Medium.  
+**Speed:** 30 feet  
+**Age:** Stoneborn reach physical maturity in their late 20s and usually settle into fully adult roles in their 30s. From around 150, many gradually withdraw from daily responsibilities while remaining valued advisors. Their metabolism and need for food diminish as their periods of stillness lengthen; an elder of 250 might bestir themselves only once a week. Some remain active much longer through dedication to a particular task or purpose, but most gradually return to stone.  
+**Languages:** You may select four [[Languages]] during character creation, which likely include Common and Stoneborn. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Stoneborn Traits
 
-As a Stoneborn, you have these special traits.
+As a stoneborn, you have these special traits.
 
 %%^Campaign:none%%
 
@@ -64,17 +66,21 @@ Soul of the mountain options might need balancing against each other, and could 
 
 %%^End%%
 
-#### Powerful Build
+### Powerful Build
+
 You have Advantage on any ability check you make to end the [Grappled](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition. You also count as one size larger when determining your carrying capacity.
 
-#### Entamba's Resilience 
+### Entamba's Resilience
+
 If you fail a Strength, Constitution, Wisdom, or Charisma saving throw, you may call on the resilience of Entamba and roll 1d6, adding the number on the die to the saving throw. If this turns a failure into a success, you may not use this feature again until you finish a Long Rest. 
 
-#### Body of Stone
-You only require 1/4 lb of food per day to sustain you, and you have advantage on saving throws to avoid Exhaustion from Malnutrition. You are immune to environmental effects caused by high altitude or extreme cold. 
+### Body of Stone
 
-#### Soul of the Mountain
-As a Stoneborn, you are connected to [[Entamba]], the soul of the mountain. Choose one of the following benefits to reflect this connection. You can use your chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. 
+You only require 1/4 lb of food per day to sustain you, and you have Advantage on saving throws to avoid Exhaustion from Malnutrition. You are immune to environmental effects caused by high altitude or extreme cold. 
+
+### Soul of the Mountain
+
+As a stoneborn, you are connected to [[Entamba]], the soul of the mountain. Choose one of the following benefits to reflect this connection. You can use your chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. 
 
 - **Glacier's Strike**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
 - **Avalanche's Blow**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.

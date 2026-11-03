@@ -25,7 +25,7 @@ on the other hand, if skin color and other aspects of human appearance are suppo
 %%
 
 ## Language and Naming
-_See more: [[Playing a Human#Human Names|Human Names]], [[Languages]]_
+_See also: [[Playing a Human#Human Names|Human Names]], [[Languages]]_
 
 Humans speak a [[Languages|diversity of languages]], arising from the species’ history of migration and cultural change. Though the original humans on [[Hkar]] spoke one common tongue, over the millennia since the first migrations, human languages have evolved and changed. Drankorian and Chardonian scholars describe three major language families: the Northros languages, spoken by the earliest migrants from Hkar, and represented by Deno'qai and Old Zimkovan, among others, in the modern day; the Eastros languages, spoken by the mariner culture that left Hkar before the Downfall and settled the Green Sea, and represented by Urskan, Skaegish, and Tollish, among others, in the modern day; and the Drankorian language family, spoken by the refugees that fled the Downfall and settled Drankor, and represented by Chardonian and Cymean, among others, in the modern day. Other languages, such as Dunmari, do not clearly fit into one of the major language families. 
 
@@ -93,12 +93,11 @@ In the modern day, humanity follows diverse religious traditions descended from 
 
 ## Historical Perspective
 
-For much of the early history of humanity, humans lived largely on [[Hkar]]. The [[The Downfall|Downfall]] ended humanity’s long history on [[Hkar]], destroying its ancestral homeland and reshaping much of Taelgar. Refugees from Hkar founded [[Drankor]], which grew into an empire stretching from the [[Endless Ocean]] to the [[Western Green Sea]]. For roughly a thousand years, its armies, magical institutions, and imperial government shaped the lives of many human peoples. Until, a thousand years after its founding, the Drankorian Empire fell as the [[First Plague]] devastated the imperial heartland. 
+For much of the early history of humanity, humans lived largely on [[Hkar]]. The [[The Downfall|Downfall]] ended humanity’s long history on [[Hkar]], destroying its ancestral homeland and reshaping much of Taelgar. Refugees from Hkar founded [[Drankor]], which grew into an empire stretching from the [[Endless Ocean]] to the [[Western Green Sea]]. For roughly a thousand years, its armies, magical institutions, and imperial government shaped the lives of many human peoples. A thousand years after its founding, the Drankorian Empire fell as the [[First Plague]] devastated the imperial heartland. 
 
 Out of this destruction, former provinces became independent realms and the world changed and grew. Centuries later, the [[Great War]] united human and nonhuman realms against [[Cha'mutte]], whose armies threatened the gods themselves. His defeat in DR 1545 ended the war, but left kingdoms destroyed, populations scattered, and entire landscapes transformed. The [[Plaguelands]] consumed much of the former [[Istabor Alliance]], while upheavals in Dunmar altered the land and climate. For many years after the fall of Cha'mutte, wars against hobgoblins and others shaped the histories of human realms.
 
 Now, the world is a place shaped by these catastrophes, and by human resilience and adaptation in the face of them. 
-
 
 %%^Campaign:none%%
 ## Details for DMs

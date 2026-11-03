@@ -27,6 +27,11 @@ Orcs are robust and imposing, often standing over six feet tall, with tusks prot
 
 Orcs mature much faster than humans, reaching adulthood at about ten years of age. Their natural lifespan is similar to that of humans, but most die in battle long before old age. Despite high birth rates, the constant warfare between orc bands usually keeps their populations small.
 
+## Naming
+_See also: [[Playing a Free Orc#Free Orc Names|Free Orc Names]]_
+
+Orcs often use a single given name. Those raised among other peoples may follow the naming traditions of the community that raised them.
+
 ## Warbands and Hordes
 
 > [!image|right standard]

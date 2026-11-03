@@ -20,8 +20,9 @@ The whistle of the wind in the sails, on a ship crashing through the waves far f
 ## Appearance
 
 Halflings are small and sturdy, usually no more than 3 to 3½ feet tall, with a tendency toward a healthy stoutness and curly hair. Otherwise, they are quite variable in appearance, with diverse complexions, though with a strong tendency for bright eyes, usually green, brown, or hazel. Halflings favor practical garb, and often prefer travel‑ready coats and trousers built for long walks to more elaborate gear, though many cannot resist a few flashes of color and style. A halfling traveler, in muted traveler's clothes, with a brightly colored cloak or a well-tailored hat is a common sight. 
+
 ## Language and Naming
-_See more: [[Playing a Halfling#Halfling Names|Halfling Names]]_
+_See also: [[Playing a Halfling#Halfling Names|Halfling Names]]_
 
 Constant travel leaves most halflings comfortable speaking in many tongues, though songs and stories are usually spoken or sung in the Halfling language, which is rarely taught to outsiders. Uniquely, halflings commonly speak using silent, mind‑to‑mind speech, especially to each other. Caravans and crews often confer in silence before answering difficult questions, and private matters are rarely spoken aloud. For dealings with others, halflings usually speak one or more of the various trade pidgins popular across the world. Some scholars even claim these languages were invented by, or at least popularized by, early halfling traders and sailors.
 
@@ -36,20 +37,21 @@ Some debate about the role of halflings in inventing or popularizing trade tongu
 ## Lifecycle
 
 Halflings reach maturity in their early 20s and commonly live a little past 100, though a lucky few live longer. Families are broadly extended and communitarian: caravans and ship crews are often kin companies first and businesses second, with apprentices, in‑laws, and the occasional foundling or wanderer folded into the community.
+
 ## Settlements and Homelands
 
 Halflings are wanderers, claiming no homeland. Those that settle typically do so among other species. Halfling communities can be found in dwarven cities high in the mountains, human farming villages, bustling ports, cosmopolitan cities, and even the occasional lizardfolk river-town. Lively harbor taverns, bustling crossroads inns, and market‑side yards run by halfling families are commonplace in many parts of the world, for when halflings do settle, they tend to cluster where movement concentrates: at river landings, ports, crossroads, tollgates, and market environs. In many places, halfling‑kept inns act as wayhouses, mail drops, price boards, and hubs of halfling community, providing a homely welcome, information, and gossip to travelers, while also ensuring that even settled halflings remain threaded into the wider network of travel, trade, and kin.
 
-Most halflings, however, simply never settle down. Whether they sail the Green Sea, traveling from port to port, or wander the roads of the Chardonian Empire, or even make great continent spanning journeys over years of travel, small communities of halflings can be found moving from place to place, rarely staying more than a season or year. Welcomed wherever they go, but driven by wanderlust to avoid putting down roots, these communities trade stories and goods for company, food, and drink. 
+Most halflings, however, simply never settle down. Whether they sail the Green Sea, traveling from port to port, or wander the roads of the Chardonian Empire, or even make great continent-spanning journeys over years of travel, small communities of halflings can be found moving from place to place, rarely staying more than a season or year. Welcomed wherever they go, but driven by wanderlust to avoid putting down roots, these communities trade stories and goods for company, food, and drink. 
 
-While it is not uncommon to see lone halflings, or small groups, on the road to somewhere, many halflings travel in larger communities that combine a family business and a mobile village. While these caravans and ships are usually owned by a specific clan, all who travel together are treated as family, and share equally in the profits and loss of trade, after the needs of the group have been taken care of. 
+While it is not uncommon to see lone halflings, or small groups, on the road to somewhere, many halflings travel in larger communities that combine a family business and a mobile village. While these caravans and ships are usually owned by a specific clan, all who travel together are treated as family, and share equally in the profits and losses of trade, after the needs of the group have been taken care of. 
 
 ## Cultural Traits
 
 Hospitality, memory, and fair dealing define the public face of halflings to the world. Travelers speak of halfling feasts and long evenings of song; merchants learn that debts of kindness may be repaid at surprising moments, and that word of treachery travels fast. Discipline aboard ship and loyalty within the company sit alongside an easy warmth with strangers who come in peace. Memory‑debts are honored [[Story About Halfling Merchants|even across generations]]; a favor owed by a great‑grandparent may be repaid in coin, bargain, or feast when a caravan next passes through.
 
 ### Religion
-_See more: [[Halfling Religious Practice]]_
+_See also: [[Halfling Religious Practice]]_
 
 Most halflings honor their firstborn creator gods, who they call the [[First Ones]]—[[Nwana]] (the Stranger and Child), [[Obito]] (the Music‑Maker and Merchant), and [[Jemghari]] (the Storyteller and Wanderer)—through songs, toasts, and shared remembrance rather than temples. Shrines are often places of good memory: a favored overlook, a quiet grove off the trade road, the hearth of a well‑kept inn. History‑bearers and story-keepers serve as the informal clergy of halfling communities, bearing and retelling the memories that bind kin together, marking beginnings and endings with prayers to remember well. In their telling, certain events, repeatedly retold, become layered memories, recalled not only as they occurred but as they were later narrated. Nonetheless, for many halflings, simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators.
 
@@ -69,7 +71,10 @@ Halfling music is often improvisational, extemporized over stable patterns, refl
 
 Many halfling songs are also practical, and sea shanties are common on halfling ships. These are two popular songs from the western Green Sea:
 
-The Green Sea Calls: ![[green-sea-calls.mp3]]
+The Green Sea Calls:
+
+![[green-sea-calls.mp3]]
+
 The Dyes of Tollen:
 
 ![[dyes-of-tollen.mp3]]

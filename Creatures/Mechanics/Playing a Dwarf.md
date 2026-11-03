@@ -8,7 +8,7 @@ dm_notes: none
 POV: modern
 ---
 # Playing a Dwarf
-*See more: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
+*See also: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
 D&D Beyond Link: [Dwarf](https://www.dndbeyond.com/species/1763565-dwarf)
 
 [[Dwarves]] make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel|Bahrâzel]]. Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are often seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 
@@ -16,6 +16,7 @@ D&D Beyond Link: [Dwarf](https://www.dndbeyond.com/species/1763565-dwarf)
 Dwarven culture and society are shaped by ties of kinship and clan, and by the mystical bonds of their thuhr, a uniquely dwarven combination of guild, mentorship organization, secret society, and found family that creates ties between clans. Dwarves, no matter where they live, have a mystical connection to the Bahrâzel that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrâzel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior.
 
 ---
+
 ## Creating Your Dwarf Character
 
 To create your dwarf character, consider your relationship with your thuhr and the Bahrâzel. Some dwarves have a deep and abiding connection to their thuhr, to the extent that it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training, but faded in relevance later in life; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
@@ -41,13 +42,14 @@ To choose a name for your dwarven character, you might consider using one of the
 **Clan Names:** Battlehammer, Boulderlock, Brawnanvil, Cragfire, Deepmine, Fireforge, Frostbeard, Goldborn, Hardcrown, Highkeep, Ironfist, Redbeard, Rockhammer, Sparkhorn, Stronghelm, Stoneaxe
 
 ---
+
 ## Basic Traits
 
-**Creature Type**: Humanoid
-**Size**: Your size is Medium.
-**Speed**: 30 feet
-**Age**: Dwarves typically reach physical maturity in their 20s, but are not considered full adults until they reach their age of majority in their 30s and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, occasionally reaching 300 years.
-**Languages**: You may select four [[languages]] during character creation, which should usually include Dwarvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
+**Creature Type:** Humanoid  
+**Size:** Your size is Medium.  
+**Speed:** 30 feet  
+**Age:** Dwarves typically reach physical maturity in their 20s, but are not considered full adults until they reach their age of majority in their 30s and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, occasionally reaching 300 years.  
+**Languages:** You may select four [[languages]] during character creation, which should usually include Dwarvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Dwarf Traits
 
@@ -63,18 +65,24 @@ Bahrazel's blessing aiming to be roughly 1/2 an origin feat (e.g., two cantrips,
 Rune Crafting is slightly weaker than a choice of a 1st level spell, but benefits from scaling casting with prof bonus and ability to give to other people to use. The second feature means focus is on non-Concentration spells to prevent breaking Concentration limits, since you eventually can effectively cast a spell 3x times as once if you give your runes to your allies.
 
 %%^End%%
-#### Darkvision
+### Darkvision
+
 You have Darkvision with a range of 120 feet.
-#### Stonecunning
+
+### Stonecunning
+
 As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-#### Thuhr
+
+### Thuhr
+
 As an adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing your thuhr.
 
 >[!note] Binthuhr Dwarves
->If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Bahrazel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
+>If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Bahrâzel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one Origin feat to reflect your upbringing.
 
-#### Bahrazel's Blessing
-Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 
+### Bahrâzel's Blessing
+
+Your innate connection to the Bahrâzel provides you with a supernatural blessing. Choose one of the following options: 
 - *Tarbaka's Blessing of Craft.* You learn the Mending cantrip. In addition, you have an uncanny ability to understand raw materials and how to shape them. You gain proficiency in two Artisan's Tools of your choice. When you Craft items with your chosen Tools, you require only half the time and raw materials that would normally be required. %% Mending + parts of the Crafter feat, feels flavorful and situationally powerful as a source of income but probably not a major balance concern %%
 - *Azar's Blessing of Resilience.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. %% literally 1/2 of Tough feat, should be fine %%
 - *Oshkir's Blessing of Aid.* You learn the Guidance and Spare the Dying cantrips. %% one great cantrip, one very situational cantrip %%
@@ -83,7 +91,8 @@ Your innate connection to the Bahrazel provides you with a supernatural blessing
 - *Fanrukel's Blessing of Lore.* You learn the Identify spell. You can cast this spell at will, but only as a ritual. If you cast this spell as a ritual, it does not require material components. %% 1st level spell, fairly straightforward %%
 - *Uzdan's Blessing of Leadership.* When you finish a Long Rest, you can inspire bravery in yourself and your allies. Choose a number of creatures up to your Proficiency Bonus. Each target gains a number of Temporary Hit Points equal to twice your Proficiency Bonus. While a character has these Temporary Hit Points, they are immune to the Frightened condition. %% temp hp but a unique rider. does still conflict with other sources of temp hp... %%
 
-#### Dwarven Rune Crafting
+### Dwarven Rune Crafting
+
 As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain innate knowledge of one rune from the list below, which can create a magical effect. When you complete a Long Rest, you can inscribe one item with the rune, which can be used once, after which the rune fades. You can have up to two items inscribed at 5th level, three items at 11th level, and four items at 17th level. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
 
 - Rune of Defense: Sanctuary
@@ -106,12 +115,15 @@ As far as number - eight seems enough but this leaves out from the old dwarf Tru
 %%
 
 #### Fanrukel's Insight
-**Casting Time:** Reaction, which you take when you take the Study action and fail on the d20 Test
+
+**Casting Time:** Reaction, which you take when you take the Study action and fail on the D20 Test  
 **Duration:** Instantaneous
 
 You can reroll the d20, adding your spellcasting ability modifier to the roll in addition to any normal modifiers that apply to the check. If you roll less than 10 on the new roll, treat the roll as a 10. 
+
 #### Stone Sense
-**Casting Time:** 1 Action
+
+**Casting Time:** 1 Action  
 **Duration:** Instantaneous
 
 You extend your senses and gain knowledge of the surrounding area, extending to a range of 1000 feet from you in all directions. Choose two of the following facts; you learn those pieces of information for the area.
@@ -122,15 +134,18 @@ You extend your senses and gain knowledge of the surrounding area, extending to 
 - Whether any tunnels, burrows, or other significant underground excavation is present in the area.
 
 You can alternatively replace one or both of your questions with information of similar scope, at the DM's discretion.
-#### Tarbaka's Flame Ward
-**Casting Time:** 1 Action
-**Duration:** 1 Hour
 
-One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction (trigger: when you take Fire damage) to gain resistance to Fire damage until the start of your next turn. The first time you hit with a melee attack on your next turn, the target takes an extra 1d6 Fire damage. When you use your Reaction in this way, the Flame Ward ends.
+#### Tarbaka's Flame Ward
+
+**Casting Time:** 1 Action  
+**Duration:** 1 hour
+
+One of your appendages becomes immune to Fire damage. While this effect is active, you can use your Reaction (trigger: when you take Fire damage) to gain Resistance to Fire damage until the start of your next turn. The first time you hit with a melee attack on your next turn, the target takes an extra 1d6 Fire damage. When you use your Reaction in this way, the Flame Ward ends.
 
 #### Uzdan's Compelled Truth
-**Casting Time:** 1 Action
-**Duration:** 10 Minutes
+
+**Casting Time:** 1 Action  
+**Duration:** 10 minutes
 
 Choose one creature you can see within 15 feet. The target must make a Charisma saving throw. On a failed save, you know if the target speaks a deliberate lie while the spell is active. You know whether a creature succeeds or fails on this save. An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
 

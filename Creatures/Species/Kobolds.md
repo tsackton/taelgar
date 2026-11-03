@@ -10,14 +10,14 @@ POV: modern
 ---
 # Kobolds
 
-In abandoned mines, concealed hillside warrens, and the shadows of dragon lairs, kobolds make their homes in a world of creatures often larger and stronger than themselves, creatures who often see them as little more than thieves, bandits, or servants. Ingenious builders and clever bargainers, kobold communities often turn to powerful patron for protection; those that eke out an independent life survive through hidden passages, clever contraptions, and guile. Kobold communities accumulate languages, skills, and even religious traditions from the peoples around them, making borrowed things their own. Some find purpose in the service of dragons; others fiercely guard their independence. Behind their varied ways of life lies a shared uncertainty: kobolds have many stories about who made them, but no certain knowledge of their beginnings.
+In abandoned mines, concealed hillside warrens, and the shadows of dragon lairs, kobolds make their homes in a world of creatures often larger and stronger than themselves, creatures who often see them as little more than thieves, bandits, or servants. Ingenious builders and clever bargainers, kobold communities often turn to a powerful patron for protection; those that eke out an independent life survive through hidden passages, clever contraptions, and guile. Kobold communities accumulate languages, skills, and even religious traditions from the peoples around them, making borrowed things their own. Some find purpose in the service of dragons; others fiercely guard their independence. Behind their varied ways of life lies a shared uncertainty: kobolds have many stories about who made them, but no certain knowledge of their beginnings.
 
 ## Appearance
 
-Most kobolds are scaled humanoids with a distinctly draconic appearance. They come in all colors, and sizes. While many are small, often no more than 4 feet tall, some are much bigger, and a rare few have wings. Some communities consider resemblance to dragons to be a source of pride and respect, though this is far from universal. 
+Most kobolds are scaled humanoids with a distinctly draconic appearance. They come in all colors and sizes. While many are small, often no more than 4 feet tall, some are much bigger, and a rare few have wings. Some communities consider resemblance to dragons to be a source of pride and respect, though this is far from universal. 
 
 ## Language and Naming
-_See more: [[Playing a Kobold#Kobold Names|Kobold Names]]_
+_See also: [[Playing a Kobold#Kobold Names|Kobold Names]]_
 
 Kobolds speak the languages of their homes and neighbors. There is no unique kobold tongue shared by all kobolds. Common and Draconic are widespread, with Draconic commonly spoken among communities that serve or worship dragons, although the languages heard in any particular warren reflect its particular history. 
 
@@ -29,13 +29,13 @@ Kobolds hatch from reptilian eggs, and grow very quickly in their first few year
 
 ## Settlements and Homelands
 
-Kobolds communities can be found scattered across the world, though their settlements are usually tucked into overlooked places, such as caves, abandoned mines, or narrow tunnels beneath rough hills. Their tendency to hide can make kobolds seem less common than they really are. 
+Kobold communities can be found scattered across the world, though their settlements are usually tucked into overlooked places, such as caves, abandoned mines, or narrow tunnels beneath rough hills. Their tendency to hide can make kobolds seem less common than they really are. 
 
 Some kobold settlements lie within the domains of dragons or other powerful patrons, whose protection shapes their communities and lives. Independent warrens are more likely to rely on secrecy for protection: their warrens can be intricate places, relying on concealed entrances, traps, and complex escape routes for defense. Individuals and small groups also make homes among other peoples, although the suspicion with which kobolds are sometimes treated may make such settlement difficult.
 
 ## Cultural Traits
 
-Kobolds readily adopt the skills, customs, and beliefs of those around them, whether they live in servitude under a powerful patron or independently in a hidden warren on the edges of a human realm. The diversity of attitudes and believes gives their scattered communities widely differing ways of life.
+Kobolds readily adopt the skills, customs, and beliefs of those around them, whether they live in servitude under a powerful patron or independently in a hidden warren on the edges of a human realm. The diversity of attitudes and beliefs gives their scattered communities widely differing ways of life.
 
 ### Ingenuity and Opportunity
 
@@ -53,7 +53,7 @@ Kobold religious life is shaped by a readiness to find sacred meaning in what th
 
 ## Historical Perspective
 
-Kobolds preserve many accounts of their beginnings. Some tell of ancient dragons who created them as servants, spies, and messengers, giving them a place beside the greatest creatures in the world. Others describe an accidental creation, life emerging from something a dragon cast away. No one story is agreed by all kobolds; indeed, it is often said there are as many stories of kobold origins as their are kobolds. 
+Kobolds preserve many accounts of their beginnings. Some tell of ancient dragons who created them as servants, spies, and messengers, giving them a place beside the greatest creatures in the world. Others describe an accidental creation, life emerging from something a dragon cast away. No one story is agreed by all kobolds; indeed, it is often said there are as many stories of kobold origins as there are kobolds. 
 
 These stories shape how communities understand their lives. Those who believe themselves created for dragons may see service as a sacred inheritance, or claim a kinship that deserves recognition. Those who tell of accidental beginnings may find pride in having survived and made a place for themselves without their creator’s care. For kobolds, the unanswered question of their origin leaves considerable room to decide what their future should be.
 

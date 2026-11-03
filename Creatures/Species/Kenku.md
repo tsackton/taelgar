@@ -10,16 +10,17 @@ dm_notes: none
 POV: modern
 ---
 # Kenku
+
 *(KEHN-koo)*
 
 Kenku, the birdfolk of Taelgar, favor high places and steady winds. Clifftop towns perch above sheltered harbors in the [[Eastern Green Sea]], while bands in the far north fly the summer thermals where the [[Sentinel Range|Sentinels]] meet the plains. Kenku are enigmatic and private, and most kenku settlements are in places unreachable by those who cannot fly. Nonetheless, kenku travelers and wanderers are not an uncommon sight around the Green Sea, and across Taelgar many common folk know of kenku from garbled stories and rumors of the [[Great War]].
 
 ## Appearance
 
-Kenku are humanoid birds with diverse appearances. Many kenku who settled in the far north resemble ravens, hawks, owls, or eagles, with plumage, eyes, and beaks matching their avian kin. But rumors and reports of other kenku settlements across the Green Sea speak of individuals resembling gulls, terns, and songbirds as well. All kenku are feathered, with feathered wings that sprout from their back and support true flight. 
+Kenku are humanoid birds with diverse appearances. Many kenku who settled in the far north resemble ravens, hawks, owls, or eagles, with plumage, eyes, and beaks matching their avian kin. But rumors and reports of other kenku settlements across the Green Sea speak of individuals resembling gulls, terns, and songbirds as well. All kenku are feathered, with feathered wings that sprout from their backs and support true flight. 
 
 ## Language and Naming
-_See more: [[Playing a Kenku#Kenku Names|Kenku Names]]_
+_See also: [[Playing a Kenku#Kenku Names|Kenku Names]]_
 
 Kenku speak their own tongue and trade broadly in Common and Eastros across the Green Sea. They typically take a single name, though various bynames are used when needed to distinguish individuals. Naming traditions vary widely across diverse kenku populations. 
 
@@ -41,7 +42,7 @@ Though individual kenku vary as all people do, the kenku as a species are a recl
 
 ### Aerie Homes
 
-Like the birds they resemble, kenku build settlements that tend to occupy high places, with no roads and a vertical orientation. They frequently take advantage of natural landscapes, so many kenku villages are built on cliffs or mountains, prioritizing defensibility and open vistas over accessibility to outsiders who cannot fly. A typical kenku town might be arrayed in caves and structures carved into the sides of a massive cliff wall, with larger clusters of buildings at high points where houses can group together, or perhaps constructed as series of towers and perches with no interior stairs at all. In some places, such as the Eastern Green Sea, where kenku frequently trade with other species, they may maintain some infrastructure accessible to those without wings, but rarely do kenku settlements sprawl across the landscape and kenku rarely settle in places where they cannot occupy high ground. 
+Like the birds they resemble, kenku build settlements that tend to occupy high places, with no roads and a vertical orientation. They frequently take advantage of natural landscapes, so many kenku villages are built on cliffs or mountains, prioritizing defensibility and open vistas over accessibility to outsiders who cannot fly. A typical kenku town might be arrayed in caves and structures carved into the sides of a massive cliff wall, with larger clusters of buildings at high points where houses can group together, or perhaps constructed as a series of towers and perches with no interior stairs at all. In some places, such as the Eastern Green Sea, where kenku frequently trade with other species, they may maintain some infrastructure accessible to those without wings, but rarely do kenku settlements sprawl across the landscape and kenku rarely settle in places where they cannot occupy high ground. 
 
 ### A Private People
 
@@ -81,5 +82,4 @@ Some people, especially traders on the Green Sea, speak of kenku living in the e
 %%^povNotes:v1%%
 Temporal coverage: broadly modern kenku appearance, settlements, and public reputation; the Great War account is historical backstory and the islanders' earlier history remains explicitly rumored.
 %%^End%%
-
 
