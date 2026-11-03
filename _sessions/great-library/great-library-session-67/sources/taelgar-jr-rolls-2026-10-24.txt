@@ -1,0 +1,329 @@
+Taelgar Jr — Roll log for October 24, 2026
+Source: https://www.dndbeyond.com/games/1119927
+Extracted November 2, 2026; 159 rolls; oldest to newest.
+
+Note: Target date 2026-10-24 is selected using the user-provided date and the page label "9 days ago" observed on 2026-11-02. Exact timestamps were not exposed in the inspected roll markup.
+Note: All 159 contiguous newest entries carry "9 days ago"; the immediately older entry carries "23 days ago" and is excluded.
+Note: Order is oldest to newest, reversing the page DOM order. No duplicate-looking entries were removed.
+Note: Dice formula, breakdown, result flags (+ADV, -DIS, CRIT), and recipient labels preserve the text exposed by expanded rolls. Parentheses are preserved as displayed; omitted dice were not reconstructed.
+Note: An empty recipient field means no recipient label was displayed; it does not establish visibility.
+Note: Contains DM and Self rolls visible to the signed-in account.
+
+001. "Blue" — Initiative (roll): 12
+     1d20 + 2: 10 + 2
+002. Mabist — Initiative (roll): 18 [-DIS]
+     1d20: (18); To: DM
+003. M3G — custom (roll): 6
+     1d8: 6; To: DM
+004. "Blue" — Initiative (roll): 15
+     1d20 + 2: 13 + 2
+005. "Blue" — con (save): 17
+     1d20 + 8: 9 + 8
+006. Mabist — con (save): 13 [-DIS]
+     1d20 + 8: (5) + 8; To: DM
+007. Samso (1DND) — con (save): 21
+     1d20 + 4: 17 + 4
+008. Iron Golem — Poison Breath (damage): 52
+     10d10: 8 + 3 + 5 + 6 + 5 + 6 + 6 + 6 + 4 + 3; To: Self
+009. Iron Golem — wis (save): 14
+     1d20: 14; To: Self
+010. "Blue" — custom (roll): 3
+     1d4: 3
+011. "Blue" — Raulothim's Psychic Lance (damage): 23
+     8d6: 1 + 2 + 2 + 2 + 4 + 3 + 6 + 3
+012. Iron Golem — int (save): 5
+     1d20 - 4: 9 - 4; To: Self
+013. Iron Golem — int (save): 6
+     1d20 - 4: 10 - 4; To: Self
+014. "Blue" — Sorcerous Burst (to hit): 15
+     1d20 + 11: 4 + 11
+015. Dungeon Master — custom (roll): 34
+     6d10: 7 + 5 + 1 + 6 + 7 + 8; To: Self
+016. Mabist — Thirsting Greatsword (to hit): 27 [+ADV]
+     2d20 + 13: (14, 7) + 13; To: DM
+017. Mabist — Thirsting Greatsword (damage): 12
+     2d6 + 8: 2 + 2 + 8; To: DM
+018. M3G — custom (roll): 6
+     1d8 + 1d6: 1 + 5; To: DM
+019. Mabist — Thirsting Greatsword (to hit): 31 [+ADV]
+     2d20 + 13: (1, 18) + 13; To: DM
+020. Mabist — Thirsting Greatsword (damage): 19
+     2d6 + 8: 5 + 6 + 8; To: DM
+021. M3G — custom (roll): 6
+     1d8: 6; To: DM
+022. Mabist — Thirsting Greatsword (to hit): 27 [+ADV]
+     2d20 + 13: (11, 14) + 13; To: DM
+023. Mabist — Thirsting Greatsword (damage): 13
+     2d6 + 8: 3 + 2 + 8; To: DM
+024. M3G — custom (roll): 5
+     1d8: 5; To: DM
+025. Mabist — Tentacle of the Deeps: Attack (to hit): 27 [+ADV]
+     2d20 + 10: (11, 17) + 10; To: DM
+026. Mabist — Tentacle of the Deeps: Attack (damage): 18
+     2d8 + 5: 5 + 8 + 5; To: DM
+027. Mabist — custom (roll): 2
+     1d8: 2; To: DM
+028. Samso (1DND) — custom (roll): 9
+     1d20: 9
+029. Samso (1DND) — custom (roll): 2
+     1d20: 2
+030. Brazen Gorgon — Gore (to hit): 28
+     1d20 + 8: 20 + 8; To: Self
+031. Brazen Gorgon — Gore (damage): 15
+     2d6 + 4: 5 + 6 + 4; To: Self
+032. Brazen Gorgon — Gore (to hit): 11
+     1d20 + 8: 3 + 8; To: Self
+033. Brazen Gorgon — Gore (to hit): 11
+     1d20 + 8: 3 + 8; To: Self
+034. Brazen Gorgon — Gore (to hit): 14
+     1d20 + 8: 6 + 8; To: Self
+035. Brazen Gorgon — Flame Aura (damage): 8
+     3d8: 1 + 5 + 2; To: Self
+036. "Blue" — Sorcerous Burst (to hit): 16
+     1d20 + 11: 5 + 11
+037. "Blue" — Sorcerous Burst (to hit): 21
+     1d20 + 11: 10 + 11
+038. "Blue" — Sorcerous Burst (damage): 14
+     3d8: 1 + 8 + 5
+039. "Blue" — custom (roll): 8
+     1d8: 8
+040. "Blue" — custom (roll): 3
+     1d8: 3
+041. Iron Golem — Bladed Arm (to hit): 16
+     1d20 + 12: 4 + 12; To: Self
+042. Iron Golem — Bladed Arm (to hit): 26
+     1d20 + 12: 14 + 12; To: Self
+043. Iron Golem — Bladed Arm (to hit): 29 [+ADV]
+     2d20 + 12: (17, 3) + 12; To: Self
+044. Iron Golem — Bladed Arm (damage): 24
+     3d8 + 7: 4 + 8 + 5 + 7; To: Self
+045. Iron Golem — Bladed Arm (damage): 22
+     3d8 + 7: 3 + 4 + 8 + 7; To: Self
+046. Dungeon Master — custom (roll): 18
+     6d6: 4 + 1 + 1 + 6 + 4 + 2; To: Self
+047. Dungeon Master — custom (roll): 31
+     6d10: 8 + 5 + 8 + 3 + 4 + 3; To: Self
+048. Mabist — Unarmed Strike (to hit): 13 [-DIS]
+     1d20 + 12: (1) + 12
+049. Mabist — Unarmed Strike (to hit): 20 [-DIS]
+     1d20 + 12: (8) + 12
+050. Mabist — Tentacle of the Deeps: Attack (to hit): 14 [-DIS]
+     1d20 + 10: (4) + 10
+051. Samso (1DND) — custom (roll): 23
+     2d20: 5 + 18
+052. Iron Golem — dex (check): 14
+     1d20 - 1: 15 - 1; To: Self
+053. Mabist — dex (save): 12 [-DIS]
+     1d20: (12)
+054. Brazen Gorgon — Smelting Charge (damage): 15
+     2d8 + 4: 8 + 3 + 4; To: Self
+055. Brazen Gorgon — Smelting Charge (damage): 19
+     3d8: 7 + 5 + 7; To: Self
+056. "Blue" — dex (save): 21
+     1d20 + 3: 18 + 3
+057. "Blue" — dex (save): 21
+     1d20 + 3: 18 + 3
+058. Brazen Gorgon — Flame Aura (damage): 19
+     3d8: 7 + 7 + 5; To: Self
+059. Brazen Gorgon — wis (save): 10
+     1d20 + 2: 8 + 2; To: Self
+060. "Blue" — Chromatic Orb (to hit): 19
+     1d20 + 11: 8 + 11
+061. "Blue" — Chromatic Orb (to hit): 21
+     1d20 + 11: 10 + 11
+062. "Blue" — Sorcerous Burst (damage): 7
+     3d8: 1 + 2 + 4
+063. "Blue" — custom (roll): 42
+     1d100: 42
+064. "Blue" — custom (roll): 44
+     1d100: 44
+065. Iron Golem — Poison Breath (recharge): 6
+     1d6: 6; To: Self
+066. Dungeon Master — custom (roll): 3
+     1d20: 3
+067. Mabist — Thirsting Greatsword (to hit): 21 [-DIS]
+     1d20 + 13: (8) + 13
+068. Mabist — Thirsting Greatsword (damage): 18
+     4d6 + 8: 2 + 5 + 1 + 2 + 8
+069. M3G — custom (roll): 22
+     2d8 + 2d6: 3 + 8 + 6 + 5; To: DM
+070. Mabist — Thirsting Greatsword (to hit): 33 [-DIS]
+     1d20 + 13: (20) + 13
+071. Mabist — Thirsting Greatsword (damage): 25 [CRIT]
+     4d6 + 8: (5, 5, 2, 5) + 8
+072. M3G — custom (roll): 3
+     2d8: 2 + 1; To: DM
+073. Mabist — Thirsting Greatsword (to hit): 16 [-DIS]
+     1d20 + 13: (3) + 13
+074. Mabist — Thirsting Greatsword (to hit): 28 [-DIS]
+     1d20 + 13: (15) + 13
+075. Mabist — Thirsting Greatsword (damage): 23
+     4d6 + 8: 2 + 2 + 5 + 6 + 8
+076. M3G — custom (roll): 5
+     2d8: 2 + 3; To: DM
+077. Brazen Gorgon — Flame Aura (damage): 9
+     3d8: 2 + 1 + 6
+078. Brazen Gorgon — wis (check): 6
+     1d20 + 2: 4 + 2
+079. Mabist — Tentacle of the Deeps: Attack (to hit): 22 [-DIS]
+     2d20 + 10: (12, 12) + 10
+080. Mabist — Sleight of Hand (check): 19 [-DIS]
+     1d20: (19)
+081. M3G — custom (roll): 28
+     3d20: 6 + 8 + 14; To: DM
+082. Mabist — Athletics (check): 15 [-DIS]
+     1d20 + 12: (3) + 12
+083. Mabist — Athletics (check): 32 [-DIS]
+     1d20 + 12: (20) + 12
+084. Mabist — dex (save): 18 [-DIS]
+     1d20: (18)
+085. Mabist — int (check): 6 [-DIS]
+     1d20 - 1: (7) - 1
+086. Mabist — cha (check): 8 [-DIS]
+     1d20 + 5: (3) + 5
+087. Mabist — custom (roll): 14
+     2d10: 7 + 7
+088. Mabist — int (check): 6 [-DIS]
+     1d20 - 1: (7) - 1
+089. Mabist — Perception (check): 4 [-DIS]
+     1d20 - 1: (5) - 1
+090. "Blue" — Perception (check): 26
+     1d20 + 7: 19 + 7
+091. "Blue" — Investigation (check): 3
+     1d20 - 1: 4 - 1
+092. "Blue" — Investigation (check): 9
+     1d20 - 1: 10 - 1
+093. Mabist — custom (roll): 19
+     6d6: 1 + 3 + 5 + 4 + 3 + 3
+094. "Blue" — custom (roll): 38
+     10d6: 2 + 5 + 4 + 4 + 3 + 2 + 5 + 6 + 1 + 6
+095. "Blue" — custom (roll): 16
+     4d6: 1 + 6 + 5 + 4
+096. "Blue" — custom (roll): 9
+     2d6: 4 + 5
+097. "Blue" — custom (roll): 9
+     2d6: 3 + 6
+098. Mabist — custom (roll): 31
+     10d8: 2 + 5 + 3 + 3 + 2 + 1 + 4 + 7 + 2 + 2
+099. Mabist — custom (roll): 42
+     10d8: 3 + 1 + 4 + 4 + 2 + 5 + 5 + 4 + 8 + 6
+100. Samso (1DND) — Hit Dice (heal): 20
+     3d8 + 9: 8 + 1 + 2 + 9
+101. Mabist — custom (roll): 100
+     20d8: 7 + 4 + 8 + 6 + 3 + 8 + 5 + 4 + 7 + 4 + 7 + 3 + 4 + 3 + 5 + 5 + 3 + 3 + 3 + 8
+102. Mabist — custom (roll): 11
+     2d8: 3 + 8
+103. Dungeon Master — custom (roll): 8
+     1d20: 8
+104. Mabist — Initiative (roll): 20 [-DIS]
+     1d20: (20)
+105. M3G — custom (roll): 3
+     1d8: 3; To: DM
+106. "Blue" — Initiative (roll): 3
+     1d20 + 2: 1 + 2
+107. Samso (1DND) — Initiative (roll): 12
+     1d20 + 1: 11 + 1
+108. Dungeon Master — custom (roll): 19
+     2d20: 16 + 3; To: Self
+109. Mabist — Thirsting Greatsword (to hit): 28 [-DIS]
+     1d20 + 13: (15) + 13
+110. Mabist — Thirsting Greatsword (damage): 13
+     2d6 + 8: 3 + 2 + 8
+111. M3G — custom (roll): 11
+     2d8 + 1d6: 1 + 7 + 3
+112. Mabist — Thirsting Greatsword (to hit): 18 [-DIS]
+     1d20 + 11: (7) + 11
+113. Mabist — Thirsting Greatsword (damage): 9
+     2d6 + 6: 1 + 2 + 6
+114. M3G — custom (roll): 7
+     2d8: 2 + 5
+115. Mabist — Thirsting Greatsword (to hit): 23 [-DIS]
+     1d20 + 11: (12) + 11
+116. Mabist — Thirsting Greatsword (damage): 14
+     2d6 + 6: 4 + 4 + 6
+117. M3G — custom (roll): 13
+     2d8: 5 + 8
+118. Air Spark (Hawk Form) C — Wind Sweep (to hit): 25 [+ADV]
+     2d20 + 8: (17, 17) + 8; To: Self
+119. Djinni — Storm Blade (to hit): 17
+     1d20 + 9: 8 + 9; To: Self
+120. Djinni — Storm Blade (to hit): 24
+     1d20 + 9: 15 + 9; To: Self
+121. Djinni — Storm Blade (to hit): 18
+     1d20 + 9: 9 + 9; To: Self
+122. Djinni — Storm Blade (damage): 10
+     2d6 + 5: 1 + 4 + 5; To: Self
+123. Djinni — Storm Blade (damage): 11
+     2d6 + 5: 3 + 3 + 5; To: Self
+124. Djinni — Storm Blade (damage): 5
+     2d6: 3 + 2; To: Self
+125. Djinni — Storm Blade (damage): 12
+     2d6: 6 + 6; To: Self
+126. M3G — custom (roll): 8
+     2d8: 5 + 3
+127. Air Spark (Hawk Form) C — dex (save): 22
+     1d20 + 3: 19 + 3; To: Self
+128. Air Spark (Hawk Form) C — dex (save): 19
+     1d20 + 3: 16 + 3; To: Self
+129. Air Spark (Hawk Form) C — dex (save): 5
+     1d20 + 3: 2 + 3; To: Self
+130. Djinni — dex (save): 9
+     1d20 + 6: 3 + 6; To: Self
+131. "Blue" — Dagger (to hit): 11
+     1d20 + 7: 4 + 7
+132. Mabist — Thirsting Greatsword (to hit): 21 [-DIS]
+     1d20 + 11: (10) + 11
+133. Mabist — Thirsting Greatsword (damage): 9
+     2d6 + 6: 2 + 1 + 6
+134. M3G — custom (roll): 8
+     2d8: 7 + 1
+135. M3G — custom (roll): 6
+     1d6: 6
+136. Air Spark (Hawk Form) C — Wind Sweep (to hit): 16
+     1d20 + 8: 8 + 8; To: Self
+137. Air Spark (Hawk Form) C — Wind Sweep (to hit): 24
+     1d20 + 8: 16 + 8; To: Self
+138. Djinni — Storm Blade (to hit): 19
+     1d20 + 9: 10 + 9; To: Self
+139. Djinni — Storm Blade (damage): 14
+     2d6 + 5: 5 + 4 + 5; To: Self
+140. Djinni — Storm Blade (damage): 3
+     2d6: 1 + 2; To: Self
+141. "Blue" — Chromatic Orb (to hit): 29
+     1d20 + 11: 18 + 11
+142. "Blue" — Chromatic Orb (damage): 20
+     4d8: 7 + 8 + 1 + 4
+143. "Blue" — Sorcerous Burst (to hit): 25
+     1d20 + 11: 14 + 11
+144. "Blue" — custom (roll): 11
+     1d100: 11
+145. "Blue" — custom (roll): 46
+     1d100: 46
+146. "Blue" — Sorcerous Burst (damage): 9
+     3d8: 4 + 4 + 1
+147. Mabist — Thirsting Greatsword (to hit): 13 [-DIS]
+     1d20 + 11: (2) + 11
+148. Mabist — Thirsting Greatsword (to hit): 29 [-DIS]
+     1d20 + 11: (18) + 11
+149. Mabist — Thirsting Greatsword (damage): 14
+     2d6 + 6: 2 + 6 + 6
+150. M3G — custom (roll): 13
+     2d8 + 1d6: 7 + 1 + 5
+151. Mabist — Thirsting Greatsword (to hit): 28 [-DIS]
+     1d20 + 11: (17) + 11
+152. Mabist — Thirsting Greatsword (damage): 17
+     2d6 + 6: 6 + 5 + 6
+153. M3G — custom (roll): 13
+     2d8: 8 + 5
+154. Mabist — Thirsting Greatsword (to hit): 30 [-DIS]
+     1d20 + 11: (19) + 11
+155. Mabist — Thirsting Greatsword (damage): 14
+     2d6 + 6: 2 + 6 + 6
+156. M3G — custom (roll): 9
+     2d8: 5 + 4
+157. Adrik Boulderbeard — str (check): 17
+     1d20 + 4: 13 + 4
+158. Adrik Boulderbeard — custom (roll): 13
+     3d8: 3 + 6 + 4
+159. Adrik Boulderbeard — custom (roll): 15
+     3d8: 7 + 5 + 3
