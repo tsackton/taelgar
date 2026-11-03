@@ -11,18 +11,20 @@ import entity_map as maps
 import entity_review_store as store
 import entity_review_staging as staging
 
-scenes = maps.scenes
+sources = maps.sources
+# Compatibility alias for existing review clients.
+scenes = sources
 require = maps.require
 
 
 def context(request, vault):
     relative = request.get('sessionYaml')
     maps.string(relative, 'sessionYaml')
-    manifest = scenes.safe(vault, relative)
+    manifest = sources.safe(vault, relative)
     bundle = maps.load(manifest, vault)
     # Recover before validation, using only bundle-owned paths.
-    with scenes.lock(bundle['root']):
-        store.current(bundle, scenes)
+    with sources.lock(bundle['root']):
+        store.current(bundle, sources)
     raw = bundle['entityPath'].read_bytes()
     document = json.loads(raw)
     notes = sorted(set(maps.note_refs(document) + request.get('notes', request.get('token', {}).get('notes', []))))
@@ -48,7 +50,7 @@ def session_metadata(bundle):
     if data.get('sourceType', 'transcript') == 'transcript':
         result['transcriptPath'] = bundle['source'].relative_to(bundle['vault']).as_posix()
     try:
-        campaign = staging.campaign_config(bundle, scenes)
+        campaign = staging.campaign_config(bundle, sources)
         if campaign:
             if data.get('sessionNumber') is not None:
                 number = str(data['sessionNumber'])
@@ -56,13 +58,13 @@ def session_metadata(bundle):
                 pattern = campaign.get('notePattern', '').replace('{session_padded}', whole.zfill(2) + dot + fraction).replace('{session}', number)
                 if pattern and campaign.get('campaignRoot'):
                     relative = campaign['campaignRoot'].rstrip('/') + '/' + pattern
-                    note = scenes.safe(bundle['vault'], relative)
+                    note = sources.safe(bundle['vault'], relative)
                     if note.is_file():
                         result['sessionNotePath'] = note.relative_to(bundle['vault']).as_posix()
     except (ValueError, OSError, TypeError, AttributeError) as exc:
         result['metadataWarning'] = 'Session-note link unavailable: ' + str(exc)
     try:
-        result['stagingFolder'] = staging.folder(bundle, scenes)
+        result['stagingFolder'] = staging.folder(bundle, sources)
     except (ValueError, OSError, TypeError, AttributeError) as exc:
         result['stagingUnavailable'] = str(exc)
     return result
@@ -118,13 +120,13 @@ def validate_edit(bundle, document):
     maps.validate(bundle, document)
 
 
-def dispatch(request, vault=scenes.VAULT):
+def dispatch(request, vault=sources.VAULT):
     require(isinstance(request, dict), 'Expected a request object')
     bundle, document = context(request, Path(vault))
     command = request.get('command')
-    with scenes.lock(bundle['root']):
-        state = store.current(bundle, scenes)
-        scenes.check_inputs(bundle)
+    with sources.lock(bundle['root']):
+        state = store.current(bundle, sources)
+        sources.check_inputs(bundle)
         require(json.loads(bundle['entityPath'].read_bytes()) == document, 'Map changed; reload before continuing')
         changes = maps.source_changes(bundle, document)
         if command == 'inspect' and changes:
@@ -133,7 +135,7 @@ def dispatch(request, vault=scenes.VAULT):
         if command == 'confirmSourceChanges':
             require(request.get('token') == token(bundle), 'Inputs or review changed since confirmation; reload and confirm again')
             maps.acknowledge_sources(bundle, document, state)
-            return inspect(bundle, document, store.current(bundle, scenes))
+            return inspect(bundle, document, store.current(bundle, sources))
         require(not changes, 'Transcript/session inputs changed; reload and confirm before continuing')
         if command == 'inspect':
             return inspect(bundle, document, state)
@@ -194,7 +196,7 @@ def dispatch(request, vault=scenes.VAULT):
                 if row.get('kind') != 'item':
                     row.pop('examinedInMirrorOfPast', None)
                 maps.validate(bundle, document)
-                created_note = staging.create(bundle, request.get('name'), scenes, request.get('noteIndex'))
+                created_note = staging.create(bundle, request.get('name'), sources, request.get('noteIndex'))
                 row['note'] = created_note
                 row.pop('candidates', None)
                 bundle['inspectedNotes'].append(created_note)
@@ -236,8 +238,8 @@ def dispatch(request, vault=scenes.VAULT):
         else:
             raise ValueError('Unknown review command')
         try:
-            scenes.check_inputs(bundle)
-            store.commit(bundle, scenes, before, document, state,
+            sources.check_inputs(bundle)
+            store.commit(bundle, sources, before, document, state,
                          'agent' if command == 'resolveFeedback' else 'human', action, key, reason, feedback)
         except (ValueError, OSError) as exc:
             if created_note:
@@ -245,8 +247,8 @@ def dispatch(request, vault=scenes.VAULT):
             raise
     # New input digest excludes notes no longer referenced after a link edit/removal.
     fresh = maps.load(bundle['manifest'], bundle['vault'], maps.note_refs(document))
-    with scenes.lock(fresh['root']):
-        return inspect(fresh, document, store.current(fresh, scenes))
+    with sources.lock(fresh['root']):
+        return inspect(fresh, document, store.current(fresh, sources))
 
 
 def main():

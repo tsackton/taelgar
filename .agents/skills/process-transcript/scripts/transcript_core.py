@@ -4,44 +4,29 @@ from __future__ import annotations
 import sys
 sys.dont_write_bytecode = True
 import base64
-import contextlib
-if sys.platform != 'win32':
-    import fcntl
-import hashlib
 import html
 import json
-import os
 from pathlib import Path
 import re
 import unicodedata
 import uuid
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from taelgar_session.storage import (PipelineError, require, sha, safe,
+                                     open_no_follow, atomic, lock)
+from taelgar_session.units import LINE, MARKER, seconds, parse_units
+
 VERSION = 1
 EDITORIAL_POLICY = 3
 WORK = 'cleaned/transcript-work'
 STATE = WORK + '/state.json'
-LINE = re.compile(r'^(\[(u\d{4,})\s*\|\s*([^|]+)\|\s*([^\]]+)\])(\s+)(.*)$')
-MARKER = re.compile(r'\{\{([^{}\n]+)\}\}')
 KINDS = {'person', 'group', 'place', 'time', 'item', 'action', 'speaker', 'other'}
 CHECKS = {'people', 'groups', 'places', 'time_transitions', 'items', 'actions', 'unmarked_errors', 'second_pass'}
 ANNOTATION = re.compile(r'\[\[[^\n]*?\]\]|\[[^\]\n]+\]')
 
 
-class PipelineError(ValueError):
-    pass
-
-
-def require(condition, message):
-    if not condition:
-        raise PipelineError(message)
-
-
 def encoded(value):
     return (json.dumps(value, ensure_ascii=False, sort_keys=True, indent=2, default=str) + '\n').encode()
-
-
-def sha(value):
-    return hashlib.sha256(value if isinstance(value, bytes) else value.encode()).hexdigest()
 
 
 def fingerprint(value):
@@ -50,117 +35,6 @@ def fingerprint(value):
 
 def read_json(path):
     return json.loads(Path(path).read_text(encoding='utf-8'))
-
-
-def safe(root, relative):
-    root = Path(root).resolve()
-    require(not Path(relative).is_absolute(), f'Managed path must be relative: {relative}')
-    candidate = root / relative
-    resolved = candidate.resolve()
-    require(resolved.is_relative_to(root) and resolved != root, f'Path escapes session bundle: {relative}')
-    for part in [candidate, *candidate.parents]:
-        if part == root:
-            break
-        require(not part.is_symlink(), f'Managed path is a symlink: {relative}')
-    return candidate
-
-
-def open_no_follow(path, flags, mode=0o644):
-    """Open a draft without following reparse points, on either platform."""
-    if sys.platform != 'win32':
-        return os.open(path, flags | os.O_NOFOLLOW, mode)
-    import ctypes
-    from ctypes import wintypes
-    import msvcrt
-    api = ctypes.WinDLL('kernel32', use_last_error=True)
-    api.CreateFileW.argtypes = [wintypes.LPCWSTR, wintypes.DWORD, wintypes.DWORD,
-                               ctypes.c_void_p, wintypes.DWORD, wintypes.DWORD, wintypes.HANDLE]
-    api.CreateFileW.restype = wintypes.HANDLE
-    api.CloseHandle.argtypes = [wintypes.HANDLE]
-    access = 0xC0000000 if flags & os.O_RDWR else 0x40000000
-    # Exclusive handle, CREATE_NEW or OPEN_EXISTING, OPEN_REPARSE_POINT.
-    handle = api.CreateFileW(str(path), access, 0, None, 1 if flags & os.O_EXCL else 3, 0x00200000, None)
-    if handle == wintypes.HANDLE(-1).value:
-        raise ctypes.WinError(ctypes.get_last_error())
-    try:
-        fd = msvcrt.open_osfhandle(handle, (os.O_RDWR if flags & os.O_RDWR else os.O_WRONLY) | os.O_BINARY)
-    except BaseException:
-        api.CloseHandle(handle)
-        raise
-    try:
-        require(not (getattr(os.fstat(fd), 'st_file_attributes', 0) & 0x400), 'Draft must not be a reparse point')
-    except BaseException:
-        os.close(fd)
-        raise
-    return fd
-
-
-def atomic(root, relative, data):
-    path = safe(root, relative)
-    path.parent.mkdir(parents=True, exist_ok=True)
-    temp = path.with_name(path.name + '.' + uuid.uuid4().hex + '.tmp')
-    try:
-        with temp.open('xb') as out:
-            out.write(data)
-            out.flush()
-            os.fsync(out.fileno())
-        os.replace(temp, path)
-    finally:
-        if temp.exists():
-            temp.unlink()
-
-
-@contextlib.contextmanager
-def lock(root):
-    # Windows cannot flock a directory. A kernel mutex gives the same
-    # process-crash release and no-sidecar contract for all session helpers.
-    if sys.platform == 'win32':
-        import ctypes
-        from ctypes import wintypes
-        api = ctypes.WinDLL('kernel32', use_last_error=True)
-        api.CreateMutexW.argtypes = [ctypes.c_void_p, wintypes.BOOL, wintypes.LPCWSTR]
-        api.CreateMutexW.restype = wintypes.HANDLE
-        api.WaitForSingleObject.argtypes = [wintypes.HANDLE, wintypes.DWORD]
-        api.WaitForSingleObject.restype = wintypes.DWORD
-        api.ReleaseMutex.argtypes = [wintypes.HANDLE]
-        api.CloseHandle.argtypes = [wintypes.HANDLE]
-        name = 'Local\\TaelgarSession-' + sha(os.path.normcase(str(Path(root).resolve())))
-        handle = api.CreateMutexW(None, False, name)
-        if not handle:
-            raise ctypes.WinError(ctypes.get_last_error())
-        acquired = False
-        try:
-            result = api.WaitForSingleObject(handle, 0)
-            # WAIT_ABANDONED also grants ownership after a crashed writer.
-            require(result in (0, 0x80), 'Another writer is working in this session bundle.')
-            acquired = True
-            require(name not in _held_windows_locks, 'Another writer is working in this session bundle.')
-            _held_windows_locks.add(name)
-            try:
-                yield
-            finally:
-                _held_windows_locks.remove(name)
-        finally:
-            if acquired:
-                api.ReleaseMutex(handle)
-            api.CloseHandle(handle)
-        return
-    # The bundle directory survives finalization; never delete a lock inode.
-    handle = os.open(root, os.O_RDONLY)
-    try:
-        try:
-            fcntl.flock(handle, fcntl.LOCK_EX | fcntl.LOCK_NB)
-        except BlockingIOError as exc:
-            raise PipelineError('Another writer is working in this session bundle.') from exc
-        try:
-            yield
-        finally:
-            fcntl.flock(handle, fcntl.LOCK_UN)
-    finally:
-        os.close(handle)
-
-
-_held_windows_locks = set()
 
 
 def current_hash(path):
@@ -223,35 +97,6 @@ def commit(root, files, reason, expected=None):
     atomic(root, relative, encoded(tx))
     finish_transaction(root, relative, tx)
     return relative
-
-
-def seconds(value):
-    require(bool(re.fullmatch(r'\d+(?::\d+){0,2}(?:\.\d+)?', value.strip())), f'Invalid time: {value}')
-    parts = [float(x) for x in value.split(':')]
-    require(len(parts) == 1 or parts[-1] < 60, f'Invalid seconds: {value}')
-    require(len(parts) < 3 or parts[1] < 60, f'Invalid minutes: {value}')
-    return sum(x * 60 ** i for i, x in enumerate(reversed(parts)))
-
-
-def parse_units(text):
-    units, seen = [], set()
-    for number, line in enumerate(text.lstrip('\ufeff').splitlines(), 1):
-        if not line.strip():
-            continue
-        match = LINE.fullmatch(line)
-        require(match is not None, f'Invalid UID transcript line {number}')
-        header, uid, timing, speaker, separator, wording = match.groups()
-        require(uid not in seen, f'Duplicate UID: {uid}')
-        seen.add(uid)
-        pair = timing.strip().split('-')
-        require(len(pair) == 2 and seconds(pair[1]) >= seconds(pair[0]), f'Invalid timing: {uid}')
-        remainder = MARKER.sub('', wording)
-        require('{{' not in remainder and '}}' not in remainder, f'Malformed uncertainty marker: {uid}')
-        require(bool(wording.strip()), f'Empty source unit: {uid}')
-        units.append({'uid': uid, 'header': header, 'separator': separator,
-                      'speaker': speaker.strip(), 'timing': timing.strip(), 'text': wording})
-    require(bool(units), 'Transcript is empty')
-    return units
 
 
 def render_units(units):

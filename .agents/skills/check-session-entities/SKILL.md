@@ -471,6 +471,10 @@ material questions; do not require approval of every clear match.
 
 ## Maintenance
 
+Shared source parsing, UID handling, validation, and safe storage live in the
+[session Python library](../../../_scripts/taelgar_session/README.md). Keep workflow
+commands and artifact formats in their owning helpers.
+
 Install [requirements](requirements.txt). Helpers require Python 3.9+; tests use
 Python 3.10+. Run
 `python3 -B -m unittest discover -s .agents/skills/check-session-entities/tests -v`.

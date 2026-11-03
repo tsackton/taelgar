@@ -208,5 +208,9 @@ every scene. Stop before other stages unless requested.
 
 ## Maintenance
 
+Shared source parsing, UID handling, validation, and safe storage live in the
+[session Python library](../../../_scripts/taelgar_session/README.md). Keep workflow
+commands and artifact formats in their owning helpers.
+
 Requires Python 3.9+ and PyYAML; tests use Python 3.10+.
 Run `python3 -B -m unittest discover -s .agents/skills/map-transcript-scenes/tests -v`.

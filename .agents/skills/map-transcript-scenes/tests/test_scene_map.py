@@ -1,5 +1,6 @@
 import copy
 import importlib.util
+import json
 import os
 from pathlib import Path
 import sys
@@ -42,6 +43,22 @@ class SceneMapTests(unittest.TestCase):
             'contextBlocks': [
                 {'kind': 'recap', 'source': m.source('u0001', 'u0001'), 'aiSummary': 'Previous escape, recounted.'},
                 {'kind': 'loreDiscussion', 'source': m.source('u0006', 'u0006'), 'aiSummary': 'Postgame historical clarification.'}]}
+
+    def write_legacy_draft(self, start=None, end=None, label=''):
+        """Synthetic legacy fixture; production no longer authors reduction drafts."""
+        meta = {'version': 4, 'sessionYaml': 'cleaned/demo-session.yaml',
+                'sourceSha256': self.bundle['sourceSha256']}
+        prefix = ('%% interactions-draft: '
+                  + json.dumps(meta, ensure_ascii=False, separators=(',', ':'), sort_keys=True)
+                  + ' %%\n# Interaction processing draft\n\n'
+                  '> Derived working copy. Double-parenthesized snips are generated, not dialogue.\n\n')
+        blocks = [turn['raw'] for turn in self.bundle['turns']]
+        if start is not None:
+            spans = [span for turn in self.bundle['turns'][start-1:end] for span in turn['spans']]
+            source = '%% ' + ', '.join(f'{u}:{a}-{z}' for u, a, z in spans) + ' %%\n'
+            blocks[start-1:end] = [source + '((' + label + '))\n\n']
+        self.bundle['draft'].write_text(prefix + self.bundle['header'] + ''.join(blocks),
+                                        encoding='utf-8', newline='\n')
 
     def load(self):
         return m.load(self.yaml, self.vault)
@@ -92,8 +109,6 @@ class SceneMapTests(unittest.TestCase):
         original = self.source.read_bytes()
         self.assertIn('Grash ((the guide))', m.window(bundle, 'u0002', 'u0004', 'polished'))
         m.save(bundle, self.proposal)
-        with self.assertRaisesRegex(ValueError, 'reserved'):
-            m.draft.initialize(bundle)
         self.assertFalse(bundle['draft'].exists())
         self.assertEqual(self.source.read_bytes(), original)
 
@@ -104,8 +119,7 @@ class SceneMapTests(unittest.TestCase):
         self.assertNotIn('Last time', view)
 
     def test_draft_reading_and_cross_boundary_snip_fallback(self):
-        m.draft.initialize(self.bundle)
-        m.draft.snip(self.bundle, 2, 5, 'combat against Grash', ['Grash'])
+        self.write_legacy_draft(2, 5, 'combat against Grash')
         view = m.window(self.bundle, 'u0002', 'u0005')
         self.assertIn('((combat against Grash))', view)
         self.assertIn('labels)) are generated', view)
@@ -115,7 +129,7 @@ class SceneMapTests(unittest.TestCase):
         self.assertNotIn('((combat against Grash))', view)
 
     def test_invalid_draft_fails_auto_but_polished_remains_available(self):
-        m.draft.initialize(self.bundle)
+        self.write_legacy_draft()
         path = self.bundle['draft']
         path.write_text(path.read_text(encoding='utf-8').replace('Grash greets', 'Grash attacks'), encoding='utf-8', newline='\n')
         with self.assertRaises(ValueError):
@@ -194,7 +208,7 @@ class SceneMapTests(unittest.TestCase):
             m.validate(self.load(), doc)
 
     def test_save_preserves_inputs_and_uses_only_one_output(self):
-        m.draft.initialize(self.bundle)
+        self.write_legacy_draft()
         before_draft = self.bundle['draft'].read_bytes()
         doc = m.save(self.bundle, self.proposal)
         self.assertEqual(m.read_map(self.bundle), doc)

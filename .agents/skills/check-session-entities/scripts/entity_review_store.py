@@ -13,52 +13,52 @@ def sha(data):
     return hashlib.sha256(data).hexdigest()
 
 
-def read(bundle, scenes):
-    path = scenes.safe(bundle['root'], review_path(bundle).relative_to(bundle['root']))
+def read(bundle, sources):
+    path = sources.safe(bundle['root'], review_path(bundle).relative_to(bundle['root']))
     if not path.exists():
         return {'schemaVersion': 1, 'purpose': 'session-entities-review', 'sessionYaml': bundle['sessionYaml'],
                 'mapSha256': sha(bundle['entityPath'].read_bytes()), 'history': [], 'feedback': []}
-    scenes.require(path.is_file() and path.stat().st_nlink == 1, 'Review must be a regular file')
+    sources.require(path.is_file() and path.stat().st_nlink == 1, 'Review must be a regular file')
     state = json.loads(path.read_bytes())
-    scenes.require(state.get('schemaVersion') == 1 and state.get('purpose') == 'session-entities-review'
+    sources.require(state.get('schemaVersion') == 1 and state.get('purpose') == 'session-entities-review'
                    and state.get('sessionYaml') == bundle['sessionYaml']
                    and isinstance(state.get('history'), list) and isinstance(state.get('feedback'), list),
                    'Invalid entities review JSON')
     return state
 
 
-def write(bundle, scenes, state):
+def write(bundle, sources, state):
     path = review_path(bundle)
-    scenes.atomic(bundle['root'], path.relative_to(bundle['root']), scenes.encoded(state))
+    sources.atomic(bundle['root'], path.relative_to(bundle['root']), sources.encoded(state))
 
 
-def recover(bundle, scenes):
-    state = read(bundle, scenes)
+def recover(bundle, sources):
+    state = read(bundle, sources)
     pending = state.get('transaction')
     if pending:
         current = sha(bundle['entityPath'].read_bytes())
-        after = scenes.encoded(pending['document'])
-        scenes.require(current in (pending['beforeSha256'], sha(after)),
+        after = sources.encoded(pending['document'])
+        sources.require(current in (pending['beforeSha256'], sha(after)),
                        'Interrupted entity review conflicts with current map; reconcile before continuing')
         if current != sha(after):
-            scenes.atomic(bundle['root'], bundle['entityPath'].relative_to(bundle['root']), after)
+            sources.atomic(bundle['root'], bundle['entityPath'].relative_to(bundle['root']), after)
         del state['transaction']
-        write(bundle, scenes, state)
+        write(bundle, sources, state)
     return state
 
 
-def current(bundle, scenes):
-    state = recover(bundle, scenes)
-    scenes.require(state['mapSha256'] == sha(bundle['entityPath'].read_bytes()),
+def current(bundle, sources):
+    state = recover(bundle, sources)
+    sources.require(state['mapSha256'] == sha(bundle['entityPath'].read_bytes()),
                    'Entity map changed outside the guarded workflow; reconcile review JSON before continuing')
     return state
 
 
-def commit(bundle, scenes, before, document, state, actor, action, entity=None, reason='', feedback=None):
+def commit(bundle, sources, before, document, state, actor, action, entity=None, reason='', feedback=None):
     state = copy.deepcopy(state)
-    scenes.require(bundle['entityPath'].is_file() and bundle['entityPath'].stat().st_nlink == 1, 'Map must be a regular file')
+    sources.require(bundle['entityPath'].is_file() and bundle['entityPath'].stat().st_nlink == 1, 'Map must be a regular file')
     previous = sha(bundle['entityPath'].read_bytes())
-    after = scenes.encoded(document)
+    after = sources.encoded(document)
     stamp = datetime.now(timezone.utc).isoformat()
     event = {'id': f'h{len(state["history"]) + 1:06}', 'at': stamp, 'actor': actor,
              'action': action, 'entity': entity, 'reason': reason,
@@ -73,14 +73,14 @@ def commit(bundle, scenes, before, document, state, actor, action, entity=None, 
     state['mapSha256'] = sha(after)
     state['transaction'] = {'beforeSha256': previous, 'document': document}
     # Write-ahead record makes an interruption recoverable without losing feedback.
-    write(bundle, scenes, state)
-    scenes.atomic(bundle['root'], bundle['entityPath'].relative_to(bundle['root']), after)
+    write(bundle, sources, state)
+    sources.atomic(bundle['root'], bundle['entityPath'].relative_to(bundle['root']), after)
     del state['transaction']
-    write(bundle, scenes, state)
+    write(bundle, sources, state)
     return state
 
 
-def protect_human(before, after, scenes):
+def protect_human(before, after, sources):
     rows = {r['id']: r for r in after['entities']}
     old = {r['id']: r for r in before.get('entities', [])}
     changed_evidence = set()
@@ -94,9 +94,9 @@ def protect_human(before, after, scenes):
             expected = copy.deepcopy(row)
             if stale:
                 expected['review']['status'] = 'unreviewed'
-            scenes.require(rows.get(key) == expected,
+            sources.require(rows.get(key) == expected,
                            f'Preserve human-reviewed entity {key}; changed evidence requires an unchanged record reset to unreviewed, otherwise reopen it in review before changing it')
     for key, row in rows.items():
         if row['review']['status'] == 'humanReviewed':
-            scenes.require(old.get(key) == row and key not in changed_evidence,
+            sources.require(old.get(key) == row and key not in changed_evidence,
                            'Agent regeneration cannot create human approval')

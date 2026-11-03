@@ -14,11 +14,11 @@ conversation.
 
 Resolve the selected session YAML and its registered
 `transcriptProcessing.artifacts.polishedMarkdown`. Reuse YAML participant roles
-and source registration. The source reader in
-`../prepare-interaction-transcript/scripts/interaction_draft.py`,
-`load(session_yaml, for_draft=False)`, checks source integrity and reads turns
-without writing. This retained implementation requires Python 3.9+ and PyYAML;
-its former draft-authoring skill is retired.
+and source registration. The shared reader is
+[`taelgar_session.sources`](../../../_scripts/taelgar_session/sources.py):
+`load(session_yaml, vault_root)` checks source integrity and reads whole-UID groups
+without writing. See the [shared library](../../../_scripts/taelgar_session/README.md)
+for imports and date-policy options. It requires Python 3.9+ and PyYAML.
 Do not initialize a reduction draft to extract passages. Recaps, beat narratives,
 vault biographies, and reduction labels are not substitutes for source speech.
 
@@ -271,8 +271,9 @@ Make a distinct second pass over each selected original range and its neighbors:
    material. Verify descriptions of cuts against the omitted source.
 3. Compare retained text with corresponding original turns in order, including
    speakers/punctuation. Check marked omissions and whole-turn source ranges.
-   The draft reader's `match_inline` can check individual cut-bearing turns when
-   their labels fit its syntax; it is not a collection or semantic validator.
+   The shared `taelgar_session.passages.match_inline` can check individual
+   cut-bearing turns when their labels fit its syntax; it is not a collection or
+   semantic validator.
 4. Check identity, recap/played-event framing, and continuity across cuts. Prior
    map review does not review the new extraction.
 5. Before saving, recheck inspected source/map hashes and prior output state.

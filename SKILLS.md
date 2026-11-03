@@ -1,12 +1,12 @@
 # Taelgar Skills
 
-Last reviewed: **2026-11-02**
+Last reviewed: **2026-11-03**
 
 This guide covers the 22 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
-For local Python dependencies and Windows setup, see [regression test setup](_scripts/tests/README.md).
+For local Python dependencies and Windows setup, see [regression test setup](_scripts/tests/README.md). Session helpers share the [session Python library](_scripts/taelgar_session/README.md); their existing CLI commands and saved formats remain the workflow interfaces.
 
 ## Session preparation
 

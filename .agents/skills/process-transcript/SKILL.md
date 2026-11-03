@@ -367,5 +367,9 @@ See the [file lifecycle](references/contract.md#file-lifecycle) for retention de
 
 ## Maintenance checks
 
+Shared UID parsing and safe storage live in the
+[session Python library](../../../_scripts/taelgar_session/README.md). Processing
+transactions and editorial policy remain in this skill's helpers.
+
 See [testing.md](references/testing.md) for isolated regression commands and the
 initial cross-campaign pilot results. Keep integration tests on temporary copies.

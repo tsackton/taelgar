@@ -8,21 +8,26 @@ import json
 from pathlib import Path, PurePosixPath, PureWindowsPath
 import re
 import sys
+import yaml
 from urllib.parse import quote
 
 sys.dont_write_bytecode = True
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import entity_review_store as review_store
-sys.path.insert(0, str(Path(__file__).resolve().parents[2] / 'map-transcript-scenes' / 'scripts'))
-import scene_map as scenes
+sys.path.insert(0, str(Path(__file__).resolve().parents[4] / '_scripts'))
+from taelgar_session import sources
 
-require = scenes.require
-fields = scenes.object_fields
-string = scenes.string
+# Compatibility for existing review/extraction clients; this is the shared source
+# API, not the scene mapper. New clients should import taelgar_session.sources.
+scenes = sources
+
+require = sources.require
+fields = sources.object_fields
+string = sources.string
 KINDS = {'npc', 'divine', 'item', 'organization'}
 IMPORTANCE = ('star', 'supporting', 'cameo')
-CONFIDENCE = scenes.CONFIDENCE_RATINGS
-STATUS = scenes.REVIEW_STATUSES
+CONFIDENCE = sources.CONFIDENCE_RATINGS
+STATUS = sources.REVIEW_STATUSES
 SCHEMA_VERSION = 4
 
 
@@ -33,7 +38,7 @@ def note_path(bundle, value):
             and '..' not in relative.parts, 'Note must be a vault-relative path')
     require(not any(p.startswith(('.', '_')) for p in relative.parts),
             'Private/support paths cannot be entity evidence or targets')
-    path = scenes.safe(bundle['vault'], value)
+    path = sources.safe(bundle['vault'], value)
     require(path.suffix == '.md' and path.is_file(), f'Note does not exist: {value}')
     return path
 
@@ -47,12 +52,12 @@ def note_refs(proposal):
     return paths
 
 
-def load(session_yaml, vault_root=scenes.VAULT, notes=()):
-    # Reuse source/UID parsing only; scenes.load does not read a scene map.
-    data = scenes.draft.yaml.safe_load(Path(session_yaml).read_bytes())
+def load(session_yaml, vault_root=sources.VAULT, notes=()):
+    # Read shared source/UID data without loading a scene map.
+    data = yaml.safe_load(Path(session_yaml).read_bytes())
     bundle = (load_narrative(session_yaml, vault_root)
               if isinstance(data, dict) and data.get('sourceType') == 'narrative'
-              else scenes.load(session_yaml, vault_root, allow_unknown_dates=True, allow_source_changes=True))
+              else sources.load(session_yaml, vault_root, allow_unknown_dates=True, allow_source_changes=True))
     # Vault notes are live references, not versioned processing inputs.
     inspected_notes = sorted(set(notes))
     for path in inspected_notes:
@@ -60,8 +65,8 @@ def load(session_yaml, vault_root=scenes.VAULT, notes=()):
     inputs = {'sessionInputs': bundle['inputs']}
     stem = bundle['manifest'].name.removesuffix('-session.yaml')
     bundle.update(entityInputs=inputs, inspectedNotes=inspected_notes,
-                  entityPath=scenes.safe(bundle['root'], f'cleaned/{stem}-entity-map.json'))
-    bundle['entityInputDigest'] = scenes.digest({'sessionYaml': bundle['sessionYaml'], 'inputs': inputs})
+                  entityPath=sources.safe(bundle['root'], f'cleaned/{stem}-entity-map.json'))
+    bundle['entityInputDigest'] = sources.digest({'sessionYaml': bundle['sessionYaml'], 'inputs': inputs})
     return bundle
 
 
@@ -71,12 +76,12 @@ def load_narrative(session_yaml, vault_root):
     require(manifest.name.endswith('-session.yaml') and manifest.parent.name == 'cleaned',
             'Expected cleaned/<stem>-session.yaml inside a session bundle')
     root, vault = manifest.parent.parent.resolve(), Path(vault_root).resolve()
-    manifest = scenes.safe(root, 'cleaned/' + manifest.name)
+    manifest = sources.safe(root, 'cleaned/' + manifest.name)
     require(manifest.is_relative_to(vault), 'Session YAML must be inside the selected vault')
     relative = manifest.relative_to(vault).as_posix()
-    scenes.safe(vault, relative)
+    sources.safe(vault, relative)
     raw_yaml = manifest.read_bytes()
-    data = scenes.draft.yaml.safe_load(raw_yaml)
+    data = yaml.safe_load(raw_yaml)
     require(isinstance(data, dict) and data.get('sourceType') == 'narrative',
             'YAML sourceType must be narrative')
     registered = data.get('preparedSourcePath')
@@ -91,7 +96,7 @@ def load_narrative(session_yaml, vault_root):
         expected = (root.name, 'cleaned', f'{stem}-source-prepared.md')
         require(foreign.parts[-3:] == expected, 'Unexpected legacy preparedSourcePath')
         path = Path('cleaned') / foreign.name
-    source = scenes.safe(root, path.as_posix())
+    source = sources.safe(root, path.as_posix())
     require(source != manifest and source.suffix == '.md', 'Invalid narrative source path')
     raw = source.read_bytes()
     units, positions, lines = [], {}, {}
@@ -105,20 +110,20 @@ def load_narrative(session_yaml, vault_root):
         positions[uid], lines[uid] = len(units), line
         units.append((uid, text))
     require(units, 'Narrative source is empty')
-    inputs = {'sessionYamlDigest': scenes.digest({k: v for k, v in data.items() if k != 'interactionExtraction'}),
-              'sources': {'preparedSourcePath': scenes.draft.sha(raw)}}
+    inputs = {'sessionYamlDigest': sources.digest({k: v for k, v in data.items() if k != 'interactionExtraction'}),
+              'sources': {'preparedSourcePath': sources.sha(raw)}}
     return {'root': root, 'vault': vault, 'manifest': manifest, 'data': data,
             'sessionYaml': relative, 'source': source, 'narrativeUnits': units,
             'positions': positions, 'lines': lines, 'inputs': inputs,
-            'fingerprints': {manifest.relative_to(root).as_posix(): scenes.draft.sha(raw_yaml),
-                             source.relative_to(root).as_posix(): scenes.draft.sha(raw)},
-            'draft': scenes.safe(root, f'cleaned/{stem}-interactions-draft.md'),
-            'mapPath': scenes.safe(root, f'cleaned/{stem}-scene-map.json')}
+            'fingerprints': {manifest.relative_to(root).as_posix(): sources.sha(raw_yaml),
+                             source.relative_to(root).as_posix(): sources.sha(raw)},
+            'draft': sources.safe(root, f'cleaned/{stem}-interactions-draft.md'),
+            'mapPath': sources.safe(root, f'cleaned/{stem}-scene-map.json')}
 
 
 def source_bounds(bundle, value, label):
     if 'narrativeUnits' not in bundle:
-        return scenes.source_bounds(bundle, value, label)
+        return sources.source_bounds(bundle, value, label)
     fields(value, {'kind', 'sourceId', 'startUid', 'endUid'}, set(), label)
     require(value['kind'] == 'narrative' and value['sourceId'] == 'preparedSourcePath',
             f'{label} must reference the YAML prepared narrative')
@@ -132,7 +137,7 @@ def source_bounds(bundle, value, label):
 
 def window(bundle, start_uid, end_uid):
     if 'narrativeUnits' not in bundle:
-        return scenes.window(bundle, start_uid, end_uid, 'polished')
+        return sources.window(bundle, start_uid, end_uid, 'polished')
     ref = {'kind': 'narrative', 'sourceId': 'preparedSourcePath',
            'startUid': start_uid, 'endUid': end_uid}
     start, end = source_bounds(bundle, ref, 'reading window')
@@ -180,8 +185,8 @@ def acknowledge_sources(bundle, document, state):
     before = copy.deepcopy(document)
     document['inputs'] = copy.deepcopy(bundle['entityInputs'])
     validate(bundle, document)
-    scenes.check_inputs(bundle)
-    review_store.commit(bundle, scenes, before, document, state, 'human', 'confirmSourceChanges',
+    sources.check_inputs(bundle)
+    review_store.commit(bundle, sources, before, document, state, 'human', 'confirmSourceChanges',
                         reason='Human confirmed continuing with the current transcript/session inputs.')
     return document
 
@@ -190,7 +195,7 @@ def validate(bundle, document):
     fields(document, {'schemaVersion', 'sessionYaml', 'inputs', 'entities'},
            {'exclusions', 'evidenceNotes'}, 'entity map')
     if type(document['schemaVersion']) is int and document['schemaVersion'] == 2:
-        raise scenes.MapError('Entity-map v2 needs explicit removal of entity reasons, exclusion occurrence arrays, session importance assessment, and a guarded version 4 save')
+        raise sources.MapError('Entity-map v2 needs explicit removal of entity reasons, exclusion occurrence arrays, session importance assessment, and a guarded version 4 save')
     require(type(document['schemaVersion']) is int and document['schemaVersion'] in (3, SCHEMA_VERSION),
             'Unsupported entity-map version; recheck legacy decisions and save as version 4')
     rated = document['schemaVersion'] == SCHEMA_VERSION
@@ -228,7 +233,7 @@ def validate(bundle, document):
             require(bool(row.get('note')), 'Later identification requires a chosen note')
         if 'confidenceExplanation' in row:
             string(row['confidenceExplanation'], 'confidenceExplanation', limit=40)
-        scenes.validate_review(row['review'])
+        sources.validate_review(row['review'])
         confidence, status = row['review']['confidence'], row['review']['status']
         if 'note' in row:
             string(row['note'], 'note', nullable=True)
@@ -264,15 +269,15 @@ def build(bundle, proposal):
 
 def save(bundle, proposal, expected=None):
     document = build(bundle, proposal)
-    with scenes.lock(bundle['root']):
-        scenes.check_inputs(bundle)
-        path = scenes.safe(bundle['root'], bundle['entityPath'].relative_to(bundle['root']))
-        protected = {scenes.safe(bundle['root'], p) for p in bundle['fingerprints']}
+    with sources.lock(bundle['root']):
+        sources.check_inputs(bundle)
+        path = sources.safe(bundle['root'], bundle['entityPath'].relative_to(bundle['root']))
+        protected = {sources.safe(bundle['root'], p) for p in bundle['fingerprints']}
         protected.update((bundle['draft'], bundle['mapPath']))
         require(path not in protected, 'Entity output aliases an input')
         if path.exists():
             require(path.is_file() and path.stat().st_nlink == 1, 'Entity map must be regular, not a hard link')
-            require(expected is not None and scenes.draft.sha(path.read_bytes()) == expected,
+            require(expected is not None and sources.sha(path.read_bytes()) == expected,
                     'Existing entity map requires its inspected --expect-sha256')
         else:
             require(expected is None, 'Expected entity map is missing')
@@ -285,11 +290,11 @@ def save(bundle, proposal, expected=None):
             if row['review']['confidence'] in ('medium', 'low') and not row.get('confidenceExplanation'):
                 require(previous.get(row['id']) == row or previous.get(row['id'], {}).get('review', {}).get('status') == 'humanReviewed',
                         'New or changed medium/low-confidence decisions require confidenceExplanation; preserve unchanged legacy records instead of inventing a rationale')
-        review_store.protect_human(before, document, scenes)
+        review_store.protect_human(before, document, sources)
         if review_store.review_path(bundle).exists():
-            require('transaction' not in review_store.read(bundle, scenes),
+            require('transaction' not in review_store.read(bundle, sources),
                     'Interrupted entity review; run the review helper inspect to recover before regeneration')
-            state = review_store.current(bundle, scenes)
+            state = review_store.current(bundle, sources)
             for archived in state.get('excludedRecords', []):
                 require(archived['exclusion'] in document.get('exclusions', [])
                         and not any(r['id'] == archived['record']['id'] for r in document['entities']),
@@ -297,9 +302,9 @@ def save(bundle, proposal, expected=None):
             removed = {event['entity'] for event in state['history'] if event['action'] == 'remove'}
             require(not removed.intersection(row['id'] for row in document['entities']),
                     'Do not recreate human-removed entity IDs; reconcile removal feedback first')
-            review_store.commit(bundle, scenes, before, document, state, 'agent', 'regenerate')
+            review_store.commit(bundle, sources, before, document, state, 'agent', 'regenerate')
         else:
-            scenes.atomic(bundle['root'], path.relative_to(bundle['root']), scenes.encoded(document))
+            sources.atomic(bundle['root'], path.relative_to(bundle['root']), sources.encoded(document))
     return document
 
 
@@ -325,7 +330,7 @@ def preview(bundle, document, entity_id=None, kind=None, importance=None):
     if importance is not None:
         require(importance in IMPORTANCE, 'Unknown importance filter')
         rows = [r for r in rows if r.get('importance') == importance]
-    cell = scenes.cell
+    cell = sources.cell
     out = ['# Session entity check', '',
            f"{result['entities']} entities; {result['matched']} vault matches; "
            f"{len(result['reviewPriority'])} review priorities. Structural validation does not establish semantic review.", '']
@@ -344,7 +349,7 @@ def preview(bundle, document, entity_id=None, kind=None, importance=None):
         if row.get('identifiedLater'):
             match += ' — identified later'
         refs = row['occurrences']
-        evidence = ', '.join(scenes.source_link(bundle, r['source']) for r in refs)
+        evidence = ', '.join(sources.source_link(bundle, r['source']) for r in refs)
         label = cell(row['label'])
         if row.get('examinedInMirrorOfPast'):
             label += ' — Mirror of the Past: examined'
@@ -361,12 +366,12 @@ def preview(bundle, document, entity_id=None, kind=None, importance=None):
         for row in rows:
             for item in row['occurrences']:
                 ref = item['source']
-                out.extend(['', f"**Source** — {scenes.source_link(bundle, ref)}", '',
+                out.extend(['', f"**Source** — {sources.source_link(bundle, ref)}", '',
                             '````text', window(bundle, ref['startUid'], ref['endUid']).rstrip(), '````', ''])
     if not entity_id and kind is None and importance is None and document.get('exclusions'):
         out.extend(['', '## Excluded candidates', ''])
         for row in document['exclusions']:
-            evidence = ', '.join(scenes.source_link(bundle, item['source']) for item in row['occurrences'])
+            evidence = ', '.join(sources.source_link(bundle, item['source']) for item in row['occurrences'])
             out.append(f"- **{cell(row['label'])}**: {cell(row['reason'])} — {evidence}")
     return '\n'.join(out) + '\n'
 
@@ -408,15 +413,15 @@ def main():
                       'notes': bundle['inspectedNotes'], 'output': str(bundle['entityPath']),
                       'sourceChanges': source_changes(bundle, existing)
                       if existing.get('schemaVersion') in (3, SCHEMA_VERSION) else [],
-                      'mapSha256': scenes.draft.sha(raw) if raw is not None else None}
+                      'mapSha256': sources.sha(raw) if raw is not None else None}
         elif args.command == 'confirm-sources':
             require(args.expect_input_digest == bundle['entityInputDigest'], 'Inputs changed since confirmation; inspect and confirm again')
-            with scenes.lock(bundle['root']):
-                scenes.check_inputs(bundle)
-                require(scenes.draft.sha(bundle['entityPath'].read_bytes()) == args.expect_sha256,
+            with sources.lock(bundle['root']):
+                sources.check_inputs(bundle)
+                require(sources.sha(bundle['entityPath'].read_bytes()) == args.expect_sha256,
                         'Entity map changed since confirmation; inspect again')
                 document = json.loads(bundle['entityPath'].read_bytes())
-                state = review_store.current(bundle, scenes)
+                state = review_store.current(bundle, sources)
                 result = validate(bundle, acknowledge_sources(bundle, document, state))
         elif args.command == 'show':
             print(window(bundle, args.start_uid, args.end_uid), end='')
