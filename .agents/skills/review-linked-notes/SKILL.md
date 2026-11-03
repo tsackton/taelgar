@@ -35,7 +35,7 @@ Parse **NPCs, locations, groups/organizations, and objects/items** from the reca
 
 Resolve each entity against vault filenames, `name`, `aliases`, spelling/diacritic variants, existing links, and surrounding context. Record an exact match, an identity question, or a proposed missing subject; never silently merge ambiguous matches. Treat recap assertions as records of play with the vault's usual authority and uncertainty boundaries.
 
-Human-edited recaps are read-only sources. Do not validate them against the generated recap schema, restore removed structure, normalize them, or rebuild pipeline outputs. Consult [session-summary](../session-summary/SKILL.md) only when source-format guidance is needed; do not run its drafting workflow.
+Human-edited recaps are read-only sources. Do not validate them against the generated recap schema, restore removed structure, normalize them, or rebuild pipeline outputs.
 
 ## 2. Present and approve the scope of work
 

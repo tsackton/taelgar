@@ -1,9 +1,0 @@
-campaign: Test Campaign
-sessionNumber: 7
-participants:
-  - name: Tim
-    role: dm
-    gameRole: DM
-  - name: Alice
-    role: player
-    gameRole: Mira

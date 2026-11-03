@@ -8,7 +8,7 @@ description: Create a prepared Taelgar session bundle from an existing transcrip
 ## Overview
 
 Prepare the maintained step-0 session bundle for the Taelgar session pipeline.
-This skill owns bundle creation and stops at a prepared bundle. Its job is to create or update the source prep YAML and speaker mapping JSON, show them to the user for verification, and then run `python .agents/skills/prepare-session-source/scripts/prepare_source.py` only after explicit approval. Preparing a batch does not authorize transcript processing or session-note preparation. It is an independent workflow, not a stage owned by session-note-prep.
+This skill owns bundle creation and stops at a prepared bundle. Its job is to create or update the source prep YAML and speaker mapping JSON, show them to the user for verification, and then run `python .agents/skills/prepare-session-source/scripts/prepare_source.py` only after explicit approval. Preparing a batch does not authorize transcript processing, structured-data extraction, or session-note writing. Source preparation is an independent workflow.
 
 ## Required Context
 
@@ -157,11 +157,11 @@ Declare the bundle ready only after the command succeeds and the session YAML, p
 
 If the command fails or is interrupted, report the failed step or error, which outputs exist, and what remains incomplete. Preserve partial output and any existing downstream cleanup, beats, recaps, or human edits. Do not automatically delete the bundle or retry with `--force`. Inspect the partial state and propose the specific recovery or replacement needed; existing approval covers only its stated scope, and overwriting still requires the explicit approval above.
 
-A ready source bundle completes this skill, not the downstream recap pipeline. After verification, report:
+A ready source bundle completes this skill. After verification, report:
 
 - files written by the command
 - any warnings about unknown speakers
-- the ready bundle root for later use by `process-transcript` or `session-note-prep`
+- the ready bundle root for later use by `process-transcript` or `check-session-entities`, as appropriate to the source type
 
 Stop after that report unless the user has also requested downstream work. If
 process-transcript referred a missing-bundle request here, resolve preparation

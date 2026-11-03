@@ -7,8 +7,8 @@ description: Extract recap-scoped excerpts from a finalized polished transcript 
 
 Invoke this skill as `transcript-excerpts`. Its existing skill folder and
 `cleaned/beat-transcripts/` artifact filenames stay in place. It copies reviewed
-speech into recap excerpts and helps choose highlights. It is not part of default
-`session-note-prep` and does not rerun cleanup, polishing, or prose-quality review.
+speech into recap excerpts and helps choose highlights. It does not rerun
+cleanup, polishing, or prose-quality review.
 
 ## Inputs and ownership
 
@@ -29,7 +29,7 @@ speech into recap excerpts and helps choose highlights. It is not part of defaul
 Run from the vault root with Python and PyYAML:
 
 ```bash
-python -B .agents/skills/beat-transcript-polisher/scripts/manage_beat_transcripts.py \
+python -B .agents/skills/transcript-excerpts/scripts/manage_beat_transcripts.py \
   --transcript /path/to/cleaned/<bundle-stem>-transcript.md \
   --session-recap-md /path/to/cleaned/<bundle-stem>-session-recap.md \
   --output-dir /path/to/cleaned/beat-transcripts \
