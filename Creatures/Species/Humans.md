@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/ai]
+tags: [creature]
 name: Humans
 aliases: [human]
 dm_owner: joint
@@ -50,12 +50,16 @@ Many human societies are ruled as parts of larger, powerful realms: on the weste
 > [!gallery]
 > - ![[humans-dunmari-herders.webp]]
 >   *Herders move their flock through the grasslands of [[Dunmar]].*
-> - ![[humans-chardonian-scholar.webp]]
->   *A scholar at the [[University of Chardon]].*
+> - ![[humans-chardonian-archivist.webp]]
+>   *A scholar consults the archives at the [[University of Chardon]].*
 > - ![[humans-medju-spice-merchant.webp]]
 >   *A spice merchant checks the aroma of a sample in [[Medju]].*
 
 Other human societies find different ways to order their relations: the [[Deno'qai]] of the western forests organize their communities into tribes and villages without a single overarching government; the [[Skaer]] of the [[Western Green Sea]] live in small island communities organized around communal villages and fisheries; and the [[Istabor Alliance|Isinguese]] communities of the [[Refounded Alliance of Aurbez]] live in towns and villages organized around mutual obligations of defense and protection. 
+
+> [!image|figure large]
+> ![[humans-skaer-winter-net-repair.webp]]
+> *Net-mending among the [[Skaer]], descendants of the [[Mariners|mariners]] who left [[Hkar]] before [[The Downfall|the Downfall]].*
 
 Human settlements also frequently provide homes for other species. Dwarven quarters and halfling-kept inns are familiar features of many human towns and cities. Lizardfolk, while maintaining their own communal authority and customs, often settle near human towns. In cosmopolitan ports such as Tollen, members of many species live alongside one another, from the familiar to the exotic. 
 
@@ -83,34 +87,30 @@ Trade, conquest, and resettlement, in turn, brought human and nonhuman cultures 
 
 The complex history of human movements and migrations means that language, religion, political identity, and cultural history can all follow unique paths. In parts of the [[Highlands|Sembaran Highlands]], for example, the [[Zimka]] speak an Eastros language, worship Northerner gods, and owe allegiance to kingdoms deeply shaped by the Drankorian political order. While ancient migrations have left their mark on the world, the years of change and cultural evolution mean they are not the same as modern day cultures. 
 
-> [!image|figure standard]
-> ![[humans-skaer-winter-net-repair.webp]]
-> *Net-mending among the [[Skaer]], descendants of the [[Mariners|mariners]] who left [[Hkar]] before [[The Downfall|the Downfall]].*
-
 ### Religion and Belief
 
 Humanity is unique among the sapient species of the world in possessing the [[Divine Spark]], which allows human belief to sustain divinities. This has led to a diversity of human religions worshipping many [[Incorporeal Gods]]. 
 
+> [!image|aside standard]
+> ![[humans-kestavo-forest-spring.webp]]
+> *Tending a [[Kestavo|kestavo]] shrine at a forest spring in [[Zimkova]].*
 #### The Divine Spark
 
 Humanity, created by the [[Divine Presence]], is gifted the [[Divine Spark]], the name given to the uniquely human ability to create and sustain [[Incorporeal Gods|divinities]] through the power of their belief. The power of these divinities, unlike that of the [[Divine Presence]] or the [[Embodied Gods|embodied Firstborn]] who created other species, depends on their worshippers’ belief and can wax and wane with the strength of the religious communities that sustain them. 
-
 %% not sure if this really needs more %%
 
 #### Religious History and Traditions
 
 Though the [[Divine Presence]] created humanity, unlike the creators of other species, the Divine Presence does not ordinarily answer prayers directly or grant any special magic to humans. From the earliest days of Hkar, humanity began to worship small local gods and intercessory powers, minor divinities who could provide a conduit to the magic of the [[Divine Presence]]. These religious traditions grew into the [[Northern Folk Religions]]; their followers approach the divine through particular places, offerings, and rites intended to draw a god’s attention and secure its intercession.
-
-> [!image|figure standard]
-> ![[humans-kestavo-forest-spring.webp]]
-> *Tending a [[Kestavo|kestavo]] shrine at a forest spring in [[Zimkova]].*
+> [!image|aside standard]
+> ![[humans-mawar-prayer.webp]]
+> *A [[Mawar Confederacy|Mawaran]] father and daughter pray to [[Guzo the Mariner]], a saintly intercessor with the [[Mos Numena Pantheon|Eight Divines]].*
 
 On Hkar, early intercessory cults gave way to pantheonic traditions, worshipping a diversity of gods, which were carried by later migrants from humanity's birthplace. Those who left, the [[mariners]] and the [[Dunmar|Dunmari]] and others, brought their gods with them, developing into new religious traditions across the world. The divine family of the [[Dunmari Religion|Dunmari faith]] and the worship of [[Kaikkea]], the ancient ocean goddess of the Skaer, grew out of these emigrations. 
 
 In the years before the [[The Downfall|Downfall]], the Divine Way, called [[Mos Numena]] in Drankorian, grew and spread and came to dominate the magical urban culture of Hkar. The [[Mos Numena Pantheon|Eight Divines]], powerful religious archetypes, saved the people of Hkar from disaster, helping them to establish [[Drankor]]. As the [[Drankorian Empire]] spread, so too did [[Mos Numena]] and the worship of the [[Mos Numena Pantheon|Eight Divines]]. 
 
 In the modern day, humanity follows diverse religious traditions descended from these strands and shaped by their intermingling. 
-
 ## Historical Perspective
 
 For much of the early history of humanity, humans lived largely on [[Hkar]]. The [[The Downfall|Downfall]] ended humanity’s long history on [[Hkar]], destroying its ancestral homeland and reshaping much of Taelgar. Refugees from Hkar founded [[Drankor]], which grew into an empire stretching from the [[Endless Ocean]] to the [[Western Green Sea]]. For roughly a thousand years, its armies, magical institutions, and imperial government shaped the lives of many human peoples. A thousand years after its founding, the Drankorian Empire fell as the [[First Plague]] devastated the imperial heartland. 
