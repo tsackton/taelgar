@@ -13,16 +13,18 @@ Accept a note path/name, campaign and session identifier, full session note, or 
 
 Read the complete target, including comments and frontmatter. For long documents, inspect all sections before proposing coverage. For recaps, read the current accepted or human-edited file; tolerate removed or changed fields and do not validate, rebuild, or repair its generated structure. Use the source's actual headings or recap scene IDs to anchor proposals.
 
-Present a numbered shortlist with:
+Present a numbered idea list with:
 
 - the subject, moment, or scene and the source passage it illustrates;
 - a proposed composition, such as a portrait, establishing landscape, action scene, or object detail;
 - the suggested location and role in the note: aside, figure, or hero;
 - existing art that could serve the same purpose, and important uncertainties.
 
-For long histories, distinguish portraits, events, and changes across periods instead of proposing an image for every heading. Keep the list proportionate to the note. An illustration need not depict an action scene.
+Scale brainstorming to the richness and variety of the source, not a fixed three-image shortlist. For a substantial note or recap, aim for **5–6 distinct ideas**, and offer more when additional subjects, scenes, periods, or visual roles are worthwhile; six is not a cap. A short or narrow note may warrant only 1–3. Favor breadth at this stage: the list is a menu of possibilities, not a recommendation to generate or insert every image. Avoid padding with near-duplicates or unsupported subjects.
 
-Iterate on the shortlist until the user selects targets. Establish shared style, framing/aspect preferences, export format, and any optional archive destination without re-asking preferences already supplied. Default export is WebP quality 90. Explicit selection to proceed authorizes the two initial variants for each selected target; an ideation-only request does not authorize generation. Do not generate additional subjects without selection.
+For long histories, distinguish portraits, events, and changes across periods instead of proposing an image for every heading. An illustration need not depict an action scene.
+
+Iterate on the idea list until the user selects targets. Establish shared style, framing/aspect preferences, export format, and any optional archive destination without re-asking preferences already supplied. Default export is WebP quality 90. Explicit selection to proceed authorizes the two initial variants for each selected target; an ideation-only request does not authorize generation. Do not generate additional subjects without selection.
 
 ## 2. Gather evidence for the selected images
 
@@ -63,7 +65,29 @@ Inspect each result for subject identity, source fidelity, requested constraints
 - At thumbnail or intended note-display size, check the order of attention, silhouette, readable action, and competing background elements. Use the proposed aside, figure, or hero role to judge whether important details remain legible; consult [Image Callouts](../../../_MoC/Image%20Callouts.md) when sizing matters.
 - At full size, check anatomy, material distinctions, lighting logic, edge treatment, repetitive texture, and excessive local contrast or sharpening. Judge these against the chosen medium and deliberate stylization.
 
-Present both candidates visibly with their labels, a brief explanation of the differences, and a candid assessment of each candidate's main strength and any material weakness. Record a generation failure as unfinished work; do not count a missing alternative as delivered.
+### Consistent comparison display
+
+Present each target's comparison in **one assistant message**, using vertically stacked image blocks: **A first, then B**. Put a bold label containing the variant letter, version, and short visual description immediately above its image, with the stable working-record ID alongside it. Re-embed the actual returned images in this message even if the generation tool already displayed them. Use real absolute paths for local image embeds; never infer A/B identity from tool-output order, filenames, alt text, or labels in earlier commentary.
+
+Use this layout, substituting the actual target, versions, IDs, and image paths:
+
+```markdown
+**Scene 02 — The audience at court**
+
+**A · v1 — Close portrait** (`scene-02-a-v1`)
+
+![Scene 02, A, v1](</absolute/path/to/variant-a.png>)
+
+Strength: … Main limitation: …
+
+**B · v1 — Wider court scene** (`scene-02-b-v1`)
+
+![Scene 02, B, v1](</absolute/path/to/variant-b.png>)
+
+Strength: … Main limitation: …
+```
+
+Keep each target's pair together when presenting several targets. Use the same labeled image blocks for revisions, retaining the variant letter and advancing its version; an unchanged comparison candidate keeps its existing version. Check each displayed image against the working record before presenting it. If an image cannot be displayed, report the comparison as incomplete rather than asking the user to choose from ambiguous previews. Record a generation failure as unfinished work; do not count a missing alternative as delivered.
 
 ## 4. Iterate and recognize explicit final approval
 

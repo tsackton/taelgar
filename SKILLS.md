@@ -1,6 +1,6 @@
 # Taelgar Skills
 
-Last reviewed: **2026-11-02**
+Last reviewed: **2026-11-04**
 
 This guide covers the 29 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
@@ -73,7 +73,7 @@ The stages below are normally called by the session pipeline, except for the opt
 | --- | --- | --- |
 | [capture-brainstorming-idea](.agents/skills/capture-brainstorming-idea/SKILL.md) | Saves casual ideas verbatim in one monthly log, records their inspiration, and adds useful research, concrete color, and explained Taelgar connections. Research stays in the note; chat stays brief. | “I'm watching a documentary and will drop ideas—capture them with useful research and Taelgar connections.” |
 | [adventure-design](.agents/skills/adventure-design/SKILL.md) | Develops an adventure's premise, goals, challenges, outcomes, and connected structure with you, using the vault's templates. It can develop an outline, Canvas structure, and initial scene cores; detailed encounters and session preparation are separate work. | “Help me turn this adventure premise into a connected outline.” |
-| [illustrate-note](.agents/skills/illustrate-note/SKILL.md) | Selects illustration targets from a note or recap and develops evidence-based visual briefs with deliberate composition, materials, and lighting. Compares purposeful alternatives, critiques them at reading and full size, and makes targeted revisions with you. Only approved finals are exported; insertion requires separate authorization. | “Illustrate this history with portraits and scenes,” or “Refine this recap illustration so the action reads clearly and the materials feel distinct.” |
+| [illustrate-note](.agents/skills/illustrate-note/SKILL.md) | Offers 5–6 illustration ideas for substantial notes or recaps, with more when the content warrants, then develops selected targets into evidence-based visual briefs. Presents A/B alternatives in consistent image blocks with visible labels and versions, critiques them at reading and full size, and makes targeted revisions with you. Only approved finals are exported; insertion requires separate authorization. | “Brainstorm a broad menu of illustrations for this history,” or “Refine this recap illustration so the action reads clearly and the materials feel distinct.” |
 | [taelgar-asset-review](.agents/skills/taelgar-asset-review/SKILL.md) | Either reviews image/audio placement and applies approved directory moves, or checks and repairs frontmatter image references. A property check does not require a full asset-organization scan. Renaming, replacing asset files, conversion, maps, and generated audio need separate handling. | “Find misplaced campaign images,” or “Check the image properties on these notes.” |
 
 ## Importing and organizing source material
