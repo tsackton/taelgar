@@ -10,6 +10,10 @@ POV: modern
 ---
 # Kobolds
 
+> [!image|hero]
+> ![[kobolds-life-in-the-warren.webp]]
+> *Kobolds share a meal in a warren built within an abandoned mine.*
+
 In abandoned mines, concealed hillside warrens, and the shadows of dragon lairs, kobolds make their homes in a world of creatures often larger and stronger than themselves, creatures who often see them as little more than thieves, bandits, or servants. Ingenious builders and clever bargainers, kobold communities often turn to a powerful patron for protection; those that eke out an independent life survive through hidden passages, clever contraptions, and guile. Kobold communities accumulate languages, skills, and even religious traditions from the peoples around them, making borrowed things their own. Some find purpose in the service of dragons; others fiercely guard their independence. Behind their varied ways of life lies a shared uncertainty: kobolds have many stories about who made them, but no certain knowledge of their beginnings.
 
 ## Appearance
@@ -41,9 +45,17 @@ Kobolds readily adopt the skills, customs, and beliefs of those around them, whe
 
 Kobolds have a reputation for cleverness and trickery, in part from the practical demands of frequently living among larger and stronger neighbors. A well-placed trap or a concealed entrance can keep their homes safe in the face of threats, but their inventiveness also extends to craftwork, mechanical contraptions, and even experiments with magic. Kobold communities regularly pick up skills, languages, and customs from the peoples around them. This flexibility gives kobold life much of its variety. 
 
+> [!image|figure standard]
+> ![[kobolds-concealed-entrance.webp]]
+> *Kobold craftspeople test a concealed entrance to their warren.*
+
 ### Patrons and Independence
 
 Many kobolds live under the protection of a powerful patron, often a dragon, exchanging service for safety. Though for some kobolds, serving a dragon may provide a sense of belonging to something magnificent, and even religious meaning, others may feel stifled by the demands of obedience. Questions of loyalty and independence can divide a community deeply.
+
+> [!image|figure standard]
+> ![[kobolds-dragon-patron.webp]]
+> *Kobolds seek the favor of their dragon patron.*
 
 Independent kobolds cultivate other means of survival. Some turn to raiding and banditry, earning the hostility of their neighbors. Others build lasting ties through trade and even friendship. Across much of the world, the reputation of kobolds as raiders, thieves, and servants of dragons colors the perception of individuals who may be none of those things. 
 

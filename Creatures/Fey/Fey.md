@@ -10,6 +10,10 @@ POV: modern
 ---
 # Fey
 
+> [!image|hero]
+> ![[fey-the-unlikely-dancing-partners.webp]]
+> *A bear-fey and a fairy dance to a satyr’s music.*
+
 The fey are the natives of the [[Feywild]]. They are generally referred to as the "fey", sometimes spelled "fae", or the "faerie", but there are distinctions, both obvious and subtle, among these folk. The fey can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home.  
 
 All fey honor bargains, and the Feywild runs on gifts and promises. But whether these are offered genuinely, or in an attempt to deceive, can be difficult for mortals to decipher. And the risk of accepting a bargain you do not understand may well be servitude in an archfey's court. 
@@ -17,6 +21,14 @@ All fey honor bargains, and the Feywild runs on gifts and promises. But whether 
 ## The Many Forms of the Fey
 
 The fey are a diverse folk, in appearance more than in nature. The common folk who inhabit the courts and gardens and wild paths of the Feywild, and sometimes find themselves on the Material Plane, do not divide themselves by form. Mortals on the Material Plane, however, typically distinguish these common forms.
+
+> [!gallery]
+> - ![[fey-reserved-courtier.webp]]
+>   *A fae courtier.*
+> - ![[fey-satyr-fiddler.webp]]
+>   *A satyr musician.*
+> - ![[fey-river-nymph-at-the-bank.webp]]
+>   *A river nymph.*
 
 - The fae, a folk generally human-like in appearance, but possessing an otherworldly elegance and an ethereal quality, are among the most common inhabitants of the Feywild. Though many of them could pass as human or elven to a casual glance, their strange grace and unusual eyes mark them as natives of the Feywild. These are the folk that dominate stories of fey courts, such as [[A Court of Whispers]], the [[Light of the Everglade]], and [[A Fool's Fortune]], and are often described in mortal works as lords and ladies, though whether this reflects mortal confusion or is a true representation of their status in the Feywild is unclear. These folk, usually simply called the fey by mortals, though often spelled fae, are who the mortals in many parts of Taelgar likely imagine, if they ever think on the Feywild. Some of these folk can change their appearance at will; those who can do this are often referred to as changelings in legends and poems from the mortal world. 
 - Rarer on the Material Plane, but common in the Feywild are the sometimes mischievous, sometimes helpful, often winged, and always magical fairies. These folk are usually small, and include creatures like the pixies, sprites, and brownies. 
@@ -40,6 +52,10 @@ Fey names are as diverse as the fey themselves.
 Gifts, hospitality, and promises are central to the [[Feywild]] and to fey understanding of the world. They bind the fey to one another and to mortals. Accepting a gift can bring an obligation to offer something in return, even when the recipient does not understand what they have accepted. Among some fey, these exchanges sustain generous hospitality and lasting friendships; among others, they offer opportunities for deception and coercion. Bargains carry magical power, and the price of a seemingly simple favor may reach far beyond what a mortal expects.
 
 ## Realms, Courts, and Archfey
+
+> [!image|hero]
+> ![[fey-a-humble-gift-at-court.webp]]
+> *A mortal traveler offers a carved wooden bird at a fey feast.*
 
 The strangest and most powerful of the fey are the Archfey. They are the great powers of the [[Feywild]], singular beings who rule the diverse realms of the Feywild, and whose realms take shape around their nature. An archfey’s domain is not merely ruled: its light, weather, paths, hungers, splendors, and dangers all echo the character of the power at its heart. Some realms become courts of beauty, revelry, and impossible grace; others darken into decay, fear, or ruin. Few mortals encounter an archfey directly, and those who do rarely return unchanged.
 

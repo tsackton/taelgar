@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature]
+tags: [creature, status/check/ai]
 name: Humans
 aliases: [human]
 dm_owner: joint
@@ -9,6 +9,10 @@ dm_notes: none
 POV: modern
 ---
 # Humans
+
+> [!image|hero]
+> ![[humans-tollen-quays.webp]]
+> *A conversation on the quays of [[Tollen]].*
 
 From the shores of the [[Green Sea]] to the slopes of the [[Sentinel Range|Sentinels]], from the arid scrublands of the [[Hara Basin]] to the fertile riverlands of the [[Sembara|Sembaran heartlands]], humans have settled nearly everywhere that people can live across Taelgar. They are by far the most numerous sapient species in Taelgar, widespread and culturally diverse, speaking many languages and worshipping many gods. Humans were created by the [[Divine Presence]] on [[Hkar]], their ancient homeland, and spread across the world in a series of migrations large and small, culminating in the [[The Downfall|Downfall]], when [[Hkar]] was destroyed and humans fled their homeland forever. Endowed with the [[Divine Spark]], humans carry the power to bring gods into being through their belief. These gods wax and wane with the faith of their worshippers, tying divine power to the changeable fates of the human communities that worship them, and creating a diversity of religious traditions across the world. Across Taelgar, the descendants of Hkar have built a multitude of cultures, carrying languages, customs, and gods into new homelands and reshaping them along the way.
 
@@ -43,6 +47,14 @@ Human settlements range from crowded ports and bustling agricultural market town
 
 Many human societies are ruled as parts of larger, powerful realms: on the western coast is the [[Chardonian Empire]], with its powerful legions and magical institutions supported by [[Chalyte|chalyte]]; in the fertile river valleys of the [[Western Gulf]] the [[Sembara|Sembaran]] monarchy commands the loyalty of barons and dukes; in the arid central deserts of the [[Hara Basin]] the Samraat of [[Dunmar]] rules with divine blessing over a pastoral people who move their herds with the monsoon rains; in the cold northern forests of [[Ursk]] a mysterious circle of wizards rules and protects the land; from the [[Tollen|Free City of Tollen]] the powerful Tollish navy rules over coastal colonies across the [[Western Gulf]]. 
 
+> [!gallery]
+> - ![[humans-dunmari-herders.webp]]
+>   *Herders move their flock through the grasslands of [[Dunmar]].*
+> - ![[humans-chardonian-scholar.webp]]
+>   *A scholar at the [[University of Chardon]].*
+> - ![[humans-medju-spice-merchant.webp]]
+>   *A spice merchant checks the aroma of a sample in [[Medju]].*
+
 Other human societies find different ways to order their relations: the [[Deno'qai]] of the western forests organize their communities into tribes and villages without a single overarching government; the [[Skaer]] of the [[Western Green Sea]] live in small island communities organized around communal villages and fisheries; and the [[Istabor Alliance|Isinguese]] communities of the [[Refounded Alliance of Aurbez]] live in towns and villages organized around mutual obligations of defense and protection. 
 
 Human settlements also frequently provide homes for other species. Dwarven quarters and halfling-kept inns are familiar features of many human towns and cities. Lizardfolk, while maintaining their own communal authority and customs, often settle near human towns. In cosmopolitan ports such as Tollen, members of many species live alongside one another, from the familiar to the exotic. 
@@ -71,6 +83,10 @@ Trade, conquest, and resettlement, in turn, brought human and nonhuman cultures 
 
 The complex history of human movements and migrations means that language, religion, political identity, and cultural history can all follow unique paths. In parts of the [[Highlands|Sembaran Highlands]], for example, the [[Zimka]] speak an Eastros language, worship Northerner gods, and owe allegiance to kingdoms deeply shaped by the Drankorian political order. While ancient migrations have left their mark on the world, the years of change and cultural evolution mean they are not the same as modern day cultures. 
 
+> [!image|figure standard]
+> ![[humans-skaer-winter-net-repair.webp]]
+> *Net-mending among the [[Skaer]], descendants of the [[Mariners|mariners]] who left [[Hkar]] before [[The Downfall|the Downfall]].*
+
 ### Religion and Belief
 
 Humanity is unique among the sapient species of the world in possessing the [[Divine Spark]], which allows human belief to sustain divinities. This has led to a diversity of human religions worshipping many [[Incorporeal Gods]]. 
@@ -84,6 +100,10 @@ Humanity, created by the [[Divine Presence]], is gifted the [[Divine Spark]], th
 #### Religious History and Traditions
 
 Though the [[Divine Presence]] created humanity, unlike the creators of other species, the Divine Presence does not ordinarily answer prayers directly or grant any special magic to humans. From the earliest days of Hkar, humanity began to worship small local gods and intercessory powers, minor divinities who could provide a conduit to the magic of the [[Divine Presence]]. These religious traditions grew into the [[Northern Folk Religions]]; their followers approach the divine through particular places, offerings, and rites intended to draw a god’s attention and secure its intercession.
+
+> [!image|figure standard]
+> ![[humans-kestavo-forest-spring.webp]]
+> *Tending a [[Kestavo|kestavo]] shrine at a forest spring in [[Zimkova]].*
 
 On Hkar, early intercessory cults gave way to pantheonic traditions, worshipping a diversity of gods, which were carried by later migrants from humanity's birthplace. Those who left, the [[mariners]] and the [[Dunmar|Dunmari]] and others, brought their gods with them, developing into new religious traditions across the world. The divine family of the [[Dunmari Religion|Dunmari faith]] and the worship of [[Kaikkea]], the ancient ocean goddess of the Skaer, grew out of these emigrations. 
 

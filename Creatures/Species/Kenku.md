@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature]
@@ -10,8 +11,11 @@ dm_notes: none
 POV: modern
 ---
 # Kenku
-
 *(KEHN-koo)*
+
+> [!image|hero]
+> ![[kenku-flight-along-the-foothills.webp]]
+> *A kenku glides above the foothills where the mountains meet the northern plains.*
 
 Kenku, the birdfolk of Taelgar, favor high places and steady winds. Clifftop towns perch above sheltered harbors in the [[Eastern Green Sea]], while bands in the far north fly the summer thermals where the [[Sentinel Range|Sentinels]] meet the plains. Kenku are enigmatic and private, and most kenku settlements are in places unreachable by those who cannot fly. Nonetheless, kenku travelers and wanderers are not an uncommon sight around the Green Sea, and across Taelgar many common folk know of kenku from garbled stories and rumors of the [[Great War]].
 
@@ -36,6 +40,10 @@ In much of the Green Sea, kenku travelers are more common than settlements, and 
 
 Kenku are rarely seen, though not unheard of, west of the [[Sentinel Range]] and south of the [[Green Sea]].
 
+> [!image|figure standard]
+> ![[kenku-wahacha-trader.webp]]
+> *A kenku trader and a halfling at the harbor of Wahacha.*
+
 ## Cultural Traits
 
 Though individual kenku vary as all people do, the kenku as a species are a reclusive people. They build settlements around flight, making them largely inaccessible to those who cannot fly, and perhaps because of their traumatic experiences in and before the [[Great War]], tend to avoid speaking too much of their history and culture to outsiders. 
@@ -43,6 +51,10 @@ Though individual kenku vary as all people do, the kenku as a species are a recl
 ### Aerie Homes
 
 Like the birds they resemble, kenku build settlements that tend to occupy high places, with no roads and a vertical orientation. They frequently take advantage of natural landscapes, so many kenku villages are built on cliffs or mountains, prioritizing defensibility and open vistas over accessibility to outsiders who cannot fly. A typical kenku town might be arrayed in caves and structures carved into the sides of a massive cliff wall, with larger clusters of buildings at high points where houses can group together, or perhaps constructed as a series of towers and perches with no interior stairs at all. In some places, such as the Eastern Green Sea, where kenku frequently trade with other species, they may maintain some infrastructure accessible to those without wings, but rarely do kenku settlements sprawl across the landscape and kenku rarely settle in places where they cannot occupy high ground. 
+
+> [!image|figure standard]
+> ![[kenku-cliffside-aerie.webp]]
+> *Cliffside homes open onto landing ledges high above the valley.*
 
 ### A Private People
 
@@ -53,6 +65,10 @@ Not all kenku share these attitudes, and as the [[Great War]] fades to a distant
 ## Historical Perspective
 
 Though kenku rarely speak of their history, it is well-known that many kenku were subjugated by [[Cha'mutte]] before and during the [[Great War]], living in squalor in [[Pandar]] and forced to work to support [[Cha'mutte]]'s war effort. Freed kenku warriors were among the fiercest opponents of [[Cha'mutte]] in the [[Great War]] and many died in the fighting. After the [[Great War]], many kenku retreated from settled lands to make their own way in the north, finding places where they could live in isolation and peace away from the traumas of the world. 
+
+> [!image|figure standard]
+> ![[kenku-great-war-warriors.webp]]
+> *Kenku warriors during the Great War.*
 
 Some people, especially traders on the Green Sea, speak of kenku living in the eastern Green Sea who were never under Cha'mutte's thumb, and may preserve a memory of the pre-War history of the species. But if they do, they do not speak of it. 
 
