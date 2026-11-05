@@ -1,0 +1,469 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-011",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+    "sessionYamlSha256": "3a2169c7ff255e73b3323158a5b1ce7824d871b9bd72103c93d48fbc80e26e4f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-transcript.md",
+    "transcriptSha256": "c9d7cef4ccf907614ef27a88e928bd8dda30be49827fdd0f6049093406ce11f6",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-segments.json",
+      "sha256": "b46e2d6495d1b1c09a7d333b8abb07b88d5bf377485df41dd4fbc6d169084550",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Scouts intercept an undead gnoll outside the keep",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Acts before the gnoll can retreat indoors. His initial attack misses (resolved by the DM as a staff swing); he spends one ki on Flurry of Blows, lands both punches, and kills it before Wellby or the gnoll acts.",
+              "evidence": [
+                {
+                  "startUid": "u0770",
+                  "endUid": "u0791"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The undead gnoll is killed before it can enter the keep.",
+        "evidence": [
+          {
+            "startUid": "u0788",
+            "endUid": "u0791"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s010",
+      "encounter": "Demon and undead gnolls in Raven’s Hold keep",
+      "openingActions": [
+        {
+          "actor": "Wellby",
+          "kind": "turn",
+          "summary": "Shoots the demon with advantage from hiding and hits; damage is taken from a corrected roll but no total is spoken. Moves outside around the corner and hides.",
+          "evidence": [
+            {
+              "startUid": "u1467",
+              "endUid": "u1497"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Peers in and fires his crossbow at the demon; the bolt misses, bouncing off its hide.",
+          "evidence": [
+            {
+              "startUid": "u1498",
+              "endUid": "u1507"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Moves up, Hexes the demon, imposing disadvantage on Wisdom ability checks, then misses with Eldritch Blast.",
+          "evidence": [
+            {
+              "startUid": "u1508",
+              "endUid": "u1531"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Goat-like demon",
+              "kind": "turn",
+              "summary": "Delwath succeeds on the Constitution save against its gaze, so the gaze has no effect. It howls curses telepathically, leaps to Delwath, and misses him with both barbed tail and claws.",
+              "evidence": [
+                {
+                  "startUid": "u1527",
+                  "endUid": "u1554"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Steps into the doorway and hits an undead gnoll with a manifested throwing dagger. Forgoes a second attack and attempts to hide with disadvantage from exhaustion.",
+              "evidence": [
+                {
+                  "startUid": "u1556",
+                  "endUid": "u1571"
+                }
+              ]
+            },
+            {
+              "actor": "Undead gnoll struck by Vola",
+              "kind": "turn",
+              "summary": "Moves and dashes out through the doorway.",
+              "evidence": [
+                {
+                  "startUid": "u1564",
+                  "endUid": "u1579"
+                }
+              ]
+            },
+            {
+              "actor": "Undead gnoll beside Delwath",
+              "kind": "turn",
+              "summary": "Moves to Delwath, bites him for 5 piercing damage, and misses with its arm bash.",
+              "evidence": [
+                {
+                  "startUid": "u1582",
+                  "endUid": "u1587"
+                }
+              ]
+            },
+            {
+              "actor": "Third undead gnoll",
+              "kind": "turn",
+              "summary": "Dashes but cannot attack this turn; it does not see Wellby pressed against the wall in shadow. Wellby considers moving as a reaction, then remains hidden.",
+              "evidence": [
+                {
+                  "startUid": "u1589",
+                  "endUid": "u1605"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Replaces his proposed melee approach with an energy-lash attack on the demon. The demon succeeds on its save, takes half damage, and is not pulled; Kenzo then moves over.",
+              "evidence": [
+                {
+                  "startUid": "u1618",
+                  "endUid": "u1648"
+                }
+              ],
+              "note": "The saving-throw ability and damage total are not spoken; the final movement is partly garbled."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Activates her smite as a bonus action and swings Shatterstorm, missing. The smite remains active pending a hit while she maintains concentration.",
+              "evidence": [
+                {
+                  "startUid": "u1651",
+                  "endUid": "u1668"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Still hidden, draws his shortsword and hits the adjacent undead gnoll with advantage and sneak attack for 17 damage, killing it; afterward uses his bonus action to move back for visibility.",
+              "evidence": [
+                {
+                  "startUid": "u1669",
+                  "endUid": "u1692"
+                }
+              ]
+            },
+            {
+              "actor": "Undead gnoll near Vola",
+              "kind": "reaction",
+              "summary": "When Wellby kills a gnoll, a gnoll gains vengeful energy and bites Vola for a small, unspecified amount of damage.",
+              "evidence": [
+                {
+                  "startUid": "u1682",
+                  "endUid": "u1690"
+                }
+              ],
+              "note": "The map-pointing phrase “this one” does not securely identify the reacting gnoll as the one just killed or another nearby gnoll."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Hits the gnoll previously injured by Vola with his crossbow; it staggers but remains standing. Runs back toward Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1697",
+                  "endUid": "u1707"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Applies Hexblade’s Curse to the demon, then critically hits on a 19 with his shadow sword. The stated total is 16 before Hex, resolved to 17 with Hex. Stays in place.",
+              "evidence": [
+                {
+                  "startUid": "u1708",
+                  "endUid": "u1725"
+                }
+              ]
+            },
+            {
+              "actor": "Goat-like demon",
+              "kind": "turn",
+              "summary": "Says “Enough!” and casts an unnamed effect at Kenzo, Delwath, and Riswynn. All three succeed on Wisdom saves and shake it off without effect.",
+              "evidence": [
+                {
+                  "startUid": "u1726",
+                  "endUid": "u1739"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Strikes the injured gnoll with a newly manifested shimmering blade and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1740",
+                  "endUid": "u1744"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining undead gnoll",
+              "kind": "turn",
+              "summary": "Attempts to bite and bash Delwath; both attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u1745",
+                  "endUid": "u1748"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Misses the demon with his quarterstaff, then uses Flurry of Blows: one solid punch lands and the other misses.",
+              "evidence": [
+                {
+                  "startUid": "u1750",
+                  "endUid": "u1762"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Misses another hammer attack; her smite is confirmed still active.",
+              "evidence": [
+                {
+                  "startUid": "u1763",
+                  "endUid": "u1769"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and uses Cunning Action to move again for a line of sight, then shoots at a partly covered target (+2 AC); the shot fails to connect.",
+              "evidence": [
+                {
+                  "startUid": "u1770",
+                  "endUid": "u1781"
+                }
+              ],
+              "note": "The target is indicated on the map rather than clearly named."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves toward the doorway, grants Wellby Bardic Inspiration to enhance one roll, and uses his action to dash up behind Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1782",
+                  "endUid": "u1805"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the demon; after correcting the spoken arithmetic, states 16 total damage.",
+              "evidence": [
+                {
+                  "startUid": "u1807",
+                  "endUid": "u1810"
+                }
+              ]
+            },
+            {
+              "actor": "Goat-like demon",
+              "kind": "turn",
+              "summary": "Hits Delwath with its tail for 16 damage, dropping him to zero. Delwath’s Constitution save fails and he is poisoned, with boils and flies appearing. Misses Kenzo with its claws, stands over Delwath, and uses its gaze on Kenzo. Kenzo fails the Constitution save and his Strength-based attacks would deal half damage, but his attacks do not use Strength.",
+              "evidence": [
+                {
+                  "startUid": "u1813",
+                  "endUid": "u1850"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining undead gnoll",
+              "kind": "turn",
+              "summary": "Bites Riswynn for 5 piercing damage and bashes her for 4, totaling 9. She succeeds on both Constitution concentration saves, preserving her smite.",
+              "evidence": [
+                {
+                  "startUid": "u1851",
+                  "endUid": "u1875"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "His main attack and both follow-up unarmed strikes miss.",
+              "evidence": [
+                {
+                  "startUid": "u1876",
+                  "endUid": "u1882"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Misses with the hammer. Discusses healing but cannot add Cure Wounds or administer a potion as a bonus action, so no healing occurs on her turn.",
+              "evidence": [
+                {
+                  "startUid": "u1884",
+                  "endUid": "u1907"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves for visibility but cannot hide while keeping a firing line in the brightly lit room. Shoots the demon with sneak attack available; the attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u1908",
+                  "endUid": "u1926"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves to Delwath, uses Healing Word to restore 5 hit points, then administers his Elixir of Health. Delwath’s poison is removed and his rotting skin, boils, and flies fade. Seeker then runs away, provoking a bite.",
+              "evidence": [
+                {
+                  "startUid": "u1928",
+                  "endUid": "u1979"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining undead gnoll",
+              "kind": "reaction",
+              "summary": "Makes an opportunity bite against the retreating Seeker and misses; its reaction is then unavailable against Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1980",
+                  "endUid": "u1986"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Chooses Misty Step rather than standing beneath the demon, teleporting to a visible point within 30 feet. His Eldritch Blast goes wide; he moves farther away.",
+              "evidence": [
+                {
+                  "startUid": "u1982",
+                  "endUid": "u2019"
+                }
+              ]
+            },
+            {
+              "actor": "Goat-like demon",
+              "kind": "turn",
+              "summary": "Hits Kenzo with its tail for 5 damage. Following a failed Constitution save, Kenzo is poisoned with boils and flies. Its claws hit Kenzo for another 8 damage. Riswynn succeeds on a Constitution save against its weakening gaze, avoiding the effect.",
+              "evidence": [
+                {
+                  "startUid": "u2009",
+                  "endUid": "u2033"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Abandons moving out, throws a manifested dagger from her position, and hits the demon for substantial but unspecified damage, leaving it barely standing; ducks back and attempts to hide.",
+              "evidence": [
+                {
+                  "startUid": "u2034",
+                  "endUid": "u2049"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "His quarterstaff goes wild, but his fist hits despite poison-imposed disadvantage after the required reroll. The blow splits the demon’s horn and it vanishes.",
+              "evidence": [
+                {
+                  "startUid": "u2050",
+                  "endUid": "u2072"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Hits the last gnoll with Shatterstorm for 11 damage plus her still-active fire smite. The gnoll has 12 hit points remaining, so the smite suffices without needing its exact roll; the burning creature collapses dead.",
+              "evidence": [
+                {
+                  "startUid": "u2073",
+                  "endUid": "u2084"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The demon vanishes and all three undead gnolls are dead. The party regroups; Kenzo remains poisoned with visibly diseased flesh.",
+        "evidence": [
+          {
+            "startUid": "u2064",
+            "endUid": "u2070"
+          },
+          {
+            "startUid": "u2083",
+            "endUid": "u2092"
+          }
+        ]
+      },
+      "note": "The table grants Wellby, Seeker, and Delwath opening surprise actions before the regular cycle. Vola has no resolved turn in the third recorded cycle; none is invented."
+    }
+  ]
+}

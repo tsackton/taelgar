@@ -1,0 +1,863 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-011",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+    "sessionYamlSha256": "3a2169c7ff255e73b3323158a5b1ce7824d871b9bd72103c93d48fbc80e26e4f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-transcript.md",
+    "transcriptSha256": "c9d7cef4ccf907614ef27a88e928bd8dda30be49827fdd0f6049093406ce11f6"
+  },
+  "places": {
+    "p01": {
+      "label": "Raven's Hold",
+      "kind": "stronghold",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0025",
+          "quote": "OK, so we begin tonight as the sun is setting over Raven's Hold."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+    },
+    "p02": {
+      "label": "North tower study",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0025",
+          "quote": "Now it's dusk. Red light of the sunset is streaming through the narrow windows of the north tower, where you have come to catch your breath in what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the howls of beasts—hyenas, lions, jackals, wild dogs—in the distance, fading and then growing stronger as something stirs them up, and then fading again, from the outer courtyard beyond the towers. The stench of rotting sulphurous flesh and a faint tinge of ash in your mouth rises from the inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep."
+        },
+        {
+          "startUid": "u0089",
+          "endUid": "u0096",
+          "quote": "Ah, right, when you first pass through here, it was, it seemed like it had been undisturbed for years. Right. And as far as you could tell, there was a door. So there was a entry way to the north. So there's a north tower and the south tower. Vola was in the south tower."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0020",
+              "endUid": "u0025",
+              "quote": "Now it's dusk. Red light of the sunset is streaming through the narrow windows of the north tower, where you have come to catch your breath in what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the howls of beasts—hyenas, lions, jackals, wild dogs—in the distance, fading and then growing stronger as something stirs them up, and then fading again, from the outer courtyard beyond the towers. The stench of rotting sulphurous flesh and a faint tinge of ash in your mouth rises from the inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "South guard tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0089",
+          "endUid": "u0096",
+          "quote": "Ah, right, when you first pass through here, it was, it seemed like it had been undisturbed for years. Right. And as far as you could tell, there was a door. So there was a entry way to the north. So there's a north tower and the south tower. Vola was in the south tower."
+        },
+        {
+          "startUid": "u0668",
+          "endUid": "u0678",
+          "quote": "As you come to the other. So the other tower has a similar design, right? You come across on the third floor, where they're camped out, which enters into the floor where you fought the, the orc and the jackalweres. You, you go down the floor to another sort of set of like servants apartments, kind of quarters, things like that, that seem to have been used as storage and you know, sort of living, living areas that at one point for, for maybe hobgoblin lieutenants or something like that. But hasn't been—has certainly been trafficked through but not actively used in a while."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0015",
+              "endUid": "u0025",
+              "quote": "After defeating some seemingly recently reanimated undead hobgoblin corpses, some careful scouting revealed signs of gnoll occupation, along with a large number of wild beasts being kept for some unknown purpose. You then found an unguarded passage to the two guard towers of the inner keep, where, in one of these towers, you encountered and freed a prisoner, Vola. Vola Forena of Chardon, who is being guarded by an orc and two shapeshifting jackalweres, seemingly the servants of some entity that she referred to as Agata Dustmother."
+            },
+            {
+              "startUid": "u0668",
+              "endUid": "u0678",
+              "quote": "As you come to the other. So the other tower has a similar design, right? You come across on the third floor, where they're camped out, which enters into the floor where you fought the, the orc and the jackalweres. You, you go down the floor to another sort of set of like servants apartments, kind of quarters, things like that, that seem to have been used as storage and you know, sort of living, living areas that at one point for, for maybe hobgoblin lieutenants or something like that. But hasn't been—has certainly been trafficked through but not actively used in a while."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Inner courtyard outside the keep",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0025",
+          "quote": "Now it's dusk. Red light of the sunset is streaming through the narrow windows of the north tower, where you have come to catch your breath in what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the howls of beasts—hyenas, lions, jackals, wild dogs—in the distance, fading and then growing stronger as something stirs them up, and then fading again, from the outer courtyard beyond the towers. The stench of rotting sulphurous flesh and a faint tinge of ash in your mouth rises from the inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0020",
+              "endUid": "u0025",
+              "quote": "Now it's dusk. Red light of the sunset is streaming through the narrow windows of the north tower, where you have come to catch your breath in what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the howls of beasts—hyenas, lions, jackals, wild dogs—in the distance, fading and then growing stronger as something stirs them up, and then fading again, from the outer courtyard beyond the towers. The stench of rotting sulphurous flesh and a faint tinge of ash in your mouth rises from the inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Main keep",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0025",
+          "quote": "Now it's dusk. Red light of the sunset is streaming through the narrow windows of the north tower, where you have come to catch your breath in what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the howls of beasts—hyenas, lions, jackals, wild dogs—in the distance, fading and then growing stronger as something stirs them up, and then fading again, from the outer courtyard beyond the towers. The stench of rotting sulphurous flesh and a faint tinge of ash in your mouth rises from the inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0020",
+              "endUid": "u0025",
+              "quote": "Now it's dusk. Red light of the sunset is streaming through the narrow windows of the north tower, where you have come to catch your breath in what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the howls of beasts—hyenas, lions, jackals, wild dogs—in the distance, fading and then growing stronger as something stirs them up, and then fading again, from the outer courtyard beyond the towers. The stench of rotting sulphurous flesh and a faint tinge of ash in your mouth rises from the inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Ruined chapel",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0704",
+          "endUid": "u0723",
+          "quote": "Okay, so you begin sort of creeping across the sort of misty ground, peering into the first window you come to, which is dark, and it seems to be a—like the ruined remains of a chapel. There's like rubble strewn everywhere. Um, there's a large pile of sort of bones and rotting bodies that has accumulated, kind of blocking. So it's a long rectangular hall, sort of looking in from this broken stained glass. There's what would be a door, entryway into the sort of main hall, has been blocked by this pile of bones and, and rotting bodies."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0704",
+              "endUid": "u0723",
+              "quote": "Okay, so you begin sort of creeping across the sort of misty ground, peering into the first window you come to, which is dark, and it seems to be a—like the ruined remains of a chapel. There's like rubble strewn everywhere. Um, there's a large pile of sort of bones and rotting bodies that has accumulated, kind of blocking. So it's a long rectangular hall, sort of looking in from this broken stained glass. There's what would be a door, entryway into the sort of main hall, has been blocked by this pile of bones and, and rotting bodies."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Main hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0803",
+          "endUid": "u0811",
+          "quote": "Okay, so as you then turn around the corner, hoping that nobody has noticed this commotion, ah, you now go and look in the—you turn and look into the—turn and look into the sort of windows that are looking into the main hall from the—from the sort of fireside, and inside the main hall, you see a building—this main hall is sort of filled with haze, smoke that is lightly obscured. Flames flicker just from three or four places around the sides of this hall. Various skulls and heads are kind of nailed up against the wall, some of them with like dried blood around the necks."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0803",
+              "endUid": "u0811",
+              "quote": "Okay, so as you then turn around the corner, hoping that nobody has noticed this commotion, ah, you now go and look in the—you turn and look into the—turn and look into the sort of windows that are looking into the main hall from the—from the sort of fireside, and inside the main hall, you see a building—this main hall is sort of filled with haze, smoke that is lightly obscured. Flames flicker just from three or four places around the sides of this hall. Various skulls and heads are kind of nailed up against the wall, some of them with like dried blood around the necks."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Second-floor study and apartments",
+      "kind": "rooms",
+      "evidence": [
+        {
+          "startUid": "u2303",
+          "endUid": "u2325",
+          "quote": "Okay, so the upstairs, the stairs here lead—so as you put out the—as the fire sort of goes out, some of the smoke clears, and the stairs here leads up to like a balcony that goes around the sort of top of the—of the great hall, sort of looking down. And there's a handful of rooms sort of off the balcony, like above the chapel. There's no room above the, the kitchen, sort of pantry area. That's just the first floor building."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2303",
+              "endUid": "u2325",
+              "quote": "Okay, so the upstairs, the stairs here lead—so as you put out the—as the fire sort of goes out, some of the smoke clears, and the stairs here leads up to like a balcony that goes around the sort of top of the—of the great hall, sort of looking down. And there's a handful of rooms sort of off the balcony, like above the chapel. There's no room above the, the kitchen, sort of pantry area. That's just the first floor building."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Third-floor rooms and roof balcony",
+      "kind": "rooms",
+      "evidence": [
+        {
+          "startUid": "u2416",
+          "endUid": "u2435",
+          "quote": "And then there are stairs up again to a third floor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2416",
+              "endUid": "u2435",
+              "quote": "And then there are stairs up again to a third floor."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Inner gates",
+      "kind": "gate",
+      "evidence": [
+        {
+          "startUid": "u2492",
+          "endUid": "u2499",
+          "quote": "As you—so as you come up there, there is—so you shut the gates, and there are quite solid. But there do seem to be some—so it's dark, and there's sort of mists and, and fog kind of billowing up, but you know something was trying to, with presumably supposed to come in. And there's a three gnolls that are kind of resting against the gates, just kind of looking at each other. And one of them like gets up and bangs on the gate, and then they kind of shrug their shoulders and walk off."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2492",
+              "endUid": "u2499",
+              "quote": "As you—so as you come up there, there is—so you shut the gates, and there are quite solid. But there do seem to be some—so it's dark, and there's sort of mists and, and fog kind of billowing up, but you know something was trying to, with presumably supposed to come in. And there's a three gnolls that are kind of resting against the gates, just kind of looking at each other. And one of them like gets up and bangs on the gate, and then they kind of shrug their shoulders and walk off."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "North tower broken staircase",
+      "kind": "stairway",
+      "evidence": [
+        {
+          "startUid": "u0636",
+          "endUid": "u0650",
+          "quote": "Oh, I think I should go first, since I'm invisible, to the first floor. Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0636",
+              "endUid": "u0650",
+              "quote": "Oh, I think I should go first, since I'm invisible, to the first floor. Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "North tower ground-floor guard area",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0640",
+          "endUid": "u0650",
+          "quote": "Okay, so um, you are—you head down, and about halfway down the stairs. So there's a set of stairs that sort of down the inside of the—of the, the tower, and the going from the third floor to the second floor is fine. You come out, there's the—there's the door to the bridge that you've been on. This is, you know, this is like a storage area, guard area. Going down one more, the steps end after about eight steps, with about a 10 foot drop, to maybe 15 foot drop, to the ground. You can see on the ground it's like a guard entry area, store room and there is a door leading out, but no steps down, which partially explains why this tower seems to have been untouched."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0640",
+              "endUid": "u0650",
+              "quote": "Okay, so um, you are—you head down, and about halfway down the stairs. So there's a set of stairs that sort of down the inside of the—of the, the tower, and the going from the third floor to the second floor is fine. You come out, there's the—there's the door to the bridge that you've been on. This is, you know, this is like a storage area, guard area. Going down one more, the steps end after about eight steps, with about a 10 foot drop, to maybe 15 foot drop, to the ground. You can see on the ground it's like a guard entry area, store room and there is a door leading out, but no steps down, which partially explains why this tower seems to have been untouched."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0020",
+        "endUid": "u0032"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "The party and Vola occupy the north-tower study and bar its door.",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0032",
+          "quote": "Now it's dusk. Red light of the sunset is streaming through the narrow windows of the north tower, where you have come to catch your breath in what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the howls of beasts—hyenas, lions, jackals, wild dogs—in the distance, fading and then growing stronger as something stirs them up, and then fading again, from the outer courtyard beyond the towers. The stench of rotting sulphurous flesh and a faint tinge of ash in your mouth rises from the inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0636",
+        "endUid": "u0650"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "The scouts descend within the north tower but stop at the broken staircase above the ground floor.",
+      "evidence": [
+        {
+          "startUid": "u0636",
+          "endUid": "u0650",
+          "quote": "Oh, I think I should go first, since I'm invisible, to the first floor. Yeah."
+        }
+      ],
+      "from": "p02",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0640",
+        "endUid": "u0650"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "They see the guard area below the broken stairs without making the proposed jump.",
+      "evidence": [
+        {
+          "startUid": "u0640",
+          "endUid": "u0650",
+          "quote": "Okay, so um, you are—you head down, and about halfway down the stairs. So there's a set of stairs that sort of down the inside of the—of the, the tower, and the going from the third floor to the second floor is fine. You come out, there's the—there's the door to the bridge that you've been on. This is, you know, this is like a storage area, guard area. Going down one more, the steps end after about eight steps, with about a 10 foot drop, to maybe 15 foot drop, to the ground. You can see on the ground it's like a guard entry area, store room and there is a door leading out, but no steps down, which partially explains why this tower seems to have been untouched."
+        },
+        {
+          "startUid": "u0660",
+          "endUid": "u0662",
+          "quote": "Well, Wellby, what do you think? I could hop down here, and or do you want to go...? You want to stay together?"
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p11",
+      "mode": "local"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0668",
+        "endUid": "u0678"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "The scouts cross to the other tower and descend its intact stairs to the courtyard door.",
+      "evidence": [
+        {
+          "startUid": "u0668",
+          "endUid": "u0678",
+          "quote": "As you come to the other. So the other tower has a similar design, right? You come across on the third floor, where they're camped out, which enters into the floor where you fought the, the orc and the jackalweres. You, you go down the floor to another sort of set of like servants apartments, kind of quarters, things like that, that seem to have been used as storage and you know, sort of living, living areas that at one point for, for maybe hobgoblin lieutenants or something like that. But hasn't been—has certainly been trafficked through but not actively used in a while."
+        }
+      ],
+      "from": "p11",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Cross the connecting bridge, then descend the south tower."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0694",
+        "endUid": "u0712"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "The scouts creep across the misty courtyard to the chapel window.",
+      "evidence": [
+        {
+          "startUid": "u0704",
+          "endUid": "u0712",
+          "quote": "Okay, so you begin sort of creeping across the sort of misty ground, peering into the first window you come to, which is dark, and it seems to be a—like the ruined remains of a chapel. There's like rubble strewn everywhere. Um, there's a large pile of sort of bones and rotting bodies that has accumulated, kind of blocking. So it's a long rectangular hall, sort of looking in from this broken stained glass. There's what would be a door, entryway into the sort of main hall, has been blocked by this pile of bones and, and rotting bodies."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0704",
+        "endUid": "u0723"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "From outside, the scouts inspect the ruined chapel and its smashed altar through the window.",
+      "evidence": [
+        {
+          "startUid": "u0704",
+          "endUid": "u0723",
+          "quote": "Okay, so you begin sort of creeping across the sort of misty ground, peering into the first window you come to, which is dark, and it seems to be a—like the ruined remains of a chapel. There's like rubble strewn everywhere. Um, there's a large pile of sort of bones and rotting bodies that has accumulated, kind of blocking. So it's a long rectangular hall, sort of looking in from this broken stained glass. There's what would be a door, entryway into the sort of main hall, has been blocked by this pile of bones and, and rotting bodies."
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p04",
+      "mode": "local"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0803",
+        "endUid": "u0863"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "After the lone-gnoll encounter, the scouts peer through a window into the smoky main hall and see the demon.",
+      "evidence": [
+        {
+          "startUid": "u0803",
+          "endUid": "u0811",
+          "quote": "Okay, so as you then turn around the corner, hoping that nobody has noticed this commotion, ah, you now go and look in the—you turn and look into the—turn and look into the sort of windows that are looking into the main hall from the—from the sort of fireside, and inside the main hall, you see a building—this main hall is sort of filled with haze, smoke that is lightly obscured. Flames flicker just from three or four places around the sides of this hall. Various skulls and heads are kind of nailed up against the wall, some of them with like dried blood around the necks."
+        },
+        {
+          "startUid": "u0815",
+          "endUid": "u0822",
+          "quote": "And sort of pacing back and forth in this chamber, like from fire to fire, is a demonic creature. A sort of goat like two headed bipedal creature with horns, long barbed tail, vicious claws, sort of reddish brown fur around. But everywhere, all over its body, little like festering sores, like flies buzzing around its head, and like sort of void-like red—well, not red, that's too clichéd—um, deep black eyes that seemed to be..."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0863",
+          "quote": "Ah, currently in the room, there are two of them, two of the gnoll creatures."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p04",
+      "mode": "local"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0957",
+        "endUid": "u0967"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "The scouts complete their circuit and return to the north tower.",
+      "evidence": [
+        {
+          "startUid": "u0964",
+          "endUid": "u0967",
+          "quote": "Okay, you quietly sneak back up to the tower and return about an hour later, after the scouting. Little less than an hour, but you've been doing it quietly and slowly. Everybody else is finishing a short rest."
+        }
+      ],
+      "from": "p04",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1155",
+        "endUid": "u1172"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby returns alone to the exterior window lookout for the accepted hour of watching.",
+      "evidence": [
+        {
+          "startUid": "u1157",
+          "endUid": "u1163",
+          "quote": "Yeah, yeah, somebody could certainly sneak back to where you were. I mean, so there was a spot like where you could watch through one of the, like, window into that main room, and you're in the darkness. The room is lit up, so it's hard to see you."
+        },
+        {
+          "startUid": "u1167",
+          "endUid": "u1172",
+          "quote": "So over the course of an hour, as the sun sets and full darkness takes hold, you can see it continue to sort of pace, agitated, until maybe half an hour after sunset, roughly. It walks to the door of the temple or chapel where the large pile of dead creatures was."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1167",
+        "endUid": "u1193"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the dark exterior, Wellby watches the demon bring carcasses from the chapel and score them at the hall fire.",
+      "evidence": [
+        {
+          "startUid": "u1157",
+          "endUid": "u1159",
+          "quote": "Yeah, yeah, somebody could certainly sneak back to where you were. I mean, so there was a spot like where you could watch through one of the, like, window into that main room, and you're in the darkness. The room is lit up, so it's hard to see you."
+        },
+        {
+          "startUid": "u1173",
+          "endUid": "u1184",
+          "quote": "On the way, it sort of smacks another one of these—he's like, gnoll zombie creatures out of the way, which seemed to just be kind of following it around, almost like large versions of flies. It doesn't seem to be paying that much attention, and it grabs two dead carcasses of antelopes and it drags them into the center of the—of the room. Actually, now at this point, make a Stealth check."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p04",
+      "mode": "local"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1205",
+        "endUid": "u1208"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby returns to report the ritual to the others; this is an accepted compressed transition back to the tower.",
+      "evidence": [
+        {
+          "startUid": "u1205",
+          "endUid": "u1208",
+          "quote": "I want to go right back. Okay, so I'll relate everything that I said—saw and just really emphasize the grossness. Reading."
+        }
+      ],
+      "from": "p04",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1372",
+        "endUid": "u1386"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "The party closes the gates and crosses the inner courtyard toward the keep entrances.",
+      "evidence": [
+        {
+          "startUid": "u1372",
+          "endUid": "u1376",
+          "quote": "Okay, we're closing—we're closing the door. Yes. Wait."
+        },
+        {
+          "startUid": "u1380",
+          "endUid": "u1386",
+          "quote": "Okay, Kenzo. Who do I still need? Wellby and Seeker. So you're all sort of coming over."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Close the inner gates on the way.",
+          "place": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u1439",
+        "endUid": "u1455"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "The assault is fought at the main hall and its entrances, with combatants moving between the hall and courtyard.",
+      "evidence": [
+        {
+          "startUid": "u1384",
+          "endUid": "u1386",
+          "quote": "Okay, so you're coming over. This over here is the chapel. Here is the main entry way. So if you're all started sneaking around, make—everybody makes Stealth checks."
+        },
+        {
+          "startUid": "u1439",
+          "endUid": "u1455",
+          "quote": "Roll initiative. Okay, so Delwath, nine. Okay, so um, as you begin to approach, let's see what's next. So who rolled above a 16?"
+        }
+      ],
+      "place": "p07",
+      "note": "This encounter setting does not assert that every participant stands inside at every point."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2198",
+        "endUid": "u2206"
+      },
+      "actors": [
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "Wellby goes outside to watch the courtyard, and Riswynn joins him.",
+      "evidence": [
+        {
+          "startUid": "u2198",
+          "endUid": "u2200",
+          "quote": "You know what, Tim? Actually, well everyone's searching, I'm going to go back outside and just look and see if there's other movement or sound or what's going on. Are there people at the gate, like...?"
+        },
+        {
+          "startUid": "u2205",
+          "endUid": "u2206",
+          "quote": "And yeah, let's see. Okay, so that fires put out. I'll just go out with him and look around two, okay."
+        }
+      ],
+      "from": "p07",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u2264",
+        "endUid": "u2289"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Wellby and Delwath investigate the chapel remains and corpse pile before going upstairs.",
+      "evidence": [
+        {
+          "startUid": "u2264",
+          "endUid": "u2279",
+          "quote": "You'll search through this stuff in this room, right? Like chambers and the piles of corpses and things?"
+        },
+        {
+          "startUid": "u2285",
+          "endUid": "u2289",
+          "quote": "It's a, it's a mixed... There's probably, you know in this pile and scattered around between the skulls and the bodies, as probably like 30 animals piled up here, of varying ages, but, but none you know, so old that they're you know, completely rotted away. Right so it might be some that are a week or two old, but none that are three months old. But there's nothing else really to find."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2291",
+        "endUid": "u2325"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker",
+        "Riswynn",
+        "Delwath"
+      ],
+      "reading": "The investigators head upstairs into the second-floor balcony, study and apartments.",
+      "evidence": [
+        {
+          "startUid": "u2291",
+          "endUid": "u2308",
+          "quote": "Let's go upstairs."
+        },
+        {
+          "startUid": "u2312",
+          "endUid": "u2325",
+          "quote": "Is everybody here except Kenzo?"
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "note": "Kenzo and Vola remain outside; their position is confirmed when Delwath joins them."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2331",
+        "endUid": "u2347"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath leaves the upstairs group and joins Kenzo and Vola outside the keep.",
+      "evidence": [
+        {
+          "startUid": "u2331",
+          "endUid": "u2340",
+          "quote": "I'm going to turn to the rest of the group say, \"I'm gonna go check on Kenzo.\""
+        },
+        {
+          "startUid": "u2343",
+          "endUid": "u2347",
+          "quote": "To cuz I'll sort of slowly walk towards them."
+        }
+      ],
+      "from": "p08",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u2336",
+        "endUid": "u2347"
+      },
+      "actors": [
+        "Kenzo",
+        "Vola"
+      ],
+      "reading": "Kenzo meditates outside with Vola beside him, quietly speaking to him.",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2347",
+          "quote": "Okay, so he's—you see him sitting in meditation, Vola sitting next to—the earth, the ground, is trembling slightly. His eyes are piercing blue, like diamonds."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2416",
+        "endUid": "u2435"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "The remaining investigators ascend to search the third-floor rooms and roof balcony.",
+      "evidence": [
+        {
+          "startUid": "u2416",
+          "endUid": "u2426",
+          "quote": "And then there are stairs up again to a third floor."
+        },
+        {
+          "startUid": "u2427",
+          "endUid": "u2435",
+          "quote": "Will get better at this. We're not..."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2470",
+        "endUid": "u2490"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "After the investigators descend and rejoin those outside, everyone returns to the north-tower resting place.",
+      "evidence": [
+        {
+          "startUid": "u2470",
+          "endUid": "u2488",
+          "quote": "Okay, um, so, ah, I'm—so Kenzo and Vola are just still sitting next to each other, I'm—Delwath a sort of watching them."
+        },
+        {
+          "startUid": "u2489",
+          "endUid": "u2490",
+          "quote": "Okay, so you all head back to the main—that sort of tower where you originally were resting in. Yeah, okay."
+        }
+      ],
+      "from": "p04",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u2491",
+        "endUid": "u2499"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the tower, the party sees three gnolls outside the closed gates, which they eventually leave.",
+      "evidence": [
+        {
+          "startUid": "u2491",
+          "endUid": "u2499",
+          "quote": "There any sign that anything has changed?"
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p02",
+      "mode": "local"
+    }
+  ]
+}
