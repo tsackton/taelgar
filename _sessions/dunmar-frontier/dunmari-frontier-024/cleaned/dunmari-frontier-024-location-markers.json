@@ -696,7 +696,7 @@
       "id": "l12",
       "type": "observation",
       "source": {
-        "startUid": "u1187",
+        "startUid": "u1182",
         "endUid": "u1197"
       },
       "actors": [
@@ -705,13 +705,19 @@
       "reading": "Inspect activity at the fort through the spyglass.",
       "evidence": [
         {
+          "startUid": "u1182",
+          "endUid": "u1183",
+          "quote": "Wellby: And in fact, actually, wait, Tim, kind of retcon, because I feel it the same thing. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?"
+        },
+        {
           "startUid": "u1187",
           "endUid": "u1197",
           "quote": "DM: Yeah, it's about a thumb. Yeah, make a Perception check. Um, so, I mean, you see a fair—like, especially peering through your spyglass, you see a fair bit of activity at the orc fort. More than when you were scouting as a—as a—as a hawk, but of course that was mid-afternoon—that was like lunchtime 1130 when when people are given the desert heat, everybody's kind of starting to take the rest break. There's—there's several groups of orcs that you can see—presumably or. Even in the spyglass, it's a little bit far to identify types of humanoids, but presumably orcs—moving towards the city.\n\nDM: And there are several moving, so it seems like there's one group that's moving slowly, as if they are tracking or searching um in the direction of the monastery. Come—and then there's another that you can see that's kind of heading that's on the like dry riverbed like right about here. So there's one like here and one like here that seemed to be moving slowly across the desert like groups of of like six, seven orcs like about the size of the band that you fought."
         }
       ],
       "place": "p10",
-      "mode": "remote"
+      "mode": "remote",
+      "observerPlace": "p01"
     },
     {
       "id": "l13",

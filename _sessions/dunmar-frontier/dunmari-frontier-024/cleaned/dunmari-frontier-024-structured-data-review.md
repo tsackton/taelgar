@@ -43,7 +43,7 @@ Working dates use YAML, 1748-05-11 through 1748-05-13. Two completed overnights 
 
 | Observed location | Observer | From | Markers |
 | --- | --- | --- | --- |
-| Orc fort | Wellby (spyglass) | — | l12 |
+| Orc fort | Wellby (spyglass) | [Monastery of Bhishma](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Monastery%20of%20Bhishma.md) | l12 |
 | [Kharsan](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Kharsan.md) › Palace | Wellby (hawk / Beast Sense) | Cliff shelter west of Kharsan | l16 |
 | [Kharsan](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Kharsan.md) › Palace › Palace throne room | Seeker (Clairvoyance) | [Kharsan](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Kharsan.md) — Stone bridge over the dry river | l19–l20 |
 

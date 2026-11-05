@@ -9,7 +9,14 @@
     "yamlDates": {
       "start": "1748-05-13",
       "end": "1748-05-23"
-    }
+    },
+    "contextSources": [
+      {
+        "label": "DF26 opening transcript",
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md",
+        "sha256": "4fb4a28eb11795bf7ab769f0ae0458c38e6a367f4e02cb8e702d8502a97baf9f"
+      }
+    ]
   },
   "markers": [
     {
@@ -521,7 +528,7 @@
   ],
   "yamlCheck": {
     "status": "compatible",
-    "dateAnchor": "No absolute calendar date is spoken. May 13–23 comes from YAML, not independent transcript dating.",
+    "dateAnchor": "DF25 gives no absolute calendar date. The May 13–23 span comes from YAML.",
     "expectedDateBoundaries": 10,
     "supportedDateBoundaries": null,
     "evidence": [
@@ -550,7 +557,7 @@
       "evidence": [
         "t16"
       ],
-      "reading": "Arrival wording leaves the final calendar boundary ambiguous.",
+      "reading": "DF25 gives two counts for the return to Karawa. On the same approach in DF26 (u0005–u0009), the DM says “it’s May 23” and places departure from the stone house about five days earlier. This supports the inclusive sixth-day reading.",
       "alternatives": [
         {
           "reading": "Inclusive sixth travel day after departing May 18, conditional on YAML opening date.",
