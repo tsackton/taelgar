@@ -1,0 +1,408 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-010",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+    "sessionYamlSha256": "e1e45132e4b94723f0d8cc776648adaa4a63eaeccdeb9d4113231c83be08f686",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+    "transcriptSha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-segments.json",
+      "sha256": "8981c12f6964a2f1271aef34a93d1620d3e00cf303ba762a4bfe6abe926742e6",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s006",
+      "encounter": "Undead hobgoblins in the old prison",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Throws the light-bearing spearpoint into the room, illuminating the surprised creatures as the hidden attackers open fire.",
+              "evidence": [
+                {
+                  "startUid": "u1149",
+                  "endUid": "u1152"
+                },
+                {
+                  "startUid": "u1165",
+                  "endUid": "u1171"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fires his crossbow with advantage from being hidden and hits the nearer undead hobgoblin. The two projectiles and Eldritch Blast together deal 24 damage and kill it; individual damage allocations are not clear.",
+              "evidence": [
+                {
+                  "startUid": "u1132",
+                  "endUid": "u1161"
+                },
+                {
+                  "startUid": "u1165",
+                  "endUid": "u1171"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the same nearer creature with Eldritch Blast, with advantage from hiding/invisibility, contributing to the 24-damage kill. Attacking ends his invisibility, explicitly confirmed later in this fight.",
+              "evidence": [
+                {
+                  "startUid": "u1135",
+                  "endUid": "u1161"
+                },
+                {
+                  "startUid": "u1165",
+                  "endUid": "u1171"
+                },
+                {
+                  "startUid": "u1216",
+                  "endUid": "u1218"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the nearer undead hobgoblin with advantage from hiding, contributing to the combined 24 damage that kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1150",
+                  "endUid": "u1171"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining undead hobgoblin",
+              "kind": "turn",
+              "summary": "Is surprised and cannot act; the DM explicitly corrects the description from stunned to surprised.",
+              "evidence": [
+                {
+                  "startUid": "u1165",
+                  "endUid": "u1171"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Chooses Sacred Flame instead of Turn Undead. The remaining creature fails its Dexterity save and takes 5 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1186",
+                  "endUid": "u1190"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Reloads and hits the remaining undead hobgoblin with his crossbow, no longer with advantage because he is no longer hidden; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1187",
+                  "endUid": "u1195"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the remaining creature with Eldritch Blast from about 30–40 feet away; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1196",
+                  "endUid": "u1200"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Cannot both hide and retain line of sight, so makes a regular ranged attack and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1201",
+                  "endUid": "u1209"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining undead hobgoblin",
+              "kind": "turn",
+              "summary": "Dashes about 40 feet to reach Delwath in melee, hissing and snarling; no attack is resolved on this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1211",
+                  "endUid": "u1215"
+                },
+                {
+                  "startUid": "u1219",
+                  "endUid": "u1221"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the creature beside Delwath with his two-handed quarterstaff for 9 damage, then hits with his bonus unarmed strike and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1222",
+                  "endUid": "u1232"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both undead hobgoblins are dead. The fight is described as quiet; Kenzo ends the encounter before another Riswynn turn is resolved.",
+        "evidence": [
+          {
+            "startUid": "u1210",
+            "endUid": "u1215"
+          },
+          {
+            "startUid": "u1222",
+            "endUid": "u1232"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s008",
+      "encounter": "Orc and shapeshifting guards in the second tower",
+      "openingActions": [
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Casts Sleep on the guard seated by the stairs. The guard falls asleep and slides off the stool with a thump, alerting the other occupants and triggering initiative.",
+          "evidence": [
+            {
+              "startUid": "u2095",
+              "endUid": "u2105"
+            },
+            {
+              "startUid": "u2124",
+              "endUid": "u2128"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Orc and other tower guard",
+              "kind": "event",
+              "summary": "Respond to the thump. The guard elongates its face into a wolf-, hyena-, or jackal-like snout, grows claws, and takes up a scimitar. Kenzo remains invisible, but the alerted opponents are not surprised.",
+              "evidence": [
+                {
+                  "startUid": "u2134",
+                  "endUid": "u2161"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Fires Eldritch Blast at the transforming guard and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2164",
+                  "endUid": "u2171"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hides against the doorway, shoots the nearer orc with advantage and Sneak Attack, and deals 15 damage. Moves afterward; the shot is explicitly a normal hit, not a critical hit.",
+              "evidence": [
+                {
+                  "startUid": "u2176",
+                  "endUid": "u2185"
+                },
+                {
+                  "startUid": "u2187",
+                  "endUid": "u2199"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Heat Metal on the orc’s scimitar. The orc succeeds on its Constitution save and keeps the weapon, but takes automatic fire damage and has disadvantage on attack rolls until Seeker’s next turn. The damage number is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2200",
+                  "endUid": "u2240"
+                }
+              ]
+            },
+            {
+              "actor": "Orc",
+              "kind": "turn",
+              "summary": "Plunges the room into a 15-foot-radius area of darkness, preventing the party from seeing inside it.",
+              "evidence": [
+                {
+                  "startUid": "u2242",
+                  "endUid": "u2269"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses his light crystal/driftglobe’s once-per-day Daylight as his action, dispelling the darkness and ending his invisibility. Cancels moving away when warned of an opportunity attack; makes no bonus attack because he did not take the Attack action.",
+              "evidence": [
+                {
+                  "startUid": "u2270",
+                  "endUid": "u2305"
+                }
+              ]
+            },
+            {
+              "actor": "Transforming tower guard",
+              "kind": "turn",
+              "summary": "Runs past Kenzo toward Seeker, provoking Kenzo’s opportunity attack en route; after ignoring that blow, hits Seeker with its scimitar for 8 damage. Seeker fails his Constitution concentration save, ending Heat Metal.",
+              "evidence": [
+                {
+                  "startUid": "u2306",
+                  "endUid": "u2330"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Strikes the running guard with his staff as it passes, before its attack on Seeker. The blow connects but the creature seems completely unaffected.",
+              "evidence": [
+                {
+                  "startUid": "u2306",
+                  "endUid": "u2314"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Hits the transforming guard with her magical warhammer without activating its thunder effect, adding Searing Smite as a bonus action. The final total is 15 damage, including 6 fire damage; the guard catches fire and is badly wounded. The table retrospectively accepts her attunement during the earlier short rest.",
+              "evidence": [
+                {
+                  "startUid": "u2347",
+                  "endUid": "u2413"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Kills the transforming guard with his magical pact longsword for 8 damage, then moves.",
+              "evidence": [
+                {
+                  "startUid": "u2414",
+                  "endUid": "u2427"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hides using the available corner/cover near Kenzo and shoots the orc for 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2429",
+                  "endUid": "u2445"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves to obtain a shot and scores a natural-20 critical crossbow hit on the orc. The orc is bleeding and badly wounded; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2446",
+                  "endUid": "u2447"
+                },
+                {
+                  "startUid": "u2454",
+                  "endUid": "u2473"
+                }
+              ]
+            },
+            {
+              "actor": "Orc",
+              "kind": "turn",
+              "summary": "Threatens “This is not the end!” in broken Common, swings its scimitar twice at Kenzo and misses both times, then uses a bonus-action Disengage to run toward the top of the map without provoking opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2461",
+                  "endUid": "u2483"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Moves in response to the orc’s retreat; half movement is resolved as 10 feet after rounding down.",
+              "evidence": [
+                {
+                  "startUid": "u2484",
+                  "endUid": "u2495"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Pursues and gets in front of the retreating orc. Misses with his quarterstaff, then uses Flurry of Blows: both unarmed strikes hit, and the second kills the orc. Its dying words are “Vengeance will be ours.”",
+              "evidence": [
+                {
+                  "startUid": "u2496",
+                  "endUid": "u2518"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The orc and the transforming guard are dead; the guard by the stairs remains asleep. Binding, interrogation discussion, and Vola’s retrieval happen after the ordered fight.",
+        "evidence": [
+          {
+            "startUid": "u2423",
+            "endUid": "u2426"
+          },
+          {
+            "startUid": "u2514",
+            "endUid": "u2522"
+          }
+        ]
+      }
+    }
+  ]
+}
