@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-time-markers.json",
+    "sha256": "a08cd652dae34d3e59e3407ae3d9e1baa0591781a153c5d4282f3b262e93bfcc"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-transcript.md",
+    "sha256": "f5494cf965f39672a94654ba5214cba9c5229976c4e664833222399ad1bffa56"
+  },
+  "dateAssessment": "Working calendar: July 1, DR 1748 from the session YAML, consistent with the complete played span. The DM independently says July 1 (t06); the year is inherited. The time extraction matches zero date boundaries. Future commissions, deliveries, night watches, and Kenzo’s proposed return are not elapsed play.",
+  "watches": [
+    {
+      "day": "July 1, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Emergence from the ruins is explicitly midmorning; the civil watch is inferred.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Lunch and conversation receive one completed short-rest credit, counted once.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Seeker’s armor replacement is resolved for some point in the afternoon; order among town visits stays open.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01",
+      "scope": "Seeker"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Tokra arrival is midafternoon after 1½–2 hours walking; departure from the inn is about 3 p.m.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Evening is confirmed at the Archives; the closing handoff resumes there at sunset.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    }
+  ]
+}
