@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-time-markers.json",
+    "sha256": "e2e77e9c3bce448cf0e2175c701455a87613c855e3064dde30ebc66b491efc44"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
+    "sha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69"
+  },
+  "dateAssessment": "Working dates use YAML’s DR 1748 year with the transcript’s April 17 sunrise, April 23 camp and April 24 greeting. The opening overnight, six-day montage and next dawn account for all eight boundaries from April 16–24. The mirror’s historical scenes are undated and do not extend this span. The April 24 arrival watch is an estimate from the half-day approach and forecast of arriving around lunch, not a stated clock. The older session timeline review supports the same date sequence; the canonical Ivory Scroll Cap Vision note instead says April 22 and is flagged for review.",
+  "watches": [
+    {
+      "day": "April 16, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Morning breakfast; retrospective short-rest credit applies to this same camp interval.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-04-16",
+      "endDate": "1748-04-16"
+    },
+    {
+      "day": "April 16, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "About 10 a.m.; packing and goggles examination precede the corrected departure.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1748-04-16",
+      "endDate": "1748-04-16"
+    },
+    {
+      "day": "April 16, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Slow travel reaches afternoon; after the gnoll battle, the DM confirms midafternoon.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-04-16",
+      "endDate": "1748-04-16"
+    },
+    {
+      "day": "April 16–17, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Overnight long rest ends at April 17 sunrise; eight hours imply a dusk start.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-04-16",
+      "endDate": "1748-04-17"
+    },
+    {
+      "day": "April 23, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Six days reach April 23 night camp; another rest falls within that journey.",
+      "markers": [
+        "t08",
+        "t14",
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1748-04-23",
+      "endDate": "1748-04-23",
+      "scope": "Party camp; the mirror inserts undated historical images"
+    },
+    {
+      "day": "April 24, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The next morning dawns; the party sets out along the track to Karawa.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-04-24",
+      "endDate": "1748-04-24"
+    },
+    {
+      "day": "April 24, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "April 24 confirmed on arrival; the half-day walk suggests the forecast lunchtime arrival.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-04-24",
+      "endDate": "1748-04-24",
+      "sourceRanges": [
+        [
+          "u1221",
+          "u1228"
+        ],
+        [
+          "u1775",
+          "u1796"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Prior session timeline review",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-timeline-review.json",
+      "sha256": "9fb3e99e16129f77d0517cbe03d2ceeab311acc3235e3442bca3a656ac19834d"
+    },
+    {
+      "label": "Canonical vision date discrepancy",
+      "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Ivory Scroll Cap Vision.md",
+      "sha256": "b091f8854e2aa14893fb6c544f8b7c3270dafad06e76e958ac03783efa1b9967"
+    }
+  ]
+}

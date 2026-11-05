@@ -1,0 +1,521 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-017",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+    "sessionYamlSha256": "ff51e2303345a07a32461c7aae31dd0ef415742d502a7b3118d729658a71a1c2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
+    "transcriptSha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69",
+    "yamlDates": {
+      "start": "1748-04-16",
+      "end": "1748-04-24"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0015"
+      },
+      "reading": "Morning breakfast in the plains camp; the party receives short-rest credit for this rest, confirmed during combat.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "DM: Okay. So, huddled in a hot, dusty camp in the heat of the end of the dry season, you take a moment to catch your breath and recover from the ordeals of Hralgar’s tower. While the air is quiet and still as the morning heat begins to grow, you're not alone on these Dunmari plains. Just to the north, trapped in a tower and his own mind, the storm giant Hralgar brings an unnatural storm to the plains, lightning and thunder ever present, the danger of fire reduced here only by the fact that there is little left to burn on this part of the plains."
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0015",
+          "quote": "DM: As the exhaustion and tiredness of the escape from the storm sink over you, and as you enjoy a peaceful breakfast resting in the clear morning air, memories of your childhood begin to overtake you. And you find yourself beginning to tell a story to these companions whose lives you have saved many times over the past month now, but whom you still don't really know that much about. So, who wants to start?"
+        },
+        {
+          "startUid": "u0801",
+          "endUid": "u0807",
+          "quote": "DM: No. I mean, Riswynn and Vola are on horses and are heading and didn't stop for a short—I didn’t stop for a short rest, so would be... And we're heading more west to get to the—the—follow this, this river, the upper reaches of the, of the Hara River, down to Tokra. So no, probably would not. Doesn't look like it would—they would cross Vola and Riswynn."
+        },
+        {
+          "startUid": "u0878",
+          "endUid": "u0878",
+          "quote": "Kenzo: Oh, here's a question. Did we do a short rest at some point?"
+        },
+        {
+          "startUid": "u0879",
+          "endUid": "u0879",
+          "quote": "DM: Yeah, no. Yeah."
+        },
+        {
+          "startUid": "u0880",
+          "endUid": "u0880",
+          "quote": "Delwath: We short rested, but we did not long rest."
+        },
+        {
+          "startUid": "u0881",
+          "endUid": "u0881",
+          "quote": "DM: So click the short rest button to get all your ki back."
+        },
+        {
+          "startUid": "u0882",
+          "endUid": "u0882",
+          "quote": "Seeker: Oh, where is that?"
+        },
+        {
+          "startUid": "u0883",
+          "endUid": "u0884",
+          "quote": "Delwath: It’s at the top bar."
+        },
+        {
+          "startUid": "u0885",
+          "endUid": "u0885",
+          "quote": "Kenzo: And I..."
+        },
+        {
+          "startUid": "u0886",
+          "endUid": "u0886",
+          "quote": "DM: Yeah. And if you wanted to roll Hit Dice, that's fine too."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0887",
+          "quote": "Seeker: So, oops, I did it twice by accident. And actually, that's good. I'll do—I’ll take two. That's 14."
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0888",
+          "quote": "Kenzo: So I add four points back?"
+        },
+        {
+          "startUid": "u0889",
+          "endUid": "u0889",
+          "quote": "DM: Yeah, alright."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "partOfDay": "morning"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; retrospective credit for the breakfast rest, not additional combat elapsed time."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0624",
+        "endUid": "u0629"
+      },
+      "reading": "The party is still at the opening camp at about 10 a.m.; staying until tomorrow is only proposed.",
+      "evidence": [
+        {
+          "startUid": "u0624",
+          "endUid": "u0629",
+          "quote": "DM: Yes. Well, it's like 10 o'clock in the morning now. You were up all night. You could just, you know, camp for the day. Yeah, it’s—you can't... It was kind of a blur, and you were—and you were moving quickly at that point. So, you know, maybe, maybe if you got a good night's sleep, or a couple of good night's sleep, so you'd have a better idea, but..."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "clock": "10:00"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0649",
+        "endUid": "u0656"
+      },
+      "reading": "Packing takes a little while. Departure is narrated here but corrected to after the goggles examination.",
+      "evidence": [
+        {
+          "startUid": "u0649",
+          "endUid": "u0656",
+          "quote": "DM: A giant block of adamantium. There's a huge mirror, there's like a wall mirror. There’s, you know, coins, there’s, you know, lots of stuff piled on your horses. You're not, you’re not riding on your horses, you’re, you’re walking on beside your horses as they carry all this crap. So, and yeah, it takes you a little while to, like, you know, get everything situated in such a way that the horses can, can really carry everything and all the load is balanced and all of that. And you turn to head south, sort of stumbling, tired, just trying to get a, you know, a half day or a day's walk in before you collapse and sleep."
+        },
+        {
+          "startUid": "u0756",
+          "endUid": "u0757",
+          "quote": "DM: No, you haven't even left yet. You're still... Yeah, we..."
+        },
+        {
+          "startUid": "u0763",
+          "endUid": "u0764",
+          "quote": "DM: Okay, so you set off heading south across the plains. Um, it is..."
+        }
+      ],
+      "duration": {
+        "text": "a little while",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated packing; no numerical duration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0766",
+        "endUid": "u0777"
+      },
+      "reading": "Slow southward travel reaches after lunch and then afternoon, when the party encounters gnolls.",
+      "evidence": [
+        {
+          "startUid": "u0766",
+          "endUid": "u0777",
+          "quote": "DM: Okay, you, you can, like, your horse is leading you at this point because with the goggles on, you can't really see more than 10 feet in front of you, right? Like, the landscape is all blurry and, you know. So you head south. You are extremely tired and going is slow, and it's hard to—it’s hard to make a ton of progress. You know, every sort of brief little rise of the land feels like hiking up a mountain. And so by after lunchtime, you've only made it, you know, a handful of miles. And as you press on into the afternoon, um, you come over a rise and see in the distance, maybe a few hundred feet away, um, a cloud of dust. Somebody traveling on the plains."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "partOfDay": "afternoon"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1120",
+        "endUid": "u1121"
+      },
+      "reading": "It is midafternoon after the battle, as the party considers making camp.",
+      "evidence": [
+        {
+          "startUid": "u1120",
+          "endUid": "u1120",
+          "quote": "Delwath: I mean, you know, there's nothing on the plains for a ways, right? Can—I mean, what time of day is it?"
+        },
+        {
+          "startUid": "u1121",
+          "endUid": "u1121",
+          "quote": "DM: Like mid afternoon now. You could just set up camp here."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "partOfDay": "midafternoon"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1177",
+        "endUid": "u1179"
+      },
+      "reading": "The party camps and sleeps overnight, completing a long rest and reaching the morning of April 17.",
+      "evidence": [
+        {
+          "startUid": "u1177",
+          "endUid": "u1179",
+          "quote": "DM: Okay. Um, so as you set up camp here, sleep for the night. Ah, so, so, long rests. So that will cure one level of exhaustion. You'll need to sleep again before you get back to completely no, no negative effects."
+        },
+        {
+          "startUid": "u1186",
+          "endUid": "u1197",
+          "quote": "DM: Recover one level of exhaustion. Yeah. And the morning of April 17. April 17, so almost exactly a month since you first met. Whereas—thought I had exactly when you... Oh, three days short of, short of a month from when Seeker arrived—arrived in Karawa. If—the sun rises over the plains. And let's see, that took you..."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; explicit overnight sleep and following sunrise."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1186",
+        "endUid": "u1197"
+      },
+      "reading": "Sunrise on April 17 after the first camp; the year is not spoken.",
+      "evidence": [
+        {
+          "startUid": "u1186",
+          "endUid": "u1197",
+          "quote": "DM: Recover one level of exhaustion. Yeah. And the morning of April 17. April 17, so almost exactly a month since you first met. Whereas—thought I had exactly when you... Oh, three days short of, short of a month from when Seeker arrived—arrived in Karawa. If—the sun rises over the plains. And let's see, that took you..."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "date": {
+          "month": 4,
+          "day": 17
+        },
+        "partOfDay": "sunrise"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1198",
+        "endUid": "u1210"
+      },
+      "reading": "Six days of travel bring the party to the April 23 roadside camp. Another long rest during travel clears remaining exhaustion.",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1210",
+          "quote": "DM: So that was six miles. Let me just see how long it's gonna take you. So over the next, well, say roughly six days. Okay, so over the next six days you—up—if there's anything you want to do while you're traveling, totally happy to play it out, but in the interest of advancing the plot, I'm also happy to just move forward. So do and take another long rest to clear your conditions. Over the next six days you slowly, laboriously make your way across the plains, picking up speed as the—as you begin to recover from the ordeal of the, of the tower and, you know, find yourself energetic and, and ready to be back in Karawa, um."
+        },
+        {
+          "startUid": "u1214",
+          "endUid": "u1216",
+          "quote": "DM: Yeah, so, so, for in the interest of simplicity, let's—the night before you arrive back in Karawa, let's just push everything on to that one night. Great. So yeah, that—that’s what I'm getting to, um."
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1220",
+          "quote": "DM: So, after six days on the plains, on the April 23, now a month and a day after you all met in Karawa at the occasion of the hyena attacks on the town, you find yourself now about half day's journey north of Karawa, camped in a sheltered spot along the old trade road running east-west."
+        }
+      ],
+      "duration": {
+        "value": 6,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Completed six-day montage, confirmed by April 17 and April 23 anchors."
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "date": {
+          "month": 4,
+          "day": 23
+        }
+      },
+      "dateBoundaries": 6,
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1198",
+        "endUid": "u1210"
+      },
+      "reading": "An additional long rest inside the six-day travel montage clears the remaining exhaustion; it adds no separate days beyond that journey.",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1210",
+          "quote": "DM: So that was six miles. Let me just see how long it's gonna take you. So over the next, well, say roughly six days. Okay, so over the next six days you—up—if there's anything you want to do while you're traveling, totally happy to play it out, but in the interest of advancing the plot, I'm also happy to just move forward. So do and take another long rest to clear your conditions. Over the next six days you slowly, laboriously make your way across the plains, picking up speed as the—as you begin to recover from the ordeal of the, of the tower and, you know, find yourself energetic and, and ready to be back in Karawa, um."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; expressly awarded during the montage."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1214",
+        "endUid": "u1220"
+      },
+      "reading": "All intervening camp business is placed on the night of April 23, the night before arrival at Karawa.",
+      "evidence": [
+        {
+          "startUid": "u1214",
+          "endUid": "u1216",
+          "quote": "DM: Yeah, so, so, for in the interest of simplicity, let's—the night before you arrive back in Karawa, let's just push everything on to that one night. Great. So yeah, that—that’s what I'm getting to, um."
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1220",
+          "quote": "DM: So, after six days on the plains, on the April 23, now a month and a day after you all met in Karawa at the occasion of the hyena attacks on the town, you find yourself now about half day's journey north of Karawa, camped in a sheltered spot along the old trade road running east-west."
+        },
+        {
+          "startUid": "u1247",
+          "endUid": "u1247",
+          "quote": "DM: So, camped the night before entering—returning to the city, what would you like to do?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "date": {
+          "month": 4,
+          "day": 23
+        },
+        "partOfDay": "night"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1443",
+        "endUid": "u1481"
+      },
+      "reading": "The mirror opens a brief historical vision of the scroll-case assembly; its historical date is unknown.",
+      "evidence": [
+        {
+          "startUid": "u1443",
+          "endUid": "u1454",
+          "quote": "DM: You see that the image—the image fades to black. And then you see a brief flash of what looks like a, you know, a sort of dark workshop. You see, like, a bench with tools scattered across it. You know, there’s a forge in the background. Wherever you are is dark, whether it's underground or at night. And then there's a brief of flare of light, and you see..."
+        },
+        {
+          "startUid": "u1471",
+          "endUid": "u1481",
+          "quote": "DM: And then you see a hand reach—reach in wearing a black glove. Can't make out any features of dark black glove, reach and lift this thing up and then fasten on the two—the two ends and hold, hold this thing. And those, those burst again—another burst of light as something emerging, like something is sealed. Something is—some sort of—it feels like magic being done. And you can see now a—the shape in the shadow is more distinct, and it is a creature with a long, barbed tail and two horns. And it clenches its fist on this thing, and then the mirror goes black."
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1482",
+        "endUid": "u1495"
+      },
+      "reading": "The party resumes discussion at the April 23 camp after the mirror vision.",
+      "evidence": [
+        {
+          "startUid": "u1482",
+          "endUid": "u1482",
+          "quote": "Kenzo: Was the thing that we killed in the Raven’s Hold, did it have two horns and a tail?"
+        },
+        {
+          "startUid": "u1483",
+          "endUid": "u1485",
+          "quote": "DM: It looks not quite like the thing you killed. It had a spike, it had a barbed spike on its tail, and it had like almost like goat horns, instead of these look more like pointed, curved horns. But it seemed very, you know, demony, as far as you could tell."
+        },
+        {
+          "startUid": "u1486",
+          "endUid": "u1486",
+          "quote": "Delwath: By two questions, but is there enough detail that if we found the workshop we would recognize it?"
+        },
+        {
+          "startUid": "u1487",
+          "endUid": "u1489",
+          "quote": "DM: Raw. Yeah, maybe. It was dark, right?"
+        },
+        {
+          "startUid": "u1490",
+          "endUid": "u1490",
+          "quote": "Delwath: That darkvision helps in the dark."
+        },
+        {
+          "startUid": "u1491",
+          "endUid": "u1491",
+          "quote": "DM: Mirror doesn't have..."
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1492",
+          "quote": "Delwath: The other question is, is there any hint—I mean, presumably not—but any hint that would help us isolate a time period or culture?"
+        },
+        {
+          "startUid": "u1493",
+          "endUid": "u1494",
+          "quote": "DM: Mean, no."
+        },
+        {
+          "startUid": "u1495",
+          "endUid": "u1495",
+          "quote": "Delwath: It's not like a reading room in the Great Library or..."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1773",
+        "endUid": "u1784"
+      },
+      "reading": "The next morning dawns and the party leaves for Karawa, establishing one overnight transition from April 23.",
+      "evidence": [
+        {
+          "startUid": "u1773",
+          "endUid": "u1774",
+          "quote": "DM: So, fast forward to morning."
+        },
+        {
+          "startUid": "u1775",
+          "endUid": "u1784",
+          "quote": "DM: The next morning dawns hot, dry, dusty in the desert, still waiting for the rains of summer to come. You're maybe 10, 15 miles at most from Karawa here. And as you begin to head south, following the road that—the sort of track that leads off the, the old trade road towards on the settlement of Karawa, that the refugees maybe, what, three weeks ago now roughly departed on, you can see, as you begin to approach, the red, red mesa that forms the backdrop of Karawa looming in the background. As you get closer, you can see smoke rising from a few places in, in Karawa. Whether fires intentionally set as campfires or something burning is not entirely clear from this distance."
+        },
+        {
+          "startUid": "u1841",
+          "endUid": "u1844",
+          "quote": "DM: Ah, let's see. You left on April seven. It’s kind of April 24. So you've been gone not quite three weeks."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "date": {
+          "month": 4,
+          "day": 24
+        },
+        "partOfDay": "dawn"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1840",
+        "endUid": "u1844"
+      },
+      "reading": "At the greeting outside Karawa, the date is confirmed as April 24. The clock is not stated.",
+      "evidence": [
+        {
+          "startUid": "u1840",
+          "endUid": "u1840",
+          "quote": "Wellby: How long have we been gone?"
+        },
+        {
+          "startUid": "u1841",
+          "endUid": "u1844",
+          "quote": "DM: Ah, let's see. You left on April seven. It’s kind of April 24. So you've been gone not quite three weeks."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated by the DM.",
+        "date": {
+          "month": 4,
+          "day": 24
+        }
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "Spoken April 17 sunrise, April 23 camp and April 24 greeting; the year 1748 comes from YAML. Opening April 16 follows from the overnight to April 17.",
+    "expectedDateBoundaries": 8,
+    "supportedDateBoundaries": 8,
+    "evidence": [
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t12",
+      "t13"
+    ],
+    "explanation": "One overnight to April 17, a completed six-day journey to April 23, and the next dawn on April 24 establish eight boundaries. The mirror vision and NPC reports do not extend the adventure interval; the additional long rest occurs inside the montage."
+  }
+}
