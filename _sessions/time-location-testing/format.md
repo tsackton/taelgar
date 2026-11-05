@@ -1,6 +1,8 @@
 # Experimental format contract — 0.1
 
-This is a proposal, not an adopted session-artifact schema. All pilot writes remain under `_sessions/time-location-testing`. The two draft skills share this contract; neither changes the existing scene-map schema.
+This is a proposal, not an adopted session-artifact schema. All pilot writes remain under `_sessions/time-location-testing`. This contract documents the original A/B pilots; it does not change the existing scene-map schema.
+
+**Draft revisions (2026-11-04):** New extraction uses the [single-file sparse time-marker format](draft-skills/extract-time-markers/references/format.md) and the [place-dictionary and location-marker format](draft-skills/extract-location-markers/references/format.md), replacing the A/B authoring and delivery requirements below. Existing pilot files, builders, and reviews retain their original format. Old time-B links apply only to old-format maps; revised location markers may optionally reference a fingerprinted sparse time-marker file.
 
 ## Identity and provenance
 
