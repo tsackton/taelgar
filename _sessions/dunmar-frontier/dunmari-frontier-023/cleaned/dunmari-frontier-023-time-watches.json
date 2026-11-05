@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-time-markers.json",
+    "sha256": "6db2fa3cdf413303b1c751854b2381a4f0ed26ecaec66b397b701df6163fd582"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-transcript.md",
+    "sha256": "5915da8115c21d95138adb58558b0010a254ba01e40de6bd1a7af8427f7cecea"
+  },
+  "dateAssessment": "May 11, 1748 is the YAML working date, not an independently spoken date. The complete afternoon span, including retrospective rest credit, matches zero date boundaries. Visions retain separate local clocks; plans for overnight rest and tomorrow do not advance the calendar. Sunset has no fixed clock time here; the afternoon watch is an estimate from the stated late-afternoon opening and remaining daylight.",
+  "watches": [
+    {
+      "day": "May 11, 1748",
+      "markers": [
+        "t02",
+        "t01",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t15",
+        "t16",
+        "t17"
+      ],
+      "summary": "Late-afternoon reunion; one concurrent rest/scouting hour, fountain search, forty minutes in the Hall; closing anchor half an hour before sunset.",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-11"
+    },
+    {
+      "day": "Undated initiation memory",
+      "markers": [
+        "t07"
+      ],
+      "summary": "Seeker’s library recollection shifts into a monk’s initiation; no time of day is established.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Initiation vision"
+    },
+    {
+      "day": "Karmana’s final defense",
+      "markers": [
+        "t08"
+      ],
+      "summary": "Delwath’s battlefield recollection shifts to the last defense of the monastery; no watch is established.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Defense vision"
+    },
+    {
+      "day": "About thirty years earlier",
+      "markers": [
+        "t09"
+      ],
+      "summary": "The remembered monks’ journey ends at cliffs at nightfall; this does not advance the party’s afternoon.",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "clock": "local",
+      "scope": "Ruined-city departure vision"
+    },
+    {
+      "day": "Dasa-era summer night",
+      "markers": [
+        "t10"
+      ],
+      "summary": "Delwath reaches a summer-night army camp; the hour is unknown.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Desertion vision"
+    },
+    {
+      "day": "Before the expedition",
+      "markers": [
+        "t11"
+      ],
+      "summary": "The vision changes to two masters disputing the ritual; no watch is established.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Dissent vision"
+    },
+    {
+      "day": "Summer, before the monastery failed",
+      "markers": [
+        "t12"
+      ],
+      "summary": "Wellby reaches a family campsite; summer is stated, but a civil watch is not.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Family vision"
+    },
+    {
+      "day": "Battle memory and feared future",
+      "markers": [
+        "t13"
+      ],
+      "summary": "Kenzo’s battlefield memory becomes an apocalyptic fear; darkness does not establish a night watch.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Fear vision"
+    },
+    {
+      "day": "About thirty years earlier",
+      "markers": [
+        "t14"
+      ],
+      "summary": "An apprentice leaves bed on a sleepless night and overhears the council; the hour is unknown.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Council vision"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Sajan chronology discrepancy",
+      "path": "People/Dunmari/Sajan.md",
+      "sha256": "be2667d1c7e283916c7e42c19212859013b523c707d44d7711503584b7abaa97"
+    }
+  ]
+}
