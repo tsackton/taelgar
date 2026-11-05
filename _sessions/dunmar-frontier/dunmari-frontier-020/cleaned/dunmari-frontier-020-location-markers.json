@@ -1,0 +1,474 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-020",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+    "sessionYamlSha256": "2b83807732a57be3c9d21a3d46649ed313a532de7e97c4510579e70e4cdc20c4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-transcript.md",
+    "transcriptSha256": "4e4af61933f2a0a65d0a895a50a5b0958d1952b002c94fc2b418fcc8ea2b63b4"
+  },
+  "places": {
+    "p01": {
+      "label": "Pava and Avaras’ house",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0029",
+          "quote": "%% u0011:0-109, u0012:0-8, u0013:0-98, u0014:0-4, u0015:0-208, u0016:0-52, u0017:0-111 %%\nDM: Leaving Havdar's band, you decide to travel with Amil to his masters' house to learn what you could from them. After a questionably unnecessary fight with some ogres just trying to eat some rotting meat in the desert, you continued to this stone house, and as our session begins, you're walking up a rocky slope towards a sprawling, one-story house made of stacked sandstone bricks, homely and incongruous in the dry, barren landscape. The scratching of chickens and the occasional bleat of a goat breaks the silence of the late afternoon sun that's casting a warm glow over the stones of the house.\n\n%% u0018:0-56, u0019:0-43, u0020:0-134, u0021:0-37, u0022:0-102, u0023:0-98, u0024:0-36 %%\nDM: Standing in the doorway as you approach are two old men. Both are wearing loose-fitting white robes. One, a bit younger, is bald; the other is slightly older, with close-cropped gray hair. Both have lined, weathered and deeply tanned faces. As you reach the door, [garbled], they look over you, eyes resting, lingering on Delwath in particular, and the bald one begins to speak, says, I am Pava. This is my companion Avaras. What an unusual crowd to find traveling in the desert. Welcome to our home. Please come in.\n\n%% u0025:0-61, u0026:0-41, u0027:0-81, u0028:0-20, u0029:0-28 %%\nDM: Amil, see to their horses and bring us tea when that is done. And he then turns to lead you inside the entryway of of this house to a small sitting area, cushions arranged on the floor, and gestures to you. Please introduce yourselves."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md"
+    },
+    "p02": {
+      "label": "Sitting room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0029",
+          "quote": "%% u0025:0-61, u0026:0-41, u0027:0-81, u0028:0-20, u0029:0-28 %%\nDM: Amil, see to their horses and bring us tea when that is done. And he then turns to lead you inside the entryway of of this house to a small sitting area, cushions arranged on the floor, and gestures to you. Please introduce yourselves."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0025",
+              "endUid": "u0029",
+              "quote": "%% u0025:0-61, u0026:0-41, u0027:0-81, u0028:0-20, u0029:0-28 %%\nDM: Amil, see to their horses and bring us tea when that is done. And he then turns to lead you inside the entryway of of this house to a small sitting area, cushions arranged on the floor, and gestures to you. Please introduce yourselves."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Grounds outside the house",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0437",
+          "endUid": "u0460",
+          "quote": "%% u0437:0-58, u0438:0-67, u0439:0-8 %%\nWellby: He's got a sudden bad intuition. I'm going to stand up and step out of the room, and say that I'm going to tend to the animals. With my…\n\n%% u0440:0-11 %%\nSeeker: Little boy.\n\n%% u0441:0-30, u0442:0-10, u0443:0-45, u0444:0-20, u0445:0-3 %%\nDelwath: Oh, you see Delwath just like almost go... Like he just seems very distant for a moment. I need a second, God. Um…\n\n%% u0446:0-57 %%\nKenzo: Gonna put this armor on and like start killing all of us.\n\n%% u0447:0-7 %%\nWellby: Not me.\n\n%% u0448:0-8, u0449:0-11 %%\nDM: Not, not. Not Wellby.\n\n%% u0450:0-35 %%\nKenzo: I mean, they hadn’t happened before.\n\n%% u0451:0-3, u0452:0-70, u0453:0-36, u0454:0-11 %%\nDelwath: Ah, OK, so, um, Delwath looks very sort of distant for a moment, and slightly—slightly like almost, you almost see… One second.\n\n%% u0455:0-65 %%\nKenzo: Wait, you're just walking near it? You haven't put it on yet, right?\n\n%% u0456:0-37 %%\nDelwath: I just—I walked to it. I picked it up.\n\n%% u0457:0-12, u0458:0-34 %%\nSeeker: Not wearing. What was there directly happening?\n\n%% u0459:0-23 %%\nKenzo: I was just saying like…\n\n%% u0460:0-51 %%\nDM: Wellby is not even in there. That's Wellby dialogue."
+        },
+        {
+          "startUid": "u1212",
+          "endUid": "u1219",
+          "quote": "%% u1212:0-46, u1213:0-62, u1214:0-63, u1215:0-191 %%\nDM: Ah, in the morning you wake up, and Pava, Pava tells Kenzo—and he points at Wellby and he says, You come too—and takes you out into the the lawn. And he, he leans over to, um, to Kenzo and he says, you are—If you could just control this, this will of yours slightly, you would be so strong. Watch, when you strike, don't just strike with your hand. Strike with your mind.\n\n%% u1216:0-107, u1217:0-22, u1218:0-38, u1219:0-68 %%\nDM: Reach out. Feel the energy that runs through all conscious beings. Strike at that energy. And he goes to make a strike at you, Kenzo, and you feel him kind of reaching out. Like poke—plucking at your consciousness. Make a Constitution save."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0437",
+              "endUid": "u0460",
+              "quote": "%% u0437:0-58, u0438:0-67, u0439:0-8 %%\nWellby: He's got a sudden bad intuition. I'm going to stand up and step out of the room, and say that I'm going to tend to the animals. With my…\n\n%% u0440:0-11 %%\nSeeker: Little boy.\n\n%% u0441:0-30, u0442:0-10, u0443:0-45, u0444:0-20, u0445:0-3 %%\nDelwath: Oh, you see Delwath just like almost go... Like he just seems very distant for a moment. I need a second, God. Um…\n\n%% u0446:0-57 %%\nKenzo: Gonna put this armor on and like start killing all of us.\n\n%% u0447:0-7 %%\nWellby: Not me.\n\n%% u0448:0-8, u0449:0-11 %%\nDM: Not, not. Not Wellby.\n\n%% u0450:0-35 %%\nKenzo: I mean, they hadn’t happened before.\n\n%% u0451:0-3, u0452:0-70, u0453:0-36, u0454:0-11 %%\nDelwath: Ah, OK, so, um, Delwath looks very sort of distant for a moment, and slightly—slightly like almost, you almost see… One second.\n\n%% u0455:0-65 %%\nKenzo: Wait, you're just walking near it? You haven't put it on yet, right?\n\n%% u0456:0-37 %%\nDelwath: I just—I walked to it. I picked it up.\n\n%% u0457:0-12, u0458:0-34 %%\nSeeker: Not wearing. What was there directly happening?\n\n%% u0459:0-23 %%\nKenzo: I was just saying like…\n\n%% u0460:0-51 %%\nDM: Wellby is not even in there. That's Wellby dialogue."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Blasted plains",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u1299",
+          "endUid": "u1303",
+          "quote": "%% u1299:0-159, u1300:0-88, u1301:0-6, u1302:0-34, u1303:0-109 %%\nDM: Okay, so you're heading sort of north-east away from the deepest part of the desert, back into the sort of broken canyon lands and sort of rugged plains of the—of the, the sort of blasted plains north of the, the intensity of the Garamjala desert, um. So, um… Let me just see the distance here. So that's, that's a you know, probably a three-day journey, roughly counting this as a day, so two more days, um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Nashtkar.md",
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1299",
+              "endUid": "u1303",
+              "quote": "%% u1299:0-159, u1300:0-88, u1301:0-6, u1302:0-34, u1303:0-109 %%\nDM: Okay, so you're heading sort of north-east away from the deepest part of the desert, back into the sort of broken canyon lands and sort of rugged plains of the—of the, the sort of blasted plains north of the, the intensity of the Garamjala desert, um. So, um… Let me just see the distance here. So that's, that's a you know, probably a three-day journey, roughly counting this as a day, so two more days, um."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Garamjala Desert",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u1299",
+          "endUid": "u1303",
+          "quote": "%% u1299:0-159, u1300:0-88, u1301:0-6, u1302:0-34, u1303:0-109 %%\nDM: Okay, so you're heading sort of north-east away from the deepest part of the desert, back into the sort of broken canyon lands and sort of rugged plains of the—of the, the sort of blasted plains north of the, the intensity of the Garamjala desert, um. So, um… Let me just see the distance here. So that's, that's a you know, probably a three-day journey, roughly counting this as a day, so two more days, um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md"
+    },
+    "p06": {
+      "label": "First travel camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1304",
+          "endUid": "u1315",
+          "quote": "%% u1304:0-30, u1305:0-19, u1306:0-3, u1307:0-42, u1308:0-54 %%\nDM: The next day—and so you camp. Hold on, sorry, guys. Ah. Need a place to take notes. Here we go, um. Okay, so, so you head north through the desert so it's…\n\n%% u1309:0-52, u1310:0-139, u1311:0-234 %%\nDM: It's a relatively—the first day, at least—this first afternoon heading northeast is relatively quiet, even though it's hot, and you know, even leaving at three in the afternoon, you're sweating within a few minutes of setting out, and your horses are sort of laboring in the sun. Now, May, it's, it's sort of that time of year like right before the what little rains reached the desert come, when everything is just dry and dusty, and…\n\n%% u1312:0-9 %%\nUnknown: You know.\n\n%% u1313:0-75, u1314:0-4, u1315:0-178 %%\nDM: Everything's dried out and hot, and it's just sort of unpleasant in general. The—You spend an uneventful day at camp. So anybody, just to make sure everybody is all set just do a, do a couple of long rests to clear anything that's linger on your character sheet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1299",
+              "endUid": "u1315",
+              "quote": "%% u1299:0-159, u1300:0-88, u1301:0-6, u1302:0-34, u1303:0-109 %%\nDM: Okay, so you're heading sort of north-east away from the deepest part of the desert, back into the sort of broken canyon lands and sort of rugged plains of the—of the, the sort of blasted plains north of the, the intensity of the Garamjala desert, um. So, um… Let me just see the distance here. So that's, that's a you know, probably a three-day journey, roughly counting this as a day, so two more days, um.\n\n%% u1304:0-30, u1305:0-19, u1306:0-3, u1307:0-42, u1308:0-54 %%\nDM: The next day—and so you camp. Hold on, sorry, guys. Ah. Need a place to take notes. Here we go, um. Okay, so, so you head north through the desert so it's…\n\n%% u1309:0-52, u1310:0-139, u1311:0-234 %%\nDM: It's a relatively—the first day, at least—this first afternoon heading northeast is relatively quiet, even though it's hot, and you know, even leaving at three in the afternoon, you're sweating within a few minutes of setting out, and your horses are sort of laboring in the sun. Now, May, it's, it's sort of that time of year like right before the what little rains reached the desert come, when everything is just dry and dusty, and…\n\n%% u1312:0-9 %%\nUnknown: You know.\n\n%% u1313:0-75, u1314:0-4, u1315:0-178 %%\nDM: Everything's dried out and hot, and it's just sort of unpleasant in general. The—You spend an uneventful day at camp. So anybody, just to make sure everybody is all set just do a, do a couple of long rests to clear anything that's linger on your character sheet."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Canyon approaching Havdar’s camp",
+      "kind": "canyon",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1408",
+          "quote": "%% u1403:0-39, u1404:0-92, u1405:0-42, u1406:0-18, u1407:0-35, u1408:0-10 %%\nDM: As you begin to approach Havdar's camp, or where Havdar's camp should be, you're following like the, the line of a broad canyon, maybe, you know, 500, 1,000 feet wide, maybe wider. You hear up ahead the sounds of shouts and the clang of combat."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1299",
+              "endUid": "u1303",
+              "quote": "%% u1299:0-159, u1300:0-88, u1301:0-6, u1302:0-34, u1303:0-109 %%\nDM: Okay, so you're heading sort of north-east away from the deepest part of the desert, back into the sort of broken canyon lands and sort of rugged plains of the—of the, the sort of blasted plains north of the, the intensity of the Garamjala desert, um. So, um… Let me just see the distance here. So that's, that's a you know, probably a three-day journey, roughly counting this as a day, so two more days, um."
+            },
+            {
+              "startUid": "u1394",
+              "endUid": "u1408",
+              "quote": "%% u1394:0-6, u1395:0-62, u1396:0-230, u1397:0-86, u1398:0-127, u1399:0-162, u1400:0-7, u1401:0-47, u1402:0-6 %%\nDM: So, um, you rest during the hottest part of the day again. There's, um, you're—You're in an area now where it's easier to find shade. There's, there's you know little canyons and gullies this kind of—It's kind of like the terrain you first set out on when you first left Karawa almost two months ago now—six weeks ago now. Little gullies and canyons that lead nowhere but Wellby has gotten quite good at desert navigation in over the past six weeks and leads you without any trouble onward, um, navigating these little, little gullies, avoiding dead ends. Stuff that you know a few months ago, you would have found yourself staring at blank walls with no way to go forward, now seems almost comfortable to navigate, like the roads of home. Until…\n\n%% u1403:0-39, u1404:0-92, u1405:0-42, u1406:0-18, u1407:0-35, u1408:0-10 %%\nDM: As you begin to approach Havdar's camp, or where Havdar's camp should be, you're following like the, the line of a broad canyon, maybe, you know, 500, 1,000 feet wide, maybe wider. You hear up ahead the sounds of shouts and the clang of combat."
+            }
+          ],
+          "note": "The narrated journey continues through the blasted plains into this canyon."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Havdar’s oasis camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1428",
+          "endUid": "u1448",
+          "quote": "%% u1428:0-100 %%\nSeeker: I begin drawing a pair of spectral goggles in front of my eyes, fling them forward. They vanish, like…\n\n%% u1429:0-18 %%\nDM: Arguing as you're…\n\n%% u1430:0-7, u1431:0-28 %%\nSeeker: Fluent. I did it twice, I think. Oops.\n\n%% u1432:0-3 %%\nUnknown: Um.\n\n%% u1433:0-5 %%\nSeeker: Just.\n\n%% u1434:0-3 %%\nDelwath: Um.\n\n%% u1435:0-15 %%\nSeeker: Choosing sight.\n\n%% u1436:0-24, u1437:0-8 %%\nDelwath: I will cast my Armor of Agathys.\n\n%% u1438:0-5 %%\nUnknown: Okay.\n\n%% u1439:0-8 %%\nSeeker: Agathys.\n\n%% u1440:0-8, u1441:0-55, u1442:0-13 %%\nDelwath: Agathys. So you see, like white frost appear on Delwath's armor. Should we, um…\n\n%% u1443:0-42 %%\nSeeker: Oh, sorry, I didn't see the message, Tim and…\n\n%% u1444:0-15, u1445:0-31 %%\nDM: Seeker sort of tuned out of the world, but, um…\n\n%% u1446:0-42, u1447:0-80, u1448:0-19 %%\nSeeker: Orcs, 20 orcs are attacking Havdar's camp. For some camp—what's—Oh geez, what's going on? There's the campsite near an oasis on the canyon wall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1403",
+              "endUid": "u1408",
+              "quote": "%% u1403:0-39, u1404:0-92, u1405:0-42, u1406:0-18, u1407:0-35, u1408:0-10 %%\nDM: As you begin to approach Havdar's camp, or where Havdar's camp should be, you're following like the, the line of a broad canyon, maybe, you know, 500, 1,000 feet wide, maybe wider. You hear up ahead the sounds of shouts and the clang of combat."
+            },
+            {
+              "startUid": "u1446",
+              "endUid": "u1448",
+              "quote": "%% u1446:0-42, u1447:0-80, u1448:0-19 %%\nSeeker: Orcs, 20 orcs are attacking Havdar's camp. For some camp—what's—Oh geez, what's going on? There's the campsite near an oasis on the canyon wall."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1468",
+              "endUid": "u1475",
+              "quote": "%% u1468:0-22, u1469:0-23, u1470:0-8, u1471:0-13, u1472:0-17 %%\nDM: So, so here's the camp. The orcs are mostly up, up here. I will start putting orcs out.\n\n%% u1473:0-3 %%\nUnknown: We.\n\n%% u1474:0-18 %%\nDelwath: Were, uh, we? You're…\n\n%% u1475:0-51 %%\nDM: There in the canyon, but like 1000 feet south, right?"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Cliff above Havdar’s camp",
+      "kind": "cliff",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1610",
+          "quote": "%% u1574:0-51, u1575:0-9, u1576:0-55, u1577:0-20, u1578:0-87 %%\nDM: So it's not clear, after the leader exactly, but, um, you know, as you're—you can like keep watching as you're running. Yeah, now closing in. You spend a few seconds scrambling up the cliff wall, and you're running in this way, um.\n\n%% u1579:0-13, u1580:0-39, u1581:0-119, u1582:0-28, u1583:0-26, u1584:0-7, u1585:0-6 %%\nDM: Ah, there is—So there's one sort of leader type who seems to be sort of commanding most of the troops, and is, is wearing chainmail and a shield, with a long sword and spear. Definitely sort of the most heavily armed and armored of the group.\n\n%% u1586:0-143 %%\nSeeker: So as we're jogging, I'll say, I could see the leader in, in chain mail. I'm going to try to heat them up. What are the plans, who would make here?\n\n%% u1587:0-3 %%\nDelwath: Um.\n\n%% u1588:0-55, u1589:0-48 %%\nDM: So what order do you want to run in, as—Who's in front? You can just put it wherever you want. It's what…\n\n%% u1590:0-128 %%\nKenzo: I mean, so it's pretty, like, kinda doesn't have a lot—well, [garbled]—that actually, that is pretty useful.\n\n%% u1591:0-57 %%\nDelwath: So when we're, when we're close-ish, Tim, I'm going to cast…\n\n%% u1592:0-21, u1593:0-41, u1594:0-36, u1595:0-10 %%\nDM: Like a turn but like—the turn before you'll enter combat? Okay. Okay, so by the time you get there, there are…\n\n%% u1596:0-37 %%\nSeeker: Heat Metal is now even more powerful.\n\n%% u1597:0-13 %%\nDM: Well, if you…\n\n%% u1598:0-25 %%\nSeeker: Will—But Shatter is more…\n\n%% u1599:0-112, u1600:0-3 %%\nDM: That's so annoying. I just uploaded a bunch of tokens, but I can't find them. Okay, well, whatever. Doesn't matter, um. 20.\n\n%% u1601:0-152, u1602:0-42, u1603:0-161, u1604:0-18, u1605:0-178, u1606:0-85, u1607:0-251, u1608:0-17, u1609:0-13, u1610:0-68 %%\nDM: Ah, so so as you run up, you can see that the, the battle has sort of split into three factions, um. Some of the orcs have moved off and are fighting with—sort of have moved—have now sort of moved down and are sort of engaged with the survivors of Havdar's band, some—a few of whom were seem to have been on the ground, the group—that group that's down here. Some of them have, have now engaged with the group that scale, the wall on this side sort of over here, and there's some that are still in gate—that are still sort of raining arrows down, including the spell caster, the one who launched the fireball sort of in the, in the middle here. And for, for simplicity, I'm not going to put absolutely every token on the board because it'll get to be a giant mess. I'm just going to put the ones who are kind of nearest to you, that you'll presumably engage with, since dealing with a spell caster is, is high priority. So there are—and then as the battle progresses, I can add more tokens as needed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1601",
+              "endUid": "u1610",
+              "quote": "%% u1601:0-152, u1602:0-42, u1603:0-161, u1604:0-18, u1605:0-178, u1606:0-85, u1607:0-251, u1608:0-17, u1609:0-13, u1610:0-68 %%\nDM: Ah, so so as you run up, you can see that the, the battle has sort of split into three factions, um. Some of the orcs have moved off and are fighting with—sort of have moved—have now sort of moved down and are sort of engaged with the survivors of Havdar's band, some—a few of whom were seem to have been on the ground, the group—that group that's down here. Some of them have, have now engaged with the group that scale, the wall on this side sort of over here, and there's some that are still in gate—that are still sort of raining arrows down, including the spell caster, the one who launched the fireball sort of in the, in the middle here. And for, for simplicity, I'm not going to put absolutely every token on the board because it'll get to be a giant mess. I'm just going to put the ones who are kind of nearest to you, that you'll presumably engage with, since dealing with a spell caster is, is high priority. So there are—and then as the battle progresses, I can add more tokens as needed."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1403",
+              "endUid": "u1408",
+              "quote": "%% u1403:0-39, u1404:0-92, u1405:0-42, u1406:0-18, u1407:0-35, u1408:0-10 %%\nDM: As you begin to approach Havdar's camp, or where Havdar's camp should be, you're following like the, the line of a broad canyon, maybe, you know, 500, 1,000 feet wide, maybe wider. You hear up ahead the sounds of shouts and the clang of combat."
+            },
+            {
+              "startUid": "u1574",
+              "endUid": "u1610",
+              "quote": "%% u1574:0-51, u1575:0-9, u1576:0-55, u1577:0-20, u1578:0-87 %%\nDM: So it's not clear, after the leader exactly, but, um, you know, as you're—you can like keep watching as you're running. Yeah, now closing in. You spend a few seconds scrambling up the cliff wall, and you're running in this way, um.\n\n%% u1579:0-13, u1580:0-39, u1581:0-119, u1582:0-28, u1583:0-26, u1584:0-7, u1585:0-6 %%\nDM: Ah, there is—So there's one sort of leader type who seems to be sort of commanding most of the troops, and is, is wearing chainmail and a shield, with a long sword and spear. Definitely sort of the most heavily armed and armored of the group.\n\n%% u1586:0-143 %%\nSeeker: So as we're jogging, I'll say, I could see the leader in, in chain mail. I'm going to try to heat them up. What are the plans, who would make here?\n\n%% u1587:0-3 %%\nDelwath: Um.\n\n%% u1588:0-55, u1589:0-48 %%\nDM: So what order do you want to run in, as—Who's in front? You can just put it wherever you want. It's what…\n\n%% u1590:0-128 %%\nKenzo: I mean, so it's pretty, like, kinda doesn't have a lot—well, [garbled]—that actually, that is pretty useful.\n\n%% u1591:0-57 %%\nDelwath: So when we're, when we're close-ish, Tim, I'm going to cast…\n\n%% u1592:0-21, u1593:0-41, u1594:0-36, u1595:0-10 %%\nDM: Like a turn but like—the turn before you'll enter combat? Okay. Okay, so by the time you get there, there are…\n\n%% u1596:0-37 %%\nSeeker: Heat Metal is now even more powerful.\n\n%% u1597:0-13 %%\nDM: Well, if you…\n\n%% u1598:0-25 %%\nSeeker: Will—But Shatter is more…\n\n%% u1599:0-112, u1600:0-3 %%\nDM: That's so annoying. I just uploaded a bunch of tokens, but I can't find them. Okay, well, whatever. Doesn't matter, um. 20.\n\n%% u1601:0-152, u1602:0-42, u1603:0-161, u1604:0-18, u1605:0-178, u1606:0-85, u1607:0-251, u1608:0-17, u1609:0-13, u1610:0-68 %%\nDM: Ah, so so as you run up, you can see that the, the battle has sort of split into three factions, um. Some of the orcs have moved off and are fighting with—sort of have moved—have now sort of moved down and are sort of engaged with the survivors of Havdar's band, some—a few of whom were seem to have been on the ground, the group—that group that's down here. Some of them have, have now engaged with the group that scale, the wall on this side sort of over here, and there's some that are still in gate—that are still sort of raining arrows down, including the spell caster, the one who launched the fireball sort of in the, in the middle here. And for, for simplicity, I'm not going to put absolutely every token on the board because it'll get to be a giant mess. I'm just going to put the ones who are kind of nearest to you, that you'll presumably engage with, since dealing with a spell caster is, is high priority. So there are—and then as the battle progresses, I can add more tokens as needed."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0029"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The monks welcome the party and lead them inside to the sitting room.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0029",
+          "quote": "%% u0018:0-56, u0019:0-43, u0020:0-134, u0021:0-37, u0022:0-102, u0023:0-98, u0024:0-36 %%\nDM: Standing in the doorway as you approach are two old men. Both are wearing loose-fitting white robes. One, a bit younger, is bald; the other is slightly older, with close-cropped gray hair. Both have lined, weathered and deeply tanned faces. As you reach the door, [garbled], they look over you, eyes resting, lingering on Delwath in particular, and the bald one begins to speak, says, I am Pava. This is my companion Avaras. What an unusual crowd to find traveling in the desert. Welcome to our home. Please come in.\n\n%% u0025:0-61, u0026:0-41, u0027:0-81, u0028:0-20, u0029:0-28 %%\nDM: Amil, see to their horses and bring us tea when that is done. And he then turns to lead you inside the entryway of of this house to a small sitting area, cushions arranged on the floor, and gestures to you. Please introduce yourselves."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0437",
+        "endUid": "u0460"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby steps outside to tend the animals while the others discuss the breastplate.",
+      "evidence": [
+        {
+          "startUid": "u0437",
+          "endUid": "u0460",
+          "quote": "%% u0437:0-58, u0438:0-67, u0439:0-8 %%\nWellby: He's got a sudden bad intuition. I'm going to stand up and step out of the room, and say that I'm going to tend to the animals. With my…\n\n%% u0440:0-11 %%\nSeeker: Little boy.\n\n%% u0441:0-30, u0442:0-10, u0443:0-45, u0444:0-20, u0445:0-3 %%\nDelwath: Oh, you see Delwath just like almost go... Like he just seems very distant for a moment. I need a second, God. Um…\n\n%% u0446:0-57 %%\nKenzo: Gonna put this armor on and like start killing all of us.\n\n%% u0447:0-7 %%\nWellby: Not me.\n\n%% u0448:0-8, u0449:0-11 %%\nDM: Not, not. Not Wellby.\n\n%% u0450:0-35 %%\nKenzo: I mean, they hadn’t happened before.\n\n%% u0451:0-3, u0452:0-70, u0453:0-36, u0454:0-11 %%\nDelwath: Ah, OK, so, um, Delwath looks very sort of distant for a moment, and slightly—slightly like almost, you almost see… One second.\n\n%% u0455:0-65 %%\nKenzo: Wait, you're just walking near it? You haven't put it on yet, right?\n\n%% u0456:0-37 %%\nDelwath: I just—I walked to it. I picked it up.\n\n%% u0457:0-12, u0458:0-34 %%\nSeeker: Not wearing. What was there directly happening?\n\n%% u0459:0-23 %%\nKenzo: I was just saying like…\n\n%% u0460:0-51 %%\nDM: Wellby is not even in there. That's Wellby dialogue."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0601",
+        "endUid": "u0606"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby returns to the conversation inside the house.",
+      "evidence": [
+        {
+          "startUid": "u0601",
+          "endUid": "u0606",
+          "quote": "%% u0601:0-14, u0602:0-7 %%\nDM: You come back, Wellby?\n\n%% u0603:0-30 %%\nKenzo: Undead shadow elf and a robot.\n\n%% u0604:0-3 %%\nUnknown: So…\n\n%% u0605:0-154 %%\nDM: I am willing to speak. I'm willing to answer your questions, if you would ask them. I may have some of my own, for we do not always get news from the west.\n\n%% u0606:0-181 %%\nWellby: Well, Wellby just gonna punch right in recklessly, and he'll say, Kenzo said that the magical wall of protection that kept Dunmar shielded has fallen. What can you tell us about that?"
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1212",
+        "endUid": "u1219"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Pava"
+      ],
+      "reading": "Pava takes Kenzo and Wellby onto the lawn for morning training.",
+      "evidence": [
+        {
+          "startUid": "u1212",
+          "endUid": "u1219",
+          "quote": "%% u1212:0-46, u1213:0-62, u1214:0-63, u1215:0-191 %%\nDM: Ah, in the morning you wake up, and Pava, Pava tells Kenzo—and he points at Wellby and he says, You come too—and takes you out into the the lawn. And he, he leans over to, um, to Kenzo and he says, you are—If you could just control this, this will of yours slightly, you would be so strong. Watch, when you strike, don't just strike with your hand. Strike with your mind.\n\n%% u1216:0-107, u1217:0-22, u1218:0-38, u1219:0-68 %%\nDM: Reach out. Feel the energy that runs through all conscious beings. Strike at that energy. And he goes to make a strike at you, Kenzo, and you feel him kind of reaching out. Like poke—plucking at your consciousness. Make a Constitution save."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1293",
+        "endUid": "u1408"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the monks, crosses the blasted plains, and reaches the canyon approach to Havdar’s camp.",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1308",
+          "quote": "%% u1293:0-45, u1294:0-81, u1295:0-51, u1296:0-127 %%\nDM: Click manage levels, make yourself level five. So you end up spending um you know the morning on this sort of training and then… And then, after—it's hot, so you end up leaving, um, leaving the stone house in the late afternoon like after the peak heat, with still a half days of travel into the early evening.\n\n%% u1297:0-34 %%\nDM: And you are heading where exactly?\n\n%% u1298:0-6 %%\nSeeker: Right.\n\n%% u1299:0-159, u1300:0-88, u1301:0-6, u1302:0-34, u1303:0-109 %%\nDM: Okay, so you're heading sort of north-east away from the deepest part of the desert, back into the sort of broken canyon lands and sort of rugged plains of the—of the, the sort of blasted plains north of the, the intensity of the Garamjala desert, um. So, um… Let me just see the distance here. So that's, that's a you know, probably a three-day journey, roughly counting this as a day, so two more days, um.\n\n%% u1304:0-30, u1305:0-19, u1306:0-3, u1307:0-42, u1308:0-54 %%\nDM: The next day—and so you camp. Hold on, sorry, guys. Ah. Need a place to take notes. Here we go, um. Okay, so, so you head north through the desert so it's…"
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "%% u1339:0-131, u1340:0-45, u1341:0-141, u1342:0-59 %%\nDM: Wellby, your axebeak is now like happily eating out of your hand and just follows you around everywhere, and so you spend some time, like cutting up some, some—you know, hunting a prairie chicken, or whatever you can find around here, cutting up some—although they're pretty much omnivores, they'll eat almost anything, but… And he seems to be, or she, you don't really know its sex, um…\n\n%% u1343:0-123, u1344:0-13, u1345:0-148, u1346:0-73 %%\nDM: Seems to be like pretty happy to be around you at this point, um, you could—you—You're at the stage of starting to like ride for you know, how—half an hour a day, just to start to get it used to being ridden regularly. It's already gotten used to wearing a saddle and, and just being tame. So the next day dawn's hot, as every day has for the past several weeks."
+        },
+        {
+          "startUid": "u1365",
+          "endUid": "u1386",
+          "quote": "%% u1365:0-11, u1366:0-33, u1367:0-6, u1368:0-12, u1369:0-50, u1370:0-84, u1371:0-41, u1372:0-6, u1373:0-19, u1374:0-49, u1375:0-37, u1376:0-3 %%\nDM: That's all. The next day is, is hot and, again, quiet. Um, you pass few landmarks other than—I mean, Wellby is kind of leading the party at this point is, you have the map and the sort of knowledge from—from Havdar about kind of the layout and—where, where he's heading. And the next day again passes slowly and quietly, getting you pretty close to his camp, um.\n\n%% u1377:0-37, u1378:0-12, u1379:0-11, u1380:0-81, u1381:0-3 %%\nDM: Likely—Assuming you take your normal normal rest during the—the sort of lunch break, you would likely arrive the next day around dinner time. So…\n\n%% u1382:0-3 %%\nUnknown: OK.\n\n%% u1383:0-20, u1384:0-78, u1385:0-132, u1386:0-35 %%\nDM: OK, so the next day, again, a relatively hot. Things seem quiet. You do, you do pass on this day a, um, a giant scorpion sort of sitting and waiting to attack something, but Wellby spots it in time. I presume you go around it instead of, yeah, presenting yourself as a meal."
+        },
+        {
+          "startUid": "u1394",
+          "endUid": "u1408",
+          "quote": "%% u1394:0-6, u1395:0-62, u1396:0-230, u1397:0-86, u1398:0-127, u1399:0-162, u1400:0-7, u1401:0-47, u1402:0-6 %%\nDM: So, um, you rest during the hottest part of the day again. There's, um, you're—You're in an area now where it's easier to find shade. There's, there's you know little canyons and gullies this kind of—It's kind of like the terrain you first set out on when you first left Karawa almost two months ago now—six weeks ago now. Little gullies and canyons that lead nowhere but Wellby has gotten quite good at desert navigation in over the past six weeks and leads you without any trouble onward, um, navigating these little, little gullies, avoiding dead ends. Stuff that you know a few months ago, you would have found yourself staring at blank walls with no way to go forward, now seems almost comfortable to navigate, like the roads of home. Until…\n\n%% u1403:0-39, u1404:0-92, u1405:0-42, u1406:0-18, u1407:0-35, u1408:0-10 %%\nDM: As you begin to approach Havdar's camp, or where Havdar's camp should be, you're following like the, the line of a broad canyon, maybe, you know, 500, 1,000 feet wide, maybe wider. You hear up ahead the sounds of shouts and the clang of combat."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Head northeast through canyonlands and blasted plains, north of the deep Garamjala.",
+          "place": "p04"
+        },
+        {
+          "reading": "Camp after the first afternoon of travel.",
+          "place": "p06"
+        },
+        {
+          "reading": "Continue another day, then bypass a giant scorpion on the last day."
+        },
+        {
+          "reading": "Pause during the hottest part of the last day, then enter increasingly deep gullies."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u1304",
+        "endUid": "u1346"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "At the first travel camp Wellby tends and trains the axebeak before the next day’s march.",
+      "evidence": [
+        {
+          "startUid": "u1304",
+          "endUid": "u1315",
+          "quote": "%% u1304:0-30, u1305:0-19, u1306:0-3, u1307:0-42, u1308:0-54 %%\nDM: The next day—and so you camp. Hold on, sorry, guys. Ah. Need a place to take notes. Here we go, um. Okay, so, so you head north through the desert so it's…\n\n%% u1309:0-52, u1310:0-139, u1311:0-234 %%\nDM: It's a relatively—the first day, at least—this first afternoon heading northeast is relatively quiet, even though it's hot, and you know, even leaving at three in the afternoon, you're sweating within a few minutes of setting out, and your horses are sort of laboring in the sun. Now, May, it's, it's sort of that time of year like right before the what little rains reached the desert come, when everything is just dry and dusty, and…\n\n%% u1312:0-9 %%\nUnknown: You know.\n\n%% u1313:0-75, u1314:0-4, u1315:0-178 %%\nDM: Everything's dried out and hot, and it's just sort of unpleasant in general. The—You spend an uneventful day at camp. So anybody, just to make sure everybody is all set just do a, do a couple of long rests to clear anything that's linger on your character sheet."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "%% u1339:0-131, u1340:0-45, u1341:0-141, u1342:0-59 %%\nDM: Wellby, your axebeak is now like happily eating out of your hand and just follows you around everywhere, and so you spend some time, like cutting up some, some—you know, hunting a prairie chicken, or whatever you can find around here, cutting up some—although they're pretty much omnivores, they'll eat almost anything, but… And he seems to be, or she, you don't really know its sex, um…\n\n%% u1343:0-123, u1344:0-13, u1345:0-148, u1346:0-73 %%\nDM: Seems to be like pretty happy to be around you at this point, um, you could—you—You're at the stage of starting to like ride for you know, how—half an hour a day, just to start to get it used to being ridden regularly. It's already gotten used to wearing a saddle and, and just being tame. So the next day dawn's hot, as every day has for the past several weeks."
+        }
+      ],
+      "place": "p06",
+      "relations": [
+        {
+          "type": "during",
+          "target": "l05"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1428",
+        "endUid": "u1457"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance shows the battle in Havdar’s oasis camp while Seeker remains on the approach.",
+      "evidence": [
+        {
+          "startUid": "u1428",
+          "endUid": "u1457",
+          "quote": "%% u1428:0-100 %%\nSeeker: I begin drawing a pair of spectral goggles in front of my eyes, fling them forward. They vanish, like…\n\n%% u1429:0-18 %%\nDM: Arguing as you're…\n\n%% u1430:0-7, u1431:0-28 %%\nSeeker: Fluent. I did it twice, I think. Oops.\n\n%% u1432:0-3 %%\nUnknown: Um.\n\n%% u1433:0-5 %%\nSeeker: Just.\n\n%% u1434:0-3 %%\nDelwath: Um.\n\n%% u1435:0-15 %%\nSeeker: Choosing sight.\n\n%% u1436:0-24, u1437:0-8 %%\nDelwath: I will cast my Armor of Agathys.\n\n%% u1438:0-5 %%\nUnknown: Okay.\n\n%% u1439:0-8 %%\nSeeker: Agathys.\n\n%% u1440:0-8, u1441:0-55, u1442:0-13 %%\nDelwath: Agathys. So you see, like white frost appear on Delwath's armor. Should we, um…\n\n%% u1443:0-42 %%\nSeeker: Oh, sorry, I didn't see the message, Tim and…\n\n%% u1444:0-15, u1445:0-31 %%\nDM: Seeker sort of tuned out of the world, but, um…\n\n%% u1446:0-42, u1447:0-80, u1448:0-19 %%\nSeeker: Orcs, 20 orcs are attacking Havdar's camp. For some camp—what's—Oh geez, what's going on? There's the campsite near an oasis on the canyon wall.\n\n%% u1449:0-32 %%\nDM: Yeah that Havdar's camp, I mean…\n\n%% u1450:0-4 %%\nSeeker: Are…\n\n%% u1451:0-21 %%\nDM: We have Dunmari camp.\n\n%% u1452:0-8 %%\nSeeker: Oh yeah.\n\n%% u1453:0-12 %%\nDelwath: Is—How many?\n\n%% u1454:0-99 %%\nSeeker: There's many, there's more—There's more coming. Yeah, more are coming, 20 of them shooting arrows down.\n\n%% u1455:0-26 %%\nDelwath: How big is Havdar's force?\n\n%% u1456:0-25, u1457:0-69 %%\nDM: There's about 10 of them, plus Havdar and his lieutenant. Some must be out on scouting missions."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p07",
+      "observedActors": [
+        "Havdar",
+        "Havdar’s warriors",
+        "Orc attackers"
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1574",
+        "endUid": "u1610"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party scrambles up the cliff and runs along it to join the fight above the camp.",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1610",
+          "quote": "%% u1574:0-51, u1575:0-9, u1576:0-55, u1577:0-20, u1578:0-87 %%\nDM: So it's not clear, after the leader exactly, but, um, you know, as you're—you can like keep watching as you're running. Yeah, now closing in. You spend a few seconds scrambling up the cliff wall, and you're running in this way, um.\n\n%% u1579:0-13, u1580:0-39, u1581:0-119, u1582:0-28, u1583:0-26, u1584:0-7, u1585:0-6 %%\nDM: Ah, there is—So there's one sort of leader type who seems to be sort of commanding most of the troops, and is, is wearing chainmail and a shield, with a long sword and spear. Definitely sort of the most heavily armed and armored of the group.\n\n%% u1586:0-143 %%\nSeeker: So as we're jogging, I'll say, I could see the leader in, in chain mail. I'm going to try to heat them up. What are the plans, who would make here?\n\n%% u1587:0-3 %%\nDelwath: Um.\n\n%% u1588:0-55, u1589:0-48 %%\nDM: So what order do you want to run in, as—Who's in front? You can just put it wherever you want. It's what…\n\n%% u1590:0-128 %%\nKenzo: I mean, so it's pretty, like, kinda doesn't have a lot—well, [garbled]—that actually, that is pretty useful.\n\n%% u1591:0-57 %%\nDelwath: So when we're, when we're close-ish, Tim, I'm going to cast…\n\n%% u1592:0-21, u1593:0-41, u1594:0-36, u1595:0-10 %%\nDM: Like a turn but like—the turn before you'll enter combat? Okay. Okay, so by the time you get there, there are…\n\n%% u1596:0-37 %%\nSeeker: Heat Metal is now even more powerful.\n\n%% u1597:0-13 %%\nDM: Well, if you…\n\n%% u1598:0-25 %%\nSeeker: Will—But Shatter is more…\n\n%% u1599:0-112, u1600:0-3 %%\nDM: That's so annoying. I just uploaded a bunch of tokens, but I can't find them. Okay, well, whatever. Doesn't matter, um. 20.\n\n%% u1601:0-152, u1602:0-42, u1603:0-161, u1604:0-18, u1605:0-178, u1606:0-85, u1607:0-251, u1608:0-17, u1609:0-13, u1610:0-68 %%\nDM: Ah, so so as you run up, you can see that the, the battle has sort of split into three factions, um. Some of the orcs have moved off and are fighting with—sort of have moved—have now sort of moved down and are sort of engaged with the survivors of Havdar's band, some—a few of whom were seem to have been on the ground, the group—that group that's down here. Some of them have, have now engaged with the group that scale, the wall on this side sort of over here, and there's some that are still in gate—that are still sort of raining arrows down, including the spell caster, the one who launched the fireball sort of in the, in the middle here. And for, for simplicity, I'm not going to put absolutely every token on the board because it'll get to be a giant mess. I'm just going to put the ones who are kind of nearest to you, that you'll presumably engage with, since dealing with a spell caster is, is high priority. So there are—and then as the battle progresses, I can add more tokens as needed."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "climb and run"
+    }
+  ]
+}
