@@ -1,0 +1,1307 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "4647059dd462806a9e2fcf3faa9aeac6849e6bc8956e6233e3a7ce5a88ad6d9b",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35",
+        "transcriptProcessing.artifacts.cleaned": "aaa4512eaa952d5026bacaadd4e2196f2d104a91027fa2aebd27b37e26e49eb5"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Faldrak",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0009",
+            "endUid": "u0010"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0289",
+            "endUid": "u0295"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Lady Eventide",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0011",
+            "endUid": "u0016"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0030",
+            "endUid": "u0033"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0042",
+            "endUid": "u0050"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0825",
+            "endUid": "u0839"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1337",
+            "endUid": "u1339"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1590",
+            "endUid": "u1609"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Lady Eventide.md"
+    },
+    {
+      "id": "e003",
+      "kind": "item",
+      "label": "Cloudspinner’s thread",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0042",
+            "endUid": "u0050"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0101",
+            "endUid": "u0105"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0192",
+            "endUid": "u0215"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The recalled bargain establishes this particular thread; no standalone note is linked.",
+      "names": [
+        "thread"
+      ]
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Cloudspinner",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0083",
+            "endUid": "u0127"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0269",
+            "endUid": "u0277"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0705",
+            "endUid": "u0717"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0822",
+            "endUid": "u0839"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1226",
+            "endUid": "u1230"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1546",
+            "endUid": "u1569"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
+      "names": [
+        "Queen of Sunsets"
+      ]
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Harrow",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0083",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0423",
+            "endUid": "u0427"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0695",
+            "endUid": "u0717"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1556",
+            "endUid": "u1571"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Harrow.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Wend",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0083",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0423",
+            "endUid": "u0427"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0695",
+            "endUid": "u0717"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1556",
+            "endUid": "u1571"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Wend.md"
+    },
+    {
+      "id": "e007",
+      "kind": "item",
+      "label": "Cloudspinner’s crystal prison",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0075",
+            "endUid": "u0077"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0125",
+            "endUid": "u0127"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0269",
+            "endUid": "u0277"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "prism",
+        "giant chunk of crystal shard"
+      ]
+    },
+    {
+      "id": "e008",
+      "kind": "item",
+      "label": "Cloak of Rainbows",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0106",
+            "endUid": "u0123"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1226",
+            "endUid": "u1230"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Cloak of Rainbows.md",
+      "names": [
+        "Cloudspinner’s cloak"
+      ]
+    },
+    {
+      "id": "e009",
+      "kind": "item",
+      "label": "The Lore of the Feywild",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0148",
+            "endUid": "u0162"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0309",
+            "endUid": "u0323"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Books/The Lore of the Feywild.md"
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Prince of Luck",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0225",
+            "endUid": "u0236"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0865",
+            "endUid": "u0870"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Prince of Luck.md",
+      "names": [
+        "Chance Weaver"
+      ]
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Lirien",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0309",
+            "endUid": "u0313"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0606",
+            "endUid": "u0620"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0695",
+            "endUid": "u0717"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0751",
+            "endUid": "u0771"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0830",
+            "endUid": "u0839"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1491",
+            "endUid": "u1514"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Lirien.md"
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Ulfgar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0314",
+            "endUid": "u0319"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Ulfgar Frostbeard.md"
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Tarviel",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0403",
+            "endUid": "u0427"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Tarviel.md"
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "Book-snatching satyr",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0428",
+            "endUid": "u0452"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0459",
+            "endUid": "u0486"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0585",
+            "endUid": "u0620"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The recurring unnamed satyr is distinct from Tarviel at introduction; intervening group dialogue is not always individually attributed."
+    },
+    {
+      "id": "e015",
+      "kind": "item",
+      "label": "Lirien’s lantern",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0697",
+            "endUid": "u0717"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight.md"
+    },
+    {
+      "id": "e016",
+      "kind": "npc",
+      "label": "Shadowy hunter from beyond the Sunset Gate",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0711",
+            "endUid": "u0717"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A specific previous pursuer is distinguished by its shadow-twisted lantern, but no personal identity is established."
+    },
+    {
+      "id": "e017",
+      "kind": "item",
+      "label": "Shadow-twisted lantern",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0711",
+            "endUid": "u0717"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A second physical lantern is kept separate from Lirien’s; the shared Amberlight type does not make the objects identical."
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Barge master",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0740",
+            "endUid": "u0765"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0779",
+            "endUid": "u0804"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Aenaphos.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Golden Prince",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0767",
+            "endUid": "u0801"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1294",
+            "endUid": "u1319"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1340",
+            "endUid": "u1346"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1531",
+            "endUid": "u1552"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Prince Aurelian.md",
+      "names": [
+        "Prince Aurelian",
+        "Hearthkeeper",
+        "Lord of Everlight’s Bloom"
+      ]
+    },
+    {
+      "id": "e020",
+      "kind": "npc",
+      "label": "Typhina",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0855",
+            "endUid": "u0864"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The brief claim of friendship does not distinguish the real Typhina from Agata’s impersonation or a player joke.",
+      "candidates": [
+        "People/Fey/Typhina.md",
+        "People/Fey/Agata.md"
+      ]
+    },
+    {
+      "id": "e021",
+      "kind": "organization",
+      "label": "Society of Multiversal Geographers",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1039",
+            "endUid": "u1043"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Seeker names a report recipient, but the transcript does not clarify whether this is an established society or an improvised joke."
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Auntie Mulberry",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1134",
+            "endUid": "u1187"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1203",
+            "endUid": "u1238"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1273",
+            "endUid": "u1293"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1340",
+            "endUid": "u1405"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1472",
+            "endUid": "u1528"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1546",
+            "endUid": "u1595"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Auntie Mulberry.md"
+    },
+    {
+      "id": "e023",
+      "kind": "npc",
+      "label": "Grash",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1226",
+            "endUid": "u1230"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Grash.md"
+    },
+    {
+      "id": "e024",
+      "kind": "divine",
+      "label": "Thark",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1226",
+            "endUid": "u1230"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md"
+    },
+    {
+      "id": "e025",
+      "kind": "organization",
+      "label": "Free orcs",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1226",
+            "endUid": "u1230"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Orc Hordes/People of the Rainbow.md"
+    },
+    {
+      "id": "e026",
+      "kind": "item",
+      "label": "Universal solvent",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1273",
+            "endUid": "u1275"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Magic Items/Universal Solvent.md"
+    },
+    {
+      "id": "e027",
+      "kind": "item",
+      "label": "The ring dissolved by Wellby",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1273",
+            "endUid": "u1275"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Ring of Undying.md"
+    },
+    {
+      "id": "e028",
+      "kind": "npc",
+      "label": "Refugee from Cloudspinner’s Court",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1515",
+            "endUid": "u1520"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1577",
+            "endUid": "u1581"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1598",
+            "endUid": "u1599"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Count Vashan.md",
+      "confidenceExplanation": "Vashan fits the former courtier at Sunwine Hall, but this session neither names nor meets the refugee.",
+      "identifiedLater": true
+    },
+    {
+      "id": "e029",
+      "kind": "npc",
+      "label": "Lord Soven",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1515",
+            "endUid": "u1520"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1546",
+            "endUid": "u1552"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1600",
+            "endUid": "u1609"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Lord Soven.md",
+      "names": [
+        "Master of the Revels",
+        "Master of Revels"
+      ]
+    },
+    {
+      "id": "e030",
+      "kind": "npc",
+      "label": "Lord Egan",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1546",
+            "endUid": "u1552"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Lightdancer.md",
+      "confidenceExplanation": "The archfey context and Egon alias favor Lightdancer, but the session uses Egan without naming the domain."
+    },
+    {
+      "id": "e031",
+      "kind": "item",
+      "label": "Auntie Mulberry’s bird whistle",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1582",
+            "endUid": "u1587"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular wayfinding instrument directs the party; the transcript does not establish a transfer of ownership."
+    },
+    {
+      "id": "e032",
+      "kind": "organization",
+      "label": "Cloudspinner’s Court",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0825",
+            "endUid": "u0839"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1515",
+            "endUid": "u1520"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1600",
+            "endUid": "u1603"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Vindristjarna",
+      "reason": "Routine transport and departure setting; discussion of its size and possible planar travel does not establish a new property, acquisition, or distinct plot-object action.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0005",
+            "endUid": "u0010"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0061",
+            "endUid": "u0071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0129",
+            "endUid": "u0145"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0269",
+            "endUid": "u0277"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0324",
+            "endUid": "u0328"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0654",
+            "endUid": "u0654"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of the Past",
+      "reason": "Proposed examination and recharge bookkeeping only; no examination takes place.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0075",
+            "endUid": "u0077"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Crown, scepters, and rings in the copying joke",
+      "reason": "Passing equipment reference and speculative mass-production joke; no new item history, acquisition, or resolved use.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0078",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0111",
+            "endUid": "u0115"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Portable hole",
+      "reason": "Routine carrying function for the crystal prison, without separate item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0125",
+            "endUid": "u0127"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0269",
+            "endUid": "u0277"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Planar components, Rai’s hand, and Gazankoa",
+      "reason": "Inventory and component-rule examples; the embedded personal and divine names do not establish separate meaningful discussion.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0192",
+            "endUid": "u0215"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Satyr revelers and barge passengers",
+      "reason": "Incidental dancers and passengers are neither individually distinguished characters nor an established organization; separately identifiable speakers are mapped.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0372",
+            "endUid": "u0402"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0506",
+            "endUid": "u0509"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0731",
+            "endUid": "u0741"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Seeker’s ship-weapon notebook",
+      "reason": "Ordinary notes temporarily snatched during a prank; the meaningful character exchange is mapped to the satyr.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0422",
+            "endUid": "u0452"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Last Draught",
+      "reason": "Named barge serves as the setting for a brief riverside conversation; no distinct object significance beyond this appearance is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0592",
+            "endUid": "u0597"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0761",
+            "endUid": "u0765"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Seeking arrow and moon-phase necklace",
+      "reason": "Ordinary PC item capabilities discussed or used for navigation and time checking, without qualifying new history or acquisition.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0815",
+            "endUid": "u0816"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0885",
+            "endUid": "u0893"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/Fey/Lady Eventide.md",
+    "People/Fey/Lirien.md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 119 (DuFr).md"
+  ]
+}

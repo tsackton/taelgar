@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-119",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+    "sessionYamlSha256": "27cc5de7d262d2109d279ca7417572d8b481a58150e062cc7d99804fa6c4bf7e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-transcript.md",
+    "transcriptSha256": "887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0806"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0807",
+        "endUid": "u0879"
+      },
+      "category": "meta_discussion",
+      "note": "The DM pauses to ask for the players’ actual goal; active walking narration resumes at u0880."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0880",
+        "endUid": "u1327"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1328",
+        "endUid": "u1336"
+      },
+      "category": "table_talk",
+      "note": "Player departure and real-world session timing; Seeker’s fading is resumed in play afterward."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u1447"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1448",
+        "endUid": "u1456"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1457",
+        "endUid": "u1610"
+      },
+      "category": "gameplay",
+      "note": "The opening turn mixes a player suggestion with Riswynn’s spoken request; the active exchange is primary."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1611",
+        "endUid": "u1622"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

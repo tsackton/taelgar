@@ -1,0 +1,680 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-119",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+    "sessionYamlSha256": "27cc5de7d262d2109d279ca7417572d8b481a58150e062cc7d99804fa6c4bf7e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-transcript.md",
+    "transcriptSha256": "887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0010",
+          "quote": "%% u0005:0-63, u0006:0-123, u0007:0-65, u0008:0-117 %%\nDM: So as the Vindristjarna pulls up near the Bitterwine Oak portal: the massive oak tree, roots growing over cracked stone, growing unnaturally in the desert, seemingly unaffected by the heat; crimson pools of wine seeping from its roots into shallow basins; with pale white blossoms flowering across the tree, and brown leaves rustling in its, in its, in its branches. You see?\n\n%% u0009:0-71, u0010:0-37 %%\nDM: And Faldrak calling, “Okay, we’re parked. What are you guys gonna do now?” As you're sitting on the deck talking,"
+        }
+      ],
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Bitterwine Oak — desert side",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "DM: So as the Vindristjarna pulls up near the Bitterwine Oak portal: the massive oak tree, roots growing over cracked stone, growing unnaturally in the desert, seemingly unaffected by the heat; crimson pools of wine seeping from its roots into shallow basins; with pale white blossoms flowering across the tree, and brown leaves rustling in its, in its, in its branches. You see?"
+        },
+        {
+          "startUid": "u0297",
+          "endUid": "u0303",
+          "quote": "%% u0297:0-44 %%\nDM: No, you're about 200 miles north of Drankor.\n\n%% u0298:0-48 %%\nSeeker: Oh, so just, like, in totally uncharted territory?\n\n%% u0299:0-4 %%\nDM: Yes.\n\n%% u0300:0-5 %%\nDelwath: Yeah.\n\n%% u0301:0-111 %%\nDM: Completely uncharted, maybe, maybe more like [garbled], some, some number of miles around that north of Drankor.\n\n%% u0302:0-17 %%\nSeeker: Oh, it's amazing!\n\n%% u0303:0-32 %%\nDM: Just, and the expanse of desert."
+        }
+      ],
+      "kind": "portal",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Bitterwine Oak.md",
+      "note": "The DM places the desert site about 200 miles north of Drankor at u0297–u0303, with an immediate qualification of that distance."
+    },
+    "p03": {
+      "label": "Emberwine portal hill",
+      "evidence": [
+        {
+          "startUid": "u0364",
+          "endUid": "u0378",
+          "quote": "%% u0364:0-5, u0365:0-32, u0366:0-23, u0367:0-24, u0368:0-45, u0369:0-52, u0370:0-40, u0371:0-71 %%\nDM: Okay. Okay, you—oh, wait! Hold on, so... That's the wrong thing. Give me one sec. You all find yourself kind of feeling like you—well, feeling like you are sort of stepping through, almost willingly being pulled and distorted and and dragged through a portal, and you find yourself standing on a hill.\n\n%% u0372:0-80, u0373:0-94, u0374:0-122, u0375:0-80 %%\nDM: Well, emerging from the tree, Wellby is dancing with a group of satyrs. There is— there is the upbeat—there's 2 satyrs playing pipes, upbeat music going. Wellby seems sort of, you know, notices you. Obviously dancing enthusiastically. The rest of you sort of feel yourself gradually sort of dragged through and find yourself stepping into this golden sunlight lit afternoon hill.\n\n%% u0376:0-3, u0377:0-183, u0378:0-69 %%\nDM: The— the sun is like perfect golden hour sun: warm, endless afternoon, lazy and heavy. You can smell the grapes from the vineyards that surround this tree, the perfume of crushed flowers, the wild music of the satyrs playing, Wellby enthusiastically dancing."
+        }
+      ],
+      "kind": "hill",
+      "note": "The party emerges from the tree among vineyards; distinct from the desert-side portal.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0481",
+              "endUid": "u0483",
+              "quote": "DM: “There is no change in Emberwine. Come, foolish elf! Have you not been to the Feywild before? Do you not know the realm is the realm?”"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Red river and its bank",
+      "evidence": [
+        {
+          "startUid": "u0560",
+          "endUid": "u0564",
+          "quote": "DM: To your left, so you're heading north, to the west you can see a river, a broad, lazy river that's flowing sort of roughly northwest to the southeast. It's, it's red. It looks like the pools of water that were by the by the base of the tree. Warm, sort of warm sort of reddish liquid flowing."
+        },
+        {
+          "startUid": "u0633",
+          "endUid": "u0637",
+          "quote": "%% u0633:0-62, u0634:0-6, u0635:0-129 %%\nDM: So sometime later you find yourself at the banks of the river. You've roughly traveled at the same pace as the barge, so it's, you know, maybe a quarter mile upriver from you as you reach the banks.\n\n%% u0636:0-136, u0637:0-100 %%\nDM: The river is wide and slow moving, and the barge is not moving very fast as it floats downriver, but you can hear the sound of laughter, and there's clearly people sitting, standing, milling about on the barge as they drift down the river."
+        }
+      ],
+      "kind": "river",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Ampelion River.md",
+      "note": "The transcript does not use the vault name Ampelion; the red, slow-moving river and barge encounter establish the match."
+    },
+    "p05": {
+      "label": "Last Draught",
+      "evidence": [
+        {
+          "startUid": "u0761",
+          "endUid": "u0765",
+          "quote": "DM: “And here I thought you had come to join us on the Last Draught for our voyage to the Sunwine Halls. And yet you say you will leave this land for the bright stasis of Everlight’s Bloom. Such a tragedy. Are you sure you would not hear our tale?”"
+        }
+      ],
+      "kind": "barge",
+      "mobile": true
+    },
+    "p06": {
+      "label": "Northern smoke-marked hill",
+      "evidence": [
+        {
+          "startUid": "u1008",
+          "endUid": "u1010",
+          "quote": "DM: Scan in a circle, but you can see, sort of, you can maybe pick out landmarks. Like, you can tell some hills are different, right? Like, there's some sort of—I mean, it's not, it's not—it's repetitive, but it's not identical, right? There's, like, little groves of trees. There's rock outcroppings that stand out. You don't see very many people, but, like, in, you know, occasionally, like, on a hill, there will be... It's, like, one little column of smoke rising up in the distance on a hill."
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1043",
+          "quote": "Seeker: Well, we need to stay away from there, probably. Well, Seeker’s jotting down, down his, his notes for his report to the Society of Multiversal Geographers, but considers that perhaps we could simply try to teleport ourselves all to whoever's got a campfire going away north of us. Anybody else have a different idea?"
+        }
+      ],
+      "kind": "hill",
+      "note": "Seeker chooses a northern smoke source as the teleport target; no exact distance is established."
+    },
+    "p07": {
+      "label": "Distant stone pavilion and tents",
+      "evidence": [
+        {
+          "startUid": "u1022",
+          "endUid": "u1029",
+          "quote": "DM: Scanning to the south, following the path of the river to the southeast, you can see some distance away, but sort of clear, like, more... Almost as if you're looking through a telescope when you're looking in that direction. You can see large open sort of field amidst some vines and rolling hills, with a huge sort of stone pavilion built on a hill looking out over what seems to be—although you don't quite understand how you can see these details from what must be at least 50 miles, if not longer, although again, it's really hard to make any sense of distance in the Feywild— tents set up in the gardens of this stone pavilion. Lights strung from tent to tent."
+        }
+      ],
+      "kind": "pavilion",
+      "note": "Seen to the southeast by Clairvoyance; the source does not explicitly identify it as Sunwine Hall."
+    },
+    "p08": {
+      "label": "Distant crystal wall",
+      "evidence": [
+        {
+          "startUid": "u1030",
+          "endUid": "u1038",
+          "quote": "%% u1030:0-33, u1031:0-49, u1032:0-67, u1033:0-118 %%\nDM: And then scanning, you know, more... Coming back around to the east, the land, the, the— the vines seem to go again sort of endlessly in that direction, but you can see again in the distance, like, it must be very far away. You don't quite understand how you can see this far.\n\n%% u1034:0-47, u1035:0-55, u1036:0-51 %%\nDM: There's what looks like a wall made of crystal. And it's shining with this deep golden amber red color, almost like somebody took the sunset and froze it.\n\n%% u1037:0-61 %%\nSeeker: Is that the wall that's protecting the Feywild from the dark?\n\n%% u1038:0-35 %%\nDM: Can't see anything beyond the wall."
+        }
+      ],
+      "kind": "wall",
+      "note": "Seeker asks whether this is the defensive wall; no explicit identification or passage through it follows."
+    },
+    "p09": {
+      "label": "Auntie Mulberry’s cottage clearing",
+      "evidence": [
+        {
+          "startUid": "u1103",
+          "endUid": "u1112",
+          "quote": "%% u1103:0-44, u1104:0-109, u1105:0-11 %%\nDM: 38, yep. And then you find yourself dragged, and suddenly the land distorts and stretches, and then snaps back again, and you sort of stumble forward into a clearing.\n\n%% u1106:0-23, u1107:0-38, u1108:0-228, u1109:0-22 %%\nDM: There—you're on a hill. There's a small, a small cottage here. It's, it's roof woven of, like, sort of vines that have gone amber, that are sort of golden red, like, like vines that have turned in the, in the autumn to this sort of golden red color. There's a couple of apple trees growing outside laden with ripe fruit.\n\n%% u1110:0-30, u1111:0-161, u1112:0-72 %%\nDM: There's a camp—there’s, like, a fire pit with a spit over it and a giant iron pot resting in the fire pit. And there's a chimney with a swirl of smoke coming up from the inside of the—from the chimney on this sort of cottage, with it—with a curl of smoke coming up."
+        },
+        {
+          "startUid": "u1171",
+          "endUid": "u1187",
+          "quote": "%% u1171:0-50 %%\nWellby: This is inside the house or in front of the house?\n\n%% u1172:0-22 %%\nDM: In front of the house.\n\n%% u1173:0-79 %%\nDM: She's, like, pulling chairs out. She, like—it's like clowns coming out of the car.\n\n%% u1174:0-5, u1175:0-4 %%\nSeeker: Nice. Hmm.\n\n%% u1176:0-36 %%\nRiswynn: Okay. So we sit at the picnic table.\n\n%% u1177:0-54, u1178:0-10, u1179:0-23 %%\nWellby: You know we've gotten a little bit turned around here. Oh, where— Where are we right now?\n\n%% u1180:0-68, u1181:0-40, u1182:0-32, u1183:0-43, u1184:0-24, u1185:0-55, u1186:0-40 %%\nDM: “Where are you? Well, of course, that is the question, isn’t it? Well, you're in late afternoon, as you can see. Another way you might put it is Emberwine. You know that place? Yes, you’ve— you’ve been here before? No, you look a bit stunned by the Feywild, I might say. Have some pie.” She starts cutting it up.\n\n%% u1187:0-188 %%\nDM: “You’re at Auntie Mulberry’s house. Of course, you must have known that, appearing here out of nowhere like that, with a boom and a thud and a crash of breaking glass. What was that all about?”"
+        }
+      ],
+      "kind": "clearing",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1180",
+              "endUid": "u1187",
+              "quote": "%% u1180:0-68, u1181:0-40, u1182:0-32, u1183:0-43, u1184:0-24, u1185:0-55, u1186:0-40 %%\nDM: “Where are you? Well, of course, that is the question, isn’t it? Well, you're in late afternoon, as you can see. Another way you might put it is Emberwine. You know that place? Yes, you’ve— you’ve been here before? No, you look a bit stunned by the Feywild, I might say. Have some pie.” She starts cutting it up.\n\n%% u1187:0-188 %%\nDM: “You’re at Auntie Mulberry’s house. Of course, you must have known that, appearing here out of nowhere like that, with a boom and a thud and a crash of breaking glass. What was that all about?”"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Auntie Mulberry’s kitchen",
+      "evidence": [
+        {
+          "startUid": "u1263",
+          "endUid": "u1270",
+          "quote": "%% u1263:0-99, u1264:0-95, u1265:0-48 %%\nDM: So Wellby would notice, like, the house looks subtly different. Like, it's smaller, it's more cramped when you're looking—when she was standing in the doorway, and you're looking through the house, through the door of the house, like, you couldn't...\n\n%% u1266:0-233 %%\nDM: You couldn't, like—it didn't—the spatial arrangement didn't really make sense. Like, you couldn't see the back. You couldn't. But now it just looks like a 1—like a 2 room cottage, right? You're in the kitchen of a small little cottage.\n\n%% u1267:0-175, u1268:0-73, u1269:0-39, u1270:0-50 %%\nDM: There's a curtain behind a door that clearly leads to, like, a bedroom or something. There's a, like, a big iron stove with a fire going in it, and there's a kettle on it. There's like a, like a, you know, bread baking, or sweets baking, sweet buns baking inside the oven that you pull out. You... Kettle's hot. You pour some tea. Seems very normal."
+        },
+        {
+          "startUid": "u1152",
+          "endUid": "u1156",
+          "quote": "DM: There's no—you don't see any blood, or—the only slightly strange thing is, you can't see the like back of the house. It's, like, sort of dark and dim inside, and there's some light coming in from the windows, but wait— can't see where it ends. Like, there's not an obvious back wall. You take the pie?"
+        }
+      ],
+      "kind": "room",
+      "note": "Wellby first sees an apparently unbounded interior; after entry, Wellby and Kenzo find a small two-room cottage.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1257",
+              "endUid": "u1270",
+              "quote": "%% u1257:0-93 %%\nKenzo: Go into the house. But I—but I’m thinking, “What’s your favorite—what’s your favorite cookie?”\n\n%% u1258:0-115 %%\nWellby: Me, too. I’ll say to Delwath, you know, “If we’re not back in 2 min, assume something’s gone catastrophically wrong.”\n\n%% u1259:0-12 %%\nDelwath: I always do.\n\n%% u1260:0-6 %%\nDM: Oh no!\n\n%% u1261:0-21 %%\nWellby: Through the darkness.\n\n%% u1262:0-30 %%\nDelwath: When you step through the door...\n\n%% u1263:0-99, u1264:0-95, u1265:0-48 %%\nDM: So Wellby would notice, like, the house looks subtly different. Like, it's smaller, it's more cramped when you're looking—when she was standing in the doorway, and you're looking through the house, through the door of the house, like, you couldn't...\n\n%% u1266:0-233 %%\nDM: You couldn't, like—it didn't—the spatial arrangement didn't really make sense. Like, you couldn't see the back. You couldn't. But now it just looks like a 1—like a 2 room cottage, right? You're in the kitchen of a small little cottage.\n\n%% u1267:0-175, u1268:0-73, u1269:0-39, u1270:0-50 %%\nDM: There's a curtain behind a door that clearly leads to, like, a bedroom or something. There's a, like, a big iron stove with a fire going in it, and there's a kettle on it. There's like a, like a, you know, bread baking, or sweets baking, sweet buns baking inside the oven that you pull out. You... Kettle's hot. You pour some tea. Seems very normal."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Emberwine",
+      "evidence": [
+        {
+          "startUid": "u1180",
+          "endUid": "u1187",
+          "quote": "%% u1180:0-68, u1181:0-40, u1182:0-32, u1183:0-43, u1184:0-24, u1185:0-55, u1186:0-40 %%\nDM: “Where are you? Well, of course, that is the question, isn’t it? Well, you're in late afternoon, as you can see. Another way you might put it is Emberwine. You know that place? Yes, you’ve— you’ve been here before? No, you look a bit stunned by the Feywild, I might say. Have some pie.” She starts cutting it up.\n\n%% u1187:0-188 %%\nDM: “You’re at Auntie Mulberry’s house. Of course, you must have known that, appearing here out of nowhere like that, with a boom and a thud and a crash of breaking glass. What was that all about?”"
+        }
+      ],
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Emberwine.md"
+    },
+    "p12": {
+      "label": "Sunwine Hall",
+      "evidence": [
+        {
+          "startUid": "u1515",
+          "endUid": "u1520",
+          "quote": "DM: She then kind of smiles, and, and: “Well, no, I did hear that there is a refugee from Cloudspinner’s Court at Sunwine Hall, court of the Master of the Revels. Lord Soven, you must know him. You’re in his land. I don’t know if he would help you, as people come to— people come here to forget, you know.”"
+        }
+      ],
+      "kind": "court",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1515",
+              "endUid": "u1520",
+              "quote": "DM: She then kind of smiles, and, and: “Well, no, I did hear that there is a refugee from Cloudspinner’s Court at Sunwine Hall, court of the Master of the Revels. Lord Soven, you must know him. You’re in his land. I don’t know if he would help you, as people come to— people come here to forget, you know.”"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0010"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is aboard Vindristjarna as it parks near the Bitterwine Oak in the desert.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0010",
+          "quote": "%% u0005:0-63, u0006:0-123, u0007:0-65, u0008:0-117 %%\nDM: So as the Vindristjarna pulls up near the Bitterwine Oak portal: the massive oak tree, roots growing over cracked stone, growing unnaturally in the desert, seemingly unaffected by the heat; crimson pools of wine seeping from its roots into shallow basins; with pale white blossoms flowering across the tree, and brown leaves rustling in its, in its, in its branches. You see?\n\n%% u0009:0-71, u0010:0-37 %%\nDM: And Faldrak calling, “Okay, we’re parked. What are you guys gonna do now?” As you're sitting on the deck talking,"
+        },
+        {
+          "startUid": "u0144",
+          "endUid": "u0145",
+          "quote": "DM: From 200 feet away? Pro—well, actually, Wellby probably, or Wellby probably could throw something from 200 feet away."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "near",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0160",
+        "endUid": "u0181"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the ship, walks across the sand to the oak, and takes cups at its wine pools.",
+      "evidence": [
+        {
+          "startUid": "u0160",
+          "endUid": "u0168",
+          "quote": "%% u0160:0-81, u0161:0-25, u0162:0-40 %%\nSeeker: Yeah. You know, the, The Lore of the Feywild, part 2. The second, the second volume. Seeker’s, Seeker’s notes. Yeah. So we go, go down and take a look.\n\n%% u0163:0-11 %%\nDelwath: Yeah, yeah.\n\n%% u0164:0-63 %%\nDM: So you make your way down with whatever ways you normally land.\n\n%% u0165:0-69, u0166:0-81, u0167:0-74, u0168:0-30 %%\nDM: I guess many of you just jump off the—as you walk in the desert along the sand towards the tree, you start to hear sort of faint music in the distance. And there's a smell of spiced wine and damp earth that seems to be wafting around the tree from the tree."
+        },
+        {
+          "startUid": "u0261",
+          "endUid": "u0267",
+          "quote": "%% u0261:0-71 %%\nDelwath: Right, right. How—how's the wine? I mean, that's a pool of wine, right?\n\n%% u0262:0-5 %%\nDM: Yeah.\n\n%% u0263:0-16 %%\nDelwath: Any cups around?\n\n%% u0264:0-4 %%\nDM: Yes.\n\n%% u0265:0-21 %%\nRiswynn: Didn't you bring one?\n\n%% u0266:0-65 %%\nDelwath: I'm just looking. I'm curious if there's any cups around to here.\n\n%% u0267:0-41 %%\nDM: Yeah, there's some cups scattered around."
+        },
+        {
+          "startUid": "u0284",
+          "endUid": "u0288",
+          "quote": "%% u0284:0-44, u0285:0-24 %%\nDelwath: I mean, Delwath’s holding a cup of wine, like, “Anybody care to join me?”\n\n%% u0286:0-51 %%\nWellby: Yeah, Wellby will pick a cup up, too, take a scoop.\n\n%% u0287:0-26 %%\nSeeker: Let's give it a try. Sure.\n\n%% u0288:0-12 %%\nKenzo: Let's do it."
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "descend and walk"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0324",
+        "endUid": "u0378"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five adventurers pass through the oak portal after their toasts and arrive together on the Emberwine hill; Wellby is already dancing as the others emerge.",
+      "evidence": [
+        {
+          "startUid": "u0324",
+          "endUid": "u0336",
+          "quote": "%% u0324:0-36, u0325:0-72, u0326:0-9, u0327:0-41, u0328:0-75 %%\nRiswynn: Faldrak being here when we get back, or come quickly, wherever we emerge from, if we come out another portal. Oh, wait! Do we have a thing to plane shift back to the material realm? Do we need that, being natively from the material realm?\n\n%% u0329:0-308 %%\nDM: I've never thought—I've always assumed that your native plane you can always just plane shift too, because none of the creatures that cast—none of the, like, elementals that cast plane shift ever needs something to shift back the main plane. Kate and Eric, roll Charisma saving throws for Riswynn and Seeker.\n\n%% u0330:0-6 %%\nSeeker: Ready!\n\n%% u0331:0-55 %%\nDM: And just tell—just message me the result, or if you're...\n\n%% u0332:0-63 %%\nSeeker: Oh, should I—I long rest my character sheet? Look, yeah, yeah.\n\n%% u0333:0-10 %%\nDM: [garbled]\n\n%% u0334:0-20 %%\nSeeker: It's not been reset.\n\n%% u0335:0-16 %%\nDelwath: Delwath is also...\n\n%% u0336:0-26 %%\nDM: Riswynn and Seeker vanish."
+        },
+        {
+          "startUid": "u0364",
+          "endUid": "u0378",
+          "quote": "%% u0364:0-5, u0365:0-32, u0366:0-23, u0367:0-24, u0368:0-45, u0369:0-52, u0370:0-40, u0371:0-71 %%\nDM: Okay. Okay, you—oh, wait! Hold on, so... That's the wrong thing. Give me one sec. You all find yourself kind of feeling like you—well, feeling like you are sort of stepping through, almost willingly being pulled and distorted and and dragged through a portal, and you find yourself standing on a hill.\n\n%% u0372:0-80, u0373:0-94, u0374:0-122, u0375:0-80 %%\nDM: Well, emerging from the tree, Wellby is dancing with a group of satyrs. There is— there is the upbeat—there's 2 satyrs playing pipes, upbeat music going. Wellby seems sort of, you know, notices you. Obviously dancing enthusiastically. The rest of you sort of feel yourself gradually sort of dragged through and find yourself stepping into this golden sunlight lit afternoon hill.\n\n%% u0376:0-3, u0377:0-183, u0378:0-69 %%\nDM: The— the sun is like perfect golden hour sun: warm, endless afternoon, lazy and heavy. You can smell the grapes from the vineyards that surround this tree, the perfume of crushed flowers, the wild music of the satyrs playing, Wellby enthusiastically dancing."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "portal",
+      "note": "The transcript first narrates Riswynn and Seeker vanishing, then describes Wellby already dancing. It does not quantify any difference in arrival time."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0544",
+        "endUid": "u0564"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo leads the party north from the tree in a conga line, accompanied for a while by the satyrs.",
+      "evidence": [
+        {
+          "startUid": "u0544",
+          "endUid": "u0559",
+          "quote": "%% u0544:0-89, u0545:0-15 %%\nKenzo: Kenzo's got acrobatic skills. He goes to the front of the line and starts a conga, a conga... Do they follow?\n\n%% u0546:0-47 %%\nDM: You're, you're heading north through the fields?\n\n%% u0547:0-5 %%\nSeeker: Yeah.\n\n%% u0548:0-5 %%\nDM: Sure.\n\n%% u0549:0-62, u0550:0-48, u0551:0-66, u0552:0-46, u0553:0-35 %%\nDM: Yeah, they they follow for a little bit. They seem interested. You're new and exciting. They haven't, you know... You know, they haven't—that certainly seems like they haven't seen such interesting, interesting crew in a while. So they sort of follow you dancing.\n\n%% u0554:0-67 %%\nDM: You're not, like, magically compelled to dance. You could just leave.\n\n%% u0555:0-3 %%\nSeeker: Or.\n\n%% u0556:0-18, u0557:0-15 %%\nDM: Or you can conga. You could leave.\n\n%% u0558:0-71, u0559:0-93 %%\nDM: As you get a little way out from the tree, the sort of line and the, the— the music and the, and the satyrs dancing, you can see a little bit more of the landscape now."
+        }
+      ],
+      "from": "p03",
+      "to": null,
+      "completion": "underway",
+      "mode": "dance",
+      "route": [
+        {
+          "reading": "North through the vineyard hills; the river becomes visible to the west.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0580",
+        "endUid": "u0635"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party turns toward the river, continues after the satyrs leave, and reaches its banks.",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0590",
+          "quote": "%% u0580:0-37, u0581:0-18 %%\nSeeker: Let's make our way over to the river. How—how far is it?\n\n%% u0582:0-47 %%\nDM: Hard to judge distance. Maybe a couple of miles.\n\n%% u0583:0-33 %%\nSeeker: We could dance a couple of miles.\n\n%% u0584:0-55 %%\nDM: You start, you start to sort of head in that direction.\n\n%% u0585:0-106, u0586:0-43, u0587:0-23 %%\nDM: The one of the satyrs, the one who was grabbing Seeker's book and sort of chasing him around a little bit: “You wish to see the river, sample its wares. That is a joyous thing.”\n\n%% u0588:0-4 %%\nSeeker: Yes.\n\n%% u0589:0-47, u0590:0-13 %%\nDM: “Many who drink to forget find themselves there. Let us dance.”"
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0635",
+          "quote": "%% u0622:0-26, u0623:0-51, u0624:0-45, u0625:0-34, u0626:0-55, u0627:0-72, u0628:0-76 %%\nDM: Kind of, the satyrs kind of drift off a little bit, kind of put off slightly by the news that Delwath seeks to bring, and the sound of their pipes fades slowly, leaving just the quiet buzz of the insects and the warm afternoon—late afternoon. It's really evening. It's, like, golden hour air as you begin making your way through the vineyards towards the river itself.\n\n%% u0629:0-70 %%\nSeeker: Our quest’s to find a good spot to nap. That's what we're doing, right?\n\n%% u0630:0-10 %%\nDelwath: Step one.\n\n%% u0631:0-17 %%\nSeeker: Gotta keep going.\n\n%% u0632:0-8 %%\nWellby: Onwards.\n\n%% u0633:0-62, u0634:0-6, u0635:0-129 %%\nDM: So sometime later you find yourself at the banks of the river. You've roughly traveled at the same pace as the barge, so it's, you know, maybe a quarter mile upriver from you as you reach the banks."
+        }
+      ],
+      "from": null,
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 2,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM estimates the river is a couple of miles away at departure; this is not a measured route length."
+      }
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0728",
+        "endUid": "u0750"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the bank the party watches the approaching barge and hails its steersman; they remain ashore.",
+      "evidence": [
+        {
+          "startUid": "u0728",
+          "endUid": "u0750",
+          "quote": "%% u0728:0-2, u0729:0-94, u0730:0-27 %%\nDM: So you wait a few moments as the barge gets closer, as you're standing on the banks of the river. As it gets closer, you see...\n\n%% u0731:0-72, u0732:0-53, u0733:0-77, u0734:0-76, u0735:0-57 %%\nDM: You know, you see, this is—there's maybe about 20 people on this barge. A mix of men and women, all dressed mostly in sort of relatively elegant clothing, all humanoid, human looking, but somehow a little a little brighter. They all have, you know—they mostly tend to have sort of almost like glowing eyes. Many of them have reddish hair.\n\n%% u0736:0-58, u0737:0-102, u0738:0-44, u0739:0-84 %%\nDM: And they're all sort of sitting languidly. They seem to be every now and then, like, dipping glasses into the river and, and drinking out of it, and they seem to be sort of sitting around a circle listening to a woman in the middle of the barge, who's playing a lute sort of quietly and slowly.\n\n%% u0740:0-46, u0741:0-80 %%\nDM: And there's a—at the back, there's a, there's a man standing with, like, a big oar, who's sort of steering the barge as it slowly...\n\n%% u0742:0-64, u0743:0-101, u0744:0-8, u0745:0-54, u0746:0-148 %%\nDM: And when you, when you get close enough and you sort of hail them, he calls out. He's, he's tall. He's maybe 6 feet tall. Sort of skin kind of the color of rust, sort of reddish color, but sort of almost faintly glowing. Long sort of very pale golden hair, tied back in a ponytail, wearing this like elegantly cut silver clothes, with red buttons that run up the middle of the coat.\n\n%% u0747:0-6, u0748:0-37, u0749:0-40, u0750:0-41 %%\nDM: And he— he calls, calls out to you as you hail, “Travelers, what brings you to our realm?” And he begins to slow the barge slightly."
+        },
+        {
+          "startUid": "u0787",
+          "endUid": "u0804",
+          "quote": "%% u0787:0-63, u0788:0-133, u0789:0-57, u0790:0-76 %%\nDM: He’s now stopped the barge, and you can, you know, hear the, the soft sound of the lyre. The, the people on the barge kind of lazing around a bit, sort of lying in the sun. Several of them are dozing. One woman's got her fingers trailing in the in the water. Her sleeve sort of dripping into the river a little bit, seemingly uncaring.\n\n%% u0791:0-34, u0792:0-39, u0793:0-70 %%\nDM: He looks. He gives you—as this, the— the barge master gives you this sort of strange look, like something's clearly not adding up with your story.\n\n%% u0794:0-19, u0795:0-9, u0796:0-24, u0797:0-72, u0798:0-21 %%\nDM: “The—do you have to... Prince’s desires are his own, and should he wish a stranger to bring him tidings of one who left his land? If you truly are on a...”\n\n%% u0799:0-24 %%\nDM: Kind of shakes his head.\n\n%% u0800:0-38, u0801:0-39 %%\nDM: “I will not stop the will of the lords. Let your feet carry you where they may.”\n\n%% u0802:0-44 %%\nDM: Kind of mutters to himself, “Foolish mortals!”\n\n%% u0803:0-49 %%\nDM: “I bid you a fond afternoon and pleasant journeys.”\n\n%% u0804:0-49 %%\nDM: Kind of shakes his head a little bit, pushes off."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p04",
+      "mode": "local",
+      "locationContext": [
+        {
+          "subject": "p05",
+          "relation": "on",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0805",
+        "endUid": "u0912"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks along the riverbank toward the hoped-for route to Everlight’s Bloom; no realm crossing is established.",
+      "evidence": [
+        {
+          "startUid": "u0805",
+          "endUid": "u0805",
+          "quote": "Delwath: Shall we continue along the river?"
+        },
+        {
+          "startUid": "u0880",
+          "endUid": "u0881",
+          "quote": "DM: Talking as you walk. Time's passing."
+        },
+        {
+          "startUid": "u0894",
+          "endUid": "u0912",
+          "quote": "%% u0894:0-45, u0895:0-38, u0896:0-50, u0897:0-35 %%\nDM: But your footsteps are feeling sort of heavy. The sun is warm in the late afternoon. The smell of the vines is sweet and dreamy, I mean, makes your eyes droop a little bit.\n\n%% u0898:0-55, u0899:0-107 %%\nDM: You can press on, but certainly your footsteps are not— you're not racing lightly across the landscape, the miles passing beneath you in some sort of mystical way.\n\n%% u0900:0-31 %%\nSeeker: Hmm! We're trudging more, yeah.\n\n%% u0901:0-16, u0902:0-42 %%\nDM: You're trudging. There's just nothing is stopping you from...\n\n%% u0903:0-53 %%\nSeeker: So I could do the spell where we’re all birds, right?\n\n%% u0904:0-20 %%\nDM: Yeah, animal shapes.\n\n%% u0905:0-25 %%\nSeeker: Animal shapes. Thank you.\n\n%% u0906:0-23 %%\nDelwath: We need a purpose here.\n\n%% u0907:0-17, u0908:0-87 %%\nSeeker: Yeah, yeah, we're... It's just like, is there anything on the horizon? Is there any kind of, like, [garbled]?\n\n%% u0909:0-31 %%\nDM: Golden sunlight, rolling hills.\n\n%% u0910:0-4 %%\nSeeker: Hmm.\n\n%% u0911:0-95, u0912:0-96 %%\nDM: River on your left, the water gently lapping, the scent of the wine. A sort of intoxicating haze drifts across your nose and makes you feel that sort of, you know, tryptophan tiredness as your..."
+        }
+      ],
+      "from": "p04",
+      "to": null,
+      "completion": "underway",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Follow the river, with it on the party’s left."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0980",
+        "endUid": "u1018"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker scouts from a Clairvoyance sensor a mile above the party, seeing a hazy northern horizon, smoke on distant hills, and brighter reflections along the northwest river.",
+      "evidence": [
+        {
+          "startUid": "u0980",
+          "endUid": "u0982",
+          "quote": "%% u0980:0-80 %%\nSeeker: Okay, so I will position my eye. I can just put myself a mile straight up, right?\n\n%% u0981:0-5 %%\nDM: Yeah.\n\n%% u0982:0-29 %%\nSeeker: What do I see looking north?"
+        },
+        {
+          "startUid": "u0996",
+          "endUid": "u1018",
+          "quote": "%% u0996:0-59, u0997:0-22 %%\nDM: Yeah, exactly. So, looking up, you scan around the horizon from a mile above you.\n\n%% u0998:0-65, u0999:0-26 %%\nDM: So to the north you can see in the distance—it's actually a bit... It's strange, like, the, the...\n\n%% u1000:0-104, u1001:0-125, u1002:0-93, u1003:0-74 %%\nDM: When you're looking sort of due north, you can see it almost, like, fades into a painting. Like, you can see the vineyards and the rolling hills, and they seem to continue, and there's, there's, like, a haze in the air in that direction. And as you, as you sort of stare through your clairvoyant sensor, it almost feels like you're like you're looking at a, like, a, a matte painting background of a, of a set.\n\n%% u1004:0-8 %%\nSeeker: Oh, man!\n\n%% u1005:0-48, u1006:0-47 %%\nDM: Looking in that direction, like, it, like it, like... something seems slightly off about the horizon.\n\n%% u1007:0-11 %%\nSeeker: It's Vegas.\n\n%% u1008:0-93, u1009:0-311, u1010:0-73 %%\nDM: Scan in a circle, but you can see, sort of, you can maybe pick out landmarks. Like, you can tell some hills are different, right? Like, there's some sort of—I mean, it's not, it's not—it's repetitive, but it's not identical, right? There's, like, little groves of trees. There's rock outcroppings that stand out. You don't see very many people, but, like, in, you know, occasionally, like, on a hill, there will be... It's, like, one little column of smoke rising up in the distance on a hill.\n\n%% u1011:0-5 %%\nSeeker: Good.\n\n%% u1012:0-92, u1013:0-40, u1014:0-38, u1015:0-107, u1016:0-30, u1017:0-114, u1018:0-16 %%\nDM: App, looking to the—sort of scanning to the west, just to get the whole horizon, you can see the path of the river leading northwest, rolling through these hills, and as it as it goes in the distance, the, the light gets brighter in that direction, and you can see some distance off up the river. It, it seems to... It seems to sort of shine a little bit brighter somehow, like there's light reflecting off the river like a mirror in the distance."
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1043",
+          "quote": "Seeker: Well, we need to stay away from there, probably. Well, Seeker’s jotting down, down his, his notes for his report to the Society of Multiversal Geographers, but considers that perhaps we could simply try to teleport ourselves all to whoever's got a campfire going away north of us. Anybody else have a different idea?"
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p04",
+      "mode": "remote",
+      "note": "The sensor rises; Seeker’s body is not narrated as flying or leaving the party."
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1022",
+        "endUid": "u1029"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Through Clairvoyance, Seeker sees a distant stone pavilion with tents and lights to the southeast.",
+      "evidence": [
+        {
+          "startUid": "u1022",
+          "endUid": "u1029",
+          "quote": "DM: Scanning to the south, following the path of the river to the southeast, you can see some distance away, but sort of clear, like, more... Almost as if you're looking through a telescope when you're looking in that direction. You can see large open sort of field amidst some vines and rolling hills, with a huge sort of stone pavilion built on a hill looking out over what seems to be—although you don't quite understand how you can see these details from what must be at least 50 miles, if not longer, although again, it's really hard to make any sense of distance in the Feywild— tents set up in the gardens of this stone pavilion. Lights strung from tent to tent."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p04",
+      "mode": "remote",
+      "note": "The DM suggests at least 50 miles but explicitly makes Feywild distance uncertain."
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1030",
+        "endUid": "u1038"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Through Clairvoyance, Seeker sees an eastern crystal wall and cannot see beyond it.",
+      "evidence": [
+        {
+          "startUid": "u1030",
+          "endUid": "u1038",
+          "quote": "%% u1030:0-33, u1031:0-49, u1032:0-67, u1033:0-118 %%\nDM: And then scanning, you know, more... Coming back around to the east, the land, the, the— the vines seem to go again sort of endlessly in that direction, but you can see again in the distance, like, it must be very far away. You don't quite understand how you can see this far.\n\n%% u1034:0-47, u1035:0-55, u1036:0-51 %%\nDM: There's what looks like a wall made of crystal. And it's shining with this deep golden amber red color, almost like somebody took the sunset and froze it.\n\n%% u1037:0-61 %%\nSeeker: Is that the wall that's protecting the Feywild from the dark?\n\n%% u1038:0-35 %%\nDM: Can't see anything beyond the wall."
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p04",
+      "mode": "remote"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1055",
+        "endUid": "u1129"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker teleports the party toward the northern smoke; after a damaging mishap everyone arrives at Auntie Mulberry’s cottage clearing.",
+      "evidence": [
+        {
+          "startUid": "u1055",
+          "endUid": "u1055",
+          "quote": "Seeker: Alright, I, I cast teleport."
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1085",
+          "quote": "%% u1084:0-47 %%\nSeeker: We're doing great, and that's 99. Jesus Christ.\n\n%% u1085:0-37 %%\nDelwath: No, that's good. 90 nine's on target."
+        },
+        {
+          "startUid": "u1090",
+          "endUid": "u1112",
+          "quote": "%% u1090:0-65, u1091:0-60, u1092:0-5 %%\nDM: And you feel the land around you sort of shifting and distorting, and it feels as if you're being dragged through a wall of, of... Like...\n\n%% u1093:0-5 %%\nRiswynn: Well.\n\n%% u1094:0-18, u1095:0-46 %%\nDM: Yeah, like a wall. And everybody takes 38 points of force damage.\n\n%% u1096:0-9 %%\nSeeker: Oh, jeez.\n\n%% u1097:0-27 %%\nKenzo: Is it coming from a source?\n\n%% u1098:0-63 %%\nDM: It's coming from Seeker's inability to teleport in the Feywild.\n\n%% u1099:0-8 %%\nSeeker: Oh, man!\n\n%% u1100:0-50 %%\nDM: You can't, you can't—you can't dodge or redirect.\n\n%% u1101:0-8 %%\nSeeker: You too.\n\n%% u1102:0-11 %%\nDelwath: So I'm not.\n\n%% u1103:0-44, u1104:0-109, u1105:0-11 %%\nDM: 38, yep. And then you find yourself dragged, and suddenly the land distorts and stretches, and then snaps back again, and you sort of stumble forward into a clearing.\n\n%% u1106:0-23, u1107:0-38, u1108:0-228, u1109:0-22 %%\nDM: There—you're on a hill. There's a small, a small cottage here. It's, it's roof woven of, like, sort of vines that have gone amber, that are sort of golden red, like, like vines that have turned in the, in the autumn to this sort of golden red color. There's a couple of apple trees growing outside laden with ripe fruit.\n\n%% u1110:0-30, u1111:0-161, u1112:0-72 %%\nDM: There's a camp—there’s, like, a fire pit with a spit over it and a giant iron pot resting in the fire pit. And there's a chimney with a swirl of smoke coming up from the inside of the—from the chimney on this sort of cottage, with it—with a curl of smoke coming up."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1129",
+          "quote": "Seeker: Well, we made it. Seeker kind of turns back as though to try to get a line of sight on where we came from, but that's clearly impossible. I did intend to teleport us to a place that I saw smoke rising from. Smoke is rising from this place. Ergo, complete success. Sorry about this slight pummeling we took along the way. My record is flawless."
+        },
+        {
+          "startUid": "u1187",
+          "endUid": "u1187",
+          "quote": "DM: “You’re at Auntie Mulberry’s house. Of course, you must have known that, appearing here out of nowhere like that, with a boom and a thud and a crash of breaking glass. What was that all about?”"
+        }
+      ],
+      "from": "p04",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "The actual arrival is established independently of Seeker’s boast of flawless success; no route distance is recovered from the horizon estimate."
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1152",
+        "endUid": "u1156"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby looks through the cottage doorway and cannot see where its interior ends.",
+      "evidence": [
+        {
+          "startUid": "u1152",
+          "endUid": "u1156",
+          "quote": "DM: There's no—you don't see any blood, or—the only slightly strange thing is, you can't see the like back of the house. It's, like, sort of dark and dim inside, and there's some light coming in from the windows, but wait— can't see where it ends. Like, there's not an obvious back wall. You take the pie?"
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p09",
+      "mode": "local"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1231",
+        "endUid": "u1275"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Wellby and Kenzo leave the outside table, enter the kitchen for tea and baked sweets, and return as Delwath’s story reaches its climax.",
+      "evidence": [
+        {
+          "startUid": "u1231",
+          "endUid": "u1238",
+          "quote": "%% u1231:0-139 %%\nDM: As she’s listening, she sort of turns over, and she nudges Wellby. “Be a dear, Wellby, go get the tea, please. I can hear the kettle whistling.”\n\n%% u1232:0-11, u1233:0-9, u1234:0-74, u1235:0-33 %%\nWellby: Yeah. Yeah. Yep, yep. You know, being as small as I am, I may need a second set of hands. Kenzo? Yeah, okay, we'll go. Yeah, yeah.\n\n%% u1236:0-27 %%\nKenzo: Sounds good, did the thing.\n\n%% u1237:0-85 %%\nWellby: The door—I definitely give you a glance, like, “We’re gonna die. We’re gonna die, right?”\n\n%% u1238:0-51 %%\nDM: “Get the tray of cookies from the oven, too, please.”"
+        },
+        {
+          "startUid": "u1256",
+          "endUid": "u1275",
+          "quote": "%% u1256:0-33 %%\nWellby: You go in—you go into the house?\n\n%% u1257:0-93 %%\nKenzo: Go into the house. But I—but I’m thinking, “What’s your favorite—what’s your favorite cookie?”\n\n%% u1258:0-115 %%\nWellby: Me, too. I’ll say to Delwath, you know, “If we’re not back in 2 min, assume something’s gone catastrophically wrong.”\n\n%% u1259:0-12 %%\nDelwath: I always do.\n\n%% u1260:0-6 %%\nDM: Oh no!\n\n%% u1261:0-21 %%\nWellby: Through the darkness.\n\n%% u1262:0-30 %%\nDelwath: When you step through the door...\n\n%% u1263:0-99, u1264:0-95, u1265:0-48 %%\nDM: So Wellby would notice, like, the house looks subtly different. Like, it's smaller, it's more cramped when you're looking—when she was standing in the doorway, and you're looking through the house, through the door of the house, like, you couldn't...\n\n%% u1266:0-233 %%\nDM: You couldn't, like—it didn't—the spatial arrangement didn't really make sense. Like, you couldn't see the back. You couldn't. But now it just looks like a 1—like a 2 room cottage, right? You're in the kitchen of a small little cottage.\n\n%% u1267:0-175, u1268:0-73, u1269:0-39, u1270:0-50 %%\nDM: There's a curtain behind a door that clearly leads to, like, a bedroom or something. There's a, like, a big iron stove with a fire going in it, and there's a kettle on it. There's like a, like a, you know, bread baking, or sweets baking, sweet buns baking inside the oven that you pull out. You... Kettle's hot. You pour some tea. Seems very normal.\n\n%% u1271:0-12 %%\nSeeker: That's good.\n\n%% u1272:0-38 %%\nWellby: Alright! We'll take it back out again.\n\n%% u1273:0-79, u1274:0-96, u1275:0-9 %%\nDM: “Thanks! We’re just coming to the climax of the tale, which stars you, I believe,” as Delwath is telling the story of how Wellby takes out the universal solvent and dissolves the the ring."
+        }
+      ],
+      "from": "p09",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Enter the cottage kitchen and collect tea and baked sweets.",
+          "place": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1577",
+        "endUid": "u1609"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party chooses Sunwine Hall and is told to follow the whistle’s melody while dancing; Lady Eventide, now speaking through Seeker, agrees.",
+      "evidence": [
+        {
+          "startUid": "u1577",
+          "endUid": "u1589",
+          "quote": "%% u1577:0-30 %%\nWellby: Which direction are we headed?\n\n%% u1578:0-41 %%\nDelwath: I think we should go to the Sunwine Hall.\n\n%% u1579:0-42 %%\nWellby: I agree, get info from the refugee person.\n\n%% u1580:0-4 %%\nDelwath: Yes.\n\n%% u1581:0-5 %%\nRiswynn: Yeah.\n\n%% u1582:0-52, u1583:0-72, u1584:0-184 %%\nDM: She kind of stands up and, and pushes her chair back, reaches into her pocket, and, like, brings out, like, a small, like a pocket... She's got—she's wearing, like, a skirt that's got pockets in it, and reaches in. She brings out a small, what looks like a little, like, flute, like pan, like little bird whistle type thing.\n\n%% u1585:0-46 %%\nDM: She blows into it and sort of spins it around.\n\n%% u1586:0-27, u1587:0-11 %%\nDM: “Melody will lead you there. Just dance.”\n\n%% u1588:0-7 %%\nWellby: Thanks.\n\n%% u1589:0-53 %%\nRiswynn: Thank you for all you've taught us, and for the tune."
+        },
+        {
+          "startUid": "u1590",
+          "endUid": "u1609",
+          "quote": "%% u1590:0-104, u1591:0-115, u1592:0-57, u1593:0-70, u1594:0-82, u1595:0-13 %%\nDM: She takes her chair, and when she takes her chair, all the other chairs sort of scoot out from the table. And as she goes back into her house, she turns and looks, and she looks kind of shocked as Seeker has now suddenly— has now finished transforming, and the color is bleached. And she sort of, you know, makes a little sign and, and shuts her door, looking somewhat scared, actually, by this turn of events. And Lady Eventide says, “Where are we?”\n\n%% u1596:0-66, u1597:0-4 %%\nDM: She sniffs in Seeker’s voice—I mean, with Seeker’s nose. “Emberwine. Hmm.”\n\n%% u1598:0-80, u1599:0-20 %%\nRiswynn: Here, there's a refugee from Amberglow in the court here. We're headed that way. Dance along with us.\n\n%% u1600:0-61, u1601:0-27, u1602:0-69, u1603:0-59 %%\nDM: “Yes, yes, I, I do remember some tales of the Master of Revels. He’s an interesting fellow. Came to the Cloud Palace once. Did you know I saw him dancing? I mean, he danced with me once.” She quickly changes her story, too.\n\n%% u1604:0-22, u1605:0-101, u1606:0-66 %%\nDM: “Tall fellow, handsome. Golden antlers like you’ve never seen, brilliant eyes, the smoothest dancer I’ve ever, I’ve ever known. Yes, I can—I can see why we might be heading there. Sunwine Hall.”\n\n%% u1607:0-42, u1608:0-21, u1609:0-13 %%\nDM: He kind of nods. “Yes, yes, let’s go there. Good work, my allies. Lead the way.”"
+        },
+        {
+          "startUid": "u1615",
+          "endUid": "u1616",
+          "quote": "DM: So let's stop. We'll pick up at Sunwine Hall next time."
+        }
+      ],
+      "from": "p09",
+      "to": "p12",
+      "completion": "planned",
+      "context": "planned",
+      "mode": "dance",
+      "note": "The closing plan to pick up at Sunwine Hall next time does not narrate departure, elapsed travel, or arrival in this session."
+    }
+  ]
+}
