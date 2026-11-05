@@ -1,0 +1,1093 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-014",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+    "sessionYamlSha256": "f02b847b40bbf3c093fb104cd5857c76cbe7d99909efec88da458185331f0f09",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-transcript.md",
+    "transcriptSha256": "a6d67e25277b5556d148a4aa68cd8e7a9fbd09381e6a04a9de7193dedabb5342"
+  },
+  "places": {
+    "p01": {
+      "label": "Northern Dunmari plains",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "So as the sun sets on the plains of northern Dunmar, the land is alive with the sounds of nature:"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md",
+      "note": "Samtal identifies the northern plains in the canonical note and Session 14 (DuFr); the session uses descriptive geography."
+    },
+    "p02": {
+      "label": "Roadside camp west of Raven’s Hold",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "So as the sun sets on the plains of northern Dunmar, the land is alive with the sounds of nature: the clucks of groups of prairie chickens calling for mates, the soft wingbeats of night hawks soaring and hunting insects in the dusk, the laughing call of a pack of hyenas on the prowl in the distance, and the single bugle of an antelope alarm call far away. The red-gold light of sunset casts long shadows across the land and snow-capped peaks to the north, echoing the cheerful fire at your campsite. The dread silence of a few days ago is gone."
+        },
+        {
+          "startUid": "u0021",
+          "endUid": "u0023",
+          "quote": "You're, you're just—you're basically just due west from—"
+        },
+        {
+          "startUid": "u0238",
+          "endUid": "u0245",
+          "quote": "Here there are—so Seeker pauses for a moment and sort of concentrates and reaches out his mind, searching for magical lines of energy. And there are, you know, so, so the dwarven stronghold of Raven's Hold, which is a few miles to the—to the east, is a node where three ley lines cross. One of which is—one of which is running west from here, sort of roughly in the direction of—of the storm, one of which is running south roughly towards Karawa, and the other which runs kind of north northeast, north north by northeast a little bit, sort of—and that east by several—sort of like out into the plains, like sort of not in any direction you know."
+        },
+        {
+          "startUid": "u0022",
+          "endUid": "u0023",
+          "quote": "You're on this main road."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0006",
+              "quote": "So as the sun sets on the plains of northern Dunmar, the land is alive with the sounds of nature: the clucks of groups of prairie chickens calling for mates, the soft wingbeats of night hawks soaring and hunting insects in the dusk, the laughing call of a pack of hyenas on the prowl in the distance, and the single bugle of an antelope alarm call far away. The red-gold light of sunset casts long shadows across the land and snow-capped peaks to the north, echoing the cheerful fire at your campsite. The dread silence of a few days ago is gone."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Camp in the burned plains",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1016",
+          "quote": "So, um, around midday, the, the heat of the sun—you see the raven soaring overhead again. And then as evening progresses, you've now reached the sort of burned area as you start to set your camp. And so there's less less good foraging. Plenty of dead animals around, many of which seemed to have been heavily scavenged. And as you are now kind of about a day's travel closer to the storm, see from this distance looks like you see occasional flashes of lightning. It looks like almost a solid wall of of wind and fog and obscuring mists."
+        },
+        {
+          "startUid": "u1023",
+          "endUid": "u1029",
+          "quote": "And then—so it's not—I mean, there's—it's not a—this like, burned area on the outskirts, of the fires burn through like, you know, several days ago. It's not still hot or anything. There's no like smoldering areas. There's just a bit of a sort of unpleasant landscape to camp in. And the sounds of the of the storm are now obvious in the distance: the occasional crack of thunder, the flash of lightning, the distant sort of howl of the wind."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0966",
+              "endUid": "u0973",
+              "quote": "The—the—the plains across to the storm are relatively clear, except that you can see now, again in the morning light, some char, some like a burned area of the plains. If you recall, that one of the Dunmari you met heading south on your way north was had been out in that part of the country. And was that—a woman was fleeing with her family and her animals from a, from a fire, which seemed to have been sparked by lightning from the storm. But the way seems relatively clear, and you and—"
+            },
+            {
+              "startUid": "u1011",
+              "endUid": "u1016",
+              "quote": "So, um, around midday, the, the heat of the sun—you see the raven soaring overhead again. And then as evening progresses, you've now reached the sort of burned area as you start to set your camp. And so there's less less good foraging. Plenty of dead animals around, many of which seemed to have been heavily scavenged. And as you are now kind of about a day's travel closer to the storm, see from this distance looks like you see occasional flashes of lightning. It looks like almost a solid wall of of wind and fog and obscuring mists."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Stationary storm",
+      "kind": "weather region",
+      "evidence": [
+        {
+          "startUid": "u1114",
+          "endUid": "u1121",
+          "quote": "A few miles sort of on the outskirts of the storm. And as you're beginning to approach the outskirts of the storm, the sound and noise become near constant, as the dominant feature of the landscape is now these looming dark clouds, thunder, flashes of light. Not so much rain on the outskirts of the storm here, but you can see that the scars where lightning has struck the land. The air is hot and close."
+        },
+        {
+          "startUid": "u1367",
+          "endUid": "u1372",
+          "quote": "And after, I don't know, maybe half a mile, a mile travel, where, you know, in the next 15–20 minutes, 30 minutes, something like that, you are now sort of fully within the area of the storm. And mists—and not a heavy rain, but a new obscuring rain, sort of a light mist kind of falling down around everything, making it hard to tell which direction you are coming from, which direction you're going to—begins to—begins to close around you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0966",
+              "endUid": "u0977",
+              "quote": "The—the—the plains across to the storm are relatively clear, except that you can see now, again in the morning light, some char, some like a burned area of the plains. If you recall, that one of the Dunmari you met heading south on your way north was had been out in that part of the country. And was that—a woman was fleeing with her family and her animals from a, from a fire, which seemed to have been sparked by lightning from the storm. But the way seems relatively clear, and you and—"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Camp short of the storm",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1204",
+          "endUid": "u1210",
+          "quote": "Here we go. Vola says, like, “Okay, I, I, I will, I will camp here for the night. I don't think there's any way you're going to take your horses into that, do you?”"
+        },
+        {
+          "startUid": "u1262",
+          "endUid": "u1275",
+          "quote": "You know, another like mile or two to the edge, to get like actually under the storm, because you've stopped a little bit short of the, like, final sort of point of no return. And then one to five miles to get into the center, maybe. I mean, it's it's pretty big, like it's not like an isolated rainstorm, but it's not—you know, might be a little bigger than that. It's, it's a little bit hard to judge the size from where you are, but just by the arc in which it extends across the horizon, it's not—it's not as far as you can see to either side, right? So—what—"
+        }
+      ],
+      "note": "Outside the lightning-struck interior, a mile or two short of the storm proper; Vola remains here.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1262",
+              "endUid": "u1268",
+              "quote": "You know, another like mile or two to the edge, to get like actually under the storm, because you've stopped a little bit short of the, like, final sort of point of no return. And then one to five miles to get into the center, maybe. I mean, it's it's pretty big, like it's not like an isolated rainstorm, but it's not—you know, might be a little bigger than that. It's, it's a little bit hard to judge the size from where you are, but just by the arc in which it extends across the horizon, it's not—it's not as far as you can see to either side, right? So—what—"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Calm eye of the storm",
+      "kind": "clearing",
+      "evidence": [
+        {
+          "startUid": "u1733",
+          "endUid": "u1752",
+          "quote": "It's almost as if you've walked through a wall into this—the eye of the storm. The weather still feels off, but—but the wind and the wind is howling and and loud around you—but I mean, behind you—but where you're standing here is like dead calm. You can see above you that the evening sunlight, late afternoon sun shining down on you. And standing in front of you, you can see a—you see a tall shard of blue granite, what almost looks like the prow of a ship rising from the earth, weathered, rocky—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1733",
+              "endUid": "u1744",
+              "quote": "It's almost as if you've walked through a wall into this—the eye of the storm. The weather still feels off, but—but the wind and the wind is howling and and loud around you—but I mean, behind you—but where you're standing here is like dead calm. You can see above you that the evening sunlight, late afternoon sun shining down on you. And standing in front of you, you can see a—you see a tall shard of blue granite, what almost looks like the prow of a ship rising from the earth, weathered, rocky—"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "White marble tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u1745",
+          "endUid": "u1752",
+          "quote": "And perched atop it, jutting out of the dark form of the granite, a pure white marble tower rising about four to five stories in the to the sky. With a battlement at the summit of the tower, with a platform sort of extending out from the from the top of the, of the, the tower out over the prow of this rock formation. That you know, there's maybe 200 feet, 300 feet from where you are at the edge of the eye of the storm to that—to that rock formation. So the whole thing is maybe a 600-foot-diameter opening in the center of the storm."
+        },
+        {
+          "startUid": "u1827",
+          "endUid": "u1833",
+          "quote": "So you're now huddled under the—the sort of prow, of the sort of on the opposite side as as the as the tower, where you would be hidden from view. The tower itself—so, white marble. The—well, there's stairs going up, but otherwise—so there is a there is a doorway, but there is no door in the doorway that you can see from here, anyway. But you can't see sort of much beyond that. There are a few windows going you know on the sides of the towers narrow windows."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
+      "note": "Verified as Stormcaller Tower by Session 14 (DuFr) and the canonical tower note; neither that name nor Pavantova is spoken here. The note’s later destruction is not imported into this session.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1745",
+              "endUid": "u1752",
+              "quote": "And perched atop it, jutting out of the dark form of the granite, a pure white marble tower rising about four to five stories in the to the sky. With a battlement at the summit of the tower, with a platform sort of extending out from the from the top of the, of the, the tower out over the prow of this rock formation. That you know, there's maybe 200 feet, 300 feet from where you are at the edge of the eye of the storm to that—to that rock formation. So the whole thing is maybe a 600-foot-diameter opening in the center of the storm."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Sheltered camp below the granite prow",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1827",
+          "endUid": "u1849",
+          "quote": "So you're now huddled under the—the sort of prow, of the sort of on the opposite side as as the as the tower, where you would be hidden from view. The tower itself—so, white marble. The—well, there's stairs going up, but otherwise—so there is a there is a doorway, but there is no door in the doorway that you can see from here, anyway. But you can't see sort of much beyond that. There are a few windows going you know on the sides of the towers narrow windows."
+        }
+      ],
+      "note": "The camp and grave are below and outside the tower, not rooms within it.",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1871",
+              "endUid": "u1877",
+              "quote": "How far below the tower are we?"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1733",
+              "endUid": "u1752",
+              "quote": "It's almost as if you've walked through a wall into this—the eye of the storm. The weather still feels off, but—but the wind and the wind is howling and and loud around you—but I mean, behind you—but where you're standing here is like dead calm. You can see above you that the evening sunlight, late afternoon sun shining down on you. And standing in front of you, you can see a—you see a tall shard of blue granite, what almost looks like the prow of a ship rising from the earth, weathered, rocky—"
+            },
+            {
+              "startUid": "u1802",
+              "endUid": "u1806",
+              "quote": "Close to the to the cliffs. I suggest we get close to the edge of the [garbled]. There's windows out of that tower, and they're seeing us appear on the edge of their storm."
+            },
+            {
+              "startUid": "u1827",
+              "endUid": "u1837",
+              "quote": "So you're now huddled under the—the sort of prow, of the sort of on the opposite side as as the as the tower, where you would be hidden from view. The tower itself—so, white marble. The—well, there's stairs going up, but otherwise—so there is a there is a doorway, but there is no door in the doorway that you can see from here, anyway. But you can't see sort of much beyond that. There are a few windows going you know on the sides of the towers narrow windows."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Ruined first-floor hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1966",
+          "endUid": "u1976",
+          "quote": "I sent you a message. So the end the inside—there seems to be so this is you're looking in, it's it's dark, um, but you can see with darkvision, so you're just seeing sort of in in greys, nothing in color. But it seems to be—it looks like a tornado struck, like there's been some blast of force that just took what was once like an entry way a main hall, like you can see maybe what was a fireplace, to sort of smooth marble walls."
+        },
+        {
+          "startUid": "u1989",
+          "endUid": "u1993",
+          "quote": "There's—you know, seeming like this was like a like a there's a little entryway and then sort of a hall, like a bit of a eating area, common space, dining area. Um, but the main thing you can pick up is is that this has been just blasted apart, probably in the past few weeks, by a very strong force of wind. And you you also see—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1970",
+              "endUid": "u1976",
+              "quote": "But it's just been it's everything's just been blasted away by by a tornado. And you can see there's a there's a curving staircase that leads up to the second floor along the side of the wall. But, ah, whatever is in this whatever was in this first—wet—first, um, the whatever was in this first floor has just been shattered beyond recognition. If you spent some time picking around, you could probably you know, find more clues, but—"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Second-floor hallway",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2061",
+          "quote": "So it's probably been about 20 minutes, yeah, maybe 20–30 minutes. Um, okay, so the second floor now, as you begin to head up, is it much better seems to be in much better shape, um, not nearly as destroyed. There is, um, this is like living space. So you sort of come out in a in a bit of a hallway. It's almost maybe slightly similar in design to the, like, you know, the—like the rooms in the tower where Vola was held captive. You like come up the stairs, and then there's like a few small rooms on one side and then a large room on the other side, and the stairs continue up on on the opposite side, and—"
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2061",
+          "quote": "The doors are—so the three small rooms have wooden doors reinforced with iron reinforcement. The larger room has like a elaborate design and sort of wrought iron. Some wood elements, but like does like curlicues, and like sort of very intricate, um."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2044",
+              "endUid": "u2053",
+              "quote": "So it's probably been about 20 minutes, yeah, maybe 20–30 minutes. Um, okay, so the second floor now, as you begin to head up, is it much better seems to be in much better shape, um, not nearly as destroyed. There is, um, this is like living space. So you sort of come out in a in a bit of a hallway. It's almost maybe slightly similar in design to the, like, you know, the—like the rooms in the tower where Vola was held captive. You like come up the stairs, and then there's like a few small rooms on one side and then a large room on the other side, and the stairs continue up on on the opposite side, and—"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Third-floor library and research room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2121",
+          "endUid": "u2126",
+          "quote": "Slowly, yes. As you start to start to come out onto the third floor, you can see this—you know, was a was a there's, it's a big open space. The—the—the sides of the far side of the wall, sort of where you're looking across as you come up, um, was a, you know, is a— there's some bookshelf. There's some—not very many—books still on the shelves. In the middle of the room, there is a sort of like a big white marble table."
+        },
+        {
+          "startUid": "u2218",
+          "endUid": "u2218",
+          "quote": "Yes. That was when you are sending stuff. Well, I was when the, when you got to the top of the stairs to the stairs to the third floor, the library research room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2116",
+              "endUid": "u2131",
+              "quote": "Um, yeah, we're going to end on a dramatic cliffhanger in like 10 minutes. I'm—great. I'm not sure that once plan here, but—um, so as you come out onto the third, you're going up to the third floor, right?"
+            },
+            {
+              "startUid": "u2121",
+              "endUid": "u2126",
+              "quote": "Slowly, yes. As you start to start to come out onto the third floor, you can see this—you know, was a was a there's, it's a big open space. The—the—the sides of the far side of the wall, sort of where you're looking across as you come up, um, was a, you know, is a— there's some bookshelf. There's some—not very many—books still on the shelves. In the middle of the room, there is a sort of like a big white marble table."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Ash runes inside the storm",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u1380",
+          "endUid": "u1384",
+          "quote": "As you continue walking and and proceeding forward into this sort of gradually ever-darkening area of torrential rain and wind, it's almost as if you're now—like the wind is buffeting you. The ground is surprisingly dry, as if most of the rain isn't reaching the ground. It's it's almost blowing sideways in a vortex, around and around and around, and and hardly any of the water is is reaching the ground."
+        },
+        {
+          "startUid": "u1405",
+          "endUid": "u1408",
+          "quote": "Yes, as you all stop and look, it seems like you can. Yes, you can see the—the—the ground is sort of shifting a little bit, and despite the wind, the, like, the—the ash and and dust is sort of gathering into shapes as you all watch."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1380",
+              "endUid": "u1384",
+              "quote": "As you continue walking and and proceeding forward into this sort of gradually ever-darkening area of torrential rain and wind, it's almost as if you're now—like the wind is buffeting you. The ground is surprisingly dry, as if most of the rain isn't reaching the ground. It's it's almost blowing sideways in a vortex, around and around and around, and and hardly any of the water is is reaching the ground."
+            },
+            {
+              "startUid": "u1469",
+              "endUid": "u1469",
+              "quote": "It's not always good to read strange writing on the ground in a magical storm."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0010"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn",
+        "Vola"
+      ],
+      "reading": "The party camps beside the main road a few miles west of Raven’s Hold in the northern plains.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0010",
+          "quote": "So as the sun sets on the plains of northern Dunmar, the land is alive with the sounds of nature: the clucks of groups of prairie chickens calling for mates, the soft wingbeats of night hawks soaring and hunting insects in the dusk, the laughing call of a pack of hyenas on the prowl in the distance, and the single bugle of an antelope alarm call far away. The red-gold light of sunset casts long shadows across the land and snow-capped peaks to the north, echoing the cheerful fire at your campsite. The dread silence of a few days ago is gone."
+        },
+        {
+          "startUid": "u0021",
+          "endUid": "u0023",
+          "quote": "You're, you're just—you're basically just due west from—"
+        },
+        {
+          "startUid": "u0238",
+          "endUid": "u0245",
+          "quote": "Here there are—so Seeker pauses for a moment and sort of concentrates and reaches out his mind, searching for magical lines of energy. And there are, you know, so, so the dwarven stronghold of Raven's Hold, which is a few miles to the—to the east, is a node where three ley lines cross. One of which is—one of which is running west from here, sort of roughly in the direction of—of the storm, one of which is running south roughly towards Karawa, and the other which runs kind of north northeast, north north by northeast a little bit, sort of—and that east by several—sort of like out into the plains, like sort of not in any direction you know."
+        },
+        {
+          "startUid": "u0022",
+          "endUid": "u0023",
+          "quote": "You're on this main road."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0026",
+        "endUid": "u0032"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "The storm is visible far to the west from the camp.",
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0032",
+          "quote": "Let me see. Yeah, in the distance, you would, off in the distance to the west, you would see, um, you know, the hints of clouds. You know, like big thunder clouds in the sky and the occasional flash of lightning, but it's about—it's about 70 miles away. Roughly 60 to 70 miles away. So it's not—you know, it's in the distance, but it's a relatively clear day. It's a clear night, so you can see, you know, the sun—it's, it's in the direction of the sunset setting in the west—and you can certainly see that the light of the sun is, is, you know, casting itself on the storm clouds lingering on the horizon."
+        }
+      ],
+      "place": "p04",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0955",
+        "endUid": "u0977"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn",
+        "Vola"
+      ],
+      "reading": "Ride west across the plains with loaded horses, reaching the burned landscape for the first night’s camp.",
+      "evidence": [
+        {
+          "startUid": "u0955",
+          "endUid": "u0960",
+          "quote": "Okay, so Vola gratefully takes one of the horses and mounts up, and you all start heading—oh, yes. Yeah, so as you—okay."
+        },
+        {
+          "startUid": "u0974",
+          "endUid": "u0977",
+          "quote": "It's probably a relatively simple two-day journey to get there. Okay. And there's, you know, it's a it's a relatively nice clear day as you set off to the west. The let me make sure I've got some music going here."
+        },
+        {
+          "startUid": "u1011",
+          "endUid": "u1016",
+          "quote": "So, um, around midday, the, the heat of the sun—you see the raven soaring overhead again. And then as evening progresses, you've now reached the sort of burned area as you start to set your camp. And so there's less less good foraging. Plenty of dead animals around, many of which seemed to have been heavily scavenged. And as you are now kind of about a day's travel closer to the storm, see from this distance looks like you see occasional flashes of lightning. It looks like almost a solid wall of of wind and fog and obscuring mists."
+        },
+        {
+          "startUid": "u1030",
+          "endUid": "u1032",
+          "quote": "Um, and as you make camp that night, you know, Vola seems increasingly skeptical of this whole endeavor, but is willing to persist for one more day."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Cross relatively clear plains, foraging while traveling."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Morning departure through narrated evening camp"
+      }
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u1038",
+        "endUid": "u1049"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby relays the vulture’s aerial reconnaissance: no clear route into the storm, but a clear center with a white rock on a black rock.",
+      "evidence": [
+        {
+          "startUid": "u1038",
+          "endUid": "u1040",
+          "quote": "I asked the vulture to take a look and do a favor. It says there's no way—there's no obvious way into the storm. It flew over—you can get over the top of it. That there's no—there's no side of the storm where there's like a path in or something. But it says in the very center of it all, it's clear, and it says there's a white rock on a black rock, which means maybe a castle on a hill, clear in the center of it, maybe."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1049",
+          "quote": "No. I mean, obviously small enough that are raven could fly—or a vulture could fly over it and fly back in one day. So it's not like 50 miles across. I mean, it's pushing it for a vulture to fly 50 miles in a day, 25 miles there and back from where you were, so it can't be huge. But exact size is not clear."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "context": "reported",
+      "note": "Animal report relayed by Wellby; his interpretation as a castle is tentative. It does not place the party in the eye."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1056",
+        "endUid": "u1119"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn",
+        "Vola"
+      ],
+      "reading": "Leave the burned camp on the second morning and reach a stopping place short of the storm by afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1056",
+          "endUid": "u1066",
+          "quote": "Okay. So the next morning, you begin your day. Unseasonably cool, and a little bit of morning fog hanging on the on the blackened earth. So everywhere you look, sort of rocks and and you know the occasional burnt tree stumps sort of looms out of the mist. But as you proceed, the—the direction and distance to the storm is—oh, actually, wait, sorry. I forgot something."
+        },
+        {
+          "startUid": "u1111",
+          "endUid": "u1119",
+          "quote": "So, it takes you maybe until the late afternoon to get to the point where you're maybe—"
+        },
+        {
+          "startUid": "u1204",
+          "endUid": "u1210",
+          "quote": "Here we go. Vola says, like, “Okay, I, I, I will, I will camp here for the night. I don't think there's any way you're going to take your horses into that, do you?”"
+        },
+        {
+          "startUid": "u1262",
+          "endUid": "u1275",
+          "quote": "You know, another like mile or two to the edge, to get like actually under the storm, because you've stopped a little bit short of the, like, final sort of point of no return. And then one to five miles to get into the center, maybe. I mean, it's it's pretty big, like it's not like an isolated rainstorm, but it's not—you know, might be a little bigger than that. It's, it's a little bit hard to judge the size from where you are, but just by the arc in which it extends across the horizon, it's not—it's not as far as you can see to either side, right? So—what—"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Continue west through burned plains."
+        }
+      ],
+      "note": "The 25-mile distance is orientation, not measured distance actually ridden to this stop."
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u1204",
+        "endUid": "u1275"
+      },
+      "actors": [
+        "Vola"
+      ],
+      "reading": "Vola stays at the camp outside the storm while the five adventurers proceed.",
+      "evidence": [
+        {
+          "startUid": "u1204",
+          "endUid": "u1210",
+          "quote": "Here we go. Vola says, like, “Okay, I, I, I will, I will camp here for the night. I don't think there's any way you're going to take your horses into that, do you?”"
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1275",
+          "quote": "Why don't we see—Vola said she is not going into this, I gather?"
+        },
+        {
+          "startUid": "u1272",
+          "endUid": "u1272",
+          "quote": "Leave your camp here for the night."
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1372"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "The five adventurers enter the storm and reach its misty interior; Riswynn rides her horse and Taster runs ahead.",
+      "evidence": [
+        {
+          "startUid": "u1339",
+          "endUid": "u1344",
+          "quote": "I take Taster because I'm tired of this conversation. And I'm on my horse, and I ride towards the storm."
+        },
+        {
+          "startUid": "u1349",
+          "endUid": "u1357",
+          "quote": "As you began to walk into the storm, Seeker on a horse, the rest of you walking, the—you know, the sounds, the—you know, the noise, noises just become more intense as you progress under—to you, to the point at which you're actually underneath the dark clouds. Still haven't had any rain, but now you can hear the wind howling from ahead of you. The lightning flashes in the sky, mostly from cloud to cloud, only occasionally striking the ground, are near constant to this point. And as the dark clouds close overhead, the lightning is just about some of the only sort of real visibility there is. That otherwise feels like night as the just pure blackness of the clouds cover everything."
+        },
+        {
+          "startUid": "u1361",
+          "endUid": "u1372",
+          "quote": "With each crash of thunder, you—Riswynn, your horse like increasingly shies away, skittering, but at least for now you managed to keep it under control. Taster is running ahead of you, like three, four hundred feet or so."
+        },
+        {
+          "startUid": "u1367",
+          "endUid": "u1372",
+          "quote": "And after, I don't know, maybe half a mile, a mile travel, where, you know, in the next 15–20 minutes, 30 minutes, something like that, you are now sort of fully within the area of the storm. And mists—and not a heavy rain, but a new obscuring rain, sort of a light mist kind of falling down around everything, making it hard to tell which direction you are coming from, which direction you're going to—begins to—begins to close around you."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk and ride",
+      "note": "u1349–u1357 names Seeker as mounted, but Riswynn’s declaration and repeated horse checks establish Riswynn as the rider. No additional Seeker mount is inferred."
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1395",
+        "endUid": "u1450"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "The party stops among ash runes forming on the ground in the storm.",
+      "evidence": [
+        {
+          "startUid": "u1395",
+          "endUid": "u1408",
+          "quote": "Whoa. I popped the goggles up off my eyes onto my forehead, and squinting, looking around at the ground—is it in fact moving and shifting, or is that my ley-lines sight, which I see it only—"
+        },
+        {
+          "startUid": "u1426",
+          "endUid": "u1450",
+          "quote": "Okay, so—okay. Ah, so how are you all standing at the moment?"
+        },
+        {
+          "startUid": "u1405",
+          "endUid": "u1408",
+          "quote": "Yes, as you all stop and look, it seems like you can. Yes, you can see the—the—the ground is sort of shifting a little bit, and despite the wind, the, like, the—the ash and and dust is sort of gathering into shapes as you all watch."
+        },
+        {
+          "startUid": "u1450",
+          "endUid": "u1450",
+          "quote": "The runes are in front of you. You and Seeker are standing and watching them kind of form, stretch an arc in front of you."
+        }
+      ],
+      "place": "p12"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1615"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Continue forward away from the runes into darker wind, fog, and rain.",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1603",
+          "quote": "Now I'm going to use Mold Earth to quickly erase as many runes as I can and replace them with my own giant Minor Illusion runes that would, if the runes work, create lush green grass in the place of the ashes. I'm overriding—"
+        },
+        {
+          "startUid": "u1612",
+          "endUid": "u1615",
+          "quote": "So, um, the—as you continue now, um, under even darker skies—visibility, fog and mist is kind of now rolling in, and you can see maybe at best 20 or 30 feet in front of you. And the wind now is howling, which makes movement difficult. And Riswynn, I need you to roll another Animal Handling check."
+        }
+      ],
+      "from": "p12",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk and ride"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1632",
+        "endUid": "u1642"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Taster reports darker, colder, wetter conditions ahead and becomes lost; this provides no arrival in the eye.",
+      "evidence": [
+        {
+          "startUid": "u1632",
+          "endUid": "u1642",
+          "quote": "So Taster is now lost in the rain, but says that the, ah, that it gets darker. It keeps getting darker and colder and wetter, and darker and wetter as you go forward. And then there's like a, you know, occasionally, occasionally there'll be a big like flash of lightning as you, you know, move back and forth, and—and you know Taster will jump with a start. Lightning as the lightning—but it seems that it's hard for this rabbit to navigate in dense fog and rain with with no clear direction."
+        }
+      ],
+      "place": "p04",
+      "mode": "remote",
+      "observerPlace": "p04",
+      "observedActors": [
+        "Taster"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1686",
+        "endUid": "u1690"
+      },
+      "actors": [
+        "Taster"
+      ],
+      "reading": "Taster flees into the storm’s darkness at the eyewall; destination and survival are unestablished.",
+      "evidence": [
+        {
+          "startUid": "u1686",
+          "endUid": "u1690",
+          "quote": "Literally a white rock on top of a black rock. So at this point now, the wind has, you know, the roaring of the wind picks up, and you know, basically you can't hear anything beyond 10 feet. You know, it's just—you're basically in the center, at the eyewall of a enormous hurricane, this day, the rain lashing you, the wind is battering you, and the noise is is deafening. It's like you can't. You have to huddle close together in order to talk. This is also too much for Taster. Despite your best effort, Taster flees into the darkness."
+        }
+      ],
+      "from": "p04",
+      "to": null,
+      "completion": "underway"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1725",
+        "endUid": "u1756"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Three companions push through into the calm eye while Kenzo and Riswynn remain disoriented in the wind.",
+      "evidence": [
+        {
+          "startUid": "u1725",
+          "endUid": "u1731",
+          "quote": "Riswynn and Kenzo are now blown away from you at this point, so it is a little bit late. And let's see. Kenzo and Riswynn, can you each make a Perception check, or Survival? I'll say Survival. Seeker and Wellby—you three push through the wind and find yourself emerging into utter calm."
+        },
+        {
+          "startUid": "u1733",
+          "endUid": "u1744",
+          "quote": "It's almost as if you've walked through a wall into this—the eye of the storm. The weather still feels off, but—but the wind and the wind is howling and and loud around you—but I mean, behind you—but where you're standing here is like dead calm. You can see above you that the evening sunlight, late afternoon sun shining down on you. And standing in front of you, you can see a—you see a tall shard of blue granite, what almost looks like the prow of a ship rising from the earth, weathered, rocky—"
+        },
+        {
+          "startUid": "u1753",
+          "endUid": "u1756",
+          "quote": "Riswynn and Kenzo, you find yourself lying, pulling yourself up together. You're blown basically into each other, but then sort of spun around, and you're not actually entirely sure which way is what."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1757",
+        "endUid": "u1781"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby makes a rope-tethered rescue trip back into the storm, gathers Kenzo and Riswynn, and returns to the eye.",
+      "evidence": [
+        {
+          "startUid": "u1757",
+          "endUid": "u1765",
+          "quote": "I'll quickly pull a rope out of my pack and tie one end around my waist. Yeah, the other end to to Delwath, and say, “I got them. Don't let go.” With that, run back into the storm again."
+        },
+        {
+          "startUid": "u1772",
+          "endUid": "u1781",
+          "quote": "Yes, I will tell them, “Stay where you are.” And then I'll go to the maximum extension of the rope along the the, you know, like the wall, and I'll stand out that way and assume that I'll bump into them, or the—"
+        },
+        {
+          "startUid": "u1775",
+          "endUid": "u1781",
+          "quote": "Ah, yes. So you do see—you do see in the about 50 feet vortexwards, or downwind of of where you are—so the wind spinning in a circle, right?—you see this like little dim flash of light. It seems to be struggling to produce light against the the power of the storm, but it does give you a beacon in which you can head towards. And with the rope, managed to gather everybody up safely, and you all pull yourself together and cross back across the storm."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Returns into the wind to find Kenzo and Riswynn using the driftglobe beacon."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1775",
+        "endUid": "u1781"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The rope rescue brings Kenzo and Riswynn safely into the eye.",
+      "evidence": [
+        {
+          "startUid": "u1775",
+          "endUid": "u1781",
+          "quote": "Ah, yes. So you do see—you do see in the about 50 feet vortexwards, or downwind of of where you are—so the wind spinning in a circle, right?—you see this like little dim flash of light. It seems to be struggling to produce light against the the power of the storm, but it does give you a beacon in which you can head towards. And with the rope, managed to gather everybody up safely, and you all pull yourself together and cross back across the storm."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1802",
+        "endUid": "u1837"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Gather in shelter beneath the granite prow, hidden from the tower, where a prior camp and grave remain.",
+      "evidence": [
+        {
+          "startUid": "u1802",
+          "endUid": "u1806",
+          "quote": "Close to the to the cliffs. I suggest we get close to the edge of the [garbled]. There's windows out of that tower, and they're seeing us appear on the edge of their storm."
+        },
+        {
+          "startUid": "u1827",
+          "endUid": "u1837",
+          "quote": "So you're now huddled under the—the sort of prow, of the sort of on the opposite side as as the as the tower, where you would be hidden from view. The tower itself—so, white marble. The—well, there's stairs going up, but otherwise—so there is a there is a doorway, but there is no door in the doorway that you can see from here, anyway. But you can't see sort of much beyond that. There are a few windows going you know on the sides of the towers narrow windows."
+        },
+        {
+          "startUid": "u1834",
+          "endUid": "u1837",
+          "quote": "In the sheltered area, sort of underneath this prow, you can see signs of a camp."
+        },
+        {
+          "startUid": "u1840",
+          "endUid": "u1849",
+          "quote": "And there is what seems to be a relatively fresh grave, marked with a stone, like a small—are really, a, I guess a cairn, pile of small stones, because it's not a lot of big stones here. Um, with sort of stuck into it, a grave marker carved with a with a symbol, which you, Kenzo, would recognize as the the holy symbol of one of the Eightfold gods that are the Dunmari God. So this is the Sibyl, the goddess of knowledge and magic—not the Dunmari God's the Chardonian, and in Sembara. Well Wellby, you would recognize these as well. Probably you would all recognize it, because they're quite common across the world. So this is the major the main gods that are worshipped everywhere other than Dunmar."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u1878",
+        "endUid": "u1902"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Stone Sense detects valuable metals near the tower top and unfamiliar material within the granite; Seeker remains below.",
+      "evidence": [
+        {
+          "startUid": "u1878",
+          "endUid": "u1902",
+          "quote": "I put my hand on the granite and close my eyes and use my Stone Sense, which I will share. So you can say—"
+        },
+        {
+          "startUid": "u1881",
+          "endUid": "u1889",
+          "quote": "Yes, um. So, so you sense a few things. First of all, there is something—I'll make a make an Intelligence check. Do—so at the top, you can sense, sort of at the at the far range of your Stone Sense at the top of the tower, there is—you can sense gold and silver and and valuable metal that that you're familiar with, right? So so that that is is clear to you. And this is coming from somewhere close to the top of the tower."
+        },
+        {
+          "startUid": "u1890",
+          "endUid": "u1893",
+          "quote": "Within the granite, some somewhere in its in its core, and inside this granite that you can't see clearly, there is something unusual, some sort of metal or ore that you have not encountered before."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1935",
+        "endUid": "u1993"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Invisible Delwath climbs the exterior stairs, looks through the shattered doorway, then enters and searches the ruined hall.",
+      "evidence": [
+        {
+          "startUid": "u1935",
+          "endUid": "u1938",
+          "quote": "Okay, so you cast Invisibility on on yourself? Yeah, okay, and you're heading up the steps to the door. Ah. Ok, um."
+        },
+        {
+          "startUid": "u1954",
+          "endUid": "u1969",
+          "quote": "Um, so it requires some care, slowly picking your way up, as you—as you—you know, as you are being sort of careful and slow slow heading up here. As you come the first turn, second turn, third turn, you can now see more clearly that the door is not exactly missing. It just seems to have been shattered and blown away. So there is but there is the twisted remains of what used to be a—what used to be a door in the doorway, um, little bits of of sort of wrought iron work silver. And it seems to have been blasted out from a force inside the tower."
+        },
+        {
+          "startUid": "u1978",
+          "endUid": "u1993",
+          "quote": "Yes. No. Okay, I'll go in and pick around for a bit."
+        },
+        {
+          "startUid": "u1989",
+          "endUid": "u1993",
+          "quote": "There's—you know, seeming like this was like a like a there's a little entryway and then sort of a hall, like a bit of a eating area, common space, dining area. Um, but the main thing you can pick up is is that this has been just blasted apart, probably in the past few weeks, by a very strong force of wind. And you you also see—"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Climbs old switchback stairs up the granite to the tower doorway."
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2044",
+        "endUid": "u2053"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath climbs to the second-floor hallway and passes the doors to three small rooms and one larger room.",
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2053",
+          "quote": "So it's probably been about 20 minutes, yeah, maybe 20–30 minutes. Um, okay, so the second floor now, as you begin to head up, is it much better seems to be in much better shape, um, not nearly as destroyed. There is, um, this is like living space. So you sort of come out in a in a bit of a hallway. It's almost maybe slightly similar in design to the, like, you know, the—like the rooms in the tower where Vola was held captive. You like come up the stairs, and then there's like a few small rooms on one side and then a large room on the other side, and the stairs continue up on on the opposite side, and—"
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2061",
+          "quote": "The doors are—so the three small rooms have wooden doors reinforced with iron reinforcement. The larger room has like a elaborate design and sort of wrought iron. Some wood elements, but like does like curlicues, and like sort of very intricate, um."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2131"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath continues up to the third-floor library, where the living lightning appears.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2080",
+          "quote": "Say you're continuing up to the third floor?"
+        },
+        {
+          "startUid": "u2121",
+          "endUid": "u2131",
+          "quote": "Slowly, yes. As you start to start to come out onto the third floor, you can see this—you know, was a was a there's, it's a big open space. The—the—the sides of the far side of the wall, sort of where you're looking across as you come up, um, was a, you know, is a— there's some bookshelf. There's some—not very many—books still on the shelves. In the middle of the room, there is a sort of like a big white marble table."
+        },
+        {
+          "startUid": "u2127",
+          "endUid": "u2131",
+          "quote": "And as you—ah, and as you step up— I just sent you a message. Ah, I need you to roll initiative as a blue arcane lightning bolt zaps out of the wall appearing in front of you."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2143",
+        "endUid": "u2185"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath escapes through a tower window with Misty Step, lands outside, and returns to the sheltered camp.",
+      "evidence": [
+        {
+          "startUid": "u2143",
+          "endUid": "u2149",
+          "quote": "I'll go down the stairs."
+        },
+        {
+          "startUid": "u2157",
+          "endUid": "u2173",
+          "quote": "So I'll jump out a window."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2185",
+          "quote": "What it looks like to you is, you see this flash of of blue-purple illuminate a window from above, and then Delwath appears midair and disappears again and appears smack on the ground, in a heap."
+        },
+        {
+          "startUid": "u2184",
+          "endUid": "u2185",
+          "quote": "Delwath will come over to the camp, make sure you can't see up to the windows, and sort of try and get under cover."
+        },
+        {
+          "startUid": "u2160",
+          "endUid": "u2164",
+          "quote": "And as you go to run and jump out the window, a blast of lightning goes flying past your head. But let me just roll to see if it managed to include you in the line. But it goes—it just blasts harmlessly against the wall as you dive out the window, timing your Misty Step perfectly. So you only take—actually, make a Dexterity saving throw."
+        }
+      ],
+      "from": "p11",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "jump and teleport",
+      "note": "He first proposes retreat down the stairs, then chooses a window. The precise floor of the escape window is not stated."
+    }
+  ]
+}

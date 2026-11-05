@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-time-markers.json",
+    "sha256": "df759e47680615f12f93d4d9c534983f3aaa93090344b57ac1a7235e23763745"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-transcript.md",
+    "sha256": "a6d67e25277b5556d148a4aa68cd8e7a9fbd09381e6a04a9de7193dedabb5342"
+  },
+  "dateAssessment": "Working dates use the compatible YAML calendar, April 13–15, 1748. The transcript opens at sunset, crosses two completed nights, and ends with a sunset short rest; it independently establishes the two-day span, not absolute dates. The existing dated timeline agrees with this sequence but is not an independent date anchor. Overnight watches are inferred from eight-hour long rests ending in the morning; storm travel is cumulative, not added again for its nested intervals. The table’s “1230” is a real-world stopping time; the missing constellations do not establish a time jump.",
+  "watches": [
+    {
+      "day": "April 13, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Opening sunset; Vola’s extended dinner conversation ends late in the evening.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-13"
+    },
+    {
+      "day": "April 13–14, 1748",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Eight-hour overnight rest before an early morning departure; bedtime watch inferred backward from waking.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-14"
+    },
+    {
+      "day": "April 14, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Midday sun and the raven mark the first travel day.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1748-04-14",
+      "endDate": "1748-04-14"
+    },
+    {
+      "day": "April 14, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Evening arrival and camp in the burned plains after the first day’s travel.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-04-14",
+      "endDate": "1748-04-14"
+    },
+    {
+      "day": "April 14–15, 1748",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Second overnight rest ends at the explicitly narrated next morning; eight hours inferred from long-rest credit.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-04-14",
+      "endDate": "1748-04-15"
+    },
+    {
+      "day": "April 15, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Arrival around 2–3 p.m.; 1½–2 cumulative storm hours reach late-afternoon light, followed by Delwath’s 20–30-minute reconnaissance.",
+      "markers": [
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11",
+        "t12",
+        "t13"
+      ],
+      "startDate": "1748-04-15",
+      "endDate": "1748-04-15"
+    },
+    {
+      "day": "April 15, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset and emerging stars during a one-hour short rest.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-04-15",
+      "endDate": "1748-04-15"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Existing dated timeline review",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-timeline-review.json",
+      "sha256": "2e8cfbe55bdc83e6728d9076bc740a7649bb14e71f9702d5d6696b8ea9e20232"
+    }
+  ]
+}

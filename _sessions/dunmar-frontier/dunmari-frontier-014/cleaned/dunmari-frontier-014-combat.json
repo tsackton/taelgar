@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-014",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+    "sessionYamlSha256": "f02b847b40bbf3c093fb104cd5857c76cbe7d99909efec88da458185331f0f09",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-transcript.md",
+    "transcriptSha256": "a6d67e25277b5556d148a4aa68cd8e7a9fbd09381e6a04a9de7193dedabb5342",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-segments.json",
+      "sha256": "3137c107110c644d7d47a90cfe45595d3c9af61e7f6b70b6e755f79f3fc65bec",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Living lightning in the tower library",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Wins the first action while invisible, initially retreats toward the stairs, then chooses to jump out a window. Casts Misty Step during the fall to reduce the drop, ending invisibility. After a poor Dexterity saving throw, takes 13 damage on landing; no final save number or damage type is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2133",
+                  "endUid": "u2149"
+                },
+                {
+                  "startUid": "u2152",
+                  "endUid": "u2173"
+                }
+              ]
+            },
+            {
+              "actor": "Living lightning",
+              "kind": "turn",
+              "summary": "Detaches from the wall and pursues Delwath, sensing his sounds but unable to see him precisely through invisibility. During his escape it fires a lightning blast that misses him and strikes the wall harmlessly.",
+              "evidence": [
+                {
+                  "startUid": "u2151",
+                  "endUid": "u2164"
+                },
+                {
+                  "startUid": "u2279",
+                  "endUid": "u2282"
+                }
+              ],
+              "note": "The attack occurs as Delwath jumps; the source does not name it as a reaction or state advantage/disadvantage."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Delwath escapes alive and lands outside in a heap. The lightning creature is not defeated.",
+        "evidence": [
+          {
+            "startUid": "u2167",
+            "endUid": "u2180"
+          }
+        ]
+      }
+    }
+  ]
+}

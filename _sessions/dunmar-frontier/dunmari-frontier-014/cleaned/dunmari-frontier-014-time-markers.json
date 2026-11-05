@@ -1,0 +1,440 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-014",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+    "sessionYamlSha256": "f02b847b40bbf3c093fb104cd5857c76cbe7d99909efec88da458185331f0f09",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-transcript.md",
+    "transcriptSha256": "a6d67e25277b5556d148a4aa68cd8e7a9fbd09381e6a04a9de7193dedabb5342",
+    "yamlDates": {
+      "start": "1748-04-13",
+      "end": "1748-04-15"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0006"
+      },
+      "reading": "Sunset at the roadside camp west of Raven’s Hold.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "So as the sun sets on the plains of northern Dunmar, the land is alive with the sounds of nature:"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit narration"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0836",
+        "endUid": "u0837"
+      },
+      "reading": "Vola ends the extended after-dinner discussion as it grows late.",
+      "evidence": [
+        {
+          "startUid": "u0836",
+          "endUid": "u0837",
+          "quote": "Look, it's getting late."
+        }
+      ],
+      "time": {
+        "partOfDay": "late evening",
+        "precision": "approximate",
+        "basis": "Explicit narration"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0858",
+        "endUid": "u0868"
+      },
+      "reading": "The party rests overnight before gathering for the first travel morning.",
+      "evidence": [
+        {
+          "startUid": "u0858",
+          "endUid": "u0864",
+          "quote": "Shall we rest and get an early start in the morning?"
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0868",
+          "quote": "Okay, so anybody who hasn't long rested recently may as well do that, although I don't know if you—maybe you did already."
+        },
+        {
+          "startUid": "u0943",
+          "endUid": "u0947",
+          "quote": "As we start to gather ourselves together in the morning, Wellby comes back into camp trailed by an axebeak, giving it little pieces of lunch from last night."
+        },
+        {
+          "startUid": "u2396",
+          "endUid": "u2397",
+          "quote": "You should have taken like you should have at least two long rests, yeah. You should have all your Hit Dice back. Um."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; morning transition and later two-rest confirmation establish completion"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Bedtime after the late dinner conversation"
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "Next gathering explicitly in the morning"
+        }
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1011",
+        "endUid": "u1016"
+      },
+      "reading": "Midday on the first day of westward travel; the raven appears overhead.",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1016",
+          "quote": "around midday, the, the heat of the sun—you see the raven soaring overhead again."
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "Explicit narration"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1011",
+        "endUid": "u1016"
+      },
+      "reading": "By evening the first day of travel reaches the burned land and camp.",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1016",
+          "quote": "And then as evening progresses, you've now reached the sort of burned area as you start to set your camp."
+        },
+        {
+          "startUid": "u1030",
+          "endUid": "u1032",
+          "quote": "Um, and as you make camp that night, you know, Vola seems increasingly skeptical of this whole endeavor, but is willing to persist for one more day."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Explicit narration"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1033",
+        "endUid": "u1066"
+      },
+      "reading": "The second travel day begins after the night in the burned landscape; the vulture report interrupts, rather than adds to, this transition.",
+      "evidence": [
+        {
+          "startUid": "u1033",
+          "endUid": "u1033",
+          "quote": "The next day, as you—"
+        },
+        {
+          "startUid": "u1056",
+          "endUid": "u1066",
+          "quote": "Okay. So the next morning, you begin your day."
+        },
+        {
+          "startUid": "u1076",
+          "endUid": "u1083",
+          "quote": "So you wake up in the morning to this to this sight and begin to gather a breakfast together from what Vola and the rest of you had foraged the day before."
+        },
+        {
+          "startUid": "u2396",
+          "endUid": "u2397",
+          "quote": "You should have taken like you should have at least two long rests, yeah. You should have all your Hit Dice back. Um."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Explicit narration"
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention, confirmed retrospectively as the second rest"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1111",
+        "endUid": "u1119"
+      },
+      "reading": "Arrival near the storm on the second travel afternoon; later clock readings refine the initial late-afternoon wording to about 2–3 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1111",
+          "endUid": "u1112",
+          "quote": "So, it takes you maybe until the late afternoon to get to the point where you're maybe—"
+        },
+        {
+          "startUid": "u1162",
+          "endUid": "u1166",
+          "quote": "Three in the afternoon."
+        },
+        {
+          "startUid": "u1250",
+          "endUid": "u1250",
+          "quote": "It's like two, three in the afternoon."
+        }
+      ],
+      "time": {
+        "clock": "15:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Initially late afternoon, then three, then two or three in the afternoon; approximate 15:00 retains the stated range in the reading"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1178",
+        "endUid": "u1179"
+      },
+      "reading": "Delwath has spent about ten minutes concentrating to activate fey sight at the storm outskirts.",
+      "evidence": [
+        {
+          "startUid": "u1178",
+          "endUid": "u1179",
+          "quote": "And in the like 10 minutes we were concert—I was concentrating to like get fey sight going, is the lightning like striking the ground?"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Player explicitly describes completed concentration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1367",
+        "endUid": "u1372"
+      },
+      "reading": "The initial walk into the storm takes roughly 15–30 minutes.",
+      "evidence": [
+        {
+          "startUid": "u1367",
+          "endUid": "u1372",
+          "quote": "And after, I don't know, maybe half a mile, a mile travel, where, you know, in the next 15–20 minutes, 30 minutes, something like that, you are now sort of fully within the area of the storm. And mists—and not a heavy rain, but a new obscuring rain, sort of a light mist kind of falling down around everything, making it hard to tell which direction you are coming from, which direction you're going to—begins to—begins to close around you."
+        }
+      ],
+      "duration": {
+        "min": 15,
+        "minInclusive": true,
+        "max": 30,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM gives 15–20 minutes, then 30 minutes as a loose alternative"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11",
+          "note": "Initial storm entry is part of the later cumulative travel interval."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1596",
+        "endUid": "u1603"
+      },
+      "reading": "Some time passes while the party leaves the runes, and Delwath’s compulsion fades.",
+      "evidence": [
+        {
+          "startUid": "u1596",
+          "endUid": "u1603",
+          "quote": "And as you get far from them, and as some a little bit of time has passed, Delwath, you feel—the slap does seem to have helped, and you feel the compulsion that was over you fade."
+        }
+      ],
+      "duration": {
+        "text": "a little bit of time",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit unspecified elapsed interval while moving away"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1649",
+        "endUid": "u1655"
+      },
+      "reading": "Cumulative storm travel has taken roughly an hour and a half to two hours by the strongest wind.",
+      "evidence": [
+        {
+          "startUid": "u1649",
+          "endUid": "u1655",
+          "quote": "Okay, so as you proceed forward, the thunder—the thunder crashing, you find now, having traveled for possibly, you know, a couple of hours, maybe—it's it's sort of hard to keep track of time and distance here—maybe an hour and a half. You are—and as you know, travel has gotten quite a, quite difficult here. The wind is now pushing us so hard that it takes effort to stand, to move straight and keep going. And Riswynn, I need you to make another Animal Handling check."
+        }
+      ],
+      "duration": {
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s cumulative estimate; explicitly hard to track time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1733",
+        "endUid": "u1744"
+      },
+      "reading": "Delwath, Seeker, and Wellby reach the eye in late-afternoon sunlight; Kenzo and Riswynn are still outside until rescued.",
+      "evidence": [
+        {
+          "startUid": "u1733",
+          "endUid": "u1744",
+          "quote": "You can see above you that the evening sunlight, late afternoon sun shining down on you."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM says evening sunlight then late afternoon sun"
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2044",
+        "endUid": "u2050"
+      },
+      "reading": "Delwath’s invisible scouting has lasted about 20–30 minutes when he reaches the second floor.",
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2050",
+          "quote": "So it's probably been about 20 minutes, yeah, maybe 20–30 minutes."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "min": 20,
+        "minInclusive": true,
+        "max": 30,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM retrospective estimate of the scouting already completed"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2432",
+        "endUid": "u2437"
+      },
+      "reading": "The party takes a short rest at the sheltered camp as the sun sets and stars emerge.",
+      "evidence": [
+        {
+          "startUid": "u2432",
+          "endUid": "u2437",
+          "quote": "So as you short rest, as Kenzo, you know begins to meditate, as the sun sets and the stars begin to come out in the sky"
+        },
+        {
+          "startUid": "u2439",
+          "endUid": "u2445",
+          "quote": "Oh, that's terrible. Oh, um, Seeker's Song of Rest, don't forget."
+        },
+        {
+          "startUid": "u2446",
+          "endUid": "u2449",
+          "quote": "Okay. So as you're resting, Kenzo meditating, the rest of you are sort of healing and and catching your breath, the sun begins to set and the stars began to come out. And looking up at the sky, something looks—"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit narration"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; Hit Dice and Song of Rest are resolved"
+      },
+      "completion": "completed",
+      "note": "The nearby “1230” is the real-world stopping time. Missing constellations prompt speculation but establish no dated time jump."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute campaign date is spoken. April 13 is the YAML start anchor; two completed nights lead to April 15.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t03",
+      "t06",
+      "t07",
+      "t14"
+    ],
+    "explanation": "Camp dinner, two travel days separated by completed overnight rests, and a sunset short rest support the entire two-boundary YAML span. Vola’s expedition history and the old camp/grave do not extend the played interval. The stars provoke a question, not an established chronological shift."
+  }
+}
