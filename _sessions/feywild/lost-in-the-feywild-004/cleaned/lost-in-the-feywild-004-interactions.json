@@ -1,0 +1,2330 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a"
+    },
+    "entityMap": {
+      "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-entity-map.json",
+      "sha256": "38614a5a8815fe42be0e82b4f41bbf7ebef5aa8d1b321a2fe29d9ff241a4d54b"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Recalling Hulda’s commission and the delivered deed",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0014"
+      },
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0010:0-120, u0011:0-26, u0012:0-196, u0013:0-237, u0014:0-46 %%",
+        "DM: Hulda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was owed more and wanted more. And deep in the throes of a midlife crisis last spring after having killed a dragon and had, you know, done all of these accomplishments, and discovering himself no better off than he'd ever been, an elf met with him and gave him the deed to this house, naming him very specifically that he was inheritor of it, assuming he could go through the door in the basement and break the treaty set with the man on the other side of the door. With the person on the other side of the door."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: Would be great.",
+          "DM: And… It's been a minute, so just to do a quick recap from the very beginning: the five of you, knowing each other and having run various jobs together, got recruited by a… a sort of a strange, pale… a thick guy in Tollen to come and help his master clear out or secure his deed to a house in the wilderness, more or less.",
+          "DM: Traveling through more and more remote wilderness, you get there to Dandelion House, which is a relic of the Drankorian Empire, magically preserved in some ways, not perfectly preserved. And is this sort of gorgeous masterpiece of, late Drankorian architecture way far north from the Empire, or maybe towards the northern edges of the Empire."
+        ],
+        "after": [
+          "DM: He sends you through that door in the basement below the basement, climbing through this route, and you emerge in the Feywild in a sort of a… skeletal version of that same house? Like, a reflection of it, made of… bone, or coral, or tree roots, something like that.",
+          "DM: Heading down the road after passing some dead bodies with their heads either destroyed or removed one way or another, you make your way to the party of Lord Endless Ending, a perpetually just-past-its-peak party that's starting to come apart, and after meeting and talking with various inhabitants, you realize that Lord Endless Ending has made a commitment with his next neighbor down the road that every time the grandfather clock they gave him strikes zero, he will send a mortal through the door and into that house. Which is all he says about what it is.",
+          "DM: And… He doesn't like that he made this bargain. He feels like he was tricked into it in a game of naming by a human wizard.",
+          "DM: Tim, the session notes may be in error here. It was Thalestria, the head of the, order, who tricked him into it. And… And she's the head of Arithrimos Lamperum, and after talking with Menestheus, a mathematician and mapmaker who has been sleeping off a drunk at that party for what looks like about 700 years. And…",
+          "DM: The order was charged with… controlling, containing… healing, walling up, or otherwise worrying, in general, about the holes in the universe, the holes between the planes and things that might come through them. A thing, probably, that you all, as players, understand maybe more clearly or concretely than, the characters do."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Recap correction: Thalestria’s bargain and the order’s mission",
+      "source": {
+        "startUid": "u0020",
+        "endUid": "u0040"
+      },
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0020:0-117, u0021:0-180, u0022:0-161, u0023:0-59, u0024:0-38 %%",
+        "DM: Heading down the road after passing some dead bodies with their heads either destroyed or removed one way or another, you make your way to the party of Lord Endless Ending, a perpetually just-past-its-peak party that's starting to come apart, and after meeting and talking with various inhabitants, you realize that Lord Endless Ending has made a commitment with his next neighbor down the road that every time the grandfather clock they gave him strikes zero, he will send a mortal through the door and into that house. Which is all he says about what it is.",
+        "",
+        "%% u0025:0-123 %%",
+        "DM: And… He doesn't like that he made this bargain. He feels like he was tricked into it in a game of naming by a human wizard.",
+        "",
+        "%% u0026:0-87, u0027:0-24, u0028:0-4, u0029:0-120, u0030:0-71, u0031:0-4 %%",
+        "DM: Tim, the session notes may be in error here. It was Thalestria, the head of the, order, who tricked him into it. And… And she's the head of Arithrimos Lamperum, and after talking with Menestheus, a mathematician and mapmaker who has been sleeping off a drunk at that party for what looks like about 700 years. And…",
+        "",
+        "%% u0032:0-52, u0033:0-203, u0034:0-68 %%",
+        "DM: The order was charged with… controlling, containing… healing, walling up, or otherwise worrying, in general, about the holes in the universe, the holes between the planes and things that might come through them. A thing, probably, that you all, as players, understand maybe more clearly or concretely than, the characters do.",
+        "",
+        "%% u0035:0-91, u0036:0-12, u0037:0-25, u0038:0-291, u0039:0-72, u0040:0-21 %%",
+        "DM: Menestheus wasn't a whole lot of use about what exactly they were doing or being contained. He was, and… essentially charged with… keeping track of where the map to all of the holes in reality are, the holes between the different planes. And that's what he was doing. He came to the endlessly ending party with, before it was ending, with a couple of dozen other members of his order who made the agreement, but he who had a drink or a few too many and fell asleep in the library has been there the whole time since."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: Would be great.",
+          "DM: And… It's been a minute, so just to do a quick recap from the very beginning: the five of you, knowing each other and having run various jobs together, got recruited by a… a sort of a strange, pale… a thick guy in Tollen to come and help his master clear out or secure his deed to a house in the wilderness, more or less.",
+          "DM: Traveling through more and more remote wilderness, you get there to Dandelion House, which is a relic of the Drankorian Empire, magically preserved in some ways, not perfectly preserved. And is this sort of gorgeous masterpiece of, late Drankorian architecture way far north from the Empire, or maybe towards the northern edges of the Empire.",
+          "DM: Hulda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was owed more and wanted more. And deep in the throes of a midlife crisis last spring after having killed a dragon and had, you know, done all of these accomplishments, and discovering himself no better off than he'd ever been, an elf met with him and gave him the deed to this house, naming him very specifically that he was inheritor of it, assuming he could go through the door in the basement and break the treaty set with the man on the other side of the door. With the person on the other side of the door.",
+          "DM: He sends you through that door in the basement below the basement, climbing through this route, and you emerge in the Feywild in a sort of a… skeletal version of that same house? Like, a reflection of it, made of… bone, or coral, or tree roots, something like that."
+        ],
+        "after": [
+          "DM: As you head out and down the road, or head out to the gate of Lord Endless Ending, you hear the clock strike zero again, and he, Menestheus, is the one crossing the lawn and heading out. You talk with him for a few minutes before accompanying him down the road. This door is off to the left as you're traveling sort of north, up the road, and maybe then turning left onto this footpath that grows smaller and less finished, and the land rises up until, at the end of it, you find yourself on a sort of a promontory, maybe… I don't know, 100 or 150 feet, with cliffs and rock falling sharply on all sides, down to the bottom of a ravine where, in the shadow of the evening, it's just utter darkness at the bottom of it. You can't see it at all.",
+          "DM: In front of you, though, is the door with the owl familiar who's scouted ahead, perched on top of it. And… just like all of us going to our 30th reunion, you know you have already gone through the door in the future, because Lord Endless Ending allowed you to leave the party, and that was a condition of it. So, you know you're going through it at some point. Not that that automatically means you're rushing through right at the moment.",
+          "DM: And I'd love to do just as sort of table setting first, like, are there other details that I'm missing in that recap that were important to any of you or that stood out? Things that are worth lifting up.",
+          "Tarek: There was definitely a tiger guy.",
+          "Edric: I was gonna mention the Rakshasa."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The Rakshasa’s earlier explanation",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0057"
+      },
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0053:0-33 %%",
+        "Tarek: There was definitely a tiger guy.",
+        "",
+        "%% u0054:0-33 %%",
+        "Edric: I was gonna mention the Rakshasa.",
+        "",
+        "%% u0055:0-10, u0056:0-39 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0057:0-92 %%",
+        "DM: The Rakshasa had sussed out the story of how this bargain came to be and shared it with you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The order was charged with… controlling, containing… healing, walling up, or otherwise worrying, in general, about the holes in the universe, the holes between the planes and things that might come through them. A thing, probably, that you all, as players, understand maybe more clearly or concretely than, the characters do.",
+          "DM: Menestheus wasn't a whole lot of use about what exactly they were doing or being contained. He was, and… essentially charged with… keeping track of where the map to all of the holes in reality are, the holes between the different planes. And that's what he was doing. He came to the endlessly ending party with, before it was ending, with a couple of dozen other members of his order who made the agreement, but he who had a drink or a few too many and fell asleep in the library has been there the whole time since.",
+          "DM: As you head out and down the road, or head out to the gate of Lord Endless Ending, you hear the clock strike zero again, and he, Menestheus, is the one crossing the lawn and heading out. You talk with him for a few minutes before accompanying him down the road. This door is off to the left as you're traveling sort of north, up the road, and maybe then turning left onto this footpath that grows smaller and less finished, and the land rises up until, at the end of it, you find yourself on a sort of a promontory, maybe… I don't know, 100 or 150 feet, with cliffs and rock falling sharply on all sides, down to the bottom of a ravine where, in the shadow of the evening, it's just utter darkness at the bottom of it. You can't see it at all.",
+          "DM: In front of you, though, is the door with the owl familiar who's scouted ahead, perched on top of it. And… just like all of us going to our 30th reunion, you know you have already gone through the door in the future, because Lord Endless Ending allowed you to leave the party, and that was a condition of it. So, you know you're going through it at some point. Not that that automatically means you're rushing through right at the moment.",
+          "DM: And I'd love to do just as sort of table setting first, like, are there other details that I'm missing in that recap that were important to any of you or that stood out? Things that are worth lifting up."
+        ],
+        "after": [
+          "Kaito Min: What was…",
+          "DM: Probably making his retreat right now, since I don't know… I think there's just those two halflings left at the party by now.",
+          "Kaito Min: Who've been there for, like, thousands.",
+          "DM: A long, long stretch.",
+          "Edric: We never really determined if there was anybody new at the party, did we?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Recalling the glass-key offer",
+      "source": {
+        "startUid": "u0112",
+        "endUid": "u0117"
+      },
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0112:0-74, u0113:0-66, u0114:0-265, u0115:0-10 %%",
+        "DM: Just to recap, so the Lord Endless offered you that if you would bring him the… he says, \"In the center of the house is a room, the 27th room, whose walls are made of cold iron, older than twilight, locked with a glass key. Through certain portents, I have divined that if the key is returned to me and I break it, the bargain will be undone.\" So he asked if you would do that, and you did not commit to that. But it is…",
+        "",
+        "%% u0116:0-15 %%",
+        "((Aside))",
+        "",
+        "%% u0117:0-35 %%",
+        "DM: That's an offer on the table, yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Ayveen: He can break his contract and stop this whole system from perpetuating, where the door rings, and the mathematical cult people get their sacrifice, and then that person gets, who knows what, sent back home to Taelgar! And… and you send your horses out to pasture, and they live on a farm in the West. Like, so that's… that's the degree of confidence that I have with this, like… I mean, yes, they truly are world-traveling… wormhole-stopping advanced sorcerer type people. I believe that the math is the math is there, but I don't know if what all that happens when you leave Lord Endless Ending's party is that you get to go back to where you want to go at what time you want to go there.",
+          "Tarek: It, like…",
+          "Ayveen: Your own realm in your own place or if you just get used to siphon off some sort of interdimensional travel energy and you get zapped to dimension Z at time Y, and or you die. I, like… I don't know what this other way of getting home is. Because the only person we know came back from this party went back through the really creepy tunnel and came back through the door he left propped open.",
+          "DM: Right.",
+          "Kaito Min: Mm."
+        ],
+        "after": [
+          "Edric: Right.",
+          "Kaito Min: Oh, I remember freestyling.",
+          "DM: Yeah.",
+          "Tarek: You're the chair.",
+          "Kaito Min: Poetry thing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Remembering Menestheus’s number book",
+      "source": {
+        "startUid": "u0190",
+        "endUid": "u0203"
+      },
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0190:0-67, u0191:0-61, u0192:0-37 %%",
+        "DM: So, Menestheus the Mathematician is a member of this order. And he… He had a convoluted thing about how you can hide coordinates within very large semi-prime numbers.",
+        "",
+        "%% u0193:0-8 %%",
+        "Tarek: Oh yeah.",
+        "",
+        "%% u0194:0-9 %%",
+        "Kaito Min: Oh, yeah.",
+        "",
+        "%% u0195:0-18 %%",
+        "Tarek: Brilliant numbers.",
+        "",
+        "%% u0196:0-146, u0197:0-22, u0198:0-32 %%",
+        "DM: Yeah, exactly. Brilliant numbers with two prime factors that give you… Right. Anyways, it's a way of sort of publicly talking about secret things. It's like a kind of a… And then we gave it back to him.",
+        "",
+        "%% u0199:0-57 %%",
+        "Kaito Min: Oh, I remember, oh yeah, yeah, yeah, he had his book, he…",
+        "",
+        "%% u0200:0-48 %%",
+        "Tarek: Oh, the book. Yeah, there was a situation there.",
+        "",
+        "%% u0201:0-15 %%",
+        "Ayveen: I read it with…",
+        "",
+        "%% u0202:0-73, u0203:0-16 %%",
+        "DM: Comprehend Languages didn't work out, but didn't comprehend because math. Yeah. Very cool."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: And wait, have we met anybody from that or…",
+          "DM: Menestheus.",
+          "Txarro: Yeah, the guy.",
+          "DM: So the mathematician guy.",
+          "Kaito Min: Oh, okay, so I think I missed all this, this part. Who do we meet?"
+        ],
+        "after": [
+          "DM: So, to set the table a little bit, standing in front of the door on this, on this bluff that falls away now on three sides in the twilight. In the twilight too, which has this funny characteristic that it doesn't seem still, it seems like it is actively growing darker, even though it isn't. Standing in front of the door. Can you do a reset of, like, what do you each… look like? What are you holding in your hands, if anything? And… what is like your internal state? Is this exciting, terrifying? Thank you. Mystifying, disturbing, like, what… What do you look like? What's the…",
+          "Txarro: So Txarro is a six foot tall—maybe a little bit more than 6 foot tall—lizard folk man.",
+          "Kaito Min: Okay.",
+          "Txarro: Bluish-green scales, along his face and surrounding his eyes and running down his neck, and along his hands with a sort of more pale yellow throat and, the sort of underside of his jaw.",
+          "DM: And."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Menestheus enters and asks to stay with the party",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0432"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0372:0-50, u0373:0-37, u0374:0-27, u0375:0-23, u0376:0-69 %%",
+        "DM: He looks around, and just sighs, a big, long sigh. \"Well… we're, we're going in then, huh? I'm sure this will be fine.\" And he reaches forward, turns the handle on the door, and it opens… outward, towards you all.",
+        "",
+        "%% u0377:0-58, u0378:0-106, u0379:0-6, u0380:0-3, u0381:0-32, u0382:0-107, u0383:0-21 %%",
+        "DM: And when he opens it, you can see into this interior room, lit by a few lamps in the corner. It's, you know, without going in, there's not too much to see, but it's… Sorry. Oh. From what you can see, it looks… like it was full of stuff that's been smashed up or destroyed. It looks like it's been in pretty bad shape. Do you want to go in?",
+        "",
+        "%% u0384:0-19 %%",
+        "Tarek: Oh, yeah. Yes, too.",
+        "",
+        "%% u0385:0-62, u0386:0-9, u0387:0-53, u0388:0-45, u0389:0-32 %%",
+        "DM: Menestheus looks around to all of you and says, \"Yeah, alright. Let's go!\" And steps across the threshold and looks back at you. \"I would love to not do this by myself, but I… I understand if, if y'all can't.\"",
+        "",
+        "%% u0390:0-23 %%",
+        "Edric: No, I'll come with you.",
+        "",
+        "%% u0391:0-21 %%",
+        "Tarek: I stroll forward too.",
+        "",
+        "%% u0392:0-19, u0393:0-26, u0394:0-141, u0395:0-4, u0396:0-122, u0397:0-10, u0398:0-264, u0399:0-200, u0400:0-26, u0401:0-167, u0402:0-255, u0403:0-17, u0404:0-19, u0405:0-150, u0406:0-78, u0407:0-96, u0408:0-13, u0409:0-61, u0410:0-44 %%",
+        "((Entry-room machinery and occupant-counter inspection; testing the outer door))",
+        "",
+        "%% u0411:0-16, u0412:0-47, u0413:0-69, u0414:0-65, u0415:0-12, u0416:0-25, u0417:0-122, u0418:0-35 %%",
+        "Ayveen: Oh, okay, so we… Well, if we're trying to get to room number 27… And we have 4 not necessarily numbered options for leaving this room. The second room that we enter won't necessarily be the 27th room by any math. You know, if it's random… one-fourth of all the options in the rooms that we start off in, so I don't exactly know how to get to the 27th room, but… I mean, again, let Menestheus pick.",
+        "",
+        "%% u0419:0-4 %%",
+        "DM: But.",
+        "",
+        "%% u0420:0-94, u0421:0-100, u0422:0-52, u0423:0-29 %%",
+        "DM: Look, I don't actually know where we're going. This is as far as I've ever gotten in the house. We came in, and I met up with the rest of the crew, and they were already on the way out, like, I'm… I… I know where we are, but I don't know… I… I mean… I know where we are in space.",
+        "",
+        "%% u0424:0-35 %%",
+        "Tarek: What's that big machine over there?",
+        "",
+        "%% u0425:0-31 %%",
+        "DM: I… He gives an elaborate shrug.",
+        "",
+        "%% u0426:0-262, u0427:0-26 %%",
+        "Ayveen: Do you want to sit here in this room and read your books and hope that this is your life for the rest of your life, is sitting in this room reading your books over and over and again, and maybe or maybe not experiencing hunger? I'm not really sure how that goes. Or do you want to explore?",
+        "",
+        "%% u0428:0-67 %%",
+        "DM: I do want to stay with you. I, this, this is, this, I, Yeah, right?",
+        "",
+        "%% u0429:0-108 %%",
+        "DM: Do you want to stay here by yourself? No! This is terrible! What happened here? Why is everything destroyed?",
+        "",
+        "%% u0430:0-76 %%",
+        "Edric: Yeah, I wouldn't want to stay here by myself. That would be scary and weird.",
+        "",
+        "%% u0431:0-23, u0432:0-3 %%",
+        "DM: Yeah, this guy gets it. Oh!"
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: Menestheus to go in, right?",
+          "Ayveen: Yeah, it's his show.",
+          "Txarro: It's this.",
+          "DM: Yeah, I.",
+          "Tarek: That's this."
+        ],
+        "after": [
+          "Edric: Bye. This doesn't—Edric sort of pats, pats his maul—look like a problem. I'm not sure how to solve this problem. Maybe one of the wiser heads knows what to do. Kind of looks around desperately at the rest of the party.",
+          "Txarro: I mean, there's no… Well, while they're talking, Txarro's just kind of looking around a little bit, just… I mean, there's… there's… there's… What, two doors out of this room?",
+          "DM: Two doors, a door to the left, a door to the right, and stairs that…",
+          "Txarro: Right. And doors are not…",
+          "DM: You too. Looking around is fine. I'll give you details. If you want more, you can do investigation or perception."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The Eight Divines and separate altars",
+      "source": {
+        "startUid": "u0522",
+        "endUid": "u0535"
+      },
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0522:0-66, u0523:0-128, u0524:0-48, u0525:0-145, u0526:0-146, u0527:0-117, u0528:0-67, u0529:0-80, u0530:0-26, u0531:0-69, u0532:0-96, u0533:0-57, u0534:0-116, u0535:0-92 %%",
+        "Txarro: So if it's not been intentionally ruined, you would expect to have like an architectural design that has eight separate alcoves that are physically separated from each other in with some kind of… Depending on how fancy it is, either some, like, you know, elaborate, massive stained glass and, like, you know, jewel-gemmed carving statuary things, or as simple as just, like, a plain sort of curvy wall or whatever, but the idea is that you architecturally isolate the Eight Altars to the Eight Divines, because there is a belief that the that the gods cannot hear you unless you are speaking to them alone, so you don't want your prayer to the Night Queen… You want only the Night Queen to hear the prayer to the Night Queen. So, if it is intact, you would expect to see 8 separate altars with all 8 of the Mos Numena—Eight Divines represented with the same iconography as is common in modern Sembara. There's stylistic differences in the iconic, you know, in the icons and things, but it would be… clearly recognizable, especially to somebody like, Edric. That said, of course, it could be built intentionally, differently, or partially ruined, in which case some of those alcove and altar spaces might not be present. But that would be the assumed standard design."
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: Right. Although, conceivably, you might… right. Yes, you would typically have, like, 8 alcoves in a…",
+          "Edric: I mean, is this, like, intact with, like, holy symbol? I mean, does it, does…",
+          "DM: Y'all can, y'all can investigate.",
+          "Edric: I mean, forget even investigating, I'm just, like, looking around. Is the Night Queen's altar recognizably Night Queen's altar?",
+          "DM: Yes, although again, I'm sort of deferring to Tim because I don't know enough about Drankorian theology."
+        ],
+        "after": [
+          "DM: Yeah, and that is indeed the design, with one exception. It's not anything that's been destroyed or defaced in any of the spaces for those gods, but there's a spot in order to get to the back exit of the room, you have to sort of go around this little corridor that kind of, like, goes around one of the enclosed spaces for the gods. And on the back side of it, where there's just a blank wall headed out that back exit, it's like someone has taken a hammer or a pickaxe to the blank wall and just made, like, a… but… divot? A void? A niche? Maybe? That's about a… foot or two across and a few feet high, just sort of smashed out from within it.",
+          "DM: And the longer you spend looking at this… It's a strange thing, because it's… it's clearly intentional, it's not, you know, it's not like age or something's gone wrong with the masonry, like, someone has smashed this thing out, and it's just an empty niche. Disturbing in a way that's difficult to articulate.",
+          "Edric: Well, Edric is gonna, before even worrying about the disturbing thing, go offer a prayer at the Night Queen's altar. And, like, take a few minutes about it, and like… try and get a sense if this is still consecrated. Is this, is this like, actually still holy and working? Or is this like dead, and you know what I mean? Like, is it, is it a live holy space, or is it dead?",
+          "DM: No, it definitely is. It definitely is. Inside the… you know, that space. Presumably the others. Yep. It's lovely, it's grounding. It sets you at ease a little bit.",
+          "Edric: Edric will kind of… over his shoulder, say… \"I'm gonna just stay here for a minute, because it's very… but maybe that… someone should go see why that creepy thing is so creepy,\" pointing at the, like, hole. That seems unnerving."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Edric prays at the Night Queen’s consecrated altar",
+      "source": {
+        "startUid": "u0544",
+        "endUid": "u0553"
+      },
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0544:0-116, u0545:0-49, u0546:0-37, u0547:0-85, u0548:0-84 %%",
+        "Edric: Well, Edric is gonna, before even worrying about the disturbing thing, go offer a prayer at the Night Queen's altar. And, like, take a few minutes about it, and like… try and get a sense if this is still consecrated. Is this, is this like, actually still holy and working? Or is this like dead, and you know what I mean? Like, is it, is it a live holy space, or is it dead?",
+        "",
+        "%% u0549:0-73, u0550:0-22, u0551:0-4, u0552:0-28, u0553:0-33 %%",
+        "DM: No, it definitely is. It definitely is. Inside the… you know, that space. Presumably the others. Yep. It's lovely, it's grounding. It sets you at ease a little bit."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: I mean, forget even investigating, I'm just, like, looking around. Is the Night Queen's altar recognizably Night Queen's altar?",
+          "DM: Yes, although again, I'm sort of deferring to Tim because I don't know enough about Drankorian theology.",
+          "Txarro: So if it's not been intentionally ruined, you would expect to have like an architectural design that has eight separate alcoves that are physically separated from each other in with some kind of… Depending on how fancy it is, either some, like, you know, elaborate, massive stained glass and, like, you know, jewel-gemmed carving statuary things, or as simple as just, like, a plain sort of curvy wall or whatever, but the idea is that you architecturally isolate the Eight Altars to the Eight Divines, because there is a belief that the that the gods cannot hear you unless you are speaking to them alone, so you don't want your prayer to the Night Queen… You want only the Night Queen to hear the prayer to the Night Queen. So, if it is intact, you would expect to see 8 separate altars with all 8 of the Mos Numena—Eight Divines represented with the same iconography as is common in modern Sembara. There's stylistic differences in the iconic, you know, in the icons and things, but it would be… clearly recognizable, especially to somebody like, Edric. That said, of course, it could be built intentionally, differently, or partially ruined, in which case some of those alcove and altar spaces might not be present. But that would be the assumed standard design.",
+          "DM: Yeah, and that is indeed the design, with one exception. It's not anything that's been destroyed or defaced in any of the spaces for those gods, but there's a spot in order to get to the back exit of the room, you have to sort of go around this little corridor that kind of, like, goes around one of the enclosed spaces for the gods. And on the back side of it, where there's just a blank wall headed out that back exit, it's like someone has taken a hammer or a pickaxe to the blank wall and just made, like, a… but… divot? A void? A niche? Maybe? That's about a… foot or two across and a few feet high, just sort of smashed out from within it.",
+          "DM: And the longer you spend looking at this… It's a strange thing, because it's… it's clearly intentional, it's not, you know, it's not like age or something's gone wrong with the masonry, like, someone has smashed this thing out, and it's just an empty niche. Disturbing in a way that's difficult to articulate."
+        ],
+        "after": [
+          "Edric: Edric will kind of… over his shoulder, say… \"I'm gonna just stay here for a minute, because it's very… but maybe that… someone should go see why that creepy thing is so creepy,\" pointing at the, like, hole. That seems unnerving.",
+          "Tarek: Tarek sticks his hand in the hole.",
+          "Kaito Min: Good job, Tarek.",
+          "DM: Bye! Give me a, what's a good save? How about a wisdom save?",
+          "Tarek: Gold coins I wish to receive. Oh, a wisdom save. Okay. That's also an eight in total."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "First journal: learning words and growing into houses",
+      "source": {
+        "startUid": "u0663",
+        "endUid": "u0734"
+      },
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0663:0-185, u0664:0-209, u0665:0-126, u0666:0-162 %%",
+        "DM: And you come out against the far wall, the north wall. There's not an exit there. But what there is is something that's almost like a window, like a 2 foot by 2 foot cutout in the wall. And you're looking through about, I don't know, 3 feet of stone wall, and on the other side of it, flush against it, as if it's just a recessed back, but you get this distinct impression of being a window, is a two-foot square of elaborately inscribed iron wall, with… just covered in runes and arcane markings that you can't decipher. And right next to it, so you've dodged under this big pipe to come out next to this window thing, there is a chair and a writing desk with a journal on top of it.",
+        "",
+        "%% u0667:0-26 %%",
+        "Tarek: Let's have a look at that.",
+        "",
+        "%% u0668:0-3 %%",
+        "DM: So…",
+        "",
+        "%% u0669:0-54, u0670:0-22, u0671:0-115, u0672:0-4, u0673:0-153, u0674:0-206, u0675:0-27, u0676:0-57, u0677:0-10 %%",
+        "DM: They seem to be notes, and they are numbered, by date. With dates that don't… exactly makes sense, or at least it's a little challenging to do the translation from Drankorian in your head, but… And… There's probably about 30 pages or so filled on a small, maybe 4 inch by 6 inch notebook, that comprises 15 or 20 entries, the dates of which seem to be, you know, some of them are really close back to back, and some of them are farther apart. There's no discernible pattern, to what that looks like. Though the last one is a very long time ago now, so it was… I mean, 700-some years ago. And it seems to be a transcription of, like, a monologue? And… ahhh!",
+        "",
+        "%% u0678:0-32, u0679:0-31, u0680:0-38, u0681:0-51, u0682:0-29, u0683:0-76, u0684:0-148, u0685:0-93, u0686:0-38, u0687:0-99 %%",
+        "DM: And it goes something like this. So it's in quotes, and it says… \"When I get here, I do not know anyone. But there is a teacher who is very patient with me. He's teaching me about words. He's teaching me that words have an order. Words have a before and an after. He says that words are a game to play, because of course there is no such thing as before, and no such thing as after, except that words make it so. He says that if I am to play games with the dreamers, I am learning about the order of words.\" That's the first entry, and someone's… scrawled notes to themselves below it, saying, like, child? Question mark? Timeline? Question mark?",
+        "",
+        "%% u0688:0-66, u0689:0-39, u0690:0-48, u0691:0-53, u0692:0-80, u0693:0-81, u0694:0-197 %%",
+        "DM: The next entry continues, he says, or with another quote, he says: \"I am learning about the order of words. My teacher teaches me about eating and drinking. About sunset and stars. About beginnings and endings. He teaches me about the danger of cold iron and the fearfulness of the dreamers. He teaches me that words are letters, and brings me books, and I am reading them. He teaches me about trees, and roots, and leaves, and mushrooms, and houses, and hedges, and roads, and doors.\" And there's a note below it that says, \"This list continues in this vein for some time.\"",
+        "",
+        "%% u0695:0-39, u0696:0-41, u0697:0-31, u0698:0-38, u0699:0-27, u0700:0-43, u0701:0-157, u0702:0-4 %%",
+        "DM: The next entry is a little while later. It says… \"This world is strange and scary. I am alone without the teacher. His evening is beginning, he tells me. He comes back, he tells me. He is not coming back. He is forgetting me. I'm not going to him. I'm going past his house. I'm going on and on and on and on.\" And there's another note below it that says, \"This continues for some time.\" You…",
+        "",
+        "%% u0703:0-97, u0704:0-32, u0705:0-59, u0706:0-52 %%",
+        "DM: The entries go on in this vein, sort of page after page, this odd jumble of things being learned. A sense of abandonment and fear. An almost childish… pride in not needing a teacher anymore. Though, oddly, it's all written in the present tense.",
+        "",
+        "%% u0707:0-54, u0708:0-22, u0709:0-9, u0710:0-14, u0711:0-50, u0712:0-90, u0713:0-34 %%",
+        "DM: Until finally, on the last entry, it says, \"I am grown. The world is very big. I'm tall. I stretch out. My hands are under a very bright and changing sky. My legs are reaching between trees and roots and leaves and mushrooms and becoming houses.\" And that's the last entry in that.",
+        "",
+        "%% u0714:0-35 %%",
+        "Ayveen: No commentary from the transcriber.",
+        "",
+        "%% u0715:0-52 %%",
+        "DM: Transcriber has written 3 question marks below this.",
+        "",
+        "%% u0716:0-37, u0717:0-43, u0718:0-18, u0719:0-8, u0720:0-88, u0721:0-45, u0722:0-10, u0723:0-36 %%",
+        "((Handling the notebook and asking about handwriting))",
+        "",
+        "%% u0724:0-112 %%",
+        "DM: So this is so good. So what's happening is this is a transcription and there's a title page or a record of that.",
+        "",
+        "%% u0725:0-6 %%",
+        "Txarro: Right.",
+        "",
+        "%% u0726:0-266, u0727:0-84 %%",
+        "DM: Date, and then the name of a person doing the transcribing, and then something to the effect of, like, I heard the following, and then that. So there are a few different people who are doing the transcribing, like people are taking shifts or rotating who's doing it. But the speaker is not the one writing it down. This is something that's been heard.",
+        "",
+        "%% u0728:0-6 %%",
+        "Kaito Min: I see.",
+        "",
+        "%% u0729:0-99 %%",
+        "Txarro: I'll just flip to the 27th page and see if there's anything particularly interesting to note there.",
+        "",
+        "%% u0730:0-109, u0731:0-173 %%",
+        "DM: There's nothing that distinguishes that from the other pages. \"The world is strange and scary, and I am alone. My teacher's party is beginning and he will come and he is coming back. He says he is not coming back. He is forgetting me over and over. I'm not going to him. I'm going on.\"",
+        "",
+        "%% u0732:0-57 %%",
+        "Kaito Min: So, so the teacher is, the teacher is Lord, Lord Endless.",
+        "",
+        "%% u0733:0-11 %%",
+        "DM: Presumably.",
+        "",
+        "%% u0734:0-90 %%",
+        "Kaito Min: Endless Ending. And then… the student is the person in this house who we have not met yet."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Not in the room that you came in. You're standing instead in a room that's filled almost the entire space with this massive mechanical equipment, huge tanks that feed through enormous pipes and go into the north wall of this room. It's… there's almost, like, catwalks. The only available space to move is, like, these narrow little corridors that kind of dodge through the immensity of all of this equipment that's all around you.",
+          "Txarro: Is this plausibly the… same room as the other one we were in, but… back in time? Do we see the occupancy sign on the wall?",
+          "DM: No, so the other room really… the room that you came in really just had the pipes and machinery against the far wall, the north wall, and this… almost this entire space is filled with, machinery, like, arcane machinery. And as you… if you want to walk around, I can give you the exits and all of that, too.",
+          "Tarek: You know.",
+          "DM: So you can go… up? Down, west or east. And oddly, against the north wall… there is… And you duck under a pipe?"
+        ],
+        "after": [
+          "Tarek: I think the student becomes a whole bunch of…",
+          "Kaito Min: Did Eric freeze?",
+          "Edric: Yes, yes.",
+          "DM: At the most suspenseful possible point in the sentence.",
+          "Ayveen: It was a great theory. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Menestheus recognizes the journal’s transcribers",
+      "source": {
+        "startUid": "u0785",
+        "endUid": "u0791"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0785:0-217 %%",
+        "DM: Menestheus says, let him take a look at those for a sec. And he recognizes a couple of those names as members of the Arithrimos Lamperum, as members of his order. Not all of them, but a few of the names he recognizes.",
+        "",
+        "%% u0786:0-15 %%",
+        "Kaito Min: Are they alive?",
+        "",
+        "%% u0787:0-69, u0788:0-54, u0789:0-8 %%",
+        "DM: In fact, one of them, a couple of them, he says, we… they were… they… they left me at the house down the road. They left me. Fuckers.",
+        "",
+        "%% u0790:0-74 %%",
+        "Kaito Min: Oh, so these are, like, living people, not, like, historically old people.",
+        "",
+        "%% u0791:0-57 %%",
+        "DM: Well, when he says that, he was left there 700 years ago."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: So there's different names.",
+          "DM: Mmhm.",
+          "Edric: What are the different like? Are they?",
+          "Ayveen: They're all different. Are they like…",
+          "Edric: Wildly different names? Like, does it feel like one's Dunmari and one's… are they all Drankorian? Like, what's the…"
+        ],
+        "after": [
+          "Kaito Min: Damn. Kaito, yeah, Kaito will sit down and write Tarek's name first and then…",
+          "DM: As far as you can tell, the book's perfectly ordinary. So there it goes. And how… I don't know, tell me about what you're doing. So you're sitting.",
+          "Kaito Min: I'm sitting in the chair. I want to start writing. I'm just trying to copy the entries just like…",
+          "DM: Like, like, you start, like, an automatic writing kind of thing.",
+          "Kaito Min: I think like just start."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Kaito writes down whispers that stop with his pen",
+      "source": {
+        "startUid": "u0792",
+        "endUid": "u0829"
+      },
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0792:0-5, u0793:0-56, u0794:0-6, u0795:0-9 %%",
+        "Kaito Min: Damn. Kaito, yeah, Kaito will sit down and write Tarek's name first and then…",
+        "",
+        "%% u0796:0-72, u0797:0-74 %%",
+        "DM: As far as you can tell, the book's perfectly ordinary. So there it goes. And how… I don't know, tell me about what you're doing. So you're sitting.",
+        "",
+        "%% u0798:0-97 %%",
+        "Kaito Min: I'm sitting in the chair. I want to start writing. I'm just trying to copy the entries just like…",
+        "",
+        "%% u0799:0-64 %%",
+        "DM: Like, like, you start, like, an automatic writing kind of thing.",
+        "",
+        "%% u0800:0-24, u0801:0-14, u0802:0-5, u0803:0-23, u0804:0-30, u0805:0-28, u0806:0-5, u0807:0-56, u0808:0-16, u0809:0-15, u0810:0-118, u0811:0-97, u0812:0-8, u0813:0-3, u0814:0-5, u0815:0-36, u0816:0-16 %%",
+        "((Writing setup and Wisdom-check mechanics))",
+        "",
+        "%% u0817:0-4, u0818:0-56, u0819:0-170, u0820:0-18, u0821:0-49, u0822:0-58, u0823:0-23 %%",
+        "DM: Umm. With that, you find that you are starting to write down fragmentary words. They're not sentences or complete thoughts exactly, but they're sort of in keeping with the stuff that's elsewhere in the book. You know, alone, scary, grown… bright sky. It's, you know, it's, they're just fragments, but you are writing down what you think you hear as a whisper coming from the window.",
+        "",
+        "%% u0824:0-26 %%",
+        "Kaito Min: Anybody else hearing that?",
+        "",
+        "%% u0825:0-12 %%",
+        "Edric: Anything to…",
+        "",
+        "%% u0826:0-19 %%",
+        "Txarro: Do I hear anything?",
+        "",
+        "%% u0827:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0828:0-5 %%",
+        "Tarek: Hmmm.",
+        "",
+        "%% u0829:0-60 %%",
+        "DM: In fact, as soon as you put the pen down, the whispers stop."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Menestheus says, let him take a look at those for a sec. And he recognizes a couple of those names as members of the Arithrimos Lamperum, as members of his order. Not all of them, but a few of the names he recognizes.",
+          "Kaito Min: Are they alive?",
+          "DM: In fact, one of them, a couple of them, he says, we… they were… they… they left me at the house down the road. They left me. Fuckers.",
+          "Kaito Min: Oh, so these are, like, living people, not, like, historically old people.",
+          "DM: Well, when he says that, he was left there 700 years ago."
+        ],
+        "after": [
+          "Kaito Min: But… anybody?",
+          "Edric: That's how I'm… something seems to be… That's… Which direction, like, the window is… Does it make sense?",
+          "DM: The window is north.",
+          "Edric: But I mean, has anybody been, I admit that I've been not totally focused on the map.",
+          "DM: So you went in, you went down, you went back up again. Although it was a different room. But that… that's…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Menestheus needs more observations to find a pattern",
+      "source": {
+        "startUid": "u0957",
+        "endUid": "u0997"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0957:0-81, u0958:0-9 %%",
+        "Kaito Min: Math guy, so what's going on with the numbers? Can you help us? Like, where's 26? Math guy.",
+        "",
+        "%% u0959:0-49, u0960:0-42, u0961:0-20, u0962:0-59 %%",
+        "DM: \"I, I, I'm, I'm working on it,\" says Menestheus. \"I… I am a little hungover, that's… What's the… I think we don't… I… I think we don't have enough data, I… I can't… I don't see.\"",
+        "",
+        "%% u0963:0-27 %%",
+        "Kaito Min: What's your highest degree?",
+        "",
+        "%% u0964:0-56 %%",
+        "DM: Hmm. I bet your world doesn't even have it anymore. Hmm.",
+        "",
+        "%% u0965:0-4, u0966:0-4, u0967:0-43, u0968:0-11, u0969:0-75, u0970:0-4, u0971:0-40, u0972:0-5, u0973:0-11, u0974:0-49, u0975:0-38, u0976:0-57, u0977:0-104, u0978:0-64, u0979:0-21, u0980:0-8, u0981:0-11, u0982:0-5, u0983:0-10 %%",
+        "((Kitchen provisions and map discussion))",
+        "",
+        "%% u0984:0-21, u0985:0-62, u0986:0-56, u0987:0-47, u0988:0-10 %%",
+        "Ayveen: There's two thoughts. Thought one is we haven't seen any numbers higher than 27 yet. Thought two is we keep getting 3 or 4 options per room, so we don't have to go through that many rooms before we…",
+        "",
+        "%% u0989:0-5 %%",
+        "Edric: Yeah.",
+        "",
+        "%% u0990:0-97, u0991:0-78 %%",
+        "Ayveen: Seen all of the numbers, and one of them will maybe be 27, if that's the one we're interested in. We don't know if we're interested in 27. We just want to solve the mystery of…",
+        "",
+        "%% u0992:0-23 %%",
+        "Edric: There's nothing like a…",
+        "",
+        "%% u0993:0-36 %%",
+        "Ayveen: To do what we have to do in room 27.",
+        "",
+        "%% u0994:0-76, u0995:0-45, u0996:0-3, u0997:0-31 %%",
+        "DM: Menestheus nods in agreement. If we're gonna figure out what the pattern is, we need to go through a whole lot more rooms. Up. I can track it for us as we go."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Mmhm.",
+          "Txarro: I'm just gonna… push them around it, like… knock some stuff down in frustration. And then I'm gonna turn to the rest of the party and be like, \"This place makes no sense.\"",
+          "Tarek: Maybe.",
+          "Txarro: And then I'm gonna sit down on the floor.",
+          "Tarek: True."
+        ],
+        "after": [
+          "Kaito Min: Let's do.",
+          "Edric: Yes.",
+          "Kaito Min: That sounds smart.",
+          "DM: All right. Up, down, northeast. 13, 19, 7, 23.",
+          "Txarro: Were they… up was seven?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The mortuary’s apparently magical incinerator",
+      "source": {
+        "startUid": "u1020",
+        "endUid": "u1024"
+      },
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u1020:0-90, u1021:0-188, u1022:0-99, u1023:0-98, u1024:0-53 %%",
+        "DM: On the center of one wall, where there's not an exit, there is a massive incinerator oven. That must be magical, because there's no heat source that you can see, or ventilation that you can see. ((Ossuary description))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Lucky seven.",
+          "Ayveen: Well, seven.",
+          "Txarro: Txarro is just going to shake his head and say, \"Whatever.\"",
+          "DM: 7… As you step into the room, same size and shape that you've come to expect, there are exits to the north, the east, and down. Which now leads to 18. But, so, north, east, and down. And it's a, on one side, a… mortuary.",
+          "DM: There are slabs, cold slabs. With, there's 6 slabs, 3 of them have bodies on them, one of which is actively in the process of dissection, with its chest split open and spread apart, and a number of organs removed and placed to the side. And… in another of them, it… the body seems to have, sort of be covered in a, like, a light gray fuzz, almost like, peach fuzz, or like bread mold almost, you know, covers the whole of the body, which is stripped naked on the table."
+        ],
+        "after": [
+          "Kaito Min: What's an ossuary?",
+          "DM: An ossuary is a burial place for bones, so if you've ever seen, like, pictures of the catacombs under Paris, where there's just stacks and stacks of bones arranged. That's that wall.",
+          "Kaito Min: Damn. What kind of bones?",
+          "DM: Humans… dwarves, halflings… Oh.",
+          "Kaito Min: Who else?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Menestheus studies the rotating rooms during the rest",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1428"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1388:0-70, u1389:0-26, u1390:0-22, u1391:0-68, u1392:0-63 %%",
+        "DM: Ahhh… Yes. So, you go back to the chapel. The chapel… has… four exits. East, west, south, and up, to 25, 12, 15, and 11. And Menestheus takes out a pen and paper and starts working through various numbers and equations and so on while you take a rest.",
+        "",
+        "%% u1393:0-5, u1394:0-16, u1395:0-49, u1396:0-76, u1397:0-5, u1398:0-14, u1399:0-94, u1400:0-49, u1401:0-11, u1402:0-105, u1403:0-59 %%",
+        "((Rest in the unsettling chapel))",
+        "",
+        "%% u1404:0-50, u1405:0-57, u1406:0-31, u1407:0-118, u1408:0-60, u1409:0-36, u1410:0-36, u1411:0-54, u1412:0-83 %%",
+        "DM: And at the end of it, Menestheus says, I… I think… I think… I think that every time we go through the doors, the rooms behind us are moving. And if we went back and forth between 2 doors over and over, the same room options would eventually come around again. But because we keep going through different doors each time, they keep showing up differently. I… I think there's a pattern that just… looks random because we keep making different choices. And I… I don't know if it's mappable exactly, but… I think I could… maybe guide us?",
+        "",
+        "%% u1413:0-14 %%",
+        "Txarro: Where, though?",
+        "",
+        "%% u1414:0-26 %%",
+        "DM: Well, that's the question.",
+        "",
+        "%% u1415:0-59 %%",
+        "DM: I don't know. We've been through 1, 2, 3, 4, 5, 6… 7… 8… 9…",
+        "",
+        "%% u1416:0-23 %%",
+        "Txarro: We've been to 11 rooms.",
+        "",
+        "%% u1417:0-19, u1418:0-75 %%",
+        "DM: Seven of the rooms. I mean, maybe we just need to get to the ones that we haven't… I don't know.",
+        "",
+        "%% u1419:0-69, u1420:0-49, u1421:0-74, u1422:0-28, u1423:0-56 %%",
+        "Ayveen: So we can either hop around randomly and eventually hit the other 10. Or sorry, eventually hit the other 26, or we can… I don't know why I just… and never mind, not, not. I'm not the mathematician. Or you think that you could force us to find more new room choices more efficiently.",
+        "",
+        "%% u1424:0-11 %%",
+        "DM: I think so.",
+        "",
+        "%% u1425:0-5 %%",
+        "Ayveen: Okay.",
+        "",
+        "%% u1426:0-90, u1427:0-36, u1428:0-63 %%",
+        "DM: I think that even though… the room numbers are changing, the room configuration is static. I think that… Well, let's try it. I… We'll go through a couple more and see if we can figure it out."
+      ],
+      "reviewContext": {
+        "before": [
+          "Ayveen: We can get back to the chapel. I like the cha…",
+          "Edric: Yeah, let's go to the…",
+          "Txarro: Oh, the chapel. Yes, we can go to the 22 is the chapel. Let's go back to the chapel. Txarro, like, totally happy to, like, take… you know, take a rest, see what happens if we just wait for 8 hours?",
+          "Tarek: Mmm.",
+          "Edric: Yeah, I'm all for it."
+        ],
+        "after": [
+          "DM: We're in 22 now. We haven't been… to 15. So our options are 11, 15, 25, and 21. We've been to 25, so 11… No, excuse me, 12. 11… 1215. Pick a card.",
+          "Edric: 12 or 15.",
+          "Txarro: Sure, he just kind of shakes his head.",
+          "Ayveen: I thought...",
+          "Txarro: Let's go to 15."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Second journal: The Dreamer reads mortal wanting",
+      "source": {
+        "startUid": "u1442",
+        "endUid": "u1486"
+      },
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1442:0-212, u1443:0-47 %%",
+        "DM: There's another one of these windows. It's different from the others. You remember enough about the runes to know it's not exactly the same view, but it's this 2 by 2 foot window that looks into this wooden wall. With a chair and a written notebook next to it.",
+        "",
+        "%% u1444:0-19 %%",
+        "Ayveen: Different notebook.",
+        "",
+        "%% u1445:0-19 %%",
+        "Edric: Different notebook.",
+        "",
+        "%% u1446:0-19 %%",
+        "DM: Different notebook.",
+        "",
+        "%% u1447:0-66 %%",
+        "Ayveen: Read the end. Is it more entries than the last one, about the same?",
+        "",
+        "%% u1448:0-277 %%",
+        "DM: About the same. The dates more or less correspond. You don't quite see a pattern to it, but it's, you know, over a period of years by different people, including some of the ones from the other books, so they must be rotating around the shifts and the locations they're taking.",
+        "",
+        "%% u1449:0-62, u1450:0-90, u1451:0-42 %%",
+        "DM: This one… book gets a title. This one gets called The Dreamer. And the first entry goes like this. It's written… it sounds like the same sort of a voice. It's all still in the present tense again.",
+        "",
+        "%% u1452:0-43, u1453:0-39, u1454:0-89, u1455:0-56, u1456:0-65, u1457:0-61, u1458:0-126 %%",
+        "DM: \"I arrived in this place and put down roots. A neighbor comes to visit, and we talk. He thinks my home is beautiful, and that I am beautiful, and has many kind things to say. He tells me about mortals. He tells me they're dreamers. That a mortal is a dream which has forgotten that it is dreaming. A dream which believes it is awake, and that's called a soul. I am watching the souls of the mortals who come near. They change, and change, and change, and I cannot see the shape of them.\"",
+        "",
+        "%% u1459:0-32, u1460:0-80, u1461:0-57 %%",
+        "DM: There's an entry a little later. \"They dream with words that have before and after, but they cannot see the after. Or they pretend they cannot see the after. I do not know.\"",
+        "",
+        "%% u1462:0-9, u1463:0-34, u1464:0-72, u1465:0-51, u1466:0-94, u1467:0-29, u1468:0-91 %%",
+        "DM: Later on. \"They dream that they are choosing. And I do not ever see their choosing before it happens. This is strange. They are the most beautiful thing I have ever seen. They're collections of wanting, and I learned to read the wanting like letters in their books. They're hungry, too, like me. They come and share their dream with me, and are my children, and I love every one of them.\"",
+        "",
+        "%% u1469:0-12, u1470:0-34, u1471:0-45, u1472:0-179 %%",
+        "DM: And another. \"I see the shape of their dreaming. Everyone is different, but I see the pattern. I read them like I learned to read letters. I read their wantings. Some of them are afraid all the time. Some of them are hungry like me. Some of them want more and more and more.\"",
+        "",
+        "%% u1473:0-23, u1474:0-38, u1475:0-30, u1476:0-29, u1477:0-34, u1478:0-31, u1479:0-28, u1480:0-75, u1481:0-56, u1482:0-28, u1483:0-23, u1484:0-36, u1485:0-24, u1486:0-35 %%",
+        "DM: And then another entry. \"I see you making the letters on paper. You are afraid that I see you. Do not be. You understand me. You know what it is to be trapped. I see the shape of possibility. You think that's impossible. I see the things that you are thirsty for and do not believe you can drink. I am making it possible. I am seeing your dreaming soul. I'm giving you a full glass. I'm talking to you now. You're opening the door to my house. I am sending you onward.\" And that's the last of the entries."
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: Sure, he just kind of shakes his head.",
+          "Ayveen: I thought...",
+          "Txarro: Let's go to 15.",
+          "DM: 15 it is.",
+          "DM: 15 is a massive mechanical room. You've been in one very similar to this before, even though the exact layouts of the pipes and the machineries are different. It's almost just the same, and there are exits up, down, east and west, and on the south wall…"
+        ],
+        "after": [
+          "Tarek: I love all those, Schwartz. It's so good. The shape of possibility was something from previous session, or no?",
+          "DM: It was a book you found. It was one of the books that…",
+          "Tarek: Hmm, that Menestheus had, right? Or no.",
+          "DM: When Menestheus hears you read that out loud, he is shook. Shook, shook, shook. And sits down, into the chair, needing to take a seat. \"That's… That's weird as hell,\" he says. He reaches into his bag and takes the book out and puts it on the desk.",
+          "DM: The Shape of Possibility. And you remember from having read through it, it's a sort of a combination of magic and math and metaphysics. And the idea was that you could mathematically model every possible outcome. And…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The Shape of Possibility and a whisper that hears Menestheus",
+      "source": {
+        "startUid": "u1492",
+        "endUid": "u1547"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1492:0-58, u1493:0-20, u1494:0-62, u1495:0-30, u1496:0-71 %%",
+        "DM: When Menestheus hears you read that out loud, he is shook. Shook, shook, shook. And sits down, into the chair, needing to take a seat. \"That's… That's weird as hell,\" he says. He reaches into his bag and takes the book out and puts it on the desk.",
+        "",
+        "%% u1497:0-135, u1498:0-76, u1499:0-4 %%",
+        "DM: The Shape of Possibility. And you remember from having read through it, it's a sort of a combination of magic and math and metaphysics. And the idea was that you could mathematically model every possible outcome. And…",
+        "",
+        "%% u1500:0-4 %%",
+        "Tarek: Mmm.",
+        "",
+        "%% u1501:0-69, u1502:0-44, u1503:0-104, u1504:0-47, u1505:0-76 %%",
+        "DM: So… Menestheus says, like, the argument here is that in every moment, there's a finite number of possible futures. And there's a… you could… you could map that. You could… you could describe all of the possible futures… like… like, the shape of all… possibility, and… like, a single sentence which tells the whole story in that single sentence.",
+        "",
+        "%% u1506:0-4 %%",
+        "Tarek: Mmm.",
+        "",
+        "%% u1507:0-131, u1508:0-53, u1509:0-96, u1510:0-86, u1511:0-57, u1512:0-31 %%",
+        "DM: If you could see the shape of possibility, which is, I mean, a ridiculous… it's a lovely idea, but impossible to actually do, like… you would be able to see what the future looked like. You could, you could map what was going to happen. I mean, seeing the shape of possibility means seeing everything that has happened and everything that's going to happen, it's… it's… It's disturbing if whatever is dictating this can see it. \"Do you guys hear that?\" he says.",
+        "",
+        "%% u1513:0-3 %%",
+        "Tarek: No.",
+        "",
+        "%% u1514:0-3 %%",
+        "Edric: No?",
+        "",
+        "%% u1515:0-28 %%",
+        "Ayveen: You're sitting in the chair.",
+        "",
+        "%% u1516:0-5, u1517:0-17 %%",
+        "((Garbled interruption))",
+        "",
+        "%% u1518:0-10, u1519:0-18, u1520:0-28, u1521:0-86 %%",
+        "DM: [garbled]. It's hard to hear. But there's something there. There's something whispering through the wall. That must be what they're writing down.",
+        "",
+        "%% u1522:0-13 %%",
+        "Edric: Yeah, I know.",
+        "",
+        "%% u1523:0-23, u1524:0-23, u1525:0-16 %%",
+        "DM: Huh. I'm ready to leave. Right? We should leave? This is another…",
+        "",
+        "%% u1526:0-16 %%",
+        "Tarek: You can do that.",
+        "",
+        "%% u1527:0-30, u1528:0-33 %%",
+        "DM: This is not it. This… Oh, boy. \"Oh, boy,\" he says, and backs away.",
+        "",
+        "%% u1529:0-27 %%",
+        "Tarek: What's, what's the problem?",
+        "",
+        "%% u1530:0-11, u1531:0-20, u1532:0-39, u1533:0-36 %%",
+        "DM: I don't… I… It told me that it's… The whisper said it hears me listening. I don't… I don't… I don't like that.",
+        "",
+        "%% u1534:0-4 %%",
+        "Tarek: Mmm.",
+        "",
+        "%% u1535:0-8 %%",
+        "DM: Bye-bye.",
+        "",
+        "%% u1536:0-20 %%",
+        "Ayveen: In the book, though.",
+        "",
+        "%% u1537:0-4, u1538:0-4, u1539:0-5, u1540:0-11 %%",
+        "DM: Hmm. Yes. Yeah. Well… Yeah.",
+        "",
+        "%% u1541:0-33, u1542:0-14 %%",
+        "Ayveen: That's the scholarly thing to do. Write it down.",
+        "",
+        "%% u1543:0-40, u1544:0-82, u1545:0-30, u1546:0-23, u1547:0-5 %%",
+        "DM: He sighs… and dutifully writes his name and asks you what the current date is, and jots it down, and… records the whisper. \"I am hearing you listen to me.\" That's not good, is it? Jeez."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And another. \"I see the shape of their dreaming. Everyone is different, but I see the pattern. I read them like I learned to read letters. I read their wantings. Some of them are afraid all the time. Some of them are hungry like me. Some of them want more and more and more.\"",
+          "DM: And then another entry. \"I see you making the letters on paper. You are afraid that I see you. Do not be. You understand me. You know what it is to be trapped. I see the shape of possibility. You think that's impossible. I see the things that you are thirsty for and do not believe you can drink. I am making it possible. I am seeing your dreaming soul. I'm giving you a full glass. I'm talking to you now. You're opening the door to my house. I am sending you onward.\" And that's the last of the entries.",
+          "Tarek: I love all those, Schwartz. It's so good. The shape of possibility was something from previous session, or no?",
+          "DM: It was a book you found. It was one of the books that…",
+          "Tarek: Hmm, that Menestheus had, right? Or no."
+        ],
+        "after": [
+          "Txarro: What's the date of the entry before this one?",
+          "DM: Oh. I mean, seven hundred some years ago.",
+          "DM: Actually, he reads it out loud to you, and then he stares at it a long minute. He says, that's… That's the date I… got here, I mean, that's… That's the date we all went… we all went over to the party. Like that's, that's the morning I woke up is the date that's here.",
+          "Tarek: Oh.",
+          "DM: Oh. Does that mean they didn't come back again? He shakes his head."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The final old journal date and Thalestria’s urgency",
+      "source": {
+        "startUid": "u1548",
+        "endUid": "u1607"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1548:0-45 %%",
+        "Txarro: What's the date of the entry before this one?",
+        "",
+        "%% u1549:0-3, u1550:0-37 %%",
+        "DM: Oh. I mean, seven hundred some years ago.",
+        "",
+        "%% u1551:0-95, u1552:0-43, u1553:0-28, u1554:0-30, u1555:0-66 %%",
+        "DM: Actually, he reads it out loud to you, and then he stares at it a long minute. He says, that's… That's the date I… got here, I mean, that's… That's the date we all went… we all went over to the party. Like that's, that's the morning I woke up is the date that's here.",
+        "",
+        "%% u1556:0-3 %%",
+        "Tarek: Oh.",
+        "",
+        "%% u1557:0-3, u1558:0-43, u1559:0-19 %%",
+        "DM: Oh. Does that mean they didn't come back again? He shakes his head.",
+        "",
+        "%% u1560:0-8, u1561:0-80, u1562:0-65 %%",
+        "Ayveen: Perfect. We've been working under the hypothesis that they came back again one at a time as mortal inputs for whatever this house wants mortal inputs for.",
+        "",
+        "%% u1563:0-4, u1564:0-62 %%",
+        "Txarro: Yet. They don't seem to have written any entries in these journals.",
+        "",
+        "%% u1565:0-5 %%",
+        "Edric: Yeah.",
+        "",
+        "%% u1566:0-28, u1567:0-98, u1568:0-48 %%",
+        "DM: Something went wrong, right? They were recording regularly. It was planned. They were working shifts. They were noting it down. And that… Whatever happened to them, that stops.",
+        "",
+        "%% u1569:0-18 %%",
+        "Edric: Yeah, that's true.",
+        "",
+        "%% u1570:0-56, u1571:0-126 %%",
+        "Txarro: But, like, how many… how much time are we talking about? How many years has this been? Like, there's not… there's, like, 30 entries, right? Or some relatively small number of entries?",
+        "",
+        "%% u1572:0-18, u1573:0-26 %%",
+        "DM: Yeah. Couple what? 9 months to a year, maybe?",
+        "",
+        "%% u1574:0-72, u1575:0-50, u1576:0-77 %%",
+        "Ayveen: So people are eating in kitchens, taking baths, sleeping in dormitories, writing notes, spending some time in the solarium. And then the morning that you all went to the party, y'all went to the party.",
+        "",
+        "%% u1577:0-42, u1578:0-31, u1579:0-46 %%",
+        "DM: That's right. They're living here and then they leave and don't come back? They leave and come back in pieces? I… I mean…",
+        "",
+        "%% u1580:0-64, u1581:0-98, u1582:0-30, u1583:0-20, u1584:0-105, u1585:0-17, u1586:0-51, u1587:0-62, u1588:0-35, u1589:0-3, u1590:0-68, u1591:0-35, u1592:0-35, u1593:0-80, u1594:0-24 %%",
+        "Ayveen: The day that you went to the party we don't know, or we do know… was when… Well, have we discussed this openly with him? I don't know. I'm saying this out loud now: your… leader made a deal with… Lord Endless Ending. That requires a mortal to leave Lord Endless Ending's party and come back to this and come to this house. At some interval. Specified by a contraption your leader left behind. So if the deal was made when your leader was there, your whole… your whole academic sect was there. Oh! And then you're feeding back into this over the course of 700 years, sort of changing the nature of what… But it might have been intentional, designed by your leader to change from one thing to the other at the point where she initiated that deal.",
+        "",
+        "%% u1595:0-7 %%",
+        "DM: Please.",
+        "",
+        "%% u1596:0-48 %%",
+        "Ayveen: Like, it might not be something went wrong, and…",
+        "",
+        "%% u1597:0-31 %%",
+        "DM: It might have been intentional.",
+        "",
+        "%% u1598:0-54, u1599:0-49, u1600:0-76, u1601:0-42, u1602:0-24, u1603:0-48, u1604:0-19, u1605:0-76, u1606:0-36, u1607:0-6 %%",
+        "DM: She was worried. I mean, she was worried all the time. She… I think I said this to you by the gates, but she was so convinced that the Empire was coming apart, she was so convinced… we had so little time to do what we could. She was, like, frenzied! Frantic in a way that I wasn't used to that day. There's an urgency. We move slowly, we move deliberately, we've done this for hundreds of years. But there was a an urgency that day. Peace."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Bye-bye.",
+          "Ayveen: In the book, though.",
+          "DM: Hmm. Yes. Yeah. Well… Yeah.",
+          "Ayveen: That's the scholarly thing to do. Write it down.",
+          "DM: He sighs… and dutifully writes his name and asks you what the current date is, and jots it down, and… records the whisper. \"I am hearing you listen to me.\" That's not good, is it? Jeez."
+        ],
+        "after": [
+          "Ayveen: Maybe her private diary is in room one.",
+          "Txarro: I mean, Txarro will kind of look around at everybody and just say, \"At this point I just want to get out of this. Sitting in one place didn't seem to do much.\"",
+          "Edric: Yeah, no.",
+          "Ayveen: Well, we…",
+          "Txarro: Following… Like, the rooms don't seem to… Well, we can't really tell. So maybe we really just do have to go through another 20 or 16 rooms or whatever till we pass through them all."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Meeting Kallipseis beside her unfinished project",
+      "source": {
+        "startUid": "u1658",
+        "endUid": "u1727"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1658:0-112, u1659:0-57, u1660:0-100, u1661:0-63, u1662:0-133, u1663:0-12, u1664:0-126 %%",
+        "DM: On the other side of the room there's a sort of a contained room within a room with big windows looking into it. And out, it's like an isolation room within the room, and looking through the windows of that smaller space, which is probably about 10 by 10, you see a small humanoid-sized person, at work, humanoid-shaped person at work. And outside of that room, looking in through the window, tapping and pointing and speaking, is a very, very, very old, dwarven woman, who has not… quite noticed you come into the room yet, though you're not trying to keep quiet, but who is super intent on the task at hand.",
+        "",
+        "%% u1665:0-100, u1666:0-48 %%",
+        "DM: So it's sort of like a fungal greenhouse, and inside each of the terraria are different varieties of fungi and spores and different stages of growth.",
+        "",
+        "%% u1667:0-31 %%",
+        "Ayveen: Go interact with the new dwarf.",
+        "",
+        "%% u1668:0-36, u1669:0-14 %%",
+        "Txarro: All… all y'all are like, help! Help! We're trapped!",
+        "",
+        "%% u1670:0-37, u1671:0-34, u1672:0-17, u1673:0-8, u1674:0-125 %%",
+        "DM: She turns around and looks at you and… and waves, waves you to come over. As you walk over, you see… short pair of legs with arms coming directly out of them, slowly carrying a large pot down one of the rows next to the table.",
+        "",
+        "%% u1675:0-9, u1676:0-196, u1677:0-96 %%",
+        "DM: You see a grapefruit-sized ball of flesh with two eyes that protrude out and move independently of each other. One of them is watching a tank right in front of it, and one of them is watching you as you go. This grapefruit-sized ball of, like, fleshy-looking stuff with two eyes and a human mouth on it.",
+        "",
+        "%% u1678:0-138, u1679:0-58, u1680:0-171 %%",
+        "DM: And the dwarven woman waves you over again, \"Come on, come on, yeah, yeah, I know, it's strange, I know, it doesn't make sense, yeah, okay. I'm right in the middle of a delicate moment here, though.\" She bangs on the glass. \"Nope, nope,\" she says to whatever's inside. \"That one, there, and then that one. Yeah, good. Yep, yep. And then just like the other side. Good, good.\"",
+        "",
+        "%% u1681:0-32, u1682:0-100, u1683:0-52, u1684:0-231, u1685:0-19, u1686:0-11, u1687:0-18, u1688:0-41 %%",
+        "DM: She sighs and looks over at you, meeting each of your stares sort of appraisingly, and then seeing Menestheus says, \"Okay, okay, okay.\" \"Greetings,\" she says. \"I'm Kallipseis. I'm a gardener, and a little bit in the middle of a project.\" Here she gestures behind her through the window to this isolation room, where a table's laid out, and a slightly larger than dwarf-sized body seems to be placed on the table as a similar creature? Automata? Flesh-suit. It's hard at work on some detailed part of one of its arms.",
+        "",
+        "%% u1689:0-34, u1690:0-22, u1691:0-13, u1692:0-27 %%",
+        "DM: So you've been… You've made it in! Do you want something? What are you? What, what… What do you need?",
+        "",
+        "%% u1693:0-179, u1694:0-29, u1695:0-50, u1696:0-39, u1697:0-6, u1698:0-6, u1699:0-32, u1700:0-4, u1701:0-27, u1702:0-10, u1703:0-21, u1704:0-4, u1705:0-71, u1706:0-27, u1707:0-16, u1708:0-7 %%",
+        "((Player fatigue and automaton jokes))",
+        "",
+        "%% u1709:0-5, u1710:0-12, u1711:0-75 %%",
+        "Ayveen: Okay. Ayveen says: \"How much longer do you expect your work to take? I would hate to interrupt.\"",
+        "",
+        "%% u1712:0-265, u1713:0-49, u1714:0-36, u1715:0-17 %%",
+        "DM: It's very kind of you. We probably have 10 minutes till they need the next bit of direction. They've done arms before. She sort of gestures vaguely to the room. And, so it's, he's got it there. They just, they mix up their left and right, which is bizarre. I don't… There must be something I'm doing wrong, but I'm… Anyways, yeah, I have a few minutes. What do you need?",
+        "",
+        "%% u1716:0-51 %%",
+        "Ayveen: We need to understand the purpose of this building.",
+        "",
+        "%% u1717:0-4, u1718:0-97, u1719:0-46, u1720:0-16, u1721:0-4 %%",
+        "DM: God. Yeah, yeah. You're not the first ones to ask me this question, or the first ones to come through. He didn't tell you he's a member of our order! Do you not know? Huh.",
+        "",
+        "%% u1722:0-76, u1723:0-5 %%",
+        "Ayveen: Do you feel that you're still fulfilling the original purpose of your order with…",
+        "",
+        "%% u1724:0-72, u1725:0-4, u1726:0-19, u1727:0-15 %%",
+        "DM: With the death of Thalestria, I became the head of the order, of course. Yep. The work continues. Work continues."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You step through into 18, and… It's funny, too, this is the 18th room you've stepped into.",
+          "Ayveen: The golden room.",
+          "DM: In this room.",
+          "DM: There are huge, long rows of tables, like a greenhouse, almost, down the center of the room, while on one side, storage cupboards and closets line a wall. On the tables lining, the center of the… down the center of the room, there are different contained, terraria, ranging in size from maybe, like, a foot square to the biggest being, like, 3x6 even, or… big enough almost for a person to be inside of. But they're completely contained in glass. And there's maybe two dozen of those. On the…",
+          "DM: Near the door, just to your right, there's a small writing desk with a vase of fresh dandelions on it, sort of looking like a study carrel with notes and a stack of books on top of it."
+        ],
+        "after": [
+          "DM: This place, to answer your question though, this place is a prison.",
+          "Ayveen: Mmm.",
+          "Tarek: Prison for whom?",
+          "DM: Ugh. Well…",
+          "DM: This is one of the things that Thalestria did not tell me before she decided to get herself killed, or disappeared, or whatever. But there's a locked room at the center of this. A locked room that is… elsewhere…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Kallipseis explains the moving prison and her escape body",
+      "source": {
+        "startUid": "u1728",
+        "endUid": "u1788"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1728:0-67 %%",
+        "DM: This place, to answer your question though, this place is a prison.",
+        "",
+        "%% u1729:0-4 %%",
+        "Ayveen: Mmm.",
+        "",
+        "%% u1730:0-16 %%",
+        "Tarek: Prison for whom?",
+        "",
+        "%% u1731:0-4, u1732:0-5 %%",
+        "DM: Ugh. Well…",
+        "",
+        "%% u1733:0-177, u1734:0-33 %%",
+        "DM: This is one of the things that Thalestria did not tell me before she decided to get herself killed, or disappeared, or whatever. But there's a locked room at the center of this. A locked room that is… elsewhere…",
+        "",
+        "%% u1735:0-3 %%",
+        "Tarek: Oh.",
+        "",
+        "%% u1736:0-84, u1737:0-31, u1738:0-69, u1739:0-4, u1740:0-55, u1741:0-91 %%",
+        "DM: And… the rooms around it all move, and as the rooms around it move, it, it moves the… the locked room in space, this… There are so many other people who could explain this better than me. Yes. Imagine, imagine, have you been through the orrery yet? The orrery with the models of the different spheres, and the models of this place, and the…",
+        "",
+        "%% u1742:0-15 %%",
+        "Tarek: Oh my goodness.",
+        "",
+        "%% u1743:0-7 %%",
+        "DM: So… No.",
+        "",
+        "%% u1744:0-19 %%",
+        "Ayveen: Look forward to it.",
+        "",
+        "%% u1745:0-47 %%",
+        "DM: Well, the… There's a locked room in the center.",
+        "",
+        "%% u1746:0-4 %%",
+        "Ayveen: Mmh.",
+        "",
+        "%% u1747:0-14, u1748:0-285, u1749:0-287 %%",
+        "DM: And around it spins one wheel, which moves it in space east and west, and around it spins another wheel, which moves it in space north and south, and around it spins another wheel, which moves it in time, which for some reason is treated as a spatial dimension, which does not make sense to me, but… Nonetheless, it's treated that way, and so as the wheels spin around the central room, it keeps it constantly moving. Apparently, there's something in there that if it stays in one place too long, it can grow out through the wall, so you have to keep it moving so that it can't grow out.",
+        "",
+        "%% u1750:0-15 %%",
+        "Tarek: Oh my goodness.",
+        "",
+        "%% u1751:0-127 %%",
+        "Ayveen: So having imprisoned one thing somehow fulfills your order's mandate to stop up all gaps everywhere all the time as they arise?",
+        "",
+        "%% u1752:0-34 %%",
+        "DM: Oh, young lady. No, obviously not.",
+        "",
+        "%% u1753:0-5 %%",
+        "Tarek: Okay.",
+        "",
+        "%% u1754:0-78, u1755:0-74 %%",
+        "Ayveen: Well then, how does this… one house fulfill your mission? Is there? Are there? Are you interacting with other activities? Are you doing other activities?",
+        "",
+        "%% u1756:0-20, u1757:0-28, u1758:0-110, u1759:0-69, u1760:0-138 %%",
+        "DM: The trouble is this. At some point along the way, one of the other rooms, or maybe several of the other rooms, or possibly all of the other rooms, got infected. Which is why I don't leave this one, because I believe that the… the… the things that keep me safe from the spores in this room keep me safe from the… whatever the infection is that's reached the other rooms.",
+        "",
+        "%% u1761:0-9 %%",
+        "Tarek: Oh, dear.",
+        "",
+        "%% u1762:0-8 %%",
+        "DM: Would I?",
+        "",
+        "%% u1763:0-10 %%",
+        "Tarek: Thank you.",
+        "",
+        "%% u1764:0-199 %%",
+        "DM: I don't know, but hopefully you just spend enough time breathing the air here, it should clear it out of your system, you'll be fine. Or you'll die. This is the sort of thing that only time can tell.",
+        "",
+        "%% u1765:0-82, u1766:0-38, u1767:0-61, u1768:0-47 %%",
+        "DM: In order to get out of here to rebuild the order, which is what is vitally needed, I need a way to get out without dying. Which is why I've been making these. And she gestures to the… humanoid figures, as if it's perfectly obvious.",
+        "",
+        "%% u1769:0-17, u1770:0-15 %%",
+        "Tarek: Whoa, wait, what? What are those?",
+        "",
+        "%% u1771:0-25, u1772:0-17, u1773:0-72 %%",
+        "DM: Well, they're the golems. As far as I know, no one has ever made fungal golems before. This is a landmark in itself.",
+        "",
+        "%% u1774:0-5 %%",
+        "Tarek: Mmhm.",
+        "",
+        "%% u1775:0-18 %%",
+        "DM: This is the thing.",
+        "",
+        "%% u1776:0-55, u1777:0-44, u1778:0-30, u1779:0-97, u1780:0-56 %%",
+        "DM: I'm… I need a body that can take me out of here safely and then still live on the other side of it. Even if I make it out of here… I don't know how old I am at this point. I won't survive it. I won't have the strength to rebuild. So I… I'm making this… in order to put myself inside it.",
+        "",
+        "%% u1781:0-8 %%",
+        "Tarek: Curious.",
+        "",
+        "%% u1782:0-18 %%",
+        "DM: To get safely out.",
+        "",
+        "%% u1783:0-4, u1784:0-4 %%",
+        "Tarek: Mmm. And…",
+        "",
+        "%% u1785:0-85, u1786:0-13, u1787:0-15, u1788:0-20 %%",
+        "DM: If you have other ideas, I'm open to them, but this is the simplest one that I could… come up with. It's been slow. It's been slow work."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It's very kind of you. We probably have 10 minutes till they need the next bit of direction. They've done arms before. She sort of gestures vaguely to the room. And, so it's, he's got it there. They just, they mix up their left and right, which is bizarre. I don't… There must be something I'm doing wrong, but I'm… Anyways, yeah, I have a few minutes. What do you need?",
+          "Ayveen: We need to understand the purpose of this building.",
+          "DM: God. Yeah, yeah. You're not the first ones to ask me this question, or the first ones to come through. He didn't tell you he's a member of our order! Do you not know? Huh.",
+          "Ayveen: Do you feel that you're still fulfilling the original purpose of your order with…",
+          "DM: With the death of Thalestria, I became the head of the order, of course. Yep. The work continues. Work continues."
+        ],
+        "after": [
+          "Tarek: We're, we're looking, incidentally, for a key.",
+          "Edric: It's in the center.",
+          "DM: The key to the locked room? Huh!",
+          "DM: I will tell you, I have not been out of this room in a long… long, long time.",
+          "Tarek: Mmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Fungal cultures, the mortuary and the body she intends to colonize",
+      "source": {
+        "startUid": "u1789",
+        "endUid": "u1865"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1789:0-35, u1790:0-10 %%",
+        "Tarek: We're, we're looking, incidentally, for a key.",
+        "",
+        "%% u1791:0-19 %%",
+        "Edric: It's in the center.",
+        "",
+        "%% u1792:0-27, u1793:0-4 %%",
+        "DM: The key to the locked room? Huh!",
+        "",
+        "%% u1794:0-77 %%",
+        "DM: I will tell you, I have not been out of this room in a long… long, long time.",
+        "",
+        "%% u1795:0-4 %%",
+        "Tarek: Mmm.",
+        "",
+        "%% u1796:0-31, u1797:0-59 %%",
+        "DM: I didn't always work in fungus. I used to be, like, a gardener. I used to work with plants.",
+        "",
+        "%% u1798:0-32 %%",
+        "Ayveen: The solarium still looks lovely.",
+        "",
+        "%% u1799:0-53, u1800:0-58, u1801:0-60, u1802:0-34, u1803:0-42 %%",
+        "DM: That's good to hear. They must not have gotten there. The greenhouses were destroyed, utterly. I barely made it. But then I made these. Helpers to keep me safe in this room? And when the guests cause trouble, well, they can still be useful afterwards.",
+        "",
+        "%% u1804:0-69, u1805:0-57 %%",
+        "DM: And she gestures with her head towards the, towards the, the, the big glass boxes with the growing fungus on the central table.",
+        "",
+        "%% u1806:0-61 %%",
+        "Ayveen: So you're not using the incinerator in the morgue these days?",
+        "",
+        "%% u1807:0-68, u1808:0-138, u1809:0-49, u1810:0-29, u1811:0-27, u1812:0-5, u1813:0-17, u1814:0-148 %%",
+        "DM: No, I don't think it's safe to get out there and back again. Besides… I get the most interesting cultures off of them. In fact, I think part of what's making my golems possible is that I'm using their spores. At least in part. It's a hybrid, always a hybrid. But they're helpful, besides. Better to put them to work? Hmmm. Saving the order? All progress involves sacrifice. Don't be naive about that, she says, gesturing back to the lumps in those tanks that clearly seem to be body parts.",
+        "",
+        "%% u1815:0-100, u1816:0-51, u1817:0-12 %%",
+        "Ayveen: Someone else was at some point working in the morgue trying, perhaps they were trying to figure out whatever illness or infection you've also observed. There was a…",
+        "",
+        "%% u1818:0-3 %%",
+        "DM: Oh.",
+        "",
+        "%% u1819:0-18, u1820:0-28 %%",
+        "Edric: It was a body with something growing out of it.",
+        "",
+        "%% u1821:0-3 %%",
+        "DM: Oh.",
+        "",
+        "%% u1822:0-98, u1823:0-11, u1824:0-107 %%",
+        "DM: Describe it, describe it, describe it, describe it. She gets a big grin on her face. I love these. Was it red? No, no, no, no, don't tell me, don't tell me. Was it sprouting really tall with a, like, a ball at the end?",
+        "",
+        "%% u1825:0-3 %%",
+        "Ayveen: No.",
+        "",
+        "%% u1826:0-65 %%",
+        "DM: Was it, oh, was it the, was it the, was it the, the white fibers?",
+        "",
+        "%% u1827:0-26 %%",
+        "Ayveen: A thin mat of white fiber.",
+        "",
+        "%% u1828:0-38, u1829:0-51 %%",
+        "DM: Yeah, oh, those are nice. Yeah, those. Those are delightful. They are really, really good.",
+        "",
+        "%% u1830:0-18, u1831:0-40 %%",
+        "Edric: How are they good? What is maybe one good thing about them?",
+        "",
+        "%% u1832:0-73, u1833:0-31, u1834:0-65, u1835:0-17, u1836:0-8, u1837:0-68, u1838:0-102, u1839:0-6, u1840:0-110 %%",
+        "DM: She gestures over to the, golem in progress, the body lying on the table. Because they colonize in flesh. And, and they, they form a symbiotic relationship with the flesh, keeping it alive. Sort of. Well, while not allowing it to die, it's… It's incredibly beautiful. It comes out… well, you get… and she gestures again towards the body on the table. That's the sort of… stout humanoid, maybe five feet tall with pale white skin that's sort of well muscled, but also a little bit padded.",
+        "",
+        "%% u1841:0-68, u1842:0-120, u1843:0-84 %%",
+        "DM: You get this incredibly resilient flesh out of it. The trouble is if… if it's colonizing you, then, you know, it's running the show. The trick, like I'm doing here, is for me to colonize it. So I've cultured pieces of myself to take it over, and soon it will be my own flesh.",
+        "",
+        "%% u1844:0-11 %%",
+        "Edric: Let me see.",
+        "",
+        "%% u1845:0-50, u1846:0-20, u1847:0-49 %%",
+        "DM: You haven't run into any of those guests then. Oh. It must be that the… the morgue tables slow the transformation, maybe.",
+        "",
+        "%% u1848:0-3 %%",
+        "Tarek: Oh.",
+        "",
+        "%% u1849:0-25, u1850:0-91 %%",
+        "DM: Otherwise, it takes over. The hairy fibers are just the first stage. They get incorporated into the flesh after that.",
+        "",
+        "%% u1851:0-57 %%",
+        "Ayveen: Do they become particularly troublesome after that stage?",
+        "",
+        "%% u1852:0-5, u1853:0-15, u1854:0-14, u1855:0-27, u1856:0-26, u1857:0-85, u1858:0-4, u1859:0-98, u1860:0-45, u1861:0-61 %%",
+        "DM: They? Do they become single-minded about… getting out of here. About getting away, about… They rant about needing to go as far as they can. They… they talk on about doing… so. Yes. They talk about this parent. It's all sort of nonsensical and shouty, and then they start hitting. And that's difficult. And then they grab you. And then they have mouths in their chest that try to eat you.",
+        "",
+        "%% u1862:0-12 %%",
+        "Edric: That sounds…",
+        "",
+        "%% u1863:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1864:0-10 %%",
+        "Edric: Something.",
+        "",
+        "%% u1865:0-141 %%",
+        "DM: The first one was not… good. But, I mean, like I say, if I didn't have them, I couldn't be making this, so it's all… it's all about progress."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I'm… I need a body that can take me out of here safely and then still live on the other side of it. Even if I make it out of here… I don't know how old I am at this point. I won't survive it. I won't have the strength to rebuild. So I… I'm making this… in order to put myself inside it.",
+          "Tarek: Curious.",
+          "DM: To get safely out.",
+          "Tarek: Mmm. And…",
+          "DM: If you have other ideas, I'm open to them, but this is the simplest one that I could… come up with. It's been slow. It's been slow work."
+        ],
+        "after": [
+          "Txarro: Did she ever tell us what her name was?",
+          "DM: Kallipseis.",
+          "Txarro: You know where… Thalestria is?",
+          "DM: Thalestria. Thalestria, she says, muttering Dwarvish curses under her breath.",
+          "DM: One day, Thalestria decides that she needs to take everyone who is stationed here and leave, and go off on some… wild hunt."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Kallipseis’s account of the order’s dissolution",
+      "source": {
+        "startUid": "u1866",
+        "endUid": "u1907"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "lines": [
+        "%% u1866:0-39 %%",
+        "Txarro: Did she ever tell us what her name was?",
+        "",
+        "%% u1867:0-11 %%",
+        "DM: Kallipseis.",
+        "",
+        "%% u1868:0-15, u1869:0-14 %%",
+        "Txarro: You know where… Thalestria is?",
+        "",
+        "%% u1870:0-11, u1871:0-64 %%",
+        "DM: Thalestria. Thalestria, she says, muttering Dwarvish curses under her breath.",
+        "",
+        "%% u1872:0-112, u1873:0-10 %%",
+        "DM: One day, Thalestria decides that she needs to take everyone who is stationed here and leave, and go off on some… wild hunt.",
+        "",
+        "%% u1874:0-32 %%",
+        "Edric: Where are you stationed exactly?",
+        "",
+        "%% u1875:0-52, u1876:0-105, u1877:0-59 %%",
+        "DM: Well, this… This is the house we call the 27th Room. The entrance is in the Feywild, I assume that's how… I can't imagine how else you would have gotten here. Yeah, we built the house around the prison a long time ago.",
+        "",
+        "%% u1878:0-6 %%",
+        "Edric: Prism?",
+        "",
+        "%% u1879:0-7 %%",
+        "Ayveen: Prison.",
+        "",
+        "%% u1880:0-7 %%",
+        "DM: Prison.",
+        "",
+        "%% u1881:0-22 %%",
+        "Edric: Oh, the prison. Sorry.",
+        "",
+        "%% u1882:0-20 %%",
+        "DM: Yeah, the 27th room.",
+        "",
+        "%% u1883:0-7 %%",
+        "Ayveen: So the…",
+        "",
+        "%% u1884:0-3 %%",
+        "Txarro: So.",
+        "",
+        "%% u1885:0-74 %%",
+        "Ayveen: 27th room is the 27th, and you call the whole house the 27th room as well.",
+        "",
+        "%% u1886:0-62 %%",
+        "DM: Yeah, it's… poetic, someone told me, I never quite understood.",
+        "",
+        "%% u1887:0-14, u1888:0-55, u1889:0-22 %%",
+        "Ayveen: And you think… And your memory is that Thalestria left with everybody. But you stayed behind.",
+        "",
+        "%% u1890:0-140, u1891:0-19 %%",
+        "DM: Thalestria left in a hurry and a huff. Thalestria said that it was my fault that the order was being disbanded, a thing which is ridiculous. Even if it is true.",
+        "",
+        "%% u1892:0-16 %%",
+        "Edric: Wait, it's true?",
+        "",
+        "%% u1893:0-50, u1894:0-17, u1895:0-95, u1896:0-21, u1897:0-81, u1898:0-10, u1899:0-124, u1900:0-53, u1901:0-27 %%",
+        "DM: Thalestria believed that our mission as an order was so important that she would go along with whatever the Emperor and the Empire demanded, no matter how absurd or disgusting it was. Obviously, she's wrong about that. Sometimes, taking a public stand matters more. Sometimes the only way to prevent someone from seizing an ultimate power is to stand up and say, \"This isn't right and this isn't okay.\" And then to quickly flee to one of your hidden bases. She didn't seem to like it.",
+        "",
+        "%% u1902:0-71, u1903:0-58 %%",
+        "Ayveen: So you were outspoken in Drankorian politics and then you fled here and she got a sternly worded letter that she should shut down.",
+        "",
+        "%% u1904:0-39, u1905:0-55 %%",
+        "DM: I think that's uncharitable towards me. But… yeah, in so many words, and her shoulders slumped.",
+        "",
+        "%% u1906:0-246, u1907:0-50 %%",
+        "DM: But the order continues. Look, here are two of us, right now. The head of the order is here, another member is here. Soon enough, I'll be able to leave and go back out and rebuild, and we will be fine, we will be fine. I'll find the rest of them. Thalestria's probably out there somewhere, hiding."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: They? Do they become single-minded about… getting out of here. About getting away, about… They rant about needing to go as far as they can. They… they talk on about doing… so. Yes. They talk about this parent. It's all sort of nonsensical and shouty, and then they start hitting. And that's difficult. And then they grab you. And then they have mouths in their chest that try to eat you.",
+          "Edric: That sounds…",
+          "DM: Yes.",
+          "Edric: Something.",
+          "DM: The first one was not… good. But, I mean, like I say, if I didn't have them, I couldn't be making this, so it's all… it's all about progress."
+        ],
+        "after": [
+          "Txarro: So wait, how do we get out?",
+          "DM: Well, I'll tell you this, I only have one of these bodies, and it is for me. I mean…",
+          "DM: I'm going to say don't get infected. Here's the thing. I don't know that every room has been infected. So it's possible that you're not.",
+          "Ayveen: So we can sit here forever until we die. Or… we can go out and possibly get infected and die of that instead of old age in here.",
+          "DM: You see, my theory here, though, and I was working on this in the animal laboratory until I had to leave that also, is that it takes a puncture to be infected, so if, if you haven't been punctured, you're, you're probably, you're…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Leaving, infection theories and the listeners’ promised door",
+      "source": {
+        "startUid": "u1908",
+        "endUid": "u1962"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1908:0-27 %%",
+        "Txarro: So wait, how do we get out?",
+        "",
+        "%% u1909:0-76, u1910:0-7 %%",
+        "DM: Well, I'll tell you this, I only have one of these bodies, and it is for me. I mean…",
+        "",
+        "%% u1911:0-102, u1912:0-33 %%",
+        "DM: I'm going to say don't get infected. Here's the thing. I don't know that every room has been infected. So it's possible that you're not.",
+        "",
+        "%% u1913:0-27, u1914:0-13, u1915:0-87 %%",
+        "Ayveen: So we can sit here forever until we die. Or… we can go out and possibly get infected and die of that instead of old age in here.",
+        "",
+        "%% u1916:0-115, u1917:0-114 %%",
+        "DM: You see, my theory here, though, and I was working on this in the animal laboratory until I had to leave that also, is that it takes a puncture to be infected, so if, if you haven't been punctured, you're, you're probably, you're…",
+        "",
+        "%% u1918:0-32 %%",
+        "Ayveen: Oh, no, they're not respiratory.",
+        "",
+        "%% u1919:0-62 %%",
+        "DM: I couldn't get the animals infected just by airborne exposure.",
+        "",
+        "%% u1920:0-86, u1921:0-32, u1922:0-47 %%",
+        "Txarro: So is there a way out? I'm not so much worried about your… weird body creatures, just… an exit from this terrible maze that maybe takes us back to the material plane.",
+        "",
+        "%% u1923:0-93 %%",
+        "Ayveen: For example, when Thalestria chose to leave with a bunch of people from the Order, they were…",
+        "",
+        "%% u1924:0-36 %%",
+        "Txarro: How did she, yes, how did she do it?",
+        "",
+        "%% u1925:0-24, u1926:0-53, u1927:0-42, u1928:0-36, u1929:0-38, u1930:0-47, u1931:0-150, u1932:0-41 %%",
+        "DM: I didn't want to say it. The real answer is I don't know. The other answer is… I think… I think some of the… some of the… people who are feeding my mushrooms were at one time members of the order. If you, if you really make me think on it hard. I mean, but they'd gone mad. I mean, they were, they were crazed. They were trying, they were trying to destroy things. I, it's not like I had another… So at least maybe some of them came back.",
+        "",
+        "%% u1933:0-66, u1934:0-44, u1935:0-81, u1936:0-9 %%",
+        "Ayveen: Oh, I think they came back. I totally support your theory. I 100%. I'm quite certain that that's what happened. But… the point being, if someone were to want to leave again, you don't know how to leave.",
+        "",
+        "%% u1937:0-45, u1938:0-49, u1939:0-125, u1940:0-58, u1941:0-23, u1942:0-63 %%",
+        "DM: Well, listen, the… The other thing I know is something that one of the listeners told me once. In fact, something that several of the listeners told me, which is why they had to keep rotating different listeners through. They said that inside the 27th room, there's another door that leaves this place. And that if they could just get to it, they could get out also.",
+        "",
+        "%% u1943:0-10 %%",
+        "Txarro: I hate it.",
+        "",
+        "%% u1944:0-98, u1945:0-46, u1946:0-42, u1947:0-72, u1948:0-56 %%",
+        "DM: They said crazy things. They said that they were promised whatever their heart desired. They said that they had conversations with the prisoner. They said the prisoner knew who they were? They said the prisoner told them that they were already inside the room? I mean… I don't know how much stock to put in any of it.",
+        "",
+        "%% u1949:0-30, u1950:0-29, u1951:0-25, u1952:0-52, u1953:0-23, u1954:0-86, u1955:0-35 %%",
+        "Ayveen: The listeners who wrote notes in the notebooks we've found did not seem to describe… editorialize that they were listening to a prisoner. It was much more vague. Were there different types of listening happening here, or were all notes of listening notes of listening to the prisoner?",
+        "",
+        "%% u1956:0-30, u1957:0-33, u1958:0-34, u1959:0-47, u1960:0-20, u1961:0-101, u1962:0-60 %%",
+        "DM: Look, it wasn't my department. But I don't think they were told. I think that… whatever's in there, the fewer people who know about it, the better. Secrecy is security. I… think they were told to listen without being told what they were listening to or understanding it. And maybe they came to draw their own conclusions over time."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: Wait, it's true?",
+          "DM: Thalestria believed that our mission as an order was so important that she would go along with whatever the Emperor and the Empire demanded, no matter how absurd or disgusting it was. Obviously, she's wrong about that. Sometimes, taking a public stand matters more. Sometimes the only way to prevent someone from seizing an ultimate power is to stand up and say, \"This isn't right and this isn't okay.\" And then to quickly flee to one of your hidden bases. She didn't seem to like it.",
+          "Ayveen: So you were outspoken in Drankorian politics and then you fled here and she got a sternly worded letter that she should shut down.",
+          "DM: I think that's uncharitable towards me. But… yeah, in so many words, and her shoulders slumped.",
+          "DM: But the order continues. Look, here are two of us, right now. The head of the order is here, another member is here. Soon enough, I'll be able to leave and go back out and rebuild, and we will be fine, we will be fine. I'll find the rest of them. Thalestria's probably out there somewhere, hiding."
+        ],
+        "after": [
+          "Ayveen: So since we have two members of the order here, I'm just gonna clarify with both, Menestheus and Thalestria—mispronunciations, please excuse.",
+          "DM: Yep.",
+          "Ayveen: So…",
+          "Txarro: Kallipseis.",
+          "DM: This is Tim's fault for naming several Drankorians with Greek-sounding names."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Authority to open the door and clocks that might verify the elapsed centuries",
+      "source": {
+        "startUid": "u1963",
+        "endUid": "u2010"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1963:0-81, u1964:0-59 %%",
+        "Ayveen: So since we have two members of the order here, I'm just gonna clarify with both, Menestheus and Thalestria—mispronunciations, please excuse.",
+        "",
+        "%% u1965:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u1966:0-3 %%",
+        "Ayveen: So…",
+        "",
+        "%% u1967:0-11 %%",
+        "Txarro: Kallipseis.",
+        "",
+        "%% u1968:0-77 %%",
+        "DM: This is Tim's fault for naming several Drankorians with Greek-sounding names.",
+        "",
+        "%% u1969:0-5, u1970:0-163, u1971:0-134 %%",
+        "Ayveen: Okay. Am I understanding that the order of business and the order that you signed up in was to exist in this 27th room building that none of you could voluntarily leave, except on that one day, when Thalestria went crazy and brought most of the people in the order out of the door. But you stayed behind?",
+        "",
+        "%% u1972:0-79, u1973:0-33, u1974:0-101, u1975:0-109 %%",
+        "DM: Yeah, the head of the order has the… What? Ability? Blessing? Anointing? Power? To open the door from the inside. Really, it was for the safety of the other members. Do you want him wandering around the Feywild? No. He'd be dead in an afternoon. He'd be stuck at some party for a hundred years. Nothing would go well for him.",
+        "",
+        "%% u1976:0-8 %%",
+        "Edric: Oh, him.",
+        "",
+        "%% u1977:0-30 %%",
+        "DM: Just trying to finish the SEO.",
+        "",
+        "%% u1978:0-4 %%",
+        "Edric: Yes.",
+        "",
+        "%% u1979:0-12 %%",
+        "Txarro: I mean, yes.",
+        "",
+        "%% u1980:0-36 %%",
+        "Ayveen: Been stuck at a party for 700 years.",
+        "",
+        "%% u1981:0-38 %%",
+        "Txarro: He was stuck at a party for 700 years.",
+        "",
+        "%% u1982:0-25, u1983:0-6 %%",
+        "DM: She looks at you blankly. \"Sorry?\"",
+        "",
+        "%% u1984:0-12 %%",
+        "Ayveen: Yes, you've…",
+        "",
+        "%% u1985:0-4 %%",
+        "Txarro: Bet.",
+        "",
+        "%% u1986:0-36 %%",
+        "Ayveen: You're in the Feywild for 700 years.",
+        "",
+        "%% u1987:0-50 %%",
+        "Edric: The Drankorian Empire fell, like, a long time ago.",
+        "",
+        "%% u1988:0-3, u1989:0-3, u1990:0-4 %%",
+        "DM: Oh. Oh. Yep.",
+        "",
+        "%% u1991:0-37, u1992:0-30 %%",
+        "DM: You didn't pick up one of the clocks. Do you have one of the clocks?",
+        "",
+        "%% u1993:0-43 %%",
+        "Ayveen: We didn't pick it up. We've seen the clock.",
+        "",
+        "%% u1994:0-33 %%",
+        "Txarro: It was very big, bigger than you.",
+        "",
+        "%% u1995:0-60, u1996:0-27 %%",
+        "DM: No, it's like the the desk clocks, I mean the mantel clocks. Not the grandfather clocks.",
+        "",
+        "%% u1997:0-3 %%",
+        "Ayveen: No.",
+        "",
+        "%% u1998:0-31 %%",
+        "DM: Mantel clocks in here? No. Hmm.",
+        "",
+        "%% u1999:0-10, u2000:0-16, u2001:0-40, u2002:0-43 %%",
+        "DM: I had one. Well, I had one. In the greenhouse and in the animal lab. And I didn't think to bring either of them.",
+        "",
+        "%% u2003:0-68, u2004:0-30, u2005:0-29 %%",
+        "DM: Well, in the absence of having any way to verify what you're saying, I have to think it's not true. It's just, it's an absurdity.",
+        "",
+        "%% u2006:0-33 %%",
+        "Edric: What would be a way to verify it?",
+        "",
+        "%% u2007:0-29 %%",
+        "Ayveen: You bring her a mantel clock.",
+        "",
+        "%% u2008:0-78, u2009:0-26, u2010:0-74 %%",
+        "DM: Well, I'll finish the body, I'll put myself into it, and we'll walk right out. Yeah, or to bring a clock. But I can't get to the other rooms to get a clock until I finish the body."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, listen, the… The other thing I know is something that one of the listeners told me once. In fact, something that several of the listeners told me, which is why they had to keep rotating different listeners through. They said that inside the 27th room, there's another door that leaves this place. And that if they could just get to it, they could get out also.",
+          "Txarro: I hate it.",
+          "DM: They said crazy things. They said that they were promised whatever their heart desired. They said that they had conversations with the prisoner. They said the prisoner knew who they were? They said the prisoner told them that they were already inside the room? I mean… I don't know how much stock to put in any of it.",
+          "Ayveen: The listeners who wrote notes in the notebooks we've found did not seem to describe… editorialize that they were listening to a prisoner. It was much more vague. Were there different types of listening happening here, or were all notes of listening notes of listening to the prisoner?",
+          "DM: Look, it wasn't my department. But I don't think they were told. I think that… whatever's in there, the fewer people who know about it, the better. Secrecy is security. I… think they were told to listen without being told what they were listening to or understanding it. And maybe they came to draw their own conclusions over time."
+        ],
+        "after": [
+          "Ayveen: Well, we're just gonna go out, not get punctured and not get infected and continue our explorations.",
+          "DM: Yes. Fair. Hmph. She lapses into… distant thought again.",
+          "DM: Well, let me tell you what I can about the infection. So…",
+          "Edric: Seems helpful.",
+          "DM: First, do watch out for the mouths! The map there… It has too many mouths. It has a half-dozen mouths. It reaches out, and it pulls you in, and then it starts trying to… I don't know what… chew you open."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Kallipseis warns about mouths, fire and airborne head fungus",
+      "source": {
+        "startUid": "u2016",
+        "endUid": "u2035"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u2016:0-33, u2017:0-20, u2018:0-3 %%",
+        "DM: Well, let me tell you what I can about the infection. So…",
+        "",
+        "%% u2019:0-14 %%",
+        "Edric: Seems helpful.",
+        "",
+        "%% u2020:0-35, u2021:0-14, u2022:0-118, u2023:0-33 %%",
+        "DM: First, do watch out for the mouths! The map there… It has too many mouths. It has a half-dozen mouths. It reaches out, and it pulls you in, and then it starts trying to… I don't know what… chew you open.",
+        "",
+        "%% u2024:0-23, u2025:0-59, u2026:0-89 %%",
+        "DM: They're afraid of fire. They know to be afraid of fire, which is a strange knowing. They'll talk… But don't listen too long. The things they say seem to be nonsense anyways.",
+        "",
+        "%% u2027:0-182, u2028:0-156, u2029:0-70, u2030:0-20, u2031:0-57, u2032:0-131, u2033:0-23 %%",
+        "DM: And then, of course, the principal fruiting body is in the head. In fact, if you look over there, and she gestures to one of the containers, the big glass tanks on the central table, you can see it, it's… it's beautiful, actually. They crack their way out through the joins in the skull, from where the different skull bones fuse together. And… As she describes it, you can see there is what remains of a head. That is broken open with enormous fungi that have pushed their way out of it. This is the stuff you really have to watch out for, because this stuff gets airborne. The body fungus doesn't have the fruit in it. But the… the head does.",
+        "",
+        "%% u2034:0-42 %%",
+        "Ayveen: All right, don't get splattered with head.",
+        "",
+        "%% u2035:0-39 %%",
+        "DM: Yeah, don't put any head inside of you."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: What would be a way to verify it?",
+          "Ayveen: You bring her a mantel clock.",
+          "DM: Well, I'll finish the body, I'll put myself into it, and we'll walk right out. Yeah, or to bring a clock. But I can't get to the other rooms to get a clock until I finish the body.",
+          "Ayveen: Well, we're just gonna go out, not get punctured and not get infected and continue our explorations.",
+          "DM: Yes. Fair. Hmph. She lapses into… distant thought again."
+        ],
+        "after": [
+          "Edric: Sounds like good advice.",
+          "DM: Eighteen. Eighteen. And I'll meet you out there.",
+          "Txarro: But this is… Wait, you're planning, when you leave, how exactly are you gonna go?",
+          "DM: Hi!",
+          "Txarro: What doors are you gonna go through?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Kallipseis explains how to cycle back to the entry room",
+      "source": {
+        "startUid": "u2039",
+        "endUid": "u2068"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2039:0-81 %%",
+        "Txarro: But this is… Wait, you're planning, when you leave, how exactly are you gonna go?",
+        "",
+        "%% u2040:0-3 %%",
+        "DM: Hi!",
+        "",
+        "%% u2041:0-36 %%",
+        "Txarro: What doors are you gonna go through?",
+        "",
+        "%% u2042:0-29 %%",
+        "DM: I'm going out the front door.",
+        "",
+        "%% u2043:0-34 %%",
+        "Txarro: When do you get to the front door?",
+        "",
+        "%% u2044:0-12, u2045:0-14, u2046:0-58, u2047:0-44 %%",
+        "DM: Ha ha ha ha! Aha, aha, aha. \"He didn't figure it out,\" she says, pointing to Menestheus. Yeah, yeah, huh, some mathematician you are.",
+        "",
+        "%% u2048:0-33, u2049:0-122, u2050:0-11, u2051:0-19 %%",
+        "DM: Go to one of the four exit rooms. Step out, step back in, step out, step back in, step out, step back in, and eventually you'll come to the, the entry room. It rotates. Think of the rooms.",
+        "",
+        "%% u2052:0-5 %%",
+        "Txarro: Okay.",
+        "",
+        "%% u2053:0-53, u2054:0-61, u2055:0-78, u2056:0-54 %%",
+        "DM: Like, like slices of a cake, like a three-layer cake. And when you step out and step back in, it rotates the slice. And eventually it comes back around again to the entry door where you started. In fact, that's true for any of the… any of the rooms.",
+        "",
+        "%% u2057:0-24 %%",
+        "Tarek: Comes back around again.",
+        "",
+        "%% u2058:0-88, u2059:0-21, u2060:0-22, u2061:0-30, u2062:0-45, u2063:0-149 %%",
+        "DM: Yeah, exactly. And that way it's, it's, it's, Thalestria told me once that they had put… this place, they put… first, the… workshops and the lab and the libraries. And then the… kitchens and the space to stay. And then eventually, they got around to putting in all the… did you guys go through the baths? Is that not the most ridiculous thing? That is absurd.",
+        "",
+        "%% u2064:0-86, u2065:0-79, u2066:0-40 %%",
+        "DM: But I suppose if people are going to be posted here a while, they want their comforts. She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped.",
+        "",
+        "%% u2067:0-4 %%",
+        "Edric: I'm…",
+        "",
+        "%% u2068:0-27 %%",
+        "DM: We built a house inside it."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And then, of course, the principal fruiting body is in the head. In fact, if you look over there, and she gestures to one of the containers, the big glass tanks on the central table, you can see it, it's… it's beautiful, actually. They crack their way out through the joins in the skull, from where the different skull bones fuse together. And… As she describes it, you can see there is what remains of a head. That is broken open with enormous fungi that have pushed their way out of it. This is the stuff you really have to watch out for, because this stuff gets airborne. The body fungus doesn't have the fruit in it. But the… the head does.",
+          "Ayveen: All right, don't get splattered with head.",
+          "DM: Yeah, don't put any head inside of you.",
+          "Edric: Sounds like good advice.",
+          "DM: Eighteen. Eighteen. And I'll meet you out there."
+        ],
+        "after": [
+          "Edric: Who's the prisoner anyway? Have you told us?",
+          "DM: The prisoner, I don't… No. Thalestria didn't tell me. One of the listeners told me it was a child. That we were keeping a child prisoner. And that… we weren't letting it grow up and we weren't letting it die?",
+          "Tarek: Mmm.",
+          "DM: But Thalestria never told me.",
+          "Tarek: Seems to have legs that turn into houses."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "A child prisoner and house-shaped fungal growth",
+      "source": {
+        "startUid": "u2069",
+        "endUid": "u2088"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2069:0-44 %%",
+        "Edric: Who's the prisoner anyway? Have you told us?",
+        "",
+        "%% u2070:0-24, u2071:0-26, u2072:0-44, u2073:0-38, u2074:0-70 %%",
+        "DM: The prisoner, I don't… No. Thalestria didn't tell me. One of the listeners told me it was a child. That we were keeping a child prisoner. And that… we weren't letting it grow up and we weren't letting it die?",
+        "",
+        "%% u2075:0-4 %%",
+        "Tarek: Mmm.",
+        "",
+        "%% u2076:0-29 %%",
+        "DM: But Thalestria never told me.",
+        "",
+        "%% u2077:0-41 %%",
+        "Tarek: Seems to have legs that turn into houses.",
+        "",
+        "%% u2078:0-27 %%",
+        "DM: Legs that turn into houses?",
+        "",
+        "%% u2079:0-27 %%",
+        "Ayveen: It told the listeners that.",
+        "",
+        "%% u2080:0-78, u2081:0-92, u2082:0-75, u2083:0-44, u2084:0-70 %%",
+        "DM: It's bizarre. Come, come look at this. She takes you over to one of the tanks. And there's, like, almost like a miniature city that's grown out of… and like… twiggy roots. Like, 6 or a dozen houses, like, something that had houses described to it and then was trying to grow into that shape. In the way that, like, medieval drawings of, tigers look really weird.",
+        "",
+        "%% u2085:0-5 %%",
+        "Ayveen: Mmhm.",
+        "",
+        "%% u2086:0-24, u2087:0-4, u2088:0-33 %%",
+        "Tarek: But you know… wonderful. Yes. I suppose that's just what it is."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tarek: Comes back around again.",
+          "DM: Yeah, exactly. And that way it's, it's, it's, Thalestria told me once that they had put… this place, they put… first, the… workshops and the lab and the libraries. And then the… kitchens and the space to stay. And then eventually, they got around to putting in all the… did you guys go through the baths? Is that not the most ridiculous thing? That is absurd.",
+          "DM: But I suppose if people are going to be posted here a while, they want their comforts. She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped.",
+          "Edric: I'm…",
+          "DM: We built a house inside it."
+        ],
+        "after": [
+          "DM: We.",
+          "DM: Well, my body will be done soon. I'd be glad to let you back out the front door again. I just can't go that way until… until it's… done.",
+          "Ayveen: You want to stick to your plan. I understand.",
+          "DM: Or, unless… Hang on, just… Unless… There's the opening of the door that I can do under my own power, or there's the key. There's a… a glass key that unlocks all of the locked doors in this house, and you can use it to unlock the front door. I thought Thalestria… had it on her, though, but if you happen to run across it in here somewhere… I'll let you back out the front door.",
+          "Ayveen: Good to know. Looks like a standard size key fits in a standard size lock. It's not disguised as a… fungus, or… hole in the wall, or anything?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i027",
+      "title": "The glass key could open the front door",
+      "source": {
+        "startUid": "u2090",
+        "endUid": "u2108"
+      },
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2090:0-32, u2091:0-53, u2092:0-49 %%",
+        "DM: Well, my body will be done soon. I'd be glad to let you back out the front door again. I just can't go that way until… until it's… done.",
+        "",
+        "%% u2093:0-45 %%",
+        "Ayveen: You want to stick to your plan. I understand.",
+        "",
+        "%% u2094:0-25, u2095:0-7, u2096:0-85, u2097:0-10, u2098:0-108, u2099:0-21, u2100:0-76, u2101:0-37 %%",
+        "DM: Or, unless… Hang on, just… Unless… There's the opening of the door that I can do under my own power, or there's the key. There's a… a glass key that unlocks all of the locked doors in this house, and you can use it to unlock the front door. I thought Thalestria… had it on her, though, but if you happen to run across it in here somewhere… I'll let you back out the front door.",
+        "",
+        "%% u2102:0-13, u2103:0-60, u2104:0-36, u2105:0-30 %%",
+        "Ayveen: Good to know. Looks like a standard size key fits in a standard size lock. It's not disguised as a… fungus, or… hole in the wall, or anything?",
+        "",
+        "%% u2106:0-40 %%",
+        "DM: No, no, it's just made of glass, though.",
+        "",
+        "%% u2107:0-4 %%",
+        "Tarek: Mmm.",
+        "",
+        "%% u2108:0-88 %%",
+        "Ayveen: Well, I will be grateful that I haven't seen any crushed piles of powdered glass around."
+      ],
+      "reviewContext": {
+        "before": [
+          "Ayveen: It told the listeners that.",
+          "DM: It's bizarre. Come, come look at this. She takes you over to one of the tanks. And there's, like, almost like a miniature city that's grown out of… and like… twiggy roots. Like, 6 or a dozen houses, like, something that had houses described to it and then was trying to grow into that shape. In the way that, like, medieval drawings of, tigers look really weird.",
+          "Ayveen: Mmhm.",
+          "Tarek: But you know… wonderful. Yes. I suppose that's just what it is.",
+          "DM: We."
+        ],
+        "after": [
+          "DM: Alright, so… It's a quarter of, we probably have time for one more room or we can call it. I feel a little badly that you guys got pushed through all the boring rooms, mostly, first. And…",
+          "Edric: Well, I just feel bad that Kong and Eric are kind of out of commission and I'm starting to fall asleep too.",
+          "Ayveen: Yeah, we could just…",
+          "DM: Should we call it for the night?",
+          "Txarro: Yeah, I…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

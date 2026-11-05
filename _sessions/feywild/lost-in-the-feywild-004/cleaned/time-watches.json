@@ -1,0 +1,47 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-time-markers.json",
+    "sha256": "d61d015c3f720250d03bd5ac6f347f777f6d85053580a5b10ad6540aad144b2f"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md",
+    "sha256": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a"
+  },
+  "dateAssessment": "October 5–6, 1740 is YAML-only: no current civil date or clock reading is spoken, and stationary Feywild twilight establishes neither a watch nor a date boundary. The completed eight-hour rest is compatible with the manifest but does not verify its one-day boundary.",
+  "watches": [
+    {
+      "day": "Before the chapel rest",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Edric",
+      "summary": "A few minutes of prayer pass; no clock anchors the interval.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Before the chapel rest",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Txarro",
+      "summary": "A couple of minutes pass in the solarium; no clock anchors the interval.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "Chapel rest; date unanchored",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Party completes an eight-hour long rest; neither endpoint has a clock or civil date.",
+      "markers": [
+        "t03"
+      ]
+    }
+  ]
+}
