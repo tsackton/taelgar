@@ -1,0 +1,1159 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-037",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
+    "sessionYamlSha256": "ae6080a96867d6b42358183bf856edc1e0828405f17b0888f9ccf5b18d09c5e4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-transcript.md",
+    "transcriptSha256": "55dfb5f759f73f2126c1df94ab8fe78985d32933faaf6db76e6862c5f110fa4b"
+  },
+  "places": {
+    "p01": {
+      "label": "House and underground lair",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u3091",
+          "endUid": "u3091",
+          "quote": "All the floors of the building on the same map."
+        }
+      ],
+      "note": "The dated Session 37 (DuFr) identifies this house as the Fraternity’s lair in Tokra; the transcript does not specify its urban boundary.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lair of the Fraternity of the Empty Moon.md"
+    },
+    "p02": {
+      "label": "Doorway tunnel",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0023",
+          "quote": "four adventurers stand by a door in an underground tunnel"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0022",
+              "endUid": "u0023",
+              "quote": "four adventurers stand by a door in an underground tunnel"
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Four-statue chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0260",
+          "endUid": "u0265",
+          "quote": "each one is a different is a different statue"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0260",
+              "endUid": "u0265",
+              "quote": "each one is a different is a different statue"
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Rising tunnel at the stone wall",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u1015",
+          "endUid": "u1027",
+          "quote": "the tunnel slopes upward and curve slightly and ends in a in a stone wall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1015",
+              "endUid": "u1027",
+              "quote": "the tunnel slopes upward and curve slightly and ends in a in a stone wall."
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Subbasement antechamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1039",
+          "endUid": "u1050",
+          "quote": "Beyond the wall is a looks like a basement or is like a sub basement of something"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1039",
+              "endUid": "u1050",
+              "quote": "Beyond the wall is a looks like a basement or is like a sub basement of something"
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Guardroom beneath the rope ladder",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1117",
+          "endUid": "u1121",
+          "quote": "you also see two people humans that are kind of sitting inattentively in this room here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1117",
+              "endUid": "u1121",
+              "quote": "you also see two people humans that are kind of sitting inattentively in this room here."
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Prison cells",
+      "kind": "cells",
+      "evidence": [
+        {
+          "startUid": "u1944",
+          "endUid": "u1947",
+          "quote": "there's like iron bars and two cells back here, both of which have bodies slumped in them"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1944",
+              "endUid": "u1947",
+              "quote": "there's like iron bars and two cells back here, both of which have bodies slumped in them"
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Cluttered workshop",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1944",
+          "endUid": "u1947",
+          "quote": "this room here looks like looks like a workshop"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1944",
+              "endUid": "u1947",
+              "quote": "this room here looks like looks like a workshop"
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Kitchen and dining room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2465",
+          "endUid": "u2469",
+          "quote": "The sensor appears in a what looks like a small kitchen mess hall dining room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2465",
+              "endUid": "u2469",
+              "quote": "The sensor appears in a what looks like a small kitchen mess hall dining room."
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Tiny room above the ladder",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2883",
+          "endUid": "u2890",
+          "quote": "You jump up and you find yourself in a tiny five foot square completely blank room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2883",
+              "endUid": "u2890",
+              "quote": "You jump up and you find yourself in a tiny five foot square completely blank room."
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Storage basement behind the tapestry",
+      "kind": "basement",
+      "evidence": [
+        {
+          "startUid": "u2897",
+          "endUid": "u2901",
+          "quote": "you come out into a basement."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2897",
+              "endUid": "u2901",
+              "quote": "you come out into a basement."
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Pantry above the wooden ladder",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2939",
+          "endUid": "u2950",
+          "quote": "the other side of the trap door is a pantry"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2939",
+              "endUid": "u2950",
+              "quote": "the other side of the trap door is a pantry"
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Upper stair landing",
+      "kind": "landing",
+      "evidence": [
+        {
+          "startUid": "u3579",
+          "endUid": "u3580",
+          "quote": "Up at the top of the stairs now"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3579",
+              "endUid": "u3580",
+              "quote": "Up at the top of the stairs now"
+            },
+            {
+              "startUid": "u3091",
+              "endUid": "u3091",
+              "quote": "All the floors of the building on the same map."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0023"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four adventurers stand in the underground tunnel at the statue-room door.",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0023",
+          "quote": "four adventurers stand by a door in an underground tunnel"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0238",
+        "endUid": "u0265"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opened door reveals four grotesque animated hybrid-animal statues.",
+      "evidence": [
+        {
+          "startUid": "u0238",
+          "endUid": "u0242",
+          "quote": "These four statues turn and look at you, as the door opens."
+        },
+        {
+          "startUid": "u0260",
+          "endUid": "u0265",
+          "quote": "Each one is human size and as the door swings open, they all turned to look at you."
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p02",
+      "mode": "local"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0524",
+        "endUid": "u0554"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath reopens the door and enters the center of the chamber.",
+      "evidence": [
+        {
+          "startUid": "u0524",
+          "endUid": "u0524",
+          "quote": "Okay, so Delwath opens the door again."
+        },
+        {
+          "startUid": "u0553",
+          "endUid": "u0554",
+          "quote": "You can hear the sound of Delwath standing."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0555",
+        "endUid": "u0602"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby runs through the chamber, enduring the guardians’ opportunity attacks and shooting from within the encounter.",
+      "evidence": [
+        {
+          "startUid": "u0555",
+          "endUid": "u0556",
+          "quote": "Oh, just move through I guess."
+        },
+        {
+          "startUid": "u0584",
+          "endUid": "u0586",
+          "quote": "As you draw the fire and run the gauntlet."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0651",
+        "endUid": "u0688"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo rushes into the chamber to fight while Seeker casts from the doorway.",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0682",
+          "quote": "So as Kenzo rushes into begin pummeling this one"
+        },
+        {
+          "startUid": "u0683",
+          "endUid": "u0688",
+          "quote": "I will run up to the door"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "note": "Seeker’s position remains at the doorway; only Kenzo is assigned this arrival."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1013",
+        "endUid": "u1035"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the fight the party follows the short rising tunnel to the stone wall and searches for an opening.",
+      "evidence": [
+        {
+          "startUid": "u1015",
+          "endUid": "u1015",
+          "quote": "the tunnel slopes upward and curve slightly and ends in a in a stone wall."
+        },
+        {
+          "startUid": "u1016",
+          "endUid": "u1016",
+          "quote": "Right, let's head up there."
+        },
+        {
+          "startUid": "u1064",
+          "endUid": "u1066",
+          "quote": "when you put your hand over and it feels like very intentional"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1039",
+        "endUid": "u1053"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze reveals an empty dusty antechamber beyond the stone wall.",
+      "evidence": [
+        {
+          "startUid": "u1039",
+          "endUid": "u1050",
+          "quote": "Beyond the wall is a looks like a basement or is like a sub basement of something"
+        },
+        {
+          "startUid": "u1052",
+          "endUid": "u1052",
+          "quote": "There's no people in there right now."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p04",
+      "mode": "remote"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1083",
+        "endUid": "u1099"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath goes through the sliding secret door into the subbasement.",
+      "evidence": [
+        {
+          "startUid": "u1083",
+          "endUid": "u1084",
+          "quote": "You push the slides open. You see, the room you saw with ghostly gaze."
+        },
+        {
+          "startUid": "u1094",
+          "endUid": "u1094",
+          "quote": "And I'll go through the wall."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1117",
+        "endUid": "u1176"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath sees two human-looking robed guards in the adjacent dark room beyond a broken opening.",
+      "evidence": [
+        {
+          "startUid": "u1117",
+          "endUid": "u1121",
+          "quote": "you also see two people humans that are kind of sitting inattentively in this room here."
+        },
+        {
+          "startUid": "u1175",
+          "endUid": "u1176",
+          "quote": "This was Delwath."
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p05",
+      "mode": "local"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1150",
+        "endUid": "u1254"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "The companions follow Delwath into the antechamber for the approaching guard; Seeker initially only pokes through its entrance.",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1152",
+          "quote": "Here we come. I'll relay that message on and say it's time to rush in everyone."
+        },
+        {
+          "startUid": "u1253",
+          "endUid": "u1253",
+          "quote": "I'll just barely be through the door like poke my head to the door."
+        },
+        {
+          "startUid": "u1268",
+          "endUid": "u1269",
+          "quote": "He hasn't noticed Wellby given the distraction"
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1522",
+        "endUid": "u1617"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The fighters move through the guardroom doorway to stop Breda at the ladder.",
+      "evidence": [
+        {
+          "startUid": "u1522",
+          "endUid": "u1523",
+          "quote": "I'm gonna step through the doorway"
+        },
+        {
+          "startUid": "u1590",
+          "endUid": "u1592",
+          "quote": "as far as I can get unfortunately but I will"
+        },
+        {
+          "startUid": "u1597",
+          "endUid": "u1602",
+          "quote": "I'll use my Cunning action to keep moving"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1715",
+        "endUid": "u1722"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Blown-open doors reveal cells and an apparently empty workshop; seeing them does not establish entry.",
+      "evidence": [
+        {
+          "startUid": "u1715",
+          "endUid": "u1718",
+          "quote": "it's probably gonna blow all the doors up yep"
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1722",
+          "quote": "there are two prisoners slumped on the ground."
+        }
+      ],
+      "place": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1944",
+        "endUid": "u1947"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "The party’s room inspection reveals the chaotic workshop, chest, ritual pole, and iron snake.",
+      "evidence": [
+        {
+          "startUid": "u1872",
+          "endUid": "u1873",
+          "quote": "Delwath is searching the rooms."
+        },
+        {
+          "startUid": "u1944",
+          "endUid": "u1947",
+          "quote": "this room here looks like looks like a workshop"
+        }
+      ],
+      "place": "p08",
+      "mode": "local"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2038",
+        "endUid": "u2062"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath searches the workshop and Seeker approaches its iron cobra.",
+      "evidence": [
+        {
+          "startUid": "u2039",
+          "endUid": "u2039",
+          "quote": "I'm gonna just search the workshop, both for magical and mundane."
+        },
+        {
+          "startUid": "u2041",
+          "endUid": "u2041",
+          "quote": "I'll just go check out the weird snake thing."
+        },
+        {
+          "startUid": "u2058",
+          "endUid": "u2062",
+          "quote": "in the workshop"
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u2055",
+        "endUid": "u2225"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Wellby and Kenzo attend the cells; the prisoner is released and Seeker’s Healing Word revives him.",
+      "evidence": [
+        {
+          "startUid": "u2055",
+          "endUid": "u2057",
+          "quote": "Wellby and Kenzo what are you?"
+        },
+        {
+          "startUid": "u2183",
+          "endUid": "u2183",
+          "quote": "Got the keys release them."
+        },
+        {
+          "startUid": "u2219",
+          "endUid": "u2225",
+          "quote": "this word of healing penetrates the cell and reaches this person."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u2219",
+        "endUid": "u2225"
+      },
+      "actors": [
+        "party",
+        "Govir"
+      ],
+      "reading": "The party gathers at the cells as Govir wakes.",
+      "evidence": [
+        {
+          "startUid": "u2219",
+          "endUid": "u2225",
+          "quote": "Your all now here"
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u2401",
+        "endUid": "u2416"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo goes to the bottom of the former rope-ladder opening to sense beings above.",
+      "evidence": [
+        {
+          "startUid": "u2415",
+          "endUid": "u2416",
+          "quote": "I'll go to the bottom of the stairs the bottom of the where the rope ladder was"
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2454",
+        "endUid": "u2510"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance sees the leader and two guards eating a midday meal in the kitchen/dining room above.",
+      "evidence": [
+        {
+          "startUid": "u2454",
+          "endUid": "u2455",
+          "quote": "I'll send clairvoyance upstairs."
+        },
+        {
+          "startUid": "u2465",
+          "endUid": "u2469",
+          "quote": "The sensor appears in a what looks like a small kitchen mess hall dining room."
+        },
+        {
+          "startUid": "u2472",
+          "endUid": "u2477",
+          "quote": "The other two are just wearing robes"
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "note": "The sensor is directed roughly two floors above the ladder room. Seeker does not physically enter the dining room during this observation."
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u2513",
+        "endUid": "u2589"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Wellby and Seeker reset the rope ladder and conceal evidence in its room as an ambush trap.",
+      "evidence": [
+        {
+          "startUid": "u2513",
+          "endUid": "u2514",
+          "quote": "We put the ladder backup and move the big guys body out of the way"
+        },
+        {
+          "startUid": "u2524",
+          "endUid": "u2526",
+          "quote": "You put the ladder back."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2869",
+        "endUid": "u2909"
+      },
+      "actors": [
+        "party",
+        "Govir"
+      ],
+      "reading": "The party brings Govir up through the tiny room and concealed tapestry doorway into the storage basement.",
+      "evidence": [
+        {
+          "startUid": "u2878",
+          "endUid": "u2879",
+          "quote": "Govir's going to come with us."
+        },
+        {
+          "startUid": "u2883",
+          "endUid": "u2890",
+          "quote": "You jump up and you find yourself in a tiny five foot square completely blank room."
+        },
+        {
+          "startUid": "u2897",
+          "endUid": "u2901",
+          "quote": "you come out into a basement."
+        },
+        {
+          "startUid": "u2906",
+          "endUid": "u2907",
+          "quote": "Kenzo: So we're all together."
+        }
+      ],
+      "from": "p06",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "climb",
+      "route": [
+        {
+          "place": "p10",
+          "reading": "Pass through the small room at the top of the rope ladder and push through the tapestry-concealed door."
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u2935",
+        "endUid": "u2965"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "From the wooden ladder Delwath looks through the trapdoor and walls, seeing the pantry and the dining-room leader writing notes.",
+      "evidence": [
+        {
+          "startUid": "u2939",
+          "endUid": "u2941",
+          "quote": "you climb up the ladder and look through the trap from inside"
+        },
+        {
+          "startUid": "u2951",
+          "endUid": "u2952",
+          "quote": "there was one person sitting at the table"
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p11",
+      "mode": "remote",
+      "note": "The line of sight passes through the pantry; this precedes physical entry upstairs."
+    },
+    {
+      "id": "l22",
+      "type": "presence",
+      "source": {
+        "startUid": "u3006",
+        "endUid": "u3012"
+      },
+      "actors": [
+        "Govir"
+      ],
+      "reading": "Govir is with the party in the basement and is told to hide behind the barrels.",
+      "evidence": [
+        {
+          "startUid": "u3009",
+          "endUid": "u3009",
+          "quote": "limping behind you like sort of hiding in a corner"
+        },
+        {
+          "startUid": "u3012",
+          "endUid": "u3012",
+          "quote": "Govir, you go behind those barrels while we go upstairs"
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u3062",
+        "endUid": "u3146"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The adventurers ascend into the pantry and begin the dining-room assault; Seeker uses the pantry as cover.",
+      "evidence": [
+        {
+          "startUid": "u3078",
+          "endUid": "u3079",
+          "quote": "you're all gathering in the pantry and then proceeding with your attack"
+        },
+        {
+          "startUid": "u3080",
+          "endUid": "u3082",
+          "quote": "Yes, yeah yeah"
+        },
+        {
+          "startUid": "u3130",
+          "endUid": "u3137",
+          "quote": "as you all begin to move in the direction of the pantry"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u3148",
+        "endUid": "u3257"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The attackers engage the werewolf leader in the dining room, with the ladder accompanying them.",
+      "evidence": [
+        {
+          "startUid": "u3163",
+          "endUid": "u3163",
+          "quote": "Wellby materializes"
+        },
+        {
+          "startUid": "u3164",
+          "endUid": "u3165",
+          "quote": "wail on him with my long sword."
+        },
+        {
+          "startUid": "u3226",
+          "endUid": "u3229",
+          "quote": "I'll cast heat metal on him."
+        }
+      ],
+      "from": "p12",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u3373",
+        "endUid": "u3389"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo closes on the dining-room leader and lands his first Stunning Strike from invisibility.",
+      "evidence": [
+        {
+          "startUid": "u3376",
+          "endUid": "u3378",
+          "quote": "Still invisible and I'm going to do a a stunning strike."
+        },
+        {
+          "startUid": "u3389",
+          "endUid": "u3389",
+          "quote": "But it still takes the seven points of damage."
+        }
+      ],
+      "from": "p12",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u3573",
+        "endUid": "u3582"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker retreats from the dining-room fight to the top of the stairs.",
+      "evidence": [
+        {
+          "startUid": "u3573",
+          "endUid": "u3575",
+          "quote": "I'm gonna run this I'm gonna run up the stairs."
+        },
+        {
+          "startUid": "u3579",
+          "endUid": "u3580",
+          "quote": "Up at the top of the stairs now"
+        }
+      ],
+      "from": "p09",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l27",
+      "type": "movement",
+      "source": {
+        "startUid": "u3707",
+        "endUid": "u3731"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker briefly moves down to cast mockery, then returns to the stair landing.",
+      "evidence": [
+        {
+          "startUid": "u3713",
+          "endUid": "u3715",
+          "quote": "I'll just say you move down move back up"
+        },
+        {
+          "startUid": "u3797",
+          "endUid": "u3799",
+          "quote": "I'll just leave you at the top of the stairs"
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Briefly steps down toward the combat to cast, then withdraws."
+        }
+      ]
+    }
+  ]
+}

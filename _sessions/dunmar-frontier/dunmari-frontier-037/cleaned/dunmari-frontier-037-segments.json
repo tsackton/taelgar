@@ -1,0 +1,151 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-037",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
+    "sessionYamlSha256": "ae6080a96867d6b42358183bf856edc1e0828405f17b0888f9ccf5b18d09c5e4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-transcript.md",
+    "transcriptSha256": "55dfb5f759f73f2126c1df94ab8fe78985d32933faaf6db76e6862c5f110fa4b"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0021"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0023"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0024",
+        "endUid": "u0202"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0203",
+        "endUid": "u0243"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0244",
+        "endUid": "u0982"
+      },
+      "category": "combat",
+      "note": "Initiative remains the organizing frame across parley, the closed door, and the renewed attempt to pass; the final restrained guardian is destroyed before healing begins."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0983",
+        "endUid": "u1282"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1283",
+        "endUid": "u1860"
+      },
+      "category": "combat",
+      "note": "Includes the readied arrow before the initiative roll and subsequent reinforcements."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1861",
+        "endUid": "u1894"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1895",
+        "endUid": "u1907"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1908",
+        "endUid": "u2707"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2708",
+        "endUid": "u2882"
+      },
+      "category": "combat",
+      "note": "Includes the ladder trap and the surprise cycle; initiative is explicitly ended in the following mixed transition turn."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2883",
+        "endUid": "u3053"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3054",
+        "endUid": "u3061"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3062",
+        "endUid": "u3100"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u3101",
+        "endUid": "u3877"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3878",
+        "endUid": "u3919"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u3920",
+        "endUid": "u3922"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

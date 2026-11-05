@@ -1,0 +1,310 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-037",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
+    "sessionYamlSha256": "ae6080a96867d6b42358183bf856edc1e0828405f17b0888f9ccf5b18d09c5e4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-transcript.md",
+    "transcriptSha256": "55dfb5f759f73f2126c1df94ab8fe78985d32933faaf6db76e6862c5f110fa4b",
+    "yamlDates": {
+      "start": "1748-07-02",
+      "end": "1748-07-02"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0023"
+      },
+      "reading": "The party opens on the underground doorway just after the sun reaches its zenith.",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0023",
+          "quote": "The sun rises in the sky, and as it reaches its zenith and begins to slowly creep down towards the horizon, four adventurers stand by a door in an underground tunnel"
+        }
+      ],
+      "time": {
+        "partOfDay": "just after noon",
+        "precision": "approximate",
+        "basis": "Narrated position of the sun at the opening of party action."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1060",
+        "endUid": "u1066"
+      },
+      "reading": "Wellby searches the stone wall for about a minute before finding the concealed sliding stone.",
+      "evidence": [
+        {
+          "startUid": "u1060",
+          "endUid": "u1062",
+          "quote": "You look around don't don't see anything for a minute until this this like what are the, what is your inspiration look like?"
+        },
+        {
+          "startUid": "u1064",
+          "endUid": "u1066",
+          "quote": "you notice um there's one stone that's just slightly out from the wall"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated search interval."
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1892",
+        "endUid": "u1894"
+      },
+      "reading": "Delwath undertakes the ten-minute Detect Magic ritual; subsequent inspection uses its completed magical sight.",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u1892",
+          "quote": "I'm going to once I go into the room so I'm going to magic I do my magic magic Detect Magic guys."
+        },
+        {
+          "startUid": "u1893",
+          "endUid": "u1893",
+          "quote": "That'll take you 10 minutes to."
+        },
+        {
+          "startUid": "u2015",
+          "endUid": "u2015",
+          "quote": "with your magic sight, you can look in the workshop"
+        },
+        {
+          "startUid": "u2047",
+          "endUid": "u2049",
+          "quote": "That is um yes, it is magic."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM specifies the ritual time; later active magic sight supports completion."
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2024",
+        "endUid": "u2026"
+      },
+      "reading": "The prisoners are found shortly after noon; the conversation with Govir remains at midday.",
+      "evidence": [
+        {
+          "startUid": "u2024",
+          "endUid": "u2026",
+          "quote": "it's like right after noon"
+        },
+        {
+          "startUid": "u2200",
+          "endUid": "u2200",
+          "quote": "It's like noon right now right?"
+        },
+        {
+          "startUid": "u2201",
+          "endUid": "u2201",
+          "quote": "Yeah, yeah just."
+        },
+        {
+          "startUid": "u2298",
+          "endUid": "u2300",
+          "quote": "it's still mid day"
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "Explicit repeated current-time statements; the corpse’s estimated time of death is background, not elapsed party time."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2389",
+        "endUid": "u2405"
+      },
+      "reading": "Delwath completes a short rest while talking with Govir, including the preceding ten minutes of conversation.",
+      "evidence": [
+        {
+          "startUid": "u2398",
+          "endUid": "u2398",
+          "quote": "the short rest can include the conversation concurrently."
+        },
+        {
+          "startUid": "u2399",
+          "endUid": "u2399",
+          "quote": "But don't click this short rest button until the hour is over."
+        },
+        {
+          "startUid": "u2404",
+          "endUid": "u2405",
+          "quote": "count the last 10 minutes of talking to you in the first 10 minutes short rest."
+        },
+        {
+          "startUid": "u2518",
+          "endUid": "u2519",
+          "quote": "We'll skip the short rest then and start trying to cover our tracks in that room."
+        },
+        {
+          "startUid": "u2521",
+          "endUid": "u2521",
+          "quote": "I will not skip the short rest."
+        },
+        {
+          "startUid": "u2668",
+          "endUid": "u2668",
+          "quote": "Does that mean I can take a short rest?"
+        },
+        {
+          "startUid": "u2669",
+          "endUid": "u2669",
+          "quote": "Yep."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Established completed short rest; one-hour convention, with retrospective conversation credit."
+      },
+      "completion": "completed",
+      "note": "Wellby abandons his rest. Kenzo later explicitly says he did not short rest (u2767–u2769); Seeker’s spellcasting prevents a simultaneous rest. Intermediate remaining-time estimates are approximate."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2460",
+        "endUid": "u2469"
+      },
+      "reading": "Seeker spends ten minutes casting Clairvoyance; its appearance places Delwath’s rest about twenty minutes in.",
+      "evidence": [
+        {
+          "startUid": "u2460",
+          "endUid": "u2461",
+          "quote": "those of you who are casting spells and using abilities can't also get a short rest."
+        },
+        {
+          "startUid": "u2465",
+          "endUid": "u2469",
+          "quote": "it takes 10 minutes to cast and you're now like 20 minutes into your rest."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit completed casting time."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2553",
+        "endUid": "u2584"
+      },
+      "reading": "Time passes while Delwath reassures Govir and the others prepare their trap: roughly twenty minutes overall.",
+      "evidence": [
+        {
+          "startUid": "u2553",
+          "endUid": "u2562",
+          "quote": "over the next leg 10 or 15 minutes he definitely settles down"
+        },
+        {
+          "startUid": "u2583",
+          "endUid": "u2584",
+          "quote": "So 20 minutes past, what are you doing to set up a trap here?"
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM gives twenty minutes after a ten-to-fifteen-minute reassurance passage; those descriptions are treated as one overlapping preparation interval."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2670",
+        "endUid": "u2671"
+      },
+      "reading": "After the completed rest, another ten minutes pass before the returning guards’ footsteps are heard.",
+      "evidence": [
+        {
+          "startUid": "u2670",
+          "endUid": "u2671",
+          "quote": "Another 10 minutes and you hear footsteps on the roof of this of this like above here."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit subsequent elapsed interval."
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t05",
+          "anchor": "Completion of Delwath’s rest"
+        },
+        "precision": "approximate",
+        "basis": "Narrated immediately after rest credit is confirmed."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "July 2, 1748 is supplied by YAML, not independently spoken. The transcript repeatedly anchors current party action just after noon and records a daytime rest and short advances.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t04",
+      "t05",
+      "t08"
+    ],
+    "explanation": "The played adventure continues from the underground doorway through the house fight on one day, with no new overnight. The opening divine overview of the preceding night, Govir’s captivity and Hada’s death, and the recalled earlier long rest do not add a new played day to this session. Absolute date matching is conditional on the YAML start."
+  }
+}
