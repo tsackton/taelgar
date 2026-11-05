@@ -1,0 +1,430 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-049",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+    "sessionYamlSha256": "4401dddf493e2ba43b45193a788c3736a59ff828270e12f62cd30647fadcdb87",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-transcript.md",
+    "transcriptSha256": "255f7eea38b61ccb684fe1bb52a7c0abcd1794d46539e6eb88091e95ba8e7978",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-segments.json",
+      "sha256": "98cfc390fe14df7d6bab6c44a6dde1c43268635755762a579f01b9cb9e446589",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s019",
+      "encounter": "Fausto’s workshop ambush and escape",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rushes Fausto. After the required Wisdom save, his first quarterstaff attack is redirected into Wellby for 11 bludgeoning damage. Subsequent attacks against Fausto miss or rebound from force armor, until a ki-fueled unarmed strike hits; its damage is not stated. Fausto remains able to cast.",
+              "evidence": [
+                {
+                  "startUid": "u2733",
+                  "endUid": "u2798"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "reaction",
+              "summary": "Twists Kenzo’s attention, redirecting the first attack into Wellby after calling for a Wisdom saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u2766",
+                  "endUid": "u2778"
+                }
+              ],
+              "note": "The save’s roll is not spoken; the failed redirection outcome is adjudicated."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses his movement reaction after being struck to start toward the stairs; the table accepts this retrospectively before resolving his regular movement.",
+              "evidence": [
+                {
+                  "startUid": "u2778",
+                  "endUid": "u2780"
+                },
+                {
+                  "startUid": "u3061",
+                  "endUid": "u3067"
+                }
+              ],
+              "note": "The later wording refers to moving away “from that” without restating the trigger; the only resolved damaging hit on Wellby is Kenzo’s redirected attack."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Abandons Sickening Radiance because the room and intact windows prevent the desired placement. Casts Banishment instead: Fausto rolls a natural 19 on the Charisma save and remains. Delwath also applies Hexblade’s Curse.",
+              "evidence": [
+                {
+                  "startUid": "u2814",
+                  "endUid": "u2889"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "turn",
+              "summary": "Says he paid for Kadmos and Casian, identifies the Cleansed and calls the party insufficiently pure to save. Speaks a command word and teleports away; the table explicitly corrects the interpretation that he merely became invisible.",
+              "evidence": [
+                {
+                  "startUid": "u2891",
+                  "endUid": "u2916"
+                }
+              ]
+            },
+            {
+              "actor": "Stained-glass guardian beside Kenzo",
+              "kind": "turn",
+              "summary": "Steps out of the window and makes two glass-sword attacks on Kenzo, both missing (9 and 12). Its 15-foot cone of dazzling light requires Constitution saves from Kenzo and Delwath; Kenzo is blinded.",
+              "evidence": [
+                {
+                  "startUid": "u2918",
+                  "endUid": "u2947"
+                }
+              ],
+              "note": "Only Kenzo’s save outcome is stated."
+            },
+            {
+              "actor": "Second stained-glass guardian",
+              "kind": "turn",
+              "summary": "Strikes and breaks the vial of lightning on the table, releasing a creature that is added to initiative.",
+              "evidence": [
+                {
+                  "startUid": "u2938",
+                  "endUid": "u2952"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn and Seeker",
+              "kind": "event",
+              "summary": "Riswynn, absent from combat, sends “how’s it going?” Seeker replies “help.”",
+              "evidence": [
+                {
+                  "startUid": "u2985",
+                  "endUid": "u2987"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Kenzo Bardic Inspiration. Casts Heat Metal at third level on the stained-glass guardian to his left after establishing its metal frame. It takes 9 damage and has disadvantage on attacks; the DM rules there is no save because it cannot drop the heated part. Seeker stays beside it.",
+              "evidence": [
+                {
+                  "startUid": "u2988",
+                  "endUid": "u3018"
+                },
+                {
+                  "startUid": "u3019",
+                  "endUid": "u3026"
+                },
+                {
+                  "startUid": "u3049",
+                  "endUid": "u3056"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses movement and Cunning Action to run roughly 80 feet down the stairs and press the second button, then starts back up without reaching the room. No effect of the button is established.",
+              "evidence": [
+                {
+                  "startUid": "u3057",
+                  "endUid": "u3080"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Cleansing Touch to remove his blindness, with the DM allowing it for two ki. Withdraws the proposed bonus attack and instead spends ki on Step of the Wind to disengage, takes one giant eye and jumps through the window. Runs about 40 feet down the 200-foot tower and falls the remaining distance, landing upright. The final level-nine ruling prevents all falling damage, superseding the initial 44 damage and then 4 after Slow Fall.",
+              "evidence": [
+                {
+                  "startUid": "u3081",
+                  "endUid": "u3103"
+                },
+                {
+                  "startUid": "u3142",
+                  "endUid": "u3195"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "turn",
+              "summary": "Remains absent; the DM says he is not back yet and another round remains before his return.",
+              "evidence": [
+                {
+                  "startUid": "u3200",
+                  "endUid": "u3204"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves away from a guardian, casts Fly on himself and Seeker, takes the remaining eye, five stones and magical mace, then flies through the window. Turns back toward Seeker to guide his blinded descent, as confirmed when Fausto’s later spell targets them.",
+              "evidence": [
+                {
+                  "startUid": "u3219",
+                  "endUid": "u3237"
+                },
+                {
+                  "startUid": "u3313",
+                  "endUid": "u3322"
+                },
+                {
+                  "startUid": "u3355",
+                  "endUid": "u3358"
+                },
+                {
+                  "startUid": "u3385",
+                  "endUid": "u3389"
+                }
+              ]
+            },
+            {
+              "actor": "Stained-glass guardian",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack as Delwath leaves; 17 misses and glances off his armor, after which he resumes moving and casts Fly.",
+              "evidence": [
+                {
+                  "startUid": "u3219",
+                  "endUid": "u3226"
+                }
+              ]
+            },
+            {
+              "actor": "Lightning golem",
+              "kind": "turn",
+              "summary": "Approaches Seeker, the only party member still in the room, and slams twice. Rolls of 9 and 12 both miss Seeker’s AC 13.",
+              "evidence": [
+                {
+                  "startUid": "u3235",
+                  "endUid": "u3244"
+                }
+              ]
+            },
+            {
+              "actor": "Heated stained-glass guardian",
+              "kind": "turn",
+              "summary": "Moves into position and makes two sword attacks on Seeker with disadvantage: 12 misses and 15 hits for 5 damage. Releases dazzling light; Seeker fails the Constitution save and is blinded despite his goggles.",
+              "evidence": [
+                {
+                  "startUid": "u3245",
+                  "endUid": "u3275"
+                }
+              ],
+              "note": "The DM initially says the light will hit Wellby, but Wellby is on the stairs and the saving throw, blindness and replies resolve against Seeker."
+            },
+            {
+              "actor": "Other stained-glass guardian",
+              "kind": "turn",
+              "summary": "Attacks Seeker twice: the first attack misses despite an accidentally applied disadvantage roll; the second hits with 21 for another 5 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u3278",
+                  "endUid": "u3285"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Disengages and flies through the open window while blind, feeling along the wall. Delwath returns to guide him; both remain in the air near the tower.",
+              "evidence": [
+                {
+                  "startUid": "u3286",
+                  "endUid": "u3318"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Blows the Raven’s Whistle, returns up the stairs and flies out an open window. Replaces the proposed dash with disengage to avoid opportunity attacks. Ends about 100 feet above the ground, below Delwath and Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u3336",
+                  "endUid": "u3369"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Fausto",
+              "kind": "turn",
+              "summary": "Returns to the window and releases a psychic resonance targeting Delwath and Seeker, not Wellby. Both make Intelligence saves; Seeker succeeds, while Delwath takes 30 damage and has muddled thoughts. Seeker’s damage amount is garbled. Delwath’s Fly ends and both begin falling roughly 180 feet.",
+              "evidence": [
+                {
+                  "startUid": "u3372",
+                  "endUid": "u3406"
+                }
+              ],
+              "note": "The source does not name the spell or report a separate concentration roll; it explicitly resolves Fly ending."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Drops his eye to attempt a rescue, runs up the wall and leaps with his Ring of Jumping toward falling Seeker. The Acrobatics attempt fails DC 25; advantage is not allowed and the d8 inspiration cannot bridge the gap. He misses, and Delwath and Seeker each take 59 falling damage and land unconscious. Both eyes start rolling away.",
+              "evidence": [
+                {
+                  "startUid": "u3411",
+                  "endUid": "u3453"
+                }
+              ],
+              "note": "The failed catch is inserted into the fall before impact; the initially announced 59 damage is not counted twice."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Rolls a natural 1 on his death save, giving two failures.",
+              "evidence": [
+                {
+                  "startUid": "u3454",
+                  "endUid": "u3462"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Rolls 7 on his death save and fails.",
+              "evidence": [
+                {
+                  "startUid": "u3454",
+                  "endUid": "u3465"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Flies the remaining approximately 100 feet down and feeds Delwath a carried healing potion, reviving him. The potion’s exact healing amount and grade are not resolved in the spoken record.",
+              "evidence": [
+                {
+                  "startUid": "u3474",
+                  "endUid": "u3494"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Retrieves one giant eye and runs in the direction of Kaeso’s home rather than trying to carry both.",
+              "evidence": [
+                {
+                  "startUid": "u3495",
+                  "endUid": "u3520"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "event",
+              "summary": "Calls “stop those thieves!” from the window in a magically amplified voice, drawing attention to the escaping party.",
+              "evidence": [
+                {
+                  "startUid": "u3503",
+                  "endUid": "u3508"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Gives Seeker a red healing bud, restoring 2d8 + 2 hit points and consciousness. Picks up the second giant eye and follows Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u3521",
+                  "endUid": "u3565"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Succeeds on a Constitution save and is no longer blind; follows Wellby away on foot after the bud closes his wounds.",
+              "evidence": [
+                {
+                  "startUid": "u3566",
+                  "endUid": "u3586"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Calls for Seeker to follow and runs by a different route from Kenzo and Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u3576",
+                  "endUid": "u3585"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "The four coordinate their destination, run south through growing public attention and reunite with Riswynn. Mage guards have noticed the magic and people are following them; the DM compresses the reunion and the ordered escape ends.",
+              "evidence": [
+                {
+                  "startUid": "u3587",
+                  "endUid": "u3610"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All four survive and escape the tower, recovering both giant eyes, five stones and the magical mace, then reunite with Riswynn under pursuit. Fausto retains the Pandemonium scroll. Neither Fausto nor the constructs is defeated.",
+        "evidence": [
+          {
+            "startUid": "u3509",
+            "endUid": "u3565"
+          },
+          {
+            "startUid": "u3587",
+            "endUid": "u3610"
+          },
+          {
+            "startUid": "u2733",
+            "endUid": "u2736"
+          },
+          {
+            "startUid": "u3041",
+            "endUid": "u3046"
+          }
+        ]
+      },
+      "note": "Riswynn’s player participates at the table but her character is absent. Armor of Agathys and Kenzo’s precombat readied attack are proposed, not separately resolved. The source narrates Fausto’s return and the rescue sequence without announcing every cycle; no missing attacks or turns are supplied."
+    }
+  ]
+}

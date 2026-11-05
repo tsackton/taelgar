@@ -1,0 +1,222 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-049",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+    "sessionYamlSha256": "4401dddf493e2ba43b45193a788c3736a59ff828270e12f62cd30647fadcdb87",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-transcript.md",
+    "transcriptSha256": "255f7eea38b61ccb684fe1bb52a7c0abcd1794d46539e6eb88091e95ba8e7978"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0609"
+      },
+      "category": "gameplay",
+      "note": "The inseparable opening turn combines retrospective orientation with the current walk to Sibyl’s Hall and entry into Gnaeus’s lesson."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0610",
+        "endUid": "u0634"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0635",
+        "endUid": "u0755"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0756",
+        "endUid": "u0822"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0823",
+        "endUid": "u1165"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1166",
+        "endUid": "u1220"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1221",
+        "endUid": "u1230"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1231",
+        "endUid": "u1448"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1449",
+        "endUid": "u1458"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1459",
+        "endUid": "u1925"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1926",
+        "endUid": "u1957"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1958",
+        "endUid": "u2137"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2138",
+        "endUid": "u2147"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2148",
+        "endUid": "u2166"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2167",
+        "endUid": "u2175"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2176",
+        "endUid": "u2297"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2298",
+        "endUid": "u2331"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2332",
+        "endUid": "u2686"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2687",
+        "endUid": "u3610"
+      },
+      "category": "combat",
+      "note": "Continuous initiative and escape, including the table’s compressed reunion that ends the ordered action; Riswynn is absent from the fight."
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u3611",
+        "endUid": "u3802"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u3803",
+        "endUid": "u3913"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u3914",
+        "endUid": "u3917"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u3918",
+        "endUid": "u3952"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u3953",
+        "endUid": "u3956"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u3957",
+        "endUid": "u3995"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u3996",
+        "endUid": "u4033"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

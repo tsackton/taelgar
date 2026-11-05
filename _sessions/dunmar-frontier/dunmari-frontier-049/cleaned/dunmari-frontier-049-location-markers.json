@@ -1,0 +1,1345 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-049",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+    "sessionYamlSha256": "4401dddf493e2ba43b45193a788c3736a59ff828270e12f62cd30647fadcdb87",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-transcript.md",
+    "transcriptSha256": "255f7eea38b61ccb684fe1bb52a7c0abcd1794d46539e6eb88091e95ba8e7978"
+  },
+  "places": {
+    "p01": {
+      "label": "Chardon",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "In the middle of the oldest part of Chardon"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p02": {
+      "label": "University of Chardon",
+      "kind": "university",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "the scattered halls and colleges that make up the university laid out"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0028",
+              "quote": "In the middle of the oldest part of Chardon"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Chapter House",
+      "kind": "tavern",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "As you leave the Chapter House, a quiet student tavern"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Chapterhouse.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0028",
+              "quote": "They have had a productive time in Chardon so far"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Sibyl's Hall",
+      "kind": "college",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "Sibyl's Hall is one of the original colleges of the university."
+        }
+      ],
+      "vaultPath": "Groups/Chardonian Organizations/Sibyl's Hall.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0028",
+              "quote": "Sibyl's Hall is one of the original colleges of the university."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Gnaeus’s lecture room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "The dwarven student leads you to a small lecture room in an ancient building now in need of extensive repairs."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0028",
+              "quote": "takes pity on you and leads you to Sibyl's Hall."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Quiet lunch place around the corner",
+      "kind": "dining place",
+      "evidence": [
+        {
+          "startUid": "u0124",
+          "endUid": "u0124",
+          "quote": "So he takes you around the corner and you settle into..."
+        }
+      ],
+      "note": "Its name is not supplied; the source does not identify it as the Chapter House.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0110",
+              "endUid": "u0113",
+              "quote": "Let's go, there's a quiet place around the corner."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0110",
+              "endUid": "u0124",
+              "quote": "DM: That as long as you're buying that sounds fine to me. Come. Let's go, there's a quiet place around the corner.\n\nSeeker: [garbled]\n\nKenzo: See. There's going to be many of them. I'm going to try to draw more. Very nice.\n\nSeeker: I love it.\n\nDelwath: That's cool.\n\nDM: Oh yeah that's awesome that's awesome.\n\nSeeker: The library.\n\nDM: The Great Library and all the other towers I love that.\n\nUnknown: Nice.\n\nDM: So he takes you around the corner and you settle into... It's, it's like two in the afternoon and so it's a... There's not that many people there, um, he orders two lunches."
+            },
+            {
+              "startUid": "u0637",
+              "endUid": "u0639",
+              "quote": "Kenzo: Yeah let's let's as we're walking to the next meeting, we can chat a little bit about what you just you know. Right, right, Kenzo pulls out his, like his little, you know, jade from his so."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Roscelia’s manor",
+      "kind": "manor",
+      "evidence": [
+        {
+          "startUid": "u0745",
+          "endUid": "u0751",
+          "quote": "you have arrived at the doors to Roscelia's manor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0902",
+              "endUid": "u0906",
+              "quote": "Are you enjoying your time in Chardon?"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Formal dining room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0857",
+          "endUid": "u0881",
+          "quote": "He leads you through the entry hall into this sort of formal dining room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0857",
+              "endUid": "u0881",
+              "quote": "He leads you through the entry hall into this sort of formal dining room."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Office where Seeker reads Ulfgar’s library book",
+      "kind": "office",
+      "evidence": [
+        {
+          "startUid": "u1630",
+          "endUid": "u1631",
+          "quote": "the library book that Ulfgar has for Seeker to read in the office"
+        }
+      ],
+      "note": "The office is established by the agreed research plan and its narrated execution at u1690–u1723. No visit to the Library building is asserted.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1630",
+              "endUid": "u1631",
+              "quote": "Riswynn: Tomorrow day we go to learn about the mirror from the library book that Ulfgar has for Seeker to read in the office, so..."
+            },
+            {
+              "startUid": "u1690",
+              "endUid": "u1695",
+              "quote": "DM: Mirror, so the book is fascinating. Seeker spends a while reading it, um. You learn all about the like construction and how reality is twisted to you know, create these knots that produce these extra extraplanar cells and you learn a few a few more details I'm trying to."
+            },
+            {
+              "startUid": "u1724",
+              "endUid": "u1731",
+              "quote": "DM: Ah, so that's. I think that's mostly what you want to learn, so you all meet again at Galen's lecture. Now this is this is in one of the like nice. I'm. One of the nice, the nicer colleges um it's like a fancy lecture hall. You know there's there's maybe 200 people gathered here."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Galen’s demonstration lecture hall",
+      "kind": "lecture hall",
+      "evidence": [
+        {
+          "startUid": "u1724",
+          "endUid": "u1731",
+          "quote": "One of the nice, the nicer colleges um it's like a fancy lecture hall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1724",
+              "endUid": "u1731",
+              "quote": "in one of the like nice."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Dwarven bank in Chardon",
+      "kind": "bank",
+      "evidence": [
+        {
+          "startUid": "u2130",
+          "endUid": "u2134",
+          "quote": "I'm running solo errands where I get money, have candle, get chalice."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1991",
+              "endUid": "u2001",
+              "quote": "the dwarven in Chardon here"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Galen’s abode",
+      "kind": "residence",
+      "evidence": [
+        {
+          "startUid": "u2069",
+          "endUid": "u2072",
+          "quote": "If you come by my my abode in the morning"
+        }
+      ],
+      "note": "Riswynn’s accepted compressed errands and the later recovery confirmation establish the collection visit; no room or street is named.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2069",
+              "endUid": "u2075",
+              "quote": "DM: If you come by my my abode in the morning, I will be, I will be happy to deliver this chalice to you in exchange. Pleasure doing business with you.\n\nRiswynn: Indeed, an honor to meet you. We'll see you tomorrow.\n\nUnknown: Indeed.\n\nDM: He goes off to his house."
+            },
+            {
+              "startUid": "u2130",
+              "endUid": "u2134",
+              "quote": "DM: So you are, you are just going. So you get are you what are you doing with the chalice are you going to go pick it up?\n\nRiswynn: I'm running solo errands where I get money, have candle, get chalice. All the time having special. Special lead pouch in my, you know, safely secured [garbled]."
+            },
+            {
+              "startUid": "u2549",
+              "endUid": "u2553",
+              "quote": "DM: Yeah okay so ah. At this point, Riswynn, you've recovered the chalice, I would assume yep so you are so well, you what I'm gonna I'm just going to send you a message."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Fausto’s tower",
+      "kind": "manor and tower",
+      "evidence": [
+        {
+          "startUid": "u2148",
+          "endUid": "u2165",
+          "quote": "At Fausto's tower in the morning."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Fausto's Tower.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1375",
+              "endUid": "u1381",
+              "quote": "In the big huge tower in the city."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Fausto’s audience chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2148",
+          "endUid": "u2165",
+          "quote": "you're ushered into what looks like kind of a an audience chamber"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2176",
+              "endUid": "u2186",
+              "quote": "So at Fausto's tower..."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Private room used to retrieve the scroll",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2529",
+          "endUid": "u2536",
+          "quote": "go into a room."
+        }
+      ],
+      "note": "Only Delwath’s placement in this unnamed room is established by the accepted action.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2529",
+              "endUid": "u2547",
+              "quote": "Delwath: Oh no here here's the plan. Delwath will take all his magic, right? The portable hole is currently in a lead box, so it will not interfere with my detect. Right, I will, Delwath will bring up his hat of Detect Magic, take all his magic stuff, leave it somewhere else, right go into a room. With nobody else within 30 feet, nobody else will then right. Yeah and if there's any magic that's a bad sign if there is no magic I will quickly open the thing jump in get the magic thing close it up again jump out.\n\nKenzo: Perfect love it love it.\n\nWellby: Really going.\n\nDM: Ah, OK there's no magic.\n\nUnknown: Okay.\n\nKenzo: So you're not being scryed.\n\nDelwath: Not being scryed.\n\nKenzo: Good.\n\nDelwath: I don't know if there's a sixth-level spell that lets you scry on somebody without detecting it as Detect Magic, but Scrying should detect as Detect Magic.\n\nDelwath: I'm OK, I will then put my stuff back on and and put the box back in the box and."
+            },
+            {
+              "startUid": "u2563",
+              "endUid": "u2568",
+              "quote": "DM: Okay. So the rest of you go with the scroll of Pandemonium, your normal equipment, and Riswynn's not coming. Riswynn's staying to guard the lead box. Yes, okay. Ah, you arrive at Fausto's door. And he, he greets you, and he says..."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Fausto’s upper workshop",
+      "kind": "study",
+      "evidence": [
+        {
+          "startUid": "u2638",
+          "endUid": "u2648",
+          "quote": "It swings open and you step into what looks like a like a magical study of some kind."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2588",
+              "endUid": "u2589",
+              "quote": "DM: He takes he takes you up the stairs so you go off I'm."
+            },
+            {
+              "startUid": "u2620",
+              "endUid": "u2621",
+              "quote": "DM: Now I'm. So the stairs go up for a long time, this is like 140 feet of stairs just going up and up and up."
+            },
+            {
+              "startUid": "u2638",
+              "endUid": "u2648",
+              "quote": "DM: You got about two thirds of the way up and you can see now there's two there hasn't been any windows at the bottom he's got a light spell going you got to the top, you can see. There's now these, like windows slits up towards the top some faint sunlight is is shining in. He comes to this big old door, the very top. It swings open and you step into what looks like a like a magical study of some kind. There's the three giant stained glass windows casting like multicolored light across the room. There is a marble table in the Center of the room that contains on it I'm a large glass jar that looks like it's full of lightning. It contains a mace. And it contains and sitting on the table are the two giant eyes and five stones. Says, this is what you're looking for and yes."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Street below Fausto’s tower",
+      "kind": "street",
+      "evidence": [
+        {
+          "startUid": "u3192",
+          "endUid": "u3195",
+          "quote": "landing on your feet with this, like, giant eye"
+        }
+      ],
+      "note": "This is outside the tower, rather than an interior room.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u3169",
+              "endUid": "u3195",
+              "quote": "DM: I'm. Sorry, it doesn't let you, lets you disengage or dash, so you're going to disengage, so you got 45 feet of movement. So Kenzo grabs the stone and you're like, it's pretty heavy, it's both hands, like you put your, sling your staff, grab the thing, begin to run for the window. You jump out and you begin running and your feet somehow have traction on the wall of the tower and you start just running down the wall of the tower.\n\nDelwath: Nice how high up is this room, by the way?\n\nDM: 200 feet.\n\nDelwath: I mean, no, how high up is the, sorry, in the physical space we're in, how high up is the ceiling?\n\nDM: About 15, 20 feet. 15 feet I'll say. You can continue running down, though, the wall for about 40, 40-ish feet. And then you begin to slip and you begin to fall just kind of bracing yourself. As you begin to tumble towards the ground falling now 160 feet. So.\n\nDelwath: Definitely survive this.\n\nKenzo: Oh yeah.\n\nDM: That's allowed. 44 points of splat.\n\nKenzo: But I have Slow Fall, and that prevents 40 points of damage. I only take four points of damage.\n\nDM: Yes, that is correct. You fall, like, pretty nicely.\n\nKenzo: But you said you literally see like okay well I gotta draw this one for hunting running on the fucking side of the building and then suddenly starts falling, but like gracefully as fuck and then like you know ends up.\n\nDM: At the ground, actually, ah, because I'm giving you your level nine bonuses for running on the wall, it also prevents all the damage.\n\nKenzo: Oh, I can run because in level nine it's not some magic thing know you run down the wall.\n\nDM: You get down about 40 feet and you just kind of glide, glide down, landing on your feet with this, like, giant eye that's like... About as big as you are. Probably actually weighs a lot more than 40 pounds, to be honest.\n\nSeeker: There's another scenario where we drop and shatter them by accident, so don't do that.\n\nDM: And ah, and just like gradually, just like you don't even you don't even land on your back you land standing upright just like coasting down to the ground."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3319",
+              "endUid": "u3323",
+              "quote": "how unusual is it to see somebody flying in Chardon?"
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Reunion site near Chardon’s southern wall",
+      "kind": "street",
+      "evidence": [
+        {
+          "startUid": "u3604",
+          "endUid": "u3610",
+          "quote": "heading towards the direction of Kaeso's house and where Riswynn would be coming from, sort of to the south"
+        }
+      ],
+      "note": "The exact street is not identified; the later wall-distance statement places the reunion about 500 feet inside the city wall.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3675",
+              "endUid": "u3675",
+              "quote": "You're like 500 feet from the wall of the city."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Alley alongside the city wall",
+      "kind": "alley",
+      "evidence": [
+        {
+          "startUid": "u3693",
+          "endUid": "u3695",
+          "quote": "the sort of alleyway that runs alongside the wall"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3693",
+              "endUid": "u3695",
+              "quote": "So you run, you, like, run to the wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Portable hole interior",
+      "kind": "extradimensional interior",
+      "evidence": [
+        {
+          "startUid": "u3730",
+          "endUid": "u3731",
+          "quote": "eight minutes of air inside the hole."
+        }
+      ],
+      "mobile": true
+    },
+    "p21": {
+      "label": "Farmer’s field outside Chardon",
+      "kind": "field",
+      "evidence": [
+        {
+          "startUid": "u3700",
+          "endUid": "u3702",
+          "quote": "you like appear in the middle of like a farmer's field."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "outside_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3693",
+              "endUid": "u3695",
+              "quote": "400 feet on the other side of the wall"
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Shelter behind a stable outside Chardon",
+      "kind": "stable grounds",
+      "evidence": [
+        {
+          "startUid": "u3787",
+          "endUid": "u3793",
+          "quote": "horseshoes behind the stable"
+        }
+      ],
+      "note": "The shelter is about half a mile from the city gate; no settlement or stable name is given.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3791",
+              "endUid": "u3793",
+              "quote": "you're a good half mile from the gate"
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "River outside Chardon",
+      "kind": "river approach",
+      "evidence": [
+        {
+          "startUid": "u3953",
+          "endUid": "u3956",
+          "quote": "you snuck invisibly around to the river"
+        }
+      ],
+      "note": "The source calls this only the river. Chasa.md and Chardon.md identify Chardon’s main river as the Chasa; that resolves the name without supplying an unspoken route, bank or crossing.",
+      "vaultPath": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0028"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The young dwarf leads the party from the Chapter House to Gnaeus’s lecture room in Sibyl’s Hall.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "As you leave the Chapter House, a quiet student tavern"
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "But as you enter and the dwarf, the young dwarf scurries away"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0124"
+      },
+      "actors": [
+        "party",
+        "Gnaeus"
+      ],
+      "reading": "Gnaeus takes the party around the corner, where they settle for lunch.",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0113",
+          "quote": "DM: That as long as you're buying that sounds fine to me. Come. Let's go, there's a quiet place around the corner."
+        },
+        {
+          "startUid": "u0124",
+          "endUid": "u0124",
+          "quote": "DM: So he takes you around the corner and you settle into... It's, it's like two in the afternoon and so it's a... There's not that many people there, um, he orders two lunches."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0637",
+        "endUid": "u0639"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks and discusses the forest revelations, arriving at Roscelia’s manor.",
+      "evidence": [
+        {
+          "startUid": "u0637",
+          "endUid": "u0639",
+          "quote": "Kenzo: Yeah let's let's as we're walking to the next meeting, we can chat a little bit about what you just you know. Right, right, Kenzo pulls out his, like his little, you know, jade from his so."
+        },
+        {
+          "startUid": "u0745",
+          "endUid": "u0751",
+          "quote": "you have arrived at the doors to Roscelia's manor."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0857",
+        "endUid": "u0881"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The butler leads the party through the entry hall to the formal dining room for tea with Roscelia and Lyra.",
+      "evidence": [
+        {
+          "startUid": "u0857",
+          "endUid": "u0881",
+          "quote": "He leads you through the entry hall into this sort of formal dining room."
+        },
+        {
+          "startUid": "u0857",
+          "endUid": "u0881",
+          "quote": "please be seated."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the entry hall without a separate stop."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u1690",
+        "endUid": "u1695"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker carries out the agreed office reading of Ulfgar’s library book.",
+      "evidence": [
+        {
+          "startUid": "u1630",
+          "endUid": "u1631",
+          "quote": "Riswynn: Tomorrow day we go to learn about the mirror from the library book that Ulfgar has for Seeker to read in the office, so..."
+        },
+        {
+          "startUid": "u1690",
+          "endUid": "u1695",
+          "quote": "DM: Mirror, so the book is fascinating. Seeker spends a while reading it, um. You learn all about the like construction and how reality is twisted to you know, create these knots that produce these extra extraplanar cells and you learn a few a few more details I'm trying to."
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1724",
+        "endUid": "u1731"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reunites in the lecture hall for Galen’s demonstration.",
+      "evidence": [
+        {
+          "startUid": "u1724",
+          "endUid": "u1731",
+          "quote": "DM: Ah, so that's. I think that's mostly what you want to learn, so you all meet again at Galen's lecture. Now this is this is in one of the like nice. I'm. One of the nice, the nicer colleges um it's like a fancy lecture hall. You know there's there's maybe 200 people gathered here."
+        }
+      ],
+      "from": null,
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u2130",
+        "endUid": "u2134"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn’s accepted solo errands include obtaining the money at the dwarven bank.",
+      "evidence": [
+        {
+          "startUid": "u2068",
+          "endUid": "u2068",
+          "quote": "Riswynn: I will go to the bank and arrange for your payment."
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2134",
+          "quote": "DM: So you are, you are just going. So you get are you what are you doing with the chalice are you going to go pick it up?\n\nRiswynn: I'm running solo errands where I get money, have candle, get chalice. All the time having special. Special lead pouch in my, you know, safely secured [garbled]."
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2186",
+          "quote": "Riswynn is off getting the chalice and getting money from the dwarves and stuff."
+        }
+      ],
+      "from": null,
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2130",
+        "endUid": "u2134"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn collects the chalice at Galen’s abode with the agreed money and candle; recovery is confirmed later.",
+      "evidence": [
+        {
+          "startUid": "u2069",
+          "endUid": "u2073",
+          "quote": "DM: If you come by my my abode in the morning, I will be, I will be happy to deliver this chalice to you in exchange. Pleasure doing business with you.\n\nRiswynn: Indeed, an honor to meet you. We'll see you tomorrow."
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2134",
+          "quote": "DM: So you are, you are just going. So you get are you what are you doing with the chalice are you going to go pick it up?\n\nRiswynn: I'm running solo errands where I get money, have candle, get chalice. All the time having special. Special lead pouch in my, you know, safely secured [garbled]."
+        },
+        {
+          "startUid": "u2549",
+          "endUid": "u2553",
+          "quote": "DM: Yeah okay so ah. At this point, Riswynn, you've recovered the chalice, I would assume yep so you are so well, you what I'm gonna I'm just going to send you a message."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2148",
+        "endUid": "u2165"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "The other four meet Fausto in his tower’s audience chamber while Riswynn is away.",
+      "evidence": [
+        {
+          "startUid": "u2148",
+          "endUid": "u2165",
+          "quote": "So you meet the four of you, without... Without Riswynn, who's off running errands"
+        },
+        {
+          "startUid": "u2148",
+          "endUid": "u2165",
+          "quote": "you're ushered into what looks like kind of a an audience chamber"
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2186",
+          "quote": "DM: Turn away. So at Fausto's tower... Riswynn is off getting the chalice and getting money from the dwarves and stuff. You've just been ushered into his into his like audience chamber sort of room, and he's like maybe early 30s, well-groomed. Not, not ostentatiously wealthy, like some of the other people you've met in the sort of upper strata of Chardonian society, but, um, you know, a well-tailored silk tunic and, and trousers and you know short curly black hair like tight, on top of his head sort of like traditional classic like Roman sort of thing. You know, a striking man, clearly puts a lot of time into his appearance. And he greets you, you know, greets you friendly, you know, charming, he says...\n\nPlease, please, welcome. He sort of comes down from the dais and sits at the table with you. Adventurers, I gather? Yes, interested in in jobs, perhaps. Um, yes, happy to speak."
+        }
+      ],
+      "from": null,
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u2529",
+        "endUid": "u2547"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath checks for magic alone in a room and retrieves the scroll from the portable hole.",
+      "evidence": [
+        {
+          "startUid": "u2529",
+          "endUid": "u2536",
+          "quote": "Delwath: Oh no here here's the plan. Delwath will take all his magic, right? The portable hole is currently in a lead box, so it will not interfere with my detect. Right, I will, Delwath will bring up his hat of Detect Magic, take all his magic stuff, leave it somewhere else, right go into a room. With nobody else within 30 feet, nobody else will then right. Yeah and if there's any magic that's a bad sign if there is no magic I will quickly open the thing jump in get the magic thing close it up again jump out."
+        },
+        {
+          "startUid": "u2539",
+          "endUid": "u2547",
+          "quote": "DM: Ah, OK there's no magic.\n\nUnknown: Okay.\n\nKenzo: So you're not being scryed.\n\nDelwath: Not being scryed.\n\nKenzo: Good.\n\nDelwath: I don't know if there's a sixth-level spell that lets you scry on somebody without detecting it as Detect Magic, but Scrying should detect as Detect Magic.\n\nDelwath: I'm OK, I will then put my stuff back on and and put the box back in the box and."
+        }
+      ],
+      "place": "p15"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u2554",
+        "endUid": "u2568"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn remains across town guarding the lead box, then starts toward the others.",
+      "evidence": [
+        {
+          "startUid": "u2560",
+          "endUid": "u2568",
+          "quote": "Riswynn: Nice sturdy dwarves to go on a little voyage to Tharn Todor with me. And even if they're not all going to come with me, I'd like to just sort of be hanging around with, you know, a few dozen dwarves while everybody else's off at perilous workshop. And I have the magic lead box.\n\nDM: Okay. So the rest of you go with the scroll of Pandemonium, your normal equipment, and Riswynn's not coming. Riswynn's staying to guard the lead box. Yes, okay. Ah, you arrive at Fausto's door. And he, he greets you, and he says..."
+        },
+        {
+          "startUid": "u3324",
+          "endUid": "u3328",
+          "quote": "Delwath: And where is Riswynn exactly?\n\nDM: Riswynn is, like, across town.\n\nDelwath: Did you when did you said hello to her, she coming towards us.\n\nDM: Yes.\n\nRiswynn: I did say hello, but I am far away."
+        }
+      ],
+      "place": "p01",
+      "note": "A gathering of dwarves is proposed, but its exact venue is not established."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2563",
+        "endUid": "u2568"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Kenzo, Delwath, Wellby and Seeker return to Fausto’s door carrying the scroll; Riswynn does not join them.",
+      "evidence": [
+        {
+          "startUid": "u2563",
+          "endUid": "u2568",
+          "quote": "DM: Okay. So the rest of you go with the scroll of Pandemonium, your normal equipment, and Riswynn's not coming. Riswynn's staying to guard the lead box. Yes, okay. Ah, you arrive at Fausto's door. And he, he greets you, and he says..."
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2588",
+        "endUid": "u2648"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Fausto leads the four up the long staircase into his upper workshop.",
+      "evidence": [
+        {
+          "startUid": "u2588",
+          "endUid": "u2589",
+          "quote": "DM: He takes he takes you up the stairs so you go off I'm."
+        },
+        {
+          "startUid": "u2620",
+          "endUid": "u2621",
+          "quote": "DM: Now I'm. So the stairs go up for a long time, this is like 140 feet of stairs just going up and up and up."
+        },
+        {
+          "startUid": "u2638",
+          "endUid": "u2648",
+          "quote": "DM: You got about two thirds of the way up and you can see now there's two there hasn't been any windows at the bottom he's got a light spell going you got to the top, you can see. There's now these, like windows slits up towards the top some faint sunlight is is shining in. He comes to this big old door, the very top. It swings open and you step into what looks like a like a magical study of some kind. There's the three giant stained glass windows casting like multicolored light across the room. There is a marble table in the Center of the room that contains on it I'm a large glass jar that looks like it's full of lightning. It contains a mace. And it contains and sitting on the table are the two giant eyes and five stones. Says, this is what you're looking for and yes."
+        }
+      ],
+      "from": "p13",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Climb roughly 140 feet of stairs, passing the trap buttons."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3169",
+        "endUid": "u3195"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo leaves through a workshop window with one eye and reaches the street below.",
+      "evidence": [
+        {
+          "startUid": "u3169",
+          "endUid": "u3171",
+          "quote": "DM: I'm. Sorry, it doesn't let you, lets you disengage or dash, so you're going to disengage, so you got 45 feet of movement. So Kenzo grabs the stone and you're like, it's pretty heavy, it's both hands, like you put your, sling your staff, grab the thing, begin to run for the window. You jump out and you begin running and your feet somehow have traction on the wall of the tower and you start just running down the wall of the tower."
+        },
+        {
+          "startUid": "u3189",
+          "endUid": "u3195",
+          "quote": "DM: At the ground, actually, ah, because I'm giving you your level nine bonuses for running on the wall, it also prevents all the damage.\n\nKenzo: Oh, I can run because in level nine it's not some magic thing know you run down the wall.\n\nDM: You get down about 40 feet and you just kind of glide, glide down, landing on your feet with this, like, giant eye that's like... About as big as you are. Probably actually weighs a lot more than 40 pounds, to be honest.\n\nSeeker: There's another scenario where we drop and shatter them by accident, so don't do that.\n\nDM: And ah, and just like gradually, just like you don't even you don't even land on your back you land standing upright just like coasting down to the ground."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "wall running and slow fall"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u3225",
+        "endUid": "u3237"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath flies out carrying the other eye, five stones and mace; Seeker follows under Fly. Both later fall unconscious on the street when Fly ends.",
+      "evidence": [
+        {
+          "startUid": "u3225",
+          "endUid": "u3237",
+          "quote": "Delwath: I will then, well, so I'm stepping, like, there, right? I will then cast Fly on me and Seeker. And then I will pick this stuff up and jump out the window.\n\nSeeker: Is gonna have to rescue me really good.\n\nDelwath: And\n\nSeeker: Did you take the mace also?\n\nDelwath: I'm going to take get Can I take everything?\n\nDM: You can take the mace, the five stones and the eye.\n\nDelwath: Guess that's what I'm taking jumping out the window.\n\nDM: Okay.\n\nSeeker: Does this work?\n\nDM: You're flying now. Lightning golem is going to look around. Seeker's the only one in the room."
+        },
+        {
+          "startUid": "u3302",
+          "endUid": "u3318",
+          "quote": "Delwath: Once you're out the window, you can, and you have enough, Fly, 60-foot move, which means you have 120. Oh, you should take disengage as your action. No attack of opportunity.\n\nSeeker: I didn't realize that, thank you, yes I disengage.\n\nDelwath: And then you have 60 foot move, so you can you can blunder a fair bit and still get out the window yeah like 15 feet.\n\nSeeker: Okay that's what I'm doing, thank you.\n\nDM: Okay, so I mean the window is the open gap here is pretty big like it's it's.\n\nSeeker: When.\n\nDM: Rushing through it almost 10 feet it's a big circular like 10 foot by 10 foot circular window so it's not that it's not particularly difficult for you to get out the window ah getting to the ground might be much.\n\nDelwath: I'll help them. It's fine, Delwath'll guide him to the ground.\n\nSeeker: I'll I'll go back my way I'll go down a few feet back my way to the wall put a finger on it. And downward.\n\nDelwath: Okay, I mean, and if I see he's looking, like, lost, I will fly over and lead...\n\nDM: Lead him down, but Kenzo's on the ground. Wellby, you're up. You two are both, like, in the air, like some distance away."
+        },
+        {
+          "startUid": "u3402",
+          "endUid": "u3404",
+          "quote": "Delwath: And the Fly ends.\n\nUnknown: [garbled]\n\nDM: Oh, it doesn't matter you both fall."
+        },
+        {
+          "startUid": "u3445",
+          "endUid": "u3447",
+          "quote": "DM: So you run up you see them falling you run up and you, you leap. But you miss them in the air, and you land next to them as you hear the sickening crunch as both Delwath and... Seeker fall unconscious on the ground."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "flight interrupted by falling"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u3337",
+        "endUid": "u3349"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby uses the Raven’s Whistle to leave through an open window and eventually lands beside the fallen Delwath.",
+      "evidence": [
+        {
+          "startUid": "u3337",
+          "endUid": "u3349",
+          "quote": "Wellby: All right, I'm gonna blow the Raven's Whistle and fly very, very fast, hopefully. I can I get over the monsters in the room is like don't.\n\nDM: Get around them to go out the other window there's a window there and a window here.\n\nWellby: Yeah, I got the same I think others window right there.\n\nDM: I'll just go, yeah, that's how Seeker ran out. Right. Those are I mean this one, this one here is a window to, but this is still glass. The ones that were the golems just stepped out of the wall to attack them.\n\nDelwath: You can break his window.\n\nWellby: Like I'm going to go out the open window."
+        },
+        {
+          "startUid": "u3353",
+          "endUid": "u3369",
+          "quote": "DM: But if you're going to dash, then you're going to take opportunity attacks.\n\nWellby: Oh, I'll take disengage then and just...\n\nDM: Say okay um. So let's see. Just for where you all are positioned, so Kenzo's on the ground now. You are coming back to guide Seeker down to the ground.\n\nUnknown: Yeah.\n\nDM: Ah, as you two, and Wellby is probably somewhat below you both now.\n\nDelwath: Yeah, I mean what it's 200 feet up. Yeah and so let's say seekers probably 30 feet down or 40 feet down. Given, or no, you disengaged, so you're probably only, like, yeah, like 20 maybe.\n\nDM: 20 to 30, Seeker's like 20 feet down. Wellby is, how far can you...\n\nWellby: Go. When you disengage 160 with the ravens whistles so probably both hands and feet to.\n\nDM: Get up the stairs to so you're probably like 100 feet down.\n\nWellby: It makes sense to me."
+        },
+        {
+          "startUid": "u3491",
+          "endUid": "u3494",
+          "quote": "DM: Okay well you're 100 feet from the ground so you can land and you can get and use your action to feed Delwath a potion. That is Wellby's turn. Kenzo."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "magical flight"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3518",
+        "endUid": "u3610"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "The four fugitives flee the tower street toward the south and reunite with Riswynn near the city wall.",
+      "evidence": [
+        {
+          "startUid": "u3518",
+          "endUid": "u3520",
+          "quote": "Kenzo: I'm taking one, I'm running to Kaeso.\n\nDM: That runs. Delwath, you're up."
+        },
+        {
+          "startUid": "u3560",
+          "endUid": "u3565",
+          "quote": "Delwath: Um. Yeah, I'm just gonna grab the other eye and...\n\nDM: Where are you running? Following Kenzo?\n\nDelwath: Yeah. I mean, I'm not gonna try, I'm gonna guess, I don't know Chardon well, so yeah, sure.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u3576",
+          "endUid": "u3585",
+          "quote": "Wellby: Right, I'll. I'll lean up, I'll say, Seeker, follow me, and book off. The had different direction but.\n\nSeeker: You're you're still flying.\n\nWellby: Know.\n\nDM: You're on the ground.\n\nSeeker: So we're just on foot.\n\nDM: Seeker's, like, like the red healing bud's, like, closing... The wounds that had knocked you unconscious, but, you know, you're shaken."
+        },
+        {
+          "startUid": "u3604",
+          "endUid": "u3610",
+          "quote": "DM: Well, so just for simplicity's sake, because it is, I realize that you all, you, you sort of manage to run into each other sort of towards that, I’ll throw us back on. And I mean, there's, like, like clearly there's a crowd, there's, like, people noticing this, like, you know, a couple of the, of the mage guard now have sort of seen the magic and are, if not, like, not like immediately trying to hunt you down, but, like, there's people on your tail, right? You're, you're not wandering through the city, you're running, like dodging, you know, trying to heading, heading towards the direction of Kaeso's house and where Riswynn would be coming from, sort of to the south, right, so...\n\nUnknown: Are we all together?\n\nDM: So that's why I'm saying for simplicity, I'm gonna say you all meet up, like, right about here."
+        }
+      ],
+      "from": "p17",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u3655",
+        "endUid": "u3667"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five are together at the reunion point when Riswynn tries the chalice.",
+      "evidence": [
+        {
+          "startUid": "u3655",
+          "endUid": "u3667",
+          "quote": "Riswynn: They hold hands, and Riswynn starts praying to her chalice.\n\nDM: The chalice, as you grab it, you're all holding it, white light begins pouring out of that.\n\nWellby: Is supposed to happen.\n\nDM: And Riswynn, you hear, nobody, nobody else hears anything, but you hear the sound of hammers, and the rest of you look around as Riswynn and the chalice vanish.\n\nUnknown: No.\n\nRiswynn: Wait.\n\nKenzo: Why are we are we not in the portable no.\n\nSeeker: We didn't we.\n\nWellby: Did Riswynn and the chalice vanish leaving us behind?\n\nDM: Leaving you behind."
+        }
+      ],
+      "place": "p18"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3655",
+        "endUid": "u3667"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Only Riswynn and the chalice vanish; the other four are explicitly left behind. Her later message says she is safe elsewhere.",
+      "evidence": [
+        {
+          "startUid": "u3655",
+          "endUid": "u3667",
+          "quote": "Riswynn: They hold hands, and Riswynn starts praying to her chalice.\n\nDM: The chalice, as you grab it, you're all holding it, white light begins pouring out of that.\n\nWellby: Is supposed to happen.\n\nDM: And Riswynn, you hear, nobody, nobody else hears anything, but you hear the sound of hammers, and the rest of you look around as Riswynn and the chalice vanish.\n\nUnknown: No.\n\nRiswynn: Wait.\n\nKenzo: Why are we are we not in the portable no.\n\nSeeker: We didn't we.\n\nWellby: Did Riswynn and the chalice vanish leaving us behind?\n\nDM: Leaving you behind."
+        },
+        {
+          "startUid": "u3850",
+          "endUid": "u3853",
+          "quote": "Riswynn: Or right now I could say. I hope I'm very sorry that I wasn't able to bring you to safety with me. I'm spending some time with my gods and I'll meet you again someday."
+        },
+        {
+          "startUid": "u3914",
+          "endUid": "u3917",
+          "quote": "DM: So, as we end with the four of you on the run from Chardon receiving a message from Riswynn that she is safe and elsewhere. But you can actually relay, I mean Riswynn could relay messages."
+        }
+      ],
+      "from": "p18",
+      "to": null,
+      "completion": "uncertain",
+      "mode": "chalice magic",
+      "note": "No destination is identified in this transcript; later vault knowledge is not a played visit here."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3687",
+        "endUid": "u3695"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Kenzo, Delwath and Wellby enter the portable hole before Seeker teleports away with it.",
+      "evidence": [
+        {
+          "startUid": "u3687",
+          "endUid": "u3695",
+          "quote": "Kenzo: I’ve never used this one before we just all get in the hole and just bounce out of here.\n\nDelwath: We go with the hole, there's, Riswynn vanishes, we're like, fuck, what happened? Our plan failed. We go back in the hole, you then take the hole, Dimension Door, Seeker's already...\n\nSeeker: It's 500 feet range, so I can say I'm. Just the far side of the wall maximum distance on the ground.\n\nWellby: But before you vanish, let's get closer to the wall first so that you're further out past the wall.\n\nSeeker: Yeah yeah.\n\nDM: So you run, you, like, run to the wall. Now you see that the guards, the mage guards that are watching the wall, are, like, looking around. You know, some message has been sent and they're, they're looking at the roads, the road leading out, and you, you, Seeker runs, like, up basically to the sort of alleyway that runs alongside the wall and then just takes a step through a portal and appears, like, 400 feet on the other side of the wall with the portable hole. And then you just start running."
+        },
+        {
+          "startUid": "u3730",
+          "endUid": "u3731",
+          "quote": "Wellby: 10 minutes of air inside the hole.\n\nDM: Yeah, you're down to about eight minutes of air inside the hole."
+        },
+        {
+          "startUid": "u3794",
+          "endUid": "u3797",
+          "quote": "Seeker: That was the intention, so I I change back and unfold the hole so there's, to pop everyone out again, or whatever it is [garbled]\n\nDM: Down on the ground and everybody climbs out."
+        }
+      ],
+      "from": "p18",
+      "to": "p20",
+      "completion": "arrived"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3693",
+        "endUid": "u3702"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker runs to the wall alley and Dimension Doors to a farmer’s field about 400 feet outside, carrying the occupied hole.",
+      "evidence": [
+        {
+          "startUid": "u3693",
+          "endUid": "u3702",
+          "quote": "DM: So you run, you, like, run to the wall. Now you see that the guards, the mage guards that are watching the wall, are, like, looking around. You know, some message has been sent and they're, they're looking at the roads, the road leading out, and you, you, Seeker runs, like, up basically to the sort of alleyway that runs alongside the wall and then just takes a step through a portal and appears, like, 400 feet on the other side of the wall with the portable hole. And then you just start running.\n\nDelwath: Don't that's too obvious, you should just.\n\nDM: Just casually start.\n\nDelwath: Yeah, I mean we want to go north but yes casually start walking south.\n\nSeeker: It's daytime.\n\nDM: Yes, daytime, there's a fair bit of traffic. I mean, this is one of the main roads in and out of Chardon, there's a fair bit of traffic. You know a few people you like appear in the middle of like a farmer's field. Few people kind of look at you, strangely, but nobody's like made the connection there's no you're far enough from the gates that there's no sign of commotion."
+        }
+      ],
+      "from": "p19",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "Dimension Door",
+      "distance": {
+        "value": 400,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM’s approximate placement beyond the wall."
+      },
+      "locationContext": [
+        {
+          "subject": "p20",
+          "relation": "carried_at",
+          "target": "p21"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u3769",
+        "endUid": "u3793"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker changes into a crow and flies from the field to shelter behind a stable, about half a mile from the gate.",
+      "evidence": [
+        {
+          "startUid": "u3769",
+          "endUid": "u3770",
+          "quote": "Seeker: Okay, so I cast Polymorph on myself and become a crow and take off flying with the, the full intention, just as I transform, of landing as a crow... Outside the nearest structure, but in its shelter that I can see, so fly less than a mile."
+        },
+        {
+          "startUid": "u3785",
+          "endUid": "u3793",
+          "quote": "DM: You only you only fly for two minutes before you see a.\n\nSeeker: Oh, something shiny.\n\nDM: You see behind there's like a small there's like a stable and there's some like some like abandoned horseshoes, like, horseshoes behind the stable that are, like, shining in the sun. You sort of fly down and you land and then you're like, oh wait, I was supposed to do something, and you I mean the only way you can get out the hole is to turn back into Seeker, yep.\n\nSeeker: Yep um let's get we're probably half mile away at this point.\n\nDM: Yeah you're you're a good half mile from the gate and your have a little bit of shelter."
+        }
+      ],
+      "from": "p21",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "crow flight",
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM’s completed flight duration."
+      },
+      "locationContext": [
+        {
+          "subject": "p20",
+          "relation": "carried_at",
+          "target": "p22"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u3794",
+        "endUid": "u3797"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "After Seeker changes back and opens the hole, Kenzo, Delwath and Wellby climb out behind the stable.",
+      "evidence": [
+        {
+          "startUid": "u3794",
+          "endUid": "u3797",
+          "quote": "Seeker: That was the intention, so I I change back and unfold the hole so there's, to pop everyone out again, or whatever it is [garbled]\n\nDM: Down on the ground and everybody climbs out."
+        }
+      ],
+      "from": "p20",
+      "to": "p22",
+      "completion": "arrived"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u3953",
+        "endUid": "u3956"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "The accepted closing transition takes the four invisibly around to the river; the farther upstream position remains next-session setup.",
+      "evidence": [
+        {
+          "startUid": "u3953",
+          "endUid": "u3956",
+          "quote": "DM: But the idea here is that you snuck invisibly around to the river, and we will pick up next time with you...\n\nDelwath: Yeah. Hopefully, like.\n\nDM: Up some distance upstream from Chardon, yeah."
+        }
+      ],
+      "from": "p22",
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "invisible travel",
+      "note": "The proposed two-week skip is not accepted; no elapsed duration or upstream arrival is recorded."
+    }
+  ]
+}
