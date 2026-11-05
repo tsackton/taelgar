@@ -2,7 +2,7 @@
 
 Last reviewed: **2026-11-04**
 
-This guide covers the 33 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 34 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -36,14 +36,15 @@ Entity mapping also supports registered prepared narratives for narrative-only s
 
 ### Structured transcript extraction package
 
-The package consists of **location, time, entities, interactions, combat, and segment classification**. Entities and interactions use the two skills above. The four skills below provide independent JSON products using the reviewed draft formats; their original experiments remain unchanged. Entities precede interactions; classification precedes combat. Time and location remain independent, with optional fingerprinted time references from location. No scene map is required. A shared-reading coordinator is not part of this baseline.
+The package consists of **location, time, entities, interactions, combat, and segment classification**. Entities and interactions use the two skills above. The table below includes the four remaining component skills and their coordinator. The component skills provide independent JSON products using the reviewed draft formats; their original experiments remain unchanged. Entities precede interactions; classification precedes combat. Time and location remain independent, with optional fingerprinted time references from location. No scene map is required. The coordinator shares the initial transcript read, then requires a dedicated second combat pass and focused interaction work.
 
 | Skill | What it does | Example use case |
 | --- | --- | --- |
+| [extract-session-structure](.agents/skills/extract-session-structure/SKILL.md) | Coordinates all six products through one shared sequential read, followed by entity resolution, focused interaction extraction, and a mandatory dedicated second read of every labeled combat segment. Preserves the component schemas and supports isolated comparison runs. | “Run the structured extraction package on these sessions using the shared-read coordinator.” |
 | [extract-location-markers](.agents/skills/extract-location-markers/SKILL.md) | Builds a place dictionary and sparse presence, movement, and observation markers. Preserves journeys at the narrated scale and distinguishes plans or remote observations from actual visits. | “Extract location markers from Dunmari Frontier 95.” |
 | [extract-time-markers](.agents/skills/extract-time-markers/SKILL.md) | Records source UID, inferred time/duration, and exact evidence for every temporal assertion, preserving repetitions and corrections separately. Includes essential relationships and a matched/compatible/conflict check against YAML dates. | “Extract the time statements and check this session’s YAML dates.” |
 | [classify-transcript-segments](.agents/skills/classify-transcript-segments/SKILL.md) | Classifies the entire transcript as gameplay, continuous combat, meta discussion, table talk, or narrow non-advancing session framing. No scene extraction; visions and travel remain gameplay. | “Classify Session 83 by activity without splitting it into scenes.” |
-| [extract-combat](.agents/skills/extract-combat/SKILL.md) | Extracts resolved turns/actions and outcomes grouped by repeating initiative, with reactions, summons, and extra actions kept distinct. Binds to classification and prioritizes action correctness without round-confidence fields. | “Extract every combat in Session 54 as a condensed round-by-round record.” |
+| [extract-combat](.agents/skills/extract-combat/SKILL.md) | Requires a dedicated second read of every labeled combat segment after classification/shared reading. Extracts resolved turns/actions and outcomes grouped by repeating initiative, preserving saving throws, advantage/disadvantage, effect details, and benefits. Keeps reactions, summons, and extra actions distinct and applies later corrections in resolved action order. Binds to classification and prioritizes action correctness without round-confidence fields. | “Extract every combat in Session 54 as a condensed round-by-round record, with a dedicated combat pass.” |
 
 The [entity review workflow](.agents/skills/check-session-entities/references/review-workflow.md)
 covers the Obsidian entity table/queue, inline review saves, reversible human exclusions,
