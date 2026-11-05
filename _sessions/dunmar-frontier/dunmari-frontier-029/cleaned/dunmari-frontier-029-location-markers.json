@@ -1,0 +1,1352 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-029",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+    "sessionYamlSha256": "9c58709c2c82c8834c08e11536889372106a0b98a0ca99b7db59a87609c3fdb7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md",
+    "transcriptSha256": "d76ef21497dc9e26eab6ea86b6ca229eb40645c7e9a8c441113f19dfc75810bc"
+  },
+  "places": {
+    "p01": {
+      "label": "Shakun’s Wellspring",
+      "kind": "sacred canyon",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "DM: Okay. So, as the sun sinks in the sky, turning the walls of the canyon a golden red, you all are standing looking at the dead bodies of Agata Dustmother and her servant Samerki.\n\n"
+        },
+        {
+          "startUid": "u0003",
+          "endUid": "u0004",
+          "quote": "DM: It has only been a few minutes now since you emerged from Shakun's realm, at the prompting of Jumi, now a strange wooden puppet child, to find Cintra facing off against Agata and Samerki. Despite the swarm of locusts, the freezing blast of cold that nearly killed Seeker and Kenzo, and Wellby turned into a centipede and scooped up in a glass jar, you managed to defeat these foes.\n\n"
+        },
+        {
+          "startUid": "u0005",
+          "endUid": "u0007",
+          "quote": "DM: Now, as you stand catching your breath Cintra runs into the wellspring and emerges with Shakun's heart and her daughter still mostly made of wood. She is holding Jumi, tears streaming down her face, as she looks in relief and horror at her daughter, alive and yet seemingly transformed by Agata into something that is not quite human. You can hear her murmuring, “You are safe now. It will all be okay now.” But to your ears, it is clear there is a note of doubt in her voice.\n\n"
+        }
+      ],
+      "aliases": [
+        "wellspring",
+        "canyon"
+      ],
+      "note": "The registered session’s canyon and wellspring match the Cintra rescue site in Shakun’s Wellspring and Cintra. The transcript itself does not re-speak the full proper name.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Shakun’s Wellspring.md"
+    },
+    "p02": {
+      "label": "Cintra’s tent",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u0137",
+          "endUid": "u0139",
+          "quote": "DM: In that 10 Minutes that takes for this ritual to complete Cintra is still just kind of comforting Jumi and then takes her over to Camp to try and get her to eat something and settle down a little bit in the tent just so that she can rest after what has been a stressful several months, um. Is there anything the rest of you want to do?\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0617",
+              "endUid": "u0617",
+              "quote": "Seeker: Where's and where's, the tent with the kid in it.\n\n"
+            },
+            {
+              "startUid": "u0618",
+              "endUid": "u0618",
+              "quote": "DM: The tent with the kid in it is way on the far side is right.\n\n"
+            },
+            {
+              "startUid": "u0619",
+              "endUid": "u0619",
+              "quote": "Seeker: Oh, I see I see Thank you.\n\n"
+            },
+            {
+              "startUid": "u0620",
+              "endUid": "u0620",
+              "quote": "DM: So Cintra at the moment is not is just moving forward to sort of stay here in range of being able to see both things but she's prepared to dash back if needed so so position yourselves, where you want.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Slot-canyon entrance",
+      "kind": "choke point",
+      "evidence": [
+        {
+          "startUid": "u0598",
+          "endUid": "u0600",
+          "quote": "DM: So this here is the entrance to the slot canyon I just kind of drew the pit trap on here in a crude drawing so the pit trap is like right where it begins to open up into the end your alarm is just on this side of the pit trap.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0690",
+              "endUid": "u0692",
+              "quote": "DM: So yes, this is a so like there's a little bit of a slope that comes down. So where you are as about five foot elevation above and then, when you get off the sandy part of the map here the slot canyon really starts. So, then, the walls go up, so this is the canyon wall is right is like right here so you've got like a little bit of elevation here, and then a cliff that goes down about five feet and then starting here, it goes off sheer hundred feet and they're coming through this.\n\n"
+            },
+            {
+              "startUid": "u1554",
+              "endUid": "u1557",
+              "quote": "DM: Okay, so Kenzo quickly subdues the last Archer disarming him and dragging him forward as you return to the peaceful quiet now of the wellspring.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Enemy encampment above the stairs",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1846",
+          "endUid": "u1847",
+          "quote": "Wellby: Oh, it strikes me, I want to run back up to the top of the stairs and see if anyone went off in another direction of the—\n\n"
+        },
+        {
+          "startUid": "u1848",
+          "endUid": "u1850",
+          "quote": "DM: People we know ah yeah make make a survival check. There are you don't see any obvious tracks, leaving the encampment heading away from the encampment. If there is somebody who went off somewhere, they would have they must have done so very sneakily.\n\n"
+        },
+        {
+          "startUid": "u1851",
+          "endUid": "u1851",
+          "quote": "Wellby: Oh, so we knew the count of who was there?\n\n"
+        },
+        {
+          "startUid": "u1852",
+          "endUid": "u1852",
+          "quote": "DM: Oh yeah yeah.\n\n"
+        },
+        {
+          "startUid": "u1853",
+          "endUid": "u1853",
+          "quote": "Unknown: Yeah.\n\n"
+        },
+        {
+          "startUid": "u1854",
+          "endUid": "u1855",
+          "quote": "DM: Yes, you killed everybody. You can count the bodies you—\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1846",
+              "endUid": "u1847",
+              "quote": "Wellby: Oh, it strikes me, I want to run back up to the top of the stairs and see if anyone went off in another direction of the—\n\n"
+            },
+            {
+              "startUid": "u1848",
+              "endUid": "u1850",
+              "quote": "DM: People we know ah yeah make make a survival check. There are you don't see any obvious tracks, leaving the encampment heading away from the encampment. If there is somebody who went off somewhere, they would have they must have done so very sneakily.\n\n"
+            },
+            {
+              "startUid": "u1851",
+              "endUid": "u1851",
+              "quote": "Wellby: Oh, so we knew the count of who was there?\n\n"
+            },
+            {
+              "startUid": "u1852",
+              "endUid": "u1852",
+              "quote": "DM: Oh yeah yeah.\n\n"
+            },
+            {
+              "startUid": "u1853",
+              "endUid": "u1853",
+              "quote": "Unknown: Yeah.\n\n"
+            },
+            {
+              "startUid": "u1854",
+              "endUid": "u1855",
+              "quote": "DM: Yes, you killed everybody. You can count the bodies you—\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Camp on the return journey",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2112",
+          "endUid": "u2112",
+          "quote": "DM: You camp on eventually um it's a little bit slower going then you're used to with a three year old, who spends a lot of time riding on the floating disk.\n\n"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Seeker: Nice Nice.\n\n"
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2115",
+          "quote": "DM: But you managed but Cintra is really pushing hard and like constantly encouraging her and kind of luring forward as best you can with little magic tricks and like bright lights and stuff that appear 50 feet in front of her and they play little games of like you know pong passing things back and forth as illusions and stuff with each other.\n\n"
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2116",
+          "quote": "Seeker: Awesome.\n\n"
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2118",
+          "quote": "DM: And you managed to you pass it uneventful night. Next morning, you can identify something else, if you want um.\n\n"
+        }
+      ]
+    },
+    "p06": {
+      "label": "Mesa overlooking Karawa",
+      "kind": "mesa",
+      "evidence": [
+        {
+          "startUid": "u2257",
+          "endUid": "u2263",
+          "quote": "DM: So you come to Karawa. Standing now on the on the Mesa looking down over the town quiet without much sign of activity now at the you know just after lunch, the hottest part of the day, most people sort of hiding in the shade. And as you approach Cintra like grabs a grabs Jumi's hand and sort of hides the stone. She does something to it and it sort of fades from view and she rushes down.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2257",
+              "endUid": "u2263",
+              "quote": "DM: So you come to Karawa. Standing now on the on the Mesa looking down over the town quiet without much sign of activity now at the you know just after lunch, the hottest part of the day, most people sort of hiding in the shade. And as you approach Cintra like grabs a grabs Jumi's hand and sort of hides the stone. She does something to it and it sort of fades from view and she rushes down.\n\n"
+            }
+          ]
+        }
+      ],
+      "note": "The Red Mesa vault identity supplies the established name, not an inference that all the town lies within it.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md"
+    },
+    "p07": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u2257",
+          "endUid": "u2263",
+          "quote": "DM: So you come to Karawa. Standing now on the on the Mesa looking down over the town quiet without much sign of activity now at the you know just after lunch, the hottest part of the day, most people sort of hiding in the shade. And as you approach Cintra like grabs a grabs Jumi's hand and sort of hides the stone. She does something to it and it sort of fades from view and she rushes down.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p08": {
+      "label": "Havdar’s camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2693",
+          "endUid": "u2696",
+          "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2693",
+              "endUid": "u2696",
+              "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2693",
+              "endUid": "u2696",
+              "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Centaur camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2693",
+          "endUid": "u2696",
+          "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2693",
+              "endUid": "u2696",
+              "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ruins of Ikram’s tavern",
+      "kind": "ruined inn",
+      "evidence": [
+        {
+          "startUid": "u2693",
+          "endUid": "u2696",
+          "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2693",
+              "endUid": "u2696",
+              "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram's.md"
+    },
+    "p11": {
+      "label": "Road between Karawa and Bas Udda in Wellby’s memory",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0384",
+          "endUid": "u0399",
+          "quote": "DM: 17 okay um you— Hmm so you actually do briefly sort of recognize the halfling. And as you slip into into a memory as you kind of stare at this at this figure— You kind of you kind of fade back and and you don't get a ton of ton of detail, um. But you see—as you sort of fall backwards it's hard to tell how long ago, you are this memory is. But you see a caravan traveling a pretty well armed and defended caravan traveling, five wagons. A whole extended clan of halflings. And they seem to be crossing terrain sort of like this, like you know, probably somewhere on the road between Karawa and Bas Udda based on your your experience traveling these roads, you can place them. And all you really see is is, you see this figure um sitting on the lead, wagon sort of the lead the Patriarch of this trading family as they head south on the road to probably stop for some goods Bas Udda before cutting west to go to Askandi or or somewhere along the mountains. But that's all you got.\n\n"
+        }
+      ]
+    },
+    "p12": {
+      "label": "Kharsan in the scepter’s past",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u3185",
+          "endUid": "u3193",
+          "quote": "DM: But the mirror and the scepter have other ideas and you feel yourself being pulled further back in time. You see a brief moment of fire and destruction, as you are hanging unused from the belt of some enormous creature stomping through a city that you recognize as Kharsan. A giant swinging a flaming axe destroying buildings and you feel you can almost feel through the through the mirror this deep anger at just sitting unused at the on the belt of some dumb brute.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Kharsan.md"
+    },
+    "p13": {
+      "label": "Ancient monumental city",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u3195",
+          "endUid": "u3202",
+          "quote": "DM: And then you are pulled further back in time swirling through darkness until you see an image of a city laid out before you. A vast city: pyramids rising up huge monuments um a massive a massive open square in front of you, and you are standing— You are looking down at this army. Um about 10,000 maybe 5000 people fitting into this square.\n\n"
+        },
+        {
+          "startUid": "u3203",
+          "endUid": "u3206",
+          "quote": "DM: And you are raised up a cloak around your shoulders. Like almost a sort of shimmering almost illusionary cloak of multicolored hues resting on your shoulders the mantle in your hand and the words coming out of your mouth animate the armies below you. And as you, you can't hear the words you just—\n\n"
+        }
+      ],
+      "note": "The vision does not name this city; Drankorian military emblems alone do not securely identify it as Drankor."
+    },
+    "p14": {
+      "label": "Square in the monumental city",
+      "kind": "square",
+      "evidence": [
+        {
+          "startUid": "u3203",
+          "endUid": "u3206",
+          "quote": "DM: And you are raised up a cloak around your shoulders. Like almost a sort of shimmering almost illusionary cloak of multicolored hues resting on your shoulders the mantle in your hand and the words coming out of your mouth animate the armies below you. And as you, you can't hear the words you just—\n\n"
+        },
+        {
+          "startUid": "u3207",
+          "endUid": "u3207",
+          "quote": "Delwath: See, animate— Oh, I know that I just have to clarify something. Animate like make them happy and animated or animate like they are dead, and this.\n\n"
+        },
+        {
+          "startUid": "u3208",
+          "endUid": "u3210",
+          "quote": "DM: Is no, no, make them happy and animated, and they did like there are cheering and roaring has, as you speak everybody's pumping their spear slamming spears on shields slamming staffs, you see rank after rank after rank of people wearing the helmets that Delwath used to wear that he wore for a time before it disintegrated in the battle with Agata.\n\n"
+        },
+        {
+          "startUid": "u3211",
+          "endUid": "u3211",
+          "quote": "Delwath: [garbled] Drankorian right?\n\n"
+        },
+        {
+          "startUid": "u3212",
+          "endUid": "u3212",
+          "quote": "DM: That was Drankorian.\n\n"
+        },
+        {
+          "startUid": "u3213",
+          "endUid": "u3213",
+          "quote": "Unknown: Yes.\n\n"
+        },
+        {
+          "startUid": "u3214",
+          "endUid": "u3217",
+          "quote": "DM: Um and and you see that like the scepter raised and then um the army's turn and begin to march um you at their head. Marching through rolling fields.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u3195",
+              "endUid": "u3202",
+              "quote": "DM: And then you are pulled further back in time swirling through darkness until you see an image of a city laid out before you. A vast city: pyramids rising up huge monuments um a massive a massive open square in front of you, and you are standing— You are looking down at this army. Um about 10,000 maybe 5000 people fitting into this square.\n\n"
+            },
+            {
+              "startUid": "u3203",
+              "endUid": "u3206",
+              "quote": "DM: And you are raised up a cloak around your shoulders. Like almost a sort of shimmering almost illusionary cloak of multicolored hues resting on your shoulders the mantle in your hand and the words coming out of your mouth animate the armies below you. And as you, you can't hear the words you just—\n\n"
+            },
+            {
+              "startUid": "u3203",
+              "endUid": "u3206",
+              "quote": "DM: And you are raised up a cloak around your shoulders. Like almost a sort of shimmering almost illusionary cloak of multicolored hues resting on your shoulders the mantle in your hand and the words coming out of your mouth animate the armies below you. And as you, you can't hear the words you just—\n\n"
+            },
+            {
+              "startUid": "u3207",
+              "endUid": "u3207",
+              "quote": "Delwath: See, animate— Oh, I know that I just have to clarify something. Animate like make them happy and animated or animate like they are dead, and this.\n\n"
+            },
+            {
+              "startUid": "u3208",
+              "endUid": "u3210",
+              "quote": "DM: Is no, no, make them happy and animated, and they did like there are cheering and roaring has, as you speak everybody's pumping their spear slamming spears on shields slamming staffs, you see rank after rank after rank of people wearing the helmets that Delwath used to wear that he wore for a time before it disintegrated in the battle with Agata.\n\n"
+            },
+            {
+              "startUid": "u3211",
+              "endUid": "u3211",
+              "quote": "Delwath: [garbled] Drankorian right?\n\n"
+            },
+            {
+              "startUid": "u3212",
+              "endUid": "u3212",
+              "quote": "DM: That was Drankorian.\n\n"
+            },
+            {
+              "startUid": "u3213",
+              "endUid": "u3213",
+              "quote": "Unknown: Yes.\n\n"
+            },
+            {
+              "startUid": "u3214",
+              "endUid": "u3217",
+              "quote": "DM: Um and and you see that like the scepter raised and then um the army's turn and begin to march um you at their head. Marching through rolling fields.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Black tower in the scepter’s creation vision",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u3218",
+          "endUid": "u3223",
+          "quote": "DM: And then you swirl even further back in time. And you see a figure a probably Drankorian as far as you can tell from their features um. A sharp eyes dark hair looks looks looks sort of like like like Denethor in the in the Lord of the Rings movies, like that sort of old but sort of powerful and maybe not super wise.\n\n"
+        },
+        {
+          "startUid": "u3224",
+          "endUid": "u3226",
+          "quote": "DM: And he is— He is holding the scepter and it looks like completely newly created. He is at the top of a tower a black tower standing on a circular island, nothing else around at the only things stretching out of the out of the sea, the waves crashing around this perfectly circular island [garbled] this person standing on the top of this black tower—is that—and then the mirror of fades to black.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u3218",
+              "endUid": "u3223",
+              "quote": "DM: And then you swirl even further back in time. And you see a figure a probably Drankorian as far as you can tell from their features um. A sharp eyes dark hair looks looks looks sort of like like like Denethor in the in the Lord of the Rings movies, like that sort of old but sort of powerful and maybe not super wise.\n\n"
+            },
+            {
+              "startUid": "u3224",
+              "endUid": "u3226",
+              "quote": "DM: And he is— He is holding the scepter and it looks like completely newly created. He is at the top of a tower a black tower standing on a circular island, nothing else around at the only things stretching out of the out of the sea, the waves crashing around this perfectly circular island [garbled] this person standing on the top of this black tower—is that—and then the mirror of fades to black.\n\n"
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Apollyon's Tower.md"
+    },
+    "p16": {
+      "label": "Perfectly circular island",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u3218",
+          "endUid": "u3223",
+          "quote": "DM: And then you swirl even further back in time. And you see a figure a probably Drankorian as far as you can tell from their features um. A sharp eyes dark hair looks looks looks sort of like like like Denethor in the in the Lord of the Rings movies, like that sort of old but sort of powerful and maybe not super wise.\n\n"
+        },
+        {
+          "startUid": "u3224",
+          "endUid": "u3226",
+          "quote": "DM: And he is— He is holding the scepter and it looks like completely newly created. He is at the top of a tower a black tower standing on a circular island, nothing else around at the only things stretching out of the out of the sea, the waves crashing around this perfectly circular island [garbled] this person standing on the top of this black tower—is that—and then the mirror of fades to black.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins in the wellspring canyon beside the defeated enemies; Cintra brings back the Heart and Jumi.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "DM: Okay. So, as the sun sinks in the sky, turning the walls of the canyon a golden red, you all are standing looking at the dead bodies of Agata Dustmother and her servant Samerki.\n\n"
+        },
+        {
+          "startUid": "u0003",
+          "endUid": "u0004",
+          "quote": "DM: It has only been a few minutes now since you emerged from Shakun's realm, at the prompting of Jumi, now a strange wooden puppet child, to find Cintra facing off against Agata and Samerki. Despite the swarm of locusts, the freezing blast of cold that nearly killed Seeker and Kenzo, and Wellby turned into a centipede and scooped up in a glass jar, you managed to defeat these foes.\n\n"
+        },
+        {
+          "startUid": "u0005",
+          "endUid": "u0007",
+          "quote": "DM: Now, as you stand catching your breath Cintra runs into the wellspring and emerges with Shakun's heart and her daughter still mostly made of wood. She is holding Jumi, tears streaming down her face, as she looks in relief and horror at her daughter, alive and yet seemingly transformed by Agata into something that is not quite human. You can hear her murmuring, “You are safe now. It will all be okay now.” But to your ears, it is clear there is a note of doubt in her voice.\n\n"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0137",
+        "endUid": "u0139"
+      },
+      "actors": [
+        "Cintra",
+        "Jumi"
+      ],
+      "reading": "Cintra takes Jumi to her tent during the ritual.",
+      "evidence": [
+        {
+          "startUid": "u0137",
+          "endUid": "u0139",
+          "quote": "DM: In that 10 Minutes that takes for this ritual to complete Cintra is still just kind of comforting Jumi and then takes her over to Camp to try and get her to eat something and settle down a little bit in the tent just so that she can rest after what has been a stressful several months, um. Is there anything the rest of you want to do?\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0140",
+        "endUid": "u0148"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts the slot-canyon entrance for approaching enemies.",
+      "evidence": [
+        {
+          "startUid": "u0140",
+          "endUid": "u0140",
+          "quote": "Wellby: So Wellby, I'm gonna head over to the slot canyon entrance.\n\n"
+        },
+        {
+          "startUid": "u0141",
+          "endUid": "u0141",
+          "quote": "Drikod: And just check yeah.\n\n"
+        },
+        {
+          "startUid": "u0142",
+          "endUid": "u0142",
+          "quote": "Kenzo: That's gonna say like are we actually safe just?\n\n"
+        },
+        {
+          "startUid": "u0143",
+          "endUid": "u0143",
+          "quote": "DM: Make a perception check.\n\n"
+        },
+        {
+          "startUid": "u0145",
+          "endUid": "u0147",
+          "quote": "DM: Nobody has triggered the the pit trap yet, but you can definitely hear sounds of movement echoing up the canyon. It's a little bit hard to tell because of the way the canyon is shaping the way sound echoes how far away, it is, but something is definitely coming.\n\n"
+        },
+        {
+          "startUid": "u0148",
+          "endUid": "u0148",
+          "quote": "DM: Coming but, but you probably you know your guess would be you have it, you know minimum of 20–30 minutes, possibly as many as a few hours and you'll certainly be warned before anything arrives because they'll have to somehow navigate the the pit.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0384",
+        "endUid": "u0399"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby’s racial memory shows a halfling patriarch traveling with five wagons, on a road he places between Karawa and Bas Udda.",
+      "evidence": [
+        {
+          "startUid": "u0384",
+          "endUid": "u0399",
+          "quote": "DM: 17 okay um you— Hmm so you actually do briefly sort of recognize the halfling. And as you slip into into a memory as you kind of stare at this at this figure— You kind of you kind of fade back and and you don't get a ton of ton of detail, um. But you see—as you sort of fall backwards it's hard to tell how long ago, you are this memory is. But you see a caravan traveling a pretty well armed and defended caravan traveling, five wagons. A whole extended clan of halflings. And they seem to be crossing terrain sort of like this, like you know, probably somewhere on the road between Karawa and Bas Udda based on your your experience traveling these roads, you can place them. And all you really see is is, you see this figure um sitting on the lead, wagon sort of the lead the Patriarch of this trading family as they head south on the road to probably stop for some goods Bas Udda before cutting west to go to Askandi or or somewhere along the mountains. But that's all you got.\n\n"
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0486",
+        "endUid": "u0491"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo goes to the tent to speak to Cintra, who asks for a few more minutes with Jumi.",
+      "evidence": [
+        {
+          "startUid": "u0486",
+          "endUid": "u0486",
+          "quote": "DM: So while everybody's looking at magic items, you can go into the tent.\n\n"
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0487",
+          "quote": "Kenzo: Well, I just I poked my head and just to see.\n\n"
+        },
+        {
+          "startUid": "u0488",
+          "endUid": "u0488",
+          "quote": "DM: Okay, she is she kind of holds her like Jumi looks like she's almost asleep and she's like rubbing her back and she's kind of whispers to you give me five minutes.\n\n"
+        },
+        {
+          "startUid": "u0489",
+          "endUid": "u0491",
+          "quote": "Kenzo: Sends us— No rush. We got all the 15 minutes in the world.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0598",
+        "endUid": "u0620"
+      },
+      "actors": [
+        "party",
+        "Cintra"
+      ],
+      "reading": "The party prepares the canyon choke point; Cintra stays between the defenders and Jumi’s tent.",
+      "evidence": [
+        {
+          "startUid": "u0598",
+          "endUid": "u0600",
+          "quote": "DM: So this here is the entrance to the slot canyon I just kind of drew the pit trap on here in a crude drawing so the pit trap is like right where it begins to open up into the end your alarm is just on this side of the pit trap.\n\n"
+        },
+        {
+          "startUid": "u0620",
+          "endUid": "u0620",
+          "quote": "DM: So Cintra at the moment is not is just moving forward to sort of stay here in range of being able to see both things but she's prepared to dash back if needed so so position yourselves, where you want.\n\n"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1554",
+        "endUid": "u1557"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo drags the subdued archer back as the party returns to the wellspring.",
+      "evidence": [
+        {
+          "startUid": "u1554",
+          "endUid": "u1557",
+          "quote": "DM: Okay, so Kenzo quickly subdues the last Archer disarming him and dragging him forward as you return to the peaceful quiet now of the wellspring.\n\n"
+        }
+      ],
+      "from": "p03",
+      "to": "p01",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1846",
+        "endUid": "u1855"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby climbs the stairs and checks the enemy encampment; he finds no further enemies or tracks leading away.",
+      "evidence": [
+        {
+          "startUid": "u1846",
+          "endUid": "u1847",
+          "quote": "Wellby: Oh, it strikes me, I want to run back up to the top of the stairs and see if anyone went off in another direction of the—\n\n"
+        },
+        {
+          "startUid": "u1848",
+          "endUid": "u1850",
+          "quote": "DM: People we know ah yeah make make a survival check. There are you don't see any obvious tracks, leaving the encampment heading away from the encampment. If there is somebody who went off somewhere, they would have they must have done so very sneakily.\n\n"
+        },
+        {
+          "startUid": "u1851",
+          "endUid": "u1851",
+          "quote": "Wellby: Oh, so we knew the count of who was there?\n\n"
+        },
+        {
+          "startUid": "u1852",
+          "endUid": "u1852",
+          "quote": "DM: Oh yeah yeah.\n\n"
+        },
+        {
+          "startUid": "u1853",
+          "endUid": "u1853",
+          "quote": "Unknown: Yeah.\n\n"
+        },
+        {
+          "startUid": "u1854",
+          "endUid": "u1855",
+          "quote": "DM: Yes, you killed everybody. You can count the bodies you—\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1858",
+        "endUid": "u1866"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo runs away from camp to test the message stone, then returns.",
+      "evidence": [
+        {
+          "startUid": "u1858",
+          "endUid": "u1859",
+          "quote": "Kenzo: You remember how Samerki and Agata had like fucking like walkie-talkies.\n\n"
+        },
+        {
+          "startUid": "u1860",
+          "endUid": "u1860",
+          "quote": "Seeker: We found hers yeah that's in the pile.\n\n"
+        },
+        {
+          "startUid": "u1861",
+          "endUid": "u1861",
+          "quote": "Kenzo: That's in the pile.\n\n"
+        },
+        {
+          "startUid": "u1862",
+          "endUid": "u1862",
+          "quote": "Seeker: Yep yep.\n\n"
+        },
+        {
+          "startUid": "u1863",
+          "endUid": "u1863",
+          "quote": "Kenzo: So as to what are what are they they're just like—\n\n"
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1864",
+          "quote": "DM: Stone.\n\n"
+        },
+        {
+          "startUid": "u1865",
+          "endUid": "u1865",
+          "quote": "Delwath: Two paired stones, should we try and use them?\n\n"
+        },
+        {
+          "startUid": "u1866",
+          "endUid": "u1866",
+          "quote": "Kenzo: Yeah we should.\n\n"
+        },
+        {
+          "startUid": "u1947",
+          "endUid": "u1948",
+          "quote": "Kenzo: And he brings it back to Camp but this, this is a very, this is a valuable tool for us. We're often in situations where it seems we can't communicate with each other.\n\n"
+        },
+        {
+          "startUid": "u1881",
+          "endUid": "u1881",
+          "quote": "Kenzo: Kenzo, Kenzo takes one and starts running.\n\n"
+        },
+        {
+          "startUid": "u1882",
+          "endUid": "u1882",
+          "quote": "Unknown: Just like—\n\n"
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1883",
+          "quote": "Delwath: The other one.\n\n"
+        },
+        {
+          "startUid": "u1884",
+          "endUid": "u1886",
+          "quote": "Kenzo: Like monk out like kind of running jumping you know looking like a fucking parkour like and gets gets pretty far away. And then—\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "A short excursion away from the camp; no named destination is established."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2068",
+        "endUid": "u2069"
+      },
+      "actors": [
+        "party",
+        "Cintra",
+        "Jumi"
+      ],
+      "reading": "The party escorts Cintra and Jumi back toward Karawa, reaching the mesa above town after slower travel with the child.",
+      "evidence": [
+        {
+          "startUid": "u2061",
+          "endUid": "u2063",
+          "quote": "DM: 140 it's only like 40 miles, you can I mean he took all your food but Cintra can summon food for you so.\n\n"
+        },
+        {
+          "startUid": "u2064",
+          "endUid": "u2064",
+          "quote": "Kenzo: Longish day of hiking.\n\n"
+        },
+        {
+          "startUid": "u2065",
+          "endUid": "u2065",
+          "quote": "DM: Yeah basically you've got a you know, a day and a half of hiking.\n\n"
+        },
+        {
+          "startUid": "u2068",
+          "endUid": "u2069",
+          "quote": "DM: So you gather up all the magic set off a day and a half of hiking.\n\n"
+        },
+        {
+          "startUid": "u2112",
+          "endUid": "u2112",
+          "quote": "DM: You camp on eventually um it's a little bit slower going then you're used to with a three year old, who spends a lot of time riding on the floating disk.\n\n"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Seeker: Nice Nice.\n\n"
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2115",
+          "quote": "DM: But you managed but Cintra is really pushing hard and like constantly encouraging her and kind of luring forward as best you can with little magic tricks and like bright lights and stuff that appear 50 feet in front of her and they play little games of like you know pong passing things back and forth as illusions and stuff with each other.\n\n"
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2116",
+          "quote": "Seeker: Awesome.\n\n"
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2118",
+          "quote": "DM: And you managed to you pass it uneventful night. Next morning, you can identify something else, if you want um.\n\n"
+        },
+        {
+          "startUid": "u2257",
+          "endUid": "u2263",
+          "quote": "DM: So you come to Karawa. Standing now on the on the Mesa looking down over the town quiet without much sign of activity now at the you know just after lunch, the hottest part of the day, most people sort of hiding in the shade. And as you approach Cintra like grabs a grabs Jumi's hand and sort of hides the stone. She does something to it and it sort of fades from view and she rushes down.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 40,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "approximate journey distance stated before departure"
+      },
+      "route": [
+        {
+          "reading": "Camp during the compressed journey.",
+          "place": "p05"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u2112",
+        "endUid": "u2118"
+      },
+      "actors": [
+        "party",
+        "Cintra",
+        "Jumi"
+      ],
+      "reading": "The traveling group camps while Seeker studies the fly and carries Jumi on the disk.",
+      "evidence": [
+        {
+          "startUid": "u2112",
+          "endUid": "u2112",
+          "quote": "DM: You camp on eventually um it's a little bit slower going then you're used to with a three year old, who spends a lot of time riding on the floating disk.\n\n"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Seeker: Nice Nice.\n\n"
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2115",
+          "quote": "DM: But you managed but Cintra is really pushing hard and like constantly encouraging her and kind of luring forward as best you can with little magic tricks and like bright lights and stuff that appear 50 feet in front of her and they play little games of like you know pong passing things back and forth as illusions and stuff with each other.\n\n"
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2116",
+          "quote": "Seeker: Awesome.\n\n"
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2118",
+          "quote": "DM: And you managed to you pass it uneventful night. Next morning, you can identify something else, if you want um.\n\n"
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2257",
+        "endUid": "u2290"
+      },
+      "actors": [
+        "party",
+        "Cintra",
+        "Jumi"
+      ],
+      "reading": "Cintra conceals the Heart and takes Jumi down quiet paths; the party also descends into Karawa.",
+      "evidence": [
+        {
+          "startUid": "u2264",
+          "endUid": "u2264",
+          "quote": "Seeker: But what fades from for you—\n\n"
+        },
+        {
+          "startUid": "u2265",
+          "endUid": "u2265",
+          "quote": "Delwath: The heart.\n\n"
+        },
+        {
+          "startUid": "u2266",
+          "endUid": "u2266",
+          "quote": "DM: The heart.\n\n"
+        },
+        {
+          "startUid": "u2267",
+          "endUid": "u2272",
+          "quote": "DM: And actually start before she sort of heads down into town she says— Remember, be careful, who you who you— Tell this story to. The power of the heart is weakened for every soul that knows of its existence, but is not an initiate.\n\n"
+        },
+        {
+          "startUid": "u2273",
+          "endUid": "u2275",
+          "quote": "DM: I will, if you do not mind— Go ahead by— Quiet paths and immediately get to work as quickly as possible, restoring the defense's.\n\n"
+        },
+        {
+          "startUid": "u2286",
+          "endUid": "u2288",
+          "quote": "Drikod: Drikod nods. We still don't know why they wanted to weaken the spells. There's the three missing people there may be evidence about.\n\n"
+        },
+        {
+          "startUid": "u2289",
+          "endUid": "u2289",
+          "quote": "DM: So so Cintra goes ahead—\n\n"
+        },
+        {
+          "startUid": "u2290",
+          "endUid": "u2290",
+          "quote": "DM: And you all follow the trails and the paths down into Karawa.\n\n"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "note": "Cintra chooses an unobtrusive path; the party is not asserted to remain beside her through town."
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2693",
+        "endUid": "u2707"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes to Havdar’s camp near the ruined tavern and reunites with Baxter.",
+      "evidence": [
+        {
+          "startUid": "u2693",
+          "endUid": "u2696",
+          "quote": "DM: So Candrosa it goes off he's— He goes to help Cintra. You've got room and board for as long as you want them. At the the mystai then also slowly like in ones and twos start to kind of trickle into the into the temple in the Plaza around— The oasis which is like the town square these days slowly empties out until really the only people left in town, are the centaur camp and and Havdar's camp, which is, by the ruins of Ikram's tavern where we started several months in game ago.\n\n"
+        },
+        {
+          "startUid": "u2697",
+          "endUid": "u2698",
+          "quote": "DM: So, as you walk over to Havdar's camp, you can see, you know it's a quiet day, you can see. You know people kind of sitting around you see so Havdar's like um you know mender, fixer guy, Smith, animal handler is standing with Baxter and your horses I'm like chatting with them—\n\n"
+        },
+        {
+          "startUid": "u2699",
+          "endUid": "u2701",
+          "quote": "DM: Baxter looks up and runs towards Wellby as soon as he appears and he's wearing barding on his back like not the fit not like chainmail not the fanciest but like studded leather basically um. Ah, looks like it gives some some nice protection and there's like a few little— Tweaks like now made this the saddle a little bit stable or easier to ride on and he's got like these, like arrow mounts along the side, so you can like—\n\n"
+        },
+        {
+          "startUid": "u2702",
+          "endUid": "u2702",
+          "quote": "Unknown: Whip an arrow—\n\n"
+        },
+        {
+          "startUid": "u2703",
+          "endUid": "u2703",
+          "quote": "Seeker: Nice.\n\n"
+        },
+        {
+          "startUid": "u2704",
+          "endUid": "u2705",
+          "quote": "Wellby: I tell him, but he was just the best axebeak so proud of him. Like it actually looks good job—\n\n"
+        },
+        {
+          "startUid": "u2706",
+          "endUid": "u2707",
+          "quote": "DM: He's very happy to see you, and now just incessantly follows you around for the rest of the day um but Havdar sees you and and kind of welcomes you over and says, “The rumors have spread fast about your exploits. Great to see you again.”\n\n"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2842",
+        "endUid": "u2852"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party next visits Tharandros in the centaur camp.",
+      "evidence": [
+        {
+          "startUid": "u2839",
+          "endUid": "u2839",
+          "quote": "Delwath: Yeah yeah—\n\n"
+        },
+        {
+          "startUid": "u2840",
+          "endUid": "u2840",
+          "quote": "DM: Now he says goodbye to you.\n\n"
+        },
+        {
+          "startUid": "u2841",
+          "endUid": "u2841",
+          "quote": "Unknown: Yeah—\n\n"
+        },
+        {
+          "startUid": "u2842",
+          "endUid": "u2845",
+          "quote": "DM: You you go meet Tharandros um. He— He greets you with a big smile as well, the news that Agata is dead having clearly reached him. And—\n\n"
+        },
+        {
+          "startUid": "u2846",
+          "endUid": "u2852",
+          "quote": "DM: He says— You bring great joy. We always had a uneasy understanding with her, but nothing she ever did brought anything but misery. And to have her removed lifts a weight off this land. I can feel it already. We are— Sorry go ahead—\n\n"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u3169",
+        "endUid": "u3184"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party uses the mirror after its Karawa conversations. No more precise physical room or camp is established for the viewing.",
+      "evidence": [
+        {
+          "startUid": "u3056",
+          "endUid": "u3058",
+          "quote": "DM: So who wants to so remember the way the mirror works, you can ask one question to try and guide what you see can make a wisdom check to try and control how close to your vision, you get and then you see stuff that may or may not answer your question, depending on how you rolled. That you'll see stuff, no matter what. So if you roll poorly doesn't mean you don't see anything; it just means you might see something totally unrelated to your question.\n\n"
+        },
+        {
+          "startUid": "u3059",
+          "endUid": "u3059",
+          "quote": "Wellby: Inspiration and reroll.\n\n"
+        },
+        {
+          "startUid": "u3060",
+          "endUid": "u3060",
+          "quote": "Kenzo: Yeah Nice.\n\n"
+        },
+        {
+          "startUid": "u3061",
+          "endUid": "u3061",
+          "quote": "Seeker: I will do that yep.\n\n"
+        },
+        {
+          "startUid": "u3062",
+          "endUid": "u3063",
+          "quote": "Delwath: What's our question, though? We trying to see the lair? Are we trying to see.\n\n"
+        },
+        {
+          "startUid": "u3064",
+          "endUid": "u3065",
+          "quote": "DM: The question is really more of trying to guide a time or a place in the history of the object, I want to see so like and it can't be a super specific, but it can be like you know early in its you know early in its creation or—\n\n"
+        },
+        {
+          "startUid": "u3169",
+          "endUid": "u3169",
+          "quote": "DM: You hold up the scepter um concentrating on the story of the last person who wielded they're trying to get the mirror to show you some glimpses of Agata's life.\n\n"
+        },
+        {
+          "startUid": "u3170",
+          "endUid": "u3174",
+          "quote": "DM: And you see. You see, for a moment, you see Agata holding the scepter and kind of like a you know you're looking up from the perspective of the scepter at her face and she just has this look of power and joy on her face as she grabs hold of this and, as she as she is grasping hold of it, she then looks up and you can see, passing past the the scepter a scroll case that she is handing to somebody or something.\n\n"
+        },
+        {
+          "startUid": "u3175",
+          "endUid": "u3175",
+          "quote": "DM: And some words being spoken, but you can't make out what the words are um.\n\n"
+        },
+        {
+          "startUid": "u3176",
+          "endUid": "u3176",
+          "quote": "Delwath: This isn't the scroll case that we saw.\n\n"
+        },
+        {
+          "startUid": "u3177",
+          "endUid": "u3177",
+          "quote": "DM: It is this scroll case that you saw before.\n\n"
+        },
+        {
+          "startUid": "u3178",
+          "endUid": "u3178",
+          "quote": "Unknown: Before.\n\n"
+        },
+        {
+          "startUid": "u3179",
+          "endUid": "u3179",
+          "quote": "Delwath: The one that created the demon summoning stuff right.\n\n"
+        },
+        {
+          "startUid": "u3180",
+          "endUid": "u3180",
+          "quote": "Unknown: Yeah.\n\n"
+        },
+        {
+          "startUid": "u3181",
+          "endUid": "u3181",
+          "quote": "Kenzo: No.\n\n"
+        },
+        {
+          "startUid": "u3182",
+          "endUid": "u3182",
+          "quote": "Unknown: Okay.\n\n"
+        },
+        {
+          "startUid": "u3183",
+          "endUid": "u3184",
+          "quote": "Seeker: Bad. At Raven's Hold you're saying?\n\n"
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u3185",
+        "endUid": "u3193"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The scepter’s mirror vision shows a giant presiding over Kharsan’s destruction.",
+      "evidence": [
+        {
+          "startUid": "u3185",
+          "endUid": "u3193",
+          "quote": "DM: But the mirror and the scepter have other ideas and you feel yourself being pulled further back in time. You see a brief moment of fire and destruction, as you are hanging unused from the belt of some enormous creature stomping through a city that you recognize as Kharsan. A giant swinging a flaming axe destroying buildings and you feel you can almost feel through the through the mirror this deep anger at just sitting unused at the on the belt of some dumb brute.\n\n"
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u3195",
+        "endUid": "u3217"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The vision shows a monumental city square, a Drankorian army and the commander carrying the scepter.",
+      "evidence": [
+        {
+          "startUid": "u3195",
+          "endUid": "u3202",
+          "quote": "DM: And then you are pulled further back in time swirling through darkness until you see an image of a city laid out before you. A vast city: pyramids rising up huge monuments um a massive a massive open square in front of you, and you are standing— You are looking down at this army. Um about 10,000 maybe 5000 people fitting into this square.\n\n"
+        },
+        {
+          "startUid": "u3203",
+          "endUid": "u3206",
+          "quote": "DM: And you are raised up a cloak around your shoulders. Like almost a sort of shimmering almost illusionary cloak of multicolored hues resting on your shoulders the mantle in your hand and the words coming out of your mouth animate the armies below you. And as you, you can't hear the words you just—\n\n"
+        },
+        {
+          "startUid": "u3203",
+          "endUid": "u3206",
+          "quote": "DM: And you are raised up a cloak around your shoulders. Like almost a sort of shimmering almost illusionary cloak of multicolored hues resting on your shoulders the mantle in your hand and the words coming out of your mouth animate the armies below you. And as you, you can't hear the words you just—\n\n"
+        },
+        {
+          "startUid": "u3207",
+          "endUid": "u3207",
+          "quote": "Delwath: See, animate— Oh, I know that I just have to clarify something. Animate like make them happy and animated or animate like they are dead, and this.\n\n"
+        },
+        {
+          "startUid": "u3208",
+          "endUid": "u3210",
+          "quote": "DM: Is no, no, make them happy and animated, and they did like there are cheering and roaring has, as you speak everybody's pumping their spear slamming spears on shields slamming staffs, you see rank after rank after rank of people wearing the helmets that Delwath used to wear that he wore for a time before it disintegrated in the battle with Agata.\n\n"
+        },
+        {
+          "startUid": "u3211",
+          "endUid": "u3211",
+          "quote": "Delwath: [garbled] Drankorian right?\n\n"
+        },
+        {
+          "startUid": "u3212",
+          "endUid": "u3212",
+          "quote": "DM: That was Drankorian.\n\n"
+        },
+        {
+          "startUid": "u3213",
+          "endUid": "u3213",
+          "quote": "Unknown: Yes.\n\n"
+        },
+        {
+          "startUid": "u3214",
+          "endUid": "u3217",
+          "quote": "DM: Um and and you see that like the scepter raised and then um the army's turn and begin to march um you at their head. Marching through rolling fields.\n\n"
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u3218",
+        "endUid": "u3226"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The vision shows the scepter being constructed atop a black tower on a perfectly circular island.",
+      "evidence": [
+        {
+          "startUid": "u3218",
+          "endUid": "u3223",
+          "quote": "DM: And then you swirl even further back in time. And you see a figure a probably Drankorian as far as you can tell from their features um. A sharp eyes dark hair looks looks looks sort of like like like Denethor in the in the Lord of the Rings movies, like that sort of old but sort of powerful and maybe not super wise.\n\n"
+        },
+        {
+          "startUid": "u3224",
+          "endUid": "u3226",
+          "quote": "DM: And he is— He is holding the scepter and it looks like completely newly created. He is at the top of a tower a black tower standing on a circular island, nothing else around at the only things stretching out of the out of the sea, the waves crashing around this perfectly circular island [garbled] this person standing on the top of this black tower—is that—and then the mirror of fades to black.\n\n"
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "observerPlace": "p07"
+    }
+  ]
+}

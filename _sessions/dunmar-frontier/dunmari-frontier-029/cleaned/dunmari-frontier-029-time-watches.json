@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-time-markers.json",
+    "sha256": "263ef3c203ad0ae0207dd4b439d62637e6cbce2d2e16477fded88d395304c034"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md",
+    "sha256": "d76ef21497dc9e26eab6ea86b6ca229eb40645c7e9a8c441113f19dfc75810bc"
+  },
+  "dateAssessment": "Working calendar: session YAML, DR 1748-05-29 through 1748-06-01. The time extraction is compatible rather than matched: two nights are explicit, while the slowed return journey is compressed. Departure is placed on May 30; the travel camp can fall within May 30–June 1. Arrival and the sunset close use June 1 from YAML. Historical visions have separate undated clocks; the initiation conversation is a journey flashback, not additional travel.",
+  "watches": [
+    {
+      "day": "May 29, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset opening; ritual, sorting, short rest and nighttime stone testing precede the overnight rest.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-05-29",
+      "endDate": "1748-05-29"
+    },
+    {
+      "day": "Undated halfling memory",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Wellby briefly enters an undated caravan memory, then returns to the figurine investigation.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "local",
+      "scope": "Wellby’s historical memory"
+    },
+    {
+      "day": "May 29–30, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "An eight-hour long rest ends at about 5 a.m.; its conventional duration implies a dusk start.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-05-29",
+      "endDate": "1748-05-30"
+    },
+    {
+      "day": "May 30, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "The party sets out after waking and breakfast; day-and-a-half travel is an initial estimate.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-05-30",
+      "endDate": "1748-05-30",
+      "sourceRanges": [
+        [
+          "u2033",
+          "u2036"
+        ]
+      ]
+    },
+    {
+      "day": "During May 30–June 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "An uneventful camp night ends the next morning during the slower, compressed return journey.",
+      "markers": [
+        "t13"
+      ],
+      "dateWindow": [
+        "1748-05-30",
+        "1748-06-01"
+      ]
+    },
+    {
+      "day": "During May 30–June 1, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The initiation choices are played retrospectively during the journey; no watch is specified.",
+      "markers": [
+        "t15"
+      ],
+      "dateWindow": [
+        "1748-05-30",
+        "1748-06-01"
+      ],
+      "scope": "Journey flashback"
+    },
+    {
+      "day": "June 1, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Just after lunch, the party reaches Karawa; Candrosa’s conversation resumes after the journey flashback.",
+      "markers": [
+        "t14",
+        "t16"
+      ],
+      "startDate": "1748-06-01",
+      "endDate": "1748-06-01"
+    },
+    {
+      "day": "Undated scepter history",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The mirror moves backward through the trade, Kharsan, an army and the scepter’s creation.",
+      "markers": [
+        "t17",
+        "t18",
+        "t19",
+        "t20"
+      ],
+      "clock": "local",
+      "scope": "Historical mirror visions"
+    },
+    {
+      "day": "June 1, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Discussion resumes after the mirror vision, before the sunset close; no separate clock is given.",
+      "markers": [
+        "t21"
+      ],
+      "startDate": "1748-06-01",
+      "endDate": "1748-06-01"
+    },
+    {
+      "day": "June 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The sun sets as the party heads to bed; the new night has not elapsed.",
+      "markers": [
+        "t22"
+      ],
+      "startDate": "1748-06-01",
+      "endDate": "1748-06-01"
+    }
+  ]
+}
