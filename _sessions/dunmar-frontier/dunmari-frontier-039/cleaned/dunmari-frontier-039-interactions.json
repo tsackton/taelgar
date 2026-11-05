@@ -1,0 +1,2132 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-entity-map.json",
+      "sha256": "cbb01be8828ca5a7265d067d07282feeea144155f34131560752d480ed5203f7"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The Moon and its conflicting origin stories",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0014"
+      },
+      "lines": [
+        "%% u0001:0-158, u0002:0-125, u0003:0-213, u0004:0-278, u0005:0-143, u0006:0-163, u0007:0-267, u0008:0-72, u0009:0-142, u0010:0-61, u0011:0-14, u0012:0-16, u0013:0-47, u0014:0-127 %%",
+        "DM: So, as you drift to sleep in the comfortable beds at the inn recovering from a long day of fighting werewolves, the full moon climbs higher in the night sky. Infused with the light of the divine spark, the moon is fully awake now, though hardly aware in any normal sense of the word. And yet, as it grows brighter, it can feel the threads of the divine that tie the world below to the spiritual realms and it pulls, yearning for more, for a deeper connection to the warmth and the glow of divinity. The realms of the gods as well as the realms of demons and devils and the primordial forces of the world draw closer. As the moon reaches for these realms, it creates the planar tides, the ebb and flow of the strength of connection between these realms and the world of Taelgar. The moon does not remember its past, although it has heard the stories, of course, the conflicting tales and prayers and legends of its origin. Is it a great evil cast out in the earliest days of creation by Arhat and Malik, cursed to forget in its great tomb struggling awake for only a few days each month, some tales claim? Or perhaps a great hero of the Age of Myth, born and living and dying during the long breath before time began, rescued from death by Arhat and Malik, given an honored place in the sky, but unable to be fully restored? Perhaps some tales would say this. Or some say a hero and the villain, both granted the gift of forgetting. The moon hears these tales and more washing over them, and yet they find they don't care to know the truth, even in these moments of lucidity. As the moon begins to drift lower in the sky towards setting. ((Waking and rest reminder))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [],
+        "after": [
+          "Delwath: So I think we're going to—how exactly are we planning on scouting for werewolves?",
+          "DM: I was wondering that.",
+          "Wellby: I think we should go back to the entrance point and see if there are fresh tracks. You know people who would have gone in because the city side of things would have been pretty disrupted, but the secret passage outside the wall side I don't think there would have been anything to give it away.",
+          "Kenzo: A reason. I'm not a werewolf, right?",
+          "Riswynn: Yeah I know we went through the ritual for you. And didn't somebody look at your soul? Was that—that was…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Wellby reports the scepter speaking",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0060",
+        "endUid": "u0087"
+      },
+      "lines": [
+        "%% u0060:0-18, u0061:0-60 %%",
+        "Wellby: Question, Delwath. When you were carrying the scepter, did it ever talk to you?",
+        "",
+        "%% u0062:0-3 %%",
+        "Delwath: No.",
+        "",
+        "%% u0063:0-35 %%",
+        "Seeker: What, is it talking to you, Wellby?",
+        "",
+        "%% u0064:0-22 %%",
+        "Wellby: Yeah I mean it's yeah.",
+        "",
+        "%% u0065:0-17 %%",
+        "Kenzo: Yeah the scepter.",
+        "",
+        "%% u0066:0-85 %%",
+        "Wellby: No I'm not going to and I told it to go away, but uh this is just a little troubling.",
+        "",
+        "%% u0067:0-14 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u0068:0-48 %%",
+        "Wellby: I think it was telling me to take it and use it.",
+        "",
+        "%% u0069:0-4 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u0070:0-9 %%",
+        "Seeker: For what?",
+        "",
+        "%% u0071:0-51 %%",
+        "Wellby: I don't know I don't really trust, it is the thing.",
+        "",
+        "%% u0072:0-35 %%",
+        "Seeker: Well I'd be happy to hold on to it.",
+        "",
+        "%% u0073:0-20 %%",
+        "Wellby: Is very kind of you.",
+        "",
+        "%% u0074:0-97, u0075:0-46 %%",
+        "Kenzo: I like I like that you don't trust it and that you've ignored it, Wellby, are you tempted at all? That's a longer pause than I'd be looking for.",
+        "",
+        "%% u0076:0-57, u0077:0-23, u0078:0-26, u0079:0-37, u0080:0-59, u0081:0-13 %%",
+        "Wellby: Well, the thing is I'm, I'm not tempted to use it. I'm not interested in using it. But I am curious about it. I mean I'm curious to know its story, where it's been, what it's done. Not so curious I'm going to attune to it.",
+        "",
+        "%% u0082:0-15, u0083:0-157 %%",
+        "Seeker: It may be that many of the events swirling about the countryside revolve around this one thing or may not. We really don't know, but we should try to find out more about it.",
+        "",
+        "%% u0084:0-36 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u0085:0-149, u0086:0-117, u0087:0-37 %%",
+        "Kenzo: No that's actually an interesting thing I wonder if well since we're here at Tokra with the archives, maybe we can learn some more about its history in greater detail, although maybe if we start asking around about it, {{maybe they'll they'll the darkness will be}}. Because nobody knows that we have it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Somehow yeah safety near the near the sound of those hammers.",
+          "Seeker: Or, Tim, or could it be something other than dwarves forging beneath here or is that only dwarves?",
+          "DM: I mean there was all sorts of rumors of all sorts of things. But it certainly sounds dwarvish to you.",
+          "Unknown: Right.",
+          "Kenzo: Anyways we can investigate this a little more later, but just you know side note I may transform kill you at some point."
+        ],
+        "after": [
+          "Seeker: Could could Seeker spend, spend the morning in the archives and just.",
+          "Kenzo: Any.",
+          "Seeker: Investigation or would it require like talking to the staff there?",
+          "DM: You can.",
+          "Wellby: I tend to think, though, that we should check for fresh tracks."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Kassi’s research on Rai",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0107",
+        "endUid": "u0114"
+      },
+      "lines": [
+        "%% u0107:0-164 %%",
+        "Kenzo: I should say they're also getting back to us with some research right we like ask them a bunch of questions about stuff and then they are taking a few days to like.",
+        "",
+        "%% u0108:0-72 %%",
+        "DM: That was yeah that well that was Kassi in the in the monastery archives.",
+        "",
+        "%% u0109:0-6 %%",
+        "Kenzo: Oh OK.",
+        "",
+        "%% u0110:0-34, u0111:0-66, u0112:0-3, u0113:0-25, u0114:0-21 %%",
+        "DM: OK, asked her about Rai and about—right, various things like that. She, she said she needed a few days. So there tomorrow, probably more likely tomorrow.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Well, he may know something more about this map.",
+          "Delwath: He talked about.",
+          "DM: Right, yeah. He—as far as I know, you left all the papers with him. Delwath spent a few hours translating them but didn't really understand—spend the time to understand them.",
+          "Kenzo: And",
+          "Delwath: I think we say good."
+        ],
+        "after": [
+          "Delwath: I think we should take the map before going outdoors.",
+          "DM: Can somebody— One person investigation check, one person perception, you can choose who's doing, each one as you approach the lair.",
+          "Wellby: I'll do perception.",
+          "Seeker: I'll investigate. Not so good.",
+          "DM: Sorry, I didn't see your perception, so you know as you get there it's—it's still dark, but the moon is bright and you have your Driftglobe for extra light. And you can see the, you know, obviously everything's broken and ruined, right? Um. There are no fresh signs of disturbance and, in fact, as you approach, you can see—you can see torch light like a like a small fire light inside the first room and you see as you approach the glint of two Palace temple guards sitting there struggling to keep their eyes open but armed and armored ready for for combat. They sort of—one of them kind of looks up briefly as you approach recognizing you from your descriptions and from the fact that they clearly sent them—told them some at least of your story—looks up kind of groggy and says, \"Yes, we've been watching as per orders. Haven't seen anything so far, nothing out of the ordinary. Quiet night.\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Govir’s unwilling transformation",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0179",
+        "endUid": "u0180"
+      },
+      "lines": [
+        "%% u0179:0-58, u0180:0-106 %%",
+        "Delwath: Yes, indeed, but more than that, like Govir was certainly transformed into a werewolf but unwillingly, whereas the ones we fought switched back and forth as needed.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Right.",
+          "Delwath: Who've now gone back to ground and are hiding in an attempt to wait out the the attention.",
+          "Seeker: People infected don't necessarily know.",
+          "Delwath: It's interesting, some some of them seemed to be under control of it and others were not.",
+          "Kenzo: [garbled] pre-symptomatic or asymptomatic period for this lycanthropy."
+        ],
+        "after": [
+          "Seeker: At their own.",
+          "Delwath: Discretion. Well, yes.",
+          "Seeker: And is that something completely different, perhaps?",
+          "Delwath: What's what's the difference between one and the other for.",
+          "Seeker: Well, we should have asked them, but we killed them."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The retained Pandemonium scroll",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0272",
+        "endUid": "u0284"
+      },
+      "lines": [
+        "%% u0272:0-52, u0273:0-92 %%",
+        "Delwath: Yes, yes, we meant to take, I meant to take the map. And the—should we—we never gave anybody the scroll of making Pandemonium crash into Taelgar.",
+        "",
+        "%% u0274:0-18, u0275:0-26 %%",
+        "DM: No, you kept that I assume you kept that as.",
+        "",
+        "%% u0276:0-19 %%",
+        "Seeker: Well, which scroll?",
+        "",
+        "%% u0277:0-58, u0278:0-8 %%",
+        "Delwath: There's the scroll that would bring Pandemonium closer to Taelgar.",
+        "",
+        "%% u0279:0-117 %%",
+        "DM: Scroll on something to bring the plane of Pandemonium closer to Tokra, is what it's listed as in your party treasure.",
+        "",
+        "%% u0280:0-22 %%",
+        "Seeker: And it's like a spell?",
+        "",
+        "%% u0281:0-49 %%",
+        "DM: Yeah Maybe you can only use it at very high tide.",
+        "",
+        "%% u0282:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u0283:0-3, u0284:0-92 %%",
+        "((Incidental discussion))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Spear points. These two guards had silver spears yes.",
+          "Delwath: Um, silver silver works well.",
+          "Seeker: Classic. Okay, so there's a general awareness of that.",
+          "Kenzo: Well.",
+          "DM: Alerted yeah that are you getting the map, are you."
+        ],
+        "after": [
+          "Delwath: Check, yes, I mean I.",
+          "Unknown: Guess.",
+          "Wellby: What when we spoke when I think we should run over to the entrance to the secret tunnel, though just check there.",
+          "Riswynn: That's where I thought we were going, but we came to the other entrance instead.",
+          "DM: So that's about 800 feet out of town roughly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Ila’s map and the Nayan dating correction",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0336",
+        "endUid": "u0345"
+      },
+      "lines": [
+        "%% u0336:0-10, u0337:0-33, u0338:0-42, u0339:0-106, u0340:0-175 %%",
+        "DM: Have just—just to clarify the map was made—was made by—so there was a there was this sheaf of papers you found in the archives that were letters from Commander Ila to the Samraat Nayan Yarad. And the map was—you learned of the map, because one of those letters said, basically, there was one approach that seems safe that I've carefully mapped and given to my troops.",
+        "",
+        "%% u0341:0-27 %%",
+        "Delwath: So it's it was old Dunmari.",
+        "",
+        "%% u0342:0-16, u0343:0-26, u0344:0-24, u0345:0-32 %%",
+        "DM: But this is not—this is not pre Great War. Okay, but Nayan dynasty is founded after the Great War.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right, it was a it was a Dunmari map from before the Great War.",
+          "Kenzo: This is another good object, do we have do we have a list of objects to show them? You're part of the thing we do right. You got Ross at the top of.",
+          "Unknown: Holland.",
+          "Wellby: The scroll case is good.",
+          "Kenzo: Yeah the scroll case is probably top—top choice right now. Scroll case found in werewolf lair."
+        ],
+        "after": [
+          "Delwath: So it's hundred years ago.",
+          "DM: Something. You don't know the exact time. So you head down into the tunnels as the sun is just beginning to creep above the horizon and in the—takes you know not very long. You travel through these tunnels and emerge, just as the sun is beginning to rise over the horizon. Maybe five six miles south of the—of the Pandemonium ruins. Ah, the plains the the terrain around Tokra seems quiet at this at this early, early dawn just you know the occasional sound of like metal clanging and you know people starting about their day drifting, especially from the cluster of buildings around Darshana's caravanserai on the on the western outskirts of town. Outside the walls.",
+          "You—the, the place where you emerge is this sort of hollow on the side of a long sloping hill that leads up to this old Dunmari fort a handful of miles in the distance. And you, you know kind of make your way around the trap and the and the, cave-in that you left here in the beginning, you know when you entered and emerged into the sunlight. Having tracked the the trail before, Wellby, you are able to pick it up again without too much trouble, leading north towards this fort. So you begin to travel and you can see, after couple miles, maybe three miles, maybe close to an hour's journey as the sun starts to get a bit higher in the sky. The—just the top of this hill, not—not much detail to be resolved. It's still two or three miles away, but you can see the sort of height of the land that you're heading for and there seems to be—it almost seems like it's in in shadow, even though there's no clouds in the sky. Is just it's like faint and misty somehow.",
+          "Continue for another two, three miles, another hour, maybe the sun rises higher in the sky until you're maybe a little less than a mile maybe half a mile south of the summit of this hill and you can see now here the—the one lone tower that still stands from this Fort stretches about maybe three stories and then otherwise somewhat featureless flat top to this land, but you can now see from this distance, you can you know, even though it's even though it's, you know, still some distance away, with the angle of the sun, you can see it catching on what seems like a cloud or a fog bank just kind of sitting on part of this hill.",
+          "Seeker: There were two towers."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Saka’s whereabouts and the monks’ mission",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0454",
+        "endUid": "u0467"
+      },
+      "lines": [
+        "%% u0454:0-43 %%",
+        "Kenzo: And then, where do we think Saka, Saka the.",
+        "",
+        "%% u0455:0-37 %%",
+        "DM: Monk is somewhere North up the river.",
+        "",
+        "%% u0456:0-15 %%",
+        "Delwath: Somewhere like.",
+        "",
+        "%% u0457:0-5 %%",
+        "DM: Here.",
+        "",
+        "%% u0458:0-35 %%",
+        "Delwath: Right nobody's at this Tower right?",
+        "",
+        "%% u0459:0-34 %%",
+        "DM: Correct well not that you know of.",
+        "",
+        "%% u0460:0-36 %%",
+        "Delwath: Everybody's at this Tower over here.",
+        "",
+        "%% u0461:0-25 %%",
+        "DM: This tower, is where the.",
+        "",
+        "%% u0462:0-6 %%",
+        "Unknown: Monks.",
+        "",
+        "%% u0463:0-34 %%",
+        "Seeker: And for what reason we don't know.",
+        "",
+        "%% u0464:0-19, u0465:0-39 %%",
+        "Delwath: Dreams, dreams said: \"End of universe. Go to tower to prevent.\"",
+        "",
+        "%% u0466:0-14 %%",
+        "Seeker: Was all about.",
+        "",
+        "%% u0467:0-60 %%",
+        "Delwath: It. We should go ask them. Doesn't seem so far out of our way.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: All right, let's form a form a tight little Group and make our way up there. I vote against Wellby rushing in.",
+          "Kenzo: In Roll20 are y'all but but can you point out where we are right, nothing just a little.",
+          "Wellby: A little yeah.",
+          "Kenzo: We're that's.",
+          "Delwath: Yeah yeah."
+        ],
+        "after": [
+          "Seeker: Maybe they're on a side quest.",
+          "Delwath: Maybe they think maybe they're fighting werewolves right now, as we speak, last night at the tower.",
+          "Kenzo: Alright.",
+          "Riswynn: Why would werewolves care about that tower? It's far from the Pandemonium entrance.",
+          "Kenzo: Well yeah where's the Pandemonium entrance again? We mark that on the red X. That's all that is there? Okay, all right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The prophecy and thirteen spears",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0490",
+        "endUid": "u0496"
+      },
+      "lines": [
+        "%% u0490:0-121 %%",
+        "Delwath: Jinnik's curse will overtake the land if thirteen werewolves lay down their lives or do something creepy on the August 1.",
+        "",
+        "%% u0491:0-30, u0492:0-17, u0493:0-5, u0494:0-63 %%",
+        "Seeker: And they need those 13 spears. They need the 13 yeah. And then, if they need this scroll that we have, but maybe not.",
+        "",
+        "%% u0495:0-42, u0496:0-316 %%",
+        "Delwath: So clear in the—it's in the session notes. It was, \"When the sixth moon rises in the betrayer's sky, when the deepest echo of madness is nigh, an ancient cave of Mad One's soul, thirteen brethren, thirteen prayers, thirteen cold iron spears prepared will bring forth the howl of empty despair and Jinnik's curse will claim the land.\" But basically get a summon.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: More practically I think we're just trying to make sure that there isn't any recent activity. We're hoping that the map as we get closer will light up with glowing letters tell us how to get there safely.",
+          "Seeker: Also, we want to definitively prevent this prophecy from coming true.",
+          "Delwath: Because that would be bad.",
+          "Seeker: And we've killed some werewolves, but it is entirely possible that there are more right?",
+          "Kenzo: The most promising."
+        ],
+        "after": [
+          "Kenzo: Yeah but we kill them all, [garbled]",
+          "Delwath: Killed the 13 of them.",
+          "Kenzo: Right.",
+          "Delwath: If there were 26 though we haven't killed all.",
+          "Kenzo: Werewolves."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Clairvoyance reveals the muttering captive",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0531",
+        "endUid": "u0579"
+      },
+      "lines": [
+        "%% u0531:0-62, u0532:0-104, u0533:0-135, u0534:0-27, u0535:0-65, u0536:0-32, u0537:0-21, u0538:0-8, u0539:0-37, u0540:0-8, u0541:0-80, u0542:0-29, u0543:0-146, u0544:0-109, u0545:0-59, u0546:0-259, u0547:0-17 %%",
+        "DM: So your eye appears in the top of the Tower looking down, yeah. You can see—you immediately can tell that actually there is like a makeshift roof above the eye because it is dark—well, it is, it is darkish in here. There's cracks in the wall and there's a big open window so there's some light coming in.",
+        "",
+        "And there are three people camped in the sort of open ruined space at the base of the Tower. One is sleeping on a straw pile. The other is sitting, kind of his back up against the stone and is holding like a longer stick and seems to be like kicking or poking the third one who is tied, tied, tied with a rope, like a long rope that is anchored into the wall and he's scurrying around on all fours. Looks like he was just awoken by the second one, and he is like looking around almost almost like an animal and like scurrying around and then kind of rushes over to a—looks like a pretty rancid hind, hind limbs of an antelope, sitting there long enough that they started to bloat a little bit and just starts like ripping into and eating it and kind of looking up around and sort of giggling a little bit and seems to be like constantly whispering and muttering, as he moves about this circle camp area.",
+        "",
+        "%% u0548:0-44 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u0549:0-120, u0550:0-164, u0551:0-28, u0552:0-5, u0553:0-117, u0554:0-26, u0555:0-10, u0556:0-44, u0557:0-17, u0558:0-61 %%",
+        "DM: This goes on for a few minutes, the muttering sometimes—while you can't hear anything, you can just see his mouth moving. And then, so other things, you see, as you look around and there's there's also a you know, a small bone pile like it seems like there's you know this camp has been occupied for some amount of time. And there are two straw piles, one somebody's sleeping on, the other, somebody—you know, this person is whacking this other person with a stick. There are a couple of long bundles wrapped in leather. And curled up in—sort of piled up in one corner looks like a long rope ladder.",
+        "",
+        "%% u0559:0-12, u0560:0-6, u0561:0-31, u0562:0-50, u0563:0-62 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u0564:0-17, u0565:0-62 %%",
+        "DM: Two sort of long bundles of something wrapped in like tight waterproof leather.",
+        "",
+        "%% u0566:0-23 %%",
+        "Delwath: Like spear-length, yes?",
+        "",
+        "%% u0567:0-27 %%",
+        "DM: Yeah It could be that long.",
+        "",
+        "%% u0568:0-27, u0569:0-3 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u0570:0-26, u0571:0-46 %%",
+        "Seeker: Switch briefly to hearing. see if I can catch any scraps of conversation.",
+        "",
+        "%% u0572:0-17, u0573:0-79, u0574:0-40, u0575:0-9, u0576:0-90, u0577:0-200, u0578:0-22, u0579:0-16 %%",
+        "DM: That there's not—there's not that much. It's not really a conversation, you can hear the sort of the whispers. Neither of the two sort of you know, other people are talking. One is sleeping and the other one is just kind of sitting there kind of watching, but the the one who is tied up, you can you can hear the mutters kind of some of them rise and some of them lower and occasionally you'll hear \"Too soon, too soon, too soon, too soon,\" or \"Not enough, not enough. Not yet, not yet.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yes, clairvoyance seems wise right like if there are like any monsters standing on top of it, or like emerging out of the fissure that'd be good to know in advance right?",
+          "Seeker: Assuming that it could see through the fog right?",
+          "Delwath: There's there's nothing that lets it see through the fog per se.",
+          "Riswynn: But if clairvoyance sees any interesting stuff in the fort that we might want to go get because we think it would help us to understand the map, or the plot or anything. Like maybe they left some relevant gear goodies.",
+          "Seeker: Hmm all right I'm gonna put an eye into the Tower just to end this quick question. Um, so I sit cross legged on the ground, draw a glowing eye in the air and cast."
+        ],
+        "after": [
+          "Seeker: So I sensed the desire to do a kind of ambush.",
+          "Riswynn: We can intentionally not kill everybody this time.",
+          "Unknown: I'm.",
+          "Seeker: Like hippie.",
+          "Unknown: For instance."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Surrender, the sacrifice, and the woman’s fear",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u1022"
+      },
+      "lines": [
+        "%% u0862:0-22, u0863:0-277, u0864:0-53, u0865:0-6, u0866:0-16, u0867:0-17 %%",
+        "DM: ((Movement and turn order)) he's grabbed a sword but he's looking a little bit dubious just kind of looking around seeing you cast the spell he will yell, um, \"Who are you? What are you doing here?\" as he begins to shift into a werewolf. ((Movement and turn order))",
+        "",
+        "%% u0868:0-37, u0869:0-3, u0870:0-34, u0871:0-30, u0872:0-27, u0873:0-15 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u0874:0-27 %%",
+        "Delwath: Yell, \"We killed your master.\"",
+        "",
+        "%% u0875:0-15, u0876:0-43 %%",
+        "Kenzo: Oh that's good. That's a good thing to yell. \"Surrender now.\"",
+        "",
+        "%% u0877:0-62 %%",
+        "Delwath: We can cure you if you surrender. Otherwise be prepared to die.",
+        "",
+        "%% u0878:0-61 %%",
+        "Kenzo: Let's say those things. Any reaction from him when we when we.",
+        "",
+        "%% u0879:0-4 %%",
+        "Unknown: Say.",
+        "",
+        "%% u0880:0-27, u0881:0-5, u0882:0-52, u0883:0-7, u0884:0-81, u0885:0-9, u0886:0-64, u0887:0-27, u0888:0-5, u0889:0-66, u0890:0-41, u0891:0-17, u0892:0-17, u0893:0-27, u0894:0-42, u0895:0-28 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u0896:0-3, u0897:0-19, u0898:0-42, u0899:0-3, u0900:0-94, u0901:0-138 %%",
+        "DM: Ah don't you find out. He looks—as he's shifting, he looks around. He looks kind of looks back over his shoulder. He looks at his companion, who is restrained looks kind of shaken not entirely sure he completely believes you but definitely like doesn't immediately rush forward and attack at this point.",
+        "",
+        "%% u0902:0-34, u0903:0-38, u0904:0-91, u0905:0-84, u0906:0-58, u0907:0-86, u0908:0-32, u0909:0-78, u0910:0-5, u0911:0-55, u0912:0-5, u0913:0-40, u0914:0-32, u0915:0-29, u0916:0-34, u0917:0-132, u0918:0-4, u0919:0-5, u0920:0-8, u0921:0-34, u0922:0-12, u0923:0-8, u0924:0-3, u0925:0-6, u0926:0-50, u0927:0-34, u0928:0-3, u0929:0-53, u0930:0-105, u0931:0-20, u0932:0-30, u0933:0-3, u0934:0-35, u0935:0-10, u0936:0-5, u0937:0-34, u0938:0-12, u0939:0-97 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u0940:0-63, u0941:0-35, u0942:0-10, u0943:0-57 %%",
+        "Delwath: I'll go up about here. I'll go—I'll go right up to him, why not, and point my sword at him and I'll tell them, \"Your master and 12 of your allies are dead. Surrender now.\"",
+        "",
+        "%% u0944:0-3, u0945:0-6, u0946:0-27, u0947:0-57, u0948:0-68, u0949:0-43, u0950:0-29 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u0951:0-42, u0952:0-46, u0953:0-57, u0954:0-38 %%",
+        "DM: He's like clearly on the edge of breaking. ((Combat effects and turn order)) He's sort of looking around confused and uncertain about what he wants to do. ((Combat effects and turn order))",
+        "",
+        "%% u0955:0-47, u0956:0-62, u0957:0-31, u0958:0-33, u0959:0-52, u0960:0-37, u0961:0-75 %%",
+        "Wellby: ((Tactical discussion)) \"Every other one of them is dead. 13 of them are dead. You have no one left there. Surrender. We went through them like a knife through butter. We'll do the same to you.\"",
+        "",
+        "%% u0962:0-54, u0963:0-47, u0964:0-4, u0965:0-4 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u0966:0-51, u0967:0-8, u0968:0-63, u0969:0-87, u0970:0-46, u0971:0-5, u0972:0-62, u0973:0-45, u0974:0-65, u0975:0-11 %%",
+        "DM: ((Incidental phrasing)) You can see and Kenzo, you can immediately sense, like the dawning realization that he finally, believes you and just kind of cracks. Like shoulders slump kind of looking around and as as this happens, you can you can hear the muttering from this from this one in the back is like just getting louder and louder and louder.",
+        "",
+        "%% u0976:0-65 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u0977:0-18, u0978:0-60, u0979:0-221, u0980:0-141, u0981:0-3 %%",
+        "DM: \"Too soon, too soon. It's not time, not time yet, not time. Not enough, not enough. But he'll still come he'll still come and if if they are dead, even though he is weak so we're not ready, not prepared.\" And then he draws this—this creature, this mad creature in the back draws the silver dagger out of his—out of the sheath and you can you can smell his flesh burning as he just stabs the dagger into his chest and blood begins to pour out of him. As.",
+        "",
+        "%% u0982:0-21, u0983:0-26, u0984:0-27, u0985:0-47, u0986:0-3 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u0987:0-54, u0988:0-139, u0989:0-13, u0990:0-20, u0991:0-49, u0992:0-11 %%",
+        "DM: And whispers, \"Are coming, they're coming, they're coming. If all is lost, maybe all is not lost, you will hear the whispers, then you will see, you will help you will fix it when the time is right.\" And he looks, as he falls forward, in a moment of kind of triumph, and also despair as he dies.",
+        "",
+        "%% u0993:0-21, u0994:0-55, u0995:0-23, u0996:0-19, u0997:0-5, u0998:0-4, u0999:0-40, u1000:0-18, u1001:0-113, u1002:0-5, u1003:0-92, u1004:0-31, u1005:0-5, u1006:0-20 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u1007:0-10, u1008:0-8, u1009:0-12, u1010:0-13, u1011:0-161, u1012:0-24 %%",
+        "Riswynn: ((Verbal scaffolding and movement)) \"Can you explain what your what your companion had to say in his last moments? Can you tell us more? We can heal you. We can help you get back to a different life.\" ((Verbal scaffolding and movement))",
+        "",
+        "%% u1013:0-3, u1014:0-32, u1015:0-7, u1016:0-123, u1017:0-21, u1018:0-10, u1019:0-92, u1020:0-40, u1021:0-14, u1022:0-69 %%",
+        "DM: Ah. So this one here, who is who is who is restrained is just kind of struggling against the quicksand and kind of looking around both in horror and awe at what this what this person did. It's like kind of looks looks almost terrified like she wants to run doesn't doesn't speak just looks basically like, \"What—what have you done? I'm not ready.\" And it's just kind of looking around in fear not, not so much at you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Bottom left okay.",
+          "DM: It should be giving me a status here, but for some reason don't have my scripts working. There we go. And Seeker's concentrating. Also, is not working.",
+          "Seeker: Why does it—it doesn't check off my spell slots reliably. Does not work.",
+          "DM: But the other two are—are—the other two seem to struggle free for as the as the floor turns to—the floor turns to mud and earth and then quickly solidifies around this one's feet. This one, who is next is going to.",
+          "Unknown: Spell."
+        ],
+        "after": [
+          "Riswynn: Oh she's not ready.",
+          "Kenzo: For the ritual.",
+          "Delwath: Or Jinnik to eat her or whatever terrible things that has happened.",
+          "DM: Ah, she is going to spend her action trying to break free of the quicksand which fails. And that will bring us back to Seeker.",
+          "Seeker: A."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The manifestations are destroyed and Riswynn escapes",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1032",
+        "endUid": "u1908"
+      },
+      "lines": [
+        "%% u1032:0-4, u1033:0-16 %%",
+        "DM: The where the blood.",
+        "",
+        "%% u1034:0-8 %%",
+        "Seeker: On this.",
+        "",
+        "%% u1035:0-21, u1036:0-48, u1037:0-62 %%",
+        "DM: Creature spilled out, it's like teeth and mouths are starting to form in the middle of this pool of quicksand as the blood congeals.",
+        "",
+        "%% u1038:0-7 %%",
+        "Seeker: Oh God.",
+        "",
+        "%% u1039:0-9, u1040:0-39, u1041:0-7, u1042:0-9 %%",
+        "DM: And like tentacles are starting to reach out of out of his body.",
+        "",
+        "%% u1043:0-24, u1044:0-22, u1045:0-87, u1046:0-28, u1047:0-15, u1048:0-116, u1049:0-32, u1050:0-5, u1051:0-42, u1052:0-56, u1053:0-25, u1054:0-30, u1055:0-14, u1056:0-26, u1057:0-78, u1058:0-39, u1059:0-48, u1060:0-30, u1061:0-15, u1062:0-47, u1063:0-50, u1064:0-113, u1065:0-30, u1066:0-18, u1067:0-8, u1068:0-49, u1069:0-25, u1070:0-33, u1071:0-5, u1072:0-4, u1073:0-79, u1074:0-92, u1075:0-197, u1076:0-27, u1077:0-49, u1078:0-6, u1079:0-65, u1080:0-13, u1081:0-10, u1082:0-14, u1083:0-19, u1084:0-48, u1085:0-25, u1086:0-44, u1087:0-21, u1088:0-28, u1089:0-11, u1090:0-42, u1091:0-6, u1092:0-24, u1093:0-5, u1094:0-19, u1095:0-20, u1096:0-35, u1097:0-10, u1098:0-9, u1099:0-73, u1100:0-21, u1101:0-32, u1102:0-58, u1103:0-57, u1104:0-47, u1105:0-16, u1106:0-33, u1107:0-5, u1108:0-69, u1109:0-29, u1110:0-10, u1111:0-24, u1112:0-42, u1113:0-135, u1114:0-5, u1115:0-67, u1116:0-163, u1117:0-64, u1118:0-137, u1119:0-21, u1120:0-23, u1121:0-65, u1122:0-7, u1123:0-14, u1124:0-23, u1125:0-10, u1126:0-72, u1127:0-68, u1128:0-31, u1129:0-40, u1130:0-20, u1131:0-4, u1132:0-57, u1133:0-34, u1134:0-48, u1135:0-18, u1136:0-59, u1137:0-3, u1138:0-3, u1139:0-13, u1140:0-49, u1141:0-31, u1142:0-58, u1143:0-8, u1144:0-73, u1145:0-16, u1146:0-9, u1147:0-14, u1148:0-4, u1149:0-14, u1150:0-6, u1151:0-27, u1152:0-44, u1153:0-33, u1154:0-5, u1155:0-12, u1156:0-13, u1157:0-4, u1158:0-32, u1159:0-14, u1160:0-21, u1161:0-40, u1162:0-5, u1163:0-3, u1164:0-13, u1165:0-25, u1166:0-47, u1167:0-40, u1168:0-103, u1169:0-140, u1170:0-3, u1171:0-56, u1172:0-3, u1173:0-48, u1174:0-35, u1175:0-58, u1176:0-39, u1177:0-17, u1178:0-6, u1179:0-16, u1180:0-10, u1181:0-35, u1182:0-7, u1183:0-39, u1184:0-71, u1185:0-49, u1186:0-7, u1187:0-74, u1188:0-21, u1189:0-3, u1190:0-4, u1191:0-10, u1192:0-3, u1193:0-9, u1194:0-5 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u1195:0-37 %%",
+        "DM: Floating out of the mists behind you.",
+        "",
+        "%% u1196:0-10, u1197:0-43, u1198:0-19 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u1199:0-80 %%",
+        "DM: It's a tall large shadowy creature, it seems to almost be forming and reforming.",
+        "",
+        "%% u1200:0-3, u1201:0-17, u1202:0-130, u1203:0-16, u1204:0-61, u1205:0-10, u1206:0-48, u1207:0-17, u1208:0-4, u1209:0-47, u1210:0-5, u1211:0-96, u1212:0-16, u1213:0-108, u1214:0-28, u1215:0-29, u1216:0-3, u1217:0-96, u1218:0-43, u1219:0-34, u1220:0-91, u1221:0-20, u1222:0-12, u1223:0-33, u1224:0-22, u1225:0-31, u1226:0-46, u1227:0-10, u1228:0-29, u1229:0-5, u1230:0-51, u1231:0-8, u1232:0-34, u1233:0-61, u1234:0-11, u1235:0-29, u1236:0-8, u1237:0-5, u1238:0-43, u1239:0-22, u1240:0-117, u1241:0-43, u1242:0-36, u1243:0-29, u1244:0-7, u1245:0-14, u1246:0-37, u1247:0-8, u1248:0-5, u1249:0-151, u1250:0-50, u1251:0-31, u1252:0-23, u1253:0-20, u1254:0-3, u1255:0-17, u1256:0-27, u1257:0-23, u1258:0-10, u1259:0-25, u1260:0-53, u1261:0-20, u1262:0-88, u1263:0-30, u1264:0-15, u1265:0-38, u1266:0-95, u1267:0-10, u1268:0-23, u1269:0-61, u1270:0-3, u1271:0-8, u1272:0-39, u1273:0-31, u1274:0-37, u1275:0-45, u1276:0-29, u1277:0-30, u1278:0-129, u1279:0-75, u1280:0-21, u1281:0-16, u1282:0-26, u1283:0-67, u1284:0-3, u1285:0-42, u1286:0-26, u1287:0-34, u1288:0-10, u1289:0-49, u1290:0-195, u1291:0-158, u1292:0-16, u1293:0-65, u1294:0-42, u1295:0-54, u1296:0-65, u1297:0-17, u1298:0-62, u1299:0-22, u1300:0-167, u1301:0-180, u1302:0-39, u1303:0-51, u1304:0-11, u1305:0-11, u1306:0-146, u1307:0-70, u1308:0-3, u1309:0-59, u1310:0-15, u1311:0-65, u1312:0-8, u1313:0-71, u1314:0-66, u1315:0-78, u1316:0-34, u1317:0-46, u1318:0-26, u1319:0-140, u1320:0-107, u1321:0-35, u1322:0-5, u1323:0-7, u1324:0-14, u1325:0-199, u1326:0-84, u1327:0-66, u1328:0-74, u1329:0-79, u1330:0-97, u1331:0-8, u1332:0-14, u1333:0-16, u1334:0-40, u1335:0-22, u1336:0-28, u1337:0-26, u1338:0-35, u1339:0-5, u1340:0-50, u1341:0-71, u1342:0-13, u1343:0-57, u1344:0-5, u1345:0-70, u1346:0-57, u1347:0-98, u1348:0-10, u1349:0-42, u1350:0-3, u1351:0-17, u1352:0-3, u1353:0-3, u1354:0-43, u1355:0-14, u1356:0-7, u1357:0-34, u1358:0-53, u1359:0-29, u1360:0-54, u1361:0-27, u1362:0-95, u1363:0-29, u1364:0-85, u1365:0-18, u1366:0-39, u1367:0-37, u1368:0-44, u1369:0-40, u1370:0-17, u1371:0-25, u1372:0-19, u1373:0-12, u1374:0-6, u1375:0-35, u1376:0-15, u1377:0-9, u1378:0-3, u1379:0-66, u1380:0-51, u1381:0-17, u1382:0-94, u1383:0-9, u1384:0-48, u1385:0-17, u1386:0-50, u1387:0-5, u1388:0-56, u1389:0-100, u1390:0-78, u1391:0-102, u1392:0-63, u1393:0-84, u1394:0-7, u1395:0-39, u1396:0-10, u1397:0-8, u1398:0-54, u1399:0-6, u1400:0-27, u1401:0-20, u1402:0-10, u1403:0-163, u1404:0-103, u1405:0-5, u1406:0-9, u1407:0-27, u1408:0-5, u1409:0-17, u1410:0-8, u1411:0-73, u1412:0-3, u1413:0-43, u1414:0-6, u1415:0-7, u1416:0-15, u1417:0-57, u1418:0-120, u1419:0-101, u1420:0-65, u1421:0-73, u1422:0-77, u1423:0-24, u1424:0-7, u1425:0-17, u1426:0-26, u1427:0-35, u1428:0-72, u1429:0-19, u1430:0-3, u1431:0-65, u1432:0-45, u1433:0-6, u1434:0-257, u1435:0-55, u1436:0-18, u1437:0-6, u1438:0-18, u1439:0-78, u1440:0-11, u1441:0-39, u1442:0-27, u1443:0-27, u1444:0-21, u1445:0-8, u1446:0-17, u1447:0-32, u1448:0-15, u1449:0-5, u1450:0-23, u1451:0-30, u1452:0-7, u1453:0-58, u1454:0-107, u1455:0-24, u1456:0-12, u1457:0-16, u1458:0-5 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u1459:0-165, u1460:0-155, u1461:0-43 %%",
+        "DM: Alright, so that the thing you your sense is it never really completely formed like it was, like all these mouths just kept growing and with this last punch it just disintegrates into the slime that sort of spreads out across the ground. ((Saving throw adjudication))",
+        "",
+        "%% u1462:0-43, u1463:0-11, u1464:0-38, u1465:0-28, u1466:0-3, u1467:0-75, u1468:0-18, u1469:0-27, u1470:0-55, u1471:0-14, u1472:0-60, u1473:0-13, u1474:0-5, u1475:0-16, u1476:0-4, u1477:0-8, u1478:0-18, u1479:0-12, u1480:0-11, u1481:0-20, u1482:0-8, u1483:0-15, u1484:0-14, u1485:0-30, u1486:0-28, u1487:0-49, u1488:0-58, u1489:0-61, u1490:0-45, u1491:0-8, u1492:0-7, u1493:0-54, u1494:0-44, u1495:0-22, u1496:0-6, u1497:0-3, u1498:0-3, u1499:0-42, u1500:0-3, u1501:0-9, u1502:0-8, u1503:0-3, u1504:0-68, u1505:0-8, u1506:0-84, u1507:0-6, u1508:0-12, u1509:0-23, u1510:0-27, u1511:0-101, u1512:0-18, u1513:0-40, u1514:0-48, u1515:0-62, u1516:0-13, u1517:0-97, u1518:0-13, u1519:0-6, u1520:0-19, u1521:0-19, u1522:0-8, u1523:0-123, u1524:0-70, u1525:0-66, u1526:0-8, u1527:0-87, u1528:0-6, u1529:0-42, u1530:0-87, u1531:0-163, u1532:0-26, u1533:0-17, u1534:0-27, u1535:0-22, u1536:0-19, u1537:0-13, u1538:0-43, u1539:0-8, u1540:0-13, u1541:0-3, u1542:0-12, u1543:0-83, u1544:0-21, u1545:0-26, u1546:0-34, u1547:0-75, u1548:0-5, u1549:0-8, u1550:0-46, u1551:0-55, u1552:0-3, u1553:0-36, u1554:0-10, u1555:0-36, u1556:0-57, u1557:0-105, u1558:0-39, u1559:0-8, u1560:0-104, u1561:0-38, u1562:0-21, u1563:0-39, u1564:0-64, u1565:0-52, u1566:0-33, u1567:0-4, u1568:0-46, u1569:0-83, u1570:0-123, u1571:0-15, u1572:0-8, u1573:0-49, u1574:0-44, u1575:0-16, u1576:0-69, u1577:0-29, u1578:0-24, u1579:0-47, u1580:0-98, u1581:0-5, u1582:0-68, u1583:0-20, u1584:0-10, u1585:0-44, u1586:0-39, u1587:0-37, u1588:0-8, u1589:0-24, u1590:0-5, u1591:0-25, u1592:0-91, u1593:0-15, u1594:0-45, u1595:0-6, u1596:0-3, u1597:0-28, u1598:0-58, u1599:0-36, u1600:0-21, u1601:0-22, u1602:0-42, u1603:0-6, u1604:0-14, u1605:0-21, u1606:0-24, u1607:0-12, u1608:0-18, u1609:0-3, u1610:0-19, u1611:0-62, u1612:0-21, u1613:0-21, u1614:0-3, u1615:0-88, u1616:0-12, u1617:0-15, u1618:0-6, u1619:0-12, u1620:0-17, u1621:0-5, u1622:0-20, u1623:0-57, u1624:0-17, u1625:0-84, u1626:0-37, u1627:0-13, u1628:0-92, u1629:0-20, u1630:0-44, u1631:0-32, u1632:0-52, u1633:0-18, u1634:0-27, u1635:0-24, u1636:0-10, u1637:0-12, u1638:0-5, u1639:0-33, u1640:0-13, u1641:0-4, u1642:0-103, u1643:0-71, u1644:0-14, u1645:0-41, u1646:0-6, u1647:0-20, u1648:0-110, u1649:0-20, u1650:0-41, u1651:0-24, u1652:0-46, u1653:0-23, u1654:0-19, u1655:0-5, u1656:0-11, u1657:0-37, u1658:0-34, u1659:0-20, u1660:0-18, u1661:0-10, u1662:0-11, u1663:0-17, u1664:0-4, u1665:0-66, u1666:0-186, u1667:0-8, u1668:0-26, u1669:0-146, u1670:0-87, u1671:0-3, u1672:0-91, u1673:0-3, u1674:0-64, u1675:0-14, u1676:0-21, u1677:0-4, u1678:0-9, u1679:0-13, u1680:0-40, u1681:0-6, u1682:0-9, u1683:0-32, u1684:0-27, u1685:0-33, u1686:0-5, u1687:0-3, u1688:0-17, u1689:0-40, u1690:0-189, u1691:0-5, u1692:0-10, u1693:0-11, u1694:0-76, u1695:0-27, u1696:0-186, u1697:0-40, u1698:0-11, u1699:0-17, u1700:0-9, u1701:0-97, u1702:0-14, u1703:0-20, u1704:0-57, u1705:0-85, u1706:0-30, u1707:0-53, u1708:0-32, u1709:0-21, u1710:0-54, u1711:0-43, u1712:0-21, u1713:0-35, u1714:0-58, u1715:0-8, u1716:0-13, u1717:0-34, u1718:0-13, u1719:0-70, u1720:0-5, u1721:0-20, u1722:0-49, u1723:0-50, u1724:0-25, u1725:0-46, u1726:0-60, u1727:0-39, u1728:0-4, u1729:0-24, u1730:0-6, u1731:0-12, u1732:0-25, u1733:0-27, u1734:0-37, u1735:0-51, u1736:0-27, u1737:0-8, u1738:0-25, u1739:0-20, u1740:0-10, u1741:0-14, u1742:0-36, u1743:0-64, u1744:0-134, u1745:0-4, u1746:0-5, u1747:0-27, u1748:0-7, u1749:0-30, u1750:0-3, u1751:0-7, u1752:0-120, u1753:0-174, u1754:0-34, u1755:0-12, u1756:0-180, u1757:0-6, u1758:0-20, u1759:0-42, u1760:0-3, u1761:0-44, u1762:0-24, u1763:0-118, u1764:0-16, u1765:0-79, u1766:0-57, u1767:0-50, u1768:0-41, u1769:0-81, u1770:0-32, u1771:0-20, u1772:0-53, u1773:0-110, u1774:0-63, u1775:0-37, u1776:0-5, u1777:0-45, u1778:0-76, u1779:0-17, u1780:0-20, u1781:0-3, u1782:0-30, u1783:0-6, u1784:0-11, u1785:0-10, u1786:0-15, u1787:0-19, u1788:0-22, u1789:0-28, u1790:0-57, u1791:0-18, u1792:0-10, u1793:0-3, u1794:0-7, u1795:0-28, u1796:0-42, u1797:0-24, u1798:0-3, u1799:0-10, u1800:0-22, u1801:0-47, u1802:0-64, u1803:0-81, u1804:0-36, u1805:0-39, u1806:0-18, u1807:0-21, u1808:0-17, u1809:0-12, u1810:0-74, u1811:0-17, u1812:0-76, u1813:0-34, u1814:0-29, u1815:0-47, u1816:0-12, u1817:0-28, u1818:0-34, u1819:0-5, u1820:0-32, u1821:0-25, u1822:0-18, u1823:0-25, u1824:0-30, u1825:0-10, u1826:0-39, u1827:0-90, u1828:0-71, u1829:0-68, u1830:0-29, u1831:0-30, u1832:0-5, u1833:0-24, u1834:0-76, u1835:0-15, u1836:0-27, u1837:0-41, u1838:0-15, u1839:0-4, u1840:0-23, u1841:0-5, u1842:0-40, u1843:0-27, u1844:0-45, u1845:0-38, u1846:0-12, u1847:0-23, u1848:0-29 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u1849:0-5, u1850:0-28, u1851:0-267, u1852:0-17, u1853:0-19, u1854:0-35, u1855:0-56 %%",
+        "DM: ((Attack mechanics)) as that strikes this creature it begins to just dissipate into just blend into the mist. It sort of fades away into nothingness. Nice just vanished into the into the mists around you. Riswynn, however, is still running deeper into the mist.",
+        "",
+        "%% u1856:0-11, u1857:0-43, u1858:0-15, u1859:0-15, u1860:0-32, u1861:0-61, u1862:0-12, u1863:0-19, u1864:0-23, u1865:0-62, u1866:0-13, u1867:0-10, u1868:0-49, u1869:0-35, u1870:0-28, u1871:0-18, u1872:0-27, u1873:0-21, u1874:0-3, u1875:0-40, u1876:0-4, u1877:0-14, u1878:0-11, u1879:0-33, u1880:0-59, u1881:0-5, u1882:0-24, u1883:0-47, u1884:0-21, u1885:0-53, u1886:0-49, u1887:0-16, u1888:0-32, u1889:0-68, u1890:0-15, u1891:0-11, u1892:0-124, u1893:0-42, u1894:0-2, u1895:0-4, u1896:0-13, u1897:0-14, u1898:0-10, u1899:0-3, u1900:0-44, u1901:0-38, u1902:0-5, u1903:0-35, u1904:0-19 %%",
+        "((Combat mechanics and routine attacks))",
+        "",
+        "%% u1905:0-20, u1906:0-71, u1907:0-119, u1908:0-143 %%",
+        "DM: ((Inspiration reminder)) You sort of shake your head and the rope pulling you short reminds you like you sort of come to come to yourself, again, and this like noise, the song that was calling you into the mist and—or you can still hear it, but its compulsion on you ends and you grab the rope and you sort of are able to pull yourself back out of the mists.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: For the ritual.",
+          "Delwath: Or Jinnik to eat her or whatever terrible things that has happened.",
+          "DM: Ah, she is going to spend her action trying to break free of the quicksand which fails. And that will bring us back to Seeker.",
+          "Seeker: A.",
+          "Unknown: Nice, you can see."
+        ],
+        "after": [
+          "Seeker: That's like twice in one day getting out of a fog.",
+          "DM: No, the other time was yesterday was last night.",
+          "Seeker: Well yeah.",
+          "Riswynn: Daily activity.",
+          "Delwath: The other time it wasn't really her fault, she was stuck in the fog she just followed Wellby foolishly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Seven inscribed spears and a longer ladder",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1927",
+        "endUid": "u1930"
+      },
+      "lines": [
+        "%% u1927:0-104, u1928:0-22, u1929:0-140 %%",
+        "DM: There are seven additional spears carved with the words \"Mad One, come to us. Let Jinnik's howl be heard,\" in these canvas wraps. The rope ladder is at least 50 feet long, longer than your other rope ladder and has spikes at the top, so you can anchor it into dirt Earth.",
+        "",
+        "%% u1930:0-53 %%",
+        "Kenzo: I'm going to take definitely taken that rope ladders.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: And drag the body over to the camp.",
+          "Delwath: Let's search the camp and interrogate.",
+          "Seeker: Yeah we're going to unwrap those.",
+          "DM: Yes, so there's not much.",
+          "Seeker: Here's a camp, except that."
+        ],
+        "after": [
+          "Delwath: Rope he's getting an upgrade.",
+          "Kenzo: You need to study how to do animate more than one.",
+          "Seeker: I know right It would be amazing.",
+          "DM: Ah, that is a fifth level spell called animate Objects. Let's do that. Cool, so [garbled]. So ah. What do you do?",
+          "Seeker: Trying to add a rope ladder to me."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The woman considers a cure",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1954",
+        "endUid": "u1976"
+      },
+      "lines": [
+        "%% u1954:0-58, u1955:0-105 %%",
+        "DM: There's only one conscious and she is definitely like I'm intrigued by the idea. ((Persuasion check))",
+        "",
+        "%% u1956:0-21, u1957:0-11, u1958:0-63, u1959:0-24 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u1960:0-14, u1961:0-146, u1962:0-7, u1963:0-20, u1964:0-39, u1965:0-3, u1966:0-13, u1967:0-35, u1968:0-106 %%",
+        "DM: She is she is she definitely believes you that, like this cult has ended, and this scene in front of her was not quite what she was sold as the outcome of this ritual. So she is intrigued. ((Captive guarding)) You need something some items some trinket or memory from her past life if you are going to do this, which she definitely does not have here.",
+        "",
+        "%% u1969:0-6 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u1970:0-10, u1971:0-20 %%",
+        "DM: But she's open to the idea of.",
+        "",
+        "%% u1972:0-42, u1973:0-22 %%",
+        "Riswynn: It so we have to go back to the like main werewolf lair in town?",
+        "",
+        "%% u1974:0-4, u1975:0-81, u1976:0-84 %%",
+        "DM: Yes. Presumably, if she is from the lair you could find something there that would be. Although she has been a werewolf for a long enough time it might be quite difficult.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: All right, they willing and interested in.",
+          "Delwath: Little yeah.",
+          "Riswynn: Just ritual.",
+          "DM: Ah. The the.",
+          "Kenzo: Well there's only one conscious right now."
+        ],
+        "after": [
+          "Kenzo: I mean, should we should we roleplay the interrogation for a bit?",
+          "Unknown: Sure.",
+          "Delwath: I mean. If she seems open to the idea of not being a werewolf I think we should take the approach of, \"Well, okay, and we think that's great. Can you help us understand what was going on here?\" Because…",
+          "Kenzo: Hence let's role play this moment with.",
+          "Riswynn: You finish your sentence."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The woman’s recruitment and the failed ritual",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1987",
+        "endUid": "u2072"
+      },
+      "lines": [
+        "%% u1987:0-24, u1988:0-10, u1989:0-37, u1990:0-13, u1991:0-27 %%",
+        "Delwath: Offer her some food and drink and you know, like water and and ask her if she could tell us when she came here.",
+        "",
+        "%% u1992:0-19 %%",
+        "Unknown: What she was doing.",
+        "",
+        "%% u1993:0-66, u1994:0-14, u1995:0-15, u1996:0-71, u1997:0-14 %%",
+        "DM: She she eats a little bit and drinks and and kind of looks around. \"We keep watch on the mad one.\" Looks down at the pool of blood and guts on the ground in front of her. \"It's gone now.\"",
+        "",
+        "%% u1998:0-28 %%",
+        "Delwath: How long have you been here?",
+        "",
+        "%% u1999:0-5, u2000:0-20, u2001:0-20 %%",
+        "DM: Week. Two of us in shifts. Week here then back.",
+        "",
+        "%% u2002:0-3 %%",
+        "Unknown: To.",
+        "",
+        "%% u2003:0-14 %%",
+        "DM: Back to Tokra.",
+        "",
+        "%% u2004:0-43 %%",
+        "Kenzo: How many are you how many are there of you?",
+        "",
+        "%% u2005:0-8, u2006:0-32, u2007:0-23, u2008:0-28, u2009:0-12 %%",
+        "DM: I think 15 in total, 16 with the mad one. Are you sure that this magic you speak of can work? Reassure me.",
+        "",
+        "%% u2010:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u2011:0-50 %%",
+        "Delwath: You can remember something of your past life, yes.",
+        "",
+        "%% u2012:0-29 %%",
+        "DM: It was only a few months ago.",
+        "",
+        "%% u2013:0-19 %%",
+        "Delwath: Where did you live?",
+        "",
+        "%% u2014:0-21, u2015:0-21, u2016:0-13, u2017:0-45 %%",
+        "DM: Here outside of town, in the refugee camps, by the river. Came, came from the East, with so many others.",
+        "",
+        "%% u2018:0-23 %%",
+        "Wellby: How were you recruited?",
+        "",
+        "%% u2019:0-37, u2020:0-13, u2021:0-17, u2022:0-75, u2023:0-18, u2024:0-20, u2025:0-25, u2026:0-58, u2027:0-23, u2028:0-21, u2029:0-27, u2030:0-25, u2031:0-18, u2032:0-31, u2033:0-55 %%",
+        "DM: \"I wouldn't say I had a choice. I just—was I—when I was attacked and bandaged myself up and then a month later, they came and found me and said—I had been having horrible nightmares.\" Shakes a little. \"They're still here. And they said it could not be cured, and all I could only hope was to—was to join them and Jinnik could give me power. I didn't know what to do and followed them. After seeing what I had become, what polite society would have me if there was no cure?\"",
+        "",
+        "%% u2034:0-14, u2035:0-25, u2036:0-9 %%",
+        "Delwath: The other one. Was he a refugee as well? You know.",
+        "",
+        "%% u2037:0-14, u2038:0-32, u2039:0-34, u2040:0-15, u2041:0-15, u2042:0-12, u2043:0-12, u2044:0-30, u2045:0-14, u2046:0-35, u2047:0-84 %%",
+        "DM: I think I was one of only two recent converts. There was another man named Umber. But no, he was—he was the one. The one who infected me had sway over me while he was near, he could influence me control me somehow, if—if he were conscious and looking at me now I don't think I could be speaking to you.",
+        "",
+        "%% u2048:0-10, u2049:0-24 %%",
+        "Delwath: He seemed nervous, as well as all.",
+        "",
+        "%% u2050:0-27, u2051:0-10, u2052:0-25, u2053:0-15, u2054:0-60, u2055:0-15 %%",
+        "DM: If you've killed everybody, then, our—the year long project of the fraternity—more than a year, decades long project is over, maybe he was shaking—shaken.",
+        "",
+        "%% u2056:0-76 %%",
+        "Delwath: What do you know of the Fraternity and this project, what did they tell you?",
+        "",
+        "%% u2057:0-71, u2058:0-22, u2059:0-11, u2060:0-33, u2061:0-5, u2062:0-109, u2063:0-62 %%",
+        "DM: \"That it would bring power to the werewolves, that we would grow strong. We could live forever. Spread our—spread ourselves across the land. Said Jinnik's Avatar would bless us if we could get into that place.\" And she glances over her shoulder at the mist. \"I'm not so sure he would have not just eaten all of our minds.\"",
+        "",
+        "%% u2064:0-23, u2065:0-72 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2066:0-36, u2067:0-33, u2068:0-23, u2069:0-13, u2070:0-56, u2071:0-29, u2072:0-36 %%",
+        "DM: \"He was prepared to be the sacrifice. The mad one to bring the mad one. I think if you had not told him the others were dead he might not have acted so drastically. It is cold. Does anybody else…\" Just kind of shivering a little bit.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean. If she seems open to the idea of not being a werewolf I think we should take the approach of, \"Well, okay, and we think that's great. Can you help us understand what was going on here?\" Because…",
+          "Kenzo: Hence let's role play this moment with.",
+          "Riswynn: You finish your sentence.",
+          "Delwath: Yeah I mean Delwath will sit down with her, and we have any yeah we have some, wait.",
+          "DM: Yeah you're planning on a week journey, [garbled]"
+        ],
+        "after": [
+          "Wellby: Let's continue this conversation away from the mists.",
+          "Kenzo: That sounds wise. You want to search the tower?",
+          "DM: You did.",
+          "Delwath: It was just.",
+          "Unknown: It just the spears."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Keep her away from the man who infected her",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2080",
+        "endUid": "u2094"
+      },
+      "lines": [
+        "%% u2080:0-28 %%",
+        "Delwath: And the unconscious what do.",
+        "",
+        "%% u2081:0-36 %%",
+        "DM: Yeah what are you gonna do with him?",
+        "",
+        "%% u2082:0-10 %%",
+        "Delwath: Bring him.",
+        "",
+        "%% u2083:0-10, u2084:0-65, u2085:0-7 %%",
+        "Riswynn: Bring him. Two prisoners and a bunch of spears to town or do we need to get you up?",
+        "",
+        "%% u2086:0-27, u2087:0-31, u2088:0-18 %%",
+        "DM: She looks nervous. She says, \"If you bring him, make sure he stays unconscious.\"",
+        "",
+        "%% u2089:0-42 %%",
+        "Kenzo: Like bind him and all that stuff you know.",
+        "",
+        "%% u2090:0-3 %%",
+        "Unknown: My.",
+        "",
+        "%% u2091:0-56, u2092:0-20, u2093:0-22 %%",
+        "DM: Mind is clearer now than it's been for some time, if he looks at me I don't know what will happen.",
+        "",
+        "%% u2094:0-17 %%",
+        "Kenzo: We blindfold him.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That sounds wise. You want to search the tower?",
+          "DM: You did.",
+          "Delwath: It was just.",
+          "Unknown: It just the spears.",
+          "Wellby: Let's take the spears with us to destroy."
+        ],
+        "after": [
+          "Unknown: As just gonna sound.",
+          "Delwath: I.",
+          "DM: Mean so side question: did you bring your horses? if you are planning on heading north, I assume, yes.",
+          "Delwath: Yeah yes. Not not we left them probably a little ways back.",
+          "DM: Right oh actually you can't do that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The prisoner rejects the offered alternatives",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2234",
+        "endUid": "u2288"
+      },
+      "lines": [
+        "%% u2234:0-28, u2235:0-24, u2236:0-186 %%",
+        "DM: ((Healing adjudication)) he comes awake, looking blindfolded struggling screaming and then sort of like gritting his teeth and kind of clearly in pain from and unable to do much from the manacles also unable to see and tied up.",
+        "",
+        "%% u2237:0-26 %%",
+        "Kenzo: Still he's still werewolf?",
+        "",
+        "%% u2238:0-52 %%",
+        "DM: No he's just back into human form as he comes awake.",
+        "",
+        "%% u2239:0-20 %%",
+        "Kenzo: What's he look like?",
+        "",
+        "%% u2240:0-57, u2241:0-93 %%",
+        "DM: He's like sort of older man sort of nondescript features. Broken nose looks sort of travel worn a little bit like been around the block a couple times.",
+        "",
+        "%% u2242:0-16 %%",
+        "Kenzo: Your plans fail.",
+        "",
+        "%% u2243:0-30 %%",
+        "DM: He just looks at you solemnly.",
+        "",
+        "%% u2244:0-26 %%",
+        "Kenzo: Your fraternity are slain.",
+        "",
+        "%% u2245:0-92, u2246:0-20 %%",
+        "DM: \"Told me that already.\" Spits on the ground in front of you like grits his teeth, a little bit. \"Why am I still here?\"",
+        "",
+        "%% u2247:0-5, u2248:0-46, u2249:0-10 %%",
+        "Kenzo: Well. Maybe you can tell us a little bit more about your goal.",
+        "",
+        "%% u2250:0-17, u2251:0-13, u2252:0-27, u2253:0-24, u2254:0-38, u2255:0-18 %%",
+        "DM: \"Our goal is over. Just want to get away from you monsters. Nothing here for me now.\" Grin—grits his teeth again. \"Let me go. Will not hurt you.\"",
+        "",
+        "%% u2256:0-27 %%",
+        "Delwath: Go that's not gonna happen.",
+        "",
+        "%% u2257:0-33, u2258:0-61, u2259:0-130, u2260:0-69, u2261:0-67, u2262:0-17 %%",
+        "Kenzo: What's likely to happen next, is we'll bring you in submit you to the justice system in Tokra. And they're likely not going to be very fond of the rampaging that you and your brethren have been up to over the past many weeks. I don't know Tokran laws super well but you're probably going to die. They'll almost certainly hang you, until you would be my guess but I could be wrong.",
+        "",
+        "%% u2263:0-16 %%",
+        "DM: Try and hang me.",
+        "",
+        "%% u2264:0-108 %%",
+        "Kenzo: Kill you whatever how How are they have they have their ways of making sure that you, you no longer survive.",
+        "",
+        "%% u2265:0-44 %%",
+        "DM: Are you offering a different fate? Unlock me.",
+        "",
+        "%% u2266:0-53 %%",
+        "Kenzo: You're not really in a position to bargain right now.",
+        "",
+        "%% u2267:0-87 %%",
+        "DM: Not in a position to do anything unless you're offering the something other than death.",
+        "",
+        "%% u2268:0-110 %%",
+        "Kenzo: Well, depends a little a lot on what you know and what you might be able to illuminate to us about your plans.",
+        "",
+        "%% u2269:0-31 %%",
+        "DM: Why should I tell you anything?",
+        "",
+        "%% u2270:0-49, u2271:0-52 %%",
+        "Kenzo: Because otherwise you’re just going to be killed. We might be able to offer you an alternate to death.",
+        "",
+        "%% u2272:0-23 %%",
+        "DM: And what would that be?",
+        "",
+        "%% u2273:0-82, u2274:0-10, u2275:0-2, u2276:0-14 %%",
+        "Kenzo: Good question, we might have to chat a little bit about it, but we could we could offer you a a prison term.",
+        "",
+        "%% u2277:0-16 %%",
+        "DM: That is no life.",
+        "",
+        "%% u2278:0-30 %%",
+        "Kenzo: It's not death either, though.",
+        "",
+        "%% u2279:0-7 %%",
+        "DM: Cannot.",
+        "",
+        "%% u2280:0-22 %%",
+        "Wellby: Heal your lycanthropy.",
+        "",
+        "%% u2281:0-26 %%",
+        "DM: Would like to see you try.",
+        "",
+        "%% u2282:0-44 %%",
+        "Wellby: Would you actually? Cuz I mean we could try.",
+        "",
+        "%% u2283:0-50 %%",
+        "DM: There is nothing of my past life left. I burned my.",
+        "",
+        "%% u2284:0-12 %%",
+        "Kenzo: The problem.",
+        "",
+        "%% u2285:0-35 %%",
+        "Wellby: Where was the home that you burned?",
+        "",
+        "%% u2286:0-9, u2287:0-9, u2288:0-15 %%",
+        "DM: Far away. Not this horrible place.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Give him now or healing spells when.",
+          "Riswynn: It's not it is.",
+          "DM: I mean you can cast multiple spells, but one spell only heals one person.",
+          "Delwath: I feel much better.",
+          "Riswynn: So, like. You actually have something called healing? I have Cure Wounds."
+        ],
+        "after": [
+          "Wellby: What language is he speaking?",
+          "Unknown: Common.",
+          "Kenzo: I'll do.",
+          "DM: How does it start right.",
+          "Kenzo: How old does he look?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The prisoner’s account of Kharsan and Agata’s bargain",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2319",
+        "endUid": "u2417"
+      },
+      "lines": [
+        "%% u2319:0-147 %%",
+        "Seeker: Tell us the story of how you came to be how you came to Tokra how you came to be a werewolf and what it was like working with the other werewolves.",
+        "",
+        "%% u2320:0-20, u2321:0-11, u2322:0-69, u2323:0-41, u2324:0-22, u2325:0-48, u2326:0-102, u2327:0-21, u2328:0-15, u2329:0-84 %%",
+        "DM: ((Spell adjudication)) As Seeker starts talking to him this like tinge of magic in his voice and like his his like face kind of doesn't look friendly, but he kind of looks, I'm, just a little bit calmer, and he sort of looks directly at Seeker sort of ignoring everybody else and, \"It's a long tale, but many years ago, don't—don't really remember how it started.\" So what did—how he came to Tokra was the…",
+        "",
+        "%% u2330:0-91 %%",
+        "Seeker: How he came to Tokra how he came to be a werewolf and what was like working with the other.",
+        "",
+        "%% u2331:0-46, u2332:0-8 %%",
+        "DM: Little I remember actually of our life before Kharsan.",
+        "",
+        "%% u2333:0-8 %%",
+        "Seeker: Kharsan.",
+        "",
+        "%% u2334:0-4, u2335:0-18 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2336:0-16, u2337:0-31, u2338:0-30, u2339:0-59, u2340:0-50, u2341:0-10, u2342:0-12, u2343:0-6, u2344:0-13 %%",
+        "DM: That is where I—those are my earliest memories. Raiding hunting on the desert making a living in the ruined buildings there with my pack. Know if we were happy exactly, but there was food. There was—it was okay. Until 10 years ago.",
+        "",
+        "%% u2345:0-6 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2346:0-15, u2347:0-7, u2348:0-24, u2349:0-22, u2350:0-23, u2351:0-44, u2352:0-8, u2353:0-33, u2354:0-52, u2355:0-45, u2356:0-24, u2357:0-52, u2358:0-15, u2359:0-11, u2360:0-31, u2361:0-70, u2362:0-20, u2363:0-22, u2364:0-185, u2365:0-15, u2366:0-33, u2367:0-39, u2368:0-25, u2369:0-30, u2370:0-123, u2371:0-43, u2372:0-8, u2373:0-24, u2374:0-37, u2375:0-15, u2376:0-43, u2377:0-24, u2378:0-54, u2379:0-63, u2380:0-29, u2381:0-27, u2382:0-6, u2383:0-20, u2384:0-45, u2385:0-89, u2386:0-148, u2387:0-87 %%",
+        "DM: The Fraternity of the Empty Moon came to town. One man in particular. He was powerful. He was convincing. He had a vision for a future not trapped on the outskirts of society, not left to eat what we could kill on the desert plains. A vision of us reclaiming our rightful place. But he needed something. He needed some way to get into Dunmar and he needed something some items some magic to trade with this witch, who could do many things for us, she could help us fulfill our dreams. Said she would even give us advice, maybe. And of course it was brilliant. We had never—nobody had ever come and spoken to us of this great future of Jinnik's realm made flesh across the land, I mean who could resist such a call?",
+        "",
+        "So we searched. We had a lot of junk accumulated. There was one thing in particular that you know, he found to be the thing that would sell her. Took us—it was, maybe, five, six years after he came. I remember my brother came home with this one night, it was a scepter, silver and jeweled seemed very strong very magical. And he said, \"This is it. We'll have to make a plan with Agata.\" And he laughed. He said he'd be back before the year's end. And he came back, maybe seven months later and told us, things were in motion. We have to be patient because it took time to set up the plans. That was maybe two years ago.",
+        "",
+        "We left Kharsan, moved west, until—I—months ago, maybe four months ago, he told us the time was now. There's one thing here to do, he had to create a distraction first, but he had the tools. And then we would go slip across the border in the night, find a city, full of refugees, hang out in the shadows until we could make our way to Tokra. I couldn't believe the plan worked, as well as it did. He was brilliant our dear leader.",
+        "",
+        "%% u2388:0-25 %%",
+        "Seeker: What was the distraction?",
+        "",
+        "%% u2389:0-30, u2390:0-135, u2391:0-115, u2392:0-23, u2393:0-57, u2394:0-5, u2395:0-29, u2396:0-28, u2397:0-64, u2398:0-12, u2399:0-18, u2400:0-23, u2401:0-46, u2402:0-79, u2403:0-18, u2404:0-183, u2405:0-74, u2406:0-24, u2407:0-35, u2408:0-61, u2409:0-40, u2410:0-33 %%",
+        "DM: He never said. He just said he he would meet us on the road West once the borders were down. He had to go do something for something Agata was going to help them with.",
+        "",
+        "And then we find ourselves surrounded by refugees hordes of people moving West across the plains heading for Tokra. And we settled waiting, waiting for the moment when the planes were in alignment, when the connection could be open. But we were stumped by this madness of this place until we heard some Dunmari talking about a map and a clue and a secret. So we hunted them down. But the map was no good or there was—I didn't—some confusion about it, there was some secret that we didn't quite understand. Still didn't work. There's many people working on it, I believe we were sent out here to keep watch past week, so I don't know what has happened since, maybe, in fact, the map has been solved, although, if what you say is true and everybody is dead, it makes no difference now. I'd just like to see it, what would have happened if we had been able to sacrifice the mad one at the bottom of that pit surrounded by 13 spears with 13 prayers. Would have been a glorious sight.",
+        "",
+        "%% u2411:0-22 %%",
+        "Seeker: Sacrifice the mad one?",
+        "",
+        "%% u2412:0-32, u2413:0-10, u2414:0-44 %%",
+        "Delwath: The, the guy who killed himself. The crazy—knifed himself—we're going to sacrifice him.",
+        "",
+        "%% u2415:0-49 %%",
+        "Seeker: Not as in like mad one as the nickname of Jinnik?",
+        "",
+        "%% u2416:0-7 %%",
+        "DM: No, no.",
+        "",
+        "%% u2417:0-88 %%",
+        "Delwath: Mad one is being bodied actual insane werewolf that is going to be sacrificed to summon.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That's a good one.",
+          "Riswynn: That's, why not the entire story of his life as a werewolf?",
+          "Delwath: Yeah or you could I don't know Suggestion's more likely to work if it's a smaller scope but.",
+          "Seeker: Yeah it's just a wisdom saving throw. But just strict boundary is it can't be like self harm like. Right just reasonable.",
+          "DM: Yeah so \"Tell me a story\" is definitely reasonable."
+        ],
+        "after": [
+          "Seeker: I got it I gotta.",
+          "Kenzo: Ask him ask him, where they got the scepter where his brother got the scepter.",
+          "Seeker: I don't think he knows, but I.",
+          "DM: Mean around Kharsan like it's not.",
+          "Delwath: Okay, and."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The scepter’s former giant bearer and its current location",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2423",
+        "endUid": "u2434"
+      },
+      "lines": [
+        "%% u2423:0-41, u2424:0-71 %%",
+        "Wellby: We know that Grash was searching Kharsan yeah expecting to find something there but they found it first I guess.",
+        "",
+        "%% u2425:0-149 %%",
+        "Delwath: Well, and we know the scepter was originally was found at some point by the fire giant that stormed through Kharsan and originally destroyed Kharsan.",
+        "",
+        "%% u2426:0-12 %%",
+        "Seeker: Right right.",
+        "",
+        "%% u2427:0-142, u2428:0-3, u2429:0-261 %%",
+        "Delwath: And that, but the giant had no idea what it was, it was a thing and the vision about it being a dumb brute and the scepter being very unhappy. So I think the theory is that the giant found the scepter, somewhere, but didn't know what it was, and so the scepter lost itself from him basically fled the giant's possession, which actually suggested we should be careful that it's not gonna flee our possession.",
+        "",
+        "%% u2430:0-5 %%",
+        "Seeker: Whoa.",
+        "",
+        "%% u2431:0-54 %%",
+        "Delwath: If it's like One Ring-esque, right, and it can it can.",
+        "",
+        "%% u2432:0-10 %%",
+        "Seeker: Have some.",
+        "",
+        "%% u2433:0-54 %%",
+        "Wellby: Real gently pat the backpack to confirm it's in there.",
+        "",
+        "%% u2434:0-15 %%",
+        "DM: Oh, it's there.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I got it I gotta.",
+          "Kenzo: Ask him ask him, where they got the scepter where his brother got the scepter.",
+          "Seeker: I don't think he knows, but I.",
+          "DM: Mean around Kharsan like it's not.",
+          "Delwath: Okay, and."
+        ],
+        "after": [
+          "Wellby: Look real subtly. We'll say \"Hey buddies\" to the scepter.",
+          "Riswynn: Hey.",
+          "Wellby: Everyone hey buddy.",
+          "Delwath: Hey terribly dangerous thing that never be friend that's why.",
+          "Wellby: Everyone's got that one friend who's like it's their friend, but like you're not going to go out with that person, you know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "The dead leader’s weapon and the old Fraternity",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2448",
+        "endUid": "u2473"
+      },
+      "lines": [
+        "%% u2448:0-48, u2449:0-48, u2450:0-122, u2451:0-21 %%",
+        "Wellby: Seven years of planning, five years of searching. Two years of setting the groundwork to get here. And, and all of this over there, like 10 of you cuz cuz a bunch of them were added later. It just seems like you're so few to have done so much.",
+        "",
+        "%% u2452:0-32, u2453:0-4, u2454:0-22 %%",
+        "DM: No, there were never many of us hey. Our leader was strong.",
+        "",
+        "%% u2455:0-32 %%",
+        "Wellby: Did your leader carry the sword?",
+        "",
+        "%% u2456:0-14, u2457:0-25 %%",
+        "DM: His eyes fall. \"Yes, that was his weapon.\"",
+        "",
+        "%% u2458:0-35 %%",
+        "Wellby: Where did he come from your leader?",
+        "",
+        "%% u2459:0-16, u2460:0-11 %%",
+        "DM: Far to the east. Don't know.",
+        "",
+        "%% u2461:0-16 %%",
+        "Wellby: East, of course.",
+        "",
+        "%% u2462:0-5, u2463:0-30, u2464:0-36, u2465:0-25 %%",
+        "DM: Yeah. He had been here—well, not him. The fraternity had been here before. Tried once long time ago.",
+        "",
+        "%% u2466:0-6 %%",
+        "Seeker: Hello.",
+        "",
+        "%% u2467:0-22 %%",
+        "DM: Hundred or more years.",
+        "",
+        "%% u2468:0-37 %%",
+        "Delwath: We had a note, or something about it.",
+        "",
+        "%% u2469:0-99 %%",
+        "Wellby: Those were the record some of the records Govir was looking through was of fighting the fraternity.",
+        "",
+        "%% u2470:0-17, u2471:0-38, u2472:0-35, u2473:0-51 %%",
+        "DM: Were driven east driven out of Dunmar I guess wandered lost in the desert since then, till—till a visionary came to power and saw way forward.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Everyone's got that one friend who's like it's their friend, but like you're not going to go out with that person, you know.",
+          "Kenzo: What if we all attuned to the scepter at the same time?",
+          "DM: Only one person can be attuned at once.",
+          "Delwath: So do we have any other questions for this guy?",
+          "Kenzo: So up to."
+        ],
+        "after": [
+          "Wellby: Wow.",
+          "Unknown: Okay.",
+          "Kenzo: So let's just summarize our understanding here. That we now know that the werewolves came from the east, they somehow found scepter in Kharsan before Grash. Use the scepter—traded it to Agata in exchange for passage to Taelgar so that they could bypass the protections of Shakun.",
+          "Wellby: Passage which requires two things: first for the borders to be dropped, and second, for there to be a refugee crisis that they could slip in with. Presumably that's the scroll case, then that they go and set up in Raven's Hold to start the gnoll attacks.",
+          "Kenzo: Wait what's the scroll case?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "The party connects Agata’s bargain to the refugee crisis",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2476",
+        "endUid": "u2509"
+      },
+      "lines": [
+        "%% u2476:0-47, u2477:0-108, u2478:0-26, u2479:0-9, u2480:0-24, u2481:0-30, u2482:0-33 %%",
+        "Kenzo: So let's just summarize our understanding here. That we now know that the werewolves came from the east, they somehow found scepter in Kharsan before Grash. Use the scepter—traded it to Agata in exchange for passage to Taelgar so that they could bypass the protections of Shakun.",
+        "",
+        "%% u2483:0-252 %%",
+        "Wellby: Passage which requires two things: first for the borders to be dropped, and second, for there to be a refugee crisis that they could slip in with. Presumably that's the scroll case, then that they go and set up in Raven's Hold to start the gnoll attacks.",
+        "",
+        "%% u2484:0-28 %%",
+        "Kenzo: Wait what's the scroll case?",
+        "",
+        "%% u2485:0-28, u2486:0-23, u2487:0-9, u2488:0-49, u2489:0-21 %%",
+        "Delwath: That it suggests that Agata, as part of the chapter had both the scroll basically both created the gnolls and stole Shakun's Heart.",
+        "",
+        "%% u2490:0-41 %%",
+        "Kenzo: Wait I don't understand about the scroll.",
+        "",
+        "%% u2491:0-10 %%",
+        "Wellby: Case that.",
+        "",
+        "%% u2492:0-5 %%",
+        "Unknown: That.",
+        "",
+        "%% u2493:0-29 %%",
+        "Delwath: That the scroll which summon.",
+        "",
+        "%% u2494:0-10 %%",
+        "Kenzo: The demon.",
+        "",
+        "%% u2495:0-39, u2496:0-60, u2497:0-17, u2498:0-33, u2499:0-68 %%",
+        "Delwath: Yeah which was creating all the gnolls. Yes, right was connected to both the werewolves and Raven's. Yes, and I don't it's still unclear to me how the vision of Agata getting the scepter in exchange for the scroll case.",
+        "",
+        "%% u2500:0-164 %%",
+        "Wellby: Because it wasn't exactly an exchange for the scroll case. She gave them the scroll to create the distraction, the trade wasn't like a one for one of the scepter to.",
+        "",
+        "%% u2501:0-7 %%",
+        "Unknown: Scroll.",
+        "",
+        "%% u2502:0-12 %%",
+        "Kenzo: Distraction.",
+        "",
+        "%% u2503:0-155 %%",
+        "Wellby: Exactly, it was in order to get in. \"I'm giving you this to go run the errand to set it up over there, to create the refugee crisis for you to slip in,\" right?",
+        "",
+        "%% u2504:0-152, u2505:0-10, u2506:0-118 %%",
+        "Delwath: So the plate so she's getting it's it looks like she's getting the the scepter for the scroll case but really she's getting the scepter in exchange for doing the Shakun's Heart and she's actually giving the scroll case as part of a plan, not as something that the werewolves want.",
+        "",
+        "%% u2507:0-78 %%",
+        "Wellby: She's getting she's getting the scepter in return for getting them into Tokra.",
+        "",
+        "%% u2508:0-62, u2509:0-4 %%",
+        "Kenzo: Right, which involves releasing the heart and creating gnolls wow.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: We had a note, or something about it.",
+          "Wellby: Those were the record some of the records Govir was looking through was of fighting the fraternity.",
+          "DM: Were driven east driven out of Dunmar I guess wandered lost in the desert since then, till—till a visionary came to power and saw way forward.",
+          "Wellby: Wow.",
+          "Unknown: Okay."
+        ],
+        "after": [
+          "Wellby: Wow this was not any of our guesses.",
+          "DM: Know Suggestion is a great spell.",
+          "Delwath: Also tell us the truth.",
+          "DM: I had four different ways this session, you could have found the truth.",
+          "Wellby: Wow."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The cloak that deadens the gods",
+      "entities": [
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2523",
+        "endUid": "u2525"
+      },
+      "lines": [
+        "%% u2523:0-90, u2524:0-45, u2525:0-35 %%",
+        "Delwath: Um but but there's also the quote like there's a quote that somebody hunting the fact, um. {{Nick rock}} and it was also hunted for the cloak which which deadens the gods.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: It's it's one of three or five or two or whatever.",
+          "Unknown: Right.",
+          "Wellby: It's one of an integer number of powerfully.",
+          "Delwath: But a small integer like a one digit integer.",
+          "Kenzo: Senator."
+        ],
+        "after": [
+          "DM: So, so let me, let me just break in here for a moment to suggest it's at 1145. We have two options. I'm happy with either one. We could either just wind down the session here if people—if you actually do want to go North I'm happy to go another 45 minutes. We could certainly get to the beginnings of Saka.",
+          "Seeker: Well, we need to find something to do on the way to Saka that will take the entire next session.",
+          "Kenzo: Totally. This is, this has been our at least third or fourth session we've been trying to go to Saka and.",
+          "Delwath: I'm as much fun, as it would be to keep going, I am really tired. I don't know if I'm going to last 45 more minutes. We had a sleep over last night. Four other 10 year olds, and so I did sleep some but they woke up at six and didn't go to bed till midnight so.",
+          "Kenzo: Now let's go with me too."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Other powers still seek the scepter",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2543",
+        "endUid": "u2548"
+      },
+      "lines": [
+        "%% u2543:0-238 %%",
+        "Delwath: You like no and now we want to understand why these artifacts of incredible power are floating around out there and why the Society of the Open Scroll is trying to find—why Grash and the Society of the Open Scroll are both trying to find.",
+        "",
+        "%% u2544:0-9 %%",
+        "Seeker: It and I.",
+        "",
+        "%% u2545:0-64 %%",
+        "Wellby: Was abducted and why all the Mystai 30 years ago did this thing.",
+        "",
+        "%% u2546:0-146 %%",
+        "DM: I didn't Grash, the Society of the Open Scroll and Agata, all three of them desperately want the scepter enough to like do a huge amount of magic.",
+        "",
+        "%% u2547:0-11 %%",
+        "Kenzo: Yeah right.",
+        "",
+        "%% u2548:0-84 %%",
+        "Delwath: Right like, why do we have the one ring? And what are we supposed to do next with it?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I was trying to.",
+          "DM: Go to bed early because Riswynn was gonna go back with the prisoners and you're gonna go North but.",
+          "Seeker: That's reasonable.",
+          "Delwath: That's actually a good plan.",
+          "Kenzo: But but wait so did we solve—are we done with the campaign now? We like solved it all of it? It's like over?"
+        ],
+        "after": [
+          "Kenzo: With it.",
+          "DM: Happening yeah yeah. Clearly.",
+          "Wellby: Start making getting along well.",
+          "Seeker: Making non scepter replicas and just kind of leave them around in places for people to find.",
+          "Kenzo: Wait so we also still don't know we don't know um. I guess, we need—oh yeah, we still don't know who created the the civil war in Dunmar, like who's behind all that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Sura, Karnas, and the remembered revenge motive",
+      "entities": [
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2572",
+        "endUid": "u2608"
+      },
+      "lines": [
+        "%% u2572:0-90, u2573:0-52, u2574:0-13, u2575:0-16, u2576:0-34, u2577:0-73, u2578:0-20 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2579:0-72 %%",
+        "Delwath: That the way that the rightful heir to the Dunmari throne, was abducted.",
+        "",
+        "%% u2580:0-9, u2581:0-16 %%",
+        "Wellby: She then. Eight years ago.",
+        "",
+        "%% u2582:0-29, u2583:0-31 %%",
+        "Seeker: And then we really freed her because sort of by accident is.",
+        "",
+        "%% u2584:0-5 %%",
+        "Unknown: Your.",
+        "",
+        "%% u2585:0-35 %%",
+        "Seeker: And now there's a conflict brewing.",
+        "",
+        "%% u2586:0-107 %%",
+        "Kenzo: Because there's been a—her brother, has been the king, for the past eight years but he's not actually king.",
+        "",
+        "%% u2587:0-19 %%",
+        "Delwath: Except maybe he is.",
+        "",
+        "%% u2588:0-93 %%",
+        "DM: It was eight or nine years ago and also remember you do know partly what Agata's motives are.",
+        "",
+        "%% u2589:0-10 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2590:0-25 %%",
+        "DM: Hralgar told you: revenge.",
+        "",
+        "%% u2591:0-4, u2592:0-12, u2593:0-4, u2594:0-17, u2595:0-84, u2596:0-27, u2597:0-26, u2598:0-19, u2599:0-15, u2600:0-7, u2601:0-39 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2602:0-10, u2603:0-73 %%",
+        "Delwath: I mean it was Dunmar and Chardon were both major parts of the enemies of Cha'mutte.",
+        "",
+        "%% u2604:0-116, u2605:0-84 %%",
+        "DM: I mean, yes, they were all enemies of Cha'mutte, Dunmar, Chardon, Sembara, the elves everybody, but you know Dunmar. Dunmar probably dealt the most damage, even though they suffered the most in return.",
+        "",
+        "%% u2606:0-139, u2607:0-78, u2608:0-86 %%",
+        "Delwath: It'd be very plausible for her to be wanting to screw it, I mean Maybe she she actually captured Sura on her own just to screw with Dunmar. She clearly was pretty happy to make Dunmar, I mean her whole shtick was like, \"I'm gonna pretend to help Dunmari and actually curse them in terrible ways,\" right? Like…",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yes.",
+          "Seeker: I mean the simplest answer would be the other faction.",
+          "Kenzo: Yes, Karnas yes.",
+          "Seeker: And Dunmar Karnas.",
+          "Delwath: But it does seem a little sketchy that they would have gotten away with like the gods really are paying attention at someone like."
+        ],
+        "after": [
+          "Seeker: Make them worse again.",
+          "Delwath: Yeah basically. So I think I mean it feels like the first Arc is pretty nicely wrapped up, right? Like we know what Agata was doing. We know why, but now it's like okay, Grash is and keep in mind, we were supposed to come to Tokra before we went to this.",
+          "Kenzo: Place we were supposed.",
+          "Delwath: To go.",
+          "Kenzo: Now last place that we've got when, after doing a giant tour the East going Raven's Hold like."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Questions still open about the Mystai and relic hunters",
+      "entities": [
+        {
+          "id": "e040",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2631",
+        "endUid": "u2641"
+      },
+      "lines": [
+        "%% u2631:0-129, u2632:0-203, u2633:0-75 %%",
+        "Wellby: So think things we know are why the heart of Shakun was taken, why Dunmar's borders fell, why Raven's Hold happened and the gnolls. We don't know what the Mystai were doing 30 years ago, why the artifacts of power are so important whether Chardon has designs on Western Dunmar, and if we care what Grash is, up to and who he works for. I also think the timing of the Open Scroll treasure hunt is still a little.",
+        "",
+        "%% u2634:0-15 %%",
+        "Kenzo: Yeah we'll try.",
+        "",
+        "%% u2635:0-24 %%",
+        "Seeker: And how can Rai help us?",
+        "",
+        "%% u2636:0-11 %%",
+        "Kenzo: And wisdom.",
+        "",
+        "%% u2637:0-25 %%",
+        "Seeker: And how to resurrect him?",
+        "",
+        "%% u2638:0-64, u2639:0-94 %%",
+        "Delwath: And why is Chardon hunting, for the artifacts from from Drankor? Yeah like they seem specifically interested in the older like there was that letter yeah yeah.",
+        "",
+        "%% u2640:0-146, u2641:0-158 %%",
+        "Kenzo: Well, and also you remember, like the whole like Agata also knows about that and was trying to get Vola to like give us the items, you know right. Like there just seemed like another level of chess occurring between like Agata, Grash, Chardon and who else like over here that we're not quite aware of yet.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: This might be a more productive conversation to have after you speak with Saka I'll just.",
+          "Unknown: Yes.",
+          "Seeker: Nice Nice.",
+          "Wellby: We're not gonna get to Saka for months.",
+          "Kenzo: I know and a while for us to get to go. [garbled] a lot of things to be done wow."
+        ],
+        "after": [
+          "Delwath: Like some example, like the Power Rangers suit or whatever. Somebody really wants to put everything together.",
+          "Kenzo: Right.",
+          "Riswynn: You have to do everything together.",
+          "Seeker: We have.",
+          "Kenzo: It first so if there is like some evil like arch villain in this campaign which we're now like almost two years into and it's not totally obvious if there is one, maybe there isn't. And if there is one, but likely identity of that entity is Grash's boss."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Plan for the captives and Riswynn’s stay",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2676",
+        "endUid": "u2694"
+      },
+      "lines": [
+        "%% u2676:0-136 %%",
+        "Delwath: I think the plan, we stated, is the same plan right? We're gonna—Riswynn's gonna cure the woman and we're giving the other one to Kaleha.",
+        "",
+        "%% u2677:0-3 %%",
+        "DM: To.",
+        "",
+        "%% u2678:0-22 %%",
+        "Delwath: Do whatever she wants.",
+        "",
+        "%% u2679:0-136 %%",
+        "DM: Yeah so you'll you'll go back to town, basically, I mean one option would be, we can just kind of hand wave to going back to town stuff.",
+        "",
+        "%% u2680:0-10 %%",
+        "Wellby: Yeah yeah.",
+        "",
+        "%% u2681:0-31 %%",
+        "Kenzo: I think we should do that yeah.",
+        "",
+        "%% u2682:0-10, u2683:0-62, u2684:0-61, u2685:0-64, u2686:0-45, u2687:0-82, u2688:0-25 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2689:0-21, u2690:0-46 %%",
+        "Delwath: And get the hell you—Kate's coming with us or is she going back to.",
+        "",
+        "%% u2691:0-33, u2692:0-47 %%",
+        "Riswynn: Think I'm gonna hang out in town, hanging out with my dwarven friend. You guys go.",
+        "",
+        "%% u2693:0-36 %%",
+        "Delwath: You were just here for the werewolf.",
+        "",
+        "%% u2694:0-81 %%",
+        "DM: Wow she'll still be in Tokra a maybe we'll reconnect when you get back from Saka.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I do, let me remind me I'll connect you guys.",
+          "Seeker: To do right now [garbled]",
+          "DM: Open it start opening email right now and type it as soon as as soon as we sign off see him. It's still what like only nine o'clock in California, you can do.",
+          "Unknown: It. Okay.",
+          "DM: Wow. Ah, so just to like wrap things up somewhere we'll start next time and then happy to chat more about where things are but so, after having interrogated these werewolves you—what?"
+        ],
+        "after": [
+          "Delwath: That's gonna be like in four years.",
+          "DM: Yeah. Well, no.",
+          "Delwath: No, no, we haven't come back.",
+          "DM: Because you have to get your your Portable Hole. You're definitely not going to forget about that.",
+          "Wellby: Nothing has to happen during type it—listen, can you identify all our unknown magic stuff before we go?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "Identify and distribute the two potions",
+      "entities": [
+        {
+          "id": "e044",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e045",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2701",
+        "endUid": "u2719"
+      },
+      "lines": [
+        "%% u2701:0-103 %%",
+        "Wellby: Nothing has to happen during type it—listen, can you identify all our unknown magic stuff before we go?",
+        "",
+        "%% u2702:0-46 %%",
+        "DM: I thought you identified all your magic stuff.",
+        "",
+        "%% u2703:0-43, u2704:0-12 %%",
+        "Wellby: I thought we ended up, we have a couple of two potions.",
+        "",
+        "%% u2705:0-64, u2706:0-28 %%",
+        "DM: Oh two potions from that yeah that's easy to do. Those, those are—one of those is a potion of.",
+        "",
+        "%% u2707:0-22 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2708:0-26 %%",
+        "DM: Potion of greater healing.",
+        "",
+        "%% u2709:0-14 %%",
+        "Delwath: That's useful.",
+        "",
+        "%% u2710:0-91, u2711:0-22 %%",
+        "DM: And a potion of advantage which I don't know if that's on D&D Beyond or if I made it up um. I think it's on there.",
+        "",
+        "%% u2712:0-54 %%",
+        "Delwath: Kenzo, you want to take the potion of greater healing?",
+        "",
+        "%% u2713:0-15 %%",
+        "Kenzo: Like right now?",
+        "",
+        "%% u2714:0-117 %%",
+        "Delwath: No, no don't use it now, but somebody should just put on their character sheet. Sure, you seem to take a lot of damage.",
+        "",
+        "%% u2715:0-8 %%",
+        "Kenzo: And you.",
+        "",
+        "%% u2716:0-47 %%",
+        "((Incidental discussion))",
+        "",
+        "%% u2717:0-34, u2718:0-129, u2719:0-18 %%",
+        "DM: And Potion of advantage gives you—you drink potion and then for the next hour, you can pick one ability check, attack roll or saving throw that you have to take it. And then, it adds.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Wow she'll still be in Tokra a maybe we'll reconnect when you get back from Saka.",
+          "Delwath: That's gonna be like in four years.",
+          "DM: Yeah. Well, no.",
+          "Delwath: No, no, we haven't come back.",
+          "DM: Because you have to get your your Portable Hole. You're definitely not going to forget about that."
+        ],
+        "after": [
+          "Riswynn: Enough taking damage or my friend 11 hit points.",
+          "Kenzo: Yes, please.",
+          "Riswynn: Somebody else need something?",
+          "Delwath: No, that was fine I between hit dice and my.",
+          "DM: Gaining back Hexblade's curse."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

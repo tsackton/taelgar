@@ -1,0 +1,653 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-039",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+    "sessionYamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "transcriptSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff"
+  },
+  "places": {
+    "p01": {
+      "label": "Tokra",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0085",
+          "endUid": "u0087",
+          "quote": "since we're here at Tokra with the archives"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p02": {
+      "label": "the inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "comfortable beds at the inn"
+        }
+      ],
+      "note": "The current transcript leaves the inn unnamed. Neither the Red Lily nor the Iron Swan is uniquely established as this lodging.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0085",
+              "endUid": "u0087",
+              "quote": "since we're here at Tokra with the archives"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "werewolf lair",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "two Palace temple guards sitting there"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lair of the Fraternity of the Empty Moon.md",
+      "note": "This is the guarded urban lair, distinct from the fort north of Tokra. Session 38 (DuFr) identifies the northern city district; current movement contrasts the city entrance and the tunnel exit outside its walls.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0018",
+              "endUid": "u0020",
+              "quote": "the city side of things would have been pretty disrupted, but the secret passage outside the wall side I don't think there would have been anything to give it away."
+            },
+            {
+              "startUid": "u0283",
+              "endUid": "u0290",
+              "quote": "That's where I thought we were going, but we came to the other entrance instead."
+            },
+            {
+              "startUid": "u0289",
+              "endUid": "u0290",
+              "quote": "So that's about 800 feet out of town roughly."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "secret-tunnel exit",
+      "kind": "tunnel exit",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "the place where you emerge is this sort of hollow on the side of a long sloping hill"
+        }
+      ],
+      "note": "The tunnel’s external entrance is described as roughly 800 feet out of town at u0289–u0290; it is separate from the fort several miles away."
+    },
+    "p05": {
+      "label": "scouting position south of the summit",
+      "kind": "hillside",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "a little less than a mile maybe half a mile south of the summit of this hill"
+        }
+      ]
+    },
+    "p06": {
+      "label": "old Dunmari fort / Pandemonium ruins",
+      "kind": "ruined fort",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "this old Dunmari fort a handful of miles in the distance"
+        }
+      ],
+      "note": "The transcript calls the site Dunmari. The session note calls it Drankorian; no separate public fort note was found. Neither label identifies the urban lair."
+    },
+    "p07": {
+      "label": "occupied tower and immediate surroundings",
+      "kind": "tower site",
+      "evidence": [
+        {
+          "startUid": "u0610",
+          "endUid": "u0615",
+          "quote": "four towers in a corner that made a square wall surrounding this like misty place in the middle"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0610",
+              "endUid": "u0615",
+              "quote": "four towers in a corner that made a square wall surrounding this like misty place in the middle"
+            }
+          ]
+        }
+      ],
+      "note": "The tower’s interior holds the camp; the encounter also uses its entrance and surrounding ground. This site reference does not put every party member inside the tower."
+    },
+    "p08": {
+      "label": "mist between the towers",
+      "kind": "mist-covered ritual site",
+      "evidence": [
+        {
+          "startUid": "u0519",
+          "endUid": "u0521",
+          "quote": "dense fog in the middle of the towers"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0610",
+              "endUid": "u0615",
+              "quote": "four towers in a corner that made a square wall surrounding this like misty place in the middle"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "behind the occupied tower",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u1096",
+          "endUid": "u1100",
+          "quote": "He's gonna dash around to the backside of the Tower here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1096",
+              "endUid": "u1100",
+              "quote": "He's gonna dash around to the backside of the Tower here."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "interrogation stop away from the hill",
+      "kind": "outdoor stop",
+      "evidence": [
+        {
+          "startUid": "u2180",
+          "endUid": "u2191",
+          "quote": "All right, we stop, um, so we can wake him up."
+        }
+      ],
+      "note": "The party agrees to move at least half a mile away before waking him. They stop here rather than complete the proposed two-hour return to the tunnels."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0014"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sleep and wake at the unnamed inn in Tokra.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "as you drift to sleep in the comfortable beds at the inn"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0116",
+        "endUid": "u0135"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return from the inn to the guarded city-side werewolf lair; find no fresh disturbances.",
+      "evidence": [
+        {
+          "startUid": "u0116",
+          "endUid": "u0117",
+          "quote": "as you approach the lair."
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "as you get there"
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "two Palace temple guards sitting there"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0298",
+        "endUid": "u0381"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend to the lair basement and take the secret tunnels out to the hollow beyond Tokra’s walls.",
+      "evidence": [
+        {
+          "startUid": "u0299",
+          "endUid": "u0299",
+          "quote": "So we go into the basement yeah."
+        },
+        {
+          "startUid": "u0300",
+          "endUid": "u0301",
+          "quote": "You go back down to the basement."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "You travel through these tunnels and emerge, just as the sun is beginning to rise over the horizon."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "the place where you emerge is this sort of hollow on the side of a long sloping hill"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Go through the basement and bypass the trap and cave-in left earlier."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0347",
+        "endUid": "u0381"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the old trail north for roughly two hours, stopping about half a mile south of the fort summit.",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "So you begin to travel and you can see, after couple miles, maybe three miles, maybe close to an hour's journey as the sun starts to get a bit higher in the sky."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "Continue for another two, three miles, another hour, maybe the sun rises higher in the sky until you're maybe a little less than a mile maybe half a mile south of the summit of this hill"
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "two narrated legs of about an hour each"
+      },
+      "distance": {
+        "min": 4,
+        "minInclusive": true,
+        "max": 6,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "two legs each described as two or three miles"
+      }
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0347",
+        "endUid": "u0387"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the fort summit, surviving tower and a stationary patch of mist from the approach; do not yet enter the ruins.",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "you can now see from this distance"
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "a cloud or a fog bank just kind of sitting on part of this hill."
+        },
+        {
+          "startUid": "u0383",
+          "endUid": "u0387",
+          "quote": "There are two towers, one is more ruined than the other"
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p05",
+      "mode": "local"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0528",
+        "endUid": "u0636"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Use Clairvoyance to see and hear three people in the occupied tower while remaining half a mile away.",
+      "evidence": [
+        {
+          "startUid": "u0528",
+          "endUid": "u0530",
+          "quote": "I sit cross legged on the ground, draw a glowing eye in the air and cast."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0547",
+          "quote": "there are three people camped in the sort of open ruined space at the base of the Tower."
+        },
+        {
+          "startUid": "u0636",
+          "endUid": "u0636",
+          "quote": "This is half a mile from you yeah."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p05",
+      "mode": "remote"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0666",
+        "endUid": "u0867"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Reach the tower site after being heard at about 50 feet and charge into the encounter around its entrance and camp.",
+      "evidence": [
+        {
+          "startUid": "u0666",
+          "endUid": "u0669",
+          "quote": "So you head up towards the cliff—or, sorry, the tower"
+        },
+        {
+          "startUid": "u0714",
+          "endUid": "u0717",
+          "quote": "Maybe 50 feet from the tower"
+        },
+        {
+          "startUid": "u0723",
+          "endUid": "u0726",
+          "quote": "Riswynn: I run."
+        },
+        {
+          "startUid": "u0735",
+          "endUid": "u0739",
+          "quote": "this is basically the camp and so you run."
+        },
+        {
+          "startUid": "u0862",
+          "endUid": "u0867",
+          "quote": "\"Who are you? What are you doing here?\""
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk, then run"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1101",
+        "endUid": "u1126"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Chase the fleeing werewolf behind the tower and knock him unconscious there.",
+      "evidence": [
+        {
+          "startUid": "u1096",
+          "endUid": "u1100",
+          "quote": "He's gonna dash around to the backside of the Tower here."
+        },
+        {
+          "startUid": "u1113",
+          "endUid": "u1113",
+          "quote": "so you can easily catch him."
+        },
+        {
+          "startUid": "u1120",
+          "endUid": "u1121",
+          "quote": "10 is enough to knock them out."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1300",
+        "endUid": "u1326"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Dash back from behind the tower and reach the mouth-covered creature in the camp.",
+      "evidence": [
+        {
+          "startUid": "u1300",
+          "endUid": "u1301",
+          "quote": "I guess, have to dash all the way back"
+        },
+        {
+          "startUid": "u1324",
+          "endUid": "u1326",
+          "quote": "you're basically pummeling the shattered remains of a dead body"
+        }
+      ],
+      "from": "p09",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1740",
+        "endUid": "u1756"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Enter the mist pursuing the shadow creature and become compelled deeper into it.",
+      "evidence": [
+        {
+          "startUid": "u1740",
+          "endUid": "u1744",
+          "quote": "I'll go into the mist"
+        },
+        {
+          "startUid": "u1750",
+          "endUid": "u1754",
+          "quote": "As you—as you enter the mist"
+        },
+        {
+          "startUid": "u1756",
+          "endUid": "u1756",
+          "quote": "Riswynn has now vanished from sight from the rest of you."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1865",
+        "endUid": "u1908"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "With a rope secured by Mage Hand and pulled by Delwath and Seeker, shake off the compulsion and return out of the mist.",
+      "evidence": [
+        {
+          "startUid": "u1865",
+          "endUid": "u1865",
+          "quote": "I'm going to cast Mage Hand and tie the rope around her waist."
+        },
+        {
+          "startUid": "u1905",
+          "endUid": "u1908",
+          "quote": "you grab the rope and you sort of are able to pull yourself back out of the mists."
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2113",
+        "endUid": "u2191"
+      },
+      "actors": [
+        "party",
+        "two prisoners"
+      ],
+      "reading": "Leave the tower with both captives, then stop away from the hill for interrogation instead of going all the way to the tunnels.",
+      "evidence": [
+        {
+          "startUid": "u2113",
+          "endUid": "u2118",
+          "quote": "take him unconscious on the disc and she can walk. We'll get away from the tower."
+        },
+        {
+          "startUid": "u2180",
+          "endUid": "u2183",
+          "quote": "We're gonna get like at least a half mile away from."
+        },
+        {
+          "startUid": "u2191",
+          "endUid": "u2191",
+          "quote": "All right, we stop, um, so we can wake him up."
+        }
+      ],
+      "from": "p07",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk; unconscious man on floating disc",
+      "distance": {
+        "min": 0.5,
+        "minInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "agreed minimum separation before stopping"
+      }
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2673",
+        "endUid": "u2694"
+      },
+      "actors": [
+        "party",
+        "two prisoners"
+      ],
+      "reading": "Accept the compressed return to Tokra; Riswynn stays in town while the others prepare to travel north.",
+      "evidence": [
+        {
+          "startUid": "u2679",
+          "endUid": "u2681",
+          "quote": "we can just kind of hand wave to going back to town stuff."
+        },
+        {
+          "startUid": "u2680",
+          "endUid": "u2681",
+          "quote": "Kenzo: I think we should do that yeah."
+        },
+        {
+          "startUid": "u2691",
+          "endUid": "u2692",
+          "quote": "Think I'm gonna hang out in town"
+        },
+        {
+          "startUid": "u2694",
+          "endUid": "u2694",
+          "quote": "she'll still be in Tokra"
+        }
+      ],
+      "from": "p10",
+      "to": "p01",
+      "completion": "arrived",
+      "note": "The cure of the woman and delivery of the man to Kaleha are stated plans, not separately played resolutions in this transcript."
+    }
+  ]
+}
