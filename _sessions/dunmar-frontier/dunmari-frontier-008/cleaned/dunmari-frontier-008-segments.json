@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-008",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+    "sessionYamlSha256": "1e52c117b26217bbacdf7fde55f9d2e440c37246a8110ad901524dc75ddb7c50",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-transcript.md",
+    "transcriptSha256": "9a7ad28d52b1fa88043c203b09deeec09134eef003b5cb692208a40f695288e7"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0056"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0057",
+        "endUid": "u0072"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0073",
+        "endUid": "u0096"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0097",
+        "endUid": "u1574"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1575",
+        "endUid": "u1604"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1605",
+        "endUid": "u1846"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1847",
+        "endUid": "u2807"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2808",
+        "endUid": "u2836"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2837",
+        "endUid": "u2907"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
