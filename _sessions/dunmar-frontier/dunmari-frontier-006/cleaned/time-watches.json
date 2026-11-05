@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-time-markers.json",
+    "sha256": "e3c55203497f26aca4a80571914460dadb9cf4b992209cb3c47518fc91fb0509"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-transcript.md",
+    "sha256": "0a013a58f656787bc8b9f993bf0099af11ac389cb8bbb4dccccb44791d15de87"
+  },
+  "dateAssessment": "No absolute date is spoken. The three narrated day transitions match April 4–7, 1748 only conditional on the YAML opening date; the final departure is explicitly at first light.",
+  "watches": [
+    {
+      "day": "1748-04-04",
+      "startDate": "1748-04-04",
+      "endDate": "1748-04-04",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Opening clarified to early afternoon; separate errands occupy most of that afternoon.",
+      "markers": [
+        "t01",
+        "t02"
+      ]
+    },
+    {
+      "day": "1748-04-04",
+      "startDate": "1748-04-04",
+      "endDate": "1748-04-04",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Alesh meets the party that evening before leaving before dark.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "1748-04-05",
+      "startDate": "1748-04-05",
+      "endDate": "1748-04-05",
+      "startWatch": "morning",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Seeker’s next-day fortification and one-hour cleanup lead into the first evening ceremony.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06"
+      ]
+    },
+    {
+      "day": "1748-04-06",
+      "startDate": "1748-04-06",
+      "endDate": "1748-04-06",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "After overnight rest, the party rises for the morning procession.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "1748-04-06",
+      "startDate": "1748-04-06",
+      "endDate": "1748-04-06",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Late-afternoon shrine blessing is interrupted; the captive is bound within roughly thirty seconds of combat ending.",
+      "markers": [
+        "t08",
+        "t09"
+      ]
+    },
+    {
+      "day": "1748-04-06",
+      "startDate": "1748-04-06",
+      "endDate": "1748-04-06",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Evacuation preparations follow the fight; the DM confirms evening with the sun setting.",
+      "markers": [
+        "t10",
+        "t11"
+      ]
+    },
+    {
+      "day": "1748-04-07",
+      "startDate": "1748-04-07",
+      "endDate": "1748-04-07",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "The party wakes at first light, then follows the tracks north.",
+      "markers": [
+        "t12"
+      ]
+    }
+  ]
+}

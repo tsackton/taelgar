@@ -1,0 +1,634 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-006",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+    "sessionYamlSha256": "43d8408c8cd89477f15967025e6f97e2a1ef6c464c535cc0fa02c2a54806895a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-transcript.md",
+    "transcriptSha256": "0a013a58f656787bc8b9f993bf0099af11ac389cb8bbb4dccccb44791d15de87",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-segments.json",
+      "sha256": "690b3ad95093f58007a697518d64a581c0fa0daccb3d31f044a2e45f679b17e5",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Gnolls and maw creatures at the northern camp",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Materializes his sword as the confrontation begins.",
+          "evidence": [
+            {
+              "startUid": "u1825",
+              "endUid": "u1826"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts second-level Sleep; the leading gnoll drops asleep. Gives Delwath one d6 of runic Bardic Inspiration. In addition to the ordinary die, the stated options are thunder damage within five feet of the attack target on a failed Constitution save, using the table’s ruling for this battle, temporary hit points of die + 3 when used on a saving throw, or rolling twice and choosing for an ability check.",
+              "evidence": [
+                {
+                  "startUid": "u1933",
+                  "endUid": "u1966"
+                },
+                {
+                  "startUid": "u1984",
+                  "endUid": "u2054"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Guiding Bolt misses the awake gnoll behind the sleeper on the left. Advances toward the enemies.",
+              "evidence": [
+                {
+                  "startUid": "u2058",
+                  "endUid": "u2116"
+                }
+              ]
+            },
+            {
+              "actor": "First awake gnoll",
+              "kind": "turn",
+              "summary": "Charges toward Delwath with two swords drawn; does not attack yet.",
+              "evidence": [
+                {
+                  "startUid": "u2123",
+                  "endUid": "u2146"
+                }
+              ]
+            },
+            {
+              "actor": "Two maw creatures",
+              "kind": "turn",
+              "summary": "Dash toward the party.",
+              "evidence": [
+                {
+                  "startUid": "u2143",
+                  "endUid": "u2155"
+                }
+              ]
+            },
+            {
+              "actor": "Third maw creature",
+              "kind": "turn",
+              "summary": "Its missed movement is corrected: it moves four squares toward the party.",
+              "evidence": [
+                {
+                  "startUid": "u2248",
+                  "endUid": "u2251"
+                }
+              ],
+              "note": "This missed first-cycle movement is supplied during Kenzo’s narration; its ordering relative to the other two maws is not explicit."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Dashes to the short wall and takes cover, then shoots the first awake gnoll for 14 damage including Sneak Attack.",
+              "evidence": [
+                {
+                  "startUid": "u2156",
+                  "endUid": "u2202"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of Planar Power on a maw. It succeeds on the DC 13 Strength save, takes half damage, and is not knocked off balance. Kenzo moves beside Riswynn; the proposed bonus attack is not allowed.",
+              "evidence": [
+                {
+                  "startUid": "u2203",
+                  "endUid": "u2305"
+                }
+              ],
+              "note": "The resolved half-damage amount is not stated."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hexes the first awake gnoll, imposing disadvantage on Dexterity checks, then misses with the shadow sword on a natural 1. Keeps the inspiration die.",
+              "evidence": [
+                {
+                  "startUid": "u2307",
+                  "endUid": "u2329"
+                },
+                {
+                  "startUid": "u2348",
+                  "endUid": "u2351"
+                }
+              ]
+            },
+            {
+              "actor": "Sleeping gnoll",
+              "kind": "turn",
+              "summary": "Remains asleep and takes no action.",
+              "evidence": [
+                {
+                  "startUid": "u2330",
+                  "endUid": "u2336"
+                }
+              ]
+            },
+            {
+              "actor": "Second awake gnoll",
+              "kind": "turn",
+              "summary": "Charges toward the party with swords drawn.",
+              "evidence": [
+                {
+                  "startUid": "u2330",
+                  "endUid": "u2336"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Heat Metal burns the first awake gnoll through its sword and kills it. The stated spell damage is 2d8 fire, without a rolled total. Seeker moves toward cover; a proposed additional Mold Earth is disallowed.",
+              "evidence": [
+                {
+                  "startUid": "u2337",
+                  "endUid": "u2419"
+                }
+              ],
+              "note": "The discussion of the Constitution save to drop the weapon does not state a resolved save result."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Hits a maw with her warhammer and fiery smite, setting it on fire.",
+              "evidence": [
+                {
+                  "startUid": "u2421",
+                  "endUid": "u2454"
+                }
+              ],
+              "note": "No damage total is stated."
+            },
+            {
+              "actor": "First maw creature",
+              "kind": "turn",
+              "summary": "Bites Kenzo and misses; the target is corrected from Delwath to Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u2455",
+                  "endUid": "u2459"
+                }
+              ]
+            },
+            {
+              "actor": "Burning maw creature",
+              "kind": "turn",
+              "summary": "Succeeds on its Constitution save to extinguish the fire, then misses Riswynn with its bite.",
+              "evidence": [
+                {
+                  "startUid": "u2461",
+                  "endUid": "u2466"
+                }
+              ]
+            },
+            {
+              "actor": "Third maw creature",
+              "kind": "turn",
+              "summary": "Runs up and bites Kenzo for 10 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2467",
+                  "endUid": "u2478"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fails to hide after dislodging a noisy pebble, then misses the wounded maw beside Kenzo with an arrow.",
+              "evidence": [
+                {
+                  "startUid": "u2481",
+                  "endUid": "u2506"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Transfers Hex to the second awake gnoll, imposing disadvantage on Dexterity checks. His Green-Flame Blade attack deals 12 damage, including 6 necrotic from Hex; 3 fire damage leaps to a nearby maw.",
+              "evidence": [
+                {
+                  "startUid": "u2507",
+                  "endUid": "u2528"
+                }
+              ],
+              "note": "The maw looks unbothered by the fire, but no resistance or immunity is confirmed."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Misses the wounded maw with both his staff and unarmed strike.",
+              "evidence": [
+                {
+                  "startUid": "u2529",
+                  "endUid": "u2541"
+                }
+              ]
+            },
+            {
+              "actor": "Sleeping gnoll",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u2550",
+                  "endUid": "u2556"
+                }
+              ]
+            },
+            {
+              "actor": "Second awake gnoll",
+              "kind": "turn",
+              "summary": "Misses Delwath with both sword attacks and its bite against AC 17.",
+              "evidence": [
+                {
+                  "startUid": "u2550",
+                  "endUid": "u2560"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "event",
+              "summary": "Appears near the fight with torn ropes hanging from his arms, having escaped his restraints.",
+              "evidence": [
+                {
+                  "startUid": "u2561",
+                  "endUid": "u2573"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Healing Word restores 7 hit points to Kenzo. Mold Earth opens a pit beneath the second awake gnoll: a Dexterity save is called for, and the gnoll jumps and lands upright at the bottom, avoiding being tripped. Hex does not impose disadvantage on this save. Seeker moves toward the stairs.",
+              "evidence": [
+                {
+                  "startUid": "u2574",
+                  "endUid": "u2675"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Misses the wounded maw with her warhammer and summons a flaming Spiritual Weapon hammer; its attack roll of 13 misses the gnoll.",
+              "evidence": [
+                {
+                  "startUid": "u2684",
+                  "endUid": "u2730"
+                }
+              ]
+            },
+            {
+              "actor": "First maw creature",
+              "kind": "turn",
+              "summary": "Bites Kenzo for 14 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2731",
+                  "endUid": "u2742"
+                }
+              ]
+            },
+            {
+              "actor": "Second maw creature",
+              "kind": "turn",
+              "summary": "Misses Riswynn with a bite.",
+              "evidence": [
+                {
+                  "startUid": "u2758",
+                  "endUid": "u2761"
+                }
+              ]
+            },
+            {
+              "actor": "Third maw creature",
+              "kind": "turn",
+              "summary": "Misses Kenzo with a bite; the target is corrected from Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u2758",
+                  "endUid": "u2777"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves five feet and successfully hides. Shoots with advantage, dealing 11 damage to the wounded upper-left maw and leaving it badly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u2779",
+                  "endUid": "u2806"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Kills the wounded maw with his staff. Spends his last ki to Dodge, imposing disadvantage on attacks against him until his next turn; stays in place.",
+              "evidence": [
+                {
+                  "startUid": "u2809",
+                  "endUid": "u2849"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Sword and Hex deal 13 damage, killing the second awake gnoll. Green flame deals 3 fire damage to a maw; Delwath transfers Hex to that damaged maw.",
+              "evidence": [
+                {
+                  "startUid": "u2851",
+                  "endUid": "u2869"
+                }
+              ]
+            },
+            {
+              "actor": "Sleeping gnoll",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u2870",
+                  "endUid": "u2872"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Walks toward the maws, chanting for his master to eat him. Wellby hears the words through telepathic contact.",
+              "evidence": [
+                {
+                  "startUid": "u2879",
+                  "endUid": "u2891"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves up the stairs beside Wellby, makes difficult terrain in front of Ander with Mold Earth, and heals Kenzo for 4 with Healing Word.",
+              "evidence": [
+                {
+                  "startUid": "u2892",
+                  "endUid": "u2906"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Inflict Wounds and kills the damaged maw; an erroneous spell selection is corrected. Spiritual Weapon hits the remaining maw for 5 damage. Moves to offer it a target other than Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u2907",
+                  "endUid": "u3011"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining maw creature",
+              "kind": "turn",
+              "summary": "Bites dodging Kenzo: rolls 19 and 20 with disadvantage, so the natural 20 is not a critical hit. The hit still deals 12 piercing damage and drops Kenzo unconscious at 0 hit points. Its additional bite against Riswynn misses.",
+              "evidence": [
+                {
+                  "startUid": "u3012",
+                  "endUid": "u3036"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fails to hide and misses his shot while distracted by Ander.",
+              "evidence": [
+                {
+                  "startUid": "u3037",
+                  "endUid": "u3045"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Unconscious; fails his first death saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u3044",
+                  "endUid": "u3064"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Positions himself to guard Kenzo, transfers Hex to the remaining maw, and hits for 11 damage including 2 from Hex.",
+              "evidence": [
+                {
+                  "startUid": "u3066",
+                  "endUid": "u3077"
+                }
+              ]
+            },
+            {
+              "actor": "Sleeping gnoll",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u3078",
+                  "endUid": "u3084"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Struggles through the difficult terrain toward the maw, reaching out to it.",
+              "evidence": [
+                {
+                  "startUid": "u3078",
+                  "endUid": "u3084"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Cure Wounds restores 15 hit points to Kenzo, who wakes prone. Spiritual Weapon misses the remaining maw with a 9.",
+              "evidence": [
+                {
+                  "startUid": "u3085",
+                  "endUid": "u3109"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining maw creature",
+              "kind": "turn",
+              "summary": "Bites Delwath for 11 piercing damage. Delwath’s Hex ends.",
+              "evidence": [
+                {
+                  "startUid": "u3110",
+                  "endUid": "u3114"
+                },
+                {
+                  "startUid": "u3128",
+                  "endUid": "u3128"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Again fails his hiding/shooting attempt, distracted by Kenzo being downed and by Ander’s thoughts.",
+              "evidence": [
+                {
+                  "startUid": "u3125",
+                  "endUid": "u3136"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Gets up and moves through Delwath’s legs; both his staff attack and extra attack miss the maw.",
+              "evidence": [
+                {
+                  "startUid": "u3137",
+                  "endUid": "u3184"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Takes his accidentally skipped turn before Delwath: creates an illusion of vines in front of Ander to frighten him away from the maw.",
+              "evidence": [
+                {
+                  "startUid": "u3199",
+                  "endUid": "u3212"
+                }
+              ],
+              "note": "The table explicitly restores this turn late in the initiative cycle."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Seeker’s inspiration d6 to turn his sword attack into a hit at 17. Deals 7 weapon damage and triggers the rune’s thunder effect: the maw’s Constitution save of 12 fails DC 13 and it takes another 6 thunder damage, 13 total. It is severely wounded but alive.",
+              "evidence": [
+                {
+                  "startUid": "u3214",
+                  "endUid": "u3248"
+                }
+              ]
+            },
+            {
+              "actor": "Sleeping gnoll",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u3249",
+                  "endUid": "u3254"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Faints upon seeing Seeker’s illusory vines.",
+              "evidence": [
+                {
+                  "startUid": "u3249",
+                  "endUid": "u3256"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Healing Word restores 4 hit points to Delwath; takes no other action.",
+              "evidence": [
+                {
+                  "startUid": "u3263",
+                  "endUid": "u3299"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Kills the final maw with her warhammer.",
+              "evidence": [
+                {
+                  "startUid": "u3300",
+                  "endUid": "u3311"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The two awake gnolls and all three maw creatures are dead. One gnoll remains asleep with roughly thirty seconds before waking; the DM ends initiative and asks what the party does next.",
+        "evidence": [
+          {
+            "startUid": "u3300",
+            "endUid": "u3318"
+          }
+        ]
+      },
+      "note": "Three gnolls and three maw creatures are tracked using descriptive labels. Maw identity is only as precise as the spoken targets and corrections permit; map gestures alone do not establish persistent individual identities."
+    }
+  ]
+}

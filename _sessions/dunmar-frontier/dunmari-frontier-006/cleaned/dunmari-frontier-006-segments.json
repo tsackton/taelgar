@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-006",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+    "sessionYamlSha256": "43d8408c8cd89477f15967025e6f97e2a1ef6c464c535cc0fa02c2a54806895a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-transcript.md",
+    "transcriptSha256": "0a013a58f656787bc8b9f993bf0099af11ac389cb8bbb4dccccb44791d15de87"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0022"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0023",
+        "endUid": "u0045"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0046",
+        "endUid": "u0091"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0092",
+        "endUid": "u1503"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1504",
+        "endUid": "u1511"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1512",
+        "endUid": "u1812"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1813",
+        "endUid": "u3318"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3319",
+        "endUid": "u3945"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3946",
+        "endUid": "u3951"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
