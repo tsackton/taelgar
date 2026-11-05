@@ -1,0 +1,935 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "104472cc7de521aae0fce24292e027b82841320b62b1cc8718805095032173a6"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-entity-map.json",
+      "sha256": "67b00e95a640fad59028cab6c6df2c53ffa85f4d49205963b5020e3b8d65f72f"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Alesh’s earlier departure from Gomat",
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u0863"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0862:0-119, u0863:0-11 %%",
+        "DM: So if you recall, um, so Alesh told you that she had left here early in the morning, and there were people camped there last night.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There definitely wasn't a fire here recently. You can see, in the dark, you can see that there are like scattered tracks around. Um, but you can't really make out much of anything, um, without, without the light of morning and a clearer mind.",
+          "Kenzo: Wellby, I look over at you. Uh, what do you think? You think they fled? You think they're coming back?",
+          "Wellby: Kind of put together the timeline.",
+          "Seeker: Hmm.",
+          "Wellby: Maybe they attacked in the afternoon or the morning? I-"
+        ],
+        "after": [
+          "Wellby: I'm inclined. I'm inclined to relight the fire and set up a site for ourselves here and see if anyone makes their way back.",
+          "Seeker: I like that.",
+          "Unknown: How long have the sheep been dead? Like-",
+          "DM: Uh-",
+          "Unknown: Like days, hours?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Akan returns to the deserted camp",
+      "source": {
+        "startUid": "u1303",
+        "endUid": "u1425"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1303:0-28, u1304:0-8, u1305:0-138 %%",
+        "DM: So as he approaches, he, um, he looks weary and tired, and there's, um, he has a bandage around his arm, uh, and it's, it seems like, uh, he was wounded at some point recently.",
+        "",
+        "%% u1306:0-43, u1307:0-72, u1308:0-15, u1309:0-15 %%",
+        "DM: And as he swings down off of his horse, um, he's, he's limping a little bit, and he looks around at you and he says, \"The creatures, they are gone?\"",
+        "",
+        "%% u1310:0-35, u1311:0-26 %%",
+        "Delwath: We killed three of them last night. Were there more than that?",
+        "",
+        "%% u1312:0-64, u1313:0-96, u1314:0-3 %%",
+        "DM: \"No, I do not belie- well, there was one we killed at great cost.\" And he sort of, uh, pauses for a moment and, um, sort of tears well up in his eyes a little bit. Uh,",
+        "",
+        "%% u1315:0-44, u1316:0-72 %%",
+        "DM: Uh, he says, \"But no, we only ever saw four. If you've killed three, then, then perhaps it is indeed safe to return.\"",
+        "",
+        "%% u1317:0-27 %%",
+        "Kenzo: What's your name, traveler?",
+        "",
+        "%% u1318:0-56, u1319:0-16, u1320:0-9 %%",
+        "DM: Uh, he si- he sighs for a moment and he says, um, \"Akan. My name is Akan. And you?\"",
+        "",
+        "%% u1321:0-58, u1322:0-6, u1323:0-6 %%",
+        "((Brief interruptions and party aside))",
+        "",
+        "%% u1324:0-64, u1325:0-33 %%",
+        "Kenzo: Uh, Kenzo, and we met your, your, your comrade, Alesh, yesterday riding, riding back towards town.",
+        "",
+        "%% u1326:0-12, u1327:0-11 %%",
+        "DM: She is safe? She's safe?",
+        "",
+        "%% u1328:0-41, u1329:0-21 %%",
+        "Delwath: She was last night, or yesterday morning. Who knows these days-",
+        "",
+        "%% u1330:0-15 %%",
+        "DM: He, he kind of-",
+        "",
+        "%% u1331:0-16 %%",
+        "Delwath: ... She still is.",
+        "",
+        "%% u1332:0-51 %%",
+        "DM: ... Um, like leans heavily on his horse again, and,",
+        "",
+        "%% u1333:0-32, u1334:0-108, u1335:0-12, u1336:0-8, u1337:0-70 %%",
+        "DM: \"She, she made a lucky decision. It was just past lunchtime as we were resting, uh, in the hottest part of the day when these creatures came. Four of them running, driving up a cloud of dust down the road, like nothing I'd ever seen.\"",
+        "",
+        "%% u1338:0-3 %%",
+        "((Brief interruptions and party aside))",
+        "",
+        "%% u1339:0-30, u1340:0-29 %%",
+        "DM: \"Do not know why they were so, so enraged, so bloodthirsty.\"",
+        "",
+        "%% u1341:0-4 %%",
+        "Delwath: Hmm.",
+        "",
+        "%% u1342:0-36, u1343:0-30, u1344:0-23 %%",
+        "DM: \"We thought we could scare them off. My family, there was 11 of us. Only seven now remain.\"",
+        "",
+        "%% u1345:0-4 %%",
+        "Delwath: Wow.",
+        "",
+        "%% u1346:0-69, u1347:0-71, u1348:0-17, u1349:0-81, u1350:0-89 %%",
+        "DM: And he, like, pauses and takes a deep breath again, and he says, \"We, we fled as we could into the hills with no supplies, no water, no food. So had to come... But on horseback we were able to escape the, these creatures do not move so fast. Those of us who are alive, anyway,\" he says, like, you know, voice cracking a little bit.",
+        "",
+        "%% u1351:0-79, u1352:0-46, u1353:0-62, u1354:0-22, u1355:0-20, u1356:0-53, u1357:0-37, u1358:0-7, u1359:0-29, u1360:0-50 %%",
+        "DM: \"But we had to, we cannot make it to town without, without water, without food. Two-day journey through the, through the wild. There's no place to get, to get water between here and Karawa. So I came back to see. Thank you, thank you for killing those creatures. If they were still here, I'm not sure what we would have done. I guess probably died in the desert.\" And sort of drifts off a little bit at that point.",
+        "",
+        "%% u1361:0-25 %%",
+        "Delwath: Are you from Kar- Karawa?",
+        "",
+        "%% u1362:0-8, u1363:0-25, u1364:0-97, u1365:0-102, u1366:0-3 %%",
+        "DM: Uh, hmm. \"I guess not from exactly. Uh, you know, we, we have tend to go back there every year for the market and festival coming up. But mostly travel in the, in the northern parts of, of this country, um, grazing our sheep and horses. Um,",
+        "",
+        "%% u1367:0-29, u1368:0-94 %%",
+        "DM: \"You know, the, the losses are hard to reckon with right now, but sheep at least can be replaced, our horses can be replaced.",
+        "",
+        "%% u1369:0-4 %%",
+        "((Brief interruptions and party aside))",
+        "",
+        "%% u1370:0-79, u1371:0-8, u1372:0-121, u1373:0-36 %%",
+        "DM: \"We had thought to rest a few days by the oasis with the good grazing land here, and, uh, make our way, uh, you know, take our leisure for a little while and make our way to town for the festival in a few weeks. But it seems that was a poor choice.\"",
+        "",
+        "%% u1374:0-24 %%",
+        "Unknown: Where are your comrades?",
+        "",
+        "%% u1375:0-39, u1376:0-57, u1377:0-20, u1378:0-63 %%",
+        "DM: \"Hiding in the hills just north of here. Did not think it was worth the risk, all of us coming in. I was just scouting. On a horse I'm confident I could outrun any of these creatures.\"",
+        "",
+        "%% u1379:0-24 %%",
+        "Unknown: They came from the east?",
+        "",
+        "%% u1380:0-24, u1381:0-15 %%",
+        "DM: \"They came from the east, along the road.\"",
+        "",
+        "%% u1382:0-16 %%",
+        "Unknown: Well, hopefully-",
+        "",
+        "%% u1383:0-7 %%",
+        "Unknown: I heard...",
+        "",
+        "%% u1384:0-33 %%",
+        "Unknown: ... it's safe to bring them back.",
+        "",
+        "%% u1385:0-50 %%",
+        "Delwath: Uh, have you, have you heard of the hyena attacks?",
+        "",
+        "%% u1386:0-11, u1387:0-30 %%",
+        "DM: \"I have not. Are there creatures attacking?\"",
+        "",
+        "%% u1388:0-10 %%",
+        "Unknown: In Karawa.",
+        "",
+        "%% u1389:0-10 %%",
+        "Unknown: In Karawa.",
+        "",
+        "%% u1390:0-11, u1391:0-17 %%",
+        "Unknown: Kara- Kara- Karawa. K- Karawa...",
+        "",
+        "%% u1392:0-11 %%",
+        "Unknown: ... Karawa.",
+        "",
+        "%% u1393:0-56, u1394:0-28 %%",
+        "Delwath: There's been several, uh, several hyena attacks on town. The last and, and worst, um,",
+        "",
+        "%% u1395:0-3 %%",
+        "Unknown: Uh,",
+        "",
+        "%% u1396:0-48 %%",
+        "Delwath: Unusually large creatures with unusual ferocity.",
+        "",
+        "%% u1397:0-135, u1398:0-64, u1399:0-52, u1400:0-6 %%",
+        "DM: As, as you're talking, he's like, it, it, it seems like he's getting over the sort of shock and surprise a little bit, and he's looking a- around at all of you, and kind of takes a step back and says, \"Creatures of myth and legend walking in this land.\" Is it-",
+        "",
+        "%% u1401:0-83 %%",
+        "Delwath: Delwath just bows slightly and says, \"Delwath, the elf, I'm called in these parts.\"",
+        "",
+        "%% u1402:0-30, u1403:0-21, u1404:0-34 %%",
+        "DM: \"I had heard rumor such a thing was living in Karawa. I did not expect to see so myself.",
+        "",
+        "%% u1405:0-82, u1406:0-127, u1407:0-36 %%",
+        "DM: \"And you, a Dunmari, traveling with these strange folk,\" he says, looking at Kenzo. And you've all been talking in Dunmari, so he was like, took him a minute for his brain to catch up with the fact that you are, you know, not what he was expecting.",
+        "",
+        "%% u1408:0-4 %%",
+        "((Brief interruptions and party aside))",
+        "",
+        "%% u1409:0-33 %%",
+        "Seeker: Unusual band for an unusual time.",
+        "",
+        "%% u1410:0-59, u1411:0-48, u1412:0-21, u1413:0-45 %%",
+        "Kenzo: Um, Kenzo kind of looks at, uh, you know, the three of you. Um, should we, should we take them back to town? Looks like this is... Or should we still try to work more out here?",
+        "",
+        "%% u1414:0-12 %%",
+        "DM: Do you have-",
+        "",
+        "%% u1415:0-2 %%",
+        "Unknown: Uh.",
+        "",
+        "%% u1416:0-95 %%",
+        "DM: ... He's looks at you as he, like, hears you s- I assume you're still speaking in Dunmari here.",
+        "",
+        "%% u1417:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u1418:0-47 %%",
+        "DM: As you say that, he says, \"Do you have horses?\"",
+        "",
+        "%% u1419:0-9 %%",
+        "Unknown: Just one.",
+        "",
+        "%% u1420:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u1421:0-18 %%",
+        "Unknown: Go, go get your...",
+        "",
+        "%% u1422:0-115 %%",
+        "Delwath: I think go get your companions, and we'll at least stay here and, and make sure it stays safe until you've set out.",
+        "",
+        "%% u1423:0-41 %%",
+        "Unknown: Yeah. All your provisions are still here.",
+        "",
+        "%% u1424:0-17, u1425:0-57 %%",
+        "DM: \"That is a relief.\" Um, and he s- as he's, he says, \"I will be back shortly.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Okay.",
+          "Delwath: Okay. I think we should hail this guy.",
+          "Unknown: Let's do it.",
+          "Delwath: So I'll like, you know, go up to a, a high point, you know, or, or walk out a little bit from the tent and call out to him.",
+          "DM: Cool. Uh, okay. As you, um, as you call out, he, he sees you and kind of pulls up his horse for a minute and, and looks around, sort of takes in the scene for a minute, and then, um, starts, uh, his horse back up a tro- like, gives you a, a wave once he sees you're human and un- and s- unhurt, um, and starts, uh, his horse at a trot coming down into the oasis."
+        ],
+        "after": [
+          "DM: And he says, as he's, as he's riding off, he says, \"Did you, did any of you find a, a small amulet, a wooden, um, a wooden circlet? It was my, it was my sister's. A, a, uh, holy symbol of, of, um...\" Oops, sorry, where is my notes? \"... of Chidya, who was precious to her. She lost it, uh, running, and if it turned up, I would be most grateful.\"",
+          "Seeker: We haven't seen it, but we can look around.",
+          "Unknown: We'll look. We'll search for it.",
+          "DM: He says, \"I will be, I will be back soon,\" and he rides off.",
+          "Unknown: Well-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Recovering Akan’s sister’s amulet",
+      "source": {
+        "startUid": "u1426",
+        "endUid": "u1453"
+      },
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1426:0-60, u1427:0-70, u1428:0-30, u1429:0-36, u1430:0-31, u1431:0-4, u1432:0-35, u1433:0-16, u1434:0-12, u1435:0-43 %%",
+        "DM: And he says, as he's, as he's riding off, he says, \"Did you, did any of you find a, a small amulet, a wooden, um, a wooden circlet? It was my, it was my sister's. A, a, uh, holy symbol of, of, um...\" ((Checking notes)) \"... of Chidya, who was precious to her. She lost it, uh, running, and if it turned up, I would be most grateful.\"",
+        "",
+        "%% u1436:0-43 %%",
+        "Seeker: We haven't seen it, but we can look around.",
+        "",
+        "%% u1437:0-11, u1438:0-20 %%",
+        "Unknown: We'll look. We'll search for it.",
+        "",
+        "%% u1439:0-60, u1440:0-5, u1441:0-36, u1442:0-74, u1443:0-184, u1444:0-149, u1445:0-3, u1446:0-150, u1447:0-66 %%",
+        "((Departure and search of scattered belongings))",
+        "",
+        "%% u1448:0-145, u1449:0-110 %%",
+        "DM: And you do find this, um, intricately, small, intricately carved wooden amulet that's like four s- strands braided together to form a circle, um, which is the, the holy symbol of, of Chidya, who's the goddess of nature and land and animals and the seasons.",
+        "",
+        "%% u1450:0-55, u1451:0-199, u1452:0-85, u1453:0-74 %%",
+        "DM: Um, so it seems like, you know, there was definitely... The, the feeling you get from searching around is that there was, like, a panicked rush as people were jumping on their horses and running, and so there was some stuff that was, was scattered around. But it's pretty easy in daylight and with some time to, like, collect it all and, um, you know, put it with the food and the water that was stored in the tents.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: No.",
+          "Unknown: Go, go get your...",
+          "Delwath: I think go get your companions, and we'll at least stay here and, and make sure it stays safe until you've set out.",
+          "Unknown: Yeah. All your provisions are still here.",
+          "DM: \"That is a relief.\" Um, and he s- as he's, he says, \"I will be back shortly.\""
+        ],
+        "after": [
+          "Seeker: Yeah, we can generally kind of clean up the area.",
+          "Unknown: Yeah.",
+          "Unknown: Maybe, um...",
+          "Seeker: Remove the remnants of the dissection process.",
+          "Unknown: And Mar-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Akan gathers the survivors and sends a warning",
+      "source": {
+        "startUid": "u1586",
+        "endUid": "u1629"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1586:0-34, u1587:0-126, u1588:0-3, u1589:0-36, u1590:0-58, u1591:0-30, u1592:0-37 %%",
+        "DM: Okay, so as you're doing that, um, Akan and, uh, the six other surviving men- members of his group, um, return and, and everybody's very grateful and thanks you. Um, gather up their food. They have, um, between them, between all of them, they have eight horses. So some horses obviously died. Um, but they have enough for a few...",
+        "",
+        "%% u1593:0-52, u1594:0-58, u1595:0-155 %%",
+        "DM: Sorry, there's seven of them. They have nine horses. Um, so they have enough for a few people to switch mounts. Um, Akan basically is like, \"There's no way you guys can keep up with us if we're riding fast for Karawa across the plain unless you have your own horses.\"",
+        "",
+        "%% u1596:0-4 %%",
+        "((Table discussion))",
+        "",
+        "%% u1597:0-75, u1598:0-42 %%",
+        "Delwath: I, I mean, if he, if they, do, do they feel safe, do they feel safe riding? We suggest, I mean, we would suggest they-",
+        "",
+        "%% u1599:0-4 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1600:0-45 %%",
+        "Delwath: ... Ride fast and stop as little as possible.",
+        "",
+        "%% u1601:0-5, u1602:0-127, u1603:0-38 %%",
+        "DM: They, I mean, they, they, yes, they f- they felt like once they were able to get on their horses and gather speed on the open plains, they easily out distanced the lizards.",
+        "",
+        "%% u1604:0-83, u1605:0-64 %%",
+        "Delwath: Do you know of, do they know of any other, any other folks out here who might be... Like, were there any tra- other travelers to the oasis recently?",
+        "",
+        "%% u1606:0-10 %%",
+        "Unknown: Are there-",
+        "",
+        "%% u1607:0-98, u1608:0-46, u1609:0-15 %%",
+        "DM: Only, only Alesh, and she was going to, uh, gather up her extended family and head towards Karawa. There's other groups out on the plains, right? Like, it's not-",
+        "",
+        "%% u1610:0-4 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u1611:0-60 %%",
+        "DM: ... It's not, um, none that they've had recent contact with.",
+        "",
+        "%% u1612:0-105, u1613:0-91 %%",
+        "Delwath: Right. I, I would, I'll tell them, I'd suggest that anybody they meet, um, it's probably safest to gather soon, now, in Karawa, even if people were planning on waiting a few weeks for the festival.",
+        "",
+        "%% u1614:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1615:0-38 %%",
+        "Delwath: The sooner you can gather, the better.",
+        "",
+        "%% u1616:0-73, u1617:0-119, u1618:0-35, u1619:0-19 %%",
+        "DM: So, so they have, they have, um, Akan has a little conversation with, um, this young guy who then, um, you know, they have a slight argument and he, uh, is, like, insisting, \"Yes, I can do it.\" And, um, as you're saying that, um, Akan then says, uh,",
+        "",
+        "%% u1620:0-147, u1621:0-49, u1622:0-89, u1623:0-127, u1624:0-34 %%",
+        "DM: \"M- my cousin here, my nephew,\" sorry, \"my nephew here is gonna take, uh, two fresh exchanges of mounts and gallop hard across the plains, changing horses so he can cover a great distance at speed, and try and, uh, warn as many people to the north and west of here to hurry back to town. But I think he'll be able to travel far faster than anybody else with three horses, uh, to change between, and skill in riding. But thank you for the suggestion.\"",
+        "",
+        "%% u1625:0-42, u1626:0-82 %%",
+        "DM: And he just then immediately, like, takes, like, some, some water and, and a bit of dried meat and food and just gallops off.",
+        "",
+        "%% u1627:0-6 %%",
+        "Unknown: Right.",
+        "",
+        "%% u1628:0-93, u1629:0-8 %%",
+        "DM: And you see the dust rising bet- behind him with the three horses, um, moving extremely fast. [laughs]",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, it's large. It's like if you took like Texas Hill Country and, um, Joshua Tree National Park and put them next to each other.",
+          "Seeker: Mm-hmm. So it's not necessarily specific to the oasis area that we're in?",
+          "DM: Yeah, it's just the sort of looking around the oa- l- like thinking about exploring the oasis and kind of looking a- about looking, sort of trying to understand the geology of it made you kind of realize this larger picture.",
+          "Seeker: Well, I'll, I'll make some, some, some notes and sketches of what I think this transition line looks like.",
+          "DM: Okay."
+        ],
+        "after": [
+          "Kenzo: So just, like, as we were, before you mo- like, as they had been, as we were just kind of cleaning and, you know, looking for stuff, like, you know, just looking around, like, just say to everybody, to, to you guys, the party, um, \"What else do we have to learn out here, friends? Seeker, have you found anything?\"",
+          "Seeker: Well, I've been walking the strange edges of this area and wondering how an oasis got here. The, this country has a strange history, that much I, I can tell you for sure.",
+          "Kenzo: Hm. Recent history or old history?",
+          "Seeker: It's, it's probably like within the past... It's hard to say, because in the natural course of events, [laughs] the landscape changes over millennia. Eons, really.",
+          "Unknown: Hm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Akan warns about the lands east of Gomat",
+      "source": {
+        "startUid": "u1651",
+        "endUid": "u1682"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1651:0-147, u1652:0-45, u1653:0-85, u1654:0-109 %%",
+        "Kenzo: Tim, I, I just, you know, as we're all kind of just talking, like I, I, I asked Akan, um, have you seen anything else strange before these lizards? Has all of this behavior been of, of these... You know, you, I know you hadn't heard about the hyenas, but is this all, all recent? Have you, have you seen anything or heard anything like this about animals, strange animals acting strangely?",
+        "",
+        "%% u1655:0-43 %%",
+        "DM: There's always strange tales east of Gomat.",
+        "",
+        "%% u1656:0-14 %%",
+        "Unknown: East of Gomat.",
+        "",
+        "%% u1657:0-22, u1658:0-27, u1659:0-5 %%",
+        "DM: But nothing like this. W- this is the Gomat Oasis. It's-",
+        "",
+        "%% u1660:0-4 %%",
+        "((Party asides))",
+        "",
+        "%% u1661:0-23 %%",
+        "DM: ... Sort of the border-",
+        "",
+        "%% u1662:0-39 %%",
+        "Delwath: ... The lizards came from the east, so.",
+        "",
+        "%% u1663:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1664:0-38 %%",
+        "Seeker: Yeah. The weird stuff is, is that way.",
+        "",
+        "%% u1665:0-2 %%",
+        "Unknown: I-",
+        "",
+        "%% u1666:0-3 %%",
+        "Seeker: Um.",
+        "",
+        "%% u1667:0-25 %%",
+        "Unknown: I think it's worth going-",
+        "",
+        "%% u1668:0-151, u1669:0-152, u1670:0-59 %%",
+        "DM: This is, basically people don't tend to go past east of the oasis, because there's always these tales of, like, people who go out into the, the Blasted Plains is what they're called, Nashtkar in the Dunmari language, and never return, or come back changed in some way, or, um, come back scarred and won't talk about what they were, you know, what happened to them.",
+        "",
+        "%% u1671:0-18 %%",
+        "((Party asides))",
+        "",
+        "%% u1672:0-35 %%",
+        "DM: So most people just don't go there.",
+        "",
+        "%% u1673:0-13, u1674:0-4, u1675:0-56 %%",
+        "((Party asides))",
+        "",
+        "%% u1676:0-123, u1677:0-77 %%",
+        "Wellby: Does he know, or is there anyone, are there any settlements, ruins, people, weird old desert hermits who live out that way? I mean, is there, are there any, like, landmarks you can give us to the east?",
+        "",
+        "%% u1678:0-3, u1679:0-56, u1680:0-40, u1681:0-3, u1682:0-137 %%",
+        "DM: Um, he, he, he himself has never been east of, east of here. This is the furthest east he's traveled. Um, this is, there's good grazing land further east, but he refuses to, um, to take his family past here because it seems like it's not safe.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Old magic?",
+          "Seeker: Yeah.",
+          "DM: Old magic.",
+          "Seeker: So it could be that following the Great War, this landscape was reshaped. And my guess is that things looked in a wide area around where we are, more like they do where we stand than the way they look in that desert that we traversed. Is that basically right, Tim?",
+          "DM: Yeah."
+        ],
+        "after": [
+          "Wellby: We could-",
+          "DM: The road continues, and, and you, well, um, so...",
+          "Seeker: We did see that creepy canyon in the distance. That, that I'm sure is a perfectly friendly place.",
+          "Wellby: I think we follow the lizard tracks east.",
+          "Seeker: Mm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The Shakun Mystai’s protection of Karawa",
+      "source": {
+        "startUid": "u1704",
+        "endUid": "u1718"
+      },
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1704:0-88, u1705:0-74, u1706:0-77 %%",
+        "Kenzo: And other than us, were there, like, warriors or, like, security forces at, in the town? Like, I remember we kind of showed up and, you know, fucked up the hyenas. But, like, like, basically is the town safe if we're not, if we're not there?",
+        "",
+        "%% u1707:0-8, u1708:0-3, u1709:0-7, u1710:0-76, u1711:0-41, u1712:0-43, u1713:0-3, u1714:0-53, u1715:0-114, u1716:0-3 %%",
+        "DM: [coughs] Um, I mean, you know, it's, it's survived on the edge of Dunmar for a few hundred years. At least in theory the, um, you know, the Shakun Mystai cult does, does protect them. Um, you know, it's never felt l- it's never felt, I mean, at least Delwath I guess would know this, like, people there don't feel like they're living on the edge of danger. Um-",
+        "",
+        "%% u1717:0-9 %%",
+        "Unknown: Uh, right.",
+        "",
+        "%% u1718:0-64 %%",
+        "DM: ... And it's not some, it's not, you know, they feel safe there.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Uh.",
+          "Seeker: Two days?",
+          "DM: Two days-ish.",
+          "Unknown: All right.",
+          "Seeker: Hm."
+        ],
+        "after": [
+          "Kenzo: So just looking at the party again. You know, the festival's not for another 10 days. Uh, we should definitely make it back before the festival, but should we continue east more? It seems like, uh, Akan and his friends will be fine.",
+          "DM: Yes.",
+          "Seeker: We haven't explored that more in that direction.",
+          "Unknown: So...",
+          "Delwath: Yes, we should continue east."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Seeker’s questions about the mystery cult and dreams",
+      "source": {
+        "startUid": "u1947",
+        "endUid": "u1955"
+      },
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1947:0-127, u1948:0-129 %%",
+        "Seeker: And the mystery cult in that town we were just in, they, as far as I have heard, have a connection to this magical dream world. And so perhaps there's a relationship between the pattern of lines of magical energy that converge on their temple, and the fact-",
+        "",
+        "%% u1949:0-3 %%",
+        "Unknown: Hmm.",
+        "",
+        "%% u1950:0-77, u1951:0-40 %%",
+        "Seeker: ... That they can enter into and draw power from perhaps the world of dreams. Perhaps those things are all r- related.",
+        "",
+        "%% u1952:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u1953:0-91 %%",
+        "Seeker: But we didn't really get a chance to talk to them while we were there though, so who knows?",
+        "",
+        "%% u1954:0-38 %%",
+        "Wellby: That it could be a doorway, you think?",
+        "",
+        "%% u1955:0-57 %%",
+        "Seeker: I'd love to go through that door if one such door exists.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And this place, in the way that magical energy resides in a aboveness, even though it's not literally up above n- us, it has a kind of belowness. And more than that about their relation I can't say.",
+          "Seeker: But I've spent my life trying to find out. I also, you might be interested, [clears throat] have made some diagrams. [laughs]",
+          "Unknown: [laughs]",
+          "Seeker: Uh, the lines of magic force through the landscape, the strange shape of cataclysmic changes that seem to create these unnatural geological formations, I think there's a link between them, but I don't know what it is.",
+          "Unknown: Hmm."
+        ],
+        "after": [
+          "Delwath: Have, have you heard the tales of the oasis in town?",
+          "DM: No, you haven't.",
+          "Seeker: Uh, nope. [laughs] W- what are the tales of the oasis?",
+          "Delwath: Hold on one second. Let me just ...",
+          "DM: Schwartz, I'll send you a message when you get a chance."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The tale of Shakun’s prophetic vision",
+      "source": {
+        "startUid": "u1967",
+        "endUid": "u1971"
+      },
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1967:0-9, u1968:0-3, u1969:0-16, u1970:0-65, u1971:0-135 %%",
+        "Delwath: There's a ... There's the, um, there's a tale they tell in the village that if you spend a night at the edge of the oasis, waiting patiently, Shakun herself will come to you in a vision and show you one true thing about your future.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Uh, nope. [laughs] W- what are the tales of the oasis?",
+          "Delwath: Hold on one second. Let me just ...",
+          "DM: Schwartz, I'll send you a message when you get a chance.",
+          "Wellby: Oh, thank you. Sorry. I'm making late night peanut butter and jellies. [laughs]",
+          "Seeker: Awesome."
+        ],
+        "after": [
+          "Seeker: Oh.",
+          "Kenzo: Seeker, the elf and I have been talking about dreams.",
+          "Seeker: Have you now?",
+          "Kenzo: I wanna know more about these dreams. This is part of why I'm here in this town. Like you, I also am interested in this, in this, in, um, what's the name of the cult again? The, uh ...",
+          "Delwath: Shakun."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Delwath remembers Cha’mutte’s army",
+      "source": {
+        "startUid": "u2127",
+        "endUid": "u2150"
+      },
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2127:0-16, u2128:0-3, u2129:0-21, u2130:0-12, u2131:0-26, u2132:0-51 %%",
+        "Delwath: Well, sometimes, uh, you spend time in, in a nightmare. Some of us have, at least. I wouldn't recommend it generally as a place to go.",
+        "",
+        "%% u2133:0-13 %%",
+        "Wellby: Like a dream?",
+        "",
+        "%% u2134:0-13, u2135:0-20, u2136:0-25, u2137:0-26, u2138:0-28 %%",
+        "Delwath: I don't know. It was just a place. Time didn't seem to pass. Bad things kept happening, the same ones over and over.",
+        "",
+        "%% u2139:0-24 %%",
+        "DM: What kind of bad things?",
+        "",
+        "%% u2140:0-81 %%",
+        "Delwath: Well, I spent a lot of time watching my comrades be murdered by Cha'mutte's army.",
+        "",
+        "%% u2141:0-23 %%",
+        "DM: Did that really happen?",
+        "",
+        "%% u2142:0-23 %%",
+        "Delwath: That did really happen.",
+        "",
+        "%% u2143:0-32, u2144:0-19 %%",
+        "DM: And so you were seeing it again. Almost reliving it.",
+        "",
+        "%% u2145:0-21 %%",
+        "Wellby: Were you reliving it?",
+        "",
+        "%% u2146:0-34, u2147:0-79, u2148:0-17, u2149:0-19, u2150:0-54 %%",
+        "Delwath: You know, it's, it's hard to know. Hmm. It was, it was a, it was an odd place, almost like a shadow of this world. Vast and shadowy. Nothing quite real. I think nightmare may be the best term I can think of.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Question.",
+          "Kenzo: Kenzo just starts, like, laughing hysterically.",
+          "Unknown: [laughs]",
+          "Wellby: How long have you ever gone from one place to another?",
+          "Unknown: [laughs] Uh."
+        ],
+        "after": [
+          "DM: Hmm.",
+          "DM: As you continue talking through the day, as you travel and track, um, it is, it is now getting towards evening.",
+          "DM: Um, and in the late afternoon sun, uh, you see ahead of you a gash in the world, almost as if, uh, like a giant sword or a, or a giant hand just pulled the earth apart. Um, this must be the canyon you saw from a distance. It's, it's just cuts through the landscape, not related to the geology of the world at all. Um, the road just kind of ends on the edge of this cliff, um, looking down, uh, hundreds of feet, um, down past talus slopes and, and into the dusty dry bottom of this, just this cleft through the ground.",
+          "DM: And you feel, staring across this canyon, that there is something different about the world beyond, that this is, this is not just stepping, um, you know, this... On the other side of this canyon is not just, um, more of the same. It's, this is the true wilds.",
+          "DM: This is the cursed lands of the, of the Great War. This is, this is the Blasted Plains. And it's, uh, you know, staring across, contemplating this, it's, it's a, it's something, it's something different and new and, and more than you've, uh, something wilder than you've, than you've seen before in your travels. Um-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Signs of a traveler who hid a campsite",
+      "source": {
+        "startUid": "u2473",
+        "endUid": "u2511"
+      },
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2473:0-70, u2474:0-39, u2475:0-51 %%",
+        "Wellby: Someone passed through here deliberately trying to cover their tracks. Hmm. They did a pretty good job of, uh, hiding. I can't tell how many there were even here.",
+        "",
+        "%% u2476:0-4, u2477:0-7 %%",
+        "Seeker: Hmm. Humans?",
+        "",
+        "%% u2478:0-24, u2479:0-28 %%",
+        "Wellby: There's a fire ring, so, you know, humans, humanoids.",
+        "",
+        "%% u2480:0-4 %%",
+        "((Interruptions and speculative timing))",
+        "",
+        "%% u2481:0-22, u2482:0-33 %%",
+        "Wellby: No animals, no horses. Probably just one human, I think.",
+        "",
+        "%% u2483:0-13 %%",
+        "Unknown: How long ago?",
+        "",
+        "%% u2484:0-9, u2485:0-9, u2486:0-4, u2487:0-12 %%",
+        "((Interruptions and speculative timing))",
+        "",
+        "%% u2488:0-31, u2489:0-33 %%",
+        "Wellby: Wellby pauses, deep in thought. Uh, no, not in the last few days.",
+        "",
+        "%% u2490:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u2491:0-50 %%",
+        "Wellby: Can't have been, you know, ages and ages ago, but-",
+        "",
+        "%% u2492:0-4 %%",
+        "Unknown: Sure.",
+        "",
+        "%% u2493:0-29 %%",
+        "Wellby: ... Not in the last few days.",
+        "",
+        "%% u2494:0-24 %%",
+        "Unknown: Somebody made camp here.",
+        "",
+        "%% u2495:0-86 %%",
+        "Wellby: Somebody made camp here, but more interesting to me, they tried to cover their traces.",
+        "",
+        "%% u2496:0-5, u2497:0-28, u2498:0-51, u2499:0-17, u2500:0-9, u2501:0-18, u2502:0-7, u2503:0-18, u2504:0-12, u2505:0-4 %%",
+        "((Interruptions and speculative timing))",
+        "",
+        "%% u2506:0-29, u2507:0-41 %%",
+        "Wellby: Definitely before the hyenas. This is the person we should be tracking.",
+        "",
+        "%% u2508:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2509:0-24 %%",
+        "Unknown: Can we find their trail?",
+        "",
+        "%% u2510:0-83, u2511:0-55 %%",
+        "Wellby: It's hard to say. I mean, it could have been weeks ago that they came through here. I think we keep looking for signs on the road tomorrow.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Oh, interesting. Interesting. As we start to, you know, we're unrolling sleeping bags or, I don't know, whatever adventurers carry, and, um, I spot something out of the corner of my eye and say, \"Whoa, there's something over here. We're not the first people to pass through these way, this way.\" And I head back, uh, having spotted something and, uh, investigate it. Tim, what's-",
+          "DM: Uh, sure. Give me a perception check.",
+          "Unknown: That's pretty perceptive.",
+          "Unknown: Yeah.",
+          "Seeker: Mm-hmm, mm-hmm. Strong."
+        ],
+        "after": [
+          "Unknown: Yeah.",
+          "Unknown: Okay.",
+          "Kenzo: And we all get a fitful night's rest.",
+          "Unknown: Mm-hmm.",
+          "Seeker: Right, Tim?"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The account suggests a lone human, but cannot establish the camper’s identity or a precise date."
+      }
+    },
+    {
+      "id": "i011",
+      "title": "A possible link between the hidden camp and the excavation",
+      "source": {
+        "startUid": "u3815",
+        "endUid": "u3880"
+      },
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u3815:0-40, u3816:0-24, u3817:0-14, u3818:0-14 %%",
+        "Delwath: So Delwath will say the, this seems, um, seems like it was dug up some time ago. A week, maybe.",
+        "",
+        "%% u3819:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u3820:0-16 %%",
+        "Delwath: A little longer.",
+        "",
+        "%% u3821:0-4 %%",
+        "DM: Hmm.",
+        "",
+        "%% u3822:0-25, u3823:0-49 %%",
+        "Delwath: But not, you know, years. Would this prot- perhaps align with the traveler?",
+        "",
+        "%% u3824:0-22 %%",
+        "DM: Potentially. It could.",
+        "",
+        "%% u3825:0-4, u3826:0-62, u3827:0-4, u3828:0-27, u3829:0-146, u3830:0-3, u3831:0-3, u3832:0-24, u3833:0-155, u3834:0-22, u3835:0-41, u3836:0-27, u3837:0-26, u3838:0-3, u3839:0-135, u3840:0-40, u3841:0-10, u3842:0-78, u3843:0-24, u3844:0-25, u3845:0-5, u3846:0-27, u3847:0-5, u3848:0-90, u3849:0-15, u3850:0-36, u3851:0-25, u3852:0-82, u3853:0-22, u3854:0-26, u3855:0-121, u3856:0-68, u3857:0-49, u3858:0-27, u3859:0-84, u3860:0-9, u3861:0-20, u3862:0-35, u3863:0-8, u3864:0-39, u3865:0-7 %%",
+        "((Fort history and table discussion))",
+        "",
+        "%% u3866:0-48, u3867:0-50, u3868:0-12, u3869:0-41 %%",
+        "Wellby: I'll say to Delwath, yeah, that timing lines up. I think someone's been here in the last few weeks. The digging- The camp that they tried to hide, it fits.",
+        "",
+        "%% u3870:0-41 %%",
+        "Kenzo: One person? More than one? Is it a group?",
+        "",
+        "%% u3871:0-64 %%",
+        "Wellby: Just one. Just one there and just one here as far as I can tell.",
+        "",
+        "%% u3872:0-18 %%",
+        "Unknown: Probably the same?",
+        "",
+        "%% u3873:0-22, u3874:0-18, u3875:0-65, u3876:0-91, u3877:0-99, u3878:0-158, u3879:0-34 %%",
+        "DM: The... Yeah, so the... What did you roll? 17. Yeah, so the... I mean, there are definitely not, not tracks. I mean, it's been... It seems like there's not a lot of like, you know, obvious tracks, but the area s- almost seems like it's been lived in a little, especially sort of over towards the, um, you know, like someone was traveling in between these foundations and ruins over here and the, um, and the mound, and like there's a bit of a, a bit of a sort of traveled path and like every...",
+        "",
+        "%% u3880:0-167 %%",
+        "DM: And you see, like, you know, when you're paying attention, like, bits of, you know, a, a broken bit of a pick or something like that, sort of like signs of excavation.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Hmm.",
+          "DM: Uh, okay. So who else? Let's see. Um, so, so Delwath, you're poking around the, the stone some more?",
+          "Unknown: Yes.",
+          "DM: Right? Okay.",
+          "Unknown: Hmm."
+        ],
+        "after": [
+          "Delwath: Is this, is the, is the mound, like, dug up to the bottom? Like, can we continue the excavation and see what's in here?",
+          "Seeker: Oh, yeah, nice idea.",
+          "DM: [laughs]",
+          "Delwath: I mean, I'm not saying-",
+          "DM: It's already tried."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The party proposes a shared traveler; the DM establishes traces of occupation and excavation without identifying their maker."
+      }
+    }
+  ]
+}

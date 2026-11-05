@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "a5607aaaefd82ac98abaaa51111ec024a73c6d8e29a670cbd8d4ba0f7c694768",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "104472cc7de521aae0fce24292e027b82841320b62b1cc8718805095032173a6",
+        "transcriptProcessing.artifacts.cleaned": "c72f4fdc106bdc521a121586cfb5a97b4e47978e218a7dc5db3b286a264d0ba3"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Alesh",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0862",
+            "endUid": "u0863"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1321",
+            "endUid": "u1329"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1604",
+            "endUid": "u1609"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Alesh.md"
+    },
+    {
+      "id": "e002",
+      "label": "Akan",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1303",
+            "endUid": "u1360"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1397",
+            "endUid": "u1407"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1422",
+            "endUid": "u1439"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1586",
+            "endUid": "u1629"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1651",
+            "endUid": "u1682"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Akan.md"
+    },
+    {
+      "id": "e003",
+      "label": "Akan’s sister’s wooden amulet",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1426",
+            "endUid": "u1438"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1448",
+            "endUid": "u1453"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e004",
+      "label": "Chidya",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1426",
+            "endUid": "u1435"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1448",
+            "endUid": "u1449"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Chidya.md"
+    },
+    {
+      "id": "e005",
+      "label": "Akan’s nephew",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1616",
+            "endUid": "u1629"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e006",
+      "label": "Shakun Mystai",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1704",
+            "endUid": "u1718"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1947",
+            "endUid": "u1955"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1973",
+            "endUid": "u1982"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Shakun Mystai.md"
+    },
+    {
+      "id": "e007",
+      "label": "Shakun",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1967",
+            "endUid": "u1971"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+    },
+    {
+      "id": "e008",
+      "label": "Cha'mutte",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2139",
+            "endUid": "u2144"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e009",
+      "label": "Cha'mutte’s army",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2139",
+            "endUid": "u2144"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e010",
+      "label": "Unidentified traveler who concealed a campsite",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2473",
+            "endUid": "u2511"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3815",
+            "endUid": "u3824"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3866",
+            "endUid": "u3880"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Arcus fits the lone explorer near this fort, but no inspected source explicitly identifies the maker of these campsite and excavation traces.",
+      "candidates": [
+        "People/Chardonians/Arcus.md"
+      ]
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Giant lizards at Gomat",
+      "reason": "Unnamed encounter animals with shared abnormal aggression, not individually distinguished characters. Their fight and investigation belong in combat and location evidence.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0038"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0756",
+            "endUid": "u0780"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1192",
+            "endUid": "u1233"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Akan’s family",
+      "reason": "A family traveling with its herds is established, but no separately identified enduring faction or institution beyond this household is presented.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1342",
+            "endUid": "u1378"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1586",
+            "endUid": "u1595"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Akan’s sister",
+      "reason": "An unnamed absent owner of the recovered amulet, without an independent role or sufficiently developed individual identity in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1426",
+            "endUid": "u1435"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delwath’s horse",
+      "reason": "An unnamed pack mount whose role remains carrying provisions and being sheltered. Repeated logistical discussion and speculative farewell jokes do not establish a distinctive companion identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1731",
+            "endUid": "u1735"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2296",
+            "endUid": "u2312"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2655",
+            "endUid": "u2667"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2720",
+            "endUid": "u2758"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Beryllium deposit",
+      "reason": "Unrecovered natural mineral deposit; no particular plot-significant item or acquisition is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2430",
+            "endUid": "u2444"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Giant hyenas and giant scorpion",
+      "reason": "Generic animal encounters and tracks; the injured hyena has no individual identity beyond its condition and killing.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2900",
+            "endUid": "u2910"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3040",
+            "endUid": "u3057"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3113",
+            "endUid": "u3127"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Insect repellent salve",
+      "reason": "Ordinary consumable used for its usual protective function, with no separate item history or plot identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2973",
+            "endUid": "u2991"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Stone Titan",
+      "reason": "A passing out-of-character comparison of the landscape to another adventure, without substantive discussion of that entity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3101",
+            "endUid": "u3107"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Four skeletons outside the fort",
+      "reason": "Generic unnamed undead; shared burial speculation and combat do not distinguish individual characters.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3390",
+            "endUid": "u3399"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3941",
+            "endUid": "u3951"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3991",
+            "endUid": "u4008"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/Chardonians/Arcus.md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 3 (DuFr).md"
+  ]
+}

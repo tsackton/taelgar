@@ -1,0 +1,1027 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-002",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+    "sessionYamlSha256": "63d9ee75bd85cecb95ecdb5a0de41f4d1bee9f32bd6b17e8e3f5746fd8e566c8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-transcript.md",
+    "transcriptSha256": "104472cc7de521aae0fce24292e027b82841320b62b1cc8718805095032173a6"
+  },
+  "places": {
+    "p01": {
+      "label": "Gomat Oasis",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0038",
+          "quote": "DM: ... Off the, the trade road heading towards the sort of p- the open water of the oasis and the, um, little cluster of trees and tents and a few small stone buildings that, uh, that mark this way station on the far eastern frontier of Dunmar, you see in front of you, not having noticed you yet, three enormous lizards, maybe 10 feet long, ripping into, uh, the dead b- bloodied bodies of sheep scattered around-\nSeeker: [laughs]\nDM: ... The tents. There's no other signs of life. The, uh, couple of tents are flapping in the wind. There's no fire lit, only the moonlight, um, in the, in the twilight, uh, as you approach. What would you like to do?\nKenzo: And are you mean- uh, um, like the lizards have like killed all, all life in the oasis, or just this one area?\nDM: Uh, they've k- they've killed... Uh, well, you can't see... There's like a, there's like a pool, and you can only see the close end of the pool. The far end of the pool is, is sort of hidden in darkness.\nDM: The, the oasis itself is like an open area of water that's maybe, uh, 60, 70 feet across, and surrounded by, by some short trees and scrubs, so you can't see all the way across.\nDM: There's a collection of three tents set up here, nothing moving in the tents, and the only apparent life is the three giant lizards, and there's a herd of sheep that has been decimated by them, and the sheep themselves are lying dead and being chewed on by these beasts."
+        }
+      ],
+      "kind": "oasis",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Gomat.md"
+    },
+    "p02": {
+      "label": "Herders’ camp",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0038",
+          "quote": "DM: ... Off the, the trade road heading towards the sort of p- the open water of the oasis and the, um, little cluster of trees and tents and a few small stone buildings that, uh, that mark this way station on the far eastern frontier of Dunmar, you see in front of you, not having noticed you yet, three enormous lizards, maybe 10 feet long, ripping into, uh, the dead b- bloodied bodies of sheep scattered around-\nSeeker: [laughs]\nDM: ... The tents. There's no other signs of life. The, uh, couple of tents are flapping in the wind. There's no fire lit, only the moonlight, um, in the, in the twilight, uh, as you approach. What would you like to do?\nKenzo: And are you mean- uh, um, like the lizards have like killed all, all life in the oasis, or just this one area?\nDM: Uh, they've k- they've killed... Uh, well, you can't see... There's like a, there's like a pool, and you can only see the close end of the pool. The far end of the pool is, is sort of hidden in darkness.\nDM: The, the oasis itself is like an open area of water that's maybe, uh, 60, 70 feet across, and surrounded by, by some short trees and scrubs, so you can't see all the way across.\nDM: There's a collection of three tents set up here, nothing moving in the tents, and the only apparent life is the three giant lizards, and there's a herd of sheep that has been decimated by them, and the sheep themselves are lying dead and being chewed on by these beasts."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0019",
+              "endUid": "u0038",
+              "quote": "DM: ... Off the, the trade road heading towards the sort of p- the open water of the oasis and the, um, little cluster of trees and tents and a few small stone buildings that, uh, that mark this way station on the far eastern frontier of Dunmar, you see in front of you, not having noticed you yet, three enormous lizards, maybe 10 feet long, ripping into, uh, the dead b- bloodied bodies of sheep scattered around-\nSeeker: [laughs]\nDM: ... The tents. There's no other signs of life. The, uh, couple of tents are flapping in the wind. There's no fire lit, only the moonlight, um, in the, in the twilight, uh, as you approach. What would you like to do?\nKenzo: And are you mean- uh, um, like the lizards have like killed all, all life in the oasis, or just this one area?\nDM: Uh, they've k- they've killed... Uh, well, you can't see... There's like a, there's like a pool, and you can only see the close end of the pool. The far end of the pool is, is sort of hidden in darkness.\nDM: The, the oasis itself is like an open area of water that's maybe, uh, 60, 70 feet across, and surrounded by, by some short trees and scrubs, so you can't see all the way across.\nDM: There's a collection of three tents set up here, nothing moving in the tents, and the only apparent life is the three giant lizards, and there's a herd of sheep that has been decimated by them, and the sheep themselves are lying dead and being chewed on by these beasts."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Stone shelters, pen and wells",
+      "evidence": [
+        {
+          "startUid": "u0897",
+          "endUid": "u0906",
+          "quote": "DM: So on the far side of the oasis, if you just circumnavigate the entire pool, um, there are some, uh, like more permanent stone structures that seem to be, you know, occasionally also used as, uh, like sleeping areas or, or pens for animals. Um, like there's a stone pen and, um, and two wells that are adjacent to the oasis. The oasis seems a bit muddy. It's probably mostly, uh, animals that drink there, and humans would draw water from one of these two wells. Um, but these don't seem to have been... There's not supplies and stuff set up over here. There, there, there-\nUnknown: Right.\nDM: ... May have been animals in the pen, but there's not more tents, and there's not obvious indication, um, that there was another group of people here."
+        }
+      ],
+      "kind": "structures",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0897",
+              "endUid": "u0904",
+              "quote": "DM: So on the far side of the oasis, if you just circumnavigate the entire pool, um, there are some, uh, like more permanent stone structures that seem to be, you know, occasionally also used as, uh, like sleeping areas or, or pens for animals. Um, like there's a stone pen and, um, and two wells that are adjacent to the oasis. The oasis seems a bit muddy. It's probably mostly, uh, animals that drink there, and humans would draw water from one of these two wells. Um, but these don't seem to have been... There's not supplies and stuff set up over here. There, there, there-"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Old trade road",
+      "evidence": [
+        {
+          "startUid": "u1814",
+          "endUid": "u1842",
+          "quote": "DM: So the tracks, um, as you set out, the tracks, um, the tracks head along the, uh, this old trade road, right? So this is a, this is an ancient road that, that cut across the country of, of Dunmar before the Great War and before the-\nUnknown: Ah, ancient road.\nDM: ... The Cataclysm. Um-\nKenzo: Did our old characters travel on this road, Tim? Have we, have we, uh, have we been on this road before?\nDM: Uh, yes, definitely. Um-\nUnknown: Nice.\nWellby: Oh, sweet.\nDM: Um, so...\nUnknown: Um.\nDM: Sorry, go ahead.\nKenzo: I was gonna say, a- as we walk, can we have a conversation, just, uh, as we go?\nDM: Sure.\nUnknown: Mm-hmm.\nDM: Let me just do a tiny bit of description and then tell me-\nUnknown: Okay.\nDM: ... What you wanna, what you wanna do as you're walking, if anybody wants to do anything in particular.\nDM: Um, so, um, east of the oasis, the road is, is hardly traveled and it's not really much of a road anymore. So what, where you ca- you were following this road from when you met Alesh to the oasis, and it w- it's pretty well traveled there, so, you know, it's, you know, by horses and, and herds of sheep and things, so there's a clear track through the land.\nDM: Here, it's clear nobody really goes east of the oasis, and so, um, you know, all you can really see besides the clear tracks of the lizards heading due east is, like, the occasional bit of stone or, like, um, some bit of edging. So this used to be a paved road, uh, with, like, nice edges and, like, big stone tiles and things like that, but these are mostly cracked and sort of, um, you know, thrown to pieces. The area to the north is, continues to be much greener and wetter with scrub and trees, um, while the area to the south continues to be, um, sort of bare rocks and heading into the sort of badlands, canyon lands."
+        }
+      ],
+      "kind": "road",
+      "vaultPath": "Gazetteer/Greater Dunmar/Roads/Stoneway.md"
+    },
+    "p05": {
+      "label": "Dead peccaries beside the road",
+      "evidence": [
+        {
+          "startUid": "u2012",
+          "endUid": "u2022",
+          "quote": "Wellby: Motioning you all to silence. Directing your attention off the side of the road, there's a handful of dead carcasses. Peccaries. I don't actually know what a peccary is, Tim.\nDM: They're like, uh, s- small wild hogs. Like s- like small, though, not like a giant boar.\nWellby: But like scattering of them in the sense of not that one was killed and eaten, but some angry thing just murdered a bunch of them.\nDM: Yeah, exactly. Like s- you can't... There's, there may be, uh, 100 yards ahead, so you don't see exactly how many, but five or six at least."
+        }
+      ],
+      "kind": "roadside site",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2012",
+              "endUid": "u2022",
+              "quote": "Wellby: Motioning you all to silence. Directing your attention off the side of the road, there's a handful of dead carcasses. Peccaries. I don't actually know what a peccary is, Tim.\nDM: They're like, uh, s- small wild hogs. Like s- like small, though, not like a giant boar.\nWellby: But like scattering of them in the sense of not that one was killed and eaten, but some angry thing just murdered a bunch of them.\nDM: Yeah, exactly. Like s- you can't... There's, there may be, uh, 100 yards ahead, so you don't see exactly how many, but five or six at least."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Great canyon",
+      "evidence": [
+        {
+          "startUid": "u2155",
+          "endUid": "u2177",
+          "quote": "DM: Um, and in the late afternoon sun, uh, you see ahead of you a gash in the world, almost as if, uh, like a giant sword or a, or a giant hand just pulled the earth apart. Um, this must be the canyon you saw from a distance. It's, it's just cuts through the landscape, not related to the geology of the world at all. Um, the road just kind of ends on the edge of this cliff, um, looking down, uh, hundreds of feet, um, down past talus slopes and, and into the dusty dry bottom of this, just this cleft through the ground.\nDM: And you feel, staring across this canyon, that there is something different about the world beyond, that this is, this is not just stepping, um, you know, this... On the other side of this canyon is not just, um, more of the same. It's, this is the true wilds.\nDM: This is the cursed lands of the, of the Great War. This is, this is the Blasted Plains. And it's, uh, you know, staring across, contemplating this, it's, it's a, it's something, it's something different and new and, and more than you've, uh, something wilder than you've, than you've seen before in your travels. Um-"
+        }
+      ],
+      "kind": "canyon",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Daraar Canyon.md",
+      "note": "The source does not name the canyon. Gomat and Stoneway identify the eastward crossing as Daraar Canyon; no modern vault geography is imported into the marker evidence."
+    },
+    "p07": {
+      "label": "Western rim and ruined waystation",
+      "evidence": [
+        {
+          "startUid": "u2214",
+          "endUid": "u2228",
+          "quote": "Seeker: Do the li- lizard tracks come up out of it?\nDM: The lizard tracks come up out of it. You also see... Well,\nDM: Um, you see looking around here as well, um, there are, there's some, uh, sort of on the side north of the road, there's like the, the remains, just like foundations, just stones kind of laid out in a, in the, the pattern of, of the ruins of like a way station or, or something. Um, you know, some kind of, uh, some sort of ruined, um, inn or, or roadhouse or something like that. Um, you know, not, not recent.\nDM: Something that is, that is a few hundred years old at least, right? There's nothing that... There's no walls or, or roofs or anything that remains standing."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2155",
+              "endUid": "u2228",
+              "quote": "DM: Um, and in the late afternoon sun, uh, you see ahead of you a gash in the world, almost as if, uh, like a giant sword or a, or a giant hand just pulled the earth apart. Um, this must be the canyon you saw from a distance. It's, it's just cuts through the landscape, not related to the geology of the world at all. Um, the road just kind of ends on the edge of this cliff, um, looking down, uh, hundreds of feet, um, down past talus slopes and, and into the dusty dry bottom of this, just this cleft through the ground.\nDM: And you feel, staring across this canyon, that there is something different about the world beyond, that this is, this is not just stepping, um, you know, this... On the other side of this canyon is not just, um, more of the same. It's, this is the true wilds.\nDM: This is the cursed lands of the, of the Great War. This is, this is the Blasted Plains. And it's, uh, you know, staring across, contemplating this, it's, it's a, it's something, it's something different and new and, and more than you've, uh, something wilder than you've, than you've seen before in your travels. Um-\nSeeker: D- Sorry, go ahead. Does it remind me of, um, that thing that I, that I found a long time ago? Um. With the volcano.\nDM: [laughs] Trying to remember what you're referring to. [laughs] Um. Uh, oh, no, no, it doesn't remind you of that.\nSeeker: I'm, I'm just curious to know if I can sense anything about the, the ley line patterns in this area.\nDM: Ah, I remember what you're talking about now. Um, uh.\nKenzo: Willis doesn't like the change in music.\nUnknown: [laughs]\nDelwath: I'm fine. Ca- I mean, is the, is crossing the canyon feasible? Like, is it, are we coming to the edge of it and we have to go down? Or is... Like, I'm just trying to picture it.\nDM: Um,\nDM: Uh, yes, you, well, it, it extends, um, north-south s- across your path. Um, it certainly looks like it, it might be, you know, it's, it's not a straight drop 800 feet down. Right. So you could probably descend with some care. Um,\nDM: The land to the south, uh, you know, if you were to go along the edge, um, seems like it quickly turns into this, you know, chaotic, uh, twisted tunnels of canyons and badlands. To the north is still the same, um, kind of grasslands, rolling hills, dry plains. It's not obvious exactly how far north the canyon extends.\nDelwath: And it's too wide to, like, throw a rope across or something?\nDM: Yeah, yeah, it's like a mile wide. W- we're the-\nKenzo: I feel like it's kind of like Eric's background.\nDM: Yeah. [laughs] Uh, yeah, it is, it is kind of like that, except not maybe quite so pretty.\nSeeker: More ominous.\nDM: Mm.\nUnknown: We're, we're not-\nSeeker: Do the li- lizard tracks come up out of it?\nDM: The lizard tracks come up out of it. You also see... Well,\nDM: Um, you see looking around here as well, um, there are, there's some, uh, sort of on the side north of the road, there's like the, the remains, just like foundations, just stones kind of laid out in a, in the, the pattern of, of the ruins of like a way station or, or something. Um, you know, some kind of, uh, some sort of ruined, um, inn or, or roadhouse or something like that. Um, you know, not, not recent.\nDM: Something that is, that is a few hundred years old at least, right? There's nothing that... There's no walls or, or roofs or anything that remains standing."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Top of the basalt cliff",
+      "evidence": [
+        {
+          "startUid": "u2343",
+          "endUid": "u2347",
+          "quote": "DM: And, you know, after heading down about 400 feet, um, you come to an area where there seems to be a layer of just like hard basalt or some sort of igneous rock, um, that drops maybe 100 feet in a, in a cliff to a, uh, to a talus slope below it. Um, and you sort of, you sort of pick your way along, um, but it's not, it's not clear that there's an easy way past this basalt layer without finding a way down the cliff."
+        }
+      ],
+      "kind": "ledge",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2325",
+              "endUid": "u2347",
+              "quote": "DM: Okay. So you, you begin picking your way down the cliff, and, and, um, you know, it's, the descent is not too bad for the first 400 feet or so. It, um, you know, you manage to, to sort of navigate, um, a path and, and sort of pick your way down the slope. It's, it's steep and you have to be careful, um, uh, but it's not a sheer cliff. Uh, and, you know, probably takes you, you know, oh, 15, 20 minutes to kind of pick your way slowly down with the horse. Um-\nUnknown: Mm-hmm.\nDM: ... It's, as you start to pick your way down, it's, it's abundantly clear how, um, you know, especially to Seeker, but really to all of you, how sort of the wrongness of this canyon. It's not, it's not like a canyon carved by s- you know, the action of water. You don't see neat sedimentary layers in the rocks. There's like sharp rocks that jut out in all directions. Um, you know, there's, there's boulders that are sort of resting on ledges that are, that are cracked in half, just clean sheared down the middle, like somebody just sliced a boul- sliced through the boulder. Um, you know, as you begin to sort of, sort of pick your way down as well, um, you know, the rock- Is, is not, it's not sandstone. It's not what you'd sort of expect.\nSeeker: Mm-hmm.\nDM: And, you know, after heading down about 400 feet, um, you come to an area where there seems to be a layer of just like hard basalt or some sort of igneous rock, um, that drops maybe 100 feet in a, in a cliff to a, uh, to a talus slope below it. Um, and you sort of, you sort of pick your way along, um, but it's not, it's not clear that there's an easy way past this basalt layer without finding a way down the cliff."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Canyon floor",
+      "evidence": [
+        {
+          "startUid": "u2878",
+          "endUid": "u2917",
+          "quote": "DM: So, so as you get to the bottom, um, the-\nUnknown: [laughs]\nDM: ... Uh, you know, the, the bottom of the canyon, um, is, is mostly all this sort of, like, loose, loose gravel and, um, you know, this, this sort of like the e- the edge of this talus slope, right? This, like, sort of loose rubble and stuff at the bottom of the cliff. Um, and it's very, very dry, and dusty, and hot even though it's not that late in the day. Um...\nDelwath: Can we pick up the lizard trail at all?\nDM: Uh, yeah, make a survival check.\nUnknown: You all do that?\nDelwath: I can, I'm pretty good at survival.\nDM: No, just Delwath.\nDelwath: I have a plus three. I don't know if anybody else is better.\nUnknown: I have a plus three.\nDM: Uh, okay. So y- yes, you can, um, you can see there's actually a number of tracks that seem to crisscross at the bottom here. Um, you know, s- some, the lizard tracks, uh, you do pick up again. Um, they seem to be heading towards the other side of the canyon.\nDM: Um, you also... Kenzo, you also notice, um, hyena tracks, the, the tracks of the giant hyenas that seem to be heading south from here.\nUnknown: Whoa. Weird.\nDM: And there's other tracks-\nUnknown: South.\nDM: ... Sort of crisscrossing across, like some muddled tracks that are hard to tell what they are. Some, uh, you know, like, uh, you know, a little bit of a claw scratch or something that could've been, you know, was made by some sort of animal. But it's, it seems like there's been a number of, of animals, um, crisscrossing the ground at the bottom here, and all, all of the tracks o- on the eastern side of the canyon converge on this one slope that is, this one sort of...\nDM: So there's a, uh, how to describe this? Uh, in the, in the far side of the canyon you can see now that you're at the bottom, there's almost like a, uh, like a little slot canyon that sticks east and extends into the canyon wall, and then sort of gradually slopes upward. Um, and judging by the position, you would think that this would now connect with, if the, if you just drew a straight line on the road, almost like the area where the road was collapsed more and more gently so it provides, like, a slope going up. And all the tracks seem to be converging upon there."
+        }
+      ],
+      "kind": "canyon floor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2878",
+              "endUid": "u2917",
+              "quote": "DM: So, so as you get to the bottom, um, the-\nUnknown: [laughs]\nDM: ... Uh, you know, the, the bottom of the canyon, um, is, is mostly all this sort of, like, loose, loose gravel and, um, you know, this, this sort of like the e- the edge of this talus slope, right? This, like, sort of loose rubble and stuff at the bottom of the cliff. Um, and it's very, very dry, and dusty, and hot even though it's not that late in the day. Um...\nDelwath: Can we pick up the lizard trail at all?\nDM: Uh, yeah, make a survival check.\nUnknown: You all do that?\nDelwath: I can, I'm pretty good at survival.\nDM: No, just Delwath.\nDelwath: I have a plus three. I don't know if anybody else is better.\nUnknown: I have a plus three.\nDM: Uh, okay. So y- yes, you can, um, you can see there's actually a number of tracks that seem to crisscross at the bottom here. Um, you know, s- some, the lizard tracks, uh, you do pick up again. Um, they seem to be heading towards the other side of the canyon.\nDM: Um, you also... Kenzo, you also notice, um, hyena tracks, the, the tracks of the giant hyenas that seem to be heading south from here.\nUnknown: Whoa. Weird.\nDM: And there's other tracks-\nUnknown: South.\nDM: ... Sort of crisscrossing across, like some muddled tracks that are hard to tell what they are. Some, uh, you know, like, uh, you know, a little bit of a claw scratch or something that could've been, you know, was made by some sort of animal. But it's, it seems like there's been a number of, of animals, um, crisscrossing the ground at the bottom here, and all, all of the tracks o- on the eastern side of the canyon converge on this one slope that is, this one sort of...\nDM: So there's a, uh, how to describe this? Uh, in the, in the far side of the canyon you can see now that you're at the bottom, there's almost like a, uh, like a little slot canyon that sticks east and extends into the canyon wall, and then sort of gradually slopes upward. Um, and judging by the position, you would think that this would now connect with, if the, if you just drew a straight line on the road, almost like the area where the road was collapsed more and more gently so it provides, like, a slope going up. And all the tracks seem to be converging upon there."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Blasted Plains",
+      "evidence": [
+        {
+          "startUid": "u2165",
+          "endUid": "u2177",
+          "quote": "DM: And you feel, staring across this canyon, that there is something different about the world beyond, that this is, this is not just stepping, um, you know, this... On the other side of this canyon is not just, um, more of the same. It's, this is the true wilds.\nDM: This is the cursed lands of the, of the Great War. This is, this is the Blasted Plains. And it's, uh, you know, staring across, contemplating this, it's, it's a, it's something, it's something different and new and, and more than you've, uh, something wilder than you've, than you've seen before in your travels. Um-"
+        },
+        {
+          "startUid": "u1668",
+          "endUid": "u1672",
+          "quote": "DM: This is, basically people don't tend to go past east of the oasis, because there's always these tales of, like, people who go out into the, the Blasted Plains is what they're called, Nashtkar in the Dunmari language, and never return, or come back changed in some way, or, um, come back scarred and won't talk about what they were, you know, what happened to them.\nUnknown: So let's go there.\nDM: So most people just don't go there."
+        }
+      ],
+      "kind": "region",
+      "aliases": [
+        "Nashtkar"
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Nashtkar.md"
+    },
+    "p11": {
+      "label": "Ruined Dunmari fort",
+      "evidence": [
+        {
+          "startUid": "u3168",
+          "endUid": "u3179",
+          "quote": "DM: So as you approach, um, you can see now, coming to these towers, that this is the, um, this is, uh, what little that stands of what used to be a large fort. So the towers, these two, like, gate towers rise above the landscape a little bit. Um, but they're set within, um, a ruined wall that, that stretches maybe, um, a rectangle maybe 100 feet, uh, on the short end-\nUnknown: Mm.\nDM: ... And perhaps almost twice that on the long end.\nDM: Um, set within, um, a sort of earthworks, uh, barrier, and a dike. It's clearly some sort of, uh, military fort."
+        }
+      ],
+      "kind": "fort",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dunmari Fort (Gomat).md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2926",
+              "endUid": "u2949",
+              "quote": "DM: So as you head across the canyon and up the road, uh, beyond the canyon, um, the land is rough and torn, and what was... You can still see bits of the old trade road, but it's hardly detectable. And what was a formerly sort of straight and true road, even east of, of Gomat, um, is now crossed by occasional fallen rock or piles of loose debris. Um,\nDM: The, the land itself is cracked, uh, and there's, you know, every now and then you'll see a, you know, another small, like, sort of gaping fissure like this, this canyon in, in miniature. And, uh, just any travel here, even along the road, is a, is a slow, hard process as you pick your way through this battered landscape.\nDM: Um, in the distance maybe, um, three or four miles away, um, you can see, uh, a couple small, short towers, maybe two or three stories, um, ha- tall, um, standing, marking some old ruin, or fort, or something like that along the road.\nKenzo: Towers, three of them?\nDM: Two, two towers, like a, like next to each other, like a gatehouse type thing.\nUnknown: How tall?\nDM: Maybe three stories tall. They're lacking roofs. They seem to be... From this distance it's hard to tell much more about them. It's several miles away. You just see, like, little, you know, little specks on the, on the horizon."
+            }
+          ]
+        }
+      ],
+      "note": "The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls."
+    },
+    "p12": {
+      "label": "Excavated mound outside the fort",
+      "evidence": [
+        {
+          "startUid": "u3336",
+          "endUid": "u3358",
+          "quote": "DM: So, um, yeah, you're, you're... So you're, you're sort of walking up to the gate, and you stop and say this as you begin passing the, the sort of... Kenzo stops and says this as you begin passing the, the sort of the two mounds on either side. So you, you go past the, the little cluster of foundations, and you begin to approach, um, the gate, the entryway itself, and Kenzo sort of grabs you as you're passing the, um, as you're passing the sort of rubble mound on the right.\nKenzo: Before we go any further, have, have any of you encountered anything like this before, something unnatural and undead?\nSeeker: Undead?\nUnknown: Hmm.\nDM: And as you're looking around, um, you hear a... Uh, oh, hold on. Um... Um,\nDM: Okay, so as you're, as you're looking around, uh, and you know, you've grabbed everybody and you're stopped, you hear, like the sound of rocks, of, of rubble tumbling. And catching the corner of your eye is a bony arm reaching through the rubble pile, pulling it- grabbing and pulling itself out. And as the arm starts to pull on the, on the rubble, more rock shifts, and another one, this one holding a sword, starts to pull itself out."
+        }
+      ],
+      "kind": "mound",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3180",
+              "endUid": "u3193",
+              "quote": "DM: Um, on the outside of the fort, um, y- there's some, a small cluster of foundations and, and ruined buildings, um, on the outskirts of the road that, or the path, really. It's, it's no longer a clear road, that turns off the main trade road heading to the fort. Um, on either side of this, of this trade road, in between the sort of cluster of, of foundations and, um, the fort itself, still in the distance, you're still 100, 200 yards out, um, there's two large mounds.\nDM: Um, one, as you're looking at the fort, on the left, a grassy mound with, uh, small, um, plants and a few small golden and white flowers blooming on it. On the right, a rocky mound, gravel, dirt. Um, from a distance, it's n- not easy to make out any more details than that. It's almost like two hills placed on the side, um, of, of this path."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2926",
+              "endUid": "u2949",
+              "quote": "DM: So as you head across the canyon and up the road, uh, beyond the canyon, um, the land is rough and torn, and what was... You can still see bits of the old trade road, but it's hardly detectable. And what was a formerly sort of straight and true road, even east of, of Gomat, um, is now crossed by occasional fallen rock or piles of loose debris. Um,\nDM: The, the land itself is cracked, uh, and there's, you know, every now and then you'll see a, you know, another small, like, sort of gaping fissure like this, this canyon in, in miniature. And, uh, just any travel here, even along the road, is a, is a slow, hard process as you pick your way through this battered landscape.\nDM: Um, in the distance maybe, um, three or four miles away, um, you can see, uh, a couple small, short towers, maybe two or three stories, um, ha- tall, um, standing, marking some old ruin, or fort, or something like that along the road.\nKenzo: Towers, three of them?\nDM: Two, two towers, like a, like next to each other, like a gatehouse type thing.\nUnknown: How tall?\nDM: Maybe three stories tall. They're lacking roofs. They seem to be... From this distance it's hard to tell much more about them. It's several miles away. You just see, like, little, you know, little specks on the, on the horizon."
+            }
+          ]
+        }
+      ],
+      "note": "The party remains outside the fortification during the battle and mound investigation (u3954–u3955)."
+    },
+    "p13": {
+      "label": "Gate causeway",
+      "evidence": [
+        {
+          "startUid": "u4034",
+          "endUid": "u4042",
+          "quote": "DM: Okay. So dusting yourselves off from the battle, you, uh, head up the causeway towards the towers.\nDM: As you begin to approach the towers, you see in front of you, um, the inside of the fort, uh, beyond the sort of earthen dike. And you can see that there are a few buildings that remain standing. Straight ahead of you, there's a large sort of central headquarters building. The roof is of course collapsed or burnt or destroyed somehow."
+        }
+      ],
+      "kind": "causeway",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3424",
+              "endUid": "u3430",
+              "quote": "DM: Um, there is not, not shown on the map, but like in front of the wall, the, the two, the 10 feet in front of the wall is a bit of a ditch. So you could probably hide in the ditch.\nWellby: Mm.\nDM: There's like a causeway that runs across the ditch, but like all of, all of this up here-\nWellby: Yeah.\nDM: ... The 10 feet in front of the wall is a ditch."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2926",
+              "endUid": "u2949",
+              "quote": "DM: So as you head across the canyon and up the road, uh, beyond the canyon, um, the land is rough and torn, and what was... You can still see bits of the old trade road, but it's hardly detectable. And what was a formerly sort of straight and true road, even east of, of Gomat, um, is now crossed by occasional fallen rock or piles of loose debris. Um,\nDM: The, the land itself is cracked, uh, and there's, you know, every now and then you'll see a, you know, another small, like, sort of gaping fissure like this, this canyon in, in miniature. And, uh, just any travel here, even along the road, is a, is a slow, hard process as you pick your way through this battered landscape.\nDM: Um, in the distance maybe, um, three or four miles away, um, you can see, uh, a couple small, short towers, maybe two or three stories, um, ha- tall, um, standing, marking some old ruin, or fort, or something like that along the road.\nKenzo: Towers, three of them?\nDM: Two, two towers, like a, like next to each other, like a gatehouse type thing.\nUnknown: How tall?\nDM: Maybe three stories tall. They're lacking roofs. They seem to be... From this distance it's hard to tell much more about them. It's several miles away. You just see, like, little, you know, little specks on the, on the horizon."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Central headquarters",
+      "evidence": [
+        {
+          "startUid": "u4039",
+          "endUid": "u4042",
+          "quote": "DM: As you begin to approach the towers, you see in front of you, um, the inside of the fort, uh, beyond the sort of earthen dike. And you can see that there are a few buildings that remain standing. Straight ahead of you, there's a large sort of central headquarters building. The roof is of course collapsed or burnt or destroyed somehow."
+        }
+      ],
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u4039",
+              "endUid": "u4042",
+              "quote": "DM: As you begin to approach the towers, you see in front of you, um, the inside of the fort, uh, beyond the sort of earthen dike. And you can see that there are a few buildings that remain standing. Straight ahead of you, there's a large sort of central headquarters building. The roof is of course collapsed or burnt or destroyed somehow."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Pentagonal building with metal dome",
+      "evidence": [
+        {
+          "startUid": "u4043",
+          "endUid": "u4047",
+          "quote": "DM: But most of the walls remain intact, intact. And to the, to your right, sort of between you and the, um, and the headquarters but off to the right a little bit, there's a pentagonal building. Um, seems to be in surprisingly good repair. Um, a metal domed roof still standing, walls, um, seemingly undestroyed or unharmed, or at least not nearly as badly harmed as the rest of the buildings."
+        }
+      ],
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u4039",
+              "endUid": "u4047",
+              "quote": "DM: As you begin to approach the towers, you see in front of you, um, the inside of the fort, uh, beyond the sort of earthen dike. And you can see that there are a few buildings that remain standing. Straight ahead of you, there's a large sort of central headquarters building. The roof is of course collapsed or burnt or destroyed somehow.\nDM: But most of the walls remain intact, intact. And to the, to your right, sort of between you and the, um, and the headquarters but off to the right a little bit, there's a pentagonal building. Um, seems to be in surprisingly good repair. Um, a metal domed roof still standing, walls, um, seemingly undestroyed or unharmed, or at least not nearly as badly harmed as the rest of the buildings."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Giant scorpion and injured hyena beside the trail",
+      "evidence": [
+        {
+          "startUid": "u3040",
+          "endUid": "u3057",
+          "quote": "DM: The... You know, so as you, so as you continue then, um, you see, uh, the t- the towers, as the towers are approaching, um, uh, a little bit to your, um, a little bit south of the trail, uh, you see, um, the dead corpse of w- of a giant scorpion nearly 10 feet long.\nSeeker: Oh.\nUnknown: 10 feet long.\nDM: One claw ripped off, and, and near it a giant hyena, not dead, two dead around it, and it kind of limping, looks like very sick. Um, kind of like, uh, almost as if it's poisoned, just kind of partially paralyzed in a couple legs, snarling at you, but it can't move.\nDM: It's like, uh, trying to charge at you and it, and it just, its, its back legs are paralyzed and it can't walk, but it's still, as it sees you, it looks up from sort of chewing on the, half-heartedly on the scorpion and s- sort of snarls, and foam and blood is, is around it, and it starts trying to drag itself, um, towards you, sort of yelping as it goes."
+        }
+      ],
+      "kind": "roadside site",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2926",
+              "endUid": "u2936",
+              "quote": "DM: So as you head across the canyon and up the road, uh, beyond the canyon, um, the land is rough and torn, and what was... You can still see bits of the old trade road, but it's hardly detectable. And what was a formerly sort of straight and true road, even east of, of Gomat, um, is now crossed by occasional fallen rock or piles of loose debris. Um,\nDM: The, the land itself is cracked, uh, and there's, you know, every now and then you'll see a, you know, another small, like, sort of gaping fissure like this, this canyon in, in miniature. And, uh, just any travel here, even along the road, is a, is a slow, hard process as you pick your way through this battered landscape."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Grassy mound outside the fort",
+      "evidence": [
+        {
+          "startUid": "u3180",
+          "endUid": "u3193",
+          "quote": "DM: Um, on the outside of the fort, um, y- there's some, a small cluster of foundations and, and ruined buildings, um, on the outskirts of the road that, or the path, really. It's, it's no longer a clear road, that turns off the main trade road heading to the fort. Um, on either side of this, of this trade road, in between the sort of cluster of, of foundations and, um, the fort itself, still in the distance, you're still 100, 200 yards out, um, there's two large mounds.\nDM: Um, one, as you're looking at the fort, on the left, a grassy mound with, uh, small, um, plants and a few small golden and white flowers blooming on it. On the right, a rocky mound, gravel, dirt. Um, from a distance, it's n- not easy to make out any more details than that. It's almost like two hills placed on the side, um, of, of this path."
+        }
+      ],
+      "kind": "mound",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3180",
+              "endUid": "u3193",
+              "quote": "DM: Um, on the outside of the fort, um, y- there's some, a small cluster of foundations and, and ruined buildings, um, on the outskirts of the road that, or the path, really. It's, it's no longer a clear road, that turns off the main trade road heading to the fort. Um, on either side of this, of this trade road, in between the sort of cluster of, of foundations and, um, the fort itself, still in the distance, you're still 100, 200 yards out, um, there's two large mounds.\nDM: Um, one, as you're looking at the fort, on the left, a grassy mound with, uh, small, um, plants and a few small golden and white flowers blooming on it. On the right, a rocky mound, gravel, dirt. Um, from a distance, it's n- not easy to make out any more details than that. It's almost like two hills placed on the side, um, of, of this path."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2926",
+              "endUid": "u2949",
+              "quote": "DM: So as you head across the canyon and up the road, uh, beyond the canyon, um, the land is rough and torn, and what was... You can still see bits of the old trade road, but it's hardly detectable. And what was a formerly sort of straight and true road, even east of, of Gomat, um, is now crossed by occasional fallen rock or piles of loose debris. Um,\nDM: The, the land itself is cracked, uh, and there's, you know, every now and then you'll see a, you know, another small, like, sort of gaping fissure like this, this canyon in, in miniature. And, uh, just any travel here, even along the road, is a, is a slow, hard process as you pick your way through this battered landscape.\nDM: Um, in the distance maybe, um, three or four miles away, um, you can see, uh, a couple small, short towers, maybe two or three stories, um, ha- tall, um, standing, marking some old ruin, or fort, or something like that along the road.\nKenzo: Towers, three of them?\nDM: Two, two towers, like a, like next to each other, like a gatehouse type thing.\nUnknown: How tall?\nDM: Maybe three stories tall. They're lacking roofs. They seem to be... From this distance it's hard to tell much more about them. It's several miles away. You just see, like, little, you know, little specks on the, on the horizon."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Outer fort wall",
+      "evidence": [
+        {
+          "startUid": "u3765",
+          "endUid": "u3770",
+          "quote": "DM: Uh, yes. Um, so, so not really seeing much, uh, that you can comment on, uh, on the mound itself, you, um, drift over and kind of start examining the walls and the, and the fort.\nSeeker: Yeah.\nDM: So there's like this outer wall, and then there's some towers beyond. So make a history check for that."
+        }
+      ],
+      "kind": "wall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3765",
+              "endUid": "u3770",
+              "quote": "DM: Uh, yes. Um, so, so not really seeing much, uh, that you can comment on, uh, on the mound itself, you, um, drift over and kind of start examining the walls and the, and the fort.\nSeeker: Yeah.\nDM: So there's like this outer wall, and then there's some towers beyond. So make a history check for that."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0038"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party opens at the deserted herders’ camp beside Gomat Oasis, facing three giant lizards.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0038",
+          "quote": "DM: Sun sets, and you arrived exhausted, most of you exhausted, tired from your long day, at the Gomat Oasis.\nDM: In the distance as you approach the, the, um-\nSeeker: [laughs]\nDM: ... Off the, the trade road heading towards the sort of p- the open water of the oasis and the, um, little cluster of trees and tents and a few small stone buildings that, uh, that mark this way station on the far eastern frontier of Dunmar, you see in front of you, not having noticed you yet, three enormous lizards, maybe 10 feet long, ripping into, uh, the dead b- bloodied bodies of sheep scattered around-\nSeeker: [laughs]\nDM: ... The tents. There's no other signs of life. The, uh, couple of tents are flapping in the wind. There's no fire lit, only the moonlight, um, in the, in the twilight, uh, as you approach. What would you like to do?\nKenzo: And are you mean- uh, um, like the lizards have like killed all, all life in the oasis, or just this one area?\nDM: Uh, they've k- they've killed... Uh, well, you can't see... There's like a, there's like a pool, and you can only see the close end of the pool. The far end of the pool is, is sort of hidden in darkness.\nDM: The, the oasis itself is like an open area of water that's maybe, uh, 60, 70 feet across, and surrounded by, by some short trees and scrubs, so you can't see all the way across.\nDM: There's a collection of three tents set up here, nothing moving in the tents, and the only apparent life is the three giant lizards, and there's a herd of sheep that has been decimated by them, and the sheep themselves are lying dead and being chewed on by these beasts."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0897",
+        "endUid": "u0906"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Walking around the oasis, Delwath inspects the far-side stone structures and wells and detects no magic around the pool.",
+      "evidence": [
+        {
+          "startUid": "u0897",
+          "endUid": "u0906",
+          "quote": "DM: So on the far side of the oasis, if you just circumnavigate the entire pool, um, there are some, uh, like more permanent stone structures that seem to be, you know, occasionally also used as, uh, like sleeping areas or, or pens for animals. Um, like there's a stone pen and, um, and two wells that are adjacent to the oasis. The oasis seems a bit muddy. It's probably mostly, uh, animals that drink there, and humans would draw water from one of these two wells. Um, but these don't seem to have been... There's not supplies and stuff set up over here. There, there, there-\nUnknown: Right.\nDM: ... May have been animals in the pen, but there's not more tents, and there's not obvious indication, um, that there was another group of people here."
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u1006",
+          "quote": "Delwath: I walked around the oasis earlier, but I still had, I was still concentrating on keeping my Eldritch Sight up.\nUnknown: Okay.\nDelwath: I assume there's no magic anywhere around here.\nDM: No, there's no magic anywhere.\nDelwath: Yeah, there doesn't seem to be any magic that I can see.\nSeeker: Mm.\nDelwath: ... Anywhere around here. So, so it's not, I think, that the oasis was enchanted or something like that."
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p01",
+      "mode": "local"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1795",
+        "endUid": "u1815"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leaves Gomat on foot with the horse, follows the lizard tracks east along the old trade road, and stops to inspect dead peccaries beside it.",
+      "evidence": [
+        {
+          "startUid": "u1795",
+          "endUid": "u1815",
+          "quote": "Kenzo: So w- we, are we, are we leaving? Are we now, like, heading east, following the tracks?\nWellby: Yeah.\nDM: Uh, yes.\nSeeker: But didn't we tell them that we were gonna stay until they came back?\nDM: They, they all came back.\nDelwath: Well, they came back. They came back and left already.\nDM: And left.\nSeeker: Oh, the whole... They all came back and then-\nDM: They all came back. The young guy galloped off on the horses to warn-\nSeeker: Everything's fine. Okay.\nDM: ... So everybody else, like, loaded up. You guys-\nSeeker: All right.\nDM: ... Refilled your water. Um, uh.\nSeeker: So we'll follow the tracks.\nDM: So the tracks, um, as you set out, the tracks, um, the tracks head along the, uh, this old trade road, right? So this is a, this is an ancient road that, that cut across the country of, of Dunmar before the Great War and before the-"
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1858",
+          "quote": "Kenzo: So, um, as we're walking, you know, uh, 'cause we're all, we're walking with the horse, right, as we go, traveling.\nDM: Yeah."
+        },
+        {
+          "startUid": "u2012",
+          "endUid": "u2022",
+          "quote": "Wellby: Motioning you all to silence. Directing your attention off the side of the road, there's a handful of dead carcasses. Peccaries. I don't actually know what a peccary is, Tim.\nDM: They're like, uh, s- small wild hogs. Like s- like small, though, not like a giant boar.\nWellby: But like scattering of them in the sense of not that one was killed and eaten, but some angry thing just murdered a bunch of them.\nDM: Yeah, exactly. Like s- you can't... There's, there may be, uh, 100 yards ahead, so you don't see exactly how many, but five or six at least."
+        },
+        {
+          "startUid": "u2034",
+          "endUid": "u2038",
+          "quote": "DM: Um, as you approach, uh, I guess make, um-\nUnknown: Perception.\nDM: ... Dead bodies, I'll say investigate. Investigation or medicine, your choice."
+        },
+        {
+          "startUid": "u2051",
+          "endUid": "u2058",
+          "quote": "DM: Um, so, um, uh, Delwath, you, uh, um, notice, looking around, um, there's the... There's, like, of two of the tracks that you've been following sort of detour through this crowd, and there was, like, this... Seems like there's signs of a, of carnage, basically, of a couple giant lizards, like, just ripping through these. The, the creatures seem to be a, a day or two dead. It's hard to say exactly, but, you know, not a few hours and not weeks."
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Follows the broken road east; lizard tracks briefly detour to the carcasses."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u2088",
+        "endUid": "u2089"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continues east along the road to the western canyon rim, beside the ruined waystation.",
+      "evidence": [
+        {
+          "startUid": "u2088",
+          "endUid": "u2089",
+          "quote": "Unknown: Onwards on the road?\nUnknown: Yeah, let's continue."
+        },
+        {
+          "startUid": "u2152",
+          "endUid": "u2177",
+          "quote": "DM: As you continue talking through the day, as you travel and track, um, it is, it is now getting towards evening.\nDM: Um, and in the late afternoon sun, uh, you see ahead of you a gash in the world, almost as if, uh, like a giant sword or a, or a giant hand just pulled the earth apart. Um, this must be the canyon you saw from a distance. It's, it's just cuts through the landscape, not related to the geology of the world at all. Um, the road just kind of ends on the edge of this cliff, um, looking down, uh, hundreds of feet, um, down past talus slopes and, and into the dusty dry bottom of this, just this cleft through the ground.\nDM: And you feel, staring across this canyon, that there is something different about the world beyond, that this is, this is not just stepping, um, you know, this... On the other side of this canyon is not just, um, more of the same. It's, this is the true wilds.\nDM: This is the cursed lands of the, of the Great War. This is, this is the Blasted Plains. And it's, uh, you know, staring across, contemplating this, it's, it's a, it's something, it's something different and new and, and more than you've, uh, something wilder than you've, than you've seen before in your travels. Um-"
+        },
+        {
+          "startUid": "u2214",
+          "endUid": "u2228",
+          "quote": "Seeker: Do the li- lizard tracks come up out of it?\nDM: The lizard tracks come up out of it. You also see... Well,\nDM: Um, you see looking around here as well, um, there are, there's some, uh, sort of on the side north of the road, there's like the, the remains, just like foundations, just stones kind of laid out in a, in the, the pattern of, of the ruins of like a way station or, or something. Um, you know, some kind of, uh, some sort of ruined, um, inn or, or roadhouse or something like that. Um, you know, not, not recent.\nDM: Something that is, that is a few hundred years old at least, right? There's nothing that... There's no walls or, or roofs or anything that remains standing."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "The road ends at the canyon edge."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u2165",
+        "endUid": "u2177"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Looks across the canyon toward the Blasted Plains; seeing the far side is not yet a crossing.",
+      "evidence": [
+        {
+          "startUid": "u2165",
+          "endUid": "u2177",
+          "quote": "DM: And you feel, staring across this canyon, that there is something different about the world beyond, that this is, this is not just stepping, um, you know, this... On the other side of this canyon is not just, um, more of the same. It's, this is the true wilds.\nDM: This is the cursed lands of the, of the Great War. This is, this is the Blasted Plains. And it's, uh, you know, staring across, contemplating this, it's, it's a, it's something, it's something different and new and, and more than you've, uh, something wilder than you've, than you've seen before in your travels. Um-"
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u2325",
+        "endUid": "u2347"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descends the western canyon slope with the horse and reaches the top of a 100-foot basalt cliff that blocks easy progress.",
+      "evidence": [
+        {
+          "startUid": "u2310",
+          "endUid": "u2315",
+          "quote": "Unknown: So let's just, let's just take it.\nKenzo: Let's bring the horse. Let's bring the horse.\nUnknown: Okay.\nDM: Uh, okay. Um, who's leading the way?\nKenzo: Who's our... I guess, is it, uh, has it been the elf that's kind of the lead tracker?\nDelwath: Yeah, I'll lead."
+        },
+        {
+          "startUid": "u2325",
+          "endUid": "u2347",
+          "quote": "DM: Okay. So you, you begin picking your way down the cliff, and, and, um, you know, it's, the descent is not too bad for the first 400 feet or so. It, um, you know, you manage to, to sort of navigate, um, a path and, and sort of pick your way down the slope. It's, it's steep and you have to be careful, um, uh, but it's not a sheer cliff. Uh, and, you know, probably takes you, you know, oh, 15, 20 minutes to kind of pick your way slowly down with the horse. Um-\nUnknown: Mm-hmm.\nDM: ... It's, as you start to pick your way down, it's, it's abundantly clear how, um, you know, especially to Seeker, but really to all of you, how sort of the wrongness of this canyon. It's not, it's not like a canyon carved by s- you know, the action of water. You don't see neat sedimentary layers in the rocks. There's like sharp rocks that jut out in all directions. Um, you know, there's, there's boulders that are sort of resting on ledges that are, that are cracked in half, just clean sheared down the middle, like somebody just sliced a boul- sliced through the boulder. Um, you know, as you begin to sort of, sort of pick your way down as well, um, you know, the rock- Is, is not, it's not sandstone. It's not what you'd sort of expect.\nSeeker: Mm-hmm.\nDM: And, you know, after heading down about 400 feet, um, you come to an area where there seems to be a layer of just like hard basalt or some sort of igneous rock, um, that drops maybe 100 feet in a, in a cliff to a, uh, to a talus slope below it. Um, and you sort of, you sort of pick your way along, um, but it's not, it's not clear that there's an easy way past this basalt layer without finding a way down the cliff."
+        },
+        {
+          "startUid": "u2361",
+          "endUid": "u2364",
+          "quote": "DM: Um, so it's now maybe, uh, 40 minutes till sunset. The sun is sort of just touching the horizon, and you're at the top of 100-foot cliff."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 400,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "Narrated vertical descent, not horizontal route length."
+      },
+      "duration": {
+        "min": 15,
+        "max": 20,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates 15–20 minutes for this descent."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u2449",
+        "endUid": "u2451"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Returns up the slope to the ruined waystation and makes a camp without a fire.",
+      "evidence": [
+        {
+          "startUid": "u2449",
+          "endUid": "u2456",
+          "quote": "Kenzo: So we go back up to where the, uh, the little bit of rubble was and we set up camp, yeah?\nSeeker: Yep.\nWellby: I think we shouldn't make a fire tonight, though. Too visible here.\nSeeker: Yes.\nUnknown: Yeah.\nSeeker: And, uh, and we should set watches like before."
+        },
+        {
+          "startUid": "u2462",
+          "endUid": "u2467",
+          "quote": "Wellby: Oh, interesting. Interesting. As we start to, you know, we're unrolling sleeping bags or, I don't know, whatever adventurers carry, and, um, I spot something out of the corner of my eye and say, \"Whoa, there's something over here. We're not the first people to pass through these way, this way.\" And I head back, uh, having spotted something and, uh, investigate it. Tim, what's-"
+        },
+        {
+          "startUid": "u2521",
+          "endUid": "u2529",
+          "quote": "DM: Okay. It's, it's, it's difficult sleeping, you know, out here. It's, it's, it's quiet. Um, uh, it's almost too quiet, um, after the, you know, the chaos of the past night. And you can still sort of feel the presence of, of something on the other side of the canyon. But you do manage to sleep uninterrupted."
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2764",
+        "endUid": "u2765"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The next morning returns to the basalt cliff, leaving the horse and surplus supplies in Seeker’s earthen enclosure at camp.",
+      "evidence": [
+        {
+          "startUid": "u2655",
+          "endUid": "u2667",
+          "quote": "Seeker: I feel a little, like, a twinge of, like, the shameful glances of my, of my parents over my shoulder as I construct something that does not have the beautiful soaring elegance of stone arches and domes.\nUnknown: [laughs]\nSeeker: And instead is actually just a dirt, uh, box containing a horse, but nonetheless, it is a useful box.\nDM: [laughs] So, yes, that you can do quite, quite quickly.\nSeeker: Okay.\nDM: It probably only takes you a couple minutes to, to dig that out with-\nSeeker: Mm-hmm.\nDM: ... With mold earth, 'cause this, this is all just sort of loose dirt.\nSeeker: Mm-hmm.\nDM: So it's very easy to shape.\nDM: Um, so once you've boxed in the horde, horse and the supplies, um-"
+        },
+        {
+          "startUid": "u2764",
+          "endUid": "u2765",
+          "quote": "DM: Okay, so you make your way back down to the basalt outcropping, and what exactly do you wanna do?"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2826",
+        "endUid": "u2837"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Secures ropes and descends the basalt cliff; everyone reaches the canyon floor safely.",
+      "evidence": [
+        {
+          "startUid": "u2826",
+          "endUid": "u2837",
+          "quote": "DM: Uh, yeah. So, um, so navigating, navigating down, so you, you, you know, uh, tie the rope off at the top, um, pretty securely. You know, drive your, use your crowbar to, like, you know, drive a wedge or something. Na- and nail in a few iron spikes or whatever and, and it's pretty solidly attached there it seems. Um, you know, it, it seems like it would be, uh, quite easy to get down. Um,\nDM: It's, it's still a, it's still a long climb. Um, but it's not, it's not hard, but I'm still gonna make you roll an athletics check."
+        },
+        {
+          "startUid": "u2858",
+          "endUid": "u2861",
+          "quote": "DM: Um, yeah, okay. You all, you all make it down without a, without a problem. It's, it's tiring. It's hard work. Uh, you know, carefully down the-"
+        },
+        {
+          "startUid": "u2878",
+          "endUid": "u2886",
+          "quote": "DM: So, so as you get to the bottom, um, the-\nUnknown: [laughs]\nDM: ... Uh, you know, the, the bottom of the canyon, um, is, is mostly all this sort of, like, loose, loose gravel and, um, you know, this, this sort of like the e- the edge of this talus slope, right? This, like, sort of loose rubble and stuff at the bottom of the cliff. Um, and it's very, very dry, and dusty, and hot even though it's not that late in the day. Um..."
+        },
+        {
+          "startUid": "u2770",
+          "endUid": "u2772",
+          "quote": "Seeker: So, um, how, how far down is it?\nUnknown: 100 feet?\nDM: Yeah."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "climb",
+      "distance": {
+        "value": 100,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "Cliff height confirmed at u2770–u2772; this is the vertical rappel."
+      },
+      "route": [
+        {
+          "reading": "Leaves the ropes secured for the return climb."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2926",
+        "endUid": "u2936"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Crosses the canyon floor and climbs the eastern slot-canyon route, reaching the broken road in the Blasted Plains.",
+      "evidence": [
+        {
+          "startUid": "u2911",
+          "endUid": "u2919",
+          "quote": "DM: So there's a, uh, how to describe this? Uh, in the, in the far side of the canyon you can see now that you're at the bottom, there's almost like a, uh, like a little slot canyon that sticks east and extends into the canyon wall, and then sort of gradually slopes upward. Um, and judging by the position, you would think that this would now connect with, if the, if you just drew a straight line on the road, almost like the area where the road was collapsed more and more gently so it provides, like, a slope going up. And all the tracks seem to be converging upon there.\nUnknown: Let's go check it out.\nDM: Mm-hmm."
+        },
+        {
+          "startUid": "u2926",
+          "endUid": "u2936",
+          "quote": "DM: So as you head across the canyon and up the road, uh, beyond the canyon, um, the land is rough and torn, and what was... You can still see bits of the old trade road, but it's hardly detectable. And what was a formerly sort of straight and true road, even east of, of Gomat, um, is now crossed by occasional fallen rock or piles of loose debris. Um,\nDM: The, the land itself is cracked, uh, and there's, you know, every now and then you'll see a, you know, another small, like, sort of gaping fissure like this, this canyon in, in miniature. And, uh, just any travel here, even along the road, is a, is a slow, hard process as you pick your way through this battered landscape."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Follows the converging tracks up the gently rising slot canyon."
+        },
+        {
+          "place": "p04",
+          "reading": "Regains the fragmented trade road beyond the canyon."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u2937",
+        "endUid": "u2949"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sees two roofless gate towers several miles ahead, before approaching the ruined fort.",
+      "evidence": [
+        {
+          "startUid": "u2937",
+          "endUid": "u2949",
+          "quote": "DM: Um, in the distance maybe, um, three or four miles away, um, you can see, uh, a couple small, short towers, maybe two or three stories, um, ha- tall, um, standing, marking some old ruin, or fort, or something like that along the road.\nKenzo: Towers, three of them?\nDM: Two, two towers, like a, like next to each other, like a gatehouse type thing.\nUnknown: How tall?\nDM: Maybe three stories tall. They're lacking roofs. They seem to be... From this distance it's hard to tell much more about them. It's several miles away. You just see, like, little, you know, little specks on the, on the horizon."
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p10",
+      "mode": "local"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u3040",
+        "endUid": "u3057"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Advances through the broken landscape to the scorpion corpse and injured hyena beside the trail, about a mile and a half short of the fort.",
+      "evidence": [
+        {
+          "startUid": "u2957",
+          "endUid": "u2972",
+          "quote": "DM: So as you begin, um, as you begin to head, um, towards these, these towers, uh, it's increasingly obvious that, that something seems, something seems wrong. Just past the canyon you see, um, a swarm of scorpions that are, um, just regular scorpions, like not big at all. Like, you know, small scorpions swarming across some sort of dead animal, just, like, using their claws to kind of rip into pieces of this, um, this creature's flesh. Um,\nDM: You know, as you continue to walk you notice that, um, there are, you know, ants and small biting insects that are constantly seem to be harassing, almost intentionally seem like they're harassing you. Like, swarming up your legs, and you're stopping, not only dodging the, um, not only, you know, make, picking your way around the landscape but, like, you know, brushing these bugs off. Um..."
+        },
+        {
+          "startUid": "u3040",
+          "endUid": "u3057",
+          "quote": "DM: The... You know, so as you, so as you continue then, um, you see, uh, the t- the towers, as the towers are approaching, um, uh, a little bit to your, um, a little bit south of the trail, uh, you see, um, the dead corpse of w- of a giant scorpion nearly 10 feet long.\nSeeker: Oh.\nUnknown: 10 feet long.\nDM: One claw ripped off, and, and near it a giant hyena, not dead, two dead around it, and it kind of limping, looks like very sick. Um, kind of like, uh, almost as if it's poisoned, just kind of partially paralyzed in a couple legs, snarling at you, but it can't move.\nDM: It's like, uh, trying to charge at you and it, and it just, its, its back legs are paralyzed and it can't walk, but it's still, as it sees you, it looks up from sort of chewing on the, half-heartedly on the scorpion and s- sort of snarls, and foam and blood is, is around it, and it starts trying to drag itself, um, towards you, sort of yelping as it goes."
+        },
+        {
+          "startUid": "u3077",
+          "endUid": "u3078",
+          "quote": "Kenzo: How far are we from, how far are we from the keep again, Tim?\nDM: A mile and a half maybe."
+        },
+        {
+          "startUid": "u3113",
+          "endUid": "u3120",
+          "quote": "Wellby: I will shoot it with an arrow to kill it.\nUnknown: Sensible.\nDM: Okay. It's easy to kill. I mean, it's badly wounded. Um, kind of slumps to the ground, uh, letting out a moan. And still, still, as you, as the arrow pierces it and it begins to die, it turns and it looks at you, the sort of viciousness in its eyes as, as consciousness fades."
+        }
+      ],
+      "from": "p10",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u3157",
+        "endUid": "u3159"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Approaches the fort, passes the ruined outbuildings, and stops at the excavated mound on the right before entering the gate.",
+      "evidence": [
+        {
+          "startUid": "u3157",
+          "endUid": "u3159",
+          "quote": "Kenzo: All right. Let's go check it out.\nDM: Okay.\nUnknown: Let's go on."
+        },
+        {
+          "startUid": "u3180",
+          "endUid": "u3193",
+          "quote": "DM: Um, on the outside of the fort, um, y- there's some, a small cluster of foundations and, and ruined buildings, um, on the outskirts of the road that, or the path, really. It's, it's no longer a clear road, that turns off the main trade road heading to the fort. Um, on either side of this, of this trade road, in between the sort of cluster of, of foundations and, um, the fort itself, still in the distance, you're still 100, 200 yards out, um, there's two large mounds.\nDM: Um, one, as you're looking at the fort, on the left, a grassy mound with, uh, small, um, plants and a few small golden and white flowers blooming on it. On the right, a rocky mound, gravel, dirt. Um, from a distance, it's n- not easy to make out any more details than that. It's almost like two hills placed on the side, um, of, of this path."
+        },
+        {
+          "startUid": "u3336",
+          "endUid": "u3342",
+          "quote": "DM: So, um, yeah, you're, you're... So you're, you're sort of walking up to the gate, and you stop and say this as you begin passing the, the sort of... Kenzo stops and says this as you begin passing the, the sort of the two mounds on either side. So you, you go past the, the little cluster of foundations, and you begin to approach, um, the gate, the entryway itself, and Kenzo sort of grabs you as you're passing the, um, as you're passing the sort of rubble mound on the right."
+        },
+        {
+          "startUid": "u3954",
+          "endUid": "u3955",
+          "quote": "Seeker: And we're outside the fortification here?\nDM: Currently you're outside the fortification."
+        }
+      ],
+      "from": "p16",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Passes the cluster of foundations outside the walls and approaches between two mounds."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3765",
+        "endUid": "u3767"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Leaves the mound investigation and moves over to examine the outer fort walls and stonework; the party remains outside the fortification.",
+      "evidence": [
+        {
+          "startUid": "u3765",
+          "endUid": "u3770",
+          "quote": "DM: Uh, yes. Um, so, so not really seeing much, uh, that you can comment on, uh, on the mound itself, you, um, drift over and kind of start examining the walls and the, and the fort.\nSeeker: Yeah.\nDM: So there's like this outer wall, and then there's some towers beyond. So make a history check for that."
+        },
+        {
+          "startUid": "u3954",
+          "endUid": "u3955",
+          "quote": "Seeker: And we're outside the fortification here?\nDM: Currently you're outside the fortification."
+        }
+      ],
+      "from": "p12",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The source establishes examination of the exterior walls, not entry into the fort."
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u3927",
+        "endUid": "u3939"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Examines the grassy mound across the approach; the DM suggests it is probably an unexcavated grave.",
+      "evidence": [
+        {
+          "startUid": "u3927",
+          "endUid": "u3939",
+          "quote": "Seeker: I'm curious about the grassy mound also to see if I can find anything about that.\nDM: Yeah, it's probably a grave. It just hasn't been dug up. Yeah, the grassy mound-\nUnknown: Oh.\nSeeker: ... Has not been excavated. But maybe this other one looked like that before. I did not gather that.\nDM: It could have, right? It's, it's certainly, it's clearly been disturbed. W- whether it was, you know, a grassy mound before and somebody just didn't finish excavating it seems certainly plausible. Um, uh, g- give me an investigation check for looking at the bodies."
+        }
+      ],
+      "place": "p17",
+      "mode": "local",
+      "note": "The exact observer position is not restated after Seeker moves toward the walls."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u4034",
+        "endUid": "u4038"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Heads up the causeway toward the gate towers at the session cutoff; passage inside the walls is not explicitly completed.",
+      "evidence": [
+        {
+          "startUid": "u4024",
+          "endUid": "u4025",
+          "quote": "DM: I mean, this is where we're gonna end, so if there's anything you wanna do outside the fort, let's wrap that up and then we'll end as you enter the fort.\nSeeker: Okay."
+        },
+        {
+          "startUid": "u4034",
+          "endUid": "u4053",
+          "quote": "DM: Okay. So dusting yourselves off from the battle, you, uh, head up the causeway towards the towers.\nDM: As you begin to approach the towers, you see in front of you, um, the inside of the fort, uh, beyond the sort of earthen dike. And you can see that there are a few buildings that remain standing. Straight ahead of you, there's a large sort of central headquarters building. The roof is of course collapsed or burnt or destroyed somehow.\nDM: But most of the walls remain intact, intact. And to the, to your right, sort of between you and the, um, and the headquarters but off to the right a little bit, there's a pentagonal building. Um, seems to be in surprisingly good repair. Um, a metal domed roof still standing, walls, um, seemingly undestroyed or unharmed, or at least not nearly as badly harmed as the rest of the buildings.\nDM: Looking around, the, other than that, everything else is just ruins. There's like clearly, um, stone sort of laid around like, like marking foundations and things of a number of long buildings, probably barracks or stables. But other than those two, um, everything else is collapsed.\nDM: Looking across this expanse, thinking about what to do next is where we're gonna stop."
+        }
+      ],
+      "from": "p12",
+      "to": "p11",
+      "completion": "underway",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p13",
+          "reading": "Moves up the causeway toward the towers."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u4039",
+        "endUid": "u4047"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the approaching gate, sees the roofless central headquarters within the fort.",
+      "evidence": [
+        {
+          "startUid": "u4034",
+          "endUid": "u4047",
+          "quote": "DM: Okay. So dusting yourselves off from the battle, you, uh, head up the causeway towards the towers.\nDM: As you begin to approach the towers, you see in front of you, um, the inside of the fort, uh, beyond the sort of earthen dike. And you can see that there are a few buildings that remain standing. Straight ahead of you, there's a large sort of central headquarters building. The roof is of course collapsed or burnt or destroyed somehow.\nDM: But most of the walls remain intact, intact. And to the, to your right, sort of between you and the, um, and the headquarters but off to the right a little bit, there's a pentagonal building. Um, seems to be in surprisingly good repair. Um, a metal domed roof still standing, walls, um, seemingly undestroyed or unharmed, or at least not nearly as badly harmed as the rest of the buildings."
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p13",
+      "mode": "local"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u4043",
+        "endUid": "u4047"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sees the pentagonal building’s intact metal dome beyond the fort entrance; no entry into this building is played.",
+      "evidence": [
+        {
+          "startUid": "u4039",
+          "endUid": "u4047",
+          "quote": "DM: As you begin to approach the towers, you see in front of you, um, the inside of the fort, uh, beyond the sort of earthen dike. And you can see that there are a few buildings that remain standing. Straight ahead of you, there's a large sort of central headquarters building. The roof is of course collapsed or burnt or destroyed somehow.\nDM: But most of the walls remain intact, intact. And to the, to your right, sort of between you and the, um, and the headquarters but off to the right a little bit, there's a pentagonal building. Um, seems to be in surprisingly good repair. Um, a metal domed roof still standing, walls, um, seemingly undestroyed or unharmed, or at least not nearly as badly harmed as the rest of the buildings."
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p13",
+      "mode": "local"
+    }
+  ]
+}

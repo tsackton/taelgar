@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-time-markers.json",
+    "sha256": "82bbe971dcf014e547bce7315bd27519bd4913e17e4a8203428571e416474b57"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-transcript.md",
+    "sha256": "104472cc7de521aae0fce24292e027b82841320b62b1cc8718805095032173a6"
+  },
+  "dateAssessment": "No absolute dates are spoken; March 23–25, 1748 uses the YAML opening date and two narrated overnight transitions, matching the YAML span conditionally.",
+  "watches": [
+    {
+      "day": "March 23, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Opening clarified as about 9 p.m.; Seeker later completes a ten-minute ritual.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-03-23",
+      "endDate": "1748-03-23"
+    },
+    {
+      "day": "March 23–24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Party sleeps through the night; long-rest credit implies eight hours, followed by sunrise.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-03-23",
+      "endDate": "1748-03-24"
+    },
+    {
+      "day": "March 24, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "After sunrise, dissection takes an hour; the eastward journey is underway by midmorning.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-03-24",
+      "endDate": "1748-03-24"
+    },
+    {
+      "day": "March 24, 1748",
+      "startWatch": "morning",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Midmorning travel reaches the canyon before sunset; a 15–20-minute descent ends about forty minutes before sunset.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-03-24",
+      "endDate": "1748-03-24"
+    },
+    {
+      "day": "March 24–25, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "After returning to camp near sunset, the party sleeps uninterrupted until the next morning.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-03-24",
+      "endDate": "1748-03-25"
+    },
+    {
+      "day": "March 25, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Seeker builds the horse enclosure in a couple of minutes before the morning descent.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-03-25",
+      "endDate": "1748-03-25"
+    },
+    {
+      "day": "March 25, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "After the canyon crossing, the injured-hyena stop is explicitly about lunchtime.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-03-25",
+      "endDate": "1748-03-25"
+    }
+  ]
+}
