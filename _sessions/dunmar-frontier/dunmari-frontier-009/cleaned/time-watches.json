@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-time-markers.json",
+    "sha256": "93a7c9c0cf58eec9a2cf3ea2c4494211ecf5f0f0fe5484ea6ff7c6ce3c8dfcf3"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-transcript.md",
+    "sha256": "c2216028f3a35988cc8bd0e5b1b313c522f0c401f28c87a0acfe2b5736885039"
+  },
+  "dateAssessment": "April 12, 1748 comes only from YAML; continuous same-day exploration matches that span conditionally, with mid-afternoon explicitly stated after the short rest.",
+  "watches": [
+    {
+      "day": "April 12, 1748 (YAML)",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": null,
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Opening clock unknown; half-hour investigation and one-hour rest precede Wellby’s explicit mid-afternoon lookout.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09"
+      ]
+    },
+    {
+      "day": "April 12, 1748 (YAML)",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "scope": "Delwath scouting",
+      "summary": "After the afternoon anchor, Delwath scouts at least five minutes, then pauses one minute.",
+      "markers": [
+        "t10",
+        "t11"
+      ],
+      "sourceRanges": [
+        [
+          "u0681",
+          "u0687"
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-009",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+    "sessionYamlSha256": "3a66899fdea56450714185027668ee12e7df75f062f33e4d2479ca1cb2c62a85",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-transcript.md",
+    "transcriptSha256": "c2216028f3a35988cc8bd0e5b1b313c522f0c401f28c87a0acfe2b5736885039",
+    "yamlDates": {
+      "start": "1748-04-12",
+      "end": "1748-04-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0024",
+        "endUid": "u0025"
+      },
+      "reading": "Play resumes in the marketplace moments after the roper was defeated.",
+      "evidence": [
+        {
+          "startUid": "u0024",
+          "endUid": "u0025",
+          "quote": "Beneath the mountains, you all breathe a sigh of relief, having moments ago defeated a roper, a many-tentacled stalagmite creature with a vicious bite."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "The roper fight immediately preceding the session"
+        },
+        "precision": "approximate",
+        "basis": "DM says the fight ended moments ago"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0279",
+        "endUid": "u0286"
+      },
+      "reading": "Delwath spends a few minutes detecting magic on the pearl while the others investigate.",
+      "evidence": [
+        {
+          "startUid": "u0279",
+          "endUid": "u0286",
+          "quote": "Okay, so Delwath kind of goes into a trance for a few minutes"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0344",
+        "endUid": "u0345"
+      },
+      "reading": "Riswynn prays over the pearl for a few minutes.",
+      "evidence": [
+        {
+          "startUid": "u0344",
+          "endUid": "u0345",
+          "quote": "Okay, so Riswynn focuses and concentrates for a few minutes and kind of prays over the item."
+        }
+      ],
+      "actors": [
+        "Riswynn"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0431",
+        "endUid": "u0436"
+      },
+      "reading": "Wellby spends about thirty seconds staring at the graffiti before recognizing it.",
+      "evidence": [
+        {
+          "startUid": "u0431",
+          "endUid": "u0436",
+          "quote": "for the first 30 seconds or so, he's just sort of lost in his own thoughts"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Thirty seconds or so, converted to minutes"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0583",
+        "endUid": "u0586"
+      },
+      "reading": "About half an hour has passed during the marketplace investigation before the short rest.",
+      "evidence": [
+        {
+          "startUid": "u0583",
+          "endUid": "u0586",
+          "quote": "It's only been about half an hour at this point"
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM cumulative elapsed-time statement"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0620",
+        "endUid": "u0621"
+      },
+      "reading": "The party completes a short rest in the tavern.",
+      "evidence": [
+        {
+          "startUid": "u0620",
+          "endUid": "u0621",
+          "quote": "Okay, so you rest. Everybody can take a short rest. Anybody who wants to, I guess Wellby, can roll Hit Dice."
+        },
+        {
+          "startUid": "u0147",
+          "endUid": "u0148",
+          "quote": "I mean, short rest is, is takes an hour."
+        },
+        {
+          "startUid": "u0642",
+          "endUid": "u0643",
+          "quote": "Okay, so everybody's short rested, got your ki back, got your—"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention, explicitly described as an hour at u0147–u0148"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0681",
+        "endUid": "u0687"
+      },
+      "reading": "It is probably mid-afternoon when Wellby looks out after the short rest.",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0687",
+          "quote": "what do you can see from here is probably mid afternoon at this point after your short rest"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "mid-afternoon",
+        "precision": "approximate",
+        "basis": "DM estimates the time of the lookout"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1249",
+        "endUid": "u1251"
+      },
+      "reading": "Wellby spends a while thoroughly checking the mirror-door room for traps.",
+      "evidence": [
+        {
+          "startUid": "u1249",
+          "endUid": "u1251",
+          "quote": "you spend a while kind of poking around"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "text": "a while",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1581",
+        "endUid": "u1584"
+      },
+      "reading": "Kenzo opens the second chest in about a minute.",
+      "evidence": [
+        {
+          "startUid": "u1581",
+          "endUid": "u1584",
+          "quote": "Well, in a minute or so, Kenzo manages to figure this one out. Open it."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates successful lock picking"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1911",
+        "endUid": "u1914"
+      },
+      "reading": "Delwath has been scouting quietly for at least five minutes at this point.",
+      "evidence": [
+        {
+          "startUid": "u1911",
+          "endUid": "u1914",
+          "quote": "So not moving too fast. So he's probably taken five minutes at least. He's been gone at least five minutes by now. Um."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "min": 5,
+        "minInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM estimates elapsed scouting so far"
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1932",
+        "endUid": "u1935"
+      },
+      "reading": "Delwath pauses for a minute to check for tracks before continuing to the shaft.",
+      "evidence": [
+        {
+          "startUid": "u1932",
+          "endUid": "u1935",
+          "quote": "I'll pause for a minute before I keep going and check again for any signs that any creatures have been here."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Declared pause followed by the resolved Survival check"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "April 12, 1748 is supplied only by YAML; the transcript independently establishes mid-afternoon after the rest.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "Continuous exploration from the immediate aftermath of the roper fight to the locked eastern gate includes a short rest but no overnight or day change. This supports the zero-boundary span conditional on the YAML date. Opening reports of refugees and older wars do not extend the played interval."
+  }
+}
