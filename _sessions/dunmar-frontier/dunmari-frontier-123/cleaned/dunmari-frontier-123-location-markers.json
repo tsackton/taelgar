@@ -1,0 +1,617 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-123",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+    "sessionYamlSha256": "d13a3a3e116c05eb1489f1f5fe991a751adcc9d4d188d26cd78f3c0dc5e21c99",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-transcript.md",
+    "transcriptSha256": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8"
+  },
+  "places": {
+    "p01": {
+      "label": "Sunlit chamber beneath Redsun Watch",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0016",
+          "quote": "the sunlit, shimmering hall beneath the ruined tower of Redsun Keep"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0021",
+              "endUid": "u0028",
+              "quote": "you found yourself finally underneath the central tower of this keep"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Redsun Watch",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0028",
+          "quote": "infiltrating the Redsun Watch cloaked entirely in supernatural darkness"
+        }
+      ],
+      "kind": "keep",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Redsun Watch.md",
+      "aliases": [
+        "Redsun Keep"
+      ]
+    },
+    "p03": {
+      "label": "Cloud Palace",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0046",
+          "quote": "the Cloud Palace drifting across the subtly glowing plains below"
+        }
+      ],
+      "kind": "palace",
+      "mobile": true,
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Cloud Palace.md"
+    },
+    "p04": {
+      "label": "Prismwell",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0046",
+          "quote": "images that you know somehow are the Prismwell itself."
+        }
+      ],
+      "kind": "sanctuary",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Prismwell.md"
+    },
+    "p05": {
+      "label": "Base camp outside Redsun Watch",
+      "evidence": [
+        {
+          "startUid": "u0178",
+          "endUid": "u0181",
+          "quote": "the base camp where the satyr and the and the and the griffins are waiting"
+        }
+      ],
+      "kind": "camp"
+    },
+    "p06": {
+      "label": "Sunlit tower roof",
+      "evidence": [
+        {
+          "startUid": "u0198",
+          "endUid": "u0204",
+          "quote": "manage finally to emerge at the sunlit roof."
+        }
+      ],
+      "kind": "tower roof"
+    },
+    "p07": {
+      "label": "River route across Amberglow",
+      "evidence": [
+        {
+          "startUid": "u0614",
+          "endUid": "u0616",
+          "quote": "you're sort of following the course of the river a little bit, following the sparkles from beneath you."
+        }
+      ],
+      "kind": "route"
+    },
+    "p08": {
+      "label": "Plain where the Prismwell stood",
+      "evidence": [
+        {
+          "startUid": "u1310",
+          "endUid": "u1312",
+          "quote": "you're left standing on an empty plain"
+        }
+      ],
+      "kind": "plain"
+    },
+    "p09": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u1324",
+          "endUid": "u1328",
+          "quote": "the portal appears leading you to Vindristjarna."
+        }
+      ],
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p10": {
+      "label": "Pava and Avaras’ house",
+      "evidence": [
+        {
+          "startUid": "u1343",
+          "endUid": "u1348",
+          "quote": "Flying over a red stone house."
+        },
+        {
+          "startUid": "u1348",
+          "endUid": "u1348",
+          "quote": "DM: Pava and Avaras live."
+        }
+      ],
+      "kind": "house",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0016"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party opens in the illuminated chamber beneath Redsun Watch’s central tower.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0016",
+          "quote": "we will pick up in the sunlit, shimmering hall beneath the ruined tower of Redsun Keep."
+        },
+        {
+          "startUid": "u0021",
+          "endUid": "u0028",
+          "quote": "the tallest and most central of which you are now underneath."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0046"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The beacon shows the Cloud Palace drifting over Amberglow; this is an image, not a visit.",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0046",
+          "quote": "DM: Visions of Amberglow, of the Cloud Palace drifting across the subtly glowing plains below, the grasses waving under a reddish light. The clouds of the palace, a swirling mix of oranges and yellows streaming behind, almost like a wake, as the billowy palace drifts peacefully across the land, and images that you know somehow are the Prismwell itself."
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0047",
+        "endUid": "u0059"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The beacon shows the cloud pyramid and basin of the Prismwell, which has manifested elsewhere.",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "DM: The outside, a swirling pyramid reaching to the sky to a point of red clouds whirling like a funnel, flashes of gold and pink mixed within them, and then flashes of transparency passing through a shallow basin set gracefully in a smooth basin of paved stone, iridescent paved stone, glittering with pinks and purples of the deep sunlight."
+        },
+        {
+          "startUid": "u0052",
+          "endUid": "u0054",
+          "quote": "DM: And inside the basin, what looks like liquefied cloud, swirling, bubbling, drifting as if stirred by an unseen breeze, reflecting again the—every subtle shade of pink and orange and red of the sunset."
+        },
+        {
+          "startUid": "u0055",
+          "endUid": "u0059",
+          "quote": "DM: This vision sticks with you, as if somehow lighting this room, bringing the magic of—well, the power of Riswynn's magic, the sunlight summoned by the gods here—has opened a connection or or brought the Prismwell—not here. It's not sitting in this room with you. But you can tell that something's changed as you look around."
+        },
+        {
+          "startUid": "u0089",
+          "endUid": "u0090",
+          "quote": "DM: Didn't mean to be to be subtle. It, like, lighting up this room caused the Prismwell to manifest in Amberglow. So we just gotta find—"
+        }
+      ],
+      "place": "p04",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0145",
+        "endUid": "u0147"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "Four companions dimension door from the chamber to the base camp; Wellby remains behind.",
+      "evidence": [
+        {
+          "startUid": "u0145",
+          "endUid": "u0147",
+          "quote": "DM: So as Riswynn and Seeker and Delwath and Kenzo vanish, Wellby is left in the lighted room, death warded and ready to run."
+        },
+        {
+          "startUid": "u0178",
+          "endUid": "u0181",
+          "quote": "DM: No worries. Kenzo, Delwath, Riswynn and Seeker dimension doored back to—out from the chamber back to the base camp where the satyr and the and the and the griffins are waiting, and Wellby is currently trying to flee on his own through the darkness."
+        },
+        {
+          "startUid": "u0132",
+          "endUid": "u0134",
+          "quote": "DM: Yes. So just going 500 feet back where you came from. I'll mark off the dimension door."
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "dimension door",
+      "distance": {
+        "value": 500,
+        "unit": "foot",
+        "precision": "exact",
+        "basis": "DM announces the teleport distance at u0132–u0134."
+      }
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0152",
+        "endUid": "u0204"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby retraces the tunnel and dark tower staircase to its sunlit roof.",
+      "evidence": [
+        {
+          "startUid": "u0152",
+          "endUid": "u0154",
+          "quote": "Wellby: I think I'm going to go back the way that we came down, so just do the whole thing."
+        },
+        {
+          "startUid": "u0164",
+          "endUid": "u0165",
+          "quote": "DM: Okay, so you you find your way to the—you—you emerge from the tunnel onto this bottom floor of the tower, where you can hear the noise of something stirring in the courtyard."
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0204",
+          "quote": "DM: So, Wellby, as you begin to move quickly, your hand on the wall, feeling your way up the staircase, the empty space of the room on your left as you spiral up against the wall, the sounds creeping behind you, sound of footsteps, the sound of something in the dark, and every time you look around, every time you stop, it stops, and you keep telling yourself, \"It's not real. It's just in my mind. This happened on the way down, I remember,\" and you move quicker and quicker as you begin heading up to the top, but keeping your wits about you, and manage finally to emerge at the sunlit roof."
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "reading": "Passes the bottom floor of the dark tower and climbs its wall-side spiral staircase."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0213",
+        "endUid": "u0260"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies across the courtyard, escapes the grasping darkness, and lands with his companions, Valeris, and the griffins.",
+      "evidence": [
+        {
+          "startUid": "u0213",
+          "endUid": "u0216",
+          "quote": "DM: Dive off, open up your wings from your armor, and begin to fly as fast as you can, racing across the courtyard. You hear shrieks from below, and flying out of the night—Where is this?"
+        },
+        {
+          "startUid": "u0255",
+          "endUid": "u0260",
+          "quote": "DM: A—you just see, as he shoots out from the darkness, like a giant, shadowy hand reaching for his leg, and as it's about to grapple him, suddenly this little rune that's spinning around his head explodes next to the hand, and the darkness shatters for a second, allowing him to dart away to safety. And you find yourself now landing next to the rest of the party, next to the satyr and the griffins, about of—about a hundred feet from where the darkness begins on the far side of the walls, away from the patrols and the minions that lurk in the courtyard."
+        }
+      ],
+      "from": "p06",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Crosses above the courtyard and exits beyond the walls, landing about a hundred feet outside the darkness."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0320",
+        "endUid": "u0325"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "The reunited group departs camp on griffins and Wellby’s wyvern, following the seeking trail southwest toward the river.",
+      "evidence": [
+        {
+          "startUid": "u0307",
+          "endUid": "u0308",
+          "quote": "DM: Now only Wellby can see. Once it races off, only Wellby can see it, a clear, glowing line of sunset-tinged sort of glittering footsteps leading off to the southwest."
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0325",
+          "quote": "DM: Climb on his back. The rest of you mount the griffins, and as you take off, racing across the the land of Amberglow following Wellby, who's following the glowing footsteps below him, you can see these 3 shadow shapes beginning to in the distance, maybe 1,000 feet behind you, beginning to inflate their wings, and then breaking off, racing after you."
+        },
+        {
+          "startUid": "u0614",
+          "endUid": "u0616",
+          "quote": "DM: Wellby turns a little bit on the griffin, and you're sort of following the course of the river a little bit, following the sparkles from beneath you. At least for a minute, you seem to be out of sight."
+        },
+        {
+          "startUid": "u0652",
+          "endUid": "u0656",
+          "quote": "DM: So Seeker is going to—Seeker, before—just before the invisibility wears off, Seeker's, like, is looking around. You know, this land is not totally devoid of life, right? Like, especially along the river, you do see the occasional, like, little sparrow or something, and Seeker just mimics whatever it is that he can see, and you just kind of quietly mix in with the the local fauna."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Flies over scattered scrubland toward the previously crossed river; the proposed river landing and splash are abandoned."
+        }
+      ],
+      "note": "The destination is the airborne river route, not a landing. Rider assignments conflict at u0434–u0435 and u0562–u0565; this marker does not assign individual mounts."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0586",
+        "endUid": "u0595"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Seeker and Riswynn peel sideways out of the lead formation on invisible griffins, continue along an arc behind the pursuers, then blend with river birds.",
+      "evidence": [
+        {
+          "startUid": "u0586",
+          "endUid": "u0595",
+          "quote": "DM: Yeah. Okay, so the wyvern begins to do this, like, big sort of display, like beginning to get up into a circle and spin around, and you know it's laying itself up like a big target, and just kind of, you know, dancing around, and at the same time all of the griffins kind of dart around. The wyvern is substantially bigger than any of the griffins. Sort of begin to dart around. Wyvern turns back and looks at these 3 shadow beasts and gives a big roar and, like, shakes its tail, and at the exact moment when, assuming these things rely on sight, the—the wyverns are blocked—the wyvern's body is blocking the sight of the griffins in front of you. It turns back and gives a roar, and, like, snaps its jaws as if it's trying to bite something out of the air, and then begins to fly up, shaking its head, and then 2 griffins and 2 people riding them vanish, and then it gives another roar and sort of dives down and begins flying now quicker as Seeker and Riswynn sort of peel off invisibly to the sides."
+        },
+        {
+          "startUid": "u0625",
+          "endUid": "u0632",
+          "quote": "Riswynn: Why would we stop? We're not stopping."
+        },
+        {
+          "startUid": "u0652",
+          "endUid": "u0656",
+          "quote": "DM: So Seeker is going to—Seeker, before—just before the invisibility wears off, Seeker's, like, is looking around. You know, this land is not totally devoid of life, right? Like, especially along the river, you do see the occasional, like, little sparrow or something, and Seeker just mimics whatever it is that he can see, and you just kind of quietly mix in with the the local fauna."
+        }
+      ],
+      "from": "p07",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly; later animal shapes",
+      "route": [
+        {
+          "reading": "Keeps moving toward the same destination behind the pursuers; no stationary waiting or river landing is established."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0726",
+        "endUid": "u0763"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Valeris"
+      ],
+      "reading": "The lead group follows the river into mist, stays beyond the mounted archers’ reach, and lands at the Prismwell.",
+      "evidence": [
+        {
+          "startUid": "u0726",
+          "endUid": "u0731",
+          "quote": "DM: And the rest of you just race forward as now they begin slowly gaining as you're following the course of the river. The sun getting slightly brighter in the sky, and you begin to start to see colors after about—maybe, like, this land has mostly been desaturated, but after about maybe half an hour of flying, you're occasionally, like, flying through clouds, like the the—the clouds are getting much thicker. The land is getting almost mistier. Occasional fog banks begin to appear, and the light is becoming a lot more intense, and it's almost like the saturation is being turned up in the world."
+        },
+        {
+          "startUid": "u0732",
+          "endUid": "u0738",
+          "quote": "DM: You begin flying, still pushing yourself, still pushing the wyvern, racing across the ground, and hearing now howls from below, as, racing across the plains, you see another pack of those wargs and duskhounds mounted on them, beginning to aim their arrows at you as you shoot up into the sky, and as you burst through a cloud opening up a vista before you, you can see this pyramid not more than a mile in front of you."
+        },
+        {
+          "startUid": "u0755",
+          "endUid": "u0759",
+          "quote": "DM: The wyvern's still, like, half a mile away or so, right? They haven't—they've only closed up a small part of the gap. The warg riders and duskhounds noticing you, but you're too high up. They're they're sort of beginning to wheel and circle towards the towards the mist, when suddenly you burst through the clouds and see, swirling below you, a pool of what seems like liquid color."
+        },
+        {
+          "startUid": "u0760",
+          "endUid": "u0762",
+          "quote": "DM: From the inside, now, just gray clouds surrounding you. Everything is sort of misty and shadowy. Have no idea whether any of these creatures that are chasing you can enter this space or not, but I presume you land."
+        },
+        {
+          "startUid": "u0763",
+          "endUid": "u0763",
+          "quote": "Delwath: Yeah."
+        }
+      ],
+      "from": "p07",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Passes above the plains with warg-mounted duskhounds, then bursts through the cloud pyramid."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0764",
+        "endUid": "u0772"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Seeker and Riswynn join the others at the Prismwell; they and their griffins revert from bird forms.",
+      "evidence": [
+        {
+          "startUid": "u0764",
+          "endUid": "u0765",
+          "quote": "DM: And you look around as Seeker and Riswynn and the griffins shift back. Think you can turn into a—"
+        },
+        {
+          "startUid": "u0771",
+          "endUid": "u0772",
+          "quote": "DM: So you all stand and look at each other. You don't know how long you have. Maybe minutes before any of these hunters reach the edge of this cloud wall."
+        }
+      ],
+      "from": "p07",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly as birds"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u1310",
+        "endUid": "u1312"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After Cloudspinner departs with Valeris, the well and its cloud wall vanish, leaving the party on the exposed plain.",
+      "evidence": [
+        {
+          "startUid": "u1310",
+          "endUid": "u1312",
+          "quote": "DM: And she begins to walk out from the clouds, and as she walks through the clouds, the Prismwell and the clouds surrounding it vanish, and you're left standing on an empty plain, Valeris having gone with Cloudspinner."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1324",
+        "endUid": "u1328"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party crosses the Rainbow Bridge onto Vindristjarna, floating forty feet above the desert and the red-stone house.",
+      "evidence": [
+        {
+          "startUid": "u1324",
+          "endUid": "u1328",
+          "quote": "DM: So you open the Rainbow Bridge, and the portal appears leading you to Vindristjarna. You step across and find yourself floating 40 feet above a desert. The—"
+        },
+        {
+          "startUid": "u1343",
+          "endUid": "u1344",
+          "quote": "DM: Flying over a red stone house. Nobody recognizes this?"
+        },
+        {
+          "startUid": "u1350",
+          "endUid": "u1354",
+          "quote": "DM: You see, sitting on the ground below you, Amil, Kenzo's apprentice, and Pava in discussion, while Faldrak paces on the deck of the ship, and I think that is where we will pick up next time. Yeah."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge",
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "above",
+          "target": "p10",
+          "note": "Temporary position over the house; the ship is not a geographic part of it."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1343",
+        "endUid": "u1354"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the ship the party recognizes Pava and Avaras’ house and sees Amil and Pava talking on the ground below.",
+      "evidence": [
+        {
+          "startUid": "u1343",
+          "endUid": "u1344",
+          "quote": "DM: Flying over a red stone house. Nobody recognizes this?"
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1347",
+          "quote": "Kenzo: Avaras and Pava."
+        },
+        {
+          "startUid": "u1348",
+          "endUid": "u1348",
+          "quote": "DM: Pava and Avaras live."
+        },
+        {
+          "startUid": "u1350",
+          "endUid": "u1354",
+          "quote": "DM: You see, sitting on the ground below you, Amil, Kenzo's apprentice, and Pava in discussion, while Faldrak paces on the deck of the ship, and I think that is where we will pick up next time. Yeah."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p09",
+      "observedActors": [
+        "Amil",
+        "Pava"
+      ]
+    }
+  ]
+}

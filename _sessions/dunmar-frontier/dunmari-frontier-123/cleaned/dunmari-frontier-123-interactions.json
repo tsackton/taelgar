@@ -1,0 +1,959 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-entity-map.json",
+      "sha256": "46a1ae9d17e1cbafce1b0a2cb836c051a5ee42fd86c98dc4e0925ef23fad0363"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Vashan’s earlier guidance on the beacons",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0020"
+      },
+      "lines": [
+        "%% u0017:0-95, u0018:0-105, u0019:0-46, u0020:0-112 %%",
+        "DM: And from Count Vashan you learned that, yes, at the heart of all these keeps were beacons, were some kind of signal runes that connected signals of some kind connected to a Prismwell, the details being well, you never learned any details other than this would be a way to help find the Prismwell, or summon the Prismwell, and so point the path to the Prismwell."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, music.",
+          "DM: Okay, so we will pick up in the sunlit, shimmering hall beneath the ruined tower of Redsun Keep. It has been hard to know exactly how much time, actually, since you entered the Feywild, made your way through Emberwine to Sunwine Hall, where you met a number of fey characters of various degrees of dubiousness, and from Count Vashan, once a servant, or courtier, or advisor of some kind to the Cloudspinner, but who betrayed her inadvertently or on purpose—you never quite could learn—who let you know that at the heart of all of the keeps the Cloudspinner built across Amberglow, all of the watches on the border of her realm, guarded the Sunset Gate, the wall of sunset that divides day from night in the Feywild, that watched for incursions from the darkness of Harrow and Wend, the fey lords or lord—people refer to both names, but it's never been quite clear if those are 2 separate entities or 2 aspects of one entity—rule the paired fey realms of Hollowdark and Darkfall across the Sunset Gate from the Cloudspinner."
+        ],
+        "after": [
+          "DM: And after traveling across Emberwine, and then turning north and avoiding dangers, destroying the hunters of the Gloom Shaper seeking to prevent you from restoring the Cloudspinner and infiltrating the Redsun Watch cloaked entirely in supernatural darkness—a thick fog, almost a soup-like blackness, more a physical presence than just the absence of light—you found yourself finally underneath the central tower of this keep, the courtyard of the keep being composed of 3 towers, the tallest and most central of which you are now underneath.",
+          "DM: Above you, some dark entity from Hollowdark dwells, concentrating to channel the river of darkness that is flowing into Amberglow.",
+          "DM: But here, in this chamber below, as Riswynn's sunbeam spell blazes to light, the chamber itself lit up with echoes of the sunset, glowing and reflecting and amplifying the light of the spell. And in this light—and it's reflected in this sort of shimmering glow—you can see images, you can see scenes flashing around you of the keep as it was, 3 towers in a triangle, the furthest away one made of glowing red stone, rising taller than the rest, and suffused with a light that seemed to seep up from its roots, presumably where you are standing now, the towers standing guard against anything that might try to cross the Sunset Gate.",
+          "DM: Visions of Amberglow, of the Cloud Palace drifting across the subtly glowing plains below, the grasses waving under a reddish light. The clouds of the palace, a swirling mix of oranges and yellows streaming behind, almost like a wake, as the billowy palace drifts peacefully across the land, and images that you know somehow are the Prismwell itself.",
+          "DM: The outside, a swirling pyramid reaching to the sky to a point of red clouds whirling like a funnel, flashes of gold and pink mixed within them, and then flashes of transparency passing through a shallow basin set gracefully in a smooth basin of paved stone, iridescent paved stone, glittering with pinks and purples of the deep sunlight."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The unseen channeler above the chamber",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0030"
+      },
+      "lines": [
+        "%% u0029:0-49, u0030:0-78 %%",
+        "DM: Above you, some dark entity from Hollowdark dwells, concentrating to channel the river of darkness that is flowing into Amberglow."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, music.",
+          "DM: Okay, so we will pick up in the sunlit, shimmering hall beneath the ruined tower of Redsun Keep. It has been hard to know exactly how much time, actually, since you entered the Feywild, made your way through Emberwine to Sunwine Hall, where you met a number of fey characters of various degrees of dubiousness, and from Count Vashan, once a servant, or courtier, or advisor of some kind to the Cloudspinner, but who betrayed her inadvertently or on purpose—you never quite could learn—who let you know that at the heart of all of the keeps the Cloudspinner built across Amberglow, all of the watches on the border of her realm, guarded the Sunset Gate, the wall of sunset that divides day from night in the Feywild, that watched for incursions from the darkness of Harrow and Wend, the fey lords or lord—people refer to both names, but it's never been quite clear if those are 2 separate entities or 2 aspects of one entity—rule the paired fey realms of Hollowdark and Darkfall across the Sunset Gate from the Cloudspinner.",
+          "DM: And from Count Vashan you learned that, yes, at the heart of all these keeps were beacons, were some kind of signal runes that connected signals of some kind connected to a Prismwell, the details being well, you never learned any details other than this would be a way to help find the Prismwell, or summon the Prismwell, and so point the path to the Prismwell.",
+          "DM: And after traveling across Emberwine, and then turning north and avoiding dangers, destroying the hunters of the Gloom Shaper seeking to prevent you from restoring the Cloudspinner and infiltrating the Redsun Watch cloaked entirely in supernatural darkness—a thick fog, almost a soup-like blackness, more a physical presence than just the absence of light—you found yourself finally underneath the central tower of this keep, the courtyard of the keep being composed of 3 towers, the tallest and most central of which you are now underneath."
+        ],
+        "after": [
+          "DM: But here, in this chamber below, as Riswynn's sunbeam spell blazes to light, the chamber itself lit up with echoes of the sunset, glowing and reflecting and amplifying the light of the spell. And in this light—and it's reflected in this sort of shimmering glow—you can see images, you can see scenes flashing around you of the keep as it was, 3 towers in a triangle, the furthest away one made of glowing red stone, rising taller than the rest, and suffused with a light that seemed to seep up from its roots, presumably where you are standing now, the towers standing guard against anything that might try to cross the Sunset Gate.",
+          "DM: Visions of Amberglow, of the Cloud Palace drifting across the subtly glowing plains below, the grasses waving under a reddish light. The clouds of the palace, a swirling mix of oranges and yellows streaming behind, almost like a wake, as the billowy palace drifts peacefully across the land, and images that you know somehow are the Prismwell itself.",
+          "DM: The outside, a swirling pyramid reaching to the sky to a point of red clouds whirling like a funnel, flashes of gold and pink mixed within them, and then flashes of transparency passing through a shallow basin set gracefully in a smooth basin of paved stone, iridescent paved stone, glittering with pinks and purples of the deep sunlight.",
+          "DM: And inside the basin, what looks like liquefied cloud, swirling, bubbling, drifting as if stirred by an unseen breeze, reflecting again the—every subtle shade of pink and orange and red of the sunset.",
+          "DM: This vision sticks with you, as if somehow lighting this room, bringing the magic of—well, the power of Riswynn's magic, the sunlight summoned by the gods here—has opened a connection or or brought the Prismwell—not here. It's not sitting in this room with you. But you can tell that something's changed as you look around."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Color returns to the possessing Lady Eventide",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0060",
+        "endUid": "u0061"
+      },
+      "lines": [
+        "%% u0060:0-228, u0061:0-54 %%",
+        "DM: Seeker now, totally possessed by Lady Eventide, stands in awe, sort of looking around, color beginning to creep from her feet up through Seeker's body, bright, almost vivid, oversaturated color beginning to slowly seep into him, as you look around, wondering what your next steps are."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But here, in this chamber below, as Riswynn's sunbeam spell blazes to light, the chamber itself lit up with echoes of the sunset, glowing and reflecting and amplifying the light of the spell. And in this light—and it's reflected in this sort of shimmering glow—you can see images, you can see scenes flashing around you of the keep as it was, 3 towers in a triangle, the furthest away one made of glowing red stone, rising taller than the rest, and suffused with a light that seemed to seep up from its roots, presumably where you are standing now, the towers standing guard against anything that might try to cross the Sunset Gate.",
+          "DM: Visions of Amberglow, of the Cloud Palace drifting across the subtly glowing plains below, the grasses waving under a reddish light. The clouds of the palace, a swirling mix of oranges and yellows streaming behind, almost like a wake, as the billowy palace drifts peacefully across the land, and images that you know somehow are the Prismwell itself.",
+          "DM: The outside, a swirling pyramid reaching to the sky to a point of red clouds whirling like a funnel, flashes of gold and pink mixed within them, and then flashes of transparency passing through a shallow basin set gracefully in a smooth basin of paved stone, iridescent paved stone, glittering with pinks and purples of the deep sunlight.",
+          "DM: And inside the basin, what looks like liquefied cloud, swirling, bubbling, drifting as if stirred by an unseen breeze, reflecting again the—every subtle shade of pink and orange and red of the sunset.",
+          "DM: This vision sticks with you, as if somehow lighting this room, bringing the magic of—well, the power of Riswynn's magic, the sunlight summoned by the gods here—has opened a connection or or brought the Prismwell—not here. It's not sitting in this room with you. But you can tell that something's changed as you look around."
+        ],
+        "after": [
+          "DM: Somewhere outside still waits Valeris, the satyr cursed to speak only blunt truth, and your peacock-like griffins. Somewhere outside as well, perhaps visible on the horizon, lies the cloud funnel, the cloud pyramid which hides the prism. But also outside is the darkness.",
+          "Wellby: Well, what next, then?",
+          "Riswynn: It would likely be a work of great magic to extend this bright space any further than exists. When we leave we'll face the darkness.",
+          "Delwath: Could we explore and see if there are any—I—",
+          "Riswynn: Insights other than the vision?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Cloudspinner emerges and releases Lady Eventide",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u1011"
+      },
+      "lines": [
+        "%% u0862:0-37, u0863:0-73, u0864:0-22, u0865:0-41 %%",
+        "DM: Okay, no worries. So the Cloudspinner, in Seeker's telekinesis, floats over the pool and then slowly lowered in. Seeker loses his grip. The crystal prison vanishes for a minute.",
+        "",
+        "%% u0866:0-33, u0867:0-61, u0868:0-9, u0869:0-19, u0870:0-7, u0871:0-3, u0872:0-61, u0873:0-46, u0874:0-7, u0875:0-22, u0876:0-7, u0877:0-32, u0878:0-115, u0879:0-44, u0880:0-102, u0881:0-23, u0882:0-34, u0883:0-12, u0884:0-98, u0885:0-50, u0886:0-78, u0887:0-12, u0888:0-5, u0889:0-33, u0890:0-33, u0891:0-87, u0892:0-82, u0893:0-149, u0894:0-19, u0895:0-10, u0896:0-36, u0897:0-37, u0898:0-48, u0899:0-88, u0900:0-94, u0901:0-86, u0902:0-75, u0903:0-79, u0904:0-43, u0905:0-61, u0906:0-13, u0907:0-8, u0908:0-17, u0909:0-21, u0910:0-111, u0911:0-59, u0912:0-73, u0913:0-24, u0914:0-24, u0915:0-38, u0916:0-63, u0917:0-77, u0918:0-53, u0919:0-58, u0920:0-22, u0921:0-34, u0922:0-4, u0923:0-57, u0924:0-15, u0925:0-5, u0926:0-55, u0927:0-38, u0928:0-3, u0929:0-64, u0930:0-62, u0931:0-9, u0932:0-17, u0933:0-42, u0934:0-59, u0935:0-44, u0936:0-66, u0937:0-104, u0938:0-5, u0939:0-24, u0940:0-7, u0941:0-87, u0942:0-54, u0943:0-13, u0944:0-66, u0945:0-39, u0946:0-51, u0947:0-62, u0948:0-116, u0949:0-19, u0950:0-48, u0951:0-29, u0952:0-43, u0953:0-33, u0954:0-8, u0955:0-89, u0956:0-4, u0957:0-19, u0958:0-5, u0959:0-174, u0960:0-71, u0961:0-22, u0962:0-98, u0963:0-4, u0964:0-76, u0965:0-31, u0966:0-34, u0967:0-41, u0968:0-51, u0969:0-37, u0970:0-216, u0971:0-5, u0972:0-36, u0973:0-75, u0974:0-106, u0975:0-59, u0976:0-97 %%",
+        "((Arrows, defensive preparations and spell resolution))",
+        "",
+        "%% u0977:0-61, u0978:0-44, u0979:0-80, u0980:0-40, u0981:0-88, u0982:0-119, u0983:0-10, u0984:0-135, u0985:0-92, u0986:0-60, u0987:0-112 %%",
+        "DM: But strangely, the light of Riswynn's sunburst does not stop. The clouds keep growing lighter and lighter, and this, like, burst of sunlight that you could see on the other side begins to spread in like a shell around the entire wall of clouds, deepening to a red, and then a sort of almost pinkish purple as it does, and these little tendrils of darkness that were beginning to push their way through the clouds shrivel up and burn away as Seeker—all of you are sort of facing out, looking at the danger behind. Seeker is still looking at this well in the middle, and sort of shouts in surprise as you all turn around to look, and you can see floating from the clouds a woman clothed in a red robe, sparkling, like shimmering red, almost—almost fluffy, like almost like a like a red bathrobe, or something sort of wrapped around or made of of clouds.",
+        "",
+        "%% u0988:0-80, u0989:0-145, u0990:0-155, u0991:0-105, u0992:0-79, u0993:0-34 %%",
+        "DM: Basically, like, her skin is sort of a reddish golden. Her hair is reddish purple, flowing back like there's a wind blowing. Her eyes are closed, and she's holding up her hand and obviously doing something to Riswynn's magic and manipulating this sunburst as it spreads around and around and around, and gets deeper and brighter as it begins to echo, and Seeker, who is Lady Eventide, falls to his knees, crying as you hear shrieks from outside, and then silence, and the Cloudspinner steps onto the rim of the pool that you are standing around and opens her eyes, which flare a sort of pale yellow light.",
+        "",
+        "%% u0994:0-12, u0995:0-91, u0996:0-39, u0997:0-44, u0998:0-48, u0999:0-49, u1000:0-98, u1001:0-117, u1002:0-71 %%",
+        "DM: Her skin is—her skin and her hair are now all sort of shimmering colors, like swirls of of purples and oranges, almost like paint being mixed, and she stumbles as if incredibly exhausted, and then turns to look at Seeker, Lady Eventide, who's sort of kneeling in awe, looking up at her, and again sort of steps down on the rim of this of this well, stumbling again, resting her hand on Lady Eventide Seeker's shoulder, and sort of bidding her to stand up, and as she does, you can see sort of 2 shapes, 2 images superimposed, a tall, fey lady standing above and around Seeker.",
+        "",
+        "%% u1003:0-49, u1004:0-36, u1005:0-67 %%",
+        "DM: And as the Cloudspinner touches Seeker, she says, \"You are safe now. Rest. Do not fear. I will find you, and the Cloud Palace will rise again. Be at peace.\"",
+        "",
+        "%% u1006:0-64, u1007:0-36, u1008:0-73 %%",
+        "DM: And Seeker stumbles back as the spirit of Lady Eventide departs, and she turns to look at all of you, a sort of question in her eyes, and a sort of deep weariness on her brow.",
+        "",
+        "%% u1009:0-27, u1010:0-39, u1011:0-16 %%",
+        "DM: \"I know not who you are, eh, but I thank you for what you have done.\" She gives a bow."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: You click, you click it multiple times.",
+          "DM: Okay.",
+          "Delwath: And D&D—",
+          "DM: On D&D Beyond. Yeah, yeah.",
+          "Wellby: That's—"
+        ],
+        "after": [
+          "Kenzo: Hey, Tim, for fun, Kenzo soul sights, perhaps better.",
+          "DM: She is—okay, she is—you—you've never really—I mean, this is, this is a much more powerful being, I think, than you ever soul sighted before.",
+          "Kenzo: Cool.",
+          "DM: And there is an overwhelming sense of complexity to her. But the vibe you get right now is a mix of joy and relief, but tempered with a deep grief just below the surface, and a sense of great loss, as the awareness of what has happened to her realm has penetrated, seemingly instantaneously, as she emerged from the Prismwell.",
+          "Delwath: Hold on!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Kenzo perceives Cloudspinner’s joy and grief",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1012",
+        "endUid": "u1022"
+      },
+      "lines": [
+        "%% u1012:0-53 %%",
+        "Kenzo: Hey, Tim, for fun, Kenzo soul sights, perhaps better.",
+        "",
+        "%% u1013:0-6, u1014:0-5, u1015:0-6, u1016:0-122 %%",
+        "DM: She is—okay, she is—you—you've never really—I mean, this is, this is a much more powerful being, I think, than you ever soul sighted before.",
+        "",
+        "%% u1017:0-5 %%",
+        "Kenzo: Cool.",
+        "",
+        "%% u1018:0-56, u1019:0-42, u1020:0-85, u1021:0-78, u1022:0-61 %%",
+        "DM: And there is an overwhelming sense of complexity to her. But the vibe you get right now is a mix of joy and relief, but tempered with a deep grief just below the surface, and a sense of great loss, as the awareness of what has happened to her realm has penetrated, seemingly instantaneously, as she emerged from the Prismwell."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Basically, like, her skin is sort of a reddish golden. Her hair is reddish purple, flowing back like there's a wind blowing. Her eyes are closed, and she's holding up her hand and obviously doing something to Riswynn's magic and manipulating this sunburst as it spreads around and around and around, and gets deeper and brighter as it begins to echo, and Seeker, who is Lady Eventide, falls to his knees, crying as you hear shrieks from outside, and then silence, and the Cloudspinner steps onto the rim of the pool that you are standing around and opens her eyes, which flare a sort of pale yellow light.",
+          "DM: Her skin is—her skin and her hair are now all sort of shimmering colors, like swirls of of purples and oranges, almost like paint being mixed, and she stumbles as if incredibly exhausted, and then turns to look at Seeker, Lady Eventide, who's sort of kneeling in awe, looking up at her, and again sort of steps down on the rim of this of this well, stumbling again, resting her hand on Lady Eventide Seeker's shoulder, and sort of bidding her to stand up, and as she does, you can see sort of 2 shapes, 2 images superimposed, a tall, fey lady standing above and around Seeker.",
+          "DM: And as the Cloudspinner touches Seeker, she says, \"You are safe now. Rest. Do not fear. I will find you, and the Cloud Palace will rise again. Be at peace.\"",
+          "DM: And Seeker stumbles back as the spirit of Lady Eventide departs, and she turns to look at all of you, a sort of question in her eyes, and a sort of deep weariness on her brow.",
+          "DM: \"I know not who you are, eh, but I thank you for what you have done.\" She gives a bow."
+        ],
+        "after": [
+          "Delwath: Hold on!",
+          "Kenzo: Is she more powerful than—the dude, the dude? Who's the guy?",
+          "Delwath: Apollyon.",
+          "Kenzo: Thank you. Apollyon.",
+          "DM: Oh, yeah, I mean, she's 1 of the oldest archfey."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Comparing Cloudspinner’s power with Apollyon and Cha’mutte",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1024",
+        "endUid": "u1037"
+      },
+      "lines": [
+        "%% u1024:0-25, u1025:0-19, u1026:0-14 %%",
+        "Kenzo: Is she more powerful than—the dude, the dude? Who's the guy?",
+        "",
+        "%% u1027:0-9 %%",
+        "Delwath: Apollyon.",
+        "",
+        "%% u1028:0-20 %%",
+        "Kenzo: Thank you. Apollyon.",
+        "",
+        "%% u1029:0-48 %%",
+        "DM: Oh, yeah, I mean, she's 1 of the oldest archfey.",
+        "",
+        "%% u1030:0-15 %%",
+        "Kenzo: In the Feywild.",
+        "",
+        "%% u1031:0-71 %%",
+        "DM: The only one who could possibly match her for power would be Cha'mutte.",
+        "",
+        "%% u1032:0-4 %%",
+        "Kenzo: Hmm.",
+        "",
+        "%% u1033:0-37 %%",
+        "DM: Like, that's the level that she's at.",
+        "",
+        "%% u1034:0-4 %%",
+        "Kenzo: Wow!",
+        "",
+        "%% u1035:0-50 %%",
+        "DM: I mean, if Apollyon had gotten all his stuff back—",
+        "",
+        "%% u1036:0-17 %%",
+        "Kenzo: Yeah, yeah, yeah.",
+        "",
+        "%% u1037:0-6 %%",
+        "DM: maybe."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Hey, Tim, for fun, Kenzo soul sights, perhaps better.",
+          "DM: She is—okay, she is—you—you've never really—I mean, this is, this is a much more powerful being, I think, than you ever soul sighted before.",
+          "Kenzo: Cool.",
+          "DM: And there is an overwhelming sense of complexity to her. But the vibe you get right now is a mix of joy and relief, but tempered with a deep grief just below the surface, and a sense of great loss, as the awareness of what has happened to her realm has penetrated, seemingly instantaneously, as she emerged from the Prismwell.",
+          "Delwath: Hold on!"
+        ],
+        "after": [
+          "Kenzo: We should have let him, I still think. But whatever.",
+          "DM: We can—sometime we'll run an alternate reality of this campaign where you let him be released, and then are just mercilessly crushed in an impossible battle.",
+          "Kenzo: I don't think so.",
+          "Delwath: Was like, \"No, we would have won.\"",
+          "Riswynn: And feels like, \"I'll only die 2 or 3 times.\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "A welcome, a hat, and a promised boon",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1051",
+        "endUid": "u1095"
+      },
+      "lines": [
+        "%% u1051:0-33, u1052:0-58 %%",
+        "Riswynn: It was an honor to be of service. Our names are Riswynn, Delwath, Kenzo, Seeker, and Wellby.",
+        "",
+        "%% u1053:0-9, u1054:0-5, u1055:0-101, u1056:0-93, u1057:0-69, u1058:0-17, u1059:0-44, u1060:0-5, u1061:0-22, u1062:0-36, u1063:0-37, u1064:0-59, u1065:0-39, u1066:0-40, u1067:0-46 %%",
+        "((Players discuss their reasons for the rescue))",
+        "",
+        "%% u1068:0-101, u1069:0-20, u1070:0-41 %%",
+        "Delwath: Yeah, I mean, Delwath does say something similar, like, it's an honor to aid in your restoration, and, you know, we will—we hope you bring some healing to this land.",
+        "",
+        "%% u1071:0-39, u1072:0-30, u1073:0-38, u1074:0-61 %%",
+        "DM: Closes her eyes and sort of sighs. \"Yes, this is just the 1st step, but could have never taken it without you, and you should consider yourself always welcome in Amberglow.\"",
+        "",
+        "%% u1075:0-23 %%",
+        "Kenzo: How can we return here?",
+        "",
+        "%% u1076:0-23, u1077:0-63 %%",
+        "DM: \"The same as any mortal. But you are not so simple as mortals I have encountered before.\"",
+        "",
+        "%% u1078:0-4 %%",
+        "((Brief acknowledgment))",
+        "",
+        "%% u1079:0-76, u1080:0-64, u1081:0-81, u1082:0-85, u1083:0-49, u1084:0-64 %%",
+        "DM: \"I think,\" and she takes, and she reaches down into the the cloud and pulls up—as she pulls, pulls her hand up from the Prismwell, there's, like, a thread that begins to grow from that, and as she holds it, she begins to sort of sort of make a circular motion with her hand, and it begins to grow and grow and spin, when she turns and places a hat on Wellby's head, a shimmering hat that can change into whatever color you'd like.",
+        "",
+        "%% u1085:0-65, u1086:0-30, u1087:0-52 %%",
+        "DM: \"Should you wish to return, I believe you have the magic to do so, and your companion wears a key that can be used to teleport yourself to this realm.\"",
+        "",
+        "%% u1088:0-9 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1089:0-13, u1090:0-58, u1091:0-86 %%",
+        "DM: \"And—oh, God!—one does not recover instantly from long imprisonment, but I promise you now, should in the future you ask, a boon that I can grant shall be yours.\"",
+        "",
+        "%% u1092:0-31, u1093:0-28, u1094:0-58, u1095:0-111 %%",
+        "DM: So, metagame, just to be clear, the hat she gave Wellby is a material component for plane shift. So if you ever want to—specifically for Amberglow. You can now cast plane shift to teleport anywhere in Amberglow, using Wellby's hat."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: We just need infinite death wards.",
+          "DM: Right.",
+          "Delwath: Well, we have infinite death wards. Riswynn just has to kill lots and lots and lots of people.",
+          "Riswynn: Oh, what have I told you about—? It's not a toy.",
+          "DM: Back to the game! Does anybody say anything?"
+        ],
+        "after": [
+          "Kenzo: Also, though, we should still have like a room that's like in Howl's Moving Castle, and you just like flip a bunch of doors and you walk through, and then you're in Amberglow. That would also be nice.",
+          "Delwath: Yep.",
+          "DM: She turns and she looks at Riswynn.",
+          "Kenzo: Could she help us destroy the crown? Or do we give her the crown?",
+          "Wellby: What would she do with the crown if she had it, even?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Riswynn gives the crown a new purpose",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1099",
+        "endUid": "u1177"
+      },
+      "lines": [
+        "%% u1099:0-36, u1100:0-28 %%",
+        "Kenzo: Could she help us destroy the crown? Or do we give her the crown?",
+        "",
+        "%% u1101:0-53 %%",
+        "Wellby: What would she do with the crown if she had it, even?",
+        "",
+        "%% u1102:0-73 %%",
+        "Riswynn: We did just meet her. I mean, we've heard a lot of good things about her.",
+        "",
+        "%% u1103:0-39, u1104:0-40 %%",
+        "DM: She looks at Riswynn with some concern. \"You are still tied down by dark shadows.\"",
+        "",
+        "%% u1105:0-8 %%",
+        "((Incomplete interruption))",
+        "",
+        "%% u1106:0-69 %%",
+        "Riswynn: I am learning about this, and need much more meditation and practice.",
+        "",
+        "%% u1107:0-24, u1108:0-10 %%",
+        "DM: \"What you need is simple: a purpose.\"",
+        "",
+        "%% u1109:0-5, u1110:0-52 %%",
+        "((Acknowledgment and unfinished phrase))",
+        "",
+        "%% u1111:0-53, u1112:0-100 %%",
+        "DM: And she stops for a minute and closes her eyes, as if soul sighting the crown or Riswynn, or you get the sense that she's reaching out somehow, magically.",
+        "",
+        "%% u1113:0-20, u1114:0-5, u1115:0-56, u1116:0-76 %%",
+        "DM: \"Decades and decades—ouch!—shaped by a desire for control, a desire for domination, the purpose of those who used the crown before you is still imprinted on it.\"",
+        "",
+        "%% u1117:0-11 %%",
+        "Riswynn: We feel it.",
+        "",
+        "%% u1118:0-66, u1119:0-47, u1120:0-24, u1121:0-27, u1122:0-103, u1123:0-54 %%",
+        "DM: \"You must either create a new purpose for it, or eventually succumb to the bonds of control that it now weaves, and it is bonded to you, but eventually, either you must compel it to a new goal, your own goal, to make it fully your own, or it will eventually overpower you. It's not safe to carry such a thing without a mission.\"",
+        "",
+        "%% u1124:0-65, u1125:0-29, u1126:0-66, u1127:0-75 %%",
+        "Riswynn: People of the Rainbow, who I believe you once helped, still hide, given the gift of your magic. But others of their kind are unaware of the possibility of refuge. There could be a greater change for the good for those people, those orcs.",
+        "",
+        "%% u1128:0-99, u1129:0-18 %%",
+        "DM: Her eyes light up, and for the 1st time since you freed her, you see her smile as you mention this. \"You would do that?\"",
+        "",
+        "%% u1130:0-19 %%",
+        "Riswynn: With any help that—",
+        "",
+        "%% u1131:0-41 %%",
+        "DM: Not an easy task you take upon yourself.",
+        "",
+        "%% u1132:0-101, u1133:0-55, u1134:0-72, u1135:0-55, u1136:0-41, u1137:0-33, u1138:0-36, u1139:0-10 %%",
+        "Riswynn: This should not be an instrument of control. But if it can be an instrument of the power of community, mystics and the, of the humans and the dwarves, and the—any other race who can train me, ally with me, help me to help these orcs overcome their fearsome god, change their relationship—this crown has the power to really change the fabric of the way things are. I would be the focal point for that—the quest.",
+        "",
+        "%% u1140:0-36, u1141:0-69, u1142:0-36, u1143:0-28 %%",
+        "DM: She nods and smiles, and reaches her hand out towards Riswynn, holding it aloft as light streams from her. \"I will aid you as I can in this, but I have much work to do here.\"",
+        "",
+        "%% u1144:0-55, u1145:0-36, u1146:0-45, u1147:0-18, u1148:0-14, u1149:0-33, u1150:0-38, u1151:0-28 %%",
+        "DM: She looks at you. She says, she sort of, \"You are already, I sense, the defender of these people as much as I ever was. This is a worthy goal. All you must do is take the crown and place it on your head, and if your heart and your words are aligned, claim it, and it will shift.\"",
+        "",
+        "%% u1152:0-51 %%",
+        "Riswynn: So Riswynn takes the crown and puts it on her head.",
+        "",
+        "%% u1153:0-46, u1154:0-51, u1155:0-33, u1156:0-3, u1157:0-8 %%",
+        "((Clarification of the old bonds’ location))",
+        "",
+        "%% u1158:0-100, u1159:0-67, u1160:0-74, u1161:0-38, u1162:0-10, u1163:0-108, u1164:0-47, u1165:0-38, u1166:0-63 %%",
+        "DM: Chardon. So as Riswynn puts the crown on and restates her dedication to helping more orcs escape the control of Thark and protecting the People of the Rainbow, you see light begin to flash from from all the the crown, and just like a bunch of—((Initiative aside))—a bunch of—it's almost like fuses burning in the opposite direction, being lit by Riswynn, and hundreds of these flames shoot off of her, and you hear what sounds like sort of cracking and splitting noises, as hundreds of bonds of control are burned away, and the crown—",
+        "",
+        "%% u1167:0-59, u1168:0-26, u1169:0-62, u1170:0-3, u1171:0-117, u1172:0-30, u1173:0-66, u1174:0-95, u1175:0-56, u1176:0-59, u1177:0-54 %%",
+        "DM: Its appearance has already changed to look sort of dwarven, but it settles in a way it—less sort of ostentatious and more green, real, more grounded. And, Riswynn, you feel everybody who was connected to the crown, including several people currently trapped in the mirror, suddenly their minds released. Not—that's not ending the chaos in Chardon, obviously, but things—It's a weight that you didn't realize you were carrying lifted off of you, as you no longer are tied to this army of, you know, created by Kadmos and by his mentor before him, this army of domination and control, and the possibility of something new opens before you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: \"And—oh, God!—one does not recover instantly from long imprisonment, but I promise you now, should in the future you ask, a boon that I can grant shall be yours.\"",
+          "DM: So, metagame, just to be clear, the hat she gave Wellby is a material component for plane shift. So if you ever want to—specifically for Amberglow. You can now cast plane shift to teleport anywhere in Amberglow, using Wellby's hat.",
+          "Kenzo: Also, though, we should still have like a room that's like in Howl's Moving Castle, and you just like flip a bunch of doors and you walk through, and then you're in Amberglow. That would also be nice.",
+          "Delwath: Yep.",
+          "DM: She turns and she looks at Riswynn."
+        ],
+        "after": [
+          "DM: And the Cloudspinner turns to the rest of you and says, \"And what of you? Where do you go next?\"",
+          "Kenzo: Great question. How does time work again in in Amberglow compared to the real world?",
+          "Riswynn: We believe—I believe—",
+          "DM: Really know. I mean, you've slept maybe 4 times, 5 times since you came here. You've eaten more than that, but—also, like, time doesn't work like normal in the Feywild, so you could have easily gone a week without sleeping and not really noticed. You have no idea how much time has passed.",
+          "Wellby: We have like the moon necklace, but I don't know how much I trust that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Cloudspinner recalls a different giant storm ship",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1218",
+        "endUid": "u1239"
+      },
+      "lines": [
+        "%% u1218:0-6, u1219:0-41 %%",
+        "Kenzo: Stony. Can we bring our skyship to your skyship?",
+        "",
+        "%% u1220:0-60, u1221:0-42, u1222:0-58 %%",
+        "DM: \"Such interplanar travel is not simple, nor is it impossible. One never knows what the future may bring. Once, long ago, a storm ship of the giants did visit here.\"",
+        "",
+        "%% u1223:0-6, u1224:0-39 %%",
+        "((Brief aside))",
+        "",
+        "%% u1225:0-34, u1226:0-25 %%",
+        "Delwath: We have a stormship of the giants. That's our Vindristjarna.",
+        "",
+        "%% u1227:0-45 %%",
+        "DM: \"Doubt it is Vindristjarna. That was not this—\"",
+        "",
+        "%% u1228:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u1229:0-17, u1230:0-13, u1231:0-16 %%",
+        "DM: \"Star on the Wind. No, this was—it was long ago.\"",
+        "",
+        "%% u1232:0-18 %%",
+        "Kenzo: Who were its crew?",
+        "",
+        "%% u1233:0-24 %%",
+        "DM: Well, giants, of course.",
+        "",
+        "%% u1234:0-72 %%",
+        "Kenzo: I mean, I asked because we have a giant flagship, but we're not giants.",
+        "",
+        "%% u1235:0-55, u1236:0-63, u1237:0-65, u1238:0-66, u1239:0-26 %%",
+        "DM: \"These days much has changed. The old ways, not the same. I suppose you must return, and I would not ask you to keep your crew in suspense. I do not know long how long you have been gone. And you, now that you have taken this mission,\" turning to Riswynn, \"there won't be much to do.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: You know.",
+          "Wellby: Ours—ours is more of just a big boat.",
+          "Delwath: Ours is a bit more—",
+          "Wellby: Rustic.",
+          "Delwath: Yeah, dash."
+        ],
+        "after": [
+          "DM: And then she turns and looks at Valeris, the satyr, who's been hiding behind as many people as possible, trying not to be noticed. \"And what would you do, my fey friend?\"",
+          "DM: And he blinks for a few minutes, like, really trying not to speak. \"Do you want the truth? It doesn't actually matter if you want the truth, because that's all that I can give you. I want my old life back. You're strong, you're powerful. I think you owe it to me, right? Like, come on, I—well, actually, no, I didn't. Well, literally, I did basically nothing. These people probably—damn it! Shut up, Valeris! This is not the time.\"",
+          "Delwath: He was helpful. You are helpful for us. Do not dismiss your contributions.",
+          "Wellby: Under his breath, Wellby says, 'In what sense, Delwath?'",
+          "Delwath: Diplomatic."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Valeris accepts service in Amberglow",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1240",
+        "endUid": "u1266"
+      },
+      "lines": [
+        "%% u1240:0-31, u1241:0-98, u1242:0-37 %%",
+        "DM: And then she turns and looks at Valeris, the satyr, who's been hiding behind as many people as possible, trying not to be noticed. \"And what would you do, my fey friend?\"",
+        "",
+        "%% u1243:0-64, u1244:0-22, u1245:0-89, u1246:0-24, u1247:0-62, u1248:0-46, u1249:0-112 %%",
+        "DM: And he blinks for a few minutes, like, really trying not to speak. \"Do you want the truth? It doesn't actually matter if you want the truth, because that's all that I can give you. I want my old life back. You're strong, you're powerful. I think you owe it to me, right? Like, come on, I—well, actually, no, I didn't. Well, literally, I did basically nothing. These people probably—damn it! Shut up, Valeris! This is not the time.\"",
+        "",
+        "%% u1250:0-74 %%",
+        "Delwath: He was helpful. You are helpful for us. Do not dismiss your contributions.",
+        "",
+        "%% u1251:0-56 %%",
+        "Wellby: Under his breath, Wellby says, 'In what sense, Delwath?'",
+        "",
+        "%% u1252:0-11 %%",
+        "Delwath: Diplomatic.",
+        "",
+        "%% u1253:0-8 %%",
+        "Riswynn: Company.",
+        "",
+        "%% u1254:0-11 %%",
+        "((Repeated reply))",
+        "",
+        "%% u1255:0-38 %%",
+        "DM: The Cloudspinner says, \"Peace, peace.\"",
+        "",
+        "%% u1256:0-30 %%",
+        "((Unfinished aside))",
+        "",
+        "%% u1257:0-48, u1258:0-69, u1259:0-54, u1260:0-67, u1261:0-28, u1262:0-55, u1263:0-40, u1264:0-32 %%",
+        "DM: \"There are many selfless tasks that must be done in Amberglow now, tasks that do not carry the dangers of fights that—there is no way you could have been prepared for that—these powerful allies led you into, but nonetheless selfless tasks to help bring this land back. Cannot grant you your boon, and I would not if I could, but perhaps if you will join my service, there is a path forward for you.\"",
+        "",
+        "%% u1265:0-32 %%",
+        "DM: \"We're not gonna say no. I agree.\"",
+        "",
+        "%% u1266:0-47 %%",
+        "DM: \"Okay, peace. You do not need to speak more now.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: \"Star on the Wind. No, this was—it was long ago.\"",
+          "Kenzo: Who were its crew?",
+          "DM: Well, giants, of course.",
+          "Kenzo: I mean, I asked because we have a giant flagship, but we're not giants.",
+          "DM: \"These days much has changed. The old ways, not the same. I suppose you must return, and I would not ask you to keep your crew in suspense. I do not know long how long you have been gone. And you, now that you have taken this mission,\" turning to Riswynn, \"there won't be much to do.\""
+        ],
+        "after": [
+          "Wellby: Cloudspinner, you've given us—",
+          "DM: Turn—",
+          "Wellby: The means by magic to return, but I'd ask before we go: surely somewhere in your domain there's a passageway and a portal, and for one like me without the means magically to travel, it would be a great gift to know the way to get back again.",
+          "DM: There are several. You have passed through one before, I sense. Lastlight Falls.",
+          "Wellby: [garbled], yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The remaining portals and the hat’s guidance",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1267",
+        "endUid": "u1288"
+      },
+      "lines": [
+        "%% u1267:0-30 %%",
+        "Wellby: Cloudspinner, you've given us—",
+        "",
+        "%% u1268:0-5 %%",
+        "((Incomplete interruption))",
+        "",
+        "%% u1269:0-55, u1270:0-66, u1271:0-118 %%",
+        "Wellby: The means by magic to return, but I'd ask before we go: surely somewhere in your domain there's a passageway and a portal, and for one like me without the means magically to travel, it would be a great gift to know the way to get back again.",
+        "",
+        "%% u1272:0-80 %%",
+        "DM: There are several. You have passed through one before, I sense. Lastlight Falls.",
+        "",
+        "%% u1273:0-16 %%",
+        "Wellby: [garbled], yeah.",
+        "",
+        "%% u1274:0-32, u1275:0-43, u1276:0-57, u1277:0-74, u1278:0-22, u1279:0-32, u1280:0-78, u1281:0-41, u1282:0-35, u1283:0-76 %%",
+        "DM: \"That is on the edge of my realm. There were once 2 others, one in the north. I fear now that it will be some time before that is safe. It was on the northern border of my realm, near the human city of Isingue. There was a 3rd portal not too far from here, actually. I guess I don't know what is on the other side now, but once, long ago, it was in the heartland of the Drankorian Empire some distance north of the capital, but the land has changed much, and I know not now what is on the other side.\"",
+        "",
+        "%% u1284:0-20 %%",
+        "Wellby: That sounds perfect.",
+        "",
+        "%% u1285:0-92 %%",
+        "DM: But, my explorer friend, your hat will lead you to any of these portals, should you wish it.",
+        "",
+        "%% u1286:0-10 %%",
+        "Wellby: Very good.",
+        "",
+        "%% u1287:0-6 %%",
+        "((Unfinished phrase))",
+        "",
+        "%% u1288:0-10 %%",
+        "Wellby: Thank you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The Cloudspinner says, \"Peace, peace.\"",
+          "Delwath: We're being nice to him since—",
+          "DM: \"There are many selfless tasks that must be done in Amberglow now, tasks that do not carry the dangers of fights that—there is no way you could have been prepared for that—these powerful allies led you into, but nonetheless selfless tasks to help bring this land back. Cannot grant you your boon, and I would not if I could, but perhaps if you will join my service, there is a path forward for you.\"",
+          "DM: \"We're not gonna say no. I agree.\"",
+          "DM: \"Okay, peace. You do not need to speak more now.\""
+        ],
+        "after": [
+          "DM: \"There is much I must do.\" She looks around, and again her eyes close, and you see the sort of wave of grief pass across her face. \"And I must see who still survives of my people. But perhaps we will meet again and again. Please remember, if there is a boon that I can grant at some future date, you know where I am. And I guess this is goodbye, then. Do you have the means to return to your ship?\"",
+          "Delwath: We have the prism, right? The Rainbow Bridge. Yes.",
+          "DM: Very well. Farewell!",
+          "Kenzo: Oh!",
+          "Riswynn: Hope you find—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Cloudspinner and Valeris depart",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1289",
+        "endUid": "u1314"
+      },
+      "lines": [
+        "%% u1289:0-24, u1290:0-93, u1291:0-57, u1292:0-41, u1293:0-72, u1294:0-20, u1295:0-34, u1296:0-45 %%",
+        "DM: \"There is much I must do.\" She looks around, and again her eyes close, and you see the sort of wave of grief pass across her face. \"And I must see who still survives of my people. But perhaps we will meet again and again. Please remember, if there is a boon that I can grant at some future date, you know where I am. And I guess this is goodbye, then. Do you have the means to return to your ship?\"",
+        "",
+        "%% u1297:0-25, u1298:0-19, u1299:0-4 %%",
+        "Delwath: We have the prism, right? The Rainbow Bridge. Yes.",
+        "",
+        "%% u1300:0-10, u1301:0-9 %%",
+        "DM: Very well. Farewell!",
+        "",
+        "%% u1302:0-3, u1303:0-14 %%",
+        "((Incomplete farewells))",
+        "",
+        "%% u1304:0-23 %%",
+        "Kenzo: Farewell, Cloudspinner.",
+        "",
+        "%% u1305:0-9 %%",
+        "Wellby: Farewell!",
+        "",
+        "%% u1306:0-14, u1307:0-62 %%",
+        "Delwath: Yes, farewell. We hope to visit again when it is—when your realm is restored.",
+        "",
+        "%% u1308:0-25 %%",
+        "Kenzo: We will be back for sure.",
+        "",
+        "%% u1309:0-19 %%",
+        "DM: I would enjoy that.",
+        "",
+        "%% u1310:0-80, u1311:0-95, u1312:0-38 %%",
+        "DM: And she begins to walk out from the clouds, and as she walks through the clouds, the Prismwell and the clouds surrounding it vanish, and you're left standing on an empty plain, Valeris having gone with Cloudspinner.",
+        "",
+        "%% u1313:0-24 %%",
+        "Delwath: Are the duskhounds gone?",
+        "",
+        "%% u1314:0-32 %%",
+        "DM: Yes, they are burned to a crisp."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: That sounds perfect.",
+          "DM: But, my explorer friend, your hat will lead you to any of these portals, should you wish it.",
+          "Wellby: Very good.",
+          "DM: Think—",
+          "Wellby: Thank you."
+        ],
+        "after": [
+          "Delwath: Is Riswynn—are you going off on some quest?",
+          "Riswynn: I think that I need to go consult with the People of the Rainbow in the orc city, and see what—I I will not impose on these people my plans, but work with them to create a strategy where we can harness this power for the greater good. But I could stop at Vindristjarna on the way. I don't think I'm gonna—I mean, we're rainbow bridging from here, but—",
+          "Delwath: It's true. Let's return to Vindristjarna.",
+          "Wellby: Yep.",
+          "DM: So you open the Rainbow Bridge, and the portal appears leading you to Vindristjarna. You step across and find yourself floating 40 feet above a desert. The—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Riswynn plans to consult the People of the Rainbow",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1315",
+        "endUid": "u1320"
+      },
+      "lines": [
+        "%% u1315:0-43 %%",
+        "Delwath: Is Riswynn—are you going off on some quest?",
+        "",
+        "%% u1316:0-94, u1317:0-67, u1318:0-71, u1319:0-45, u1320:0-70 %%",
+        "Riswynn: I think that I need to go consult with the People of the Rainbow in the orc city, and see what—I I will not impose on these people my plans, but work with them to create a strategy where we can harness this power for the greater good. But I could stop at Vindristjarna on the way. I don't think I'm gonna—I mean, we're rainbow bridging from here, but—"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: We will be back for sure.",
+          "DM: I would enjoy that.",
+          "DM: And she begins to walk out from the clouds, and as she walks through the clouds, the Prismwell and the clouds surrounding it vanish, and you're left standing on an empty plain, Valeris having gone with Cloudspinner.",
+          "Delwath: Are the duskhounds gone?",
+          "DM: Yes, they are burned to a crisp."
+        ],
+        "after": [
+          "Delwath: It's true. Let's return to Vindristjarna.",
+          "Wellby: Yep.",
+          "DM: So you open the Rainbow Bridge, and the portal appears leading you to Vindristjarna. You step across and find yourself floating 40 feet above a desert. The—",
+          "DM: Oh, wait! Hold on one sec. This will be cool.",
+          "Kenzo: What do we need it?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Pava, Amil and Faldrak at the return to the ship",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u1343",
+        "endUid": "u1354"
+      },
+      "lines": [
+        "%% u1343:0-30, u1344:0-23 %%",
+        "DM: Flying over a red stone house. Nobody recognizes this?",
+        "",
+        "%% u1345:0-9 %%",
+        "Delwath: Familiar.",
+        "",
+        "%% u1346:0-30 %%",
+        "Wellby: Was that where the monks were?",
+        "",
+        "%% u1347:0-16 %%",
+        "Kenzo: Avaras and Pava.",
+        "",
+        "%% u1348:0-21 %%",
+        "DM: Pava and Avaras live.",
+        "",
+        "%% u1349:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u1350:0-46, u1351:0-43, u1352:0-44, u1353:0-52, u1354:0-5 %%",
+        "DM: You see, sitting on the ground below you, Amil, Kenzo's apprentice, and Pava in discussion, while Faldrak paces on the deck of the ship, and I think that is where we will pick up next time. Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: No, don't we fly to the portal? The fey portal?",
+          "Wellby: Yeah. The wine portal.",
+          "Delwath: Yeah. The wine portal.",
+          "Kenzo: You left it by the wine portal? Was that flying over desert, or is that not over a desert?",
+          "Riswynn: But Faldrak can never be counted on to stay anywhere."
+        ],
+        "after": [
+          "Kenzo: What are we doing in here?",
+          "DM: But I'm gonna stop the recording."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

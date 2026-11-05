@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-123",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+    "sessionYamlSha256": "d13a3a3e116c05eb1489f1f5fe991a751adcc9d4d188d26cd78f3c0dc5e21c99",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-transcript.md",
+    "transcriptSha256": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0030"
+      },
+      "category": "session_framing",
+      "note": "Recap includes the opening location; the newly experienced beacon visions begin at u0031."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0031",
+        "endUid": "u0814"
+      },
+      "category": "gameplay",
+      "note": "Wellby’s escape and the airborne pursuit resolve as freeform hazards and planning, without initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0815",
+        "endUid": "u0850"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0851",
+        "endUid": "u0861"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u1022"
+      },
+      "category": "gameplay",
+      "note": "The Prismwell attack resolves through one set of declared responses and Cloudspinner’s intervention. At u0955–u0958 Kenzo invokes initiative-related ki recovery, but no initiative order or repeated turn cycle is established; classified as freeform gameplay."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1023",
+        "endUid": "u1048"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1049",
+        "endUid": "u1355"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1356",
+        "endUid": "u1356"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
