@@ -1,0 +1,389 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-011",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+    "sessionYamlSha256": "3a2169c7ff255e73b3323158a5b1ce7824d871b9bd72103c93d48fbc80e26e4f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-transcript.md",
+    "transcriptSha256": "c9d7cef4ccf907614ef27a88e928bd8dda30be49827fdd0f6049093406ce11f6",
+    "yamlDates": {
+      "start": "1748-04-12",
+      "end": "1748-04-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0004"
+      },
+      "reading": "Play opens at sunset; the resumed north-tower scene is explicitly dusk.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0004",
+          "quote": "OK, so we begin tonight as the sun is setting over Raven's Hold."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0025",
+          "quote": "Now it's dusk."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0385",
+        "endUid": "u0391"
+      },
+      "reading": "Vola has dozed for a few minutes during the tower conversation.",
+      "evidence": [
+        {
+          "startUid": "u0385",
+          "endUid": "u0391",
+          "quote": "So she sort of like sighs for a moment and looks like she had almost—she had like dozed off for a few minutes as you are talking. Um, but then, when she hears—when she hears her name again, she kind of like sits up and says, \"Ah, well, shall we make a plan? Not going to sit in this damn place for that much longer.\""
+        }
+      ],
+      "actors": [
+        "Vola"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narration",
+        "text": "a few minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0688",
+        "endUid": "u0692"
+      },
+      "reading": "During the scouting approach the sun has gone behind the mountains; the chapel is in shadow.",
+      "evidence": [
+        {
+          "startUid": "u0688",
+          "endUid": "u0692",
+          "quote": "now completely in shadow as the sun has gone behind the mountains."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0964",
+        "endUid": "u0967"
+      },
+      "reading": "Kenzo and Wellby return from scouting in a little less than an hour, correcting the initial about-an-hour description.",
+      "evidence": [
+        {
+          "startUid": "u0964",
+          "endUid": "u0967",
+          "quote": "Okay, you quietly sneak back up to the tower and return about an hour later, after the scouting. Little less than an hour, but you've been doing it quietly and slowly. Everybody else is finishing a short rest."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM corrects about an hour to a little less than an hour",
+        "max": 1,
+        "maxInclusive": false
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0964",
+        "endUid": "u0967"
+      },
+      "reading": "The companions remaining in the tower finish a short rest while the scouts are away.",
+      "evidence": [
+        {
+          "startUid": "u0964",
+          "endUid": "u0967",
+          "quote": "Okay, you quietly sneak back up to the tower and return about an hour later, after the scouting. Little less than an hour, but you've been doing it quietly and slowly. Everybody else is finishing a short rest."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Seeker",
+        "Vola"
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention",
+        "value": 1
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1167",
+        "endUid": "u1172"
+      },
+      "reading": "Wellby watches the demon over an hour as sunset gives way to full darkness; the others wait and rest in the tower.",
+      "evidence": [
+        {
+          "startUid": "u1160",
+          "endUid": "u1163",
+          "quote": "Perfect. So, Wellby, you want to do that? Just go, go and scout and watch, and then we'll—we'll wait and rest."
+        },
+        {
+          "startUid": "u1167",
+          "endUid": "u1172",
+          "quote": "So over the course of an hour, as the sun sets and full darkness takes hold, you can see it continue to sort of pace, agitated, until maybe half an hour after sunset, roughly. It walks to the door of the temple or chapel where the large pile of dead creatures was."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated hour of watching after the accepted wait-and-rest plan",
+        "value": 1
+      },
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM narration",
+          "partOfDay": "sunset"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM narration",
+          "partOfDay": "night"
+        }
+      },
+      "note": "The later carcass-processing intervals may elaborate this hour or extend it; they do not establish a precise total watch length."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1167",
+        "endUid": "u1172"
+      },
+      "reading": "The demon begins collecting carcasses roughly half an hour after sunset, during Wellby’s observation.",
+      "evidence": [
+        {
+          "startUid": "u1167",
+          "endUid": "u1172",
+          "quote": "So over the course of an hour, as the sun sets and full darkness takes hold, you can see it continue to sort of pace, agitated, until maybe half an hour after sunset, roughly. It walks to the door of the temple or chapel where the large pile of dead creatures was."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "after",
+          "anchor": "sunset during Wellby’s watch",
+          "offset": {
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM narration",
+            "value": 30
+          }
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1179",
+        "endUid": "u1184"
+      },
+      "reading": "The demon takes approximately ten to fifteen minutes on each of the first two carcasses.",
+      "evidence": [
+        {
+          "startUid": "u1179",
+          "endUid": "u1184",
+          "quote": "He's not invisible, but 22, that's pretty good. On it—so it drag them across and it sort of looks around a little bit but doesn't notice you, and then sort of puts his hand just kind of over the fire a little bit till its claws heat up, and then like scratches this giant gash down the body of this antelope. And as it does, the, the body begins to sort of blacken, and these like sort of boils and little like bits of pus and things begin to grow on the body. Then it just grabs this antelope and tosses that into the entry way um with a thud and then repeats this. Like this is a slow process, maybe 10 or 15 minutes for each, and does another one in tosses that with a thud, and then goes back and starts to repeat this. Now..."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narration",
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true
+      },
+      "completion": "completed",
+      "note": "Per-carcass processing time, not an additional independent party interval."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1185",
+        "endUid": "u1189"
+      },
+      "reading": "Another roughly half hour passes in the observed carcass work before the demon fetches two more bodies.",
+      "evidence": [
+        {
+          "startUid": "u1185",
+          "endUid": "u1189",
+          "quote": "Another, say, half an hour passes with it, with each one of these, and then it goes back, and it grabs two more, and drag them across, and claw over the fire, and begins to score this, this other. This is a third antelope and then a—an axe beak. He begins to score them both. In all dead carcasses. And..."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narration",
+        "value": 30
+      },
+      "completion": "completed",
+      "note": "The narration does not resolve whether this restates the preceding two-carcass processing span or adds another half hour; do not sum mechanically."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1418",
+        "endUid": "u1419"
+      },
+      "reading": "The party’s attack approach is about 9 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1418",
+          "endUid": "u1419",
+          "quote": "Yeah, you shouldn't be able to see much because it's now like 9pm, its pitch black out except for that fire."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "clock": "21:00",
+        "partOfDay": "night"
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2187",
+        "endUid": "u2188"
+      },
+      "reading": "After the battle the group banks a fire over ten minutes until it goes out.",
+      "evidence": [
+        {
+          "startUid": "u2187",
+          "endUid": "u2188",
+          "quote": "Anyway, whether, whether you're dumping it with dirt or with carcasses, you know, in the next 10 minutes you sort of bank the fire, and it flickers and, and it goes out."
+        },
+        {
+          "startUid": "u2203",
+          "endUid": "u2204",
+          "quote": "it's now full night."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narration",
+        "value": 10
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2513",
+        "endUid": "u2535"
+      },
+      "reading": "The group rests overnight and wakes the next morning; nightmares impair some recovery but do not erase the elapsed night.",
+      "evidence": [
+        {
+          "startUid": "u2527",
+          "endUid": "u2535",
+          "quote": "Okay, so um, Riswynn, you do your—take your watch and sleep, and both you and, and Vola sleep and are troubled maybe by vague dreams, hard to remember. But I'm—as you—as you wake well rested, I'm—nothing you, you sort of can only bit—barely remember the sort of nightmares of the evening."
+        },
+        {
+          "startUid": "u2541",
+          "endUid": "u2547",
+          "quote": "Kenzo and Delwath. Okay, so I'm—Kenzo and Delwath, you—I'm—find yourself wracked by vivid nightmares. You see animals chasing you, you see their forms shifting and growing, and your sleep is disturbed by this. You regain hit dice, hit points are—sorry, I—hit dice and spell slots and everything else, but no hit points."
+        },
+        {
+          "startUid": "u2564",
+          "endUid": "u2572",
+          "quote": "And you, Seeker. Okay, you gain one level of exhaustion and also recover no hit points."
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2585",
+          "quote": "Okay, so as you wake up in the morning, this is where we'll stop, unless you guys want to discuss before we end. Vola like looks around, shakes her head, rubs her eyes. \"Finally, a good night's sleep for once.\""
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention, also explicitly defined as eight hours at u1092–u1093",
+        "value": 8
+      },
+      "completion": "completed",
+      "dateBoundaries": 1,
+      "timeRange": {
+        "start": null,
+        "end": {
+          "precision": "approximate",
+          "basis": "DM narration",
+          "partOfDay": "morning"
+        }
+      },
+      "note": "Riswynn and Vola wake rested; Kenzo, Delwath, Wellby and Seeker recover no hit points, and Seeker gains exhaustion."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute adventure date is spoken. The one-night span matches conditional on the YAML start of 1748-04-12.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t12"
+    ],
+    "explanation": "Current play runs from dusk through a completed overnight to morning. Earlier afternoon recap and Vola’s ten-day captivity are background, not additional played days. The midnight remark at u2507 concerns real-world session scheduling."
+  }
+}

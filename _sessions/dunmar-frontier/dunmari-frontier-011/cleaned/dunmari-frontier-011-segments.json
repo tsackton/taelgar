@@ -1,0 +1,133 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-011",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+    "sessionYamlSha256": "3a2169c7ff255e73b3323158a5b1ce7824d871b9bd72103c93d48fbc80e26e4f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-transcript.md",
+    "transcriptSha256": "c9d7cef4ccf907614ef27a88e928bd8dda30be49827fdd0f6049093406ce11f6"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0019"
+      },
+      "category": "session_framing",
+      "note": "The opening sunset anchor shares this short introduction and recap; active tower play resumes at u0020."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0020",
+        "endUid": "u0097"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0098",
+        "endUid": "u0162"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0163",
+        "endUid": "u0518"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0519",
+        "endUid": "u0540"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0541",
+        "endUid": "u0752"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0753",
+        "endUid": "u0791"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0792",
+        "endUid": "u1438"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1439",
+        "endUid": "u2092"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2093",
+        "endUid": "u2612"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2613",
+        "endUid": "u2636"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2637",
+        "endUid": "u2773"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2774",
+        "endUid": "u2784"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2785",
+        "endUid": "u2810"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

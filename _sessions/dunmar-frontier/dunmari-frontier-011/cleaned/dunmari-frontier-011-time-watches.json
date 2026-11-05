@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-time-markers.json",
+    "sha256": "d7b7293d4293b713d429397fdb0eba0dd41f0af2e7e1ac178b987a250062b91d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-transcript.md",
+    "sha256": "c9d7cef4ccf907614ef27a88e928bd8dda30be49827fdd0f6049093406ce11f6"
+  },
+  "dateAssessment": "Working dates are April 12–13, 1748 from the session YAML. The transcript independently supports dusk followed by one completed overnight and morning, matching that span conditional on the YAML start. No absolute date is spoken. The eight-hour rest ending in morning implies a midnight-watch start (22:00–02:00); its starting civil date is not fixed. The u2507 midnight remark concerns real-world scheduling.",
+  "watches": [
+    {
+      "day": "April 12, 1748",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Opening sunset; scouts return in under an hour. Attack about 9 p.m.; fire banked in ten minutes.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t10",
+        "t11"
+      ]
+    },
+    {
+      "day": "April 12, 1748",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "scope": "Wellby’s separate watch",
+      "summary": "An hour through sunset into darkness; narrated carcass-processing intervals may overlap this account.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08",
+        "t09"
+      ]
+    },
+    {
+      "day": "Through April 13, 1748",
+      "endDate": "1748-04-13",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Completed eight-hour overnight ends in morning; nightmares impair recovery, but the night passes.",
+      "markers": [
+        "t12"
+      ]
+    }
+  ]
+}
