@@ -1,0 +1,987 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-004",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+    "sessionYamlSha256": "511b11aa06257f64dc857a150906fdb6752e165ce2f7492285fe80d5665ce7c9",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md",
+    "transcriptSha256": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a"
+  },
+  "places": {
+    "p00": {
+      "label": "Feywild",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1877",
+          "quote": "The entrance is in the Feywild"
+        }
+      ],
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p01": {
+      "label": "Promontory at the freestanding door",
+      "kind": "promontory",
+      "evidence": [
+        {
+          "startUid": "u0204",
+          "endUid": "u0213",
+          "quote": "standing in front of the door on this, on this bluff that falls away now on three sides in the twilight."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Promontory.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p00",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "The entrance is in the Feywild"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "The 27th Room (house)",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1877",
+          "quote": "Well, this… This is the house we call the 27th Room."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "aliases": [
+        "this house",
+        "this building"
+      ],
+      "note": "Vault-only orientation: 27th House places the complex in the Twilight Kingdom. This session locates its entrance in the Feywild and the moving central prison elsewhere."
+    },
+    "p03": {
+      "label": "Wrecked entry room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0398",
+          "quote": "As you come into the room, the room is quite large, and a little bit oddly shaped."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Chapel (22)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0496",
+          "endUid": "u0497",
+          "quote": "This room is clearly a chapel."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "First mechanical listening room (17)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0649",
+          "endUid": "u0652",
+          "quote": "You're standing instead in a room that's filled almost the entire space with this massive mechanical equipment"
+        },
+        {
+          "startUid": "u1132",
+          "endUid": "u1133",
+          "quote": "17's the one you've been in before, that's the massive mechanical room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ],
+      "note": "The return confirms the same writing but moves the window from wall to floor and changes the exits; no permanent compass or floor relationship is inferred."
+    },
+    "p06": {
+      "label": "Kitchen and dining room (16)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0928",
+          "endUid": "u0939",
+          "quote": "All right, you go through 16. And in 16, 16 is… kitchen and dining room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Mortuary and ossuary (7)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1014",
+          "quote": "As you step into the room, same size and shape that you've come to expect"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Sleeping quarters (20)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1101",
+          "endUid": "u1105",
+          "quote": "Walking east, this is sleeping quarters."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Meeting room (25)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1253",
+          "endUid": "u1256",
+          "quote": "25 has exits… east, south, and down to 2, 18, and 22, and it's meeting rooms."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Solarium (19)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1280",
+          "endUid": "u1285",
+          "quote": "19 is a solarium. You walk down the stairs into the room"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Bathhouse (24)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1311",
+          "endUid": "u1314",
+          "quote": "24 is a bathhouse."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Storeroom labeled 27",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1328",
+          "endUid": "u1332",
+          "quote": "the 27th room may not actually be the one labeled 27, unfortunately"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Second mechanical listening room (15 / 23)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1440",
+          "endUid": "u1441",
+          "quote": "15 is a massive mechanical room."
+        },
+        {
+          "startUid": "u1633",
+          "endUid": "u1635",
+          "quote": "Oh wait, we're in room 23 now?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ],
+      "note": "Introduced as room 15 at u1440–u1441; u1633–u1635 calls the current room 23 and says “22, 15, 23” without narrating an intervening crossing. The label is unresolved; no extra visit to an unseen room is inferred."
+    },
+    "p14": {
+      "label": "Fungal greenhouse and laboratory (18)",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1648",
+          "endUid": "u1649",
+          "quote": "You step through into 18"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1875",
+              "endUid": "u1877",
+              "quote": "Yeah, we built the house around the prison a long time ago."
+            },
+            {
+              "startUid": "u2064",
+              "endUid": "u2068",
+              "quote": "She told me once how ridiculous it was that we built those inside of a machine—a machine… to keep the prisoner trapped."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Glass isolation room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1658",
+          "endUid": "u1664",
+          "quote": "it's like an isolation room within the room"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1658",
+              "endUid": "u1664",
+              "quote": "On the other side of the room there's a sort of a contained room within a room with big windows looking into it."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Inscribed iron surface beyond the first listening window",
+      "kind": "viewed surface",
+      "evidence": [
+        {
+          "startUid": "u0663",
+          "endUid": "u0666",
+          "quote": "a two-foot square of elaborately inscribed iron wall"
+        }
+      ],
+      "note": "The surface is seen through the recessed window, initially in the north wall and later in the floor. This is not evidence of entering or seeing inside the central prison."
+    },
+    "p17": {
+      "label": "Wooden surface beyond the second listening window",
+      "kind": "viewed surface",
+      "evidence": [
+        {
+          "startUid": "u1442",
+          "endUid": "u1443",
+          "quote": "it's this 2 by 2 foot window that looks into this wooden wall."
+        }
+      ],
+      "note": "The polished source explicitly calls this surface wooden; identity with the earlier iron surface is not established."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0204",
+        "endUid": "u0213"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party stands with Menestheus at the promontory door; the earlier road journey is recap.",
+      "evidence": [
+        {
+          "startUid": "u0204",
+          "endUid": "u0213",
+          "quote": "standing in front of the door on this, on this bluff that falls away now on three sides in the twilight."
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0162",
+          "quote": "Menestheus is with you."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0377",
+        "endUid": "u0383"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The opened door gives a view into a damaged interior before the party crosses.",
+      "evidence": [
+        {
+          "startUid": "u0377",
+          "endUid": "u0383",
+          "quote": "when he opens it, you can see into this interior room"
+        },
+        {
+          "startUid": "u0377",
+          "endUid": "u0383",
+          "quote": "without going in, there's not too much to see"
+        }
+      ],
+      "place": "p03",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0385",
+        "endUid": "u0398"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "Menestheus steps through and the party follows into the wrecked entry room.",
+      "evidence": [
+        {
+          "startUid": "u0385",
+          "endUid": "u0398",
+          "quote": "As you come into the room,"
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0488",
+        "endUid": "u0497"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The whole group descends through the interlocked corridor into chapel 22.",
+      "evidence": [
+        {
+          "startUid": "u0488",
+          "endUid": "u0497",
+          "quote": "This room is clearly a chapel."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Descend the stairs; the far door unlocks only after everyone enters the corridor and the first door closes."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0646",
+        "endUid": "u0652"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "Attempting to return upstairs instead brings everyone into the first mechanical listening room.",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0652",
+          "quote": "You're standing instead in a room that's filled almost the entire space with this massive mechanical equipment"
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0663",
+        "endUid": "u0666"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "From the first mechanical room the party sees only an inscribed iron surface through the recessed window.",
+      "evidence": [
+        {
+          "startUid": "u0663",
+          "endUid": "u0666",
+          "quote": "you get this distinct impression of being a window, is a two-foot square of elaborately inscribed iron wall"
+        }
+      ],
+      "place": "p16",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0928",
+        "endUid": "u0939"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party takes the door labeled 16 into the kitchen and dining room.",
+      "evidence": [
+        {
+          "startUid": "u0928",
+          "endUid": "u0939",
+          "quote": "All right, you go through 16. And in 16, 16 is… kitchen and dining room."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1011",
+        "endUid": "u1019"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "Choosing the upward exit labeled 7 leads into the mortuary with cold slabs and bodies.",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1019",
+          "quote": "As you step into the room,"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Take the upward exit selected at u1004–u1010."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1098",
+        "endUid": "u1105"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party chooses 20 and walks east into the sleeping quarters.",
+      "evidence": [
+        {
+          "startUid": "u1098",
+          "endUid": "u1105",
+          "quote": "Walking east, this is sleeping quarters."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1149",
+        "endUid": "u1188"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party returns to the first listening room; the writing is unchanged, but the window is now in the floor.",
+      "evidence": [
+        {
+          "startUid": "u1149",
+          "endUid": "u1188",
+          "quote": "So you go back through to 17"
+        }
+      ],
+      "from": "p08",
+      "to": "p05",
+      "completion": "arrived",
+      "note": "Return confirms room identity, not stable orientation."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1232",
+        "endUid": "u1236"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party returns to the kitchen; its exit arrangement has changed.",
+      "evidence": [
+        {
+          "startUid": "u1232",
+          "endUid": "u1236",
+          "quote": "You're back in the kitchen again."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1251",
+        "endUid": "u1256"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The group chooses 25 and reaches the meeting room.",
+      "evidence": [
+        {
+          "startUid": "u1251",
+          "endUid": "u1256",
+          "quote": "25 has exits… east, south, and down to 2, 18, and 22, and it's meeting rooms."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1257",
+        "endUid": "u1261"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The group descends to 22 and confirms it is still the chapel.",
+      "evidence": [
+        {
+          "startUid": "u1257",
+          "endUid": "u1261",
+          "quote": "Down to 22. Still the chapel, still the creepy niche"
+        }
+      ],
+      "from": "p09",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1279",
+        "endUid": "u1285"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party descends into solarium 19, whose apparent sunlight is artificial.",
+      "evidence": [
+        {
+          "startUid": "u1279",
+          "endUid": "u1285",
+          "quote": "19 is a solarium. You walk down the stairs into the room"
+        }
+      ],
+      "from": "p04",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1305",
+        "endUid": "u1314"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "After Txarro’s pause in the garden, the party chooses 24 and reaches the bathhouse.",
+      "evidence": [
+        {
+          "startUid": "u1305",
+          "endUid": "u1314",
+          "quote": "24 is a bathhouse."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1325",
+        "endUid": "u1332"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party takes the exit labeled 27 and finds a storeroom rather than the sought central prison.",
+      "evidence": [
+        {
+          "startUid": "u1325",
+          "endUid": "u1332",
+          "quote": "it's just a big storeroom with a bunch of junk."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1392"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The group returns to the chapel and rests while Menestheus studies the numbers.",
+      "evidence": [
+        {
+          "startUid": "u1388",
+          "endUid": "u1392",
+          "quote": "you go back to the chapel."
+        }
+      ],
+      "from": "p12",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1438",
+        "endUid": "u1443"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "After the rest the party chooses 15 and reaches a second mechanical room with another journal and listening window.",
+      "evidence": [
+        {
+          "startUid": "u1438",
+          "endUid": "u1443",
+          "quote": "15 is a massive mechanical room."
+        }
+      ],
+      "from": "p04",
+      "to": "p13",
+      "completion": "arrived",
+      "note": "The later current-room label changes to 23 without a narrated intervening move; see p13."
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u1442",
+        "endUid": "u1443"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party sees another runed window view, described here as a wooden wall; no passage into it occurs.",
+      "evidence": [
+        {
+          "startUid": "u1442",
+          "endUid": "u1443",
+          "quote": "it's this 2 by 2 foot window that looks into this wooden wall."
+        }
+      ],
+      "place": "p17",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1646",
+        "endUid": "u1666"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party goes west through 18 into Kallipseis’s fungal greenhouse and laboratory.",
+      "evidence": [
+        {
+          "startUid": "u1646",
+          "endUid": "u1666",
+          "quote": "You step through into 18"
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u1658",
+        "endUid": "u1688"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "From the laboratory, the party looks through glass at a helper working on the unfinished body in an isolation room.",
+      "evidence": [
+        {
+          "startUid": "u1658",
+          "endUid": "u1664",
+          "quote": "looking through the windows of that smaller space"
+        },
+        {
+          "startUid": "u1681",
+          "endUid": "u1688",
+          "quote": "Here she gestures behind her through the window to this isolation room, where a table's laid out"
+        }
+      ],
+      "place": "p15",
+      "mode": "local",
+      "observerPlace": "p14"
+    }
+  ]
+}

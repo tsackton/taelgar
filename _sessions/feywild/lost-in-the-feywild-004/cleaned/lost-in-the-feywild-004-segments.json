@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-004",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+    "sessionYamlSha256": "511b11aa06257f64dc857a150906fdb6752e165ce2f7492285fe80d5665ce7c9",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md",
+    "transcriptSha256": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0203"
+      },
+      "category": "session_framing",
+      "note": "Opening recap and recollection of earlier sessions; active character actions begin with the current promontory tableau at u0204."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0204",
+        "endUid": "u2108"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u2109",
+        "endUid": "u2117"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2118",
+        "endUid": "u2491"
+      },
+      "category": "meta_discussion",
+      "note": "Postgame discussion of the house mechanism, player goals and encounter design, with brief comparisons and a catch-up recap; no new played movement."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2492",
+        "endUid": "u2542"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
