@@ -1,0 +1,567 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-036",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+    "sessionYamlSha256": "41b67c1f0241de53daaeb31226afef46771beaaeae7a39235a91739a176d8649",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-transcript.md",
+    "transcriptSha256": "2daf90011b2b1a190aff19e77d9683635e4ebc10d8d33d7026a25a08aa346072",
+    "yamlDates": {
+      "start": "1748-07-01",
+      "end": "1748-07-02"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "reading": "The party crosses Jita Square near sunset; at archive entry the DM specifies sunset is still about half an hour away.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So as the sun sets you find yourself walking across Jita Square, the largest and most central plaza in Tokra."
+        },
+        {
+          "startUid": "u0062",
+          "endUid": "u0065",
+          "quote": "I mean, sunset’s in like half an hour. The sun is setting in the sky as you enter the archives."
+        }
+      ],
+      "time": {
+        "partOfDay": "near sunset",
+        "precision": "approximate",
+        "basis": "DM’s clock description"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0133"
+      },
+      "reading": "A few minutes pass in the archives while the party waits for Ardan.",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0133",
+          "quote": "A few minutes later while you’re waiting, Ardan comes down the stairs and he’s, \"You're back.\"—"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated wait before Ardan comes downstairs"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0416",
+        "endUid": "u0419"
+      },
+      "reading": "The archive conversation has taken 15–20 minutes; sunset has now occurred and the moon is rising.",
+      "evidence": [
+        {
+          "startUid": "u0416",
+          "endUid": "u0419",
+          "quote": "So you. You've been talking for 15, 20 minutes now, and now it's set. The moon beginning to inch over the horizon. So where do you want to all go?"
+        },
+        {
+          "startUid": "u0515",
+          "endUid": "u0517",
+          "quote": "See okay. So Kenzo and Seeker head out the front door into Jita Square, the open plaza now. You’re just beginning to see the faint glimmer of moonlight as the moon rises above the walls of the city."
+        }
+      ],
+      "duration": {
+        "min": 15,
+        "minInclusive": true,
+        "max": 20,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM states the conversation’s elapsed interval"
+      },
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM’s clock description"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1394"
+      },
+      "reading": "By the time the dwarves help carry Dag to the well, Seeker’s one-minute Quicksand has ended.",
+      "evidence": [
+        {
+          "startUid": "u1388",
+          "endUid": "u1394",
+          "quote": "No, that spell only lasts for a minute, so it’s turned back into regular stone now."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Narration establishes that the full one-minute spell expired"
+      },
+      "completion": "completed",
+      "note": "This measures spell time spanning the end of combat and its aftermath, not an additional minute after the family conversation."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1406",
+        "endUid": "u1409"
+      },
+      "reading": "Fallthra returns with food after a few minutes; Seeker prepares the altar during the preparation.",
+      "evidence": [
+        {
+          "startUid": "u1406",
+          "endUid": "u1409",
+          "quote": "I'll be back in a moment. She returns a few minutes later. I'm way off sorry go ahead."
+        },
+        {
+          "startUid": "u1425",
+          "endUid": "u1426",
+          "quote": "Excellent so I literally could make a little stone altar in a few minutes.\n\nUnknown: Yeah."
+        },
+        {
+          "startUid": "u1428",
+          "endUid": "u1431",
+          "quote": "So Fallthra returns with a a whole chicken. Plucked and carved, like this is like the cold chicken they, they roasted, right, yesterday or something, and were saving for a nice meal, yeah."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated food retrieval and accepted altar preparation"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Fallthra"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1477",
+        "endUid": "u1491"
+      },
+      "reading": "The ritual proceeds through several minutes of cold; at about five minutes Fallthra rushes to Dag, leading to his transformation back into a boy.",
+      "evidence": [
+        {
+          "startUid": "u1477",
+          "endUid": "u1491",
+          "quote": "So um you do this. The minute passes. Nothing happens. You start, you feel, you feel the cold. The water that you've placed there like begins to—ice begins to form on the surface of the water. The—the light begins to dim around like the torches here that are, you know, that, that light, in their brackets, the two torches closest to the cistern begin to dim. And then a minute passes. Two minutes. All that happens is you slowly feel the temperature of the room dropping."
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1495",
+          "quote": "Until maybe five minutes, as, as now the water begins to freeze more and more, Fallthra, unable to hold herself back, just rushes forward and starts crying."
+        },
+        {
+          "startUid": "u1504",
+          "endUid": "u1523",
+          "quote": "Flashes into fire. And as the ash burns away, you see the fur of the wolf also begin to— Not exactly smolder, it's, it begins to—her tears are landing on this fur and freezing as they hit, and it's like little drops of like liquid nitrogen, right? You see the like little, little vapors coming up. Until there was a crack and it's like the skin of this creature falls away and lying on on the ground, next to the altar is a dwarven boy. Not not even 20. Naked, curled up, and Fallthra just starts sobbing, gathers him up in her arms. And you hear—you— Delwath—there's a—it's not exactly—what would it be like? So, um, you sense your shadow beast, your connection to the shadow beast and suddenly as if there's like a backlash of the power that washed through you as the as the sacrifice burns and you feel like almost stunned for a minute, as if like a loud bell was rung right next to your ear, and."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM successively counts minutes, then says maybe five minutes"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Fallthra",
+        "Dag"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1524",
+        "endUid": "u1525"
+      },
+      "reading": "After the ritual backlash, Delwath sways unsteadily for about a minute before sitting down.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Player describes the enacted recovery interval after the DM’s backlash narration"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1504",
+          "endUid": "u1523",
+          "quote": "Flashes into fire. And as the ash burns away, you see the fur of the wolf also begin to— Not exactly smolder, it's, it begins to—her tears are landing on this fur and freezing as they hit, and it's like little drops of like liquid nitrogen, right? You see the like little, little vapors coming up. Until there was a crack and it's like the skin of this creature falls away and lying on on the ground, next to the altar is a dwarven boy. Not not even 20. Naked, curled up, and Fallthra just starts sobbing, gathers him up in her arms. And you hear—you— Delwath—there's a—it's not exactly—what would it be like? So, um, you sense your shadow beast, your connection to the shadow beast and suddenly as if there's like a backlash of the power that washed through you as the as the sacrifice burns and you feel like almost stunned for a minute, as if like a loud bell was rung right next to your ear, and."
+        },
+        {
+          "startUid": "u1524",
+          "endUid": "u1525",
+          "quote": "Delwath just sways on his feet for a minute like he is very unsteady and then sort of breathlessly sits down."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1583",
+        "endUid": "u1594"
+      },
+      "reading": "After hearing distant howls, Wellby listens from the roof for another 10–15 minutes before the last howl and silence.",
+      "evidence": [
+        {
+          "startUid": "u1573",
+          "endUid": "u1580",
+          "quote": "While this has been happening down below, Wellby, you've been you know scouting from the roof."
+        },
+        {
+          "startUid": "u1583",
+          "endUid": "u1594",
+          "quote": "This is like like the edge of your hearing. This is probably a mile or two away. Not necessarily getting closer. And there's 1000 strong army camped between the noise and the town. And you listen for another 10, 15 minutes and there's one more long echoing howl that again maybe could be a coyote but there's a chill to it that strikes you as something different."
+        },
+        {
+          "startUid": "u1595",
+          "endUid": "u1598",
+          "quote": "And then the noise goes silent.\n\nDM: Coming almost directly northwest of where you are and probably a good mile off."
+        }
+      ],
+      "duration": {
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates additional listening after the initial distant howls"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1730",
+        "endUid": "u1732"
+      },
+      "reading": "A few more minutes of conversation pass while Wellby checks the receding howls.",
+      "evidence": [
+        {
+          "startUid": "u1730",
+          "endUid": "u1732",
+          "quote": "Speaking of giving away position, as it's been a few minutes of conversation, are those howls coming closer or further or gone?\n\nUnknown: Gone.\n\nDM: If anything, they were getting further away."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Wellby explicitly advances the ongoing conversation and the DM resolves the current howls"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1830",
+        "endUid": "u1834"
+      },
+      "reading": "Kenzo completes his return to the Lakan monastery just before midnight.",
+      "evidence": [
+        {
+          "startUid": "u1830",
+          "endUid": "u1834",
+          "quote": "Ah yes. Yes, it's actually a pretty quiet night, especially once you get south of the city. You arrive back to the monastery maybe and just before midnight. The monastery is still and calm."
+        }
+      ],
+      "time": {
+        "partOfDay": "just before midnight",
+        "precision": "approximate",
+        "basis": "DM’s stated arrival relative to the approaching midnight"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1853",
+        "endUid": "u1865"
+      },
+      "reading": "All four sleep in their respective lodgings, gain a long rest, and wake on the morning of July 2.",
+      "evidence": [
+        {
+          "startUid": "u1853",
+          "endUid": "u1858",
+          "quote": "This is gonna be the transition to morning so yeah.\n\nDelwath: Just moving ahead so—\n\nDM: So, as you all drift off to sleep in your respective places um ah, you get a long rest."
+        },
+        {
+          "startUid": "u1861",
+          "endUid": "u1865",
+          "quote": "And you wake up the morning of July 2 now, um, Seeker, Wellby and Delwath in Kirian's, in your rooms at Kirian's, Kenzo in the monastery."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 2
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "July 2 and morning are spoken; year 1748 is inherited from the session YAML"
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "The proposed 4–5 a.m. return at u1839–u1843 is not separately confirmed. The completed transition supplies morning and rest benefits without establishing every actor’s bedtime."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1902",
+        "endUid": "u1907"
+      },
+      "reading": "On the following morning Kassi gives Kenzo a copied map before the party reunites after breakfast.",
+      "evidence": [
+        {
+          "startUid": "u1902",
+          "endUid": "u1907",
+          "quote": "Okay, so you meet Kenzo, you know, probably, you know just after breakfast here, so, um. Oh, by the way, Kenzo it in the morning um, as you’re leaving the archives, um, Kassi comes up to you and says, “Kenzo, hold up a minute. I'm still working on those questions about Rai and, and, and the gods, but I, but I do have a map for your, for your friend Wellby. This was easy to copy.”"
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u1911",
+          "quote": "And she hands you a map. I didn't manage to put this on Roll20, but it is it is here."
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1924",
+          "quote": "Actually, I can throw this on Roll20 and you meet now on the west side of Tokra, um at the outskirts of the, of the caravanserai, um, this is a big like open area that serves that handles a lot of merchant traffic and also serves as a as a marketplace for like out of towners and travelers and anybody who doesn't want to like pay the fees and the tolls to, to sell in the market square in town."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM’s clock description"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2134",
+        "endUid": "u2135"
+      },
+      "reading": "The veterans and party share a minute’s quiet over tea after the stories about Govir.",
+      "evidence": [
+        {
+          "startUid": "u2134",
+          "endUid": "u2135",
+          "quote": "Drink tea. Kind of quiet pervades the Group for a minute."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates a quiet interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2403",
+        "endUid": "u2403"
+      },
+      "reading": "During Seeker’s remote viewing, it is still relatively early morning and Illyan finishes a meal.",
+      "evidence": [
+        {
+          "startUid": "u2403",
+          "endUid": "u2403",
+          "quote": "Okay, so this is, yeah, the tent of a Dunmari commander. There's like papers spread around. There's, um, it's still relatively early in the morning, and he seems to be just finishing up a meal."
+        }
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "DM’s clock description"
+      },
+      "actors": [
+        "Illyan"
+      ],
+      "note": "This dates the observed current scene; it does not move Seeker from the inn."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2431",
+        "endUid": "u2431"
+      },
+      "reading": "During Clairvoyance a minute or two passes without activity; Illyan then leaves after his ring glows and returns a minute later with Drusa.",
+      "evidence": [
+        {
+          "startUid": "u2431",
+          "endUid": "u2431",
+          "quote": "Nothing seems to be happening for a minute or two—"
+        },
+        {
+          "startUid": "u2433",
+          "endUid": "u2436",
+          "quote": "10 minutes and then he like looks down at his hand, and you can see that he has a ring that’s glowing, and he curses some expletive and he gets up and runs out of the tent."
+        },
+        {
+          "startUid": "u2445",
+          "endUid": "u2449",
+          "quote": "A minute later um he comes back with a Chardonian woman a young ish woman who like is looking around and then points up directly—"
+        }
+      ],
+      "duration": {
+        "min": 2,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "One or two quiet minutes followed by the stated minute until Illyan returns"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed",
+      "note": "The exchange about ten minutes concerns the spell’s duration; it does not independently establish a full ten-minute observation."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u3215",
+        "endUid": "u3215"
+      },
+      "reading": "The party leaves Tokra riding north just after lunch; the proposed ride to the fort is diverted before arrival.",
+      "evidence": [
+        {
+          "startUid": "u3215",
+          "endUid": "u3215",
+          "quote": "So you leave Tokra, riding north just after lunch."
+        },
+        {
+          "startUid": "u3217",
+          "endUid": "u3220",
+          "quote": "It's maybe only a two-hour ride to the fort, and, um, and as you, as you sort of head in that direction, um you pass quickly through like the sort of farmland at the outskirts of Tokra and come to an area that seems like there's no people around. There's no herds in the distance. There's not even any animals. It just seems quiet."
+        },
+        {
+          "startUid": "u3254",
+          "endUid": "u3273",
+          "quote": "Yeah although it'd be interesting to see where the other end of this trail goes to.\n\nDelwath: Yeah I think we should go south.\n\nSeeker: So it's going to intersect the road—\n\nWellby: And if it continues does it like go to some access point to the city or? Yeah. Or, yeah, I'm convinced. Without me— We know what’s out the north end.\n\nSeeker: If—\n\nDM: You follow the trail South for maybe a mile, two miles, two and a half miles, you can see the walls of the city now. You’re a bit to the west of the city, and there’s—still a bit west of the city and a bit north of the of the road, maybe maybe half mile from the city when the trail turns abruptly east. Continues for about 200 yards and then stops in—there's like a little—the terrain here, like, it's mostly plains. You're sort of to the, to the west of the city. There's not so much farms. The farms just run up and down the river pretty much exclusively where there's water and irrigation.\n\nDM: And, and you come to the trail sort of ends in a little bit of a like a, just a small, small dell where there’s a pile of rocks, like rubble kind of strewn on the south edge of this dell."
+        }
+      ],
+      "time": {
+        "partOfDay": "just after lunch",
+        "precision": "approximate",
+        "basis": "DM’s clock description"
+      },
+      "completion": "begun",
+      "note": "The two-hour ride is an estimate to the fort, which the party does not reach; it is not counted as completed travel."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u3351",
+        "endUid": "u3352"
+      },
+      "reading": "Seeker’s excavation opens a hole through the tunnel roof in about two minutes.",
+      "evidence": [
+        {
+          "startUid": "u3351",
+          "endUid": "u3352",
+          "quote": "Okay, it takes you like a two minutes to blast a hole through the top of the tunnel."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u3400",
+        "endUid": "u3403"
+      },
+      "reading": "The party walks through the tunnel for about 20 minutes and reaches the steel door.",
+      "evidence": [
+        {
+          "startUid": "u3383",
+          "endUid": "u3386",
+          "quote": "Okay, you walk about 1,500 feet through this dirt passageway. At times you need to like get down and crawl, like there’s been parts that have been shored up.\n\nDM: But this is a you know, this is a crude excavation. It goes pretty deep like slopes down pretty steeply from here, and then it's just passing through the sort of the Earth."
+        },
+        {
+          "startUid": "u3400",
+          "endUid": "u3403",
+          "quote": "After you know 20 minutes walking through the tunnel um you come to the back of this—to this steel door."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates elapsed time"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "July 2 is independently spoken at waking. The opening July 1 date and year 1748 are conditional on YAML; the earlier morning recap does not independently extend the played span.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t09",
+      "t10",
+      "t15",
+      "t17"
+    ],
+    "explanation": "The near-sunset opening, completed overnight transition to July 2 morning and ensuing post-lunch exploration support one date boundary, matching July 1–2. Historical attacks, veteran memories, dreams not played out, and travel forecasts do not add days."
+  }
+}

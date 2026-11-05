@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-036",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+    "sessionYamlSha256": "41b67c1f0241de53daaeb31226afef46771beaaeae7a39235a91739a176d8649",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-transcript.md",
+    "transcriptSha256": "2daf90011b2b1a190aff19e77d9683635e4ebc10d8d33d7026a25a08aa346072"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0016"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0823"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0824",
+        "endUid": "u1194"
+      },
+      "category": "combat",
+      "note": "No initiative roll is retained; the repeated ordered turn cycle begins with Kenzo and continues through the wolf’s knockout."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1195",
+        "endUid": "u3462"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u3463",
+        "endUid": "u3473"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
