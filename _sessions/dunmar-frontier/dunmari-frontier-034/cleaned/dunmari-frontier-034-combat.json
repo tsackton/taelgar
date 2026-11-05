@@ -1,0 +1,600 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-034",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+    "sessionYamlSha256": "78a802ab3b1bcf1987d8ce63c60837d424a9bfc1c750028acd79708887f4ea31",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-transcript.md",
+    "transcriptSha256": "67cc5c7c0d532834e7710a63831f37413117d0b18657674e0a0c39c816383c13",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-segments.json",
+      "sha256": "48ef7c2a8fecfbc5a61f6fe5a3ad8025e1a21f0ac0f584d918aea513c9b34d7a",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s011",
+      "encounter": "Memory-eating fungus and corridor slime molds",
+      "note": "Wellby receives a free opening turn at the bottom of the order. The retreat continues directly into the slime ambush without rerolling initiative; recorded cycles follow the stated turns, including the new enemies joining after the retreat.",
+      "openingActions": [
+        {
+          "actor": "Wellby",
+          "kind": "turn",
+          "summary": "Lights a torch and burns the red fungus. Its tendril smolders, hisses and retracts; the damage is small but not numerically resolved.",
+          "evidence": [
+            {
+              "startUid": "u1690",
+              "endUid": "u1714"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Still charmed into believing the fungus harmless, urges departure and heads down the hallway.",
+              "evidence": [
+                {
+                  "startUid": "u1715",
+                  "endUid": "u1724"
+                }
+              ]
+            },
+            {
+              "actor": "Red fungus",
+              "kind": "turn",
+              "summary": "Swings a red arm at Wellby; 12 misses AC 15, with its aim distracted by the fire.",
+              "evidence": [
+                {
+                  "startUid": "u1725",
+                  "endUid": "u1734"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Creeps around the room out of reach and casts Vicious Mockery. The fungus fails its Wisdom save and takes 5 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1735",
+                  "endUid": "u1760"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Still charmed, follows Kenzo down the corridor to the glowing fork.",
+              "evidence": [
+                {
+                  "startUid": "u1769",
+                  "endUid": "u1798"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes steady aim and declares a shot; 20 hits for 15 damage. The damaged fungus oozes back together and remains active.",
+              "evidence": [
+                {
+                  "startUid": "u1801",
+                  "endUid": "u1815"
+                },
+                {
+                  "startUid": "u2276",
+                  "endUid": "u2278"
+                }
+              ],
+              "note": "The DM describes a chopping swing after the declared shot; the weapon narration conflicts. The later reminder says Wellby and Seeker should subtract d4 from attacks, but no results are rerolled."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Waits down the hall for the others.",
+              "evidence": [
+                {
+                  "startUid": "u1817",
+                  "endUid": "u1827"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Agrees to wait with Kenzo in the hall.",
+              "evidence": [
+                {
+                  "startUid": "u1824",
+                  "endUid": "u1827"
+                }
+              ]
+            },
+            {
+              "actor": "Red fungus",
+              "kind": "turn",
+              "summary": "Swings a seed pod toward Wellby and reaches for his mind. Wellby succeeds on the requested Wisdom save and shakes off the effect.",
+              "evidence": [
+                {
+                  "startUid": "u1828",
+                  "endUid": "u1832"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Suggestion on Wellby, urging him to leave. Wellby succeeds on the Wisdom save; the suggestion fails.",
+              "evidence": [
+                {
+                  "startUid": "u1833",
+                  "endUid": "u1844"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Disengages as a bonus action, drops his torch and an uncertain second object to contain the fungus, and retreats down the hall; the DM confirms everyone is heading that way.",
+              "evidence": [
+                {
+                  "startUid": "u1852",
+                  "endUid": "u1855"
+                }
+              ],
+              "note": "The second object is transcribed as {{another book}}; its identity is unresolved."
+            },
+            {
+              "actor": "First slime mold",
+              "kind": "turn",
+              "summary": "Drops from the wall onto Delwath; 22 hits for 9 bludgeoning and 17 acid damage. His existing protection absorbs 20 damage; its 20 cold retaliatory damage has no effect on the slime.",
+              "evidence": [
+                {
+                  "startUid": "u1872",
+                  "endUid": "u1901"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses a psychic retaliation reaction. The slime fails its Dexterity save and takes 7 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1902",
+                  "endUid": "u1913"
+                }
+              ]
+            },
+            {
+              "actor": "Second slime mold",
+              "kind": "turn",
+              "summary": "Creeps forward but cannot pass the first slime, so waits.",
+              "evidence": [
+                {
+                  "startUid": "u1914",
+                  "endUid": "u1915"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight, spending one ki to learn immunities to acid, cold, lightning and slashing, and to blinded, charmed, deafened, exhausted, frightened and prone. Hits the first slime with his staff and stuns it until the end of his next turn; acid deals 3 to him and corrodes the staff to −2 damage. His second attack has advantage from the stun: 13 hits for 6 damage, splashing 1 acid and corroding the staff to −3.",
+              "evidence": [
+                {
+                  "startUid": "u1916",
+                  "endUid": "u1970"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Steps over and throws his metal net. Disadvantage is canceled by advantage against the stunned target; the straight roll fails and the net slides off.",
+              "evidence": [
+                {
+                  "startUid": "u1999",
+                  "endUid": "u2005"
+                },
+                {
+                  "startUid": "u2276",
+                  "endUid": "u2278"
+                }
+              ],
+              "note": "The later d4 penalty reminder does not revise this miss."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Hex, steps back out of melee range, then lands two Eldritch Blast hits with advantage against the stunned slime (one roll is 19), reporting 14 total damage. Also steps aside to clear Wellby’s shot, accepted retrospectively.",
+              "evidence": [
+                {
+                  "startUid": "u2011",
+                  "endUid": "u2043"
+                },
+                {
+                  "startUid": "u2044",
+                  "endUid": "u2051"
+                },
+                {
+                  "startUid": "u2461",
+                  "endUid": "u2462"
+                }
+              ],
+              "note": "At u2461–u2462 he confirms that Hex concentration was maintained."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires with advantage after Delwath clears the line; spends one flaming-bowstring charge and hits for 27 combined piercing and fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u2044",
+                  "endUid": "u2066"
+                },
+                {
+                  "startUid": "u2276",
+                  "endUid": "u2278"
+                }
+              ],
+              "note": "The later forgotten-d4 reminder does not change the resolved hit."
+            },
+            {
+              "actor": "First slime mold",
+              "kind": "turn",
+              "summary": "Cannot act because it is stunned.",
+              "evidence": [
+                {
+                  "startUid": "u2067",
+                  "endUid": "u2068"
+                }
+              ]
+            },
+            {
+              "actor": "Second slime mold",
+              "kind": "turn",
+              "summary": "Climbs along the ceiling and drops onto Seeker; 17 hits, dealing 9 lightning and 17 acid damage as stated. Acid reduces Seeker’s AC by one, to 12.",
+              "evidence": [
+                {
+                  "startUid": "u2067",
+                  "endUid": "u2083"
+                }
+              ],
+              "note": "The DM calls the impact lightning here; the analogous first slime hit was bludgeoning. No correction resolves the damage type."
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the second slime with the corroded staff for 2 damage and stuns it after its save roll of 4; takes 4 acid and the staff reaches −4 damage. Drops the staff and punches the first slime: a hit deals 7 damage, but its save of 15 resists renewed stunning. Further unarmed hits leave it near death and splash 8 acid onto Kenzo; additional attack damage is not spoken. He declines another stun, so the first slime’s existing stun expires.",
+              "evidence": [
+                {
+                  "startUid": "u2087",
+                  "endUid": "u2144"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts third-level Erupting Earth in a 20-foot cube catching both slimes and avoiding the party. The still-stunned second slime automatically fails the Dexterity save; the first rolls 3 and fails. Both take the stated 22 damage; the first is disintegrated, and the second remains stunned.",
+              "evidence": [
+                {
+                  "startUid": "u2145",
+                  "endUid": "u2175"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Steps back, moves Hex to the remaining slime, and hits with both Eldritch Blast beams at advantage for the stated 17 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2177",
+                  "endUid": "u2192"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the remaining slime with advantage and hits; no damage amount is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2193",
+                  "endUid": "u2196"
+                },
+                {
+                  "startUid": "u2276",
+                  "endUid": "u2278"
+                }
+              ],
+              "note": "The later forgotten-d4 reminder leaves this hit unchanged."
+            },
+            {
+              "actor": "Second slime mold",
+              "kind": "turn",
+              "summary": "Is stunned and cannot even flee on its turn.",
+              "evidence": [
+                {
+                  "startUid": "u2197",
+                  "endUid": "u2197"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Lands three unarmed hits with advantage and no critical hits. The accepted corrected damages are 7, 5 and 8. He takes 6 acid damage, leaving him at 3 HP, and declines to spend ki to renew the stun; it ends at the end of his turn.",
+              "evidence": [
+                {
+                  "startUid": "u2198",
+                  "endUid": "u2234"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Raises an earthen hand to crush the slime. Its Strength save of 7 fails; the spell is corrected from third to second level, dealing 12 bludgeoning damage and grappling it.",
+              "evidence": [
+                {
+                  "startUid": "u2235",
+                  "endUid": "u2255"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits with two Eldritch Blast attacks (11 and 24) without advantage. The force beams and necrotic Hex finish the slime: it shrivels, blackens and dies. Numerical damage is not intelligibly stated.",
+              "evidence": [
+                {
+                  "startUid": "u2256",
+                  "endUid": "u2267"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both corridor slime molds are dead. The party escaped the red fungus, which was not killed.",
+        "evidence": [
+          {
+            "startUid": "u1852",
+            "endUid": "u1855"
+          },
+          {
+            "startUid": "u2169",
+            "endUid": "u2175"
+          },
+          {
+            "startUid": "u2266",
+            "endUid": "u2267"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s015",
+      "encounter": "Giant worm at the planar weak point",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Casts Blink before approaching the chamber.",
+          "evidence": [
+            {
+              "startUid": "u2472",
+              "endUid": "u2480"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Gives Kenzo, Delwath and Wellby one inspiration each before starting: three one-use d8 benefits; he cannot inspire himself.",
+          "evidence": [
+            {
+              "startUid": "u2490",
+              "endUid": "u2493"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Approaches the pillars, uses Ghostly Gaze as his action to see the hidden worm through them, and applies Hex as his bonus action. Ghostly Gaze is described as lasting one minute.",
+              "evidence": [
+                {
+                  "startUid": "u2504",
+                  "endUid": "u2553"
+                },
+                {
+                  "startUid": "u2568",
+                  "endUid": "u2568"
+                }
+              ],
+              "note": "He later remembers the Blink roll for this turn, but no outcome is stated."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves his drift globe but cannot see the concealed creature. Replaces a proposed readied unarmed attack with Dodge, imposing disadvantage on attacks against him.",
+              "evidence": [
+                {
+                  "startUid": "u2554",
+                  "endUid": "u2576"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves behind Delwath and readies an action to throw his Amber Web when the creature comes through; the proposed Polymorph and mirror creation do not occur.",
+              "evidence": [
+                {
+                  "startUid": "u2577",
+                  "endUid": "u2616"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Sees the worm behind three-quarters cover and asks it telepathically to leave. His Persuasion check applies the d4 memory penalty and a one-use d8 inspiration, reaching 19. The worm communicates overwhelming hunger and an image of a horse-sized cricket. Wellby throws and activates the Obsidian Fly after a Dexterity check; it bounces off a pillar and lands nearby, luring the worm out.",
+              "evidence": [
+                {
+                  "startUid": "u2617",
+                  "endUid": "u2713"
+                }
+              ]
+            },
+            {
+              "actor": "Giant worm",
+              "kind": "turn",
+              "summary": "Shoots two lines of gluey slime onto the giant fly, then lunges, bites and injects saliva. No damage amount is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2715",
+                  "endUid": "u2727"
+                }
+              ],
+              "note": "Seeker comments on throwing the web at u2714, but no release or effect is resolved."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves through the pillars into the weak-point area while the worm feeds. Declines to set a vial on the ground or rebuild its knocked-over stand, instead readying a sword attack if the worm returns within range. Vanishes under his ongoing Blink.",
+              "evidence": [
+                {
+                  "startUid": "u2728",
+                  "endUid": "u2806"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves into sight and spends one ki on Soul Sight: the worm resists bludgeoning, thunder, acid and force, is vulnerable to piercing, and is immune to blinded, deafened and prone. An Insight check establishes hunger and present focus on the fly, but cannot establish whether it will be satisfied. Takes Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u2807",
+                  "endUid": "u2847"
+                }
+              ]
+            },
+            {
+              "actor": "Small worms",
+              "kind": "event",
+              "summary": "Crawl from the leaf litter to feed on the trapped fly; they do not attack.",
+              "evidence": [
+                {
+                  "startUid": "u2848",
+                  "endUid": "u2851"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Polymorph; the giant worm fails its Wisdom save and becomes a one-inch earthworm. The effect lasts up to one hour, with reversion if the worm reaches zero HP.",
+              "evidence": [
+                {
+                  "startUid": "u2852",
+                  "endUid": "u2872"
+                }
+              ]
+            },
+            {
+              "actor": "Giant fly",
+              "kind": "turn",
+              "summary": "Breaks free of the hardening glue and searches for the attacker that has apparently vanished.",
+              "evidence": [
+                {
+                  "startUid": "u2874",
+                  "endUid": "u2893"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Recalls the fly, accepted by the DM and declared collectively by the other players while Wellby’s player is away.",
+              "evidence": [
+                {
+                  "startUid": "u2894",
+                  "endUid": "u2905"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Rebuilds the small stand and places the vials at the weak point; the DM accepts the action as the encounter moves out of initiative.",
+              "evidence": [
+                {
+                  "startUid": "u2907",
+                  "endUid": "u2910"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The worm remains alive as a tiny earthworm, the fly is safely recalled, and the party places the vials to begin collecting planar energy.",
+        "evidence": [
+          {
+            "startUid": "u2871",
+            "endUid": "u2872"
+          },
+          {
+            "startUid": "u2901",
+            "endUid": "u2910"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-time-markers.json",
+    "sha256": "3534b4e84e870049cd40478e0dd9535af2e1a0d7f7778535c061418751e20995"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-transcript.md",
+    "sha256": "67cc5c7c0d532834e7710a63831f37413117d0b18657674e0a0c39c816383c13"
+  },
+  "dateAssessment": "Working dates follow session YAML: June 30–July 1, DR 1748. No absolute date is spoken. The time extraction matches the one completed overnight; the eleven-day journey is opening recap, corroborated by Session 33’s dated account. Morning is explicit, but the ruins expedition’s finish around midday is a rough watch estimate from about two hours of measured activity plus unmeasured exploration and encounters. The five-minute mold clearing is included in the ten-minute hall total.",
+  "watches": [
+    {
+      "day": "June 30, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Arrival in sinking afternoon sunlight; Rishi’s courtyard conversation is explicitly late afternoon.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-06-30",
+      "endDate": "1748-06-30"
+    },
+    {
+      "day": "June 30, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Settling in reaches the dinner bell; afterward Johar joins the party for the evening.",
+      "markers": [
+        "t03",
+        "t04"
+      ],
+      "startDate": "1748-06-30",
+      "endDate": "1748-06-30"
+    },
+    {
+      "day": "June 30–July 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Party sleeps overnight and wakes next morning; eight hours uses the long-rest convention.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-06-30",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Party wakes, breakfasts, and visits Basu’s workshop first thing afterward.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Ruins expedition: ten minutes exploring, one-hour rest, fifty-minute collection; finish around midday is estimated.",
+      "markers": [
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 33 (DuFr)",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 33 (DuFr).md",
+      "sha256": "8430ad35c58305190a841e0a5a34d5bb79e48fda185ee686089feae28bcde187"
+    },
+    {
+      "label": "Wes Strongbones",
+      "path": "People/Halflings/Wes Strongbones.md",
+      "sha256": "814eca81ed919336172cf2b812e5a9c31e36c309bb028a14ad48fdea7e11cb16"
+    },
+    {
+      "label": "Praecanti Vigiles",
+      "path": "Groups/Chardonian Organizations/Praecanti Vigiles.md",
+      "sha256": "b8a9e12024ecede375fdaf30103dda72c3dea47d74d861ac89b15b88fe026865"
+    },
+    {
+      "label": "Servius",
+      "path": "People/Chardonians/Servius.md",
+      "sha256": "60d2f1f27a0fc84f9ebf3e57496135dab2af84e0d6e6e1ee926cae2aab71ca43"
+    },
+    {
+      "label": "Tealeafs",
+      "path": "Groups/Halfling Families/Tealeafs.md",
+      "sha256": "7d8bedd3b812209fad5a977b9458dac53ac26f6fa29598d1f99334f39079390b"
+    },
+    {
+      "label": "Oduk",
+      "path": "People/Other Nonhumans/Oduk.md",
+      "sha256": "94f360be359fade69ef949d04833ca3c68bf67147d8e059ab8cace28d75025ea"
+    },
+    {
+      "label": "Charmhearts",
+      "path": "Groups/Halfling Families/Charmhearts.md",
+      "sha256": "bc957de016417604c9c0e65ec64eff2bf31bf0f2068c39ce86d70b8057bffa07"
+    }
+  ]
+}
