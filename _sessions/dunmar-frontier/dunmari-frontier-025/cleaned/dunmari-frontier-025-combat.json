@@ -1,0 +1,413 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-025",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+    "sessionYamlSha256": "35bc0798484c781419536844244fd1a019029c300a0d285232d379811c88720c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-transcript.md",
+    "transcriptSha256": "13394df3a69f1a25a62c5b8b40c7bbceafd184081561c895ada31df434508337",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-segments.json",
+      "sha256": "fa6804c865c5f3b36e5f78fdcfe6281a15119e3988792b98647103bc80b9e2a5",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s006",
+      "encounter": "Shadow ambush at the second desert camp",
+      "openingActions": [
+        {
+          "actor": "Shadow",
+          "kind": "event",
+          "summary": "Lunges from the dim edge of camp at Delwath as he approaches Seeker; Delwath ducks and it misses.",
+          "evidence": [
+            {
+              "startUid": "u0804",
+              "endUid": "u0816"
+            }
+          ]
+        },
+        {
+          "actor": "Shadow dogs",
+          "kind": "event",
+          "summary": "A nearby shrieking howl wakes everybody. Wisdom saves resist the fear for Seeker, Wellby and Kenzo; Delwath fails and is frightened, recalling the shadow realm. Initiative is rolled.",
+          "evidence": [
+            {
+              "startUid": "u0840",
+              "endUid": "u0855"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Shadows",
+              "kind": "turn",
+              "summary": "One shadow attacks Delwath and misses his shield; the other slips into Kenzo’s tent and misses him as he wakes.",
+              "evidence": [
+                {
+                  "startUid": "u0865",
+                  "endUid": "u0884"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the tent shadow with two staff attacks and an unarmed strike; all do diminished damage as its form parts around the blows. No numerical damage is stated.",
+              "evidence": [
+                {
+                  "startUid": "u0885",
+                  "endUid": "u0910"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Performance of Creation to make a roughly pound-sized cube of magnesium in the fire ring, then asks Delwath to ignite it; abandons the lamp idea.",
+              "evidence": [
+                {
+                  "startUid": "u0912",
+                  "endUid": "u0948"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Commands one driftglobe to produce Daylight from within 60 feet. Its 60-foot-radius light fills the camp except inside the tents; the enemies recoil. The DM accepts remote activation after first requiring contact.",
+              "evidence": [
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0979"
+                }
+              ]
+            },
+            {
+              "actor": "Two shadow dogs",
+              "kind": "turn",
+              "summary": "Run and dash out of Daylight among the horses; disappear from sight beyond the bright light and terrify the mounts.",
+              "evidence": [
+                {
+                  "startUid": "u0982",
+                  "endUid": "u0997"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Still frightened, strikes the magnesium with Green-Flame Blade at disadvantage; even the roll of 3 hits. The magnesium ignites with a 30-foot bright radius and the flame jumps to the adjacent shadow for 6 damage. Curses the larger dog as a bonus action. A Wisdom save of 23 ends his fear at turn end, so he cannot approach the fear source during this turn.",
+              "evidence": [
+                {
+                  "startUid": "u0998",
+                  "endUid": "u1052"
+                }
+              ]
+            },
+            {
+              "actor": "Alpha shadow dog",
+              "kind": "turn",
+              "summary": "Runs toward Delwath and bites with disadvantage in the bright light; misses his armor.",
+              "evidence": [
+                {
+                  "startUid": "u1053",
+                  "endUid": "u1064"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Shadows",
+              "kind": "turn",
+              "summary": "The tent shadow misses Kenzo. The shadow by Delwath attacks at disadvantage: an initial natural 20 is negated, but the attack still hits for 8 necrotic damage and reduces Strength by 3.",
+              "evidence": [
+                {
+                  "startUid": "u1065",
+                  "endUid": "u1089"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Reacts to the shadow’s hit with Shadow Rebuke: declares 11 psychic damage and a DC 15 Wisdom save for half. The save result is garbled; later he says he did 11, without a clear DM save result.",
+              "evidence": [
+                {
+                  "startUid": "u1077",
+                  "endUid": "u1088"
+                },
+                {
+                  "startUid": "u1161",
+                  "endUid": "u1161"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Abandons grappling or removing the tent. Uses Soul Sight as a bonus action, learning the shadow has 16 HP, then Fist of Planar Power; it fails a Strength save and is destroyed. Steps out of the tent. The DM permits thread-cutting imagery but denies learning the creature’s planar connection in combat.",
+              "evidence": [
+                {
+                  "startUid": "u1093",
+                  "endUid": "u1194"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Creates an earthen hand that crushes the remaining shadow for 8 bludgeoning damage. The shadow oozes free: the DM explicitly rejects restraint despite the initially stated spell effect.",
+              "evidence": [
+                {
+                  "startUid": "u1198",
+                  "endUid": "u1230"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Calls Baxter and the horses into the light, then shoots the last shadow despite cover. The attack hits with 20; its remaining 1 HP is enough to kill it without rolling damage.",
+              "evidence": [
+                {
+                  "startUid": "u1231",
+                  "endUid": "u1258"
+                }
+              ]
+            },
+            {
+              "actor": "Horses and Baxter",
+              "kind": "event",
+              "summary": "The horses flee toward the light. Baxter’s initially narrated movement to Wellby is corrected: he guards the horses at the light’s edge, hissing.",
+              "evidence": [
+                {
+                  "startUid": "u1259",
+                  "endUid": "u1277"
+                }
+              ]
+            },
+            {
+              "actor": "Two shadow dogs",
+              "kind": "turn",
+              "summary": "Attack the fleeing horses: two die, three reach the light. The dogs converge at the dim edge and vanish again.",
+              "evidence": [
+                {
+                  "startUid": "u1270",
+                  "endUid": "u1277"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hexes the alpha dog and attacks twice with his magical weapon. First attack declares 9 damage plus 6 Hex; the second attack roll of 19 critically hits because of the curse, with 3 additional spell damage rolled. The DM says the necrotic curse does nothing, while the weapon cuts it; no unambiguous final damage total is established.",
+              "evidence": [
+                {
+                  "startUid": "u1280",
+                  "endUid": "u1310"
+                },
+                {
+                  "startUid": "u1753",
+                  "endUid": "u1757"
+                }
+              ]
+            },
+            {
+              "actor": "Alpha shadow dog",
+              "kind": "turn",
+              "summary": "Barks commands to the other dogs, then bites Delwath for 7 damage. Delwath fails the Strength save and is knocked prone.",
+              "evidence": [
+                {
+                  "startUid": "u1311",
+                  "endUid": "u1327"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Says he will curse it again as the alpha bites; the DM describes his shadows reaching up around it, but no damage or save resolves, and Delwath says it was the wrong spell.",
+              "evidence": [
+                {
+                  "startUid": "u1319",
+                  "endUid": "u1328"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Leaves the driftglobe in place, moves to the wounded alpha, and misses both quarterstaff attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1329",
+                  "endUid": "u1350"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Directs the earthen hand at the alpha, which shakes it off. Gives Delwath a d8 Bardic Inspiration usable on a saving throw or attack roll.",
+              "evidence": [
+                {
+                  "startUid": "u1351",
+                  "endUid": "u1370"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Initially cannot see the two dogs, though passive Perception locates them. Moves with the other driftglobe’s Light, revealing them and removing the contemplated unseen-target disadvantage. Readies a shot until Baxter moves beside them.",
+              "evidence": [
+                {
+                  "startUid": "u1371",
+                  "endUid": "u1412"
+                }
+              ]
+            },
+            {
+              "actor": "Baxter",
+              "kind": "turn",
+              "summary": "Moves into position beside the dogs, enabling Wellby’s shot; an attack is declared but its result is not separately narrated.",
+              "evidence": [
+                {
+                  "startUid": "u1405",
+                  "endUid": "u1416"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "The readied arrow hits a dog and badly hurts it; the dog becomes more solid in the light. No damage number is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1423",
+                  "endUid": "u1430"
+                }
+              ]
+            },
+            {
+              "actor": "Two shadow dogs",
+              "kind": "turn",
+              "summary": "One bites Baxter for 11 damage; a d20 is rolled and he stays standing. The other moves to Wellby and hits for 10 despite bright-light disadvantage and his unarmored AC 13; Wellby fails a Strength save and falls prone.",
+              "evidence": [
+                {
+                  "startUid": "u1432",
+                  "endUid": "u1443"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses his reaction when the enemy ends its turn nearby to scoot five feet away while prone, without provoking opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1445",
+                  "endUid": "u1450"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Stands using half his movement, retracts Booming Blade, and chooses weapon attacks. The first deals 12 and kills the alpha before another attack resolves. Curse healing makes him healthier, amount unstated. Transfers Hex to another dog and moves three squares; later clarifies its disadvantage is on Strength ability checks, not saves.",
+              "evidence": [
+                {
+                  "startUid": "u1451",
+                  "endUid": "u1478"
+                },
+                {
+                  "startUid": "u1522",
+                  "endUid": "u1523"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends a ki to dash as a bonus action to the two dogs and hits the previously undamaged one twice with his staff, with no unarmed bonus attack. Second hit deals 6; first damage is unclear. The dogs are more substantial in light and the staff hurts them more.",
+              "evidence": [
+                {
+                  "startUid": "u1481",
+                  "endUid": "u1513"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves within 30 feet and directs the earthen hand at a dog; it shrugs off the attempt. Gives Kenzo Bardic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u1514",
+                  "endUid": "u1537"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stands, takes Steady Aim, and shoots a dog; the hit kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1538",
+                  "endUid": "u1545"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "With Kenzo and Delwath moving in, finishes the last dog in compressed narration. No additional individual rolls or turns are resolved; the enemies show no interest in retreat.",
+              "evidence": [
+                {
+                  "startUid": "u1544",
+                  "endUid": "u1551"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Resolved: both humanoid shadows and all three shadow dogs are destroyed; two horses are dead, three survive, and Delwath has lost Strength. The final dog is dispatched by compressed narration.",
+        "evidence": [
+          {
+            "startUid": "u1270",
+            "endUid": "u1277"
+          },
+          {
+            "startUid": "u1544",
+            "endUid": "u1551"
+          }
+        ]
+      },
+      "note": "Four cycles follow the recurring actor order; the final remaining dog is finished without resolving further turns. The opening attack and howl precede regular initiative turns."
+    }
+  ]
+}

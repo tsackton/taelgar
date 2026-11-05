@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-time-markers.json",
+    "sha256": "588f0945bc6d8f9fcae43de8c47c3ccfc46148fccb92da69e8062033eefe49d5"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-transcript.md",
+    "sha256": "13394df3a69f1a25a62c5b8b40c7bbceafd184081561c895ada31df434508337"
+  },
+  "dateAssessment": "Working dates use the YAML opening of May 13, 1748. No absolute date is spoken. The narrated nights and two-day trip place the stone-house stay on May 17–18. The final montage supports either May 23 (inclusive sixth travel day, compatible with YAML) or May 24 (six elapsed days after departure). Both remain open in t16; no calendar correction has been applied.",
+  "watches": [
+    {
+      "day": "May 13, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "About an hour before noon at the bridge; clearing the horse shelter takes only moments.",
+      "markers": [
+        "t01",
+        "t17"
+      ],
+      "startDate": "1748-05-13",
+      "endDate": "1748-05-13"
+    },
+    {
+      "day": "May 13, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "First travel day ends at camp; the DM confirms the sun is setting.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1748-05-13",
+      "endDate": "1748-05-13"
+    },
+    {
+      "day": "May 14, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Delwath’s first-half watch ends just past midnight when he wakes Seeker.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1748-05-14",
+      "endDate": "1748-05-14"
+    },
+    {
+      "day": "May 14, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Wellby wakes everyone in the morning after the uneventful first night.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-05-14",
+      "endDate": "1748-05-14"
+    },
+    {
+      "day": "May 14, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Another riding day ends at twilight; bird conversation takes five–ten minutes, then the seep excursion begins at night.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-05-14",
+      "endDate": "1748-05-14"
+    },
+    {
+      "day": "May 15, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Ambush begins around midnight; its aftermath is explicitly just past midnight.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-05-15",
+      "endDate": "1748-05-15"
+    },
+    {
+      "day": "May 14–15, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Overnight long-rest credit conventionally spans eight hours to dawn; Wellby’s short-rest credit is nested, including resumed watches.",
+      "markers": [
+        "t10",
+        "t11"
+      ],
+      "startDate": "1748-05-14",
+      "endDate": "1748-05-15"
+    },
+    {
+      "day": "May 15, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "The party reaches Havdar’s deserted camp one or two hours after sunset.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-05-15",
+      "endDate": "1748-05-15"
+    },
+    {
+      "day": "May 16, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Morning dawns; Wellby investigates tracks for about half an hour while Delwath prepares breakfast.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-05-16",
+      "endDate": "1748-05-16"
+    },
+    {
+      "day": "May 17, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Two narrated travel days end at the stone house as the sun sets.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-05-17",
+      "endDate": "1748-05-17"
+    },
+    {
+      "day": "May 17–18, 1748",
+      "startWatch": "dusk",
+      "endWatch": null,
+      "basis": "inferred",
+      "summary": "Overnight stay follows the sunset welcome; departure is later, without a stated morning clock.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-05-17",
+      "endDate": "1748-05-18"
+    },
+    {
+      "day": "May 23 or May 24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Late-afternoon arrival: sixth travel day versus six days after departure leaves the civil date unresolved.",
+      "markers": [
+        "t16"
+      ]
+    }
+  ]
+}
