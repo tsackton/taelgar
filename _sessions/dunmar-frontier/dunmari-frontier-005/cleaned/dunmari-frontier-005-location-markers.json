@@ -1,0 +1,618 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-005",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+    "sessionYamlSha256": "55a051d5d706dd8748343cecb71533f126ab9af606cc4114d0cb888d674f5055",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-transcript.md",
+    "transcriptSha256": "08a0a5a8413612984912d26d89d01f66456f251a05e5358920717bc917b6a0b5"
+  },
+  "places": {
+    "p01": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0307",
+          "endUid": "u0315",
+          "quote": "DM: So, just to recap, last time you had returned from—you had spent some time in the ruins of the fort, exploring a bit, and then you'd returned, spoke to several people including Ikram and Jasu, the smith, and Elder Kisa, the sort of mayor of town, and then eventually to Candrosa, who was sort of a mix of nervous and scared and concerned and uncertain, but kind of seemed to steady himself at the end and was grateful for your help. And then you returned to the inn, having told Jasu that you were going to come by his shop in the morning to look at these silver spearpoints that had been left by the statue—the now statue—of Arcus. And otherwise, I had no specific plans. It is now about a week until the Festival of Rebirth. As you awake and sort of gather in the morning, you can tell—you can hear that the sounds of the market and the sort of sounds of the pre-festival fair starting up carry from across the, across the village, which has now swelled considerably—considerably, and it seems like, you know, today or in—or in the next day or so, the market is going to get going in earnest. And from everything you've heard, there will be archery, and riding contests and horseback archery and games of chance and axebeak riding, which is, you know, the one everybody's looking forward to the most."
+        },
+        {
+          "startUid": "u2059",
+          "endUid": "u2060",
+          "quote": "DM: \"Of course, I think we must have much to discuss now. First, though, before anything else, let me pass on my thanks, as I'm sure you've heard from many people, for everything you've done for Karawa. It really does mean the world to me."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p02": {
+      "label": "Ikram's inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1659",
+          "endUid": "u1661",
+          "quote": "DM: Back in Ikram's at the end of the day, sort of talking about everything. And Delwath, in the main, just asked around town. You have heard a few rumors, so actually, just give me—hope I didn't—an Investigation check, but add your Charisma instead of your Intelligence."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0307",
+              "endUid": "u0315",
+              "quote": "DM: So, just to recap, last time you had returned from—you had spent some time in the ruins of the fort, exploring a bit, and then you'd returned, spoke to several people including Ikram and Jasu, the smith, and Elder Kisa, the sort of mayor of town, and then eventually to Candrosa, who was sort of a mix of nervous and scared and concerned and uncertain, but kind of seemed to steady himself at the end and was grateful for your help. And then you returned to the inn, having told Jasu that you were going to come by his shop in the morning to look at these silver spearpoints that had been left by the statue—the now statue—of Arcus. And otherwise, I had no specific plans. It is now about a week until the Festival of Rebirth. As you awake and sort of gather in the morning, you can tell—you can hear that the sounds of the market and the sort of sounds of the pre-festival fair starting up carry from across the, across the village, which has now swelled considerably—considerably, and it seems like, you know, today or in—or in the next day or so, the market is going to get going in earnest. And from everything you've heard, there will be archery, and riding contests and horseback archery and games of chance and axebeak riding, which is, you know, the one everybody's looking forward to the most."
+            }
+          ],
+          "note": "The opening narration places the returned party, inn, and village fair in the same Karawa setting."
+        }
+      ],
+      "note": "The vault page also describes a later rebuilding; only the inn identity is used here.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram's.md"
+    },
+    "p03": {
+      "label": "Red Mesa",
+      "kind": "mesa",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0022",
+          "quote": "DM: He sort of bows his head, and says, \"Thank you.\" And he leads you out of the inn, into the desert to the east, sort of around the side of the village, to a hidden stairway that climbs up the side of this gigantic rock, basically. The climb is very steep but short, and just as the sun is rising you ascend to the top, catching the first rays of the morning light."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0018",
+              "endUid": "u0022",
+              "quote": "DM: He sort of bows his head, and says, \"Thank you.\" And he leads you out of the inn, into the desert to the east, sort of around the side of the village, to a hidden stairway that climbs up the side of this gigantic rock, basically. The climb is very steep but short, and just as the sun is rising you ascend to the top, catching the first rays of the morning light."
+            }
+          ]
+        }
+      ],
+      "note": "The Red Mesa match is corroborated by the session-era scene reproduced in Kenzo’s note; the eastward walk is a route, not a permanent compass relation.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md"
+    },
+    "p04": {
+      "label": "Colorless plain in Kenzo's vision",
+      "kind": "vision landscape",
+      "evidence": [
+        {
+          "startUid": "u0098",
+          "endUid": "u0102",
+          "quote": "DM: As you start to bring it towards there, you feel it almost click into place like a puzzle piece, and then, almost before you can think, the hand is grasping onto yours and you feel yourself pulled as if through a vortex. You see a brief glimpse of a vast, formless expanse filled with pulsing, flashing, multicolored, vibrantly alive points of color drifting across space in impossible ways, very much non-Euclidean. Geometry and direction seem to be meaningless here, and for a moment this galaxy of lights assaults your senses and you are overwhelmed. But the hand is guiding you, both pushing you and drawing you in at the same time, until your vision shifts, and you are standing on a flat, colorless plain."
+        }
+      ],
+      "note": "Candrosa offers access to the Dreamworld, but Kenzo returns unsure where he was. The formless multicolored expanse is a passing vision before this plain, not an embodied party visit."
+    },
+    "p05": {
+      "label": "Jasu's shop",
+      "kind": "smithy",
+      "evidence": [
+        {
+          "startUid": "u1005",
+          "endUid": "u1010",
+          "quote": "DM: Okay, so we'll say after lunch you, you sort of head back towards Jasu's shop. And he has been waiting, has been expecting you. So he's an older guy, heavyset, sort of stereotypical smith look. He's working in his shop as you approach. Then he stops and he looks up and he sort of puts his—he's making some, some arrows at the moment, and he, he puts them away and says, \"Oh, welcome back. You were—you wanted to see the silver spears, yes?\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0307",
+              "endUid": "u0315",
+              "quote": "DM: So, just to recap, last time you had returned from—you had spent some time in the ruins of the fort, exploring a bit, and then you'd returned, spoke to several people including Ikram and Jasu, the smith, and Elder Kisa, the sort of mayor of town, and then eventually to Candrosa, who was sort of a mix of nervous and scared and concerned and uncertain, but kind of seemed to steady himself at the end and was grateful for your help. And then you returned to the inn, having told Jasu that you were going to come by his shop in the morning to look at these silver spearpoints that had been left by the statue—the now statue—of Arcus. And otherwise, I had no specific plans. It is now about a week until the Festival of Rebirth. As you awake and sort of gather in the morning, you can tell—you can hear that the sounds of the market and the sort of sounds of the pre-festival fair starting up carry from across the, across the village, which has now swelled considerably—considerably, and it seems like, you know, today or in—or in the next day or so, the market is going to get going in earnest. And from everything you've heard, there will be archery, and riding contests and horseback archery and games of chance and axebeak riding, which is, you know, the one everybody's looking forward to the most."
+            }
+          ],
+          "note": "The opening town recap identifies Jasu as the smith whose shop the party intends to revisit."
+        }
+      ]
+    },
+    "p06": {
+      "label": "Staff-dancing balance beam",
+      "kind": "competition ground",
+      "evidence": [
+        {
+          "startUid": "u1472",
+          "endUid": "u1482",
+          "quote": "DM: The way staff dancing works is that the competitors are fighting on a balance beam, and the first person who falls off the balance beam loses. Fighting with staffs. I'm awesome. There's—\n\nKenzo: Something to be embarrassed.\n\nDM: The sort of guy who's organizing this kind of takes one look at you and puts you in the elite—the elite competition, which is the last one of the day and draws the biggest crowds. And you watch, and the first few bouts you win super easily. Like, you know, you're fighting people who just—one tap to their leg and they're off, right? You can easily dance around them. And you watch a few fights, and it seems like, you know, mostly you feel pretty confident."
+        }
+      ],
+      "note": "Part of the Karawa pre-festival competitions established at u0307–u0315; the source gives no precise site within or outside the village."
+    },
+    "p07": {
+      "label": "Axebeak-riding desert track",
+      "kind": "competition ground",
+      "evidence": [
+        {
+          "startUid": "u1827",
+          "endUid": "u1835",
+          "quote": "DM: And there's a pen of, like, twelve of these axebeaks together and, and lassoed with ropes. He—and they're sort of milling about. And you can see that there's a track that's been set up in a flat area in the desert. And the way it works is that there's a handler who grabs an axebeak at random from this pen, pulls it to the starting line, holds it down with the rope, and then as soon as you're mounted lets go of the rope. And it's up to you to control the direction that the axebeak goes and stay on as long as you can, and your distance is marked as—like, when you fall on the ground, somebody runs out with a stone and marks in the furthest way. That's—"
+        }
+      ],
+      "note": "Part of the Karawa pre-festival competitions; a flat desert track, without a precise position relative to the village."
+    },
+    "p08": {
+      "label": "Village council chamber",
+      "kind": "council chamber",
+      "evidence": [
+        {
+          "startUid": "u2110",
+          "endUid": "u2125",
+          "quote": "DM: Okay, so you all approach the—you all head to the village council chambers and enter the council—the council room, where the rest of the council seems to have just gathered or been gathering.\n\nDM: You recognize some people. You see Candrosa in there, who nods and acknowledges you, and also Kisa, who smiles at you as you enter and greets each one of you in turn warmly, and again with her thanks. You recognize Alesh as well, and Havdar, the warrior scout who you saw yesterday in the riding competition. And then there's one additional person who most of you don't recognize: Suma, the priestess of Jeevali.\n\nDM: She is—I guess, Delwath, you had seen her around maybe occasionally. She is a middle-aged woman with dark curly hair and sort of soft, friendly features, and smiles at you, although she doesn't recognize any of you, but perhaps at least heard of Delwath, and looks up and greets you as you come in warmly. \"Our saviors, pleased to see you here. Peace be with the Five Siblings.\"\n\nDM: And then she says—um, as you all enter, Kisa kind of urges everybody to sit down, and there's a circular table now in here with chairs around it. And she says—as you all enter, Kisa then kind of urges everybody to sit down, and there's a circular table now in here and chairs around that."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2067",
+              "endUid": "u2075",
+              "quote": "DM: When you wake in the morning, the message is waiting for you from Candrosa, saying, \"Come. The, the village council will be meeting,\" and you know the location of the, of the—I forget what they call it, like the meeting hall, like the chamber, right, where you talked to Kisa when you came back. \"The council will be meeting at 10 o'clock. We would very much appreciate your wisdom and your insight in these trying times.\""
+            },
+            {
+              "startUid": "u2110",
+              "endUid": "u2112",
+              "quote": "DM: Okay, so you all approach the—you all head to the village council chambers and enter the council—the council room, where the rest of the council seems to have just gathered or been gathering."
+            }
+          ],
+          "note": "The morning message identifies the local village chamber where the party previously met Kisa."
+        }
+      ]
+    },
+    "p09": {
+      "label": "Temple of Shakun",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0449",
+          "endUid": "u0457",
+          "quote": "Seeker: Is this the structure that the temple that we're in is carved into?\n\nDM: Ah, yes.\n\nKenzo: Well, I didn't realize that. Oh, that's cool.\n\nSeeker: Can I determine anything about the geology of this structures, like, natural geological origin?\n\nDM: The mesa itself is definitely natural, although, as you noted in our first session, the erosion—erosion of the temple seems to suggest that it is carved—it is older than the mesa itself."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0449",
+              "endUid": "u0450",
+              "quote": "Seeker: Is this the structure that the temple that we're in is carved into?\n\nDM: Ah, yes."
+            },
+            {
+              "startUid": "u0454",
+              "endUid": "u0457",
+              "quote": "DM: The mesa itself is definitely natural, although, as you noted in our first session, the erosion—erosion of the temple seems to suggest that it is carved—it is older than the mesa itself."
+            }
+          ],
+          "note": "The temple is carved into the mesa; this statement does not place the party inside it."
+        }
+      ],
+      "note": "No temple entry is established in this session; its interior is discussed as a past visit and future shelter.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md"
+    },
+    "p10": {
+      "label": "Mesa summit",
+      "kind": "summit",
+      "evidence": [
+        {
+          "startUid": "u0442",
+          "endUid": "u0444",
+          "quote": "DM: Top of this—now it's, you know, it's—it's probably, you know, a little bit after—after sunrise now, like sort of nine-ish or something like that, so it's starting to get hot. But you see, as you cross the summit of this mesa, this expansive view out over the desert, and you see Kenzo sitting on the edge of the mesa in meditation."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0018",
+              "endUid": "u0022",
+              "quote": "DM: He sort of bows his head, and says, \"Thank you.\" And he leads you out of the inn, into the desert to the east, sort of around the side of the village, to a hidden stairway that climbs up the side of this gigantic rock, basically. The climb is very steep but short, and just as the sun is rising you ascend to the top, catching the first rays of the morning light."
+            },
+            {
+              "startUid": "u0442",
+              "endUid": "u0444",
+              "quote": "DM: Top of this—now it's, you know, it's—it's probably, you know, a little bit after—after sunrise now, like sort of nine-ish or something like that, so it's starting to get hot. But you see, as you cross the summit of this mesa, this expansive view out over the desert, and you see Kenzo sitting on the edge of the mesa in meditation."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Tea shop",
+      "kind": "tea shop",
+      "evidence": [
+        {
+          "startUid": "u1674",
+          "endUid": "u1681",
+          "quote": "DM: You don't hear much. I mean, what you hear about Arcus is really that, you know, he only spent a few days in town. The people to talk to are Ikram, Alesh, and Jasu. So you don't really learn much about him. But you do, do hear from, from somebody that you're talking to in the tea shop, that there has been more traffic than usual in winter for Karawa this past season. Like, normally almost nobody comes out here until the festival, but some of them who came through seemed foreign, like not Dunmari pilgrims coming to Shakun. It seems like you know, there's definitely been more than just Arcus who's been seen—seen around town, and, you know, people speculate about what they were doing. One person is convinced that the Great Library in Chardon is trying to steal Dunmari history, and says Chardonians have been on our borders, trying to plunder Dunmari ruins for decades."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1674",
+              "endUid": "u1681",
+              "quote": "DM: You don't hear much. I mean, what you hear about Arcus is really that, you know, he only spent a few days in town. The people to talk to are Ikram, Alesh, and Jasu. So you don't really learn much about him. But you do, do hear from, from somebody that you're talking to in the tea shop, that there has been more traffic than usual in winter for Karawa this past season. Like, normally almost nobody comes out here until the festival, but some of them who came through seemed foreign, like not Dunmari pilgrims coming to Shakun. It seems like you know, there's definitely been more than just Arcus who's been seen—seen around town, and, you know, people speculate about what they were doing. One person is convinced that the Great Library in Chardon is trying to steal Dunmari history, and says Chardonians have been on our borders, trying to plunder Dunmari ruins for decades."
+            }
+          ],
+          "note": "Delwath’s town inquiries include this conversation about visitors to Karawa."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0010"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo is awakened in his room at the inn.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0010",
+          "quote": "DM: Okay, so I'm—in the predawn hours, after you've been asleep maybe half the night, Kenzo, you awake suddenly to a gentle tapping on your door. Standing outside is Candrosa, dressed in his silver-trimmed ochre robe, walking towards you with a sense of purpose and resolve that you had not seen before. He carries a staff of white ash with a silver crescent moon design on the top. And as he sees you look, he says, \"Kenzo, will you walk with me for a moment? I intend to retreat for a few days to pray and meditate on recent events, but would talk with you before I do.\""
+        },
+        {
+          "startUid": "u0018",
+          "endUid": "u0022",
+          "quote": "And he leads you out of the inn, into the desert to the east, sort of around the side of the village, to a hidden stairway that climbs up the side of this gigantic rock, basically."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0022"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Candrosa leads Kenzo from the inn around the village and up a hidden stair to the mesa summit.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0022",
+          "quote": "DM: He sort of bows his head, and says, \"Thank you.\" And he leads you out of the inn, into the desert to the east, sort of around the side of the village, to a hidden stairway that climbs up the side of this gigantic rock, basically. The climb is very steep but short, and just as the sun is rising you ascend to the top, catching the first rays of the morning light."
+        }
+      ],
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Go east into the desert around the side of the village."
+        },
+        {
+          "reading": "Climb a hidden, steep, short stair up the mesa.",
+          "place": "p03"
+        }
+      ],
+      "from": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0079",
+        "endUid": "u0107"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo experiences mist and a formless expanse, then a colorless plain where a jade-armed man stands.",
+      "evidence": [
+        {
+          "startUid": "u0079",
+          "endUid": "u0082",
+          "quote": "DM: Okay. He sort of holds up the staff and touches it to your forehead, and you feel yourself falling away from your body, the world turning faint and insubstantial as everything fades to mist, except for the staff, now a pulsing, glowing kind of icon in the ground. And your jade amulet, which begins flashing with this green light, brief images streaming out of it with each beat, too fast for you to see or really process, except that occasionally you glimpse something that you perhaps recognize from your dreams."
+        },
+        {
+          "startUid": "u0098",
+          "endUid": "u0102",
+          "quote": "DM: As you start to bring it towards there, you feel it almost click into place like a puzzle piece, and then, almost before you can think, the hand is grasping onto yours and you feel yourself pulled as if through a vortex. You see a brief glimpse of a vast, formless expanse filled with pulsing, flashing, multicolored, vibrantly alive points of color drifting across space in impossible ways, very much non-Euclidean. Geometry and direction seem to be meaningless here, and for a moment this galaxy of lights assaults your senses and you are overwhelmed. But the hand is guiding you, both pushing you and drawing you in at the same time, until your vision shifts, and you are standing on a flat, colorless plain."
+        },
+        {
+          "startUid": "u0103",
+          "endUid": "u0107",
+          "quote": "DM: Before you is a man, robed and hooded, holding a staff in one hand. His other hand, and seemingly part or all of his arm, is made of jade. He looks at you for a long moment and then, in a movement so quick it seems like teleportation, he is standing directly in front of you, his jade hand moving towards you, and then through your forehead. He says, \"Kenzo, open your eyes and see.\" And as he touches you, you are knocked back, momentarily feeling as though your eyes are opening again, despite being already open. And you see yourself and this man standing next to each other, both surrounded by a nimbus of light. You feel sort of almost trapped in time for a moment."
+        }
+      ],
+      "place": "p04",
+      "mode": "vision",
+      "observerPlace": "p10",
+      "context": "vision"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0123",
+        "endUid": "u0127"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo returns to awareness of his body beside Candrosa on the summit.",
+      "evidence": [
+        {
+          "startUid": "u0123",
+          "endUid": "u0127",
+          "quote": "DM: And you blink. Seemingly but a moment you are gone, and as your eyes open, you realize that you could still sense something of the energy of wherever you were. And you can feel your mind's eye waiting for you to open it again, and the force of the extraplanar power of the place where you were—not still quite sure where you were—joining with your ki, allowing you to reach out and manipulate the world. And Candrosa looks at you."
+        }
+      ],
+      "place": "p10",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "l02"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0307",
+        "endUid": "u0319"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The other three PCs gather at breakfast in the inn while Kenzo is absent.",
+      "evidence": [
+        {
+          "startUid": "u0307",
+          "endUid": "u0315",
+          "quote": "DM: So, just to recap, last time you had returned from—you had spent some time in the ruins of the fort, exploring a bit, and then you'd returned, spoke to several people including Ikram and Jasu, the smith, and Elder Kisa, the sort of mayor of town, and then eventually to Candrosa, who was sort of a mix of nervous and scared and concerned and uncertain, but kind of seemed to steady himself at the end and was grateful for your help. And then you returned to the inn, having told Jasu that you were going to come by his shop in the morning to look at these silver spearpoints that had been left by the statue—the now statue—of Arcus. And otherwise, I had no specific plans. It is now about a week until the Festival of Rebirth. As you awake and sort of gather in the morning, you can tell—you can hear that the sounds of the market and the sort of sounds of the pre-festival fair starting up carry from across the, across the village, which has now swelled considerably—considerably, and it seems like, you know, today or in—or in the next day or so, the market is going to get going in earnest. And from everything you've heard, there will be archery, and riding contests and horseback archery and games of chance and axebeak riding, which is, you know, the one everybody's looking forward to the most."
+        },
+        {
+          "startUid": "u0316",
+          "endUid": "u0319",
+          "quote": "DM: And so as you gather at breakfast, perusing the letter from Candrosa, we open our session. And again, Kenzo is not there."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0412",
+        "endUid": "u0444"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The other three PCs walk up and reach Kenzo on the mesa summit.",
+      "evidence": [
+        {
+          "startUid": "u0442",
+          "endUid": "u0444",
+          "quote": "DM: Top of this—now it's, you know, it's—it's probably, you know, a little bit after—after sunrise now, like sort of nine-ish or something like that, so it's starting to get hot. But you see, as you cross the summit of this mesa, this expansive view out over the desert, and you see Kenzo sitting on the edge of the mesa in meditation."
+        }
+      ],
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "from": "p02"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1000",
+        "endUid": "u1010"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After lunch the party arrives at Jasu's shop and he welcomes them back.",
+      "evidence": [
+        {
+          "startUid": "u1005",
+          "endUid": "u1010",
+          "quote": "DM: Okay, so we'll say after lunch you, you sort of head back towards Jasu's shop. And he has been waiting, has been expecting you. So he's an older guy, heavyset, sort of stereotypical smith look. He's working in his shop as you approach. Then he stops and he looks up and he sort of puts his—he's making some, some arrows at the moment, and he, he puts them away and says, \"Oh, welcome back. You were—you wanted to see the silver spears, yes?\""
+        }
+      ],
+      "to": "p05",
+      "completion": "arrived",
+      "from": null
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1351",
+        "endUid": "u1367"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "At breakfast the next morning Ikram brings the party collected gifts.",
+      "evidence": [
+        {
+          "startUid": "u1351",
+          "endUid": "u1362",
+          "quote": "DM: After, you know, the next morning, that—the day after this one, as you are gathering for breakfast, sort of set out on your various goals and missions, and if, you know, maybe you slept in a little—it's kind of later morning—Ikram comes over and, and says, \"Friends, good to see you all. Perhaps will be interested or surprised to hear this. Perhaps not. But news of your deeds has spread through town. Many people are grateful. And over most of yesterday and again sometime this morning, number of folks have come and left gifts for you, various pieces of silver and, and trade goods.\""
+        },
+        {
+          "startUid": "u1366",
+          "endUid": "u1367",
+          "quote": "DM: And he sort of brings over a bunch of stuff, which, which amounts to about 50 gold each of, you know, silver and trade goods and things like that. And which you may as well just add your character sheet in case you decide you want to buy anything at the festival. I'm—"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1468",
+        "endUid": "u1482"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo competes at the staff-dancing beam while his companions watch.",
+      "evidence": [
+        {
+          "startUid": "u1469",
+          "endUid": "u1471",
+          "quote": "Kenzo: You're on there to support me?\n\nSeeker: I'm there. But I have my nose in the book.\n\nDelwath: Yeah."
+        },
+        {
+          "startUid": "u1472",
+          "endUid": "u1482",
+          "quote": "DM: The way staff dancing works is that the competitors are fighting on a balance beam, and the first person who falls off the balance beam loses. Fighting with staffs. I'm awesome. There's—\n\nKenzo: Something to be embarrassed.\n\nDM: The sort of guy who's organizing this kind of takes one look at you and puts you in the elite—the elite competition, which is the last one of the day and draws the biggest crowds. And you watch, and the first few bouts you win super easily. Like, you know, you're fighting people who just—one tap to their leg and they're off, right? You can easily dance around them. And you watch a few fights, and it seems like, you know, mostly you feel pretty confident."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1659",
+        "endUid": "u1661"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is back in Ikram's at the end of the staff-contest day.",
+      "evidence": [
+        {
+          "startUid": "u1659",
+          "endUid": "u1661",
+          "quote": "DM: Back in Ikram's at the end of the day, sort of talking about everything. And Delwath, in the main, just asked around town. You have heard a few rumors, so actually, just give me—hope I didn't—an Investigation check, but add your Charisma instead of your Intelligence."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1674",
+        "endUid": "u1681"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "place": "p11",
+      "reading": "Delwath’s inquiries include a conversation in a tea shop about Arcus and other foreign visitors.",
+      "evidence": [
+        {
+          "startUid": "u1674",
+          "endUid": "u1681",
+          "quote": "DM: You don't hear much. I mean, what you hear about Arcus is really that, you know, he only spent a few days in town. The people to talk to are Ikram, Alesh, and Jasu. So you don't really learn much about him. But you do, do hear from, from somebody that you're talking to in the tea shop, that there has been more traffic than usual in winter for Karawa this past season. Like, normally almost nobody comes out here until the festival, but some of them who came through seemed foreign, like not Dunmari pilgrims coming to Shakun. It seems like you know, there's definitely been more than just Arcus who's been seen—seen around town, and, you know, people speculate about what they were doing. One person is convinced that the Great Library in Chardon is trying to steal Dunmari history, and says Chardonians have been on our borders, trying to plunder Dunmari ruins for decades."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u1809",
+        "endUid": "u1835"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Wellby and Kenzo compete at the axebeak track; the others attend the riding contests.",
+      "evidence": [
+        {
+          "startUid": "u1809",
+          "endUid": "u1814",
+          "quote": "DM: Okay, so in the morning, the day of the axebeak competition arrives.\n\nDM: Wellby and Kenzo, how would you like to approach your axebeak riding?"
+        },
+        {
+          "startUid": "u1827",
+          "endUid": "u1835",
+          "quote": "DM: And there's a pen of, like, twelve of these axebeaks together and, and lassoed with ropes. He—and they're sort of milling about. And you can see that there's a track that's been set up in a flat area in the desert. And the way it works is that there's a handler who grabs an axebeak at random from this pen, pulls it to the starting line, holds it down with the rope, and then as soon as you're mounted lets go of the rope. And it's up to you to control the direction that the axebeak goes and stay on as long as you can, and your distance is marked as—like, when you fall on the ground, somebody runs out with a stone and marks in the furthest way. That's—"
+        },
+        {
+          "startUid": "u2027",
+          "endUid": "u2031",
+          "quote": "DM: Okay, so I'm— Late that evening, there's a bit of a—so you watch, I mean, you watch the horseback riding, and it seems during the axebeak riding competition Havdar, who is one of the scouts, has returned. He seems tired and—oh—"
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u2050",
+        "endUid": "u2066"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Alesh greets the party at the inn after dinner.",
+      "evidence": [
+        {
+          "startUid": "u2050",
+          "endUid": "u2058",
+          "quote": "DM: And, you know, the day continues, and that evening, there's, there's a sort of commotion at the inn as Alesh comes in late after dinner. She—she sees you, she recognizes you. You met her on the road a few days ago. She looks exhausted, travel-stained. She's clearly ridden further and longer than Havdar had, and pauses briefly to, to say hello to you, and she says,"
+        },
+        {
+          "startUid": "u2059",
+          "endUid": "u2066",
+          "quote": "DM: \"Of course, I think we must have much to discuss now. First, though, before anything else, let me pass on my thanks, as I'm sure you've heard from many people, for everything you've done for Karawa. It really does mean the world to me.\n\nDM: I cannot stay long. I must go speak with Candrosa briefly, but I assume that you, given your role in these events, will be joining us for the council tomorrow.\"\n\nDelwath: Yes.\n\nDM: She looks relieved at that and then says, \"We will speak soon,\" and, and rides off. And it's, you know, it's clear that, yeah, you don't know what time the council will be tomorrow, but, like, everybody's back now, and so you're expecting tomorrow to be a busy day."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2110",
+        "endUid": "u2112"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the council chamber as the council gathers.",
+      "evidence": [
+        {
+          "startUid": "u2110",
+          "endUid": "u2112",
+          "quote": "DM: Okay, so you all approach the—you all head to the village council chambers and enter the council—the council room, where the rest of the council seems to have just gathered or been gathering."
+        }
+      ],
+      "to": "p08",
+      "completion": "arrived",
+      "from": null
+    }
+  ]
+}

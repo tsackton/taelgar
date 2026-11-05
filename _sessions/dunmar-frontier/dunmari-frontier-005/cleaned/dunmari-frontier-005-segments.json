@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-005",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+    "sessionYamlSha256": "55a051d5d706dd8748343cecb71533f126ab9af606cc4114d0cb888d674f5055",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-transcript.md",
+    "transcriptSha256": "08a0a5a8413612984912d26d89d01f66456f251a05e5358920717bc917b6a0b5"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0280"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0281",
+        "endUid": "u0306"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0307",
+        "endUid": "u1119"
+      },
+      "category": "gameplay",
+      "note": "The opening turn combines prior-session recap and a current morning transition; keeping the indivisible turn in gameplay preserves the live scene."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1120",
+        "endUid": "u1138"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1139",
+        "endUid": "u1457"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1458",
+        "endUid": "u1463"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1464",
+        "endUid": "u2075"
+      },
+      "category": "gameplay",
+      "note": "Staff-dancing and axebeak riding use contest checks and summarized results, without a sustained ordered combat turn cycle."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2076",
+        "endUid": "u2109"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2110",
+        "endUid": "u3137"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3138",
+        "endUid": "u3141"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

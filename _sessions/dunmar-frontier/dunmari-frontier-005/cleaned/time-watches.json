@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-time-markers.json",
+    "sha256": "40932a3d68ae425bb9cfcca53819eb44819b883a4c18dce5a776480c5e5d8d65"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-transcript.md",
+    "sha256": "08a0a5a8413612984912d26d89d01f66456f251a05e5358920717bc917b6a0b5"
+  },
+  "dateAssessment": "No absolute date is spoken: March 30–April 4 is YAML-only; March 31 is inferred from its opening date, while montage endpoints prevent confirming the five-boundary span.",
+  "watches": [
+    {
+      "day": "1748-03-30 (YAML opening date)",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Kenzo wakes before dawn, reaches the summit at sunrise, and returns from a seemingly momentary vision.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04"
+      ],
+      "scope": "Kenzo",
+      "startDate": "1748-03-30",
+      "endDate": "1748-03-30"
+    },
+    {
+      "day": "1748-03-30 (YAML opening date)",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "The others breakfast in the morning and reach Kenzo on the summit about nine.",
+      "markers": [
+        "t05",
+        "t06"
+      ],
+      "scope": "Delwath, Seeker, Wellby; reunion with Kenzo",
+      "startDate": "1748-03-30",
+      "endDate": "1748-03-30"
+    },
+    {
+      "day": "1748-03-30 (YAML opening date)",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The party visits Jasu after lunch, explicitly placed that afternoon.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-03-30",
+      "endDate": "1748-03-30"
+    },
+    {
+      "day": "1748-03-31 (relative to YAML opening)",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Ikram brings gifts at late breakfast the next morning; midday watch is approximate.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-03-31",
+      "endDate": "1748-03-31"
+    },
+    {
+      "day": "Festival preparation montage; endpoints unresolved",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Three-day highlights montage; overlap with the gift breakfast and staff-contest day is unresolved.",
+      "markers": [
+        "t09"
+      ]
+    },
+    {
+      "day": "Staff-contest day",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The party is back at Ikram’s at the end of the staff-contest day.",
+      "markers": [
+        "t10"
+      ]
+    },
+    {
+      "day": "Riding-contest day (next day)",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "After sleeping, the party reaches the morning of the axebeak competition.",
+      "markers": [
+        "t11"
+      ]
+    },
+    {
+      "day": "Riding-contest day",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Alesh reaches the inn late after dinner that evening.",
+      "markers": [
+        "t12"
+      ]
+    },
+    {
+      "day": "Council day (day after riding contests)",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Council convenes for ten; Seeker later spends a few minutes animating the tactical map.",
+      "markers": [
+        "t13",
+        "t14"
+      ]
+    }
+  ]
+}
