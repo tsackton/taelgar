@@ -1,0 +1,932 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "3c52e8e4a89dbc11046b0280f1a0748952a8c0e97fdfa5d42c0061d28ba80616"
+    },
+    "entityMap": {
+      "path": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-entity-map.json",
+      "sha256": "d0d2c02fcebebf850ba2b71d7c3633310f420723e6b45a695d902e3d052f0466"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Folcan was released to warn the goblins",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0041"
+      },
+      "lines": [
+        "%% u0041:0-141 %%",
+        "DM: Folcan go? We did, yeah, because you scared him, right, and you scared him, and you sent him back to warn the other goblin not to come by them.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: Yeah, I'll see you in 3 weeks. I just finished watching the the Purina dog show from Thanksgiving. It was on, so Nicole and I were—we're up on the couch watching the best in show there. So I got my dog references nice, ready to go.",
+          "Loria: Take that.",
+          "Dilion: So would we have made camp, I guess? Like we've—we interrogated this, the sucker, a whole lot, and under the impression we're hunkering down for the evening, or what's the—unless you wanna explore the tunnels at night.",
+          "DM: That's certainly a reasonable choice. I mean to hunker down and camp. You're pretty confident you could sleep here safely tonight. Okay. But the night is early, so whether you wanna go to sleep now or not is up to you.",
+          "Gaudin: Anyway, I can't—sorry. Did we let."
+        ],
+        "after": [
+          "Acescale: If we had. Yeah.",
+          "Dilion: Hmm. Yes, I guess we need. And we would be done outside. What? What do we like? I think, before they would have gone back to some sort of shelter, right? Not too bad in that prison cell. So.",
+          "Acescale: Maybe just some of the some extra padding from that coat room would be nice.",
+          "Loria: So we're gonna rest the night back inside.",
+          "Dilion: I think so, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "A stone Medusa looks into the garden fountain",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0387",
+        "endUid": "u0391"
+      },
+      "lines": [
+        "%% u0387:0-19, u0388:0-133, u0389:0-153, u0390:0-21 %%",
+        "DM: And there's a woman, stone made of stone leaning over the fountain looking at the water. And you can see that there's snakes tangled up around in her hair. Are the snakes alive, or stones? Nope, stone. Her hair was made of stone—I mean, her hair was made of snakes. She is staring at her reflection in the water and is made of stone.",
+        "",
+        "%% u0391:0-29 %%",
+        "Acescale: Let's not go near the Medusa.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Loria: Yeah. I think that if we keep, I'm I'm very nervous to be out in the open, so I'm I kept casting my vote to go stealth.",
+          "DM: So you creep along through down this passageway. You can see that as you creep past the this sort of opening, you can see the sort of lawn overgrown, crumbling lawn that leads to the manor.",
+          "Unknown: Okay.",
+          "DM: And strewn across this lawn are maybe a dozen statues. All have had their heads knocked off. They look like they were once arranged in like a statue garden.",
+          "DM: But now every single head has been smashed. And as you turn you can see deeper into the garden. This isn't really a maze. This is just like a a hedge border around the garden itself. And so, as you pass the manor to your left is this lawn that leads to the back of the manor. With these statues to your right you can see a fountain. You can see like a, like a, the formal sort of grid pattern of paths, with flowers growing among them, just completely overgrown like weeds and tangled vines, and everything. But you can see a little bit of what used to be this kind of grid design, with paths that led through this big open center space. And in the middle there's a fountain that is still bubbling with water."
+        ],
+        "after": [
+          "DM: But you continue west. Yeah, I think we'd be nearing the chapel at this point, and now. You know, based on your sense of time, the steampup is probably like 3 quarters of the way across the vineyard, with or without something trailing it.",
+          "DM: As you cut your way out of the hedge maze and find you, and find yourself now emerging. Now you can all hear this you can all hear the sounds of steampup running and something chasing it.",
+          "Dilion: I'm hoping, cause steampup pretty quick—like I'm hoping he's he's outrunning is outpacing whatever's behind it. Oh.",
+          "DM: You can see the—so this chapel is not intact. The walls are ruined and the roof is totally gone, so it's open to the air, with grass growing all over the the the ground. But the walls are maybe 15, 20 feet high still, so the interior of the chapel still provides a fair bit of shelter. It's there's a big door, or there was a big door now gone big like oval door that leads in.",
+          "DM: And it wasn't a huge chapel, maybe 40 foot long by 20 feet wide, something like that. There are about 10 statues in here as well, weathered. They don't seem new. The heads have all been smashed."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The chapel is dedicated to the Mother",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0566",
+        "endUid": "u0572"
+      },
+      "lines": [
+        "%% u0566:0-8, u0567:0-1, u0568:0-3, u0569:0-31, u0570:0-83, u0571:0-121, u0572:0-20 %%",
+        "DM: There is a—and a small holy icon, like a small silver statue of the goddess, the Mother, the god that this chapel is dedicated to. And also not—yeah, you know, tarnished and showing its age, but could easily be polished up into something that would be reasonably valuable.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: We want to make more noise. It's kind of like. And maybe what we're walking into is worse than what we're running from.",
+          "Loria: Loria's anxiety just peaks. And she goes, 'Yep, okay, this isn't my first time in secret tunnels.'",
+          "Gaudin: Like. You got. We got to go forward.",
+          "DM: You begin to creep forward into this this sort of tunnel in the darkness, and this is not a long… I don't know. It ends in a small room that has a… So there was once what looked like a wooden table or desk or something, but has since crumpled, and there's a small altar, and some wooden pew, and some wooden—like a wooden bench, like a place where somebody could sit.",
+          "DM: And there's, on this small altar there are. There's a large silver plate and 4 silver candlesticks that are tarnished, but still look in pretty good shape. Gaudin notices that his ring begins to glow."
+        ],
+        "after": [
+          "DM: There is also a on one side of this room there is what looks like what was once a small wooden chest that has a fairly large pile of old tarnish copper coins, a thousand of them or more. You don't really have time to count exactly.",
+          "Dilion: And then.",
+          "DM: Clearly glinting, mixed up around in the coins, is a small, a very small little yellow topaz.",
+          "DM: John, your ring is glowing stronger. Now, guys, Loria, you hear like a banging sound of somebody tapping on the ground above…",
+          "Dilion: On the on the trapdoor, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Loria finds a healing scroll and a potion of watchful rest",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0936",
+        "endUid": "u0956"
+      },
+      "lines": [
+        "%% u0936:0-38, u0937:0-10, u0938:0-14, u0939:0-68, u0940:0-38, u0941:0-13 %%",
+        "DM: There's like a little niche that isn't that has a, it has like a, almost like a little sliding, sliding door that you can kind of push, and nestled in there you see a scroll and a potion.",
+        "",
+        "%% u0942:0-50, u0943:0-105 %%",
+        "Loria: Okay, I bring those back out to the group and say, actually, can I do a check to see if I know what they are? Or do I just immediately hand them over to the…",
+        "",
+        "%% u0944:0-142, u0945:0-83, u0946:0-66 %%",
+        "DM: This this scroll you recognize. This is the scroll of cure wounds. It's a spell that's on your spell list, so you can identify it immediately. The potion you don't. You don't recognize immediately, but you could hand it off to Acescale. Who's an alchemist and would presumably know what it is.",
+        "",
+        "%% u0947:0-11 %%",
+        "Acescale: Okay? So I…",
+        "",
+        "%% u0948:0-85, u0949:0-63 %%",
+        "Loria: Okay, yeah, I pocket this scroll. I'm gonna go over to Acescale and say, do you wanna… maybe. Do you want to? Do you have any cool coppers back here?",
+        "",
+        "%% u0949:63-133 %%",
+        "((Coin discussion))",
+        "",
+        "%% u0950:0-11 %%",
+        "Loria: The potion.",
+        "",
+        "%% u0951:0-52, u0952:0-63, u0953:0-21, u0954:0-52, u0955:0-81 %%",
+        "DM: The potion is a potion of watchful rest. It lets you have the—stay up all night and get the benefits of a long rest. So basically, you can like, stay guard all night, or you can you—you can't like you can't fight or anything, but it lets you get the benefits of a long rest.",
+        "",
+        "%% u0956:0-35 %%",
+        "Acescale: Without sleeping. D&D Monster Energy.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: Sounds like they've got it covered, so I would just be digging through 1,000 copper to see if any of them were rare coppers. Been down here for a few 100 years. There may be some like double strikes or other—I would have like—I would have like my Mage Hand would have grabbed that topaz.",
+          "Gaudin: So I just kind of look around more for myself. Interest, and seems like everybody else, is pretty much more astute out looking for things right now.",
+          "DM: Okay, so as you all begin your search,",
+          "DM: Loria, you you notice a couple of things. One is. There's one name that keeps getting repeated. Perdoli. Seems like this is the this is the family villa of the Perdoli family.",
+          "DM: And as you, as you begin to kind of poke through these, bye—the crypt, the crypt around the effigy, nothing moves, but you do see sort of almost behind the staircase."
+        ],
+        "after": [
+          "Gaudin: On that note, does anybody have a heal for me? I kind of took a third of my health from that… crossbow.",
+          "Dilion: I mean. I can. I know I have Cure Wounds prepared.",
+          "Acescale: I'm happy to as well.",
+          "Loria: I have a scroll.",
+          "Dilion: We could skip—keep the scroll for like, non, like, yeah, when the spell slots are burnt."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Perdoli wine accounts suggest dishonest bookkeeping",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1149",
+        "endUid": "u1167"
+      },
+      "lines": [
+        "%% u1149:0-26, u1150:0-54 %%",
+        "((Steampup maintenance))",
+        "",
+        "%% u1150:54-57, u1151:0-6, u1152:0-54, u1153:0-203, u1154:0-44, u1155:0-13, u1156:0-83, u1157:0-36, u1158:0-104, u1159:0-78, u1160:0-118, u1161:0-45, u1162:0-69 %%",
+        "DM: So. Loria, as you've—you've flipped through this, flip through the papers on this desk. You can see like a lot of them, just kind of crack when you touch them. But you're pretty careful, and and you can sort of spend a while flipping through and looking at them. This is a lot of this, it seems to be the records of of wine sales, but it it seems like as you're flipping through, it's like—it's almost like there's 2 sets of numbers that don't line up, right? Like there's some notes that are written, and they'll record the amount owed. Then there's another stat to the same person that says something different, right? Like there's some like a public set of books and a private set of books that don't line up completely. So it seems like maybe these were winemakers, but also perhaps not the cleanest merchant prince, the most honest merchant prince family in the world.",
+        "",
+        "%% u1163:0-74, u1164:0-35, u1165:0-265, u1166:0-71, u1167:0-25 %%",
+        "DM: And they seem to have been, you know, traded in other, you know, occasional bits of things. Like they would fund you know, merchant ships that would sail like far across the sea to bring back exotic goods from distant lands. And this was all like 200 years ago. This is not recent, yeah. But there's no indication of anything that would suggest that they dealt heavily in magic or were wizards or anything like that. No, no particular sign of of and of anything magical here.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Gaudin: So I just rolled a 17 on mine.",
+          "DM: Okay.",
+          "Acescale: Better than me.",
+          "Loria: And Loria is looking through the desk.",
+          "DM: That can be. That can be perception. Dylan is distracted by the keeping the steampup quiet."
+        ],
+        "after": [
+          "DM: Gaudin and Acescale, as you begin sort of poking around the bookcases, like feeling for anything that seems like it might move or be a lever, or be some kind of mechanism that might open a secret door. Sort of working together, you're checking each other's work. First book shelf is like filled with just long line of length of, you know, it—it seems it seems like just years of accounts, right? Like books of logs, of accounts, logs of wine production. All of these things looks like it would be terribly tedious to read, and nothing, no indication whatsoever on the left hand bookcase of any kind of mechanism.",
+          "DM: The middle bookcase has very few intact books, and the—what strikes you as odd is that the like, the top shelf that is like right at the top, the, you know, 7 feet high like that, you can just kind of reach, there's definitely some books that don't move, like you. They don't wiggle right? They sort of seem like they're fake books. But you can't quite see up there to see like what exactly might the mechanism be. And you're like—like, if you could just climb up, get a boost somehow to see that shelf, maybe you'd be able to figure it out. But clearly there's something something odd about this middle bookcase.",
+          "Gaudin: I motion towards—sorry, Sarah, what's your character's name again? You're muted.",
+          "Loria: Sorry, Loria,",
+          "Gaudin: So I motioned to Loria like I can hold you up if you. Wanna I'm inspecting books."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Recall the masked Grimstone and his captives",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1219",
+        "endUid": "u1224"
+      },
+      "lines": [
+        "%% u1219:0-173 %%",
+        "Dilion: Right? So so like lore-wise. Did we know there was something big and scary that's like eating people. They feed them to something. Is that like what we got from the Goblin?",
+        "",
+        "%% u1219:173-247, u1220:0-19, u1221:0-61 %%",
+        "DM: All you know from the goblins is people go in the manor and never come out. Grim—so Grimstone, who wears a white marble mask, and nobody can see their face.",
+        "",
+        "%% u1222:0-119 %%",
+        "Loria: And they they work for Grimstone, and they made a comment about giving the lizard to Grimstone when we were chained up.",
+        "",
+        "%% u1223:0-83 %%",
+        "Gaudin: No, just checking, cause I was like—sorry. Yeah, meaning Acescale the Lizard folk.",
+        "",
+        "%% u1224:0-64 %%",
+        "DM: And they could keep the halfling alive for weeks on rotted food.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Gaudin: Hmm!",
+          "Loria: Swarm of insects, all right. That was enough for my curiosity, and I run back inside the room to convey that to other people in which I can. I guess I have to be stealthy for that, too. But that's that.",
+          "DM: One check is fine for the whole scouting mission.",
+          "Loria: So we have scary bug vibes.",
+          "Gaudin: Chained monster vibes. So we can go north or south."
+        ],
+        "after": [
+          "Loria: So the gallery seems safer. Gallery is like out and exposed to the elements. Is there like? Could you see anything at the end of the gallery?",
+          "DM: The door right. There's another door, like the the gallery itself, is like. The walls are collapsed and the roof has collapsed. But there's another like. If you cross that open space. There's a solid wall with another door down here. Okay.",
+          "Dilion: So gallery, or—cause I'm worried about going into some other place and big lizards thing. I want to know more about the big lizard thing. So I'm trying to see if there's like another way to get different angle on it…",
+          "Loria: From a safe distance. There's a door here, too, at the end. Yeah, yeah.",
+          "Acescale: Yeah. I'm I'm curious to cut through the open air gallery. I think the door. So Away from the lizard and the bees."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Gaudin touches the chained creature and is rescued from petrification",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1313",
+        "endUid": "u1356"
+      },
+      "lines": [
+        "%% u1313:0-31, u1314:0-8, u1315:0-48, u1316:0-56, u1317:0-57 %%",
+        "Gaudin: Umhm, so I will move towards—I, I focus, and the Mage Hand appears, and nervously, slowly skirting the ground, low to the ground, moves to the tail, like delicately at the tip of the tail just taps it once.",
+        "",
+        "%% u1318:0-5 %%",
+        "DM: Okay?",
+        "",
+        "%% u1319:0-7 %%",
+        "Dilion: Oh, no.",
+        "",
+        "%% u1320:0-10, u1321:0-12, u1322:0-78, u1323:0-224, u1324:0-33 %%",
+        "DM: This thing, like the the, full of chains, as like it's—it seems like it's trying to like rear up, but the chain around its neck is holding it, and it manages to like push up enough just so that you can get a glimpse, glimpse of its face, but for it's like pulled back as it's like straining against the chain, and then pulled back. ((Omitted material))",
+        "",
+        "%% u1325:0-11 %%",
+        "Loria: All of us?",
+        "",
+        "%% u1325:11-29, u1326:0-4, u1327:0-24, u1328:0-46, u1329:0-38 %%",
+        "DM: Nope, just Gaudin. Aye, as you glance at its eye, you feel this stiffness begin to come over you… as you slowly begin turning to stone.",
+        "",
+        "%% u1329:38-53 %%",
+        "Loria: Oh, no! Whoops!",
+        "",
+        "%% u1330:0-96, u1331:0-32 %%",
+        "DM: Somebody can hack this stone that's forming on Gaudin off him before he is completely petrified. But that will cause some damage.",
+        "",
+        "%% u1332:0-61, u1333:0-18, u1334:0-41, u1335:0-40, u1336:0-45, u1337:0-24, u1338:0-43 %%",
+        "((Sword Burst mechanics))",
+        "",
+        "%% u1339:0-33 %%",
+        "Gaudin: So I I motion, please, something.",
+        "",
+        "%% u1340:0-70, u1341:0-89, u1342:0-60 %%",
+        "DM: ((Omitted material)) As a creature now slinks low, hiding behind this wall again.",
+        "",
+        "%% u1343:0-129 %%",
+        "Dilion: Hey! We dragged—the chains rattle! We dragged Gaudin back behind the wall bleeding. Hack away at his stone. Don't do that again.",
+        "",
+        "%% u1344:0-34 %%",
+        "Gaudin: So don't like eye contact with it.",
+        "",
+        "%% u1345:0-90 %%",
+        "Dilion: Oh, yeah. Cause we did see a lot of stone stuff. Yeah, look, we're not the smartest group.",
+        "",
+        "%% u1346:0-41 %%",
+        "Acescale: I thought it was the Medusa in the garden.",
+        "",
+        "%% u1347:0-15, u1348:0-5, u1349:0-5, u1350:0-32, u1351:0-143, u1352:0-37, u1353:0-21, u1354:0-50, u1355:0-152 %%",
+        "((Discussion of nearby doors))",
+        "",
+        "%% u1355:152-259, u1356:0-156 %%",
+        "DM: I mean this, this basilisk is like it. Now that you've got a glimpse of it around its neck, there's a thick chain collar around its neck that keeps it from moving very much at all. Seems to be chained in the middle of this courtyard. See, it's hidden by the wall.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Dilion: Like, give it a yank. It's just like a gentle one, but yeah, like a tap.",
+          "Gaudin: Should we try that? So all we see is a tail. Anybody have any—what's the range of Mage Hand?",
+          "Loria: 30 feet?",
+          "Gaudin: 1, 2, 3, 4, 5, yeah, I think.",
+          "DM: Well, this isn't precisely to scale. Yeah, actually, that would work like the whole. The whole courtyard, from end to end is maybe 60 feet across. So if you are right in the entrance you could get something that's in the middle."
+        ],
+        "after": [
+          "Dilion: Got it?",
+          "DM: I mean you could. You could pull yourself up over the wall and look again if you wanted to.",
+          "Acescale: I still like the idea of turning everyone here into statues.",
+          "Dilion: Me, too. But is there another way to get closer to it without? Because that was a real easy way for it to just look up and see us and boom stone. So did we have an idea, and it's like, I don't know, line of sight or range. If it's if it was facing a particular direction like it's only facing west. Kind of thing we could approach it from a different.",
+          "DM: It's it seems like it can turn. It has enough freedom of movement to turn any direction. I just can't move more than about 5 or 10 feet from the center of the of the room."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Consider polishing the crypt’s silver plate into a mirror",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1370",
+        "endUid": "u1411"
+      },
+      "lines": [
+        "%% u1370:0-49, u1371:0-65 %%",
+        "Acescale: What if—what if we use the silver plate from the from the tomb to act as a mirror to make it turn itself to stone?",
+        "",
+        "%% u1372:0-9, u1373:0-18, u1374:0-12, u1375:0-25, u1376:0-97, u1376:97-191, u1377:0-5, u1378:0-11, u1379:0-143, u1380:0-81, u1381:0-5, u1382:0-18, u1383:0-85, u1384:0-33, u1385:0-31, u1386:0-11, u1387:0-17, u1388:0-33, u1389:0-31, u1390:0-106, u1391:0-24, u1392:0-94, u1393:0-42, u1394:0-128, u1395:0-21, u1396:0-17, u1397:0-66, u1398:0-47, u1399:0-139, u1400:0-20, u1401:0-24 %%",
+        "((Polishing checks, mythological aside, and room scouting))",
+        "",
+        "%% u1402:0-32, u1403:0-8, u1404:0-153, u1405:0-88, u1406:0-75, u1407:0-25 %%",
+        "DM: So you could definitely do this. Between, you know, the acid splash and and mending. It's not quite so simple as just casting a cantrip. This would take you half an hour or something to polish up the mirror. Takes some elbow grease to like get it really shining into an actual mirror. But you definitely—you've like figured out a way that you could do it with with the spells you have.",
+        "",
+        "%% u1408:0-30, u1409:0-153 %%",
+        "((Repeated polishing instructions))",
+        "",
+        "%% u1410:0-164, u1411:0-99 %%",
+        "Acescale: Alright. Well, I let everybody know. I can probably make this into a a mirror in 30 min or so. I don't know if it would actually turn the basilisk to stone, or not. Assuming that it would be really good for them to breed. If they can't look each other in the eyes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Dilion: Me, too. But is there another way to get closer to it without? Because that was a real easy way for it to just look up and see us and boom stone. So did we have an idea, and it's like, I don't know, line of sight or range. If it's if it was facing a particular direction like it's only facing west. Kind of thing we could approach it from a different.",
+          "DM: It's it seems like it can turn. It has enough freedom of movement to turn any direction. I just can't move more than about 5 or 10 feet from the center of the of the room.",
+          "Dilion: It's basically fixed in place. You know what can't turn to stone? Metal dogs! I actually see their condition. And they they it doesn't have immunities to paralysis or petrified. So I guess they could. But.",
+          "Acescale: What if we use.",
+          "DM: It could? But you can always make a new one if it turns this dog to stone."
+        ],
+        "after": [
+          "DM: You can make a nature check if you want.",
+          "Acescale: Yeah, I can do that. Maybe do better than the last nature check. Holy… That's much better than the last check.",
+          "DM: Yeah. So okay, so 2 key facts about basilisks. They're not like Medusa. So Medusa's you can turn them to stone with their reflection. And you recall now that the Medusa—the stone Medusa you saw.",
+          "DM: Was looking at her reflection in… Basilisks, it's just their gaze. If they see you, you turn to stone. It doesn't matter if you see them, and they can't turn each other to stone with their with their gaze. However. You have heard stories. If you can cut one open, in their—in their gut, they have a magical enzyme that lets them digest stone, and that you can use to convert—to create a depetrification salve.",
+          "Acescale: Well, I'd like that as an artificer and a and an alchemist. I think that'd be pretty cool. Most of these people are beyond saving, but maybe that Medusa could be our new…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Basilisk gaze and a possible depetrification salve",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1413",
+        "endUid": "u1435"
+      },
+      "lines": [
+        "%% u1413:0-63, u1414:0-5, u1415:0-40 %%",
+        "((Nature check))",
+        "",
+        "%% u1415:40-86, u1416:0-36, u1417:0-111 %%",
+        "DM: Yeah. So okay, so 2 key facts about basilisks. They're not like Medusa. So Medusa's you can turn them to stone with their reflection. And you recall now that the Medusa—the stone Medusa you saw.",
+        "",
+        "%% u1418:0-32, u1419:0-32, u1420:0-195, u1421:0-32, u1422:0-45, u1423:0-66 %%",
+        "DM: Was looking at her reflection in… Basilisks, it's just their gaze. If they see you, you turn to stone. It doesn't matter if you see them, and they can't turn each other to stone with their with their gaze. However. You have heard stories. If you can cut one open, in their—in their gut, they have a magical enzyme that lets them digest stone, and that you can use to convert—to create a depetrification salve.",
+        "",
+        "%% u1424:0-169 %%",
+        "Acescale: Well, I'd like that as an artificer and a and an alchemist. I think that'd be pretty cool. Most of these people are beyond saving, but maybe that Medusa could be our new…",
+        "",
+        "%% u1425:0-20 %%",
+        "Loria: Our new best friend.",
+        "",
+        "%% u1426:0-130 %%",
+        "Gaudin: Or we just like chain her up and put like a hood over her head over the statue, head depetrify her, and then walk her in, and then.",
+        "",
+        "%% u1427:0-25, u1428:0-71 %%",
+        "DM: Surprise. But in order to extract a basilisk gut, it is typically required to kill the basilisk.",
+        "",
+        "%% u1428:71-132 %%",
+        "Gaudin: We couldn't give it food poisoning, and it just vomits it up.",
+        "",
+        "%% u1429:0-69 %%",
+        "DM: No, it's like—it's like the lining of it's—you need to gut out of it.",
+        "",
+        "%% u1430:0-29 %%",
+        "Loria: Do basilisks have a language?",
+        "",
+        "%% u1431:0-3 %%",
+        "Dilion: No.",
+        "",
+        "%% u1432:0-29 %%",
+        "DM: They're not very intelligent.",
+        "",
+        "%% u1433:0-13, u1434:0-111 %%",
+        "Loria: Hmm, alright. We'll never mind that. Hey, well it's not—okay, it's not going anywhere, so we can like—we're not in a rush to…",
+        "",
+        "%% u1435:0-29 %%",
+        "DM: Definitely not going anywhere.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So you could definitely do this. Between, you know, the acid splash and and mending. It's not quite so simple as just casting a cantrip. This would take you half an hour or something to polish up the mirror. Takes some elbow grease to like get it really shining into an actual mirror. But you definitely—you've like figured out a way that you could do it with with the spells you have.",
+          "Acescale: You have mending? Right? I do.",
+          "DM: Yeah. Okay. So between Acid Splash and mending you could. But it's not again. It wouldn't be just casting the spell. You have to take a half hour of work.",
+          "Acescale: Alright. Well, I let everybody know. I can probably make this into a a mirror in 30 min or so. I don't know if it would actually turn the basilisk to stone, or not. Assuming that it would be really good for them to breed. If they can't look each other in the eyes.",
+          "DM: You can make a nature check if you want."
+        ],
+        "after": [
+          "Dilion: What's in so I guess that's the sitting room. So this is giving me a vibe of the entrance.",
+          "DM: This—this is given—this is like the vibe is like… Private chambers of the patriarch of the family or something. Right up here in in this. You open this door.",
+          "Dilion: Yeah, let's have a look there, and then we can sort of open this door.",
+          "DM: And there is—this was probably once a, I don't know, like a, part of a great hall or like an entertaining room, but it is now just filled with statues. These ones don't have their heads smashed off. There's like 15 statues.",
+          "DM: Just kind of lined up in this hall, like this is—this is an entrance to a quite a big hall, and they're all just kind of standing there. Do they look like anyone like, are they just people, or are they like hobgoblins? No, they're mostly people. You see, there's like one halfling. There's one dwarf, there's like 8 humans. They all seem to be wearing like fancy clothes. They're all like sort of neatly tailored. Like, these are extremely life-like statues."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "A sailor ghost paces above the bed",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1487",
+        "endUid": "u1500"
+      },
+      "lines": [
+        "%% u1487:0-12, u1488:0-21, u1489:0-15, u1490:0-7, u1491:0-10, u1492:0-38, u1493:0-15, u1494:0-29, u1495:0-26, u1496:0-41 %%",
+        "DM: And floating, moving back and forth across the bed, moaning, is a ghost, ghost who looks dressed like a sailor, and seems to be screaming in pain or sadness, just pacing back and forth across the bed, floating through the bed.",
+        "",
+        "%% u1497:0-95 %%",
+        "Dilion: I don't I don't. I don't know. I don't like, you know. Maybe this having a rough night's sleep.",
+        "",
+        "%% u1498:0-98 %%",
+        "DM: So far you're just peeking into these rooms right? I'm assuming you're not actually entering any?",
+        "",
+        "%% u1498:98-136, u1499:0-58 %%",
+        "Gaudin: Is it like? Is like this? Is his room. Or is it like he's pretending he's on a boat or something?",
+        "",
+        "%% u1500:0-47 %%",
+        "DM: Oh, no, it seems like this is like his bedroom.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Loria: Just to—yeah, just just to…",
+          "Dilion: Tick it off, just to be like, alright, we know it's in the… Mosquito room I'm just avoiding, cause that sounds like—I don't wanna go in there. No one wants to go to the skeeter. It just sounds awful. So I kinda would just wanna peek into these other 2 rooms and look in the sitting room space.",
+          "DM: Okay, so in those 2 rooms, the one on—which one do you want to look at first?",
+          "Dilion: The good left. Do the left, and then we can do right.",
+          "DM: This one. Okay, so you open that door. Look through it. You can see that there is—this is a bed chamber. It's still decorated. There is a 4 poster bed. There's painting on the wall again of one of these Perdoli men. There's a tapestry that's rotted, and is falling away there's like 2 big windows that look out at the gardens."
+        ],
+        "after": [
+          "Gaudin: Hmm!",
+          "Dilion: What's that, the other?",
+          "DM: Looks like a study, like a private study. There's smashed glass and broken mirrors everywhere, 4 perfectly arranged statues, and a desk that seems to have papers piled on it, and what looks like a small locket sitting on the desk. Can't tell more from here.",
+          "Dilion: Hey? I'm surprised, is not like a ghost moaning over some like study notes or something in that room. I'm very curious about the locket. Yeah, let's go into the safer looking room.",
+          "Loria: Watch it be a mimic."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The locket bears initials and a plea to return",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1516",
+        "endUid": "u1519"
+      },
+      "lines": [
+        "%% u1516:0-49, u1517:0-91, u1518:0-127, u1519:0-107 %%",
+        "DM: There is shattered glass everywhere on the floor. Like, there looks like there was once like a standing mirror or a wall mirror or something that's just been broken into pieces. The locket is a silver locket with a faded painting of a young woman and the inscription, “To J.M. With love, P.” And a folded slip of paper inside that might once have read, “Keep safe and come back.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Dilion: Hey? I'm surprised, is not like a ghost moaning over some like study notes or something in that room. I'm very curious about the locket. Yeah, let's go into the safer looking room.",
+          "Loria: Watch it be a mimic.",
+          "DM: So.",
+          "Dilion: Jesus don't don't do that.",
+          "DM: These statues look old. These are like maybe 70, 80 years old. These are not fresh statues like the ones in the great hall. Their heads have also been smashed off."
+        ],
+        "after": [
+          "DM: And there's like a sheaf of papers that look, look less aged than the than the Perdoli family papers from the secret room.",
+          "Gaudin: Hmm.",
+          "Loria: P.",
+          "Gaudin: Less age. So they're newer, less age. They're newer.",
+          "DM: So you, if you wanna take the time to read the papers, go investigate something else."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Pirate documents, love letters, and the old hideout",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1540",
+        "endUid": "u1572"
+      },
+      "lines": [
+        "%% u1540:0-44, u1540:44-57, u1540:57-84, u1540:84-146 %%",
+        "((Tool proficiencies))",
+        "",
+        "%% u1540:146-243, u1541:0-85, u1542:0-54, u1543:0-19, u1544:0-76, u1545:0-73 %%",
+        "DM: All the vehicles. So you you all start sorting through these documents. And John, the first thing Gaudin notices is that there's like this leather document case that's got a faded map which has like markers for like safe pirate coves and Navy Patrol routes. This—this clearly seems like a smuggler's map or like a pirate's map, like, you know, here's how you avoid the, you know, this particular Navy Patrol.",
+        "",
+        "%% u1546:0-59, u1547:0-121, u1548:0-41, u1549:0-139, u1550:0-151, u1551:0-20 %%",
+        "DM: And you recall that, you know, maybe a generation or so ago this part of the world was a was a haven of piracy, like there were pirates based out of practically every little harbor. And the pirates—the pirates were crushed by the navy of of a city across the sea. But this to you looks, with your smuggler history—this looks like, you know, pirate documents, like this was the—this is like the maps and the information of some set of smugglers who were trying to avoid the navy during this time when the Navy was stamping out piracy.",
+        "",
+        "%% u1552:0-58, u1553:0-68, u1554:0-30, u1555:0-7 %%",
+        "DM: You also find a collection of what look like love letters, written to just the initials J.M. Is what they're all addressed with, “To J.M.” And they're all signed “Love P.”",
+        "",
+        "%% u1556:0-2 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1557:0-155, u1558:0-24, u1559:0-7, u1560:0-47, u1561:0-32, u1562:0-41, u1563:0-89, u1564:0-28, u1565:0-47 %%",
+        "DM: And they go into detail about like, you know, “Please come home. Please be safe. There's other ways to make money. We can run away and start a life together.” And then the last one is a panic, “My family—my father's been caught by the navy. I have to go try and rescue him. Pray that I'm safe, that I return safely.” Kind of seem like letters from one pirate to another, maybe one of whom, the woman P., was doubtful of the pirate life. J.M. maybe seemed more sold on the pirate life.",
+        "",
+        "%% u1566:0-33, u1567:0-79, u1568:0-55, u1569:0-10, u1570:0-60, u1571:0-80, u1572:0-50 %%",
+        "DM: And you also find a collection of like notes and maps that sort of outline secret, you know, passages that lead, that go up into the hills. Yeah, this manor was maybe a safe place to store goods far from attention. There's little notes like, “Nobody will come to the cursed Perdoli manor. Everybody is afraid of the Medusa.” But this is all 40 years ago, something like that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Loria: Do we know if the ghost needs deceiving?",
+          "Gaudin: Well, I could look like I could either make myself look like the portrait we saw the man with the mustache, presumably the head of the house. Or I can make myself look like the woman in the locket.",
+          "Loria: I bet you. There's something in this study with like information about why this ghost might be moaning, cause like, you know, maybe someone didn't come back home having a cry. Kind of thing. The ghost is a sailor. It makes me feel like the sailor is the one who didn't come back in time, or something like died at sea, and is now sad and possibly named J.M.",
+          "Dilion: Yeah, so I don't know. It's gonna be more information about this on the papers. What I'm thinking in this study, before talking to the ghost—I wanna talk to—yes, let's study the study, or…",
+          "DM: So does anybody have proficiency with cartographers' tools or map making or vehicles?"
+        ],
+        "after": [
+          "Gaudin: I'm really concerned about what was able to trick or force a Medusa to look into a lake like that. Well, Medusa is always end up tricking themselves.",
+          "Dilion: So does that give us any information, like—so I guess we gotta talk to the ghost to figure out what the ghost is exactly, because it kind of could be culmination of people or one person in particular. I guess we don't know exactly. J.M., like, maybe he came back sick or injured or already dead and is haunting.",
+          "Gaudin: He's acting like he's sick on the bed, right.",
+          "Loria: Or sad. She's like pacing around sad. Yeah, I feel like J.M. Was away doing piratey things, and P. was in the manor, maybe, and then he had to leave to go save their father. And then J.M. Came back. And they were, and he was dead, or something. I feel like the ghost might be J.M. Meandering in the bedroom. Sad that he's that he's lost P. That's my theory, though. We could also talk to him.",
+          "Dilion: Yeah, I think we should just go have a quick chat just to double check. I don't know what information you're gonna get from them. But like. But maybe just helps this growing, what's going on…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The locket and Petrona’s appearance turn the ghost against Grimstone",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1610",
+        "endUid": "u1729"
+      },
+      "lines": [
+        "%% u1610:0-131, u1611:0-30 %%",
+        "Gaudin: Okay. So I assume it's like the thing right? I knock on the door. You go. Guys are behind me watching yeah and listening case like. Leave it out, hey, hey, buddy.",
+        "",
+        "%% u1612:0-38, u1613:0-31, u1614:0-176, u1615:0-8 %%",
+        "DM: This face just turns, and there's this sort of visage of just rage and sadness looking at you, and like this ghost goes to draw like a a rapier or a scimitar. Nothing comes out of his sheath, but he just points his hand at you and just screeches, “Get out!”",
+        "",
+        "%% u1616:0-12, u1617:0-16, u1618:0-28 %%",
+        "Gaudin: And I'm like, “I mean no harm. What's—what's going on here?”",
+        "",
+        "%% u1619:0-30 %%",
+        "DM: “Who dares disturb my mourning?”",
+        "",
+        "%% u1620:0-42 %%",
+        "Gaudin: I—slight retcon, like I have the locket, so…",
+        "",
+        "%% u1621:0-50 %%",
+        "DM: Oh, you're carrying the locket. Yeah, yeah. Sorry.",
+        "",
+        "%% u1622:0-50 %%",
+        "Gaudin: “Is this yours?” Right, open it up so we can see it.",
+        "",
+        "%% u1623:0-23, u1624:0-18, u1625:0-34, u1626:0-128 %%",
+        "DM: His—his face turns calm just for a moment, briefly, sort of peaceful and sad. “Where did you get that? That's mine.” And he goes to reach for it, and is of course—his hand passes straight through the locket.",
+        "",
+        "%% u1627:0-41, u1628:0-14 %%",
+        "Gaudin: It's—it was in the room down the hallway. What happened?",
+        "",
+        "%% u1629:0-45, u1630:0-29 %%",
+        "DM: “The white-faced man said he'd bring it to me.” “Never. This deceitful traitor…”",
+        "",
+        "%% u1631:0-12, u1632:0-15 %%",
+        "Gaudin: Hurt us too, white faced man.",
+        "",
+        "%% u1633:0-29 %%",
+        "DM: Like he lurches towards you.",
+        "",
+        "%% u1634:0-64 %%",
+        "Gaudin: What can you tell me? I try not to flinch, so I try to be calm.",
+        "",
+        "%% u1634:64-127, u1635:0-89 %%",
+        "DM: As the ghost is what like what reaches like to touch your face. His hand sort of passes through your face, and he pulls it back. ((Persuasion roll))",
+        "",
+        "%% u1636:0-4 %%",
+        "((Roll adjudication and brief table interruptions))",
+        "",
+        "%% u1637:0-15, u1638:0-34, u1639:0-15, u1640:0-46, u1641:0-57, u1642:0-46, u1643:0-14 %%",
+        "DM: He looks at you, like again, sort of reaching here, “You feel flesh. You have not been hurt by the white-faced man. You still breathe.” And he sticks his hand into your chest, like you feel this icy cold around your heart. “You are flesh.”",
+        "",
+        "%% u1644:0-58 %%",
+        "DM: “Why do you claim you have been wronged when you have not?”",
+        "",
+        "%% u1644:58-121 %%",
+        "Gaudin: He was going to kill me. He was going to take my flesh from me.",
+        "",
+        "%% u1645:0-5 %%",
+        "Unknown: Who's…",
+        "",
+        "%% u1646:0-14 %%",
+        "DM: “Everyone dies.”",
+        "",
+        "%% u1647:0-22, u1648:0-44, u1649:0-35 %%",
+        "Gaudin: Don't have to die now. These statues here, we could maybe save them, give their flesh back, kind of mine.",
+        "",
+        "%% u1650:0-38 %%",
+        "DM: He is again trying to grab the locket.",
+        "",
+        "%% u1651:0-29 %%",
+        "Gaudin: What did the man in white do?",
+        "",
+        "%% u1652:0-39, u1653:0-19, u1654:0-18, u1655:0-26, u1656:0-87 %%",
+        "DM: He sort of moves slowly back and forth, drifts towards you, “You ask questions, yet do nothing. Give me my possessions.” And he again tries to grab for it, and his hand passes through the locket.",
+        "",
+        "%% u1657:0-27, u1658:0-16, u1659:0-62, u1660:0-67 %%",
+        "Gaudin: I look at the locket, and I, I know he's also—I cringe when I do this, because I'm not supposed to do it, but I do disguise self to make myself look like the woman in the locket.",
+        "",
+        "%% u1661:0-4, u1662:0-23, u1663:0-15, u1664:0-19 %%",
+        "((Roll adjudication and brief table interruptions))",
+        "",
+        "%% u1665:0-36, u1666:0-19, u1667:0-7, u1668:0-27, u1669:0-5, u1670:0-22 %%",
+        "DM: Yeah, yeah, yeah. His—his face just stops for a moment. He just, but you know, briefly, just, looks shocked and uncertain.",
+        "",
+        "%% u1671:0-55, u1672:0-2, u1673:0-31, u1674:0-12, u1675:0-8, u1676:0-12, u1677:0-39 %%",
+        "DM: And he just stares at you for like a beat or 2, like 3, or almost like a full minute, just… And he says, “Petrona, is that you? Where did you go? Why did you leave me?”",
+        "",
+        "%% u1678:0-17, u1679:0-26, u1680:0-10, u1681:0-66 %%",
+        "Gaudin: I'm trapped here. They're trying to save me. Help them. And then I cast Disguise Self again, going back to my elf disguise.",
+        "",
+        "%% u1682:0-3, u1683:0-51, u1684:0-110, u1685:0-9 %%",
+        "((Roll adjudication and brief table interruptions))",
+        "",
+        "%% u1686:0-9, u1687:0-5, u1688:0-10, u1689:0-7, u1690:0-28, u1691:0-63 %%",
+        "DM: He looks, “I saw, I saw her, Petrona. Thought she was lost at sea, never knew her fate, could not rest until I knew what happened.”",
+        "",
+        "%% u1692:0-96 %%",
+        "Gaudin: This man in white. He takes people and captures them and turns them is what he's gonna do to me.",
+        "",
+        "%% u1693:0-2, u1694:0-1, u1695:0-38, u1696:0-5 %%",
+        "DM: We—e… His face begins to turn this like just rage.",
+        "",
+        "%% u1697:0-107, u1698:0-52, u1699:0-41 %%",
+        "DM: “He lied to me. He lied. Promised he would set me free. Promised he would bring me my locket, bring me rest, bring me news. He did not tell me he had trapped her, is deceitful and evil. You must kill him.”",
+        "",
+        "%% u1700:0-8 %%",
+        "Gaudin: Help us!",
+        "",
+        "%% u1701:0-23 %%",
+        "DM: “Cannot leave this room.”",
+        "",
+        "%% u1702:0-3 %%",
+        "Unknown: Oh.",
+        "",
+        "%% u1703:0-25 %%",
+        "DM: “Can tell you where he is.”",
+        "",
+        "%% u1704:0-12 %%",
+        "Gaudin: Where is he?",
+        "",
+        "%% u1705:0-59 %%",
+        "DM: “His lair is in the old—my old hideout beneath this manor.”",
+        "",
+        "%% u1706:0-3 %%",
+        "Unknown: He…",
+        "",
+        "%% u1707:0-64 %%",
+        "DM: He points down, and his hand passes through the rug on the floor.",
+        "",
+        "%% u1708:0-19, u1709:0-10, u1710:0-15, u1711:0-88, u1712:0-45, u1713:0-19, u1714:0-12, u1715:0-37 %%",
+        "DM: “There is a trapdoor that leads to my old base, where we hid from the navy raids when they came up into the hills. He lets no one down. I am his guard, but I will not guard no more. I am done with him. He is crazy. Talks about the immortality of stone.”",
+        "",
+        "%% u1716:0-4 %%",
+        "Dilion: Hmm!",
+        "",
+        "%% u1717:0-11, u1718:0-6, u1719:0-11, u1720:0-21 %%",
+        "DM: “Be careful. At his laboratory, he grinds up fingers.”",
+        "",
+        "%% u1721:0-3, u1722:0-39, u1723:0-34, u1724:0-54 %%",
+        "DM: “You see him carrying them from the statues, fingers of stone as he goes below. Make some potions from them, says he can live forever.”",
+        "",
+        "%% u1725:0-15 %%",
+        "Gaudin: We'll stop him.",
+        "",
+        "%% u1726:0-29 %%",
+        "DM: “Will not let him leave again.”",
+        "",
+        "%% u1727:0-9 %%",
+        "Dilion: Oh, yeah.",
+        "",
+        "%% u1728:0-29 %%",
+        "Gaudin: We'll stop him. Don't worry.",
+        "",
+        "%% u1728:29-40, u1729:0-4 %%",
+        "DM: “You must go down.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay.",
+          "Gaudin: Sorry, I missed the last like 30 s, so if you said anything I needed to hear to the ghost about, okay.",
+          "Dilion: Well. I think Gaudin's got—I think Gaudin—I think it's time to shine. Is 19 Charisma. I'm kind of…",
+          "Gaudin: And over his head. Okay, nope.",
+          "Dilion: Sink or swim, buddy. Let's do…"
+        ],
+        "after": [
+          "Dilion: Sick. Yeah. Sounds like insane.",
+          "Loria: That was so good."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
