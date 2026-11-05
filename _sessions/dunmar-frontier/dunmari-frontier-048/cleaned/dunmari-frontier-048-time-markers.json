@@ -1,0 +1,292 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-048",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-session.yaml",
+    "sessionYamlSha256": "92c3e6326c4d60d01c92de2a875d5bb84401abe17ef0cd1916bb770d2ef218b4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-transcript.md",
+    "transcriptSha256": "724edad1d2f40545a983a1f8032432fbbf7e7548fae9a6653415a80ef4f5b1df",
+    "yamlDates": {
+      "start": "1748-08-21",
+      "end": "1748-08-22"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0018"
+      },
+      "reading": "The table plays out two Mirror examinations retrospectively during the journey before reaching Chardon.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0018",
+          "quote": "DM: Okay, so before we get to Chardon let's let's retcon the two mirror items that you looked at over the course of the journey."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "arrival in Chardon (t04)",
+          "reference": "t04"
+        },
+        "precision": "approximate",
+        "basis": "DM explicitly retcons the examinations to the journey before Chardon"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0040"
+      },
+      "reading": "The whistle vision follows a raven past the Red Mesa and Bas Udda from sunset into twilight, then shows its death and the whistle’s creation.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "As the sun begins to sink in the sky you reach Bas Udda, the people returning to their homes as the evening begins, small and dark against the setting sun."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "you turn south drifting until you come to a line of dead trees just visible in the twilight"
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "partOfDay": "sunset into twilight",
+        "precision": "approximate",
+        "basis": "Light and evening are explicitly described inside the historical vision; no adventure time is measured"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0089"
+      },
+      "reading": "The fan vision reaches Sura’s tent and ends with the disguised orc leading her into the desert night.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0089",
+          "quote": "As they walk out of the tent into the darkness of the desert night the orc folds up the fan, places in a pouch and the scene fades to black."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Explicit desert night in the fan’s historical vision, not the observers’ current clock"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0245",
+        "endUid": "u0261"
+      },
+      "reading": "Play resumes with the Emerald Song’s afternoon arrival at Chardon.",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "The north bank, this time in the afternoon is partially hidden by a low fog that hangs on the slopes of Mount Nera and carries a faint acrid stench over the water when the winds briefly shift."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Spoken afternoon; the working August 21 date comes from YAML, not speech"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0590",
+        "endUid": "u0603"
+      },
+      "reading": "Kenzo’s walk from the port to Kaeso’s takes about forty minutes, refining the initial less-than-an-hour estimate.",
+      "evidence": [
+        {
+          "startUid": "u0590",
+          "endUid": "u0590",
+          "quote": "DM: Okay, so Kenzo it takes you maybe a little less than an hour to walk to the city and it's you know the."
+        },
+        {
+          "startUid": "u0592",
+          "endUid": "u0594",
+          "quote": "DM: Yeah. Like 40 minutes right, I mean you're trying you're sort of I assume like trying to kind of avoid the major streets and like just kind of sort of slip into you're more typical kinda."
+        },
+        {
+          "startUid": "u0596",
+          "endUid": "u0603",
+          "quote": "Like. Like like 40 minutes or something um."
+        },
+        {
+          "startUid": "u0627",
+          "endUid": "u0629",
+          "quote": "Kenzo: That's what that's what Kaeso is, that kind of represents, [garbled] yeah, I grew up with him in the poor side of town like what would change my mind that's why Kaeso's even Kenzo's got like a lite version alright, so I get to Kaeso's house.\n\n\nDM: You got to Kaeso's you you you knock on the door and."
+        },
+        {
+          "startUid": "u0658",
+          "endUid": "u0659",
+          "quote": "Tuesday"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 40,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s accepted approximate walking duration, with later arrival confirmation"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0745",
+        "endUid": "u0748"
+      },
+      "reading": "The party follows Kenzo from the Salty Squid towards Kaeso’s as late afternoon approaches.",
+      "evidence": [
+        {
+          "startUid": "u0745",
+          "endUid": "u0748",
+          "quote": "the city is busy getting now towards late afternoon"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM dates the party’s actual walk; not a forecast of a later meeting"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1533",
+        "endUid": "u1535"
+      },
+      "reading": "After a light dinner at Kaeso’s, the party goes to meet Vola during the early post-dinner lull.",
+      "evidence": [
+        {
+          "startUid": "u1533",
+          "endUid": "u1535",
+          "quote": "DM: So. Ah. After a light dinner with Kaeso you all head out into the city to go meet Vola, Riswynn's friend."
+        },
+        {
+          "startUid": "u1555",
+          "endUid": "u1571",
+          "quote": "This early this sort of. The sort of post dinner lull it'll probably get more crowded, as the night goes on"
+        }
+      ],
+      "time": {
+        "partOfDay": "early post-dinner",
+        "precision": "approximate",
+        "basis": "Completed dinner and the tavern’s current post-dinner lull; evening is approximate rather than a stated clock"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1973",
+        "endUid": "u1989"
+      },
+      "reading": "The DM skips overnight to the next morning; the party collects Vola’s message on the way to Ulfgar’s morning meeting.",
+      "evidence": [
+        {
+          "startUid": "u1973",
+          "endUid": "u1989",
+          "quote": "I will say that we can just time skip to the next morning"
+        },
+        {
+          "startUid": "u1973",
+          "endUid": "u1989",
+          "quote": "stopping to pick up messages at the inn on your way to meet with Ulfgar"
+        },
+        {
+          "startUid": "u2005",
+          "endUid": "u2019",
+          "quote": "What the morning is, you are going to find Ulfgar."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t07",
+          "anchor": "the evening meeting with Vola"
+        },
+        "precision": "approximate",
+        "basis": "Explicit next morning; the working August 22 date is conditional on the YAML arrival date"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2586",
+        "endUid": "u2609"
+      },
+      "reading": "The party reaches the Chapterhouse while Dee and Dain and the other patrons are eating lunch.",
+      "evidence": [
+        {
+          "startUid": "u2586",
+          "endUid": "u2609",
+          "quote": "there's about seven or eight people in the—scattered little groups of people eating lunch, but Dee and Dain are immediately recognizable."
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "Actual lunch scene, corroborating the earlier around-noon suggestion; no exact arrival clock"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No month, day or year is independently spoken. Tuesday dates the first Kaeso visit and Salty Squid conversation; the working August 21–22 calendar comes from YAML. The two mirror examinations are explicitly placed earlier in the approach journey, without a day.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t04",
+      "t06",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The Chardon sequence supports one overnight from arrival afternoon to next-day lunch. The retrospectively played journey examinations could occur on arrival day or earlier, so the full opening boundary is not established. Historical scenes inside their visions do not extend the adventure span; proposed afternoon tea and future journeys do not occur in this source."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t04"
+      ],
+      "reading": "The first newly played events are the two retconned examinations during the approach journey. Their date relative to the YAML arrival day is open.",
+      "alternatives": [
+        {
+          "reading": "They occurred earlier on arrival day; the played adventure can fit August 21–22 conditional on YAML.",
+          "date": "1748-08-21"
+        },
+        {
+          "reading": "They occurred on an earlier journey day; the covered adventure begins before the dated Chardon arrival."
+        }
+      ]
+    }
+  ]
+}
