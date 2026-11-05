@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-035",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-session.yaml",
+    "sessionYamlSha256": "a42423b5c0e803572d9c8aa17be1992e48c17bf45b539422159533872c562e21",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-transcript.md",
+    "transcriptSha256": "f5494cf965f39672a94654ba5214cba9c5229976c4e664833222399ad1bffa56",
+    "yamlDates": {
+      "start": "1748-07-01",
+      "end": "1748-07-01"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0015"
+      },
+      "reading": "The party emerges from the ruins in midmorning.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0015",
+          "quote": "DM: Now, after beating on the barred doors for a moment, you emerge into the bright sun of the mid-morning, Basu eagerly awaiting for news. And just as a note: Wellby and Seeker you still have minus 1d4 on all ability checks and attack rolls until your next long rest."
+        }
+      ],
+      "time": {
+        "partOfDay": "midmorning",
+        "precision": "approximate",
+        "basis": "DM’s current opening anchor"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1053",
+        "endUid": "u1055"
+      },
+      "reading": "Lunch and conversation receive a completed short-rest credit; this is one interval.",
+      "evidence": [
+        {
+          "startUid": "u1053",
+          "endUid": "u1053",
+          "quote": "Delwath: I'm I'm going to assume, by the way, that we took a short rest."
+        },
+        {
+          "startUid": "u1054",
+          "endUid": "u1055",
+          "quote": "DM: Yes that's fine oh."
+        },
+        {
+          "startUid": "u1078",
+          "endUid": "u1081",
+          "quote": "DM: Yeah so after lunch after a short rest, catching your breath a bit not really catching your breath just relaxing and chatting during lunch and sort of getting organized you head down into town take you like an hour and a half, maybe two hours so you'll be getting in mid afternoon. It's like a four mile walk basically from the monastery to town."
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "Lunch in later confirmation"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention; retrospective credit for lunch, not an additional hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1057",
+        "endUid": "u1066"
+      },
+      "reading": "Seeker’s armor purchase is resolved for some point this afternoon, without fixing its order among the town visits.",
+      "evidence": [
+        {
+          "startUid": "u1057",
+          "endUid": "u1059",
+          "quote": "DM: Sure ah just you know subtract the gold and give yourself a new suit of—studded leather is 45 gold, but probably for going—will say that at some point this afternoon you'll stop in the dwarven quarter, and you can get one for 40 gold. 35 gold."
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1063",
+          "quote": "DM: So just delete so so the one you don't need to actually so in your character sheet I sat the if you go to degraded studded armor there just hit remove on that and then add go add a new fresh set of leather."
+        },
+        {
+          "startUid": "u1065",
+          "endUid": "u1066",
+          "quote": "DM: And subtract the 35 gold. But staffs are free, you can have a new quarterstaff Rishi just gives you a new quarterstaff."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM’s accepted compressed purchase and equipment adjustment"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1078",
+        "endUid": "u1081"
+      },
+      "reading": "After lunch the party walks from the monastery to Tokra, arriving in midafternoon.",
+      "evidence": [
+        {
+          "startUid": "u1078",
+          "endUid": "u1081",
+          "quote": "DM: Yeah so after lunch after a short rest, catching your breath a bit not really catching your breath just relaxing and chatting during lunch and sort of getting organized you head down into town take you like an hour and a half, maybe two hours so you'll be getting in mid afternoon. It's like a four mile walk basically from the monastery to town."
+        },
+        {
+          "startUid": "u1158",
+          "endUid": "u1162",
+          "quote": "DM: So you so you enter you enter Tokra and you and you know there's definitely like eyes on you right, I mean this is not you're not the typical crowd that is moving through the city occasionally like you'll be passing through people sort of like look at you and kind of comment about your although you really don't carry all that much weaponry with you because Delwath doesn't have a weapon Kenzo has a staff, the rest Neither have I guess you've got your bow but um and your sword."
+        }
+      ],
+      "time": {
+        "partOfDay": "midafternoon",
+        "precision": "approximate",
+        "basis": "DM’s narrated arrival estimate, with subsequent entry"
+      },
+      "duration": {
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s estimated duration of the resolved walk"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1644",
+        "endUid": "u1651"
+      },
+      "reading": "The party leaves Kirian’s for the civic plaza at about three in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1644",
+          "endUid": "u1651",
+          "quote": "DM: So head out maybe three in the afternoon. Head through so where you are right now actually is is pretty close to so there's like this main market square but then also like pretty close by to the market square there's this big civic Plaza that has the the large central temple of Tokra that has the archives and that has um what used to be the palace because Tokra Tokra was at one point, the capital of Dunmar. The Palace is now used for other things um. But it's also used for like civil religious administration and stuff and barracks and things, but the the."
+        }
+      ],
+      "time": {
+        "clock": "15:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM says maybe three in the afternoon"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2210",
+        "endUid": "u2212"
+      },
+      "reading": "During the Archives conversation the DM explicitly establishes the current date as July 1.",
+      "evidence": [
+        {
+          "startUid": "u2210",
+          "endUid": "u2212",
+          "quote": "DM: A few days at least used it on the 28th of June, so it needs 1, 2, 3, 4, 5, 6, 7. July 5 it'll be recharged. Is currently July 1."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 1
+        },
+        "precision": "exact",
+        "basis": "Month and day spoken; year inherited from session YAML"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2217",
+        "endUid": "u2220"
+      },
+      "reading": "A servant returns with Govir’s loose notes after fifteen minutes.",
+      "evidence": [
+        {
+          "startUid": "u2217",
+          "endUid": "u2220",
+          "quote": "DM: Hold on many people have promised to give you things and I'm trying to write down all the things that they've promised to give you Okay, so he says um. Well, first of all, I need—he—we've preserved everything that everybody was—everybody who's gone missing was working on. Um, and he takes out the like or he calls for a servant to goes off in 15 minutes later it comes back with like a satchel that he unrolls and it's just a collection of loose notes."
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM narrates the servant returning fifteen minutes later"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2764",
+        "endUid": "u2765"
+      },
+      "reading": "It is evening while the party is still considering where to stay; the closing handoff places the continuing Archives scene at sunset.",
+      "evidence": [
+        {
+          "startUid": "u2764",
+          "endUid": "u2764",
+          "quote": "Wellby: What time of day, is it right now?"
+        },
+        {
+          "startUid": "u2765",
+          "endUid": "u2765",
+          "quote": "DM: It's like it's like evening."
+        },
+        {
+          "startUid": "u2889",
+          "endUid": "u2893",
+          "quote": "DM: Yeah it's it's, it's—so given it's 1230, we gotta go to bed. We got to schedule before we go to bed. We will start next session at the sunset at the archives and if Kenzo wants to decide to leave in two hours Kenzo can leave in two hours."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Current evening confirmation; sunset is the closing next-session handoff, not an overnight advance"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "July 1 is independently spoken at t06; 1748 is inherited from YAML.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08"
+    ],
+    "explanation": "The played span runs from emerging in midmorning through the same evening at the Archives. Prior adventures and history are recap/background; workshop completion, tomorrow’s delivery, and late-night travel remain prospective. No overnight or date transition is played."
+  }
+}

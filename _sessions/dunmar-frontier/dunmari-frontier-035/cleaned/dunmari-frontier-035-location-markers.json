@@ -1,0 +1,612 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-035",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-session.yaml",
+    "sessionYamlSha256": "a42423b5c0e803572d9c8aa17be1992e48c17bf45b539422159533872c562e21",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-transcript.md",
+    "transcriptSha256": "f5494cf965f39672a94654ba5214cba9c5229976c4e664833222399ad1bffa56"
+  },
+  "places": {
+    "p01": {
+      "label": "Lakan monastery",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0015",
+          "quote": "DM: Let us return to Taelgar as the morning sun beats down on the outskirts of the Lakan monastery as you emerge from the depths of darkness of the tunnels and elven ruins underground to the hot dry air. Well, to the West beyond the Yuvanti mountains, the monsoon rains must have already begun, bringing life to the dry land. Here on the high plateau in the shadow of these new mountains, it may yet be weeks until the rains and the land is parched and dry."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md"
+    },
+    "p02": {
+      "label": "Ruins entrance on the monastery grounds",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0015",
+          "quote": "DM: Let us return to Taelgar as the morning sun beats down on the outskirts of the Lakan monastery as you emerge from the depths of darkness of the tunnels and elven ruins underground to the hot dry air. Well, to the West beyond the Yuvanti mountains, the monsoon rains must have already begun, bringing life to the dry land. Here on the high plateau in the shadow of these new mountains, it may yet be weeks until the rains and the land is parched and dry."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0015",
+              "quote": "DM: Let us return to Taelgar as the morning sun beats down on the outskirts of the Lakan monastery as you emerge from the depths of darkness of the tunnels and elven ruins underground to the hot dry air. Well, to the West beyond the Yuvanti mountains, the monsoon rains must have already begun, bringing life to the dry land. Here on the high plateau in the shadow of these new mountains, it may yet be weeks until the rains and the land is parched and dry."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Basu’s workshop",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0053",
+          "endUid": "u0062",
+          "quote": "DM: He sort of you know, says he turns and starts walking up the hill a little bit towards so like behind the main monastery building there's this like a cluster of buildings and he leads you into the into the largest one which is this like—it looks a little bit like a leather working shop but it's like in complete chaos everything's disorganized. There's like a, you know, a pile—piles of like tea cups that are, you know, weeks old probably, stacked on on the desk, and just kind of pushes some things away and it's like cradling the vials carefully, and he puts them down. He says—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0053",
+              "endUid": "u0062",
+              "quote": "DM: He sort of you know, says he turns and starts walking up the hill a little bit towards so like behind the main monastery building there's this like a cluster of buildings and he leads you into the into the largest one which is this like—it looks a little bit like a leather working shop but it's like in complete chaos everything's disorganized. There's like a, you know, a pile—piles of like tea cups that are, you know, weeks old probably, stacked on on the desk, and just kind of pushes some things away and it's like cradling the vials carefully, and he puts them down. He says—"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Kassi’s library",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0354",
+          "endUid": "u0367",
+          "quote": "DM: Okay, so the basic layout of the monastery. Right, so the workshops are sort of in the back there's like an inner courtyard around a well with the like main building of the monastery that has like the temple and the cloisters and the chapter house and the mess Hall, and everything and this the library is not huge, but the small library, such as it is in the main monastery so you sort of head into the main monastery, and—you know your way around obviously Kenzo."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0354",
+              "endUid": "u0367",
+              "quote": "DM: Okay, so the basic layout of the monastery. Right, so the workshops are sort of in the back there's like an inner courtyard around a well with the like main building of the monastery that has like the temple and the cloisters and the chapter house and the mess Hall, and everything and this the library is not huge, but the small library, such as it is in the main monastery so you sort of head into the main monastery, and—you know your way around obviously Kenzo."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Tokra",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u1158",
+          "endUid": "u1172",
+          "quote": "DM: So you so you enter you enter Tokra and you and you know there's definitely like eyes on you right, I mean this is not you're not the typical crowd that is moving through the city occasionally like you'll be passing through people sort of like look at you and kind of comment about your although you really don't carry all that much weaponry with you because Delwath doesn't have a weapon Kenzo has a staff, the rest Neither have I guess you've got your bow but um and your sword."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p06": {
+      "label": "Dwarven quarter",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u1051",
+          "endUid": "u1059",
+          "quote": "DM: That's easy enough to do and in I mean you'd probably want to go to the dwarves and there's like the little dwarven quarter, where you know people I'm sure you know, like Vistra Fireforge the dwarven innkeeper would know where to get decent dwarven armor in town."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1051",
+              "endUid": "u1059",
+              "quote": "DM: That's easy enough to do and in I mean you'd probably want to go to the dwarves and there's like the little dwarven quarter, where you know people I'm sure you know, like Vistra Fireforge the dwarven innkeeper would know where to get decent dwarven armor in town."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Kirian’s",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1165",
+          "endUid": "u1172",
+          "quote": "DM: But you know you, you get to you get to Kirian's, which is like this it's a three story is it's a sort of tall obvious substantial inn near the main market square it's actually one of the one of the relatively few inns in town itself it's clearly well built it's a pretty looks like a pretty nice place um. Does not seem to be super busy at the moment. So you go in. And get a room I assume?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1165",
+              "endUid": "u1172",
+              "quote": "DM: But you know you, you get to you get to Kirian's, which is like this it's a three story is it's a sort of tall obvious substantial inn near the main market square it's actually one of the one of the relatively few inns in town itself it's clearly well built it's a pretty looks like a pretty nice place um. Does not seem to be super busy at the moment. So you go in. And get a room I assume?"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Second-floor suite",
+      "kind": "rooms",
+      "evidence": [
+        {
+          "startUid": "u1250",
+          "endUid": "u1253",
+          "quote": "DM: Well, I can I can give you a give you a simple suite on the second floor nice windows mind you with room and board of three gold a night for all four of you, together."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1250",
+              "endUid": "u1253",
+              "quote": "DM: Well, I can I can give you a give you a simple suite on the second floor nice windows mind you with room and board of three gold a night for all four of you, together."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Civic plaza",
+      "kind": "square",
+      "evidence": [
+        {
+          "startUid": "u1644",
+          "endUid": "u1651",
+          "quote": "DM: So head out maybe three in the afternoon. Head through so where you are right now actually is is pretty close to so there's like this main market square but then also like pretty close by to the market square there's this big civic Plaza that has the the large central temple of Tokra that has the archives and that has um what used to be the palace because Tokra Tokra was at one point, the capital of Dunmar. The Palace is now used for other things um. But it's also used for like civil religious administration and stuff and barracks and things, but the the."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1644",
+              "endUid": "u1651",
+              "quote": "DM: So head out maybe three in the afternoon. Head through so where you are right now actually is is pretty close to so there's like this main market square but then also like pretty close by to the market square there's this big civic Plaza that has the the large central temple of Tokra that has the archives and that has um what used to be the palace because Tokra Tokra was at one point, the capital of Dunmar. The Palace is now used for other things um. But it's also used for like civil religious administration and stuff and barracks and things, but the the."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Central temple administrative complex",
+      "kind": "complex",
+      "evidence": [
+        {
+          "startUid": "u1644",
+          "endUid": "u1656",
+          "quote": "DM: So head out maybe three in the afternoon. Head through so where you are right now actually is is pretty close to so there's like this main market square but then also like pretty close by to the market square there's this big civic Plaza that has the the large central temple of Tokra that has the archives and that has um what used to be the palace because Tokra Tokra was at one point, the capital of Dunmar. The Palace is now used for other things um. But it's also used for like civil religious administration and stuff and barracks and things, but the the."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1644",
+              "endUid": "u1656",
+              "quote": "DM: So head out maybe three in the afternoon. Head through so where you are right now actually is is pretty close to so there's like this main market square but then also like pretty close by to the market square there's this big civic Plaza that has the the large central temple of Tokra that has the archives and that has um what used to be the palace because Tokra Tokra was at one point, the capital of Dunmar. The Palace is now used for other things um. But it's also used for like civil religious administration and stuff and barracks and things, but the the."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Kaleha’s office",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1652",
+          "endUid": "u1660",
+          "quote": "DM: The temple has administrative complex associated with it, where you can find the high priestess who's who's kind of functionally like the Mayor of the city, as well as the, right, um religious leader. So you, you know get through a couple functionaries but by showing your letter of introduction you're able to get through the sort of minor bureaucrats that try and head you off. Until you are ushered into aa into her office."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1652",
+              "endUid": "u1660",
+              "quote": "DM: The temple has administrative complex associated with it, where you can find the high priestess who's who's kind of functionally like the Mayor of the city, as well as the, right, um religious leader. So you, you know get through a couple functionaries but by showing your letter of introduction you're able to get through the sort of minor bureaucrats that try and head you off. Until you are ushered into aa into her office."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Archives",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u2108",
+          "endUid": "u2127",
+          "quote": "DM: Say you cross the great Plaza to the archives. Which are that the temple itself is a you know, a very elaborate building with a huge Dome. The archives are a large sort of square squat building with a tower that rises up about hundred feet above the city. Ah currently, nobody is—is—there's no like public visitation of the archives, but when you tell the sort of temple guard at the door who you are and show them the letter, you know, he's very apologetic and and says he will go fetch Ardan immediately and see if he will see you. And, and he does he he comes out he sort of."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2108",
+              "endUid": "u2127",
+              "quote": "DM: Say you cross the great Plaza to the archives. Which are that the temple itself is a you know, a very elaborate building with a huge Dome. The archives are a large sort of square squat building with a tower that rises up about hundred feet above the city. Ah currently, nobody is—is—there's no like public visitation of the archives, but when you tell the sort of temple guard at the door who you are and show them the letter, you know, he's very apologetic and and says he will go fetch Ardan immediately and see if he will see you. And, and he does he he comes out he sort of."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Ardan’s office",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2114",
+          "endUid": "u2127",
+          "quote": "DM: The guard then takes you inside in the archives and you know that this is a huge library like there's you know orders of magnitude bigger than the than the small library at the at the monastery and there's you know there's a little bit of activity there's a few people copying scrolls there's a, you know, a couple people standing in a corner talking but everything seems very quiet as he's you know your footsteps ECHO on the stone, as you walk through this relatively silent place into Ardan's office, and he is I'm also on the older side a Dunmari man I'm still black hair with maybe a hint of white touching in it I'm sort of serious looking, and also tired, wearing—I'm—wearing robes of Lakan blue. And he looks up as you as you enter and sighs welcome Laka bless you all. Bows his head slightly."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2114",
+              "endUid": "u2127",
+              "quote": "DM: The guard then takes you inside in the archives and you know that this is a huge library like there's you know orders of magnitude bigger than the than the small library at the at the monastery and there's you know there's a little bit of activity there's a few people copying scrolls there's a, you know, a couple people standing in a corner talking but everything seems very quiet as he's you know your footsteps ECHO on the stone, as you walk through this relatively silent place into Ardan's office, and he is I'm also on the older side a Dunmari man I'm still black hair with maybe a hint of white touching in it I'm sort of serious looking, and also tired, wearing—I'm—wearing robes of Lakan blue. And he looks up as you as you enter and sighs welcome Laka bless you all. Bows his head slightly."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0015"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is outside the ruins on the Lakan monastery grounds.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0005",
+          "quote": "DM: Let us return to Taelgar as the morning sun beats down on the outskirts of the Lakan monastery as you emerge from the depths of darkness of the tunnels and elven ruins underground to the hot dry air. Well, to the West beyond the Yuvanti mountains, the monsoon rains must have already begun, bringing life to the dry land. Here on the high plateau in the shadow of these new mountains, it may yet be weeks until the rains and the land is parched and dry."
+        },
+        {
+          "startUid": "u0014",
+          "endUid": "u0015",
+          "quote": "DM: Now, after beating on the barred doors for a moment, you emerge into the bright sun of the mid-morning, Basu eagerly awaiting for news. And just as a note: Wellby and Seeker you still have minus 1d4 on all ability checks and attack rolls until your next long rest."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0062"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Basu leads the party uphill into his workshop behind the main monastery building.",
+      "evidence": [
+        {
+          "startUid": "u0053",
+          "endUid": "u0057",
+          "quote": "DM: He sort of you know, says he turns and starts walking up the hill a little bit towards so like behind the main monastery building there's this like a cluster of buildings and he leads you into the into the largest one which is this like—it looks a little bit like a leather working shop but it's like in complete chaos everything's disorganized. There's like a, you know, a pile—piles of like tea cups that are, you know, weeks old probably, stacked on on the desk, and just kind of pushes some things away and it's like cradling the vials carefully, and he puts them down. He says—"
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0062",
+          "quote": "DM: And then he turns around and there's like a like a sort of like a drafting board kind of thing with them with just with chalk, that you can you can sketch on. It's got you know bunch of like backpacks and and bags and various leather items containers of various sorts and in different stages of construction. So what would you like?"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0354",
+        "endUid": "u0365"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party heads into the library in the monastery’s main building to speak with Kassi.",
+      "evidence": [
+        {
+          "startUid": "u0354",
+          "endUid": "u0358",
+          "quote": "DM: Okay, so the basic layout of the monastery. Right, so the workshops are sort of in the back there's like an inner courtyard around a well with the like main building of the monastery that has like the temple and the cloisters and the chapter house and the mess Hall, and everything and this the library is not huge, but the small library, such as it is in the main monastery so you sort of head into the main monastery, and—you know your way around obviously Kenzo."
+        },
+        {
+          "startUid": "u0359",
+          "endUid": "u0365",
+          "quote": "DM: And approach that there's so there's a small room with maybe four or five shelves filled with scrolls and books. Very neat very organized very tidy and you see Kassi sitting at sitting at a desk ah like work, you know copying something working on something with her with her back to the entrance as you approach. Doesn't seem to notice you."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u1057",
+        "endUid": "u1066"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker’s replacement-armor purchase in the dwarven quarter is accepted as a compressed afternoon errand.",
+      "evidence": [
+        {
+          "startUid": "u1057",
+          "endUid": "u1059",
+          "quote": "DM: Sure ah just you know subtract the gold and give yourself a new suit of—studded leather is 45 gold, but probably for going—will say that at some point this afternoon you'll stop in the dwarven quarter, and you can get one for 40 gold. 35 gold."
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1063",
+          "quote": "DM: So just delete so so the one you don't need to actually so in your character sheet I sat the if you go to degraded studded armor there just hit remove on that and then add go add a new fresh set of leather."
+        },
+        {
+          "startUid": "u1065",
+          "endUid": "u1066",
+          "quote": "DM: And subtract the 35 gold. But staffs are free, you can have a new quarterstaff Rishi just gives you a new quarterstaff."
+        }
+      ],
+      "place": "p06",
+      "note": "The table leaves its order relative to other town visits open; this does not move the rest of the party."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1078",
+        "endUid": "u1081"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After lunch the party walks down from the monastery and enters Tokra.",
+      "evidence": [
+        {
+          "startUid": "u1078",
+          "endUid": "u1081",
+          "quote": "DM: Yeah so after lunch after a short rest, catching your breath a bit not really catching your breath just relaxing and chatting during lunch and sort of getting organized you head down into town take you like an hour and a half, maybe two hours so you'll be getting in mid afternoon. It's like a four mile walk basically from the monastery to town."
+        },
+        {
+          "startUid": "u1158",
+          "endUid": "u1162",
+          "quote": "DM: So you so you enter you enter Tokra and you and you know there's definitely like eyes on you right, I mean this is not you're not the typical crowd that is moving through the city occasionally like you'll be passing through people sort of like look at you and kind of comment about your although you really don't carry all that much weaponry with you because Delwath doesn't have a weapon Kenzo has a staff, the rest Neither have I guess you've got your bow but um and your sword."
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 4,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s stated approximate walk"
+      },
+      "duration": {
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s estimated duration of the resolved walk"
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1165",
+        "endUid": "u1172"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters Kirian’s inn near the market.",
+      "evidence": [
+        {
+          "startUid": "u1165",
+          "endUid": "u1172",
+          "quote": "DM: But you know you, you get to you get to Kirian's, which is like this it's a three story is it's a sort of tall obvious substantial inn near the main market square it's actually one of the one of the relatively few inns in town itself it's clearly well built it's a pretty looks like a pretty nice place um. Does not seem to be super busy at the moment. So you go in. And get a room I assume?"
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1397",
+        "endUid": "u1402"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kirian escorts the party upstairs while discussing earlier guests, then leaves them in their rooms.",
+      "evidence": [
+        {
+          "startUid": "u1397",
+          "endUid": "u1402",
+          "quote": "Delwath: Does that he Delwath does sort of taken aside, while we're walking up, and ask, If any if there's any Chardonians staying here now? And, in particular, if any of I'll mention a couple of the people we know about from the Open Scroll. The list you gave us of all the years if any of them have come through?"
+        },
+        {
+          "startUid": "u1250",
+          "endUid": "u1253",
+          "quote": "DM: Well, I can I can give you a give you a simple suite on the second floor nice windows mind you with room and board of three gold a night for all four of you, together."
+        },
+        {
+          "startUid": "u1488",
+          "endUid": "u1489",
+          "quote": "DM: He goes off leave you in the rooms."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1644",
+        "endUid": "u1660"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the inn, goes through the civic area, and is ushered into Kaleha’s office in the temple administrative complex.",
+      "evidence": [
+        {
+          "startUid": "u1644",
+          "endUid": "u1651",
+          "quote": "DM: So head out maybe three in the afternoon. Head through so where you are right now actually is is pretty close to so there's like this main market square but then also like pretty close by to the market square there's this big civic Plaza that has the the large central temple of Tokra that has the archives and that has um what used to be the palace because Tokra Tokra was at one point, the capital of Dunmar. The Palace is now used for other things um. But it's also used for like civil religious administration and stuff and barracks and things, but the the."
+        },
+        {
+          "startUid": "u1652",
+          "endUid": "u1656",
+          "quote": "DM: The temple has administrative complex associated with it, where you can find the high priestess who's who's kind of functionally like the Mayor of the city, as well as the, right, um religious leader. So you, you know get through a couple functionaries but by showing your letter of introduction you're able to get through the sort of minor bureaucrats that try and head you off. Until you are ushered into aa into her office."
+        },
+        {
+          "startUid": "u1657",
+          "endUid": "u1660",
+          "quote": "DM: Um, so I'm—Kaleha, the high priestess of Tokra, is a middle aged woman with longish graying hair tied just in a simple ponytail in the back. I'm—wearing elaborate robes, but looks tired, like bags under her eyes. On, you know, there's like a stack of notes on on— that she's kind of sifting through and is, you know as you come she waves you in but she's in the middle of dictating a message to a messenger she's sort of waves him off, you know come back in a bit she she looks up at you with tired eyes saying. Come in come in welcome. You—she like holds out her hand as you give it the letter. She says—are the letters probably been passed on by her on—"
+        }
+      ],
+      "from": "p08",
+      "to": "p11",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Cross the civic area by the market.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2108",
+        "endUid": "u2127"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party crosses the plaza and is escorted inside the Archives to Ardan’s office.",
+      "evidence": [
+        {
+          "startUid": "u2108",
+          "endUid": "u2113",
+          "quote": "DM: Say you cross the great Plaza to the archives. Which are that the temple itself is a you know, a very elaborate building with a huge Dome. The archives are a large sort of square squat building with a tower that rises up about hundred feet above the city. Ah currently, nobody is—is—there's no like public visitation of the archives, but when you tell the sort of temple guard at the door who you are and show them the letter, you know, he's very apologetic and and says he will go fetch Ardan immediately and see if he will see you. And, and he does he he comes out he sort of."
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2127",
+          "quote": "DM: The guard then takes you inside in the archives and you know that this is a huge library like there's you know orders of magnitude bigger than the than the small library at the at the monastery and there's you know there's a little bit of activity there's a few people copying scrolls there's a, you know, a couple people standing in a corner talking but everything seems very quiet as he's you know your footsteps ECHO on the stone, as you walk through this relatively silent place into Ardan's office, and he is I'm also on the older side a Dunmari man I'm still black hair with maybe a hint of white touching in it I'm sort of serious looking, and also tired, wearing—I'm—wearing robes of Lakan blue. And he looks up as you as you enter and sighs welcome Laka bless you all. Bows his head slightly."
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Cross the great plaza.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2880",
+        "endUid": "u2883"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo proposes staying at the Archives until ten or eleven before returning to the monastery; departure is not played.",
+      "evidence": [
+        {
+          "startUid": "u2880",
+          "endUid": "u2883",
+          "quote": "Kenzo: Well, this is what we're saying is they were able to keep out the fire giant because the strong mystai were there but what. Let's now offer a compromise. It's like going to happen and like an hour. Kenzo's happy to stay for an hour after dinner, and then go spend the night there. If nothing happens by like 10 o'clock at night, Ken—Kenzo's gonna leave at like 10 or 11 and go back to the monastery, but he's happy to hang around here for a couple of hours, when the moon comes up. But he's not gonna spend the night in town."
+        },
+        {
+          "startUid": "u2889",
+          "endUid": "u2893",
+          "quote": "DM: Yeah it's it's, it's—so given it's 1230, we gotta go to bed. We got to schedule before we go to bed. We will start next session at the sunset at the archives and if Kenzo wants to decide to leave in two hours Kenzo can leave in two hours."
+        }
+      ],
+      "context": "planned",
+      "from": "p12",
+      "to": "p01",
+      "completion": "planned"
+    }
+  ]
+}

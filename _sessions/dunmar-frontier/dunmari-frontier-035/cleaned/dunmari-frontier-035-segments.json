@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-035",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-session.yaml",
+    "sessionYamlSha256": "a42423b5c0e803572d9c8aa17be1992e48c17bf45b539422159533872c562e21",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-transcript.md",
+    "transcriptSha256": "f5494cf965f39672a94654ba5214cba9c5229976c4e664833222399ad1bffa56"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0005"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0013"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u2509"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2510",
+        "endUid": "u2515"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2516",
+        "endUid": "u2639"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2640",
+        "endUid": "u2888"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2889",
+        "endUid": "u2898"
+      },
+      "category": "table_talk",
+      "note": "Closing housekeeping includes the next-session sunset handoff; it does not play an overnight or a return to the monastery."
+    }
+  ]
+}
