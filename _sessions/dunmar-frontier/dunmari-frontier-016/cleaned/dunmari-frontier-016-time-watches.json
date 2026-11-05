@@ -9,14 +9,14 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-transcript.md",
     "sha256": "f71f3abaa930b9d72c00ca7ea15e10dd9f37126626cbd4681da1ce859f88b991"
   },
-  "dateAssessment": "Working dates are April 15–16, 1748 DR from the session YAML, compatible with the night-to-dawn transition and Vola’s one-day absence report. The dated Session 16 timeline agrees but does not independently verify those absolute dates. Opening dusk is a rough carry-forward from Session 15’s late-evening timeline and the uninterrupted Hralgar conversation (Session 15 u2292–u2298; Session 16 u0050–u0058). Short searches overlap where stated; the expired invisibility and Vola’s whole absence are not added again. The mirror’s historical scenes do not advance the adventure clock. The approach conversation is played retrospectively before the morning camp reunion. No completed closing short rest is established in this transcript.",
+  "dateAssessment": "YAML supplies the dates April 15–16, 1748. The escape crosses from night into dawn, and Vola says the party was gone a day. In Session 15, twilight and about an hour of exploration precede the conversation with Hralgar (u0001–u0005, u1159, u2292–u2298). That conversation continues here under the stars. Short searches overlap where stated; the expired invisibility and Vola’s whole absence are not added again. The mirror’s historical scenes do not advance the adventure clock. The approach conversation is played retrospectively before the morning camp reunion. No completed closing short rest is established in this transcript.",
   "watches": [
     {
       "day": "April 15, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
-      "summary": "Session 15’s late evening carries into the tower conversation and short, partly overlapping searches.",
+      "summary": "About an hour after twilight in Session 15, Hralgar’s conversation continues here under the stars.",
       "markers": [
         "t01",
         "t02",
@@ -86,22 +86,12 @@
   ],
   "contextSources": [
     {
-      "label": "Session 15 dated timeline",
-      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 15 (DuFr).md",
-      "sha256": "b7de5acfd8eca15ad4fe964139cc738425ad8fb4c5e90f3c6c111bb7838edfaa"
-    },
-    {
-      "label": "Session 15 handoff",
+      "label": "Session 15 twilight, elapsed hour, and handoff",
       "path": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-transcript.md",
       "sha256": "6a243e0974b88cff1733dbc5ba095db43a04c714235c991c4c31638db0c13aea"
     },
     {
-      "label": "Session 16 dated timeline",
-      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr).md",
-      "sha256": "c63079ba715014d182fcb7724fb01914c381ad1204a933b58e060dec4a5ed724"
-    },
-    {
-      "label": "Retained human inventory clarification",
+      "label": "Inventory clarification for comparison with i021",
       "path": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-review-decisions.json",
       "sha256": "a6d9d516767541bbde83378c06dc68ffbc33b8035941cc1aa28aecc821db8a6e"
     }

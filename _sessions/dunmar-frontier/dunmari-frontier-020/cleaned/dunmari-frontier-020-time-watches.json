@@ -9,7 +9,7 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-transcript.md",
     "sha256": "4e4af61933f2a0a65d0a895a50a5b0958d1952b002c94fc2b418fcc8ea2b63b4"
   },
-  "dateAssessment": "Working dates follow the YAML span, May 2–5, 1748. The transcript names May and supports three overnight transitions, conditional on the YAML start. The existing Session 20 timeline supports the final early-evening arrival estimate; it is not independent verification of the absolute dates. The party is physically on the cliff above the camp, although that timeline calls the arrival “at Havdar’s camp.”",
+  "dateAssessment": "Working dates follow the YAML span, May 2–5, 1748. The transcript names May and supports three overnight transitions from that starting date. On the final approach, the DM’s dinnertime forecast and the narrated midday stop support an estimated dusk watch. The party reaches the cliff overlooking Havdar’s camp.",
   "watches": [
     {
       "day": "May 2, 1748",
@@ -138,7 +138,7 @@
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
-      "summary": "The cliff scramble takes seconds; the dated Session 20 timeline places the battle approach in early evening.",
+      "summary": "The DM predicts arrival around dinner with the usual lunch stop. The party takes the break and scrambles up the cliff in seconds.",
       "markers": [
         "t11"
       ],
@@ -148,17 +148,14 @@
           "u1381"
         ],
         [
+          "u1394",
+          "u1402"
+        ],
+        [
           "u1403",
           "u1408"
         ]
       ]
-    }
-  ],
-  "contextSources": [
-    {
-      "label": "Session 20 dated timeline, especially May 5 early-evening arrival",
-      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 20 (DuFr).md",
-      "sha256": "33e36d4252aac307df87d4b1be0078bce76eaaedd511dba8bc384bebd6fd4475"
     }
   ]
 }

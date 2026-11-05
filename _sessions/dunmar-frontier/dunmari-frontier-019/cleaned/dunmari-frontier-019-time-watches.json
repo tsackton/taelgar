@@ -9,7 +9,7 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
     "sha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2"
   },
-  "dateAssessment": "Working dates preserve the human decisions in the existing Session 19 timeline review: April 24 opening, April 25–26 preparations, April 27 departure, April 29 Bas Udda arrival after a full April 28 travel day, April 30 departure, and May 2 arrival at the masters’ house. The transcript says April 28 at t12 and compresses that first journey; its transcript-only time extraction reports a conflict with the YAML end, because that spoken date implies an April 30 or May 1 endpoint. The preserved human chronology decision already resolves this discrepancy for campaign use; it is not a new open review issue. The adopted second-day reading counts full days after the partial April 30 departure. At t19, the later late-morning description supersedes “evening.” All watches are approximate where no clock is spoken; the private mirror breakout is absent from the registered transcript.",
+  "dateAssessment": "YAML supplies the year 1748 and a compatible April 24 opening. The DM schedules the departure for April 27 and names April 28 on arrival at Bas Udda (t05, t12). The village overnight puts departure on April 29. The canyon and stone house fall on the same “second day” of travel, April 30 if the partial departure day counts, or May 1 if the count starts the following morning. Both readings end before the YAML endpoint of May 2. The private mirror scene is absent from the transcript.",
   "watches": [
     {
       "day": "April 24, 1748",
@@ -84,21 +84,21 @@
       "endDate": "1748-04-27"
     },
     {
-      "day": "April 29, 1748",
+      "day": "April 28, 1748",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "mixed",
-      "summary": "A lunch short rest precedes arrival around midday; the postbattle break follows in the heat.",
+      "summary": "The DM names April 28 as the party approaches Bas Udda around midday after its lunch stop.",
       "markers": [
         "t12",
         "t13",
         "t14"
       ],
-      "startDate": "1748-04-29",
-      "endDate": "1748-04-29"
+      "startDate": "1748-04-28",
+      "endDate": "1748-04-28"
     },
     {
-      "day": "April 29, 1748",
+      "day": "April 28, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "stated",
@@ -106,11 +106,11 @@
       "markers": [
         "t15"
       ],
-      "startDate": "1748-04-29",
-      "endDate": "1748-04-29"
+      "startDate": "1748-04-28",
+      "endDate": "1748-04-28"
     },
     {
-      "day": "April 29, 1748",
+      "day": "April 28, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "stated",
@@ -118,11 +118,11 @@
       "markers": [
         "t16"
       ],
-      "startDate": "1748-04-29",
-      "endDate": "1748-04-29"
+      "startDate": "1748-04-28",
+      "endDate": "1748-04-28"
     },
     {
-      "day": "April 30, 1748",
+      "day": "April 29, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "stated",
@@ -131,11 +131,11 @@
         "t17",
         "t20"
       ],
-      "startDate": "1748-04-30",
-      "endDate": "1748-04-30"
+      "startDate": "1748-04-29",
+      "endDate": "1748-04-29"
     },
     {
-      "day": "April 30, 1748",
+      "day": "April 29, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "stated",
@@ -143,11 +143,11 @@
       "markers": [
         "t18"
       ],
-      "startDate": "1748-04-30",
-      "endDate": "1748-04-30"
+      "startDate": "1748-04-29",
+      "endDate": "1748-04-29"
     },
     {
-      "day": "May 2, 1748",
+      "day": "During April 30–May 1, 1748",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "inferred",
@@ -155,11 +155,13 @@
       "markers": [
         "t19"
       ],
-      "startDate": "1748-05-02",
-      "endDate": "1748-05-02"
+      "dateWindow": [
+        "1748-04-30",
+        "1748-05-01"
+      ]
     },
     {
-      "day": "May 2, 1748",
+      "day": "During April 30–May 1, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "stated",
@@ -167,13 +169,15 @@
       "markers": [
         "t21"
       ],
-      "startDate": "1748-05-02",
-      "endDate": "1748-05-02"
+      "dateWindow": [
+        "1748-04-30",
+        "1748-05-01"
+      ]
     }
   ],
   "contextSources": [
     {
-      "label": "Preserved human chronology decisions",
+      "label": "Campaign chronology for comparison with t12 and t17–t21",
       "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-timeline-review.json",
       "sha256": "e4d8f6cc190b8d13eaf4e8ddb8043c0c0f74c28ee6cdbd2c51728607b9453bab"
     }

@@ -9,7 +9,7 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
     "sha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69"
   },
-  "dateAssessment": "Working dates use YAML’s DR 1748 year with the transcript’s April 17 sunrise, April 23 camp and April 24 greeting. The opening overnight, six-day montage and next dawn account for all eight boundaries from April 16–24. The mirror’s historical scenes are undated and do not extend this span. The April 24 arrival watch is an estimate from the half-day approach and forecast of arriving around lunch, not a stated clock. The older session timeline review supports the same date sequence; the canonical Ivory Scroll Cap Vision note instead says April 22 and is flagged for review.",
+  "dateAssessment": "Working dates use YAML’s DR 1748 year with the transcript’s April 17 sunrise, April 23 camp and April 24 greeting. The opening overnight, six-day montage and next dawn account for all eight boundaries from April 16–24. The mirror’s historical scenes are undated and do not extend this span. The April 24 arrival watch is an estimate from the half-day approach and forecast of arriving around lunch, not a stated clock. The April 22 date on the Ivory Scroll Cap Vision note is flagged for comparison with the spoken April 23 camp date.",
   "watches": [
     {
       "day": "April 16, 1748",
@@ -115,11 +115,6 @@
     }
   ],
   "contextSources": [
-    {
-      "label": "Prior session timeline review",
-      "path": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-timeline-review.json",
-      "sha256": "9fb3e99e16129f77d0517cbe03d2ceeab311acc3235e3442bca3a656ac19834d"
-    },
     {
       "label": "Canonical vision date discrepancy",
       "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Ivory Scroll Cap Vision.md",

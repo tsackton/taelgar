@@ -9,7 +9,7 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-transcript.md",
     "sha256": "6bcaa0fb42f5eca243f5e1fde1ea17952cea879ad85cb3744e293e925b2f4f17"
   },
-  "dateAssessment": "Working current-play date: April 24, 1748, from YAML, with the spoken 24th at t02. The late-afternoon opening and evening centaur meeting follow the dated Session 17/18 records and their continuing temple handoff. The transcript’s opening recap instead says the arrival was earlier this morning (t01); that discrepancy remains unresolved. The prior travel provides an approximate April 17–24 window for retrospectively resolved training (t03), without adding a week after the meeting. The transcript-only YAML assessment remains compatible because the start-boundary convention is unresolved.",
+  "dateAssessment": "The DM gives the 24th in t02. YAML supplies April and 1748. The opening recalls that morning’s arrival. Session 19 (u0316–u0327) dates the conversations with Candrosa and Havdar to the afternoon. The group approaches the centaurs in daylight, and Kenzo places his private visit later in the evening. Wellby’s training belongs to the preceding travel week covered in Session 17. Its inclusion leaves the start of the full interval open.",
   "watches": [
     {
       "day": "During April 17–24, 1748",
@@ -30,12 +30,24 @@
       "day": "April 24, 1748",
       "startDate": "1748-04-24",
       "endDate": "1748-04-24",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The DM recalls reaching Karawa earlier that morning after a week on the plains.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Arrival recalled at the temple"
+    },
+    {
+      "day": "April 24, 1748",
+      "startDate": "1748-04-24",
+      "endDate": "1748-04-24",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "inferred",
-      "summary": "Recorded late-afternoon temple meeting; the spoken 24th anchors the date. The morning-arrival recap remains disputed.",
+      "summary": "Session 19 recalls spending most of the afternoon with Candrosa, followed by a brief conversation with Havdar.",
       "markers": [
-        "t01",
         "t02",
         "t06"
       ]
@@ -44,18 +56,12 @@
       "day": "April 24, 1748",
       "startDate": "1748-04-24",
       "endDate": "1748-04-24",
-      "startWatch": "dusk",
-      "endWatch": "dusk",
-      "basis": "inferred",
-      "summary": "The dated Session 18 record places the centaur meeting in evening; the approach itself establishes only daylight.",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Seeker wears his goggles on the bright approach to the centaur camp. The precise daylight watch is open.",
       "markers": [
         "t04"
-      ],
-      "sourceRanges": [
-        [
-          "u1449",
-          "u1451"
-        ]
       ]
     },
     {
@@ -74,19 +80,19 @@
   ],
   "contextSources": [
     {
-      "label": "Session 17 dated timeline",
-      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 17 (DuFr).md",
-      "sha256": "5d55c9f5e8cdfb80351d7eaf46ea4be179134c3508b43ffc7cdcdb3dfb0bca00"
-    },
-    {
-      "label": "Session 18 dated timeline",
-      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 18 (DuFr).md",
-      "sha256": "287d0c0f7daa282a097afe14edeea55193b10441fc395485c793a1f0d76be16b"
-    },
-    {
       "label": "Session 17 handoff and earlier travel (u1186–u1228, u2351–u2393)",
       "path": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
       "sha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69"
+    },
+    {
+      "label": "Session 19 recollection of the afternoon in Karawa (u0316–u0327)",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
+      "sha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2"
+    },
+    {
+      "label": "Session 17 arrival watch for comparison",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 17 (DuFr).md",
+      "sha256": "5d55c9f5e8cdfb80351d7eaf46ea4be179134c3508b43ffc7cdcdb3dfb0bca00"
     }
   ]
 }

@@ -7,7 +7,7 @@
 
 ## In-world time
 
-Working dates follow the YAML span, May 2–5, 1748. The transcript names May and supports three overnight transitions, conditional on the YAML start. The existing Session 20 timeline supports the final early-evening arrival estimate; it is not independent verification of the absolute dates. The party is physically on the cliff above the camp, although that timeline calls the arrival “at Havdar’s camp.”
+Working dates follow the YAML span, May 2–5, 1748. The transcript names May and supports three overnight transitions from that starting date. On the final approach, the DM’s dinnertime forecast and the narrated midday stop support an estimated dusk watch. The party reaches the cliff overlooking Havdar’s camp.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Working dates follow the YAML span, May 2–5, 1748. The transcript names May an
 | May 4, 1748 | Dusk | inferred | Another quiet travel day passes; evening is inferred at its endpoint near Havdar’s camp. | t08 |
 | May 5, 1748 | Morning | inferred | The next travel day begins; scorpion avoidance precedes the hottest-part-of-day rest. | t09 |
 | May 5, 1748 | Midday | inferred | The party rests during the hottest part of the final travel day. | t10 |
-| May 5, 1748 | Dusk | inferred | The cliff scramble takes seconds; the dated Session 20 timeline places the battle approach in early evening. | t11 |
+| May 5, 1748 | Dusk | inferred | The DM predicts arrival around dinner with the usual lunch stop. The party takes the break and scrambles up the cliff in seconds. | t11 |
 
 ## Locations
 
@@ -82,4 +82,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:27** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-020-transcript.md) · [Time Markers](dunmari-frontier-020-time-markers.json) · [Location Markers](dunmari-frontier-020-location-markers.json) · [Entity Map](dunmari-frontier-020-entity-map.json) · [Interactions](dunmari-frontier-020-interactions.json) · [Combat](dunmari-frontier-020-combat.json) · [Segments](dunmari-frontier-020-segments.json) · [Watch data](dunmari-frontier-020-time-watches.json) · [Session 20 dated timeline, especially May 5 early-evening arrival](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2020%20%28DuFr%29.md)
+Sources · [Transcript](dunmari-frontier-020-transcript.md) · [Time Markers](dunmari-frontier-020-time-markers.json) · [Location Markers](dunmari-frontier-020-location-markers.json) · [Entity Map](dunmari-frontier-020-entity-map.json) · [Interactions](dunmari-frontier-020-interactions.json) · [Combat](dunmari-frontier-020-combat.json) · [Segments](dunmari-frontier-020-segments.json) · [Watch data](dunmari-frontier-020-time-watches.json)

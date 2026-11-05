@@ -9,7 +9,7 @@
 
 ## In-world time
 
-Working dates use YAML’s DR 1748 year with the transcript’s April 17 sunrise, April 23 camp and April 24 greeting. The opening overnight, six-day montage and next dawn account for all eight boundaries from April 16–24. The mirror’s historical scenes are undated and do not extend this span. The April 24 arrival watch is an estimate from the half-day approach and forecast of arriving around lunch, not a stated clock. The older session timeline review supports the same date sequence; the canonical Ivory Scroll Cap Vision note instead says April 22 and is flagged for review.
+Working dates use YAML’s DR 1748 year with the transcript’s April 17 sunrise, April 23 camp and April 24 greeting. The opening overnight, six-day montage and next dawn account for all eight boundaries from April 16–24. The mirror’s historical scenes are undated and do not extend this span. The April 24 arrival watch is an estimate from the half-day approach and forecast of arriving around lunch, not a stated clock. The April 22 date on the Ivory Scroll Cap Vision note is flagged for comparison with the spoken April 23 camp date.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
@@ -78,4 +78,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:22** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-017-transcript.md) · [Time Markers](dunmari-frontier-017-time-markers.json) · [Location Markers](dunmari-frontier-017-location-markers.json) · [Entity Map](dunmari-frontier-017-entity-map.json) · [Interactions](dunmari-frontier-017-interactions.json) · [Combat](dunmari-frontier-017-combat.json) · [Segments](dunmari-frontier-017-segments.json) · [Watch data](dunmari-frontier-017-time-watches.json) · [Prior session timeline review](dunmari-frontier-017-timeline-review.json) · [Canonical vision date discrepancy](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Mirror%20Visions/Ivory%20Scroll%20Cap%20Vision.md)
+Sources · [Transcript](dunmari-frontier-017-transcript.md) · [Time Markers](dunmari-frontier-017-time-markers.json) · [Location Markers](dunmari-frontier-017-location-markers.json) · [Entity Map](dunmari-frontier-017-entity-map.json) · [Interactions](dunmari-frontier-017-interactions.json) · [Combat](dunmari-frontier-017-combat.json) · [Segments](dunmari-frontier-017-segments.json) · [Watch data](dunmari-frontier-017-time-watches.json) · [Canonical vision date discrepancy](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Mirror%20Visions/Ivory%20Scroll%20Cap%20Vision.md)
