@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-time-markers.json",
+    "sha256": "83554864353172588e893efc8b71a605269e849cf6b5062c2d136bad2163dccc"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-transcript.md",
+    "sha256": "f71f3abaa930b9d72c00ca7ea15e10dd9f37126626cbd4681da1ce859f88b991"
+  },
+  "dateAssessment": "Working dates are April 15–16, 1748 DR from the session YAML, compatible with the night-to-dawn transition and Vola’s one-day absence report. The dated Session 16 timeline agrees but does not independently verify those absolute dates. Opening dusk is a rough carry-forward from Session 15’s late-evening timeline and the uninterrupted Hralgar conversation (Session 15 u2292–u2298; Session 16 u0050–u0058). Short searches overlap where stated; the expired invisibility and Vola’s whole absence are not added again. The mirror’s historical scenes do not advance the adventure clock. The approach conversation is played retrospectively before the morning camp reunion. No completed closing short rest is established in this transcript.",
+  "watches": [
+    {
+      "day": "April 15, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Session 15’s late evening carries into the tower conversation and short, partly overlapping searches.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1748-04-15",
+      "endDate": "1748-04-15",
+      "sourceRanges": [
+        [
+          "u0050",
+          "u0058"
+        ],
+        [
+          "u0130",
+          "u0137"
+        ]
+      ]
+    },
+    {
+      "day": "April 15–16, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Escape begins at night; uncertain passage through the storm ends at directly narrated dawn.",
+      "markers": [
+        "t12",
+        "t13"
+      ],
+      "startDate": "1748-04-15",
+      "endDate": "1748-04-16"
+    },
+    {
+      "day": "April 16, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Retrospective approach conversation precedes the breakfast-time reunion with Vola.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-04-16",
+      "endDate": "1748-04-16",
+      "scope": "Approach flashback"
+    },
+    {
+      "day": "April 16, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Vola is packing breakfast; the departure follows while the morning is still young.",
+      "markers": [
+        "t14",
+        "t16",
+        "t17"
+      ],
+      "startDate": "1748-04-16",
+      "endDate": "1748-04-16"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 15 dated timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 15 (DuFr).md",
+      "sha256": "b7de5acfd8eca15ad4fe964139cc738425ad8fb4c5e90f3c6c111bb7838edfaa"
+    },
+    {
+      "label": "Session 15 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-transcript.md",
+      "sha256": "6a243e0974b88cff1733dbc5ba095db43a04c714235c991c4c31638db0c13aea"
+    },
+    {
+      "label": "Session 16 dated timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr).md",
+      "sha256": "c63079ba715014d182fcb7724fb01914c381ad1204a933b58e060dec4a5ed724"
+    },
+    {
+      "label": "Retained human inventory clarification",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-review-decisions.json",
+      "sha256": "a6d9d516767541bbde83378c06dc68ffbc33b8035941cc1aa28aecc821db8a6e"
+    }
+  ]
+}

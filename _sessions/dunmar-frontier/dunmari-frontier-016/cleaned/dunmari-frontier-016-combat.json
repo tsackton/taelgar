@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-016",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+    "sessionYamlSha256": "2a9067200fff07421eec99a5c19c4483eb2cd263a2eb52f52ae917a34ecf5f75",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-transcript.md",
+    "transcriptSha256": "f71f3abaa930b9d72c00ca7ea15e10dd9f37126626cbd4681da1ce859f88b991",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-segments.json",
+      "sha256": "c1c6be2b030e43ed8e838d38810ec91836df4cbc8d2347ec03d6bad07d3cabf5",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Steam and dust creatures at the tower pool",
+      "note": "The table alternates enemy actions and one turn per participating PC, allowing flexible order within the party turn. Kenzo continues meditating upstairs and does not join the fight.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Steam creatures",
+              "kind": "turn",
+              "summary": "Three creatures blast Seeker and Riswynn with scalding breath, requiring three Dexterity saves each. Seeker takes 7 fire damage and Riswynn 5. Seeker makes three Constitution saves and loses concentration on Heat Metal.",
+              "evidence": [
+                {
+                  "startUid": "u1262",
+                  "endUid": "u1286"
+                }
+              ],
+              "note": "Individual Dexterity-save results are not spoken; the aggregate damage is resolved."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Disengages and retreats around the corner into the tower without opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1296",
+                  "endUid": "u1305"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Closes and hits a steam creature with his sword for 9 damage, using Green-Flame Blade instead of the proposed Booming Blade. The additional 4 fire damage has no effect as the flames merge into the steam.",
+              "evidence": [
+                {
+                  "startUid": "u1308",
+                  "endUid": "u1324"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots a steam creature with advantage/Steady Aim and Sneak Attack for 15 damage, bursting it. Its explosion deals 3 fire damage each to Riswynn and Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1326",
+                  "endUid": "u1345"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Disengages and retreats five squares, then casts Spiritual Weapon as a bonus action. Its hammer hits a steam creature and staggers it. The DM retracts the opportunity attacks, including a critical hit for 5 fire and 4 slashing damage, after correcting the action economy.",
+              "evidence": [
+                {
+                  "startUid": "u1346",
+                  "endUid": "u1383"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Water snake guardian",
+              "kind": "turn",
+              "summary": "Hisses beyond reach, drives the steam creatures forward, and begins another effect in the pool.",
+              "evidence": [
+                {
+                  "startUid": "u1384",
+                  "endUid": "u1388"
+                }
+              ]
+            },
+            {
+              "actor": "Steam creatures",
+              "kind": "turn",
+              "summary": "Two advance toward Delwath and the others around the corner; both claw attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u1384",
+                  "endUid": "u1388"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Declares a reaction after the enemy attacks; its specific effect is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1389",
+                  "endUid": "u1391"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits a steam creature with Booming Blade for 7 damage; the DM confirms another 1d8 if it moves. No movement-trigger damage is subsequently stated.",
+              "evidence": [
+                {
+                  "startUid": "u1392",
+                  "endUid": "u1400"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the uninjured steam creature for 16 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1408",
+                  "endUid": "u1411"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fires his crossbow at the nearby creature and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1412",
+                  "endUid": "u1415"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Her first attack misses. Spiritual Weapon then hits and kills the steam creature closest to the group; Delwath makes a Dexterity save against its explosion and takes 1 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u1418",
+                  "endUid": "u1441"
+                }
+              ],
+              "note": "The first attack’s weapon and the Dexterity save result are not explicitly identified."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Water snake guardian",
+              "kind": "turn",
+              "summary": "Three wind-and-dust creatures coalesce near the pool and rush the party; the guardian subsequently sinks back into the water.",
+              "evidence": [
+                {
+                  "startUid": "u1444",
+                  "endUid": "u1482"
+                },
+                {
+                  "startUid": "u1518",
+                  "endUid": "u1520"
+                }
+              ]
+            },
+            {
+              "actor": "Dust creature",
+              "kind": "turn",
+              "summary": "Exhales blinding dust, requiring Dexterity saves from Riswynn, Seeker and Delwath; Delwath is blinded. A dust creature’s claw attack on him misses despite his inability to see.",
+              "evidence": [
+                {
+                  "startUid": "u1479",
+                  "endUid": "u1495"
+                }
+              ],
+              "note": "The transcript does not separately announce Riswynn’s or Seeker’s save results."
+            },
+            {
+              "actor": "Steam creature",
+              "kind": "turn",
+              "summary": "The wounded surviving steam creature claws blinded Delwath for 3 slashing and 1 fire damage. The DM allows a fresh save at the end of his turn to clear the dust.",
+              "evidence": [
+                {
+                  "startUid": "u1491",
+                  "endUid": "u1495"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Kills the last steam creature. Delwath succeeds on a Dexterity save without disadvantage and avoids the explosion; two dust creatures also dodge it. Her Spiritual Weapon attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u1500",
+                  "endUid": "u1517"
+                }
+              ],
+              "note": "The attack that kills the steam creature is not named."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the dust creature beside Delwath; the arrow hits and seriously wounds it. Damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1522",
+                  "endUid": "u1529"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons the proposed conjured broom and crossbow attack; puts on his own goggles, disengages, and retreats.",
+              "evidence": [
+                {
+                  "startUid": "u1530",
+                  "endUid": "u1565"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Disengages and retreats four squares, then succeeds on the new save and clears the blindness.",
+              "evidence": [
+                {
+                  "startUid": "u1571",
+                  "endUid": "u1581"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Dust creatures",
+              "kind": "turn",
+              "summary": "Advance on Riswynn and Wellby. Two attack Riswynn: one hits for 3 damage and one misses. The attack on Wellby also misses.",
+              "evidence": [
+                {
+                  "startUid": "u1577",
+                  "endUid": "u1581"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Hits with Shatterstorm for 6 damage. Her intended Spiritual Weapon follow-up is postponed by interface trouble and has no recorded resolution on this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1584",
+                  "endUid": "u1605"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves up, hits and kills a dust creature. He succeeds on the Constitution save against its bursting dust and avoids effects.",
+              "evidence": [
+                {
+                  "startUid": "u1608",
+                  "endUid": "u1617"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and shoots a wounded dust creature, killing it. Riswynn succeeds on the Constitution save against its death burst.",
+              "evidence": [
+                {
+                  "startUid": "u1618",
+                  "endUid": "u1625"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Vicious Mockery on the remaining dust creature. It succeeds on its Wisdom save, negating the proposed 1 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1630",
+                  "endUid": "u1636"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Dust creature",
+              "kind": "turn",
+              "summary": "Claws at Riswynn and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1638",
+                  "endUid": "u1641"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Hits with Shatterstorm, leaving the creature alive, then kills it with Spiritual Weapon. It bursts into dust; the DM waives further rolling and narrates her clearing her eyes.",
+              "evidence": [
+                {
+                  "startUid": "u1642",
+                  "endUid": "u1655"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three steam and three dust creatures are defeated. The water guardian remains alive and agitated under the pool’s surface; the dislodged sphere remains nearby.",
+        "evidence": [
+          {
+            "startUid": "u1650",
+            "endUid": "u1655"
+          }
+        ]
+      }
+    }
+  ]
+}
