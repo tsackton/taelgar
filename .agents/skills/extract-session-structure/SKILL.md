@@ -26,7 +26,7 @@ For a comparison trial, use an explicitly separate output directory and fingerpr
 
 Read the complete transcript in source order, using manageable windows and respecting shared-UID turn groups. Before advancing each window:
 
-- Draft actual time assertion records, including separate repeated and correcting assertions, structured values when supported, and exact evidence. Do not reduce these to candidate pointers for a later full extraction pass.
+- Draft session-time records: evidence of time passing and dates/times anchoring session events, including downtime, travel, and scenes established out of chronological order. Apply the time skill's inclusion rule before preserving separate repeated and correcting assertions; unrelated history, time-like discussion, and hypothetical plans do not qualify. Include supported structured values and exact evidence. Do not reduce these to candidate pointers for a later full extraction pass.
 - Draft location markers and dictionary entries at the narrated scale. Keep journeys together when appropriate; repeated descriptions do not automatically create new markers.
 - Extend the segment classification, carrying open segments across reading windows. Classification boundaries are not scenes and do not control which other facts may be extracted.
 - Record entity candidates, identity-bearing occurrences, meaningful exclusions, and provisional importance. Defer final identity matching and whole-session importance until the full read is complete.
@@ -37,7 +37,7 @@ Temporary working notes can carry unresolved references, open exchanges, split-p
 
 ## Complete the dependent work
 
-After the shared read, resolve entity identities with vault evidence and finalize importance and exclusions. Preserve accepted human decisions. Finalize classification, time relationships and YAML assessment, and location references. Do not use YAML end dates to fill missing elapsed time.
+After the shared read, resolve entity identities with vault evidence and finalize importance and exclusions. Preserve accepted human decisions. Finalize classification, time relationships and YAML assessment, and location references. Assess session-time coverage regardless of narration order; retrospective session events are not automatically excluded. Do not use YAML end dates to fill missing elapsed time or label missing coverage a contradiction.
 
 After classification is finalized, perform the combat skill's **mandatory dedicated second pass**: reopen and read the original polished text of every labeled combat segment in full, even when a shared-read action draft exists. Use the classification's UID ranges as the worklist, not candidate action citations or keyword matches. Apply the combat format's detail and sequence checks while reconciling the draft, including enemy turns, saving throws, advantage/disadvantage, concrete benefits, and retrospectively corrected reactions. Adjacent source may settle boundaries. Do not substitute spot checks or a review of the draft JSON for this source pass. Preserve the continuous ordered-turn encounter and prioritize correct actions over inferred round placement.
 
@@ -48,6 +48,8 @@ The full combat-segment reread is required; other focused reads depend on the wo
 ## Verify and hand off
 
 Run each component's structural and source checks. Check references across files only where their schemas define a dependency: entities to interactions, classification to combat, and optional time links in location. All must share the same session and source revision. Do a substantive check of uncertain decisions and boundaries; validation does not establish semantic completeness or human review.
+
+Deliver the time skill's simple review table directly from its JSON markers alongside the time/date assessment; sharing the read does not remove that review surface.
 
 Use the owning validators without changing installed code. If a validator hard-codes ordinary output locations, an isolated trial harness may bind its in-memory bundle to the explicit trial path while preserving every other check. Disclose that adaptation; do not write experimental files to ordinary locations just to satisfy it.
 
