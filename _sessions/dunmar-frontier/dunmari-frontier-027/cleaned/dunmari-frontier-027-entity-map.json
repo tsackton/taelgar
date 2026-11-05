@@ -1,0 +1,1017 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "97d9f29c96df2a7427ccf8fe97f695d54c4abd4b682426eac49cb9cdd3c34d60",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "381636f8b9b33da9a63e585cd69cc8b84310cb52e18c95f1cc0e288a155f34e7",
+        "transcriptProcessing.artifacts.cleaned": "f77b7b8b9a6ef790b51555ac1c4f649f0773de425eb965556775adeae6483aa3"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Candrosa",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0385",
+            "endUid": "u0392"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0441",
+            "endUid": "u0614"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0635",
+            "endUid": "u0669"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Candrosa.md"
+    },
+    {
+      "id": "e002",
+      "label": "Cintra",
+      "kind": "npc",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0055",
+            "endUid": "u0071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0505",
+            "endUid": "u0569"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1598",
+            "endUid": "u1620"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1993",
+            "endUid": "u2009"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2219",
+            "endUid": "u2338"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Cintra.md"
+    },
+    {
+      "id": "e003",
+      "label": "Shakun",
+      "kind": "divine",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0474",
+            "endUid": "u0504"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0733",
+            "endUid": "u0775"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0827",
+            "endUid": "u0828"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0833",
+            "endUid": "u0875"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md",
+      "confidenceExplanation": "The inventory and match are clear; supporting importance depends on the party’s plausible but unconfirmed attribution of the mesa presence and blessing to Shakun."
+    },
+    {
+      "id": "e004",
+      "label": "Heart of Shakun",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0005",
+            "endUid": "u0018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0505",
+            "endUid": "u0537"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0580",
+            "endUid": "u0597"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1716",
+            "endUid": "u1737"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Heart of Shakun.md"
+    },
+    {
+      "id": "e005",
+      "label": "Shakun Mystai",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0279",
+            "endUid": "u0320"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0385",
+            "endUid": "u0392"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0538",
+            "endUid": "u0553"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Shakun Mystai.md"
+    },
+    {
+      "id": "e006",
+      "label": "Cintra’s daughter",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0055",
+            "endUid": "u0071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0538",
+            "endUid": "u0553"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2219",
+            "endUid": "u2223"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2312",
+            "endUid": "u2318"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Jumi.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e007",
+      "label": "Sonkar",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0025"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Sonkar.md"
+    },
+    {
+      "id": "e008",
+      "label": "Bhishma",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0117",
+            "endUid": "u0127"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0393",
+            "endUid": "u0395"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0763",
+            "endUid": "u0764"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1997",
+            "endUid": "u1998"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2442",
+            "endUid": "u2453"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+    },
+    {
+      "id": "e009",
+      "label": "Laka",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0393",
+            "endUid": "u0395"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0763",
+            "endUid": "u0764"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1997",
+            "endUid": "u1998"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md"
+    },
+    {
+      "id": "e010",
+      "label": "Tharandros",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0131",
+            "endUid": "u0148"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0570",
+            "endUid": "u0578"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Tharandros.md"
+    },
+    {
+      "id": "e011",
+      "label": "Havdar",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0131",
+            "endUid": "u0148"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Havdar.md"
+    },
+    {
+      "id": "e012",
+      "label": "Havdar’s army",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0131",
+            "endUid": "u0148"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Havdar's Warband.md"
+    },
+    {
+      "id": "e013",
+      "label": "Tharandros’s centaurs",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0131",
+            "endUid": "u0148"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The discussion refers to Tharandros’s specific potential allied force; no standalone group note was verified."
+    },
+    {
+      "id": "e014",
+      "label": "Grash",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0179",
+            "endUid": "u0179"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2357",
+            "endUid": "u2369"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Grash.md"
+    },
+    {
+      "id": "e015",
+      "label": "Baxter",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0778",
+            "endUid": "u0779"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1250",
+            "endUid": "u1256"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1274",
+            "endUid": "u1283"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md"
+    },
+    {
+      "id": "e016",
+      "label": "The familiar voice heard by Delwath",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0858",
+            "endUid": "u0863"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+      "identifiedLater": true,
+      "confidenceExplanation": "Delwath’s recurring patron voice matches Yezali; this brief appearance does not establish that Yezali speaks the separate fading-presence whisper."
+    },
+    {
+      "id": "e017",
+      "label": "Entamba",
+      "kind": "divine",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1497",
+            "endUid": "u1508"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1787",
+            "endUid": "u1808"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Entamba.md",
+      "names": [
+        "spirit of the mountain"
+      ]
+    },
+    {
+      "id": "e018",
+      "label": "Tall flying jailer",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2175",
+            "endUid": "u2182"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2219",
+            "endUid": "u2338"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Samerki.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e019",
+      "label": "Candrosa’s Sending scroll",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0635",
+            "endUid": "u0669"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e020",
+      "label": "Delwath’s summoned bow",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0350",
+            "endUid": "u0378"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Wellby supplies new origin-vision lore, qualifying this otherwise routine summoned weapon; no dedicated vault match was verified."
+    },
+    {
+      "id": "e021",
+      "label": "Vial of demon ichor from Raven’s Hold",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0337",
+            "endUid": "u0349"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular recovered substance is proposed for investigating its past; this is a mystery clue, but no examination occurs or dedicated note was verified."
+    },
+    {
+      "id": "e022",
+      "label": "Jailer’s small communication object",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2312",
+            "endUid": "u2318"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Its observed communication reveals outside coordination; its exact item identity remains unknown and no dedicated vault note was verified."
+    },
+    {
+      "id": "e023",
+      "label": "Rai",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1621",
+            "endUid": "u1641"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Rai.md"
+    },
+    {
+      "id": "e024",
+      "label": "Agata",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2351",
+            "endUid": "u2355"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "e025",
+      "label": "Ancient lantern in the initiation vision",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0026",
+            "endUid": "u0030"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The recap identifies a specific ancient lantern as a vision clue; it is not a current acquisition or examination and has no verified standalone note."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Silver raven",
+      "reason": "Routine use of an existing PC magic item for scouting; no new identity, acquisition, or original item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0223",
+            "endUid": "u0269"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1036",
+            "endUid": "u1071"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of the Past",
+      "reason": "Proposed routine use only; no examination is performed this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0337",
+            "endUid": "u0349"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Glass fragments",
+      "reason": "Passing recollection of an earlier examination, without new object-specific information.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0337",
+            "endUid": "u0349"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Gnolls, hyenas, skeleton archers, and stronger fleshy undead",
+      "reason": "Unindividualized defenders identified by creature and combat roles; no independently established person or enduring organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1043",
+            "endUid": "u1071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1283",
+            "endUid": "u1346"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Two dead acolytes and eight graves",
+      "reason": "Generic deceased members of the mapped Mystai; no independently identifiable person is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0019",
+            "endUid": "u0025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1614",
+            "endUid": "u1617"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Drikod’s bird familiar",
+      "reason": "Routine spell-created scout without an independent identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1531",
+            "endUid": "u1595"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delwath’s shadow double",
+      "reason": "A manifested PC ability and decoy, without independent personhood.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0864",
+            "endUid": "u0867"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2263",
+            "endUid": "u2276"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Special goggles and mushrooms",
+      "reason": "Routine equipment or consumable use; no new identity or original item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0783",
+            "endUid": "u0785"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1080",
+            "endUid": "u1081"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Speak with Dead, Tongues, and existing Sending scrolls",
+      "reason": "Inventory and spell discussion only; separate from the newly acquired scroll from Candrosa.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0670",
+            "endUid": "u0674"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kenzo’s Bhishma and Laka initiations",
+      "reason": "Kenzo names his divine initiations; the line does not independently identify or discuss two additional institutions. The deities are mapped.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1997",
+            "endUid": "u1998"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/Dunmari/Candrosa.md",
+    "People/Dunmari/Cintra.md",
+    "People/Dunmari/Jumi.md",
+    "People/Other Nonhumans/Samerki.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Sonkar.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md",
+    "Gods and Religions/Gods/Embodied Gods/Entamba.md",
+    "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+    "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
+    "People/Other Nonhumans/Tharandros.md",
+    "People/Dunmari/Havdar.md",
+    "People/Other Nonhumans/Grash.md",
+    "People/Fey/Agata.md",
+    "People/PCs/Great War/Rai.md",
+    "Things/Artifacts of Power/Heart of Shakun.md",
+    "Groups/Dunmari Mystery Cults/Shakun Mystai.md",
+    "Groups/Havdar's Warband.md",
+    "Groups/Dunmari Mystery Cults/Lakan Mystai.md",
+    "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Shakun’s Wellspring.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past.md",
+    "Campaigns/Dunmari Frontier Campaign/Dreams and Visions/The Shakun Mystai Initiation.md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 27 (DuFr).md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Soul Lantern.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Wayfarer's Bow.md"
+  ]
+}

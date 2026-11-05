@@ -1,0 +1,967 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-027",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+    "sessionYamlSha256": "5f9352d116e8a453eedffff69960044b1e8fccbc908cf7d2f08aa14193a5055a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-transcript.md",
+    "transcriptSha256": "381636f8b9b33da9a63e585cd69cc8b84310cb52e18c95f1cc0e288a155f34e7"
+  },
+  "places": {
+    "p01": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0087",
+          "quote": "DM: So where she was supposedly going was this, the Wellspring of Shakun, which is another sacred place. Like this whole mesa complex is, you get the impression, is kind of sacred to Shakun, and so the temple of Karawa and this oasis is on the northern end of the mesa. Though Shakun's Wellspring is on the southern end of the mesa, it's like a canyon with a grove and, um, and this is another like highly significant place where supposedly the connection to Shakun is particularly strong and Cintra's dreams, well, at least as Candrosa reported, Cintra had dreams saying basically, \"Take your daughter, and the heart here, and I can heal her.\""
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p02": {
+      "label": "Temple of Shakun",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0018",
+          "quote": "DM: So the sun has set, but the fires are burning bright on the plaza in front of the Temple of Shakun as you emerge from the darkness of the temple itself. A small crowd has gathered as the news of the shadow attacks and its consequences have spread and the funeral pyres are already being prepared. As the community of the Shakun Mystai gather, you can still faintly see the echoes of the web of power that stretches among them, thinking back to the events of the past 24 hours. Starting with the stories that Candrosa told: the Heart of Shakun, an artifact central to the magical defenses of the Dunmari. Cintra, the Supreme Oracle of the Mystai, one in whom the goddess herself seems to dwell, who had a young daughter who took sick and could not be cured by ordinary magic. Cintra's decision to take the Heart of Shakun south to Shakun's Wellspring beyond the edge of the mesa which dreams and visions had told would cure her daughter. The Mystai of Shakun traveling to find Cintra after her too-long absence, but none returning. Candrosa remaining silent out of doubt or fear, uncertainty about the consequences of breaking the secret bonds of the Mystai. And turning in the face of this challenge until the guilt and the burden were too much. And he spoke with you."
+        },
+        {
+          "startUid": "u0397",
+          "endUid": "u0397",
+          "quote": "DM: No, no, you're outside, so the Temple of Shakun itself sits on the edge of the cliff in front of this big open plaza. That's where the oasis is in the center, and so you're, you know, sitting or standing around some of the oasis."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0082",
+              "endUid": "u0087",
+              "quote": "DM: So where she was supposedly going was this, the Wellspring of Shakun, which is another sacred place. Like this whole mesa complex is, you get the impression, is kind of sacred to Shakun, and so the temple of Karawa and this oasis is on the northern end of the mesa. Though Shakun's Wellspring is on the southern end of the mesa, it's like a canyon with a grove and, um, and this is another like highly significant place where supposedly the connection to Shakun is particularly strong and Cintra's dreams, well, at least as Candrosa reported, Cintra had dreams saying basically, \"Take your daughter, and the heart here, and I can heal her.\""
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Oasis plaza before the temple",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0397",
+          "endUid": "u0397",
+          "quote": "DM: No, no, you're outside, so the Temple of Shakun itself sits on the edge of the cliff in front of this big open plaza. That's where the oasis is in the center, and so you're, you know, sitting or standing around some of the oasis."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0082",
+              "endUid": "u0087",
+              "quote": "DM: So where she was supposedly going was this, the Wellspring of Shakun, which is another sacred place. Like this whole mesa complex is, you get the impression, is kind of sacred to Shakun, and so the temple of Karawa and this oasis is on the northern end of the mesa. Though Shakun's Wellspring is on the southern end of the mesa, it's like a canyon with a grove and, um, and this is another like highly significant place where supposedly the connection to Shakun is particularly strong and Cintra's dreams, well, at least as Candrosa reported, Cintra had dreams saying basically, \"Take your daughter, and the heart here, and I can heal her.\""
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0397",
+              "endUid": "u0397",
+              "quote": "DM: No, no, you're outside, so the Temple of Shakun itself sits on the edge of the cliff in front of this big open plaza. That's where the oasis is in the center, and so you're, you know, sitting or standing around some of the oasis."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Temple conference room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0445",
+          "quote": "DM: Yeah okay. So after breakfast, you find Candrosa. He is sitting in, you know, sort of on the—the little conference room in the—in the temple. Looks up as you approach."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0441",
+              "endUid": "u0445",
+              "quote": "DM: Yeah okay. So after breakfast, you find Candrosa. He is sitting in, you know, sort of on the—the little conference room in the—in the temple. Looks up as you approach."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Red Mesa",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0474",
+          "endUid": "u0486",
+          "quote": "DM: \"I can tell you of the Wellspring. I've been there four times. It is a it is a, it is a place of special beauty. If you travel south along the top of the Red Mesa, you come to the far southern end. And look for a grove of stone. As if there were trees growing out of the desert made of stone, of the—of the mesa. And in the center of that grove, a stairway cut into a narrow canyon which lead south. The sky hardly visible as you pass through, and yet the thin translucent colors of the sun reflect the—reflect the light and change in beautiful, ever-changing ways as you walk through this corridor."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md"
+    },
+    "p06": {
+      "label": "First mesa camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0715",
+          "endUid": "u0717",
+          "quote": "DM: Same on your second day you wake up and you see you know there's been a bit of a collapse almost forming a semi circular wall around the side of of your camp providing some shade and protection. And as you set out again like the the desert itself seems to clear itself out to provide smooth travel for your journey alone."
+        },
+        {
+          "startUid": "u0726",
+          "endUid": "u0732",
+          "quote": "DM: Yeah, so I, you know, as you travel kind of on this, the morning of the second day, it's unnaturally quiet up here. You know deserts are in this part of the day, are usually quiet, but this kind of rocky desert shouldn't be that quiet in, you know, dusk and dawn, right, and you notice this particularly, Drikod, as you're sort of packing up the morning of your first night camping, so the morning of your second day. There's not the sort of chirping of of crickets or the the you know, the song of a cactus wren or something that you'd expect kind of in this terrain. It seems just very quiet, and what you do hear sounds like rocks creaking like the ground shifting not animals."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0708",
+              "endUid": "u0714",
+              "quote": "DM: So you head across the mesa. Now, the mesa itself is crumbling, broken.\n\nDM: It seems like the rocks are eroding around you, but somehow your path always remains clear, like there will be a giant crevasse that opens up [garbled], or you know sand and rock start a small rockslide 100 feet behind you. But through your entire journey, like, for the first first day of travel on top of the mesa, hot tiring day in the sun, trying to stick to the shadows as much as he can, despite the fact that the mesa is sort of crumbling around you, it never seems to affect you."
+            },
+            {
+              "startUid": "u0715",
+              "endUid": "u0717",
+              "quote": "DM: Same on your second day you wake up and you see you know there's been a bit of a collapse almost forming a semi circular wall around the side of of your camp providing some shade and protection. And as you set out again like the the desert itself seems to clear itself out to provide smooth travel for your journey alone."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Second mesa camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0830",
+          "endUid": "u0840",
+          "quote": "DM: As the day continues. Now you're getting to within about five miles, 10, five, 10 miles of the southern edge of the mesa, where presumably this stone formation is, the terrain itself is a lot more, it's just like shattered rock everywhere. It's like except for your path, it's all just like difficult rubble and it would be hard to travel through.\n\nDM: And as you settle in for the night—Drikod, we'll come to your—I'm going to set us up for a short break here, and then we'll come to your report of the Raven after the break as you settle in for the night um. You you sort of feel this—\n\nDM: It's almost as if somebody sits down—somebody you can't quite see sits down at your campsite with you. And you know each of you kind of feels a bit of a, of a different sense of this presence, um, Wellby."
+        },
+        {
+          "startUid": "u1036",
+          "endUid": "u1042",
+          "quote": "DM: Okay, so. As the morning comes, about 10—you're about 10 miles from the southern edge of the—of the mesa.\n\nDM: And I guess this would actually be in the middle of the night, but we'll just say it's in the morning for narrative purposes. I'm—the silver raven comes flying back and whispers to Drikod, or says to all of you, and what the raven communicates as it flew over the southern edge of the mesa is that there is indeed a circle of stone trees."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0818",
+              "endUid": "u0821",
+              "quote": "DM: Moving again southward again on the mesa and and, as you travel south, you—you almost get the sense that there's something following you. Nothing you can see, and around noon you send your raven off, Drikod, right? I'm—"
+            },
+            {
+              "startUid": "u0830",
+              "endUid": "u0840",
+              "quote": "DM: As the day continues. Now you're getting to within about five miles, 10, five, 10 miles of the southern edge of the mesa, where presumably this stone formation is, the terrain itself is a lot more, it's just like shattered rock everywhere. It's like except for your path, it's all just like difficult rubble and it would be hard to travel through.\n\nDM: And as you settle in for the night—Drikod, we'll come to your—I'm going to set us up for a short break here, and then we'll come to your report of the Raven after the break as you settle in for the night um. You you sort of feel this—\n\nDM: It's almost as if somebody sits down—somebody you can't quite see sits down at your campsite with you. And you know each of you kind of feels a bit of a, of a different sense of this presence, um, Wellby."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Scouting stop one mile north of the stone trees",
+      "kind": "stopping place",
+      "evidence": [
+        {
+          "startUid": "u1242",
+          "endUid": "u1244",
+          "quote": "DM: And you pause about a mile north of this circle. Now, the circle of stone trees about a mile distant is obvious, if small, on the—\n\nUnknown: Horizon.\n\nDM: What."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1036",
+              "endUid": "u1042",
+              "quote": "DM: Okay, so. As the morning comes, about 10—you're about 10 miles from the southern edge of the—of the mesa.\n\nDM: And I guess this would actually be in the middle of the night, but we'll just say it's in the morning for narrative purposes. I'm—the silver raven comes flying back and whispers to Drikod, or says to all of you, and what the raven communicates as it flew over the southern edge of the mesa is that there is indeed a circle of stone trees."
+            },
+            {
+              "startUid": "u1221",
+              "endUid": "u1244",
+              "quote": "DM: So, so one hour get you like three to four miles, so I guess—so you go, you just travel normally the first half of the distance. And then, so, so everybody make, make make a Stealth check.\n\nSeeker: Can you guys all right.\n\nDM: Plus 10 from Drikod's, though.\n\nSeeker: With what, sorry?\n\nDM: 10.\n\nDelwath: All right, would you say something 10?\n\nDM: Plus 10.\n\nDrikod: Years from now.\n\nDM: Okay, from Drikod's spell.\n\nDM: Yeah, so you travel, the first half of the distance is kind of uneventful, but as you get close enough that you can see this sort of—off in the distance, you can see the circle of the stone trees and now start to get a little nervous that something might see you moving. Drikod casts a spell and, um. It's almost like the desert itself kind of rises up around you so that does like—\n\nDM: It's not that there's like boulders moving to give you cover or something, but as you're, I mean, the terrain is pretty rubbly, so there is cover that you can move through. And as you're navigating, every time you go into like this boulder terrain or something, the shadows just kind of wrap around a little bit and just make it really hard to see you. And so you travel, let's see, yeah, everybody with a plus 10, everybody rolled quite well, um.\n\nKenzo: 32 is the stealthiest Kenzo.\n\nUnknown: Ever in his entire, yeah.\n\nDM: So it's just like nobody can see Kenzo.\n\nDM: And you pause about a mile north of this circle. Now, the circle of stone trees about a mile distant is obvious, if small, on the—\n\nUnknown: Horizon.\n\nDM: What."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Grove of stone trees",
+      "kind": "stone formation",
+      "evidence": [
+        {
+          "startUid": "u0474",
+          "endUid": "u0486",
+          "quote": "DM: \"I can tell you of the Wellspring. I've been there four times. It is a it is a, it is a place of special beauty. If you travel south along the top of the Red Mesa, you come to the far southern end. And look for a grove of stone. As if there were trees growing out of the desert made of stone, of the—of the mesa. And in the center of that grove, a stairway cut into a narrow canyon which lead south. The sky hardly visible as you pass through, and yet the thin translucent colors of the sun reflect the—reflect the light and change in beautiful, ever-changing ways as you walk through this corridor."
+        },
+        {
+          "startUid": "u1043",
+          "endUid": "u1071",
+          "quote": "DM: And around the circle of stone trees lazing around are maybe 15 skeletons, a mix of skeletons and what look like vicious-looking wild dogs and a few creatures that look like almost like humanoid hyenas with nasty looking long bows and many arrows.\n\nKenzo: Where's this, Tim?\n\nDM: Around the stone trees.\n\nDelwath: I mean 15 skeletons?\n\nDM: Around 15 creatures total. Best count it could do.\n\nSeeker: I can shoot out, so, so—\n\nDM: 10 miles south, you—\n\nWellby: Any like good choke points between here and there, where we wouldn't have 15 all around us at once?\n\nDM: It's pretty open terrain. This this like southern edge is—I mean, the whole mesa has been pretty open in the sense that there's not a lot of, like, it's basically just the flat top of a mesa. It's just it's just all sort of difficult to pass through as there's sort of crumbled rocks and sort of these crevasses that open but there's not there's not a lot the terrain doesn't include much in the way of like canyon walls or choke points.\n\nKenzo: Other than 15 skeletons what other than the hyenas?\n\nDM: And stuff. It's like 15 ish creatures that are a mix of skeletons humanoid hyena like creature creatures with bows and arrows. Some creatures that look sort of like withered, almost like dried-out bodies of of like these humanoid creatures, but still moving somehow, a few vicious wild dogs of some kind.\n\nSeeker: And what does this tell us about what's inside the grove of trees? Maybe nothing. But its interior is hidden from the air by the trees, we've learned.\n\nDM: Yes."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0474",
+              "endUid": "u0486",
+              "quote": "DM: \"I can tell you of the Wellspring. I've been there four times. It is a it is a, it is a place of special beauty. If you travel south along the top of the Red Mesa, you come to the far southern end. And look for a grove of stone. As if there were trees growing out of the desert made of stone, of the—of the mesa. And in the center of that grove, a stairway cut into a narrow canyon which lead south. The sky hardly visible as you pass through, and yet the thin translucent colors of the sun reflect the—reflect the light and change in beautiful, ever-changing ways as you walk through this corridor."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Narrow slot canyon below the stairs",
+      "kind": "canyon",
+      "evidence": [
+        {
+          "startUid": "u0474",
+          "endUid": "u0494",
+          "quote": "DM: \"I can tell you of the Wellspring. I've been there four times. It is a it is a, it is a place of special beauty. If you travel south along the top of the Red Mesa, you come to the far southern end. And look for a grove of stone. As if there were trees growing out of the desert made of stone, of the—of the mesa. And in the center of that grove, a stairway cut into a narrow canyon which lead south. The sky hardly visible as you pass through, and yet the thin translucent colors of the sun reflect the—reflect the light and change in beautiful, ever-changing ways as you walk through this corridor.\n\nDM: And this narrow slot canyon opens up into a great bowl surrounded on all sides by high cliffs. And the grove itself: old gnarled trees that have no business growing in such a dry place. And you wait and pray, and as the sun sets, the walls of the canyon light up in flame and color and water begins to appear in the center of the grove. Calm, clear, refreshing, till the sun rises again and the water turns to dust as the flames light the other side of this canyon wall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0474",
+              "endUid": "u0486",
+              "quote": "DM: \"I can tell you of the Wellspring. I've been there four times. It is a it is a, it is a place of special beauty. If you travel south along the top of the Red Mesa, you come to the far southern end. And look for a grove of stone. As if there were trees growing out of the desert made of stone, of the—of the mesa. And in the center of that grove, a stairway cut into a narrow canyon which lead south. The sky hardly visible as you pass through, and yet the thin translucent colors of the sun reflect the—reflect the light and change in beautiful, ever-changing ways as you walk through this corridor."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0487",
+              "endUid": "u0494",
+              "quote": "DM: And this narrow slot canyon opens up into a great bowl surrounded on all sides by high cliffs. And the grove itself: old gnarled trees that have no business growing in such a dry place. And you wait and pray, and as the sun sets, the walls of the canyon light up in flame and color and water begins to appear in the center of the grove. Calm, clear, refreshing, till the sun rises again and the water turns to dust as the flames light the other side of this canyon wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Shakun’s Wellspring",
+      "kind": "sacred canyon",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0087",
+          "quote": "DM: So where she was supposedly going was this, the Wellspring of Shakun, which is another sacred place. Like this whole mesa complex is, you get the impression, is kind of sacred to Shakun, and so the temple of Karawa and this oasis is on the northern end of the mesa. Though Shakun's Wellspring is on the southern end of the mesa, it's like a canyon with a grove and, um, and this is another like highly significant place where supposedly the connection to Shakun is particularly strong and Cintra's dreams, well, at least as Candrosa reported, Cintra had dreams saying basically, \"Take your daughter, and the heart here, and I can heal her.\""
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0496",
+          "quote": "DM: And this narrow slot canyon opens up into a great bowl surrounded on all sides by high cliffs. And the grove itself: old gnarled trees that have no business growing in such a dry place. And you wait and pray, and as the sun sets, the walls of the canyon light up in flame and color and water begins to appear in the center of the grove. Calm, clear, refreshing, till the sun rises again and the water turns to dust as the flames light the other side of this canyon wall.\n\nDM: It is a place of prayer and meditation, and a place, it is said, where Shakun is close.\""
+        },
+        {
+          "startUid": "u1593",
+          "endUid": "u1599",
+          "quote": "DM: So, so, but it takes you a little while because you're so—it's about an hour and a half of flying until you, until you see stretching out below you this bowl shaped circle in the in the desert that just kind of opens up in the middle of nowhere. That it's probably five 600 feet below the surface of the desert, these are these are deep.\n\nUnknown: Cliffs.\n\nDM: And—\n\nDM: What you see immediately when you, when you look at it is the is the grove of this like circle in the center of this opening, a grove of these gnarled ancient trees that are around an open, dusty but empty pit."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Shakun’s Wellspring.md",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0018",
+              "quote": "Cintra's decision to take the Heart of Shakun south to Shakun's Wellspring beyond the edge of the mesa which dreams and visions had told would cure her daughter."
+            },
+            {
+              "startUid": "u0082",
+              "endUid": "u0087",
+              "quote": "DM: So where she was supposedly going was this, the Wellspring of Shakun, which is another sacred place. Like this whole mesa complex is, you get the impression, is kind of sacred to Shakun, and so the temple of Karawa and this oasis is on the northern end of the mesa. Though Shakun's Wellspring is on the southern end of the mesa, it's like a canyon with a grove and, um, and this is another like highly significant place where supposedly the connection to Shakun is particularly strong and Cintra's dreams, well, at least as Candrosa reported, Cintra had dreams saying basically, \"Take your daughter, and the heart here, and I can heal her.\""
+            }
+          ],
+          "note": "The Wellspring is described both as beyond the mesa edge and at its southern end; retain the regional setting without asserting a precise boundary."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Canyon rim",
+      "kind": "cliff rim",
+      "evidence": [
+        {
+          "startUid": "u1883",
+          "endUid": "u1891",
+          "quote": "DM: So creeping along slowly but protected by the shadows, and with Wellby's desert experience, plus the bird to lead you, or the path that you learned from the bird to lead you, it takes you about an hour creeping through the desert terrain to get to, at about 5:30, to get to the rim of this canyon, and it's, I mean.\n\nDM: Drikod described it to you, but it's definitely more impressive in person, it's like—it almost looks like, I mean, it's like a sheer circle. This almost does not look like a natural canyon. The walls themselves are already starting—of the canyon, are starting to pick up this red glow as the sun is now pretty low in the sky, and you're starting to see, it's not quite the golden hour yet, but you're starting to get this like almost as if the wall itself is glowing from within in response to the sun.\n\nDM: And you can see now that, as you sort of creep to the top edge and are peering down, that the woman who before was in prayer is now, um, cooking something. Seems to be making dinner still alone."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1883",
+              "endUid": "u1891",
+              "quote": "DM: So creeping along slowly but protected by the shadows, and with Wellby's desert experience, plus the bird to lead you, or the path that you learned from the bird to lead you, it takes you about an hour creeping through the desert terrain to get to, at about 5:30, to get to the rim of this canyon, and it's, I mean.\n\nDM: Drikod described it to you, but it's definitely more impressive in person, it's like—it almost looks like, I mean, it's like a sheer circle. This almost does not look like a natural canyon. The walls themselves are already starting—of the canyon, are starting to pick up this red glow as the sun is now pretty low in the sky, and you're starting to see, it's not quite the golden hour yet, but you're starting to get this like almost as if the wall itself is glowing from within in response to the sun.\n\nDM: And you can see now that, as you sort of creep to the top edge and are peering down, that the woman who before was in prayer is now, um, cooking something. Seems to be making dinner still alone."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Canyon cliff face",
+      "kind": "cliff",
+      "evidence": [
+        {
+          "startUid": "u1918",
+          "endUid": "u1933",
+          "quote": "DM: Okay, so Drikod's starting to walk down the cliff. Wellby is flying down.\n\nKenzo: No, Kenzo, Kenzo, oh.\n\nDM: Sorry, Kenzo is flying down. Everybody else is still at the top.\n\nDelwath: Yep and.\n\nWellby: Can I just like climb on your back, but?\n\nKenzo: I was just gonna ask me.\n\nDrikod: Totally yeah I mean I'm not strong but I'm also eight feet tall.\n\nDM: So yeah you can totally climb on. Yeah, you're, you're like, like that.\n\nKenzo: I mean yeah sweet.\n\nDM: He can totally carry you.\n\nDrikod: Yeah, hop on my back as I leisurely walk down the mountain, basically, but the cliff with Spider Climb.\n\nWellby: To the backpack but. Yeah, but I'm going to climb in the backpack and like cinch it around my waist."
+        },
+        {
+          "startUid": "u2003",
+          "endUid": "u2004",
+          "quote": "DM: Yeah, we're about two thirds—\n\nDelwath: Of the way down. Seeker, you now can fly. Okay, Kenzo, you cannot fly."
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2082",
+          "quote": "DM: Drikod has turned around, is now, I would say, about 200 feet from the ground, not quite the halfway point of the cliff. Seeker is flying past Drikod."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1883",
+              "endUid": "u1888",
+              "quote": "DM: So creeping along slowly but protected by the shadows, and with Wellby's desert experience, plus the bird to lead you, or the path that you learned from the bird to lead you, it takes you about an hour creeping through the desert terrain to get to, at about 5:30, to get to the rim of this canyon, and it's, I mean.\n\nDM: Drikod described it to you, but it's definitely more impressive in person, it's like—it almost looks like, I mean, it's like a sheer circle. This almost does not look like a natural canyon. The walls themselves are already starting—of the canyon, are starting to pick up this red glow as the sun is now pretty low in the sky, and you're starting to see, it's not quite the golden hour yet, but you're starting to get this like almost as if the wall itself is glowing from within in response to the sun."
+            },
+            {
+              "startUid": "u1918",
+              "endUid": "u1933",
+              "quote": "DM: Okay, so Drikod's starting to walk down the cliff. Wellby is flying down.\n\nKenzo: No, Kenzo, Kenzo, oh.\n\nDM: Sorry, Kenzo is flying down. Everybody else is still at the top.\n\nDelwath: Yep and.\n\nWellby: Can I just like climb on your back, but?\n\nKenzo: I was just gonna ask me.\n\nDrikod: Totally yeah I mean I'm not strong but I'm also eight feet tall.\n\nDM: So yeah you can totally climb on. Yeah, you're, you're like, like that.\n\nKenzo: I mean yeah sweet.\n\nDM: He can totally carry you.\n\nDrikod: Yeah, hop on my back as I leisurely walk down the mountain, basically, but the cliff with Spider Climb.\n\nWellby: To the backpack but. Yeah, but I'm going to climb in the backpack and like cinch it around my waist."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Trees on the canyon floor",
+      "kind": "grove",
+      "evidence": [
+        {
+          "startUid": "u1598",
+          "endUid": "u1599",
+          "quote": "DM: What you see immediately when you, when you look at it is the is the grove of this like circle in the center of this opening, a grove of these gnarled ancient trees that are around an open, dusty but empty pit."
+        },
+        {
+          "startUid": "u2058",
+          "endUid": "u2058",
+          "quote": "Kenzo: And then you now see me, you know, see Kenzo running into the trees and, you know, trying to disappear."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1593",
+              "endUid": "u1599",
+              "quote": "DM: So, so, but it takes you a little while because you're so—it's about an hour and a half of flying until you, until you see stretching out below you this bowl shaped circle in the in the desert that just kind of opens up in the middle of nowhere. That it's probably five 600 feet below the surface of the desert, these are these are deep.\n\nUnknown: Cliffs.\n\nDM: And—\n\nDM: What you see immediately when you, when you look at it is the is the grove of this like circle in the center of this opening, a grove of these gnarled ancient trees that are around an open, dusty but empty pit."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Cintra’s tent",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u1600",
+          "endUid": "u1604",
+          "quote": "DM: Second, the second thing you notice as you look across is a small camp, set up a tent—\n\nDrikod: A.\n\nDM: Sort of area where there's like a basin where water is being stored, there's like a cook of, like cooking area, there's like a fire pit, some food set up, there's a—"
+        },
+        {
+          "startUid": "u2139",
+          "endUid": "u2155",
+          "quote": "DM: You see chaos around in the bowl of the canyon now. You see Kenzo and Seeker running across from the trees.\n\nUnknown: Towards the tent.\n\nDM: Drikod's now, I would say, 350 feet about.\n\nDrikod: Drikod, you know, he's just overwhelmed.\n\nWellby: We need, we need to go up or down.\n\nDrikod: You pick. Up up. Up, up, there just continues trudging forward.\n\nWellby: You could, you could also do that faster, can—\n\nDrikod: I can crawl the speed I walk, so we briskly go at a brisk walking pace upwards.\n\nDM: Yeah you can go—you can go decently well.\n\nDM: You see now, I'm—like Cintra now, having gotten the two of you into the tent, kind of closes her eyes for a moment and in letters on the rock floor of the canyon, the word spells out: HIDE! With an exclamation point."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1593",
+              "endUid": "u1604",
+              "quote": "DM: So, so, but it takes you a little while because you're so—it's about an hour and a half of flying until you, until you see stretching out below you this bowl shaped circle in the in the desert that just kind of opens up in the middle of nowhere. That it's probably five 600 feet below the surface of the desert, these are these are deep.\n\nUnknown: Cliffs.\n\nDM: And—\n\nDM: What you see immediately when you, when you look at it is the is the grove of this like circle in the center of this opening, a grove of these gnarled ancient trees that are around an open, dusty but empty pit.\n\nDM: Second, the second thing you notice as you look across is a small camp, set up a tent—\n\nDrikod: A.\n\nDM: Sort of area where there's like a basin where water is being stored, there's like a cook of, like cooking area, there's like a fire pit, some food set up, there's a—"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0018"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party emerges from the temple into its funeral plaza.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0018",
+          "quote": "DM: So the sun has set, but the fires are burning bright on the plaza in front of the Temple of Shakun as you emerge from the darkness of the temple itself. A small crowd has gathered as the news of the shadow attacks and its consequences have spread and the funeral pyres are already being prepared. As the community of the Shakun Mystai gather, you can still faintly see the echoes of the web of power that stretches among them, thinking back to the events of the past 24 hours. Starting with the stories that Candrosa told: the Heart of Shakun, an artifact central to the magical defenses of the Dunmari. Cintra, the Supreme Oracle of the Mystai, one in whom the goddess herself seems to dwell, who had a young daughter who took sick and could not be cured by ordinary magic. Cintra's decision to take the Heart of Shakun south to Shakun's Wellspring beyond the edge of the mesa which dreams and visions had told would cure her daughter. The Mystai of Shakun traveling to find Cintra after her too-long absence, but none returning. Candrosa remaining silent out of doubt or fear, uncertainty about the consequences of breaking the secret bonds of the Mystai. And turning in the face of this challenge until the guilt and the burden were too much. And he spoke with you."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0445"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After breakfast, the group finds Candrosa in the temple conference room.",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0445",
+          "quote": "DM: Yeah okay. So after breakfast, you find Candrosa. He is sitting in, you know, sort of on the—the little conference room in the—in the temple. Looks up as you approach."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0680",
+        "endUid": "u0714"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves Karawa and travels south across the mesa, camping twice before reaching a scouting stop one mile north of the stone trees.",
+      "evidence": [
+        {
+          "startUid": "u0680",
+          "endUid": "u0707",
+          "quote": "DM: And you set out, so it's about 30 to 40 miles. If you really pushed you can make it there in like a day and a half, probably, if you want to try and you know be quiet stealthy not draw a lot of attention to yourself, it would it's more like two to three days.\n\nKenzo: The latter.\n\nSeeker: That was Candrosa's suggestion, yeah.\n\nUnknown: A lot.\n\nDelwath: Quieter the better, I think.\n\nSeeker: Agreed and we're traveling over top of the Mesa.\n\nDM: Yeah.\n\nKenzo: And Wellby and Drikod.\n\nSeeker: Drikod.\n\nDelwath: Drikod, Drikod.\n\nKenzo: Are you able to scout ahead with your with your beasts?\n\nUnknown: Yes.\n\nDrikod: For 12, I can send a bird for 12 hours, six hours there, six hours back.\n\nWellby: 11 hours better than me.\n\nSeeker: Hmm.\n\nDM: So I would say—\n\nDrikod: The first evening, I can send the bird out.\n\nDM: Yeah you probably want to wait to like to like the middle of the night, so that well you gotta you gotta decide, you could—if you wanted it to get there either dawn or twilight and then return, six-hour journey, I'm going to say, you know, it can certainly go 25 miles.\n\nDM: So if you're going if you're going if you're if you're traveling stealthily then you'll have gone in you'll go maybe 15 ish miles a day across the top of the mesa. So, say noon on the second day you could send it out and have a scouting report back to you by dawn of the of your last day on the mesa is probably the most likely."
+        },
+        {
+          "startUid": "u0708",
+          "endUid": "u0717",
+          "quote": "DM: So you head across the mesa. Now, the mesa itself is crumbling, broken.\n\nDM: It seems like the rocks are eroding around you, but somehow your path always remains clear, like there will be a giant crevasse that opens up [garbled], or you know sand and rock start a small rockslide 100 feet behind you. But through your entire journey, like, for the first first day of travel on top of the mesa, hot tiring day in the sun, trying to stick to the shadows as much as he can, despite the fact that the mesa is sort of crumbling around you, it never seems to affect you.\n\nDM: Same on your second day you wake up and you see you know there's been a bit of a collapse almost forming a semi circular wall around the side of of your camp providing some shade and protection. And as you set out again like the the desert itself seems to clear itself out to provide smooth travel for your journey alone."
+        },
+        {
+          "startUid": "u0833",
+          "endUid": "u0840",
+          "quote": "DM: And as you settle in for the night—Drikod, we'll come to your—I'm going to set us up for a short break here, and then we'll come to your report of the Raven after the break as you settle in for the night um. You you sort of feel this—\n\nDM: It's almost as if somebody sits down—somebody you can't quite see sits down at your campsite with you. And you know each of you kind of feels a bit of a, of a different sense of this presence, um, Wellby."
+        },
+        {
+          "startUid": "u1242",
+          "endUid": "u1244",
+          "quote": "DM: And you pause about a mile north of this circle. Now, the circle of stone trees about a mile distant is obvious, if small, on the—\n\nUnknown: Horizon.\n\nDM: What."
+        }
+      ],
+      "from": "p01",
+      "to": "p08",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "First camp: the group investigates the strangely protective stone.",
+          "place": "p06"
+        },
+        {
+          "reading": "Second camp: an unseen presence visits the party.",
+          "place": "p07"
+        },
+        {
+          "reading": "Approach the stone trees, stopping one mile north; the party does not enter the grove.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0715",
+        "endUid": "u0717"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "At the first mesa camp, the party investigates the unnatural stone around its shelter.",
+      "evidence": [
+        {
+          "startUid": "u0715",
+          "endUid": "u0717",
+          "quote": "DM: Same on your second day you wake up and you see you know there's been a bit of a collapse almost forming a semi circular wall around the side of of your camp providing some shade and protection. And as you set out again like the the desert itself seems to clear itself out to provide smooth travel for your journey alone."
+        },
+        {
+          "startUid": "u0726",
+          "endUid": "u0740",
+          "quote": "DM: Yeah, so I, you know, as you travel kind of on this, the morning of the second day, it's unnaturally quiet up here. You know deserts are in this part of the day, are usually quiet, but this kind of rocky desert shouldn't be that quiet in, you know, dusk and dawn, right, and you notice this particularly, Drikod, as you're sort of packing up the morning of your first night camping, so the morning of your second day. There's not the sort of chirping of of crickets or the the you know, the song of a cactus wren or something that you'd expect kind of in this terrain. It seems just very quiet, and what you do hear sounds like rocks creaking like the ground shifting not animals.\n\nSeeker: Perhaps Shakun herself is protecting us. Hopefully there's some way, we could communicate directly with her through the stone itself.\n\nKenzo: I can detect magic right?\n\nDM: Uh, Delwath can detect magic. You can detect Good and Evil. You can detect the presence of undead or.\n\nDrikod: Can I—have a question. It's up a non standard use of a spell. Drikod, sensing that something, the stone is alive, I want to use my Meld into Stone spell and see what it feels like to be part of this unnatural stone."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0778",
+        "endUid": "u0779"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts around the first camp, seeing rubble beyond its protected perimeter but no moving danger.",
+      "evidence": [
+        {
+          "startUid": "u0778",
+          "endUid": "u0779",
+          "quote": "Wellby: While you all are doing this, Wellby tells Baxter to keep an eye on all of these people. I'm gonna do like a big circle around the camp, to see if we're being followed or just just get the lay of the land."
+        },
+        {
+          "startUid": "u0809",
+          "endUid": "u0810",
+          "quote": "DM: Everybody happy? You don't see any danger, Wellby. Seems you, I mean, actually that's not quite true. You do see cracks in the earth, you see, um, you know, rock formations, like arches that have collapsed. You see signs of wreckage as soon as you get about 30 feet from your camp. But you don't see anything moving."
+        }
+      ],
+      "place": "p05",
+      "mode": "local",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0833",
+        "endUid": "u0840"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party settles at its second mesa camp as the unseen presence joins them.",
+      "evidence": [
+        {
+          "startUid": "u0833",
+          "endUid": "u0840",
+          "quote": "DM: And as you settle in for the night—Drikod, we'll come to your—I'm going to set us up for a short break here, and then we'll come to your report of the Raven after the break as you settle in for the night um. You you sort of feel this—\n\nDM: It's almost as if somebody sits down—somebody you can't quite see sits down at your campsite with you. And you know each of you kind of feels a bit of a, of a different sense of this presence, um, Wellby."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1043",
+        "endUid": "u1071"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "The returned raven reports undead and gnolls around the stone trees; this report does not place the party there.",
+      "evidence": [
+        {
+          "startUid": "u1043",
+          "endUid": "u1071",
+          "quote": "DM: And around the circle of stone trees lazing around are maybe 15 skeletons, a mix of skeletons and what look like vicious-looking wild dogs and a few creatures that look like almost like humanoid hyenas with nasty looking long bows and many arrows.\n\nKenzo: Where's this, Tim?\n\nDM: Around the stone trees.\n\nDelwath: I mean 15 skeletons?\n\nDM: Around 15 creatures total. Best count it could do.\n\nSeeker: I can shoot out, so, so—\n\nDM: 10 miles south, you—\n\nWellby: Any like good choke points between here and there, where we wouldn't have 15 all around us at once?\n\nDM: It's pretty open terrain. This this like southern edge is—I mean, the whole mesa has been pretty open in the sense that there's not a lot of, like, it's basically just the flat top of a mesa. It's just it's just all sort of difficult to pass through as there's sort of crumbled rocks and sort of these crevasses that open but there's not there's not a lot the terrain doesn't include much in the way of like canyon walls or choke points.\n\nKenzo: Other than 15 skeletons what other than the hyenas?\n\nDM: And stuff. It's like 15 ish creatures that are a mix of skeletons humanoid hyena like creature creatures with bows and arrows. Some creatures that look sort of like withered, almost like dried-out bodies of of like these humanoid creatures, but still moving somehow, a few vicious wild dogs of some kind.\n\nSeeker: And what does this tell us about what's inside the grove of trees? Maybe nothing. But its interior is hidden from the air by the trees, we've learned.\n\nDM: Yes."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u1283"
+      },
+      "actors": [
+        "Baxter",
+        "horses"
+      ],
+      "reading": "Baxter and the mounts stay at the mile-north scouting stop while the party proceeds.",
+      "evidence": [
+        {
+          "startUid": "u1274",
+          "endUid": "u1283",
+          "quote": "Wellby: So we leave the mounts, yeah.\n\nDM: Yeah.\n\nWellby: And I think I'll tell Baxter, if we're not back by like sunset tomorrow or sunrise tomorrow, take the horses back to the mesa.\n\nDM: I go.\n\nSeeker: Back to Karawa.\n\nDelwath: Karawa, Karawa.\n\nWellby: Just like, we could go into the forest and come out like 30 years later.\n\nDelwath: That's true.\n\nWellby: All this would have been solved.\n\nDM: All right, so you're a mile away. Are you casting Clairvoyance?"
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1283",
+        "endUid": "u1346"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker uses Clairvoyance from the scouting stop to inspect the stone-tree defenses.",
+      "evidence": [
+        {
+          "startUid": "u1283",
+          "endUid": "u1346",
+          "quote": "DM: All right, so you're a mile away. Are you casting Clairvoyance?\n\nSeeker: Oh, we made it? A mile away, excellent. Yes, I withdraw into myself sketching tiny runes of vision in the air. And, oh, I gotta—how's that work again? I need to describe the place that I want to place my clairvoyance.\n\nDM: I mean you can see the stone, if you want to place that at the circle, the stone circle, the circle of stone trees, you can see it, a mile away so you can just say, \"In the center of that thing I can see a mile away.\"\n\nSeeker: Yes, all right, so I will cast Clairvoyance and place my eye at the center of this ring of stone trees.\n\nKenzo: Wait, before you do that, if you do that can we see what's happening in the wellspring if we only see what's happening in the like, he moves it?\n\nDM: No, you can't move it once you cast it.\n\nSeeker: Yeah this is.\n\nDM: The Wellspring's too far away. It's right at the edge of the range.\n\nKenzo: Got it. Okay yeah.\n\nSeeker: I was only able to see Grash through inference about the shape of the structure that we could see the outside of, so yeah.\n\nDM: So, so this is what you see.\n\nKenzo: Yeah.\n\nSeeker: So in Roll20.\n\nUnknown: Yep.\n\nDrikod: Oh there's—\n\nSeeker: Some bad news all around. Oh, there's quite a number of that, it's—\n\nDelwath: Me it's.\n\nDM: These represent the stone trees. I couldn't find exactly stone trees.\n\nWellby: What are you?\n\nDelwath: Yeah, could you tell us a little bit about what these things look—\n\nDM: Like. Now all of these things with this kind of icon are like skeletal creatures that look—basically look like skeletons. There's like some bits of flesh kind of dropping off of them, and they're, now that you can see with Seeker's vision, their heads are almost hyena-like in form, but their bodies are skeletal, all of these ones. These ones here are—are gnolls. As are these, these four sort of scattered around are other gnolls that have longbows.\n\nKenzo: Long range yeah.\n\nDM: This one, and they also look, I'm, a bit withered, like they're not, they don't look like fresh, healthy, happy gnolls. Their skin is drawn, they're gaunt, they're, you know, clearly the flesh is sort of hanging off in pieces, like they're half undead, but they're not quite skeletal like these.\n\nDM: A gnoll is like a hyena half-human demonic creature. That then—there are—\n\nDM: There are also some some sort of undead looking creatures over here that are that are less skeletal and more rotted.\n\nDelwath: All five of those things?\n\nDM: Yeah, the five of them, these ones are the most kind of rotted and decayed. This one looks the most intact and these two are sort of in the middle.\n\nSeeker: And what's everybody doing, are they like sitting around?\n\nDelwath: A scout.\n\nDrikod: Kind of.\n\nDM: The only ones that seem to be paying much attention are the four archers. The four gnoll archers clearly kind of have their quivers set up and they're kind of not exactly standing on guard, but sort of clearly paying attention. The skeletons are all just kind of milling about, sometimes like kind of hitting at each other or trying to grab little scraps of flesh off each other's bones.\n\nDM: These undead seem to be watching the stairs.\n\nKenzo: Which undead?\n\nUnknown: These.\n\nDM: These five over here that are more fleshy undead.\n\nDelwath: Did any of them look more powerful, bigger, stronger, better weapons than others?\n\nDM: So the, yeah, the, the four with long bows. Right, these four, and then this one here that's the most intact of the fleshy undead seems to be bigger, stronger.\n\nDrikod: And that's the one that's looking towards the stairs?\n\nDM: These five undead are sort of watching the stairs.\n\nUnknown: So.\n\nDrikod: Are they?\n\nWellby: Watching for something to come out of the stairs?\n\nDrikod: Yeah so are they guarding preventing us from getting to the stairs or somebody leaving the stairs?\n\nSeeker: Little of both I think."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1583",
+        "endUid": "u1620"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "Drikod watches through the familiar from the scouting stop and sees the Wellspring, Cintra’s camp, and eight graves.",
+      "evidence": [
+        {
+          "startUid": "u1590",
+          "endUid": "u1617",
+          "quote": "DM: So I assume, though, you're just like meditating on the ground with it flying around, and watching, flying as the bird instead of paying attention to your surroundings, trusting to your companions, yes, um.\n\nDrikod: Trusting my companions, even though I don't trust their judgment.\n\nDM: So, so, but it takes you a little while because you're so—it's about an hour and a half of flying until you, until you see stretching out below you this bowl shaped circle in the in the desert that just kind of opens up in the middle of nowhere. That it's probably five 600 feet below the surface of the desert, these are these are deep.\n\nUnknown: Cliffs.\n\nDM: And—\n\nDM: What you see immediately when you, when you look at it is the is the grove of this like circle in the center of this opening, a grove of these gnarled ancient trees that are around an open, dusty but empty pit.\n\nDM: Second, the second thing you notice as you look across is a small camp, set up a tent—\n\nDrikod: A.\n\nDM: Sort of area where there's like a basin where water is being stored, there's like a cook of, like cooking area, there's like a fire pit, some food set up, there's a—\n\nDM: What looks like a sort of little area of prayer with like a like four or five of these like little kind of statue things of gods. And sitting kneeling in front in this sort of prayer area is a middle aged, young middle aged woman, I'm, not looking, sort of down, kneeling, looking sort of towards the ground at these like small statues of god's, I'm, seeming in prayer. Long sort of silvery hair, gone gray, but sort of tied up in a bun, in a clean but ragged tunic and leggings.\n\nDM: Lying in the shade near where this woman is praying, a good-sized shield, a shirt of chain mail, and the crescent moon symbol of Shakun emblazoned on the shield, and a staff as well propped up against the cliff face.\n\nKenzo: We asked Candrosa what Cintra looks like, right, and like what she's wearing and stuff. We totally did. I remember that part of the conversation.\n\nDrikod: We are.\n\nSeeker: That's her.\n\nDM: Otherwise, there seems to be little else in this in this clearing, except for against a different canyon wall, not the wall that the camp is set up in, you see eight grave markers and the obvious remains of a funeral pyre."
+        },
+        {
+          "startUid": "u1619",
+          "endUid": "u1620",
+          "quote": "Drikod: So Drikod communicates this to his comrades."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p08",
+      "observedActors": [
+        "Cintra"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1883",
+        "endUid": "u1891"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party detours around the defended stair approach and reaches the rim above the Wellspring.",
+      "evidence": [
+        {
+          "startUid": "u1883",
+          "endUid": "u1891",
+          "quote": "DM: So creeping along slowly but protected by the shadows, and with Wellby's desert experience, plus the bird to lead you, or the path that you learned from the bird to lead you, it takes you about an hour creeping through the desert terrain to get to, at about 5:30, to get to the rim of this canyon, and it's, I mean.\n\nDM: Drikod described it to you, but it's definitely more impressive in person, it's like—it almost looks like, I mean, it's like a sheer circle. This almost does not look like a natural canyon. The walls themselves are already starting—of the canyon, are starting to pick up this red glow as the sun is now pretty low in the sky, and you're starting to see, it's not quite the golden hour yet, but you're starting to get this like almost as if the wall itself is glowing from within in response to the sun.\n\nDM: And you can see now that, as you sort of creep to the top edge and are peering down, that the woman who before was in prayer is now, um, cooking something. Seems to be making dinner still alone."
+        }
+      ],
+      "from": "p08",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "creep through desert terrain",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates completed cautious detour."
+      },
+      "route": [
+        {
+          "reading": "Bypass the defended stone trees and stairway.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1918",
+        "endUid": "u1933"
+      },
+      "actors": [
+        "Drikod",
+        "Wellby"
+      ],
+      "reading": "Drikod climbs down carrying Wellby, then reverses before reaching the floor; both remain on the cliff during the interruption.",
+      "evidence": [
+        {
+          "startUid": "u1918",
+          "endUid": "u1933",
+          "quote": "DM: Okay, so Drikod's starting to walk down the cliff. Wellby is flying down.\n\nKenzo: No, Kenzo, Kenzo, oh.\n\nDM: Sorry, Kenzo is flying down. Everybody else is still at the top.\n\nDelwath: Yep and.\n\nWellby: Can I just like climb on your back, but?\n\nKenzo: I was just gonna ask me.\n\nDrikod: Totally yeah I mean I'm not strong but I'm also eight feet tall.\n\nDM: So yeah you can totally climb on. Yeah, you're, you're like, like that.\n\nKenzo: I mean yeah sweet.\n\nDM: He can totally carry you.\n\nDrikod: Yeah, hop on my back as I leisurely walk down the mountain, basically, but the cliff with Spider Climb.\n\nWellby: To the backpack but. Yeah, but I'm going to climb in the backpack and like cinch it around my waist."
+        },
+        {
+          "startUid": "u2003",
+          "endUid": "u2004",
+          "quote": "DM: Yeah, we're about two thirds—\n\nDelwath: Of the way down. Seeker, you now can fly. Okay, Kenzo, you cannot fly."
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2082",
+          "quote": "DM: Drikod has turned around, is now, I would say, about 200 feet from the ground, not quite the halfway point of the cliff. Seeker is flying past Drikod."
+        }
+      ],
+      "from": "p12",
+      "to": "p11",
+      "completion": "interrupted",
+      "mode": "Spider Climb, with Wellby riding",
+      "route": [
+        {
+          "reading": "Descend partway along the cliff face, then climb back.",
+          "place": "p13"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1936",
+        "endUid": "u1941"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo flies to the canyon floor first, initially a few hundred feet from Cintra.",
+      "evidence": [
+        {
+          "startUid": "u1936",
+          "endUid": "u1941",
+          "quote": "DM: So Kenzo lands first because Fly is faster than Spider Climb. Are you, so where are you landing? The grove itself is about 600 feet across, and Cintra's camp is sort of diagonally across from the edge that you're on, so about like two, 300 feet away.\n\nKenzo: Um. Let's see, well, is it just, is literally like a spherical bowl?\n\nDM: Yeah, it's literally like—\n\nDrikod: If we have zero cover."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1980",
+          "quote": "DM: She kind of, you notice her kind of pause for a moment and like look up and see you. And then—and then kind of look surprised for a moment, and then you're landing sort of towards her, or?\n\nKenzo: Just at some distance, you know, just to not alarm her, give her space, and as I'm coming down, I'm giving like a symbol of, you know, right, no, not, not a threat, not a threat, like no weapons, you know, like, like that.\n\nSeeker: Isn't there a prayer pose that's like a kind of supplication?\n\nKenzo: Yes, yeah, exactly, I'm giving, I'm giving a, you know—\n\nDM: So so she looks up then for a moment and then kind of starts starts running towards you as you land not not seeming in a threatening way um but does have her staff ah.\n\nDM: So you see Kenzo lands, and then Cintra starts running towards him."
+        }
+      ],
+      "from": "p12",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2058",
+        "endUid": "u2058"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo runs toward the trees after Cintra warns him to hide.",
+      "evidence": [
+        {
+          "startUid": "u2058",
+          "endUid": "u2058",
+          "quote": "Kenzo: And then you now see me, you know, see Kenzo running into the trees and, you know, trying to disappear."
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2079",
+          "quote": "DM: Okay, so now let's, let me just do again, where is Seeker? Kenzo's just run to go hide in the tree. Wellby can still see him, but nobody else can."
+        },
+        {
+          "startUid": "u2139",
+          "endUid": "u2147",
+          "quote": "DM: You see chaos around in the bowl of the canyon now. You see Kenzo and Seeker running across from the trees.\n\nUnknown: Towards the tent.\n\nDM: Drikod's now, I would say, 350 feet about.\n\nDrikod: Drikod, you know, he's just overwhelmed.\n\nWellby: We need, we need to go up or down.\n\nDrikod: You pick. Up up. Up, up, there just continues trudging forward."
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2100",
+        "endUid": "u2119"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker’s flight reaches the canyon floor and Cintra urges him to hide.",
+      "evidence": [
+        {
+          "startUid": "u2100",
+          "endUid": "u2102",
+          "quote": "Seeker: Sorry friend. I'm gonna dive towards where I last saw Kenzo and just try to make a safe landing on the ground so I can try hiding."
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2119",
+          "quote": "DM: Seeker, as you land, you hear a whisper in your, a female voice whisper in your head: \"Get under cover now. I don't know how many more minutes we have.\""
+        }
+      ],
+      "from": "p12",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2139",
+        "endUid": "u2155"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Both party members on the canyon floor get into Cintra’s tent to hide.",
+      "evidence": [
+        {
+          "startUid": "u2139",
+          "endUid": "u2155",
+          "quote": "DM: You see chaos around in the bowl of the canyon now. You see Kenzo and Seeker running across from the trees.\n\nUnknown: Towards the tent.\n\nDM: Drikod's now, I would say, 350 feet about.\n\nDrikod: Drikod, you know, he's just overwhelmed.\n\nWellby: We need, we need to go up or down.\n\nDrikod: You pick. Up up. Up, up, there just continues trudging forward.\n\nWellby: You could, you could also do that faster, can—\n\nDrikod: I can crawl the speed I walk, so we briskly go at a brisk walking pace upwards.\n\nDM: Yeah you can go—you can go decently well.\n\nDM: You see now, I'm—like Cintra now, having gotten the two of you into the tent, kind of closes her eyes for a moment and in letters on the rock floor of the canyon, the word spells out: HIDE! With an exclamation point."
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived"
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u2160",
+        "endUid": "u2165"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath remains on the canyon rim and attempts to hide among its boulders.",
+      "evidence": [
+        {
+          "startUid": "u2105",
+          "endUid": "u2111",
+          "quote": "DM: Delwath, what are you doing at this point?\n\nDelwath: I'm just watching. Okay.\n\nDelwath: I mean, yes I'm concentrating on the fly spell.\n\nSeeker: Right there.\n\nDelwath: I am so there's not much I can do that doesn't involve Seeker losing his ability to fly."
+        },
+        {
+          "startUid": "u2160",
+          "endUid": "u2165",
+          "quote": "Delwath: I will try to hide somewhere. What's the, are there any good hiding spots along the canyon?\n\nDM: So the whole canyon rim is difficult terrain so there's like boulders and there's definitely places you could hide. It's not amazing hiding terrain, but it's definitely possible. Okay, make a make a Stealth check."
+        }
+      ],
+      "place": "p12"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2191",
+        "endUid": "u2193"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby jumps from Drikod and climbs back onto the rim.",
+      "evidence": [
+        {
+          "startUid": "u2191",
+          "endUid": "u2193",
+          "quote": "DM: So Wellby, as you notice, you notice this first and manage to sort of leap off of—off of Drikod's back onto the, because you've just reached that level of the Canyon as this person has appeared as this creature is appearing and you if you would like to attempt to quickly hide you're welcome to hide at disadvantage because you're sort of caught without being able to find a great spot."
+        }
+      ],
+      "from": "p13",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u2194",
+        "endUid": "u2217"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "Drikod reaches the lip but is not clear of the cliff; he hides by melding into its stone.",
+      "evidence": [
+        {
+          "startUid": "u2194",
+          "endUid": "u2217",
+          "quote": "DM: Drikod, you are—you are trapped.\n\nDrikod: So I'm still hanging there?\n\nDM: You are like just reaching the lip of—you're not quick enough to—\n\nDrikod: Leap over.\n\nDM: To leap over, you have, you have maybe next second, you may have 10 seconds, if you want to try and cast a spell.\n\nWellby: I'm sorry, that is an 11, not 10, but.\n\nDM: I got it.\n\nUnknown: But.\n\nDrikod: Let me look at my spells real quick here. Actually, could I just cast my—\n\nDelwath: Meld into Stone, yeah.\n\nDrikod: Oh yeah that's what it's designed for.\n\nSeeker: And Meld into Stone's perfect hiding.\n\nDM: To do that yep.\n\nUnknown: Ah.\n\nDrikod: I thought that was a stupid spell when I picked it, right, yeah, I'm like, I'll never use it.\n\nKenzo: It's great music.\n\nDM: Um.\n\nDM: You all, as far as you know, seem to have vanished as you hear sort of booming out, as Cintra is now looking up at the—"
+        }
+      ],
+      "place": "p13"
+    }
+  ]
+}
