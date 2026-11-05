@@ -9,21 +9,21 @@
 
 ## In-world time
 
-Working dates are June 2–4, 1748, following the dated Session 30 timeline within the YAML’s June 1–4 span. The transcript independently establishes dawn departure and two subsequent mornings, but no absolute date. The time extraction remains compatible, not matched: it does not account for the YAML’s June 1 start boundary. The final camp clock is about 1:30–2 p.m., despite “evening” in the session note. Cumulative boulder clocks overlap the flight, rescue, and exploration; they are not added as separate elapsed intervals. The final chair transformation begins after camp arrival; its ending watch is open.
+The absolute dates remain unresolved. Within the YAML’s June 1–4, 1748 span, the three played days can occupy June 1–3 or June 2–4; the windows below preserve these linked alternatives, not independent choices for each row. Session 29 plans departure the next morning (u2688 and u2775–u2778) and closes at sunset before sleep (u3489–u3490); Session 30 opens at dawn (u0004–u0007). This handoff supports an intervening night but supplies no independent absolute date. The separate Session 30 timeline assigns June 2–4; it does not resolve the owning time extraction’s open boundary. That extraction remains compatible, not matched, with two explicit overnight transitions and an unresolved relationship to the YAML start. The final camp clock is about 1:30–2 p.m., despite “evening” in the session note. Cumulative boulder clocks overlap the flight, rescue, and exploration; they are not added as separate elapsed intervals. The final chair transformation begins after camp arrival; its ending watch is open.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| June 2, 1748 | Dawn | stated | Party wakes at dawn and rides out of Karawa in dawn light. | t01–t02 |
-| June 2, 1748 | Morning | stated | Seeker examines the necklace on the first travel morning. | t03 |
-| June 2, 1748 | Dusk | inferred | First travel day ends at an evening camp halfway to Bas Udda. | t04 |
-| During June 2–3, 1748 | Midnight | inferred | Scepter discussion is explicitly corrected to late night in camp. | t05 |
-| June 3, 1748 | Dawn | stated | The next morning begins as the sun rises. | t06 |
-| June 3, 1748 | Dusk | inferred | Another travel day ends with evening camp in Bas Udda’s ruined temple. | t07 |
-| June 4, 1748 | Dawn | stated | The next morning begins before dawn; departure is later confirmed at dawn. | t08 |
-| June 4, 1748 | Morning | mixed | Lookout reached around 9 a.m.; shadow scouting brings twenty to thirty minutes of waiting, then an unquantified extension. | t09–t10 |
-| June 4, 1748 | Midday | mixed | Boulder found around 11 a.m.; its first hour covers flight, Garret’s rescue, and much of the lair exploration. | t11–t22 |
-| June 4, 1748 | Midday | stated | The reunited party reaches the canyon camp around 1:30–2 p.m., at the midday/afternoon boundary. | t23 |
-| June 4, 1748 | Midday → open | — | After camp arrival, the chair transformation lasts longer than Garret’s three-to-four-minute change; its ending watch is unspecified. | t24 |
+| During June 1–2, 1748 | Dawn | stated | Party wakes at dawn and rides out of Karawa in dawn light. | t01–t02 |
+| During June 1–2, 1748 | Morning | stated | Seeker examines the necklace on the first travel morning. | t03 |
+| During June 1–2, 1748 | Dusk | inferred | First travel day ends at an evening camp halfway to Bas Udda. | t04 |
+| During June 1–3, 1748 | Midnight | inferred | Scepter discussion is explicitly corrected to late night in camp. | t05 |
+| During June 2–3, 1748 | Dawn | stated | The next morning begins as the sun rises. | t06 |
+| During June 2–3, 1748 | Dusk | inferred | Another travel day ends with evening camp in Bas Udda’s ruined temple. | t07 |
+| During June 3–4, 1748 | Dawn | stated | The next morning begins before dawn; departure is later confirmed at dawn. | t08 |
+| During June 3–4, 1748 | Morning | mixed | Lookout reached around 9 a.m.; shadow scouting brings twenty to thirty minutes of waiting, then an unquantified extension. | t09–t10 |
+| During June 3–4, 1748 | Midday | mixed | Boulder found around 11 a.m.; its first hour covers flight, Garret’s rescue, and much of the lair exploration. | t11–t22 |
+| During June 3–4, 1748 | Midday | stated | The reunited party reaches the canyon camp around 1:30–2 p.m., at the midday/afternoon boundary. | t23 |
+| During June 3–4, 1748 | Midday → open | — | After camp arrival, the chair transformation lasts longer than Garret’s three-to-four-minute change; its ending watch is unspecified. | t24 |
 
 ## Locations
 
@@ -95,4 +95,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:15** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-030-transcript.md) · [Time Markers](dunmari-frontier-030-time-markers.json) · [Location Markers](dunmari-frontier-030-location-markers.json) · [Entity Map](dunmari-frontier-030-entity-map.json) · [Interactions](dunmari-frontier-030-interactions.json) · [Combat](dunmari-frontier-030-combat.json) · [Segments](dunmari-frontier-030-segments.json) · [Watch data](dunmari-frontier-030-time-watches.json) · [Dated session note](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2030%20%28DuFr%29.md) · [Garret note](../../../../People/Halflings/Garret%20Tealeaf.md) · [Shandar note](../../../../People/Dunmari/Shandar.md) · [Kaya note](../../../../People/Dunmari/Kaya.md)
+Sources · [Transcript](dunmari-frontier-030-transcript.md) · [Time Markers](dunmari-frontier-030-time-markers.json) · [Location Markers](dunmari-frontier-030-location-markers.json) · [Entity Map](dunmari-frontier-030-entity-map.json) · [Interactions](dunmari-frontier-030-interactions.json) · [Combat](dunmari-frontier-030-combat.json) · [Segments](dunmari-frontier-030-segments.json) · [Watch data](dunmari-frontier-030-time-watches.json) · [Dated session note](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2030%20%28DuFr%29.md) · [Garret note](../../../../People/Halflings/Garret%20Tealeaf.md) · [Shandar note](../../../../People/Dunmari/Shandar.md) · [Kaya note](../../../../People/Dunmari/Kaya.md) · [Session 29 transcript handoff](../../dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md)
