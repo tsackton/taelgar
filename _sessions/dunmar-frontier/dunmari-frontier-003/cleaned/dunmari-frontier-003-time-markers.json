@@ -1,0 +1,287 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-003",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+    "sessionYamlSha256": "2e49563a04579e23073f13480075573551d8c4dfdbbf5d137e7454e792ee3c91",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-transcript.md",
+    "transcriptSha256": "c6e8fb5c63ec990d83449cfec74d9ff78da0f4d6aea0445b9d03db50892aef85",
+    "yamlDates": {
+      "start": "1748-03-25",
+      "end": "1748-03-26"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0216",
+        "endUid": "u0222"
+      },
+      "reading": "The party’s morning descent and approach took three or four hours; the campsite investigation is in mid-to-late morning, certainly before noon.",
+      "evidence": [
+        {
+          "startUid": "u0216",
+          "endUid": "u0220",
+          "quote": "Um, what time of day is it? I guess it’s—it took you—I mean you got up first thing in the morning. It took you three or four hours to get down the canyon and get—it was only a couple of, like, three miles or so from the edge of the canyon, so it's probably like mid late morning, certainly not past noon."
+        },
+        {
+          "startUid": "u0222",
+          "endUid": "u0222",
+          "quote": "Yes, it's certainly getting hot, you're getting towards the hottest part of the day."
+        }
+      ],
+      "time": {
+        "partOfDay": "mid-to-late morning",
+        "precision": "approximate",
+        "basis": "DM’s current-time answer; no absolute date is spoken"
+      },
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Retrospective duration of the completed canyon descent and approach, not an additional interval after the campsite investigation"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0834",
+        "endUid": "u0836"
+      },
+      "reading": "The party examines the headquarters pit just after lunchtime.",
+      "evidence": [
+        {
+          "startUid": "u0834",
+          "endUid": "u0836",
+          "quote": "Um, the air is is still and hot. Now, be it being about probably just after lunchtime."
+        }
+      ],
+      "time": {
+        "partOfDay": "just after lunchtime",
+        "precision": "approximate",
+        "basis": "DM’s explicit current-time anchor"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1047",
+        "endUid": "u1053"
+      },
+      "reading": "The party completes a short rest in the temple; the subsequent conversation is early afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1047",
+          "endUid": "u1049",
+          "quote": "So just, you see, you see, Kenzo kind of, you know, head over to a particular wall and carefully lay down his staff and his materials, his pack, and then strikes a lotus pose and just enters this state of deep meditation as he rests, just not moving at all, but completely—yeah, just there. But there's an aura about him as he's doing it."
+        },
+        {
+          "startUid": "u1051",
+          "endUid": "u1051",
+          "quote": "Short rest."
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1063",
+          "quote": "Yeah, so if anybody—so during short rest you can—if you want to heal you can use hit dice. Right. So anybody who uses a hit die to heal can also add an extra 1d6 to what they heal."
+        },
+        {
+          "startUid": "u1110",
+          "endUid": "u1111",
+          "quote": "Spell slots. It's early afternoon."
+        },
+        {
+          "startUid": "u1113",
+          "endUid": "u1115",
+          "quote": "So I I'm so we did the short rest already so I have full hit point. Yeah, I just don't have—"
+        },
+        {
+          "startUid": "u1116",
+          "endUid": "u1116",
+          "quote": "They're all full health. You just don't have spells."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention; completion explicitly confirmed at u1113–u1116"
+      },
+      "time": {
+        "partOfDay": "early afternoon",
+        "precision": "approximate",
+        "basis": "DM’s post-rest anchor at u1110–u1111"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1177",
+        "endUid": "u1180"
+      },
+      "reading": "Seeker takes time to perform the proposed ritual and finds the recovered horn magical.",
+      "evidence": [
+        {
+          "startUid": "u1176",
+          "endUid": "u1176",
+          "quote": "I can't. Oh, I could do a ritual."
+        },
+        {
+          "startUid": "u1177",
+          "endUid": "u1180",
+          "quote": "Yeah, you could take some time. I mean, you're not in a rush. You want to do that? Sure. Okay. Ah, yes, it is in fact does seem to be magical. Let’s see."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "text": "some time",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Accepted ritual is resolved, but no elapsed length is stated for this casting"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1389",
+        "endUid": "u1392"
+      },
+      "reading": "Delwath spends about ten minutes examining the coin magically.",
+      "evidence": [
+        {
+          "startUid": "u1389",
+          "endUid": "u1392",
+          "quote": "So Delwath sort of starts—goes into a little bit of a trance and starts kind of looking at the—after about 10 minutes he says, \"It is magical.\" Seems to be related to transmutation."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit elapsed narration: after about 10 minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1714",
+        "endUid": "u1722"
+      },
+      "reading": "The party waits quietly while the lion repeatedly turns to stone and back, first for about a minute and then for another few minutes.",
+      "evidence": [
+        {
+          "startUid": "u1713",
+          "endUid": "u1713",
+          "quote": "How often is the lion turning back? Let's just try and hide in the corridor and watch for a little bit."
+        },
+        {
+          "startUid": "u1714",
+          "endUid": "u1719",
+          "quote": "The first time it turned back at—turned back almost immediately. And then the second time it's maybe a minute and it turns back again, and then it just swats one and crushes it on the ground. Then it gets pecked again and turns again for a minute. And then it seems like maybe if you wait quietly, the lion might be able to squish these things. They seem not to be—like one good swipe of the of the lion's claws seem to squish one of the, of the these little baby cockatrices, if that's what they are. And then—"
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1722",
+          "quote": "But then it gets pecked again, and it seems to solidify into stone for a bit longer at that point, and now for another few minutes."
+        }
+      ],
+      "duration": {
+        "text": "a minute, then a minute, then another few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates successive observed intervals without a total"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1796",
+        "endUid": "u1805"
+      },
+      "reading": "Midafternoon sunlight reaches the cavern beneath the cracked cistern.",
+      "evidence": [
+        {
+          "startUid": "u1796",
+          "endUid": "u1805",
+          "quote": "And as you glance up, you can see a little bit of sunlight from the midafternoon sun shining down from the cracked floor of the cistern, and now you seem to be directly below the the cracked floor of the cistern."
+        }
+      ],
+      "time": {
+        "partOfDay": "midafternoon",
+        "precision": "approximate",
+        "basis": "Direct sunlight anchor during current cave exploration"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u3054",
+        "endUid": "u3057"
+      },
+      "reading": "The party completes a long rest in the temple and wakes at the next sunrise.",
+      "evidence": [
+        {
+          "startUid": "u3042",
+          "endUid": "u3042",
+          "quote": "What if we take that and take the statue up and then take a long rest in the temple, so—"
+        },
+        {
+          "startUid": "u3044",
+          "endUid": "u3046",
+          "quote": "I support that plan. We can park the statue at—no, park the statue inside there with us. Yeah."
+        },
+        {
+          "startUid": "u3054",
+          "endUid": "u3055",
+          "quote": "Let's say you take a long rest. And then, when you wake up in the morning,"
+        },
+        {
+          "startUid": "u3057",
+          "endUid": "u3057",
+          "quote": "That the sun comes up."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; waking next morning and sunrise are narrated explicitly"
+      },
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "Explicit next-morning sunrise after the overnight rest"
+      },
+      "completion": "completed",
+      "dateBoundaries": 1
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute calendar date is spoken. March 25, 1748 is inherited from YAML; the narrated next sunrise reaches March 26 on that assumption.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t07",
+      "t08"
+    ],
+    "explanation": "Exploration progresses from morning through midafternoon, then a completed overnight rest reaches the next sunrise before the return toward camp. This supports one date boundary conditional on the YAML start; historical ruin ages and prior camp ages do not extend the played interval."
+  }
+}

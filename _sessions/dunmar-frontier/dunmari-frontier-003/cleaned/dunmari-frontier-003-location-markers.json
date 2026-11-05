@@ -1,0 +1,1467 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-003",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+    "sessionYamlSha256": "2e49563a04579e23073f13480075573551d8c4dfdbbf5d137e7454e792ee3c91",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-transcript.md",
+    "transcriptSha256": "c6e8fb5c63ec990d83449cfec74d9ff78da0f4d6aea0445b9d03db50892aef85"
+  },
+  "places": {
+    "p01": {
+      "label": "Dunmari fort",
+      "kind": "ruined fort",
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0013",
+          "quote": "Okay, so you then had approached the ruins on the outskirts of this Dunmari fort. Discovered—trying to remember exactly what you discovered. There were two large mounds in—"
+        },
+        {
+          "startUid": "u0224",
+          "endUid": "u0227",
+          "quote": "Ah, it's a bit—it's, it's fairly big, it's a decent-sized fort. So the wall itself is probably, you know, a few hundred feet. It's a rectangle that's maybe roughly a few hundred feet at the longest angle and somewhat shorter at the shortest side. The central building that still has standing walls is maybe 40 feet or so—sorry, maybe 80 feet wide. It's not massive but it would have been. It could have held a sizable number of people in this fort."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dunmari Fort (Gomat).md",
+      "note": "The fort is unnamed in the transcript. Session 3 (DuFr) and Horn of Silent Alarm (Dunmari) identify it as the ruined fort east of Gomat; that vault orientation is not additional played geography."
+    },
+    "p02": {
+      "label": "Undisturbed grassy mound",
+      "kind": "mound",
+      "evidence": [
+        {
+          "startUid": "u0059",
+          "endUid": "u0064",
+          "quote": "Before we move—this, this, this other mound here. There’s something about it. There’s something sacred about this place, in a way—holy ground. It feels like somebody’s blessed this at some point."
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0069",
+          "quote": "Yeah, undisturbed."
+        },
+        {
+          "startUid": "u0085",
+          "endUid": "u0087",
+          "quote": "It’s—there’s grass. It’s a mound. You go up a little—it, you know, it feels solid under your feet. There's nothing strange about it as far as you can tell."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0009",
+              "endUid": "u0013",
+              "quote": "Okay, so you then had approached the ruins on the outskirts of this Dunmari fort. Discovered—trying to remember exactly what you discovered. There were two large mounds in—"
+            }
+          ]
+        }
+      ],
+      "note": "The opening party remains beside the mound; Seeker alone climbs onto it."
+    },
+    "p03": {
+      "label": "Foundations and abandoned campsite outside the fort",
+      "kind": "ruins",
+      "evidence": [
+        {
+          "startUid": "u0139",
+          "endUid": "u0142",
+          "quote": "Looking around, you can see in the shade of the bottom of one of these foundations, there's a neat camp site sort of nestled out of sight. Bedrolls, you know, what looks like a bit of—like, a sort of a pack with probably food and stuff in it, a shovel, the remains of a campfire, a small iron pot, you know, just sort of standard things like that."
+        },
+        {
+          "startUid": "u0164",
+          "endUid": "u0169",
+          "quote": "It’s—so it’s hard to tell exactly how old the camp is. It’s definitely more than a few days and it’s clearly not, you know, months old. But it’s—this is a dry, arid environment and you know it hasn't rained for a long time, so it could easily be three or four weeks old. It's just hard to get exactly how old it is. You do find a number of like, just kind of in the ruins, a number of, like, seemingly old bits of artifacts, like bits of metal spoons or iron nails, some shattered pottery and stuff. It seems like there used to be a small village or a few shops that are clearly quite a bit older than the camp itself, which is new on top of this."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0017",
+              "endUid": "u0018",
+              "quote": "Which you destroyed. There's—like, there were some ruins, some foundations of outbuildings and things like that. On the left as you approached, a dike and a causeway—the main road led on a causeway over the dike into a walled fort."
+            },
+            {
+              "startUid": "u0228",
+              "endUid": "u0231",
+              "quote": "The ruins out here that you're looking through there's seven or eight kind of intact foundations and probably a fair number more small outbuildings, probably like shops and whatever was supporting the fort. This wasn't a minor outpost. This was a notable location."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Southern gateway and open ground before headquarters",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0310",
+          "endUid": "u0315",
+          "quote": "But that came in the end. Okay, so you, you kind of, it's, it's not really easy to particularly hide on exposed causeway designed to be visible to attackers but you kind of creep the best you can. And when you come to one of these towers, right? So there's two causeway leads in between two towers, the gate has—the archway has completely fallen down and the towers have lost their roofs, but the two towers themselves are still largely intact. And so you can kind of creep along the side of the tower and just kind of trying to blend in as best you can with the with the wall and the and the and the sort of rocky ground around you."
+        },
+        {
+          "startUid": "u0316",
+          "endUid": "u0320",
+          "quote": "So most of this fort seems to be in ruins. What you're looking at is effectively a series of large rectangular square, just crumbled walls. Nowhere are the walls higher than about four to five feet. In all four sides of the rectangle, there are openings of some kind. It seems like only this southern entryway still has an intact causeway. And still has intact towers, but there's sort of rubble strewn around that you can see probably there were towers on all four corners, whether there were actual openings or not or just defensive towers is hard to tell."
+        },
+        {
+          "startUid": "u0327",
+          "endUid": "u0331",
+          "quote": "To the left is just foundations like of barracks or stables, or something like that. Mostly just like rows of stone, kind of in, you know, blending into the dirt and grass and and sand and rock here. Straight ahead, you do also see this large sort of headquarters building that's about 80 feet wide and about half that long, a rectangle sort of going this way. The roof has collapsed. The walls are still roughly intact. Behind it, there's more foundations barracks, or you know granary stable. It's hard to tell exactly what—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0316",
+              "endUid": "u0320",
+              "quote": "So most of this fort seems to be in ruins. What you're looking at is effectively a series of large rectangular square, just crumbled walls. Nowhere are the walls higher than about four to five feet. In all four sides of the rectangle, there are openings of some kind. It seems like only this southern entryway still has an intact causeway. And still has intact towers, but there's sort of rubble strewn around that you can see probably there were towers on all four corners, whether there were actual openings or not or just defensive towers is hard to tell."
+            },
+            {
+              "startUid": "u0327",
+              "endUid": "u0331",
+              "quote": "To the left is just foundations like of barracks or stables, or something like that. Mostly just like rows of stone, kind of in, you know, blending into the dirt and grass and and sand and rock here. Straight ahead, you do also see this large sort of headquarters building that's about 80 feet wide and about half that long, a rectangle sort of going this way. The roof has collapsed. The walls are still roughly intact. Behind it, there's more foundations barracks, or you know granary stable. It's hard to tell exactly what—"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Cracked cistern",
+      "kind": "cistern",
+      "evidence": [
+        {
+          "startUid": "u0321",
+          "endUid": "u0326",
+          "quote": "The only structure that is still completely standing and intact is to the northeast, so looking to your right and a bit ahead there's a fairly large pentagonal building with a metal roof that is still roughly intact. In between that building and the southern wall, there's a—what looks like a large cistern, about 10 feet across, a big sort of stone structure, like looking like almost like an enormous well. The stone wall around the outside of it is still open, but from where you're hiding, you can't see into it."
+        },
+        {
+          "startUid": "u0379",
+          "endUid": "u0382",
+          "quote": "So it's empty now. There you can see down the floor there. There was a—it's, it's constructed ground, right? So it was a it was paved and then layered with clay and sort of made waterproof, but there's a large crack in the bottom of that and descending into darkness below that. I guess you have dark vision right so?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0321",
+              "endUid": "u0326",
+              "quote": "The only structure that is still completely standing and intact is to the northeast, so looking to your right and a bit ahead there's a fairly large pentagonal building with a metal roof that is still roughly intact. In between that building and the southern wall, there's a—what looks like a large cistern, about 10 feet across, a big sort of stone structure, like looking like almost like an enormous well. The stone wall around the outside of it is still open, but from where you're hiding, you can't see into it."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Central headquarters building",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0327",
+          "endUid": "u0331",
+          "quote": "To the left is just foundations like of barracks or stables, or something like that. Mostly just like rows of stone, kind of in, you know, blending into the dirt and grass and and sand and rock here. Straight ahead, you do also see this large sort of headquarters building that's about 80 feet wide and about half that long, a rectangle sort of going this way. The roof has collapsed. The walls are still roughly intact. Behind it, there's more foundations barracks, or you know granary stable. It's hard to tell exactly what—"
+        },
+        {
+          "startUid": "u0789",
+          "endUid": "u0795",
+          "quote": "So there's a dead lion, partially digested seemingly partially digested by acid before it was eaten, that's lying sort of over here, and there was a pit going down right here. And then there's like some, you know, bits of ruins and things like that. But this building the roof has fallen, a long time ago. So—it seems pretty weathered and you know, not much else to see in here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0327",
+              "endUid": "u0331",
+              "quote": "To the left is just foundations like of barracks or stables, or something like that. Mostly just like rows of stone, kind of in, you know, blending into the dirt and grass and and sand and rock here. Straight ahead, you do also see this large sort of headquarters building that's about 80 feet wide and about half that long, a rectangle sort of going this way. The roof has collapsed. The walls are still roughly intact. Behind it, there's more foundations barracks, or you know granary stable. It's hard to tell exactly what—"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Pentagonal temple of the Five Siblings",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0888",
+          "endUid": "u0895",
+          "quote": "As the door swings open you can see inside the building is mostly dark except for there seems to be on on one of the walls, what you can see from this distance, anyway, is a flame, about the size of your hand, that seems to be burning touching nothing kind of just floating in the air, casting light around. And from the light of this flame, you can see the area inside looks as if a large earthquake has struck it. It's been shaken and things are cracked, but it's clearly a temple to the Five Siblings, the Dunmari pantheon. Each of the five walls has an altar to one of the gods. Jeevali, the goddess of life and rebirth, home, and family; Laka, the god of knowledge, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals. A few of the altars are."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0321",
+              "endUid": "u0326",
+              "quote": "The only structure that is still completely standing and intact is to the northeast, so looking to your right and a bit ahead there's a fairly large pentagonal building with a metal roof that is still roughly intact. In between that building and the southern wall, there's a—what looks like a large cistern, about 10 feet across, a big sort of stone structure, like looking like almost like an enormous well. The stone wall around the outside of it is still open, but from where you're hiding, you can't see into it."
+            },
+            {
+              "startUid": "u0888",
+              "endUid": "u0895",
+              "quote": "As the door swings open you can see inside the building is mostly dark except for there seems to be on on one of the walls, what you can see from this distance, anyway, is a flame, about the size of your hand, that seems to be burning touching nothing kind of just floating in the air, casting light around. And from the light of this flame, you can see the area inside looks as if a large earthquake has struck it. It's been shaken and things are cracked, but it's clearly a temple to the Five Siblings, the Dunmari pantheon. Each of the five walls has an altar to one of the gods. Jeevali, the goddess of life and rebirth, home, and family; Laka, the god of knowledge, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals. A few of the altars are."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Left gate tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u1121",
+          "endUid": "u1126",
+          "quote": "The, the one on the left. The, the seems basically full of rubble. The door has burst open. There are stones spilling out. From what you know, probably Wellby could squirm in but there's no way anybody—maybe Seeker—but there's no way that Delwath or or Kenzo is, is getting in inside through the sort of opening, but looking in, it seems largely that the that the sort of top half of the tower fell down into the middle of the tower and it's basically just full of rubble."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0310",
+              "endUid": "u0315",
+              "quote": "But that came in the end. Okay, so you, you kind of, it's, it's not really easy to particularly hide on exposed causeway designed to be visible to attackers but you kind of creep the best you can. And when you come to one of these towers, right? So there's two causeway leads in between two towers, the gate has—the archway has completely fallen down and the towers have lost their roofs, but the two towers themselves are still largely intact. And so you can kind of creep along the side of the tower and just kind of trying to blend in as best you can with the with the wall and the and the and the sort of rocky ground around you."
+            },
+            {
+              "startUid": "u1121",
+              "endUid": "u1126",
+              "quote": "The, the one on the left. The, the seems basically full of rubble. The door has burst open. There are stones spilling out. From what you know, probably Wellby could squirm in but there's no way anybody—maybe Seeker—but there's no way that Delwath or or Kenzo is, is getting in inside through the sort of opening, but looking in, it seems largely that the that the sort of top half of the tower fell down into the middle of the tower and it's basically just full of rubble."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Right gate tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u1139",
+          "endUid": "u1148",
+          "quote": "Tower on the right is in somewhat better shape. Only the roof seems to have collapsed, and the top little bit has fallen not down into the middle but off to the side, so you can see some rubble and stuff strewn across the ground here sort of pointing in the direction of the cistern. The door—the entryway—has rotted away. And essentially collapse so you can just kind of look in. There are still a bunch of rocks kind of strewn around, but not nearly quite the—you know, not, not nearly so full of rubble—full of rubble as the other one. You want to also search in there? Um—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0310",
+              "endUid": "u0315",
+              "quote": "But that came in the end. Okay, so you, you kind of, it's, it's not really easy to particularly hide on exposed causeway designed to be visible to attackers but you kind of creep the best you can. And when you come to one of these towers, right? So there's two causeway leads in between two towers, the gate has—the archway has completely fallen down and the towers have lost their roofs, but the two towers themselves are still largely intact. And so you can kind of creep along the side of the tower and just kind of trying to blend in as best you can with the with the wall and the and the and the sort of rocky ground around you."
+            },
+            {
+              "startUid": "u1139",
+              "endUid": "u1148",
+              "quote": "Tower on the right is in somewhat better shape. Only the roof seems to have collapsed, and the top little bit has fallen not down into the middle but off to the side, so you can see some rubble and stuff strewn across the ground here sort of pointing in the direction of the cistern. The door—the entryway—has rotted away. And essentially collapse so you can just kind of look in. There are still a bunch of rocks kind of strewn around, but not nearly quite the—you know, not, not nearly so full of rubble—full of rubble as the other one. You want to also search in there? Um—"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Caves beneath the fort",
+      "kind": "cave system",
+      "evidence": [
+        {
+          "startUid": "u0804",
+          "endUid": "u0810",
+          "quote": "It slopes down into a cave. It's like a—a hole that drops, maybe, you know, five or 10 feet into a like a cave entryway. And you can see that the ground kind of slopes down from from there like a passageway, almost. Natural—I mean, sorry, natural-looking. It's not constructed. It's not super big. It's like maybe—you know, the dwarf and the halfling can sort of easily walk comfortably, but the rest have to crouch."
+        },
+        {
+          "startUid": "u1263",
+          "endUid": "u1271",
+          "quote": "The crumbling hole in the floor slopes down in this fairly narrow tunnel, so Delwath and Kenzo, you have to duck your heads. And it continues down maybe 10 or 15, 20 feet, about 40 feet until you come to an opening. The ceiling above you is a little bit higher, and standing in front of you in this sort of opening, looking away from you, you see a statue of a human man, wearing a leather armor and cloak. In one hand is a dagger, the other arm is is broken off. And the face—the head—there are two corridors that exit, one to the left, one to the right from this, and the statue is looking to the left with a look of surprise. On the floor, you can see the other arm of the statue, which is holding a torch."
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1805",
+          "quote": "Okay. So you retreat back to the statue room and then take the right-hand tunnel. This passageway is much wider and it seems to have been traversed, you know, like the sides of the walls are kind of shaken, and occasionally you'll pass through a little patch of loose earth or something like that. It seems to have been traversed by bigger creatures, you can stand fully, fully up right here and it continues again sloping pretty steeply down for 60 or 70 feet. And again, you come out into a cavern. This, Seeker, looks familiar to you. And as you glance up, you can see a little bit of sunlight from the midafternoon sun shining down from the cracked floor of the cistern, and now you seem to be directly below the the cracked floor of the cistern. And you can see there's a spot where the floor has eroded away, and there are the remains of what was once a giant flow of water down here, and then it kind of washed some stuff away in this cavern. But it's all dry now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0804",
+              "endUid": "u0810",
+              "quote": "It slopes down into a cave. It's like a—a hole that drops, maybe, you know, five or 10 feet into a like a cave entryway. And you can see that the ground kind of slopes down from from there like a passageway, almost. Natural—I mean, sorry, natural-looking. It's not constructed. It's not super big. It's like maybe—you know, the dwarf and the halfling can sort of easily walk comfortably, but the rest have to crouch."
+            },
+            {
+              "startUid": "u1796",
+              "endUid": "u1805",
+              "quote": "Okay. So you retreat back to the statue room and then take the right-hand tunnel. This passageway is much wider and it seems to have been traversed, you know, like the sides of the walls are kind of shaken, and occasionally you'll pass through a little patch of loose earth or something like that. It seems to have been traversed by bigger creatures, you can stand fully, fully up right here and it continues again sloping pretty steeply down for 60 or 70 feet. And again, you come out into a cavern. This, Seeker, looks familiar to you. And as you glance up, you can see a little bit of sunlight from the midafternoon sun shining down from the cracked floor of the cistern, and now you seem to be directly below the the cracked floor of the cistern. And you can see there's a spot where the floor has eroded away, and there are the remains of what was once a giant flow of water down here, and then it kind of washed some stuff away in this cavern. But it's all dry now."
+            }
+          ]
+        }
+      ],
+      "note": "The cave system is beneath the fort, not asserted to be contained in its buildings."
+    },
+    "p11": {
+      "label": "Statue chamber at the tunnel fork",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1263",
+          "endUid": "u1271",
+          "quote": "The crumbling hole in the floor slopes down in this fairly narrow tunnel, so Delwath and Kenzo, you have to duck your heads. And it continues down maybe 10 or 15, 20 feet, about 40 feet until you come to an opening. The ceiling above you is a little bit higher, and standing in front of you in this sort of opening, looking away from you, you see a statue of a human man, wearing a leather armor and cloak. In one hand is a dagger, the other arm is is broken off. And the face—the head—there are two corridors that exit, one to the left, one to the right from this, and the statue is looking to the left with a look of surprise. On the floor, you can see the other arm of the statue, which is holding a torch."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1263",
+              "endUid": "u1271",
+              "quote": "The crumbling hole in the floor slopes down in this fairly narrow tunnel, so Delwath and Kenzo, you have to duck your heads. And it continues down maybe 10 or 15, 20 feet, about 40 feet until you come to an opening. The ceiling above you is a little bit higher, and standing in front of you in this sort of opening, looking away from you, you see a statue of a human man, wearing a leather armor and cloak. In one hand is a dagger, the other arm is is broken off. And the face—the head—there are two corridors that exit, one to the left, one to the right from this, and the statue is looking to the left with a look of surprise. On the floor, you can see the other arm of the statue, which is holding a torch."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0804",
+              "endUid": "u0810",
+              "quote": "It slopes down into a cave. It's like a—a hole that drops, maybe, you know, five or 10 feet into a like a cave entryway. And you can see that the ground kind of slopes down from from there like a passageway, almost. Natural—I mean, sorry, natural-looking. It's not constructed. It's not super big. It's like maybe—you know, the dwarf and the halfling can sort of easily walk comfortably, but the rest have to crouch."
+            },
+            {
+              "startUid": "u1263",
+              "endUid": "u1271",
+              "quote": "The crumbling hole in the floor slopes down in this fairly narrow tunnel, so Delwath and Kenzo, you have to duck your heads. And it continues down maybe 10 or 15, 20 feet, about 40 feet until you come to an opening. The ceiling above you is a little bit higher, and standing in front of you in this sort of opening, looking away from you, you see a statue of a human man, wearing a leather armor and cloak. In one hand is a dagger, the other arm is is broken off. And the face—the head—there are two corridors that exit, one to the left, one to the right from this, and the statue is looking to the left with a look of surprise. On the floor, you can see the other arm of the statue, which is holding a torch."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Muddy cockatrice chamber",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1639",
+          "endUid": "u1642",
+          "quote": "The passageway continues to slope down maybe 50 feet, twisting and getting a little bit narrower, to the point at which, Delwath, you're sort of hunched over, you know, bent nearly in half, kind of, almost crawling your way along the ground."
+        },
+        {
+          "startUid": "u1647",
+          "endUid": "u1648",
+          "quote": "Delwath, first you see in front of you a cave opening up, and there's a muddy pit that's surrounded by six chicken-sized—maybe small chicken-sized—things that look like a cross between a chicken and some sort of reptilian lizard-snake thing."
+        },
+        {
+          "startUid": "u1659",
+          "endUid": "u1660",
+          "quote": "Okay, two of them are pecking at what seem like unhatched eggs buried in the mud, and two of them seem to be fighting each other and pecking at each other but unable to turn each other to stone. Nobody has noticed you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1639",
+              "endUid": "u1642",
+              "quote": "The passageway continues to slope down maybe 50 feet, twisting and getting a little bit narrower, to the point at which, Delwath, you're sort of hunched over, you know, bent nearly in half, kind of, almost crawling your way along the ground."
+            },
+            {
+              "startUid": "u1647",
+              "endUid": "u1648",
+              "quote": "Delwath, first you see in front of you a cave opening up, and there's a muddy pit that's surrounded by six chicken-sized—maybe small chicken-sized—things that look like a cross between a chicken and some sort of reptilian lizard-snake thing."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1263",
+              "endUid": "u1271",
+              "quote": "The crumbling hole in the floor slopes down in this fairly narrow tunnel, so Delwath and Kenzo, you have to duck your heads. And it continues down maybe 10 or 15, 20 feet, about 40 feet until you come to an opening. The ceiling above you is a little bit higher, and standing in front of you in this sort of opening, looking away from you, you see a statue of a human man, wearing a leather armor and cloak. In one hand is a dagger, the other arm is is broken off. And the face—the head—there are two corridors that exit, one to the left, one to the right from this, and the statue is looking to the left with a look of surprise. On the floor, you can see the other arm of the statue, which is holding a torch."
+            },
+            {
+              "startUid": "u1633",
+              "endUid": "u1634",
+              "quote": "Because who is—you're still in the same order, Delwath and—yes, same order. Okay, so you continue."
+            },
+            {
+              "startUid": "u1639",
+              "endUid": "u1642",
+              "quote": "The passageway continues to slope down maybe 50 feet, twisting and getting a little bit narrower, to the point at which, Delwath, you're sort of hunched over, you know, bent nearly in half, kind of, almost crawling your way along the ground."
+            },
+            {
+              "startUid": "u1647",
+              "endUid": "u1648",
+              "quote": "Delwath, first you see in front of you a cave opening up, and there's a muddy pit that's surrounded by six chicken-sized—maybe small chicken-sized—things that look like a cross between a chicken and some sort of reptilian lizard-snake thing."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Cavern beneath the cracked cistern",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1796",
+          "endUid": "u1805",
+          "quote": "Okay. So you retreat back to the statue room and then take the right-hand tunnel. This passageway is much wider and it seems to have been traversed, you know, like the sides of the walls are kind of shaken, and occasionally you'll pass through a little patch of loose earth or something like that. It seems to have been traversed by bigger creatures, you can stand fully, fully up right here and it continues again sloping pretty steeply down for 60 or 70 feet. And again, you come out into a cavern. This, Seeker, looks familiar to you. And as you glance up, you can see a little bit of sunlight from the midafternoon sun shining down from the cracked floor of the cistern, and now you seem to be directly below the the cracked floor of the cistern. And you can see there's a spot where the floor has eroded away, and there are the remains of what was once a giant flow of water down here, and then it kind of washed some stuff away in this cavern. But it's all dry now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1796",
+              "endUid": "u1805",
+              "quote": "Okay. So you retreat back to the statue room and then take the right-hand tunnel. This passageway is much wider and it seems to have been traversed, you know, like the sides of the walls are kind of shaken, and occasionally you'll pass through a little patch of loose earth or something like that. It seems to have been traversed by bigger creatures, you can stand fully, fully up right here and it continues again sloping pretty steeply down for 60 or 70 feet. And again, you come out into a cavern. This, Seeker, looks familiar to you. And as you glance up, you can see a little bit of sunlight from the midafternoon sun shining down from the cracked floor of the cistern, and now you seem to be directly below the the cracked floor of the cistern. And you can see there's a spot where the floor has eroded away, and there are the remains of what was once a giant flow of water down here, and then it kind of washed some stuff away in this cavern. But it's all dry now."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1796",
+              "endUid": "u1805",
+              "quote": "Okay. So you retreat back to the statue room and then take the right-hand tunnel. This passageway is much wider and it seems to have been traversed, you know, like the sides of the walls are kind of shaken, and occasionally you'll pass through a little patch of loose earth or something like that. It seems to have been traversed by bigger creatures, you can stand fully, fully up right here and it continues again sloping pretty steeply down for 60 or 70 feet. And again, you come out into a cavern. This, Seeker, looks familiar to you. And as you glance up, you can see a little bit of sunlight from the midafternoon sun shining down from the cracked floor of the cistern, and now you seem to be directly below the the cracked floor of the cistern. And you can see there's a spot where the floor has eroded away, and there are the remains of what was once a giant flow of water down here, and then it kind of washed some stuff away in this cavern. But it's all dry now."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Inner cavern of the undead hobgoblin",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1992",
+          "endUid": "u1998",
+          "quote": "Okay, as Delwath freezes as he steps towards the entrance of this cave, you see ahead of you like looking past his shoulder a larger opening in front of you. There's a there's a cave opening up, and you can see a faint glow from the far side of the cave down the passageway. And you see, dropping from the ceiling as Delwath stands in front of you, three skeletons. Where do you want to do? They're starting to lumber towards, uh, where Delwath stopped."
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2212",
+          "quote": "You see, stepping into the—at the end of this round stepping into the from this passageway in the back, a hobgoblin of sorts, flesh rotting, pieces of its uniform falling apart. In one hand is holding a black iron staff, fixed to the top of which is a sphere of black obsidian. The obsidian is both drawing darkness to it and also pulsing darkness away from it, almost radiating a sense of of of darkness. And Delwath, I need you to make another Wisdom save."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1969",
+              "endUid": "u1970",
+              "quote": "Okay, you walk forward, following this passageway right down a little bit. As you begin to approach an opening ahead of you that opens into a larger cavern, I need you to make a Wisdom saving throw."
+            },
+            {
+              "startUid": "u1992",
+              "endUid": "u1998",
+              "quote": "Okay, as Delwath freezes as he steps towards the entrance of this cave, you see ahead of you like looking past his shoulder a larger opening in front of you. There's a there's a cave opening up, and you can see a faint glow from the far side of the cave down the passageway. And you see, dropping from the ceiling as Delwath stands in front of you, three skeletons. Where do you want to do? They're starting to lumber towards, uh, where Delwath stopped."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2635",
+              "endUid": "u2638",
+              "quote": "There it. There is another exit. There's an exit on the north east side, which if you can kind of imagine your spatial geometry, would lead into baby cockatrice room."
+            },
+            {
+              "startUid": "u2640",
+              "endUid": "u2640",
+              "quote": "It forms a kind of loop, yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Camp above the cliff",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0049",
+          "quote": "There was signs of it, of a camp where you left the horse."
+        },
+        {
+          "startUid": "u3064",
+          "endUid": "u3066",
+          "quote": "And as you head back to your camp, climbing up the cliff, you hear neighing. That is a good spot to end."
+        }
+      ],
+      "note": "The return is narrated while climbing the cliff and hearing the horse; arrival at camp is not explicitly completed."
+    },
+    "p16": {
+      "label": "Lookout above the abandoned campsite",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u0149",
+          "endUid": "u0149",
+          "quote": "I'll stay up and stay on lookout."
+        },
+        {
+          "startUid": "u0151",
+          "endUid": "u0153",
+          "quote": "Make a Perception check. Make a Perception check, Wellby. Who’s investigating?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0149",
+              "endUid": "u0149",
+              "quote": "I'll stay up and stay on lookout."
+            },
+            {
+              "startUid": "u0151",
+              "endUid": "u0153",
+              "quote": "Make a Perception check. Make a Perception check, Wellby. Who’s investigating?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0069"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is still outside the fort beside the mounds when active play resumes.",
+      "evidence": [
+        {
+          "startUid": "u0057",
+          "endUid": "u0058",
+          "quote": "We go onwards, cautiously, and keep an eye over these."
+        },
+        {
+          "startUid": "u0059",
+          "endUid": "u0064",
+          "quote": "Before we move—this, this, this other mound here. There’s something about it. There’s something sacred about this place, in a way—holy ground. It feels like somebody’s blessed this at some point."
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0069",
+          "quote": "Yeah, undisturbed."
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0013",
+          "quote": "Okay, so you then had approached the ruins on the outskirts of this Dunmari fort. Discovered—trying to remember exactly what you discovered. There were two large mounds in—"
+        }
+      ],
+      "place": "p02",
+      "note": "The party is beside the undisturbed mound; only Seeker’s next movement establishes climbing onto it."
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0083",
+        "endUid": "u0087"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker climbs a little way onto the grassy mound.",
+      "evidence": [
+        {
+          "startUid": "u0083",
+          "endUid": "u0084",
+          "quote": "Can I try to walk up a little ways onto the grassy mound?"
+        },
+        {
+          "startUid": "u0085",
+          "endUid": "u0087",
+          "quote": "It’s—there’s grass. It’s a mound. You go up a little—it, you know, it feels solid under your feet. There's nothing strange about it as far as you can tell."
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0139",
+        "endUid": "u0159"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath and Seeker descend into the foundations to investigate the abandoned campsite.",
+      "evidence": [
+        {
+          "startUid": "u0139",
+          "endUid": "u0142",
+          "quote": "Looking around, you can see in the shade of the bottom of one of these foundations, there's a neat camp site sort of nestled out of sight. Bedrolls, you know, what looks like a bit of—like, a sort of a pack with probably food and stuff in it, a shovel, the remains of a campfire, a small iron pot, you know, just sort of standard things like that."
+        },
+        {
+          "startUid": "u0146",
+          "endUid": "u0146",
+          "quote": "Climb down and investigate a little bit more closely."
+        },
+        {
+          "startUid": "u0157",
+          "endUid": "u0159",
+          "quote": "I'll go investigate as well. That’s a five. Oh, no. It was terrible. Bottom—"
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0163",
+          "quote": "So, I’m—Delwath, you spend some time poking around."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0149",
+        "endUid": "u0153"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby remains above the campsite as lookout while the others investigate below.",
+      "evidence": [
+        {
+          "startUid": "u0149",
+          "endUid": "u0149",
+          "quote": "I'll stay up and stay on lookout."
+        },
+        {
+          "startUid": "u0151",
+          "endUid": "u0153",
+          "quote": "Make a Perception check. Make a Perception check, Wellby. Who’s investigating?"
+        }
+      ],
+      "place": "p16"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0310",
+        "endUid": "u0315"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby creeps over the exposed causeway to the southern gate towers and scouts the fort.",
+      "evidence": [
+        {
+          "startUid": "u0310",
+          "endUid": "u0315",
+          "quote": "But that came in the end. Okay, so you, you kind of, it's, it's not really easy to particularly hide on exposed causeway designed to be visible to attackers but you kind of creep the best you can. And when you come to one of these towers, right? So there's two causeway leads in between two towers, the gate has—the archway has completely fallen down and the towers have lost their roofs, but the two towers themselves are still largely intact. And so you can kind of creep along the side of the tower and just kind of trying to blend in as best you can with the with the wall and the and the and the sort of rocky ground around you."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0342",
+        "endUid": "u0371"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "The others cross the causeway to join Wellby at the southern entrance.",
+      "evidence": [
+        {
+          "startUid": "u0342",
+          "endUid": "u0343",
+          "quote": "I’ll look back to you and I'll wave, you know, I’ll sort of give an all clear, you know, and wave you to come over and then point to my ear and just sort of make a listening gesture. And once you’re within 30 feet of me, I'll relay what I know."
+        },
+        {
+          "startUid": "u0352",
+          "endUid": "u0352",
+          "quote": "Um, alright, so we cross over."
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0354",
+          "quote": "Are we are crossing over? Yeah."
+        },
+        {
+          "startUid": "u0367",
+          "endUid": "u0371",
+          "quote": "Okay. Make another survival check, whoever wants to track. At first, as you cross over. There's a little bit there seems to be like signs almost of a of a—like a small scuffle, or possibly a little bit of combat of some kind, but there's no bodies or anything here and the ground is pretty disturbed just inside the towers and it's you can't really pick up—on the inside here, it's more packed earth, and so the tracks are much harder to see. And so, outside of this little area of a skirmish or something just inside the towers, you can't see which direction the tracks went."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0384"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker goes to the cistern and peers over its edge.",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0372",
+          "quote": "All right, I want to look at the cistern."
+        },
+        {
+          "startUid": "u0373",
+          "endUid": "u0376",
+          "quote": "OK. So the it's a it's certainly it's definitely like the the—top portion or the entryway to some sort of underground cistern where water was presumably stored. I assume looking means peering down into it."
+        },
+        {
+          "startUid": "u0377",
+          "endUid": "u0377",
+          "quote": "Cautiously sticking my head over the edge. Yeah."
+        },
+        {
+          "startUid": "u0528",
+          "endUid": "u0528",
+          "quote": "Okay, so—but Seeker, you're looking at the cistern. You're about 200 feet away, or—"
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0379",
+        "endUid": "u0389"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker sees a cave floor through the broken cistern bottom, without descending.",
+      "evidence": [
+        {
+          "startUid": "u0379",
+          "endUid": "u0382",
+          "quote": "So it's empty now. There you can see down the floor there. There was a—it's, it's constructed ground, right? So it was a it was paved and then layered with clay and sort of made waterproof, but there's a large crack in the bottom of that and descending into darkness below that. I guess you have dark vision right so?"
+        },
+        {
+          "startUid": "u0384",
+          "endUid": "u0384",
+          "quote": "It drops maybe 40 feet down into what looks like almost the floor—looking down into the cistern, you see what looks like the floor of a cave. There's some rocky dirt and—"
+        },
+        {
+          "startUid": "u0386",
+          "endUid": "u0389",
+          "quote": "You can see there's it's cracked and like the water sort of poured out and you can see sort of how the flow of the water kind of washed away some of the stone and earth, and now you're looking at some sort of underground cave below them, but you can't really make out any details or anything."
+        }
+      ],
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p05",
+      "note": "The later visit at u1796–u1805 identifies this as the cavern beneath the cistern."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0448",
+        "endUid": "u0510"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby approaches headquarters but is ambushed on the open ground before entering.",
+      "evidence": [
+        {
+          "startUid": "u0448",
+          "endUid": "u0454",
+          "quote": "Okay, um, as you creep forward, you got about—I would say about 50 feet away from the—40 or 50 feet away from the door, and the noise stops. And—you pause for a moment and listen and you hear the what's sounds to you like something digging."
+        },
+        {
+          "startUid": "u0456",
+          "endUid": "u0457",
+          "quote": "No, the central building, where you heard the noise."
+        },
+        {
+          "startUid": "u0491",
+          "endUid": "u0496",
+          "quote": "Everybody else is, like, way far away, but Wellby is right about there. You guys are you guys are far away as—this large creature—let's, let's—let's make this music slightly more appropriate at the moment. Hold on here."
+        },
+        {
+          "startUid": "u0497",
+          "endUid": "u0510",
+          "quote": "This large creature bursts out from underground, its jaws snapping. It looks like I'm—like sort of an eight-legged cross between a—like a—between a centipede and—now a, like a cross between like a centipede and a praying mantis, comes flying out of the earth and grabs Wellby in its mandibles, doing five points of slashing damage and three points of acid damage. It then grapples you in its claws. And its bite. And now Delwath's Eldritch Blast can fire off."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "interrupted"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u0532",
+        "endUid": "u0714"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The party converges on the open ground before headquarters during the ankheg fight.",
+      "evidence": [
+        {
+          "startUid": "u0532",
+          "endUid": "u0541",
+          "quote": "Well, that's very convenient because I have a spell of with range 90 feet. That—oh, man. Get ready. So I'm going to start running in the direction of the action, and waving my fingers in the air, sending motion and—oh—wait. I can't do my screen sharing thing while you're doing shared sound."
+        },
+        {
+          "startUid": "u0576",
+          "endUid": "u0579",
+          "quote": "Yeah, I'm about where I am. Okay. Yeah. So, Kenzo rushes forward staff spinning and—and—and strikes, strikes with his, with his staff. So—"
+        },
+        {
+          "startUid": "u0615",
+          "endUid": "u0615",
+          "quote": "Delwath will run up here, drawing his sword as he runs, but then, instead of attacking—can't quite reach it—holds wide a hand, and a green burst of energy comes from his hand."
+        },
+        {
+          "startUid": "u0659",
+          "endUid": "u0660",
+          "quote": "So go here and then I'm going to dig out the area like in back behind it like—there."
+        },
+        {
+          "startUid": "u0702",
+          "endUid": "u0703",
+          "quote": "Will take my bonus cunning action to disengage. So it releases me and I do a backward somersault and pop up and backpedal myself backwards while I'm pulling my bow back, and then take a shot at this thing. Shortbow."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0787",
+        "endUid": "u0795"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the ankheg dies, the party enters headquarters and investigates its underground opening.",
+      "evidence": [
+        {
+          "startUid": "u0787",
+          "endUid": "u0787",
+          "quote": "And you go into the building to investigate."
+        },
+        {
+          "startUid": "u0788",
+          "endUid": "u0788",
+          "quote": "Yes, left of the building."
+        },
+        {
+          "startUid": "u0789",
+          "endUid": "u0795",
+          "quote": "So there's a dead lion, partially digested seemingly partially digested by acid before it was eaten, that's lying sort of over here, and there was a pit going down right here. And then there's like some, you know, bits of ruins and things like that. But this building the roof has fallen, a long time ago. So—it seems pretty weathered and you know, not much else to see in here."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0868",
+        "endUid": "u1049"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes from headquarters to the temple, examines its relics, and rests inside.",
+      "evidence": [
+        {
+          "startUid": "u0868",
+          "endUid": "u0869",
+          "quote": "It's lions and the insect creature's signs. You can't really tell. Okay, so you're going to head over to the pentagonal building."
+        },
+        {
+          "startUid": "u0870",
+          "endUid": "u0870",
+          "quote": "Yes."
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0895",
+          "quote": "As the door swings open you can see inside the building is mostly dark except for there seems to be on on one of the walls, what you can see from this distance, anyway, is a flame, about the size of your hand, that seems to be burning touching nothing kind of just floating in the air, casting light around. And from the light of this flame, you can see the area inside looks as if a large earthquake has struck it. It's been shaken and things are cracked, but it's clearly a temple to the Five Siblings, the Dunmari pantheon. Each of the five walls has an altar to one of the gods. Jeevali, the goddess of life and rebirth, home, and family; Laka, the god of knowledge, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals. A few of the altars are."
+        },
+        {
+          "startUid": "u0907",
+          "endUid": "u0913",
+          "quote": "The floor is—where you can see below the the like bits of rubble and stuff is cracked stone, like it was at one point tiled. Many of the tiles have cracked. You know, there was once like little sort of seating areas or or sort of areas for contemplation in front of each of the altars, but those have all been sort of shattered and thrown apart. It look—it’s a mess, right? It looks like you know somebody shook the building and then put it back down, the walls and roof intact, but everything inside of it, shaken."
+        },
+        {
+          "startUid": "u0941",
+          "endUid": "u0941",
+          "quote": "I would want—I think we should rest here."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1049",
+          "quote": "So just, you see, you see, Kenzo kind of, you know, head over to a particular wall and carefully lay down his staff and his materials, his pack, and then strikes a lotus pose and just enters this state of deep meditation as he rests, just not moving at all, but completely—yeah, just there. But there's an aura about him as he's doing it."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1136"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby squeezes inside the rubble-filled left tower and searches it.",
+      "evidence": [
+        {
+          "startUid": "u1127",
+          "endUid": "u1127",
+          "quote": "Well, I'll squirm in and take a look around, just for a—"
+        },
+        {
+          "startUid": "u1128",
+          "endUid": "u1129",
+          "quote": "Second. Once on the inside—well, give me a Perception check, I guess. Yes."
+        },
+        {
+          "startUid": "u1131",
+          "endUid": "u1136",
+          "quote": "The inside is very clearly just full of rubble. Nothing really, as far as you can tell. You look straight up; you can see the sky above you, it's kind of nice and cool actually against the stone wall but—nothing really to see but rubble. I lied."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1139",
+        "endUid": "u1157"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby searches the right tower, finds the horn beside a skeleton, and brings it outside.",
+      "evidence": [
+        {
+          "startUid": "u1139",
+          "endUid": "u1148",
+          "quote": "Tower on the right is in somewhat better shape. Only the roof seems to have collapsed, and the top little bit has fallen not down into the middle but off to the side, so you can see some rubble and stuff strewn across the ground here sort of pointing in the direction of the cistern. The door—the entryway—has rotted away. And essentially collapse so you can just kind of look in. There are still a bunch of rocks kind of strewn around, but not nearly quite the—you know, not, not nearly so full of rubble—full of rubble as the other one. You want to also search in there? Um—"
+        },
+        {
+          "startUid": "u1149",
+          "endUid": "u1154",
+          "quote": "It it mostly seems to be full of rubble. The one thing that you do see that sort of catches your eye as you're turning to leave after sort of looking around is a mostly decomposed skeleton. Most of its items and equipment, whatever it had, rusted away. But what catches your eye is a little bit of a glint from a, like a horn made out of a ram's horn, but with a silver filigree design on it, and the glint of the silver in the sun catches your eye."
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1156",
+          "quote": "I'll bring it out with me, and—we suppose this thing is?"
+        },
+        {
+          "startUid": "u1157",
+          "endUid": "u1157",
+          "quote": "So bringing it out in the sun, you can see that the silver is in the design of a galloping horse."
+        }
+      ],
+      "from": "p08",
+      "to": "p04",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Enters the right tower and retrieves the horn, then emerges into the sun."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1186",
+        "endUid": "u1196"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo examines the skeleton in the right tower.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1181",
+          "quote": "Tim, can I investigate the skeleton and do a Perception check, see if I can learn even more about whoever used to own it?"
+        },
+        {
+          "startUid": "u1186",
+          "endUid": "u1192",
+          "quote": "So most of the skeleton's gear has rusted and rotted away, except for this horn. The—sorry, from what is left, though this was probably an individual who was not likely a full soldier. Maybe a scout, an outrider, somebody like that. The little bits of armor and stuff that are remaining are pretty light, and there's not rusted weapons or anything like that that you can see. Although conceivably something could have rusted entirely away. You're pretty careful sort of moving things around. The best there, you can come up with is this was maybe a—maybe like a scout or something like that in the army."
+        },
+        {
+          "startUid": "u1195",
+          "endUid": "u1196",
+          "quote": "For a while, I mean, it's certainly it's been here long enough for it to, you know, in the dry desert air, have all the flesh rot away or be eaten by insects and the skeleton to kind of yellow a little bit. Maybe not 200—maybe a generation after the Great War—but roughly that time period."
+        }
+      ],
+      "from": null,
+      "to": "p09",
+      "completion": "arrived",
+      "note": "His exact intervening position outside the towers is not narrated."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1222",
+        "endUid": "u1271"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party descends the headquarters tunnel and reaches the chamber with the broken human statue.",
+      "evidence": [
+        {
+          "startUid": "u1222",
+          "endUid": "u1223",
+          "quote": "I think that's resolved, who is carrying the light? It's dark as you drop down, so only Delwath and Seeker can see without light."
+        },
+        {
+          "startUid": "u1263",
+          "endUid": "u1271",
+          "quote": "The crumbling hole in the floor slopes down in this fairly narrow tunnel, so Delwath and Kenzo, you have to duck your heads. And it continues down maybe 10 or 15, 20 feet, about 40 feet until you come to an opening. The ceiling above you is a little bit higher, and standing in front of you in this sort of opening, looking away from you, you see a statue of a human man, wearing a leather armor and cloak. In one hand is a dagger, the other arm is is broken off. And the face—the head—there are two corridors that exit, one to the left, one to the right from this, and the statue is looking to the left with a look of surprise. On the floor, you can see the other arm of the statue, which is holding a torch."
+        }
+      ],
+      "from": "p06",
+      "to": "p11",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Descends the low, sloping tunnel, crouching where needed."
+        }
+      ],
+      "note": "Returning from the towers to the headquarters opening is compressed in the accepted descent."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1633",
+        "endUid": "u1652"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party follows the left passage and stops at the entrance overlooking the muddy chamber.",
+      "evidence": [
+        {
+          "startUid": "u1633",
+          "endUid": "u1634",
+          "quote": "Because who is—you're still in the same order, Delwath and—yes, same order. Okay, so you continue."
+        },
+        {
+          "startUid": "u1639",
+          "endUid": "u1642",
+          "quote": "The passageway continues to slope down maybe 50 feet, twisting and getting a little bit narrower, to the point at which, Delwath, you're sort of hunched over, you know, bent nearly in half, kind of, almost crawling your way along the ground."
+        },
+        {
+          "startUid": "u1644",
+          "endUid": "u1646",
+          "quote": "The halfling and dwarf are still fine. Maybe—just maybe—Seeker, you just have to bend your head, but Wellby—whatever this is—is perfectly fine. Until you come out—"
+        },
+        {
+          "startUid": "u1647",
+          "endUid": "u1648",
+          "quote": "Delwath, first you see in front of you a cave opening up, and there's a muddy pit that's surrounded by six chicken-sized—maybe small chicken-sized—things that look like a cross between a chicken and some sort of reptilian lizard-snake thing."
+        },
+        {
+          "startUid": "u1664",
+          "endUid": "u1664",
+          "quote": "Signal for everybody to stop."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "underway",
+      "note": "They remain in the corridor watching; physical entry into the nursery is not established."
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u1647",
+        "endUid": "u1738"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the passage the party watches the cockatrice nursery, the petrifying lion, and the exit beyond the mud.",
+      "evidence": [
+        {
+          "startUid": "u1647",
+          "endUid": "u1648",
+          "quote": "Delwath, first you see in front of you a cave opening up, and there's a muddy pit that's surrounded by six chicken-sized—maybe small chicken-sized—things that look like a cross between a chicken and some sort of reptilian lizard-snake thing."
+        },
+        {
+          "startUid": "u1657",
+          "endUid": "u1657",
+          "quote": "Turn to flesh and then swipe at one of the creatures, which then ducks out of the way and pecks it on the claw, and it turns to stone again."
+        },
+        {
+          "startUid": "u1659",
+          "endUid": "u1660",
+          "quote": "Okay, two of them are pecking at what seem like unhatched eggs buried in the mud, and two of them seem to be fighting each other and pecking at each other but unable to turn each other to stone. Nobody has noticed you."
+        },
+        {
+          "startUid": "u1713",
+          "endUid": "u1713",
+          "quote": "How often is the lion turning back? Let's just try and hide in the corridor and watch for a little bit."
+        },
+        {
+          "startUid": "u1714",
+          "endUid": "u1719",
+          "quote": "The first time it turned back at—turned back almost immediately. And then the second time it's maybe a minute and it turns back again, and then it just swats one and crushes it on the ground. Then it gets pecked again and turns again for a minute. And then it seems like maybe if you wait quietly, the lion might be able to squish these things. They seem not to be—like one good swipe of the of the lion's claws seem to squish one of the, of the these little baby cockatrices, if that's what they are. And then—"
+        },
+        {
+          "startUid": "u1736",
+          "endUid": "u1738",
+          "quote": "From this—let's see. There, just in the shadows at the edge of your darkvision, on the other side of the muddy patch, there does seem to be a passageway leading south."
+        }
+      ],
+      "place": "p12",
+      "mode": "local",
+      "note": "The observers are in the approach corridor; no nursery visit is inferred."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1768",
+        "endUid": "u1805"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party retreats to the statue chamber, takes the wider right passage, and reaches the cavern beneath the cistern.",
+      "evidence": [
+        {
+          "startUid": "u1768",
+          "endUid": "u1769",
+          "quote": "Sure. Right. So let's take it back up. Look."
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1805",
+          "quote": "Okay. So you retreat back to the statue room and then take the right-hand tunnel. This passageway is much wider and it seems to have been traversed, you know, like the sides of the walls are kind of shaken, and occasionally you'll pass through a little patch of loose earth or something like that. It seems to have been traversed by bigger creatures, you can stand fully, fully up right here and it continues again sloping pretty steeply down for 60 or 70 feet. And again, you come out into a cavern. This, Seeker, looks familiar to you. And as you glance up, you can see a little bit of sunlight from the midafternoon sun shining down from the cracked floor of the cistern, and now you seem to be directly below the the cracked floor of the cistern. And you can see there's a spot where the floor has eroded away, and there are the remains of what was once a giant flow of water down here, and then it kind of washed some stuff away in this cavern. But it's all dry now."
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Returns from the nursery approach to the statue chamber.",
+          "place": "p11"
+        },
+        {
+          "reading": "Takes the right-hand tunnel downhill."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1969",
+        "endUid": "u2022"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath approaches the inner cavern entrance and freezes as skeletons advance.",
+      "evidence": [
+        {
+          "startUid": "u1969",
+          "endUid": "u1970",
+          "quote": "Okay, you walk forward, following this passageway right down a little bit. As you begin to approach an opening ahead of you that opens into a larger cavern, I need you to make a Wisdom saving throw."
+        },
+        {
+          "startUid": "u1988",
+          "endUid": "u1990",
+          "quote": "Delwath freezes for a moment. And the rest of you see—who was second in line?"
+        },
+        {
+          "startUid": "u1992",
+          "endUid": "u1998",
+          "quote": "Okay, as Delwath freezes as he steps towards the entrance of this cave, you see ahead of you like looking past his shoulder a larger opening in front of you. There's a there's a cave opening up, and you can see a faint glow from the far side of the cave down the passageway. And you see, dropping from the ceiling as Delwath stands in front of you, three skeletons. Where do you want to do? They're starting to lumber towards, uh, where Delwath stopped."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "underway"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2051",
+        "endUid": "u2370"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Kenzo, Delwath, and Wellby advance into the inner cavern during the fight.",
+      "evidence": [
+        {
+          "startUid": "u2051",
+          "endUid": "u2057",
+          "quote": "Okay, make a Wisdom saving throw and also send me a message. Okay. You feel a momentary shudder, but nothing else. So that's your move. Did you see the message I sent you though? I do. Okay. Ah—so can you see you can see the skeletons. Now I think right?"
+        },
+        {
+          "startUid": "u2336",
+          "endUid": "u2342",
+          "quote": "Alright. A look of deep uncontrollable anger comes over my face. And I practically quivering as I draw and, like, shaking as I shoot."
+        },
+        {
+          "startUid": "u2369",
+          "endUid": "u2370",
+          "quote": "All right, like screaming at the top of my lungs, “I fucking hate caves!” With quarterstaff raised, I charge at the dude and try to strike him with my quarterstaff."
+        },
+        {
+          "startUid": "u2421",
+          "endUid": "u2425",
+          "quote": "I am going to I have a couple things going on. First of all, Hexblade's Curse on this creature, which gives me a plus-two bonus to damage rolls and a crit on 19 or 20. Oh wait, I can only—one, two, three, four—I need to move. I'm going to move. Need to be need to be closer for that."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2511",
+        "endUid": "u2519"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker joins the others inside the inner cavern after the fight and feels a brief wave of anger.",
+      "evidence": [
+        {
+          "startUid": "u2511",
+          "endUid": "u2511",
+          "quote": "I think—are you, you’re coming to the rest sort of where the rest of them are?"
+        },
+        {
+          "startUid": "u2512",
+          "endUid": "u2512",
+          "quote": "Hello. Yeah, I'm like cautiously walking over."
+        },
+        {
+          "startUid": "u2516",
+          "endUid": "u2516",
+          "quote": "You sort of feel a momentary wave of anger pass over you as you step into the cave, but—"
+        },
+        {
+          "startUid": "u2519",
+          "endUid": "u2519",
+          "quote": "It fades quickly."
+        }
+      ],
+      "from": null,
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2763",
+        "endUid": "u2797"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The proposed transport of the staff outside is abandoned as departure begins; the party decides to destroy it in the cave.",
+      "evidence": [
+        {
+          "startUid": "u2763",
+          "endUid": "u2764",
+          "quote": "We can take it outside. I think we should. Let's—"
+        },
+        {
+          "startUid": "u2765",
+          "endUid": "u2766",
+          "quote": "Let's, let's get it up onto the disk. We can float it up out of the cave. Get some fresh air."
+        },
+        {
+          "startUid": "u2780",
+          "endUid": "u2780",
+          "quote": "Let's put them on the disk. As soon as you start walking away from here—"
+        },
+        {
+          "startUid": "u2781",
+          "endUid": "u2782",
+          "quote": "Delwath throws up his hand as soon as we start to leave. I think it's better if we destroy it here."
+        },
+        {
+          "startUid": "u2796",
+          "endUid": "u2797",
+          "quote": "I'm with Delwath. We destroy—we destroy this thing here."
+        }
+      ],
+      "from": "p14",
+      "to": null,
+      "completion": "interrupted",
+      "note": "No surface arrival is established before the staff is destroyed."
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u3042",
+        "endUid": "u3055"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the temple with the statue for a long rest, then wakes the next morning.",
+      "evidence": [
+        {
+          "startUid": "u3042",
+          "endUid": "u3042",
+          "quote": "What if we take that and take the statue up and then take a long rest in the temple, so—"
+        },
+        {
+          "startUid": "u3044",
+          "endUid": "u3046",
+          "quote": "I support that plan. We can park the statue at—no, park the statue inside there with us. Yeah."
+        },
+        {
+          "startUid": "u3048",
+          "endUid": "u3048",
+          "quote": "Yeah inside."
+        },
+        {
+          "startUid": "u3054",
+          "endUid": "u3055",
+          "quote": "Let's say you take a long rest. And then, when you wake up in the morning,"
+        }
+      ],
+      "from": "p14",
+      "to": "p07",
+      "completion": "arrived",
+      "note": "The accepted plan and narrated rest compress the return; transport uses the floating disk discussed at u2775–u2780."
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u3064",
+        "endUid": "u3066"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The next morning the party heads back toward camp, climbing the cliff and hearing the horse neigh.",
+      "evidence": [
+        {
+          "startUid": "u3064",
+          "endUid": "u3066",
+          "quote": "And as you head back to your camp, climbing up the cliff, you hear neighing. That is a good spot to end."
+        }
+      ],
+      "from": "p07",
+      "to": "p15",
+      "completion": "underway",
+      "route": [
+        {
+          "reading": "Climbs the cliff on the return toward camp."
+        }
+      ]
+    }
+  ]
+}
