@@ -1,0 +1,1018 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-043",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+    "sessionYamlSha256": "6cd9370f298a21dccdd41be3ef0a2be190d080c93b21f656f0b9617056d8b57a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-transcript.md",
+    "transcriptSha256": "1327c9364464c829ad7990da41f6b00e21f423bdf730c9c924e3481e5cdb5a68"
+  },
+  "places": {
+    "p01": {
+      "label": "Crossroads Inn",
+      "evidence": [
+        {
+          "startUid": "u0200",
+          "endUid": "u0208",
+          "quote": "DM: And and what you've heard so so you have heard before I before we get started on the main intro I'll say so you, you know, having spoken to people at the at the at the Crossroads Inn like as you had as you had gone west, you know that, so the road goes through these the Copper Hills, which are you know a bit more sort of a rugged pretty sparsely settled area."
+        }
+      ],
+      "kind": "caravanserai",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Melavan Caravanserai.md",
+      "note": "Identified as Melavan Caravanserai by Session 43 (DuFr) and its own note. The canonical name remains tentative; the transcript calls it the Crossroads Inn."
+    },
+    "p02": {
+      "label": "Road west toward Darba",
+      "evidence": [
+        {
+          "startUid": "u0308",
+          "endUid": "u0314",
+          "quote": "DM: As you ride West leaving the old trade road with its still maintained large paving blocks and wide course wide enough for two caravans, to pass each other behind and set off on the muddy dirt track still fairly wide and you know clearly maintained but you know, muddy in the monsoon and dry and dusty in the hot summer, that head to the Copper Hills and Darba, you find yourself, for the first time in quite a while, actually heading off into the unknown."
+        }
+      ],
+      "kind": "road",
+      "vaultPath": "Gazetteer/Greater Dunmar/Roads/Tokra-Darba Road.md"
+    },
+    "p03": {
+      "label": "Last Inn settlement",
+      "evidence": [
+        {
+          "startUid": "u0389",
+          "endUid": "u0409",
+          "quote": "DM: And the day passes and eventually by evening, as the clouds lift and the sunset casts a golden light across the the the fields, which you know you are now passing little clumps of trees, occasionally, you can see little rocky outcroppings of the land is getting more both wetter and and rougher. So less rolling seas of grass and more sort of little clumps of trees and little rocky outcroppings and things. I mean, you can see the the the sort of. Last Inn settlement ahead um you can see it from a few miles away it's a um it's a. Like a small sort of camp inn but it's got a wooden palisade around the outside."
+        }
+      ],
+      "kind": "fortified caravanserai",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Akela Inn.md",
+      "note": "Amar and Session 43 (DuFr) identify the played Last Inn as Akela Inn. The settlement includes the inn, stables, temple and other buildings; the transcript does not use the later canonical name."
+    },
+    "p04": {
+      "label": "Inn common room",
+      "evidence": [
+        {
+          "startUid": "u0586",
+          "endUid": "u0598",
+          "quote": "DM: It sort of looks around the room, and this is like a you know, a fairly large sort of common room that like spills out the front of the inn so it's like indoor outdoor sort of thing where there's like awnings that extend out to some tables in the outside, and you know there's a big stable over there as well, and it's you know fairly noisy and bustling coming in around sunset a lot of the. You know the guard types, who are sort of hanging around are coming in."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0586",
+              "endUid": "u0598",
+              "quote": "DM: It sort of looks around the room, and this is like a you know, a fairly large sort of common room that like spills out the front of the inn so it's like indoor outdoor sort of thing where there's like awnings that extend out to some tables in the outside, and you know there's a big stable over there as well, and it's you know fairly noisy and bustling coming in around sunset a lot of the. You know the guard types, who are sort of hanging around are coming in."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Bandit lookout ledge",
+      "evidence": [
+        {
+          "startUid": "u1132",
+          "endUid": "u1144",
+          "quote": "DM: You saw you're looking at the ground below you spiraling up on the on the thermals and the day and you can see, maybe three miles west of here—"
+        }
+      ],
+      "kind": "cliff ledge",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1116",
+              "endUid": "u1119",
+              "quote": "the road, this trail passes close to the edge of these Copper Hills"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Sheltered roadside stop for Justan’s story",
+      "evidence": [
+        {
+          "startUid": "u1479",
+          "endUid": "u1491",
+          "quote": "DM: Like us, on a few miles now you're you're sort of passing through the this sort of area of sort of rocky terrain, just at the sort of entrance to this sort of hilly area."
+        }
+      ],
+      "kind": "roadside shelter",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1479",
+              "endUid": "u1484",
+              "quote": "DM: Like us, on a few miles now you're you're sort of passing through the this sort of area of sort of rocky terrain, just at the sort of entrance to this sort of hilly area."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Camp after recruiting the bandits",
+      "evidence": [
+        {
+          "startUid": "u1848",
+          "endUid": "u1849",
+          "quote": "DM: But you're you're quite convinced that nobody's going to try and turn like the mood of the of the ride, as you ride through the rest of the day and set up camp, the mood is definitely not like, ‘We can betray you.’ The mood is, you know, some of them are like—you know, the like Justan, though, like leader veteran guys, kind of, you know, talking them up a little bit and trying to get them psyched. Like this, it's like that, you know."
+        }
+      ],
+      "kind": "camp",
+      "note": "The camp is on the onward journey in the Copper Hills country; it is not the bandits’ separate abandoned-mine base.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1972",
+              "endUid": "u1988",
+              "quote": "DM: Yeah so I mean what you what you can sort of gather this is like this night in Camp this is your the same night you collected them, but after paying them and, like feeding them and stuff so definitely more chatty although the—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Overhead-sheltered campsite south of the road",
+      "evidence": [
+        {
+          "startUid": "u2160",
+          "endUid": "u2176",
+          "quote": "DM: You are passing past the hills right it's a bit of a it's maybe. Three to five miles out of your way to the South to go find some little sheltered cave to sleep in but that's certainly a possibility. I mean we should definitely do that, I think."
+        }
+      ],
+      "kind": "camp",
+      "note": "The party sought a cave; the accepted site provides protection from above but is not particularly hidden.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2160",
+              "endUid": "u2174",
+              "quote": "DM: You are passing past the hills right it's a bit of a it's maybe. Three to five miles out of your way to the South to go find some little sheltered cave to sleep in but that's certainly a possibility. I mean we should definitely do that, I think."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Dead-horse site south of the road",
+      "evidence": [
+        {
+          "startUid": "u2189",
+          "endUid": "u2194",
+          "quote": "DM: Around lunchtime you see a little ways off the road, maybe 100 yards to the south."
+        }
+      ],
+      "kind": "roadside site",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2189",
+              "endUid": "u2194",
+              "quote": "DM: Around lunchtime you see a little ways off the road, maybe 100 yards to the south."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Wyvern battlefield and roadside meeting place",
+      "evidence": [
+        {
+          "startUid": "u2330",
+          "endUid": "u2345",
+          "quote": "DM: So we have a large group of people moving down the road."
+        },
+        {
+          "startUid": "u3235",
+          "endUid": "u3237",
+          "quote": "DM: You're just on the road."
+        },
+        {
+          "startUid": "u3266",
+          "endUid": "u3266",
+          "quote": "DM: So, as they ride down to approach your camp I'm."
+        }
+      ],
+      "kind": "roadside site",
+      "relations": [
+        {
+          "relation": "on",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u3235",
+              "endUid": "u3237",
+              "quote": "DM: You're just on the road."
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2233",
+              "endUid": "u2235",
+              "quote": "DM: You're now coming you know if the information from the bandits is correct you're probably a few miles from the road that turns South and then the city is like 15 miles 10 or 15 miles. Up into the hills."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Hill away from the bandits for the mirror",
+      "evidence": [
+        {
+          "startUid": "u3081",
+          "endUid": "u3098",
+          "quote": "Delwath: I'll pick up the turtle and the square of silk and fly like a couple hundred feet."
+        }
+      ],
+      "kind": "hillside",
+      "note": "Delwath’s later recap confirms flying out of sight; Seeker’s proposed following does not independently establish his arrival.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u3137",
+              "endUid": "u3145",
+              "quote": "Kenzo: Wait just really quickly what happened and do the other NPCs see what happened?"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Copper Hills",
+      "evidence": [
+        {
+          "startUid": "u1116",
+          "endUid": "u1119",
+          "quote": "Delwath: This cliff area is it how it's like is there one spot that we think is the cliffs or is it like spread out for miles?"
+        },
+        {
+          "startUid": "u1984",
+          "endUid": "u1988",
+          "quote": "DM: Lay of the land that you gather is this area, the Copper Hills, especially the hills south of the road, um, you know, was once fairly populated, and there were all these little mining villages in the pre Great War era. Never resettled, most of the mines were tapped out and never resettled after all the upheavals of the great war."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Dunmar/Darba Highlands/Copper Hills.md"
+    },
+    "p13": {
+      "label": "Vandar",
+      "evidence": [
+        {
+          "startUid": "u1988",
+          "endUid": "u2005",
+          "quote": "DM: But the most intact, of the ruined towns are the only one that still is even partially intact um Is this what was once the sort of walled town called Vandar."
+        }
+      ],
+      "kind": "ruined settlement",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Vandar.md",
+      "note": "Discussed as the likely lair area and a possible destination; the party does not reach Vandar in this session.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1984",
+              "endUid": "u2005",
+              "quote": "DM: Lay of the land that you gather is this area, the Copper Hills, especially the hills south of the road, um, you know, was once fairly populated, and there were all these little mining villages in the pre Great War era. Never resettled, most of the mines were tapped out and never resettled after all the upheavals of the great war."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Bandits’ forward cave",
+      "evidence": [
+        {
+          "startUid": "u1418",
+          "endUid": "u1421",
+          "quote": "DM: Yeah I mean you now that you're warned like you can see right about about, not even a mile like half a mile and you can see that there's like a like he even points out like there's a little there's a little cave right in the cliff. And they have like a little forward base set up there with like eight people in some spare arrows and horses and food and they. Follow down when when people pass they wait until dark and then they follow down on that camp but they like they're all like the eight of them are like standing in front of the cave like sort of you know like just being obvious about their presence as you walk past with like no weapons in their hands or anything."
+        }
+      ],
+      "kind": "cave",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1418",
+              "endUid": "u1421",
+              "quote": "DM: Yeah I mean you now that you're warned like you can see right about about, not even a mile like half a mile and you can see that there's like a like he even points out like there's a little there's a little cave right in the cliff. And they have like a little forward base set up there with like eight people in some spare arrows and horses and food and they. Follow down when when people pass they wait until dark and then they follow down on that camp but they like they're all like the eight of them are like standing in front of the cave like sort of you know like just being obvious about their presence as you walk past with like no weapons in their hands or anything."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1418",
+              "endUid": "u1421",
+              "quote": "DM: Yeah I mean you now that you're warned like you can see right about about, not even a mile like half a mile and you can see that there's like a like he even points out like there's a little there's a little cave right in the cliff. And they have like a little forward base set up there with like eight people in some spare arrows and horses and food and they. Follow down when when people pass they wait until dark and then they follow down on that camp but they like they're all like the eight of them are like standing in front of the cave like sort of you know like just being obvious about their presence as you walk past with like no weapons in their hands or anything."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Northern horizon beside the road",
+      "evidence": [
+        {
+          "startUid": "u2132",
+          "endUid": "u2156",
+          "quote": "DM: By afternoon, you are starting to the the road is sort of turning slightly like you've been going due west and now you're sort of rounding a little prominence of the land and you keep thinking you see something like some like movement in the distance to the to the north of the road something like you know, like you'll you'll sort of glimpse out of the corner of your eye you know what you think is some some creature to the north, and then you'll look again and you don't see anything there. You can't, you know, whatever you're seeing is too far away for details, but you just like occasionally just get the sense there's something on the horizon to the north."
+        }
+      ],
+      "kind": "open terrain",
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2132",
+              "endUid": "u2141",
+              "quote": "DM: By afternoon, you are starting to the the road is sort of turning slightly like you've been going due west and now you're sort of rounding a little prominence of the land and you keep thinking you see something like some like movement in the distance to the to the north of the road something like you know, like you'll you'll sort of glimpse out of the corner of your eye you know what you think is some some creature to the north, and then you'll look again and you don't see anything there. You can't, you know, whatever you're seeing is too far away for details, but you just like occasionally just get the sense there's something on the horizon to the north."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Opening at the crossroads inn after the previous night.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "DM: Okay, so. As you may or may not remember, you talked to the Marcella, the Chardonian adventurer and then spent the night at this inn and unless there's anything you want to do at the inn, I think it makes sense to just start when leaving the next morning. But feel free to like go over what happened and stuff and then I can pick up on the intro with you, leaving the inn."
+        },
+        {
+          "startUid": "u0200",
+          "endUid": "u0208",
+          "quote": "DM: And and what you've heard so so you have heard before I before we get started on the main intro I'll say so you, you know, having spoken to people at the at the at the Crossroads Inn like as you had as you had gone west, you know that, so the road goes through these the Copper Hills, which are you know a bit more sort of a rugged pretty sparsely settled area."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0308",
+        "endUid": "u0409"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride west from the crossroads on the muddy Darba road and enter the fortified Last Inn settlement by sunset.",
+      "evidence": [
+        {
+          "startUid": "u0308",
+          "endUid": "u0314",
+          "quote": "DM: As you ride West leaving the old trade road with its still maintained large paving blocks and wide course wide enough for two caravans, to pass each other behind and set off on the muddy dirt track still fairly wide and you know clearly maintained but you know, muddy in the monsoon and dry and dusty in the hot summer, that head to the Copper Hills and Darba, you find yourself, for the first time in quite a while, actually heading off into the unknown."
+        },
+        {
+          "startUid": "u0389",
+          "endUid": "u0404",
+          "quote": "DM: And the day passes and eventually by evening, as the clouds lift and the sunset casts a golden light across the the the fields, which you know you are now passing little clumps of trees, occasionally, you can see little rocky outcroppings of the land is getting more both wetter and and rougher. So less rolling seas of grass and more sort of little clumps of trees and little rocky outcroppings and things. I mean, you can see the the the sort of. Last Inn settlement ahead um you can see it from a few miles away it's a um it's a. Like a small sort of camp inn but it's got a wooden palisade around the outside."
+        },
+        {
+          "startUid": "u0407",
+          "endUid": "u0409",
+          "quote": "DM: But the gates are open, nobody is like sort of you know, obviously you attract some stir as it's been a while, since two dwarves a halfling, two humans and an elf rode in town, but nobody stopped you, I assume, so if you want to ride to the inn or talk to anybody or."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Follow the muddy westward road toward the Copper Hills and Darba.",
+          "place": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0418",
+        "endUid": "u0425"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter the inn and speak to the innkeeper in its common room.",
+      "evidence": [
+        {
+          "startUid": "u0418",
+          "endUid": "u0425",
+          "quote": "DM: We'll go from there, right. So you ride in that the innkeeper is is a bald older man, looks like maybe a retired mercenary or something. Um, he's got a scar down his cheek, and it looks like one of his like arms is kind of his left arm and sort of he's moving stiffly right, so he has some old looks like has an old injury sort of comes up as you approach and like sort of gives you all a once over and kind of smiles a little bit."
+        },
+        {
+          "startUid": "u0586",
+          "endUid": "u0598",
+          "quote": "DM: It sort of looks around the room, and this is like a you know, a fairly large sort of common room that like spills out the front of the inn so it's like indoor outdoor sort of thing where there's like awnings that extend out to some tables in the outside, and you know there's a big stable over there as well, and it's you know fairly noisy and bustling coming in around sunset a lot of the. You know the guard types, who are sort of hanging around are coming in."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0699",
+        "endUid": "u0749"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Spend an hour walking around the small settlement outside the inn.",
+      "evidence": [
+        {
+          "startUid": "u0699",
+          "endUid": "u0710",
+          "quote": "Delwath: I go take a walk just wander through the town for a little bit and just I mean be open, like he's not gonna like a poke into people's business, but like an Elf walking around if people are like yeah asking I kind of like just here are there, people sharing rumors about going West or the people who are interested what's the feeling like is everybody like we're scared of this like? That's kind of the vibe—"
+        },
+        {
+          "startUid": "u0735",
+          "endUid": "u0749",
+          "quote": "DM: So Okay, so you you spend an hour kind of wandering around. You know the the town is chatty but really it's almost like you're drawing too much attention, like everybody is chatting about you everybody wants to know your story like where did the elf come from? Are you that elf from Karawa? Are you that—you know, they've heard rumors of the Karawa elf, like, you know, one person is like, ‘Oh yeah, I remember, there was an elf there 10 years ago. Was that you?’ Like the all over the place and that you don't so it's hard to really hear much about the—"
+        }
+      ],
+      "from": "p04",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0849",
+        "endUid": "u0850"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Regather at the inn table after the separate conversations and walk.",
+      "evidence": [
+        {
+          "startUid": "u0849",
+          "endUid": "u0850",
+          "quote": "DM: Gathering back at the inn everybody returns after their conversations, to the table you're sitting at."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1014",
+        "endUid": "u1078"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the inn and ride west on the road, covering about thirty miles by the end of the first day beyond it.",
+      "evidence": [
+        {
+          "startUid": "u1014",
+          "endUid": "u1024",
+          "quote": "DM: Okay, so— You why don't let's see um so let's see as you're riding along this road right Wellby is continuing to keep an eye out I'm—"
+        },
+        {
+          "startUid": "u1073",
+          "endUid": "u1078",
+          "quote": "DM: And that gets you maybe 30 miles. So now, you and, as the end as sort of get to the end of the day here, you can see, ahead of you to the south and the West, the the sort of line of hills, but the sort of beginning of this of the Copper Hills here, and so this is what the mystai were talking about is like where the bandit. Cliff ambushes have tended to be like probably sometime the middle of the day tomorrow you'll be riding through the you know places where the road goes past cliffs or something like that."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "value": 30,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s narrated progress, not the forecast journey to Darba"
+      }
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1144"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the hawk’s senses, see the four bandits hidden on a ledge and their campsite about five miles west.",
+      "evidence": [
+        {
+          "startUid": "u1127",
+          "endUid": "u1137",
+          "quote": "DM: Um yeah I mean by the time you get so let's say you went there now one two yeah so by about mid day you've sort of gotten to the place where you can see a few miles ahead that the you know the the the sort of muddy road passes um—"
+        },
+        {
+          "startUid": "u1139",
+          "endUid": "u1144",
+          "quote": "DM: No, and they seem well hidden it looks like they've probably been here for. A you know, maybe a day or two there's you can see the. Remains of a campfire kind of on the other side of a little rise that wouldn't be visible from the road there's like a little bit of a."
+        }
+      ],
+      "place": "p05",
+      "mode": "remote",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1213",
+        "endUid": "u1257"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Creep invisibly behind the bandit lookout while the bait group rides below.",
+      "evidence": [
+        {
+          "startUid": "u1213",
+          "endUid": "u1217",
+          "quote": "DM: OK, so the two of you creep invisibly behind this takes a few hours to set up right. Well, the now three of you, the two dwarves and Kenzo, continue to ride, presumably with Johar with three spare horses, right, because two spare horses and an axebeak. Yes. Yes I mean you could be like messengers or something um."
+        },
+        {
+          "startUid": "u1254",
+          "endUid": "u1257",
+          "quote": "DM: Mean you two are watching them while the four of you ride below and they are watching the road. They don't draw their weapons or anything I'm one of the Archer looking ones takes out a what looks like a sort of— It's it's like a horn like a riding horn, it looks fairly old and—"
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1213",
+        "endUid": "u1257"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn",
+        "Seeker",
+        "Johar"
+      ],
+      "reading": "The two dwarves, Kenzo and invisible Johar ride the road below the lookout, leading the spare mounts.",
+      "evidence": [
+        {
+          "startUid": "u1205",
+          "endUid": "u1217",
+          "quote": "Delwath: Would Johar like to be invisible too, would it make him feel better?"
+        },
+        {
+          "startUid": "u1254",
+          "endUid": "u1257",
+          "quote": "DM: Mean you two are watching them while the four of you ride below and they are watching the road. They don't draw their weapons or anything I'm one of the Archer looking ones takes out a what looks like a sort of— It's it's like a horn like a riding horn, it looks fairly old and—"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1404",
+        "endUid": "u1417"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Return down the cliffs to the road, briefly bringing the intimidated scouts along.",
+      "evidence": [
+        {
+          "startUid": "u1404",
+          "endUid": "u1404",
+          "quote": "DM: They follow you back down the cliffs like I guess walk behind your horses."
+        },
+        {
+          "startUid": "u1407",
+          "endUid": "u1417",
+          "quote": "Delwath: Only for a minute we're only keeping them for a mile till we go past the past cliffs. I was going to be—"
+        }
+      ],
+      "from": "p05",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1418",
+        "endUid": "u1421"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Pass the forward cave and see eight bandits openly standing outside; nobody enters the cave.",
+      "evidence": [
+        {
+          "startUid": "u1418",
+          "endUid": "u1421",
+          "quote": "DM: Yeah I mean you now that you're warned like you can see right about about, not even a mile like half a mile and you can see that there's like a like he even points out like there's a little there's a little cave right in the cliff. And they have like a little forward base set up there with like eight people in some spare arrows and horses and food and they. Follow down when when people pass they wait until dark and then they follow down on that camp but they like they're all like the eight of them are like standing in front of the cave like sort of you know like just being obvious about their presence as you walk past with like no weapons in their hands or anything."
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p02",
+      "mode": "local"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1479",
+        "endUid": "u1497"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Stop in a sheltered spot beside the road near the Copper Hills entrance to hear Justan.",
+      "evidence": [
+        {
+          "startUid": "u1479",
+          "endUid": "u1491",
+          "quote": "DM: Like us, on a few miles now you're you're sort of passing through the this sort of area of sort of rocky terrain, just at the sort of entrance to this sort of hilly area."
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1497",
+          "quote": "Kenzo: Are you familiar with the order of Bhishma?"
+        }
+      ],
+      "from": "p02",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1848",
+        "endUid": "u1972"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride on with the recruited troop and set up camp for that same night.",
+      "evidence": [
+        {
+          "startUid": "u1848",
+          "endUid": "u1849",
+          "quote": "DM: But you're you're quite convinced that nobody's going to try and turn like the mood of the of the ride, as you ride through the rest of the day and set up camp, the mood is definitely not like, ‘We can betray you.’ The mood is, you know, some of them are like—you know, the like Justan, though, like leader veteran guys, kind of, you know, talking them up a little bit and trying to get them psyched. Like this, it's like that, you know."
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1972",
+          "quote": "DM: Yeah so I mean what you what you can sort of gather this is like this night in Camp this is your the same night you collected them, but after paying them and, like feeding them and stuff so definitely more chatty although the—"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1988",
+        "endUid": "u2006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Consider investigating Vandar, the ruined town and caves thought to shelter the dragon.",
+      "evidence": [
+        {
+          "startUid": "u1988",
+          "endUid": "u2006",
+          "quote": "DM: But the most intact, of the ruined towns are the only one that still is even partially intact um Is this what was once the sort of walled town called Vandar."
+        }
+      ],
+      "from": "p07",
+      "to": "p13",
+      "completion": "planned",
+      "context": "planned",
+      "route": [
+        {
+          "reading": "A trail reportedly leads ten to twelve miles south from the road into the hills."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2132",
+        "endUid": "u2156"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Repeatedly glimpse movement far north of the road; the source leaves open whether it is a creature or ordinary animals.",
+      "evidence": [
+        {
+          "startUid": "u2132",
+          "endUid": "u2141",
+          "quote": "DM: By afternoon, you are starting to the the road is sort of turning slightly like you've been going due west and now you're sort of rounding a little prominence of the land and you keep thinking you see something like some like movement in the distance to the to the north of the road something like you know, like you'll you'll sort of glimpse out of the corner of your eye you know what you think is some some creature to the north, and then you'll look again and you don't see anything there. You can't, you know, whatever you're seeing is too far away for details, but you just like occasionally just get the sense there's something on the horizon to the north."
+        },
+        {
+          "startUid": "u2150",
+          "endUid": "u2156",
+          "quote": "DM: Whatever it is that you've seen doesn't seem to seem to like it's you know around noon, or something and then you don't see this again it's like it could even just be like antelope in the distance right or some. Some animal."
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p02",
+      "mode": "local"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2160",
+        "endUid": "u2176"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Detour south from the road to an overhead-sheltered camp in the hills for the night.",
+      "evidence": [
+        {
+          "startUid": "u2160",
+          "endUid": "u2174",
+          "quote": "DM: You are passing past the hills right it's a bit of a it's maybe. Three to five miles out of your way to the South to go find some little sheltered cave to sleep in but that's certainly a possibility. I mean we should definitely do that, I think."
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2176",
+          "quote": "DM: You build, you build a Minecraft house for your evening. Who's keeping watch?"
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2174",
+          "quote": "DM: Ah, so I mean it's you can certainly find like a sort of little sheltered area to sleep and it's not like a particularly well hidden cave or anything but it's you know it has some protection from the air, at least so you couldn't be surprised from above."
+        }
+      ],
+      "from": "p02",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2185",
+        "endUid": "u2188"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return from the sheltered camp to the road the next morning.",
+      "evidence": [
+        {
+          "startUid": "u2185",
+          "endUid": "u2188",
+          "quote": "DM: That the morning comes on uneventfully, no sounds in the night."
+        }
+      ],
+      "from": "p08",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2189",
+        "endUid": "u2227"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the road briefly to examine the disemboweled horse about a hundred yards south.",
+      "evidence": [
+        {
+          "startUid": "u2189",
+          "endUid": "u2195",
+          "quote": "DM: Around lunchtime you see a little ways off the road, maybe 100 yards to the south."
+        },
+        {
+          "startUid": "u2219",
+          "endUid": "u2227",
+          "quote": "DM: So it's been dead for a few days and it's not straightforward to tell, but you know you definitely can see that. It's hard to say what the cause of I mean the cause of death was obviously being ripped apart. The the way that the flesh has like the way rigor mortis and stuff there is like a bit of a like stench to it that suggests to you some possibility of poison."
+        }
+      ],
+      "from": "p02",
+      "to": "p09",
+      "completion": "arrived",
+      "distance": {
+        "value": 100,
+        "unit": "yard",
+        "precision": "approximate",
+        "basis": "DM’s stated offset south of the road"
+      }
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2228",
+        "endUid": "u2237"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue on the road after examining the horse.",
+      "evidence": [
+        {
+          "startUid": "u2228",
+          "endUid": "u2237",
+          "quote": "DM: So continue on the road?"
+        }
+      ],
+      "from": "p09",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2258",
+        "endUid": "u2345"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue riding into the rain to the road where the wyverns attack.",
+      "evidence": [
+        {
+          "startUid": "u2258",
+          "endUid": "u2264",
+          "quote": "DM: So you continue riding, keeping your eyes peeled for another hour, hour and a half, and that cloud cover grows deeper and deeper until the rain starts and. You use you see as the rain begins to pour down around you like you know visibility is getting bad you're like you know people everybody is sort of like noticeably nervous at this point, like after having seen the horse until."
+        },
+        {
+          "startUid": "u2330",
+          "endUid": "u2345",
+          "quote": "DM: So we have a large group of people moving down the road."
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3081",
+        "endUid": "u3145"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "Fly away from the battlefield, beyond the bandits’ sight, to dispose of the turtle using the mirror.",
+      "evidence": [
+        {
+          "startUid": "u3081",
+          "endUid": "u3098",
+          "quote": "Delwath: I'll pick up the turtle and the square of silk and fly like a couple hundred feet."
+        },
+        {
+          "startUid": "u3137",
+          "endUid": "u3145",
+          "quote": "Kenzo: Wait just really quickly what happened and do the other NPCs see what happened?"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u3134",
+        "endUid": "u3155"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Return to the companions without the turtle after the mirror capture.",
+      "evidence": [
+        {
+          "startUid": "u3134",
+          "endUid": "u3145",
+          "quote": "Delwath: I will come back with no turtle. I'll just get my little silk pocket."
+        },
+        {
+          "startUid": "u3154",
+          "endUid": "u3155",
+          "quote": "Delwath: But they'll come back and just like give everybody a significant look like yeah it worked."
+        }
+      ],
+      "from": "p11",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l23",
+      "type": "presence",
+      "source": {
+        "startUid": "u3208",
+        "endUid": "u3267"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Remain at the roadside battlefield for the burial and the meeting with Marcella’s company.",
+      "evidence": [
+        {
+          "startUid": "u3208",
+          "endUid": "u3211",
+          "quote": "DM: As your—as you're speaking, I'm—you hear as Kenzo speaking, maybe 20 minutes after the fight. You hear the sound of hooves coming from the north. And you see Wellby sees this first, but you all see as, um, riding up. You know from from the north off the road five travelers on the horses, one a familiar face."
+        },
+        {
+          "startUid": "u3235",
+          "endUid": "u3237",
+          "quote": "DM: You're just on the road."
+        },
+        {
+          "startUid": "u3242",
+          "endUid": "u3246",
+          "quote": "Delwath: You're saying that because you're in the middle of burying this poor guy."
+        },
+        {
+          "startUid": "u3266",
+          "endUid": "u3267",
+          "quote": "DM: So, as they ride down to approach your camp I'm."
+        }
+      ],
+      "place": "p10"
+    }
+  ]
+}

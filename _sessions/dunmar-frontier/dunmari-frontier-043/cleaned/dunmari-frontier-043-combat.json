@@ -1,0 +1,553 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-043",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+    "sessionYamlSha256": "6cd9370f298a21dccdd41be3ef0a2be190d080c93b21f656f0b9617056d8b57a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-transcript.md",
+    "transcriptSha256": "1327c9364464c829ad7990da41f6b00e21f423bdf730c9c924e3481e5cdb5a68",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-segments.json",
+      "sha256": "e7ceb7a6162be37189422ec6b13b4c49e78c86871d154a01aed51c9aaf717e6f",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Bandit horn signal and intimidation",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Remains invisible, takes aim, and telepathically warns the horn-bearing scout not to signal.",
+              "evidence": [
+                {
+                  "startUid": "u1270",
+                  "endUid": "u1280"
+                }
+              ]
+            },
+            {
+              "actor": "Horn-bearing scout",
+              "kind": "turn",
+              "summary": "Tries to sound the horn despite the warning; no audible sound emerges.",
+              "evidence": [
+                {
+                  "startUid": "u1281",
+                  "endUid": "u1283"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Puts his sword to the scout’s neck and intimidates him into dropping everything; the other three scouts immediately flee on horseback.",
+              "evidence": [
+                {
+                  "startUid": "u1284",
+                  "endUid": "u1293"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The horn bearer is too frightened to speak and his companions flee. No attack or injury is resolved before questioning begins.",
+        "evidence": [
+          {
+            "startUid": "u1289",
+            "endUid": "u1293"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s016",
+      "encounter": "Two wyverns ambush the party on the road",
+      "note": "The first recorded cycle contains the surprise attack; the DM explicitly confirms that only the wyverns and Wellby acted in it. Later cycles follow the repeated initiative order.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Party except Wellby",
+              "kind": "event",
+              "summary": "Is surprised by the sudden attack; only Wellby sees the creature break through the clouds.",
+              "evidence": [
+                {
+                  "startUid": "u2358",
+                  "endUid": "u2360"
+                }
+              ]
+            },
+            {
+              "actor": "Wyvern near Wellby",
+              "kind": "turn",
+              "summary": "Dives about 100 feet, misses Wellby with its stinger, and reaches for Baxter. Wellby successfully interposes with an Acrobatics check, but is grappled despite an escape check made with advantage (15). The wyvern ends roughly 5–10 feet above ground, out of movement.",
+              "evidence": [
+                {
+                  "startUid": "u2361",
+                  "endUid": "u2398"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Escapes the grapple with an advantaged check of 27 and orders Baxter to attack.",
+              "evidence": [
+                {
+                  "startUid": "u2399",
+                  "endUid": "u2409"
+                }
+              ]
+            },
+            {
+              "actor": "Baxter",
+              "kind": "turn",
+              "summary": "Attacks the first wyvern; his beak bounces off its scales and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2432",
+                  "endUid": "u2440"
+                }
+              ],
+              "note": "Resolved after the second wyvern’s narration, in response to the attack command on Wellby’s turn."
+            },
+            {
+              "actor": "Wyvern near the bandits",
+              "kind": "turn",
+              "summary": "Dives behind the party, kills an archer with a poison stinger, grapples the archer’s horse, and begins lifting it about 10 feet above ground. The horse is later confirmed dead.",
+              "evidence": [
+                {
+                  "startUid": "u2411",
+                  "endUid": "u2431"
+                },
+                {
+                  "startUid": "u3078",
+                  "endUid": "u3079"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses the Raven whistle to fly up to the wyvern near the bandits and spends ki on four attacks. Three miss; the fourth hits for 6 damage. The wyvern succeeds on its Constitution save against Stunning Strike.",
+              "evidence": [
+                {
+                  "startUid": "u2441",
+                  "endUid": "u2473"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Backs up and casts Polymorph on the wyvern near Wellby, choosing a three-foot snapping turtle instead of the proposed fish. It fails the save (15 against DC 16), becomes a turtle and drops safely to the ground. Grants Kenzo inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2474",
+                  "endUid": "u2504"
+                }
+              ]
+            },
+            {
+              "actor": "Polymorphed wyvern",
+              "kind": "turn",
+              "summary": "Waddles around on the ground in turtle form.",
+              "evidence": [
+                {
+                  "startUid": "u2510",
+                  "endUid": "u2512"
+                }
+              ]
+            },
+            {
+              "actor": "Bandit with blessed crossbow",
+              "kind": "turn",
+              "summary": "Hits the remaining flying wyvern for 9 damage, corrected from 8 for the +1 weapon.",
+              "evidence": [
+                {
+                  "startUid": "u2515",
+                  "endUid": "u2518"
+                }
+              ]
+            },
+            {
+              "actor": "Second crossbow bandit",
+              "kind": "turn",
+              "summary": "Shoots and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2520",
+                  "endUid": "u2521"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and shoots the remaining wyvern with a straight roll. The shot hits, and sneak attack is allowed because Kenzo is engaged.",
+              "evidence": [
+                {
+                  "startUid": "u2522",
+                  "endUid": "u2533"
+                }
+              ],
+              "note": "The spoken damage is garbled as “2012”; no reliable numerical total is supplied."
+            },
+            {
+              "actor": "Two surviving longbow archers",
+              "kind": "turn",
+              "summary": "One hits for 9 damage and the other misses; the third archer is confirmed dead.",
+              "evidence": [
+                {
+                  "startUid": "u2534",
+                  "endUid": "u2540"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Creates Spiritual Weapon beside the wyvern and hits for 11 damage. Cannot make the contemplated melee attack because Fly is not yet cast; instead casts an unnamed spell/cantrip, whose failed Dexterity save causes another 10 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2541",
+                  "endUid": "u2571"
+                }
+              ]
+            },
+            {
+              "actor": "Two bandits without ranged weapons",
+              "kind": "turn",
+              "summary": "Begin rounding up the horses instead of attacking.",
+              "evidence": [
+                {
+                  "startUid": "u2572",
+                  "endUid": "u2577"
+                }
+              ]
+            },
+            {
+              "actor": "Last crossbow bandit",
+              "kind": "turn",
+              "summary": "Shoots and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2578",
+                  "endUid": "u2579"
+                }
+              ]
+            },
+            {
+              "actor": "Wyvern near the bandits",
+              "kind": "turn",
+              "summary": "Hits Kenzo with its stinger (25 to hit). Kenzo uses inspiration, reaches 20 on his Constitution save, and still takes 15 piercing plus 15 poison damage. Its claws hit for another 13 damage. It then flies upward 80 feet. Kenzo has 8 hit points remaining and does not have the poisoned condition. The successful inspired save is later credited with 6 temporary hit points.",
+              "evidence": [
+                {
+                  "startUid": "u2580",
+                  "endUid": "u2624"
+                },
+                {
+                  "startUid": "u2652",
+                  "endUid": "u2652"
+                },
+                {
+                  "startUid": "u2679",
+                  "endUid": "u2685"
+                },
+                {
+                  "startUid": "u2750",
+                  "endUid": "u2755"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack as the wyvern leaves, hits for 11 damage, and spends ki on Stunning Strike. The wyvern saves with Constitution 16 against DC 14 and continues upward.",
+              "evidence": [
+                {
+                  "startUid": "u2625",
+                  "endUid": "u2641"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Fly on Riswynn and himself, then rises about 40 feet and moves across toward the wyvern. Uses his action on the spell and has no useful bonus action in range.",
+              "evidence": [
+                {
+                  "startUid": "u2642",
+                  "endUid": "u2691"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies into range and throws a ranged planar punch. The wyvern succeeds on its Strength save (15), taking half damage, 4, without being moved. Drinks a greater-healing potion as his bonus action, restoring 10 hit points to 18. The later clarification leaves him with 18 hit points and the 6 temporary hit points awarded for the prior inspired save.",
+              "evidence": [
+                {
+                  "startUid": "u2692",
+                  "endUid": "u2786"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Kenzo inspiration again. Considers Healing Word but proceeds with animating the original 15-foot ladder after the proposed 50-foot ladder is ruled too large.",
+              "evidence": [
+                {
+                  "startUid": "u2790",
+                  "endUid": "u2823"
+                }
+              ],
+              "note": "No Healing Word resolves on this turn; a later aftermath casting is separate."
+            },
+            {
+              "actor": "Animated 15-foot ladder",
+              "kind": "turn",
+              "summary": "Flies toward the wyvern, ending about 15–20 feet above ground and still about 70 feet below it; cannot reach it.",
+              "evidence": [
+                {
+                  "startUid": "u2825",
+                  "endUid": "u2831"
+                }
+              ]
+            },
+            {
+              "actor": "Polymorphed wyvern",
+              "kind": "turn",
+              "summary": "Continues waddling as a turtle.",
+              "evidence": [
+                {
+                  "startUid": "u2832",
+                  "endUid": "u2833"
+                }
+              ]
+            },
+            {
+              "actor": "Bandit with blessed crossbow",
+              "kind": "turn",
+              "summary": "Shoots and misses with a 9.",
+              "evidence": [
+                {
+                  "startUid": "u2835",
+                  "endUid": "u2836"
+                }
+              ]
+            },
+            {
+              "actor": "Second crossbow bandit",
+              "kind": "turn",
+              "summary": "Shoots and misses with a natural 1.",
+              "evidence": [
+                {
+                  "startUid": "u2837",
+                  "endUid": "u2838"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and two bow charges. Advantage cancels long-range disadvantage, so the hit is a straight roll and gets no sneak attack because nobody is engaged with the wyvern. Deals 13 total damage.",
+              "evidence": [
+                {
+                  "startUid": "u2840",
+                  "endUid": "u2859"
+                }
+              ]
+            },
+            {
+              "actor": "Two surviving longbow archers",
+              "kind": "turn",
+              "summary": "Both miss, with rolls of 5 and 6.",
+              "evidence": [
+                {
+                  "startUid": "u2861",
+                  "endUid": "u2866"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Flies closer, remaining about 60 feet below the wyvern, and hits it for 21 damage. Moves Spiritual Weapon closer, but its 20-foot movement cannot catch up.",
+              "evidence": [
+                {
+                  "startUid": "u2867",
+                  "endUid": "u2886"
+                }
+              ],
+              "note": "The retained speech does not name the attack or its damage type."
+            },
+            {
+              "actor": "Two bandits without ranged weapons",
+              "kind": "turn",
+              "summary": "Cluster the horses and shoo them away from the wyvern.",
+              "evidence": [
+                {
+                  "startUid": "u2887",
+                  "endUid": "u2890"
+                }
+              ]
+            },
+            {
+              "actor": "Last crossbow bandit",
+              "kind": "turn",
+              "summary": "Shoots and misses with a 10.",
+              "evidence": [
+                {
+                  "startUid": "u2891",
+                  "endUid": "u2893"
+                }
+              ]
+            },
+            {
+              "actor": "Wyvern near the bandits",
+              "kind": "turn",
+              "summary": "Succeeds on the DC 13 Constitution save for the bow’s fire effect with a 14, ending that effect. Dashes, moving about 120 feet while descending toward Baxter, ending roughly 30 feet above him; it makes no attack this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2894",
+                  "endUid": "u2920"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies into sword range and attacks twice: 11 misses, 26 hits. Activates his ring of displacement as a bonus action and is treated as dodging, withdrawing the potion proposal.",
+              "evidence": [
+                {
+                  "startUid": "u2921",
+                  "endUid": "u2935"
+                }
+              ],
+              "note": "No reliable damage value for the sword hit is spoken."
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Dives closer and makes another ranged planar punch. The wyvern fails its Strength save with a 9; the punch damages it and pushes it away from Baxter while keeping it beside Delwath. Forced movement grants no opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2936",
+                  "endUid": "u2970"
+                }
+              ],
+              "note": "The source states the save roll and that damage occurs, but does not clearly give a damage total."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Baxter inspiration, maintains concentration on Polymorph, and mocks the wyvern’s ancestry. It fails its DC 16 Wisdom save and takes 3 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2971",
+                  "endUid": "u2997"
+                }
+              ]
+            },
+            {
+              "actor": "Animated 15-foot ladder",
+              "kind": "turn",
+              "summary": "Moves toward the fight on Seeker’s turn, but still cannot reach the wyvern.",
+              "evidence": [
+                {
+                  "startUid": "u3011",
+                  "endUid": "u3025"
+                }
+              ],
+              "note": "The table resolves this omitted movement retrospectively before Wellby’s shot; it is placed with Seeker’s turn."
+            },
+            {
+              "actor": "Polymorphed wyvern",
+              "kind": "turn",
+              "summary": "Wanders aimlessly on the ground as a turtle.",
+              "evidence": [
+                {
+                  "startUid": "u2998",
+                  "endUid": "u3000"
+                }
+              ]
+            },
+            {
+              "actor": "Bandit with blessed crossbow",
+              "kind": "turn",
+              "summary": "Hits for 10 damage, corrected from 9 because the crossbow is magical; the wyvern is now struggling to fly.",
+              "evidence": [
+                {
+                  "startUid": "u3004",
+                  "endUid": "u3008"
+                }
+              ]
+            },
+            {
+              "actor": "Second crossbow bandit",
+              "kind": "turn",
+              "summary": "Shoots and misses.",
+              "evidence": [
+                {
+                  "startUid": "u3004",
+                  "endUid": "u3006"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and fires the final arrow. It strikes the wyvern, which falls with acid bubbling out of its body and crashes to the ground.",
+              "evidence": [
+                {
+                  "startUid": "u3009",
+                  "endUid": "u3031"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "One wyvern is killed and the other remains a harmless but temporary turtle. One bandit archer and his horse are dead; Kenzo survives badly hurt. The turtle’s mirror capture happens after initiative.",
+        "evidence": [
+          {
+            "startUid": "u3022",
+            "endUid": "u3033"
+          },
+          {
+            "startUid": "u2416",
+            "endUid": "u2431"
+          }
+        ]
+      }
+    }
+  ]
+}

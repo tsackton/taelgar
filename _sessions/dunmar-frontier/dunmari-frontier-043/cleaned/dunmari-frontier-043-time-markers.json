@@ -1,0 +1,668 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-043",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+    "sessionYamlSha256": "6cd9370f298a21dccdd41be3ef0a2be190d080c93b21f656f0b9617056d8b57a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-transcript.md",
+    "transcriptSha256": "1327c9364464c829ad7990da41f6b00e21f423bdf730c9c924e3481e5cdb5a68",
+    "yamlDates": {
+      "start": "1748-07-19",
+      "end": "1748-07-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0308",
+        "endUid": "u0322"
+      },
+      "reading": "Depart the crossroads inn and ride west in the morning.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "evidence": [
+        {
+          "startUid": "u0317",
+          "endUid": "u0322",
+          "quote": "as you begin to travel west in the morning sun"
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "start when leaving the next morning"
+        }
+      ]
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u0380",
+        "endUid": "u0387"
+      },
+      "reading": "Wellby’s distant sighting of herders is placed after lunch.",
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "after lunch",
+        "precision": "approximate",
+        "basis": "A speaker completes the DM’s time phrase, and the narration continues."
+      },
+      "evidence": [
+        {
+          "startUid": "u0380",
+          "endUid": "u0381",
+          "quote": "DM: Few little little movement on the road that you see you know you you do occasionally Wellby see in the distance you know after."
+        },
+        {
+          "startUid": "u0382",
+          "endUid": "u0382",
+          "quote": "Unknown: After lunch."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0388",
+        "endUid": "u0388"
+      },
+      "reading": "Afternoon rain begins during the first westward riding day.",
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "evidence": [
+        {
+          "startUid": "u0388",
+          "endUid": "u0388",
+          "quote": "DM: You know, afternoon sky opens up and it begins to pour, the clouds hanging low. Visibility decreases. You all sort of huddle in your cloaks and tramp through the mud a little bit."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0389",
+        "endUid": "u0404"
+      },
+      "reading": "Reach the Last Inn settlement in the evening, around sunset.",
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "evidence": [
+        {
+          "startUid": "u0389",
+          "endUid": "u0397",
+          "quote": "the day passes and eventually by evening, as the clouds lift and the sunset casts a golden light"
+        },
+        {
+          "startUid": "u0398",
+          "endUid": "u0404",
+          "quote": "as you start to ride into town"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0706",
+        "endUid": "u0710"
+      },
+      "reading": "At the Last Inn, the sun is setting with about an hour until dark.",
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "evidence": [
+        {
+          "startUid": "u0706",
+          "endUid": "u0710",
+          "quote": "the sun is setting you have maybe an hour till dark"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0735",
+        "endUid": "u0749"
+      },
+      "reading": "Delwath spends an hour walking through the settlement and gathering rumors.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM explicitly resolves an hour of wandering"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0735",
+          "endUid": "u0738",
+          "quote": "you spend an hour kind of wandering around"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1002",
+        "endUid": "u1006"
+      },
+      "reading": "After sleeping at the inn, play resumes the following morning.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1002",
+          "endUid": "u1003",
+          "quote": "DM: Okay, so— Scene cut to the morning anything else you want to do?"
+        },
+        {
+          "startUid": "u1005",
+          "endUid": "u1006",
+          "quote": "DM: So so what's your what are you all doing as you wake up from a comfortable sleep in the beds of this inn?"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1067",
+        "endUid": "u1078"
+      },
+      "reading": "The first day beyond the inn passes; the party covers about thirty miles and reaches the end of the day.",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "inferred from the narrated end of the riding day"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM resolves the first travel day beyond the inn; a travel day, not a measured 24 hours"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1070",
+          "endUid": "u1072",
+          "quote": "DM: 1111. Okay, so it's, you know, fairly uneventful ride. Rains again in the afternoon, of course, the road is muddy. But the road is pretty straight and clear here, and so you know you don't have anybody on the road you don't see anybody. North or south road. First day passes pretty uneventfully."
+        },
+        {
+          "startUid": "u1073",
+          "endUid": "u1078",
+          "quote": "as sort of get to the end of the day here"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1086",
+        "endUid": "u1128"
+      },
+      "reading": "The next riding day reaches midday near the bandit cliffs.",
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "dateBoundaries": 1,
+      "evidence": [
+        {
+          "startUid": "u1086",
+          "endUid": "u1087",
+          "quote": "DM: Unless there's that you stop me if there's anything else you want to do on the road, but I'll just say assuming you're going at the same pace for the next day."
+        },
+        {
+          "startUid": "u1127",
+          "endUid": "u1128",
+          "quote": "by about mid day"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1171",
+        "endUid": "u1173"
+      },
+      "reading": "Before the flanking approach, afternoon rain is expected in an hour or two.",
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "approximate present anchor from the forecast of afternoon rain; the forecast is not elapsed time"
+      },
+      "evidence": [
+        {
+          "startUid": "u1172",
+          "endUid": "u1173",
+          "quote": "DM: I mean it's hot and humid you have probably an hour or two until the afternoon rain."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1213",
+        "endUid": "u1217"
+      },
+      "reading": "The invisible flank and road approach take a few hours to arrange.",
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM establishes elapsed setup time"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1213",
+          "endUid": "u1217",
+          "quote": "this takes a few hours to set up"
+        }
+      ]
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u1383",
+        "endUid": "u1386"
+      },
+      "reading": "About fifteen seconds after the scout blows the horn, he reports that the alarm is canceled.",
+      "duration": {
+        "value": 0.25,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s approximate fifteen-second interval, expressed in minutes"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1383",
+          "endUid": "u1386",
+          "quote": "DM: Picks up the Horn and like blows like breathe into it no sound comes out, but like a few you know 15 seconds later he says it's done that they're not going to attack."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1488",
+        "endUid": "u1488"
+      },
+      "reading": "The party stops to hear Justan at about three in the afternoon.",
+      "time": {
+        "clock": "15:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "evidence": [
+        {
+          "startUid": "u1488",
+          "endUid": "u1488",
+          "quote": "DM: So by this time I would say it's probably like three in the afternoon perfect."
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1848",
+        "endUid": "u1862"
+      },
+      "reading": "The remainder of the recruitment day passes into camp; the bandits are paid that first night.",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1848",
+          "endUid": "u1849",
+          "quote": "as you ride through the rest of the day and set up camp"
+        },
+        {
+          "startUid": "u1861",
+          "endUid": "u1862",
+          "quote": "DM: Yeah so first you know when you can first night you pay him out it goes. Yeah but like yeah that definitely makes them happy I'm."
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1972",
+          "quote": "DM: Yeah so I mean what you what you can sort of gather this is like this night in Camp this is your the same night you collected them, but after paying them and, like feeding them and stuff so definitely more chatty although the—"
+        },
+        {
+          "startUid": "u2022",
+          "endUid": "u2022",
+          "quote": "DM: So it's evening now so—"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2116",
+        "endUid": "u2120"
+      },
+      "reading": "The next day dawns after the night with the recruited bandits.",
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "dateBoundaries": 1,
+      "evidence": [
+        {
+          "startUid": "u2116",
+          "endUid": "u2120",
+          "quote": "DM: So the next morning the day dawns slightly less humid than before. I'm still sunny and warm."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2122",
+        "endUid": "u2130"
+      },
+      "reading": "An uneventful-day statement and another next-morning cue precede the watched ride; whether this adds a day or repeats the same morning is unresolved.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "stated morning; its relationship to the preceding dawn is ambiguous"
+      },
+      "note": "Read as a repetition, the trip retains four calendar transitions overall; read literally as another completed day, it adds a fifth. No disputed dateBoundaries value is assigned.",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2125",
+          "quote": "Have another uneventful day"
+        },
+        {
+          "startUid": "u2127",
+          "endUid": "u2130",
+          "quote": "so the next morning you you continue riding"
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2132",
+        "endUid": "u2152"
+      },
+      "reading": "Fleeting northern movement is first described in the afternoon, then placed around noon.",
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "later clock clarification: around noon"
+      },
+      "evidence": [
+        {
+          "startUid": "u2132",
+          "endUid": "u2141",
+          "quote": "By afternoon"
+        },
+        {
+          "startUid": "u2150",
+          "endUid": "u2152",
+          "quote": "it's you know around noon"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2164",
+        "endUid": "u2176"
+      },
+      "reading": "As evening approaches, the party finds an overhead-sheltered campsite.",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2164",
+          "endUid": "u2165",
+          "quote": "DM: So as evening approaches you somebody whoever's going to scout for a cave make a survival check."
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2176",
+          "quote": "DM: Ah, so I mean it's you can certainly find like a sort of little sheltered area to sleep and it's not like a particularly well hidden cave or anything but it's you know it has some protection from the air, at least so you couldn't be surprised from above."
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2177",
+        "endUid": "u2188"
+      },
+      "reading": "The watched night passes uneventfully; morning comes and the party returns to the road.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "stated by the DM"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2177",
+          "endUid": "u2178",
+          "quote": "Delwath: Delwath will keep watch for the bulk of the night okay, given he doesn't need to sleep much but somebody else should take a brief shift for when he needs to sleep."
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2185",
+          "quote": "DM: That the morning comes on uneventfully, no sounds in the night."
+        },
+        {
+          "startUid": "u2186",
+          "endUid": "u2188",
+          "quote": "DM: Continue back to the road. Bless the crossbow. Nice keep going keeping your eye out Wellby make a perception check for that, for the day."
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2189",
+        "endUid": "u2231"
+      },
+      "reading": "The dead-horse investigation takes place around lunch, clarified as after lunch.",
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "lunchtime discovery, clarified as after lunch"
+      },
+      "evidence": [
+        {
+          "startUid": "u2189",
+          "endUid": "u2194",
+          "quote": "DM: Around lunchtime you see a little ways off the road, maybe 100 yards to the south."
+        },
+        {
+          "startUid": "u2231",
+          "endUid": "u2231",
+          "quote": "DM: This is, after lunch."
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2258",
+        "endUid": "u2262"
+      },
+      "reading": "Ride another hour to an hour and a half before the rain begins.",
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "max": 1.5,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates additional riding before the rain"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2258",
+          "endUid": "u2262",
+          "quote": "DM: So you continue riding, keeping your eyes peeled for another hour, hour and a half, and that cloud cover grows deeper and deeper until the rain starts and. You use you see as the rain begins to pour down around you like you know visibility is getting bad you're like you know people everybody is sort of like noticeably nervous at this point, like after having seen the horse until."
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2263",
+        "endUid": "u2264"
+      },
+      "reading": "About half an hour into the rain, the party is approaching the wyvern ambush.",
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM places the next event half an hour after the rain starts"
+      },
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "inferred from after-lunch travel and the recurring afternoon rain"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2263",
+          "endUid": "u2264",
+          "quote": "DM: Maybe half an hour after the rain starts, as you're sort of cautiously moving across um let's see."
+        },
+        {
+          "startUid": "u2333",
+          "endUid": "u2345",
+          "quote": "DM: As the rain begins the um you know thunder and and I'm just a cloud break it the with the sky opening up."
+        }
+      ]
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u3197",
+        "endUid": "u3197"
+      },
+      "reading": "During recovery, Fly has probably expired; roughly the nine minutes remaining shortly after combat have elapsed.",
+      "duration": {
+        "value": 9,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Nine minutes remained at u3068; the DM then says the spell has probably ended at u3197."
+      },
+      "note": "This inferred interval overlaps the capture and recovery, within the roughly twenty minutes before the riders arrive; it is not additional time after that offset.",
+      "evidence": [
+        {
+          "startUid": "u3197",
+          "endUid": "u3197",
+          "quote": "DM: So you gather it takes a bit of I would say your fly spell has probably ended at this point yeah."
+        },
+        {
+          "startUid": "u3068",
+          "endUid": "u3068",
+          "quote": "Delwath: I can still fly for nine more minutes."
+        }
+      ]
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u3208",
+        "endUid": "u3211"
+      },
+      "reading": "Marcella and her companions arrive about twenty minutes after the wyvern fight.",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "end of the wyvern fight",
+          "offset": {
+            "value": 20,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM explicitly dates the approaching riders"
+          }
+        },
+        "precision": "approximate",
+        "basis": "stated offset from the completed fight"
+      },
+      "evidence": [
+        {
+          "startUid": "u3208",
+          "endUid": "u3211",
+          "quote": "maybe 20 minutes after the fight"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute date is spoken. July 19–23, 1748 comes from YAML; markers establish relative days only.",
+    "expectedDateBoundaries": 4,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t06",
+      "t08",
+      "t13",
+      "t14",
+      "t17"
+    ],
+    "explanation": "Four clear overnight/next-day transitions fit the YAML span if t14 repeats the morning in t13. The intervening uneventful-day wording could instead add a fifth. Historical life stories and forecasts do not extend the played interval."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t13",
+        "t14",
+        "t17"
+      ],
+      "reading": "The closing encounter follows four clear transitions, with a possible additional day at u2122–u2130.",
+      "alternatives": [
+        {
+          "reading": "If the morning is repeated, the final day is July 23 conditional on the YAML opening.",
+          "date": "1748-07-23"
+        },
+        {
+          "reading": "If the intervening day is completed separately, the final day is July 24 conditional on the YAML opening.",
+          "date": "1748-07-24"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-043",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+    "sessionYamlSha256": "6cd9370f298a21dccdd41be3ef0a2be190d080c93b21f656f0b9617056d8b57a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-transcript.md",
+    "transcriptSha256": "1327c9364464c829ad7990da41f6b00e21f423bdf730c9c924e3481e5cdb5a68"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0307"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0308",
+        "endUid": "u0507"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0508",
+        "endUid": "u0537"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0538",
+        "endUid": "u0675"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0676",
+        "endUid": "u0692"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0693",
+        "endUid": "u1264"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1265",
+        "endUid": "u1293"
+      },
+      "category": "combat",
+      "note": "Initiative is rolled for the horn signal and intimidation; the encounter resolves when the scouts flee or surrender, before the ensuing questioning."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1294",
+        "endUid": "u1733"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1734",
+        "endUid": "u1739"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1740",
+        "endUid": "u1865"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1866",
+        "endUid": "u1964"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1965",
+        "endUid": "u2305"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2306",
+        "endUid": "u2329"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2330",
+        "endUid": "u2345"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2346",
+        "endUid": "u3033"
+      },
+      "category": "combat",
+      "note": "Continuous initiative includes the surprised opening cycle, tactical discussion, and corrections. The surviving wyvern remains polymorphed when active initiative gives way to capture planning."
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u3034",
+        "endUid": "u3572"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3573",
+        "endUid": "u3706"
+      },
+      "category": "meta_discussion",
+      "note": "After the table stops active play, discussion of charm, possible attacks, and scepter secrecy continues. Proposed retaliation is not resolved combat."
+    }
+  ]
+}
