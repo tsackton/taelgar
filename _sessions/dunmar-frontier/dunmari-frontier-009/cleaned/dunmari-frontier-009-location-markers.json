@@ -1,0 +1,1051 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-009",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+    "sessionYamlSha256": "3a66899fdea56450714185027668ee12e7df75f062f33e4d2479ca1cb2c62a85",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-transcript.md",
+    "transcriptSha256": "c2216028f3a35988cc8bd0e5b1b313c522f0c401f28c87a0acfe2b5736885039"
+  },
+  "places": {
+    "p01": {
+      "label": "Dwarven outpost at Raven's Hold",
+      "kind": "outpost",
+      "evidence": [
+        {
+          "startUid": "u0042",
+          "endUid": "u0073",
+          "quote": "I'm looking at the map of Raven's Hold dwarven outpost."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0681",
+              "endUid": "u0687",
+              "quote": "Okay, so you just kind of cautiously creep towards the entryway and peer out, just kind of not going out, but just looking across. And what do you can see from here is probably mid afternoon at this point after your short rest, and the light looking across the Valley of Raven's Hold feels sort of dim and hazy, almost as if there's smoke in the air. The path, the road leads down from here, and you can see the sort of clear path of the road leading across to the castle of—and the stronghold of Raven's Hold on the other side of the valley."
+            },
+            {
+              "startUid": "u2275",
+              "endUid": "u2284",
+              "quote": "Sorry, but we're—so, so we've been off of the map of the Raven's Hold dwarven outpost for a while?"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Dwarven marketplace",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0031",
+          "quote": "Looking around you, you can now see the remains of a massive dwarven marketplace. The southern wall is lined with the remains of shops in various states of ruin. To the west, a two-story building, perhaps once a tavern, stands still intact, Delwath having just climbed down off the roof. In the middle of the huge cavern, around the dead body of the roper, a raised dais stands surrounded by a stalagmite garden. Beyond, the rest of the cavern is lost to shadow, the doorway—the main entrance to this place—in the distance to the east."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0029",
+              "endUid": "u0031",
+              "quote": "Looking around you, you can now see the remains of a massive dwarven marketplace. The southern wall is lined with the remains of shops in various states of ruin. To the west, a two-story building, perhaps once a tavern, stands still intact, Delwath having just climbed down off the roof. In the middle of the huge cavern, around the dead body of the roper, a raised dais stands surrounded by a stalagmite garden. Beyond, the rest of the cavern is lost to shadow, the doorway—the main entrance to this place—in the distance to the east."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Ruined tavern",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0031",
+          "quote": "Looking around you, you can now see the remains of a massive dwarven marketplace. The southern wall is lined with the remains of shops in various states of ruin. To the west, a two-story building, perhaps once a tavern, stands still intact, Delwath having just climbed down off the roof. In the middle of the huge cavern, around the dead body of the roper, a raised dais stands surrounded by a stalagmite garden. Beyond, the rest of the cavern is lost to shadow, the doorway—the main entrance to this place—in the distance to the east."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0029",
+              "endUid": "u0031",
+              "quote": "Looking around you, you can now see the remains of a massive dwarven marketplace. The southern wall is lined with the remains of shops in various states of ruin. To the west, a two-story building, perhaps once a tavern, stands still intact, Delwath having just climbed down off the roof. In the middle of the huge cavern, around the dead body of the roper, a raised dais stands surrounded by a stalagmite garden. Beyond, the rest of the cavern is lost to shadow, the doorway—the main entrance to this place—in the distance to the east."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Main entrance hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0660",
+          "endUid": "u0677",
+          "quote": "That—you mean if you go to the east, main entrance? So, let's see. So you come out. It just sort of explore briefly in that direction first. Steps that lead down into sort of an entry hall. And as you sort of come down in this direction, as you sort of start to come down the steps, you can see there is some dim light from—from sunlight being cast through the open doors. One door's open. It's sort of not—they're not fully wide open, but it's not completely sealed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0660",
+              "endUid": "u0677",
+              "quote": "That—you mean if you go to the east, main entrance? So, let's see. So you come out. It just sort of explore briefly in that direction first. Steps that lead down into sort of an entry hall. And as you sort of come down in this direction, as you sort of start to come down the steps, you can see there is some dim light from—from sunlight being cast through the open doors. One door's open. It's sort of not—they're not fully wide open, but it's not completely sealed."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Valley of Raven's Hold",
+      "kind": "valley",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0687",
+          "quote": "the light looking across the Valley of Raven's Hold feels sort of dim and hazy"
+        }
+      ]
+    },
+    "p06": {
+      "label": "Raven's Hold stronghold",
+      "kind": "fortress",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0687",
+          "quote": "the stronghold of Raven's Hold on the other side of the valley."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0681",
+              "endUid": "u0687",
+              "quote": "the stronghold of Raven's Hold on the other side of the valley."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Pool cavern and living space",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1013",
+          "endUid": "u1027",
+          "quote": "Okay, so as you move past, sort of into this—into this hallway, you're now sort of back. She's sort of retreating back towards the—does—the, her sort of lair, her throne, whatever, right? So remember, you came into this sort of platform. There were the pools of water, passageways running along the sides. And she's kind of retreating back now along that corridor, and you can head north, leading towards what, Riswynn, you can see in the distance is kind of a little bit of an open area at the far north end of this cavern, or you can head south."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1013",
+              "endUid": "u1027",
+              "quote": "Okay, so as you move past, sort of into this—into this hallway, you're now sort of back. She's sort of retreating back towards the—does—the, her sort of lair, her throne, whatever, right? So remember, you came into this sort of platform. There were the pools of water, passageways running along the sides. And she's kind of retreating back now along that corridor, and you can head north, leading towards what, Riswynn, you can see in the distance is kind of a little bit of an open area at the far north end of this cavern, or you can head south."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Dwarf-statue junction",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1046",
+          "endUid": "u1064",
+          "quote": "Okay, so as you head north, the—you sort of come, sort of, you're making your way along the edge of this, of this large cavern, looking down at this sort of pool, which has clearly drained down from the level it used to be. And again, there's a few of these creatures kind of—kind of huddled around the sides of this pool. And, you know, every now and then one will look at you and kind of look away, and a few of them turn and like hiss or kind of spit in your direction, but they don't seem inclined to attack or to move in your direction without—certainly without their leaders support. Um, at the, at the far end of the cavern, you sort of—the space opens up a little bit into a—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1046",
+              "endUid": "u1064",
+              "quote": "Okay, so as you head north, the—you sort of come, sort of, you're making your way along the edge of this, of this large cavern, looking down at this sort of pool, which has clearly drained down from the level it used to be. And again, there's a few of these creatures kind of—kind of huddled around the sides of this pool. And, you know, every now and then one will look at you and kind of look away, and a few of them turn and like hiss or kind of spit in your direction, but they don't seem inclined to attack or to move in your direction without—certainly without their leaders support. Um, at the, at the far end of the cavern, you sort of—the space opens up a little bit into a—"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Mirror-door antechamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1130",
+          "endUid": "u1151",
+          "quote": "Okay, you head down this. So you head down this passage way, which slopes relatively steeply down and seems like it's angling—based on at least a dwarf, certainly Riswynn has very good direction sense underground—you, you're going underneath the market now, sort of sloping down steeply. And then the passageway continues for a little while. Maybe hundred, hundred 50 feet or so. Mean, this big market cavern was pretty big, but you get the sense that you're, you know, you're sort of traveling underneath it, across to the other side of it. And as you come out, after a short just—I mean, a short distance—after, after you imagine you've passed underneath the market, you—"
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1151",
+          "quote": "You, you come out into a small—what looks like a small, spare room. Maybe 15 feet deep and maybe twice it—about twice as wide. In front facing—the most obvious thing facing you as you look into the room are three enormous circular brass doors, incredibly highly polished, like reflective sheen, no apparent handles or opening or anything like that. On either corner, sort of to the left and the right as you enter the room, are two statues, nondescript dwarven statues in heavy armor, each holding a War Hammer aloft, sort of like this. There—they seem almost purposely nondescript, like—or not—the facial features are sort of ill defined and not particularly—like they weren't designed to represent a real person. There, there's sort of a narrow divider across the room, maybe three—like a three foot high wall. Small opening, like where perhaps once a table or something stood. Otherwise, the room is—seems empty and quiet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1130",
+              "endUid": "u1151",
+              "quote": "Okay, you head down this. So you head down this passage way, which slopes relatively steeply down and seems like it's angling—based on at least a dwarf, certainly Riswynn has very good direction sense underground—you, you're going underneath the market now, sort of sloping down steeply. And then the passageway continues for a little while. Maybe hundred, hundred 50 feet or so. Mean, this big market cavern was pretty big, but you get the sense that you're, you know, you're sort of traveling underneath it, across to the other side of it. And as you come out, after a short just—I mean, a short distance—after, after you imagine you've passed underneath the market, you—"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Outer vault",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1405",
+          "quote": "So, coming down the short corridor, maybe 60-foot corridor—"
+        },
+        {
+          "startUid": "u1396",
+          "endUid": "u1405",
+          "quote": "Going down, you see ahead of you a large room, slightly bigger than the one you are just in, maybe 40, 50 feet wide and about half as long as—it's quiet and silent, and everything is coated in a layer of dust. Against the left-hand wall, in front of an empty shelf, you can see the skeletal bodies of five dwarves that lie here. Four are laid out as if asleep, sort of laid carefully, resting carefully on the ground in slightly corroded armor, and each with a warhammer and shield in their hands."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1394",
+              "endUid": "u1405",
+              "quote": "So, coming down the short corridor, maybe 60-foot corridor—"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Ruined inner vault",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1694",
+          "endUid": "u1702",
+          "quote": "Swings open towards you. I guess swings open this way. That's as you're looking into what seems like a inner chamber, or some sort of second storage room slash vault."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1694",
+              "endUid": "u1702",
+              "quote": "Swings open towards you. I guess swings open this way. That's as you're looking into what seems like a inner chamber, or some sort of second storage room slash vault."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Westward fissure tunnel",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u1789",
+          "endUid": "u1794",
+          "quote": "Looking down, you see a tunnel that is heading off into the darkness beyond the range of your dark vision, beyond the rubble, and it seems to be sloping down to the west."
+        }
+      ]
+    },
+    "p13": {
+      "label": "Mineshaft lip",
+      "kind": "ledge",
+      "evidence": [
+        {
+          "startUid": "u1937",
+          "endUid": "u1948",
+          "quote": "OK, so the area where it just opened up is not a cavern. It's a shaft. It's like a vertical fissure in the rock going up and down, and the tunnel seems to end here. You can see on the other side of the, the sort of fissure in the wall, it's like there's a—almost like it's a mine."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Vertical mineshaft",
+      "kind": "shaft",
+      "evidence": [
+        {
+          "startUid": "u1937",
+          "endUid": "u1948",
+          "quote": "OK, so the area where it just opened up is not a cavern. It's a shaft. It's like a vertical fissure in the rock going up and down, and the tunnel seems to end here. You can see on the other side of the, the sort of fissure in the wall, it's like there's a—almost like it's a mine."
+        }
+      ]
+    },
+    "p15": {
+      "label": "Locked eastern tunnel gate",
+      "kind": "gate",
+      "evidence": [
+        {
+          "startUid": "u2263",
+          "endUid": "u2274",
+          "quote": "And as the passageway slopes down a little bit, she stops after about 40 feet, and you see here, now heading directly east, a set of rusty iron bars with a rusty padlock and chain locking them shut, and beyond them a tunnel leading to the east."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2263",
+              "endUid": "u2274",
+              "quote": "And as the passageway slopes down a little bit, she stops after about 40 feet, and you see here, now heading directly east, a set of rusty iron bars with a rusty padlock and chain locking them shut, and beyond them a tunnel leading to the east."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0024",
+        "endUid": "u0037"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins around the dead roper in the dwarven marketplace.",
+      "evidence": [
+        {
+          "startUid": "u0024",
+          "endUid": "u0037",
+          "quote": "Beneath the mountains, you all breathe a sigh of relief, having moments ago defeated a roper, a many-tentacled stalagmite creature with a vicious bite."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0346",
+        "endUid": "u0357"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Wellby and Delwath enter and search the tavern.",
+      "evidence": [
+        {
+          "startUid": "u0346",
+          "endUid": "u0354",
+          "quote": "I want to go in the building and see what— what's in there and, yeah, anything interesting, so—"
+        },
+        {
+          "startUid": "u0202",
+          "endUid": "u0212",
+          "quote": "Tim, while he's doing that, I want to take a look around. Are there any, like, useful remains from people that it might have eaten? Or go into the structure and see if there's anything that—"
+        },
+        {
+          "startUid": "u0375",
+          "endUid": "u0377",
+          "quote": "I read weird languages, if you call me over."
+        },
+        {
+          "startUid": "u0348",
+          "endUid": "u0354",
+          "quote": "Okay. So it's, uh, I'll come back to you in a sec. So this is a— going inside, it seems like this was definitely some sort of tavern or gathering place or something like that. But the floors inside were probably built of wood or something, not solid stone, because you can see some columns. But just looking up straight to the ceiling, it stretches up two stories on the inside, and it feels very dry and dusty, and it sort of has an air of, like, like it hasn't been disturbed in a while. Like there's sort of a layer of dust over everything and, you know, it doesn't seem like something that's been frequented recently."
+        },
+        {
+          "startUid": "u0356",
+          "endUid": "u0357",
+          "quote": "Yeah. Make a, make a— both of you make Perception checks. Just writing a message to—"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0375",
+        "endUid": "u0399"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo is called over to the writing; Seeker subsequently enters the tavern.",
+      "evidence": [
+        {
+          "startUid": "u0375",
+          "endUid": "u0377",
+          "quote": "I read weird languages, if you call me over."
+        },
+        {
+          "startUid": "u0398",
+          "endUid": "u0399",
+          "quote": "The three fingers. I'll— I'll stumble in there."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0516",
+        "endUid": "u0571"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Wellby and Delwath investigate the destroyed market shops.",
+      "evidence": [
+        {
+          "startUid": "u0516",
+          "endUid": "u0520",
+          "quote": "So can Wellby go down and search the market area first?"
+        },
+        {
+          "startUid": "u0556",
+          "endUid": "u0560",
+          "quote": "Well, before we do anything else, is Wellby searching down here?"
+        },
+        {
+          "startUid": "u0562",
+          "endUid": "u0571",
+          "quote": "So it's a— you know, seemed like this used to be a series of shops or, you know, small storefronts, little, little buildings, some kind of stalls and some that were, you know, built more into the walls of the cave. This area has much more clearly been purposely destroyed. You know, like walls have been knocked down that there's like dwarven construction just wouldn't have right randomly collapsed, unless there was an earthquake. The paving—there's a sort of a path—the paving stones have been partially torn up. You know, there's not—there's nothing really to find down here. I mean, you don't see any—anything else besides that, but it does seem to be, you know, an area that was clearly destroyed in a way the tavern was maybe reused instead of destroyed, but down here was—was certainly sacked."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0583",
+        "endUid": "u0643"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party rests together in the tavern after searching the market.",
+      "evidence": [
+        {
+          "startUid": "u0587",
+          "endUid": "u0590",
+          "quote": "I still think we should take a short rest and in—in the building and then go back to the—try and find our way to this secret passage down to the vault, this underground passage."
+        },
+        {
+          "startUid": "u0620",
+          "endUid": "u0621",
+          "quote": "Okay, so you rest. Everybody can take a short rest. Anybody who wants to, I guess Wellby, can roll Hit Dice."
+        },
+        {
+          "startUid": "u0642",
+          "endUid": "u0643",
+          "quote": "Okay, so everybody's short rested, got your ki back, got your—"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0660",
+        "endUid": "u0692"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby makes a round trip to the entrance, peers outside without leaving, and returns to report.",
+      "evidence": [
+        {
+          "startUid": "u0660",
+          "endUid": "u0666",
+          "quote": "That—you mean if you go to the east, main entrance? So, let's see. So you come out. It just sort of explore briefly in that direction first. Steps that lead down into sort of an entry hall. And as you sort of come down in this direction, as you sort of start to come down the steps, you can see there is some dim light from—from sunlight being cast through the open doors. One door's open. It's sort of not—they're not fully wide open, but it's not completely sealed."
+        },
+        {
+          "startUid": "u0681",
+          "endUid": "u0687",
+          "quote": "Okay, so you just kind of cautiously creep towards the entryway and peer out, just kind of not going out, but just looking across. And what do you can see from here is probably mid afternoon at this point after your short rest, and the light looking across the Valley of Raven's Hold feels sort of dim and hazy, almost as if there's smoke in the air. The path, the road leads down from here, and you can see the sort of clear path of the road leading across to the castle of—and the stronghold of Raven's Hold on the other side of the valley."
+        },
+        {
+          "startUid": "u0692",
+          "endUid": "u0692",
+          "quote": "Right. Well, I will sneak back and relay that information."
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Descends through the entrance hall and looks out from inside the doorway."
+        }
+      ],
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0681",
+        "endUid": "u0687"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The stronghold is visible across the valley; Wellby does not go outside.",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0687",
+          "quote": "Okay, so you just kind of cautiously creep towards the entryway and peer out, just kind of not going out, but just looking across. And what do you can see from here is probably mid afternoon at this point after your short rest, and the light looking across the Valley of Raven's Hold feels sort of dim and hazy, almost as if there's smoke in the air. The path, the road leads down from here, and you can see the sort of clear path of the road leading across to the castle of—and the stronghold of Raven's Hold on the other side of the valley."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p04"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0681",
+        "endUid": "u0709"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the entrance, Wellby sees the hazy valley, corrupted vegetation and river, and the stronghold across it.",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0691",
+          "quote": "Okay, so you just kind of cautiously creep towards the entryway and peer out, just kind of not going out, but just looking across. And what do you can see from here is probably mid afternoon at this point after your short rest, and the light looking across the Valley of Raven's Hold feels sort of dim and hazy, almost as if there's smoke in the air. The path, the road leads down from here, and you can see the sort of clear path of the road leading across to the castle of—and the stronghold of Raven's Hold on the other side of the valley."
+        },
+        {
+          "startUid": "u0702",
+          "endUid": "u0705",
+          "quote": "Yeah, like like spiky plants, like sticking up, but with—where a normal cattail would be, just sort of like almost it looked like it was sweating, like darkness dripping off the top."
+        },
+        {
+          "startUid": "u0709",
+          "endUid": "u0709",
+          "quote": "It looked very dark, almost like almost bloody."
+        },
+        {
+          "startUid": "u0688",
+          "endUid": "u0691",
+          "quote": "There was a waterfall cascading down to this pool, and around the sides of the pool there's sort of like what looked like black slimy cattails growing up. The bridge passes over a dark river that's sort of moving slowly out from this pool where the waterfall flows down, and looking to your right, sort of towards the entry of the valley, you can see scattered clumps of these thorny plants. Guarding the—like little almost like cactus bushes dotting the valley, which all seems very dry and dusty, almost as if nothing's getting any nourishment from the water. There's, there's like a few trees that line this this river, but they're all dead."
+        }
+      ],
+      "place": "p05",
+      "mode": "local",
+      "observerPlace": "p04"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0724",
+        "endUid": "u0731"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party approaches the passage toward the living space and meets Inakara at its entrance.",
+      "evidence": [
+        {
+          "startUid": "u0724",
+          "endUid": "u0731",
+          "quote": "Okay, so as you start to—see, you head back towards the direction towards the living space would be here, and as you begin to approach this passage way, you can see that this creature has been sort of slumped sitting against the side of the wall, talking to a few of her companions. And as you approach, she kind of stands up and and looks at you and says,"
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "underway"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1013",
+        "endUid": "u1064"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After negotiating passage, the party passes the pool cavern and reaches the statue junction.",
+      "evidence": [
+        {
+          "startUid": "u1013",
+          "endUid": "u1027",
+          "quote": "Okay, so as you move past, sort of into this—into this hallway, you're now sort of back. She's sort of retreating back towards the—does—the, her sort of lair, her throne, whatever, right? So remember, you came into this sort of platform. There were the pools of water, passageways running along the sides. And she's kind of retreating back now along that corridor, and you can head north, leading towards what, Riswynn, you can see in the distance is kind of a little bit of an open area at the far north end of this cavern, or you can head south."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1064",
+          "quote": "Okay, so as you head north, the—you sort of come, sort of, you're making your way along the edge of this, of this large cavern, looking down at this sort of pool, which has clearly drained down from the level it used to be. And again, there's a few of these creatures kind of—kind of huddled around the sides of this pool. And, you know, every now and then one will look at you and kind of look away, and a few of them turn and like hiss or kind of spit in your direction, but they don't seem inclined to attack or to move in your direction without—certainly without their leaders support. Um, at the, at the far end of the cavern, you sort of—the space opens up a little bit into a—"
+        }
+      ],
+      "from": "p02",
+      "to": "p08",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p07",
+          "reading": "Passes along the pool cavern while the inhabitants watch."
+        }
+      ],
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1130",
+        "endUid": "u1151"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party descends under the marketplace to the antechamber with three brass mirror doors.",
+      "evidence": [
+        {
+          "startUid": "u1130",
+          "endUid": "u1140",
+          "quote": "Okay, you head down this. So you head down this passage way, which slopes relatively steeply down and seems like it's angling—based on at least a dwarf, certainly Riswynn has very good direction sense underground—you, you're going underneath the market now, sort of sloping down steeply. And then the passageway continues for a little while. Maybe hundred, hundred 50 feet or so. Mean, this big market cavern was pretty big, but you get the sense that you're, you know, you're sort of traveling underneath it, across to the other side of it. And as you come out, after a short just—I mean, a short distance—after, after you imagine you've passed underneath the market, you—"
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1151",
+          "quote": "You, you come out into a small—what looks like a small, spare room. Maybe 15 feet deep and maybe twice it—about twice as wide. In front facing—the most obvious thing facing you as you look into the room are three enormous circular brass doors, incredibly highly polished, like reflective sheen, no apparent handles or opening or anything like that. On either corner, sort of to the left and the right as you enter the room, are two statues, nondescript dwarven statues in heavy armor, each holding a War Hammer aloft, sort of like this. There—they seem almost purposely nondescript, like—or not—the facial features are sort of ill defined and not particularly—like they weren't designed to represent a real person. There, there's sort of a narrow divider across the room, maybe three—like a three foot high wall. Small opening, like where perhaps once a table or something stood. Otherwise, the room is—seems empty and quiet."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "min": 100,
+        "max": 150,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM estimates the descending passage"
+      }
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1169",
+        "endUid": "u1198"
+      },
+      "actors": [
+        "Wellby",
+        "following companions"
+      ],
+      "reading": "Wellby runs back up the corridor to confront the invisible follower, then returns; the followers are not individually identified.",
+      "evidence": [
+        {
+          "startUid": "u1169",
+          "endUid": "u1172",
+          "quote": "So unexpectedly, just as we step into the room, without any warning whatsoever, torch in hand, I wheel on one foot and start sprinting back the way we came and just say, ‘Behind! Someone's following us!’ And just take off down the hall back the direction we came."
+        },
+        {
+          "startUid": "u1178",
+          "endUid": "u1186",
+          "quote": "And then I hold up a hand for everybody behind me to stop and just focus on like listening intently as I can."
+        },
+        {
+          "startUid": "u1231",
+          "endUid": "u1236",
+          "quote": "She's just, you said, back in the corridor. She's like, not in the room anymore?"
+        }
+      ],
+      "from": "p09",
+      "to": "p09",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Briefly retraces the corridor toward the statue junction without reaching it."
+        }
+      ],
+      "mode": "run"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1375",
+        "endUid": "u1436"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party proceeds through the opened center door and down the corridor into the outer vault.",
+      "evidence": [
+        {
+          "startUid": "u1375",
+          "endUid": "u1376",
+          "quote": "So as you come down this corridor, first of all, Wellby, give me a Perception check."
+        },
+        {
+          "startUid": "u1394",
+          "endUid": "u1405",
+          "quote": "So, coming down the short corridor, maybe 60-foot corridor—"
+        },
+        {
+          "startUid": "u1432",
+          "endUid": "u1436",
+          "quote": "Against the far wall, two large iron doors stand shut. In front of the doors, there's the dead body of some sort of humanoid creature, but definitely not a human. Somewhat taller than a normal human, maybe seven or eight feet tall, with an elongated, almost cone-like head, with claws instead of hands, with large sharp fingers and a gaping hole where the mouth should be, the skull smashed open."
+        },
+        {
+          "startUid": "u1396",
+          "endUid": "u1400",
+          "quote": "Going down, you see ahead of you a large room, slightly bigger than the one you are just in, maybe 40, 50 feet wide and about half as long as—it's quiet and silent, and everything is coated in a layer of dust. Against the left-hand wall, in front of an empty shelf, you can see the skeletal bodies of five dwarves that lie here. Four are laid out as if asleep, sort of laid carefully, resting carefully on the ground in slightly corroded armor, and each with a warhammer and shield in their hands."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "distance": {
+        "value": 60,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM estimates corridor length"
+      },
+      "mode": "walk"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1694",
+        "endUid": "u1713"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Opening the iron doors reveals the ruined inner vault and blocked crack.",
+      "evidence": [
+        {
+          "startUid": "u1690",
+          "endUid": "u1702",
+          "quote": "And I'm standing by the iron door. Riswynn, would you like to do the honors?"
+        },
+        {
+          "startUid": "u1708",
+          "endUid": "u1713",
+          "quote": "Is there a—did you already say this? Is there a way out of this room or no?"
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u1718",
+        "endUid": "u1730"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo guards the treasure and then the vault doorway while Seeker investigates.",
+      "evidence": [
+        {
+          "startUid": "u1718",
+          "endUid": "u1719",
+          "quote": "Okay, I, I stand by all the stuff and just kind of keep an eye out."
+        },
+        {
+          "startUid": "u1728",
+          "endUid": "u1730",
+          "quote": "All right. We've got all this stuff, and I, I just, I just, I just head to the door."
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1731",
+        "endUid": "u1782"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker enters the inner chamber, climbs its rubble, and clears room to look through the crack.",
+      "evidence": [
+        {
+          "startUid": "u1731",
+          "endUid": "u1736",
+          "quote": "I'm gonna climb up and peer through that crack."
+        },
+        {
+          "startUid": "u1778",
+          "endUid": "u1782",
+          "quote": "Appreciate it. I'll step back off the rubble pile, concentrate for a moment with my hands in the air, and glowing mitt forms around the rubble, and I can gently just nudge it over to the side, just enough for me to squeeze my upper body through."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u1789",
+        "endUid": "u1794"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker looks through the cleared crack at a rough tunnel sloping westward; he does not travel down it.",
+      "evidence": [
+        {
+          "startUid": "u1789",
+          "endUid": "u1794",
+          "quote": "Looking down, you see a tunnel that is heading off into the darkness beyond the range of your dark vision, beyond the rubble, and it seems to be sloping down to the west."
+        }
+      ],
+      "place": "p12",
+      "mode": "local",
+      "observerPlace": "p11"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1872",
+        "endUid": "u1948"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Invisible Delwath scouts down the rough tunnel to its end at the lip of a vertical shaft.",
+      "evidence": [
+        {
+          "startUid": "u1872",
+          "endUid": "u1873",
+          "quote": "Fine, I'll cast Invisibility and go scope down the tunnel."
+        },
+        {
+          "startUid": "u1882",
+          "endUid": "u1896",
+          "quote": "That's out of the tunnel. As you begin to scout down the tunnel, it's sloping down rather steeply and twists and turns a little bit, and then you come, maybe 100, maybe 200 feet down. It's still just a straight tunnel at this point. Sort of sloping and occasionally, you know, twisting or or um, kind of jogging or jogging to to avoid, you know, something. Occasionally like little bits of rock or something. You see some, you know, little sort of traces of maybe mineral or something along the side of the wall, but nothing you recognize."
+        },
+        {
+          "startUid": "u1936",
+          "endUid": "u1948",
+          "quote": "I'll go to just a few feet before it starts to open up."
+        }
+      ],
+      "from": "p10",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p11",
+          "reading": "Passes through the cleared crack in the inner vault."
+        },
+        {
+          "place": "p12",
+          "reading": "Follows the twisting, steeply descending tunnel westward."
+        }
+      ],
+      "mode": "walk"
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u1937",
+        "endUid": "u1963"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath looks up and down the shaft and at metal across its roughly fifteen-foot gap without crossing.",
+      "evidence": [
+        {
+          "startUid": "u1937",
+          "endUid": "u1948",
+          "quote": "OK, so the area where it just opened up is not a cavern. It's a shaft. It's like a vertical fissure in the rock going up and down, and the tunnel seems to end here. You can see on the other side of the, the sort of fissure in the wall, it's like there's a—almost like it's a mine."
+        },
+        {
+          "startUid": "u1952",
+          "endUid": "u1963",
+          "quote": "And wait, did you say I saw something?"
+        }
+      ],
+      "place": "p14",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1992",
+        "endUid": "u1996"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath returns to the party with the metal sample and reports his scouting.",
+      "evidence": [
+        {
+          "startUid": "u1992",
+          "endUid": "u1996",
+          "quote": "I'll go back."
+        },
+        {
+          "startUid": "u1995",
+          "endUid": "u1996",
+          "quote": "And I'll tell them, I'll hand this back to them. I'll hand the—I'll give Seeker the piece of metal and explain what I saw. It's basically the mines."
+        }
+      ],
+      "from": "p13",
+      "to": "p10",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p12",
+          "reading": "Retraces the scouting tunnel."
+        }
+      ],
+      "mode": "walk"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2095"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the mirror-door room and closes the vault behind it.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2083",
+          "quote": "So you're heading back up the vault?"
+        },
+        {
+          "startUid": "u2089",
+          "endUid": "u2095",
+          "quote": "And then close the mirror doors and put the keys back around the necks of this—"
+        }
+      ],
+      "from": "p10",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2223",
+        "endUid": "u2274"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Inakara guides the party through the statue junction and eastern passages to a locked gate beneath the main entrance.",
+      "evidence": [
+        {
+          "startUid": "u2223",
+          "endUid": "u2234",
+          "quote": "As you're talking, she's starting to lead you—she's starting to lead you back down the corridor that you came, came in, and sort of back out, now coming back up to the room with the statue. And she now takes you to the—"
+        },
+        {
+          "startUid": "u2244",
+          "endUid": "u2267",
+          "quote": "And she can lead you down a passageway that turns to the, to the right, and so heading east. And which continues for a little bit in—and as you begin to approach what you see up ahead as a room, she says, \"Careful now, watch out for the—watch out for the white dangling. Do not come close. Do not go north.\" And she leads you through a small room."
+        },
+        {
+          "startUid": "u2270",
+          "endUid": "u2274",
+          "quote": "You're basically underneath the entrance at ground level, yeah, yet."
+        },
+        {
+          "startUid": "u2263",
+          "endUid": "u2267",
+          "quote": "And as the passageway slopes down a little bit, she stops after about 40 feet, and you see here, now heading directly east, a set of rusty iron bars with a rusty padlock and chain locking them shut, and beyond them a tunnel leading to the east."
+        }
+      ],
+      "from": "p09",
+      "to": "p15",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p08",
+          "reading": "Returns to the statue room and takes its northwest branch."
+        },
+        {
+          "reading": "Skirts a circular room, turns east, and passes the northern archway without entering it."
+        },
+        {
+          "reading": "Passes side rooms and descends about forty feet along the left branch."
+        }
+      ],
+      "mode": "walk"
+    }
+  ]
+}

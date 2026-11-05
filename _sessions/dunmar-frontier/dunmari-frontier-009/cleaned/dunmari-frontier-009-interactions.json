@@ -1,0 +1,2050 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "c2216028f3a35988cc8bd0e5b1b313c522f0c401f28c87a0acfe2b5736885039"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-entity-map.json",
+      "sha256": "1889dd2e63d8a57fe3dc50ab47a4dac56af39b9b942b88d26d969042b383cf8b"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Opening reports: Alesh and the Shakun initiates",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0018"
+      },
+      "lines": [
+        "%% u0015:0-171, u0016:0-17, u0017:0-179, u0018:0-166 %%",
+        "DM: To the south, Alesh and her small group of companions ride quickly through the deserts, hopefully avoiding danger and seeking to learn what lurks in the ruins of Bas Udda and other points beyond, and return to Karawa with knowledge to prepare for what may come. In Karawa, the fate of the acolytes and initiates of the Shakun mysteries, holed up in the temple of Shakun, is unknown. Centaurs now ride fast towards these defenders, bringing the warning of a spreading plague and perhaps aid in battle as well, if it is not too late already.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: In the West, a tired mass of refugees fled Karawa nine days ago.",
+          "Wellby: [garbled]",
+          "DM: Out. Yes.",
+          "Unknown: Great idea.",
+          "DM: Nine days ago, while you were waiting for the festival to begin—rumors of attacks, this—yep, here we go. Rumors of attacks, rampaging creatures half human, half hyena and full of violence, reach Karawa, which was later attacked by these gnolls and worse, a few days later. Now, some nine days later, the refugees should hopefully be nearing the river Hara on the outskirts of Tokra if no danger has overwhelmed them on the way."
+        ],
+        "after": [
+          "DM: To the east, few dare to tread. The ancient wards protecting the borders of Dunmar have fallen, and the dangers that were held at bay have emerged again.",
+          "DM: In the north, everything is unnaturally still and quiet. Nothing moves on the lands where the mountains meet the plains.",
+          "DM: In the mountain valley and holdfast of Raven's Hold, some force of evil out of the diseased hell of the Abyss lurks.",
+          "DM: Beneath the mountains, you all breathe a sigh of relief, having moments ago defeated a roper, a many-tentacled stalagmite creature with a vicious bite.",
+          "DM: Now, looking around the mangled remains of this beast, crashed against the floor of this huge dwarven marketplace, strong acid running out of its wounds with a few bits of partially digested bone, whatever else may remain of its previous victims."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The royal horse and the Mockers: an old-campaign recollection",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0156",
+        "endUid": "u0171"
+      },
+      "lines": [
+        "%% u0156:0-26, u0157:0-120, u0158:0-50 %%",
+        "Kenzo: [garbled] As Tim types that, Schwartz, do you remember in the original campaign how Dunmar had like some kind of a horse that like was responsible for the lineage of like an empire?",
+        "",
+        "%% u0159:0-32 %%",
+        "Wellby: The horse chooses the next king.",
+        "",
+        "%% u0160:0-28 %%",
+        "DM: Yeah, and did Aaron kill the—",
+        "",
+        "%% u0161:0-127 %%",
+        "Kenzo: Horse? Or did the Mockers—the Mockers were involved in kidnapping the horse or doing something nefarious with the horse, right?",
+        "",
+        "%% u0162:0-39 %%",
+        "Wellby: No. No, that doesn't sound very heroic.",
+        "",
+        "%% u0163:0-34, u0164:0-20 %%",
+        "Kenzo: Have to remember. Okay, all right. Thank you. Waiting on—",
+        "",
+        "%% u0165:0-63 %%",
+        "Wellby: Maybe we're gonna run like a horse scam or something like that.",
+        "",
+        "%% u0166:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u0167:0-106 %%",
+        "Wellby: Somehow try to try to like misdirect about who the horse chose just because the horse went missing, right?",
+        "",
+        "%% u0168:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u0169:0-17, u0170:0-25, u0171:0-66 %%",
+        "DM: You are trying to—I think you are trying to create a fake horse or something like that, because the country is—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: I'm ready.",
+          "Kenzo: To do the—now, yeah, I'm before this, before I, before—",
+          "DM: I mean, short rest is, is takes an hour. So before you click the short rest button, let's like see what happens. Cuz she might not let you just like stand there for an hour on—",
+          "Kenzo: Can I soul sight her, or did I already do that?",
+          "DM: That doesn't require ki. The basic use doesn't require ki, it's only if you want to learn combat relevant things like, okay, vulnerabilities or whether magic is affecting them. Also, also, hold on, I'm taking—typing a message to [garbled] to Seeker, um—"
+        ],
+        "after": [
+          "Kenzo: Awkward.",
+          "Wellby: And then.",
+          "Kenzo: I had the observation that the Mockers Word document on—",
+          "Wellby: Oh, no. Oh. That's just me.",
+          "DM: Okay. So, um—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Recovering the magical pearl",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0217",
+        "endUid": "u0291"
+      },
+      "lines": [
+        "%% u0217:0-9, u0218:0-46, u0219:0-35, u0220:0-112, u0221:0-271, u0222:0-17, u0223:0-133 %%",
+        "DM: ((Creature examination)) You do see something sort of white and shiny kind of glinting a little bit, like, in its body. Like, just catching off the light of the torch, something's reflecting, and there's a bit of, like, sort of hissing sound as it's [garbled].",
+        "",
+        "%% u0224:0-160 %%",
+        "Kenzo: I think, I think the— I take the, the staff, the old mage's staff, which I'm still carrying around with me, and I poke, and I— can I go and kind of poke over at it?",
+        "",
+        "%% u0225:0-9, u0226:0-29, u0227:0-104 %%",
+        "DM: Sure, um, the staff begins to dissolve. But this small, like, white pearl, like, about that big, falls out of the body as you're poking around at it.",
+        "",
+        "%% u0228:0-23, u0229:0-27, u0230:0-76, u0231:0-5, u0232:0-56, u0233:0-119 %%",
+        "((Checking the dissolving staff))",
+        "",
+        "%% u0234:0-77 %%",
+        "DM: That's, that's kind of sitting in the acid. It does not seem to be dissolving.",
+        "",
+        "%% u0235:0-121, u0236:0-11 %%",
+        "Kenzo: Can I, like, use the stick and poke the pearl away from the acids? So it's kind of, you know, just pushing it away from the— sure. Okay.",
+        "",
+        "%% u0237:0-25, u0238:0-55, u0239:0-66, u0240:0-40 %%",
+        "((Handling precautions))",
+        "",
+        "%% u0241:0-47, u0242:0-53, u0243:0-7, u0244:0-24, u0245:0-13 %%",
+        "Kenzo: I took, like, some— like a piece of fabric, or, like, gloves or something, and just, just kind of pick it up, but not having it touch my hand. How big is it?",
+        "",
+        "%% u0246:0-88, u0247:0-36 %%",
+        "DM: It's, like, about that big. It looks like at one point it was maybe set in something metal, but the metal’s dissolved around it.",
+        "",
+        "%% u0248:0-14, u0249:0-75, u0250:0-3, u0251:0-69, u0252:0-5, u0253:0-18, u0254:0-4, u0255:0-27, u0256:0-14, u0257:0-41, u0258:0-59, u0259:0-56 %%",
+        "((Calling the others over))",
+        "",
+        "%% u0260:0-96 %%",
+        "Kenzo: I appear to have found something unusual in the body. Can one of you ascertain if this is magic?",
+        "",
+        "%% u0261:0-34 %%",
+        "Delwath: It'll take a few minutes, but sure.",
+        "",
+        "%% u0262:0-95, u0263:0-13, u0264:0-17, u0265:0-25, u0266:0-30, u0267:0-26, u0268:0-35, u0269:0-19, u0270:0-9 %%",
+        "((Pearl appearance discussion))",
+        "",
+        "%% u0271:0-13 %%",
+        "DM: It is magical.",
+        "",
+        "%% u0272:0-14, u0273:0-18, u0274:0-11, u0275:0-19, u0276:0-2, u0277:0-19, u0278:0-11 %%",
+        "((Table clarification))",
+        "",
+        "%% u0279:0-64, u0280:0-141, u0281:0-40, u0282:0-9, u0283:0-125, u0284:0-114, u0285:0-18, u0286:0-22 %%",
+        "DM: Okay, so Delwath kind of goes into a trance for a few minutes ((Position and visibility discussion)) But yes, it is magical.",
+        "",
+        "%% u0287:0-35, u0288:0-10, u0289:0-14, u0290:0-43 %%",
+        "((Checking the magic message))",
+        "",
+        "%% u0291:0-20 %%",
+        "Delwath: Transmutation magic.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Um, so, Seeker and Delwath, you're both investigating the tavern structure, whatever it is? Yeah.",
+          "Unknown: Yeah.",
+          "DM: [garbled]",
+          "Riswynn: I was also over by the structure until—",
+          "Seeker: And I'm wandering to the south."
+        ],
+        "after": [
+          "Seeker: Is the acid a natural phenomenon?",
+          "Delwath: I mean, is the, is the creature itself magic?",
+          "DM: No.",
+          "Kenzo: I think the creature is, is native to these habitats. I don't know if, Riswynn, Seeker, you've seen— you've heard of such beasts in the underworld, but—",
+          "Seeker: Good question. Is this, like, a typical pest? Another roper, God."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Riswynn explains the pearl’s power",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0437",
+        "endUid": "u0447"
+      },
+      "lines": [
+        "%% u0437:0-43 %%",
+        "Kenzo: Riswynn, what did you learn about the pearl?",
+        "",
+        "%% u0438:0-5, u0439:0-123, u0440:0-49, u0441:0-127, u0442:0-5 %%",
+        "Riswynn: Well, when I— when I looked at it for a long time, I got a mental image of it releasing power. I think that if one were wanting to— need additional power to be able to cast a spell when one had already drained one's resources in that area, this could restore the pathway for, for some additional spell casting power.",
+        "",
+        "%% u0443:0-23, u0444:0-21 %%",
+        "Kenzo: Powerful indeed. Perhaps— perhaps Delwath there.",
+        "",
+        "%% u0445:0-33, u0446:0-29 %%",
+        "Seeker: Well, I think several of us could make use of it at some point.",
+        "",
+        "%% u0447:0-57 %%",
+        "DM: One person has to attune to it. You can't pass it around.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah. What do you mean, natural enemies? I mean—",
+          "Unknown: Historical.",
+          "Kenzo: Were there any big wars fought between the dwarves and goblins and—",
+          "DM: Um, yeah, I mean, hobgoblins were a major enemy of everybody at the end of the— during the— um, yeah. So hobgoblins were, like, certainly they were a major enemy of the Dunmari and one of the— hold on.",
+          "Wellby: So Wellby looks at it and just sort of, you know, realizes what’s going on at this— for the first 30 seconds or so, he's just sort of lost in his own thoughts, kind of zoned out staring at this thing, either very intently or very distracted. Looks like he's trying to think of something. It's kind of like there's a level of this—"
+        ],
+        "after": [
+          "Wellby: So, Wellby sort of snaps up and says, ‘I have seen this before. We've seen this before. This is a hobgoblin battle banner. Maybe the end of the last age, maybe the very beginning of this age. That's the symbol. We've run from that symbol before.’",
+          "Seeker: We have. But the mark is pretty old, right?",
+          "DM: It's not— it's— the mark is not 150 years old, but—",
+          "Seeker: But more than likely—",
+          "DM: It's not, it's not like it's— it's faded. It was not easy to see. I mean, once you— once whoever rolled above a 15, once Wellby spotted that, the rest of you can— could find it. But you— it would have been easy to miss. It’s well faded."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Recognizing the hobgoblin banner",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0448",
+        "endUid": "u0456"
+      },
+      "lines": [
+        "%% u0448:0-31, u0449:0-210 %%",
+        "Wellby: So, Wellby sort of snaps up and says, ‘I have seen this before. We've seen this before. This is a hobgoblin battle banner. Maybe the end of the last age, maybe the very beginning of this age. That's the symbol. We've run from that symbol before.’",
+        "",
+        "%% u0450:0-7, u0451:0-34 %%",
+        "Seeker: We have. But the mark is pretty old, right?",
+        "",
+        "%% u0452:0-48 %%",
+        "DM: It's not— it's— the mark is not 150 years old, but—",
+        "",
+        "%% u0453:0-20 %%",
+        "Seeker: But more than likely—",
+        "",
+        "%% u0454:0-137, u0455:0-25, u0456:0-65 %%",
+        "DM: It's not, it's not like it's— it's faded. It was not easy to see. I mean, once you— once whoever rolled above a 15, once Wellby spotted that, the rest of you can— could find it. But you— it would have been easy to miss. It’s well faded.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Riswynn, what did you learn about the pearl?",
+          "Riswynn: Well, when I— when I looked at it for a long time, I got a mental image of it releasing power. I think that if one were wanting to— need additional power to be able to cast a spell when one had already drained one's resources in that area, this could restore the pathway for, for some additional spell casting power.",
+          "Kenzo: Powerful indeed. Perhaps— perhaps Delwath there.",
+          "Seeker: Well, I think several of us could make use of it at some point.",
+          "DM: One person has to attune to it. You can't pass it around."
+        ],
+        "after": [
+          "Seeker: So perhaps this dwarven stronghold was taken by hobgoblins, who then left later, and sometime later, after that, these other folks moved in. But we still don't know anything about them. You know, squatters, I suppose. And Tim, we don't know— there's no memory or record of peoples that look like this in the dwar—",
+          "DM: No, I mean, they're not— there are— there are sort of rumors and tall tales of sort of twisted experiments of those creatures that live far below the earth that, you know, way deep below the— even the dwarven kingdoms. And it's always been sort of part of the— the dwarves and kind of the, the boogeyman that you tell your dwarf kids stories at night, right? Like, you know, the creatures from the deep that will come up in and get you. The sort of— the counterbalance to the sort of desire to dig as deep as you can and, and sort of search and explore is that there's things down there you don't want to meet.",
+          "DM: But there's not clear records of— I mean, there's not, like, bestiaries that kind of list everything that's there. And in your experience, you haven't— you are never one who was delving deep underground and sort of exploring, nor was your family, right? I mean, they were architects. They were pretty much at the surface. You've, you know, you've heard tales and stories and kind of rumors and hints of things, but nothing you can really— nothing definitive that—",
+          "Riswynn: Um—",
+          "Seeker: Just weirdos."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Eberk’s silence about the evacuation",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0477",
+        "endUid": "u0488"
+      },
+      "lines": [
+        "%% u0477:0-87 %%",
+        "Riswynn: Going back to the hobgoblins, Uncle Eberk—Riswynn's kin—never said anything about, like—",
+        "",
+        "%% u0478:0-9 %%",
+        "Unknown: [garbled]",
+        "",
+        "%% u0479:0-5, u0480:0-20, u0481:0-101, u0482:0-90, u0483:0-33 %%",
+        "DM: Know that they fled maybe 200 years. I mean, they fled during the wars with Cha'mutte, so, so there were hobgoblins. They weren't necessarily things that attacked. I mean, there was a number of hobgoblin wars during that series of wars that mark— that are—",
+        "",
+        "%% u0484:0-33 %%",
+        "Riswynn: Desperate flight, the fortress was—",
+        "",
+        "%% u0485:0-50, u0486:0-93, u0487:0-48, u0488:0-118 %%",
+        "DM: No, you never— nobody really ever talked about what the last desperate flight was and why some treasure was removed and not all of it. Like, nobody— that your uncle would just not talk about it, and nobody would really ever give you a straight answer about that, whether because they didn't know or they didn't want to.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So perhaps this dwarven stronghold was taken by hobgoblins, who then left later, and sometime later, after that, these other folks moved in. But we still don't know anything about them. You know, squatters, I suppose. And Tim, we don't know— there's no memory or record of peoples that look like this in the dwar—",
+          "DM: No, I mean, they're not— there are— there are sort of rumors and tall tales of sort of twisted experiments of those creatures that live far below the earth that, you know, way deep below the— even the dwarven kingdoms. And it's always been sort of part of the— the dwarves and kind of the, the boogeyman that you tell your dwarf kids stories at night, right? Like, you know, the creatures from the deep that will come up in and get you. The sort of— the counterbalance to the sort of desire to dig as deep as you can and, and sort of search and explore is that there's things down there you don't want to meet.",
+          "DM: But there's not clear records of— I mean, there's not, like, bestiaries that kind of list everything that's there. And in your experience, you haven't— you are never one who was delving deep underground and sort of exploring, nor was your family, right? I mean, they were architects. They were pretty much at the surface. You've, you know, you've heard tales and stories and kind of rumors and hints of things, but nothing you can really— nothing definitive that—",
+          "Riswynn: Um—",
+          "Seeker: Just weirdos."
+        ],
+        "after": [
+          "Seeker: Riswynn, could we see that map of this place again? Because I'm wondering about, having walked around it a bit, what— what all the exits on the map correspond to in this room that we're in?",
+          "Riswynn: My feeling is that— now my feeling is that this living space must have passageways through it, or this tavern thing must have passageways through it to the area my uncle marked as living space. That's my feeling based on the orientation of the main door and cave of music next to it and—",
+          "Seeker: Yeah, keep through this passage way where the interesting [garbled] metal—",
+          "Riswynn: Seems to be in mind.",
+          "Seeker: As I work out some new techniques for adding spatial temporal dimensions to maps, I'm starting to see how it might improve the view of multiple layers in the ground of this map and noticing how it could be a little confusing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Seeker attunes to the Pearl of Power",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0606",
+        "endUid": "u0641"
+      },
+      "lines": [
+        "%% u0606:0-18 %%",
+        "Seeker: Can I try it, then?",
+        "",
+        "%% u0607:0-99 %%",
+        "DM: ((Equipment interface))Pearl of Power.",
+        "",
+        "%% u0608:0-31 %%",
+        "Seeker: Pearl of Power, okay, and add it.",
+        "",
+        "%% u0609:0-50, u0610:0-24, u0611:0-153, u0612:0-30, u0613:0-30, u0614:0-25, u0615:0-149 %%",
+        "((Equipment interface and attunement mechanics))",
+        "",
+        "%% u0616:0-28, u0617:0-44, u0618:0-123, u0619:0-26, u0620:0-99, u0621:0-9 %%",
+        "((Spell-slot interface and rest mechanics))",
+        "",
+        "%% u0622:0-32, u0623:0-112, u0624:0-4, u0625:0-32, u0626:0-40, u0627:0-23, u0628:0-127, u0629:0-25, u0630:0-146 %%",
+        "DM: And Seeker, as you're resting, you—it, it almost feels like—it does feel like a spring uncoiling, like as you're sort of focusing on this this pearl. This—this energy kind of is released almost all of a sudden, and you feel the power restoring to you. And then as you're kind of contemplating it, as you're attuning to it, you can feel it kind of slowly drawing in energy from the—from the land around you. Just kind of pulling on whatever ley lines or energy. ((Hit Dice mechanics))",
+        "",
+        "%% u0631:0-4, u0632:0-115, u0633:0-108, u0634:0-135 %%",
+        "DM: ((Rest mechanics)) You can feel it sort of slowly kind of gathering in this energy, and you figure over time it will accumulate enough more energy to then be released all at once.",
+        "",
+        "%% u0635:0-33, u0636:0-5 %%",
+        "((Private-message aside))",
+        "",
+        "%% u0637:0-53 %%",
+        "Seeker: Released all at once? I'm not sure I understood that.",
+        "",
+        "%% u0638:0-85, u0639:0-39 %%",
+        "DM: So that's basically one—it accumulates energy over time. And then once a day, you can use that energy to restore a spell slot.",
+        "",
+        "%% u0640:0-9, u0641:0-29 %%",
+        "Seeker: I gotcha. I'm going to hold on to this.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean, regaining spell slots is not that useful for me cuz I regain them all with a short—",
+          "Unknown: Right.",
+          "Seeker: And I do not. Is that true?",
+          "DM: No, only warlocks regain on a short rest.",
+          "Unknown: Okay."
+        ],
+        "after": [
+          "DM: Okay, so everybody's short rested, got your ki back, got your—",
+          "Delwath: Yeah, so let's—",
+          "Wellby: Sit down.",
+          "Delwath: Let's head—yeah.",
+          "Kenzo: Before we go any place, Tim, can you answer my question here?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Feeding and comforting Taster",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0712",
+        "endUid": "u0720"
+      },
+      "lines": [
+        "%% u0712:0-66, u0713:0-13 %%",
+        "Seeker: Oh, I'll take this opportunity to feed our loyal companion Taster. How's Taster?",
+        "",
+        "%% u0714:0-9 %%",
+        "DM: Taster is—",
+        "",
+        "%% u0715:0-21 %%",
+        "Seeker: Not happy. Well, hey—",
+        "",
+        "%% u0716:0-73, u0717:0-123 %%",
+        "DM: Well, I don't know how often you've carried rabbits through dark tunnels, battles with monsters with tentacles flying around, but I think it's gonna take Taster more than an hour to calm down after—",
+        "",
+        "%% u0718:0-17, u0719:0-19, u0720:0-14 %%",
+        "Seeker: Taster some pets, and a little bit of dried rations.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, exactly. Yeah.",
+          "Seeker: But the water looked abnormal?",
+          "DM: It looked very dark, almost like almost bloody.",
+          "Seeker: Which was not how the water that we were ourselves bodily immersed in earlier looked.",
+          "DM: Very much not, no."
+        ],
+        "after": [
+          "DM: So, where to?",
+          "Wellby: To living space, down to the vault.",
+          "Seeker: Yeah. Yep, let's do it.",
+          "DM: Okay, so as you start to—see, you head back towards the direction towards the living space would be here, and as you begin to approach this passage way, you can see that this creature has been sort of slumped sitting against the side of the wall, talking to a few of her companions. And as you approach, she kind of stands up and and looks at you and says,",
+          "DM: \"You were leaving, yes? This is not the exit. You wanted safe passage out. Out. What are you here for?\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Negotiating passage to the mirror doors",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0724",
+        "endUid": "u1008"
+      },
+      "lines": [
+        "%% u0724:0-24, u0725:0-143, u0726:0-133, u0727:0-52 %%",
+        "DM: Okay, so as you start to—see, you head back towards the direction towards the living space would be here, and as you begin to approach this passage way, you can see that this creature has been sort of slumped sitting against the side of the wall, talking to a few of her companions. And as you approach, she kind of stands up and and looks at you and says,",
+        "",
+        "%% u0728:0-22, u0729:0-21, u0730:0-31, u0731:0-21 %%",
+        "DM: \"You were leaving, yes? This is not the exit. You wanted safe passage out. Out. What are you here for?\"",
+        "",
+        "%% u0732:0-14 %%",
+        "Riswynn: You can let us—",
+        "",
+        "%% u0733:0-21, u0734:0-19, u0735:0-3, u0736:0-23 %%",
+        "DM: \"Let you pass to where? This is my kingdom. No. What do you explore for?\"",
+        "",
+        "%% u0737:0-109, u0738:0-27 %%",
+        "Seeker: I nod to Riswynn and say, \"Let's—maybe we should take this opportunity to more formally introduce ourselves and—and get to know each other.\"",
+        "",
+        "%% u0739:0-84, u0740:0-34, u0741:0-16, u0742:0-12, u0743:0-72, u0744:0-12, u0745:0-5, u0746:0-53, u0747:0-4, u0748:0-20, u0749:0-65, u0750:0-24, u0751:0-20, u0752:0-97, u0753:0-32, u0754:0-3, u0755:0-78, u0756:0-12, u0757:0-107, u0758:0-24, u0759:0-3, u0760:0-6, u0761:0-58, u0762:0-83, u0763:0-4 %%",
+        "((Language checks and stepping aside))",
+        "",
+        "%% u0764:0-50, u0765:0-14, u0766:0-87, u0767:0-26 %%",
+        "Delwath: I'll sort of nod to her and say something and say, you know, \"Yes. I see that that your place is important, you know, that your kingdom is important to you. Let us discuss,\" in Dunmari.",
+        "",
+        "%% u0768:0-32, u0769:0-93, u0770:0-25, u0771:0-20 %%",
+        "DM: She doesn't respond, but you can—she's sort of looking a bit over your shoulder. She's talking like she's been kind of waiting to get into this cavern. \"Are you leaving now?\"",
+        "",
+        "%% u0772:0-93, u0773:0-47, u0774:0-43, u0775:0-5, u0776:0-66 %%",
+        "Seeker: \"Give us a minute to discuss, please,\" I say, and and back away without turning my back on her. So it's—so it seems. And they may know or think—sorry, what we want, passage back there, but—yeah. They may think that there's something of value to them in here too.",
+        "",
+        "%% u0777:0-32, u0778:0-5, u0779:0-28, u0780:0-5, u0781:0-138, u0782:0-3, u0783:0-25, u0784:0-90, u0785:0-17, u0786:0-51, u0787:0-107, u0788:0-4, u0789:0-12, u0790:0-24, u0791:0-41, u0792:0-22, u0793:0-40, u0794:0-45, u0795:0-10, u0796:0-53, u0797:0-79, u0798:0-184, u0799:0-18, u0800:0-144, u0801:0-5, u0802:0-5, u0803:0-146, u0804:0-22, u0805:0-57, u0806:0-76, u0807:0-26, u0808:0-35, u0809:0-21, u0810:0-26, u0811:0-73, u0812:0-14, u0813:0-18, u0814:0-5, u0815:0-19, u0816:0-41, u0817:0-45, u0818:0-27, u0819:0-31, u0820:0-44, u0821:0-146, u0822:0-95, u0823:0-149, u0824:0-46, u0825:0-47, u0826:0-50, u0827:0-51, u0828:0-12, u0829:0-89, u0830:0-14, u0831:0-14, u0832:0-7, u0833:0-31, u0834:0-96, u0835:0-3, u0836:0-85, u0837:0-62, u0838:0-50, u0839:0-21, u0840:0-89, u0841:0-23, u0842:0-27, u0843:0-40, u0844:0-52, u0845:0-39, u0846:0-60, u0847:0-83, u0848:0-2, u0849:0-16, u0850:0-194, u0851:0-115, u0852:0-53, u0853:0-40, u0854:0-71, u0855:0-60, u0856:0-48, u0857:0-13, u0858:0-43, u0858:43-51, u0859:0-104, u0860:0-66, u0861:0-4, u0862:0-51, u0863:0-45, u0864:0-14, u0865:0-82, u0866:0-64, u0867:0-29, u0868:0-16, u0869:0-73, u0870:0-60, u0871:0-129, u0872:0-5, u0873:0-53, u0874:0-31, u0875:0-3, u0876:0-62, u0877:0-49, u0878:0-40, u0879:0-49, u0880:0-98, u0881:0-16, u0882:0-43, u0883:0-20, u0884:0-38, u0885:0-13, u0886:0-20, u0887:0-8, u0888:0-36, u0889:0-5, u0890:0-28, u0891:0-50, u0892:0-24, u0893:0-102, u0894:0-14, u0895:0-74, u0896:0-24, u0897:0-4, u0898:0-106, u0899:0-15, u0900:0-29, u0901:0-26, u0902:0-5, u0903:0-11, u0904:0-38, u0905:0-9, u0906:0-3, u0907:0-3, u0908:0-31, u0909:0-63, u0910:0-22, u0911:0-104, u0912:0-264, u0913:0-95, u0914:0-178, u0915:0-5, u0916:0-63, u0917:0-39, u0918:0-69, u0919:0-20, u0920:0-35, u0921:0-50, u0922:0-4, u0923:0-8, u0924:0-82, u0925:0-23, u0926:0-18, u0927:0-138, u0928:0-9, u0929:0-5, u0930:0-36, u0931:0-11, u0932:0-3, u0933:0-20, u0934:0-63, u0935:0-23, u0936:0-53, u0937:0-57, u0938:0-187, u0939:0-5, u0939:5-13, u0940:0-96, u0941:0-40, u0942:0-272, u0943:0-92, u0944:0-20, u0945:0-89, u0946:0-5, u0947:0-37, u0948:0-6, u0949:0-139, u0950:0-24, u0951:0-5, u0952:0-23 %%",
+        "((Assessing the inhabitants and preparing negotiation and intimidation))",
+        "",
+        "%% u0953:0-35, u0954:0-17 %%",
+        "DM: You. Yep. She is back. ‘Back to talk? Or back to leave?’",
+        "",
+        "%% u0955:0-127, u0956:0-32, u0957:0-61 %%",
+        "Riswynn: To go where we intend to go. We are going to explore in this direction, but we could be persuaded to give you a small token of good friendship for safe passage where we choose to go, for as long as we choose to explore it.",
+        "",
+        "%% u0958:0-6, u0959:0-22 %%",
+        "DM: Again, ‘What would you give us?’",
+        "",
+        "%% u0960:0-117 %%",
+        "Riswynn: Well, we've already granted you access—the possibility of access to this cavern where the beast has been for so long.",
+        "",
+        "%% u0961:0-20, u0962:0-4, u0963:0-12, u0964:0-28 %%",
+        "DM: ‘No treasure. There's just no treasure. You tell us what you give us.’",
+        "",
+        "%% u0965:0-3, u0966:0-31, u0967:0-8, u0968:0-14, u0969:0-10, u0970:0-31, u0971:0-41, u0972:0-30, u0973:0-26, u0974:0-39 %%",
+        "((Considering treasure to offer))",
+        "",
+        "%% u0975:0-107 %%",
+        "Riswynn: If there's no treasure here, then there's no harm in us exploring. We can give you a share of what we find.",
+        "",
+        "%% u0976:0-38, u0977:0-26, u0978:0-36, u0979:0-65, u0980:0-77, u0981:0-32 %%",
+        "DM: She looks quite happy at that. ‘You, um, going to the mirror doors? The shiny doors that we cannot enter? You go there. You tell us—you bring us, you bring us what's there. We will let you pass. Yes, definitely. Yes. Is that where you go? Why not say? Oh, definitely the mirror doors.’",
+        "",
+        "%% u0982:0-129 %%",
+        "Riswynn: All that is behind the mirror doors is not yours. We will not bring it to you all. You might have a small token of that treasure.",
+        "",
+        "%% u0983:0-103 %%",
+        "DM: ‘A token, perhaps.’ ((Persuasion mechanics))",
+        "",
+        "%% u0984:0-161 %%",
+        "Seeker: I'm like cracking my knuckles and occasionally flicking a finger out that magically appears to extend like a roper tentacle for a foot or two and then snaps back.",
+        "",
+        "%% u0985:0-12, u0986:0-63 %%",
+        "DM: Mm hmm. ‘Yes. A token, perhaps, yes. We will come. We will watch. We will see.’",
+        "",
+        "%% u0987:0-107, u0988:0-254, u0989:0-157 %%",
+        "Kenzo: And at that point I, I looked at her, and I, I take my quarter staff and I slam it down. And basically, when I—three things happen when I slammed down the staff. There's like a mini earthquake, like right where the staff hits down, and my eyes flash like red, and then the both torches that that we're holding suddenly like flash, like at the same time I slam it down. And then I point—I'm looking at her just like super threateningly, and I point my staff, and I said, and I just, I just, I just point like, ‘We're going this way.’",
+        "",
+        "%% u0990:0-123 %%",
+        "Delwath: I was gonna say, can I use green flame blade to just—not actually attack, but just make my weapon crackle with green flame?",
+        "",
+        "%% u0991:0-9 %%",
+        "DM: Sure, um—",
+        "",
+        "%% u0992:0-59 %%",
+        "Delwath: I mean, I'll make a sword appear in my hand out of nowhere.",
+        "",
+        "%% u0993:0-6 %%",
+        "((Check prompt))",
+        "",
+        "%% u0994:0-21, u0995:0-25 %%",
+        "Delwath: And then I'll make it crackle with green flame.",
+        "",
+        "%% u0996:0-52, u0997:0-13 %%",
+        "((Intimidation check))",
+        "",
+        "%% u0998:0-65, u0999:0-18 %%",
+        "Seeker: Now, now, friends, I think these folks mean us no harm themselves. As far as we know.",
+        "",
+        "%% u1000:0-12, u1001:0-5, u1002:0-197, u1003:0-169 %%",
+        "DM: [garbled] As, as—as the two of you, I mean, she's been sort of talking to Riswynn and looks excited about the prospect of treasure. And then as you, as you do this, she like takes four steps back, and it's just like, ‘Go, go, but we will watch,’ and then she's like fading back. ‘We will watch, and you will bring us something. Yes. Or maybe you will not find the exit so easy to find again.’",
+        "",
+        "%% u1004:0-105, u1005:0-21, u1006:0-76, u1007:0-23 %%",
+        "DM: ‘But go,’ and she sort of spits in your direction. And she says, um, now muttering sort of under her breath—as I'm reading [garbled]—‘Maybe, maybe they'll eat your brains and toss your bodies to the blind ones.’ She sort of backs away.",
+        "",
+        "%% u1008:0-20 %%",
+        "Seeker: Well, that went well.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, I don't know how often you've carried rabbits through dark tunnels, battles with monsters with tentacles flying around, but I think it's gonna take Taster more than an hour to calm down after—",
+          "Seeker: Taster some pets, and a little bit of dried rations.",
+          "DM: So, where to?",
+          "Wellby: To living space, down to the vault.",
+          "Seeker: Yeah. Yep, let's do it."
+        ],
+        "after": [
+          "Wellby: As Wellby goes, he just kind of [garbled].",
+          "DM: She like hisses at you.",
+          "Seeker: Oh dear.",
+          "DM: Okay, so as you move past, sort of into this—into this hallway, you're now sort of back. She's sort of retreating back towards the—does—the, her sort of lair, her throne, whatever, right? So remember, you came into this sort of platform. There were the pools of water, passageways running along the sides. And she's kind of retreating back now along that corridor, and you can head north, leading towards what, Riswynn, you can see in the distance is kind of a little bit of an open area at the far north end of this cavern, or you can head south.",
+          "Seeker: Hmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Kenzo describes a tentacled leader in a borrowed memory",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1074",
+        "endUid": "u1114"
+      },
+      "lines": [
+        "%% u1074:0-131, u1075:0-95, u1076:0-10, u1077:0-63, u1078:0-36 %%",
+        "Kenzo: Before we go further, Riswynn, you—I, I had a strange, strange, strange almost vision or memory when we first entered this cavern of a—small creatures, but that they were, they were led by something. They were led by a, by a creature. Tall, tall. Tall, human, human-like creature with tentacles from its mouth. You know such creatures living here?",
+        "",
+        "%% u1079:0-5 %%",
+        "Seeker: Word.",
+        "",
+        "%% u1080:0-55, u1081:0-116, u1082:0-8, u1083:0-35 %%",
+        "Riswynn: I mean, that could fall in the category of monsters that one comes across when one is on these sorts of adventures, but otherwise never heard of except in childhood stories. Not like, ‘Oh yeah, that's what killed my mom.’",
+        "",
+        "%% u1084:0-20, u1085:0-6, u1086:0-93, u1087:0-7, u1088:0-50 %%",
+        "Seeker: Kenzo, you said that—[garbled] Good. Good to hear. These, these dwarf-like creatures, you're saying they triggered the vision? And you—when did you see this thing that you're saying? So—",
+        "",
+        "%% u1089:0-75, u1090:0-20, u1091:0-232 %%",
+        "Kenzo: Early, earlier. Earlier in the cavern I had a memory that wasn't mine, but I—I worried that these—I don't know if it's this cavern or another cavern, but there's—they're connected somehow, these, these creatures and this, um, Tim, would we call it mind flayers? Is that like a common thing, like we would actually know what they are?",
+        "",
+        "%% u1092:0-65 %%",
+        "DM: Yeah, I mean, you'd have heard legends and rumors of those. Yeah.",
+        "",
+        "%% u1093:0-98, u1094:0-110 %%",
+        "Kenzo: Yeah. Yeah. But I think, I think these have some relation to mind flayers, these, these creatures. And she spoke about earlier. Just now, didn't she, didn't she not? She said something about something that would—",
+        "",
+        "%% u1095:0-16 %%",
+        "DM: Eat your brains.",
+        "",
+        "%% u1096:0-31 %%",
+        "Kenzo: That would eat our brains. Yes.",
+        "",
+        "%% u1097:0-51, u1098:0-25, u1099:0-58, u1100:0-64, u1101:0-48, u1102:0-22, u1103:0-8, u1104:0-30, u1105:0-2, u1106:0-19, u1107:0-8, u1108:0-38, u1109:0-165, u1110:0-12 %%",
+        "((Mind-flayer warnings and Delwath’s war recollection))",
+        "",
+        "%% u1111:0-90 %%",
+        "Seeker: Kenzo, does, it does that suggest to you that one such creature's living down in the vault?",
+        "",
+        "%% u1112:0-169, u1113:0-79, u1114:0-120 %%",
+        "Kenzo: I don't know, I don't know. I, I just know that they're related. I know that these creatures are somehow related to mind flayers, and based on what our friend just said, um, you should just be very careful where—as we, as we head, as we head farther down. I still think we should search. I mean, that's why we're here. We need to—we need, we should—we need to investigate, but—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Is this a carved statue, or a [garbled]?",
+          "DM: No, it's a stone. It's clearly—it's weathered. It's—it's—this was probably at one point like a central passage way or something. It's kind of a decoration in a public plaza is kind of the feeling you get.",
+          "Seeker: Who does it depict? Can we tell anything more about the person?",
+          "DM: Dwarf. A dwarf. Yeah. That's—it's a dwarf. It looks a little like Riswynn. I mean, not like her, but family resemblance.",
+          "Seeker: Oh, interesting."
+        ],
+        "after": [
+          "Seeker: Yeah.",
+          "Kenzo: But to use a pun, we should be mindful.",
+          "Wellby: We should be open minded, but not so open minded they fall out of our heads.",
+          "Kenzo: And actually, I think—I think we should be closed minded.",
+          "DM: So—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Wellby confronts the invisible follower",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1169",
+        "endUid": "u1198"
+      },
+      "lines": [
+        "%% u1169:0-47, u1170:0-209 %%",
+        "Wellby: So unexpectedly, just as we step into the room, without any warning whatsoever, torch in hand, I wheel on one foot and start sprinting back the way we came and just say, ‘Behind! Someone's following us!’ And just take off down the hall back the direction we came.",
+        "",
+        "%% u1171:0-17 %%",
+        "Seeker: Oh, we'll follow.",
+        "",
+        "%% u1172:0-19 %%",
+        "Wellby: And it's invisible.",
+        "",
+        "%% u1173:0-7 %%",
+        "Seeker: Oh boy.",
+        "",
+        "%% u1174:0-3 %%",
+        "Unknown: So—",
+        "",
+        "%% u1175:0-8, u1176:0-208 %%",
+        "Wellby: I'll say, ‘Ah, look. Whoever you are, wherever you are, it's—we should just talk now. We don't want to go through this whole process. We don't want to like find you and track you, like let's just have the conversation.’",
+        "",
+        "%% u1177:0-7 %%",
+        "DM: Oh, [garbled].",
+        "",
+        "%% u1178:0-110 %%",
+        "Wellby: And then I hold up a hand for everybody behind me to stop and just focus on like listening intently as I can.",
+        "",
+        "%% u1179:0-42 %%",
+        "DM: And wait, is everybody else running there?",
+        "",
+        "%% u1180:0-15 %%",
+        "Unknown: I'm following.",
+        "",
+        "%% u1180:15-24, u1181:0-18, u1182:0-75 %%",
+        "DM: Okay. Ah, you hear sort of muttering under her breath in broken Dwarvish and then footsteps backing up.",
+        "",
+        "%% u1183:0-72, u1184:0-55 %%",
+        "Wellby: ‘All right. Look, I know you want to see, but just give us a minute first.’ I'll sort of give a wave and then head back down again.",
+        "",
+        "%% u1185:0-36, u1186:0-72 %%",
+        "DM: That—the footsteps sort of retreat, and there's like—you still hear sort of muttering under her breath. It's—",
+        "",
+        "%% u1187:0-10 %%",
+        "Wellby: It's them.",
+        "",
+        "%% u1188:0-7, u1189:0-27 %%",
+        "Seeker: They're—they're actually invisible?",
+        "",
+        "%% u1190:0-9 %%",
+        "Wellby: Just one.",
+        "",
+        "%% u1191:0-30, u1192:0-46 %%",
+        "DM: There's one invisible creature lurking in the hallway about 50, 60 feet back.",
+        "",
+        "%% u1193:0-33 %%",
+        "Seeker: They're very curious, these ones.",
+        "",
+        "%% u1194:0-30, u1195:0-18 %%",
+        "Riswynn: That seems to jive with the ‘be strong and magical.’",
+        "",
+        "%% u1196:0-49 %%",
+        "Delwath: Wait. This is the same as—I mean, this is, this her?",
+        "",
+        "%% u1197:0-20 %%",
+        "Kenzo: Recognize the voice?",
+        "",
+        "%% u1198:0-19 %%",
+        "DM: Yeah, it's probably—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Ah, make an Investigation check. Ah—",
+          "DM: So yeah, this was, you know, poking around a little bit and sort of using your architectural background and, and sort of thinking about a little bit, this was, this was probably at one point—like, there were like metal or iron sort of bars coming up, right? So you see like maybe wooden bars. There's, there's like little holes in this wall where something could have been set extending up to the ceiling. And then where the entryway is, there's sort of, there's like a few spots that are worn along the side, like where maybe a hinge was attached. So there was like sort of a gate or something that swung open and closed. And then there's that sort of on one side of the room. There's a statues and there's this, and then on the other side of the room there's the three polished metal circular doors.",
+          "Riswynn: And the statues are near the door on the—",
+          "DM: Opposite side of the room.",
+          "Seeker: And these statues being kind of faceless, does that suggest any style or function to me?"
+        ],
+        "after": [
+          "Seeker: Well anyways, they're interesting. Anything interesting about the geology of the room?",
+          "DM: That—I mean, the doors are interesting. They're highly polished circles of brass.",
+          "Seeker: Yes, they're not something you—",
+          "DM: Find every day.",
+          "Seeker: Does that suggest anything to me? Is that like a marker of a particular type of architectural use case? Style, era?"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The voice and surrounding dialogue strongly suggest Inakara, but the DM’s explicit identification remains unfinished."
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The two hidden keys open the vault",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1252",
+        "endUid": "u1361"
+      },
+      "lines": [
+        "%% u1252:0-76, u1253:0-14, u1254:0-13, u1255:0-28, u1256:0-61, u1257:0-11, u1258:0-24, u1259:0-28 %%",
+        "Seeker: I'm look—I'm looking from the door to one of the statues and back repeatedly. It looks like—that's weird. The reflection of one of the statues has a, has a necklace on, but the statue doesn't have a necklace on, if you know what I mean. And it's just one of the two?",
+        "",
+        "%% u1260:0-7 %%",
+        "Unknown: Or both?",
+        "",
+        "%% u1261:0-19 %%",
+        "Seeker: Both statues. Okay.",
+        "",
+        "%% u1262:0-32 %%",
+        "Wellby: What does the necklace look like?",
+        "",
+        "%% u1263:0-85 %%",
+        "Seeker: A little—probably a little hard to investigate. I get my face up close to the mirror.",
+        "",
+        "%% u1264:0-161, u1265:0-3 %%",
+        "DM: Yeah, it's like having a hard time getting a clear look at it. You just are sort of noticing something hanging, nothing that clicks in your mind about what it is, but—",
+        "",
+        "%% u1266:0-41 %%",
+        "Seeker: Oh, only in the center door, I was asking.",
+        "",
+        "%% u1267:0-45 %%",
+        "DM: Are you going to go look at a different door?",
+        "",
+        "%% u1268:0-28 %%",
+        "Seeker: I'll try the right-hand door.",
+        "",
+        "%% u1269:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u1270:0-11 %%",
+        "DM: Same thing.",
+        "",
+        "%% u1271:0-218 %%",
+        "Seeker: Hmm. OK, so now that I'm at the right-hand door, I'm going to like try to keep the line of sight between the two—the statue and the surface—and like step back and try to reach up to where the necklace is on the statue.",
+        "",
+        "%% u1272:0-6, u1273:0-16, u1274:0-3, u1275:0-25, u1276:0-19 %%",
+        "((Acrobatics and Mage Hand suggestions))",
+        "",
+        "%% u1277:0-18, u1278:0-32, u1279:0-82, u1280:0-9, u1281:0-11, u1282:0-20, u1283:0-175 %%",
+        "DM: ((Crossing the low wall)) There's definitely something dangling on its neck.",
+        "",
+        "%% u1284:0-27 %%",
+        "Seeker: So I can feel it in my hand?",
+        "",
+        "%% u1284:27-33 %%",
+        "DM: Yep.",
+        "",
+        "%% u1285:0-3, u1286:0-19 %%",
+        "Seeker: Oh. That's interesting.",
+        "",
+        "%% u1287:0-80 %%",
+        "Delwath: So does this only show up in the door? Are we looking in an actual like a mirror?",
+        "",
+        "%% u1288:0-47 %%",
+        "DM: You don't see anything anywhere on the statues.",
+        "",
+        "%% u1289:0-64 %%",
+        "Delwath: What do you—what is Seeker looking through? It just at the door?",
+        "",
+        "%% u1290:0-34 %%",
+        "Seeker: The door is like reflective. Yeah.",
+        "",
+        "%% u1291:0-27, u1292:0-23, u1293:0-9, u1294:0-22, u1295:0-6, u1295:6-29, u1296:0-35 %%",
+        "((Testing an ordinary mirror))",
+        "",
+        "%% u1297:0-55, u1298:0-6, u1299:0-49 %%",
+        "Riswynn: Do I see this as I look in the reflection of the doors? Right. Delwath, he looks in the reflection of the doors.",
+        "",
+        "%% u1300:0-25, u1301:0-22 %%",
+        "DM: Are you looking in there? Yeah, the doors? Nope.",
+        "",
+        "%% u1302:0-21, u1303:0-3 %%",
+        "((Brief aside))",
+        "",
+        "%% u1304:0-40 %%",
+        "Kenzo: I look into the reflection of the doors.",
+        "",
+        "%% u1305:0-6 %%",
+        "Wellby: [garbled]",
+        "",
+        "%% u1306:0-26 %%",
+        "DM: Nothing but just the room.",
+        "",
+        "%% u1307:0-75 %%",
+        "Seeker: And meanwhile, I'm sort of feeling around this necklace with my fingertips.",
+        "",
+        "%% u1308:0-35 %%",
+        "DM: That's right. It's just like a key.",
+        "",
+        "%% u1309:0-84, u1310:0-8, u1311:0-168, u1312:0-23 %%",
+        "Seeker: That's interesting. It feels like a key. But there's no visible keyhole, is there? No. ((Hypothetical trap joke))",
+        "",
+        "%% u1313:0-14 %%",
+        "((Prompt))",
+        "",
+        "%% u1314:0-27 %%",
+        "Riswynn: Try this on the other side.",
+        "",
+        "%% u1315:0-114, u1316:0-6, u1317:0-139 %%",
+        "DM: Yeah, the same thing. You—you're now, after having watched Seeker almost tripped over the wall, you're well aware of it and carefully, like, negotiate—navigate around the wall while still keeping your eye at the door, and you also feel a key around the other statue.",
+        "",
+        "%% u1318:0-4, u1319:0-61, u1320:0-20, u1321:0-16, u1322:0-40, u1323:0-14, u1324:0-93, u1325:0-79, u1326:0-18, u1327:0-12, u1328:0-47, u1329:0-3, u1330:0-4, u1331:0-5, u1332:0-71 %%",
+        "((Planning simultaneous removal))",
+        "",
+        "%% u1333:0-254 %%",
+        "DM: Okay, as you lift these necklaces off the statues, um, Riswynn, you see a small hole open in the door directly in front of you on the left side of the room. And Seeker, you see the same thing on the right side of the room. The middle door does not change.",
+        "",
+        "%% u1334:0-10, u1335:0-8, u1336:0-6, u1337:0-19 %%",
+        "((Third-statue aside))",
+        "",
+        "%% u1338:0-27, u1339:0-32, u1340:0-33, u1341:0-281 %%",
+        "DM: There's not a third statue. The rest of you also see this as you've been watching this sort of puzzled, as they seem to be feeling around at something invisible on the necks of the statues. But as soon as they lift them over the heads, you see physical keys appear in the hand of Seeker and Riswynn, and small openings appear on the left and the right, but not the center door.",
+        "",
+        "%% u1342:0-13 %%",
+        "Seeker: Like keyhole?",
+        "",
+        "%% u1343:0-19 %%",
+        "DM: Like keyholes. Yes.",
+        "",
+        "%% u1344:0-14, u1345:0-24, u1346:0-48 %%",
+        "Seeker: Well, I think we know what to do here. Riswynn, should we do that in synchrony as well?",
+        "",
+        "%% u1347:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u1348:0-28, u1349:0-76, u1350:0-57, u1351:0-168, u1352:0-22, u1353:0-24, u1354:0-140, u1355:0-2, u1356:0-164, u1357:0-225 %%",
+        "DM: Okay, so as you approach the—the doors and begin to turn, I assume, put the key and then begin to turn it. So as you—as you sort of turn them both at the same time, two doors on the side begin to sort of almost pulse with light, now casting light so the rest of you can see the room illuminated, and just sort of keep turning them and keep turning them, like, thinking you would see a click or something like that. ",
+        "",
+        "And once you get 360 degrees, all the way around, they do sort of click into place, and this sort of light now is brightening the entire room, and you can see, you know, the—just the fine detail of everything as this sort of glowing light is just overwhelming everything. And then, almost as if it's passing through some channel in the stone, two beams of light connect from the two side doors, meeting in the middle of the center door, which then splits a crack down the middle and begins to swing, swing open.",
+        "",
+        "%% u1358:0-5, u1359:0-52 %%",
+        "Seeker: Well, side didn't move? They just created a beam of light?",
+        "",
+        "%% u1360:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1361:0-68 %%",
+        "Riswynn: We don't have three choices in where to go. There's just one opening.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Really, really [garbled] So let's see, Wellby, Investigation. Um, actually just everybody give me an Investigation check, everybody.",
+          "Unknown: Wellby.",
+          "Seeker: Oh.",
+          "DM: Okay, sorry. Okay, Eric, I sent you a message. Um, so the statues. Let's see, so—",
+          "DM: Wellby's looking for traps, so Wellby, you, you spend a while kind of poking around and you can't find any sort of—at least mechanisms anywhere. You—the floor is sort of smooth. The statues—the statues seem sort of just sort of plain stone statues. Nothing on them, nothing sort of around them or anything. Nothing that moves or wiggles. Um, it's a pretty thorough check, and you feel pretty confident that there's no surprises waiting for you in this room."
+        ],
+        "after": [
+          "Seeker: Correct. Someday when I retire and build my own fortress in the mountains—it's a nice system. I like the elegance, the symmetry.",
+          "Kenzo: I hate caves.",
+          "Seeker: We'll be out of here soon enough, Kenzo. What, what do we see through the door?",
+          "DM: It's a passageway that leads sloping down into the darkness.",
+          "Seeker: Shall we?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Riswynn identifies her family’s shield",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1428",
+        "endUid": "u1451"
+      },
+      "lines": [
+        "%% u1428:0-47 %%",
+        "DM: So here's the shield. It should have popped up.",
+        "",
+        "%% u1429:0-51, u1430:0-29, u1431:0-26, u1432:0-21, u1433:0-140, u1434:0-226, u1435:0-113, u1436:0-214, u1437:0-40, u1438:0-29, u1439:0-20, u1440:0-27, u1441:0-29, u1442:0-33 %%",
+        "((Map interface and room investigation))",
+        "",
+        "%% u1443:0-78, u1444:0-11, u1445:0-94, u1446:0-42, u1447:0-9, u1448:0-93 %%",
+        "Riswynn: This is what I came here for. We cannot barter with this, cannot give a token of my family's most precious relic. We have been fearful that others would reach it before us and sell it off, as has been happening with other dwarvish treasures. Its, its power is not for battle, but for our history. It tells the stories of our ancestors.",
+        "",
+        "%% u1449:0-34, u1450:0-3 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1451:0-43 %%",
+        "Riswynn: Our—until I can bring it home to my people.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Okay, so—",
+          "DM: Okay, so—",
+          "Riswynn: I'm—like an open door thing. This is a place that hasn't been—",
+          "Delwath: Yeah.",
+          "Riswynn: For a long time."
+        ],
+        "after": [
+          "Seeker: And I, I, I'm hoping what we're seeing here also indicates that the blind ones days of eating your brain has come to an end.",
+          "Unknown: Look like one of my people.",
+          "Seeker: So are there any signs in the dust anywhere of movement?",
+          "DM: That's—no, this is a—this room has been sealed for hundreds of years. It's like a thick layer over everything. The only thing that doesn't seem to be—are, you know, just old—is the shield itself. One of the warhammers is the one covered in runes, and obviously you don't know what's in the chests.",
+          "Seeker: And when I look at the runes on the warhammer—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The corpse beside the iron doors",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1432",
+        "endUid": "u1434"
+      },
+      "lines": [
+        "%% u1432:0-21, u1433:0-140, u1434:0-226 %%",
+        "DM: Against the far wall, two large iron doors stand shut. In front of the doors, there's the dead body of some sort of humanoid creature, but definitely not a human. Somewhat taller than a normal human, maybe seven or eight feet tall, with an elongated, almost cone-like head, with claws instead of hands, with large sharp fingers and a gaping hole where the mouth should be, the skull smashed open.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah.",
+          "Riswynn: For a long time.",
+          "DM: So here's the shield. It should have popped up.",
+          "Seeker: In Roll20. Now we haven't seen any mind flayer yet.",
+          "Delwath: Um, nothing appeared in Roll20. Oh, there we go. Now it is."
+        ],
+        "after": [
+          "DM: And in the middle of the room, piles of dry and crumbling wood seem to hint at the remains of shelving or storage, something like that at one point. Whether time or violence or something else destroy that, it's not entirely clear. On the right-hand wall, eight large stone chests stand; six are open and empty, the other two are shut.",
+          "Kenzo: Tim, was it, was there a [garbled]?",
+          "DM: It's not [garbled]. It's a [garbled].",
+          "Delwath: In the window. Yeah.",
+          "Wellby: The one with the newspaper."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Reading the warhammer’s runes",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1462",
+        "endUid": "u1493"
+      },
+      "lines": [
+        "%% u1462:0-46 %%",
+        "Seeker: And when I look at the runes on the warhammer—",
+        "",
+        "%% u1463:0-25 %%",
+        "((Chest search aside))",
+        "",
+        "%% u1464:0-12, u1465:0-26, u1466:0-152, u1467:0-29, u1468:0-56, u1469:0-51, u1470:0-13, u1471:0-92, u1472:0-59 %%",
+        "DM: Okay, so the runes on the warhammer are—it seems like each side is actually in a—with sort of a different pattern, and these runes are not the sort of normal runes of Dwarven language. They are—they have much in common with the runes that use—that you study, and the runes that you have been trying to learn and get more insight into, studying your—your book and kind of the knowledge that you've gathered about the world. ((Arcana check))",
+        "",
+        "%% u1473:0-5, u1474:0-7, u1475:0-5 %%",
+        "((Arcana roll reactions))",
+        "",
+        "%% u1476:0-93, u1477:0-44, u1478:0-111, u1479:0-41, u1480:0-86 %%",
+        "DM: You're—you, you sit for a moment and sort of think about these, and you actually find yourself making connections and starting to recognize some of these runes. So, so one—one rune on—on one side, there's a series of runes that seem to be connected with symbols and powers that you use to create a wave of thunder, to cast the Thunderwave spell. It's not the same, but it seems to be—",
+        "",
+        "%% u1481:0-26 %%",
+        "Seeker: Connected in some way with—",
+        "",
+        "%% u1482:0-69, u1483:0-31, u1484:0-34, u1485:0-36, u1486:0-54, u1487:0-34, u1488:0-53, u1489:0-71, u1490:0-49, u1491:0-48 %%",
+        "DM: With this kind of the symbols and the runes that are used to generate this kind of force, the sort of thunderous energy stored into this—this warhammer. Or, on the other side, is not—is not anything you are directly familiar with. You, you sense resonances with your—your rune of the sort of innate rune that you learned as a younger dwarf, of molding earth, but, but resonating in a way, sort of echoes, sort of layers built atop that may be more concerned with mining or with—with stone itself.",
+        "",
+        "%% u1492:0-4 %%",
+        "Unknown: Wow.",
+        "",
+        "%% u1493:0-25 %%",
+        "Seeker: This is a powerful hammer.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Our—until I can bring it home to my people.",
+          "Seeker: And I, I, I'm hoping what we're seeing here also indicates that the blind ones days of eating your brain has come to an end.",
+          "Unknown: Look like one of my people.",
+          "Seeker: So are there any signs in the dust anywhere of movement?",
+          "DM: That's—no, this is a—this room has been sealed for hundreds of years. It's like a thick layer over everything. The only thing that doesn't seem to be—are, you know, just old—is the shield itself. One of the warhammers is the one covered in runes, and obviously you don't know what's in the chests."
+        ],
+        "after": [
+          "DM: The chests, so—the two, they're large stone chests. The six that are empty, empty for a long time. The two that are closed are locked.",
+          "Kenzo: Wellby, you might want to keep an eye out for our friend.",
+          "Wellby: Yeah.",
+          "Kenzo: We'll keep an eye out too.",
+          "Delwath: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Returning ancestral possessions and taking the hammer",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1511",
+        "endUid": "u1540"
+      },
+      "lines": [
+        "%% u1511:0-89, u1512:0-48 %%",
+        "Seeker: Well, I was wondering about the appropriateness of taking this hammer away from the body. Is there a cultural taboo on that kind of thing?",
+        "",
+        "%% u1513:0-7, u1514:0-15, u1515:0-109, u1516:0-159, u1517:0-34, u1518:0-149, u1519:0-190, u1520:0-61, u1521:0-43, u1522:0-14, u1523:0-192, u1524:0-69 %%",
+        "DM: I mean, no, no, I mean, there's a way. I mean, you could, like, the four that—so there's—looks like four of them were actually laid out as if, sort of—I mean, obviously these were never buried, and the most culturally appropriate thing to do would be to sort of more formally lay them to rest. ",
+        "",
+        "But generally speaking, it wouldn't be—there's not, like, a tradition of, you know, burying you with your weapons or something. It's much more of a tradition, a dwarven tradition of, you know, things accumulate in families, right? And so things get down through your clan, and there's sort of relics and this sort of history behind things. Everything—a lot of, a lot of sort of dwarven possessions and are, are sort of ancient artifacts that have accumulated through the family, right? ",
+        "",
+        "And so it wouldn't be—it wouldn't be seen in sort of taboo. I mean, if you could get these things back to the family of these people, which probably is the Brawnanvils given the shield, that would be seen in sort of—right, so Riswynn pretty much sort of could give this stuff away, right?",
+        "",
+        "%% u1525:0-6, u1526:0-10, u1527:0-43 %%",
+        "Seeker: Right. Well, I'll gently and respectfully lift the hammer and—",
+        "",
+        "%% u1528:0-13, u1529:0-7, u1530:0-41, u1531:0-77, u1532:0-38 %%",
+        "((Warhammer proficiency discussion))",
+        "",
+        "%% u1533:0-27, u1534:0-71 %%",
+        "Seeker: I trained as a young dwarf. You—with something like one of these, but this has very special powers.",
+        "",
+        "%% u1535:0-9 %%",
+        "Kenzo: Like what?",
+        "",
+        "%% u1536:0-5, u1537:0-57, u1538:0-28, u1539:0-52, u1540:0-42 %%",
+        "Seeker: Well, it's just at the edge of my abilities in the runic magic, but it might be able to make powerful cuts in stone and explosions. I'm not sure. Let's try some stuff with it and find out.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So make a Dex check and add your proficiency bonus.",
+          "Wellby: I'll look over at the two dwarves first, then be like, 'Okay if I open these?' I don't want to, like, desecrate someone's graves or something.",
+          "Seeker: We're—",
+          "Riswynn: Seeking for treasure and abandoned things. I have found all my family—",
+          "Unknown: Seeker seems pretty excited with—"
+        ],
+        "after": [
+          "Kenzo: If we—",
+          "Unknown: Can tell me more about it.",
+          "Kenzo: Yeah. Let's, uh, let's do what we have to do and get out of this room. I don't like it here. And, you know, [garbled], let's get at—get the hell out of this cave soon [garbled].",
+          "Wellby: Right, here's the first. Dex plus proficiency.",
+          "DM: Okay, I'm—you sort of just managed to do some—not the, you know, the main defense, the main sort of part of this [garbled]. It's not the locks on these chests. It's that door that requires two dwarves to open, so you just managed to fiddle the first one open."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Six labeled potions in the chest",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1555",
+        "endUid": "u1558"
+      },
+      "lines": [
+        "%% u1555:0-26, u1556:0-12, u1557:0-51, u1558:0-128 %%",
+        "DM: So there are in this chest six bottles of liquid, all sealed and marked with Dwarven runes. Three of them have a rune that says 'life' on it, two have a rune that indicates strength, and one has a rune that indicates health.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Can tell me more about it.",
+          "Kenzo: Yeah. Let's, uh, let's do what we have to do and get out of this room. I don't like it here. And, you know, [garbled], let's get at—get the hell out of this cave soon [garbled].",
+          "Wellby: Right, here's the first. Dex plus proficiency.",
+          "DM: Okay, I'm—you sort of just managed to do some—not the, you know, the main defense, the main sort of part of this [garbled]. It's not the locks on these chests. It's that door that requires two dwarves to open, so you just managed to fiddle the first one open.",
+          "Seeker: And—"
+        ],
+        "after": [
+          "Seeker: And what do those do?",
+          "Kenzo: Maybe what's written on them, Seeker.",
+          "Seeker: Life and health.",
+          "Kenzo: Maybe, maybe this one—after we passed [garbled], I don't know, maybe—",
+          "Unknown: [garbled] One of your friends help you—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Reconstructing the last vault defense",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1592",
+        "endUid": "u1606"
+      },
+      "lines": [
+        "%% u1592:0-99, u1593:0-44 %%",
+        "Seeker: The last thing we might consider doing is, is carefully poking around the corpse of the mind flayer. And those shelves, I suppose, as well. Yeah.",
+        "",
+        "%% u1594:0-43 %%",
+        "Riswynn: There's an iron door to another place, right?",
+        "",
+        "%% u1595:0-23 %%",
+        "Seeker: Yep. Oh, I missed that.",
+        "",
+        "%% u1596:0-99 %%",
+        "Riswynn: Person who had the warhammer successfully prevented from going that way, like against the iron door?",
+        "",
+        "%% u1597:0-37, u1598:0-54, u1599:0-96, u1600:0-30, u1601:0-5, u1602:0-175 %%",
+        "DM: No, it actually almost looks like the—so, sort of looking around, it seems like the scene was—there's no, there's sort of slumped against this—the wall opposite the chest, but it's more like there was some battle here, and four dwarves were killed and one was mortally wounded. The mortally wounded one sort of just managed to kind of lay the dead ones to rest before, like, keeling over, dying themselves.",
+        "",
+        "%% u1603:0-4 %%",
+        "Unknown: Wow.",
+        "",
+        "%% u1604:0-34, u1605:0-6 %%",
+        "DM: But not necessarily protecting the doors.",
+        "",
+        "%% u1606:0-51 %%",
+        "Riswynn: Just got trapped in the vault with the mind flayer.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Or do they belong to Riswynn's family?",
+          "DM: Oh, and also in that side are two—I'm sorry, in the other chest, not in this chest—there's also two small crystal globes.",
+          "Unknown: Oh.",
+          "Seeker: What are those for?",
+          "Riswynn: I'll take a look at them, or not, and—"
+        ],
+        "after": [
+          "Unknown: They could—",
+          "Wellby: Investigate shelves, since—",
+          "Unknown: It's really, yeah.",
+          "DM: It's not—I mean, there's not—it's just sort of crumbled bits of wood at this point. I mean, in the dry air, most of the wood has just kind of turned to dust at this point. There's nothing really to find in there.",
+          "Seeker: Would those have been original to the room?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Remembering Tasty",
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1644",
+        "endUid": "u1658"
+      },
+      "lines": [
+        "%% u1644:0-145, u1645:0-73 %%",
+        "Seeker: ((Floating-disc explanation)) Indeed, I did use it briefly in the middle of the night, the other night.",
+        "",
+        "%% u1646:0-10 %%",
+        "Unknown: For Tasty.",
+        "",
+        "%% u1647:0-25 %%",
+        "Seeker: No. No, that one was, um—",
+        "",
+        "%% u1648:0-31 %%",
+        "DM: That one wasn't Tasty. That was—",
+        "",
+        "%% u1649:0-35 %%",
+        "Seeker: I didn't give it a name, I remember.",
+        "",
+        "%% u1650:0-26 %%",
+        "Kenzo: I thought it was Tasty and—",
+        "",
+        "%% u1651:0-31 %%",
+        "DM: Oh yeah, that's right, and you're—",
+        "",
+        "%% u1652:0-31 %%",
+        "Seeker: No, you're right. Yes, exactly.",
+        "",
+        "%% u1653:0-36 %%",
+        "Kenzo: That's what I'm saying, it was Tasty.",
+        "",
+        "%% u1654:0-9 %%",
+        "Seeker: Tasty and—",
+        "",
+        "%% u1655:0-88, u1656:0-32 %%",
+        "Kenzo: One that you put on the thing and they ate it. And it actually, like, distracted them, like—Tasty, Tasty served its purpose.",
+        "",
+        "%% u1657:0-4, u1658:0-13 %%",
+        "Unknown: Yep. So remembered.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh yeah, we need to tell us—",
+          "DM: What that spell was designed for.",
+          "Seeker: Gigantic quantities of treasure.",
+          "DM: Looting dungeons.",
+          "Riswynn: You have a—you have a capacity as well?"
+        ],
+        "after": [
+          "Seeker: And we might consider a tithe for our dwarf-like friends also, from—in perhaps among the gold bars.",
+          "Kenzo: I think, I think that's—that will appease them and—",
+          "Unknown: I think silver. Yeah.",
+          "Riswynn: We offer her a silver bar and she's—",
+          "Unknown: Great."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Recovering and identifying the adamantine sample",
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1979",
+        "endUid": "u2027"
+      },
+      "lines": [
+        "%% u1979:0-264, u1980:0-86, u1981:0-226 %%",
+        "DM: It's, it's, it's—as you sort of initially start kind of banging on it with a hammer, and it is extremely hard, like just banging on where the little vein of this dark silvery thing sticks out is extremely hard, and you sort of shift around a little bit and try and like bang around it and catch it, and you sort of manage to like hit it a bit on the side on—whacking at it with Mage Hand, and now you're in the position that you've whacked it and it's starting to fall, and you have a split second to decide if you're going to try and hold on to the hammer or catch the piece of metal.",
+        "",
+        "%% u1982:0-28 %%",
+        "Delwath: I'll catch a piece of metal.",
+        "",
+        "%% u1983:0-13 %%",
+        "DM: Hammer falls.",
+        "",
+        "%% u1984:0-36, u1985:0-47, u1986:0-57 %%",
+        "((Lord of the Rings jokes))",
+        "",
+        "%% u1987:0-24, u1988:0-21, u1989:0-16, u1990:0-24 %%",
+        "DM: You don't hear anything of the hammer falling. Back, you have a dull piece of metal now.",
+        "",
+        "%% u1991:0-11, u1992:0-12, u1993:0-5, u1994:0-8 %%",
+        "((Returning from scouting))",
+        "",
+        "%% u1995:0-48, u1996:0-99 %%",
+        "Delwath: And I'll tell them, I'll hand this back to them. I'll hand the—I'll give Seeker the piece of metal and explain what I saw. It's basically the mines.",
+        "",
+        "%% u1997:0-5, u1998:0-57, u1999:0-42, u2000:0-75, u2001:0-24, u2002:0-3, u2003:0-4, u2004:0-19 %%",
+        "((Depth speculation))",
+        "",
+        "%% u2005:0-30 %%",
+        "Delwath: I mean, it's obviously mithril.",
+        "",
+        "%% u2006:0-4, u2007:0-21 %%",
+        "((Identification check))",
+        "",
+        "%% u2008:0-26 %%",
+        "DM: Oh yeah, it is not mithril.",
+        "",
+        "%% u2009:0-12 %%",
+        "((Roll reaction))",
+        "",
+        "%% u2010:0-42, u2011:0-38, u2012:0-27, u2013:0-37, u2014:0-33, u2015:0-27, u2016:0-69 %%",
+        "DM: It is, but you have heard of this. This is—this is a very rare iron, kind of iron. Not really iron, but it's a—it's a very rare metal that is found occasionally, usually by dwarves, which can be used to create weapons and armor of unusual durability when it's alloyed with steel.",
+        "",
+        "%% u2017:0-10 %%",
+        "Delwath: Adamantine.",
+        "",
+        "%% u2018:0-15 %%",
+        "DM: It's adamantine.",
+        "",
+        "%% u2019:0-52 %%",
+        "Seeker: Nice stuff you found there. I wonder if there's more.",
+        "",
+        "%% u2020:0-81, u2021:0-19 %%",
+        "DM: I mean, this is—now seeing this, this is what you sensed, and you sense there was a fair bit of that.",
+        "",
+        "%% u2022:0-56 %%",
+        "Seeker: There was an active mine at the time of the abandonment?",
+        "",
+        "%% u2023:0-228, u2024:0-3, u2025:0-2, u2026:0-96 %%",
+        "DM: Well, it couldn't have been—this couldn't have been—yes, there was an active mine that, when it was abandoned—this couldn't have been what you sense because this is—the distance that Delwath went down would put you out of range of the, of your sense from the market. So maybe the top of the mine is more easily accessible or something.",
+        "",
+        "%% u2027:0-77 %%",
+        "Seeker: So there's more of this elsewhere in the fortress. And that's not surprising.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yes, correct. The shovel was on my horse. The, the—I mean, I'm not trying to get a big piece, right? Like I figure—",
+          "DM: To like chip something—",
+          "Delwath: I want a small enough piece that that I can bring it back to Seeker and say, \"What is this metal?\"",
+          "DM: Like a knife, um.",
+          "Delwath: So just even something that we're describing—is it particularly hard?"
+        ],
+        "after": [
+          "Kenzo: Yeah, is this valuable?",
+          "Seeker: It's a very valuable metal to my people. We can make amazing stuff with this.",
+          "Kenzo: Did you—should you, should you have some more of it while you're, while you're here?",
+          "Delwath: It wouldn't be easy to mine. It was across a 15 foot shaft.",
+          "Kenzo: Can you use your, your powers with stones or just manipulate it somehow?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Kenzo takes a driftglobe",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2044",
+        "endUid": "u2058"
+      },
+      "lines": [
+        "%% u2044:0-18 %%",
+        "Delwath: What are the orbs?",
+        "",
+        "%% u2045:0-9 %%",
+        "Seeker: Of light.",
+        "",
+        "%% u2046:0-31 %%",
+        "Kenzo: That might be useful for me, and—",
+        "",
+        "%% u2047:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2048:0-6, u2049:0-66, u2050:0-52, u2051:0-32, u2052:0-23, u2053:0-28, u2054:0-4 %%",
+        "((Planning departure))",
+        "",
+        "%% u2055:0-42 %%",
+        "Kenzo: And can I, can I take one of those spheres?",
+        "",
+        "%% u2056:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u2057:0-16, u2058:0-20 %%",
+        "DM: Yes, driftglobes. There's two of them.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Will be something we could have—tell our hosts about.",
+          "Seeker: If they'd have use for it. It requires, I imagine, pretty sophisticated techniques to forge and craft with, which—",
+          "DM: They did not seem like people who were particularly forging and crafting stuff.",
+          "Unknown: Yeah.",
+          "Seeker: Oh, yeah."
+        ],
+        "after": [
+          "Kenzo: We add that?",
+          "DM: Just search for equipment, go into Manage Equipment.",
+          "Delwath: That we, we don't—we haven't identified any of the other things we found, right? There were just some potions.",
+          "Seeker: And then the warhammer, which—",
+          "Unknown: Right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Returning the vault keys",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2089",
+        "endUid": "u2095"
+      },
+      "lines": [
+        "%% u2089:0-78 %%",
+        "Seeker: And then close the mirror doors and put the keys back around the necks of this—",
+        "",
+        "%% u2090:0-27, u2091:0-13, u2092:0-140, u2093:0-36, u2094:0-34, u2095:0-32 %%",
+        "DM: Now, as you turn the doors—the keys back, you know, back in the direction of—the light goes off once they get back to 360 degrees. They don't come out of the holes. They just vanish, and you can see the reflections have appeared again around the statues. And the center door swings shut.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: With that shield decorated with emeralds strapped—so, you come out of the passageway. Dude, are you doing anything with the keys?",
+          "Riswynn: Well, could Seeker put them back, or could we go—",
+          "Seeker: I actually seal it up completely, if I can.",
+          "Unknown: Okay.",
+          "DM: That's fairly easy for you to do with the amount of loose, loose material that's here. Yes, you can say a few words over their bodies and kind of send them on their way."
+        ],
+        "after": [
+          "DM: And as soon as the doors swing shut and the light goes out, you hear a voice: \"What do you have for me now?\" You don't see anything, but you just hear a voice. \"Treasure, we will share. Let me see it.\"",
+          "Wellby: Is there an underground passage to the castle stronghold?",
+          "Riswynn: Are there passages that go underground?",
+          "DM: \"Tunnels, many ways down, many paths to the dark. Why should I tell you this? Show me your treasure. Let me see. One silver bar.\" She like, she now drops invisibility and runs over and picks it up, and, \"Silver, yes.\"",
+          "DM: Um, and she like looks at you, sort of peering around. \"But you have more, I see. This is not all you found. What is that?\" She points at the shield."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Silver in exchange for a route east",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2096",
+        "endUid": "u2199"
+      },
+      "lines": [
+        "%% u2096:0-59, u2097:0-17, u2098:0-28, u2099:0-49, u2100:0-23, u2101:0-14 %%",
+        "DM: And as soon as the doors swing shut and the light goes out, you hear a voice: \"What do you have for me now?\" You don't see anything, but you just hear a voice. \"Treasure, we will share. Let me see it.\"",
+        "",
+        "%% u2102:0-57 %%",
+        "Wellby: Is there an underground passage to the castle stronghold?",
+        "",
+        "%% u2103:0-38 %%",
+        "Riswynn: Are there passages that go underground?",
+        "",
+        "%% u2104:0-45, u2105:0-50, u2106:0-11, u2107:0-86, u2108:0-12 %%",
+        "DM: \"Tunnels, many ways down, many paths to the dark. Why should I tell you this? Show me your treasure. Let me see. One silver bar.\" She like, she now drops invisibility and runs over and picks it up, and, \"Silver, yes.\"",
+        "",
+        "%% u2109:0-3, u2110:0-98, u2111:0-37 %%",
+        "DM: Um, and she like looks at you, sort of peering around. \"But you have more, I see. This is not all you found. What is that?\" She points at the shield.",
+        "",
+        "%% u2112:0-17 %%",
+        "Unknown: The reason I came.",
+        "",
+        "%% u2113:0-41 %%",
+        "DM: \"Looks more valuable than a bar of silver.\"",
+        "",
+        "%% u2114:0-6 %%",
+        "Unknown: Silver.",
+        "",
+        "%% u2115:0-46, u2116:0-18, u2117:0-51, u2118:0-15 %%",
+        "DM: \"Something else. Yes. If you want to know more.\" She wants to know—\"If you want to know the tunnels and the secret ways, something else.\"",
+        "",
+        "%% u2119:0-67, u2120:0-34 %%",
+        "((Counting available treasure))",
+        "",
+        "%% u2121:0-24 %%",
+        "Kenzo: Give another silver bar.",
+        "",
+        "%% u2122:0-20 %%",
+        "Unknown: You like more silver?",
+        "",
+        "%% u2123:0-27, u2124:0-3, u2125:0-21, u2126:0-25, u2127:0-25 %%",
+        "DM: \"Silver, yes. Let me see it.\" Ah, she grabs that again. \"What else is in your bag? What else is in your bag?\"",
+        "",
+        "%% u2128:0-26 %%",
+        "Riswynn: More silver, more treasure.",
+        "",
+        "%% u2129:0-7 %%",
+        "DM: \"Me more.\"",
+        "",
+        "%% u2130:0-29, u2131:0-1, u2132:0-126, u2133:0-50, u2134:0-108, u2135:0-20, u2136:0-45, u2137:0-62, u2138:0-31, u2139:0-2, u2140:0-28, u2141:0-60, u2142:0-10, u2143:0-3, u2144:0-4, u2145:0-37, u2146:0-23, u2147:0-5 %%",
+        "((Silver and gold exchange-rate discussion))",
+        "",
+        "%% u2148:0-79 %%",
+        "Wellby: Have her guide us across personally to the other side of the valley underground.",
+        "",
+        "%% u2149:0-32 %%",
+        "Kenzo: For us, you want to negotiate if—",
+        "",
+        "%% u2150:0-51 %%",
+        "Seeker: You want, you want it—you want payment on delivery.",
+        "",
+        "%% u2151:0-72 %%",
+        "Kenzo: Um, yeah, payment on delivery. Very good. So, so, so we'll give, and then—",
+        "",
+        "%% u2152:0-69 %%",
+        "Seeker: We'll give it to you once we're there. That's what I'm talking about.",
+        "",
+        "%% u2153:0-2, u2154:0-18, u2155:0-27 %%",
+        "((Brief contract aside))",
+        "",
+        "%% u2156:0-23, u2157:0-94 %%",
+        "Riswynn: Silver I have given you. Three more. You could have more than I give you now, if you will take us where we want to go.",
+        "",
+        "%% u2158:0-15, u2159:0-28 %%",
+        "DM: Where do you go? Thought you wanted to leave.",
+        "",
+        "%% u2160:0-32 %%",
+        "Unknown: We don't want to leave the door.",
+        "",
+        "%% u2161:0-12, u2162:0-54, u2163:0-26 %%",
+        "DM: Tunnel, yes. I see it. I know a tunnel. I will not take you through, but I will take you to it.",
+        "",
+        "%% u2164:0-51 %%",
+        "Riswynn: Why will you not take us through? What do you fear?",
+        "",
+        "%% u2165:0-40, u2166:0-49, u2167:0-15, u2168:0-60 %%",
+        "DM: \"Ah, no, I will stay here with my people.\" And she's like, sort of puffs herself up a little. \"I do not fear.\" You can tell she's not really telling the truth on that one.",
+        "",
+        "%% u2169:0-33 %%",
+        "Kenzo: Oh yeah, I soul sensed her. Yeah.",
+        "",
+        "%% u2170:0-132 %%",
+        "Riswynn: Well, you would advise us then with the wisdom that you use to protect your people about what we should be wary of down that tunnel.",
+        "",
+        "%% u2171:0-17, u2172:0-16 %%",
+        "Unknown: During your three pieces of silver.",
+        "",
+        "%% u2173:0-65 %%",
+        "Kenzo: I whisper, whisper to Riswynn, \"She's, she's happy with the silver.\"",
+        "",
+        "%% u2174:0-37, u2175:0-41 %%",
+        "DM: She like taps her staff and she says, \"I show you the way, you give me the silver.\"",
+        "",
+        "%% u2176:0-31 %%",
+        "Riswynn: And advise us, well as you can.",
+        "",
+        "%% u2177:0-4 %%",
+        "DM: Come.",
+        "",
+        "%% u2178:0-154, u2179:0-28, u2180:0-6, u2181:0-66 %%",
+        "((Clarifying the proposed destination))",
+        "",
+        "%% u2182:0-5, u2183:0-13, u2184:0-80, u2185:0-33, u2186:0-36 %%",
+        "Delwath: Well, I just wanted her to tell us what's in there, what she knows. If she doesn't want to, it's fine. She wants to—what's, what's there? What does she know about the tunnel?",
+        "",
+        "%% u2187:0-28, u2188:0-96 %%",
+        "Riswynn: You know where we are going. We would, we would, we would pay one more bar of silver to know what you know about that, please.",
+        "",
+        "%% u2189:0-89, u2190:0-11, u2191:0-34, u2192:0-25 %%",
+        "DM: \"Give us your advice.\" Do not, do not—my advice? My advice: give me all your gold and leave. What I know—what I know is the bars are locked, and I have not been past.",
+        "",
+        "%% u2193:0-3, u2194:0-36 %%",
+        "Seeker: Oh, there's a locked gate in the tunnel.",
+        "",
+        "%% u2195:0-10 %%",
+        "Unknown: All right.",
+        "",
+        "%% u2196:0-9 %%",
+        "Delwath: Let's go.",
+        "",
+        "%% u2197:0-232, u2198:0-26, u2199:0-4 %%",
+        "DM: Just like as she's picking up these bars, she's like, putting them in her pockets and like looking at each one, like so far just now, as she starts leading you, then walking. She's like muttering under her breath, like, \"Buy weapons, yes. This will buy many things. Huh.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I actually seal it up completely, if I can.",
+          "Unknown: Okay.",
+          "DM: That's fairly easy for you to do with the amount of loose, loose material that's here. Yes, you can say a few words over their bodies and kind of send them on their way.",
+          "Seeker: And then close the mirror doors and put the keys back around the necks of this—",
+          "DM: Now, as you turn the doors—the keys back, you know, back in the direction of—the light goes off once they get back to 360 degrees. They don't come out of the holes. They just vanish, and you can see the reflections have appeared again around the statues. And the center door swings shut."
+        ],
+        "after": [
+          "Delwath: Who is she gonna buy from?",
+          "Kenzo: You know, from where? From the, from the, the—what is she going—she's not a dwarf. She's a—",
+          "Seeker: We don't know.",
+          "Unknown: You don't know.",
+          "Riswynn: The other notes. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Inakara’s name, warnings, and secrets on the route to the gate",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2206",
+        "endUid": "u2351"
+      },
+      "lines": [
+        "%% u2206:0-99 %%",
+        "Seeker: Now that we've done business, maybe, Riswynn, you could, you could introduce yourself and ask her name.",
+        "",
+        "%% u2207:0-192 %%",
+        "Riswynn: Silver I—that we have given you as a token for, for guiding us in this place is the treasure of my family, the Brawnanvils, who lived here many years. Would you tell me of your, of your history?",
+        "",
+        "%% u2208:0-5 %%",
+        "((Brief aside))",
+        "",
+        "%% u2209:0-23, u2210:0-7, u2211:0-19, u2212:0-21, u2213:0-25, u2214:0-7, u2215:0-11 %%",
+        "DM: ((Persuasion check)) \"History? I'm called Inakara. This is my place now. History, no. Future, I see. Prepare. Prepare, yes.\"",
+        "",
+        "%% u2216:0-127, u2217:0-18, u2218:0-46 %%",
+        "DM: When they come, when they come, they will not eat my brains. They will eat your brains, throw your limp bodies to the blind ones. That is my future. Your future is death. I will have your silver.",
+        "",
+        "%% u2219:0-31, u2220:0-57, u2221:0-27, u2222:0-14 %%",
+        "((Preparing further questions))",
+        "",
+        "%% u2223:0-45, u2224:0-26, u2225:0-46, u2226:0-11, u2227:0-8, u2228:0-47, u2229:0-3, u2230:0-24 %%",
+        "DM: As you're talking, she's starting to lead you—she's starting to lead you back down the corridor that you came, came in, and sort of back out, now coming back up to the room with the statue. And she now takes you to the—",
+        "",
+        "%% u2231:0-226, u2232:0-82, u2233:0-30, u2234:0-61 %%",
+        "((Following the route))",
+        "",
+        "%% u2235:0-25 %%",
+        "Delwath: And we have these globes.",
+        "",
+        "%% u2236:0-19, u2237:0-83, u2238:0-3, u2239:0-27, u2240:0-6 %%",
+        "DM: Globes. Now you can activate one of those. And it's when you do that, she like, like hisses and puts her, her arms up. It's, \"Nasty dwarves. Light.\"",
+        "",
+        "%% u2241:0-90, u2242:0-42, u2243:0-165 %%",
+        "DM: And as you pad along, you can see this sort of shadows moving in the distance that kind of retreat, and she's like, spits over in that direction and taps her staff and kind of curses a few things in a language you don't understand, and there's like shadows that are kind of moving against the wall.",
+        "",
+        "%% u2244:0-90, u2245:0-3, u2246:0-108, u2247:0-123, u2248:0-13 %%",
+        "DM: ((Following the eastward passage)) \"Careful now, watch out for the—watch out for the white dangling. Do not come close. Do not go north.\" And she leads you through a small room.",
+        "",
+        "%% u2249:0-12, u2250:0-41, u2251:0-60, u2252:0-70, u2253:0-63, u2254:0-22, u2255:0-78, u2256:0-125, u2257:0-150, u2258:0-35, u2259:0-25, u2260:0-126, u2261:0-65, u2262:0-109, u2263:0-3, u2264:0-116, u2265:0-25, u2266:0-31, u2267:0-64, u2268:0-109, u2269:0-204, u2270:0-66, u2271:0-12, u2272:0-117, u2273:0-5, u2274:0-54, u2275:0-97, u2276:0-3, u2277:0-31, u2278:0-173, u2279:0-82, u2280:0-18, u2281:0-14, u2282:0-17, u2283:0-67, u2284:0-21 %%",
+        "((Following the eastern passages to the gate))",
+        "",
+        "%% u2285:0-13, u2286:0-76, u2287:0-113 %%",
+        "DM: And as, as she reaches this tunnel, she looks over you again, sort of taps her staff, says, \"I will watch for you and you will be the first. First I point out to them.\" She then bangs her staff and vanishes.",
+        "",
+        "%% u2288:0-26 %%",
+        "Seeker: First I point out to them?",
+        "",
+        "%% u2289:0-15 %%",
+        "Riswynn: For more silver?",
+        "",
+        "%% u2290:0-55 %%",
+        "DM: [garbled] She waits for you to give her the silver.",
+        "",
+        "%% u2291:0-14 %%",
+        "Seeker: We had a deal.",
+        "",
+        "%% u2292:0-78 %%",
+        "DM: Sorry, I thought you were giving that to her because we've reached the tunnel.",
+        "",
+        "%% u2293:0-31 %%",
+        "Seeker: Who's she gonna point us out to?",
+        "",
+        "%% u2294:0-55 %%",
+        "Kenzo: The mind flayers that are going to come eat our brains.",
+        "",
+        "%% u2295:0-35 %%",
+        "Seeker: Um, and who are the sightless ones?",
+        "",
+        "%% u2296:0-24 %%",
+        "Kenzo: We asked her about that.",
+        "",
+        "%% u2297:0-10 %%",
+        "Seeker: We went to—",
+        "",
+        "%% u2298:0-125, u2299:0-44, u2300:0-68 %%",
+        "DM: Ah, yeah, you can ask her about that. She sort of—whenever you mentioned them, she's kind of, spits and curses. And it's like, \"They're pathetic. Have not helped at all, just—they just sit and moan. Don't do anything. Inakara does everything.\"",
+        "",
+        "%% u2301:0-86, u2302:0-29 %%",
+        "Kenzo: Where are they? Where are the sightless ones? Can be like talking Dwarven and translate? Yeah, where are the sightless—",
+        "",
+        "%% u2303:0-26, u2304:0-26, u2305:0-12, u2306:0-11, u2307:0-5 %%",
+        "DM: Lurk in the shadows. Yeah. They have no skill, that no—they have no power here. Yeah.",
+        "",
+        "%% u2308:0-56 %%",
+        "Seeker: Perhaps they're creatures corrupted by the mind flayers.",
+        "",
+        "%% u2309:0-27 %%",
+        "Kenzo: Where are the mind flayers?",
+        "",
+        "%% u2310:0-40, u2311:0-11 %%",
+        "DM: You say that, \"Where are the mind flayers?\" [garbled]",
+        "",
+        "%% u2312:0-39 %%",
+        "((Garbled interruption))",
+        "",
+        "%% u2313:0-45, u2314:0-9, u2315:0-7, u2316:0-15 %%",
+        "DM: Right. Her eyes kind of go wide and she says, \"You know? Coming. They're coming.\"",
+        "",
+        "%% u2317:0-10 %%",
+        "Unknown: From where?",
+        "",
+        "%% u2318:0-71, u2319:0-55, u2320:0-16, u2321:0-17, u2322:0-30, u2323:0-9, u2324:0-36 %%",
+        "DM: You wish to know their secrets? No, we will not tell you their secrets. We are—we prepare the way. We see the entrance is clear. You help us, um, you help us, maybe. Maybe they won't eat you. Maybe that will help us, you to clear other passages.",
+        "",
+        "%% u2325:0-86 %%",
+        "Kenzo: So you need our help to clear passages for them to come? Are they, are they deep below?",
+        "",
+        "%% u2326:0-34, u2327:0-2 %%",
+        "DM: I'll say no more of their secrets. Um.",
+        "",
+        "%% u2328:0-37 %%",
+        "Kenzo: What if we share with you more silver?",
+        "",
+        "%% u2329:0-57 %%",
+        "DM: I'm happy to have more silver, any that you share with me.",
+        "",
+        "%% u2330:0-58 %%",
+        "Kenzo: But what if you tell us more about, about the mind flayers?",
+        "",
+        "%% u2331:0-25, u2332:0-14, u2333:0-2 %%",
+        "((Soul-sensing aside))",
+        "",
+        "%% u2334:0-42, u2335:0-12 %%",
+        "Kenzo: Not actually going to give her more silver. Just talking.",
+        "",
+        "%% u2336:0-5, u2337:0-18, u2338:0-33 %%",
+        "DM: Says, \"Show me the silver. Show me the silver and I tell you.\"",
+        "",
+        "%% u2339:0-126 %%",
+        "Kenzo: You're going to tell us more about the mind flayers? You're going to tell us why, why they're coming, where they're coming from?",
+        "",
+        "%% u2340:0-3, u2341:0-12, u2342:0-66 %%",
+        "DM: Um, yes, I will. You show me silver. I will tell you. I will answer your questions.",
+        "",
+        "%% u2343:0-17, u2344:0-37 %%",
+        "Kenzo: I don't think so. I don't think, I don't think you know.",
+        "",
+        "%% u2345:0-47 %%",
+        "DM: Go and see what happens to your precious world.",
+        "",
+        "%% u2346:0-33 %%",
+        "Kenzo: She's scared of the mind flayers.",
+        "",
+        "%% u2347:0-12, u2348:0-3, u2349:0-20, u2350:0-18, u2351:0-3 %%",
+        "DM: Now have you—go. Hide in your cities. See what happened. Go.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: You know, from where? From the, from the, the—what is she going—she's not a dwarf. She's a—",
+          "Seeker: We don't know.",
+          "Unknown: You don't know.",
+          "Riswynn: The other notes. Yeah.",
+          "DM: No idea."
+        ],
+        "after": [
+          "Kenzo: Okay.",
+          "DM: So you're standing in front of an iron gate. Just a rusty lock.",
+          "Kenzo: Is a good stopping point? Or should we—",
+          "Delwath: Say, I am kind of losing it.",
+          "DM: I mean, yes, that we could stop here. Or we could go, I mean, another 15 or 20 minutes. Up to, up to you all."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "The proposed report to Candrosa",
+      "entities": [
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2438",
+        "endUid": "u2440"
+      },
+      "lines": [
+        "%% u2438:0-79, u2439:0-39, u2440:0-38 %%",
+        "Delwath: Away. Our plan is to find out what weird thing is going on, go back to Candrosa—Candrosa and the other Dunmari, be like, \"The world's ending. What do we do now?\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Confidence. Yep.",
+          "Seeker: But also we don't know what we're looking for, why or how it's related to the bad things that are happening.",
+          "Delwath: Our plan is not as ridiculous as that.",
+          "Wellby: In fairness, you completely accomplish your objectives, so well done.",
+          "Kenzo: We always—we also always have to remember that we can run away or stopping—"
+        ],
+        "after": [
+          "Kenzo: I mean, we're learning things. We've already learned some things about mind flayers, but we don't know anything yet about the—",
+          "Delwath: Go back and say, \"It's a mind flayer, poison water.\"",
+          "Seeker: We were supposed to blow the ram's horn tonight because it's Rosh Hashanah, and did it.",
+          "DM: [garbled] Let's talk loud if you want.",
+          "Seeker: We don't know what happened."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
