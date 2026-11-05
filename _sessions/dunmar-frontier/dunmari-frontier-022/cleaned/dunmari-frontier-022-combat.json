@@ -1,0 +1,479 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-022",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+    "sessionYamlSha256": "c12bd6e3b20255baaa232849d44f6c216a67359299bd6da40408249c0ac8f674",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-transcript.md",
+    "transcriptSha256": "1b7cb3d94f0c5fd3c98e94906f3d933c6392dadfe19295b30963e4e898f27221",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-segments.json",
+      "sha256": "d0e079b071d9d7ad4167e483c56f2e76bbb49a53501f5d0ea1b629fa9de884d2",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Manticores in the dining hall",
+      "openingActions": [
+        {
+          "actor": "Kenzo",
+          "kind": "event",
+          "summary": "While invisible, kicks a stone and leaves the driftglobe outside; the two young manticores chase and quarrel over it while he moves inside beside the sleeping adults.",
+          "evidence": [
+            {
+              "startUid": "u1388",
+              "endUid": "u1394"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Manticores",
+              "kind": "turn",
+              "summary": "The adults are surprised and cannot act in the initial cycle.",
+              "evidence": [
+                {
+                  "startUid": "u1397",
+                  "endUid": "u1411"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks an adult from invisibility with advantage on his first quarterstaff attack, which hits and ends his invisibility. The following attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u1402",
+                  "endUid": "u1428"
+                }
+              ],
+              "note": "The DM corrects “next three” to “next two”; no damage amount or additional successful strike is established."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Curses the adult in front of him, hits from invisibility with advantage for 16 damage, and uses his second attack to drape the metal net over its left wing. The Dexterity check to secure it is poor.",
+              "evidence": [
+                {
+                  "startUid": "u1429",
+                  "endUid": "u1457"
+                },
+                {
+                  "startUid": "u1472",
+                  "endUid": "u1476"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and fires a flaming arrow at Delwath’s opponent; it misses and strikes the wall.",
+              "evidence": [
+                {
+                  "startUid": "u1458",
+                  "endUid": "u1469"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Heat Metal on the net at second level, dealing 4 fire damage as adjudicated. The manticore has disadvantage on attacks until Seeker’s next turn, renewable by repeating the heat while it remains in the net.",
+              "evidence": [
+                {
+                  "startUid": "u1471",
+                  "endUid": "u1509"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Adult manticore beside Kenzo",
+              "kind": "turn",
+              "summary": "Acts at initiative 23 before Kenzo: bites him for 8 piercing damage; both claw attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u1511",
+                  "endUid": "u1523"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks with his quarterstaff and spends ki for two unarmed strikes against the adult beside him.",
+              "evidence": [
+                {
+                  "startUid": "u1524",
+                  "endUid": "u1537"
+                }
+              ],
+              "note": "The spoken source does not state hit results or damage for this turn."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Keeps his remaining spell in reserve; hits the netted adult for 14 damage, then misses his second attack.",
+              "evidence": [
+                {
+                  "startUid": "u1538",
+                  "endUid": "u1548"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and hits the netted adult with an ordinary arrow for 16 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1549",
+                  "endUid": "u1555"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves around the corner into the dining room and casts third-level Shatter on both adults without hitting allies. Both succeed on Constitution saves but take 9 damage each. Repeats Heat Metal as a bonus action, killing the adult beside Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1556",
+                  "endUid": "u1608"
+                }
+              ]
+            },
+            {
+              "actor": "Young manticores",
+              "kind": "turn",
+              "summary": "Return toward the fight after hearing the combat noise; the DM retrospectively places their return in the preceding turn.",
+              "evidence": [
+                {
+                  "startUid": "u1610",
+                  "endUid": "u1616"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Surviving adult manticore",
+              "kind": "turn",
+              "summary": "Runs and Dashes toward the roof opening because the ceiling is too low to fly where it started. It provokes Kenzo’s opportunity attack and finishes its movement without time to take flight.",
+              "evidence": [
+                {
+                  "startUid": "u1610",
+                  "endUid": "u1628"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Makes a quarterstaff opportunity attack against the fleeing adult.",
+              "evidence": [
+                {
+                  "startUid": "u1620",
+                  "endUid": "u1624"
+                }
+              ],
+              "note": "The attack is taken, but its hit and damage result are not spoken."
+            },
+            {
+              "actor": "Young manticores",
+              "kind": "event",
+              "summary": "Head toward the surviving adult as it flees.",
+              "evidence": [
+                {
+                  "startUid": "u1630",
+                  "endUid": "u1631"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends ki to Dash through difficult terrain and catches the adult. Attacks twice: reports 12 damage on the first and misses the second. Cannot also make a bonus unarmed strike because that action was spent Dashing.",
+              "evidence": [
+                {
+                  "startUid": "u1630",
+                  "endUid": "u1660"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves to the adult and hits with Booming Blade for the stated 18 damage; no Hexblade’s Curse applies to this target. It would take a further 14 damage if it moved before his next turn, but it is killed before that trigger occurs.",
+              "evidence": [
+                {
+                  "startUid": "u1662",
+                  "endUid": "u1683"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and kills the remaining adult with an arrow through its eye.",
+              "evidence": [
+                {
+                  "startUid": "u1684",
+                  "endUid": "u1688"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Dispatches the returning young manticores over two additional rounds, summarized collectively rather than played turn by turn.",
+              "evidence": [
+                {
+                  "startUid": "u1690",
+                  "endUid": "u1692"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both adult manticores and both young are dead; the final two rounds against the young are compressed in the source.",
+        "evidence": [
+          {
+            "startUid": "u1687",
+            "endUid": "u1692"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s009",
+      "encounter": "Orc patrol outside the dining hall",
+      "openingActions": [
+        {
+          "actor": "Seeker",
+          "kind": "event",
+          "summary": "Before the orcs arrive, enlarges Kenzo: doubles his dimensions, multiplies weight by eight, adds 1d4 damage to attacks and grants advantage on Strength checks and saving throws.",
+          "evidence": [
+            {
+              "startUid": "u1825",
+              "endUid": "u1856"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Casts Armor of Agathys before the fight, granting 15 temporary hit points and 15 cold damage to a melee attacker while the protection remains.",
+          "evidence": [
+            {
+              "startUid": "u1834",
+              "endUid": "u1838"
+            },
+            {
+              "startUid": "u1980",
+              "endUid": "u2000"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attacks unseen with advantage, without needing careful aim. An ordinary arrow hits on 16 and kills the first orc.",
+              "evidence": [
+                {
+                  "startUid": "u1861",
+                  "endUid": "u1876"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks unseen with advantage; a critical quarterstaff hit deals 20 including the doubled enlargement die and kills an orc. Moves to another, hits for 6 plus the extra enlargement die, leaving it wounded; his subsequent punch is off balance and does not land.",
+              "evidence": [
+                {
+                  "startUid": "u1877",
+                  "endUid": "u1912"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stays in position to take careful aim and shoots the only visible orc for 18 damage; the better-armored target survives badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u1913",
+                  "endUid": "u1926"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves toward the doorway from behind the manticore body, considers Dashing nearer, and makes no attack because he cannot yet see the orcs.",
+              "evidence": [
+                {
+                  "startUid": "u1927",
+                  "endUid": "u1952"
+                }
+              ],
+              "note": "The exact final square and whether the offered Dash is used are not explicit."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves up and attacks the shield-bearing orc with Green-Flame Blade. The attack roll of 14 misses against its armor; the flame fizzles.",
+              "evidence": [
+                {
+                  "startUid": "u1953",
+                  "endUid": "u1966"
+                }
+              ]
+            },
+            {
+              "actor": "Wounded orc beside Kenzo",
+              "kind": "turn",
+              "summary": "Swings its greataxe at enlarged Kenzo and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1967",
+                  "endUid": "u1979"
+                }
+              ]
+            },
+            {
+              "actor": "Shield-bearing orc",
+              "kind": "turn",
+              "summary": "Critically hits Delwath for 14 damage, absorbed by Armor of Agathys temporary hit points. The spell deals 15 cold damage back and kills the attacker.",
+              "evidence": [
+                {
+                  "startUid": "u1976",
+                  "endUid": "u1995"
+                },
+                {
+                  "startUid": "u2000",
+                  "endUid": "u2000"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Kills the wounded orc with a quarterstaff blow, moves outside toward the remaining warrior rather than the captain, and lands an unarmed strike with enlargement damage; the warrior survives. The second quarterstaff attack is recorded as a miss. Declines Flurry of Blows to save ki.",
+              "evidence": [
+                {
+                  "startUid": "u1996",
+                  "endUid": "u2036"
+                }
+              ],
+              "note": "The DM restates the first quarterstaff hit after movement discussion; this is retained as the narrated attack sequence, not counted as an additional staff attack."
+            },
+            {
+              "actor": "Orc captain",
+              "kind": "turn",
+              "summary": "Attempts to flee and provokes an opportunity attack from Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u2037",
+                  "endUid": "u2042"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Hits the fleeing captain with an opportunity attack for a corrected total of 12 damage including enlargement.",
+              "evidence": [
+                {
+                  "startUid": "u2043",
+                  "endUid": "u2050"
+                }
+              ]
+            },
+            {
+              "actor": "Orc spellcaster",
+              "kind": "turn",
+              "summary": "Commands Kenzo to “Grovel”; Kenzo succeeds on his Wisdom save and ignores the command.",
+              "evidence": [
+                {
+                  "startUid": "u2051",
+                  "endUid": "u2059"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and shoots the spellcaster dead; the DM confirms the death during the following discussion.",
+              "evidence": [
+                {
+                  "startUid": "u2060",
+                  "endUid": "u2077"
+                },
+                {
+                  "startUid": "u2094",
+                  "endUid": "u2098"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Comes around the corner and casts Suggestion on the fleeing captain. The accepted instruction is to drop his weapons, surrender and answer their questions. The captain fails his Wisdom save and complies; concentration on Enlarge ends and Kenzo shrinks.",
+              "evidence": [
+                {
+                  "startUid": "u2078",
+                  "endUid": "u2139"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The captain drops his weapons and surrenders under Suggestion; the remaining patrol is defeated.",
+        "evidence": [
+          {
+            "startUid": "u2133",
+            "endUid": "u2139"
+          }
+        ]
+      },
+      "note": "The initial cycle is the surprise opportunity specifically awarded to unseen Wellby and Kenzo; the other PCs do not receive turns in that partial cycle."
+    }
+  ]
+}

@@ -1,0 +1,2422 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-022",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+    "sessionYamlSha256": "c12bd6e3b20255baaa232849d44f6c216a67359299bd6da40408249c0ac8f674",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-transcript.md",
+    "transcriptSha256": "1b7cb3d94f0c5fd3c98e94906f3d933c6392dadfe19295b30963e4e898f27221"
+  },
+  "places": {
+    "p01": {
+      "label": "Camp five miles south of the monastery",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0025",
+          "quote": "DM: Turning now to head towards Kharsan and see what you could learn, but not necessarily wanting to draw the attention of Grash, you turn south, hoping to approach the monastery from the other direction. Despite somewhat difficult navigation across the trackless Garamjala deserts, you recently arrived five miles south of the monastery after six days of travel, now taking a midday rest in the shade of the canyons along the side of the dry river Kharja."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0021",
+              "endUid": "u0025",
+              "quote": "DM: Turning now to head towards Kharsan and see what you could learn, but not necessarily wanting to draw the attention of Grash, you turn south, hoping to approach the monastery from the other direction. Despite somewhat difficult navigation across the trackless Garamjala deserts, you recently arrived five miles south of the monastery after six days of travel, now taking a midday rest in the shade of the canyons along the side of the dry river Kharja."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0021",
+              "endUid": "u0025",
+              "quote": "DM: Turning now to head towards Kharsan and see what you could learn, but not necessarily wanting to draw the attention of Grash, you turn south, hoping to approach the monastery from the other direction. Despite somewhat difficult navigation across the trackless Garamjala deserts, you recently arrived five miles south of the monastery after six days of travel, now taking a midday rest in the shade of the canyons along the side of the dry river Kharja."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Dry Kharja riverbed",
+      "kind": "waterway",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0025",
+          "quote": "DM: Turning now to head towards Kharsan and see what you could learn, but not necessarily wanting to draw the attention of Grash, you turn south, hoping to approach the monastery from the other direction. Despite somewhat difficult navigation across the trackless Garamjala deserts, you recently arrived five miles south of the monastery after six days of travel, now taking a midday rest in the shade of the canyons along the side of the dry river Kharja."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Kharja.md"
+    },
+    "p03": {
+      "label": "Garamjala desert",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0025",
+          "quote": "DM: Turning now to head towards Kharsan and see what you could learn, but not necessarily wanting to draw the attention of Grash, you turn south, hoping to approach the monastery from the other direction. Despite somewhat difficult navigation across the trackless Garamjala deserts, you recently arrived five miles south of the monastery after six days of travel, now taking a midday rest in the shade of the canyons along the side of the dry river Kharja."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md"
+    },
+    "p04": {
+      "label": "Monastery of Bhishma",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0374",
+          "quote": "Kenzo: So the monastery that we journey to is in fact the monastery of the Order of the Awakened Soul. And if the man in my vision was in fact either a dream world version of Rai—and then I suppose it could be a trap, to—but I don't know. It's a monastery is significant."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma.md"
+    },
+    "p05": {
+      "label": "Camp at the base of the monastery cliffs",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0701",
+          "endUid": "u0704",
+          "quote": "DM: So, so you travel up the up the riverbed, and it's hot, drudgy work through this sort of soft sand, you know, occasionally being able to cling to the edge of the of the canyon wall, where, but you can get a bit of shade and relief, but with the sun directly overhead now there's almost no shade, and so it's it's just hot and tiring. Just hiking about this last five miles takes you takes you maybe an hour and a half, so it's about two o'clock when you arrive at the base of the cliffs and make your camp and, as you..."
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0711",
+          "quote": "DM: As you approach the cliffs, you—you sort of have this eerie sense, like you're stepping into a place that is not quite right. And and now recall the stories of Alesh, that nobody goes to Kharsan because it's haunted. And you feel just a little bit of a cold tingle on the back of your neck as you cross within about five miles of the city, just on the edge of the cliff."
+        },
+        {
+          "startUid": "u0712",
+          "endUid": "u0718",
+          "quote": "DM: Um, looking up the cliffs, I mean there's certainly scalable. It's not—it's not easy, there we go about 60 feet up, and there's not—you know, there's probably not a... Somebody would probably have to scale up and and find some somewhere to tie a rope, but it certainly could be done. They are sort of, you know, pretty—not so much steep as just soft, crumbly sandstone, and it might be tricky to find a solid handholds."
+        },
+        {
+          "startUid": "u0719",
+          "endUid": "u0719",
+          "quote": "Unknown: We can switch."
+        },
+        {
+          "startUid": "u0720",
+          "endUid": "u0724",
+          "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0701",
+              "endUid": "u0704",
+              "quote": "DM: So, so you travel up the up the riverbed, and it's hot, drudgy work through this sort of soft sand, you know, occasionally being able to cling to the edge of the of the canyon wall, where, but you can get a bit of shade and relief, but with the sun directly overhead now there's almost no shade, and so it's it's just hot and tiring. Just hiking about this last five miles takes you takes you maybe an hour and a half, so it's about two o'clock when you arrive at the base of the cliffs and make your camp and, as you..."
+            },
+            {
+              "startUid": "u0705",
+              "endUid": "u0711",
+              "quote": "DM: As you approach the cliffs, you—you sort of have this eerie sense, like you're stepping into a place that is not quite right. And and now recall the stories of Alesh, that nobody goes to Kharsan because it's haunted. And you feel just a little bit of a cold tingle on the back of your neck as you cross within about five miles of the city, just on the edge of the cliff."
+            },
+            {
+              "startUid": "u0712",
+              "endUid": "u0718",
+              "quote": "DM: Um, looking up the cliffs, I mean there's certainly scalable. It's not—it's not easy, there we go about 60 feet up, and there's not—you know, there's probably not a... Somebody would probably have to scale up and and find some somewhere to tie a rope, but it certainly could be done. They are sort of, you know, pretty—not so much steep as just soft, crumbly sandstone, and it might be tricky to find a solid handholds."
+            },
+            {
+              "startUid": "u0719",
+              "endUid": "u0719",
+              "quote": "Unknown: We can switch."
+            },
+            {
+              "startUid": "u0720",
+              "endUid": "u0724",
+              "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Terraced garden slope",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0760",
+          "endUid": "u0764",
+          "quote": "DM: So you head up the slope. The—so it's now about 230 and the sun is now getting low enough in the sky that some of the you know animal life begins to stir again and um, not that there's a lot of animal life here, but you know see more birds in the sky, you see, you know just a little bit more activity as as the worst part of the heat of the day begins to pass. But most things won't be out for another three to four hours."
+        },
+        {
+          "startUid": "u0765",
+          "endUid": "u0770",
+          "quote": "DM: You're heading up the slope. You can see that this area, you know, it was definitely at one point sort of terraced and shaped into gardens. So you know there's dried, almost petrified stumps of trees. There must have at one point been an irrigation system here, and that seems to have been like a long sort of terraced garden leading up to the sort of back side of the river side of the monastery."
+        },
+        {
+          "startUid": "u0771",
+          "endUid": "u0776",
+          "quote": "DM: As you approach these—there's sort of three buildings, these three buildings that you can sort of see the most clearly, and this one on the farthest right... They're all sort of red sandstone buildings, none particularly elaborately decorated. The bathhouse and this one unknown building are just one story each. This dormitory is two stories, or maybe three if they're shorter stories. It's maybe 25 feet tall. And again, there seems to be, you know as you're 100 feet away sort of coming up little sign of movement. Which direction do you want to head?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0760",
+              "endUid": "u0764",
+              "quote": "DM: So you head up the slope. The—so it's now about 230 and the sun is now getting low enough in the sky that some of the you know animal life begins to stir again and um, not that there's a lot of animal life here, but you know see more birds in the sky, you see, you know just a little bit more activity as as the worst part of the heat of the day begins to pass. But most things won't be out for another three to four hours."
+            },
+            {
+              "startUid": "u0765",
+              "endUid": "u0770",
+              "quote": "DM: You're heading up the slope. You can see that this area, you know, it was definitely at one point sort of terraced and shaped into gardens. So you know there's dried, almost petrified stumps of trees. There must have at one point been an irrigation system here, and that seems to have been like a long sort of terraced garden leading up to the sort of back side of the river side of the monastery."
+            },
+            {
+              "startUid": "u0771",
+              "endUid": "u0776",
+              "quote": "DM: As you approach these—there's sort of three buildings, these three buildings that you can sort of see the most clearly, and this one on the farthest right... They're all sort of red sandstone buildings, none particularly elaborately decorated. The bathhouse and this one unknown building are just one story each. This dormitory is two stories, or maybe three if they're shorter stories. It's maybe 25 feet tall. And again, there seems to be, you know as you're 100 feet away sort of coming up little sign of movement. Which direction do you want to head?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Grounds outside the kitchen and dining hall",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0837",
+          "endUid": "u0842",
+          "quote": "DM: So, ah, you actually, let me just see something there. Okay, you begin to you sort of move forward, um, ah, through this sort of path. You're coming up the slope and through this path, and as you get closer you can see that this area back here, um, probably like a kitchen or something like that. From the air was hard to tell, but from ground level you can see that there's sort of two big archways, and there's like a well out here and just probably connected to those pipes somehow and um just kind of—through the opening, you can see kind of big hearths and things like that."
+        },
+        {
+          "startUid": "u0843",
+          "endUid": "u0849",
+          "quote": "DM: Likely there's some sort of kitchen in this area. But you're actually coming sort of along this slope to come in between the this building and the bathhouse, and you do here, um, Wellby, as you get to about here you hear the sound of what sounds like something sleeping. And the occasional like quiet yelp of like a big animal sleeping. It reminds you a little bit almost of a of a lion. And then—but sounds deeper and and bigger somehow. And then the occasional sort of little yelp, ah, and sort of almost human laughter."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0837",
+              "endUid": "u0842",
+              "quote": "DM: So, ah, you actually, let me just see something there. Okay, you begin to you sort of move forward, um, ah, through this sort of path. You're coming up the slope and through this path, and as you get closer you can see that this area back here, um, probably like a kitchen or something like that. From the air was hard to tell, but from ground level you can see that there's sort of two big archways, and there's like a well out here and just probably connected to those pipes somehow and um just kind of—through the opening, you can see kind of big hearths and things like that."
+            },
+            {
+              "startUid": "u0843",
+              "endUid": "u0849",
+              "quote": "DM: Likely there's some sort of kitchen in this area. But you're actually coming sort of along this slope to come in between the this building and the bathhouse, and you do here, um, Wellby, as you get to about here you hear the sound of what sounds like something sleeping. And the occasional like quiet yelp of like a big animal sleeping. It reminds you a little bit almost of a of a lion. And then—but sounds deeper and and bigger somehow. And then the occasional sort of little yelp, ah, and sort of almost human laughter."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Kitchen",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0911",
+          "endUid": "u0912",
+          "quote": "Seeker: I'll just stay more or less here. You guys good?"
+        },
+        {
+          "startUid": "u0913",
+          "endUid": "u0915",
+          "quote": "Delwath: I just would like to peer in through this spot here and just see what's there."
+        },
+        {
+          "startUid": "u0916",
+          "endUid": "u0916",
+          "quote": "DM: Sorry, show me again where."
+        },
+        {
+          "startUid": "u0917",
+          "endUid": "u0917",
+          "quote": "Delwath: Those are doors, right?"
+        },
+        {
+          "startUid": "u0918",
+          "endUid": "u0919",
+          "quote": "DM: Yeah, like... Okay."
+        },
+        {
+          "startUid": "u0920",
+          "endUid": "u0920",
+          "quote": "Delwath: Are they open or closed?"
+        },
+        {
+          "startUid": "u0921",
+          "endUid": "u0921",
+          "quote": "DM: No, they're not—they're not doors. They're open archways."
+        },
+        {
+          "startUid": "u0922",
+          "endUid": "u0922",
+          "quote": "Delwath: In that case so, then I would like to just look in through the open archways."
+        },
+        {
+          "startUid": "u0923",
+          "endUid": "u0927",
+          "quote": "DM: Okay, so this is where you—where you saw, when you were coming up, where you saw kitchens, like in—through the open archway you see—you see basically, like a big hearth like a solid stone table, some shelves like a pantry area. You can see this, and then there's a wall here and there's a wall here. You can't—without going in, you can't see like there's like a corner where you can't see unless you go in."
+        },
+        {
+          "startUid": "u0928",
+          "endUid": "u0928",
+          "quote": "Delwath: I'll go in."
+        },
+        {
+          "startUid": "u0929",
+          "endUid": "u0929",
+          "quote": "DM: Okay, um, so you can begin to sort of..."
+        },
+        {
+          "startUid": "u0930",
+          "endUid": "u0930",
+          "quote": "Delwath: Walk quietly and stealthily."
+        },
+        {
+          "startUid": "u0931",
+          "endUid": "u0933",
+          "quote": "DM: So make a Stealth check just to see how quiet you are. Ah, and Kenzo, Wellby what are you and Seeker, what are you doing while Delwath has gone around the back?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0911",
+              "endUid": "u0912",
+              "quote": "Seeker: I'll just stay more or less here. You guys good?"
+            },
+            {
+              "startUid": "u0913",
+              "endUid": "u0915",
+              "quote": "Delwath: I just would like to peer in through this spot here and just see what's there."
+            },
+            {
+              "startUid": "u0916",
+              "endUid": "u0916",
+              "quote": "DM: Sorry, show me again where."
+            },
+            {
+              "startUid": "u0917",
+              "endUid": "u0917",
+              "quote": "Delwath: Those are doors, right?"
+            },
+            {
+              "startUid": "u0918",
+              "endUid": "u0919",
+              "quote": "DM: Yeah, like... Okay."
+            },
+            {
+              "startUid": "u0920",
+              "endUid": "u0920",
+              "quote": "Delwath: Are they open or closed?"
+            },
+            {
+              "startUid": "u0921",
+              "endUid": "u0921",
+              "quote": "DM: No, they're not—they're not doors. They're open archways."
+            },
+            {
+              "startUid": "u0922",
+              "endUid": "u0922",
+              "quote": "Delwath: In that case so, then I would like to just look in through the open archways."
+            },
+            {
+              "startUid": "u0923",
+              "endUid": "u0927",
+              "quote": "DM: Okay, so this is where you—where you saw, when you were coming up, where you saw kitchens, like in—through the open archway you see—you see basically, like a big hearth like a solid stone table, some shelves like a pantry area. You can see this, and then there's a wall here and there's a wall here. You can't—without going in, you can't see like there's like a corner where you can't see unless you go in."
+            },
+            {
+              "startUid": "u0928",
+              "endUid": "u0928",
+              "quote": "Delwath: I'll go in."
+            },
+            {
+              "startUid": "u0929",
+              "endUid": "u0929",
+              "quote": "DM: Okay, um, so you can begin to sort of..."
+            },
+            {
+              "startUid": "u0930",
+              "endUid": "u0930",
+              "quote": "Delwath: Walk quietly and stealthily."
+            },
+            {
+              "startUid": "u0931",
+              "endUid": "u0933",
+              "quote": "DM: So make a Stealth check just to see how quiet you are. Ah, and Kenzo, Wellby what are you and Seeker, what are you doing while Delwath has gone around the back?"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Dining hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0958",
+          "endUid": "u0965",
+          "quote": "DM: A few things happening at once. Kenzo and—and—and Wellby peer sort of through this crack, and you see, looking into this through this hole in the wall, it looks like a large former dining room. But it's in—you know, it's—it's in bad shape. It's been—there's like six long tables, benches and stuff, but they're all in ruins. Everything's been cracked. And in the in the corner sort of right here, just as you're peering around, um, you see a sort of pile of rubble and trash that looks like a nesting area, where you see two large lion like creatures with humanoid faces and folded wings on their back sleeping while two smaller ones."
+        },
+        {
+          "startUid": "u0966",
+          "endUid": "u0969",
+          "quote": "DM: Same kind of creature but half or a third the size, possibly young—um, running around chasing each other and like laughing there. They seem to be playing, but not in—like, you've seen animals play, and when animals play they're like playful and they're practicing hunting and stuff. These are—these are not playing in a playful way. They're playing in a like genuinely trying to prank and hurt each other away. Like, they'll throw rocks at each other's eyes, and you know, occasionally there will be this evil laugh when one of them actually seems to get wounded. They're not actively like attacking each other, but they're clearly trying to make each other miserable."
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u0970",
+          "quote": "Unknown: I'm."
+        },
+        {
+          "startUid": "u0971",
+          "endUid": "u0977",
+          "quote": "DM: At this moment, you hear a bang as something falls loose—some loose—not really a bang, more like a like a quiet rattle as some loose stones fall, um, from around—from the sort of kitchen area. Delwath, as you come through the kitchen, um, kicking some gravel catching yourself and kind of moving away from it. But then, you know, you're invisible, so nobody can see anything."
+        },
+        {
+          "startUid": "u0978",
+          "endUid": "u0980",
+          "quote": "DM: You come to a big open door that leads into the same dining room in the back, and you see the two toddler creatures look briefly at the doorway, see nothing, and go back to taunting each other."
+        },
+        {
+          "startUid": "u0981",
+          "endUid": "u0981",
+          "quote": "Delwath: Let's—I mean, is that—how much of the space is this like? Can we see like what's over here?"
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0987",
+          "quote": "DM: Ah, yeah. So sort of roughly about—roughly about here as where the far wall is and there—so there are 15 foot-wide like double-wide imposing set of stone doors are set in the sort of that sort of back wall. They are faded and damaged, and looks like they've been battered many times and the original but some of the original decoration comes through."
+        },
+        {
+          "startUid": "u0988",
+          "endUid": "u0991",
+          "quote": "DM: On the left of this set of double doors, there is a seated figure of Bhishma, painted kneeling with her head bowed and hands clasped in prayer. And the right of the set of double doors, um, Bhishma standing radiant, arms above her head like glowing and deified. And written in Dunmari underneath, across both this whole sort of 15 foot-wide set of doors, the words: “Let those who would enter my presence and accept my grace kneel before me and offer their prayers.”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0958",
+              "endUid": "u0965",
+              "quote": "DM: A few things happening at once. Kenzo and—and—and Wellby peer sort of through this crack, and you see, looking into this through this hole in the wall, it looks like a large former dining room. But it's in—you know, it's—it's in bad shape. It's been—there's like six long tables, benches and stuff, but they're all in ruins. Everything's been cracked. And in the in the corner sort of right here, just as you're peering around, um, you see a sort of pile of rubble and trash that looks like a nesting area, where you see two large lion like creatures with humanoid faces and folded wings on their back sleeping while two smaller ones."
+            },
+            {
+              "startUid": "u0966",
+              "endUid": "u0969",
+              "quote": "DM: Same kind of creature but half or a third the size, possibly young—um, running around chasing each other and like laughing there. They seem to be playing, but not in—like, you've seen animals play, and when animals play they're like playful and they're practicing hunting and stuff. These are—these are not playing in a playful way. They're playing in a like genuinely trying to prank and hurt each other away. Like, they'll throw rocks at each other's eyes, and you know, occasionally there will be this evil laugh when one of them actually seems to get wounded. They're not actively like attacking each other, but they're clearly trying to make each other miserable."
+            },
+            {
+              "startUid": "u0970",
+              "endUid": "u0970",
+              "quote": "Unknown: I'm."
+            },
+            {
+              "startUid": "u0971",
+              "endUid": "u0977",
+              "quote": "DM: At this moment, you hear a bang as something falls loose—some loose—not really a bang, more like a like a quiet rattle as some loose stones fall, um, from around—from the sort of kitchen area. Delwath, as you come through the kitchen, um, kicking some gravel catching yourself and kind of moving away from it. But then, you know, you're invisible, so nobody can see anything."
+            },
+            {
+              "startUid": "u0978",
+              "endUid": "u0980",
+              "quote": "DM: You come to a big open door that leads into the same dining room in the back, and you see the two toddler creatures look briefly at the doorway, see nothing, and go back to taunting each other."
+            },
+            {
+              "startUid": "u0981",
+              "endUid": "u0981",
+              "quote": "Delwath: Let's—I mean, is that—how much of the space is this like? Can we see like what's over here?"
+            },
+            {
+              "startUid": "u0982",
+              "endUid": "u0987",
+              "quote": "DM: Ah, yeah. So sort of roughly about—roughly about here as where the far wall is and there—so there are 15 foot-wide like double-wide imposing set of stone doors are set in the sort of that sort of back wall. They are faded and damaged, and looks like they've been battered many times and the original but some of the original decoration comes through."
+            },
+            {
+              "startUid": "u0988",
+              "endUid": "u0991",
+              "quote": "DM: On the left of this set of double doors, there is a seated figure of Bhishma, painted kneeling with her head bowed and hands clasped in prayer. And the right of the set of double doors, um, Bhishma standing radiant, arms above her head like glowing and deified. And written in Dunmari underneath, across both this whole sort of 15 foot-wide set of doors, the words: “Let those who would enter my presence and accept my grace kneel before me and offer their prayers.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Bathhouse",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0728",
+          "endUid": "u0737",
+          "quote": "DM: No. So, as you as you approach the river, sticking to the riverbed sort of turn the corner and you see actually something, Wellby, that you didn't notice: a—two large sewer pipes of some sort, or water pipes, that now are sitting on dry riverbed, clearly leading into, like, towards the monastery, going into the side of the of the slope. And the ground slopes up gently, not very steeply, towards—now you're looking at the at the sort of back of the bathhouse and this building this sort of one-story sandstone building, and then these two smaller outbuildings."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0728",
+              "endUid": "u0737",
+              "quote": "DM: No. So, as you as you approach the river, sticking to the riverbed sort of turn the corner and you see actually something, Wellby, that you didn't notice: a—two large sewer pipes of some sort, or water pipes, that now are sitting on dry riverbed, clearly leading into, like, towards the monastery, going into the side of the of the slope. And the ground slopes up gently, not very steeply, towards—now you're looking at the at the sort of back of the bathhouse and this building this sort of one-story sandstone building, and then these two smaller outbuildings."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Antechamber with wardrobes and font",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2396",
+          "quote": "DM: Alright, guys. So as far—as Kenzo kneels and begins to say a prayer to Bhishma, you see that the—like, faint light begins to glow around the cracks of the door. And then they begin to swing—swing open, and you can see beyond."
+        },
+        {
+          "startUid": "u2397",
+          "endUid": "u2400",
+          "quote": "DM: And it's a—this sort of 15 foot-wide by 30 foot-long room, which has one door. So you looking in this way, and just to the left there's one door and in this room is—it looks sort of like an empty chamber, like—there's two wardrobes that are filled with moldering robes. A rack for like a shoe rack basically, where people could take off shoes or boots—does—a few empty wooden chests, another chest that contains six sealed vials of some sort of clear liquid that looks like water, and four more that are cracked and empty."
+        },
+        {
+          "startUid": "u2401",
+          "endUid": "u2405",
+          "quote": "DM: Um, a marble—sandstone font that is empty. And then, ah smaller, plainer door to the left, heading into another room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2393",
+              "endUid": "u2396",
+              "quote": "DM: Alright, guys. So as far—as Kenzo kneels and begins to say a prayer to Bhishma, you see that the—like, faint light begins to glow around the cracks of the door. And then they begin to swing—swing open, and you can see beyond."
+            },
+            {
+              "startUid": "u2397",
+              "endUid": "u2400",
+              "quote": "DM: And it's a—this sort of 15 foot-wide by 30 foot-long room, which has one door. So you looking in this way, and just to the left there's one door and in this room is—it looks sort of like an empty chamber, like—there's two wardrobes that are filled with moldering robes. A rack for like a shoe rack basically, where people could take off shoes or boots—does—a few empty wooden chests, another chest that contains six sealed vials of some sort of clear liquid that looks like water, and four more that are cracked and empty."
+            },
+            {
+              "startUid": "u2401",
+              "endUid": "u2405",
+              "quote": "DM: Um, a marble—sandstone font that is empty. And then, ah smaller, plainer door to the left, heading into another room."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Small plain chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2498",
+          "endUid": "u2503",
+          "quote": "DM: Yeah. The next room is a smaller room, plain, unfurnished, a—a door with faded writing and sort of painted decorations and and writing that has faded to illegibility um, but it seems like the whole wall was once painted. So you've gone, you went in this way, then you turned—you turn left and went through the door, and now you're going back sort of like towards the back of the building. Um, nothing in this room now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2498",
+              "endUid": "u2503",
+              "quote": "DM: Yeah. The next room is a smaller room, plain, unfurnished, a—a door with faded writing and sort of painted decorations and and writing that has faded to illegibility um, but it seems like the whole wall was once painted. So you've gone, you went in this way, then you turned—you turn left and went through the door, and now you're going back sort of like towards the back of the building. Um, nothing in this room now."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Dark initiation corridor",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u2507",
+          "endUid": "u2513",
+          "quote": "DM: You step into—step through the door, and everything fades to darkness. The hallway is dark, everything is dark, and even those of you with dark vision cannot see anything ahead, until a sort of faint light begins to glow from the walls, illuminating a scene painted on the wall sort of just to your right—so down the—turning right as you enter the corridor, down the corridor. It's faded in places, but still—still intricately detailed and and done by a master artist, and it shows a young woman, um..."
+        },
+        {
+          "startUid": "u2514",
+          "endUid": "u2519",
+          "quote": "DM: Kind of in a, you know, like that's a scene obviously painted to center on her, but giving also attention to the great mass of people that are following behind her, some on horses, some on foot, livestock with them, pulling carts loaded with just like the materials of home. This seems like a large group of of people taking their worldly possessions with them. And behind them sort of the painting kind of fades into this dark, roiling, shadowy mass."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2526",
+          "quote": "DM: You feel, as you look at it, the wind in your hair, the hot desert air, the fear of what you've left behind, the cold ache of fleeing into the unknown and abandoning your home. And you sense a choice: to continue down this hallway, continue on the story of the woman you now realize is Bhishma, and be pulled along—to what end is unclear—or to turn back."
+        },
+        {
+          "startUid": "u2527",
+          "endUid": "u2527",
+          "quote": "Kenzo: Well, if we're channeling our inner Wellby, there's not much of a choice here."
+        },
+        {
+          "startUid": "u2528",
+          "endUid": "u2529",
+          "quote": "Seeker: To the senses of a just an especially vivid sort of magically enhanced mural?"
+        },
+        {
+          "startUid": "u2530",
+          "endUid": "u2534",
+          "quote": "DM: Almost—almost like a memory. A mural, yes, but also a memory, like—you can feel the wind in your hair. You can remember the feeling, that sort of ache of leaving your home and fleeing. It's not just visual stimuli."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2507",
+              "endUid": "u2513",
+              "quote": "DM: You step into—step through the door, and everything fades to darkness. The hallway is dark, everything is dark, and even those of you with dark vision cannot see anything ahead, until a sort of faint light begins to glow from the walls, illuminating a scene painted on the wall sort of just to your right—so down the—turning right as you enter the corridor, down the corridor. It's faded in places, but still—still intricately detailed and and done by a master artist, and it shows a young woman, um..."
+            },
+            {
+              "startUid": "u2514",
+              "endUid": "u2519",
+              "quote": "DM: Kind of in a, you know, like that's a scene obviously painted to center on her, but giving also attention to the great mass of people that are following behind her, some on horses, some on foot, livestock with them, pulling carts loaded with just like the materials of home. This seems like a large group of of people taking their worldly possessions with them. And behind them sort of the painting kind of fades into this dark, roiling, shadowy mass."
+            },
+            {
+              "startUid": "u2520",
+              "endUid": "u2526",
+              "quote": "DM: You feel, as you look at it, the wind in your hair, the hot desert air, the fear of what you've left behind, the cold ache of fleeing into the unknown and abandoning your home. And you sense a choice: to continue down this hallway, continue on the story of the woman you now realize is Bhishma, and be pulled along—to what end is unclear—or to turn back."
+            },
+            {
+              "startUid": "u2527",
+              "endUid": "u2527",
+              "quote": "Kenzo: Well, if we're channeling our inner Wellby, there's not much of a choice here."
+            },
+            {
+              "startUid": "u2528",
+              "endUid": "u2529",
+              "quote": "Seeker: To the senses of a just an especially vivid sort of magically enhanced mural?"
+            },
+            {
+              "startUid": "u2530",
+              "endUid": "u2534",
+              "quote": "DM: Almost—almost like a memory. A mural, yes, but also a memory, like—you can feel the wind in your hair. You can remember the feeling, that sort of ache of leaving your home and fleeing. It's not just visual stimuli."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Pentagonal inner cloister and courtyard",
+      "kind": "cloister",
+      "evidence": [
+        {
+          "startUid": "u2805",
+          "endUid": "u2809",
+          "quote": "DM: You are at one hit point. Use—you stand up, and around you, you see, um, the same room that Seeker sees as bare gray, bare stone, you see painted in bright colors. Um, a, like—a brightly colored arch way painted in flowers, leading into this pentagonal structure. So you're now right going back to the Monastery Bhishma, you're like right right here."
+        },
+        {
+          "startUid": "u2810",
+          "endUid": "u2813",
+          "quote": "DM: And you're looking into a entry way to what looks like a—like a cloister. There's like a sort of walkway—a covered walkway around this central structure, which is open to the sky. And, well, to you, Seeker, looks like gray dark and grey and just kind of everything's flat and unpainted, to you, Kenzo, it's decorated with these brilliant paintings again of the life of Bhishma. There's a fountain flowing in the middle with clear water, and like everywhere you turn, you can see, ah..."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2805",
+              "endUid": "u2809",
+              "quote": "DM: You are at one hit point. Use—you stand up, and around you, you see, um, the same room that Seeker sees as bare gray, bare stone, you see painted in bright colors. Um, a, like—a brightly colored arch way painted in flowers, leading into this pentagonal structure. So you're now right going back to the Monastery Bhishma, you're like right right here."
+            },
+            {
+              "startUid": "u2810",
+              "endUid": "u2813",
+              "quote": "DM: And you're looking into a entry way to what looks like a—like a cloister. There's like a sort of walkway—a covered walkway around this central structure, which is open to the sky. And, well, to you, Seeker, looks like gray dark and grey and just kind of everything's flat and unpainted, to you, Kenzo, it's decorated with these brilliant paintings again of the life of Bhishma. There's a fountain flowing in the middle with clear water, and like everywhere you turn, you can see, ah..."
+            }
+          ]
+        }
+      ],
+      "note": "Kenzo perceives painted stories and a vivid illusory fountain; Seeker sees plain walls and bare ground (u2862–u2907)."
+    },
+    "p15": {
+      "label": "Public temple",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0724",
+          "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0720",
+              "endUid": "u0724",
+              "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+            }
+          ]
+        }
+      ],
+      "note": "Distinct from the inner sacred cloister; no current entry established."
+    },
+    "p16": {
+      "label": "Tower beside the Hall of Stories",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0724",
+          "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0720",
+              "endUid": "u0724",
+              "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Mountains and wide river in Bhishma’s flight",
+      "kind": "vision landscape",
+      "evidence": [
+        {
+          "startUid": "u2625",
+          "endUid": "u2629",
+          "quote": "DM: So as you continue down the hall, your companions turning back, you feel dragged along as if you are walking against your will. And the scene begins to change slightly. Now, rather than the dark mass behind you, you're passing through hostile terrain."
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2635",
+          "quote": "DM: The feeling of fear, the people coming to you for—for aid and comfort, pride in your brother being the hero, leading the charge against hob goblins cutting a path through the mountains to the safety on the other side. And coming to a wide, slow river, defensible—release—relief, the feel of wet earth beneath your feet after months traveling through dry, dusty land. The river valley, a place that could be home."
+        },
+        {
+          "startUid": "u2636",
+          "endUid": "u2644",
+          "quote": "DM: But tinged with sadness, as the next scene show is the mass of people divided, some following you, some turning north, following the river to where it may lead, who knows. And while you can taste the—the dampness in the air and imagine the the sheep grazing and the horses spreading across these valleys, the split is painful still. You pass through another brief moment of darkness."
+        }
+      ],
+      "note": "Experienced historical landscape; the map gesture does not establish a named river."
+    },
+    "p18": {
+      "label": "Ash-covered river valley in Bhishma’s vision",
+      "kind": "vision landscape",
+      "evidence": [
+        {
+          "startUid": "u2659",
+          "endUid": "u2664",
+          "quote": "DM: And you're riding west on horseback, spreading out, um, finding that the river itself is only a very narrow strip of fertile ground, and all around the land is ash. Um, riding further, coming to an empty river valley. The despair as the initial feeling of hope, um, turns to panic, the people questioning you, the taste of dust in your mouth, choking winds and ash blowing from the south. The sun disappearing for weeks at a time, the cold, the dark, the hunger pangs in your belly, the parched dryness in your throat."
+        },
+        {
+          "startUid": "u2665",
+          "endUid": "u2669",
+          "quote": "DM: The children crying the fourth day after which the sun has not risen. The ash storms that that rise and blow across the land, bringing famine and disease, people dying. And you sense here you have another opportunity to turn back, which I presume neither of you take."
+        },
+        {
+          "startUid": "u2670",
+          "endUid": "u2677",
+          "quote": "DM: And then standing at a place you feel in your heart is near where you are now. Then, as now, a dry river with no no water, clouds of dust, without even the perhaps harsh at times, but still sometimes beautiful colors of the desert sandstone. Um, just barren grey ash everywhere. Um, the doubt in your heart as people turn to you, and you have no answers for them."
+        },
+        {
+          "startUid": "u2678",
+          "endUid": "u2683",
+          "quote": "DM: And then a miracle, the greatest miracle of your life. Jeevali’s tears, the rain comes. You are showered in praise, and yet all you can feel is shame and anger as the rains come and the ash is washed away and the land is cleansed and healed, and yet the goddess is dead, gone, nevermore to grace the land. As you rage and cry, the people rejoice and celebrate you and say you have saved them. And the land is healed and whole, and life goes on, except for the life of the goddess, who should be eternal and bring her blessings forever. And the scene fades again to darkness."
+        }
+      ],
+      "note": "Felt to be near the present monastery; that impression does not prove exact identity with the modern site."
+    },
+    "p19": {
+      "label": "Land of the Dead",
+      "kind": "plane",
+      "vaultPath": "Cosmology/Land of the Dead.md",
+      "evidence": [
+        {
+          "startUid": "u3100",
+          "endUid": "u3101",
+          "quote": "DM: So many—you've had—you had a near-death experience, I would say right right."
+        },
+        {
+          "startUid": "u3102",
+          "endUid": "u3102",
+          "quote": "Kenzo: But this time I actually died."
+        },
+        {
+          "startUid": "u3103",
+          "endUid": "u3103",
+          "quote": "DM: You actually crossed over into the land of the dead and were brought back, yes."
+        },
+        {
+          "startUid": "u3104",
+          "endUid": "u3104",
+          "quote": "Kenzo: Wow, wait. So when I—when I—when Kenzo like had his Lakan initiation he didn't—wasn't the same thing, that he also like died and come back?"
+        },
+        {
+          "startUid": "u3105",
+          "endUid": "u3105",
+          "quote": "DM: No."
+        }
+      ],
+      "note": "Retrospectively confirmed crossing by Kenzo’s soul during the initiation; his body remains in the corridor."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0040",
+        "endUid": "u0052"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Resting in the shaded canyon camp five miles south of the monastery.",
+      "evidence": [
+        {
+          "startUid": "u0040",
+          "endUid": "u0042",
+          "quote": "DM: Yeah, you're in a camp—camp five miles south of the monastery and you've just—the hawk has just left after you fed it, and you've just finished making your map."
+        },
+        {
+          "startUid": "u0043",
+          "endUid": "u0044",
+          "quote": "Delwath: Is it like—is this the beginning, did we just wake up, or is this the end of the day? What's the...?"
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0045",
+          "quote": "DM: It's midday."
+        },
+        {
+          "startUid": "u0046",
+          "endUid": "u0046",
+          "quote": "Delwath: So we're camp just because we were waiting for the hawk to scout things out."
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0048",
+          "quote": "DM: Yeah, well, and also because you typically would rest from like 11 to three."
+        },
+        {
+          "startUid": "u0049",
+          "endUid": "u0049",
+          "quote": "Delwath: Because it's hot."
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0052",
+          "quote": "DM: Because it's hot. So that's what would normally be your midday rest in the shade. There's nice shade here because of the canyon walls along the—the dry riverbanks."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0701",
+        "endUid": "u0704"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Hike north along the dry riverbed and establish camp below the cliffs.",
+      "evidence": [
+        {
+          "startUid": "u0701",
+          "endUid": "u0704",
+          "quote": "DM: So, so you travel up the up the riverbed, and it's hot, drudgy work through this sort of soft sand, you know, occasionally being able to cling to the edge of the of the canyon wall, where, but you can get a bit of shade and relief, but with the sun directly overhead now there's almost no shade, and so it's it's just hot and tiring. Just hiking about this last five miles takes you takes you maybe an hour and a half, so it's about two o'clock when you arrive at the base of the cliffs and make your camp and, as you..."
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p02",
+          "reading": "Follow the dry sandy riverbed."
+        }
+      ],
+      "distance": {
+        "value": 5,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM narration."
+      },
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narration of completed hike."
+      }
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0720",
+        "endUid": "u0724"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the public temple above the cliffs.",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0724",
+          "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+        }
+      ],
+      "place": "p15",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0720",
+        "endUid": "u0724"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the tower beside the Hall of Stories above the cliffs.",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0724",
+          "quote": "DM: But you can see from the cliffs you know that that the temple in particular kind of looming on high. The—the—the temple building and the tower of the monks next to the Hall of Stories being the dominant landmarks that stand out, everything else being only one or a few, or two stories where those both stand between 40 and 70 feet high. You can see, you know, it take you about a half an hour to follow the curve of the river and and come up the slope. So what do you want to do?"
+        }
+      ],
+      "place": "p16",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0728",
+        "endUid": "u0776"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the river bend, bypass the pipes, and ascend the terraced garden slope toward the buildings.",
+      "evidence": [
+        {
+          "startUid": "u0728",
+          "endUid": "u0737",
+          "quote": "DM: No. So, as you as you approach the river, sticking to the riverbed sort of turn the corner and you see actually something, Wellby, that you didn't notice: a—two large sewer pipes of some sort, or water pipes, that now are sitting on dry riverbed, clearly leading into, like, towards the monastery, going into the side of the of the slope. And the ground slopes up gently, not very steeply, towards—now you're looking at the at the sort of back of the bathhouse and this building this sort of one-story sandstone building, and then these two smaller outbuildings."
+        },
+        {
+          "startUid": "u0738",
+          "endUid": "u0738",
+          "quote": "Seeker: Is it looks like a waste pipe?"
+        },
+        {
+          "startUid": "u0739",
+          "endUid": "u0739",
+          "quote": "DM: Or an intake pipe? It's hard to tell."
+        },
+        {
+          "startUid": "u0740",
+          "endUid": "u0740",
+          "quote": "Wellby: What's the diameter? It's..."
+        },
+        {
+          "startUid": "u0741",
+          "endUid": "u0742",
+          "quote": "DM: Fairly big. It's maybe two and a half feet. Certainly, Wellby, you could almost your..."
+        },
+        {
+          "startUid": "u0743",
+          "endUid": "u0743",
+          "quote": "Unknown: [garbled]."
+        },
+        {
+          "startUid": "u0744",
+          "endUid": "u0744",
+          "quote": "Delwath: Is it dry?"
+        },
+        {
+          "startUid": "u0744",
+          "endUid": "u0744",
+          "quote": "DM: Yeah, it's completely dry."
+        },
+        {
+          "startUid": "u0745",
+          "endUid": "u0745",
+          "quote": "Wellby: Kind of gesture towards it."
+        },
+        {
+          "startUid": "u0746",
+          "endUid": "u0746",
+          "quote": "Seeker: I mean, it's not a typical way to enter a temple complex, but..."
+        },
+        {
+          "startUid": "u0747",
+          "endUid": "u0747",
+          "quote": "Kenzo: You send the hawk in?"
+        },
+        {
+          "startUid": "u0748",
+          "endUid": "u0749",
+          "quote": "Wellby: No. Think I've exhausted the goodwill in the animal kingdom for me for the day."
+        },
+        {
+          "startUid": "u0750",
+          "endUid": "u0752",
+          "quote": "Kenzo: I mean, one of us could go in invisibly and scout."
+        },
+        {
+          "startUid": "u0753",
+          "endUid": "u0753",
+          "quote": "Wellby: Let's stick with the plan."
+        },
+        {
+          "startUid": "u0754",
+          "endUid": "u0756",
+          "quote": "Delwath: Yeah, it's good. I don't know that we need to go into the..."
+        },
+        {
+          "startUid": "u0757",
+          "endUid": "u0757",
+          "quote": "Seeker: We could use a door instead of a sewer pipe to go in."
+        },
+        {
+          "startUid": "u0758",
+          "endUid": "u0758",
+          "quote": "DM: What a radical idea."
+        },
+        {
+          "startUid": "u0759",
+          "endUid": "u0759",
+          "quote": "Delwath: Yeah, I think that's probably okay."
+        },
+        {
+          "startUid": "u0760",
+          "endUid": "u0764",
+          "quote": "DM: So you head up the slope. The—so it's now about 230 and the sun is now getting low enough in the sky that some of the you know animal life begins to stir again and um, not that there's a lot of animal life here, but you know see more birds in the sky, you see, you know just a little bit more activity as as the worst part of the heat of the day begins to pass. But most things won't be out for another three to four hours."
+        },
+        {
+          "startUid": "u0765",
+          "endUid": "u0770",
+          "quote": "DM: You're heading up the slope. You can see that this area, you know, it was definitely at one point sort of terraced and shaped into gardens. So you know there's dried, almost petrified stumps of trees. There must have at one point been an irrigation system here, and that seems to have been like a long sort of terraced garden leading up to the sort of back side of the river side of the monastery."
+        },
+        {
+          "startUid": "u0771",
+          "endUid": "u0776",
+          "quote": "DM: As you approach these—there's sort of three buildings, these three buildings that you can sort of see the most clearly, and this one on the farthest right... They're all sort of red sandstone buildings, none particularly elaborately decorated. The bathhouse and this one unknown building are just one story each. This dormitory is two stories, or maybe three if they're shorter stories. It's maybe 25 feet tall. And again, there seems to be, you know as you're 100 feet away sort of coming up little sign of movement. Which direction do you want to head?"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Bypass the two dry pipes without entering them."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0837",
+        "endUid": "u0858"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Approach the kitchen’s open archways; Wellby scouts thirty feet ahead.",
+      "evidence": [
+        {
+          "startUid": "u0837",
+          "endUid": "u0842",
+          "quote": "DM: So, ah, you actually, let me just see something there. Okay, you begin to you sort of move forward, um, ah, through this sort of path. You're coming up the slope and through this path, and as you get closer you can see that this area back here, um, probably like a kitchen or something like that. From the air was hard to tell, but from ground level you can see that there's sort of two big archways, and there's like a well out here and just probably connected to those pipes somehow and um just kind of—through the opening, you can see kind of big hearths and things like that."
+        },
+        {
+          "startUid": "u0843",
+          "endUid": "u0849",
+          "quote": "DM: Likely there's some sort of kitchen in this area. But you're actually coming sort of along this slope to come in between the this building and the bathhouse, and you do here, um, Wellby, as you get to about here you hear the sound of what sounds like something sleeping. And the occasional like quiet yelp of like a big animal sleeping. It reminds you a little bit almost of a of a lion. And then—but sounds deeper and and bigger somehow. And then the occasional sort of little yelp, ah, and sort of almost human laughter."
+        },
+        {
+          "startUid": "u0850",
+          "endUid": "u0853",
+          "quote": "DM: That sounds—it sounds unpleasant. It's not like happy child laughter. It's like it's like the you know the the eyebrows baby who is the enemy of Maggie and The Simpsons kind of laughter."
+        },
+        {
+          "startUid": "u0854",
+          "endUid": "u0854",
+          "quote": "Wellby: Like hyena, or something different?"
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0855",
+          "quote": "DM: Not hyena—like—like sounds like human. Sounds like human laughter, almost, but like an evil toddler giggling."
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0856",
+          "quote": "Seeker: So only Wellby hears this?"
+        },
+        {
+          "startUid": "u0857",
+          "endUid": "u0858",
+          "quote": "DM: Um, well, Wellby—quiet. Wellby is like 30 feet in front, and you hear it as you as you reach about this this point right here."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0911",
+        "endUid": "u0933"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Enter the kitchen while the others take different positions.",
+      "evidence": [
+        {
+          "startUid": "u0911",
+          "endUid": "u0912",
+          "quote": "Seeker: I'll just stay more or less here. You guys good?"
+        },
+        {
+          "startUid": "u0913",
+          "endUid": "u0915",
+          "quote": "Delwath: I just would like to peer in through this spot here and just see what's there."
+        },
+        {
+          "startUid": "u0916",
+          "endUid": "u0916",
+          "quote": "DM: Sorry, show me again where."
+        },
+        {
+          "startUid": "u0917",
+          "endUid": "u0917",
+          "quote": "Delwath: Those are doors, right?"
+        },
+        {
+          "startUid": "u0918",
+          "endUid": "u0919",
+          "quote": "DM: Yeah, like... Okay."
+        },
+        {
+          "startUid": "u0920",
+          "endUid": "u0920",
+          "quote": "Delwath: Are they open or closed?"
+        },
+        {
+          "startUid": "u0921",
+          "endUid": "u0921",
+          "quote": "DM: No, they're not—they're not doors. They're open archways."
+        },
+        {
+          "startUid": "u0922",
+          "endUid": "u0922",
+          "quote": "Delwath: In that case so, then I would like to just look in through the open archways."
+        },
+        {
+          "startUid": "u0923",
+          "endUid": "u0927",
+          "quote": "DM: Okay, so this is where you—where you saw, when you were coming up, where you saw kitchens, like in—through the open archway you see—you see basically, like a big hearth like a solid stone table, some shelves like a pantry area. You can see this, and then there's a wall here and there's a wall here. You can't—without going in, you can't see like there's like a corner where you can't see unless you go in."
+        },
+        {
+          "startUid": "u0928",
+          "endUid": "u0928",
+          "quote": "Delwath: I'll go in."
+        },
+        {
+          "startUid": "u0929",
+          "endUid": "u0929",
+          "quote": "DM: Okay, um, so you can begin to sort of..."
+        },
+        {
+          "startUid": "u0930",
+          "endUid": "u0930",
+          "quote": "Delwath: Walk quietly and stealthily."
+        },
+        {
+          "startUid": "u0931",
+          "endUid": "u0933",
+          "quote": "DM: So make a Stealth check just to see how quiet you are. Ah, and Kenzo, Wellby what are you and Seeker, what are you doing while Delwath has gone around the back?"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0947",
+        "endUid": "u0969"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Peer through the broken wall and discover manticores in the dining hall without entering.",
+      "evidence": [
+        {
+          "startUid": "u0947",
+          "endUid": "u0947",
+          "quote": "Wellby: I think you—can we inch towards the front, like toward the the door and—yeah, yeah."
+        },
+        {
+          "startUid": "u0948",
+          "endUid": "u0950",
+          "quote": "DM: That's right. There's a door that sort of seems to be jammed shut by rubble, and then there's a giant hole in the wall right next to the door, if you want to kind of peer through the hole."
+        },
+        {
+          "startUid": "u0951",
+          "endUid": "u0951",
+          "quote": "Kenzo: Yes, this one. We're super..."
+        },
+        {
+          "startUid": "u0952",
+          "endUid": "u0952",
+          "quote": "DM: Seeker standing right here like trying folding up with map, trying to be quiet, right?"
+        },
+        {
+          "startUid": "u0953",
+          "endUid": "u0953",
+          "quote": "Wellby: So grateful."
+        },
+        {
+          "startUid": "u0954",
+          "endUid": "u0956",
+          "quote": "Seeker: I'm like—I'm acting inconspicuous."
+        },
+        {
+          "startUid": "u0957",
+          "endUid": "u0957",
+          "quote": "DM: Okay, so..."
+        },
+        {
+          "startUid": "u0958",
+          "endUid": "u0965",
+          "quote": "DM: A few things happening at once. Kenzo and—and—and Wellby peer sort of through this crack, and you see, looking into this through this hole in the wall, it looks like a large former dining room. But it's in—you know, it's—it's in bad shape. It's been—there's like six long tables, benches and stuff, but they're all in ruins. Everything's been cracked. And in the in the corner sort of right here, just as you're peering around, um, you see a sort of pile of rubble and trash that looks like a nesting area, where you see two large lion like creatures with humanoid faces and folded wings on their back sleeping while two smaller ones."
+        },
+        {
+          "startUid": "u0966",
+          "endUid": "u0969",
+          "quote": "DM: Same kind of creature but half or a third the size, possibly young—um, running around chasing each other and like laughing there. They seem to be playing, but not in—like, you've seen animals play, and when animals play they're like playful and they're practicing hunting and stuff. These are—these are not playing in a playful way. They're playing in a like genuinely trying to prank and hurt each other away. Like, they'll throw rocks at each other's eyes, and you know, occasionally there will be this evil laugh when one of them actually seems to get wounded. They're not actively like attacking each other, but they're clearly trying to make each other miserable."
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0971",
+        "endUid": "u0991"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Look from the kitchen door into the dining hall and see its inscribed opposite door.",
+      "evidence": [
+        {
+          "startUid": "u0971",
+          "endUid": "u0977",
+          "quote": "DM: At this moment, you hear a bang as something falls loose—some loose—not really a bang, more like a like a quiet rattle as some loose stones fall, um, from around—from the sort of kitchen area. Delwath, as you come through the kitchen, um, kicking some gravel catching yourself and kind of moving away from it. But then, you know, you're invisible, so nobody can see anything."
+        },
+        {
+          "startUid": "u0978",
+          "endUid": "u0980",
+          "quote": "DM: You come to a big open door that leads into the same dining room in the back, and you see the two toddler creatures look briefly at the doorway, see nothing, and go back to taunting each other."
+        },
+        {
+          "startUid": "u0981",
+          "endUid": "u0981",
+          "quote": "Delwath: Let's—I mean, is that—how much of the space is this like? Can we see like what's over here?"
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0987",
+          "quote": "DM: Ah, yeah. So sort of roughly about—roughly about here as where the far wall is and there—so there are 15 foot-wide like double-wide imposing set of stone doors are set in the sort of that sort of back wall. They are faded and damaged, and looks like they've been battered many times and the original but some of the original decoration comes through."
+        },
+        {
+          "startUid": "u0988",
+          "endUid": "u0991",
+          "quote": "DM: On the left of this set of double doors, there is a seated figure of Bhishma, painted kneeling with her head bowed and hands clasped in prayer. And the right of the set of double doors, um, Bhishma standing radiant, arms above her head like glowing and deified. And written in Dunmari underneath, across both this whole sort of 15 foot-wide set of doors, the words: “Let those who would enter my presence and accept my grace kneel before me and offer their prayers.”"
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p08",
+      "mode": "local"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1041",
+        "endUid": "u1048"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Return from the kitchen to the companions outside to discuss the manticores.",
+      "evidence": [
+        {
+          "startUid": "u1041",
+          "endUid": "u1041",
+          "quote": "Delwath: I'm gonna head back to here, Tim."
+        },
+        {
+          "startUid": "u1042",
+          "endUid": "u1043",
+          "quote": "Kenzo: Over to where we're at, where Seeker like looks like a tourist."
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1044",
+          "quote": "Seeker: Well, the gift shop was not interesting."
+        },
+        {
+          "startUid": "u1045",
+          "endUid": "u1046",
+          "quote": "Delwath: Let's move past them quickly."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1047",
+          "quote": "Kenzo: Wait, wait, wait. What about what's in the other side of that room we get past them?"
+        },
+        {
+          "startUid": "u1048",
+          "endUid": "u1048",
+          "quote": "Delwath: We—we could try to draw the kids out, but I think we go to the tower first anyway."
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1401"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Execute the prepared ambush in the dining hall as the young chase the driftglobe.",
+      "evidence": [
+        {
+          "startUid": "u1388",
+          "endUid": "u1394",
+          "quote": "DM: You get into position as Delwath kicks a step—or sorry, Kenzo kicks a stone and then tosses the driftglobe away from him, it landing there, and then begins running through this gap before the manticore can get to it, and comes like around here. The two kids hear the noise, look up, and then see this flash of light, something floating there, and begin to run in this direction, seeming to chase each other to get to this and grab it and before—for the other one. And now they are—as they approach, they start fighting each other over the globe. It rolls—rolls around, and they, you know, they're trying to each take possession of it."
+        },
+        {
+          "startUid": "u1395",
+          "endUid": "u1395",
+          "quote": "Delwath: Hopefully they don't break it, but anyway."
+        },
+        {
+          "startUid": "u1396",
+          "endUid": "u1396",
+          "quote": "Unknown: Right."
+        },
+        {
+          "startUid": "u1397",
+          "endUid": "u1401",
+          "quote": "DM: Okay, um, what do you want to do? So, Kenzo, you're up first. Oh, we're still invisible, yeah. They are surprised."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "note": "Delwath is already in his ambush position; Kenzo runs in at the signal."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1577",
+        "endUid": "u1580"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Move into the dining hall during the manticore fight.",
+      "evidence": [
+        {
+          "startUid": "u1577",
+          "endUid": "u1577",
+          "quote": "DM: Yeah you can move—just move like 15 feet around the corner, but you'll have to come into the room."
+        },
+        {
+          "startUid": "u1578",
+          "endUid": "u1578",
+          "quote": "Wellby: Are we worried about the sound?"
+        },
+        {
+          "startUid": "u1579",
+          "endUid": "u1580",
+          "quote": "Delwath: Oh, is that thunder? Is that...?"
+        },
+        {
+          "startUid": "u1581",
+          "endUid": "u1581",
+          "quote": "DM: Booming, and why is it...?"
+        },
+        {
+          "startUid": "u1582",
+          "endUid": "u1582",
+          "quote": "Delwath: Don't do that, actually."
+        },
+        {
+          "startUid": "u1583",
+          "endUid": "u1584",
+          "quote": "Seeker: No, but Wellby encouraged me to use positive thinking."
+        },
+        {
+          "startUid": "u1585",
+          "endUid": "u1585",
+          "quote": "Kenzo: Yeah we kind of think we gave up on surprised when we decided to attack the manticores. It's kind of like—they're like screaming and yelling and shit. It's like—there's like a battle that."
+        },
+        {
+          "startUid": "u1586",
+          "endUid": "u1586",
+          "quote": "Unknown: Yes, I."
+        },
+        {
+          "startUid": "u1587",
+          "endUid": "u1587",
+          "quote": "Delwath: I think—I think we're doing okay. We might not want to burn all of our spells, but anyway."
+        },
+        {
+          "startUid": "u1588",
+          "endUid": "u1588",
+          "quote": "DM: Sorry, you gonna do Shatter?"
+        },
+        {
+          "startUid": "u1589",
+          "endUid": "u1589",
+          "quote": "Seeker: I'm doing it."
+        },
+        {
+          "startUid": "u1590",
+          "endUid": "u1590",
+          "quote": "Unknown: Right."
+        },
+        {
+          "startUid": "u1591",
+          "endUid": "u1591",
+          "quote": "Kenzo: Channel your inner Wellby."
+        },
+        {
+          "startUid": "u1592",
+          "endUid": "u1593",
+          "quote": "Delwath: Wellby said maybe we should do it [garbled]."
+        },
+        {
+          "startUid": "u1594",
+          "endUid": "u1594",
+          "quote": "DM: So, ah, let's see. Con saves."
+        },
+        {
+          "startUid": "u1595",
+          "endUid": "u1596",
+          "quote": "Seeker: I'd lob a glowing magical grenade to the point in between the two manticores, and there's an earth-shattering boom."
+        },
+        {
+          "startUid": "u1597",
+          "endUid": "u1599",
+          "quote": "DM: Yes, enormous boom as the building shake slightly, and both of manticores get shaken and slapped by this damage. Both make their save but still take nine points each, and the one in front of Delwath now looks like basically dead."
+        },
+        {
+          "startUid": "u1600",
+          "endUid": "u1601",
+          "quote": "Seeker: Oh, and then I'll make sure to pull on this strand of magical fire attached to the..."
+        },
+        {
+          "startUid": "u1602",
+          "endUid": "u1602",
+          "quote": "DM: All right, so roll 2d8."
+        },
+        {
+          "startUid": "u1603",
+          "endUid": "u1603",
+          "quote": "Seeker: Just manually? Oh no, I can do it from the spell."
+        },
+        {
+          "startUid": "u1604",
+          "endUid": "u1608",
+          "quote": "DM: Or from there. So that's enough. As its—as its—um struggling under the blast of energy from the Shatter spell, and then the searing of the of the chain is enough to kill it. So this one next to Delwath is dead."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u1798",
+        "endUid": "u1811"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The orc encounter begins at the dining hall and its opening to the grounds.",
+      "evidence": [
+        {
+          "startUid": "u1798",
+          "endUid": "u1799",
+          "quote": "DM: Or—so, so I can—everybody roll initiative. Um, an—Seeker, are you trying to hide? Are you...?"
+        },
+        {
+          "startUid": "u1800",
+          "endUid": "u1800",
+          "quote": "Seeker: Oh yeah, I'm trying to hide, so whatever."
+        },
+        {
+          "startUid": "u1801",
+          "endUid": "u1803",
+          "quote": "DM: Still roll Stealth. If you are like crouched in total cover, so if you're like hiding behind the manticore body, then they wouldn't be, no matter what..."
+        },
+        {
+          "startUid": "u1804",
+          "endUid": "u1804",
+          "quote": "Unknown: Is."
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "Seeker: Hiding behind them manticore body, yes."
+        },
+        {
+          "startUid": "u1806",
+          "endUid": "u1806",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u1808",
+          "quote": "Seeker: But I have a six Stealth. Oh well."
+        },
+        {
+          "startUid": "u1809",
+          "endUid": "u1809",
+          "quote": "Delwath: Better than my four."
+        },
+        {
+          "startUid": "u1810",
+          "endUid": "u1811",
+          "quote": "DM: You're not being very quiet, but, um, Kenzo, 15 and Wellby rolled 21. Okay."
+        }
+      ],
+      "place": "p09",
+      "note": "Combat extends through the doorway; individual attack movements do not establish a new substantive setting."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2140",
+        "endUid": "u2147"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Bring the surrendered captain inside for interrogation.",
+      "evidence": [
+        {
+          "startUid": "u2140",
+          "endUid": "u2141",
+          "quote": "Seeker: Great. Somebody maybe tie him up? You guys yet."
+        },
+        {
+          "startUid": "u2142",
+          "endUid": "u2143",
+          "quote": "Delwath: Yeah, let's take it back."
+        },
+        {
+          "startUid": "u2144",
+          "endUid": "u2144",
+          "quote": "Seeker: Here, let's—let's bring him inside. Who knows..."
+        },
+        {
+          "startUid": "u2145",
+          "endUid": "u2145",
+          "quote": "Delwath: It's a good idea."
+        },
+        {
+          "startUid": "u2146",
+          "endUid": "u2146",
+          "quote": "Seeker: What else is going on around here?"
+        },
+        {
+          "startUid": "u2147",
+          "endUid": "u2147",
+          "quote": "Unknown: Um."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "note": "Accepted group transition; it does not establish that every PC had previously left the hall."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2340",
+        "endUid": "u2364"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Secure the captive in the bathhouse using the pit and barred door.",
+      "evidence": [
+        {
+          "startUid": "u2340",
+          "endUid": "u2340",
+          "quote": "Kenzo: Yeah that's why—that's why we have to kill him."
+        },
+        {
+          "startUid": "u2341",
+          "endUid": "u2341",
+          "quote": "Delwath: Well, we don't have to decide that right now."
+        },
+        {
+          "startUid": "u2342",
+          "endUid": "u2344",
+          "quote": "Kenzo: Know everything else. Let's search everything else except for the tower and see if we can find anything. What's inside the temple—a hexagon?"
+        },
+        {
+          "startUid": "u2345",
+          "endUid": "u2345",
+          "quote": "Seeker: Yeah, this is where what Tim said about given some options. We just do literally everything. Yes."
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2346",
+          "quote": "DM: Oh, you tie him up, you throw him in the bathhouse."
+        },
+        {
+          "startUid": "u2347",
+          "endUid": "u2348",
+          "quote": "Delwath: Just—can I throw—just from a timing perspective to I'm really hoping to stop around midnight, or yeah later than that."
+        },
+        {
+          "startUid": "u2349",
+          "endUid": "u2349",
+          "quote": "Wellby: Actually, I think—I think would be good for me to to stop before like we gone to the next thing."
+        },
+        {
+          "startUid": "u2350",
+          "endUid": "u2350",
+          "quote": "Seeker: Like, I..."
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2351",
+          "quote": "Delwath: Mean, I was suggesting we searched the rest of the place, at least briefly, but not go into the tower tonight."
+        },
+        {
+          "startUid": "u2352",
+          "endUid": "u2352",
+          "quote": "DM: Well."
+        },
+        {
+          "startUid": "u2353",
+          "endUid": "u2353",
+          "quote": "Delwath: Big surprises."
+        },
+        {
+          "startUid": "u2354",
+          "endUid": "u2355",
+          "quote": "DM: Other day, yeah. Um, on top of that, if there's something that is going to be—if there's something that will take us past midnight, I'll stop on a cliffhanger. Perfect, cool."
+        },
+        {
+          "startUid": "u2356",
+          "endUid": "u2357",
+          "quote": "Seeker: Thanks, Tim. He knows what he's doing, yeah."
+        },
+        {
+          "startUid": "u2358",
+          "endUid": "u2362",
+          "quote": "DM: So, so you throw him into the bath house and it is clearly a place where, you know the orcs have have made a bit of of—not exactly a camp. There's just like some supplies. It doesn't seem like anybody stays here that long, but there's like couple barrels of water that are probably refilled and, you know supplies and some food and stuff, and um, like dirty bed rolls and things. It's, um, it's—everything's completely dry. It's all decorated and like nice tiling, most of which seemed to spend the day prying tiles off and just like throwing them in piles and just kind of breaking anything that looks nice."
+        },
+        {
+          "startUid": "u2363",
+          "endUid": "u2364",
+          "quote": "DM: But the doors are all still—the three doors are solid. There's actually relatively deep pools that are empty, so you can throw them down into a pool and toss it into a pit basically, and toss the bottle of water and some food down there, and he'll be pretty well contained between that and barring the doors until you—either the garrison shows up or you decide to do something with them."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "note": "The table accepts a compressed transfer and confinement without assigning each carrying task to a named PC."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2378",
+        "endUid": "u2405"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the dining-hall door and enter the antechamber with wardrobes and a holy-water font.",
+      "evidence": [
+        {
+          "startUid": "u2378",
+          "endUid": "u2382",
+          "quote": "DM: Okay, so you—you've returned to the—let me see here, so you return it back into the dining hall where you fought the manticores, and come to these doors. The 15 foot-wide stone doors have—with the painting of Bhishma on them. They do not seem to open. There is not any like—you sort of push on them and they don't open. It's not like an obvious handle you can grab and pull."
+        },
+        {
+          "startUid": "u2383",
+          "endUid": "u2383",
+          "quote": "Seeker: Well, it says you have to kneel and pray, don't—doesn't it?"
+        },
+        {
+          "startUid": "u2384",
+          "endUid": "u2384",
+          "quote": "DM: Yeah, it says, “Let those who would enter my presence and accept my grace kneel before me and offer their prayers.”"
+        },
+        {
+          "startUid": "u2385",
+          "endUid": "u2385",
+          "quote": "Seeker: Somebody know prayer Bhishma?"
+        },
+        {
+          "startUid": "u2386",
+          "endUid": "u2386",
+          "quote": "Delwath: Feels like a human activity."
+        },
+        {
+          "startUid": "u2387",
+          "endUid": "u2387",
+          "quote": "Wellby: I was gonna say exactly the same thing."
+        },
+        {
+          "startUid": "u2388",
+          "endUid": "u2388",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u2389",
+          "endUid": "u2389",
+          "quote": "DM: Yeah, yeah, Kenzo would certainly know some prayers."
+        },
+        {
+          "startUid": "u2390",
+          "endUid": "u2390",
+          "quote": "Kenzo: [garbled]."
+        },
+        {
+          "startUid": "u2391",
+          "endUid": "u2391",
+          "quote": "Seeker: Okay, he—yet—you have to literally kneel to probably. Yeah, I did..."
+        },
+        {
+          "startUid": "u2392",
+          "endUid": "u2392",
+          "quote": "Kenzo: I didn't really kneel."
+        },
+        {
+          "startUid": "u2393",
+          "endUid": "u2396",
+          "quote": "DM: Alright, guys. So as far—as Kenzo kneels and begins to say a prayer to Bhishma, you see that the—like, faint light begins to glow around the cracks of the door. And then they begin to swing—swing open, and you can see beyond."
+        },
+        {
+          "startUid": "u2397",
+          "endUid": "u2400",
+          "quote": "DM: And it's a—this sort of 15 foot-wide by 30 foot-long room, which has one door. So you looking in this way, and just to the left there's one door and in this room is—it looks sort of like an empty chamber, like—there's two wardrobes that are filled with moldering robes. A rack for like a shoe rack basically, where people could take off shoes or boots—does—a few empty wooden chests, another chest that contains six sealed vials of some sort of clear liquid that looks like water, and four more that are cracked and empty."
+        },
+        {
+          "startUid": "u2401",
+          "endUid": "u2405",
+          "quote": "DM: Um, a marble—sandstone font that is empty. And then, ah smaller, plainer door to the left, heading into another room."
+        },
+        {
+          "startUid": "u2498",
+          "endUid": "u2503",
+          "quote": "DM: Yeah. The next room is a smaller room, plain, unfurnished, a—a door with faded writing and sort of painted decorations and and writing that has faded to illegibility um, but it seems like the whole wall was once painted. So you've gone, you went in this way, then you turned—you turn left and went through the door, and now you're going back sort of like towards the back of the building. Um, nothing in this room now."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Return through the dining hall to the inscribed door."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u2431",
+        "endUid": "u2444"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Sense marble in the temple to the south without entering it.",
+      "evidence": [
+        {
+          "startUid": "u2431",
+          "endUid": "u2438",
+          "quote": "DM: So—so mostly you get the sense of just kind of sandstone all around you, and you can feel you know the the care that's been put into some of the shaping of the buildings and the fountain and things like that. Um, you—you do also sense, in the direction of the temple, um, marble, which is not usual for the area. Must have been... Pretty much due south of where you are—exactly where you are now, a fairly substantial like statue-size quantity of marble."
+        },
+        {
+          "startUid": "u2439",
+          "endUid": "u2439",
+          "quote": "DM: You also sense..."
+        },
+        {
+          "startUid": "u2440",
+          "endUid": "u2440",
+          "quote": "Unknown: Anything else?"
+        },
+        {
+          "startUid": "u2441",
+          "endUid": "u2444",
+          "quote": "DM: There's not actually a lot else that you detect. It seems like most of what's here is kind of work in the natural stone. There's not like a cache of gemstones anywhere or—unless I'm pretty sure I found everything in my notes. You know, there are sort of faint pings of like, you know, silver in a few directions sort of towards the tower, towards the dormitories, but it feels faint. It's not a huge quantity."
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p11",
+      "mode": "remote"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2431",
+        "endUid": "u2444"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Sense silver near the tower and dormitories without entering them.",
+      "evidence": [
+        {
+          "startUid": "u2431",
+          "endUid": "u2438",
+          "quote": "DM: So—so mostly you get the sense of just kind of sandstone all around you, and you can feel you know the the care that's been put into some of the shaping of the buildings and the fountain and things like that. Um, you—you do also sense, in the direction of the temple, um, marble, which is not usual for the area. Must have been... Pretty much due south of where you are—exactly where you are now, a fairly substantial like statue-size quantity of marble."
+        },
+        {
+          "startUid": "u2439",
+          "endUid": "u2439",
+          "quote": "DM: You also sense..."
+        },
+        {
+          "startUid": "u2440",
+          "endUid": "u2440",
+          "quote": "Unknown: Anything else?"
+        },
+        {
+          "startUid": "u2441",
+          "endUid": "u2444",
+          "quote": "DM: There's not actually a lot else that you detect. It seems like most of what's here is kind of work in the natural stone. There's not like a cache of gemstones anywhere or—unless I'm pretty sure I found everything in my notes. You know, there are sort of faint pings of like, you know, silver in a few directions sort of towards the tower, towards the dormitories, but it feels faint. It's not a huge quantity."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p11",
+      "mode": "remote",
+      "note": "The silver is distributed among these buildings; the passage does not resolve an exact room."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2498",
+        "endUid": "u2503"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Pass into a second small plain room.",
+      "evidence": [
+        {
+          "startUid": "u2498",
+          "endUid": "u2503",
+          "quote": "DM: Yeah. The next room is a smaller room, plain, unfurnished, a—a door with faded writing and sort of painted decorations and and writing that has faded to illegibility um, but it seems like the whole wall was once painted. So you've gone, you went in this way, then you turned—you turn left and went through the door, and now you're going back sort of like towards the back of the building. Um, nothing in this room now."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2507",
+        "endUid": "u2534"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Step through into the dark corridor and experience Bhishma’s flight in its images.",
+      "evidence": [
+        {
+          "startUid": "u2507",
+          "endUid": "u2513",
+          "quote": "DM: You step into—step through the door, and everything fades to darkness. The hallway is dark, everything is dark, and even those of you with dark vision cannot see anything ahead, until a sort of faint light begins to glow from the walls, illuminating a scene painted on the wall sort of just to your right—so down the—turning right as you enter the corridor, down the corridor. It's faded in places, but still—still intricately detailed and and done by a master artist, and it shows a young woman, um..."
+        },
+        {
+          "startUid": "u2514",
+          "endUid": "u2519",
+          "quote": "DM: Kind of in a, you know, like that's a scene obviously painted to center on her, but giving also attention to the great mass of people that are following behind her, some on horses, some on foot, livestock with them, pulling carts loaded with just like the materials of home. This seems like a large group of of people taking their worldly possessions with them. And behind them sort of the painting kind of fades into this dark, roiling, shadowy mass."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2526",
+          "quote": "DM: You feel, as you look at it, the wind in your hair, the hot desert air, the fear of what you've left behind, the cold ache of fleeing into the unknown and abandoning your home. And you sense a choice: to continue down this hallway, continue on the story of the woman you now realize is Bhishma, and be pulled along—to what end is unclear—or to turn back."
+        },
+        {
+          "startUid": "u2527",
+          "endUid": "u2527",
+          "quote": "Kenzo: Well, if we're channeling our inner Wellby, there's not much of a choice here."
+        },
+        {
+          "startUid": "u2528",
+          "endUid": "u2529",
+          "quote": "Seeker: To the senses of a just an especially vivid sort of magically enhanced mural?"
+        },
+        {
+          "startUid": "u2530",
+          "endUid": "u2534",
+          "quote": "DM: Almost—almost like a memory. A mural, yes, but also a memory, like—you can feel the wind in your hair. You can remember the feeling, that sort of ache of leaving your home and fleeing. It's not just visual stimuli."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "note": "The bodies remain in the monastery while the historical experience unfolds."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2555",
+        "endUid": "u2562"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Turn back out of the initiation passage.",
+      "evidence": [
+        {
+          "startUid": "u2555",
+          "endUid": "u2555",
+          "quote": "Wellby: I think—I think Wellby's gonna turn around. I think he's gonna say, like, “You know, I've been uncomfortable ever since we came through that door, because I feel like I just kind of surfed in behind you, Kenzo, and like I don't—like, I'm not a devotee of...”"
+        },
+        {
+          "startUid": "u2556",
+          "endUid": "u2556",
+          "quote": "Kenzo: [garbled]."
+        },
+        {
+          "startUid": "u2557",
+          "endUid": "u2557",
+          "quote": "Delwath: Yeah, Delwath is gonna go with Wellby."
+        },
+        {
+          "startUid": "u2558",
+          "endUid": "u2558",
+          "quote": "Wellby: “I went into someone's house, and like I'm using the bathroom, and they're not even home. Like, this is just just you know...”"
+        },
+        {
+          "startUid": "u2559",
+          "endUid": "u2559",
+          "quote": "Kenzo: Watch."
+        },
+        {
+          "startUid": "u2560",
+          "endUid": "u2560",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u2561",
+          "endUid": "u2561",
+          "quote": "DM: Ma Seeker, what are you gonna do?"
+        },
+        {
+          "startUid": "u2562",
+          "endUid": "u2562",
+          "quote": "Seeker: Oh, I'm going."
+        }
+      ],
+      "from": "p13",
+      "to": null,
+      "completion": "underway",
+      "note": "Their exact stopping point is not specified; later talk proposes a reunion but does not play it."
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u2625",
+        "endUid": "u2644"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Experience the flight through mountains and the divided people at a wide river.",
+      "evidence": [
+        {
+          "startUid": "u2625",
+          "endUid": "u2629",
+          "quote": "DM: So as you continue down the hall, your companions turning back, you feel dragged along as if you are walking against your will. And the scene begins to change slightly. Now, rather than the dark mass behind you, you're passing through hostile terrain."
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2635",
+          "quote": "DM: The feeling of fear, the people coming to you for—for aid and comfort, pride in your brother being the hero, leading the charge against hob goblins cutting a path through the mountains to the safety on the other side. And coming to a wide, slow river, defensible—release—relief, the feel of wet earth beneath your feet after months traveling through dry, dusty land. The river valley, a place that could be home."
+        },
+        {
+          "startUid": "u2636",
+          "endUid": "u2644",
+          "quote": "DM: But tinged with sadness, as the next scene show is the mass of people divided, some following you, some turning north, following the river to where it may lead, who knows. And while you can taste the—the dampness in the air and imagine the the sheep grazing and the horses spreading across these valleys, the split is painful still. You pass through another brief moment of darkness."
+        }
+      ],
+      "place": "p17",
+      "observerPlace": "p13",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l23",
+      "type": "observation",
+      "source": {
+        "startUid": "u2659",
+        "endUid": "u2704"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Experience the devastated valley, Jeevali’s rain, and Bhishma’s sacrifice.",
+      "evidence": [
+        {
+          "startUid": "u2659",
+          "endUid": "u2664",
+          "quote": "DM: And you're riding west on horseback, spreading out, um, finding that the river itself is only a very narrow strip of fertile ground, and all around the land is ash. Um, riding further, coming to an empty river valley. The despair as the initial feeling of hope, um, turns to panic, the people questioning you, the taste of dust in your mouth, choking winds and ash blowing from the south. The sun disappearing for weeks at a time, the cold, the dark, the hunger pangs in your belly, the parched dryness in your throat."
+        },
+        {
+          "startUid": "u2665",
+          "endUid": "u2669",
+          "quote": "DM: The children crying the fourth day after which the sun has not risen. The ash storms that that rise and blow across the land, bringing famine and disease, people dying. And you sense here you have another opportunity to turn back, which I presume neither of you take."
+        },
+        {
+          "startUid": "u2670",
+          "endUid": "u2677",
+          "quote": "DM: And then standing at a place you feel in your heart is near where you are now. Then, as now, a dry river with no no water, clouds of dust, without even the perhaps harsh at times, but still sometimes beautiful colors of the desert sandstone. Um, just barren grey ash everywhere. Um, the doubt in your heart as people turn to you, and you have no answers for them."
+        },
+        {
+          "startUid": "u2678",
+          "endUid": "u2683",
+          "quote": "DM: And then a miracle, the greatest miracle of your life. Jeevali’s tears, the rain comes. You are showered in praise, and yet all you can feel is shame and anger as the rains come and the ash is washed away and the land is cleansed and healed, and yet the goddess is dead, gone, nevermore to grace the land. As you rage and cry, the people rejoice and celebrate you and say you have saved them. And the land is healed and whole, and life goes on, except for the life of the goddess, who should be eternal and bring her blessings forever. And the scene fades again to darkness."
+        },
+        {
+          "startUid": "u2684",
+          "endUid": "u2692",
+          "quote": "DM: And the lingering shame of that moment stays with you as you step forward again, again drawn against your will to a decision. Beginning construction of a monument, turning to pray, asking for anything, any way to trade your life for hers. Not caring that her brother Aagir has commanded your brother to slay in his name, not caring that the people are rejoicing as blood is shed and slaughter after slaughter after slaughter happens in Aagir’s name to take this land that your goddess has given her life for, so that only the Dunmari will benefit from her sacrifice and no one else."
+        },
+        {
+          "startUid": "u2693",
+          "endUid": "u2700",
+          "quote": "DM: Turning to pray, turning away food, turning away water. The ache—the parched—your parched throat, the hunger, the pain, the agony as your life begins to fade away. As you encapsulate all of your belief in every moment of your life in the strength of this goddess, and ask whatever powers are out there to give it to her, to bring her back."
+        },
+        {
+          "startUid": "u2701",
+          "endUid": "u2704",
+          "quote": "DM: And you sense you have one last moment to open your eyes and step back. And then a question posed to you: “Will you give your life for Jeevali?”"
+        }
+      ],
+      "place": "p18",
+      "observerPlace": "p13",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l24",
+      "type": "presence",
+      "source": {
+        "startUid": "u2765",
+        "endUid": "u2813"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Return to awareness in the corridor; Seeker sees gray while revived Kenzo sees colors and the opening cloister.",
+      "evidence": [
+        {
+          "startUid": "u2765",
+          "endUid": "u2765",
+          "quote": "Seeker: I forced my eyes open."
+        },
+        {
+          "startUid": "u2766",
+          "endUid": "u2766",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u2767",
+          "endUid": "u2773",
+          "quote": "DM: You see the lights come on, and you are standing in a plain hallway, Kenzo’s apparently lifeless body in front of you. No murals, no paintings. That—nearly at the end of a corridor, an archway to it—to a door—to, like an open room in front of you."
+        },
+        {
+          "startUid": "u2774",
+          "endUid": "u2774",
+          "quote": "Seeker: Is he dead?"
+        },
+        {
+          "startUid": "u2775",
+          "endUid": "u2775",
+          "quote": "DM: He seems to be dead."
+        },
+        {
+          "startUid": "u2776",
+          "endUid": "u2776",
+          "quote": "Seeker: I am..."
+        },
+        {
+          "startUid": "u2777",
+          "endUid": "u2777",
+          "quote": "DM: Sending you a message."
+        },
+        {
+          "startUid": "u2778",
+          "endUid": "u2780",
+          "quote": "Kenzo: Funny it's like that, like it's like, “Okay, well, I guess I'm not coming to any more.” This is exciting. What—surprised you went that far with it, Eric slash Seeker."
+        },
+        {
+          "startUid": "u2781",
+          "endUid": "u2783",
+          "quote": "Seeker: Seeker immediately regrets not getting to do whatever Kenzo’s mind is doing right now, because I'm like, he's not really dead. He's like traveling somewhere, and I don't get to go. I'm—I start, like—like slapping your cheek a little bit. He's..."
+        },
+        {
+          "startUid": "u2784",
+          "endUid": "u2784",
+          "quote": "DM: He's, as far as you can tell that like."
+        },
+        {
+          "startUid": "u2785",
+          "endUid": "u2785",
+          "quote": "Seeker: His heart's stopped?"
+        },
+        {
+          "startUid": "u2786",
+          "endUid": "u2786",
+          "quote": "DM: No breathing. His heart’s stopped. He's not breathing."
+        },
+        {
+          "startUid": "u2787",
+          "endUid": "u2787",
+          "quote": "Seeker: I cast Healing Word. Oh, I'm out of—I cast first-level Healing Word."
+        },
+        {
+          "startUid": "u2788",
+          "endUid": "u2789",
+          "quote": "DM: It doesn't do anything. He's—your healing energy is useless."
+        },
+        {
+          "startUid": "u2790",
+          "endUid": "u2795",
+          "quote": "Seeker: Oh no. Kenzo, what did you do? I better run back and get the other guys, I guess. Or maybe... Oh, is there an initiation ritual that I know of where that would make you make it seem like you died?"
+        },
+        {
+          "startUid": "u2796",
+          "endUid": "u2800",
+          "quote": "DM: Make a Religion check. Um, I mean, you're not—you're not really an expert in secret societies."
+        },
+        {
+          "startUid": "u2801",
+          "endUid": "u2801",
+          "quote": "DM: As your sort of standing here pondering this, you hear a deep gasp from Kenzo’s body."
+        },
+        {
+          "startUid": "u2802",
+          "endUid": "u2803",
+          "quote": "Seeker: Whoa. Kenzo."
+        },
+        {
+          "startUid": "u2804",
+          "endUid": "u2804",
+          "quote": "Kenzo: What happens, Tim?"
+        },
+        {
+          "startUid": "u2805",
+          "endUid": "u2809",
+          "quote": "DM: You are at one hit point. Use—you stand up, and around you, you see, um, the same room that Seeker sees as bare gray, bare stone, you see painted in bright colors. Um, a, like—a brightly colored arch way painted in flowers, leading into this pentagonal structure. So you're now right going back to the Monastery Bhishma, you're like right right here."
+        },
+        {
+          "startUid": "u2810",
+          "endUid": "u2813",
+          "quote": "DM: And you're looking into a entry way to what looks like a—like a cloister. There's like a sort of walkway—a covered walkway around this central structure, which is open to the sky. And, well, to you, Seeker, looks like gray dark and grey and just kind of everything's flat and unpainted, to you, Kenzo, it's decorated with these brilliant paintings again of the life of Bhishma. There's a fountain flowing in the middle with clear water, and like everywhere you turn, you can see, ah..."
+        }
+      ],
+      "place": "p13"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u2826",
+        "endUid": "u2871"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Walk around the inner pentagonal cloister.",
+      "evidence": [
+        {
+          "startUid": "u2826",
+          "endUid": "u2826",
+          "quote": "Kenzo: Kenzo's just like dazed. “Let's walk.”"
+        },
+        {
+          "startUid": "u2827",
+          "endUid": "u2828",
+          "quote": "Seeker: Okay, okay. You sure you're okay?"
+        },
+        {
+          "startUid": "u2829",
+          "endUid": "u2831",
+          "quote": "Kenzo: Never felt better. Other than almost being dead. So Kenzo’s like—you're—I mean, you're—you're a dwarf, so you're much smaller—that Kenzo's like kind of leaning on you a little bit. So do you have any more Healing Word?"
+        },
+        {
+          "startUid": "u2832",
+          "endUid": "u2832",
+          "quote": "Seeker: Man, I..."
+        },
+        {
+          "startUid": "u2833",
+          "endUid": "u2834",
+          "quote": "Seeker: Wish I could have seen it. Yeah I do—I do. I'll get that to you in a second here."
+        },
+        {
+          "startUid": "u2835",
+          "endUid": "u2835",
+          "quote": "Kenzo: Like it's like a five more, yeah, yeah."
+        },
+        {
+          "startUid": "u2836",
+          "endUid": "u2836",
+          "quote": "DM: You—I mean, although you are seeing the world in a new way, you feel weak. Like, yeah, like, things are rough."
+        },
+        {
+          "startUid": "u2837",
+          "endUid": "u2837",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u2838",
+          "endUid": "u2838",
+          "quote": "DM: You know, you were, as far as you can tell, literally dead."
+        },
+        {
+          "startUid": "u2839",
+          "endUid": "u2839",
+          "quote": "Kenzo: Yeah, yes. This is, by the way, at least the second time that's happened. Remember I died that other time?"
+        },
+        {
+          "startUid": "u2840",
+          "endUid": "u2840",
+          "quote": "DM: And you didn’t actually die then. You were just unconscious."
+        },
+        {
+          "startUid": "u2841",
+          "endUid": "u2842",
+          "quote": "Kenzo: Yeah, but then remember like I did a whole like I came back like I woke up and I meditated, and I was like, you know it's like—what—Kenzo is like totally like, you know, like."
+        },
+        {
+          "startUid": "u2843",
+          "endUid": "u2843",
+          "quote": "Seeker: You're saying..."
+        },
+        {
+          "startUid": "u2844",
+          "endUid": "u2844",
+          "quote": "Kenzo: This is kind of my thing. It's like kind of kind of becoming my thing is to like die and come back."
+        },
+        {
+          "startUid": "u2845",
+          "endUid": "u2846",
+          "quote": "Seeker: Seeker is like so jealous, right? So—so, yeah, what—what do you see right now?"
+        },
+        {
+          "startUid": "u2847",
+          "endUid": "u2847",
+          "quote": "Kenzo: You don't see it?"
+        },
+        {
+          "startUid": "u2848",
+          "endUid": "u2848",
+          "quote": "Seeker: I mean, this..."
+        },
+        {
+          "startUid": "u2849",
+          "endUid": "u2849",
+          "quote": "Unknown: Is the paintings."
+        },
+        {
+          "startUid": "u2850",
+          "endUid": "u2850",
+          "quote": "Seeker: Do you—do you have to like stay here and live here? No?"
+        },
+        {
+          "startUid": "u2851",
+          "endUid": "u2851",
+          "quote": "Kenzo: No."
+        },
+        {
+          "startUid": "u2852",
+          "endUid": "u2853",
+          "quote": "Seeker: No. I mean you're—you've given your life to Jeevali, right?"
+        },
+        {
+          "startUid": "u2854",
+          "endUid": "u2854",
+          "quote": "Kenzo: I think I already had."
+        },
+        {
+          "startUid": "u2855",
+          "endUid": "u2855",
+          "quote": "Seeker: Because you were initiated once before?"
+        },
+        {
+          "startUid": "u2856",
+          "endUid": "u2856",
+          "quote": "Kenzo: Not like this."
+        },
+        {
+          "startUid": "u2857",
+          "endUid": "u2857",
+          "quote": "Unknown: Huh."
+        },
+        {
+          "startUid": "u2858",
+          "endUid": "u2861",
+          "quote": "Kenzo: But I think for me, this has always been the path. Let's walk. Tim, what else does it look like? What else do I see?"
+        },
+        {
+          "startUid": "u2862",
+          "endUid": "u2871",
+          "quote": "DM: So as you're walking along, you also now start to see. So there's you know the sort of paintings are turning from—as you sort of walk around this pentagonal structure, it's not just Bhishma. You start to see what seemed to you to be stories and myths of the five divine siblings. So you—you recognize, most obviously, the sort of stories of Laka, the sort of wise, the—the—the, you know, I'm—knowing one, the student of metaphysics and and history and um, you know. But all the gods are represented, and you see—these are all—I mean, they're all common myths, right, so you..."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "note": "The same physical cloister appears decorated and alive to Kenzo but empty to Seeker."
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u3100",
+        "endUid": "u3105"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The DM confirms Kenzo’s soul crossed into the Land of the Dead and returned during the initiation.",
+      "evidence": [
+        {
+          "startUid": "u3100",
+          "endUid": "u3101",
+          "quote": "DM: So many—you've had—you had a near-death experience, I would say right right."
+        },
+        {
+          "startUid": "u3102",
+          "endUid": "u3102",
+          "quote": "Kenzo: But this time I actually died."
+        },
+        {
+          "startUid": "u3103",
+          "endUid": "u3103",
+          "quote": "DM: You actually crossed over into the land of the dead and were brought back, yes."
+        },
+        {
+          "startUid": "u3104",
+          "endUid": "u3104",
+          "quote": "Kenzo: Wow, wait. So when I—when I—when Kenzo like had his Lakan initiation he didn't—wasn't the same thing, that he also like died and come back?"
+        },
+        {
+          "startUid": "u3105",
+          "endUid": "u3105",
+          "quote": "DM: No."
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p19",
+          "reading": "Cross into the Land of the Dead and return; bodily relocation is not asserted."
+        }
+      ],
+      "note": "Retrospective confirmation of the u2751–u2809 event, not a new journey after prayer."
+    }
+  ]
+}

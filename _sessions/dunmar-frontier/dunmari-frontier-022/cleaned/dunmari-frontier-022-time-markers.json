@@ -1,0 +1,354 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-022",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+    "sessionYamlSha256": "c12bd6e3b20255baaa232849d44f6c216a67359299bd6da40408249c0ac8f674",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-transcript.md",
+    "transcriptSha256": "1b7cb3d94f0c5fd3c98e94906f3d933c6392dadfe19295b30963e4e898f27221",
+    "yamlDates": {
+      "start": "1748-05-11",
+      "end": "1748-05-11"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0036"
+      },
+      "reading": "The party is resting at midday in the canyon camp.",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0036",
+          "quote": "DM: This should be easy. So it's mid day, the heat of the sun. You are contemplating your next move as you consider approaching and exploring this abandoned monastery. So, as you pass around and examine your notes and maps, why don't we have everybody just quickly describe what their characters doing?"
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "Explicit DM clock or daypart."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0701",
+        "endUid": "u0704"
+      },
+      "reading": "The five-mile hike ends at the cliff-base camp about 14:00 after roughly ninety minutes.",
+      "evidence": [
+        {
+          "startUid": "u0701",
+          "endUid": "u0704",
+          "quote": "DM: So, so you travel up the up the riverbed, and it's hot, drudgy work through this sort of soft sand, you know, occasionally being able to cling to the edge of the of the canyon wall, where, but you can get a bit of shade and relief, but with the sun directly overhead now there's almost no shade, and so it's it's just hot and tiring. Just hiking about this last five miles takes you takes you maybe an hour and a half, so it's about two o'clock when you arrive at the base of the cliffs and make your camp and, as you..."
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "precision": "approximate",
+        "basis": "Explicit DM clock or daypart."
+      },
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated completed hike."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0760",
+        "endUid": "u0764"
+      },
+      "reading": "The party heads up the monastery slope at about 14:30.",
+      "evidence": [
+        {
+          "startUid": "u0760",
+          "endUid": "u0764",
+          "quote": "DM: So you head up the slope. The—so it's now about 230 and the sun is now getting low enough in the sky that some of the you know animal life begins to stir again and um, not that there's a lot of animal life here, but you know see more birds in the sky, you see, you know just a little bit more activity as as the worst part of the heat of the day begins to pass. But most things won't be out for another three to four hours."
+        }
+      ],
+      "time": {
+        "clock": "14:30",
+        "precision": "approximate",
+        "basis": "Explicit DM clock or daypart."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2507",
+        "endUid": "u2534"
+      },
+      "reading": "The corridor draws the party into Bhishma’s historical flight; this is a separate visionary frame.",
+      "evidence": [
+        {
+          "startUid": "u2507",
+          "endUid": "u2513",
+          "quote": "DM: You step into—step through the door, and everything fades to darkness. The hallway is dark, everything is dark, and even those of you with dark vision cannot see anything ahead, until a sort of faint light begins to glow from the walls, illuminating a scene painted on the wall sort of just to your right—so down the—turning right as you enter the corridor, down the corridor. It's faded in places, but still—still intricately detailed and and done by a master artist, and it shows a young woman, um..."
+        },
+        {
+          "startUid": "u2514",
+          "endUid": "u2519",
+          "quote": "DM: Kind of in a, you know, like that's a scene obviously painted to center on her, but giving also attention to the great mass of people that are following behind her, some on horses, some on foot, livestock with them, pulling carts loaded with just like the materials of home. This seems like a large group of of people taking their worldly possessions with them. And behind them sort of the painting kind of fades into this dark, roiling, shadowy mass."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2526",
+          "quote": "DM: You feel, as you look at it, the wind in your hair, the hot desert air, the fear of what you've left behind, the cold ache of fleeing into the unknown and abandoning your home. And you sense a choice: to continue down this hallway, continue on the story of the woman you now realize is Bhishma, and be pulled along—to what end is unclear—or to turn back."
+        },
+        {
+          "startUid": "u2527",
+          "endUid": "u2527",
+          "quote": "Kenzo: Well, if we're channeling our inner Wellby, there's not much of a choice here."
+        },
+        {
+          "startUid": "u2528",
+          "endUid": "u2529",
+          "quote": "Seeker: To the senses of a just an especially vivid sort of magically enhanced mural?"
+        },
+        {
+          "startUid": "u2530",
+          "endUid": "u2534",
+          "quote": "DM: Almost—almost like a memory. A mural, yes, but also a memory, like—you can feel the wind in your hair. You can remember the feeling, that sort of ache of leaving your home and fleeing. It's not just visual stimuli."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2653",
+        "endUid": "u2658"
+      },
+      "reading": "Kenzo and Seeker briefly regain awareness of their breathing in the dark corridor.",
+      "evidence": [
+        {
+          "startUid": "u2653",
+          "endUid": "u2658",
+          "quote": "DM: Well, we're getting to that. Um, turning now after the brief period of darkness, the next scene. And for a moment you sort of come back to yourselves, and everything is still black and you cannot see each other, but you can hear the sounds of your breathing again. And the sort of wind of the of the desert air, the rustling of grass, the sound of the water of the river lapping on the shores of its bank fades, until you are drawn forward again, unable to turn back."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2659",
+        "endUid": "u2704"
+      },
+      "reading": "Kenzo and Seeker enter the next historical scenes, from the devastated valley to Bhishma’s sacrifice.",
+      "evidence": [
+        {
+          "startUid": "u2659",
+          "endUid": "u2664",
+          "quote": "DM: And you're riding west on horseback, spreading out, um, finding that the river itself is only a very narrow strip of fertile ground, and all around the land is ash. Um, riding further, coming to an empty river valley. The despair as the initial feeling of hope, um, turns to panic, the people questioning you, the taste of dust in your mouth, choking winds and ash blowing from the south. The sun disappearing for weeks at a time, the cold, the dark, the hunger pangs in your belly, the parched dryness in your throat."
+        },
+        {
+          "startUid": "u2665",
+          "endUid": "u2669",
+          "quote": "DM: The children crying the fourth day after which the sun has not risen. The ash storms that that rise and blow across the land, bringing famine and disease, people dying. And you sense here you have another opportunity to turn back, which I presume neither of you take."
+        },
+        {
+          "startUid": "u2670",
+          "endUid": "u2677",
+          "quote": "DM: And then standing at a place you feel in your heart is near where you are now. Then, as now, a dry river with no no water, clouds of dust, without even the perhaps harsh at times, but still sometimes beautiful colors of the desert sandstone. Um, just barren grey ash everywhere. Um, the doubt in your heart as people turn to you, and you have no answers for them."
+        },
+        {
+          "startUid": "u2678",
+          "endUid": "u2683",
+          "quote": "DM: And then a miracle, the greatest miracle of your life. Jeevali’s tears, the rain comes. You are showered in praise, and yet all you can feel is shame and anger as the rains come and the ash is washed away and the land is cleansed and healed, and yet the goddess is dead, gone, nevermore to grace the land. As you rage and cry, the people rejoice and celebrate you and say you have saved them. And the land is healed and whole, and life goes on, except for the life of the goddess, who should be eternal and bring her blessings forever. And the scene fades again to darkness."
+        },
+        {
+          "startUid": "u2684",
+          "endUid": "u2692",
+          "quote": "DM: And the lingering shame of that moment stays with you as you step forward again, again drawn against your will to a decision. Beginning construction of a monument, turning to pray, asking for anything, any way to trade your life for hers. Not caring that her brother Aagir has commanded your brother to slay in his name, not caring that the people are rejoicing as blood is shed and slaughter after slaughter after slaughter happens in Aagir’s name to take this land that your goddess has given her life for, so that only the Dunmari will benefit from her sacrifice and no one else."
+        },
+        {
+          "startUid": "u2693",
+          "endUid": "u2700",
+          "quote": "DM: Turning to pray, turning away food, turning away water. The ache—the parched—your parched throat, the hunger, the pain, the agony as your life begins to fade away. As you encapsulate all of your belief in every moment of your life in the strength of this goddess, and ask whatever powers are out there to give it to her, to bring her back."
+        },
+        {
+          "startUid": "u2701",
+          "endUid": "u2704",
+          "quote": "DM: And you sense you have one last moment to open your eyes and step back. And then a question posed to you: “Will you give your life for Jeevali?”"
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "note": "Months, weeks and the fourth sunless day describe the historical experience, not elapsed adventure days."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2765",
+        "endUid": "u2773"
+      },
+      "reading": "Seeker opens his eyes in the corridor beside the unresponsive Kenzo.",
+      "evidence": [
+        {
+          "startUid": "u2765",
+          "endUid": "u2765",
+          "quote": "Seeker: I forced my eyes open."
+        },
+        {
+          "startUid": "u2766",
+          "endUid": "u2766",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u2767",
+          "endUid": "u2773",
+          "quote": "DM: You see the lights come on, and you are standing in a plain hallway, Kenzo’s apparently lifeless body in front of you. No murals, no paintings. That—nearly at the end of a corridor, an archway to it—to a door—to, like an open room in front of you."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2801",
+        "endUid": "u2813"
+      },
+      "reading": "Kenzo returns gasping to the corridor and perceives the cloister in color.",
+      "evidence": [
+        {
+          "startUid": "u2801",
+          "endUid": "u2801",
+          "quote": "DM: As your sort of standing here pondering this, you hear a deep gasp from Kenzo’s body."
+        },
+        {
+          "startUid": "u2802",
+          "endUid": "u2803",
+          "quote": "Seeker: Whoa. Kenzo."
+        },
+        {
+          "startUid": "u2804",
+          "endUid": "u2804",
+          "quote": "Kenzo: What happens, Tim?"
+        },
+        {
+          "startUid": "u2805",
+          "endUid": "u2809",
+          "quote": "DM: You are at one hit point. Use—you stand up, and around you, you see, um, the same room that Seeker sees as bare gray, bare stone, you see painted in bright colors. Um, a, like—a brightly colored arch way painted in flowers, leading into this pentagonal structure. So you're now right going back to the Monastery Bhishma, you're like right right here."
+        },
+        {
+          "startUid": "u2810",
+          "endUid": "u2813",
+          "quote": "DM: And you're looking into a entry way to what looks like a—like a cloister. There's like a sort of walkway—a covered walkway around this central structure, which is open to the sky. And, well, to you, Seeker, looks like gray dark and grey and just kind of everything's flat and unpainted, to you, Kenzo, it's decorated with these brilliant paintings again of the life of Bhishma. There's a fountain flowing in the middle with clear water, and like everywhere you turn, you can see, ah..."
+        },
+        {
+          "startUid": "u3100",
+          "endUid": "u3101",
+          "quote": "DM: So many—you've had—you had a near-death experience, I would say right right."
+        },
+        {
+          "startUid": "u3102",
+          "endUid": "u3102",
+          "quote": "Kenzo: But this time I actually died."
+        },
+        {
+          "startUid": "u3103",
+          "endUid": "u3103",
+          "quote": "DM: You actually crossed over into the land of the dead and were brought back, yes."
+        },
+        {
+          "startUid": "u3104",
+          "endUid": "u3104",
+          "quote": "Kenzo: Wow, wait. So when I—when I—when Kenzo like had his Lakan initiation he didn't—wasn't the same thing, that he also like died and come back?"
+        },
+        {
+          "startUid": "u3105",
+          "endUid": "u3105",
+          "quote": "DM: No."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t05"
+        }
+      ],
+      "note": "The DM later confirms Kenzo actually crossed into the Land of the Dead and returned; no elapsed interval there is specified."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u3011",
+        "endUid": "u3014"
+      },
+      "reading": "The breeze builds over five to ten minutes while Kenzo prays.",
+      "evidence": [
+        {
+          "startUid": "u3011",
+          "endUid": "u3014",
+          "quote": "DM: And this continues for maybe five or 10 minutes as Kenzo remains kneeling in prayer, and the pitch of the wind almost seems to be singing a song as it—as it moves through this. And Kenzo, what—what you are seeing is not—is not wind picking up sand but um..."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "duration": {
+        "min": 5,
+        "max": 10,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit narration of the breeze building during prayer."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute date is spoken. The single-day span is conditional on YAML’s 1748-05-11 start.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "Current play continues from midday through the monastery exploration and prayer, without an adventure-day transition. The opening six-day journey is explicitly recap; the narrated centuries-old founding and its long intervals are initiation visions. Postgame discussion adds no subsequent played interval."
+  }
+}
