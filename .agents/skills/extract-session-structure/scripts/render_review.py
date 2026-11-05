@@ -77,39 +77,72 @@ def read_sources(manifest, input_dir, time_path):
     return bundle, paths, sources, fingerprints
 
 
-def speaking_time(bundle, segments):
-    artifact = bundle['data']['transcriptProcessing']['artifacts'].get('cleaned')
+def exclusive_time(intervals):
+    """Count each millisecond once, assigning overlaps to the first source interval."""
+    events = {}
+    for order, (category, begin, finish) in enumerate(intervals):
+        if begin == finish:
+            continue
+        events.setdefault(begin, []).append((order, category))
+        events.setdefault(finish, []).append((order, None))
+    totals = dict.fromkeys(CLASSES, 0)
+    active = {}
+    previous = 0
+    for point in sorted(events):
+        if active:
+            totals[active[min(active)]] += point - previous
+        for order, category in events[point]:
+            if category is None:
+                active.pop(order)
+            else:
+                active[order] = category
+        previous = point
+    return totals
+
+
+def recording_time(bundle, segments):
+    result = dict(recording=None, elapsed=None, speaking=None, notes=[])
+    artifacts = bundle['data']['transcriptProcessing']['artifacts']
+    artifact = artifacts.get('cleaned') or artifacts.get('prepared')
     if not artifact:
-        return None, 0
+        result['notes'].append('No registered cleaned or prepared UID transcript with timestamps is available.')
+        return result
     raw = (bundle['root'] / artifact['path']).read_bytes()
     require(hashlib.sha256(raw).hexdigest() == bundle['fingerprints'][artifact['path']],
             'Timed transcript changed during review')
-    units = parse_units(raw.decode())
-    totals = dict.fromkeys(CLASSES, 0)
+    try:
+        units = parse_units(raw.decode())
+    except ValueError as error:
+        result['notes'].append(f'Invalid or missing UID timestamps: {error}.')
+        return result
+    require({unit['uid']: i for i, unit in enumerate(units)} == bundle['positions'],
+            'Timed UID source differs from the polished transcript coverage')
+    bounds = [tuple(round(seconds(v) * 1000) for v in unit['timing'].split('-')) for unit in units]
     start_group = {g['startUid'] for g in bundle['groups']}
     end_group = {g['endUid'] for g in bundle['groups']}
     pos = bundle['positions']
     next_pos = 0
-    intervals = []
+    speech, blocks = [], []
     for segment in segments:
         category = segment['category']
         start, end = (segment['source'][k] for k in ('startUid', 'endUid'))
-        require(category in totals and start in start_group and end in end_group,
+        require(category in CLASSES and start in start_group and end in end_group,
                 f"Invalid classification or boundary at {segment['id']}")
         require(pos[start] == next_pos and pos[end] >= next_pos,
                 f"Segment gap or overlap at {segment['id']}")
-        for unit in units[next_pos:pos[end] + 1]:
-            begin, finish = (round(seconds(v) * 1000) for v in unit['timing'].split('-'))
-            intervals.append((begin, finish))
-            totals[category] += finish - begin
+        block = bounds[next_pos:pos[end] + 1]
+        speech.extend((category, begin, finish) for begin, finish in block)
+        blocks.append((category, min(b for b, _ in block), max(e for _, e in block)))
         next_pos = pos[end] + 1
     require(next_pos == len(units), 'Segments do not cover all timed speech')
-    covered = 0
-    prior_end = 0
-    for begin, finish in sorted(intervals):
-        covered += max(0, finish - max(begin, prior_end))
-        prior_end = max(prior_end, finish)
-    return totals, sum(totals.values()) - covered
+    if any(bounds[i][0] < bounds[i - 1][0] for i in range(1, len(bounds))):
+        result['notes'].append('Timestamp starts run backwards; clock resets or reordered sources make recording and category durations ambiguous.')
+        return result
+    result.update(start=min(b for b, _ in bounds), end=max(e for _, e in bounds),
+                  elapsed=exclusive_time(blocks), speaking=exclusive_time(speech))
+    result['recording'] = result['end'] - result['start']
+    result['overlap'] = sum(e - b for _, b, e in speech) - sum(result['speaking'].values())
+    return result
 
 
 def check_rows(edit, sources, bundle):
@@ -215,16 +248,13 @@ def marker_ids(markers):
     return ', '.join(g[0] if len(g) == 1 else f'{g[0]}–{g[-1]}' for g in groups)
 
 
-def render(bundle, paths, sources, edit, output, totals, overlap):
+def render(bundle, paths, sources, edit, output, timing):
     def link(path, label):
         return f'[{label}]({quote(os.path.relpath(path, output))})'
     data = bundle['data']
     lines = [f"# {data['campaign']} · Session {data['sessionNumber']}", '## Review flags']
     limits = [f"{k} — {v['limitations']}" for k, v in sources.items() if v.get('limitations')]
-    flags = edit['flags'] + limits
-    if totals is None:
-        flags.append('Speaking time is unavailable because the session has no registered timed transcript.')
-    lines.append('\n'.join(f'- {f}' for f in flags) or 'No open issues identified in this review.')
+    lines.append('\n'.join(f'- {f}' for f in edit['flags']) or 'No human action requested.')
     lines.extend(['## In-world time', edit['dates']])
     rows = []
     for row in edit['watches']:
@@ -281,18 +311,32 @@ def render(bundle, paths, sources, edit, output, totals, overlap):
             lines.append(row['opening'])
         lines.append(table(['Round', 'What happened'], list(enumerate(row['rounds'], 1))))
         lines.append(row['ending'])
-    lines.append('## Speaking time')
-    if totals is None:
-        lines.append('No timed utterance data available.')
+    lines.append('## Recording time')
+    if timing['recording'] is None:
+        lines.append('Recording length, segment elapsed time, and speaking time are unavailable.')
     else:
-        total = sum(totals.values())
-        lines.extend([table(['Segment class', 'Speaking time (h:mm:ss)', 'Share'],
-                      [[key.replace('_', ' ').capitalize(), duration(value),
-                        f'{100 * value / total:.1f}%' if total else '—'] for key, value in totals.items()]
-                      + [['**Total**', duration(total), '100%' if total else '—']]),
-                      'Timed transcript utterances, counted once per source ID. Gaps between utterances are excluded.'])
-        if overlap:
-            lines.append(f'Utterances overlap for {overlap / 1000:.1f} seconds of cumulative speech beyond elapsed recording time.')
+        elapsed, speech = timing['elapsed'], timing['speaking']
+        elapsed_total, speech_total = sum(elapsed.values()), sum(speech.values())
+        def share(value, total):
+            return f'{100 * value / total:.1f}%' if total else '—'
+        lines.extend([
+            f"Recording length (transcript timestamp extent): **{duration(timing['recording'])}** "
+            f"({duration(timing['start'])} → {duration(timing['end'])}). Full audio length, including any silence outside these timestamps, is not established.",
+            table(['Segment class', 'Elapsed (h:mm:ss)', 'Elapsed share', 'Speaking (h:mm:ss)', 'Speaking share'],
+                  [[key.replace('_', ' ').capitalize(), duration(elapsed[key]), share(elapsed[key], elapsed_total),
+                    duration(speech[key]), share(speech[key], speech_total)] for key in CLASSES]
+                  + [['**Total**', duration(elapsed_total), share(elapsed_total, elapsed_total),
+                      duration(speech_total), share(speech_total, speech_total)]]),
+            'Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. '
+            'Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. '
+            'Each share uses its own column total.',
+            f"Outside segment spans: **{duration(timing['recording'] - elapsed_total)}** in gaps between blocks."
+        ])
+        if timing['overlap']:
+            lines.append(f"Overlapping utterance timestamps: {timing['overlap'] / 1000:.3f} cumulative seconds counted once.")
+    lines.extend(timing['notes'])
+    if limits:
+        lines.extend(['## Source limitations', '\n'.join(f'- {item}' for item in limits)])
     lines.append('Sources · ' + ' · '.join([link(bundle['source'], 'Transcript'),
                  *[link(paths[k], k.replace('-', ' ').title()) for k in VERSIONS], '[Watch data](time-watches.json)']))
     return '\n\n'.join(lines) + '\n'
@@ -332,14 +376,14 @@ def main():
         edit = json.loads(args.editorial.read_bytes())
         require(edit.get('inputs') == fingerprints, 'Review inputs changed. Inspect them and prepare a new draft.')
         check_rows(edit, sources, bundle)
-        totals, overlap = speaking_time(bundle, sources['segments']['segments'])
+        timing = recording_time(bundle, sources['segments']['segments'])
         watches = {'schemaVersion': '0.1-time-watches', 'sessionYaml': bundle['sessionYaml'],
                    'source': fingerprints['time-markers'],
                    'transcript': {'path': bundle['source'].relative_to(VAULT).as_posix(),
                                   'sha256': bundle['sourceSha256']},
                    'dateAssessment': edit['dates'], 'watches': edit['watches']}
         products = {'time-watches.json': scene_map.encoded(watches),
-                    'structured-data-review.md': render(bundle, paths, sources, edit, output, totals, overlap).encode()}
+                    'structured-data-review.md': render(bundle, paths, sources, edit, output, timing).encode()}
         expected = edit.get('previous', {})
         require(expected.keys() == previous.keys(), 'Missing previous output snapshot')
         changed = []

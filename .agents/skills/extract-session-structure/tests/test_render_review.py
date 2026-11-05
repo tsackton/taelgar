@@ -47,10 +47,11 @@ class ReviewRowsTest(unittest.TestCase):
         return dict(id=ident, type='movement', **{'from': origin}, to=destination,
                     **(dict(completion='arrived', actors=['party']) | extra))
 
-    def render(self):
+    def render(self, timing=None):
         review.check_rows(self.edit, self.sources, self.bundle)
         paths = {key: Path('/fixture') / f'{key}.json' for key in review.VERSIONS}
-        return review.render(self.bundle, paths, self.sources, self.edit, Path('/fixture'), None, 0)
+        timing = timing or dict(recording=None, notes=['No registered timestamp source.'])
+        return review.render(self.bundle, paths, self.sources, self.edit, Path('/fixture'), timing)
 
     def test_df119_unexamined_itinerary_is_rejected(self):
         self.edit['locations'] = [dict(kind='presence', actors=['party'],
@@ -135,6 +136,25 @@ class ReviewRowsTest(unittest.TestCase):
         self.assertIn('Long rest: eight hours passed; it is still afternoon.', result)
         self.assertIn('| Unresolved Feywild time | Dusk → morning (local) |', result)
         self.assertNotIn('startDate', self.edit['watches'][1])
+
+    def test_resolved_context_and_source_limitations_do_not_become_flags(self):
+        context = 't01 is stationary Feywild light; no additional rest is established.'
+        self.edit['dates'] = context
+        self.sources['time-markers']['limitations'] = 'No spoken civil date is available.'
+        result = self.render()
+        flags = result.split('## Review flags\n\n', 1)[1].split('## In-world time', 1)[0]
+        self.assertEqual(flags.strip(), 'No human action requested.')
+        self.assertIn(context, result)
+        self.assertIn('## Source limitations', result)
+        self.assertIn('No spoken civil date is available.', result)
+
+    def test_specific_human_identity_decision_remains_a_review_flag(self):
+        action = 'Decide whether e028 is Count Vashan before merging identities; u1515–u1520 leaves the match uncertain.'
+        self.edit['flags'] = [action]
+        before = copy.deepcopy(self.edit)
+        result = self.render()
+        self.assertIn('## Review flags\n\n- ' + action, result)
+        self.assertEqual(self.edit, before)
 
 
 if __name__ == '__main__':
