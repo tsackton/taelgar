@@ -8,20 +8,20 @@
 
 ## In-world time
 
-1748-04-12 is YAML-only; the transcript establishes late afternoon through about 19:00, with no completed overnight, matching the zero-date-boundary span.
+Play continues on April 12, 1748, the date shared with DF09 in YAML. The transcript moves from the afternoon gate crossing to sunset and a conversation around 7 p.m.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| 1748-04-12 (YAML) | Open | — | **Opening, clock unanchored** · Lock work takes a while; the ongoing outing is described as about six hours old. | t01–t02 |
-| 1748-04-12 (YAML) | Afternoon | stated | **Delwath** · Late-afternoon scouting totals about fifteen minutes, including the three-minute southern lookout. | t03–t06 |
-| 1748-04-12 (YAML) | Afternoon → dusk | stated | Both groups watch and short-rest for one shared hour, reaching sunset and twilight. | t07 |
-| 1748-04-12 (YAML) | Dusk | mixed | Kenzo’s scout reaches twenty minutes, then roughly fifty; Vola’s conversation is about 7 p.m. | t09–t11 |
+| April 12, 1748 | Afternoon | inferred | DF09 ends at the rusty gate after afternoon scouting. Kenzo resumes at the same lock before the late-afternoon lookout. | t01–t02 |
+| April 12, 1748 | Afternoon | stated | **Delwath** · Late-afternoon scouting totals about fifteen minutes, including the three-minute southern lookout. | t03–t06 |
+| April 12, 1748 | Afternoon → dusk | stated | Both groups watch and short-rest for one shared hour, reaching sunset and twilight. | t07 |
+| April 12, 1748 | Dusk | mixed | Kenzo’s scout reaches twenty minutes, then roughly fifty; Vola’s conversation is about 7 p.m. | t09–t11 |
 
 ## Locations
 
 | Location | Present | Markers | Context |
 | --- | --- | --- | --- |
-| Tunnel gate at the dwarven outpost → Underground passage and climbing shaft | Party | l01–l02 | Tunnel gate at the dwarven outpost: At the outpost end of the underground passage; kept distinct from the unlocked southern iron bars near the towers.; Underground passage and climbing shaft: The reported distance begins at 1,000–1,500 feet; later map discussion suggests perhaps 2,000 feet (u1348). No scaled map geometry is inferred. |
+| [Dwarven outpost at Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) — Locked tunnel gate → Underground passage and climbing shaft | Party | l01–l02 | Tunnel gate at the dwarven outpost: DF09 ends at this padlocked outpost gate. DF10 resumes at the same lock and follows the passage away from the outpost.; Underground passage and climbing shaft: The reported distance begins at 1,000–1,500 feet; later map discussion suggests perhaps 2,000 feet (u1348). No scaled map geometry is inferred. |
 | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Disused storeroom above the shaft | Party | l02 | Disused storeroom above the shaft: Reached from the underground passage, before the curved corridor. |
 | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Curved corridor junction | Party | l04 |  |
 | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Old prison and execution chamber | Party | l11 |  |
@@ -35,7 +35,7 @@
 
 | Observed location | Observer | From | Markers | Context |
 | --- | --- | --- | --- | --- |
-| Valley and road between the outpost and fortress | Wellby (reported earlier scouting) | [Dwarven outpost](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Outpost arrow-slit lookout | l03 | Valley and road between the outpost and fortress: An observation from Wellby’s earlier scouting, not a party crossing of the surface valley. |
+| Valley and road between the outpost and fortress | Wellby (reported earlier scouting) | [Dwarven outpost at Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Outpost arrow-slit lookout | l03 | Valley and road between the outpost and fortress: An observation from Wellby’s earlier scouting, not a party crossing of the surface valley. |
 | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Stone plaza | Delwath | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Northern rubble lookout | l07 |  |
 | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Main keep and inner courtyard | Delwath | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Southern iron gate and bridge approach | l09 |  |
 | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Main keep and inner courtyard | Kenzo and Wellby | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Southern iron gate and bridge approach | l14 |  |
@@ -92,4 +92,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:21** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-010-transcript.md) · [Time Markers](dunmari-frontier-010-time-markers.json) · [Location Markers](dunmari-frontier-010-location-markers.json) · [Entity Map](dunmari-frontier-010-entity-map.json) · [Interactions](dunmari-frontier-010-interactions.json) · [Combat](dunmari-frontier-010-combat.json) · [Segments](dunmari-frontier-010-segments.json) · [Watch data](time-watches.json)
+Sources · [Transcript](dunmari-frontier-010-transcript.md) · [Time Markers](dunmari-frontier-010-time-markers.json) · [Location Markers](dunmari-frontier-010-location-markers.json) · [Entity Map](dunmari-frontier-010-entity-map.json) · [Interactions](dunmari-frontier-010-interactions.json) · [Combat](dunmari-frontier-010-combat.json) · [Segments](dunmari-frontier-010-segments.json) · [Watch data](dunmari-frontier-010-time-watches.json) · [DF09 closing scene](../../dunmari-frontier-009/cleaned/dunmari-frontier-009-transcript.md)

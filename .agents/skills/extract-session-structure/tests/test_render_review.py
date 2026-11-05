@@ -12,6 +12,19 @@ def presence(place, markers, actors=None):
 
 
 class ReviewRowsTest(unittest.TestCase):
+    def test_dates_come_from_structured_bounds(self):
+        dated = dict(day='Day 1, according to YAML', startDate='1748-03-26')
+        self.assertEqual(review.watch_day(dict(dated, endDate='1748-03-26')), 'March 26, 1748')
+        self.assertEqual(review.watch_day(dict(dated, endDate='1748-03-29')), 'March 26–29, 1748')
+        self.assertEqual(review.watch_day(dict(dated, endDate='1748-04-02')), 'March 26–April 2, 1748')
+        self.assertEqual(review.watch_day(dated), 'From March 26, 1748')
+        self.assertEqual(review.watch_day(dict(day='Arrival day')), 'Arrival day')
+        self.assertEqual(review.watch_day(dict(day='Lunch', dateWindow=['1748-03-26', '1748-03-29'])),
+                         'During March 26–29, 1748')
+
+    def test_watch_link_uses_manifest_key(self):
+        self.assertIn('[Watch data](fixture-119-time-watches.json)', self.render())
+
     def setUp(self):
         # Frozen, reduced DF119 regression scenario; never read the live bundle.
         self.sources = {
@@ -39,7 +52,7 @@ class ReviewRowsTest(unittest.TestCase):
             'combat': {'combats': []},
         }
         self.edit = dict(watches=[], locations=[], entities=[], combats=[], flags=[], dates='Unknown.')
-        self.bundle = {'data': {'campaign': 'Regression', 'sessionNumber': 119},
+        self.bundle = {'manifest': Path('fixture-119-session.yaml'), 'data': {'campaign': 'Regression', 'sessionNumber': 119},
                        'source': Path('/fixture/transcript.md')}
 
     @staticmethod

@@ -2,44 +2,43 @@
 
 ## Review flags
 
-- Confirm whether the three-day highlights montage includes the gift breakfast and staff-contest day before assigning exact dates to later watches (t08–t13; u1351–u1362, u1448–u1450, u1659–u1661, u1809–u1811). The YAML span remains compatible, not verified.
 - Decide whether e033 should resolve to the paired-item page Cha’mutte’s Shadow Armband or stay unlinked as Delwath’s single armband (u0608–u0643); the map retains a candidate rather than merging physical objects.
 - Check the identity and singular-object interpretation of e044 before linking the valuable presence deep in the temple to Heart of Shakun (u3022–u3028); the transcript never identifies its form.
 
 ## In-world time
 
-No absolute date is spoken: March 30–April 4 is YAML-only; March 31 is inferred from its opening date, while montage endpoints prevent confirming the five-boundary span.
+YAML gives March 30–April 4, 1748. The campaign timeline dates the gifts, staff contest, riding contest, and council. The transcript compresses the preparation days and leaves their exact overlap open.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| 1748-03-30 (YAML opening date) | Dawn | mixed | **Kenzo** · Kenzo wakes before dawn, reaches the summit at sunrise, and returns from a seemingly momentary vision. | t01–t04 |
-| 1748-03-30 (YAML opening date) | Morning | mixed | **Delwath, Seeker, Wellby; reunion with Kenzo** · The others breakfast in the morning and reach Kenzo on the summit about nine. | t05–t06 |
-| 1748-03-30 (YAML opening date) | Afternoon | stated | The party visits Jasu after lunch, explicitly placed that afternoon. | t07 |
-| 1748-03-31 (relative to YAML opening) | Midday | inferred | Ikram brings gifts at late breakfast the next morning; midday watch is approximate. | t08 |
-| Festival preparation montage; endpoints unresolved | Open | — | Three-day highlights montage; overlap with the gift breakfast and staff-contest day is unresolved. | t09 |
-| Staff-contest day | Dusk | inferred | The party is back at Ikram’s at the end of the staff-contest day. | t10 |
-| Riding-contest day (next day) | Morning | stated | After sleeping, the party reaches the morning of the axebeak competition. | t11 |
-| Riding-contest day | Dusk | inferred | Alesh reaches the inn late after dinner that evening. | t12 |
-| Council day (day after riding contests) | Midday | mixed | Council convenes for ten; Seeker later spends a few minutes animating the tactical map. | t13–t14 |
+| March 30, 1748 | Dawn | mixed | **Kenzo** · Kenzo wakes before dawn, reaches the summit at sunrise, and returns from a seemingly momentary vision. | t01–t04 |
+| March 30, 1748 | Morning | mixed | **Delwath, Seeker, Wellby; reunion with Kenzo** · The others breakfast in the morning and reach Kenzo on the summit about nine. | t05–t06 |
+| March 30, 1748 | Afternoon | stated | The party visits Jasu after lunch, explicitly placed that afternoon. | t07 |
+| March 31, 1748 | Midday | inferred | Ikram brings gifts at late breakfast the next morning; midday watch is approximate. | t08 |
+| During March 30–April 2, 1748 | Open | — | Training and preparations take roughly three days around the gift breakfast and staff contest. Individual watches are unspecified. | t09 |
+| April 2, 1748 | Dusk | inferred | The party is back at Ikram’s at the end of the staff-contest day. | t10 |
+| April 3, 1748 | Morning | stated | After sleeping, the party reaches the morning of the axebeak competition. | t11 |
+| April 3, 1748 | Dusk | inferred | Alesh reaches the inn late after dinner that evening. | t12 |
+| April 4, 1748 | Midday | mixed | Council convenes for ten; Seeker later spends a few minutes animating the tactical map. | t13–t14 |
 
 ## Locations
 
 | Location | Present | Markers | Context |
 | --- | --- | --- | --- |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram's inn](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Kenzo | l01 | Ikram's inn within Karawa: The opening narration places the returned party, inn, and village fair in the same Karawa setting.; Ikram's inn: The vault page also describes a later rebuilding; only the inn identity is used here. |
-| [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › Mesa summit | Kenzo | l02, l04 | Red Mesa: The Red Mesa match is corroborated by the session-era scene reproduced in Kenzo’s note; the eastward walk is a route, not a permanent compass relation. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › Mesa summit | Kenzo | l02, l04 | Red Mesa: The Red Mesa match is corroborated by the session-era scene reproduced in Kenzo’s note; the eastward walk is a route, not a permanent compass relation. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram's inn](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Delwath, Seeker, Wellby | l05 | Ikram's inn within Karawa: The opening narration places the returned party, inn, and village fair in the same Karawa setting.; Ikram's inn: The vault page also describes a later rebuilding; only the inn identity is used here. |
-| [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › Mesa summit | Delwath, Seeker, Wellby | l06 | Red Mesa: The Red Mesa match is corroborated by the session-era scene reproduced in Kenzo’s note; the eastward walk is a route, not a permanent compass relation. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › Mesa summit | Delwath, Seeker, Wellby | l06 | Red Mesa: The Red Mesa match is corroborated by the session-era scene reproduced in Kenzo’s note; the eastward walk is a route, not a permanent compass relation. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Jasu's shop | Party | l07 | Jasu's shop within Karawa: The opening town recap identifies Jasu as the smith whose shop the party intends to revisit. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram's inn](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Party | l08, l10, l12 | Ikram's inn within Karawa: The opening narration places the returned party, inn, and village fair in the same Karawa setting.; Ikram's inn: The vault page also describes a later rebuilding; only the inn identity is used here. |
-| Staff-dancing balance beam | Party | l09 | Staff-dancing balance beam: Part of the Karawa pre-festival competitions established at u0307–u0315; the source gives no precise site within or outside the village. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — Staff-dancing balance beam | Party | l09 | Staff-dancing balance beam: Part of the Karawa pre-festival competitions established at u0307–u0315; the source gives no precise site within or outside the village. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Tea shop | Delwath | l14 | Tea shop within Karawa: Delwath’s town inquiries include this conversation about visitors to Karawa. |
-| Axebeak-riding desert track | Party | l11 | Axebeak-riding desert track: Part of the Karawa pre-festival competitions; a flat desert track, without a precise position relative to the village. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — Axebeak-riding desert track | Party | l11 | Axebeak-riding desert track: Part of the Karawa pre-festival competitions; a flat desert track, without a precise position relative to the village. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Village council chamber | Party | l13 | Village council chamber within Karawa: The morning message identifies the local village chamber where the party previously met Kisa. |
 
 | Observed location | Observer | From | Markers | Context |
 | --- | --- | --- | --- | --- |
-| Colorless plain in Kenzo's vision | Kenzo (dream) | [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › Mesa summit | l03 | Colorless plain in Kenzo's vision: Candrosa offers access to the Dreamworld, but Kenzo returns unsure where he was. The formless multicolored expanse is a passing vision before this plain, not an embodied party visit.; Red Mesa: The Red Mesa match is corroborated by the session-era scene reproduced in Kenzo’s note; the eastward walk is a route, not a permanent compass relation. |
+| Colorless plain in Kenzo's vision | Kenzo (dream) | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › Mesa summit | l03 | Colorless plain in Kenzo's vision: Candrosa offers access to the Dreamworld, but Kenzo returns unsure where he was. The formless multicolored expanse is a passing vision before this plain, not an embodied party visit.; Red Mesa: The Red Mesa match is corroborated by the session-era scene reproduced in Kenzo’s note; the eastward walk is a route, not a permanent compass relation. |
 
 ## Entities
 
@@ -93,4 +92,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:25** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-005-transcript.md) · [Time Markers](dunmari-frontier-005-time-markers.json) · [Location Markers](dunmari-frontier-005-location-markers.json) · [Entity Map](dunmari-frontier-005-entity-map.json) · [Interactions](dunmari-frontier-005-interactions.json) · [Combat](dunmari-frontier-005-combat.json) · [Segments](dunmari-frontier-005-segments.json) · [Watch data](time-watches.json)
+Sources · [Transcript](dunmari-frontier-005-transcript.md) · [Time Markers](dunmari-frontier-005-time-markers.json) · [Location Markers](dunmari-frontier-005-location-markers.json) · [Entity Map](dunmari-frontier-005-entity-map.json) · [Interactions](dunmari-frontier-005-interactions.json) · [Combat](dunmari-frontier-005-combat.json) · [Segments](dunmari-frontier-005-segments.json) · [Watch data](dunmari-frontier-005-time-watches.json) · [Session 5 campaign timeline](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%205%20%28DuFr%29.md)

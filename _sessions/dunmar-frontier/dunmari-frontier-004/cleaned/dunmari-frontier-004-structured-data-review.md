@@ -2,36 +2,36 @@
 
 ## Review flags
 
-- Confirm whether Kenzo’s “just got back into town yesterday” (u1895–u1896, t03 evidence) is a slip or an omitted day before assigning civil dates to the arrival and evening watches (t03–t09).
+No human action requested.
 
 ## In-world time
 
-March 26–29, 1748 is supplied only by YAML; the transcript establishes morning, uncertain return travel, and afternoon-to-night activity in Karawa, with no independently spoken date.
+The YAML and campaign timeline place departure on March 26 and arrival and the temple visit on March 29, 1748. The transcript supports the fast return journey and afternoon arrival. Kenzo’s later “yesterday” differs from the dated sequence.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| Opening day — March 26 from YAML | Morning | mixed | Party wakes refreshed; later narration explicitly calls the temple search morning. | t01 |
-| Return journey — travel day unspecified | Midday | inferred | Seeker’s roadside search resolves at a proposed lunchtime stop; the particular travel day is unspecified. | t02 |
-| Karawa arrival day | Afternoon | stated | Party reaches the caravanserai outskirts in late afternoon after the compressed return journey. | t03 |
-| Karawa evening — apparently the arrival day | Dusk | inferred | Dinner and sunset frame the evening; Jasu’s few-minute cleanup precedes the oasis vigil. | t04–t08 |
-| Karawa late evening — before any completed overnight | Midnight | mixed | Candrosa interrupts about 22:30; Delwath pauses roughly one minute during the subsequent temple conversation. | t09–t10 |
+| March 26, 1748 | Morning | mixed | Party wakes refreshed; later narration explicitly calls the temple search morning. | t01 |
+| During March 26–29, 1748 | Midday | inferred | Seeker searches at a lunchtime stop on the return journey. Its particular travel day is unclear. | t02 |
+| March 29, 1748 | Afternoon | stated | The DM places arrival in late afternoon. The campaign timeline says early afternoon, in the same watch. | t03 |
+| March 29, 1748 | Dusk | inferred | Dinner and sunset frame the evening; Jasu’s few-minute cleanup precedes the oasis vigil. | t04–t08 |
+| March 29, 1748 | Midnight | mixed | Candrosa interrupts about 22:30; Delwath pauses roughly one minute during the subsequent temple conversation. | t09–t10 |
 
 ## Locations
 
 | Location | Present | Markers | Context |
 | --- | --- | --- | --- |
 | [Abandoned Dunmari fort near Gomat](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) › Fort temple of Aagir | Party | l01 |  |
-| Canyon top where the horse waits → [Gomat](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Gomat.md) → [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) | Party | l02 |  |
+| [Daraar Canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) — Horse camp on the rim → [Gomat](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Gomat.md) → [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) | Party | l02 |  |
 | Roadside lunch stop | Seeker | l03 | Roadside lunch stop: An unnamed stop during the return journey; its particular day and position along the route are not fixed. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Council chamber | Party | l04 |  |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram’s caravanserai](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Party | l05, l07 | Ikram’s caravanserai: This is the pre-destruction inn in the played session; the linked vault page also describes its later rebuilding. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Jasu’s blacksmith shop | Party | l06 |  |
-| Festival campground west of the caravanserai › Bree’s wagon camp | Party | l08 | Festival campground west of the caravanserai: The camp lies on the open plain west of the inn, at the town’s outskirts; it is not assigned to the inn building. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — Festival campground west of the caravanserai › Bree’s wagon camp | Party | l08 | Festival campground west of the caravanserai: The camp lies on the open plain west of the inn, at the town’s outskirts; it is not assigned to the inn building. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram’s caravanserai](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Kenzo and Seeker | l09 | Ikram’s caravanserai: This is the pre-destruction inn in the played session; the linked vault page also describes its later rebuilding. |
-| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Karawa oasis | Delwath and Wellby | l10 | Karawa oasis: The town oasis is distinct from the sacred grove called Shakun’s Wellspring; no identity with that grove is asserted. |
-| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Karawa oasis | Seeker | l11 | Karawa oasis: The town oasis is distinct from the sacred grove called Shakun’s Wellspring; no identity with that grove is asserted. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Oasis | Delwath and Wellby | l10 | Karawa oasis: The town oasis is distinct from the sacred grove called Shakun’s Wellspring; no identity with that grove is asserted. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Oasis | Seeker | l11 | Karawa oasis: The town oasis is distinct from the sacred grove called Shakun’s Wellspring; no identity with that grove is asserted. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram’s caravanserai](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Wellby | l12 | Ikram’s caravanserai: This is the pre-destruction inn in the played session; the linked vault page also describes its later rebuilding. |
-| [Red mesa south of Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › [Temple of Shakun](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Temple%20of%20Shakun.md) › Temple side room | Party | l13 |  |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) › [Temple of Shakun](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Temple%20of%20Shakun.md) › Temple side room | Party | l13 |  |
 
 ## Entities
 
@@ -70,4 +70,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:48** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-004-transcript.md) · [Time Markers](dunmari-frontier-004-time-markers.json) · [Location Markers](dunmari-frontier-004-location-markers.json) · [Entity Map](dunmari-frontier-004-entity-map.json) · [Interactions](dunmari-frontier-004-interactions.json) · [Combat](dunmari-frontier-004-combat.json) · [Segments](dunmari-frontier-004-segments.json) · [Watch data](time-watches.json)
+Sources · [Transcript](dunmari-frontier-004-transcript.md) · [Time Markers](dunmari-frontier-004-time-markers.json) · [Location Markers](dunmari-frontier-004-location-markers.json) · [Entity Map](dunmari-frontier-004-entity-map.json) · [Interactions](dunmari-frontier-004-interactions.json) · [Combat](dunmari-frontier-004-combat.json) · [Segments](dunmari-frontier-004-segments.json) · [Watch data](dunmari-frontier-004-time-watches.json) · [Session 4 campaign timeline](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%204%20%28DuFr%29.md)

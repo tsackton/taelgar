@@ -42,7 +42,25 @@
         }
       ],
       "kind": "gate",
-      "note": "At the outpost end of the underground passage; kept distinct from the unlocked southern iron bars near the towers."
+      "note": "DF09 ends at this padlocked outpost gate. DF10 resumes at the same lock and follows the passage away from the outpost.",
+      "relations": [
+        {
+          "relation": "at_edge_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0022",
+              "quote": "iron bars with a door that swings open"
+            },
+            {
+              "startUid": "u0082",
+              "endUid": "u0086",
+              "quote": "Seeker: Know, at this point we’re 1000 feet from the dwarven outpost. Where does that put us relative to everything else, would say?"
+            }
+          ]
+        }
+      ]
     },
     "p04": {
       "label": "Underground passage and climbing shaft",

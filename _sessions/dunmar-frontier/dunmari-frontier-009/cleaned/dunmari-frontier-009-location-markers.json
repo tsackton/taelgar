@@ -285,6 +285,19 @@
           "endUid": "u1794",
           "quote": "Looking down, you see a tunnel that is heading off into the darkness beyond the range of your dark vision, beyond the rubble, and it seems to be sloping down to the west."
         }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1789",
+              "endUid": "u1794",
+              "quote": "Looking down, you see a tunnel that is heading off into the darkness beyond the range of your dark vision, beyond the rubble, and it seems to be sloping down to the west."
+            }
+          ]
+        }
       ]
     },
     "p13": {
@@ -296,6 +309,19 @@
           "endUid": "u1948",
           "quote": "OK, so the area where it just opened up is not a cavern. It's a shaft. It's like a vertical fissure in the rock going up and down, and the tunnel seems to end here. You can see on the other side of the, the sort of fissure in the wall, it's like there's a—almost like it's a mine."
         }
+      ],
+      "relations": [
+        {
+          "relation": "at_edge_of",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1937",
+              "endUid": "u1948",
+              "quote": "OK, so the area where it just opened up is not a cavern. It's a shaft. It's like a vertical fissure in the rock going up and down, and the tunnel seems to end here. You can see on the other side of the, the sort of fissure in the wall, it's like there's a—almost like it's a mine."
+            }
+          ]
+        }
       ]
     },
     "p14": {
@@ -306,6 +332,19 @@
           "startUid": "u1937",
           "endUid": "u1948",
           "quote": "OK, so the area where it just opened up is not a cavern. It's a shaft. It's like a vertical fissure in the rock going up and down, and the tunnel seems to end here. You can see on the other side of the, the sort of fissure in the wall, it's like there's a—almost like it's a mine."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1937",
+              "endUid": "u1939",
+              "quote": "It's a shaft. It's like a vertical fissure in the rock going up and down, and the tunnel seems to end here."
+            }
+          ]
         }
       ]
     },

@@ -524,7 +524,25 @@
           "quote": "And as you head back to your camp, climbing up the cliff, you hear neighing. That is a good spot to end."
         }
       ],
-      "note": "The return is narrated while climbing the cliff and hearing the horse; arrival at camp is not explicitly completed."
+      "note": "The return is narrated while climbing the cliff and hearing the horse; arrival at camp is not explicitly completed.",
+      "relations": [
+        {
+          "relation": "on_rim_of",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0216",
+              "endUid": "u0220",
+              "quote": "get down the canyon"
+            },
+            {
+              "startUid": "u3064",
+              "endUid": "u3066",
+              "quote": "as you head back to your camp, climbing up the cliff, you hear neighing."
+            }
+          ]
+        }
+      ]
     },
     "p16": {
       "label": "Lookout above the abandoned campsite",
@@ -559,6 +577,19 @@
           ]
         }
       ]
+    },
+    "p17": {
+      "label": "Canyon",
+      "kind": "canyon",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Daraar Canyon.md",
+      "evidence": [
+        {
+          "startUid": "u0216",
+          "endUid": "u0220",
+          "quote": "get down the canyon"
+        }
+      ],
+      "note": "The preceding session identifies the crossing where the party left the horse as Daraar Canyon."
     }
   },
   "markers": [

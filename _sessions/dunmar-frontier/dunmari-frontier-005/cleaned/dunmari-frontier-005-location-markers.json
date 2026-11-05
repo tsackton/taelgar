@@ -125,7 +125,30 @@
           "quote": "DM: The way staff dancing works is that the competitors are fighting on a balance beam, and the first person who falls off the balance beam loses. Fighting with staffs. I'm awesome. There's—\n\nKenzo: Something to be embarrassed.\n\nDM: The sort of guy who's organizing this kind of takes one look at you and puts you in the elite—the elite competition, which is the last one of the day and draws the biggest crowds. And you watch, and the first few bouts you win super easily. Like, you know, you're fighting people who just—one tap to their leg and they're off, right? You can easily dance around them. And you watch a few fights, and it seems like, you know, mostly you feel pretty confident."
         }
       ],
-      "note": "Part of the Karawa pre-festival competitions established at u0307–u0315; the source gives no precise site within or outside the village."
+      "note": "Part of the Karawa pre-festival competitions established at u0307–u0315; the source gives no precise site within or outside the village.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0307",
+              "endUid": "u0315",
+              "quote": "sounds of the pre-festival fair starting up carry from across the, across the village"
+            },
+            {
+              "startUid": "u0898",
+              "endUid": "u0901",
+              "quote": "where people fight with quarterstaffs on the balance beam, and then the riding contests"
+            },
+            {
+              "startUid": "u1472",
+              "endUid": "u1482",
+              "quote": "DM: The way staff dancing works is that the competitors are fighting on a balance beam, and the first person who falls off the balance beam loses. Fighting with staffs. I'm awesome. There's—\n\nKenzo: Something to be embarrassed.\n\nDM: The sort of guy who's organizing this kind of takes one look at you and puts you in the elite—the elite competition, which is the last one of the day and draws the biggest crowds. And you watch, and the first few bouts you win super easily. Like, you know, you're fighting people who just—one tap to their leg and they're off, right? You can easily dance around them. And you watch a few fights, and it seems like, you know, mostly you feel pretty confident."
+            }
+          ]
+        }
+      ]
     },
     "p07": {
       "label": "Axebeak-riding desert track",
@@ -137,7 +160,30 @@
           "quote": "DM: And there's a pen of, like, twelve of these axebeaks together and, and lassoed with ropes. He—and they're sort of milling about. And you can see that there's a track that's been set up in a flat area in the desert. And the way it works is that there's a handler who grabs an axebeak at random from this pen, pulls it to the starting line, holds it down with the rope, and then as soon as you're mounted lets go of the rope. And it's up to you to control the direction that the axebeak goes and stay on as long as you can, and your distance is marked as—like, when you fall on the ground, somebody runs out with a stone and marks in the furthest way. That's—"
         }
       ],
-      "note": "Part of the Karawa pre-festival competitions; a flat desert track, without a precise position relative to the village."
+      "note": "Part of the Karawa pre-festival competitions; a flat desert track, without a precise position relative to the village.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0307",
+              "endUid": "u0315",
+              "quote": "sounds of the pre-festival fair starting up carry from across the, across the village"
+            },
+            {
+              "startUid": "u0898",
+              "endUid": "u0901",
+              "quote": "where people fight with quarterstaffs on the balance beam, and then the riding contests"
+            },
+            {
+              "startUid": "u1827",
+              "endUid": "u1835",
+              "quote": "DM: And there's a pen of, like, twelve of these axebeaks together and, and lassoed with ropes. He—and they're sort of milling about. And you can see that there's a track that's been set up in a flat area in the desert. And the way it works is that there's a handler who grabs an axebeak at random from this pen, pulls it to the starting line, holds it down with the rope, and then as soon as you're mounted lets go of the rope. And it's up to you to control the direction that the axebeak goes and stay on as long as you can, and your distance is marked as—like, when you fall on the ground, somebody runs out with a stone and marks in the furthest way. That's—"
+            }
+          ]
+        }
+      ]
     },
     "p08": {
       "label": "Village council chamber",

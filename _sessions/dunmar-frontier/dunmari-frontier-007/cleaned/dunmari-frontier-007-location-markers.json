@@ -284,6 +284,19 @@
           "endUid": "u2977",
           "quote": "DM: And as you now turn, traveling the last few miles to the mountains, we will stop here, as the road heading up into the pass is ahead of you, the plains heading east towards the wall of Raven's Hold to your right, and can decide which way to go next time."
         }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2326",
+              "endUid": "u2334",
+              "quote": "the road itself goes up through a low pass"
+            }
+          ]
+        }
       ]
     },
     "p11": {
@@ -297,6 +310,19 @@
         }
       ],
       "note": "Only the storm is seen. No tower or other physical source is identified in the played observation."
+    },
+    "p12": {
+      "label": "Mountain range",
+      "kind": "mountain range",
+      "vaultPath": "Gazetteer/Sentinel Range.md",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2334",
+          "quote": "the road itself goes up through a low pass"
+        }
+      ],
+      "note": "Session 8 identifies the same road and the central mountain range at the edge of the Dunmari plains."
     }
   },
   "markers": [

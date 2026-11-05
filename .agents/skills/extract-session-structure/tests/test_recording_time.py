@@ -22,7 +22,7 @@ class RecordingTimeTest(unittest.TestCase):
         # Real registered UID-header format, with test-owned timing/coverage.
         raw = ''.join(f'[{uid} | {timing} | DM] Speech.\n' for uid, timing in rows).encode()
         (self.root / 'timed.md').write_bytes(raw)
-        return dict(root=self.root, source=self.root / 'polished.md',
+        return dict(manifest=self.root / 'fixture-001-session.yaml', root=self.root, source=self.root / 'polished.md',
                     data=dict(campaign='Timing fixture', sessionNumber=1,
                               transcriptProcessing=dict(artifacts={artifact: {'path': 'timed.md'}})),
                     fingerprints={'timed.md': hashlib.sha256(raw).hexdigest()},

@@ -9,10 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-transcript.md",
     "sha256": "3310903b46fdda728b744d6c9e18735ede66a9009735c622ebaf0ad3d92762f6"
   },
-  "dateAssessment": "March 26–29, 1748 is supplied only by YAML; the transcript establishes morning, uncertain return travel, and afternoon-to-night activity in Karawa, with no independently spoken date.",
+  "dateAssessment": "The YAML and campaign timeline place departure on March 26 and arrival and the temple visit on March 29, 1748. The transcript supports the fast return journey and afternoon arrival. Kenzo’s later “yesterday” differs from the dated sequence.",
   "watches": [
     {
-      "day": "Opening day — March 26 from YAML",
+      "day": "March 26, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "mixed",
@@ -24,27 +24,33 @@
       "endDate": "1748-03-26"
     },
     {
-      "day": "Return journey — travel day unspecified",
+      "day": "During March 26–29, 1748",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "inferred",
-      "summary": "Seeker’s roadside search resolves at a proposed lunchtime stop; the particular travel day is unspecified.",
+      "summary": "Seeker searches at a lunchtime stop on the return journey. Its particular travel day is unclear.",
       "markers": [
         "t02"
+      ],
+      "dateWindow": [
+        "1748-03-26",
+        "1748-03-29"
       ]
     },
     {
-      "day": "Karawa arrival day",
+      "day": "March 29, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "stated",
-      "summary": "Party reaches the caravanserai outskirts in late afternoon after the compressed return journey.",
+      "summary": "The DM places arrival in late afternoon. The campaign timeline says early afternoon, in the same watch.",
       "markers": [
         "t03"
-      ]
+      ],
+      "startDate": "1748-03-29",
+      "endDate": "1748-03-29"
     },
     {
-      "day": "Karawa evening — apparently the arrival day",
+      "day": "March 29, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
@@ -55,10 +61,12 @@
         "t06",
         "t07",
         "t08"
-      ]
+      ],
+      "startDate": "1748-03-29",
+      "endDate": "1748-03-29"
     },
     {
-      "day": "Karawa late evening — before any completed overnight",
+      "day": "March 29, 1748",
       "startWatch": "midnight",
       "endWatch": "midnight",
       "basis": "mixed",
@@ -66,7 +74,16 @@
       "markers": [
         "t09",
         "t10"
-      ]
+      ],
+      "startDate": "1748-03-29",
+      "endDate": "1748-03-29"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 4 campaign timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 4 (DuFr).md",
+      "sha256": "540b13e194a98cea24a875346c461ef1b886c0d206f279e0ec3b8ec4cc16b14c"
     }
   ]
 }

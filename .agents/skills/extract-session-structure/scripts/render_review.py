@@ -23,7 +23,12 @@ CLASSES = ['gameplay', 'combat', 'meta_discussion', 'table_talk', 'session_frami
 VERSIONS = {'time-markers': '0.5-time-markers-draft', 'location-markers': '0.4-location-markers-draft',
             'entity-map': 4, 'interactions': 1, 'combat': '0.1-combat-draft',
             'segments': '0.1-transcript-segments-draft'}
-OUTPUTS = ('time-watches.json', 'structured-data-review.md')
+LEGACY_OUTPUTS = ('time-watches.json', 'structured-data-review.md')
+
+
+def output_names(manifest):
+    stem = manifest.name.removesuffix('-session.yaml')
+    return tuple(f'{stem}-{name}' for name in LEGACY_OUTPUTS)
 
 
 def require(condition, message):
@@ -207,6 +212,11 @@ def check_rows(edit, sources, bundle):
             scene_map.source_bounds(bundle, scene_map.source(start, end), 'Supplementary watch evidence')
         dates = [date.fromisoformat(row[k]) for k in ('startDate', 'endDate') if row.get(k)]
         require(dates == sorted(dates), 'Reversed civil date range')
+        if 'dateWindow' in row:
+            window = row['dateWindow']
+            require(not dates and isinstance(window, list) and len(window) == 2,
+                    'Use dateWindow only for an event somewhere within two bounds')
+            require(date.fromisoformat(window[0]) <= date.fromisoformat(window[1]), 'Reversed date window')
         primary.extend(row['markers'])
     require(Counter(primary) == Counter({ident: 1 for ident in all_times}), 'Missing, extra, or repeated primary time marker')
     location_data = sources['location-markers']
@@ -214,6 +224,13 @@ def check_rows(edit, sources, bundle):
     places = location_data['places']
     markers = {m['id']: m for m in location_data['markers']}
     require(set(edit.get('placeLabels', {})) <= places.keys(), 'Unknown place in short labels')
+    for local, chain in edit.get('settingPaths', {}).items():
+        require(local in places and isinstance(chain, list) and chain and set(chain) <= places.keys(),
+                'A setting path needs known local and setting IDs')
+        require(len(set([local, *chain])) == len(chain) + 1, 'Setting path repeats a place')
+        for start, end in zip([local, *chain], chain):
+            require(not places[start].get('mobile') and any(r['target'] == end and r.get('evidence')
+                    for r in places[start].get('relations', [])), 'Setting path needs an evidenced place relation')
     for row in edit['locations']:
         require(row['markers'] and set(row['markers']) <= markers.keys(), 'Unknown or missing location reference')
         cited = [markers[ident] for ident in row['markers']]
@@ -288,6 +305,29 @@ def watch_name(row):
     return f'{(first or "open").title()} → {last or "open"}'
 
 
+def date_range(first, last):
+    def full(day):
+        return f'{day:%B} {day.day}, {day.year}'
+    if first == last:
+        return full(first)
+    if first.year != last.year:
+        return f'{full(first)} – {full(last)}'
+    end = str(last.day) if first.month == last.month else f'{last:%B} {last.day}'
+    return f'{first:%B} {first.day}–{end}, {last.year}'
+
+
+def watch_day(row):
+    if 'dateWindow' in row:
+        return 'During ' + date_range(*(date.fromisoformat(v) for v in row['dateWindow']))
+    first, last = (row.get(k) for k in ('startDate', 'endDate'))
+    if first and last:
+        return date_range(date.fromisoformat(first), date.fromisoformat(last))
+    if first or last:
+        day = date.fromisoformat(first or last)
+        return ('From ' if first else 'Through ') + date_range(day, day)
+    return row['day']
+
+
 def marker_ids(markers):
     # Compress only consecutive IDs that are actually present.
     groups = []
@@ -318,7 +358,7 @@ def render(bundle, paths, sources, edit, output, timing):
         watch = watch_name(row)
         if row.get('clock') == 'local':
             watch += ' (local)'
-        rows.append([row['day'], watch, '—' if row['basis'] == 'open' else row['basis'],
+        rows.append([watch_day(row), watch, '—' if row['basis'] == 'open' else row['basis'],
                      text, marker_ids(row['markers'])])
     lines.append(table(['Day', 'Watch', 'Basis', 'Time evidence', 'Markers'], rows)
                  if rows else 'No supported time markers.')
@@ -333,7 +373,17 @@ def render(bundle, paths, sources, edit, output, timing):
 
     def describe(ident):
         paths, notes = place_paths(places, ident)
-        return ' / '.join(' › '.join(linked_labels[key] for key in path) for path in paths), notes
+        descriptions = []
+        for path in paths:
+            parts = []
+            for key in path:
+                label = linked_labels[key]
+                setting = edit.get('settingPaths', {}).get(key)
+                if setting and setting[-1] not in path:
+                    label = f'{linked_labels[setting[-1]]} — {label}'
+                parts.append(label)
+            descriptions.append(' › '.join(parts))
+        return ' / '.join(descriptions), notes
 
     def context_for(row, notes):
         context = list(notes)
@@ -424,8 +474,11 @@ def render(bundle, paths, sources, edit, output, timing):
     lines.extend(timing['notes'])
     if limits:
         lines.extend(['## Source limitations', '\n'.join(f'- {item}' for item in limits)])
+    watch_name_on_disk, _ = output_names(bundle['manifest'])
     lines.append('Sources · ' + ' · '.join([link(bundle['source'], 'Transcript'),
-                 *[link(paths[k], k.replace('-', ' ').title()) for k in VERSIONS], '[Watch data](time-watches.json)']))
+                 *[link(paths[k], k.replace('-', ' ').title()) for k in VERSIONS],
+                 link(output / watch_name_on_disk, 'Watch data'),
+                 *[link(VAULT / item['path'], item['label']) for item in edit.get('contextSources', [])]]))
     return '\n\n'.join(lines) + '\n'
 
 
@@ -454,7 +507,10 @@ def main():
         scene_map.check_inputs(bundle)
         for key, path in paths.items():
             require(file_hash(path) == fingerprints[key]['sha256'], f'{key} changed during review')
-        previous = {name: current_hash(safe(output, name)) for name in OUTPUTS}
+        watch_file, review_file = output_names(manifest)
+        previous = {name: current_hash(safe(output, name)) for name in (watch_file, review_file)}
+        if output == manifest.parent:
+            previous.update({name: current_hash(safe(output, name)) for name in LEGACY_OUTPUTS})
         if args.prepare:
             draft = dict(inputs=fingerprints, previous=previous, dates='', flags=[], watches=[],
                          locations=[], entities=[], combats=[])
@@ -462,17 +518,25 @@ def main():
             return
         edit = json.loads(args.editorial.read_bytes())
         require(edit.get('inputs') == fingerprints, 'Review inputs changed. Inspect them and prepare a new draft.')
+        for item in edit.get('contextSources', []):
+            require(item['label'].strip() and current_hash(safe(VAULT, item['path'])) == item['sha256']
+                    and item['sha256'], 'Supplementary source changed or missing')
         check_rows(edit, sources, bundle)
         timing = recording_time(bundle, sources['segments']['segments'])
         watches = {'schemaVersion': '0.1-time-watches', 'sessionYaml': bundle['sessionYaml'],
                    'source': fingerprints['time-markers'],
                    'transcript': {'path': bundle['source'].relative_to(VAULT).as_posix(),
                                   'sha256': bundle['sourceSha256']},
-                   'dateAssessment': edit['dates'], 'watches': edit['watches']}
-        products = {'time-watches.json': scene_map.encoded(watches),
-                    'structured-data-review.md': render(bundle, paths, sources, edit, output, timing).encode()}
+                   'dateAssessment': edit['dates'],
+                   'watches': [dict(row, day=watch_day(row)) for row in edit['watches']]}
+        if edit.get('contextSources'):
+            watches['contextSources'] = edit['contextSources']
+        products = {watch_file: scene_map.encoded(watches),
+                    review_file: render(bundle, paths, sources, edit, output, timing).encode()}
         expected = edit.get('previous', {})
         require(expected.keys() == previous.keys(), 'Missing previous output snapshot')
+        for name in LEGACY_OUTPUTS:
+            require(previous.get(name) == expected.get(name), f'{name} changed during review')
         changed = []
         for name, data in products.items():
             if previous[name] == hashlib.sha256(data).hexdigest():
