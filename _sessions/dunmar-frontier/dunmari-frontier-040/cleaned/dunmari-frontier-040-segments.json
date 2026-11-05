@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-040",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
+    "sessionYamlSha256": "da1d84b185acd3acf16d85d5a4486773ab71fcdde2e351c908fb1b0e5dd9622d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-transcript.md",
+    "transcriptSha256": "210e9ba878cf59a524e4ff1867d6f43bf170d7e5134a86913280ca07bbe13692"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0043"
+      },
+      "category": "session_framing",
+      "note": "Halfling-song recap of prior adventures; the departure before and after it belongs to current play."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0044",
+        "endUid": "u0058"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0059",
+        "endUid": "u0087"
+      },
+      "category": "meta_discussion",
+      "note": "Out-of-character discussion of connections between plot threads before choosing the route."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0088",
+        "endUid": "u0866"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0867",
+        "endUid": "u0874"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0875",
+        "endUid": "u2137"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2138",
+        "endUid": "u2627"
+      },
+      "category": "meta_discussion",
+      "note": "Extended mixed discussion of future quests and character motivations; short in-character contributions remain within the main planning discussion."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2628",
+        "endUid": "u2649"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2650",
+        "endUid": "u2686"
+      },
+      "category": "meta_discussion",
+      "note": "Next-session scope, level advancement, downtime intentions and possible destinations."
+    }
+  ]
+}

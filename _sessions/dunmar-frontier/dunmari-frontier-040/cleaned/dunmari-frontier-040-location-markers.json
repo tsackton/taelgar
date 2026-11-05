@@ -1,0 +1,927 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-040",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
+    "sessionYamlSha256": "da1d84b185acd3acf16d85d5a4486773ab71fcdde2e351c908fb1b0e5dd9622d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-transcript.md",
+    "transcriptSha256": "210e9ba878cf59a524e4ff1867d6f43bf170d7e5134a86913280ca07bbe13692"
+  },
+  "places": {
+    "p01": {
+      "label": "Tokra",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "DM: Okay, so as we return to the outside of Tokra."
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0058",
+          "quote": "DM: Just outside Tokra."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p02": {
+      "label": "Plains north of Tokra",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0091",
+          "endUid": "u0094",
+          "quote": "all you know about Saka is she travels with her family, of horse herders on the plains north of Tokra."
+        },
+        {
+          "startUid": "u0749",
+          "endUid": "u0756",
+          "quote": "And as you move away from the river, you, you know your, your—it seems like most of the Dunmari camps, these, at this time of year are along the river."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Varashan.md"
+    },
+    "p03": {
+      "label": "River north of Tokra",
+      "kind": "waterway",
+      "evidence": [
+        {
+          "startUid": "u0132",
+          "endUid": "u0135",
+          "quote": "DM: Fairly open plains, yeah. So, so you begin traveling along the river and the river is is quite dry at this point. It's, it's barely a slow muddy trickle. Um, it's certainly not flowing fast or swiftly enough for boats to, to, you know, ply the trade, north and south up up and down the river from here. Hopefully soon the monsoon rains will."
+        },
+        {
+          "startUid": "u0137",
+          "endUid": "u0139",
+          "quote": "DM: And when they do the river will fill and the docks—you know, the boats that are now sort of sitting dry in the mud—will lift and there will be more traffic, but right now you're mostly sort of making your way slowly through parched fields. You know, you know, you pass, pass, some people. There's a small sort of farming community along the river north of Tokra, but, you know, nothing."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara.md",
+      "note": "Tokra’s reference note identifies its north–south river as the Hara; the current travel narration calls it the river."
+    },
+    "p04": {
+      "label": "First riverside camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0165",
+          "endUid": "u0167",
+          "quote": "DM: So you set camp along the river, I assume. Keep watch as typical."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0165",
+              "endUid": "u0167",
+              "quote": "DM: So you set camp along the river, I assume. Keep watch as typical."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0132",
+              "endUid": "u0135",
+              "quote": "Fairly open plains, yeah."
+            },
+            {
+              "startUid": "u0165",
+              "endUid": "u0167",
+              "quote": "DM: So you set camp along the river, I assume. Keep watch as typical."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Clifftop above the river",
+      "kind": "route position",
+      "evidence": [
+        {
+          "startUid": "u0421",
+          "endUid": "u0428",
+          "quote": "DM: Following the River North as the sun rises higher in the sky. Things are—the land is—it—you now sort of travel beyond the farms and and you're riding along a high cliff, the little bit of the river that still trickles here falling, running at the base of this cliff and that the land is rockier here and not really good good for farming. There's just arid bits of sort of tufts of vegetation and stuff. You can see, you know occasionally in the distance you'll see a herd of antelope or something moving through. But even the animals look tired and and hot and in somewhat desperate straits. It's you know."
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0446",
+          "quote": "DM: You're up on the cliff looking down, maybe two miles. The cliff slopes down to this. It's like you're on a promontory and it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0421",
+              "endUid": "u0428",
+              "quote": "you're riding along a high cliff, the little bit of the river that still trickles here falling, running at the base of this cliff"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0132",
+              "endUid": "u0135",
+              "quote": "Fairly open plains, yeah."
+            },
+            {
+              "startUid": "u0421",
+              "endUid": "u0428",
+              "quote": "DM: Following the River North as the sun rises higher in the sky. Things are—the land is—it—you now sort of travel beyond the farms and and you're riding along a high cliff, the little bit of the river that still trickles here falling, running at the base of this cliff and that the land is rockier here and not really good good for farming. There's just arid bits of sort of tufts of vegetation and stuff. You can see, you know occasionally in the distance you'll see a herd of antelope or something moving through. But even the animals look tired and and hot and in somewhat desperate straits. It's you know."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Kiran’s goat-herder camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0434",
+          "endUid": "u0441",
+          "quote": "DM: But after going maybe about 10 miles or so through the through the early morning and after stopping for lunch, you see in the distance in a sort of in a place where the cliffs drop away briefly and there's a little river bank with a handful of small trees growing there and some shade, you see, about 10 or 15 tents of Dunmari tents set up. Looks like a small camp of some kind, maybe a mile from where you are."
+        },
+        {
+          "startUid": "u0451",
+          "endUid": "u0457",
+          "quote": "DM: As you approach, you can see that this is a group of maybe 20 or 30 people, families, a fair number of kids running around and they seem to be goat herders primarily. There's a large flock of goats and a man rides over as you approach. Initially shouts in Dunmari: \"Whoa, travelers! Where are you, where do you hail from?\" And then like does a double take and realizes very few of you are humans and like looks back at the camp and looks at you again and says, \"And what are such strange folk doing in these lands?\""
+        },
+        {
+          "startUid": "u0525",
+          "endUid": "u0526",
+          "quote": "DM: I've used, like all the names on my list [garbled], I need to like delete things as I use them because—my name is Kiran."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0434",
+              "endUid": "u0441",
+              "quote": "there's a little river bank with a handful of small trees growing there and some shade, you see, about 10 or 15 tents of Dunmari tents set up."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0132",
+              "endUid": "u0135",
+              "quote": "Fairly open plains, yeah."
+            },
+            {
+              "startUid": "u0434",
+              "endUid": "u0441",
+              "quote": "DM: But after going maybe about 10 miles or so through the through the early morning and after stopping for lunch, you see in the distance in a sort of in a place where the cliffs drop away briefly and there's a little river bank with a handful of small trees growing there and some shade, you see, about 10 or 15 tents of Dunmari tents set up. Looks like a small camp of some kind, maybe a mile from where you are."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Near Kiran’s camp",
+      "kind": "meeting place",
+      "evidence": [
+        {
+          "startUid": "u0451",
+          "endUid": "u0457",
+          "quote": "DM: As you approach, you can see that this is a group of maybe 20 or 30 people, families, a fair number of kids running around and they seem to be goat herders primarily. There's a large flock of goats and a man rides over as you approach. Initially shouts in Dunmari: \"Whoa, travelers! Where are you, where do you hail from?\" And then like does a double take and realizes very few of you are humans and like looks back at the camp and looks at you again and says, \"And what are such strange folk doing in these lands?\""
+        },
+        {
+          "startUid": "u0703",
+          "endUid": "u0705",
+          "quote": "DM: He sort of like gives you a sort of little bow and then turns to ride ride back to his camp and you can see, as he's riding back like there's like three kids that have been sort of like crouched peeking out of one of the tents and they come rushing up to him as as he rides back and he's like pointing that's."
+        },
+        {
+          "startUid": "u0731",
+          "endUid": "u0733",
+          "quote": "DM: Look, and like the oldest has like the middle one is the girl, and the two other ones that are boys and the girl goes to look at in the oldest like shoves her out of the way and, like picks it up like puts it on his hand and it's like they're all looking at it. And then she like grabs it, and then they start talking in the youngest like sits down, and then they start like looking like he's about to cry than they both like give the toy to the youngest and start to try and figure it out and kind of look the oldest kind of looks slightly over you like, with a questioning."
+        }
+      ],
+      "note": "Kiran rides out to the approaching party; the source does not clearly establish that everyone enters his tents.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0451",
+              "endUid": "u0457",
+              "quote": "DM: As you approach, you can see that this is a group of maybe 20 or 30 people, families, a fair number of kids running around and they seem to be goat herders primarily. There's a large flock of goats and a man rides over as you approach. Initially shouts in Dunmari: \"Whoa, travelers! Where are you, where do you hail from?\" And then like does a double take and realizes very few of you are humans and like looks back at the camp and looks at you again and says, \"And what are such strange folk doing in these lands?\""
+            },
+            {
+              "startUid": "u0703",
+              "endUid": "u0705",
+              "quote": "DM: He sort of like gives you a sort of little bow and then turns to ride ride back to his camp and you can see, as he's riding back like there's like three kids that have been sort of like crouched peeking out of one of the tents and they come rushing up to him as as he rides back and he's like pointing that's."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Distant old watchtower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0749",
+          "endUid": "u0756",
+          "quote": "DM: And as you move away from the river, you, you know your, your—it seems like most of the Dunmari camps, these, at this time of year are along the river. You pass a—as the sun is beginning to set you see in the distance of a tower a watchtower from some older era, maybe standing tall over the over the plains maybe 10, 10-ish miles off. 10 miles West out of your way. And in a rare display of [garbled] focus. Continue north."
+        }
+      ],
+      "note": "Seen roughly ten miles west of the route; no visit occurs."
+    },
+    "p09": {
+      "label": "Open-plains camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0758",
+          "endUid": "u0758",
+          "quote": "DM: Make your camp for the evening on the featureless empty plains quiet in the quiet night."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0758",
+              "endUid": "u0758",
+              "quote": "Make your camp for the evening on the featureless empty plains quiet in the quiet night."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Dark underground dream space",
+      "kind": "dream setting",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0833",
+          "quote": "DM: So you you sort of tried to follow it in your dream. And you find yourself drifting through this strange sort of empty space. It's like you're in a big cave but it's dark and you can't see anything but you can feel the sense of space around you like you're in some large area underground. And you can still hear that the hammers."
+        },
+        {
+          "startUid": "u0839",
+          "endUid": "u0841",
+          "quote": "DM: But you can't seem to get closer and every time you try and move your consciousness through this big empty space it feels like you just stay in the center of it. Like, this isn't your space. You don't have—can't—you can't, you can't control your movement through here."
+        }
+      ],
+      "note": "A perceived cave-like expanse in Kenzo’s dream; no literal geographic match is established."
+    },
+    "p11": {
+      "label": "Camp short of Saka’s camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0875",
+          "endUid": "u0886",
+          "quote": "DM: So continue north. Wellby, make another survival check. You continue for most of the day until you see until, as you know, evening is beginning to fall, you see the smoke of fires, maybe five miles to East. You know the sun is beginning to set, right? Seem like you got maybe slightly—you went maybe a little more North Northwest then then you were intending but.\n\nDM: You can still see the see what you presume is is Saka's camp, you know, on the horizon. You just need to decide if you want to get there after nightfall or get there in the morning."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0887",
+          "quote": "Kenzo: Let's do the morning. I think if she's wary approaching at nights probably not going to be the best, most welcoming thing."
+        },
+        {
+          "startUid": "u0908",
+          "endUid": "u0914",
+          "quote": "DM: So the mirror's recharged; it just happens to be back in the monastery just FYI. Um so you wake up in the morning. Uneventful night, no dreams from anybody. And you can see, like in the distance the movement of of people. Then occasionally carrying on with the with the morning breeze that, like the [garbled] the neighing of horses, the sounds of the camp beginning to come to life. You know, only an hour or two's travel from here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0875",
+              "endUid": "u0886",
+              "quote": "DM: So continue north. Wellby, make another survival check. You continue for most of the day until you see until, as you know, evening is beginning to fall, you see the smoke of fires, maybe five miles to East. You know the sun is beginning to set, right? Seem like you got maybe slightly—you went maybe a little more North Northwest then then you were intending but.\n\nDM: You can still see the see what you presume is is Saka's camp, you know, on the horizon. You just need to decide if you want to get there after nightfall or get there in the morning."
+            },
+            {
+              "startUid": "u0908",
+              "endUid": "u0914",
+              "quote": "You know, only an hour or two's travel from here."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0749",
+              "endUid": "u0756",
+              "quote": "over the over the plains"
+            },
+            {
+              "startUid": "u0875",
+              "endUid": "u0883",
+              "quote": "DM: So continue north. Wellby, make another survival check. You continue for most of the day until you see until, as you know, evening is beginning to fall, you see the smoke of fires, maybe five miles to East. You know the sun is beginning to set, right? Seem like you got maybe slightly—you went maybe a little more North Northwest then then you were intending but."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Saka’s horse-herder camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1155",
+          "quote": "DM: Maybe 15 or 20 tents kind of set up in a large circle around a sort of open space in the middle and and a herd of maybe 60 horses at least kind of grazing scattered. Now in the morning, you know, this time of morning as you're beginning to approach this a fair bit of activity, is, as people are taking small groups, you know, bringing small groups of horses out to scatter across the landscape to eat what grass, they can. You know there's so the lot of the sort of young younger generation is out on chores and things like that some finishing their chores. So there's a fair bit of bustle to this camp, as you approach but."
+        },
+        {
+          "startUid": "u1156",
+          "endUid": "u1160",
+          "quote": "DM: As as you do, begin to approach like slowly there's this sort of wave front of kind of quiet as it as as everybody, you know the you know dozen or so closest people start to realize that you're, you know, there's these strangers approaching. And and everybody kind of goes quiet and you can see now as obviously word word passes, as you as you stop on the edge edge of Camp I'm."
+        },
+        {
+          "startUid": "u1227",
+          "endUid": "u1230",
+          "quote": "DM: To—she walks back into one of the sort of bigger central tents. Has gone about 10 minutes and everybody in the camp is just kind of nervously milling around not sure if they should talk to you or not. Everybody's kind of staring but nobody's saying anything. Nobody's doing their chores or anything like that. Everybody's—there's just about 50 people now just kind of standing and watching you standing here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0091",
+              "endUid": "u0094",
+              "quote": "all you know about Saka is she travels with her family, of horse herders on the plains north of Tokra."
+            },
+            {
+              "startUid": "u1150",
+              "endUid": "u1155",
+              "quote": "DM: Maybe 15 or 20 tents kind of set up in a large circle around a sort of open space in the middle and and a herd of maybe 60 horses at least kind of grazing scattered. Now in the morning, you know, this time of morning as you're beginning to approach this a fair bit of activity, is, as people are taking small groups, you know, bringing small groups of horses out to scatter across the landscape to eat what grass, they can. You know there's so the lot of the sort of young younger generation is out on chores and things like that some finishing their chores. So there's a fair bit of bustle to this camp, as you approach but."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Saka’s central tent",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u1249",
+          "endUid": "u1254",
+          "quote": "DM: And she leads you into this central tent which is which is hot. And the."
+        },
+        {
+          "startUid": "u1260",
+          "endUid": "u1265",
+          "quote": "DM: So you enter the tent and you can see, like there's an old woman sitting on a like a chair covered in like furs and leather. She must be at least 85, 90. She's, like, wrinkled. She's got a cloak on. There's a smoldering fire in the center of the—despite the heat and the entire interior is smoky and, you know, you can smell the you can smell the wood smoke from the fire mixed with you know that the smell of of of a little bit of smoked meat and and leather and sweat. And the woman who greeted you kind of walks over and and taps her gently on the shoulder and whisper something to her."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1227",
+              "endUid": "u1230",
+              "quote": "she walks back into one of the sort of bigger central tents."
+            },
+            {
+              "startUid": "u1249",
+              "endUid": "u1254",
+              "quote": "DM: And she leads you into this central tent which is which is hot. And the."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Outside Tokra",
+      "kind": "outskirts",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "DM: Okay, so as we return to the outside of Tokra."
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0058",
+          "quote": "DM: Just outside Tokra."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0058",
+              "endUid": "u0058",
+              "quote": "DM: Just outside Tokra."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is outside Tokra, departing north.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "DM: Okay, so as we return to the outside of Tokra."
+        },
+        {
+          "startUid": "u0003",
+          "endUid": "u0005",
+          "quote": "DM: As the sun climbs towards midday, four companions leave the city heading north, one part of their tale ending."
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0058",
+          "quote": "DM: Just outside Tokra."
+        }
+      ],
+      "place": "p14",
+      "note": "Outside the city; this does not establish a new visit inside its walls."
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0132",
+        "endUid": "u0167"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride north from Tokra beside the nearly dry river, passing parched farms, and camp along the river.",
+      "evidence": [
+        {
+          "startUid": "u0132",
+          "endUid": "u0135",
+          "quote": "DM: Fairly open plains, yeah. So, so you begin traveling along the river and the river is is quite dry at this point. It's, it's barely a slow muddy trickle. Um, it's certainly not flowing fast or swiftly enough for boats to, to, you know, ply the trade, north and south up up and down the river from here. Hopefully soon the monsoon rains will."
+        },
+        {
+          "startUid": "u0137",
+          "endUid": "u0139",
+          "quote": "DM: And when they do the river will fill and the docks—you know, the boats that are now sort of sitting dry in the mud—will lift and there will be more traffic, but right now you're mostly sort of making your way slowly through parched fields. You know, you know, you pass, pass, some people. There's a small sort of farming community along the river north of Tokra, but, you know, nothing."
+        },
+        {
+          "startUid": "u0150",
+          "endUid": "u0158",
+          "quote": "maybe 12 hours of—or, sorry, 12 miles of slow riding along the river banks."
+        },
+        {
+          "startUid": "u0165",
+          "endUid": "u0167",
+          "quote": "DM: So you set camp along the river, I assume. Keep watch as typical."
+        }
+      ],
+      "from": "p14",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Follow the river north through farming communities.",
+          "place": "p03"
+        }
+      ],
+      "distance": {
+        "value": 12,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Corrected narrated distance, rather than the superseded twelve hours."
+      }
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0185",
+        "endUid": "u0191"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After waking, resume traveling north along the river.",
+      "evidence": [
+        {
+          "startUid": "u0185",
+          "endUid": "u0191",
+          "quote": "DM: And you wake to a bright dawn. Sound of birds. What few birds there are in this, this dry—all the grasses turn brown. Clearly, the land needs rain. Continue to head North along the river."
+        }
+      ],
+      "from": "p04",
+      "to": null,
+      "completion": "underway",
+      "mode": "ride"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0421",
+        "endUid": "u0449"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride along the high cliff above the river and sight a goat-herder camp below the promontory after about ten miles and lunch.",
+      "evidence": [
+        {
+          "startUid": "u0421",
+          "endUid": "u0428",
+          "quote": "DM: Following the River North as the sun rises higher in the sky. Things are—the land is—it—you now sort of travel beyond the farms and and you're riding along a high cliff, the little bit of the river that still trickles here falling, running at the base of this cliff and that the land is rockier here and not really good good for farming. There's just arid bits of sort of tufts of vegetation and stuff. You can see, you know occasionally in the distance you'll see a herd of antelope or something moving through. But even the animals look tired and and hot and in somewhat desperate straits. It's you know."
+        },
+        {
+          "startUid": "u0434",
+          "endUid": "u0441",
+          "quote": "DM: But after going maybe about 10 miles or so through the through the early morning and after stopping for lunch, you see in the distance in a sort of in a place where the cliffs drop away briefly and there's a little river bank with a handful of small trees growing there and some shade, you see, about 10 or 15 tents of Dunmari tents set up. Looks like a small camp of some kind, maybe a mile from where you are."
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0446",
+          "quote": "DM: You're up on the cliff looking down, maybe two miles. The cliff slopes down to this. It's like you're on a promontory and it."
+        },
+        {
+          "startUid": "u0448",
+          "endUid": "u0449",
+          "quote": "DM: And the the camp is in the the where the land has sloped down to be level with the River bank."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "value": 10,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Approximate distance traversed before the camp is sighted."
+      }
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0434",
+        "endUid": "u0449"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the cliff, see the tents where the land slopes down to the riverbank.",
+      "evidence": [
+        {
+          "startUid": "u0434",
+          "endUid": "u0441",
+          "quote": "DM: But after going maybe about 10 miles or so through the through the early morning and after stopping for lunch, you see in the distance in a sort of in a place where the cliffs drop away briefly and there's a little river bank with a handful of small trees growing there and some shade, you see, about 10 or 15 tents of Dunmari tents set up. Looks like a small camp of some kind, maybe a mile from where you are."
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0446",
+          "quote": "DM: You're up on the cliff looking down, maybe two miles. The cliff slopes down to this. It's like you're on a promontory and it."
+        },
+        {
+          "startUid": "u0448",
+          "endUid": "u0449",
+          "quote": "DM: And the the camp is in the the where the land has sloped down to be level with the River bank."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0451",
+        "endUid": "u0457"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend toward Kiran’s camp and meet him as he rides out; the party is close enough to exchange greetings and later hand over a toy.",
+      "evidence": [
+        {
+          "startUid": "u0451",
+          "endUid": "u0457",
+          "quote": "DM: As you approach, you can see that this is a group of maybe 20 or 30 people, families, a fair number of kids running around and they seem to be goat herders primarily. There's a large flock of goats and a man rides over as you approach. Initially shouts in Dunmari: \"Whoa, travelers! Where are you, where do you hail from?\" And then like does a double take and realizes very few of you are humans and like looks back at the camp and looks at you again and says, \"And what are such strange folk doing in these lands?\""
+        },
+        {
+          "startUid": "u0703",
+          "endUid": "u0705",
+          "quote": "DM: He sort of like gives you a sort of little bow and then turns to ride ride back to his camp and you can see, as he's riding back like there's like three kids that have been sort of like crouched peeking out of one of the tents and they come rushing up to him as as he rides back and he's like pointing that's."
+        },
+        {
+          "startUid": "u0728",
+          "endUid": "u0735",
+          "quote": "Delwath: Is exactly. Try to do it so only the kids see and just drop it right by.\n\nKenzo: This is a.\n\nDM: Look, and like the oldest has like the middle one is the girl, and the two other ones that are boys and the girl goes to look at in the oldest like shoves her out of the way and, like picks it up like puts it on his hand and it's like they're all looking at it. And then she like grabs it, and then they start talking in the youngest like sits down, and then they start like looking like he's about to cry than they both like give the toy to the youngest and start to try and figure it out and kind of look the oldest kind of looks slightly over you like, with a questioning.\n\nKenzo: And we wink back.\n\nDM: Sort of waves, as you ride off."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "ride",
+      "note": "Keep this meeting near the camp distinct from unestablished entry into its interior."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0735",
+        "endUid": "u0758"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Kiran, turn away from the river, ride confidently north across the plains, and make an evening camp.",
+      "evidence": [
+        {
+          "startUid": "u0735",
+          "endUid": "u0735",
+          "quote": "DM: Sort of waves, as you ride off."
+        },
+        {
+          "startUid": "u0743",
+          "endUid": "u0748",
+          "quote": "Wellby's got a strong sense of direction and guides you confidently north."
+        },
+        {
+          "startUid": "u0749",
+          "endUid": "u0756",
+          "quote": "DM: And as you move away from the river, you, you know your, your—it seems like most of the Dunmari camps, these, at this time of year are along the river. You pass a—as the sun is beginning to set you see in the distance of a tower a watchtower from some older era, maybe standing tall over the over the plains maybe 10, 10-ish miles off. 10 miles West out of your way. And in a rare display of [garbled] focus. Continue north."
+        },
+        {
+          "startUid": "u0758",
+          "endUid": "u0758",
+          "quote": "DM: Make your camp for the evening on the featureless empty plains quiet in the quiet night."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Turn away from the river onto the plains.",
+          "place": "p02"
+        },
+        {
+          "reading": "Continue north without detouring to the tower ten miles west."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0749",
+        "endUid": "u0756"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees an old watchtower well west of its route and continues north.",
+      "evidence": [
+        {
+          "startUid": "u0749",
+          "endUid": "u0756",
+          "quote": "DM: And as you move away from the river, you, you know your, your—it seems like most of the Dunmari camps, these, at this time of year are along the river. You pass a—as the sun is beginning to set you see in the distance of a tower a watchtower from some older era, maybe standing tall over the over the plains maybe 10, 10-ish miles off. 10 miles West out of your way. And in a rare display of [garbled] focus. Continue north."
+        }
+      ],
+      "place": "p08",
+      "mode": "local",
+      "note": "The observer is traveling on the plains, without a separately fixed local position.",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0827",
+        "endUid": "u0841"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "While sleeping in the plains camp, Kenzo perceives a dark underground space with echoes and prayer-like Dwarvish voices.",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0833",
+          "quote": "DM: So you you sort of tried to follow it in your dream. And you find yourself drifting through this strange sort of empty space. It's like you're in a big cave but it's dark and you can't see anything but you can feel the sense of space around you like you're in some large area underground. And you can still hear that the hammers."
+        },
+        {
+          "startUid": "u0834",
+          "endUid": "u0837",
+          "quote": "DM: And, and then you can hear you can actually hear what sound like—well, it's in Dwarvish. I assume you don't speak Dwarvish. But just by the cadence that sounds like prayers that seem to be drifting almost like like smoke or or mist kind of through this space and towards the echoes."
+        },
+        {
+          "startUid": "u0839",
+          "endUid": "u0841",
+          "quote": "DM: But you can't seem to get closer and every time you try and move your consciousness through this big empty space it feels like you just stay in the center of it. Like, this isn't your space. You don't have—can't—you can't, you can't control your movement through here."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0875",
+        "endUid": "u0886"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See smoke of the presumed Saka camp about five miles east while still short of it.",
+      "evidence": [
+        {
+          "startUid": "u0875",
+          "endUid": "u0883",
+          "quote": "DM: So continue north. Wellby, make another survival check. You continue for most of the day until you see until, as you know, evening is beginning to fall, you see the smoke of fires, maybe five miles to East. You know the sun is beginning to set, right? Seem like you got maybe slightly—you went maybe a little more North Northwest then then you were intending but."
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0886",
+          "quote": "DM: You can still see the see what you presume is is Saka's camp, you know, on the horizon. You just need to decide if you want to get there after nightfall or get there in the morning."
+        }
+      ],
+      "place": "p12",
+      "mode": "local",
+      "note": "A later morning arrival confirms the camp’s identity; this sighting does not establish entry.",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0875",
+        "endUid": "u0914"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue north for most of the next day, sight the presumed camp to the east near sunset, and stop short for the night.",
+      "evidence": [
+        {
+          "startUid": "u0875",
+          "endUid": "u0883",
+          "quote": "DM: So continue north. Wellby, make another survival check. You continue for most of the day until you see until, as you know, evening is beginning to fall, you see the smoke of fires, maybe five miles to East. You know the sun is beginning to set, right? Seem like you got maybe slightly—you went maybe a little more North Northwest then then you were intending but."
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0886",
+          "quote": "DM: You can still see the see what you presume is is Saka's camp, you know, on the horizon. You just need to decide if you want to get there after nightfall or get there in the morning."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0887",
+          "quote": "Kenzo: Let's do the morning. I think if she's wary approaching at nights probably not going to be the best, most welcoming thing."
+        },
+        {
+          "startUid": "u0908",
+          "endUid": "u0914",
+          "quote": "Um so you wake up in the morning. Uneventful night, no dreams from anybody."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "ride",
+      "note": "The planned destination is not reached this evening."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1150",
+        "endUid": "u1160"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride to Saka’s camp in the morning and stop at its edge as people fall quiet.",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1155",
+          "quote": "DM: Maybe 15 or 20 tents kind of set up in a large circle around a sort of open space in the middle and and a herd of maybe 60 horses at least kind of grazing scattered. Now in the morning, you know, this time of morning as you're beginning to approach this a fair bit of activity, is, as people are taking small groups, you know, bringing small groups of horses out to scatter across the landscape to eat what grass, they can. You know there's so the lot of the sort of young younger generation is out on chores and things like that some finishing their chores. So there's a fair bit of bustle to this camp, as you approach but."
+        },
+        {
+          "startUid": "u1156",
+          "endUid": "u1160",
+          "quote": "DM: As as you do, begin to approach like slowly there's this sort of wave front of kind of quiet as it as as everybody, you know the you know dozen or so closest people start to realize that you're, you know, there's these strangers approaching. And and everybody kind of goes quiet and you can see now as obviously word word passes, as you as you stop on the edge edge of Camp I'm."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1249",
+        "endUid": "u1269"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Saka’s niece leads the party into the central tent where Saka waits beside the smoldering fire.",
+      "evidence": [
+        {
+          "startUid": "u1243",
+          "endUid": "u1248",
+          "quote": "DM: Ah, the woman comes back walking walking slowly. My aunt has been expecting you. She will speak. I do not know if she will tell you what you want to hear. Please come."
+        },
+        {
+          "startUid": "u1249",
+          "endUid": "u1254",
+          "quote": "DM: And she leads you into this central tent which is which is hot. And the."
+        },
+        {
+          "startUid": "u1260",
+          "endUid": "u1265",
+          "quote": "DM: So you enter the tent and you can see, like there's an old woman sitting on a like a chair covered in like furs and leather. She must be at least 85, 90. She's, like, wrinkled. She's got a cloak on. There's a smoldering fire in the center of the—despite the heat and the entire interior is smoky and, you know, you can smell the you can smell the wood smoke from the fire mixed with you know that the smell of of of a little bit of smoked meat and and leather and sweat. And the woman who greeted you kind of walks over and and taps her gently on the shoulder and whisper something to her."
+        },
+        {
+          "startUid": "u1266",
+          "endUid": "u1269",
+          "quote": "DM: And she sort of slowly looks up at you and opens her eyes, which are clear blue and seem untouched by age, despite the wrinkles in her face and the slowness of her movements. Seems like she has sort of arthritic as she kind of begins to step forward, she's rubbing her hands together a little bit. Picks up like a walking cane next to her and doesn't doesn't get up but like taps the ground in front of the fire and says, \"Sit. Come.\""
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u2031",
+        "endUid": "u2043"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party takes a break from the audience to talk among themselves while remaining guests of Saka’s camp.",
+      "evidence": [
+        {
+          "startUid": "u2031",
+          "endUid": "u2039",
+          "quote": "Wellby: Saka, could we beg your indulgence to take a few minutes to talk amongst ourselves?\n\nDM: You are welcome to the hospitality of our camp.\n\nWellby: Gratitude.\n\nDM: I know I have given you much to think of.\n\nSeeker: Need.\n\nWellby: Perhaps we can continue the conversation in a bit.\n\nDM: I'm not going anywhere."
+        },
+        {
+          "startUid": "u2040",
+          "endUid": "u2042",
+          "quote": "Kenzo: Saka, we're incredibly grateful for, for what you shared and I know you did so with apprehension and we received that knowledge with your your intentions and spirit behind it well. Thank you again."
+        }
+      ],
+      "place": "p12",
+      "note": "Their exact position after requesting the break is unstated; no confirmed exit from or return to the tent is manufactured."
+    }
+  ]
+}

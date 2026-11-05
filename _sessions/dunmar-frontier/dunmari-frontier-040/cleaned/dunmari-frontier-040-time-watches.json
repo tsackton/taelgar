@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-time-markers.json",
+    "sha256": "0927da96d9b56aca824ed07c055f9b77f26dfd3b621d3fe2e32e77a8b1092f1a"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-transcript.md",
+    "sha256": "210e9ba878cf59a524e4ff1867d6f43bf170d7e5134a86913280ca07bbe13692"
+  },
+  "dateAssessment": "Working dates use the session YAML, 3–6 July 1748. The transcript independently establishes July and three overnight transitions, matching that span conditional on the YAML start; it does not speak the civil days or year. Kiran’s mid-afternoon encounter and midday departure remain conflicting clocks in t04–t05. Historical accounts and proposed future travel do not extend the session.",
+  "watches": [
+    {
+      "day": "July 3, 1748",
+      "startWatch": "midday",
+      "endWatch": null,
+      "basis": "stated",
+      "summary": "Noon departure; the first day’s ride covers twelve miles, with the camp-arrival clock unstated.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-07-03",
+      "endDate": "1748-07-03"
+    },
+    {
+      "day": "July 3–4, 1748",
+      "startWatch": null,
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Quiet riverside night ends with waking at bright dawn.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-07-03",
+      "endDate": "1748-07-04"
+    },
+    {
+      "day": "July 4, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kiran: mid-afternoon on approach, but midday at departure; conflicting clocks remain unresolved.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-07-04",
+      "endDate": "1748-07-04"
+    },
+    {
+      "day": "July 4, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sun begins setting at the bypassed tower; the party camps that evening.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-07-04",
+      "endDate": "1748-07-04"
+    },
+    {
+      "day": "July 4–5, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Sleep follows the evening camp; waking precedes most of the next day’s travel.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-07-04",
+      "endDate": "1748-07-05"
+    },
+    {
+      "day": "During July 4–5, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kenzo follows forge echoes while asleep; the dream ends in waking.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "clock": "local",
+      "scope": "Kenzo’s dream within the plains overnight",
+      "dateWindow": [
+        "1748-07-04",
+        "1748-07-05"
+      ]
+    },
+    {
+      "day": "July 5, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Most of a day’s travel ends with distant camp smoke near sunset.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-07-05",
+      "endDate": "1748-07-05"
+    },
+    {
+      "day": "July 5–6, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "The party camps short of Saka overnight and wakes to morning camp sounds.",
+      "markers": [
+        "t11",
+        "t12"
+      ],
+      "startDate": "1748-07-05",
+      "endDate": "1748-07-06"
+    },
+    {
+      "day": "July 6, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Morning arrival at Saka’s camp; about ten minutes waiting precedes the audience.",
+      "markers": [
+        "t13",
+        "t14"
+      ],
+      "startDate": "1748-07-06",
+      "endDate": "1748-07-06"
+    }
+  ]
+}
