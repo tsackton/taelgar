@@ -43,6 +43,16 @@ def validate_spans(bundle, interaction, start, end):
     require(actual == expected,
             f"{interaction['id']}: lines source spans differ from the original range")
 
+    previous_cut = None
+    for block in blocks:
+        body = block['body'].strip()
+        if scenes.draft.INLINE.fullmatch(body):
+            require(body != previous_cut,
+                    f"{interaction['id']}: combine adjacent identical cut labels and preserve their spans")
+            previous_cut = body
+        else:
+            previous_cut = None
+
 
 def review_context(bundle, start, end):
     """Five nonblank physical text lines outside the complete source range.

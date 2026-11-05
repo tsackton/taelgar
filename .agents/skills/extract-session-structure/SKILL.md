@@ -26,7 +26,7 @@ For a comparison trial, use an explicitly separate output directory and fingerpr
 
 Read the complete transcript in source order, using manageable windows and respecting shared-UID turn groups. Before advancing each window:
 
-- Draft session-time records: evidence of time passing and dates/times anchoring session events, including downtime, travel, and scenes established out of chronological order. Apply the time skill's inclusion rule before preserving separate repeated and correcting assertions; unrelated history, time-like discussion, and hypothetical plans do not qualify. Include supported structured values and exact evidence. Do not reduce these to candidate pointers for a later full extraction pass.
+- Draft sparse time markers for established anchors, elapsed gameplay, and shifts of narrated time. Apply the time skill’s inclusion rules in each window. Attach later confirmations and corrections to the affected marker, retaining their source UIDs. Leave other gameplay unassigned, including split-party actions whose timing the table leaves open. Record supported values and exact evidence during this read.
 - Draft location markers and dictionary entries at the narrated scale. Keep journeys together when appropriate; repeated descriptions do not automatically create new markers.
 - Extend the segment classification, carrying open segments across reading windows. Classification boundaries are not scenes and do not control which other facts may be extracted.
 - Record entity candidates, identity-bearing occurrences, meaningful exclusions, and provisional importance. Defer final identity matching and whole-session importance until the full read is complete.

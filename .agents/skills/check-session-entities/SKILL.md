@@ -162,6 +162,7 @@ Select these kinds:
   **Magic items have a lower inclusion threshold:** a brief, concrete contribution
   from a particular magic item can suffice when it is not merely routine use of
   PC equipment, without extensive lore, a name, or recurring appearances.
+  **Dunmari Frontier 98:** include the Ever Spinning Top. The DM confirms its recovery from Kadmos and explains how the party can test for scrying. That exchange establishes a particular item’s recovery and use in the fiction.
   **Mawar Episode 1 calibration:** include Illius's compass
   as a cameo for helping locate the stolen drop; the user's review identifies
   this as a magic-item inclusion case. Do not invent additional powers from that
