@@ -1,0 +1,182 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-time-markers.json",
+    "sha256": "a541a9498d201c1cba8bd96792c16b682e300e8524b2e1e367fb86cedc819485"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-transcript.md",
+    "sha256": "d2e591eb737282b477e5e6e42d157b85027ae635d1f22db0d37c7626a87959db"
+  },
+  "dateAssessment": "The review uses June 4–8, DR 1748: June 4 and June 8 are explicitly spoken in this transcript (t03, t21); the year comes from YAML. One canyon night, one Bas Udda night and two road nights account for four date boundaries. No definite date is inherited from DF030. The mirror shows an undated historical frame; its viewing is grouped with the observers’ current June 8 scene. Travel-day and night rows without a watch preserve that limited precision. The chair-prisoner is freed at Bas Udda on June 5; Agata’s note gives June 8, a discrepancy flagged for human review.",
+  "watches": [
+    {
+      "day": "June 4, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sinking sun, dinner and first watch; June 4 is spoken, with retrospective short-rest credit.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06"
+      ],
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-04"
+    },
+    {
+      "day": "June 4, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "The shadow searches twenty to thirty minutes; regrouping and camp repairs approach midnight.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-04",
+      "sourceRanges": [
+        [
+          "u2104",
+          "u2108"
+        ]
+      ]
+    },
+    {
+      "day": "June 4–5, 1748",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Rest resumes about midnight and ends around eight in the morning.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-05"
+    },
+    {
+      "day": "June 5, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Delwath rises after four hours and scouts in early morning light during the others’ rest.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-06-05",
+      "endDate": "1748-06-05",
+      "scope": "Delwath"
+    },
+    {
+      "day": "June 5, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Morning ride takes roughly three to four hours; Bas Udda arrival is about noon.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-06-05",
+      "endDate": "1748-06-05"
+    },
+    {
+      "day": "June 5, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Caching, identification and freeing the chair-prisoner occupy the day; the DM establishes evening.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-06-05",
+      "endDate": "1748-06-05"
+    },
+    {
+      "day": "June 5–6, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "The party stays overnight at Bas Udda before beginning westward travel the next morning.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-06-05",
+      "endDate": "1748-06-06"
+    },
+    {
+      "day": "June 6, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "First travel day ends at Shakun’s barrier; burning the seeds takes a few minutes.",
+      "markers": [
+        "t13",
+        "t14"
+      ],
+      "startDate": "1748-06-06",
+      "endDate": "1748-06-06"
+    },
+    {
+      "day": "June 7, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Second travel day: the woman watches the older man for an hour or two while riding.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-06-07",
+      "endDate": "1748-06-07"
+    },
+    {
+      "day": "June 7, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The DM identifies the second night in the desert before the final travel day.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-06-07",
+      "endDate": "1748-06-07"
+    },
+    {
+      "day": "June 8, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Third-day arrival is about three; releases remain June 8 after two road nights.",
+      "markers": [
+        "t23",
+        "t17",
+        "t18",
+        "t19",
+        "t20",
+        "t21"
+      ],
+      "startDate": "1748-06-08",
+      "endDate": "1748-06-08"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Agata: conflicting chair-prisoner release date",
+      "path": "People/Fey/Agata.md",
+      "sha256": "344a86d57ada2058995f35bed38fff8512f0796a3fe4f27d64af6691115ab3de"
+    },
+    {
+      "label": "Kaya: June 5 release record",
+      "path": "People/Dunmari/Kaya.md",
+      "sha256": "493ce038205eeff363d9f2fd9cb5cd3ead96dda78e82884ceb43c54d5e7bfe05"
+    },
+    {
+      "label": "Selkan: later religious identity cited in the note",
+      "path": "People/Dunmari/Selkan.md",
+      "sha256": "39621706d9d6516454f236380f70a7f7cd4a75705a91e7d20f2a91bdd240d465"
+    }
+  ]
+}
