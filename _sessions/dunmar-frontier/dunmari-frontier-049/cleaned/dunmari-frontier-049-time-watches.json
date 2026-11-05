@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-time-markers.json",
+    "sha256": "6d1c292d7f52aea135aa36c64d44ca72613aebb472d5865307e91556ee9310c9"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-transcript.md",
+    "sha256": "255f7eea38b61ccb684fe1bb52a7c0abcd1794d46539e6eb88091e95ba8e7978"
+  },
+  "dateAssessment": "Working dates use the session YAML: August 22–24, 1748. The transcript independently establishes two calendar advances (Wednesday → Thursday → Friday), matching that span conditional on the YAML opening date; it never speaks the numerical campaign dates. The first lunch is about 14:00, Galen’s next-day lecture is advertised for 16:00, and Friday’s Fausto meeting is explicitly morning. Short later intervals stay in that watch as an estimate. Historical accounts, proposed rests, and the unaccepted two-week skip add no elapsed adventure time.",
+  "watches": [
+    {
+      "day": "August 22, 1748",
+      "startDate": "1748-08-22",
+      "endDate": "1748-08-22",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Lunch about 14:00; one minute eating, then a five-minute wait before the manor meeting.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ]
+    },
+    {
+      "day": "August 23, 1748",
+      "startDate": "1748-08-23",
+      "endDate": "1748-08-23",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Four o’clock lecture follows next-day errands; the show lasts at least roughly half an hour, followed by minutes waiting.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ]
+    },
+    {
+      "day": "August 24, 1748",
+      "startDate": "1748-08-24",
+      "endDate": "1748-08-24",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Morning meeting; minutes studying the scroll, fight under thirty seconds, then about two minutes hidden and two flying.",
+      "markers": [
+        "t08",
+        "t09",
+        "t10",
+        "t11",
+        "t12"
+      ],
+      "sourceRanges": [
+        [
+          "u3699",
+          "u3702"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Chalice reference with competing purchase price",
+      "path": "Things/Artifacts of Power/Chalice of the Runepriest.md",
+      "sha256": "6768b80cd7a85269c3447ebdac10b140e18ff4bd493094f7f3df0fe240b007c6"
+    }
+  ]
+}

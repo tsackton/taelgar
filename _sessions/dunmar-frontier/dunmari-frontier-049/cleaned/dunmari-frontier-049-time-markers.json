@@ -1,0 +1,382 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-049",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-session.yaml",
+    "sessionYamlSha256": "4401dddf493e2ba43b45193a788c3736a59ff828270e12f62cd30647fadcdb87",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-transcript.md",
+    "transcriptSha256": "255f7eea38b61ccb684fe1bb52a7c0abcd1794d46539e6eb88091e95ba8e7978",
+    "yamlDates": {
+      "start": "1748-08-22",
+      "end": "1748-08-24"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0124",
+        "endUid": "u0124"
+      },
+      "reading": "The party and Gnaeus settle for lunch at about two in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0124",
+          "endUid": "u0124",
+          "quote": "It's, it's like two in the afternoon"
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM places the current lunch at about two."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0128",
+        "endUid": "u0129"
+      },
+      "reading": "Gnaeus eats for a minute before beginning his account; the later description repeats that same pause.",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0129",
+          "quote": "DM: And he sits down and he he eats for a minute before he before he says anything."
+        },
+        {
+          "startUid": "u0133",
+          "endUid": "u0174",
+          "quote": "So, as he, as he eats for a minute, he kind of sighs."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM explicitly narrates a minute eating before speaking."
+      },
+      "actors": [
+        "Gnaeus"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0745",
+        "endUid": "u0751"
+      },
+      "reading": "The party arrives about five minutes early and spends those minutes discussing the meeting before the butler appears.",
+      "evidence": [
+        {
+          "startUid": "u0745",
+          "endUid": "u0751",
+          "quote": "you arrived about five minutes or so before you're due."
+        },
+        {
+          "startUid": "u0823",
+          "endUid": "u0826",
+          "quote": "So just that's just almost exactly five minutes so as the... As you finish talking, the door swings open"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Arrival lead time and the DM’s subsequent elapsed-time confirmation describe one interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1649",
+        "endUid": "u1660"
+      },
+      "reading": "Narration resolves the following day’s art sales and mirror research before the party reunites at Galen’s lecture.",
+      "evidence": [
+        {
+          "startUid": "u1632",
+          "endUid": "u1634",
+          "quote": "Delwath: So, in the interest of time, we just skip ahead to Galen's thing tomorrow. Yes.\n\nDM: Just tell me what else you're trying to accomplish."
+        },
+        {
+          "startUid": "u1638",
+          "endUid": "u1645",
+          "quote": "Delwath: Tonight, tonight, tonight Wellby has a date. Yeah, Wednesday night Wellby has, um... I mean, I think we want to learn as much as we can about the mirror, right, the book, and Delwath wants to sell, I mean, I don't know...\n\nRiswynn: I don't know what your foreshadowing plan on.\n\nDelwath: Level nine is exactly, but it would be convenient if we didn't we started.\n\nDM: Yeah and then by it's it makes much more sense for you to just buy what you want now right. Now Aaviskar can whisper in your ear, get that, right.\n\nDelwath: So, so my plan for Thursday would be to sell the two pieces of art for as much as we can, and then buy some sort of scrying focus, and then hope to have some leftover gold after that."
+        },
+        {
+          "startUid": "u1649",
+          "endUid": "u1660",
+          "quote": "DM: Right okay so just to do this, all relatively quickly. So the let me, let me just pull up all my notes here. So I'm the okay, so Delwath, with the art... One of the two paintings, so the painting of Eudomes... You actually are able to, Roscelia's art dealer is able to connect you with somebody who... Even though it's not a particularly spectacular portrait, somebody who collects portraits of Drankorians. And buys that for 1000 gold.\n\nUnknown: Okay.\n\nDM: The painting of the mountains there's less demand for, but you are able to sell that for 600 gold. A scrying focus costs 1000 gold, so net 600 from..."
+        },
+        {
+          "startUid": "u1724",
+          "endUid": "u1731",
+          "quote": "DM: Ah, so that's. I think that's mostly what you want to learn, so you all meet again at Galen's lecture. Now this is this is in one of the like nice. I'm. One of the nice, the nicer colleges um it's like a fancy lecture hall. You know there's there's maybe 200 people gathered here."
+        }
+      ],
+      "dateBoundaries": 1,
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t01",
+          "anchor": "the next calendar day, called Thursday"
+        },
+        "precision": "exact",
+        "basis": "The Wednesday discussion is followed by explicitly planned Thursday errands and their narrated resolution."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1724",
+        "endUid": "u1731"
+      },
+      "reading": "The party reaches the advertised Galen demonstration, scheduled for four in the afternoon on that following day.",
+      "evidence": [
+        {
+          "startUid": "u0808",
+          "endUid": "u0809",
+          "quote": "Wellby: Tomorrow afternoon at four, it is an evening of elemental magic explained by the great scholar Galen, so I'm curious for for her perspective on that too, I mean."
+        },
+        {
+          "startUid": "u1624",
+          "endUid": "u1628",
+          "quote": "Delwath: Um let's. Do we, so Galen has a thing tomorrow night.\n\nDM: Is open tomorrow afternoon.\n\nDelwath: Tomorrow afternoon, we want to go there first and then Fausto."
+        },
+        {
+          "startUid": "u1724",
+          "endUid": "u1731",
+          "quote": "DM: Ah, so that's. I think that's mostly what you want to learn, so you all meet again at Galen's lecture. Now this is this is in one of the like nice. I'm. One of the nice, the nicer colleges um it's like a fancy lecture hall. You know there's there's maybe 200 people gathered here."
+        }
+      ],
+      "time": {
+        "clock": "16:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "The announced four o’clock lecture is subsequently attended; no separate arrival clock is given."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1826",
+        "endUid": "u1840"
+      },
+      "reading": "Galen completes a demonstration lasting at least roughly half an hour, perhaps forty minutes.",
+      "evidence": [
+        {
+          "startUid": "u1826",
+          "endUid": "u1840",
+          "quote": "As the show sort of ends, you know this has gone on for probably at least half an hour 40 minutes, with his showmanship and everything"
+        }
+      ],
+      "duration": {
+        "min": 30,
+        "minInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s approximate duration of the completed show."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1898",
+        "endUid": "u1903"
+      },
+      "reading": "The party waits a few minutes for the audience to disperse before approaching Galen.",
+      "evidence": [
+        {
+          "startUid": "u1898",
+          "endUid": "u1903",
+          "quote": "So you wait a few minutes for like the crowd to disperse a little bit and sort of approach him"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated waiting after the demonstration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2128",
+        "endUid": "u2134"
+      },
+      "reading": "Play advances to Friday morning: Riswynn runs her agreed errands while the other four meet Fausto.",
+      "evidence": [
+        {
+          "startUid": "u2128",
+          "endUid": "u2128",
+          "quote": "DM: So this will be Friday. Totally happy to meet adventurers anytime."
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2134",
+          "quote": "DM: So you are, you are just going. So you get are you what are you doing with the chalice are you going to go pick it up?\n\nRiswynn: I'm running solo errands where I get money, have candle, get chalice. All the time having special. Special lead pouch in my, you know, safely secured [garbled]."
+        },
+        {
+          "startUid": "u2148",
+          "endUid": "u2165",
+          "quote": "At Fausto's tower in the morning."
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2186",
+          "quote": "Riswynn is off getting the chalice and getting money from the dwarves and stuff."
+        }
+      ],
+      "dateBoundaries": 1,
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t05",
+          "anchor": "the next calendar day, called Friday"
+        },
+        "precision": "exact",
+        "basis": "The next-day appointment is explicitly Friday and the arrival is morning."
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2652",
+        "endUid": "u2654"
+      },
+      "reading": "Fausto spends a few minutes magically examining the offered scroll in his workshop.",
+      "evidence": [
+        {
+          "startUid": "u2652",
+          "endUid": "u2654",
+          "quote": "DM: He, like, touches it carefully and, like seems to be casting a spell takes him a few minutes."
+        }
+      ],
+      "actors": [
+        "Fausto"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM describes time actually taken examining the scroll."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u3558",
+        "endUid": "u3559"
+      },
+      "reading": "By the street escape, the fight and fall have taken less than about thirty seconds in the fiction.",
+      "evidence": [
+        {
+          "startUid": "u3558",
+          "endUid": "u3559",
+          "quote": "this whole thing is only now taken about like less than 30 seconds."
+        }
+      ],
+      "duration": {
+        "max": 0.5,
+        "maxInclusive": false,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s explicit elapsed-time bound; not calculated from extracted rounds."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3730",
+        "endUid": "u3731"
+      },
+      "reading": "Kenzo, Delwath and Wellby have spent about two minutes inside the closed portable hole while Seeker attracts attention outside.",
+      "evidence": [
+        {
+          "startUid": "u3693",
+          "endUid": "u3695",
+          "quote": "appears, like, 400 feet on the other side of the wall with the portable hole."
+        },
+        {
+          "startUid": "u3730",
+          "endUid": "u3731",
+          "quote": "Wellby: 10 minutes of air inside the hole.\n\nDM: Yeah, you're down to about eight minutes of air inside the hole."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Inferred from ten minutes of air initially and about eight minutes remaining."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3785",
+        "endUid": "u3797"
+      },
+      "reading": "Seeker flies as a crow for two minutes, lands behind a stable, changes back and releases the others.",
+      "evidence": [
+        {
+          "startUid": "u3769",
+          "endUid": "u3770",
+          "quote": "Seeker: Okay, so I cast Polymorph on myself and become a crow and take off flying with the, the full intention, just as I transform, of landing as a crow... Outside the nearest structure, but in its shelter that I can see, so fly less than a mile."
+        },
+        {
+          "startUid": "u3785",
+          "endUid": "u3785",
+          "quote": "DM: You only you only fly for two minutes before you see a."
+        },
+        {
+          "startUid": "u3787",
+          "endUid": "u3797",
+          "quote": "DM: You see behind there's like a small there's like a stable and there's some like some like abandoned horseshoes, like, horseshoes behind the stable that are, like, shining in the sun. You sort of fly down and you land and then you're like, oh wait, I was supposed to do something, and you I mean the only way you can get out the hole is to turn back into Seeker, yep.\n\nSeeker: Yep um let's get we're probably half mile away at this point.\n\nDM: Yeah you're you're a good half mile from the gate and your have a little bit of shelter.\n\nSeeker: That was the intention, so I I change back and unfold the hole so there's, to pop everyone out again, or whatever it is [garbled]\n\nDM: Down on the ground and everybody climbs out."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM states only two minutes of crow flight before the landing."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No numerical campaign date is spoken. Absolute August 22–24, 1748 dates come from YAML; the transcript independently establishes the Wednesday → Thursday → Friday progression.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t04",
+      "t05",
+      "t08"
+    ],
+    "explanation": "The following-day errands and lecture, then Friday morning’s purchases and Fausto visit, establish two calendar transitions. This matches the YAML span conditional on its opening date. Gnaeus’s historical travels, recalled circlet events, proposed rests and future upstream travel do not extend that played span."
+  }
+}
