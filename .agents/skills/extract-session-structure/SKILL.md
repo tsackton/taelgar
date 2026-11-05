@@ -16,7 +16,7 @@ Use the installed component skills as the owners of inclusion rules, schemas, ev
 
 Read these skills and their required format references before extraction. Keep all six JSON files independently usable. A full run ends with two derived products, `cleaned/structured-data-review.md` and `cleaned/time-watches.json`.
 
-**Review only.** When asked to summarize existing structured data or refresh the review, go directly to [Build the session review](references/session-review.md). Use the current six extractions and check relevant transcript passages. Report missing or stale inputs by component.
+**Review only.** When asked to summarize existing structured data or refresh the review, go directly to [Build the session review](references/session-review.md). Use the current six extractions, including their retained evidence and interaction text; check relevant transcript passages only where needed. A complete transcript reread is not required. Report missing or stale inputs by component.
 
 ## Prepare once
 

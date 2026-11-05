@@ -152,6 +152,10 @@ def check_rows(edit, sources, bundle):
                 require(len(row['places']) == 1 and any(m.get('to') == row['places'][0]
                         and m.get('completion') == 'underway' for m in played), 'Approach needs an underway marker')
             else:
+                if len(row['places']) > 1:
+                    basis = row.get('routeBasis')
+                    require(isinstance(basis, str) and basis.strip(),
+                            'Arrow routes need routeBasis explaining JSON evidence for travel rather than substantive played stops')
                 visited = {m['place'] for m in played if m['type'] == 'presence'}
                 for m in played:
                     if m['type'] != 'movement' or m['completion'] in {'planned', 'canceled'}:
