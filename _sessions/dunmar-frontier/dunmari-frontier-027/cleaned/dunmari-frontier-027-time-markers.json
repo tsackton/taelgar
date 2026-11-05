@@ -1,0 +1,434 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-027",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+    "sessionYamlSha256": "5f9352d116e8a453eedffff69960044b1e8fccbc908cf7d2f08aa14193a5055a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-transcript.md",
+    "transcriptSha256": "381636f8b9b33da9a63e585cd69cc8b84310cb52e18c95f1cc0e288a155f34e7",
+    "yamlDates": {
+      "start": "1748-05-24",
+      "end": "1748-05-27"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0018"
+      },
+      "reading": "The funeral begins after sunset and concludes well into the evening.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0018",
+          "quote": "So the sun has set, but the fires are burning bright on the plaza in front of the Temple of Shakun as you emerge from the darkness of the temple itself."
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0035",
+          "quote": "DM: Now, as the funeral service concludes, well into the evening you are left standing by yourselves in the desert night sky in the oasis lit by nothing but the fires of the funeral pyres for the two acolytes considering your next move."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "evening",
+        "basis": "Opening after sunset; subsequent funeral conclusion is well into evening."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0073",
+        "endUid": "u0077"
+      },
+      "reading": "Current play is late May, correcting the player’s suggested April.",
+      "evidence": [
+        {
+          "startUid": "u0073",
+          "endUid": "u0077",
+          "quote": "Kenzo: So they left when?\n\nDM: They left in February.\n\nKenzo: And it's like April now?\n\nUnknown: It's.\n\nDM: No, it's well into May, it's almost June."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "date": {
+          "month": 5
+        },
+        "basis": "DM says well into May, almost June; no exact day or year spoken."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0380",
+        "endUid": "u0383"
+      },
+      "reading": "The party defers talking to Candrosa because the funeral evening is now deep night.",
+      "evidence": [
+        {
+          "startUid": "u0380",
+          "endUid": "u0383",
+          "quote": "DM: Do you want to talk to him tonight, or in the morning?\n\nKenzo: Oh yeah, maybe we'll do it in the morning. Yeah, tonight's pretty deep night. Yeah, and actually said, like, you know, I think, is—is the pyre still lit?\n\nUnknown: Yeah."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "night",
+        "basis": "Kenzo describes tonight as deep night while arranging the morning meeting."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0416",
+        "endUid": "u0417"
+      },
+      "reading": "The overnight rest in Karawa ends with sunrise preparations.",
+      "evidence": [
+        {
+          "startUid": "u0416",
+          "endUid": "u0417",
+          "quote": "DM: As you, those of you who are going to sleep, if you were Strength-drained by the shadows, you can reset your Strength to normal and just do your rest then. Um, Seeker, if you want to study your book and change one spell, you're welcome to switch something for something of the same level, if you want to try out new spells."
+        },
+        {
+          "startUid": "u0436",
+          "endUid": "u0439",
+          "quote": "DM: So, as the as the sun rises in the morning and you prepare for your journey. So Kenzo, is everybody going to talk to Candrosa?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "sunrise",
+        "basis": "Explicit sun rises in the morning after the rest."
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Long-rest convention for the overnight rest that restores drained Strength, not a measured clock interval."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "Rest credit is explicitly for those going to sleep; sunrise is the shared next-day anchor."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0445"
+      },
+      "reading": "The group finds Candrosa after breakfast.",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0445",
+          "quote": "DM: Yeah okay. So after breakfast, you find Candrosa. He is sitting in, you know, sort of on the—the little conference room in the—in the temple. Looks up as you approach."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "morning",
+        "basis": "After breakfast following the narrated sunrise."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0708",
+        "endUid": "u0714"
+      },
+      "reading": "The first travel day crosses the crumbling mesa in hot sunlight.",
+      "evidence": [
+        {
+          "startUid": "u0708",
+          "endUid": "u0714",
+          "quote": "DM: So you head across the mesa. Now, the mesa itself is crumbling, broken.\n\nDM: It seems like the rocks are eroding around you, but somehow your path always remains clear, like there will be a giant crevasse that opens up [garbled], or you know sand and rock start a small rockslide 100 feet behind you. But through your entire journey, like, for the first first day of travel on top of the mesa, hot tiring day in the sun, trying to stick to the shadows as much as he can, despite the fact that the mesa is sort of crumbling around you, it never seems to affect you."
+        }
+      ],
+      "duration": {
+        "text": "the first day of travel",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated daylight travel; not a measured 24-hour interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0715",
+        "endUid": "u0717"
+      },
+      "reading": "The party wakes at its first mesa camp on the second travel morning.",
+      "evidence": [
+        {
+          "startUid": "u0715",
+          "endUid": "u0717",
+          "quote": "DM: Same on your second day you wake up and you see you know there's been a bit of a collapse almost forming a semi circular wall around the side of of your camp providing some shade and protection. And as you set out again like the the desert itself seems to clear itself out to provide smooth travel for your journey alone."
+        },
+        {
+          "startUid": "u0726",
+          "endUid": "u0732",
+          "quote": "DM: Yeah, so I, you know, as you travel kind of on this, the morning of the second day, it's unnaturally quiet up here. You know deserts are in this part of the day, are usually quiet, but this kind of rocky desert shouldn't be that quiet in, you know, dusk and dawn, right, and you notice this particularly, Drikod, as you're sort of packing up the morning of your first night camping, so the morning of your second day. There's not the sort of chirping of of crickets or the the you know, the song of a cactus wren or something that you'd expect kind of in this terrain. It seems just very quiet, and what you do hear sounds like rocks creaking like the ground shifting not animals."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "morning",
+        "basis": "DM explicitly identifies the morning after the first camping night."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0746",
+        "endUid": "u0747"
+      },
+      "reading": "Delwath spends roughly a minute concentrating on Fey Sight during the camp’s attempts to commune.",
+      "evidence": [
+        {
+          "startUid": "u0746",
+          "endUid": "u0747",
+          "quote": "DM: So you spend a minute you spend some time sort of concentrating on on set on this ritual to see magic. Drikod, it's—"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM says a minute, then some time concentrating."
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0818",
+        "endUid": "u0821"
+      },
+      "reading": "Drikod sends the raven scouting around noon on travel day two.",
+      "evidence": [
+        {
+          "startUid": "u0818",
+          "endUid": "u0821",
+          "quote": "DM: Moving again southward again on the mesa and and, as you travel south, you—you almost get the sense that there's something following you. Nothing you can see, and around noon you send your raven off, Drikod, right? I'm—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "12:00",
+        "partOfDay": "noon",
+        "basis": "DM explicitly says around noon during day-two travel."
+      },
+      "actors": [
+        "Drikod"
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0833",
+        "endUid": "u0840"
+      },
+      "reading": "The second mesa camp settles for the night and encounters the unseen presence.",
+      "evidence": [
+        {
+          "startUid": "u0833",
+          "endUid": "u0840",
+          "quote": "DM: And as you settle in for the night—Drikod, we'll come to your—I'm going to set us up for a short break here, and then we'll come to your report of the Raven after the break as you settle in for the night um. You you sort of feel this—\n\nDM: It's almost as if somebody sits down—somebody you can't quite see sits down at your campsite with you. And you know each of you kind of feels a bit of a, of a different sense of this presence, um, Wellby."
+        },
+        {
+          "startUid": "u0841",
+          "endUid": "u0842",
+          "quote": "DM: For you, as this as you're sitting down, you're sort of making your meal, you're doing the normal evening things, it almost feels like there's somebody kind of pointing things out to you, sort of explaining the world around you, like saying, \"Notice that, pay attention to that.\" Or."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "evening",
+        "basis": "Settling for the night, making a meal and normal evening activities."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1036",
+        "endUid": "u1042"
+      },
+      "reading": "The third travel morning opens with the raven’s scouting report.",
+      "evidence": [
+        {
+          "startUid": "u1036",
+          "endUid": "u1042",
+          "quote": "DM: Okay, so. As the morning comes, about 10—you're about 10 miles from the southern edge of the—of the mesa.\n\nDM: And I guess this would actually be in the middle of the night, but we'll just say it's in the morning for narrative purposes. I'm—the silver raven comes flying back and whispers to Drikod, or says to all of you, and what the raven communicates as it flew over the southern edge of the mesa is that there is indeed a circle of stone trees."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "morning",
+        "basis": "DM frames play as morning on the third travel day."
+      },
+      "dateBoundaries": 1,
+      "note": "The DM notes the raven would have returned in the middle of the night, then explicitly places the report in the morning for narrative purposes; this is one corrected anchor."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1245",
+        "endUid": "u1249"
+      },
+      "reading": "The party reaches its scouting stop one mile north of the stone trees in mid-to-late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1245",
+          "endUid": "u1249",
+          "quote": "Delwath: Time of day, is it?\n\nDM: It's now—I mean, you've been going pretty slow, so it's, I would say, mid afternoon, edging towards late afternoon.\n\nDM: Given that you've been sneaking for the past seven miles."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "afternoon",
+        "basis": "DM says mid-afternoon edging toward late afternoon."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1583",
+        "endUid": "u1586"
+      },
+      "reading": "The familiar’s cautious search takes about ninety minutes, ending around 4:30 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1583",
+          "endUid": "u1586",
+          "quote": "DM: Not horrible, um, so it takes about an hour, you get, the bird gets, I mean, because you're really trying to be careful not to arouse suspicion or be spotted, and there's, as you've noticed, like almost no animal life. You take a pretty circuitous route, and so it takes you some time to find this bowl.\n\nDM: However, after about an hour and a half, so it's now probably four, 4:30pm or so, um, you do, and when you're—so, so you can—"
+        },
+        {
+          "startUid": "u1593",
+          "endUid": "u1595",
+          "quote": "DM: So, so, but it takes you a little while because you're so—it's about an hour and a half of flying until you, until you see stretching out below you this bowl shaped circle in the in the desert that just kind of opens up in the middle of nowhere. That it's probably five 600 feet below the surface of the desert, these are these are deep."
+        },
+        {
+          "startUid": "u1683",
+          "endUid": "u1685",
+          "quote": "Wellby: What time is it now?\n\nDM: It's about 4:30.\n\nDM: You have an hour and a half, two hours till sunset."
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM revises about an hour to an hour and a half and repeats that duration."
+      },
+      "time": {
+        "precision": "approximate",
+        "clock": "16:30",
+        "basis": "Initial four to four-thirty estimate is later confirmed as about 4:30."
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1794",
+        "endUid": "u1798"
+      },
+      "reading": "Drikod’s Augury ritual takes a few minutes before the party commits to bypassing the gnolls.",
+      "evidence": [
+        {
+          "startUid": "u1794",
+          "endUid": "u1798",
+          "quote": "DM: Yeah, um, so as you cast down, and it takes a few minutes to cast this spell, there's sort of a ritual involved in it, um, you feel a sense of calm and clear purpose come over you and the the spirit of the mountain says, \"Yes, this would be good.\""
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit ritual casting duration in the resolution."
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1883",
+        "endUid": "u1885"
+      },
+      "reading": "An hour’s cautious detour reaches the canyon rim at about 5:30 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1883",
+          "endUid": "u1885",
+          "quote": "DM: So creeping along slowly but protected by the shadows, and with Wellby's desert experience, plus the bird to lead you, or the path that you learned from the bird to lead you, it takes you about an hour creeping through the desert terrain to get to, at about 5:30, to get to the rim of this canyon, and it's, I mean."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates the completed hour creeping through desert terrain."
+      },
+      "time": {
+        "precision": "approximate",
+        "clock": "17:30",
+        "basis": "DM states about 5:30, with late-afternoon low sun confirming p.m."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2168",
+        "endUid": "u2170"
+      },
+      "reading": "About thirty seconds pass as Drikod and Wellby climb back toward the rim.",
+      "evidence": [
+        {
+          "startUid": "u2168",
+          "endUid": "u2170",
+          "quote": "DM: So about another 30 seconds passes as you two are still now about 450 500 feet, you're just coming to the top."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly advances about another thirty seconds."
+      },
+      "actors": [
+        "Drikod",
+        "Wellby"
+      ],
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "Late May is independently spoken. Absolute year and day use YAML conditionally: 1748-05-24 through 1748-05-27.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": 3,
+    "evidence": [
+      "t01",
+      "t02",
+      "t04",
+      "t07",
+      "t11",
+      "t15"
+    ],
+    "explanation": "Opening funeral evening is followed by sunrise in Karawa, the morning after the first mesa camp, and the third travel morning after the second camp. Play ends later that afternoon without another night. The three transitions match YAML conditional on its start date; historical departures and forecasts add no elapsed days."
+  }
+}

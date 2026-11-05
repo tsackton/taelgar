@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-027",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+    "sessionYamlSha256": "5f9352d116e8a453eedffff69960044b1e8fccbc908cf7d2f08aa14193a5055a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-transcript.md",
+    "transcriptSha256": "381636f8b9b33da9a63e585cd69cc8b84310cb52e18c95f1cc0e288a155f34e7"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0035"
+      },
+      "category": "gameplay",
+      "note": "Opening recap is inseparable from the active funeral narration in whole polished turns."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0159"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0160",
+        "endUid": "u0875"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0876",
+        "endUid": "u1035"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1036",
+        "endUid": "u1163"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1164",
+        "endUid": "u1181"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1182",
+        "endUid": "u1346"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1347",
+        "endUid": "u1456"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1457",
+        "endUid": "u1941"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1942",
+        "endUid": "u1957"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1958",
+        "endUid": "u2339"
+      },
+      "category": "gameplay",
+      "note": "The jailer’s isolated swing at an illusion occurs in narrated evasion, without an ordered-turn combat encounter."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2340",
+        "endUid": "u2369"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2370",
+        "endUid": "u2455"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

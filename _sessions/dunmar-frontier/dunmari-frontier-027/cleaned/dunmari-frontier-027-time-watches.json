@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-time-markers.json",
+    "sha256": "56e39a2f93922fe977cd4918f6b5c391d1739ef50d71708d774c33684fcb59ef"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-transcript.md",
+    "sha256": "381636f8b9b33da9a63e585cd69cc8b84310cb52e18c95f1cc0e288a155f34e7"
+  },
+  "dateAssessment": "Working dates use the YAML calendar, 24–27 May 1748 DR. The transcript independently says late May and establishes three overnight transitions, matching that span conditional on the YAML start. Watches are approximate where narration gives meals, darkness, or sunlight. The Karawa rest uses the eight-hour long-rest convention; its dusk start is inferred backward from sunrise, without converting “deep night” into a numerical clock.",
+  "watches": [
+    {
+      "day": "May 24, 1748",
+      "startDate": "1748-05-24",
+      "endDate": "1748-05-24",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Funeral after sunset; later described as deep night before the overnight rest.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 24–25, 1748",
+      "startDate": "1748-05-24",
+      "endDate": "1748-05-25",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Eight-hour rest convention, ending at narrated sunrise; start inferred backward.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 25, 1748",
+      "startDate": "1748-05-25",
+      "endDate": "1748-05-25",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Candrosa meeting after breakfast, following sunrise.",
+      "markers": [
+        "t05"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 25, 1748",
+      "startDate": "1748-05-25",
+      "endDate": "1748-05-25",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "First hot travel day completed; daylight endpoint estimated before the first camping night.",
+      "markers": [
+        "t06"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 26, 1748",
+      "startDate": "1748-05-26",
+      "endDate": "1748-05-26",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Wake after first mesa camp; Delwath’s concentration takes roughly one minute.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 26, 1748",
+      "startDate": "1748-05-26",
+      "endDate": "1748-05-26",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Raven sent around noon during the second travel day.",
+      "markers": [
+        "t09"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 26, 1748",
+      "startDate": "1748-05-26",
+      "endDate": "1748-05-26",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Second camp settles for the night while making the evening meal.",
+      "markers": [
+        "t10"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 27, 1748",
+      "startDate": "1748-05-27",
+      "endDate": "1748-05-27",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Third travel morning; raven report explicitly retimed from midnight for narration.",
+      "markers": [
+        "t11"
+      ],
+      "clock": "adventure"
+    },
+    {
+      "day": "May 27, 1748",
+      "startDate": "1748-05-27",
+      "endDate": "1748-05-27",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Scouting ends about 4:30; an hour’s detour reaches the rim about 5:30; brief cliff maneuvers follow.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14",
+        "t15",
+        "t16"
+      ],
+      "clock": "adventure"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 27 campaign note (timeline discrepancy)",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 27 (DuFr).md",
+      "sha256": "1eaf00a6678ffa6a834863b67076867a9540940008d13e0d909f1d8114f81682"
+    }
+  ]
+}

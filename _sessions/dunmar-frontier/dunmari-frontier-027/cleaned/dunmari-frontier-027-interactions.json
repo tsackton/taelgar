@@ -1,0 +1,1909 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "381636f8b9b33da9a63e585cd69cc8b84310cb52e18c95f1cc0e288a155f34e7"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-entity-map.json",
+      "sha256": "d752c9eaf8e18d9df997710a13473dd2f7ca88819cb865412e5d21bb83f78c37"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Candrosa leads the funeral",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0019",
+        "endUid": "u0025"
+      },
+      "lines": [
+        "%% u0019:0-204, u0020:0-183, u0021:0-114, u0022:0-118, u0023:0-181, u0024:0-241, u0025:0-85 %%",
+        "DM: As Candrosa begins to speak to the gathered crowd, offering a prayer to Sonkar to ease the passage of the dead and judge their souls worthy of rest, you can hear the quiver of doubt and fear in his voice. Yet as he keeps talking about the two acolytes who died, speaking of their lives, their hopes and joys, and offering prayers of remembrance and healing—a farewell to the mortal body—his voice regains some confidence and vigor and, as he begins the prayer to Shakun to hold the community together, whether by some aftereffect of the ritual visions you experienced or some newfound sense you've acquired, you can see this glowing web of energy among the people stretch and pulse with the moonlight, although, as you watch, there's nowhere for this energy to go. The center is still dark and absent. And as you're drawn into this vision, you can see some breaks in this web as well, six places where the webs of power are matte gray, not silver, where tendrils of energy break off and drain from the web of interconnections into nothingness. As Candrosa finishes his prayer, this vision fades and the funeral service concludes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Hey, in advance, we should play it—let's plan in a break at like 10 o'clock Eastern, because I've got kids here and we'll need to tend to them for like 10 minutes or so.",
+          "DM: Perfect.",
+          "Delwath: But I also probably can't go past midnight, just—yeah, it's some time at work, yeah.",
+          "DM: So the sun has set, but the fires are burning bright on the plaza in front of the Temple of Shakun as you emerge from the darkness of the temple itself. A small crowd has gathered as the news of the shadow attacks and its consequences have spread and the funeral pyres are already being prepared. As the community of the Shakun Mystai gather, you can still faintly see the echoes of the web of power that stretches among them, thinking back to the events of the past 24 hours. Starting with the stories that Candrosa told: the Heart of Shakun, an artifact central to the magical defenses of the Dunmari. Cintra, the Supreme Oracle of the Mystai, one in whom the goddess herself seems to dwell, who had a young daughter who took sick and could not be cured by ordinary magic. Cintra's decision to take the Heart of Shakun south to Shakun's Wellspring beyond the edge of the mesa which dreams and visions had told would cure her daughter. The Mystai of Shakun traveling to find Cintra after her too-long absence, but none returning. Candrosa remaining silent out of doubt or fear, uncertainty about the consequences of breaking the secret bonds of the Mystai. And turning in the face of this challenge until the guilt and the burden were too much. And he spoke with you."
+        ],
+        "after": [
+          "DM: You recall the events of the evening, the ritual, the rite of Shakun that started with visions of Dunmar, the forest falling to flames, and then a city spreading like ooze across the land, washed clean then into the mountains on a path approaching a small village falling through the earth to see a waterfall cascading down the facade of a building, powering small automata, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port until the visions faded into the night sky full of stars and then the clarity of this web of Shakun's magic, the net that is the souls of the Mystai that hold the power of Dunmar together, but is missing its center. And the vision ended with a woman who was maybe also a mesa reaching out for you and asking for help, as the silence of the ritual was broken by screams of the attack of the shadow stalkers.",
+          "DM: Now, as the funeral service concludes, well into the evening you are left standing by yourselves in the desert night sky in the oasis lit by nothing but the fires of the funeral pyres for the two acolytes considering your next move.",
+          "DM: So, if we want to, if you want to discuss, make sure you get back focus to what was happening out of character, can take a little time to do that now.",
+          "Seeker: Yeah there's a lot of moving parts.",
+          "Kenzo: Okay. So. What were we doing in the, like, what was the ritual about again?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Cintra’s lineage and gifted daughter",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0055",
+        "endUid": "u0071"
+      },
+      "lines": [
+        "%% u0055:0-36, u0056:0-74 %%",
+        "Kenzo: Okay, and then the whole thing with—so that the woman who took the heart to go heal her kid who is that woman?",
+        "",
+        "%% u0057:0-16, u0058:0-135, u0059:0-175 %%",
+        "DM: Cintra, she was like the Supreme Oracle, like not within the hierarchy of the Mystai but somebody who was kind of blessed with divine power, basically. It's like there's a, you know, it passes through the, like, from parent to child, this like divine connection to Shakun, and so she's like the 18th Supreme Oracle or whatever.",
+        "",
+        "%% u0060:0-46, u0061:0-43 %%",
+        "((Modern religious analogy omitted.))",
+        "",
+        "%% u0062:0-37, u0063:0-32 %%",
+        "Kenzo: Got it Okay, and so that the her kid has like spiritual significance?",
+        "",
+        "%% u0064:0-161 %%",
+        "DM: Yes, and was like, the detail that Candrosa shared about her was that, like, before she could talk, she would like paint colors in the desert sands and, you know.",
+        "",
+        "%% u0065:0-5 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0066:0-80 %%",
+        "DM: You know, make make these images appear in the cliff walls and things like that.",
+        "",
+        "%% u0067:0-133, u0068:0-45, u0069:0-45, u0070:0-87 %%",
+        "Kenzo: Got it, okay, so like saving her, it wasn't like saving some random kid, it's like saving this, like, very important spiritual being. [garbled]. Okay, and they're human, Cintra and the baby? Yep, so like an immaculate conception, or is there like a father doing it? I know that.",
+        "",
+        "%% u0071:0-71 %%",
+        "DM: There was a father, but like nobody, Cintra has never shared who it is.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So yeah listen. So right so. Candrosa was all like, you were like, what, you know, why didn't you tell us, and he was like, \"Well, I can't—I can't tell you I can only show you what the power of the heart was.\" And so the ritual was like you sort of saw the connection, the power, the—this like mystical wall that that defends the border is basically woven out of the essence or souls of the initiates of, right, the Shakun Mystai.",
+          "Kenzo: Were we participating in a version of the initiation or was it just like a visioning?",
+          "DM: There was a version of the initiation that wasn't actually an initiation.",
+          "Kenzo: Got it okay Okay, and we got to see kind of the whole the what what we needed to see.",
+          "Unknown: Before right. Yes."
+        ],
+        "after": [
+          "Seeker: OK OK.",
+          "Kenzo: So they left when?",
+          "DM: They left in February.",
+          "Kenzo: And it's like April now?",
+          "Unknown: It's."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Assessing Candrosa’s intentions",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0204",
+        "endUid": "u0222"
+      },
+      "lines": [
+        "%% u0204:0-18, u0205:0-31, u0206:0-17, u0207:0-78 %%",
+        "Seeker: One thing we know: that dreams can be manipulated. Even if Candrosa did not interfere in this case, as he did in another, someone else could have.",
+        "",
+        "%% u0208:0-18 %%",
+        "Delwath: A trap for Cintra.",
+        "",
+        "%% u0209:0-67, u0210:0-47, u0211:0-44, u0212:0-72 %%",
+        "Seeker: A trap to attract the heart and its power to someone who wishes to—what do you do with a magic heart of a goddess? What would the—what would the motivation be? Is it to remove the protection here or to use it for some other purpose?",
+        "",
+        "%% u0213:0-14 %%",
+        "Kenzo: The questions.",
+        "",
+        "%% u0214:0-28, u0215:0-24, u0216:0-57 %%",
+        "Drikod: Maybe she removed the heart to get it away from him. If we can't trust his dreams, why do we trust him at all?",
+        "",
+        "%% u0217:0-13, u0218:0-29 %%",
+        "Seeker: But he's the—the speaker of Shakun and he—",
+        "",
+        "%% u0219:0-76, u0220:0-84, u0221:0-100 %%",
+        "Kenzo: Candrosa has made some mistakes, some grave mistakes in the past month, but he, he, I used the ability to see, understand his character, and he's not, he's not malicious in intent. He truly is seeking what is best for the Mystai, so I don't question his heart.",
+        "",
+        "%% u0222:0-20 %%",
+        "Seeker: That's good to know.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I agree.",
+          "Drikod: I grunt an affirmation.",
+          "Wellby: We should resupply and make haste in the morning.",
+          "Seeker: To the wellspring.",
+          "Kenzo: I'm curious why, what, what else we can learn about the wellspring before we—what, what, why, how is it possible that you know, whatever Mystai sent there haven't returned. Is there any information we can learn more about what's there, or what we might expect there? It feels like— We should be, we should travel with caution and with some care and discreetness."
+        ],
+        "after": [
+          "Kenzo: Perhaps we can, we should speak with Candrosa before we depart and learn a little bit more about the Wellspring.",
+          "Wellby: I think, to, you know, whether Cintra was deceived or not, if that's where they've gone that's where we go to follow.",
+          "Kenzo: Definitely.",
+          "Seeker: That is the strategy we've used thus far. Too—long enough to. Whatever danger there might be, even if it follows us out of that place and killed others along way.",
+          "Kenzo: Well, I think you know I—Wellby, I think your abilities to channel the energies of these these creatures these animals to help us scout will be useful if we can even begin that process now and see what we can learn about the area if it's different at all than how Candrosa describes it or how you might expect it to be."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The breaks in the Mystai’s web",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0279",
+        "endUid": "u0320"
+      },
+      "lines": [
+        "%% u0279:0-22, u0280:0-7, u0281:0-18, u0282:0-83 %%",
+        "Seeker: I'm curious about the places broken in the web where the energy is draining off, I think, Tim you said, there are six such places.",
+        "",
+        "%% u0283:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0284:0-36 %%",
+        "Seeker: Can I investigate that a little bit?",
+        "",
+        "%% u0285:0-27, u0286:0-34 %%",
+        "DM: I mean you saw it, you saw—how do you want to investigate it?",
+        "",
+        "%% u0287:0-78 %%",
+        "Seeker: Is that part of the vision or something that's just immediately all around us?",
+        "",
+        "%% u0288:0-139, u0289:0-22 %%",
+        "DM: No, no, you saw it like while Candrosa was speaking, you sort of felt like you had this vision and then it faded as he finished his prayer. So the vision is gone.",
+        "",
+        "%% u0290:0-75 %%",
+        "Seeker: And were those places associated with particular people, or are they, yeah?",
+        "",
+        "%% u0291:0-8, u0292:0-68 %%",
+        "DM: Uh with you, the five of you, and one kind of off in the distance somewhere.",
+        "",
+        "%% u0293:0-54 %%",
+        "Kenzo: Wait, we are the sources where the energy is draining?",
+        "",
+        "%% u0294:0-28 %%",
+        "Seeker: Of course we're the problem.",
+        "",
+        "%% u0295:0-76 %%",
+        "DM: Man it's not really draining it's just it's like there's a break in the web.",
+        "",
+        "%% u0296:0-70, u0297:0-15 %%",
+        "Kenzo: Wait we are the like where we walk around we are the break in the web? The five of us?",
+        "",
+        "%% u0298:0-47 %%",
+        "DM: And one other person who wasn't at the funeral.",
+        "",
+        "%% u0299:0-26, u0300:0-7 %%",
+        "Seeker: Who wasn't at the oh shit. Cintra.",
+        "",
+        "%% u0301:0-9, u0302:0-8, u0303:0-9, u0304:0-10, u0305:0-21 %%",
+        "((Reactions and overlapping fragments omitted.))",
+        "",
+        "%% u0306:0-21 %%",
+        "DM: You're not initiates.",
+        "",
+        "%% u0307:0-3, u0308:0-41, u0309:0-9, u0310:0-4, u0311:0-22, u0312:0-3 %%",
+        "((Repeated confusion and interjections omitted.))",
+        "",
+        "%% u0313:0-240 %%",
+        "DM: If you know the secret, but you aren't actually initiated into the order of the Mystai, you drain, and you are slow—not very important, just five, six of you—but you drain energy from the, you're not contributing anything back to the web.",
+        "",
+        "%% u0314:0-29 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0315:0-11, u0316:0-90, u0317:0-12, u0318:0-93, u0319:0-27, u0320:0-42 %%",
+        "DM: Right, yes. You are still seeing it and connected to it, and so you are still draining energy from it. I mean just, given that there's, you know, a few hundred Mystai and there's six of you, it's probably not—as probably not a big deal. But yes, that is, that is what's going on.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah, so Wellby—Wellby excuses himself and says, \"I just had this funny thought. Excuse me just a sec, I've got to go try and remember something.\" He's gonna sit down in the corner and scrunch his face up.",
+          "Kenzo: You look like he's trying to squeeze one out.",
+          "Unknown: Yeah.",
+          "Wellby: Out of his brain.",
+          "Unknown: Yeah."
+        ],
+        "after": [
+          "DM: Hold on, I'm typing a message to Schwartz now. We'll get you in a second. All right, well.",
+          "Drikod: Feels unsettled by this knowledge that he is draining another village's energy. He shuffles uncomfortably thinking about the energy.",
+          "Seeker: So there is a web of energy between people. It looks a little bit like ley lines, but surely not. And this web of energy between people is the perhaps underlying source of the power of Shakun herself or protection she provides.",
+          "Kenzo: Well, I wonder to this is how you know, the underlying connection amongst the Mystai of any pre— Making me eager to return the Heart. I'm—I feel you know a little agitation that we didn't do this earlier. But let's go get it.",
+          "DM: So you settle in for the night."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Wellby proposes examining the demon ichor",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0337",
+        "endUid": "u0344"
+      },
+      "lines": [
+        "%% u0337:0-40, u0338:0-204 %%",
+        "Wellby: Wellby pops back up again and says, \"Hey.\" You know something I just remembered, and he reaches deep into the pack and pulls out this little glass vial of like evil ichor stuff collected way back at Raven's Hold, I think, from the dead demon, and.",
+        "",
+        "%% u0339:0-66, u0340:0-3 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0341:0-17 %%",
+        "Wellby: To the mirror so.",
+        "",
+        "%% u0342:0-16 %%",
+        "Kenzo: Yes, the mirror.",
+        "",
+        "%% u0343:0-35 %%",
+        "DM: Now, but you just used it recently.",
+        "",
+        "%% u0344:0-29 %%",
+        "Delwath: Yeah, we have to wait a week.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Hold on, I'm typing a message to Schwartz now. We'll get you in a second. All right, well.",
+          "Drikod: Feels unsettled by this knowledge that he is draining another village's energy. He shuffles uncomfortably thinking about the energy.",
+          "Seeker: So there is a web of energy between people. It looks a little bit like ley lines, but surely not. And this web of energy between people is the perhaps underlying source of the power of Shakun herself or protection she provides.",
+          "Kenzo: Well, I wonder to this is how you know, the underlying connection amongst the Mystai of any pre— Making me eager to return the Heart. I'm—I feel you know a little agitation that we didn't do this earlier. But let's go get it.",
+          "DM: So you settle in for the night."
+        ],
+        "after": [
+          "Kenzo: What did we use it on again, the mirror?",
+          "Delwath: The fragments from the—right glass blowers shop from the from the city.",
+          "Wellby: Yeah then he says, \"Hey, you know when—\"",
+          "Wellby: When you summon your weapons out of nothing and nowhere, they're not coming out of nothing and no where, are they? Where are they coming from?",
+          "Delwath: A good question."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The summoned bow’s twilight glade",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0350",
+        "endUid": "u0368"
+      },
+      "lines": [
+        "%% u0350:0-139 %%",
+        "Wellby: When you summon your weapons out of nothing and nowhere, they're not coming out of nothing and no where, are they? Where are they coming from?",
+        "",
+        "%% u0351:0-16 %%",
+        "Delwath: A good question.",
+        "",
+        "%% u0352:0-17 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0353:0-13 %%",
+        "Delwath: I don't know.",
+        "",
+        "%% u0354:0-11, u0355:0-14 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0356:0-2, u0357:0-65 %%",
+        "Delwath: A. Clearly, some other dimension, some other plane some other place.",
+        "",
+        "%% u0358:0-23 %%",
+        "Kenzo: Why do you ask, Wellby?",
+        "",
+        "%% u0359:0-38, u0360:0-36 %%",
+        "Wellby: When I picked up the bow I remembered. I saw a place that I've seen before.",
+        "",
+        "%% u0361:0-134 %%",
+        "Wellby: Deep woods, following a stream as the sunsets, coming to a place that's dark and old, this twilight glade, that's what the bow showed me.",
+        "",
+        "%% u0362:0-20, u0363:0-62 %%",
+        "Kenzo: That twilight glade. You know what this vision, you know where it was that you saw?",
+        "",
+        "%% u0364:0-105 %%",
+        "Wellby: I can't tell. It's like a half-remembered dream. It could have been a memory from thousands of years ago.",
+        "",
+        "%% u0365:0-113, u0366:0-33 %%",
+        "Kenzo: I wonder what time you're drawing these weapons from, if there is even a concept that's relevant in these places? Can you go where the weapons are?",
+        "",
+        "%% u0367:0-3 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0368:0-17 %%",
+        "Delwath: I've never tried.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Now, but you just used it recently.",
+          "Delwath: Yeah, we have to wait a week.",
+          "Kenzo: What did we use it on again, the mirror?",
+          "Delwath: The fragments from the—right glass blowers shop from the from the city.",
+          "Wellby: Yeah then he says, \"Hey, you know when—\""
+        ],
+        "after": [
+          "Kenzo: I'm not suggesting you do because we're going to need you for this mission, but—",
+          "Wellby: When you go, can we go with you?",
+          "Kenzo: Wellby, you can go. I'm not sure I'm ready to go to the shadow realm.",
+          "Wellby: This has been the best few months of my life, everyone. Everywhere we've gone is, I mean, like this couldn't get better. We're going to a place that may be a portal to another dimension, nobody even knows.",
+          "Kenzo: Things are so different."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Candrosa comforts the mourners",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0385",
+        "endUid": "u0395"
+      },
+      "lines": [
+        "%% u0385:0-179, u0386:0-157 %%",
+        "DM: Yeah, so Candrosa is now kind of moving through the crowd a little bit and like, you know, comforting the people who are particularly close to these two who died and just kind of you know, doing the shepherd of the flock sort of thing as he sort of circulates, and many people have sort of drifted off to their, you know, their private—",
+        "",
+        "%% u0387:0-152 %%",
+        "DM: You get the sense that I mean this is not the first funeral that's happened in the past month, like the in the time since you've been gone there's been.",
+        "",
+        "%% u0388:0-7, u0389:0-4 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0390:0-49, u0391:0-38 %%",
+        "DM: Funerals, right, and so there's there's a bit of a—there's a bit of a weariness but also—",
+        "",
+        "%% u0392:0-77 %%",
+        "DM: You know the community is is kind of sort of pulling together for each other.",
+        "",
+        "%% u0393:0-206, u0394:0-107, u0395:0-20 %%",
+        "Kenzo: Yeah, Kenzo will go and join kind of the, even just sort of, you know, be present with them, and then also, I think, you know, from the Bhishma and Lakan traditions, like, you know, do some prayer, do some, you know, just kind of bringing some good energy to the people there, whatever comfort, whatever, you know, whatever is helpful.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Us here.",
+          "DM: Do you want to talk to him tonight, or in the morning?",
+          "Kenzo: Oh yeah, maybe we'll do it in the morning. Yeah, tonight's pretty deep night. Yeah, and actually said, like, you know, I think, is—is the pyre still lit?",
+          "Unknown: Yeah.",
+          "Kenzo: Yeah, Kenzo will spend, you know, are there any other acolytes or others kind of around still near the pyre?"
+        ],
+        "after": [
+          "Delwath: Sort of walk, he looks a bit lost in thought, like he's very kind of interested in Wellby's comment, kind of wanders off to the side. Where are we, where are we, we're not still underground, right?",
+          "DM: No, no, you're outside, so the Temple of Shakun itself sits on the edge of the cliff in front of this big open plaza. That's where the oasis is in the center, and so you're, you know, sitting or standing around some of the oasis.",
+          "Delwath: Nighttime right?",
+          "DM: Yeah it's dark except for the fires of them—pyres.",
+          "Delwath: Delwath will kind of wander over to, kind of walk a little lost in thought and wander over to sort of the edge, not like invisible or far away, but to the edge of the light a little bit in the shadows."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Candrosa describes the Wellspring and Cintra’s departure",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0614"
+      },
+      "lines": [
+        "%% u0441:0-10, u0442:0-82, u0443:0-34, u0444:0-14, u0445:0-25 %%",
+        "DM: Yeah okay. So after breakfast, you find Candrosa. He is sitting in, you know, sort of on the—the little conference room in the—in the temple. Looks up as you approach.",
+        "",
+        "%% u0446:0-9, u0447:0-25, u0448:0-15, u0449:0-19, u0450:0-49, u0451:0-25, u0452:0-110, u0453:0-12 %%",
+        "Kenzo: Candrosa. I hope—I'm sorry, [garbled]. Candrosa, I, I—I hope you and the other initiates are are managing as best you can. It's been a terrible day. But I think it only makes more important our quest to return the Heart and return protection to this mesa and nearby land.",
+        "",
+        "%% u0454:0-6, u0455:0-16, u0456:0-42, u0457:0-25, u0458:0-37, u0459:0-17, u0460:0-34, u0461:0-10, u0462:0-48 %%",
+        "DM: \"Sadly, there have been many terrible days in the past few months. I wish this were unusual. And I fear I've only myself to blame. And yes, I agree. If you are willing to take on the challenge, the sooner you can go, the better for everybody.\"",
+        "",
+        "%% u0463:0-109, u0464:0-57, u0465:0-53, u0466:0-17, u0467:0-5, u0468:0-6, u0469:0-42, u0470:0-3, u0471:0-61, u0472:0-62, u0473:0-150 %%",
+        "Kenzo: Kenzo kind of, you know, places like a warm hand on Candrosa's shoulder, just kind of acknowledging him, and, \"Candrosa, these are terrible, dangerous times far beyond what's happened here and what's happened in the past. I think everyone here knows the love and care you have for the Mystai. And we will do our part to try and restore some balance here, but we want to try to be as prepared as possible for what's ahead. Can you tell us more about the Wellspring? Can you offer any speculation as to what might have happened to Cintra, and what dangers you may see there?\"",
+        "",
+        "%% u0474:0-50, u0475:0-11, u0476:0-8, u0477:0-92, u0478:0-33, u0479:0-15, u0480:0-15, u0481:0-82, u0482:0-85, u0483:0-56, u0484:0-47, u0485:0-22, u0486:0-74 %%",
+        "DM: \"I can tell you of the Wellspring. I've been there four times. It is a it is a, it is a place of special beauty. If you travel south along the top of the Red Mesa, you come to the far southern end. And look for a grove of stone. As if there were trees growing out of the desert made of stone, of the—of the mesa. And in the center of that grove, a stairway cut into a narrow canyon which lead south. The sky hardly visible as you pass through, and yet the thin translucent colors of the sun reflect the—reflect the light and change in beautiful, ever-changing ways as you walk through this corridor.",
+        "",
+        "%% u0487:0-94, u0488:0-3, u0489:0-17, u0490:0-68, u0491:0-123, u0492:0-27, u0493:0-22, u0494:0-108 %%",
+        "DM: And this narrow slot canyon opens up into a great bowl surrounded on all sides by high cliffs. And the grove itself: old gnarled trees that have no business growing in such a dry place. And you wait and pray, and as the sun sets, the walls of the canyon light up in flame and color and water begins to appear in the center of the grove. Calm, clear, refreshing, till the sun rises again and the water turns to dust as the flames light the other side of this canyon wall.",
+        "",
+        "%% u0495:0-64, u0496:0-22 %%",
+        "DM: It is a place of prayer and meditation, and a place, it is said, where Shakun is close.\"",
+        "",
+        "%% u0497:0-42 %%",
+        "Kenzo: What kind of prayers did raise the waters?",
+        "",
+        "%% u0498:0-65, u0499:0-42, u0500:0-21, u0501:0-60 %%",
+        "DM: The waters come at night, whether you pray or not. I say prayers because every time I've gone, it has been when confronted with uncertainty or doubt in my life and I've gone to ask Shakun.",
+        "",
+        "%% u0502:0-19, u0503:0-45, u0504:0-51 %%",
+        "DM: And indeed, I fear many of my mistakes over the past two months, three, four months, have been because of her absence.",
+        "",
+        "%% u0505:0-56 %%",
+        "Kenzo: Do you have any idea what could have befallen her there?",
+        "",
+        "%% u0506:0-32, u0507:0-3 %%",
+        "DM: What could have befallen Cintra? No.",
+        "",
+        "%% u0508:0-2 %%",
+        "Unknown: I.",
+        "",
+        "%% u0509:0-4, u0510:0-9, u0511:0-21 %%",
+        "DM: Was—I am not, you know, completely—",
+        "",
+        "%% u0512:0-36, u0513:0-26, u0514:0-19 %%",
+        "DM: I am blessed with some minor talent. Cintra gives me her gifts. Nothing too strong.",
+        "",
+        "%% u0515:0-68, u0516:0-13, u0517:0-48, u0518:0-23, u0519:0-83, u0520:0-8, u0521:0-40, u0522:0-35, u0523:0-22 %%",
+        "DM: Sorry, Shakun gives me her gifts, but Cintra is far beyond my scale. Her power is the power of the goddess herself in mortal form. She can do things that I would never dream: create food and water out of thin air that sustains the mortal. She can—she can, yeah, she can do things that are—that are beyond my powers that are, you know, things that—",
+        "",
+        "%% u0524:0-14, u0525:0-54, u0526:0-96 %%",
+        "DM: But I have no—that, I have no skill in, and if it is something that— so, so I don't know I don't know what happened to her, she was always among the strongest of us.",
+        "",
+        "%% u0527:0-82, u0528:0-13 %%",
+        "Kenzo: Do you do you think it's possible there was some type of chicanery with her dream? That she was—",
+        "",
+        "%% u0529:0-28 %%",
+        "DM: Tricked? Anything's possible.",
+        "",
+        "%% u0530:0-72 %%",
+        "Kenzo: If that were possible, do you have any idea what could have caused that?",
+        "",
+        "%% u0531:0-64, u0532:0-81, u0533:0-24, u0534:0-35 %%",
+        "DM: I mean, she was always headstrong, Cintra, and convinced of her—she was always convinced her path was set by the goddess and could not go astray. If something fooled her once, it could fool her many times.",
+        "",
+        "%% u0535:0-21, u0536:0-14, u0537:0-16 %%",
+        "DM: Is there anything? I never thought she'd be fooled.",
+        "",
+        "%% u0538:0-127 %%",
+        "Kenzo: Is there anything else you think we should know about the Wellspring? I know, how many Mystai were sent that have not returned?",
+        "",
+        "%% u0539:0-5, u0540:0-60, u0541:0-9, u0542:0-56, u0543:0-40, u0544:0-37, u0545:0-9, u0546:0-38 %%",
+        "DM: Well. She traveled with with two companions both skilled warriors. And then a group of six acolytes left shortly before you arrived, including two with some skill in battle. But there are few of us left now who have any experience with such dangerous things.",
+        "",
+        "%% u0547:0-68 %%",
+        "Kenzo: Is there anything else do you think we should know before we depart?",
+        "",
+        "%% u0548:0-11, u0549:0-32 %%",
+        "DM: Be careful. Be quiet, be prepared for danger.",
+        "",
+        "%% u0550:0-26, u0551:0-63, u0552:0-3, u0553:0-93 %%",
+        "DM: Do not think Cintra would remain in this place if she was either alive or free to travel. So whatever happened, and she was with her daughter, and she would do anything for her daughter.",
+        "",
+        "%% u0554:0-103, u0555:0-30, u0556:0-40 %%",
+        "Kenzo: Did you sense any kind of disturbance any anything any anything that around the time that she departed? Well, I guess, other than the the major disruption of the web, if you.",
+        "",
+        "%% u0557:0-12 %%",
+        "DM: Know I mean—",
+        "",
+        "%% u0558:0-132, u0559:0-26, u0560:0-56, u0561:0-41, u0562:0-83, u0563:0-19, u0564:0-13, u0565:0-113, u0566:0-37, u0567:0-47 %%",
+        "DM: No, I mean, she could have granted miracles before, and the few of us who she took into her confidence did not sense anything wrong. Indeed, the wellspring is—it's often considered a place, one might go for healing. The mystical waters that appear at night are often thought to have curative powers. Um, combined with Shakun's Heart, I can certainly imagine. This is this. There was no reason you know, I was I caution her against going only because I was scared of the consequences of the heart being gone even for a week. But there was no reason to believe this wasn't—",
+        "",
+        "%% u0568:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0569:0-5 %%",
+        "Unknown: Real.",
+        "",
+        "%% u0570:0-228 %%",
+        "Kenzo: Candrosa, just one other word, for my part at least, but for transparency's sake, um, I think you saw in that vision as well, now that we are aware of the secret, that we now somehow have impacted this web of energy amongst you.",
+        "",
+        "%% u0571:0-10 %%",
+        "DM: I did see.",
+        "",
+        "%% u0572:0-17, u0573:0-38 %%",
+        "Kenzo: There is a sixth? And is it possible that is Tharandros?",
+        "",
+        "%% u0574:0-64 %%",
+        "DM: As he requested, I did speak to him and tell him the truth, yes.",
+        "",
+        "%% u0575:0-22 %%",
+        "Kenzo: Okay, is he the sixth?",
+        "",
+        "%% u0576:0-86, u0577:0-28, u0578:0-13 %%",
+        "DM: I mean you don't out of character you don't know for sure, but it makes sense because he's aware, as of right now, about it and—",
+        "",
+        "%% u0579:0-87 %%",
+        "Kenzo: Kenzo kind of looks at that the companions you know feeling satisfied with his inquiry.",
+        "",
+        "%% u0580:0-41, u0581:0-23, u0582:0-63, u0583:0-6 %%",
+        "Seeker: I have a question, actually. Who, who built the wellspring and its structure? It sounds spectacular something that my people would honor.",
+        "",
+        "%% u0584:0-17 %%",
+        "DM: It was not built.",
+        "",
+        "%% u0585:0-23, u0586:0-16, u0587:0-10, u0588:0-37, u0589:0-55 %%",
+        "DM: Those trees grew there, the stone trees. As, Seeker, I told you, as the mesa itself grows. In some ways, I believe Shakun is in some way the mesa.",
+        "",
+        "%% u0590:0-91 %%",
+        "DM: So I have always believed that she built that place, she caused it to grow out of the stone.",
+        "",
+        "%% u0591:0-63 %%",
+        "Seeker: Is there some sense in which the mesa has become Shakun's body?",
+        "",
+        "%% u0592:0-30 %%",
+        "DM: I've always believed that yes.",
+        "",
+        "%% u0593:0-199, u0594:0-53 %%",
+        "Seeker: It's a strange and beautiful idea. I don't know quite what to do with it. It does change my impression of what it might mean to move the Heart from one place to another if it's still within the mesa. But we have no way of knowing where it is now, do we?",
+        "",
+        "%% u0595:0-168 %%",
+        "Kenzo: Well, that's another great question. Yeah, is there a way to track the presence? Is there some, does the Heart have some kind of a signal, a way for us to hear it ping?",
+        "",
+        "%% u0596:0-18, u0597:0-67 %%",
+        "DM: Cintra would know. The supreme Oracle was always the guardian and keeper of the heart.",
+        "",
+        "%% u0598:0-169 %%",
+        "Kenzo: Is—if, if we go to the Wellspring and she is not there, there's no evidence of her, where—do you have any idea where she may have gone or where, where she could possibly be?",
+        "",
+        "%% u0599:0-38, u0600:0-6, u0601:0-17, u0602:0-14 %%",
+        "DM: If there is nothing at the wellspring? No, I—least find clues if you travel.",
+        "",
+        "%% u0603:0-144, u0604:0-28, u0605:0-46 %%",
+        "((A speculative Mirror plan omitted.))",
+        "",
+        "%% u0606:0-73, u0607:0-98 %%",
+        "Wellby: Candrosa, it strikes me that we aren't meant to know where this place is. You told us so that we could go and find Cintra, and if we do, can Cintra help us forget it again?",
+        "",
+        "%% u0608:0-8, u0609:0-5, u0610:0-23 %%",
+        "DM: Perhaps. I am—the ways of Shakun are—",
+        "",
+        "%% u0611:0-11 %%",
+        "Kenzo: Mysterious.",
+        "",
+        "%% u0612:0-37, u0613:0-52, u0614:0-23 %%",
+        "DM: But with the heart in her possession there is much that the supreme Oracle could do that is, that is miraculous.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yes, nice, I like that.",
+          "Drikod: Drikod has a very, very high Constitution but is not particularly strong or nimble.",
+          "Seeker: Tim, Tim, can I just swap in one of these new ones that have been added?",
+          "DM: So, as the as the sun rises in the morning and you prepare for your journey. So Kenzo, is everybody going to talk to Candrosa?",
+          "Kenzo: Yes, yeah."
+        ],
+        "after": [
+          "Kenzo: Wellby, you raise a very strong and interesting point. If those shadows from Grash could follow us here, there may be some way or somehow we're being tracked and if we are, if we do find the wellspring when we find the wellspring I wonder if there's if we're in danger of endangering the wellspring just by traveling there. I mean, it feels like there's nothing, we have to go, but I wonder if there's a way for us to hide our tracks somehow, or, you know.",
+          "Wellby: Were those shadows following us through this world?",
+          "Kenzo: Kenzo kind of looks at Delwath.",
+          "Seeker: We do have a shadow expert.",
+          "Kenzo: I mean, you kind of go there every day, or at least the region there?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Candrosa gives a Sending scroll",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0642",
+        "endUid": "u0669"
+      },
+      "lines": [
+        "%% u0642:0-42, u0643:0-60 %%",
+        "DM: \"Please do,\" and he says, \"Wait, before you go. Please wait here for a moment. I have something to give you.\"",
+        "",
+        "%% u0644:0-12 %%",
+        "Kenzo: Healing mud.",
+        "",
+        "%% u0645:0-83, u0646:0-10 %%",
+        "DM: He's out of that. He walks out of the room, he comes back a moment later with this. It's like—",
+        "",
+        "%% u0647:0-76, u0648:0-15, u0649:0-125, u0650:0-130, u0651:0-44 %%",
+        "DM: It's like a scroll case, but it looks old and kind of falling apart, and he brings this. \"I do not know if one of you has the capability of using this, but, um,\" and he unrolls this, and it's a piece of paper that has like mystical writing on it, and he says, \"This contains the the energy of a spell of sending that will allow you to send a message or short message, not many words, to anybody.\"",
+        "",
+        "%% u0652:0-32 %%",
+        "Seeker: Okay, very good one of those um.",
+        "",
+        "%% u0653:0-25 %%",
+        "DM: We have very few of them.",
+        "",
+        "%% u0654:0-32, u0655:0-8, u0656:0-52, u0657:0-26, u0658:0-73 %%",
+        "DM: \"If you would take this and then tell me when you arrive, if you find anything that would be a great reassurance to me. If there's any of you who knows this kind of magic and could use such as—\"",
+        "",
+        "%% u0659:0-105, u0660:0-26, u0661:0-71 %%",
+        "Seeker: Such a thing, I believe I have the ability to use it and it is a powerful tool for which we are grateful. What you're requesting is, once we've investigated the wellspring will send a message back to you.",
+        "",
+        "%% u0662:0-35 %%",
+        "DM: Please, yes, tell me what you find.",
+        "",
+        "%% u0663:0-53, u0664:0-21, u0665:0-3 %%",
+        "((Scroll-use mechanics clarification omitted.))",
+        "",
+        "%% u0666:0-54, u0667:0-32 %%",
+        "Kenzo: We have a question for you, when you when you respond, you have the ability to respond?",
+        "",
+        "%% u0668:0-52, u0669:0-72 %%",
+        "DM: I can respond, but also very short. The magic is not—the magic does not allow for long conversations, but just a short reply.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I'm real quick, so I think I can get away from whatever comes out.",
+          "Kenzo: Faster than shadows?",
+          "Delwath: Just faster than—than the rest of us, I think, is the theory.",
+          "Wellby: We can match.",
+          "Kenzo: Why, you and I, in a race? Now this is true natural, natural dexterity I like this as a—as a little competition, we should engage in on our travels, but, um, Is there anything else, we want to ask? Candrosa, Rest well and care for the Mystai. We will return as soon as we can and hopefully, with the heart, hopefully with her child and the heart."
+        ],
+        "after": [
+          "Kenzo: 140 characters.",
+          "DM: Old Twitter, it's not new Twitter.",
+          "Seeker: Just to review, I also have a Speak with Dead one, and we had a Tongues one, which I used to understand Grash, I think. Yes, no, we have two Sending and one Speak with Dead.",
+          "Unknown: We correct.",
+          "DM: So anything else you want to do in town before you start heading south? So I assume you know you take some time to resupply the you know the from whatever stores are left in town, you can get enough food for the journey, restock on arrows, you know, all of the sort of mundane stuff that, you know, the food is running a bit low in Karawa, given that the centaurs have been kind of hunting out the area and all their stores were destroyed, but not so low that it's, you know, in a month it might be pressing. But at the moment, not a big issue."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Trying to commune with the mesa",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0733",
+        "endUid": "u0775"
+      },
+      "lines": [
+        "%% u0733:0-40, u0734:0-92 %%",
+        "Seeker: Perhaps Shakun herself is protecting us. Hopefully there's some way, we could communicate directly with her through the stone itself.",
+        "",
+        "%% u0735:0-25, u0736:0-45, u0737:0-55 %%",
+        "((Detection-spell clarification omitted.))",
+        "",
+        "%% u0738:0-6, u0739:0-54, u0740:0-153 %%",
+        "Drikod: Can I—have a question. It's up a non standard use of a spell. Drikod, sensing that something, the stone is alive, I want to use my Meld into Stone spell and see what it feels like to be part of this unnatural stone.",
+        "",
+        "%% u0741:0-26, u0742:0-33 %%",
+        "((Wisdom-roll instruction omitted.))",
+        "",
+        "%% u0743:0-13, u0744:0-36 %%",
+        "Delwath: Um I'm gonna use Fey Sight while he's doing this.",
+        "",
+        "%% u0745:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u0746:0-92, u0747:0-24 %%",
+        "DM: So you spend a minute you spend some time sort of concentrating on on set on this ritual to see magic. Drikod, it's—",
+        "",
+        "%% u0748:0-233, u0749:0-120, u0750:0-13, u0751:0-17 %%",
+        "DM: Oh, it's hard to get a very clear sense of exactly what this feels like. The one thing that is quite clear to you, having done this in the mountains and sort of your homeland, is this doesn't feel like natural stone, like this isn't—this isn't a normal, this isn't just, this isn't just a mesa, is basically what you feel like. It almost feels like, um, like there's things move, like—",
+        "",
+        "%% u0752:0-227, u0753:0-24 %%",
+        "DM: Not like in a creepy way, but it's like there's little vines kind of creeping through the rock or like little ants skittering, but it's not, it's like the rock itself, but you don't get a really sort of clear sense beyond that. You don't see any magic.",
+        "",
+        "%% u0754:0-20, u0755:0-89, u0756:0-49, u0757:0-26, u0758:0-49, u0759:0-50 %%",
+        "Seeker: I'm going to use my Mold Earth ability, with the vague notion of communicating directly through shaped stone or whatever presence is here animating the stone. I mean, in addition to us. And I'll look into my memory of seeing the Heart, because we did see it at the initiation didn't we?",
+        "",
+        "%% u0760:0-7 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0761:0-69 %%",
+        "Seeker: And recreate in relief on the ground an image of the Heart of Shakun.",
+        "",
+        "%% u0762:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u0763:0-200, u0764:0-148 %%",
+        "Kenzo: While everybody's doing this, Kenzo, like, you know, they were like, everybody's trying to commune with the mesa, basically, so Kenzo's going to do the same thing. Kenzo's going to get a vibe out and will meditate and employ all ritual tactics that he can think of related to Bhishma, Laka, Shakun, et cetera, to just try and commune with the gods.",
+        "",
+        "%% u0765:0-9, u0766:0-8, u0767:0-3 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0768:0-89, u0769:0-92 %%",
+        "DM: Nothing really happens when you try and make an image of the Heart. Um, Kenzo, you don't—again sort of like—well, well actually go ahead and roll a wisdom check just straight wisdom.",
+        "",
+        "%% u0770:0-16 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0771:0-4, u0772:0-132 %%",
+        "DM: You—you, you don't get up, you don't like get a—have a clear message, or anything like that, you don't feel like somebody's talking to you.",
+        "",
+        "%% u0773:0-221 %%",
+        "DM: But you definitely get the feeling that this mesa is is again more than stone like somehow there is part of the mesa that is aware of you, even if it's not responding in conversation to you, you sort of feel like somehow.",
+        "",
+        "%% u0774:0-35, u0775:0-5 %%",
+        "((Brief interjections omitted.))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Right.",
+          "Drikod: Can I do a nature check to see like what wildlife is out there? What's the terrain? Using my experience as a druid, um.",
+          "Unknown: Yeah.",
+          "DM: Um.",
+          "DM: Yeah, so I, you know, as you travel kind of on this, the morning of the second day, it's unnaturally quiet up here. You know deserts are in this part of the day, are usually quiet, but this kind of rocky desert shouldn't be that quiet in, you know, dusk and dawn, right, and you notice this particularly, Drikod, as you're sort of packing up the morning of your first night camping, so the morning of your second day. There's not the sort of chirping of of crickets or the the you know, the song of a cactus wren or something that you'd expect kind of in this terrain. It seems just very quiet, and what you do hear sounds like rocks creaking like the ground shifting not animals."
+        ],
+        "after": [
+          "DM: Sure.",
+          "Kenzo: Yeah, this isn't the right thing to do.",
+          "Wellby: While you all are doing this, Wellby tells Baxter to keep an eye on all of these people. I'm gonna do like a big circle around the camp, to see if we're being followed or just just get the lay of the land.",
+          "Seeker: And like actual adulthood practical responsibility.",
+          "Kenzo: So."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "An unseen presence strengthens the party",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0833",
+        "endUid": "u0875"
+      },
+      "lines": [
+        "%% u0833:0-35, u0834:0-103, u0835:0-70, u0836:0-26 %%",
+        "DM: And as you settle in for the night—Drikod, we'll come to your—I'm going to set us up for a short break here, and then we'll come to your report of the Raven after the break as you settle in for the night um. You you sort of feel this—",
+        "",
+        "%% u0837:0-102, u0838:0-3, u0839:0-35, u0840:0-62 %%",
+        "DM: It's almost as if somebody sits down—somebody you can't quite see sits down at your campsite with you. And you know each of you kind of feels a bit of a, of a different sense of this presence, um, Wellby.",
+        "",
+        "%% u0841:0-270, u0842:0-3 %%",
+        "DM: For you, as this as you're sitting down, you're sort of making your meal, you're doing the normal evening things, it almost feels like there's somebody kind of pointing things out to you, sort of explaining the world around you, like saying, \"Notice that, pay attention to that.\" Or.",
+        "",
+        "%% u0843:0-43, u0844:0-139, u0845:0-20 %%",
+        "DM: For you, Drikod, it seems like somebody is smoothing the ground around you as you walk. It's like this person is, this essence, this presences is giving you a sense of the path through difficult places um.",
+        "",
+        "%% u0846:0-15, u0847:0-3, u0848:0-68, u0849:0-112, u0850:0-12, u0851:0-98, u0852:0-93, u0853:0-35, u0854:0-3 %%",
+        "DM: Seeker, for you, um, the presence—you feel the presence around you for a moment and then—and then it sort of goes away, it fades, and as you're looking, as you're sort of looking around, where did this go? You can see something as you're sort of looking at the rocks you're looking at the objects around you can see kind of the magic inherent in everything and you feel like if you just reached out you could twist something and bring it alive. Um—",
+        "",
+        "%% u0855:0-68, u0856:0-250, u0857:0-33 %%",
+        "DM: Let's see, um, Kenzo, as you, as you are sort of walking around you see—you see almost a picture of the plane of consciousness superimposed on the real world. You see, um, you see lights where people are thinking and you see how these people's auras are constructed, and you see the wrinkles and the twists that you could grab at to cause pain or healing.",
+        "",
+        "%% u0858:0-49, u0859:0-21, u0860:0-67, u0861:0-9, u0862:0-84, u0863:0-16 %%",
+        "DM: Delwath, as this sort of presence approaches you, following behind you, you can never quite see it, and you feel something else, something familiar. Also eagerly trying to find this presence, the voice that you have heard many times. And, as it does—",
+        "",
+        "%% u0864:0-185, u0865:0-38, u0866:0-40, u0867:0-33 %%",
+        "DM: The rest of you see this as well. Delwath's shadow kind of separates from him and begins to kind of move around looking for something, and you see, you feel Delwath's control over this phenomenon, and as this presence fades there's sort of a whisper: \"You will need all the strength I can give you.\"",
+        "",
+        "%% u0868:0-149, u0869:0-99 %%",
+        "DM: And it drifts off as you all reach level six, and that is where we'll stop for a 10-minute break. Level up during the break or right after the break. Come back around 1010 Eastern time little after and then we'll get to this morning scouting report.",
+        "",
+        "%% u0870:0-8, u0871:0-5 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u0872:0-36 %%",
+        "Kenzo: Shakun, is that, giving us strength?",
+        "",
+        "%% u0873:0-8 %%",
+        "Seeker: Must be.",
+        "",
+        "%% u0874:0-8 %%",
+        "Unknown: Must be.",
+        "",
+        "%% u0875:0-28 %%",
+        "Delwath: Yeah. That would be my guess.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Moving again southward again on the mesa and and, as you travel south, you—you almost get the sense that there's something following you. Nothing you can see, and around noon you send your raven off, Drikod, right? I'm—",
+          "DM: Nothing you can really clearly see or perceive. You know, you sort of look back over your shoulder, it's that feeling, like that sort of almost déjà vu-like sense that there's something in the room, and you turn around and you look and there's nothing there. It doesn't feel—it's not like a horror film kind of feeling, right? It feels in some way, oddly comforting like there's somebody kind of watching your back more than there's somebody stalking you.",
+          "Kenzo: Oh, I should have asked Candrosa to share more about Shakun. Wonder if her presence is here.",
+          "DM: And—",
+          "DM: As the day continues. Now you're getting to within about five miles, 10, five, 10 miles of the southern edge of the mesa, where presumably this stone formation is, the terrain itself is a lot more, it's just like shattered rock everywhere. It's like except for your path, it's all just like difficult rubble and it would be hard to travel through."
+        ],
+        "after": [
+          "Seeker: I'm—good. Level up. I go to the builder thing?",
+          "DM: That just does a little drop-down. Just change your level to six. Grab a new spell slot. Animating objects.",
+          "Kenzo: Edit character.",
+          "DM: Oh yeah edit character Mike are you happy with that, by the way?",
+          "Delwath: Yes, but I don't—did you put it in D&D Beyond?"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The party attributes the presence to Shakun, but the DM does not name it; the familiar patron voice is distinct from the unresolved speaker of the final whisper."
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Baxter stays with the mounts",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1250",
+        "endUid": "u1279"
+      },
+      "lines": [
+        "%% u1250:0-49 %%",
+        "Wellby: Are we bringing our mounts with us at this point?",
+        "",
+        "%% u1251:0-37, u1252:0-41 %%",
+        "DM: That's a good question. Where are you? I assume you're bringing Baxter, are you?",
+        "",
+        "%% u1253:0-34, u1254:0-39 %%",
+        "Wellby: Well, if we're leaving the horses I'd leave Baxter to watch out for them.",
+        "",
+        "%% u1255:0-5, u1256:0-9 %%",
+        "DM: Okay. Yes, now.",
+        "",
+        "%% u1257:0-48, u1258:0-13, u1259:0-170, u1260:0-54, u1261:0-7, u1262:0-7, u1263:0-46, u1264:0-70, u1265:0-29, u1266:0-44, u1267:0-36, u1268:0-128, u1269:0-69, u1270:0-14, u1271:0-59, u1272:0-6, u1273:0-55 %%",
+        "((Escape and combat tactics discussion omitted.))",
+        "",
+        "%% u1274:0-29 %%",
+        "Wellby: So we leave the mounts, yeah.",
+        "",
+        "%% u1275:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1276:0-126 %%",
+        "Wellby: And I think I'll tell Baxter, if we're not back by like sunset tomorrow or sunrise tomorrow, take the horses back to the mesa.",
+        "",
+        "%% u1277:0-5 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u1278:0-15 %%",
+        "Seeker: Back to Karawa.",
+        "",
+        "%% u1279:0-15 %%",
+        "Delwath: Karawa, Karawa.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Horizon.",
+          "DM: What.",
+          "Delwath: Time of day, is it?",
+          "DM: It's now—I mean, you've been going pretty slow, so it's, I would say, mid afternoon, edging towards late afternoon.",
+          "DM: Given that you've been sneaking for the past seven miles."
+        ],
+        "after": [
+          "Wellby: Just like, we could go into the forest and come out like 30 years later.",
+          "Delwath: That's true.",
+          "Wellby: All this would have been solved.",
+          "DM: All right, so you're a mile away. Are you casting Clairvoyance?",
+          "Seeker: Oh, we made it? A mile away, excellent. Yes, I withdraw into myself sketching tiny runes of vision in the air. And, oh, I gotta—how's that work again? I need to describe the place that I want to place my clairvoyance."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The familiar sees Cintra and eight graves",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1598",
+        "endUid": "u1620"
+      },
+      "lines": [
+        "%% u1598:0-61, u1599:0-148 %%",
+        "DM: What you see immediately when you, when you look at it is the is the grove of this like circle in the center of this opening, a grove of these gnarled ancient trees that are around an open, dusty but empty pit.",
+        "",
+        "%% u1600:0-36, u1601:0-50 %%",
+        "DM: Second, the second thing you notice as you look across is a small camp, set up a tent—",
+        "",
+        "%% u1602:0-2 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u1603:0-27, u1604:0-133 %%",
+        "DM: Sort of area where there's like a basin where water is being stored, there's like a cook of, like cooking area, there's like a fire pit, some food set up, there's a—",
+        "",
+        "%% u1605:0-192, u1606:0-150, u1607:0-44, u1608:0-82 %%",
+        "DM: What looks like a sort of little area of prayer with like a like four or five of these like little kind of statue things of gods. And sitting kneeling in front in this sort of prayer area is a middle aged, young middle aged woman, I'm, not looking, sort of down, kneeling, looking sort of towards the ground at these like small statues of god's, I'm, seeming in prayer. Long sort of silvery hair, gone gray, but sort of tied up in a bun, in a clean but ragged tunic and leggings.",
+        "",
+        "%% u1609:0-216 %%",
+        "DM: Lying in the shade near where this woman is praying, a good-sized shield, a shirt of chain mail, and the crescent moon symbol of Shakun emblazoned on the shield, and a staff as well propped up against the cliff face.",
+        "",
+        "%% u1610:0-23, u1611:0-122 %%",
+        "Kenzo: We asked Candrosa what Cintra looks like, right, and like what she's wearing and stuff. We totally did. I remember that part of the conversation.",
+        "",
+        "%% u1612:0-7 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u1613:0-11 %%",
+        "Seeker: That's her.",
+        "",
+        "%% u1614:0-49, u1615:0-111, u1616:0-28, u1617:0-34 %%",
+        "DM: Otherwise, there seems to be little else in this in this clearing, except for against a different canyon wall, not the wall that the camp is set up in, you see eight grave markers and the obvious remains of a funeral pyre.",
+        "",
+        "%% u1618:0-4 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u1619:0-31, u1620:0-13 %%",
+        "Drikod: So Drikod communicates this to his comrades.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So I assume, though, you're just like meditating on the ground with it flying around, and watching, flying as the bird instead of paying attention to your surroundings, trusting to your companions, yes, um.",
+          "Drikod: Trusting my companions, even though I don't trust their judgment.",
+          "DM: So, so, but it takes you a little while because you're so—it's about an hour and a half of flying until you, until you see stretching out below you this bowl shaped circle in the in the desert that just kind of opens up in the middle of nowhere. That it's probably five 600 feet below the surface of the desert, these are these are deep.",
+          "Unknown: Cliffs.",
+          "DM: And—"
+        ],
+        "after": [
+          "Seeker: I want to point out that we have not one, but two scrolls of sending. Can we send to Cintra? I don't know the rules of sending.",
+          "DM: A yeah I pretty sure—",
+          "Kenzo: Great idea.",
+          "DM: Send to a creature with which you are familiar.",
+          "DM: What I would say, a creature like—familiar doesn't, in my interpretation, familiar doesn't mean somebody that you have to have known. It just means somebody you're aware of. You couldn't just like say, I want to send a message to, you know, the Emperor of Chardon, never having met or known anything about him, but somebody who's been described to you."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The Heart’s power depends on its temple connections",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1716",
+        "endUid": "u1737"
+      },
+      "lines": [
+        "%% u1716:0-195, u1717:0-76 %%",
+        "Seeker: Everything we know about the power of Shakun suggests that it can keep these gnolls away. My inference is that she no longer has it for some reason. It doesn't say anything about where it's gone. Something complex has occurred here, we definitely don't have all the clues.",
+        "",
+        "%% u1718:0-89 %%",
+        "Kenzo: But why, if she's able to keep them at bay, and why wouldn't you, why wouldn't you have it?",
+        "",
+        "%% u1719:0-176, u1720:0-51 %%",
+        "Seeker: I mean, [garbled], I think you misunderstood. I said the Heart of Shakun has been protecting this whole area from everything, like these gnolls and everything like that. Yes, yes, so therefore it's not present. It's gone.",
+        "",
+        "%% u1721:0-109, u1722:0-12 %%",
+        "Kenzo: No, but the Heart of Shakun has its power when it's within the mesa, when it's within its body at the temple. That's when—",
+        "",
+        "%% u1723:0-53 %%",
+        "Delwath: When it has its, it could be weak here, exactly that.",
+        "",
+        "%% u1724:0-53, u1725:0-139, u1726:0-35, u1727:0-54 %%",
+        "DM: The point of the ritual was that the Heart of Shakun—what you saw last session was that the Heart of Shakun is somehow connected to this network of people by being in the temple, and the more connections, the stronger, that is. And, with it being removed that whole thing collapses.",
+        "",
+        "%% u1728:0-19 %%",
+        "Delwath: So maybe it's just—",
+        "",
+        "%% u1729:0-6 %%",
+        "Seeker: I see.",
+        "",
+        "%% u1730:0-68, u1731:0-9, u1732:0-7 %%",
+        "Delwath: Connected to the heart and she only has enough power to protect the—yeah, the canyon.",
+        "",
+        "%% u1733:0-56 %%",
+        "Seeker: I see, so maybe the Heart is actually in that tent with—",
+        "",
+        "%% u1734:0-13 %%",
+        "Drikod: Yes, exactly.",
+        "",
+        "%% u1735:0-72, u1736:0-151, u1737:0-38 %%",
+        "Kenzo: She's able to create like a force field, or a shield to protect herself and whomever there, and obviously there's been some kind of battle because of the funeral pyre, so she's the strongest one, she's been able to survive. But she's keeping those gnolls at bay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Are definitely more keep something in I mean the longbow people are clearly like even there's clearly some people are keeping in watch on the desert, but the focus is definitely more keep something in.",
+          "Kenzo: Yeah okay.",
+          "DM: Yeah that's what out.",
+          "Kenzo: Well, we're seasoned warriors and shit, so we can also tell they're trying to keep her. Okay, so that would lend credence to the idea that there's some kind of standstill that she is she has been trapped she's trapped inside somehow they're not able to totally get to her, but.",
+          "Seeker: She's stuck. If she had the heart of—"
+        ],
+        "after": [
+          "Delwath: There any signs in the clairvoyance that we saw of battle?",
+          "Seeker: The question I only saw up at this top of the stairs.",
+          "DM: Not not recently.",
+          "Seeker: There's been—",
+          "Kenzo: It's been months right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The mountain spirit favors bypassing the gnolls",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1787",
+        "endUid": "u1808"
+      },
+      "lines": [
+        "%% u1787:0-83, u1788:0-63 %%",
+        "Drikod: So I asked the, the mountain God, are the omens good or bad for sneaking around and trying to reach her without fighting the undead at this moment?",
+        "",
+        "%% u1789:0-124 %%",
+        "Kenzo: But wait, because the way that we would do that is actually just through the communication scroll, right, so we can do that.",
+        "",
+        "%% u1790:0-52 %%",
+        "Delwath: That's a good question, let's go with that question.",
+        "",
+        "%% u1791:0-68, u1792:0-55, u1793:0-4 %%",
+        "DM: All right, so the question is, would sneaking around the gnolls and entering the canyon to meet with Cintra be good or bad? Yes.",
+        "",
+        "%% u1794:0-66, u1795:0-66, u1796:0-56, u1797:0-32, u1798:0-24 %%",
+        "DM: Yeah, um, so as you cast down, and it takes a few minutes to cast this spell, there's sort of a ritual involved in it, um, you feel a sense of calm and clear purpose come over you and the the spirit of the mountain says, \"Yes, this would be good.\"",
+        "",
+        "%% u1799:0-4 %%",
+        "Drikod: Hmm.",
+        "",
+        "%% u1800:0-8, u1801:0-8, u1802:0-37, u1803:0-11, u1804:0-61, u1805:0-32 %%",
+        "((Banter about Seeker’s earlier advice omitted.))",
+        "",
+        "%% u1806:0-17, u1807:0-62, u1808:0-91 %%",
+        "Drikod: Friends, I think the omens are we should avoid combat now and try to reach her. We will fight these—we may have to fight these eventually, but it is best not to do it now.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: They could, the slot canyon could have—",
+          "Drikod: 300 more gnolls. So I think we should ask, should we attempt to contact her directly? Are there good omens to contact her before we fight? Beyond that.",
+          "Kenzo: Actually, because if she does have strength in battle, alerting her so that she can attack from behind, that actually also could be quite valuable.",
+          "Seeker: That's a very interesting idea, we could.",
+          "Drikod: Plus, if we can sneak in, conceivably we could sneak out in the back, right, with communication."
+        ],
+        "after": [
+          "Kenzo: If this is the case, I think Wellby or I with invisibility and perhaps some other assistance flight flying boulders etc on could could quite stealthily avoid the creatures at the top of the stairs.",
+          "Drikod: I—",
+          "Delwath: Couldn't we just go around the long way to the canyon?",
+          "Unknown: Mm hmm.",
+          "Kenzo: Oh, just like walk yeah yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Cintra warns the arrivals and hides them in her tent",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1993",
+        "endUid": "u2155"
+      },
+      "lines": [
+        "%% u1993:0-20, u1994:0-28, u1995:0-43, u1996:0-60 %%",
+        "DM: And as you land she runs up to you and she says ah, in kind of a bit of an anxious tone, um, \"Who are you? How did you get here? You are not familiar to me.\"",
+        "",
+        "%% u1997:0-26, u1998:0-39 %%",
+        "Kenzo: Are you Cintra? I'm Kenzo. Kenzo, an initiate of Bhishma and Laka.",
+        "",
+        "%% u1999:0-43, u2000:0-28 %%",
+        "DM: \"I thought I felt something in the air, but what are you doing here?\" And—",
+        "",
+        "%% u2001:0-69, u2002:0-5 %%",
+        "Kenzo: My companions, I gesture towards—I'm assuming Drikod is on the wall, yeah.",
+        "",
+        "%% u2003:0-28 %%",
+        "DM: Yeah, we're about two thirds—",
+        "",
+        "%% u2004:0-70 %%",
+        "Delwath: Of the way down. Seeker, you now can fly. Okay, Kenzo, you cannot fly.",
+        "",
+        "%% u2005:0-71 %%",
+        "DM: Okay, she says, as, as, \"You have to hide quickly. We don't have much time.\"",
+        "",
+        "%% u2006:0-6 %%",
+        "Kenzo: Where?",
+        "",
+        "%% u2007:0-38 %%",
+        "DM: \"If he sees you, you'll be trapped too.\"",
+        "",
+        "%% u2008:0-43 %%",
+        "Seeker: At this moment, I'm leaping into the, just—",
+        "",
+        "%% u2009:0-18 %%",
+        "DM: \"Somewhere quickly.\"",
+        "",
+        "%% u2010:0-50, u2011:0-3, u2012:0-5, u2013:0-27, u2014:0-62, u2015:0-31, u2016:0-10, u2017:0-32, u2018:0-29, u2019:0-4, u2020:0-42, u2021:0-62, u2022:0-56, u2023:0-6, u2024:0-23, u2025:0-14, u2026:0-31, u2027:0-68, u2028:0-4, u2029:0-125, u2030:0-16, u2031:0-37, u2032:0-5, u2033:0-3, u2034:0-74, u2035:0-30, u2036:0-30, u2037:0-23, u2038:0-31, u2039:0-8, u2040:0-48, u2041:0-43, u2042:0-16, u2043:0-15, u2044:0-7, u2045:0-27, u2046:0-10, u2047:0-4 %%",
+        "((The party struggles to signal the warning; Drikod turns back up the cliff.))",
+        "",
+        "%% u2048:0-10, u2049:0-62, u2050:0-22 %%",
+        "DM: Just like looking around like everything's going to shit and she's like, \"You now, go somewhere—\"",
+        "",
+        "%% u2051:0-8 %%",
+        "Kenzo: Quickly.",
+        "",
+        "%% u2052:0-49 %%",
+        "DM: \"Hide, and I'll see what I can do about this mess.\"",
+        "",
+        "%% u2053:0-40 %%",
+        "Kenzo: I go and I'm like, where do I hide, Tim?",
+        "",
+        "%% u2054:0-32 %%",
+        "DM: There's trees, there's her tent.",
+        "",
+        "%% u2055:0-5, u2056:0-20, u2057:0-95 %%",
+        "((Confusion about the changed descent omitted.))",
+        "",
+        "%% u2058:0-103 %%",
+        "Kenzo: And then you now see me, you know, see Kenzo running into the trees and, you know, trying to disappear.",
+        "",
+        "%% u2059:0-27, u2060:0-32, u2061:0-69 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2062:0-44 %%",
+        "Seeker: I'm gonna try to fly to hide where Kenzo is.",
+        "",
+        "%% u2063:0-56, u2064:0-11, u2065:0-18 %%",
+        "DM: Where are you gonna try? You don't see where Kenzo went. He sort of went to the trees.",
+        "",
+        "%% u2066:0-7, u2067:0-103, u2068:0-34, u2069:0-5 %%",
+        "((Repetition of the party’s relayed warning omitted.))",
+        "",
+        "%% u2070:0-34 %%",
+        "Wellby: I'll say telepathically to Seeker—",
+        "",
+        "%% u2071:0-4 %%",
+        "Unknown: Hey.",
+        "",
+        "%% u2072:0-78 %%",
+        "Wellby: \"He's hiding behind that tree over there, if you want to go check in with them.\"",
+        "",
+        "%% u2073:0-48, u2074:0-41 %%",
+        "Seeker: I figured I might need to help him get back out so I might need to land near where he is.",
+        "",
+        "%% u2075:0-20, u2076:0-35, u2077:0-27 %%",
+        "((Brief banter omitted.))",
+        "",
+        "%% u2078:0-99, u2079:0-46 %%",
+        "DM: Okay, so now let's, let me just do again, where is Seeker? Kenzo's just run to go hide in the tree. Wellby can still see him, but nobody else can.",
+        "",
+        "%% u2080:0-136 %%",
+        "DM: The woman on the ground seems to be, you know, gesticulating quite vigorously and just like seemingly talking quite forcefully to Kenzo.",
+        "",
+        "%% u2081:0-78, u2082:0-71 %%",
+        "DM: Drikod has turned around, is now, I would say, about 200 feet from the ground, not quite the halfway point of the cliff. Seeker is flying past Drikod.",
+        "",
+        "%% u2083:0-116, u2084:0-73, u2085:0-38, u2086:0-6, u2087:0-31, u2088:0-9, u2089:0-79, u2090:0-36, u2091:0-13, u2092:0-10, u2093:0-60, u2094:0-29, u2095:0-50, u2096:0-45, u2097:0-3, u2098:0-47 %%",
+        "((Flight, carrying capacity, and escape discussion omitted.))",
+        "",
+        "%% u2099:0-31 %%",
+        "Wellby: We're really going up then, hmm?",
+        "",
+        "%% u2100:0-13, u2101:0-96, u2102:0-20 %%",
+        "Seeker: Sorry friend. I'm gonna dive towards where I last saw Kenzo and just try to make a safe landing on the ground so I can try hiding.",
+        "",
+        "%% u2103:0-88, u2104:0-69 %%",
+        "Drikod: Drikod is overwhelmed by all these hyperactive people around him. He's not used to this energy, so he just stops, and now he's just at the side of the cliff.",
+        "",
+        "%% u2105:0-42, u2106:0-18, u2107:0-5, u2108:0-47, u2109:0-12, u2110:0-55, u2111:0-33, u2112:0-28, u2113:0-5, u2114:0-50, u2115:0-52, u2116:0-25 %%",
+        "((Delwath confirms he is watching and maintaining Fly.))",
+        "",
+        "%% u2117:0-32, u2118:0-53, u2119:0-64 %%",
+        "DM: Seeker, as you land, you hear a whisper in your, a female voice whisper in your head: \"Get under cover now. I don't know how many more minutes we have.\"",
+        "",
+        "%% u2120:0-91 %%",
+        "Seeker: So I'm going to try to use Wellby's instructions about where Kenzo went to hide near Kenzo.",
+        "",
+        "%% u2121:0-5, u2122:0-21, u2123:0-29 %%",
+        "((Stealth-roll setup omitted.))",
+        "",
+        "%% u2124:0-31 %%",
+        "DM: Okay, everybody can see Seeker.",
+        "",
+        "%% u2125:0-33 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2126:0-94 %%",
+        "DM: Uh, you hear another woman's voice in your head again: \"That's not hiding. Get in the tent now.\"",
+        "",
+        "%% u2127:0-37 %%",
+        "Kenzo: All right, and I get in the tent too.",
+        "",
+        "%% u2128:0-26 %%",
+        "Seeker: I'm gonna run to the tent.",
+        "",
+        "%% u2129:0-42 %%",
+        "DM: This isn't to you, this is just to Seeker.",
+        "",
+        "%% u2130:0-46, u2131:0-9, u2132:0-74, u2133:0-33, u2134:0-72, u2135:0-4, u2136:0-27, u2137:0-28, u2138:0-3 %%",
+        "((Hiding banter and perception-roll setup omitted.))",
+        "",
+        "%% u2139:0-107 %%",
+        "DM: You see chaos around in the bowl of the canyon now. You see Kenzo and Seeker running across from the trees.",
+        "",
+        "%% u2140:0-17 %%",
+        "Unknown: Towards the tent.",
+        "",
+        "%% u2141:0-26, u2142:0-15, u2143:0-40, u2144:0-34, u2145:0-9, u2146:0-6, u2147:0-44, u2148:0-44, u2149:0-79, u2150:0-16, u2151:0-25 %%",
+        "((Drikod and Wellby resume climbing up the cliff.))",
+        "",
+        "%% u2152:0-16, u2153:0-60, u2154:0-44, u2155:0-94 %%",
+        "DM: You see now, I'm—like Cintra now, having gotten the two of you into the tent, kind of closes her eyes for a moment and in letters on the rock floor of the canyon, the word spells out: HIDE! With an exclamation point.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: So glad we're doing this enough. This is a first for us, after a year of playing.",
+          "Unknown: Yeah.",
+          "Seeker: It's gonna backfire in some spectacular way, I'm sure.",
+          "Kenzo: No, I think the Augury allowed us, that's what we needed to feel confident that we didn't need to do this.",
+          "Drikod: We needed God to tell us it was okay not to murder."
+        ],
+        "after": [
+          "Unknown: Wow.",
+          "DM: You can do this too, Seeker.",
+          "Seeker: Right.",
+          "DM: With Mold Earth.",
+          "Delwath: I will try to hide somewhere. What's the, are there any good hiding spots along the canyon?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Cintra’s bluff diverts the flying jailer",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2171",
+        "endUid": "u2338"
+      },
+      "lines": [
+        "%% u2171:0-84, u2172:0-16, u2173:0-13, u2174:0-93 %%",
+        "DM: When, Wellby, you've been looking around, you see from the other side of the canyon approaching the sort of like—still kind of in the distance, you're not sure whether this creature has noticed you yet, um.",
+        "",
+        "%% u2175:0-91, u2176:0-63, u2177:0-7, u2178:0-96, u2179:0-148, u2180:0-47, u2181:0-39, u2182:0-45 %%",
+        "DM: Hold on a sec, I want to make sure I don't mess up the description here, um, you see a maybe seven-foot-tall, human, human-ish, but seeming big for a human, with a dark cloak putting its face, their face in shadow, and carrying like slung over its back, um, a club with these like a four foot long club with like spikes coming out of all of that and sort of striding towards the—looking down into the canyon. As it walks it almost seems to float above the—above the surface of the canyon rim ah. And Drikod and Wellby, make Dexterity checks.",
+        "",
+        "%% u2183:0-13, u2184:0-53, u2185:0-12, u2186:0-60, u2187:0-5, u2188:0-13, u2189:0-48, u2190:0-18 %%",
+        "((Visible-roll discussion and repeated position clarification omitted.))",
+        "",
+        "%% u2191:0-82, u2192:0-64, u2193:0-240 %%",
+        "DM: So Wellby, as you notice, you notice this first and manage to sort of leap off of—off of Drikod's back onto the, because you've just reached that level of the Canyon as this person has appeared as this creature is appearing and you if you would like to attempt to quickly hide you're welcome to hide at disadvantage because you're sort of caught without being able to find a great spot.",
+        "",
+        "%% u2194:0-16, u2195:0-16 %%",
+        "DM: Drikod, you are—you are trapped.",
+        "",
+        "%% u2196:0-27 %%",
+        "Drikod: So I'm still hanging there?",
+        "",
+        "%% u2197:0-35, u2198:0-30 %%",
+        "DM: You are like just reaching the lip of—you're not quick enough to—",
+        "",
+        "%% u2199:0-10 %%",
+        "Drikod: Leap over.",
+        "",
+        "%% u2200:0-37, u2201:0-74 %%",
+        "DM: To leap over, you have, you have maybe next second, you may have 10 seconds, if you want to try and cast a spell.",
+        "",
+        "%% u2202:0-38, u2203:0-9, u2204:0-4 %%",
+        "((Roll correction omitted.))",
+        "",
+        "%% u2205:0-41, u2206:0-31 %%",
+        "Drikod: Let me look at my spells real quick here. Actually, could I just cast my—",
+        "",
+        "%% u2207:0-22 %%",
+        "Delwath: Meld into Stone, yeah.",
+        "",
+        "%% u2208:0-38 %%",
+        "Drikod: Oh yeah that's what it's designed for.",
+        "",
+        "%% u2209:0-3, u2210:0-33 %%",
+        "Seeker: And Meld into Stone's perfect hiding.",
+        "",
+        "%% u2211:0-15 %%",
+        "DM: To do that yep.",
+        "",
+        "%% u2212:0-3, u2213:0-93, u2214:0-17, u2215:0-3 %%",
+        "((Spell-choice and music banter omitted.))",
+        "",
+        "%% u2216:0-82, u2217:0-35 %%",
+        "DM: You all, as far as you know, seem to have vanished as you hear sort of booming out, as Cintra is now looking up at the—",
+        "",
+        "%% u2218:0-28 %%",
+        "Kenzo: She's still outside of that.",
+        "",
+        "%% u2219:0-223, u2220:0-36, u2221:0-36, u2222:0-28, u2223:0-36 %%",
+        "DM: She is still outside, and she is sort of standing looking defiantly up, and this creature kind of casts its hood back and is floating, but doesn't quite approach the lip of the canyon. It gets to maybe 10 feet from the lip. And you know starts starts laughing. And says in kind of a booming voice: \"Still here, I see. Good, good. Your daughter will live another day.\"",
+        "",
+        "%% u2224:0-26, u2225:0-5, u2226:0-13, u2227:0-18, u2228:0-56 %%",
+        "DM: Huh, and then looks around. \"What? What is that? You have a friend?\" And Cintra is sort of shaking her head like, no, no, no.",
+        "",
+        "%% u2229:0-20, u2230:0-23, u2231:0-14, u2232:0-102 %%",
+        "DM: \"Maybe I will go see.\" And leaps into the air flying across. Wellby, you have a moment as it's leaping in the air, if you want to try to find a better hiding spot.",
+        "",
+        "%% u2233:0-7, u2234:0-33, u2235:0-19, u2236:0-9, u2237:0-39, u2238:0-3 %%",
+        "((Stealth-roll and character banter omitted.))",
+        "",
+        "%% u2239:0-180 %%",
+        "Wellby: I would love to play this regardless of what comes, as like Wellby can't find a good hiding place and so sort of flattens himself against a rock as best he can, and nocks an arrow.",
+        "",
+        "%% u2240:0-8 %%",
+        "DM: Okay um.",
+        "",
+        "%% u2241:0-15 %%",
+        "Seeker: Yeah it's just.",
+        "",
+        "%% u2242:0-119 %%",
+        "DM: You just are trapped right on the edge and there's just not very many convenient boulders or anywhere that you can get.",
+        "",
+        "%% u2243:0-13 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2244:0-86, u2245:0-41 %%",
+        "DM: Look like trying like, maybe you can dash across a bit of open ground and then you, you think better of it from and just kind of.",
+        "",
+        "%% u2246:0-25, u2247:0-73, u2248:0-4 %%",
+        "((Delwath notes he cannot cast Invisibility.))",
+        "",
+        "%% u2249:0-58 %%",
+        "Delwath: I have another idea. How close is Wellby's hiding spot to—",
+        "",
+        "%% u2250:0-3, u2251:0-7, u2252:0-5 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2253:0-7, u2254:0-106 %%",
+        "DM: I mean, how close do you want to be? I mean you, you could have found a hiding place within like 20 feet or so or—",
+        "",
+        "%% u2255:0-3, u2256:0-63 %%",
+        "Delwath: An animal of my choice. Does that include a vaguely humanoid form?",
+        "",
+        "%% u2257:0-7, u2258:0-8 %%",
+        "DM: Oh wow. Alright.",
+        "",
+        "%% u2259:0-31, u2260:0-28 %%",
+        "Delwath: As Wellby's scrambling to hide—hold on, I gotta, I gotta set—",
+        "",
+        "%% u2261:0-52, u2262:0-6 %%",
+        "((Front-door banter omitted.))",
+        "",
+        "%% u2263:0-65, u2264:0-73, u2265:0-28 %%",
+        "Delwath: Um, as Wellby's looking around for a spot to hide, I am going to create a shadow version of Wellby that runs off as obviously as they can along the edge of the cliff.",
+        "",
+        "%% u2266:0-5, u2267:0-5, u2268:0-5, u2269:0-68, u2270:0-34, u2271:0-11, u2272:0-4, u2273:0-12 %%",
+        "((Spell-check mechanics and interface discussion omitted.))",
+        "",
+        "%% u2274:0-57, u2275:0-160, u2276:0-69 %%",
+        "DM: That first one is good. That first roll is what you need. Uh, so the thing that's flying across sees this flash of movement and turns, darts after the shadow, and as it's getting close, takes its club and like takes a swing at the shadow, and as it does this, you hear Cintra from below.",
+        "",
+        "%% u2277:0-18 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2278:0-47, u2279:0-18 %%",
+        "DM: You hear her yell, \"Wait,\" as it's getting close. And she will then—",
+        "",
+        "%% u2280:0-47 %%",
+        "Kenzo: She doesn't know that that's not Wellby, right?",
+        "",
+        "%% u2281:0-34 %%",
+        "DM: She just saw flash of movement, um.",
+        "",
+        "%% u2282:0-18, u2283:0-12, u2284:0-40 %%",
+        "DM: She will say, \"Wait. We can talk. That was just my trick,\" and you see, um—",
+        "",
+        "%% u2285:0-104, u2286:0-108, u2287:0-70 %%",
+        "DM: An image created, you see created like on the ground in front of her, about 30 feet away, like a little sort of shadowy figure appears, doesn't move, just appears, and then she snapped her fingers and it disappears. And then she does it again somewhere else and snaps her finger and it—",
+        "",
+        "%% u2288:0-17 %%",
+        "Kenzo: Disappears again.",
+        "",
+        "%% u2289:0-44, u2290:0-25 %%",
+        "DM: \"Wait, I will give you what you, what you want. Come back in the morning.\"",
+        "",
+        "%% u2291:0-13, u2292:0-7, u2293:0-29 %%",
+        "DM: And she says, \"Please, I can't stay here any longer.\"",
+        "",
+        "%% u2294:0-35, u2295:0-139, u2296:0-64 %%",
+        "DM: And the thing just starts laughing. Like sort of an evil laugh, and then takes its club and kicks up some dust and lands on the far side, now totally focused on Cintra, about 40 feet from Wellby, who's just like trapped there with his bow.",
+        "",
+        "%% u2297:0-40, u2298:0-8, u2299:0-16, u2300:0-3, u2301:0-5, u2302:0-15 %%",
+        "((Banter about taking a shot omitted.))",
+        "",
+        "%% u2303:0-88 %%",
+        "Kenzo: Wait, Tim, take it slow for a second, like, what does it look like? What's it look like?",
+        "",
+        "%% u2304:0-89 %%",
+        "DM: It looks, it looks human, but sort of like us, like almost a stretched out face that's like—",
+        "",
+        "%% u2305:0-42 %%",
+        "Kenzo: I'll Soul Sight the shit out of this dude.",
+        "",
+        "%% u2306:0-26, u2307:0-8 %%",
+        "DM: They are way too far away from it.",
+        "",
+        "%% u2308:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2309:0-40, u2310:0-44 %%",
+        "DM: I mean, actually, Kenzo, you don't even see what's going on, because it's like your.",
+        "",
+        "%% u2311:0-18 %%",
+        "Unknown: Trapped in a tent.",
+        "",
+        "%% u2312:0-36, u2313:0-108, u2314:0-99 %%",
+        "DM: It starts laughing and then it says, \"I must report this,\" and it takes out from its pocket, it lands, and it takes out from his pocket this small—it's, it's like a—you can't really see exactly what it is, but it seems to be smaller than its hand.",
+        "",
+        "%% u2315:0-87, u2316:0-20, u2317:0-85, u2318:0-39 %%",
+        "DM: Something solid in it, it holds it up for a moment, concentrating, and then it, it says, \"Um, she's still here. Don't kill her daughter, but she's agreed she'll tell us what we need in the morning. I don't know if it's worth your travel.\"",
+        "",
+        "%% u2319:0-9, u2320:0-10 %%",
+        "DM: And then flies off.",
+        "",
+        "%% u2321:0-23, u2322:0-5, u2323:0-46, u2324:0-28, u2325:0-8, u2326:0-33, u2327:0-3, u2328:0-42, u2329:0-7, u2330:0-24, u2331:0-74, u2332:0-3, u2333:0-9 %%",
+        "((Repeated appearance questions and shooting banter omitted.))",
+        "",
+        "%% u2334:0-261, u2335:0-77, u2336:0-9 %%",
+        "DM: So, so as it, as it flies out, like, it looks like human but everything's just a little bit bigger, and it's almost like instead of it being bigger it's just bit like when you, when you stretch an image, but you don't do it proportionally, you just pull it vertically. Like everything is just slightly longer and drawn out than what you'd expect. On it, um—",
+        "",
+        "%% u2337:0-138, u2338:0-151 %%",
+        "DM: It's, it's, but it's—it looks human, like a male human, has sort of long, long hair kind of tied back in a ponytail, carrying this big club, I'm, flying, but it's almost like it's in the uncanny valley, sort of like it's just off slightly, just like pulled out a little bit more than it should be.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I will try to hide somewhere. What's the, are there any good hiding spots along the canyon?",
+          "DM: So the whole canyon rim is difficult terrain so there's like boulders and there's definitely places you could hide. It's not amazing hiding terrain, but it's definitely possible. Okay, make a make a Stealth check.",
+          "Seeker: Nice Nice.",
+          "DM: I attempt to roll high, uh.",
+          "DM: So about another 30 seconds passes as you two are still now about 450 500 feet, you're just coming to the top."
+        ],
+        "after": [
+          "Unknown: Freaky.",
+          "DM: And with that, I think now it's probably a good time to end, unless you want to talk to Cintra for a little bit, but where are we gonna leave?",
+          "Wellby: Up to you and let's go it's a good cliffhanger.",
+          "Delwath: That was really exciting, say what's that?",
+          "Drikod: Drikod has no idea what's going on right now, he's stone, stone."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The party speculates about the jailer’s allies",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2348",
+        "endUid": "u2369"
+      },
+      "lines": [
+        "%% u2348:0-59 %%",
+        "Kenzo: Wow, is this like Grash's brother? Does he look like Grash?",
+        "",
+        "%% u2349:0-24 %%",
+        "DM: No, Grash is a skeleton.",
+        "",
+        "%% u2350:0-21 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2351:0-84 %%",
+        "Wellby: Got it, wait, what direction does he leave? What direction does he head to? He goes—",
+        "",
+        "%% u2352:0-32 %%",
+        "DM: Good question, um, sort of east.",
+        "",
+        "%% u2353:0-29 %%",
+        "Delwath: And so that's Agata, is here?",
+        "",
+        "%% u2354:0-23, u2355:0-20 %%",
+        "Wellby: Well, Agata is farther, more south and east.",
+        "",
+        "%% u2356:0-3 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2357:0-60 %%",
+        "Delwath: Yeah, then this feels, this is either Grash or somebody new.",
+        "",
+        "%% u2358:0-15 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2359:0-76 %%",
+        "Delwath: It's like, I mean, Grash's lieutenant, the guy works for Grash or something.",
+        "",
+        "%% u2360:0-57, u2361:0-34 %%",
+        "((Brief Augury banter omitted.))",
+        "",
+        "%% u2362:0-100 %%",
+        "Wellby: I think it's not Grash, though, because this isn't like the right constellation of creatures, right.",
+        "",
+        "%% u2363:0-119 %%",
+        "Kenzo: No, they're not orcs, but this is like Grash's homie or like they're like this, you know what I mean? There's probably.",
+        "",
+        "%% u2364:0-102, u2365:0-34, u2366:0-19, u2367:0-16, u2368:0-31 %%",
+        "((Speculation about the gnolls’ demonic origin omitted.))",
+        "",
+        "%% u2369:0-108 %%",
+        "Wellby: I encourage us to abandon all investigation into Grash and chase something in a totally different direction.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: That was really exciting, say what's that?",
+          "Drikod: Drikod has no idea what's going on right now, he's stone, stone.",
+          "DM: Because he's in the stone.",
+          "Drikod: I can't hear anything or see anything.",
+          "DM: You can hear sort of faintly, but you can't see."
+        ],
+        "after": [
+          "Seeker: Plus we're—scheduling.",
+          "DM: Yeah let's let's make sure we've got our next—",
+          "Delwath: I think we have one on the calendar for next week. 20th yeah.",
+          "Wellby: A—",
+          "Delwath: Week after next."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Remembering Bhishma returning Kenzo to life",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2442",
+        "endUid": "u2453"
+      },
+      "lines": [
+        "%% u2442:0-37, u2443:0-25 %%",
+        "DM: Actually, that's not true, Kenzo did—did sacrifice himself in—",
+        "",
+        "%% u2444:0-18, u2445:0-17, u2446:0-16, u2447:0-5, u2448:0-23 %%",
+        "((Discussion distinguishing dropping to zero hit points from dying omitted.))",
+        "",
+        "%% u2449:0-90, u2450:0-19 %%",
+        "DM: You got to zero points once, and then you literally died and were brought back by Bhishma. Yeah, but that was—",
+        "",
+        "%% u2451:0-21 %%",
+        "((Brief interjections omitted.))",
+        "",
+        "%% u2452:0-12 %%",
+        "DM: Your choice.",
+        "",
+        "%% u2453:0-44 %%",
+        "Kenzo: Yeah, yeah, but so yeah, Kenzo's died twice.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Drikod: Yeah, is character death common in this game, or has it happened yet?",
+          "Seeker: There were 14 of us to begin with, so.",
+          "DM: It's not supposed to be common.",
+          "Drikod: Yeah.",
+          "Kenzo: I mean, my character has had zero hit points several times, like."
+        ],
+        "after": [
+          "Delwath: I'm—just one."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
