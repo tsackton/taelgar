@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-040",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml",
+    "sessionYamlSha256": "da1d84b185acd3acf16d85d5a4486773ab71fcdde2e351c908fb1b0e5dd9622d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-transcript.md",
+    "transcriptSha256": "210e9ba878cf59a524e4ff1867d6f43bf170d7e5134a86913280ca07bbe13692",
+    "yamlDates": {
+      "start": "1748-07-03",
+      "end": "1748-07-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0005"
+      },
+      "reading": "The party leaves Tokra around noon.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0005",
+          "quote": "DM: As the sun climbs towards midday, four companions leave the city heading north, one part of their tale ending."
+        },
+        {
+          "startUid": "u0150",
+          "endUid": "u0158",
+          "quote": "By the time you had returned to Tokra and gathered your supplies, you know, left word with people that you were heading north, it was probably noon."
+        }
+      ],
+      "time": {
+        "clock": "12:00",
+        "precision": "approximate",
+        "basis": "Opening approaches midday; later narration confirms departure was probably noon."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0150",
+        "endUid": "u0158"
+      },
+      "reading": "The first day of slow riding covers about twelve miles before the riverside camp.",
+      "evidence": [
+        {
+          "startUid": "u0150",
+          "endUid": "u0158",
+          "quote": "And you know, the first day or so passes, you know, maybe 12 hours of—or, sorry, 12 miles of slow riding along the river banks."
+        }
+      ],
+      "duration": {
+        "text": "the first day or so",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated first travel interval; twelve hours is immediately corrected to twelve miles."
+      },
+      "completion": "completed",
+      "note": "The speech supplies no twelve-hour elapsed interval."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0165",
+        "endUid": "u0191"
+      },
+      "reading": "The party camps beside the river; the quiet night ends at a bright dawn.",
+      "evidence": [
+        {
+          "startUid": "u0165",
+          "endUid": "u0167",
+          "quote": "DM: So you set camp along the river, I assume. Keep watch as typical."
+        },
+        {
+          "startUid": "u0179",
+          "endUid": "u0182",
+          "quote": "I mean this is pretty settled area, so the night passes quiet. Hot, dusty, dry."
+        },
+        {
+          "startUid": "u0185",
+          "endUid": "u0191",
+          "quote": "DM: And you wake to a bright dawn. Sound of birds. What few birds there are in this, this dry—all the grasses turn brown. Clearly, the land needs rain. Continue to head North along the river."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Narrated camp and watch."
+        },
+        "end": {
+          "partOfDay": "dawn",
+          "precision": "approximate",
+          "basis": "Explicit waking at a bright dawn."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0429",
+        "endUid": "u0441"
+      },
+      "reading": "After morning travel and lunch, the party encounters Kiran in what the DM initially calls mid afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0429",
+          "endUid": "u0433",
+          "quote": "DM: That the rains usually would be here by the beginning of July and it's only a few days late but it's been an intense summer and so the land itself seems to be feeling the effects of this. The heat in the sun. Until about mid afternoon you don't see anybody."
+        },
+        {
+          "startUid": "u0434",
+          "endUid": "u0441",
+          "quote": "DM: But after going maybe about 10 miles or so through the through the early morning and after stopping for lunch, you see in the distance in a sort of in a place where the cliffs drop away briefly and there's a little river bank with a handful of small trees growing there and some shade, you see, about 10 or 15 tents of Dunmari tents set up. Looks like a small camp of some kind, maybe a mile from where you are."
+        }
+      ],
+      "time": {
+        "partOfDay": "mid afternoon",
+        "precision": "approximate",
+        "basis": "DM initially places the first sight of people at mid afternoon.",
+        "date": {
+          "month": 7
+        }
+      },
+      "note": "Only July is independently spoken; no civil day or year is stated. The later departure clock in t05 is earlier than this encounter clock."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0743",
+        "endUid": "u0748"
+      },
+      "reading": "Departure from Kiran’s vicinity is called midday, conflicting with the preceding mid-afternoon encounter.",
+      "evidence": [
+        {
+          "startUid": "u0743",
+          "endUid": "u0748",
+          "quote": "Is it is mid day, so if you ride into the evening you could arrive, you know get another 10 miles in today and then arrive by early evening the following day."
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "Explicit clock at departure, retained alongside the earlier incompatible encounter clock."
+      },
+      "note": "The forecast arrival the following evening is not actual elapsed travel; the party later stops short."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0749",
+        "endUid": "u0758"
+      },
+      "reading": "The party passes a distant tower as sunset begins and camps on the open plains that evening.",
+      "evidence": [
+        {
+          "startUid": "u0749",
+          "endUid": "u0756",
+          "quote": "You pass a—as the sun is beginning to set you see in the distance of a tower a watchtower from some older era, maybe standing tall over the over the plains maybe 10, 10-ish miles off. 10 miles West out of your way."
+        },
+        {
+          "startUid": "u0758",
+          "endUid": "u0758",
+          "quote": "DM: Make your camp for the evening on the featureless empty plains quiet in the quiet night."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit setting sun before the evening camp."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0789",
+        "endUid": "u0790"
+      },
+      "reading": "The party goes to sleep at the plains camp; Kenzo’s dream ends in waking before the next day’s travel.",
+      "evidence": [
+        {
+          "startUid": "u0789",
+          "endUid": "u0790",
+          "quote": "DM: So you all go off keeping your—you go off to sleep keeping your usual watch. So you drift off to sleep."
+        },
+        {
+          "startUid": "u0844",
+          "endUid": "u0845",
+          "quote": "DM: And eventually the dream fades and you wake."
+        },
+        {
+          "startUid": "u0875",
+          "endUid": "u0883",
+          "quote": "You continue for most of the day until you see until, as you know, evening is beginning to fall, you see the smoke of fires, maybe five miles to East."
+        }
+      ],
+      "dateBoundaries": 1,
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Usual watch and going to sleep after the evening camp."
+        },
+        "end": null
+      },
+      "completion": "completed",
+      "note": "Waking is explicit, but its clock is not stated; the next narration covers most of the following day."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0793",
+        "endUid": "u0795"
+      },
+      "reading": "Narration enters Kenzo’s dream while he sleeps at the plains camp.",
+      "evidence": [
+        {
+          "startUid": "u0791",
+          "endUid": "u0795",
+          "quote": "Kenzo: Um can I go towards the hammers?\n\nDM: Yeah, so when you try and approach the sound kind of fades and it's like a it's almost as if you're moving on the surface of the ground and the hammers are some echo deep below you. And it feels very much like an echo like you're not hearing the same forges or anything from [garbled] from last night you're just hearing a sort of echo in your mind, and you can actually make wisdom check."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0844",
+        "endUid": "u0845"
+      },
+      "reading": "Kenzo wakes from the dream and returns to the camp’s adventure frame.",
+      "evidence": [
+        {
+          "startUid": "u0844",
+          "endUid": "u0845",
+          "quote": "DM: And eventually the dream fades and you wake."
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0850",
+          "quote": "Um yeah I share I share what happens to the companions. Seeker I don't speak Dwarvish but I, I wonder if this is like an echo of Riswynn's protection."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0875",
+        "endUid": "u0886"
+      },
+      "reading": "After most of a day of northward travel, the party sights the presumed camp near sunset.",
+      "evidence": [
+        {
+          "startUid": "u0875",
+          "endUid": "u0883",
+          "quote": "DM: So continue north. Wellby, make another survival check. You continue for most of the day until you see until, as you know, evening is beginning to fall, you see the smoke of fires, maybe five miles to East. You know the sun is beginning to set, right? Seem like you got maybe slightly—you went maybe a little more North Northwest then then you were intending but."
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0886",
+          "quote": "DM: You can still see the see what you presume is is Saka's camp, you know, on the horizon. You just need to decide if you want to get there after nightfall or get there in the morning."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit evening falling and sun beginning to set."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0887",
+        "endUid": "u0887"
+      },
+      "reading": "The party chooses to camp short of Saka’s camp overnight and wakes after an uneventful night.",
+      "evidence": [
+        {
+          "startUid": "u0887",
+          "endUid": "u0887",
+          "quote": "Kenzo: Let's do the morning. I think if she's wary approaching at nights probably not going to be the best, most welcoming thing."
+        },
+        {
+          "startUid": "u0908",
+          "endUid": "u0914",
+          "quote": "Um so you wake up in the morning. Uneventful night, no dreams from anybody."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "evening",
+          "precision": "approximate",
+          "basis": "Decision to stop at the sunset approach rather than arrive after nightfall."
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "Explicit next morning after an uneventful night."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u0908",
+        "endUid": "u0914"
+      },
+      "reading": "The party wakes in the morning within sight of Saka’s camp.",
+      "evidence": [
+        {
+          "startUid": "u0908",
+          "endUid": "u0914",
+          "quote": "DM: So the mirror's recharged; it just happens to be back in the monastery just FYI. Um so you wake up in the morning. Uneventful night, no dreams from anybody. And you can see, like in the distance the movement of of people. Then occasionally carrying on with the with the morning breeze that, like the [garbled] the neighing of horses, the sounds of the camp beginning to come to life. You know, only an hour or two's travel from here."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Explicit waking in morning; the stated hour or two to camp remains an estimate."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1150",
+        "endUid": "u1160"
+      },
+      "reading": "The party reaches Saka’s camp while morning chores are underway.",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1155",
+          "quote": "DM: Maybe 15 or 20 tents kind of set up in a large circle around a sort of open space in the middle and and a herd of maybe 60 horses at least kind of grazing scattered. Now in the morning, you know, this time of morning as you're beginning to approach this a fair bit of activity, is, as people are taking small groups, you know, bringing small groups of horses out to scatter across the landscape to eat what grass, they can. You know there's so the lot of the sort of young younger generation is out on chores and things like that some finishing their chores. So there's a fair bit of bustle to this camp, as you approach but."
+        },
+        {
+          "startUid": "u1156",
+          "endUid": "u1160",
+          "quote": "DM: As as you do, begin to approach like slowly there's this sort of wave front of kind of quiet as it as as everybody, you know the you know dozen or so closest people start to realize that you're, you know, there's these strangers approaching. And and everybody kind of goes quiet and you can see now as obviously word word passes, as you as you stop on the edge edge of Camp I'm."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Arrival explicitly occurs this time of morning."
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1227",
+        "endUid": "u1230"
+      },
+      "reading": "The party waits about ten minutes while Saka’s niece asks permission for an audience.",
+      "evidence": [
+        {
+          "startUid": "u1227",
+          "endUid": "u1230",
+          "quote": "Has gone about 10 minutes and everybody in the camp is just kind of nervously milling around not sure if they should talk to you or not."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated wait of about ten minutes."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "July is independently spoken at u0429–u0433; year and civil days are supplied by YAML. Relative night count matches conditional on the YAML start.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": 3,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t07",
+      "t10",
+      "t11",
+      "t12",
+      "t13"
+    ],
+    "explanation": "Departure, riverside overnight, plains overnight, and overnight short of Saka’s camp reach the fourth day. The session ends at the camp without another overnight. Historical recaps, recalled dreams and proposed future travel do not extend the span. Kiran’s within-day clock conflict does not change the three-night span."
+  }
+}
