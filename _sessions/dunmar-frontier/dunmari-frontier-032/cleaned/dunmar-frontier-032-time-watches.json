@@ -1,0 +1,220 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-time-markers.json",
+    "sha256": "0b61a49cab8149cd889a0363756b754b8d60048a128edd6c3730789b9cdd4406"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-transcript.md",
+    "sha256": "db1fb31e6220b80b5320ba1d00502c4c1324ed77400ebf863415ab5856a04636"
+  },
+  "dateAssessment": "Working campaign dates use YAML’s DR 1748-06-09–1748-06-20 span, which the transcript is compatible with but does not independently measure exactly. The two festival days and following departure place the feast on June 18–19 and initiation on June 17. The dated Session 32 note places the earlier mirror evening on June 15; that supplementary date is used only here, not imported into the transcript-only time extraction. Kenzo’s dream remains unplaced within downtime. Historical visions use separate local frames and add no adventure days. Breakfast is corrected from sunrise to pre-dawn at u3460–u3462; prayers begin in the morning. Delwath’s day and night in the desert overlap the downtime and are not added to it. No additional wait follows the proposed future mirror recharge.",
+  "watches": [
+    {
+      "day": "June 9–17, 1748",
+      "startWatch": null,
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "About a week to ten days of downtime; training culminates on the evening before the feast.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-06-09",
+      "endDate": "1748-06-17",
+      "scope": "Downtime montage"
+    },
+    {
+      "day": "June 15, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Earlier evening on Wellby’s return day; two separate minute-long waits occur during Revaka’s interrogation.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1748-06-15",
+      "endDate": "1748-06-15",
+      "scope": "Retrospective mirror work"
+    },
+    {
+      "day": "June 17, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Initiation is explicitly the evening before the feast; the initiates return from their vision.",
+      "markers": [
+        "t02",
+        "t05"
+      ],
+      "startDate": "1748-06-17",
+      "endDate": "1748-06-17",
+      "scope": "Kenzo and Drikod"
+    },
+    {
+      "day": "June 17–18, 1748",
+      "startWatch": null,
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Delwath spends a day and night in the desert and returns for the first festival breakfast.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-06-17",
+      "endDate": "1748-06-18",
+      "scope": "Delwath; nested in downtime"
+    },
+    {
+      "day": "June 18, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Opening morning frame resumes after flashbacks; the DM later clarifies that breakfast began very early, pre-dawn.",
+      "markers": [
+        "t07",
+        "t13"
+      ],
+      "startDate": "1748-06-18",
+      "endDate": "1748-06-18"
+    },
+    {
+      "day": "June 18, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "After pre-dawn breakfast, people rise for morning prayers; Cintra releases the lantern’s souls during remembrance.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-06-18",
+      "endDate": "1748-06-18"
+    },
+    {
+      "day": "June 18, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The DM advances from morning into afternoon preparations for the ritual meal before sunset.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-06-18",
+      "endDate": "1748-06-18"
+    },
+    {
+      "day": "June 18, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The ritual story and meal end; sunset marks the start of the party at Ikram’s table.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-06-18",
+      "endDate": "1748-06-18"
+    },
+    {
+      "day": "June 19, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The second festival morning follows the party; a messenger wakes the companions to meet Sura.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1748-06-19",
+      "endDate": "1748-06-19"
+    },
+    {
+      "day": "June 19, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The day draws to a close as Sura emerges for her public declaration.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1748-06-19",
+      "endDate": "1748-06-19"
+    },
+    {
+      "day": "June 20, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Early morning after the two festival days; most people still rest as the companions leave Karawa.",
+      "markers": [
+        "t19"
+      ],
+      "startDate": "1748-06-20",
+      "endDate": "1748-06-20"
+    },
+    {
+      "day": "Initiation vision: distant past",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The vision changes from Dunmar to its ancient forest; no historical date or elapsed duration is established.",
+      "markers": [
+        "t03"
+      ],
+      "clock": "local",
+      "scope": "Initiation vision"
+    },
+    {
+      "day": "Initiation vision: childhood camp",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Shakun’s childhood camp reaches sunset and a star-filled night within the initiation vision.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "local",
+      "scope": "Initiation vision"
+    },
+    {
+      "day": "Kenzo’s dream, during downtime",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Rai speaks across years; the dream’s position relative to the earlier interrogation remains expressly flexible.",
+      "markers": [
+        "t06"
+      ],
+      "clock": "local",
+      "scope": "Dream; no synchronized clock"
+    },
+    {
+      "day": "Lantern vision: historical scenes",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Scenes run in uncertain historical order, including nighttime desert magic and the attack on Garret’s caravan.",
+      "markers": [
+        "t12"
+      ],
+      "clock": "local",
+      "scope": "Mirror vision; night without a precise watch"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 32 (DuFr)",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 32 (DuFr).md",
+      "sha256": "8fb989d06902943b31da6e04e7af0920869fa9ae57d831e37c84431652c5c8be"
+    },
+    {
+      "label": "Kotana",
+      "path": "People/Historical Figures/Dunmari Rulers/Kotana.md",
+      "sha256": "a2ee6639a13f0c5599a6fd47e98d92d16a169940ad2c9eb074ea3955a6df5637"
+    },
+    {
+      "label": "Arryn III",
+      "path": "People/Historical Figures/Sembaran Royalty/Arryn III.md",
+      "sha256": "c9ed478c67045f421d69c62bb72220f2f8a48be8a106f9c16ce27d85b8aeaf3a"
+    }
+  ]
+}
