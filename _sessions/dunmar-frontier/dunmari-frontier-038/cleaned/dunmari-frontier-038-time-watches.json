@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-time-markers.json",
+    "sha256": "3f3d3909ff857bd4e7e9786d804c6846278f32ed14a539f57ff0f9feaa6fd325"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-transcript.md",
+    "sha256": "f849faf2c9ca5d468175738e2860ecff7b3ef65a7d07e59e0e638da5a1984bc0"
+  },
+  "dateAssessment": "Working dates use YAML’s July 2–3, 1748 span. July 2 is independently spoken (t03, t11); the year is inherited. All narrated daytime scenes are July 2. The closing dusk-to-dawn range is conditional: the table awards a long rest and sets the next session at 3 a.m., but does not play the awakening. The time extraction therefore remains compatible, with both bedtime and next-day handoff boundary conventions retained. Approximate afternoon clocks are shown as stated rather than rescaled to force elapsed-time arithmetic.",
+  "watches": [
+    {
+      "day": "July 2, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "DM clocks place the den and Kenzo’s temple arrival in afternoon; rest, rituals and excavation pass between those rough anchors.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-02"
+    },
+    {
+      "day": "July 2, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "July 2 dinner is described as tonight, before retirement for the intended 3 a.m. resumption.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-02"
+    },
+    {
+      "day": "July 2–3, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Awarded eight-hour rest plus planned 3 a.m. handoff implies dusk-to-dawn; Delwath’s requirement is four hours.",
+      "markers": [
+        "t12",
+        "t13"
+      ],
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-03"
+    }
+  ]
+}
