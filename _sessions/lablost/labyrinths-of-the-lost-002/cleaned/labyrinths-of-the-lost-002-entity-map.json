@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "c7befeeb0049d7a744b8829746c535cb73d1ceea22647f03dc2a202c37749ba5",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "3c52e8e4a89dbc11046b0280f1a0748952a8c0e97fdfa5d42c0061d28ba80616",
+        "transcriptProcessing.artifacts.cleaned": "44b0c1f77cae94cbf64300d288784713135a90a8c8284abde35359e6b0e4d4b5"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Folcan",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0041",
+            "endUid": "u0041"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0115",
+            "endUid": "u0121"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Folcan.md"
+    },
+    {
+      "id": "e002",
+      "label": "Steampup",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0021",
+            "endUid": "u0027"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0244",
+            "endUid": "u0249"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0268",
+            "endUid": "u0274"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0487",
+            "endUid": "u0490"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md",
+      "confidenceExplanation": "The established continuing companion qualifies, but its commanded decoy work could warrant supporting rather than cameo importance."
+    },
+    {
+      "id": "e003",
+      "label": "Stone Medusa at the fountain",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0387",
+            "endUid": "u0391"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1413",
+            "endUid": "u1429"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e004",
+      "label": "The Mother",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0566",
+            "endUid": "u0572"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother.md"
+    },
+    {
+      "id": "e005",
+      "label": "Perdoli family",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0929",
+            "endUid": "u0930"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1149",
+            "endUid": "u1167"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Perdoli Family.md"
+    },
+    {
+      "id": "e006",
+      "label": "Scroll of Cure Wounds",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0936",
+            "endUid": "u0949"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e007",
+      "label": "Potion of Watchful Rest",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0936",
+            "endUid": "u0946"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0950",
+            "endUid": "u0956"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e008",
+      "label": "Chained basilisk",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1283",
+            "endUid": "u1295"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1313",
+            "endUid": "u1344"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1354",
+            "endUid": "u1365"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1413",
+            "endUid": "u1429"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e009",
+      "label": "Grimstone",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1219",
+            "endUid": "u1224"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1629",
+            "endUid": "u1632"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1697",
+            "endUid": "u1724"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Grimstone.md",
+      "names": [
+        "white-faced man"
+      ]
+    },
+    {
+      "id": "e010",
+      "label": "Sailor ghost / J.M.",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1487",
+            "endUid": "u1500"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1552",
+            "endUid": "u1565"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1620",
+            "endUid": "u1628"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1671",
+            "endUid": "u1729"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Jacopo Marcelli.md",
+      "names": [
+        "J.M."
+      ],
+      "identifiedLater": true
+    },
+    {
+      "id": "e011",
+      "label": "Silver locket inscribed to J.M.",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1516",
+            "endUid": "u1519"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1620",
+            "endUid": "u1628"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1650",
+            "endUid": "u1660"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e012",
+      "label": "Petrona / P.",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1516",
+            "endUid": "u1519"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1552",
+            "endUid": "u1565"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1671",
+            "endUid": "u1691"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Petrona.md",
+      "names": [
+        "P.",
+        "Petrona"
+      ]
+    },
+    {
+      "id": "e013",
+      "label": "Pirate maps, letters, and notes",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1540",
+            "endUid": "u1572"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "label": "Navy of a city across the sea",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1546",
+            "endUid": "u1551"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1557",
+            "endUid": "u1565"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1708",
+            "endUid": "u1715"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e015",
+      "label": "Silver plate from the crypt",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0560",
+            "endUid": "u0565"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1370",
+            "endUid": "u1411"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e016",
+      "label": "Perdoli wine accounts",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1149",
+            "endUid": "u1176"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Hobgoblin smokebinder and crossbow guard",
+      "reason": "Unnamed encounter opponents have no individual identity beyond their patrol and combat roles; the smokebinder lore explains a creature category. Both fights remain fully represented in combat extraction.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0184",
+            "endUid": "u0193"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0645",
+            "endUid": "u0650"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0788",
+            "endUid": "u0815"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0840",
+            "endUid": "u0846"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Shadow cloak and flaming sword",
+      "reason": "The aftermath establishes that the shadows and flame belong to the hobgoblin’s abilities, not distinct magic items.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0788",
+            "endUid": "u0815"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Gaudin’s goblin-detecting ring; Goggles of the Night; experimental elixirs",
+      "reason": "Routine PC equipment and class-ability use, without a separate qualifying acquisition or original item history in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0158",
+            "endUid": "u0159"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0434",
+            "endUid": "u0437"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0535",
+            "endUid": "u0535"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0591",
+            "endUid": "u0593"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1113",
+            "endUid": "u1115"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Silver candlesticks, holy icon, topaz, coins, and alchemist’s fire",
+      "reason": "Ordinary loot or routine crafting supplies; no distinct plot-object role is established. The deity depicted by the icon is included separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0560",
+            "endUid": "u0580"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0891",
+            "endUid": "u0895"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0924",
+            "endUid": "u0925"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Petrona’s father",
+      "reason": "An unnamed incidental person in a secondhand letter; the captured father has no meaningful individual identity beyond motivating Petrona’s departure.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1557",
+            "endUid": "u1565"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Headless statues and great-hall victims",
+      "reason": "Generic petrified people without distinguishable individual identities; their plight and the party’s beliefs remain in the basilisk and ghost exchanges.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0376",
+            "endUid": "u0386"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1441",
+            "endUid": "u1469"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Dilion’s missing dog",
+      "reason": "An incidental unnamed reference to the companion the construct imitates; no substantive new account of the absent dog appears here. Do not conflate the passing Keiko address to Steampup with a second physically present dog.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0244",
+            "endUid": "u0246"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0268",
+            "endUid": "u0274"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1103",
+            "endUid": "u1106"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md",
+    "People/PCs/Other PCs/Labyrinth Prisoners/Dilion.md",
+    "People/PCs/Other PCs/Labyrinth Prisoners/Pikeia.md"
+  ]
+}

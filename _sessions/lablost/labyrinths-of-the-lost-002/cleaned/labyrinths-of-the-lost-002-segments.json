@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "labyrinths-of-the-lost-002",
+    "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
+    "sessionYamlSha256": "26a00821984d0301d0073b1a1237e92d48c1d5d6fef08472bbaad8093c10f8da",
+    "transcriptPath": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-transcript.md",
+    "transcriptSha256": "3c52e8e4a89dbc11046b0280f1a0748952a8c0e97fdfa5d42c0061d28ba80616"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0012"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0028"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0033"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0034",
+        "endUid": "u0650"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0651",
+        "endUid": "u0742"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0743",
+        "endUid": "u0846"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0847",
+        "endUid": "u0888"
+      },
+      "category": "combat",
+      "note": "A second bounded encounter reuses the turn-based ambush; the DM explicitly waives a new initiative roll and lets the party act in any order."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0889",
+        "endUid": "u1208"
+      },
+      "category": "gameplay",
+      "note": "The rest decision and real-life break share a UID group."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1209",
+        "endUid": "u1210"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1211",
+        "endUid": "u1731"
+      },
+      "category": "gameplay",
+      "note": "Recording resumes after omitted play; u1211 explicitly acknowledges the omission. The basilisk hazard has no ordered turn cycle."
+    }
+  ],
+  "limitations": "At u1211 the DM says the recording was not resumed; play between the archive rest and resumed scouting is absent. All surviving polished turns are classified."
+}
