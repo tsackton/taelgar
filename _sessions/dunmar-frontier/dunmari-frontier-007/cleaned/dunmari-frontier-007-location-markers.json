@@ -1,0 +1,658 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-007",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+    "sessionYamlSha256": "8dc760e24e6aef98cddf34da2b8465bdb4a2c0e96f411506395a04b38239d0e7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-transcript.md",
+    "transcriptSha256": "4b969e6a5857c19f8ab0236f3d981b5a5d03f36b90f12f78e6c2b404e58add25"
+  },
+  "places": {
+    "p01": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0011",
+          "quote": "DM: Now, the next morning, in the pre-dawn light, amidst the chaotic bustle of hundreds and hundreds of people and animals preparing to leave, within a few hours you say your last goodbyes. Supplied with fresh mounts, 10 days of food, you gather your gear and turn towards your plans for the journey."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p02": {
+      "label": "Plains north of Karawa",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0493",
+          "endUid": "u0501",
+          "quote": "I mean, right now, you're still—are north of Karawa, you know."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Samtal.md",
+      "note": "The vault identifies these plains as Samtal; that name is not spoken here."
+    },
+    "p03": {
+      "label": "Antelope kill site beyond the trade road",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u0204",
+          "endUid": "u0211",
+          "quote": "DM: Mid, mid-afternoon, sort of just past the road, you come to an area where it seems like, you know, they slept, possibly, or—it's not exactly made camp, but there's signs of a kill. There's a mostly dismembered and eaten antelope, and, you know, area where some group of creatures slept."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0204",
+              "endUid": "u0211",
+              "quote": "DM: Mid, mid-afternoon, sort of just past the road, you come to an area where it seems like, you know, they slept, possibly, or—it's not exactly made camp, but there's signs of a kill. There's a mostly dismembered and eaten antelope, and, you know, area where some group of creatures slept."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "First night camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0394",
+          "quote": "DM: So this is—you're talking about this. You've now camped for the night after your first day of travel, and Riswynn brings out these two maps."
+        },
+        {
+          "startUid": "u0493",
+          "endUid": "u0501",
+          "quote": "DM: Yeah, I mean, at the moment you're crossing… So as you got a little further north of—the character of the land is, is changing. And actually there's a bunch of flowers in bloom, kind of like my background. You know, you've got this sort of more just kind of vast expanses of, of, of grass, and it's actually quite pretty. You don't—but nothing… I mean, right now, you're still—are north of Karawa, you know. In the distance, you can still see the clouds of dust from people heading west down the road, even as you've camped. And you can see the, you know, the fires of people setting up camps and, and, you know, kind of settling in for the night as they're—as they're traveling west, so you don't feel like you've gotten really far away from, you know, from the sort of from civilization yet. So it hasn't seemed like there's much out of the ordinary. But as you head north, obviously things might change."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0393",
+              "endUid": "u0394",
+              "quote": "DM: So this is—you're talking about this. You've now camped for the night after your first day of travel, and Riswynn brings out these two maps."
+            },
+            {
+              "startUid": "u0493",
+              "endUid": "u0501",
+              "quote": "DM: Yeah, I mean, at the moment you're crossing… So as you got a little further north of—the character of the land is, is changing. And actually there's a bunch of flowers in bloom, kind of like my background. You know, you've got this sort of more just kind of vast expanses of, of, of grass, and it's actually quite pretty. You don't—but nothing… I mean, right now, you're still—are north of Karawa, you know. In the distance, you can still see the clouds of dust from people heading west down the road, even as you've camped. And you can see the, you know, the fires of people setting up camps and, and, you know, kind of settling in for the night as they're—as they're traveling west, so you don't feel like you've gotten really far away from, you know, from the sort of from civilization yet. So it hasn't seemed like there's much out of the ordinary. But as you head north, obviously things might change."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Roadside meeting with Shani",
+      "kind": "roadside",
+      "evidence": [
+        {
+          "startUid": "u0777",
+          "endUid": "u0784",
+          "quote": "DM: Oh, right. Okay, so you're heading up the road, like, yes, yeah. So as you, as you head up the road, I'm—you know, you're sort of sneaking quietly, Wellby nearly vanished, um, Delwath silent and impossible to see. And the road itself sort of—its basic. It's not really a road, right? It's just like a dirt track, and there's a few like little bits of, you know, sort of dips."
+        },
+        {
+          "startUid": "u0803",
+          "endUid": "u0813",
+          "quote": "Wellby: I think at that point, I'll just step out into the middle of the road and raise, you know, raise a hand to them in a gesture of greeting and…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0777",
+              "endUid": "u0784",
+              "quote": "DM: Oh, right. Okay, so you're heading up the road, like, yes, yeah. So as you, as you head up the road, I'm—you know, you're sort of sneaking quietly, Wellby nearly vanished, um, Delwath silent and impossible to see. And the road itself sort of—its basic. It's not really a road, right? It's just like a dirt track, and there's a few like little bits of, you know, sort of dips."
+            },
+            {
+              "startUid": "u0803",
+              "endUid": "u0813",
+              "quote": "Wellby: I think at that point, I'll just step out into the middle of the road and raise, you know, raise a hand to them in a gesture of greeting and…"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Horse blind beside the road",
+      "kind": "earthwork",
+      "evidence": [
+        {
+          "startUid": "u0746",
+          "endUid": "u0747",
+          "quote": "Seeker: While we're waiting, and I'll just casually make a little blind for us to walk the horses into down by the road."
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0823",
+          "quote": "Riswynn: Just to clarify, are Seeker and Kenzo and I just hanging out in a trench with some horses, or have we sort of got a sense of what's going on up ahead of us? Like a line of sight? Did that end in sight down the road?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0746",
+              "endUid": "u0747",
+              "quote": "Seeker: While we're waiting, and I'll just casually make a little blind for us to walk the horses into down by the road."
+            },
+            {
+              "startUid": "u0819",
+              "endUid": "u0823",
+              "quote": "Riswynn: Just to clarify, are Seeker and Kenzo and I just hanging out in a trench with some horses, or have we sort of got a sense of what's going on up ahead of us? Like a line of sight? Did that end in sight down the road?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Rocky ambush camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1097",
+          "endUid": "u1109",
+          "quote": "DM: Surprisingly quiet night. The land completely still. Nothing moving. No sign of antelope, no sign of animals at all. Hardly any even birds or flies or anything moving across the plain. And there's just this sense of this sort of pause in the air. Okay, so as you make camp and set to rest, around—sorry, go ahead."
+        },
+        {
+          "startUid": "u1122",
+          "endUid": "u1122",
+          "quote": "DM: We’ll use this map as your camp."
+        },
+        {
+          "startUid": "u1145",
+          "endUid": "u1150",
+          "quote": "DM: It would have been a safe place, a good place to put a camp. Okay. Oh, Jesus, was that…? Okay, now let me get combat. Sorry, that—[garbled] [garbled] So what did you get?"
+        },
+        {
+          "startUid": "u1144",
+          "endUid": "u1144",
+          "quote": "Delwath’s perched on the top of the rock."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1097",
+              "endUid": "u1109",
+              "quote": "DM: Surprisingly quiet night. The land completely still. Nothing moving. No sign of antelope, no sign of animals at all. Hardly any even birds or flies or anything moving across the plain. And there's just this sense of this sort of pause in the air. Okay, so as you make camp and set to rest, around—sorry, go ahead."
+            },
+            {
+              "startUid": "u1122",
+              "endUid": "u1122",
+              "quote": "DM: We’ll use this map as your camp."
+            },
+            {
+              "startUid": "u1145",
+              "endUid": "u1150",
+              "quote": "DM: It would have been a safe place, a good place to put a camp. Okay. Oh, Jesus, was that…? Okay, now let me get combat. Sorry, that—[garbled] [garbled] So what did you get?"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Final camp near the mountain approach",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2320",
+          "endUid": "u2325",
+          "quote": "DM: You know, as your sort of cutting across here—well, you're, you're basically kind of following the road at this point because it heads more or less directly towards Raven's Hold. And the road itself sort of goes up into the mountains, and you can see now you're, you're maybe 15, 10, 15 miles at most from the sort of beginning of the foothills, where the plain rises sharply off into the hills."
+        },
+        {
+          "startUid": "u2347",
+          "endUid": "u2350",
+          "quote": "DM: Okay, so I'm—set up as you set up camp for the night… Okay, I think—is everybody up for like about another 30 minutes?"
+        },
+        {
+          "startUid": "u2395",
+          "endUid": "u2400",
+          "quote": "DM: And as the morning comes, a quiet night, you are surprised to see travelers coming from the east quickly across the plain towards you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2320",
+              "endUid": "u2325",
+              "quote": "DM: You know, as your sort of cutting across here—well, you're, you're basically kind of following the road at this point because it heads more or less directly towards Raven's Hold. And the road itself sort of goes up into the mountains, and you can see now you're, you're maybe 15, 10, 15 miles at most from the sort of beginning of the foothills, where the plain rises sharply off into the hills."
+            },
+            {
+              "startUid": "u2347",
+              "endUid": "u2350",
+              "quote": "DM: Okay, so I'm—set up as you set up camp for the night… Okay, I think—is everybody up for like about another 30 minutes?"
+            },
+            {
+              "startUid": "u2395",
+              "endUid": "u2400",
+              "quote": "DM: And as the morning comes, a quiet night, you are surprised to see travelers coming from the east quickly across the plain towards you."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Raven's Hold valley wall",
+      "kind": "fortification",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2334",
+          "quote": "DM: So from this distance, you can, you know, as the sun is setting, you do catch sort of a glimpse of the way the layout of the mountains lies, and you can see the sort of glint of water in the distance from this waterfall that's cascading down. Of course not—no, you can't make out any details or really see any topology of the terrain. But it seems like the road itself goes up through a low pass, and then there's the bulk of a mountain, and then on the other side of this bulk of the mountain, there's this river valley coming down, steep cliffs on the side. And you can see just this sort of very distant kind of little outline of this wall at the mouth of this river valley."
+        },
+        {
+          "startUid": "u2971",
+          "endUid": "u2977",
+          "quote": "DM: And as you now turn, traveling the last few miles to the mountains, we will stop here, as the road heading up into the pass is ahead of you, the plains heading east towards the wall of Raven's Hold to your right, and can decide which way to go next time."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+      "note": "The distant valley wall is visible; the party does not enter the fortress or the separate dwarven outpost in this session."
+    },
+    "p10": {
+      "label": "Low mountain pass",
+      "kind": "pass",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2334",
+          "quote": "DM: So from this distance, you can, you know, as the sun is setting, you do catch sort of a glimpse of the way the layout of the mountains lies, and you can see the sort of glint of water in the distance from this waterfall that's cascading down. Of course not—no, you can't make out any details or really see any topology of the terrain. But it seems like the road itself goes up through a low pass, and then there's the bulk of a mountain, and then on the other side of this bulk of the mountain, there's this river valley coming down, steep cliffs on the side. And you can see just this sort of very distant kind of little outline of this wall at the mouth of this river valley."
+        },
+        {
+          "startUid": "u2971",
+          "endUid": "u2977",
+          "quote": "DM: And as you now turn, traveling the last few miles to the mountains, we will stop here, as the road heading up into the pass is ahead of you, the plains heading east towards the wall of Raven's Hold to your right, and can decide which way to go next time."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Stationary storm to the west",
+      "kind": "storm",
+      "evidence": [
+        {
+          "startUid": "u2307",
+          "endUid": "u2319",
+          "quote": "DM: So, ride. The next day is hot and quiet. Silent ride across the, across the plains, and as you—know, as you're riding, you're now probably, you know, getting certainly within, you know, a few dozen miles of the mountains. And you can see now off to your left this smoke and sort of smoldering blackness from this fire, and this giant cloud just kind of hovering in the distance, maybe 40 miles off. But it's clear, you know, clear days, and basically just looks like a thunderstorm that sitting very low down to the ground like gray mist and stuff, almost dropping down to the ground and stretching a good distance across the horizon. Like, this is a, a big storm off in that direction. The mountains ahead of you, and I'm—and to the right, where Raven's Hold is, rise up sharply from the plain."
+        }
+      ],
+      "note": "Only the storm is seen. No tower or other physical source is identified in the played observation."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0011"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Prepare to depart Karawa before dawn.",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0011",
+          "quote": "DM: Now, the next morning, in the pre-dawn light, amidst the chaotic bustle of hundreds and hundreds of people and animals preparing to leave, within a few hours you say your last goodbyes. Supplied with fresh mounts, 10 days of food, you gather your gear and turn towards your plans for the journey."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0166",
+        "endUid": "u0211"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the creature tracks north from Karawa, cross the ancient trade road, and reach an antelope kill site.",
+      "evidence": [
+        {
+          "startUid": "u0170",
+          "endUid": "u0176",
+          "quote": "DM: And, you know, over the course of the morning they sort of meander a bit across the plains, as you approach the—the sort of main Dunmar road. And you're riding—I mean, a few of the, sort of, at this stage, enough, enough of the people leaving Karawa have gathered, and, and some had left before, you know, before dawn. And so you're passing people on the, on the road. I mean, it's not exactly following the road, but you can see, you know, a few hundred yards off as you follow the trail, like you're passing people as they're filing out and, and it's getting to the point where it's basically just a long line of people stretching back towards Karawa that you're following, as wagons and horses and herds of sheep, and herds of goats, and, you know, basically every animal and, and person in the town is now sort of on the road and by…"
+        },
+        {
+          "startUid": "u0177",
+          "endUid": "u0182",
+          "quote": "DM: Let's see, distance here—so I would say, by mid day, you know, the—or early afternoon, the tracks cross the main road, the sort of ancient trade road that leads across Dunmar that has, you know, that was built long ago in the ages of the Drankorian Empire, and head sort of north west, a little bit, but, but seem to be kind of meandering, right? Like it's not following a straight course anywhere."
+        },
+        {
+          "startUid": "u0204",
+          "endUid": "u0211",
+          "quote": "DM: Mid, mid-afternoon, sort of just past the road, you come to an area where it seems like, you know, they slept, possibly, or—it's not exactly made camp, but there's signs of a kill. There's a mostly dismembered and eaten antelope, and, you know, area where some group of creatures slept."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Cross the ancient east–west trade road while following the tracks."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0393",
+        "endUid": "u0394"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the first day of travel, camp north of Karawa and examine Riswynn’s maps.",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0394",
+          "quote": "DM: So this is—you're talking about this. You've now camped for the night after your first day of travel, and Riswynn brings out these two maps."
+        },
+        {
+          "startUid": "u0493",
+          "endUid": "u0501",
+          "quote": "DM: Yeah, I mean, at the moment you're crossing… So as you got a little further north of—the character of the land is, is changing. And actually there's a bunch of flowers in bloom, kind of like my background. You know, you've got this sort of more just kind of vast expanses of, of, of grass, and it's actually quite pretty. You don't—but nothing… I mean, right now, you're still—are north of Karawa, you know. In the distance, you can still see the clouds of dust from people heading west down the road, even as you've camped. And you can see the, you know, the fires of people setting up camps and, and, you know, kind of settling in for the night as they're—as they're traveling west, so you don't feel like you've gotten really far away from, you know, from the sort of from civilization yet. So it hasn't seemed like there's much out of the ordinary. But as you head north, obviously things might change."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0510",
+        "endUid": "u0784"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Ride north with the group across the plains, then scout up the road toward the approaching herders.",
+      "evidence": [
+        {
+          "startUid": "u0510",
+          "endUid": "u0516",
+          "quote": "DM: To head as directly as possible from where you think you are towards Raven's Hold, and then just, you know, push yourself, riding as hard as your mounts can take without exhausting you or them. And, you know, traveling over the plains, it's—you're not, at this point, not trying to be silent or hidden at all. But of course, you have great visibility."
+        },
+        {
+          "startUid": "u0543",
+          "endUid": "u0549",
+          "quote": "DM: The next day, as you continue holding this course, you see ahead of you a cloud of dust. As you seem to be approaching the road, it seems somebody is—something, anyway—is heading down the road. They're probably still at least a mile off, or…"
+        },
+        {
+          "startUid": "u0777",
+          "endUid": "u0784",
+          "quote": "DM: Oh, right. Okay, so you're heading up the road, like, yes, yeah. So as you, as you head up the road, I'm—you know, you're sort of sneaking quietly, Wellby nearly vanished, um, Delwath silent and impossible to see. And the road itself sort of—its basic. It's not really a road, right? It's just like a dirt track, and there's a few like little bits of, you know, sort of dips."
+        },
+        {
+          "startUid": "u0802",
+          "endUid": "u0802",
+          "quote": "DM: Yeah, you creep to, you know, within a few hundred yards—300 yards, something like that—and you can see all this."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "ride, then sneak on foot",
+      "route": [
+        {
+          "reading": "Travel across the plains and reach the road; the DM corrects “towards the road” to already heading up it."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0819",
+        "endUid": "u0823"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "Wait with the horses in the roadside trench while Wellby and Delwath scout ahead.",
+      "evidence": [
+        {
+          "startUid": "u0746",
+          "endUid": "u0747",
+          "quote": "Seeker: While we're waiting, and I'll just casually make a little blind for us to walk the horses into down by the road."
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0823",
+          "quote": "Riswynn: Just to clarify, are Seeker and Kenzo and I just hanging out in a trench with some horses, or have we sort of got a sense of what's going on up ahead of us? Like a line of sight? Did that end in sight down the road?"
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0851",
+        "endUid": "u0856"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Move farther north of the conversation to keep watch while invisible.",
+      "evidence": [
+        {
+          "startUid": "u0851",
+          "endUid": "u0856",
+          "quote": "Delwath: I'm going to have, like, go behind—I—while they're talking, I just want to walk around like keeping—keep a watch, basically, for anything that might be coming. But I'll go past them on the…"
+        }
+      ],
+      "from": "p05",
+      "to": null,
+      "completion": "underway",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0861",
+        "endUid": "u0864"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Ride up to the herders and offer healing.",
+      "evidence": [
+        {
+          "startUid": "u0861",
+          "endUid": "u0864",
+          "quote": "Seeker: So as we ride up, I'll say, \"It looks like some of your companions are injured. Can we offer you any of our healing arts?\""
+        }
+      ],
+      "from": "p06",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1091",
+        "endUid": "u1124"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue north after meeting the herders and make the camp later attacked by gnolls.",
+      "evidence": [
+        {
+          "startUid": "u1091",
+          "endUid": "u1096",
+          "quote": "DM: So as evening approaches you are—now at this point, you know, given how much of the day was left and how much faster you're traveling, you're probably about two days from, from Raven's Hold, and about a half a day from where you presumed their camp was and where the, you know, the fire from the wildfires are. And you can see, actually, off to the west, catching the setting sun like little bit of smoke rising up from the, from the plains to the west. Can't quite see the storm. Okay, so…"
+        },
+        {
+          "startUid": "u1097",
+          "endUid": "u1109",
+          "quote": "DM: Surprisingly quiet night. The land completely still. Nothing moving. No sign of antelope, no sign of animals at all. Hardly any even birds or flies or anything moving across the plain. And there's just this sense of this sort of pause in the air. Okay, so as you make camp and set to rest, around—sorry, go ahead."
+        },
+        {
+          "startUid": "u1122",
+          "endUid": "u1122",
+          "quote": "DM: We’ll use this map as your camp."
+        },
+        {
+          "startUid": "u1123",
+          "endUid": "u1124",
+          "quote": "Seeker: And this is the same day as we encountered the travelers?"
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "ride",
+      "note": "The DM places the whole group at the camp; no separate reunion scene is narrated."
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u2307",
+        "endUid": "u2319"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "While riding toward the mountains, see the large stationary storm far to the west.",
+      "evidence": [
+        {
+          "startUid": "u2307",
+          "endUid": "u2319",
+          "quote": "DM: So, ride. The next day is hot and quiet. Silent ride across the, across the plains, and as you—know, as you're riding, you're now probably, you know, getting certainly within, you know, a few dozen miles of the mountains. And you can see now off to your left this smoke and sort of smoldering blackness from this fire, and this giant cloud just kind of hovering in the distance, maybe 40 miles off. But it's clear, you know, clear days, and basically just looks like a thunderstorm that sitting very low down to the ground like gray mist and stuff, almost dropping down to the ground and stretching a good distance across the horizon. Like, this is a, a big storm off in that direction. The mountains ahead of you, and I'm—and to the right, where Raven's Hold is, rise up sharply from the plain."
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u2326",
+        "endUid": "u2334"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the plains, see the waterfall and distant wall at the valley mouth.",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2334",
+          "quote": "DM: So from this distance, you can, you know, as the sun is setting, you do catch sort of a glimpse of the way the layout of the mountains lies, and you can see the sort of glint of water in the distance from this waterfall that's cascading down. Of course not—no, you can't make out any details or really see any topology of the terrain. But it seems like the road itself goes up through a low pass, and then there's the bulk of a mountain, and then on the other side of this bulk of the mountain, there's this river valley coming down, steep cliffs on the side. And you can see just this sort of very distant kind of little outline of this wall at the mouth of this river valley."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2347",
+        "endUid": "u2350"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After riding toward the foothills, make the final camp where centaurs arrive the following morning.",
+      "evidence": [
+        {
+          "startUid": "u2307",
+          "endUid": "u2319",
+          "quote": "DM: So, ride. The next day is hot and quiet. Silent ride across the, across the plains, and as you—know, as you're riding, you're now probably, you know, getting certainly within, you know, a few dozen miles of the mountains. And you can see now off to your left this smoke and sort of smoldering blackness from this fire, and this giant cloud just kind of hovering in the distance, maybe 40 miles off. But it's clear, you know, clear days, and basically just looks like a thunderstorm that sitting very low down to the ground like gray mist and stuff, almost dropping down to the ground and stretching a good distance across the horizon. Like, this is a, a big storm off in that direction. The mountains ahead of you, and I'm—and to the right, where Raven's Hold is, rise up sharply from the plain."
+        },
+        {
+          "startUid": "u2320",
+          "endUid": "u2325",
+          "quote": "DM: You know, as your sort of cutting across here—well, you're, you're basically kind of following the road at this point because it heads more or less directly towards Raven's Hold. And the road itself sort of goes up into the mountains, and you can see now you're, you're maybe 15, 10, 15 miles at most from the sort of beginning of the foothills, where the plain rises sharply off into the hills."
+        },
+        {
+          "startUid": "u2347",
+          "endUid": "u2350",
+          "quote": "DM: Okay, so I'm—set up as you set up camp for the night… Okay, I think—is everybody up for like about another 30 minutes?"
+        },
+        {
+          "startUid": "u2395",
+          "endUid": "u2400",
+          "quote": "DM: And as the morning comes, a quiet night, you are surprised to see travelers coming from the east quickly across the plain towards you."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "ride",
+      "note": "“The next day” at u2307–u2319 leaves the number of travel days ambiguous; the camp is distinct from the ambush camp."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2971",
+        "endUid": "u2977"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Turn toward the mountains with the pass ahead and Raven’s Hold wall to the right; the next route choice remains open.",
+      "evidence": [
+        {
+          "startUid": "u2971",
+          "endUid": "u2977",
+          "quote": "DM: And as you now turn, traveling the last few miles to the mountains, we will stop here, as the road heading up into the pass is ahead of you, the plains heading east towards the wall of Raven's Hold to your right, and can decide which way to go next time."
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "underway",
+      "mode": "travel",
+      "route": [
+        {
+          "reading": "Raven’s Hold wall lies to the right; entry into its valley is not narrated.",
+          "place": "p09"
+        }
+      ]
+    }
+  ]
+}
