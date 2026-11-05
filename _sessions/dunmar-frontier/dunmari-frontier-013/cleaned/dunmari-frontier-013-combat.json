@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-013",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+    "sessionYamlSha256": "188efd3d92c5c3978f3fd392a584778405a271e353ddea4f057c19783a287a4c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-transcript.md",
+    "transcriptSha256": "8ea110dde5deab1517d950bea0071df4577d82e38a6d638f4a2a999a57c98019",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-segments.json",
+      "sha256": "6c5c9a40ba05a8ee5ef4a577b68afa61b2e73528846a60707601799dc2f5ceb6",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Vine-and-mud creature at the river crossing",
+      "note": "The DM runs the fight without an initiative roll or encounter tracker. Vola’s participation is confirmed afterwards, but her individual actions are not recorded.",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Scratches the summoning-circle runes with his shadow sword; the mists begin blowing away. He stops scratching when attacked.",
+          "evidence": [
+            {
+              "startUid": "u1769",
+              "endUid": "u1775"
+            },
+            {
+              "startUid": "u1793",
+              "endUid": "u1801"
+            }
+          ]
+        },
+        {
+          "actor": "Vine-and-mud creature",
+          "kind": "event",
+          "summary": "Erupts from the river and slams Delwath for 10 bludgeoning damage.",
+          "evidence": [
+            {
+              "startUid": "u1776",
+              "endUid": "u1789"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "His cold armor effect deals 10 cold damage to the creature that struck him.",
+          "evidence": [
+            {
+              "startUid": "u1785",
+              "endUid": "u1789"
+            }
+          ]
+        },
+        {
+          "actor": "Vola",
+          "kind": "event",
+          "summary": "Fights alongside the party. The DM later explicitly corrects her omission from the narrated turns; no particular attack or result is supplied.",
+          "evidence": [
+            {
+              "startUid": "u1813",
+              "endUid": "u1830"
+            },
+            {
+              "startUid": "u2153",
+              "endUid": "u2158"
+            }
+          ],
+          "note": "The in-segment action prompt omitted Vola; the later correction establishes participation across the encounter without assigning her an initiative slot."
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Curses the creature, then attacks with Booming Blade and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1814",
+                  "endUid": "u1829"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "At Wellby’s suggestion, overturns the earth where Delwath had scratched the circle, destroying that portion of the runes. The whole circle is not yet erased.",
+              "evidence": [
+                {
+                  "startUid": "u1831",
+                  "endUid": "u1855"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stays still about 15 feet away, takes careful aim, and hits with an arrow. Sneak attack applies because Delwath is in melee; the DM appears to accept 17 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1856",
+                  "endUid": "u1873"
+                }
+              ],
+              "note": "The accepted numerical utterance is transcribed as “1717”; the hit is clear."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Charges in and attacks with Shatterstorm using Booming Blade. The table resolves the normal hammer damage and explains that extra Booming Blade damage requires movement; Riswynn reports an eight on the digital die.",
+              "evidence": [
+                {
+                  "startUid": "u1874",
+                  "endUid": "u1897"
+                }
+              ],
+              "note": "The transcript does not clearly identify whether eight is the final damage total; it never separately resolves the later movement-triggered damage."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Inner Power for two ki, with 3d10 force damage rolled. The creature fails its save, is knocked backward and prone. Kenzo rushes forward and lands one bonus-action unarmed strike with advantage against it.",
+              "evidence": [
+                {
+                  "startUid": "u1902",
+                  "endUid": "u1937"
+                }
+              ],
+              "note": "Neither the saving-throw ability nor a final damage total is spoken. Sleep is a rejected joke, not a cast spell."
+            },
+            {
+              "actor": "Vine-and-mud creature",
+              "kind": "turn",
+              "summary": "Stands and steps among Kenzo, Riswynn, and Delwath, releasing spores. Constitution saves let Delwath and Riswynn shake off the effect; Kenzo is poisoned and hears howling and barking. Wellby is outside the effect. Slam attacks of 12 at Delwath and 6 at Riswynn both miss.",
+              "evidence": [
+                {
+                  "startUid": "u1928",
+                  "endUid": "u1962"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Hex, choosing Wisdom for its disadvantage, then hits with his sword for an accepted 13 damage including the Hex contribution. Several vines blacken and crumble.",
+              "evidence": [
+                {
+                  "startUid": "u1963",
+                  "endUid": "u1978"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Again stays still, takes aim and hits with an arrow at the blackened part of the creature.",
+              "evidence": [
+                {
+                  "startUid": "u1979",
+                  "endUid": "u1989"
+                }
+              ],
+              "note": "The DM’s numerical utterance is transcribed as “914”; no unambiguous damage total is recoverable."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Touches the creature and hits with Inflict Wounds. Its body blackens and dehydrates; it staggers visibly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u1990",
+                  "endUid": "u2002"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Vicious Mockery with glowing hedge-clipper imagery. The creature fails its Wisdom save and has disadvantage on its next attack.",
+              "evidence": [
+                {
+                  "startUid": "u2003",
+                  "endUid": "u2007"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits with his quarterstaff and spends a ki on Flurry of Blows. All three attacks still hit after rerolling with disadvantage from poison; the initially apparent critical hit is lost when the lower die is used.",
+              "evidence": [
+                {
+                  "startUid": "u2008",
+                  "endUid": "u2033"
+                }
+              ]
+            },
+            {
+              "actor": "Vine-and-mud creature",
+              "kind": "turn",
+              "summary": "Misses Kenzo with its first slam, made with Vicious Mockery disadvantage. Its second slam hits Delwath’s AC 17 for 9 bludgeoning damage without disadvantage. Another spore burst calls for Constitution saves; Kenzo remains poisoned but the effect does not worsen.",
+              "evidence": [
+                {
+                  "startUid": "u2034",
+                  "endUid": "u2061"
+                },
+                {
+                  "startUid": "u2071",
+                  "endUid": "u2076"
+                }
+              ],
+              "note": "The other targets’ second saving-throw results are not individually stated."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits again with his sword; the DM settles the spoken damage at 11. The creature dries out, loses an arm, and is nearly unable to hold itself together.",
+              "evidence": [
+                {
+                  "startUid": "u2054",
+                  "endUid": "u2069"
+                }
+              ],
+              "note": "The actor is inferred from the adjacent Delwath response and continuing sword/Hex sequence; the attack declaration is not clearly preserved."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Excavates the riverbank immediately behind the creature, creating a water-filled gap behind its feet.",
+              "evidence": [
+                {
+                  "startUid": "u2070",
+                  "endUid": "u2080"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Remains still, aims, and lands a critical shortbow hit. The DM declares it lethal without totaling the damage; the shot knocks the creature into the mud and river, where the renewed flood sweeps it away.",
+              "evidence": [
+                {
+                  "startUid": "u2081",
+                  "endUid": "u2100"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "A pale gray-white stream returns from the dying creature to him, described as the curse returning.",
+              "evidence": [
+                {
+                  "startUid": "u2101",
+                  "endUid": "u2110"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The creature dies and is swept downstream. The obstruction breaks, water floods freely through the valley, and the mists clear.",
+        "evidence": [
+          {
+            "startUid": "u2088",
+            "endUid": "u2116"
+          }
+        ]
+      }
+    }
+  ]
+}

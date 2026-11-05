@@ -1,0 +1,1172 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "4bc9eff5fd7779c43ceee4f893b81dac4a3fec55e9f26252130ca30bb463e6f8",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "8ea110dde5deab1517d950bea0071df4577d82e38a6d638f4a2a999a57c98019",
+        "transcriptProcessing.artifacts.cleaned": "30e6d54cea3cd7d90c2d57655e8e256b6c644757f278ef8368742361b8fd6df2"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "vola",
+      "kind": "npc",
+      "label": "Vola",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0405",
+            "endUid": "u0408"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0606",
+            "endUid": "u0644"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2207",
+            "endUid": "u2245"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Vola.md"
+    },
+    {
+      "id": "taster",
+      "kind": "npc",
+      "label": "Taster",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0069",
+            "endUid": "u0079"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md"
+    },
+    {
+      "id": "goat-demon",
+      "kind": "npc",
+      "label": "Goat-headed demon defeated yesterday",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0005",
+            "endUid": "u0007"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2219",
+            "endUid": "u2225"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Oduk.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "chimera",
+      "kind": "npc",
+      "label": "Three-headed beast from the old caravan memory",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0179",
+            "endUid": "u0191"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0443",
+            "endUid": "u0460"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0471",
+            "endUid": "u0501"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The memory describes a chimera; its identity with the abandoned nest’s former inhabitant remains a party hypothesis."
+    },
+    {
+      "id": "chamutte",
+      "kind": "npc",
+      "label": "Cha'mutte",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0491",
+            "endUid": "u0501"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "agata",
+      "kind": "npc",
+      "label": "Agata Dustmother",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0504",
+            "endUid": "u0517"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1736",
+            "endUid": "u1737"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2213",
+            "endUid": "u2243"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "orc-guard",
+      "kind": "npc",
+      "label": "Orc who guarded Vola",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2208",
+            "endUid": "u2215"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2231",
+            "endUid": "u2239"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "plant-creature",
+      "kind": "npc",
+      "label": "Plant creature at the summoning circle",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1769",
+            "endUid": "u1798"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2093",
+            "endUid": "u2116"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "lioness",
+      "kind": "npc",
+      "label": "Dominant lioness in the stables",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2325",
+            "endUid": "u2338"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2343",
+            "endUid": "u2387"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "riding-lion",
+      "kind": "npc",
+      "label": "Lion ridden by Wellby",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2393",
+            "endUid": "u2393"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2402",
+            "endUid": "u2405"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2412",
+            "endUid": "u2422"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Wellby mounts one of two lions. The transcript does not establish whether this is the dominant lioness; keep the riding encounter separate pending identity review."
+    },
+    {
+      "id": "guardian",
+      "kind": "npc",
+      "label": "Damaged dwarven stone guardian",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2443",
+            "endUid": "u2462"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2476",
+            "endUid": "u2551"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2606",
+            "endUid": "u2615"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "inakara",
+      "kind": "npc",
+      "label": "Inakara",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2608",
+            "endUid": "u2615"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Inakara.md"
+    },
+    {
+      "id": "vine-victim",
+      "kind": "npc",
+      "label": "Halfling harmed by the vines",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1237",
+            "endUid": "u1237"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Ander Charmheart.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "shadow-sender",
+      "kind": "divine",
+      "label": "Unseen sender of the shadow messages",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1156",
+            "endUid": "u1187"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1714",
+            "endUid": "u1721"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+      "identifiedLater": true,
+      "confidenceExplanation": "Yezali’s note and Delwath’s history support the shadow patron, but this session never names the sender. Treat the match as a later identification requiring confirmation."
+    },
+    {
+      "id": "dwarven-gods",
+      "kind": "divine",
+      "label": "Dwarven gods",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1063",
+            "endUid": "u1080"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1663",
+            "endUid": "u1670"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "blackened-claw",
+      "kind": "organization",
+      "label": "Blackened Claw",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0233",
+            "endUid": "u0245"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0540",
+            "endUid": "u0570"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0875",
+            "endUid": "u0927"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Hobgoblin Clans/Blackened Claw.md"
+    },
+    {
+      "id": "shakun-mystai",
+      "kind": "organization",
+      "label": "Shakun mystai",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0491",
+            "endUid": "u0501"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Shakun Mystai.md"
+    },
+    {
+      "id": "brawnanvils",
+      "kind": "organization",
+      "label": "Brawnanvil clan",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2546",
+            "endUid": "u2551"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dwarven Clans/Brawnanvils.md"
+    },
+    {
+      "id": "locket",
+      "kind": "item",
+      "label": "Silver locket with a halfling portrait",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0132",
+            "endUid": "u0159"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0327",
+            "endUid": "u0343"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0443",
+            "endUid": "u0460"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ring",
+      "kind": "item",
+      "label": "Halfling-sized ring with red gems",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0132",
+            "endUid": "u0159"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1055",
+            "endUid": "u1060"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ruby",
+      "kind": "item",
+      "label": "Ruby elemental gem",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0132",
+            "endUid": "u0159"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0703",
+            "endUid": "u0720"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0784",
+            "endUid": "u0799"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "helm",
+      "kind": "item",
+      "label": "Winged Drankorian helm",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0132",
+            "endUid": "u0159"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0606",
+            "endUid": "u0608"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0722",
+            "endUid": "u0753"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Helm of Iron Will"
+      ]
+    },
+    {
+      "id": "spear",
+      "kind": "item",
+      "label": "Spear of the War Leader",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0757",
+            "endUid": "u0783"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "restoration-scroll",
+      "kind": "item",
+      "label": "Scroll of Lesser Restoration",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0810",
+            "endUid": "u0853"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2118",
+            "endUid": "u2125"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "key",
+      "kind": "item",
+      "label": "Repaired hobgoblin key",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0289",
+            "endUid": "u0308"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0382",
+            "endUid": "u0383"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0524",
+            "endUid": "u0537"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "banner",
+      "kind": "item",
+      "label": "Blackened Claw banner",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0559",
+            "endUid": "u0570"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1108",
+            "endUid": "u1109"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1128",
+            "endUid": "u1141"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "healing-potions",
+      "kind": "item",
+      "label": "Four healing potions from the storeroom",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0989",
+            "endUid": "u1003"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1083",
+            "endUid": "u1095"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "nourishing-potions",
+      "kind": "item",
+      "label": "Four nourishing potions from the storeroom",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0989",
+            "endUid": "u1003"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "half-plate",
+      "kind": "item",
+      "label": "Rusty half plate from the storeroom",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0930",
+            "endUid": "u0978"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1131",
+            "endUid": "u1154"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "logbook",
+      "kind": "item",
+      "label": "Blackened Claw logbook",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0865",
+            "endUid": "u0927"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold.md"
+    },
+    {
+      "id": "satchel-papers",
+      "kind": "item",
+      "label": "Loose hobgoblin papers from the satchel",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0865",
+            "endUid": "u0927"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The same vault note transcribes the logbook and separate satchel papers. Only the logbook is linked to that combined page; these remain a distinct physical document group."
+    },
+    {
+      "id": "horn",
+      "kind": "item",
+      "label": "Kenzo's silent horn",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1063",
+            "endUid": "u1080"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1638",
+            "endUid": "u1670"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Magic Items/Horn of Silent Alarm (Dunmari).md",
+      "identifiedLater": true,
+      "confidenceExplanation": "Included for the newly revealed identification and test, beyond routine equipment use. The linked note supplies the later item name."
+    },
+    {
+      "id": "black-staff",
+      "kind": "item",
+      "label": "Black iron staff with a Draconic inscription",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1722",
+            "endUid": "u1735"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "deathwater",
+      "kind": "item",
+      "label": "Sample of the courtyard’s foul water",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1262",
+            "endUid": "u1295"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "ivory-cap",
+      "kind": "item",
+      "label": "Ivory scroll-case cap",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2167",
+            "endUid": "u2206"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Ivory Scroll Case.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "burned-scroll",
+      "kind": "item",
+      "label": "Burned scroll remains at the summoning circle",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2167",
+            "endUid": "u2206"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "clan-shield",
+      "kind": "item",
+      "label": "Shield of the Brawnanvil clan",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2546",
+            "endUid": "u2551"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Shield of the Brawnanvil Clan.md"
+    },
+    {
+      "id": "adamantine",
+      "kind": "item",
+      "label": "Adamantine salvaged from the workshop",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2568",
+            "endUid": "u2580"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Hoards/Raven's Hold Treasure.md",
+    "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Ivory Scroll Case.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Shield of the Brawnanvil Clan.md",
+    "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md",
+    "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+    "Gazetteer/Sentinel Range.md",
+    "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+    "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+    "Groups/Dunmari Mystery Cults/Shakun Mystai.md",
+    "Groups/Dwarven Clans/Brawnanvils.md",
+    "Groups/Hobgoblin Clans/Blackened Claw.md",
+    "People/Chardonians/Vola.md",
+    "People/Extraplanar Powers/Cha'mutte.md",
+    "People/Fey/Agata.md",
+    "People/Halflings/Ander Charmheart.md",
+    "People/Other Nonhumans/Inakara.md",
+    "People/Other Nonhumans/Oduk.md",
+    "People/PCs/Dunmar Fellowship/Companions/Taster.md",
+    "People/PCs/Dunmar Fellowship/Delwath.md",
+    "Things/Magic Items/Horn of Silent Alarm (Dunmari).md"
+  ],
+  "exclusions": [
+    {
+      "label": "Routine PC spells and equipment",
+      "reason": "Routine spellcasting, weapons, armor, and driftglobe illumination are not separate entities; retain exceptional item discoveries and lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1696",
+            "endUid": "u1709"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1769",
+            "endUid": "u2116"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ordinary amber gems and unidentified containers",
+      "reason": "Incidental loot lacks a distinct consequential identity or developed interaction.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1038",
+            "endUid": "u1054"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unnamed halfling in the locket memory",
+      "reason": "A particular victim is recalled, but receives no identity beyond the locket’s provenance and caravan death.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0443",
+            "endUid": "u0460"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Other confined predators",
+      "reason": "The lions receive individual interactions; other animals are rescued as an undifferentiated group.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2380",
+            "endUid": "u2396"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Black Wind",
+      "reason": "An inscription and warning name a force; this session does not establish a distinct person, deity, item, or organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1714",
+            "endUid": "u1737"
+          }
+        }
+      ]
+    }
+  ]
+}

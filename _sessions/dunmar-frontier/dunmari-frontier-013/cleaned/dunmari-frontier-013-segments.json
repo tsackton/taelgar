@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-013",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+    "sessionYamlSha256": "188efd3d92c5c3978f3fd392a584778405a271e353ddea4f057c19783a287a4c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-transcript.md",
+    "transcriptSha256": "8ea110dde5deab1517d950bea0071df4577d82e38a6d638f4a2a999a57c98019"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u1768"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u1769",
+        "endUid": "u2116"
+      },
+      "category": "combat",
+      "note": "No initiative roll; the table repeats an ordered cycle of party actions and enemy turns. Includes the initial attack and immediate dispersal of the mists."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u2117",
+        "endUid": "u2658"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u2659",
+        "endUid": "u2671"
+      },
+      "category": "meta_discussion"
+    }
+  ]
+}

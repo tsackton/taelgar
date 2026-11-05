@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-time-markers.json",
+    "sha256": "840e96248be7c7f864d41f861a09e3c07241d963f9b5a5cc66ab5a0e1c7306bb"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-transcript.md",
+    "sha256": "8ea110dde5deab1517d950bea0071df4577d82e38a6d638f4a2a999a57c98019"
+  },
+  "dateAssessment": "Working date: April 13, 1748, from the session YAML. The transcript supports continuous play from late breakfast to evening camp, with no overnight boundary. The proposed “dawn tomorrow” animal instruction is followed by immediate narrated release and an afternoon departure; it does not establish another day. Earlier demon combat, historical records, and backstory do not extend this session’s played interval.",
+  "watches": [
+    {
+      "day": "April 13, 1748",
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-13",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Late breakfast and overlapping searches precede the 10:30–11 approach; the opening watch is approximate.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05"
+      ]
+    },
+    {
+      "day": "April 13, 1748",
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-13",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Bridge approach at roughly 10:30–11; circle clearing and a ten-minute magic check follow the fight.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08"
+      ]
+    },
+    {
+      "day": "April 13, 1748",
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-13",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The DM explicitly places the return to the horses in the afternoon.",
+      "markers": [
+        "t09"
+      ]
+    },
+    {
+      "day": "April 13, 1748",
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-13",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "After riding south for a few hours, the party reaches evening camp.",
+      "markers": [
+        "t10"
+      ]
+    }
+  ]
+}
