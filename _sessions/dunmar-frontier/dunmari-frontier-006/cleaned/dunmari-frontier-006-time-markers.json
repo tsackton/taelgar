@@ -1,0 +1,393 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-006",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+    "sessionYamlSha256": "43d8408c8cd89477f15967025e6f97e2a1ef6c464c535cc0fa02c2a54806895a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-transcript.md",
+    "transcriptSha256": "0a013a58f656787bc8b9f993bf0099af11ac389cb8bbb4dccccb44791d15de87",
+    "yamlDates": {
+      "start": "1748-04-04",
+      "end": "1748-04-07"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0040",
+        "endUid": "u0041"
+      },
+      "reading": "The opening council aftermath is early afternoon, clarified by the later answer.",
+      "evidence": [
+        {
+          "startUid": "u0040",
+          "endUid": "u0041",
+          "quote": "DM: Um, so you have the afternoon."
+        },
+        {
+          "startUid": "u0216",
+          "endUid": "u0216",
+          "quote": "Delwath: I, I've lost track of what time it is."
+        },
+        {
+          "startUid": "u0217",
+          "endUid": "u0217",
+          "quote": "DM: Mid a— early afternoon."
+        }
+      ],
+      "time": {
+        "partOfDay": "early afternoon",
+        "precision": "approximate",
+        "basis": "DM states the time of current play."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1135",
+        "endUid": "u1138"
+      },
+      "reading": "Shopping and separate errands occupy most of the opening afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1135",
+          "endUid": "u1138",
+          "quote": "DM: Any other sh— shopping? I don't think so. Okay, so that af— all this takes most of the afternoon. Go ahead."
+        }
+      ],
+      "duration": {
+        "text": "most of the afternoon",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM explicitly totals the resolved errands."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1201",
+        "endUid": "u1217"
+      },
+      "reading": "Alesh meets the party that evening before leaving with two scouts.",
+      "evidence": [
+        {
+          "startUid": "u1201",
+          "endUid": "u1204",
+          "quote": "DM: So, um, that evening, um, Alesh rides over to, um, say goodbye to you. Um, she's traveling with two other Dunmari, one an older man, grizzled, gre— going gray hair who, who... So they, this is a quick meeting because they're heading this, they're leaving this evening before the festival because they wanna, uh—"
+        },
+        {
+          "startUid": "u1205",
+          "endUid": "u1205",
+          "quote": "Kenzo: Right."
+        },
+        {
+          "startUid": "u1206",
+          "endUid": "u1211",
+          "quote": "DM: ... they're gonna c— try and cover a lot of ground heading south. Um, and this guy, uh, just watching him ride up, it al— you almost think you're watching some mythical creature like a centaur ride up. He seems like one with his horse. Um, and then another woman cloaked and hooded and kinda nondescript looking, but with a longbow and two quivers of arrows, um, slung on her horse. And Alesh sort of rides ahead of them and comes over to you and says..."
+        },
+        {
+          "startUid": "u1212",
+          "endUid": "u1217",
+          "quote": "DM: \"Friends, we're leaving tonight and hope to cover 200 miles or more before we return. Should we, should we make a plan for, for when to meet or, uh, or how long for when to return to, to Karawa to regroup before we leave? I don't know how... We won't be able to communicate until we—\""
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM states the time of current play."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1455",
+        "endUid": "u1458"
+      },
+      "reading": "Seeker spends most of the next day fortifying the temple, then returns to the inn before the festival.",
+      "evidence": [
+        {
+          "startUid": "u1455",
+          "endUid": "u1458",
+          "quote": "DM: Yeah. So you, it takes you, I'll say it takes you most of the next day and you'll come back to the inn just to sort of clean up for an hour before the festival starts. But you feel pretty comfortable with the job that you've done and you think that you know, this, you've definitely made a difference, right? It's gonna be much harder to... Certainly, like, if somebody comes in and tries to s— to break the main door down or something like that, it's gonna be much more difficult."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "text": "most of the next day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM resolves the work across the next-day transition."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1455",
+        "endUid": "u1458"
+      },
+      "reading": "Seeker returns to the inn for an hour of cleanup before the evening festival.",
+      "evidence": [
+        {
+          "startUid": "u1455",
+          "endUid": "u1458",
+          "quote": "DM: Yeah. So you, it takes you, I'll say it takes you most of the next day and you'll come back to the inn just to sort of clean up for an hour before the festival starts. But you feel pretty comfortable with the job that you've done and you think that you know, this, you've definitely made a difference, right? It's gonna be much harder to... Certainly, like, if somebody comes in and tries to s— to break the main door down or something like that, it's gonna be much more difficult."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM allows an hour before the festival in the accepted transition."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1495",
+        "endUid": "u1499"
+      },
+      "reading": "The party prepares at the inn for the first evening ceremony of the festival.",
+      "evidence": [
+        {
+          "startUid": "u1495",
+          "endUid": "u1497",
+          "quote": "DM: Okay, so as you are, um, sort of get— preparing yourself for the festival, so the first night of the festival is, um, so there's like a, there's like a ceremony a— at the first night, and then there's a, a fast and a procession the next day, and then another ceremony and a feast at the end of the festival. Um..."
+        },
+        {
+          "startUid": "u1498",
+          "endUid": "u1499",
+          "quote": "DM: But as you're back in the, at, at Ikram's Caravanserai preparing, um, to sort of go, I assume you're gonna attend the festival. That's at least some of you."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "First-night ceremony and inn preparations follow the completed next-day work."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1747",
+        "endUid": "u1758"
+      },
+      "reading": "After the first ceremony, the party rests overnight and gets up for the morning procession.",
+      "evidence": [
+        {
+          "startUid": "u1747",
+          "endUid": "u1750",
+          "quote": "DM: And as you rest and then get up in the morning for the, for the procession, people seem, if not cheerful, at least more ready to face what is coming. Resign— not... Some resigned, some fearful, but all with a sort of sense of determination and, and relief that they can tell themselves they're going with the goddess's favor."
+        },
+        {
+          "startUid": "u1751",
+          "endUid": "u1758",
+          "quote": "DM: And as you watch the procession, um, so the first thing in the morning basically is there's a... People have gathered all these, like, pieces of the desert and pieces of flowers and plants and everything that, that blooms and grows. And there's a procession where basically everybody in town slowly files past the temple and starts to collaboratively, as a community, rebuild this shrine. So this procession winds through town, um, singing the praises of Jeevali, and it's, you know, it's normally a, like, sort of a, almost a, a celebratory at— atmosphere. People dress up in costumes, and they dance and things like that. Of course, it's more solemn this year, but, but still people seem, you know, prepared, right? The procession winds through tow— town, each participant placing a token or a small offering at the site of the burned shrine, desert flowers, a feather, something like that."
+        }
+      ],
+      "dateBoundaries": 1,
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM states the time of current play."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1759",
+        "endUid": "u1766"
+      },
+      "reading": "The shrine blessing reaches late afternoon when the attack interrupts it.",
+      "evidence": [
+        {
+          "startUid": "u1759",
+          "endUid": "u1766",
+          "quote": "DM: And as the day stretches into afternoon, the crowd gathers, and this chant begins as people call on Jeevali to, to inhabit this new shrine. And you watch as it, as, you know, by some trick of the light or by the magic of the gods, it, these, all these individual offerings begin to fuse together. And as this is happening, you hear at the edge of the crowd a murmur starts, sort of discordant note, which quickly becomes a shout, and then a series of screams. Against the late afternoon sun, you see a column of dust from the north, rising towards the north, near the outskirts of the large camp just north of town. People are starting to now run in from that direction. What do you wanna do?"
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM states the time of current play."
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u3331",
+        "endUid": "u3345"
+      },
+      "reading": "Delwath and Wellby bind the sleeping gnoll before it wakes, within roughly the remaining thirty seconds.",
+      "evidence": [
+        {
+          "startUid": "u3312",
+          "endUid": "u3314",
+          "quote": "DM: Okay. This thing's still asleep. You have probably another 30 seconds before it wakes up.\n\n"
+        },
+        {
+          "startUid": "u3331",
+          "endUid": "u3332",
+          "quote": "DM: Yeah, you could tie it up with rope. I'm... I think in 30 seconds if you run over there right away—"
+        },
+        {
+          "startUid": "u3333",
+          "endUid": "u3333",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u3334",
+          "endUid": "u3335",
+          "quote": "DM: ... you could, you could get it tied up."
+        },
+        {
+          "startUid": "u3336",
+          "endUid": "u3336",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u3337",
+          "endUid": "u3337",
+          "quote": "Delwath: Cool. Delwath will go tie it up."
+        },
+        {
+          "startUid": "u3338",
+          "endUid": "u3338",
+          "quote": "Wellby: Yeah."
+        },
+        {
+          "startUid": "u3339",
+          "endUid": "u3339",
+          "quote": "DM: Okay, so, um—"
+        },
+        {
+          "startUid": "u3340",
+          "endUid": "u3340",
+          "quote": "Wellby: Wellby will come help."
+        },
+        {
+          "startUid": "u3341",
+          "endUid": "u3345",
+          "quote": "DM: ... so as you're tying it up, um, uh, it's, it's, like, starting to wake up, and, um, you get it, uh, you get it, like, well tied up, um, with, with rope, um, not a garden hose. [laughs] Um."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "duration": {
+        "max": 0.5,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM estimates thirty seconds of sleep remaining and resolves tying it as it wakes."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u3731",
+        "endUid": "u3751"
+      },
+      "reading": "The evening aftermath shifts into hurried evacuation preparations.",
+      "evidence": [
+        {
+          "startUid": "u3731",
+          "endUid": "u3741",
+          "quote": "DM: And he rides off, and there's, you know, as he rides into town, you can tell there's sort of commotion in the distance. And, um, you know, people are shifting quickly from what normally would have been a sort of celebratory feast at the end of the festival as the Shrine of Jeevali grows, um, into its, into its f— uh, sort of fused, uh, divinely imbued form, to a hurried evacuation, gathering in the night what they can. Um, you know, horse— getting on horses and just moving as fast as they can."
+        },
+        {
+          "startUid": "u3742",
+          "endUid": "u3751",
+          "quote": "DM: Many of the people who are here are, you know, came in for the festival and so are, uh, prepared to travel. Um, many are, you know, leaving their homes. But given what's happened this evening, it's... Everybody is in a state of just flat-out preparation to flee. Um..."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM states the time of current play."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3911",
+        "endUid": "u3912"
+      },
+      "reading": "While Delwath examines the tracks after the battle, it is evening and the sun is setting.",
+      "evidence": [
+        {
+          "startUid": "u3911",
+          "endUid": "u3911",
+          "quote": "Delwath: What time of day is it?"
+        },
+        {
+          "startUid": "u3912",
+          "endUid": "u3912",
+          "quote": "DM: Evening now. The sun is setting."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM states the time of current play."
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3935",
+        "endUid": "u3945"
+      },
+      "reading": "The party wakes at first light the next morning and begins following the trail north as the refugees leave west.",
+      "evidence": [
+        {
+          "startUid": "u3935",
+          "endUid": "u3939",
+          "quote": "DM: And when you wake at first light in the morning, a h— a huge, uh, a huge horde has gathered, probably 1,000 people or so, on at least 1,500 horses, sort of stretching to the west as people begin to, um, head out of the village for safety. Um, some moving quickly ahead, some, like the halflings, moving a bit slower behind."
+        },
+        {
+          "startUid": "u3940",
+          "endUid": "u3941",
+          "quote": "DM: Um, but Havdar and about 25 troops that he's managed to recruit here, as well as the survivors of the, um, retreat of the refugees, uh, keeping a close watch on the rear."
+        },
+        {
+          "startUid": "u3942",
+          "endUid": "u3945",
+          "quote": "DM: And as the town empties to the west, you turn, looking north to your destination, um, the rising sun casting long shadows as you pick up the tracks again and begin to head north."
+        }
+      ],
+      "time": {
+        "partOfDay": "first light",
+        "precision": "approximate",
+        "basis": "DM states the time of current play."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute date is spoken. April 4–7, 1748 is conditional on the YAML opening date.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": 3,
+    "evidence": [
+      "t01",
+      "t04",
+      "t07",
+      "t12"
+    ],
+    "explanation": "Opening afternoon and evening; resolved next-day fortification and first festival night; overnight to the second festival day; then explicit first-light awakening and departure. Three distinct boundaries match the YAML span. Historical festival lore, Ander’s memories, and future journey estimates do not extend it."
+  }
+}
