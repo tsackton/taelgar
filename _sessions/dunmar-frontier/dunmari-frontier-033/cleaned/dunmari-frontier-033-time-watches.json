@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-time-markers.json",
+    "sha256": "73d8425af78a845f5854b16b2c0089bc243738caa45b86adfb27c75d2db87ef1"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-transcript.md",
+    "sha256": "7b5be40a65a642abf5d9eaf5daa32eafabe514f8f2b086b36da16a2386a3ed00"
+  },
+  "dateAssessment": "Working dates use the YAML departure of June 20, 1748, with transcript travel-day counts. The time extraction is compatible, not matched: “11 days after you left Karawa” (t16) permits June 30 as journey day eleven or July 1 as eleven elapsed days. Arrival rows retain both alternatives; no missing day is supplied from YAML. The coin vision has its own undated night, outside the adventure calendar.",
+  "watches": [
+    {
+      "day": "June 20, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Midmorning departure from Karawa starts the journey.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-06-20",
+      "endDate": "1748-06-20"
+    },
+    {
+      "day": "June 20, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "First evening reaches the main road and turns west.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-06-20",
+      "endDate": "1748-06-20"
+    },
+    {
+      "day": "June 21, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Second-day camp, recharged mirror, and campfire conversation; play returns here after the vision.",
+      "markers": [
+        "t03",
+        "t05"
+      ],
+      "startDate": "1748-06-21",
+      "endDate": "1748-06-21"
+    },
+    {
+      "day": "Undated coin vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Moonlit night on an unidentified road; no civil date or narrower watch is established.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "local",
+      "scope": "Mirror vision"
+    },
+    {
+      "day": "June 22, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Explicit third-day morning places travel and the subsequent ring conversation.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-06-22",
+      "endDate": "1748-06-22"
+    },
+    {
+      "day": "June 24, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Fifth-day lunchtime anchors the aqueduct stop and the brief investigation.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-06-24",
+      "endDate": "1748-06-24"
+    },
+    {
+      "day": "June 24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Seeker and helpers build the ramp through most of the remaining afternoon.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-06-24",
+      "endDate": "1748-06-24"
+    },
+    {
+      "day": "June 24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The grateful hostess’s dinner is inserted before the already narrated overnight.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-06-24",
+      "endDate": "1748-06-24"
+    },
+    {
+      "day": "June 24–25, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Spending the night is confirmed by the next-morning departure; count one boundary.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-06-24",
+      "endDate": "1748-06-25"
+    },
+    {
+      "day": "June 25, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Next-morning departure and brief ley-line inspection resume travel from the aqueduct.",
+      "markers": [
+        "t12",
+        "t13"
+      ],
+      "startDate": "1748-06-25",
+      "endDate": "1748-06-25"
+    },
+    {
+      "day": "June 28, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Four travel days reach ninth-day afternoon/evening camp; later conversation is explicitly “tonight.”",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-06-28",
+      "endDate": "1748-06-28",
+      "sourceRanges": [
+        [
+          "u1880",
+          "u1880"
+        ]
+      ]
+    },
+    {
+      "day": "June 29, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The next morning after ninth-day camp resumes the uneventful journey.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-06-29",
+      "endDate": "1748-06-29"
+    },
+    {
+      "day": "June 30 or July 1, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Approach is early afternoon, later called midafternoon; the eleven-day count leaves two possible dates.",
+      "markers": [
+        "t16"
+      ]
+    },
+    {
+      "day": "June 30 or July 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Same-day arrival at the Lakan Monastery is explicitly around sunset.",
+      "markers": [
+        "t17"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 33 narrative note (competing arrival actors and recorded dates)",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 33 (DuFr).md",
+      "sha256": "8430ad35c58305190a841e0a5a34d5bb79e48fda185ee686089feae28bcde187"
+    }
+  ]
+}
