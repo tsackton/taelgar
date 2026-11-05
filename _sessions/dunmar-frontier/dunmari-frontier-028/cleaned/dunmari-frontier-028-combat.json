@@ -1,0 +1,476 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-028",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+    "sessionYamlSha256": "27533fdfdd07f2f4efb2633f29ef47fe17b6b276b6a72876cbd8c6a5c705f2c4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-transcript.md",
+    "transcriptSha256": "675451f5c4c3f77a1fd9fe27e83527e7e2ed1968af3d0a6a82ac9fc86f6f83fe",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-segments.json",
+      "sha256": "1e7ce463fb629fd97d0fa5d8a76118ec01f89967f90e1876617aa0b6565f94df",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Agata and Samerki at Shakun’s Wellspring",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Cintra",
+              "kind": "turn",
+              "summary": "As the party emerges, Hastes Delwath and Kenzo: +2 AC, doubled movement, and an extra attack. Moves away and tells everyone to scatter.",
+              "evidence": [
+                {
+                  "startUid": "u2196",
+                  "endUid": "u2205"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Erupting Earth in a 20-foot cube around Agata, creating difficult terrain. Agata succeeds on her Dexterity save and takes 10 damage, half the rolled damage. Seeker retreats.",
+              "evidence": [
+                {
+                  "startUid": "u2253",
+                  "endUid": "u2283"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "With a permitted retrospective Longstrider casting, moves far enough to line up both enemies and casts Lightning Bolt. Samerki fails his save for full damage, initially stated as 24; Agata saves for half. Later bookkeeping calls the bolt 21 without explicitly reconciling the values.",
+              "evidence": [
+                {
+                  "startUid": "u2291",
+                  "endUid": "u2343"
+                },
+                {
+                  "startUid": "u2507",
+                  "endUid": "u2512"
+                }
+              ],
+              "note": "The initial save ability is not spoken; do not choose between the stated damage totals."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Rushes Agata, applies Hexblade’s Curse, misses with Booming Blade, then hits with his Haste attack for 11 damage including the curse. His Blink check leaves him present.",
+              "evidence": [
+                {
+                  "startUid": "u2344",
+                  "endUid": "u2379"
+                }
+              ]
+            },
+            {
+              "actor": "Agata",
+              "kind": "turn",
+              "summary": "Releases a 20-foot-radius insect swarm centered on the wellspring. Wellby succeeds on the Constitution save and takes 10 piercing damage; Kenzo and Seeker fail and take 21 each. The area is ruled lightly obscured, with hiding possible, but not difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u2395",
+                  "endUid": "u2452"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves to Samerki and uses Soul Sight: Samerki succeeds on Wisdom and avoids psychic damage. Kenzo learns his weakest ability is Dexterity, strongest Strength, and resistance to cold, fire, and nonmagical bludgeoning/piercing/slashing; his own fists are magical. Samerki is also stated to be immune to fear. Samerki succeeds on the disadvantaged Strength save against Fist of Planar Power, taking 4 damage without displacement. A punch hits for 5; Samerki fails Constitution and is stunned until the end of Kenzo’s next turn. Kenzo’s Haste attack has advantage and hits for another 9.",
+              "evidence": [
+                {
+                  "startUid": "u2468",
+                  "endUid": "u2540"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Leaves the insects, hides behind cover, and shoots Agata with advantage using two Flaming Bowstring charges for second-level Burning Strike. Both initial rolls miss, but inspiration converts the attack to a hit with sneak attack: 17 weapon damage, 4 fire, and 8 extra thunder are stated, 29 before resistance. Agata must make Constitution saves on her turns for a minute or take 2d6 fire; the DM later confirms fire resistance was applied.",
+              "evidence": [
+                {
+                  "startUid": "u2541",
+                  "endUid": "u2588"
+                },
+                {
+                  "startUid": "u2786",
+                  "endUid": "u2791"
+                }
+              ]
+            },
+            {
+              "actor": "Samerki",
+              "kind": "turn",
+              "summary": "Stunned, stands reeling and cannot act.",
+              "evidence": [
+                {
+                  "startUid": "u2597",
+                  "endUid": "u2599"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Cintra",
+              "kind": "turn",
+              "summary": "Moves toward the wounded PCs but cannot reach either for healing. Prays to Shakun and summons a floating spiritual sphere beside Samerki; its attack misses even with advantage against the stunned target. Her Fire Bolt hits him for 6 damage, with his fire resistance acknowledged.",
+              "evidence": [
+                {
+                  "startUid": "u2597",
+                  "endUid": "u2638"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves out of the insects and casts Heat Metal on Agata’s silver scepter. She fails Constitution, drops it, and takes 8 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u2639",
+                  "endUid": "u2657"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Casts a second Lightning Bolt through both foes; both fail their saves. Retreats while Samerki is stunned and cannot strike him.",
+              "evidence": [
+                {
+                  "startUid": "u2663",
+                  "endUid": "u2683"
+                }
+              ],
+              "note": "No numerical damage is spoken for this bolt."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits Agata with Booming Blade and Hexblade’s Curse; the stated final attack damage is 14, with another 5 if she moves. His Haste attack misses on 16. Blink removes him from the battlefield.",
+              "evidence": [
+                {
+                  "startUid": "u2684",
+                  "endUid": "u2698"
+                }
+              ],
+              "note": "The same passage first says nine plus three; retain the stated final fourteen without resolving the arithmetic."
+            },
+            {
+              "actor": "Agata",
+              "kind": "turn",
+              "summary": "Succeeds on the retrospective start-of-turn Constitution save against Burning Strike. Flies upward, taking 5 Booming Blade damage, then releases wasps that stitch her wounds (healing amount unspoken). Her black-eyed effect targets Drikod; inspiration turns his Wisdom save into a success and grants him 3 temporary hit points. She remains about 25 feet up.",
+              "evidence": [
+                {
+                  "startUid": "u2699",
+                  "endUid": "u2742"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sights Agata; she succeeds on Wisdom and avoids damage. Learns her weakest ability is Intelligence, strongest Charisma, with stated lightning/fire and nonmagical weapon resistances plus protection against charm and fear. Punches Samerki three times with advantage before his stun ends: two hits total 17 damage; a critical hit is referenced during the rolls.",
+              "evidence": [
+                {
+                  "startUid": "u2744",
+                  "endUid": "u2783"
+                },
+                {
+                  "startUid": "u2792",
+                  "endUid": "u2794"
+                }
+              ],
+              "note": "The later answer to a cold-resistance question says “Cold and fire,” conflicting with the initial lightning/fire report; the transcript does not reconcile it or enumerate the critical damage."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots Agata again with second-level Burning Strike and sneak attack. Damage is rolled and accepted but no numerical total is spoken. Cannot also hide because Steady Aim used the bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u2786",
+                  "endUid": "u2813"
+                }
+              ]
+            },
+            {
+              "actor": "Samerki",
+              "kind": "turn",
+              "summary": "Flies up, provoking Kenzo’s punch, then fires a 60-foot cone of cold at Seeker, Kenzo, and Cintra. Seeker fails Constitution for 40 cold damage; Kenzo and Cintra save for 20 each. Seeker and Kenzo fall unconscious at zero hit points; Cintra stays up but fails concentration, ending both Haste effects.",
+              "evidence": [
+                {
+                  "startUid": "u2814",
+                  "endUid": "u2865"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Hits Samerki for 6 damage with an opportunity punch as he starts flying away, before the cone of cold.",
+              "evidence": [
+                {
+                  "startUid": "u2814",
+                  "endUid": "u2824"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Cintra",
+              "kind": "turn",
+              "summary": "Moves and casts fourth-level Cure Wounds on Seeker, restoring him to 15 hit points, conscious but prone. The initial target Kenzo is explicitly corrected after Drikod offers to heal him.",
+              "evidence": [
+                {
+                  "startUid": "u2864",
+                  "endUid": "u2900"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Stands and crushes the red gem underfoot to summon a fire elemental, directing it toward Agata.",
+              "evidence": [
+                {
+                  "startUid": "u2901",
+                  "endUid": "u2937"
+                }
+              ]
+            },
+            {
+              "actor": "Fire elemental",
+              "kind": "turn",
+              "summary": "Moves beneath Agata but cannot attack her because it cannot fly and she remains airborne.",
+              "evidence": [
+                {
+                  "startUid": "u2930",
+                  "endUid": "u2933"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Runs to Kenzo and casts second-level Cure Wounds by touch, restoring him to 13 hit points and consciousness.",
+              "evidence": [
+                {
+                  "startUid": "u2938",
+                  "endUid": "u2962"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Returns from Blink and blasts Agata twice: a critical hit for 13 and a second hit for 11, with Hexblade’s Curse active. Picks up her dropped scepter. Does not blink away.",
+              "evidence": [
+                {
+                  "startUid": "u2965",
+                  "endUid": "u3003"
+                }
+              ]
+            },
+            {
+              "actor": "Agata",
+              "kind": "turn",
+              "summary": "Turns her black-eyed effect on Delwath. He initially fails Wisdom, then shatters his helm to succeed automatically and avoid losing consciousness. She follows with necrotic magic: he fails Constitution and takes 33 necrotic damage. She flies away, remaining about 20 feet up.",
+              "evidence": [
+                {
+                  "startUid": "u3005",
+                  "endUid": "u3040"
+                }
+              ],
+              "note": "Later catch-up Burning Strike saves yield one failure for 4 fire damage and one success ending burning, but their exact earlier-turn assignment is not established; recorded once as a separate correction event."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sights Samerki, who succeeds on Wisdom and takes no psychic damage. Fist of Planar Power forces a disadvantaged Strength save; Samerki fails and is pulled 20 feet to the ground, taking unquantified damage. Kenzo follows with a punch without advantage; the source does not state its hit/damage result or establish a new stun.",
+              "evidence": [
+                {
+                  "startUid": "u3041",
+                  "endUid": "u3079"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and hits Agata for 19 damage, taunting her to look behind her.",
+              "evidence": [
+                {
+                  "startUid": "u3081",
+                  "endUid": "u3091"
+                }
+              ]
+            },
+            {
+              "actor": "Samerki",
+              "kind": "turn",
+              "summary": "Swings his club twice at Kenzo on the ground. Both attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u3092",
+                  "endUid": "u3099"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Cintra",
+              "kind": "turn",
+              "summary": "Touches Kenzo and casts Greater Invisibility for one minute; attacking does not end it.",
+              "evidence": [
+                {
+                  "startUid": "u3100",
+                  "endUid": "u3118"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves within 30 feet and casts third-level Earthen Grasp on Samerki while directing the fire elemental toward him. Samerki fails Strength, takes 12 damage, and is restrained by the hand.",
+              "evidence": [
+                {
+                  "startUid": "u3119",
+                  "endUid": "u3151"
+                }
+              ]
+            },
+            {
+              "actor": "Fire elemental",
+              "kind": "turn",
+              "summary": "Attacks restrained Samerki twice with advantage; both hit. The stated roll is 4d6+6 fire, halved for resistance, without a spoken total. Samerki ignites and remains held by the hand.",
+              "evidence": [
+                {
+                  "startUid": "u3152",
+                  "endUid": "u3171"
+                }
+              ]
+            },
+            {
+              "actor": "Agata’s ongoing burning",
+              "kind": "event",
+              "summary": "The table resolves missed Constitution saves from earlier turns: one failure causes 4 additional fire damage, then a success ends Agata’s burning.",
+              "evidence": [
+                {
+                  "startUid": "u3173",
+                  "endUid": "u3182"
+                }
+              ],
+              "note": "Explicitly out of sequence; exact prior turns are not identified, so this records the correction rather than inventing a fresh action or applying damage twice."
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Moves and crouches to line up a third Lightning Bolt through Samerki and airborne Agata. The narrated 34 damage and Samerki’s collapse are retracted: Agata counterspells, and the bolt fizzles.",
+              "evidence": [
+                {
+                  "startUid": "u3185",
+                  "endUid": "u3227"
+                }
+              ]
+            },
+            {
+              "actor": "Agata",
+              "kind": "reaction",
+              "summary": "Recognizes Drikod’s repeated Lightning Bolt and casts Counterspell, canceling it before its narrated effects take place.",
+              "evidence": [
+                {
+                  "startUid": "u3220",
+                  "endUid": "u3227"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Makes two attacks against Agata; both miss. His Blink check again leaves him present.",
+              "evidence": [
+                {
+                  "startUid": "u3228",
+                  "endUid": "u3240"
+                }
+              ],
+              "note": "The attack spell is not named in these turns; no new damage is established."
+            },
+            {
+              "actor": "Agata",
+              "kind": "turn",
+              "summary": "Delwath fails Wisdom against her black-eyed effect. The initially narrated magical sleep is corrected to fear because he is immune to magical sleep: he must Dash away by the safest shortest route on his turns; the effect ends at 60 feet away or out of sight. She then targets Wellby with Polymorph; he fails Wisdom and becomes a foot-long centipede. She demands surrender, lands beside him behind rocks, and puts him in a jar.",
+              "evidence": [
+                {
+                  "startUid": "u3241",
+                  "endUid": "u3299"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Punches and kills the badly wounded Samerki. Spends ki to Dash to Agata, then hits her; she succeeds on the Constitution save against his attempted stun with 17. His forgotten invisibility advantage is rolled afterward without a critical result. Agata fails the required concentration save, ending Polymorph: Wellby returns to his normal form and shatters the jar.",
+              "evidence": [
+                {
+                  "startUid": "u3300",
+                  "endUid": "u3379"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses careful aim to cancel the disadvantage of shooting a bow in melee; with an ally engaging Agata, sneak attack is allowed on the straight roll. Asks in Sylvan where fey go when they die and shoots Agata dead. Her robes crumble and her body disintegrates.",
+              "evidence": [
+                {
+                  "startUid": "u3381",
+                  "endUid": "u3419"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Samerki is killed by Kenzo; Wellby kills Agata after regaining his form. Her body disintegrates and the session ends before any aftermath or reunion with Jumi.",
+        "evidence": [
+          {
+            "startUid": "u3314",
+            "endUid": "u3319"
+          },
+          {
+            "startUid": "u3375",
+            "endUid": "u3379"
+          },
+          {
+            "startUid": "u3406",
+            "endUid": "u3419"
+          }
+        ]
+      }
+    }
+  ]
+}

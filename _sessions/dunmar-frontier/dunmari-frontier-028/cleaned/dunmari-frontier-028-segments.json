@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-028",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+    "sessionYamlSha256": "27533fdfdd07f2f4efb2633f29ef47fe17b6b276b6a72876cbd8c6a5c705f2c4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-transcript.md",
+    "transcriptSha256": "675451f5c4c3f77a1fd9fe27e83527e7e2ed1968af3d0a6a82ac9fc86f6f83fe"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0014"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0018"
+      },
+      "category": "gameplay",
+      "note": "Present-state narration begins active play before an explicitly invited out-of-character recap."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0019",
+        "endUid": "u0073"
+      },
+      "category": "meta_discussion",
+      "note": "Explicitly invited out-of-character recap and situation clarification, including an embedded knowledge check and current-time question; in-character play resumes with the tent conversation."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u1691"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1692",
+        "endUid": "u1725"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1726",
+        "endUid": "u2172"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2173",
+        "endUid": "u3419"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3420",
+        "endUid": "u3459"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3460",
+        "endUid": "u3518"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

@@ -1,0 +1,846 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-028",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+    "sessionYamlSha256": "27533fdfdd07f2f4efb2633f29ef47fe17b6b276b6a72876cbd8c6a5c705f2c4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-transcript.md",
+    "transcriptSha256": "675451f5c4c3f77a1fd9fe27e83527e7e2ed1968af3d0a6a82ac9fc86f6f83fe"
+  },
+  "places": {
+    "p01": {
+      "label": "Shakun’s Wellspring",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0018",
+          "quote": "DM: Now Delwath hides in the desert debris near the edge of the cliff. Drikod remains melded into the stone of the cliff itself, only dimly hearing the goings-on around him. Seeker and Kenzo crouch in Cintra's tent at the bottom of the canyon and Wellby crouches defiantly caught in the open, without anywhere to hide, but with [garbled]. As dusk approaches, at least for the moment the desert seems quiet. And again I'll pause briefly for a quick five minute out of character recap, if you want to refresh your memory as to what's going on."
+        },
+        {
+          "startUid": "u1825",
+          "endUid": "u1825",
+          "quote": "DM: That's the wellspring yep, it would be sand during the day and."
+        },
+        {
+          "startUid": "u1161",
+          "endUid": "u1169",
+          "quote": "DM: Yes, the wellspring—the hour around dusk and the hour around dawn when the wellspring fills and drains—this pool is not here. It is in Shakun's realm the place where those who get lost trying to find their way past her defenses go. It is not of this plane."
+        }
+      ],
+      "kind": "holy site",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Shakun’s Wellspring.md"
+    },
+    "p02": {
+      "label": "Cintra’s tent",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0018",
+          "quote": "DM: Now Delwath hides in the desert debris near the edge of the cliff. Drikod remains melded into the stone of the cliff itself, only dimly hearing the goings-on around him. Seeker and Kenzo crouch in Cintra's tent at the bottom of the canyon and Wellby crouches defiantly caught in the open, without anywhere to hide, but with [garbled]. As dusk approaches, at least for the moment the desert seems quiet. And again I'll pause briefly for a quick five minute out of character recap, if you want to refresh your memory as to what's going on."
+        },
+        {
+          "startUid": "u0078",
+          "endUid": "u0079",
+          "quote": "DM: Cintra is standing on the outside the tent on the floor of the canyon maybe 50 feet away from the tent. Seeker and and Kenzo are in the tent. Drikod is melded with the cliff. Wellby is more or less out in the open about 15 feet from cover, um."
+        }
+      ],
+      "kind": "tent",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0078",
+              "endUid": "u0079",
+              "quote": "DM: Cintra is standing on the outside the tent on the floor of the canyon maybe 50 feet away from the tent. Seeker and and Kenzo are in the tent. Drikod is melded with the cliff. Wellby is more or less out in the open about 15 feet from cover, um."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Rubble field on the canyon rim",
+      "evidence": [
+        {
+          "startUid": "u0081",
+          "endUid": "u0082",
+          "quote": "DM: Wait for it. At the top of the cliff. Delwath is hiding, although visible to Wellby, about 10–15 feet from Wellby in some sort of boulder-rubble-strewn field, um, just on the edge, like 15 feet away from the edge of the cliff."
+        }
+      ],
+      "kind": "canyon rim",
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0078",
+              "endUid": "u0079",
+              "quote": "DM: Cintra is standing on the outside the tent on the floor of the canyon maybe 50 feet away from the tent. Seeker and and Kenzo are in the tent. Drikod is melded with the cliff. Wellby is more or less out in the open about 15 feet from cover, um."
+            },
+            {
+              "startUid": "u0081",
+              "endUid": "u0082",
+              "quote": "DM: Wait for it. At the top of the cliff. Delwath is hiding, although visible to Wellby, about 10–15 feet from Wellby in some sort of boulder-rubble-strewn field, um, just on the edge, like 15 feet away from the edge of the cliff."
+            },
+            {
+              "startUid": "u0331",
+              "endUid": "u0333",
+              "quote": "DM: I well, I mean, there's no way for you to—I mean, so the canyon is about 500 feet of sheer rock wall. It's not like a gentle slope that you can go halfway up. The only way you were climbing it before was with Drikod's spider climb spell."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Cliff wall",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0018",
+          "quote": "DM: Now Delwath hides in the desert debris near the edge of the cliff. Drikod remains melded into the stone of the cliff itself, only dimly hearing the goings-on around him. Seeker and Kenzo crouch in Cintra's tent at the bottom of the canyon and Wellby crouches defiantly caught in the open, without anywhere to hide, but with [garbled]. As dusk approaches, at least for the moment the desert seems quiet. And again I'll pause briefly for a quick five minute out of character recap, if you want to refresh your memory as to what's going on."
+        },
+        {
+          "startUid": "u0331",
+          "endUid": "u0333",
+          "quote": "DM: I well, I mean, there's no way for you to—I mean, so the canyon is about 500 feet of sheer rock wall. It's not like a gentle slope that you can go halfway up. The only way you were climbing it before was with Drikod's spider climb spell."
+        }
+      ],
+      "kind": "cliff",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0015",
+              "endUid": "u0018",
+              "quote": "DM: Now Delwath hides in the desert debris near the edge of the cliff. Drikod remains melded into the stone of the cliff itself, only dimly hearing the goings-on around him. Seeker and Kenzo crouch in Cintra's tent at the bottom of the canyon and Wellby crouches defiantly caught in the open, without anywhere to hide, but with [garbled]. As dusk approaches, at least for the moment the desert seems quiet. And again I'll pause briefly for a quick five minute out of character recap, if you want to refresh your memory as to what's going on."
+            },
+            {
+              "startUid": "u0331",
+              "endUid": "u0333",
+              "quote": "DM: I well, I mean, there's no way for you to—I mean, so the canyon is about 500 feet of sheer rock wall. It's not like a gentle slope that you can go halfway up. The only way you were climbing it before was with Drikod's spider climb spell."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Camp outside Cintra’s tent",
+      "evidence": [
+        {
+          "startUid": "u0490",
+          "endUid": "u0490",
+          "quote": "DM: You're sitting outside the tent yeah, yeah."
+        },
+        {
+          "startUid": "u0517",
+          "endUid": "u0520",
+          "quote": "DM: You convene now at the bottom of the canyon. The stars above, as the full dark of night has set in. Possibly some invisible creature flying above you keeping watch not at your concern at the moment."
+        },
+        {
+          "startUid": "u0523",
+          "endUid": "u0529",
+          "quote": "DM: As you all land, Cintra like looks around her camp looks around it, you. She says, “Have some food. I'm sorry it's not very appetizing. And I think some stories are in order at this point of the evening. Why did you come? I don't know any of you. And I'm sure you have questions for me.”"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0490",
+              "endUid": "u0490",
+              "quote": "DM: You're sitting outside the tent yeah, yeah."
+            },
+            {
+              "startUid": "u0517",
+              "endUid": "u0520",
+              "quote": "DM: You convene now at the bottom of the canyon. The stars above, as the full dark of night has set in. Possibly some invisible creature flying above you keeping watch not at your concern at the moment."
+            },
+            {
+              "startUid": "u0523",
+              "endUid": "u0529",
+              "quote": "DM: As you all land, Cintra like looks around her camp looks around it, you. She says, “Have some food. I'm sorry it's not very appetizing. And I think some stories are in order at this point of the evening. Why did you come? I don't know any of you. And I'm sure you have questions for me.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Pool and grove",
+      "evidence": [
+        {
+          "startUid": "u0276",
+          "endUid": "u0279",
+          "quote": "DM: Um, the sun continues to sink in the sky. And you know, as as the sun touches the horizon, those of you let's see I guess yeah, I guess, this would mostly be Seeker and and Kenzo who can see this. Canyon walls are all sort of lit up with the glow of the sun and the pool a sand filled pool in the middle of the grove of trees begins to fill with water like just emerged just sort of like first starting like a small spring just emerging from the center of the pool and then bubbling up and slowly the sand sort of fades away and turns to the dark water, and you can see there's some sort of shimmering swirling light around."
+        },
+        {
+          "startUid": "u1825",
+          "endUid": "u1825",
+          "quote": "DM: That's the wellspring yep, it would be sand during the day and."
+        }
+      ],
+      "kind": "pool",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0276",
+              "endUid": "u0279",
+              "quote": "DM: Um, the sun continues to sink in the sky. And you know, as as the sun touches the horizon, those of you let's see I guess yeah, I guess, this would mostly be Seeker and and Kenzo who can see this. Canyon walls are all sort of lit up with the glow of the sun and the pool a sand filled pool in the middle of the grove of trees begins to fill with water like just emerged just sort of like first starting like a small spring just emerging from the center of the pool and then bubbling up and slowly the sand sort of fades away and turns to the dark water, and you can see there's some sort of shimmering swirling light around."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Slot canyon and pit trap",
+      "evidence": [
+        {
+          "startUid": "u1071",
+          "endUid": "u1071",
+          "quote": "Seeker: At the ravine leading to the stairs, which is the only access of the gnolls."
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "Seeker: Alright, so we're making a giant pit trap halfway up the slot canyon."
+        }
+      ],
+      "kind": "canyon entrance",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0575",
+              "endUid": "u0580",
+              "quote": "DM: Hold on one SEC. Yeah. Some of the Mystai came to find me as I knew they might. The first group that arrived managed to avoid the the guardians at the entrance the wellspring as I assume you did as well, and I've occasionally snuck up there to take a peek at what's waiting for me out there. I feel if they tried to come through this canyon, the narrow slot canyon, I could defeat them, but emerging into a crowd of 20 beasts like that I fear would try my skills."
+            },
+            {
+              "startUid": "u1071",
+              "endUid": "u1071",
+              "quote": "Seeker: At the ravine leading to the stairs, which is the only access of the gnolls."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Shakun’s realm",
+      "evidence": [
+        {
+          "startUid": "u1161",
+          "endUid": "u1169",
+          "quote": "DM: Yes, the wellspring—the hour around dusk and the hour around dawn when the wellspring fills and drains—this pool is not here. It is in Shakun's realm the place where those who get lost trying to find their way past her defenses go. It is not of this plane."
+        },
+        {
+          "startUid": "u2067",
+          "endUid": "u2074",
+          "quote": "DM: So you step into the portal at dawn. As you cross through the border you emerge in this massive grassland like the grass is like seven feet tall. It just extends as far as the eye can see like [garbled], Wellby can barely see anything. Really, the only one who can see much of the horizon is Drikod as the grass, as you can sort of just peer above the edge of it it's just these rolling waves of grass that extend like unmarked horizon in any direction you can imagine, without any landmarks if somebody was just walking here, they would just there's no way to tell what way you're going you would just walk forever and circles until you die of thirst. And the only landmark you can see, is the pool behind you, where the reflections of the trees stay for a moment."
+        }
+      ],
+      "kind": "realm",
+      "vaultPath": "Cosmology/Spiritual Realms/Shakun's Realm.md",
+      "note": "Shakun’s realm is a separate plane reached through the wellspring portal."
+    },
+    "p09": {
+      "label": "Forest beyond the portal",
+      "evidence": [
+        {
+          "startUid": "u2080",
+          "endUid": "u2086",
+          "quote": "Kenzo: Tim wasn't there a massive forest?\nDM: When you step through there was.\nKenzo: When I stepped through now is there still a lot of forest?\nDM: Nope there's a great expanse of grassland.\nUnknown: Weird.\nKenzo: Is it is now, then when then when I stepped through the first time?\nDM: It's the same portal, it looks totally different."
+        }
+      ],
+      "kind": "forest",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1871",
+              "endUid": "u1873",
+              "quote": "DM: No, I was ready for this I'm. Kenzo steps into the waters and you all watch him vanish."
+            },
+            {
+              "startUid": "u2080",
+              "endUid": "u2086",
+              "quote": "Kenzo: Tim wasn't there a massive forest?\nDM: When you step through there was.\nKenzo: When I stepped through now is there still a lot of forest?\nDM: Nope there's a great expanse of grassland.\nUnknown: Weird.\nKenzo: Is it is now, then when then when I stepped through the first time?\nDM: It's the same portal, it looks totally different."
+            }
+          ]
+        }
+      ],
+      "note": "The private message describing Kenzo’s first visit is absent, but the later spoken exchange confirms that visit’s forest appearance."
+    },
+    "p10": {
+      "label": "Grassland beyond the portal",
+      "evidence": [
+        {
+          "startUid": "u2067",
+          "endUid": "u2074",
+          "quote": "DM: So you step into the portal at dawn. As you cross through the border you emerge in this massive grassland like the grass is like seven feet tall. It just extends as far as the eye can see like [garbled], Wellby can barely see anything. Really, the only one who can see much of the horizon is Drikod as the grass, as you can sort of just peer above the edge of it it's just these rolling waves of grass that extend like unmarked horizon in any direction you can imagine, without any landmarks if somebody was just walking here, they would just there's no way to tell what way you're going you would just walk forever and circles until you die of thirst. And the only landmark you can see, is the pool behind you, where the reflections of the trees stay for a moment."
+        },
+        {
+          "startUid": "u2083",
+          "endUid": "u2083",
+          "quote": "DM: Nope there's a great expanse of grassland."
+        },
+        {
+          "startUid": "u2086",
+          "endUid": "u2086",
+          "quote": "DM: It's the same portal, it looks totally different."
+        }
+      ],
+      "kind": "grassland",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2067",
+              "endUid": "u2074",
+              "quote": "DM: So you step into the portal at dawn. As you cross through the border you emerge in this massive grassland like the grass is like seven feet tall. It just extends as far as the eye can see like [garbled], Wellby can barely see anything. Really, the only one who can see much of the horizon is Drikod as the grass, as you can sort of just peer above the edge of it it's just these rolling waves of grass that extend like unmarked horizon in any direction you can imagine, without any landmarks if somebody was just walking here, they would just there's no way to tell what way you're going you would just walk forever and circles until you die of thirst. And the only landmark you can see, is the pool behind you, where the reflections of the trees stay for a moment."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0018"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "Hide in Cintra’s tent on the canyon floor.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0018",
+          "quote": "DM: Now Delwath hides in the desert debris near the edge of the cliff. Drikod remains melded into the stone of the cliff itself, only dimly hearing the goings-on around him. Seeker and Kenzo crouch in Cintra's tent at the bottom of the canyon and Wellby crouches defiantly caught in the open, without anywhere to hide, but with [garbled]. As dusk approaches, at least for the moment the desert seems quiet. And again I'll pause briefly for a quick five minute out of character recap, if you want to refresh your memory as to what's going on."
+        },
+        {
+          "startUid": "u0078",
+          "endUid": "u0079",
+          "quote": "DM: Cintra is standing on the outside the tent on the floor of the canyon maybe 50 feet away from the tent. Seeker and and Kenzo are in the tent. Drikod is melded with the cliff. Wellby is more or less out in the open about 15 feet from cover, um."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0018"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Remain on the canyon rim: Delwath behind rubble, Wellby exposed nearby.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0018",
+          "quote": "DM: Now Delwath hides in the desert debris near the edge of the cliff. Drikod remains melded into the stone of the cliff itself, only dimly hearing the goings-on around him. Seeker and Kenzo crouch in Cintra's tent at the bottom of the canyon and Wellby crouches defiantly caught in the open, without anywhere to hide, but with [garbled]. As dusk approaches, at least for the moment the desert seems quiet. And again I'll pause briefly for a quick five minute out of character recap, if you want to refresh your memory as to what's going on."
+        },
+        {
+          "startUid": "u0078",
+          "endUid": "u0079",
+          "quote": "DM: Cintra is standing on the outside the tent on the floor of the canyon maybe 50 feet away from the tent. Seeker and and Kenzo are in the tent. Drikod is melded with the cliff. Wellby is more or less out in the open about 15 feet from cover, um."
+        },
+        {
+          "startUid": "u0081",
+          "endUid": "u0082",
+          "quote": "DM: Wait for it. At the top of the cliff. Delwath is hiding, although visible to Wellby, about 10–15 feet from Wellby in some sort of boulder-rubble-strewn field, um, just on the edge, like 15 feet away from the edge of the cliff."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0018"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "Remains melded into the cliff wall.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0018",
+          "quote": "DM: Now Delwath hides in the desert debris near the edge of the cliff. Drikod remains melded into the stone of the cliff itself, only dimly hearing the goings-on around him. Seeker and Kenzo crouch in Cintra's tent at the bottom of the canyon and Wellby crouches defiantly caught in the open, without anywhere to hide, but with [garbled]. As dusk approaches, at least for the moment the desert seems quiet. And again I'll pause briefly for a quick five minute out of character recap, if you want to refresh your memory as to what's going on."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0276",
+        "endUid": "u0279"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "See the pool fill at sunset from their hiding place.",
+      "evidence": [
+        {
+          "startUid": "u0276",
+          "endUid": "u0279",
+          "quote": "DM: Um, the sun continues to sink in the sky. And you know, as as the sun touches the horizon, those of you let's see I guess yeah, I guess, this would mostly be Seeker and and Kenzo who can see this. Canyon walls are all sort of lit up with the glow of the sun and the pool a sand filled pool in the middle of the grove of trees begins to fill with water like just emerged just sort of like first starting like a small spring just emerging from the center of the pool and then bubbling up and slowly the sand sort of fades away and turns to the dark water, and you can see there's some sort of shimmering swirling light around."
+        },
+        {
+          "startUid": "u0078",
+          "endUid": "u0079",
+          "quote": "DM: Cintra is standing on the outside the tent on the floor of the canyon maybe 50 feet away from the tent. Seeker and and Kenzo are in the tent. Drikod is melded with the cliff. Wellby is more or less out in the open about 15 feet from cover, um."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0285",
+        "endUid": "u0292"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "The apparent canyon fills with rubble; later the illusion expands past the rim and the actual canyon becomes visible again. Neither change is physical travel.",
+      "evidence": [
+        {
+          "startUid": "u0285",
+          "endUid": "u0292",
+          "quote": "DM: And you can see um sort of extending out from the from the pool itself this—it's not exactly a mist, it's like a—it's almost like this sort of silvery wind that kind of drifts out and and nothing changes from your perspective but um, Wellby and and Delwath you see the canyon start to fill in. Like rocks growing piling on top of that rubble filling it in it's almost as if the sides are collapsing all around you but you don't feel any movement there's nothing there's nothing there's no rock slides happening there's nothing and you Drikod feel totally stable in the rock it's just the canyon is filling in with these images of rocks from somewhere."
+        },
+        {
+          "startUid": "u0293",
+          "endUid": "u0298",
+          "quote": "DM: And over the course of the next 20–30 minutes, um, you now, you Seeker and and Kenzo are looking up at the stars seeing everything perfectly normally. Wellby and Delwath, you are now looking at, not a canyon but a massive jumbled broken pile of collapsed desert walls of twisting scars running through the surface of like pile debris dead trees, just like as if a massive flood just washed a ton of debris and and filled up this entire 500-foot-deep bowl. And Cintra then comes over to the tent and says it's safe now. For the next eight hours anyway. Or longer till till till dawn I can keep this up."
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0478",
+          "quote": "DM: So as, as this is happening, you can slowly feel this like a little thread kind of emerging out of the heart and you can almost see it starting to connect with you and, as it connects those—the three of you who are on top, the the illusion expands slightly 10, 15, about 20 feet beyond the edge of the canyon, um. Almost as if there's like now sort of along the sides of the canyon wall sort of pushing out sort of almost moving past you now so so you see like these sort of piles of rubble and a few like dead trees and things approaching you and then, as they move past you, the canyon reappears."
+        },
+        {
+          "startUid": "u0479",
+          "endUid": "u0479",
+          "quote": "DM: And now you see the stars, you know, that."
+        }
+      ],
+      "place": "p01",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0430",
+        "endUid": "u0434"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "Sit with Cintra outside the tent while studying and connecting to the Heart.",
+      "evidence": [
+        {
+          "startUid": "u0430",
+          "endUid": "u0434",
+          "quote": "DM: So as you're doing this, as you all are communicating telepathically, Cintra then, um, as the three of you are sitting around and she's she's holding this stone that's it's like a red ochre sort of rough hewn kind of chunk of rock that's sort of an amorphous shape, but you can see these little flecks of multicolored like just tiny bits of almost like multicolored glass embedded in it, and every time you look the pattern of these little flecks seems to have shifted like you don't see actual movement, but every time you look away it's it's almost as if the form is slightly different. And it, you know, it, it seems to kind of it almost pulls you in a little bit um."
+        },
+        {
+          "startUid": "u0435",
+          "endUid": "u0439",
+          "quote": "DM: Seeker, you see when you look at it, you see, you see a puzzle, you see what looks like a complex contraption that seems impossible like somehow there's a point in space that's been folded up and contained within this point of space is some other world. There is some intruding reality that's encapsulated in space, but there's more to it than—you're convinced as you look at it there's some complexity here that you could you could disentangle somehow that would tell you something about the world."
+        },
+        {
+          "startUid": "u0441",
+          "endUid": "u0447",
+          "quote": "DM: Kenzo I saw your message. As you sort of look at it and you know, focus focus on it and pick up your your jade necklace and sort of hold it you can feel almost it pulling you and trying to trying to draw you into the heart, you can feel you can almost see now the same image you saw, the sort of web of silvery threads connecting all the initiates of the Shakun Mystai. You can see now there's this thick thread, almost like a—not a thread, but a rope that kind of wraps around this heart and ties, intertwines with Cintra and you can see see this like little bit of silvery thread drifting off of you that's frayed at the end, and it it's like pulling towards the heart, like it wants to be connected to the heart um."
+        },
+        {
+          "startUid": "u0488",
+          "endUid": "u0489",
+          "quote": "Kenzo: Kenzo just kind of nods but is like kind of in the zone. Where are we, outside the tent now?"
+        },
+        {
+          "startUid": "u0490",
+          "endUid": "u0490",
+          "quote": "DM: You're sitting outside the tent yeah, yeah."
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0493",
+        "endUid": "u0494"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "Leaves the cliff stone and spider-climbs down to join the camp.",
+      "evidence": [
+        {
+          "startUid": "u0493",
+          "endUid": "u0494",
+          "quote": "Drikod: Yes, Drikod reaches out of the stone and pulls himself."
+        },
+        {
+          "startUid": "u0511",
+          "endUid": "u0511",
+          "quote": "Drikod: Oh, you can choose a portion of dirt or stone that you can see within range and fits into a five-foot cube. All right, well, spider crawl down then."
+        },
+        {
+          "startUid": "u0517",
+          "endUid": "u0520",
+          "quote": "DM: You convene now at the bottom of the canyon. The stars above, as the full dark of night has set in. Possibly some invisible creature flying above you keeping watch not at your concern at the moment."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "Spider Climb"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0495",
+        "endUid": "u0496"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Fly down from the rim, Wellby first and Delwath after he lands; reunite at the canyon-floor camp.",
+      "evidence": [
+        {
+          "startUid": "u0495",
+          "endUid": "u0496",
+          "quote": "Delwath: Up gasping right. You can fly, Wellby, 10 minutes, use it wisely."
+        },
+        {
+          "startUid": "u0501",
+          "endUid": "u0501",
+          "quote": "Wellby: Yeah, Wellby definitely takes the long way around flying down, though, and does some like barrel rolls of."
+        },
+        {
+          "startUid": "u0512",
+          "endUid": "u0515",
+          "quote": "Delwath: Okay, as soon as Wellby lands Delwath will fly down. Okay, taking that straight and direct path with none of the showiness. Wellby."
+        },
+        {
+          "startUid": "u0517",
+          "endUid": "u0520",
+          "quote": "DM: You convene now at the bottom of the canyon. The stars above, as the full dark of night has set in. Possibly some invisible creature flying above you keeping watch not at your concern at the moment."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1805",
+        "endUid": "u1805"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Construct a pit trap halfway up the slot canyon; Cintra helps Wellby with Enhance Ability.",
+      "evidence": [
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "Seeker: Alright, so we're making a giant pit trap halfway up the slot canyon."
+        },
+        {
+          "startUid": "u1831",
+          "endUid": "u1832",
+          "quote": "DM: Debating and delving a pit trap Oh, make it make a dexterity check plus proficiency for your pit trap Wellby."
+        },
+        {
+          "startUid": "u1837",
+          "endUid": "u1837",
+          "quote": "Seeker: Team effort."
+        },
+        {
+          "startUid": "u1838",
+          "endUid": "u1842",
+          "quote": "DM: Oh, actually before you do Cintra will say, “I can help,” and she will cast Enhance Ability and give you advantage on dexterity checks. Which was but but that's not including your proficiency that's just a straight Dex so your proficiency adds another three so that's 12 that's it's not the best pit trap you ever constructed, but you know."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1827",
+        "endUid": "u1829"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Hide and sleep in the tent when morning comes.",
+      "evidence": [
+        {
+          "startUid": "u1827",
+          "endUid": "u1829",
+          "quote": "DM: So let's let's move through this in the morning. You all hide in the tent and actually maybe sleep, because you stayed up for a good part of the night."
+        },
+        {
+          "startUid": "u1845",
+          "endUid": "u1847",
+          "quote": "DM: And skeletons aren't renowned for their passive perception so you know, it probably would do some good. So in the morning as you're sleeping as when you when you awake Cintra reports on her conversation and says."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1871",
+        "endUid": "u1873"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Steps through the wellspring into Shakun’s realm for a scouting visit; its forest appearance is confirmed later.",
+      "evidence": [
+        {
+          "startUid": "u1861",
+          "endUid": "u1861",
+          "quote": "Kenzo: Hey in the morning um, Tim when like the when it actually because you know, we have two opportunities to go into a wellspring to be like—could I like going to the wellspring just to see what the hell it is and go in and out like go in and then come back out?"
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1873",
+          "quote": "DM: No, I was ready for this I'm. Kenzo steps into the waters and you all watch him vanish."
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1887",
+          "quote": "Kenzo: Tim, is there an obvious way back out from what I see?\nDM: Yes.\nKenzo: Um, yeah, I just kind of take a take a quick scan around and then actually, you know, I'll spend a moment just a moment in kind of you know, grateful meditation in you know, just full-on acknowledging where I am give Shakun some shout outs, to the whole thing yeah. I step back through the portal."
+        },
+        {
+          "startUid": "u2080",
+          "endUid": "u2086",
+          "quote": "Kenzo: Tim wasn't there a massive forest?\nDM: When you step through there was.\nKenzo: When I stepped through now is there still a lot of forest?\nDM: Nope there's a great expanse of grassland.\nUnknown: Weird.\nKenzo: Is it is now, then when then when I stepped through the first time?\nDM: It's the same portal, it looks totally different."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "portal"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1889",
+        "endUid": "u1890"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Returns through the portal to the wellspring a few minutes later.",
+      "evidence": [
+        {
+          "startUid": "u1885",
+          "endUid": "u1887",
+          "quote": "Kenzo: Um, yeah, I just kind of take a take a quick scan around and then actually, you know, I'll spend a moment just a moment in kind of you know, grateful meditation in you know, just full-on acknowledging where I am give Shakun some shout outs, to the whole thing yeah. I step back through the portal."
+        },
+        {
+          "startUid": "u1889",
+          "endUid": "u1890",
+          "quote": "DM: [garbled]. He emerges again a few minutes later."
+        },
+        {
+          "startUid": "u1897",
+          "endUid": "u1897",
+          "quote": "DM: A few minutes like."
+        }
+      ],
+      "from": "p09",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "portal",
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM’s elapsed time for the complete scouting round trip"
+      },
+      "note": "Duration covers l11–l12 together, not an additional interval for the return leg."
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1926",
+        "endUid": "u1928"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Confirms seeing the outside grove reflected in the realm’s pool during the completed scouting visit.",
+      "evidence": [
+        {
+          "startUid": "u1921",
+          "endUid": "u1923",
+          "quote": "Delwath: Um, Kenzo could you perceive anything outside the wellspring when you were inside?"
+        },
+        {
+          "startUid": "u1926",
+          "endUid": "u1928",
+          "quote": "DM: Yes, you could see the reflection of the of the trees in the pool of water."
+        },
+        {
+          "startUid": "u1930",
+          "endUid": "u1930",
+          "quote": "DM: Grove that's around the outside right, that."
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1931",
+          "quote": "Kenzo: Yeah, so so I had as I could from inside from the from inside the wellspring I could have a I had some sense of what was happening outside the wellspring."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p09"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2074"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enters the same portal at dawn, now emerging into immense grassland rather than the forest Kenzo saw previously.",
+      "evidence": [
+        {
+          "startUid": "u2067",
+          "endUid": "u2074",
+          "quote": "DM: So you step into the portal at dawn. As you cross through the border you emerge in this massive grassland like the grass is like seven feet tall. It just extends as far as the eye can see like [garbled], Wellby can barely see anything. Really, the only one who can see much of the horizon is Drikod as the grass, as you can sort of just peer above the edge of it it's just these rolling waves of grass that extend like unmarked horizon in any direction you can imagine, without any landmarks if somebody was just walking here, they would just there's no way to tell what way you're going you would just walk forever and circles until you die of thirst. And the only landmark you can see, is the pool behind you, where the reflections of the trees stay for a moment."
+        },
+        {
+          "startUid": "u2080",
+          "endUid": "u2086",
+          "quote": "Kenzo: Tim wasn't there a massive forest?\nDM: When you step through there was.\nKenzo: When I stepped through now is there still a lot of forest?\nDM: Nope there's a great expanse of grassland.\nUnknown: Weird.\nKenzo: Is it is now, then when then when I stepped through the first time?\nDM: It's the same portal, it looks totally different."
+        }
+      ],
+      "from": "p06",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "portal"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2074"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sees reflections of the outside grove in the portal pool until the connection dries and closes.",
+      "evidence": [
+        {
+          "startUid": "u2067",
+          "endUid": "u2074",
+          "quote": "DM: So you step into the portal at dawn. As you cross through the border you emerge in this massive grassland like the grass is like seven feet tall. It just extends as far as the eye can see like [garbled], Wellby can barely see anything. Really, the only one who can see much of the horizon is Drikod as the grass, as you can sort of just peer above the edge of it it's just these rolling waves of grass that extend like unmarked horizon in any direction you can imagine, without any landmarks if somebody was just walking here, they would just there's no way to tell what way you're going you would just walk forever and circles until you die of thirst. And the only landmark you can see, is the pool behind you, where the reflections of the trees stay for a moment."
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2079",
+          "quote": "DM: And then, as time passes the light unchanging in this realm the mists occasionally blowing across the sun and clouds moving across the light fades from bright to dim from bright to dim seemingly random the reflection of the trees fades as well, and the pool begins to dry up closing, turning to a bare patch of dirt. And you wait."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2196",
+        "endUid": "u2203"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Emerges from the reopened realm portal into the wellspring to fight Agata and Samerki alongside Cintra.",
+      "evidence": [
+        {
+          "startUid": "u2140",
+          "endUid": "u2151",
+          "quote": "DM: So the water then begins to creep back into the dirt. The pool starts to fill the heart solidifies and turns back into stone but stays remaining there floating three feet above and then about 15 minutes after the pool has spread to its fullest extent you see stepping through— floating up from the [garbled] from the top of the it to the top of the pool a—what looks like a girl, a little girl, a toddler. But her body, except for her face is made of wood, it looks like she's a puppet except her face just her face not her whole head just her face is a human face. And she steps through she looks up at you and she says “Now.”\nKenzo: Okay okay, let's go.\nDelwath: Let's go."
+        },
+        {
+          "startUid": "u2196",
+          "endUid": "u2203",
+          "quote": "DM: And I got a roll for the bad guy so they roll terribly. Okay, Seeker you and Cintra first. Let me, actually, let me do the initiative order here because it's Well, I can do it on the other one that's fine. So you emerged you all emerge I guess Cintra can go first or she can haste you. And then okay, so Delwath and Kenzo now are both Hasted as Cintra turns around, sees you emerging and runs 123456 runs to here actually she doesn't want to be 123456 she wants to there she holds her hand out and she says a blessing to Shakun and says, “[garbled], y'all scatter,” to all of you."
+        },
+        {
+          "startUid": "u2213",
+          "endUid": "u2214",
+          "quote": "DM: So this is Agata."
+        },
+        {
+          "startUid": "u2216",
+          "endUid": "u2216",
+          "quote": "DM: This is now looking at it, it looks like Samerki just large and now with horns and slightly bluer skin but it's the same face and the same kind of body form just much bigger."
+        }
+      ],
+      "from": "p10",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "portal"
+    }
+  ]
+}
