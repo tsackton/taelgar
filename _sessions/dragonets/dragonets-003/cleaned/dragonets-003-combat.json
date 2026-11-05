@@ -1,0 +1,567 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dragonets-003",
+    "sessionYaml": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+    "sessionYamlSha256": "43e7afa3314387efc4c3e858be4d0030fd63d766fa9ce9302c3e661841798457",
+    "transcriptPath": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-transcript.md",
+    "transcriptSha256": "4ff68ebd12dc245cef06400b0c583242a0403a757016f47ba0cbfba91670c9ec",
+    "segments": {
+      "path": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-segments.json",
+      "sha256": "a0392c86a87820dfab615476cca75973f4762c3b7ab400af14895afd95bc6281",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s009",
+      "encounter": "Wanderer against the dreadnought and escort fighters",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Aksha and Shai",
+              "kind": "turn",
+              "summary": "Fly toward an escort fighter and fire an energy beam; the shot misses.",
+              "evidence": [
+                {
+                  "startUid": "u1725",
+                  "endUid": "u1731"
+                }
+              ]
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "turn",
+              "summary": "Casts Bigby’s Hand, flavored as storm winds, on an escort fighter. It fails its DC 16 Dexterity save and is grappled, unable to move. Bonus-action crushing deals 18 damage. Concentrating on the Hand ends his earlier Enhance Ability on Little Tony.",
+              "evidence": [
+                {
+                  "startUid": "u1732",
+                  "endUid": "u1770"
+                },
+                {
+                  "startUid": "u2579",
+                  "endUid": "u2579"
+                }
+              ]
+            },
+            {
+              "actor": "Zeno",
+              "kind": "turn",
+              "summary": "Casts Synaptic Static (Stank Face) into a 20-foot sphere at an approaching fighter within roughly 60 feet. Its pilot succeeds on the DC 15 Intelligence save with 16; the table rolls 4d6 for half damage, dealing 20 psychic damage. The fighter wobbles off its smooth approach; no failed-save muddled-thoughts effect is established.",
+              "evidence": [
+                {
+                  "startUid": "u1771",
+                  "endUid": "u1799"
+                }
+              ]
+            },
+            {
+              "actor": "Escort fighter",
+              "kind": "turn",
+              "summary": "Fires an energy beam that hits Aksha and Shai’s vessel; damage is not quantified.",
+              "evidence": [
+                {
+                  "startUid": "u1800",
+                  "endUid": "u1814"
+                }
+              ]
+            },
+            {
+              "actor": "Heska",
+              "kind": "turn",
+              "summary": "Investigates activating the Wanderer’s eye lasers; an Acrobatics result of 29 unlocks them for the group.",
+              "evidence": [
+                {
+                  "startUid": "u1818",
+                  "endUid": "u1852"
+                }
+              ]
+            },
+            {
+              "actor": "Zeno",
+              "kind": "event",
+              "summary": "Gives Heska a 1d4 Hype Man bonus during his attempt to unlock the eye lasers; later dialogue confirms this use occurred this round.",
+              "evidence": [
+                {
+                  "startUid": "u1839",
+                  "endUid": "u1849"
+                },
+                {
+                  "startUid": "u1914",
+                  "endUid": "u1916"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadnought",
+              "kind": "turn",
+              "summary": "Makes two attacks against the Wanderer: 19 hits and 4 misses. A massive energy beam strikes its upper chest/shoulder for 128 damage, obliterating a chunk of the shoulder.",
+              "evidence": [
+                {
+                  "startUid": "u1853",
+                  "endUid": "u1866"
+                }
+              ]
+            },
+            {
+              "actor": "Escort fighter",
+              "kind": "turn",
+              "summary": "Attacks Aksha and Shai’s vessel and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1870",
+                  "endUid": "u1872"
+                }
+              ]
+            },
+            {
+              "actor": "Little Tony",
+              "kind": "turn",
+              "summary": "Activates Starry Form as a bonus action: a crowned hermit-crab constellation grants advantage on concentration checks as played. Casts Dispel Magic through the Wanderer’s pointing finger at a dreadnought laser. The DM permits advantage; Tony rolls 17 and receives Bardic Inspiration. One laser is disabled, initially described as at least partially disabled and later confirmed disabled.",
+              "evidence": [
+                {
+                  "startUid": "u1876",
+                  "endUid": "u1953"
+                },
+                {
+                  "startUid": "u2190",
+                  "endUid": "u2198"
+                },
+                {
+                  "startUid": "u2508",
+                  "endUid": "u2509"
+                }
+              ]
+            },
+            {
+              "actor": "Zeno",
+              "kind": "event",
+              "summary": "Provides Little Tony 1d10 Bardic Inspiration during Dispel Magic; the rolled bonus is 2.",
+              "evidence": [
+                {
+                  "startUid": "u1917",
+                  "endUid": "u1940"
+                }
+              ]
+            },
+            {
+              "actor": "Wanderer (party)",
+              "kind": "turn",
+              "summary": "Uses the collective Firstborn action to fire the newly unlocked eye lasers at the dreadnought’s engine area. Heska takes Steady Aim with advantage but rolls 15; Little Tony’s Cosmic Omen raises it to 19. The lasers hit the protective shield rather than the hull, dealing the final accepted 179 damage (25d12).",
+              "evidence": [
+                {
+                  "startUid": "u1954",
+                  "endUid": "u2036"
+                }
+              ]
+            },
+            {
+              "actor": "Little Tony",
+              "kind": "reaction",
+              "summary": "Uses Cosmic Omen as a reaction during the laser attack: adds 1d6, rolled as 4, raising Heska’s attack from 15 to 19.",
+              "evidence": [
+                {
+                  "startUid": "u2006",
+                  "endUid": "u2013"
+                }
+              ]
+            },
+            {
+              "actor": "Grappled escort fighter",
+              "kind": "turn",
+              "summary": "Cannot move; attacks with disadvantage as adjudicated and misses. It does not attempt escape.",
+              "evidence": [
+                {
+                  "startUid": "u2037",
+                  "endUid": "u2047"
+                }
+              ]
+            },
+            {
+              "actor": "Escort fighter",
+              "kind": "turn",
+              "summary": "Hits Aksha and Shai’s vessel again, leaving it visibly damaged.",
+              "evidence": [
+                {
+                  "startUid": "u2048",
+                  "endUid": "u2050"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Aksha and Shai",
+              "kind": "turn",
+              "summary": "Shoot the grappled fighter, without advantage after the table rejects that benefit. The hit leaves it badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u2051",
+                  "endUid": "u2060"
+                }
+              ]
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "turn",
+              "summary": "Casts Mirror Image through the Wanderer with an Arcana result of 29. Initial narration describes two replicas, but the later explicit correction establishes three starting duplicates. Bonus-action Bigby’s Hand crushing deals 15 damage, kills the grappled fighter’s occupant and drops the wreck into the sea.",
+              "evidence": [
+                {
+                  "startUid": "u2061",
+                  "endUid": "u2099"
+                },
+                {
+                  "startUid": "u2681",
+                  "endUid": "u2686"
+                }
+              ]
+            },
+            {
+              "actor": "Zeno",
+              "kind": "turn",
+              "summary": "Casts Wall of Force as a resonating wall of sound across the Wanderer’s chest: ten 10-foot panels, arranged roughly 20 by 50 feet. Nothing can physically pass; it blocks ethereal travel, is immune to damage and Dispel Magic, but Disintegrate can destroy it. The table permits seating the wall into the moving statue’s stone. Zeno maintains concentration thereafter.",
+              "evidence": [
+                {
+                  "startUid": "u2103",
+                  "endUid": "u2162"
+                },
+                {
+                  "startUid": "u2368",
+                  "endUid": "u2374"
+                },
+                {
+                  "startUid": "u2677",
+                  "endUid": "u2678"
+                }
+              ]
+            },
+            {
+              "actor": "Escort fighter",
+              "kind": "turn",
+              "summary": "Takes its announced turn targeting Aksha and Shai; the narration moves on without resolving hit, miss, or damage.",
+              "evidence": [
+                {
+                  "startUid": "u2163",
+                  "endUid": "u2164"
+                }
+              ]
+            },
+            {
+              "actor": "Heska",
+              "kind": "turn",
+              "summary": "Casts Enlarge on the willing Wanderer without a save, doubling its dimensions; its mirror images enlarge with it. Heska maintains concentration.",
+              "evidence": [
+                {
+                  "startUid": "u2165",
+                  "endUid": "u2189"
+                },
+                {
+                  "startUid": "u2706",
+                  "endUid": "u2708"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadnought",
+              "kind": "turn",
+              "summary": "One laser hits the Wanderer’s village, obliterating the town square and nearby homes while unhidden dragonets flee. A second attack against the Wanderer’s head misses.",
+              "evidence": [
+                {
+                  "startUid": "u2190",
+                  "endUid": "u2217"
+                }
+              ]
+            },
+            {
+              "actor": "Escort fighter",
+              "kind": "turn",
+              "summary": "Veers toward the Wanderer’s head and attacks; it misses.",
+              "evidence": [
+                {
+                  "startUid": "u2209",
+                  "endUid": "u2217"
+                }
+              ]
+            },
+            {
+              "actor": "Little Tony",
+              "kind": "turn",
+              "summary": "Uses his action to question the dreadnought about its occupants. Glenda’s advice grants advantage through Helpful Friend, improving Persuasion from 15 to 23. The hostile ship reveals a vulnerable place behind its central iris/energy beam; Tony relays this target. Wall of Stone to blind the bridge remains a proposal.",
+              "evidence": [
+                {
+                  "startUid": "u2218",
+                  "endUid": "u2253"
+                }
+              ]
+            },
+            {
+              "actor": "Wanderer (party)",
+              "kind": "turn",
+              "summary": "Uses the collective Firstborn action to punch the dreadnought’s iris while enlarged. Two of three coordination checks succeed; Heska’s Steady Aim attack hits with 26. The table accepts 283 damage after a 26d12 roll in place of the announced 25d12 + 100; the shield disintegrates.",
+              "evidence": [
+                {
+                  "startUid": "u2254",
+                  "endUid": "u2305"
+                }
+              ]
+            },
+            {
+              "actor": "Escort fighter",
+              "kind": "turn",
+              "summary": "Hits Aksha and Shai again, leaving them bloodied and in serious danger.",
+              "evidence": [
+                {
+                  "startUid": "u2306",
+                  "endUid": "u2312"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Aksha and Shai",
+              "kind": "turn",
+              "summary": "Remain in the fight despite being bloodied and hit a wounded escort with their laser, bloodying it. Through the telepathic connection they tell the party not to worry about them and to bring down the dreadnought.",
+              "evidence": [
+                {
+                  "startUid": "u2306",
+                  "endUid": "u2320"
+                }
+              ]
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "turn",
+              "summary": "Casts a fifth-level Lightning Bolt through the Wanderer at a wounded escort and onward into the dreadnought’s iris. A Dexterity save is requested but its result is not stated; 31 damage disables the escort and 31 is accepted for the dreadnought. Moves Bigby’s Hand for a bonus-action punch at the iris; its 13 is clarified as the attack roll, so it misses rather than dealing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2321",
+                  "endUid": "u2367"
+                }
+              ]
+            },
+            {
+              "actor": "Zeno",
+              "kind": "turn",
+              "summary": "Maintains Wall of Force and uses Call and Response to make the dreadnought answer his downward-pointing gesture. It fails the DC 15 save and must spend one action responding on its own turn; this does not force an immediate nosedive.",
+              "evidence": [
+                {
+                  "startUid": "u2368",
+                  "endUid": "u2420"
+                }
+              ],
+              "note": "The save ability is not stated here; the repeated use in the next cycle explicitly calls for Wisdom."
+            },
+            {
+              "actor": "Dreadnought",
+              "kind": "legendary_action",
+              "summary": "Before Heska acts, fires its main cannon at the Wanderer’s upper body as a legendary action. The hit strikes and destroys a mirror image instead; two duplicates remain under the later corrected starting count. The cannon begins charging again.",
+              "evidence": [
+                {
+                  "startUid": "u2421",
+                  "endUid": "u2446"
+                },
+                {
+                  "startUid": "u2681",
+                  "endUid": "u2686"
+                }
+              ]
+            },
+            {
+              "actor": "Heska",
+              "kind": "turn",
+              "summary": "Investigates the Wanderer’s shields with a result of 29. Tuning to Zeno’s wall unlocks a similar force field that must be positioned over one body part, not the whole statue. The new shield is not activated.",
+              "evidence": [
+                {
+                  "startUid": "u2447",
+                  "endUid": "u2470"
+                },
+                {
+                  "startUid": "u2701",
+                  "endUid": "u2705"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadnought",
+              "kind": "turn",
+              "summary": "Loses one useful attack to Call and Response: its beam sweeps into the ocean. Its other attack partially hits the village, missing the center but ripping through outlying homes.",
+              "evidence": [
+                {
+                  "startUid": "u2482",
+                  "endUid": "u2494"
+                }
+              ]
+            },
+            {
+              "actor": "Little Tony",
+              "kind": "turn",
+              "summary": "Attempts Dispel Magic on another laser. The immediate exchange does not give a clear roll or result; a later statement says only three lasers remain, versus four before this attempt, but does not explicitly attribute that change to this spell.",
+              "evidence": [
+                {
+                  "startUid": "u2513",
+                  "endUid": "u2525"
+                },
+                {
+                  "startUid": "u2680",
+                  "endUid": "u2680"
+                }
+              ],
+              "note": "Do not treat the later gun count as an explicit confirmation that this Dispel Magic succeeded."
+            },
+            {
+              "actor": "Wanderer (party)",
+              "kind": "turn",
+              "summary": "Attempts a collective Hunter’s Pounce through the dreadnought’s iris to extract its pilot. Zeno retains Enhance Ability advantage; Little Tony does not, because Sculpit is concentrating on Bigby’s Hand. Final coordination results include Sculpit 21, Tony 26 and Zeno 17 after a 1d6 boost. Heska rolls 11 on two dice, then Bardic Inspiration raises the attack to 18. The glancing hit deals 87 damage (10d12 + 25); Acrobatics 29 lets Heska extract the occupant, but the giant hand squashes it. The dreadnought loses its bearings.",
+              "evidence": [
+                {
+                  "startUid": "u2526",
+                  "endUid": "u2637"
+                }
+              ]
+            },
+            {
+              "actor": "Little Tony",
+              "kind": "reaction",
+              "summary": "Gives Zeno another 1d6 boost during the collective action; it adds 3, raising his check from 14 to 17.",
+              "evidence": [
+                {
+                  "startUid": "u2584",
+                  "endUid": "u2595"
+                }
+              ],
+              "note": "The source calls it another d6, continuing the earlier Cosmic Omen use."
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "event",
+              "summary": "Offers 1d10 Bardic Inspiration during Heska’s pounce attack; the accepted bonus raises 11 to 18.",
+              "evidence": [
+                {
+                  "startUid": "u2602",
+                  "endUid": "u2610"
+                }
+              ]
+            },
+            {
+              "actor": "Escort fighter",
+              "kind": "turn",
+              "summary": "Hits Aksha and Shai’s vessel, sending it crashing down. Their reassurance cuts off as the telepathic connection falls silent. The DM says one escort remains.",
+              "evidence": [
+                {
+                  "startUid": "u2638",
+                  "endUid": "u2644"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Sculpit",
+              "kind": "turn",
+              "summary": "Uses Bigby’s Hand on the remaining escort: it fails a DC 16 Dexterity save, is grappled, and takes 12 damage. Casts Lightning Bolt through the Wanderer into the dreadnought’s cockpit/iris, rolling 28 damage with save-for-half stated; the save result and applied amount are not specified. The iris is bloodied and the dreadnought is near defeat.",
+              "evidence": [
+                {
+                  "startUid": "u2645",
+                  "endUid": "u2676"
+                }
+              ]
+            },
+            {
+              "actor": "Zeno",
+              "kind": "turn",
+              "summary": "Maintains Wall of Force and repeats Call and Response with a synchronized spin and point. The dreadnought fails its DC 15 Wisdom save with 14; the third laser’s commander must respond.",
+              "evidence": [
+                {
+                  "startUid": "u2677",
+                  "endUid": "u2699"
+                }
+              ]
+            },
+            {
+              "actor": "Heska",
+              "kind": "turn",
+              "summary": "Maintains Enlarge, leaves the unlocked shield inactive and tests the Wanderer’s jumping ability. A check with advantage totals 27 and establishes that the now-larger-than-the-dreadnought statue can jump.",
+              "evidence": [
+                {
+                  "startUid": "u2701",
+                  "endUid": "u2727"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadnought",
+              "kind": "turn",
+              "summary": "Call and Response diverts one regular laser into the ocean. After its separately recorded main-cannon blast, the remaining regular attack misses the village center but scorches buildings on the outskirts.",
+              "evidence": [
+                {
+                  "startUid": "u2731",
+                  "endUid": "u2757"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadnought",
+              "kind": "legendary_action",
+              "summary": "Uses the main cannon as another explicitly named legendary action during this sequence. Its hit destroys a second mirror image; one remains. The later maul narration mentions both other images, but no image restoration occurs.",
+              "evidence": [
+                {
+                  "startUid": "u2737",
+                  "endUid": "u2746"
+                },
+                {
+                  "startUid": "u2769",
+                  "endUid": "u2771"
+                }
+              ]
+            },
+            {
+              "actor": "Little Tony",
+              "kind": "turn",
+              "summary": "Casts Wall of Stone, stacking its segments into a giant stone maul/spike held by the Wanderer. The DM accepts the fabrication for the coming leap.",
+              "evidence": [
+                {
+                  "startUid": "u2758",
+                  "endUid": "u2771"
+                }
+              ]
+            },
+            {
+              "actor": "Wanderer (party)",
+              "kind": "turn",
+              "summary": "The collective Firstborn action achieves full coordination. Heska uses Acrobatics instead of an attack roll, giving the final result as 25. The enlarged Wanderer leaps onto the dreadnought and drives the stone maul through its cockpit. The table accepts 410 damage from 40d12 + 150 using the average, bringing the dreadnought down in wreckage on the shore. The party then makes short work of the last escort.",
+              "evidence": [
+                {
+                  "startUid": "u2772",
+                  "endUid": "u2814"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The dreadnought is wrecked on the shore and the final escort is destroyed. The village is damaged and Aksha and Shai’s vessel has crashed with its occupants silent; their medical outcome is established after initiative.",
+        "evidence": [
+          {
+            "startUid": "u2811",
+            "endUid": "u2814"
+          }
+        ]
+      },
+      "note": "Four escort fighters launch, but the later narration reduces their count without individually accounting for every loss. Fighter labels are local descriptions, not invented persistent identities; no missing turn or kill is supplied."
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "5d910a71251e73bcfaa7749dd693ba5831bce56e8f752ca6e995e165540b886f",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "4ff68ebd12dc245cef06400b0c583242a0403a757016f47ba0cbfba91670c9ec",
+        "transcriptProcessing.artifacts.cleaned": "7987e2caaa5ce9d83758c717990ac6e843e3bb320704094f2cb65ddc8b9d3c02"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Shai",
+      "kind": "npc",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0038",
+            "endUid": "u0046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1101",
+            "endUid": "u1162"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1531",
+            "endUid": "u1583"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2306",
+            "endUid": "u2320"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2638",
+            "endUid": "u2644"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2850",
+            "endUid": "u2875"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3082",
+            "endUid": "u3097"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The explicit aftermath correction identifies Shai as the survivor, but the final warning names Aksha; preserve the legacy Shai reading pending source-name review."
+    },
+    {
+      "id": "e002",
+      "label": "Aksha",
+      "kind": "npc",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0038",
+            "endUid": "u0046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1104",
+            "endUid": "u1162"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1223",
+            "endUid": "u1237"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1531",
+            "endUid": "u1583"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2306",
+            "endUid": "u2320"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2638",
+            "endUid": "u2644"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2850",
+            "endUid": "u2869"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e003",
+      "label": "Wanderer statue",
+      "kind": "item",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0053",
+            "endUid": "u0082"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0250",
+            "endUid": "u0257"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0464",
+            "endUid": "u0486"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0863",
+            "endUid": "u0884"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2791",
+            "endUid": "u2814"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3039",
+            "endUid": "u3043"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Wanderer"
+      ]
+    },
+    {
+      "id": "e004",
+      "label": "Shaman Oru",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0885",
+            "endUid": "u0895"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0987",
+            "endUid": "u1019"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1076",
+            "endUid": "u1086"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1584",
+            "endUid": "u1634"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Oru",
+        "the shaman"
+      ]
+    },
+    {
+      "id": "e005",
+      "label": "Roska",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0935",
+            "endUid": "u0942"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1303",
+            "endUid": "u1308"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1610",
+            "endUid": "u1634"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e006",
+      "label": "Glenda",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0833",
+            "endUid": "u0833"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2234",
+            "endUid": "u2240"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Glenda the seagull"
+      ]
+    },
+    {
+      "id": "e007",
+      "label": "Jimmy the Squid",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1422",
+            "endUid": "u1423"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e008",
+      "label": "Visitors’ scanner",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0038",
+            "endUid": "u0046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1557",
+            "endUid": "u1583"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The retrieved scanner fits the opening energy meter, but the transcript never explicitly confirms that both devices are the same object.",
+      "names": [
+        "energy meter device",
+        "scanner"
+      ]
+    },
+    {
+      "id": "e009",
+      "label": "Mysterious egg",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0065",
+            "endUid": "u0076"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1326",
+            "endUid": "u1331"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1351",
+            "endUid": "u1406"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e010",
+      "label": "Dying dragonet in the shared vision",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0065",
+            "endUid": "u0076"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1387",
+            "endUid": "u1402"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e011",
+      "label": "Greenstone hand in the vision",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1392",
+            "endUid": "u1402"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The recollection identifies a particular greenstone hand, but does not resolve whose hand it is or whether the remembered breakage is accurate.",
+      "names": [
+        "jade hand"
+      ]
+    },
+    {
+      "id": "e012",
+      "label": "Dreadnought",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1656",
+            "endUid": "u1684"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2239",
+            "endUid": "u2253"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2811",
+            "endUid": "u2814"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2857",
+            "endUid": "u2914"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3069",
+            "endUid": "u3081"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Its hostile voice and specimen cargo support a distinct object identity, though a vessel treated chiefly as the battle setting could instead be excluded."
+    },
+    {
+      "id": "e013",
+      "label": "Dragon-like eggs in the specimen vault",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2908",
+            "endUid": "u2914"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2960",
+            "endUid": "u2965"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2982",
+            "endUid": "u3003"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3039",
+            "endUid": "u3068"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The eggs are a consequential rescued collection; their species and nature remain unknown, making item versus creature grouping provisional."
+    },
+    {
+      "id": "e014",
+      "label": "Creature rescued by Zeno",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2954",
+            "endUid": "u2959"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3048",
+            "endUid": "u3068"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Zeno singles out a particular creature as his little friend, but its appearance and ongoing individual identity are barely established."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Aksha and Shai’s vessel",
+      "reason": "Transport and combat platform with no separate identity beyond its travelers and these crashes; spatial presence is retained in location markers.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0917",
+            "endUid": "u0942"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1223",
+            "endUid": "u1237"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2638",
+            "endUid": "u2644"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Dreadnought pilots and escort crews",
+      "reason": "Unidentified combat occupants and casualties; no individual character identity is established beyond piloting, attacking, and being crushed.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2094",
+            "endUid": "u2099"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2630",
+            "endUid": "u2637"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Roska’s clansmen and island dragonet crowds",
+      "reason": "Onlookers, bodyguards and evacuees do not establish a separately identifiable organization here; named participants are mapped individually.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0695",
+            "endUid": "u0706"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0935",
+            "endUid": "u0942"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1051",
+            "endUid": "u1071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1627",
+            "endUid": "u1634"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Captive creatures as a collective",
+      "reason": "Anonymous prisoners are central to the rescue but are not a persistent organization or individually identified NPCs; Zeno’s singled-out creature is separately proposed.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2857",
+            "endUid": "u2866"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2893",
+            "endUid": "u2924"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2936",
+            "endUid": "u2947"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3035",
+            "endUid": "u3068"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Conjured stone maul and rubble dragonet",
+      "reason": "Spell-created combat equipment and a rescue summon are uses of character abilities, not independently established items or companions.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2758",
+            "endUid": "u2771"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3018",
+            "endUid": "u3043"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Bigby’s Hand, mirror images and crowned hermit-crab constellation",
+      "reason": "Routine spell or class-ability manifestations, without an independent encountered identity in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1735",
+            "endUid": "u1765"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1876",
+            "endUid": "u1879"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2075",
+            "endUid": "u2087"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wellby",
+      "reason": "Out-of-character comparison to another campaign’s rogue mechanics, not an in-world reference by the dragonets.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0357",
+            "endUid": "u0357"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Firstborn and unnamed gods",
+      "reason": "Firstborn labels the four YAML-owned PCs here; generic references to gods do not identify another distinct divine being or organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1264",
+            "endUid": "u1275"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1531",
+            "endUid": "u1544"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dragonets/Session Notes/Dragonets - Session 01.md",
+    "Campaigns/Dragonets/Session Notes/Dragonets - Session 02.md",
+    "Campaigns/Dragonets/The Shared Vision of Home.md",
+    "Gazetteer/Drankorian Hinterland/Circular Island.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wanderer.md",
+    "Creatures/Bestiary/Dragonets.md"
+  ]
+}

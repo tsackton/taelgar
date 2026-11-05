@@ -1,0 +1,769 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dragonets-003",
+    "sessionYaml": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+    "sessionYamlSha256": "43e7afa3314387efc4c3e858be4d0030fd63d766fa9ce9302c3e661841798457",
+    "transcriptPath": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-transcript.md",
+    "transcriptSha256": "4ff68ebd12dc245cef06400b0c583242a0403a757016f47ba0cbfba91670c9ec"
+  },
+  "places": {
+    "p01": {
+      "label": "Wanderer’s cockpit",
+      "evidence": [
+        {
+          "startUid": "u0053",
+          "endUid": "u0064",
+          "quote": "sitting inside… a cockpit."
+        }
+      ],
+      "kind": "room",
+      "note": "Inside the mobile statue’s chest; distinct from the deity represented by it.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0077",
+              "endUid": "u0082",
+              "quote": "Sitting in these seats, inside the chest of the Wanderer"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Wanderer",
+      "evidence": [
+        {
+          "startUid": "u0077",
+          "endUid": "u0082",
+          "quote": "Sitting in these seats, inside the chest of the Wanderer"
+        }
+      ],
+      "kind": "statue",
+      "mobile": true
+    },
+    "p03": {
+      "label": "Ocean beside the Wanderer’s beach",
+      "evidence": [
+        {
+          "startUid": "u0757",
+          "endUid": "u0762",
+          "quote": "the Wanderer is, like, walking into the ocean"
+        }
+      ],
+      "kind": "coastal water"
+    },
+    "p04": {
+      "label": "Dark Lady crash site",
+      "evidence": [
+        {
+          "startUid": "u0885",
+          "endUid": "u0895",
+          "quote": "Come to the Dark Lady. Something has come out of the sky, and it's crashed here."
+        },
+        {
+          "startUid": "u0935",
+          "endUid": "u0942",
+          "quote": "you can actually see this crash site."
+        }
+      ],
+      "kind": "crash site"
+    },
+    "p05": {
+      "label": "Wanderer’s eye",
+      "evidence": [
+        {
+          "startUid": "u1051",
+          "endUid": "u1053",
+          "quote": "you fly out of the eyeball"
+        }
+      ],
+      "kind": "threshold",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1046",
+              "endUid": "u1046",
+              "quote": "fly out of its eyeball"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Wreck of Aksha and Shai’s vessel",
+      "evidence": [
+        {
+          "startUid": "u2638",
+          "endUid": "u2643",
+          "quote": "Shai and Aksha have taken a blow and they are going down."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "note": "The allied craft after its combat crash; its earlier landing near the Dark Lady is a separate event."
+    },
+    "p07": {
+      "label": "Dreadnought",
+      "evidence": [
+        {
+          "startUid": "u1666",
+          "endUid": "u1669",
+          "quote": "It's a fucking dreadnought."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true
+    },
+    "p08": {
+      "label": "Specimen vault",
+      "evidence": [
+        {
+          "startUid": "u2920",
+          "endUid": "u2924",
+          "quote": "it's like a specimen vault."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2893",
+              "endUid": "u2900",
+              "quote": "you end up in a room inside the ship"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Wanderer’s village",
+      "evidence": [
+        {
+          "startUid": "u2199",
+          "endUid": "u2208",
+          "quote": "obliterating the town square of the Wanderer's village"
+        }
+      ],
+      "kind": "settlement"
+    },
+    "p10": {
+      "label": "Circular Island",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "back into the circular island"
+        }
+      ],
+      "kind": "island",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+      "note": "Identity only; the vault’s DR 1749 geography does not date this undated campaign."
+    },
+    "p11": {
+      "label": "Shore beside the wrecked dreadnought",
+      "evidence": [
+        {
+          "startUid": "u2811",
+          "endUid": "u2814",
+          "quote": "the dreadnought, which crashes into the shore"
+        }
+      ],
+      "kind": "shore"
+    },
+    "p12": {
+      "label": "Storm around the island",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "cross through the barriers of the storm, back into the circular island"
+        }
+      ],
+      "kind": "storm boundary"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0047",
+        "endUid": "u0064"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party starts seated in the cockpit inside the Wanderer on the island.",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "inside the statue of the Wanderer"
+        },
+        {
+          "startUid": "u0053",
+          "endUid": "u0064",
+          "quote": "sitting inside… a cockpit."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "on",
+          "target": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0464",
+        "endUid": "u0486"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party gains sight through the Wanderer’s eyes while remaining inside its cockpit; Sculpit learns to switch his attention between the views.",
+      "evidence": [
+        {
+          "startUid": "u0471",
+          "endUid": "u0475",
+          "quote": "you see… in the distance… a storm, and amazing clouds, and… you're looking through the eyes of the Wanderer."
+        },
+        {
+          "startUid": "u0478",
+          "endUid": "u0484",
+          "quote": "looking around the cockpit."
+        }
+      ],
+      "place": "p12",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "note": "The view establishes sight, not the party leaving the statue."
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0695",
+        "endUid": "u0762"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party pilots the Wanderer off its starting beach into the ocean, remaining in the cockpit.",
+      "evidence": [
+        {
+          "startUid": "u0695",
+          "endUid": "u0706",
+          "quote": "that second step, like, actually splashes into… the beach"
+        },
+        {
+          "startUid": "u0757",
+          "endUid": "u0762",
+          "quote": "The Wanderer takes the first step, and then another step, and another step."
+        },
+        {
+          "startUid": "u0757",
+          "endUid": "u0762",
+          "quote": "the Wanderer is, like, walking into the ocean"
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "vehicle": "p02",
+      "mode": "pilot statue",
+      "route": [
+        {
+          "reading": "The statue steps from its beach into the ocean.",
+          "place": "p03"
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "in",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0805",
+        "endUid": "u0806"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees underwater through the Wanderer after putting its head beneath the surface.",
+      "evidence": [
+        {
+          "startUid": "u0805",
+          "endUid": "u0806",
+          "quote": "you put your head under the water. And you can indeed see."
+        }
+      ],
+      "place": "p03",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0917",
+        "endUid": "u1014"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Still inside the Wanderer, the party moves along the shore toward the Dark Lady crash site and brings the statue alongside the gathering.",
+      "evidence": [
+        {
+          "startUid": "u0917",
+          "endUid": "u0927",
+          "quote": "start trotting over, to the other, just down the beach, down the shore"
+        },
+        {
+          "startUid": "u0928",
+          "endUid": "u0934",
+          "quote": "And as you all arrive"
+        },
+        {
+          "startUid": "u1013",
+          "endUid": "u1014",
+          "quote": "they're all, they're all looking at you"
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "vehicle": "p02",
+      "mode": "pilot statue",
+      "route": [
+        {
+          "reading": "Travel along the shore to the crash-site vicinity.",
+          "place": "p04"
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "near",
+          "target": "p04"
+        }
+      ],
+      "note": "The cockpit remains the party’s physical setting until they exit; no arrival inside the crashed vessel is implied."
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0935",
+        "endUid": "u0942"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Through the Wanderer’s eyes the party sees the crash site and the gathering below.",
+      "evidence": [
+        {
+          "startUid": "u0935",
+          "endUid": "u0942",
+          "quote": "with the Wanderer's eyes, you can actually see this crash site."
+        },
+        {
+          "startUid": "u0935",
+          "endUid": "u0942",
+          "quote": "One of them is Shaman Oru"
+        },
+        {
+          "startUid": "u0935",
+          "endUid": "u0942",
+          "quote": "you also see Roska there"
+        }
+      ],
+      "place": "p04",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1042",
+        "endUid": "u1071"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party parks the Wanderer and flies out through its eye, stopping among onlookers and preventing three dragonets from entering.",
+      "evidence": [
+        {
+          "startUid": "u1042",
+          "endUid": "u1042",
+          "quote": "let's just stand back up and leave it parked in the original position"
+        },
+        {
+          "startUid": "u1051",
+          "endUid": "u1053",
+          "quote": "you fly out of the eyeball"
+        },
+        {
+          "startUid": "u1068",
+          "endUid": "u1071",
+          "quote": "as you all fully kind of get within a certain radius away from the eyeball"
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Original position refers to the accepted standing pose; a return to the distant starting beach is not established."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1072",
+        "endUid": "u1167"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party flies down to the crash-site gathering and meets Oru, Shai and Aksha.",
+      "evidence": [
+        {
+          "startUid": "u1076",
+          "endUid": "u1083",
+          "quote": "Approach the this this crash site"
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1142",
+          "quote": "you're, you're like literally like kind of group hugging them right now."
+        },
+        {
+          "startUid": "u1148",
+          "endUid": "u1153",
+          "quote": "And you sit… finally, to… actually speak."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1652",
+        "endUid": "u1684"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the Wanderer’s cockpit as the dreadnought breaches the storm.",
+      "evidence": [
+        {
+          "startUid": "u1652",
+          "endUid": "u1652",
+          "quote": "Back to the statue."
+        },
+        {
+          "startUid": "u1675",
+          "endUid": "u1684",
+          "quote": "Get back into the Wanderer, and settle into your cockpits"
+        }
+      ],
+      "from": "p04",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u2190",
+        "endUid": "u2217"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the Wanderer the party witnesses the bombardment of its village; this is not a visit.",
+      "evidence": [
+        {
+          "startUid": "u2199",
+          "endUid": "u2208",
+          "quote": "you see a massive energy beam coming from this ship, obliterating the town square of the Wanderer's village"
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2791",
+        "endUid": "u2814"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Piloting the enlarged Wanderer, the party leaps onto the dreadnought and brings it down on the shore.",
+      "evidence": [
+        {
+          "startUid": "u2791",
+          "endUid": "u2796",
+          "quote": "leaps up through the air"
+        },
+        {
+          "startUid": "u2811",
+          "endUid": "u2814",
+          "quote": "the dreadnought, which crashes into the shore and is wrecked"
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "vehicle": "p02",
+      "mode": "leap aboard statue",
+      "route": [
+        {
+          "reading": "The Wanderer leaps onto the dreadnought, driving it onto the shore.",
+          "place": "p11"
+        }
+      ],
+      "note": "The party remains inside the Wanderer; this attack does not establish entry into the dreadnought."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2815",
+        "endUid": "u2856"
+      },
+      "actors": [
+        "Little Tony"
+      ],
+      "reading": "Little Tony leaves the Wanderer and reaches the allied wreck to attempt healing and revival.",
+      "evidence": [
+        {
+          "startUid": "u2815",
+          "endUid": "u2815",
+          "quote": "go over to the two Travelers to cast Revivify on them."
+        },
+        {
+          "startUid": "u2823",
+          "endUid": "u2823",
+          "quote": "You head over to the ship."
+        },
+        {
+          "startUid": "u2850",
+          "endUid": "u2851",
+          "quote": "when you get there"
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2857",
+        "endUid": "u2866"
+      },
+      "actors": [
+        "Little Tony"
+      ],
+      "reading": "At the allied wreck, Little Tony senses hundreds of childlike beings inside the nearby dreadnought.",
+      "evidence": [
+        {
+          "startUid": "u2857",
+          "endUid": "u2866",
+          "quote": "the ship crash is actually not that far from the location of the dreadnought crash."
+        },
+        {
+          "startUid": "u2857",
+          "endUid": "u2866",
+          "quote": "you are sensing beings in the dreadnought."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2879",
+        "endUid": "u2900"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All four enter holes in the dreadnought wreck and reach its specimen vault.",
+      "evidence": [
+        {
+          "startUid": "u2889",
+          "endUid": "u2889",
+          "quote": "is everybody joining? Yeah."
+        },
+        {
+          "startUid": "u2893",
+          "endUid": "u2900",
+          "quote": "you you you fly in"
+        },
+        {
+          "startUid": "u2893",
+          "endUid": "u2900",
+          "quote": "you end up in a room inside the ship"
+        }
+      ],
+      "from": null,
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Approach and enter gaps in the dreadnought wreck.",
+          "place": "p07"
+        }
+      ],
+      "note": "Tony’s prior position is the allied wreck; the other PCs’ individual departure points are not narrated."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2982",
+        "endUid": "u3043"
+      },
+      "actors": [
+        "Sculpit"
+      ],
+      "reading": "Sculpit teleports between the specimen vault and the Wanderer while rescuing eggs, with three trips permitted and repeated transport accepted.",
+      "evidence": [
+        {
+          "startUid": "u2982",
+          "endUid": "u2982",
+          "quote": "I'm gonna like go grab some eggs and teleport out. Does it work?"
+        },
+        {
+          "startUid": "u2986",
+          "endUid": "u2986",
+          "quote": "Back to the Wanderer."
+        },
+        {
+          "startUid": "u2987",
+          "endUid": "u2989",
+          "quote": "You can make it there."
+        },
+        {
+          "startUid": "u2995",
+          "endUid": "u2997",
+          "quote": "you can do this 3 times."
+        },
+        {
+          "startUid": "u2998",
+          "endUid": "u3001",
+          "quote": "sure, I'll, I'll do it."
+        },
+        {
+          "startUid": "u3039",
+          "endUid": "u3043",
+          "quote": "Sculpit is also effectively now, has moved a bunch of eggs directly into the Wanderer."
+        }
+      ],
+      "from": "p08",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "The exact deposit room inside the Wanderer is not specified."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u3048",
+        "endUid": "u3081"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The rescuers escape the dreadnought with a rescued creature and many other beings before it explodes; the exact outdoor landing place is not stated.",
+      "evidence": [
+        {
+          "startUid": "u3055",
+          "endUid": "u3055",
+          "quote": "And fly out, rescuing my little friend."
+        },
+        {
+          "startUid": "u3069",
+          "endUid": "u3071",
+          "quote": "As you make your final escape"
+        },
+        {
+          "startUid": "u3072",
+          "endUid": "u3081",
+          "quote": "You fly out now"
+        }
+      ],
+      "from": "p08",
+      "to": null,
+      "completion": "underway",
+      "mode": "escape",
+      "note": "Escape from the ship is complete; arrival at a specific landing site is not established. Sculpit’s egg transport is separately recorded."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3082",
+        "endUid": "u3097"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the allied wreck and hears the surviving traveler’s warning.",
+      "evidence": [
+        {
+          "startUid": "u3082",
+          "endUid": "u3090",
+          "quote": "And you go back to go and visit… Aksha, who is… still alive…"
+        },
+        {
+          "startUid": "u3082",
+          "endUid": "u3090",
+          "quote": "He's… in the ship…"
+        }
+      ],
+      "from": null,
+      "to": "p06",
+      "completion": "arrived",
+      "note": "The source says Aksha here, contrary to its earlier explicit correction to Shai; spatial placement is clear despite the name conflict."
+    }
+  ]
+}
