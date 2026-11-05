@@ -1,0 +1,901 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-038",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-session.yaml",
+    "sessionYamlSha256": "102a6702cc6dfbcc1e1da236baf170f899aaa7ae2388c09c9b481f6f849ceb8c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-transcript.md",
+    "transcriptSha256": "f849faf2c9ca5d468175738e2860ecff7b3ef65a7d07e59e0e638da5a1984bc0"
+  },
+  "places": {
+    "p01": {
+      "label": "Tokra",
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1262",
+          "quote": "Riswynn: Are the archives near the Iron Swan?\n\nDM: Close-ish. I mean Tokra is not that big a city."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p02": {
+      "label": "Werewolf den in northern Tokra",
+      "evidence": [
+        {
+          "startUid": "u2237",
+          "endUid": "u2242",
+          "quote": "Kenzo: Yeah on and there is currently a den—a building in north Tokra where my companions currently are now, that is, has some bodies of dead werewolves there that would be worthy of the city to investigate and when we arrived in this compound we also discovered the missing archivist, Govir who had been turned into a werewolf that has now been freed and also thanks to our companion Riswynn is now now cured right? You're."
+        }
+      ],
+      "kind": "lair",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lair of the Fraternity of the Empty Moon.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2237",
+              "endUid": "u2242",
+              "quote": "Kenzo: Yeah on and there is currently a den—a building in north Tokra where my companions currently are now, that is, has some bodies of dead werewolves there that would be worthy of the city to investigate and when we arrived in this compound we also discovered the missing archivist, Govir who had been turned into a werewolf that has now been freed and also thanks to our companion Riswynn is now now cured right? You're."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Kitchen / dining hall",
+      "evidence": [
+        {
+          "startUid": "u0028",
+          "endUid": "u0035",
+          "quote": "DM: Mind jumps back to the present as the sounds of battle fade. For a moment terror grips him, for he knows not who won. Then the reassuring clatter of the rope ladder that miraculously came to life at the command of the dwarf tells him he might really be saved, and gratitude for Jeevali, for Laka, Bhishma, Shakun, for the whole divine family fills his heart. He pauses praying silently, staying hidden until told otherwise as we drift back to the dining hall, the dead bodies, scattered papers tossed off the table and our four adventurers standing, catching your breath after the battle.\n\nDM: So you are all standing here, looking about. There are several dead bodies. This is a kitchen; there’s a table that's been sort of pushed over and a bunch of papers scattered around. Many of you are wounded, to varying degrees."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0031",
+              "endUid": "u0035",
+              "quote": "DM: So you are all standing here, looking about. There are several dead bodies. This is a kitchen; there’s a table that's been sort of pushed over and a bunch of papers scattered around. Many of you are wounded, to varying degrees."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Shoemaker shop",
+      "evidence": [
+        {
+          "startUid": "u0059",
+          "endUid": "u0063",
+          "quote": "DM: Yeah that door is opening because some couple of werewolves came through there. It looks like a sort of seedy-looking shoemaker shop, there are some like leather shoes on display and a workbench. The that out, then there's this outer door is at the moment, closed as well.\n\nDelwath: Does that lead to the outside?\n\nDM: That leads to the street yeah."
+        }
+      ],
+      "kind": "shop",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0050",
+              "endUid": "u0063",
+              "quote": "Delwath: Check around to make sure we really killed. Just—but there's there's still doors out right? Like that we haven't gone upstairs yet. Is that correct?\n\nDM: You haven't gone out it's like there's.\n\nDelwath: A whole stair here in a door here. In this.\n\nDM: Yeah so. This door is open, you can see through there that there's like what looks like a.\n\nDelwath: Which that this door?\n\nDM: Yeah that door is opening because some couple of werewolves came through there. It looks like a sort of seedy-looking shoemaker shop, there are some like leather shoes on display and a workbench. The that out, then there's this outer door is at the moment, closed as well.\n\nDelwath: Does that lead to the outside?\n\nDM: That leads to the street yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Upstairs sleeping floor",
+      "evidence": [
+        {
+          "startUid": "u0065",
+          "endUid": "u0070",
+          "quote": "DM: Upstairs is—so, so, Delwath you're gonna go search upstairs.\n\nDelwath: I’m gonna go, yeah. You're gonna go at least walk upstairs.\n\nDM: Okay, so there's like a hallway with a bunch of doors and then there's another door all these doors are shut."
+        }
+      ],
+      "kind": "floor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0065",
+              "endUid": "u0070",
+              "quote": "DM: Upstairs is—so, so, Delwath you're gonna go search upstairs.\n\nDelwath: I’m gonna go, yeah. You're gonna go at least walk upstairs.\n\nDM: Okay, so there's like a hallway with a bunch of doors and then there's another door all these doors are shut."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Master bedroom with calendar",
+      "evidence": [
+        {
+          "startUid": "u0165",
+          "endUid": "u0173",
+          "quote": "DM: Okay, so Wellby you're just kind of sticking your head in everywhere to get a sense and look for a secret doors, yeah? Um. And you're spending 10 minutes, so this is about 10 minutes, make it make an investigation check for me. Okay, so you you don't see anything along this wall, or you sort of stick your head in this other door. I'm. When you stick your head in this furthermost, this furthermost door down here, this is like the master bedroom. Windows are boarded up. The—the room is bare except for one wall on which there's like an enormous calendar that has been drawn. It starts in March of this year and there's 13 dates that are all sort of drawn as large circles, instead of squares. The days, up to the current day are like painted over with slashes and August 1 is like circled in red."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0165",
+              "endUid": "u0173",
+              "quote": "DM: Okay, so Wellby you're just kind of sticking your head in everywhere to get a sense and look for a secret doors, yeah? Um. And you're spending 10 minutes, so this is about 10 minutes, make it make an investigation check for me. Okay, so you you don't see anything along this wall, or you sort of stick your head in this other door. I'm. When you stick your head in this furthermost, this furthermost door down here, this is like the master bedroom. Windows are boarded up. The—the room is bare except for one wall on which there's like an enormous calendar that has been drawn. It starts in March of this year and there's 13 dates that are all sort of drawn as large circles, instead of squares. The days, up to the current day are like painted over with slashes and August 1 is like circled in red."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Basement storeroom",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "DM: Okay. So, as the noise of the battle echoes above—the sound of fists hitting flesh, the crack of the rope ladder leaping and lunging at its enemies, the snarls of wolfish creatures—a man in a dirty torn robe crouches among the empty barrels of this basement store."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0003",
+              "quote": "DM: Okay. So, as the noise of the battle echoes above—the sound of fists hitting flesh, the crack of the rope ladder leaping and lunging at its enemies, the snarls of wolfish creatures—a man in a dirty torn robe crouches among the empty barrels of this basement store."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Basement approach hallway",
+      "evidence": [
+        {
+          "startUid": "u1396",
+          "endUid": "u1413",
+          "quote": "DM: Yeah you could do that. Right so on the top floor Wellby you're like pretty convinced there's nothing. I mean you can tell just by the sort of shape of the building and the weight like you can sort of way the walls are set up there's like not. There's not really space for there to be any kind of chests or secret rooms, or anything up here. You do find a handful of extra coins another—another eight gold scattered among the like straw piles and there's like faint traces of blood and you know the occasional like bone of a small animal I'm tossed among the sort of rags and straw in the sleeping quarters. But otherwise, like other than this like big sort of calendar, there's nothing obvious up here. When you head downstairs um. You know you work slowly along the—you know, the—the entire bottom floor all the way to the room that sort of—like you came through that secret door into like a little hallway and then, when that and in that room like opposite the opposite wall of the secret door that you came into something bothers you about the other wall it's like—you're you're coming you know you're traveling you're walking around with your your drift Globe down here just sort of paying careful attention in a way you didn't before and the shadows are wrong. Late. Where the—on that wall that what should be, like just the sort of pattern of the sort of rough hewn wall should be casting long shadows along the wall, but it's not. Has no shadows of anything that's like even protruding slightly out of the wall."
+        }
+      ],
+      "kind": "hallway",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1396",
+              "endUid": "u1413",
+              "quote": "DM: Yeah you could do that. Right so on the top floor Wellby you're like pretty convinced there's nothing. I mean you can tell just by the sort of shape of the building and the weight like you can sort of way the walls are set up there's like not. There's not really space for there to be any kind of chests or secret rooms, or anything up here. You do find a handful of extra coins another—another eight gold scattered among the like straw piles and there's like faint traces of blood and you know the occasional like bone of a small animal I'm tossed among the sort of rags and straw in the sleeping quarters. But otherwise, like other than this like big sort of calendar, there's nothing obvious up here. When you head downstairs um. You know you work slowly along the—you know, the—the entire bottom floor all the way to the room that sort of—like you came through that secret door into like a little hallway and then, when that and in that room like opposite the opposite wall of the secret door that you came into something bothers you about the other wall it's like—you're you're coming you know you're traveling you're walking around with your your drift Globe down here just sort of paying careful attention in a way you didn't before and the shadows are wrong. Late. Where the—on that wall that what should be, like just the sort of pattern of the sort of rough hewn wall should be casting long shadows along the wall, but it's not. Has no shadows of anything that's like even protruding slightly out of the wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Hidden map-and-chest room",
+      "evidence": [
+        {
+          "startUid": "u1428",
+          "endUid": "u1433",
+          "quote": "DM: Right um. The—what you see when you push open the door and step through the illusion, with Riswynn is just like a bare dusty room. There is a table that has a map spread out on it, and there is a chest."
+        },
+        {
+          "startUid": "u1628",
+          "endUid": "u1631",
+          "quote": "DM: Yeah good. Floor above is clearly not in this like—right you go down and then you're like in some other sub basement and you must have gone into the link underneath the next house or something like, okay, because. Like you connect you're like two levels underground."
+        }
+      ],
+      "kind": "room",
+      "note": "The room is behind an illusion, two levels underground, apparently beneath the neighboring house (u1628–u1631). Its exact property boundary and enclosing building remain unresolved.",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1416",
+              "endUid": "u1433",
+              "quote": "DM: Magic you'd like poking along the wall yeah. I'm sort of feel along and about halfway along the wall it you feel wood.\n\nWellby: Oh so there's like a door that's been covered, maybe with an illusion, or something like that?\n\nDM: What it seems like yeah. All right, does it have a handle with no lock.\n\nWellby: Uh I'll shout upstairs, “Can I can I get a little backup? I found a secret door and I'm stepping through it now.”\n\nRiswynn: I'll run up there.\n\nSeeker: A bit busy.\n\nDM: Okay, so Riswynn comes down with you. And you open the door.\n\nWellby: Yeah I mean carefully in the don't get hit by traps kind of way but yeah.\n\nDM: Right um. The—what you see when you push open the door and step through the illusion, with Riswynn is just like a bare dusty room. There is a table that has a map spread out on it, and there is a chest."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Archives",
+      "evidence": [
+        {
+          "startUid": "u2308",
+          "endUid": "u2311",
+          "quote": "DM: So archives people, what are you doing? So you return back Ardan is like overjoyed that that Govir's here, and is, you know happy to do whatever you want or need. Also shocked to hear of werewolves, although he suspected as much, and of course there was all the events last night with Dag so he was not you know entirely surprised."
+        }
+      ],
+      "kind": "building",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1305",
+              "endUid": "u1305",
+              "quote": "DM: I mean you're sort of at the northern end of towns, but but Tokra is not big it's probably less than half a mile to the Center of town from here and that Center of town is like the Plaza where there's like the archive."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Central plaza",
+      "evidence": [
+        {
+          "startUid": "u1305",
+          "endUid": "u1305",
+          "quote": "DM: I mean you're sort of at the northern end of towns, but but Tokra is not big it's probably less than half a mile to the Center of town from here and that Center of town is like the Plaza where there's like the archive."
+        }
+      ],
+      "kind": "plaza",
+      "note": "The source says the central or great plaza. Vault notes vary between Jita’s Square and Dharajun Plaza; no new equivalence is asserted here.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1305",
+              "endUid": "u1305",
+              "quote": "DM: I mean you're sort of at the northern end of towns, but but Tokra is not big it's probably less than half a mile to the Center of town from here and that Center of town is like the Plaza where there's like the archive."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Main temple complex",
+      "evidence": [
+        {
+          "startUid": "u2204",
+          "endUid": "u2214",
+          "quote": "DM: Right style. So Kenzo you arrived at the—at the door at the sort of main temple complex it's now maybe 4:30, 5. The sun is not yet too low in the sky being still relatively close to the solstice. Clearly there's been a lot of activity today—today, though, and I'm. When you enter the—the—the temple, the Uvani the Kaleha's assistant, she says that Kaleha has been has been eager for news from you."
+        }
+      ],
+      "kind": "temple complex",
+      "note": "The temple complex is described in the Temple section of the Tokra note.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1305",
+              "endUid": "u1305",
+              "quote": "DM: I mean you're sort of at the northern end of towns, but but Tokra is not big it's probably less than half a mile to the Center of town from here and that Center of town is like the Plaza where there's like the archive."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2712",
+              "endUid": "u2729",
+              "quote": "DM: You. After glancing at this scroll and preparing. You know, making sure it Govir is settled. Taking a leave of Ardan you head across the great Plaza to the temple where you are ushered into the private dining chambers of the head priest of head priestess of Tokra the—the commander of the city um Kaleha. She kind of like gives you all a slight bow and offers up a prayer to Sonkar for them—the blessing of what discussions may come. And says, “Please, sit. Cannot promise the best food as food is still short here but we will at least—we'll at least eat our fill and I hope, come to some common ground as to what has to be done.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Kaleha’s private dining chambers",
+      "evidence": [
+        {
+          "startUid": "u2712",
+          "endUid": "u2729",
+          "quote": "DM: You. After glancing at this scroll and preparing. You know, making sure it Govir is settled. Taking a leave of Ardan you head across the great Plaza to the temple where you are ushered into the private dining chambers of the head priest of head priestess of Tokra the—the commander of the city um Kaleha. She kind of like gives you all a slight bow and offers up a prayer to Sonkar for them—the blessing of what discussions may come. And says, “Please, sit. Cannot promise the best food as food is still short here but we will at least—we'll at least eat our fill and I hope, come to some common ground as to what has to be done.”"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2712",
+              "endUid": "u2729",
+              "quote": "DM: You. After glancing at this scroll and preparing. You know, making sure it Govir is settled. Taking a leave of Ardan you head across the great Plaza to the temple where you are ushered into the private dining chambers of the head priest of head priestess of Tokra the—the commander of the city um Kaleha. She kind of like gives you all a slight bow and offers up a prayer to Sonkar for them—the blessing of what discussions may come. And says, “Please, sit. Cannot promise the best food as food is still short here but we will at least—we'll at least eat our fill and I hope, come to some common ground as to what has to be done.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Unspecified party lodgings",
+      "evidence": [
+        {
+          "startUid": "u3000",
+          "endUid": "u3017",
+          "quote": "DM: Let us see what the night brings and if we can—if we can make it past—we can make it past the next couple of days without any sign of werewolves, perhaps—perhaps we can trust that they're dead. Go get some rest. Let me know if you find anything. And again, thank you. So, as dinner wraps up she. You head back to your rooms wherever you're staying the monastery the inn. And the plan is to take a long rest and then like get up at three in the morning and.\n\nDelwath: Yeah I think so.\n\nDM: I'd.\n\nKenzo: Probably go right to the inn.\n\nDelwath: Sleep so yeah yeah yeah.\n\nUnknown: Okay."
+        }
+      ],
+      "kind": "lodgings",
+      "note": "Monastery or inn; Kenzo prefers the inn, and the other assignments are not stated."
+    },
+    "p15": {
+      "label": "Old fort and gash north of Tokra",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0014",
+          "quote": "DM: Getting to the old fort was easy, following the map. Little was left: just two of the four corner towers and a great gash in the earth. Yet strangely that gash could not be approached, not without a gray fog and confusion enveloping his thoughts till he found himself wandering far away, confused and disoriented. If only he and Hada had not had a long conversation right there about the map, what might be missing, what more they could maybe find in the archives, that would reveal the secrets of why the instructions written on this map did not seem to work. For one of the beasts must have been listening, perhaps hidden in the tower ruins."
+        },
+        {
+          "startUid": "u2788",
+          "endUid": "u2796",
+          "quote": "Delwath: What do you know of the fort?\n\nUnknown: North of the city. Ancient Drankorian one.\n\nDM: Historian. It was—place people do not travel. Said to be a dark place of bad dreams and evil thoughts."
+        }
+      ],
+      "kind": "ruined fort",
+      "note": "Govir’s reported earlier visit is separate from the urban den. No standalone vault place identity was verified; the recovered map note identifies the ruins without establishing a present party visit."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "actors": [
+        "Govir"
+      ],
+      "reading": "The opening recap places Govir hiding in the basement storeroom.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "DM: Okay. So, as the noise of the battle echoes above—the sound of fists hitting flesh, the crack of the rope ladder leaping and lunging at its enemies, the snarls of wolfish creatures—a man in a dirty torn robe crouches among the empty barrels of this basement store."
+        }
+      ],
+      "place": "p07",
+      "context": "reported"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0014"
+      },
+      "actors": [
+        "Govir",
+        "Hada"
+      ],
+      "reading": "Govir recalls traveling with Hada to the old fort and failing to approach the gash through the confusing fog.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0010",
+          "quote": "DM: A month ago, he was riding high on the joy of discovery after Hada uncovered letters from Commander Ila and a map. Here was a chance to do some real exploring, to uncover the mysteries that surrounded the Fraternity of the Empty Moon. The gods are great and would lead him to knowledge, surely. Of course he rushed off with Hada to explore, stopping only to ask the old veterans at Darshana's if they knew anything more. Who could wait when the thrill of discovery was right there?"
+        },
+        {
+          "startUid": "u0011",
+          "endUid": "u0014",
+          "quote": "DM: Getting to the old fort was easy, following the map. Little was left: just two of the four corner towers and a great gash in the earth. Yet strangely that gash could not be approached, not without a gray fog and confusion enveloping his thoughts till he found himself wandering far away, confused and disoriented. If only he and Hada had not had a long conversation right there about the map, what might be missing, what more they could maybe find in the archives, that would reveal the secrets of why the instructions written on this map did not seem to work. For one of the beasts must have been listening, perhaps hidden in the tower ruins."
+        }
+      ],
+      "from": null,
+      "to": "p15",
+      "completion": "arrived",
+      "context": "reported"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0028",
+        "endUid": "u0035"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "The four adventurers are in the kitchen / dining hall after the preceding battle.",
+      "evidence": [
+        {
+          "startUid": "u0028",
+          "endUid": "u0035",
+          "quote": "DM: Mind jumps back to the present as the sounds of battle fade. For a moment terror grips him, for he knows not who won. Then the reassuring clatter of the rope ladder that miraculously came to life at the command of the dwarf tells him he might really be saved, and gratitude for Jeevali, for Laka, Bhishma, Shakun, for the whole divine family fills his heart. He pauses praying silently, staying hidden until told otherwise as we drift back to the dining hall, the dead bodies, scattered papers tossed off the table and our four adventurers standing, catching your breath after the battle.\n\nDM: So you are all standing here, looking about. There are several dead bodies. This is a kitchen; there’s a table that's been sort of pushed over and a bunch of papers scattered around. Many of you are wounded, to varying degrees."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0065",
+        "endUid": "u0150"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Delwath and Wellby search the upstairs hall and empty sleeping chambers.",
+      "evidence": [
+        {
+          "startUid": "u0065",
+          "endUid": "u0070",
+          "quote": "DM: Upstairs is—so, so, Delwath you're gonna go search upstairs.\n\nDelwath: I’m gonna go, yeah. You're gonna go at least walk upstairs.\n\nDM: Okay, so there's like a hallway with a bunch of doors and then there's another door all these doors are shut."
+        },
+        {
+          "startUid": "u0118",
+          "endUid": "u0127",
+          "quote": "DM: Right yeah these—these inside these doors, you can see, I mean you can just stick your head through them. But you can see that there are these are like sleeping chambers. They’re all empty but there's like piles of straw on this, this first one here I'm has a small chest. Most of the rest just have like, you know piles of straw with, you know, blood on the walls and rags in the corner and stuff pretty—pretty minimal, I would say I mean, clearly people have slept here but there's not a ton of stuff around."
+        },
+        {
+          "startUid": "u0148",
+          "endUid": "u0150",
+          "quote": "Wellby: Sorry, I think I'll um. I'll sort of provide cover. I’m just gonna keep on searching through the House and in particular I'm looking for like secret doors secret areas secret passages, you know, knowing that the downstairs was set up in such a convoluted way, I wonder if there's any like hidden storage up here.\n\nDM: Going up to the same floor that Delwath is on? Yeah, yeah."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0165",
+        "endUid": "u0173"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby reaches the master bedroom and discovers its moon calendar.",
+      "evidence": [
+        {
+          "startUid": "u0165",
+          "endUid": "u0173",
+          "quote": "DM: Okay, so Wellby you're just kind of sticking your head in everywhere to get a sense and look for a secret doors, yeah? Um. And you're spending 10 minutes, so this is about 10 minutes, make it make an investigation check for me. Okay, so you you don't see anything along this wall, or you sort of stick your head in this other door. I'm. When you stick your head in this furthermost, this furthermost door down here, this is like the master bedroom. Windows are boarded up. The—the room is bare except for one wall on which there's like an enormous calendar that has been drawn. It starts in March of this year and there's 13 dates that are all sort of drawn as large circles, instead of squares. The days, up to the current day are like painted over with slashes and August 1 is like circled in red."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0354",
+        "endUid": "u0384"
+      },
+      "actors": [
+        "Vistra",
+        "Riswynn"
+      ],
+      "reading": "Vistra and Riswynn chase a werewolf through the shop window and join the fight.",
+      "evidence": [
+        {
+          "startUid": "u0354",
+          "endUid": "u0361",
+          "quote": "DM: The half and the bite does 10 so that's a total of 14 damage and then she has going to bonus action disengage. And—actually, no she's gonna stay here; she's looking over shoulder at something and as—as her turn ends, you see a another werewolf leap through the—the window, followed by two dwarves. The front one is a."
+        },
+        {
+          "startUid": "u0364",
+          "endUid": "u0384",
+          "quote": "DM: One is um one is a short shorter dwarf I'm with red hair carrying a giant maul like running, chasing this this werewolf and is going to run and take a like a massive swing with this huge two handed maul.\n\nKenzo: Nice.\n\nDM: Which is going to hit. And she is going to she's wearing plate Armor she's got this giant maul is just going to smash this werewolf for 11 points of damage. And the second dwarf comes through you recognize—hey do you want to describe what that looks like?\n\nRiswynn: Riswynn is wearing her sturdy heavy plate armor and she has her hair tied back ready for action and she's looking around to see if all of you are intact. She's been looking for you.\n\nDM: Ah, you can you can attack now.\n\nRiswynn: I can attack? Yep. All right, good.\n\nDM: I will there's one dead werewolf and two non dead werewolves.\n\nRiswynn: I will with Shatterstorm—am I close enough to hit any of them? They just rushed right ahead of us so.\n\nDM: Yeah they just rushed right ahead.\n\nRiswynn: In melee all right I'm gonna attack with Shatterstorm."
+        }
+      ],
+      "from": null,
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1160",
+        "endUid": "u1167"
+      },
+      "actors": [
+        "Govir"
+      ],
+      "reading": "Govir comes up from the basement to the party among the dead werewolves.",
+      "evidence": [
+        {
+          "startUid": "u1160",
+          "endUid": "u1167",
+          "quote": "DM: So he Govir he is now sort of made his way up and.\n\nUnknown: Kind of looking around.\n\nDM: He is a he is a Dunmari. He looks like you know badly worn out. He’s been in prison here for a month. He's I mean he's he knows he's been cursed by lycanthropy, and sort of limping a little bit and just kind of a little bit like avoiding meeting your eyes just kind of beaten down. I'm. Looking around, almost unbelieving at the at the dead bodies and everybody here."
+        }
+      ],
+      "from": "p07",
+      "to": "p02",
+      "completion": "arrived",
+      "note": "The exact ground-floor room is not specified."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1396",
+        "endUid": "u1413"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby searches upstairs and then returns below to the approach hallway, where a wall’s shadows reveal the hidden door.",
+      "evidence": [
+        {
+          "startUid": "u1396",
+          "endUid": "u1413",
+          "quote": "DM: Yeah you could do that. Right so on the top floor Wellby you're like pretty convinced there's nothing. I mean you can tell just by the sort of shape of the building and the weight like you can sort of way the walls are set up there's like not. There's not really space for there to be any kind of chests or secret rooms, or anything up here. You do find a handful of extra coins another—another eight gold scattered among the like straw piles and there's like faint traces of blood and you know the occasional like bone of a small animal I'm tossed among the sort of rags and straw in the sleeping quarters. But otherwise, like other than this like big sort of calendar, there's nothing obvious up here. When you head downstairs um. You know you work slowly along the—you know, the—the entire bottom floor all the way to the room that sort of—like you came through that secret door into like a little hallway and then, when that and in that room like opposite the opposite wall of the secret door that you came into something bothers you about the other wall it's like—you're you're coming you know you're traveling you're walking around with your your drift Globe down here just sort of paying careful attention in a way you didn't before and the shadows are wrong. Late. Where the—on that wall that what should be, like just the sort of pattern of the sort of rough hewn wall should be casting long shadows along the wall, but it's not. Has no shadows of anything that's like even protruding slightly out of the wall."
+        }
+      ],
+      "from": "p05",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1421",
+        "endUid": "u1433"
+      },
+      "actors": [
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "Riswynn joins Wellby; both pass the illusion and enter the map-and-chest room.",
+      "evidence": [
+        {
+          "startUid": "u1421",
+          "endUid": "u1433",
+          "quote": "Wellby: Uh I'll shout upstairs, “Can I can I get a little backup? I found a secret door and I'm stepping through it now.”\n\nRiswynn: I'll run up there.\n\nSeeker: A bit busy.\n\nDM: Okay, so Riswynn comes down with you. And you open the door.\n\nWellby: Yeah I mean carefully in the don't get hit by traps kind of way but yeah.\n\nDM: Right um. The—what you see when you push open the door and step through the illusion, with Riswynn is just like a bare dusty room. There is a table that has a map spread out on it, and there is a chest."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1468",
+        "endUid": "u1504"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby fans the door to thin the gas and escapes into the hallway while Riswynn remains on the table.",
+      "evidence": [
+        {
+          "startUid": "u1468",
+          "endUid": "u1474",
+          "quote": "Wellby: Okay, I want to run over to the door, and I want to grab the handle and I want to do this back and forth really fast.\n\nDM: Okay.\n\nWellby: Clear the air.\n\nDM: Ah.\n\nKenzo: They it should be able to hold their breath longer than five seconds. That's that's just not true, like I'm like a normal dude I can I can I do this regularly. I can hold my breath for a minute 30 seconds.\n\nDM: It's not that—it's not breathing it that that kills, it's skin contact."
+        },
+        {
+          "startUid": "u1490",
+          "endUid": "u1493",
+          "quote": "DM: Wellby you take another seven points of poison damage. And you are like you've cleared it out enough that if you sort of dashed out into the hall, you would be in the clear."
+        },
+        {
+          "startUid": "u1502",
+          "endUid": "u1504",
+          "quote": "Wellby: Hooking the chest, with a grappling hook and pulling it out.\n\nDM: Oh you're not in this room anymore. You ran out into the hall right? You could go back into the gas and try to do that if you wanted to."
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1536",
+        "endUid": "u1551"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby returns upstairs and reports the trapped Riswynn and recovered map to the resting group.",
+      "evidence": [
+        {
+          "startUid": "u1536",
+          "endUid": "u1539",
+          "quote": "Wellby: Well, go back upstairs [garbled].\n\nRiswynn: I mean, I have like pitons and rope; I can scale my way out of here, but I don't think I need to go through that effort. It’s unless they rescue me in 20 minutes.\n\nKenzo: I don't know what's going on right?\n\nDM: Yeah walk back up."
+        },
+        {
+          "startUid": "u1540",
+          "endUid": "u1551",
+          "quote": "Delwath: Wellby walk back out. Where’s Riswynn?\n\nWellby: Are you gonna.\n\nKenzo: Do it—what's going on down there? What do you find out there?\n\nWellby: I got some good news and some bad. Which would you like first?\n\nKenzo: Bad news. Bad news.\n\nWellby: The bad news is that I set off a poison gas trap. And it's it kind of burned some of my skin off; it’s got Riswynn trapped down there. But the good news is—and I pulled the map out of my pocket—check this shit out right."
+        }
+      ],
+      "from": "p08",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1641",
+        "endUid": "u1667"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath comes down to the illusion-covered doorway and sends Mage Hand through with the flute.",
+      "evidence": [
+        {
+          "startUid": "u1641",
+          "endUid": "u1667",
+          "quote": "Delwath: We can that's why I was asking, can we like I'll go down and we can have a conversation. Right like.\n\nDM: Yes, you can definitely talk to each other, you just can't so like there's like about 10 feet, the corridor, is not that wide. And there's like 10 feet around the door has like thin-ish gas like you could step into it, you have advantage on your saving throw, but you would still.\n\nDelwath: Potentially yeah yeah. So I will.\n\nDM: Yes, that is pretty low to the ground too so like you can easily fly above.\n\nDelwath: I'll cast fly. I'll take your flute.\n\nKenzo: Wellby.\n\nDelwath: Wait but I can't see it, none of us can get. How far as—how far is okay if I'm standing not in the gas, for I guess five if I'm standing not in the gas. Yeah how close am I to Riswynn?\n\nDM: You're like 20 feet.\n\nDelwath: Why do I need to—okay my Mage Hand will pick up the flute and fly 30 feet and drop it on the table for Riswynn to have.\n\nDM: Okay, so this that says you can't see through the illusion wall, you see the door sticking out of the wall, because Wellby was doing this, so so when you come down there you see a stone wall with a wooden door sticking out of stone wall.\n\nDelwath: But I don't he.\n\nDM: Doesn't need to see so you pick up the flute us mm hmm and then it's like a whole bunch of like shouting, “Left! No!”\n\nUnknown: Yeah.\n\nDelwath: Just grab as long as it's within 30 feet of me it doesn't.\n\nDM: Doesn't require sight.\n\nDelwath: Correct it requires sight to create.\n\nDM: But you can move it.\n\nDelwath: What I can move the hand."
+        }
+      ],
+      "from": "p02",
+      "to": "p08",
+      "completion": "arrived",
+      "note": "The flight proposals are superseded by the remote hand; no physical flight into the gas is established."
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1824",
+        "endUid": "u1833"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn uses the borrowed bone flute to fly out of the room above the gas and land in safety.",
+      "evidence": [
+        {
+          "startUid": "u1824",
+          "endUid": "u1833",
+          "quote": "As so so Riswynn this this flute is like, um it looks like a flute carved out of like a ravens bone and when you start to blow on it, you suddenly lift into the air, for as long as you can blow, which is like a number of it's like one plus your con modifier number of rounds so that's like 18 seconds, or something like that or 12 seconds, but of course you only need about six seconds to zip out of the room before you—before you run out of breath and kind of land outside of this gas."
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1854",
+        "endUid": "u1857"
+      },
+      "actors": [
+        "Riswynn",
+        "Delwath"
+      ],
+      "reading": "The rescuers return upstairs with the retrieved objects.",
+      "evidence": [
+        {
+          "startUid": "u1854",
+          "endUid": "u1857",
+          "quote": "DM: Laka holy symbols and a leather cloak, scroll. So you return upstairs your turn completed."
+        }
+      ],
+      "from": "p08",
+      "to": "p02",
+      "completion": "arrived",
+      "note": "“You return upstairs” confirms the return; exact above-ground room is open."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2026",
+        "endUid": "u2045"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker clears the doorway trench, enters the room and excavates beneath the table until the floor is clear.",
+      "evidence": [
+        {
+          "startUid": "u2026",
+          "endUid": "u2027",
+          "quote": "Seeker: Standing on my tiptoes well clear of the edge of gas I excavated some of the earth beneath the tile.\n\nDM: So you start so as you start like digging a trench basically the gas does begin to pour in and fill the trench and there is a fixed volume of it so as you dig deeper more of it pools."
+        },
+        {
+          "startUid": "u2036",
+          "endUid": "u2045",
+          "quote": "DM: Yeah that would be pretty deadly. So it's gonna take you a bit of time to excavate maybe 10 minutes or so so basically, the idea is you're digging a trench and the gases filling in. And you're digging it deeper so you're just going to make a pit for gas.\n\nUnknown: Yeah.\n\nSeeker: Without you know, the room getting undermined.\n\nUnknown: Right.\n\nDM: So you're not like able to complete while you managed to clear the area in front of the door basically with like a trench in the corridor and then you can start to go in the room and start digging like underneath the table basically um and, though you know as it fills underneath the table now like it sort of clears out from the room so after about 10 minutes of of digging you've got two poison gas pits and a clear floor."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Completed excavation estimate."
+      }
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2184",
+        "endUid": "u2214"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo goes alone from the den to report to Kaleha at the main temple; the proposal for Vistra to accompany him is canceled.",
+      "evidence": [
+        {
+          "startUid": "u2184",
+          "endUid": "u2201",
+          "quote": "DM: Kenzo is going to tell the high priestess about this.\n\nKenzo: Well, what is what has occurred, where we discovered with.\n\nDM: And and.\n\nRiswynn: Vistra to go with him.\n\nDM: Vistra will go with you just as like a honor guard basically bodyguard. The rest of you are going back to the archives.\n\nUnknown: Yeah.\n\nDM: You're.\n\nUnknown: Traveling.\n\nRiswynn: Isn't somebody just staying here until veteran?\n\nDelwath: Oh yeah yes.\n\nKenzo: I think the innkeeper should stay.\n\nDM: Now she's here.\n\nKenzo: Well, no, she she should stay at the site right just to do what she's continuing to do, which is like ward off people and be like, “Oh, there’s nothing to see here,” that you know.\n\nDM: She's okay with that.\n\nKenzo: She'll do whatever you ask I'll can go by myself, she should just.\n\nDelwath: You know that's fine."
+        },
+        {
+          "startUid": "u2204",
+          "endUid": "u2214",
+          "quote": "DM: Right style. So Kenzo you arrived at the—at the door at the sort of main temple complex it's now maybe 4:30, 5. The sun is not yet too low in the sky being still relatively close to the solstice. Clearly there's been a lot of activity today—today, though, and I'm. When you enter the—the—the temple, the Uvani the Kaleha's assistant, she says that Kaleha has been has been eager for news from you."
+        }
+      ],
+      "from": "p02",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2189",
+        "endUid": "u2323"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby",
+        "Riswynn",
+        "Govir"
+      ],
+      "reading": "The others escort Govir to the Archives, where Ardan welcomes him and Riswynn cures him.",
+      "evidence": [
+        {
+          "startUid": "u2189",
+          "endUid": "u2190",
+          "quote": "DM: Vistra will go with you just as like a honor guard basically bodyguard. The rest of you are going back to the archives."
+        },
+        {
+          "startUid": "u2300",
+          "endUid": "u2303",
+          "quote": "Kenzo: Or is everybody else already at the archives, are you guys hanging?\n\nDM: They're in the archives just Vistra’s at the chapel or so yeah so you.\n\nKenzo: Catch up with our.\n\nDM: Jumped to the archives, while you're."
+        },
+        {
+          "startUid": "u2308",
+          "endUid": "u2323",
+          "quote": "DM: So archives people, what are you doing? So you return back Ardan is like overjoyed that that Govir's here, and is, you know happy to do whatever you want or need. Also shocked to hear of werewolves, although he suspected as much, and of course there was all the events last night with Dag so he was not you know entirely surprised.\n\nRiswynn: All right, well, I let Govir like freshen up a bit find something you know meaningful and comforting to him and.\n\nDM: Then gay.\n\nRiswynn: Settle into—to ritual of prayer with.\n\nDM: Okay. Make another wisdom check. Yeah you have you have no problem I'm. Actually here I'll put you on the map. You have no problem going through you know your prayers here you feel confident that you have cured Govir, and he is I mean he's. He was like, gathered up like his like like his quills and his his notebook and um. You know, is just kind of sitting quietly in the corner in prayer and meditation trying to recover some sense of himself after this ritual."
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Vistra remains at the den. Riswynn’s momentary “inn” wording is corrected to the Archives by the ensuing narration."
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2326",
+        "endUid": "u2329"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo rejoins the group at the Archives before the investigations and dinner.",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2326",
+          "quote": "DM: Sorry go ahead so as you all gather back at the archives, what would you like to do before dinner?"
+        },
+        {
+          "startUid": "u2327",
+          "endUid": "u2329",
+          "quote": "Delwath: I was wondering what the Drankorian writing on the maps.\n\nKenzo: Oh that's good oh yeah let's figure out whether or not this magical."
+        }
+      ],
+      "from": "p12",
+      "to": "p10",
+      "completion": "arrived",
+      "note": "The proposed intermediate trip showing the guard the den is not narrated as an arrival and is not inserted into this route."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2712",
+        "endUid": "u2729"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After settling Govir and taking leave of Ardan, the party crosses the plaza to Kaleha’s private dining chambers in the temple.",
+      "evidence": [
+        {
+          "startUid": "u2712",
+          "endUid": "u2729",
+          "quote": "DM: You. After glancing at this scroll and preparing. You know, making sure it Govir is settled. Taking a leave of Ardan you head across the great Plaza to the temple where you are ushered into the private dining chambers of the head priest of head priestess of Tokra the—the commander of the city um Kaleha. She kind of like gives you all a slight bow and offers up a prayer to Sonkar for them—the blessing of what discussions may come. And says, “Please, sit. Cannot promise the best food as food is still short here but we will at least—we'll at least eat our fill and I hope, come to some common ground as to what has to be done.”"
+        }
+      ],
+      "from": "p10",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Cross the great plaza.",
+          "place": "p11"
+        },
+        {
+          "reading": "Enter the temple and its private dining chambers.",
+          "place": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3000",
+        "endUid": "u3017"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After dinner the party returns to its rooms to rest.",
+      "evidence": [
+        {
+          "startUid": "u3000",
+          "endUid": "u3017",
+          "quote": "DM: Let us see what the night brings and if we can—if we can make it past—we can make it past the next couple of days without any sign of werewolves, perhaps—perhaps we can trust that they're dead. Go get some rest. Let me know if you find anything. And again, thank you. So, as dinner wraps up she. You head back to your rooms wherever you're staying the monastery the inn. And the plan is to take a long rest and then like get up at three in the morning and.\n\nDelwath: Yeah I think so.\n\nDM: I'd.\n\nKenzo: Probably go right to the inn.\n\nDelwath: Sleep so yeah yeah yeah.\n\nUnknown: Okay."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "note": "Exact lodging assignments remain open; Kenzo proposes the inn."
+    }
+  ]
+}

@@ -1,0 +1,474 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-038",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-session.yaml",
+    "sessionYamlSha256": "102a6702cc6dfbcc1e1da236baf170f899aaa7ae2388c09c9b481f6f849ceb8c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-transcript.md",
+    "transcriptSha256": "f849faf2c9ca5d468175738e2860ecff7b3ef65a7d07e59e0e638da5a1984bc0",
+    "yamlDates": {
+      "start": "1748-07-02",
+      "end": "1748-07-03"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0102",
+        "endUid": "u0105"
+      },
+      "reading": "The post-battle search is at about two in the afternoon; the suggestion of night is corrected.",
+      "evidence": [
+        {
+          "startUid": "u0102",
+          "endUid": "u0102",
+          "quote": "Delwath: It's the middle of the night so."
+        },
+        {
+          "startUid": "u0103",
+          "endUid": "u0104",
+          "quote": "DM: No, like two in the afternoon."
+        },
+        {
+          "startUid": "u0105",
+          "endUid": "u0105",
+          "quote": "Delwath: Okay I've lost track of time."
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM’s current-play clock reading"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0165",
+        "endUid": "u0173"
+      },
+      "reading": "Delwath completes his ten-minute Detect Magic ritual while Wellby searches upstairs.",
+      "evidence": [
+        {
+          "startUid": "u0160",
+          "endUid": "u0160",
+          "quote": "Delwath: Yeah actually that's a good idea. I'm going to take 10 minutes to be able to detect magic before I do anything else."
+        },
+        {
+          "startUid": "u0165",
+          "endUid": "u0173",
+          "quote": "And you're spending 10 minutes, so this is about 10 minutes, make it make an investigation check for me."
+        },
+        {
+          "startUid": "u0175",
+          "endUid": "u0178",
+          "quote": "While you're in the middle of all this, Delwath as your ritual is ending"
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "stated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0175",
+        "endUid": "u0178"
+      },
+      "reading": "The current date is July 2, corrected immediately from July 3.",
+      "evidence": [
+        {
+          "startUid": "u0175",
+          "endUid": "u0178",
+          "quote": "Today it's currently it it's July 3—sorry, July 2."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 2
+        },
+        "precision": "exact",
+        "basis": "Spoken July 2 after immediate correction; year inherited from session YAML."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1241",
+        "endUid": "u1244"
+      },
+      "reading": "After the fight, searches and Kenzo’s cure, it is about three in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1241",
+          "endUid": "u1244",
+          "quote": "Delwath: It's only two in the afternoon right?\n\nDM: No, it's like, it is because it's like three now because you've.\n\nDelwath: Been.\n\nDM: Doing stuff."
+        }
+      ],
+      "time": {
+        "clock": "15:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM’s current-play clock reading"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1374"
+      },
+      "reading": "Kenzo, Delwath and Seeker take one short rest in the den while Wellby searches; twenty minutes remain when Riswynn is trapped.",
+      "evidence": [
+        {
+          "startUid": "u1339",
+          "endUid": "u1339",
+          "quote": "DM: Yeah I mean it'll take an hour, but you can definitely start rest here."
+        },
+        {
+          "startUid": "u1364",
+          "endUid": "u1369",
+          "quote": "DM: Yeah sure. What's nine for both of them anyway so. So, Wellby and Seeker you got nine hit points back. Thanks yep while you're short resting who is who is searching where? Kenzo and Delwath are definitely short resting yes?"
+        },
+        {
+          "startUid": "u1372",
+          "endUid": "u1374",
+          "quote": "DM: Like where you entered yeah. Okay, and Seeker, what are you doing, are you short resting?\n\nSeeker: Yeah."
+        },
+        {
+          "startUid": "u1515",
+          "endUid": "u1517",
+          "quote": "Delwath: It's a rope ladder; there's still probably a way to use it. Is—how long until the short rest is over?\n\nDM: Ah I'd say another 20 minutes.\n\nDelwath: You can wait 20 minutes; there's lots of things they can do to help you."
+        },
+        {
+          "startUid": "u1678",
+          "endUid": "u1687",
+          "quote": "DM: Candy claw machines. Roll a—um, roll 2d6. Okay um you. Okay, you grab you know you you grab what you can grab you pretty sure it's not everything that was in the chest. Um. But this is about carrying. And you all retreat now having—those are the three of you who short rested now can you finish your short rests.\n\nDelwath: At this time, to finish the short rest before I can.\n\nDM: Before you."
+        },
+        {
+          "startUid": "u1697",
+          "endUid": "u1701",
+          "quote": "Seeker: Oh, do I get inspiration back from the short?\n\nDM: Get your inspiration back. Yes.\n\nDelwath: If you just click the short rest button on D&D Beyond it'll give you back.\n\nDM: They'll give you back what you're supposed to get back."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit one-hour rest; completion and recovered resources are confirmed later."
+      },
+      "completion": "completed",
+      "note": "The twenty minutes remaining belongs to this same rest and is not a second interval."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1886",
+        "endUid": "u1896"
+      },
+      "reading": "Delwath spends ten minutes recasting Detect Magic and tests the recovered items.",
+      "evidence": [
+        {
+          "startUid": "u1886",
+          "endUid": "u1887",
+          "quote": "Delwath: I'll yes, I look at whether this stuff is magic. I will take 10 minutes and detect magic."
+        },
+        {
+          "startUid": "u1888",
+          "endUid": "u1888",
+          "quote": "DM: Okay um the map is magic."
+        },
+        {
+          "startUid": "u1893",
+          "endUid": "u1896",
+          "quote": "DM: Obviously the potions the short sword. The cloak is not magic.\n\nDelwath: What about the iron pendants?\n\nDM: Nope none of the pendants are magic."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Accepted ten-minute ritual followed by its item readings."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2036",
+        "endUid": "u2045"
+      },
+      "reading": "Seeker excavates two pits that collect the poison gas, clearing the room after about ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u2036",
+          "endUid": "u2038",
+          "quote": "DM: Yeah that would be pretty deadly. So it's gonna take you a bit of time to excavate maybe 10 minutes or so so basically, the idea is you're digging a trench and the gases filling in. And you're digging it deeper so you're just going to make a pit for gas."
+        },
+        {
+          "startUid": "u2043",
+          "endUid": "u2045",
+          "quote": "DM: So you're not like able to complete while you managed to clear the area in front of the door basically with like a trench in the corridor and then you can start to go in the room and start digging like underneath the table basically um and, though you know as it fills underneath the table now like it sort of clears out from the room so after about 10 minutes of of digging you've got two poison gas pits and a clear floor."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s completed excavation estimate."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2094",
+        "endUid": "u2098"
+      },
+      "reading": "Before leaving the den, the DM gives a rough current time of 3:30 to 4 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2094",
+          "endUid": "u2098",
+          "quote": "DM: I mean it's now like 3:30, 4. Vistra has already turned away a few curious onlookers. Just kind of standing there guard. You know. As far as, like summoning the authority."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "clock": "15:30",
+          "precision": "approximate",
+          "basis": "DM’s current-play clock reading"
+        },
+        "end": {
+          "clock": "16:00",
+          "precision": "approximate",
+          "basis": "DM’s current-play clock reading"
+        }
+      },
+      "note": "This rough clock report follows the one-hour rest and two ten-minute activities. It is retained without silently shifting the earlier about-3-p.m. anchor."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2204",
+        "endUid": "u2214"
+      },
+      "reading": "Kenzo reaches the main temple at about 4:30 to 5 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2204",
+          "endUid": "u2214",
+          "quote": "So Kenzo you arrived at the—at the door at the sort of main temple complex it's now maybe 4:30, 5."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "timeRange": {
+        "start": {
+          "clock": "16:30",
+          "precision": "approximate",
+          "basis": "DM’s current-play clock reading"
+        },
+        "end": {
+          "clock": "17:00",
+          "precision": "approximate",
+          "basis": "DM’s current-play clock reading"
+        }
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2383",
+        "endUid": "u2385"
+      },
+      "reading": "Wellby and Kenzo begin another short rest at the Archives while their companions investigate.",
+      "evidence": [
+        {
+          "startUid": "u2383",
+          "endUid": "u2385",
+          "quote": "Wellby: And I’ll rest because I'm I'm at my last two points.\n\nKenzo: I'll short rest to get all my ki back."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "completion": "begun",
+      "note": "The start is accepted in play; no separately timed completion is given, so another hour is not added to elapsed coverage."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2712",
+        "endUid": "u2729"
+      },
+      "reading": "The party has dinner with Kaleha on July 2; tonight is the peak full moon.",
+      "evidence": [
+        {
+          "startUid": "u2712",
+          "endUid": "u2729",
+          "quote": "Please, sit. Cannot promise the best food as food is still short here but we will at least—we'll at least eat our fill and I hope, come to some common ground as to what has to be done."
+        },
+        {
+          "startUid": "u2934",
+          "endUid": "u2938",
+          "quote": "Kenzo: What's today's date?\n\nDM: The second July 2.\n\nKenzo: When's the next full moon? August 1?\n\nDM: Tonight well the the full moon like peak of the full moon is tonight. The next one, after this is August 1."
+        },
+        {
+          "startUid": "u2966",
+          "endUid": "u2969",
+          "quote": "Kenzo: You do have more sense tonight at dinner that's for sure. Um perhaps we should get some rest and after we get some rest go patrol the city. Good evening."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 2
+        },
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Dinner and later “tonight at dinner” establish evening; July 2 is spoken at u2935; year from YAML."
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3000",
+        "endUid": "u3019"
+      },
+      "reading": "After dinner the party retires and is awarded a long rest; the next session is set to resume at 3 a.m.",
+      "evidence": [
+        {
+          "startUid": "u2960",
+          "endUid": "u2961",
+          "quote": "DM: Eight eight hours. Unless you're Delwath, in which case it's four hours."
+        },
+        {
+          "startUid": "u3000",
+          "endUid": "u3012",
+          "quote": "DM: Let us see what the night brings and if we can—if we can make it past—we can make it past the next couple of days without any sign of werewolves, perhaps—perhaps we can trust that they're dead. Go get some rest. Let me know if you find anything. And again, thank you. So, as dinner wraps up she. You head back to your rooms wherever you're staying the monastery the inn. And the plan is to take a long rest and then like get up at three in the morning and."
+        },
+        {
+          "startUid": "u3018",
+          "endUid": "u3019",
+          "quote": "DM: So let's end here, you feel free to all take a long rest. Thank goodness, since you badly need that."
+        },
+        {
+          "startUid": "u3023",
+          "endUid": "u3025",
+          "quote": "DM: And we will pick up at 3am next time, as you awake to the.\n\nWellby: Screams.\n\nDM: Sleeping city."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Eight-hour long-rest convention, explicitly stated at u2960–u2961 and awarded at the close."
+      },
+      "completion": "completed",
+      "note": "Rest benefits are awarded, but the actual awakening is deferred. July 2 bedtime and the July 3 handoff remain alternative session-end conventions."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u3018",
+        "endUid": "u3019"
+      },
+      "reading": "Delwath receives long-rest benefits with the explicitly stated four-hour exception.",
+      "evidence": [
+        {
+          "startUid": "u2960",
+          "endUid": "u2961",
+          "quote": "DM: Eight eight hours. Unless you're Delwath, in which case it's four hours."
+        },
+        {
+          "startUid": "u3018",
+          "endUid": "u3019",
+          "quote": "DM: So let's end here, you feel free to all take a long rest. Thank goodness, since you badly need that."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM’s explicit exception for Delwath at u2960–u2961."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t12"
+        }
+      ],
+      "note": "Same shared retirement; his four-hour requirement does not establish a separate waking time."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "July 2 is spoken and corrected at t03, then confirmed at dinner in t11. The year and July 3 end date come from YAML; the proposed 3 a.m. resumption would fall on the next day.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t03",
+      "t11",
+      "t12",
+      "t13"
+    ],
+    "explanation": "Current played scenes remain on July 2. Long-rest benefits are awarded at the close, while the 3 a.m. awakening is reserved for the next session. Including that overnight handoff fits YAML; ending at bedtime leaves the closing transition open. Approximate afternoon clocks are retained as stated."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t12",
+        "t13"
+      ],
+      "reading": "The table awards a long rest but defers the 3 a.m. awakening to next time.",
+      "alternatives": [
+        {
+          "reading": "End the played narration at July 2 bedtime.",
+          "date": "1748-07-02"
+        },
+        {
+          "reading": "Include the awarded overnight rest and intended 3 a.m. handoff, conditionally the next civil day.",
+          "date": "1748-07-03"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-038",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-session.yaml",
+    "sessionYamlSha256": "102a6702cc6dfbcc1e1da236baf170f899aaa7ae2388c09c9b481f6f849ceb8c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-transcript.md",
+    "transcriptSha256": "f849faf2c9ca5d468175738e2860ecff7b3ef65a7d07e59e0e638da5a1984bc0",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-segments.json",
+      "sha256": "aa35996abdc78d1de99e635b9d1d3c7ca96e0b94b6f5354dd10f39ec1e61cc91",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Werewolves through the shoemaker shop window",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "First werewolf",
+              "kind": "turn",
+              "summary": "In wolf form, bites Seeker for 8 piercing damage; Seeker makes a secret Constitution save whose result is not announced.",
+              "evidence": [
+                {
+                  "startUid": "u0231",
+                  "endUid": "u0263"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Comes downstairs into melee and hits the first wolf twice with his longsword for 10 and 11 damage. Uses a Ring of Displacement charge to impose disadvantage on attacks against him until his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0264",
+                  "endUid": "u0282"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Disengages and retreats to the corner; uses his bonus action to command the ladder to grapple the wolf.",
+              "evidence": [
+                {
+                  "startUid": "u0285",
+                  "endUid": "u0298"
+                }
+              ]
+            },
+            {
+              "actor": "Rope ladder",
+              "kind": "turn",
+              "summary": "Grapples the first wolf after the Strength-check resolution, reducing its speed to zero.",
+              "evidence": [
+                {
+                  "startUid": "u0299",
+                  "endUid": "u0315"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Checks that the newly looted short sword is magical and hits the grappled wolf with it. States 18 damage before asking about any additional damage; no further amount is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0316",
+                  "endUid": "u0323"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves in and makes three unarmed attacks: the first and third hit, the second misses. The final blow kills the first wolf; damage amounts are not stated.",
+              "evidence": [
+                {
+                  "startUid": "u0324",
+                  "endUid": "u0350"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf trap master",
+              "kind": "turn",
+              "summary": "Shifts, rushes Wellby and hits with a short sword and bite. The sword is stated as 9 damage before Uncanny Dodge and the bite as 10; the adjudicated combined damage is 14. Her proposed disengage is withdrawn and she stays.",
+              "evidence": [
+                {
+                  "startUid": "u0337",
+                  "endUid": "u0361"
+                },
+                {
+                  "startUid": "u0410",
+                  "endUid": "u0425"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the trap master’s short-sword hit. When the bite’s Constitution save is resolved later, uses existing Bardic Inspiration and gains 7 temporary hit points; the secret save outcome is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u0351",
+                  "endUid": "u0361"
+                },
+                {
+                  "startUid": "u0410",
+                  "endUid": "u0425"
+                }
+              ]
+            },
+            {
+              "actor": "Arrivals",
+              "kind": "event",
+              "summary": "Another werewolf leaps through the window, followed by the red-haired dwarf Vistra and Riswynn.",
+              "evidence": [
+                {
+                  "startUid": "u0354",
+                  "endUid": "u0384"
+                }
+              ]
+            },
+            {
+              "actor": "Vistra",
+              "kind": "turn",
+              "summary": "Runs after the arriving werewolf and hits it with her giant two-handed maul for 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0364",
+                  "endUid": "u0374"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Arrives in plate armor, attacks with Shatterstorm in melee, and misses with a 10.",
+              "evidence": [
+                {
+                  "startUid": "u0375",
+                  "endUid": "u0389"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves five feet and attacks a werewolf with Green-Flame Blade, missing. His Armor of Agathys is confirmed still active for about 30 minutes, with 4 temporary hit points remaining.",
+              "evidence": [
+                {
+                  "startUid": "u0390",
+                  "endUid": "u0409"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Heat Metal on the trap master’s short sword for 11 fire damage. A Constitution save is mentioned without a result; she discards the burning sword and prepares her claws.",
+              "evidence": [
+                {
+                  "startUid": "u0427",
+                  "endUid": "u0458"
+                }
+              ]
+            },
+            {
+              "actor": "Rope ladder",
+              "kind": "turn",
+              "summary": "Flies over the allies, paying five extra feet of movement to rise, and misses a force-empowered slam at the front enemy.",
+              "evidence": [
+                {
+                  "startUid": "u0460",
+                  "endUid": "u0482"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Misses with the short sword, then disengages as a bonus action and moves back.",
+              "evidence": [
+                {
+                  "startUid": "u0483",
+                  "endUid": "u0496"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf trap master",
+              "kind": "turn",
+              "summary": "Bites Delwath for 6 damage, consuming the remaining temporary hit points and prompting a secret Constitution save. Uses dust as a bonus action to become invisible and passes his attempted doorway block; she is audible rather than hidden. No opportunity attack is allowed against the unseen movement. Starts collecting the scattered papers.",
+              "evidence": [
+                {
+                  "startUid": "u0498",
+                  "endUid": "u0506"
+                },
+                {
+                  "startUid": "u0512",
+                  "endUid": "u0556"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Armor of Agathys deals 20 retaliatory damage on the bite, with its temporary hit points then exhausted. Uses Shatterstorm: the werewolf fails a DC 15 Dexterity save and takes 6 more damage.",
+              "evidence": [
+                {
+                  "startUid": "u0505",
+                  "endUid": "u0513"
+                }
+              ],
+              "note": "The source gives no damage types for these two retaliatory effects; no external rules types are supplied."
+            },
+            {
+              "actor": "Vistra",
+              "kind": "turn",
+              "summary": "Steps into the room, pauses to focus and lands two maul blows with advantage, dealing 16 and 10 damage. Later clarification establishes physical swings using Action Surge, rather than summoned mauls.",
+              "evidence": [
+                {
+                  "startUid": "u0558",
+                  "endUid": "u0565"
+                },
+                {
+                  "startUid": "u0904",
+                  "endUid": "u0908"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Hits the other werewolf with Shatterstorm and Booming Blade. Extra thunder damage is corrected to 1d8, with 8 stated; the werewolf dies.",
+              "evidence": [
+                {
+                  "startUid": "u0566",
+                  "endUid": "u0580"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the invisible, unhidden trap master with disadvantage: one sword hit deals 6 damage and a 14 misses. His later declaration spends the final displacement-ring charge, canceling her invisible-attack advantage.",
+              "evidence": [
+                {
+                  "startUid": "u0581",
+                  "endUid": "u0595"
+                },
+                {
+                  "startUid": "u0637",
+                  "endUid": "u0641"
+                },
+                {
+                  "startUid": "u0726",
+                  "endUid": "u0732"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves out of the room and creates a large steel gate across its only exit, with stabilizers and bars to shoot through. Delwath agrees to remain inside with the trap master. Commands the ladder through the bars.",
+              "evidence": [
+                {
+                  "startUid": "u0598",
+                  "endUid": "u0650"
+                }
+              ]
+            },
+            {
+              "actor": "Rope ladder",
+              "kind": "turn",
+              "summary": "Flies sideways through the gate and attempts a slam at the invisible trap master with disadvantage. The roll/result is unclear before the DM moves to Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u0644",
+                  "endUid": "u0674"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to cancel invisibility disadvantage and shoots with Sneak Attack, enabled by the adjacent Delwath and ladder.",
+              "evidence": [
+                {
+                  "startUid": "u0675",
+                  "endUid": "u0688"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf trap master",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to halve Wellby’s shot. The DM says “24” and then “11”; retain the final spoken 11 without correcting the arithmetic. She survives.",
+              "evidence": [
+                {
+                  "startUid": "u0682",
+                  "endUid": "u0688"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Cannot pass the gate or use sight-dependent Fey Planar power / Soul Sight on the invisible enemy. Fires Acid Arrow from the wand with disadvantage and misses.",
+              "evidence": [
+                {
+                  "startUid": "u0690",
+                  "endUid": "u0713"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf trap master",
+              "kind": "turn",
+              "summary": "Finishes gathering the papers, moves to Delwath and hits with claws on a natural 20. Displacement cancels her claimed advantage; the first die is still the critical hit. Damage is corrected from 20 to 30. Throws an explosive vial as a bonus action, becoming visible: DC 15 Dexterity saves give Wellby a failure with Evasion for 6 fire damage, Kenzo a success with Evasion for none, and Seeker a success for 6 fire damage. The gate remains intact.",
+              "evidence": [
+                {
+                  "startUid": "u0714",
+                  "endUid": "u0758"
+                }
+              ]
+            },
+            {
+              "actor": "Vistra",
+              "kind": "turn",
+              "summary": "Moves up, draws a handaxe but does not throw it, and dodges at the ready because she has no useful target through the gate.",
+              "evidence": [
+                {
+                  "startUid": "u0747",
+                  "endUid": "u0755"
+                },
+                {
+                  "startUid": "u0762",
+                  "endUid": "u0763"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts third-level Guiding Bolt through the gate, hitting the now-visible trap master for 18 radiant damage. She remains alive but badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u0764",
+                  "endUid": "u0775"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Makes two sword attacks. The first receives Guiding Bolt advantage and still misses; the second has no advantage. No hit or damage is resolved before the turn passes.",
+              "evidence": [
+                {
+                  "startUid": "u0776",
+                  "endUid": "u0790"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Vicious Mockery; the trap master makes the save and takes no effect. Commands the ladder to attack.",
+              "evidence": [
+                {
+                  "startUid": "u0791",
+                  "endUid": "u0799"
+                }
+              ]
+            },
+            {
+              "actor": "Rope ladder",
+              "kind": "turn",
+              "summary": "Dives at the trap master and hits with its slam. Damage is rolled as 1d10+3, but the amount is not spoken; the blow is insufficient to kill her.",
+              "evidence": [
+                {
+                  "startUid": "u0800",
+                  "endUid": "u0809"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and kills the trap master with an arrow.",
+              "evidence": [
+                {
+                  "startUid": "u0810",
+                  "endUid": "u0818"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three newly arriving werewolves are dead; Wellby’s final arrow kills the trap master. The damaged storefront opens onto a busy northern Tokra neighborhood. The table does not establish that every werewolf in the city has been eliminated.",
+        "evidence": [
+          {
+            "startUid": "u0810",
+            "endUid": "u0818"
+          }
+        ]
+      },
+      "note": "Kenzo has no resolved second-cycle turn in the source. New arrivals are retained in their stated relative order; no missing turn is invented."
+    }
+  ]
+}
