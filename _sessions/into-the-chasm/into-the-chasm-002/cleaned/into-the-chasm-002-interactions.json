@@ -1,0 +1,1147 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "cf11e97e7d36f726ce088f3b7a8330fcf9d2d0434dd8a32e66bb506fbe260ce5"
+    },
+    "entityMap": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-entity-map.json",
+      "sha256": "4b4ce16d5da3d68e4ae5a3aa8617ef70771fb4b6a8f4c41aae5a2c3a972ee8cd"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Kalima prays to Romil",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0060",
+        "endUid": "u0063"
+      },
+      "lines": [
+        "%% u0060:0-184, u0061:0-3, u0062:0-116, u0063:0-66 %%",
+        "DM: Kalima, I'll start, I guess. Kalima's just holding, clutching this light, like, to her chest, tightly, like, the light's leaking out around her fingers, but… and is muttering a prayer to… Romil, the Glacier King, who she… she seems to have recognized the name, over and over again, like, 'Protect us from… You're the Lord of ice and snow, protect us from the ice and snow.'",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Oh, and, and… Kong, Ekko's… magic item. So it's an amulet that attunes you to the, to the sort of the energy of the beast you're becoming. Anytime you become a large beast, you get the jump spell, so you can jump 30 feet. And anytime you become a teeny beast, you get advantage on stealth checks.",
+          "Ekko: Mmm… Okay.",
+          "DM: So just keep that in mind, if you're like… it enhances the sort of natural stealthiness of a small beast, or the natural strength of a large beast.",
+          "Ekko: Love it.",
+          "DM: So, as we begin… you're peering down into this room. Maybe everybody could… I don't want to start with, like, full descriptions, but maybe just to remind us what everybody's characters are like? Like, just one… your most… the item that's most important to you, or the facet of your… of your mood that's most prominent. So, just, like, one sentence about, like, what each character is… what your character is, like, sort of focused on in the moment."
+        ],
+        "after": [
+          "Ekko: Hey, Mike.",
+          "DM: Yeah?",
+          "Ekko: Sorry, are there passageways?",
+          "DM: So… You're on this floating platform in the darkness. There's a bridge that leads into this, and there's 4 passageways going out of this. You're like… you're like at the ceiling, you're like… the bridge is like a… an ice arch that ends in the ceiling. And you have to, like, jump down into the room, but you can see 4 passageways leading out of the room.",
+          "Ekko: Got it, got it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Helping Kalima into the labyrinth",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0121"
+      },
+      "lines": [
+        "%% u0110:0-44 %%",
+        "Jrain: Kalima, do you need help getting down there?",
+        "",
+        "%% u0111:0-152, u0112:0-8, u0113:0-28, u0114:0-22, u0115:0-59 %%",
+        "DM: She looks a little… I mean, it's not… she needs a little bit of help, I guess, but the… the… there's piles of snow, it doesn't look that scary to, like… kind of… jump down, but yeah, I mean… She would sort of nod… Well, she doesn't speak your… you don't speak Old Zimkovan.",
+        "",
+        "%% u0116:0-54 %%",
+        "Jrain: I didn't directly ask her, I sort of hinted to Justas.",
+        "",
+        "%% u0117:0-64 %%",
+        "DM: She sort of… she sort of nods a little bit, oh, sorry, go ahead.",
+        "",
+        "%% u0118:0-44, u0119:0-82, u0120:0-56, u0121:0-45 %%",
+        "Justas: Justas slings his shield over his back, and hefts the big axe in the other hand, but extends, extends his shield hand over to, to the older woman and starts talking Old Zimkovan about climbing down safely, giving her a hand down.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Eolo: Yeah. That… there's ground down there, Ekko. There's ground. I'm not familiar with that.",
+          "Ekko: Oh, okay, okay, okay, alright, alright, alright.",
+          "Finnan: So… and, well… Finnan is holding this, like, glowing… pipe, like, clay ocarina. And kind of looks around. I guess we better stick together.",
+          "Jrain: Rala is… Jrain is bolstered by the presence of her avian companion, Rala, and is looking forward to… I was looking around at the next steps to take and how the party is all doing. And wondering to the group,",
+          "DM: [garbled]"
+        ],
+        "after": [
+          "Finnan: Oh. Pretty interesting.",
+          "DM: So… Before we… just one thing I meant to say before we get started, there's probably gonna be a fair number of… there might be a fair number of skill proficiency checks. And I want to just remind everybody, rules-wise, what I'm trying to do is… tell you what stat it is, and so to roll a stat on D&D Beyond, you click the plus under the stat.",
+          "DM: Right? So, like, if I say it's a DEX check, just click DEX plus 1 to roll, or whatever. And then, you tell me if you have a skill, either an actual D&D skill, or… something in your background, one of these background proficiencies, that would let you… add your… which, everybody's proficiency bonus is plus 3, so you just have to remember it's a plus 3. So…",
+          "DM: tell me why you should get a plus 3. Which could be, oh, I'm… I'm proficient in medicine, and this is somehow related to medicine, or it could be, well, in my background, I… you know, I'm really good at surviv… you know, I spent a lot of time in the winter, I'm really good at surviving cold, and this is something about surviving cold. And so, just, if I think it's… if it seems plausible, you'll get to add a plus 3 to the roll.",
+          "Finnan: I'm just gonna… just… I'll try and remember this too, but to remind you, I have plus one to everything from Jack of All Trades, and expertise in history and persuasion, which I forgot about last session. Which is sometimes trickier to remember when it's not just plus 3 to everything. It's either plus 1, plus 3, or plus."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Kalima fears the crossing",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0654",
+        "endUid": "u0683"
+      },
+      "lines": [
+        "%% u0654:0-98 %%",
+        "DM: ((Previous crossing))Kalima's looking very nervous, and is, like, clinging to Justas.",
+        "",
+        "%% u0655:0-3 %%",
+        "((Carrying arrangements and positioning))",
+        "",
+        "%% u0656:0-51 %%",
+        "DM: Wait, we should go back, she says, this isn't safe.",
+        "",
+        "%% u0657:0-74, u0658:0-97, u0659:0-13, u0660:0-95 %%",
+        "Jrain: I… I'm getting that vibe from her, even though I don't speak her language. Given the difficult weather conditions, I'm not sure this is the time for unassisted athleticism. If I had the… If I used the capacity to levitate, would I be at any use in helping Kalima across? Would that.",
+        "",
+        "%% u0661:0-98, u0662:0-107, u0663:0-21 %%",
+        "((Carrying arrangements and positioning))",
+        "",
+        "%% u0664:0-98, u0665:0-99 %%",
+        "Jrain: But would I provide any… would my spell provide enough lift to help Kalima to be airborne as well? Like, if a Kenku was flying and I was levitating, could we sort of divide up her weight between us?",
+        "",
+        "%% u0666:0-37 %%",
+        "((Carrying arrangements and positioning))",
+        "",
+        "%% u0667:0-168 %%",
+        "DM: If they… if a Kenku was sort of holding half of her, and you were… like, two people could easily carry her in, like, a… one holding her shoulders, one holding her legs.",
+        "",
+        "%% u0668:0-106, u0669:0-5, u0670:0-7, u0671:0-33 %%",
+        "((Carrying arrangements and positioning))",
+        "",
+        "%% u0672:0-26, u0673:0-93 %%",
+        "Jrain: gonna… I'm gonna expend a, uses the power of my cloak to levitate to get across this, that way I can lend Kalima a hand.",
+        "",
+        "%% u0674:0-5, u0675:0-35, u0676:0-52, u0677:0-89, u0678:0-97 %%",
+        "((Carrying arrangements and positioning))",
+        "",
+        "%% u0679:0-53 %%",
+        "Ekko: We're going back, yeah, I can just fly-fly back over.",
+        "",
+        "%% u0680:0-10, u0681:0-16, u0682:0-16 %%",
+        "((Carrying arrangements and positioning))",
+        "",
+        "%% u0683:0-38 %%",
+        "DM: Now, everybody's across except Justas.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Eolo: Well, Eolo comes back over with a flap. Okay, who wants to ride over first? Finnan?",
+          "Finnan: Yeah? I'm gonna jump on your back. On, like, a piggyback ride.",
+          "Eolo: Hold on tight, we're gonna try the barrel roll. Just kidding.",
+          "DM: So the… the… the wind at this point has really… like, you hear, like, screech as the wind is, like, picking up strongly at this point. Like, there's, like, this… like, you… you could fly, but, like, you feel buffeted by the wind, right? Like, if you… you need to fly… like, if you tried to fly fast, it would… it would probably… be difficult, right? It's like flying, it's like the air is now difficult terrain, and the snow is… is definitely… is definitely swirling stronger. Like, the visibility's just… getting worse.",
+          "Eolo: How are we having an indoor storm here? This is very odd. So, Eolo flies Finnan across."
+        ],
+        "after": [
+          "Jrain: So now we all hold the rope. Justas tries for his leap, right? Before…",
+          "Finnan: Hmm.",
+          "Eolo: No, no, no.",
+          "Finnan: Have much here. Nobody's got, like…",
+          "Eolo: Well, this is…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The dead warrior’s home and death",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0853",
+        "endUid": "u0960"
+      },
+      "lines": [
+        "%% u0853:0-102 %%",
+        "Justas: I'll go over… wait, so there's a corpse that's been stuck in ice? That's been… Yeah. Swallowed by ice?",
+        "",
+        "%% u0854:0-56, u0855:0-171, u0856:0-28, u0857:0-37, u0858:0-179, u0859:0-4 %%",
+        "DM: Oh, no, well, it's hands and feet. It's like, it's like… spread-eagled against the wall, and its hands and feet have been swallowed by ice. It has… it's not skeletal, right? Like, it still has features. But it has… it has, like… It doesn't… it has, like, a, I don't want to say, like, a look of… terror on his face exactly, because he can't… it's a little bit rotted away, but, like, it doesn't… it's, like, mouth… it's like… it looks like something scared it before it died. Hey.",
+        "",
+        "%% u0860:0-43, u0861:0-17, u0862:0-8 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0863:0-15 %%",
+        "Eolo: creature is it?",
+        "",
+        "%% u0864:0-8 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0865:0-6 %%",
+        "DM: Human.",
+        "",
+        "%% u0866:0-5, u0867:0-16, u0868:0-40, u0869:0-75, u0870:0-13, u0871:0-37, u0872:0-28 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0873:0-73 %%",
+        "Finnan: And I will open a scroll, and I will read off the spell, Speak with Dead.",
+        "",
+        "%% u0874:0-40, u0875:0-5, u0876:0-16, u0877:0-85, u0878:0-26, u0879:0-21 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0880:0-34 %%",
+        "DM: Okay, it… it wakes up, Speak with…",
+        "",
+        "%% u0881:0-135, u0882:0-71, u0883:0-2, u0884:0-38, u0885:0-5, u0886:0-28, u0887:0-53 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0888:0-267, u0889:0-13, u0890:0-5, u0891:0-99, u0892:0-40 %%",
+        "DM: Oh, okay. Like, it… it… human. Yeah, yeah. It's where… I mean, it has… there's actually… there's some equipment around. It has, it looks like… he looks like he was a warrior. ((Equipment description))",
+        "",
+        "%% u0893:0-15, u0894:0-19, u0895:0-18, u0896:0-3, u0897:0-45, u0898:0-75, u0899:0-6, u0900:0-16, u0901:0-33 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0902:0-39, u0903:0-15, u0904:0-93, u0905:0-83 %%",
+        "Finnan: The first thing I will… I will ask him. I will… I will… begin speaking in Old Zimkovan, and see if it seems like he understands, but I'm prepared to… switch languages if necessary, although I don't have that many other great options.",
+        "",
+        "%% u0906:0-17 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0907:0-5, u0908:0-54 %%",
+        "Finnan: Okay. And the first thing I will ask is… 'Where are you from?'",
+        "",
+        "%% u0909:0-61, u0910:0-36, u0911:0-43, u0912:0-20, u0913:0-20, u0914:0-63, u0915:0-22, u0916:0-32 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0917:0-108, u0918:0-18 %%",
+        "DM: ((DM checks the name))Melusa.",
+        "",
+        "%% u0919:0-10, u0920:0-5 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0921:0-29 %%",
+        "DM: 'It's the only place,' he says.",
+        "",
+        "%% u0922:0-62 %%",
+        "Justas: Does that… sorry, does that name ring any bells? What is that?",
+        "",
+        "%% u0923:0-39 %%",
+        "DM: Melusa? I mean, it sounds Old Zimkovan.",
+        "",
+        "%% u0924:0-5 %%",
+        "((Spell discussion and question planning))",
+        "",
+        "%% u0925:0-5, u0926:0-13 %%",
+        "Jrain: Does… Kalima react?",
+        "",
+        "%% u0927:0-20, u0928:0-35, u0929:0-44, u0930:0-46, u0931:0-120, u0932:0-116 %%",
+        "DM: Yes, her eyes widen. She… she… She sort of clutches the, the token that Justas gave her, and sort of, steps… steps away from him a little bit, like… She seems a little nervous about the whole talking to the dead thing. Like, it's clearly not, like, magic she's used to. But she doesn't seem… she recognized… she clearly recognized the… the name Melusa, but none of you have heard of it.",
+        "",
+        "%% u0933:0-18, u0934:0-36 %%",
+        "Finnan: Where did you die? Or how did you die? How did you die?",
+        "",
+        "%% u0935:0-8, u0936:0-5, u0937:0-10, u0938:0-9, u0939:0-11, u0940:0-32, u0941:0-9, u0942:0-19 %%",
+        "DM: He says, fair… the… good… the wind… came alive. I couldn't… find my way through. I failed. It's, it was sharp.",
+        "",
+        "%% u0943:0-46 %%",
+        "DM: Just like you'd think Zeyfa's minion would be.",
+        "",
+        "%% u0944:0-18 %%",
+        "Ekko: Who's Zeyfa again?",
+        "",
+        "%% u0945:0-106, u0946:0-35, u0947:0-39, u0948:0-32 %%",
+        "DM: Zeyfa is… you're in Zeyfa's Labyrinth. Zeyfa is in the mythology of the Kestavo, the… the religion is the… the, spirit of the cruel west wind. and Zeyfa's children, are, like… cause… trouble and have to be placated.",
+        "",
+        "%% u0949:0-105, u0950:0-107, u0951:0-25, u0952:0-46, u0953:0-48, u0954:0-38 %%",
+        "((Planning the remaining questions))",
+        "",
+        "%% u0955:0-31, u0956:0-43, u0957:0-72, u0958:0-37, u0959:0-61, u0960:0-61 %%",
+        "Finnan: And I will also say the same to Kalima, trying to be reassuring and saying, 'It's okay. I have magic to get stories out of even people who have died.' Is there anything that we should ask this person that might help us find our way through the maze? Trying to be as calming as possible, but also telepathically.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Maybe a little bit down, but you don't… I mean, it's really… you're… it's hard to tell.",
+          "DM: And you go another, maybe… 30, 40 feet. And… you come out in a… small… chamber.",
+          "DM: Like… carved stone, free of ice, very, very… but very, very, very cold, like, almost… frozen. And it's… it's, like, it's… maybe… it's, like, 10, 15 feet across, maybe, and there's a stone… like… not really a bench, but, like, just, like, a flat spot on the wall, and there's a corpse, like, sitting on the flat spot, like, its arms, like, frozen into the… into the ice behind you, and its legs, like, frozen. Like, you can see, like, ice surrounding its… its hands and feet, basically, trapping it in place.",
+          "Jrain: Is there any other way out of this room, or did we…",
+          "DM: Sorry, it keeps… it keeps going. The passageway keeps… it, like, opens up a little bit, but the passageway keeps going on the other side."
+        ],
+        "after": [
+          "DM: Kalima… says to you telepathically, here, I'll actually tell you what she says. You're talking to everybody telepathically. Yep.",
+          "Justas: Everybody else answered Tim's question, I'm just typing. Yeah, just as the reply, I wonder if we don't want to know the way out as much as we want to know the way to the center? Or the way to find…",
+          "DM: You know, you…",
+          "Justas: whatever it is we need to kill before it will unlock the door out for us.",
+          "Finnan: Yeah, maybe, how do we get out? Hopefully covers that, but maybe we should be more specific."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The dead man knows no escape",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0999",
+        "endUid": "u1009"
+      },
+      "lines": [
+        "%% u0999:0-27, u1000:0-74, u1001:0-14, u1002:0-102, u1003:0-61 %%",
+        "Finnan: ((Question planning))How do we escape the labyrinth?",
+        "",
+        "%% u1004:0-12 %%",
+        "DM: I died here.",
+        "",
+        "%% u1005:0-16 %%",
+        "Finnan: He doesn't know.",
+        "",
+        "%% u1006:0-16, u1007:0-17, u1008:0-41, u1009:0-34 %%",
+        "DM: If I… if I knew… The wind took me. Stories do not come out of the labyrinth. No one escapes. It's not possible.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Death.",
+          "Jrain: If we don't run out questions.",
+          "Finnan: I'll wait to see what Kalima says. I will reply, I will send back to everybody in turn. Well, first I'll ask, why… Or, sorry. what was it just… that Justas suggested towards, how do we… who is…",
+          "Justas: How do we find… how do we find the minion? How do we… or how do we find the center?",
+          "Jrain: Beast."
+        ],
+        "after": [
+          "Finnan: So… How did… Why did he come in, possibly? Although, Kalima told us last time that people are… Every sunset or sunrise, people have to go in… appease… Zeyfa, so maybe that's not that useful.",
+          "Jrain: Yeah, probably just like, it was the day!",
+          "Finnan: I don't know.",
+          "Jrain: Of course. Or did he die the first time he saw the thing? Like, did he ever… gather any… was that thing the only thing that ever troubled him? Were there other things that he had survived first?",
+          "Finnan: Yeah, maybe."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Kalima describes Melusa and its lost gods",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1019",
+        "endUid": "u1079"
+      },
+      "lines": [
+        "%% u1019:0-41, u1020:0-51, u1021:0-12, u1022:0-28, u1023:0-26 %%",
+        "Finnan: I'll… I'll bounce back to Justas and say… Kalima is worried that his soul is cursed and lost. Do you know… I do not think he will know what happened to his soul.",
+        "",
+        "%% u1024:0-77, u1025:0-50, u1026:0-22, u1027:0-54 %%",
+        "Finnan: But… if you can still reach the Kestavo… perhaps there is a… ritual you can… I've seen you passing through the villages before. helping… people guide… helping the Kestavo guide people's souls beyond death.",
+        "",
+        "%% u1028:0-40, u1029:0-111, u1030:0-80 %%",
+        "Justas: Yeah, I'll… I'll ask her, Mike. Like, I… I want to try and figure out where he's from, because, like, I could use the big, sort of generic Kestavo, but… If I can figure out where in particular he was from, I'd know the local gods to…",
+        "",
+        "%% u1031:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1032:0-105 %%",
+        "Justas: to or ask for. So, can I talk with her and ask, where is this place? Like, describe the way to get there.",
+        "",
+        "%% u1033:0-2, u1034:0-3, u1035:0-18 %%",
+        "((Conversational interruption))",
+        "",
+        "%% u1036:0-35 %%",
+        "DM: You're asking Kalima how to get to…",
+        "",
+        "%% u1037:0-7 %%",
+        "Finnan: Melusa.",
+        "",
+        "%% u1038:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1039:0-76 %%",
+        "Justas: Or asking her if she can't do that, like, who are the Kestavo of that place?",
+        "",
+        "%% u1040:0-47, u1041:0-28 %%",
+        "DM: They're… she looks, I mean… 'They're lost to us. They're only stories for us.'",
+        "",
+        "%% u1042:0-23 %%",
+        "Justas: Because they're so old?",
+        "",
+        "%% u1043:0-45, u1044:0-7 %%",
+        "DM: Cuz… because Zeyfa doesn't… doesn't tolerate… others.",
+        "",
+        "%% u1045:0-19, u1046:0-38, u1047:0-4, u1048:0-14, u1049:0-9 %%",
+        "DM: There's only Zeyfa. None of the others can… there is only… And… pray to Zeyfa. I do not.",
+        "",
+        "%% u1050:0-39 %%",
+        "Finnan: Kalima ever tell us where she was from?",
+        "",
+        "%% u1051:0-74 %%",
+        "Justas: Yeah, I wanna try and, like, triangulate that by… Names, or landmarks, or…",
+        "",
+        "%% u1052:0-87 %%",
+        "Finnan: I'll ask her as well, where she is from.((Spell duration))",
+        "",
+        "%% u1053:0-20 %%",
+        "DM: I mean, she… Melusa.",
+        "",
+        "%% u1054:0-12 %%",
+        "Finnan: She is also…",
+        "",
+        "%% u1055:0-8 %%",
+        "DM: is only…",
+        "",
+        "%% u1056:0-7 %%",
+        "Finnan: Melusa.",
+        "",
+        "%% u1057:0-27, u1058:0-35, u1059:0-65, u1060:0-6, u1061:0-32, u1062:0-15, u1063:0-43 %%",
+        "DM: There are no other… I mean… She looks… she looks ne- like… she… You don't get the sense she's, like, knows of any other villages. Right. This is, like, the only village. She's a little… surprised that there's, like, other people.",
+        "",
+        "%% u1064:0-93, u1065:0-48, u1066:0-63 %%",
+        "Justas: Can she describe, like, what are the mountains that she sees from the village? Like, what is… Like, I think Justas knows enough of, like, the… What's be… what can you see when you look out from the village?",
+        "",
+        "%% u1067:0-25, u1068:0-19, u1069:0-24 %%",
+        "DM: The village… our village… It's… it's Zeyfa's. We… We see storms above.",
+        "",
+        "%% u1070:0-4 %%",
+        "((Conversational interruption))",
+        "",
+        "%% u1071:0-23, u1072:0-32, u1073:0-41, u1074:0-55 %%",
+        "DM: If you look out, it is… It is carved in the… in the ice, on the side of a gray cliff that goes up higher and higher beyond anything that anybody can see.",
+        "",
+        "%% u1075:0-52, u1076:0-46, u1077:0-47, u1078:0-45, u1079:0-46 %%",
+        "DM: A river comes crashing down off the cliff and pools, And… goes through the rip of the village, and… then, off the other side, down into the depths. We live… in a patch on the side of the cliff. Fish come in the river, and that's how we eat.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Finnan: So… How did… Why did he come in, possibly? Although, Kalima told us last time that people are… Every sunset or sunrise, people have to go in… appease… Zeyfa, so maybe that's not that useful.",
+          "Jrain: Yeah, probably just like, it was the day!",
+          "Finnan: I don't know.",
+          "Jrain: Of course. Or did he die the first time he saw the thing? Like, did he ever… gather any… was that thing the only thing that ever troubled him? Were there other things that he had survived first?",
+          "Finnan: Yeah, maybe."
+        ],
+        "after": [
+          "Finnan: Okay, while Justas is talking to Kalima, I am gonna ask my next question, which is going to be… you are… I will just ask, you are lost and… You are dead in Zeyfa's Labyrinth. Is there anything we can do to ease the journey of your soul?",
+          "DM: Huh. Zeyfa… I mean… I don't know what he'd…",
+          "Finnan: You told me to ask this, Mike, so there's.",
+          "DM: I know, I know, I know, I know, I know. I just… I'm struggling with the metaphysics a little bit.",
+          "DM: 'I feel trapped,' he says. 'I, I… I… the walls… of this place… It's like, as I wander, as I… as I… move, I am still in the maze. I can… it's like I can almost… see it. I… everywhere I go…' I mean, clearly he's… he… he seems almost like he's describing a ghost-type experience. 'I… I do not know how to get out.'"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "A trapped soul and a forced sacrifice",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1080",
+        "endUid": "u1117"
+      },
+      "lines": [
+        "%% u1080:0-95, u1081:0-57, u1082:0-21, u1083:0-61 %%",
+        "Finnan: ((Parallel conversation))I am gonna ask my next question, which is going to be… you are… I will just ask, you are lost and… You are dead in Zeyfa's Labyrinth. Is there anything we can do to ease the journey of your soul?",
+        "",
+        "%% u1084:0-4, u1085:0-6, u1086:0-31, u1087:0-42, u1088:0-97 %%",
+        "((Metaphysical table discussion))",
+        "",
+        "%% u1089:0-59, u1090:0-35, u1091:0-71, u1092:0-42, u1093:0-94 %%",
+        "DM: 'I feel trapped,' he says. 'I, I… I… the walls… of this place… It's like, as I wander, as I… as I… move, I am still in the maze. I can… it's like I can almost… see it. I… everywhere I go…' I mean, clearly he's… he… he seems almost like he's describing a ghost-type experience. 'I… I do not know how to get out.'",
+        "",
+        "%% u1094:0-11 %%",
+        "((Metaphysical table discussion))",
+        "",
+        "%% u1095:0-41 %%",
+        "DM: Maybe if you brought some token of mine…",
+        "",
+        "%% u1096:0-40, u1097:0-45, u1098:0-95, u1099:0-36, u1100:0-43, u1101:0-41, u1102:0-37, u1103:0-30 %%",
+        "Finnan: That's what I was suggesting, Ted. Well… Okay, I have one more question I'm gonna ask. ((Question planning))Why did you come into the lab?",
+        "",
+        "%% u1104:0-12 %%",
+        "Eolo: Makes sense.",
+        "",
+        "%% u1105:0-5 %%",
+        "Justas: Good.",
+        "",
+        "%% u1106:0-5 %%",
+        "Finnan: Okay.",
+        "",
+        "%% u1107:0-11, u1108:0-38, u1109:0-13, u1110:0-28, u1111:0-16 %%",
+        "DM: At sunrise, Zeyfa selects… or the village selects… a… sacrifice. It was my turn. My bad luck. I had no choice.",
+        "",
+        "%% u1112:0-4, u1113:0-5 %%",
+        "((Metaphysical table discussion))",
+        "",
+        "%% u1114:0-108, u1115:0-98, u1116:0-18, u1117:0-42 %%",
+        "Finnan: The body deanimates, his voice goes away.((Looting instructions))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Justas: Can she describe, like, what are the mountains that she sees from the village? Like, what is… Like, I think Justas knows enough of, like, the… What's be… what can you see when you look out from the village?",
+          "DM: The village… our village… It's… it's Zeyfa's. We… We see storms above.",
+          "Justas: Yay.",
+          "DM: If you look out, it is… It is carved in the… in the ice, on the side of a gray cliff that goes up higher and higher beyond anything that anybody can see.",
+          "DM: A river comes crashing down off the cliff and pools, And… goes through the rip of the village, and… then, off the other side, down into the depths. We live… in a patch on the side of the cliff. Fish come in the river, and that's how we eat."
+        ],
+        "after": [
+          "Finnan: And while they do that, I am going to use all 3 charges of my Memory of the Ancestors.",
+          "DM: Okay. To roll a 20 on a history check.",
+          "Finnan: For which I have plus 8, so that's a total of a 28. To search the memory of the halflings… to… who traveled extensively throughout the Western Green Sea prior to the Downfall. Any recollection in my ancestral mind of the halflings of the place, Melusa, or any word that might conceivably be… Melusa could have turned into from the sort of ancient village.",
+          "DM: Go ahead, Chris.",
+          "Justas: I was gonna say, it sounds like… a village in the chasm, right? That the West Wind has captured or controlled."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Finnan remembers Melua’s waterfall shrine",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1132",
+        "endUid": "u1159"
+      },
+      "lines": [
+        "%% u1132:0-4, u1133:0-19, u1134:0-62, u1135:0-3, u1136:0-22 %%",
+        "DM: You… Search your memory. There's… I mean, halflings have traveled up and down the Teft, in… there used to be… yes.",
+        "",
+        "%% u1137:0-41, u1138:0-55, u1139:0-33, u1140:0-144, u1141:0-3, u1142:0-38 %%",
+        "DM: There used to be a, long ago, stories of, cluster, I mean, there was a… there was a… there was a, there was a particularly notable, ancient… well, at the time, it wasn't ancient, but a particularly notable, shrine to a… to a Kestavo, that was the Kestavo of a… of a waterfall, in… on the Teft, right? On the upper Teft.",
+        "",
+        "%% u1143:0-196, u1144:0-66, u1145:0-20 %%",
+        "DM: One of the many Kestavo who vanished during the down… or who, as far as anybody knows, vanished during the… during the sort of period of… of disruption between the ancient, ancient days and the, and… post-Downfall, when it was sort of more established, who was… was cut… this… this…",
+        "",
+        "%% u1146:0-116, u1147:0-22, u1148:0-106 %%",
+        "DM: Kestavo was called Melua, which sounds like… I don't know, maybe I'm making this up… it would be a word that would… that would clearly be… related to Melusa, and possibly, like, Melusa probably means the village of Melua, or something like that.",
+        "",
+        "%% u1149:0-6 %%",
+        "Finnan: Right.",
+        "",
+        "%% u1150:0-46 %%",
+        "DM: I mean, this is not a place that still exists.",
+        "",
+        "%% u1151:0-9 %%",
+        "Finnan: Are they…",
+        "",
+        "%% u1152:0-6 %%",
+        "DM: Is it?",
+        "",
+        "%% u1153:0-76, u1154:0-32, u1155:0-33 %%",
+        "Finnan: As far as my… as far as the memory of the ancestors is concerned, this is a… memory of a village on the Teft, in the upper Teft, so presumably…",
+        "",
+        "%% u1156:0-85, u1157:0-45 %%",
+        "DM: Before the Great Chasm existed. Yeah, the memory, correct. The memory is only of the… This pilgrimage is to this notable waterfall.",
+        "",
+        "%% u1158:0-5 %%",
+        "Finnan: Okay.",
+        "",
+        "%% u1159:0-161 %%",
+        "DM: Right? But you presumed there was a village there, right? The name… the linguistic pattern would… I mean, there would be a village, it would make sense from the…",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Go ahead, Chris.",
+          "Justas: I was gonna say, it sounds like… a village in the chasm, right? That the West Wind has captured or controlled.",
+          "Finnan: But I think it came… I don't think it originated in the chasm.",
+          "Justas: Oh, that it was something before that. Got it, got it.",
+          "Eolo: Oh. Weird."
+        ],
+        "after": [
+          "Finnan: So, I will tell everybody then… that… there… I will tell everybody this, and, you know, put it to a story, basically, that there used to be… Melusa, this place that they describe, is a… It was probably the village of a particular Kestavo that was… associated with a waterfall in the Teft that I think… comes from before the Great Chasm, and I'll give Ekko a little nudge and wake him up, and say, Do you… do you… are there any stories that they… that you've heard from the monastery, or the… I forget the name of your… the group you… Vejo Vaikai. The Vejo Vaikai, about how the Great Chasm formed?",
+          "Ekko: How it formed?",
+          "Finnan: Where did it come from?",
+          "Ekko: Good question. What's the, what's the canonical belief amongst the Mezhai?",
+          "DM: I think… I think it's almost… like… People don't really… It's too mysterious, like, it's not really… There's so many stories, it's like nobody is really… there's not really a canonical, like… like, a lot of people think it's been there forever, right? It came with Taelgar, right? Like, where did anything come from? Right? Some people will say it's the oldest thing there is, right? It came from wherever… where did the mountains come from? Where did the rivers come from, right? Like, it's just been here forever. Other people think it's, like,"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The Vejo Vaikai and the Chasm’s origins",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1160",
+        "endUid": "u1192"
+      },
+      "lines": [
+        "%% u1160:0-37, u1161:0-34, u1162:0-68, u1163:0-44, u1164:0-61, u1165:0-53, u1166:0-69, u1167:0-25, u1168:0-121, u1169:0-78 %%",
+        "Finnan: ((Previous Melua discussion))and I'll give Ekko a little nudge and wake him up, and say, Do you… do you… are there any stories that they… that you've heard from the monastery, or the… I forget the name of your… the group you… Vejo Vaikai. The Vejo Vaikai, about how the Great Chasm formed?",
+        "",
+        "%% u1170:0-14 %%",
+        "Ekko: How it formed?",
+        "",
+        "%% u1171:0-23 %%",
+        "Finnan: Where did it come from?",
+        "",
+        "%% u1172:0-74 %%",
+        "Ekko: Good question. What's the, what's the canonical belief amongst the Mezhai?",
+        "",
+        "%% u1173:0-56, u1174:0-43, u1175:0-52, u1176:0-162, u1177:0-229 %%",
+        "DM: I think… I think it's almost… like… People don't really… It's too mysterious, like, it's not really… There's so many stories, it's like nobody is really… there's not really a canonical, like… like, a lot of people think it's been there forever, right? It came with Taelgar, right? Like, where did anything come from? Right? Some people will say it's the oldest thing there is, right? It came from wherever… where did the mountains come from? Where did the rivers come from, right? Like, it's just been here forever. Other people think it's, like,",
+        "",
+        "%% u1178:0-179, u1179:0-70 %%",
+        "DM: I mean, the Vejo Vaikai, like, a lot of people think it's… it's like a curse, like a wound, like a… like a bad place, right? The Vejo Vaikai are all about, no, that's wrong. It's, you know, it's… it's a… it's a place of… of… balance and… and sort of…",
+        "",
+        "%% u1180:0-10 %%",
+        "Ekko: Elemental.",
+        "",
+        "%% u1181:0-73, u1182:0-183, u1183:0-77, u1184:0-145, u1185:0-157 %%",
+        "DM: mysticism, right? And elemental, there's, like, a strong… I mean, there's there's a lot of people who think that there's portals to various, you know, elemental vortexes in the chasm, and you can get to other planes. The Vejo Vaikai sometimes have to, like… Weird scholars come from somewhere far away, like, 'We're investigating, like… how you travel to other planes,' ((Cross-campaign speculation))",
+        "",
+        "%% u1186:0-121 %%",
+        "((Cross-campaign joke))",
+        "",
+        "%% u1187:0-54, u1188:0-80 %%",
+        "DM: So… so the, like, the stories are kind of… there's no… There's no tales amongst the Vejo Vaikai that it was created in some particular…",
+        "",
+        "%% u1189:0-6 %%",
+        "Finnan: Right.",
+        "",
+        "%% u1190:0-23 %%",
+        "DM: from a particular time.",
+        "",
+        "%% u1191:0-60, u1192:0-80 %%",
+        "DM: Like, the idea of before the chasm is actually a little bit… would be a little bit surprising. I mean, obviously there could… it's plausible.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Is it?",
+          "Finnan: As far as my… as far as the memory of the ancestors is concerned, this is a… memory of a village on the Teft, in the upper Teft, so presumably…",
+          "DM: Before the Great Chasm existed. Yeah, the memory, correct. The memory is only of the… This pilgrimage is to this notable waterfall.",
+          "Finnan: Okay.",
+          "DM: Right? But you presumed there was a village there, right? The name… the linguistic pattern would… I mean, there would be a village, it would make sense from the…"
+        ],
+        "after": [
+          "Finnan: So… So I think we should keep moving, because it's getting cold, but… Did anybody search the body while I was doing all this?",
+          "DM: Sure.",
+          "Jrain: Yeah.",
+          "Ekko: Let's search the body.",
+          "DM: I mean, you find, like I said before, there's two daggers, there's about… 20 arrows. A bow, although the bow's not in good shape. Armor, leather armor, a helmet, a battered shield, none of those are in very good shape. Ayy… but the daggers and the arrows certainly are. Two torches."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Justas takes the dead man’s ring",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1209",
+        "endUid": "u1216"
+      },
+      "lines": [
+        "%% u1209:0-17, u1210:0-31, u1211:0-85, u1212:0-13, u1213:0-81, u1214:0-16, u1215:0-26 %%",
+        "DM: And there's also… the only… the only interesting… other item is there's not hard to find. He's wearing a necklace, with, like, a small… like, a ring, like, a silver ring. Nothing… no carvings on it, just, like, a plain silver ring around his neck, like, like a… just a band.",
+        "",
+        "%% u1216:0-15 %%",
+        "Justas: I'll take that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Jrain: Yeah.",
+          "Ekko: Let's search the body.",
+          "DM: I mean, you find, like I said before, there's two daggers, there's about… 20 arrows. A bow, although the bow's not in good shape. Armor, leather armor, a helmet, a battered shield, none of those are in very good shape. Ayy… but the daggers and the arrows certainly are. Two torches.",
+          "DM: A backpack that would… that looks like maybe it used to have some… rations or something, but it's all moldy and… you know, it's… Mostly things are pretty well preserved, because it's cold, but the… the rations don't seem to have… stayed good.",
+          "Finnan: I'm taking the two torches."
+        ],
+        "after": [
+          "Finnan: Anybody want the daggers, or the… I assume… Jrain is taking the… Jrain is taking the arrows.",
+          "Jrain: I would like the arrows.",
+          "Eolo: I'll take the daggers.",
+          "DM: Okay?",
+          "Finnan: So let's continue… down this passageway."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The source gives the owner only as “he”; adjacent context establishes the dead man, while the ring’s possible soul-token purpose remains unstated."
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Kalima is dropped and healed",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1313",
+        "endUid": "u1405"
+      },
+      "lines": [
+        "%% u1313:0-112, u1314:0-57 %%",
+        "Finnan: I will ask the two Kenku if they can pick up and fly with Kalima, because I'm worried what happens if she slips. And the two of them together should be able to carry her.",
+        "",
+        "%% u1315:0-34, u1316:0-207, u1317:0-24, u1318:0-41, u1319:0-75, u1320:0-95, u1321:0-33, u1322:0-37, u1323:0-50, u1324:0-19, u1325:0-36, u1326:0-14, u1327:0-96, u1328:0-64, u1329:0-52, u1330:0-65, u1331:0-7, u1332:0-7, u1333:0-34, u1334:0-24, u1335:0-12, u1336:0-81, u1337:0-58, u1338:0-17, u1339:0-14, u1340:0-16, u1341:0-57, u1342:0-27, u1343:0-11, u1344:0-16, u1345:0-42, u1346:0-30, u1347:0-40, u1348:0-10, u1349:0-42, u1350:0-33, u1351:0-5 %%",
+        "((Crossing checks and positioning))",
+        "",
+        "%% u1352:0-28, u1353:0-76, u1354:0-73, u1355:0-27, u1356:0-4, u1357:0-52, u1358:0-87 %%",
+        "DM: You probably dropped Kalima. As the wind… you're carrying her together, the two of you, as the wind hits, Ekko is just blown, just completely loses control and is blown backwards. Kalima falls to the ground. And… hits badly. She crawls, I mean, she's past the boom, but is lying, sort of whimpering on the ground, looking at the Kenku in a fresh terror.",
+        "",
+        "%% u1359:0-57 %%",
+        "Jrain: I can see her, because she's come through, past the boom.",
+        "",
+        "%% u1360:0-31, u1361:0-91 %%",
+        "((Crossing checks and positioning))",
+        "",
+        "%% u1362:0-17, u1363:0-8, u1364:0-4 %%",
+        "Jrain: Alright, I go to… Kalima's aid.",
+        "",
+        "%% u1365:0-26, u1366:0-17, u1367:0-3, u1368:0-12, u1369:0-7, u1370:0-28, u1371:0-29, u1372:0-9 %%",
+        "((Crossing checks and positioning))",
+        "",
+        "%% u1373:0-15, u1374:0-17 %%",
+        "Justas: Is she injured? Or just… bruised.",
+        "",
+        "%% u1375:0-76 %%",
+        "Jrain: I'm seeking a more expert opinion than my own while I provide moral support.",
+        "",
+        "%% u1376:0-17 %%",
+        "Finnan: I'll look at her.",
+        "",
+        "%% u1377:0-3 %%",
+        "((Crossing checks and positioning))",
+        "",
+        "%% u1378:0-199 %%",
+        "DM: ((Damage mechanics))I mean, she's okay, she's not dead, or she's not dying or anything, but she, like, badly bruised a rib… she probably has a cracked rib or something like that. She… she looks in pain.",
+        "",
+        "%% u1379:0-76 %%",
+        "Justas: I'll, I'll tell her, I'll… I'll heal you when I get to the other side there.",
+        "",
+        "%% u1380:0-32 %%",
+        "DM: Okay, that calms her down a bit.",
+        "",
+        "%% u1381:0-14, u1382:0-26, u1383:0-36, u1384:0-17, u1385:0-52, u1386:0-15, u1387:0-85, u1388:0-45, u1389:0-29, u1389:29-135, u1390:0-20, u1391:0-30, u1392:0-112, u1393:0-41, u1394:0-28, u1395:0-24, u1396:0-74, u1397:0-16, u1398:0-4, u1399:0-26 %%",
+        "((Crossing checks and positioning))",
+        "",
+        "%% u1400:0-33 %%",
+        "Justas: Oh, I'll cure wounds her, though.",
+        "",
+        "%% u1401:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1402:0-8, u1403:0-19 %%",
+        "((Crossing checks and positioning))",
+        "",
+        "%% u1404:0-21, u1405:0-4 %%",
+        "DM: Yeah, yeah, yep, yep. Yep.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Make a dex check.",
+          "Jrain: Remember, this whole difficult terrain thing I have some assistance with.",
+          "DM: But, yes. Oh, yes, you do. You don't… okay, next check.",
+          "Jrain: Okay.",
+          "DM: You, you, you're, you can, like, as you, your, your feet are just only lightly touching that on the ice, you're fine."
+        ],
+        "after": [
+          "DM: As you go down the corridor, it actually… you see it branches into… it, like… it… it comes to a stop in, like, an ice, like… snow. You're back on snow now instead of stone. And there's, like, seven passageways, like, all sort of only two and a half feet wide, leading out of this snowy… kind of, again, like, another finger. Two of them are, like… But with some coming back, sort of almost going back the way you came. It looks much more twisty all of a sudden.",
+          "Jrain: The right!",
+          "Justas: Yep, rightmost. That's…",
+          "Finnan: Yeah, I mean…",
+          "DM: You take the rightmost, and you go, and it's… and it's… It's turning, and you come out into another room. It kind of curves, and you curve for a few minutes. You come out into… A room? Looks maybe similar? But there's only 5 passages out."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Justas carries Kalima past the wind",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1589",
+        "endUid": "u1611"
+      },
+      "lines": [
+        "%% u1589:0-64, u1590:0-57, u1591:0-53, u1592:0-55 %%",
+        "Finnan: ((Route discussion))Justas, maybe you want to carry… I don't think… yeah. I don't think Kalima's gonna trust the Kenku again, so…",
+        "",
+        "%% u1593:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u1594:0-31 %%",
+        "Justas: No, we'll… we'll power through.",
+        "",
+        "%% u1595:0-5, u1596:0-48, u1597:0-8, u1598:0-5, u1599:0-23, u1600:0-76, u1601:0-31, u1602:0-4, u1603:0-51, u1604:0-3, u1605:0-12, u1606:0-50 %%",
+        "((Others cross and checks resolve))",
+        "",
+        "%% u1607:0-29, u1608:0-49 %%",
+        "Justas: Thank you, I appreciate that. I'll go through again also with Kalima this time.",
+        "",
+        "%% u1609:0-48, u1610:0-19 %%",
+        "((Others cross and checks resolve))",
+        "",
+        "%% u1611:0-19 %%",
+        "DM: That's good enough.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And as you come out into this other corridor, the… the wind's kinda… calms down a little bit. Like, it's not at all calm. But you… you, get… you sort of… It, it, it, all of a sudden, you could see for… for… 15 feet instead of… or 20 feet instead of 10 feet, right? Like, as you… as you come out into this… sort of wide, icy corridor, but…",
+          "Finnan: Do we still see the booming? Hear the… in front of us?",
+          "DM: The booming… is… Still in front of… yes, it is up ahead. You can hear it up ahead.",
+          "Finnan: So, maybe that was all just a dead end? And I'll say…",
+          "Justas: Well, now we know it."
+        ],
+        "after": [
+          "Justas: Darn…",
+          "Finnan: You still have Bardic if you need it.",
+          "DM: As you walk ahead, you… So you cross… you come back out, wow. You think you should come back out into a… into a corner with another passage across, but you actually come to a… to a… circular room, with… Like, a circular, very snowy room with one way out on each of, like… one directly across, one to the left, one to the right.",
+          "Jrain: Like, cardinal points-like spacing?",
+          "DM: Yep."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Kalima accepts rescue and a hiding place",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1794",
+        "endUid": "u1904"
+      },
+      "lines": [
+        "%% u1794:0-83 %%",
+        "Justas: Smash my axe into the nearest ice wall and grabbed the old lady with the other arm.",
+        "",
+        "%% u1795:0-46, u1796:0-6, u1797:0-21, u1798:0-11, u1799:0-86, u1800:0-108, u1801:0-53, u1802:0-40, u1803:0-15, u1804:0-12, u1805:0-16, u1806:0-40, u1807:0-26, u1808:0-46, u1809:0-11, u1810:0-22 %%",
+        "((Descent checks))",
+        "",
+        "%% u1811:0-152, u1812:0-22, u1813:0-99, u1814:0-78 %%",
+        "DM: So, thinking of Finnan's stories of heroic conquest, you're like, nope, I can do this, and you get your axe into the ice, and you're hanging 17 feet up, holding on to… Kalima, with one arm, and… your axe with the other arm.((Estimated holding limit))",
+        "",
+        "%% u1815:0-47, u1816:0-145, u1817:0-11, u1818:0-40, u1819:0-27, u1820:0-82, u1821:0-82, u1822:0-75, u1823:0-22, u1824:0-55, u1825:0-4, u1826:0-20, u1827:0-3, u1828:0-28, u1829:0-18, u1830:0-4, u1831:0-68, u1832:0-61, u1833:0-27, u1834:0-134, u1835:0-8, u1836:0-58, u1837:0-12, u1838:0-109, u1839:0-49, u1840:0-86, u1841:0-9, u1842:0-21, u1843:0-59, u1844:0-28, u1845:0-14, u1846:0-19, u1847:0-23, u1848:0-4, u1849:0-10, u1850:0-3, u1851:0-4, u1852:0-10, u1853:0-26, u1854:0-82, u1855:0-39, u1856:0-12, u1857:0-86, u1858:0-119, u1859:0-39, u1860:0-18, u1861:0-16, u1862:0-10, u1863:0-30, u1864:0-3 %%",
+        "((Other party members descend))",
+        "",
+        "%% u1865:0-35 %%",
+        "Finnan: and maybe Ekko can pick up… Kalima?",
+        "",
+        "%% u1866:0-31 %%",
+        "DM: Yeah, you could pick up Kalima.",
+        "",
+        "%% u1867:0-25 %%",
+        "Justas: Grab her, I'll call over.",
+        "",
+        "%% u1868:0-18 %%",
+        "Ekko: Over and grab her.",
+        "",
+        "%% u1869:0-55, u1870:0-25, u1871:0-8, u1872:0-24 %%",
+        "DM: She- she looks really, like, she looks at Justas, like… Looks at… looks at, Ekko. Is this… He dropped me last time.",
+        "",
+        "%% u1873:0-44, u1874:0-53, u1875:0-46, u1876:0-68, u1877:0-44 %%",
+        "((Retracted joke and language aside))",
+        "",
+        "%% u1878:0-89 %%",
+        "Finnan: Believe it or not, I've been in this situation before, and this is… you're in good hands.",
+        "",
+        "%% u1879:0-32, u1880:0-51 %%",
+        "DM: Okay, she kind of looks over to… to Ekko, and it seems willing to be carried by you.",
+        "",
+        "%% u1881:0-18, u1882:0-32 %%",
+        "DM: But actually, she… as she kind of looks down again,",
+        "",
+        "%% u1883:0-2 %%",
+        "((Unclear interruption))",
+        "",
+        "%% u1884:0-53, u1885:0-41 %%",
+        "DM: kind of tries to almost… she's like… scrambling away, from…((Audio issue))",
+        "",
+        "%% u1886:0-33, u1887:0-34, u1888:0-20 %%",
+        "DM: She's scrambling away from, from… from the room, almost. She's like… 'It's here somewhere.'",
+        "",
+        "%% u1889:0-8 %%",
+        "Justas: What is?",
+        "",
+        "%% u1890:0-8, u1891:0-5 %%",
+        "DM: A beast. Hide!",
+        "",
+        "%% u1892:0-14 %%",
+        "Justas: Good! Finally.",
+        "",
+        "%% u1893:0-20 %%",
+        "DM: I can't go in there.",
+        "",
+        "%% u1894:0-30 %%",
+        "Justas: Do we have any other… Options?",
+        "",
+        "%% u1895:0-77, u1896:0-23 %%",
+        "Jrain: She can hide. We didn't bring her along so she could join in the big battles.((Audio issue))",
+        "",
+        "%% u1897:0-90 %%",
+        "Finnan: I will use Minor Illusion to extend the ice wall by 5 feet, right in… right below… Justas.",
+        "",
+        "%% u1898:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1899:0-20, u1900:0-33 %%",
+        "Finnan: Telepathically tell… yeah, yeah. Kalima to hide there.",
+        "",
+        "%% u1901:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1902:0-99 %%",
+        "((Illusion duration))",
+        "",
+        "%% u1903:0-52, u1904:0-45 %%",
+        "DM: She'll hide behind the ice wall. She'll accept that.((Next descent))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Ekko: You can see… The Wizard of Oz.",
+          "DM: You can… so, you can see, like…",
+          "Finnan: see, like…",
+          "DM: the… The walls near to you are, like, sheer ice. The floor is, like… black stone. There's… some scattered rocks in the distance, you can't quite… see past them, but there's clearly, like, a boulder fall a little bit away. And now you're falling, you have, like, one second to do something.",
+          "Ekko: Flap my wings. Sorry, not falling. Fly."
+        ],
+        "after": [
+          "Justas: Yeah, I think when Justas hears… Tim, you're echoing again… I think when Justas hears that the, the beast is in this space, he smiles broadly, and just jiggles his wall, his axe out of the wall, and drops to the ground, ready for a fight.",
+          "DM: Ica… like, let's see, you're dropping… I guess you're only dropping about 10 feet? Make a dex check. DEX save.",
+          "Justas: A DEX save. What if instead I use my great strength and make a strength save?",
+          "DM: No, this is a DEX save. It's okay, if you fail, you only take 3 points of damage. If you succeed, you take none, so it's not high stakes.",
+          "Justas: Yeah, I rolled a 3, so…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The beast appears before the session ends",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1923",
+        "endUid": "u1945"
+      },
+      "lines": [
+        "%% u1923:0-98 %%",
+        "Justas: Justas will smash his battleaxe against his shield as loudly as he can, and bellow, 'Show yourself!'",
+        "",
+        "%% u1924:0-22, u1925:0-24 %%",
+        "DM: Okay, you hear a roar?((Session ending))",
+        "",
+        "%% u1926:0-10, u1927:0-19 %%",
+        "((Session-end discussion))",
+        "",
+        "%% u1928:0-66, u1929:0-9, u1930:0-73, u1931:0-43, u1932:0-47, u1933:0-77, u1934:0-34, u1935:0-20, u1936:0-4 %%",
+        "DM: ((Cliffhanger setup))You hear… a roar of some sort of creature, and you see a… emerging from behind the, rock. You see about a… 10 foot tall, white, shaggy beast with these, like, dark… red eyes. And as it sort of emerges from behind the wall, it… It shouts in, like, this… hideous yell, like, of just… pain, and, kind of, anger. And…",
+        "",
+        "%% u1937:0-32, u1938:0-4, u1939:0-2, u1940:0-70, u1941:0-82, u1942:0-85 %%",
+        "DM: I don't know where everybody is. But… a… creature starts to form out of the black, like, out of the… like, the… Those of you who are standing near the wall, a creature starts to form out of the, like, starts to emerge out of the wall, similar, like, looking similar to the… to it.",
+        "",
+        "%% u1943:0-160, u1944:0-131, u1945:0-68 %%",
+        "DM: ((Repeated appearance and next-session setup))there are creep… there are these… these sort of, shadowy beast creatures forming out of ice, one next to each of you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: No, this is a DEX save. It's okay, if you fail, you only take 3 points of damage. If you succeed, you take none, so it's not high stakes.",
+          "Justas: Yeah, I rolled a 3, so…",
+          "DM: He'll take the 3 points of damage. You'll land a little awkwardly. Bruise something or other.",
+          "Justas: Says Justas, 'That's what happened last time, too.'",
+          "DM: So you're in this room. There's some rocks over on the far side that you can't see through. Otherwise, the floor is… black stone of some kind. And the… the… it's a circular, so you can see, like, the half… the sort of half circle."
+        ],
+        "after": [
+          "Finnan: Okay, just random question before we end, so… If we fight this creature, does it count as a beast you have hunted? The reason I've been saving my charges on my magic item is I want to use all 5 charges to learn 3 true facts about Zeyfa's minion.",
+          "DM: Yeah, yeah, yeah, yeah.",
+          "Finnan: If it counts as a beast. The magic item just says, 'A beast you have hunted or fed.' I assume fighting counts as hunted, but…",
+          "DM: I didn't like how this…",
+          "Eolo: Maybe we should feed it."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The beast appears with similar ice forms, but the source ends before the party can react or establish their relationship."
+      }
+    }
+  ]
+}

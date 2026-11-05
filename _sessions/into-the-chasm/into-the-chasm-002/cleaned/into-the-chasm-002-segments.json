@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-002",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+    "sessionYamlSha256": "f2ffcf05a3fd3010ce7a1ee4128da80b9b795fb8178b4597655fd266af6afb3f",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-transcript.md",
+    "transcriptSha256": "cf11e97e7d36f726ce088f3b7a8330fcf9d2d0434dd8a32e66bb506fbe260ce5"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0024"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u1760"
+      },
+      "category": "gameplay",
+      "note": "Environmental hazards and evasions never establish initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1761",
+        "endUid": "u1770"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1771",
+        "endUid": "u1959"
+      },
+      "category": "gameplay",
+      "note": "The cliffhanger reveals the beast and forming copies; the DM explicitly defers initiative until next session (u1943–u1945)."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1960",
+        "endUid": "u1965"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
