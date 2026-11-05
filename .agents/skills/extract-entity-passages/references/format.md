@@ -52,8 +52,7 @@ contributions were entirely cut or inflate retained context to justify a listing
 `lines` joins with `"\n"` to produce Markdown. Entries may be empty strings, but
 may not contain embedded LF/CR characters; the collection must contain nonblank
 text. Preserve original speaker labels, wording, punctuation, uncertainty, and
-source comments. Whole-turn cuts retain all omitted turns' original span entries
-in order with their `((short description))` marker. Retain necessary attribution
+source comments. Combine consecutive omitted turns into one source comment containing every original span in order, followed by one `((short description))` for the run. Retained speech separates cuts. The validator flags adjacent identical whole-turn cut labels. Retain necessary attribution
 and reported/recap/speculative framing in the original text; there is no separate
 `framing` field. A source range never authorizes silently joining distinct accounts.
 

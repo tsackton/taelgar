@@ -316,8 +316,7 @@ remain separate. Overlap is allowed when distinct exchanges need common context,
 but avoid redundant overlapping extracts of the same exchange.
 
 Store original Markdown as `lines`, one physical line per array entry, including
-blank lines and original UID/offset comments. Whole-turn snips retain the omitted
-turns' source spans in order beside their cut label. Join with `"\n"` for display;
+blank lines and original UID/offset comments. Combine a continuous run of omitted turns under one visible cut label. Put every omitted UID/offset span, in order, into its single source comment. Retained speech separates cuts. Join with `"\n"` for display;
 do not embed newlines inside an entry or rewrap original retained prose. Outer
 source ranges respect whole turns and shared UIDs; offsets still refer to cleaned
 source. The title is the only content summary. There is no `framing`, separate

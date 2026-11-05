@@ -136,6 +136,20 @@ class InteractionTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, 'source spans differ'):
             self.validate()
 
+    def test_continuous_cut_preserves_all_spans_under_one_label(self):
+        row = self.document['interactions'][0]
+        blocks = self.fixture.bundle['turns'][1:4]
+        comments = [turn['raw'].splitlines()[0] for turn in blocks]
+        label = '((The battle))'
+        row['lines'] = [comments[0], label, comments[1], label, comments[2], label]
+        with self.assertRaisesRegex(ValueError, 'combine adjacent identical cut labels'):
+            self.validate()
+        spans = ', '.join(comment[3:-3] for comment in comments)
+        row['lines'] = [f'%% {spans} %%', label]
+        self.validate()
+        row['lines'] = [comments[0], label, *blocks[1]['raw'].splitlines(), comments[2], label]
+        self.validate()
+
     def test_duplicate_interactions_and_source_order(self):
         self.document['interactions'] *= 2
         with self.assertRaisesRegex(ValueError, 'Duplicate interaction'):
